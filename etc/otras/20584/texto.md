@@ -118,9 +118,9 @@ c) En la posterior asignación prioritaria para la realización de exámenes o p
 
 El prestador de acciones de salud deberá consignar con caracteres legibles, en un lugar visible y de fácil acceso del recinto en que se desempeña, el texto de este derecho a la atención preferente y oportuna.
 
-#### Artículo 5° quáter
+#### Artículo 5° quater
 
-Para efectos de lo dispuesto en esta ley, se entenderá por cuidador o cuidadora a toda persona que, de forma gratuita o remunerada, proporcione asistencia o cuidado, temporal o permanente, para la realización de actividades de la vida diaria, a personas con discapacidad o dependencia, estén o no unidas por vínculos de parentesco.
+El cuidador o la cuidadora puede ejercer su trabajo de forma remunerada o no remunerada, conforme a lo dispuesto en los números 9 y 10 del artículo 2 de la ley que reconoce el derecho al cuidado y crea el Sistema Nacional de Apoyos y Cuidados.
 
 ### Párrafo 4º
 

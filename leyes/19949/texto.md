@@ -48,7 +48,7 @@ Créase un registro de información social, diseñado, implementado y administra
 
 El registro contendrá los datos de las familias e individuos que actual o potencialmente sean beneficiarios de prestaciones y programas públicos, de los beneficios que obtengan de los mismos, los montos que perciban por estos conceptos, las causales por las cuales tengan la calidad de beneficiarios y de sus condiciones socioeconómicas, de acuerdo a la información de que disponga MIDEPLAN y de la que a su requerimiento le deberán proporcionar las demás entidades públicas y las que administren prestaciones sociales creadas por ley.
 
-La información contenida en este registro estará disponible para las municipalidades, en lo correspondiente a los datos relativos a la respectiva comuna, y para las instituciones que administren programas o prestaciones sociales, para fines de la administración de los mismos.
+La información contenida en este registro estará disponible para las municipalidades, en lo correspondiente a los datos relativos a la respectiva comuna, para las instituciones que administren programas o prestaciones sociales, o sean ejecutoras sin fines de lucro, para fines de la administración de los mismos.
 
 #### Artículo 7º
 

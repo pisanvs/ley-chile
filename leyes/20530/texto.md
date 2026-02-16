@@ -14,7 +14,7 @@ Objetivos, Funciones y Atribuciones
 
 #### Artículo 1°
 
-Créase el Ministerio de Desarrollo Social y Familia como la Secretaría de Estado encargada de colaborar con el Presidente de la República en el diseño y aplicación de políticas, planes, y programas en materia de equidad y/o desarrollo social, especialmente aquellas destinadas a erradicar la pobreza y brindar protección social a las personas, familias o grupos vulnerables en distintos momentos del ciclo vital, promoviendo la movilidad e integración social y la participación con igualdad de oportunidades en la vida nacional.
+Créase el Ministerio de Desarrollo Social y Familia como la Secretaría de Estado encargada de colaborar con el Presidente de la República en la planificación, el diseño y aplicación de políticas, planes, y programas en materia de equidad y/o desarrollo social, especialmente aquellas destinadas a erradicar la pobreza, proveer apoyos y cuidados y brindar protección social a las personas, familias o grupos vulnerables en distintos momentos del ciclo vital, promoviendo la movilidad e integración social y la participación con igualdad de oportunidades en la vida nacional.
 
 El Ministerio de Desarrollo Social y Familia colaborará también con el Presidente de la República en el diseño, implementación y coordinación de políticas, planes y programas destinados a brindar protección social a aquellas personas o grupos y familias que, sin ser vulnerables, pueden verse enfrentados a contingencias o eventos adversos, que podrían conducirlos a una situación de vulnerabilidad. Dichas políticas, planes y programas propenderán a evitar que los destinatarios pasen a una condición de vulnerabilidad en los términos de esta ley.
 
@@ -62,7 +62,7 @@ a) Estudiar, diseñar y proponer al Presidente de la República las políticas, 
 
 b) Establecer, previa consulta al consejo de la sociedad civil de la ley N° 20.500 en la forma que establece dicha ley y aprobación del Comité Interministerial de Desarrollo Social y Familia a que se refiere el artículo 11, los criterios de evaluación para determinar, entre otros, la consistencia, coherencia y atingencia de los programas sociales nuevos o que planteen reformularse significativamente por los ministerios o servicios públicos, así como su coordinación y complementación con otros programas sociales en ejecución o que planteen implementarse.
 
-c) Evaluar y pronunciarse, mediante un informe de recomendación, sobre los programas sociales nuevos o que planteen reformularse significativamente, que sean propuestos por los ministerios o servicios públicos, de manera de lograr una coordinación en el diseño de las políticas sociales. El informe deberá contener una evaluación, entre otros, de la consistencia, coherencia y atingencia de tales programas sociales, y este análisis será un factor a considerar en la asignación de recursos en el proceso de formulación del proyecto de Ley de Presupuestos.
+c) Evaluar y pronunciarse, mediante un informe de recomendación, sobre los programas sociales y Sistemas de programas nuevos o que planteen reformularse significativamente, que sean propuestos por los ministerios o servicios públicos, de manera de lograr una coordinación en el diseño de las políticas sociales. El informe deberá contener una evaluación, entre otros, de la consistencia, coherencia y atingencia de tales programas sociales, y este análisis será un factor a considerar en la asignación de recursos en el proceso de formulación del proyecto de Ley de Presupuestos.
 
 Para dar cumplimiento a lo establecido en el inciso precedente, el Ministerio de Desarrollo Social y Familia deberá estudiar la realidad social, nacional y regional, velar por que el diseño del programa propuesto sea consistente con los objetivos planteados y revisar que los programas sociales en formación o los ya existentes sean complementarios y estén coordinados, de manera de evitar duplicidades o superposiciones.
 
@@ -72,7 +72,7 @@ El reglamento señalado en el inciso anterior contendrá también las normas a q
 
 Lo dispuesto en esta letra es sin perjuicio de la facultad de la Dirección de Presupuestos para solicitar al Ministerio de Desarrollo Social y Familia la elaboración de informes de recomendación respecto a programas no comprendidos en el numeral 2) del artículo 2° de esta ley.
 
-d) Colaborar con el seguimiento de la gestión e implementación de los programas sociales que estén siendo ejecutados por los servicios públicos relacionados o dependientes de éste y de otros ministerios, mediante la evaluación y pronunciamiento a través de un informe de seguimiento de, entre otros, su eficiencia, su eficacia y su focalización. Estos informes de seguimiento de ejecución de los programas sociales podrán ser considerados en la asignación de recursos en el proceso de formulación del proyecto de Ley de Presupuestos y deberán ser puestos a disposición del Comité Interministerial de Desarrollo Social y Familia.
+d) Colaborar con el seguimiento de la gestión e implementación de los programas sociales o Sistemas de programas que estén siendo ejecutados por los servicios públicos relacionados o dependientes de éste y de otros ministerios, mediante la evaluación y pronunciamiento a través de un informe de seguimiento de, entre otros, su eficiencia, su eficacia y su focalización. Estos informes de seguimiento de ejecución de los programas sociales podrán ser considerados en la asignación de recursos en el proceso de formulación del proyecto de Ley de Presupuestos y deberán ser puestos a disposición del Comité Interministerial de Desarrollo Social y Familia.
 
 Un reglamento expedido por el Ministerio de Desarrollo Social y Familia, y suscrito además por el Ministro de Hacienda, regulará dichos informes, determinando, entre otros aspectos, el contenido, las etapas, los plazos, la periodicidad y, en general, las normas necesarias para asegurar la transparencia del proceso de evaluación.
 
@@ -80,9 +80,11 @@ Lo dispuesto en esta letra se establece sin perjuicio de la facultad de la Direc
 
 e) Analizar de manera periódica la realidad social nacional y regional de modo de detectar las necesidades sociales de la población y de las familias e informarlas al Comité Interministerial de Desarrollo Social y Familia, para lo cual deberá considerar, entre otros, los antecedentes que al efecto le entreguen los gobiernos regionales. El resultado de los estudios y análisis debe mantenerse publicado en el sitio electrónico del Ministerio de manera permanente, de acuerdo a las normas establecidas en el Título III de la Ley de Transparencia de la Función Pública y de Acceso a la Información de la Administración del Estado.
 
-f) Definir los instrumentos de focalización de los programas sociales, sin perjuicio de las facultades de otros ministerios a estos efectos. Uno o más reglamentos expedidos por el Ministerio de Desarrollo Social y Familia, suscritos además por el Ministro de Hacienda, y en su caso por los ministros sectoriales que correspondan, establecerán el diseño, uso y formas de aplicación del o de los referidos instrumentos y las demás normas necesarias para su implementación.
+f) Planificar el desarrollo progresivo de sistemas, políticas, lineamientos generales y objetivos estratégicos destinados al abordaje del desarrollo social y la protección social.
 
-g) Evaluar las iniciativas de inversión que soliciten financiamiento del Estado, para determinar su rentabilidad social y elaborar un informe al respecto, de conformidad con lo dispuesto en el artículo 19 bis del decreto ley N° 1.263, de 1975, Orgánico de Administración Financiera del Estado. En cumplimiento de lo anterior deberá establecer y actualizar los criterios y las metodologías aplicables en la referida evaluación. La determinación de estos criterios y metodologías deberá considerar especialmente la incorporación de indicadores objetivos y comprobables respecto al desarrollo de las iniciativas de inversión, así como también el cumplimiento de los objetivos establecidos en la Estrategia Climática de Largo Plazo. Las metodologías y sus criterios de evaluación deberán mantenerse a disposición permanente del público en el sitio electrónico del Ministerio de Desarrollo Social y Familia.
+g) Definir los instrumentos de focalización de los programas sociales, sin perjuicio de las facultades de otros ministerios a estos efectos. Uno o más reglamentos expedidos por el Ministerio de Desarrollo Social y Familia, suscritos además por el Ministro de Hacienda, y en su caso por los ministros sectoriales que correspondan, establecerán el diseño, uso y formas de aplicación del o de los referidos instrumentos y las demás normas necesarias para su implementación.
+
+h) Evaluar las iniciativas de inversión que soliciten financiamiento del Estado, para determinar su rentabilidad social y elaborar un informe al respecto, de conformidad con lo dispuesto en el artículo 19 bis del decreto ley N° 1.263, de 1975, Orgánico de Administración Financiera del Estado. En cumplimiento de lo anterior deberá establecer y actualizar los criterios y las metodologías aplicables en la referida evaluación. La determinación de estos criterios y metodologías deberá considerar especialmente la incorporación de indicadores objetivos y comprobables respecto al desarrollo de las iniciativas de inversión, así como también el cumplimiento de los objetivos establecidos en la Estrategia Climática de Largo Plazo. Las metodologías y sus criterios de evaluación deberán mantenerse a disposición permanente del público en el sitio electrónico del Ministerio de Desarrollo Social y Familia.
 
 En cumplimiento de lo anterior le corresponderá velar por que las iniciativas de inversión que utilicen financiamiento del Estado sean socialmente rentables y respondan a las políticas de crecimiento y desarrollo económico y social que se determinen para el país y sus regiones. Los Ministros de Desarrollo Social y Familia y de Hacienda, conjuntamente, establecerán directrices basadas en las características de las iniciativas de inversión a partir de las cuales no se les hará exigible el informe señalado en el párrafo anterior, las que serán revisadas anualmente y se mantendrán publicadas de conformidad al citado párrafo. Ambos ministerios realizarán esta revisión teniendo especial consideración de los objetivos, metas e indicadores establecidos por la Estrategia Climática de Largo Plazo y los Planes Sectoriales de Mitigación y Adaptación al Cambio Climático. Estas directrices se informarán a la Comisión Especial Mixta de Presupuestos, a más tardar, el 30 de noviembre de cada año.
 
@@ -90,19 +92,19 @@ Además, evaluará los proyectos de inversión de las municipalidades que se fin
 
 Lo dispuesto en esta letra se establece sin perjuicio de la facultad de la Dirección de Presupuestos para solicitar al Ministerio de Desarrollo Social y Familia la elaboración de informes respecto de iniciativas no comprendidas en el numeral 7) del artículo 2° de esta ley.
 
-h) Analizar los resultados de los estudios de preinversión y de los proyectos de inversión evaluados, con el objeto de validar los criterios, beneficios y parámetros considerados en la evaluación a que hace referencia la letra precedente.
+i) Analizar los resultados de los estudios de preinversión y de los proyectos de inversión evaluados, con el objeto de validar los criterios, beneficios y parámetros considerados en la evaluación a que hace referencia la letra precedente.
 
 Asimismo, realizará el seguimiento de los proyectos de inversión en ejecución y estudios de preinversión. Para ello utilizará los informes que le sean presentados por el organismo público que solicita se emita el documento interno de la Administración.
 
-i) En conjunto con el Ministerio de Hacienda, poner a disposición de la Comisión Especial Mixta de Presupuestos, de los Gobiernos Regionales, de los Consejos Regionales, de los Alcaldes y de los Concejos Municipales, durante el mes de agosto de cada año, un informe de los estudios de preinversión de las iniciativas de inversión evaluadas por el Ministerio de Desarrollo Social y Familia que indique, a lo menos, el porcentaje de inversión decretada y ejecutada en el año precedente que fue sometida a la evaluación señalada en el inciso cuarto del artículo 19 bis del decreto ley N° 1.263, de 1975, y el porcentaje de ésta que obtuvo rentabilidad social positiva.
+j) En conjunto con el Ministerio de Hacienda, poner a disposición de la Comisión Especial Mixta de Presupuestos, de los Gobiernos Regionales, de los Consejos Regionales, de los Alcaldes y de los Concejos Municipales, durante el mes de agosto de cada año, un informe de los estudios de preinversión de las iniciativas de inversión evaluadas por el Ministerio de Desarrollo Social y Familia que indique, a lo menos, el porcentaje de inversión decretada y ejecutada en el año precedente que fue sometida a la evaluación señalada en el inciso cuarto del artículo 19 bis del decreto ley N° 1.263, de 1975, y el porcentaje de ésta que obtuvo rentabilidad social positiva.
 
-j) Colaborar, en el ámbito de su competencia, con la Dirección de Presupuestos del Ministerio de Hacienda en la preparación anual de la Ley de Presupuestos del Sector Público, para lo cual pondrá a disposición de la Dirección de Presupuestos los informes de recomendación de programas sociales y evaluación de inversiones establecidos en las letras c), d), g) y h) precedentes.
+k) Colaborar, en el ámbito de su competencia, con la Dirección de Presupuestos del Ministerio de Hacienda en la preparación anual de la Ley de Presupuestos del Sector Público, para lo cual pondrá a disposición de la Dirección de Presupuestos los informes de recomendación de programas sociales y evaluación de inversiones establecidos en las letras c), d), g) y h) precedentes.
 
-k) Administrar el Banco Integrado de Programas Sociales y el Banco Integrado de Proyectos de Inversión.
+l) Administrar el Banco Integrado de Programas Sociales y el Banco Integrado de Proyectos de Inversión.
 
 Con este fin elaborará, conjuntamente con la Dirección de Presupuestos, las instrucciones generales necesarias para establecer el diseño y adecuado funcionamiento de dichos Bancos.
 
-l) Elaborar las demás normas e instructivos relativos a las evaluaciones e informes, cuando corresponda, de las letras d),
+m) Elaborar las demás normas e instructivos relativos a las evaluaciones e informes, cuando corresponda, de las letras d),
 
 - **g)** y
 
@@ -112,21 +114,23 @@ l) Elaborar las demás normas e instructivos relativos a las evaluaciones e info
 
 - **h)** serán elaboradas en conjunto con el Ministerio de Hacienda.
 
-m) Capacitar a los formuladores de programas sociales y de proyectos de inversión en materia de preparación, presentación y evaluación de los mismos, conforme al plan anual de capacitación y dentro de sus posibilidades presupuestarias.
+n) Capacitar a los formuladores de programas sociales y de proyectos de inversión en materia de preparación, presentación y evaluación de los mismos, conforme al plan anual de capacitación y dentro de sus posibilidades presupuestarias.
 
-n) Administrar el Registro de Información Social a que se refiere el artículo 6° de la ley N° 19.949, que estableció un Sistema de Protección Social para familias en Situación de Extrema Pobreza denominado "Chile Solidario". En este contexto, se faculta al Ministerio de Desarrollo Social y Familia para permitir a la Dirección de Presupuestos del Ministerio de Hacienda el acceso a los datos que en este Registro se contengan para los fines que corresponda en el marco de sus atribuciones, sólo en lo relacionado con la evaluación de los programas sociales, con la elaboración de informes financieros, y con los estudios necesarios para aquello. Con todo, se accederá a los datos sólo de manera innominada. Asimismo, la información que extraiga el mencionado Servicio deberá ser de carácter indeterminado e indeterminable respecto a los datos personales. En caso de que los funcionarios de la Dirección de Presupuestos, o aquel que en nombre de ésta tenga acceso a los datos del Registro, los utilicen con fines diversos para los que fueron solicitados de acuerdo al presente literal, serán sancionados conforme al Título V de la ley N° 19.628.
+ñ) Administrar el Registro de Información Social a que se refiere el artículo 6° de la ley N° 19.949, que estableció un Sistema de Protección Social para familias en Situación de Extrema Pobreza denominado "Chile Solidario". En este contexto, se faculta al Ministerio de Desarrollo Social y Familia para permitir a la Dirección de Presupuestos del Ministerio de Hacienda el acceso a los datos que en este Registro se contengan para los fines que corresponda en el marco de sus atribuciones, sólo en lo relacionado con la evaluación de los programas sociales, con la elaboración de informes financieros, y con los estudios necesarios para aquello. Con todo, se accederá a los datos sólo de manera innominada. Asimismo, la información que extraiga el mencionado Servicio deberá ser de carácter indeterminado e indeterminable respecto a los datos personales. En caso de que los funcionarios de la Dirección de Presupuestos, o aquel que en nombre de ésta tenga acceso a los datos del Registro, los utilicen con fines diversos para los que fueron solicitados de acuerdo al presente literal, serán sancionados conforme al Título V de la ley N° 19.628.
 
-ñ) Administrar, coordinar, supervisar y evaluar la implementación del Sistema Intersectorial de Protección Social establecido en la ley N° 20.379.
+o) Administrar, coordinar, supervisar y evaluar la implementación del Sistema Intersectorial de Protección Social establecido en la ley N° 20.379 y del Sistema Nacional de Apoyos y Cuidados.
 
-o) Promover el mejoramiento constante en la gestión del Sistema Intersectorial de Protección Social, de los subsistemas que lo integran y de los servicios públicos relacionados o dependientes del Ministerio de Desarrollo Social y Familia. Este mejoramiento procurará que el Sistema Intersectorial de Protección Social opere bajo un enfoque familiar, en los casos que corresponda, desde una comprensión multidimensional de los niveles de vulnerabilidad social.
+p) Promover el mejoramiento constante en la gestión del Sistema Intersectorial de Protección Social, de los subsistemas que lo integran y de los servicios públicos relacionados o dependientes del Ministerio de Desarrollo Social y Familia. Este mejoramiento procurará que el Sistema Intersectorial de Protección Social opere bajo un enfoque familiar, en los casos que corresponda, desde una comprensión multidimensional de los niveles de vulnerabilidad social.
 
-p) Impartir instrucciones y ejecutar cualquier otra acción necesaria para que exista coherencia funcional entre las políticas, planes y programas sociales ejecutados por los servicios públicos relacionados o dependientes del Ministerio de Desarrollo Social y Familia y coordinar su ejecución.
+q) Impartir instrucciones y ejecutar cualquier otra acción necesaria para que exista coherencia funcional entre las políticas, planes y programas sociales ejecutados por los servicios públicos relacionados o dependientes del Ministerio de Desarrollo Social y Familia y coordinar su ejecución.
 
-q) Establecer las políticas, planes y programas a que deberán ceñirse los organismos e instituciones dependientes del Ministerio de Desarrollo Social y Familia, o que se relacionen con el Presidente de la República por su intermedio, los cuales, anualmente, deberán elaborar un informe que dé cuenta de la implementación de las políticas señaladas.
+r) Establecer las políticas, planes y programas a que deberán ceñirse los organismos e instituciones dependientes del Ministerio de Desarrollo Social y Familia, o que se relacionen con el Presidente de la República por su intermedio, los cuales, anualmente, deberán elaborar un informe que dé cuenta de la implementación de las políticas señaladas.
 
-r) Celebrar convenios de desempeño con los jefes de los servicios dependientes o relacionados del Ministerio de Desarrollo Social y Familia.
+s) Celebrar convenios de desempeño con los jefes de los servicios dependientes o relacionados del Ministerio de Desarrollo Social y Familia.
 
-s) Solicitar a los demás ministerios, servicios o entidades públicas la entrega de la información disponible y que el Ministerio de Desarrollo Social y Familia requiera para el cumplimiento de sus funciones. Los ministerios, servicios o entidades públicas deberán proporcionar esta información oportunamente. De no encontrarse disponible la información requerida, los ministerios, servicios o entidades públicas podrán solicitar la colaboración de otras entidades del Estado. Las demás unidades evaluadoras que existan o se creen en otros Ministerios, antes de solicitarla directamente, deberán consultar al Ministerio de Desarrollo Social y Familia la existencia de la información que estudian requerir de los demás ministerios, servicios o entidades públicas obligadas a informar al tenor de esta ley. El Ministerio de Desarrollo Social y Familia deberá colaborar con dichas unidades evaluadoras para efectos de que puedan acceder, de conformidad a la normativa vigente, a la información que requieren.
+t) Solicitar a los demás ministerios, servicios o entidades públicas la entrega de la información disponible y que el Ministerio de Desarrollo Social y Familia requiera para el cumplimiento de sus funciones. Los ministerios, servicios o entidades públicas deberán proporcionar esta información oportunamente. De no encontrarse disponible la información requerida, los ministerios, servicios o entidades públicas podrán solicitar la colaboración de otras entidades del Estado. Las demás unidades evaluadoras que existan o se creen en otros Ministerios, antes de solicitarla directamente, deberán consultar al Ministerio de Desarrollo Social y Familia la existencia de la información que estudian requerir de los demás ministerios, servicios o entidades públicas obligadas a informar al tenor de esta ley. El Ministerio de Desarrollo Social y Familia deberá colaborar con dichas unidades evaluadoras para efectos de que puedan acceder, de conformidad a la normativa vigente, a la información que requieren.
+
+Las solicitudes específicas relativas a los beneficios, prestaciones y programas públicos que reciban las familias y las personas individualmente consideradas, así como los montos que perciban por estos conceptos, deberán ser respondidas en un plazo máximo de veinte días hábiles, prorrogables por hasta diez días hábiles adicionales.
 
 Respecto de los requerimientos sobre información amparada por la reserva establecida en el artículo 35 del Código Tributario, el Ministerio de Desarrollo Social y Familia sólo podrá solicitar al Servicio de Impuestos Internos la información relativa a los ingresos de las personas que sea indispensable para verificar la elegibilidad de quienes solicitan beneficios o son beneficiarios de los programas sociales. En su requerimiento el Ministerio deberá indicar expresa y detalladamente la información que solicita y los fines para los cuales será empleada. El Servicio de Impuestos Internos informará, en el ámbito de su competencia, de acuerdo a los antecedentes que consten en sus registros.
 
@@ -134,19 +138,19 @@ El personal del Ministerio de Desarrollo Social y Familia que tome conocimiento 
 
 Sólo se podrá solicitar información considerada dato sensible de acuerdo a la ley cuando sea indispensable para verificar la elegibilidad de quienes solicitan beneficios o son beneficiarios de los programas sociales, o la mantención de los mismos, y para complementar el Registro de Información Social señalado en el artículo 6° de la ley N° 19.949. En su requerimiento, el Ministerio deberá indicar expresa y detalladamente la información que solicita y los fines para los cuales será empleada.
 
-t) Sistematizar y analizar registros de datos, información, índices y estadísticas que describan la realidad social del país y que obtenga en el ámbito de su competencia, además de publicar la información recopilada conforme a la normativa vigente.
+u) Sistematizar y analizar registros de datos, información, índices y estadísticas que describan la realidad social del país y que obtenga en el ámbito de su competencia, además de publicar la información recopilada conforme a la normativa vigente.
 
 En el tratamiento de datos personales a que hace mención esta letra, el Ministerio deberá consagrar y respetar los derechos de acceso, rectificación, corrección, y omisión por parte de los administrados, y deberá tomar todas las medidas de seguridad en el tratamiento de datos sensibles.
 
-u) Asesorar técnicamente a los Delegados Presidenciales Regionales, por medio de las Secretarías Regionales Ministeriales de Desarrollo Social, en las materias de competencia del Ministerio de Desarrollo Social y Familia que tengan aplicación regional.
+v) Asesorar técnicamente a los Delegados Presidenciales Regionales, por medio de las Secretarías Regionales Ministeriales de Desarrollo Social, en las materias de competencia del Ministerio de Desarrollo Social y Familia que tengan aplicación regional.
 
-v) Presentar a la Comisión Especial Mixta de Presupuestos y a la Comisión de Superación de la Pobreza, Planificación y Desarrollo Social de la Cámara de Diputados, en el mes de septiembre de cada año, un informe de Desarrollo Social. El referido informe deberá incluir una sección específica que analice la realidad de la pobreza, tomando en consideración las áreas de salud, ingreso, logros educacionales y vivienda, entre otras.
+w) Presentar a la Comisión Especial Mixta de Presupuestos y a la Comisión de Superación de la Pobreza, Planificación y Desarrollo Social de la Cámara de Diputados, en el mes de septiembre de cada año, un informe de Desarrollo Social. El referido informe deberá incluir una sección específica que analice la realidad de la pobreza, tomando en consideración las áreas de salud, ingreso, logros educacionales y vivienda, entre otras.
 
-w) Estudiar y proponer las metodologías que utilizará en la recolección y procesamiento de información para la entrega de encuestas sociales y otros indicadores, en materias de su competencia.
+x) Estudiar y proponer las metodologías que utilizará en la recolección y procesamiento de información para la entrega de encuestas sociales y otros indicadores, en materias de su competencia.
 
-x) Promover el fortalecimiento de la familia, en los términos definidos en el número 1) del artículo 2 de la presente ley.
+y) Promover el fortalecimiento de la familia, en los términos definidos en el número 1) del artículo 2 de la presente ley.
 
-y) Establecer a través de un reglamento los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en ésta y otras leyes, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y las normas establecidas en los artículos 9 y siguientes de dicha ley.
+z) Establecer a través de un reglamento los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en ésta y otras leyes, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y las normas establecidas en los artículos 9 y siguientes de dicha ley.
 
 Para la formulación del reglamento señalado en el inciso primero, el Ministerio consultará a los órganos sectoriales dependientes o relacionados con competencia para otorgar la autorización respecto de la cual se implementan técnicas habilitantes alternativas, así como la Oficina de Autorizaciones Sectoriales e Inversión, para efectos de evitar o precaver conflictos de normas y resguardar su coordinación y cooperación.
 
@@ -154,9 +158,13 @@ Si el establecimiento de técnicas habilitantes alternativas implica la supresi�
 
 z) Establecer a través de un reglamento las funciones de profesionales y entidades técnicas reconocidas para informar o certificar el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para el otorgamiento de autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, así como los requisitos y procedimientos para su reconocimiento, registro y control, conforme a lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
 
-z) bis Las demás funciones y atribuciones que la ley le encomiende.
+z) bis Celebrar convenios de colaboración y cooperación con organismos públicos y privados, dentro del ámbito de sus competencias.
+
+z) ter Las demás funciones y atribuciones que la ley le encomiende.
 
 Lo dispuesto en las letras a), o), p), q) y r) precedentes no será aplicable al Servicio Nacional de la Mujer.
+
+> **Nota.** La letra c) del Nº 2 del artículo 44 de la ley 21805, publicada el 16.02.2026, incorpora a continuación del literal e) del presente artículo un literal f), pasando el actual literal f) a ser g), readecuándose el orden correlativo de los siguientes literales, así como las respectivas referencias que a dichos literales se hagan en la ley. No obstante, no es posible renombrar el literal z) original, razón por la cual existen dos literales z) en el presente texto actualizado.
 
 #### Artículo 3° bis
 
@@ -208,11 +216,11 @@ Para efectos de establecer la estructura interna del Ministerio deberán conside
 
 #### Artículo 5°
 
-La Subsecretaría de Evaluación Social estará a cargo del Subsecretario de Evaluación Social, quien será su jefe superior. En particular le corresponderá especialmente colaborar con el Ministro en el ejercicio de las funciones establecidas en las letras a), b), c), d), e), f), g), h), i), j), k), l), m), n), s), t), u), v), w) y x) del artículo 3°.
+La Subsecretaría de Evaluación Social estará a cargo del Subsecretario de Evaluación Social, quien será su jefe superior. En particular le corresponderá especialmente colaborar con el Ministro en el ejercicio de las funciones establecidas en las letras a), b), c), d), e), f), g), h), i), j), k), l), m), n), ñ) en lo relacionado con el Sistema Nacional de Apoyos y Cuidados, y en coordinación con la Subsecretaría de Servicios Sociales y la Subsecretaría de la Niñez en materias de su competencia, s), t), u), v), w) y x) del artículo 3°.
 
 #### Artículo 6°
 
-La Subsecretaría de Servicios Sociales estará a cargo del Subsecretario de Servicios Sociales, quien será su jefe superior. En particular le corresponderá colaborar especialmente con el Ministro en el ejercicio de las funciones establecidas en las letras a), en el marco de las atribuciones vigentes de dicha Subsecretaría y en coordinación con la Subsecretaría de Evaluación Social, ñ) a excepción del Subsistema de Protección Integral a la Infancia "Chile Crece Contigo", establecido en el Título II de la ley N° 20.379,
+La Subsecretaría de Servicios Sociales estará a cargo del Subsecretario de Servicios Sociales, quien será su jefe superior. En particular le corresponderá colaborar especialmente con el Ministro en el ejercicio de las funciones establecidas en las letras a), en el marco de las atribuciones vigentes de dicha Subsecretaría y en coordinación con la Subsecretaría de Evaluación Social, ñ) a excepción del Subsistema de Protección Integral a la Infancia "Chile Crece Contigo", establecido en el Título II de la ley N° 20.379, y en lo relacionado con el Sistema Nacional de Apoyos y Cuidados, en coordinación con la Subsecretaría de Evaluación Social,
 
 - **o)** y p), a excepción del Servicio Nacional de Protección Especializada a la Niñez y Adolescencia, q), r), s),
 
@@ -226,7 +234,7 @@ La Subsecretaría de Servicios Sociales tendrá también a su cargo la direcció
 
 La Subsecretaría de la Niñez estará a cargo del Subsecretario de la Niñez, quien será su jefe superior. En particular, le corresponderá colaborar con el Ministro en el ejercicio de las funciones contenidas en las letras
 
-- **a)** y ñ), especialmente en lo relacionado con el Subsistema de Protección Integral a la Infancia "Chile Crece Contigo", en las letras
+- **a)** y ñ), especialmente en lo relacionado con el Subsistema de Protección Integral a la Infancia "Chile Crece Contigo" y en lo relacionado con el Sistema Nacional de Apoyos y Cuidados, en coordinación con la Subsecretaría de Evaluación Social, en las letras
 
 - **o)** y p), en lo relacionado con el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia, y en las letras e), t), u),
 
@@ -370,15 +378,91 @@ El Comité Interministerial de Desarrollo Social y Familia , para efectos de con
 
 El Comité así constituido requerirá un quórum de cinco miembros para sesionar. Los acuerdos serán vinculantes y se adoptarán por la mayoría absoluta de los asistentes. En caso de empate decidirá el voto del ministro presidente, o de quien lo reemplace.
 
+#### Artículo 16 ter
+
+El Comité Interministerial de Desarrollo Social y Familia pasará a denominarse "Comité Interministerial de Desarrollo Social, Familia y Cuidados", en adelante el "Comité", cuando le corresponda conocer de las materias establecidas en el artículo 1, relacionadas con los apoyos y cuidados.
+
+Sin perjuicio de las atribuciones que de conformidad a esta ley le correspondan, el Comité tendrá las siguientes funciones:
+
+a) Aprobar la propuesta de Política Nacional de Apoyos y Cuidados para ser presentada al Presidente de la República, y el Plan Nacional de Apoyos y Cuidados, y sus respectivas actualizaciones. Asimismo, conocerá anualmente de su estado de implementación; sus evaluaciones; y los resultados de los mecanismos de participación asociados a estos instrumentos.
+
+b) Acordar mecanismos de coordinación de las acciones y recursos de los Órganos de la Administración del Estado, en sus diferentes niveles, en materia de apoyos y cuidados, con el objeto de favorecer la ejecución eficaz de la Política Nacional y su plan.
+
+c) Aprobar las directrices, lineamientos e instrumentos necesarios para garantizar, de manera gradual y progresiva, la protección del derecho al cuidado de las personas titulares del Sistema Nacional de Apoyos y Cuidados, en conformidad con la Constitución Política de la República y las leyes vigentes, así como para el adecuado funcionamiento del Sistema antes señalado.
+
+d) Aprobar el informe de solicitud coordinada de asignación de recursos presupuestarios para los programas que forman parte del Sistema.
+
+e) Aprobar la propuesta de ingreso de las políticas, planes, programas, servicios y prestaciones al Sistema Nacional de Apoyos y Cuidados, para ser remitida al Presidente de la República.
+
+f) Aprobar las orientaciones generales dirigidas a los órganos de la Administración del Estado para una adecuada provisión de servicios de apoyos y cuidados, ya sea provista por sí mismos o por terceros, y su supervisión.
+
+Un decreto exento expedido por el Ministerio de Desarrollo Social y Familia contendrá las orientaciones generales y su procedimiento de actualización.
+
+g) Cumplir las demás funciones y tareas que ésta u otras leyes, o la Presidenta o el Presidente de la República le encomienden, en el ámbito de sus funciones.
+
+El Comité Interministerial de Desarrollo Social y Familia, para efectos de constituirse en Comité Interministerial de Desarrollo Social, Familia y Cuidados, se conformará por los Ministros y Ministras señalados en el artículo 12, y se incorporarán, además, las Ministras o los Ministros del Interior; de Economía, Fomento y Turismo; de Transportes y Telecomunicaciones; de Obras Públicas y de Agricultura.
+
+El Comité Interministerial de Desarrollo Social, Familia y Cuidados será presidido por la Ministra o el Ministro de Desarrollo Social y Familia. La vicepresidencia corresponderá a la Ministra de la Mujer y la Equidad de Género, quien presidirá el Comité en caso de ausencia de la Ministra o el Ministro titular de Desarrollo Social y Familia.
+
+El Comité así constituido requerirá un quorum de seis miembros para sesionar. Los acuerdos se adoptarán por la mayoría absoluta de los asistentes. En caso de empate decidirá el voto de la Ministra o del Ministro presidente, o de quien lo reemplace. En caso de ausencia o impedimento de un Ministro o Ministra para asistir a una sesión o realizar una tarea encomendada, será reemplazado en sus funciones por el o la Subsecretaria respectiva, o por el o la funcionaria que para tal efecto el Ministro o Ministra designe.
+
 ## Título III
 
-Del Consejo de la Sociedad Civil de la Niñez
+Del Consejo de la Sociedad Civil de la Niñez y del Consejo de la Sociedad Civil para los Apoyos y los Cuidados
 
-#### Artículo 16 ter
+#### Artículo 16 quater
 
 De conformidad a lo establecido en la ley N° 20.500, sobre asociaciones y participación ciudadana en la gestión pública, existirá un Consejo de la Sociedad Civil de la Niñez que será especialmente oído en las materias establecidas en las letras b) y g) del artículo 3° bis de esta ley.
 
 Los miembros del Consejo señalado en este artículo ejercerán sus funciones ad honorem.
+
+#### Artículo 16
+
+quinquies.- Existirá un Consejo de la Sociedad Civil para los Apoyos y los Cuidados, de conformidad a lo establecido en la ley Nº 20.500, sobre Asociaciones y Participación Ciudadana en la Gestión Pública.
+
+La función del Consejo será asesorar y entregar su opinión al Ministerio de Desarrollo Social y Familia, y a la Secretaría de Apoyos y Cuidados en todas las materias relacionadas con el funcionamiento del Sistema Nacional de Apoyos y Cuidados.
+
+#### Artículo 16
+
+sexies.- El Consejo de la Sociedad Civil para los Apoyos y los Cuidados estará integrado de la siguiente forma:
+
+a) Un representante del Consejo de la Sociedad Civil del Ministerio de Desarrollo Social y Familia, quien lo presidirá.
+
+b) Un representante del Consejo de la Sociedad Civil del Ministerio de la Mujer y Equidad de Género, quien tendrá la vicepresidencia del Consejo.
+
+c) Un representante del Consejo de la Sociedad Civil de la Niñez.
+
+d) Un representante del Consejo Consultivo Nacional de la Discapacidad.
+
+e) Un representante del Consejo de la Sociedad Civil del Servicio Nacional del Adulto Mayor.
+
+f) Dos representantes de organizaciones y/o asociaciones de personas cuidadoras no remuneradas.
+
+g) Dos representantes de organizaciones y/o asociaciones de personas cuidadoras remuneradas.
+
+h) Dos representantes de los Consejos Regionales de Cuidados.
+
+i) Un representante del sector privado con fines de lucro, y un representante del sector privado sin fines de lucro vinculados a materias de cuidados.
+
+j) Un representante de la academia que acredite experiencia en materias relacionadas con los cuidados y tenga la calidad de académico o investigador de instituciones de educación superior.
+
+Los miembros del Consejo ejercerán sus funciones ad honorem.
+
+#### Artículo 16
+
+septies.- Corresponderá especialmente al Consejo de la Sociedad Civil para los Apoyos y los Cuidados:
+
+a) Asesorar a la Secretaría de Apoyos y Cuidados en la elaboración, implementación, monitoreo y evaluación de la Política Nacional de Apoyos y Cuidados y su Plan, y velar por la implementación de procesos participativos inclusivos, pertinentes e incidentes.
+
+b) Conocer y entregar su opinión sobre el estado de implementación de la oferta programática del Sistema Nacional de Apoyos y Cuidados.
+
+c) Servir como instancia de consulta y apoyo para el desarrollo de las funciones en materia de apoyos y cuidados del Ministerio de Desarrollo Social y Familia.
+
+d) Canalizar las consultas y requerimientos de los Consejos Regionales de Apoyos y Cuidados, sin perjuicio de las funciones específicas de éstos.
+
+#### Artículo 16
+
+octies.- Un reglamento dictado por el Ministerio de Desarrollo Social y Familia establecerá las normas necesarias para el funcionamiento del Consejo y para la adecuada ejecución de las funciones que le son encomendadas, en especial los mecanismos de elección de los consejeros, el funcionamiento interno del Consejo, incluido el quorum necesario para sesionar y adoptar acuerdos; las causales de cesación del cargo, y el mecanismo de reemplazo en caso de vacancia.
 
 ## Título IV
 

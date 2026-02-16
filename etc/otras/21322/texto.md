@@ -40,6 +40,8 @@ e) Red de Atención a Usuarios: Vía de acceso de los usuarios a los servicios d
 
 f) Secretaría Ejecutiva: Secretaría Ejecutiva Red Integral de Protección Social, a que alude el artículo 5.
 
+g) Repositorio de leyes y normas en materia de apoyos y cuidados: sistema digital de acceso público que recopilará, almacenará y difundirá las leyes, normativas y disposiciones vigentes a nivel nacional, relacionadas con los apoyos y cuidados. Su acceso será mediante la Plataforma.
+
 ## Título II
 
 DE LA COORDINACIÓN INTERSECTORIAL Y LA ARTICULACIÓN DE OFERTA PROGRAMÁTICA
@@ -71,6 +73,8 @@ Un reglamento suscrito por el Ministerio de Desarrollo Social y Familia determin
 Del Comité Técnico Intersectorial. Existirá un Comité Técnico Intersectorial que colaborará en la implementación y operación del Sistema mediante la provisión de información al mismo.
 
 El referido Comité estará compuesto por una contraparte técnica de cada uno de los organismos participantes y será coordinado por la Secretaría Ejecutiva. Asimismo, el Comité deberá considerar la participación de las municipalidades y de la ciudadanía en la forma que disponga el reglamento.
+
+Cuando el Comité Técnico Intersectorial deba conocer las materias asociadas a la implementación del Sistema Nacional de Apoyos y Cuidados, deberá abordarlas en forma prioritaria.
 
 Un reglamento suscrito por el Ministerio de Desarrollo Social y Familia determinará la forma de designación de los integrantes del Comité Técnico Intersectorial y toda otra medida necesaria para su funcionamiento.
 
@@ -112,7 +116,7 @@ RED DE ATENCIÓN A USUARIOS
 
 Red de Atención a Usuarios. El Sistema contará con una Red de Atención a Usuarios en cada región del país, a través de la cual se les entregará orientación e información sobre la oferta programática que forma parte del Sistema.
 
-Adicionalmente, la plataforma que forma parte de esta red permitirá a los usuarios hacer seguimiento de casos.
+Adicionalmente, la plataforma que forma parte de esta red permitirá a los usuarios hacer seguimiento de casos y acceder al Repositorio de leyes y normas en materia de apoyos y cuidados.
 
 ## Título VI
 

@@ -58,9 +58,9 @@ a) Discriminación: Toda distinción, exclusión, segregación o restricción ar
 
 b) Ayudas técnicas: Los elementos o implementos requeridos por una persona con discapacidad para prevenir la progresión de la misma, mejorar o recuperar su funcionalidad, o desarrollar una vida independiente.
 
-c) Servicio de apoyo: Toda prestación de acciones de asistencia, intermediación o cuidado, requerida por una persona con discapacidad para realizar las actividades de la vida diaria o participar en el entorno social, económico, laboral, educacional, cultural o político, superar barreras de movilidad o comunicación, todo ello, en condiciones de mayor autonomía funcional.
+c) Servicio de apoyo: Toda prestación de acciones de cuidado y asistencia, o de intermediación, requerida por una persona con discapacidad para realizar las actividades de la vida diaria o participar en el entorno social, económico, laboral, educacional, cultural o político, superar barreras de movilidad o comunicación, todo ello en condiciones de mayor autonomía funcional.
 
-d) Cuidador: Toda persona que proporciona asistencia permanente, gratuita o remunerada, para la realización de actividades de la vida diaria, en el entorno del hogar, a personas con discapacidad, estén o no unidas por vínculos de parentesco.
+d) Cuidador o cuidadora: Toda persona que proporciona cuidado y asistencia, sea en forma gratuita o remunerada, a personas con discapacidad, conforme a lo dispuesto en la ley que reconoce el derecho al cuidado y crea el Sistema Nacional de Apoyos y Cuidados.
 
 e) Dependencia: El estado de carácter permanente en que se encuentran las personas que, por razones derivadas de una o más deficiencias de causa física, mental o sensorial, ligadas a la falta o pérdida de autonomía, requieren de la atención de otra u otras personas o ayudas importantes para realizar las actividades esenciales de la vida.
 
