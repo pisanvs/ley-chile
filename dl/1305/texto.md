@@ -138,7 +138,9 @@ h) Dirigir y coordinar la política relativa al bienestar habitacional de la pob
 
 i) Proponer al Ministerio la creación, fusión, modificación o supresión de unidades o servicios del Ministerio, de los servicios Regionales y Metropolitano de Vivienda y Urbanización, y de los Servicios de Bienestar del Personal del Sector;
 
-j) En general, conocer y estudiar todos los asuntos, materias y problemas atinentes al Ministerio de Vivienda y Urbanismo, proponer las políticas y supervigilar su cumplimiento, y ejercer las atribuciones o ejecutar las tareas que el Ministro le delegue.
+j) Fomentar, implementar y ejecutar las instancias y programas de formación, capacitación técnica y acreditación de capacidades a los funcionarios públicos, órganos y autoridades comunales y regionales en materias urbanísticas y de planificación urbana, las que también se podrán impartir a los particulares;
+
+k) En general, conocer y estudiar todos los asuntos, materias y problemas atinentes al Ministerio de Vivienda y Urbanismo, proponer las políticas y supervigilar su cumplimiento, y ejercer las atribuciones o ejecutar las tareas que el Ministro le delegue.
 
 El Gabinete es una unidad de apoyo directo del Subsecretario.
 
@@ -148,11 +150,11 @@ De la División de Desarrollo Urbano
 
 Corresponderá a la División de Desarrollo Urbano:
 
-a) Proponer la política nacional de desarrollo urbano y la política nacional de equipamiento comunitario, de infraestructura sanitaria, pavimentación y vialidad urbana en coordinación con los sectores socio-económicos;
+a) Proponer la política nacional de equipamiento comunitario, de infraestructura sanitaria, pavimentación y vialidad urbana en coordinación con los sectores socio-económicos;
 
 b) Elaborar los planes nacionales de desarrollo urbano de acuerdo a las instrucciones formuladas por el Ministro directamente o a través del Comité de Planificación y Coordinación;
 
-c) Coordinar a nivel nacional y regional, los planes de desarrollo urbano, como asimismo, los de equipamiento comunitario, infraestructura sanitaria, pavimentación y vialidad urbana;
+c) Coordinar a nivel nacional y regional, los planes de desarrollo urbano, como asimismo, los de equipamiento comunitario, infraestructura sanitaria, pavimentación y vialidad urbana. Para estos efectos, entre otras medidas, podrá identificar zonas o unidades territoriales que requieren de forma prioritaria una estrategia de focalización, planificación y gestión de inversión pública y privada para fines de integración social y urbana, denominadas "zonas de interés público";
 
 d) Informar al Ministro de Vivienda y Urbanismo lo relativo al cumplimiento de planes reguladores comunales, intercomunales y metropolitano remitidos por las Secretarías Ministeriales, respecto de uso del suelo, límites urbanos, vialidad urbana, etc;
 
@@ -202,7 +204,15 @@ En el ejercicio de esta función deberá revisar que las autorizaciones en mater
 
 El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión, por intermedio del Ministro de Vivienda y Urbanismo, cuando corresponda.
 
-Las facultades establecidas en las letras h), i), j), k), l), m), ñ), o) y p) deberán entenderse en concordancia con lo que dispone el artículo 24.
+r) Fomentar, implementar y ejecutar por sí o a través de terceros las instancias y programas de formación, capacitación técnica y acreditación de competencias a los funcionarios públicos, órganos y autoridades comunales y regionales, en materias urbanísticas y de planificación urbana, las que también se podrán impartir a los particulares.
+
+s) Elaborar anualmente un reporte sobre el estado de la planificación urbana a nivel nacional. El reporte deberá incluir un resumen ejecutivo que sea comprensible para el público en general, y se elaborará sobre la base de la documentación disponible en los sistemas de información regulados en la Ley General de Urbanismo y Construcciones, junto con aquella disponible en los sitios electrónicos o requerida directamente a los organismos que elaboren, modifiquen o promulguen los respectivos instrumentos de planificación territorial.
+
+t) Supervigilar todo lo relacionado con los instrumentos de planificación territorial, y apoyar técnicamente la planificación urbana de nivel comunal.
+
+u) Interpretar con carácter general las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza General e impartir instrucciones para su aplicación, conforme a lo establecido en el artículo 4° de la mencionada ley.
+
+Las facultades establecidas en las letras h), i), j), k), l), m), ñ), o), p), r) y t) deberán entenderse en concordancia con lo dispuesto en el artículo 24.
 
 De la División de Política Habitacional.
 
@@ -410,11 +420,11 @@ Deberán velar, además, por el estricto cumplimiento por parte de los Servicios
 
 #### Artículo 24
 
-Corresponderá a cada Secretaría Ministerial, en su jurisdicción, el ejercicio de las facultades señaladas en las letras h), i), j), k), l), m), ñ),
+Corresponderá a cada Secretaría Regional Ministerial, en su jurisdicción, el ejercicio de las facultades señaladas en las letras h), i), j), k), l), m), ñ), o), p),
 
-- **o)** y
+- **r)** y
 
-- **p)** del artículo 12 y en letras
+- **t)** del artículo 12 y en las letras
 
 - **f)** y
 
@@ -423,6 +433,8 @@ Corresponderá a cada Secretaría Ministerial, en su jurisdicción, el ejercicio
 Asimismo, les corresponderá otorgar permisos y recepciones definitivas de construcciones en zonas declaradas afectadas por catástrofe, en los casos especiales que contempla la Ley General de Urbanismo y Construcciones. Para tal efecto podrán nombrar delegados que cumplan dichas funciones en las localidades afectadas, con las mismas competencias que el Secretario Regional Ministerial en esta materia.
 
 Además, les corresponderá reportar anualmente a la División de Desarrollo Urbano el estado de los procedimientos referidos al otorgamiento de permisos, autorizaciones o certificados, seguidos ante las Direcciones de Obras Municipales de su jurisdicción, en el marco de sus facultades de supervigilancia. Dicho reporte deberá caracterizar las respectivas direcciones, considerando la dotación y antigüedad de funcionarios, perfiles profesionales, acceso y participación en capacitaciones, recursos físicos, entre otros.
+
+Tendrán además la facultad de interpretar los instrumentos de planificación territorial de todos los niveles vigentes en la región en que ejercen sus competencias.
 
 ## Título III
 
@@ -439,6 +451,30 @@ No obstante lo expresado, tanto sus presupuestos como sus inversiones o las modi
 #### Artículo 26°
 
 Los Servicios Regionales y Metropolitano de Vivienda y Urbanización son sucesores legales de las Corporaciones de Servicios Habitacionales, de Mejoramiento Urbano, de la Vivienda, y de Obras Urbanas y, por tanto, tienen todas las facultades y obligaciones de esas Corporaciones, en el ámbito de su Región. Las Corporaciones jurídicamente se entenderán extinguidas 120 días después de la publicación del presente decreto ley.
+
+#### Artículo 26 bis
+
+Los Servicios Regionales de Vivienda y Urbanización, conforme a las facultades que les corresponden como sucesores legales de la Corporación de Mejoramiento Urbano, podrán celebrar convenios de colaboración para planes maestros con una o más municipalidades, entidades públicas o privadas, empresas públicas, ministerios, servicios, gobiernos regionales u otros órganos de la Administración del Estado, para el desarrollo de proyectos habitacionales, de equipamiento y mejoramiento urbano y gestión de suelos.
+
+Los convenios establecerán, al menos, la finalidad, condiciones, aportes, funciones de las partes y demás requisitos necesarios para la ejecución de uno o más proyectos urbanos habitacionales y/o proyectos mixtos, conforme a un plan maestro asociado a uno o varios terrenos y sus respectivos proyectos, para la adecuada integración urbana y social que impulsa el Ministerio de Vivienda y Urbanismo.
+
+En el caso de asociaciones con entidades privadas, los Servicios Regionales de Vivienda y Urbanización deberán realizar una convocatoria pública para su elección. Dicha convocatoria podrá incluir la presentación por parte de los postulantes de propuestas de terrenos, aportes de gestión, tipología de proyectos a desarrollar dentro del plan maestro, y plazos. La convocatoria pública deberá establecer las condiciones, requisitos y el procedimiento de adjudicación que se deberá observar, así como los factores de evaluación de las propuestas. También contendrá las condiciones generales del plan maestro, que incluirán, cuando sea pertinente:
+
+a) Las obras y acciones mínimas requeridas.
+
+b) Los lineamientos de los aportes preliminares de las partes, y de los diseños de los proyectos.
+
+c) Los resultados esperados de las inversiones a realizar.
+
+El plan maestro podrá ser detallado o ajustado con posterioridad a la firma del convenio, y deberá ser aprobado por las partes como condición habilitante para la ejecución de obras. Dicho plan deberá definir los objetivos, métodos, modelo de gestión, etapas, plazos y estrategias para el desarrollo de los proyectos incluidos en la cartera convenida.
+
+Las partes podrán acordar la transferencia de recursos para el cumplimiento de los objetivos establecidos en el convenio, incluida la gestión, elaboración, desarrollo y ejecución del plan maestro y su respectiva cartera de proyectos. El diseño o ejecución de obras se realizará por licitación pública conforme a normas aplicables a las contrataciones de los Servicios de Vivienda y Urbanización.
+
+Para el cumplimiento de sus fines, las partes podrán incluir las gestiones necesarias para adquirir, arrendar, permutar, enajenar, constituir derechos y/o gravámenes sobre inmuebles que se destinarán al desarrollo de los proyectos. También podrán requerir la habilitación de terrenos para la ejecución de obras tales como la ejecución de obras viales, la materialización de áreas verdes, la construcción de establecimientos educacionales, de salud, deportivos o de cuidados, entre otros, todas ellas en cumplimiento de los estándares urbanos, de sustentabilidad y de integración social requeridos por el Ministerio de Vivienda y Urbanismo.
+
+En los terrenos objeto de los convenios de colaboración, podrá aplicarse el procedimiento de habilitación normativa al que se refiere el artículo 92 y siguientes de la Ley General de Urbanismo y Construcciones para el desarrollo de proyectos urbano-habitacionales. Asimismo, los Servicios Regionales de Vivienda y Urbanización podrán otorgar las cartas de resguardo a que se refiere el artículo 129 de la citada ley para garantizar la urbanización de dichos terrenos.
+
+El convenio de colaboración concluirá una vez cumplido su objeto, conforme a lo establecido en el plan maestro. Todos los bienes, derechos y obligaciones fruto de la ejecución del convenio quedarán sujetos a la normativa vigente aplicable a los Servicios de Vivienda y Urbanización, incluidas las disposiciones relativas a probidad, transparencia, conflictos de interés y fiscalización por parte de la Contraloría General de la República.
 
 #### Artículo 27°
 

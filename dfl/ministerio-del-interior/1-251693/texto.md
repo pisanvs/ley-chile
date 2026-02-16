@@ -32,9 +32,9 @@ Funciones y atribuciones
 
 Corresponderá a las municipalidades, en el ámbito de su territorio, las siguientes funciones privativas:
 
-a) Elaborar, aprobar y modificar el plan comunal de desarrollo cuya aplicación deberá armonizar con los planes regionales y nacionales;
+a) Elaborar, aprobar y modificar el plan comunal de desarrollo cuya aplicación deberá armonizar con los planes regionales y nacionales y, en lo pertinente, con el respectivo instrumento de planificación territorial de nivel comunal;
 
-b) La planificación y regulación de la comuna y la confección del plan regulador comunal, de acuerdo con las normas legales vigentes;
+b) La planificación y regulación de la comuna y la confección del plan regulador comunal, de acuerdo con las normas legales vigentes y en coherencia con el plan comunal de desarrollo;
 
 c) La promoción del desarrollo comunitario;
 
@@ -164,7 +164,7 @@ i) Constituir corporaciones o fundaciones de derecho privado, sin fines de lucro
 
 j) Establecer, en el ámbito de las comunas o agrupación de comunas, territorios denominados unidades vecinales, con el objeto de propender a un desarrollo equilibrado y a una adecuada canalización de la participación ciudadana;
 
-k) Aprobar los planes reguladores comunales y los planes seccionales de comunas que formen parte de un territorio normado por un plan regulador metropolitano o intercomunal, y pronunciarse sobre el proyecto de plan regulador comunal o de plan seccional de comunas que no formen parte de un territorio normado por un plan regulador metropolitano o intercomunal;
+k) Aprobar los planes reguladores comunales y los planes seccionales;
 
 l) Elaborar, aprobar, ejecutar y evaluar el plan comunal de seguridad pública.
 
@@ -172,9 +172,15 @@ Para realizar dichas acciones, las municipalidades tendrán en consideración la
 
 m) Aprobarlos planos de detalle de los planes reguladores comunales y de los planes seccionales;
 
-n) Elaborar, aprobar, modificar y materializar los planes de inversiones en infraestructura de movilidad y espacio público, y
+n) Elaborar, aprobar, modificar y materializar los planes de inversiones en infraestructura de movilidad y espacio público.
 
 o) Recaudar, administrar y ejecutar, en una cuenta especial y separada del resto del presupuesto municipal, los aportes al espacio público que se perciban, de conformidad a las disposiciones de la Ley General de Urbanismo y Construcciones, y suscribir los convenios sobre aportes urbanos reembolsables que regula el mismo cuerpo legal.
+
+p) Aprobar la propuesta de normas urbanísticas especiales elaborada por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo para la habilitación normativa de terrenos, conforme con lo dispuesto en la Ley General de Urbanismo y Construcciones.
+
+q) Elaborar y/o aprobar planes maestros de regeneración de barrios o conjuntos habitacionales de viviendas de interés público de acuerdo con lo establecido en la Ley General de Urbanismo y Construcciones.
+
+r) Aprobar los planes seccionales de remodelación de conformidad con las disposiciones de la Ley General de Urbanismo y Construcciones.
 
 Las municipalidades tendrán, además, las atribuciones no esenciales que le confieren las leyes o que versen sobre materias que la Constitución Política de la República expresamente ha encargado sean reguladas por la ley común.
 
@@ -202,9 +208,9 @@ e) El plan comunal de seguridad pública.
 
 #### Artículo 7º
 
-El plan comunal de desarrollo, instrumento rector del desarrollo en la comuna, contemplará las acciones orientadas a satisfacer las necesidades de la comunidad local y a promover su avance social, económico y cultural. Su vigencia mínima será de cuatro años, sin que necesariamente deba coincidir con el período de desempeño de las autoridades municipales electas por la ciudadanía. Su ejecución deberá someterse a evaluación periódica, dando lugar a los ajustes y modificaciones que correspondan.
+El plan comunal de desarrollo, instrumento rector del desarrollo en la comuna, contemplará las acciones destinadas a satisfacer las necesidades de la comunidad local y a promover su avance social, económico y cultural y, en base a ellas, definirá orientaciones estratégicas para la planificación territorial de nivel comunal. Su vigencia mínima será de cuatro años, sin que necesariamente deba coincidir con el período de desempeño de las autoridades municipales electas por la ciudadanía. Su ejecución deberá someterse a evaluación periódica, dando lugar a los ajustes y modificaciones que correspondan.
 
-En todo caso, en la elaboración y ejecución del plan comunal de desarrollo, tanto el alcalde como el concejo deberán tener en cuenta la participación ciudadana y la necesaria coordinación con los demás servicios públicos que operen en el ámbito comunal o ejerzan competencias en dicho ámbito.
+En todo caso, en la elaboración y ejecución del plan comunal de desarrollo, tanto el alcalde como el concejo deberán tener en cuenta la participación ciudadana y la necesaria coordinación con los demás servicios públicos que operen en el ámbito comunal o ejerzan competencias en dicho ámbito, así como la coherencia entre sus acciones y las disposiciones contenidas en el respectivo instrumento de planificación territorial de nivel comunal, en todo aquello que resulte procedente, dentro del ámbito de sus competencias.
 
 #### Artículo 8º
 
@@ -542,7 +548,7 @@ Adscrito a esta unidad existirá el asesor urbanista, quien requerirá estar en 
 
 a) Asesorar al alcalde y al concejo en la promoción del desarrollo urbano;
 
-b) Estudiar y elaborar el plan regulador comunal, y mantenerlo actualizado, promoviendo las modificaciones que sean necesarias y preparar el plan de inversiones en infraestructura de movilidad y espacio público y los planos de detalle y planes seccionales, en su caso, y
+b) Estudiar y elaborar el plan regulador comunal y mantenerlo actualizado; deberá elaborar los informes de monitoreo que establece la Ley General de Urbanismo y Construcciones y promover las modificaciones que sean necesarias, además de preparar el plan de inversiones en infraestructura de movilidad y espacio público y los planos de detalle y planes seccionales, en su caso.
 
 c) Informar técnicamente las proposiciones sobre planificación urbana intercomunal, formuladas al municipio por la Secretaría Regional Ministerial de Vivienda y Urbanismo.
 
@@ -910,11 +916,13 @@ La calificación se considerará para el ascenso, cesación en el empleo y para 
 
 La capacitación y el perfeccionamiento en el desempeño de la función municipal se realizarán mediante un sistema que propenda a estos fines a través de programas.
 
-Estas actividades podrán llevarse a cabo mediante convenios con instituciones públicas o privadas.
+Estas actividades podrán llevarse a cabo mediante convenios con instituciones públicas o privadas. El Ministerio de Vivienda y Urbanismo informará los programas de formación y capacitación en planificación urbana y materias afines y su respectiva certificación disponibles para cada año calendario.
 
 La ley podrá exigir como requisito de promoción o ascenso el haber cumplido determinadas actividades de capacitación o perfeccionamiento. La destinación a los cursos de capacitación y perfeccionamiento se efectuará por orden de escalafón o por concurso, según lo determine la ley.
 
 Podrán otorgarse becas a los funcionarios municipales para seguir cursos relacionados con su capacitación y perfeccionamiento.
+
+El Ministerio de Vivienda y Urbanismo informará y ofrecerá anualmente programas de capacitación en planificación territorial y materias afines al personal profesional y técnico de las secretarías comunales de planificación de los municipios vulnerables, tanto del sector urbano como rural, que forman parte del Fondo de Equidad Territorial que creó la ley N° 21.591, sobre Royalty a la Minería.
 
 #### Artículo 47
 
@@ -1208,7 +1216,7 @@ El alcalde requerirá el acuerdo del concejo para:
 
 a) Aprobar el plan comunal de desarrollo y el presupuesto municipal, y sus modificaciones, como asimismo los presupuestos de salud y educación, los programas de inversión correspondientes y las políticas de recursos humanos, de prestación de servicios municipales y de concesiones, permisos y licitaciones;
 
-b) Aprobar el plan regulador comunal, los planes seccionales y sus planos de detalle, el plan de inversiones en infraestructura de movilidad y espacio público y los estudios, proyectos, obras y medidas no incluidos en éstos que sean propuestos por los interesados conforme lo establece el artículo 179 de la Ley General de Urbanismo y Construcciones, en su caso, y el proyecto de plan regulador comunal o de plan seccional en los casos a que se refiere la letra k) del artículo 5º;
+b) Aprobar el plan regulador comunal, el plan seccional de remodelación, los planes seccionales y sus planos de detalle, los planes maestros de regeneración, la propuesta de normas urbanísticas especiales para las habilitaciones normativas de terrenos, el plan de inversiones en infraestructura de movilidad y espacio público y los estudios, proyectos, obras y medidas no incluidos en éstos que sean propuestos por los interesados conforme con el artículo 179 de la Ley General de Urbanismo y Construcciones, en su caso;
 
 c) Aprobar el plan comunal de seguridad pública y sus actualizaciones;
 
@@ -1326,9 +1334,11 @@ i) Los indicadores más relevantes que den cuenta de la gestión en los servicio
 
 j) El estado de la aplicación de la política de recursos humanos;
 
-k) Todo hecho relevante de la administración municipal que deba ser conocido por la comunidad local, y
+k) Todo hecho relevante de la administración municipal que deba ser conocido por la comunidad local.
 
 l) Una relación detallada del uso, situación y movimiento de todos y cada uno de los aportes recibidos para la ejecución del plan de inversiones en infraestructura de movilidad y espacio público a que se refiere la Ley General de Urbanismo y Construcciones, la asignación de aportes en dinero a obras específicas, las obras ejecutadas, los fondos disponibles en la cuenta especial, la programación de obras para el año siguiente y las medidas de mitigación directa, estudios, proyectos, obras y medidas por concepto de aportes al espacio público recepcionadas y garantizadas y las incluidas en los permisos aprobados, consignando, además, las garantías a que alude el artículo 173 de la Ley General de Urbanismo y Construcciones que obren en su poder y la situación de los fondos obtenidos por el cobro de garantías.
+
+m) El estado de la planificación territorial de la comuna, de los procesos de planificación territorial de nivel comunal en curso y/o del estado de actualización del respectivo instrumento, para lo que considerará los informes de monitoreo a que se refiere la Ley General de Urbanismo y Construcciones.
 
 Un extracto de la cuenta pública del alcalde deberá ser difundido a la comunidad. Sin perjuicio de lo anterior, la cuenta íntegra efectuada por el alcalde deberá estar a disposición de los ciudadanos para su consulta.
 
@@ -1498,13 +1508,9 @@ i) Elegir, en un solo acto, a los integrantes del directorio que le corresponda 
 
 j) Solicitar informe a las empresas, corporaciones, fundaciones o asociaciones municipales, y a las entidades que reciban aportes o subvenciones de la municipalidad. En este último caso, la materia del informe sólo podrá consistir en el destino dado a los aportes o subvenciones municipales percibidos. Los informes requeridos deberán ser remitidos por escrito dentro del plazo de quince días;
 
-k) Otorgar su acuerdo para la asignación y cambio de denominación de los bienes municipales y nacionales de uso público bajo su administración, como asimismo, de poblaciones, barrios y conjuntos habitacionales del territorio comunal previo
+k) Otorgar su acuerdo para la asignación y cambio de denominación de los bienes municipales y nacionales de uso público bajo su administración, como asimismo, de poblaciones, barrios y conjuntos habitacionales del territorio comunal previo informe escrito del consejo
 
-informe escrito del consejo
-
-comunal de organizaciones de
-
-la sociedad civil;
+comunal de organizaciones de la sociedad civil;
 
 l) Fiscalizar las unidades y servicios municipales. En el ejercicio de su función fiscalizadora, el concejo, con el acuerdo de, al menos, un tercio de sus miembros, podrá citar a cualquier director municipal para que asista a sesiones del concejo con el objeto de formularle preguntas y requerir información en relación con materias propias de su dirección. El reglamento de funcionamiento del concejo establecerá el procedimiento y demás normas necesarias para regular estas citaciones;
 
@@ -1516,9 +1522,11 @@ Un informe de dichos cometidos y su costo se incluirán en el acta del concejo;
 
 m) Supervisar el cumplimiento del plan comunal de desarrollo;
 
-n) Pronunciarse, a más tardar el 31 de marzo de cada año, a solicitud del consejo comunal de organizaciones de la sociedad civil, sobre las materias de relevancia local que deben ser consultadas a la comunidad por intermedio de esta instancia, como asimismo la forma en que se efectuará dicha consulta, informando de ello a la ciudadanía, y
+n) Pronunciarse, a más tardar el 31 de marzo de cada año, a solicitud del consejo comunal de organizaciones de la sociedad civil, sobre las materias de relevancia local que deben ser consultadas a la comunidad por intermedio de esta instancia, como asimismo la forma en que se efectuará dicha consulta, informando de ello a la ciudadanía.
 
 ñ) Informar a las organizaciones comunitarias de carácter territorial y funcional; a las asociaciones sin fines de lucro y demás instituciones relevantes en el desarrollo económico, social y cultural de la comuna, cuando éstas así lo requieran, acerca de la marcha y funcionamiento de la municipalidad, de conformidad con los antecedentes que haya proporcionado el alcalde con arreglo al artículo 87.
+
+o) Aprobar la propuesta de normas urbanísticas especiales elaborada por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo para la habilitación normativa de terrenos.
 
 Lo anterior es sin perjuicio de las demás atribuciones y funciones que le otorga la ley.
 
@@ -1622,7 +1630,7 @@ Se entiende que existe dicho interés cuando su resolución afecte moral o pecun
 
 #### Artículo 90
 
-Los empleadores de las personas que ejerzan un cargo de concejal deberán conceder a éstas los permisos necesarios para ausentarse de sus labores habituales hasta por ocho horas semanales, no acumulables, con el objeto de asistir a todas las sesiones del concejo y de las comisiones de trabajo que éste constituya. Del mismo modo, se deberán conceder permisos laborales para el desempeño de cometidos en representación de la municipalidad, con un máximo, para estos efectos, de tres días durante un año calendario, no acumulables. El tiempo que abarquen los permisos otorgados no será de cargo del empleador, sin perjuicio de lo que acuerden las partes, y se entenderá trabajado para los demás efectos legales, bastando para ello presentar la correspondiente certificación del secretario municipal.
+Los empleadores de las personas que ejerzan un cargo de concejal deberán conceder a éstas los permisos necesarios para ausentarse de sus labores habituales hasta por ocho horas semanales, no acumulables, con el objeto de asistir a todas las sesiones del concejo, a las comisiones de trabajo que éste constituya y al programa de formación y capacitación señalado en el artículo 92 bis. Del mismo modo, se deberán conceder permisos laborales para el desempeño de cometidos en representación de la municipalidad, con un máximo, para estos efectos, de tres días durante un año calendario, no acumulables. El tiempo que abarquen los permisos otorgados no será de cargo del empleador, sin perjuicio de lo que acuerden las partes, y se entenderá trabajado para los demás efectos legales, bastando para ello presentar la correspondiente certificación del secretario municipal.
 
 Asimismo, los concejales, por la actividad que realicen en tal condición, quedarán sujetos al seguro contra riesgo de accidentes del trabajo y enfermedades profesionales establecido en la Ley Nº 16.744, gozando de los beneficios que correspondan a la naturaleza de su cargo. El costo de este beneficio será de cargo municipal.
 
@@ -1643,6 +1651,8 @@ Cada municipalidad, en concordancia con su disponibilidad financiera, deberá do
 Para ello, durante la primera sesión ordinaria, el alcalde someterá a la aprobación del concejo los medios a usar durante el período respectivo, debiendo este acuerdo formar parte del reglamento interno a que hace alusión el artículo 92, y ser publicado en la página web de la municipalidad, en concordancia con lo establecido en los artículos 2º y 7º de la ley Nº20.285, sobre Acceso a la Información Pública.
 
 Asimismo, cada año la municipalidad, en concordancia con su disponibilidad financiera, podrá incorporar en el presupuesto municipal recursos destinados a financiar la capacitación de los concejales en materias relacionadas con gestión municipal.
+
+La capacitación al concejo municipal en planificación urbana y materias afines será llevada a cabo por el Ministerio de Vivienda y Urbanismo, directamente o a través de terceros. Los miembros del concejo municipal podrán cursar el programa de formación y capacitación elaborado para estos efectos. El Ministerio informará en la sesión de instalación del concejo municipal del referido programa y certificará la asistencia a los cursos ofertados en el programa elaborado para estos efectos.
 
 ## Título IV
 
@@ -2381,6 +2391,8 @@ g) Vencido el término de prueba, se remitirán los autos al fiscal judicial par
 h) La corte, en su sentencia, si da lugar al reclamo, decidirá u ordenará, según sea procedente, la anulación total o parcial del acto impugnado; la dictación de la resolución que corresponda para subsanar la omisión o reemplazar la resolución anulada; la declaración del derecho a los perjuicios, cuando se hubieren solicitado, y el envío de los antecedentes al Ministerio Público, cuando estimare que la infracción pudiere ser constitutiva de delito, e
 
 i) Cuando se hubiere dado lugar al reclamo, el interesado podrá presentarse a los tribunales ordinarios de justicia para demandar, conforme a las reglas del juicio sumario, la indemnización de los perjuicios que procedieren y ante el Ministerio Público, la investigación criminal que correspondiere. En ambos casos, no podrá discutirse la ilegalidad ya declarada.
+
+No obstante lo anterior, los reclamos que se interpongan contra las resoluciones que emita la unidad encargada de obras municipales en el ejercicio de las funciones descritas en la letra a) del inciso primero del artículo 24 de la presente ley deberán ajustarse a las reglas que disponga la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 152
 

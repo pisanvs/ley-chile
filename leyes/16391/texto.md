@@ -18,7 +18,7 @@ Créase el Ministerio "de la Vivienda y Urbanismo", al cual corresponderán las 
 
 El Ministerio tendrá a su cargo la política habitacional y urbana del país y la coordinación de las instituciones que se relacionen con el Gobierno por su intermedio, y, en especial, ejercerá las siguientes funciones:
 
-1°- Elaborar los planes de viviendas urbanas y rurales, equipamiento comunitario y desarrollo urbano;
+1°- Elaborar los planes de viviendas urbanas y rurales, equipamiento comunitario y desarrollo urbano, para lo cual, entre otras medidas, podrán identificarse zonas o unidades territoriales que requieren de forma prioritaria una estrategia de focalización, planificación y gestión de inversión pública y privada para fines de integración social y urbana, denominadas "zonas de interés público". Las características, procedimiento de identificación, selección, aprobación y aplicación de estas zonas serán reglamentadas por el Ministerio;
 
 2°- Proyectar, ejecutar y supervigilar todas las obras necesarias para el cumplimiento de sus fines;
 
@@ -50,9 +50,15 @@ El Ministerio tendrá a su cargo la política habitacional y urbana del país y 
 
 16°.- Implementar políticas de suelo, estableciendo medidas que tengan por objeto reducir y contener el déficit habitacional y urbano y que propicien la construcción y disponibilidad de viviendas de interés público, mediante la adquisición, destinación o habilitación normativa de terrenos para el otorgamiento de soluciones habitacionales definitivas o transitorias; el impulso de procesos de regeneración de barrios o conjuntos habitacionales altamente segregados o deteriorados; o el fomento de procesos de reconversión o rehabilitación de edificaciones que presenten obsolescencia funcional, entre otras medidas;
 
-17°.- Resguardar que los instrumentos de planificación territorial contemplen criterios de integración e inclusión social y urbana, mediante normas urbanísticas u otras exigencias o disposiciones que resguarden o incentiven la construcción, habilitación o reconstrucción de viviendas destinadas a familias vulnerables, de sectores emergentes y medios y que promuevan el acceso equitativo por parte de la población a bienes públicos urbanos relevantes, tales como la cercanía a ejes estructurantes de movilidad, el acceso a servicios de transporte público o la disponibilidad de áreas verdes o equipamientos de interés público, como educación, salud, servicios, comercio, deporte y cultura, entre otras medidas, y
+17°.- Resguardar que los instrumentos de planificación territorial contemplen criterios de integración e inclusión social y urbana, mediante normas urbanísticas u otras exigencias o disposiciones que resguarden o incentiven la construcción, habilitación o reconstrucción de viviendas destinadas a familias vulnerables, de sectores emergentes y medios y que promuevan el acceso equitativo por parte de la población a bienes públicos urbanos relevantes, tales como la cercanía a ejes estructurantes de movilidad, el acceso a servicios de transporte público o la disponibilidad de áreas verdes o equipamientos de interés público, como educación, salud, servicios, comercio, deporte y cultura, entre otras medidas.
 
-18°- En general, conocer y estudiar todos los asuntos, materias y problemas relacionados con la vivienda, obras de equipamiento comunitario y desarrollo urbano.
+18°.- Fomentar, implementar y ejecutar instancias y programas de formación, capacitación técnica y acreditación de capacidades a los funcionarios públicos, órganos y autoridades comunales y regionales en materias urbanísticas y de planificación urbana. Ellas también se podrán impartir a los particulares, y estarán orientadas a fortalecer los conocimientos técnicos necesarios para contar con instrumentos de planificación territorial actualizados, en cumplimiento de lo dispuesto en el artículo 28 decies de la Ley General de Urbanismo y Construcciones.
+
+19°.- Elaborar un reporte anual sobre el estado de la planificación urbana a nivel nacional. Éste deberá incluir un resumen ejecutivo que sea comprensible para el público en general y se elaborará sobre la base de la documentación disponible en los sistemas de información regulados en la Ley General de Urbanismo y Construcciones, junto con aquella disponible en los sitios electrónicos o requerida directamente a los organismos que elaboren, modifiquen o promulguen los respectivos instrumentos de planificación territorial.
+
+20°.- Interpretar con carácter general las disposiciones de la Ley General de Urbanismo y Construcciones, la Ordenanza General de Urbanismo y Construcciones y los instrumentos de planificación territorial de todos los niveles.
+
+21°- En general, conocer y estudiar todos los asuntos, materias y problemas relacionados con la vivienda, obras de equipamiento comunitario y desarrollo urbano.
 
 #### Artículo 3°
 

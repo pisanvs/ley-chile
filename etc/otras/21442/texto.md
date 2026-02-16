@@ -806,7 +806,7 @@ Sin perjuicio de lo dispuesto en el inciso anterior, la asamblea podrá solicita
 
 #### Artículo 53
 
-El director de obras municipales tendrá un plazo de treinta días corridos para pronunciarse sobre las solicitudes a que se refieren los artículos 48 y 52, contados desde la fecha de la presentación de la misma. Será aplicable a este requerimiento lo dispuesto en los incisos segundo, tercero y cuarto del artículo 118 de la Ley General de Urbanismo y Construcciones.
+El Director de Obras Municipales tendrá el plazo de treinta días corridos para pronunciarse sobre las solicitudes a que se refieren los artículos 48 y 52, contado desde la fecha de su presentación. Será aplicable a este requerimiento lo dispuesto en los artículos 118 bis, 118 ter y 118 quáter de la Ley General de Urbanismo y Construcciones.
 
 ## Título X
 
@@ -822,7 +822,7 @@ En un condominio tipo B, la superficie de los sitios resultantes podrá ser infe
 
 Los nuevos condominios deberán respetar la trama vial que, conforme a lo dispuesto en la letra d) del artículo 28 quáter de la Ley General de Urbanismo y Construcciones, hubiere establecido el correspondiente instrumento de planificación territorial.
 
-Con todo, si el referido instrumento no se hubiere adaptado aún a lo dispuesto en dicha norma y el predio en que se emplazaría un nuevo condominio tiene una superficie total superior a la que establezca la Ordenanza General de Urbanismo y Construcciones, dependiendo del tipo de proyecto y/o su emplazamiento, serán aplicables las siguientes reglas supletorias:
+Con todo, si el predio en que se emplazaría un nuevo condominio tiene una superficie total superior a la que establezca la Ordenanza General de Urbanismo y Construcciones, dependiendo del tipo de proyecto y/o su emplazamiento, serán aplicables las siguientes reglas:
 
 a) El proyecto de nuevo condominio deberá incorporar una trama vial que contemple, en primer lugar, la extensión de vías públicas existentes en el entorno y, si ello no fuere factible, la proyección de nuevas circulaciones destinadas al uso público, dividiendo el condominio en sectores cuya superficie sea igual o inferior a la que establezca la referida Ordenanza General para ese tipo de proyecto y emplazamiento.
 

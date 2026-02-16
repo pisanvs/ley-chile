@@ -18,7 +18,11 @@ Del Delegado Presidencial Regional
 
 #### Artículo 1°
 
-El gobierno interior de cada región reside en el delegado presidencial regional, quien será el representante natural e inmediato del Presidente de la República en el territorio de su jurisdicción. Será nombrado por éste y se mantendrá en sus funciones mientras cuente con su confianza.
+El gobierno interior de cada región reside en el Delegado Presidencial Regional, quien será el representante natural e inmediato del Presidente de la República en el territorio de su competencia. Será nombrado por éste y se mantendrá en su cargo mientras cuente con su confianza.
+
+El Delegado Presidencial Regional ejercerá sus funciones con arreglo a las leyes y a las instrucciones que le imparta el Presidente de la República directamente o a través del Ministerio del Interior.
+
+El Delegado Presidencial Regional ejercerá el rol de coordinación regional de gobierno y velará por una adecuada gestión de los servicios públicos y de los planes y programas en ejecución en la región. En ejercicio de esta función, podrá requerir informes sobre el cumplimiento de las funciones de las secretarías regionales ministeriales y sobre las instrucciones de carácter técnico y administrativo que les impartan los ministerios respectivos.
 
 El delegado presidencial regional será subrogado por el delegado presidencial provincial que designe el Presidente de la República. Lo anterior se entenderá sin perjuicio de la facultad del Presidente de la República para designar un suplente, sin sujeción al requisito de tiempo establecido por el inciso tercero del artículo 4° de la Ley N° 18.834.
 
@@ -28,9 +32,9 @@ Corresponderá al delegado presidencial regional:
 
 a) Dirigir las tareas de gobierno interior en la región, de conformidad con las orientaciones, órdenes e instrucciones que le imparta el Presidente de la República directamente o a través del Ministerio del Interior;
 
-b) Velar porque en el territorio de su jurisdicción se respete la tranquilidad, orden público y resguardo de las personas y bienes;
+b) Velar por la tranquilidad y protección de las personas y bienes en la región;
 
-c) Requerir el auxilio de la fuerza pública en el territorio de su jurisdicción, en conformidad a la ley;
+c) Instruir el auxilio de la fuerza pública en el territorio de su competencia, a través del Secretario Regional Ministerial de Seguridad Pública, en conformidad con la ley;
 
 d) Mantener permanentemente informado al Presidente de la República sobre el cumplimiento de las funciones del gobierno interior en la región, como asimismo sobre el desempeño de los delegados presidenciales provinciales y demás jefes regionales de los organismos públicos que funcionen en ella;
 
@@ -44,7 +48,9 @@ h) Efectuar denuncias o presentar requerimientos a los tribunales de justicia, c
 
 i) Representar extrajudicialmente al Estado en la región para la realización de los actos y la celebración de los contratos que queden comprendidos en la esfera de su competencia;
 
-j) Ejercer la coordinación, fiscalización o supervigilancia de los servicios públicos creados por ley para el cumplimiento de la función administrativa, que operen en la región, y que dependan o se relacionen con el Presidente de la República a través de un Ministerio;
+j) Ejercer la coordinación, fiscalización o supervigilancia de los servicios públicos creados por ley para el cumplimiento de la función administrativa, que operen en la región, y que dependan o se relacionen con el Presidente de la República a través de un Ministerio.
+
+En el ejercicio de esta función deberá informar semestralmente al Ministerio del Interior sobre el estado y funcionamiento de los servicios públicos regionales o provinciales;
 
 k) Proponer al Presidente de la República una terna para la designación de los secretarios regionales ministeriales;
 
@@ -58,9 +64,13 @@ n) Adoptar las medidas necesarias para la adecuada administración de los comple
 
 ñ) Adoptar todas las medidas necesarias para prevenir y enfrentar situaciones de emergencia o catástrofe;
 
-o) Dictar las resoluciones e instrucciones que estime necesarias para el ejercicio de sus atribuciones, y
+o) Dictar las resoluciones e instrucciones que estime necesarias para el ejercicio de sus atribuciones;
 
-p) Cumplir las demás funciones que le asignen las leyes y las atribuciones que el Presidente de la República le delegue, incluida la de otorgar personalidad jurídica a las corporaciones y fundaciones que se propongan desarrollar actividades en el ámbito de la región , ejerciendo al efecto las facultades que señalan los artículos 546, 548, 561 y 562 del Código Civil.
+p) Cumplir las demás funciones que le asignen las leyes y las atribuciones que el Presidente de la República le delegue, incluida la de otorgar personalidad jurídica a las corporaciones y fundaciones que se propongan desarrollar actividades en el ámbito de la región , ejerciendo al efecto las facultades que señalan los artículos 546, 548, 561 y 562 del Código Civil;
+
+q) Ejercer la coordinación en materia de prevención y respuesta frente a conflictos sociales que no importen un riesgo para la seguridad pública, y
+
+r) Ejercer las funciones que la ley le entrega al Ministerio del Interior en el territorio de la región, conforme a las instrucciones que emanen de dicho Ministerio.
 
 El delegado presidencial regional podrá delegar en los delegados presidenciales provinciales determinadas atribuciones, no pudiendo ejercer la competencia delegada sin revocar previamente la delegación.
 
@@ -86,7 +96,7 @@ El delegado presidencial provincial ejercerá las atribuciones que menciona este
 
 El delegado presidencial provincial tendrá todas las atribuciones que el delegado presidencial regional le delegue y, además, las siguientes que esta ley le confiere directamente:
 
-a) Ejercer las tareas de gobierno interior, especialmente las destinadas a mantener en la provincia el orden público y la seguridad de sus habitantes y bienes;
+a) Ejercer las tareas de gobierno interior, en la provincia;
 
 b) Aplicar en la provincia las disposiciones legales sobre extranjería;
 
@@ -94,7 +104,7 @@ c) Autorizar reuniones en plazas, calles y demás lugares de uso público, en co
 
 Estas autorizaciones deberán ser comunicadas a Carabineros de Chile;
 
-d) Requerir el auxilio de la fuerza pública en el territorio de su jurisdicción, en conformidad a la ley;
+d) Requerir el auxilio de la fuerza pública en el territorio de su jurisdicción, a través del Director Provincial de Seguridad Pública, en conformidad a la ley;
 
 e) Adoptar todas las medidas necesarias para prevenir y enfrentar situaciones de emergencia o catástrofe;
 
@@ -112,9 +122,11 @@ j) Supervisar los programas y proyectos de desarrollo que los servicios público
 
 k) Disponer las medidas de coordinación necesarias para el desarrollo provincial;
 
-l) Hacer presente al delegado presidencial regional o a los respectivos secretarios regionales ministeriales, con la debida oportunidad, las necesidades que observare en su territorio jurisdiccional, y
+l) Hacer presente al delegado presidencial regional o a los respectivos secretarios regionales ministeriales, con la debida oportunidad, las necesidades que observare en su territorio jurisdiccional, y;
 
-m) Cumplir las demás funciones y ejercer las atribuciones que las leyes y reglamentos le asignen.
+m) Ejercer las funciones que la ley le entrega al Ministerio del Interior en el territorio de la provincia, conforme a las instrucciones que emanen de dicho Ministerio, y
+
+n) Cumplir las demás funciones y ejercer las atribuciones que las leyes y reglamentos le asignen.
 
 #### Artículo 5°
 
@@ -185,6 +197,8 @@ Los delegados presidenciales regionales y delegados presidenciales provinciales 
 #### Artículo 12
 
 El Servicio de Gobierno Interior apoyará el ejercicio de las funciones y atribuciones que el presente Título confiere a delegados presidenciales regionales y delegados presidenciales provinciales.
+
+Asimismo, el Servicio podrá prestar apoyo administrativo para el ejercicio de las funciones y atribuciones de las Secretarías Regionales Ministeriales y de los Departamentos Provinciales de Seguridad Pública.
 
 ## Título Segundo
 
@@ -288,7 +302,9 @@ f) Fomentar y propender al desarrollo de áreas rurales y localidades aisladas e
 
 g) Proponer a la autoridad competente la localidad en que deberán radicarse las secretarías regionales ministeriales y las direcciones regionales de los servicios públicos, sin perjuicio de los traslados transitorios a otras localidades de la región;
 
-h) Financiar estudios que definan las condiciones de localización para la disposición de los distintos tipos de residuos y los sistemas de tratamientos más adecuados para cada uno de ellos, en coordinación con las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, de Medio Ambiente y de Salud respectivas, en conformidad a las normas que rigen la materia, e
+h) Financiar estudios que definan las condiciones de localización para la disposición de los distintos tipos de residuos y los sistemas de tratamientos más adecuados para cada uno de ellos, en coordinación con las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, de Medio Ambiente y de Salud respectivas, en conformidad a las normas que rigen la materia, sin perjuicio de la posibilidad de financiar estudios para la elaboración o modificación de instrumentos de planificación territorial de nivel intercomunal o comunal, para cuyo efecto se podrá aplicar lo dispuesto en el artículo 16 de la ley N° 18.091.
+
+Financiar programas de profesionalización, formación y capacitación de las secretarías comunales de planificación de municipios vulnerables, sean de sector urbano o rural, en los procesos de creación y/o actualización de los instrumentos de planificación territorial.
 
 i) Proponer territorios como zonas rezagadas en materia social, y su respectivo plan de desarrollo, aplicando los criterios y demás reglas establecidas en la política nacional sobre la materia.
 
@@ -322,7 +338,7 @@ En materia de desarrollo social y cultural, corresponderá al gobierno regional 
 
 a) Establecer prioridades regionales para la erradicación de la pobreza;
 
-b) Participar, en coordinación con las autoridades competentes, en acciones destinadas a facilitar el acceso de la población de escasos recursos o que viva en lugares aislados, a beneficios y programas en el ámbito de la salud, educación y cultura, vivienda, seguridad social, deportes y recreación y asistencia judicial;
+b) Participar, en coordinación con las autoridades competentes, en acciones destinadas a facilitar el acceso de la población de escasos recursos o que viva en lugares aislados, a beneficios y programas en el ámbito de la salud, educación y cultura, apoyos y cuidados, vivienda, seguridad social, deportes y recreación y asistencia judicial;
 
 c) Proponer programas y proyectos con énfasis en grupos vulnerables o en riesgo social;
 
@@ -968,9 +984,7 @@ c) Aprobar el plan regional de ordenamiento territorial, previo informe favorabl
 
 Aprobar los planes reguladores metropolitanos y los planes reguladores intercomunales, así como los planos de detalle de estos últimos, propuestos por la Secretaría Regional Ministerial de Vivienda y Urbanismo.
 
-Aprobar los planes reguladores comunales y los planes seccionales de comunas que no formen parte de un territorio normado por un plan regulador metropolitano o intercomunal, previamente acordados por las municipalidades, en conformidad con la Ley General de Urbanismo y Construcciones, sobre la base del informe técnico que deberá emitir la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
-
-No obstante lo anterior, le corresponderá pronunciarse sobre los planes reguladores comunales y los planes seccionales de comunas que, formando parte de un territorio normado por un plan regulador metropolitano o intercomunal, hayan sido objeto de un informe técnico desfavorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo, sólo respecto de aquellos aspectos que hayan sido objetados en dicho informe.
+Pronunciarse sobre los planes reguladores comunales y los planes seccionales de comunas que, formando parte de un territorio normado por un plan regulador metropolitano o intercomunal, hayan sido objeto de un informe técnico desfavorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo, sólo respecto de aquellos aspectos que hayan sido objetados en dicho informe. En este caso, el consejo regional solo podrá aprobar el proyecto mediante acuerdo fundado.
 
 El consejo regional deberá pronunciarse dentro del plazo de noventa días, contado desde su recepción, cuando se trate de planes regionales de ordenamiento territorial, planes reguladores metropolitanos o intercomunales. Tratándose de planos de detalle de planes reguladores intercomunales, planes reguladores comunales y planes seccionales, el pronunciamiento deberá emitirse dentro del plazo de sesenta días. Transcurridos que sean dichos plazos, se entenderá aprobado el respectivo instrumento de planificación;
 
@@ -1058,17 +1072,11 @@ Salvo que la ley exija un quórum distinto, los acuerdos del consejo se adoptar�
 
 #### Artículo 39
 
-Los consejeros regionales tendrán derecho a una dieta mensual de veinte unidades tributarias mensuales, la que se percibirá por la asistencia a la totalidad de las sesiones del consejo celebradas en el mes respectivo, disminuyéndose proporcionalmente según el número de inasistencias del consejero.
-
-Para los efectos anteriores, se considerarán tanto las sesiones ordinarias como las extraordinarias.
-
-Inciso eliminado
+Los consejeros regionales tendrán derecho a una dieta mensual de veinte unidades tributarias mensuales, la que se percibirá por la asistencia a la totalidad de las sesiones del consejo celebradas en el mes respectivo, disminuyéndose proporcionalmente según el número de inasistencias del consejero. Para los efectos anteriores, se considerarán tanto las sesiones ordinarias como las extraordinarias.
 
 El consejo acordará el número de sesiones ordinarias a realizar en el mes, debiendo efectuarse a lo menos dos.
 
 Asimismo, cada consejero regional tendrá derecho a percibir una dieta de cuatro unidades tributarias mensuales, con un máximo de doce en el mes, por la asistencia a cada sesión e comisión de las referidas en el artículo 37.
-
-INCISO SUPRIMIDO.
 
 Para efectos de la percepción de la dieta y de la asignación adicional establecidas en los incisos precedentes, no serán consideradas como inasistencias aquellas que obedezcan a razones médicas o de salud que hayan sido debidamente acreditadas mediante certificado expedido por médico habilitado, presentado ante el consejo a través del secretario ejecutivo. Igualmente, para los efectos señalados y previo acuerdo del consejo, se podrá eximir a un consejero de la asistencia a sesión en razón del fallecimiento de un hijo, del cónyuge o conviviente civil, de un hermano y de sus padres.
 
@@ -1078,8 +1086,6 @@ Sin perjuicio de lo señalado, cada consejero tendrá derecho anualmente a una d
 
 Cuando un consejero regional se encuentre en el desempeño de cometidos en representación del gobierno regional o del consejo regional, y ello le signifique trasladarse fuera de su lugar de residencia habitual, tendrá derecho a pasajes o reembolsos por gastos de traslado y a una suma equivalente al viático que corresponde al gobernador regional, por conceptos de gastos de alimentación y de alojamiento, los que no requerirán rendición. Igual derecho tendrán los consejeros que deban trasladarse fuera de su lugar de residencia habitual para asistir a las sesiones del consejo y de las comisiones. El consejo regional sólo podrá encomendar el cumplimiento de tareas a sus miembros en la medida que exista disponibilidad presupuestaria, la que deberá certificar el jefe de división de administración y finanzas del gobierno regional.
 
-Incisos Eliminados.
-
 Con todo, los cometidos al extranjero que acuerde el consejo regional durante el año no podrán significar una disposición de recursos en cada gobierno regional que supere el 10% del total contemplado anualmente en su presupuesto en la asignación correspondiente para aplicación de este artículo. Lo anterior deberá ser certificado previamente por el jefe de la división de administración y finanzas del gobierno regional y, en todo caso, el cometido será dispuesto formalmente por el gobernador regional respectivo.
 
 Los consejeros regionales podrán afiliarse al sistema de pensiones de vejez, de invalidez y de sobrevivencia, de acuerdo a lo establecido en el decreto ley Nº3.500, por el solo hecho de asumir tales funciones. Para estos efectos, los consejeros se asimilarán al régimen de los trabajadores por cuenta ajena. Las obligaciones que para estos fines se imponen a los empleadores se radicarán en los respectivos gobiernos regionales. Las cotizaciones previsionales se calcularán sobre la base de las asignaciones mensuales que a los consejeros corresponda percibir en virtud de los incisos primero, segundo y cuarto.
@@ -1088,11 +1094,13 @@ Los consejeros regionales, por la actividad que realicen en tal condición, qued
 
 El gobierno regional podrá financiar la capacitación de los consejeros regionales en materias de su competencia.
 
+La capacitación al consejo regional en planificación urbana y materias afines será llevada a cabo por el Ministerio de Vivienda y Urbanismo, directamente o a través de terceros. Los miembros del consejo regional podrán cursar el programa de formación y capacitación elaborado para estos efectos. El Ministerio informará sobr e el programa disponible en la primera sesión del consejo a que se refiere el artículo 99 bis y certificará la asistencia a los cursos ofertados en el programa elaborado para estos efectos.
+
 > **Nota.** La letra b del N° 29 del Art. 1 de la Ley 21073, publicada el 22.02.2018, dispuso la sustitución en el presente artículo en los incisos séptimo, décimo y undécimo la palabra "intendente" por la expresión "gobernador regional", sin embargo la frase a sustituir no existe en este texto, por cuanto fue reemplazada por la Ley 21074 publicada el 15.02.2018, por lo que no se pudo efectuar la modificación.
 
 #### Artículo 39 bis
 
-Los empleadores de las personas que ejerzan un cargo de consejero regional deberán conceder a éstas los permisos necesarios para ausentarse de sus labores habituales con el objeto de asistir a las sesiones del consejo, así como también a las de las comisiones a que se refiere el artículo 37, hasta por doce horas semanales, no acumulables.
+Los empleadores de las personas que ejerzan un cargo de consejero regional deberán conceder a éstas los permisos necesarios para ausentarse de sus labores habituales con el objeto de asistir a las sesiones del consejo, así como también a las de las comisiones a que se refiere el artículo 37, y al programa de formación y capacitación indicado en el artículo 39 hasta por doce horas semanales, no acumulables.
 
 Del mismo modo, se deberá conceder permisos laborales para el desempeño de cometidos en representación del gobierno regional, con un máximo, para estos efectos, de tres días durante un año calendario, no acumulables. El tiempo que abarquen los permisos otorgados no será de cargo del empleador, sin perjuicio de lo que acuerden las partes, y se entenderá trabajado para los demás efectos legales, bastando para ello presentar la correspondiente certificación del secretario ejecutivo del consejo.
 
@@ -1312,7 +1320,7 @@ d) Una División de Fomento e Industria, encargada de proponer, promover y ejecu
 
 e) Una División de Infraestructura y Transportes, encargada de proponer, promover y ejecutar planes y programas de alcance regional, en materia de obras de infraestructura y equipamiento regional; y gestión de transporte.
 
-f) Una División de Desarrollo Social y Humano, encargada de proponer, promover y ejecutar planes y programas de alcance regional, conducentes a la igualdad de derechos y oportunidades y la cohesión social.
+f) Una División de Desarrollo Social y Humano, encargada de proponer, promover y ejecutar planes y programas de alcance regional, conducentes a la igualdad de derechos y oportunidades y la cohesión social. Asimismo, le corresponderá asesorar al gobernador regional en todas las materias asociadas a los apoyos y cuidados.
 
 Estas tres últimas divisiones deberán coordinar el accionar de los servicios públicos regionales que dependan o se relacionen con el gobierno regional.
 

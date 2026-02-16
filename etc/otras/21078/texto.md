@@ -278,7 +278,7 @@ b) Desde el cumplimiento de un plazo de siete años a contar de la fecha de noti
 
 Lo dispuesto en el inciso anterior no se aplicará cuando los bienes referidos se enajenen en el marco de operaciones de leasing.
 
-Con todo, si la modificación que amplía el límite urbano fuere rechazada, no será aplicable el impuesto a que se refiere el inciso primero respecto de aquellas enajenaciones que ocurran a contar de dicho evento. Tampoco se aplicará el impuesto respecto de aquellas enajenaciones que ocurran con posterioridad a su exclusión de la zona de ampliación del límite urbano por modificaciones al plan regulador, conforme a lo establecido en el inciso final del artículo 36 y el inciso sexto del artículo 43, ambos de la Ley General de Urbanismo y Construcciones.
+Con todo, si la modificación que amplía el límite urbano fuere rechazada, no será aplicable el impuesto a que se refiere el inciso primero respecto de aquellas enajenaciones que ocurran a contar de dicho evento. Tampoco se aplicará el impuesto respecto de aquellas enajenaciones que ocurran con posterioridad a su exclusión de la zona de ampliación del límite urbano por modificaciones al plan regulador, conforme a lo establecido en el inciso final del artículo 36, el inciso primero del artículo 43 bis, el inciso primero del artículo 43 ter y el numeral 6 del artículo 53, todos de la Ley General de Urbanismo y Construcciones.
 
 Tampoco se aplicará este impuesto en los casos de enajenaciones forzadas en cumplimiento de una ley especial o general que autorice la expropiación por causa de utilidad pública o del interés nacional.
 
@@ -312,7 +312,7 @@ Esta tasación, en adelante "valor comercial inicial de referencia", deberá rea
 
 a) El acuerdo del concejo municipal o consejo regional, según corresponda, de los términos en que se procederá a diseñar un anteproyecto de plan regulador que considere una ampliación del límite urbano, a que se refiere el numeral 5 del artículo 28 octies del decreto con fuerza de ley N° 458, de 1975, del Ministerio de Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones.
 
-b) La elaboración del proyecto de plan regulador por la secretaría regional ministerial competente o la aprobación por el concejo municipal a que se refieren, respectivamente, el inciso final del artículo 36 y el inciso sexto del artículo 43, ambos de la Ley General de Urbanismo y Co, cuyas modificaciones incluyan bienes raíces no contemplados en el literal anterior en la ampliación del límite urbano.
+b) La elaboración del proyecto de plan regulador por la secretaría regional ministerial competente o la aprobación por el concejo municipal a que se refieren, respectivamente, el inciso final del artículo 36, el inciso primero del artículo 43 bis, el inciso primero del artículo 43 ter y el numeral 6 del artículo 53, todos de la Ley General de Urbanismo y Construcciones, cuyas modificaciones incluyan bienes raíces no contemplados en el literal anterior en la ampliación del límite urbano.
 
 2. Para las enajenaciones de un bien raíz, de derechos reales constituidos sobre tales bienes o de cuotas poseídas en comunidad respecto de ellos, realizadas con posterioridad a la primera enajenación que se haya gravado con el impuesto a que se refiere esta ley, el valor comercial inicial corresponderá al valor de adquisición del bien respectivo.
 
@@ -352,7 +352,7 @@ Para establecer el valor comercial inicial de referencia a que aluden los numera
 
 Entrega de información. La autoridad encargada de la elaboración o promulgación de un plan regulador, según corresponda, deberá comunicar al Servicio de Impuestos Internos la información establecida en los numerales siguientes. El plazo para el otorgamiento de la misma será de cinco días contados desde los hechos que se indican en cada caso:
 
-1. Las propuestas de modificación del límite urbano adoptadas en el acuerdo sobre los términos en que se procederá a elaborar el anteproyecto de plan a que se refiere el numeral 5 del artículo 28 octies del decreto con fuerza de ley N° 458, de 1975, del Ministerio de Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones. En la misma oportunidad, la autoridad deberá comunicar la fecha exacta de publicación de los documentos que formulan la imagen objetivo, establecida en el numeral 2 del artículo 28 bis B del mismo cuerpo legal.
+1. Las propuestas de modificación del límite urbano adoptadas en el acuerdo sobre los términos en que se procederá a elaborar el anteproyecto de plan a que se refiere el numeral 5 del artículo 28 octies del decreto con fuerza de ley N° 458, de 1975, del Ministerio de Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones. En la misma oportunidad, la autoridad deberá comunicar la fecha exacta de publicación de los documentos que formulan la imagen objetivo, establecida en el numeral 2 del artículo 28 octies del mismo cuerpo legal.
 
 2. Las alteraciones o el rechazo de la propuesta de modificación del límite urbano contenida en el acuerdo a que se refiere el numeral 1 precedente, conforme lo disponen el inciso final del artículo 36 y el inciso sexto del artículo 43, ambos de la Ley General de Urbanismo y Construcciones.
 
