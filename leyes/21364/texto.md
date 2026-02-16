@@ -518,6 +518,8 @@ Por su parte, los Planes para la Reducción del Riesgo de Desastres deberán con
 
 Los Planes de Emergencia deberán comprender la coordinación general de las capacidades del Sistema para la respuesta frente a los distintos niveles de emergencia, y establecer una estructura de gestión operativa de las emergencias, disponiendo con claridad las líneas de autoridad y responsabilidad en la gestión territorial de éstas, considerando el trabajo con equipos multidisciplinarios e interinstitucionales, y la utilización eficiente y oportuna de los medios disponibles, mediante el uso o movilización gradual y escalonado de recursos humanos, técnicos y materiales.
 
+Los Planes para la Gestión del Riesgo de Desastres deberán identificar y considerar, en todas sus fases, a las personas cuidadoras, niños, niñas, adolescentes, personas con discapacidad y personas mayores, que son titulares del Sistema Nacional de Apoyos y Cuidados, con el objeto de asegurar su protección, inclusión y acceso oportuno a apoyos específicos durante situaciones de emergencia o desastre. Los lineamientos técnicos, mecanismos de articulación e implementación se ajustarán a lo señalado en ambas Políticas Nacionales, tanto para la Reducción del Riesgo de Desastres como la de Apoyos y Cuidados, de acuerdo con las funciones y atribuciones de cada institución, dentro de sus competencias.
+
 #### Artículo 26
 
 <!-- parte:10257860 -->
