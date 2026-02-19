@@ -26,13 +26,9 @@ Resuelvo:
 
 2. Para su ingreso al país, el envío deberá estar amparado por un Certificado Fitosanitario Oficial, emitido por la autoridad fitosanitaria de Perú, en el que consten las siguientes declaraciones adicionales:
 
-2.1 "El envío fue inspeccionado y se encuentra libre de: Anastrepha fraterculus, Anastrepha oblicua, Anastrepha serpentina, Anastrepha striata, Ceratitis capitata, Ecdytolopha aurantiana, Dysmicoccus brevipes, Ferrisia virgata y Nipaecoccus nipae",y
+2.1 "El envío fue inspeccionado y se encuentra libre de: Anastrepha fraterculus, Anastrepha oblicua, Anastrepha serpentina, Anastrepha striata, Ceratitis capitata, Ecdytolopha aurantiana, Dysmicoccus brevipes, Ferrisia virgata y Nipaecoccus nipae", y
 
-2.2 Para el patógeno Phytophthora palmivora:
-
-2.2.1 "El envío fue producido bajo un procedimiento fitosanitario aprobado por SAG, a través de resolución exenta, y se encuentra libre de Phytophthora palmivora", o
-
-2.2.2 "El envío se encuentra libre de Phytophthora palmivora, de acuerdo al resultado del análisis oficial de laboratorio".
+2.2 El envío ha sido sometido a un proceso que incluye selección de los frutos, lavado con desinfectante, cepillado y encerado para el control de Phytophthora palmivora.
 
 3. La cáscara de los frutos, al momento de cosecha, deberá tener coloración verde en el 100% de su superficie, y no presentar daños ni heridas, condición a ser verificada por Senasa durante la certificación fitosanitaria de los envíos.
 
@@ -40,9 +36,9 @@ Resuelvo:
 
 5. Los envíos deberán provenir de lugares de producción sometidos a monitoreo oficial de moscas de la fruta por parte de Senasa, como parte del programa oficial de vigilancia implementado por la ONPF peruana.
 
-6. El programa fitosanitario que se acuerde entre SAG y Senasa para la plaga Phytophthora palmivora (conformante de la alternativa de Declaración Adicional señalada en Resuelvo 2 de la presente regulación) quedará detallado en una resolución exenta emitida por SAG, que incluirá las medidas fitosanitarias para el control del patógeno.
+6. Los envíos de limón tahití y limón sutil, no deben contener frutos que hayan estado en contacto con el suelo, ya sea por caída natural desde el árbol o por contacto directo derivado del peso de las ramas.
 
-7. Los frutos frescos deberán ser sometidos a un proceso de lavado, cepillado y selección antes de ser empacados.
+7. Los envíos de limón tahití y limón sutil, deberán ser sometidos a una aplicación de fungicida de amplio espectro durante los procesos de poscosecha.
 
 ### 8. El envío deberá estar libre de suelo, flores, hojas y restos vegetales
 
