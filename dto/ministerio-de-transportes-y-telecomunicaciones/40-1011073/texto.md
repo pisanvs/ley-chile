@@ -28,6 +28,10 @@ d) Evaluar los procesos de determinación de las tarifas en las bases de licitac
 
 e) Pronunciarse sobre otros requerimientos de opinión o asesoría técnica solicitadas por el Ministerio, las que no necesariamente deben circunscribirse a materias de transporte relacionadas con la Provincia de Santiago y las comunas de San Bernardo y Puente Alto.
 
+#### Artículo 1 bis
+
+Los miembros del Panel deberán ejercer sus funciones con estricto apego a la ley y de manera objetiva y estarán obligados a guardar estricta reserva de toda la información de la que tomen conocimiento con motivo u ocasión del ejercicio de sus funciones.
+
 ## Título II
 
 Del funcionamiento
@@ -106,9 +110,7 @@ Cada vez que el Panel proponga un determinado nivel de tarifas, según lo establ
 
 El nuevo nivel de tarifas deberá ser informado por el Panel de Expertos al Ministerio, a lo menos 30 días antes de su aplicación, lo cual deberá ser sancionado por resolución del Ministro de Transportes y Telecomunicaciones y deberá ser implementado por el Administrador Financiero de Transantiago S.A., en el plazo indicado.
 
-Los aumentos o disminuciones de tarifas que determine el Panel deberán expresarse como un cambio porcentual de todas las tarifas adultas vigentes, para luego determinar cada tarifa individual según el múltiplo de 10 pesos más cercano. Las tarifas de los pasajes escolares y estudiantiles se determinarán según la normativa vigente.
-
-Con todo, los aumentos o disminuciones de tarifas, por sobre los reajustes por variaciones de costos según se indica en la letra a) del Artículo 14, de la Ley 20.378 no podrán exceder el valor de 5% en cada mes. Mientras esté vigente el subsidio a que se refiere el Artículo Tercero Transitorio de la ley señalada, el Panel no podrá determinar una reducción en el nivel general de tarifas.
+Los aumentos o disminuciones de tarifas deben expresarse y circunscribirse a lo prescrito en los incisos tercero y cuarto del artículo 15 de la ley Nº 20.378.
 
 El Presidente del Panel o quien éste designe, será el encargado de informar a la ciudadanía, a través de comunicados, conferencias de prensa o cualquier otro medio de difusión pública, la resolución definitiva que establezca los aumentos o disminuciones de tarifas, contemplados en los párrafos anteriores, una vez adoptada dicha resolución.
 
