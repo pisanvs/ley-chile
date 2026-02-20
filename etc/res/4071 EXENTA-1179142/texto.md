@@ -116,7 +116,7 @@ Yponomeuta malinellus (Lep. Yponomeutidae)
 
 Taeniothrips inconsequens (Thy. Thripidae).
 
-1.1.3 El material vegetal deriva de plantas madres que fueron inspeccionadas y analizadas mediante (especificar técnica de diagnóstico para cada caso) en el momento óptimo para la detección de la plaga, y encontradas libres de Cherry rasp leaf virus, Erwinia amylovora y Pseudomonas syringae pv. papulans.
+1.1.3 El material vegetal deriva de plantas madres que fueron inspeccionadas y analizadas mediante (especificar técnica de diagnóstico para cada caso) en el momento óptimo para la detección de la plaga, y encontradas libres de Cherry rasp leaf virus y Erwinia amylovora.
 
 1.1.4 El lugar de producción del material fue inspeccionado durante el momento óptimo para la detección de la plaga y las muestras extraídas de las plantas madres fueron sometidas a análisis oficial de laboratorio, encontrándose libres de Colletotrichum acutatum, Neofabraea perennans, Neofabraea malicorticis y Phyllosticta solitaria.
 
