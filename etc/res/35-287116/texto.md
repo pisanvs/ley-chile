@@ -26,30 +26,6 @@ Resuelvo :
 
 a) Tarifa Servicios Puros:
 
-Tarifa Buses Adulto $770 (setecientos setenta pesos)
-
-Tarifa Metro Valle $790 (setecientos noventa pesos)
-
-Tarifa Metro Periodo Punta $870 (ochocientos setenta pesos)
-
-Tarifa Metro Baja $710 (setecientos diez pesos)
-
-Tarifa Trenes Valle $790 (setecientos noventa pesos)
-
-Tarifa Trenes Periodo Punta $870 (ochocientos setenta pesos)
-
-Tarifa Trenes Baja $710 (setecientos diez pesos)
-
-Escolar Sup. y Media Buses $250 (doscientos cincuenta pesos)
-
-Escolar Sup. y Media Metro y
-
-Trenes Período Punta, Baja y
-
-Valle $250 (doscientos cincuenta pesos)
-
-Escolar Básica $0
-
 Tarifa Metro Plebiscito 25
 
 de octubre de 2020 $0
@@ -212,7 +188,7 @@ La Tarifa Integrada Adulto Mayor de 65 años o más corresponderá a la mitad de
 
 e) Tarifa Inteligente:
 
-La Tarifa Inteligente corresponde a las Tarifas Buses Adulto; Metro período Punta, Valle y Baja; y las tarifas Trenes período, Punta, Valle y Baja, pagadas exclusivamente con cuentas de transporte ABT (Código C2D o QR), las que tendrán un límite de cobro equivalente a $39.000 (treinta y nueve mil pesos) por mes calendario. Dicho monto será reajustado solo en múltiplos de $1.000 y en el mismo porcentaje que varía la Tarifa Buses Adulto desde el último ajuste del valor del referido límite de cobro. El nuevo valor comenzará a regir desde el primer día del mes siguiente a aquel en el que haya entrado en vigencia el cambio tarifario. Los cobros por los viajes que se realicen una vez superado dicho monto corresponderán a $0 (cero pesos) hasta el último día del mes calendario.
+La Tarifa Inteligente corresponde a las Tarifas Buses Adulto; Metro período Punta, Valle y Baja; y las tarifas Trenes período, Punta, Valle y Baja, pagadas exclusivamente con cuentas de transporte ABT (Código C2D o QR), las que tendrán un límite de cobro equivalente a $42.000 (cuarenta y dos mil pesos) por mes calendario. Dicho monto será reajustado solo en múltiplos de $1.000 y en el mismo porcentaje que varía la Tarifa Buses Adulto desde el último ajuste del valor del referido límite de cobro. El nuevo valor comenzará a regir desde el primer día del mes siguiente a aquel en el que haya entrado en vigencia el cambio tarifario. Los cobros por los viajes que se realicen una vez superado dicho monto corresponderán a $0 (cero pesos) hasta el último día del mes calendario.
 
 Una cuenta ABT (Account Based Ticketing) corresponde al saldo de cuotas de transporte de una cuenta virtual enlazado a una cuenta de transporte ABT, la que tiene asociada a su vez, un usuario debidamente identificado y cuyo saldo se aloja en los Sistemas Centrales administrados por el Proveedor de Servicios Tecnológicos del Sistema de Transporte Público Metropolitano.
 
