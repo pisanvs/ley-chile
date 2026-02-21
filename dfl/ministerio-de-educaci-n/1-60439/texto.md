@@ -940,15 +940,19 @@ Sin perjuicio de lo señalado en el inciso tercero, podrá designarse excepciona
 
 Los profesionales de la educación se incorporan a una dotación docente en calidad de titulares o en calidad de contratados.
 
-Son titulares los profesionales de la educación que se incorporan a una dotación docente previo concurso público de antecedentes.
+Son titulares los profesionales de la educación que se incorporan a una dotación docente previo concurso público de antecedentes, o en virtud de lo dispuesto en el artículo 28 bis.
 
-Tendrán calidad de contratados aquellos que desempeñan labores docentes transitorias, experimentales, optativas, especiales o de reemplazo de titulares.
+Tendrán calidad de contratados aquellos que desempeñan labores docentes transitorias, experimentales, optativas, especiales o de reemplazo de titulares. Dichas contrataciones deberán efectuarse mediante concurso público o un proceso de reclutamiento y selección transparente, objetivo y público.
 
 #### Artículo 26
 
 El número de horas correspondientes a docentes en calidad de contratados en una misma Municipalidad o Corporación Educacional, no podrá exceder del 20% del total de horas de la dotación de las mismas, a menos que en la comuna no haya suficientes docentes que puedan ser integrados en calidad de titulares, en razón de no haberse presentado postulantes a los respectivos concursos, o existiendo aquéllos, no hayan cumplido con los requisitos exigidos en las bases de los mismos.
 
 Los docentes a contrata podrán desempeñar funciones docentes directivas.
+
+#### Artículo 26 bis
+
+Los profesionales de la educación que tengan la calidad de titulares y asuman labores directivas, no perderán dicha calidad, la cual será reconocida al momento de continuar desempeñando alguna de las funciones a que se refiere el artículo 5.
 
 #### Artículo 27
 
@@ -957,6 +961,18 @@ La incorporación a una dotación docente en calidad de titular se hará por con
 #### Artículo 28
 
 Los concursos a que se refiere el artículo anterior, deberán ser publicitados, a lo menos, en un diario de circulación nacional. Las convocatorias se efectuarán al menos una vez al año y tendrán el carácter de nacionales, debiendo efectuarse la convocatoria de una de ellas antes del 15 de diciembre del año en que se produjo la vacante a fin de dar cumplimiento al artículo 26. Asimismo, podrá convocarse a concurso cada vez que sea imprescindible llenar la vacante producida y no fuere posible contratar a un profesional de la educación en los términos del artículo 25.
+
+#### Artículo 28 bis
+
+Sin perjuicio de lo dispuesto en los artículos 27 y 28, se concederá la calidad de titulares de la dotación docente, por resolución del sostenedor, a los profesionales de la educación parvularia, básica o media, que se encuentren en calidad de contratados y cumplan al 31 de marzo del año respectivo, los siguientes requisitos copulativos:
+
+1. Encontrarse incorporados en calidad de contratados a la dotación docente.
+
+2. Haberse incorporado en calidad de contratados a la dotación docente, mediante concurso público o un proceso de reclutamiento y selección transparente, objetivo y público.
+
+3. Haberse desempeñado como docentes en la dotación, para un mismo sostenedor, en calidad de contratados, durante, a lo menos, cuatro años continuos o cuatro años discontinuos en los últimos seis años, debiendo contar con contrataciones sucesivas y continuas, que abarquen los últimos dos años.
+
+El cambio de la calidad de contratados a titulares se concederá por resolución del sostenedor, y comenzará a regir a contar del 1 de abril del año respectivo.
 
 #### Artículo 29
 
@@ -2077,6 +2093,18 @@ En aquellas comunas que tengan menos de 10.000 habitantes a que alude el inciso 
 #### Artículo 40
 
 transitorio.- Las modificaciones introducidas en los incisos segundo y siguientes del artículo 73 comenzarán a regir a partir de la formulación del Plan de Desarrollo Educativo Municipal del año 2008.
+
+#### Artículo 41
+
+transitorio.- Por única vez lo dispuesto en el artículo 28 bis se aplicará sin exigir el requisito previsto en su numeral 2, respecto de los docentes que cumplan con los demás requisitos al 31 de julio de 2025.
+
+El cambio de la calidad de contratados a titulares se concederá por resolución del sostenedor y comenzará a regir a contar del primer día del mes siguiente al de la entrada en vigencia de ese artículo.
+
+#### Artículo 42
+
+transitorio.- En los procesos de reconocimiento de titularidad que se realicen con posterioridad a aquel señalado en el artículo anterior, deberán cumplirse todos los requisitos establecidos en el artículo 28 bis, con excepción del numeral 2.
+
+Sin perjuicio de lo señalado en el inciso precedente, dicho requisito será exigible a contar del primer proceso de reconocimiento de titularidad que se lleve a cabo una vez transcurrido el plazo de cuatro años contado desde la entrada en vigencia del presente artículo y en todos los procesos que se realicen en adelante.
 
 Anótese, tómese razón, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de la Contraloría General de la República.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Sergio Molina Silva, Ministro de Educación.- Eduardo Aninat Ureta, Ministro de Hacienda.
 
