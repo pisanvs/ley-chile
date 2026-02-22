@@ -28,9 +28,9 @@ Fíjese la siguiente norma técnica de equipos de alcance reducido.
 
 #### Artículo 1°
 
-Los equipos que empleen ondas radioeléctricas y que cumplan con los requisitos que a continuación se detallan solo necesitarán certificación para su uso, sin perjuicio que sean parte de un proyecto técnico de concesión o permiso:
+Los equipos de radiocomunicaciones que se describen en la presente norma técnica deberán cumplir con los parámetros de operación que se indican para cada caso, aun cuando formen parte de un proyecto técnico de concesión o permiso:
 
-a) Transceptores portátiles que operen en las bandas de frecuencias 26.960 a 27.410 kHz; 40,66 a 40,70 MHz; 433,05 a 434,79 MHz; 462,540 a 462,740 MHz; 467,550 a 467,725 MHz; o en las frecuencias 49,830; 49,845; 49,860; 49,875 y 49,890 MHz, y que cumplan los siguientes requisitos:
+a) Transceptores portátiles que operen en las bandas de frecuencias 26.960 a 27.410 kHz; 40,66 a 40,70 MHz; 433,05 a 434,79 MHz; 462,540 a 462,740 MHz; 467,550 a 467,725 MHz; o en las frecuencias 49,830; 49,845; 49,860; 49,875 y 49,890 MHz:
 
 a.1) Los equipos que operen en la banda de 26.960 a 27.410 kHz deben usar como frecuencia portadora uno o más de los 40 canales asignados al Servicio de Banda Local, según lo establecido en la respectiva norma técnica.
 
@@ -44,11 +44,11 @@ a.4) La antena consistirá en un elemento simple y su base estará permanentemen
 
 a.5) La potencia de los equipos que operen en la banda de frecuencias 26.960 a 27.410 kHz o en las frecuencias 49,830; 49,845; 49,860; 49,875 y 49,890 MHz, en corriente continua, suministrada a la etapa final de radiofrecuencia del equipo, no será superior a 100 mW, alternativamente y en el caso de no ser posible la determinación de la potencia en la forma antes señalada, se medirá la potencia consumida por el equipo, la cual no podrá ser superior a 130 mW, en cualquier condición de modulación.
 
-La potencia máxima radiada de los equipos que operen en las bandas 40,66 a 40,70 MHz y 433,05 a 434,79 MHz no deberá exceder 10 mW.
+La potencia radiada de los equipos que operen en las bandas 40,66 a 40,70 MHz y 433,05 a 434,79 MHz no deberá exceder 10 mW.
 
-La potencia máxima radiada de los equipos que operen en las bandas 462,540 a 462,740 MHz y 467,550 a 467,725 MHz no deberá exceder 500 mW y, además, los equipos no deberán poseer la capacidad de incremento de su potencia de transmisión a un valor superior al indicado.
+La potencia radiada de los equipos que operen en las bandas 462,540 a 462,740 MHz y 467,550 a 467,725 MHz no deberá exceder 500 mW y, además, los equipos no deberán poseer la capacidad de incremento de su potencia de transmisión a un valor superior al indicado.
 
-b) Controles remotos que operen en las siguientes frecuencias o bandas de frecuencias con una intensidad de campo eléctrico o potencia máxima radiada que no exceda los valores que se indican a continuación:
+b) Controles remotos que operen en las siguientes frecuencias o bandas de frecuencias con una intensidad de campo eléctrico o potencia radiada que no exceda los valores que se indican a continuación:
 
 b.1) Controles remotos para abrir puertas
 
@@ -104,9 +104,9 @@ c.3) La antena consistirá en un elemento simple y su base estará permanentemen
 
 c.4) Toda emisión fuera de banda, deberá ser reducida, a lo menos, en 20 dB, con respecto al nivel de la portadora sin modulación.
 
-c.5) La potencia máxima radiada de los equipos que operen en la banda 216 a 217 MHz no deberá exceder 10mW.
+c.5) La potencia radiada de los equipos que operen en la banda 216 a 217 MHz no deberá exceder 10mW.
 
-d) Teléfonos inalámbricos que operen en alguna de las bandas comprendidas entre 1.620 a 1.790 kHz, 31 a 31,35 MHz, 39,9 a 40,25 MHz, 902 a 905 MHz, 914 a 915 MHz, 925 a 928 MHz, 959 a 960 MHz o en las frecuencias 26.995; 27.045; 27.095; 27.145; 27.195; 27.255 kHz y 49,830; 49,845; 49,860; 49,875; 49,890 MHz y que cumplan los siguientes requisitos:
+d) Teléfonos inalámbricos que operen en alguna de las bandas comprendidas entre 1.620 a 1.790 kHz, 31 a 31,35 MHz, 39,9 a 40,25 MHz, 902 a 905 MHz, 914 a 915 MHz, 925 a 928 MHz, 959 a 960 MHz o en las frecuencias 26.995; 27.045; 27.095; 27.145; 27.195; 27.255 kHz y 49,830; 49,845; 49,860; 49,875; 49,890 MHz:
 
 d.1) El equipo sólo podrá utilizarse como terminal inalámbrico de un sistema telefónico por línea física.
 
@@ -120,9 +120,9 @@ d.5) Las emisiones entre 10 kHz y 50 kHz considerados a ambos lados de la frecue
 
 d.6) La antena consistirá en un elemento simple y su base deberá estar permanentemente adherida a los respectivos equipos.
 
-d.7) Además de las frecuencias o bandas de frecuencias antes señaladas, los teléfonos inalámbricos podrán operar en las bandas 2.400 a 2.483,5 MHz y 5.725 a 5.850 MHz, si cumplen con lo establecido para el uso de las citadas bandas en la letra j.1) del presente artículo. Los teléfonos inalámbricos también podrán operar en la banda de frecuencias 1.920 a 1.930 MHz si emplean técnicas de selección dinámica de canales y una potencia máxima de transmisión de 22 dBm. Lo anterior, sin perjuicio del cumplimiento de lo establecido en d.1), d.6) y d.7).
+d.7) Además de las frecuencias o bandas de frecuencias antes señaladas, los teléfonos inalámbricos podrán operar en las bandas 2.400 a 2.483,5 MHz y 5.725 a 5.850 MHz, si cumplen con lo establecido para el uso de las citadas bandas en la letra j.1) del presente artículo. Los teléfonos inalámbricos también podrán operar en la banda de frecuencias 1.920 a 1.930 MHz si emplean técnicas de selección dinámica de canales y una potencia de transmisión de 22 dBm. Lo anterior, sin perjuicio del cumplimiento de lo establecido en d.1), d.6) y d.7).
 
-e) Equipos para identificación por radiofrecuencia (RFID) que operen en las siguientes bandas de frecuencias con una intensidad de campo eléctrico que no exceda los valores que se indican a continuación:
+e) Equipos para identificación por radiofrecuencia (RFID) que operen en las siguientes bandas de frecuencias no excederán los valores de intensidad de campo eléctrico que se indican a continuación:
 
 Bandas de frecuencias Intensidad
 
@@ -152,7 +152,7 @@ y 902 a 928 MHz 80 mV/m a
 
 925 - 928 MHz 1 W
 
-f) Radioalarmas que operen en alguna de las siguientes frecuencias: 915; 2.450; 5.800; 10.525 y 24.125 MHz y que cumplan con los requisitos que se indican a continuación:
+f) Radioalarmas que operen en en las frecuencias 915; 2.450; 5.800; 10.525 y 24.125 MHz:
 
 f.1) La portadora del equipo sensor operará dentro de las bandas que se indican:
 
@@ -174,19 +174,19 @@ la banda (MHz)
 
 f.2) La emisión de energía en RF, en la frecuencia fundamental no podrá exceder de 50 mV/m a 30 metros para las frecuencias de 915; 2.450 y 5.800 MHz, y de 250 mV/m a 30 metros para las frecuencias de 10.525 y 24.125 MHz.
 
-f.3) Las emisiones espúreas de estos equipos, deberán estar 50 dB bajo el nivel de la fundamental.
+f.3) Las emisiones espurias de estos equipos, deberán estar 50 dB bajo el nivel de la fundamental.
 
 f.4) Alternativamente, a los requisitos señalados en los puntos f.1) a f.3), se aceptarán radioalarmas que operen en cualquier frecuencia, sujetos al requerimiento de que la intensidad de campo en la frecuencia fundamental, no exceda de 15 µV/m a una distancia de λ/2π
 
-g) Sistemas de Comunicaciones de Implantación Médica (MICS), que cumplan los siguientes requisitos, según corresponda:
+g) Sistemas de Comunicaciones de Implantación Médica (MICS):
 
-g.1) Que operen en la banda de frecuencias de 401 a 406 MHz con una potencia máxima radiada de 25 µW, un ancho de banda máximo de 300 kHz y que utilicen las técnicas de reducción de la interferencia indicadas en el Anexo 1 de la Recomendación UIT-R RS.1346, de la Unión Internacional de Telecomunicaciones, para la protección de su funcionamiento, ante las atribuciones de carácter primario que operen en la citada banda de frecuencias.
+g.1) Que operen en la banda de frecuencias de 401 a 406 MHz con una potencia radiada de 25 µW, un ancho de banda máximo de 300 kHz y que utilicen las técnicas de reducción de la interferencia indicadas en el Anexo 1 de la Recomendación UIT-R RS.1346, de la Unión Internacional de Telecomunicaciones, para la protección de su funcionamiento, ante las atribuciones de carácter primario que operen en la citada banda de frecuencias.
 
-g.2) Que operen en la banda de frecuencias de 2.400-2.483,5 MHz con una potencia máxima radiada de 2,5 mW y que empleen tecnología de saltos de frecuencia.
+g.2) Que operen en la banda de frecuencias de 2.400-2.483,5 MHz con una potencia radiada de 2,5 mW y que empleen tecnología de saltos de frecuencia.
 
 g.3) Dispositivos de adquisición de datos médicos que operen en la banda de frecuencias de 430 - 440 MHz, con una p.i.r.e. de 0,1 µW y que empleen tecnología de saltos de frecuencia.
 
-h) Otros equipos empleados para aplicaciones médicas que operen en las siguientes bandas de frecuencias con una intensidad de campo eléctrico o potencia máxima radiada que no exceda los valores que se indican a continuación:
+h) Otros equipos empleados para aplicaciones médicas que operen en las siguientes bandas de frecuencias con una intensidad de campo eléctrico o potencia radiada que no exceda los valores que se indican a continuación:
 
 Bandas de frecuencias Intensidad de
 
@@ -206,35 +206,27 @@ o potencia
 
 13.553 a 13.567 kHz 20 mV/m a 30 metros
 
-También podrán acogerse al presente literal los equipos y sus características, que sean certificados por la letra j.1 de esta resolución.
+También podrán acogerse al presente literal los equipos descritos en el literal j.1 de esta resolución.
 
-i) Equipos empleados como sistemas de radar en vehículos que operen en la banda de 77 a 81 GHz con una P.I.R.E. máxima de 55 dBm conforme a lo dispuesto en la Recomendación UIT-R M.1452-2, en la banda de frecuencias 76 a 77 GHz con una potencia isotrópica radiada equivalente (P.I.R.E.) máxima de 50 dBm y, en la banda 24.000 a 24.250 MHz, con una potencia máxima radiada de 100 mW.
+i) Equipos empleados como sistemas de radar en vehículos que operen en la banda de 77 a 81 GHz con una p.i.r.e. de 55 dBm conforme a lo dispuesto en la Recomendación UIT-R M.1452-2, en la banda de frecuencias 76 a 77 GHz con una p.i.r.e. de 50 dBm y, en la banda 24.000 a 24.250 MHz, con una potencia radiada de 100 mW.
 
 j) Otros equipos que cumplan con lo que se establece a continuación:
 
-j.1) Operen en las bandas de frecuencias 2.400 a 2.483,5 MHz; 5.250 a 5.350 MHz; 5.470 a 5.725 MHz y 5.725 a 5.850 MHz, con una potencia máxima radiada de 1 W y con técnicas de espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 10 MHz y permitan la compartición de frecuencias.
+j.1) Operen en las bandas de frecuencias 2.400 a 2.483,5 MHz; 5.250 a 5.350 MHz; 5.470 a 5.725 MHz y 5.725 a 5.850 MHz, con una potencia radiada de 1 W y con técnicas de espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 10 MHz y permitan la compartición de frecuencias.
 
-También podrán operar en la banda de frecuencias 5.150 a 5.250 MHz, con una potencia máxima radiada de 1 W y una densidad de potencia máxima radiada que no exceda 17 dBm/MHz en cualquier banda de 1 MHz. Además, los equipos deberán emplear alguna de las técnicas de compartición de frecuencias antes señaladas. La operación de los equipos estará restringida al interior de recintos cerrados (casas, edificios, oficinas, fábricas, almacenes, etc.).
+También podrán operar en la banda de frecuencias 5.150 a 5.250 MHz, con una potencia radiada de 1 W en cualquier banda de 1 MHz. Además, los equipos deberán emplear alguna de las técnicas de compartición de frecuencias antes señaladas.
 
-Los equipos de acceso, también aludidos como AP, de baja potencia, que operen en la banda de frecuencias 5.925 a 6.425 MHz, deberán ser para uso exclusivo en interiores y cumplir con los siguientes requisitos de potencia de transmisión:
+Los equipos de acceso, también aludidos como AP, de baja potencia, que operen en la banda de frecuencias 5.925 a 6.425 MHz, deberán ser para uso exclusivo en interiores y cumplir con una p.i.r.e. de 30 dBm.
 
-- PIRE máxima de 30 dBm.
+Los equipos AP de baja potencia solamente podrán contar con antenas integradas, las que no podrán ser removibles ni reemplazables, así como tampoco podrán tener conectores que permitan conectar antenas externas adicionales. Asimismo, no podrán operar con baterías internas ni poseer espacios para su instalación.
 
-- Densidad espectral máxima de 5 dBm / MHz.
+Los dispositivos terminales de usuarios que están asociados con el equipo AP de baja potencia, deben funcionar con una p.i.r.e. de 24 dBm.
 
-Los equipos AP de baja potencia solamente podrán contar con antenas integradas, las que no podrán ser sean removibles ni reemplazables, así como tampoco podrán tener conectores que permitan conectar antenas externas adicionales. Asimismo, no podrán operar con baterías internas ni poseer espacios para su instalación.
-
-Los dispositivos terminales de usuarios que están asociados con el equipo AP de baja potencia, deben funcionar con los siguientes niveles de potencia:
-
-- PIRE máxima de 24 dBm.
-
-- Densidad espectral máxima de -1 dBm / MHz.
-
-No obstante lo mencionado en los incisos tercero al quinto del presente literal, podrán operar dispositivos en exteriores, que empleen baterías internas, con potencia PIRE media máxima de 17 dBm.
+No obstante lo mencionado en los incisos tercero al quinto del presente literal, podrán operar dispositivos en exteriores, que empleen baterías internas, con potencia p.i.r.e. de 17 dBm.
 
 Los equipos que cumplan con las características señaladas en el presente literal, también podrán ser empleados para la provisión de conectividad a internet con fines no comerciales. No obstante lo anterior, los equipos de radiocomunicaciones empleados para los mismos fines antes señalados que no cumplan con lo establecido en este literal, deberán contar con la autorización correspondiente, conforme a lo establecido en las normas técnicas que regulan el uso de las respectivas bandas de frecuencias.
 
-j.2) Operen en las siguientes frecuencias o bandas de frecuencias con una intensidad de campo eléctrico o potencia máxima radiada que no exceda los valores que se indican a continuación:
+j.2) Operen en las siguientes frecuencias o bandas de frecuencias con una intensidad de campo eléctrico o potencia radiada que no exceda los valores que se indican a continuación:
 
 Frecuencias o bandas Intensidad de
 
@@ -294,19 +286,19 @@ Los equipos que operen en la banda de 1.920 a 1.930 MHz deberán emplear técnic
 
 La banda de 17,1 a 17,3 GHz estará destinada para aplicaciones de monitoreo remoto de desplazamientos de estructuras y/o tierra, mediante el empleo de radares terrestres de apertura sintética (GBSAR: Ground Based Synthetic Aperture Radar) que empleen mecanismos que permitan la coexistencia con otros sistemas de radar que operen en la misma banda.
 
-j.3) Operen, en la banda de 915 a 928 MHz, con una potencia máxima radiada de 500 mW con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que permitan compartir frecuencias.
+j.3) Operen, en la banda de 915 a 928 MHz, con una potencia radiada de 500 mW con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que permitan compartir frecuencias.
 
-j.4) Operen, en las bandas de 913 a 919 MHz y 925 a 928 MHz, con una potencia máxima radiada de 1 W con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que permitan compartir frecuencias.
+j.4) Operen, en las bandas de 913 a 919 MHz y 925 a 928 MHz, con una potencia radiada de 1 W con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que permitan compartir frecuencias.
 
 j.5) Operen en la banda de frecuencias de 57 a 64 GHz, en aplicaciones de servicio fijo, con las siguientes características técnicas:
 
-- Potencia máxima de salida del transmisor: 10 dBm.
+- Potencia de salida del transmisor: 10 dBm.
 
 - Ganancia mínima de antena: 30 dBi.
 
-- Potencia máxima radiada: 55 dBm.
+- Potencia radiada: 55 dBm.
 
-También podrán operar equipos en la banda de 57 a 66 GHz, con una PIRE máxima de 40 dBm y densidad máxima de potencia espectral de 13 dBm/MHz.
+También podrán operar equipos en la banda de 57 a 66 GHz, con una p.i.r.e. de 40 dBm.
 
 j.6) Equipos de banda ultra-ancha (conocidos por la sigla en inglés UWB), entendiéndose como tales los que operen con un ancho de banda fraccional igual o superior a 0,20 o un ancho de banda a -10 dB (B-10) igual o superior a 500 MHz, independientemente del ancho de banda fraccional.
 
@@ -316,31 +308,31 @@ donde fC es la frecuencia central del ancho de banda a -10 dB.
 
 Los equipos UWB, dependiendo del tipo de aplicación, deberán cumplir con las disposiciones establecidas en el Apéndice 1 de la presente resolución y no deben ser empleados para el funcionamiento de juguetes ni operarse a bordo de aeronaves, barcos o satélites.
 
-j.7) Operen en la banda de frecuencias de 71 a 76 GHz y 81 a 86 GHz, en aplicaciones de servicio fijo, al interior de inmuebles, con una potencia máxima radiada de 50 dBm.
+j.7) Operen en la banda de frecuencias de 71 a 76 GHz y 81 a 86 GHz, en aplicaciones de servicio fijo, al interior de inmuebles, con una potencia radiada de 50 dBm.
 
 j.8) Operen en la banda de frecuencias de 57 a 71 GHz, con las siguientes características:
 
-- En el caso transmisores empleados para enlaces del servicio fijo punto a punto, que operen al exterior de inmuebles, la PIRE máxima no deberá exceder 85 dBm, la que deberá ser reducida en 2 dB por cada dB de la ganancia de antena que sea menor que 51 dBi.
+- En el caso transmisores empleados para enlaces del servicio fijo punto a punto, que operen al exterior de inmuebles, la p.i.r.e. no deberá exceder 85 dBm, la que deberá ser reducida en 2 dB por cada dB de la ganancia de antena que sea menor que 51 dBi.
 
-- Para sensores por perturbación de campo para operación fija con un ancho de banda igual o menor a 500 MHz, que operen dentro del segmento 61 a 61,5 GHz, la PIRE máxima no deberá exceder 43 dBm y, para los que operen fuera de dicho segmento, pero dentro de la banda 57 a 71 GHz, la PIRE máxima no deberá exceder los 13 dBm.
+- Para sensores por perturbación de campo para operación fija con un ancho de banda igual o menor a 500 MHz, que operen dentro del segmento 61 a 61,5 GHz, la p.i.r.e. no deberá exceder 43 dBm y, para los que operen fuera de dicho segmento, pero dentro de la banda 57 a 71 GHz, la p.i.r.e. no deberá exceder los 13 dBm.
 
-- Para sensores por perturbación de campo para operación fija, que empleen características distintas a las anteriormente señaladas, y para sensores de movimiento interactivo, la potencia máxima del transmisor no deberá exceder de -10 dBm y la PIRE máxima no deberá exceder los 10 dBm.
+- Para sensores por perturbación de campo para operación fija, que empleen características distintas a las anteriormente señaladas, y para sensores de movimiento interactivo, la potencia del transmisor no deberá exceder de -10 dBm y la p.i.r.e. no deberá exceder los 10 dBm.
 
-- Para el caso de equipos distintos a los señalados anteriormente, la PIRE máxima no deberá exceder los 43 dBm.
+- Para el caso de equipos distintos a los señalados anteriormente, la p.i.r.e. no deberá exceder los 43 dBm.
 
 - La potencia de transmisión de los equipos que utilicen un ancho de banda de emisión igual o mayor a 100 MHz, no deberá exceder los 500 mW.
 
-- Los equipos que utilicen un ancho de banda de emisión menor a 100 MHz deberán limitar la potencia máxima de salida del transmisor al valor resultante de multiplicar 500 mW por su ancho de emisión en MHz, dividido entre 100 MHz.
+- Los equipos que utilicen un ancho de banda de emisión menor a 100 MHz deberán limitar la potencia de salida del transmisor al valor resultante de multiplicar 500 mW por su ancho de emisión en MHz, dividido entre 100 MHz.
 
 En la banda 57 a 71 GHz no se permite la operación de equipos utilizados en aeronaves, satélites y sensores por perturbación de campo, incluidos sistemas de radar en vehículo, salvo que los sensores sean empleados para operación fija o para detección de movimiento interactivo.
 
-j.9) Operen en aplicaciones de sistemas de radar sensor de nivel, en ubicaciones fijas, en la banda de frecuencias de 24,05 a 29 GHz, con una PIRE máxima, medida en un ancho de banda de 50 MHz, que no exceda de 20 dBm.
+j.9) Operen en aplicaciones de sistemas de radar sensor de nivel, en ubicaciones fijas, en la banda de frecuencias de 24,05 a 29 GHz, con una p.i.r.e., medida en un ancho de banda de 50 MHz, que no exceda de 20 dBm.
 
-j.10) Operen en aplicaciones de telemetría, monitoreo y/o control, en la banda 169,4 a 169,475 MHz, con una potencia máxima radiada de 500 mW.
+j.10) Operen en aplicaciones de telemetría, monitoreo y/o control, en la banda 169,4 a 169,475 MHz, con una potencia radiada de 500 mW.
 
 k) Internet de las Cosas (IoT): Dispositivos que empleen una o más de las siguientes bandas de frecuencias y límites de potencia, en la comunicación de sensores, actuadores, nodos y otros equipamientos de comunicaciones entre dispositivos del ámbito IoT. Dichos dispositivos deberán emplear mecanismos de compartición de frecuencias y no tendrán protección contra interferencias mutuas ni las provenientes de terceros autorizados.
 
-Banda de Frecuencias Potencia Máxima
+Banda de Frecuencias Potencia
 
 (MHz) Radiada
 
@@ -358,17 +350,107 @@ Banda de Frecuencias Potencia Máxima
 
 5.725 - 5.850 1 W
 
-Sin perjuicio del empleo de frecuencias y potencias de los dispositivos IoT señaladas en la tabla precedente, también se podrán emplear dispositivos IoT certificados bajo las características de aplicaciones RFID, indicadas en el literal e) del presente artículo.
+Todos los equipos de alcance reducido descritos en el presente artículo, deberán cumplir con lo establecido en el artículo 3° de la resolución exenta N° 3.103, de 2012, de la Subsecretaría de Telecomunicaciones, sobre requisitos de seguridad aplicables a instalaciones y equipos que generan ondas electromagnéticas, o la normativa que la reemplace.
 
-> **Nota.** El Nº 6 del artículo primero de la Resolución 2219 Exenta, Transportes, publicada el 24.11.2025, derogó el numeral 9 de la resolución exenta N° 737, de 2025, la cual a su vez modificó el artículo 1 de la presente norma, en el sentido de intercalar después del literal g.2) un literal g.3), nuevo. A su vez, el Nº 7 del artículo primero de la citada resolución, intercaló a continuación del literal g.2) un literal g.3), nuevo. Dichas modificaciones entraron en vigor a partir de su publicación en el Diario Oficial, en conformidad a lo dispuesto por el artículo segundo de la referida norma.
+> **Nota.** El numeral 6 del artículo primero de la Resolución 737 Exenta, Transportes, publicada el 22.05.2025, ordena sustituir en el literal f) del presente artículo la frase “alguna de las siguientes frecuencias:” por “en las frecuencias” manteniendo vigente el vocablo "en" que precede a dicha frase, motivo por el cual en ese literal la referida palabra se encuentra reiterada.
+
+> **Nota.** NOTA 1 El Nº 6 del artículo primero de la Resolución 2219 Exenta, Transportes, publicada el 24.11.2025, derogó el numeral 9 de la resolución exenta N° 737, de 2025, la cual a su vez modificó el artículo 1 de la presente norma, en el sentido de intercalar después del literal g.2) un literal g.3), nuevo. A su vez, el Nº 7 del artículo primero de la citada resolución, intercaló a continuación del literal g.2) un literal g.3), nuevo. Dichas modificaciones entrarán en vigor a partir de su publicación en el Diario Oficial, en conformidad a lo dispuesto por el artículo segundo de la referida norma.
 
 #### Artículo 2°
 
-Los importadores o fabricantes de cualquiera de los equipos antes señalados, previo a venderlos o cederlos a terceros a cualquier título, deberán obtener, de la Subsecretaría de Telecomunicaciones la que a su vez podrá aceptar las certificaciones de otras Administraciones de Telecomunicaciones con las cuales se haya suscrito un acuerdo de reconocimiento mutuo, un certificado que acredite que el o los equipos cumplen con las características técnicas señaladas en la presente resolución y, por lo tanto, su uso no requiere de autorización.
+1) Certificación de equipos descritos en los literales g) y h) del artículo 1°:
 
-La certificación señalada para el caso de equipos MICS y otros equipos empleados para aplicaciones médicas, se refiere única y exclusivamente al cumplimiento de los parámetros técnicos y condiciones de funcionamiento en el ámbito de las telecomunicaciones. Lo anterior, sin perjuicio de lo que dispongan las Autoridades competentes en el ámbito de la salud para este tipo de equipos, siendo responsabilidad de las interesadas recurrir a las referidas autoridades para la verificación de las disposiciones que fueran aplicables en el citado ámbito.
+Todo fabricante o importador de equipos descritos en los literales g) y h) del artículo 1°, antes de venderlos o cederlos a terceros, a cualquier título, para su uso dentro del país, debe obtener un certificado de la Subsecretaría de Telecomunicaciones acreditando el cumplimiento de las disposiciones de la presente norma técnica en materia de emisiones radioeléctricas. Las certificaciones de equipos que se otorguen conforme la presente norma técnica no autorizan, en ningún caso, su utilización para fines médicos.
 
-Además, al solicitarse la certificación deberá demostrarse que se cumple con lo establecido en el Artículo 3° de la resolución N° 3.103, de 2012, de la Subsecretaría de Telecomunicaciones, sobre requisitos de seguridad aplicables a instalaciones y equipos que generen ondas electromagnéticas.
+2) Aplicación de código QR para los equipos descritos en los literales a), b), c), d), e), f), i), j) y k) del artículo 1º:
+
+Todo fabricante o importador de equipos pertenecientes a cualquiera de las categorías descritas en los literales a), b), c), d), e), f), i), j) y k) del artículo 1º, antes de comercializarlos o cederlos a terceros, a cualquier título, para su uso en Chile, debe verificar que sus emisiones radioeléctricas cumplen con la totalidad de la normativa sectorial de telecomunicaciones que le sea aplicable. Para esta verificación, el fabricante o importador de los equipos deberá obtener un Informe de Ensayo o Test Report en que se demuestre que los valores de sus emisiones radioeléctricas se ajustan a lo dispuesto en la normativa sectorial de telecomunicaciones en general y, particularmente, en la presente norma técnica.
+
+Se debe imprimir o adherir un código QR en un lugar visible del empaque exterior del equipo. De no ser factible, podrá incorporarse directamente sobre el equipo, o bien, incluirse en la documentación en papel que se entrega junto a éste, como el manual, la garantía u otros. En todos los casos, el código no debe interferir con otras marcas.
+
+Dicho código QR deberá contener un hipervínculo a un sitio web en español, cuyo formato y contenido debe cumplir con lo indicado en los literales siguientes:
+
+A. Información comercial del equipo y del fabricante o importador en Chile.
+
+- Fecha:
+
+- Nombre comercial del equipo:
+
+- Fabricante:
+
+- Importador o representante en Chile:
+
+- Domicilio:
+
+- Correo electrónico de contacto:
+
+- Sitio web:
+
+B. Características técnicas del equipo.
+
+- Informe de Ensayo o Test Report:
+
+C. Declaración de conformidad: el equipo previamente individualizado cumple con las disposiciones establecidas en la Norma Técnica de Equipos de alcance reducido, aprobada por la resolución exenta N° 1.985, de 2017, de la Subsecretaría de Telecomunicaciones.
+
+D. Para los equipos que hayan sido autorizados por la Subsecretaría de Telecomunicaciones mediante un Oficio de Certificación en atención a la solicitud ingresada hasta el 21 de febrero de 2026, será suficiente publicar dicha certificación en reemplazo de la información señalada en los literales A, B y C precedentes.
+
+3) La información desplegada en el sitio web descrito en el numeral 2) precedente debe ajustarse a las siguientes definiciones, formatos e instrucciones:
+
+a) Fecha: fecha en que se efectúa la publicación de la información en el sitio web en formato día / mes / año.
+
+b) Nombre comercial del equipo: denominación bajo la cual el equipo es comercializado a público.
+
+c) Fabricante: persona natural o jurídica que fabrica el equipo o que contrata con terceros su diseño o manufactura y lo comercializa con su nombre o marca comercial.
+
+d) Representante o importador: el representante es la persona natural o jurídica investida de poderes para representar en Chile al fabricante. Importador es la persona natural o jurídica que introduce el equipo a territorio chileno para su posterior comercialización.
+
+e) Domicilio: domicilio en Chile del fabricante, su representante para Chile o, en su defecto, del importador. El formato es nombre de vía, numeración, comuna.
+
+f) Correo electrónico de contacto: casilla de correo electrónico de contacto del representante o importador.
+
+g) Sitio web: sitio web del fabricante, representante o importador.
+
+h) Tipo de equipo: categoría a la cual corresponde el equipo o dispositivo según su funcionalidad. Por ejemplo: televisor, computador, notebook, control remoto, micrófono, cámara fotográfica, mouse, entre otros. Esta información debe constar en el Informe de Ensayo o Test Report.
+
+i) Marca: denominación de la marca comercial o distintivo bajo la cual el equipo es comercializado a público. Esta información debe constar en el Informe de Ensayo o Test Report.
+
+j) Modelo: denominación comercial que identifica al equipo y lo distingue de otros comercializados bajo la misma marca. Esta información debe constar en el Informe de Ensayo o Test Report.
+
+k) Tecnología o Modulación: mención de los estándares o normas de operación del equipo. En caso de que el equipo pueda operar en más de un estándar o tecnología, se deben mencionar todos separándolos con una barra diagonal o slash. Por ejemplo: 802.11n para WLAN / 802.15.1 para Bluetooth (GFSK). Esta información debe constar del Informe de Ensayo o Test Report.
+
+l) Bandas de frecuencias: rangos de frecuencias de operación del equipo en el formato Y - Z, donde Y es el límite inferior y Z el límite superior. Si el equipo opera conforme varias tecnologías o estándares debe separarse cada uno mediante una barra diagonal o slash. Si el equipo opera en más de un rango de frecuencias dentro de una misma tecnología o estándar, deben mencionarse todos los rangos pertinentes separados por una coma, por ejemplo: 802.15.1 2402-2480 MHz / 802.11b 2.412 - 2.462 MHz / 802.11ax 2412 - 2462 MHz, 5180 - 5240 MHz, 5745 - 5825 MHz. Esta información debe constar del Informe de Ensayo o Test Report.
+
+m) Ganancia de antena: ganancia en dBi de cada antena para cada una de las tecnologías que usa el equipo separadas mediante una barra diagonal o slash. Si el equipo opera con más de una antena dentro de una misma tecnología o estándar, deben mencionarse las ganancias de cada una separadas por una coma, siguiendo el mismo orden del literal l) precedente, por ejemplo: 802.15.1 1.5 dBi / 802.11b 3 dBi / 802.11ax 3 dBi, 4 dBi. Esta información debe constar en el Informe de Ensayo o Test Report.
+
+n) Potencia Isótropa Radiada Equivalente o p.i.r.e.: valor máximo medido en dBm y su equivalente en mW, determinado por el laboratorio que confecciona el Informe de Ensayo o Test Report para cada una de las bandas de frecuencias utilizada por el equipo. En caso de que corresponda, también se puede informar la Intensidad de Campo Eléctrico medida sobre la frecuencia fundamental y la distancia a la que se realizó la medición. En caso de que el equipo use varias antenas para una misma tecnología, se debe informar la suma total de las potencias radiadas de todas las antenas (MIMO). Esta información debe constar en el Informe de Ensayo o Test Report.
+
+o) Módulos: módulo de radiofrecuencia que opera con tecnologías como Bluetooth, Wi-Fi, RFID, ZigBee u otros, que se conectan a una antena para transmitir. En caso de que el equipo no tenga módulos que corresponda informar, se debe insertar un guion medio al centro de cada una de las celdas de la fila correspondiente. Esta información debe constar en el Informe de Ensayo o Test Report.
+
+p) Informe de Ensayo o Test Report: un hipervínculo que permita descargar un archivo en formato PDF correspondiente al Informe de Ensayo o Test Report. El texto ancla desplegado debe corresponder al nombre del archivo.
+
+Si algunas características técnicas de un equipo son confidenciales, se podrá restringir el acceso a ellas en el sitio web mediante una clave. Asimismo, si el Informe de Ensayo o Test Report contiene información confidencial, la versión para libre descarga podrá omitirla o censurarla, requiriéndose una clave para acceder a la versión confidencial. En cualquier caso, la respectiva clave debe ser informada previamente a la Subsecretaría de Telecomunicaciones mediante un correo electrónico dirigido a la casilla certificaciones@subtel.gob.cl.
+
+Si el sitio web contiene información relativa a más de un equipo, deberá tener un buscador. Este buscador permitirá encontrar la información específica de cada equipo según su nombre, marca, modelo, tipo o características técnicas.
+
+4) El código QR mencionado en el numeral 2) precedente debe cumplir con los siguientes requisitos:
+
+a) Debe ubicarse en un lugar visible de una de las caras exteriores del empaque del equipo.
+
+b) Debe tener un tamaño mínimo de 1 cm de ancho por 1cm de alto.
+
+c) No debe tener marcos.
+
+d) Debe ser un modelo legible mediante dispositivos móviles. Por ejemplo: Modelo 2, según estándar QR.
+
+e) El contraste entre los dos colores del patrón que conforma el código QR debe ser legible para cualquier equipo lector.
+
+f) Estilo de borde: cuadrados (módulos).
+
+g) Estilo de centro: cuadrados (módulos).
+
+h) Nivel de corrección: 30%.
+
+No podrán operar los equipos de las categorías descritas en los literales a), b), c), d), e), f), j) y k) del artículo 1º ni tampoco se podrán exponer estos al público si no incorporan un código QR con arreglo al numeral 2 del presente artículo. Asimismo, el código QR correspondiente debe aparecer visible en todo espacio físico o virtual donde se exhiba o publicite un equipo.
 
 #### Artículo 3°
 
@@ -376,11 +458,11 @@ La operación de los equipos, antes señalados, no deberá provocar interferenci
 
 Adicionalmente, considerando que las frecuencias o bandas de frecuencias reguladas por la presente normativa son de uso compartido, será responsabilidad de las respectivas interesadas y de quienes instalen los equipos que éstos cuenten con los mecanismos de protección contra interferencias, que sean necesarios, para el correcto funcionamiento de los equipos y evitar eventuales daños a las personas o bienes, siendo además de su responsabilidad dar cumplimiento con las disposiciones sectoriales, que sean pertinentes, de otras Instituciones del Estado tales como Ministerio de Salud, Dirección General de Aeronáutica Civil u otra, según corresponda al tipo de aplicación del respectivo equipo.
 
-Sin perjuicio de lo anterior, la Subsecretaría de Telecomunicaciones podrá ordenar la suspensión de las transmisiones de los equipos antes señalados, cuando sus emisiones interfieran perjudicialmente a cualquier otro servicio autorizado.
+Sin perjuicio de lo anterior, la Subsecretaría de Telecomunicaciones podrá fiscalizar en cualquier momento el cumplimiento de las exigencias y obligaciones contenidas en esta normativa y ordenar la suspensión de las transmisiones de los equipos antes señalados, cuando sus emisiones interfieran perjudicialmente a cualquier otro servicio autorizado.
 
 #### Artículo 4°
 
-El incumplimiento a lo establecido en la presente resolución dará lugar a la correspondiente responsabilidad infraccional, conforme a las disposiciones del Título VII de la Ley 18.168, General de Telecomunicaciones.
+La infracción a las exigencias y obligaciones previstas en la presente norma, dará lugar al procedimiento sancionatorio previsto en el Título VII de la Ley General de Telecomunicaciones.
 
 #### Artículo 5°
 
@@ -388,7 +470,7 @@ Derógase la resolución exenta N° 755, de 2005, de la Subsecretaría de Teleco
 
 #### Artículo 6º
 
-Los laboratorios que realicen las pruebas y elaboren los reportes (test reports) presentados en las solicitudes de certificación deberán poseer al menos una acreditación internacional, de modo de asegurar calidad y objetividad de las mediciones. Dichas acreditaciones deberán estar estampadas en una o más hojas de los reportes que acompañan la documentación presentada al momento de solicitar la respectiva certificación.
+Los laboratorios que realicen las pruebas y elaboren los Informes de Ensayo o Test Reports deberán poseer al menos una acreditación internacional, de modo de asegurar calidad y objetividad de las mediciones. Dichas acreditaciones deberán estar estampadas en una o más hojas de los reportes que acompañan la documentación que el fabricante o importador debe presentar presentada al momento de solicitar la respectiva certificación, según se indica en el artículo 2°.
 
 Anótese y publíquese en el Diario Oficial.- Rodrigo Ramírez Pino, Subsecretario de Telecomunicaciones,
 
