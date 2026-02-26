@@ -46,7 +46,7 @@ Considerando:
 
 19.- Que, en virtud de todo lo expuesto, esta Subsecretaría de Estado procederá a reemplazar la cartografía de las áreas y sectores de las AAA de la Región del Biobío, representadas en las Cartas SHOA, por los nuevos planos VIII-01-SSP, VIII-02-SSP, VIII-03-SSP, VIII-04-SSP, VIII-05-SSP, VIII-06-SSP, VIII-07-SSP, VIII-08-SSP, VIII-09-SSP, VIII-10-S5P, VIII-11-SSP, VIII-12-SSP y VIII-13-SSP de la Subsecretaría de Pesca y Acuicultura, sin que este proceso implique incorporar nuevas AAA, modificar o eliminar las existentes. Además, se procederá a desafectar para el cultivo intensivo de salmónidos los sectores de AAA en el Golfo de Arauco y Bahía de Concepción.
 
-20.- Que, para un mejor entendimiento, esta Secretaría de Estado, en uso de las facultades ha estimado pertinente fijar el siguiente texto refundido con la cartografía actualizada de las AAA de la Región del Biobío, y en consecuencia, dejar sin efecto los DS N° 537 de 1993, y sus modificaciones contenidas en los DS N° 84 de 1997 y por el DS N° 491 de 2002, todos de este origen. Lo anterior permitirá contar con planos de fácil manejo, representativos de la realidad geográfica y facilitar los trámites de los usuarios e interesados en realizar la actividad de acuicultura, quienes podrán posicionar los polígonos de concesiones de acuicultura en la respectiva cartografía, mediante procedimientos digitales.
+20.- Que, para un mejor entendimiento, esta Secretaría de Estado, en uso de las facultades ha estimado pertinente fijar el siguiente texto refundido con la cartografía actualizada de las AAA de la Región del Biobío, y en consecuencia, dejar sin efecto los DS N° 537 de 1993, y sus modificaciones contenidas en los DS N° 84 de 1997 y por el DS N° 491 de 2002 todos de este origen, únicamente respecto de la Región del Biobío. Lo anterior permitirá contar con planos de fácil manejo, representativos de la realidad geográfica y facilitar los trámites de los usuarios e interesados en realizar la actividad de acuicultura, quienes podrán posicionar los polígonos de concesiones de acuicultura en la respectiva cartografía, mediante procedimientos digitales.
 
 Decreto:
 
@@ -194,7 +194,7 @@ Plano VIII-13-SSP, escala 1:20.000, datum WGS 84, proyección UTM 18 sur, primer
 
 Nota: Reemplaza la cartografía del sector denominado Isla Mocha, fijada en la Carta SHOA N° 6231, escala 1:40.000, segunda edición de 1954, datum local, establecida mediante el DS N° 491 de 2002, del Ministerio de Defensa Nacional, por el Plano VIII-13-SSP. Además, al ser traspasado a la nueva cartografía el sector cambia de nombre en la forma indicada.
 
-II. Déjase sin efecto el DS N° 537, de 1993, modificado por los DS N°s. 84 de 1997 y 491 de 2002, todos del Ministerio de Defensa Nacional.
+II. Déjase sin efecto el DS N° 537 de 1993, modificado por los DS N°s. 84 de 1997y 491 de 2002 todos del Ministerio de Defensa Nacional, sólo respecto a lo referente a las Áreas Apropiadas para el Ejercicio de la Acuicultura de la Región del Biobío.
 
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Por orden del Presidente de la República, Mario Desbordes Jiménez, Ministro de Defensa Nacional.
 
