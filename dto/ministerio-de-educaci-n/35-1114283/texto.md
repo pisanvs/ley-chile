@@ -36,7 +36,7 @@ El presente reglamento, regula los procedimientos, plazos y todas las demás nor
 
 #### Artículo 2°
 
-Podrán acceder a la bonificación por retiro voluntario establecida en la ley N° 20.822, los profesionales de la educación que pertenezcan a una dotación docente del sector municipal, sea administrada directamente por la municipalidad o bien por corporaciones municipales, ya sea en calidad de titulares o contratados, o que estén contratados en los establecimientos educacionales regidos por el decreto ley N° 3.166, de 1980, siempre que comuniquen su decisión de renunciar voluntariamente y hagan efectiva dicha renuncia respecto del total de horas que sirven en los organismos antes señalados, en los plazos y cumpliendo los demás requisitos que las leyes números 20.976 y 20.822, y el presente reglamento, establecen y regulan.
+Podrán acceder a la bonificación por retiro voluntario establecida en la ley N° 20.822, los profesionales de la educación que pertenezcan a una dotación docente de un Servicio Local de Educación Pública o del sector municipal, sea administrada directamente por la municipalidad o bien por corporaciones municipales, ya sea en calidad de titulares o contratados, o que estén contratados en los establecimientos educacionales regidos por el decreto ley N° 3.166, de 1980, siempre que comuniquen su decisión de renunciar voluntariamente y hagan efectiva dicha renuncia respecto del total de horas que sirven en los organismos antes señalados, en los plazos y cumpliendo los demás requisitos que las leyes números 20.976 y 20.822, y el presente reglamento, establecen y regulan.
 
 #### Artículo 3°
 
@@ -46,7 +46,7 @@ a) Ley: Ley Nº 20.976.
 
 b) Leyes: Referencia conjunta a la ley Nº 20.976 y a la ley Nº 20.822.
 
-c) Entidades empleadoras o "empleador": Municipalidades, corporaciones sin fines de lucro creadas por éstas para administrar la educación municipal, también denominadas corporaciones municipales, y administradores de establecimientos educacionales, cuya administración fue delegada en virtud del decreto ley N° 3.166, de 1980.
+c) Entidades empleadoras o "empleador": Municipalidades, corporaciones sin fines de lucro creadas por éstas para administrar la educación municipal, también denominadas corporaciones municipales, y administradores de establecimientos educacionales, cuya administración fue delegada en virtud del decreto ley N° 3.166, de 1980. Se incluyen, asimismo, los Servicios Locales de Educación Pública como los sucesores legales de las municipalidades o corporaciones municipales, según corresponda, conforme a lo dispuesto en el inciso segundo del artículo noveno transitorio de la ley Nº 21.040, interpretado por el artículo 75 de la ley Nº 21.724.
 
 d) Bonificación por Retiro Voluntario o Bonificación: Beneficio pecuniario, establecido por la ley N° 20.822, al que tienen derecho los profesionales de la educación que indica la ley N° 20.976, que hayan manifestado su decisión de renunciar voluntariamente y que cumplan con los demás requisitos establecidos en ella. Dicha bonificación será financiada de conformidad a los artículos 4, 27 y siguientes de este reglamento.
 
@@ -58,7 +58,7 @@ DE LA BONIFICACIÓN POR RETIRO VOLUNTARIO
 
 #### Artículo 4°
 
-La bonificación por retiro voluntario será de cargo de los sostenedores del sector municipal hasta el monto que les correspondiere pagar en el caso de la indemnización establecida en el artículo 73 del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, conforme a lo establecido en el artículo 6°, inciso primero de la ley N° 20.822; en tanto, para el caso del personal que cumple funciones en establecimientos educacionales cuya administración fue delegada en virtud del decreto ley N° 3.166, de 1980, será de cargo de las instituciones administradoras de dichos establecimientos hasta por un monto equivalente a un mes de remuneración imponible por cada año de servicio, y fracción superior a seis meses, prestado en estas entidades, con un máximo de once meses.
+La bonificación por retiro voluntario será de cargo de los Servicios Locales de Educación Pública y de los sostenedores del sector municipal hasta el monto que les correspondiere pagar en el caso de la indemnización establecida en el artículo 73 del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, conforme a lo establecido en el artículo 6°, inciso primero de la ley N° 20.822; en tanto, para el caso del personal que cumple funciones en establecimientos educacionales cuya administración fue delegada en virtud del decreto ley N° 3.166, de 1980, será de cargo de las instituciones administradoras de dichos establecimientos hasta por un monto equivalente a un mes de remuneración imponible por cada año de servicio, y fracción superior a seis meses, prestado en estas entidades, con un máximo de once meses.
 
 La bonificación ascenderá hasta un monto máximo de $21.500.000.-, la que será proporcional a las horas de contrato que correspondan, y a los años de servicio o fracción superior a seis meses, en la respectiva dotación docente o establecimiento regido por el decreto ley N° 3.166, de 1980. El monto máximo de la bonificación corresponderá al profesional de la educación que tenga once o más años de servicios según lo señalado anteriormente y un contrato de 37 a 44 horas. No obstante, la proporción del monto de la bonificación se establecerá considerando un máximo de 37 horas de contrato.
 
@@ -68,25 +68,29 @@ Esta bonificación no es imponible ni constituye renta para ningún efecto legal
 
 #### Artículo 5°
 
-Para acceder a esta bonificación, los profesionales de la educación que se desempeñen en las entidades señaladas en el artículo 2° de este reglamento, deberán cumplir con alguna de las siguientes condiciones de edad:
+Para acceder a esta bonificación, los profesionales de la educación que se desempeñen en las entidades señaladas en el artículo 2º de este reglamento, deberán tener 60 años de edad en el caso de las mujeres o 65 años de edad si son hombres, siempre que comuniquen su decisión de renunciar voluntariamente y hagan efectiva dicha renuncia respecto del total de horas que sirven en las entidades antes señaladas, en los plazos que fija la ley y este reglamento.
 
-1) Haber cumplido 60 o más años de edad, si son mujeres, y 65 o más años de edad, si son hombres antes del 1° de enero de 2016, o
+#### Artículo 5º bis
 
-2) Cumplir 60 años de edad si son mujeres, y 65 años de edad si son hombres entre el 1° de enero de 2016 y el 31 de diciembre de 2025, ambas fechas inclusive.
+Las edades indicadas en el artículo anterior podrán rebajarse en los casos y situaciones a que se refiere el artículo 68 bis del decreto ley Nº 3.500, de 1980, por iguales causales, procedimiento y tiempo computable.
+
+Los profesionales de la educación que se acojan a lo previsto en el inciso anterior deberán acompañar un certificado otorgado por el Instituto de Previsión Social o la administradora de fondos de pensiones, según corresponda, que acredite la situación señalada en el artículo 68 bis del decreto ley Nº 3.500, de 1980. El certificado deberá indicar que el profesional de la educación cumple con los requisitos para obtener una rebaja de la edad legal para pensionarse por vejez, en cualquier régimen previsional, por la realización de labores calificadas como pesadas y respecto de las cuales se haya efectuado la cotización del artículo 17 bis del decreto ley Nº 3.500, de 1980, o certificado de cobro anticipado del bono de reconocimiento por haber desempeñado trabajos pesados durante la afiliación al antiguo sistema, conforme al inciso tercero del artículo 12 transitorio del citado decreto ley, según corresponda.
 
 #### Artículo 6°
 
-En el caso de los profesionales de la educación a que se refiere el numeral 1) del artículo anterior, la bonificación por retiro voluntario se calculará en base al número de horas de contrato vigente en la respectiva comuna o entidad administradora, según corresponda, al 31 de octubre de 2015.
+La bonificación por retiro voluntario se calculará en base al número de horas de contrato vigente en la respectiva comuna, dotación docente o entidad administradora, según corresponda, al 31 de octubre del año inmediatamente anterior a aquel en que el profesional de la educación cumpla la edad legal para pensionarse por vejez. En el caso de las mujeres que postulen a este beneficio entre los 61 y 65 años de edad, se considerará el número de horas de contrato vigente al 31 de octubre del año anterior al de su postulación. Por su parte, los años de servicio o fracción superior a seis meses se considerarán al último día del mes anterior a la fecha de la resolución que le adjudique un cupo.
 
-En el caso de los profesionales de la educación descritos en el numeral 2) del artículo anterior, la bonificación por retiro voluntario se calculará en base al número de horas de contrato vigente en la respectiva comuna o entidad administradora, según corresponda, al 31 de octubre del año inmediatamente anterior a aquel en que el profesional de la educación cumpla la edad legal para pensionarse por vejez.
+En el caso de los educadores y las educadoras de párvulos que pertenezcan a una dotación docente, además se considerarán los períodos anteriores trabajados, sin solución de continuidad, para el mismo empleador de dicha dotación, en establecimientos financiados vía transferencia de fondos administrados por la respectiva municipalidad, corporación municipal o por el Servicio Local de Educación Pública, que sea el continuador legal, siempre que hayan desempeñado la referida función.
 
-En ambos casos, los años de servicio o fracción superior a seis meses se considerarán al último día del mes anterior a la fecha de la resolución que le asigne el cupo.
+Para el cálculo de la bonificación se computarán los años trabajados, sin solución de continuidad, en la dotación docente de un municipio o corporación municipal, o en un establecimiento regido por el decreto ley Nº 3.166 del Ministerio de Educación Pública de 1980, respecto de los cuales se haya traspasado el servicio educativo a un Servicio Local de Educación Pública. En ningún caso podrán contabilizarse años de servicio que se hayan considerado para el pago de beneficios o indemnizaciones por concepto de término de la relación laboral o por años de servicio en las instituciones antes señaladas.
+
+Para efectos de contabilizar la continuidad de los años de servicio o la fracción superior a seis meses, se aplicará lo dispuesto en el artículo 41 bis del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación.
 
 #### Artículo 7°
 
-Podrán acceder a la bonificación por retiro voluntario hasta un total de 24.500 profesionales de la educación, distribuidos de acuerdo con la siguiente tabla de cupos anuales:
+Podrán acceder a la bonificación los profesionales de la educación, de acuerdo a los cupos que señala la tabla siguiente:
 
-Año Cupos
+AÑO NÚMERO DE BENEFICIARIOS
 
 2016 1.500
 
@@ -106,11 +110,31 @@ Año Cupos
 
 2024 3.000
 
+AÑO NÚMERO DE BENEFICIARIOS
+
 2025 3.800
 
-Total 24.500
+2026 2.500
 
-Los cupos que no hubieren sido utilizados entre los años 2016 al 2018, ambos incluidos, incrementarán los del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los del año inmediatamente siguiente.
+2027 2.000
+
+2028 2.000
+
+2029 2.000
+
+2030 2.000
+
+2031 2.000
+
+2032 2.000
+
+2033 2.000.
+
+A contar del año 2034, los cupos serán 3.000 por cada anualidad.
+
+Los cupos que no hubieren sido utilizados en los años 2016, 2017 y 2018 incrementarán los cupos del año 2019. A partir de dicho año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente hasta los cupos del año 2025. Después de dicho año no se traspasarán a las anualidades siguientes.
+
+Los cupos de los años 2026 y 2027 que no hayan sido utilizados al término de su proceso de adjudicación, podrán ser utilizados hasta el proceso de adjudicación de los cupos del año 2028. Transcurrido dicho plazo sin que hayan sido utilizados dichos cupos éstos no podrán usarse en los procesos siguientes.
 
 #### Artículo 8°
 
@@ -138,13 +162,73 @@ Las instituciones a que se refiere el artículo 2° del presente reglamento, deb
 
 #### Artículo 10
 
-Los profesionales de la educación podrán postular a los procesos señalados en el inciso segundo del artículo anterior, según las normas que a continuación se indican:
+Los profesionales de la educación podrán postular hasta el proceso de asignación de cupos correspondientes al año 2025, según las normas que a continuación se indican:
 
 a) Los hombres profesionales de la educación deberán postular en el proceso correspondiente al año en que cumplan 65 años de edad.
 
 b) Las mujeres profesionales de la educación deberán postular a partir del año en que cumplan 60 años de edad y hasta el proceso correspondiente al año en que cumplan los 65 años de edad.
 
-Con todo, deberán postular para el último proceso, las mujeres profesionales de la educación que cumplan 60 y hasta 65 años de edad entre el 1° de enero y el 31 de diciembre de 2025, las que, en caso de ser seleccionadas, deberán hacer efectiva su renuncia voluntaria entre el 1° de enero y el 1° de marzo siguiente a la comunicación de que accedieron a un cupo.
+#### Artículo 10 bis
+
+En el proceso de asignación de los cupos correspondientes al año 2026, se podrá postular entre el 1º de julio de 2026 y el 31 de diciembre de 2026. En dicho proceso podrán postular:
+
+a) Los hombres profesionales de la educación que cumplan 65 años de edad en el año 2026.
+
+b) Las mujeres profesionales de la educación que cumplan entre 60 y 65 años de edad en el año 2026.
+
+c) Las mujeres y hombres profesionales de la educación que, al 31 de diciembre de 2025, tengan 65 o más años de edad.
+
+#### Artículo 10 ter
+
+Los profesionales de la educación señalados en la letra c) del artículo 10 bis que postulen en el proceso 2026 y que cumplan los requisitos señalados en la ley Nº 20.976, tendrán derecho a los beneficios establecidos en dicha ley en los mismos términos y condiciones que ella establece para los beneficiarios de 65 años de edad.
+
+Si el personal antes señalado no postula en la oportunidad establecida en el artículo anterior o no renuncia a todos los cargos y al total de horas que sirve dentro del plazo señalado en el artículo 22 bis de este reglamento, según corresponda, se entenderá que renuncia irrevocablemente a este plazo excepcional de postulación señalado en el artículo anterior y a los beneficios antes indicados. A contar del proceso de postulación de los cupos 2027 podrán acceder a los beneficios decrecientes según corresponda.
+
+#### Artículo 10 quáter
+
+En los procesos de asignación de los cupos correspondientes a los años 2027 y 2028, y a los adicionales que existan disponibles conforme al inciso cuarto del artículo 7º, se podrá postular para los cupos del año 2027 entre el 1º de julio de 2027 y el 31 de diciembre de 2027 y para los cupos del año 2028 entre el 1º de julio de 2028 y el 31 de diciembre de 2028. En dichos procesos podrán postular:
+
+a) Los hombres profesionales de la educación que cumplan entre 65 y 69 años de edad en el año 2027 y 2028, según corresponda.
+
+b) Las mujeres profesionales de la educación que cumplan entre 60 y 69 años de en el año 2027 y 2028, según corresponda.
+
+#### Artículo 10
+
+quinquies: A partir del proceso de asignación de los cupos del año 2029 en adelante, se podrá postular entre el 1º de julio y 31 de diciembre de cada año. En dichos procesos podrán postular:
+
+a) Los hombres profesionales de la educación que cumplan entre 65 y 69 años de edad en el año del proceso de postulación.
+
+b) Las mujeres profesionales de la educación que cumplan entre 60 y 69 años de edad en el año del proceso de postulación.
+
+#### Artículo 10
+
+sexies: A partir del proceso de asignación de cupos del año 2027 los hombres y mujeres profesionales de la educación podrán postular en cualquiera de los períodos que se establecen en las letras siguientes y accederán a los beneficios decrecientes que se señalan según la época de postulación, conforme a las reglas que a continuación se indican:
+
+a) Primer período de postulación: En este período podrán postular los profesionales de la educación que cumplan 65 años de edad, en el plazo señalado en los artículos 10 quáter y 10 quinquies de este reglamento, según corresponda. Deberán hacer efectiva su renuncia, a más tardar, entre el 1 de enero y el 1 de marzo del año siguiente a la fecha de publicación en el sitio electrónico del Ministerio de Educación de la resolución de la Subsecretaría de Educación, que determina los beneficiarios de los cupos correspondientes a un año. Si hacen efectiva su renuncia voluntaria dentro del plazo antes señalado, tendrán derecho a la totalidad de la bonificación por retiro voluntario, que les corresponda, siempre que cumplan con los respectivos requisitos.
+
+b) Segundo período de postulación: En este período podrán postular profesionales de la educación que cumplan 66 años de edad, en el plazo señalado en los artículos 10 quáter y 10 quinquies de este reglamento, según corresponda. Deberán hacer efectiva su renuncia, a más tardar, entre el 1 de enero y el 1 de marzo del año siguiente a la fecha de publicación en el sitio electrónico del Ministerio de Educación de la resolución de la Subsecretaría de Educación, que determina los beneficiarios de los cupos correspondientes a un año. En este caso sólo podrán acceder al 75% de la bonificación por retiro voluntario que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+c) Tercer período de postulación: En este período podrán postular profesionales de la educación que cumplan 67 años de edad, en el plazo señalado en los artículos 10 quáter y 10 quinquies de este reglamento, según corresponda. Deberán hacer efectiva su renuncia, a más tardar, entre el 1 de enero y el 1 de marzo del año siguiente a la fecha de publicación en el sitio electrónico del Ministerio de Educación de la resolución de la Subsecretaría de Educación, que determina los beneficiarios de los cupos correspondientes a un año. En este caso sólo podrán acceder al 55% de la bonificación por retiro voluntario que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+d) Cuarto período de postulación: En este período podrán postular profesionales de la educación que cumplan 68 años de edad, en el plazo señalado en los artículos 10 quáter y 10 quinquies de este reglamento, según corresponda.
+
+Deberán hacer efectiva su renuncia, a más tardar, entre el 1 de enero y el 1 de marzo del año siguiente a la fecha de publicación en el sitio electrónico del Ministerio de Educación de la resolución de la Subsecretaría de Educación, que determina los beneficiarios de los cupos correspondientes a un año. En este caso sólo podrán acceder al 30% de la bonificación por retiro voluntario que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+e) Quinto período de postulación: En este período podrán postular profesionales de la educación que cumplan 69 años de edad, en el plazo señalado en los artículos 10 quáter y 10 quinquies de este reglamento, según corresponda.
+
+Deberán hacer efectiva su renuncia, a más tardar, entre el 1 de enero y el 1 de marzo del año siguiente a la fecha de publicación en el sitio electrónico del Ministerio de Educación de la resolución de la Subsecretaría de Educación, que determina los beneficiarios de los cupos correspondientes a un año. En este caso sólo podrán acceder al 10% de la bonificación por retiro voluntario que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+Respecto del personal que no postule en ninguno de los períodos anteriores o no haga efectiva su renuncia voluntaria en ninguna de las oportunidades anteriores, se entenderá que renuncia irrevocablemente a todos los beneficios establecidos en la ley.
+
+Las profesionales de la educación podrán optar por comunicar su decisión de hacer efectiva su renuncia voluntaria desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, y podrán acceder a la bonificación por retiro voluntario, siempre que cumplan con los respectivos requisitos. También podrán postular en los períodos señalados en las letras b), c),
+
+- **d)** y
+
+- **e)** del inciso primero de este artículo, siempre que cumplan las edades que en dichas letras se indican y sólo accederán a los beneficios decrecientes que para esos períodos se señalan en las mencionadas letras b), c),
+
+- **d)** y
+
+- **e)** según corresponda.
 
 #### Artículo 11
 
@@ -184,13 +268,13 @@ Las entidades empleadoras remitirán las postulaciones recibidas y sus anteceden
 
 El empleador deberá remitir la postulación entregada por el profesional de la educación, con fecha y timbre de recepción del documento, conjuntamente con los siguientes antecedentes:
 
-a) Decretos de nombramiento y de designaciones; contratos de trabajo y anexos de contrato de trabajo, y demás documentos que den cuenta de la continuidad y vigencia de la relación laboral, jornada laboral y cargo;
+a) Actos administrativos de nombramiento y de designaciones; contratos de trabajo y anexos de contrato de trabajo, y demás documentos que den cuenta de la continuidad y vigencia de la relación laboral, jornada laboral y cargo;
 
 b) Suprimido.
 
 c) Certificado que señale el número de días de licencias médicas cursadas en los 24 meses inmediatamente anteriores al inicio del respectivo periodo de postulación, si las tuviere.
 
-En caso de no existir antecedentes suficientes para acreditar la continuidad y vigencia de la relación laboral, la jornada de trabajo y el cargo desempeñado, el empleador deberá regularizar dicha situación, teniendo en consideración y acompañando toda la documentación de respaldo con que cuente, tales como decretos de nombramiento y/o designación, contratos de trabajo, anexos de contrato de trabajo, liquidaciones de remuneraciones, certificados históricos de cotizaciones previsionales, sistema de control de asistencia, u otros documentos que logren acreditar fehacientemente la existencia de la relación laboral. Tratándose de municipalidades esta regularización se realizará mediante el correspondiente decreto alcaldicio, acompañando a éste, la documentación antes señalada.
+En caso de no existir antecedentes suficientes para acreditar la continuidad y vigencia de la relación laboral, la jornada de trabajo y el cargo desempeñado, el empleador deberá regularizar dicha situación, teniendo en consideración y acompañando toda la documentación de respaldo con que cuente, tales como actos administrativos de nombramiento y/o designación, contratos de trabajo, anexos de contrato de trabajo, liquidaciones de remuneraciones, certificados históricos de cotizaciones previsionales, sistema de control de asistencia, u otros documentos que logren acreditar fehacientemente la existencia de la relación laboral. Tratándose de municipalidades esta regularización se realizará mediante el correspondiente decreto alcaldicio, mientras que los Servicios Locales de Educación Pública efectuarán la regularización mediante la respectiva resolución, en ambos casos se deberá acompañar a estos actos, la documentación antes señalada.
 
 #### Artículo 14
 
@@ -200,7 +284,9 @@ Las entidades empleadoras remitirán las postulaciones recibidas a la Subsecreta
 
 #### Artículo 15
 
-Anualmente, la Subsecretaría de Educación asignará los cupos mediante resolución, donde se individualizará a los beneficiarios de cupo correspondientes a cada proceso de postulación, en virtud de lo establecido en el artículo siguiente de este reglamento. En cada año sólo podrán asignarse cupos correspondientes a un proceso de los señalados en el artículo 9°.
+Anualmente, la Subsecretaría de Educación asignará los cupos mediante resolución, donde se individualizará a los beneficiarios de cupo correspondientes a cada proceso de postulación, en virtud de lo establecido en el artículo siguiente de este reglamento. En cada año sólo podrán asignarse cupos correspondientes a un proceso de los señalados en el artículo 9° y en los artículos 10, 10 bis, 10 quáter y 10 quinquies.
+
+En los casos señalados en los incisos segundo y tercero del artículo 22 bis, una vez que la entidad empleadora haya verificado el cumplimiento de los requisitos para acceder a los beneficios de la ley Nº 20.976, le asignará un cupo al postulante. La entidad empleadora remitirá a la Subsecretaría de Educación, dentro de los cinco días hábiles siguientes, el acto administrativo por medio del cual le asignó el referido cupo. La Subsecretaría de Educación, a más tardar dentro de los cinco días hábiles siguientes a la recepción del acto administrativo antes señalado, dictará una resolución, que descontará de los cupos de la respectiva anualidad aquellos asignados al personal que ha postulado de conformidad al artículo antes citado. Una copia de esta última resolución será remitida a la Dirección de Presupuestos, dentro del plazo de cinco días hábiles desde su dictación.
 
 #### Artículo 16
 
@@ -266,6 +352,16 @@ Se entenderá que el profesional de la educación se desiste en los casos en que
 
 Los profesionales de la educación a quienes se les asigne un cupo deberán presentar sus respectivas cartas de renuncia voluntaria e irrevocable ante su empleador a más tardar el último día hábil del mes siguiente a la fecha de publicación en el sitio electrónico del Ministerio de Educación, de la resolución que le asigna el cupo, indicando en las mismas, que renuncian a todos los cargos y al total de horas que sirven y la fecha en la que se hará efectiva, debiendo estar comprendida la misma entre el 1° de enero y el 1° de marzo del año siguiente al de la fecha de la señalada publicación, sin perjuicio de lo señalado en el artículo 25 siguiente.
 
+#### Artículo 22 bis
+
+Los profesionales de la educación a que se refiere la letra c) del artículo 10 bis de este reglamento, deberán hacer efectiva su renuncia voluntaria a más tardar dentro del mes siguiente a aquel en que se le notifique que tienen derecho a un cupo y el pago de los beneficios deberá realizarse el mes siguiente del cese de funciones.
+
+En el caso que la o el postulante a que se refiere la letra c) del artículo 10 bis de este reglamento, cumpla 75 años de edad y se encuentre pendiente el proceso de asignación de cupos, la respectiva institución empleadora deberá asignarle inmediatamente un cupo del proceso del año 2026 o, si no existen cupos suficientes, de las anualidades posteriores. Asimismo, en caso de que el profesional de la educación se encuentre en la nómina de seleccionados preferentemente, también la respectiva institución empleadora deberá asignarle inmediatamente un cupo, del proceso del año 2026 o, si no existen cupos suficientes, de las anualidades posteriores. En ambos casos el postulante deberá cumplir con los respectivos requisitos y cesar en funciones al cumplir 75 años. El pago de los beneficios deberá realizarse al mes siguiente del cese de sus funciones.
+
+Con todo, la o el postulante a que se refiere la letra c) del artículo 10 bis de este reglamento, que al 31 de diciembre del año 2026 tenga 75 o más años de edad y, que a dicha fecha, se encuentre pendiente el proceso de asignación de cupos o se encuentren en la nómina de seleccionados preferentemente, la respectiva institución empleadora deberá asignarle inmediatamente un cupo del proceso del año 2026 o, si no existen cupos suficientes, de las anualidades posteriores; siempre que cumplan con los respectivos requisitos y cesarán en funciones, a más tardar, el 31 de diciembre de 2026. El pago de los beneficios deberá realizarse al mes siguiente del cese de sus funciones.
+
+Las entidades empleadoras deberán informar a la Subsecretaría de la asignación de los cupos a que se refiere este artículo de acuerdo a lo señalado en el inciso final del artículo 15 de este reglamento.
+
 #### Artículo 23
 
 Los profesionales de la educación beneficiados con un cupo, que se desistieren de éste ante su empleador, o que no presentaren la carta de renuncia a todos los cargos y al total de horas que sirvan, dentro de los plazos y con los requisitos regulados en este reglamento, se entenderá que renuncian irrevocablemente al beneficio, sin perjuicio de lo dispuesto en el inciso segundo del artículo 21 precedente.
@@ -290,7 +386,7 @@ Con todo, el trabajador podrá solicitar que se ponga término a la relación la
 
 #### Artículo 26
 
-Los profesionales de la educación que cesen en sus empleos por aplicación de lo dispuesto en las leyes y en este reglamento, no podrán incorporarse a una dotación docente administrada directamente por las municipalidades o por las corporaciones municipales, ni ser nombrados o contratados bajo cualquier modalidad o régimen laboral, incluidas las contrataciones a honorarios, en municipalidades, corporaciones municipales o establecimientos regidos por el decreto ley N° 3.166, de 1980, durante los cinco años siguientes al término de la relación laboral, a menos que previamente devuelvan la totalidad de la bonificación percibida, expresada en unidades de fomento, más el interés corriente para operaciones reajustables.
+Los profesionales de la educación que cesen en sus empleos por aplicación de lo dispuesto en las leyes y en este reglamento, no podrán incorporarse a una dotación docente de un Servicio Local de Educación Pública ni a una administrada directamente por las municipalidades o por las corporaciones municipales, ni ser nombrados o contratados bajo cualquier modalidad o régimen laboral, incluidas las contrataciones a honorarios, en Servicios Locales de Educación Pública, municipalidades, corporaciones municipales o establecimientos regidos por el decreto ley N° 3.166, de 1980, durante los cinco años siguientes al término de la relación laboral, a menos que previamente devuelvan la totalidad de la bonificación percibida, expresada en unidades de fomento, más el interés corriente para operaciones reajustables.
 
 ## Título III
 
@@ -340,6 +436,8 @@ e) Certificado del Secretario Municipal, del Representante Legal de la Corporaci
 
 f) Certificado del Secretario Municipal que dé cuenta del acuerdo del Concejo Municipal para solicitar el anticipo de subvención de que trata el artículo 9°, del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación, en caso de corresponder.
 
+Con todo, los Servicios Locales de Educación Pública podrán acompañar los certificados a que se refiere este artículo, suscritos por el Director Ejecutivo o por el encargado de gestión de personas.
+
 #### Artículo 32
 
 El Ministerio de Educación ordenará la transferencia de recursos, mediante el acto administrativo que corresponda, que deberá señalar, al menos, lo siguiente:
@@ -362,13 +460,17 @@ a) Informe completo de las bonificaciones pagadas, señalando el monto y benefic
 
 b) Comprobante de ingreso correspondiente a la última transferencia de recursos;
 
-c) Copia autorizada de los decretos de pago a los beneficiarios, para el caso de las municipalidades;
+c) Copia autorizada de los decretos de pago a los beneficiarios, para el caso de las municipalidades y de las resoluciones de pago, para el caso de los Servicios Locales de Educación Pública;
 
 d) Copia de los respectivos decretos de término de nombramiento y finiquitos; e) Comprobantes de egreso, y;
 
 f) Copia de los decretos de vacancia respectivos, para el caso de las municipalidades.
 
 En caso de retardo, el Ministerio de Educación, a través de la Subsecretaría de Educación, en el más breve plazo, solicitará dicha rendición al sostenedor o administrador según corresponda, con copia a la Superintendencia de Educación,
+
+#### Artículo 33 bis
+
+Los Servicios Locales de Educación Pública también estarán afectos a este título en los mismos términos de los empleadores del sector municipal.
 
 ## Título IV
 
@@ -409,6 +511,8 @@ El bono post laboral establecido en la ley N° 20.305, es compatible con la boni
 Los sostenedores municipales deberán ajustar la dotación docente de acuerdo a los artículos 22 y siguientes del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, conforme a las horas que queden vacantes por la renuncia voluntaria del profesional de la educación, debiendo informar mensualmente al Ministerio de Educación, a través de una nómina remitida al departamento provincial respectivo, adjuntando los respectivos decretos o resoluciones de declaración de vacancia.
 
 En caso de que requieran proveer dichas vacantes, deberán informar previamente a ese Departamento, adjuntando los correspondientes antecedentes fundantes. El Departamento Provincial de Educación, en el plazo de quince días, podrá realizar observaciones fundadas al informe antedicho sobre la base de la relación óptima entre profesionales de la educación necesarios, horas cronológicas de trabajo semanales y número de alumnos y cursos. En este caso, para proceder a la contratación, el sostenedor deberá informar previamente al Concejo Municipal, adjuntando las observaciones formuladas por el Departamento Provincial de Educación respectivo. En todo caso, dichas contrataciones deberán ajustarse al respectivo Plan de Desarrollo Educativo Municipal (PADEM).
+
+Los Servicios Locales de Educación Pública también estarán afectos a este artículo en los mismos términos de los empleadores del sector municipal. En este caso, para proceder a la contratación, el Servicio Local de Educación Pública deberá informar previamente a la Dirección de Educación Pública, adjuntando los antecedentes que dicha Dirección le solicite. En todo caso, dichas contrataciones deberán ajustarse al respectivo Plan Anual del Servicio Local de Educación Pública.
 
 ## Artículos transitorios
 
