@@ -888,9 +888,7 @@ del contratista persona natural
 
 que sea su cónyuge, conviviente
 
-civil y los parientes, ascendientes
-
-o descendientes, hasta el segundo
+civil y los parientes hasta el segundo
 
 grado de consanguinidad o afinidad,
 
@@ -934,13 +932,13 @@ relacionados, las personas jurídicas
 
 distintas, en las que existan cónyuges,
 
-convivientes civiles y parientes,
+convivientes civiles y parientes
 
-ascendientes o descendientes, hasta
+hasta el segundo grado de
 
-el segundo grado de consanguinidad o
+consanguinidad o afinidad, que
 
-afinidad, que tengan en éstas las
+tengan en éstas las
 
 calidades indicadas en el presente
 
@@ -966,6 +964,68 @@ términos previstos en el
 
 de este reglamento.
 
+46) Subcontratación: Acuerdo contractual
+
+de naturaleza privada en virtud del
+
+cual el contratista de una obra
+
+pública, previa autorización de la
+
+Dirección respectiva, le encarga
+
+a un tercero, persona natural o
+
+jurídica, denominado subcontratista,
+
+ejecutar parte de las obras,
+
+manteniendo el contratista la
+
+total responsabilidad de la
+
+ejecución del contrato, con
+
+estricto arreglo a lo dispuesto
+
+en este reglamento, las Bases
+
+Administrativas, Especificaciones
+
+Técnicas, planos y los demás
+
+antecedentes y documentos que
+
+lo integran, incluido el
+
+cumplimiento de las obligaciones
+
+normativas, administrativas y
+
+convencionales derivadas de su
+
+relación contractual con la
+
+Dirección.
+
+No se considerarán subcontratos
+
+para los efectos de este
+
+reglamento, sin perjuicio de
+
+lo dispuesto en la demás
+
+normativa vigente, aquellos
+
+acuerdos que puedan suscribir
+
+los contratistas con terceros,
+
+que no tengan por objeto la
+
+ejecución de parte de la obra.
+
 ## Título II
 
 Del Registro General de Contratistas
@@ -976,7 +1036,7 @@ El Registro General de Contratistas del Ministerio de Obras Públicas, o Registr
 
 El Registro de Contratistas estará formado por el Registro de Obras Mayores y el Registro de Obras Menores.
 
-El documento "Registro de Contratistas - Categorías y Especialidades", el cual contendrá los cuadros con el detalle de las diferentes especialidades y categorías que se consideran en el Registro, así como las condiciones de capacidad económica, experiencia y personal profesional que deben cumplir los contratistas para ser inscritos en cada uno de ellos, será actualizado periódicamente, y aprobado por el Ministro de Obras Públicas. En este mismo documento se establecen las categorías en que deberán estar inscritos los postulantes a una licitación, en función del valor estimado del contrato respectivo.
+El documento "Registro de Contratistas - Categorías y Especialidades", el cual contendrá los cuadros con el detalle de las diferentes especialidades y categorías que se consideran en el Registro, así como las condiciones de capacidad económica, experiencia y personal profesional que deben cumplir los contratistas para ser inscritos en cada uno de ellos, será actualizado periódicamente, y aprobado por el Ministro de Obras Públicas. En este mismo documento, conforme las señaladas condiciones, se establecerá el monto de las obras cuyo presupuesto estimativo en unidades tributarias mensuales, excluido el IVA, se considerarán correspondientes al Registro de Obras Menores y las categorías en que deberán estar inscritos los postulantes a una licitación, en función al referido valor.
 
 #### Artículo 6
 
@@ -1066,9 +1126,7 @@ Cada registro estará, a su vez, dividido en tres categorías, atendiendo a la e
 
 #### Artículo 10
 
-Para obras cuyo presupuesto estimativo exceda de 480.000 Unidades Tributarias Mensuales, las Direcciones abrirán en cada oportunidad un Registro especial de acuerdo con las bases que se fijen en cada caso.
-
-Las Direcciones podrán abrir Registros Especiales, aun cuando el presupuesto estimativo sea inferior al indicado en el inciso anterior, en aquellos casos en que las características técnicas de la obra o condiciones especiales para su construcción u otra circunstancia aconsejen, a su juicio, adoptar esta medida. En este caso el Jefe del Departamento de Registros de la Dirección General de Obras Públicas verificará, certificará e informará fundadamente que no es técnicamente factible usar uno o más de los registros existentes. El Departamento de Registros deberá llevar un registro de las obras para las cuales se creó este Registro Especial, en el cual se identifiquen claramente las condiciones especiales de la obra, las circunstancias que el Servicio tuvo en consideración para recurrir a este Registro Especial, registros involucrados en los trabajos realizados para el desarrollo de la obra y mediante los cuales se llamó a licitación, proponentes precalificados, contratista que se adjudicó el contrato y el desempeño obtenido en él, incluyendo la calificación obtenida.
+Las Direcciones podrán abrir Registros Especiales en aquellos casos en que las características técnicas de la obra o condiciones especiales para su construcción u otra circunstancia aconsejen, a su juicio, adoptar esta medida. El Departamento de Registros deberá llevar un registro de las obras para las cuales se creó este Registro Especial, en el cual se identifiquen claramente las condiciones especiales de la obra, las circunstancias que el Servicio tuvo en consideración para recurrir a este Registro Especial, registros involucrados en los trabajos realizados para el desarrollo de la obra y mediante los cuales se llamó a licitación, proponentes precalificados, contratista que se adjudicó el contrato y el desempeño obtenido en él, incluyendo la calificación obtenida.
 
 En los llamados a licitación efectuados por la Dirección de Arquitectura del Ministerio de Obras Públicas, podrán participar personas naturales o jurídicas, nacionales o extranjeras, no inscritas en los Registros de Contratistas de la Dirección General de Obras Públicas, en casos previamente calificados por resolución fundada del jefe superior de dicho servicio. Las bases de licitación establecerán los requisitos para acreditar la experiencia técnica y la capacidad económica de los oferentes no inscritos.
 
@@ -1336,11 +1394,11 @@ La capacidad económica corresponderá al patrimonio disminuido en:
 
 Las reservas susceptibles de retiro netas al 31 de Diciembre inmediatamente anterior, podrán ser consideradas, total o parcialmente, para incrementar la capacidad económica.
 
-La opción anterior será válida sólo si se manifiesta en declaración jurada ante notario y autorizada por el Acta de la Junta de Accionistas o Directorio, cuando corresponda.
+La opción anterior será válida sólo si se manifiesta en declaración jurada simple y autorizada por el Acta de la Junta de Accionistas o Directorio, cuando corresponda.
 
 En dicha declaración deberá indicarse explícitamente el compromiso que no se procederá al retiro de los referidos valores en el ejercicio financiero siguiente.
 
-El no cumplimiento, parcial o total, de dicho compromiso, ameritará la rebaja del valor no cumplido y la no aceptación futura de esta opción.
+El no cumplimiento, parcial o total, de dicho compromiso, ameritará la rebaja del valor no cumplido y la no aceptación futura de esta opción en la determinación de capacidad económica por dos años. En el caso que exista incumplimiento en una segunda ocasión, la no aceptación de esta opción se extenderá por cinco años, y por diez años de verificarse un tercer incumplimiento.
 
 La fórmula para determinar la capacidad económica, es la siguiente:
 
@@ -1448,13 +1506,15 @@ Los ingenieros civiles eléctricos, los ingenieros eléctricos, los ingenieros d
 
 #### Artículo 37
 
-El personal profesional del contratista que se inscriba en cualquier categoría de un registro, deberá tener suscrito con éste un contrato de trabajo por un plazo mínimo de un año de permanencia ininterrumpida en su organización, contado desde la fecha de la solicitud de inscripción, o modificación, con jornada completa y acreditado mediante declaración jurada ante notario, suscrita por el contratista y el profesional. Para corroborar esta situación, a requerimiento del Registro, el contratista deberá presentar una copia de la planilla del pago previsional de sus trabajadores acreditados en el Registro General de Contratistas.
+El personal profesional del contratista que se inscriba en cualquier categoría de un registro, deberá tener suscrito con éste un contrato de trabajo por un plazo mínimo de un año de permanencia ininterrumpida en su organización, contado desde la fecha de la solicitud de inscripción, o modificación, con jornada completa y acreditado mediante el respectivo contrato y declaración jurada simple, suscrita por el contratista y el profesional. Para corroborar esta situación, a requerimiento del Registro, el contratista deberá presentar una copia de la planilla del pago previsional de sus trabajadores acreditados en el Registro General de Contratistas.
 
-Si en esa ocasión, el Registro detecta que el contratista no ha incluido en sus pagos previsionales a uno de sus profesionales acreditados ante el Registro, sin que el contratista hubiera presentado alguna modificación de su planta profesional que informe del alejamiento de dicho profesional, y no obtiene una explicación satisfactoria al respecto dentro del plazo que le conceda el Jefe del Departamento de Registros, éste procederá a aplicar la sanción establecida en el punto 4) del artículo 45 de este Reglamento.
+En el evento que la referida planilla dé cuenta que el profesional mantiene una o más relaciones laborales con empleadores distintos al contratista, éste deberá acreditar que la jornada pactada cumple la exigencia precedente.
+
+Si en esa ocasión, el Registro detecta que el contratista no ha incluido en sus pagos previsionales a uno de sus profesionales acreditados ante el Registro, sin que el contratista hubiera presentado alguna modificación de su planta profesional que informe del alejamiento de dicho profesional, y no obtiene una explicación satisfactoria al respecto dentro del plazo que le conceda el Jefe del Departamento de Registros, éste procederá a aplicar la sanción establecida en el punto 4) del artículo 45 de este Reglamento. Igual sanción se impondrá si se verifica la inexistencia del contrato de trabajo o la jornada laboral no cumple la condición dispuesta en este artículo.
 
 El personal de los contratistas que se inscriban en primera o segunda categoría deberá, además, tener como mínimo tres años de ejercicio de la profesión.
 
-El experto de prevención de riesgos exigido para segunda y tercera categoría (A o B) podrá tener suscrito con la empresa un contrato de trabajo a tiempo parcial, como mínimo por un año, contado desde la fecha de la solicitud de inscripción o modificación y acreditado mediante declaración jurada en la forma señalada en el inciso primero.
+El experto de prevención de riesgos exigido para segunda y tercera categoría (A o B) podrá tener suscrito con la empresa un contrato de trabajo a tiempo parcial, como mínimo por un año, contado desde la fecha de la solicitud de inscripción o modificación y acreditado mediante declaración jurada simple en la forma señalada en el inciso primero.
 
 INSCRIPCION Y MODIFICACION
 
@@ -1768,7 +1828,19 @@ en el plazo que
 
 se establece en el artículo
 
-42° del Reglamento, el Registro
+42° del Reglamento o si se
+
+verifica la inexistencia del
+
+contrato de trabajo o la
+
+jornada laboral no cumple
+
+la condición dispuesta en
+
+el artículo 37 de este
+
+reglamento, el Registro
 
 procederá de acuerdo
 
@@ -1896,29 +1968,7 @@ circunstancia por el Jefe/a
 
 del Registro.
 
-4.4) Si el contratista participa
-
-o se le adjudica una licitación
-
-en contravención a lo previsto
-
-en el artículo 68 de este
-
-reglamento, se le suspenderá
-
-del Registro por un plazo de
-
-5 años. En estos casos, la
-
-sanción de suspensión será
-
-aplicada por la Comisión del
-
-Registro, previo estudio de
-
-los antecedentes presentados
-
-por el contratista.
+4.4) Eliminado.
 
 5) Sanciones por presentación de documentación falsificada:
 
@@ -1946,7 +1996,7 @@ REGISTRO DE OBRAS MENORES
 
 #### Artículo 48
 
-Para obras cuyo presupuesto estimativo, excluido el I.V.A., no exceda de 6.000 unidades tributarias mensuales, la Dirección General de Obras Públicas tendrá un Registro de Obras Menores, que será único para todo el país y que será operado a través de las Secretarías Regionales correspondientes, en el cual podrán inscribirse los contratistas que, sin tener los requisitos para optar a la tercera categoría del Registro de Obras Mayores, cumplan con las exigencias que se establecen más adelante.
+Para obras cuyo presupuesto estimativo en unidades tributarias mensuales, excluido el I.V.A., no exceda el monto que se defina en el documento 'Registro de Contratistas - Categorías y Especialidades', la Dirección General de Obras Públicas tendrá un Registro de Obras Menores, que será único para todo el país y que será operado a través de las Secretarías Regionales correspondientes, en el cual podrán inscribirse los contratistas que, sin tener los requisitos para optar a la tercera categoría del Registro de Obras Mayores, cumplan con las exigencias que se establecen más adelante.
 
 La inscripción en este Registro no habilita a un contratista para ejecutar obras correspondientes al Registro de Obras Mayores.
 
@@ -2078,17 +2128,17 @@ DE LAS LICITACIONES
 
 La licitación será autorizada por la autoridad que corresponda, en relación al monto del presupuesto estimativo u oficial de la obra, de acuerdo al Reglamento de Montos dictado en conformidad a lo dispuesto en el artículo 85 del D.F.L. MOP. Nº 850, de 1997. El llamado a licitación lo hará el Director General o el Secretario Regional, según proceda, siempre que haya autorización de fondos y se disponga de los antecedentes establecidos en el artículo 2º.
 
-No podrán participar en una misma licitación contratistas relacionados, ya sea individualmente o formando parte de un consorcio entre sí o con otro contratista.
+Cuando se presenten en una licitación, ofertas simultáneas por parte de empresas relacionadas, ya sea individualmente o formando un consorcio con otro u otros contratistas, la respectiva Comisión de Evaluación considerará para efectos de la evaluación de la licitación, sólo la oferta más conveniente, conforme lo dispuesto en el artículo 84 de este reglamento, de aquellas presentadas por los contratistas relacionados o por el o los consorcios que integren, y declarará inadmisibles la o las demás.
 
-La infracción de lo dispuesto en el inciso anterior dará lugar a que la respectiva Comisión de Evaluación excluya a los contratistas afectados de la respectiva licitación. Adicionalmente, se les suspenderá del Registro por un plazo de 5 años. En estos casos, la sanción de suspensión será aplicada por la Comisión del Registro, previo estudio de los antecedentes presentados por el contratista.
-
-En caso que se tome conocimiento de la infracción con posterioridad a la adjudicación, se aplicará una multa equivalente al 25% del valor de la boleta o póliza de garantía que caucione su cumplimiento, quedando la Dirección facultada para poner término anticipado al contrato. La indicada multa se descontará del estado de pago siguiente al de su aplicación. Todo lo anterior sin perjuicio de la suspensión en el Registro indicada en el inciso anterior.
+En caso que se tome conocimiento de la participación de empresas relacionadas en una misma licitación una vez adjudicada a una de éstas, se aplicará al contratista adjudicatario una multa equivalente al 25% del valor de la boleta o póliza de garantía que caucione su cumplimiento. La indicada multa se descontará del estado de pago siguiente al de su aplicación.
 
 De contemplarse un procedimiento previo de cotización, destinado a la contratación por trato directo, cuando dicha forma de contratación proceda conforme la normativa vigente, la Dirección deberá velar por que las empresas convocadas no se encuentren relacionadas, consultando para estos efectos al Registro de Contratistas.
 
 #### Artículo 69
 
 Para participar en una licitación y para la adjudicación de un contrato, el contratista deberá encontrarse con su inscripción vigente en el registro o en los registros de Obras Mayores o de Obras Menores del Registro General de Contratistas que se determine en las bases administrativas, o haber sido aceptado en el Registro Especial indicado en el artículo 10 si es el caso.
+
+Con todo, el contratista que fuere suspendido automáticamente del mencionado Registro conforme lo dispuesto en los artículos 15, 17, 29, 30, 39, 40 y 43, todos del presente reglamento, durante el proceso de licitación, podrá seguir participando del certamen respectivo y, cuando corresponda, serle adjudicado el contrato, si la inscripción es revalidada dentro de los treinta días siguientes a la fecha de apertura de las ofertas económicas. Transcurrido dicho plazo, la oferta del contratista que se mantuviere suspendido será inadmisible.
 
 Las bases administrativas indicarán la categoría de cada registro, con sujeción a lo prescrito en los artículos 28, o 57 según corresponda, sin perjuicio de lo dispuesto en el artículo 10, sobre Registro Especial. En caso de varios registros, al más representativo del Proyecto se le asignará la categoría de la obra según el monto total del presupuesto oficial, y a los demás registros se les otorgará la categoría en conformidad al monto de la parte del presupuesto oficial asignado a las especialidades respectivas.
 
@@ -2308,7 +2358,9 @@ La autoridad correspondiente podrá solicitar por escrito a los proponentes, acl
 
 La adjudicación de las propuestas la efectuará la autoridad que corresponda, de acuerdo a lo señalado en el Reglamento de Montos del MOP, dictado en base a lo dispuesto en el artículo 85 del D.F.L. MOP Nº 850 de 1997.
 
-Si la resolución que adjudique una propuesta no se dicta dentro de los sesenta días siguientes a la fecha de apertura de la licitación, los proponentes tendrán derecho a desistirse de sus propuestas y a retirar los antecedentes presentados, salvo que las bases administrativas hayan fijado un plazo diferente para resolverla. Dictada la resolución, no habrá derecho a desistimiento, como tampoco por la demora en su tramitación.
+Si la resolución que adjudique una propuesta no se dicta dentro de los noventa días siguientes a la fecha de apertura de las ofertas económicas de la licitación, los proponentes tendrán derecho a desistirse de sus propuestas y a retirar los antecedentes presentados, salvo que las bases administrativas hayan fijado un plazo diferente para resolverla. Pasados noventa días desde la dictación de la aludida resolución, sin que se encuentre totalmente tramitada, la Dirección correspondiente notificará al contratista favorecido dicha circunstancia, pudiendo éste desistirse de su oferta o ratificarla del modo dispuesto en el inciso siguiente.
+
+Vencido el plazo de vigencia de las ofertas, la Dirección correspondiente solicitará a los proponentes o en su caso al contratista favorecido, la ratificación por escrito de ellas por plazos iguales o superiores al precedentemente indicado. Ratificadas las ofertas, éstas se entenderán, para todos los efectos a que haya lugar, íntegramente vigentes, en las mismas condiciones con que fueron presentadas. Las ofertas que no sean ratificadas dentro de los cinco días siguientes a la referida solicitud, se tendrán por desistidas.
 
 La resolución que acepte una propuesta, deberá aprobar las bases administrativas, especificaciones técnicas, planos generales, presupuesto y, en general, todos los antecedentes que sirvieron de base para la licitación.
 
@@ -2430,11 +2482,41 @@ Previo al traspaso del contrato, el contratista original debe demostrar a satisf
 
 El contratista sólo podrá subcontratar parte de las obras siempre que obtenga la autorización de la Dirección, pero entendiéndose, en todo caso, que éste se mantiene como responsable de todas las obligaciones contraídas con el Ministerio en virtud del contrato, como asimismo de las obligaciones para con los trabajadores, que omita pagar el subcontratista, siendo aplicable lo dispuesto en los artículos 131 y 132.
 
-Los subcontratistas deberán tener inscripción vigente en el o los registros y categorías del Registro de Obras que procedan según los documentos de licitación y de acuerdo a las actividades que ellos desarrollarán.
+Las bases administrativas establecerán el porcentaje máximo de subcontratación que no podrá superar el 50% del valor total del contrato. Las bases podrán señalar fundadamente, además, partes de la obra que no podrán ser subcontratadas.
 
-Las bases administrativas podrán establecer el porcentaje máximo de obras que puedan ser subcontratadas, el que en ningún caso podrá superar un 30 % del valor total del contrato, salvo situaciones de excepción, debidamente justificadas por el Director correspondiente. El contratista solicitará oportunamente la autorización del Director, quien deberá pronunciarse en un plazo de 15 días hábiles contados desde la recepción del documento respectivo en su oficina de partes; si no se pronunciare, se entenderá aceptada la solicitud. El contratista deberá enviar al Inspector Fiscal, copia de su solicitud y de la respuesta recibida.
+Los subcontratistas podrán encontrarse inscritos en el Registro de Contratistas del Ministerio de Obras Públicas. En tal caso deberán contar con inscripción vigente en el o los registros y categorías del Registro que procedan según los documentos de licitación y de acuerdo con el monto de actividades que desarrollarán. En caso de no encontrarse inscritos en el Registro, los subcontratistas tendrán que poseer la experiencia técnica definida en los cuadros Nº 2 o Nº 3 del documento "Registro de Contratistas - Categorías y Especialidades", según la naturaleza y monto de las obras que se subcontratarán.
 
-En caso que el contratista emplee subcontratistas en la ejecución de las obras sin haber obtenido la autorización correspondiente, la Dirección queda facultada para poner término anticipado al contrato conforme a lo dispuesto en el artículo 151.
+En todo caso no podrán ser subcontratados los contratistas que participaron como oferentes en la misma licitación que da origen al contrato, así como aquellos que se encuentren suspendidos, por cualquier circunstancia, del Registro General de Contratistas.
+
+El contratista deberá presentar a la Dirección, conjuntamente con la solicitud de autorización, los siguientes antecedentes:
+
+- La o las partes de la obra a subcontratar y su monto, según el presupuesto del contrato aceptado, lo que se deberá indicar aun cuando la subcontratación se trate de la parcialidad de una partida o no represente un ítem completo.
+
+- La identidad, datos de contacto y representante o representantes legales del subcontratista.
+
+- Los antecedentes que acrediten la experiencia técnica del subcontratista, bastando para estos efectos, el certificado de inscripción vigente para los subcontratistas inscritos en el Registro y la declaración jurada simple del contratista que deje constancia que ha verificado la experiencia de los subcontratistas no inscritos, ajustándose ésta a la requerida, según lo señalado en el inciso tercero de este artículo.
+
+- Declaración jurada simple del subcontratista que deje constancia que cumple los requisitos y condiciones a que se refiere este artículo y de no estar afectado por alguna de las incompatibilidades para ser contratado por la Dirección, establecidas en el artículo 35 quáter de la de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios.
+
+- Cualquier otro antecedente que se determine en las bases administrativas.
+
+La Dirección deberá pronunciarse en un plazo de 15 días hábiles contados desde la recepción de la solicitud en su oficina de partes; si no se pronunciare, ésta se entenderá aceptada. La aceptación o el rechazo de la solicitud será informada al Inspector Fiscal respectivo.
+
+La Dirección podrá, en cualquier momento, solicitar al contratista los antecedentes que permitan verificar que el subcontratista no inscrito posee la experiencia técnica declarada, lo que de no constatarse, facultará a imponer la multa indicada en el inciso octavo de este artículo y ordenar la separación inmediata del subcontratista, que no podrá ser reemplazado, salvo que el contratista no cuente con inscripción en la especialidad requerida para la ejecución de la parte de la obra que se subcontrató.
+
+En caso que el contratista emplee subcontratistas en la ejecución de las obras sin haber presentado la solicitud de subcontratación o habiéndola presentado, ésta haya sido rechazada; supere el porcentaje máximo o subcontrate partes de la obra que no es posible subcontratar según las bases, se le aplicará una multa equivalente al 10% del valor total de las partidas subcontratadas según el precio de éstas en el presupuesto del contrato aceptado. La referida multa se descontará del estado de pago siguiente al de su aplicación.
+
+#### Artículo 101 bis
+
+El contratista deberá informar al Inspector Fiscal el inicio y la finalización de la participación de los subcontratistas en la ejecución de la obra. Asimismo, el contratista acreditará el cumplimiento de los pagos realizados a éstos, una vez concluida su intervención o a más tardar, una vez producida la recepción provisional o única de la obra, mediante copia de la o las facturas o los instrumentos tributarios correspondientes, certificados de pago entregados por el subcontratista o algún otro antecedente que dé cuenta fehaciente de su solución.
+
+Si el contratista no acredita lo anterior, o no justifica la falta de pago en la existencia de controversias relativas a los trabajos ejecutados por el subcontratista, sometidas al conocimiento de la justicia ordinaria o arbitral; hallarse vigentes acuerdos de pago, o en la reclamación, conforme lo dispuesto en el artículo 3º de la ley Nº 19.983, de la o las facturas emitidas por el subcontratista, la devolución de las retenciones procederá en la oportunidad dispuesta en el inciso segundo del artículo 169 del presente reglamento.
+
+#### Artículo 101 ter
+
+La comisión de recepción provisional o única, en el informe dispuesto en el artículo 179 de este reglamento, junto con indicar la nómina de todos los subcontratistas, inscritos o no inscritos, con sus correspondientes volúmenes de obra por especialidad, dejará constancia del desempeño de éstos, el que se evaluará como bueno, regular o deficiente, en base a las anotaciones en el libro de obras e informes que al efecto elabore la inspección fiscal.
+
+El Registro General de Contratistas anotará dicho resultado en la hoja de vida de aquellos subcontratistas que se encuentren inscritos, e implementará, para los no inscritos, un listado en el que se recopilen los datos referidos, pudiendo entregar comprobantes en que conste esta información, la que, además, servirá para acreditar la experiencia requerida para la inscripción, siempre que el desempeño del subcontratista no haya sido evaluado como deficiente.
 
 #### Artículo 102
 
@@ -2477,6 +2559,10 @@ Lo dispuesto en el artículo 103, regirá también para las obras a las que se r
 Los aumentos efectivos de un contrato, provenientes de aumentos de obra, obras nuevas o extraordinarias, modificación de las obras previstas o el empleo de materiales no considerados, no podrán sobrepasar, en conjunto, el 35% del monto inicial del contrato, contabilizando las disminuciones convenidas. Para este efecto, deberá actualizarse el valor inicial del contrato y cada una de sus modificaciones en base a un sistema de reajuste.
 
 Cumplido el aumento del 35% precitado, deberá procederse a la liquidación del contrato y las obras no realizadas se considerarán obra nueva, debiendo contratarse como tales.
+
+Con todo, en casos calificados y previamente autorizados por la Dirección General de Obras Públicas, los porcentajes máximos de aumentos y/o de obras nuevas o extraordinarias, en conjunto, podrán excederse hasta un máximo de un 50% del monto inicial del contrato. Todos valores que deberán actualizarse de conformidad a lo señalado precedentemente. Cumplido dicho porcentaje, deberá procederse de conformidad a lo dispuesto en el inciso anterior.
+
+Dicha autorización no corresponderá cuando los aumentos de obras o las obras nuevas o extraordinarias que se pretendan ejecutar, incorporen infraestructura o edificaciones no consideradas en el contrato original o éstas se sustituyan por otras diferentes, variando el objeto y características esenciales del proyecto que se ejecuta. Lo dispuesto en el inciso anterior no será aplicable a los contratos de conservación de cualquier tipo, salvo en casos de urgencia o emergencia calificados previamente por el Director General de Obras Públicas.
 
 #### Artículo 107
 
@@ -2628,6 +2714,18 @@ El contratista queda obligado a pagar a sus trabajadores por cada día de lluvia
 
 En caso que el contratista o un subcontratista no diere cumplimiento a lo dispuesto en el artículo anterior, el inspector fiscal queda facultado para pagar, a través de la Dirección de Contabilidad y Finanzas, con cargo a los estados de pago pendientes, ante un inspector del trabajo o un ministro de fe, los sueldos, jornales o tratos adeudados a los trabajadores ocupados en la obra, como también los gastos originados por esta diligencia. Si los estados de pago pendientes son insuficientes, se utilizarán las retenciones y garantías del contrato.
 
+Igual medida se adoptará cuando dicha circunstancia afecte a trabajadores que se desempeñen para prestadores de servicios que se desarrollan en forma constante y continua, que no tengan por objeto la ejecución de parte de las obras.
+
+Dicha medida, en todo caso, no se aplicará respecto de:
+
+- Los trabajadores de prestadores de servicios que se prestan de manera discontinua o esporádica, en los términos dispuestos en el artículo 183-A, del Código del Trabajo;
+
+- Los trabajadores suministrados por una Empresa de Servicios Transitorios, según las normas contempladas en el párrafo 2º, del Título VII, del aludido Código;
+
+- Trabajadores independientes, conforme lo definido en el literal c), del artículo 3º, del señalado cuerpo legal, y
+
+- Los trabajadores de empresas que suministren los insumos, herramientas, mercancías, bienes o maquinarias que el contratista requiera.
+
 Este acto se hará administrativamente sobre la base de los libros del contratista y de la nómina de los trabajadores entregada por éste al inspector fiscal, según lo prescrito en el inciso 3º del artículo 143.
 
 Asimismo la Dirección podrá hacer uso de los estados de pago pendientes para mantener en vigencia las pólizas de seguro o las boletas de garantía del contrato, si éstas no fueren oportunamente renovadas por el contratista.
@@ -2636,7 +2734,7 @@ Iguales disposiciones se podrán tomar en caso de liquidación o terminación an
 
 #### Artículo 132
 
-Los funcionarios autorizados para aprobar estados de pago quedan facultados para no darles curso, cuando el contratista no acredite el pago oportuno de las remuneraciones, imposiciones previsionales y el pago de cotizaciones de la ley 16.744 de los trabajadores ocupados en las faenas, o bien, podrán ordenar que se retenga de dichos estados de pago las cantidades adeudadas por tales conceptos, las que serán pagadas por cuenta del contratista a las personas o a las instituciones que corresponda, a través de la Dirección de Contabilidad y Finanzas.
+Los funcionarios autorizados para aprobar estados de pago quedan facultados para no darles curso, cuando el contratista no acredite el pago oportuno de las remuneraciones, imposiciones previsionales y el pago de cotizaciones de la ley 16.744 de los trabajadores ocupados en las faenas, incluidos aquellos a los que se refiere el inciso segundo del artículo anterior o bien, podrán ordenar que se retenga de dichos estados de pago las cantidades adeudadas por tales conceptos, las que serán pagadas por cuenta del contratista a las personas o a las instituciones que corresponda, a través de la Dirección de Contabilidad y Finanzas.
 
 Lo mismo se adoptará en el caso de que no se acredite el ingreso oportuno en arcas fiscales de los impuestos retenidos al personal, de sus sueldos y salarios.
 
@@ -2710,13 +2808,15 @@ El contratista debe ejecutar los trabajos con arreglo a las bases administrativa
 
 Dichos antecedentes se interpretarán siempre en el sentido de la mejor y más perfecta ejecución de los trabajos, conforme a las reglas de la técnica.
 
+El contratista será el responsable de los métodos y medios constructivos, métodos técnicos, secuencias de trabajo y su coordinación; dicha responsabilidad no impedirá o limitará la facultad de la Dirección para establecer medidas de control sobre las acciones u omisiones, que en esos aspectos, adopte o incurra el contratista.
+
 #### Artículo 143
 
 El número de trabajadores que se ocupe en la obra deberá tener relación con la cantidad de obras por ejecutar, de acuerdo con el programa de trabajo. Si por cualquier causa no existiera este programa, la Dirección estará facultada para fijarlo, a fin de que ella se termine en el plazo pactado.
 
 Si el programa de trabajo se está realizando con retraso, la Dirección tendrá facultad para tomar las medidas necesarias para normalizar el ritmo de las faenas, sin perjuicio de lo dispuesto en el artículo 161. El contratista deberá dar cumplimiento a las instrucciones dadas con este fin, dentro del plazo de 15 días contados desde que se le notifiquen, bajo apercibimiento de ponerse término anticipado al contrato.
 
-El contratista deberá entregar mensualmente al inspector fiscal una nómina de los trabajadores que estén en actividad en las diversas faenas, incluyendo los trabajadores de subcontratistas, dentro de los cinco días siguientes al mes que se informa. Por cada día de atraso se aplicará una multa de 1 U.T.M.
+El contratista deberá entregar mensualmente al inspector fiscal una nómina de los trabajadores que estén en actividad en las diversas faenas, incluyendo los trabajadores de subcontratistas y de aquellos a los que se refiere el inciso segundo del artículo 131 de este reglamento, dentro de los cinco días siguientes al mes que se informa. Por cada día de atraso se aplicará una multa de 1 U.T.M.
 
 El inspector fiscal podrá presenciar el pago de las remuneraciones, si así lo estima conveniente.
 
@@ -2750,7 +2850,7 @@ El aviso de término de un contrato deberá ser dado al contratista con una anti
 
 En caso de paralización de faenas ordenadas por la Dirección, se indemnizará al contratista en la forma establecida en el artículo anterior. Si esta excede de dos meses, el contratista podrá pedir, al ordenarse la paralización, la liquidación de su contrato, en cuyo evento solo se le indemnizará de acuerdo a lo indicado en el inciso siguiente.
 
-La liquidación anticipada del contrato dará derecho al contratista a recibir una única indemnización de un porcentaje (P) del valor líquido a que alcance la disminución del valor primitivo del contrato. Para este cálculo deberán considerarse los aumentos y disminuciones parciales de obras que éste haya tenido. Todos los valores se actualizarán de acuerdo al sistema de reajuste del contrato, al mes anterior al de la fecha en que se fija la indemnización. Esta se pagará dentro del plazo de 30 días a contar de la fecha en que sea tramitada la resolución que la determinó, correspondiendo en caso de atraso aplicar el artículo 156.
+El término anticipado del contrato dará derecho al contratista a recibir una única indemnización de un porcentaje (P) del valor líquido a que alcance la disminución del valor primitivo del contrato. Para este cálculo deberán considerarse los aumentos y disminuciones parciales de obras que éste haya tenido. Todos los valores se actualizarán de acuerdo al sistema de reajuste del contrato, al mes anterior al de la fecha en que se fija la indemnización. Esta se pagará dentro del plazo de 30 días a contar de la fecha en que sea tramitada la resolución que la determinó, correspondiendo en caso de atraso aplicar el artículo 156.
 
 El porcentaje mencionado anteriormente se calculará de la manera siguiente:
 
@@ -2812,25 +2912,19 @@ c) Si el contratista no concurriere, dentro del plazo establecido en el artícul
 
 d) Si el contratista no diere cumplimiento al programa oficial o al programa de trabajo, según corresponda, a que se refieren los artículos 76, 139 y 161, no iniciare oportunamente la obra o incurriere en paralizaciones superiores a los plazos que estipula el artículo 139;
 
-e) Si el contratista no suscribiere o
-
-protocolizare el decreto o resolución a que se refiere el artículo 90, o no entregare la garantía a que alude el artículo 96;
+e) Si el contratista no suscribiere o protocolizare el decreto o resolución a que se refiere el artículo 90, o no entregare la garantía a que alude el artículo 96;
 
 f) Si el contratista no acatare las órdenes e instrucciones que se le den de acuerdo con lo dispuesto en los artículos 103, 104, 105, 117 y 143;
 
 g) Si por error en la ejecución de los trabajos la obra quedara con defectos graves que no pudieran ser reparados y ellos comprometieran su seguridad u obligaran a modificaciones sustanciales del proyecto;
 
-h) Cuando la Dirección de común acuerdo con el contratista, resuelve liquidar anticipadamente el contrato;
+h) Cuando la Dirección de común acuerdo con el contratista, resuelve liquidar anticipadamente el contrato, y
 
-i) Si el contratista empleare subcontratistas en la ejecución de las obras sin haber obtenido la autorización correspondiente;
-
-j) Si el contratista se hubiere adjudicado el contrato estando en situación de incumplimiento con los requisitos establecidos por este Reglamento para mantener vigente su clasificación en el Registro de Contratistas, y
-
-k) Si se toma conocimiento, con posterioridad a la adjudicación, que en la licitación respectiva participó un contratista relacionado con el que se adjudicó el contrato, de conformidad a lo previsto en el artículo 68 del presente reglamento. En este caso, de haberse aplicado la multa prevista en dicha disposición, no se impondrá la sanción señalada en el inciso segundo del artículo 152 del presente reglamento.
+i) Si el contratista se hubiere adjudicado el contrato estando en situación de incumplimiento con los requisitos establecidos por este Reglamento para mantener vigente su clasificación en el Registro de Contratistas.
 
 #### Artículo 152
 
-Puesto término anticipado a un contrato por cualquiera de las causales señaladas en este reglamento, salvo las establecidas en el Artículo 148 y en la letra h) del artículo anterior, se mantendrán las garantías y retenciones del contrato, las que servirán para responder del mayor precio que pueda costar la obra hecha por administración o por un nuevo contrato, como asimismo, para el pago de las multas que afecten al contratista, o cualquier otro perjuicio que resultare para el Fisco, con motivo de esa liquidación.
+Puesto término anticipado a un contrato por cualquiera de las causales señaladas en este reglamento, salvo las establecidas en el Artículo 148 y en la letra h) del artículo anterior, se mantendrán las garantías y retenciones del contrato, las que servirán para responder del mayor precio que pueda costar la obra hecha por administración o por un nuevo contrato, como asimismo, para el pago de las multas que afecten al contratista, o cualquier otro perjuicio que resultare para el Fisco, con motivo de esa determinación.
 
 El contratista perderá como sanción, tan pronto se ponga término anticipado al contrato, por lo menos un 25% del valor de las garantías que caucionen su cumplimiento, salvo en el caso estipulado en el Artículo 148 o en la letra h) del artículo anterior o cuando a juicio fundado del Director General no resultare equitativo aplicar dicha sanción.
 
@@ -2848,7 +2942,7 @@ Sin perjuicio de lo señalado en el inciso precedente, cuando circunstancias esp
 
 Los estados de pago no podrán cursarse si el contratista no ha cumplido con lo dispuesto en los artículos 90 y 96, en lo referente a la suscripción y protocolización del documento de adjudicación del contrato y sus modificaciones, y a la entrega de la garantías pertinentes.
 
-También será requisito para cursar un estado de pago, que el contratista entregue previamente, al Inspector Fiscal, los antecedentes que acrediten que no existen deudas con los trabajadores ocupados en la obra por concepto de remuneraciones, imposiciones, Seguro Social Obligatorio contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales, y de impuestos retenidos a dicho personal de sus sueldos y salarios. En el caso que el contratista se encuentre utilizando subcontratistas, deberá entregar copia de las mismas cancelaciones efectuadas por dichos subcontratistas a los organismos pertinentes.
+También será requisito para cursar un estado de pago, que el contratista entregue previamente, al Inspector Fiscal, los antecedentes que acrediten que no existen deudas con los trabajadores ocupados en la obra por concepto de remuneraciones, imposiciones, Seguro Social Obligatorio contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales, y de impuestos retenidos a dicho personal de sus sueldos y salarios. En el caso que el contratista se encuentre utilizando subcontratistas, y/o prestadores de servicios de aquellos singularizados en el inciso segundo del artículo 131 de este reglamento, deberá acreditar que éstos no poseen deudas con sus trabajadores y con las instituciones correspondientes, por los conceptos antes mencionados.
 
 #### Artículo 154
 
@@ -2982,13 +3076,15 @@ De la recepción de las obras
 
 #### Artículo 166
 
-Una vez terminados los trabajos, el contratista solicitará por escrito la recepción de la obra al inspector fiscal, quien deberá verificar dicho término y el fiel cumplimiento de los planos y especificaciones del contrato, con la debida certificación de calidad de las obras que se indique en el Proyecto y en el plazo que se indique en el mismo. Constatado lo anterior, deberá comunicarlo a la Dirección por oficio, en un plazo no superior a 5 días, indicando la fecha en que el contratista puso término a la obra. Se entenderá como fecha de término el día en que el contratista terminó de construir el 100% de las obras contratadas.
+Una vez terminados los trabajos, el contratista solicitará por escrito la recepción de la obra al inspector fiscal, quien deberá, en un plazo de no más de 20 días hábiles, verificar dicho término y el fiel cumplimiento de los planos y especificaciones del contrato, con la debida certificación de calidad de las obras que se indique en el Proyecto y en el plazo que se indique en el mismo. El inspector fiscal podrá solicitar al Director Nacional o Regional respectivo una extensión de dicho plazo, la que no podrá, de concederse, ser mayor a 20 días hábiles adicionales.
+
+Constatado lo anterior, deberá comunicarlo a la Dirección por oficio, en un plazo no superior a 5 días, indicando la fecha en que el contratista puso término a la obra. Se entenderá como fecha de término el día en que el contratista terminó de construir el 100% de las obras contratadas.
 
 La recepción provisional de las obras correspondientes al Registro de Obras Mayores se efectuará por una comisión compuesta por tres personas que serán:
 
-1) el Secretario Regional, o el profesional universitario que éste designe en su reemplazo, que podrá ser cualquiera de los radicados en su Región;
+1) el Secretario Regional, o el profesional universitario que éste designe en su reemplazo, que podrá ser cualquiera de los radicados en su región;
 
-2) el Jefe del Departamento pertinente, regional o nacional según sea administrado el contrato, o un profesional universitario designado por éste;
+2) el Jefe del Departamento pertinente, regional o nacional, según sea administrado el contrato, o un profesional universitario designado por éste;
 
 3) el Director Regional, o el profesional de este Servicio que designe en su reemplazo, siempre que no sea el inspector fiscal de la obra.
 
@@ -2996,15 +3092,17 @@ Todos los integrantes de la comisión deberán ser funcionarios del Ministerio.
 
 La recepción provisional de las obras correspondientes al Registro de Obras Menores, se efectuará por una Comisión compuesta por dos profesionales universitarios propuestos por el Secretario Regional, siendo a lo menos uno de ellos de la Dirección.
 
-Las obras correspondientes a los registros de obras menores expresamente identificados en este sentido en el documento "Registro de Contratistas - Categorías y Especialidades", serán recibidas mediante una recepción única, a través de una comisión compuesta por dos profesionales idóneos propuestos por el Director Regional, asesorados por el inspector fiscal.
+Las obras correspondientes a los registros de obras menores expresamente identificados en este sentido en el documento "Registro de Contratistas - Categorías y Especialidades" serán recibidas mediante una recepción única, a través de una comisión compuesta por dos profesionales idóneos propuestos por el Director Regional, asesorados por el inspector fiscal.
 
-La resolución que designe a la comisión de recepción provisional será dictada , a más tardar dentro del plazo de 20 días, contados desde la fecha del oficio del Inspector Fiscal, por el Director Nacional o Regional del Servicio ejecutor. En el caso de contratos con el Cuerpo Militar del Trabajo será dictada por el Director General de Obras Públicas. Dicha comisión deberá evacuar su informe en un plazo no superior a 20 días, a contar de la fecha de notificación de su designación.
+La resolución que designe a la comisión de recepción provisional será dictada, a más tardar, dentro del plazo de 20 días contados desde la fecha del oficio del Inspector Fiscal, por el Director Nacional o Regional del Servicio ejecutor. En el caso de contratos con el Cuerpo Militar del Trabajo será dictada por el Director General de Obras Públicas. Dicha comisión deberá evacuar su informe en un plazo no superior a 20 días hábiles, a contar de la fecha de notificación de su designación. A petición fundada de la comisión, por tratarse de obras que por su extensión o complejidad, requieran de un mayor plazo para que ésta desarrolle su cometido, el Director Nacional o Regional respectivo, podrá ampliar el plazo para evacuar el informe aludido anteriormente, hasta por 30 días hábiles adicionales.
 
-A la recepción podrán asistir, además de la comisión, el inspector fiscal y el contratista o su representante, los que deberán ser previamente citados.
+A la recepción podrán asistir, además de la comisión, el inspector fiscal y el contratista o su representante.
 
 Una vez verificada por la comisión la correcta ejecución de la obra, ésta dará curso a la recepción provisional y levantará un acta que será firmada por todos los miembros y, si lo deseare, por el contratista o su representante. Se consignará como fecha de término de la obra, la que haya indicado el inspector fiscal en el oficio a que se refiere el inciso primero y se incluirá como anexo el presupuesto de las obras recibidas, el cual también será firmado por todos los miembros de la comisión.
 
-La recepción única establecida en las bases administrativas, se hará con las mismas formalidades y plazos que la recepción provisional. En los casos de liquidación anticipada, se recibirá la obra en el estado que se encuentre, debiendo en este caso, la comisión, emitir un informe detallado y valorizado de los trabajos ejecutados por el contratista aún cuando no representen ítem completos.
+La recepción única establecida en las bases administrativas, se hará con las mismas formalidades y plazos que la recepción provisional. En los casos de término anticipado, se recibirá la obra en el estado que se encuentre, debiendo en este caso, la comisión, emitir un informe detallado y valorizado de los trabajos ejecutados por el contratista aun cuando no representen ítems completos.
+
+El inspector fiscal y los funcionarios que integren la comisión de recepción provisional o única, serán responsables por el incumplimiento de los plazos establecidos en este artículo.
 
 #### Artículo 167
 
@@ -3015,6 +3113,18 @@ Cuando el contratista no hiciere las reparaciones y cambios dentro del plazo que
 Una vez subsanados los defectos observados por la comisión, el contratista solicitará nuevamente la recepción al inspector fiscal, quien verificará su término e informará a la comisión para que ésta proceda a efectuar la recepción provisional en un plazo no superior a 20 días desde dicho informe, fijando como fecha de término de la obra, la indicada en el oficio del inspector fiscal, adicionada con el plazo que el contratista empleó en ejecutar las reparaciones, plazo este último que deberá ser certificado por el propio inspector fiscal.
 
 En ningún caso el contratista podrá excusar su responsabilidad por los trabajos defectuosos, o negarse a reconstruirlos, bajo pretexto de haber sido aceptados por el inspector fiscal.
+
+#### Artículo 167 bis
+
+Si se hubiera previsto en los documentos de la licitación o la Dirección Nacional correspondiente lo autorice por ser conveniente para la colectividad o el interés público, las secciones, tramos o partes de la obra que puedan habilitarse para su uso o explotación de modo independiente, se podrán recibir provisionalmente, lo que no eximirá al contratista de completar la obra en el plazo establecido.
+
+Para proceder a la recepción provisional parcial, el contratista deberá haber dado cumplimiento a todas las obligaciones legales, administrativas y contractuales correspondientes a la o las secciones, tramos o partes de la obra que se recibirá, en particular, las de carácter laboral, ambiental y aquellas impuestas por la Ley General de Urbanismo y Construcciones y su Ordenanza, en los casos que correspondan.
+
+Para efectos de lo señalado precedentemente, el Servicio deberá proceder a designar la comisión de recepción provisional parcial, la que se conformará y actuará en los mismos términos dispuestos en el artículo 166 de este reglamento. No procederá esta especie de recepción, cuando la referida comisión constate la existencia de observaciones o defectos, aun cuando éstos puedan ser reparados fácilmente y no impidan su eficiente utilización, los que deberán ser subsanados por el contratista para que proceda la recepción provisional a que se refiere este artículo.
+
+La recepción provisional parcial no habilitará ni dará derecho al contratista, a requerir la devolución de parte alguna de las retenciones efectuadas, ni a que disminuya el monto de las garantías del contrato, quedando, en todo caso, liberado, en la parte recibida provisoriamente, de las responsabilidades que le imponen los artículos 134 y 150 de este reglamento.
+
+Sin perjuicio de la recepción provisional parcial, el contratista durante el plazo de garantía de las obras, será responsable, acorde lo dispuesto en el artículo 171 del presente reglamento, de todos los defectos que éstas presenten, incluso de aquellos que ocurran en las secciones, tramos o partes recibidas del modo precedentemente previsto.
 
 #### Artículo 168
 
@@ -3027,6 +3137,8 @@ Si el contratista no subsanara los reparos observados dentro del plazo fijado, �
 #### Artículo 169
 
 Si después de efectuada la recepción provisional de la obra, resulta que los trabajos están ejecutados sin defecto alguno y en conformidad a los planos, especificaciones y reglas de la técnica; que no hay saldos pendientes en contra del contratista, y que éste o alguno de sus subcontratistas nada adeudan a los trabajadores de la obra por concepto de remuneraciones o imposiciones, se devolverán las retenciones efectuadas conforme a lo dispuesto en el artículo158, y la garantía adicional contemplada en el artículo 98, si la hubiere.
+
+Con todo, no procederá la devolución de las referidas retenciones y de la garantía adicional, si el contratista no ha acreditado el pago a los subcontratistas o justificado su falta, de conformidad a lo dispuesto en el artículo 101 bis de este reglamento, las que sólo se podrán devolver una vez liquidado el contrato o si, previamente, comprueba el mencionado pago o proporciona la aludida justificación.
 
 #### Artículo 170
 
@@ -3166,11 +3278,29 @@ De la liquidación del contrato
 
 #### Artículo 184
 
-La liquidación del contrato se hará por la Dirección conforme a las resoluciones adoptadas por ella, con sujeción estricta a este Reglamento. Su aprobación se hará sin perjuicio de que el contratista pueda hacer valer por su parte los recursos que procedan ante la Contraloría General de la República.
+El contratista deberá presentar una propuesta de liquidación a la Dirección, en el formato y acompañada de toda la documentación y antecedentes contractuales que se determinen en las bases administrativas, dentro de los 30 días siguientes contados desde la recepción definitiva o única de las obras. Lo anterior no será aplicable en aquellos casos en que al contrato se le haya puesto término anticipado conforme lo dispuesto en el artículo 151 de este reglamento.
 
-La Dirección deberá formular la liquidación del contrato, y devolver la garantía de fiel cumplimiento del contrato, dentro del plazo de 90 días contados desde la fecha del acta de recepción definitiva o única; en casos especiales debidamente fundados por el Director Nacional respectivo, se podrá prorrogar el plazo hasta por 180 días más, previa aprobación del Director General. Dentro de estos mismos plazos, la Dirección informará al Registro General de Contratistas el monto final del contrato y la fecha de su liquidación.
+Dentro de los 30 días hábiles siguientes desde recibida dicha propuesta, la Dirección deberá aprobarla, dictando la resolución correspondiente, siempre y cuando no surjan discrepancias u observaciones entre el contratista y la Dirección.
 
-Cuando la liquidación no se haya formulado en los plazos de vigencia de la boleta bancaria o póliza de seguro señalados en el inciso primero del artículo 96, el MOP restituirá al contratista el dinero que hubiese desembolsado para mantener vigente, después de transcurrido dicho plazo, la garantía del contrato.
+En el caso de existir discrepancias u observaciones respecto de la propuesta del contratista, si ésta no se presenta dentro de plazo o se hubiere puesto término anticipado al contrato, la Dirección procederá a liquidarlo, para lo que tendrá un plazo de 120 días contados desde la fecha del acta de recepción definitiva o única. En casos especiales debidamente fundados por el Director Nacional respectivo, se podrá prorrogar el plazo hasta por 90 días adicionales, previa aprobación del Director General.
+
+La aprobación de la liquidación se hará sin perjuicio de los recursos que el contratista pueda hacer valer de conformidad a lo dispuesto en el artículo 189 de este reglamento o ante la Contraloría General de la República.
+
+La Dirección deberá devolver la garantía de fiel cumplimiento del contrato una vez completamente tramitada la resolución que apruebe la liquidación, misma oportunidad en que informará al Registro General de Contratistas el monto final del contrato y la fecha de su liquidación.
+
+No obstante lo dispuesto en el inciso anterior, se procederá, sin más demora, a la devolución de la aludida garantía, cumpliéndose copulativamente las siguientes condiciones:
+
+a) No se haya puesto término anticipado al contrato por falta de cumplimiento del contratista, de conformidad a lo previsto en el artículo 151 de este reglamento.
+
+b) Se hubiere efectuado la recepción única o definitiva de la obra sin observaciones o existiendo, se encuentren subsanadas por el contratista a conformidad de la Dirección.
+
+c) El contratista hubiere presentado su propuesta de liquidación dentro de plazo y la Dirección no haya manifestado observaciones o discrepancias respecto de ésta.
+
+d) No existan saldos pendientes en contra del contratista.
+
+e) No sean atribuibles al contratista las causas que hayan demorado o impedido la liquidación.
+
+Cuando la liquidación no se formule en los plazos de vigencia de la garantía de fiel cumplimiento del contrato establecidos en el inciso primero del artículo 96 del presente reglamento, por causas ajenas al contratista, el MOP le reembolsará el costo en que haya incurrido para mantenerla vigente después de transcurrido dicho plazo.
 
 El contratista que no haya aceptado la liquidación podrá reclamar de ella, dentro de un plazo de 90 días contados desde la fecha de tramitación de la resolución pertinente. Transcurrido ese plazo, la liquidación se entenderá aceptada por el contratista.
 
@@ -3200,7 +3330,7 @@ En todas las circunstancias que de acuerdo con el presente reglamento, se ponga 
 
 #### Artículo 188
 
-La Dirección queda facultada para suspender, en casos calificados por el Director General, la liquidación de un contrato, cuando un mismo contratista tuviese pendiente dos o más contratos cuyas obras estuvieren terminadas, o en casos de liquidación anticipada, a fin de hacer posible la compensación de los saldos favorables y desfavorables que pudieran resultar en unos y otros respecto de los contratantes.
+La Dirección queda facultada para suspender, en casos calificados por el Director General, la liquidación de un contrato, cuando un mismo contratista tuviese pendiente dos o más contratos cuyas obras estuvieren terminadas, o en casos de término anticipado, a fin de hacer posible la compensación de los saldos favorables y desfavorables que pudieran resultar en unos y otros respecto de los contratantes.
 
 ## Título XII
 
@@ -3322,7 +3452,7 @@ La solicitud establecida en este artículo solo podrá ejercerse hasta el 31 de 
 
 #### Artículo 15
 
-Durante los años 2023 al 2026 las Direcciones podrán autorizar en las Bases Administrativas, la subcontratación de hasta un 50% de las obras con subcontratistas inscritos o no inscritos en el Registro de Contratistas de Obras Públicas. Asimismo, podrán autorizar la participación de contratistas inscritos en la categoría inmediatamente inferior a aquella requerida según el valor de la obra. Para los efectos de lo dispuesto precedentemente, la tercera categoría del Registro de Obras Mayores se considerará una sola, sin la división entre 3° A y 3° B, contemplada en el artículo 9° del presente reglamento.
+Durante los años 2023 al 2026 las Direcciones podrán autorizar en las Bases Administrativas, la participación de contratistas inscritos en la categoría inmediatamente inferior a aquella requerida según el valor de la obra. Para los efectos de lo dispuesto precedentemente, la tercera categoría del Registro de Obras Mayores se considerará una sola, sin la división entre 3° A y 3° B, contemplada en el artículo 9° del presente reglamento.
 
 Además, para este período, en las Bases Administrativas se podrán establecer los siguientes plazos mínimos, entre la publicación del llamado y la apertura de las propuestas, según el valor estimado de la obra:
 
