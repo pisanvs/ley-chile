@@ -2822,7 +2822,7 @@ DE LA CONSTRUCCION DE CIERTAS OBRAS HIDRÁULICAS
 
 Requerirán la aprobación del Director General de Aguas, de acuerdo al procedimiento indicado en el Título I del Libro Segundo, la construcción de las siguientes Obras:
 
-a) Los embalses de capacidad superior a cincuenta mil metros cúbicos o cuyo muro tenga más de 5m. de altura;
+a) Los embalses que se construyan en un cauce natural, cuya capacidad sea superior a cincuenta mil metros cúbicos o cuyo muro tenga más de cinco metros de altura, al igual que los embalses que se construyan fuera de un cauce natural, cuya capacidad sea superior a ciento cincuenta mil metros cúbicos o cuyo muro tenga más de siete metros de altura;
 
 b) Los acueductos que conduzcan más de dos metros cúbicos por segundo;
 
@@ -2831,6 +2831,8 @@ c) Los acueductos que conduzcan más de medio metro cúbico por segundo, que se 
 d) Los sifones y canoas que cumplan con las características señaladas en las letras b) o c) precedentes que crucen cauces naturales.
 
 Quedan exceptuados de cumplir los trámites y requisitos a que se refiere este artículo, los Servicios dependientes del Ministerio de Obras Públicas. Estos Servicios deberán informar a la Dirección General de Aguas las características generales de las obras y ubicación del proyecto antes de iniciar su construcción y remitir los proyectos definitivos para su conocimiento e inclusión en el Catastro Público de Aguas, dentro del plazo de seis meses, contado desde la recepción final de la obra.
+
+El propietario o administrador de una obra que se encuentre fuera de cauce, con una capacidad superior a cincuenta mil metros cúbicos o cuyo muro tenga más de cinco metros de altura y que esté exceptuada de contar con la aprobación del Director General de Aguas, según lo dispuesto en la letra a) del inciso primero de este artículo, deberá informar mediante declaración jurada a la Dirección General de Aguas, previo a la construcción del embalse o tranque, lo siguiente: el responsable de la obra, sus dimensiones y características generales, la fecha estimada de inicio y término y la ubicación georreferenciada. Además, en el plazo de seis meses, contado desde terminada la obra, deberá remitir a dicha Dirección copia de los proyectos definitivos para su conocimiento e inclusión en el Catastro Público de Aguas. El incumplimiento de esta obligación será sancionado de conformidad al número 1 del inciso primero del artículo 173.
 
 #### Artículo 295°
 
@@ -2984,35 +2986,29 @@ Ante el incumplimiento de las medidas a que se refieren los incisos anteriores, 
 
 Es deber de la Dirección General de Aguas evaluar los proyectos de obras hidráulicas que se sometan a su consideración, y emitir su informe técnico en base a los antecedentes que aporte el solicitante y demás información que se requiera para mejor resolver.
 
-Los titulares de proyectos de obras que presenten las solicitudes a que se refieren los artículos 151, 171 y 294 y siguientes, podrán requerir que la Dirección General de Aguas designe de manera aleatoria un perito del Registro de Peritos Externos a cargo de dicha Dirección, para que elabore un informe de pre revisión del correspondiente proyecto.
+Los titulares de proyectos de obras que presenten las solicitudes a que se refieren los artículos 151°, 171° y 294° y siguientes, podrán presentar, voluntariamente y a su propia costa, un informe técnico de pre revisión y evaluación del proyecto suscrito por un profesional o entidad técnica reconocida.
 
-La Dirección General de Aguas, mediante resolución, determinará los contenidos mínimos que deberán contener los informes de los peritos externos, en la que diferenciará los casos de los proyectos referidos a bocatomas, los proyectos de modificaciones que señala el artículo 171 y los proyectos de obras mayores, y determinará para cada categoría los costos del peritaje. Asimismo, en dicha resolución se fijarán los requisitos, inhabilidades e incompatibilidades a que deberán ceñirse dichos peritos externos para inscribirse y permanecer en el registro. Deberá evitarse el conflicto de interés.
+El profesional o la entidad técnica reconocida que suscriba el informe técnico a que se refiere el inciso anterior deberá contar con una inscripción vigente en el Registro de Consultores del Ministerio de Obras Públicas, en la categoría Primera Superior, del área de Ingeniería Civil, especialidades
 
-No podrán inscribirse en el señalado registro:
+- **a)** Obras Hidráulicas y de Riego,
 
-a) Las personas condenadas por delitos ambientales.
+- **b)** Obras Fluviales, o
 
-b) Los infractores de la legislación sobre libre competencia.
+- **c)** Grandes Presas.
 
-c) Las personas jurídicas condenadas por los delitos señalados en la ley N° 20.393, sobre responsabilidad penal de las personas jurídicas.
+La Dirección General de Aguas mediante resolución fundada determinará los contenidos mínimos que deberán contener los informes de los profesionales o entidades técnicas reconocidas, en la que diferenciará los casos de los proyectos referidos a bocatomas, los proyectos de modificaciones que señala el artículo 171 y los proyectos de obras mayores.
 
-d) Los condenados por delitos de soborno, cohecho, e infractores de la ley N° 19.913, sobre lavado y blanqueo de activos.
-
-e) Los condenados por los delitos contemplados en la ley N° 20.066, que establece la Ley de Violencia Intrafamiliar.
-
-Sin perjuicio de lo anterior, no podrán actuar como peritos externos en una solicitud determinada:
+No podrán actuar como profesionales o entidades técnicas reconocidas en una solicitud determinada:
 
 1. Los relacionados con el solicitante, en virtud de lo dispuesto en el artículo 100 de la ley N° 18.045, sobre Mercado de Valores.
 
-2. Los que hubieren participado en la preparación de la solicitud sobre la cual deberá pronunciarse la Dirección General de Aguas.
+2. Los que hayan participado en la preparación de la solicitud sobre la cual deberá pronunciarse la Dirección General de Aguas.
 
 3. Los que hayan mantenido una relación laboral con el solicitante durante los últimos cinco años o la mantengan al momento de la designación.
 
-Los gastos que irroguen las actuaciones efectuadas por peritos externos serán siempre de cargo del solicitante, quien deberá consignar los fondos necesarios a la Dirección General de Aguas, en forma previa a la designación, dentro del plazo que ésta fije al efecto. Una vez ejecutado el encargo, lo que se acreditará con los informes respectivos, el Servicio pagará los servicios realizados.
+Los informes técnicos y sus conclusiones elaboradas por profesionales y entidades técnicas reconocidas no serán vinculantes para la autoridad, de modo que la Dirección General de Aguas resolverá en definitiva la cuestión sometida a su consideración conforme a la evaluación y ponderación que ella efectúe de la información y antecedentes que constituyan el caso respectivo.
 
-Los informes técnicos y sus conclusiones elaboradas por un perito externo no serán vinculantes para la autoridad, de modo que la Dirección General de Aguas resolverá en definitiva la cuestión sometida a su consideración conforme a la evaluación y ponderación que ella efectúe de la información y antecedentes que constituyan el caso respectivo. Asimismo, la decisión y los fundamentos en que un caso haya sido resuelto por la Dirección General de Aguas no constituirá necesariamente precedente para la resolución de un caso similar o equivalente que esté conociendo o conozca en el futuro.
-
-Los peritos externos serán solidariamente responsables con el titular del proyecto de obras hidráulicas por los daños y perjuicios que se ocasionen o provengan de fallas, errores, defectos u omisiones de sus informes en la medida que éstos hayan sido aprobados por la Dirección General de Aguas y las obras construidas no tengan diferencias con el proyecto aprobado respecto de lo señalado en dicho informe.
+El titular del proyecto de obras hidráulicas será solidariamente responsable con los profesionales o entidades técnicas reconocidas que suscriban los informes de pre revisión y evaluación por los daños y perjuicios que se ocasionen o provengan de fallas, errores, defectos u omisiones de sus informes en la medida que éstos hayan sido aprobados por la Dirección General de Aguas y las obras construidas no tengan diferencias con el proyecto aprobado respecto de los señalado en dicho informe.
 
 Título final
 
