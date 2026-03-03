@@ -20,7 +20,7 @@ En uso de esta facultad, cualquiera de las autoridades antes mencionadas podrá,
 
 (b) Series, Cauciones y Preferencias: Los Bonos BTU- 20 serán emitidos en una misma serie, sin cauciones ni preferencias de clase alguna;
 
-(c) Expresión y Cortes: Los Bonos BTU-20 serán expresados en UFs y serán emitidos en cortes mínimos de 500,00 UFs (quinientas UFs);
+(c) Expresión: Los Bonos BTU-20 serán expresados en UFs;
 
 (d) Forma de Emisión: Los Bonos BTU-20 serán emitidos en la forma indicada en la sección 5 de este decreto supremo;
 
@@ -68,7 +68,7 @@ La adquisición de los Bonos BTU-20, ya sea en mercado primario o secundario, im
 
 (b) Series, Cauciones y Preferencias: Los Bonos BTU- 10 serán emitidos en una misma serie, sin cauciones ni preferencias de clase alguna;
 
-(c) Expresión y Cortes: Los Bonos BTU-10 serán expresados en UFs y serán emitidos en cortes mínimos de 500,00 UFs (quinientas UFs);
+(c) Expresión: Los Bonos BTU-10 serán expresados en UFs;
 
 (d) Forma de Emisión: Los Bonos BTU-10 serán emitidos en la forma indicada en la sección 5 de este decreto supremo;
 
