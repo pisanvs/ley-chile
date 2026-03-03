@@ -26,7 +26,7 @@ a) Emisor: el Fisco a través de la Tesorería;
 
 b) Series, Cauciones y Preferencias: una misma serie, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y Cortes: serán expresados en UFs y emitidos en cortes mínimos de 500,00 UFs (quinientas UFs);
+c) Expresión: serán expresados en UFs;
 
 d) Forma de Emisión: la indicada en el artículo 5°;
 
@@ -76,7 +76,7 @@ a) Emisor: el Fisco a través de la Tesorería;
 
 b) Series, Cauciones y Preferencias: una misma serie, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y Cortes: serán expresados y pagaderos en pesos y serán emitidos en cortes mínimos de 5.000.000 (cinco millones de pesos);
+c) Expresión: serán expresados y pagaderos en pesos;
 
 d) Forma de Emisión: la indicada en el artículo 5°;
 
@@ -116,9 +116,7 @@ n) Efectos de la Mora: las sumas que el Fisco adeudare a los tenedores de Bonos 
 
 o) Normas Jurídicas Aplicables: la emisión, colocación y adquisición en el mercado de los Bonos BTP-10, así como el servicio de los mismos, se regirán por el presente decreto, el artículo 3º de la Ley N° 20.141, la Ley de Administración Financiera del Estado, y por las demás reglamentaciones y normas administrativas pertinentes dictadas o que se dicten en el futuro conforme a la autorización dada en este decreto. En lo no previsto por las normas precedentemente citadas, se aplicará la Ley Nº 18.010 y las normas de la legislación general que resulten pertinentes. Con todo, se deja constancia que, conforme al inciso segundo del artículo 3º de la Ley Nº 18.045, no son aplicables las disposiciones del referido cuerpo legal ya sea a los Bonos BTP-10 como tal, a su emisión, a su emisor o a su colocación en el mercado de capitales local, con la sola excepción de la aplicación del artículo 23 letra d) de dicho cuerpo legal. En particular, en lo referido a la colocación de los Bonos BTP-10 y a la agencia fiscal que se estipula más adelante, será aplicable la Ley Orgánica Constitucional del Banco Central.
 
-La adquisición de los Bonos BTP-10, ya sea en mercado primario o secundario, implicará para el adquirente la aceptación y ratificación pura y simple de todas las normas y condiciones de emisión, colocación, adquisición y servicio precedentemente referidas, como asimismo de las características y condiciones de los Bonos BTP-10 y
-
-de las leyes y normas que por indicación expresa de este decreto se integren orgánicamente en su texto y tenor.
+La adquisición de los Bonos BTP-10, ya sea en mercado primario o secundario, implicará para el adquirente la aceptación y ratificación pura y simple de todas las normas y condiciones de emisión, colocación, adquisición y servicio precedentemente referidas, como asimismo de las características y condiciones de los Bonos BTP-10 y de las leyes y normas que por indicación expresa de este decreto se integren orgánicamente en su texto y tenor.
 
 #### Artículo 5°
 

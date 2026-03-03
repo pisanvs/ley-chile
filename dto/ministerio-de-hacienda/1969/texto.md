@@ -78,11 +78,11 @@ a) Emisor: El Fisco a través de la Tesorería;
 
 b) Series, Cauciones y Preferencias: Una misma serie para cada uno de los Bonos 2019, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y Cortes:
+c) Expresión:
 
-- Los Bonos BTP-2050 serán expresados y pagaderos en Pesos y serán emitidos en cortes mínimos de $5.000.000 (cinco millones de Pesos);
+- Los Bonos BTP-2050 serán expresados y pagaderos en Pesos;
 
-- Los Bonos BTU-2050 serán expresados en UFs y emitidos en cortes mínimos de 500,00 UFs (quinientas UFs);
+- Los Bonos BTU-2050 serán expresados en UFs;
 
 d) Forma de Emisión: La indicada en el artículo 9° del presente decreto;
 
@@ -122,7 +122,7 @@ i) Ocurrir al menos uno de estos tres eventos: 1) la mora del Fisco en el cumpli
 
 ii) El acuerdo de los tenedores de los Bonos 2019 de que se trate, de acelerar los créditos representados por dichos valores y hacerlos efectivos inmediatamente, declarando como de plazo vencido los plazos para el pago de capital e intereses de los Bonos 2019 de que se trate, adoptado con el consentimiento de tenedores de los bonos respectivos que representen, a lo menos, la mayoría absoluta del capital pendiente de pago y vigente representado por los Bonos 2019 a la fecha de dicho acuerdo; y
 
-iii) Notificar judicialmente a la Tesorería respecto de la ocurrencia de uno o más eventos indicados en el número i) y de haberse resuelto la aceleración de los Bonos 2019 de que se trate, conforme a lo señalado en el número ii) precedente .
+iii) Notificar judicialmente a la Tesorería respecto de la ocurrencia de uno o más eventos indicados en el número i) y de haberse resuelto la aceleración de los Bonos 2019 de que se trate, conforme a lo señalado en el número ii) precedente.
 
 Asimismo, en el caso de ocurrir el primer evento del número i) cada tenedor de Bonos 2019 de la serie correspondiente podrá, actuando directa e individualmente, hacer exigible íntegra y anticipadamente el capital insoluto y/o los intereses devengados e impagos hasta esa fecha, sin perjuicio de lo establecido en la letra n) siguiente, por la totalidad de los Bonos 2019 de la misma serie bajo su dominio, sin necesidad de cumplir con los requisitos establecidos en los números ii) y iii) precedentes;
 

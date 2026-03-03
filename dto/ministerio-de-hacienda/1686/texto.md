@@ -32,7 +32,7 @@ a) Emisor: el Fisco a través de la Tesorería;
 
 b) Series, Cauciones y Preferencias: una misma serie, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y Cortes: serán expresados en UFs y emitidos en cortes mínimos de 500,00 UFs (quinientas UFs);
+c) Expresión: serán expresados en UFs;
 
 d) Forma de Emisión: la indicada en el artículo 8°;
 
@@ -84,7 +84,7 @@ a) Emisor: el Fisco a través de la Tesorería;
 
 b) Series, Cauciones y Preferencias: una misma serie, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y Cortes: serán expresados en UFs y emitidos en cortes mínimos de 500,00 UFs (quinientas UFs);
+c) Expresión: serán expresados en UFs;
 
 d) Forma de Emisión: la indicada en el artículo 8°;
 
@@ -136,7 +136,7 @@ a) Emisor: el Fisco a través de la Tesorería;
 
 b) Series, Cauciones y Preferencias: una misma serie, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y Cortes: serán expresados en UFs y emitidos en cortes mínimos de 500,00 UFs (quinientas UFs);
+c) Expresión: serán expresados en UFs;
 
 d) Forma de Emisión: la indicada en el artículo 8°;
 
@@ -188,7 +188,7 @@ a) Emisor: el Fisco a través de la Tesorería;
 
 b) Series, Cauciones y Preferencias: una misma serie, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y Cortes: serán expresados en UFs y emitidos en cortes mínimos de 500,00 UFs (quinientas UFs);
+c) Expresión: serán expresados en UFs;
 
 d) Forma de Emisión: la indicada en el artículo 8°;
 
@@ -240,7 +240,7 @@ a) Emisor: el Fisco a través de la Tesorería;
 
 b) Series, Cauciones y Preferencias: una misma serie, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y Cortes: serán expresados y pagaderos en pesos y serán emitidos en cortes mínimos de $5.000.000 (cinco millones de pesos);
+c) Expresión: serán expresados y pagaderos en pesos;
 
 d) Forma de Emisión: la indicada en el artículo 8°;
 

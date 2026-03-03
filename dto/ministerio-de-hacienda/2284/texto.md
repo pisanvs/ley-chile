@@ -122,11 +122,11 @@ a) Emisor: El Fisco a través de la Tesorería General de la República;
 
 b) Series, Cauciones y Preferencias: Una misma serie para cada una de las Letras 2021 y Letras 2022, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y Cortes:
+c) Expresión:
 
-- Las Letras denominadas en Pesos serán expresadas y pagaderas en Pesos y serán emitidas en cortes mínimos de $5.000.000 (cinco millones de Pesos);
+- Las Letras denominadas en Pesos serán expresadas y pagaderas en Pesos;
 
-- Las Letras denominadas en UF serán expresadas en UFs y emitidas en cortes mínimos de 500,00 UFs (quinientas UFs);
+- Las Letras denominadas en UF serán expresadas en UFs;
 
 d) Forma de Emisión: La indicada en el artículo 17 del presente decreto;
 
@@ -206,11 +206,11 @@ a) Emisor: El Fisco a través de la Tesorería General de la República;
 
 b) Series, Cauciones y Preferencias: Una misma serie para cada uno de los Bonos DS 2.284, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y Cortes:
+c) Expresión:
 
-- Los Bonos BTP serán expresados y pagaderos en Pesos y serán emitidos en cortes mínimos de $5.000.000 (cinco millones de Pesos);
+- Los Bonos BTP serán expresados y pagaderos en Pesos;
 
-- Los Bonos BTU serán expresados en UFs y emitidos en cortes mínimos de 500,00 UFs (quinientas UFs);
+- Los Bonos BTU serán expresados en UFs;
 
 d) Forma de Emisión: La indicada en el artículo 17º del presente decreto;
 

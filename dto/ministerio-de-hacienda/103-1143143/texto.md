@@ -84,11 +84,11 @@ a) Emisor: El Fisco a través de la Tesorería General de la República;
 
 b) Series, Cauciones y Preferencias: Una misma serie para cada uno de los Bonos 2020, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y Cortes:
+c) Expresión:
 
-- Los Bonos BTP-2025 y BTP-2039 serán expresados y pagaderos en Pesos y serán emitidos en cortes mínimos de $5.000.000 (cinco millones de Pesos);
+- Los Bonos BTP-2025 y BTP-2039 serán expresados y pagaderos en Pesos;
 
-- Los Bonos BTU-2025 y BTU-2039 serán expresados en UFs y emitidos en cortes mínimos de 500,00 UFs (quinientas UFs);
+- Los Bonos BTU-2025 y BTU-2039 serán expresados en UFs;
 
 d) Forma de Emisión: La indicada en el artículo 9º del presente decreto;
 

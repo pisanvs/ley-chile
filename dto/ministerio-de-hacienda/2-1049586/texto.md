@@ -42,7 +42,7 @@ a) Emisor: el Fisco a través de la Tesorería;
 
 b) Series, cauciones y preferencias: una misma serie, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y cortes: serán expresados y pagaderos en pesos y serán emitidos en cortes mínimos de $5.000.000 (cinco millones de pesos);
+c) Expresión: serán expresados y pagaderos en pesos;
 
 d) Forma de emisión: la indicada en el artículo 10;
 

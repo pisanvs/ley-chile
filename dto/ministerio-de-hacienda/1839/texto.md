@@ -36,11 +36,11 @@ a) Emisor: el Fisco a través de la Tesorería;
 
 b) Series, Cauciones y Preferencias: una misma serie, sin cauciones ni preferencias de ninguna clase;
 
-c) Expresión y Cortes:
+c) Expresión:
 
-- Los Bonos BTP-10 y Bonos BTP-20 serán expresados y pagaderos en pesos y serán emitidos en cortes mínimos de $5.000.000 (cinco millones de pesos).
+- Los Bonos BTP-10 y Bonos BTP-20 serán expresados y pagaderos en pesos.
 
-- Los Bonos BTU-5, Bonos BTU-7, Bonos BTU-10, Bonos BTU-20 y Bonos BTU-30 serán expresados en UFs y emitidos en cortes mínimos de 500,00 UFs (quinientas UFs);
+- Los Bonos BTU-5, Bonos BTU-7, Bonos BTU-10, Bonos BTU-20 y Bonos BTU-30 serán expresados en UFs;
 
 d) Forma de Emisión: la indicada en el artículo 4º;
 
