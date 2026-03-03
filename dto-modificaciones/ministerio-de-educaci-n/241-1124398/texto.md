@@ -52,11 +52,17 @@ h) Agrégase un nuevo literal g) del siguiente tenor: "g) Los establecimientos e
 
 i) Reemplázase en el tercer inciso, la frase "las letras b) a f)"; por la frase: "las letras e) y f).".
 
-j) Agrégase un nuevo inciso final, del siguiente tenor: "Lo dispuesto en el presente artículo no será exigible a aquellos establecimientos de educación parvularia durante los periodos en que no presten la atención integral a la que alude el artículo 1 de la ley Nº 20.832.".
+j) Agrégase un inciso quinto, nuevo, pasando el actual inciso quinto a ser sexto y así sucesivamente, del siguiente tenor:
+
+"Sin perjuicio de lo señalado en el literal d) de este artículo, las escuelas de lenguaje podrán contar, en el nivel medio mayor, con un técnico o técnica en educación parvularia hasta 15 niños o niñas.
+
+k) Agrégase un nuevo inciso final, del siguiente tenor: "Lo dispuesto en el presente artículo no será exigible a aquellos establecimientos de educación parvularia durante los periodos en que no presten la atención integral a la que alude el artículo 1 de la ley Nº 20.832.".
 
 4) Reemplázase el artículo 11 actual, por uno nuevo, del siguiente tenor: "El personal que se desempeñe en establecimientos educacionales que impartan educación parvularia cumplirá con la idoneidad exigida por la ley, cuando reúna los siguientes requisitos:
 
 a) Director o Directora: Contar con un título profesional de Educador o Educadora de Párvulos otorgado por una Escuela Normal, Universidad o Instituto Profesional de Educación Superior estatal o reconocido oficialmente por el Estado.
+
+Si el establecimiento corresponde a una escuela de lenguaje, el director o directora podrá contar con un título profesional de educación, otorgado por una Escuela Normal, Universidad o Instituto Profesional de Educación Superior estatal o reconocido oficialmente por el Estado.
 
 b) Educador o Educadora de Párvulos: Contar con un título profesional de Educador o Educadora de Párvulos otorgado por una Escuela Normal, Universidad o Instituto Profesional de Educación Superior estatal o reconocido por el Estado o encontrarse habilitado o autorizado para ejercer la función docente de conformidad con la normativa vigente.
 
@@ -76,9 +82,9 @@ transitorio: El presente decreto entrará en vigencia una vez que se publique en
 
 #### Artículo segundo
 
-transitorio: Las modificaciones introducidas mediante el número 3) letras f) y g), del artículo único del presente decreto, serán exigibles a partir del 1 de enero del año 2026.
+transitorio: Las modificaciones introducidas mediante los literales d), f) y g) del numeral 3) del artículo único del presente decreto, serán exigibles a partir del 1 de enero del año 2028.
 
-Por otra parte, las modificaciones introducidas por el número 3) letras c) y d) del artículo único del presente decreto, serán exigibles a partir del 1 de enero del año 2027.
+Por otra parte, las modificaciones introducidas por el literal c) del numeral 3) del artículo único del presente decreto, serán exigibles a partir del 1 de enero del año 2027.
 
 #### Artículo tercero
 
