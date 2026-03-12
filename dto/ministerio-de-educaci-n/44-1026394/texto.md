@@ -146,7 +146,7 @@ g) El plazo de exigibilidad de las obligaciones.
 
 7. Aprobar en tiempo y forma el programa de formación del que participen, sin perjuicio de lo señalado en la letra b) del artículo 7º del presente decreto.
 
-8. Suscribir un pagaré a nombre del Ministerio de Educación, firmado ante Notario Público, el cual se extenderá de acuerdo a las instrucciones que se establezcan en las bases respectivas y que, en todo caso, deberá incorporar una cláusula en virtud de la cual se faculte al Ministerio para exigir el cobro inmediato del monto total del pagaré, como si fuese de plazo vencido, en caso de incumplimiento por parte del becario de una o más de las obligaciones convenidas.
+8. Conferir un mandato por escritura pública o mediante firma electrónica avanzada a la directora del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, para que suscriba en su representación un pagaré a nombre del Ministerio de Educación, ante Notario Público. El pagaré se extenderá de acuerdo a las instrucciones que se establezcan en las bases respectivas y que, en todo caso, deberá incorporar una cláusula en virtud de la cual se faculte al Ministerio para exigir el cobro inmediato del monto total del pagaré, como si fuese de plazo vencido, en caso de incumplimiento por parte del becario de una o más de las obligaciones convenidas.
 
 9. Acreditar la obtención del grado académico, certificación u otro equivalente, según corresponda, una vez finalizada la beca y de acuerdo a los plazos y condiciones señalados en los respectivos convenios de becas, en que conste la finalización del programa formativo.
 
