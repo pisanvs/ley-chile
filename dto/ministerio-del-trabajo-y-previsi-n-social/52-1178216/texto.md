@@ -70,7 +70,7 @@ La solicitud del beneficio deberá contener el día, mes y año de su presentaci
 
 La solicitud que cumpla con los requisitos establecidos en los artículos precedentes será ingresada a una plataforma web provista por el Instituto de Previsión Social para tal efecto, con indicación de la fecha en que efectivamente se requirió el beneficio correspondiente ante ese Instituto o entidad en convenio, la que se tendrá como data de presentación de la solicitud para los efectos de lo dispuesto en la ley N° 21.419.
 
-Los antecedentes contenidos en la solicitud ingresada de acuerdo al inciso precedente serán verificados en el Sistema de Información de Datos Previsionales contemplado en el artículo 56 de la ley N° 20.255 y regulado en el decreto supremo N° 23, de 2008, del Ministerio del Trabajo y Previsión Social, en adelante indistintamente "Sistema de Información de Datos Previsionales", en los términos establecidos en el Párrafo 3° del presente Título, para los efectos de acreditar la concurrencia de los requisitos establecidos en el artículo 10 de la ley N° 21.419 y tramitar la concesión del beneficio según lo establecido en los artículos 9° y siguientes del presente reglamento.
+Los antecedentes contenidos en la solicitud ingresada de acuerdo al inciso precedente serán verificados en el Sistema de Información de Datos Previsionales contemplado en el artículo 56 de la ley N° 20.255 y su reglamentación, en adelante indistintamente "Sistema de Información de Datos Previsionales", en los términos establecidos en el Párrafo 3° del presente Título, para los efectos de acreditar la concurrencia de los requisitos establecidos en el artículo 10 de la ley N° 21.419 y tramitar la concesión del beneficio según lo establecido en los artículos 9° y siguientes del presente reglamento.
 
 El Instituto de Previsión Social o entidad en convenio otorgará al peticionario un comprobante que dé cuenta de la presentación de la solicitud.
 
@@ -122,7 +122,7 @@ De la forma en que se acreditará el cumplimiento de los requisitos para acceder
 
 #### Artículo 13
 
-El Instituto de Previsión Social consultará el Sistema de Información de Datos Previsionales para efectos de verificar el cumplimiento de los requisitos establecidos en el artículo 10 de la ley N° 21.419, respecto de los solicitantes del beneficio de Pensión Garantizada Universal. Lo anterior es sin perjuicio de lo dispuesto en el inciso segundo del artículo 10 de este reglamento.
+El Instituto de Previsión Social consultará el Sistema de Información de Datos Previsionales, a que se refieren el artículo 56 de la ley N°20.255 y su reglamentación, para efectos de verificar el cumplimiento de los requisitos establecidos en el artículo 10 de la ley N° 21.419, respecto de los solicitantes del beneficio de Pensión Garantizada Universal. Lo anterior es sin perjuicio de lo dispuesto en el inciso segundo del artículo 10 de este reglamento.
 
 De conformidad con el citado artículo 10 de la ley N° 21.419, los requisitos para acceder al beneficio de Pensión Garantizada Universal son los siguientes:
 

@@ -54,7 +54,7 @@ La solicitud de beneficios deberá contener, a lo menos, el día, mes y año de 
 
 #### Artículo 6º
 
-La solicitud que cumpla con los requisitos establecidos en los artículos precedentes será ingresada al Sistema de Información de Datos Previsionales a que se refieren los artículos 13 y siguientes de este reglamento, con indicación de la fecha en que efectivamente se requirió el beneficio correspondiente ante el Instituto de Previsión Social u otro organismo autorizado, la que se tendrá como data de presentación de la solicitud para los efectos de lo dispuesto en la ley Nº 20.255.
+La solicitud que cumpla con los requisitos establecidos en los artículos precedentes será ingresada al Sistema de Información de Datos Previsionales a que se refieren el artículo 56 de la ley N° 20.255 y su reglamentación, con indicación de la fecha en que efectivamente se requirió el beneficio correspondiente ante el Instituto de Previsión Social u otro organismo autorizado, la que se tendrá como data de presentación de la solicitud para los efectos de lo dispuesto en la ley Nº 20.255.
 
 El Instituto de Previsión Social o el organismo autorizado, según el caso, otorgará al peticionario un comprobante que dé cuenta de la presentación de la solicitud.
 
@@ -62,7 +62,7 @@ Los beneficios del Sistema de Pensiones Solidarias se devengarán desde el prime
 
 #### Artículo 7º
 
-Las actuaciones a que dé lugar la tramitación de los beneficios que regula el presente reglamento y la identificación de los participantes que intervengan en ellas, deberán constar en un expediente a cargo del Instituto de Previsión Social. El referido expediente podrá ser electrónico.
+Las actuaciones a que dé lugar la tramitación de los beneficios que regula el presente reglamento y la identificación de los participantes que intervengan en ellas, deberán constar en un expediente a cargo del Instituto de Previsión Social. El referido expediente será electrónico, conforme con la reglamentación del artículo 56 de la ley N° 20.255.
 
 #### Artículo 8º
 
@@ -74,7 +74,7 @@ De la Tramitación de la Concesión de Beneficios
 
 #### Artículo 9º
 
-Una vez ingresada a trámite una solicitud, el Instituto de Previsión Social procederá a verificar el cumplimiento de los requisitos legales, por parte del solicitante, para acceder a los beneficios del Sistema de Pensiones Solidarias, con todos los antecedentes de que disponga el Sistema de Información de Datos Previsionales en los términos establecidos en el Párrafo 3º del presente Título.
+Una vez ingresada a trámite una solicitud, el Instituto de Previsión Social procederá a verificar el cumplimiento de los requisitos legales, por parte del solicitante, para acceder a los beneficios del Sistema de Pensiones Solidarias, con todos los antecedentes de que disponga el Sistema de Información de Datos Previsionales en los términos a que se refieren el artículo 56 de la ley N°20.255 y su reglamentación.
 
 Si, verificada la información en el Sistema de Información de Datos Previsionales, el Instituto de Previsión Social constata que el solicitante cumple con los requisitos para acceder al Sistema de Pensiones Solidarias, procederá a emitir la resolución que concede el respectivo beneficio. En caso que, mediante la misma información, el Instituto de Previsión Social determine que el solicitante no cumple dichos requisitos, procederá a rechazar la respectiva solicitud mediante resolución fundada.
 
@@ -84,13 +84,11 @@ El monto del respectivo beneficio se calculará por el Instituto de Previsión S
 
 #### Artículo 10
 
-Cuando el Sistema de Información de Datos Previsionales no contenga la información necesaria para acreditar el cumplimiento de los requisitos correspondientes o se presentaren discrepancias con el solicitante respecto de la información contenida en dicho sistema, el Instituto de Previsión Social procederá a arbitrar las medidas conducentes a obtener, aclarar o actualizar la información con los organismos competentes, circunstancia que será notificada al solicitante.
-
-Con todo, el Instituto de Previsión Social podrá otorgar los beneficios correspondientes si el solicitante acredita, mediante documento auténtico, conforme a las instrucciones que imparta al efecto la Superintendencia de Pensiones, que cumple el o los respectivos requisitos.
+Cuando el Sistema de Información de Datos Previsionales no contenga la información necesaria para acreditar el cumplimiento de los requisitos correspondientes o se presentaren discrepancias con el solicitante respecto de la información contenida en dicho sistema, el Instituto de Previsión Social procederá a arbitrar las medidas conducentes a obtener, aclarar o actualizar la información con los organismos competentes, circunstancia que será notificada al solicitante, para lo cual se estará a lo señalado en el reglamento dictado por el Ministerio del Trabajo y Previsión Social en virtud de lo dispuesto en el artículo 56 de la ley N°20.255.
 
 #### Artículo 11
 
-Las resoluciones que otorguen o rechacen una solicitud se notificarán de conformidad a cualesquiera de las formas que establece la ley Nº 19.880 y serán registradas en el Sistema de Información de Datos Previsionales.
+Las resoluciones que otorguen o rechacen una solicitud se notificarán de conformidad a cualesquiera de las formas que establece la ley Nº 19.880 y serán registradas en el Sistema de Información de Datos Previsionales, a que se refieren el artículo 56 de la ley N°20.255 y su reglamentación.
 
 Adicionalmente, las notificaciones a que se refiere el presente reglamento podrán efectuarse por correo electrónico o algún otro medio, cuando así lo haya autorizado expresamente el solicitante.
 
@@ -100,29 +98,15 @@ El Instituto de Previsión Social informará al solicitante o a quien lo represe
 
 ### Párrafo 3º
 
-Del Sistema de Información de Datos Previsionales y de la Forma en que se Acreditará el Cumplimiento de los Requisitos para Acceder al Sistema de Pensiones Solidarias
+De la Forma en que se Acreditará el Cumplimiento de los Requisitos para Acceder al Sistema de Pensiones Solidarias.
 
 #### Artículo 13
 
-Corresponderá al Instituto de Previsión Social el requerimiento, administración y manejo de datos personales y de la información que entreguen organismos públicos y privados, en virtud de lo dispuesto en el artículo 56 de la ley Nº 20.255, para el establecimiento de un Sistema de Información de Datos Previsionales. La entrega de dicha información se hará en los plazos determinados por la Superintendencia de Pensiones.
-
-El Instituto de Previsión Social establecerá los procedimientos de registro, archivo, respaldo, seguridad, transmisión y acceso a los datos, y documentación física si correspondiera, que conformen el sistema a que se refiere el presente Párrafo, y cualquier otro que sea necesario para el adecuado funcionamiento del mismo, de conformidad a las normas generales que imparta para este efecto la Superintendencia de Pensiones.
+Suprimido.
 
 #### Artículo 14
 
-Para el funcionamiento del Sistema de Información de Datos Previsionales, en la concesión de los beneficios a que se refiere el presente reglamento, el Instituto de Previsión Social requerirá, a lo menos:
-
-a) Al Servicio de Registro Civil e Identificación:
-
-La información referente a fechas de nacimiento, roles únicos nacionales y nacionalidades de los eventuales beneficiarios del Sistema de Pensiones Solidarias;
-
-b) Al Ministerio de Planificación: La información disponible en el "Registro de Información Social", a que se refiere el decreto supremo Nº 291, de 2006, de dicho Ministerio;
-
-c) A la Caja de Previsión de la Defensa Nacional y a la Dirección de Previsión de Carabineros de Chile: La identificación de sus pensionados, y
-
-d) Al Ministerio del Interior: La información disponible respecto de los beneficiarios de pensiones de gracia, conforme a lo dispuesto en la ley Nº 18.056.
-
-Con todo, el Instituto de Previsión Social estará facultado para exigir de otros organismos públicos y privados, los datos personales y la información necesaria para el cumplimiento de sus funciones y realizar el tratamiento de los mencionados datos, especialmente para el establecimiento del Sistema de Información de Datos Previsionales, de conformidad a lo dispuesto en el artículo 56 de la ley Nº 20.255.
+En la concesión de los beneficios a que se refiere el presente reglamento, el Instituto de Previsión Social recurrirá al Sistema de Información de Datos Previsionales, a que se refieren el artículo 56 de la ley N°20.255 y su reglamentación.
 
 #### Artículo 15
 
@@ -136,35 +120,31 @@ a) Al Ministerio de Justicia: Los datos necesarios para precisar si un peticiona
 
 b) Al Ministerio de Relaciones Exteriores: Los datos que tenga disponible para determinar la circunstancia de haber permanecido el peticionario en el extranjero, por motivo del cumplimiento de misiones diplomáticas, representaciones consulares y demás funciones oficiales de Chile y el tiempo en que permaneció por esa causa en el extranjero.
 
-La información a que se refieren los incisos precedentes será incorporada al Sistema de Información de Datos Previsionales.
+La información a que se refieren los incisos precedentes será incorporada al Sistema de Información de Datos Previsionales, a que se refieren el artículo 56 de la ley N°20.255 y su reglamentación.
 
-> **Nota.** El Nº2 del Artículo primero del Decreto 14, Trabajo y Previsión social, publicado el 03.06.2010, modifica la presente norma en el sentido de establecer que su inciso 1º comenzará a regir una vez que se encuentre operativo el registro de datos que para tal efecto administre la Policía de Investigaciones de Chile, sustituyendo la redacción del artículo séptimo transitorio del presente decreto, que establecía vigencia diferida al 1 de Julio del 2010.
+> **Nota.** El Nº2 del artículo primero del Decreto 14, Trabajo y Previsión Social, publicado el 03.06.2010, modifica la presente norma en el sentido de establecer que su inciso 1º comenzará a regir una vez que se encuentre operativo el registro de datos que para tal efecto administre la Policía de Investigaciones de Chile, sustituyendo la redacción del artículo séptimo transitorio del presente decreto, que establecía vigencia diferida al 1 de Julio del 2010.
 
 > **Nota.** NOTA 1 El literal a) del N° 2 del artículo primero del Decreto 59, Trabajo, publicado el 09.02.2026, dispone reemplazar el inciso primero del presente artículo 15. No obstante, conforme a lo establecido en el numeral 2 del artículo primero del Decreto 14, Trabajo, publicado el 03.06.2010, la entrada en vigor de dicho inciso fue prorrogada desde el 1° de julio de 2010 hasta que se encuentre operativo el registro de datos administrado por la Policía de Investigaciones de Chile, quedando de esta manera supeditada su vigencia a dicha puesta en funcionamiento.
 
 #### Artículo 16
 
-El Instituto de Previsión Social requerirá, cuando corresponda, a las Administradoras de Fondos de Pensiones, Compañías de Seguros, Mutualidades de Empleadores a que se refiere la ley Nº 16.744 y al Instituto de Seguridad Laboral, según el caso, la información necesaria para determinar el monto de los eventuales beneficios, la que será incorporada al Sistema de Información de Datos Previsionales.
+Suprimido.
 
 #### Artículo 17
 
-El Instituto de Previsión Social deberá considerar para el establecimiento del Sistema de Información de Datos Previsionales, la información de que disponga respecto de los eventuales beneficiarios en cuanto sean imponentes o pensionados de alguno de los regímenes previsionales de las Ex Cajas de Previsión y del Ex Servicio de Seguro Social, o reciban alguna pensión de las señaladas en el artículo 36 de la ley Nº 20.255, con excepción de las pensiones establecidas en la ley Nº 18.056 respecto de las cuales solicitará la información correspondiente al Ministerio del Interior.
+Suprimido.
 
 #### Artículo 18
 
-En el caso de ser necesaria la acreditación de la calidad de inválido respecto de un beneficiario, una vez verificado el cumplimiento de los requisitos establecidos en el inciso primero del artículo 16 de la ley Nº 20.255, el Instituto de Previsión Social requerirá el respectivo dictamen a las instancias competentes para calificar dicha calidad, con el objeto de incorporar en el Sistema de Información de Datos Previsionales la respectiva información.
+En el caso de ser necesaria la acreditación de la calidad de inválido respecto de un beneficiario, una vez verificado el cumplimiento de los requisitos establecidos en el inciso primero del artículo 16 de la ley Nº 20.255, el Instituto de Previsión Social requerirá el respectivo dictamen a las instancias competentes para calificar dicha calidad, con el objeto de incorporar en el Sistema de Información de Datos Previsionales, a que se refieren el artículo 56 de la ley N°20.255 y su reglamentación, la respectiva información.
 
 #### Artículo 19
 
-No obstante lo dispuesto en los artículos precedentes, el Instituto de Previsión Social podrá requerir toda otra información que resulte necesaria para acreditar el cumplimiento de los requisitos para acceder a los beneficios del Sistema Solidario, a las mismas entidades señaladas en el presente reglamento o a otros organismos, en los términos establecidos en la ley Nº 20.255.
-
-Asimismo, el Instituto de Previsión Social podrá requerir del beneficiario aquellos antecedentes que juzgue necesarios para acreditar de manera satisfactoria el cumplimiento de los correspondientes requisitos, cuando la información disponible en el Sistema de Información de Datos Previsionales no le permita ejercer las atribuciones a que se refiere el inciso segundo del artículo 9º del presente reglamento.
-
-La información a que se refieren los incisos precedentes será incorporada al Sistema de Información de Datos Previsionales.
+Suprimido.
 
 #### Artículo 20
 
-Una vez concedido un beneficio, el Instituto de Previsión Social deberá registrar en el Sistema de Información de Datos Previsionales, la historia del respectivo beneficiario durante su permanencia en el Sistema de Pensiones Solidarias, mediante los procedimientos que se establezcan de conformidad a lo previsto en el inciso segundo del artículo 13 del presente reglamento.
+Suprimido.
 
 ### Párrafo 4º
 
@@ -196,25 +176,7 @@ Cuando se haya verificado la ocurrencia de uno o más hechos que constituyan cau
 
 #### Artículo 24
 
-Para efectos de lo dispuesto en el artículo precedente, el Instituto de Previsión Social recurrirá a la información disponible en el Sistema de Información de Datos Previsionales, debiendo requerir a los organismos respectivos, especialmente, lo siguiente:
-
-a) Al Servicio de Registro Civil e Identificación:
-
-La información referente a fechas de muerte real o presunta de los beneficiarios del Sistema de Pensiones Solidarias;
-
-b) Al Ministerio de Planificación: La información disponible en el "Registro de Información Social", a que se refiere el decreto supremo Nº 291, de 2006, de dicho Ministerio;
-
-c) A la Policía de Investigaciones de Chile: La información necesaria para acreditar el cumplimiento del requisito de permanencia dentro del territorio del país para mantener el beneficio correspondiente;
-
-d) A los organismos públicos o privados que paguen pensiones de cualquier tipo: La información de que dispongan sobre pensiones percibidas por beneficiarios del Sistema de Pensiones Solidarias;
-
-e) A la Caja de Previsión de la Defensa Nacional y a la Dirección de Previsión de Carabineros de Chile: La identificación de sus pensionados, y
-
-f) Al Ministerio del Interior: La información disponible respecto de los beneficiarios de pensiones de gracia, conforme a lo dispuesto en la ley Nº 18.056.
-
-Adicionalmente, el Instituto de Previsión Social deberá considerar para efectos de la aplicación del presente título, la información de que disponga respecto de los beneficiarios del Sistema de Pensiones Solidarias, de conformidad a lo dispuesto en el artículo 17 del presente reglamento, y la información de que disponga referida al cobro de beneficios y requerimientos efectuados a los beneficiarios en virtud de lo dispuesto en el artículo 28 de la ley Nº 20.255.
-
-No obstante lo dispuesto en los incisos precedentes, el Instituto de Previsión Social podrá requerir otra información que resulte necesaria para acreditar el cumplimiento de los requisitos para la mantención de los beneficios del Sistema de Pensiones Solidarias, a las mismas entidades señaladas en el presente artículo o a otros organismos, en los términos establecidos en la ley Nº 20.255. Asimismo, el Instituto podrá requerir del beneficiario aquellos antecedentes que juzgue necesarios para acreditar el cumplimiento de los requisitos necesarios para la mantención del respectivo beneficio. Dicha información será incorporada al Sistema de Información de Datos Previsionales.
+Para efectos de lo dispuesto en el artículo precedente y en el artículo 28 de la ley N°20.255, el Instituto de Previsión Social recurrirá a la información disponible en el Sistema de Información de Datos Previsionales, a que se refiere el artículo 56 de la ley N°20.255 y su reglamentación.
 
 #### Artículo 25
 
@@ -226,7 +188,7 @@ El Instituto de Previsión Social y la institución pagadora del beneficio, cuan
 
 #### Artículo 27
 
-En el caso a que se refiere el inciso final del artículo 27 de la ley Nº 20.255, el Instituto de Previsión Social podrá aceptar a trámite la nueva solicitud antes del cumplimiento del plazo de doscientos setenta días a que alude dicha disposición. No obstante, la tramitación de la solicitud no podrá comenzar sino hasta que se acredite el cumplimiento del referido plazo, mediante la consulta al Sistema de Información de Datos Previsionales. Dicha solicitud se entenderá presentada el día en que este hecho se verifique para todos los efectos legales.
+En el caso a que se refiere el inciso final del artículo 27 de la ley Nº 20.255, el Instituto de Previsión Social podrá aceptar a trámite la nueva solicitud antes del cumplimiento del plazo de doscientos setenta días a que alude dicha disposición. No obstante, la tramitación de la solicitud no podrá comenzar sino hasta que se acredite el cumplimiento del referido plazo, mediante la consulta al Sistema de Información de Datos Previsionales, a que se refieren el artículo 56 de la ley N°20.255 y su reglamentación. Dicha solicitud se entenderá presentada el día en que este hecho se verifique para todos los efectos legales.
 
 #### Artículo 28
 
@@ -246,7 +208,7 @@ La revisión de los actos administrativos a que se refiere el presente reglament
 
 En el caso a que se refiere el inciso segundo del artículo 16 de la ley Nº 20.255, una vez determinado por la respectiva Comisión Médica que la causa del principal menoscabo que origine la invalidez de un extranjero, proviene de un accidente acaecido fuera del territorio de la República de Chile, el Instituto de Previsión Social deberá solicitar al eventual beneficiario los antecedentes para acreditar la fecha de su ocurrencia. Una vez acreditada dicha fecha, el Instituto deberá solicitar al Ministerio del Interior que informe si el eventual beneficiario tenía la calidad de residente en Chile, de conformidad a lo dispuesto en el decreto ley Nº 1.094, de 1975, al verificarse dicho evento.
 
-La información acreditada e informada, de conformidad a lo dispuesto en el inciso precedente, será ingresada al Sistema de Información de Datos Previsionales.
+La información acreditada e informada, de conformidad a lo dispuesto en el inciso precedente, será ingresada al Sistema de Información de Datos Previsionales, a que se refieren el artículo 56 de la ley N°20.255 y su reglamentación.
 
 #### Artículo 31
 
@@ -272,7 +234,7 @@ La Subsecretaría de Previsión Social con la visación del Ministerio de Hacien
 
 #### Artículo 34
 
-El Instituto de Previsión Social para determinar el puntaje de focalización previsional, podrá utilizar la información disponible en el Sistema de Información de Datos Previsionales; en el Registro de Información Social a que se refiere el Decreto Supremo N°160, de 2007, del Ministerio de Planificación, y la información del Registro Social de Hogares regulado en el decreto supremo N° 22, de 2015, del Ministerio de Desarrollo Social y Familia; así como la información que le proporcionen los organismos públicos, tales como el Servicio de Impuestos Internos según lo establecido en el artículo 56 de la ley N° 20.255, y los antecedentes que le entreguen los organismos privados a que se refiere la citada norma legal, entre otros. La Superintendencia de Pensiones, mediante norma de carácter general, establecerá la forma de utilización de la referida información en el Instrumento Técnico de Focalización.
+El Instituto de Previsión Social para determinar el puntaje de focalización previsional, podrá utilizar la información disponible en el Sistema de Información de Datos Previsionales, a que se refieren el artículo 56 de la ley N°20.255 y su reglamentación; en el Registro de Información Social a que se refiere el Decreto Supremo N°160, de 2007, del Ministerio de Planificación, y la información del Registro Social de Hogares regulado en el decreto supremo N° 22, de 2015, del Ministerio de Desarrollo Social y Familia; así como la información que le proporcionen los organismos públicos, tales como el Servicio de Impuestos Internos según lo establecido en el artículo 56 de la ley N° 20.255, y los antecedentes que le entreguen los organismos privados a que se refiere la citada norma legal, entre otros. La Superintendencia de Pensiones, mediante norma de carácter general, establecerá la forma de utilización de la referida información en el Instrumento Técnico de Focalización.
 
 El Instituto de Previsión Social verificará la composición del grupo familiar del solicitante de los beneficios del Sistema de Pensiones Solidarias con la información señalada en el inciso precedente. No obstante lo anterior, el eventual beneficiario podrá solicitar ante el referido Instituto que sean o no consideradas en su grupo familiar las personas señaladas en los incisos segundo y tercero del artículo 4° de la ley 20.255, según corresponda, conforme a la norma de carácter general que dicte al efecto la Superintendencia de Pensiones.
 
