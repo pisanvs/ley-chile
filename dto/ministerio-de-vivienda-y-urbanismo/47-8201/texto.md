@@ -8122,8 +8122,6 @@ Tratándose de inmuebles de conservación histórica o emplazados en zonas con t
 
 Si dicha resolución fuere favorable, el propietario deberá solicitar la autorización del Consejo de Monumentos Nacionales o de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, según corresponda.
 
-Tratándose de viviendas de interés público que sean resultado de la aplicación de las condiciones, exigencias, beneficios o incentivos referidos en los artículos 27, 34, 45, 183 y 184 de la Ley General de Urbanismo y Construcciones, tal circunstancia deberá declararse en la respectiva solicitud, identificando tanto la cantidad de dichas viviendas como su emplazamiento y metros cuadrados construidos, de manera tal que puedan ser singularizadas en el respectivo permiso.
-
 #### Artículo 5
 
 1.5. Para solicitar al Director de Obras Municipales la aprobación de anteproyectos de obras de edificación, deberán presentarse los siguientes antecedentes:
@@ -8202,35 +8200,7 @@ e) Si el proyecto consulta,
 
 en todo o parte,
 
-edificios de uso público
-
-o viviendas de interés
-
-público resultantes de
-
-la aplicación de las
-
-condiciones, exigencias,
-
-beneficios o incentivos
-
-referidos en los artículos
-
-27, 34, 45, 183 y 184 de
-
-la Ley General de Urbanismo
-
-y Construcciones, o en
-
-otras leyes. En este último
-
-caso, deberá indicarse la
-
-cantidad de viviendas, así
-
-como los metros cuadrados
-
-construidos y su emplazamiento.
+edificios de uso público.
 
 f) Si cuenta con informe
 
@@ -8321,12 +8291,6 @@ con relación al nivel de
 suelo natural. En este
 
 plano se indicarán, además,
-
-las viviendas de interés
-
-público que se contemplen
-
-cuando corresponda, y
 
 los accesos peatonales y
 
@@ -8444,8 +8408,6 @@ Se incorporará además una Memoria de Accesibilidad del proyecto suscrita por e
 
 16. Comprobante de ingreso del Informe de Mitigación de Impacto Vial o del certificado que acredite que el proyecto no requiere de dicho informe, en ambos casos emitido por el sistema electrónico.
 
-17. Estudio de impacto urbano aprobado por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo, en caso de corresponder conforme a lo dispuesto en el artículo 183 de la Ley General de Urbanismo y Construcciones y el artículo 2.1.7. bis de esta Ordenanza.
-
 Los niveles y superficies declaradas serán responsabilidad del profesional competente suscriptor del proyecto.
 
 En los dibujos de las plantas, cortes y elevaciones se empleará la escala 1:50. Si la planta del edificio tiene una longitud mayor de 50 m dicha escala podrá ser 1:100. En caso justificado se admitirán planos a otra escala.
@@ -8457,6 +8419,10 @@ Las solicitudes de permiso de edificación de las construcciones ubicadas fuera 
 Se entienden incluidos en el permiso de edificación todas las autorizaciones o los permisos necesarios para la ejecución de una obra, tales como permisos de demolición, instalación de faenas, instalación de grúas y similares, cuando se hayan adjuntado los antecedentes respectivos.
 
 En los casos que sea obligatorio la elaboración de un Informe de Mitigación de Impacto Vial, será requisito para otorgar el permiso que se acompañe a la Dirección de Obras la resolución que lo apruebe o, la certificación del silencio positivo de acuerdo al artículo 64 de la ley N° 19.880, según sea el caso.
+
+Tratándose de los proyectos tipo a los que se refiere el artículo 5.1.28. de esta Ordenanza, en reemplazo de los antecedentes señalados en los numerales 4., 5., 8., 9., 10. y 11., solo será necesario presentar un plano de emplazamiento y las fotocopias de los antecedentes equivalentes a los numerales mencionados que específicamente conforman el expediente del proyecto tipo aprobado. No obstante, se deberá incluir un informe de un ingeniero civil sobre la calidad del subsuelo del predio que permita asegurar la estabilidad del proyecto tipo, incluyendo, de ser necesario, el proyecto con las obras adicionales. Los planos mencionados en el numeral 7 de este artículo podrán reemplazarse siempre que los planos del proyecto tipo o el de emplazamiento incluyan la información necesaria para acreditar el cumplimiento de las normas urbanísticas que les sean aplicables.
+
+Los derechos municipales a cancelar, sea por permisos de obra nueva o ampliación, corresponderán a los contemplados en el numeral 2 del artículo 130 de la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 5
 
@@ -8870,6 +8836,44 @@ El Revisor de Proyecto de Cálculo Estructural informará favorablemente el resp
 
 En casos en que se justifique debidamente que no existen normas técnicas aplicables a la materia, los proyectos de cálculo estructural deberán ser realizados sobre la base de normas técnicas extranjeras, cuya aplicación se adecue más al proyecto, a criterio del Revisor del Proyecto de Cálculo Estructural.
 
+#### Artículo 5
+
+1.28. El Ministerio de Vivienda y Urbanismo podrá autorizar los siguientes proyectos tipo junto con sus respectivas especificaciones técnicas:
+
+a) Proyectos tipo de edificaciones no industrializadas, destinadas a vivienda o a equipamiento de escala vecinal, que cuenten con la aprobación previa del Servicio de Vivienda y Urbanización o de la municipalidad correspondiente.
+
+b) Proyectos tipo de edificaciones industrializadas con destino vivienda, de acuerdo con los requisitos técnicos que, mediante resolución, fije el Ministerio de Vivienda y Urbanismo.
+
+La solicitud de autorización de los proyectos señalados en el literal a) deberá ser presentada ante la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo. La solicitud de autorización de los proyectos señalados en el literal b) deberá ser presentada ante el Ministerio de Vivienda y Urbanismo.
+
+A la solicitud de autorización de cualquiera de los proyectos tipo a los que refiere este artículo, se deberán presentar los siguientes antecedentes:
+
+1. Documento en que conste la aprobación previa del proyecto tipo de edificación no industrializada, otorgada por el Servicio de Vivienda y Urbanización o la municipalidad, tratándose de un proyecto que corresponda a la letra a).
+
+2. Planos de arquitectura suscritos por el arquitecto del proyecto tipo, los que deberán contener:
+
+- Plantas de todos los pisos, debidamente acotadas, señalando el o los destinos contemplados y los accesos para personas con discapacidad, cuando corresponda. Las cotas deberán ser suficientes para permitir calcular la superficie edificada de cada planta.
+
+- Cortes y elevaciones que ilustren los puntos más salientes de la edificación, sus pisos y niveles interiores, y la altura de la edificación. Los cortes incluirán las escaleras y ascensores si los hubiere, las cotas verticales principales y la altura libre bajo las vigas.
+
+- Planta de cubiertas.
+
+- Cuadro de superficies, indicando las superficies parciales necesarias según el tipo de proyecto y cálculo de carga de ocupación de acuerdo con estas superficies y los destinos contemplados en el proyecto.
+
+3. Especificaciones técnicas de las partidas contempladas en el proyecto, suscritas por el arquitecto del proyecto tipo, especialmente las que se refieran al cumplimiento de normas de habitabilidad, seguridad general y seguridad contra incendio previstos en esta Ordenanza.
+
+4. Proyecto de cálculo estructural, cuando corresponda, de acuerdo con el artículo 5.1.7. de esta Ordenanza, suscrito por un ingeniero civil o por un arquitecto.
+
+5. Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación, de acuerdo con el artículo 5.1.25. de esta Ordenanza.
+
+6. Proyectos de instalaciones interiores de agua potable y alcantarillado, y de instalaciones interiores de electricidad, gas o telecomunicaciones, cuando corresponda.
+
+7. Carpeta de Ascensores e instalaciones similares, cuando el proyecto tipo cuente con alguno de estos equipos y Estudio de Ascensores, cuando corresponda, de acuerdo con el artículo 4.1.11. de esta Ordenanza.
+
+Cuando se solicite el permiso de edificación de un proyecto tipo ante la respectiva Dirección de Obras Municipales, deberán presentarse los antecedentes requeridos por los artículos 5.1.6. y 7.2.3. de esta Ordenanza, según corresponda, pudiendo reemplazar solo los documentos equivalentes a los singularizados en el inciso anterior. Para estos casos, la solicitud de permiso será suscrita por el propietario y el constructor.
+
+Para estos efectos, se entenderá por proyectos tipo, conforme a lo dispuesto en el decreto ley N° 1.305, aquellos aprobados por los Servicios de Vivienda y Urbanización o las Municipalidades, junto con sus especificaciones técnicas, conforme a los requisitos establecidos en esta Ordenanza, los cuales una vez aprobados podrán ser construidos sin necesidad de contar con proyectos específicos de acuerdo con lo previsto en este artículo. En el caso de viviendas industrializadas, estas corresponden a una especie de proyecto tipo, y están compuestos por elementos prefabricados de forma estandarizada y modularizada, bajo una secuencia de fabricación en serie.
+
 ## Capítulo 2
 
 DE LAS INSPECCIONES Y RECEPCIONES DE OBRAS
@@ -8964,17 +8968,9 @@ Tratándose de la recepción definitiva de edificaciones que en todo o en parte 
 
 #### Artículo 5
 
-2.6. bis. Terminada una obra o parte de la misma que pueda habilitarse independientemente, en zonas decretadas afectadas por catástrofe y cuyo permiso se otorgó conforme al numeral 6 del artículo 5.1.4. de esta Ordenanza, el propietario y el profesional competente solicitarán su recepción definitiva a la Dirección de Obras Municipales. Sin perjuicio de las recepciones definitivas parciales, deberá haber, en todo caso, una recepción definitiva del total de las obras.
+2.6. bis. Terminadas las obras para las edificaciones destinadas a la recepción y almacenamiento de residuos de productos prioritarios señalados en la ley Nº 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje, y cuyo permiso se otorgó conforme al numeral 6 del artículo 5.1.4. de esta Ordenanza, el propietario y el profesional competente solicitarán su recepción definitiva a la Dirección de Obras Municipales.
 
-A la solicitud de recepción definitiva parcial o total de las obras a que se refiere el inciso anterior, se deberá adjuntar los certificados de recepción de las instalaciones de electricidad, agua potable, alcantarillado y gas, cuando corresponda, emitidos por la autoridad competente, y un informe del arquitecto proyectista, si procediere, que señale que fue construida de conformidad al permiso otorgado, incluidas sus modificaciones, y a las normas señaladas en el numeral 6 del artículo 5.1.4. de esta Ordenanza.
-
-En caso de existir modificaciones o cambios al proyecto aprobado, deberán acompañarse junto a la solicitud de recepción definitiva, los permisos que incidan en tales modificaciones o cambios. Si las modificaciones inciden en el proyecto de cálculo estructural, deberán adjuntarse, debidamente modificados, los documentos a que se refiere el artículo 5.1.7. de esta Ordenanza. Tratándose de proyectos de cálculo estructural que deben someterse a revisión conforme al artículo 5.1.25., estos documentos deberán estar visados por el Revisor de Proyecto de Cálculo Estructural, si procediere.
-
-#### Artículo 5
-
-2.6. ter. Terminadas las obras para las edificaciones destinadas a la recepción y almacenamiento de residuos de productos prioritarios señalados en la ley Nº 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje, y cuyo permiso se otorgó conforme al numeral 8 del artículo 5.1.4. de esta Ordenanza, el propietario y el profesional competente solicitarán su recepción definitiva a la Dirección de Obras Municipales.
-
-Junto a la solicitud de recepción definitiva de las obras a que se refiere el inciso anterior, se deberán acompañar los certificados de recepción de las instalaciones de agua potable y alcantarillado, electricidad, gas u otras, cuando corresponda, emitidos por la autoridad competente; además de un informe del arquitecto, si procediere, que señale que la obra fue construida de conformidad al permiso otorgado, incluidas sus modificaciones, y a las normas señaladas en el numeral 8 del artículo 5.1.4. de esta Ordenanza.
+Junto a la solicitud de recepción definitiva de las obras a que se refiere el inciso anterior, se deberán acompañar los certificados de recepción de las instalaciones de agua potable y alcantarillado, electricidad, gas u otras, cuando corresponda, emitidos por la autoridad competente; además de un informe del arquitecto, si procediere, que señale que la obra fue construida de conformidad al permiso otorgado, incluidas sus modificaciones, y a las normas señaladas en el numeral 6 del artículo 5.1.4. de esta Ordenanza.
 
 De existir modificaciones o cambios al proyecto aprobado, deberán acompañarse, junto a la solicitud de recepción definitiva, los permisos que incidan en tales modificaciones o cambios. Si las modificaciones inciden en el proyecto de cálculo estructural, deberán adjuntarse, debidamente modificados, los documentos a que se refiere el artículo 5.1.7. de esta Ordenanza. Tratándose de proyectos de cálculo estructural que deben someterse a revisión conforme al artículo 5.1.25., estos documentos deberán estar visados por el Revisor de Cálculo Estructural, si procediere.
 
@@ -11152,6 +11148,544 @@ Las viviendas referidas en el inciso precedente deberán cumplir con las condici
 
 Respecto a las viviendas a que se refiere el artículo 184 bis de la Ley General de Urbanismo y Construcciones, las escrituras públicas de compraventa mediante las cuales éstas se transfieran por primera vez deberán dejar constancia que el adquirente es beneficiario del programa habitacional del Estado que corresponda, con el objeto de verificar el cumplimiento de lo establecido en dicho artículo.
 
+## Título 7
+
+DE LAS NORMAS APLICABLES EN ZONAS DECRETADAS AFECTADAS POR CATÁSTROFE
+
+## Capítulo 1
+
+NORMAS ESPECIALES PARA LA APROBACIÓN O MODIFICACIÓN DE PLANES REGULADORES COMUNALES Y PLANES SECCIONALES Y MODIFICACIÓN DE PLANES REGULADORES INTERCOMUNALES O METROPOLITANOS
+
+#### Artículo 7
+
+1.1. En aquellos sectores que hubieren sido declaradas zonas afectadas por catástrofe mediante decreto supremo del Ministerio del Interior y Seguridad Pública, podrán aprobarse planes reguladores comunales o seccionales, o las modificaciones de los mismos, o aprobarse la modificación de planes reguladores intercomunales o metropolitanos. En tales casos, deberán aprobarse mediante decreto supremo del Ministerio de Vivienda y Urbanismo, con las normas especiales y procedimientos simplificados establecidos en este Capítulo, de conformidad a lo dispuesto en el artículo 27 del decreto supremo N° 104, de 1977, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado del Título I de la ley N° 16.282, sobre disposiciones permanentes para casos de sismos o catástrofes y sus modificaciones.
+
+El plazo máximo para ingresar al Ministerio de Vivienda y Urbanismo las solicitudes de aprobación o modificación de los planes reguladores a los que se refiere el inciso precedente, será de dos años, contado desde la declaración de zona afectada por catástrofe, aun cuando no se encontraren vigentes los respectivos decretos que las declararon. Dicho plazo se podrá prorrogar, mediante decreto supremo del Ministerio de Vivienda y Urbanismo, hasta por igual período, por una sola vez.
+
+Para la tramitación de estas solicitudes de aprobación o modificación no se requerirán aprobaciones o pronunciamientos de otros organismos de la administración del Estado. Tampoco se requerirán antecedentes adicionales u otros requisitos no contemplados en este Capítulo.
+
+Aprobación o modificación de planes reguladores comunales o planes seccionales
+
+#### Artículo 7
+
+1.2. La propuesta de aprobación o modificación de un plan regulador comunal o plan seccional estará compuesta por los siguientes antecedentes mínimos:
+
+1. Memoria Explicativa. La Memoria Explicativa contendrá los aspectos conceptuales que fundamentan las decisiones de planificación, sustentadas en la necesidad de resolver las dificultades originadas, directa o indirectamente, por sismo o catástrofe, o para implementar el plan de reconstrucción regional o comunal. La Memoria Explicativa deberá incluir un estudio de riesgo, elaborado por un profesional especialista y deberá contar además con los antecedentes necesarios, elaborados o validados por los organismos técnicos para el monitoreo de las amenazas, según corresponda, en el marco de la ley Nº 21.364, que Establece el Sistema Nacional de Prevención y Respuesta ante Desastres, Sustituye la Oficina Nacional de Emergencia por el Servicio Nacional de Prevención y Respuesta ante Desastres, y adecúa normas que indica, tales como Mapas de Amenaza.
+
+2. Ordenanza Local. La Ordenanza Local contendrá las normas pertinentes a este nivel de planificación, las que deberán estar relacionadas, directa o indirectamente, con la catástrofe ocurrida, o con los planes de reconstrucción.
+
+3. Planos. Los Planos expresarán gráficamente las disposiciones de la Ordenanza a una escala adecuada para su comprensión. Estos planos deberán llevar la firma del Alcalde, del Asesor Urbanista o, en caso que no exista este último, del Secretario Comunal de Planificación.
+
+Procedimiento de aprobación de planes reguladores comunales o planes seccionales
+
+#### Artículo 7
+
+1.3. La propuesta elaborada por la Municipalidad deberá exponerse al público por al menos treinta días, durante los cuales se recibirán las observaciones fundadas y comentarios que por medios electrónicos o en soporte papel formule cualquier interesado, a través de los sistemas que disponga la respectiva municipalidad.
+
+El lugar, plazo, fecha y horario de exposición de la propuesta deberá comunicarse con una anticipación de a lo menos siete días, por medio de dos avisos publicados en días distintos, en algún diario de los de mayor circulación en la comuna, sin perjuicio de su difusión en el sitio web de la Municipalidad, si lo tuviere.
+
+Cumplido el plazo de exposición, el Alcalde dentro del plazo de treinta días siguientes deberá presentar la propuesta del plan regulador comunal o plan seccional, o su modificación, para la aprobación del Concejo Municipal, junto con un informe que dé cuenta del tratamiento que se le dio a cada una de las observaciones o comentarios, así como una reseña de los eventuales cambios o ajustes que se hayan efectuado a la propuesta original producto de dichas observaciones o comentarios. El Concejo Municipal deberá pronunciarse dentro del plazo de quince días contados desde la presentación de la propuesta, transcurrido el cual, sin pronunciamiento expreso, se entenderá que esta ha sido aprobada.
+
+Una vez aprobada la propuesta, y dentro del plazo de treinta días, todos sus antecedentes técnicos y administrativos, junto con el acta de acuerdo del Concejo Municipal, deberán ser remitidos al Ministerio de Vivienda y Urbanismo, el que deberá pronunciarse dentro de los treinta días siguientes pudiendo formular observaciones y estableciendo un plazo para que la Municipalidad las subsane. Una vez recibidos los antecedentes que subsanen las observaciones, el mencionado Ministerio tendrá un plazo de treinta días para dictar el decreto supremo respectivo.
+
+Modificación de planes reguladores intercomunales o metropolitanos
+
+#### Artículo 7
+
+1.4. La propuesta de modificación de un plan regulador intercomunal o metropolitano estará compuesta por los siguientes antecedentes mínimos:
+
+a) Memoria Explicativa. La Memoria Explicativa contendrá los aspectos conceptuales que fundamentan las decisiones de planificación, sustentadas en la necesidad de resolver las dificultades originadas, directa o indirectamente, por sismo o catástrofe, o para implementar el plan de reconstrucción regional o municipal. La Memoria Explicativa deberá incluir un estudio de riesgos, elaborado por un profesional especialista y deberá contar además con antecedentes necesarios, elaborados o validados por los organismos técnicos para el monitoreo de las amenazas, según corresponda, en el marco de la ley Nº 21.364, que Establece el Sistema Nacional de Prevención y Respuesta ante Desastres, Sustituye la Oficina Nacional de Emergencia por el Servicio Nacional de Prevención y Respuesta ante Desastres, y adecúa normas que indica, tales como Mapas de Amenaza.
+
+b) Ordenanza. La Ordenanza contendrá las normas pertinentes a este nivel de planificación, las que deberán estar relacionadas, directa o indirectamente, con la catástrofe ocurrida o con los planes de reconstrucción.
+
+c) Planos. Los Planos expresarán gráficamente las disposiciones de la Ordenanza a una escala adecuada para su comprensión.
+
+Estos planos deberán llevar la firma del Secretario Regional Ministerial de Vivienda y Urbanismo correspondiente y del Jefe del Departamento de Desarrollo Urbano e Infraestructura de dicha Secretaría. Asimismo, deberán llevar la firma del Ministro de Vivienda y Urbanismo, del Jefe de la División de Desarrollo Urbano y del Ministro de fe de dicha Secretaría de Estado.
+
+Procedimiento de aprobación de planes reguladores intercomunales o metropolitanos
+
+#### Artículo 7
+
+1.5. La propuesta de modificación elaborada por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo deberá exponerse al público por a lo menos treinta días, con consulta a las municipalidades cuyo territorio este comprendido en la modificación. Durante este plazo se recibirán las observaciones fundadas y comentarios que por medios electrónicos o en soporte papel formulen esas entidades como cualquier interesado, a través de los sistemas que disponga la respectiva Secretaría Regional Ministerial.
+
+El lugar, plazo, fecha y horario de exposición de la propuesta deberá comunicarse previamente, con a lo menos siete días de anticipación a su inicio, por medio de dos avisos publicados en días distintos, en algún diario de los de mayor circulación en las comunas involucradas, sin perjuicio de su difusión en el sitio web institucional de esa Secretaría Regional Ministerial. La consulta a las municipalidades cuyo territorio este comprendido en la modificación deberá enviarse con anterioridad al inicio de exposición de la propuesta.
+
+Cumplido el plazo de exposición, la Secretaría Regional Ministerial de Vivienda y Urbanismo dentro del plazo de treinta días siguientes deberá presentar la propuesta de modificación del plan regulador intercomunal o metropolitano final para la aprobación del Consejo Regional, junto con un informe que dé cuenta del tratamiento que se le dio a cada una de las observaciones o comentarios, así como una reseña de los eventuales cambios o ajustes que se hayan efectuado a la propuesta de modificación producto de dichas observaciones o comentarios. El Consejo Regional deberá pronunciarse dentro del plazo de quince días contados desde la presentación de la propuesta, transcurrido el cual, sin pronunciamiento expreso, se entenderá que esta ha sido aprobada.
+
+Una vez aprobada la propuesta, y dentro del plazo de treinta días, todos los antecedentes técnicos y administrativos, junto con el acta de acuerdo del Consejo Regional, deberán ser remitidos al Ministerio de Vivienda y Urbanismo, el que deberá pronunciarse dentro de los treinta días siguientes, pudiendo formular observaciones y estableciendo un plazo para que la Secretaría Regional las subsane. Una vez recibidos los antecedentes que subsanen las observaciones, el mencionado Ministerio tendrá un plazo de treinta días para que se dicte el decreto supremo respectivo.
+
+#### Artículo 7
+
+1.6. El decreto supremo mediante el cual el Ministerio de Vivienda y Urbanismo apruebe los planes reguladores comunales o planes seccionales, o sus modificaciones, o las modificaciones a los planes reguladores intercomunales o metropolitanos, a las que se refieren los artículos precedentes, se publicará en el Diario Oficial junto con la respectiva Ordenanza.
+
+La Memoria Explicativa, la Ordenanza y el o los Planos que componen el plan regulador o plan seccional, o su modificación, se archivarán en el Gobierno Regional, en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, en la respectiva Secretaría Regional del Ministerio de Vivienda y Urbanismo, en la Municipalidad correspondiente cuando se trate de un plan regulador comunal o seccional, y en el respectivo Conservador de Bienes Raíces. Los documentos indicados deberán estar disponibles junto con el acto que los promulgue en el sitio electrónico del organismo que los promulgó quedando en su poder la documentación original.
+
+Para efectos del cumplimiento de lo dispuesto en la letra b) del artículo 28 undecies de la Ley General de Urbanismo y Construcciones, en lo referido al Sistema de Información de los procesos de elaboración y aprobación de los Instrumentos de Planificación, se deberá dar cumplimiento a lo dispuesto en el artículo 2.1.6. de esta Ordenanza, en lo que corresponda.
+
+En caso que el plan regulador o plan seccional, o su modificación, considere a su vez establecer o modificar el límite urbano, el Alcalde o el Secretario Regional Ministerial de Vivienda y Urbanismo, según corresponda, deberá informar de esta determinación a la oficina regional del Servicio de Impuestos Internos, dentro del plazo de cinco días, contados desde la publicación del decreto promulgatorio, señalando a su vez la zona considerada para estos efectos.
+
+## Capítulo 2
+
+NORMAS ESPECIALES Y PROCEDIMIENTOS SIMPLIFICADOS PARA EL OTORGAMIENTO DE PERMISOS DE OBRAS
+
+Disposiciones comunes
+
+#### Artículo 7
+
+2.1. En las zonas que hubieren sido decretadas afectadas por catástrofe podrán aprobarse permisos para nuevas edificaciones y la recepción de sus obras, o permisos de reparación y su recepción para la regularización de construcciones existentes, con las normas especiales y procedimientos simplificados establecidos en este Capítulo, cuando formen parte de los planes de reconstrucción regionales o municipales, o se trate de reconstruir o reponer edificaciones dañadas por la catástrofe.
+
+Las solicitudes de aprobación de permisos de edificación o permisos de reparación para la regularización de construcciones existentes deberán ingresarse a la respectiva Dirección de Obras Municipales, dentro del plazo máximo de dos años, contado desde la fecha de publicación en el Diario Oficial del decreto que declaró la zona afectada por catástrofe; plazo que se podrá prorrogar mediante decreto supremo del Ministerio de Vivienda y Urbanismo, hasta por igual período, por una sola vez.
+
+Los permisos a los que se refiere el presente Capítulo no requerirán autorizaciones o pronunciamientos de otros organismos de la administración del Estado, salvo las contenidas en este Capítulo, o que se trate de modificaciones de cauces a los que se refiere el artículo 116 bis D) de la Ley General de Urbanismo y Construcciones.
+
+Los proyectos de edificación o de regularización señalados en este Capítulo podrán acogerse a las normas especiales de viviendas económicas y al régimen de copropiedad inmobiliaria establecido en la ley N° 21.442, debiendo indicarse aquello, en la respectiva solicitud de permiso de edificación o reparación y cumpliendo en cada proyecto con las normas que corresponda para dicho fin.
+
+Para los efectos de lo dispuesto en este Capítulo, se entenderá por "reposición de construcciones" la ejecución de obras con las que se reemplaza total o parcialmente, en el mismo predio y con el mismo destino, las edificaciones existentes dañadas por un sismo o catástrofe y que, producto de aquello, haya sido demolida o decretada su inhabitabilidad de conformidad al artículo 161 bis de la Ley General de Urbanismo y Construcciones. La reposición de la edificación dañada, en todo caso, no podrá contemplar un aumento de superficie mayor al 20% de la superficie edificada original.
+
+Asimismo, para los efectos de lo dispuesto en este Capítulo, se entenderá que la construcción ha sido dañada por la catástrofe cuando se afecte su estructura soportante o, si tratándose de elementos constructivos o instalaciones, este daño fuere relevante por afectar su seguridad o habitabilidad.
+
+El Director de Obras Municipales otorgará el permiso o recepción requerido, solo si la respectiva solicitud contiene todos y cada uno de los documentos y antecedentes que se requieran en cada caso, si existe correspondencia entre éstos y se cumplen además en el proyecto las normas establecidas en cada una de estas situaciones, conforme establece este Capítulo.
+
+Las Direcciones de Obras Municipales, deberán pronunciarse dentro del plazo de treinta días, contados desde la fecha de la presentación de las solicitudes de permisos y de recepciones señalados en este Capítulo.
+
+Regularizaciones de construcciones existentes que formen parte de un plan de reconstrucción regional o municipal
+
+#### Artículo 7
+
+2.2. Las construcciones que no cuenten con permiso de edificación ni recepción definitiva o no cuenten con recepción definitiva, ubicadas en zonas decretadas afectadas por catástrofe, podrán obtener este permiso y recepción con las normas especiales y procedimientos simplificados que se establecen en este artículo, siempre que la construcción que se regulariza forme parte de un plan de reconstrucción regional o municipal, hubiere sido dañada por la catástrofe y se ejecuten en esta las obras de reparación que se requieran para cumplir con las normas de habitabilidad, seguridad, estabilidad y de las instalaciones, si correspondiese, y a las que se refiere este artículo.
+
+En estas construcciones se deberán cumplir únicamente las normas urbanísticas establecidas en el respectivo Instrumento de Planificación Territorial referidas a uso de suelo, zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, franjas afectas a declaratoria de utilidad pública y no podrán estar emplazadas en bienes nacionales de uso público. La regularización de construcciones destinadas a equipamiento de las clases salud, educación o seguridad, estarán exentas de cumplir con la norma urbanística sobre uso de suelo.
+
+Junto a lo anterior, solo deberán cumplir con las siguientes normas de esta Ordenanza:
+
+1) Las establecidas en el Título 4 "De la Arquitectura", relativas a habitabilidad y las normas generales de seguridad y seguridad contra incendios.
+
+2) Las establecidas en el artículo 5.1.7. sobre proyecto de cálculo estructural, cuando corresponda.
+
+3) Las establecidas en los artículos 5.9.1., 5.9.2. y 5.9.3., relativas a las instalaciones domiciliarias de agua potable y alcantarillado, a las instalaciones interiores eléctricas y de gas, cuando corresponda. Asimismo, deberán cumplir con las disposiciones establecidas en el artículo 5.9.5. sobre ascensores e instalaciones similares, cuando corresponda.
+
+Para acogerse a este procedimiento simplificado, el propietario deberá presentar ante la respectiva Dirección de Obras Municipales, los siguientes antecedentes:
+
+a) Solicitud de regularización y permiso de reparación firmada por el propietario y el arquitecto del proyecto, que incluya una declaración simple de ser titular del dominio del predio, utilizando para ello el Formulario Único Nacional respectivo.
+
+b) Certificado emitido por la respectiva autoridad regional o municipal, que dé cuenta que la construcción existente que se regulariza y sus obras requeridas, forman parte del plan de reconstrucción regional o municipal.
+
+c) Formulario único de estadísticas de edificación o el certificado de ingreso electrónico de dicho formulario.
+
+d) Documentación que demuestre que la data de la construcción es previa al sismo o catástrofe que originó la declaratoria, pudiendo corresponder a medios de prueba gráficos o escritos, tales como planos aprobados por la autoridad competente, cuentas de servicios, certificados de pago de contribuciones de bienes raíces, catastros municipales o de otros organismos públicos o con un informe realizado por una empresa u organismo certificador que acredite esa data o antigüedad de la construcción.
+
+e) Informe emitido por el arquitecto del proyecto que detalle las obras de reparación que se ejecutarán para resolver el daño producido por la catástrofe, y con las que la edificación dará cumplimiento a las normas sobre habitabilidad, seguridad general y seguridad contra incendio, estabilidad y a las normas de las instalaciones interiores domiciliarias de agua potable y alcantarillado, así como de las instalaciones interiores eléctricas, de gas o telecomunicaciones, cuando corresponda.
+
+f) Planos de arquitectura a escala 1:50, firmados por el propietario y el arquitecto, en que se grafiquen las plantas de todos los pisos con las cotas mínimas indispensables que permitan calcular las superficies edificadas y la carga de ocupación del proyecto, incluyendo la singularización de los recintos con su destino, un cuadro de superficies y un plano de ubicación del predio con sus dimensiones.
+
+Tratándose de regularizaciones de construcciones cuyo destino sea distinto al de vivienda corresponderá adjuntar, además, cortes y elevaciones de las fachadas principales.
+
+g) Especificaciones técnicas resumidas, de las principales partidas de la edificación firmados por el propietario y el arquitecto.
+
+La Dirección de Obras Municipales, deberá pronunciarse dentro de los treinta días siguientes a la presentación de la solicitud y otorgará el permiso requerido con el solo mérito de la presentación de los antecedentes que establece este artículo; a condición de que se cumpla con lo dispuesto precedentemente, previo pago de los derechos municipales, si correspondiere.
+
+Los derechos municipales corresponden a los contemplados en el numeral 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, salvo que se trate de regularizaciones de viviendas sociales que están exentas del pago de derechos municipales conforme establece el penúltimo inciso del artículo 116 bis D) de la Ley General de Urbanismo y Construcciones.
+
+Permisos para nuevas construcciones que formen parte de un plan de reconstrucción regional o municipal, o permisos para reconstruir o reponer edificaciones dañadas por la catástrofe
+
+#### Artículo 7
+
+2.3. Se podrán aprobar nuevas construcciones en zonas decretadas afectadas por una catástrofe con las normas especiales y procedimientos simplificados que se establecen en este artículo, siempre que formen parte de los planes de reconstrucción regionales o municipales, o los permisos vayan dirigidos a reconstruir o reponer, total o parcialmente, edificaciones dañadas por la catástrofe.
+
+Los proyectos de edificación señalados en este artículo podrán acogerse a las disposiciones sobre condominios de densificación predial, en tanto se cumplan en el predio del proyecto las disposiciones de la ley N° 21.442. y las normas establecidas en el artículo 6.2.9. de esta Ordenanza.
+
+Para otorgar los permisos a que se refiere este artículo, no será requisito el permiso de demolición de las edificaciones que hubieran sido afectadas por la catástrofe, siempre que se acompañe un informe del arquitecto del proyecto que acredite que la edificación fue dañada total o parcialmente por dicho evento.
+
+Los permisos susceptibles de aprobarse con las normas especiales y procedimientos simplificados dispuestos en el presente artículo son los siguientes:
+
+1. Permisos de Edificación de obra nueva o ampliación, y de permiso de loteo o loteo con construcción simultánea, que formen parte de un plan de reconstrucción regional o municipal:
+
+Los permisos de obra nueva o ampliación de viviendas que formen parte de un plan de reconstrucción regional o municipal deberán cumplir únicamente con las normas urbanísticas del respectivo Instrumento de Planificación Territorial, referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, franjas afectas a declaratoria de utilidad pública y no podrán estar emplazados en bienes nacionales de uso público.
+
+Podrán aprobarse permisos de loteo o loteo con construcción simultánea para proyectos de viviendas, a los cuales les serán aplicables las normas contenidas en este numeral junto con las normas sobre cesiones, superficie predial mínima y densidad, según corresponda, establecidas en la Ley General de Urbanismo y Construcciones o en el respectivo Instrumento de Planificación Territorial; sin perjuicio de que puedan acogerse igualmente a las disposiciones especiales sobre viviendas económicas contenidas en el Título 6 de esta Ordenanza.
+
+Los permisos de obra nueva o ampliación de edificaciones con destinos diferentes a vivienda deberán cumplir con las normas urbanísticas del respectivo Instrumento de Planificación Territorial, con excepción de las normas sobre uso de suelo cuando se trate de edificaciones destinadas a equipamiento de las clases salud, educación o seguridad. En cualquiera de estos casos, deberá cumplirse con los requisitos referidos a la escala del equipamiento, en conformidad al artículo 2.1.36. de esta Ordenanza.
+
+Junto a lo anterior, todos los proyectos a los que se refiere este numeral deberán cumplir con las siguientes normas de esta Ordenanza, según corresponda:
+
+- Las establecidas en el Título 4 "De la Arquitectura", relativas a normas de habitabilidad, normas generales de seguridad y de seguridad contra incendios.
+
+- Las establecidas en el artículo 5.1.7. sobre proyecto de cálculo estructural, cuando corresponda.
+
+- Las establecidas en los artículos 5.9.1., 5.9.2. y 5.9.3., relativas a las instalaciones domiciliarias de agua potable y alcantarillado, y a las instalaciones interiores de electricidad, gas o telecomunicaciones, respectivamente. Cuando corresponda, deberán cumplir igualmente con las disposiciones establecidas en el artículo 5.9.5. sobre ascensores e instalaciones similares, y en el artículo 5.9.7. sobre instalaciones interiores de telecomunicaciones.
+
+- Las establecidas en los artículos 2.6.2. y 2.6.3., sobre adosamientos, distanciamientos y rasantes, con las excepciones que señala el artículo 6.1.10. respecto de las viviendas económicas. Estará exenta de cumplir con las normas de distanciamientos y rasantes, la vivienda singular que se construya en un predio existente a la fecha de declaración de la zona afectada por catástrofe, sin perjuicio que el proyecto se acoja a las disposiciones establecidas en el artículo 6.2.9. de esta Ordenanza.
+
+Para acogerse a este procedimiento simplificado, el propietario deberá presentar ante la respectiva Dirección de Obras Municipales los siguientes antecedentes:
+
+a) Solicitud de permiso de edificación, o de permiso de loteo o loteo con construcción simultánea firmada por el propietario y el arquitecto del proyecto, que incluya una declaración simple de ser titular del dominio del predio, utilizando para ello el Formulario Único Nacional respectivo.
+
+b) Certificado emitido por la respectiva autoridad regional o municipal, que dé cuenta que el proyecto y sus obras forman parte del plan de reconstrucción regional o municipal.
+
+c) Formulario único de estadísticas de edificación o el certificado de ingreso electrónico de dicho formulario.
+
+d) Planos de arquitectura a escala 1:50, firmados por el propietario y el arquitecto, en que se grafiquen las plantas de todos los pisos, cortes y elevaciones con las cotas mínimas indispensables, que permitan acreditar el cumplimiento de las normas urbanísticas, calcular las superficies edificadas y la carga de ocupación del proyecto, con singularización de los recintos según su destino, un cuadro de superficies y un plano de ubicación del predio del permiso, con sus dimensiones.
+
+e) Especificaciones técnicas, firmadas por el propietario, y el arquitecto señalando las partidas más relevantes de la obra.
+
+f) Proyecto de cálculo estructural, cuando proceda conforme al artículo 5.1.7. de esta Ordenanza.
+
+g) Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación de acuerdo con el artículo 5.1.25. de esta Ordenanza.
+
+h) Informe favorable de un Revisor Independiente, cuando sea obligatoria su participación.
+
+i) Certificado de factibilidad de otorgamiento de servicios de agua potable y alcantarillado, emitido por la empresa concesionaria de servicios sanitarios correspondiente, o bien, fotocopia de los respectivos recibos de pago de esos servicios, en caso que la solicitud se refiera a un predio que contaba con éstos, en tanto no se aumente la dotación de las respectivas instalaciones. De no existir empresa de servicios sanitarios en el área, se deberá presentar un proyecto de agua potable y alcantarillado, el que deberá estar aprobado por la autoridad sanitaria antes de la recepción definitiva de la obra.
+
+j) En caso de loteos o loteos con construcción simultánea deberán acompañarse los antecedentes establecidos en el Capítulo 1 del Título 3 de esta Ordenanza.
+
+k) Resolución emitida por la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, autorizando las excepciones a las obligaciones de urbanización a que se refiere el artículo 116 bis D) de la Ley General de Urbanismo y Construcciones, si corresponde, incluyendo los estándares que deban cumplirse en el proyecto, atendidas las características especiales de la localidad donde se emplaza.
+
+La Dirección de Obras Municipales otorgará el permiso requerido con el solo mérito de la presentación de los antecedentes requeridos, a condición de que se cumpla con lo dispuesto precedentemente, previo pago de los derechos municipales que correspondan.
+
+Cuando se trate de los proyectos tipo a los que se refiere el artículo 5.1.28. de esta Ordenanza, en reemplazo de los antecedentes señalados en los literales e), f), g), y h) anteriores, solo será necesario presentar un plano de emplazamiento y las fotocopias de los antecedentes que específicamente traten del proyecto tipo aprobado, en lo equivalente a las letras mencionadas. No obstante, se deberá incluir un informe de un ingeniero civil sobre la calidad del subsuelo del predio que permita asegurar la estabilidad del proyecto tipo, incluyendo, de ser necesario, el proyecto con las obras adicionales. Los planos mencionados en el literal d) de este numeral podrán reemplazarse siempre que los planos del proyecto tipo o el de emplazamiento incluyan la información necesaria para acreditar el cumplimiento de las normas urbanísticas que les sean aplicables.
+
+Cuando las solicitudes de permiso a que alude este numeral se refieran a predios ubicados fuera de los límites urbanos establecidos en los Planes Reguladores, deberá darse cumplimiento previamente a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones, y a lo previsto en materia de estándares mínimos de urbanización fuera del terreno propio establecidos en el artículo 2.2.4 bis de esta Ordenanza. A los conjuntos de vivienda o a la vivienda singular a las que se refiere el Título 6 de esta Ordenanza emplazadas en el área rural, les serán aplicables las condiciones de urbanización mínima establecidas en los artículos 6.3.3. y 6.3.4., según corresponda.
+
+Los derechos municipales corresponderán a los contemplados en el numeral 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, salvo que se trate de una ampliación de una vivienda social a la que alude el penúltimo inciso del artículo 116 bis D) de la Ley General de Urbanismo y Construcciones, en cuyo caso queda exenta de pago de derechos municipales. Tratándose de loteos con construcción simultánea, los derechos municipales corresponderán a los contemplados en el numeral 1 del aludido artículo 130.
+
+2. Permisos de Reconstrucción de viviendas o de edificaciones con otros destinos dañados por la catástrofe:
+
+Los permisos de reconstrucción, de viviendas o edificaciones con otros destinos, dañadas por la catástrofe que dio lugar a la declaración respectiva, que producto de aquello hayan sido demolidos o decretada su inhabitabilidad en conformidad al artículo 161 bis de la Ley General de Urbanismo y Construcciones, deberán cumplir únicamente con las normas urbanísticas del respectivo Instrumento de Planificación Territorial referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, además de las franjas afectas a declaratoria de utilidad pública, sin perjuicio de lo dispuesto en el artículo 59 bis letra a) de la Ley General de Urbanismo y Construcciones.
+
+Junto a lo anterior, en los proyectos a los que se refiere este numeral se deberán cumplir únicamente con las siguientes normas de esta Ordenanza:
+
+- Las establecidas en el Título 4 "De la Arquitectura", relativas a normas de habitabilidad, normas generales de seguridad y de seguridad contra incendios.
+
+- Las establecidas en el artículo 5.1.7. sobre proyecto de cálculo estructural, cuando corresponda.
+
+- Las establecidas en los artículos 5.9.1., 5.9.2. y 5.9.3., relativas a las instalaciones domiciliarias de agua potable y alcantarillado, y a las instalaciones interiores de electricidad y de gas, respectivamente. Cuando corresponda, deberán cumplir con las disposiciones establecidas en el artículo 5.9.5. sobre ascensores e instalaciones similares, y en el artículo 5.9.7. sobre instalaciones de telecomunicaciones.
+
+- Las establecidas en el artículo 2.6.2., sobre adosamientos, en lo que respecta a la altura mínima y resistencia al fuego.
+
+Para acogerse a este procedimiento simplificado, el propietario deberá presentar ante la respectiva Dirección de Obras Municipales los siguientes antecedentes:
+
+a) Solicitud de permiso de reconstrucción firmada por el propietario y el arquitecto del proyecto, que incluya una declaración simple de ser titular del dominio del predio, e indicando el número y fecha de los actos administrativos con el que se otorgó el permiso y la recepción definitiva de la edificación dañada que se reconstruye, salvo en el caso de edificaciones construidas con anterioridad a la entrada en vigencia de la ley N° 4.563 o declaradas área de protección de recursos de valor patrimonial cultural. En todos los casos deberá señalarse igualmente la superficie edificada y la altura de la edificación aprobada si corresponde, utilizando para ello el Formulario Único Nacional respectivo.
+
+b) Declaración jurada simple suscrita por el propietario que acredite que la edificación dañada por la catástrofe fue demolida total o parcialmente, o copia del decreto municipal que declaró su inhabitabilidad total o parcial, de conformidad al artículo 161 bis de la Ley General de Urbanismo y Construcciones.
+
+c) Formulario único de estadísticas de edificación o el certificado de ingreso electrónico de dicho formulario.
+
+d) Plano de plantas de arquitectura, firmado por el propietario y el arquitecto, elaborado conforme a las copias de los planos del permiso de la respectiva edificación archivados en la Dirección de Obras Municipales o en poder del propietario, en caso de corresponder, incluyendo un plano de ubicación del predio de este permiso con sus dimensiones. El constructor a cargo de las respectivas obras de reconstrucción deberá ajustarse a estos mismos antecedentes.
+
+Tratándose de edificaciones cuyo destino sea distinto al de vivienda corresponderá adjuntar, además, cortes y elevaciones de las fachadas principales conforme a estas mismas.
+
+El o los planos deberán acreditar el cumplimiento de las normas urbanísticas.
+
+e) Especificaciones técnicas, firmadas por el arquitecto, señalando las partidas más relevantes de la obra.
+
+f) Proyecto de cálculo estructural, cuando proceda conforme al artículo 5.1.7. de esta Ordenanza.
+
+g) Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación de acuerdo al artículo 5.1.25. de esta Ordenanza.
+
+h) Informe favorable de un Revisor Independiente, cuando sea obligatoria su participación.
+
+i) Certificado de factibilidad de otorgamiento de servicios de agua potable y alcantarillado, emitido por la empresa concesionaria de servicios sanitarios correspondiente, o bien fotocopia de los respectivos recibos de pago de esos servicios en caso que la solicitud se refiera a un predio que contaba con éstos, en tanto no se aumente las instalaciones respectivas. De no existir empresa de servicios sanitarios en el área, se deberá presentar un proyecto de agua potable y alcantarillado, el que deberá estar aprobado por la autoridad sanitaria antes de la recepción final de la obra. Para dichos efectos podrá presentarse el proyecto con que se otorgó el permiso y la recepción definitiva de la edificación dañada que se reconstruye, en tanto no se aumenten las instalaciones respectivas. A los conjuntos de vivienda o vivienda singular a los que se refiere el Título 6 de esta Ordenanza emplazadas en el área rural, les serán aplicables las condiciones de urbanización mínima establecidas en los artículos 6.3.3. y 6.3.4., según corresponda.
+
+La Dirección de Obras Municipales otorgará el permiso requerido con el solo mérito de la presentación de los antecedentes requeridos, a condición de que se cumpla con lo dispuesto precedentemente, previo pago de los derechos municipales que correspondan.
+
+Los derechos municipales corresponderán a los contemplados en el numeral 5 del artículo 130 de la Ley General de Urbanismo y Construcciones.
+
+3. Permisos de Edificación para Reposición de viviendas o de edificaciones con otros destinos
+
+Las solicitudes de permisos de edificación para la reposición de viviendas, conforme a la definición contenida en el artículo 7.2.1. de esta Ordenanza, deberán cumplir únicamente las normas urbanísticas del respectivo Instrumento de Planificación Territorial referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, y las franjas afectas a declaratoria de utilidad pública.
+
+Las solicitudes de permisos de edificación para la reposición de construcciones con destinos diferentes a vivienda, deberán cumplir con todas las normas urbanísticas del Instrumento de Planificación Territorial respectivo, con excepción de las normas sobre uso de suelo cuando se trate de la reposición de edificaciones destinadas a las clases de equipamiento salud, educación o seguridad.
+
+Sin perjuicio de lo anterior, los proyectos a los que se refiere este numeral deberán cumplir con las siguientes normas de esta Ordenanza:
+
+- Las establecidas en el Título 4 "De la Arquitectura", relativas a normas de habitabilidad, normas generales de seguridad y seguridad contra incendio.
+
+- Las establecidas en el artículo 5.1.7. sobre proyecto de cálculo estructural, cuando corresponda.
+
+- Las establecidas en los artículos 5.9.1., 5.9.2. y 5.9.3., relativas a instalaciones domiciliarias de agua potable y alcantarillado, y a las instalaciones interiores de electricidad y de gas, respectivamente. Cuando corresponda, deberán cumplir además con las disposiciones establecidas en el artículo 5.9.5. sobre ascensores e instalaciones similares, y con las del artículo 5.9.7. sobre instalaciones de telecomunicaciones.
+
+- Las establecidas en los artículos 2.6.2. y 2.6.3., sobre adosamientos, distanciamientos y rasantes.
+
+Para acogerse a este procedimiento simplificado, el propietario deberá presentar ante la Dirección de Obras Municipales los siguientes antecedentes:
+
+a) Solicitud de permiso de edificación firmada por el propietario y el arquitecto del proyecto, que incluya una declaración simple de ser titular del dominio del predio, e indicando además el número y fecha de los actos administrativos con el que se aprobó el permiso y con el que se obtuvo la recepción definitiva de la edificación que se repone; salvo en el caso de edificaciones construidas con anterioridad a la entrada en vigencia de la ley N° 4.563, señalando igualmente la superficie edificada y la altura de la edificación, utilizando para ello el Formulario Único Nacional respectivo.
+
+b) Declaración jurada simple suscrita por el propietario que acredite que la edificación dañada por la catástrofe fue demolida total o parcialmente, o copia del decreto municipal que declaró su inhabitabilidad total o parcial en conformidad al artículo 161 bis de la Ley General de Urbanismo y Construcciones.
+
+c) Formulario único de estadísticas de edificación o el certificado de ingreso electrónico de dicho formulario.
+
+d) Planos de arquitectura a escala 1:50, firmados por el propietario y el arquitecto, en que se grafiquen las plantas de todos los pisos, cortes y elevaciones con las cotas mínimas indispensables, que permitan calcular las superficies edificadas y la carga de ocupación del proyecto, con singularización de los recintos según su destino, un cuadro de superficies y un plano de ubicación del predio del permiso, con sus dimensiones.
+
+Tratándose de edificaciones cuyo destino sea distinto al de vivienda corresponderá adjuntar, además, cortes y elevaciones de las fachadas principales.
+
+El o los planos deberán acreditar el cumplimiento de las normas urbanísticas.
+
+e) Especificaciones técnicas, firmadas por el arquitecto, señalando las partidas más relevantes de la obra.
+
+f) Proyecto de cálculo estructural, cuando proceda conforme al artículo 5.1.7. de esta Ordenanza.
+
+g) Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando sea obligatoria su contratación de acuerdo al artículo 5.1.25. de esta Ordenanza.
+
+h) Informe favorable de un Revisor Independiente, cuando sea obligatoria su contratación.
+
+i) Certificado de factibilidad de otorgamiento de servicios de agua potable y alcantarillado, emitido por la empresa concesionaria de servicios sanitarios correspondiente, o bien fotocopia de los respectivos recibos de pago de esos servicios en caso que la solicitud se refiera a un predio que contaba con éstos, en tanto no se aumente las instalaciones respectivas. De no existir empresa de servicios sanitarios en el área, se deberá presentar un proyecto de agua potable y alcantarillado, el que deberá estar aprobado por la autoridad sanitaria antes de la recepción final de la obra.
+
+La Dirección de Obras Municipales otorgará el permiso de edificación con el solo mérito de la presentación de los antecedentes requeridos, a condición de que se cumpla con lo dispuesto precedentemente, previo pago de los derechos municipales que correspondan.
+
+Cuando se trate de los proyectos tipo a los que se refiere el artículo 5.1.28. de esta Ordenanza, en reemplazo de los antecedentes señalados en los literales e), f), g), y h) anteriores, solo será necesario presentar un plano de emplazamiento y las fotocopias de los antecedentes que específicamente traten del proyecto tipo aprobado, en lo equivalente a las letras mencionadas. No obstante, se deberá incluir un informe de un ingeniero civil sobre la calidad del subsuelo del predio que permita asegurar la estabilidad del proyecto tipo, incluyendo, de ser necesario, el proyecto con las obras adicionales. Los planos mencionados en el literal d) de este numeral podrán reemplazarse siempre que los planos del proyecto tipo o el de emplazamiento incluyan la información necesaria para acreditar el cumplimiento de las normas urbanísticas que les sean aplicables.
+
+Cuando las solicitudes de permiso a que alude este numeral se refieran a predios ubicados fuera de los límites urbanos establecidos en los Planes Reguladores, deberá darse cumplimiento a lo dispuesto en el artículo 55° de la Ley General de Urbanismo y Construcciones, y a lo previsto en materia de estándares mínimos de urbanización fuera del terreno propio, conforme a lo establecido en el artículo 2.2.4 bis de esta Ordenanza, cuando corresponda. A los conjuntos de vivienda o vivienda singular a que se refiere el Título 6 de esta Ordenanza, cuando se emplacen en el área rural, les serán aplicables las condiciones de urbanización mínima establecidas en los artículos 6.3.3. y 6.3.4., según corresponda.
+
+Los derechos municipales corresponderán a los contemplados en el número 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, salvo que se trate de una ampliación por reposición parcial de una vivienda social a la que alude el penúltimo inciso del artículo 116 bis D) de la Ley General de Urbanismo y Construcciones, en cuyo caso queda exenta de pago de derechos municipales.
+
+#### Artículo 7
+
+2.4. Las reparaciones que sea necesario efectuar a una edificación dañada por una catástrofe, excluidas aquellas referidas en el artículo anterior, deberán tramitarse mediante permisos de reparación conforme a lo establecido en el primer párrafo del numeral 3 del artículo 5.1.4. de esta Ordenanza.
+
+#### Artículo 7
+
+2.5. Si después de concedido el permiso de edificación, reconstrucción, reparación, o el permiso de urbanización o loteo con construcción simultánea, y antes de la recepción definitiva de las respectivas obras, hubiere necesidad de introducir modificaciones o variantes en el proyecto o en la ejecución de las obras, deberá presentarse ante el Director de Obras Municipales la solicitud de modificación de permiso, antes de la recepción definitiva.
+
+Las solicitudes de modificación de proyectos de edificación aprobados con las normas de los numerales 1 y 2 del artículo 7.2.3., se tramitarán conforme al artículo 5.1.17. de esta Ordenanza, sin perjuicio de la aplicación del artículo 5.2.8. cuando corresponda. Si las modificaciones inciden en el proyecto de cálculo estructural, deberán adjuntarse, debidamente modificados, los documentos a que se refiere el artículo 5.1.7. de esta Ordenanza. Tratándose de proyectos de cálculo estructural que deben someterse a revisión conforme al artículo 5.1.25., estos documentos deberán estar visados por el Revisor de Proyecto de Cálculo Estructural.
+
+Las solicitudes de modificación de proyectos de loteo o loteo con construcción simultánea aprobados con las normas del numeral 1 del artículo 7.2.3. de este capítulo, se tramitarán conforme a las disposiciones del artículo 3.1.9. de esta Ordenanza.
+
+Las solicitudes de modificación de los permisos antes referidos solo podrán ser ingresadas durante la vigencia del plazo máximo de dos años, o su prórroga, al que hace referencia el artículo 7.2.1. de esta Ordenanza.
+
+Una vez vencido el plazo antes señalado y hasta antes de la recepción definitiva de las obras, excepcionalmente el propietario podrá solicitar la modificación del permiso del proyecto en base a las mismas normas con que éste fue aprobado, siempre que la modificación no contemple un aumento de superficie edificada mayor al 5% o nuevos destinos no admitidos por la normativa vigente al momento de solicitar la modificación. En el caso de proyectos de loteo o loteo con construcción simultánea, el número de lotes no se podrá aumentar en más de un 20% y la superficie destinada a vialidad, áreas verdes y equipamiento no se disminuya en más de un 20%.
+
+Permisos para nuevas construcciones que formen parte de un plan de reconstrucción regional o municipal, o permisos para reconstruir o reponer edificaciones dañadas por la catástrofe
+
+#### Artículo 7
+
+2.3. Se podrán aprobar nuevas construcciones en zonas decretadas afectadas por una catástrofe con las normas especiales y procedimientos simplificados que se establecen en este artículo, siempre que formen parte de los planes de reconstrucción regionales o municipales, o los permisos vayan dirigidos a reconstruir o reponer, total o parcialmente, edificaciones dañadas por la catástrofe.
+
+Los proyectos de edificación señalados en este artículo podrán acogerse a las disposiciones sobre condominios de densificación predial, en tanto se cumplan en el predio del proyecto las disposiciones de la ley N° 21.442. y las normas establecidas en el artículo 6.2.9. de esta Ordenanza.
+
+Para otorgar los permisos a que se refiere este artículo, no será requisito el permiso de demolición de las edificaciones que hubieran sido afectadas por la catástrofe, siempre que se acompañe un informe del arquitecto del proyecto que acredite que la edificación fue dañada total o parcialmente por dicho evento.
+
+Los permisos susceptibles de aprobarse con las normas especiales y procedimientos simplificados dispuestos en el presente artículo son los siguientes:
+
+1. Permisos de Edificación de obra nueva o ampliación, y de permiso de loteo o loteo con construcción simultánea, que formen parte de un plan de reconstrucción regional o municipal:
+
+Los permisos de obra nueva o ampliación de viviendas que formen parte de un plan de reconstrucción regional o municipal deberán cumplir únicamente con las normas urbanísticas del respectivo Instrumento de Planificación Territorial, referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, franjas afectas a declaratoria de utilidad pública y no podrán estar emplazados en bienes nacionales de uso público.
+
+Podrán aprobarse permisos de loteo o loteo con construcción simultánea para proyectos de viviendas, a los cuales les serán aplicables las normas contenidas en este numeral junto con las normas sobre cesiones, superficie predial mínima y densidad, según corresponda, establecidas en la Ley General de Urbanismo y Construcciones o en el respectivo Instrumento de Planificación Territorial; sin perjuicio de que puedan acogerse igualmente a las disposiciones especiales sobre viviendas económicas contenidas en el Título 6 de esta Ordenanza.
+
+Los permisos de obra nueva o ampliación de edificaciones con destinos diferentes a vivienda deberán cumplir con las normas urbanísticas del respectivo Instrumento de Planificación Territorial, con excepción de las normas sobre uso de suelo cuando se trate de edificaciones destinadas a equipamiento de las clases salud, educación o seguridad. En cualquiera de estos casos, deberá cumplirse con los requisitos referidos a la escala del equipamiento, en conformidad al artículo 2.1.36. de esta Ordenanza.
+
+Junto a lo anterior, todos los proyectos a los que se refiere este numeral deberán cumplir con las siguientes normas de esta Ordenanza, según corresponda:
+
+- Las establecidas en el Título 4 "De la Arquitectura", relativas a normas de habitabilidad, normas generales de seguridad y de seguridad contra incendios.
+
+- Las establecidas en el artículo 5.1.7. sobre proyecto de cálculo estructural, cuando corresponda.
+
+- Las establecidas en los artículos 5.9.1., 5.9.2. y 5.9.3., relativas a las instalaciones domiciliarias de agua potable y alcantarillado, y a las instalaciones interiores de electricidad, gas o telecomunicaciones, respectivamente. Cuando corresponda, deberán cumplir igualmente con las disposiciones establecidas en el artículo 5.9.5. sobre ascensores e instalaciones similares, y en el artículo 5.9.7. sobre instalaciones interiores de telecomunicaciones.
+
+- Las establecidas en los artículos 2.6.2. y 2.6.3., sobre adosamientos, distanciamientos y rasantes, con las excepciones que señala el artículo 6.1.10. respecto de las viviendas económicas. Estará exenta de cumplir con las normas de distanciamientos y rasantes, la vivienda singular que se construya en un predio existente a la fecha de declaración de la zona afectada por catástrofe, sin perjuicio que el proyecto se acoja a las disposiciones establecidas en el artículo 6.2.9. de esta Ordenanza.
+
+Para acogerse a este procedimiento simplificado, el propietario deberá presentar ante la respectiva Dirección de Obras Municipales los siguientes antecedentes:
+
+a) Solicitud de permiso de edificación, o de permiso de loteo o loteo con construcción simultánea firmada por el propietario y el arquitecto del proyecto, que incluya una declaración simple de ser titular del dominio del predio, utilizando para ello el Formulario Único Nacional respectivo.
+
+b) Certificado emitido por la respectiva autoridad regional o municipal, que dé cuenta que el proyecto y sus obras forman parte del plan de reconstrucción regional o municipal.
+
+c) Formulario único de estadísticas de edificación o el certificado de ingreso electrónico de dicho formulario.
+
+d) Planos de arquitectura a escala 1:50, firmados por el propietario y el arquitecto, en que se grafiquen las plantas de todos los pisos, cortes y elevaciones con las cotas mínimas indispensables, que permitan acreditar el cumplimiento de las normas urbanísticas, calcular las superficies edificadas y la carga de ocupación del proyecto, con singularización de los recintos según su destino, un cuadro de superficies y un plano de ubicación del predio del permiso, con sus dimensiones.
+
+e) Especificaciones técnicas, firmadas por el propietario, y el arquitecto señalando las partidas más relevantes de la obra.
+
+f) Proyecto de cálculo estructural, cuando proceda conforme al artículo 5.1.7. de esta Ordenanza.
+
+g) Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación de acuerdo con el artículo 5.1.25. de esta Ordenanza.
+
+h) Informe favorable de un Revisor Independiente, cuando sea obligatoria su participación.
+
+i) Certificado de factibilidad de otorgamiento de servicios de agua potable y alcantarillado, emitido por la empresa concesionaria de servicios sanitarios correspondiente, o bien, fotocopia de los respectivos recibos de pago de esos servicios, en caso que la solicitud se refiera a un predio que contaba con éstos, en tanto no se aumente la dotación de las respectivas instalaciones. De no existir empresa de servicios sanitarios en el área, se deberá presentar un proyecto de agua potable y alcantarillado, el que deberá estar aprobado por la autoridad sanitaria antes de la recepción definitiva de la obra.
+
+j) En caso de loteos o loteos con construcción simultánea deberán acompañarse los antecedentes establecidos en el Capítulo 1 del Título 3 de esta Ordenanza.
+
+k) Resolución emitida por la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, autorizando las excepciones a las obligaciones de urbanización a que se refiere el artículo 116 bis D) de la Ley General de Urbanismo y Construcciones, si corresponde, incluyendo los estándares que deban cumplirse en el proyecto, atendidas las características especiales de la localidad donde se emplaza.
+
+La Dirección de Obras Municipales otorgará el permiso requerido con el solo mérito de la presentación de los antecedentes requeridos, a condición de que se cumpla con lo dispuesto precedentemente, previo pago de los derechos municipales que correspondan.
+
+Cuando se trate de los proyectos tipo a los que se refiere el artículo 5.1.28. de esta Ordenanza, en reemplazo de los antecedentes señalados en los literales e), f), g), y h) anteriores, solo será necesario presentar un plano de emplazamiento y las fotocopias de los antecedentes que específicamente traten del proyecto tipo aprobado, en lo equivalente a las letras mencionadas. No obstante, se deberá incluir un informe de un ingeniero civil sobre la calidad del subsuelo del predio que permita asegurar la estabilidad del proyecto tipo, incluyendo, de ser necesario, el proyecto con las obras adicionales. Los planos mencionados en el literal d) de este numeral podrán reemplazarse siempre que los planos del proyecto tipo o el de emplazamiento incluyan la información necesaria para acreditar el cumplimiento de las normas urbanísticas que les sean aplicables.
+
+Cuando las solicitudes de permiso a que alude este numeral se refieran a predios ubicados fuera de los límites urbanos establecidos en los Planes Reguladores, deberá darse cumplimiento previamente a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones, y a lo previsto en materia de estándares mínimos de urbanización fuera del terreno propio establecidos en el artículo 2.2.4 bis de esta Ordenanza. A los conjuntos de vivienda o a la vivienda singular a las que se refiere el Título 6 de esta Ordenanza emplazadas en el área rural, les serán aplicables las condiciones de urbanización mínima establecidas en los artículos 6.3.3. y 6.3.4., según corresponda.
+
+Los derechos municipales corresponderán a los contemplados en el numeral 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, salvo que se trate de una ampliación de una vivienda social a la que alude el penúltimo inciso del artículo 116 bis D) de la Ley General de Urbanismo y Construcciones, en cuyo caso queda exenta de pago de derechos municipales. Tratándose de loteos con construcción simultánea, los derechos municipales corresponderán a los contemplados en el numeral 1 del aludido artículo 130.
+
+2. Permisos de Reconstrucción de viviendas o de edificaciones con otros destinos dañados por la catástrofe:
+
+Los permisos de reconstrucción, de viviendas o edificaciones con otros destinos, dañadas por la catástrofe que dio lugar a la declaración respectiva, que producto de aquello hayan sido demolidos o decretada su inhabitabilidad en conformidad al artículo 161 bis de la Ley General de Urbanismo y Construcciones, deberán cumplir únicamente con las normas urbanísticas del respectivo Instrumento de Planificación Territorial referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, además de las franjas afectas a declaratoria de utilidad pública, sin perjuicio de lo dispuesto en el artículo 59 bis letra a) de la Ley General de Urbanismo y Construcciones.
+
+Junto a lo anterior, en los proyectos a los que se refiere este numeral se deberán cumplir únicamente con las siguientes normas de esta Ordenanza:
+
+- Las establecidas en el Título 4 "De la Arquitectura", relativas a normas de habitabilidad, normas generales de seguridad y de seguridad contra incendios.
+
+- Las establecidas en el artículo 5.1.7. sobre proyecto de cálculo estructural, cuando corresponda.
+
+- Las establecidas en los artículos 5.9.1., 5.9.2. y 5.9.3., relativas a las instalaciones domiciliarias de agua potable y alcantarillado, y a las instalaciones interiores de electricidad y de gas, respectivamente. Cuando corresponda, deberán cumplir con las disposiciones establecidas en el artículo 5.9.5. sobre ascensores e instalaciones similares, y en el artículo 5.9.7. sobre instalaciones de telecomunicaciones.
+
+- Las establecidas en el artículo 2.6.2., sobre adosamientos, en lo que respecta a la altura mínima y resistencia al fuego.
+
+Para acogerse a este procedimiento simplificado, el propietario deberá presentar ante la respectiva Dirección de Obras Municipales los siguientes antecedentes:
+
+a) Solicitud de permiso de reconstrucción firmada por el propietario y el arquitecto del proyecto, que incluya una declaración simple de ser titular del dominio del predio, e indicando el número y fecha de los actos administrativos con el que se otorgó el permiso y la recepción definitiva de la edificación dañada que se reconstruye, salvo en el caso de edificaciones construidas con anterioridad a la entrada en vigencia de la ley N° 4.563 o declaradas área de protección de recursos de valor patrimonial cultural. En todos los casos deberá señalarse igualmente la superficie edificada y la altura de la edificación aprobada si corresponde, utilizando para ello el Formulario Único Nacional respectivo.
+
+b) Declaración jurada simple suscrita por el propietario que acredite que la edificación dañada por la catástrofe fue demolida total o parcialmente, o copia del decreto municipal que declaró su inhabitabilidad total o parcial, de conformidad al artículo 161 bis de la Ley General de Urbanismo y Construcciones.
+
+c) Formulario único de estadísticas de edificación o el certificado de ingreso electrónico de dicho formulario.
+
+d) Plano de plantas de arquitectura, firmado por el propietario y el arquitecto, elaborado conforme a las copias de los planos del permiso de la respectiva edificación archivados en la Dirección de Obras Municipales o en poder del propietario, en caso de corresponder, incluyendo un plano de ubicación del predio de este permiso con sus dimensiones. El constructor a cargo de las respectivas obras de reconstrucción deberá ajustarse a estos mismos antecedentes.
+
+Tratándose de edificaciones cuyo destino sea distinto al de vivienda corresponderá adjuntar, además, cortes y elevaciones de las fachadas principales conforme a estas mismas.
+
+El o los planos deberán acreditar el cumplimiento de las normas urbanísticas.
+
+e) Especificaciones técnicas, firmadas por el arquitecto, señalando las partidas más relevantes de la obra.
+
+f) Proyecto de cálculo estructural, cuando proceda conforme al artículo 5.1.7. de esta Ordenanza.
+
+g) Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación de acuerdo al artículo 5.1.25. de esta Ordenanza.
+
+h) Informe favorable de un Revisor Independiente, cuando sea obligatoria su participación.
+
+i) Certificado de factibilidad de otorgamiento de servicios de agua potable y alcantarillado, emitido por la empresa concesionaria de servicios sanitarios correspondiente, o bien fotocopia de los respectivos recibos de pago de esos servicios en caso que la solicitud se refiera a un predio que contaba con éstos, en tanto no se aumente las instalaciones respectivas. De no existir empresa de servicios sanitarios en el área, se deberá presentar un proyecto de agua potable y alcantarillado, el que deberá estar aprobado por la autoridad sanitaria antes de la recepción final de la obra. Para dichos efectos podrá presentarse el proyecto con que se otorgó el permiso y la recepción definitiva de la edificación dañada que se reconstruye, en tanto no se aumenten las instalaciones respectivas. A los conjuntos de vivienda o vivienda singular a los que se refiere el Título 6 de esta Ordenanza emplazadas en el área rural, les serán aplicables las condiciones de urbanización mínima establecidas en los artículos 6.3.3. y 6.3.4., según corresponda.
+
+La Dirección de Obras Municipales otorgará el permiso requerido con el solo mérito de la presentación de los antecedentes requeridos, a condición de que se cumpla con lo dispuesto precedentemente, previo pago de los derechos municipales que correspondan.
+
+Los derechos municipales corresponderán a los contemplados en el numeral 5 del artículo 130 de la Ley General de Urbanismo y Construcciones.
+
+3. Permisos de Edificación para Reposición de viviendas o de edificaciones con otros destinos
+
+Las solicitudes de permisos de edificación para la reposición de viviendas, conforme a la definición contenida en el artículo 7.2.1. de esta Ordenanza, deberán cumplir únicamente las normas urbanísticas del respectivo Instrumento de Planificación Territorial referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, y las franjas afectas a declaratoria de utilidad pública.
+
+Las solicitudes de permisos de edificación para la reposición de construcciones con destinos diferentes a vivienda, deberán cumplir con todas las normas urbanísticas del Instrumento de Planificación Territorial respectivo, con excepción de las normas sobre uso de suelo cuando se trate de la reposición de edificaciones destinadas a las clases de equipamiento salud, educación o seguridad.
+
+Sin perjuicio de lo anterior, los proyectos a los que se refiere este numeral deberán cumplir con las siguientes normas de esta Ordenanza:
+
+- Las establecidas en el Título 4 "De la Arquitectura", relativas a normas de habitabilidad, normas generales de seguridad y seguridad contra incendio.
+
+- Las establecidas en el artículo 5.1.7. sobre proyecto de cálculo estructural, cuando corresponda.
+
+- Las establecidas en los artículos 5.9.1., 5.9.2. y 5.9.3., relativas a instalaciones domiciliarias de agua potable y alcantarillado, y a las instalaciones interiores de electricidad y de gas, respectivamente. Cuando corresponda, deberán cumplir además con las disposiciones establecidas en el artículo 5.9.5. sobre ascensores e instalaciones similares, y con las del artículo 5.9.7. sobre instalaciones de telecomunicaciones.
+
+- Las establecidas en los artículos 2.6.2. y 2.6.3., sobre adosamientos, distanciamientos y rasantes.
+
+Para acogerse a este procedimiento simplificado, el propietario deberá presentar ante la Dirección de Obras Municipales los siguientes antecedentes:
+
+a) Solicitud de permiso de edificación firmada por el propietario y el arquitecto del proyecto, que incluya una declaración simple de ser titular del dominio del predio, e indicando además el número y fecha de los actos administrativos con el que se aprobó el permiso y con el que se obtuvo la recepción definitiva de la edificación que se repone; salvo en el caso de edificaciones construidas con anterioridad a la entrada en vigencia de la ley N° 4.563, señalando igualmente la superficie edificada y la altura de la edificación, utilizando para ello el Formulario Único Nacional respectivo.
+
+b) Declaración jurada simple suscrita por el propietario que acredite que la edificación dañada por la catástrofe fue demolida total o parcialmente, o copia del decreto municipal que declaró su inhabitabilidad total o parcial en conformidad al artículo 161 bis de la Ley General de Urbanismo y Construcciones.
+
+c) Formulario único de estadísticas de edificación o el certificado de ingreso electrónico de dicho formulario.
+
+d) Planos de arquitectura a escala 1:50, firmados por el propietario y el arquitecto, en que se grafiquen las plantas de todos los pisos, cortes y elevaciones con las cotas mínimas indispensables, que permitan calcular las superficies edificadas y la carga de ocupación del proyecto, con singularización de los recintos según su destino, un cuadro de superficies y un plano de ubicación del predio del permiso, con sus dimensiones.
+
+Tratándose de edificaciones cuyo destino sea distinto al de vivienda corresponderá adjuntar, además, cortes y elevaciones de las fachadas principales.
+
+El o los planos deberán acreditar el cumplimiento de las normas urbanísticas.
+
+e) Especificaciones técnicas, firmadas por el arquitecto, señalando las partidas más relevantes de la obra.
+
+f) Proyecto de cálculo estructural, cuando proceda conforme al artículo 5.1.7. de esta Ordenanza.
+
+g) Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando sea obligatoria su contratación de acuerdo al artículo 5.1.25. de esta Ordenanza.
+
+h) Informe favorable de un Revisor Independiente, cuando sea obligatoria su contratación.
+
+i) Certificado de factibilidad de otorgamiento de servicios de agua potable y alcantarillado, emitido por la empresa concesionaria de servicios sanitarios correspondiente, o bien fotocopia de los respectivos recibos de pago de esos servicios en caso que la solicitud se refiera a un predio que contaba con éstos, en tanto no se aumente las instalaciones respectivas. De no existir empresa de servicios sanitarios en el área, se deberá presentar un proyecto de agua potable y alcantarillado, el que deberá estar aprobado por la autoridad sanitaria antes de la recepción final de la obra.
+
+La Dirección de Obras Municipales otorgará el permiso de edificación con el solo mérito de la presentación de los antecedentes requeridos, a condición de que se cumpla con lo dispuesto precedentemente, previo pago de los derechos municipales que correspondan.
+
+Cuando se trate de los proyectos tipo a los que se refiere el artículo 5.1.28. de esta Ordenanza, en reemplazo de los antecedentes señalados en los literales e), f), g), y h) anteriores, solo será necesario presentar un plano de emplazamiento y las fotocopias de los antecedentes que específicamente traten del proyecto tipo aprobado, en lo equivalente a las letras mencionadas. No obstante, se deberá incluir un informe de un ingeniero civil sobre la calidad del subsuelo del predio que permita asegurar la estabilidad del proyecto tipo, incluyendo, de ser necesario, el proyecto con las obras adicionales. Los planos mencionados en el literal d) de este numeral podrán reemplazarse siempre que los planos del proyecto tipo o el de emplazamiento incluyan la información necesaria para acreditar el cumplimiento de las normas urbanísticas que les sean aplicables.
+
+Cuando las solicitudes de permiso a que alude este numeral se refieran a predios ubicados fuera de los límites urbanos establecidos en los Planes Reguladores, deberá darse cumplimiento a lo dispuesto en el artículo 55° de la Ley General de Urbanismo y Construcciones, y a lo previsto en materia de estándares mínimos de urbanización fuera del terreno propio, conforme a lo establecido en el artículo 2.2.4 bis de esta Ordenanza, cuando corresponda. A los conjuntos de vivienda o vivienda singular a que se refiere el Título 6 de esta Ordenanza, cuando se emplacen en el área rural, les serán aplicables las condiciones de urbanización mínima establecidas en los artículos 6.3.3. y 6.3.4., según corresponda.
+
+Los derechos municipales corresponderán a los contemplados en el número 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, salvo que se trate de una ampliación por reposición parcial de una vivienda social a la que alude el penúltimo inciso del artículo 116 bis D) de la Ley General de Urbanismo y Construcciones, en cuyo caso queda exenta de pago de derechos municipales.
+
+#### Artículo 7
+
+2.4. Las reparaciones que sea necesario efectuar a una edificación dañada por una catástrofe, excluidas aquellas referidas en el artículo anterior, deberán tramitarse mediante permisos de reparación conforme a lo establecido en el primer párrafo del numeral 3 del artículo 5.1.4. de esta Ordenanza.
+
+#### Artículo 7
+
+2.5. Si después de concedido el permiso de edificación, reconstrucción, reparación, o el permiso de urbanización o loteo con construcción simultánea, y antes de la recepción definitiva de las respectivas obras, hubiere necesidad de introducir modificaciones o variantes en el proyecto o en la ejecución de las obras, deberá presentarse ante el Director de Obras Municipales la solicitud de modificación de permiso, antes de la recepción definitiva.
+
+Las solicitudes de modificación de proyectos de edificación aprobados con las normas de los numerales 1 y 2 del artículo 7.2.3., se tramitarán conforme al artículo 5.1.17. de esta Ordenanza, sin perjuicio de la aplicación del artículo 5.2.8. cuando corresponda. Si las modificaciones inciden en el proyecto de cálculo estructural, deberán adjuntarse, debidamente modificados, los documentos a que se refiere el artículo 5.1.7. de esta Ordenanza. Tratándose de proyectos de cálculo estructural que deben someterse a revisión conforme al artículo 5.1.25., estos documentos deberán estar visados por el Revisor de Proyecto de Cálculo Estructural.
+
+Las solicitudes de modificación de proyectos de loteo o loteo con construcción simultánea aprobados con las normas del numeral 1 del artículo 7.2.3. de este capítulo, se tramitarán conforme a las disposiciones del artículo 3.1.9. de esta Ordenanza.
+
+Las solicitudes de modificación de los permisos antes referidos solo podrán ser ingresadas durante la vigencia del plazo máximo de dos años, o su prórroga, al que hace referencia el artículo 7.2.1. de esta Ordenanza.
+
+Una vez vencido el plazo antes señalado y hasta antes de la recepción definitiva de las obras, excepcionalmente el propietario podrá solicitar la modificación del permiso del proyecto en base a las mismas normas con que éste fue aprobado, siempre que la modificación no contemple un aumento de superficie edificada mayor al 5% o nuevos destinos no admitidos por la normativa vigente al momento de solicitar la modificación. En el caso de proyectos de loteo o loteo con construcción simultánea, el número de lotes no se podrá aumentar en más de un 20% y la superficie destinada a vialidad, áreas verdes y equipamiento no se disminuya en más de un 20%.
+
+## Capítulo 3
+
+RECEPCIONES DE OBRAS QUE SE REALICEN EN ZONAS DECRETADAS AFECTADAS POR CATÁSTROFE
+
+#### Artículo 7
+
+3.1. Las normas contenidas en los artículos 5.2.1., 5.2.2., 5.2.3. y 5.2.4. de esta Ordenanza, serán aplicables a las obras que se ejecuten de conformidad a los artículos 7.2.2. y 7.2.3. de esta Ordenanza.
+
+#### Artículo 7
+
+3.2. Las recepciones a las que se refiere este Capítulo no requerirán autorizaciones o pronunciamientos de otros organismos del Estado, salvo que se trate de modificaciones de cauces a los que se refiere el artículo 116 bis D) de la Ley General de Urbanismo y Construcciones.
+
+#### Artículo 7
+
+3.3. Terminada una obra, o parte de la misma, que pueda habilitarse independientemente, emplazada en zonas que hubiesen sido declaradas afectadas por catástrofe, y cuyo permiso se otorgó conforme a los artículos 7.2.2. y 7.2.3. de esta Ordenanza, el propietario y el arquitecto solicitarán su recepción definitiva a la Dirección de Obras Municipales, o a la Secretaría Regional Ministerial de Vivienda y Urbanismo cuando corresponda. Sin perjuicio de las recepciones definitivas parciales, deberá haber, en todo caso, una recepción definitiva del total de las obras.
+
+A la solicitud de recepción definitiva parcial o total de las obras, se deberá adjuntar los certificados de recepción de las instalaciones de electricidad, agua potable, alcantarillado, gas o telecomunicaciones, cuando corresponda, emitidos por la autoridad competente, y un informe del arquitecto, y del revisor independiente cuando sea obligatoria su participación en el respectivo permiso, señalando que la obra fue construida de conformidad al permiso otorgado, incluidas sus modificaciones, y a las normas señaladas en los artículos 7.2.2. y 7.2.3. de esta Ordenanza. La recepción definitiva de las obras de reparación que se ejecuten en conformidad al artículo 7.2.2., comprenderá la regularización de la construcción existente.
+
+#### Artículo 7
+
+3.4. Ningún edificio podrá habitarse antes de que se haya cursado la recepción definitiva. Sin embargo, la Dirección de Obras Municipales, a solicitud fundada del Servicio de Vivienda y Urbanización respectivo, podrá autorizar excepcionalmente que se habite parte o la totalidad de edificaciones destinadas a vivienda de interés público que formen parte de un plan de reconstrucción regional o municipal, siempre que no existan inconvenientes habida consideración de la cantidad de damnificados que puedan acceder a una solución de vivienda definitiva, a la naturaleza y extensión territorial de la catástrofe, las condiciones climáticas del área de emplazamiento del proyecto y la estación del año, y otras circunstancias influyentes desde el punto de vista higiénico o concernientes a la salud pública.
+
+Para proceder a la autorización que señala el inciso precedente, la Dirección de Obras Municipales deberá inspeccionar en terreno las obras y levantar un acta de estado actual de las construcciones. Con todo, dicha autorización excepcional no podrá otorgarse si se toma conocimiento que estas edificaciones adolecen de alguna contravención a las normas que les sean aplicables. Esta autorización se otorgará, sin perjuicio de las recepciones definitivas parciales que se requieran, debiendo en todo caso haber una recepción definitiva total de las respectivas obras.
+
+## Capítulo 4
+
+OTORGAMIENTO DE PERMISOS Y RECEPCIONES DE OBRAS POR LAS SECRETARÍAS REGIONALES MINISTERIALES DE VIVIENDA Y URBANISMO EN ZONAS QUE HUBIESEN SIDO DECRETADAS AFECTADAS POR CATÁSTROFE
+
+#### Artículo 7
+
+4.1. Los permisos y recepciones de obras de qué trata este Título podrán ser otorgados por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo cuando se trate de las siguientes situaciones:
+
+a) Solicitudes sobre las cuales la Dirección de Obras Municipales no se hubiere pronunciado dentro del plazo máximo establecido en esta Ordenanza, o respecto a las cuales hubiese emitido observaciones improcedentes de acuerdo con las normas especiales dispuestas en este Título.
+
+b) Solicitudes referidas a obras ubicadas en localidades distantes más de treinta kilómetros de la ciudad en que se emplaza la Dirección de Obras Municipales.
+
+Las solicitudes de permiso y recepción definitiva de obras presentadas ante las Secretarías Regionales Ministeriales de Vivienda y Urbanismo deberán cumplir con las normas y con los antecedentes exigidos para cada tipo de solicitud de acuerdo con lo establecido en los artículos 7.2.2., 7.2.3., 7.3.1., 7.3.2. y 7.3.3. de esta Ordenanza.
+
+Adicionalmente, para los casos de la letra a), deberá acompañarse a la solicitud los documentos que den cuenta de la situación descrita en el mencionado literal, tales como el comprobante debidamente timbrado y fechado del ingreso realizado ante la Dirección de Obras Municipales, o el acta de observaciones emitida, según corresponda. La situación descrita en la letra b) de este artículo deberá ser verificada por la Secretaría Regional Ministerial de acuerdo con los antecedentes que conforman el expediente respectivo.
+
+La Secretaría Regional Ministerial de Vivienda y Urbanismo, previo al otorgamiento del permiso o recepción definitiva según corresponda, deberá consultar la opinión de la Dirección de Obras Municipales respectiva, la cual deberá remitir su informe dentro del plazo de cinco días hábiles contados desde la recepción de la solicitud. Cumplido el plazo antes referido, en caso de no haberse recibido el señalado informe, la Secretaría Regional Ministerial de Vivienda y Urbanismo resolverá la solicitud prescindiendo del mismo, con el mérito de los antecedentes presentados por el solicitante.
+
+Cumplido lo anterior, las Secretarías Regionales Ministeriales de Vivienda y Urbanismo deberán pronunciarse sobre las solicitudes de permiso o recepción definitiva de obras a que se refiere este artículo, dentro del plazo establecido en el artículo 118 de la Ley General de Urbanismo y Construcciones, y los concederán, si los antecedentes acompañados cumplen con las normas especiales dispuestas en este Título, previo pago de los derechos que procedan conforme al artículo 130 de la Ley General de Urbanismo y Construcciones.
+
+#### Artículo 7
+
+4.2. Otorgado un permiso o recepción definitiva de obras por parte de la Secretaría Regional Ministerial de Vivienda y Urbanismo conforme a lo dispuesto en este Capítulo, dicha Secretaria, para los efectos de archivo y catastro, deberá remitir los planos y antecedentes de la construcción, a la respectiva Dirección de Obras Municipales en un plazo no superior a treinta días contados desde el otorgamiento del permiso o recepción según corresponda, junto con el pago de los derechos municipales correspondientes.
+
+## Capítulo 5
+
+PROYECTOS DE INTERÉS PÚBLICO
+
+#### Artículo 7
+
+5.1. El Ministerio de Vivienda y Urbanismo, mediante resolución, podrá calificar un proyecto de construcción específico como "proyecto de interés público". Efectuada dicha calificación, se entenderá que el proyecto forma parte de las nuevas construcciones a que se refiere el inciso primero del artículo 116 bis D de la Ley General de Urbanismo y Construcciones, aun cuando no forme parte de los planes de reconstrucción regionales o municipales.
+
+En consecuencia, el proyecto calificado de interés público mediante resolución del Ministerio de Vivienda y Urbanismo podrá acogerse a las normas especiales y procedimientos simplificados que correspondan establecidos bajo este Título, para cuyo efecto la referida resolución deberá adjuntarse a la solicitud respectiva.
+
+La resolución que califique un proyecto determinado como uno de interés público deberá ser fundada dando cuenta expresa de las razones que justifican acogerse a dichas normas y procedimientos. Dicha resolución deberá publicarse en el Diario Oficial
+
+#### Artículo 7
+
+5.2. Para estos efectos, se entenderá por proyecto de interés público aquel que considere la construcción de viviendas de interés público, o de bienes públicos urbanos relevantes, de acuerdo con lo establecido en el artículo 27 de la Ley General de Urbanismo y Construcciones.
+
 #### Artículo SEGUNDO
 
 Deróganse el D.F.L. N° 345, de 1931 y el D.S. N° 884 (M.O.P.), de 1949, que conforman la Ordenanza General de Construcciones y Urbanización cuyo texto se reemplaza por el que fija el artículo primero de este decreto; derógase asimismo el D.S. N° 168, (V. y U.), de 1984, que fijó el texto actualizado del Reglamento Especial de Viviendas Económicas a que se refiere el artículo 1° del D.F.L. N° 2, de 1959.
@@ -11332,7 +11866,7 @@ Lo señalado en este numeral será aplicable a toda solicitud de permiso en que 
 
 #### Artículo transitorio
 
-Se entenderán prorrogados por dieciocho meses adicionales, aquellos permisos de construcción que, encontrándose vigentes a la fecha de entrada en vigencia de esta norma, no han iniciado las obras correspondientes.
+Se entenderán prorrogados por treinta meses adicionales, aquellos permisos de construcción que, encontrándose vigentes a la fecha de entrada en vigencia de esta norma, no han iniciado las obras correspondientes.
 
 Anótese, tómese razón y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Alberto Etchegaray Aubry, Ministro de Vivienda y Urbanismo.
 
