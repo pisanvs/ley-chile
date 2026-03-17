@@ -190,9 +190,7 @@ El Depósito no entregará gratuitamente obra ni publicación alguna sino con or
 
 El empleado encargado del Depósito deberá informarse periódicamente de las nuevas publicaciones oficiales que se editen, a fin de requerir respecto de ellas el cumplimiento de lo ordenado en el artículo 1.° del Decreto-Ley núm. 388.
 
-#### Artículo 27
-
-La comisión establecida por el artículo 5.° del Decreto-Ley 388 se reunirá dos veces al año, para tomar conocimiento del balance del Depósito y adoptar todas las medidas que estime necesarias para el buen desempeño de sus funciones de supervigilancia.
+ArtArtículo 27. La comisión establecida por el artículo 5.° del Decreto-Ley 388 se reunirá dos veces al año, para tomar conocimiento del balance del Depósito y adoptar todas las medidas que estime necesarias para el buen desempeño de sus funciones de supervigilancia.
 
 En casos necesarios la Comisión puede ser convocada por el Director General a reuniones extraordinarias.
 
@@ -822,7 +820,7 @@ De los Seminarios
 
 #### Artículo 129
 
-, Los seminarios serán salas especiales que el Director General concederá, por plazos prudenciales que se fijarán en cada caso, a personas que necesiten realizar por sí mismas trabajos de investigación científica, histórica, artística y literaria, o enseñar prácticamente a un número reducido de discípulos labores de las índoles indicadas.
+Los seminarios serán salas especiales que el Director General concederá, por plazos prudenciales que se fijarán en cada caso, a personas que necesiten realizar por sí mismas trabajos de investigación científica, histórica, artística y literaria, o enseñar prácticamente a un número reducido de discípulos labores de las índoles indicadas.
 
 #### Artículo 130
 
@@ -1230,9 +1228,7 @@ Por ningún motivo podrán salir del recinto del Museo las obras de la Bibliotec
 
 El Bibliotecario hará los catálogos y llevará una estadística clasificada de los libros y demás publicaciones que el público consulte.
 
-De la extensión cultural y la cooperación a la
-
-enseñanza
+De la extensión cultural y la cooperación a la enseñanza
 
 #### Artículo 181 bis
 
@@ -1369,6 +1365,50 @@ Para la destinación de los objetos donados, se respetará la voluntad del donan
 #### Artículo 205
 
 Mientras los Museos de provincias no adquieran una especialidad definida, la Dirección General les dictará los respectivos reglamentos, pero basándose para ello en las normas fundamentales establecidas en el presente Decreto para los Museos de Santiago.
+
+## Título VIII
+
+Cineteca Nacional
+
+#### Artículo 205 bis
+
+La Cineteca Nacional tiene como misión la restauración, conservación y difusión del patrimonio fílmico nacional y mundial. Es la encargada de recibir los depósitos que establece el artículo 14º de la ley Nº 19.733, sobre Libertades de Opinión e Información y Ejercicio del Periodismo, sin perjuicio de lo dispuesto en dicha ley respecto de la Biblioteca Nacional.
+
+#### Artículo 205 ter
+
+Corresponderá especialmente a la Cineteca Nacional las siguientes funciones y atribuciones:
+
+a) Conservar el patrimonio fílmico.
+
+b) Digitalizar materiales fílmicos, videos y archivos no - fílmicos.
+
+c) Conservar el patrimonio audiovisual en archivo fílmico, video, digital y de documentos relacionados a su producción, a nivel nacional.
+
+d) Catalogar, documentar y gestionar el acervo fílmico y documental.
+
+e) Restaurar física y digitalmente archivos audiovisuales.
+
+f) Preservar las obras que, en virtud de una licencia de uso de los derechos patrimoniales de autor, autorizan a la Cineteca para su exhibición en sus salas, con el objeto de fomentar su valoración y difusión.
+
+g) Realizar servicios de laboratorio digital y documental que contribuyan a la conservación y difusión del patrimonio fílmico.
+
+h) Recibir los depósitos que establece el artículo 14º de la ley Nº 19.733, sobre Libertades de Opinión e Información y Ejercicio del Periodismo.
+
+i) Programar y difundir cine chileno y mundial, en virtud de una licencia de uso de los derechos patrimoniales de autor, en las salas de cine de la Cineteca Nacional.
+
+j) Promover y desarrollar iniciativas de extensión y difusión de cine chileno a nivel nacional e internacional.
+
+k) Programar y gestionar, en virtud de una licencia de uso de los derechos patrimoniales de autor, la plataforma online de Cineteca para la exhibición de cine chileno en línea.
+
+l) Realizar actividades de desarrollo, formación, mediación y participación de públicos de todas las edades, de acuerdo con su misión institucional.
+
+m) Impulsar y apoyar la creación y coordinación de cineclubes escolares al interior de establecimientos educacionales.
+
+n) Producir anualmente el Festival de la Cineteca Nacional.
+
+o) Propiciar u organizar encuentros internacionales de investigación de cine chileno y del mundo, además de instancias para fomentar el estudio y puesta en valor del acervo de la institución.
+
+p) Elaborar publicaciones y ediciones especiales relacionadas al quehacer de la Cineteca Nacional y a la salvaguarda y difusión del cine chileno.
 
 #### Artículo 206
 
