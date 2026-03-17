@@ -18,9 +18,63 @@ Resuelvo:
 
 2.1 El material procede de un programa de producción bajo certificación oficial o de viveros o centros epositoriosr de germoplasma, que se encuentren bajo el control del organismo fitosanitario oficial del país exportador.
 
-2.2 Además, se debe indicar en el Certificado Fitosanitario las siguientes declaraciones adicionales, específicas para cada especie y tipo de material de reproducción que a continuación se señalan:
+2.2 Además, se debe indicar en el Certificado Fitosanitario las siguientes declaraciones adicionales, para cada tipo de material de reproducción que a continuación se señalan:
 
-.
+2.2.1 Las plantas fueron inspeccionadas durante la última temporada de crecimiento y encontradas libres de Colletotrichum acutatum.
+
+2.2.2 Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas por (especificar el/los protocolo(s) o método(s) de diagnóstico) en el momento óptimo para la detección de las plagas y encontradas libres de Cherry leaf roll virus, Cherry rasp leaf virus, Little cherry virus 2, Raspberry ringspot virus, Tomato bushy stunt virus, "Candidatus P. pruni" (Peach X -disease), Xanthomonas arborícola pv. pruni y Xylella fastidiosa.
+
+2.2.3 El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos:
+
+. Eotetranychus carpini (Ac.: Tetranychidae)
+
+. Tetranychus mcdanieli (Ac.: Tetranychidae)
+
+. Tetranychus pacificus (Ac.: Tetranychidae)
+
+. Anarsia lineatella (Lep.: Gelechiidae)
+
+. Anoplophora glabripennis (Col.: Cerambycidae)
+
+. Archips spp. (Lep.: Tortricidae)
+
+. Argyresthia pruniella (Lep.: Yponomeutidae)
+
+. Choristoneura rosaceana (Lep.: Tortricidae)
+
+. Cydia spp. (Lep.: Tortricidae)
+
+. Enarmonia formosana (Lep.: Tortricidae)
+
+. Euzophera semifuneralis (Lep.: Pyralidae)
+
+. Hedya nubiferana (Lep.: Tortricidae)
+
+. Malacosoma disstria (Lep.: Lasiocampidae)
+
+. Metcalfa pruinosa (Hem.: Flatidae)
+
+. Myzus cerasi (Hem.: Aphididae)
+
+. Operophtera brumata (Lep.: Geometridae)
+
+. Pandemis heparana (Lep.: Tortricidae)
+
+. Phenacoccus aceris (Hem.: Pseudococcidae)
+
+. Quadraspidiotus ostreaeformis (Hem.: Diaspididae)
+
+. Recurvaria nanella (Lep.: Gelechiidae)
+
+. Spilonota ocellana (Lep.: Tortricidae)
+
+. Synanthedon spp. (Lep.: Sesiidae)
+
+. Taeniothrips inconsequens (Thys.: Thripidae)
+
+. Zeuzera pyrina (Lep.: Cossidae)
+
+2.2.4 Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que se encuentran libres de Phytophthora cambivora y Xiphinema americanum sensu stricto, de acuerdo con el resultado de un análisis oficial de laboratorio.
 
 3. El material debe haber sido sometido a un tratamiento de desinfestación por inmersión contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente al tratamiento, el producto, tipo de aplicación y dosis utilizadas.
 
@@ -44,9 +98,7 @@ Resuelvo:
 
 8. Para los materiales modificados genéticamente por biotecnología moderna, el importador deberá declarar su condición genética y cumplir con las normativas del Servicio Agrícola y Ganadero, que establecen los requisitos para la internación e introducción al medio ambiente de estos materiales.
 
-> **Nota.** El N° 1 de la Resolución 8700 Exenta, Agricultura, publicada el 13.12.2014, modifica la presente norma en el sentido de eliminar en su resuelvo número 2.2., primer párrafo de la columna Declaración Adicional, la siguiente frase "y Monilinia fructicola".
-
-> **Nota.** NOTA 1 El N° 1 de la resolución 6726 Exenta, Agricultura, publicada el 11.11.2017, modifica la presente norma en el sentido de agregar en su resuelvo 2, en en el punto 2.2., para la especie Cerezo (Prunun avium), plantas, estacas y ramillas, una nueva viñeta en la declaración adicional: "El material vegetal procede de plantas madres que fueron inspeccionadas y analizadas mediante (especificar técnica de diagnóstico) en el momento óptimo para la detección de la plaga, y encontradas libres de Xylella fastidiosa."
+9. El ingreso del material vegetal al país y trámite de importación solo podrá realizarse en la Oficina SAG de Comercio Exterior situada en el Aeropuerto Internacional Arturo Merino Benítez, de la ciudad de Santiago, Región Metropolitana.
 
 Disposición transitoria:
 
