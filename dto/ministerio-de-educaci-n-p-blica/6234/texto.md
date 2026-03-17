@@ -70,7 +70,7 @@ Para los casos de ausencia, enfermedad o licencia por menor tiempo, el Director 
 
 De las asignaciones y donaciones
 
-Art. 3° La Comisión Administradora de las donaciones, herencias y legados a que se refieren los artículos 2.° y 3.° de la Ley 4,439, se reunirá siempre que sea necesario su funcionamiento, a requisición del Director General, en los días y horas que éste señale; y podrá tomar acuerdos con la asistencia de dos de sus miembros.
+Artículo 3° La Comisión Administradora de las donaciones, herencias y legados a que se refieren los artículos 2.° y 3.° de la Ley 4,439, se reunirá siempre que sea necesario su funcionamiento, a requisición del Director General, en los días y horas que éste señale; y podrá tomar acuerdos con la asistencia de dos de sus miembros.
 
 Los acuerdos se tomarán por mayoría absoluta, y, en caso de dispersión de votos, decidirá el Presidente de la República.
 
@@ -100,7 +100,7 @@ Para cumplir con esta obligación, como para todas las gestiones judiciales y ex
 
 De la Visitación de Imprentas y Bibliotecas
 
-Art. 7.° La Visitación de Imprentas y Bibliotecas es el organismo encargado de ejecutar las disposiciones contenidas en el Decreto-Ley núm. 425, y de efectuar las visitas de inspección a las bibliotecas públicas y departamentales, conforme a las determinaciones de la Dirección General
+Artículo 7.° La Visitación de Imprentas y Bibliotecas es el organismo encargado de ejecutar las disposiciones contenidas en el Decreto-Ley núm. 425, y de efectuar las visitas de inspección a las bibliotecas públicas y departamentales, conforme a las determinaciones de la Dirección General
 
 #### Artículo 8°
 
@@ -180,7 +180,7 @@ Llevará además una matrícula de las bibliotecas públicas del país y mantend
 
 De la Propiedad Intelectual
 
-Art. 17. El Departamento de Derechos Intelectuales, cuya jefatura corresponde al Conservador Abogado de Derechos Intelectuales, y que tiene a su cargo el Registro de la Propiedad Intelectual, se regirá por la Ley Nº 17.336 sobre Propiedad Intelectual, sus modificaciones y los reglamentos que correspondan.
+Artículo 17. El Departamento de Derechos Intelectuales, cuya jefatura corresponde al Conservador Abogado de Derechos Intelectuales, y que tiene a su cargo el Registro de la Propiedad Intelectual, se regirá por la Ley Nº 17.336 sobre Propiedad Intelectual, sus modificaciones y los reglamentos que correspondan.
 
 #### Artículo 18
 
@@ -206,7 +206,7 @@ Derogado.
 
 Del Depósito de Publicaciones Oficiales
 
-Art. 21. El Depósito de Publicaciones Oficiales funcionará bajo la dirección inmediata del Director General, el cual procurará todos los medios necesarios para su buen funcionamiento.
+Artículo 21. El Depósito de Publicaciones Oficiales funcionará bajo la dirección inmediata del Director General, el cual procurará todos los medios necesarios para su buen funcionamiento.
 
 #### Artículo 22
 
@@ -246,7 +246,7 @@ El empleado encargado del Depósito deberá informarse periódicamente de las nu
 
 <!-- parte:9041791 -->
 
-La comisión establecida por el artículo 5.° del Decreto-Ley 388 se reunirá dos veces al año, para tomar conocimiento del balance del Depósito y adoptar todas las medidas que estime necesarias para el buen desempeño de sus funciones de supervigilancia.
+ArtArtículo 27. La comisión establecida por el artículo 5.° del Decreto-Ley 388 se reunirá dos veces al año, para tomar conocimiento del balance del Depósito y adoptar todas las medidas que estime necesarias para el buen desempeño de sus funciones de supervigilancia.
 
 En casos necesarios la Comisión puede ser convocada por el Director General a reuniones extraordinarias.
 
@@ -260,7 +260,7 @@ Salvo disposición contraria, integrará la Comisión, como funcionario de Hacie
 
 De las Bibliotecas Departamentales y de las Públicas
 
-Art. 28. Las bibliotecas departamentales ajustarán sus procedimientos técnicos, horarios y usos para el servicio del público, a las instrucciones que les imparta la Dirección General, y toda iniciativa de los jefes de ellas será sometida a la aprobación de dicha superioridad. Estas instrucciones podrán ser variables, a fin de que los usos se adapten a la región en que la biblioteca se encuentre.
+Artículo 28. Las bibliotecas departamentales ajustarán sus procedimientos técnicos, horarios y usos para el servicio del público, a las instrucciones que les imparta la Dirección General, y toda iniciativa de los jefes de ellas será sometida a la aprobación de dicha superioridad. Estas instrucciones podrán ser variables, a fin de que los usos se adapten a la región en que la biblioteca se encuentre.
 
 #### Artículo 29
 
@@ -306,7 +306,7 @@ Cumplido este requisito, el Director General, previa resolución de que se admit
 
 De la Biblioteca de Escritores de Chile
 
-Art. 33. Para los efectos del artículo 4.° del Decreto-ley número 389, de 18 de Marzo de 1925, el representante del ex-Consejo de Instrucción Pública, será sustituído por uno del Consejo Universitario.
+Artículo 33. Para los efectos del artículo 4.° del Decreto-ley número 389, de 18 de Marzo de 1925, el representante del ex-Consejo de Instrucción Pública, será sustituído por uno del Consejo Universitario.
 
 #### Artículo 34
 
@@ -334,7 +334,7 @@ En caso de hacerse precisa una prorrata, debido al número de ejemplares editado
 
 Del Secretario - abogado
 
-Art. 37. Corresponde al Secretario-Abogado:
+Artículo 37. Corresponde al Secretario-Abogado:
 
 a) Tener a su cargo la tramitación de todo el despacho de la Dirección General y de la Biblioteca Nacional;
 
@@ -360,7 +360,7 @@ h) La atención directa del público en cuanto a los servicios de la Dirección 
 
 Del Contador
 
-Art. 38. Corresponde al Contador:
+Artículo 38. Corresponde al Contador:
 
 a) Llevar la contabilidad de la Dirección General, de la Biblioteca Nacional, del Archivo Nacional y de los Museos de Santiago;
 
@@ -384,7 +384,7 @@ h) DEROGADA
 
 De los empleados y el escalafon
 
-Art. 39. Corresponderá al Jefe del Personal la atención de todo lo relacionado con los derechos de los empleados del Servicio, a saber, nombramientos, permutas, traslados, permisos, licencias, feriados, etc., y el control del cumplimiento de sus obligaciones funcionarias para lo cual organizará la Oficina del Personal, de acuerdo con las instrucciones que reciba de la Dirección.
+Artículo 39. Corresponderá al Jefe del Personal la atención de todo lo relacionado con los derechos de los empleados del Servicio, a saber, nombramientos, permutas, traslados, permisos, licencias, feriados, etc., y el control del cumplimiento de sus obligaciones funcionarias para lo cual organizará la Oficina del Personal, de acuerdo con las instrucciones que reciba de la Dirección.
 
 El jefe del personal llevará un escalafón general de todo el servicio, y cada jefe de establecimiento llevará otro particular de los empleados de su dependencia.
 
@@ -512,7 +512,7 @@ BIBLIOTECA NACIONAL
 
 De la distribución de los Servicios
 
-Art. 56. La Biblioteca Nacional dividirá sus servicios fudamentales en las siguientes secciones:
+Artículo 56. La Biblioteca Nacional dividirá sus servicios fudamentales en las siguientes secciones:
 
 Fondo general Americana Chilena Lectura a domicilio Infantil Canjes y Encuadernación Catalogación, Control e Informaciones.
 
@@ -572,7 +572,7 @@ Expirado el plazo del préstamo, el jefe de la sección exigirá diligentemente 
 
 De los diarios, los periódicos y las revistas de Chile
 
-Art. 62. La sub-Sección de diarios, periódicos y revistas de Chile recibirá diariamente los impresos a ella destinados y procederá de inmediato a su catalogación y ubicación, para que puedan ser consultados sin demora por el público.
+Artículo 62. La sub-Sección de diarios, periódicos y revistas de Chile recibirá diariamente los impresos a ella destinados y procederá de inmediato a su catalogación y ubicación, para que puedan ser consultados sin demora por el público.
 
 #### Artículo 63
 
@@ -626,7 +626,7 @@ Los empleados de la sub-Sección, durante las horas de oficina, no podrán hacer
 
 De los salones de lectura
 
-Art. 69. Para la atención de cada Sala de Lectura se designará un empleado que asumirá la responsabilidad de ella y que tendrá como misión fundamental dirigir a los lectores en sus investigaciones y consultas del catálogo y vigilar el funcionamiento general de la Sala.
+Artículo 69. Para la atención de cada Sala de Lectura se designará un empleado que asumirá la responsabilidad de ella y que tendrá como misión fundamental dirigir a los lectores en sus investigaciones y consultas del catálogo y vigilar el funcionamiento general de la Sala.
 
 #### Artículo 70
 
@@ -830,7 +830,7 @@ DEROGADO
 
 De la sección Infantil
 
-Art. 98. La Sección Infantil atenderá a la difusión de lecturas apropiadas para la infancia, sean ellas útiles o recreativas, al auxilio del niño en sus estudios y a la formación del futuro lector adulto de las bibliotecas.
+Artículo 98. La Sección Infantil atenderá a la difusión de lecturas apropiadas para la infancia, sean ellas útiles o recreativas, al auxilio del niño en sus estudios y a la formación del futuro lector adulto de las bibliotecas.
 
 Con este objeto, guiará a los niños en su curiosidad intelectual, los educará en el cuidado y respeto del libro y formará en ellos los hábitos de cultura que han de contribuir a su progreso en la vida.
 
@@ -894,7 +894,7 @@ La Sección mantendrá un servicio de sucursales para internados y establecimien
 
 De la Catalogación, el Control y las Informaciones
 
-Art. 107. Todo impreso que ingrese al establecimiento pasará en primer término a la Sección Catalogación, Control e Informaciones, a fin de que allí se determine en forma precisa el origen del impreso y la fecha en que ingresó, se clasifique y catalogue toda obra antes de ser enviada a su destino definitivo, se informe a la Contabilidad o a la Secretaría para los efectos de la cancelación de facturas o del acuse de recibo, y se tome el conocimiento necesario para informar al público sobre el contenido de los fondos de libros y demás publicaciones.
+Artículo 107. Todo impreso que ingrese al establecimiento pasará en primer término a la Sección Catalogación, Control e Informaciones, a fin de que allí se determine en forma precisa el origen del impreso y la fecha en que ingresó, se clasifique y catalogue toda obra antes de ser enviada a su destino definitivo, se informe a la Contabilidad o a la Secretaría para los efectos de la cancelación de facturas o del acuse de recibo, y se tome el conocimiento necesario para informar al público sobre el contenido de los fondos de libros y demás publicaciones.
 
 #### Artículo 108
 
@@ -960,7 +960,7 @@ Mantendrá además estrecho contacto con el empleado encargado de la publicació
 
 De las Salas Medina y Barros Arana
 
-Art. 115. Las Salas Medina y Barros Arana constituyen un seminario de investigación para la historia de América y se regirán por las siguientes normas:
+Artículo 115. Las Salas Medina y Barros Arana constituyen un seminario de investigación para la historia de América y se regirán por las siguientes normas:
 
 a) Se abrirán al público todos los días hábiles durante las horas que señale la Dirección General;
 
@@ -984,7 +984,7 @@ h) Ni los documentos, ni los mapas antiguos, ni las ediciones raras de valor bib
 
 De la Sección de Canjes y Encuadernación
 
-Art. 116. La Sección de Canjes y Encuadernación es el órgano destinado a mantener las relaciones de intercambio con los centros culturales y las bibliotecas del extranjero y a cumplir con los convenios internacionales sobre canje de publicaciones oficiales. Le corresponde también reunir y ordenar los duplicados y las obras que se adquieren para el fomento de las bibliotecas públicas del país y hacer la distribución de ellas, con el acuerdo del Visitador de Bibliotecas. Tendrá, por último, la administración de las encuadernaciones que el taller respectivo realice para el servicio.
+Artículo 116. La Sección de Canjes y Encuadernación es el órgano destinado a mantener las relaciones de intercambio con los centros culturales y las bibliotecas del extranjero y a cumplir con los convenios internacionales sobre canje de publicaciones oficiales. Le corresponde también reunir y ordenar los duplicados y las obras que se adquieren para el fomento de las bibliotecas públicas del país y hacer la distribución de ellas, con el acuerdo del Visitador de Bibliotecas. Tendrá, por último, la administración de las encuadernaciones que el taller respectivo realice para el servicio.
 
 #### Artículo 117
 
@@ -1022,7 +1022,7 @@ El Jefe de la Sección, previo estudio con los jefes de las Secciones que poseen
 
 De la Sala de Estampas y de la Mapoteca
 
-Art. 120. En una sala especial, llamada Sala de Estampas, se coleccionarán y exhibirán todos los grabados, cromos, fotos, aguafuertes, litografías y demás láminas de interés cultural o relacionado con las artes gráficas, que la Biblioteca posee.
+Artículo 120. En una sala especial, llamada Sala de Estampas, se coleccionarán y exhibirán todos los grabados, cromos, fotos, aguafuertes, litografías y demás láminas de interés cultural o relacionado con las artes gráficas, que la Biblioteca posee.
 
 #### Artículo 121
 
@@ -1056,7 +1056,7 @@ Para reproducir las láminas o mapas, planos, etc. que tengan registrada propied
 
 Del Museo Bibliográfico
 
-Art. 125. El Museo Bibliográfico reunirá, en estantes y vitrinas especiales que ofrezcan las necesarias garantías de seguridad, los incunables, los códices, los primeros impresos chilenos y americanos, las ediciones príncipes de obras famosas y las facsimilares de manuscritos y autógrafos célebres, las obras raras, las escasas y las de alto valor bibliográfico, las biblias políglotas, la colección de vocabularios de lenguas indígenas americanas, los libros valiosos por su procedencia o por las anotaciones manuscritas que contengan y, en general, todas las obras o impresos que la Dirección juzgue de carácter singular.
+Artículo 125. El Museo Bibliográfico reunirá, en estantes y vitrinas especiales que ofrezcan las necesarias garantías de seguridad, los incunables, los códices, los primeros impresos chilenos y americanos, las ediciones príncipes de obras famosas y las facsimilares de manuscritos y autógrafos célebres, las obras raras, las escasas y las de alto valor bibliográfico, las biblias políglotas, la colección de vocabularios de lenguas indígenas americanas, los libros valiosos por su procedencia o por las anotaciones manuscritas que contengan y, en general, todas las obras o impresos que la Dirección juzgue de carácter singular.
 
 #### Artículo 126
 
@@ -1082,7 +1082,7 @@ La catalogación del Museo Bibliográfico se hará de la manera más completa po
 
 De los Seminarios
 
-Art. 129, Los seminarios serán salas especiales que el Director General concederá, por plazos prudenciales que se fijarán en cada caso, a personas que necesiten realizar por sí mismas trabajos de investigación científica, histórica, artística y literaria, o enseñar prácticamente a un número reducido de discípulos labores de las índoles indicadas.
+Artículo 129. Los seminarios serán salas especiales que el Director General concederá, por plazos prudenciales que se fijarán en cada caso, a personas que necesiten realizar por sí mismas trabajos de investigación científica, histórica, artística y literaria, o enseñar prácticamente a un número reducido de discípulos labores de las índoles indicadas.
 
 #### Artículo 130
 
@@ -1104,7 +1104,7 @@ La naturaleza personal de la labor que haya de realizar cada concesionario en es
 
 De los Jefes de Sección
 
-Art. 132. Los Jefes de Sección son responsables ante el Director de los servicios de sus respectivas secciones, y tienen los deberes y atribuciones siguientes:
+Artículo 132. Los Jefes de Sección son responsables ante el Director de los servicios de sus respectivas secciones, y tienen los deberes y atribuciones siguientes:
 
 a) Conocer de manera minuciosa y exacta los fondos de impresos que están a su cargo, cuidar de su buena conservación y exigir de sus empleados el mismo conocimiento y el mismo cuidado;
 
@@ -1132,7 +1132,7 @@ j) Presentar a la Dirección mensualmente un informe sobre la marcha de su secci
 
 De la publicaciones
 
-Art. 133. La Biblioteca Nacional editará, además de la lista de publicaciones periódicas a que se refiere el artículo 65, las siguientes publicaciones, con el carácter especial que en cada caso se indica:
+Artículo 133. La Biblioteca Nacional editará, además de la lista de publicaciones periódicas a que se refiere el artículo 65, las siguientes publicaciones, con el carácter especial que en cada caso se indica:
 
 a) La Revista de Bibliografía. Publicación trimestral;
 
@@ -1240,7 +1240,7 @@ La Biblioteca procurará que el mayor número de sus actos de extensión sean gr
 
 De las donaciones de impresos
 
-Art. 142. Toda donación de impresos a la Biblioteca Nacional deberá recibirse bajo inventario y será facultativo del Director General el rechazo de aquellos que se encuentren incompletos, en mal estado o que carezcan de valor y sólo constituyen un aumento material de volúmenes.
+Artículo 142. Toda donación de impresos a la Biblioteca Nacional deberá recibirse bajo inventario y será facultativo del Director General el rechazo de aquellos que se encuentren incompletos, en mal estado o que carezcan de valor y sólo constituyen un aumento material de volúmenes.
 
 #### Artículo 143
 
@@ -1268,7 +1268,7 @@ Las obras donadas podrán ser repartidas entre las bibliotecas departamentales, 
 
 Archivo Nacional
 
-Art. 146. El Archivo Nacional facilitará copia o expedirá certificados:
+Artículo 146. El Archivo Nacional facilitará copia o expedirá certificados:
 
 a) De los documentos, que le sean solicitados tanto por los servicios dependientes de la propia Biblioteca Nacional y, en general, de la Dirección de Bibliotecas, Archivos y Museos, como por otros organismos públicos o privados y por particulares. Estos documentos se podrán entregar directamente a los interesados;
 
@@ -1290,7 +1290,7 @@ Las copias de las resoluciones administrativas y de sus antecedentes que, a juic
 
 Del Conservador
 
-ART. 147.- La Dirección de Bibliotecas, Archivos y Museos fijará por medio de una resolución interna una tarifa para las reproducciones a que se refiere el artículo anterior, considerando el costo del material empleado, el consumo de energía eléctrica, el pago del personal necesario, la amortización del equipo técnico y un pequeño margen para su autofinanciamiento y reposición del material fotográfico.
+Artículo 147.- La Dirección de Bibliotecas, Archivos y Museos fijará por medio de una resolución interna una tarifa para las reproducciones a que se refiere el artículo anterior, considerando el costo del material empleado, el consumo de energía eléctrica, el pago del personal necesario, la amortización del equipo técnico y un pequeño margen para su autofinanciamiento y reposición del material fotográfico.
 
 Esta tarifa será reajustada periódicamente, mediante el mismo procedimiento, en proporción al alza de los materiales y demás elementos utilizados.
 
@@ -1306,7 +1306,7 @@ Los fondos provenientes del pago de la tarifa establecida en el artículo anteri
 
 De los Jefes de Sección
 
-Art. 149.- Las disposiciones contenidas en los tres artículos precedentes serán aplicables a los servicios de reprografía que mantenga el Archivo Nacional.
+Artículo 149.- Las disposiciones contenidas en los tres artículos precedentes serán aplicables a los servicios de reprografía que mantenga el Archivo Nacional.
 
 #### Artículo 150
 
@@ -1314,7 +1314,7 @@ Art. 149.- Las disposiciones contenidas en los tres artículos precedentes será
 
 Disposiciones Generales
 
-Art. 150. Es estrictamente prohibido el acceso del público a las salas que sirven de depósito de los documentos. Se considerará falta grave de parte de los empleados el no cumplir esta disposición. Sólo podrá permitirse el acceso a los depósitos con autorización expresa del Conservador, debiendo ir el solicitante acompañado por alguno de los Jefes de Sección.
+Artículo 150. Es estrictamente prohibido el acceso del público a las salas que sirven de depósito de los documentos. Se considerará falta grave de parte de los empleados el no cumplir esta disposición. Sólo podrá permitirse el acceso a los depósitos con autorización expresa del Conservador, debiendo ir el solicitante acompañado por alguno de los Jefes de Sección.
 
 #### Artículo 151
 
@@ -1396,7 +1396,7 @@ MUSEO HISTORICO NACIONAL
 
 Disposiciones generales
 
-Art. 162. El Museo Histórico Nacional dividirá sus servicios fundamentales en las siguientes secciones:
+Artículo 162. El Museo Histórico Nacional dividirá sus servicios fundamentales en las siguientes secciones:
 
 Sección Prehistoria;
 
@@ -1458,7 +1458,7 @@ Excepcionalmente, podrá cobrarse por la entrada a los museos referidos en el in
 
 Del Director
 
-Art. 169. El Director del Museo será personalmente responsable de la custodia y conservación de las colecciones y del buen funcionamiento del servicio y deberá dar cuenta inmediata al Director General, sobre cualquiera irregularidad que observe en lo relacionado con este artículo.
+Artículo 169. El Director del Museo será personalmente responsable de la custodia y conservación de las colecciones y del buen funcionamiento del servicio y deberá dar cuenta inmediata al Director General, sobre cualquiera irregularidad que observe en lo relacionado con este artículo.
 
 #### Artículo 170
 
@@ -1492,7 +1492,7 @@ j) Solicitar de la Dirección General, a medida de las necesidades, los fondos d
 
 De los Jefes de Sección
 
-Art. 171. Los Jefes de Sección serán directamente responsables, ante el Director, de sus respectivas secciones.
+Artículo 171. Los Jefes de Sección serán directamente responsables, ante el Director, de sus respectivas secciones.
 
 Les corresponderá:
 
@@ -1518,7 +1518,7 @@ h) Ayudar a las personas que deseen hacer estudios especiales en las secciones y
 
 De las donaciones y adquisiciones
 
-Art. 172. El Director del Museo aceptará o rechazará las donaciones que se hicieren al establecimiento, para lo cual oirá siempre al jefe de sección respectivo y deberá contar con la aprobación del Director General.
+Artículo 172. El Director del Museo aceptará o rechazará las donaciones que se hicieren al establecimiento, para lo cual oirá siempre al jefe de sección respectivo y deberá contar con la aprobación del Director General.
 
 #### Artículo 173
 
@@ -1552,7 +1552,7 @@ Para efectuar las adquisiciones de objetos destinados al Museo el Director oirá
 
 Museo Nacional de Historia Natural
 
-Art. 177. El Museo Nacional de Historia Natural dividirá sus servicios fundamentales en las siguientes secciones:
+Artículo 177. El Museo Nacional de Historia Natural dividirá sus servicios fundamentales en las siguientes secciones:
 
 Historia Natural del Hombre Zoología Botánica Geología.
 
@@ -1586,7 +1586,7 @@ b) Emprender las excursiones científicas que el Director les encargue, previa a
 
 De la Biblioteca del Museo
 
-Art. 181. La Biblioteca del Museo se caracterizará por su orientación científica y coleccionará de preferencia las obras de investigación y divulgación de las ciencias naturales en general.
+Artículo 181. La Biblioteca del Museo se caracterizará por su orientación científica y coleccionará de preferencia las obras de investigación y divulgación de las ciencias naturales en general.
 
 Permanecerá abierta al público todos los días, menos los Domingos y festivos, a las horas de funcionamiento del Museo.
 
@@ -1594,15 +1594,13 @@ Por ningún motivo podrán salir del recinto del Museo las obras de la Bibliotec
 
 El Bibliotecario hará los catálogos y llevará una estadística clasificada de los libros y demás publicaciones que el público consulte.
 
-#### Artículo 181
+#### Artículo 181 bis
 
 <!-- parte:9041938 -->
 
-De la extensión cultural y la cooperación a la
+De la extensión cultural y la cooperación a la enseñanza
 
-enseñanza
-
-Art. 181 bis. El Museo abrirá sus salas y sus tesoros a las instituciones científicas o culturales, de manera que éstas encuentren allí medios de investigar y efectuar reuniones y conferencias.
+Artículo 181 bis. El Museo abrirá sus salas y sus tesoros a las instituciones científicas o culturales, de manera que éstas encuentren allí medios de investigar y efectuar reuniones y conferencias.
 
 Dará igualmente todas las facilidades necesarias a las personas que deseen emprender algún estudio o investigación.
 
@@ -1614,13 +1612,13 @@ El Museo, en su sala especial y con las colecciones y gabinetes que habilite par
 
 El Director procurará que el personal técnico del Museo ayude a dichos profesores en el desarrollo de su enseñanza.
 
-#### Artículo 182
+#### Artículo 182 bis
 
 <!-- parte:9041940 -->
 
 De las publicaciones
 
-Art. 182 bis. El "Boletín del Museo Nacional de Chile" se continuará, desde la dictación del presente decreto, con el título de "Boletín del Museo Nacional de Historia Natural". Aparecerá dos veces al año y dará cabida a los trabajos de investigación efectuados por el personal del Museo y por los colaboradores que la Dirección acepte.
+Artículo 182 bis. El "Boletín del Museo Nacional de Chile" se continuará, desde la dictación del presente decreto, con el título de "Boletín del Museo Nacional de Historia Natural". Aparecerá dos veces al año y dará cabida a los trabajos de investigación efectuados por el personal del Museo y por los colaboradores que la Dirección acepte.
 
 Con el título de "Anales del Museo Nacional de Historia Natural", se continuarán asimismo los "Anales del Museo Nacional de Chile", los que se editarán bajo dicho lema genérico, pero constituyendo un volumen aparte cada trabajo. Podrán editarse en estos Anales únicamente obras inéditas o traducciones inéditas de obras extranjeras relacionadas con las ciencias naturales del país.
 
@@ -1632,15 +1630,15 @@ Con el título de "Anales del Museo Nacional de Historia Natural", se continuar�
 
 Museo Nacional de Bellas Artes
 
-Art. 183. Regirán también para el Museo Nacional de Bellas Artes las disposiciones contenidas en los artículos 167, 168, 169 y 170, a excepción de las letras a) y g).
+Artículo 183. Regirán también para el Museo Nacional de Bellas Artes las disposiciones contenidas en los artículos 167, 168, 169 y 170, a excepción de las letras a) y g).
 
-#### Artículo 183
+#### Artículo 183 bis
 
 <!-- parte:9041942 -->
 
 De las copias y reproducciones
 
-Art. 183 bis. Las personas que deseen ejecutar copias de las obras del Museo, deberán solicitar el permiso del Director.
+Artículo 183 bis. Las personas que deseen ejecutar copias de las obras del Museo, deberán solicitar el permiso del Director.
 
 #### Artículo 184
 
@@ -1712,7 +1710,7 @@ A cada comprador de una reproducción escultórica se le exigirá compromiso fir
 
 De las exposiciones
 
-Art. 194. Previa autorización del Director General, podrán concederse salas del Museo para exposiciones de particulares.
+Artículo 194. Previa autorización del Director General, podrán concederse salas del Museo para exposiciones de particulares.
 
 #### Artículo 195
 
@@ -1740,7 +1738,7 @@ Será obligación del personal del Museo supervigilar las salas en que se efect�
 
 Disposiciones comunes a todos los Museos
 
-Art. 198. Los Museos del Estado podrán vender al público objetos, reproducciones, impresos y fotografías relacionados con su naturaleza y contenido. Para tal efecto, estos Museos instalarán puestos de venta en su interior, que estarán a cargo del personal ordinario. El Conservador del Museo deberá confeccionar una lista de precios, que deberá ser aprobado por la Dirección del Servicio y fijada en lugar visible.
+Artículo 198. Los Museos del Estado podrán vender al público objetos, reproducciones, impresos y fotografías relacionados con su naturaleza y contenido. Para tal efecto, estos Museos instalarán puestos de venta en su interior, que estarán a cargo del personal ordinario. El Conservador del Museo deberá confeccionar una lista de precios, que deberá ser aprobado por la Dirección del Servicio y fijada en lugar visible.
 
 Los Conservadores de Museos depositarán en la Tesorería Comunal respectiva, mensualmente, los fondos provenientes de ventas de entradas, derechos de copias y venta de los objetos y reproducciones a que se refiere el inciso anterior.
 
@@ -1787,6 +1785,54 @@ Para la destinación de los objetos donados, se respetará la voluntad del donan
 <!-- parte:9041964 -->
 
 Mientras los Museos de provincias no adquieran una especialidad definida, la Dirección General les dictará los respectivos reglamentos, pero basándose para ello en las normas fundamentales establecidas en el presente Decreto para los Museos de Santiago.
+
+#### Artículo 205 bis
+
+<!-- parte:10588093 -->
+
+## Título VIII
+
+Cineteca Nacional
+
+Artículo 205 bis. La Cineteca Nacional tiene como misión la restauración, conservación y difusión del patrimonio fílmico nacional y mundial. Es la encargada de recibir los depósitos que establece el artículo 14º de la ley Nº 19.733, sobre Libertades de Opinión e Información y Ejercicio del Periodismo, sin perjuicio de lo dispuesto en dicha ley respecto de la Biblioteca Nacional.
+
+#### Artículo 205 ter
+
+<!-- parte:10588110 -->
+
+Corresponderá especialmente a la Cineteca Nacional las siguientes funciones y atribuciones:
+
+a) Conservar el patrimonio fílmico.
+
+b) Digitalizar materiales fílmicos, videos y archivos no - fílmicos.
+
+c) Conservar el patrimonio audiovisual en archivo fílmico, video, digital y de documentos relacionados a su producción, a nivel nacional.
+
+d) Catalogar, documentar y gestionar el acervo fílmico y documental.
+
+e) Restaurar física y digitalmente archivos audiovisuales.
+
+f) Preservar las obras que, en virtud de una licencia de uso de los derechos patrimoniales de autor, autorizan a la Cineteca para su exhibición en sus salas, con el objeto de fomentar su valoración y difusión.
+
+g) Realizar servicios de laboratorio digital y documental que contribuyan a la conservación y difusión del patrimonio fílmico.
+
+h) Recibir los depósitos que establece el artículo 14º de la ley Nº 19.733, sobre Libertades de Opinión e Información y Ejercicio del Periodismo.
+
+i) Programar y difundir cine chileno y mundial, en virtud de una licencia de uso de los derechos patrimoniales de autor, en las salas de cine de la Cineteca Nacional.
+
+j) Promover y desarrollar iniciativas de extensión y difusión de cine chileno a nivel nacional e internacional.
+
+k) Programar y gestionar, en virtud de una licencia de uso de los derechos patrimoniales de autor, la plataforma online de Cineteca para la exhibición de cine chileno en línea.
+
+l) Realizar actividades de desarrollo, formación, mediación y participación de públicos de todas las edades, de acuerdo con su misión institucional.
+
+m) Impulsar y apoyar la creación y coordinación de cineclubes escolares al interior de establecimientos educacionales.
+
+n) Producir anualmente el Festival de la Cineteca Nacional.
+
+o) Propiciar u organizar encuentros internacionales de investigación de cine chileno y del mundo, además de instancias para fomentar el estudio y puesta en valor del acervo de la institución.
+
+p) Elaborar publicaciones y ediciones especiales relacionadas al quehacer de la Cineteca Nacional y a la salvaguarda y difusión del cine chileno.
 
 #### Artículo 206
 
