@@ -32,7 +32,9 @@ Destínense las bandas de frecuencias que se señalan en el artículo siguiente 
 
 Las bandas de frecuencias para el servicio serán las siguientes:
 
-Bandas de frecuencias Sentido de transmisión
+Bandas de frecuencias Sentido de
+
+transmisión
 
 a) 3.700 - 3.750 MHz espacio - Tierra
 
@@ -41,6 +43,10 @@ a) 3.700 - 3.750 MHz espacio - Tierra
 3.800 - 4.200 MHz espacio - Tierra
 
 6.025 - 6.425 MHz Tierra - espacio
+
+5.091-5.250 (Tierra-espacio)
+
+6.875-7.055 (espacio-Tierra)
 
 b) 10,70 - 11,7 GHz espacio - Tierra
 
@@ -52,13 +58,15 @@ c) 11,7 - 12,7 GHz espacio - Tierra
 
 17,3 - 17,8 GHz Tierra - espacio
 
-d) 17,7 - 21,2 GHz espacio - Tierra
+d) 17,3 - 21,2 GHz espacio - Tierra
 
 27,0 - 31,0 GHz Tierra - espacio
 
 e) 71 - 76 GHz (espacio-Tierra)
 
 81 - 86 GHz (Tierra-espacio)
+
+f) 102-109,5 GHz (Tierra-espacio)
 
 Nota 1: Lo anterior, sin perjuicio de lo establecido en el cuadro de atribución de bandas de frecuencias del Plan General de Uso del Espectro Radioeléctrico, en especial para las bandas 10,70 - 11,7 GHz y 18,8 - 19,3 GHz que deberán coordinarse con los enlaces del servicio fijo, los cuales para efectos de disminuir las eventuales interferencias con el servicio fijo satelital solo serán autorizados fuera de zonas urbanas. En el caso de las permisionarias de servicio limitado de televisión por satélite que emplea múltiples estaciones terrenas receptoras, será de su responsabilidad tomar medidas para evitar interferencias que pudieran causar los enlaces punto a punto que existan a la fecha de la instalación de la respectiva estación terrena receptora y no reclamará protección respecto de dichos enlaces punto a punto.
 
@@ -68,7 +76,9 @@ Nota 3: Conforme a lo establecido en el Plan General de Uso del Espectro Radioel
 
 Nota 4. En la banda 27,0 - 28,35 GHz (Tierra - espacio) solo se autorizará estaciones terrenas de pasarela (o Gateway) y otras estaciones terrenas de similares características, en cuanto a los tamaños de antenas y ubicación geográfica. Además, dichas estaciones terrenas deberán estar ubicadas fuera de zonas urbanas consolidadas y no deberán causar interferencias perjudiciales a los servicios fijos o móviles en zonas urbanas consolidadas o industriales, que se autoricen al amparo de la resolución exenta Nº 836, de 2020, de la Subsecretaría de Telecomunicaciones.
 
-Nota 5. En las bandas 71 - 76 GHz y 81 - 86 GHz solo se autorizarán Gateways ubicados desde la Región de Coquimbo al sur del país, independientemente de eventuales restricciones de elevación mínimas de las antenas de los Gateways, que se podrán establecer a fin de evitar interferencias al radiotelescopio ALMA, o evitar interferencias a otros servicios de telecomunicaciones.
+Nota 5. En las bandas 71-76 GHz, 81-86 GHz y 102-109,5 GHz solo se autorizarán Gateways ubicados desde la Región de Coquimbo al sur del país, independientemente de eventuales restricciones de elevación mínimas de las antenas de los Gateways, que se podrán establecer a fin de evitar interferencias al radiotelescopio ALMA, o evitar interferencias a otros servicios de telecomunicaciones. En la banda de 102-109,5 GHz (Tierra-espacio) solo se autorizarán estaciones terrenas y estaciones terrenas de gran tamaño y ganancia, ubicadas fuera de zonas urbanas consolidadas.
+
+Nota 6. En las bandas 5.091-5.250 MHz (Tierra-espacio) y 6.875-7.055 MHz (espacio-Tierra), señaladas en el literal a) de la tabla anterior, solo se autorizarán estaciones de enlaces de conexión de satélites no geoestacionarios del servicio móvil por satélite. Adicionalmente, en consideración a la resolución N° 114 de la UIT, estas estaciones no deben causar interferencia perjudicial al servicio móvil aeronáutico. Por lo que, previo a la autorización de alguna estación de enlace de conexión ubicada a menos de 30 km de alguno de los aeropuertos y/o aeródromos de primera categoría, señalados en la resolución exenta N° 344, de 2025, de la Dirección General de Aeronáutica Civil (DGAC), se deberán coordinar las condiciones particulares para que pueda operar esa estación terrena. Además, los titulares del servicio satelital no reclamarán interferencias perjudiciales producto de las emisiones de otros servicios terrestres atribuidos en forma primaria en el decreto citado en el Visto c), que operen en las bandas 6.875-7.055 MHz.
 
 #### Artículo 3º
 
