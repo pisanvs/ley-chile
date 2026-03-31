@@ -12,7 +12,7 @@ Las características de la credencial son las siguientes:
 
 a) Dimensiones mínimas: 15 cms. de alto por 10 cms. de ancho, con fondo color amarillo, según NCH 1927;
 
-b) La credencial deberá incluir nombre y apellidos del conductor; Clase de Licencia y Número, todo ello en caracteres negros;
+b) La tarjeta deberá incluir nombre completo del conductor, tipo de licencia y Placa Patente Única del vehículo.
 
 c) Foto actualizada tamaño pasaporte, con nombres y apellidos;
 
@@ -22,7 +22,7 @@ e) Número de folio y timbre de la Secretaría Regional de Transportes y Telecom
 
 f) Deberá encontrarse plastificada por sistema de termolaminado.
 
-2.- La credencial deberá estar ubicada en el interior del vehículo en un lugar visible para los pasajeros bajo el espejo retrovisor.
+2.- La credencial de identificación deberá estar ubicada en el interior del vehículo, bajo el espejo retrovisor o adherida en la parte central delantera del techo, sobre el espejo retrovisor, y sin nada que obstaculice su completa visibilidad desde todos los sectores del vehículo.
 
 3.- Para que esta credencial sea autorizada por la Secretaría Regional deberá acreditarse que el conductor cumple con los requisitos para desempeñarse como tal.
 
