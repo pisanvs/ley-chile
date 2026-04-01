@@ -24,6 +24,8 @@ El Fiscal Nacional, en el ejercicio de sus atribuciones, regulará la forma en q
 
 A los abogados asistentes de fiscal les será aplicable lo dispuesto en los artículos 9º, 9º bis y 9º ter, las inhabilidades establecidas en el Título IV, y las normas sobre responsabilidad aplicables a los fiscales.
 
+En todo caso se deberá considerar un número de fiscales para efectos de lo establecido en el artículo 29 bis de la ley Nº 20.084.
+
 #### Artículo 3º
 
 En el ejercicio de su función, los fiscales del Ministerio Público adecuarán sus actos a un criterio objetivo, velando únicamente por la correcta aplicación de la ley. De acuerdo con ese criterio, deberán investigar con igual celo no sólo los hechos y circunstancias que funden o agraven la responsabilidad del imputado, sino también los que le eximan de ella, la extingan o la atenúen.
@@ -180,6 +182,12 @@ i) Solicitar, en comisión de servicio, a funcionarios de cualquier órgano de l
 
 j) Ejercer las demás atribuciones que ésta u otra ley orgánica constitucional le confieran.
 
+#### Artículo 17 bis
+
+El Ministerio Público deberá contar con un registro público de resoluciones, en el que constarán las instrucciones generales que sean impartidas por el Fiscal Nacional, el Fiscal Jefe de la Fiscalía Supraterritorial y los Fiscales Regionales.
+
+El registro consistirá en una plataforma electrónica, la que deberá estar a disposición del público de forma permanente y actualizada. Su administración y actualización estará a cargo de la unidad administrativa que determine el Fiscal Nacional mediante resolución.
+
 #### Artículo 18
 
 El Fiscal Nacional podrá asumir, de oficio y de manera excepcional, la dirección de la investigación, el ejercicio de la acción penal pública y la protección de las víctimas o testigos respecto de determinados hechos que se estimaren constitutivos de delitos, cuando la investidura de las personas involucradas como imputados o víctimas lo hiciere necesario para garantizar que dichas tareas se cumplirán con absoluta independencia y autonomía.
@@ -196,17 +204,19 @@ En los mismos términos, podrá disponer que un Fiscal Regional distinto de aqu�
 
 La Fiscalía Nacional contará con las siguientes unidades administrativas:
 
-a) División de Estudios, Evaluación, Control y Desarrollo de la Gestión;
+a) División de Estudios, Evaluación y Análisis Avanzado de Datos;
 
-b) División de Contraloría Interna;
+b) División de Planificación, Control de la Gestión y Supervisión;
 
-c) División de Recursos Humanos;
+c) División de Probidad e Integridad y Auditoría Interna;
 
-d) División de Administración y Finanzas;
+d) División de Personas;
 
-e) División de Informática, y
+e) División de Administración y Finanzas;
 
-f) División de Atención a las Víctimas y Testigos, que tendrá por objeto velar por el cumplimiento de las tareas que a este respecto le encomiende al Ministerio Público la ley procesal penal. Asimismo, le corresponderá prestar asesoría a quienes sean víctimas de delitos que la ley califica como terroristas.
+f) División de Informática, y
+
+g) División de Atención a las Víctimas y Testigos.
 
 Cualquier persona podrá solicitar información a la División de Atención a las Víctimas y Testigos del Ministerio Público, sobre los procedimientos de acompañamiento y asesoría que ella presta a quienes denuncien ser víctimas de los delitos previstos en los artículos 141, inciso final; 142, inciso final; 150 A, 150 D, 361, 362, 363, 365 bis; 366, incisos primero y segundo; 366 bis, 366 quáter, 367 y 367 ter, 372 bis, 411 quáter cuando se cometa con fines de explotación sexual y 433, número 1, en relación con la violación. El Ministerio Público deberá entregar, a cualquier persona que lo solicite, información completa y suficiente acerca de las prestaciones disponibles para víctimas y testigos, y de los servicios públicos en materia de información, orientación, representación, atención integral y reparación a las víctimas y sus familias.
 
@@ -216,6 +226,24 @@ Un Director Ejecutivo Nacional organizará y supervisará las unidades administr
 
 El Director Ejecutivo Nacional y los jefes de las unidades administrativas serán funcionarios de la exclusiva confianza del Fiscal Nacional.
 
+#### Artículo 20 bis
+
+La División de Atención a las Víctimas y Testigos tendrá por objeto velar por el cumplimiento de las tareas que a este respecto le encomiende al Ministerio Público la ley procesal penal. Asimismo, le corresponderá prestar asesoría a quienes sean víctimas de delitos que la ley califica como terroristas.
+
+Cualquier persona podrá solicitar información a la División de Atención a las Víctimas y Testigos del Ministerio Público sobre los procedimientos de acompañamiento y asesoría que ella presta a quienes denuncien ser víctimas de los delitos previstos en los artículos 141, inciso final; 142, inciso final; 150 A, 150 D, 361, 362, 363, 365 bis; 366, incisos primero y segundo; 366 bis, 366 quáter, 367 y 367 ter, 372 bis, 411 quáter cuando se cometa con fines de explotación sexual y 433, número 1, en relación con la violación, todos del Código Penal. El Ministerio Público deberá entregar, a cualquier persona que lo solicite, información completa y suficiente acerca de las prestaciones disponibles para víctimas y testigos, y de los servicios públicos en materia de información, orientación, representación, atención integral y reparación a las víctimas y sus familias.
+
+Cuando el Ministerio Público tome conocimiento de un hecho que revista los caracteres de delito de violencia sexual señalados en el inciso anterior, se contactará de cualquier manera con la víctima dentro de las veinticuatro horas siguientes, con el objeto de entregarle asesoría y orientación para el ejercicio de sus derechos, y podrá ella, si así lo solicita, involucrar a su familia. Si el Ministerio Público no puede tomar contacto con la víctima en los términos antes señalados, comunicará dicha circunstancia al juez de garantía.
+
+#### Artículo 20 ter
+
+La División de Probidad e Integridad y Auditoría Interna tendrá por objeto proponer y supervisar políticas y procedimientos internos, orientados a la prevención y detección de delitos y de conductas contrarias a la probidad al interior del Ministerio Público, velando por el cumplimiento de las normas legales y reglamentarias; y evaluar y contribuir a la mejora de los procesos administrativos internos, la gestión de riesgos y su control.
+
+Esta División contará con dos unidades:
+
+i. Unidad de Integridad y Probidad Interna, que estará formada por funcionarios, y a cargo de un Oficial de Cumplimiento, quien gozará de plena autonomía e independencia, pudiendo reportar directamente al Fiscal Nacional o al Director Ejecutivo Nacional, y contará con los medios y recursos necesarios para el ejercicio de sus funciones de prevención y detección de conductas contrarias a la probidad. Dicho oficial se encontrará facultado para acceder a todos los registros disponibles en la institución y requerir información al Director Ejecutivo Nacional y a los Fiscales Regionales, a los Directores Ejecutivos Regionales, a los Gerentes de Divisiones y a los Jefes de Unidades Especializadas y de Apoyo. Además deberá identificar, gestionar y mitigar riesgos para el Ministerio Público mediante el desarrollo, implementación, supervisión y permanente actualización de un modelo de prevención de delitos; gestionar la adecuada difusión y capacitación en integridad, probidad, ética y prevención de delitos para todos los integrantes de la Institución; administrar el canal de denuncias interno a través del sistema de integridad del Ministerio Público y, respecto de las investigaciones administrativas, podrá revisar las efectuadas por los funcionarios y realizar aquellas que le correspondan de conformidad con el artículo 51; establecer un sistema de registro y control en materia de incumplimientos, y generar políticas y procedimientos, además de realizar todas las demás actividades conducentes a asegurar una efectiva prevención y detección de delitos y de conductas contrarias a la probidad al interior del Ministerio Público.
+
+ii. Unidad de Auditoría Interna, que evaluará el sistema de control interno institucional y supervisará que los procesos administrativos contables y financieros se ajusten a las leyes vigentes del sector público, aplicables a la institución.
+
 #### Artículo 21
 
 El Fiscal Nacional rendirá cuenta de las actividades del Ministerio Público en el mes de abril de cada año, en audiencia pública. En la cuenta se referirá a los resultados obtenidos en las actividades realizadas en el período, incluyendo las estadísticas básicas que las reflejaren, el uso de los recursos otorgados, las dificultades que se hubieren presentado y, cuando lo estime conveniente, sugerirá las políticas públicas y modificaciones legales que estime necesarias para el mejoramiento del sistema penal, para una efectiva persecución de los delitos, la protección de las víctimas y de los testigos, y el adecuado resguardo de los derechos de las personas.
@@ -224,9 +252,13 @@ Asimismo, dará a conocer los criterios de actuación del Ministerio Público qu
 
 #### Artículo 22
 
-Cada una de las unidades especializadas a que alude la letra c) del artículo 17 será dirigida por un Director, designado por el Fiscal Nacional, previa audiencia del Consejo General. Estas unidades dependerán del Fiscal Nacional y tendrán como función colaborar y asesorar a los fiscales que tengan a su cargo la dirección de la investigación de determinada categoría de delitos, de acuerdo con las instrucciones que al efecto aquél les dicte.
+Cada una de las unidades especializadas a que alude la letra c) del artículo 17 será dirigida por un Director, designado por el Fiscal Nacional y de su exclusiva confianza, previa audiencia del Consejo General. Tanto la función de dirección de la unidad especializada, como la de abogado asesor de ella, podrá ser ejercida por un fiscal adjunto o por un abogado asesor o abogado asistente en ejercicio. En dicho caso deberán proveerse las correspondientes suplencias en su fiscalía de origen en tanto ejerza dicha labor, y podrá retornar a ella una vez cesado el cargo. Estas unidades dependerán del Fiscal Nacional y tendrán como función principal colaborar y asesorar a los fiscales que tengan a su cargo la dirección de la investigación de determinada categoría de delitos, o fenómenos criminales, entre los cuales se considerarán, especialmente, el crimen organizado, los delitos económicos, medioambientales, corrupción y lavado de activos, de acuerdo con las instrucciones que al efecto aquel les dicte. Asimismo, dichas unidades asesorarán al Fiscal Nacional en la elaboración de instructivos, protocolos y estándares de actuación que contribuyan a la eficiencia investigativa y a la unidad de acción del Ministerio Público.
 
-Se creará, al menos, una unidad especializada para asesorar en la dirección de la investigación de los delitos tipificados en la ley N° 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas.
+En virtud de lo anterior, el Fiscal Nacional podrá ordenar que una o más unidades especializadas asesoren a un Fiscal Regional que haya asumido una investigación de acuerdo con lo dispuesto en el artículo 19.
+
+Créase, al menos, una unidad especializada para asesorar a la dirección de la investigación de los delitos de la ley N° 20.000, y a la búsqueda de activos para dar cumplimiento a lo dispuesto en los artículos 40 y 45 de la referida ley. Dentro de sus funciones deberá auxiliar a los fiscales adjuntos en la identificación, búsqueda y localización de bienes, instrumentos y ganancias que se vinculen con la comisión de los delitos sancionados en esa ley.
+
+Existirá, asimismo, una unidad especializada para asesorar en la dirección de la investigación y el ejercicio de la acción penal de los delitos sometidos a la responsabilidad especial de adolescentes regulada en la ley N° 20.084, cuyo funcionamiento se regirá por lo dispuesto en este artículo y en el Párrafo 3° bis del Título II de la presente ley.
 
 #### Artículo 23
 
@@ -259,6 +291,42 @@ d) Cumplir las demás funciones que ésta u otra ley orgánica constitucional le
 #### Artículo 26
 
 El Consejo General sesionará ordinariamente al menos cuatro veces al año y, extraordinariamente, cuando lo convoque el Fiscal Nacional.
+
+### Párrafo 3° — bis
+
+De la Unidad Especializada de Responsabilidad Penal de Adolescentes
+
+#### Artículo 26 bis
+
+La Unidad Especializada de Responsabilidad Penal de Adolescentes se encuentra encargada de cumplir con las siguientes funciones:
+
+a. Cumplir labores de asesoría para el Fiscal Nacional, para las Fiscalías Regionales y para la Fiscalía Supraterritorial, en lo referido a la aplicación de la ley N° 20.084.
+
+b. Colaborar con los fiscales adjuntos especializados en responsabilidad penal de adolescentes, de acuerdo con las instrucciones generales que al efecto dicte el Fiscal Nacional.
+
+c. Establecer y mantener procedimientos de trabajo con los Fiscales Regionales y con los fiscales especializados en responsabilidad penal de adolescentes, así como con las demás unidades especializadas.
+
+d. Realizar visitas periódicas de trabajo en las Fiscalías Regionales en lo referido al trabajo de los fiscales especializados en responsabilidad penal de adolescentes, informando de los resultados al Fiscal Nacional y al Fiscal Regional correspondiente.
+
+e. Efectuar estudio, análisis y difusión de la jurisprudencia referida a la aplicación de la ley N° 20.084.
+
+f. Proporcionar fallos de interés a la Unidad de Recursos Procesales y Jurisprudencia, para el ingreso en la respectiva base de datos, especificando la doctrina que en ellos se establece.
+
+g. Elaborar y difundir boletines de doctrina y jurisprudencia para apoyar la labor de los fiscales especializados en responsabilidad penal de adolescentes.
+
+h. Dirigir, conjuntamente con la División de Recursos Humanos, la capacitación de los fiscales especializados en responsabilidad penal de adolescentes.
+
+i. Proponer al Fiscal Nacional los ajustes a la legislación nacional que hagan posible mejorar el desempeño del Ministerio Público en las tareas de persecución de los delitos cometidos por adolescentes, conforme a lo dispuesto en la ley N° 20.084.
+
+j. Proponer al Fiscal Nacional la elaboración y adecuación de las instrucciones generales y criterios de actuación que se estimen necesarias para el adecuado cumplimiento de las tareas de investigación y para el ejercicio de la acción penal pública en los delitos cometidos por adolescentes conforme a lo dispuesto en la ley N° 20.084.
+
+k. Afianzar la relación existente entre el Ministerio Público y los distintos organismos públicos y privados vinculados a la aplicación de la ley N° 20.084.
+
+l. Coordinar con las policías procesos de trabajo relativos a la investigación de los ilícitos cometidos por adolescentes.
+
+m. Participar u organizar congresos, seminarios y reuniones sobre la aplicación de la ley N° 20.084.
+
+n. Llevar un registro de las investigaciones sobre los delitos de que trata la ley N° 20.084.
 
 ### Párrafo 4º
 
@@ -294,7 +362,7 @@ En el caso de la Región Metropolitana de Santiago, si debieren proveerse dos o 
 
 #### Artículo 30
 
-Los Fiscales Regionales durarán ocho años en el ejercicio de sus funciones y no podrán ser designados como tales por el período siguiente, lo que no obsta a que puedan ser nombrados en otro cargo del Ministerio Público.
+Los Fiscales Regionales durarán ocho años en el ejercicio de sus funciones y no podrán ser designados como tales por el período siguiente, lo que no obsta a que puedan ser nombrados en otro cargo del Ministerio Público. Los funcionarios que hubiesen sido nombrados Fiscales Regionales, una vez concluido su período, podrán volver a asumir su cargo de origen como funcionario, siempre y cuando no sea en la misma región en donde ejercieron como Fiscal Regional. En estos casos, el Fiscal Nacional definirá la procedencia de tal designación, por resolución fundada, en mérito de sus evaluaciones de desempeño, los informes de supervisión de la persecución penal de la región en que hubiere ejercido como Fiscal Regional y las necesidades del Servicio.
 
 Los Fiscales Regionales cesarán en su cargo al cumplir 75 años de edad.
 
@@ -346,7 +414,7 @@ Cada Fiscalía Regional contará con las siguientes unidades administrativas:
 
 a) Unidad de Evaluación, Control y Desarrollo de la Gestión;
 
-b) Unidad de Recursos Humanos;
+b) Unidad de Personas;
 
 c) Unidad de Administración y Finanzas;
 
@@ -360,13 +428,13 @@ El Director Ejecutivo Regional y los jefes de las unidades administrativas será
 
 #### Artículo 35
 
-El Fiscal Regional debe dar cumplimiento a las instrucciones generales impartidas por el Fiscal Nacional.
+El Fiscal Regional deberá dar cumplimiento a las instrucciones generales y las medidas impartidas por el Fiscal Nacional.
 
-Si las instrucciones incidieren en el ejercicio de sus facultades de dirigir la investigación o en el ejercicio de la acción penal pública, el Fiscal Regional podrá objetarlas por razones fundadas.
+Si las instrucciones o medidas incidieren en el ejercicio de sus facultades de dirigir la investigación o en el ejercicio de la acción penal pública, el Fiscal Regional podrá objetarlas por razones fundadas. En caso de medidas relativas a actuaciones procesales impostergables, se estará a lo dispuesto en la letra a) del artículo 17.
 
 Si la instrucción objetada incidiere en actuaciones procesales que no se pudieren dilatar, el Fiscal Regional deberá realizarlas de acuerdo con la instrucción mientras la objeción no sea resuelta.
 
-Si el Fiscal Nacional acogiere la objeción, deberá modificar la instrucción, con efectos generales para el conjunto del Ministerio Público.
+Si el Fiscal Nacional acogiere la objeción, deberá modificar la instrucción o medida. Respecto de una instrucción general, su modificación tendrá efectos generales para el conjunto del Ministerio Público.
 
 En caso contrario, el Fiscal Nacional asumirá la plena responsabilidad, debiendo el Fiscal Regional dar cumplimiento a lo resuelto sin más trámite.
 
@@ -418,6 +486,8 @@ Las fiscalías locales contarán con los fiscales adjuntos, profesionales y pers
 
 Cada fiscalía local estará integrada por uno o más fiscales adjuntos, que serán designados por el Fiscal Nacional, a propuesta del fiscal regional. Si la fiscalía local cuenta con dos o más fiscales adjuntos, el fiscal regional asignará a uno de ellos el desempeño de labores de jefatura, las que realizará, con la denominación de fiscal adjunto jefe, mientras cuente con la confianza de dicho fiscal regional.
 
+Si se trata de las fiscalías con un único fiscal adjunto, éstas deberán contar con una planta de a lo menos un fiscal adjunto y dos abogados asistentes.
+
 #### Artículo 39
 
 La ubicación de las fiscalías locales en el territorio de cada Fiscalía Regional será determinada por el Fiscal Nacional, a propuesta del respectivo Fiscal Regional. En la distribución geográfica y organización de las fiscalías locales se atenderá especialmente a criterios de carga de trabajo, extensión territorial, facilidad de comunicaciones y eficiencia en el uso de los recursos.
@@ -432,7 +502,9 @@ Si la subrogación a que se refiere el inciso anterior se ejerciera por más de 
 
 En el caso de que persista la circunstancia o el impedimento por más de treinta días, el Fiscal Regional podrá designar a un abogado asistente en calidad de suplente, percibiendo la misma remuneración que le corresponde al titular. Asimismo, podrá contratarse a un abogado quien realizará las labores del abogado asistente que está ejerciendo la suplencia.
 
-Si un cargo de fiscal adjunto se encontrare vacante, el Fiscal Regional podrá designar a un abogado asistente de fiscal en calidad de suplente, percibiendo la misma remuneración que le corresponde al titular. En todo caso, la suplencia no podrá extenderse por más de seis meses, al término de los cuales deberá nombrarse un titular.
+Excepcionalmente, si se trata de las suplencias señaladas en los artículos 22, 37 quáter, 86 bis y 93, el Fiscal Regional podrá designar como suplente a un fiscal adjunto o a un abogado asistente, quien percibirá la remuneración correspondiente al titular del cargo. Para efectuar dicha designación, el Fiscal Regional deberá considerar criterios objetivos relativos a la experiencia e idoneidad profesional y la disponibilidad de recursos presupuestarios.
+
+Si un cargo de fiscal adjunto se encontrare vacante, el Fiscal Regional podrá designar a un abogado asistente de fiscal en calidad de suplente, percibiendo la misma remuneración que le corresponde al titular. En todo caso, la suplencia no podrá extenderse por más de seis meses, al término de los cuales deberá nombrarse un titular, salvo en el caso de las suplencias señaladas en el inciso anterior.
 
 Sin perjuicio de su pertenencia a una fiscalía local, en el ejercicio de las tareas que les asigna la ley los fiscales adjuntos podrán realizar actuaciones y diligencias en todo el territorio nacional, de conformidad a las normas generales que establezca el Fiscal Nacional.
 
@@ -558,7 +630,7 @@ Los plazos de días contemplados en este artículo serán de días hábiles.
 
 #### Artículo 52
 
-Si el inculpado de alguna infracción a sus deberes fuere un Fiscal Regional, corresponderá al Fiscal Nacional aplicar el procedimiento establecido en el artículo anterior, con excepción de lo dispuesto en el inciso quinto.
+Si el inculpado de alguna infracción a sus deberes fuere un Fiscal Regional, corresponderá al Fiscal Nacional aplicar el procedimiento establecido en el artículo anterior, nombrando como investigador a otro Fiscal Regional o al Jefe de la División de Probidad e Integridad y Auditoría Interna, con excepción de lo dispuesto en el inciso sexto.
 
 #### Artículo 53
 
@@ -584,39 +656,41 @@ No podrá dirigir la investigación ni ejercer la acción penal pública respect
 
 Son causales de inhabilitación:
 
-1º. Tener el fiscal parte o interés en el caso de cuya investigación se trate;
+1º. Tener el fiscal parte o interés en el caso de cuya investigación se trate.
 
-2º. Ser el fiscal cónyuge, conviviente civil, o pariente por consanguinidad o afinidad en cualquiera de los grados de la línea recta y en la colateral por consanguinidad o afinidad hasta el segundo grado inclusive, de alguna de las partes, de sus representantes legales o de sus abogados;
+2º. Ser el fiscal cónyuge, conviviente civil, o pariente por consanguinidad o afinidad en cualquiera de los grados de la línea recta y en la colateral por consanguinidad o afinidad hasta el segundo grado inclusive, de alguna de las partes, de sus representantes legales o de sus abogados.
 
-3º. Ser el fiscal cónyuge, conviviente civil, o pariente por consanguinidad o afinidad en cualquiera de los grados de la línea recta y en la colateral por consanguinidad o afinidad hasta el segundo grado inclusive, del juez de garantía o de alguno de los miembros del tribunal del juicio oral ante quienes deba desempeñar sus funciones;
+3º. Ser el fiscal cónyuge, conviviente civil, o pariente por consanguinidad o afinidad en cualquiera de los grados de la línea recta y en la colateral por consanguinidad o afinidad hasta el segundo grado inclusive, del juez de garantía o de alguno de los miembros del tribunal del juicio oral ante quienes deba desempeñar sus funciones.
 
-4°. Ser el fiscal tutor o curador de alguna de las partes, albacea de alguna sucesión, o administrador o representante de alguna persona jurídica que sea parte en el caso de cuya investigación se trate;
+4°. Ser el fiscal tutor o curador de alguna de las partes, albacea de alguna sucesión, o administrador o representante de alguna persona jurídica que sea parte en el caso de cuya investigación se trate.
 
-5°. Tener el fiscal, personalmente, su cónyuge, conviviente civil, o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado, causa pendiente que deba fallar como juez o investigación que deba dirigir como fiscal, alguna de las partes;
+5°. Tener el fiscal, personalmente, su cónyuge, conviviente civil, o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado, causa pendiente que deba fallar como juez o investigación que deba dirigir como fiscal, alguna de las partes.
 
-6°. Ser o haber sido el fiscal, su cónyuge, conviviente civil, o alguno de sus ascendientes o descendientes, heredero o legatario instituido en testamento por alguna de las partes;
+6°. Ser o haber sido el fiscal, su cónyuge, conviviente civil, o alguno de sus ascendientes o descendientes, heredero o legatario instituido en testamento por alguna de las partes.
 
-7º. Ser alguna de las partes heredero o legatario instituido en testamento por el fiscal;
+7º. Ser alguna de las partes heredero o legatario instituido en testamento por el fiscal.
 
 8°. Tener pendiente alguna de las partes pleito civil o criminal con el fiscal, con su cónyuge, conviviente civil, o con alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
 
-El pleito deberá haber sido promovido antes de haberse denunciado el hecho de cuya investigación se trate;
+El pleito deberá haber sido promovido antes de haberse denunciado el hecho de cuya investigación se trate.
 
-9º. Ser el fiscal socio colectivo, comanditario, de responsabilidad limitada o de hecho de alguna de las partes, serlo su cónyuge, conviviente civil, o alguno de los ascendientes o descendientes del mismo fiscal, o alguno de sus parientes colaterales dentro del segundo grado;
+9º. Ser el fiscal socio colectivo, comanditario, de responsabilidad limitada o de hecho de alguna de las partes, serlo su cónyuge, conviviente civil, o alguno de los ascendientes o descendientes del mismo fiscal, o alguno de sus parientes colaterales dentro del segundo grado.
 
-10. Tener el fiscal la calidad de accionista de una sociedad anónima que sea parte en el caso de cuya investigación se trate;
+10. Tener el fiscal la calidad de accionista de una sociedad anónima que sea parte en el caso de cuya investigación se trate.
 
-11. Tener el fiscal con alguna de las partes amistad que se manifieste por actos de estrecha familiaridad, o tenerla su cónyuge, conviviente civil, alguno de sus ascendientes o descendientes, o alguno de sus parientes colaterales dentro del segundo grado;
+11. Tener el fiscal con alguna de las partes amistad que se manifieste por actos de estrecha familiaridad, o tenerla su cónyuge, conviviente civil, alguno de sus ascendientes o descendientes, o alguno de sus parientes colaterales dentro del segundo grado.
 
-12. Tener el fiscal con alguna de las partes enemistad, odio o resentimiento que haga presumir que no se halla revestido de la debida objetividad;
+12. Tener el fiscal con alguna de las partes enemistad, odio o resentimiento que haga presumir que no se halla revestido de la debida objetividad.
 
-13. Haber el fiscal, su cónyuge, conviviente civil, alguno de sus ascendientes o descendientes, o alguno de sus parientes colaterales dentro del segundo grado, recibido de alguna de las partes un beneficio de importancia, que haga presumir empeñada la gratitud del fiscal;
+13. Haber el fiscal, su cónyuge, conviviente civil, alguno de sus ascendientes o descendientes, o alguno de sus parientes colaterales dentro del segundo grado, recibido de alguna de las partes un beneficio de importancia, que haga presumir empeñada la gratitud del fiscal.
 
-14. Haber el fiscal, su cónyuge, conviviente civil, alguno de sus ascendientes o descendientes, o alguno de sus parientes colaterales dentro del segundo grado, aceptado, después de iniciada la investigación, dádivas o servicios de alguna de las partes, cualquiera que sea su valor o importancia;
+14. Haber el fiscal, su cónyuge, conviviente civil, alguno de sus ascendientes o descendientes, o alguno de sus parientes colaterales dentro del segundo grado, aceptado, después de iniciada la investigación, dádivas o servicios de alguna de las partes, cualquiera que sea su valor o importancia.
 
-15. Tener alguna de las partes relación laboral con el fiscal o viceversa, y
+15. Tener alguna de las partes relación laboral con el fiscal o viceversa.
 
 16. Ser el fiscal deudor o acreedor de alguna de las partes o de su abogado; o serlo su cónyuge, conviviente civil, o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
+
+17. Si se trata de los Fiscales Regionales, ser alguna de las partes un ministro o una ministra de la Corte de Apelaciones que haya votado favorablemente su inclusión en la terna a la que se refiere el artículo 29.
 
 Sin embargo, no tendrá aplicación la causal del presente número si fuere parte alguna de las entidades fiscalizadas por la Superintendencia de Seguridad Social, la Superintendencia de Pensiones, la Superintendencia de Salud, la Superintendencia de Bancos e Instituciones Financieras, la Superintendencia de Valores y Seguros o uno de los Servicios de Vivienda y Urbanización, a menos que estas instituciones u organismos ejerciten actualmente cualquier acción judicial contra el fiscal o contra alguna otra de las personas señaladas o viceversa.
 
@@ -762,6 +836,10 @@ Excepcionalmente, por resolución fundada, el Fiscal Nacional podrá autorizar l
 
 En el caso de los concursos internos de funcionarios, éstos se regirán por las bases que, al afecto, el Fiscal Nacional dicte, las que deberán garantizar su publicidad y transparencia. Las bases serán incorporadas en el llamado al concurso interno y contemplarán parámetros objetivos e iguales para todos los funcionarios del país, debiendo considerarse, entre otros, los siguientes: evaluaciones obtenidas; conocimientos específicos del cargo que se trate de proveer; antigüedad en la institución y antigüedad en el grado respectivo, todo conforme al reglamento que sobre esta materia dictará el Fiscal Nacional.
 
+#### Artículo 70 bis
+
+Los fiscales adjuntos y funcionarios tendrán derecho a solicitar al Fiscal Nacional que autorice la permuta de sus cargos con el personal de otras fiscalías regionales, siempre que se trate del personal del mismo estamento, y se cumplan los requisitos legales y reglamentarios para ocupar los respectivos cargos. Con todo, la evaluación de la solicitud deberá ser precedida por una consulta a los Fiscales Regionales respectivos.
+
 #### Artículo 71
 
 No se aplicarán al Ministerio Público las disposiciones legales que rigen la acción de la Contraloría General de la República, salvo en aquellas materias en que la presente ley requiere expresamente de la intervención del órgano contralor.
@@ -784,9 +862,15 @@ Fiscales
 
 Fiscal Nacional 1 I
 
+Fiscal Jefe de la
+
+Fiscalía
+
+Supraterritorial 1 III
+
 Fiscal Regional 18 III
 
-Fiscal Adjunto 769 IV-VIII
+Fiscal Adjunto 793 IV-VIII
 
 Funcionarios
 
@@ -819,6 +903,10 @@ El Fiscal Nacional, teniendo presente las necesidades de funcionamiento del Mini
 > **Nota.** NOTA: 2 El Art. 5º de la LEY 20175, publicada el 11.04.2007, creó en la planta de personal establecida en el presente artículo un total de 19 cargos, los que se han repartido en esta actualización de la forma en que la citada norma lo dispone. De conformidad con el Art. 13 de la misma ley, esta modificación rige a contar de 180 días después de su publicación.
 
 > **Nota.** NOTA 3 El artículo 17 de la Ley 21033, publicada el 05.09.2017, modifica la presente norma en el sentido de crear en la planta de personal treinta y seis nuevos cargos que incrementarán el correspondiente número que para cada uno de ellos establece esta norma: Fiscal Regional, un cargo; Fiscal Adjunto, 2 cargos; Director Ejecutivo Regional, un cargo; Jefe de Unidad, 6 cargos; Profesionales, 10 cargos; Técnicos, 5 cargos; Administrativos, 8 cargos, y Auxiliares, 3 cargos.
+
+> **Nota.** NOTA 4 El N° 25 del artículo 1 de la Ley 21771, publicada el 01.10.2025, dispone incorporar en la planta del personal del Ministerio Público, un cargo grado III, denominado Fiscal Jefe de la Fiscalía Supraterritorial. En tanto, su artículo 2, crea los siguientes noventa y siete nuevos cargos: Fiscal Adjunto, 34 cargos; Profesionales, 43 cargos; Técnicos, 14 cargos; Administrativos, 6 cargos. Asimismo, el incremento de estos cargos tendrá lugar gradualmente, desde la publicación de la ley para el cargo de Fiscal Jefe de la Fiscalía Supraterritorial y otros cargos que indica, y para los demás cargos, tendrán lugar desde el día 1 del decimotercer mes contado desde su publicación o bien, a partir del día 1 del vigésimoquinto mes contado desde su publicación, en conformidad a lo dispuesto en el artículo segundo transitorio de la citada ley.
+
+> **Nota.** NOTA 5 El artículo octavo transitorio de la ley 21812, publicada el 01.04.2026, dispone el incremento de la planta contenida en el presente artículo, mediante la creación de 70 cargos de Fiscal Adjunto (grados IV a VIII), 4 cargos de Jefe de Unidad (grados III a V), 100 cargos de Profesionales (grados VI a XI), 27 cargos de Técnicos (grados IX a XIV), 20 cargos de Administrativos (grados XI a XVII) a partir de la fecha de publicación de la citada norma, los que se incrementarán en forma gradual en las cantidades y fechas señaladas en dicha disposición, hasta alcanzar un total de 205 cargos de Fiscal Adjunto (grados IV a VIII), 4 cargos de Jefe de Unidad (grados III a V), 337 cargos de Profesionales (grados VI a XI), 118 cargos de Técnicos (grados IX a XIV), 150 cargos de Administrativos (grados XI a XVII) y 5 cargos de Auxiliares (grados XVII a XIX), dentro del plazo máximo previsto en la misma norma.
 
 ### Párrafo 3°
 
@@ -1016,6 +1104,10 @@ k) Necesidades de la Fiscalía Nacional, o Regional en su caso, que determinará
 
 En los casos de cargos de exclusiva confianza, la terminación del contrato de trabajo se hará efectiva por medio de la petición de renuncia que formulará el Fiscal Nacional o el Fiscal Regional, según corresponda. Si la renuncia no fuere presentada dentro de las cuarenta y ocho horas de requerida, se declarará vacante el cargo.
 
+#### Artículo 81 bis
+
+Para los efectos de hacer efectivas las causales de terminación del contrato de trabajo de los funcionarios del Ministerio Público señaladas en las letras g) y j) del artículo anterior, deberá realizarse un procedimiento disciplinario cuyas reglas serán determinadas en un reglamento interno. En todo lo no regulado reglamentariamente, se aplicarán las mismas reglas de sustanciación establecidas en el artículo 51.
+
 #### Artículo 82
 
 Si el contrato de trabajo hubiere estado vigente un año o más y se le pusiere término por necesidades de la institución, de conformidad a la presente ley, deberá pagarse al funcionario, al momento de la terminación, una indemnización equivalente a treinta días de la última remuneración mensual devengada por cada año de servicio y fracción superior a seis meses, prestados continuamente al Ministerio Público. Esta indemnización tendrá un límite máximo de trescientos treinta días de remuneración. Con todo, para los efectos de esta indemnización, no se considerará una remuneración mensual superior a noventa unidades de fomento del último día del mes anterior al pago, limitándose a dicho monto la base de cálculo.
@@ -1042,13 +1134,35 @@ El Fiscal Nacional y los fiscales regionales podrán determinar la contratación
 
 De igual forma, podrán contratar, sobre la base de honorarios, a profesionales y técnicos de nivel superior o expertos en determinadas materias.
 
+#### Artículo 85 bis
+
+Los procedimientos de adquisición de bienes y servicios que se señalan a continuación, tendrán el carácter de reservados y se entenderán como tales para los efectos del inciso segundo del artículo 20 de la Ley N° 19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios. Tendrán la referida calidad aquellos requeridos para:
+
+a) El desarrollo de actuaciones de investigación, en conformidad con el artículo 182 del Código Procesal Penal.
+
+b) El uso de herramientas tecnológicas para el análisis criminal.
+
+c) La adopción de medidas para la seguridad de fiscales y funcionarios.
+
+d) La oportuna adopción de medidas para proteger a víctimas y testigos.
+
+El Fiscal Nacional, a través de la División de Probidad e Integridad y Auditoría Interna, deberá supervisar que los procesos de adquisición y ejecución de los contratos que se hayan exceptuado se desarrollen y ejecuten de forma ajustada al decreto ley N° 1.263, de 1975, orgánico de administración financiera del Estado, a la Ley de Presupuestos del Sector Público y a la Ley N° 19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios.
+
+Sin perjuicio de lo anterior, el Fiscal Nacional deberá remitir semestralmente a la Comisión Especial de la Cámara de Diputados a que se refiere el artículo 37 de la Ley N° 19.974, sobre el Sistema de Inteligencia del Estado y crea la Agencia Nacional de Inteligencia, y al Ministerio de Hacienda, un informe de carácter reservado de todas las compras de bienes y servicios adquiridos con aplicación a lo dispuesto en este artículo, con indicación de los montos involucrados, los proveedores de los bienes y servicios y la ejecución del respectivo contrato.
+
 #### Artículo 86
 
 Las personas que se desempeñen en el Ministerio Público tendrán derecho a exigir a la institución que las defienda y que se persiga la responsabilidad civil y criminal de quienes atenten contra su libertad, su vida, su integridad física o psíquica, su honra o su patrimonio, con motivo del desempeño de sus funciones.
 
+#### Artículo 86 bis
+
+La formación y perfeccionamiento de los fiscales adjuntos, y la capacitación de éstos y de los funcionarios estará a cargo de una Unidad de Formación, Perfeccionamiento y Capacitación del Ministerio Público, con sede en la Fiscalía Nacional, que tendrá como función la de diseñar e implementar dichos programas y cursos.
+
+El cargo de Director de la Unidad de Formación, Perfeccionamiento y Capacitación será de exclusiva confianza del Fiscal Nacional. Sin perjuicio de lo anterior, podrá designar en dicho cargo a un fiscal adjunto en ejercicio, si lo estimare pertinente, debiendo proveerse las correspondientes suplencias en su fiscalía de origen en tanto ejerza dicha labor, y pudiendo retornar a la misma una vez cesado en el cargo.
+
 T I T U L O VII
 
-Capacitación y perfeccionamiento
+Formación, perfeccionamiento y capacitación
 
 #### Artículo 87
 
@@ -1057,6 +1171,10 @@ El Fiscal Nacional, por propia iniciativa o a proposición de los Fiscales Regio
 El Ministerio Público ejecutará la capacitación a través de convenios con terceros, seleccionados mediante licitación, a la que podrán postular personas naturales o jurídicas públicas o privadas, nacionales o internacionales. Sin perjuicio de lo anterior, podrá también autorizarse a los fiscales o funcionarios a concurrir a cursos que impartan terceros y se ajusten a los programas de capacitación.
 
 El Fiscal Nacional reglamentará la forma de distribución de los recursos anuales que se destinarán a actividades de capacitación, así como su periodicidad, formas de selección de los alumnos, bases de los concursos, licitación de fondos y los niveles de exigencias mínimas que se requerirán a quienes realicen la capacitación.
+
+#### Artículo 87 bis
+
+Los fiscales y funcionarios podrán ser designados de manera temporal, por resolución del Fiscal Nacional y previo concurso interno, por un máximo de tres meses en cada año calendario, para impartir cursos de capacitación, perfeccionamiento y formación integral a los fiscales y funcionarios de la institución. Estos cursos tendrán como objetivo el desarrollo, complemento, perfeccionamiento o actualización de los conocimientos y destrezas necesarios para el eficiente desempeño de las funciones y aptitudes funcionarias, en el marco de las políticas institucionales. Esta designación no constituirá una renuncia al cargo de fiscal. El Fiscal Nacional regulará en un reglamento los factores mínimos a ser considerados en estos concursos, las funciones y obligaciones de quienes sean designados para estas labores y las demás materias que se requieran.
 
 #### Artículo 88
 
@@ -1093,6 +1211,46 @@ El Ministerio Público, en el mes de abril de cada año, deberá publicar en su 
 Un reglamento interno, el que deberá dictarse dentro de los ciento ochenta días contados desde la entrada en vigencia del presente Título, regulará el procedimiento de elaboración y los contenidos específicos del Plan.
 
 El Fiscal Nacional dará cuenta pública de los resultados del Plan Institucional Anual de conformidad al artículo 21. Además, la referida cuenta se publicará en la página web institucional.
+
+## Título X
+
+Sistema de Supervisión de la Persecución Penal
+
+#### Artículo 92
+
+Créase el Sistema de Supervisión de la Persecución Penal, cuyo objetivo será velar por el cumplimiento de lo dispuesto en la normativa legal aplicable, las instrucciones generales que dicte el Fiscal Nacional y por la calidad y oportunidad de la persecución penal. La Unidad de Supervisión de la Persecución Penal, dependiente de la División de Planificación, Control de la Gestión y Supervisión, estará encargada del funcionamiento y administración del Sistema, debiendo respetar la autonomía de cada fiscal en la dirección de la investigación y el ejercicio de la acción penal pública, conforme a la Constitución y las leyes y, especialmente, con lo dispuesto en la letra a) del artículo 17 y en el artículo 44.
+
+La Unidad de Supervisión de la Persecución Penal deberá formular un plan anual de supervisión, de carácter reservado, el cual será sancionado por el Fiscal Nacional al término de cada año calendario. Para la ejecución de dicho plan podrá considerar supervisiones generales o temáticas, pudiendo versar sobre determinadas tipologías o fenómenos delictuales, abordar una o más Fiscalías Locales y el Sistema de Análisis Criminal para Crimen Organizado y Delitos de Alta Complejidad.
+
+Para llevar a cabo la supervisión, la Unidad realizará aquellas actividades necesarias para el cumplimiento de sus funciones, las que serán establecidas por el Reglamento señalado en el artículo siguiente.
+
+#### Artículo 93
+
+La Unidad de Supervisión de la Persecución Penal estará conformada por fiscales adjuntos y profesionales que apoyarán en el ejercicio de dicha función.
+
+Los fiscales adjuntos que sean designados a esta Unidad contarán con dedicación exclusiva a la labor de supervisión, y durarán en dicha función por un plazo de cuatro años, prorrogables por una sola vez y por el mismo período, debiendo en dicho caso proveerse las correspondientes suplencias en sus fiscalías de origen, de acuerdo a la disponibilidad presupuestaria de la institución, y obligándose a retornar a sus funciones habituales transcurrido dicho plazo.
+
+Un reglamento dictado por el Fiscal Nacional regulará la forma de funcionamiento del Sistema, el contenido mínimo del Plan Anual de Supervisión, los lineamientos para el diseño y desarrollo de actividades de supervisión, sus consecuencias en las evaluaciones de desempeño, los requisitos y las características del concurso para los fiscales adjuntos y profesionales que conformarán esta Unidad, entre otras materias que se consideren necesarias para el adecuado funcionamiento del Sistema de Supervisión de la Persecución Penal.
+
+## Título XI
+
+Evaluaciones externas
+
+#### Artículo 94
+
+El funcionamiento del Ministerio Público deberá ser evaluado cada tres años, por una entidad externa, conforme a los mecanismos y criterios de evaluación señalados en este artículo.
+
+El objeto de esta evaluación será fortalecer las capacidades institucionales y de autoevaluación de la Fiscalía Nacional, de la Fiscalía Supraterritorial y de las Fiscalías Regionales, así como promover la mejora continua de la calidad de la persecución penal y la atención de víctimas y testigos. Para efectos de este artículo, la Fiscalía Nacional estará constituida por todas sus unidades especializadas y unidades de apoyo y por aquellas que no dependan de una Fiscalía Regional.
+
+La evaluación deberá medir los resultados de las acciones desarrolladas para el cumplimiento de las funciones constitucionales del Ministerio Público, mediante parámetros de eficiencia, eficacia y calidad. Para ello, se deberán considerar, entre otros, los siguientes criterios: la cantidad de investigaciones de hechos constitutivos de delito iniciadas y concluidas; las formas de término de dichas investigaciones, y los procedimientos de acompañamiento y asesoría realizados a víctimas y testigos, así como los procedimientos y coordinaciones necesarias con los demás actores relevantes para la persecución penal. Con todo, el informe deberá contener las mediciones con los resultados globales del Ministerio Público.
+
+El Ministerio Público contratará, previa licitación pública, a una entidad evaluadora externa, cuyo informe se publicará en la página web institucional al mes siguiente de la entrega de la evaluación realizada por dicha entidad, no más allá de dieciocho meses después del cuarto año a que se refiere el inciso primero. Asimismo, sus conclusiones deberán incluirse en la siguiente cuenta pública del Ministerio Público.
+
+#### Artículo 95
+
+La Fiscalía Supraterritorial y las Fiscalías Regionales deberán aplicar anualmente procedimientos de autoevaluación institucional, cuyos resultados deberán ser considerados como antecedentes de la evaluación señalada en el artículo anterior.
+
+Los criterios de dicha autoevaluación serán fijados por el Fiscal Nacional, a través de un reglamento.
 
 ## Artículos transitorios
 
