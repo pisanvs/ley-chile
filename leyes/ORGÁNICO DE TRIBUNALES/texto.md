@@ -3112,6 +3112,8 @@ El ministro de la Corte Suprema que sea cónyuge, que tenga un acuerdo de unión
 
 No podrán ingresar en el Escalafón Secundario aquellos que sean cónyuges o tengan alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o fiscal judicial de la Corte Suprema o de Corte de Apelaciones, o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer. El mismo impedimento se aplicará a aquellos que tengan un acuerdo de unión civil con los referidos ministros o fiscales.
 
+No podrá ser nombrado en alguno de los cargos que integran la segunda serie del Escalafón Secundario ni ser incluido en la nómina correspondiente, quien se encuentre ligado por matrimonio, por acuerdo de unión civil, por parentesco de consanguinidad hasta el tercer grado inclusive, por afinidad hasta el segundo grado, o por adopción, al Presidente de la República, a los senadores y diputados, a los Ministros y al Fiscal Judicial de la Corte Suprema, a los ministros y fiscales judiciales de las Cortes de Apelaciones, a los abogados integrantes de los Tribunales Superiores de Justicia, a los Ministros del Tribunal Constitucional, a los ministros de Estado, a los subsecretarios, a los delegados presidenciales regionales, a los gobernadores regionales, al Fiscal Nacional y a todos los fiscales del Ministerio Público, al Contralor General de la República, al Director Nacional del Servicio Civil, a los miembros del Consejo de Alta Dirección Pública y a todo aquel que tenga un cargo directivo de exclusiva confianza o de alta dirección pública hasta el tercer nivel jerárquico en la Dirección Nacional del Servicio Civil. Esta inhabilidad se extenderá por el plazo de un año contado desde el cese efectivo de la respectiva autoridad en su cargo.
+
 No podrá ingresar en el Escalafón del Personal de Empleados el que sea cónyuge o tenga un acuerdo de unión civil o alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o con el fiscal de la Corte Suprema o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer.
 
 Del mismo modo, no puede ser incluido en terna ni ser nombrado en el referido escalafón aquel que sea cónyuge o tenga un acuerdo de unión civil o alguno de los parentescos o vínculos indicados en el inciso anterior con quien, por razón de su cargo, deba o pueda participar en su calificación.
@@ -3198,13 +3200,13 @@ Quinta Serie: Receptores de juzgados de letras.
 
 Sexta Serie: Miembros de los consejos técnicos y bibliotecarios.
 
-Cada una de estas series, con excepción de la tercera, se dividirá en tres categorías.
+Cada una de estas series, con excepción de la segunda y la tercera, se dividirá en tres categorías.
 
-Figurarán en la primera categoría los funcionarios de las cinco series que desempeñen sus cargos en una comuna o agrupación de comunas que sirva de asiento a una Corte de Apelaciones, o en el territorio jurisdiccional de juzgados considerados en la categoría de asiento de Corte de Apelaciones.
+Figurarán en la primera categoría los funcionarios de las cuatro series que desempeñen sus cargos en una comuna o agrupación de comunas que sirva de asiento a una Corte de Apelaciones, o en el territorio jurisdiccional de juzgados considerados en la categoría de asiento de Corte de Apelaciones.
 
-En la segunda categoría, los funcionarios de las cinco series que desempeñen sus cargos en el territorio jurisdiccional de juzgados de capital de provincia.
+En la segunda categoría, los funcionarios de las cuatro series que desempeñen sus cargos en el territorio jurisdiccional de juzgados de capital de provincia.
 
-En la tercera categoría, los funcionarios de las cinco series que sirven sus cargos en el territorio jurisdiccional de juzgados de comuna o agrupación de comunas.
+En la tercera categoría, los funcionarios de las cuatro series que sirven sus cargos en el territorio jurisdiccional de juzgados de comuna o agrupación de comunas.
 
 La tercera serie, tendrá las siguientes categorías:
 
@@ -3250,9 +3252,9 @@ La evaluación se hará por quienes se indica a continuación:
 
 a) La Corte Suprema, en pleno, calificará a los ministros de Cortes de Apelaciones, a los relatores y procuradores del número que se desempeñen en dicho tribunal, a su secretario, prosecretario y empleados;
 
-b) Las Cortes de Apelaciones, en pleno, calificarán a los jueces de letras, a sus secretarios, relatores y empleados, y a los secretarios de juzgados y funcionarios auxiliares de la Administración de Justicia que ejerzan sus funciones en el territorio jurisdiccional de juzgados de ciudad asiento de Corte de Apelaciones. También calificarán a los demás notarios que ejerzan funciones en el territorio de su jurisdicción, previo informe del juez o de los jueces en cuyo territorio jurisdiccional se desempeñen;
+b) Las Cortes de Apelaciones, en pleno, calificarán a los jueces de letras, a sus secretarios, relatores y empleados, y a los secretarios de juzgados y funcionarios auxiliares de la Administración de Justicia que ejerzan sus funciones en el territorio jurisdiccional de juzgados de ciudad asiento de Corte de Apelaciones. También calificarán a los demás notarios que ejerzan funciones en el territorio de su jurisdicción, previo informe del fiscal judicial respectivo, quien deberá llevar un registro cronológico de todos sus informes sobre cada una de las notarías del territorio de su jurisdicción, los que deberán estar digitalizados y a disposición de las Cortes de Apelaciones y del Fiscal Judicial de la Corte Suprema;
 
-c) El fiscal judicial de la Corte Suprema calificará a su secretario abogado, a los empleados de su oficio y a los fiscales de las Cortes de Apelaciones;
+c) El Fiscal Judicial de la Corte Suprema calificará a su secretario abogado, a los empleados de su oficio y a los fiscales de las Cortes de Apelaciones. Este funcionario deberá abrir especial apartado de calificación respecto de la labor de supervisión y control que a los fiscales de las Cortes de Apelaciones les otorga la ley en relación con los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial en el cumplimiento de sus funciones;
 
 d) Los fiscales judiciales de las Cortes de Apelaciones calificarán a los empleados de su oficio;
 
@@ -3478,15 +3480,45 @@ Con respecto al derecho propio a que se refiere la letra a), tendrá aplicación
 
 #### Artículo 287
 
-Las ternas para proveer los cargos de notario, conservador y archivero se formarán del modo siguiente:
+El proceso de selección para proveer los cargos de los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial se sujetará a las normas aplicables a los altos directivos públicos de segundo nivel jerárquico contenidas en el Párrafo 3º del Título VI de la ley Nº 19.882, que regula nueva política de personal a los funcionarios públicos que indica, y a las disposiciones especiales establecidas a continuación:
 
-a) Para integrantes de la primera categoría del Escalafón Secundario, con el notario, conservador o archivero más antiguo de la categoría inmediatamente inferior que figure en lista de méritos y que exprese su interés en el cargo y con dos notarios, conservadores o archiveros de la misma categoría del cargo que se trate de proveer o de la inmediatamente inferior que se opongan al concurso, elegidos de conformidad a lo dispuesto en el inciso primero del artículo 281.
+a) Corresponderá al Ministro o Ministra de Justicia y Derechos Humanos ejercer el rol de autoridad competente para efectos de estos procesos. En dicho contexto, deberá definir perfiles específicos y uniformes para los cargos de notarios, conservadores, archiveros y oficios mixtos. Con arreglo a estos perfiles, que deberán ser informados a la Dirección Nacional del Servicio Civil, se confeccionarán las bases concursales y los instrumentos de evaluación estandarizados que serán utilizados en la fase de evaluación de los postulantes.
 
-Para los efectos del derecho propio, se aplicará lo dispuesto en el inciso final del artículo 284;
+Para la elaboración de dichos instrumentos de evaluación, la Dirección Nacional del Servicio Civil podrá contratar la asesoría de académicos y expertos en derecho registral y notarial.
 
-b) Para integrantes de la segunda categoría, con el notario, conservador o archivero más antiguo de la categoría inmediatamente inferior que figure en lista de méritos y que exprese su interés en el cargo. Al efecto, tendrá aplicación lo dispuesto en el inciso final del artículo 284. Un segundo lugar será ocupado por el notario, conservador o archivero de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, que se oponga al concurso, elegido de conformidad a lo establecido en el inciso primero del artículo 281. El tercer lugar en la terna será ocupado por uno de los notarios, conservadores o archiveros recién aludidos, elegido de conformidad al inciso primero del artículo 281, o por un abogado extraño a la carrera, elegido por méritos. Entre estos abogados extraños no podrá figurar un miembro del Escalafón Primario, y
+El Consejo de Alta Dirección Pública indicará los lineamientos relativos a la definición de perfiles de selección de estos cargos, y tendrá para ello en especial consideración las normas de los párrafos 7º, 8º y 9º del Título XI del presente Código.
 
-c) Para integrantes de la tercera categoría, con el o los notarios, conservadores o archiveros de la misma categoría, los que, en caso de oponerse, ocuparán al menos un lugar en la terna, elegido o elegidos de conformidad a lo establecido en el inciso primero del artículo 281, y con abogados ajenos al Escalafón que se opongan al cargo, elegidos por méritos.
+b) Los instrumentos de evaluación deberán estar adaptados a cada perfil, y no podrán aplicarse los mismos instrumentos para la evaluación de perfiles diversos.
+
+Los instrumentos de evaluación estarán destinados a la medición de los conocimientos jurídicos, de administración y destrezas de los postulantes. En particular deberán evaluarse los conocimientos en materia de derecho registral y notarial, de acuerdo con el respectivo perfil.
+
+c) Corresponderá al Ministro o Ministra de Justicia y Derechos Humanos informar a la Dirección Nacional del Servicio Civil los cargos de funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial que se encuentren vacantes, en el plazo de diez días hábiles contado desde la comunicación de la respectiva vacancia por parte de la Corte de Apelaciones que corresponda.
+
+d) La Dirección Nacional del Servicio Civil efectuará la respectiva convocatoria, conforme a los perfiles específicos y uniformes definidos en las bases concursales, en la cual se indicará la escala de evaluación aplicable a los instrumentos que se utilicen en el proceso de selección.
+
+e) La respectiva convocatoria no podrá condicionar la postulación o selección al cumplimiento de requisitos diversos a los previstos en el artículo 463 bis. Todos los postulantes que cumplan con estos requisitos serán incorporados directamente a la fase de evaluación del proceso de selección.
+
+En la fase de evaluación, el ejercicio previo de cargos de notario, conservador o archivero en calidad de titular deberá ponderarse en el puntaje final con un valor de un 25% en las postulaciones a cargos de conservador, notario o archivero con competencia en alguna de las comunas señaladas en el artículo 54. Se entenderá que el postulante cuenta con ejercicio previo cuando haya servido en dichos cargos por un período mínimo de tres años en calidad de titular. En las postulaciones a los demás oficios, el ejercicio previo de funciones notariales, registrales o archivísticas no podrá ser considerado como factor de evaluación.
+
+f) No procederá lo previsto en el inciso tercero del artículo cuadragésimo octavo ni en el inciso tercero del artículo quincuagésimo cuarto de la ley Nº 19.882.
+
+g) En base a los resultados obtenidos en este proceso, se elaborará una nómina en la cual se ordenará a los postulantes por estricto orden decreciente de puntaje. En caso de existir empate, precederá en la nómina aquel postulante que hubiese obtenido primero el título de abogada o abogado.
+
+h) La nómina, con indicación del puntaje obtenido por cada uno de los postulantes, deberá ser publicada en el sitio web del Ministerio de Justicia y Derechos Humanos.
+
+i) El Consejo de Alta Dirección Pública remitirá al Presidente o Presidenta de la República los antecedentes académicos y profesionales de los postulantes que ocupen los tres primeros lugares en la nómina, para que éste proceda a determinar la identidad del seleccionado de entre ellos. La selección solo podrá fundarse en la valoración de los antecedentes curriculares del respectivo postulante, y podrá tener en consideración la experiencia previa en el ejercicio de un cargo de naturaleza similar al que se concursa. La Dirección Nacional del Servicio Civil deberá abstenerse de expresar preferencia por alguno de los candidatos.
+
+j) Transcurrido el plazo máximo de veinte días hábiles contado desde la comunicación efectuada por el Consejo de Alta Dirección Pública, sin que el Presidente o Presidenta de la República haya seleccionado a alguno de los postulantes, se entenderá que se ha escogido a aquel que ocupó el primer lugar de la nómina, y se procederá a su nombramiento.
+
+k) En caso de que el postulante que encabeza la lista se ubique en el decil superior de acuerdo al puntaje máximo según la escala de evaluación a que se refiere el literal d), y quien le siga inmediatamente se encuentre por debajo del ochenta por ciento de los resultados de las evaluaciones, se entenderá que quien figura en el primer lugar de la nómina queda automáticamente seleccionado, sin que proceda lo previsto en los literales g) y h) precedentes. Esta circunstancia será informada por el Consejo de Alta Dirección Pública al Presidente o Presidenta de la República, para efectos de la formalización del nombramiento.
+
+l) El respectivo nombramiento será formalizado a través de decreto fundado del Ministerio de Justicia y Derechos Humanos.
+
+m) Si una vez determinada la identidad del postulante seleccionado y notificada dicha circunstancia al interesado, éste se desiste de su postulación, se proveerá el cargo con alguno de los restantes candidatos de la terna, la que deberá completarse en riguroso orden de precedencia de acuerdo con la posición que aquellos ocupen en la respectiva nómina.
+
+n) Si dentro de los seis meses siguientes al nombramiento se produce por cualquier motivo la vacancia del cargo, el Presidente o Presidenta de la República podrá designar a uno de los candidatos que hayan integrado la terna.
+
+La convocatoria deberá explicitar las vías a través de las cuales los interesados podrán ejercer el derecho a reclamar previsto en el artículo quincuagésimo sexto de la ley Nº 19.882.
 
 #### Artículo 288
 
@@ -3689,6 +3721,8 @@ Los jueces jubilados gozarán de los mismos honores y prerrogativas que los que 
 #### Artículo 310
 
 El Presidente de la República, a propuesta o con el acuerdo de la Corte Suprema, podrá ordenar el traslado de los funcionarios o empleados judiciales comprendidos en este Código a otro cargo de igual categoría. En la misma forma podrá autorizar las permutas que soliciten funcionarios de igual categoría.
+
+Lo señalado en el inciso anterior no procederá tratándose de los funcionarios que integran la segunda serie del Escalafón Secundario del Poder Judicial.
 
 ### 7. De los deberes y prohibiciones a que están sujeto los jueces
 
@@ -4002,11 +4036,75 @@ Corresponde especialmente al fiscal judicial de la Corte Suprema de Justicia:
 
 1°) Vigilar por sí a los ministros o fiscales judiciales de las Cortes de Apelaciones, y por sí o por medio de cualesquiera de los fiscales judiciales de las Cortes de Apelaciones, la conducta funcionaria de los demás tribunales y empleados del orden judicial, exceptuados los miembros de la Corte Suprema, y para el solo efecto de dar cuenta a este tribunal de las faltas o abusos o incorrecciones que notare, a fin de que la referida Corte, si lo estima procedente, haga uso de las facultades correccionales, disciplinarias y económicas que la Constitución y las leyes le confieren;
 
-2°) Suprimido.
+2º) Supervisar, por sí o por medio de los fiscales judiciales de las respectivas Cortes de Apelaciones, la conducta funcionaria de los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial para efectos de dar cuenta a la Corte de Apelaciones que corresponda, en su caso, de las faltas, abusos o incorrecciones que note, a fin de que los referidos tribunales inicien los procedimientos destinados a aplicar las sanciones que correspondan; o cuando ello no sea procedente, se determinen las medidas que sean del caso; sin perjuicio de las facultades correccionales, disciplinarias y económicas que le corresponden a la Corte Suprema.
+
+Para el ejercicio de esta función, le corresponderá elaborar el plan anual de supervisión y control del ejercicio de la función que realizan los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial, el que deberá considerar los mecanismos de supervisión establecidos en el artículo siguiente.
 
 3°) Transmitir y hacer cumplir al fiscal judicial que corresponda los requerimientos que el Presidente de la República tenga a bien hacer con respecto a la conducta ministerial de los jueces y demás empleados del Poder Judicial, para que reclame las medidas disciplinarias que correspondan, del tribunal competente, o para que, si hubiere mérito bastante, entable la correspondiente acusación.
 
-Las funciones que corresponden al ministerio público para los efectos del Nº 15º del artículo 32 de la Constitución Política serán ejercidas por lo que hace a medidas de carácter general, por el fiscal judicial de la Corte Suprema, y por lo que hace a medidas que afecten a funcionarios determinados del orden judicial, por el fiscal judicial de la respectiva Corte de Apelaciones.
+4º) Determinar anualmente la forma como se distribuirá el ejercicio de las funciones de los fiscales judiciales en las Cortes de Apelaciones que cuentan con más de uno, sin perjuicio de lo señalado en la ley.
+
+5º) Dar cuenta pública anual de sus funciones, en especial de la supervisión referida en el número 2º), sin perjuicio de la información que periódicamente deba mantener a disposición a través de un sitio web, según lo establecido en el artículo 353 ter.
+
+Las funciones que corresponden al ministerio público para los efectos del Nº 13º del artículo 32 de la Constitución Política serán ejercidas por lo que hace a medidas de carácter general, por el fiscal judicial de la Corte Suprema, y por lo que hace a medidas que afecten a funcionarios determinados del orden judicial, por el fiscal judicial de la respectiva Corte de Apelaciones.
+
+#### Artículo 353 bis
+
+Corresponde al fiscal judicial de la respectiva Corte de Apelaciones supervisar la conducta funcionaria de los funcionarios y las funcionarias de la segunda serie del Escalafón Secundario del Poder Judicial, para lo cual ejercerá las facultades que la ley le encomienda.
+
+La supervisión se hará efectiva especialmente a través de:
+
+a) La realización de inspecciones a sus respectivos oficios.
+
+b) La revisión de los informes de auditorías externas anuales a que debe someterse la gestión de estos funcionarios en los casos que determina la ley, en virtud de lo dispuesto en el artículo 482 ter.
+
+c) La consulta y examen de sus repositorios de documentos.
+
+d) La verificación del cumplimiento de sus obligaciones relativas a equipos e infraestructura.
+
+Para los efectos de esta supervisión, los fiscales judiciales deberán tener habilitado un canal para recibir los reclamos de los usuarios, requerir la información al Servicio Nacional del Consumidor sobre las denuncias que haya recibido respecto de los funcionarios y las funcionarias de la segunda serie del Escalafón Secundario del Poder Judicial, y la realización de encuestas de satisfacción de usuarios.
+
+Los funcionarios y las funcionarias de la segunda serie del Escalafón Secundario del Poder Judicial tendrán la obligación de entregar oportunamente toda la información relativa al ejercicio de su función que les sea requerida por el Fiscal Judicial de la Corte Suprema o por los fiscales judiciales de las respectivas Cortes de Apelaciones a quienes corresponda su supervisión.
+
+En caso de que el proceso de supervisión permita constatar infracciones a las obligaciones funcionarias, el fiscal judicial actuará como promotor y formulará cargos, lo que será seguido por la instrucción de un proceso disciplinario a cargo de un Ministro de la Corte de Apelaciones respectiva, designado por ésta.
+
+El referido proceso disciplinario será iniciado formalmente mediante la dictación de una resolución por parte del órgano encargado de resolver dicha responsabilidad, que deberá contener mínimamente una descripción de los hechos a investigar, las personas involucradas y la designación del funcionario que deberá instruir el proceso indagatorio.
+
+Quien instruye el procedimiento deberá ordenar prontamente la notificación a la persona afectada de manera personal, la que será practicada por un ministro de fe, ya sea en su lugar de trabajo, residencia o domicilio. En caso de no ser hallado en dos oportunidades, la notificación se realizará mediante carta certificada.
+
+De todas las actuaciones y diligencias que realice el instructor de la investigación deberá dejarse registro escrito, el cual podrá ser consultado por la persona afectada.
+
+La duración de la investigación será de treinta días corridos, contados desde la dictación de la resolución que le da inicio, prorrogable por el mismo plazo por una vez, mediante resolución fundada dictada antes del vencimiento.
+
+Dentro de los cinco días siguientes a haberse agotado la investigación o, en su caso, al cumplimiento del plazo fijado por ella, quien instruye el procedimiento decretará su cierre, de oficio o a petición de parte, y propondrá el sobreseimiento de la causa o bien formulará cargos en contra de la o las personas investigadas, conforme a los artículos siguientes.
+
+El Pleno de la referida Corte, con exclusión del Ministro instructor decidirá sobre la absolución o aplicación de sanciones al funcionario, o la aprobación o rechazo del sobreseimiento propuesto por dicho Ministro, y podrá disponer las medidas disciplinarias pertinentes. Previo a la decisión, deberán recibirse los descargos del funcionario, quien los formulará dentro del plazo de diez días corridos contado desde que le notifiquen los cargos formulados y los resultados del proceso de instrucción.
+
+La resolución del procedimiento disciplinario será impugnable mediante el recurso de apelación. Si la decisión es adoptada por la Corte Suprema, será impugnable sólo a través del recurso de reposición. En ambos casos el recurso deberá ser deducido dentro de los cinco días siguientes a la notificación de la resolución impugnada y ser fundado.
+
+El recurso de reposición será presentado ante el mismo órgano que resolvió el procedimiento disciplinario, a objeto que lo conozca y emita pronunciamiento al respecto. El recurso de apelación, por su parte, se presentará ante el mismo órgano que resolvió el procedimiento disciplinario, a objeto que lo remita al superior jerárquico que debe resolverlo.
+
+Los alegatos deberán ser solicitados conjuntamente con la interposición del recurso.
+
+Si la parte recurrente lo solicita, el órgano que conozca de la apelación ordenará la vista del recurso y su inclusión en la tabla de una próxima audiencia. En los demás casos el recurso se conocerá en cuenta.
+
+Los fiscales judiciales de las Cortes de Apelaciones deberán remitir el informe referido en la letra b) del inciso cuarto del artículo 273, y dar cuenta pública de sus funciones anualmente, sin perjuicio de la información que periódicamente deban mantener a disposición del público a través de un sitio web, según lo previsto en el artículo 353 ter.
+
+#### Artículo 353 ter
+
+Para los efectos de lo dispuesto en los artículos anteriores, la Fiscalía Judicial deberá contar con un sitio web que mantenga disponible:
+
+a) Una nómina con la información de todos los oficios de los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial, con indicación de las comunas y territorios jurisdiccionales en los que éstos se encuentran disponibles para realizar su función.
+
+b) Un canal para el ingreso de denuncias.
+
+c) Los informes en que consten las auditorías a que se refiere el artículo 482 ter.
+
+d) La lista de los miembros de la segunda serie del Escalafón Secundario del Poder Judicial que hayan sido sancionados en procesos de instrucción, en los términos previstos en el artículo 21 de la ley Nº 19.628.
+
+e) Cualquier otra información que consideren relevante para el correcto ejercicio de sus facultades.
+
+La información a la que se refiere este artículo deberá mantenerse actualizada en el sitio web respectivo.
 
 #### Artículo 354
 
@@ -4420,13 +4518,15 @@ El litigante rebelde sólo podrá comparecer ante estos últimos tribunales repr
 
 #### Artículo 399
 
-Los notarios son ministros de fe pública encargados de autorizar y guardar en su archivo los instrumentos que ante ellos se otorgaren, de dar a las partes interesadas los testimonios que pidieren, y de practicar las demás diligencias que la ley les encomiende.
+Los notarios son ministros de fe pública encargados de extender y autorizar los instrumentos públicos y privados que ante ellos se otorguen, de guardarlos en los casos y formas que la ley lo señale, de dar copias de ellos y de practicar las demás diligencias que la ley les encomiende.
 
 #### Artículo 400
 
 En cada comuna o agrupación de comunas que constituya territorio jurisdiccional de jueces de letras, habrá a lo menos un notario.
 
-En aquellos territorios jurisdiccionales formados por una agrupación de comunas, el Presidente de la República, previo informe favorable de la Corte de Apelaciones respectiva, podrá crear nuevas notarías disponiendo que los titulares establezcan sus oficios dentro del territorio de una comuna determinada. Estos notarios podrán ejercer sus funciones dentro de todo el territorio del juzgado de letras en lo civil que corresponda.
+En aquellos territorios jurisdiccionales formados por una agrupación de comunas, el Presidente de la República podrá crear nuevas notarías, para lo cual dispondrá que los titulares establezcan sus oficios dentro del territorio de una comuna determinada o en una localidad, sector o barrio específico. Estos notarios podrán ejercer sus funciones dentro de todo el territorio del juzgado de letras en lo civil que corresponda.
+
+Para la creación de nuevas notarías, el Presidente de la República deberá considerar necesariamente que la actividad económica así lo requiera; que sea necesario para brindar un servicio de calidad y un adecuado acceso a las gestiones y servicios notariales a los habitantes de la comuna o agrupación de comunas, localidad, sector o barrio específico, para lo que tendrá en consideración el número de habitantes, la población atendida y las tecnologías disponibles; la presencia en ciudades asiento de Corte y en capitales de provincia; la proporcionalidad territorial y económica entre los distintos oficios, y las condiciones técnicas que permitan proyectar la sostenibilidad y operación regular del servicio. En cualquier caso, el Presidente de la República requerirá previamente tanto de un informe del Fiscal Judicial de la Corte Suprema, quien deberá recoger, entre otras, la opinión de la respectiva Corte de Apelaciones, cuanto de un informe técnico que deberá elaborar el Ministerio de Justicia y Derechos Humanos. Estos informes deberán ser emitidos en el plazo de dos meses, contado desde su requerimiento.
 
 En aquellas comunas en que exista más de una notaría, el Presidente de la República asignará a cada una de ellas una numeración correlativa, independientemente del nombre de quienes las sirvan.
 
@@ -4436,7 +4536,7 @@ Ningún notario podrá ejercer sus funciones fuera de su respectivo territorio.
 
 Son funciones de los notarios:
 
-1.- Extender los instrumentos públicos con arreglo a las instrucciones que, de palabra o por escrito, les dieren las partes otorgantes;
+1.- Extender y autorizar los instrumentos públicos y privados con arreglo a las instrucciones que, de palabra o por escrito, les dieren las partes otorgantes;
 
 2.- Levantar inventarios solemnes;
 
@@ -4456,17 +4556,79 @@ Son funciones de los notarios:
 
 10.- Autorizar las firmas que se estampen en documentos privados, sea en su presencia o cuya autenticidad conste;
 
-11.- Las demás que les encomienden las leyes.
+11.- Extender actas y custodiar documentos mediante instrucciones, en la forma establecida en la ley;
+
+12.- Remitir electrónicamente al conservador competente, para su inscripción, copia de los títulos translaticios de dominio o la constitución o modificación de cualquier otro derecho real respecto de inmuebles, así como la constitución, modificación o terminación de cualquier tipo de sociedad sujeta a registro, que consten por escritura pública suscrita u otorgada ante él, o en instrumento protocolizado o en reducción a escritura pública, según corresponda, sin necesidad de intervención personal de los interesados, a menos que éstos manifiesten su voluntad en contrario o no cubran el costo de la inscripción al respectivo conservador. Del mismo modo, deberá remitir al conservador competente, para su inscripción, copia de los títulos por él otorgados y que sea facultativo para el interesado inscribir, siempre que el compareciente así lo manifieste y cubra el costo de la respectiva inscripción;
+
+13.- Dar respuesta a los requerimientos de información que hagan organismos del Estado en el cumplimiento de sus funciones, en el plazo de treinta días corridos, sin perjuicio de los plazos que establezcan leyes especiales
+
+14.- Las demás que les encomienden las leyes.
+
+Los notarios deberán realizar personalmente aquellas funciones que la ley les encomienda, sin perjuicio que puedan tener asistentes o asesores, los que podrán cumplir labores administrativas, técnicas o profesionales, accesorias al desempeño de la función notarial.
+
+Cada notario deberá financiar las auditorías externas establecidas en el artículo 482 ter y sujetarse a ellas.
+
+Los notarios serán responsables civil y disciplinariamente por la infracción a lo señalado en el presente artículo, como asimismo por los actos que realicen las personas dependientes de su notaría en el ejercicio de sus funciones.
+
+#### Artículo 401 bis
+
+Para cumplir con sus funciones, los notarios deberán mantener la infraestructura, equipamiento e insumos que permitan:
+
+1. Disponer de medios electrónicos para la transmisión, comunicación y recepción de documentación digital.
+
+2. Llevar un respaldo digital de los repertorios, índices u otro tipo de libros o documentos que les competan de manera electrónica en un repositorio digital, en los términos señalados en el artículo 409 ter.
+
+3. Contar con sistemas electrónicos para el adecuado archivo de los respaldos electrónicos de los documentos extendidos o protocolizados en la notaría, con el fin de garantizar la seguridad, integridad y disponibilidad de la información contenida en ellos. Deberán mantener un estándar de tecnología que permita, al menos:
+
+a) Entregar copias electrónicas de las escrituras públicas e instrumentos protocolizados que consten en sus repertorios.
+
+b) Llevar a cabo comunicaciones, notificaciones e intercambios electrónicos de información entre notarios, conservadores y otros organismos o instituciones, de conformidad con la ley.
+
+c) El acceso por parte del público, de manera remota y gratuita, para la consulta de la información y documentos contenidos en el repositorio digital que lleva el notario.
+
+d) Conservar los respaldos electrónicos de los repertorios, protocolos, libros e índices que por ley deban llevar en el cumplimiento de sus funciones.
+
+4. Contar con un sitio web que a lo menos contenga la dirección del oficio; el horario de funcionamiento; los trámites que pueden realizarse y los requisitos necesarios para ellos; las tarifas por trámite; la lista actualizada de los suplentes o interinos; una nómina con la información del personal contratado para ejercer labores administrativas, técnicas o profesionales accesorias al desempeño de la función notarial, con indicación de las correspondientes remuneraciones percibidas por cada trabajador; los balances anuales; sus declaraciones de intereses y patrimonio; los últimos tres informes de supervisión elaborados por el respectivo fiscal judicial; y un canal para consultas, reclamos y sugerencias.
+
+5. En el sitio web señalado en el número precedente se deberá poder consultar de manera gratuita, a través de un sistema que deberá mantenerse mensualmente actualizado, una copia electrónica de los índices de las escrituras públicas e instrumentos protocolizados que consten en el repositorio digital.
+
+6. Contar con correo electrónico y firma electrónica avanzada.
+
+7. Garantizar la disponibilidad y la accesibilidad de la información contenida en su registro público.
+
+8. Informar trimestralmente al Ministerio de Justicia y Derechos Humanos los aranceles de las distintas actuaciones que realice. El Ministerio deberá publicar esta información en su página web.
+
+> **Nota.** El artículo tercero transitorio de la ley 21772, publicada el 01.10.2025, dispone que las obligaciones de operar a través de medios electrónicos y de contar con un respaldo digital, a que se refiere el presente artículo, entrarán en vigencia en el plazo de seis meses contado desde la publicación en el Diario Oficial del reglamento a que alude el nuevo artículo 409 ter del Código Orgánico de Tribunales.
 
 #### Artículo 402
 
-Cuando un notario se ausentare o inhabilitare para el ejercicio de sus funciones, el juez de letras respectivo de turno, designará al abogado que haya de reemplazarle, mientras dure el impedimiento o estuviere sin proveerse el cargo.
+Antes del treinta de noviembre de cada año, cada notario deberá proponer por escrito y en orden de prelación, ante el Ministerio de Justicia y Derechos Humanos, los nombres de tres abogadas o abogados que cumplan con los requisitos previstos en el artículo 463 bis para que lo reemplacen en caso de ausencia o inhabilidad.
 
-En los lugares de asiento de Corte de Apelaciones la designación de reemplazante corresponderá al Presidente de ella.
+Excepcionalmente, en aquellos territorios jurisdiccionales en los que sólo haya un notario y no fuera posible contar con abogados en número suficiente para formar las listas de conformidad a lo prescrito en el inciso anterior, se permitirá la proposición de uno o dos nombres.
 
-En ambos casos y siempre que no se trate de la aplicación de medidas disciplinarias que provoquen la inhabilidad del notario, éste podrá proponer al juez, el abogado que deba reemplazarlo bajo su responsabilidad.
+No podrán proponerse los nombres de personas que se encuentren en alguna de las situaciones previstas en el inciso segundo del artículo 260 o sean cónyuges, convivientes civiles, se encuentren ligados por adopción o tengan una relación de parentesco, hasta el tercer grado de consanguinidad y segundo de afinidad, ambos inclusive, con funcionarios de la segunda serie del Escalafón Secundario.
 
-Durante el tiempo que durare la ausencia o inhabilidad del notario, el reemplazante designado podrá autorizar las escrituras públicas y dar término a aquellas actuaciones iniciadas por el titular que hayan quedado pendientes, debiendo dejar constancia de tal circunstancia en el respectivo instrumento. Del mismo modo podrá proceder el titular respecto de las escrituras públicas y actuaciones iniciadas por el reemplazante.
+En caso de ausencia o inhabilidad del notario, el Ministerio de Justicia y Derechos Humanos designará al abogado que lo reemplazará, mientras dure el impedimento, de entre aquellos que figuren en la respectiva lista.
+
+El notario titular será responsable por los actos del notario suplente.
+
+El mismo procedimiento se utilizará para el nombramiento de un notario interino en caso de vacancia del cargo o de ausencia permanente, sin perjuicio de lo dispuesto en el literal n) del artículo 287.
+
+De no efectuarse la proposición por parte del notario, el Ministerio de Justicia y Derechos Humanos, a propuesta del fiscal judicial respectivo, designará al abogado o abogada que efectuará el reemplazo, quien deberá cumplir con los requisitos previstos en este artículo. Deberá darse prioridad a quienes hayan rendido dentro de los últimos tres años los instrumentos de evaluación estandarizados a que refiere el artículo 287.
+
+Durante el tiempo que dure la ausencia o inhabilidad del notario, el reemplazante designado podrá autorizar las escrituras públicas y dar término a aquellas actuaciones iniciadas por el titular que hayan quedado pendientes, y deberá dejar constancia de tal circunstancia en el respectivo instrumento. Del mismo modo podrá proceder el titular respecto de las escrituras públicas y actuaciones iniciadas por el reemplazante.
+
+#### Artículo 402 bis
+
+Para dar cumplimiento a lo señalado en el inciso cuarto del artículo anterior, el Ministro de Justicia y Derechos Humanos, dentro del término de quince días hábiles, contado desde la recepción de la nómina propuesta de conformidad a lo previsto en los incisos primero y segundo de dicho artículo, procederá al nombramiento de los respectivos suplentes o interinos de cada oficio mediante decreto exento, con arreglo al orden de prelación previsto en las respectivas nóminas.
+
+Una vez comunicada la ausencia o inhabilidad del notario al Ministerio de Justicia y Derechos Humanos, éste designará al funcionario reemplazante de entre aquéllos que hayan sido nombrados para tales efectos, y se ceñirá de manera estricta al orden de preferencia, en el plazo máximo de cinco días hábiles. La persona designada tendrá el plazo de un día hábil, contado desde que le haya sido notificada la designación, para manifestar su aceptación formal. En caso de no manifestar su aceptación se entenderá que ha desistido del cargo, y procederá la designación de quien figure nombrado en el siguiente lugar en el respectivo acto administrativo.
+
+En caso de no existir nombramiento previo al momento de la ausencia o inhabilidad del notario titular o de existir inhabilidad sobreviniente o desistimiento de todos los abogados nombrados a partir de la nómina, el fiscal judicial respectivo deberá proponer el nombre del reemplazante en los dos días hábiles siguientes. El correspondiente decreto de nombramiento deberá dictarse, a más tardar, en el mismo plazo, contado desde la recepción de la propuesta.
+
+No podrán ejercer como interinos o suplentes quienes ya desempeñen funciones de conservador, archivero o notario en otro oficio.
+
+Lo señalado en este artículo y en el anterior se extiende a los conservadores y archiveros.
 
 2). De las escrituras públicas
 
@@ -4476,7 +4638,7 @@ Escritura pública es el instrumento público o auténtico otorgado con las sole
 
 #### Artículo 404
 
-Las escrituras públicas deben escribirse en idioma castellano y estilo claro y preciso y en ellas no podrán emplearse abreviaturas, cifras ni otros signos que los caracteres de uso corriente, ni contener espacios en blanco.
+Las escrituras públicas deben escribirse en idioma castellano y estilo claro y preciso y en ellas no podrán emplearse abreviaturas, ni otros signos que los caracteres de uso corriente, ni contener espacios en blanco.
 
 Podrán emplearse también palabras de otro idioma que sean generalmente usadas o como término de una determinada ciencia o arte.
 
@@ -4508,7 +4670,7 @@ Se considera que una persona firma una escritura o documento no sólo cuando lo 
 
 #### Artículo 409
 
-Siempre que alguno de los otorgantes o el notario lo exijan, los firmantes dejarán su impresión digital en la forma indicada en el artículo anterior.
+Los suscriptores de escrituras públicas y de documentos privados autorizados ante notario deberán estampar junto a sus firmas la impresión del pulgar de la mano derecha o, en su defecto, el de la izquierda, y el notario deberá dejar constancia de este hecho, o de la imposibilidad absoluta de efectuarlo. Asimismo, podrán los notarios agregar en los registros o protocolos respectivos, fotocopia autorizada de las cédulas de identidad de los intervinientes en dichos documentos.
 
 #### Artículo 409 bis
 
@@ -4519,6 +4681,16 @@ El notario deberá verificar el cumplimiento de los requisitos establecidos en e
 Suscrita una escritura pública electrónica por todos sus otorgantes, y autorizada conforme a la ley, el notario autorizante deberá proceder a insertarla en los registros pertinentes.
 
 Un reglamento dictado por el Ministerio de Justicia y Derechos Humanos y suscrito también por el Ministro de Hacienda y el Ministro Secretario General de la Presidencia, detallará la forma y características que deberán tener las escrituras públicas otorgadas a través de documentos electrónicos y las copias autorizadas de dichas escrituras. Este reglamento, a su vez, detallará la forma en que el notario deberá protocolizar y registrar las escrituras públicas electrónicas y documentos electrónicos que se insertaren a ellas.
+
+#### Artículo 409 ter
+
+Suscrita una escritura pública en papel por todos sus otorgantes y autorizada y sellada conforme a la ley, el notario autorizante deberá digitalizar tal instrumento para incorporarlo en un repositorio digital.
+
+En dicho repositorio digital constarán los respaldos digitales de los repertorios, índices, protocolos u otro tipo de libros o documentos que se encuentren bajo su custodia, para efectos de facilitar su acceso al público y asegurar su resguardo.
+
+Un reglamento dictado por el Ministerio de Justicia y Derechos Humanos, suscrito además por el Ministro de Hacienda, establecerá las características técnicas que de manera específica deberá cumplir el repositorio digital.
+
+> **Nota.** NOTA 1 El artículo tercero transitorio de la ley 21772, publicada el 01.10.2025, dispone que las obligaciones de operar a través de medios electrónicos y de contar con un respaldo digital, a que se refiere el presente artículo, entrarán en vigencia en el plazo de seis meses contado desde la publicación en el Diario Oficial del reglamento a que alude el nuevo artículo 409 ter del Código Orgánico de Tribunales.
 
 #### Artículo 410
 
@@ -4562,6 +4734,10 @@ Protocolización es el hecho de agregar un documento al final del registro de un
 
 Para que la protocolización surta efecto legal deberá dejarse constancia de ella en el libro repertorio el día en que se presente el documento, en la forma establecida en el artículo 430.
 
+Al igual que con las escrituras públicas, el notario deberá digitalizar el documento protocolizado y guardarlo en el repositorio digital.
+
+> **Nota.** NOTA 2 El artículo tercero transitorio de la ley 21772, publicada el 01.10.2025, dispone que las obligaciones de operar a través de medios electrónicos y de contar con un respaldo digital, a que se refiere el presente artículo, entrarán en vigencia en el plazo de seis meses contado desde la publicación en el Diario Oficial del reglamento a que alude el nuevo artículo 409 ter del Código Orgánico de Tribunales.
+
 #### Artículo 416
 
 No pueden protocolizarse, ni su protocolización producirá efecto alguno, los documentos en que se consignen actos o contratos con causa u objeto ilícitos, salvo que lo pidan personas distintas de los otorgantes o beneficiarios de ellos.
@@ -4604,7 +4780,11 @@ Sólo podrán dar copias autorizadas de escrituras públicas o documentos protoc
 
 #### Artículo 422
 
-Las copias podrán ser manuscritas, dactilografiadas, impresas, fotocopiadas, litografiadas o fotograbadas. En ellas deberá expresarse que son testimonio fiel de su original y llevarán la fecha, la firma y sello del funcionario autorizante. El notario deberá otorgar tantas copias cuantas se soliciten.
+Las copias autorizadas de instrumentos públicos podrán otorgarse de manera digital o impresa, según se soliciten. El notario deberá otorgar tantas copias como se pidan, y señalará en ellas que se trata de un testimonio fiel del original. Dichas copias autorizadas llevarán la fecha y la firma del notario, sea ésta manuscrita o electrónica avanzada.
+
+Las copias autorizadas otorgadas mediante documento electrónico deberán ser firmadas y selladas por el notario con firma electrónica avanzada y sellado de tiempo.
+
+> **Nota.** NOTA 3 El artículo tercero transitorio de la ley 21772, publicada el 01.10.2025, dispone que las obligaciones de operar a través de medios electrónicos y de contar con un respaldo digital, a que se refiere el presente artículo, entrarán en vigencia en el plazo de seis meses contado desde la publicación en el Diario Oficial del reglamento a que alude el nuevo artículo 409 ter del Código Orgánico de Tribunales.
 
 #### Artículo 423
 
@@ -4666,7 +4846,7 @@ Transcurridos dos meses, desde la fecha de cierre del protocolo, el notario cert
 
 #### Artículo 430
 
-Todo notario llevará un libro repertorio de escrituras públicas y de documentos protocolizados en el que se dará un número a cada uno de estos instrumentos por riguroso orden de presentación.
+Todo notario llevará un libro repertorio de escrituras públicas y de documentos protocolizados en el que se dará un número correlativo anual a cada uno de estos instrumentos por riguroso orden de presentación.
 
 Cuando se tratare de escrituras, se dejará constancia en este libro de la fecha en que se efectúa la anotación; de las partes que la otorgan, a menos que sean más de dos, pues en este caso se indicarán los nombres de los dos primeros comparecientes, seguidos de la expresión "y otros", del nombre del abogado o abogados si la hubieren redactado y de la denominación del acto o contrato.
 
@@ -4696,7 +4876,9 @@ El notario es responsable de las faltas, defectos o deterioros de los protocolos
 
 #### Artículo 433
 
-El notario entregará al archivero judicial que corresponda, los protocolos a su cargo, que tengan más de un año desde la fecha de cierre y los índices de escrituras públicas que tengan más de diez años.
+El notario entregará al archivero judicial que corresponda, los protocolos a su cargo, que tengan más de un año desde la fecha de cierre y los índices de escrituras públicas que tengan más de diez años, como, asimismo, las copias electrónicas de dichos protocolos e índices correspondientes al mismo período. Si se trata de los instrumentos señalados en el artículo 409 bis, el notario deberá cumplir esta obligación remitiendo de manera electrónica los respectivos documentos al archivero que corresponda, de conformidad con lo señalado en el respectivo reglamento.
+
+> **Nota.** NOTA 4 El artículo tercero transitorio de la ley 21772, publicada el 01.10.2025, dispone que las obligaciones de operar a través de medios electrónicos y de contar con un respaldo digital, a que se refiere el presente artículo, entrarán en vigencia en el plazo de seis meses contado desde la publicación en el Diario Oficial del reglamento a que alude el nuevo artículo 409 ter del Código Orgánico de Tribunales.
 
 #### Artículo 434
 
@@ -4727,6 +4909,50 @@ Las personas que tengan copias autorizadas de las originales estarán obligadas 
 El hecho de haberse otorgado un testamento abierto o cerrado ante notario u otros funcionarios públicos que hagan sus veces, deberá figurar, sin perjuicio de su inserción en los índices a que se refiere el artículo 431, en un Registro Nacional de Testamentos, que estará a cargo y bajo la responsabilidad del Servicio de Registro Civil e Identificación. Igualmente, deberán figurar en este Registro todos los testamentos protocolizados ante notario.
 
 Los notarios y los referidos funcionarios deberán remitir al Servicio de Registro Civil e Identificación, dentro de los diez primeros días de cada mes, por carta certificada, las nóminas de los testamentos que se hubieren otorgado o protocolizado en sus oficios, durante el mes anterior, indicando su fecha, el nombre y rol único nacional del testador y la clase de testamento de que se trata.
+
+#### Artículo 439 bis
+
+Los notarios, previo requerimiento de parte interesada, extenderán y autorizarán actas en las cuales se consignen los hechos materiales o circunstancias que presencien o que les consten personalmente.
+
+Dichas actas deberán contener, al menos, las siguientes menciones:
+
+1. Fecha, hora y lugar de su realización.
+
+2. Individualización completa del requirente.
+
+3. Exposición del motivo central del requerimiento de la parte interesada y si éste fue oral o escrito.
+
+4. Exposición detallada de la comprobación o existencia de los hechos o circunstancias para los que fue requerido.
+
+5. Firma del requirente, en caso de que éste así lo solicite.
+
+6. Firma y sello del notario.
+
+Cuando el notario actúe ante terceros ajenos al requerimiento deberá, previamente, dar a conocer su calidad de tal y que está consignando los hechos o circunstancias.
+
+Para realizar la diligencia descrita en el presente artículo, ni el notario ni sus asistentes o funcionarios, podrán ingresar a recintos privados sin contar con la autorización del propietario, poseedor regular o mero tenedor. En este caso, deberá dejar en el acta la correspondiente constancia.
+
+Si durante el desarrollo de la diligencia se apersonan terceros que tengan interés en ella, el notario les advertirá su calidad de tal y que está consignando los hechos y circunstancias. Previa acreditación de las identidades, y si lo expuesto por aquéllos dice relación con el objetivo del acta que se levanta, el notario deberá tomar nota de sus declaraciones e incluirlas en ésta.
+
+Sólo se podrá otorgar copia de las actas al requirente y a aquellos terceros a que se refiere el inciso anterior.
+
+#### Artículo 439 ter
+
+La custodia de valores o documentos representativos de pago que se entreguen a un notario con motivo u ocasión de la celebración de un acto o contrato, y mediante instrucciones escritas, constituye un encargo o comisión de confianza que obliga a aquél, en caso de aceptarla, a cumplirla en la forma y condiciones que las partes otorgantes le han indicado.
+
+Las instrucciones deberán ser escritas en idioma castellano y en estilo claro y preciso, firmadas por todos los otorgantes del acto o contrato, y en ellas se individualizarán los documentos que quedan en poder del notario.
+
+Las instrucciones suscritas por las partes asumen la forma de un contrato entre ellas y sólo podrán variarse mediante declaración suscrita ante notario y por los mismos otorgantes suscriptores del documento que se rectifica.
+
+El notario no aceptará la entrega de instrucciones en sobre cerrado y de cuyo contenido no se le haga sabedor.
+
+Del mismo modo, no se aceptarán instrucciones suscritas por sólo una parte, salvo que se trate de actos unilaterales, ofertas de pago u otros en que, a juicio del notario, no sea posible o necesaria la concurrencia de la otra parte.
+
+No se podrá dar copia de las instrucciones, aun después de cumplidas, a terceras personas, salvo a requerimiento judicial.
+
+El notario, una vez cumplida la instrucción, deberá mantener la copia íntegra y auténtica del texto al menos por un año.
+
+Es aplicable respecto de este encargo o comisión de confianza la obligación de informar sobre operaciones sospechosas a que se refiere el artículo 3º de la ley Nº 19.913.
 
 7). De las infracciones y sanciones
 
@@ -4778,21 +5004,13 @@ Son conservadores los ministro de fe encargados de los registros conservatorios 
 
 Habrá un conservador en cada comuna o agrupación de comunas que constituya el territorio jurisdiccional de juzgado de letras.
 
-En Valparaíso habrá un conservador para las comunas de Valparaíso y Juan Fernández y un conservador para la comuna de Viña del Mar.
-
 En aquellos territorios jurisdiccionales en que sólo hubiere un notario, el Presidente de la República podrá disponer que éste también ejerza el cargo de conservador de los registros indicados en el artículo precedente. En tal caso, se entenderá el cargo de notario conservador como un solo oficio judicial para todos los efectos legales.
 
 #### Artículo 448
 
-En las comunas o agrupaciones de comunas en que hubiere dos o más notarios, uno de ellos llevará el registro de comercio y otro el registro de bienes raíces.
+En las comunas o agrupaciones de comunas en las que haya un conservador, corresponderá a éste encargarse de todos los registros conservatorios señalados en el artículo 446, a excepción del registro de minas y del de accionistas de las sociedades propiamente mineras que están sujetos a su legislación especial.
 
-Al Presidente de la República toca en el caso del inciso anterior hacer entre los notarios la distribución de estos registros.
-
-Le corresponde igualmente designar de entre los notarios que existan en la comuna o agrupaciones de comunas, el que deberá tener a su cargo el registro de minas y el de accionistas de las sociedades propiamente mineras.
-
-La distribución que el Presidente de la República hiciere regirá también respecto de los sucesores en el oficio de los dichos notarios.
-
-El notario que deba llevar el registro de bienes raíces llevará, además, los registros de asociaciones de canalistas, de prenda agraria, de prenda industrial y especial de prenda.
+> **Nota.** NOTA 5 El artículo séptimo transitorio de la ley 21772, publicada el 01.10.2025, dispone que los notarios que por aplicación del artículo 448 de la presente norma, estén actualmente encargados de llevar alguno de los registros a que se refiere el artículo 446 de este Código, continuarán llevándolos hasta que, existiendo en la comuna o agrupación de comunas un conservador, se produzca la vacancia del cargo de notario. Con la vacancia en el cargo, deberá hacerse entrega del correspondiente registro al conservador competente.
 
 #### Artículo 449
 
@@ -4806,17 +5024,31 @@ Los interesados que ocurran a esta oficina no requerirán directamente la interv
 
 La guarda y custodia de los libros corresponde conjuntamente a los tres conservadores, quienes a la vez, podrán servirse de todos ellos y de los índices y documentos de las otras secciones en cuanto les sean necesarios para la atención de la propia.
 
-No obstante, para los efectos de las visitas judiciales, cada registro o sección se considerará como oficio separado.
+No obstante, para los efectos de las inspecciones realizadas por los fiscales judiciales y de las auditorías, cada registro o sección se considerará como oficio separado.
 
 Las funciones y guarda de los libros y documentos que otras leyes encomienden a los conservadores de bienes raíces, corresponderán en Santiago, al conservador del registro de hipotecas.
 
 En el caso de los conservadores a que se refiere este artículo, si faltare o se inhabilitare alguno para el ejercicio de sus funciones, será reemplazado por los otros conservadores conforme al orden de su antigüedad.
 
+Lo dispuesto en este artículo en nada obsta al ejercicio del Presidente o la Presidenta de la República de las atribuciones previstas en el artículo 450.
+
 #### Artículo 450
 
-El Presidente de la República, previo informe favorable de la Corte de Apelaciones, podrá determinar la separación de los cargos de notario y conservador, servidos por una misma persona, la que podrá optar a uno u otro cargo.
+El Presidente o la Presidenta de la República podrá disponer:
 
-De igual manera, el Presidente de la República podrá disponer, previo informe favorable de la Corte de Apelaciones, la división del territorio jurisdiccional servido por un conservador, cuando él esté constituido por una agrupación de comunas, creando al efecto los oficios conservatorios que estimare convenientes para el mejor servicio público.
+a) La separación de los cargos de notario y conservador servidos por una misma persona, la que podrá optar a uno u otro cargo.
+
+b) La división del territorio jurisdiccional servido por un conservador, cuando esté constituido por una agrupación de comunas, para lo cual creará los oficios conservatorios que estime convenientes para un mejor servicio al público.
+
+c) La agrupación de los territorios jurisdiccionales de dos o más registros conservatorios, los que continuarán siendo servidos por uno de éstos, denominado absorbente, y los restantes, denominados absorbidos, pasarán a constituirse en oficinas locales. En relación con los compromisos laborales y comerciales, se entenderá que el registro conservatorio absorbente sucede al absorbido en todos sus derechos y obligaciones. Esta agrupación sólo podrá disponerse cuando se encuentre vacante el cargo de conservador titular del registro conservatorio absorbido.
+
+Podrá ejercerse igualmente esta atribución en caso de que surja un nuevo territorio jurisdiccional que deba ser servido por un conservador a consecuencia de la creación de un nuevo juzgado de letras, de conformidad con lo prescrito en el artículo 447 y mientras no se produzca la constitución del nuevo registro conservatorio en los términos establecidos en el inciso final. En este caso, dicho territorio continuará servido por el registro conservatorio competente a la fecha de la creación del tribunal. En el ejercicio de esta atribución podrá disponerse la apertura de una oficina para el nuevo territorio jurisdiccional.
+
+d) La apertura de oficinas en una comuna determinada, cuando el territorio jurisdiccional servido esté constituido por una agrupación de comunas, y dicha medida fuere necesaria para asegurar un mejor acceso al servicio.
+
+Para estos efectos, deberá considerar necesariamente que la actividad económica así lo requiera; que sea necesario para brindar un servicio de calidad y un adecuado acceso a las gestiones y servicios registrales a los habitantes de un determinado territorio, comuna o agrupación de comunas, habida consideración del número de habitantes, la población atendida y las tecnologías disponibles; la presencia en ciudades asiento de Corte y en capitales de provincia; la proporcionalidad territorial y económica entre los distintos oficios, y las condiciones técnicas que permitan proyectar la sostenibilidad y operación regular del servicio. En cualquier caso, el Presidente o la Presidenta de la República requerirá previamente tanto de un informe del Fiscal Judicial de la Corte Suprema, quien deberá recoger, entre otras, la opinión de la respectiva Corte de Apelaciones, cuanto de un informe técnico que deberá elaborar el Ministerio de Justicia y Derechos Humanos. Ambos informes deberán ser emitidos en el plazo de dos meses, contado desde su requerimiento.
+
+Si el ejercicio de las atribuciones previstas en este artículo resulta en la creación de un nuevo oficio, éste no se entenderá constituido hasta que se produzca el nombramiento del primer funcionario titular que ha de desempeñar dicho cargo, de conformidad con lo previsto en el artículo 287.
 
 #### Artículo 451
 
@@ -4836,11 +5068,11 @@ Los archiveros son ministros de fe pública encargados de la custodia de los doc
 
 #### Artículo 454
 
-Habrá archivero en las comunas asiento de Corte de Apelaciones y en las demás comunas que determine el Presidente de la República, con previo informe de la Corte de Apelaciones.
+Habrá archivero en las comunas asiento de Corte de Apelaciones y en las demás comunas que determine el Presidente de la República, con previo informe de la Corte de Apelaciones y un informe técnico que deberá elaborar el Ministerio de Justicia y Derechos Humanos, el que deberá considerar los parámetros señalados en el artículo 450. Ambos informes deberán ser emitidos en el plazo de dos meses, contado desde su requerimiento.
 
 Los archiveros judiciales tendrán por territorio jurisdiccional el que corresponda a los juzgados de letras de la respectiva comuna.
 
-Cuando el archivero estuviere implicado o se imposibilitare por cualquier causa para el ejercicio de sus funciones, será reemplazado por los notarios de la comuna de su asiento, conforme al orden de su antigüedad.
+En aquellos territorios jurisdiccionales que cuenten con un conservador, el Presidente de la República podrá disponer que éste también ejerza el cargo de archivero. En tal caso, se entenderá el cargo de conservador archivero como un solo oficio judicial para todos los efectos legales.
 
 #### Artículo 455
 
@@ -4864,9 +5096,9 @@ d) Los protocolos de escrituras públicas otorgadas en el territorio jurisdiccio
 
 4°) Dar a las partes interesadas, con arreglo a la ley, los testimonios que pidieren de los documentos que existieren en su archivo.
 
-5°) Formar y publicar, dentro del término que el Presidente de la República señale en cada caso, los índices de los procesos y escrituras con que se instale la oficina; y en los meses de Marzo y Abril, después de instalada, los correspondientes al último año.
+5°) Formar y publicar, dentro del término que el Fiscal Judicial de la Corte Suprema señale en cada caso, los índices de los procesos y escrituras con que se instale la oficina; y en los meses de Marzo y Abril, después de instalada, los correspondientes al último año.
 
-Estos índices serán formados con arreglo a las instrucciones que den las respectivas Cortes de Apelaciones.
+Estos índices serán formados con arreglo a las instrucciones impartidas por el Fiscal Judicial de la Corte Suprema, oyendo previamente a los fiscales judiciales de las respectivas Cortes de Apelaciones.
 
 6°) Ejercer las mismas funciones señaladas precedentemente respecto de los registros de las actuaciones efectuadas ante los jueces de garantía y los tribunales de juicio oral en lo penal.
 
@@ -4875,6 +5107,10 @@ Estos índices serán formados con arreglo a las instrucciones que den las respe
 Las funciones de los archiveros, en cuanto ministros de fe, se limitan a dar conforme a derecho, los testimonios y certificados que se les pidan; y a poner, a petición de parte, las respectivas notas marginales en las escrituras públicas.
 
 Los archiveros judiciales podrán dar copia autorizada de las escrituras contenidas en los protocolos de su archivo, en todos aquellos casos en que el notario que haya intervenido en su otorgamiento habría podido darlas.
+
+#### Artículo 456 bis
+
+Se extienden al archivero los deberes establecidos para los notarios en el artículo 401 bis, por lo que deberá contar con sistemas que faciliten la consulta y entrega de copias electrónicas de los instrumentos que le sean remitidos a su oficio.
 
 ### 10. De los Consejos Técnicos
 
@@ -4934,7 +5170,17 @@ Pueden ser defensores públicos los que pueden ser jueces de letras del respecti
 
 #### Artículo 463
 
-Para ser relator, secretario de la Corte Suprema o de las Cortes de Apelaciones y notario se requieren las mismas condiciones que para ser juez de letras de comuna o agrupación de comunas.
+Para ser relator, secretario de la Corte Suprema o de las Cortes de Apelaciones se requieren las mismas condiciones que para ser juez de letras de comuna o agrupación de comunas.
+
+#### Artículo 463 bis
+
+Para integrar la segunda serie del Escalafón Secundario, se requieren las siguientes condiciones:
+
+1. Tener el título de abogado o abogada, por al menos cinco años.
+
+2. No encontrarse afecto a alguna de las inhabilidades contempladas por la ley para ejercer dichas funciones.
+
+3. Las demás que establezca la ley.
 
 #### Artículo 464
 
@@ -4942,21 +5188,27 @@ No pueden ser fiscales judiciales, defensores ni relatores los que no pueden ser
 
 #### Artículo 465
 
-No pueden ser notarios:
+No pueden ser funcionarios de la segunda serie del Escalafón Secundario:
 
 1°) Los que se hallaren en interdicción por causa de demencia o prodigalidad;
 
-2°) Derogado;
+2°) El Presidente de la República, los senadores, los diputados, los ministros y el Fiscal Judicial de la Corte Suprema, los ministros y fiscales judiciales de las Cortes de Apelaciones, los ministros de Estado, los subsecretarios, los delegados presidenciales, los gobernadores regionales, el Fiscal Nacional y los fiscales del Ministerio Público, el Contralor General de la República, los ministros del Tribunal Constitucional, el Director Nacional del Servicio Civil, los miembros del Consejo de Alta Dirección Pública y todo el personal que ejerza un cargo directivo de exclusiva confianza o de alta dirección pública hasta el tercer nivel jerárquico en la Dirección Nacional del Servicio Civil, hasta por el plazo de dos años contado desde su cese en el respectivo cargo.
 
-3°) Los que se hallaren procesados por crimen o simple delito; y
+3°) Los que se hallaren acusados o condenados por crimen o simple delito.
 
 4°) Los que estuvieren sufriendo la pena de inhabilitación para cargos y oficios públicos.
 
+5º) Las personas deudoras sometidas a procedimiento concursal de liquidación, mientras no se encuentre firme o ejecutoriada la resolución que declara terminado dicho procedimiento, en conformidad a lo establecido en la ley Nº 20.720, que sustituye el régimen concursal vigente por una ley de reorganización y liquidación de empresas y personas, y perfecciona el rol de la superintendencia del ramo.
+
+6º) Los que hayan cesado en un cargo público como consecuencia de una calificación deficiente o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones.
+
+7º) Los que hayan sido destituidos de los cargos de notario, conservador o archivero.
+
+8º) Los que tengan dependencia de sustancias o drogas estupefacientes o psicotrópicas ilegales, a menos que justifiquen su consumo por un tratamiento médico.
+
 #### Artículo 466
 
-Para ser secretario de un juzgado de letras, archivero y conservador se requiere ser abogado.
-
-Incisos derogados.
+Para ser secretario de un juzgado de letras se requiere ser abogado.
 
 #### Artículo 467
 
@@ -4973,6 +5225,10 @@ Derogado.
 Las incapacidades en razón de parentesco establecidas en el artículo 258, rigen para todos los funcionarios del Escalafón Primario dependientes de una Corte de Apelaciones en su respectivo territorio jurisdiccional.
 
 No podrán ser fiscales judiciales, administradores, subadministradores, jefes de unidades de tribunales con competencia en lo criminal o miembros del consejo técnico en un Tribunal las personas que tengan con uno o más jueces de él alguno de los parentescos indicados en el citado artículo.
+
+No podrá ser fiscal judicial aquel que sea cónyuge o tenga un acuerdo de unión civil o alguno de los parentescos o vínculos indicados en el artículo 259 con funcionarios de la segunda serie del Escalafón Secundario en actual ejercicio.
+
+Si estando ya en funciones, el fiscal judicial contrae matrimonio, celebra un acuerdo de unión civil o adquiere alguno de los parentescos señalados en el artículo 259 respecto de un funcionario o funcionaria de la segunda serie del Escalafón Secundario, deberá abstenerse de ejercer las atribuciones legales en tales casos, para ser subrogado por otro fiscal judicial de la misma Corte de Apelaciones, cuando haya más de uno, o en su defecto, por el fiscal judicial de la Corte de Apelaciones que corresponda, de conformidad con las reglas del artículo 216. Tan pronto se produzca esta situación, el fiscal judicial deberá comunicarla a su superior jerárquico. Si se trata del Fiscal Judicial de la Corte Suprema, éste será subrogado respecto de tales asuntos por el fiscal judicial de mayor antigüedad de la Corte de Apelaciones de Santiago.
 
 No pueden ser defensores públicos los que tengan con algunos de los jueces de letras propietarios del respectivo territorio jurisdiccional cualquiera de los parentescos indicados en dicho artículo.
 
@@ -5004,11 +5260,27 @@ Cuando algún fiscal judicial de las Cortes de Apelaciones que hubiere prestado 
 
 #### Artículo 473
 
-Los Notarios, Conservadores, Archiveros, Secretarios y Receptores, que no sean los especiales a que se refiere el inciso segundo del artículo 391.o, así como los administradores de tribunales con competencia en lo criminal, deberán rendir una fianza para responder de las multas, costas e indemnizaciones de perjuicios a que puedan ser condenados en razón de los actos concernientes al desempeño de su ministerio, dentro de 30 días después de haber asumido el cargo.
+Los secretarios y receptores, que no sean los especiales a que se refiere el inciso segundo del artículo 391, y los administradores de tribunales con competencia en lo criminal deberán rendir, dentro de treinta días después de haber asumido el cargo, una fianza u otra garantía suficiente que asegure su cobro de manera rápida y efectiva, para responder de las multas, costas e indemnizaciones de perjuicios a que puedan ser condenados en razón de los actos concernientes al desempeño de su ministerio.
 
-Esta fianza será para los Secretarios y administradores de tribunales el equivalente a un año del sueldo base asignado al cargo y para los demás funcionarios igual al monto del sueldo anual que la ley le fija para los efectos de su jubilación.
+Esta fianza será para los secretarios y administradores de tribunales el equivalente a un año del sueldo base asignado al cargo, y para los demás funcionarios igual al monto del sueldo anual que la ley le fija para los efectos de su jubilación.
 
-La fianza será calificada y aprobada por el funcionario a quien corresponda recibir el juramento.
+La fianza o garantía que se otorgue será calificada y aprobada por el tribunal pleno de la Corte de Apelaciones respectiva.
+
+Los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial deberán rendir, dentro de los treinta días siguientes a la asunción en su cargo, ante y a favor del Ministerio de Justicia y Derechos Humanos, una caución o garantía suficiente, que asegure su cobro de manera rápida y efectiva, para responder de las multas e indemnizaciones de perjuicios a que puedan ser condenados en razón de los actos concernientes al desempeño de sus cargos.
+
+La forma y el monto de la garantía referida en el inciso anterior serán determinados por el Ministerio de Justicia y Derechos Humanos para cada categoría de oficio, de conformidad con el procedimiento que se establezca al efecto a través de un reglamento y se informará junto con la convocatoria que deberá realizarse con arreglo a lo dispuesto en el artículo 287. Para la determinación del monto, se atenderá a criterios tales como la naturaleza de la función que se desempeñará; el territorio jurisdiccional o zona geográfica en el cual se encontrará radicado el respectivo oficio; las características de la demanda real o proyectada que deberá satisfacer; la categoría a la que pertenezca el respectivo oficio, en caso de aplicarse lo dispuesto en el inciso sexto del artículo 492; la estructura de costos y utilidades informadas previamente para el respectivo oficio o aquellas que se hayan proyectado al momento de su creación, así como a todos aquellos otros criterios objetivos de carácter técnico y económico que se establezcan en el reglamento.
+
+Lo dispuesto en los dos incisos precedentes no se aplicará en aquellos casos en que la ley faculte a otros funcionarios públicos para ejercer funciones propias de los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial.
+
+Los notarios, conservadores y archiveros judiciales interinos deberán rendir una caución o garantía suficiente ante el Ministerio de Justicia y Derechos Humanos, conforme a los parámetros y categorías establecidos en el respectivo reglamento.
+
+> **Nota.** El artículo cuarto transitorio de la ley 21772, publicada el 01.10.2025, dispone que el nuevo procedimiento para calcular el monto de la garantía que deben rendir los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial comenzará a aplicarse seis meses después de la publicación del reglamento correspondiente. Este procedimiento no se aplicará a los concursos para cargos de notarios, conservadores y archiveros iniciados antes de su entrada en vigencia. Hasta entonces, el cálculo de las garantías seguirá rigiéndose por lo establecido en el inciso segundo del artículo 473 del Código Orgánico de Tribunales.
+
+#### Artículo 473 bis
+
+La no presentación en tiempo y forma de la caución o garantía conllevará la declaración de vacancia del cargo, y deberá procederse de conformidad con lo previsto en el literal n) del artículo 287.
+
+Si se trata de notarios, conservadores o archiveros interinos, dicha circunstancia se entenderá como desistimiento del cargo para efectos de lo dispuesto en los incisos segundo y tercero del artículo 402 bis.
 
 ### 3. Obligaciones y prohibiciones
 
@@ -5024,11 +5296,13 @@ Los secretarios estarán obligados a asistir todos los días a la Sala de su des
 
 Los secretarios deberán mantener abierta su oficina al público desde una hora antes de la designada para que tenga principio el despacho y hasta una hora después de terminado.
 
-Los receptores deberán permanecer diariamente en sus oficinas durante las dos primeras horas de audiencia de los tribunales, a disposición de éstos y de los litigantes, especialmente para los efectos de lo dispuesto en el inciso segundo del artículo 390°".
+Los receptores deberán permanecer diariamente en sus oficinas durante las dos primeras horas de audiencia de los tribunales, a disposición de éstos y de los litigantes, especialmente para los efectos de lo dispuesto en el inciso segundo del artículo 390°.
 
 Sin embargo, el juez de la causa podrá autorizar su ausencia para el cumplimiento de diligencias urgentes.
 
-Los notarios, los Conservadores y los Archiveros deberán mantener abierta su oficina al público en las horas que señalen las leyes y los reglamentos respectivos.
+Los notarios, los Conservadores y los Archiveros deberán mantener abierta su oficina al público como mínimo, de lunes a viernes en un horario no inferior a siete horas diarias. El Ministerio de Justicia y Derechos Humanos podrá extender hasta en una hora este horario mínimo para los notarios, cuando por razones fundadas lo estime pertinente. Los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial deberán informar el horario específico de atención y, de manera previa, sus modificaciones, tanto a la fiscalía judicial respectiva como al público general, a través del sitio web de su oficio y en sus propias dependencias. Los referidos funcionarios deberán estar presentes en sus oficios, al menos, durante el horario mínimo de atención al público. Se entenderá igualmente cumplido este deber en aquellos casos en que la ausencia se genere con ocasión del ejercicio de funciones legales fuera del oficio.
+
+El Ministerio de Justicia y Derechos Humanos podrá autorizar, mediante resolución fundada, días y horarios de atención distintos para aquellas notarías, conservadores y archiveros que, por su situación geográfica, tamaño o recursos, les sea excesivamente gravoso cumplir con este deber mínimo de atención horaria.
 
 Los miembros de los consejos técnicos, en cumplimiento de sus funciones, deberán atender en el recinto del Tribunal los días y horas que señale el juez respectivo.
 
@@ -5048,15 +5322,21 @@ Ningún notario, Conservador, Archivero, secretario, administrador de tribunal, 
 
 Este permiso podrá otorgarse como máximo, en cada año calendario, por una sola vez o fraccionado, por ocho días a los secretarios y administradores de tribunales, dos meses a los notarios, conservadores y archiveros y un mes a los otros funcionarios. Si el permiso solicitado excediere a los aludidos plazos y no pasare de un año, deberá pedirse por escrito ante el Presidente de la República. Si transcurrido un año no se presentare el funcionario a servir su destino, se tendrá esta inasistencia como causal bastante para que la autoridad competente, siguiendo los trámites legales, pueda declarar vacante el empleo.
 
-En los permisos hasta por dos meses el notario, conservador y archivero podrá proponer al juez el abogado que deba subrogarlo bajo su responsabilidad, propuesta que en el caso de los notarios y conservadores de cuarta categoría podrá recaer en el oficial 1° de la oficina respectiva.
+#### Artículo 478 bis
+
+Ningún funcionario de la segunda serie del Escalafón Secundario del Poder Judicial podrá ausentarse del lugar de su residencia ni dejar de asistir diariamente a su oficina, sin perjuicio de lo dispuesto en los artículos 475, inciso quinto, y 497.
 
 #### Artículo 479
 
-Es prohibido a los auxiliares de la Administración de Justicia ejercer la abogacía y sólo podrán defender causas personales o de sus cónyuges, convivientes civiles, ascendientes, descendientes, hermanos o pupilos.
+Es prohibido a los auxiliares de la Administración de Justicia ejercer la abogacía.
 
-Les es igualmente prohibido representar en juicio a otras personas que las mencionadas en el precedente inciso.
+Estará prohibido particularmente a los notarios, archiveros y conservadores de bienes raíces la contratación para el desempeño de funciones en las dependencias de su oficio y de cualquier otra función o prestación de servicios que se relacione con ésta, a los ascendientes y descendientes, a sus cónyuges o a sus parientes colaterales hasta el tercer grado de consanguinidad y segundo de afinidad, ambos inclusive, o a las personas ligadas a ellos por adopción.
 
-No rige lo dispuesto en los incisos anteriores con los defensores públicos y los procuradores del número. No obstante, estos últimos no podrán ejercer la profesión de abogado ante las Cortes do Apelaciones en que actúan.
+Asimismo, les estará prohibida la contratación para el desempeño de funciones en las dependencias de su oficio y de cualquier otra función o prestación de servicios que se relacione con ésta, a los descendientes de los funcionarios del Primer Escalafón del Poder Judicial.
+
+Idéntica prohibición aplicará a quien haya ejercido el cargo de ministro de Corte de Apelaciones o de Corte Suprema, por el plazo de seis meses desde el cese en sus respectivas funciones.
+
+De igual modo, estará prohibida la contratación para el desempeño de funciones en las dependencias de su oficio y de cualquier otra función o prestación de servicios que se relacione con ésta, de los descendientes, ascendientes, cónyuges y convivientes civiles de los funcionarios de la Dirección Nacional del Servicio Civil.
 
 #### Artículo 480
 
@@ -5075,6 +5355,62 @@ La prohibición del art. 322 rige respecto de los secretarios de los juzgados de
 #### Artículo 482
 
 Es aplicable a los auxiliares de la Administración de Justicia lo dispuesto en el art. 323.
+
+#### Artículo 482 bis
+
+Son aplicables a los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial las disposiciones de la ley Nº 19.496, que establece normas sobre protección de los derechos de los consumidores.
+
+El Servicio Nacional del Consumidor deberá velar por el cumplimiento de las disposiciones de la ley Nº 19.496, de este Código y de otras leyes especiales que digan relación con la calidad del servicio prestado y la protección de los derechos de los consumidores.
+
+Las atribuciones del Servicio Nacional del Consumidor en esta materia se extenderán a todo aquello que no corresponda a las facultades de fiscalización y disciplinarias que competen a la Fiscalía Judicial, con arreglo al artículo 353 bis, y a los tribunales de justicia, respectivamente. En ningún caso se podrán aplicar dos o más sanciones por los mismos hechos y fundamentos jurídicos.
+
+#### Artículo 482 ter
+
+Los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial cuyos ingresos totales anuales superen los límites definidos mediante decreto del Ministerio de Justicia y Derechos Humanos, deberán someterse anualmente al examen de auditores externos. Esta auditoría deberá contener una evaluación de las condiciones de atención al público; la uniformidad de sus actuaciones y diligencias, y su balance y estados financieros. Los resultados de esta auditoría deberán ser remitidos al Fiscal Judicial de la Corte Suprema, y a los fiscales judiciales de las Cortes de Apelaciones del territorio jurisdiccional respectivo hasta el mes de junio del año siguiente, a efectos de que puedan revisar y analizar sus resultados en cumplimiento de lo dispuesto en la letra b) del artículo 353 bis.
+
+Con todo, el Fiscal Judicial de la Corte Suprema podrá requerir que los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial que no se encuentren comprendidos en el inciso anterior sean auditados en los mismos términos, para lo cual determinará al efecto los plazos, normas y modalidades para la realización de estas auditorías, en atención al número, tamaño y las características de los oficios.
+
+Las referidas auditorías deberán ser practicadas por empresas independientes de auditoría externa, inscritas en el Registro de Empresas de Auditoría Externa que lleva la Comisión para el Mercado Financiero, y deberán ser efectuadas alternadamente por las distintas empresas. No podrá repetirse la misma empresa durante dos períodos consecutivos respecto del mismo oficio.
+
+#### Artículo 482 quater
+
+Con el fin de garantizar la continuidad de los servicios prestados, el traspaso del cargo por parte de los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial a quien los suceda en carácter de interino o titular se sujetará a las siguientes reglas:
+
+a) Los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial que por cualquier causa cesen en sus funciones estarán obligados a hacer entrega a quien los suceda de todos los registros públicos que estén a su cargo, tanto en papel como en formato electrónico, y de todos aquellos otros instrumentos, antecedentes, documentos electrónicos, registros o bases de datos que se encuentren en su poder, ya sea por estar bajo su custodia o guarda o por haberse generado con ocasión del ejercicio de la función o para su mejor gestión y que den cuenta de información de sus usuarios. La información que conste en soporte electrónico deberá ser proporcionada en formatos que permitan la inmediata y fácil consulta y verificación tanto por parte de su sucesor como de los respectivos fiscales judiciales.
+
+Igualmente, entregarán todos aquellos antecedentes que den cuenta de los derechos y obligaciones concernientes al funcionamiento del despacho que se traspasen al sucesor por mandato de la ley, en especial, aquellos referidos a los trabajadores de la notaría, conservatorio o archivo.
+
+La entrega antes referida deberá efectuarse el día en que deba asumir funciones el nuevo funcionario, de acuerdo a los plazos y fechas que para tales efectos disponga el Ministerio de Justicia y Derechos Humanos en el decreto que formalice el respectivo nombramiento.
+
+b) En el caso del artículo 495 bis, dentro del año anterior a que se produzca la cesación en el cargo, estos funcionarios no podrán celebrar o modificar contratos de trabajo individual. Sin perjuicio de lo indicado, el funcionario podrá celebrar contratos de trabajo a plazo fijo o por obra o faena determinada, cuya duración no exceda la fecha de su cesación en el cargo.
+
+Igual prohibición aplicará desde el día en que el funcionario presente su postulación a un proceso de selección para proveer cargos de la segunda serie del Escalafón Secundario del Poder Judicial y hasta la fecha de dictación del acto administrativo que resuelva el respectivo proceso, o desde que le sea notificada la resolución que disponga la aplicación de la medida disciplinaria de destitución en el contexto de la instrucción de los procesos que se sigan en su contra conforme lo dispuesto en el artículo 353 bis. Además de lo anterior, los fiscales judiciales podrán decretar dichas prohibiciones como medida preventiva durante el curso de estos procesos disciplinarios, las que se entenderán revocadas de pleno derecho en caso de ser decretado el sobreseimiento.
+
+c) En los casos en que no aplique la prohibición prevista en la letra anterior, quien sea nombrado notario, conservador o archivero tendrá derecho a que se declare el término de los contratos de trabajo o la inoponibilidad de sus cláusulas o estipulaciones, celebrados por quien le haya precedido en calidad de titular durante los doce meses anteriores a su cese en el cargo, o por quienes hayan sucedido a éste desempeñándose en calidad de interinos, cuando éstos le causaren un gravamen injustificado o excesivo, atendida la finalidad del acto y las disposiciones especiales o generales que lo rigen. No podrá interponerse esta acción respecto de un contrato, cláusula o estipulación vigente por más de dos años.
+
+La acción referida en el párrafo anterior se tramitará ante el juez con competencia en materia laboral.
+
+Declarada la inoponibilidad de una o varias cláusulas o estipulaciones de un contrato o convención, éste subsistirá con las restantes cláusulas, a menos que por la naturaleza misma del contrato, o atendida la intención original de los contratantes, ello no fuere posible. En este último caso, el juez deberá declarar terminado el contrato sobre el que recae la declaración.
+
+El contratante afectado por el término del contrato o la inoponibilidad de una o varias de sus cláusulas o estipulaciones podrá a su arbitrio allanarse a dicha declaración o proponer en el término de quince días desde que quede firme o ejecutoriada la sentencia, condiciones más equitativas de contratación, las que podrán ser aceptadas por el demandante. Dicha proposición se tramitará como incidente.
+
+El tribunal podrá aceptar en subsidio del demandante las nuevas condiciones de contratación propuestas de conformidad con el párrafo anterior, cuando éstas aseguren un equilibrio razonable en las contraprestaciones de las partes.
+
+Si el contrato ha estado vigente un año o más, por el término del contrato el trabajador tendrá derecho a recibir el pago de la indemnización prevista en el artículo 163 del Código del Trabajo.
+
+El afectado con el término anticipado del contrato o la inoponibilidad de una o varias cláusulas o estipulaciones podrá demandar indemnización de perjuicios en contra del notario, archivero o conservador con quien haya celebrado el referido contrato o convención. Esta acción se tramitará ante el juez de letras competente.
+
+d) Las acciones previstas en la letra anterior podrán interponerse, igualmente, si se trata de otros contratos o convenciones cuyos derechos y obligaciones se entiendan traspasados de pleno derecho al nuevo funcionario en virtud de su asunción en el cargo. En estos casos, la acción tendiente a provocar el término del contrato o la inoponibilidad de sus cláusulas o estipulaciones deberá tramitarse ante el juez con competencia en materia civil, sin que tenga aplicación la facultad del tribunal dispuesta en el párrafo quinto de la letra c).
+
+No podrá interponerse esta acción respecto de un contrato, cláusula o estipulación vigente por más de dos años.
+
+e) Los contratos de cualquier naturaleza que el funcionario celebre con quien le suceda en carácter de interino o titular, con el fin de asegurar el correcto traspaso y funcionamiento del respectivo despacho o la continuidad del servicio, deberán sujetarse de manera estricta al principio de buena fe contractual.
+
+Se entenderán nulas, tratándose de estos contratos, las cláusulas o estipulaciones que, en contra de las exigencias de la buena fe, y en atención para estos efectos a parámetros objetivos, causen un desequilibrio importante en los derechos y obligaciones que para las partes se deriven del contrato en perjuicio del funcionario que sucede en el cargo. Para ello se estará a la finalidad del contrato y a las disposiciones especiales o generales que lo rigen. Lo señalado aplicará para todos los pactos suscritos desde el mes anterior a la fecha de cesación en las funciones del antiguo funcionario y hasta el término de seis meses contado desde la asunción en el cargo de quien le suceda.
+
+Se presumirá que causan un desequilibrio importante en los derechos y obligaciones que derivan para las partes, las cláusulas o estipulaciones destinadas a condicionar o efectuar cobros para la entrega de los instrumentos referidos en la letra a) de este artículo; a fijar precios de licencias, en contratos de compraventa o de prestación de servicios, que superen en más de 20% el precio promedio de mercado para bienes o servicios de similar naturaleza; la inclusión, en perjuicio del funcionario sucesor, de cargas o condiciones que no sean usuales en los respectivos contratos, y la ejecución de acciones o prácticas que atenten contra la libre competencia.
+
+f) Previo al abandono del respectivo oficio, los fiscales judiciales deberán requerir la práctica de auditorías en los términos previstos en el artículo anterior, con independencia de los ingresos anuales que genere el respectivo despacho. Estarán obligados a someterse al examen de auditores externos, en los términos previstos en el inciso segundo del artículo 482 ter, los funcionarios que no hayan sido sometidos a aquél durante los últimos cinco años.
 
 ### 4. De las implicancias y recusaciones
 
@@ -5132,11 +5468,19 @@ La implicancia y la recusación de los auxiliares de la Administración de Justi
 
 #### Artículo 492
 
-Los auxiliares de la Administración de Justicia tendrán los sueldos que les fijen las leyes, pero los defensores públicos que no sean de Santiago y Valparaíso, los notarios, archiveros, conservadores, receptores y procuradores del número gozarán de los emolumentos que les correspondan con arreglo al respectivo arancel.
+Los auxiliares de la Administración de Justicia tendrán los sueldos que les fijen las leyes, pero los defensores públicos que no sean de Santiago y Valparaíso, los receptores y procuradores del número gozarán de los emolumentos que les correspondan con arreglo al respectivo arancel.
 
 Los secretarios de juzgados, en su carácter de tales, no podrán cobrar emolumentos de ninguna clase, salvo los que puedan corresponderles cuando desempeñen los cargos de actuarios en juicios arbitrales o de ministros de fe en la facción de inventarios.
 
 Los auxiliares de la Administración de Justicia estarán, además, sometidos al régimen de previsión que determinen las leyes.
+
+Los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial percibirán por sus servicios las tarifas que se determinen al efecto. Para estos fines, el Ministerio de Justicia y Derechos Humanos deberá determinar mediante decreto fundado, previa consulta al Fiscal Judicial de la Corte Suprema, y de conformidad con los procedimientos y normas establecidas con este fin, los precios máximos a cobrar por cada servicio. Este decreto tarifario deberá ser actualizado a lo menos cada dos años.
+
+La determinación de las tarifas deberá estar precedida de un procedimiento objetivo y técnico, el cual deberá contar con la participación de expertos del mundo público y privado. Para la fijación de los precios máximos a cobrar se deberá atender, entre otras, a la naturaleza diversa de las variadas actuaciones que la ley encarga a notarios, conservadores y archiveros y a las características específicas que presentan los mercados notarial y registral en las distintas zonas geográficas del país en consideración al número de oficios de notarios, conservadores y archiveros presentes en cada una de ellas; su número total de habitantes; la demanda real o potencial de servicios notariales y registrales; la presencia o cercanía a ciudades asiento de Corte y capitales regionales o provinciales; la naturaleza de las actividades económicas que se desarrollan en estas zonas y su concentración, y la situación de ruralidad y de acceso a centros urbanos. El Ministerio de Justicia y Derechos Humanos podrá solicitar a los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial información referida al número y tipo de actuaciones que realizan como parte de sus funciones, detalle de su infraestructura, información tributaria, información del personal bajo su dependencia, su nivel de ingresos y toda otra similar que se requiera para la determinación de la estructura de costos con los que opera cada oficio, la cual deberá ser entregada en los plazos y formas que dicha Secretaría de Estado establezca al efecto.
+
+El Ministerio de Justicia y Derechos Humanos podrá clasificar a los oficios de notarios, conservadores o archiveros en categorías, para efectos de establecer tarifas diferenciadas aplicables a cada una de éstas. Dicha categorización podrá efectuarse en atención a la naturaleza de la función que desempeñan estos oficios; su pertenencia a un mismo territorio jurisdiccional o zona geográfica; las características de la demanda que satisfacen; su estructura de costos y utilidades, o a otros criterios objetivos de carácter técnico o económico.
+
+Las actuaciones de los conservadores a que den lugar las reinscripciones y cancelaciones que deban practicarse cuando se cree un nuevo oficio conservatorio, o se modifiquen los territorios jurisdiccionales de oficios conservatorios existentes o en cualquiera de los otros casos previstos en el artículo 450, estarán liberadas del pago de las tarifas correspondientes.
 
 ### 6. Suspensión y expiración de funciones
 
@@ -5170,7 +5514,13 @@ Lo dispuesto en el inciso anterior es aplicable al fiscal judicial de la Corte S
 
 Los auxiliares de la Administración de Justicia permanecerán en sus cargos hasta cumplir los setenta y cinco años de edad.
 
-> **Nota.** El articulo 3° transitorio de la Ley 19390, publicada el 30.05.1995, dispone que el presente articulo no se aplicará a los auxiliares de la Administración de Justicia que se encuentren en servicio a la fecha de vigencia de dicha ley.
+#### Artículo 495 ter
+
+Los auxiliares de la administración de justicia cesarán en sus funciones por declaración de salud incompatible con el ejercicio del cargo que desempeñan. La declaración será efectuada por el pleno de la respectiva Corte de Apelaciones, luego de recibir el informe que deberá presentar su fiscal judicial, el que deberá estar respaldado por certificación del Servicio de Salud correspondiente. Una vez firme la declaración, se entenderá vacante el respectivo cargo.
+
+En todo caso, la declaración a que se refiere el inciso anterior deberá realizarse cuando el funcionario no haya desempeñado el cargo por razones médicas en un lapso continuo o discontinuo superior a seis meses, en los últimos dos años. No procederá la declaración en caso de que el funcionario afectado acredite que es esperable una mejoría en un plazo no superior a seis meses, para cuyos efectos deberá presentar los antecedentes médicos que lo acrediten.
+
+Para los efectos del cómputo de los seis meses señalados en el inciso anterior no se considerarán las licencias otorgadas en los casos a que se refiere el Título II del Libro II del Código del Trabajo.
 
 #### Artículo 496
 
@@ -5181,6 +5531,12 @@ Las funciones de los secretarios, receptores, procuradores, notarios, conservado
 #### Artículo 497
 
 Son igualmente aplicables a los auxiliares de la Administración de Justicia las disposiciones relativas a las licencias, permisos y feriados de los jueces contenidas en el párrafo 9 del Título X del presente Código.
+
+Sin perjuicio de lo señalado en el inciso primero, los notarios, conservadores y archiveros tendrán el siguiente régimen particular de feriados y permisos:
+
+1.º Feriado de quince días hábiles al año.
+
+2.º Permiso de seis días hábiles para ausentarse de sus labores por motivos particulares en el año calendario. Estos permisos podrán fraccionarse por días o medios días y deberán solicitarse directamente a la Corte de Apelaciones o juzgado de letras, según corresponda.
 
 ## Título XIII
 
@@ -5688,7 +6044,7 @@ La renuncia voluntaria presentada por un funcionario judicial deberá acompañar
 
 #### Artículo 553
 
-Corresponderá a las Cortes de Apelaciones fiscalizar la conducta funcionaria de los miembros del Escalafón Primario desde la séptima hasta la tercera categoría inclusive y a los miembros del Escalafón Secundario que ejerzan sus funciones dentro de su respectivo territorio jurisdiccional, sin perjuicio de lo establecido en el artículo 564. Al efecto, las Cortes designarán anualmente a uno o más de sus ministros para que, durante el respectivo año calendario, actúen como ministros visitadores en los juzgados y en los oficios de los notarios, conservadores y archiveros que se les asignen. Anualmente deberá cambiarse la asignación, procurando siempre que la carga de trabajo se distribuya equitativamente entre todos los ministros.
+Corresponderá a las Cortes de Apelaciones fiscalizar la conducta funcionaria de los miembros del Escalafón Primario desde la séptima hasta la tercera categoría inclusive y a los miembros del Escalafón Secundario que ejerzan sus funciones dentro de su respectivo territorio jurisdiccional. Al efecto, las Cortes designarán anualmente a uno o más de sus ministros para que, durante el respectivo año calendario, actúen como ministros visitadores en los juzgados que se les asignen. Anualmente deberá cambiarse la asignación, procurando siempre que la carga de trabajo se distribuya equitativamente entre todos los ministros.
 
 Estos ministros efectuarán las visitas que sean necesarias para el debido cumplimiento de la función fiscalizadora que se les encomiende.
 
@@ -5756,9 +6112,9 @@ Cuando la Suprema Corte constituya en visita a alguno de sus ministros, lo que s
 
 #### Artículo 564
 
-Los jueces de letras, dentro del territorio de su jurisdicción, deberán vigilar la conducta ministerial de los funcionarios y empleados del Poder Judicial que deban calificar o de cuyo desempeño deban informar a la respectiva Corte de Apelaciones para los mismos efectos. Deberán, en consecuencia, visitar, por lo menos cada dos meses, los oficios de los secretarios, conservadores y archiveros de su territorio jurisdiccional a fin de comprobar el funcionamiento de los respectivos oficios y el desempeño funcionario de los visitados. Al efecto, podrán examinar los protocolos, libros y archivos que se lleven en el respectivo oficio e informarse, por medios prudentes, del modo como desempeñan sus labores.
+Los jueces de letras, dentro del territorio de su jurisdicción, deberán vigilar la conducta ministerial de los funcionarios y empleados del Poder Judicial que deban calificar o de cuyo desempeño deban informar a la respectiva Corte de Apelaciones para los mismos efectos. Deberán, en consecuencia, visitar, por lo menos cada dos meses, los oficios de los secretarios de su territorio jurisdiccional a fin de comprobar el funcionamiento de los respectivos oficios y el desempeño funcionario de los visitados. Al efecto, podrán examinar los protocolos, libros y archivos que se lleven en el respectivo oficio e informarse, por medios prudentes, del modo como desempeñan sus labores.
 
-Sin embargo, en las ciudades asiento de Corte de Apelaciones las visitas a los oficios de los notarios, conservadores y archiveros las harán los ministros de la Corte respectiva, de conformidad con lo establecido en el artículo 553.
+Las visitas trimestrales a los oficios de los notarios, conservadores y archiveros las harán los fiscales judiciales de la Corte de Apelaciones respectiva.
 
 Se dejará constancia, en el libro especial a que se refiere el inciso cuarto del artículo 553, de las observaciones que merezca la visita realizada. Igual constancia se deberá dejar en la hoja de vida de cada funcionario visitado, consignando, además, la apreciación que merezca la conducta funcionaria de éste.
 

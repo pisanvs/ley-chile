@@ -610,11 +610,9 @@ Si resultare que un beneficiario hubiere pagado sobradamente lo percibido por de
 
 #### Artículo 54°
 
-Facúltese al Presidente de la República para que, previo informe de la Corte Suprema, fije los Aranceles de los funcionarios auxiliares de la Administración de Justicia, que se encuentren sometidos a ese régimen de remuneraciones.
+Facúltese al Presidente de la República para que, previo informe de la Corte Suprema, fije los Aranceles de los funcionarios auxiliares de la Administración de Justicia, que se encuentren sometidos a ese régimen de remuneraciones. Anualmente, el Presidente de la República, previo el informe a que se refiere el inciso precedente, podrá modificar, en todo o en parte, dichos aranceles, considerando especialmente las variaciones que haya experimentado el valor adquisitivo de la moneda.
 
-Anualmente, el Presidente de la República, previo el informe a que se refiere el inciso precedente, podrá modificar, en todo o en parte, dichos aranceles, considerando especialmente las variaciones que haya experimentado el valor adquisitivo de la moneda.
-
-Las actuaciones de los conservadores de bienes raíces a que den lugar las reinscripciones y cancelaciones que deban practicarse cuando se crea un nuevo oficio conservatorio o se modifican los territorios jurisdiccionales de oficios conservatorios existentes, estarán liberadas del pago de los derechos arancelarios correspondientes.
+Las tarifas aplicables a los servicios prestados por los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial se determinarán conforme a lo previsto en el artículo 492 del Código Orgánico de Tribunales.
 
 #### Artículo 55°
 

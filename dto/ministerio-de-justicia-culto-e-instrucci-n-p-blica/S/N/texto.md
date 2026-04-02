@@ -1,4 +1,4 @@
-REGLAMENTO DEL REGISTRO CONSERVATORIO DE BIENES RAICES
+LEY DEL REGISTRO CONSERVATORIO DE BIENES RAÍCES
 
 Santiago, 24 de junio de 1857
 
@@ -12,7 +12,7 @@ DE LA OFICINA DEL REGISTRO CONSERVATORIO
 
 #### Artículo 1º
 
-En la capital de cada departamento habrá, en lugar seguro y cómodo para el servicio público, una oficina que tendrá por objeto la inscripción de los títulos mencionados en el Título V de este Reglamento.
+Sin perjuicio de lo dispuesto en los artículos 447 y 450 del Código Orgánico de Tribunales, en cada comuna o agrupación de comunas habrá, en lugar seguro y cómodo para el servicio público, una oficina que tendrá por objeto la inscripción de los títulos mencionados en el Título V de esta ley.
 
 #### Artículo 2º
 
@@ -22,27 +22,59 @@ Uno de ellos será reservado y se conservará en él depositados en armarios seg
 
 En otro servirá para el despacho y trabajo diarios. Al efecto habrá en él los útiles necesarios para guardar por su orden, y según la clasificación que se hace del Registro en los artículos 31 y 32, los títulos o copias que se fuesen anotando. Cada división tendrá su respectivo rótulo.
 
-#### Artículo 3º
+#### Artículo 3°
 
-En el segundo de los departamentos o secciones expresados en el artículo anterior y en lugar accesible al público, habrá fijados dos cuadros. Uno contendrá este Reglamento impreso. El otro se dividirá en dos columnas: la primera, por orden alfabético, contendrá manuscritos los nombres de las ciudades, villas, aldeas y sus respectivas calles; y la segunda los límites del departamento, los números de las subdelegaciones y distritos y la comprensión y término de cada uno de ellos.
+En lugar accesible al público de la oficina referida en el artículo 1º habrá fijados tres cuadros. El primero contendrá el nombre de las comunas en donde ejerce jurisdicción el respectivo conservador. El segundo contendrá las tarifas que puede cobrar el conservador. El tercero contendrá la individualización del fiscal judicial a quien le corresponda la fiscalización del respectivo conservador.
 
-Habrá también en la oficina una lista de los puntos rústicos del departamento que pagan contribución territorial.
+#### Artículo 4°
 
-#### Artículo 4º
+El conservador llevará un inventario circunstanciado de los registros, libros y papeles pertenecientes a la oficina, inventario que cerrará anualmente bajo su firma. En los primeros quince días del mes de enero de cada año el conservador remitirá una copia física de este inventario, junto con los respaldos digitales a que se refiere el numeral 2 del inciso primero del artículo 5º bis, a la respectiva Corte de Apelaciones y al fiscal judicial correspondiente.
 
-El Conservador llevará un inventario circunstanciado de los Registros, libros y papeles pertenecientes a la oficina, inventario que el Conservador cerrará anualmente bajo su firma; y en los primeros quince días del mes de enero de cada año, remitirá una copia de él a la respectiva Corte de Apelaciones.
+#### Artículo 5°
 
-#### Artículo 5º
+El conservador deberá contar en su oficina, y a sus expensas, con los funcionarios necesarios, de modo que los trabajos en ella estén al corriente y en buen orden. Asimismo, deberá mantener permanentemente en sus oficios computadores, terminales, sistemas informáticos y de redes disponibles para que el público general pueda consultar de forma gratuita los repertorios y registros electrónicos, sin perjuicio de su acceso en línea o de manera remota. Además, deberá asegurar las condiciones técnicas para que sus funcionarios se desempeñen correctamente y los usuarios reciban una atención adecuada.
 
-Tendrá la oficina, a expensas del Conservador, los dependientes u oficiales necesarios, de modo que los trabajos en ella estén al corriente y en buen orden.
+El conservador deberá mantener abierta su oficina, como mínimo, de lunes a viernes, en un horario no inferior a siete horas diarias. El Ministerio de Justicia y Derechos Humanos podrá extender hasta en una hora este horario mínimo, cuando por razones fundadas lo estime pertinente. No podrá limitarse la atención directa al público durante dicho horario. Los conservadores deberán informar el horario específico de atención y, de manera previa, sus modificaciones, tanto a la Fiscalía Judicial como al público general, a través del sitio web de su oficio y en sus propias dependencias. El conservador deberá estar presente al menos durante el horario de atención al público. Sin embargo, el Ministerio de Justicia y Derechos Humanos podrá autorizar fundadamente días y horarios de atención distintos para aquellos conservadores que, por su situación geográfica, tamaño o recursos, les sea excesivamente gravoso cumplir con este mínimo.
 
-Se abrirá en todo tiempo a las nueve de la mañana y se cerrará a las cuatro de la tarde.
+Los gastos de mantención de los registros, servicios computacionales, equipos y, en general, de todos los costos operacionales concernientes al mencionado oficio serán de cargo del conservador.
 
-Los gastos de reparación de los Registros rotos o maltratados, como los de todo lo demás pertenecientes a la expresada oficina, serán de cargo del Conservador.
+#### Artículo 5° bis
+
+Los conservadores deberán mantener la infraestructura, equipamiento e insumos que permitan:
+
+1. Disponer de medios electrónicos para la transmisión, comunicación y recepción de información y documentación digital.
+
+2. Llevar un respaldo digital de los registros, índices, repertorios u otro tipo de libros que les competan.
+
+3. Contar con sistemas electrónicos para el adecuado respaldo digital de las inscripciones efectuadas en el respectivo conservador, y garantizar así la seguridad, integridad y disponibilidad de la información contenida en él. Deberá mantener un estándar de tecnología que permita al menos:
+
+a) Extender y otorgar electrónicamente las copias y certificados que de acuerdo con la ley deban entregar.
+
+b) Llevar a cabo comunicaciones, notificaciones e intercambio electrónico de información entre los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial y otros organismos o instituciones, de conformidad con la ley.
+
+c) El acceso de manera remota para la consulta de la información y documentos contenidos en un repositorio digital que llevará. En este repositorio digital constarán las copias electrónicas de las inscripciones y archivos que hayan sido realizados, para efectos de facilitar su acceso al público y asegurar su resguardo.
+
+Un reglamento dictado por el Ministerio de Justicia y Derechos Humanos, suscrito además por el Ministro de Hacienda, establecerá las características técnicas que de manera específica deberá cumplir el repositorio digital.
+
+d) Conservar electrónicamente un respaldo digital de los registros, libros, índices o de cualquier otro documento que por ley deban llevar en el cumplimiento de sus funciones.
+
+4. Contar con un sitio web que a lo menos contenga la dirección; el horario de funcionamiento; los trámites que pueden realizarse y los requisitos necesarios para hacerlo; las tarifas por trámite; la lista actualizada de los suplentes e interinos; una nómina con la información del personal contratado para ejercer labores administrativas, técnicas o profesionales; los balances anuales; los últimos tres informes de supervisión elaborados por el respectivo fiscal judicial, y un canal de consultas, reclamos y sugerencias. La información publicada a través del sitio web deberá mantenerse actualizada.
+
+5. Que en el sitio web referido en el número anterior los usuarios puedan consultar de manera gratuita los índices de sus registros y las inscripciones practicadas, y solicitar nuevas inscripciones.
+
+6. Garantizar la disponibilidad y la accesibilidad de la información.
+
+Excepcionalmente, el Ministerio de Justicia y Derechos Humanos, mediante decreto supremo suscrito igualmente por el Ministerio de Hacienda, por orden del Presidente de la República, podrá fijar requisitos técnicos distintos para aquellos conservadores que por su situación geográfica, tamaño o recursos estén imposibilitados de cumplir íntegramente estas obligaciones, cuestión que deberá ser debidamente acreditada por éstos.
+
+> **Nota.** El artículo tercero transitorio de la ley 21772, publicada el 01.10.2025, dispone que las obligaciones de operar a través de medios electrónicos y de contar con un respaldo digital, a que se refiere el presente artículo, entrarán en vigencia en el plazo de seis meses contado desde la publicación en el Diario Oficial del reglamento a que alude el nuevo artículo 409 ter del Código Orgánico de Tribunales.
+
+#### Artículo 5° ter
+
+Los conservadores deberán dar respuesta a los requerimientos de información que hagan órganos del Estado en el cumplimiento de sus funciones, en el plazo de treinta días corridos, sin perjuicio de los términos dispuestos en normas especiales.
 
 #### Artículo 6º
 
-La oficina del Conservador será visitada en la misma forma que las escribanías públicas, y los magistrados encargados de dichas visitas exigirán el exacto cumplimiento de todas las disposiciones contenidas en este Reglamento.
+La oficina del Conservador será inspeccionada en la misma forma que las notarías, y los encargados de dichas inspecciones exigirán el exacto cumplimiento de todas las disposiciones contenidas en esta ley y las demás normas que se dicten al efecto.
 
 ## Título II
 
@@ -50,31 +82,21 @@ DEL NOMBRAMIENTO Y FUNCIONES DEL CONSERVADOR
 
 #### Artículo 7º
 
-El Registro Conservatorio en cada departamento estará a cargo de un Conservador, nombrado por el Presidente de la República.
+Cada Registro Conservatorio estará a cargo de un Conservador, nombrado en conformidad con lo establecido en el artículo 287 del Código Orgánico de Tribunales.
 
-Estos nombramientos se harán en personas que, después de haber manifestado competencia para el desempeño de sus obligaciones, hubieren cumplido con todos los requisitos establecidos para el nombramiento de escribanos.
+#### Artículo 8°
 
-Sin embargo, estas solemnidades y pruebas podrán omitirse si el nombramiento de Conservador lo hace recaer el Presidente de la República en abogado o escribano público.
+Los conservadores, titulares e interinos, deberán rendir, ante y a favor del Ministerio de Justicia y Derechos Humanos, una caución o garantía suficiente, que asegure su cobro de manera rápida y efectiva, para responder de las multas e indemnizaciones de perjuicios a que puedan ser condenados en razón de los actos concernientes al desempeño de sus cargos. Los plazos de entrega de la garantía y los efectos del incumplimiento de este deber se sujetarán a lo dispuesto en los artículos 473 y 473 bis del Código Orgánico de Tribunales.
 
-#### Artículo 8º
+#### Artículo 9°
 
-Todo Conservador, antes de entrar a ejercer su oficio, prestará ante la respectiva Corte de Apelaciones el mismo juramento que los escribanos, y dará fianza, constituirá hipoteca o depositará en arcas fiscales letras de la Caja Hipotecaria para responder de toda omisión, retardo, error y, en general, de toda falta o defecto que en el ejercicio de su cargo pueda serle imputable.
-
-La fianza o hipoteca será a satisfacción del Regente de la citada Corte.
-
-#### Artículo 9º
-
-La cuantía de la fianza, hipoteca o depósito que deben dar o constituir los Conservadores, será de cuatro escudos en los departamentos de Santiago, de Valparaíso y Copiapó; de tres escudos en los departamentos en que hay establecidos Juzgados de Letras, y de dos escudos en los demás departamentos.
+La cuantía de la garantía se determinará según lo dispuesto en el artículo 473 del Código Orgánico de Tribunales.
 
 #### Artículo 10
 
-Las causas de implicancias o prohibiciones de actuar, establecidas por las leyes para los escribanos públicos, se extienden también a los Conservadores.
+Las causas de implicancias o prohibiciones de actuar, establecidas por las leyes para los notarios, se extienden también a los Conservadores.
 
-En los casos de implicancia, ausencia, enfermedad o de cualquier otro impedimento accidental, será reemplazado por el escribano del mismo departamento; si hubiere más de un escribano, por el más antiguo; si ninguno hubiere, por el alcalde que ejerza el juzgado de primera instancia, y en defecto de éste, por el que deba reemplazarlo según la ley.
-
-Los substitutos legales, mientras lo sean, ejercerán el cargo bajo la garantía constituida por el Conservador propietario.
-
-Las subrogaciones de que se hace referencia en el inciso anterior, se verifican previo decreto del gobernador departamental, en que califique su necesidad y llame al substituto que corresponda. De este decreto se tomará razón en la oficina del Conservador antes de que el substituto empiece a funcionar.
+Los reemplazos por ausencia o inhabilidad del conservador se regirán por el artículo 402 del Código Orgánico de Tribunales.
 
 #### Artículo 11
 
@@ -86,7 +108,9 @@ El Conservador inscribirá en el respectivo Registro los títulos que al efecto 
 
 #### Artículo 13
 
-El Conservador no podrá rehusar ni retardar las inscripciones: deberá, no obstante, negarse, si la inscripción es en algún sentido legalmente inadmisible; por ejemplo, si no es auténtica o no está en el papel competente la copia que se le presenta; si no está situada en el departamento o no es inmueble la cosa a que se refiere; si no se ha dado al público el aviso prescrito en el artículo 58; si es visible en el título algún vicio o defecto que lo anule absolutamente, o si no contiene las designaciones legales para la inscripción.
+El Conservador no podrá rehusar ni retardar las inscripciones: deberá, no obstante, negarse, si la inscripción es en algún sentido legalmente inadmisible; por ejemplo, si no es auténtica la copia que se le presenta; si no está situada en la comuna o no es inmueble la cosa a que se refiere; si no se ha dado al público el aviso prescrito en el artículo 58; si es visible en el título algún vicio o defecto que lo anule absolutamente, o si no contiene las designaciones legales o éstas no son correctas para la inscripción. Los fundamentos de toda negativa se expresarán detalladamente en el mismo título y, además, en forma escrita al usuario en hoja separada, en el mismo acto.
+
+En caso de que la causa de la negativa a inscribir pueda ser atribuida a un descuido o negligencia del notario que intervino en el acto, los costos para la parte que se susciten con el fin de rectificarlo serán asumidos por dicho notario.
 
 #### Artículo 14
 
@@ -114,11 +138,11 @@ La parte perjudicada con la negativa del Conservador, ocurrirá al juez de prime
 
 #### Artículo 19
 
-Si manda el juez hacer la inscripción, el Conservador hará mención en ella del decreto en que le hubiere ordenado.
+Si manda el juez hacer la inscripción, el Conservador hará mención en ella de la resolución en que le hubiere ordenado, sin perjuicio de agregarse copia de la resolución al final del registro correspondiente.
 
 #### Artículo 20
 
-El decreto en que se niegue lugar a la inscripción es apelable en la forma ordinaria.
+La resolución en que se niegue lugar a la inscripción es apelable en la forma ordinaria.
 
 ## Título III
 
@@ -224,6 +248,10 @@ Cada uno de los Registros parciales se abrirá al principio de año con un certi
 
 Los documentos que el Conservador debe retener según el artículo 85, se agregarán numerados al final de los respectivos Registros, por el mismo orden de las inscripciones.
 
+Los archivos de planos de los registros que lleve el conservador se agregarán numerados al respectivo registro del año. De la misma forma se archivarán los planos de condominio de la ley Nº 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, y demás que establezcan las leyes o reglamentos.
+
+Los planos deberán siempre digitalizarse para su consulta y sólo de ellos se otorgarán copias, sin que pueda el conservador certificar las que acompañe el requirente.
+
 #### Artículo 40
 
 Al final de los expresados documentos se pondrá un certificado igual al de los Registros; y en cada documento, cuyas páginas todas rubricará el Conservador, certificará la foja y el número de la inscripción a que se refiere.
@@ -258,7 +286,7 @@ Es aplicable a los índices generales lo dispuesto, respecto del Repertorio, en 
 
 Cada Registro parcial se encuadernará prolijamente y se cubrirá con tapa firme.
 
-Sobre ella o en el lomo se pondrá un rótulo, expresando la clase de Registro que contiene y el año a que pertenece.
+Sobre ella o en el lomo se pondrá un rótulo, expresando la clase de Registro que contiene y el año a que pertenece. También se indicará la foja de inicio y término y el nombre de la comuna o sede a la cual pertenece el conservador.
 
 #### Artículo 48
 
@@ -266,7 +294,7 @@ Si los Registros fuesen poco voluminosos, podrán cubrirse con una sola tapa los
 
 #### Artículo 49
 
-En orden a la guarda de los Registros incumben a los Conservadores los mismos deberes y obligaciones que a los escribanos. Son, no obstante, esencialmente públicos todos ellos; por consiguiente, es permitido a cualquiera consultarlos en la misma oficina y tomar los apuntes que crea convenientes.
+En orden a la guarda de los Registros incumben a los Conservadores los mismos deberes y obligaciones que a los escribanos. Son, no obstante, esencialmente públicos todos ellos; por consiguiente, es permitido a cualquiera consultarlos en la misma oficina y tomar los apuntes que crea convenientes, así como consultar en el sitio web las copias electrónicas de sus registros, en los términos señalados en el articulo 5 bis.
 
 #### Artículo 50
 
@@ -340,13 +368,13 @@ Si la prohibición o limitación recayeren sobre un inmueble determinado, la ins
 
 #### Artículo 57
 
-Para llevar a efecto la inscripción, se exhibirá al Conservador copia auténtica del título respectivo o de la sentencia o decreto judicial; en este caso, con certificación al pie del respectivo escribano, que acredite ser ejecutorios.
+Para llevar a efecto la inscripción, se exhibirá al Conservador copia auténtica del título respectivo o de la sentencia o decreto judicial; en este caso, con certificación al pie del respectivo ministro de fe, que acredite ser ejecutorios.
 
 Se exhibirán también los demás documentos necesarios, sean públicos o privados.
 
 #### Artículo 58
 
-Para inscribir la transferencia por donación o contrato entre vivos de una finca que no ha sido antes inscrita, exigirá el Conservador constancia de haberse dado aviso de dicha transferencia al público por medio de tres avisos publicados en un periódico del departamento o de la capital de la provincia, si en aquél no lo hubiere, y por un cartel fijado durante quince días por lo menos en la oficina del mismo Conservador, con las designaciones relativas a las personas que transfieren y a los límites y nombre de la propiedad, materia del contrato.
+Para inscribir la transferencia por donación o contrato entre vivos de una finca que no ha sido antes inscrita, exigirá el Conservador constancia de haberse dado aviso de dicha transferencia al público por medio de tres avisos publicados en un periódico del departamento o de la capital de la provincia, si en aquél no lo hubiere, y por un cartel fijado durante quince días por lo menos en la oficina del mismo Conservador y un aviso publicado en su sitio web durante el mismo período, con las designaciones relativas a las personas que transfieren y a los límites y nombre de la propiedad, materia del contrato.
 
 El Conservador certificará el cumplimiento de los requisitos indicados en el inciso anterior al pie del cartel y procederá a protocolizar éste.
 
@@ -356,7 +384,7 @@ La inscripción no podrá efectuarse sino una vez transcurridos treinta días co
 
 #### Artículo 59
 
-La inscripción de un embargo, secuestro, cesión de bienes y cualquiera otro impedimento legal para enajenar un inmueble, no podrá hacerse sin previo decreto del juez competente.
+La inscripción de un embargo, secuestro, cesión de bienes y cualquiera otro impedimento legal para enajenar un inmueble, no podrá hacerse sin previa resolución del juez competente.
 
 #### Artículo 60
 
@@ -372,11 +400,11 @@ El Conservador admitirá como auténtica toda copia autorizada, con las solemnid
 
 #### Artículo 63
 
-Los instrumentos otorgados en país extranjero no se inscribirán sin previo decreto judicial que califique la legalidad de su forma y su autenticidad, conforme a lo dispuesto en los artículos 16, 17 y 18 del Código Civil.
+Los instrumentos otorgados en país extranjero no se inscribirán sin previa resolución judicial que califique la legalidad de su forma y su autenticidad, conforme a lo dispuesto en los artículos 16, 17 y 18 del Código Civil.
 
 #### Artículo 64
 
-No obstante lo prevenido en el artículo anterior, para los efectos de la inscripción, el Conservador reputará legales e inscribirá los instrumentos otorgados en país extranjero y auténticas las copias, si hubiesen pasado aquéllos y se hubieren éstas dado, con el sello de la Legación o Consulado, por un Ministro Plenipotenciario, un Encargado de Negocios, un Secretario de Legación o un Cónsul de Chile, con tal que estos dos últimos tengan título expedido por el Presidente de la República, y que el Ministro de Relaciones Exteriores haya abonado la firma del autorizante.
+No obstante lo previsto en el artículo anterior, para los efectos de la inscripción el conservador reputará legales e inscribirá los instrumentos otorgados en país extranjero y tendrá por auténticas las copias, si ellos han sido legalizados conforme a lo prescrito en los artículos 345 y 345 bis del Código de Procedimiento Civil.
 
 #### Artículo 65
 
@@ -436,21 +464,31 @@ Las sumas se escribirán en guarismos y en letras, y no se usarán jamás de abr
 
 #### Artículo 78
 
-La inscripción de títulos de propiedad y de derechos reales, contendrá:
+La inscripción de títulos de propiedad y de los demás derechos reales contendrá:
 
-1º. La fecha de la inscripción;
+1. La fecha de la inscripción.
 
-2º. La naturaleza, fecha del título y la oficina en que se guarda el original;
+2. La singularización o identificación del inmueble, con mención expresa de su nombre, si corresponde, de su dirección, región, provincia, comuna; rol o roles de avalúo fiscal; superficie y planos, si los hay.
 
-3º. Los nombres, apellidos y domicilios de las partes;
+3. El título que se inscribe, su fecha, y el tribunal, notario o funcionario que lo autoriza.
 
-4º. El nombre y linderos del fundo;
+4. La firma del conservador.
 
-5º. La firma del Conservador.
+5. La persona natural o jurídica a cuyo favor se haga la inscripción, con indicación del derecho o calidad que asume.
 
-Si se pidiere la inscripción de un título translaticio del dominio de un inmueble o de alguno de los derechos reales mencionados en el artículo 52, número 1º; y en el título no apareciere facultado uno de los otorgantes o un tercero para hacer por sí solo el registro, será necesario además que las partes o sus representantes firmen la anotación.
+Dicha información deberá precisar el número de cédula de identidad, en el caso de chilenos residentes en Chile; el de la cédula de identidad para extranjeros, en el caso de extranjeros residentes en el país; por último, el número de pasaporte, en el caso de extranjeros y chilenos residentes en el extranjero.
 
-En las transferencias que procedan de decretos judiciales no hay necesidad de que las partes firmen las anotaciones.
+Si se trata de persona natural, deberá indicarse su estado civil, según aparezca en el título.
+
+6. La persona de quien procedan inmediatamente los bienes o derechos que deban inscribirse.
+
+7. Última inscripción que la preceda.
+
+8. La indicación de que se ha constituido como bien familiar, según sea el caso.
+
+9. La indicación, cuando proceda, de que se trata de tierras indígenas de conformidad con lo dispuesto en el artículo 12 de la ley Nº 19.253, que establece normas sobre protección, fomento y desarrollo de los indígenas, y crea la Corporación Nacional de Desarrollo Indígena.
+
+10. Otras observaciones relevantes no comprendidas en los numerales anteriores, cuando corresponda.
 
 #### Artículo 79
 
@@ -548,21 +586,11 @@ El Conservador no hará cancelación alguna de oficio; no obstante, en las inscr
 
 ## Título IX
 
-DE LOS DERECHOS DEL CONSERVADOR
+DE LAS TARIFAS
 
 #### Artículo 93
 
-Los derechos del Conservador serán los siguientes:
-
-Un peso cincuenta centavos por cada inscripción, y su certificación en el título, si no exceden de dos fojas, y si excedieren, quince centavos por cada una de las demás fojas;
-
-Ochenta centavos por cada cancelación o subinscripción ordenada por sentencia;
-
-Ochenta centavos por cada certificación que diere.
-
-El papel sellado será, además, pagado por los que soliciten la inscripción.
-
-En cuanto a los derechos por las copias que diere de las inscripciones, se arreglará el arancel general, en la parte que trata de las copias que dan los escribanos, de instrumentos de sus registros.
+Las tarifas del conservador serán fijadas conforme a lo dispuesto en el artículo 492 del Código Orgánico de Tribunales.
 
 #### Artículo 94
 
@@ -582,15 +610,33 @@ SEAN IMPUTABLES
 
 #### Artículo 96
 
-El Conservador, independientemente de la responsabilidad a que es obligado por los daños y perjuicios que ocasionare, podrá ser condenado a pagar una multa de dos a veinte pesos, si no anota en el Repertorio los títulos en el acto de recibirlos; si no lo cierra diariamente, como se prescribe en el artículo 28; si no lleva los Registros en el orden que preceptúa este Reglamento; si hace, niega o retarda indebidamente alguna inscripción; si no se conforma a la copia auténtica para hacerla; si no son exactos sus certificados o copias; y en general, si incurre en otra falta u omisión, contraviniendo las leyes y lo dispuesto en este Reglamento.
+El conservador, independientemente de la responsabilidad por los daños y perjuicios que ocasione, podrá ser sancionado disciplinariamente con amonestación, censura o suspensión, según sea la gravedad del hecho.
+
+No obstante lo anterior, y sin perjuicio de otras causales y sanciones establecidas por la ley, podrá aplicarse, previa audiencia del afectado y por resolución fundada, la sanción de exoneración del cargo al conservador que en el período de dos años reincida en alguna de las siguientes conductas o incurra en dos o más de ellas:
+
+1. Si no anota en el repertorio los títulos en el acto de recibirlos o no lo cierra diariamente, como se prescribe en el artículo 28.
+
+2. Si no lleva los registros en el orden que preceptúan las leyes o reglamentos.
+
+3. Si efectúa indebidamente, niega o retarda sin causa justificada alguna inscripción.
+
+4. Si los certificados o copias que emite adolecen de alteraciones o inexactitudes injustificadas.
+
+5. Si al cobrar por sus servicios infringe lo dispuesto en el artículo 492 del Código Orgánico de Tribunales.
+
+6. Si incumple injustificadamente los deberes de mantención y operación de sistemas computacionales, archivo electrónico, comunicación digital y restantes estándares tecnológicos establecidos en los artículos 5 y 5 bis y en los reglamentos que sean aplicables.
+
+7. Si incumple el deber de informar a la Unidad de Análisis Financiero, con arreglo a lo prescrito en la ley Nº 19.913, que crea la Unidad de Análisis Financiero y modifica diversas disposiciones en materia de lavado y blanqueo de activos.
+
+8. Si incumple injustificadamente los horarios de funcionamiento del oficio o el ejercicio personal de sus funciones, establecidos por las leyes o reglamentos.
 
 #### Artículo 97
 
-La multa será impuesta sin ulterior recurso por el juez de primera instancia del departamento, y sin necesidad de más trámite que las diligencias necesarias para averiguar el hecho.
+Derogado.
 
 #### Artículo 98
 
-Lo dispuesto en los precedentes artículos es sin perjuicio de que el Conservador subsane la falta u omisión, y de lo que, para el caso de delito, ordenase el Código Penal.
+Lo dispuesto en los precedentes artículos es sin perjuicio de que el Conservador subsane la falta u omisión, y de lo que, para el caso de delito, dispone el artículo 443 del Código Orgánico de Tribunales, o el Código Penal.
 
 ## Título XI
 

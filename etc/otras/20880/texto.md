@@ -74,6 +74,10 @@ Además de los sujetos señalados en el Capítulo 3° de este Título, se encont
 
 15. El Jefe o Jefa de la Oficina de Autorizaciones Sectoriales e Inversión, así como las jefaturas de áreas de dicha repartición.
 
+15. Los funcionarios de la segunda serie del Escalafón Secundario del Poder Judicial.
+
+> **Nota.** El artículo 5 de la ley 21772, publicada el 01.10.2025, dispone agregar en el presente artículo un numeral 15, no obstante, el artículo 122 de la ley 21770, publicada el 29.09.2025, ya había incorporado un numeral 15 de distinto tenor a esta misma disposición, razón por la cual, el presente texto actualizado contiene dos números 15.
+
 #### Artículo 5°
 
 La declaración de intereses y patrimonio deberá efectuarse dentro de los treinta días siguientes de la fecha de asunción del cargo. Además, el declarante deberá actualizarla anualmente, durante el mes de marzo, y dentro de los treinta días posteriores a concluir sus funciones.
@@ -216,9 +220,9 @@ Si el sujeto obligado no realiza oportunamente la declaración de intereses y pa
 
 #### Artículo 17
 
-El Fiscal Nacional, los fiscales regionales y los fiscales adjuntos deberán efectuar una declaración jurada de intereses y patrimonio, en los términos estipulados en los artículos 5°, 6°, 7° y 8°.
+El Fiscal Nacional, los fiscales regionales, el Fiscal Jefe de la Fiscalía Supraterritorial y los fiscales adjuntos deberán efectuar una declaración jurada de intereses y patrimonio, en los términos estipulados en los artículos 5°, 6°, 7° y 8°.
 
-Si los fiscales regionales o los fiscales adjuntos no realizan oportunamente la declaración de intereses y patrimonio o la efectúan de manera incompleta o inexacta, serán apercibidos para que la realicen o rectifiquen dentro del plazo de diez días hábiles y, en caso de incumplimiento, serán sancionados con multa de cinco a cincuenta unidades tributarias mensuales, impuestas administrativamente por el Fiscal Nacional o el Fiscal Regional respectivo, en su caso. Dicha multa se reiterará por cada mes adicional de retardo. Si el incumplimiento se mantuviere por un período superior a los cuatro meses siguientes a la notificación de la sanción, se considerará falta grave a la probidad y dará lugar a la destitución o cese de funciones del infractor, de acuerdo al estatuto respectivo.
+Si los fiscales regionales, el Fiscal Jefe de la Fiscalía Supraterritorial o los fiscales adjuntos no realizan oportunamente la declaración de intereses y patrimonio o la efectúan de manera incompleta o inexacta, serán apercibidos para que la realicen o rectifiquen dentro del plazo de diez días hábiles y, en caso de incumplimiento, serán sancionados con multa de cinco a cincuenta unidades tributarias mensuales, impuestas administrativamente por el Fiscal Nacional, si se trata de los Fiscales Regionales y del Fiscal Jefe de la Fiscalía Supraterritorial, y respecto de los fiscales adjuntos, por el Fiscal Regional respectivo o el Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda. Dicha multa se reiterará por cada mes adicional de retardo. Si el incumplimiento se mantuviere por un período superior a los cuatro meses siguientes a la notificación de la sanción, se considerará falta grave a la probidad y dará lugar a la destitución o cese de funciones del infractor, de acuerdo al estatuto respectivo.
 
 El procedimiento podrá iniciarse por el superior jerárquico que corresponda de oficio o por denuncia fundada de cualquier interesado. La formulación de cargos dará al afectado el derecho a contestarlos en el plazo de diez días hábiles. En caso de ser necesario, el período probatorio será de ocho días hábiles. Podrán utilizarse todos los medios de prueba, siendo ésta apreciada conforme a las reglas de la sana crítica. El superior jerárquico deberá dictar la resolución final dentro de los diez días hábiles siguientes a aquel en que se evacuó la última diligencia.
 

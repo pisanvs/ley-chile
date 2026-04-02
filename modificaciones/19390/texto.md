@@ -684,9 +684,9 @@ Las normas relativas a ternas y nombramientos, sólo en cuanto requieran de la a
 
 Las personas que en virtud de las normas de esta ley cambien de categoría o de escalafón, se incorporarán en la respectiva categoría y escalafón, a continuación de los que actualmente se encuentren en la misma categoría e igual escalafón, ingresando en el mismo orden que tenían en la categoría o escalafón anterior.
 
-#### Artículo 3°
+#### Artículo 3
 
-La norma contemplada en el artículo 495 bis del Código Orgánico de Tribunales no se aplicará a los auxiliares de la Administración de Justicia que se encuentren en servicio a la fecha de vigencia de esta ley.
+(T).- Derogado.
 
 #### Artículo 4°
 
