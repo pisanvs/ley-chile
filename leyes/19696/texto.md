@@ -132,6 +132,8 @@ Con todo, tratándose de informaciones o documentos que en virtud de la ley tuvi
 
 Si la autoridad requerida retardare el envío de los antecedentes solicitados o se negare a enviarlos, a pretexto de su carácter secreto o reservado y el fiscal estimare indispensable la realización de la actuación, remitirá los antecedentes al fiscal regional quien, si compartiere esa apreciación, solicitará a la Corte de Apelaciones respectiva que, previo informe de la autoridad de que se tratare, recabado por la vía que considerare más rápida, resuelva la controversia. La Corte adoptará esta decisión en cuenta. Si fuere el tribunal el que requiriere la información, formulará dicha solicitud directamente ante la Corte de Apelaciones.
 
+En el caso de que el fiscal que requiera la información ejerza labores en la Fiscalía Supraterritorial, deberá remitir los antecedentes al Fiscal Jefe de aquella. Si el Fiscal Jefe de la Fiscalía Supraterritorial también considera que se trata de una actuación cuya realización es indispensable, solicitará a la Corte de Apelaciones del domicilio de la autoridad requerida que resuelva la controversia en los mismos términos expresados en el inciso precedente.
+
 Si la razón invocada por la autoridad requerida para no enviar los antecedentes solicitados fuere que su publicidad pudiere afectar la seguridad nacional, la cuestión deberá ser resuelta por la Corte Suprema.
 
 Aun cuando la Corte llamada a resolver la controversia rechazare el requerimiento del fiscal, por compartir el juicio de la autoridad a la que se hubieren requerido los antecedentes, podrá ordenar que se suministren al ministerio público o al tribunal los datos que le parecieren necesarios para la adopción de decisiones relativas a la investigación o para el pronunciamiento de resoluciones judiciales.
@@ -538,6 +540,12 @@ Con posterioridad al inicio de la audiencia del juicio oral, no podrán deducirs
 
 El tribunal continuará funcionando con exclusión del o de los miembros inhabilitados, si éstos pudieren ser reemplazados de inmediato en virtud de lo dispuesto en el inciso quinto del artículo 281, o si continuare integrado por, a lo menos, dos jueces que hubieren concurrido a toda la audiencia. En este último caso, deberán alcanzar unanimidad para pronunciar la sentencia definitiva. Si no se cumpliere alguna de estas condiciones, se anulará todo lo obrado en el juicio oral.
 
+#### Artículo 76 bis
+
+Regla de competencia para causas de la Fiscalía Supraterritorial. El Ministerio Público o la defensa del imputado, tratándose de la investigación y juzgamiento de delitos que sean de conocimiento de la Fiscalía Supraterritorial especializada en crimen organizado y delitos de alta complejidad, en casos de alarma pública y siempre que se estime fundamental para el éxito de la investigación y no se vulnere sustancialmente el derecho a la defensa del imputado, podrán solicitar al Pleno de la Corte Suprema, una vez formalizada la investigación y hasta antes del término de la audiencia de preparación del juicio oral, que el conocimiento de éstos sea de competencia de los Juzgados de Garantía y del Tribunal de Juicio Oral en lo Penal de la jurisdicción de la Corte de Apelaciones de Santiago, conforme al turno establecido en el artículo 167 del Código Orgánico de Tribunales.
+
+En la solicitud se deberán acompañar antecedentes que acrediten de manera inequívoca la concurrencia de las circunstancias establecidas en el inciso precedente. De esta solicitud, que será suscrita por el Fiscal Jefe de la Fiscalía Supraterritorial o el defensor respectivo, se dará traslado a los intervinientes por el plazo de cinco días.
+
 ### Párrafo 2º — El ministerio público
 
 #### Artículo 77
@@ -572,7 +580,7 @@ Inciso Derogado.
 
 #### Artículo 78 ter
 
-Medidas especiales de protección de fiscales. Excepcionalmente, cuando en el transcurso de una investigación o en cualquier otra etapa del procedimiento, surgiere algún antecedente grave de amenaza, agresión u otra potencial afectación a la integridad personal de los fiscales o de sus familias, o en todo caso tratándose de la investigación de hechos que revistan carácter de delito terrorista o de delitos cometidos por asociaciones delictivas o criminales, el Fiscal Regional respectivo podrá disponer, mediante una decisión fundada, una o más de las siguientes medidas de protección:
+Medidas especiales de protección de fiscales. Excepcionalmente, cuando en el transcurso de una investigación o en cualquier otra etapa del procedimiento, surgiere algún antecedente grave de amenaza, agresión u otra potencial afectación a la integridad personal de los fiscales o de sus familias, o en todo caso tratándose de la investigación de hechos que revistan carácter de delito terrorista o de delitos cometidos por asociaciones delictivas o criminales, el Fiscal Regional respectivo o el Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, podrá disponer, mediante una decisión fundada, una o más de las siguientes medidas de protección:
 
 a) La participación del fiscal o del abogado asistente de fiscal en las audiencias por vía remota mediante videoconferencia.
 
@@ -582,7 +590,7 @@ c) Reserva de la identidad del fiscal o del abogado asistente de fiscal en los r
 
 En los casos en que se decrete la reserva de la identidad, ésta deberá ser reemplazada por una denominación genérica como "Fiscal del Ministerio Público".
 
-El Fiscal Regional deberá comunicar al tribunal respectivo su decisión, a fin de que se disponga lo necesario para dar cumplimiento a las medidas de protección. En el caso de la comparecencia telemática, deberá comunicar la decisión a lo menos con cuarenta y ocho horas de anticipación a la audiencia, o de ocho horas, si se tratare de la primera audiencia judicial del detenido.
+El Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, deberá comunicar al tribunal respectivo su decisión, a fin de que se disponga lo necesario para dar cumplimiento a las medidas de protección. En el caso de la comparecencia telemática, deberá comunicar la decisión a lo menos con cuarenta y ocho horas de anticipación a la audiencia, o de ocho horas, si se tratare de la primera audiencia judicial del detenido.
 
 La medida de protección decretada se mantendrá vigente durante toda la sustanciación del proceso hasta el término de la causa por cualquier motivo. En caso de ponerse término en virtud de una sentencia condenatoria, la medida de protección podrá extenderse hasta que la pena se encuentre completamente cumplida.
 
@@ -1146,7 +1154,7 @@ Para los efectos de poner a disposición del juez al detenido, las policías cum
 
 Comparecencia judicial. A la primera audiencia judicial del detenido deberá concurrir el fiscal o el abogado asistente del fiscal. La ausencia de éstos dará lugar a la liberación del detenido. No obstante lo anterior, el juez podrá suspender la audiencia por un plazo breve y perentorio no superior a dos horas, con el fin de permitir la concurrencia del fiscal o su abogado asistente. Transcurrido este plazo sin que concurriere ninguno de ellos, se procederá a la liberación del detenido.
 
-En todo caso, el juez deberá comunicar la ausencia del fiscal o de su abogado asistente al fiscal regional respectivo a la mayor brevedad, con el objeto de determinar la eventual responsabilidad disciplinaria que correspondiere.
+En todo caso, el juez deberá comunicar la ausencia del fiscal o de su abogado asistente al fiscal regional respectivo o al Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, a la mayor brevedad, con el objeto de determinar la eventual responsabilidad disciplinaria que correspondiere.
 
 En la audiencia, el fiscal o el abogado asistente del fiscal actuando expresamente facultado por éste, procederá directamente a formalizar la investigación y a solicitar las medidas cautelares que procedieren, siempre que contare con los antecedentes necesarios y que se encontrare presente el defensor del imputado. En el caso de que no pudiere procederse de la manera indicada, el fiscal o el abogado asistente del fiscal actuando en la forma señalada, podrá solicitar una ampliación del plazo de detención hasta por tres días, con el fin de preparar su presentación. El juez accederá a la ampliación del plazo de detención cuando estimare que los antecedentes justifican esa medida.
 
@@ -1494,7 +1502,7 @@ En los delitos previstos en los artículos 459 y 460 del Código Penal, recibida
 
 Archivo provisional. En tanto no se hubiere producido la intervención del juez de garantía en el procedimiento, el ministerio público podrá archivar provisionalmente aquellas investigaciones en las que no aparecieren antecedentes que permitieren desarrollar actividades conducentes al esclarecimiento de los hechos.
 
-Si el delito mereciere pena aflictiva, el fiscal deberá someter la decisión sobre archivo provisional a la aprobación del Fiscal Regional.
+Si el delito mereciere pena aflictiva, el fiscal deberá someter la decisión sobre archivo provisional a la aprobación del Fiscal Regional o del Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda.
 
 Si el delito tuviere asignada pena de crimen, la forma y el medio en que se comunicará a la víctima, el fundamento de la decisión y las diligencias de investigación efectivamente practicadas se regularán en un instructivo general dictado por el Fiscal Nacional.
 
@@ -1577,6 +1585,8 @@ d) Los jefes de establecimientos hospitalarios o de clínicas particulares y, en
 e) Los directores, inspectores y profesores de establecimientos educacionales de todo nivel, los delitos que afectaren a los alumnos o que hubieren tenido lugar en el establecimiento, y
 
 f) Los jefes de establecimientos de salud, públicos o privados, y los sostenedores y directores de establecimientos educacionales, públicos o privados, respecto de los delitos perpetrados contra los profesionales y funcionarios de dichos establecimientos al interior de sus dependencias o mientras éstos se encontraren en el ejercicio de sus funciones o en razón, con motivo u ocasión de ellas. La misma obligación tendrán los directores de los Servicios Locales de Educación respecto de estos delitos, cuando ocurran en los establecimientos educacionales que formen parte del territorio de su competencia.
+
+g) Los jefes de seguridad o jefes de establecimientos donde ejerzan sus funciones las entidades obligadas y los representantes legales de las empresas que ejerzan actividades de seguridad privada, así como los organizadores o productores de eventos masivos, de acuerdo a la ley que regula esa materia.
 
 La denuncia realizada por alguno de los obligados en este artículo eximirá al resto.
 
@@ -1866,7 +1876,7 @@ Entrada y registro en lugares especiales. Para proceder al examen y registro de 
 
 Si la diligencia implicare el examen de documentos reservados o de lugares en que se encontrare información o elementos de dicho carácter y cuyo conocimiento pudiere afectar la seguridad nacional, la autoridad o persona a cuyo cargo se encontrare el recinto informará de inmediato y fundadamente de este hecho al Ministro de Estado correspondiente, a través del conducto regular, quien, si lo estimare procedente, oficiará al fiscal manifestando su oposición a la práctica de la diligencia. Tratándose de entidades con autonomía constitucional, dicha comunicación deberá remitirse a la autoridad superior correspondiente.
 
-En este caso, si el fiscal estimare indispensable la realización de la actuación, remitirá los antecedentes al fiscal regional, quien, si compartiere esa apreciación, solicitará a la Corte Suprema que resuelva la controversia, decisión que se adoptará en cuenta. Mientras estuviere pendiente esa determinación, el fiscal dispondrá el sello y debido resguardo del lugar que debiere ser objeto de la diligencia.
+En este caso, si el fiscal estimare indispensable la realización de la actuación, remitirá los antecedentes al fiscal regional o al Fiscal Jefe de la Fiscalía Supraterritorial, si correspondiere, quien, si compartiere esa apreciación, solicitará a la Corte Suprema que resuelva la controversia, decisión que se adoptará en cuenta. Mientras estuviere pendiente esa determinación, el fiscal dispondrá el sello y debido resguardo del lugar que debiere ser objeto de la diligencia.
 
 Regirá, en lo pertinente, lo dispuesto en el artículo 19, y, si la diligencia se llevare a cabo, se aplicará a la información o elementos que el fiscal resolviere incorporar a los antecedentes de la investigación lo dispuesto en el artículo 182.
 
@@ -1950,7 +1960,7 @@ Si a pesar de las medidas señaladas en este artículo la información no es ent
 
 La infracción a la mantención de la nómina y registro actualizado de los antecedentes a que se refiere el inciso cuarto será castigada según las sanciones y el procedimiento previsto en los artículos 36 y 36 A de la ley N° 18.168, General de Telecomunicaciones. El incumplimiento de las obligaciones de mantener con carácter reservado y adoptar las medidas de seguridad correspondientes de los antecedentes señalados en dicho inciso, será sancionado con la pena prevista en la letra f) del artículo 36 B de la ley N° 18.168. Los registros así obtenidos quedarán bajo custodia del Ministerio Público, quien cuidará que los datos en cuestión no sean conocidos por terceras personas.
 
-Los registros sólo podrán ser utilizados para los efectos de la investigación en la que fueron solicitados, u otras seguidas por delitos que merezcan pena de crimen o sean propias del sistema de análisis criminal y focos investigativos, de acuerdo con lo establecido en el artículo 37 bis de la ley N° 19.640, que establece la ley orgánica constitucional del Ministerio Público, y no podrán ser utilizados para otros fines.
+Los registros sólo podrán ser utilizados para los efectos de la investigación en la que fueron solicitados, u otras seguidas por delitos que merezcan pena de crimen o sean propias del Sistema de Análisis Criminal para Crimen Organizado y Delitos de Alta Complejidad, de acuerdo con lo establecido en el artículo 37 cuaterdecies de la ley N° 19.640, que establece la ley orgánica constitucional del Ministerio Público, y no podrán ser utilizados para otros fines.
 
 El ejercicio de esta facultad se regulará mediante instrucciones generales dictadas por el Fiscal Nacional, conforme a lo establecido en el artículo 17 letra a) de la ley N° 19.640, con el objeto de asegurar su uso racional.
 
@@ -2076,13 +2086,13 @@ El uso y autorización de las medidas intrusivas indicadas en los incisos anteri
 
 #### Artículo 226
 
-B.- Ámbito de aplicación. El Fiscal Regional competente podrá autorizar a funcionarios policiales determinados para que se desempeñen como agentes encubiertos o agentes reveladores cuando sea necesario para lograr el esclarecimiento de hechos que involucren la participación en una asociación delictiva o criminal, establecer la identidad e intervención de sus responsables, conocer los planes de la asociación, y prevenir la comisión de sus delitos o comprobar los que hubieren cometido.
+B.- Ámbito de aplicación. El Fiscal Regional competente o el Fiscal Jefe de la Fiscalía Supraterritorial, si corresponde, podrá autorizar a funcionarios policiales determinados para que se desempeñen como agentes encubiertos o agentes reveladores cuando sea necesario para lograr el esclarecimiento de hechos que involucren la participación en una asociación delictiva o criminal, establecer la identidad e intervención de sus responsables, conocer los planes de la asociación, y prevenir la comisión de sus delitos o comprobar los que hubieren cometido.
 
-El Fiscal Regional deberá resolver la solicitud efectuada por el fiscal en un plazo máximo de 72 horas. En caso de negativa, el fiscal podrá solicitar nuevamente autorización para que funcionarios policiales se desempeñen como agentes encubiertos o agentes reveladores, aportando nuevos antecedentes.
+El Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, si corresponde, deberá resolver la solicitud efectuada por el fiscal en un plazo máximo de 72 horas. En caso de negativa, el fiscal podrá solicitar nuevamente autorización para que funcionarios policiales se desempeñen como agentes encubiertos o agentes reveladores, aportando nuevos antecedentes.
 
-No será necesaria la autorización establecida en el inciso primero, en aquellos casos en que sea el Fiscal Nacional o el Fiscal Regional quien dirija personalmente la investigación, conforme a lo establecido en los artículos 18 y 19 de la ley N° 19.640.
+No será necesaria la autorización establecida en el inciso primero, en aquellos casos en que sea el Fiscal Nacional, el Fiscal Jefe de la Fiscalía Supraterritorial o el Fiscal Regional quien dirija personalmente la investigación, conforme a lo establecido en los artículos 18 y 19 de la ley N° 19.640.
 
-Al autorizar la medida el Fiscal Regional deberá asegurarse que ella se limite a las acciones estrictamente necesarias para los objetivos de la investigación, que los agentes reveladores o infiltrados no induzcan a la perpetración de delitos, y que la seguridad de los agentes reveladores o infiltrados se encuentra debidamente resguardada.
+Al autorizar la medida el Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, si corresponde,deberá asegurarse que ella se limite a las acciones estrictamente necesarias para los objetivos de la investigación, que los agentes reveladores o infiltrados no induzcan a la perpetración de delitos, y que la seguridad de los agentes reveladores o infiltrados se encuentra debidamente resguardada.
 
 El acto que autorice la medida será mantenido en poder del Ministerio Público en dos registros distintos. Con todo, la información relativa a la verdadera identidad del agente se mantendrá únicamente en un registro.
 
@@ -2094,7 +2104,7 @@ b) Expresar la duración de la autorización, la que no podrá exceder de sesent
 
 c) Establecer las medidas que deben adoptar para asegurar los objetivos establecidos en el inciso anterior, incluyendo aquellas previstas en el inciso cuarto del artículo 226 C.
 
-Si se cumplen las mismas circunstancias indicadas en el inciso primero, el Fiscal Regional podrá autorizar a cualquier persona para que se desempeñe como informante.
+Si se cumplen las mismas circunstancias indicadas en el inciso primero, el Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, si corresponde, podrá autorizar a cualquier persona para que se desempeñe como informante.
 
 Las autorizaciones establecidas en este artículo serán confidenciales y sólo podrán ser conocidas por terceros en los casos señalados en la ley.
 
@@ -2108,7 +2118,7 @@ C.- Agente encubierto. Agente encubierto es el funcionario policial que oculta s
 
 El agente encubierto podrá tener una identidad e historia ficticias. La Dirección Nacional del Servicio de Registro Civil e Identificación deberá otorgar los medios necesarios para su oportuna y debida materialización. Los funcionarios policiales que han actuado en una investigación con identidad falsa podrán mantener dicha identidad cuando testifiquen en el proceso que pueda derivarse de los hechos en que hayan intervenido y siempre que así se disponga mediante resolución judicial fundada.
 
-Asimismo, el Fiscal Regional podrá autorizar la apertura de una cuenta bancaria, la obtención de otras piezas de identidad relevantes tales como una licencia de conducir y la contratación de servicios básicos haciendo uso de la identidad ficticia. El uso de esta facultad se orientará exclusivamente a reforzar la credibilidad de la identidad e historia ficticias. Un reglamento expedido en conjunto por el Ministerio de Justicia y Derechos Humanos y el Ministerio del Interior y Seguridad Pública deberá establecer los procedimientos y condiciones de ejercicio de esta facultad.
+Asimismo, el Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, podrá autorizar la apertura de una cuenta bancaria, la obtención de otras piezas de identidad relevantes tales como una licencia de conducir y la contratación de servicios básicos haciendo uso de la identidad ficticia. El uso de esta facultad se orientará exclusivamente a reforzar la credibilidad de la identidad e historia ficticias. Un reglamento expedido en conjunto por el Ministerio de Justicia y Derechos Humanos y el Ministerio del Interior y Seguridad Pública deberá establecer los procedimientos y condiciones de ejercicio de esta facultad.
 
 Sin perjuicio de las penas aplicables por la perpetración de otros delitos, el uso manifiestamente indebido de las facultades asociadas a la historia ficticia será sancionado con la pena de presidio menor en su grado mínimo.
 
@@ -2126,19 +2136,19 @@ La información que obtenga el agente revelador deberá ser puesta a la mayor br
 
 E.- Informantes. Informante es quien suministra antecedentes sustanciales a los organismos policiales acerca de la preparación o de la comisión de un delito de asociación delictiva o criminal y requiere de protección.
 
-La autorización que conceda la calidad de informante deberá ser otorgada por el Fiscal Regional.
+La autorización que conceda la calidad de informante deberá ser otorgada por el Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, si corresponde.
 
-Contando con autorización del Fiscal Regional, el Ministerio Público también podrá disponer que sea tratado como informante quien participe, con su conocimiento y bajo su control, de una operación encubierta o de una entrega vigilada.
+Contando con autorización del Fiscal Regional o del Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, el Ministerio Público también podrá disponer que sea tratado como informante quien participe, con su conocimiento y bajo su control, de una operación encubierta o de una entrega vigilada.
 
 ### III. Entregas vigiladas
 
 #### Artículo 226
 
-F.- Ámbito de aplicación. El Fiscal Regional podrá autorizar la entrega vigilada de objetos cuya fabricación, elaboración, distribución, transporte, comercialización, importación, exportación, posesión, o tenencia esté prohibida o restringida, o los objetos por las que se hayan sustituido total o parcialmente las anteriores mencionadas, de los instrumentos que hayan servido para la comisión de los delitos de que se trate, y de los efectos y ganancias de tales delitos, siempre que ello resulte útil para la investigación de la participación en una asociación delictiva o criminal, o para establecer la identidad e intervención de intervinientes distintos de quienes se encuentran en posesión de los bienes en cuestión.
+F.- Ámbito de aplicación. El Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, si corresponde, podrá autorizar la entrega vigilada de objetos cuya fabricación, elaboración, distribución, transporte, comercialización, importación, exportación, posesión, o tenencia esté prohibida o restringida, o los objetos por las que se hayan sustituido total o parcialmente las anteriores mencionadas, de los instrumentos que hayan servido para la comisión de los delitos de que se trate, y de los efectos y ganancias de tales delitos, siempre que ello resulte útil para la investigación de la participación en una asociación delictiva o criminal, o para establecer la identidad e intervención de intervinientes distintos de quienes se encuentran en posesión de los bienes en cuestión.
 
 Se entenderá por entrega vigilada la técnica consistente en permitir que los objetos a los que se refiere el inciso anterior se trasladen, guarden, intercepten o circulen dentro del territorio nacional, salgan de él o entren en él, sin la interferencia de las policías o del Ministerio Público, pero bajo su conocimiento y vigilancia o control.
 
-Al autorizar la medida, el Fiscal Regional deberá asegurarse que ella se limite a las acciones estrictamente necesarias para los objetivos de la investigación, que los agentes estatales no induzcan a la perpetración de delitos, que el procedimiento no ponga en riesgo la integridad personal de terceros y que los bienes cuya entrega vigilada se autoriza puedan ser, en definitiva, sujetos a comiso.
+Al autorizar la medida, el Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, si corresponde, deberá asegurarse que ella se limite a las acciones estrictamente necesarias para los objetivos de la investigación, que los agentes estatales no induzcan a la perpetración de delitos, que el procedimiento no ponga en riesgo la integridad personal de terceros y que los bienes cuya entrega vigilada se autoriza puedan ser, en definitiva, sujetos a comiso.
 
 La resolución que autorice la medida deberá:
 
@@ -2184,7 +2194,7 @@ El que de cualquier modo informe, difunda o divulgue información relativa a una
 
 K.- Extralimitación en el uso de técnicas especiales. Los funcionarios policiales, agentes encubiertos y reveladores que ejecuten las medidas o actuaciones a que se refieren los artículos 226 B, 226 D y 226 F sin observar el objeto o límites impuestos por la autorización respectiva serán sancionados, además de las penas que corresponda por los delitos cometidos, con la pena de suspensión del empleo en su grado máximo y multa de quince a veinte unidades tributarias mensuales.
 
-La misma pena se aplicará al fiscal que al ejecutar técnicas especiales imparta órdenes que impliquen un abuso en su ejercicio, en atención a lo autorizado por el Fiscal Regional o en la resolución judicial.
+La misma pena se aplicará al fiscal que al ejecutar técnicas especiales imparta órdenes que impliquen un abuso en su ejercicio, en atención a lo autorizado por el Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda o en la resolución judicial.
 
 El juez de garantía declarará nulas las actuaciones que excedan manifiestamente el objeto de las técnicas especiales y las excluirá, de conformidad con el artículo 276.
 
@@ -2194,7 +2204,7 @@ El agente policial o fiscal del Ministerio Público que perpetre el delito del a
 
 L.- Utilización de medios de prueba. Los antecedentes o evidencia obtenidos mediante la aplicación de las facultades previstas en este Párrafo y que resulten irrelevantes para el procedimiento serán entregados o devueltos en su oportunidad a las personas respecto de quienes se solicitó la medida y se destruirá todo registro, transcripción o copia de ellos por el Ministerio Público.
 
-Lo prescrito en el inciso precedente no regirá respecto de aquellos antecedentes o evidencia que puedan ser útiles o relevantes para otros procedimientos seguidos por hechos en cuya investigación también sean aplicables las disposiciones de este Párrafo, delitos que merezcan pena de crimen o sean propias del sistema de análisis criminal y focos investigativos, de acuerdo con lo dispuesto en el artículo 37 bis de la ley N° 19.640.
+Lo prescrito en el inciso precedente no regirá respecto de aquellos antecedentes o evidencia que puedan ser útiles o relevantes para otros procedimientos seguidos por hechos en cuya investigación también sean aplicables las disposiciones de este Párrafo, delitos que merezcan pena de crimen o sean propias del Sistema de Análisis Criminal para Crimen Organizado y Delitos de Alta Complejidad, de acuerdo con lo establecido en el artículo 37 cuaterdecies de la ley N° 19.640.
 
 #### Artículo 226
 
@@ -2308,6 +2318,26 @@ El registro será firmado por el funcionario a cargo de la investigación y, en 
 
 En todo caso, estos registros no podrán reemplazar las declaraciones de la policía en el juicio oral.
 
+#### Artículo 228 bis
+
+Para efectos de lo señalado en el artículo anterior, en las actuaciones que desempeñe la policía en el procedimiento penal podrán utilizar sistemas de registro y almacenamiento audiovisual, sea en lugares públicos o de libre acceso al público, o en las actuaciones establecidas en los artículos 129, 204, 205 y 206.
+
+Sin perjuicio de lo establecido en el inciso primero, los funcionarios de las unidades establecidas en un decreto supremo deberán utilizar sistemas de registro y almacenamiento audiovisual en las actuaciones descritas en el inciso anterior.
+
+Cada tres años, a propuesta de las policías, con aprobación del Ministerio del Interior y Seguridad Pública, el Presidente de la República, mediante decreto supremo, suscrito además por el Ministro de Hacienda, determinará las referidas unidades sobre las que recaiga esta obligación.
+
+Las imágenes y/o sonidos obtenidos deberán ser entregados al Ministerio Público. Aquellos obtenidos en lugares o situaciones distintas a las previstas en el inciso primero del presente artículo, o bien, si éstos no resultan útiles para las investigaciones, serán destruidos una vez transcurridos dos años desde su captura, previa orden de destrucción emanada del Ministerio Público y dirigida al jefe de la unidad policial respectiva.
+
+Los sistemas de registro y almacenamiento audiovisual deberán garantizar la integridad de los registros para su posterior tratamiento en la investigación.
+
+La ausencia de grabación no obstará, por esa sola circunstancia, la validez del procedimiento, ni implicará la exclusión de prueba dependiente de ella, de conformidad con el artículo 276.
+
+La falta de integridad de la grabación no implicará, por esa sola circunstancia, su exclusión como medio de prueba de conformidad con el artículo 276, ni de los otros medios de prueba dependientes de ella. A las imágenes o sonidos obtenidos a través de este artículo les serán aplicables lo prescrito en el artículo 182.
+
+Los funcionarios policiales que modifiquen, oculten, eliminen sin la orden previa del Ministerio Público según lo dispuesto en el inciso cuarto del presente artículo, o alteren de cualquier forma los sistemas de registro y almacenamiento audiovisual, serán sancionados, además de las penas que correspondan por los delitos cometidos, con la pena de suspensión del empleo en su grado máximo y multa de quince a veinte unidades tributarias mensuales.
+
+Un reglamento dictado por el Ministerio del Interior y Seguridad Pública, previo informe emitido por la policía, establecerá las reglas del uso de los sistemas de registro y almacenamiento audiovisual, la forma de almacenamiento y conservación de la información obtenida, el proceso de destrucción según lo prescrito en este artículo, los estándares de revisión, mantención y actualización permanente de los dispositivos, los deberes de capacitación asociados, y los mecanismos de control y evaluación del proceso y resultados.
+
 ### Párrafo 4° — bis
 
 De la cooperación eficaz con la investigación
@@ -2352,7 +2382,7 @@ b) La identificación de bienes, flujos de dinero y fuentes de financiación de 
 
 c) La identificación del lugar donde se encuentra la víctima de un delito de secuestro, de sustracción de menores, de trata de personas, o el cuerpo de una víctima de homicidio.
 
-La cooperación eficaz calificada podrá ser establecida solo en virtud de un acuerdo de cooperación. En estos casos el fiscal, previa autorización del Fiscal Regional, podrá acordar con el cooperador el sobreseimiento definitivo o la rebaja de hasta tres grados de la pena, según la entidad y relevancia de la información entregada, y si ésta cumple con los fines de uno o más de los literales del inciso anterior.
+La cooperación eficaz calificada podrá ser establecida solo en virtud de un acuerdo de cooperación. En estos casos el fiscal, previa autorización del Fiscal Regional o del Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, podrá acordar con el cooperador el sobreseimiento definitivo o la rebaja de hasta tres grados de la pena, según la entidad y relevancia de la información entregada, y si ésta cumple con los fines de uno o más de los literales del inciso anterior.
 
 La cooperación eficaz calificada procederá respecto de imputados en la misma investigación o, incluso, de imputados que se encuentren investigados por otros delitos. En este último caso, el colaborador tendrá la calidad de testigo. Si el autor estuvo involucrado en los hechos que colabora a esclarecer, su cooperación eficaz debe extenderse más allá de su propia contribución al delito.
 
@@ -2360,7 +2390,7 @@ El acuerdo de cooperación eficaz podrá incluir, además, el otorgamiento de un
 
 #### Artículo 228
 
-quinquies.- Cooperación eficaz calificada de un condenado. Si se tratare de investigaciones por los delitos señalados en el artículo 228 bis A, el fiscal, previa aprobación del Fiscal Regional, podrá acordar con el cooperador solicitar la revisión de la condena por parte del juez de garantía competente, y dispondrá una rebaja de la pena hasta en un tercio, o en uno o dos grados en casos de presidio perpetuo.
+quinquies.- Cooperación eficaz calificada de un condenado. Si se tratare de investigaciones por los delitos señalados en el artículo 228 bis A, el fiscal, previa aprobación del Fiscal Regional o del Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, podrá acordar con el cooperador solicitar la revisión de la condena por parte del juez de garantía competente, y dispondrá una rebaja de la pena hasta en un tercio, o en uno o dos grados en casos de presidio perpetuo.
 
 El cooperador deberá entregar información o datos precisos, comprobados y verídicos, que permitan satisfacer alguno de los fines de los literales indicados en el artículo anterior.
 
@@ -2374,7 +2404,7 @@ sexies.- Efectos del acuerdo de cooperación. El cooperador podrá exigir al jue
 
 En caso de que se verifique el incumplimiento de las medidas contempladas en las letras a), b) y c) del inciso primero del artículo 228 ter, o las previstas en los artículos 228 quáter y 228 quinquies, el tribunal las decretará por resolución fundada.
 
-En caso de que se verifique el incumplimiento de las medidas de la letra d) del inciso primero del artículo 228 ter, el tribunal otorgará el plazo de hasta diez días para que el fiscal cumpla con la obligación contraída. Transcurrido el plazo sin que el fiscal haya cumplido con la obligación, el tribunal decretará el sobreseimiento definitivo de la causa, e informará de ello al Fiscal Regional para que aplique las sanciones disciplinarias correspondientes.
+En caso de que se verifique el incumplimiento de las medidas de la letra d) del inciso primero del artículo 228 ter, el tribunal otorgará el plazo de hasta diez días para que el fiscal cumpla con la obligación contraída. Transcurrido el plazo sin que el fiscal haya cumplido con la obligación, el tribunal decretará el sobreseimiento definitivo de la causa, e informará de ello al Fiscal Regional o al Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, para que aplique las sanciones disciplinarias correspondientes.
 
 El juez denegará las solicitudes previstas en los incisos anteriores en caso de incumplimiento del cooperador.
 
@@ -2468,7 +2498,7 @@ La presencia del defensor del imputado en la audiencia en que se ventilare la so
 
 Si el querellante o la víctima asistieren a la audiencia en que se ventile la solicitud de suspensión condicional del procedimiento, deberán ser oídos por el tribunal.
 
-Tratándose de imputados por delitos de homicidio, secuestro, robo con violencia o intimidación en las personas o fuerza en las cosas, sustracción de menores, aborto; por los contemplados en los artículos 361 a 366 bis y 367 del Código Penal; por los delitos señalados en los artículos 8º, 9º, 10, 13, 14 y 14 D de la ley Nº17.798; por los delitos o cuasidelitos contemplados en otros cuerpos legales que se cometan empleando alguna de las armas o elementos mencionados en las letras a), b), c), d) y e) del artículo 2º y en el artículo 3º de la citada ley Nº17.798, y por conducción en estado de ebriedad causando la muerte o lesiones graves o gravísimas, el fiscal deberá someter su decisión de solicitar la suspensión condicional del procedimiento al Fiscal Regional.
+Tratándose de imputados por delitos de homicidio, secuestro, robo con violencia o intimidación en las personas o fuerza en las cosas, sustracción de menores, aborto; por los contemplados en los artículos 361 a 366 bis y 367 del Código Penal; por los delitos señalados en los artículos 8º, 9º, 10, 13, 14 y 14 D de la ley Nº17.798; por los delitos o cuasidelitos contemplados en otros cuerpos legales que se cometan empleando alguna de las armas o elementos mencionados en las letras a), b), c), d) y e) del artículo 2º y en el artículo 3º de la citada ley Nº17.798, y por conducción en estado de ebriedad causando la muerte o lesiones graves o gravísimas, el fiscal deberá someter su decisión de solicitar la suspensión condicional del procedimiento al Fiscal Regional o al Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda.
 
 Al decretar la suspensión condicional del procedimiento, el juez de garantía establecerá las condiciones a las que deberá someterse el imputado, por el plazo que determine, el que no podrá ser inferior a un año ni superior a tres. Durante dicho período no se reanudará el curso de la prescripción de la acción penal. Asimismo, durante el término por el que se prolongare la suspensión condicional del procedimiento se suspenderá el plazo previsto en el artículo 247.
 
@@ -2632,11 +2662,11 @@ Plazo para declarar el cierre de la investigación. Transcurrido el plazo de dos
 
 Si el fiscal no declarare cerrada la investigación en el plazo señalado, el imputado o el querellante podrán solicitar al juez que aperciba al fiscal para que proceda a tal cierre.
 
-Para estos efectos, el juez citará a los intervinientes a una audiencia y si el fiscal no compareciere, el juez otorgará un plazo máximo de dos días para que éste se pronuncie, dando cuenta de ello al fiscal regional. Transcurrido tal plazo sin que el fiscal se pronuncie o si, compareciendo, se negare a declarar cerrada la investigación, el juez decretará el sobreseimiento definitivo de la causa, informando de ello al fiscal regional a fin de que éste aplique las sanciones disciplinarias correspondientes. Esta resolución será apelable.
+Para estos efectos, el juez citará a los intervinientes a una audiencia y si el fiscal no compareciere, el juez otorgará un plazo máximo de dos días para que éste se pronuncie, dando cuenta de ello al fiscal regional o el Fiscal Jefe de la Fiscalía Supraterritorial, si corresponde. Transcurrido tal plazo sin que el fiscal se pronuncie o si, compareciendo, se negare a declarar cerrada la investigación, el juez decretará el sobreseimiento definitivo de la causa, informando de ello al fiscal regional o al Fiscal Jefe de la Fiscalía Supraterritorial, si corresponde, a fin de que éste aplique las sanciones disciplinarias correspondientes. Esta resolución será apelable.
 
 Si el fiscal se allanare a la solicitud de cierre de la investigación, deberá formular en la audiencia la declaración en tal sentido y tendrá el plazo de diez días para deducir acusación.
 
-Transcurrido este plazo sin que se hubiere deducido acusación, el juez fijará un plazo máximo de dos días para que el fiscal deduzca la acusación, dando cuenta de inmediato de ello al fiscal regional. Transcurrido dicho plazo, el juez, de oficio o a petición de cualquiera de los intervinientes, sin que se hubiere deducido la acusación, en audiencia citada al efecto dictará sobreseimiento definitivo. En este caso, informará de ello al fiscal regional a fin de que éste aplique las sanciones disciplinarias correspondientes.
+Transcurrido este plazo sin que se hubiere deducido acusación, el juez fijará un plazo máximo de dos días para que el fiscal deduzca la acusación, dando cuenta de inmediato de ello al fiscal regional o al Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda. Transcurrido dicho plazo, el juez, de oficio o a petición de cualquiera de los intervinientes, sin que se hubiere deducido la acusación, en audiencia citada al efecto dictará sobreseimiento definitivo. En este caso, informará de ello al fiscal regional o al Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, a fin de que aquél o éste aplique las sanciones disciplinarias correspondientes.
 
 El plazo de dos años previsto en este artículo se suspenderá en los casos siguientes:
 
@@ -2760,11 +2790,11 @@ Vencido el plazo o su ampliación, o aun antes de ello si se hubieren cumplido l
 
 #### Artículo 258
 
-Forzamiento de la acusación. Si el querellante particular se opusiere a la solicitud de sobreseimiento formulada por el fiscal, el juez dispondrá que los antecedentes sean remitidos al fiscal regional, a objeto que éste revise la decisión del fiscal a cargo de la causa.
+Forzamiento de la acusación. Si el querellante particular se opusiere a la solicitud de sobreseimiento formulada por el fiscal, el juez dispondrá que los antecedentes sean remitidos al fiscal regional o al Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, a objeto que éste revise la decisión del fiscal a cargo de la causa.
 
-Si el fiscal regional, dentro de los tres días siguientes, decidiere que el ministerio público formulará acusación, dispondrá simultáneamente si el caso habrá de continuar a cargo del fiscal que hasta el momento lo hubiere conducido, o si designará uno distinto. En dicho evento, la acusación del ministerio público deberá ser formulada dentro de los diez días siguientes, de conformidad a las reglas generales.
+Si el fiscal regional o el Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, dentro de los tres días siguientes, decidiere que el ministerio público formulará acusación, dispondrá simultáneamente si el caso habrá de continuar a cargo del fiscal que hasta el momento lo hubiere conducido, o si designará uno distinto. En dicho evento, la acusación del ministerio público deberá ser formulada dentro de los diez días siguientes, de conformidad a las reglas generales.
 
-Por el contrario, si el fiscal regional, dentro del plazo de tres días de recibidos los antecedentes, ratificare la decisión del fiscal a cargo del caso, el juez podrá disponer que la acusación correspondiente sea formulada por el querellante, quien la habrá de sostener en lo sucesivo en los mismos términos que este Código lo establece para el ministerio público, o bien procederá a decretar el sobreseimiento correspondiente.
+Por el contrario, si el fiscal regional o el Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, dentro del plazo de tres días de recibidos los antecedentes, ratificare la decisión del fiscal a cargo del caso, el juez podrá disponer que la acusación correspondiente sea formulada por el querellante, quien la habrá de sostener en lo sucesivo en los mismos términos que este Código lo establece para el ministerio público, o bien procederá a decretar el sobreseimiento correspondiente.
 
 En caso de que el fiscal hubiere comunicado la decisión a que se refiere la letra c) del artículo 248, el querellante podrá solicitar al juez que lo faculte para ejercer los derechos a que se refiere el inciso anterior.
 
@@ -2872,7 +2902,7 @@ Comparecencia del fiscal y del defensor. La presencia del fiscal y del defensor 
 
 Si en la audiencia se ventilare la aprobación de convenciones probatorias, procedimiento abreviado, suspensión condicional del procedimiento o un acuerdo reparatorio, o cualquier otra actuación en que la ley exigiere expresamente la participación del imputado, su presencia constituirá un requisito de validez de aquella.
 
-La inasistencia o el abandono injustificado de la audiencia por parte del fiscal deberá ser subsanada de inmediato por el tribunal, el que, además, pondrá este hecho en conocimiento del fiscal regional respectivo para que determine la responsabilidad del fiscal ausente, de conformidad a lo que disponga la ley orgánica constitucional del Ministerio Público. Si no compareciere el defensor, el tribunal declarará el abandono de la defensa, designará un defensor de oficio al imputado y dispondrá la suspensión de la audiencia por un plazo que no excediere de cinco días, a objeto de permitir que el defensor designado se interiorice del caso.
+La inasistencia o el abandono injustificado de la audiencia por parte del fiscal deberá ser subsanada de inmediato por el tribunal, el que, además, pondrá este hecho en conocimiento del fiscal regional respectivo o del Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda para que determine la responsabilidad del fiscal ausente, de conformidad a lo que disponga la ley orgánica constitucional del Ministerio Público. Si no compareciere el defensor, el tribunal declarará el abandono de la defensa, designará un defensor de oficio al imputado y dispondrá la suspensión de la audiencia por un plazo que no excediere de cinco días, a objeto de permitir que el defensor designado se interiorice del caso.
 
 Inciso Suprimido.
 
@@ -2880,7 +2910,7 @@ Inciso Suprimido.
 
 Corrección de vicios formales en la audiencia de preparación del juicio oral. Cuando el juez considerare que la acusación del fiscal, la del querellante o la demanda civil adolecen de vicios formales, ordenará que los mismos sean subsanados, sin suspender la audiencia, si ello fuere posible.
 
-En caso contrario, ordenará la suspensión de la misma por el período necesario para la corrección del procedimiento, el que en ningún caso podrá exceder de cinco días. Transcurrido este plazo, si la acusación del querellante o la demanda civil no hubieren sido rectificadas, se tendrán por no presentadas. Si no lo hubiere sido la acusación del fiscal, a petición de éste, el juez podrá conceder una prórroga hasta por otros cinco días, sin perjuicio de lo cual informará al fiscal regional.
+En caso contrario, ordenará la suspensión de la misma por el período necesario para la corrección del procedimiento, el que en ningún caso podrá exceder de cinco días. Transcurrido este plazo, si la acusación del querellante o la demanda civil no hubieren sido rectificadas, se tendrán por no presentadas. Si no lo hubiere sido la acusación del fiscal, a petición de éste, el juez podrá conceder una prórroga hasta por otros cinco días, sin perjuicio de lo cual informará al fiscal regional o al Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda.
 
 Si el ministerio público no subsanare oportunamente los vicios, el juez procederá a decretar el sobreseimiento definitivo de la causa, a menos que existiere querellante particular, que hubiere deducido acusación o se hubiere adherido a la del fiscal. En este caso, el procedimiento continuará sólo con el querellante y el ministerio público no podrá volver a intervenir en el mismo.
 
@@ -4158,7 +4188,7 @@ Es competente para conocer del procedimiento relativo al comiso sin condena el t
 
 Inicio del procedimiento. Habiéndose incautado bienes o habiéndolos asegurado conforme al artículo 157, el Ministerio Público o el querellante solicitará mediante requerimiento escrito presentado ante el tribunal que se cite a audiencia especial para hacer efectivo el comiso. La solicitud deberá ser presentada en un plazo no superior a diez días contado desde que quede ejecutoriada la última resolución que recaiga sobre la respectiva investigación o juicio, poniéndole término temporal o definitivo.
 
-Transcurrido este plazo sin que se haya deducido el requerimiento, el tribunal abrirá un plazo máximo de cinco días para que el fiscal deduzca el requerimiento o comunique fundadamente su decisión de no hacerlo, y dará cuenta de inmediato de ello al Fiscal Regional. De no deducirse requerimiento dentro de este plazo, de oficio el tribunal dejará sin efecto la incautación y las medidas cautelares que se hayan dispuesto.
+Transcurrido este plazo sin que se haya deducido el requerimiento, el tribunal abrirá un plazo máximo de cinco días para que el fiscal deduzca el requerimiento o comunique fundadamente su decisión de no hacerlo, y dará cuenta de inmediato de ello al Fiscal Regional o al Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda. De no deducirse requerimiento dentro de este plazo, de oficio el tribunal dejará sin efecto la incautación y las medidas cautelares que se hayan dispuesto.
 
 #### Artículo 415 quáter
 

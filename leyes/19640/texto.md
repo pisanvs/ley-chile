@@ -22,9 +22,7 @@ Sin perjuicio de lo dispuesto en el inciso primero, el Ministerio Público tambi
 
 El Fiscal Nacional, en el ejercicio de sus atribuciones, regulará la forma en que se delegará esta facultad.
 
-A los abogados asistentes de fiscal les será aplicable lo dispuesto en los artículos 9º, 9º bis y 9º ter, las inhabilidades establecidas en el Título IV, y las normas sobre responsabilidad aplicables a los fiscales.
-
-En todo caso se deberá considerar un número de fiscales para efectos de lo establecido en el artículo 29 bis de la ley Nº 20.084.
+A los abogados asistentes de fiscal les será aplicable lo dispuesto en el artículo 9º bis, las inhabilidades establecidas en el Título IV, y las normas sobre responsabilidad aplicables a los fiscales.
 
 #### Artículo 3º
 
@@ -64,7 +62,7 @@ La función pública se ejercerá con transparencia, de manera que permita y pro
 
 El Ministerio Público adoptará las medidas administrativas tendientes a asegurar el adecuado acceso a los fiscales por parte de cualquier interesado, con pleno respeto a sus derechos y dignidad personal.
 
-Son públicos los actos administrativos del Ministerio Público y los documentos que les sirvan de sustento o complemento directo y esencial. Con todo, se podrá denegar la entrega de documentos o antecedentes requeridos en virtud de las siguientes causales: la reserva o secreto establecidos en disposiciones legales o reglamentarias; cuando la publicidad impida o entorpezca el debido cumplimiento de las funciones del organismo; la oposición deducida por terceros a quienes se refiera o afecte la información contenida en los documentos requeridos; el que la divulgación o entrega de los documentos o antecedentes requeridos afecte sensiblemente los derechos o intereses de terceras personas, según calificación fundada efectuada por el respectivo Fiscal Regional o, en su caso, el Fiscal Nacional, y el que la publicidad afecte la seguridad de la Nación o el interés nacional. El costo del material empleado para entregar la información será siempre de cargo del requirente, salvo las excepciones legales.
+Son públicos los actos administrativos del Ministerio Público y los documentos que les sirvan de sustento o complemento directo y esencial. Con todo, se podrá denegar la entrega de documentos o antecedentes requeridos en virtud de las siguientes causales: la reserva o secreto establecidos en disposiciones legales; cuando la publicidad impida o entorpezca el debido cumplimiento de las funciones del organismo; la oposición deducida por terceros a quienes se refiera o afecte la información contenida en los documentos requeridos; el que la divulgación o entrega de los documentos o antecedentes requeridos afecte sensiblemente los derechos o intereses de terceras personas, según calificación fundada efectuada por el respectivo Fiscal Regional, el Fiscal Jefe de la Fiscalía Supraterritorial o, en su caso, el Fiscal Nacional, y el que la publicidad afecte la seguridad de la Nación o el interés nacional. El costo del material empleado para entregar la información será siempre de cargo del requirente, salvo las excepciones legales.
 
 La publicidad, divulgación e información de los actos relativos a o relacionados con la investigación, el ejercicio de la acción penal pública y la protección de víctimas y testigos, se regirán por la ley procesal penal.
 
@@ -72,9 +70,9 @@ La publicidad, divulgación e información de los actos relativos a o relacionad
 
 Derogado
 
-#### Artículo 9º bis
+#### Artículo 9 bis
 
-Asimismo, el Fiscal Nacional, los Fiscales Regionales y los fiscales adjuntos, antes de asumir sus cargos, deberán efectuar una declaración jurada en la cual acrediten que no tienen dependencia de sustancias o drogas estupefacientes o sicotrópicas ilegales o, si la tuvieren, que su consumo está justificado por un tratamiento médico.
+El Fiscal Nacional, los Fiscales Regionales, el Fiscal Jefe de la Fiscalía Supraterritorial, los fiscales adjuntos, los abogados asistentes de Fiscal, los abogados asesores y los restantes funcionarios del Ministerio Público, antes de asumir sus cargos, deberán acreditar que no son consumidores de sustancias o drogas estupefacientes o sicotrópicas ilegales o, si lo son, que su consumo está justificado por un tratamiento médico.
 
 #### Artículo 9º ter
 
@@ -98,9 +96,11 @@ De los órganos del Ministerio Público
 
 #### Artículo 12
 
-El Ministerio Público se organizará en una Fiscalía Nacional y en Fiscalías Regionales.
+El Ministerio Público se organizará en una Fiscalía Nacional, en Fiscalías Regionales y en una Fiscalía Supraterritorial.
 
 Las Fiscalías Regionales organizarán su trabajo a través de fiscalías locales.
+
+Por su parte, la Fiscalía Supraterritorial organizará su trabajo según lo dispuesto en el artículo 37 ter.
 
 Existirá, además, un Consejo General, que actuará como órgano asesor y de colaboración del Fiscal Nacional.
 
@@ -158,29 +158,45 @@ Corresponderá al Fiscal Nacional:
 
 a) Fijar, oyendo previamente al Consejo General, los criterios de actuación del Ministerio Público para el cumplimiento de los objetivos establecidos en la Constitución y en las leyes. Tratándose de los delitos que generan mayor conmoción social, dichos criterios deberán referirse, especialmente, a la aplicación de las salidas alternativas y a las instrucciones generales relativas a las diligencias inmediatas para la investigación de los mismos, pudiendo establecerse orientaciones diferenciadas para su persecución en las diversas Regiones del país, atendiendo a la naturaleza de los distintos delitos.
 
-El Fiscal Nacional dictará las instrucciones generales que estime necesarias para el adecuado cumplimiento de las tareas de dirección de la investigación de los hechos punibles, ejercicio de la acción penal y protección de las víctimas y testigos. No podrá dar instrucciones u ordenar realizar u omitir la realización de actuaciones en casos particulares, con la sola excepción de lo establecido en el artículo 18;
+El Fiscal Nacional dictará las instrucciones generales que estime necesarias para fijar la unidad de acción de los órganos de la institución, en especial, para la consistencia y eficacia en la persecución penal y el adecuado cumplimiento de las tareas de dirección de la investigación de los hechos punibles, ejercicio de la acción penal y protección de las víctimas y testigos. Las instrucciones que dicte el Fiscal Nacional no podrán ordenar realizar u omitir la realización de actuaciones en casos particulares, con la sola excepción de lo establecido en el artículo 18. Asimismo, el Fiscal Nacional estará facultado para dictar instrucciones particulares al Fiscal Jefe de la Fiscalía Supraterritorial, en las investigaciones de delitos de crimen organizado o de alta complejidad que estén a su cargo.
+
+Sin embargo, en las investigaciones en que pueda existir una afectación a la unidad de acción así consideradas por las Unidades Especializadas o la Unidad de Supervisión, cuando corresponda, el Fiscal Nacional podrá ordenar al Fiscal Regional correspondiente que adopte las medidas que sean necesarias con el fin de garantizar el adecuado cumplimiento de la instrucción general. Asimismo, cuando tal afectación comprometa gravemente la unidad de acción, el Fiscal Nacional podrá impartir al Fiscal Regional correspondiente, medidas específicas sobre las diligencias investigativas y las actuaciones procesales que considere pertinentes.
+
+En el caso que se ordenen medidas relativas a actuaciones procesales impostergables, el Fiscal Regional deberá darles cumplimiento, podrá representarlas al Fiscal Nacional conforme a lo que dispone el artículo 35 y, en lo no previsto en esta última disposición, se aplicará el procedimiento establecido en el artículo 44;
 
 b) Fijar, oyendo al Consejo General, los criterios que se aplicarán en materia de recursos humanos, de remuneraciones, de inversiones, de gastos de los fondos respectivos, de planificación del desarrollo y de administración y finanzas;
 
-c) Crear, previo informe del Consejo General, unidades especializadas para colaborar con los fiscales a cargo de la investigación de determinados delitos;
+c) Crear, previo informe del Consejo General, unidades especializadas para colaborar con los fiscales a cargo de la investigación de determinados delitos. Con todo, el Fiscal Nacional podrá determinar mediante una instrucción general los casos en que la opinión o aprobación de la Unidad Especializada respectiva, expresada fundadamente en un informe técnico, será requisito para la realización de una diligencia investigativa o una solicitud de una actuación judicial.
 
-d) Dictar los reglamentos que correspondan en virtud de la superintendencia directiva, correccional y económica que le confiere la Constitución Política. En ejercicio de esta facultad, determinará la forma
+El incumplimiento de lo indicado en el párrafo precedente será entendido como incumplimiento grave de la instrucción general;
 
-de funcionamiento de las fiscalías y demás unidades del Ministerio Público y el ejercicio de la potestad disciplinaria correspondiente;
+d) Disponer, con los recursos existentes, la creación de unidades de organización del trabajo, con el fin de coordinar la conformación de turnos de instrucción, las investigaciones por delitos flagrantes, la tramitación de recursos procesales o la conformación de equipos de funcionamiento integrado en análisis criminal para el crimen organizado y delitos de alta complejidad, entre otros aspectos que requieran el trabajo mancomunado entre Fiscalías Regionales;
 
-e) Nombrar y solicitar la remoción de los fiscales regionales, de acuerdo con la Constitución y con esta ley orgánica constitucional;
+e) Dictar los reglamentos que correspondan en virtud de la superintendencia directiva, correccional y económica que le confiere la Constitución Política. En ejercicio de esta facultad, determinará la forma de funcionamiento de las fiscalías y demás unidades del Ministerio Público y el ejercicio de la potestad disciplinaria correspondiente;
 
-f) Resolver las dificultades que se susciten entre fiscales regionales acerca de la dirección de la investigación, el ejercicio de la acción penal pública o la protección de las víctimas o testigos.
+f) Nombrar y solicitar la remoción de los fiscales regionales, de acuerdo con la Constitución y con esta ley orgánica constitucional;
 
-En ejercicio de esta facultad, determinará la Fiscalía Regional que realizará tales actividades o dispondrá las medidas de coordinación que fueren necesarias;
+g) Designar y remover al Fiscal Jefe de la Fiscalía Supraterritorial, de acuerdo con la Constitución y con esta ley orgánica constitucional;
 
-g) Controlar el funcionamiento administrativo de las Fiscalías Regionales;
+h) Resolver las dificultades que se susciten entre fiscales regionales, o entre éstos y el Fiscal Jefe de la Fiscalía Supraterritorial, acerca de la dirección de la investigación, el ejercicio de la acción penal pública o la protección de las víctimas o testigos.
 
-h) Administrar, en conformidad a la ley, los recursos que sean asignados al Ministerio Público;
+En ejercicio de esta facultad, determinará la Fiscalía Regional que realizará tales actividades o, en su caso, si todas o algunas de ellas deben ser ejecutadas por la Fiscalía Supraterritorial. Además, podrá disponer las medidas de coordinación que fueren necesarias.
 
-i) Solicitar, en comisión de servicio, a funcionarios de cualquier órgano de la Administración del Estado, para que participen en las actividades propias del Ministerio Público. Dichas comisiones tendrán el plazo de duración que se indique en el respectivo decreto o resolución que las disponga, y
+i) Controlar el funcionamiento administrativo de las Fiscalías Regionales y de la Fiscalía Supraterritorial;
 
-j) Ejercer las demás atribuciones que ésta u otra ley orgánica constitucional le confieran.
+j) Disponer que la Fiscalía Supraterritorial, en casos de crimen organizado o delitos de alta complejidad, asuma la dirección de la investigación, el ejercicio de la acción penal pública y la protección de las víctimas o testigos, cuando se trate de ilícitos en los cuales existan antecedentes de la intervención de asociaciones delictivas o criminales y los hechos requieran una dirección supraterritorial o transnacional de la investigación.
+
+k) Administrar, en conformidad a la ley, los recursos que sean asignados al Ministerio Público;
+
+l) Solicitar, en comisión de servicio, a funcionarios de cualquier órgano de la Administración del Estado, para que participen en las actividades propias del Ministerio Público. Dichas comisiones tendrán el plazo de duración que se indique en el respectivo decreto o resolución que las disponga;
+
+m) Conducir las relaciones internacionales de la Fiscalía. Para ello podrá establecer las medidas que considere necesarias especialmente para llevar a cabo las acciones de cooperación internacional, incluida la facultad de subscribir acuerdos para conformar grupos de trabajo o equipos conjuntos de investigación;
+
+n) Distribuir anualmente, mediante resolución fundada, las dotaciones de fiscales adjuntos y profesionales de cada Fiscalía Regional y de la Fiscalía Supraterritorial, de acuerdo con las necesidades de la operación;
+
+o) Resolver, previo consentimiento de los fiscales adjuntos interesados u otros funcionarios que cumplan las mismas funciones en distintas fiscalías, la permuta de sus cargos, y
+
+p) Ejercer las demás atribuciones que ésta u otra ley orgánica constitucional le confieran.
 
 #### Artículo 17 bis
 
@@ -199,6 +215,8 @@ El Fiscal Nacional podrá disponer, de oficio y de manera excepcional, que un Fi
 Se entenderá, especialmente, que resulta necesaria dicha designación, tratándose de investigaciones por delitos de lesa humanidad y genocidio.
 
 En los mismos términos, podrá disponer que un Fiscal Regional distinto de aquél en cuyo territorio se hubieren perpetrado los hechos tome a su cargo las tareas aludidas en el inciso primero cuando la necesidad de operar en varias regiones así lo exigiere.
+
+Lo dispuesto en los incisos precedentes se entenderá sin perjuicio de las atribuciones de la Fiscalía Supraterritorial.
 
 #### Artículo 20
 
@@ -262,7 +280,7 @@ Existirá, asimismo, una unidad especializada para asesorar en la dirección de 
 
 #### Artículo 23
 
-El Fiscal Nacional será subrogado por el Fiscal Regional que determine mediante resolución, pudiendo establecer entre varios el orden de subrogación que estime conveniente. A falta de designación, será subrogado por el Fiscal Regional más antiguo.
+El Fiscal Nacional será subrogado por el Fiscal Jefe de la Fiscalía Supraterritorial o por un Fiscal Regional, según lo determine en la resolución que dicte al efecto y podrá establecer entre varios el orden de subrogación que estime conveniente. A falta de designación, será subrogado por el fiscal de mayor antig¼edad en el cargo entre los Fiscales Regionales y el Fiscal Jefe de la Fiscalía Supraterritorial.
 
 Procederá la subrogación por el solo ministerio de la ley cuando, por cualquier motivo, el Fiscal Nacional se encuentre impedido de desempeñar su cargo.
 
@@ -272,7 +290,7 @@ Consejo General
 
 #### Artículo 24
 
-El Consejo General estará integrado por el Fiscal Nacional, quien lo presidirá, y por los fiscales regionales.
+El Consejo General estará integrado por el Fiscal Nacional, quien lo presidirá, por los fiscales regionales y el Fiscal Jefe de la Fiscalía Supraterritorial.
 
 #### Artículo 25
 
@@ -336,7 +354,7 @@ De las Fiscalías Regionales
 
 A los fiscales regionales corresponde el ejercicio de las funciones y atribuciones del Ministerio Público en la región o en la extensión geográfica de la región que corresponda a la fiscalía regional a su cargo, por sí o por medio de los fiscales adjuntos que se encuentren bajo su dependencia.
 
-Tratándose de delitos cometidos en el extranjero que fueren de competencia de los tribunales chilenos, las facultades del Ministerio Público serán ejercidas por el fiscal adjunto de la Región Metropolitana que sea designado por el Fiscal Regional Metropolitano con competencia sobre la comuna de Santiago, sin perjuicio de las potestades que son propias del Fiscal Nacional conforme a esta ley orgánica constitucional.
+Tratándose de delitos cometidos en el extranjero que fueren de competencia de los tribunales chilenos, las facultades del Ministerio Público serán ejercidas por la Fiscalía Regional Metropolitana con competencia sobre la comuna de Santiago o la Fiscalía Supraterritorial, según lo determine el Fiscal Nacional, sin perjuicio de las potestades que son propias del Fiscal Nacional conforme a esta ley orgánica constitucional.
 
 #### Artículo 28
 
@@ -400,9 +418,15 @@ e) Comunicar al Fiscal Nacional las necesidades presupuestarias de la Fiscalía 
 
 f) Proponer al Fiscal Nacional la ubicación de las fiscalías locales y la distribución en cada una de ellas de los fiscales adjuntos y los funcionarios;
 
-g) Disponer las medidas que faciliten y aseguren el acceso expedito a la Fiscalía Regional y a las fiscalías locales, así como la debida atención de las víctimas y demás intervinientes, y
+g) Proponer al Fiscal Nacional el traspaso de una investigación que se encuentre a su cargo al Fiscal Jefe de la Fiscalía Supraterritorial, cuando estime que por su naturaleza corresponde a éste su dirección. Mientras no se haya resuelto el traspaso de la investigación, ésta continuará radicada y será responsabilidad de quien la tenga a su cargo;
 
-h) Ejercer las demás atribuciones que ésta u otra ley orgánica constitucional le confieran.
+h) Informar al Fiscal Nacional de los hechos que puedan ser constitutivos de delitos cuya investigación corresponda a la Fiscalía Supraterritorial, de conformidad con lo establecido en el artículo 37 bis, dentro del plazo de veinticuatro horas contado desde que tuvo noticia de ellos;
+
+i) Disponer y facilitar la entrega de la información que requiera el Fiscal Jefe de la Fiscalía Supraterritorial en el marco de las investigaciones que se encuentren a su cargo;
+
+j) Disponer las medidas que faciliten y aseguren el acceso expedito a la Fiscalía Regional y a las fiscalías locales, así como la debida atención de las víctimas y demás intervinientes, y
+
+k) Ejercer las demás atribuciones que ésta u otra ley orgánica constitucional le confieran.
 
 #### Artículo 33
 
@@ -454,25 +478,149 @@ Procederá la subrogación por el solo ministerio de la ley, cuando por cualquie
 
 ### Párrafo 4º — BIS
 
-DEL SISTEMA DE ANÁLISIS CRIMINAL Y FOCOS INVESTIGATIVOS
+DE LA FISCALÍA SUPRATERRITORIAL
 
 #### Artículo 37 bis
 
-Créase el Sistema de Análisis Criminal y Focos Investigativos, en adelante "el Sistema", para el fortalecimiento de la persecución penal, mediante la incorporación de estrategias de análisis e investigación sobre mercados delictuales u otras estructuras de criminalidad reconocibles.
+La Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, desempeñará sus funciones respecto a ilícitos en los cuales existan antecedentes de la intervención de asociaciones delictivas o criminales, y cuando los hechos requieran una dirección supraterritorial o transnacional de la investigación.
 
-El Sistema estará compuesto por unidades de análisis criminal y unidades de focos investigativos.
+Estará a cargo de un Fiscal Jefe, al que corresponderá ejercer las funciones propias del Ministerio Público, por sí o por medio de los fiscales adjuntos que se encuentren bajo su dependencia.
 
-Las unidades de análisis criminal, que formen parte del Sistema, tendrán las siguientes funciones:
+Tendrá a su cargo las investigaciones penales de hechos respecto de los cuales concurran las circunstancias descritas en el inciso primero, sea que se hayan iniciado directamente por la Fiscalía Supraterritorial o por alguna Fiscalía Regional. Las contiendas de competencia que se susciten entre las Fiscalías Regionales y la Fiscalía Supraterritorial serán resueltas por el Fiscal Nacional, de conformidad con lo dispuesto en el artículo 17 letra h).
 
-a) Generar información mediante el análisis estratégico de los datos agregados provenientes de delitos contra la propiedad y, en general, de aquellos de mayor connotación social, calificados por el Fiscal Nacional, ya sea que su investigación se encuentre vigente o terminada.
+El Fiscal Nacional podrá establecer, mediante instrucción general, los criterios específicos para la determinación de las investigaciones que tendrá a su cargo la Fiscalía Supraterritorial, para lo cual deberá oír previamente al Consejo General del Ministerio Público, y considerar los siguientes lineamientos generales:
 
-b) Efectuar reportes de la información analizada sobre criminalidad regional, identificación de patrones comunes en ciertos tipos de delitos, reconocimiento de imputados y cualquier otro que se requiera en relación con un tipo de criminalidad específica.
+a) Existencia de antecedentes que permitan presumir la intervención en los hechos investigados de asociaciones delictivas o criminales que tengan presencia en dos o más regiones del país, y que por su naturaleza o complejidad hagan necesario una dirección supraterritorial de la investigación.
 
-c) Formular orientaciones y diseñar procedimientos estándares de gestión eficiente de la información que permitan el logro de los resultados propuestos por el Ministerio Público.
+b) Investigaciones relacionadas con ilícitos cometidos fuera del territorio nacional, en los que existan antecedentes de la intervención de asociaciones delictivas o criminales, cuando corresponda conocer a los tribunales nacionales según lo dispuesto en el artículo 6º del Código Orgánico de Tribunales y que por su naturaleza o complejidad hagan necesaria una dirección supraterritorial o transnacional de la investigación.
 
-Los informes y reportes elaborados por las unidades de análisis criminal en ejercicio de las funciones señaladas en el inciso anterior podrán ser declarados reservados para los efectos de lo dispuesto en el artículo 21 de la ley Nº20.285.
+c) Investigaciones de ilícitos cometidos dentro del territorio nacional, cuando existan antecedentes de la intervención de asociaciones delictivas o criminales transnacionales sin presencia en dos o más regiones del país, pero que por su naturaleza o complejidad hagan necesario una dirección supraterritorial o transnacional de la investigación.
 
-Las unidades de focos investigativos del Sistema dependerán de cada Fiscalía Regional, debiendo coordinarse operativamente con las fiscalías locales de la respectiva región, y estarán compuestas por fiscales adjuntos, quienes ejercerán la acción penal, adoptarán medidas de protección a víctimas y testigos, y dirigirán la investigación en aquellos delitos que hayan sido objeto de estudio de las unidades de análisis criminal del Sistema.
+#### Artículo 37 ter
+
+El Fiscal Nacional determinará, en un reglamento que dictará al efecto y en base a los recursos disponibles, las unidades de organización en las que se estructurará el trabajo de la Fiscalía Supraterritorial. Con esta finalidad podrá considerar criterios funcionales, tales como las características comunes de los territorios; el tipo de delitos o fenómenos criminales a investigar, y criterios operativos, tales como la cantidad de personal u otros recursos necesarios para el desarrollo de las investigaciones. Las unidades de que se trate deberán contar con mecanismos de coordinación que permitan la entrega eficiente y efectiva de información con las Fiscalías Regionales para el correcto desarrollo de sus funciones.
+
+#### Artículo 37 quater
+
+La Fiscalía Supraterritorial contará con fiscales adjuntos, profesionales y personal de apoyo, y con los medios materiales que determine el Fiscal Nacional, a propuesta del Fiscal Jefe de la Fiscalía Supraterritorial.
+
+El Fiscal Jefe de la Fiscalía Supraterritorial y los fiscales adjuntos mencionados en el inciso anterior podrán desempeñar sus funciones en todo el territorio de la República, tratándose de investigaciones y procesos penales respecto de los ilícitos mencionados en el artículo 37 bis.
+
+Un reglamento dictado por el Fiscal Nacional regulará las condiciones de experiencia o especialización y las reglas especiales en materia de evaluación de desempeño tanto de los fiscales adjuntos de la Fiscalía Supraterritorial, como de los profesionales, técnicos y administrativos que trabajen en ella.
+
+Dicho reglamento regulará, además, el plazo de permanencia de los fiscales adjuntos, el que no podrá exceder de cinco años, renovables por una sola vez de conformidad con lo dispuesto en aquel, y, en tal caso, se deberán proveer las correspondientes suplencias en su fiscalía de origen en tanto ejerzan esa labor. Para la renovación el Fiscal Nacional deberá considerar, especialmente, criterios de probidad, disciplina y rendimiento en la persecución penal.
+
+Una vez transcurrido el plazo de permanencia o de renovación, en su caso, los fiscales adjuntos no podrán volver a formar parte de la Fiscalía Supraterritorial, sino después de transcurridos cinco años.
+
+Al término del período de permanencia de los fiscales adjuntos, el Fiscal Nacional dispondrá su regreso a su Fiscalía Regional de origen, si ello fuere posible o, en caso contrario, a otra Fiscalía Regional, según las necesidades institucionales de dotación. El fiscal adjunto mantendrá las asignaciones y el grado que tenía previo a su ingreso a la Fiscalía Supraterritorial, o el grado al que haya ascendido durante dicho período con arreglo a las normas generales de ascenso de la institución. Si no cuenta con un grado de origen, podrá ser asignado a un cargo de fiscal adjunto vacante.
+
+#### Artículo 37
+
+quinquies.- La Fiscalía Supraterritorial tendrá su asiento en la ciudad de Santiago.
+
+#### Artículo 37
+
+sexies.- El Fiscal Jefe de la Fiscalía Supraterritorial será designado por el Fiscal Nacional, será de su exclusiva confianza y se mantendrá en su cargo mientras cuente con ella, sin perjuicio de lo dispuesto en el inciso primero del artículo 84 y en el inciso tercero del artículo 89 de la Constitución Política de la República.
+
+El fiscal adjunto titular que hubiere sido designado Fiscal Jefe de la Fiscalía Supraterritorial, una vez cesado en su cargo por pérdida de confianza, podrá volver a asumir su cargo de origen, siempre y cuando no sea en la Fiscalía Supraterritorial. En este caso, el Fiscal Nacional podrá disponer su designación en alguna Fiscalía Regional, según las necesidades del servicio y las circunstancias del caso.
+
+#### Artículo 37
+
+septies.- Para ser designado Fiscal Jefe de la Fiscalía Supraterritorial se requiere:
+
+a) Ser ciudadano con derecho a sufragio.
+
+b) Tener a lo menos por diez años el título de abogado.
+
+c) Haber cumplido treinta y cinco años de edad.
+
+d) Contar con estudios de especialización en asuntos penales.
+
+e) Contar con experiencia relevante en litigación en asuntos penales relacionados con crimen organizado o alta complejidad. Se entenderá por experiencia relevante en litigación el haberse dedicado durante al menos cinco años a la preparación y tramitación de juicios, teniendo en ello una responsabilidad principal.
+
+f) No encontrarse sujeto a alguna de las incapacidades e incompatibilidades previstas en esta ley.
+
+#### Artículo 37
+
+octies.- Corresponderá al Fiscal Jefe de la Fiscalía Supraterritorial:
+
+a) Dictar, conforme a las instrucciones generales del Fiscal Nacional, las normas e instrucciones necesarias para el funcionamiento de la Fiscalía Supraterritorial y el adecuado desempeño de los fiscales adjuntos en los casos en que debieren intervenir.
+
+b) Disponer la distribución de los fiscales adjuntos, profesionales y personal de apoyo adscritos a la Fiscalía Supraterritorial, conforme a las necesidades de investigación y de acuerdo con los lineamientos dictados por el Fiscal Nacional.
+
+c) Supervisar y controlar el funcionamiento administrativo de la Fiscalía Supraterritorial, velar por el eficaz desempeño del personal a su cargo y por la adecuada administración del presupuesto, y comunicar al Fiscal Nacional las necesidades presupuestarias de la Fiscalía Supraterritorial.
+
+d) Iniciar de oficio la investigación de causas en las materias correspondientes a las atribuciones de la Fiscalía Supraterritorial.
+
+e) Disponer medidas para brindar soporte y apoyo a la actividad de investigación de una o más Fiscalías Regionales en relación con hechos que puedan ser constitutivos de delitos correspondientes a las atribuciones de la Fiscalía Supraterritorial, o cuando el volumen de información, datos, documentos o informes de carácter técnico haga necesaria la coordinación interregional del Sistema de Análisis Criminal para Crimen Organizado y Delitos de Alta Complejidad.
+
+f) Requerir información de investigaciones a las Fiscalías Regionales cuando estime que ello resulta necesario para el desarrollo de las investigaciones que se encuentren a su cargo.
+
+g) Ejercer, en lo que sea pertinente, las funciones, atribuciones, prerrogativas y responsabilidades asignadas a los Fiscales Regionales conforme a lo dispuesto en el artículo 32.
+
+h) Disponer las medidas que faciliten y aseguren la debida atención y protección de víctimas y testigos.
+
+i) Ejercer las demás atribuciones que ésta u otra ley le confieran.
+
+#### Artículo 37
+
+nonies.- El Fiscal Jefe de la Fiscalía Supraterritorial deberá conocer y resolver, en los casos previstos por la ley procesal penal, las reclamaciones que cualquier interviniente en un procedimiento formule en contra de un fiscal adjunto que se desempeñe en la Fiscalía Supraterritorial.
+
+Las reclamaciones a que se refiere el inciso anterior deberán ser presentadas por escrito al Fiscal Jefe de la Fiscalía Supraterritorial, quien las resolverá, también por escrito, dentro de los cinco días hábiles siguientes a su recepción.
+
+#### Artículo 37
+
+decies.- El Fiscal Jefe de la Fiscalía Supraterritorial, junto con dar cumplimiento a las instrucciones generales impartidas por el Fiscal Nacional, estará igualmente obligado a obedecer las instrucciones particulares que éste le dé en las investigaciones de delitos que se encuentren a su cargo, a menos que estime que tales instrucciones son manifiestamente arbitrarias o que atentan contra la ley o la ética profesional. De concurrir alguna de estas circunstancias, podrá representar las instrucciones.
+
+Si la instrucción objetada incide en actuaciones procesales que no se puedan dilatar, el Fiscal Jefe Supraterritorial deberá realizarlas de acuerdo con la instrucción mientras la objeción no sea resuelta.
+
+Si el Fiscal Nacional acoge la objeción, deberá modificar la instrucción. En caso contrario, el Fiscal Nacional asumirá la plena responsabilidad, y el Fiscal Jefe Supraterritorial deberá dar cumplimiento a lo resuelto sin más trámite.
+
+#### Artículo 37
+
+undecies.- El Fiscal Jefe de la Fiscalía Supraterritorial rendirá cuenta anualmente, en enero de cada año, en audiencia pública, de las actividades desarrolladas por la Fiscalía Supraterritorial, e incluirá estadísticas básicas que los reflejen, el uso de los recursos otorgados y las dificultades enfrentadas en el ejercicio de sus funciones.
+
+Sin perjuicio de lo anterior, el Fiscal Nacional informará, en la audiencia anual del mes de mayo de cada año, a las Comisiones de Constitución, Legislación, Justicia y Reglamento de ambas ramas del Congreso Nacional, respecto de los antecedentes generales sobre funcionamiento de la Fiscalía Supraterritorial y, también, de los fenómenos y desafíos en materia de crimen organizado que surgen del funcionamiento de ella.
+
+#### Artículo 37
+
+duodecies.- El Fiscal Jefe de la Fiscalía Supraterritorial será subrogado por el fiscal adjunto que el Fiscal Nacional determine mediante resolución, y podrá establecer entre varios el orden de subrogación que estime conveniente. A falta de designación, lo subrogará el fiscal adjunto más antiguo de la Fiscalía Supraterritorial.
+
+Procederá la subrogación por el solo ministerio de la ley cuando, por cualquier motivo, el Fiscal Jefe de la Fiscalía Supraterritorial se encuentre impedido de desempeñar su cargo.
+
+#### Artículo 37 ter
+
+decies.- La remoción por pérdida de confianza del Fiscal Jefe de la Fiscalía Supraterritorial se hará efectiva por medio de la petición de renuncia que formule el Fiscal Nacional.
+
+Si dicha renuncia no se presenta dentro de las cuarenta y ocho horas siguientes contadas desde el requerimiento, se declarará vacante el cargo.
+
+Con todo, si el Fiscal Nacional, con ocasión de la pérdida de su confianza, resuelve remover al Fiscal Jefe de la Fiscalía Supraterritorial, deberá hacerlo mediante resolución fundada.
+
+El Fiscal Nacional deberá informar al Consejo General del Ministerio Público de la resolución por la cual se remueve al Fiscal Jefe de la Fiscalía Supraterritorial.
+
+### Párrafo 4º — TER
+
+DEL SISTEMA DE ANÁLISIS CRIMINAL PARA CRIMEN ORGANIZADO Y DELITOS DE ALTA COMPLEJIDAD
+
+#### Artículo 37 quater
+
+decies.- Créase el Sistema de Análisis Criminal para Crimen Organizado y Delitos de Alta Complejidad, en adelante, e indistintamente, el "Sistema", para el fortalecimiento de la persecución penal, mediante la incorporación de estrategias de análisis e investigación sobre mercados delictuales u otras estructuras de criminalidad reconocibles.
+
+El Sistema ejercerá sus funciones respecto de los delitos que determine el Fiscal Nacional, mediante resolución. Tendrá las siguientes funciones:
+
+a) la generación de información a partir del análisis de datos agregados de causas vigentes o terminadas y otras fuentes de información.
+
+b) la elaboración de reportes de la información analizada.
+
+c) la formulación de orientaciones y procedimientos estándares de gestión eficiente de la información que permitan el logro de los resultados establecidos.
+
+Los informes y reportes elaborados por el Sistema, en ejercicio de las funciones señaladas en el inciso anterior, podrán ser declarados reservados para los efectos de lo dispuesto en el artículo 21 de la ley Nº 20.285, Sobre acceso a la información pública.
+
+El Sistema dependerá de cada Fiscalía Regional y estará a cargo de un fiscal adjunto al que se asignará el desempeño de labores de jefatura, y resultará aplicable lo dispuesto en el inciso final del artículo 38. Asimismo, deberá coordinarse operativamente con las fiscalías locales de la respectiva región, y estará compuesto por fiscales adjuntos y profesionales que se desempeñen como analistas. Los fiscales adjuntos deberán ejercer la acción penal, adoptar medidas de protección a víctimas y testigos, y dirigir la investigación en aquellos delitos de competencia del Sistema, de acuerdo con las instrucciones generales del Fiscal Nacional.
+
+La designación, destinación y los posteriores cambios de los fiscales adjuntos que formen parte del Sistema serán de competencia de los Fiscales Regionales, previa aprobación del Fiscal Nacional.
+
+Un reglamento dictado por el Fiscal Nacional establecerá la forma de funcionamiento del Sistema y la coordinación que deberá existir entre los sistemas regionales y la Fiscalía Supraterritorial.
 
 ### Párrafo 5º
 
@@ -510,9 +658,9 @@ Sin perjuicio de su pertenencia a una fiscalía local, en el ejercicio de las ta
 
 #### Artículo 41
 
-Los fiscales adjuntos serán designados por el Fiscal Nacional, a propuesta en terna del Fiscal Regional respectivo, la que deberá formarse previo concurso público. Los concursos se regirán por las reglas generales y bases que al efecto dicte el Fiscal Nacional e incluirán exámenes escritos, orales y una evaluación de los antecedentes académicos y laborales de los postulantes.
+Los fiscales adjuntos serán designados por el Fiscal Nacional, a propuesta en terna del Fiscal Regional respectivo o del Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, la que deberá formarse previo concurso público. Los concursos se regirán por las reglas generales y bases que al efecto dicte el Fiscal Nacional e incluirán exámenes escritos, orales y una evaluación de los antecedentes académicos y laborales de los postulantes.
 
-Las bases que se dicten para el concurso público serán incorporadas en el llamado al mismo, el que será convocado por el Fiscal Regional respectivo mediante avisos que deberán publicarse en el Diario Oficial, al menos dos veces en un diario de circulación nacional y dos en uno de circulación regional, en días distintos.
+Las bases que se dicten para el concurso público referido en el inciso anterior serán incorporadas en su llamado, el que será convocado por el Fiscal Regional respectivo o el Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda. Dicho llamado se efectuará mediante avisos que deberán publicarse en el Diario Oficial, al menos dos veces en un diario de circulación nacional y, en el caso de las Fiscalías Regionales, además, dos veces en uno de circulación regional de la región correspondiente, en días distintos. En ambos casos, el llamado también será publicado en el sitio web institucional del Ministerio Público.
 
 #### Artículo 42
 
@@ -552,6 +700,10 @@ La objeción deberá ser presentada por escrito al Fiscal Regional dentro de las
 
 Tratándose de instrucciones relativas a actuaciones procesales impostergables, el fiscal adjunto deberá darles cumplimiento sin perjuicio de la objeción que pudiera formular de acuerdo a lo previsto en los incisos precedentes.
 
+#### Artículo 44 bis
+
+A los fiscales adjuntos de la Fiscalía Supraterritorial les serán aplicables todas las funciones, atribuciones, prerrogativas y responsabilidades señaladas en este Título, y las demás contenidas en esta ley orgánica o que otras leyes les confieran, en lo que sea pertinente y adecuadas a la especial estructura de dicha unidad.
+
 T I T U L O III
 
 Responsabilidades de los fiscales del Ministerio Público
@@ -564,11 +716,11 @@ Los fiscales del Ministerio Público tendrán responsabilidad civil, disciplinar
 
 Presentada una denuncia en contra de un fiscal del Ministerio Público por su presunta responsabilidad en un hecho punible, o tan pronto aparezcan antecedentes que lo señalen como partícipe en un delito, corresponderá dirigir las actuaciones del procedimiento destinado a perseguir la responsabilidad penal:
 
-a) Del Fiscal Nacional, al Fiscal Regional que se designe mediante sorteo, en sesión del Consejo General, la que será especialmente convocada y presidida por el Fiscal Regional más antiguo;
+a) Del Fiscal Nacional o del Fiscal Jefe de la Fiscalía Supraterritorial, al Fiscal Regional que se designe mediante sorteo, en sesión del Consejo General, la que será especialmente convocada y presidida por el Fiscal Regional más antiguo;
 
 b) De un Fiscal Regional, al Fiscal Regional que designe el Fiscal Nacional, oyendo previamente al Consejo General, y
 
-c) De un fiscal adjunto, al Fiscal Regional que designe el Fiscal Nacional.
+c) De un fiscal adjunto, al Fiscal Jefe de la Fiscalía Supraterritorial o al Fiscal Regional que designe el Fiscal Nacional.
 
 Tratándose de delitos cometidos por un fiscal en el ejercicio de sus funciones, el fiscal a cargo de la investigación deducirá, si procediere, la respectiva querella de capítulos, conforme a las disposiciones de la ley procesal penal.
 
@@ -608,21 +760,29 @@ La remoción, en el caso de un fiscal adjunto, procederá cuando incurra en algu
 
 3) Ausencia injustificada a sus labores, o sin aviso previo, si ello significare un retardo o perjuicio grave para las tareas encomendadas.
 
-4) Incumplimiento grave de sus obligaciones, deberes o prohibiciones.
+4) Incumplimiento grave de sus obligaciones, deberes o prohibiciones. Se entenderán comprendidos dentro de esta circunstancia, entre otros, los siguientes hechos:
+
+a) La no observancia reiterada de las instrucciones generales que haya dictado el Fiscal Nacional, el Fiscal Regional respectivo o el Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, para la debida tramitación de causas.
+
+b) El no seguimiento reiterado de las instrucciones particulares que le hubiere impartido el respectivo Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda.
+
+c) La infracción grave y reiterada del deber de objetividad o del deber de adoptar medidas necesarias para brindar protección a las víctimas de delitos.
 
 Sin embargo, no se aplicará la medida de remoción respecto del fiscal adjunto que incurra en la prohibición a que se refiere el artículo 9º bis, siempre que admita ese hecho ante su superior jerárquico y se someta a un programa de tratamiento y rehabilitación en alguna de las instituciones que autorice el reglamento. Si concluye ese programa satisfactoriamente, deberá aprobar un control de consumo toxicológico y clínico que se le aplicará, con los mecanismos de resguardo a que alude el inciso segundo del artículo 66. El incumplimiento de esta norma hará procedente la remoción, sin perjuicio de la aplicación de las reglas sobre salud irrecuperable o incompatible con el desempeño del cargo, si procedieren.
 
 #### Artículo 51
 
-Cuando un fiscal adjunto aparezca involucrado en hechos susceptibles de ser sancionados disciplinariamente, el Fiscal Regional designará como investigador a uno de los fiscales del Ministerio Público. Si la gravedad de los hechos lo aconsejare, en la misma resolución podrá suspender de sus funciones al fiscal inculpado, como medida preventiva.
+Cuando un fiscal adjunto aparezca involucrado en hechos susceptibles de ser sancionados disciplinariamente, el Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, en su caso, designará como investigador a uno de los fiscales del Ministerio Público. Si la gravedad de los hechos lo aconsejare, en la misma resolución podrá suspender de sus funciones al fiscal inculpado, como medida preventiva.
+
+Excepcionalmente, cuando la gravedad de los hechos o la complejidad de la investigación iniciada con ocasión de ellos, lo haga necesario, el Fiscal Nacional podrá disponer, de oficio o a petición del Fiscal Regional correspondiente, que aquella sea continuada por un funcionario de la División de Probidad e Integridad y Auditoría Interna.
 
 Si el procedimiento se hubiere originado en una denuncia, se invitará a declarar a quien la hubiere formulado, o se le citará, si se desempeñare en el Ministerio Público, y se incorporarán a la causa los antecedentes que acompañare.
 
-El procedimiento será fundamentalmente oral y de lo actuado se levantará un acta general que firmarán los que hubieren declarado, sin perjuicio de agregar los documentos probatorios que correspondan, no pudiendo exceder la investigación el plazo de cinco días. Tan pronto se cerrare la investigación o, en todo caso, al término del señalado plazo, se formularán cargos, si procediere, debiendo el inculpado responderlos dentro de dos días, a contar de la fecha de notificación de éstos. Si el inculpado ofreciere rendir prueba, el investigador señalará un plazo al efecto, el que no podrá exceder de tres días.
+El procedimiento será fundamentalmente oral y de lo actuado se levantará un acta general que firmarán los que hubieren declarado, sin perjuicio de agregar los documentos probatorios que correspondan, no pudiendo exceder la investigación el plazo de quince días. Tan pronto se cerrare la investigación o, en todo caso, al término del señalado plazo, se formularán cargos, si procediere, debiendo el inculpado responderlos dentro de cinco días, a contar de la fecha de notificación de éstos. Si el inculpado ofreciere rendir prueba, el investigador señalará un plazo al efecto, el que no podrá exceder de diez días.
 
-Vencido el plazo para los descargos o, en su caso, el término probatorio, el investigador procederá, dentro de los dos días siguientes, a emitir un informe que contendrá la relación de los hechos, los fundamentos y conclusiones a que hubiere llegado y formulará al Fiscal Regional la proposición que estimare procedente. Conocido el informe, el Fiscal Regional dictará dentro de los dos días siguientes la resolución que correspondiere, la cual será notificada al inculpado.
+Vencido el plazo para los descargos o, en su caso, el término probatorio, el investigador procederá, dentro de los dos días siguientes, a emitir un informe que contendrá la relación de los hechos, los fundamentos y conclusiones a que hubiere llegado y formulará al Fiscal Regional o al Fiscal Jefe de la Fiscalía Supraterritorial, cuando corresponda, la proposición que estimare procedente. Conocido el informe, el Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, en su caso, dictará dentro de los dos días siguientes la resolución que correspondiere, la cual será notificada al inculpado.
 
-El inculpado podrá apelar de la resolución, para ante el Fiscal Nacional. El plazo para resolver el recurso de apelación será de dos días, contados desde la recepción de los antecedentes en la Fiscalía Nacional.
+El inculpado podrá apelar de la resolución, para ante el Fiscal Nacional. El plazo para resolver el recurso de apelación será de cinco días, contados desde la recepción de los antecedentes en la Fiscalía Nacional.
 
 La resolución definitiva que se pronunciare en el procedimiento será informada al denunciante, si lo hubiere.
 
@@ -630,11 +790,13 @@ Los plazos de días contemplados en este artículo serán de días hábiles.
 
 #### Artículo 52
 
-Si el inculpado de alguna infracción a sus deberes fuere un Fiscal Regional, corresponderá al Fiscal Nacional aplicar el procedimiento establecido en el artículo anterior, nombrando como investigador a otro Fiscal Regional o al Jefe de la División de Probidad e Integridad y Auditoría Interna, con excepción de lo dispuesto en el inciso sexto.
+Si el inculpado de alguna infracción a sus deberes fuere un Fiscal Regional o el Fiscal Jefe de la Fiscalía Supraterritorial, corresponderá al Fiscal Nacional aplicar el procedimiento establecido en el artículo anterior, nombrando como investigador a otro Fiscal Regional o al Jefe de la División de Probidad e Integridad y Auditoría Interna, con excepción de lo dispuesto en el inciso sexto.
 
 #### Artículo 53
 
 El Fiscal Nacional y los Fiscales Regionales sólo podrán ser removidos por la Corte Suprema, a requerimiento del Presidente de la República, de la Cámara de Diputados o de diez de sus miembros, por incapacidad, mal comportamiento o negligencia manifiesta en el ejercicio de sus funciones.
+
+Al Fiscal Jefe de la Fiscalía Supraterritorial le será aplicable lo dispuesto en el inciso anterior, además de la remoción por parte del Fiscal Nacional.
 
 La solicitud de remoción señalará con claridad y precisión los hechos que configuraren la causal invocada y a ella se acompañarán o se ofrecerán, si fuera el caso, los medios de prueba en que se fundare. Si la solicitud de remoción no cumpliere estos requisitos, el pleno, convocado al efecto, la declarará inadmisible en cuenta, sin más trámite.
 
@@ -642,7 +804,7 @@ Admitida a tramitación la solicitud, el Presidente de la Corte Suprema dará tr
 
 Evacuado el traslado o transcurrido el plazo previsto en el inciso precedente, el Presidente de la Corte citará a una audiencia en que se recibirá la prueba que se hubiere ofrecido y designará el Ministro ante el cual deberá rendirse; efectuadas las diligencias o vencidos los plazos sin que se hubieren evacuado, ordenará traer los autos en relación ante el pleno de la Corte Suprema, especialmente convocado al efecto. La Corte Suprema sólo podrá decretar medidas para mejor resolver una vez terminada la vista de la causa. Para acordar la remoción, deberá reunirse el voto conforme de cuatro séptimos de sus miembros en ejercicio. Cualquiera de las partes podrá comparecer ante la Corte Suprema hasta antes de la vista de la causa.
 
-La remoción de los Fiscales Regionales también podrá ser solicitada por el Fiscal Nacional.
+La remoción de los Fiscales Regionales podrá solicitarla el Fiscal Nacional, además de las causales señaladas en el inciso primero, por el incumplimiento, de manera grave y reiterada, de las instrucciones generales que aquel haya dictado para la debida tramitación de las causas.
 
 T I T U L O IV
 
@@ -712,13 +874,13 @@ La información de oficio sobre la concurrencia de una causal de inhabilitación
 
 #### Artículo 59
 
-Las inhabilitaciones que afecten a un fiscal adjunto serán resueltas por el Fiscal Regional respectivo. Las que afecten a un Fiscal Regional serán resueltas por el Fiscal Nacional y las que afecten a este último por tres Fiscales integrantes del Consejo General, excluido el Fiscal Nacional, designados por sorteo de conformidad al reglamento.
+Las inhabilitaciones que afecten a un fiscal adjunto serán resueltas por el Fiscal Regional respectivo o por el Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda. Las que afecten a un Fiscal Regional o al Fiscal Jefe de la Fiscalía Supraterritorial serán resueltas por el Fiscal Nacional y las que afecten a este último por tres Fiscales integrantes del Consejo General, excluidos el Fiscal Nacional y el Fiscal Jefe de la Fiscalía Supraterritorial, designados por sorteo de conformidad al reglamento.
 
 Si se rechaza la concurrencia de la causal, el fiscal continuará con la investigación del caso.
 
 Si se acoge la causal de inhabilitación invocada, se deberá asignar el caso a otro fiscal para que inicie o continúe la tramitación del asunto en que recae.
 
-La resolución que acoja o rechace la causal de inhabilitación invocada no será susceptible de reclamación alguna.
+La resolución que acoja o rechace la causal de inhabilitación invocada no será susceptible de reclamación alguna, salvo la inhabilitación que afecte a un fiscal adjunto, la que podrá ser objeto de reclamación ante el Fiscal Nacional.
 
 T I T U L O V
 
@@ -730,9 +892,9 @@ No podrán ser fiscales quienes tengan alguna incapacidad o incompatibilidad que
 
 #### Artículo 61
 
-El Fiscal Nacional y los Fiscales Regionales no podrán ser cónyuge o conviviente civil del Presidente de la República, ni estar vinculados con él por parentesco de consanguinidad o afinidad en línea recta ni colateral hasta el cuarto grado de consanguinidad o afinidad, o por adopción.
+El Fiscal Nacional, los Fiscales Regionales y el Fiscal Jefe de la Fiscalía Supraterritorial no podrán ser cónyuge o conviviente civil del Presidente de la República, ni estar vinculados con él por parentesco de consanguinidad o afinidad en línea recta ni colateral hasta el cuarto grado de consanguinidad o afinidad, o por adopción.
 
-Tampoco podrán desempeñarse como fiscales en la Fiscalía Nacional, o dentro de una misma Fiscalía Regional, o en cualquier cargo dentro de una misma fiscalía, los cónyuges o convivientes civiles y las personas que tengan entre sí los vínculos mencionados en el inciso anterior.
+Tampoco podrán desempeñarse como fiscales en la Fiscalía Nacional, o dentro de una misma Fiscalía Regional o en la Fiscalía Supraterritorial, o en cualquier cargo dentro de una misma fiscalía, los cónyuges o convivientes civiles y las personas que tengan entre sí los vínculos mencionados en el inciso anterior.
 
 #### Artículo 62
 
@@ -766,7 +928,7 @@ Los fiscales deberán abstenerse de emitir opiniones y dar a conocer antecedente
 
 #### Artículo 65
 
-Las incapacidades, incompatibilidades y prohibiciones de que trata este Título les serán aplicables al Fiscal Nacional y a los Fiscales Regionales de acuerdo al procedimiento establecido en la Constitución Política de la República.
+Las incapacidades, incompatibilidades y prohibiciones de que trata este Título les serán aplicables al Fiscal Nacional, y al Fiscal Jefe de la Fiscalía Supraterritorial, a los Fiscales Regionales de acuerdo al procedimiento establecido en la Constitución Política de la República.
 
 Regirán, también, para los funcionarios del Ministerio Público, pero no se aplicará a los administrativos y auxiliares lo dispuesto en el artículo 62.
 
@@ -844,7 +1006,7 @@ Los fiscales adjuntos y funcionarios tendrán derecho a solicitar al Fiscal Naci
 
 No se aplicarán al Ministerio Público las disposiciones legales que rigen la acción de la Contraloría General de la República, salvo en aquellas materias en que la presente ley requiere expresamente de la intervención del órgano contralor.
 
-El nombramiento del Fiscal Nacional y el de los Fiscales Regionales estará sujeto a los trámites de toma de razón y registro por la Contraloría General de la República. Lo mismo se aplicará a los demás decretos o resoluciones que los afecten, salvo que el Contralor General los eximiere de la toma de razón.
+El nombramiento del Fiscal Nacional, el de los Fiscales Regionales y el del Fiscal Jefe de la Fiscalía Supraterritorial estará sujeto a los trámites de toma de razón y registro por la Contraloría General de la República. Lo mismo se aplicará a los demás decretos o resoluciones que los afecten, salvo que el Contralor General los eximiere de la toma de razón.
 
 El nombramiento de los fiscales adjuntos y la contratación de los funcionarios, así como las demás resoluciones que los afecten, se enviarán a la Contraloría General de la República para su registro.
 
@@ -918,7 +1080,9 @@ El Fiscal Nacional tendrá una remuneración equivalente a la del Presidente de 
 
 #### Artículo 74
 
-Los Fiscales Regionales tendrán una remuneración equivalente a la del Presidente de la Corte de Apelaciones de la región en que se desempeñen, incluidas todas las asignaciones que correspondan a dicho cargo.
+Los Fiscales Regionales y el Fiscal Jefe de la Fiscalía Supraterritorial tendrán una remuneración equivalente a la del Presidente de la Corte de Apelaciones de la región en que se desempeñen, incluidas todas las asignaciones que correspondan a dicho cargo.
+
+Para efectos de lo dispuesto en el inciso precedente, en el caso del Fiscal Jefe de la Fiscalía Supraterritorial se entenderá que se desempeña en el territorio jurisdiccional correspondiente a la Corte de Apelaciones de Santiago.
 
 #### Artículo 75
 
@@ -1066,7 +1230,7 @@ Los criterios de evaluación deberán considerar, a lo menos, el cumplimiento de
 
 #### Artículo 79
 
-Anualmente, los Fiscales Regionales serán evaluados por el Fiscal Nacional; los fiscales adjuntos por el Fiscal Regional respectivo, y los funcionarios por el superior jerárquico correspondiente.
+Anualmente, los Fiscales Regionales y el Fiscal Jefe de la Fiscalía Supraterritorial serán evaluados por el Fiscal Nacional; los fiscales adjuntos por el Fiscal Regional respectivo o por el Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, y los funcionarios por el superior jerárquico correspondiente.
 
 #### Artículo 80
 
@@ -1100,7 +1264,7 @@ i) Abandono del trabajo, entendiéndose por tal la salida intempestiva o injusti
 
 j) Incumplimiento grave de las obligaciones, deberes y prohibiciones que impone esta ley o deriven de la función para la cual ha sido contratado, y
 
-k) Necesidades de la Fiscalía Nacional, o Regional en su caso, que determinará el Fiscal Nacional una vez al año, previo informe del Consejo General, tales como las derivadas de la dotación anual que se fije para el personal, de la racionalización o modernización y del cambio de naturaleza de las funciones que haga necesaria la separación de uno o más funcionarios.
+k) Necesidades de la Fiscalía Nacional, Regional o de la Fiscalía Supraterritorial, en su caso, que determinará el Fiscal Nacional una vez al año, previo informe del Consejo General, tales como las derivadas de la dotación anual que se fije para el personal, de la racionalización o modernización y del cambio de naturaleza de las funciones que haga necesaria la separación de uno o más funcionarios.
 
 En los casos de cargos de exclusiva confianza, la terminación del contrato de trabajo se hará efectiva por medio de la petición de renuncia que formulará el Fiscal Nacional o el Fiscal Regional, según corresponda. Si la renuncia no fuere presentada dentro de las cuarenta y ocho horas de requerida, se declarará vacante el cargo.
 
@@ -1130,7 +1294,7 @@ Queda prohibido a las personas que laboren en el Ministerio Público negociar co
 
 #### Artículo 85
 
-El Fiscal Nacional y los fiscales regionales podrán determinar la contratación de servicios externos para el desempeño de funciones que no sean de las señaladas por la Constitución Política de la República.
+El Fiscal Nacional, los fiscales regionales y el Fiscal Jefe de la Fiscalía Supraterritorial podrán determinar la contratación de servicios externos para el desempeño de funciones que no sean de las señaladas por la Constitución Política de la República.
 
 De igual forma, podrán contratar, sobre la base de honorarios, a profesionales y técnicos de nivel superior o expertos en determinadas materias.
 
@@ -1166,7 +1330,7 @@ Formación, perfeccionamiento y capacitación
 
 #### Artículo 87
 
-El Fiscal Nacional, por propia iniciativa o a proposición de los Fiscales Regionales, aprobará los programas destinados a la capacitación y perfeccionamiento de los fiscales y funcionarios del Ministerio Público, velando porque todos puedan acceder equitativamente a ellos.
+El Fiscal Nacional, por propia iniciativa o a proposición de los Fiscales Regionales, del Fiscal Jefe de la Fiscalía Supraterritorial o de la Unidad de Formación, Perfeccionamiento y Capacitación, según corresponda, aprobará los programas destinados a la formación, perfeccionamiento y capacitación de los fiscales y funcionarios del Ministerio Público, velando porque todos puedan acceder equitativamente a ellos.
 
 El Ministerio Público ejecutará la capacitación a través de convenios con terceros, seleccionados mediante licitación, a la que podrán postular personas naturales o jurídicas públicas o privadas, nacionales o internacionales. Sin perjuicio de lo anterior, podrá también autorizarse a los fiscales o funcionarios a concurrir a cursos que impartan terceros y se ajusten a los programas de capacitación.
 

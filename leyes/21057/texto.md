@@ -102,7 +102,7 @@ Suspensión de la entrevista investigativa videograbada. Si surge algún motivo 
 
 De la realización de otras entrevistas investigativas videograbadas. Sólo cuando aparezcan hechos o antecedentes que no hayan sido materia de la entrevista investigativa videograbada, que modifiquen lo expuesto en ella y puedan afectar sustancialmente el curso de la investigación, el fiscal, de oficio o a solicitud de cualquiera de los intervinientes, podrá disponer la realización de una segunda entrevista investigativa videograbada, la que, en todo caso, se sujetará a las disposiciones de esta ley. Se dejará constancia en la carpeta investigativa de la decisión del fiscal y de los hechos y antecedentes que se tuvieron en cuenta para adoptarla.
 
-No obstante lo señalado en el inciso anterior, la decisión del fiscal de disponer la realización de una segunda entrevista investigativa videograbada deberá someterse a la aprobación del Fiscal Regional.
+No obstante lo señalado en el inciso anterior, la decisión del fiscal de disponer la realización de una segunda entrevista investigativa videograbada deberá someterse a la aprobación del Fiscal Regional o del Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda.
 
 Si el niño, niña o adolescente manifestare espontáneamente su voluntad de realizar nuevas declaraciones, el fiscal tomará todas las providencias y medidas necesarias para la realización de una nueva entrevista investigativa videograbada conforme a las disposiciones de esta ley y, bajo ningún respecto, se deberá entorpecer su participación voluntaria en el proceso ni el ejercicio de sus derechos.
 
