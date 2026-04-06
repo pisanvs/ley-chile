@@ -14,23 +14,25 @@ Resuelvo:
 
 2. El envío deberá venir amparado por un Certificado Fitosanitario del Plant Protection and Inspection Services (PPIS) de Israel, en el que consten las siguientes declaraciones adicionales:
 
-2.1 El material procede de un programa de producción
+2.1 El material procede de un programa de
 
-bajo certificación oficial o de Viveros o
+producción bajo certificación oficial
 
-Centros Repositorios de germoplasma, que se
+o de Viveros o Centros Repositorios
 
-encuentren bajo el control del organismo
+de germoplasma, que se encuentren bajo
 
-fitosanitario oficial del país exportador.
+el control del organismo fitosanitario
+
+oficial del país exportador.
 
 2.2 Además, se deben indicar en el Certificado
 
 Fitosanitario las siguientes declaraciones
 
-adicionales, específicas para cada especie y
+adicionales, específicas para cada especie
 
-tipo de material de propagación que a
+y tipo de material de propagación que a
 
 continuación se señalan:
 
@@ -46,21 +48,23 @@ continuación se señalan:
 
 cerrados, resistentes a la manipulación,
 
-factibles de sellar y etiquetados o rotulados de
+factibles de sellar y etiquetados o
 
-acuerdo a normativa vigente.
+rotulados de acuerdo a normativa vigente.
 
-. Los materiales de acondicionamiento destinados a
+. Los materiales de acondicionamiento
 
-amortiguar o conservar la humedad deben
+destinados a amortiguar o conservar la
 
-corresponder a materiales inertes tales como
+humedad deben corresponder a materiales
 
-turba, musgo esfangíneo, vermiculita, perlita o
+inertes tales como turba, musgo
 
-geles higroscópicos, de acuerdo a normativa
+esfangíneo, vermiculita, perlita o
 
-vigente.
+geles higroscópicos, de acuerdo a
+
+normativa vigente.
 
 5. Cada partida será inspeccionada por el Servicio en el puerto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos. Si durante la inspección se detectan plagas distintas a las mencionadas en esta resolución, se evaluará mediante un Análisis de Riesgo de Plagas (ARP), si las mismas cumplen con el criterio de Plaga Reglamentada, aplicándose las medidas fitosanitarias de manejo del riesgo, acordes con el riesgo identificado.
 
@@ -72,6 +76,10 @@ vigente.
 
 8. Para los Materiales Modificados Genéticamente por Biotecnología Moderna, el importador deberá declarar su condición genética y cumplir con las normativas del Servicio Agrícola y Ganadero, que establecen los requisitos para la internación e introducción al medio ambiente de estos materiales.
 
+9. El ingreso del material vegetal al país y trámite de importación solo podrá realizarse en la Oficina SAG de Comercio Exterior situada en el Aeropuerto Internacional Arturo Merino Benítez, de la ciudad de Santiago, Región Metropolitana.
+
 > **Nota.** El numeral N° 9 de la Resolución 7501 Exenta, Agricultura, publicada el 17.11.2020, modifica los requisitos fitosanitarios de importación para plantas, estacas y ramillas de Citrus spp. (cítricos), Prunus armeniaca (damasco), Prunus persica (duraznero) y Prunus persica var. nucipersica (nectarino), procedentes de Israel, para las especies que indica: Para "Citrus spp. (Cítricos)", reemplazar la segunda viñeta por la frase: "Las plantas, estacas o ramillas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico para cada caso) en el momento óptimo, y encontradas libres de Citrus tatter leaf virus y Spiroplasma citri". Para "Prunus armeniaca (Damasco)", eliminar la frase: "Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico para cada caso) en el momento óptimo, y encontradas libres de Apple stem grooving virus".
+
+> **Nota.** NOTA 1 Los numerales 1.1 y 1.2 de la Resolución 2186 Exenta, Agricultura, publicada el 06.04.2026, modifican el resuelvo 2.2 de la presente norma en los siguientes sentidos: en primer término, se reemplaza para "Citrus spp. (Cítricos)", segunda viñeta, por la frase "Las plantas, estacas o ramillas derivan de plantas madres que fueron inspeccionadas y analizadas especificar técnica de diagnóstico para cada caso) en el momento óptimo y encontrada libre de Spiroplasma citri"; y en segundo lugar, se elimina para "Citrus spp. (Cítricos)", tercera viñeta, la plaga Brevipalpus lewisi (Ac.: Tenuipalpidae), respectivamente.
 
 Anótese, comuníquese y publíquese.- Aníbal Ariztía Reyes, Director Nacional.
