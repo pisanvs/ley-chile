@@ -14,23 +14,35 @@ Establécense los siguientes requisitos fitosanitarios de importación para esta
 
 1. El envío deberá venir amparado por un Certificado Fitosanitario de la autoridad fitosanitaria del estado miembro de la Comunidad Europea correspondiente, en el que consten las siguientes declaraciones adicionales:
 
-1.1. El material de reproducción ha sido producido bajo
+1.1. El material de reproducción
 
-un sistema de producción de viveros con la
+ha sido producido bajo
 
-supervisión o acreditación o reconocimiento de la
+un sistema de producción
 
-ONPF del Estado Miembro de la Comunidad Europea.
+de viveros con la
 
-1.2. Además, se deben indicar en el Certificado
+supervisión o acreditación o
 
-Fitosanitario las siguientes declaraciones
+reconocimiento de la ONPF del
 
-adicionales, específicas para cada especie y tipo
+Estado Miembro de la Comunidad
 
-de material de reproducción que a continuación se
+Europea.
 
-señalan:
+1.2. Además, se deben indicar en
+
+el Certificado Fitosanitario las
+
+siguientes declaraciones
+
+adicionales, específicas
+
+para cada especie y tipo
+
+de material de reproducción que a
+
+continuación se señalan:
 
 2. El material debe haber sido sometido a un tratamiento de desinfectación por inmersión contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, tipo de aplicación y dosis utilizadas.
 
@@ -40,27 +52,43 @@ señalan:
 
 . Libre de hojas, flores y raíces.
 
-. Las estacas y ramillas de Populus spp. deben tener
+. Las estacas y ramillas de
 
-un diámetro menor o igual a 2 cm.
+Populus spp. deben tener
 
-. Embalados en envases nuevos de primer uso,
+un diámetro menor o igual a
 
-cerrados, resistentes a la manipulación, factibles
+2 cm.
 
-de sellar y etiquetados o rotulados de acuerdo a
+. Embalados en envases nuevos de
+
+primer uso, cerrados, resistentes
+
+a la manipulación, factibles
+
+de sellar y etiquetados o
+
+rotulados de acuerdo a
 
 normativa vigente.
 
-. Los materiales de acondicionamiento destinados a
+. Los materiales de
 
-amortiguar o conservar la humedad deben
+acondicionamiento destinados
 
-corresponder a materiales tales como turba, musgo
+a amortiguar o conservar
 
-esfangíneo, vermiculita, perlita o geles
+la humedad deben
 
-higroscópicos, de acuerdo a normativa vigente.
+corresponder a materiales
+
+tales como turba, musgo
+
+esfangíneo, vermiculita,
+
+perlita o geles higroscópicos,
+
+de acuerdo a normativa vigente.
 
 4. Cada partida será inspeccionada por el Servicio en el puerto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos. Ante la detección de plagas cuarentenarias listadas en la resolución Nº 3.080, de 2003, y sus modificaciones, o no listadas que sean caracterizadas como plagas Cuarentenarias de acuerdo a un Análisis de Riesgo de Plagas (ARP), se evaluará la aplicación de medidas fitosanitarias de manejo del riesgo, acordes con el riesgo identificado.
 
@@ -71,5 +99,7 @@ higroscópicos, de acuerdo a normativa vigente.
 "El envío procede de (nombre del Centro), el cual ha sido Oficialmente reconocido hasta (fecha de vigencia) por Resolución Nº (número de Resolución de reconocimiento del Centro), de fecha (fecha)".
 
 7. Para los Materiales Modificados Genéticamente por Biotecnología Moderna, el importador deberá declarar su condición genética y cumplir con las normativas del Servicio Agrícola y Ganadero, que establecen los requisitos para la internación e introducción al medio ambiente de estos materiales.
+
+8. El ingreso del material vegetal al país y trámite de importación solo podrá realizarse en la Oficina SAG de Comercio Exterior situada en el Aeropuerto Internacional Arturo Merino Benítez, de la ciudad de Santiago, Región Metropolitana.
 
 Anótese, comuníquese y publíquese.- Aníbal Ariztía Reyes, Director Nacional.
