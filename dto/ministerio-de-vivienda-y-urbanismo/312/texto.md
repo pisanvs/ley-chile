@@ -8,7 +8,11 @@ Decreto:
 
 #### Artículo 1°
 
-El presente decreto reglamenta el Programa Concursable de Espacios Públicos, destinado a financiar proyectos que permitan recuperar y construir espacios públicos en áreas urbanas consolidadas en deterioro, contribuyendo con la puesta en valor y mejora de zonas patrimoniales, sectores emblemáticos, zonas deterioradas y de escasos recursos.
+El presente decreto reglamenta el Programa Concursable de Espacios Públicos, destinado a financiar proyectos que permitan recuperar espacios públicos que contribuyan a incrementar la vitalidad en áreas centrales de entidades urbanas del país que presentan deterioro.
+
+Para los efectos de este reglamento, se entiende como una entidad urbana un asentamiento humano con continuidad y concentración de construcciones en un amanzanamiento regular con población mayor a 2.000 habitantes, o entre 1.001 y 2.000 habitantes donde menos del 50% de la población que declara haber trabajado se dedica a actividades primarias.
+
+Asimismo, para los efectos de este reglamento se entiende como un área central aquella área identificada por el Ministerio de Vivienda y Urbanismo que atrae personas por la concentración de equipamiento, bienes y/o servicios urbanos vinculados a cobertura de educación inicial, educación básica, y salud primaria.
 
 Las obras correspondientes a este programa tendrán por objeto reconocer y proteger el patrimonio urbano, reforzar la identidad local y mejorar la calidad de vida de los ciudadanos, transformando estos lugares en espacios públicos equipados, seguros y adecuados para el descanso, el esparcimiento y el encuentro social.
 
@@ -16,7 +20,7 @@ Excepcionalmente, tratándose de proyectos localizados en áreas rurales, la apl
 
 #### Artículo 2º
 
-Mediante este Programa se podrán construir obras nuevas o rehabilitar obras existentes, tales como iluminación, mobiliario urbano, soluciones básicas de aguas lluvia, conformación y mejoramiento de áreas verdes, zonas de juego, recreación, equipamiento menor como quioscos, odeones, juegos infantiles, y otras similares, a fin de permitir la recuperación de plazas, plazoletas, avenidas, calles, pasajes, paseos, sendas peatonales y de otros espacios urbanos para los destinos señalados en el artículo precedente.
+Mediante este Programa se podrán mejorar obras existentes, tales como iluminación, mobiliario urbano, soluciones básicas de aguas lluvia, conformación y mejoramiento de áreas verdes, zonas de juego, recreación, equipamiento menor como quioscos, odeones, juegos infantiles, y otras similares, a fin de permitir la recuperación de plazas, plazoletas, avenidas, calles, pasajes, paseos, sendas peatonales y de otros espacios urbanos para los destinos señalados en el artículo precedente.
 
 #### Artículo 3º
 
@@ -34,7 +38,7 @@ En el costo de las obras no se incluirán los gastos de su mantención.
 
 #### Artículo 5º
 
-Mediante resoluciones del respectivo Secretario Regional Ministerial de Vivienda y Urbanismo, que se publicarán en periódico de circulación nacional y/o regional, se convocará a postulación para la selección de los proyectos del Programa, se indicarán los períodos de postulación, el calendario y los plazos correspondientes, la forma de presentación, lugares de recepción y otros requisitos que deban cumplir los proyectos.
+Mediante resoluciones del respectivo Secretario Regional Ministerial de Vivienda y Urbanismo, que se publicarán en un medio de comunicación de circulación nacional y/o regional en formato físico o digital, se convocará a postulación para la selección de los proyectos del Programa, se indicarán los períodos de postulación, el calendario y los plazos correspondientes, la forma de presentación, lugares de recepción y otros requisitos que deban cumplir los proyectos.
 
 #### Artículo 6º
 
@@ -44,17 +48,17 @@ Los proyectos, sean de iniciativa municipal o a proposición de la comunidad org
 
 Mediante resoluciones del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se señalarán los antecedentes que deberán acompañarse a las postulaciones y, en general, todas aquellas operaciones o actos que se requieran para la aplicación práctica de este Reglamento, como asimismo se fijarán los parámetros para efectuar las selecciones, considerándose a lo menos los siguientes aspectos según corresponda:
 
-a) Población Comunal
+- Focalización Socioeconómica de la comuna beneficiada.
 
-b) Población Beneficiada
+- Deterioro funcional.
 
-c) Índice de Áreas Verdes de la comuna
+- Deterioro físico.
 
-d) Focalización Socioeconómica de la Población Beneficiada
+- Participación Ciudadana.
 
-e) Diseño
+- Localización patrimonial.
 
-f) Pertenencia a Plan de Inversiones de Obras Urbanas
+- Pertenencia a Plan de Inversiones de Obras Urbanas.
 
 #### Artículo 8º
 
