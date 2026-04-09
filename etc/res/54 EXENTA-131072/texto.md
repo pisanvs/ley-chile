@@ -36,6 +36,6 @@ g) El transporte desde el lugar de origen hasta el lugar de embarque se realizó
 
 <!-- parte:6152032 -->
 
-Al arribo al país los animales serán sometidos a un período cuarentenario de un mínimo de 5 días, en un lugar que para tal efecto autorice la Dirección Regional del SAG correspondiente. La detección, durante este período, de agentes causantes de enfermedades transmisibles, implicará el sacrificio o re-exportación de la partida.
+Derogado.
 
 Anótese, transcríbase y publíquese.- Antonio Yaksic Soulé, Director Nacional Servicio Agrícola y Ganadero.

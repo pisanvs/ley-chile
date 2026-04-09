@@ -22,7 +22,7 @@ La certificación sanitaria debe acreditar que se cumplen las siguientes condici
 
 7. El importador deberá acreditar su condición de laboratorio de investigación o diagnóstico y cumplir con condiciones que aseguren la adecuada mantención de los animales.
 
-8. Al arribo al país los animales serán sometidos a un período cuarentenario de 21 días como mínimo, durante el cual se realizarán exámenes de laboratorio y necropsia de todos los animales que lleguen muertos o mueran durante este período, el costo de esta prueba será de cargo del importador.
+### 8. Eliminado
 
 9.- Al ingreso al país, los interesados, junto con el certificado sanitario, deben presentar la Resolución de autorización de fauna silvestre exótica emitida por la División de Recursos Naturales Renovables del SAG.
 

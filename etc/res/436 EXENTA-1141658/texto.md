@@ -54,7 +54,7 @@ h. Dentro de las 48 horas previas al embarque, los animales no presentaron signo
 
 3. Al arribo al país, se deberá hacer entrega directa de la partida en las instalaciones de cuarentena autorizadas por el SAG, en donde permanecerán definitivamente.
 
-4. Los animales deberán ser sometidos a un periodo de cuarentena de a lo menos 5 días, período en el cual se mantendrán aislados de otros animales y serán sometidos a observación y a pruebas diagnósticas, si fuese necesario.
+### 4. Eliminado
 
 5. El importador deberá realizar el tratamiento del agua, de los equipos utilizados para el transporte y de todos los efluentes y despojos, de modo de garantizar la inactivación de los agentes patógenos mencionados en el punto 2.a de la presente resolución, de acuerdo a las normas internacionales, en especial el Código Sanitario de los Animales Acuáticos de la OIE.
 
