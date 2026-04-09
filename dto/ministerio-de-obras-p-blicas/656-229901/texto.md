@@ -52,6 +52,8 @@ Ruta S/R, Auco - Cocou - Los Pozos.
 
 Ruta Costera, Límite III Región (Los Lobitos) - Cruce Ruta 5 (Caleta Hornos). Tramo: Los Lobitos - Los Choros.
 
+Camino D-215, Cruce Ruta 41 CH (Marquesa) - Viñita Baja - Caserones.
+
 3º.- Declárase Caminos Públicos en las áreas urbanas de la Intercomuma de La Serena - Coquimbo, dando continuidad a las rutas antes indicadas, a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 La Serena:
@@ -139,6 +141,10 @@ Salamanca:
 Vicuña:
 
 . El sistema vial urbano que interconecta las rutas 41 CH, D-463, D-465 y D-357, desde límite urbano poniente hasta límite urbano sur y límite urbano oriente; a través de: puente sobre río Elqui, Alameda Las Delicias, Acceso Puente Presbítero T. Álvarez y Camino a Peralillo.
+
+Marquesa - Nueva Talcuna
+
+. El Sistema vial urbano que interconecta la Ruta 41-CH con el camino D-215, desde el límite urbano nororiente hasta el límite urbano sur; a través de: calle Ruta D-215 y Calle Ex Línea Férrea.
 
 6º.- Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
