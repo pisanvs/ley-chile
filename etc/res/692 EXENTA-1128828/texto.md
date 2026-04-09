@@ -84,7 +84,7 @@ En el caso de los animales de compañía, deben permanecer aislados bajo control
 
 ### 7. Del ingreso de los animales a Chile:
 
-7.1 A su arribo al país los animales serán sometidos a un periodo de aislamiento mínimo de 15 días, en un lugar autorizado por el Servicio Agrícola y Ganadero mediante resolución regional.
+7.1 Eliminado.
 
 8. Se deroga resolución Nº 2.875, de 2007, que fija exigencias sanitarias para la internación de cobayos a Chile.
 
