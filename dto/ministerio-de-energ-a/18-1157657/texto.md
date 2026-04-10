@@ -26,7 +26,7 @@ ______________
 
 (¹)Tanto la obra "Ampliación en S/E Calama 220 kV" como la obra "Ampliación en S/E Calama 110 kV" son proyectos en la subestación denominada "Calama Nueva" de propiedad de Transemel S.A.
 
-Los proyectos deberán estar construidos y entrar en operación, a más tardar, dentro de los plazos constructivos indicados en la tabla anterior, contados desde la publicación del decreto supremo Nº 18T, de 2020, del Ministerio de Energía, en el Diario Oficial, con la excepción de los proyectos singularizados con el Nº 1 -Ampliación en S/E Pozo Almonte-, Nº 19 -Ampliación en S/E Polpaico (Enel Distribución)-, Nº 20 -Ampliación en S/E Rungue- Nº 21 -Refuerzo Tramo Tap Vitacura - Vitacura-, Nº 34 -Ampliación en S/E Escuadrón- y Nº 39 -Ampliación en S/E Pumahue-, los cuales deberán estar construidos y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación del decreto supremo Nº 2T, de 3 de marzo de 2025, del Ministerio de Energía, en el Diario Oficial, así como el proyecto singularizado con el Nº 30 - Ampliación de capacidad de línea 1x66 kV Monterrico - Cocharcas, el cual deberá estar construido y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación en el Diario Oficial del decreto exento Nº 226, de 20 de agosto de 2025, del Ministerio de Energía, y el proyecto singularizado con el Nº 31 - Ampliación de capacidad de línea 1x66 kV Charrúa - Chillán, el cual deberá estar construido y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación del decreto exento Nº 216, de 13 de agosto de 2025, del Ministerio de Energía, en el Diario Oficial.
+Los proyectos deberán estar construidos y entrar en operación, a más tardar, dentro de los plazos constructivos indicados en la tabla anterior, contados desde la publicación del decreto supremo N° 18T, de 2020, del Ministerio de Energía, en el Diario Oficial, con la excepción de los proyectos singularizados con el N° 1 –Ampliación en S/E Pozo Almonte–, N° 19 –Ampliación en S/E Polpaico (Enel Distribución)–, N° 20 –Ampliación en S/E Rungue–, N° 21 –Refuerzo Tramo Tap Vitacura – Vitacura–, N° 34 –Ampliación en S/E Escuadrón– y N° 39 –Ampliación en S/E Pumahue–, los cuales deberán estar construidos y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación del decreto supremo N° 2T, de 3 de marzo de 2025, del Ministerio de Energía, en el Diario Oficial. Adicionalmente, el proyecto singularizado con el N° 31 –Ampliación de Capacidad de Línea 1x66 kV Charrúa – Chillán– deberá estar construido y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación del decreto exento N° 216, de 13 de agosto de 2025, del Ministerio de Energía, en el Diario Oficial. Igualmente, el proyecto singularizado con el N° 30 –Ampliación de Capacidad de Línea 1x66 kV Monterrico – Cocharcas–, deberá estar construido y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación en el Diario Oficial del decreto exento N° 226, de 20 de agosto de 2025, del Ministerio de Energía. Finalmente, los proyectos singularizados con el N° 6 –Ampliación en S/E Calama 220 kV–, N° 7 –Ampliación en S/E Calama 110 kV– y N° 38 –Reactor en S/E Nueva Pichirropulli–, deberán estar construidos y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación del decreto supremo N° 25T, de 1 de diciembre de 2025, del Ministerio de Energía, en el Diario Oficial.
 
 En caso de que el día de entrada en operación de un determinado proyecto de los indicados anteriormente sea un día sábado, domingo o festivo, éste deberá ser prorrogado al primer día hábil siguiente.
 
@@ -488,7 +488,7 @@ Asimismo, el proyecto incluye todas las obras y labores establecidas en las Base
 
 Conforme a lo informado por la Comisión en su informe técnico, a continuación se indican el V.A.T.T., el A.V.I., el C.O.M.A. y el Ajuste por Efecto de Impuesto a la Renta, en adelante "A.E.I.R.", calculados respecto al V.I. adjudicado:
 
-Conforme a lo informado por la Comisión en su Informe Técnico, aprobado por su Resolución Exenta N°60, de 2025, a continuación se indican el V.A.T.T., el A.V.I., el C.O.M.A. y el A.I.E.R. calculados tanto respecto del V.I. pagado a los anteriores adjudicatarios de las obras como del V.I. adjudicado en la nueva licitación:
+Conforme a lo informado por la Comisión en sus informes técnicos de resultados, aprobados por sus resoluciones exentas N° 60, de 2025, y N° 524, de 2025, a continuación se indica V.A.T.T., A.V.I., C.O.M.A. y A.I.E.R., calculados tanto respecto del V.I. pagado a los anteriores adjudicatarios de las obras como del V.I. adjudicado en la nueva licitación:
 
 Componente del Valor Anual de la Transmisión por Tramo asociado al pago del V.I. previo
 
@@ -528,7 +528,13 @@ Los valores base para los índices asociados a la componente V.A.T.T relativa al
 
 En la tabla anterior los valores considerados hacen referencia al momento de entrega de ofertas del proceso en el cual fueron adjudicadas inicialmente las obras de ampliación que, con posterioridad, se licitaron según lo dispuesto en el artículo 157 del Decreto N°37, de 2019, del Ministerio de Energía.
 
-Por su parte, para la indexación de las componentes de V.A.T.T. asociadas al nuevo V.I. adjudicado indicadas en la tabla denominada "Componente del Valor Anual de la Transmisión por Tramo asociado a nuevo V.I. adjudicado", se consideran los valores base para los índices establecidos en la siguiente tabla:
+Por su parte, respecto de las obras Ampliación en S/E Pozo Almonte, Ampliación en S/E Rungue, Ampliación en S/E Polpaico (Enel Distribución), Refuerzo Tramo Tap Vitacura – Vitacura, Ampliación en S/E Escuadrón y Ampliación en S/E Pumahue, para la indexación de las componentes de V.A.T.T. asociadas al nuevo V.I. adjudicado indicadas en la tabla denominada ‘Componente del Valor Anual de la Transmisión por Tramo asociado a nuevo V.I. adjudicado', se consideran los valores base para los índices establecidos en la siguiente tabla:
+
+Asimismo, los valores base para los índices asociados a la componente V.A.T.T relativa al monto de V.I pagado a los anteriores adjudicatarios de las obras Ampliación en S/E Calama 220 kV, Ampliación en S/E Calama 110 kV, y Reactor en S/E Nueva Pichirropulli son los siguientes:
+
+En la tabla anterior los valores considerados hacen referencia al momento de entrega de ofertas del proceso en el cual fueron adjudicadas inicialmente las obras de ampliación que, con posterioridad, se licitaron según lo dispuesto en el artículo 157 del decreto N° 37, de 2019, del Ministerio de Energía.
+
+Por su parte, respecto de las obras Ampliación en S/E Calama 220 kV, Ampliación en S/E Calama 110 kV y Reactor en S/E Nueva Pichirropulli, para la indexación de las componentes de V.A.T.T. asociadas al nuevo V.I. adjudicado indicadas en la tabla denominada ‘Componente del Valor Anual de la Transmisión por Tramo asociado a nuevo V.I. adjudicado', se consideran los valores base para los índices establecidos en la siguiente tabla:
 
 5º Fíjase el régimen y período de remuneración de los proyectos.
 
@@ -536,7 +542,9 @@ El propietario de la obra de ampliación será el responsable de pagar al respec
 
 El pago del A.V.I., C.O.M.A. y A.E.I.R. señalados en el numeral 3º y las fórmulas de indexación del numeral 4º, ambos del presente decreto, constituirán la remuneración del propietario de la respectiva obra de ampliación.
 
-El pago del A.V.I. se aplicará durante cinco períodos tarifarios a partir de la entrada en operación de la obra de ampliación, transcurridos los cuales las instalaciones y su valorización deberán ser revisadas y actualizadas en el proceso de valorización de la transmisión correspondiente.
+El pago del A.V.I. se aplicará durante cinco períodos tarifarios a partir de la entra
+
+da en operación de la obra de ampliación, transcurridos los cuales las instalaciones y su valorización deberán ser revisadas y actualizadas en el proceso de valorización de la transmisión correspondiente.
 
 El C.O.M.A. determinado será remunerado hasta la entrada en vigencia del decreto tarifario correspondiente al período 2024 - 2027, período en el cual el C.O.M.A. se determinará de acuerdo a lo que indiquen las respectivas bases que regulen el estudio de valorización a que hace referencia el artículo 107º de la ley. Lo mismo aplicará para el A.E.I.R, según lo establecido en el literal d. del artículo 49 del decreto supremo Nº 10, de 2019, del Ministerio de Energía, que aprueba Reglamento de calificación, valorización, tarificación y remuneración de las instalaciones de transmisión.
 
@@ -545,6 +553,12 @@ El C.O.M.A. determinado será remunerado hasta la entrada en vigencia del decret
 > **Nota.** NOTA 1 El numeral 1° del artículo sexto del Decreto 226 Exento, Energia, publicado el 03.09.2025 modifica la presente norma en el sentido reemplazar íntegramente la fila Nº 30 de la tabla del resuelvo 1°, por la fila que la citada norma indica.
 
 > **Nota.** NOTA 2 El numeral 3° del artículo sexto del Decreto 226 Exento, Energia, publicado el 03.09.2025 modifica la presente norma en el sentido reemplazar íntegramente la fila Nº 30 de la tabla del resuelvo 3°, por la fila que la citada norma indica.
+
+> **Nota.** NOTA 3 El artículo tercero del Decreto 26, Energía, publicado el 30.01.2026, dispone rectificar, a partir de la fecha de publicación en el Diario Oficial del Decreto 252, esto es, 30.10.2025, la tabla contenida en el resuelvo 1º de la presente norma, en la fila Nº 9, bajo la columna denominada "Plazo Constructivo (meses)", donde dice "55 meses y 29 días", debe decir "56 meses y 30 días".
+
+> **Nota.** NOTA 4 El numeral 1° del artículo décimo del Decreto 25 T, Energía, publicado el 10.04.2026, modifica la presente norma en el sentido de reemplazar íntegramente las filas N° 6, N° 7 y N° 38 de la tabla del numeral 1° contenida en dicha disposición, por las que la citada norma indica.
+
+> **Nota.** NOTA 5 El numeral 3° del artículo décimo del Decreto 25 T, Energía, publicado el 10.04.2026, modifica la presente norma en el sentido de elimínar íntegramente de la primera tabla del numeral 3°, las filas N° 6 –Ampliación en S/E Calama 220 kV–, N° 7 –Ampliación en S/E Calama 110 kV– y N° 38 – Reactor en S/E Nueva Pichirropulli –.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Juan Carlos Jobet Eluchans, Ministro de Energía.
 
