@@ -16,23 +16,31 @@ Resuelvo:
 
 2. El envío deberá venir amparado por un Certificado Fitosanitario de la autoridad fitosanitaria de Australia, en el que consten los siguientes requisitos y declaraciones adicionales:
 
-2.1. El material procede de un programa de producción
+2.1. El material procede de un programa
 
-bajo certificación oficial o de Viveros o Centros
+de producción bajo certificación
 
-Repositorios de germoplasma, que se encuentren
+oficial o de Viveros o Centros
 
-bajo el control del organismo fitosanitario
+Repositorios de germoplasma, que
 
-oficial de Australia.
+se encuentren bajo el control del
 
-2.2. Además, se debe indicar en el Certificado
+organismo fitosanitario oficial
 
-Fitosanitario las siguientes declaraciones
+de Australia.
 
-adicionales, específicas para cada especie y
+2.2. Además, se debe indicar en el
 
-tipo de material de propagación que a
+Certificado Fitosanitario las
+
+siguientes declaraciones
+
+adicionales, específicas para cada
+
+especie y tipo de material de
+
+propagación que a
 
 continuación se señalan:
 
@@ -44,27 +52,33 @@ continuación se señalan:
 
 . Libre de suelo.
 
-. Libre de hojas, flores y restos de frutos.
+. Libre de hojas, flores y restos de
 
-. Embalados en envases nuevos de primer uso,
+frutos.
 
-cerrados, resistentes a la manipulación,
+. Embalados en envases nuevos de primer
 
-factibles de sellar y etiquetados o rotulados
+uso, cerrados, resistentes a la
 
-de acuerdo a normativa vigente.
+manipulación, factibles de sellar y
+
+etiquetados o rotulados de acuerdo a
+
+normativa vigente.
 
 . Los materiales de acondicionamiento
 
 destinados a amortiguar o conservar
 
-la humedad deben corresponder a materiales
+la humedad deben corresponder a
 
-inertes tales como turba, musgo esfangíneo,
+materiales inertes tales como turba,
 
-vermiculita, perlita o geles higroscópicos,
+musgo esfangíneo, vermiculita, perlita
 
-de acuerdo a normativa vigente.
+o geles higroscópicos, de acuerdo a
+
+normativa vigente.
 
 5. Cada envío será inspeccionado por el Servicio en el puerto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos. Si durante la inspección se detectan plagas distintas a las mencionadas en esta Resolución, se aplicarán las medidas fitosanitarias de manejo del riesgo, acordes con el riesgo identificado.
 
@@ -76,8 +90,12 @@ de acuerdo a normativa vigente.
 
 8. Para los Materiales Modificados Genéticamente por Biotecnología Moderna, el importador deberá declarar su condición genética y cumplir con las normativas del Servicio Agrícola y Ganadero, que establecen los requisitos para la internación e introducción al medio ambiente de estos materiales.
 
+9. El ingreso del material vegetal al país y trámite de importación solo podrá realizarse en la Oficina SAG de Comercio Exterior situada en el Aeropuerto Internacional Arturo Merino Benítez, de la ciudad de Santiago, Región Metropolitana.
+
 > **Nota.** El N° 1 de la Resolución 8702 Exenta, Agricultura, publicada el 13.12.2014, modifica el resuelvo 2.2. de la presente norma, en el sentido de eliminar en la parte correspondiente a la especie manzano (Malus spp.), en la letra a. de la columna Declaración Adicional, la frase "y Monilinia fructicola" y en la parte correspondiente a las especies duraznero (Prunus persica) y nectarino (Prunus persica var. nucipersica), la letra a. de la columna Declaración Adicional, pasando las actuales letras b, c y d a ser, respectivamente, letras a, b y c.
 
 > **Nota.** NOTA 1 El numeral N° 12 de la Resolución 7501 Exenta, Agricultura, publicada el 17.11.2020, modifica los requisitos fitosanitarios para la importación de material de reproducción propagación de las especies que indica, procedentes de Australia, en la especie que indica, lo siguiente: Para "Citrus spp. (Cítricos) Estacas", reemplazar la letra b. de la columna Declaración Adicional por la siguiente frase: "b. Las estacas derivan de plantas madre que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico para cada caso) en el momento óptimo, según sus especiales características y condiciones, y encontradas libres de Citrus tatter leaf virus y Tomato big bud phytoplasma.". Para "Malus spp. (Manzano) Estacas dormantes" eliminar la letra b. de la columna Declaración Adicional, pasando las actuales letras c y d a ser, respectivamente, letras b y c.
+
+> **Nota.** NOTA 2 Los N°s 1.1, 1.2, 1.3 y 1.4 del numeral 1 de la Resolución 2656 Exenta, Agricultura, publicada el 14.04.2026, modifican el resuelvo 2.2. de la presente norma, en los siguientes sentidos: - se elimina, en la celda referente a la especie Citrus spp (cítricos), estacas, la letra b), pasando la letra c) a ser letra b) y letra d) a ser letra c); - se elimina en la celda referente a la especie Citrus spp (cítricos), estacas, en la letra c), la plaga Brevipalpus lewisi (Ac.: Tenuipalpidae); - se elimina en la celda referente a la especie Punica granatum (granado) para estacas dormantes sin raíz, en la letra a), la plaga Brevipalpus lewisi (Ac.: Tenuipalpidae); y - se elimina en la celda referente a la especie Vitis spp. (vid) para estacas dormantes sin raíz, en la letra c), la plaga Brevipalpus lewisi (Ac.: Tenuipalpidae), respectivamente.
 
 Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional.
