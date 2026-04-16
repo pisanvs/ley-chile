@@ -128,21 +128,17 @@ Tratándose de los chilenos a que se refieren los números 2º y 4º del artícu
 
 #### Artículo 14
 
-Los extranjeros avecindados en Chile por más de cinco años, y que cumplan con los requisitos señalados en el inciso primero del artículo 13, podrán ejercer el derecho de sufragio en los casos y formas que determine la ley.
+Los extranjeros avecindados en Chile por más de diez años ininterrumpidos, y que cumplan con los requisitos señalados en el inciso primero del artículo 13, podrán ejercer el derecho de sufragio en los casos y formas que determine la ley. Para estos efectos, los extranjeros sólo se considerarán avecindados a partir del momento en que obtengan un permiso de residencia definitiva. Con todo, durante el período de avecindamiento, no deberán registrar salidas del país por más de noventa días en cualquier período de doce meses.
 
 Los nacionalizados en conformidad al Nº 3º del artículo 10, tendrán opción a cargos públicos de elección popular sólo después de cinco años de estar en posesión de sus cartas de nacionalización.
-
-> **Nota.** El Nº 1 del artículo único de la ley 21773, publicada el 07.10.2025, dispone reemplazar el inciso primero del presente artículo por el que indica, modificación que comenzará a regir desde el año 2026. Además, previo a su entrada en vigencia, una ley establecerá multas para ciudadanos por incumplimiento del deber de sufragio, conforme a lo dispuesto por la disposición quincuagésima cuarta transitoria de esta norma.
 
 #### Artículo 15
 
 En las votaciones populares, el sufragio será personal, igualitario y secreto.
 
-El sufragio será obligatorio para los electores en todas las elecciones y plebiscitos, salvo en las elecciones primarias. Una ley orgánica constitucional fijará las multas o sanciones que se aplicarán por el incumplimiento de este deber, los electores que estarán exentos de ellas y el procedimiento para su determinación.
+El sufragio será obligatorio en todas las elecciones y plebiscitos, salvo en las elecciones primarias. Una ley orgánica constitucional fijará las multas o sanciones que se aplicarán por el incumplimiento de este deber, los que estarán exentos de ellas y el procedimiento para su determinación.
 
 Sólo podrá convocarse a votación popular para las elecciones y plebiscitos expresamente previstos en esta Constitución.
-
-> **Nota.** El Nº 2 del artículo único de la ley 21773, publicada el 07.10.2025, dispone eliminar en el inciso segundo del presente artículo la frase “para los electores” y la palabra “electores”, modificación que comenzará a regir desde el año 2026. Además, previo a su entrada en vigencia, una ley establecerá multas para ciudadanos por incumplimiento del deber de sufragio, conforme a lo dispuesto por la disposición quincuagésima cuarta transitoria de esta norma.
 
 #### Artículo 16
 
@@ -914,9 +910,9 @@ No pueden ser candidatos a diputados ni a senadores:
 
 8) Las personas naturales y los gerentes o administradores de personas jurídicas que celebren o caucionen contratos con el Estado;
 
-9) El Fiscal Nacional, los fiscales regionales y los fiscales adjuntos del Ministerio Público, y
+9) El Fiscal Nacional, los fiscales regionales, el Fiscal Jefe de la Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, y los fiscales adjuntos del Ministerio Público, y
 
-10) Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, el General Director de Carabineros, el Director General de la Policía de Investigaciones y los oficiales pertenecientes a las Fuerzas Armadas y a las Fuerzas de Orden y Seguridad Pública.
+10) Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, el General Director de Carabineros, el Director General de la Policía de Investigaciones, el Director Nacional de Gendarmería de Chile y los oficiales pertenecientes a las Fuerzas Armadas y a las Fuerzas de Orden y Seguridad Pública.
 
 Las inhabilidades establecidas en este artículo serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección; excepto respecto de las personas mencionadas en los números 7) y 8), las que no deberán reunir esas condiciones al momento de inscribir su candidatura y de las indicadas en el número 9), respecto de las cuales el plazo de la inhabilidad será de los dos años inmediatamente anteriores a la elección. Si no fueren elegidos en una elección no podrán volver al mismo cargo ni ser designados para cargos análogos a los que desempeñaron hasta un año después del acto electoral.
 
@@ -1224,7 +1220,7 @@ El ejercicio de la acción penal pública, y la dirección de las investigacione
 
 #### Artículo 84
 
-Una ley orgánica constitucional determinará la organización y atribuciones del Ministerio Público, señalará las calidades y requisitos que deberán tener y cumplir los fiscales para su nombramiento y las causales de remoción de los fiscales adjuntos, en lo no contemplado en la Constitución. Las personas que sean designadas fiscales no podrán tener impedimento alguno que las inhabilite para desempeñar el cargo de juez. Los fiscales regionales y adjuntos cesarán en su cargo al cumplir 75 años de edad.
+Una ley orgánica constitucional determinará la organización y atribuciones del Ministerio Público, señalará las calidades y requisitos que deberán tener y cumplir los fiscales para su nombramiento y las causales de remoción de los fiscales adjuntos, en lo no contemplado en la Constitución. Las personas que sean designadas fiscales no podrán tener impedimento alguno que las inhabilite para desempeñar el cargo de juez. Los fiscales regionales, el Fiscal Jefe de la Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, y los fiscales adjuntos cesarán en su cargo al cumplir 75 años de edad.
 
 La ley orgánica constitucional establecerá el grado de independencia y autonomía y la responsabilidad que tendrán los fiscales en la dirección de la investigación y en el ejercicio de la acción penal pública, en los casos que tengan a su cargo.
 
@@ -1244,6 +1240,16 @@ Los fiscales regionales serán nombrados por el Fiscal Nacional, a propuesta en 
 
 Los fiscales regionales deberán tener a lo menos cinco años de título de abogado, haber cumplido 30 años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio; durarán ocho años en el ejercicio de sus funciones y no podrán ser designados como fiscales regionales por el período siguiente, lo que no obsta a que puedan ser nombrados en otro cargo del Ministerio Público.
 
+#### Artículo 86 bis
+
+Existirá una Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, que desempeñará sus funciones respecto a ilícitos en los cuales existan antecedentes de la intervención de asociaciones delictivas o criminales, y cuando los hechos requieran una dirección supraterritorial o transnacional de la investigación. Estará a cargo de un Fiscal Jefe, al que corresponderá ejercer las funciones propias del Ministerio Público. Las contiendas de competencia que se susciten entre las Fiscalías Regionales y la Fiscalía Supraterritorial serán resueltas por el Fiscal Nacional.
+
+El Fiscal Jefe de la Fiscalía Supraterritorial deberá dar cumplimiento a las instrucciones particulares que imparta el Fiscal Nacional en las investigaciones de delitos de crimen organizado o de alta complejidad que estén a su cargo.
+
+El Fiscal Jefe de la Fiscalía Supraterritorial será designado por el Fiscal Nacional, será de su exclusiva confianza y se mantendrá en su cargo mientras cuente con ella, sin perjuicio de lo dispuesto en el inciso primero del artículo 84 y en el inciso tercero del artículo 89.
+
+El Fiscal Jefe de la Fiscalía Supraterritorial deberá tener a lo menos diez años de título de abogado, haber cumplido treinta y cinco años de edad, poseer las calidades necesarias para ser ciudadano con derecho a sufragio, y cumplir con las condiciones de conocimiento y experiencia en litigación en asuntos penales que serán determinados de acuerdo a la ley orgánica constitucional.
+
 #### Artículo 87
 
 La Corte Suprema y las Cortes de Apelaciones, en su caso, llamarán a concurso público de antecedentes para la integración de las quinas y ternas, las que serán acordadas por la mayoría absoluta de sus miembros en ejercicio, en pleno especialmente convocado al efecto. No podrán integrar las quinas y ternas los miembros activos o pensionados del Poder Judicial.
@@ -1252,7 +1258,7 @@ Las quinas y ternas se formarán en una misma y única votación en la cual cada
 
 #### Artículo 88
 
-Existirán fiscales adjuntos que serán designados por el Fiscal Nacional, a propuesta en terna del fiscal regional respectivo, la que deberá formarse previo concurso público, en conformidad a la ley orgánica constitucional. Deberán tener el título de abogado y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.
+Existirán fiscales adjuntos que serán designados por el Fiscal Nacional, a propuesta en terna del fiscal regional respectivo o del Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, la que deberá formarse previo concurso público, en conformidad a la ley orgánica constitucional. Deberán tener el título de abogado y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.
 
 #### Artículo 89
 
@@ -1260,9 +1266,13 @@ El Fiscal Nacional y los fiscales regionales sólo podrán ser removidos por la 
 
 La remoción de los fiscales regionales también podrá ser solicitada por el Fiscal Nacional.
 
+Al Fiscal Jefe de la Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, le será aplicable lo dispuesto en el inciso primero, además de la remoción por parte del Fiscal Nacional.
+
+Tratándose de la remoción de los fiscales regionales, el Fiscal Nacional podrá solicitarla, además de las causales de este artículo, por el incumplimiento, de manera grave y reiterada, de las instrucciones generales que hubiere dictado dicho Fiscal Nacional para la debida tramitación de las causas.
+
 #### Artículo 90
 
-Se aplicará al Fiscal Nacional, a los fiscales regionales y a los fiscales adjuntos lo establecido en el artículo 81.
+Se aplicará al Fiscal Nacional, a los fiscales regionales, al Fiscal Jefe de la Fiscalía Supraterritorial y a los fiscales adjuntos lo establecido en el artículo 81.
 
 #### Artículo 91
 
@@ -1458,13 +1468,13 @@ FUERZAS ARMADAS, DE ORDEN Y SEGURIDAD PÚBLICA
 
 Las Fuerzas Armadas dependientes del Ministerio encargado de la Defensa Nacional están constituidas única y exclusivamente por el Ejército, la Armada y la Fuerza Aérea. Existen para la defensa de la patria y son esenciales para la seguridad nacional.
 
-Las Fuerzas de Orden y Seguridad Pública están integradas sólo por Carabineros e Investigaciones. Constituyen la fuerza pública y existen para dar eficacia al derecho, garantizar el orden público y la seguridad pública interior, en la forma que lo determinen sus respectivas leyes orgánicas. Dependen del Ministerio encargado de la Seguridad Pública.
+Las Fuerzas de Orden y Seguridad Pública están integradas sólo por Carabineros, Investigaciones y Gendarmería de Chile. Constituyen la fuerza pública y existen para dar eficacia al derecho, garantizar el orden público y la seguridad pública interior, en la forma que lo determinen sus respectivas leyes orgánicas. Dependen del Ministerio encargado de la Seguridad Pública.
 
 Las Fuerzas Armadas y Carabineros, como cuerpos armados, son esencialmente obedientes y no deliberantes. Las fuerzas dependientes de los Ministerios encargados de la Defensa Nacional y de la Seguridad Pública son, además, profesionales, jerarquizadas y disciplinadas.
 
 #### Artículo 102
 
-La incorporación a las plantas y dotaciones de las Fuerzas Armadas y de Carabineros sólo podrá hacerse a través de sus propias Escuelas, con excepción de los escalafones profesionales y de empleados civiles que determine la ley.
+La incorporación a las plantas y dotaciones de las Fuerzas Armadas, de Carabineros y de Gendarmería de Chile sólo podrá hacerse a través de sus propias Escuelas, con excepción de los escalafones profesionales y de empleados civiles que determine la ley.
 
 #### Artículo 103
 
@@ -1480,7 +1490,7 @@ El Presidente de la República, mediante decreto fundado e informando previament
 
 #### Artículo 105
 
-Los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas y Carabineros, se efectuarán por decreto supremo, en conformidad a la ley orgánica constitucional correspondiente, la que determinará las normas básicas respectivas, así como las normas básicas referidas a la carrera profesional, incorporación a sus plantas, previsión, antigüedad, mando, sucesión de mando y presupuesto de las Fuerzas Armadas y Carabineros.
+Los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas, Carabineros y Gendarmería de Chile, se efectuarán por decreto supremo, en conformidad a la ley orgánica constitucional correspondiente, la que determinará las normas básicas respectivas, así como las normas básicas referidas a la carrera profesional, incorporación a sus plantas, previsión, antigüedad, mando, sucesión de mando y presupuesto de las Fuerzas Armadas, Carabineros y Gendarmería de Chile.
 
 El ingreso, los nombramientos, ascensos y retiros en Investigaciones se efectuarán en conformidad a su ley orgánica.
 
@@ -2891,6 +2901,12 @@ Dichas disposiciones sólo podrán otorgar a las Fuerzas Armadas atribuciones pa
 Estos preceptos regirán mientras no se publique la ley a la que se refiere el párrafo final del numeral 21° del artículo 32. El respectivo Mensaje deberá ser enviado por el Presidente de la República al Congreso Nacional dentro de un plazo de seis meses contado desde la publicación de esta reforma.
 
 QUINCUAGÉSIMA CUARTA. Las modificaciones a los artículos 14 y 15 de esta Constitución, introducidas por el artículo único de la ley de reforma constitucional en materia de derecho de sufragio de personas extranjeras, comenzarán a regir desde el año 2026. Previo a su entrada en vigencia, una ley establecerá multas para ciudadanos por incumplimiento del deber de sufragio.
+
+QUINCUAGÉSIMA QUINTA. Dentro del plazo de doce meses contado desde la publicación de la reforma constitucional que incorpora a Gendarmería de Chile dentro de las Fuerzas de Orden y Seguridad Pública, el Presidente de la República deberá enviar al Congreso Nacional un proyecto de ley que cree un servicio especializado en la reinserción social. Dentro del mismo plazo deberá enviar uno o más proyectos de ley para adecuar a esta reforma constitucional la ley N° 21.730, que crea el Ministerio de Seguridad Pública, y la Ley Orgánica de Gendarmería de Chile, contenida en el decreto ley N° 2.859, de 1979, del Ministerio de Justicia.
+
+Mientras no se cree el servicio especializado a que se refiere el inciso precedente, cualquiera sea su denominación legal, y no se efectúen las adecuaciones que en virtud de la mencionada reforma constitucional deban realizarse a la normativa legal vigente, a Gendarmería de Chile le corresponderá desarrollar la función de reinserción social, de acuerdo con las políticas, planes y programas que en dicha materia deberá formular el Ministerio de Justicia y Derechos Humanos conforme a su ley orgánica, habida consideración de lo dispuesto en la Política Nacional de Seguridad Pública y la necesaria coordinación con el Ministerio de Seguridad Pública para su ejecución. Lo anterior se entenderá, sin perjuicio de las atribuciones que en materia de seguridad y reinserción social tenga el Ministerio de Seguridad Pública, de conformidad con la ley N° 21.730. Asimismo, las referencias que se realicen al Ministerio de Justicia, tanto en el estatuto de personal perteneciente a las Plantas I y II de Gendarmería de Chile, contenido en el decreto con fuerza de ley N° 1.791, de 1979, del Ministerio de Justicia, como en la Ley Orgánica de Gendarmería de Chile, contenida en el decreto ley N° 2.859, de 1979, del Ministerio de Justicia, deberán entenderse hechas al Ministerio de Seguridad Pública, salvo aquellas contenidas en el literal h) del artículo 3°, en el inciso tercero del artículo 4°, en el artículo 16 e inciso segundo del artículo 22 de este último cuerpo normativo.
+
+QUINCUAGÉSIMA SEXTA. A contar de la fecha de publicación de la presente reforma constitucional, las asociaciones de funcionarios de Gendarmería de Chile quedarán disueltas, y su liquidación se efectuará conforme a la ley bajo la cual se hayan constituido.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.- Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación.
 
