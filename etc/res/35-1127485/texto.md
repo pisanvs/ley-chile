@@ -128,9 +128,21 @@ Del cumplimiento del pago de la suma adeudada y de las medidas de verificación.
 
 #### Artículo 12º
 
-Informe de cumplimiento. El jefe del servicio o de la unidad o repartición responsable del pago de remuneraciones pertinente, velará por el estricto cumplimiento de los reintegros ordenados a través de las resoluciones emanadas de este Organismo Contralor en la materia; debiendo remitir, una vez consumadas la totalidad de las deducciones, dentro del plazo de treinta días contado desde la deducción de la última cuota, un informe detallado del cumplimiento del descuento, de las cuotas y el interés mensual aplicado, ambos en pesos, acompañando las liquidaciones de remuneraciones que den cuenta del descuento respectivo y los antecedentes que acrediten el registro contable de los ingresos de fondos percibidos en las cuentas por cobrar a que dieron origen los pagos improcedentes de remuneraciones, conforme lo indicado en los procedimientos contables de este origen.
+Informe de cumplimiento. El jefe del servicio velará por el estricto cumplimiento de los reintegros ordenados a través de las resoluciones emanadas de este Organismo Contralor, debiendo remitir, una vez consumadas la totalidad de las deducciones, dentro del plazo de 40 días hábiles contado desde el descuento de la última cuota, un informe detallado del cumplimiento del descuento, de las cuotas y el interés mensual aplicado, ambos en pesos.
 
-Recibido el aludido informe, si correspondiere, se procederá al levantamiento del cargo pecuniario, y posteriormente, se remitirán dichos antecedentes a las unidades de control externo pertinentes, según las directrices emanadas de la División de Auditoría de este Organismo de Control, para su validación, debiendo reactivarse los cargos pecuniarios en el evento que no se hayan efectuado íntegramente los reintegros, sin perjuicio de otras acciones derivadas que se originen.
+En relación con los intereses devengados a favor del Fisco y los reajustes conforme a la variabilidad de la unidad tributaria mensual de las deudas, referidos en los artículos 67 bis y 146 de la ley Nº 10.336, las reparticiones públicas deberán ceñirse a las instrucciones impartidas por este Órgano de Control sobre el particular, las cuales se encuentran actualmente contenidas en el oficio circular Nº 22.963, de 2019, de esta Contraloría General, disponible en la base de jurisprudencia de este Organismo de Control o en aquellas futuras que las reemplacen.
+
+El informe de cumplimiento deberá ser acompañado de las liquidaciones de remuneraciones o de pensión, según corresponda, que den cuenta de cada uno de los descuentos practicados en conformidad a la resolución pertinente, las que deberán estar visadas por el Auditor(a) Interno(a) o aquella persona funcionaria que cumpla con las labores de control y/o auditoria interna de la entidad donde se generó la deuda, quien deberá certificar que los recursos se hayan reintegrado a las arcas fiscales correspondientes.
+
+Recibido el aludido informe y sus antecedentes, si correspondiere, se procederá al levantamiento del cargo pecuniario del funcionario o exfuncionario mediante resolución.
+
+En dicho acto administrativo, se establecerá la obligación del Auditor(a) Interno(a) o aquella persona funcionaria que cumpla con las labores de control y/o auditoría interna de la entidad donde se generaron las deudas, de informar a este Organismo de Control en un plazo no superior a 90 días hábiles, en el evento que, con posterioridad al alzamiento de la deuda en cuestión, constate que no se hayan reintegrado los recursos a las arcas fiscales correspondientes.
+
+Sin perjuicio de lo anterior, las entidades responsables deberán mantener los antecedentes que acrediten el registro contable de los ingresos de fondos percibidos en las cuentas por cobrar a que dieron origen los pagos improcedentes de remuneraciones, conforme lo indicado en los procedimientos contables de este Organismo de Control.
+
+En caso de que, de los antecedentes examinados, se advierta que no se haya dado cumplimiento a lo ordenado mediante la resolución que otorga facilidades de pago, o que la documentación no sea suficiente para levantar el cargo pecuniario, se requerirá la complementación del informe al servicio o que se realicen las correcciones correspondientes, debiendo notificarse dicho acto al deudor.
+
+Se declararán como inadmisibles aquellos informes en los que no conste que la deuda se encuentre completamente reintegrada, salvo que se trate de deudas de exfuncionarios sin derecho a pensión, en cuyo caso, se procederá a registrar el saldo de la deuda en la hoja de vida, y se ordenará al servicio perseguir los valores por las vías que procedan.
 
 #### Artículo 13º
 
