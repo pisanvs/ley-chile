@@ -40,33 +40,35 @@ Los miembros del Consejo durarán cuatro años en el desempeño de sus labores, 
 
 Integrarán el Consejo los siguientes miembros:
 
-1) Presidente/a o representante de la Agrupación Nacional de Empleados Fiscales (Anef);
+1) Presidente/a o representante de la Agrupación Nacional de Empleados Fiscales (Anef).
 
-2) Presidente/a o representante de la Asociación Chilena de Municipalidades (ACHM);
+2) Presidente/a o representante de la Asociación Chilena de Municipalidades (ACHM).
 
-3) Presidente/a o representante de la Asociación de Gobernadores Regionales de Chile (Agorechi);
+3) Presidente/a o representante de la Asociación de Gobernadores Regionales de Chile (Agorechi).
 
-4) Presidente/a o representante de la Confederación de la Producción y del Comercio (CPC);
+4) Presidente/a o representante de la Confederación de la Producción y del Comercio (CPC).
 
-5) Un representante de una asociación gremial que agrupe a empresas de menor tamaño, designado por el Ministro de Economía, Fomento y Turismo;
+5) Un/a representante de una asociación gremial que agrupe a empresas de menor tamaño, designado/a por el/la Ministro/a de Economía, Fomento y Turismo.
 
-6) Un/a representante de la Sociedad Civil organizada;
+6) Presidente/a o representante de la Comunidad de Organizaciones Solidarias.
 
-7) Un ex Contralor General de la República;
+7) Un/a ex Contralor/a General de la República.
 
-8) Dos expertos/as en materia de Transparencia e Integridad;
+8) Un/a experto/a en materias de transparencia e integridad y el Presidente/a o representante de Chile Transparente.
 
-9) Dos académicos/as expertos/as en Tecnologías de la Información (TICs);
+9) Dos académicos/as expertos/as en Tecnologías de la Información (TICs).
 
 10) Dos académicos/as expertos/as en gestión pública.
 
-11) Dos ex altos directivos/as públicos, de preferencia que hayan sido seleccionados en el marco del Sistema de Alta Dirección Pública.
+11) Dos ex altos directivos/as públicos/as, de preferencia que hayan sido seleccionados/as en el marco del Sistema de Alta Dirección Pública.
 
-Los miembros indicados en los numerales 1 al 4 mantendrán sus labores siempre que revistan la calidad de Presidente/a o representante de la respectiva agrupación.
+Los miembros indicados en los numerales 1, 2, 3, 4, 6 y el Presidente/a o representante de Chile Transparente, mantendrán sus labores mientras mantengan la calidad de Presidente/a o representante de la respectiva agrupación.
 
-Por su parte, la persona nombrada de conformidad al numeral 5 durará en sus funciones mientras cuente con la confianza del Ministro de Economía, Fomento y Turismo, y los miembros correspondientes a los numerales 6 al 11 serán designados por el Presidente de la República y desempeñarán sus labores mientras cuenten con su confianza, pudiendo ser reemplazados en cualquier momento, todo lo anterior, sin perjuicio de lo dispuesto en el inciso 2º del artículo 2 de este reglamento. Las obligaciones que emanan de este instrumento para los integrantes de la Comisión sólo les serán exigibles una vez que manifiesten su voluntad en orden a participar de ella, ya sea de forma expresa, ya sea tácitamente al participar de la primera sesión a la que se convoque al efecto.
+Por su parte, la persona nombrada de conformidad al numeral 5 durará en sus funciones mientras cuente con la confianza del/la Ministro/a de Economía, Fomento y Turismo, y el experto a que hace referencia el numeral 8 y los miembros correspondientes a los numerales 7, 9, 10 y 11 serán designados por el Presidente de la República y desempeñarán sus labores mientras cuenten con su confianza, pudiendo ser reemplazados en cualquier momento, todo lo anterior, sin perjuicio de lo dispuesto en el inciso 2° del artículo 2 de este reglamento. Las obligaciones que emanan de este instrumento para los integrantes del Consejo sólo les serán exigibles una vez que manifiesten su voluntad en orden a participar de ella, ya sea de forma expresa, ya sea tácitamente al participar de la primera sesión a la que se convoque al efecto.
 
 En caso de vacancia, renuncia, muerte, incapacidad o cualquier otra circunstancia permanente que impida a uno de sus consejeros el ejercicio regular y continuo de sus funciones, el Presidente de la República o la autoridad respectiva designará un reemplazante.
+
+> **Nota.** El artículo 3° del Decreto 13, Hacienda, publicado el 17.04.2026, dispone que las modificaciones realizadas por el numeral 1 del artículo 1 del citado Decreto, al numeral 8 del artículo 3 de la presente norma, tendrán vigencia a partir del 1 de enero de 2024.
 
 #### Artículo 4
 
@@ -78,7 +80,7 @@ Además, el Consejo, cuando lo estime necesario, podrá invitar a sus sesiones, 
 
 Tanto el Ministro de Hacienda como el Subsecretario de Hacienda podrán participar de las sesiones de este Consejo con derecho a voz.
 
-También podrá participar con derecho a voz, el Jefe de la División de Coordinación Interministerial del Ministerio Secretaría General de la Presidencia, o quien lo subrogue o reemplace.
+También podrá participar con derecho a voz, el Jefe o Jefa de la División de Coordinación Interministerial, del Ministerio del Interior, o quien lo subrogue o reemplace.
 
 #### Artículo 5
 
@@ -104,11 +106,11 @@ b) Diagnosticar el estado de ejecución de las medidas y acciones tomadas por lo
 
 c) Identificar las prioridades de transformación y modernización transversales y sectoriales respecto de los contenidos de la agenda, sobre la base de los informes de los ministerios y servicios públicos y de conformidad a las instrucciones del Presidente de la República.
 
-d) Gestionar, en coordinación con la División de Coordinación Interministerial del Ministerio Secretaría General de la Presidencia, la elaboración de un informe final de avance e implementación de la agenda de modernización del Estado, el que deberá ser entregado al Presidente de la República en un plazo máximo de 90 días antes del término del período presidencial.
+d) Gestionar, en coordinación con la División de Coordinación Interministerial del Ministerio del Interior, la elaboración de un informe final de avance e implementación de la agenda de modernización del Estado, el que deberá ser entregado al Presidente de la República en un plazo máximo de 90 días antes del término del período presidencial.
 
 #### Artículo 8
 
-A la División de Coordinación Interministerial del Ministerio Secretaría General de la Presidencia, o a aquella que la reemplace, le corresponderá informar anualmente al Presidente de la República y al Consejo sobre el avance de la agenda de modernización del Estado aprobada por el Presidente de la República.
+A la División de Coordinación Interministerial, del Ministerio del Interior, o a aquella que la reemplace, le corresponderá informar anualmente al Presidente de la República y al Consejo sobre el avance de la agenda de modernización del Estado aprobada por el Presidente de la República.
 
 #### Artículo 9
 
@@ -116,7 +118,31 @@ Dentro de los 180 primeros días de cada período presidencial, el Ministro de H
 
 #### Artículo 10
 
-Créase el Comité de Modernización del Estado (en adelante, el "Comité") presidido por el Director/a de la Secretaría de Modernización del Estado del Ministerio de Hacienda, en el que participará el Director Nacional del Servicio Civil, y adicionalmente un máximo de tres representantes designados/as por el/la Ministro/a de Hacienda, tres representantes designados/as por el/la Ministro/a Secretario/a General de la Presidencia, dos representantes designados/as por el/la Director/a de Presupuestos, uno/a representante designado/a por el/la Ministro/a Secretario/a General de Gobierno, uno/a representante de la Subsecretaría de Desarrollo Regional y Administrativo designado/a por el/la Ministro/a del Interior y Seguridad Pública, y uno/a representante del Gabinete de la Presidencia de la República, designado/a por el Presidente/a de la República. Los miembros del Comité deberán desempeñar sus cargos mientras la autoridad que los designe lo estime conveniente.
+Créase el Comité de Modernización del Estado (en adelante, el "Comité"), presidido por el/la Coordinador/a de Modernización del Estado del Ministerio de Hacienda, en el que participará:
+
+i. El/La Director/a Nacional del Servicio Civil.
+
+ii. Un/a representante designado/a por el/la Ministro/a Secretario/a General de la Presidencia.
+
+iii. Dos representantes designados/as por el/la Director/a de Presupuestos.
+
+iv. Un/a representante designado/a por el/la Ministro/a Secretario/a General de Gobierno.
+
+v. Un/a representante designado/a por el/la Subsecretario/a de Desarrollo Regional y Administrativo.
+
+vi. Un/a representante de la División de Coordinación Interministerial designado/a por el/la Ministro/a del Interior.
+
+vii. Un/a representante del Gabinete de la Presidencia de la República, designado/a por el/la Presidente/a de la República.
+
+viii. El/La directora/a de la Secretaría de Modernización del Estado del Ministerio de Hacienda.
+
+ix. El/La Directora/a Ejecutivo/a del Laboratorio de Gobierno del Ministerio de Hacienda.
+
+x. El/La Directora/a de la Secretaría de Gobierno Digital del Ministerio de Hacienda.
+
+xi. El/La Presidente de la Comisión Nacional de Evaluación y Productividad.
+
+Los miembros del Comité deberán desempeñar sus cargos mientras la autoridad que los designe lo estime conveniente. La Secretaría de Modernización actuará como Secretaría Ejecutiva del Comité.
 
 Para estos efectos, el Comité deberá sesionar ordinariamente una vez al mes, pudiendo acordar las sesiones extraordinarias que sean necesarias para su adecuado funcionamiento y adoptarán sus acuerdos por mayoría de sus integrantes. El Comité, en su primera sesión, deberá acordar las demás reglas de funcionamiento interno.
 
