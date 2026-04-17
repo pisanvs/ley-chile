@@ -76,7 +76,7 @@ i) sistema de eliminación de desechos.
 
 #### Artículo 8
 
-La autorización será válida por un plazo de tres años contados desde su otorgamiento y se entenderá automáticamente prorrogada por períodos iguales y sucesivos a menos que el propietario o representante legal comunique su voluntad de no continuar sus actividades antes del vencimiento del término original o de sus prórrogas.
+La autorización será válida por un plazo de tres años contado desde su otorgamiento y se entenderá automáticamente prorrogada por períodos iguales y sucesivos, a menos que el propietario o representante legal comunique su voluntad de no continuar sus actividades o que la autoridad sanitaria la deje sin efecto por motivos fundados, tales como: cuando el establecimiento de alimentos hubiere cesado sus actividades o esté siendo utilizado para un fin distinto de aquel para el que fue autorizado, de conformidad con el artículo 12 del presente reglamento.
 
 #### Artículo 9
 
@@ -127,6 +127,10 @@ g) manipulador de alimentos: corresponde a toda persona que trabaje a cualquier 
 h) material de envasado de alimentos: todos los recipientes, como latas, botellas, cajas de cartón u otros materiales, fundas y sacos, o material para envolver o cubrir, tal como papel laminado, película, papel, papel encerado, tela;
 
 i) plagas: insectos, roedores, pájaros y otras especies menores capaces de contaminar directa o indirectamente los alimentos.
+
+j) Estructura de una instalación de alimentos: los elementos resistentes u orgánicos de una construcción, tales como: cimientos, muros soportantes, tabiques que separan salas o áreas, suelos, pilares, techumbres, torres y otros análogos que la componen.
+
+k) Modificación estructural: todo cambio en los elementos resistentes u orgánicos de una construcción, detallados en el literal anterior, que afecte el proceso de elaboración del producto o el producto terminado, en atención a lo dispuesto en los artículos 24 y 25 del presente reglamento. No se considerará modificación estructural las operaciones de mantención de la estructura de instalación de alimentos.
 
 ### Párrafo III
 
@@ -3912,9 +3916,13 @@ El Nitrógeno Básico Volátil Total (N.B.V.T.), en mariscos frescos, enfriados 
 
 #### Artículo 333
 
-Los mariscos destinados al consumo humano no podrán contener más de 80 mcg/100 g de producto de veneno paralítico de moluscos (VPM) ni más de 20 mcg/g de producto de veneno amnésico de los mariscos (VAM) ni dar positiva la prueba del bioensayo para toxina diarreica de los mariscos (VDM).
+Los contenidos máximos de toxinas marinas en mariscos destinados al consumo humano (cuerpo entero o cualquier parte consumible por separado) deberán ser los que se indican a continuación:
 
-En las áreas declaradas como afectadas por marea roja por la autoridad sanitaria, ésta establecerá, mediante resolución, las especies de mariscos cuya recolección o captura queda prohibida. En tales áreas, el Servicio de Salud podrá autorizar mediante resolución fundada, la recolección, captura y procesamiento industrial de mariscos contaminados con toxinas de marea roja en aquellos casos en que se demuestre que su procesamiento disminuye los niveles de toxina por debajo de los límites establecidos en el presente reglamento.
+Los análisis para las determinaciones de toxinas marinas serán la prueba del bioensayo u otros métodos instrumentales reconocidos internacionalmente, los que serán establecidos mediante resolución emanada de este Ministerio.
+
+Los análisis deberán realizarse en laboratorios reconocidos por la Autoridad Sanitaria o por laboratorios reconocidos o autorizados por otras instituciones del Estado que desarrollen acciones de diagnóstico y control para toxinas marinas.
+
+En las áreas declaradas como afectadas por marea roja por la autoridad sanitaria, ésta establecerá, mediante resolución, las especies de mariscos cuya recolección o captura queda prohibida. En tales áreas, la autoridad sanitaria podrá autorizar, mediante resolución fundada, la recolección, captura y procesamiento industrial de mariscos contaminados con toxinas de marea roja en aquellos casos en que se demuestre que su procesamiento disminuye los niveles de toxina por debajo de los límites establecidos en el presente reglamento.
 
 #### Artículo 334
 
@@ -4292,7 +4300,25 @@ Chancaca es el producto obtenido al concentrar y cristalizar el jugo purificado 
 
 Con el nombre de azúcares se entenderá a los carbohidratos endulzantes, monosacáridos y disacáridos refinados, concentrados y/o cristalizados, para efectos de rotulación, los que deberán rotularse con su nombre específico.
 
-> **Nota.** El Art. segundo del DTO 68, Salud, publicado el 23.01.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días después de su publicación.
+Los azúcares se clasificarán en azúcares "tradicionales" y azúcares "no tradicionales".
+
+Por azúcares "tradicionales" se entenderá a los carbohidratos, monosacáridos y disacáridos refinados, concentrados y/o cristalizados, que aportan 4 kcal por gramo, tales como: glucosa, fructosa, galactosa, sacarosa, lactosa y maltosa.
+
+Por azúcares "no tradicionales" se entenderá a los siguientes carbohidratos: Tagatosa y Alulosa.
+
+Cuando, en este reglamento, se mencione a los azúcares sin otra denominación, se entenderá por ellos a los azúcares tradicionales. Además, en el caso de establecer a los azúcares como una condición en los ingredientes de diversos productos regulados en este reglamento, se aceptará su reemplazo, total o parcial, por azúcares no tradicionales.
+
+Ambos tipos de azúcares, tradicionales y no tradicionales, deberán rotularse con su nombre específico en el listado de ingredientes.
+
+En la declaración de nutrientes, los azúcares no tradicionales deberán declararse con su nombre específico y no deberán considerarse ni en el aporte del total de azúcares o azúcares totales, ni en el aporte de hidratos de carbonos disponibles.
+
+El aporte calórico de los azúcares no tradicionales deberá ser considerado en el aporte energético del producto, y se calculará según los factores de conversión energética establecidos, para estos efectos, por el Ministerio de Salud mediante norma técnica publicada en el Diario Oficial.
+
+En los productos elaborados con azúcares no tradicionales, se deberá rotular la siguiente frase, según sea el caso:
+
+- Para el caso de la Alulosa: "Ingestas de 28 gramos/porción o más de Alulosa, podrán producir malestares gastrointestinales o efecto laxante".
+
+- Para el caso de la Tagatosa: "Ingestas de 30 gramos/porción o más de Tagatosa, podrán producir malestares gastrointestinales o efecto laxante".
 
 ### Párrafo II
 
