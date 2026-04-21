@@ -158,6 +158,8 @@ En el caso de fuentes de agua subterránea la Superintendencia podrá exigir un 
 
 INCISO DEROGADO
 
+7. Si la solicitud tiene por objeto la explotación de la concesión para el desarrollo de proyectos turísticos o inmobiliarios, deberá indicarse dicha finalidad como su objetivo principal.
+
 #### Artículo 12º
 
 A.- Presentada la solicitud de concesión y con el único fin de resguardar la coherencia entre los límites del área de concesión y las áreas de expansión urbana definidas en el correspondiente instrumento de planificación territorial, la entidad normativa pondrá dicha solicitud en conocimiento del Ministerio de Vivienda y Urbanismo y de las respectivas municipalidades quienes deberán, en el plazo de sesenta días, emitir un informe con las observaciones que sean procedentes. En caso que no lo hicieren se entenderá que no tienen observaciones. Lo anterior, sin perjuicio de las responsabilidades que se puedan derivar. Lo dispuesto en este artículo no podrá significar, en modo alguno, un retraso en la tramitación de la solicitud de concesión.
@@ -171,6 +173,8 @@ B.- Presentada la solicitud, la entidad normativa podrá ampliar los límites de
 Un extracto de la solicitud de concesión deberá ser publicado por una vez en el Diario Oficial y en un diario de circulación en la región en que se encuentre la concesión solicitada, por el interesado, los días 1° o 15 del mes, o día hábil siguiente si aquellos fueran feriados.
 
 El extracto indicado en el inciso anterior deberá incluir, a lo menos, la identificación del peticionario, el servicio público que se prestará y su localización, los límites del área de servicio, para las concesiones de distribución de agua potable y de recolección de aguas servidas y el punto de descarga y la identificación del cuerpo receptor, en el caso de las concesiones de disposición de aguas servidas.
+
+Asimismo, cuando corresponda al desarrollo de proyectos turísticos o inmobiliarios deberá incluirse en dicho extracto el objetivo principal de la solicitud o ampliación de concesión.
 
 #### Artículo 14°
 
@@ -430,9 +434,11 @@ B.- Para efectos de lo dispuesto en el inciso segundo del artículo anterior, la
 
 Sin perjuicio de lo dispuesto en el inciso anterior, la Superintendencia podrá, por causa fundada, exigir la ampliación del área de servicio en una fecha intermedia a los períodos de fijación tarifaria. En este caso, se establecerán tarifas para la nueva área, las que regirán junto con la entrada en operación de la ampliación. Dichas tarifas tendrán vigencia hasta el término del período en curso y deberán permitir al prestador generar los ingresos requeridos para cubrir los costos incrementales de explotación eficiente y de inversión de su proyecto de expansión optimizado para la nueva área de servicio, sin perjuicio de los eventuales aportes de terceros.
 
+Decretada la ampliación forzada, el concesionario deberá certificar la factibilidad a que se refiere el artículo 48 dentro del plazo máximo de veinte días hábiles contado desde la publicación del decreto de ampliación correspondiente, plazo que será prorrogable por igual período en casos justificados.
+
 #### Artículo 33°
 
-C.- Tratándose de proyectos de viviendas sociales a que se refiere el inciso segundo del artículo 33°, a ejecutarse dentro del límite urbano o de extensión urbana, pero fuera del territorio operacional, cualquier concesionario podrá comprometerse con el urbanizador a cargo de ese proyecto, a presentar, dentro del plazo de 30 días contado desde la fecha del convenio, una solicitud de nueva concesión o ampliación de ella. Celebrado el convenio, el postulante a concesionario que lo suscribió deberá certificar la factibilidad de servicio. La factibilidad otorgada será válida para todos los efectos legales, aun cuando en definitiva sea otro prestador el que se adjudique la concesión. El concesionario que habiendo suscrito el convenio a que se refiere este artículo, no presentare la solicitud de concesión ante la Superintendencia dentro del plazo fijado, incurrirá en una infracción administrativa que será sancionada de acuerdo a los montos que establece la letra e), del inciso primero, del artículo 11 de la ley N° 18.902, sin perjuicio de su responsabilidad contractual.
+C.- Tratándose de proyectos de viviendas sociales a que se refiere el inciso segundo del artículo 33°, a ejecutarse dentro del límite urbano o de extensión urbana, pero fuera del territorio operacional, cualquier concesionario podrá comprometerse con el urbanizador a cargo de ese proyecto, a presentar, dentro del plazo de 30 días contado desde la fecha del convenio, una solicitud de nueva concesión o ampliación de ella. Celebrado el convenio, el postulante a concesionario que lo suscribió deberá certificar la factibilidad de servicio. La factibilidad otorgada será válida para todos los efectos legales, aun cuando en definitiva sea otro prestador el que se adjudique la concesión. El concesionario que habiendo suscrito el convenio a que se refiere este artículo, no presentare la solicitud de concesión ante la Superintendencia dentro del plazo fijado, incurrirá en una infracción administrativa que será sancionada de acuerdo a los montos que establece la letra a) del artículo 11 D de la ley Nº 18.902, sin perjuicio de su responsabilidad contractual.
 
 La suscripción del convenio no puede significar cobros de ninguna especie y su propósito es permitir otorgar la factibilidad de servicio que exigen las normas correspondientes para el desarrollo de los proyectos sociales a que se refiere el inciso segundo del artículo 33°.
 
@@ -628,6 +634,18 @@ Dentro de su territorio operacional la concesionaria de servicios sanitarios est
 
 Podrá, también, otorgar certificados de factibilidad el único postulante a una concesión de servicio sanitario, con posterioridad al acto público establecido en el artículo 14º y condicionando tal factibilidad a la adjudicación definitiva de la concesión, previo informe favorable de la entidad normativa.
 
+Asimismo, la prestadora en explotación estará obligada a certificar las solicitudes de factibilidad de los siguientes inmuebles urbanos que se ubiquen dentro de la franja de doscientos metros que rodea al territorio operacional respectivo: a) viviendas y equipamientos existentes a la fecha de publicación de la ley que moderniza el régimen sancionatorio de la Superintendencia de Servicios Sanitarios y, b) viviendas de interés público en conformidad con la ley Nº 21.450 y equipamientos de interés público o en beneficio de la comunidad como salud o educación. Lo anterior sólo será exigible si la sumatoria de dichas certificaciones no representa un porcentaje que supere el 5% de la demanda máxima diaria del programa de desarrollo vigente en la localidad en que se solicita la factibilidad, dentro del período máximo de cinco años correspondiente a la actualización del programa de desarrollo respectivo.
+
+Excepcionalmente, el prestador podrá denegar las factibilidades a que se refiere el inciso anterior cuando la demanda adicional pueda afectar la calidad y continuidad del servicio, lo que deberá ser oportunamente calificado por la Superintendencia, en conformidad con los criterios de otorgamiento o denegación que establezca el reglamento. Asimismo, no será obligatorio para el prestador otorgar dichas factibilidades cuando se trate de una empresa con menos de diez mil clientes, o cuyos clientes del área operacional de la localidad que se trate no superen los mil.
+
+Para efectos del otorgamiento de factibilidades dentro de la franja de doscientos metros a que alude el inciso tercero, las empresas sanitarias deberán priorizar las solicitudes de viviendas y equipamientos de interés público, conforme a las instrucciones que emitirá la Superintendencia.
+
+La ampliación otorgada de conformidad con los incisos anteriores, junto a su nueva área geográfica, quedará establecida mediante un decreto exento dictado por el Ministerio de Obras Públicas, que deberá incluir los planos respectivos. Este decreto deberá dictarse con la actualización de los programas de desarrollo respectivos.
+
+En caso de que existan territorios operacionales de distinto operador contiguos al área susceptible de dar factibilidad conforme a este artículo, cualquiera de ellos podrá otorgarla, y la Superintendencia deberá resolver las eventuales discrepancias que puedan suscitarse entre concesionarios y solicitantes.
+
+Las certificaciones de factibilidad que se otorguen de conformidad al inciso tercero tendrán la vigencia de un año contado desde su emisión. Dicho plazo se suspenderá cuando se hayan realizado gestiones útiles para dar curso al respectivo proyecto por el solicitante. Las discrepancias sobre la utilidad de una gestión entre el prestador y quien haya obtenido la certificación serán resueltas por la Superintendencia.
+
 #### Artículo 49°
 
 El Presidente de la República, a través del Ministerio de Bienes Nacionales y de acuerdo a las normas establecidas en el decreto ley 1.939, de 1977, podrá administrar y disponer de terrenos fiscales con la finalidad de que en ellos se efectúen instalaciones de servicios sanitarios por parte de un prestador de servicios sanitarios. Para estos efectos, no regirán las limitaciones de plazos que señala ese cuerpo legal para arrendar o conceder en uso estos inmuebles, ni la prohibición de transferencia del contrato de arrendamiento o de sus mejoras.
@@ -788,9 +806,15 @@ Sin perjuicio de lo anterior, toda adquisición de bienes o contratación de ser
 
 #### Artículo 68º
 
-También se considerará información privilegiada, para los efectos de lo dispuesto en los artículos 60, 164, 165, 166 y 167 de la ley Nº 18.045, aquélla referida a la gestión o planes de inversión de una empresa prestadora de servicios sanitarios, no divulgada al mercado, cuyo conocimiento sea capaz de influir en el precio de terrenos e inmuebles dentro o fuera de su respectivo territorio operacional. La expresión "valores" o "valores de oferta pública" a que hacen mención las citadas normas, se entenderá para estos efectos referida a terrenos o inmuebles.
+También se considerará información privilegiada, para los efectos de lo dispuesto en los artículos 60, 164, 165, 166 y 167 de la ley Nº 18.045, de mercado de valores, aquella información referida a la gestión o planes de inversión de una empresa prestadora de servicios sanitarios, no divulgada al mercado, cuyo conocimiento, por su naturaleza, sea capaz de influir en el precio de terrenos e inmuebles dentro o fuera de su respectivo territorio operacional. Las expresiones "valores" o "valores de oferta pública" a que hacen mención dichas normas, se entenderán para estos efectos referidas a terrenos o inmuebles.
 
-Lo anterior no será aplicable en los casos en que el solicitante de una concesión de servicio sanitario o el adquirente de una concesión ya otorgada manifieste expresamente, en su solicitud o contrato de transferencia, que el objetivo principal de la explotación de la respectiva concesión en una localidad o área geográfica delimitada es el desarrollo de proyectos turísticos e inmobiliarios y, en mérito de los antecedentes disponibles, se otorgue la concesión o se autorice la transferencia bajo estas condiciones.
+Se considerará que la información ha sido divulgada al mercado cuando sea de público conocimiento y, para el caso de la solicitud de concesión o de su ampliación, desde la publicación de ella en el Diario Oficial, conforme a lo dispuesto en el artículo 13.
+
+#### Artículo 68 bis
+
+La persona perjudicada por actuaciones que impliquen infracción a las disposiciones a que se refiere el artículo precedente tendrá derecho a demandar indemnización en contra de las personas infractoras.
+
+La acción para demandar perjuicios prescribirá en cuatro años, contados desde la fecha en que la información privilegiada haya sido divulgada.
 
 #### Artículo 69º
 

@@ -66,7 +66,7 @@ d) Estudiar e informar al Ministerio de Obras Públicas las solicitudes de expro
 
 e) Aplicar las sanciones que señala esta ley, de conformidad a su Título III;
 
-f) Administrar provisionalmente el servicio, a expensas del infractor respectivo, por intermedio de un administrador delegado, designado de entre las personas inscritas en el Registro de Administradores Delegados Provisionales, establecido en el decreto con fuerza de ley N° 382, de 1988, del Ministerio de Obras Públicas;
+f) Administrar provisionalmente el servicio, a expensas del infractor respectivo, por intermedio de un administrador delegado, designado de entre las personas inscritas en el Registro de Administradores Delegados Provisionales, establecido en el decreto con fuerza de ley N° 382, de 1988, del Ministerio de Obras Públicas. Esta designación podrá llevarse a cabo antes de la declaración de caducidad en los casos en que la concesionaria afectada se allane expresamente a dicho proceso;
 
 g) Conferir poder judicial a abogados habilitados para el ejercicio de la profesión, aun cuando no sean funcionarios del servicio, y delegarles las facultades contenidas en los dos incisos del artículo 7° del Código de Procedimiento Civil;
 
@@ -86,7 +86,11 @@ El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina 
 
 m) Contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable de conformidad con lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y en la demás normativa aplicable.
 
-n) Las demás funciones y atribuciones que las leyes le asignen.
+n) Instruir, mediante resolución fundada, en caso de fallas reiteradas, de infraestructura defectuosa o ante el riesgo inminente de incumplir con una adecuada prestación de los servicios, la inclusión en el plan de desarrollo de soluciones específicas, que sean claramente identificadas.
+
+Previo a la referida instrucción, la Superintendencia notificará a la empresa prestadora, le especificará los hechos que podrían motivar su instrucción y le solicitará que en el plazo de hasta treinta días hábiles proponga las obras o iniciativas para resolver la situación. Dicha propuesta será ponderada por la Superintendencia en su instrucción. Las obras que se ejecuten de conformidad a la instrucción podrán sujetarse a análisis tarifario al amparo del decreto con fuerza de ley Nº 70, de 1988, del Ministerio de Obras Públicas, cuando corresponda.
+
+ñ) Las demás funciones y atribuciones que la ley le encomiende.
 
 #### Artículo 5º
 
@@ -168,57 +172,151 @@ Procedimiento y Sanciones
 
 #### Artículo 11
 
-Los prestadores de servicios sanitarios que incurrieren en alguna infracción a las leyes, reglamentos y demás normas relacionadas con los servicios sanitarios, o en incumplimiento de las instrucciones, órdenes y resoluciones que dicte la Superintendencia, podrán ser objeto de la aplicación por ésta, sin perjuicio de las establecidas específicamente en esta ley o en otros cuerpos legales o reglamentarios, de algunas de las siguientes multas a beneficio fiscal en los siguientes casos:
+Las entidades sometidas a la fiscalización de la Superintendencia que incurran en alguna infracción a las leyes, reglamentos y demás normas relacionadas con los servicios sanitarios, o que no cumplan con las instrucciones, órdenes y resoluciones que dicte, podrán ser sancionadas de conformidad a este Título, sin perjuicio de las medidas de cumplimiento que establece la ley.
 
-a) De una a cincuenta unidades tributarias anuales, tratándose de infracciones que importen deficiencias en la calidad, continuidad u obligatoriedad de los servicios, cobros indebidos, trato económico discriminatorio a los usuarios, deficiencias en la atención de los reclamos de los usuarios, daño a las redes u obras generales de los servicios, o incumplimiento de la obligación de entregar información requerida por la Superintendencia en conformidad a la ley.
+Las infracciones que corresponde aplicar a la Superintendencia se clasificarán en gravísimas, graves y leves.
 
-b) De cincuenta y una a mil unidades tributarias anuales, cuando se trate de infracciones que pongan en peligro o afecten gravemente la salud de la población, o que afecten a la generalidad de los usuarios de los servicios.
-
-c) De una a cien unidades tributarias anuales, cuando se trate de infracciones cometidas por los prestadores de servicios sanitarios, que importen el no acatamiento de las obligaciones y plazos establecidos por la ley respecto de las concesiones a que se refiere el decreto con fuerza de ley Nº 382, de 1988, del Ministerio de Obras Públicas, así como de las órdenes escritas y requerimientos, debidamente notificados, y plazos fijados por la Superintendencia de Servicios Sanitarios, en ejercicio de las atribuciones que la ley le encomiende, en relación con materias de su competencia.
-
-d) De cincuenta y una a quinientas unidades tributarias anuales cuando se trate de infracciones relativas a la entrega de información falsa o manifiestamente errónea; y al no cumplimiento de lo dispuesto en los artículos 63º, 64º, 65º, 66º, 67º y 70º del decreto con fuerza de ley Nº 382, de 1988, del Ministerio de Obras Públicas.
-
-e) De cincuenta y una a diez mil unidades tributarias anuales cuando se trate del incumplimiento del programa de desarrollo a que se refiere el artículo 14º del decreto con fuerza de ley Nº 382, de 1988, del Ministerio de Obras Públicas.
-
-f) De cincuenta y una a mil unidades tributarias anuales cuando se trate de la entrega o uso indebido de información privilegiada.
-
-Los establecimientos que incurrieren en alguna infracción a las leyes, reglamentos y demás normas relacionadas con las descargas de residuos industriales líquidos o en incumplimiento de las instrucciones, órdenes y resoluciones que dicte la Superintendencia, podrán ser objeto de la aplicación por ésta, sin perjuicio de las establecidas específicamente en esta ley o en otros cuerpos legales o reglamentarios, de alguna de las siguientes sanciones:
-
-1. Multa a beneficio fiscal en los siguientes casos:
-
-a) De una a cien unidades tributarias anuales, tratándose de los responsables de descargas de residuos industriales que no cumplan con la normativa vigente.
-
-b) De cincuenta y una a mil unidades tributarias anuales, cuando se trate de infracciones que pongan en peligro o afecten gravemente la salud de la población, o que afecten a la generalidad de los usuarios de los servicios.
-
-2. Clausura en los siguientes casos:
-
-a) Cuando los establecimientos generadores de residuos industriales líquidos no cumplan las normas de emisión vigentes;
-
-b) Cuando la descarga de sus efluentes en redes de alcantarillado público provoque el rebase de las mismas, ya sea en el lugar de la descarga o en otro diverso;
-
-c) Cuando la descarga de sus efluentes en redes de alcantarillado público dañe o interfiera el funcionamiento de la planta de tratamiento de aguas servidas asociada a dicha red;
-
-d) Cuando la descarga de sus efluentes en cursos o masas de aguas superficiales o subterráneas afecte a las captaciones para agua potable;
-
-e) Cuando la descarga de sus efluentes en cursos o masas de aguas superficiales o subterráneas pongan en peligro o afecten gravemente la salud de la población o provoquen graves perjuicios pecuniarios a actividades económicas establecidas.
-
-En los casos de las letras b), c), d) y e) en que no existan normas de emisión exigibles al establecimiento, la autoridad podrá clausurar el establecimiento hasta por 30 días. En todo caso, el plazo será menor a 30 días, si se dictare la norma aplicable al caso específico.
-
-La clausura podrá afectar a la totalidad del establecimiento o a parte de sus instalaciones. Sólo se aplicará cuando el establecimiento haya sido previamente multado por una infracción de la misma naturaleza, en aquellos casos en que el daño no haya sido inminente. Si lo fue, la clausura sólo tendrá lugar cuando no exista otro medio eficaz para detener el daño que la descarga provoque y únicamente mientras dure la necesidad de mantenerla. Esta medida deberá aplicarse por resolución fundada en la que se expresará, especialmente, la circunstancia de no existir otro medio eficaz para detener el daño.
-
-Las multas señaladas en este artículo podrán aumentarse hasta el doble del monto máximo señalado para cada caso cuando se trate de infracciones reiteradas. Podrá, además, acumularse la pena de multa a la clausura contemplada en este artículo.
-
-El monto de la multa será determinado prudencialmente en consideración a la cantidad de usuarios afectados y la gravedad de la infracción.
+Las responsabilidades en que incurra un infractor por aquellas establecidas en esta ley se entienden sin perjuicio de las demás responsabilidades legales que pudieran corresponderle.
 
 #### Artículo 11
 
-A.- Los funcionarios de la entidad normativa, pertenecientes o asimilados a las plantas de Profesionales y Fiscalizadores, designados como fiscalizadores de los servicios sanitarios y de los establecimientos que generan residuos industriales líquidos, tendrán la calidad de ministros de fe en la verificación de los hechos constitutivos de infracciones de la normativa vigente.
+A.- Son infracciones gravísimas las siguientes:
+
+a) Incumplir las exigencias de calidad o continuidad de los servicios públicos sanitarios y afectar con ello gravemente la salud de la población.
+
+b) Incumplir las exigencias de continuidad de los servicios públicos sanitarios o de calidad del agua potable o de calidad del servicio de recolección, disposición o tratamiento de aguas servidas, siempre y cuando se afecte al menos a ochenta mil clientes de una localidad dentro del área de la concesión, o al menos a un tercio de los clientes, si se trata de una localidad con más de mil clientes, o a más del 50% de los clientes de una localidad con menos de mil clientes. En todos los casos por un período igual o superior a treinta y seis horas continuas.
+
+El reglamento determinará los criterios para mensurar la afectación a que se refiere este literal y que sea consecuencia de la calidad del servicio de recolección, disposición o tratamiento de aguas servidas.
+
+Para efectos de esta ley, se entenderá por localidad una unidad territorial delimitada en función de la prestación de servicios sanitarios, la cual puede comprender una comuna, una agrupación de comunas o una unidad geográfica menor. La Superintendencia deberá llevar una lista actualizada de las localidades de cada una de las concesionarias.
+
+c) Incumplir con las obras comprometidas en el programa de desarrollo, en conformidad con el decreto con fuerza de ley Nº 382, de 1988, del Ministerio de Obras Públicas.
+
+#### Artículo 11
+
+B.- Son infracciones graves las siguientes:
+
+a) Incumplir las exigencias de continuidad de los servicios públicos sanitarios o de calidad del agua potable o de calidad del servicio de recolección, disposición o tratamiento de aguas servidas, siempre y cuando se afecte al menos a ochenta mil clientes de una localidad dentro del área de la concesión, o al menos a un tercio de los clientes, si se trata de una localidad con más de mil clientes, o a más del 50% de los clientes de una localidad con menos de mil clientes. En todos los casos por un periodo superior a doce horas continuas.
+
+b) Afectar el normal funcionamiento de alguna localidad o parte de ésta como consecuencia de daños, de mantención deficiente o del mal estado, de la infraestructura sanitaria necesaria para la prestación de los servicios públicos sanitarios, imputables al prestador.
+
+c) Incumplir con el deber de contar con un plan de prevención y atención de emergencias. Un reglamento dictado por el Ministerio de Obras Públicas indicará los términos mínimos de dicho plan y las condiciones para su aprobación.
+
+d) Entregar información falsa a la Superintendencia u ocultar antecedentes relevantes, a sabiendas, así como impedir la fiscalización, encubrir una infracción o evitar el ejercicio de las atribuciones de la Superintendencia.
+
+#### Artículo 11
+
+C.- Son infracciones leves las siguientes:
+
+a) Efectuar cobros indebidos o tratos económicos discriminatorios a los usuarios.
+
+b) Atender en forma deficiente o no atender los reclamos de los usuarios, según los estándares establecidos por la Superintendencia.
+
+c) Incumplir las instrucciones impartidas por la Superintendencia, debidamente notificadas.
+
+d) Entregar información manifiestamente errónea a la Superintendencia.
+
+e) Incumplir la exigencia de obligatoriedad del otorgamiento de la factibilidad del servicio dentro del territorio operacional o zona de concesión, en conformidad con lo dispuesto en el artículo 48 del decreto con fuerza de ley Nº 382, de 1988, del Ministerio de Obras Públicas.
+
+f) No mantener actualizado el programa de desarrollo, de conformidad a lo establecido en el decreto con fuerza de ley Nº 382, de 1988, del Ministerio de Obras Públicas.
+
+g) Incumplir con lo dispuesto en los artículos 63 al 67 del Título IV del decreto con fuerza de ley Nº 382, de 1988, del Ministerio de Obras Públicas.
+
+h) La entrega o uso indebido de información privilegiada, conforme al artículo 68 del decreto con fuerza de ley Nº 382, de 1988, del Ministerio de Obras Públicas.
+
+i) Toda otra infracción a las leyes que regulan el sector sanitario en que incurra una empresa concesionaria, en su condición de prestadora de servicios sanitarios, que no califique como gravísima o grave conforme a los artículos precedentes y no tenga una sanción asignada.
+
+#### Artículo 11
+
+D.- Las sanciones a las infracciones establecidas en los artículos precedentes serán las siguientes:
+
+a) Las infracciones gravísimas podrán ser sancionadas con multa de hasta 10.000 unidades tributarias anuales.
+
+b) Las infracciones graves podrán ser sancionadas con multa de hasta 5.000 unidades tributarias anuales.
+
+c) Las infracciones leves podrán ser sancionadas con amonestación escrita o multa de hasta 500 unidades tributarias anuales; salvo la prevista en la letra h) del artículo 11 C, que será sancionada con multa de hasta 1.000 unidades tributarias anuales.
+
+#### Artículo 11
+
+E.- Son circunstancias atenuantes de responsabilidad:
+
+a) Las acciones unilaterales de reparación o mitigación que realice el infractor, sin perjuicio de los planes de desarrollo y las obligaciones compensatorias que determine esta ley o que deriven de instrucciones que imparta la Superintendencia.
+
+b) La colaboración sustancial que el infractor preste en el correspondiente proceso administrativo.
+
+c) La ausencia de sanciones previas del infractor, en la misma localidad y por el mismo tipo de infracción, en los últimos treinta y seis meses.
+
+d) La autodenuncia, cuando esta sea acompañada del cese de los hechos que originaron la infracción o de las medidas de mitigación implementadas, según corresponda. Esta atenuante no aplicará en el caso que la Superintendencia hubiese iniciado la investigación respecto de los mismos hechos.
+
+Son circunstancias agravantes de responsabilidad:
+
+a) La reincidencia. Existe reincidencia cuando el prestador ha sido sancionado, en la misma localidad y por el mismo tipo de infracción, mediante resolución firme y ejecutoriada en los últimos treinta y seis meses.
+
+b) El carácter continuado de la infracción.
+
+#### Artículo 11
+
+F.- Para la determinación del monto de las multas señaladas en esta ley, la Superintendencia deberá aplicar prudencialmente los siguientes criterios:
+
+1. La gravedad de la conducta, basada en el daño o peligro ocasionado.
+
+2. El beneficio económico obtenido con motivo de la infracción, en caso de que lo hubiese.
+
+3. El menor tamaño o la menor capacidad económica del infractor dentro de la industria sanitaria.
+
+4. Las circunstancias atenuantes y agravantes que concurran.
+
+5. La previsibilidad de su acaecimiento.
+
+6. El número de usuarios afectados.
+
+7. El grado de avance de las obras y compromisos, en el caso de infracciones relativas al programa de desarrollo.
+
+En ningún caso se podrá aplicar al infractor, por los mismos hechos y fundamentos jurídicos, dos o más sanciones administrativas.
+
+La Superintendencia deberá fijar vía resolución la metodología y ponderación de atenuantes y agravantes para el cálculo del monto final de la sanción.
+
+#### Artículo 11
+
+G.- Los establecimientos que incurran en alguna infracción a las leyes, reglamentos y demás normas relacionadas con las descargas de residuos industriales líquidos vinculados a las prestaciones o servicios de las empresas sanitarias, o en incumplimiento de las instrucciones, órdenes y resoluciones que dicte la Superintendencia, podrán ser amonestados o sancionados con una multa de hasta 1.000 unidades tributarias anuales. Lo anterior es sin perjuicio de las sanciones establecidas específicamente en esta ley o en otros cuerpos legales.
+
+La Superintendencia, cuando no existan otros medios eficaces y oportunos para evitar el riesgo de afectar gravemente o poner en peligro el funcionamiento de los servicios sanitarios o la salud de la población, podrá ordenar la clausura total o parcial de establecimientos generadores de residuos industriales líquidos vinculados a las prestaciones o servicios de las empresas sanitarias, en los siguientes casos:
+
+a) Cuando no cumplan con las normas de emisión vigentes que sean de su competencia, en conformidad a lo dispuesto en el artículo 2º.
+
+b) Cuando la descarga de sus efluentes en redes de alcantarillado público provoque el rebase de éstas, ya sea en el lugar de la descarga o en otro diverso.
+
+c) Cuando la descarga de sus efluentes en una red de alcantarillado público dañe o interfiera el funcionamiento de la planta de tratamiento de aguas servidas asociada a dicha red.
+
+Para el cumplimiento de la medida regulada en este artículo, la Superintendencia podrá requerir el auxilio de la fuerza pública.
+
+#### Artículo 11
+
+H.- Iniciado un procedimiento sancionatorio, el prestador al que se le hayan formulado cargos por infracciones graves o leves, podrá presentar en el plazo de quince días, contado desde la notificación del acto que lo incoa, un plan de cumplimiento. El presunto infractor podrá solicitar a la Superintendencia, por motivos fundados, una ampliación de plazo por siete días adicionales. La Superintendencia dentro del plazo de treinta días hábiles deberá pronunciarse sobre dicho plan, y podrá establecer condiciones para su cumplimiento.
+
+Se entenderá como plan de cumplimiento el conjunto de acciones y metas presentado por el presunto infractor para dar pleno cumplimiento a la normativa sanitaria que ha sido objeto de la formulación de cargos, junto con adoptar las medidas necesarias para poner término a los efectos negativos, dentro de un plazo fijado por la Superintendencia.
+
+En ningún caso se aprobarán planes de cumplimiento que sean manifiestamente dilatorios o que generen, al presunto infractor, un provecho por sus incumplimientos.
+
+Aprobado un plan de cumplimiento por la Superintendencia, el procedimiento sancionatorio se suspenderá y el plan de cumplimiento seguirá en cuaderno separado. Sin embargo, dicho procedimiento se reanudará cuando se incumplan las obligaciones contraídas en el plan, en cuyo caso se dictará una resolución que así lo establezca, y se fijará el plazo para que el presunto infractor presente sus descargos. A su vez, en caso de no cumplimiento de dicho plan, se podrá aplicar hasta el doble de la multa máxima que corresponda a la infracción original.
+
+El plan de cumplimiento deberá ajustarse a los principios de integridad, eficacia y verificabilidad, y deberá contemplar mejoras dirigidas a evitar incumplimientos futuros. Una resolución fundada dictada por la Superintendencia, de conformidad a lo que disponga el reglamento referido en el inciso final, establecerá los contenidos de los respectivos planes de cumplimiento. Ella deberá al menos considerar una descripción de la infracción incurrida y sus efectos; un plan de acciones y metas asociados a plazos y costos, y un plan de monitoreo o seguimiento.
+
+Cuando no se cumplan los requisitos señalados o la infracción, por su naturaleza, no sea susceptible de un plan de cumplimiento, la Superintendencia rechazará el plan propuesto. En ningún caso serán susceptibles de planes de cumplimiento las infracciones que produzcan un riesgo a la salud de la población.
+
+Cumplido el plan dentro de los plazos establecidos y de acuerdo a las acciones y metas fijadas en él, el procedimiento administrativo sancionatorio se dará por concluido.
+
+Un reglamento dictado por el Ministerio de Obras Públicas establecerá los criterios de un plan de cumplimiento, así como también los que deberá considerar la Superintendencia para resolver, en conformidad al presente artículo.
+
+#### Artículo 11
+
+I.- Los funcionarios de la entidad normativa, pertenecientes o asimilados a las plantas de Profesionales y Fiscalizadores, designados como fiscalizadores de los servicios sanitarios y de los establecimientos que generan residuos industriales líquidos, tendrán la calidad de ministros de fe en la verificación de los hechos constitutivos de infracciones de la normativa vigente.
 
 Los hechos establecidos por dichos ministros de fe constituirán una presunción legal.
 
 #### Artículo 11
 
-B.- Con a lo menos noventa días de anticipación a la entrada en operación de los sistemas de tratamiento, los establecimientos generadores de residuos industriales líquidos deberán dar aviso por escrito a la Superintendencia de Servicios Sanitarios.
+J.- Con a lo menos noventa días de anticipación a la entrada en operación de los sistemas de tratamiento, los establecimientos generadores de residuos industriales líquidos deberán dar aviso por escrito a la Superintendencia de Servicios Sanitarios.
 
 Los procesos y sistemas productivos tendrán el carácter de confidencial. Los insumos peligrosos y los efluentes serán de conocimiento público.
 
@@ -226,7 +324,7 @@ El aviso a que se refiere el inciso primero informará acerca de los insumos, pr
 
 #### Artículo 11
 
-C.- Con el objeto de validar los informes de autocontrol presentados por el establecimiento emisor, la Superintendencia podrá fiscalizar los sistemas productivos, el sistema de tratamiento de los efluentes y sus sistemas de control.
+K.- Con el objeto de validar los informes de autocontrol presentados por el establecimiento emisor, la Superintendencia podrá fiscalizar los sistemas productivos, el sistema de tratamiento de los efluentes y sus sistemas de control.
 
 Serán de cargo del establecimiento generador de los residuos industriales líquidos todos los costos involucrados en los informes periódicos, incluidos los respectivos muestreos y análisis de laboratorios; estos últimos deberán ser realizados por laboratorios acreditados en el Sistema Nacional de Acreditación.
 
@@ -234,7 +332,7 @@ Esta disposición será, además, aplicable respecto de los establecimientos que
 
 #### Artículo 11
 
-D.- En ejercicio de su facultad de verificar el cumplimiento de las normas de emisión, la Superintendencia podrá requerir, en casos calificados, que deberá expresar en la respectiva resolución, la realización de muestreos y análisis adicionales a los establecidos en la resolución a que se refiere el artículo 11 B, cuyo costo será de cargo del generador de residuos industriales líquidos.
+L.- En ejercicio de su facultad de verificar el cumplimiento de las normas de emisión, la Superintendencia podrá requerir, en casos calificados, que deberá expresar en la respectiva resolución, la realización de muestreos y análisis adicionales a los establecidos en la resolución a que se refiere el artículo 11 J, cuyo costo será de cargo del generador de residuos industriales líquidos.
 
 Si de la fiscalización, de los informes periódicos que debe emitir el generador de residuos industriales líquidos o de los muestreos y análisis adicionales resultaren infringidas las normas de emisión o la normativa vigente, la Superintendencia le dará un plazo para que subsane la situación, sin perjuicio de las sanciones que le pueda imponer, de conformidad a la ley.
 
@@ -242,19 +340,17 @@ Si de la fiscalización, de los informes periódicos que debe emitir el generado
 
 Las sanciones serán aplicadas por resolución del Superintendente.
 
-Las multas impuestas por la Superintendencia deberán ser pagadas en la Tesorería General de la República, dentro del plazo de diez días contado desde la fecha de la notificación de la resolución respectiva.
+Las multas impuestas por la Superintendencia deberán ser pagadas en la Tesorería General de la República, dentro del plazo de diez días contado desde la fecha de la notificación de la resolución respectiva, sin perjuicio de lo dispuesto en el artículo siguiente.
+
+El pago de la multa deberá ser acreditado ante la Superintendencia, dentro de los diez días siguientes a la fecha en que esta debió ser pagada.
 
 #### Artículo 13
 
-El afectado podrá reclamar de la aplicación de la sanción o de su monto, ante el juez de letras en lo civil que corresponda, dentro del plazo de diez días contado desde la fecha de su notificación.
+El interesado podrá reclamar de la sanción o de su monto ante la Corte de Apelaciones de Santiago, de conformidad con el régimen de reclamación establecido en el artículo 32.
 
-La notificación de la reclamación interpuesta suspenderá la aplicación de la sanción, sin perjuicio de que, en el caso de las multas, los reajustes e intereses a que se refiere el artículo 16 se devenguen desde el undécimo día de notificada la resolución del Superintendente que aplicó la sanción.
+La notificación de la reclamación interpuesta suspenderá la aplicación de la sanción. Los intereses a que se refiere el artículo 16 se devengarán desde el décimo día desde que la sentencia judicial quede firme y ejecutoriada.
 
-La reclamación se someterá a las normas del procedimiento sumario.
-
-Las sentencias de primera o de segunda instancia que no den lugar a la reclamación, condenarán necesariamente en costas al reclamante.
-
-El pago de las multas más los reajustes e intereses a que se refiere el artículo 16, deberá efectuarse dentro del quinto día de ejecutoriado el fallo.
+El pago de las multas más los intereses a que se refiere el artículo 16 deberá efectuarse dentro del décimo día de ejecutoriado el fallo.
 
 #### Artículo 14
 
@@ -264,9 +360,7 @@ En este juicio, el demandado no podrá oponer otras excepciones que la de prescr
 
 #### Artículo 15
 
-La Superintendencia no podrá aplicar multa a un infractor, luego de transcurridos cuatro años de la fecha en que se hubiere cometido la infracción.
-
-La acción de cobro de una multa prescribirá en el plazo de dos años, contado desde que se hizo exigible conforme a lo establecido en los artículos 13 y 14.
+La Superintendencia no podrá aplicar multa a un infractor luego de transcurridos tres años de la fecha en que se hubiere cometido la infracción. Este plazo de prescripción se interrumpirá con la notificación de la formulación de cargos por los hechos constitutivos de la infracción.
 
 #### Artículo 16
 
@@ -276,9 +370,9 @@ Si la multa no fuere procedente y, no obstante, hubiere hubiere sido enterada en
 
 #### Artículo 17
 
-El afectado por la caducidad de la concesión a que se refiere el CAPITULO III, del TITULO II del decreto con fuerza de ley N° 382, de 1988, del Ministerio de Obras Públicas, podrá reclamar de ella ante el juez de letras en lo civil que corresponda, dentro del plazo de diez días, contado desde la fecha de notificación, por la Superintendencia, del decreto supremo que la declara.
+El titular de la concesión a que se refiere el Capítulo III del Título II del decreto con fuerza de ley Nº 382, de 1988, del Ministerio de Obras Públicas, que haya sido caducada, podrá reclamar ante la Corte de Apelaciones de Santiago de conformidad con el régimen de reclamación establecido en el artículo 32, y deberá computarse el plazo desde la fecha de notificación por la Superintendencia del decreto supremo que declara dicha caducidad.
 
-La reclamación se someterá a las normas del procedimiento sumario y su interposición no suspenderá la caducidad decretada, salvo que el juez de la causa resuelva en contrario.
+La declaración de caducidad sólo surtirá efecto una vez transcurrido el plazo de reclamación previsto en el artículo 32 sin que se hubiere deducido reclamo, o una vez que la sentencia que resuelva la reclamación se encuentre firme. A partir de ese momento comenzará a correr el plazo para efectuar la licitación de las concesiones caducadas y sus bienes afectados y designar al administrador provisional, a menos que éste haya sido designado previamente por falta de oposición del concesionario interesado.
 
 #### Artículo 18
 
@@ -299,6 +393,10 @@ Disposiciones varias
 Los directores, gerentes, funcionarios, empleados o auditores externos de una entidad sometida a la fiscalización de la Superintendencia que alteren o desfiguren antecedentes o datos, correspondencia u otro documento cualquiera o que oculten o destruyan estos elementos, con el fin de dificultar, desviar o eludir la fiscalización que corresponda ejercer a la Superintendencia de acuerdo con la ley, serán castigados con la pena de multa de 100 a 1.000 unidades tributarias mensuales. También sufrirán como pena accesoria la de inhabilitación por cinco años para desempeñar cargos de director, administrador, gerente o auditor externo de una sociedad anónima.
 
 Si no se paga la multa el condenado sufrirá por vía de sustitución y apremio, un día de prisión por cada diez unidades tributarias mensuales de multa, no pudiendo exceder la prisión de 60 días.
+
+#### Artículo 19 ter
+
+Cuando en el ejercicio de sus funciones los funcionarios de la Superintendencia de Servicios Sanitarios tomen conocimiento de hechos que puedan ser constitutivos de los delitos señalados en el artículo 68 del decreto con fuerza de ley Nº 382, de 1988, del Ministerio de Obras Públicas, el plazo de veinticuatro horas a que se refiere el artículo 176 del Código Procesal Penal sólo se contará desde que la Superintendencia de Servicios Sanitarios haya efectuado la investigación correspondiente que le permita confirmar la existencia de tales hechos y de sus circunstancias, sin perjuicio de las sanciones administrativas que pueda aplicar por esas mismas situaciones.
 
 #### Artículo 20
 
@@ -382,7 +480,7 @@ De la información
 
 El Superintendente podrá requerir a las personas sometidas a su fiscalización y a las relacionadas que mantienen transacciones con aquellas, la información que fuere necesaria para el ejercicio de sus funciones. Respecto de las empresas relacionadas, sólo podrá solicitar la información referida a las transacciones que hayan realizado con la empresa sanitaria.
 
-El incumplimiento de la disposición, será sancionado con la multa establecida en el inciso primero, letra a), del artículo 11 de esta ley.
+El incumplimiento de lo dispuesto en el inciso anterior será sancionado como una infracción leve, de conformidad con lo dispuesto en los artículos 11 C y siguientes.
 
 Las personas requeridas por la Superintendencia en uso de la facultad señalada precedentemente, sólo podrán exceptuarse de entregar la información solicitada, invocando una norma legal vigente sobre secreto.
 
@@ -408,19 +506,31 @@ De los Recursos
 
 El plazo para la interposición del recurso de reposición establecido en el artículo 9º de la ley Nº 18.575 será de cinco días hábiles contado desde la notificación de la resolución reclamada y la Superintendencia dispondrá de otros diez días hábiles para resolver.
 
-La interposición de este recurso suspenderá el plazo para reclamar de ilegalidad cuando se trate de las materias por las cuales procede dicho recurso.
+La interposición de este recurso suspenderá el plazo para efectuar la reclamación judicial prevista en el artículo siguiente.
 
 #### Artículo 32
 
-Las personas o entidades que estimen que las resoluciones u omisiones de la Superintendencia no se ajustan a la ley, reglamentos o normas que le compete aplicar y que ello les cause perjuicio, podrán reclamar de dichos actos ante la Corte de Apelaciones de Santiago.
+Las resoluciones u oficios de la Superintendencia serán reclamables por los afectados ante la Corte de Apelaciones de Santiago, en cualquiera de los siguientes casos:
 
-La reclamación deberá interponerse dentro del plazo de quince días hábiles contado desde la notificación del acto reclamado.
+a) Cuando se trate de una resolución que resuelve un procedimiento sancionatorio, en cuyo caso el afectado podrá reclamar de la aplicación de la sanción o de su monto.
 
-La Corte de Apelaciones dará traslado de ella por seis días hábiles a la Superintendencia, notificándole esta resolución por oficio.
+b) Cuando se declare la caducidad de la concesión, según lo dispuesto en el artículo 17.
 
-Cuando se pueda afectar la calidad o la continuidad del servicio la interposición del recurso no suspenderá los efectos del acto reclamado ni podrá la Corte decretar medida alguna con ese objeto mientras se encuentre pendiente la reclamación.
+c) Cuando la resolución u oficio no se ajuste a la ley, reglamentos o normas que le compete aplicar a la Superintendencia.
 
-Evacuado el traslado por la Superintendencia, o acusada la rebeldía, el tribunal ordenará traer los autos en relación y dispondrá agregar extraordinariamente la causa a la tabla del día subsiguiente, previo sorteo. La Corte dictará sentencia dentro del término de quince días. Contra dicha resolución no procederá recurso alguno.
+La reclamación deberá interponerse dentro del plazo de quince días hábiles contado desde la notificación del acto reclamado. El reclamo deberá presentarse por escrito y en él se indicará la resolución u oficio en contra del cual se dirige, los fundamentos de hecho y de derecho que la sustentan, y las peticiones concretas que se someten a resolución del tribunal.
+
+El tribunal se pronunciará en cuenta sobre la admisibilidad del reclamo. Lo declarará inadmisible si éste no ha sido interpuesto dentro de plazo o si no señala con precisión el acto u omisión objeto del reclamo, la norma legal que se supone infringida y la forma en que se ha producido la infracción. En contra de la resolución que declare inadmisible el reclamo podrá interponerse el recurso de reposición con apelación subsidiaria, dentro de los cinco días siguientes a su notificación.
+
+La Corte de Apelaciones dará traslado de la reclamación a la Superintendencia por diez días hábiles, y la notificará de esta resolución por oficio.
+
+La Corte no podrá decretar medida alguna que suspenda los efectos del acto reclamado cuando la suspensión de los efectos de la resolución pueda afectar la calidad del servicio, su continuidad o la seguridad de las personas.
+
+Evacuado el traslado o vencido el plazo dispuesto para hacerlo, la Corte ordenará traer los autos en relación. La vista de esta causa gozará de preferencia para su inclusión en la tabla. La Corte podrá, si lo estima pertinente, abrir un término probatorio que no podrá exceder de siete días, y escuchar los alegatos de las partes.
+
+La Corte dictará sentencia dentro del término de quince días. Si la Corte da lugar al reclamo, deberá declarar que la resolución u oficio no es conforme a la normativa vigente y, en su caso, anulará total o parcialmente la resolución u oficio recurrido y dispondrá que se modifique, cuando corresponda.
+
+Contra dicha sentencia se podrá apelar para ante la Corte Suprema dentro del plazo de diez días hábiles, la que conocerá previa vista de la causa y se agregará extraordinariamente a la tabla de la audiencia más próxima, previo sorteo de la Sala. En contra de la sentencia de la Corte Suprema no procederá recurso alguno.
 
 #### Artículo transitorio
 
