@@ -410,6 +410,14 @@ El reajuste del valor párvulo-mes a efectuarse según lo dispuesto en el inciso
 
 Habiéndose destinado la transferencia conforme a lo que señala el inciso primero del artículo 17°, y en caso de generarse saldos remanentes, durante los años 2021 y 2022, excepcionalmente, estos recursos financieros también podrán ser utilizados para el pago de profesionales que realicen acciones de monitoreo y acompañamiento de proyectos de normalización, conservación o reposición que cuenten con financiamiento vigente a través de transferencias del Subtítulo 33 del presupuesto del Programa 01 y Programa 50 de Junji.
 
+#### Artículo 32
+
+Para el financiamiento del pago de las cotizaciones establecidas en el artículo 1 de la ley Nº 21.735, entre el período de agosto 2025 y diciembre de 2025, respecto de las remuneraciones de los trabajadores de los jardines infantiles que reciben aportes de la Junta Nacional de Jardines Infantiles en virtud de este reglamento, el valor párvulo se incrementará en los porcentajes que establece este artículo.
+
+Para efectos de este artículo, el valor párvulo del mes respectivo determinado de conformidad con lo establecido en los incisos segundo a octavo del artículo 14 y en los artículos 14 bis, 15 y 16 del presente reglamento, deberá multiplicarse por el factor que corresponda, según la siguiente tabla:
+
+El incremento que establece este artículo se devengará retroactivamente a partir de agosto de 2025 y hasta diciembre de dicho año.
+
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.- Andrés Velasco Brañes, Ministro de Hacienda.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a usted, Juan Cavada Artigues, Subsecretario de Educación (S).
