@@ -42,6 +42,20 @@ h) Salida hacia los sectores rurales de la Comuna de Nacimiento:
 
 Terminal - Av. Julio Hemmelmann - Pedro Aguirre Cerda - San Martín - Montri - Fernando Valenzuela - Av. La Cruz - Villa Alegre - Baquedano - El Palque - Av. Julio Hemmelmann - Ruta Q-70.
 
-2º La presente resolución entrará en vigencia transcurridos siete (7) días de la publicación en el Diario Oficial.
+2º Fíjense al interior de la zona urbana de la comuna de Nacimiento, los siguientes trazados que deberán ser utilizados por los servicios de locomoción colectiva rural, que dispongan de autorización otorgada por la Ilustre Municipalidad de Nacimiento para iniciar o terminar sus servicios desde la vía pública, en la parada ubicada en calle La Cruz Nº 368, según se indica a continuación:
+
+a) Desde y hacia Ruta Q-340 y Q-380
+
+Salida: Avda. La Cruz - Villa Alegre - Pastor Lepe - Puente Baumann
+
+Acceso: Puente Baumann - Pastor Lepe - Villa Alegre - Avda. La Cruz
+
+b) Desde y hacia Ruta 156
+
+Salida: Avda. La Cruz - Villa Alegre - Baquedano - El Paque - Avda. Julio Hemmelmann - Ruta 156
+
+Acceso: Ruta 156 - Avda. Julio Hemmelmann - Mauricio Gleisner - Pedro Aguirre Cerda - San Martín - Montri - Fernando Valenzuela - Avda. La Cruz
+
+3° La presente resolución entrará en vigencia transcurridos siete (7) días de la publicación en el Diario Oficial.
 
 Anótese y publíquese.- Miguel Reyes Núñez, Secretario Regional Ministerial Transportes y Telecomunicaciones, VIII Región del Bío-Bío.
