@@ -176,7 +176,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Edificación pareada»: la que corresponde a dos edificaciones emplazadas a partir de un deslinde común, manteniendo una misma línea de fachada, altura y longitud de pareo. Las fachadas no pareadas deberán cumplir con las normas previstas para la edificación aislada.
 
-«Edificaciones con destinos complementarios al área verde»: construcciones complementarias a la recreación que no generan metros cuadrados construidos, tales como pérgolas, miradores, juegos infantiles y obras de paisajismo, así como otro tipo de construcciones de carácter transitorio, tales como quioscos.
+«Edificaciones con destinos complementarios al área verde»: construcciones complementarias a la recreación, tales como sombreaderos, pérgolas, miradores, juegos infantiles, servicios higiénicos, pañoles para herramientas, y obras de paisajismo, así como otro tipo de construcciones de carácter transitorio, tales como quioscos.
 
 «Edificio»: toda edificación compuesta por uno o más recintos, cualquiera sea su destino.
 
@@ -278,7 +278,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 "Mitigaciones directas": Medidas u obras que conforme a lo establecido en el artículo 170 de la Ley General de Urbanismo y Construcciones, deben realizar los proyectos que conlleven crecimiento urbano por extensión o densificación y ocasionen impactos relevantes sobre la movilidad local, conforme sea definido en el respectivo Informe de Mitigación de Impacto Vial (IMIV).
 
-«Modificación de proyecto»: variantes, alteraciones o cambios que se solicite introducir a un proyecto o a una obra de construcción entre la fecha del permiso y la recepción definitiva de las obras, signifiquen o no un aumento de superficie, o cambios en la clasificación o destino de las construcciones.
+«Modificación de proyecto»: variantes, alteraciones o cambios que se requiera introducir a un proyecto o a una obra de construcción entre la fecha del permiso y la recepción definitiva de las obras, o entre el archivo de la declaración jurada de inicio de obra y el archivo de la declaración jurada de término de ejecución, según corresponda, signifiquen o no un aumento de superficie, o cambios en la clasificación o destino de las construcciones.
 
 «Modificación del destino o actividad": variar el destino o actividad establecida en el permiso de edificación concedido, a otro destino o actividad permitida por el uso de suelo admitido en el respectivo instrumento de planificación territorial, mediante un permiso de obra menor, reconstrucción, reparación, alteración o ampliación.
 
@@ -744,7 +744,7 @@ DISPOSICIONES COMUNES A LOS PERMISOS DE URBANIZACIÓN Y EDIFICACION.
 
 #### Artículo 1
 
-4.1. La construcción de obras de urbanización o de edificación de cualquier naturaleza, sean urbanas o rurales, requerirán permiso de la Dirección de Obras Municipales, a petición del propietario, con las excepciones que señala esta Ordenanza.
+4.1. La construcción, reconstrucción, reparación, alteración, ampliación y demolición de obras de urbanización o de edificación de cualquier naturaleza, sean urbanas o rurales, requerirán permiso de la Dirección de Obras Municipales, a solicitud del propietario del predio. Lo anterior, sin perjuicio de las excepciones que señala esta Ordenanza que no requieren permiso de la Dirección de Obras Municipales y aquellas en que se habilita su ejecución mediante el uso de otras técnicas.
 
 El Director de Obras Municipales concederá el permiso de urbanización o edificación si los antecedentes acompañados cumplen con el Instrumento de Planificación Territorial y demás disposiciones de la Ley General de Urbanismo y Construcciones y la presente Ordenanza, previo pago de los derechos que procedan, sin perjuicio de las facilidades de pago contempladas en la citada Ley General.
 
@@ -1117,6 +1117,150 @@ Las instituciones bancarias o aseguradoras que hayan emitido el respectivo docum
 Si las mitigaciones directas que estuvieren caucionadas en la respectiva garantía no se ejecutasen dentro de los plazos antes indicados, la Municipalidad deberá dar inicio a la ejecución de las medidas en un plazo máximo de 1 año contado desde el pago de los valores caucionados, directamente o a través de otros órganos de la Administración del Estado, en este último caso, previa suscripción del respectivo convenio.
 
 Lo dispuesto en este artículo será, también, aplicable a los casos que se haya aprobado por la Municipalidad respectiva materializar los Aportes al Espacio Público a través de estudios, proyectos, obras y medidas, a que se refiere el artículo 179 de la Ley General de Urbanismo y Construcciones.
+
+## Capítulo 6
+
+TÉCNICAS HABILITANTES ALTERNATIVAS A LA AUTORIZACIÓN O PERMISO
+
+#### Artículo 1
+
+6.1. Las técnicas habilitantes alternativas son instrumentos que, en los casos que señala la Ley General de Urbanismo y Construcciones y la presente Ordenanza, habilitan la ejecución de una obra sin requerir la dictación previa de un permiso o autorización por parte de la Dirección de Obras Municipales, entre las cuales se encuentra la presentación y archivo de una declaración jurada ante dicha repartición.
+
+La habilitación mediante dichas técnicas no exime al propietario, al arquitecto y a los demás profesionales que intervengan del cumplimiento de las demás disposiciones legales, reglamentarias o de normas técnicas aplicables a aquellas obras que sí requieren autorización o permiso, en tanto no resulte contrario a lo establecido en el presente capítulo.
+
+#### Artículo 1
+
+6.2. Para efectos de este capítulo, la declaración jurada corresponde al documento suscrito por el propietario, el arquitecto y los demás profesionales que intervengan en el que declaran y certifican, bajo su responsabilidad y en el ámbito de sus competencias, que éstas cumplen con las normas urbanísticas y con todas las disposiciones que les sean aplicables, según corresponda, y que disponen de los antecedentes que así lo acreditan.
+
+La declaración jurada podrá ser de los siguientes tipos:
+
+a) De inicio de obras y término de ejecución, señaladas en los artículos 1.6.3. y 1.6.11. de esta Ordenanza, respectivamente.
+
+b) De obras auxiliares, señalada en el artículo 5.1.3. de esta Ordenanza.
+
+El contenido de las declaraciones juradas, los antecedentes que se deberán acompañar y la definición de los profesionales que en conjunto con el propietario deban suscribirlas, será el que se señale en este capítulo para cada tipo de declaración jurada.
+
+Los planos, especificaciones técnicas y demás documentos técnicos, que se presenten junto con las declaraciones juradas, deberán ser firmados conforme a lo dispuesto en el artículo 1.2.2. de esta Ordenanza. Cada profesional que intervenga en los proyectos y obras será responsable por los documentos y planos que suscriba, en sus respectivos ámbitos de competencia.
+
+Las obras que se indican en el presente capítulo podrán ejecutarse fuera de los límites urbanos establecidos en los planes reguladores, siempre y cuando se dé cumplimiento a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones.
+
+De las declaraciones juradas de inicio de obras.
+
+#### Artículo 1
+
+6.3. Se habilitará la ejecución de obras mediante la presentación y archivo en la Dirección de Obras Municipales de una declaración jurada de inicio de obras, de conformidad con los artículos 1.6.4., 1.6.5. y 1.6.6. de esta Ordenanza, previo pago de los derechos municipales establecidos en el número 12 del inciso primero del artículo 130 de la Ley General de Urbanismo y Construcciones, en los siguientes casos:
+
+a) Aquellas obras que, de acuerdo a lo dispuesto en los numerales 1, 2, 3 y 5 del artículo 5.1.4., en el inciso final del artículo 5.1.6., y en el artículo 7.2.3. de esta Ordenanza, deben ejecutarse previa presentación y archivo de una declaración jurada de inicio de obras.
+
+b) Edificaciones con destinos complementarios al área verde contempladas en los artículos 2.1.30. y 2.1.31. de esta Ordenanza, tales como sombreaderos, pérgolas, servicios higiénicos o pañoles para herramientas, siempre que no correspondan a edificaciones destinadas a equipamiento, o aquellas señaladas en el numeral 11 del artículo 5.1.2. del mismo reglamento.
+
+c) Piscinas privadas a 1,5 m o menos del deslinde con predios vecinos.
+
+#### Artículo 1
+
+6.4. La presentación de dicha declaración jurada solo podrá realizarse mediante el formulario que proporcione el Ministerio de Vivienda y Urbanismo, a través de la División de Desarrollo Urbano, el cual deberá ser suscrito por el propietario, el arquitecto y los demás profesionales que intervengan.
+
+El propietario, el arquitecto y los demás profesionales que suscriban la declaración jurada certificarán, dentro de sus ámbitos de competencia, que el proyecto cumple con las normas urbanísticas y con todas las disposiciones que le sean aplicables, y que se han acompañado todos aquellos antecedentes exigidos para cada caso. Asimismo, el arquitecto y el revisor independiente, en caso de corresponder, certificarán que se trata de aquellas obras cuya ejecución solo puede habilitarse mediante declaración jurada.
+
+#### Artículo 1
+
+6.5. En los casos señalados en el literal a) del artículo 1.6.3. de esta Ordenanza, junto con la declaración jurada de inicio de obras, se deberán presentar los antecedentes que se exigen para cada obra, en los numerales 1, 2, 3 y 5 del artículo 5.1.4., en el inciso final del artículo 5.1.6. y en el artículo 7.2.3 de esta Ordenanza, según corresponda.
+
+En los casos señalados en el literal b) del artículo 1.6.3. de esta Ordenanza, junto con la declaración jurada de inicio de obras, se deberán presentar los antecedentes que se exigen para las obras menores, de acuerdo con la letra A del número 1 del artículo 5.1.4. de esta Ordenanza.
+
+En los casos señalados en el literal c) del artículo 1.6.3. de esta Ordenanza, junto con la declaración jurada de inicio de obras, se deberán presentar los siguientes antecedentes:
+
+a) Declaración simple de dominio del predio en que se emplazan las obras.
+
+b) Planos de planta y cortes de las obras, con indicación de las condiciones de medianería y las medidas contempladas para resguardar la seguridad de los terrenos y edificaciones vecinas, si fuera el caso, suscrito por los profesionales competentes.
+
+c) Especificaciones técnicas.
+
+d) Presupuesto de la obra.
+
+Sin perjuicio de lo anterior, en todos los casos señalados en los incisos precedentes, se deberá adjuntar una propuesta con el cálculo de los derechos municipales. Asimismo, para efectos de dar cumplimiento a lo dispuesto en el artículo 170 de la Ley General de Urbanismo y Construcciones, en los casos que corresponda, será requisito acompañar el comprobante de ingreso del informe de mitigación o el certificado que acredite que el proyecto no requiere de ese informe, emitido por el sistema electrónico indicado en dicho artículo.
+
+Cuando se trate de algunas de las obras señaladas en el inciso cuarto del artículo 55 de la Ley General de Urbanismo y Construcciones, será requisito presentar el informe favorable de la Secretaría Regional del Ministerio de Vivienda y Urbanismo y del Servicio Agrícola y Ganadero.
+
+#### Artículo 1
+
+6.6. Presentada la declaración jurada de inicio de obra y los antecedentes, la Dirección de Obras Municipales emitirá, dentro del tercer día hábil siguiente, el giro de ingresos municipales para el pago de los derechos que correspondan de acuerdo con el número 12 del inciso primero del artículo 130 de la Ley General de Urbanismo y Construcciones, calculados sobre la base del presupuesto que se adjunte a la Declaración o sobre la base de la Tabla de costos unitarios del Ministerio de Vivienda y Urbanismo, según corresponda. En el caso de presentación de la declaración jurada no procederán las facilidades para el pago de derechos a que se refiere el artículo 128 de la Ley General de Urbanismo y Construcciones.
+
+Presentado el comprobante de derechos pagados, la Dirección de Obras Municipales archivará la declaración jurada y los antecedentes en un registro especial para declaraciones juradas, y emitirá un comprobante de archivo timbrado y fechado. Cuando se trate de obras en edificaciones existentes o ampliaciones, dicha Dirección agregará además una copia del comprobante de archivo, al expediente del proyecto respectivo.
+
+Una vez emitido el comprobante de archivo de la declaración jurada de inicio de obras:
+
+1. Podrán ejecutarse las obras respectivas. Lo anterior, sin perjuicio de la obtención de las autorizaciones o el cumplimiento de las exigencias que establezcan otras leyes para la ejecución de estas.
+
+2. La Dirección de Obras Municipales podrá ejercer las potestades de fiscalización que establecen los Párrafos 5° y 6° del Capítulo II del Título III de la Ley General de Urbanismo y Construcciones, según corresponda.
+
+De la ejecución de las obras y la vigencia de las declaraciones juradas de inicio de obras.
+
+#### Artículo 1
+
+6.7. Las obras a las que se refiera la declaración jurada de inicio de obras deberán ejecutarse con estricta sujeción a dicha declaración, a los planos, a las especificaciones y a los demás antecedentes presentados a la Dirección de Obras Municipales.
+
+Dichas obras deberán ejecutarse dentro del plazo de tres años, el cual se contará desde la fecha de archivo de la declaración jurada de inicio de obras. Si vencido ese plazo no se presenta ante la Dirección de Obras Municipales la declaración jurada de término de las obras, el propietario del proyecto deberá realizar nuevamente la presentación señalada en el artículo 1.6.3. de esta Ordenanza para ejecutarlas, quedando prohibida la ejecución de las obras mientras no se haya archivado una nueva declaración jurada de inicio de obras.
+
+Desde el inicio de la obra, el constructor a cargo deberá mantener en la misma el Libro de Obras y disponer de las medidas de gestión y control de calidad, de conformidad con los artículos 1.2.7. y 1.2.9. de esta Ordenanza, respectivamente. Ambos documentos deberán presentarse ante la Dirección de Obras Municipales junto con la declaración jurada de término de ejecución.
+
+El constructor y el ITO, cuando corresponda, deberán suscribir el Libro de Obras al iniciar la ejecución de las obras del proyecto.
+
+Respecto de los reclamos durante las faenas, resultará aplicable lo dispuesto en el artículo 5.1.22. de esta Ordenanza.
+
+#### Artículo 1
+
+6.8. Para introducir modificaciones o variaciones en el proyecto o en las obras respectivas después de archivada la declaración jurada de inicio de obras y antes de la presentación de la declaración jurada de término de ejecución, deberá observarse el mismo procedimiento descrito en los artículos precedentes, debiendo acompañar los antecedentes contenidos en el artículo 5.1.17. de esta Ordenanza, en lo pertinente.
+
+El pago de los derechos municipales que correspondan se realizará de acuerdo con el número 12 del inciso primero del artículo 130 de la Ley General de Urbanismo y Construcciones, sobre la base del presupuesto que se adjunte a la declaración jurada de inicio de obras. En caso de aumento de superficies, el presupuesto deberá calcularse sobre la base de la Tabla de costos unitarios del Ministerio de Vivienda y Urbanismo.
+
+Si en el tiempo que medie entre el archivo de la declaración jurada de inicio de obras y antes del archivo de la declaración jurada de término de ejecución, se modifican las normas de la presente Ordenanza o de los Instrumentos de Planificación Territorial, se aplicará lo dispuesto en el artículo 5.1.18. de este reglamento.
+
+Sin embargo, en caso de que se trate de variaciones menores en relación a detalles constructivos, instalaciones o terminaciones, el propietario podrá informarlas a la Dirección de Obras Municipales en conjunto con la declaración jurada de término de ejecución.
+
+#### Artículo 1
+
+6.9. Si al introducir modificaciones, el proyecto deja de ser de aquellos cuya ejecución se habilita mediante declaración jurada de inicio de obra, no podrá continuarse con su ejecución sino hasta obtener el respectivo permiso de edificación.
+
+#### Artículo 1
+
+6.10. El propietario informará en forma inmediata a la Dirección de Obras Municipales, el cese o desistimiento de funciones de el o de los profesional(es) responsable(s) que haya(n) suscrito las declaraciones juradas de inicio de obras y/o los demás antecedentes, ocurrido con posterioridad al archivo de dicha declaración, de conformidad con el artículo 5.1.20. de esta Ordenanza.
+
+Asimismo, si durante la ejecución de una obra, esta cambiare de propietario, el nuevo propietario deberá dar cumplimiento a las exigencias y procedimientos señalados en el mencionado artículo.
+
+De las declaraciones de término de ejecución.
+
+#### Artículo 1
+
+6.11. Una vez finalizada la totalidad de las obras cuya ejecución se habilitó de acuerdo con el artículo 1.6.3. de esta Ordenanza, el propietario deberá presentar ante la Dirección de Obras Municipales respectiva una declaración jurada de término de ejecución.
+
+La presentación de la declaración jurada solo podrá realizarse mediante el formulario que proporcione el Ministerio de Vivienda y Urbanismo, a través de la División de Desarrollo Urbano, el cual deberá ser suscrito por el propietario y el arquitecto que presentó la declaración jurada de inicio de obras archivada, sin perjuicio de lo dispuesto en el artículo 1.6.10. de esta Ordenanza.
+
+#### Artículo 1
+
+6.12. El propietario y el arquitecto que suscriba la declaración jurada de término de ejecución certificarán que el proyecto se ejecutó conforme a la declaración jurada de inicio de obra archivada y en cumplimiento de la normativa aplicable. Asimismo, certificarán que se presentan todos los antecedentes exigidos para cada caso.
+
+#### Artículo 1
+
+6.13. Conjuntamente con la declaración jurada de término de ejecución, el propietario deberá presentar:
+
+a) Los antecedentes señalados en los artículos 5.2.6. o 7.3.3., de acuerdo al tipo de obra de que se trate. Para estos efectos, cuando se trate de las obras que se indican en los literales b) y c) del artículo 1.6.3. de esta Ordenanza, se deberán presentar los antecedentes exigidos para obras menores.
+
+b) Los antecedentes que acrediten el pago de los aportes en los casos señalados en el artículo 179 de la Ley General de Urbanismo y Construcciones.
+
+c) Los antecedentes que acrediten la ejecución de las medidas contenidas en la resolución que apruebe el informe de mitigación, en los casos que corresponda.
+
+d) Una nómina que contenga la individualización del arquitecto que realizó el proyecto de arquitectura y de todos los profesionales a quienes pueda asistir responsabilidad de acuerdo a la Ley General de Urbanismo y Construcciones.
+
+#### Artículo 1
+
+6.14. Una vez presentada la declaración jurada de término de ejecución y los antecedentes, la Dirección de Obras Municipales los archivará en el mismo expediente de la declaración jurada de inicio de obras respectiva, del registro especial para declaraciones juradas, y emitirá un comprobante de archivo timbrado y fechado. Tratándose de obras o ampliaciones en edificaciones existentes, la Dirección de Obras Municipales deberá agregar además una copia de dicho comprobante al expediente de la respectiva edificación.
+
+El archivo de la declaración jurada de término de ejecución y de los antecedentes respectivos no devengará derechos municipales.
+
+Una vez emitido el comprobante de archivo, la obra podrá ser habitada y destinada al uso señalado en la declaración jurada de inicio de obra y la Dirección de Obras Municipales podrá, en cualquier momento, fiscalizar el cumplimiento de las normas sobre seguridad, conservación de las edificaciones, accesibilidad universal y discapacidad.
+
+Para efectos de las responsabilidades a las que alude el artículo 18 de la Ley General de Urbanismo y Construcciones, el archivo de la declaración jurada de término de ejecución se considerará como recepción definitiva de la obra.
 
 ## Título 2
 
@@ -7868,7 +8012,7 @@ DE LOS PERMISOS DE EDIFICACION Y SUS TRAMITES
 
 #### Artículo 5
 
-1.1. Para construir, reconstruir, reparar, alterar, ampliar o demoler un edificio, o ejecutar obras menores, se deberá solicitar permiso del Director de Obras Muncipales respectivo.
+1.1. Para construir, reconstruir, reparar, alterar, ampliar o demoler un edificio, o ejecutar obras menores, se deberá solicitar permiso del Director de Obras Muncipales respectivo. Lo anterior sin perjuicio de las excepciones que señala esta Ordenanza, en los casos en que no se requerirá permiso de la Dirección de Obras Municipales y en aquellos en que se habilitará la ejecución de obras mediante el uso de otras técnicas habilitantes alternativas.
 
 Tratándose de regularizaciones de edificaciones construidas con anterioridad al 31 de julio de 1959, sólo se exigirá el cumplimiento de las disposiciones de los planes reguladores referidas a áreas de riesgo o protección, declaraciones de utilidad pública y uso de suelo, así como las normas técnicas de habitabilidad, seguridad, estabilidad y de las instalaciones interiores de electricidad y, cuando corresponda, de agua potable, alcantarillado y gas, de conformidad al procedimiento establecido en la letra B. del numeral 2. del artículo 5.1.4. de esta Ordenanza.
 
@@ -7932,23 +8076,35 @@ Para estos efectos, la Dirección de Obras Municipales deberá dar cumplimiento 
 
 10. Instalaciones de contenedores para la recepción y almacenamiento de residuos de productos prioritarios sujetos a la ley Nº 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje. Estas instalaciones podrán estar cubiertas con un techo protector, siempre que la altura de su cubierta no exceda los 3,5 m. en cualquier punto de ésta. En caso de exceder dicha altura, estas instalaciones deberán obtener permiso de edificación.
 
+11. Las edificaciones con destinos complementarios al área verde, contemplados en el artículo 2.1.30. de esta Ordenanza, que corresponda a miradores, juegos infantiles u obras de paisajismo.
+
 En todos los casos previstos en este artículo, la ejecución de las obras que no requieren permiso del Director de Obras Municipales, no exime al propietario del cumplimento de todas y cada una de las normas legales, reglamentarias o técnicas aplicables a estas obras, así como tampoco lo exime de la obligación de contar con los profesionales competentes o técnicos responsables que señale esa misma normativa.
 
 #### Artículo 5
 
-1.3. Durante la tramitación de un permiso de edificación y con anterioridad a su obtención, podrán ejecutarse las obras preliminares necesarias, conforme a los procedimientos que señala este artículo. Para tal efecto, el propietario deberá solicitar autorización a la Dirección de Obras Municipales, acompañando una declaración de dominio del inmueble, fotocopia de la solicitud de permiso previamente ingresada y los antecedentes que en cada caso se señalan:
+1.3. Durante la tramitación de un permiso de construcción y con anterioridad a la recepción definitiva de obra o desde la presentación de la declaración jurada de inicio de obras y previo al archivo de declaración jurada de término de ejecución, según corresponda, se habilitará la ejecución de las obras auxiliares necesarias mediante la presentación y archivo en la Dirección de Obras Municipales de una declaración jurada.
 
-1. Para instalación de faenas, conexiones provisorias a servicios públicos, colocación de cierros o andamios, preparación de canchas o instalaciones para confección de hormigón, bodegas y oficinas de obra u otros trabajos de naturaleza análoga, se adjuntará un plano de planta de las instalaciones que ilustre el emplazamiento de las construcciones provisorias y sus accesos, con indicación del área de carga y descarga de materiales.
+Para dicho efecto, la declaración jurada solo podrá realizarse mediante el formulario que proporcione el Ministerio de Vivienda y Urbanismo, a través de la División de Desarrollo Urbano, el cual deberá ser suscrito por el propietario, por el arquitecto y por los demás profesionales que intervengan, quienes manifestarán bajo su responsabilidad que las obras auxiliares cumplen con todos los requisitos y condiciones exigibles.
+
+El propietario deberá presentar, junto con la declaración jurada de obras auxiliares, una declaración de dominio del inmueble, fotocopia de la solicitud de permiso previamente ingresada o comprobante de archivo de declaración jurada de inicio de obra, según corresponda, y los antecedentes que en cada caso se señalan:
+
+1. Para instalación de faenas, conexiones provisorias a servicios públicos, colocación de cierros o andamios, preparación de canchas o instalaciones para confección de hormigón, bodegas y oficinas de obra u otros trabajos de naturaleza análoga, se adjuntará un plano de planta de las instalaciones que ilustre el emplazamiento de las construcciones provisorias y sus accesos, con indicación del área de carga y descarga de materiales. Además, cuando las obras auxiliares se emplacen en un predio distinto al de la obra, se deberá adjuntar la autorización del propietario del predio o el título o contrato que concede el derecho de uso y/o goce sobre el mismo.
 
 2. Para la instalación de grúa, se adjuntará un plano de emplazamiento, indicando los radios de giro de operación de la grúa y una carta de responsabilidad del profesional o empresa encargada de su montaje y operación, señalando las Normas Técnicas que regularán la actividad.
 
 3. Para la ejecución de excavaciones, entibaciones y socalzados, se adjuntará un plano de las excavaciones, con indicación de las condiciones de medianería y las medidas contempladas para resguardar la seguridad de los terrenos y edificaciones vecinas, si fuera el caso.
 
-Los planos consignados en los números anteriores deberán ser firmados por profesional competente que a su vez haya suscrito la solicitud de permiso de edificación. Sólo las entibaciones y socalzados requieren ser firmados por un arquitecto o ingeniero.
+Para los tres casos anteriores, se deberá presentar un presupuesto de las obras.
 
-Los demás planos pueden ser suscritos indistintamente por el arquitecto, el ingeniero o el constructor.
+Los planos consignados en los números anteriores deberán ser firmados por los profesionales competentes que a su vez hayan suscrito la solicitud de permiso de construcción o la declaración jurada de inicio de obras, según corresponda. Sólo las entibaciones y socalzados requieren ser firmados por un arquitecto o ingeniero. Los demás planos pueden ser suscritos indistintamente por el arquitecto, el ingeniero o el constructor.
 
-En caso necesario, las instalaciones consignadas en el número 1. anterior podrán autorizarse en un predio distinto al de la obra, adjuntando la autorización notarial del propietario del predio.
+La Dirección de Obras Municipales deberá archivar, en el expediente del proyecto respectivo, la declaración jurada y los demás antecedentes que se presentan, además de emitir el comprobante de archivo, previo pago de los derechos conforme se indica en el artículo 1.6.6. de esta Ordenanza.
+
+Una vez emitido el comprobante de archivo de la declaración jurada:
+
+1. El propietario estará habilitado para ejecutar las obras auxiliares, para lo cual deberá ajustarse a lo informado en la declaración y antecedentes archivados. Lo anterior, sin perjuicio de la obtención de las autorizaciones o el cumplimiento de las exigencias que establezcan otras leyes para la ejecución de las mismas.
+
+2. La Dirección de Obras Municipales podrá ejercer las potestades de fiscalización establecidas en los Párrafos 5° y 6° del Capítulo II del Título III de la Ley General de Urbanismo y Construcciones, según corresponda.
 
 #### Artículo 5
 
@@ -7978,6 +8134,12 @@ En estos casos, se deberá pagar el derecho municipal establecido en el número 
 
 B. Cuando las obras correspondan a obras menores, el permiso será otorgado por el Director de Obras Municipales, en un plazo máximo de 15 días, contra la presentación de una fotocopia del Certificado de Informaciones Previas y una declaración simple del profesional competente que las hubiere proyectado, en cuanto a que éstas cumplen con la normativa vigente, describiendo las obras, indicando el presupuesto y acompañando un croquis de su ubicación, todo lo cual se archivará conjuntamente con el respectivo expediente de edificación. En estos casos, se deberá pagar el derecho municipal establecido en el número 3 del artículo 130º de la Ley General de Urbanismo y Construcciones.
 
+Las obras menores de este numeral que se indican a continuación, que no se emplacen en áreas afectas a utilidad pública, áreas de riesgo, áreas, zonas, franjas o radios de restricción, o áreas de protección de recursos de valor natural y patrimonial cultural, deberán ejecutarse previa presentación y archivo de una declaración jurada de inicio de obras ante la Dirección de Obras Municipales de acuerdo con el artículo 1.6.3. de esta Ordenanza, acompañando los mismos antecedentes que se exigen para solicitar el permiso y previo pago de los derechos municipales señalados en el número 12 del artículo 130 de la Ley General de Urbanismo y Construcciones:
+
+- Obras que se ejecutarán con cargo a los subsidios del decreto supremo Nº10, de 2015, del Ministerio de Vivienda y Urbanismo, que reglamenta Programa de Habitabilidad Rural o aquel que lo reemplace, que correspondan a la Tipología de Construcción en Sitio del Residente.
+
+- Ampliaciones calificadas como obras menores de edificaciones con uso de suelo equipamiento, que no correspondan a la clase salud ni educación, siempre que la carga de ocupación de la ampliación sea igual o inferior a 100 personas, y que cuenten con informe favorable de revisor independiente.
+
 2. Permiso de Obra Menor de ampliaciones de viviendas sociales y de regularización de edificaciones anteriores al 31 de julio de 1959:
 
 A los permisos para ampliar viviendas sociales, viviendas progresivas e infraestructuras sanitarias, así como para regularizar edificaciones destinadas a cualquier uso que hayan sido construidas con anterioridad al 31 de julio de 1959, sólo les serán aplicables las disposiciones de los planes reguladores referidas a uso de suelo, zonas de riesgo o protección y declaratorias de utilidad pública.
@@ -8005,6 +8167,8 @@ Cuando las ampliaciones de viviendas sociales, viviendas progresivas e infraestr
 El Director de Obras Municipales deberá verificar el cumplimiento de las normas urbanísticas señaladas en este numeral.
 
 La recepción definitiva de los permisos de obra menor de vivienda social, se tramitará en conformidad a lo dispuesto en el inciso final del artículo 5.2.6. de esta Ordenanza, no pudiendo formularse otras exigencias que las señaladas en dicha disposición.
+
+Las obras que se indican en el presente literal, que no se emplacen en áreas afectas a utilidad pública, áreas de riesgo, áreas, zonas, franjas o radios de restricción, o áreas de protección de recursos de valor natural y patrimonial cultural, deberán ejecutarse previa presentación de una declaración jurada de inicio de obras ante la Dirección de Obras Municipales de acuerdo con el artículo 1.6.3. de esta Ordenanza, junto con los mismos antecedentes que se exigen para solicitar el permiso y previo pago de los derechos municipales señalados en el número 12 del artículo 130 de la Ley General de Urbanismo y Construcciones.
 
 B. Regularización de edificaciones construidas con anterioridad al 31 de julio de 1959.
 
@@ -8038,6 +8202,8 @@ La instalación en edificios existentes de ascensores, tanto verticales como inc
 
 Tratándose de alteraciones consistentes en obras de restauración, rehabilitación o remodelación de edificios ligados a Monumentos Nacionales, inmuebles o zonas de conservación histórica, tal circunstancia deberá declararse en la solicitud, debiendo en estos casos, presentarse la autorización del Consejo de Monumentos Nacionales o de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, según corresponda.
 
+Las obras que se indican en el presente numeral, que no intervengan edificios emplazados en áreas de protección de recursos de valor patrimonial cultural, ni correspondan a inmuebles declarados en una categoría de protección de recursos de valor patrimonial cultural, deberán ejecutarse previa presentación de una declaración jurada de inicio de obras ante la Dirección de Obras Municipales, de acuerdo con el artículo 1.6.3. de esta Ordenanza, junto con los mismos antecedentes que se exigen para solicitar el permiso.
+
 4. Autorización de Cambio de Destino.
 
 El propietario deberá acompañar el Certificado de Informaciones Previas e indicar si la solicitud se refiere a toda o parte de una edificación existente, además de señalar el destino requerido y acompañar una declaración simple de dominio.
@@ -8061,6 +8227,8 @@ c) En caso de pareo, informe del profesional competente.
 d) Presupuesto de la demolición.
 
 En caso de demolición completa de la edificación, previamente al pago de los derechos municipales correspondientes deberá adjuntarse un certificado de desratización otorgado por el Servicio de Salud que corresponda.
+
+Las demoliciones que no se ejecuten en áreas de protección de recursos de valor patrimonial cultural, ni correspondan a inmuebles declarados en una categoría de protección de recursos de valor patrimonial cultural deberán ejecutarse previa presentación de una declaración jurada de inicio de obras ante la Dirección de Obras Municipales de acuerdo con el artículo 1.6.3. de esta Ordenanza, junto con los mismos antecedentes que se exigen para solicitar el permiso.
 
 6. Permisos para instalaciones de recepción y almacenamiento de residuos de productos prioritarios que contemplen edificaciones sujetas a la ley Nº 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento del reciclaje.
 
@@ -8424,6 +8592,18 @@ Tratándose de los proyectos tipo a los que se refiere el artículo 5.1.28. de e
 
 Los derechos municipales a cancelar, sea por permisos de obra nueva o ampliación, corresponderán a los contemplados en el numeral 2 del artículo 130 de la Ley General de Urbanismo y Construcciones.
 
+Sin perjuicio de lo anterior, las obras nuevas o de ampliación que no sean calificadas como obra menor, deberán ejecutarse previa presentación de una declaración jurada de inicio de obras ante la Dirección de Obras Municipales de acuerdo con el artículo 1.6.3. de esta Ordenanza, junto con los mismos antecedentes que se exigen para solicitar el permiso, cuando se cumplan los siguientes requisitos copulativos:
+
+1. Que se trate de alguno de los siguientes tipos de proyectos:
+
+a. Proyectos de obra nueva destinados a vivienda que se construyan con cargo a subsidios del decreto supremo Nº10, de 2015, del Ministerio de Vivienda y Urbanismo, que reglamenta Programa de Habitabilidad Rural o aquel que lo reemplace, que correspondan a la Tipología de Construcción en Sitio del Residente.
+
+b. Proyectos en área rural que correspondan al uso de suelo actividades productivas y/o infraestructura que solo contemplen instalaciones y obras de edificación destinadas a porterías, oficinas, casa del cuidador, comedores, casinos, servicios higiénicos, u otras similares, siempre que la superficie edificada total no exceda los 100 m².
+
+2. Que se trate de obras que no se emplacen en áreas afectas a utilidad pública, áreas de riesgo, áreas, zonas, franjas o radios de restricción, o áreas de protección de recursos de valor natural y patrimonial cultural, o en inmuebles con protección patrimonial.
+
+3. Que el proyecto no contemple la cesión directa de superficies del terreno, de acuerdo con el artículo 2.2.5. bis de esta Ordenanza.
+
 #### Artículo 5
 
 1.7. Las edificaciones, exceptuadas las señaladas en el inciso final de este artículo, deberán ejecutarse conforme a un proyecto de cálculo estructural, elaborado y suscrito por un ingeniero civil o por un arquitecto.
@@ -8612,7 +8792,7 @@ Si el o los propietarios no dieren cumplimiento a las obligaciones establecidas 
 
 1.21. El Director de Obras Municipales podrá ordenar la paralización de la ejecución de las obras en los siguientes casos:
 
-1. Si la obra se estuviere ejecutando sin el permiso correspondiente.
+1. Si la obra se estuviere ejecutando sin el permiso o declaración jurada correspondiente; en disconformidad con aquellos o con la normativa aplicable.
 
 2. Si la obra no tuviere un constructor a cargo.
 
@@ -11232,13 +11412,13 @@ Disposiciones comunes
 
 #### Artículo 7
 
-2.1. En las zonas que hubieren sido decretadas afectadas por catástrofe podrán aprobarse permisos para nuevas edificaciones y la recepción de sus obras, o permisos de reparación y su recepción para la regularización de construcciones existentes, con las normas especiales y procedimientos simplificados establecidos en este Capítulo, cuando formen parte de los planes de reconstrucción regionales o municipales, o se trate de reconstruir o reponer edificaciones dañadas por la catástrofe.
+2.1. En las zonas que hubieren sido decretadas afectadas por catástrofe podrán aprobarse permisos para nuevas edificaciones y la recepción de sus obras, o permisos de reparación y su recepción para la regularización de construcciones existentes, con las normas especiales y procedimientos simplificados establecidos en este Capítulo, cuando formen parte de los planes de reconstrucción regionales o municipales, o se trate de reconstruir o reponer edificaciones dañadas por la catástrofe. Lo anterior, sin perjuicio de las excepciones que se señalan en este capítulo, que habilitan la ejecución de obras mediante la presentación y archivo de declaraciones juradas de inicio de obras y término de ejecución, de acuerdo con los artículos 1.6.3. y 1.6.11. de esta Ordenanza, respectivamente.
 
-Las solicitudes de aprobación de permisos de edificación o permisos de reparación para la regularización de construcciones existentes deberán ingresarse a la respectiva Dirección de Obras Municipales, dentro del plazo máximo de dos años, contado desde la fecha de publicación en el Diario Oficial del decreto que declaró la zona afectada por catástrofe; plazo que se podrá prorrogar mediante decreto supremo del Ministerio de Vivienda y Urbanismo, hasta por igual período, por una sola vez.
+Las solicitudes de aprobación de permisos de edificación o permisos de reparación para la regularización de construcciones existentes, así como las declaraciones juradas de inicio de obras, deberán ingresarse a la respectiva Dirección de Obras Municipales, dentro del plazo máximo de dos años, contado desde la fecha de publicación en el Diario Oficial del decreto que declaró la zona afectada por catástrofe; plazo que se podrá prorrogar mediante decreto supremo del Ministerio de Vivienda y Urbanismo, hasta por igual período, por una sola vez.
 
-Los permisos a los que se refiere el presente Capítulo no requerirán autorizaciones o pronunciamientos de otros organismos de la administración del Estado, salvo las contenidas en este Capítulo, o que se trate de modificaciones de cauces a los que se refiere el artículo 116 bis D) de la Ley General de Urbanismo y Construcciones.
+Los permisos u otras técnicas habilitantes alternativas a los que se refiere el presente Capítulo no requerirán autorizaciones o pronunciamientos de otros organismos de la administración del Estado, salvo las contenidas en este Capítulo, o que se trate de modificaciones de cauces a los que se refiere el artículo 116 bis D) de la Ley General de Urbanismo y Construcciones.
 
-Los proyectos de edificación o de regularización señalados en este Capítulo podrán acogerse a las normas especiales de viviendas económicas y al régimen de copropiedad inmobiliaria establecido en la ley N° 21.442, debiendo indicarse aquello, en la respectiva solicitud de permiso de edificación o reparación y cumpliendo en cada proyecto con las normas que corresponda para dicho fin.
+Los proyectos de edificación o de regularización señalados en este Capítulo podrán acogerse a las normas especiales de viviendas económicas y al régimen de copropiedad inmobiliaria establecido en la ley N° 21.442, debiendo indicarse aquello, en la respectiva solicitud de permiso de edificación o reparación, o en la declaración jurada de inicio de obras, y cumpliendo en cada proyecto con las normas que corresponda para dicho fin.
 
 Para los efectos de lo dispuesto en este Capítulo, se entenderá por "reposición de construcciones" la ejecución de obras con las que se reemplaza total o parcialmente, en el mismo predio y con el mismo destino, las edificaciones existentes dañadas por un sismo o catástrofe y que, producto de aquello, haya sido demolida o decretada su inhabitabilidad de conformidad al artículo 161 bis de la Ley General de Urbanismo y Construcciones. La reposición de la edificación dañada, en todo caso, no podrá contemplar un aumento de superficie mayor al 20% de la superficie edificada original.
 
@@ -11254,7 +11434,7 @@ Regularizaciones de construcciones existentes que formen parte de un plan de rec
 
 2.2. Las construcciones que no cuenten con permiso de edificación ni recepción definitiva o no cuenten con recepción definitiva, ubicadas en zonas decretadas afectadas por catástrofe, podrán obtener este permiso y recepción con las normas especiales y procedimientos simplificados que se establecen en este artículo, siempre que la construcción que se regulariza forme parte de un plan de reconstrucción regional o municipal, hubiere sido dañada por la catástrofe y se ejecuten en esta las obras de reparación que se requieran para cumplir con las normas de habitabilidad, seguridad, estabilidad y de las instalaciones, si correspondiese, y a las que se refiere este artículo.
 
-En estas construcciones se deberán cumplir únicamente las normas urbanísticas establecidas en el respectivo Instrumento de Planificación Territorial referidas a uso de suelo, zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, franjas afectas a declaratoria de utilidad pública y no podrán estar emplazadas en bienes nacionales de uso público. La regularización de construcciones destinadas a equipamiento de las clases salud, educación o seguridad, estarán exentas de cumplir con la norma urbanística sobre uso de suelo.
+En estas construcciones se deberán cumplir únicamente las normas urbanísticas establecidas en el respectivo Instrumento de Planificación Territorial referidas a uso de suelo, áreas de riesgo, áreas, zonas, franjas o radios de restricción, áreas de protección de recursos de valor natural y de valor patrimonial cultural, franjas afectas a declaratoria de utilidad pública y no podrán estar emplazadas en bienes nacionales de uso público. La regularización de construcciones destinadas a equipamiento de las clases salud, educación o seguridad, estarán exentas de cumplir con la norma urbanística sobre uso de suelo.
 
 Junto a lo anterior, solo deberán cumplir con las siguientes normas de esta Ordenanza:
 
@@ -11290,7 +11470,7 @@ Permisos para nuevas construcciones que formen parte de un plan de reconstrucci�
 
 #### Artículo 7
 
-2.3. Se podrán aprobar nuevas construcciones en zonas decretadas afectadas por una catástrofe con las normas especiales y procedimientos simplificados que se establecen en este artículo, siempre que formen parte de los planes de reconstrucción regionales o municipales, o los permisos vayan dirigidos a reconstruir o reponer, total o parcialmente, edificaciones dañadas por la catástrofe.
+2.3. Se podrán aprobar nuevas construcciones en zonas decretadas afectadas por una catástrofe con las normas especiales y procedimientos simplificados que se establecen en este artículo, siempre que formen parte de los planes de reconstrucción regionales o municipales, o los permisos vayan dirigidos a reconstruir o reponer, total o parcialmente, edificaciones dañadas por la catástrofe. Lo anterior, sin perjuicio de las excepciones que se señalan en este artículo, que habilitan la ejecución de obras mediante la presentación y archivo de declaraciones juradas de inicio de obras, de acuerdo con el artículo 1.6.3. de esta Ordenanza.
 
 Los proyectos de edificación señalados en este artículo podrán acogerse a las disposiciones sobre condominios de densificación predial, en tanto se cumplan en el predio del proyecto las disposiciones de la ley N° 21.442. y las normas establecidas en el artículo 6.2.9. de esta Ordenanza.
 
@@ -11300,7 +11480,7 @@ Los permisos susceptibles de aprobarse con las normas especiales y procedimiento
 
 1. Permisos de Edificación de obra nueva o ampliación, y de permiso de loteo o loteo con construcción simultánea, que formen parte de un plan de reconstrucción regional o municipal:
 
-Los permisos de obra nueva o ampliación de viviendas que formen parte de un plan de reconstrucción regional o municipal deberán cumplir únicamente con las normas urbanísticas del respectivo Instrumento de Planificación Territorial, referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, franjas afectas a declaratoria de utilidad pública y no podrán estar emplazados en bienes nacionales de uso público.
+Los permisos de obra nueva o ampliación de viviendas que formen parte de un plan de reconstrucción regional o municipal deberán cumplir únicamente con las normas urbanísticas del respectivo Instrumento de Planificación Territorial, referidas a áreas de riesgo, áreas, zonas, franjas o radios de restricción, áreas de protección de recursos de valor natural y de valor patrimonial cultural, franjas afectas a declaratoria de utilidad pública y no podrán estar emplazados en bienes nacionales de uso público.
 
 Podrán aprobarse permisos de loteo o loteo con construcción simultánea para proyectos de viviendas, a los cuales les serán aplicables las normas contenidas en este numeral junto con las normas sobre cesiones, superficie predial mínima y densidad, según corresponda, establecidas en la Ley General de Urbanismo y Construcciones o en el respectivo Instrumento de Planificación Territorial; sin perjuicio de que puedan acogerse igualmente a las disposiciones especiales sobre viviendas económicas contenidas en el Título 6 de esta Ordenanza.
 
@@ -11348,9 +11528,11 @@ Cuando las solicitudes de permiso a que alude este numeral se refieran a predios
 
 Los derechos municipales corresponderán a los contemplados en el numeral 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, salvo que se trate de una ampliación de una vivienda social a la que alude el penúltimo inciso del artículo 116 bis D) de la Ley General de Urbanismo y Construcciones, en cuyo caso queda exenta de pago de derechos municipales. Tratándose de loteos con construcción simultánea, los derechos municipales corresponderán a los contemplados en el numeral 1 del aludido artículo 130.
 
+Sin perjuicio de lo anterior, las obras de edificación y/o ampliación de una vivienda que no se emplace en áreas afectas a utilidad pública, áreas de riesgo, áreas, zonas, franjas o radios de restricción, o áreas de protección de recursos de valor natural y patrimonial cultural deberán ejecutarse previa presentación de una declaración jurada de inicio de obras ante la Dirección de Obras Municipales de acuerdo con el artículo 1.6.3. de esta Ordenanza, junto con los mismos antecedentes que se exigen para solicitar el permiso y previo pago de los derechos municipales señalados en el número 12 del artículo 130 de la Ley General de Urbanismo y Construcciones. Tratándose de loteos con construcción simultánea, no se habilitará la ejecución de las obras de edificación de acuerdo a lo indicado en este párrafo.
+
 2. Permisos de Reconstrucción de viviendas o de edificaciones con otros destinos dañados por la catástrofe:
 
-Los permisos de reconstrucción, de viviendas o edificaciones con otros destinos, dañadas por la catástrofe que dio lugar a la declaración respectiva, que producto de aquello hayan sido demolidos o decretada su inhabitabilidad en conformidad al artículo 161 bis de la Ley General de Urbanismo y Construcciones, deberán cumplir únicamente con las normas urbanísticas del respectivo Instrumento de Planificación Territorial referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, además de las franjas afectas a declaratoria de utilidad pública, sin perjuicio de lo dispuesto en el artículo 59 bis letra a) de la Ley General de Urbanismo y Construcciones.
+Los permisos de reconstrucción, de viviendas o edificaciones con otros destinos, dañadas por la catástrofe que dio lugar a la declaración respectiva, que producto de aquello hayan sido demolidos o decretada su inhabitabilidad en conformidad al artículo 161 bis de la Ley General de Urbanismo y Construcciones, deberán cumplir únicamente con las normas urbanísticas del respectivo Instrumento de Planificación Territorial referidas a áreas de riesgo, áreas, zonas, franjas o radios de restricción, áreas de protección de recursos de valor natural y de valor patrimonial cultural, además de las franjas afectas a declaratoria de utilidad pública, sin perjuicio de lo dispuesto en el artículo 59 bis letra a) de la Ley General de Urbanismo y Construcciones.
 
 Junto a lo anterior, en los proyectos a los que se refiere este numeral se deberán cumplir únicamente con las siguientes normas de esta Ordenanza:
 
@@ -11390,9 +11572,11 @@ La Dirección de Obras Municipales otorgará el permiso requerido con el solo m�
 
 Los derechos municipales corresponderán a los contemplados en el numeral 5 del artículo 130 de la Ley General de Urbanismo y Construcciones.
 
+Las obras de reconstrucción de una vivienda que no se emplace en áreas afectas a utilidad pública, áreas de riesgo, áreas, zonas, franjas o radios de restricción, o áreas de protección de recursos de valor natural y patrimonial cultural, deberán ejecutarse previa presentación y archivo de una declaración jurada de inicio de obras ante la Dirección de Obras Municipales de acuerdo con el artículo 1.6.3. de esta Ordenanza, junto con los mismos antecedentes que se exigen para solicitar el permiso y previo pago de los derechos municipales señalados en el número 12 del artículo 130 de la Ley General de Urbanismo y Construcciones.
+
 3. Permisos de Edificación para Reposición de viviendas o de edificaciones con otros destinos
 
-Las solicitudes de permisos de edificación para la reposición de viviendas, conforme a la definición contenida en el artículo 7.2.1. de esta Ordenanza, deberán cumplir únicamente las normas urbanísticas del respectivo Instrumento de Planificación Territorial referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, y las franjas afectas a declaratoria de utilidad pública.
+Las solicitudes de permisos de edificación para la reposición de viviendas, conforme a la definición contenida en el artículo 7.2.1. de esta Ordenanza, deberán cumplir únicamente las normas urbanísticas del respectivo Instrumento de Planificación Territorial referidas a áreas de riesgo, áreas, zonas, franjas o radios de restricción, áreas de protección de recursos de valor natural y de valor patrimonial cultural, y las franjas afectas a declaratoria de utilidad pública.
 
 Las solicitudes de permisos de edificación para la reposición de construcciones con destinos diferentes a vivienda, deberán cumplir con todas las normas urbanísticas del Instrumento de Planificación Territorial respectivo, con excepción de las normas sobre uso de suelo cuando se trate de la reposición de edificaciones destinadas a las clases de equipamiento salud, educación o seguridad.
 
@@ -11438,15 +11622,17 @@ Cuando las solicitudes de permiso a que alude este numeral se refieran a predios
 
 Los derechos municipales corresponderán a los contemplados en el número 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, salvo que se trate de una ampliación por reposición parcial de una vivienda social a la que alude el penúltimo inciso del artículo 116 bis D) de la Ley General de Urbanismo y Construcciones, en cuyo caso queda exenta de pago de derechos municipales.
 
-#### Artículo 7
-
-2.4. Las reparaciones que sea necesario efectuar a una edificación dañada por una catástrofe, excluidas aquellas referidas en el artículo anterior, deberán tramitarse mediante permisos de reparación conforme a lo establecido en el primer párrafo del numeral 3 del artículo 5.1.4. de esta Ordenanza.
+Las obras de reposición de una vivienda que no se emplace en áreas afectas a utilidad pública, áreas de riesgo, áreas, zonas, franjas o radios de restricción, o áreas de protección de recursos de valor natural y patrimonial cultural, deberán ejecutarse previa presentación y archivo de una declaración jurada de inicio de obras ante la Dirección de Obras Municipales de acuerdo con el artículo 1.6.3. de esta Ordenanza, junto con los mismos antecedentes que se exigen para solicitar el permiso y previo pago de los derechos municipales señalados en el número 12 del artículo 130 de la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 7
 
-2.5. Si después de concedido el permiso de edificación, reconstrucción, reparación, o el permiso de urbanización o loteo con construcción simultánea, y antes de la recepción definitiva de las respectivas obras, hubiere necesidad de introducir modificaciones o variantes en el proyecto o en la ejecución de las obras, deberá presentarse ante el Director de Obras Municipales la solicitud de modificación de permiso, antes de la recepción definitiva.
+2.4. Las reparaciones que sea necesario efectuar a una edificación dañada por una catástrofe, excluidas aquellas referidas en el artículo anterior, deberán tramitarse mediante permisos de reparación o habilitarse mediante la presentación y archivo de una declaración jurada de inicio de obra, conforme a lo establecido en el primer y el último párrafo del numeral 3 del artículo 5.1.4. de esta Ordenanza.
 
-Las solicitudes de modificación de proyectos de edificación aprobados con las normas de los numerales 1 y 2 del artículo 7.2.3., se tramitarán conforme al artículo 5.1.17. de esta Ordenanza, sin perjuicio de la aplicación del artículo 5.2.8. cuando corresponda. Si las modificaciones inciden en el proyecto de cálculo estructural, deberán adjuntarse, debidamente modificados, los documentos a que se refiere el artículo 5.1.7. de esta Ordenanza. Tratándose de proyectos de cálculo estructural que deben someterse a revisión conforme al artículo 5.1.25., estos documentos deberán estar visados por el Revisor de Proyecto de Cálculo Estructural.
+#### Artículo 7
+
+2.5. Si después de concedido el permiso de edificación, reconstrucción, reparación, o el permiso de urbanización o loteo con construcción simultánea, y antes de la recepción definitiva de las respectivas obras, hubiere necesidad de introducir modificaciones o variantes en el proyecto o en la ejecución de las obras, deberá presentarse ante el Director de Obras Municipales la solicitud de modificación de permiso, antes de la recepción definitiva. Por su parte, para introducir modificaciones o variaciones en el proyecto o en las obras respectivas cuya ejecución se haya habilitado mediante el archivo de una declaración jurada de inicio de obras, deberá observarse lo señalado en el artículo 1.6.8. de esta Ordenanza.
+
+Las solicitudes de modificación de proyectos de edificación aprobados mediante permisos con las normas de los numerales 1 y 2 del artículo 7.2.3., se tramitarán conforme al artículo 5.1.17. de esta Ordenanza, sin perjuicio de la aplicación del artículo 5.2.8. cuando corresponda. Si las modificaciones inciden en el proyecto de cálculo estructural, deberán adjuntarse, debidamente modificados, los documentos a que se refiere el artículo 5.1.7. de esta Ordenanza. Tratándose de proyectos de cálculo estructural que deben someterse a revisión conforme al artículo 5.1.25., estos documentos deberán estar visados por el Revisor de Proyecto de Cálculo Estructural.
 
 Las solicitudes de modificación de proyectos de loteo o loteo con construcción simultánea aprobados con las normas del numeral 1 del artículo 7.2.3. de este capítulo, se tramitarán conforme a las disposiciones del artículo 3.1.9. de esta Ordenanza.
 
@@ -11628,11 +11814,11 @@ RECEPCIONES DE OBRAS QUE SE REALICEN EN ZONAS DECRETADAS AFECTADAS POR CATÁSTRO
 
 #### Artículo 7
 
-3.1. Las normas contenidas en los artículos 5.2.1., 5.2.2., 5.2.3. y 5.2.4. de esta Ordenanza, serán aplicables a las obras que se ejecuten de conformidad a los artículos 7.2.2. y 7.2.3. de esta Ordenanza.
+3.1. Las normas contenidas en los artículos 5.2.1., 5.2.2., 5.2.3. y 5.2.4. de esta Ordenanza, serán aplicables a las obras que se ejecuten de conformidad a los artículos 7.2.2. y 7.2.3. de esta Ordenanza. Asimismo, serán aplicables a las obras que se ejecuten de acuerdo al Capítulo 6 del Título 1 de esta Ordenanza.
 
 #### Artículo 7
 
-3.2. Las recepciones a las que se refiere este Capítulo no requerirán autorizaciones o pronunciamientos de otros organismos del Estado, salvo que se trate de modificaciones de cauces a los que se refiere el artículo 116 bis D) de la Ley General de Urbanismo y Construcciones.
+3.2. Las recepciones o las declaraciones juradas de término de ejecución, a las que se refiere este Capítulo, no requerirán autorizaciones o pronunciamientos de otros organismos del Estado, salvo que se trate de modificaciones de cauces a los que se refiere el artículo 116 bis D) de la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 7
 
@@ -11678,7 +11864,7 @@ PROYECTOS DE INTERÉS PÚBLICO
 
 5.1. El Ministerio de Vivienda y Urbanismo, mediante resolución, podrá calificar un proyecto de construcción específico como "proyecto de interés público". Efectuada dicha calificación, se entenderá que el proyecto forma parte de las nuevas construcciones a que se refiere el inciso primero del artículo 116 bis D de la Ley General de Urbanismo y Construcciones, aun cuando no forme parte de los planes de reconstrucción regionales o municipales.
 
-En consecuencia, el proyecto calificado de interés público mediante resolución del Ministerio de Vivienda y Urbanismo podrá acogerse a las normas especiales y procedimientos simplificados que correspondan establecidos bajo este Título, para cuyo efecto la referida resolución deberá adjuntarse a la solicitud respectiva.
+En consecuencia, el proyecto calificado de interés público mediante resolución del Ministerio de Vivienda y Urbanismo podrá acogerse a las normas especiales y procedimientos simplificados que correspondan establecidos bajo este Título, para cuyo efecto la referida resolución deberá adjuntarse a la solicitud o a la declaración jurada, según corresponda.
 
 La resolución que califique un proyecto determinado como uno de interés público deberá ser fundada dando cuenta expresa de las razones que justifican acogerse a dichas normas y procedimientos. Dicha resolución deberá publicarse en el Diario Oficial
 
