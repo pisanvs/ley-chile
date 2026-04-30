@@ -88,7 +88,7 @@ Lo anterior, de conformidad con lo señalado en los convenios que, previamente, 
 
 #### Artículo 6°
 
-Los efectos de este decreto tendrán vigencia hasta el día 30 de abril de 2026, sin perjuicio de la facultad de disponer su término anticipado o su prórroga, si las condiciones así lo ameritan.
+Los efectos de este decreto tendrán vigencia hasta el día 30 de abril de 2027, sin perjuicio de la facultad de disponer su término anticipado o su prórroga, si las condiciones así lo ameritan.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, María Vegoña Yarza Sáez, Ministra de Salud.
 
