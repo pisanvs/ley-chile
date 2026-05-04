@@ -78,7 +78,7 @@ Asimismo, tendrá amplias facultades para realizar las indagaciones pertinentes 
 
 #### Artículo 11º
 
-Podrá el fiscal instructor, durante la sustanciación del procedimiento, suspender, como medida preventiva, a los funcionarios involucrados, informando de ello de inmediato y por escrito a la autoridad o jefatura que dispuso la instrucción del sumario y a la Jefatura de Servicio respectivo. Dicha medida no podrá prolongarse más allá de la aprobación de la Vista Fiscal, por la autoridad correspondiente, salvo que ésta disponga su prórroga hasta que se dicte la resolución final.
+Podrá el fiscal instructor, durante la sustanciación del procedimiento, suspender, como medida preventiva, a los funcionarios involucrados, informando de ello de inmediato y por escrito a la autoridad o jefatura que dispuso la instrucción del sumario y a la Jefatura de Servicio respectivo. Dicha medida no podrá prolongarse más allá de la aprobación de la Vista Fiscal, por la autoridad correspondiente, salvo que ésta disponga su prórroga hasta que se dicte la resolución final. También se informará su ulterior levantamiento, en los mismos términos.
 
 #### Artículo 12º
 
@@ -158,7 +158,7 @@ Una vez vencido el periodo indagatorio, el fiscal instructor dictará, en el pla
 
 #### Artículo 22º
 
-Si existen antecedentes que lo justifiquen, el fiscal instructor podrá, en cualquier etapa del procedimiento, proponer el sobreseimiento, elevándolo al Contralor General, o al Contralor Regional en su caso, quien lo aprobará, o bien, podrá disponer fundadamente la reapertura de la investigación, ordenando diligencias, fijando un plazo para tal efecto.
+Si existen antecedentes que lo justifiquen, el fiscal instructor podrá, en cualquier etapa del procedimiento, proponer el sobreseimiento en su Vista Fiscal, elevándolo para su tramitación conforme a lo establecido en los artículos 34 y siguientes.
 
 Podrá sobreseerse al involucrado en los siguientes casos:
 
@@ -206,11 +206,13 @@ Las diligencias probatorias que sean solicitadas por el inculpado se gestionará
 
 El fiscal instructor dispondrá la recepción de las pruebas ofrecidas y el cumplimiento de las diligencias solicitadas, para lo cual podrá fijar un período probatorio no superior a diez días, notificando de ello al inculpado. En casos calificados, al existir diligencias pendientes decretadas oportunamente y no cumplidas por fuerza mayor, se podrá prorrogar dicho plazo por hasta cinco días.
 
-Sin embargo, podrá rechazar aquellas diligencias que no fueren conducentes al esclarecimiento de los hechos o la responsabilidad de los involucrados. De esta resolución podrá reclamarse ante el Jefe de la Unidad de Sumarios de la Fiscalía o ante el Jefe de la Unidad Jurídica en las Contralorías Regionales, según corresponda, dentro de segundo día.
+Sin embargo, podrá rechazar aquellas diligencias que no fueren conducentes al esclarecimiento de los hechos o la responsabilidad de los involucrados. De esta resolución podrá reclamarse ante la Jefatura del Departamento de Procesos Disciplinarios de la División de Función Pública o ante la Jefatura de la Unidad Jurídica en las Contralorías Regionales, según corresponda, dentro de segundo día.
 
 #### Artículo 30º
 
-El fiscal instructor podrá disponer, hasta antes de la Vista Fiscal, la práctica de medidas para mejor resolver.
+Durante la tramitación del sumario, cualquiera sea su etapa, todos los funcionarios deberán proporcionar los datos, informes, documentos y demás antecedentes que el fiscal estime necesarios para la investigación. Además, estarán obligados a prestar declaración ante el fiscal.
+
+El incumplimiento de estas obligaciones podrá acarrear la responsabilidad administrativa correspondiente.
 
 #### Artículo 31º
 
@@ -226,25 +228,23 @@ La Vista Fiscal constará de exposición, análisis y conclusiones. En la exposi
 
 #### Artículo 34º
 
-La Vista Fiscal se elevará al Jefe de la Unidad de Sumarios de la Fiscalía o al Jefe de la Unidad Jurídica, quienes la aprobarán y emitirán su juicio respecto de las medidas que corresponda adoptar, o bien, podrán disponer fundadamente la reapertura del sumario, ordenando diligencias y fijando un plazo preciso para tal efecto. En uno u otro caso, la jefatura respectiva deberá pronunciarse en el plazo de diez días.
-
-En aquellas Contralorías Regionales en que exista una Unidad de Personal y Responsabilidad Administrativa (UPRA), las funciones que este reglamento le asigna al Jefe de la Unidad Jurídica, serán cumplidas por la Jefatura de la UPRA.
+La Vista Fiscal se elevará al Jefe del Departamento de Procesos Disciplinarios de la División de Función Pública o al Jefe de la Unidad Jurídica de la respectiva Contraloría Regional, quienes la aprobarán y emitirán su juicio respecto de las medidas que corresponda adoptar, o bien, podrán disponer fundadamente la reapertura del sumario, ordenando diligencias y fijando un plazo preciso para tal efecto. En uno u otro caso, la jefatura respectiva deberá pronunciarse en el plazo de diez días.
 
 #### Artículo 35º
 
-La Vista Fiscal aprobada por la respectiva jefatura de la unidad a cargo de la instrucción de procedimientos disciplinarios, se elevará al Contralor General o al Contralor Regional, según corresponda.
+La Vista Fiscal aprobada por la respectiva jefatura de la unidad a cargo de la instrucción de procedimientos disciplinarios, se elevará a la Jefatura de la División de Función Pública o al Contralor Regional, según corresponda.
 
 #### Artículo 36º
 
-La resolución pronunciada por el Contralor General o el Contralor Regional, en su caso, que aprueba el sumario determinará si existe responsabilidad administrativa, y propondrá a la autoridad competente las sanciones que se estimen procedentes aplicar respecto de los inculpados, su absolución, el sobreseimiento de éstos, o del sumario administrativo, notificándose al efecto. Asimismo, la mencionada resolución, será comunicada a la autoridad que corresponda.
+La resolución pronunciada por la Jefatura de la División de Función Pública o el Contralor Regional, en su caso, que aprueba el sumario, determinará si existe responsabilidad administrativa, y propondrá a la autoridad competente las sanciones que se estimen procedentes aplicar respecto de los inculpados, su absolución, el sobreseimiento de éstos, o del sumario administrativo. Asimismo, la mencionada resolución será comunicada a la autoridad que corresponda.
 
-Esta resolución constará de una parte expositiva, en la cual se señalarán los antecedentes que se han tenido presentes al momento de su dictación, una parte considerativa, en la que se expondrán, someramente, los hechos que se han establecido en el sumario y los fundamentos de derecho. Se analizarán, en su caso, los cargos formulados, las defensas planteadas y la prueba que obre en el proceso, además, se dejará constancia de la concurrencia de circunstancias modificatorias de responsabilidad, concluirá con la parte resolutiva, la que aprobará la Vista Fiscal, proponiendo la aplicación de medidas disciplinarias, la absolución, el sobreseimiento del involucrado o del sumario. Asimismo, se señalará la existencia de una eventual responsabilidad civil, y en caso de aparecer hechos que puedan constituir un ilícito penal, se dispondrá la remisión de los antecedentes a la autoridad competente.
+Esta resolución constará de una parte expositiva, en la cual se señalarán los antecedentes que se han tenido presentes al momento de su dictación, una parte considerativa, en la que se expondrán, someramente, los hechos que se han establecido en el sumario y los fundamentos de derecho. Se analizarán, en su caso, los cargos formulados, las defensas planteadas y la prueba que obre en el proceso, además, se dejará constancia de la concurrencia de circunstancias modificatorias de responsabilidad, concluirá con la parte resolutiva, la que aprobará el sumario administrativo, proponiendo la aplicación de medidas disciplinarias, la absolución, el sobreseimiento del involucrado o del sumario. Asimismo, deberá obligatoriamente indicar si de los hechos investigados se deriva o no algún eventual daño patrimonial que amerite la persecución de la responsabilidad civil respectiva, caso en el cual los antecedentes deberán ser remitidos al Juzgado de Cuentas o al Consejo de Defensa del Estado, según corresponda. En caso de aparecer hechos que puedan constituir un ilícito penal, se dispondrá la remisión de los antecedentes a la autoridad competente.
 
-Si alguno de los inculpados lo fuere en razón del desempeño del cargo de Alcalde, la parte dispositiva de la referida resolución se limitará a establecer la existencia o no de responsabilidad administrativa por parte de aquél. En tal caso se dispondrá la remisión de copia de la misma al Concejo Municipal respectivo.
+Si alguno de los inculpados lo fuere en razón del desempeño del cargo de alcalde, la parte dispositiva de la referida resolución se limitará a establecer la existencia o no de su responsabilidad administrativa, en cuyo caso se dispondrá la remisión de copia de la misma al Concejo Municipal respectivo. Por su parte, si de la referida investigación se deriva eventual responsabilidad patrimonial o civil de un alcalde o concejal, se procederá conforme al inciso precedente.
 
 #### Artículo 37º
 
-En caso que el Contralor General o Contralor Regional, en su caso, estime que la investigación no se encuentra agotada, podrá ordenar la reapertura del sumario, a efectos de concluirla en plenitud, indicando las diligencias que sean pertinentes.
+En caso de que la Jefatura de la División de Función Pública o Contralor Regional, en su caso, estime que la investigación no se encuentra agotada, podrá ordenar la reapertura del sumario, a efectos de concluirla en plenitud, indicando las diligencias que sean pertinentes.
 
 #### Artículo 38º
 
@@ -273,6 +273,8 @@ Las fiscalías administrativas permanentes serán creadas por resolución exenta
 El Contralor General, o quienes designe, podrán ordenar la instrucción de sumarios administrativos conforme al procedimiento especial que regula este título. El sumario se iniciará mediante una resolución que señale expresamente que aquel se regirá por el procedimiento especial y que indique los hechos precisos que lo motivan.
 
 En el mismo acto o en otro distinto, se individualizará la fiscalía administrativa permanente encargada de la substanciación del sumario. Del mismo modo, se podrá reasignar un sumario en curso a una fiscalía administrativa permanente distinta.
+
+El Contralor General, o quien éste designe, podrá disponer que los procesos disciplinarios iniciados bajo el procedimiento general del Título I, continúen su tramitación conforme a las reglas del procedimiento especial regulado en este Título.
 
 #### Artículo 43
 
@@ -340,7 +342,7 @@ Si fuere acogida la recusación de un fiscal investigador, éste dejará de inte
 
 Serán aplicables a los sumarios administrativos tramitados por las fiscalías administrativas permanentes las normas y plazos establecidos para el procedimiento general, en cuanto sean compatibles con lo establecido en el presente Título.
 
-El fiscal administrativo permanente y los fiscales investigadores gozan de las atribuciones generales de investigación señaladas en el artículo 15 de este reglamento para los fiscales instructores.
+El fiscal administrativo permanente y los fiscales investigadores gozan de las atribuciones generales de investigación señaladas para los fiscales instructores, en el Título I de este reglamento.
 
 Las diligencias probatorias serán ordenadas por el fiscal administrativo permanente y ejecutadas por los fiscales investigadores, quienes se encuentran facultados para llevar a cabo todas las actuaciones necesarias para cumplir con las diligencias decretadas. Sin perjuicio de lo anterior, el fiscal administrativo permanente podrá realizar personalmente las diligencias y actuaciones que estime pertinentes para el éxito de la investigación.
 
@@ -350,9 +352,7 @@ En estos sumarios no procederá la designación de actuario.
 
 Cuando sea necesario, el fiscal administrativo permanente, por resolución fundada consignada en el cuaderno principal, podrá formar cuadernos separados con la realización de determinadas diligencias o agregación de documentos.
 
-El fiscal administrativo permanente podrá suspender, como medida preventiva, a los funcionarios involucrados, conforme con lo dispuesto en el artículo 11 del presente reglamento.
-
-En los procedimientos tramitados por las fiscalías administrativas permanentes, las facultades establecidas para el Jefe de la Unidad de Sumarios de la Fiscalía serán ejercidas por el Jefe del Departamento de Procesos Disciplinarios o el Contralor Regional respectivo, según corresponda.
+El fiscal administrativo permanente podrá decretar la suspensión de los funcionarios, conforme con lo dispuesto en el artículo 11 del presente reglamento.
 
 ## Título III
 
@@ -378,7 +378,7 @@ En todo caso, a los sumarios administrativos señalados en el inciso anterior le
 
 a) Las víctimas y personas afectadas por las eventuales infracciones tendrán derecho a aportar antecedentes a la investigación, a conocer su contenido desde la formulación de cargos, a ser notificadas e interponer recursos en contra de los actos administrativos, en los mismos términos que el funcionario inculpado.
 
-b) Cuando el fiscal instructor o el fiscal administrativo permanente, según corresponda, proponga el sobreseimiento y éste sea aprobado, deberá notificarse la resolución que afina el procedimiento a la persona denunciante, dentro del plazo de cinco días, quien podrá interponer el recurso jerárquico en el plazo de veinte días contado desde que tomó conocimiento de aquella.
+b) Cuando el fiscal instructor o el fiscal administrativo permanente, según corresponda, proponga el sobreseimiento, la resolución que aprueba la Vista Fiscal deberá notificarse a la persona denunciante, quien podrá interponer el recurso de reposición en el plazo de 5 días contados desde la notificación. La resolución que acoja la reposición deberá disponer la reapertura de la investigación, ordenando diligencias, fijando un plazo para tal efecto.
 
 #### Artículo 49
 
