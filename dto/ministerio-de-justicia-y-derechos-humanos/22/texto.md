@@ -496,6 +496,108 @@ Autorizada una rectificación, ésta deberá practicarse manteniendo la fecha de
 
 De la resolución del Director Nacional del Servicio de Registro Civil e Identificación que niegue lugar a una inscripción o anotación en el Registro, o que no dé lugar a una solicitud de rectificación, modificación o cancelación, podrá reclamarse de conformidad a lo dispuesto en el artículo 49 de la Ley de Tránsito.
 
+## Título IX
+
+De las especificaciones que deberá cumplir el duplicado de placa patente y requisitos y procedimiento para su otorgamiento.
+
+#### Artículo 40
+
+El duplicado de la placa patente única será otorgado por el Servicio de Registro Civil e Identificación y tendrá las mismas características de la o las placas patentes únicas extraviadas, inutilizadas, gravemente deterioradas, hurtadas o robadas, incluso en sus signos de identificación, con indicación, según corresponda, de si se trata del duplicado de la placa delantera o trasera. Asimismo, llevará un código de verificación alfanumérico que permitirá comprobar su autenticidad mediante dispositivos electrónicos, así como el número de veces que han sido duplicadas las placas.
+
+#### Artículo 41
+
+En caso de extravío, inutilización, deterioro grave, robo o hurto de la o las placas patentes únicas, la solicitud de duplicado se efectuará a través de la página web del Servicio de Registro Civil e Identificación, mediante la clave única de la propietaria o propietario inscrito del vehículo o de su representante, según corresponda, de la siguiente forma:
+
+1. Tratándose de vehículos inscritos en el Registro de Vehículos Motorizados a nombre de una persona natural, el requerimiento deberá efectuarlo la propietaria o el propietario inscrito o quien lo represente.
+
+2. Tratándose de vehículos inscritos a nombre de comunidades, el requerimiento podrá efectuarlo cualquiera de los comuneros o comuneras, o quien los represente.
+
+3. Tratándose de vehículos inscritos a nombre de una persona jurídica, el requerimiento deberá efectuarlo su representante legal.
+
+En los casos previstos en los numerales precedentes, de resultar procedente, deberá adjuntarse a la solicitud el instrumento en el cual conste el acto que da origen a la representación o encargo en virtud del cual comparece. Para efectos de acreditar lo anterior, tratándose de documentos cuyo formato original no sea electrónico, estos podrán acompañarse a la solicitud mediante copia digitalizada, debiendo la persona solicitante declarar de manera expresa la autenticidad y conformidad de la copia digitalizada, bajo apercibimiento de aplicarse lo previsto en el artículo 210 del Código Penal. Asimismo, estos documentos deberán ser acompañados materialmente en soporte papel, haciendo entrega de ellos en las oficinas previamente habilitadas para estos efectos por resolución del Director o Directora Nacional del Servicio de Registro Civil e Identificación.
+
+El Servicio podrá requerir a la persona solicitante, o a quien corresponda, los antecedentes adicionales que se estimen necesarios para efectos de cotejar la autenticidad y conformidad de los documentos en soporte de papel y sus copias digitalizadas. Toda infracción a la autenticidad y conformidad de las copias digitalizadas respecto a los documentos originales generará las responsabilidades administrativas, civiles y penales correspondientes.
+
+En caso de que la calidad en virtud de la cual se comparece conste en documento electrónico suscrito mediante firma electrónica, la persona solicitante deberá igualmente declarar de manera expresa la veracidad de las declaraciones contenidas en el respectivo instrumento, bajo apercibimiento de aplicarse lo previsto en el artículo 210 del Código Penal.
+
+#### Artículo 42
+
+La persona solicitante deberá acompañar a su solicitud una declaración jurada simple en que se establezca el motivo por el cual se requiere el duplicado, bajo el apercibimiento previsto en el artículo 210 del Código Penal.
+
+Si la solicitud se funda en el robo o hurto de la o las placas patentes, la persona solicitante deberá además acreditar haber realizado previamente una denuncia del hecho, acompañando el parte emitido por el Ministerio Público a través del Sistema de Información y Atención de Usuarios.
+
+Si la solicitud se funda en extravío, inutilización o deterioro grave, se deberá dejar constancia de aquello en la página web del Servicio de Registro Civil e Identificación; en caso de destrucción total de la patente, se deberá dar cuenta de aquello expresamente. Además, en los casos de inutilización o deterioro grave de la o las placas patentes únicas, que no implique su destrucción total, la entrega de los duplicados se encontrará supeditada a la devolución previa de la o las placas gravemente deterioradas o inutilizadas al Servicio de Registro Civil e Identificación.
+
+En caso de que se solicitare duplicado respecto de solo una de las placas del vehículo, la placa original que subsista deberá ubicarse en la parte delantera del mismo.
+
+#### Artículo 43
+
+Una vez que se hubiere verificado el cumplimiento de los requisitos previstos en los artículos precedentes, el Servicio de Registro Civil e Identificación dará curso a la solicitud y extenderá a la persona solicitante, dentro de los dos días hábiles siguientes, un certificado digital de autorización provisorio para circular que cumpla las características señaladas en el artículo 44 y una placa patente provisoria que cumpla con las características que se indican en el artículo 45. Ambos documentos serán sustitutos temporales del duplicado de la placa patente única solicitada y autorizarán al vehículo para circular por el plazo que en el certificado se señale, el cual no podrá exceder de 60 días corridos, tanto el certificado como la placa provisoria podrán ser descargados por una sola vez en la página web del Servicio de Registro Civil e Identificación, previo pago de los derechos respectivos.
+
+#### Artículo 44
+
+El certificado digital de autorización provisorio para circular que emita el Servicio de Registro Civil e Identificación de forma previa a la entrega de los duplicados de las placas patentes únicas, será autorizado con firma electrónica avanzada, contendrá las respectivas letras y números del código de placa patente asignado al vehículo y un código de verificación alfanumérico y, a lo menos, la siguiente información:
+
+a) Ubicación de la placa patente única cuyo duplicado se solicita: delantera, trasera o ambas.
+
+b) Número de chasis y/o número de identificación del vehículo (VIN), según corresponda.
+
+c) Rol Único Nacional o Rol Único Tributario, del propietario o propietaria, según se trate de personas naturales o jurídicas. En el caso de tratarse de una comunidad, deberá señalarse el rol del primer comunero o comunera que figure en la respectiva inscripción.
+
+d) Causal de la solicitud.
+
+e) Fecha de ingreso de la solicitud de duplicado; fecha de entrega del certificado y término de su vigencia; en caso de haber sido prorrogado, señalará igualmente la fecha de la prórroga.
+
+f) La indicación del número de duplicados solicitados a la fecha de emisión del certificado.
+
+g) Oficina en que se retirará el o los duplicados.
+
+#### Artículo 45
+
+La placa patente provisoria para circular que emita el Servicio de Registro Civil e Identificación de forma previa a la entrega de los duplicados de las placas patentes únicas, de conformidad a lo previsto en el artículo 43, tendrá la vigencia asignada en el respectivo certificado y además deberá cumplir con las siguientes características:
+
+a) Medirá treinta y dos (32) centímetros de largo x veinte (20) centímetros de ancho.
+
+b) Fondo color blanco.
+
+c) Letra, dígitos y orla perimetral de color negro. Las letras y dígitos serán los mismos de la placa extraviada.
+
+d) Indicará fecha de otorgamiento y vencimiento.
+
+e) Contará con timbre de la oficina del Servicio de Registro Civil e Identificación que la otorga y firma de la respectiva jefatura.
+
+#### Artículo 46
+
+El certificado de autorización provisorio para circular y la placa patente provisoria, señalados en el artículo 43, deberán ser impresos por la o el requirente en una sola hoja blanca tamaño oficio impresa por ambas caras y deberán ser adheridos en la esquina inferior derecha interior del parabrisas delantero del vehículo, con la placa patente provisoria hacia el exterior de forma tal que resulte visible e identificable y el certificado de autorización al reverso. Lo anterior, independientemente de que la solicitud de duplicado sea respecto de una o de ambas placas patentes únicas y del motivo de la solicitud. Tratándose de vehículos motorizados de dos o tres ruedas, el certificado de autorización provisorio para circular y la placa patente provisoria deberán ser adheridos en la parte posterior de la carrocería, en el lugar destinado para la instalación de la placa patente única.
+
+#### Artículo 47
+
+Dentro del plazo informado en el certificado de autorización provisorio para circular, previa notificación del Servicio de Registro Civil de encontrarse listo el duplicado de la o las placas patentes únicas, la persona solicitante deberá concurrir a la oficina señalada por el usuario al momento de su solicitud y retirar el duplicado de la o las placas patentes únicas.
+
+La o el titular de la inscripción o su representante, según corresponda, podrá designar al momento de requerir el duplicado, a la persona que hará retiro de la o las placas patentes únicas.
+
+En cualquier caso, previo al retiro, deberá exhibirse el permiso de circulación del vehículo vigente y el respectivo certificado vigente de seguro obligatorio de accidentes causados por vehículos motorizados. De igual modo, deberá hacerse devolución en dicho acto del ejemplar del certificado de autorización provisorio para circular y la placa patente provisoria que hubieren sido otorgadas.
+
+Las placas patentes únicas deberán instalarse en la parte delantera o trasera del vehículo según se señale en estas. Tratándose de vehículos que deben portar sólo una placa patente, deberán instalarse únicamente en su parte trasera. La instalación deberá efectuarse inmediatamente después de la entrega, no siendo posible que el vehículo circule sin sus placas patentes únicas instaladas.
+
+#### Artículo 48
+
+El Servicio de Registro Civil e Identificación podrá, de oficio o a petición de parte, prorrogar la vigencia del certificado de autorización provisorio para circular y de la placa provisoria, cuando la persona solicitante no hubiere recibido el duplicado de la placa patente única dentro del plazo originalmente considerado. En tal caso, se le extenderá un nuevo certificado, indicando el nuevo plazo de vigencia, el que podrá descargarse por una única vez en la página web del Servicio de Registro Civil e Identificación.
+
+En caso de extravío o deterioro del certificado digital impreso de autorización provisorio para circular y placa provisoria, el propietario, la propietaria o su representante legal, podrá requerirlo nuevamente en la página web del Servicio de Registro Civil e Identificación. En tal caso, este nuevo certificado indicará, en forma visible, la circunstancia de ser una copia del documento original y su vigencia se extenderá por el tiempo que restare al plazo señalado originalmente.
+
+#### Artículo 49
+
+Carabineros de Chile y Policía de Investigaciones de Chile podrán solicitar información al Servicio de Registro Civil e Identificación respecto de las solicitudes y duplicados de placas patentes únicas, conforme a sus competencias y con estricto apego a lo previsto en la ley Nº 19.628, sobre protección de la vida privada.
+
+El Servicio de Registro Civil e Identificación podrá celebrar convenios con estos organismos con objeto de garantizar el resguardo e integridad de las comunicaciones y de la información que se entregue, pudiendo disponerse la utilización de medios electrónicos para estos fines. Los medios que se dispongan para tal efecto deberán permitir la trazabilidad de la información que se entrega y determinar la identidad de quienes hubieren tenido acceso a esta.
+
+#### Artículo 50
+
+Los certificados de inscripción y anotaciones vigentes que otorgue el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación darán cuenta de las solicitudes de duplicados "en trámite", la fecha en que fueron solicitados, las causales esgrimidas para fundar la solicitud y la indicación de corresponder la placa patente única solicitada a la placa delantera, trasera o a ambas.
+
+Una vez confeccionadas y entregadas las placas patente únicas en el sistema de duplicados del Servicio de Registro Civil e Identificación, se cambiará el estado del proceso de "en trámite" a "otorgadas", indicando fecha y oficina de retiro. Asimismo, a partir de la fecha de entrega, en los certificados que se emitan de conformidad a las disposiciones que regulan el funcionamiento del Registro de Vehículos Motorizados, se dará cuenta de la circunstancia de que el vehículo circula con duplicados, precisando el número de duplicados que se hubieren emitido respecto de la referida patente.
+
 #### Artículo único
 
 transitorio.- Las disposiciones del presente reglamento entrarán en vigencia en el plazo de treinta días corridos contados desde su publicación en el Diario Oficial.
