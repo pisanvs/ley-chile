@@ -52,39 +52,47 @@ Las solicitudes que se presenten serán sometidas a las etapas y plazos establec
 
 El Servicio, mediante resolución, otorgará la autorización para plaguicidas microbianos, en la medida que la evaluación realizada sea favorable, debiendo pronunciarse al respecto dentro del plazo de seis (6) meses, contados desde que el Servicio cuente con la totalidad de la información necesaria para la evaluación técnica (Etapa II). Este plazo se suspenderá desde la fecha de la solicitud de antecedentes adicionales u observaciones por parte del Servicio hasta la entrega por parte del solicitante, de los antecedentes requeridos.
 
+Finalmente, en la etapa III, se revisará la documentación y se procederá con lo estipulado en los numerales 5, 6.2.4 y 7 bis de la resolución Nº 1.557, de 2014, del Servicio.
+
+Para el caso de productos formulados en base a extractos de fermentación microbiológica y microorganismos, el microorganismo será evaluado de acuerdo a la presente resolución con los antecedentes técnicos indicados en los numerales 10 y 11 de la presente resolución, y para los antecedentes técnicos del extracto de fermentación microbiológica se presentarán los requisitos técnicos indicados en el punto 11 del Título V del numeral 1 de la resolución Nº 6.152, de 2023, si se trata de un extracto natural de baja preocupación, o de acuerdo al numeral 8 de la resolución Nº 1.557, de 2014, si se trata de un extracto natural de preocupación.
+
+Las solicitudes de autorización de los plaguicidas microbianos, tanto de microorganismos como de los productos formulados, podrán ser presentadas de acuerdo a alguna de las siguientes modalidades:
+
+1. Por esquema de identidad: aplicable para microorganismos y plaguicidas microbianos que presenten y cumplan con todos los requisitos técnicos establecidos en los títulos II, III y IV de la presente resolución.
+
+2. Autorizaciones basadas en sustancias activas grados técnicos o productos formulados idénticos a otros ya autorizados: aplicable sólo para plaguicidas microbianos autorizados bajo la presente resolución, debiendo cumplir con los requisitos establecidos en el Título V de la resolución Nº 1.557, de 2014.
+
+3. Para los siguientes tipos de autorización, deberán cumplir de acuerdo a las condiciones, requisitos y documentación establecidos en el Título V de la resolución Nº 1.557, de 2014:
+
+i. Por esquema de reconocimiento del proceso de registro o de la autorización de sustancia activa.
+
+ii. Plaguicidas con usos en cultivos menores.
+
+iii. Plaguicidas para producción orgánica.
+
+iv. Plaguicidas sólo para exportación.
+
+v. Plaguicidas en ecosistemas naturales.
+
+vi. Patrones analíticos o materiales de referencia certificado.
+
+vii. Muestras para experimentación.
+
 ## Título II
 
 REQUERIMIENTOS PREVIOS
 
 ### 4. Condiciones de la documentación
 
-Los documentos que se acompañen a la solicitud de autorización, deberán presentarse en original impreso, debidamente foliado y una copia digital.
+Los requisitos que debe cumplir la documentación se regirán conforme el numeral 4.2. de la resolución Nº 1.557, de 2014, que establece exigencias para la autorización de plaguicidas.
 
-Toda la documentación que se adjunte como antecedente para la autorización de un plaguicida microbiano, debe estar escrita en idioma español, inglés o portugués, en este último caso acompañado de su traducción al español. Con todo, es responsabilidad del solicitante la veracidad de los antecedentes que proporcione.
+### 5. Estudios realizados para el respaldo del expediente
 
-En el caso de haberse emitido en el extranjero los siguientes documentos deberán cumplir con las formalidades establecidas en la legislación vigente para que tengan validez en el país:
+Los estudios deberán ajustarse a los requisitos establecidos en el numeral 4.3. de la resolución Nº 1.557, de 2014, que establece exigencias para la autorización de plaguicidas.
 
-a. Documentos emitidos por las autoridades competentes: Certificados que demuestren la dirección del productor o fabricante y que en dicha planta se produce la sustancia natural o se produce o fabrica el producto formulado.
+### 6. Publicación de extracto en el Diario Oficial
 
-b. Documentos emitidos por el productor o fabricante, o un tercero por contrato en el extranjero: Certificados de Composición cualicuantitativo, Certificado de Fabricación/Formulación/Producción de la sustancia natural o producto formulado, Certificados de Producto Libre de organismos genéticamente modificados (OGM) de la emitido por el productor de la sustancia natural o producto formulado, Certificados de Confirmación de Compatibilidad para Uso en Agricultura Orgánica.
-
-c. Documentos emitidos por la Cámara de Comercio del país de origen: Certificados que demuestren la dirección del productor o fabricante y que en dicha planta se produce la sustancia natural o se produce o fabrica el producto formulado.
-
-En el caso de los certificados de composición cualicuantitativo emitidos en el país, estos deberán ser autorizados ante notario.
-
-5. Estudios realizados para el respaldo del expediente. Cuando los usos del plaguicida se respalden con estudios de eficacia, el solicitante de la autorización de un plaguicida microbiano deberá previamente haber finalizado los ensayos de verificación de eficacia preliminarmente autorizados por el Servicio, de acuerdo con lo establecido en la resolución de este Servicio que establece los requisitos para las muestras de plaguicidas de uso experimental.
-
-Los informes de estudios realizados fuera del país, deberán cumplir con las condiciones y formalidades establecidas en el numeral 4 de la presente resolución y lo descrito en los requisitos técnicos respectivos. Para el caso de estudios realizados con protocolos de otros países, deberá adjuntarse el protocolo completo. Los estudios hechos con protocolos propios del solicitante, deberán venir acompañados de la metodología completa, y la validación correspondiente.
-
-6. Publicación de extracto en el Diario Oficial. Previo al ingreso de la solicitud de autorización, el solicitante deberá publicar en el Diario Oficial un extracto de la solicitud, previamente visado por el Servicio. La publicación deberá realizarse con una antelación de al menos 46 días hábiles y máximo un año respecto de la fecha de presentación de la solicitud de autorización del plaguicida microbiano ante el SAG.
-
-La publicación deberá realizarse los días primero o quince de cada mes, o el primer día hábil siguiente, si aquellos fueren domingo o feriado.
-
-En el caso que transcurra más de un año desde la publicación del extracto en el Diario Oficial sin que se presente la solicitud ante el SAG o la información publicada en el extracto difiera de la del formulario, deberá publicarse un nuevo extracto.
-
-El extracto deberá contener la individualización del solicitante de la autorización; el nombre comercial del plaguicida, aptitud, composición, tipo de formulación, productor del producto formulado, usos a que se destinará y clasificación toxicológica.
-
-Cualquier interesado podrá presentar ante el Servicio observaciones fundadas a la solicitud, las que deberán realizarse por escrito, dentro del plazo de cuarenta y cinco (45) días hábiles contado desde la fecha de la publicación en el Diario Oficial, las cuales serán analizadas por el Servicio en el proceso de evaluación de la solicitud de autorización del plaguicida.
+Respecto de la publicación del extracto, se realizará conforme lo establecido en el numeral 4.4. de la resolución Nº 1.557, de 2014, que establece exigencias para la autorización de plaguicidas.
 
 ## Título III
 
@@ -123,6 +131,8 @@ Si la fecha de constitución de sociedad o de otorgación de poderes es inferior
 En caso que la documentación señalada se encuentre en poder del Subdepartamento de Plaguicidas y Fertilizantes del Servicio Agrícola y Ganadero, y cuyas vigencias no se encuentren vencidas (es decir que no haya transcurrido más de 6 meses desde la certificación), no será necesario presentarla nuevamente, bastando hacer referencia explícita de la anterior solicitud en que fue presentada al Servicio.
 
 9.2 Copia publicación extracto del Diario Oficial.
+
+9.3 El solicitante deberá cumplir con lo indicado en el numeral 4.1.4 de la resolución Nº 1.557, de 2014.
 
 ## Título IV
 
@@ -201,6 +211,8 @@ Indicar identidad, función y contenido máximo de aditivos, cuando corresponda.
 Para la identificación de las sustancias químicas señalar nombre químico UIQPA y CAS; nombre común, si existe; número CAS, CE y CICAP (Si existe).
 
 10.1.4.3 Material importado o introducido al país. En el caso de plaguicidas microbianos elaborados en base a microorganismos que serán importados o introducidos al país, deberá indicarse la cantidad del agente a ser internado y una descripción detallada de los sustratos orgánicos e inorgánicos que se utilizarán para el transporte del agente al país.
+
+10.1.5. Países a los que se exportará el material compuesto por microorganismos de producción nacional. Debe respaldarse con certificado emitido por la autoridad competente del país, en el cual se demuestre que ese microorganismo está autorizado en ese país de destino con la apostilla correspondiente, o un documento en que conste que se encuentra en proceso de autorización.
 
 10.2. Propiedades biológicas y utilización. Los documentos que respalden este numeral deberán ser de carácter científico o emitidos por el productor del microorganismo y/o subproductos metabólicos (resúmenes, artículos de revistas científicas indexadas, documentos de organismos gubernamentales internacionales).
 
@@ -358,6 +370,8 @@ Informar sobre la toxicidad, infecciosidad y patogenicidad para:
 
 10.10. Información complementaria. Sin perjuicio de lo anterior, el Servicio podrá solicitar información complementaria adicional sobre el microorganismo y/o subproductos metabólicos para el proceso de evaluación.
 
+10.11. Proyecto de la etiqueta de transporte de la unidad de embalaje del microorganismo (sustancia activa grado técnico), de acuerdo a lo que está establecido en el numeral 5.1 de la resolución Nº 1.557, de 2014.
+
 11. Requisitos técnicos para la evaluación de productos formulados a base de microorganismos.
 
 11.1 Descripción general.
@@ -392,7 +406,7 @@ iii) Este documento deberá presentarse con la apostilla del país de dicha plan
 
 11.1.6 Denominación y código de formulación. Cuando algún formulado no se halle exactamente definido en la normativa vigente, deberá ofrecerse una descripción completa de la naturaleza y el estado físico del producto, junto con una propuesta de descripción del tipo de producto.
 
-11.1.7 Países de destino a los que se exportará, en el caso de un plaguicida de formulación nacional y cuando corresponda.
+11.1.7 Países de destino a los que se exportará, en el caso de un plaguicida de formulación nacional y cuando corresponda. Debe respaldarse con certificado emitido por la autoridad competente del país, en el cual se demuestre que ese producto está autorizado en ese país de destino con la apostilla correspondiente, o un documento en que conste que se encuentra en proceso de autorización.
 
 11.2 Composición.
 
@@ -502,7 +516,9 @@ Para la determinación utilizar metodología de la Unión Europea, OCDE, OCSPP d
 
 11.4.1.9 Compatibilidad / Incompatibilidad con otras sustancias químicas o biológicas
 
-11.4.10 Otras propiedades para formulaciones específicas.
+11.4.1.10. Corrosividad.
+
+11.4.1.11. Otras propiedades para formulaciones específicas, de acuerdo a la formulación que se está presentando.
 
 11.5. Datos sobre la aplicación.
 
@@ -548,7 +564,7 @@ c. Capacidad(es).
 
 d. Sistema de cierre.
 
-e. Resistencia.
+e. Resistencia, de acuerdo a los numerales 9.6.1.4 y 9.6.2 de la resolución Nº 1.557, de 2014.
 
 f. Procedimientos para la descontaminación y destrucción de los envases.
 

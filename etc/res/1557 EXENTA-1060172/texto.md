@@ -38,6 +38,8 @@ c. Autorización de Muestra de Plaguicida para Experimentación: Resolución med
 
 d. Coformulante: Cualquier sustancia, distinta de la sustancia activa grado técnico, incorporada intencionalmente a la formulación.
 
+d bis. Componente de sustancia activa (CSA): Es un compuesto químico individual que contribuye a la actividad de la sustancia activa en un semioquímico. Se puede combinar más de un componente o isómero para formar la sustancia activa.
+
 e. Equivalencia: Proceso para la determinación de la similaridad de los perfiles de impurezas, toxicológicos ecotoxicológicos, así como de las propiedades físicas y químicas presentadas para sustancias activas grado técnico supuestamente similares generados por distintos fabricantes, para establecer si ellos presentan niveles similares de riesgo.
 
 e. bis. Especificación del Servicio: Aquella especificación de parámetros de calidad tales como pureza de la sustancia activa, contenido máximo de impureza relevante u otro, que el Servicio establece para la evaluación y autorización de un plaguicida por equivalencia e identidad.
@@ -49,6 +51,8 @@ g. ELIMINADO.
 h. Identidad: Proceso para la autorización de una sustancia activa grado técnico y un producto formulado en el cuál los antecedentes técnicos acreditan un perfil único.
 
 i. Impurezas relevantes: Son aquellos subproductos de fabricación o almacenamiento del plaguicida, los cuales, comparados con la sustancia activa, son toxicológicamente significativos para la salud o el ambiente, son fitotóxicos a las plantas tratadas, causan contaminación en cultivos para consumo, afectan la estabilidad del plaguicida o presentan cualquier otro efecto adverso.
+
+i bis. Impurezas significativas: Son aquellos subproductos de fabricación o almacenamiento del plaguicida en cantidades iguales o superiores a 1 g/kg.
 
 j. Ingrediente Activo: Sustancia Activa.
 
@@ -124,13 +128,25 @@ ix. Plaguicidas que se han sometido al esquema de reconocimiento del proceso de 
 
 4. Requerimientos previos técnicos y administrativos para la autorización de un plaguicida.
 
-4.1. Solicitante o Titular.
+4.1. Solicitante o Titular. La autorización deberá ser solicitada al Servicio por una persona que tenga su domicilio en el país y deberá presentar los siguientes antecedentes:
 
-La autorización deberá ser solicitada al Servicio por una persona que tenga su domicilio en el país y deberá presentar los siguientes antecedentes:
+4.1.1. Personas Naturales
 
-4.1.1. Nombre, RUT y Dirección.
+a. Nombre, RUT, dirección y Correo electrónico.
 
-4.1.2. Representante Legal, RUT, Dirección (Deberá acreditar legalmente la representación) y Correo electrónico.
+b. Fotocopia de la Cédula de Identidad.
+
+4.1.2. Personas Jurídicas:
+
+a. Identificación de la persona jurídica con su nombre, RUT y dirección.
+
+b. Copia de Escritura de constitución de la persona jurídica o Copia de Inscripción en Registro de Comercio del Extracto de Constitución de la Sociedad con certificado de vigencia de a lo máximo 6 meses de antigüedad.
+
+c. Identificación del Representante legal, RUT, dirección y correo electrónico.
+
+d. Fotocopia de la Cédula de Identidad del Representante legal.
+
+e. Copia de la escritura donde conste el poder otorgado con certificado de vigencia de a lo máximo 6 meses de antigüedad. Si la fecha de constitución de sociedad o de otorgación de poderes es inferior a 6 meses, no será necesario el certificado de vigencia.
 
 4.1.3. Página web, si corresponde.
 
@@ -144,7 +160,19 @@ Toda la documentación que se adjunte como antecedente para la autorización de 
 
 El Resumen ejecutivo debe estar en idioma español.
 
-Los documentos que se acompañen a la solicitud de autorización, deberán presentarse en original impreso, debidamente foliado y una copia digital.
+Los documentos que se acompañen a la solicitud de autorización pueden presentarse de 3 formas:
+
+i. Documentación en original impreso, debe ser suscrita con las formalidades indicadas en el presente numeral para el caso de los certificados, documentación, declaraciones, justificaciones técnicas o informes complementarios; para el caso de los estudios de eficacia y estudios nacionales, deberá seguir con lo indicado en este numeral, lo indicado en los incisos primero y segundo del numeral 4.3, y lo indicado en el numeral 9.5; para el caso de las copias de los estudios extranjeros, deberá cumplir con lo señalado en el inciso segundo de este numeral, en el inciso tercero del numeral 4.3 y lo descrito en los requisitos técnicos respectivos; y, finalmente, para las copias de publicaciones científicas, debe cumplir con lo indicado en el inciso segundo de este numeral. ii. Documentación creada en formato digital, debe ser suscrita con las formalidades indicadas en el presente numeral para el caso de los certificados, documentación, declaraciones, justificaciones técnicas o informes complementarios, y de acuerdo con lo señalado en el decreto Nº 4, de 2020, del Ministerio Secretaría General de la Presidencia; para el caso de los estudios de eficacia y estudios nacionales, deberá seguir con lo indicado en este numeral, lo indicado en los incisos primero y segundo del numeral 4.3, y lo indicado en el numeral 9.5; para el caso de las copias de estudios extranjeros, deberá cumplir con lo señalado en este numeral, en el numeral 4.3 y lo descrito en los requisitos técnicos respectivos; y, finalmente, para las copias de publicaciones científicas, deben cumplir con lo indicado en el inciso segundo de este numeral. iii. Documentación que estando en original impreso, con las formalidades indicadas en el numeral romano i supra, puede ser digitalizada a partir de los documentos originales físicos y cumplir con lo indicado en decreto Nº 4, de 2020, del Ministerio Secretaría General de la Presidencia.
+
+En caso de presentar documentación emitida en el país:
+
+. Documentación suscrita en digital: como certificados (de origen, composición, físico-químicos), declaraciones juradas, declaraciones de responsabilidad emitidas por la empresa o informes de estudio de eficacia, deberá presentarse con Firma Electrónica Avanzada y a través de un prestador acreditado de servicios de certificación, cumpliendo con lo indicado en la ley Nº 19.799 y su reglamentación correspondiente, y en conformidad a lo establecido en el artículo 10 del decreto Nº 4, de 2020, del Ministerio Secretaría General de la Presidencia. El Servicio podrá solicitar el listado de personas habilitadas que cuenten con Firma Electrónica Avanzada. Las escrituras públicas y los documentos digitales legalizados ante notario con Firma Electrónica Avanzada deberán seguir lo indicado en el decreto Nº 73, de 2022, del Ministerio de Justicia y Derechos Humanos, y en la normativa vigente respectiva.
+
+. Documentación suscrita en original impreso y que sea digitalizada: deberá cumplir con lo indicado en el artículo 11 del decreto Nº 4, de 2020 del Ministerio Secretaría General de la Presidencia, respecto al cotejo de autenticidad y conformidad de documentos en soporte papel y sus copias digitalizadas presentadas por los interesados.
+
+En el caso de documentación digital emitida en el extranjero, será reconocida la firma digital o electrónica cuando exista algún Acuerdo de Reconocimiento Mutuo de certificación de la firma digital con el país de emisión de la documentación correspondiente, según el decreto correspondiente del Ministerio de Relaciones Exteriores de Chile, el cual debe estar vigente al momento de la presentación de la fecha de la solicitud. Sin perjuicio de lo anterior, respecto a la legalización de documentos extranjeros de acuerdo con la normativa vigente del país de origen podrán venir apostillados de acuerdo a la Convención de La Haya que suprime la exigencia de legalización de documentos públicos extranjeros que fue promulgada por el decreto Nº 228, de 2015 del Ministerio de Relaciones Exteriores de Chile, en el caso de un país signatario de dicha convención, se deberá seguir con lo indicado en el artículo 345 bis del Código de Procedimiento Civil. En caso contrario, deberá seguir con lo indicado en el artículo 345 de dicho Código.
+
+Se eximen de esta exigencia los respaldos solicitados como "estudios", "copia de estudios" o "determinaciones", según corresponda.
 
 En el caso de haberse emitido en el extranjero los siguientes documentos deberán cumplir con las formalidades establecidas en la legislación vigente para que tengan validez en el país:
 
@@ -1628,11 +1656,19 @@ d. Para las medidas contempladas en Sanidad y Protección Animal, y normativa as
 
 Se podrá aplicar este esquema de evauación sólo para un producto formulado que contiene una sustancia activa idéntica a un plaguicida ya autorizado por la autoridad competente en Estados Unidos de América o en la Unión Europea, y en la medida que se cumplan las siguientes condiciones:
 
-a) La sustancia activa tenga vigente su registro o autorización ante la autoridad correspondiente y no esté sometida a un proceso de revisión.
+a) La sustancia activa (sustancia activa grado técnico o sustancia natural) tenga vigente su registro o autorización ante la autoridad correspondiente. En el caso de que la autorización esté sometida a revisión y luego de esta la decisión final sea desfavorable para el registro, el Servicio puede denegar la solicitud o en el caso que se haya autorizado, se procederá a la cancelación de la autorización correspondiente.
 
-b) El plaguicida producido o fabricado en base a la sustancia activa registrada o autorizada se fabrica o produce y se utiliza en al menos un estado o país del bloque económico en el cual se encuentra registrado o autorizado.
+b) El plaguicida producido o fabricado en base a la sustancia activa registrada o autorizada se fabrica o produce en los mismos orígenes autorizados en EE.UU. o en la Unión Europea, y se utiliza en al menos un estado o país del bloque económico en el cual se encuentra registrado o autorizado.
 
-c) La solicitud no corresponde a una sustancia activa grado técnico idéntico o producto formulado idéntico de un plaguicida que ya ha sido autorizado por este esquema de reconocimiento.
+En el caso que la sustancia activa (sustancia activa grado técnico o sustancia natural) registrada en alguno de los países mencionados en el presente numeral esté cuestionada, prohibida o se declare que la información es insuficiente para determinar cierto efecto adverso, el Servicio podrá someter a un análisis previo de la situación y, si procede, determinar el rechazo del ingreso de la solicitud.
+
+c) La solicitud no corresponde a una sustancia activa grado técnico idéntico, sustancia natural idéntica o producto formulado idéntico de un plaguicida que ya ha sido autorizado por este esquema de reconocimiento.
+
+Para las sustancias naturales en el caso de los agentes de control biológico se debe señalar la cepa correspondiente, y en el caso de los extractos naturales y semioquímicos se deben señalar las sustancias principales del extracto o componentes de sustancias activas, según corresponda, de acuerdo a lo registrado en Estados Unidos o la Unión Europea.
+
+Se excluyen de este tipo de solicitudes los Protectores Incorporados en Plantas (PIP) o la dispersión de Organismos Genéticamente Modificados (OGM).
+
+Para el caso de plaguicidas naturales se debe someter al análisis previo de las unidades técnicas correspondiente del Servicio, respectivo al ingreso de material biológico, ingreso de extractos provenientes de OGM, y respecto a otras medidas de la normativa vigente sobre sanidad animal, o de convenio CITES, en caso de extractos de origen animal. En base a una resolución favorable respecto a dicho análisis, se procederá a procesar la solicitud correspondiente.
 
 22.bis.2. Documentación requerida para evaluación del reconocimiento del proceso de registro o autorización de sustancias activas.
 
@@ -1640,37 +1676,51 @@ No será necesario acompañar a la solicitud aquellos antecedentes relativos a l
 
 a) Para el caso de una sustancia activa autorizada por la autoridad competente en Estados Unidos de América:
 
-i. Documento(s) oficial(es) emitido(s) por la Usepa que acredite(n) el registro vigente de la sustancia activa y del formulado, en ese país: Cartas de sello dorado (Gold Seal Letter) u otro documento equivalente.
+i. Carta con sello dorado (Gold Seal Letter) de la sustancia activa grado técnico o sustancia natural, y del producto formulado o Certificado de Autorización en Estados Unidos.
 
-ii. Documentación con información emitida por Usepa sobre: Información de la sustancia activa grado técnico: pureza, contenido equivalente ácido, impurezas, impurezas relevantes, aditivos (todo expresado en % o g/kg): Declaración Confidencial de Fórmula (Confidential Statement of Formula, CSF), Registro de Evaluación de Datos (Data Evaluation Record, DER), u otros complementarios.
+ii. Documentación emitida por EPA (Confidential Statement of Formula, C S F; Data Evaluation Record, DER; u otros complementarios) con información sobre:
 
-iii. Certificado de composición cuali-cuantitativo que demuestre que corresponde a la misma sustancia activa, del formulado que se quiere registrar en Chile (emitido por el fabricante registrado en Estados Unidos).
+La sustancia activa grado técnico: pureza, contenido equivalente ácido, impurezas significativas, impurezas relevantes y aditivos; todo expresado en % o g/kg; o,
 
-iv. Certificado de fabricación del mismo origen autorizado en Estados Unidos, emitido por la fábrica.
+La sustancia natural: contenido de sustancia natural (indicando la cepa para agentes de control biológico), contenido de componentes principales (sustancias principales del extracto (SPE) o componente de sustancia activa (CSA) del semioquímico), impurezas significativas, impurezas relevantes, aditivos, microorganismos contaminantes, toxinas o metabolitos relevantes, y otros componentes (como condensados, medio de cultivo, promotores de la alimentación, entre otros); todo expresado en % o g/kg y, cuando sean biológicos, en otras unidades adecuadas como UFC/g, UI/g, etc.).
 
-v. Certificado o documento de autorización de la Planta de producción de la sustancia activa, emitido por la Usepa, si es que la dirección del certificado de registro de la sustancia activa grado técnico es distinta a la dirección de la planta que la fabrica.
+iii. Certificado de composición cuali-cuantitativo que demuestre que corresponde a la misma sustancia activa grado técnico o sustancia natural, del formulado que se quiere registrar en Chile (emitido por el fabricante o productor registrado en Estados Unidos).
 
-vi. Otra información que el Servicio solicite en forma complementaria para el proceso de evaluación, en caso de estimarlo necesario.
+iv. Certificado de fabricación o producción del mismo origen autorizado en Estados Unidos, emitido por el fabricante o productor.
+
+v. Certificado o documento de autorización de la planta de fabricación o producción de la sustancia activa grado técnico o sustancia natural, emitido por la Usepa, si es que la dirección del certificado de registro de la sustancia activa grado técnico o sustancia natural es distinta a la dirección de la planta que la fabrica o produce.
+
+vi. Otros documentos:
+
+Etiqueta de la sustancia activa grado técnico o sustancia natural y CSF del producto formulado autorizados por la EPA.
+
+Otra información que el Servicio solicite en forma complementaria para el proceso de evaluación, en caso de estimarlo necesario.
 
 b) Para el caso de una sustancia activa autorizada en la Unión Europea:
 
-i. Documento/s oficial/es emitido/s por la autoridad competente de la Unión Europea que acredite/n el registro vigente de la sustancia activa y del formulado en los países miembros.
+i. Certificado de Vigencia del producto formulado emitido por la autoridad oficial y copia del Reglamento de ejecución de la Comisión Europea (acto administrativo) en la que se autorizó la sustancia activa (sustancia activa grado técnico o sustancia natural) en la Unión Europea.
 
-ii. Documentación con información emitida por UE con la Información de la sustancia activa grado técnico: pureza, contenido equivalente ácido, impurezas, impurezas relevantes, aditivos (todo expresado en % o g/kg): Proyecto de Informe de Evaluación (Draft Assessment Report, DAR) u otros documentos relacionados, cuando se trata de primer registro o Informe de la evaluación de equivalencia, en el caso de ser registro por equivalencia.
+ii. Documentación emitida por la UE: Proyecto de Informe de Evaluación (Draft Assessment Report, DAR), Informe de Evaluación o Informe de Evaluación de Renovación, IER (Renewal Assessment Report, RAR) de los estados miembros ponentes. Esta documentación debe incluir la siguiente información:
 
-iii. Certificado de composición cuali-cuantitativo que demuestre que corresponde a la misma sustancia activa, del formulado que se quiere registrar en Chile (emitido por el fabricante registrado en Unión Europea).
+Sobre la sustancia activa grado técnico: pureza, contenido equivalente ácido, impurezas significativas, impurezas relevantes y aditivos, todo expresado en % o g/kg; o,
 
-iv. Certificado de fabricación del mismo origen autorizado en la Unión Europea, emitido por la fábrica.
+Sobre la sustancia natural: contenido de sustancia natural (indicando la cepa para agentes de control biológico), contenido de componentes principales (sustancias principales del extracto (SPE) o componente de sustancia activa (CSA) del semioquímico), impurezas significativas, impurezas relevantes, aditivos, microorganismos contaminantes, toxinas o metabolitos relevantes, y otros componentes (como condensados, medio de cultivo, promotores de la alimentación, entre otros); todo expresado en % o g/kg y, cuando sean biológicos, en otras unidades adecuadas como UFC/g, UI/g, etc.).
 
-v. Certificado o documento de autorización de la Planta de producción de la sustancia activa, emitido por la autoridad competente, si la dirección del documento oficial de registro de la sustancia activa grado técnico es distinta a la dirección de la planta que la fabrica.
+iii. Certificado de composición cuali-cuantitativo que demuestre que corresponde a la misma sustancia activa grado técnico o sustancia natural, del formulado que se quiere registrar en Chile (emitido por el fabricante o productor registrado en Unión Europea).
+
+iv. Certificado de fabricación o producción del mismo origen autorizado en la Unión Europea, emitido por la el fabricante o productor.
+
+v. Certificado o documento de autorización de la Planta de producción de la sustancia activa grado técnico o sustancia natural, emitido por la autoridad competente, si la dirección del documento oficial de registro de la sustancia activa grado técnico o sustancia natural es distinta a la dirección de la planta que la fabrica.
 
 vi. Otra información que el Servicio solicite en forma complementaria para el proceso de evaluación, en caso de estimarlo necesario.
 
-Para la evaluación del producto formulado, el solicitante debe adjuntar toda la información de acuerdo a los requisitos indicados en la presente resolución.
+La información debe cumplir lo establecido en el numeral 4 de la presente resolución, o bajo el título "Requerimientos previos" para el caso de la normativa con requerimientos específicos de los plaguicidas naturales o coadyuvantes, según corresponda, y debe ser validada por el Servicio.
+
+Para la evaluación del producto formulado, el solicitante debe adjuntar toda la información de acuerdo a los requisitos indicados en la presente resolución, o bajo el título correspondiente para el caso de la normativa con requerimientos específicos de los plaguicidas naturales o coadyuvantes.
 
 Sin perjuicio de lo anterior, el Servicio podrá solicitar información complementaria adicional para el proceso de evaluación.
 
-Las solicitudes serán sometidas a las etapas y plazos descritos en la presente resolución, o aquella que la reemplace, y el solicitante deberá pagar las tarifas correspondientes, considerando el cumplimiento de los requisitos administrativos y técnicos establecidos en la presente resolución.
+Las solicitudes serán sometidas a las etapas y plazos descritos en la presente resolución, o aquella que la reemplace, y el solicitante deberá pagar las tarifas correspondientes, considerando el cumplimiento de los requisitos administrativos y técnicos establecidos en la presente resolución, o bajo el título correspondiente para el caso de la normativa con requerimientos específicos de los plaguicidas naturales o coadyuvantes.
 
 De este modo, durante la Etapa I de verificación documental se realizará la revisión de la información presentada para optar al reconocimiento de la sustancia activa presente en la formulación, junto con la verificación de los documentos de respaldo para el producto formulado, de modo tal que si la documentación de respaldo corresponde a lo exigido en la presente resolución, el Servicio informará al solicitante la conformidad de la etapa de verificación documental de la solicitud de su producto.
 
