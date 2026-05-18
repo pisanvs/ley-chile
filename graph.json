@@ -1,0 +1,50 @@
+{
+  "1206373": {
+    "idNorma": 1206373,
+    "numero": "21694",
+    "titulo": "MODIFICA LOS CUERPOS LEGALES QUE INDICA PARA MEJORAR LA PERSECUCIÓN PENAL EN MATERIA DE REINCIDENCIA Y DELITOS DE MAYOR CONNOTACIÓN SOCIAL",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "2024-09-04",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "30733": {
+    "idNorma": 30733,
+    "numero": "19366",
+    "titulo": "SANCIONA EL TRAFICO ILICITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTROPICAS, DICTA Y MODIFICA DIVERSAS DISPOSICIONES LEGALES Y DEROGA LEY N° 18.403",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1995-01-30",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "1192530": {
+    "idNorma": 1192530,
+    "numero": "21575",
+    "titulo": "MODIFICA DIVERSOS CUERPOS LEGALES CON EL OBJETO DE MEJORAR LA PERSECUCIÓN DEL NARCOTRÁFICO Y CRIMEN ORGANIZADO, REGULAR EL DESTINO DE LOS BIENES INCAUTADOS EN ESOS DELITOS Y FORTALECER LAS INSTITUCIONES DE REHABILITACIÓN Y REINSERCIÓN SOCIAL",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "2023-05-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "235507": {
+    "idNorma": 235507,
+    "numero": "20000",
+    "titulo": "SUSTITUYE LA LEY Nº 19.366, QUE SANCIONA EL TRAFICO ILICITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTROPICAS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "2005-02-16",
+    "modifica": [],
+    "modificadaPor": [
+      1192530,
+      1206373
+    ]
+  },
+  "29815": {
+    "idNorma": 29815,
+    "numero": "18403",
+    "titulo": "SANCIONA EL TRAFICO ILICITO DE DROGAS Y ESTUPEFACIENTES Y DEROGA LA LEY N° 17.934",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1985-03-04",
+    "modifica": [],
+    "modificadaPor": []
+  }
+}
