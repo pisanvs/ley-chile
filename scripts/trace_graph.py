@@ -4,6 +4,11 @@ Build the complete legislative graph starting from a root norma.
 Traces backward (what it substituted/derogated) and forward (what modified it),
 then commits every law's full version history in chronological order.
 
+Graph relationships are sourced from datos.bcn.cl JSON endpoints
+(https://datos.bcn.cl/recurso/cl/ley/{numero}/datos.json), which are fast
+and require no SPARQL. Laws too recent to appear in the BCN dataset are
+listed in KNOWN_RECENT as a fallback.
+
 Laws are classified as:
   - leyes/          substantive laws with their own subject matter
   - modificaciones/ laws whose primary purpose is amending other laws
@@ -38,7 +43,7 @@ log = logging.getLogger(__name__)
 REPO_ROOT = Path(__file__).resolve().parent.parent
 NS = "http://www.leychile.cl/esquemas"
 LEYCHILE_URL = "https://www.leychile.cl/Consulta/obtxml"
-SPARQL_URL = "https://datos.bcn.cl/sparql"
+BCN_BASE = "https://datos.bcn.cl/recurso/cl"
 UA = "ley-chile/0.1 (https://github.com/pisanvs/ley-chile; civic open data)"
 
 # SPARQL dataset lags ~1-2 years. Hardcode recent modifiers not yet indexed.
@@ -71,16 +76,18 @@ EXTRA_SEEDS: list[int] = [
 # HTTP helpers
 # ---------------------------------------------------------------------------
 
-_last_request: float = 0.0
+_last_request: dict[str, float] = {}
 
 
-def _rate_limited_get(url: str, params: dict, delay: float = 1.0) -> requests.Response:
-    global _last_request
-    elapsed = time.monotonic() - _last_request
+def _rate_limited_get(url: str, params: dict = {}, delay: float = 1.0) -> requests.Response:
+    from urllib.parse import urlparse
+    host = urlparse(url).netloc
+    last = _last_request.get(host, 0.0)
+    elapsed = time.monotonic() - last
     if elapsed < delay:
         time.sleep(delay - elapsed)
     resp = requests.get(url, params=params, headers={"User-Agent": UA}, timeout=30)
-    _last_request = time.monotonic()
+    _last_request[host] = time.monotonic()
     resp.raise_for_status()
     return resp
 
@@ -93,104 +100,95 @@ def fetch_norma_xml(id_norma: int, version_date: str | None = None) -> ET.Elemen
     return ET.fromstring(resp.content)
 
 
-def sparql_query(query: str, retries: int = 4) -> list[dict]:
-    delay = 2.0
+def fetch_norma_xml_by_ley(numero: str) -> ET.Element:
+    """Fetch norma XML by ley number (LeyChile resolves idNorma from number)."""
+    resp = _rate_limited_get(LEYCHILE_URL, {"opt": 7, "idLey": numero})
+    return ET.fromstring(resp.content)
+
+
+def _bcn_json(tipo: str, numero: str | int, retries: int = 4) -> dict | None:
+    """
+    Fetch the datos.bcn.cl RDF/JSON document for a norma.
+
+    URL pattern: https://datos.bcn.cl/recurso/cl/{tipo}/{numero}/datos.json
+    Returns a dict with RDF predicates ('isModifiedBy', 'modifiesTo', etc.)
+    from the first entry in the response (any version entry works, they all
+    carry the full relationship graph).
+    """
+    url = f"{BCN_BASE}/{tipo}/{numero}/datos.json"
+    retry_delay = 2.0
     for attempt in range(retries):
         try:
-            resp = requests.get(
-                SPARQL_URL,
-                params={"query": query, "format": "json"},
-                headers={"Accept": "application/sparql-results+json", "User-Agent": UA},
-                timeout=30,
-            )
+            resp = _rate_limited_get(url, delay=0.3)
             resp.raise_for_status()
-            return resp.json().get("results", {}).get("bindings", [])
+            data = resp.json()
+            # Response is {uri: {...predicates...}}; all entries share the same relationships.
+            if data:
+                return next(iter(data.values()))
+            return None
         except Exception as exc:
-            log.warning("SPARQL attempt %d/%d failed: %s", attempt + 1, retries, exc)
-            time.sleep(delay)
-            delay *= 2
-    return []
+            log.warning("BCN JSON attempt %d/%d for %s/%s: %s", attempt + 1, retries, tipo, numero, exc)
+            time.sleep(retry_delay)
+            retry_delay *= 2
+    return None
 
 
-def _v(binding: dict, key: str) -> str:
-    return binding.get(key, {}).get("value", "")
+def _bcn_objs(node: dict, predicate_local: str) -> list[dict]:
+    """Return the list of RDF objects for a short predicate name in a BCN JSON node."""
+    prefix = "http://datos.bcn.cl/ontologies/bcn-norms#"
+    return node.get(prefix + predicate_local, [])
+
+
+def _bcn_literal(node: dict, predicate_local: str) -> str:
+    objs = _bcn_objs(node, predicate_local)
+    return str(objs[0]["value"]) if objs else ""
+
+
+def _uri_to_ley_numero(uri: str) -> str | None:
+    """Extract the ley number from a BCN URI like .../cl/ley/.../20000 or .../20000/es@..."""
+    # strip version suffix
+    base = uri.split("/es@")[0]
+    parts = base.rstrip("/").split("/")
+    # expect parts[-1] to be the law number, parts[-3] to be "ley"
+    try:
+        idx = parts.index("ley")
+        return parts[idx + 3]  # .../ley/{organismo}/{fecha}/{numero}
+    except (ValueError, IndexError):
+        return None
 
 
 # ---------------------------------------------------------------------------
-# SPARQL graph queries
+# BCN JSON graph queries
 # ---------------------------------------------------------------------------
 
-def get_bcn_uris(id_normas: list[int]) -> dict[int, str]:
-    """Batch lookup: idNorma → BCN resource URI for a list of normas."""
-    if not id_normas:
-        return {}
-    values = " ".join(str(i) for i in id_normas)
-    rows = sparql_query(f"""
-        PREFIX bcn: <http://datos.bcn.cl/ontologies/bcn-norms#>
-        SELECT ?code ?s WHERE {{
-          ?s bcn:leychileCode ?code .
-          FILTER(!CONTAINS(STR(?s), "/es@"))
-          VALUES ?code {{ {values} }}
-        }}""")
-    result: dict[int, str] = {}
-    for r in rows:
-        code_str = _v(r, "code")
-        uri = _v(r, "s")
-        if code_str.isdigit() and "/ley/" in uri and "/proyecto" not in uri:
-            result[int(code_str)] = uri
-    return result
+def get_bcn_info(tipo: str, numero: str | int) -> dict | None:
+    """
+    Return a dict with idNorma, isModifiedBy, and modifiesTo for a norma,
+    sourced from the datos.bcn.cl JSON endpoint.
+    """
+    node = _bcn_json(tipo, numero)
+    if node is None:
+        return None
 
+    id_norma_raw = _bcn_literal(node, "leychileCode")
+    id_norma = int(id_norma_raw) if str(id_norma_raw).isdigit() else None
 
-def get_modifiers_for_uri(bcn_uri: str) -> list[dict]:
-    """Return all laws that modified the given norma URI."""
-    rows = sparql_query(f"""
-        PREFIX bcn: <http://datos.bcn.cl/ontologies/bcn-norms#>
-        SELECT DISTINCT ?s ?titulo ?fecha ?numero ?code WHERE {{
-          {{
-            ?s bcn:modifiesTo <{bcn_uri}> .
-          }} UNION {{
-            ?s bcn:modifiesTo ?ver .
-            FILTER(STRSTARTS(STR(?ver), "{bcn_uri}/"))
-          }}
-          FILTER(!CONTAINS(STR(?s), "/es@"))
-          OPTIONAL {{ ?s <http://purl.org/dc/elements/1.1/title> ?titulo }}
-          OPTIONAL {{ ?s bcn:publishDate ?fecha }}
-          OPTIONAL {{ ?s bcn:hasNumber ?numero }}
-          OPTIONAL {{ ?s bcn:leychileCode ?code }}
-        }} ORDER BY ?fecha""")
-    seen: set[str] = set()
-    result = []
-    for r in rows:
-        uri = _v(r, "s")
-        if uri in seen:
-            continue
-        seen.add(uri)
-        code_str = _v(r, "code")
-        result.append({
-            "uri": uri,
-            "titulo": _v(r, "titulo"),
-            "fecha": _v(r, "fecha"),
-            "numero": _v(r, "numero"),
-            "idNorma": int(code_str) if code_str.isdigit() else None,
-        })
-    return result
+    def _extract_refs(pred: str) -> list[dict]:
+        result = []
+        for obj in _bcn_objs(node, pred):
+            uri = obj.get("value", "")
+            ley_num = _uri_to_ley_numero(uri)
+            result.append({"uri": uri, "numero": ley_num})
+        return result
 
+    fecha = _bcn_literal(node, "publishDate")
 
-def get_modifiers_batch(bcn_uris: list[str]) -> dict[str, list[dict]]:
-    """Run get_modifiers_for_uri for each URI. One query per URI."""
-    return {uri: get_modifiers_for_uri(uri) for uri in bcn_uris}
-
-
-def get_modifies_targets(bcn_uri: str) -> list[int]:
-    """Return idNormas of all laws that the given norma modifies."""
-    rows = sparql_query(f"""
-        PREFIX bcn: <http://datos.bcn.cl/ontologies/bcn-norms#>
-        SELECT DISTINCT ?code WHERE {{
-          <{bcn_uri}> bcn:modifiesTo ?target .
-          FILTER(!CONTAINS(STR(?target), "/es@"))
-          ?target bcn:leychileCode ?code .
-        }}""")
-    return [int(_v(r, "code")) for r in rows if _v(r, "code").isdigit()]
+    return {
+        "idNorma": id_norma,
+        "fecha": fecha,
+        "isModifiedBy": _extract_refs("isModifiedBy"),
+        "modifiesTo": _extract_refs("modifiesTo"),
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -540,36 +538,64 @@ def build_graph(root_id_norma: int, skip_sparql: bool = False) -> dict:
     Inclusion criteria: a law belongs in the graph if and only if it directly
     modifies one of the PRIMARY chain laws (root + EXTRA_SEEDS).
 
-    SPARQL is used only for the primary-chain laws (one query per primary law).
-    --skip-sparql falls back to KNOWN_RECENT + EXTRA_SEEDS only.
+    Uses datos.bcn.cl JSON endpoints (one request per primary-chain law).
+    --skip-sparql skips BCN JSON discovery and falls back to KNOWN_RECENT + EXTRA_SEEDS only.
     """
     primary_chain: set[int] = {root_id_norma} | set(EXTRA_SEEDS)
     all_ids: set[int] = set(primary_chain)
     modifiers_by_id: dict[int, list[dict]] = {idn: [] for idn in primary_chain}
     modifica_by_id: dict[int, list[int]] = {idn: [] for idn in primary_chain}
 
+    # Map idNorma → ley numero for primary chain (needed to build BCN URLs)
+    # Fetch quickly from LeyChile XML
+    primary_numeros: dict[int, str] = {}
+    for idn in primary_chain:
+        try:
+            root = fetch_norma_xml(idn)
+            meta = extract_metadata(root)
+            primary_numeros[idn] = meta["numero"]
+        except Exception as exc:
+            log.warning("Could not fetch numero for idNorma=%d: %s", idn, exc)
+
     if not skip_sparql:
-        # Resolve BCN URIs for all primary-chain laws in one batched call
-        log.info("SPARQL: resolving BCN URIs for %d primary-chain laws ...", len(primary_chain))
-        uri_map = get_bcn_uris(list(primary_chain))
-        log.info("  Resolved %d/%d URIs", len(uri_map), len(primary_chain))
+        for id_norma, numero in primary_numeros.items():
+            log.info("BCN JSON: fetching relationships for Ley %s ...", numero)
+            info = get_bcn_info("ley", numero)
+            if info is None:
+                log.warning("  No BCN JSON data for Ley %s", numero)
+                continue
 
-        # One SPARQL query per primary-chain law to find its modifiers
-        for id_norma, bcn_uri in uri_map.items():
-            log.info("SPARQL: finding modifiers of idNorma=%d ...", id_norma)
-            mods = get_modifiers_for_uri(bcn_uri)
-            modifiers_by_id[id_norma] = mods
-            for m in mods:
-                if m["idNorma"]:
-                    all_ids.add(m["idNorma"])
-            log.info("  Found %d modifiers", len(mods))
+            for ref in info.get("isModifiedBy", []):
+                ref_num = ref.get("numero")
+                if not ref_num:
+                    continue
+                # Resolve idNorma via BCN JSON (avoids extra LeyChile call)
+                ref_info = get_bcn_info("ley", ref_num)
+                if ref_info and ref_info.get("idNorma"):
+                    rid = ref_info["idNorma"]
+                    modifiers_by_id[id_norma].append({
+                        "idNorma": rid,
+                        "numero": ref_num,
+                        "fecha": ref_info.get("fecha", ""),
+                    })
+                    all_ids.add(rid)
+                else:
+                    log.warning("  Could not resolve modifier Ley %s via BCN JSON", ref_num)
 
-            log.info("SPARQL: finding what idNorma=%d modifies ...", id_norma)
-            targets = get_modifies_targets(bcn_uri)
-            modifica_by_id[id_norma] = targets
-            log.info("  Modifies %d laws", len(targets))
+            # Store modifiesTo ley numbers directly from BCN JSON (no extra requests).
+            # idNormas are not needed here — the field is informational only.
+            modifica_by_id[id_norma] = [
+                ref["numero"]
+                for ref in info.get("modifiesTo", [])
+                if ref.get("numero") and ref["numero"].isdigit()
+            ]
 
-    # Apply KNOWN_RECENT on top of SPARQL results
+            log.info(
+                "  isModifiedBy=%d, modifiesTo=%d",
+                len(modifiers_by_id[id_norma]), len(modifica_by_id[id_norma]),
+            )
+
+    # Apply KNOWN_RECENT on top of JSON results
     for hid, hdata in KNOWN_RECENT.items():
         for target_id in hdata.get("modifies", []):
             if target_id in primary_chain:
@@ -686,7 +712,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--skip-sparql", action="store_true",
-        help="Skip SPARQL discovery; use only KNOWN_RECENT + EXTRA_SEEDS (fast, offline)"
+        help="Skip BCN JSON discovery; use only KNOWN_RECENT + EXTRA_SEEDS (fast, offline)"
     )
     args = parser.parse_args()
 
