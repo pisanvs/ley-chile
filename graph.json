@@ -42,18 +42,20 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1995-01-30",
     "modifica": [
-      3469,
-      18914,
-      5333,
-      30287,
-      6962,
-      29815,
-      30626
+      "19259",
+      "18916",
+      "18403",
+      "19259",
+      "18403",
+      "19259",
+      "18916",
+      "18403",
+      "18916"
     ],
     "modificadaPor": [
-      30760,
-      198675,
       219119,
+      198675,
+      30760,
       235507
     ]
   },
@@ -82,31 +84,41 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "2005-02-16",
     "modifica": [
-      191865,
-      197482,
-      243771,
-      14962,
-      150973,
-      251693,
-      18914,
-      1016103,
-      3477,
-      25563,
-      29967,
-      30077,
-      30216,
-      145437,
-      30542,
-      30287,
-      29427,
-      29864,
-      30733
+      "18840",
+      "19366",
+      "18695",
+      "19175",
+      "7421",
+      "19175",
+      "18695",
+      "19366",
+      "19175",
+      "18840",
+      "18695",
+      "18460",
+      "18575",
+      "18575",
+      "19640",
+      "18916",
+      "18916",
+      "17997",
+      "18575",
+      "19640",
+      "19640",
+      "18840",
+      "18916",
+      "17997",
+      "18460",
+      "7421",
+      "18460",
+      "19366",
+      "17997"
     ],
     "modificadaPor": [
+      1040510,
       243832,
       1021537,
       1040829,
-      1040510,
       1075210,
       1192530,
       1206373
@@ -121,25 +133,17 @@
     "modifica": [],
     "modificadaPor": []
   },
-  "3477": {
-    "idNorma": 3477,
-    "numero": "1",
-    "titulo": "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY N° 19.366, QUE SANCIONA EL TRAFICO ILICITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTROPICAS, DICTA Y MODIFICA DIVERSAS DISPOSICIONES LEGALES Y DEROGA LA LEY N° 18.403",
-    "clasificacion": "sustantiva",
-    "fechaPublicacion": "1995-10-18",
-    "modifica": [],
-    "modificadaPor": []
-  },
   "29815": {
     "idNorma": 29815,
     "numero": "18403",
     "titulo": "SANCIONA EL TRAFICO ILICITO DE DROGAS Y ESTUPEFACIENTES Y DEROGA LA LEY N° 17.934",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1985-03-04",
-    "modifica": [],
+    "modifica": [
+      "17934"
+    ],
     "modificadaPor": [
-      30733,
-      3477
+      30733
     ]
   },
   "243832": {
