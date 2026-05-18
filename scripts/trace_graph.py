@@ -205,18 +205,9 @@ def _child_text(el: ET.Element, local_tag: str) -> str:
 
 
 def _clean(text: str) -> str:
-    text = re.sub(r"[ \t]+", " ", text)
-    lines = [ln.strip() for ln in text.splitlines()]
-    result, blanks = [], 0
-    for ln in lines:
-        if ln == "":
-            blanks += 1
-            if blanks <= 1:
-                result.append("")
-        else:
-            blanks = 0
-            result.append(ln)
-    return "\n".join(result).strip()
+    """Normalize whitespace. Collapses all internal whitespace to single spaces —
+    line breaks inside XML text nodes are OCR/formatting artifacts, not structure."""
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def _ef_to_md(ef: ET.Element) -> str:
@@ -321,7 +312,12 @@ def extract_metadata(root: ET.Element) -> dict:
 
 
 def extract_version_dates(root: ET.Element) -> list[str]:
-    return sorted({el.attrib["fechaVersion"] for el in root.iter() if "fechaVersion" in el.attrib})
+    dates = set()
+    for el in root.iter():
+        d = el.attrib.get("fechaVersion", "")
+        if d and d[:4].isdigit() and int(d[:4]) <= 2100:  # filter sentinel dates like 2222-02-02
+            dates.add(d)
+    return sorted(dates)
 
 
 # ---------------------------------------------------------------------------
@@ -611,6 +607,19 @@ def build_graph(root_id_norma: int, skip_sparql: bool = False) -> dict:
     # Fetch LeyChile metadata for all discovered nodes
     log.info("LeyChile: fetching metadata for %d laws ...", len(all_ids))
     metadata_map = fetch_metadata_batch(list(all_ids))
+
+    # Filter out non-Ley normas (DFLs, Decretos, etc.)
+    # Primary chain is trusted as-is; discovered nodes must have tipo == "Ley".
+    ley_ids = {
+        idn for idn in all_ids
+        if metadata_map.get(idn, {}).get("tipo", "") == "Ley"
+    }
+    all_ids = ley_ids | primary_chain
+    modifiers_by_id = {
+        idn: [m for m in mods if m.get("idNorma") in all_ids]
+        for idn, mods in modifiers_by_id.items()
+        if idn in all_ids
+    }
 
     # Assemble graph
     graph: dict[int, dict] = {}

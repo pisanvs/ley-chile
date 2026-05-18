@@ -68,7 +68,6 @@ class Event:
     message_subject: str
     message_body: str
     files: dict[str, bytes]          # relative path → file content (bytes)
-    delete_files: list[str] = field(default_factory=list)  # paths to delete in this commit
     # Sort tiebreaker: lower = earlier
     _seq: int = field(default=0, compare=False)
 
@@ -457,43 +456,10 @@ def _find_commit_for_version(
     return None
 
 
-def _find_successor_from_graph(numero: str, derog_date: str, graph: dict) -> Optional[str]:
-    """
-    Return the ley numero of the sustantiva law that derogated/replaced this one.
-
-    Strategy: among sustantiva laws in the derogated law's modificadaPor list,
-    pick the one whose fechaPublicacion is closest to the derog_date.
-    """
-    this_node = next(
-        (n for n in graph.values() if n.get("numero") == numero), None
-    )
-    if not this_node:
-        return None
-
-    mod_ids = set(this_node.get("modificadaPor", []))
-    candidates = [
-        n for n in graph.values()
-        if n.get("idNorma") in mod_ids and n.get("clasificacion") == "sustantiva"
-    ]
-    if not candidates:
-        return None
-
-    try:
-        derog_d = datetime.date.fromisoformat(derog_date)
-        candidates.sort(key=lambda n: abs(
-            (datetime.date.fromisoformat(n.get("fechaPublicacion", "9999-12-31")) - derog_d).days
-        ))
-    except Exception:
-        pass
-
-    return candidates[0].get("numero")
-
-
 def _build_events_for_law(
     law_dir: Path,
     scope: str,
     seq_counter: list[int],
-    graph: dict,
 ) -> list[Event]:
     """
     Build Event objects for all versions of a single law.
@@ -600,37 +566,13 @@ def _build_events_for_law(
             f[str(rel_dir / "tramitacion.json")] = tram_bytes
         return f
 
-    # Law content files deleted in the derog commit.
-    # versiones.json is intentionally kept on disk so trace_graph.py idempotency
-    # still works (it reads committed dates from versiones.json to skip re-fetching).
-    derog_files = [
-        str(rel_dir / "texto.md"),
-        str(rel_dir / "metadata.json"),
-    ]
-    if tram_bytes is not None:
-        derog_files.append(str(rel_dir / "tramitacion.json"))
-
-    def _derog_body(derog_date: str) -> str:
-        """Build body for a derog commit, including a link to the successor law."""
-        successor = _find_successor_from_graph(numero, derog_date, graph)
-        lines = []
-        if titulo:
-            lines.append(titulo)
-            lines.append("")
-        if successor:
-            lines.append(f"Reemplazada por: Ley {successor}")
-            lines.append(f"Ver: leyes/{successor}/")
-        return "\n".join(lines).strip()
-
-    # Skip uncommitted versions (those that failed to fetch from LeyChile)
-    versiones = [v for v in versiones if v.get("committed", False)]
-
     # Process each version
     for i, version in enumerate(versiones):
         vdate = version.get("fecha", "")
         if not vdate:
             continue
 
+        committed = version.get("committed", False)
         modificada_por = version.get("modificadaPor")
         is_first = i == 0
         is_last = i == len(versiones) - 1
@@ -644,55 +586,10 @@ def _build_events_for_law(
 
         # Determine event tipo and commit message
         if is_last and derogado == "derogado" and not is_first:
-            # Last version of a multi-version derogated law:
-            # 1. Write the final content as an update commit (so the content is traceable)
-            # 2. Follow with a separate derog commit that deletes all the law's files
-            if modificada_por:
-                mod_numero = modificada_por.get("numero", "")
-                upd_subject = f"update({scope}): Ley {numero} modificada por Ley {mod_numero} — versión {vdate}"
-            else:
-                upd_subject = f"update({scope}): Ley {numero} modificada — versión {vdate}"
-            upd_body_lines = []
-            if titulo:
-                upd_body_lines.append(titulo)
-                upd_body_lines.append("")
-            if id_norma:
-                upd_body_lines.append(f"BCN idNorma={id_norma}")
-            session_block = _build_session_body(tram_data, vdate, is_feat=False)
-            if session_block:
-                upd_body_lines.append("")
-                upd_body_lines.append(session_block)
-
-            seq_counter[0] += 1
-            events.append(Event(
-                date=event_date,
-                tipo="update",
-                scope=scope,
-                ley_numero=numero,
-                version_date=vdate,
-                law_dir=str(rel_dir),
-                message_subject=upd_subject,
-                message_body="\n".join(upd_body_lines).strip(),
-                files=_make_files(vdate),
-                _seq=seq_counter[0],
-            ))
-
-            seq_counter[0] += 1
-            events.append(Event(
-                date=event_date,
-                tipo="derog",
-                scope=scope,
-                ley_numero=numero,
-                version_date=vdate,
-                law_dir=str(rel_dir),
-                message_subject=f"derog({scope}): Ley {numero} derogada",
-                message_body=_derog_body(vdate),
-                files={},
-                delete_files=derog_files,
-                _seq=seq_counter[0],
-            ))
-            continue
-
+            # Last version of a derogated law → derog commit
+            tipo = "derog"
+            subject = f"derog({scope}): Ley {numero} derogada"
+            message_body = titulo
         elif is_first:
             tipo = "feat"
             subject = f"feat({scope}): Ley {numero} publicada"
@@ -757,7 +654,7 @@ def _build_events_for_law(
         ))
 
     # For single-version derogated laws (published and immediately derogated),
-    # add a separate derog commit that deletes all the law's files.
+    # add a separate derog event after the feat.
     if derogado == "derogado" and len(versiones) == 1:
         last_ver = versiones[-1]
         derog_date = last_ver.get("fecha", "")
@@ -771,9 +668,8 @@ def _build_events_for_law(
                 version_date=derog_date,
                 law_dir=str(rel_dir),
                 message_subject=f"derog({scope}): Ley {numero} derogada",
-                message_body=_derog_body(derog_date),
-                files={},
-                delete_files=derog_files,
+                message_body=titulo,
+                files=_make_files(derog_date),
                 _seq=seq_counter[0],
             ))
 
@@ -864,15 +760,9 @@ def _build_scripts_events(seq_counter: list[int]) -> list[Event]:
 
         # This is a scripts/tooling commit — place it at a very early date
         # so it stays before law commits, but preserve relative order.
-        # Only include files under BASE_COMMIT_PATH_PREFIXES: law data changes
-        # (leyes/, modificaciones/, graph.json) are handled by law/chore events
-        # and must not be included here, or they'll clobber versiones.json state
-        # after git reset --hard restores HEAD.
         files_changed = c["files"]
         file_bytes: dict[str, bytes] = {}
         for f in files_changed:
-            if not any(f.startswith(p) for p in BASE_COMMIT_PATH_PREFIXES):
-                continue
             content = _git_show_file(c["hash"], f)
             if content is not None:
                 file_bytes[f] = content
@@ -904,15 +794,6 @@ def _collect_all_law_events(seq_counter: list[int]) -> list[Event]:
     """Walk leyes/ and modificaciones/ to build all law events."""
     events: list[Event] = []
 
-    # Load graph.json for successor relationship lookup in derog commits
-    graph: dict = {}
-    graph_path = REPO_ROOT / "graph.json"
-    if graph_path.exists():
-        try:
-            graph = json.loads(graph_path.read_text(encoding="utf-8"))
-        except Exception as exc:
-            log.warning("Could not load graph.json: %s", exc)
-
     for subdir, scope in [("leyes", "ley"), ("modificaciones", "modificacion")]:
         base = REPO_ROOT / subdir
         if not base.is_dir():
@@ -921,7 +802,7 @@ def _collect_all_law_events(seq_counter: list[int]) -> list[Event]:
             if not law_dir.is_dir():
                 continue
             log.info("Processing %s/%s ...", subdir, law_dir.name)
-            law_events = _build_events_for_law(law_dir, scope, seq_counter, graph)
+            law_events = _build_events_for_law(law_dir, scope, seq_counter)
             events.extend(law_events)
 
     return events
@@ -1061,7 +942,6 @@ def _make_fast_import_stream(
             files=ev.files,
             m=m,
             parent_m=parent_mark,
-            delete_files=ev.delete_files or None,
         )
         parent_mark = m
 
