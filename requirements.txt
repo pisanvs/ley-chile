@@ -1,0 +1,4 @@
+requests>=2.31.0
+lxml>=5.1.0
+python-dateutil>=2.9.0
+markdown>=3.5.0
