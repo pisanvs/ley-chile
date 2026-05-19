@@ -138,15 +138,13 @@ Ante la ausencia o impedimento del Presidente titular del Consejo Directivo y su
 
 La determinación del/de los Subcomité(s), su integración y presidencia, será establecida mediante acto administrativo por el/la Director/a Ejecutivo/a del Comité.
 
-### Párrafo 3° — "De la Dirección Ejecutiva y de la Subdirección Ejecutiva"
+### Párrafo 3° — "De la Dirección Ejecutiva"
 
 #### Artículo 10°
 
-El Comité tendrá un/a Director/a Ejecutivo/a, que corresponderá a la persona nombrada como Gerente de Innovación de Corfo.
+El Comité tendrá un/a Director/a o Director Ejecutivo/a, que corresponderá a la persona nombrada como Gerente de Innovación de Corfo.
 
 El Vicepresidente Ejecutivo de Corfo podrá designar a uno/a o más funcionarios/as de la Corporación y/o de sus Comités, como subrogantes del/de la Director/a Ejecutivo/a, para que, en el orden que determine, actúe(n) en caso de su ausencia o impedimento, con todas sus facultades, lo que no será necesario acreditar ante terceros.
-
-El Comité tendrá, además, un/a Subdirector/a Ejecutivo/a, cuya función principal será apoyar a la Dirección Ejecutiva en todas aquellas materias que permitan el correcto funcionamiento del Comité, coordinando y, en su caso, supervisando el accionar de sus Subdirecciones de Área y unidades operativas y de apoyo. Lo anterior, es sin perjuicio de las demás funciones que le encomienden el Consejo Directivo del Comité o el/la Director a Ejecutivo/a.
 
 #### Artículo 11°
 
