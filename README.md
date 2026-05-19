@@ -1,105 +1,201 @@
 # ley-chile
 
-Repositorio git que registra el corpus jurídico chileno completo, con actualizaciones diarias desde el Diario Oficial e historial de diferencias de cada cambio legislativo.
+Repositorio git que reconstruye el historial completo de cambios en el corpus jurídico chileno, haciendo un commit por cada versión publicada de cada ley.
 
 ## Por qué existe este proyecto
 
-El sistema [LeyChile](https://www.bcn.cl/leychile) de la BCN contiene ~392.000 *normas* (leyes, decretos, DFL, reglamentos, ordenanzas, etc.) actualizadas diariamente desde el Diario Oficial. La BCN publica *textos refundidos* — textos consolidados que incorporan todas las modificaciones — por lo que su API siempre devuelve el texto vigente fusionado, sin diffs históricos. Este repositorio reconstruye ese historial de cambios haciendo un commit de cada versión a medida que se modifica.
+El sistema [LeyChile](https://www.bcn.cl/leychile) de la BCN publica *textos refundidos* — versiones consolidadas que incorporan todas las modificaciones — sin diffs históricos. Este repositorio reconstruye ese historial de cambios haciendo un commit de cada versión de cada ley a medida que fue modificándose.
 
 ## Estructura del repositorio
 
+El repositorio usa un diseño de dos ramas:
+
+- **Rama de código** (`claude/setup-chilean-law-repo-*`): contiene sólo scripts, requisitos y configuración CI. Nunca contiene datos de leyes.
+- **Rama de datos** (`historial`, rama huérfana): contiene los commits de leyes, reconstruidos cronológicamente por `rebuild_history.py`.
+
 ```
 ley-chile/
-├── leyes/{numero}/
-│   ├── texto.md          # texto normalizado en markdown desde el XML
-│   ├── metadata.json     # idNorma, tipo, organismo, fechas, estado
-│   └── versiones.json    # todas las versiones fechadas en BCN
-├── decretos/{tipo}/      # dto, dfl, ds, etc.
-├── reglamentos/
-├── ordenanzas/
-├── tramitacion/{boletin}/
-│   ├── historial.json    # todas las etapas en SIL
-│   └── sesiones.json     # datos de sesiones vinculadas
 ├── scripts/
-│   ├── fetch_norma.py        # descarga una norma por idNorma
-│   ├── sync_daily.py         # cron: consulta opt=40, descarga y hace commit
-│   ├── bootstrap_catalog.py  # ejecución única: crawl SPARQL para construir index.json
-│   ├── bootstrap_texts.py    # ejecución única: descarga todos los textos del catálogo
-│   ├── build_commit.py       # genera mensajes de commit semánticos desde metadata
-│   └── sparql_helpers.py     # helpers SPARQL con lógica de reintentos
-├── index.json            # catálogo completo: idNorma → metadata
-└── CHANGELOG.md          # resumen diario generado automáticamente
+│   ├── trace_graph.py        # construye el grafo legislativo y descarga versiones
+│   ├── rebuild_history.py    # reescribe el historial git en orden cronológico
+│   └── fetch_tramitacion.py  # descarga datos de tramitación parlamentaria
+├── tests/
+│   ├── conftest.py
+│   ├── test_trace_graph.py
+│   ├── test_fetch_tramitacion.py
+│   └── test_rebuild_history.py
+├── requirements.txt
+└── pytest.ini
 ```
 
-## Fuentes de datos
-
-### 1. Servicio web XML de LeyChile (fuente principal)
-
-No requiere autenticación.
-
-| Endpoint | Descripción |
-|---|---|
-| `GET /Consulta/obtxml?opt=7&idNorma={id}` | XML completo de una norma por ID BCN |
-| `GET /Consulta/obtxml?opt=40` | Normas despachadas recientemente (sincronización diaria) |
-| `GET /Navegar?idNorma={id}` | Texto completo en HTML (alternativa) |
-
-El `idNorma` es el ID numérico interno de la BCN, no el número de ley. Ejemplo: Ley 20000 → `idNorma=206396`.
-
-### 2. datos.bcn.cl — Datos abiertos enlazados + SPARQL
+Los datos viven en el worktree `historial/`:
 
 ```
-Endpoint: http://datos.bcn.cl/sparql
+historial/
+├── leyes/{numero}/
+│   ├── texto.md          # texto de ley en markdown normalizado
+│   ├── metadata.json     # idNorma, tipo, organismo, fechas, estado
+│   ├── versiones.json    # todas las versiones fechadas (committed: true/false)
+│   └── tramitacion.json  # datos del SIL (opcional)
+├── modificaciones/{numero}/   # leyes cuyo objeto principal es modificar otras leyes
+└── graph.json            # grafo de dependencias entre leyes
 ```
 
-Se usa para el crawl masivo del catálogo y para el acceso a versiones históricas. Agregar `.datos.json`, `.datos.rdf` o `.datos.ttl` a cualquier URI de recurso para obtener formatos legibles por máquina.
+## Configuración
 
-Acceso a versión específica de una norma: `http://datos.bcn.cl/recurso/cl/ley/{organismo}/{fecha}/{numero}/es@{version-date}`
+```bash
+pip install -r requirements.txt
+```
 
-### 3. SIL — Sistema de Información Legislativa
+Crear el worktree de datos (primera vez):
 
-Sin API oficial; se requiere scraping para votos, datos de sesiones e informes de comisión.
+```bash
+git checkout --orphan historial
+git rm -rf .
+git commit --allow-empty -m "init: historial branch"
+git checkout -
+git worktree add historial historial
+```
+
+## Scripts principales
+
+### trace_graph.py
+
+Construye el grafo completo de dependencias a partir de una ley raíz y descarga todas las versiones.
+
+```bash
+LEYCHILE_DATA_ROOT=./historial python scripts/trace_graph.py --id 235507 --ley 20000
+```
+
+- Traza hacia atrás (leyes derogadas/reemplazadas) y hacia adelante (modificadoras).
+- Usa datos enlazados de [datos.bcn.cl](https://datos.bcn.cl) para el grafo de relaciones.
+- Escribe `graph.json` y un commit git por cada versión de cada ley.
+- Es idempotente: versiones ya comprometidas (`committed: true`) se saltan.
+
+### rebuild_history.py
+
+Reescribe el historial git en orden cronológico usando `git fast-import`.
+
+```bash
+LEYCHILE_DATA_ROOT=./historial python scripts/rebuild_history.py
+
+# Ver la lista de eventos sin escribir nada
+LEYCHILE_DATA_ROOT=./historial python scripts/rebuild_history.py --dry-run
+```
+
+- Agrupa todos los eventos `feat`/`update`/`derog` del mismo día y norma en un solo commit.
+- Inyecta datos de tramitación parlamentaria en el cuerpo del commit si existe `tramitacion.json`.
+- Ordena por `(fecha, grupo, rango, seq)` donde rango: 0=feat, 1=update, 2=derog.
+
+### sync_daily.py
+
+Sincronización diaria: detecta leyes nuevas y versiones nuevas, y reconstruye el historial cronológico.
+
+```bash
+LEYCHILE_DATA_ROOT=./historial python scripts/sync_daily.py
+
+# Vista previa sin modificar nada
+LEYCHILE_DATA_ROOT=./historial python scripts/sync_daily.py --dry-run
+
+# Sin reescribir el historial (más rápido, útil en pruebas)
+LEYCHILE_DATA_ROOT=./historial python scripts/sync_daily.py --skip-rebuild
+
+# Ampliar la ventana de búsqueda en opt=40
+LEYCHILE_DATA_ROOT=./historial python scripts/sync_daily.py --days 7
+```
+
+Pasos internos:
+1. Carga `graph.json` desde DATA_ROOT.
+2. Consulta LeyChile `opt=40` para detectar normas despachadas recientemente.
+3. Filtra candidatas `modificatoria` no conocidas; confirma vía BCN JSON que modifican la cadena primaria.
+4. Retrace de todas las leyes en el grafo (idempotente).
+5. Actualiza `graph.json` con un commit.
+6. Ejecuta `rebuild_history.rebuild()` para reordenar cronológicamente.
+
+Sale con código 1 si ocurre algún error durante el proceso.
+
+### fetch_tramitacion.py
+
+Descarga datos de tramitación (sesiones, votos) del SIL y la Cámara para una ley.
+
+```bash
+python scripts/fetch_tramitacion.py --numero 20000
+# Con boletín conocido:
+python scripts/fetch_tramitacion.py --numero 20000 --boletin 3182
+```
+
+Escribe `{directorio_ley}/tramitacion.json`.
 
 ## Formato de commits
 
 ```
-feat(ley): Ley 21680 actualizada — versión 2026-05-17
-
-Fuente: Diario Oficial / BCN idNorma=1182340
-Modifica: Arts. 3, 17, 42 de la Ley 20.936
-Trámite: Boletín 14220-03, despachado 2026-05-15
-Sesión: Cámara, 28ª ordinaria, 2026-05-13
+feat(ley): Ley 20000 publicada
+update(ley): Ley 20000 modificada por Ley 20502 — versión 2011-02-21
+derog(ley): Ley 19366 derogada → Ley 20000
+chore(meta): actualizar graph.json
 ```
 
-Tipos de commit: `feat` (norma nueva), `update` (modificación a norma existente), `derog` (derogación), `fix` (corrección de la BCN).
+Tipos: `feat` (primera versión), `update` (modificación), `derog` (derogación), `fix` (corrección).
 
-## Primeros pasos
+### Ejemplo de cuerpo de commit
+
+```
+LEY SOBRE TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS PSICOTRÓPICAS
+
+BCN idNorma=235507
+Publicación: 2005-02-16
+
+Boletín: 3182-07
+Trámite: Promulgación — Senado
+Sesión 47, Senado, 2004-12-15
+Votación: 67 a favor · 12 en contra · 3 abstenciones (Aprobado)
+
+Modifica: Ley 18403, Ley 19366
+```
+
+## Detección automática de DATA_ROOT
+
+Ambos scripts detectan automáticamente dónde viven los datos:
+
+1. Variable de entorno `LEYCHILE_DATA_ROOT` (prioridad máxima).
+2. Worktree `./historial/` si existe y tiene `.git`.
+3. Raíz del repositorio (modo legado).
+
+## Fuentes de datos
+
+| Fuente | Endpoint | Notas |
+|--------|---------|-------|
+| LeyChile XML | `https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma={id}&idVersion={YYYY-MM-DD}` | Límite: 1 req/s |
+| BCN datos enlazados | `https://datos.bcn.cl/recurso/cl/ley/{numero}/datos.json` | Límite: 0.3 req/s |
+| Senado tramitación | `https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin={num}` | Sin API oficial |
+| Cámara votaciones | `https://opendata.congreso.cl/wscamaradiputados.asmx/getVotaciones_Boletin` | SOAP POST |
+
+**Fecha centinela**: LeyChile usa `2222-02-02` para versiones "vigentes". El filtro `int(d[:4]) <= 2100` la descarta.
+
+**Filtro de tipo**: Sólo se incluyen normas con `tipo == "Ley"` — excluye DFL, Decretos Supremos, etc.
+
+## Clasificación de leyes
+
+- `sustantiva`: ley con materia propia → `leyes/{numero}/`
+- `modificatoria`: ley cuyo objeto principal es modificar otras leyes → `modificaciones/{numero}/`
+
+La clasificación se basa en si el título comienza con prefijos como `MODIFICA`, `INTRODUCE MODIFICACIONES`, `DEROGA`, etc.
+
+## Tests
 
 ```bash
-pip install -r requirements.txt
-
-# Construir el catálogo completo de normas desde SPARQL (ejecutar una vez)
-python scripts/bootstrap_catalog.py
-
-# Descargar textos de todas las normas en index.json (ejecutar una vez, demora días)
-python scripts/bootstrap_texts.py
-
-# Descargar una norma específica por ID BCN
-python scripts/fetch_norma.py --id 206396
-
-# Ejecutar la sincronización diaria manualmente
-python scripts/sync_daily.py
+pip install pytest
+python -m pytest
 ```
 
-## Límites de velocidad
-
-LeyChile no documenta límites de velocidad, pero un crawl sin restricciones arriesga bloqueo de IP. Los scripts usan por defecto **≤1 solicitud/seg**. El endpoint SPARQL de `datos.bcn.cl` tiene caídas intermitentes; todas las consultas incluyen lógica de reintentos con backoff exponencial.
+Los tests cubren todas las funciones puras de los tres scripts (parse, clasificación, XML, commits, agrupación de eventos) sin requerir red ni git.
 
 ## Proyectos similares
 
-- [Free Law Project](https://free.law/) — descarga masiva de jurisprudencia federal de EE. UU.
+- [Free Law Project](https://free.law/) — jurisprudencia federal de EE. UU.
 - [DC Council law-html](https://github.com/DCCouncil/law-html) — Código del Distrito de Columbia en git
 - [nickvido/us-code](https://github.com/nickvido/us-code)
 
 ## Licencia
 
-Los textos legales son documentos públicos oficiales del Estado de Chile. Los scripts de este repositorio se distribuyen bajo licencia MIT.
+Los textos legales son documentos públicos del Estado de Chile. Los scripts se distribuyen bajo licencia MIT.
