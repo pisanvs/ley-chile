@@ -1,6 +1,7 @@
 # Decreto Ley N° 3
 DEROGA LA LEY NUMERO 5,033
 **Publicada:** 1932-06-10
+**Versión:** 1932-08-27
 Deroga la ley número 5,033 Núm. 3.- Santiago, 8 de Junio de 1932. La Junta de Gobierno ha acordado y dicta el siguiente, Decreto-ley:
 ~~Artículo 1.o Derógase la ley N.o 5,033, y suspéndense las disposiciones del Código de Minería en lo que se refiere a nuevas propiedades mineras.~~
 ~~Art. 2.o Las concesiones sobre yacimientos minerales de cualquiera naturaleza, serán otorgadas por el Presidente de la Reppública.~~
