@@ -2,6 +2,7 @@
 CREA EL CARGO DE SUBSECRETARIO DE COORDINACION
 JURIDICA DE GOBIERNO
 **Publicada:** 1973-10-02
+**Versión:** 1974-05-18
 CREA EL CARGO DE SUBSECRETARIO DE COORDINACION JURIDICA DE GOBIERNO Decreto ley N° 36.- Santiago, 24 de Septiembre de 1973. Vistos: lo dispuesto en los decretos leyes N°s: 1 y 27, de 11 y 21 de Septiembre de 1973, respectivamente, y la necesidad de crear un órgano gubernamental que se encargue de la coordinación referente a las normas jurídicas que se dicten por la Junta de Gobierno, ésta ha acordado dictar el siguiente Decreto ley:
 ~~Artículo Primero.- Créase, a contar desde esta fecha, en la Secretaría General de Gobierno, el cargo de Subsecretario de Coordinación Jurídica de Gobierno, que será servido por un Oficial de Justicia en Servicio Activo de los Servicios de Justicia de las Fuerzas Armadas o de Carabineros, y que será nombrado por decreto supremo que llevará la firma de los Ministros del Interior y de Defensa Nacional. Su régimen de remuneraciones y demás normas estatutarias serán las que correspondan a su calidad de Oficial.~~
 ~~Artículo Segundo.- Dependerá directamente de este Subsecretario el Comité de Asesoría y Coordinación Jurídica de la Junta de Gobierno, creado por decreto supremo N° 668, de 12 de Septiembre de 1973, del Ministerio de Defensa Nacional.~~
