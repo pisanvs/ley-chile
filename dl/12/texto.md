@@ -1,13 +1,8 @@
 # Decreto Ley N° 12
-DECLARA PROPIEDAD DEL ESTADO CREDITOS Y DEPOSITOS EN
-MONEDA ESTRANJERA
-**Publicada:** 1932-06-10
-**Versión:** 1932-07-28
-DECLARA PROPIEDAD DEL ESTADO CREDITOS Y DEPOSITOS EN MONEDA ESTRANJERA Núm. 12.- Santiago, Junio 9 de 1932.- Con el objeto de evitar injustas ganancias a aquellas personas que, con perjuicio de la economía nacional convirtieron sus depósitos a moneda extranjera, debilitando la posición del Banco Central y provocando la desvalorización de la moneda, la Junta de Gobierno dicta el siguiente, Decreto-Ley:
-~~Artículo 1.o Decláranse de propiedad del Estado los créditos y depósitos en moneda extranjera que adeudan al público los Bancos nacionales y extranjeros.~~
-~~Art. 2.o Los Bancos comerciales nacionales y extranjeros traspasarán a la orden del Fisco, los depósitos en moneda extranjera que adeuden al público y acreditarán a éste las sumas equivalentes al cambio del día 3 de Junio del presente año.~~
-~~Art. 3.o El Fisco acreditará en la Caja Nacional de Ahorros a favor de los Bancos particulares, las sumas en moneda corriente a que se refiere el artículo anterior.~~
-~~Art. 4.o Para responder al retiro de las sumas indicadas en el artículo precedente, de la Caja Nacional de Ahorros, por los Bancos comerciales, el Banco Central emitirá, con garantía de los mencionados depósitos en oro, a favor del Fisco, las sumas necesarias, poniéndolas a disposición de la Caja Nacional de Ahorros.~~
-~~Art. 5.o Derógase en lo que contraríe al presente decreto-ley, el decreto-ley número 186, de 21 de Agosto de 1925, modificado por el decreto-ley número 573, de 29 de Septiembre de 1925 y por las leyes números 4,970 de 30 de Julio de 1931, 4,993 de 24 de Septiembre de 1931 y 5,028 de 7 de Enero de 1932.~~
+CANCELA LA PERSONALIDAD JURIDICA DE LA CENTRAL UNICA DE TRABAJADORES DE CHILE Y PROHIBE SU EXISTENCIA, ORGANIZACION O FUNCIONAMIENTO
+**Publicada:** 1973-09-24
+CANCELA PERSONALIDAD JURIDICA Decreto ley N° 12.- Santiago, 17 de Septiembre de 1973.- Vistos: Lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, y Considerando: a) Las circunstancias de emergencia en que vive el país; b) La necesidad imperiosa de resguardar el interés de los trabajadores de la República, y c) El propósito de las autoridades de proteger la tranquilidad social en el elemento laboral, la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo 1°- Cancélase la personalidad jurídica de la Central Unica de Trabajadores (CUT), por haberse transformado en un organismo de carácter político, bajo la influencia de tendencias foráneas y ajenas al sentir nacional, prohibiéndose en consecuencia su existencia y toda organización y acción, propaganda de palabra, por escrito o por cualquier otro medio, que revelen, directa o indirectamente su funcionamiento.
+Artículo 2°- La infracción a esta norma será penada con presidio, relegación o extrañamiento mayores en cualquiera de sus grados.
 ---
-Tómese razón, regístrese, comuníquese, publíquese e insértese en el Boletín de Leyes y decretos del Gobierno.- ARTURO PUGA.- Carlos Dávila.- E. Matte.- Lagarrigue.
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros de Chile, Investigaciones y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- GONZALO PRIETO G., Ministro de Justicia. Lo que se transcribe para su conocimiento.- Max Silva del Campo, Subsecretario de Justicia.
