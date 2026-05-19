@@ -1,13 +1,13 @@
 {
-  "idNorma": 5677,
+  "idNorma": 5678,
   "tipo": "Decreto Ley",
   "numero": "28",
-  "titulo": "",
+  "titulo": "AUMENTA PLANTA DE OFICIALES DE JUSTICIA DE LA ARMADA",
   "organismos": [
-    "MINISTERIO DE HACIENDA"
+    "MINISTERIO DE DEFENSA NACIONAL"
   ],
-  "fechaPublicacion": "1924-10-10",
-  "fechaPromulgacion": "1924-10-08",
-  "fechaVersion": "1924-10-10",
+  "fechaPublicacion": "1973-10-01",
+  "fechaPromulgacion": "1973-09-21",
+  "fechaVersion": "1973-10-01",
   "derogado": "no derogado"
 }
