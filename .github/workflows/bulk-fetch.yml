@@ -4,7 +4,7 @@ on:
   schedule:
     # Every 10 minutes — processes a batch of laws and pushes to historial.
     # Stops automatically once the bulk_progress.json done set covers all catalog entries.
-    - cron: "*/10 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
     inputs:
       batch_size:
