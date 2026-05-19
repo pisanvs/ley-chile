@@ -59,7 +59,11 @@ rebuild_history.py reads versiones.json (committed=true entries only)
 git fast-import → chronological commits on historial branch
 ```
 
-Events are sorted by `(date, group, rank, _seq)` where `group` = modifier ley numero for update events (or own ley numero for feat/derog), and `rank` = 1 for updates caused by a modifier (0 otherwise). This ensures `feat(modificacion, Ley X)` always immediately precedes the `update(ley)` events it triggered on the same date.
+Events are sorted by `(date, group, rank, _seq)` where `group` = modifier ley numero for update events (or own ley numero for feat/derog), and `rank` = 0 feat / 1 update / 2 derog.
+
+### One Commit Per Published Norma
+
+A law publication is a single legislative event — it creates its own text and simultaneously modifies/derogates other laws. `rebuild_history.py` groups all `feat`/`update`/`derog` events that share the same `(date, trigger norma)` into **one commit** (`_group_events`). The commit subject comes from the triggering norma's `feat`; the body appends `Modifica:`/`Deroga:` summary lines (`_merge_commit_body`). Files, deletes, and symlinks from every event in the group are merged; content deleted in the same commit is dropped from the file set. `chore`/`scripts` events are never merged.
 
 ### Law Classification
 
