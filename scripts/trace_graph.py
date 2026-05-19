@@ -456,6 +456,9 @@ def trace_one_law(
     titulo = metadata.get("titulo", "")
     clasificacion = classify(titulo)
     dest = law_dir(numero, clasificacion)
+    if dest.is_symlink():
+        log.info("  Skipping idNorma=%d (Ley %s): directory replaced by derog symlink", id_norma, numero)
+        return
     dest.mkdir(parents=True, exist_ok=True)
 
     already_done = committed_version_dates(dest)

@@ -83,11 +83,18 @@ class Event:
     message_body: str
     files: dict[str, bytes]          # relative path → file content (bytes)
     delete_files: list[str] = field(default_factory=list)
+    # ley numero of the modificatoria law that triggered this update (empty for feat/derog)
+    modifier_numero: str = ""
+    # git path → symlink target string (for derog events that replace dir with a symlink)
+    symlinks: dict[str, str] = field(default_factory=dict)
     # Sort tiebreaker: lower = earlier
     _seq: int = field(default=0, compare=False)
 
     def sort_key(self) -> tuple:
-        return (self.date, self._seq)
+        # Group updates with the modificatoria feat that triggered them (rank 1 after rank 0)
+        group = self.modifier_numero if self.modifier_numero else self.ley_numero
+        rank = 1 if self.modifier_numero else 0
+        return (self.date, group, rank, self._seq)
 
 
 # ---------------------------------------------------------------------------
@@ -602,13 +609,20 @@ def _build_events_for_law(
             f[str(rel_dir / "tramitacion.json")] = tram_bytes
         return f
 
-    # Files deleted in the derog commit (versiones.json kept for trace_graph.py idempotency)
-    derog_files = [str(rel_dir / "texto.md"), str(rel_dir / "metadata.json")]
+    # Files deleted in the derog commit — entire directory is removed, replaced by a symlink
+    derog_files = [
+        str(rel_dir / "texto.md"),
+        str(rel_dir / "metadata.json"),
+        str(rel_dir / "versiones.json"),
+    ]
     if tram_bytes is not None:
         derog_files.append(str(rel_dir / "tramitacion.json"))
 
+    def _derog_successor(derog_date: str) -> Optional[str]:
+        return _find_successor_from_graph(numero, derog_date, graph) if scope == "ley" else None
+
     def _derog_body(derog_date: str) -> str:
-        successor = _find_successor_from_graph(numero, derog_date, graph)
+        successor = _derog_successor(derog_date)
         lines = []
         if id_norma:
             lines.append(f"BCN idNorma={id_norma}")
@@ -616,6 +630,13 @@ def _build_events_for_law(
             lines.append(f"Reemplazada por: Ley {successor}")
             lines.append(f"Ver: leyes/{successor}/")
         return "\n".join(lines).strip()
+
+    def _derog_symlinks(derog_date: str) -> dict[str, str]:
+        successor = _derog_successor(derog_date)
+        if not successor:
+            return {}
+        # Symlink: leyes/{old} → {new}  (both are in leyes/, so target is just the number)
+        return {str(rel_dir): successor}
 
     # Skip uncommitted versions (failed fetches)
     versiones = [v for v in versiones if v.get("committed", False)]
@@ -636,6 +657,8 @@ def _build_events_for_law(
         event_date = vdate
         if is_first and fecha_pub and fecha_pub < vdate:
             event_date = fecha_pub
+
+        mod_numero = ""  # ley numero of the modificatoria that caused this version
 
         # Determine event tipo and commit message
         if is_last and derogado == "derogado" and not is_first:
@@ -658,6 +681,7 @@ def _build_events_for_law(
                 message_subject=upd_subject,
                 message_body="\n".join(upd_body_lines).strip(),
                 files=_make_files(vdate), _seq=seq_counter[0],
+                modifier_numero=mod_numero,
             ))
             seq_counter[0] += 1
             events.append(Event(
@@ -666,6 +690,7 @@ def _build_events_for_law(
                 message_subject=f"derog({scope}): Ley {numero} derogada",
                 message_body=_derog_body(vdate),
                 files={}, delete_files=derog_files, _seq=seq_counter[0],
+                symlinks=_derog_symlinks(vdate),
             ))
             continue
         elif is_first:
@@ -729,6 +754,7 @@ def _build_events_for_law(
             message_body=message_body,
             files=_make_files(vdate),
             _seq=seq_counter[0],
+            modifier_numero=mod_numero,
         ))
 
     # For single-version derogated laws (published and immediately derogated),
@@ -749,6 +775,7 @@ def _build_events_for_law(
                 message_body=_derog_body(derog_date),
                 files={}, delete_files=derog_files,
                 _seq=seq_counter[0],
+                symlinks=_derog_symlinks(derog_date),
             ))
 
     return events
@@ -952,6 +979,7 @@ def _make_fast_import_stream(
         m: int,
         parent_m: Optional[int],
         delete_files: Optional[list[str]] = None,
+        symlinks: Optional[dict[str, str]] = None,
     ) -> None:
         msg = subject
         if body and body.strip():
@@ -985,6 +1013,12 @@ def _make_fast_import_stream(
         if delete_files:
             for rel_path in delete_files:
                 stream_parts.append(encode(f"D {rel_path}\n"))
+
+        if symlinks:
+            for sym_path, target in symlinks.items():
+                target_bytes = target.encode("utf-8")
+                stream_parts.append(encode(f"M 120000 inline {sym_path}\ndata {len(target_bytes)}\n"))
+                stream_parts.append(target_bytes + b"\n")
 
         stream_parts.append(b"\n")
 
@@ -1032,6 +1066,7 @@ def _make_fast_import_stream(
             m=m,
             parent_m=parent_mark,
             delete_files=ev.delete_files or None,
+            symlinks=ev.symlinks or None,
         )
         parent_mark = m
 

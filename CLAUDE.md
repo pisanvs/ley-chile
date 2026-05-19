@@ -59,6 +59,8 @@ rebuild_history.py reads versiones.json (committed=true entries only)
 git fast-import → chronological commits on historial branch
 ```
 
+Events are sorted by `(date, group, rank, _seq)` where `group` = modifier ley numero for update events (or own ley numero for feat/derog), and `rank` = 1 for updates caused by a modifier (0 otherwise). This ensures `feat(modificacion, Ley X)` always immediately precedes the `update(ley)` events it triggered on the same date.
+
 ### Law Classification
 
 - `sustantiva`: Law with its own subject matter → `leyes/{numero}/`
@@ -78,7 +80,6 @@ Each law directory has `versiones.json`:
 
 - `committed: true` — version was successfully fetched and committed; skip on re-run
 - `committed: false` — fetch failed (e.g. LeyChile 500 error); skipped by `rebuild_history.py`
-- `versiones.json` is **never deleted** in derog commits (preserves idempotency for trace_graph.py)
 
 ### graph.json
 
@@ -91,7 +92,9 @@ Tracks the dependency graph of laws. Keys are idNorma (string), values contain:
 
 When a law is derogated, `rebuild_history.py` produces two sequential events:
 1. `update` event: final text content
-2. `derog` event: deletes `texto.md`, `metadata.json` (and `tramitacion.json` if present); commit message links to successor law
+2. `derog` event: deletes all files in the directory; if a successor law is found in the graph, creates a git symlink (mode `120000`) at `leyes/{old}` → `{new}` (e.g. `leyes/19366` → `20000`)
+
+After derogation, `leyes/{old}` on the filesystem is a symlink to the successor directory. `trace_graph.py` detects this (`dest.is_symlink()`) and skips the law on subsequent runs.
 
 ## Data Sources
 
