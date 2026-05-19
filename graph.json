@@ -1,39 +1,196 @@
 {
-  "1021537": {
-    "idNorma": 1021537,
-    "numero": "20502",
-    "titulo": "CREA EL MINISTERIO DEL INTERIOR Y EL SERVICIO NACIONAL PARA LA PREVENCIÓN Y REHABILITACIÓN DEL CONSUMO DE DROGAS Y ALCOHOL, Y MODIFICA DIVERSOS CUERPOS LEGALES",
+  "5658": {
+    "idNorma": 5658,
+    "numero": "2",
+    "titulo": "",
     "clasificacion": "sustantiva",
-    "fechaPublicacion": "2011-02-21",
+    "fechaPublicacion": "1924-09-15",
     "modifica": [],
     "modificadaPor": []
   },
-  "1206373": {
-    "idNorma": 1206373,
-    "numero": "21694",
-    "titulo": "MODIFICA LOS CUERPOS LEGALES QUE INDICA PARA MEJORAR LA PERSECUCIÓN PENAL EN MATERIA DE REINCIDENCIA Y DELITOS DE MAYOR CONNOTACIÓN SOCIAL",
-    "clasificacion": "modificatoria",
-    "fechaPublicacion": "2024-09-04",
-    "modifica": [],
-    "modificadaPor": []
-  },
-  "30760": {
-    "idNorma": 30760,
-    "numero": "19393",
-    "titulo": "INTRODUCE MODIFICACIONES A LA LEY N° 19.366, QUE SANCIONA EL TRAFICO ILICITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTROPICAS, Y AL ARTICULO 83 DEL CODIGO DE PROCEDIMIENTO PENAL",
-    "clasificacion": "modificatoria",
-    "fechaPublicacion": "1995-06-22",
-    "modifica": [],
-    "modificadaPor": []
-  },
-  "1075210": {
-    "idNorma": 1075210,
-    "numero": "20830",
-    "titulo": "CREA EL ACUERDO DE UNIÓN CIVIL",
+  "5659": {
+    "idNorma": 5659,
+    "numero": "2",
+    "titulo": "REEMPLAZA MINISTERIO DE BIENESTAR SOCIAL POR DOS SECRETARIAS DE ESTADO: MINISTERIO DEL TRABAJO Y MINISTERIO DE HIGIENE.",
     "clasificacion": "sustantiva",
-    "fechaPublicacion": "2015-04-21",
+    "fechaPublicacion": "1932-06-08",
     "modifica": [],
     "modificadaPor": []
+  },
+  "5660": {
+    "idNorma": 5660,
+    "numero": "3",
+    "titulo": "DEROGA LA LEY NUMERO 5,033",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1932-06-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5662": {
+    "idNorma": 5662,
+    "numero": "4",
+    "titulo": "MODIFICA LA LEY ORGÁNICA DE LA CAJA DE CRÉDITO MINERO",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1932-06-11",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5664": {
+    "idNorma": 5664,
+    "numero": "5",
+    "titulo": "DECLARA QUE EL ESTADO DE SITIO DECRETADO POR CONMOCION INTERNA DEBE ENTENDERSE \"ESTADO O TIEMPO DE GUERRA\". OTRAS DISPOSICIONES.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1973-09-22",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5665": {
+    "idNorma": 5665,
+    "numero": "7",
+    "titulo": "OTORGA ATRIBUCIONES AL COMITE EJECUTIVO DEL BANCO\nCENTRAL DE CHILE",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1973-09-24",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5666": {
+    "idNorma": 5666,
+    "numero": "11",
+    "titulo": "DECRETO-LEY N.o 11, (SE TOMO RAZON DE EL POR LA CONTRALORIA GENERAL PERO NO HA SIDO PUBLICADO EN DIARIO OFICIAL). DECLARA BANCO DEL ESTADO EL BANCO CENTRAL DE CHILE",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5667": {
+    "idNorma": 5667,
+    "numero": "12",
+    "titulo": "DECLARA PROPIEDAD DEL ESTADO CREDITOS Y DEPOSITOS EN\nMONEDA ESTRANJERA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1932-06-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5668": {
+    "idNorma": 5668,
+    "numero": "12",
+    "titulo": "CANCELA LA PERSONALIDAD JURIDICA DE LA CENTRAL UNICA DE TRABAJADORES DE CHILE Y PROHIBE SU EXISTENCIA, ORGANIZACION O FUNCIONAMIENTO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1973-09-24",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5670": {
+    "idNorma": 5670,
+    "numero": "17",
+    "titulo": "CREA EL CARGO DE DIRECTOR DEL DEPARTAMENTO DE INDUSTRIAS FABRILES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1932-06-22",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5671": {
+    "idNorma": 5671,
+    "numero": "18",
+    "titulo": "PRORROGA PLAZO DE CONSIGNACION",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1973-10-03",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5672": {
+    "idNorma": 5672,
+    "numero": "22",
+    "titulo": "DECRETO-LEI N° 22, QUE CREA JUZGADOS DE POLICIA LOCAL EN SANTIAGO Y VALPARAISO.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1924-10-13",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5673": {
+    "idNorma": 5673,
+    "numero": "23",
+    "titulo": "MODIFICA EL CODIGO DE JUSTICIA MILITAR, LA LEY 12.927 SOBRE SEGURIDAD INTERIOR DEL ESTADO, LA LEY 17.798 Y EL DECRETO LEY 5, DE 1973",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1973-10-31",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5674": {
+    "idNorma": 5674,
+    "numero": "24",
+    "titulo": "DECRETO-LEY N.o 24 (2);(Se tomó razón de él por la Contraloría General;;pero no ha sido publicado en el \"Diario Oficial\").;Cambia nombre al Ministerio de Higiene, por el de;Salubridad Pública; Departamentos y Secciones de que \nse;comprondrá el Ministerio del Trabajo; organismo sobre;los cuales el Ministerio de Hacienda tendrá su tuición;económica y supervigilancia; y deroga disposiciones;contrarias.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1932-06-24",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5675": {
+    "idNorma": 5675,
+    "numero": "25",
+    "titulo": "DETERMINA CESE DE LOS ALCALDES Y REGIDORES DE LAS MUNICIPALIDADES DEL PAIS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1973-09-22",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5676": {
+    "idNorma": 5676,
+    "numero": "26",
+    "titulo": "DECRETO-LEI N.° 26, QUE ESTABLECE EL SERVICIO DE IDENTIFICACION PERSONAL OBLIGATORIO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1924-11-18",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5677": {
+    "idNorma": 5677,
+    "numero": "28",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1924-10-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5678": {
+    "idNorma": 5678,
+    "numero": "28",
+    "titulo": "AUMENTA PLANTA DE OFICIALES DE JUSTICIA DE LA ARMADA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1973-10-01",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5679": {
+    "idNorma": 5679,
+    "numero": "29",
+    "titulo": "MODIFICA LEY N° 17.169",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1973-09-27",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5680": {
+    "idNorma": 5680,
+    "numero": "32",
+    "titulo": "MODIFICA DECRETO N° 241",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1932-06-22",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "29815": {
+    "idNorma": 29815,
+    "numero": "18403",
+    "titulo": "SANCIONA EL TRAFICO ILICITO DE DROGAS Y ESTUPEFACIENTES Y DEROGA LA LEY N° 17.934",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1985-03-04",
+    "modifica": [
+      "17934"
+    ],
+    "modificadaPor": [
+      30733
+    ]
   },
   "30733": {
     "idNorma": 30733,
@@ -59,21 +216,30 @@
       235507
     ]
   },
+  "30760": {
+    "idNorma": 30760,
+    "numero": "19393",
+    "titulo": "INTRODUCE MODIFICACIONES A LA LEY N° 19.366, QUE SANCIONA EL TRAFICO ILICITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTROPICAS, Y AL ARTICULO 83 DEL CODIGO DE PROCEDIMIENTO PENAL",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1995-06-22",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "198675": {
+    "idNorma": 198675,
+    "numero": "19806",
+    "titulo": "NORMAS ADECUATORIAS DEL SISTEMA LEGAL CHILENO A LA REFORMA PROCESAL PENAL",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "2002-05-31",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "219119": {
     "idNorma": 219119,
     "numero": "19913",
     "titulo": "CREA LA UNIDAD DE ANALISIS FINANCIERO Y MODIFICA DIVERSAS DISPOSICIONES EN MATERIA DE LAVADO Y BLANQUEO DE ACTIVOS",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "2003-12-18",
-    "modifica": [],
-    "modificadaPor": []
-  },
-  "1192530": {
-    "idNorma": 1192530,
-    "numero": "21575",
-    "titulo": "MODIFICA DIVERSOS CUERPOS LEGALES CON EL OBJETO DE MEJORAR LA PERSECUCIÓN DEL NARCOTRÁFICO Y CRIMEN ORGANIZADO, REGULAR EL DESTINO DE LOS BIENES INCAUTADOS EN ESOS DELITOS Y FORTALECER LAS INSTITUCIONES DE REHABILITACIÓN Y REINSERCIÓN SOCIAL",
-    "clasificacion": "modificatoria",
-    "fechaPublicacion": "2023-05-23",
     "modifica": [],
     "modificadaPor": []
   },
@@ -124,34 +290,30 @@
       1206373
     ]
   },
-  "198675": {
-    "idNorma": 198675,
-    "numero": "19806",
-    "titulo": "NORMAS ADECUATORIAS DEL SISTEMA LEGAL CHILENO A LA REFORMA PROCESAL PENAL",
-    "clasificacion": "modificatoria",
-    "fechaPublicacion": "2002-05-31",
-    "modifica": [],
-    "modificadaPor": []
-  },
-  "29815": {
-    "idNorma": 29815,
-    "numero": "18403",
-    "titulo": "SANCIONA EL TRAFICO ILICITO DE DROGAS Y ESTUPEFACIENTES Y DEROGA LA LEY N° 17.934",
-    "clasificacion": "sustantiva",
-    "fechaPublicacion": "1985-03-04",
-    "modifica": [
-      "17934"
-    ],
-    "modificadaPor": [
-      30733
-    ]
-  },
   "243832": {
     "idNorma": 243832,
     "numero": "20074",
     "titulo": "MODIFICA LOS CODIGOS PROCESAL PENAL Y PENAL",
     "clasificacion": "modificatoria",
     "fechaPublicacion": "2005-11-14",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "1021537": {
+    "idNorma": 1021537,
+    "numero": "20502",
+    "titulo": "CREA EL MINISTERIO DEL INTERIOR Y EL SERVICIO NACIONAL PARA LA PREVENCIÓN Y REHABILITACIÓN DEL CONSUMO DE DROGAS Y ALCOHOL, Y MODIFICA DIVERSOS CUERPOS LEGALES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "2011-02-21",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "1040510": {
+    "idNorma": 1040510,
+    "numero": "20603",
+    "titulo": "MODIFICA LA LEY Nº 18.216, QUE ESTABLECE MEDIDAS ALTERNATIVAS A LAS PENAS PRIVATIVAS O RESTRICTIVAS DE LIBERTAD",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "2012-06-27",
     "modifica": [],
     "modificadaPor": []
   },
@@ -164,12 +326,30 @@
     "modifica": [],
     "modificadaPor": []
   },
-  "1040510": {
-    "idNorma": 1040510,
-    "numero": "20603",
-    "titulo": "MODIFICA LA LEY Nº 18.216, QUE ESTABLECE MEDIDAS ALTERNATIVAS A LAS PENAS PRIVATIVAS O RESTRICTIVAS DE LIBERTAD",
+  "1075210": {
+    "idNorma": 1075210,
+    "numero": "20830",
+    "titulo": "CREA EL ACUERDO DE UNIÓN CIVIL",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "2015-04-21",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "1192530": {
+    "idNorma": 1192530,
+    "numero": "21575",
+    "titulo": "MODIFICA DIVERSOS CUERPOS LEGALES CON EL OBJETO DE MEJORAR LA PERSECUCIÓN DEL NARCOTRÁFICO Y CRIMEN ORGANIZADO, REGULAR EL DESTINO DE LOS BIENES INCAUTADOS EN ESOS DELITOS Y FORTALECER LAS INSTITUCIONES DE REHABILITACIÓN Y REINSERCIÓN SOCIAL",
     "clasificacion": "modificatoria",
-    "fechaPublicacion": "2012-06-27",
+    "fechaPublicacion": "2023-05-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "1206373": {
+    "idNorma": 1206373,
+    "numero": "21694",
+    "titulo": "MODIFICA LOS CUERPOS LEGALES QUE INDICA PARA MEJORAR LA PERSECUCIÓN PENAL EN MATERIA DE REINCIDENCIA Y DELITOS DE MAYOR CONNOTACIÓN SOCIAL",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "2024-09-04",
     "modifica": [],
     "modificadaPor": []
   }
