@@ -921,7 +921,8 @@ def _collect_all_law_events(seq_counter: list[int]) -> list[Event]:
         if not base.is_dir():
             continue
         for law_dir in sorted(base.iterdir()):
-            if not law_dir.is_dir():
+            if law_dir.is_symlink() or not law_dir.is_dir():
+                # Symlinks are derogated laws already replaced by a successor link
                 continue
             log.info("Processing %s/%s ...", subdir, law_dir.name)
             law_events = _build_events_for_law(law_dir, scope, seq_counter, graph)
@@ -946,6 +947,60 @@ def _date_to_unix(date_str: str, seq: int = 0) -> int:
         return int(dt.timestamp()) + seq
     except Exception:
         return 0
+
+
+def _event_group_key(ev: Event) -> tuple:
+    """
+    Key identifying which commit an event belongs to. All feat/update/derog
+    events triggered by the same norma on the same date share one commit.
+    chore/scripts events are never merged (unique key per event).
+    """
+    if ev.tipo in ("feat", "update", "derog"):
+        trigger = ev.modifier_numero if ev.modifier_numero else ev.ley_numero
+        return (ev.date, "law", trigger)
+    return (ev.date, ev.tipo, ev._seq)
+
+
+def _group_events(sorted_events: list[Event]) -> list[list[Event]]:
+    """Group already-sorted events into per-commit buckets."""
+    groups: list[list[Event]] = []
+    for ev in sorted_events:
+        if groups and _event_group_key(groups[-1][0]) == _event_group_key(ev):
+            groups[-1].append(ev)
+        else:
+            groups.append([ev])
+    return groups
+
+
+def _merge_commit_body(group: list[Event]) -> str:
+    """
+    Build the commit body for a grouped commit: the primary event's body,
+    plus a summary of the laws this norma modified and derogated.
+    """
+    primary = group[0]
+    body = primary.message_body or ""
+    if len(group) == 1:
+        return body
+
+    modified: list[str] = []
+    derogated: list[str] = []
+    for ev in group[1:]:
+        if ev.tipo == "derog":
+            if ev.ley_numero not in derogated:
+                derogated.append(ev.ley_numero)
+        elif ev.tipo == "update":
+            if ev.ley_numero not in modified:
+                modified.append(ev.ley_numero)
+    modified = [n for n in modified if n not in derogated]
+
+    extra: list[str] = []
+    if modified:
+        extra.append("Modifica: " + ", ".join(f"Ley {n}" for n in modified))
+    if derogated:
+        extra.append("Deroga: " + ", ".join(f"Ley {n}" for n in derogated))
+    if not extra:
+        return body
+    return (body + "\n\n" + "\n".join(extra)).strip() if body else "\n".join(extra)
 
 
 def _make_fast_import_stream(
@@ -1055,24 +1110,37 @@ def _make_fast_import_stream(
         )
         parent_mark = m
 
-    # --- Phase 2: law events sorted chronologically ---
+    # --- Phase 2: law events grouped — one commit per triggering norma ---
     sorted_events = sorted(law_events, key=lambda e: e.sort_key())
+    groups = _group_events(sorted_events)
 
-    for i, ev in enumerate(sorted_events):
+    for i, group in enumerate(groups):
+        primary = group[0]
         m = next_mark()
-        unix_ts = _date_to_unix(ev.date, seq=i)
+        unix_ts = _date_to_unix(primary.date, seq=i)
+
+        merged_files: dict[str, bytes] = {}
+        merged_deletes: list[str] = []
+        merged_symlinks: dict[str, str] = {}
+        for ev in group:
+            merged_files.update(ev.files)
+            merged_deletes.extend(ev.delete_files)
+            merged_symlinks.update(ev.symlinks)
+        # Drop content that is deleted in the same commit (derogated laws)
+        deleted = set(merged_deletes)
+        merged_files = {p: c for p, c in merged_files.items() if p not in deleted}
 
         write_commit(
-            subject=ev.message_subject,
-            body=ev.message_body,
+            subject=primary.message_subject,
+            body=_merge_commit_body(group),
             author_name=AUTHOR_NAME,
             author_email=AUTHOR_EMAIL,
             unix_ts=unix_ts,
-            files=ev.files,
+            files=merged_files,
             m=m,
             parent_m=parent_mark,
-            delete_files=ev.delete_files or None,
-            symlinks=ev.symlinks or None,
+            delete_files=merged_deletes or None,
+            symlinks=merged_symlinks or None,
         )
         parent_mark = m
 
@@ -1106,11 +1174,15 @@ def build_event_list(dry_run: bool = False) -> list[Event]:
     all_events.sort(key=lambda e: e.sort_key())
 
     if dry_run:
-        print(f"\n{'Date':<12} {'Type':<8} {'Scope':<14} {'Subject'}")
+        groups = _group_events(sorted(all_events, key=lambda e: e.sort_key()))
+        print(f"\n{'Date':<12} {'Files':<6} {'Commit subject'}")
         print("-" * 80)
-        for ev in all_events:
-            print(f"{ev.date:<12} {ev.tipo:<8} {ev.scope:<14} {ev.message_subject[:50]}")
-        print(f"\nTotal: {len(all_events)} events")
+        for g in groups:
+            primary = g[0]
+            nfiles = sum(len(e.files) for e in g)
+            merged = f"  [+{len(g) - 1} merged]" if len(g) > 1 else ""
+            print(f"{primary.date:<12} {nfiles:<6} {primary.message_subject[:52]}{merged}")
+        print(f"\nTotal: {len(groups)} commits from {len(all_events)} events")
 
     return all_events
 
