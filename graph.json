@@ -215,12 +215,156 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "5686": {
+    "idNorma": 5686,
+    "numero": "35",
+    "titulo": "MODIFICA EL DECRETO-LEY NUMERO 24",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1932-08-04",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5687": {
+    "idNorma": 5687,
+    "numero": "35",
+    "titulo": "AUMENTA LA JORNADA ORDINARIA SEMANAL DE TRABAJO PARA LOS SECTORES PUBLICO Y PRIVADO, HASTA LA FECHA QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1973-10-12",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5688": {
+    "idNorma": 5688,
+    "numero": "36",
+    "titulo": "CREA EL CARGO DE SUBSECRETARIO DE COORDINACION\nJURIDICA DE GOBIERNO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1973-10-02",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5689": {
+    "idNorma": 5689,
+    "numero": "38",
+    "titulo": "MODIFICA EL DECRETO-LEY NUMERO 486, DE 21 DE AGOSTO DE 1925",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1932-06-16",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5690": {
+    "idNorma": 5690,
+    "numero": "38",
+    "titulo": "INTRODUCE MODIFICACIONES A LA LEY N° 10.336,\nORGANICA DE LA CONTRALORIA GENERAL DE LA REPUBLICA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1973-10-02",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5691": {
+    "idNorma": 5691,
+    "numero": "42",
+    "titulo": "ENTIENDE AUTORIZACION MINISTROS DE ESTADO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1932-06-22",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5692": {
+    "idNorma": 5692,
+    "numero": "43",
+    "titulo": "SUSPENDE TRANSITORIAMENTE LAS NORMAS QUE SEñALA RELATIVAS A REAJUSTES O AUMENTOS DE REMUNERACIONES Y PENSIONES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1973-09-29",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5693": {
+    "idNorma": 5693,
+    "numero": "44",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1924-10-21",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "5694": {
     "idNorma": 5694,
     "numero": "44",
     "titulo": "AUTORIZA MINISTROS DE ESTADO PARA FIRMAR POR ORDEN\nJUNTA GOBIERNO",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1932-06-27",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5695": {
+    "idNorma": 5695,
+    "numero": "45",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1924-10-21",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5696": {
+    "idNorma": 5696,
+    "numero": "45",
+    "titulo": "DISPONE QUE LAS DONACIONES QUE SE REALICEN AL ESTADO CON LOS FINES QUE INDICA ESTARAN EXENTAS DEL IMPUESTO QUE SEÑALA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1973-10-16",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5697": {
+    "idNorma": 5697,
+    "numero": "47",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1924-10-22",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5698": {
+    "idNorma": 5698,
+    "numero": "48",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1924-10-17",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5699": {
+    "idNorma": 5699,
+    "numero": "48",
+    "titulo": "Facilidades de pago para compromisos vencidos",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1932-06-20",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5700": {
+    "idNorma": 5700,
+    "numero": "49",
+    "titulo": "FIJA ATRIBUCIONES A LOS JEFES SUPERIORES DE LAS INSTITUCIONES DE PREVISION SOCIAL",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1973-10-12",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5701": {
+    "idNorma": 5701,
+    "numero": "50",
+    "titulo": "SANCIONA LOS DELITOS COMETIDOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1932-06-24",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5702": {
+    "idNorma": 5702,
+    "numero": "50",
+    "titulo": "DESIGNA RECTORES-DELEGADOS EN UNIVERSIDADES DEL PAIS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1973-10-02",
     "modifica": [],
     "modificadaPor": []
   },
