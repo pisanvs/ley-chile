@@ -171,6 +171,72 @@ def fetch_sparql_catalog() -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Graph discovery — trace each law's relationships (backward + forward)
+# ---------------------------------------------------------------------------
+
+# Relationship predicates worth following:
+#   modifiesTo   — laws this norma amends/derogates (backward)
+#   isModifiedBy — laws that amend this norma (forward)
+#   recasts      — texto refundido this norma consolidates (older ids)
+#   isRecastedBy — consolidated text that supersedes this norma (newer ids)
+_RELATIONS_QUERY = """\
+PREFIX bcn: <http://datos.bcn.cl/ontologies/bcn-norms#>
+SELECT DISTINCT ?src ?rel ?code ?ttipo ?tnum ?tdate WHERE {{
+  VALUES ?src {{ {ids} }}
+  ?s bcn:leychileCode ?sc . FILTER(xsd:integer(?sc) = ?src)
+  ?s ?rel ?target .
+  FILTER(?rel = bcn:modifiesTo || ?rel = bcn:isModifiedBy
+         || ?rel = bcn:recasts || ?rel = bcn:isRecastedBy)
+  ?target bcn:leychileCode ?code .
+  OPTIONAL {{ ?target bcn:type ?tt . BIND(STR(?tt) AS ?ttipo) }}
+  OPTIONAL {{ ?target bcn:hasNumber ?tnum }}
+  OPTIONAL {{ ?target bcn:publishDate ?tdate }}
+}}
+"""
+
+
+def fetch_relations_batch(id_normas: list[int]) -> dict[int, list[dict]]:
+    """
+    Query BCN SPARQL for the relationships of each idNorma in one request.
+
+    Returns {src_idNorma: [{rel, idNorma, tipo, numero, fecha}, ...]}.
+    Every requested idNorma is present as a key (empty list if no relations).
+    Targets are resolved by leychileCode, so a related law is identified by its
+    real idNorma even when the BCN URI carries an older/newer numero.
+    """
+    if not id_normas:
+        return {}
+    out: dict[int, list[dict]] = {i: [] for i in id_normas}
+    ids = " ".join(str(i) for i in id_normas)
+    bindings = _sparql_query(_RELATIONS_QUERY.format(ids=ids))
+
+    seen: set[tuple[int, str, int]] = set()
+    for row in bindings:
+        try:
+            src = int(row["src"]["value"])
+            code = int(row["code"]["value"])
+        except (KeyError, ValueError):
+            continue
+        rel = row.get("rel", {}).get("value", "").split("#")[-1]
+        if not rel or src == code:
+            continue
+        key = (src, rel, code)
+        if key in seen:
+            continue
+        seen.add(key)
+        tipo_uri = row.get("ttipo", {}).get("value", "")
+        fecha_raw = row.get("tdate", {}).get("value", "")
+        out.setdefault(src, []).append({
+            "rel": rel,
+            "idNorma": code,
+            "tipo": tipo_uri.split("#")[-1] if tipo_uri else "",
+            "numero": row.get("tnum", {}).get("value", ""),
+            "fecha": fecha_raw[:10] if fecha_raw else "",
+        })
+    return out
+
+
+# ---------------------------------------------------------------------------
 # Catalog and progress I/O
 # ---------------------------------------------------------------------------
 
@@ -211,17 +277,18 @@ def _catalog_age_days() -> float:
 def load_progress() -> dict:
     p = _progress_path()
     if not p.exists():
-        return {"done": [], "failed": {}, "last_sync": ""}
+        return {"done": [], "discovered": [], "failed": {}, "last_sync": ""}
     try:
         raw = json.loads(p.read_text(encoding="utf-8"))
         # Normalise: ensure expected keys exist
         raw.setdefault("done", [])
+        raw.setdefault("discovered", [])
         raw.setdefault("failed", {})
         raw.setdefault("last_sync", "")
         return raw
     except Exception as exc:
         log.warning("Failed to load %s: %s", PROGRESS_FILE, exc)
-        return {"done": [], "failed": {}, "last_sync": ""}
+        return {"done": [], "discovered": [], "failed": {}, "last_sync": ""}
 
 
 def save_progress(progress: dict) -> None:
@@ -235,19 +302,29 @@ def save_progress(progress: dict) -> None:
 # Already-committed detection (one-time disk scan on first run)
 # ---------------------------------------------------------------------------
 
+_META_FILES = {"bulk_catalog.json", "bulk_progress.json", "graph.json"}
+_NON_LAW_DIRS = {".git", ".github", "scripts", "__pycache__"}
+
+
+def _law_collection_dirs() -> list[Path]:
+    """Return every top-level directory under DATA_ROOT that holds law subdirs."""
+    dirs: list[Path] = []
+    for entry in sorted(tg.DATA_ROOT.iterdir()):
+        if entry.is_dir() and entry.name not in _NON_LAW_DIRS:
+            dirs.append(entry)
+    return dirs
+
+
 def _scan_committed_ids(catalog_ids: set[int]) -> set[int]:
     """
-    Walk leyes/ and modificaciones/ in DATA_ROOT.
+    Walk every law-collection directory in DATA_ROOT.
     For each directory that has versiones.json with at least one committed=true entry,
     read metadata.json to get the idNorma and return the set of such idNormas.
     Only returns idNormas that are in catalog_ids (avoids polluting progress with
     laws not from the bulk catalog).
     """
     found: set[int] = set()
-    for subdir in ("leyes", "modificaciones"):
-        base = tg.DATA_ROOT / subdir
-        if not base.is_dir():
-            continue
+    for base in _law_collection_dirs():
         for law_dir in base.iterdir():
             if law_dir.is_symlink() or not law_dir.is_dir():
                 continue
@@ -327,7 +404,10 @@ def process_one(id_norma: int) -> tuple[bool, dict | None]:
 
     titulo = metadata.get("titulo", "")
     clasificacion = tg.classify(titulo)
-    dest = tg.law_dir(numero, clasificacion)
+    dest = tg.law_dir(
+        numero, clasificacion,
+        tipo=metadata.get("tipo", ""), id_norma=metadata.get("idNorma"),
+    )
 
     if dest.is_symlink():
         log.info("  idNorma=%d (Ley %s): dir is a derog symlink — already handled", id_norma, numero)
@@ -347,46 +427,28 @@ def process_one(id_norma: int) -> tuple[bool, dict | None]:
 # Graph.json update
 # ---------------------------------------------------------------------------
 
-def _update_graph(new_laws: list[tuple[int, dict]]) -> None:
-    """
-    Add stub entries for newly processed laws to graph.json.
-    Does not overwrite existing entries (they may have richer modifier info).
-    Commits the updated graph.json if changed.
-    """
-    if not new_laws:
-        return
+def _graph_path() -> Path:
+    return tg.DATA_ROOT / "graph.json"
 
-    gpath = tg.DATA_ROOT / "graph.json"
-    graph: dict = {}
-    if gpath.exists():
-        try:
-            graph = {int(k): v for k, v in json.loads(gpath.read_text(encoding="utf-8")).items()}
-        except Exception as exc:
-            log.warning("Could not load graph.json: %s", exc)
 
-    added = 0
-    for id_norma, metadata in new_laws:
-        if id_norma in graph:
-            continue
-        titulo = metadata.get("titulo", "")
-        graph[id_norma] = {
-            "idNorma": id_norma,
-            "numero": metadata.get("numero", ""),
-            "titulo": titulo,
-            "clasificacion": tg.classify(titulo),
-            "fechaPublicacion": metadata.get("fechaPublicacion", ""),
-            "modifica": [],
-            "modificadaPor": [],
-        }
-        added += 1
+def _load_graph() -> dict[int, dict]:
+    p = _graph_path()
+    if not p.exists():
+        return {}
+    try:
+        return {int(k): v for k, v in json.loads(p.read_text(encoding="utf-8")).items()}
+    except Exception as exc:
+        log.warning("Could not load graph.json: %s", exc)
+        return {}
 
-    if added == 0:
-        return
 
-    log.info("graph.json: adding %d new stub entries", added)
-    # Write with string keys (graph.json convention)
+def _save_and_commit_graph(graph: dict[int, dict], msg: str) -> None:
+    gpath = _graph_path()
     gpath.write_text(
-        json.dumps({str(k): v for k, v in sorted(graph.items())}, ensure_ascii=False, indent=2),
+        json.dumps(
+            {str(k): graph[k] for k in sorted(graph)},
+            ensure_ascii=False, indent=2,
+        ),
         encoding="utf-8",
     )
     subprocess.run(["git", "-C", str(tg.DATA_ROOT), "add", "--", str(gpath)], check=True)
@@ -395,10 +457,112 @@ def _update_graph(new_laws: list[tuple[int, dict]]) -> None:
     )
     if result.returncode != 0:
         subprocess.run(
-            ["git", "-C", str(tg.DATA_ROOT), "commit", "-m",
-             f"chore(meta): bulk — añadir {added} stubs a graph.json"],
-            check=True,
+            ["git", "-C", str(tg.DATA_ROOT), "commit", "-m", msg], check=True
         )
+
+
+def _blank_node(id_norma: int) -> dict:
+    return {
+        "idNorma": id_norma,
+        "numero": "",
+        "titulo": "",
+        "clasificacion": "",
+        "fechaPublicacion": "",
+        "modifica": [],
+        "modificadaPor": [],
+    }
+
+
+def _update_graph(new_laws: list[tuple[int, dict]]) -> None:
+    """
+    Add or enrich graph.json entries for newly processed laws.
+
+    A discovery stub (created earlier with only idNorma/numero) is enriched in
+    place with titulo/clasificacion/fechaPublicacion while keeping any
+    modifica/modificadaPor links already recorded.
+    """
+    if not new_laws:
+        return
+
+    graph = _load_graph()
+    changed = 0
+    for id_norma, metadata in new_laws:
+        titulo = metadata.get("titulo", "")
+        node = graph.setdefault(id_norma, _blank_node(id_norma))
+        # Enrich only if the descriptive fields are still empty (stub).
+        if not node.get("titulo"):
+            node["numero"] = metadata.get("numero", node.get("numero", ""))
+            node["titulo"] = titulo
+            node["clasificacion"] = tg.classify(titulo)
+            node["fechaPublicacion"] = metadata.get(
+                "fechaPublicacion", node.get("fechaPublicacion", "")
+            )
+            changed += 1
+
+    if changed == 0:
+        return
+
+    log.info("graph.json: added/enriched %d entries", changed)
+    _save_and_commit_graph(
+        graph, f"chore(meta): bulk — añadir/enriquecer {changed} entradas en graph.json"
+    )
+
+
+def _record_relations(rel_map: dict[int, list[dict]]) -> set[int]:
+    """
+    Merge backward (modifica) and forward (modificadaPor) relationships from
+    fetch_relations_batch() into graph.json.
+
+    Returns the set of every idNorma referenced (sources + targets) so the
+    caller can enqueue newly discovered laws.
+    """
+    referenced: set[int] = set()
+    if not rel_map:
+        return referenced
+
+    graph = _load_graph()
+    changed = False
+
+    def node(idn: int, numero: str = "", fecha: str = "") -> dict:
+        n = graph.setdefault(idn, _blank_node(idn))
+        if numero and not n.get("numero"):
+            n["numero"] = numero
+        if fecha and not n.get("fechaPublicacion"):
+            n["fechaPublicacion"] = fecha
+        return n
+
+    for src, rels in rel_map.items():
+        referenced.add(src)
+        src_node = node(src)
+        for r in rels:
+            tgt = r["idNorma"]
+            referenced.add(tgt)
+            tgt_node = node(tgt, r.get("numero", ""), r.get("fecha", ""))
+            rel = r["rel"]
+            if rel == "modifiesTo":
+                tnum = r.get("numero", "")
+                if tnum and tnum not in src_node["modifica"]:
+                    src_node["modifica"].append(tnum)
+                    changed = True
+                if src not in tgt_node["modificadaPor"]:
+                    tgt_node["modificadaPor"].append(src)
+                    changed = True
+            elif rel == "isModifiedBy":
+                if tgt not in src_node["modificadaPor"]:
+                    src_node["modificadaPor"].append(tgt)
+                    changed = True
+                src_num = src_node.get("numero", "")
+                if src_num and src_num not in tgt_node["modifica"]:
+                    tgt_node["modifica"].append(src_num)
+                    changed = True
+            # recasts / isRecastedBy: followed for ingestion only (referenced),
+            # no dedicated graph fields.
+
+    if changed:
+        _save_and_commit_graph(
+            graph, "chore(meta): bulk — registrar relaciones del grafo legislativo"
+        )
+    return referenced
 
 
 # ---------------------------------------------------------------------------
@@ -420,6 +584,61 @@ def _commit_meta(msg: str) -> None:
             ["git", "-C", str(tg.DATA_ROOT), "commit", "-m", msg],
             check=True,
         )
+
+
+# ---------------------------------------------------------------------------
+# Discovery pass
+# ---------------------------------------------------------------------------
+
+def run_discovery(
+    to_discover: list[int],
+    catalog: list[dict],
+    catalog_ids: set[int],
+    progress: dict,
+) -> int:
+    """
+    Fetch the relationships of the given laws, record them in graph.json, and
+    append any newly discovered normas to the catalog so later runs ingest them.
+
+    Tracing follows both directions: modifiesTo/recasts (backward) and
+    isModifiedBy/isRecastedBy (forward). Returns the count of new catalog
+    entries added.
+    """
+    if not to_discover:
+        return 0
+
+    log.info("Discovery: tracing relationships for %d laws ...", len(to_discover))
+    try:
+        rel_map = fetch_relations_batch(to_discover)
+    except Exception as exc:
+        log.warning("Discovery SPARQL failed — will retry next run: %s", exc)
+        return 0
+
+    _record_relations(rel_map)
+
+    # Collect related normas not yet in the catalog.
+    targets: dict[int, dict] = {}
+    for rels in rel_map.values():
+        for r in rels:
+            tid = r["idNorma"]
+            if tid not in catalog_ids and tid not in targets:
+                targets[tid] = {"tipo": r.get("tipo", ""), "fecha": r.get("fecha", "")}
+
+    new_entries = [
+        {"idNorma": tid, "tipo": m["tipo"], "fechaPublicacion": m["fecha"]}
+        for tid, m in sorted(targets.items())
+    ]
+    if new_entries:
+        catalog.extend(new_entries)
+        catalog.sort(key=lambda e: e["idNorma"])
+        catalog_ids.update(targets)
+        save_catalog(catalog)
+        log.info("Discovery: appended %d newly discovered normas to catalog", len(new_entries))
+
+    discovered = set(progress.get("discovered", []))
+    discovered.update(to_discover)
+    progress["discovered"] = sorted(discovered)
+    return len(new_entries)
 
 
 # ---------------------------------------------------------------------------
@@ -456,10 +675,17 @@ def main() -> None:
 
     if not catalog or catalog_stale:
         log.info("Fetching fresh SPARQL catalog (age=%.1f days) ...", _catalog_age_days())
-        catalog = fetch_sparql_catalog()
-        if not catalog:
+        fresh = fetch_sparql_catalog()
+        if not fresh:
             log.error("SPARQL catalog is empty — aborting")
             sys.exit(1)
+        # Preserve normas discovered via graph traversal that the SPARQL
+        # catalog query (Ley + DL only) does not return — e.g. DFLs, Decretos.
+        fresh_ids = {e["idNorma"] for e in fresh}
+        extras = [e for e in catalog if e["idNorma"] not in fresh_ids]
+        catalog = sorted(fresh + extras, key=lambda e: e["idNorma"])
+        if extras:
+            log.info("  Kept %d discovered normas not in the SPARQL catalog", len(extras))
         if not args.dry_run:
             save_catalog(catalog)
             log.info("Catalog saved: %d entries", len(catalog))
@@ -494,62 +720,75 @@ def main() -> None:
         n_done, total, n_failed, len(pending),
     )
 
-    if not pending:
-        log.info("All laws processed — nothing to do.")
-        return
-
-    batch = pending[: args.batch_size]
-    log.info(
-        "Processing batch of %d laws (next pending idNorma=%d) ...",
-        len(batch), batch[0],
-    )
+    discovered = set(progress.get("discovered", []))
+    backlog_count = len([i for i in done_set if i not in discovered])
+    log.info("Discovery backlog: %d traced laws pending relationship lookup", backlog_count)
 
     if args.dry_run:
-        log.info("[dry-run] Would process: %s", batch[:10])
+        log.info("[dry-run] Would process: %s", pending[: args.batch_size][:10])
+        log.info("[dry-run] Would run discovery on up to %d laws", args.batch_size * 2)
         return
 
-    # ── 3. Process batch ─────────────────────────────────────────────────────
+    # ── 3. Process a batch of pending laws ──────────────────────────────────
+    batch = pending[: args.batch_size]
     new_graph_entries: list[tuple[int, dict]] = []
+    batch_done: list[int] = []
 
-    for id_norma in batch:
-        success, metadata = process_one(id_norma)
+    if batch:
+        log.info(
+            "Processing batch of %d laws (next pending idNorma=%d) ...",
+            len(batch), batch[0],
+        )
+        for id_norma in batch:
+            success, metadata = process_one(id_norma)
 
-        if success:
-            done_set.add(id_norma)
-            # Remove from failed if previously failed
-            progress["failed"].pop(str(id_norma), None)
-            if metadata:
-                new_graph_entries.append((id_norma, metadata))
-        else:
-            failed_entry = progress["failed"].get(str(id_norma), {"count": 0, "last_error": ""})
-            if isinstance(failed_entry, int):
-                failed_entry = {"count": failed_entry, "last_error": ""}
-            failed_entry["count"] = failed_entry.get("count", 0) + 1
-            progress["failed"][str(id_norma)] = failed_entry
-            log.warning(
-                "  idNorma=%d: failure %d/%d",
-                id_norma, failed_entry["count"], MAX_FAILURES,
-            )
+            if success:
+                done_set.add(id_norma)
+                batch_done.append(id_norma)
+                progress["failed"].pop(str(id_norma), None)
+                if metadata:
+                    new_graph_entries.append((id_norma, metadata))
+            else:
+                failed_entry = progress["failed"].get(str(id_norma), {"count": 0, "last_error": ""})
+                if isinstance(failed_entry, int):
+                    failed_entry = {"count": failed_entry, "last_error": ""}
+                failed_entry["count"] = failed_entry.get("count", 0) + 1
+                progress["failed"][str(id_norma)] = failed_entry
+                log.warning(
+                    "  idNorma=%d: failure %d/%d",
+                    id_norma, failed_entry["count"], MAX_FAILURES,
+                )
 
-    progress["done"] = sorted(done_set)
-    progress["last_sync"] = date.today().isoformat()
+        progress["done"] = sorted(done_set)
+        progress["last_sync"] = date.today().isoformat()
+        save_progress(progress)
+        _commit_meta(
+            f"chore(meta): bulk — progreso {len(done_set)}/{total} leyes procesadas"
+        )
+        _update_graph(new_graph_entries)
+        log.info(
+            "Batch complete: %d/%d succeeded, %d failed",
+            len(batch_done), len(batch), len(batch) - len(batch_done),
+        )
+    else:
+        log.info("No pending catalog laws — running discovery only.")
 
-    # ── 4. Persist progress + graph ──────────────────────────────────────────
-    save_progress(progress)
-    _commit_meta(
-        f"chore(meta): bulk — progreso {len(done_set)}/{total} leyes procesadas"
-    )
+    # ── 4. Discovery: trace relationships backwards and forwards ─────────────
+    backlog = [i for i in done_set if i not in discovered and i not in batch_done]
+    to_discover = (batch_done + backlog)[: args.batch_size * 2]
+    n_new = run_discovery(to_discover, catalog, catalog_ids, progress)
+    if to_discover:
+        save_progress(progress)
+        _commit_meta(
+            f"chore(meta): bulk — {n_new} normas relacionadas descubiertas, "
+            f"{len(progress['discovered'])}/{len(done_set)} leyes trazadas"
+        )
 
-    _update_graph(new_graph_entries)
+    if not batch and not to_discover:
+        log.info("Nothing to process and nothing to discover — done.")
+        return
 
     # ── 5. Rebuild history ───────────────────────────────────────────────────
-    n_processed = len(batch)
-    n_success = sum(1 for idn in batch if idn in done_set)
-    log.info(
-        "Batch complete: %d/%d succeeded, %d failed",
-        n_success, n_processed, n_processed - n_success,
-    )
-
     if not args.skip_rebuild:
         log.info("Rebuilding chronological history ...")
         try:
@@ -562,8 +801,8 @@ def main() -> None:
         log.info("Skipping history rebuild (--skip-rebuild).")
 
     log.info(
-        "=== Done — %d/%d laws total ===",
-        len(done_set), total,
+        "=== Done — %d/%d laws committed, %d traced, catalog size %d ===",
+        len(done_set), total, len(progress["discovered"]), len(catalog),
     )
 
 

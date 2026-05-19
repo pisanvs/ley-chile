@@ -351,19 +351,46 @@ def classify(titulo: str) -> str:
     return "modificatoria" if any(t.startswith(p) for p in _MODIF_PREFIXES) else "sustantiva"
 
 
-def law_dir(numero: str, clasificacion: str, tipo: str = "") -> Path:
+def tipo_slug(tipo: str) -> str:
+    """Normalize a norma tipo (LeyChile Spanish string or BCN slug) to a folder slug.
+
+    An empty tipo defaults to 'ley' so legacy callers keep working.
+    """
+    t = (tipo or "").strip().lower()
+    if t in ("", "ley"):
+        return "ley"
+    if t in ("dl", "decreto ley", "decreto-ley"):
+        return "dl"
+    if t in ("dfl", "decreto con fuerza de ley", "decreto-fuerza-ley"):
+        return "dfl"
+    if t in ("dto", "decreto", "decreto supremo", "decreto-supremo"):
+        return "dto"
+    slug = re.sub(r"[^a-z0-9]+", "-", t).strip("-")
+    return slug or "otras"
+
+
+def law_dir(
+    numero: str, clasificacion: str, tipo: str = "", id_norma: int | None = None
+) -> Path:
     """Return the DATA_ROOT-relative directory for a law.
 
-    Decretos Ley (tipo='Decreto Ley') are stored under dl/ or dl-modificaciones/
-    to avoid collisions with regular Leyes that share the same numero
-    (DLs are numbered 1-3660 which overlaps with pre-20th-century regular laws).
+    Only Leyes have a single globally unique numbering series, so they are
+    stored under {leyes,modificaciones}/{numero}.
+
+    Every other norma type reuses the same numero across organismos and eras
+    (Chile had two Decreto Ley series — 1924-25 and 1973-81 — both numbered
+    from 1, and DFL numbers repeat per ministry), so they are keyed by
+    idNorma — the only globally unique identifier — under {slug}/{idNorma}.
     """
-    is_dl = tipo.lower() in ("decreto ley", "decreto-ley", "dl")
-    if is_dl:
-        folder = "dl-modificaciones" if clasificacion == "modificatoria" else "dl"
+    slug = tipo_slug(tipo)
+    is_modif = clasificacion == "modificatoria"
+    if slug == "ley":
+        folder = "modificaciones" if is_modif else "leyes"
+        key = numero
     else:
-        folder = "modificaciones" if clasificacion == "modificatoria" else "leyes"
-    return DATA_ROOT / folder / numero
+        folder = f"{slug}-modificaciones" if is_modif else slug
+        key = str(id_norma) if id_norma else numero
+    return DATA_ROOT / folder / key
 
 
 # ---------------------------------------------------------------------------
@@ -466,7 +493,7 @@ def trace_one_law(
     titulo = metadata.get("titulo", "")
     tipo = metadata.get("tipo", "")
     clasificacion = classify(titulo)
-    dest = law_dir(numero, clasificacion, tipo=tipo)
+    dest = law_dir(numero, clasificacion, tipo=tipo, id_norma=id_norma)
     if dest.is_symlink():
         log.info("  Skipping idNorma=%d (Ley %s): directory replaced by derog symlink", id_norma, numero)
         return

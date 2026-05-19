@@ -537,6 +537,27 @@ def _build_events_for_law(
     titulo = metadata.get("titulo", "")
     id_norma = metadata.get("idNorma", "")
 
+    def _graph_modifier(vdate: str) -> Optional[dict]:
+        """Attribute a version to its modifier using graph.json relationships.
+
+        Used when versiones.json carries no explicit modificadaPor — the modifier
+        is the law in this norma's modificadaPor list published on vdate.
+        """
+        if not graph or not id_norma:
+            return None
+        node = graph.get(str(id_norma))
+        if not node:
+            return None
+        for mod_id in node.get("modificadaPor", []):
+            mod_node = graph.get(str(mod_id))
+            if mod_node and mod_node.get("fechaPublicacion", "")[:10] == vdate:
+                return {
+                    "numero": mod_node.get("numero", ""),
+                    "idNorma": mod_id,
+                    "titulo": mod_node.get("titulo", "")[:100],
+                }
+        return None
+
     # Read versiones
     ver_path = law_dir / "versiones.json"
     try:
@@ -652,7 +673,7 @@ def _build_events_for_law(
         if not vdate:
             continue
 
-        modificada_por = version.get("modificadaPor")
+        modificada_por = version.get("modificadaPor") or _graph_modifier(vdate)
         is_first = i == 0
         is_last = i == len(versiones) - 1
 
@@ -916,18 +937,24 @@ def _collect_all_law_events(seq_counter: list[int]) -> list[Event]:
         except Exception as exc:
             log.warning("Could not load graph.json: %s", exc)
 
-    for subdir, scope in [
-        ("leyes", "ley"), ("modificaciones", "modificacion"),
-        ("dl", "ley"), ("dl-modificaciones", "modificacion"),
-    ]:
-        base = DATA_ROOT / subdir
-        if not base.is_dir():
+    skip_dirs = {".git", ".github", "scripts", "__pycache__"}
+    for base in sorted(DATA_ROOT.iterdir()):
+        if not base.is_dir() or base.name in skip_dirs:
             continue
+        # A "-modificaciones" suffix (or the legacy "modificaciones" dir) marks
+        # collections of laws whose primary purpose is amending other norms.
+        scope = (
+            "modificacion"
+            if base.name == "modificaciones" or base.name.endswith("-modificaciones")
+            else "ley"
+        )
         for law_dir in sorted(base.iterdir()):
             if law_dir.is_symlink() or not law_dir.is_dir():
                 # Symlinks are derogated laws already replaced by a successor link
                 continue
-            log.info("Processing %s/%s ...", subdir, law_dir.name)
+            if not (law_dir / "metadata.json").exists():
+                continue
+            log.info("Processing %s/%s ...", base.name, law_dir.name)
             law_events = _build_events_for_law(law_dir, scope, seq_counter, graph)
             events.extend(law_events)
 
