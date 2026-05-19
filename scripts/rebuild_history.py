@@ -83,7 +83,7 @@ class Event:
     message_body: str
     files: dict[str, bytes]          # relative path → file content (bytes)
     delete_files: list[str] = field(default_factory=list)
-    # ley numero of the modificatoria law that triggered this update (empty for feat/derog)
+    # ley numero of the modificatoria law that triggered this update/derog (empty for standalone feat)
     modifier_numero: str = ""
     # git path → symlink target string (for derog events that replace dir with a symlink)
     symlinks: dict[str, str] = field(default_factory=dict)
@@ -91,9 +91,14 @@ class Event:
     _seq: int = field(default=0, compare=False)
 
     def sort_key(self) -> tuple:
-        # Group updates with the modificatoria feat that triggered them (rank 1 after rank 0)
+        # Group modifier-caused events together, in order: feat(0) → update(1) → derog(2)
         group = self.modifier_numero if self.modifier_numero else self.ley_numero
-        rank = 1 if self.modifier_numero else 0
+        if self.tipo == "derog" and self.modifier_numero:
+            rank = 2  # derog always follows the update that precedes it
+        elif self.modifier_numero:
+            rank = 1
+        else:
+            rank = 0
         return (self.date, group, rank, self._seq)
 
 
@@ -690,6 +695,7 @@ def _build_events_for_law(
                 message_subject=f"derog({scope}): Ley {numero} derogada",
                 message_body=_derog_body(vdate),
                 files={}, delete_files=derog_files, _seq=seq_counter[0],
+                modifier_numero=mod_numero,
                 symlinks=_derog_symlinks(vdate),
             ))
             continue
