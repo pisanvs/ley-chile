@@ -1,13 +1,13 @@
 {
-  "idNorma": 5701,
+  "idNorma": 5702,
   "tipo": "Decreto Ley",
   "numero": "50",
-  "titulo": "SANCIONA LOS DELITOS COMETIDOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO",
+  "titulo": "DESIGNA RECTORES-DELEGADOS EN UNIVERSIDADES DEL PAIS",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE EDUCACIÓN PÚBLICA"
   ],
-  "fechaPublicacion": "1932-06-24",
-  "fechaPromulgacion": "1932-06-21",
-  "fechaVersion": "1932-06-24",
-  "derogado": "no derogado"
+  "fechaPublicacion": "1973-10-02",
+  "fechaPromulgacion": "1973-10-01",
+  "fechaVersion": "1973-10-02",
+  "derogado": "derogado"
 }
