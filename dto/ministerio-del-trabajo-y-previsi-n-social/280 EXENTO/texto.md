@@ -88,11 +88,25 @@ En todo caso, los funcionarios a contrata y todos aquellos que posean contratos 
 
 Los afiliados que dejen de ser funcionarios y que deseen seguir perteneciendo al Servicio de Bienestar como jubilados, podrán hacerlo conforme a lo dispuesto en el artículo 7º del Reglamento General de los Servicios de Bienestar.
 
-Los jubilados del Servicio Local de Educación Pública de Chinchorro que no hubieren manifestado su voluntad de mantenerse en el Servicio de Bienestar podrán afiliarse a él con posterioridad.
+Para lo cual deberán manifestarlo por escrito y, desde esa oportunidad y hasta que adquieran dicha calidad, se mantendrán en suspenso sus derechos como afiliados, los que se ejercerán plenamente desde la fecha a partir de la cual se conceda la jubilación, pudiendo percibir retroactivamente los beneficios que correspondan, siempre que efectúen la cotización retroactiva por el período en que se mantuvieron en suspenso sus derechos.
+
+En el caso de tener compromisos con terceros como los son el seguro complementario de salud, o convenio de reembolso de gastos médicos, otro convenio de Bienestar y/o préstamos vigentes, estos deberán mantener sus pagos ininterrumpidamente.
+
+En cuanto se encuentren suspendidos sus derechos y en el caso de tener compromisos con terceros a través del seguro complementario de salud, convenio de reembolso de gastos médicos u otro convenio de bienestar y/o préstamos vigentes, los afiliados deberán hacerse cargo de sus pagos acorde a lo que determine el Consejo Administrativo.
+
+Durante el período de suspensión referido en el inciso precedente y en el caso de existir seguros contratados en beneficio de los afiliados, quien desee mantener su derecho a impetrar tales prestaciones, deberá seguir pagando la prima correspondiente, sin perjuicio del reembolso que corresponda una vez adquiera la calidad de jubilado.
+
+Para los efectos de lo dispuesto en los incisos anteriores, la Unidad de Gestión de Personas informará a la brevedad posible al Servicio de Bienestar acerca del cese de funciones de los/as funcionarios/as que jubilen, a fin de que éste requiera a sus afiliados por escrito para que, a través del formulario correspondiente, manifiesten su decisión de dar continuidad a su afiliación.
+
+Los jubilados del Servicio Local de Educación Pública de Chinchorro que no hubieren manifestado su voluntad de mantenerse en el Servicio de Bienestar podrán afiliarse a él con posterioridad..
 
 #### Artículo 7º
 
-La afiliación y desafiliación al Servicio Bienestar será de carácter voluntaria.
+La afiliación y desafiliación al Servicio de Bienestar será de carácter voluntaria.
+
+El afiliado, mientras mantenga su calidad de tal, no podrá eximirse por causa alguna de la obligación de pago de sus cuotas y deberá cumplir con sus demás compromisos para con el Servicio de Bienestar.
+
+La circunstancia de encontrarse el afiliado haciendo uso de feriado legal, de permiso con o sin goce de remuneraciones, de licencia médica, o encontrarse sujeto a la medida provisional o disciplinaria de suspensión o cumplimiento una comisión de servicios, no lo exime de las obligaciones de cumplir sus compromisos con el Servicio de Bienestar.
 
 #### Artículo 8º
 
@@ -109,6 +123,8 @@ a) Dejar de pertenecer al Servicio Local de Educación Pública de Chinchorro, a
 b) Por desafiliación voluntaria, la cual deberá notificarse por escrito al Consejo Administrativo del Servicio de Bienestar, con 30 días de anticipación a la fecha en que se hará efectiva.
 
 c) Por expulsión del afiliado.
+
+d) Por dejar de cumplir los requisitos de afiliación, como, por ejemplo, cambiar de calidad jurídica a personal a honorarios.
 
 #### Artículo 10º
 
@@ -142,9 +158,9 @@ El afiliado que se retire o sea expulsado del Servicio de Bienestar deberá canc
 
 Los afiliados del Servicio de Bienestar tendrán los siguientes derechos:
 
-a) El acceso igualitario para él y sus cargas familiares a las prestaciones que se aprobarán anualmente y a los proyectos y programas que se planifiquen según las necesidades e intereses de los afiliados.
+a) El acceso igualitario para él y sus cargas familiares a las prestaciones que se aprobarán anualmente y a los proyectos, programas y convenios que se planifiquen según las necesidades e intereses de los afiliados.
 
-b) Impetrar los beneficios que otorgue el Bienestar a contar de los 3 meses posteriores a la incorporación o reincorporación.
+b) Impetrar los beneficios que otorgue el Servicio de Bienestar a contar de los 6 meses posteriores a la incorporación o reincorporación.
 
 c) Requerir y recibir información respecto al estado de cuenta individual.
 
@@ -232,7 +248,7 @@ El Servicio de Bienestar no podrá otorgar otros beneficios que los contemplados
 
 #### Artículo 23º
 
-El Servicio de Bienestar, de acuerdo a sus disponibilidades presupuestarias, podrá conceder a sus afiliados y cargas familiares, con antigüedad de tres meses en dicho Servicio, beneficios de atención médica, odontológica, bonificaciones o ayudas económicas complementarias por las prestaciones que a continuación se detallan:
+El Servicio de Bienestar, de acuerdo a sus disponibilidades presupuestarias, podrá conceder a sus afiliados y cargas familiares, con antigüedad de seis meses en dicho Servicio, beneficios de atención médica, odontológica, bonificaciones o ayudas económicas complementarias por las prestaciones que a continuación se detallan:
 
 a) Consulta médica, consulta médica domiciliaria, interconsulta y junta médica.
 
@@ -263,6 +279,18 @@ m) Traslados.
 El Consejo Administrativo del Servicio de Bienestar determinará en el mes de diciembre de cada año, los porcentajes de los beneficios médicos y odontológicos y el monto máximo a que estos podrán ascender por prestaciones y afiliado en el año siguiente.
 
 Con el objeto de mejorar el nivel de prestaciones médicas, el Servicio de Bienestar podrá contratar seguros adicionales de salud para sus asociados. El Servicio de Bienestar, si sus disponibilidades lo permiten, podrá con cargo a su presupuesto, bonificar o subsidiar pagos de primas por concepto de seguros colectivos de vida, complementarios de salud, de enfermedades catastróficas u otros que contraten los afiliados en su favor o de sus cargas familiares.
+
+#### Artículo 23º bis
+
+El plazo de espera, para empezar a gozar de los beneficios médicos que se otorguen serán los siguientes:
+
+- Para las afiliaciones, a contar del primer día del sexto mes de afiliación;
+
+- Para reafiliaciones, a partir del primer día del sexto mes; y,
+
+- En caso de tercera o más veces de reafiliación, a partir del primer día del séptimo mes.
+
+Además, para uso de los convenios de colaboración con entidades externas, se dispone que se podrá utilizar desde el primer día del mes de afiliación siempre y cuando sea pago directo o pago por transferencia a la empresa en convenio, en tanto, en caso de descuento por planilla, podrán solicitarse a partir del tercer mes posterior a que el afiliado se incorpore al Servicio de Bienestar.
 
 #### Artículo 24º
 
@@ -310,7 +338,7 @@ Los niveles considerados para el pago de esta asignación serán los siguientes:
 
 Si ambos padres fueren afiliados, se pagará solo una asignación por hijo, al afiliado que lo tenga reconocido como carga.
 
-e) Beneficios Septiembre y Diciembre: Anualmente el Consejo Administrativo del Servicio de Bienestar dispondrá la entrega de una tarjeta Giftcard en el mes de septiembre y diciembre, respectivamente; su valor estará determinado por la disponibilidad presupuestaria.
+e) Beneficios septiembre y diciembre: Anualmente el Consejo Administrativo del Servicio de Bienestar dispondrá la entrega de una ayuda monetaria a sus afiliados vía transferencia electrónica a las cuentas bancarias registradas en el Servicio Local para ayudar a afrontar los gastos de Fiestas Patrias y Navidad en el mes de septiembre y diciembre respectivamente; su valor estará determinado por la disponibilidad presupuestaria.
 
 Durante el mes de diciembre, el Consejo Administrativo del Servicio de Bienestar determinará y coordinará una celebración navideña para las cargas familiares de los afiliados.
 
@@ -378,7 +406,19 @@ Los representantes del empleador serán los funcionarios de planta o contrata qu
 
 #### Artículo 30º
 
-Los representantes de los afiliados, tanto titulares como suplentes, serán los elegidos buscando su mejor forma de representación.
+Los representantes de los afiliados, tanto titulares como suplentes, serán los elegidos buscando su mejor forma de representación. Para ser elegido representante de los afiliados se requiere:
+
+a) Ser afiliado al Servicio de Bienestar;
+
+b) No ser integrante del Consejo Administrativo en representación de la entidad empleadora;
+
+c) No haber sido objeto de medida disciplinaria alguna durante el año anterior a la elección;
+
+d) Estar al día en el cumplimiento de sus obligaciones con el Servicio de Bienestar;
+
+e) Ser afiliado del Servicio de Bienestar con una antigüedad no inferior a un año; y,
+
+f) Tener su residencia en la Región de Arica y Parinacota.
 
 #### Artículo 31º
 
