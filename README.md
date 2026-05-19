@@ -87,6 +87,33 @@ LEYCHILE_DATA_ROOT=./historial python scripts/rebuild_history.py --dry-run
 - Inyecta datos de tramitación parlamentaria en el cuerpo del commit si existe `tramitacion.json`.
 - Ordena por `(fecha, grupo, rango, seq)` donde rango: 0=feat, 1=update, 2=derog.
 
+### sync_daily.py
+
+Sincronización diaria: detecta leyes nuevas y versiones nuevas, y reconstruye el historial cronológico.
+
+```bash
+LEYCHILE_DATA_ROOT=./historial python scripts/sync_daily.py
+
+# Vista previa sin modificar nada
+LEYCHILE_DATA_ROOT=./historial python scripts/sync_daily.py --dry-run
+
+# Sin reescribir el historial (más rápido, útil en pruebas)
+LEYCHILE_DATA_ROOT=./historial python scripts/sync_daily.py --skip-rebuild
+
+# Ampliar la ventana de búsqueda en opt=40
+LEYCHILE_DATA_ROOT=./historial python scripts/sync_daily.py --days 7
+```
+
+Pasos internos:
+1. Carga `graph.json` desde DATA_ROOT.
+2. Consulta LeyChile `opt=40` para detectar normas despachadas recientemente.
+3. Filtra candidatas `modificatoria` no conocidas; confirma vía BCN JSON que modifican la cadena primaria.
+4. Retrace de todas las leyes en el grafo (idempotente).
+5. Actualiza `graph.json` con un commit.
+6. Ejecuta `rebuild_history.rebuild()` para reordenar cronológicamente.
+
+Sale con código 1 si ocurre algún error durante el proceso.
+
 ### fetch_tramitacion.py
 
 Descarga datos de tramitación (sesiones, votos) del SIL y la Cámara para una ley.

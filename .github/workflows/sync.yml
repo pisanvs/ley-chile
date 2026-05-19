@@ -5,6 +5,16 @@ on:
     # 05:00 Chile Standard Time = 08:00 UTC (CLT is UTC-3, CLST is UTC-4)
     - cron: "0 8 * * *"
   workflow_dispatch:
+    inputs:
+      days:
+        description: "Days back to search via opt=40 (default: 3)"
+        required: false
+        default: "3"
+      skip_rebuild:
+        description: "Skip git fast-import history rebuild"
+        required: false
+        default: "false"
+        type: boolean
 
 jobs:
   sync:
@@ -29,9 +39,23 @@ jobs:
           git config user.name "ley-chile-bot"
           git config user.email "bot@ley-chile"
 
-      - name: Run daily sync
-        run: python scripts/sync_daily.py
-
-      - name: Push changes
+      - name: Set up historial worktree
         run: |
-          git push origin HEAD
+          git fetch origin historial
+          git worktree add historial historial
+
+      - name: Run daily sync
+        env:
+          LEYCHILE_DATA_ROOT: ${{ github.workspace }}/historial
+        run: |
+          ARGS="--days ${{ github.event.inputs.days || '3' }}"
+          if [ "${{ github.event.inputs.skip_rebuild }}" = "true" ]; then
+            ARGS="$ARGS --skip-rebuild"
+          fi
+          python scripts/sync_daily.py $ARGS
+
+      - name: Push historial branch
+        run: git push origin historial
+
+      - name: Run tests
+        run: python -m pytest --tb=short -q
