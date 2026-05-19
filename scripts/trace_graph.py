@@ -41,6 +41,21 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
+
+import os as _os
+
+def _detect_data_root() -> Path:
+    """Auto-detect where law data lives: historial/ worktree, env var, or fallback to repo root."""
+    env = _os.environ.get("LEYCHILE_DATA_ROOT")
+    if env:
+        return Path(env).resolve()
+    hist = REPO_ROOT / "historial"
+    if hist.is_dir() and (hist / ".git").exists():
+        return hist
+    return REPO_ROOT
+
+DATA_ROOT = _detect_data_root()
+
 NS = "http://www.leychile.cl/esquemas"
 LEYCHILE_URL = "https://www.leychile.cl/Consulta/obtxml"
 BCN_BASE = "https://datos.bcn.cl/recurso/cl"
@@ -341,7 +356,7 @@ def classify(titulo: str) -> str:
 
 def law_dir(numero: str, clasificacion: str) -> Path:
     folder = "modificaciones" if clasificacion == "modificatoria" else "leyes"
-    return REPO_ROOT / folder / numero
+    return DATA_ROOT / folder / numero
 
 
 # ---------------------------------------------------------------------------
@@ -359,13 +374,13 @@ def git_add_commit(paths: list[Path], message: str) -> bool:
     existing = [str(p) for p in paths if p.exists()]
     if not existing:
         return False
-    subprocess.run(["git", "-C", str(REPO_ROOT), "add", "--"] + existing, check=True)
+    subprocess.run(["git", "-C", str(DATA_ROOT), "add", "--"] + existing, check=True)
     result = subprocess.run(
-        ["git", "-C", str(REPO_ROOT), "diff", "--cached", "--quiet"], capture_output=True
+        ["git", "-C", str(DATA_ROOT), "diff", "--cached", "--quiet"], capture_output=True
     )
     if result.returncode == 0:
         return False  # nothing staged
-    subprocess.run(["git", "-C", str(REPO_ROOT), "commit", "-m", message], check=True)
+    subprocess.run(["git", "-C", str(DATA_ROOT), "commit", "-m", message], check=True)
     return True
 
 
@@ -410,7 +425,7 @@ def build_commit_message(
         mod_titulo = modifier.get("titulo", "")[:70]
         mod_dir = law_dir(modifier["numero"], classify(modifier.get("titulo", "")))
         body_lines.append(f"Modificadora: Ley {modifier['numero']} — {mod_titulo}")
-        body_lines.append(f"Ver: {mod_dir.relative_to(REPO_ROOT)}/")
+        body_lines.append(f"Ver: {mod_dir.relative_to(DATA_ROOT)}/")
 
     body = "\n".join(body_lines)
     return f"{subject}\n\n{body}\n"
@@ -497,15 +512,15 @@ def trace_one_law(
     if known_versions:
         save_versions_file(dest, known_versions)
         subprocess.run(
-            ["git", "-C", str(REPO_ROOT), "add", "--", str(dest / "versiones.json")],
+            ["git", "-C", str(DATA_ROOT), "add", "--", str(dest / "versiones.json")],
             check=True,
         )
         result = subprocess.run(
-            ["git", "-C", str(REPO_ROOT), "diff", "--cached", "--quiet"], capture_output=True
+            ["git", "-C", str(DATA_ROOT), "diff", "--cached", "--quiet"], capture_output=True
         )
         if result.returncode != 0:
             subprocess.run(
-                ["git", "-C", str(REPO_ROOT), "commit", "-m",
+                ["git", "-C", str(DATA_ROOT), "commit", "-m",
                  f"chore(meta): enriquecer versiones.json de Ley {numero} con modificadoras"],
                 check=True,
             )
@@ -689,15 +704,15 @@ def build_modifier_map(graph: dict, id_norma: int) -> dict[str, dict]:
 
 
 def write_graph_json(graph: dict) -> None:
-    gpath = REPO_ROOT / "graph.json"
+    gpath = DATA_ROOT / "graph.json"
     gpath.write_text(json.dumps(graph, ensure_ascii=False, indent=2), encoding="utf-8")
-    subprocess.run(["git", "-C", str(REPO_ROOT), "add", "--", str(gpath)], check=True)
+    subprocess.run(["git", "-C", str(DATA_ROOT), "add", "--", str(gpath)], check=True)
     result = subprocess.run(
-        ["git", "-C", str(REPO_ROOT), "diff", "--cached", "--quiet"], capture_output=True
+        ["git", "-C", str(DATA_ROOT), "diff", "--cached", "--quiet"], capture_output=True
     )
     if result.returncode != 0:
         subprocess.run(
-            ["git", "-C", str(REPO_ROOT), "commit", "-m",
+            ["git", "-C", str(DATA_ROOT), "commit", "-m",
              "chore(meta): actualizar graph.json con grafo legislativo completo"],
             check=True,
         )
