@@ -1,13 +1,13 @@
 {
-  "idNorma": 5682,
+  "idNorma": 5683,
   "tipo": "Decreto Ley",
   "numero": "34",
-  "titulo": "",
+  "titulo": "DISPONE QUE EL CONSEJO DE CENSURA CINEMATOGRAFICA, CREADO POR DECRETO-LEY N° 558, DE 26 DE SEPTIEMBRE DE 1925, PASE A DEPENDER DEL MINISTERIO DE HIGIENE.",
   "organismos": [
-    "MINISTERIO DE AGRICULTURA, INDUSTRIA Y COLONIZACIÓN"
+    "MINISTERIO DEL INTERIOR"
   ],
-  "fechaPublicacion": "1925-06-09",
-  "fechaPromulgacion": "1924-10-10",
-  "fechaVersion": "1925-06-09",
+  "fechaPublicacion": "1932-06-23",
+  "fechaPromulgacion": "",
+  "fechaVersion": "1973-02-20",
   "derogado": "no derogado"
 }
