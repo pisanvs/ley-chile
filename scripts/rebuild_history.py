@@ -234,18 +234,18 @@ def _leychile_xml_to_md(id_norma: int, version_date: str) -> Optional[bytes]:
         children_ef = ef.find(f"{{{_NS}}}EstructurasFuncionales")
         children_md = ""
         if children_ef is not None:
-            children_md = "\n\n".join(
+            children_md = "\n".join(
                 _ef_to_md(c) for c in children_ef if _tag(c) == "EstructuraFuncional"
             )
         if tipo == "Artículo":
             body = f"~~{text}~~" if derogado else text
-            return body + ("\n\n" + children_md if children_md else "")
+            return body + ("\n" + children_md if children_md else "")
         if header_prefix and text:
             first_line = text.splitlines()[0] if text else ""
             heading = f"{header_prefix} {'~~' + _clean(first_line) + '~~' if derogado else _clean(first_line)}"
-            return heading + ("\n\n" + children_md if children_md else "")
+            return heading + ("\n" + children_md if children_md else "")
         parts = ([text] if text else []) + ([children_md] if children_md else [])
-        return "\n\n".join(parts)
+        return "\n".join(parts)
 
     ident = root.find(f"{{{_NS}}}Identificador")
     meta = root.find(f"{{{_NS}}}Metadatos")
@@ -268,18 +268,16 @@ def _leychile_xml_to_md(id_norma: int, version_date: str) -> Optional[bytes]:
     if tipo and numero:
         lines.append(f"# {tipo} N° {numero}")
     if titulo:
-        lines.append(f"\n{titulo}")
+        lines.append(titulo)
     if fecha_pub:
-        lines.append(f"\n**Publicada:** {fecha_pub}")
+        lines.append(f"**Publicada:** {fecha_pub}")
     if fecha_version and fecha_version != fecha_pub:
         lines.append(f"**Versión:** {fecha_version}")
-    lines.append("")
 
     if encabezado is not None:
         enc_text = _clean(_child_text(encabezado, "Texto"))
         if enc_text:
             lines.append(enc_text)
-            lines.append("")
 
     if efs_root is not None:
         body_parts = [
@@ -287,13 +285,12 @@ def _leychile_xml_to_md(id_norma: int, version_date: str) -> Optional[bytes]:
             for ef in efs_root
             if _tag(ef) == "EstructuraFuncional"
         ]
-        lines.append("\n\n".join(body_parts))
-        lines.append("")
+        lines.append("\n".join(body_parts))
 
     if promulgacion is not None:
         prom_text = _clean(_child_text(promulgacion, "Texto"))
         if prom_text:
-            lines += ["---", "", prom_text]
+            lines += ["---", prom_text]
 
     md = "\n".join(lines) + "\n"
     return md.encode("utf-8")

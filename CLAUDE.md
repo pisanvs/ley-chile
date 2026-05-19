@@ -123,8 +123,6 @@ Types: `feat` (new law version), `update` (modification), `derog` (derogation), 
 
 ## Text Canonicalization
 
-All `texto.md` content is normalized via `_clean(text)`:
-```python
-re.sub(r"\s+", " ", text).strip()
-```
-This collapses all whitespace including newlines into single spaces, preventing line-wrap artifacts from contaminating `git blame`.
+All `texto.md` content follows two rules:
+1. **Leaf text**: normalized via `_clean(text)` — `re.sub(r"\s+", " ", text).strip()` — collapses all internal whitespace to single spaces.
+2. **Structure**: sections and articles are joined with single `\n` (never `\n\n`), so there are no blank lines in `texto.md`. Blank lines would always attribute to the original `feat` commit in `git blame`, interrupting continuity.
