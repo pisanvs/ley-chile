@@ -1,5 +1,7 @@
 # ley-chile
 
+[LINK AL BRANCH CON DATOS](https://github.com/pisanvs/ley-chile/tree/historial)
+
 Repositorio git que reconstruye el historial completo de cambios en el corpus jurídico chileno, haciendo un commit por cada versión publicada de cada ley.
 
 ## Por qué existe este proyecto
@@ -8,10 +10,10 @@ El sistema [LeyChile](https://www.bcn.cl/leychile) de la BCN publica *textos ref
 
 ## Estructura del repositorio
 
-El repositorio usa un diseño de dos ramas:
+El repositorio usa un diseño de dos branches:
 
-- **Rama de código** (`claude/setup-chilean-law-repo-*`): contiene sólo scripts, requisitos y configuración CI. Nunca contiene datos de leyes.
-- **Rama de datos** (`historial`, rama huérfana): contiene los commits de leyes, reconstruidos cronológicamente por `rebuild_history.py`.
+- **branch de código** (`main`): contiene sólo scripts, requisitos y configuración CI. Nunca contiene datos de leyes.
+- **branch de datos** (`historial`, branch huérfana): contiene los commits de leyes, reconstruidos cronológicamente por `rebuild_history.py`.
 
 ```
 ley-chile/
