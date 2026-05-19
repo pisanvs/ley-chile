@@ -2,6 +2,7 @@
 DECLARA PROPIEDAD DEL ESTADO CREDITOS Y DEPOSITOS EN
 MONEDA ESTRANJERA
 **Publicada:** 1932-06-10
+**Versión:** 1932-07-28
 DECLARA PROPIEDAD DEL ESTADO CREDITOS Y DEPOSITOS EN MONEDA ESTRANJERA Núm. 12.- Santiago, Junio 9 de 1932.- Con el objeto de evitar injustas ganancias a aquellas personas que, con perjuicio de la economía nacional convirtieron sus depósitos a moneda extranjera, debilitando la posición del Banco Central y provocando la desvalorización de la moneda, la Junta de Gobierno dicta el siguiente, Decreto-Ley:
 ~~Artículo 1.o Decláranse de propiedad del Estado los créditos y depósitos en moneda extranjera que adeudan al público los Bancos nacionales y extranjeros.~~
 ~~Art. 2.o Los Bancos comerciales nacionales y extranjeros traspasarán a la orden del Fisco, los depósitos en moneda extranjera que adeuden al público y acreditarán a éste las sumas equivalentes al cambio del día 3 de Junio del presente año.~~
