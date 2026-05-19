@@ -315,6 +315,24 @@ def _law_collection_dirs() -> list[Path]:
     return dirs
 
 
+def _iter_law_dirs(base: Path):
+    """Yield all leaf law directories under base, handling 1- and 2-level layouts.
+
+    One-level: leyes/19913/, dl/34/, dl-1924/22/
+    Two-level: dfl/ministerio-de-hacienda/1/, dto/ministerio-del-interior/100/
+    """
+    for entry in base.iterdir():
+        if entry.is_symlink() or not entry.is_dir():
+            continue
+        if (entry / "versiones.json").exists() or (entry / "metadata.json").exists():
+            yield entry
+        else:
+            # Organismo-slug subdir (e.g. dfl/ministerio-de-hacienda/)
+            for sub in entry.iterdir():
+                if not sub.is_symlink() and sub.is_dir():
+                    yield sub
+
+
 def _scan_committed_ids(catalog_ids: set[int]) -> set[int]:
     """
     Walk every law-collection directory in DATA_ROOT.
@@ -325,9 +343,7 @@ def _scan_committed_ids(catalog_ids: set[int]) -> set[int]:
     """
     found: set[int] = set()
     for base in _law_collection_dirs():
-        for law_dir in base.iterdir():
-            if law_dir.is_symlink() or not law_dir.is_dir():
-                continue
+        for law_dir in _iter_law_dirs(base):
             vf = law_dir / "versiones.json"
             if not vf.exists():
                 continue
@@ -404,9 +420,13 @@ def process_one(id_norma: int) -> tuple[bool, dict | None]:
 
     titulo = metadata.get("titulo", "")
     clasificacion = tg.classify(titulo)
+    organismos = metadata.get("organismos") or []
     dest = tg.law_dir(
         numero, clasificacion,
         tipo=metadata.get("tipo", ""), id_norma=metadata.get("idNorma"),
+        fecha=metadata.get("fechaPublicacion", ""),
+        fecha_promulgacion=metadata.get("fechaPromulgacion", ""),
+        organismo=organismos[0] if organismos else "",
     )
 
     if dest.is_symlink():

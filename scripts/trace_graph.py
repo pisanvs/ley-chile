@@ -369,27 +369,87 @@ def tipo_slug(tipo: str) -> str:
     return slug or "otras"
 
 
+def _organismo_slug(organismo: str) -> str:
+    """Slugify an organismo name for use as a directory component."""
+    if not organismo:
+        return "sin-organismo"
+    return re.sub(r"[^a-z0-9]+", "-", organismo.lower()).strip("-") or "sin-organismo"
+
+
+def _dl_period_folder(fecha_pub: str, fecha_promulgacion: str = "") -> str:
+    """Return the DL base folder name based on publication (or promulgation) year."""
+    for fecha in (fecha_pub, fecha_promulgacion):
+        if fecha and len(fecha) >= 4 and fecha[:4].isdigit():
+            year = int(fecha[:4])
+            if year < 1930:
+                return "dl-1924"
+            if year < 1950:
+                return "dl-1932"
+            return "dl"
+    return "dl"
+
+
+def _collision_free_path(proposed: Path, id_norma: int | None) -> Path:
+    """If proposed dir exists with a different idNorma in metadata.json, append a suffix."""
+    if id_norma is None:
+        return proposed
+    mf = proposed / "metadata.json"
+    if mf.exists():
+        try:
+            existing_id = json.loads(mf.read_text(encoding="utf-8")).get("idNorma")
+            if existing_id is not None and existing_id != id_norma:
+                return proposed.parent / f"{proposed.name}-{id_norma}"
+        except Exception:
+            pass
+    return proposed
+
+
 def law_dir(
-    numero: str, clasificacion: str, tipo: str = "", id_norma: int | None = None
+    numero: str,
+    clasificacion: str,
+    tipo: str = "",
+    id_norma: int | None = None,
+    fecha: str = "",
+    fecha_promulgacion: str = "",
+    organismo: str = "",
 ) -> Path:
     """Return the DATA_ROOT-relative directory for a law.
 
-    Only Leyes have a single globally unique numbering series, so they are
-    stored under {leyes,modificaciones}/{numero}.
+    Leyes use {leyes,modificaciones}/{numero} — globally unique series.
 
-    Every other norma type reuses the same numero across organismos and eras
-    (Chile had two Decreto Ley series — 1924-25 and 1973-81 — both numbered
-    from 1, and DFL numbers repeat per ministry), so they are keyed by
-    idNorma — the only globally unique identifier — under {slug}/{idNorma}.
+    Decreto Ley uses period-prefixed folders keyed by numero:
+      dl/{numero}        — 1973–1981 series (main, 3601 DLs)
+      dl-1924/{numero}   — 1924–1926 series
+      dl-1932/{numero}   — 1932 series
+    On a collision (same numero already exists with a different idNorma), the
+    suffix -{id_norma} is appended.
+
+    DFL and Decreto use {slug}/{organismo-slug}/{numero}, falling back to
+    {numero}-{id_norma} on a collision within the same organismo.
+
+    All other types fall back to idNorma-keyed directories.
     """
     slug = tipo_slug(tipo)
     is_modif = clasificacion == "modificatoria"
+    suffix = "-modificaciones" if is_modif else ""
+
     if slug == "ley":
         folder = "modificaciones" if is_modif else "leyes"
-        key = numero
-    else:
-        folder = f"{slug}-modificaciones" if is_modif else slug
-        key = str(id_norma) if id_norma else numero
+        return DATA_ROOT / folder / numero
+
+    if slug == "dl":
+        period = _dl_period_folder(fecha, fecha_promulgacion)
+        base = DATA_ROOT / f"{period}{suffix}"
+        return _collision_free_path(base / numero, id_norma)
+
+    if slug in ("dfl", "dto"):
+        org_slug = _organismo_slug(organismo)
+        base = DATA_ROOT / f"{slug}{suffix}" / org_slug
+        return _collision_free_path(base / numero, id_norma)
+
+    # Fallback: idNorma-keyed for unknown types
+    folder = f"{slug}{suffix}"
+    key = str(id_norma) if id_norma else numero
     return DATA_ROOT / folder / key
 
 
@@ -493,7 +553,13 @@ def trace_one_law(
     titulo = metadata.get("titulo", "")
     tipo = metadata.get("tipo", "")
     clasificacion = classify(titulo)
-    dest = law_dir(numero, clasificacion, tipo=tipo, id_norma=id_norma)
+    organismos = metadata.get("organismos") or []
+    dest = law_dir(
+        numero, clasificacion, tipo=tipo, id_norma=id_norma,
+        fecha=metadata.get("fechaPublicacion", ""),
+        fecha_promulgacion=metadata.get("fechaPromulgacion", ""),
+        organismo=organismos[0] if organismos else "",
+    )
     if dest.is_symlink():
         log.info("  Skipping idNorma=%d (Ley %s): directory replaced by derog symlink", id_norma, numero)
         return
