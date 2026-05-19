@@ -1,13 +1,13 @@
 {
-  "idNorma": 5695,
+  "idNorma": 5696,
   "tipo": "Decreto Ley",
   "numero": "45",
-  "titulo": "",
+  "titulo": "DISPONE QUE LAS DONACIONES QUE SE REALICEN AL ESTADO CON LOS FINES QUE INDICA ESTARAN EXENTAS DEL IMPUESTO QUE SEÑALA",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE HACIENDA"
   ],
-  "fechaPublicacion": "1924-10-21",
-  "fechaPromulgacion": "1924-10-14",
-  "fechaVersion": "1924-10-21",
+  "fechaPublicacion": "1973-10-16",
+  "fechaPromulgacion": "1973-09-24",
+  "fechaVersion": "1973-10-16",
   "derogado": "no derogado"
 }
