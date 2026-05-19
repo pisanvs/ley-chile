@@ -20,6 +20,11 @@
     5678,
     5679,
     5680,
+    5682,
+    5683,
+    5684,
+    5685,
+    5694,
     30760,
     198675,
     219119,
@@ -31,6 +36,67 @@
     1192530,
     1206373
   ],
-  "failed": {},
+  "failed": {
+    "5686": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5687": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5688": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5689": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5690": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5691": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5692": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5693": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5695": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5696": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5697": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5698": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5699": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5700": {
+      "count": 1,
+      "last_error": ""
+    },
+    "5701": {
+      "count": 1,
+      "last_error": ""
+    }
+  },
   "last_sync": "2026-05-19"
 }
