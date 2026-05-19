@@ -1012,6 +1012,12 @@ y/o Temporal
 
 007 Alumnos en Práctica
 
+009 Remuneraciones
+
+conforme al Art.
+
+38 bis de la CPR
+
 999 Otras
 
 04 Otros Gastos en
@@ -3631,6 +3637,80 @@ como parte de su formación técnica o
 profesional, no comprendidos en
 
 asignaciones anteriores.
+
+- 009 Remuneraciones conforme al Art.
+
+38 bis de la CPR
+
+Comprende los gastos de
+
+remuneraciones, honorarios
+
+y dietas fijadas sobre el
+
+grupo de autoridades,
+
+funcionarios y personal
+
+regidos por el artículo
+
+38 bis de la Constitución
+
+Política de la República,
+
+conforme lo establecido
+
+por la Comisión para la
+
+Fijación de Remuneraciones.
+
+Esta asignación no incluye
+
+los beneficios de viáticos,
+
+gastos de representación,
+
+asignación de zona y zonas
+
+extremas, los cuales
+
+seguirán pagándose de
+
+acuerdo con las normas
+
+legales y reglamentarias
+
+vigentes, conforme los
+
+conceptos presupuestarios
+
+específicos correspondientes
+
+y glosas vigentes.
+
+Tampoco incluye los Jefes
+
+Superiores de Servicios
+
+sujetos al Sistema de
+
+Alta Dirección Pública que
+
+acorde a la ley Nº 19.882
+
+se encuentren eximidos
+
+del mecanismo de selección
+
+de los Altos Directivos
+
+Públicos, los cuales
+
+seguirán sujetos al sistema
+
+de remuneraciones contemplado
+
+en la citada ley Nº 19.882.
 
 999 Otras
 
@@ -7333,6 +7413,10 @@ el Código del Trabajo
 006 Personal a Trato y/o Temporal
 
 007 Alumnos en Práctica
+
+- 009 Remuneraciones conforme al Art.
+
+38 bis de la CPR
 
 999 Otras
 
