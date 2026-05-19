@@ -1,0 +1,89 @@
+name: Bulk Fetch Laws
+
+on:
+  schedule:
+    # Every 10 minutes — processes a batch of laws and pushes to historial.
+    # Stops automatically once the bulk_progress.json done set covers all catalog entries.
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "Laws to process per run (default: 20)"
+        required: false
+        default: "20"
+      refresh_catalog:
+        description: "Force-refresh SPARQL catalog"
+        required: false
+        default: "false"
+        type: boolean
+      skip_rebuild:
+        description: "Skip git fast-import history rebuild"
+        required: false
+        default: "true"
+        type: boolean
+
+# Only one bulk-fetch or daily-sync job runs at a time.
+# The cancel-in-progress: false ensures the running job finishes cleanly.
+concurrency:
+  group: historial-write
+  cancel-in-progress: false
+
+jobs:
+  bulk-fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure git
+        run: |
+          git config user.name "ley-chile-bot"
+          git config user.email "bot@ley-chile"
+
+      - name: Set up historial worktree
+        run: |
+          git fetch origin historial || (
+            git checkout --orphan historial &&
+            git rm -rf . &&
+            git commit --allow-empty -m "init: historial branch" &&
+            git checkout - &&
+            git push origin historial
+          )
+          git worktree add historial historial
+
+      - name: Run bulk fetch
+        env:
+          LEYCHILE_DATA_ROOT: ${{ github.workspace }}/historial
+        run: |
+          ARGS="--batch-size ${{ github.event.inputs.batch_size || '20' }}"
+          if [ "${{ github.event.inputs.refresh_catalog }}" = "true" ]; then
+            ARGS="$ARGS --refresh-catalog"
+          fi
+          # Default: skip rebuild during bulk fetch to keep runs fast.
+          # rebuild_history is run by the daily sync job at 05:00 AM.
+          if [ "${{ github.event.inputs.skip_rebuild }}" = "false" ]; then
+            :  # explicit override: run rebuild
+          else
+            ARGS="$ARGS --skip-rebuild"
+          fi
+          python scripts/bulk_fetch.py $ARGS
+
+      - name: Push historial branch
+        run: |
+          git -C historial status --short
+          # Push with retry on transient network failures
+          for attempt in 1 2 3 4; do
+            git push origin historial && break
+            sleep $((attempt * 2))
+          done

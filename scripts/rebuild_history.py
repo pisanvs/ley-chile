@@ -916,7 +916,10 @@ def _collect_all_law_events(seq_counter: list[int]) -> list[Event]:
         except Exception as exc:
             log.warning("Could not load graph.json: %s", exc)
 
-    for subdir, scope in [("leyes", "ley"), ("modificaciones", "modificacion")]:
+    for subdir, scope in [
+        ("leyes", "ley"), ("modificaciones", "modificacion"),
+        ("dl", "ley"), ("dl-modificaciones", "modificacion"),
+    ]:
         base = DATA_ROOT / subdir
         if not base.is_dir():
             continue

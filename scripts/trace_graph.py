@@ -351,8 +351,18 @@ def classify(titulo: str) -> str:
     return "modificatoria" if any(t.startswith(p) for p in _MODIF_PREFIXES) else "sustantiva"
 
 
-def law_dir(numero: str, clasificacion: str) -> Path:
-    folder = "modificaciones" if clasificacion == "modificatoria" else "leyes"
+def law_dir(numero: str, clasificacion: str, tipo: str = "") -> Path:
+    """Return the DATA_ROOT-relative directory for a law.
+
+    Decretos Ley (tipo='Decreto Ley') are stored under dl/ or dl-modificaciones/
+    to avoid collisions with regular Leyes that share the same numero
+    (DLs are numbered 1-3660 which overlaps with pre-20th-century regular laws).
+    """
+    is_dl = tipo.lower() in ("decreto ley", "decreto-ley", "dl")
+    if is_dl:
+        folder = "dl-modificaciones" if clasificacion == "modificatoria" else "dl"
+    else:
+        folder = "modificaciones" if clasificacion == "modificatoria" else "leyes"
     return DATA_ROOT / folder / numero
 
 
@@ -454,8 +464,9 @@ def trace_one_law(
     version_dates = extract_version_dates(root)
     numero = metadata["numero"]
     titulo = metadata.get("titulo", "")
+    tipo = metadata.get("tipo", "")
     clasificacion = classify(titulo)
-    dest = law_dir(numero, clasificacion)
+    dest = law_dir(numero, clasificacion, tipo=tipo)
     if dest.is_symlink():
         log.info("  Skipping idNorma=%d (Ley %s): directory replaced by derog symlink", id_norma, numero)
         return

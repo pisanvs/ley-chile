@@ -16,6 +16,11 @@ on:
         default: "false"
         type: boolean
 
+# Shared lock with bulk-fetch.yml so they don't stomp on each other.
+concurrency:
+  group: historial-write
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
