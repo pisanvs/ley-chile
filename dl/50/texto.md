@@ -1,6 +1,7 @@
 # Decreto Ley N° 50
 DESIGNA RECTORES-DELEGADOS EN UNIVERSIDADES DEL PAIS
 **Publicada:** 1973-10-02
+**Versión:** 1990-03-10
 DESIGNA RECTORES-DELEGADOS EN UNIVERSIDADES DEL PAIS Decreto ley N° 50.- Santiago, 1° de Octubre de 1973.- Vistos: el DL N° 1 de 11 de Septiembre de 1973, y cosiderando la necesidad de facilitar la unificación de criterio en la dirección de la enseñanza superior para la mejor consecución de los postulados establecidos en dicho decreto ley, la Junta de Gobierno ha acordado dictar el siguiente Decreto ley:
 ~~Artículo único.- La Junta de Gobierno designará en su representación Rectores-Delegados en cada una de las Universidades del país. Estos Rectores-Delegados cumplirán las funciones y ejercerán todas las atribuciones que corresponden a los Rectores de las Universidades de conformidad con las normas legales vigentes y demás acuerdos o resoluciones universitarias dictados en su virtud.~~
 ---
