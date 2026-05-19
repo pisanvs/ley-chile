@@ -1,13 +1,13 @@
 {
-  "idNorma": 5658,
+  "idNorma": 5659,
   "tipo": "Decreto Ley",
   "numero": "2",
-  "titulo": "",
+  "titulo": "REEMPLAZA MINISTERIO DE BIENESTAR SOCIAL POR DOS SECRETARIAS DE ESTADO: MINISTERIO DEL TRABAJO Y MINISTERIO DE HIGIENE.",
   "organismos": [
-    "MINISTERIO DE HACIENDA"
+    "MINISTERIO DEL INTERIOR"
   ],
-  "fechaPublicacion": "1924-09-15",
-  "fechaPromulgacion": "1924-09-15",
-  "fechaVersion": "1924-09-15",
+  "fechaPublicacion": "1932-06-08",
+  "fechaPromulgacion": "1932-06-06",
+  "fechaVersion": "1932-06-08",
   "derogado": "no derogado"
 }
