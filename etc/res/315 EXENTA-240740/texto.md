@@ -12,22 +12,12 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de los vehículos de carga cuyo peso bruto vehicular sea igual o superior a 3.860 kilogramos, por las vías de la ciudad de Rancagua, emplazadas dentro del área de restricción comprendida dentro del perímetro constituido por la línea poligonal cerrada formada por las siguientes vías: Av. Libertador Bernardo O'Higgins desde Ruta 5 Sur - Av. Viña del Mar - Av. Estación - Ignacio Carrera Pinto - Av. General José de San Martín - Av. Capitán Antonio Millán - Ruta 5 Sur hasta Av. Libertador Bernardo O'Higgins.
+1. Prohíbase la circulación de los vehículos de carga cuyo largo sea superior a 11 metros y posea más de 2 ejes, por las vías de la ciudad de Rancagua, emplazadas dentro del área de restricción comprendida dentro del perímetro constituido por la línea poligonal cerrada formada por las siguientes vías: Av. Libertador Bernardo O'Higgins desde Ruta 5 Sur - Av. Viña del Mar - Av. Estación - Ignacio Carrera Pinto -Av. General José de San Martín - Av. Capitán Antonio Millán - Ruta 5 Sur hasta Av. Libertador Bernardo O'Higgins.
 
 2. Sin perjuicio de lo anterior, los vehículos señalados en el numeral anterior, podrán transitar por la Av. Freire y Av. San Martín, con el fin de desplazarse al Norte o Sur del área de restricción previamente definida.
 
-3. La prohibición anterior será aplicada en los siguientes días y horarios:
+3. La prohibición anterior será aplicada en los siguientes días y horarios, y en función del tipo de vehículo: lunes a sábado de las 12:00 a las 24:00 horas para todos los vehículos cuya longitud máxima sea de once metros y no tengan más de dos ejes, el día domingo y festivos las 24 horas del día; de lunes a sábado de las 12:00 a las 21:00 horas para todo vehículo eléctrico; así también, todo vehículo no motorizado no tendrá prohibición alguna las 24 horas del día y todos los días de la semana.
 
-Lunes a viernes:
-
-07:00 a 09:30 horas
-
-11:30 a 14:30 horas
-
-17:00 a 20:00 horas
-
-Sábado:
-
-11:00 a 15:00
+4. Exceptúase de toda prohibición los vehículos de carga pertenecientes a los servicios de agua potable, gas, electricidad y telefonía, vehículos de emergencia: Ambulancias, del Cuerpo de Bomberos, policías y servicios de grúa, los vehículos de carga municipales que efectúan el servicio de extracción de los residuos domiciliarios y fiscalización y de servicios de combustibles y valores, vehículos asociados a las ferias libres, transporte de escombros y materiales de construcción, estacionamientos especiales de carga y descarga debidamente señalizados por la municipalidad y puntos de intercambio modal, también, debidamente señalizados por la municipalidad.
 
 Anótese y publíquese.- Pablo Pallamar Azúa, Secretario Regional Ministerial de Transportes y Telecomunicaciones Sexta Región.
