@@ -1,13 +1,14 @@
 {
-  "idNorma": 5732,
+  "idNorma": 5733,
   "tipo": "Decreto Ley",
   "numero": "81",
-  "titulo": "",
+  "titulo": "FIJA, POR RAZONES DE SEGURIDAD DEL ESTADO, SANCIONES;PARA LAS PERSONAS QUE DESOBEDEZCAN EL LLAMAMIENTO;PUBLICO QUE INDICA DEL GOBIERNO",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE DEFENSA NACIONAL",
+    "SUBSECRETARÍA DE GUERRA"
   ],
-  "fechaPublicacion": "1924-12-17",
-  "fechaPromulgacion": "1924-11-05",
-  "fechaVersion": "1924-12-17",
-  "derogado": "no derogado"
+  "fechaPublicacion": "1973-11-06",
+  "fechaPromulgacion": "1973-10-11",
+  "fechaVersion": "1973-11-06",
+  "derogado": "derogado"
 }
