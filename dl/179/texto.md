@@ -1,0 +1,6 @@
+# Decreto Ley N° 179
+**Publicada:** 1924-12-31
+Núm. 179.- Santiago, 31 de diciembre de 1924.- Considerando: Que con los fondos que se consultan en los ítem 1323 y 1333 del Presupuesto de Hacienda no se alcanzarán a cubrir los gastos ocasionados durante el presente año, con cargo a esos ítem; Que en el ítem 1658 del mismo presupuesto, quedará sin invertir en el curso del año actual una suma superior a las que se necesitan para cancelar los gastos en referencia, La Junta de Gobierno ha acordado y dicta el siguiente DECRETO-LEI:
+Artículo único.- Supleméntanse con las cantidades que se indican, los siguientes ítem del Presupuesto de Hacienda en vijencia: Item 1323.- Para la impresion de la Lei de Presupuestos, de los respectivos proyectos y de la Cuenta Jeneral de Inversion, quince mil trescientos ochenta pesos ($ 15,380). Item 1333.- Para reparaciones y adquisiciones de muebles y útiles para las oficinas de Hacienda, cuatro mil quinientos pesos ($ 4,500). El gasto total de diecinueve mil ochocientos ochenta pesos ($ 19,880), se deducirá del ítem 1658 del citado presupuesto.
+---
+Tómese razon, rejístrese, comuníquese, publíquese e insértese en el Boletin de las Leyes y Decretos del Gobierno.- Luis Altamirano.- Francisco E. Nef.- J. P. Bennett.- Julio Philippi.
