@@ -1,13 +1,13 @@
 {
-  "idNorma": 5792,
+  "idNorma": 5793,
   "tipo": "Decreto Ley",
   "numero": "132",
-  "titulo": "",
+  "titulo": "REMUNERACION POR HORA DE CLASE DE LOS PROFESORES",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE EDUCACIÓN PÚBLICA"
   ],
-  "fechaPublicacion": "1924-12-03",
-  "fechaPromulgacion": "1924-12-01",
-  "fechaVersion": "1924-12-03",
+  "fechaPublicacion": "1932-08-23",
+  "fechaPromulgacion": "1932-07-04",
+  "fechaVersion": "1932-08-23",
   "derogado": "no derogado"
 }
