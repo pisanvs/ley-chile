@@ -1,0 +1,6 @@
+# Decreto Ley N° 152
+**Publicada:** 1924-12-15
+Núm. 152.- Santiago, 12 de diciembre de 1924.- La Junta de Gobierno acuerda y dicta el siguiente DECRETO- LEI:
+Artículo único.- Supleméntanse con las cantidades que se indican, los siguientes ítem del Presupuesto de Justicia en vijencia: Item 1177.- Para impresion, por licitacion pública o en talleres fiscales, de la memoria y anuario del Ministerio, libros y formularios para el servicio de las prisiones, y otras impresiones del Ministerio y para pago de avisos en los diarios, con______________________________ $ 1,500 Item 1767: Para pago de empleados suplentes_ 40,000 Item 1768: Para remunerar a los abogados integrantes de la Corte Suprema y de las Cortes de Apelaciones, en conformidad al artículo 22 de la lei número 3,390, de 15 de julio de 1918, con__________________ 10,000 Item 1769: Para trasporte del personal de empleados públicos que van a tomar posesion de sus empleos o viajan en comision del servicio, id. de ida y regreso para los suplentes, y flete de objetos fiscales, con 10,000 El gasto total de sesenta y un mil quinientos pesos ($ 61,500) se deducirá del ítem 1746, partida 11, del mismo Presupuesto.
+---
+Tómese razon, comuníquese, publíquese e insértese en el Boletin de las Leyes y Decretos del Gobierno.- Luis Altamirano.- Francisco E. Nef.- J. P. Bennett.- Gregorio Amunátegui.
