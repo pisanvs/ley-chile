@@ -1,6 +1,7 @@
 # Decreto Ley N° 247
 Concede personalidad jurídica Línea Aérea Nacional
 **Publicada:** 1932-07-23
+**Versión:** 1960-04-06
 Concede personalidad jurídica Línea Aérea Nacional Núm. 247.- Santiago, 21 de Julio de 1932.- El Presidente Provisional dicta el siguiente Decreto-ley:
 ~~Artículo 1.o La Línea Aérea Nacional tendrá personalidad jurídica para los efectos de practicar y comerciar en el transporte aéreo sobre el territorio de Chile, quedando sometida a las leyes que rijan la navegación aérea y el transporte en general. El representante legal de la Línea Aérea Nacional será el director de la Línea Aérea Nacional y su domicilio en la ciudad de Santiago. El nombramiento de este director, que deberá recaer en un jefe de Aviación en servicio activo o en retiro, será hecho por el Presidente de la República a propuesta del Comandante en Jefe de la Fuerza Aérea.~~
 ~~Art. 2.o La Línea Aérea Nacional tendrá la exclusividad para efectuar y explotar el transporte aéreo de toda clase en el territorio de la República. Podrá, sin embargo, la Línea Aérea Nacional, con el acuerdo del Consejo de Administración, conceder a otras personas o instituciones, la explotación de determinadas líneas de aeronavegación o de una clase determinada de transporte o servicio aéreo, en las condiciones que fije el Consejo de Administración.~~
