@@ -1,13 +1,13 @@
 {
-  "idNorma": 5780,
+  "idNorma": 5781,
   "tipo": "Decreto Ley",
   "numero": "119",
-  "titulo": "",
+  "titulo": "\"DISUELVE EL TRIBUNAL CONSTITUCIONAL\"",
   "organismos": [
-    "MINISTERIO DE INSTRUCCIÓN PÚBLICA"
+    "MINISTERIO DE JUSTICIA"
   ],
-  "fechaPublicacion": "1924-11-25",
-  "fechaPromulgacion": "1924-11-24",
-  "fechaVersion": "1924-11-25",
+  "fechaPublicacion": "1973-11-10",
+  "fechaPromulgacion": "1973-11-05",
+  "fechaVersion": "1973-11-10",
   "derogado": "no derogado"
 }
