@@ -10,9 +10,12 @@ Provides:
 
 import asyncio
 import json
+import logging
 import os
 import re
 from pathlib import Path
+
+logger = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
 # DATA_ROOT detection
@@ -73,18 +76,19 @@ class AdaptiveLimiter:
     async def acquire(self):
         await self._sem.acquire()
 
-    async def release(self):
+    def release(self):
         self._sem.release()
 
     # ------------------------------------------------------------------
     # Feedback signals
     # ------------------------------------------------------------------
 
-    async def on_success(self, latency_ms: float = 0.0) -> None:
+    async def on_success(self) -> None:
         """Additive increase: every 20 consecutive successes raise concurrency by 1."""
         async with self._lock:
             self._streak += 1
             if self._streak >= 20 and self._concurrency < self._max:
+                logger.debug(f"AdaptiveLimiter: concurrency increasing {self._concurrency} → {self._concurrency + 1}")
                 await self._resize(self._concurrency + 1)
                 self._streak = 0
 
@@ -93,9 +97,11 @@ class AdaptiveLimiter:
         async with self._lock:
             new_c = max(self._min, self._concurrency // 2)
             self._streak = 0
+            logger.debug(f"AdaptiveLimiter: concurrency decreasing {self._concurrency} → {new_c} (rate limit)")
             await self._resize(new_c)
         # Back off more aggressively the lower the concurrency
         backoff = 2 ** max(0, 3 - new_c)
+        logger.debug(f"AdaptiveLimiter: backoff for {backoff}s")
         await asyncio.sleep(backoff)
 
     async def on_error(self, attempt: int) -> None:
@@ -200,7 +206,7 @@ def _collision_free_path(proposed: Path, id_norma: int | None) -> Path:
             existing_id = json.loads(mf.read_text(encoding="utf-8")).get("idNorma")
             if existing_id is not None and existing_id != id_norma:
                 return proposed.parent / f"{proposed.name}-{id_norma}"
-        except Exception:
+        except (OSError, ValueError, KeyError, json.JSONDecodeError):
             pass
     return proposed
 
