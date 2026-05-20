@@ -1,13 +1,13 @@
 {
-  "idNorma": 5912,
+  "idNorma": 5914,
   "tipo": "Decreto Ley",
   "numero": "258",
-  "titulo": "",
+  "titulo": "CREA PERSONA JURIDICA DE DERECHO PUBLICO DENOMINADA RADIO NACIONAL DE CHILE",
   "organismos": [
-    "MINISTERIO DE GUERRA"
+    "MINISTERIO DEL INTERIOR"
   ],
-  "fechaPublicacion": "1925-02-20",
-  "fechaPromulgacion": "1925-02-19",
-  "fechaVersion": "1925-02-20",
+  "fechaPublicacion": "1974-01-14",
+  "fechaPromulgacion": "1974-01-07",
+  "fechaVersion": "1994-07-25",
   "derogado": "no derogado"
 }
