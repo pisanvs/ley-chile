@@ -1,13 +1,13 @@
 {
-  "idNorma": 5816,
+  "idNorma": 5818,
   "tipo": "Decreto Ley",
   "numero": "155",
-  "titulo": "",
+  "titulo": "SUPLEMENTO AL PRESUPUESTO 1973",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE HACIENDA"
   ],
-  "fechaPublicacion": "1924-12-16",
-  "fechaPromulgacion": "1924-12-12",
-  "fechaVersion": "1924-12-16",
+  "fechaPublicacion": "1973-11-29",
+  "fechaPromulgacion": "1973-11-26",
+  "fechaVersion": "1973-11-29",
   "derogado": "no derogado"
 }
