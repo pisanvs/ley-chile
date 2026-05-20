@@ -1,0 +1,9 @@
+# Decreto Ley N° 217
+PRORROGA PLAZO DE VIGENCIA DEL ARTICULO N° 25 DE LA
+LEY 13.039 Y TITULOS I Y II DE LA LEY N° 12.937
+**Publicada:** 1973-12-31
+PRORROGA PLAZO DE VIGENCIA DEL ARTICULO N° 25 DE LA LEY 13.039 Y TITULOS I Y II DE LA LEY N° 12.937 Núm. 217.- Santiago, 24 de Diciembre de 1973.- Vistos: lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, y Considerando: la necesidad de prorrogar las franquicias establecidas en el artículo 25° de la ley N° 13.039 y en los Títulos I y II de la ley N° 12.937, y sus respectivas modificaciones, con el fin de no entorpecer los incentivos que ellas crearon para impulsar el desarrollo económico y social uniforme del territorio nacional. La Junta de Gobierno de la Républica de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo 1°.- Prorróganse las franquicias establecidas en el inciso primero del artículo 25° de la ley N° 13.039 hasta el 1° de Enero de 1976.
+Artículo 2°.- Sin perjuicio de lo establecido en el artículo 10° de la ley N° 16.894, modificado por el artículo 20° de la ley N° 17.314, decláranse prorrogados los regímenes especiales de exportación, importación y fomento a que se refieren los Títulos I y II de la ley N° 12.937, hasta el 1° de Enero de 1976.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGHT GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda. Lo que transcribo a US. para su conocimiento.- Dios guarde a US.- Victoria Arellano S, Subsecretario de Hacienda.
