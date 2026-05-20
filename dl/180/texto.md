@@ -1,0 +1,9 @@
+# Decreto Ley N° 180
+DECLARA EN REORGANIZACION LA JUNTA NACIONAL DE
+AUXILIO ESCOLAR Y BECAS
+**Publicada:** 1973-12-13
+DECLARA EN REORGANIZACION LA JUNTA NACIONAL DE AUXILIO ESCOLAR Y BECAS Núm. 180.- Santiago, 10 de Diciembre de 1973.- Considerando: 1°- Que es indispensable otorgar al Secretario General de la Junta Nacional de Auxilio Escolar y Becas las facultades necesarias para que el Servicio alcance la máxima eficiencia en la atención de las prestaciones que otorga. 2°- Que para ello es necesario evitar al máximo el burocratismo de este organismo. Visto, lo dispuesto en el decreto ley N° 1, esta Junta de Gobierno ha ordenado dictar el siguiente: Decreto ley:
+Artículo 1°- El Secretario General de la Junta Nacional de Auxilio Escolar y Becas asumirá la plenitud de las funciones, atribuciones y obligaciones que corresponden al H. Consejo de la Junta Nacional de Auxilio Escolar y Becas, establecidos en la ley N° 15.720 y su Reglamento Orgánico, como asimismo todas aquellas que sean necesarias para el mejor y más eficaz funcionamiento del Servicio, quedando, en consecuencia, en receso dicho Consejo.
+Artículo 2°- Este decreto ley rige a contar del 23 de Septiembre de 1973.
+---
+Anótese, regístrese en la Contraloría General de la República, comuníquese y publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros, Investigaciones y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Hugo Castro Jiménez, Contralmirante, Ministro de Educación Pública. Saluda atentamente a Ud.- Miguel Retamal Salas, Subsecretario de Educación Pública.
