@@ -1,13 +1,13 @@
 {
-  "idNorma": 5795,
+  "idNorma": 5796,
   "tipo": "Decreto Ley",
   "numero": "133",
-  "titulo": "COMPLEMENTA LEY NUMERO 5,005",
+  "titulo": "DECLARA DISUELTA Y NOMBRA LIQUIDADOR DE LOS BIENES\nDE LA CENTRAL UNICA DE TRABAJADORES DE CHILE (CUT) CUYA\nPERSONALIDAD JURIDICA LE FUERA CANCELADA POR DECRETO LEY\nN° 12, DE 17 DE SEPTIEMBRE DE 1973",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL"
   ],
-  "fechaPublicacion": "1932-07-07",
-  "fechaPromulgacion": "1932-07-04",
-  "fechaVersion": "1932-07-07",
+  "fechaPublicacion": "1973-11-20",
+  "fechaPromulgacion": "1973-11-13",
+  "fechaVersion": "1973-11-20",
   "derogado": "no derogado"
 }
