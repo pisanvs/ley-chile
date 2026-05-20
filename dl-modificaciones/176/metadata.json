@@ -1,13 +1,13 @@
 {
-  "idNorma": 5836,
+  "idNorma": 5837,
   "tipo": "Decreto Ley",
   "numero": "176",
-  "titulo": "MODIFICA ITEM PRESUPUESTO INTERIOR",
+  "titulo": "MODIFICA EL ARTICULO 1º DEL DECRETO LEY Nº 110, DE 1973",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE HACIENDA"
   ],
-  "fechaPublicacion": "1932-07-13",
-  "fechaPromulgacion": "1932-07-11",
-  "fechaVersion": "1932-07-13",
+  "fechaPublicacion": "1973-12-10",
+  "fechaPromulgacion": "1973-12-03",
+  "fechaVersion": "1973-12-10",
   "derogado": "no derogado"
 }
