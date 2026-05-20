@@ -10,8 +10,32 @@ pip install -r requirements.txt
 
 ## Key Scripts
 
+### Full pipeline (recommended — runs unattended, resumable)
+
 ```bash
-# Build/extend the legislative graph and commit law versions to historial branch
+# Phase 1: Build complete relationship graph via SPARQL BFS from seed laws
+LEYCHILE_DATA_ROOT=./historial python scripts/build_graph.py
+# → writes historial/graph.json with all ~2175 connected laws
+
+# Phase 2: Fetch law texts from LeyChile (resumable; persists in fetch_progress.json)
+LEYCHILE_DATA_ROOT=./historial python scripts/fetch_texts.py
+# → writes leyes/, modificaciones/, dl/, etc. directories with texto.md, metadata.json, versiones.json
+
+# Phase 3: Rebuild chronological git history
+LEYCHILE_DATA_ROOT=./historial python scripts/rebuild_history.py
+
+# All three phases in one command, with ntfy.sh notification when done:
+nohup LEYCHILE_DATA_ROOT=./historial python scripts/run_pipeline.py \
+    --skip-graph \
+    --notify-url https://ntfy.sh/YOUR_TOPIC > pipeline.log 2>&1 &
+# Subscribe to https://ntfy.sh/YOUR_TOPIC in a browser or the ntfy app.
+# Use --skip-graph when graph.json is already built.
+```
+
+### Individual law tracing
+
+```bash
+# Trace a single law by idNorma
 LEYCHILE_DATA_ROOT=./historial python scripts/trace_graph.py --id 235507 --ley 20000
 
 # Rewrite git history on historial branch in chronological order (via git fast-import)
