@@ -1,14 +1,13 @@
 {
-  "idNorma": 5873,
+  "idNorma": 5874,
   "tipo": "Decreto Ley",
   "numero": "212",
-  "titulo": "",
+  "titulo": "CREA COMISION NACIONAL DE LA REFORMA ADMINISTRATIVA",
   "organismos": [
-    "MINISTERIO DE DEFENSA NACIONAL",
-    "SUBSECRETARIA DE MARINA"
+    "MINISTERIO DEL INTERIOR"
   ],
-  "fechaPublicacion": "1925-01-20",
-  "fechaPromulgacion": "1925-01-15",
-  "fechaVersion": "1925-01-20",
-  "derogado": "no derogado"
+  "fechaPublicacion": "1973-12-26",
+  "fechaPromulgacion": "1973-12-17",
+  "fechaVersion": "1973-12-26",
+  "derogado": "derogado"
 }
