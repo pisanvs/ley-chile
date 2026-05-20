@@ -1,9 +1,7 @@
 # Decreto Ley N° 131
-**Publicada:** 1924-12-29
-Núm. 131.- Santiago, 1.o de diciembre de 1924.- Considerando: 1.o Que el decreto-lei que creó la Secretaría de Estado de Hijiene, Asistencia, Prevision Social y Trabajo, dispone que el actual personal de la Dirección Jeneral de Sanidad pase a depender directamente del Ministerio, miéntras se dicta la lei de reorganizacion de este servicio. 2.o Que no será posible dictar la lei de reorganizacion ántes del 1.o de enero próximo, fecha en que comenzará a rejir el presupuesto de 1925, La Junta de Gobierno ha acordado y dicta el siguiente DECRETO-LEI:
-Artículo 1.o Decláranse vacantes, a partir desde el 1.o de enero de 1925, los empleos, tanto de planta como ausiliares o a contrata, de la Direccion Jeneral de Sanidad y de las oficinas y servicios de su dependencia.
-Art. 2.o Las personas que desenpeñen actualmente los empleos a que se refiere el artículo anterior, quedarán a disposicion del Ministerio, en carácter de interinos, para atender las funciones que éste les encomiende, miéntras se procede a los nombramientos defintivos, conforme al plan de reorganizacion de estos servicios.
-Art. 3.o Suprímese, a partir desde el 1.o de enero de 1925, el puesto de veterinario de la Direccion Jeneral de Sanidad.
-Art. 4.o Los empleados de planta que, por renuncia o cesantía del cargo, dejaren de pertenecer al servicio sanitario, tendrán derecho a una indemnizacion equivalente a seis meses de sueldo.
+TRASPASA FONDOS
+**Publicada:** 1932-07-13
+TRASPASA FONDOS Núm. 131.- Santiago, 4 de Julio de 1932.-Vistos estos antecedentes, la Junta de Gobierno ha acordado y dictado el siguiente Decreto-ley:
+Trapásase del ítem 04|12|01 al ítem 04|12|04|, del Presupuesto de Aviación correspondiente al presente año, la suma de $ 175,000 (ciento setenta y cinco mil pesos) en la siguiente forma: Del ítem 04|12|01 al ítem 04| 12|04í-1____________________ $ 100,000 Del ítem 04|12|01 al ítem 04|12|04|v, para el pago de asignación para servidumbre__________________ 55,000 Del ítem 04|12|01 al ítem 04|12|04|V (para el pago de indemnización para gastos de traslado del personal casado de la Aviación que está obligado a cambiar de residencia; en la forma establecida por el Reglamento respectivo)_______ 20,000 ___________ Total________________________ $ 175,000 ___________
 ---
-Tómese razon, rejístrese, comuníquese, publíquese e insértese en el Boletin de Leyes y Decretos del Gobierno.- Luis Altamirano.- Francisco E. Nef.- J. P. Bennett.- Alejandro del Rio.
+Anótese en la Contraloría General de la República, tómese razón, regístrese, comuníquese y publíquese en el Boletín Oficial y Boletín de Leyes y Decretos del Gobierno.-CARLOS DAVILA.- Nolasco Cárdenas.- J. E. Peña Villalón.- Enrique Zañartu P.-Arturo Puga.
