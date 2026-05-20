@@ -1,13 +1,13 @@
 {
-  "idNorma": 5755,
+  "idNorma": 5756,
   "tipo": "Decreto Ley",
   "numero": "100",
-  "titulo": "",
+  "titulo": "DECLARA QUE DECRETO SUPREMO 1,837, MINISTERIO INTERIOR, PRESENTE AÑO, TENDRE EL CARÁCTER DECRETO-LEY",
   "organismos": [
-    "MINISTERIO DE OBRAS PUBLICAS COMERCIO Y VIAS DE COMUNICACION"
+    "MINISTERIO DEL INTERIOR"
   ],
-  "fechaPublicacion": "1925-05-20",
-  "fechaPromulgacion": "1924-11-17",
-  "fechaVersion": "1925-05-20",
+  "fechaPublicacion": "1932-07-01",
+  "fechaPromulgacion": "1932-06-21",
+  "fechaVersion": "1932-07-01",
   "derogado": "no derogado"
 }
