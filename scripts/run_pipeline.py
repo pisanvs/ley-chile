@@ -1,42 +1,47 @@
 """
-End-to-end pipeline: build graph → fetch texts → rebuild history → notify.
+End-to-end pipeline orchestrator — 4 phases:
+
+  Phase 1: build_catalog   →  catalog.json
+  Phase 2: fetch_normas    →  graph.json + cache/normas/
+  Phase 3: fetch_versions  →  cache/versions/ + cache/diffs/ + versiones.json
+  Phase 4: build_history   →  git history on historial branch
 
 Each phase is idempotent — re-running picks up where it left off.
-Designed to run unattended on any server (nohup / tmux / systemd).
+Designed to run unattended (nohup / tmux / systemd).
 
 Usage:
-    # Full pipeline (graph already built from previous run, skip graph phase)
-    LEYCHILE_DATA_ROOT=./historial python scripts/run_pipeline.py --skip-graph \\
+    # Full pipeline (recommended)
+    LEYCHILE_DATA_ROOT=./historial python scripts/run_pipeline.py \\
         --notify-url https://ntfy.sh/YOUR_TOPIC
 
-    # From scratch with custom seeds
-    LEYCHILE_DATA_ROOT=./historial python scripts/run_pipeline.py \\
-        --seeds 235507 29815 30733 \\
-        --notify-url https://ntfy.sh/YOUR_TOPIC
+    # Skip catalog if catalog.json is fresh
+    python scripts/run_pipeline.py --skip-catalog --notify-url https://ntfy.sh/YOUR_TOPIC
+
+    # Test with limited normas
+    python scripts/run_pipeline.py --limit 50
 
     # Background (nohup):
-    nohup LEYCHILE_DATA_ROOT=./historial python scripts/run_pipeline.py \\
-        --skip-graph --notify-url https://ntfy.sh/YOUR_TOPIC > pipeline.log 2>&1 &
+    nohup python scripts/run_pipeline.py --notify-url https://ntfy.sh/YOUR_TOPIC \\
+        > pipeline.log 2>&1 &
 
-ntfy.sh notification: subscribe at https://ntfy.sh/YOUR_TOPIC in a browser or
-the ntfy mobile app.  Pick a random topic name to keep it private.
+ntfy.sh: subscribe at https://ntfy.sh/YOUR_TOPIC in a browser or the ntfy mobile app.
+Pick a random topic name to keep it private.
 """
 
 from __future__ import annotations
 
 import argparse
 import logging
+import subprocess
+import sys
 import time
 from pathlib import Path
-import sys
 
-import requests
-
-sys.path.insert(0, str(Path(__file__).parent))
-import trace_graph as tg
-import rebuild_history as rh
-import build_graph as bg
-import fetch_texts as ft
+try:
+    import requests as _requests
+    _HAS_REQUESTS = True
+except ImportError:
+    _HAS_REQUESTS = False
 
 logging.basicConfig(
     level=logging.INFO,
@@ -45,108 +50,235 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-DEFAULT_SEEDS = [235507, 29815, 30733]   # ley 20000, ley 18403, ley 19366
+SCRIPTS_DIR = Path(__file__).parent.resolve()
 
 
-def _notify(url: str, message: str) -> None:
-    if not url:
+# ---------------------------------------------------------------------------
+# Notifications
+# ---------------------------------------------------------------------------
+
+def _notify(url: str, title: str, message: str) -> None:
+    """Fire-and-forget ntfy.sh notification — errors are silently ignored."""
+    if not url or not _HAS_REQUESTS:
         return
     try:
-        requests.post(url, data=message.encode(), timeout=10)
-    except Exception as exc:
-        log.warning("Notification failed: %s", exc)
+        _requests.post(url, json={"title": title, "message": message}, timeout=5)
+    except Exception:
+        pass
 
 
-def _phase(name: str, fn, notify_url: str) -> None:
+# ---------------------------------------------------------------------------
+# Phase runner
+# ---------------------------------------------------------------------------
+
+def _run_phase(
+    name: str,
+    cmd: list[str],
+    notify_url: str,
+    fail_fast: bool = True,
+) -> bool:
+    """
+    Run one pipeline phase via subprocess.
+
+    Returns True on success, False on failure.
+    Raises SystemExit if fail_fast=True and the phase fails.
+    """
     log.info("")
     log.info("=" * 60)
     log.info("PHASE: %s", name)
+    log.info("CMD  : %s", " ".join(cmd))
     log.info("=" * 60)
-    t0 = time.monotonic()
-    try:
-        fn()
-    except SystemExit as exc:
-        if exc.code not in (0, None):
-            msg = f"ley-chile ERROR in phase {name} (exit {exc.code})"
-            log.error(msg)
-            _notify(notify_url, msg)
-            raise
-    elapsed = time.monotonic() - t0
-    log.info("Phase [%s] done in %.1f min", name, elapsed / 60)
-    _notify(notify_url, f"ley-chile [{name}] done in {elapsed/60:.1f} min")
 
+    _notify(notify_url, f"ley-chile [{name}] started", " ".join(cmd))
+    t0 = time.monotonic()
+
+    try:
+        result = subprocess.run(cmd, check=False)
+    except Exception as exc:
+        elapsed = time.monotonic() - t0
+        msg = f"Failed to launch phase {name}: {exc}"
+        log.error(msg)
+        _notify(notify_url, f"ley-chile [{name}] ERROR", msg)
+        if fail_fast:
+            sys.exit(1)
+        return False
+
+    elapsed = time.monotonic() - t0
+
+    if result.returncode != 0:
+        msg = f"Phase {name} exited with code {result.returncode}"
+        log.error(msg)
+        _notify(notify_url, f"ley-chile [{name}] FAILED", msg)
+        if fail_fast:
+            sys.exit(result.returncode)
+        return False
+
+    log.info("Phase [%s] done in %.1f min", name, elapsed / 60)
+    _notify(
+        notify_url,
+        f"ley-chile [{name}] done",
+        f"Completed in {elapsed / 60:.1f} min",
+    )
+    return True
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description=__doc__,
-                                     formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser = argparse.ArgumentParser(
+        description=__doc__,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+
+    # Skip flags
+    parser.add_argument("--skip-catalog",  action="store_true", help="Skip phase 1 (build_catalog)")
+    parser.add_argument("--skip-normas",   action="store_true", help="Skip phase 2 (fetch_normas)")
+    parser.add_argument("--skip-versions", action="store_true", help="Skip phase 3 (fetch_versions)")
+    parser.add_argument("--skip-history",  action="store_true", help="Skip phase 4 (build_history)")
+
+    # Early-exit shortcut
+    parser.add_argument("--only-catalog",  action="store_true", help="Run only phase 1 then exit")
+
+    # Common options
     parser.add_argument(
-        "--seeds", type=int, nargs="+", default=DEFAULT_SEEDS, metavar="IDNORMA",
-        help="Seed idNormas for SPARQL BFS (default: ley 20000, 18403, 19366)",
+        "--data-root", metavar="PATH",
+        help="Override DATA_ROOT (default: auto-detect via detect_data_root())",
+    )
+    parser.add_argument(
+        "--limit", type=int, metavar="N",
+        help="Pass --limit N to fetch_normas and fetch_versions (for testing)",
     )
     parser.add_argument(
         "--notify-url", default="",
+        metavar="URL",
         help="ntfy.sh or other webhook URL (e.g. https://ntfy.sh/my-topic)",
     )
+
+    # build_history options
+    parser.add_argument("--dry-run",   action="store_true", help="Pass --dry-run to build_history")
     parser.add_argument(
-        "--skip-graph", action="store_true",
-        help="Skip graph-building phase (graph.json already complete)",
+        "--enrichers", metavar="LIST",
+        help="Pass --enrichers LIST to build_history (default: tramitacion)",
     )
-    parser.add_argument(
-        "--skip-fetch", action="store_true",
-        help="Skip text-fetching phase",
-    )
-    parser.add_argument(
-        "--skip-rebuild", action="store_true",
-        help="Skip final history rebuild",
-    )
-    parser.add_argument(
-        "--concurrency", type=int, default=1,
-        help="Parallel fetch workers (default 1; max 2 to respect LeyChile rate limit)",
-    )
+    parser.add_argument("--append",    action="store_true", help="Pass --append to build_history")
+
     args = parser.parse_args()
 
+    python = sys.executable
+
+    # ------------------------------------------------------------------
+    # Header
+    # ------------------------------------------------------------------
     log.info("=== ley-chile run_pipeline ===")
-    log.info("DATA_ROOT  : %s", tg.DATA_ROOT)
-    log.info("Seeds      : %s", args.seeds)
-    log.info("Concurrency: %d", args.concurrency)
+    log.info("Python     : %s", python)
+    log.info("Data root  : %s", args.data_root or "(auto-detect)")
     log.info("Notify URL : %s", args.notify_url or "(none)")
-    _notify(args.notify_url, f"ley-chile pipeline started — seeds {args.seeds}")
+    log.info("Limit      : %s", args.limit or "(all)")
+
+    _notify(args.notify_url, "ley-chile pipeline started", f"data_root={args.data_root or 'auto'}")
 
     t_total = time.monotonic()
+    failed_phase: str | None = None
 
-    # Phase 1 — Build complete relationship graph via SPARQL BFS
-    if not args.skip_graph:
-        _phase("build_graph", lambda: bg.build(args.seeds), args.notify_url)
+    # ------------------------------------------------------------------
+    # Helper: build base args for a script
+    # ------------------------------------------------------------------
+    def _base(script: str) -> list[str]:
+        cmd = [python, str(SCRIPTS_DIR / script)]
+        if args.data_root:
+            cmd += ["--data-root", args.data_root]
+        return cmd
+
+    # ------------------------------------------------------------------
+    # Phase 1: build_catalog
+    # ------------------------------------------------------------------
+    if args.only_catalog or not args.skip_catalog:
+        cmd = _base("build_catalog.py")
+        ok = _run_phase("build_catalog", cmd, args.notify_url)
+        if not ok:
+            failed_phase = "build_catalog"
     else:
-        log.info("Skipping build_graph (--skip-graph)")
+        log.info("Skipping phase 1 (build_catalog) — --skip-catalog")
 
-    graph = ft.load_graph()
-    log.info("Graph: %d laws", len(graph))
+    if args.only_catalog:
+        elapsed = time.monotonic() - t_total
+        log.info("Pipeline done in %.1f min (--only-catalog)", elapsed / 60)
+        return
 
-    # Phase 2 — Fetch law texts from LeyChile
-    if not args.skip_fetch:
-        _phase(
-            "fetch_texts",
-            lambda: ft.run(notify_url=args.notify_url, concurrency=args.concurrency),
-            args.notify_url,
-        )
+    if failed_phase:
+        _finish(failed_phase, t_total, args.notify_url)
+        return
+
+    # ------------------------------------------------------------------
+    # Phase 2: fetch_normas
+    # ------------------------------------------------------------------
+    if not args.skip_normas:
+        cmd = _base("fetch_normas.py")
+        if args.limit:
+            cmd += ["--limit", str(args.limit)]
+        ok = _run_phase("fetch_normas", cmd, args.notify_url)
+        if not ok:
+            failed_phase = "fetch_normas"
     else:
-        log.info("Skipping fetch_texts (--skip-fetch)")
+        log.info("Skipping phase 2 (fetch_normas) — --skip-normas")
 
-    # Phase 3 — Rebuild chronological git history via fast-import
-    if not args.skip_rebuild:
-        _phase("rebuild_history", lambda: rh.rebuild(dry_run=False), args.notify_url)
+    if failed_phase:
+        _finish(failed_phase, t_total, args.notify_url)
+        return
+
+    # ------------------------------------------------------------------
+    # Phase 3: fetch_versions
+    # ------------------------------------------------------------------
+    if not args.skip_versions:
+        cmd = _base("fetch_versions.py")
+        if args.limit:
+            cmd += ["--limit", str(args.limit)]
+        ok = _run_phase("fetch_versions", cmd, args.notify_url)
+        if not ok:
+            failed_phase = "fetch_versions"
     else:
-        log.info("Skipping rebuild_history (--skip-rebuild)")
+        log.info("Skipping phase 3 (fetch_versions) — --skip-versions")
 
+    if failed_phase:
+        _finish(failed_phase, t_total, args.notify_url)
+        return
+
+    # ------------------------------------------------------------------
+    # Phase 4: build_history
+    # ------------------------------------------------------------------
+    if not args.skip_history:
+        cmd = _base("build_history.py")
+        if args.dry_run:
+            cmd.append("--dry-run")
+        if args.enrichers:
+            cmd += ["--enrichers", args.enrichers]
+        if args.append:
+            cmd.append("--append")
+        ok = _run_phase("build_history", cmd, args.notify_url)
+        if not ok:
+            failed_phase = "build_history"
+    else:
+        log.info("Skipping phase 4 (build_history) — --skip-history")
+
+    # ------------------------------------------------------------------
+    # Final summary
+    # ------------------------------------------------------------------
+    _finish(failed_phase, t_total, args.notify_url)
+
+
+def _finish(failed_phase: str | None, t_total: float, notify_url: str) -> None:
     elapsed = time.monotonic() - t_total
-    done = len(set(ft.load_progress().get("done", [])))
-    summary = (
-        f"ley-chile pipeline COMPLETE in {elapsed/60:.1f} min — "
-        f"{done}/{len(graph)} laws committed"
-    )
-    log.info(summary)
-    _notify(args.notify_url, summary)
+    if failed_phase:
+        msg = f"Pipeline FAILED at phase {failed_phase} — {elapsed / 60:.1f} min elapsed"
+        log.error(msg)
+        _notify(notify_url, "ley-chile pipeline FAILED", msg)
+        sys.exit(1)
+    else:
+        msg = f"Pipeline complete in {elapsed / 60:.1f} min"
+        log.info(msg)
+        _notify(notify_url, "ley-chile pipeline complete", msg)
 
 
 if __name__ == "__main__":
