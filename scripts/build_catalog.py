@@ -45,6 +45,7 @@ LOG_EVERY = 2000
 
 _CATALOG_QUERY = """\
 PREFIX bcn: <http://datos.bcn.cl/ontologies/bcn-norms#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 SELECT DISTINCT ?code ?tipo ?date WHERE {{
   ?s bcn:leychileCode ?code .
   FILTER(xsd:integer(?code) > {last_code})
@@ -145,9 +146,10 @@ def fetch_catalog() -> list[dict]:
 
         # Advance keyset cursor
         last_code = max(
-            int(r["code"]["value"])
-            for r in bindings
-            if r.get("code", {}).get("value", "").isdigit()
+            (int(r["code"]["value"])
+             for r in bindings
+             if r.get("code", {}).get("value", "").isdigit()),
+            default=last_code
         )
 
         count = len(seen)
@@ -194,7 +196,9 @@ def load_catalog(data_root: Path) -> list[dict]:
 
 def save_catalog(catalog: list[dict], data_root: Path) -> None:
     p = _catalog_path(data_root)
-    p.write_text(json.dumps(catalog, ensure_ascii=False, indent=2), encoding="utf-8")
+    tmp = p.with_suffix(".tmp")
+    tmp.write_text(json.dumps(catalog, ensure_ascii=False, indent=2), encoding="utf-8")
+    tmp.replace(p)
     log.info("Wrote %d entries to %s", len(catalog), p)
 
 

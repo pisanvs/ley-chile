@@ -275,7 +275,7 @@ async def run(data_root: Path, limit: int | None) -> None:
     fetches_since_log = 0
     fetch_count = 0
 
-    loop = asyncio.get_event_loop()
+    loop = asyncio.get_running_loop()
     executor = ThreadPoolExecutor(max_workers=10)
 
     async def process(id_norma: int, entry: dict) -> None:
@@ -298,6 +298,8 @@ async def run(data_root: Path, limit: int | None) -> None:
                 await limiter.on_rate_limit()
                 logger.warning(f"Rate limited on {id_norma}: {err}")
             else:
+                failure_count = failed_map.get(str(id_norma), 0)
+                await limiter.on_error(failure_count)
                 logger.warning(f"Error fetching {id_norma}: {err}")
             failed_map[str(id_norma)] = failed_map.get(str(id_norma), 0) + 1
         else:
@@ -339,7 +341,7 @@ async def run(data_root: Path, limit: int | None) -> None:
         progress["failed"] = failed_map
         _save_progress(progress_path, progress)
         _save_graph(graph_path, graph)
-        executor.shutdown(wait=False)
+        executor.shutdown(wait=True)
         session.close()
 
     logger.info(
