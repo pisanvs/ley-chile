@@ -203,8 +203,7 @@ def main() -> None:
         log.info("Skipping phase 1 (build_catalog) — --skip-catalog")
 
     if args.only_catalog:
-        elapsed = time.monotonic() - t_total
-        log.info("Pipeline done in %.1f min (--only-catalog)", elapsed / 60)
+        _finish(None, t_total, args.notify_url)
         return
 
     if failed_phase:
