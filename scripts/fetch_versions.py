@@ -23,6 +23,8 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+import threading
+
 import requests
 
 # ---------------------------------------------------------------------------
@@ -54,6 +56,20 @@ HEADERS = {
 
 PROGRESS_SAVE_EVERY = 20
 LOG_EVERY = 50
+
+# ---------------------------------------------------------------------------
+# Thread-local session
+# ---------------------------------------------------------------------------
+
+_thread_local = threading.local()
+
+
+def _get_session() -> requests.Session:
+    if not hasattr(_thread_local, "session"):
+        s = requests.Session()
+        s.headers.update(HEADERS)
+        _thread_local.session = s
+    return _thread_local.session
 
 # ---------------------------------------------------------------------------
 # HTML flattening
@@ -131,7 +147,7 @@ def fetch_version(
     id_norma: int,
     fecha: str,
     cache_dir: Path,
-    session: requests.Session,
+    session: requests.Session | None = None,
 ) -> dict:
     """Fetch versioned norma JSON and cache it. Returns parsed dict."""
     cache_file = cache_dir / str(id_norma) / f"{fecha}.json"
@@ -154,7 +170,8 @@ def fetch_version(
         "Referer": f"https://nuevo.leychile.cl/Navegar?idNorma={id_norma}",
     }
 
-    resp = session.get(BASE_URL, params=params, headers=headers, timeout=30)
+    sess = _get_session() if session is None else session
+    resp = sess.get(BASE_URL, params=params, headers=headers, timeout=30)
     resp.raise_for_status()
 
     data = resp.json()
@@ -171,7 +188,7 @@ def _process_norma_sync(
     id_norma: int,
     node: dict,
     versions_cache_dir: Path,
-    session: requests.Session,
+    session: requests.Session | None = None,
 ) -> tuple[int, list | None, dict[int, str] | None, Exception | None]:
     """Fetch all versions for a norma and compute diffs.
 
@@ -195,7 +212,7 @@ def _process_norma_sync(
             tipo_v = vig.get("tipo_version_s", "")
             if not fecha:
                 continue
-            data = fetch_version(id_norma, fecha, versions_cache_dir, session)
+            data = fetch_version(id_norma, fecha, versions_cache_dir)
             fetched.append((fecha, tipo_v, data))
 
         if not fetched:
@@ -335,17 +352,17 @@ async def run(data_root: Path, limit: int | None, only_id: int | None) -> None:
     graph: dict = json.loads(graph_path.read_text(encoding="utf-8"))
     logger.info(f"Loaded graph: {len(graph)} nodes")
 
-    # Filter: only nodes with 2+ vigencias
+    # Filter: only nodes with 1+ vigencias (single-version laws also need diffs cache)
     if only_id is not None:
         candidates = [(str(only_id), graph[str(only_id)])] if str(only_id) in graph else []
     else:
         candidates = [
             (id_str, node)
             for id_str, node in graph.items()
-            if len(node.get("vigencias", [])) >= 2
+            if len(node.get("vigencias", [])) >= 1
         ]
 
-    logger.info(f"Nodes with 2+ vigencias: {len(candidates)}")
+    logger.info(f"Nodes with 1+ vigencias: {len(candidates)}")
 
     if limit:
         candidates = candidates[:limit]
@@ -382,7 +399,6 @@ async def run(data_root: Path, limit: int | None, only_id: int | None) -> None:
         return
 
     limiter = AdaptiveLimiter(start=3, min_c=1, max_c=10)
-    session = requests.Session()
 
     completions_since_save = 0
     fetches_since_log = 0
@@ -402,7 +418,6 @@ async def run(data_root: Path, limit: int | None, only_id: int | None) -> None:
                 id_norma,
                 node,
                 versions_cache_dir,
-                session,
             )
         finally:
             limiter.release()
@@ -448,7 +463,6 @@ async def run(data_root: Path, limit: int | None, only_id: int | None) -> None:
         progress["failed"] = failed_map
         _save_progress(progress_path, progress)
         executor.shutdown(wait=True)
-        session.close()
 
     logger.info(
         f"Done. total_done={len(done_set)} "

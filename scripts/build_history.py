@@ -42,8 +42,8 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
-from utils import detect_data_root, law_dir  # noqa: E402
-from enrichers import CommitContext, Enricher  # noqa: E402
+from utils import detect_data_root, law_dir, CommitContext  # noqa: E402
+from enrichers import Enricher  # noqa: E402
 
 logging.basicConfig(
     level=logging.INFO,
@@ -520,7 +520,8 @@ def _make_fast_import_stream(
                 stream_parts.append(
                     enc(f"M 120000 inline {sym_path}\ndata {len(target_bytes)}\n")
                 )
-                stream_parts.append(target_bytes + b"\n")
+                stream_parts.append(target_bytes)
+                stream_parts.append(b"\n")
 
         stream_parts.append(b"\n")
 
@@ -659,9 +660,20 @@ def main() -> None:
         print(f"\nTotal: {len(groups)} commit(s) from {len(all_events)} event(s).")
         return
 
+    # Guard --append: if branch doesn't exist, fall back to fresh import
+    append = args.append
+    if append:
+        branch_check = subprocess.run(
+            ["git", "-C", str(data_root), "rev-parse", "--verify", f"refs/heads/{TARGET_BRANCH}"],
+            capture_output=True,
+        )
+        if branch_check.returncode != 0:
+            log.info("Branch '%s' does not exist — ignoring --append, doing fresh import.", TARGET_BRANCH)
+            append = False
+
     # Generate fast-import stream
     log.info("Generating git fast-import stream ...")
-    stream = _make_fast_import_stream(all_events, append=args.append)
+    stream = _make_fast_import_stream(all_events, append=append)
     log.info("Stream size: %d bytes", len(stream))
 
     if not stream:
@@ -669,10 +681,9 @@ def main() -> None:
         return
 
     # Pipe to git fast-import
-    repo_root = data_root if (data_root / ".git").exists() else Path(__file__).resolve().parent.parent
     # If data_root is a worktree, git -C data_root still works
     cmd = ["git", "-C", str(data_root), "fast-import", "--force", "--quiet"]
-    if not args.append:
+    if not append:
         # Wipe existing historial branch first
         subprocess.run(
             ["git", "-C", str(data_root), "branch", "-D", TARGET_BRANCH],
