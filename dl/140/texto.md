@@ -1,0 +1,7 @@
+# Decreto Ley N° 140
+SUSPENDE LA APLICACION DE LA NORMA QUE INDICA RESPECTO DE LAS PERSONAS QUE SEñALA, MIENTRAS DESEMPEñEN FUNCIONES DE GOBIERNO.
+**Publicada:** 1973-11-21
+DETERMINA, EN LOS CASOS QUE SEÑALA, LA INAPLICABILIDAD DE LO DISPUESTO EN EL ARTICULO 166, LETRA E), DEL DECRETO CON FUERZA DE LEY (G) N° 1, DE 1968 Núm. 140.- Santiago, 13 de Noviembre de 1973.- Vistos: lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, y teniendo presente las necesidades institucionales y de Gobierno, la Junta de Gobierno ha acordado dictar el siguiente Decreto ley:
+"Artículo único.- No será aplicable lo dispuesto en el artículo 166, letra e), del decreto con fuerza de ley (G) N° 1, de 1968, mientras desempeñen funciones de Gobierno, a los Vicealmirantes señores Patricio Carvajal Prado e Ismael Huerta Díaz,".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros e Investigaciones y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET U., General de Ejército, Comandante en Jefe, Presidente de la Junta de Gobierno.- JOSE T. MERINO C., Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH G., General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA D., General Director de Carabineros de Chile.- Patricio Carvajal P., Vicealmirante, Ministro de Defensa Nacional. Lo que transcribo a U. para su conocimiento.- Ernesto Jobet Ojeda, Capitán de Navío, Subsecretario de Marina.
