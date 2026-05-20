@@ -1,0 +1,7 @@
+# Decreto Ley N° 143
+MODIFICA LA LEY NUMERO 15.266
+**Publicada:** 1974-01-17
+MODIFICA LA LEY NUMERO 15.266 Santiago, 19 de Noviembre de 1973.- Hoy se decretó lo que sigue: Núm. 143.- Vistos: Los decretos leyes N°s. 1, 9, 60 y 98, de 1973; la ley número 15.266, en especial su artículo 54, y las necesidades del Ministerio de RR. EE., la Junta de Gobierno ha acordado dictar el siguiente Decreto ley:
+1.- Introdúcese la siguiente modificación a la ley 15.266, de 1963, del Ministerio de RR. EE.: a) En el artículo 54: reemplázase en el inciso primero, la frase "hasta diez Adictos Culturales" por "hasta veinticinco Adictos Culturales". 2.- El mayor gasto ascendente a la suma de US$ 67.600,- (sesenta y siete mil seiscientos dólares), que significa la aplicación del presente decreto ley durante el año 1973, se financiará con los fondos autorizados en 1974, ítem 06/02/01.018. 3.- El presente decreto ley empezará a regir desde el 1° de Noviembre de 1973.
+---
+Regístrese en la Contraloría General de la República, comuníquese y publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros, Investigaciones y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE TORIBIO MERINO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Ismael Huerta D.- Lorenzo Gotuzzo B. Lo que transcribo a Us., para su conocimiento.- Claudio Collados Núñez, Capitán de Navío (IM), Subsecretario de Relaciones Exteriores.
