@@ -1,13 +1,14 @@
 {
-  "idNorma": 5728,
+  "idNorma": 5729,
   "tipo": "Decreto Ley",
   "numero": "76",
-  "titulo": "",
+  "titulo": "DECLARA EN RECESO LA COMISION NACIONAL DE TELECOMUNICACIONES",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE DEFENSA NACIONAL",
+    "SUBSECRETARÍA DE GUERRA"
   ],
-  "fechaPublicacion": "1924-11-19",
-  "fechaPromulgacion": "1924-10-31",
-  "fechaVersion": "1924-11-19",
-  "derogado": "no derogado"
+  "fechaPublicacion": "1973-11-12",
+  "fechaPromulgacion": "1973-10-08",
+  "fechaVersion": "1973-11-12",
+  "derogado": "derogado"
 }
