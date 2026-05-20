@@ -1,6 +1,8 @@
 # Decreto Ley N° 94
-**Publicada:** 1924-11-14
-Núm. 94.- Santiago, 13 de noviembre de 1924.-Vistos setos antecedentes; y Teniendo presente: 1.o Que en la Lei de Presupuestos del año en curso se consultan para las necesidades que debe atender la Oficina Jeneral de Vestuario y Equipo del Ejército, las siguientes cantidades: Item 62_________ $ 656,322 " 63_________ $ 138,450 " 64_________ $ 15,000 " 66_________ $ 2.000,000 " 67_________ $ 110,380 " 68_________ $ 40,000 " 69_________ $ 25,000 " 70_________ $ 235,000 ______________ $ 3.220,152 2.o Que conviene, para el mejor servicio, distribuir en otra forma las mismas cantidades, La Junta de Gobierno ha acordado y dicta el siguiente DECRETO-LEI:
-1.o Distribúyase la cantidad de tres millones doscientos veinte mil ciento cincuenta y dos pesos ($ 3.220,152), consultada en los ítem arriba indicados, de la siguiente manera: Item 62_________ $ 796,000 " 63_________ $ 128,543 93 " 64_________ $ 15,000 " 66_________ $ 2.130,808 07 " 67_________ $ 42,800 " 68_________ $ 40,000 " 69_________ $ 25,000 " 70_________ $ 42,000 _________________ $ 3.220,152 2.o Estas cantidades solo podrán invertirse esclusivamente en el objeto que para cada uno de dichos ítem se señala en la Lei de Presupuestos.
+Complementa ley Núm. 5,005
+**Publicada:** 1932-06-25
+Complementa ley Núm. 5,005 Núm. 94.- Santiago, 23 de Junio de 1932.- La Junta de Gobierno dicta el siguiente Decreto-ley:
+Artículo 1.o Agrégase en la letra d) del artículo 6.o de la ley número 5.005, de 24 de Noviembre de 1931, la siguiente frase: "y demás personal del servicio"; y al final de la enumeración del mismo artículo, el siguiente inciso: "Las del servicio de Protección de Menores".
+Artículo 2.o El presente decreto-ley regirá desde la fecha de su publicación en el Diario Oficial.
 ---
-Anótese en la Direccion Jeneral de Contabilidad, tómese razon, rejístrese, comuníquese, publíquese e insértese en el Boletin de Leyes y Decretos del Gobierno.- Luis Altamirano. - Francisco E. Nef.-J. P. Bennett.- Luis Gómez C.
+Tómese razón, comuníquese, publíquese e insértese en el Boletín de las Leyes y Decretos del Gobierno.- CARLOS DAVILA.- Nolasco Cárdenas.- A. Cabero.- Santiago Pérez Peña.

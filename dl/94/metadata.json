@@ -1,14 +1,13 @@
 {
-  "idNorma": 5746,
+  "idNorma": 5747,
   "tipo": "Decreto Ley",
   "numero": "94",
-  "titulo": "",
+  "titulo": "Complementa ley Núm. 5,005",
   "organismos": [
-    "MINISTERIO DE DEFENSA NACIONAL",
-    "SUBSECRETARÍA DE GUERRA"
+    "MINISTERIO DE JUSTICIA"
   ],
-  "fechaPublicacion": "1924-11-14",
-  "fechaPromulgacion": "1924-11-13",
-  "fechaVersion": "1924-11-14",
+  "fechaPublicacion": "1932-06-25",
+  "fechaPromulgacion": "1932-06-23",
+  "fechaVersion": "1932-06-25",
   "derogado": "no derogado"
 }
