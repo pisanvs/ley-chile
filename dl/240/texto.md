@@ -1,6 +1,7 @@
 # Decreto Ley N° 240
 ESTABLECE DEPENDENCIA POLITECNICO ELEMENTAL DE MENORES
 **Publicada:** 1932-07-21
+**Versión:** 1933-04-05
 Establece dependencia Politécnico Elemental de Menores Núm. 240.- Santiago, 19 de Julio de 1932.- He acordado y dicto el siguiente, Decreto-ley:
 ~~Artículo 1.o El Politécnico Elemental de Menores "Alcibíades Vicencio" dependerá, en lo sucesivo, directamente del Ministerio de Justicia.~~
 ~~Art. 2.o Restablécese el servicio religioso en dicho Politécnico Elemental de Menores.~~
