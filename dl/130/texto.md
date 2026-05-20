@@ -1,0 +1,10 @@
+# Decreto Ley N° 130
+DECLARA LA CADUCIDAD DE TODOS LOS REGISTROS
+ELECTORALES DEL PAIS
+**Publicada:** 1973-11-19
+DECLARA LA CADUCIDAD DE TODOS LOS REGISTROS ELECTORALES DEL PAIS Decreto ley N° 130.- Santiago, 13 de Noviembre de 1973.- Vistos: 1°- Que las investigaciones practicadas por organismos públicos y universitarios han comprobado la existencia de graves y extendidos fraudes electorales; 2°- Que por la circunstancia anterior se hace indispensable estudiar un sistema que en lo sucesivo impida tales fraudes y garantice la seriedad y eficiencia del pronunciamiento ciudadano, y 3°.- Que mientras los estudios se llevan a cabo es conveniente declarar la caducidad de los actuales Registros Electorales viciados y suspender el proceso de nuevas inscripciones. La Junta de Gobierno ha acordado y dicta el siguiente Decreto ley:
+Artículo 1°.- Declárase la caducidad de todos los Registros Electorales del país a que se refiere la ley N° 14.853. La Dirección del Registro Electoral procederá a inutilizar dichos Registros en la forma que ella misma determine.
+Artículo 2°.- Suspéndese el proceso de inscripciones en los Registros Electorales. En consecuencia, las Juntas Inscriptoras no efectuarán ninguna nueva inscripción en ellos.
+Artículo 3°.- Mientras subsista la suspensión dispuesta en el artículo anterior, quedarán sin aplicación todas las disposiciones legales y reglamentarias que exijan acreditar la inscripción en los Registros Electorales.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros e Investigaciones, y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros. Lo que transcribo para su conocimiento.- Enrique Montero Marx, Subsecretario del Interior.
