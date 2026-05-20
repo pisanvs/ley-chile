@@ -1,14 +1,13 @@
 {
-  "idNorma": 5870,
+  "idNorma": 5871,
   "tipo": "Decreto Ley",
   "numero": "211",
-  "titulo": "",
+  "titulo": "REORGANIZA SERVICIOS PESCA Y CAZA",
   "organismos": [
-    "MINISTERIO DE DEFENSA NACIONAL",
-    "SUBSECRETARIA DE MARINA"
+    "MINISTERIO DE FOMENTO"
   ],
-  "fechaPublicacion": "1925-01-20",
-  "fechaPromulgacion": "1925-01-15",
-  "fechaVersion": "1925-01-20",
+  "fechaPublicacion": "1932-08-02",
+  "fechaPromulgacion": "1932-07-15",
+  "fechaVersion": "1932-08-02",
   "derogado": "no derogado"
 }
