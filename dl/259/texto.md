@@ -2,6 +2,7 @@
 CREA DEPARTAMENTO FISCALIZACION CUMPLIMIENTO
 ESTATUTO ADMINISTRATIVO
 **Publicada:** 1932-07-26
+**Versión:** 1932-10-03
 CREA DEPARTAMENTO FISCALIZACION CUMPLIMIENTO ESTATUTO ADMINISTRATIVO Núm. 259.- Santiago, 23 de Julio de 1932.- El Presidente de la República ha acordado y dicta el siguiente Decreto-ley:
 ~~Artículo 1.o Créase, dentro de la Contraloría General de la República, un Departamento que tendrá a su cargo la fiscalización del cumplimiento del Estatuto Administrativo, la calificación de los méritos y eficiencia del personal de la Administración Pública y la formación del escalafón definitivo de cada servicio, a excepción del Poder Judicial.~~
 ~~Artículo 2.o Nómbrase jefe de este Departamento, con el grado 1.o, a don Alberto Gómez del Fierro.~~
