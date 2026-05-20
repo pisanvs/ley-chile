@@ -1,18 +1,8 @@
 # Decreto Ley N° 103
-ESTABLECE NORMAS GENERALES RELATIVAS AL COMERCIO DEL ORO
-**Publicada:** 1932-07-10
-**Versión:** 1934-08-10
-DECRETO-LEY N° 103 Establece normas generales relativas al comercio del oro MINISTERIO DE HACIENDA (Publicado en el "Diario Oficial" N.° 16.312, de 1° de julio de 1932) Núm. 103.- Santiago, 25 de junio de 1932.- La Junta de Gobierno ha acordado y dicta el siguiente Decreto-ley:
-Artículo 1°.- DEROGADO
-Artículo 2°.- DEROGADO
-Artículo 3°.- DEROGADO
-Art. 4.° Unicamente el Banco Central de Chile podrá comprar y a él se podrá vender oro en barras y oro amonedado, al precio que corresponda al cambio internacional fijado por dicho Banco.
-Art. 5.° Los vendedores del oro a que se refieren el artículo anterior tendrán derecho a obtener, dentro del plazo de tres meses contados desde la fecha de la venta, autorizaciones de la Comisión de Cambios Internacionales para la emisión de giros sobre el extranjero por las cantidades correspondientes, de acuerdo con la ley número 5,107, de 19 de abril de 1932, y para los objetos que ella señala. Ese derecho podrá cederse con autorización de dicha comisión. Si el vendedor del oro amonedado o en barras fuere un Banco comercial, la Comisión de Cambios podrá autorizar la emisión de los giros con prescindencia del orden de prelación establecido por la ley N° 5,107, previo informe favorable del Superintendente de Bancos, sobre la necesidad de esos giros que tenga el Banco solicitante para sus operaciones ordinarias y sobre el hecho de haber éste adquirido el oro con anterioridad al 30 de julio de 1931.
-Art. 6.° El comercio de oro manufacturado para usos personales, sólo podrá ejercerse por las personas naturales o jurídicas que paguen la patente que corresponda precisamente a ese comercio, las cuales estarán sujetas a los reglamentos que se dicten al respecto.
-Art. 7.° La Casa de Moneda reducirá a barras o amonedará el oro de lavaderos y el oro manufacturado para usos personales, que se presente por las personas naturales o jurídicas autorizadas para comprarlo o para comerciar con él, según el presente decreto-ley.
-Art. 8.° La Caja de Crédito Minero organizará, con aprobación del Presidente de la República, el servicio de compras de minerales y de oro de lavaderos.
-Art. 9.° El Estado anticipará a la Caja de Crédito Minero los fondos que fueren necesarios para el desempeño de los servicios que se le encomiendan. Estos fondos serán administrados de acuerdo con el reglamento que se dicte al respecto.
-Art. 10. El oro que se negocie con infracción a este decreto-ley caerá íntegramente en comiso en favor del Estado.
-Art. 11. El presente decreto-ley regirá desde la fecha de su promulgación en el "Diario Oficial".
+PRORROGA PLAZO PARA EFECTUAR CONSIGNACIONES SEGUN
+ARTICULO 39, LEY 16.640
+**Publicada:** 1973-11-26
+PRORROGA PLAZO PARA EFECTUAR CONSIGNACIONES SEGUN ARTICULO 39, LEY 16.640 Núm. 103.- Santiago, 22 de Octubre de 1973. Vistos: Lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, la situación interna que vive el país, la necesidad de no entorpecer el proceso de la Reforma Agraria, lo expuesto por el Vicepresidente Ejecutivo de la Corporación de la Reforma Agraria y lo establecido en el artículo 39 de la ley N° 16.640, modificada por la ley N° 17.280, y en el decreto ley N° 18 de 17 de Septiembre de 1973, la Junta de Gobierno ha acordado el siguiente Decreto ley:
+Prorrógase en seis meses el plazo de un año señalado en el inciso 3° del artículo 39 de la ley 16.640, para efectuar la consignación que corresponde pagar por el predio expropiado, respecto de aquellos predios cuya expropiación fue publicada en el Diario Oficial entre el 15 de Octubre de 1972 y el 2 de Enero de 1973, ambas fechas inclusive.
 ---
-Tómese razón, comuníquese, publíquese e insértese en el Boletín de Leyes y Decretos del Gobierno.- CARLOS DAVILA.- Nolasco Cárdenas.- A. Cabero.- Enrique Zañartu P.
+Regístrese en la Contraloría General de la República y publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros de Chile e Investigaciones, y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Sergio Crespo Montero, Ministro de Agricultura. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Julio Salas Romo, Subsecretario de Agricultura.
