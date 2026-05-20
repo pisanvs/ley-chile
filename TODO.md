@@ -1,0 +1,2 @@
+- Date commits correctly
+- Add authors to commits
