@@ -1,0 +1,9 @@
+# Decreto Ley N° 358
+SUSTITUYE INCISO 1° DEL ARTICULO 12° DE LA LEY N°
+17.329
+**Publicada:** 1974-03-16
+SUSTITUYE INCISO 1° DEL ARTICULO 12° DE LA LEY N° 17.329 Núm. 358.- Santiago, 11 de Marzo de 1974.- Vistos: el decreto ley N° 1, de 11 de Septiembre de 1973, y las leyes N°s. 17.329 y 17.625, la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Sustitúyese el inciso 1° del artículo 12° de la ley N° 17.329, agregado por la ley número 17.625, por el siguiente: "El Ministerio de Defensa Nacional podrá, por decreto supremo fundado, liberar del pago de la Contribución de Faros y Balizas y de todo derecho por servicios portuarios a las naves que arriben a puertos chilenos exclusivamente para descargar ayuda y/o donaciones que se realicen al país".
+Artículo transitorio.- Libérase del pago de la Contribución de Faros y Balizas y de todo derecho por servicios portuarios a la nave "Tarpoon Silver", que arribó al puerto de San Antonio en el mes de Noviembre de 1973, transportando 15.000 toneladas de trigo donado por el Gobierno de la República Federal Alemana y que fueron desembarcados en dicho puerto.
+---
+Regístrese en la Contraloría General de la República, comuníquese y publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros e Investigaciones y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director de Carabineros.- Patricio Carvajal Prado, Vicealmirante, Ministro de Defensa Nacional. Lo que transcribo a U. para su conocimiento.- Ernesto Jobet Ojeda, Capitán de Navío, Subsecretario de Marina.
