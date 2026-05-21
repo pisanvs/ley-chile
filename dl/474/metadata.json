@@ -1,13 +1,13 @@
 {
-  "idNorma": 6111,
+  "idNorma": 6112,
   "tipo": "Decreto Ley",
   "numero": "474",
-  "titulo": "CREA LA SUBSECRETARIA DE SINDICATOS Y FIJA LA PLANTA DE EMPLEOS Y SUELDOS",
+  "titulo": "EXCLUYE AL COLEGIO DE ABOGADOS DE LA APLICACION DE\nLAS NORMAS DE LOS ARTICULOS QUE INDICA DEL DECRETO LEY\nN° 349, DE 1974",
   "organismos": [
-    "MINISTERIO DEL TRABAJO"
+    "MINISTERIO DEL INTERIOR"
   ],
-  "fechaPublicacion": "1932-09-17",
-  "fechaPromulgacion": "1932-08-23",
-  "fechaVersion": "1932-09-17",
+  "fechaPublicacion": "1974-05-31",
+  "fechaPromulgacion": "1974-05-27",
+  "fechaVersion": "1974-05-31",
   "derogado": "no derogado"
 }
