@@ -1,0 +1,9 @@
+# Decreto Ley N° 304
+MINISTERIO DE SALUD PUBLICA SUSPENDE HASTA LA FECHA
+QUE SEÑALA LO DISPUESTO EN EL ARTICULO 28 DEL DECRETO
+LEY N° 249, DE 1973, PARA EL PERSONAL QUE INDICA
+**Publicada:** 1974-02-08
+MINISTERIO DE SALUD PUBLICA SUSPENDE HASTA LA FECHA QUE SEÑALA LO DISPUESTO EN EL ARTICULO 28 DEL DECRETO LEY N° 249, DE 1973, PARA EL PERSONAL QUE INDICA Santiago, 4 de Febrero de 1974.- Con esta fecha se ha dictado el siguiente decreto ley: Núm. 304.- Visto: lo dispuesto en los decretos leyes N°s 1 y 9 y 128, la Junta de Gobierno ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Suspéndase hasta el 15 de Marzo de 1974 lo dispuesto en el artículo 28° del decreto ley N° 249, de 1973, para el personal señalado en el artículo segundo, letra g) del decreto supremo N° 349, de 21 de Noviembre de 1961, publicado en el Diario Oficial de 20 de Diciembre del mismo año y sus modificaciones posteriores. Igual suspensión regirá para el personal a que se refiere el artículo 23 de la ley N° 15.076, que ejerce sus funciones en Servicio de Urgencia y Residencia de Maternidades.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- Junta de Gobierno de la República de Chile, AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General de Carabineros, Director General.- Alberto Spoerer Covarrubias, Coronel de Aviación (S), Ministro de Salud Pública. Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Angel Guzmán Véliz, Comandante de Escuadrilla (S), Subsecretario de Salud Pública.
