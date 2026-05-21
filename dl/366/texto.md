@@ -1,9 +1,8 @@
 # Decreto Ley N° 366
-DIVIDE MINISTERIO DE GUERRA EN DOS SUBSECRETARIAS: GUERRA Y AVIACION, Y DEROGA LEY N° 5,077, DE 4 DE MARZO DE 1932, QUE FUSIONA MINISTERIOS DE GUERRA Y MARINA Y SUBSECRETARIA DE AVIACION, EN UN SOLO DEPARTAMENTO DE ESTADO, DENOMINADO "MINISTERIO DE DEFENSA NACIONAL".
-**Publicada:** 1932-08-11
-Divide Ministerio Guerra en dos Subsecretarías Núm. 366.- Santiago, 3 de Agosto de 1932.- El Presidente Provisional ha acordado y dicta el siguiente Decreto-ley:
-Artículo 1.o El Ministerio de Guerra y Aviación estará constituído por las Subsecretarías de Guerra y Aviación.
-Art. 2.o Derógase la ley N.o 5.077, de 4 de Marzo de 1932.
-Art. 3.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial.
+AUTORIZA A LAS EMPRESAS O SOCIEDADES QUE MANTENGAN EN SUS ACTIVOS MONEDAS EXTRANJERAS, PARA LIQUIDARLAS LIBREMENTE, EN EL PLAZO Y FORMA QUE INDICA
+**Publicada:** 1974-03-16
+**Versión:** 1974-06-10
+DECRETO LEY N° 366, DE 1974 Autoriza a las empresas o sociedades que mantengan en sus activos monedas extranjeras, para liquidarlas libremente, en el plazo y forma que indica (Publicado en el "Diario Oficial" N° 28.803, de 16 de marzo de 1974) NUM. 366.- Santiago, 13 de marzo de 1974.- Vistos: lo dispuesto en el decreto ley 1, de 11 de septiembre de 1973, la Junta de Gobierno de la República de Chile ha resuelto dictar el siguiente DECRETO LEY:
+Artículo único.- Autorízase a las empresas o sociedades que mantengan en sus activos monedas extranjeras debidamente contabilizadas, para liquidarlas libremente, antes del 31 de Marzo de 1974, a través de las instituciones autorizadas, al tipo de cambio del mercado bancario. Las diferencias en moneda corriente que se produzcan para la empresa o sociedad entre el valor de la adquisición o contabilización de las divisas y el de liquidación de las mismas, estará exenta del impuesto a la renta, exención que beneficiará exclusivamente a la empresa o sociedad.
 ---
-Tómese razón, comuníquese, publíquese e insértese en el Boletín de Leyes y Decretos del Gobierno. CARLOS DAVILA.- Joaquín Fernández F.- Pedro Lagos.
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General Director General de Carabineros.- Lorenzo Gotuzzo Borlando, Ministro de Hacienda. Lo que transcribo a US. para su conocimiento.- Dios guarde a US.- Victoria Arellano S., Subsecretario de Hacienda.
