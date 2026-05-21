@@ -1,13 +1,13 @@
 {
-  "idNorma": 6101,
+  "idNorma": 6102,
   "tipo": "Decreto Ley",
   "numero": "460",
-  "titulo": "",
+  "titulo": "EL CONSEJO DE DEFENSA FISCAL SERA UN SERVICIO\nINDEPENDIENTE DE LOS MINISTERIOS",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE JUSTICIA"
   ],
-  "fechaPublicacion": "1925-08-04",
-  "fechaPromulgacion": "1925-07-31",
-  "fechaVersion": "1925-08-04",
+  "fechaPublicacion": "1932-08-27",
+  "fechaPromulgacion": "1932-08-19",
+  "fechaVersion": "1932-08-27",
   "derogado": "no derogado"
 }
