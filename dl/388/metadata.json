@@ -1,13 +1,13 @@
 {
-  "idNorma": 6042,
+  "idNorma": 6043,
   "tipo": "Decreto Ley",
   "numero": "388",
-  "titulo": "",
+  "titulo": "TRASPASA FONDOS",
   "organismos": [
-    "MINISTERIO DE INSTRUCCIÓN PÚBLICA"
+    "MINISTERIO DE EDUCACIÓN PÚBLICA"
   ],
-  "fechaPublicacion": "1925-03-30",
-  "fechaPromulgacion": "1925-03-18",
-  "fechaVersion": "1960-04-06",
-  "derogado": "derogado"
+  "fechaPublicacion": "1932-08-17",
+  "fechaPromulgacion": "1932-08-06",
+  "fechaVersion": "1932-08-17",
+  "derogado": "no derogado"
 }
