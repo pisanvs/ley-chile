@@ -1,6 +1,6 @@
 # Decreto Ley N° 406
 **Publicada:** 1925-03-27
-**Versión:** 1928-09-11
+**Versión:** 1991-02-14
 Núm. 406.- Santiago, 19 de marzo de 1925.- La Junta de Gobierno, de acuerdo con el Consejo de Secretarios de Estado, dicta el siguiente: DECRETO-LEI: DE LOS COLEJIOS DE ABOGADOS
 ## ~~TITULO I De los Consejos~~
 ~~Artículo 1.o El ejercicio de la profesion de abogado está sujeto a las disposiciones de la presente lei.~~
