@@ -2,6 +2,7 @@
 ACLARA SENTIDO Y ALCANCE DEL DECRETO LEY N° 249, DE
 1973, DEL MINISTERIO DE HACIENDA
 **Publicada:** 1974-04-11
+**Versión:** 1979-02-09
 ACLARA SENTIDO Y ALCANCE DEL DECRETO LEY N° 249, DE 1973, DEL MINISTERIO DE HACIENDA Núm. 412.- Santiago, 8 de Abril de 1974.- Visto: lo dispuesto en los decretos leyes N°s 1, 128 y 249, de 1973, y Considerando la necesidad de dejar claramente establecido el verdadero alcance de las normas contenidas en el decreto ley N° 249, de 1973, sobre Escala Unica de Sueldos, a fin de evitar interpretaciones administrativas que se aparten del real espíritu que presidiera su dictación. La Junta de Gobierno ha acordado y dicta el siguiente Decreto ley:
 ~~Artículo único: Declárase, interpretando el alcance del decreto ley N° 249, de 31 de Diciembre de 1973, sobre Escala Unica de Sueldos, que la fijación de esta Escala y la ubicación en ella de los cargos de los personales afectos a sus disposiciones no han significado, para ningún efecto legal, estatutario ni previsional, la modificación o alteración de las plantas, escalafones, situación jerárquica, categorías y grados de los respectivos Servicios, entidades y organismos regidos por dicho cuerpo legal.~~
 ---
