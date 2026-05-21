@@ -1,13 +1,13 @@
 {
-  "idNorma": 5982,
+  "idNorma": 5983,
   "tipo": "Decreto Ley",
   "numero": "323",
-  "titulo": "",
+  "titulo": "SUPLEMENTA PRESUPUESTO MINISTERIO DEL INTERIOR",
   "organismos": [
-    "MINISTERIO DE HIGIENE, ASISTENCIA, PREVISIÓN SOCIAL Y TRABAJO"
+    "MINISTERIO DEL INTERIOR"
   ],
-  "fechaPublicacion": "1925-03-23",
-  "fechaPromulgacion": "1925-02-28",
-  "fechaVersion": "1925-03-23",
+  "fechaPublicacion": "1932-08-05",
+  "fechaPromulgacion": "1932-07-28",
+  "fechaVersion": "1932-08-05",
   "derogado": "no derogado"
 }
