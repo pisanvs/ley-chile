@@ -1,0 +1,7 @@
+# Decreto Ley N° 391
+SUSPENDE A CONTAR DE LA FECHA QUE INDICA LO DISPUESTO EN LOS INCISOS QUE SEÑALA DEL DFL. Nº 338, DE 1960
+**Publicada:** 1974-03-30
+SUSPENDE A CONTAR DE LA FECHA QUE INDICA LO DISPUESTO EN LOS INCISOS QUE SEÑALA DEL DFL. Nº 338, DE 1960 Núm. 391.- Santiago, 25 de Marzo de 1974.- Visto: lo dispuesto en el decreto ley Nº 1, de 11 de Septiembre de 1973, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Suspéndese, a contar del 1.o de Enero de 1974 y por el presente año, la aplicación de lo dispuesto en los incisos segundo y tercero del artículo 21.o del D.F.L. N.o 338, de 1960, respecto de aquellos nombramiento efectuados con posterioridad al 11 de Septiembre de 1973.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.- Oscar Bonilla Bradanovic, General de División, Ministro del Interior. Lo que transcribo a US. para su conocimiento.- Dios guarde a US.- Patricio Rogat Engel, Subsecretario de Hacienda subrogante.
