@@ -3239,6 +3239,186 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "6060": {
+    "idNorma": 6060,
+    "numero": "410",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-03-27",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6061": {
+    "idNorma": 6061,
+    "numero": "411",
+    "titulo": "REGULARIZA LO ACTUADO POR LA COMISION ORGANIZADORA DE LOS VII JUEGOS PANAMERICANOS Y PONE TERMINO A ESTA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-04-15",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6062": {
+    "idNorma": 6062,
+    "numero": "412",
+    "titulo": "ACLARA SENTIDO Y ALCANCE DEL DECRETO LEY N° 249, DE\n1973, DEL MINISTERIO DE HACIENDA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-04-11",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6063": {
+    "idNorma": 6063,
+    "numero": "415",
+    "titulo": "SUPLEMENTA ITEM QUE SEÑALA DEL PRESUPUESTO VIGENTE",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-04-11",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6064": {
+    "idNorma": 6064,
+    "numero": "416",
+    "titulo": "DECRETO-LEI N° 416, QUE MODIFICA LA LEI N° 3,929, SOBRE IMPUESTO A LAS DONACIONES Y ASIGNACIONES POR CAUSA DE MUERTE.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-03-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6065": {
+    "idNorma": 6065,
+    "numero": "416",
+    "titulo": "AUTORIZA GIRO DE SALDOS EXISTENTES EN CUENTAS DEL EX\nTRIBUNAL CONSTITUCIONAL PARA CANCELAR DEUDAS IMPAGAS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-04-19",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6066": {
+    "idNorma": 6066,
+    "numero": "418",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-03-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6067": {
+    "idNorma": 6067,
+    "numero": "420",
+    "titulo": "TRASPASO DE FONDOS PARA PAGAR PERSONAL A CONTRATA DE RECLUTAMIENTO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1932-09-02",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6068": {
+    "idNorma": 6068,
+    "numero": "420",
+    "titulo": "DECLARA COMPRENDIDOS EN LOS BENEFICIOS DE LAS LEYES 6.174 Y 6.501 A LOS FUNCIONARIOS DE LA CAJA DE PREVISION DE LA DEFENSA NACIONAL.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-04-22",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6069": {
+    "idNorma": 6069,
+    "numero": "421",
+    "titulo": "ESTABLECE SANCIONES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1932-08-16",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6070": {
+    "idNorma": 6070,
+    "numero": "422",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-04-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6071": {
+    "idNorma": 6071,
+    "numero": "423",
+    "titulo": "FIJA LA PLANTA DEL PERSONAL DE LA EMPRESA PORTUARIA DE CHILE PARA EL AÑO 1974; FACULTA AL DIRECTOR PARA SIMPLIFICAR EL SISTEMA REMUNERACIONAL DE LOS TRABAJADORES DE DICHO ORGANISMO AUTONOMO DEL ESTADO Y PARA REGLAMENTAR SUS DERECHOS Y OBLIGACIONES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-04-16",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6072": {
+    "idNorma": 6072,
+    "numero": "424",
+    "titulo": "APRUEBA LAS PLANTAS Y FIJA LA UBICACION EN LA ESCALA UNICA DEL PERSONAL DE LA EMPRESA DE COMERCIO AGRICOLA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-04-20",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6073": {
+    "idNorma": 6073,
+    "numero": "425",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-03-26",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6074": {
+    "idNorma": 6074,
+    "numero": "429",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-03-27",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6075": {
+    "idNorma": 6075,
+    "numero": "429",
+    "titulo": "ESTABLECE IMPUESTO PARA ATENDER LOS GASTOS QUE DEMANDE EL FOMENTO DEL TURISMO; Y DEROGA ARTICULO 2° DEL DECRETO-LEY N° 112, DE 30 DE JUNIO DE 1932, Y DISPOSICIONES CONTRARIAS DE LA LEY N° 4,585, DE 9 DE FEBRERO DE 1929, SOBRE TURISMO.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1932-09-02",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6076": {
+    "idNorma": 6076,
+    "numero": "429",
+    "titulo": "INCREMENTA EL ITEM QUE SEÑALA DEL PRESUPUESTO FISCAL VIGENTE.- OTRAS DISPOSICIONES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-04-27",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6077": {
+    "idNorma": 6077,
+    "numero": "430",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-03-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6078": {
+    "idNorma": 6078,
+    "numero": "431",
+    "titulo": "ESTABLECE SEGURO DE PASAJEROS EN LOS SERVICIOS\nESPECIALES DE LOCOMOCION COLECTIVA, ESCOLARES, TURISMO Y\nPEATONES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-05-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6079": {
+    "idNorma": 6079,
+    "numero": "433",
+    "titulo": "FONDOS PARA ATENDER AL PAGO DE LAS GRATIFICACIONES POR CAMBIO DE GUARNICION DEL PERSONAL DE CARABINEROS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1932-09-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "29815": {
     "idNorma": 29815,
     "numero": "18403",
