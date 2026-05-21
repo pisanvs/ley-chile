@@ -1,0 +1,7 @@
+# Decreto Ley N° 399
+FIJA NORMAS PARA NOMBRAMIENTOS QUE SEÑALA
+**Publicada:** 1974-04-06
+FIJA NORMAS PARA NOMBRAMIENTOS QUE SEÑALA Santiago, 1º de Abril de 1974.- Hoy se decretó lo que sigue: Núm. 399.- Vistos: los decretos leyes N.os 1, 60 y 128, de 1973, la Junta de Gobierno de la República de Chile ha resuelto dictar el siguiente Decreto ley:
+Artículo único.- Cuatro cargos de Cónsules Generales de primera clase y dos cargos Cónsules Generales de Segunda Clase, de la Planta del Servicio Exterior del Ministerio de Relaciones Exteriores, Presupuesto en dólares, serán, por una sola vez, de libre designación del Ejecutivo, debiendo recaer los correspondientes nombramientos en ciudadanos chilenos no pertenecientes a dicha Planta.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Patricio Carvajal Prado, Ministro de Defensa Nacional y subrogante de Relaciones Exteriores. Lo que transcribo a US. para su conocimiento.- Carlos Valenzuela Montenegro, Subsecretario de Relaciones Exteriores subrogante.
