@@ -1,13 +1,13 @@
 {
-  "idNorma": 6086,
+  "idNorma": 6087,
   "tipo": "Decreto Ley",
   "numero": "443",
-  "titulo": "MODIFICA EL ARTÍCULO 6° DE LA LEY N° 5,005",
+  "titulo": "MODIFICA ARTICULO 1° DEL DECRETO LEY N° 249, DE 1974",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE ECONOMÍA"
   ],
-  "fechaPublicacion": "1932-08-25",
-  "fechaPromulgacion": "1932-08-18",
-  "fechaVersion": "1932-08-25",
+  "fechaPublicacion": "1974-05-07",
+  "fechaPromulgacion": "1974-04-22",
+  "fechaVersion": "1974-05-07",
   "derogado": "no derogado"
 }
