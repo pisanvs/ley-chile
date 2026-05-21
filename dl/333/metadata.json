@@ -1,13 +1,13 @@
 {
-  "idNorma": 5991,
+  "idNorma": 5992,
   "tipo": "Decreto Ley",
   "numero": "333",
-  "titulo": "",
+  "titulo": "FIJA CONDICIONES PARA QUE LAS EMPRESAS QUE INDICA NORMALICEN SU SITUACION DEUDORA CON LOS ORGANISMOS QUE SEñALA.",
   "organismos": [
-    "MINISTERIO DE OBRAS PÚBLICAS"
+    "MINISTERIO DE HACIENDA"
   ],
-  "fechaPublicacion": "1925-04-01",
-  "fechaPromulgacion": "1915-03-12",
-  "fechaVersion": "1925-04-01",
+  "fechaPublicacion": "1974-02-25",
+  "fechaPromulgacion": "",
+  "fechaVersion": "1979-05-16",
   "derogado": "no derogado"
 }

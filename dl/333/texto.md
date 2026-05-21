@@ -1,8 +1,5 @@
 # Decreto Ley N° 333
-**Publicada:** 1925-04-01
-Núm. 333.- Santiago, 12 de marzo de 1925.- La Junta de Gobierno, de acuerdo con el Consejo de Secretarios de Estado, dicta el siguiente DECRETO-LEI:
-Artículo 1.o Sustitúyese el ítem número 175 del Presupuesto del Ministerio de Obras y Vias Públicas, que consulta la cantidad de cien mil pesos ($ 100,000), para iniciar el ensanche del edificio de dicho Ministerio, por el siguiente: Item 175 Subvencion al taller de resistencia de la Escuela de Injeniería_________ $ 10,000
-Art. 2.o Redúcense en las siguientes cantidades los ítem que se indican: Item 180, se reduce en $ 100,000 y queda con un total de $ 300,000. Item 67, se reduce en $ 8,000 y queda con un total de $ 1,600.
-Art. 3.o El sobrante de $ 90,000 del ítem 175 y las reducciones de los ítem 180 y 67, se destinarán a aumentar los siguientes ítem del Presupuesto del Ministerio de Obras y Vias Públicas: Item 65, se aumenta en $ 2,000 y queda con un total de $ 46,200. Item 98, se aumenta en $ 3,060 y queda con un total de $ 9,600, y con la siguiente distribucion: sueldo del bodeguero, $ 6,000, sueldo del portero, $ 3,600, debiendo pagárseles, a contar desde el 1.o de enero. Item 661. se aumenta en $ 12,000 y queda con un total de $ 48,000. Item 662, se aumenta en $ 10,000 y queda con un total de $ 20,000, y se le agrega a la glosa la siguiente frase: ("Artículo 22 de la lei número 2,846, de 29 de enero de 1914"). Item 140, se aumenta en $ 168,690, y queda con un total de $ 1.215,690. Item 108, se aumenta en $ 2,250 y queda con un total de $ 12,250, y se le agrega a la glosa la siguiente frase ("y de desahucio por supresion de empleos, pudiendo imputarse con este último objeto hasta la suma de $ 2,250")
----
-Tómese razon, comuníquese, publíquese e insértese en el Boletin de las Leyes y Decretos del Gobierno.- Emilio Bello C.- C. A. Ward.- Pedro P. Dartnell E.- F. Mardónes.
+FIJA CONDICIONES PARA QUE LAS EMPRESAS QUE INDICA NORMALICEN SU SITUACION DEUDORA CON LOS ORGANISMOS QUE SEñALA.
+**Publicada:** 1974-02-25
+**Versión:** 1979-05-16
+Fija condiciones para que las empresas que indica normalicen su situación deudora con los organismos que señala.
