@@ -1,13 +1,13 @@
 {
-  "idNorma": 6113,
+  "idNorma": 6114,
   "tipo": "Decreto Ley",
   "numero": "476",
-  "titulo": "CONVOCA A ELECCIONES GENERALES DE UN CONGRESO CONSTITUYENTE PARA EL 30 DE OCTUBRE DE 1932.",
+  "titulo": "DEROGA, A CONTAR DEL 1° DE MAYO DE 1974, EL N° 9 DEL ARTICULO 191° DEL CODIGO DEL TRABAJO.",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE DEFENSA NACIONAL"
   ],
-  "fechaPublicacion": "1932-08-25",
-  "fechaPromulgacion": "1932-08-23",
-  "fechaVersion": "1932-08-25",
+  "fechaPublicacion": "1974-06-05",
+  "fechaPromulgacion": "1974-05-27",
+  "fechaVersion": "1974-06-05",
   "derogado": "no derogado"
 }
