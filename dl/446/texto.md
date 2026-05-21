@@ -1,7 +1,7 @@
 # Decreto Ley N° 446
 REAJUSTA, A CONTAR DEL 1° DE MAYO DE 1974, LOS SUELDOS DEL SECTOR PUBLICO Y PRIVADO
 **Publicada:** 1974-05-02
-**Versión:** 1974-06-22
+**Versión:** 1974-06-29
 REAJUSTA, A CONTAR DEL 1° DE MAYO DE 1974, LOS SUELDOS DEL SECTOR PUBLICO Y PRIVADO Núm. 446.- Santiago, 1° de Mayo 1974.- Vistos: lo dispuesto en el decreto ley N° 1, de 11 Septiembre de 1973, la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
 ## TITULO I Sector Público
 Artículo 1°- Reajustanse, a contar del 1° de Mayo de 1974, en un 30%, los sueldos de la escala única fijada en el artículo 1° del decreto ley N° 249, de 1973. Este reajuste no podrá ser inferior a E° 9.000, cantidad en que se aumentarán, en consecuencia, los sueldos de los grados 30 a 35.
