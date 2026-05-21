@@ -2150,12 +2150,192 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "5923": {
+    "idNorma": 5923,
+    "numero": "269",
+    "titulo": "DISPONE QUE EN LOS SERVICIOS DE ADMINISTRACION DEL\nESTADO NO SE EFECTUE EL PROCESO CALIFICATORIO QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-01-17",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "5924": {
     "idNorma": 5924,
     "numero": "271",
     "titulo": "MODIFICA DECRETO-LEY NÚMERO 48, DE 1932",
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1932-07-26",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5925": {
+    "idNorma": 5925,
+    "numero": "271",
+    "titulo": "ELIMINA DE LA APLICACION DEL ARTICULO 1° DEL DL N° 249, DE 1974, A LAS ENTIDADES QUE INDICA.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-01-19",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5926": {
+    "idNorma": 5926,
+    "numero": "272",
+    "titulo": "DEROGA DECRETO-LEY 139 DE 5 DE JULIO ULTIMO",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1932-07-25",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5927": {
+    "idNorma": 5927,
+    "numero": "272",
+    "titulo": "FIJA UBICACION EN LA ESCALA UNICA PARA LOS;TRABAJADORES QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-01-18",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5929": {
+    "idNorma": 5929,
+    "numero": "275",
+    "titulo": "ESTABLECE NORMAS PARA LA DETERMINACION DE LAS\nREMUNERACIONES DEL SECTOR PRIVADO A PARTIR DE ENERO DE\n1974",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-01-18",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5930": {
+    "idNorma": 5930,
+    "numero": "277",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-03-03",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5932": {
+    "idNorma": 5932,
+    "numero": "279",
+    "titulo": "DECRETO-LEI N° 279, QUE ORGANIZA LA ADMINISTRACION Y ESPLOTACION DEL PUERTO DE VALPARAISO.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-03-03",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5933": {
+    "idNorma": 5933,
+    "numero": "281",
+    "titulo": "SR",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-03-04",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5934": {
+    "idNorma": 5934,
+    "numero": "282",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-03-03",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5935": {
+    "idNorma": 5935,
+    "numero": "283",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-03-05",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5936": {
+    "idNorma": 5936,
+    "numero": "284",
+    "titulo": "SUSTITUYE EL ARTICULO 131 DE LA LEY N° 16.640",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-01-25",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5937": {
+    "idNorma": 5937,
+    "numero": "285",
+    "titulo": "DECRETO-LEI N° 285, QUE DECLARA EN ESTADO DE SITIO LAS PROVINCIAS DE SANTIAGO, VALPARAISO Y ACONCAGUA.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1925-03-02",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5938": {
+    "idNorma": 5938,
+    "numero": "285",
+    "titulo": "TRASPASA $ 257,275 DEL ITEM 02|02|03 (DIETA PARLAMENTARIA) A 04|02|04|F (MINISTERIO DEL INTERIOR, GASTOS VARIABLES) Y A 04/04/04.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1932-07-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5939": {
+    "idNorma": 5939,
+    "numero": "285",
+    "titulo": "MODIFICA EL INCISO SEGUNDO DEL ARTICULO 1° DEL\nDECRETO LEY N° 81, DE 1973",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1974-01-26",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5940": {
+    "idNorma": 5940,
+    "numero": "286",
+    "titulo": "RESTABLECE GRATIFICACION DE 20% SOBRE SUELDOS FIJADOS EN EL ARTICULO 4° DEL DECRETO-LEY N° 246, DE 10 DE FEBRERO DE 1925, QUE AUMENTA SUELDOS A EMPLEADOS DE CORREOS Y TELEGRAFOS, AL PERSONAL DE AMBULANTES DE CORREOS EN SERVICIO EN LAS LINEAS DE FERROCARRILES.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1932-07-29",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5942": {
+    "idNorma": 5942,
+    "numero": "291",
+    "titulo": "MODIFICA LA LEY N° 16.272, SOBRE TIMBRES,\nESTAMPILLAS Y PAPEL SELLADO",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1974-01-30",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5943": {
+    "idNorma": 5943,
+    "numero": "292",
+    "titulo": "MODIFICA EL ARTICULO 1° DE LA LEY 12.120, SOBRE IMPUESTO A LAS COMPRA-VENTAS Y OTRAS CONVENCIONES SOBRE BIENES Y SERVICIOS",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1974-01-30",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5944": {
+    "idNorma": 5944,
+    "numero": "293",
+    "titulo": "MODIFICA LA LEY Nº 11.704, SOBRE RENTAS MUNICIPALES",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1974-01-30",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5945": {
+    "idNorma": 5945,
+    "numero": "294",
+    "titulo": "FIJA UBICACION EN LA ESCALA UNICA PARA LOS TRABAJADORES DE LA OFICINA DE PLANIFICACION AGRICOLA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-01-31",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "5946": {
+    "idNorma": 5946,
+    "numero": "295",
+    "titulo": "FIJA UBICACION EN LA ESCALA UNICA PARA LOS TRABAJADORES;DE LA JUNTA DE GOBIERNO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1974-01-31",
     "modifica": [],
     "modificadaPor": []
   },
