@@ -2,6 +2,7 @@
 ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE DEFENSA
 NACIONAL
 **Publicada:** 1925-06-13
+**Versión:** 1960-04-05
 Núm. 403.- Santiago, 19 de marzo de 1925. - La Junta de Gobierno, de acuerdo con el Consejo de Secretarios de Estado, dicta el siguiente DECRETO-LEI: ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE DEFENSA NACIONAL.
 I
 ~~Artículo 1.o El Consejo de Defensa Nacional tendrá por mision estudiar las cuestiones relativas a la preparacion de la Defensa Nacional especialmente de aquellas en que sea necesaria la cooperacion de varios departamentos ministeriales o de otros organismos.~~
