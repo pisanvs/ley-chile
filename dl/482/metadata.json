@@ -1,14 +1,13 @@
 {
-  "idNorma": 6122,
+  "idNorma": 6123,
   "tipo": "Decreto Ley",
   "numero": "482",
-  "titulo": "Agregado al artículo 6.o de la ley N.o 5,005",
+  "titulo": "DECLARA VIGENTE EL IMPUESTO DEL 2% ESTABLECIDO EN LA;LETRA h) DEL ARTICULO 53 DE LA LEY N° 10.383. OTRAS;DISPOSICIONES",
   "organismos": [
-    "MINISTERIO DE DEFENSA NACIONAL",
-    "SUBSECRETARIA DE MARINA"
+    "MINISTERIO DE HACIENDA"
   ],
-  "fechaPublicacion": "1932-09-02",
-  "fechaPromulgacion": "1932-08-24",
-  "fechaVersion": "1932-09-02",
+  "fechaPublicacion": "1974-05-29",
+  "fechaPromulgacion": "1974-05-27",
+  "fechaVersion": "1974-05-29",
   "derogado": "no derogado"
 }
