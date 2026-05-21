@@ -1,13 +1,13 @@
 {
-  "idNorma": 6055,
+  "idNorma": 6056,
   "tipo": "Decreto Ley",
   "numero": "406",
-  "titulo": "",
+  "titulo": "CONSULTA FONDOS",
   "organismos": [
-    "MINISTERIO DE JUSTICIA"
+    "MINISTERIO DEL INTERIOR"
   ],
-  "fechaPublicacion": "1925-03-27",
-  "fechaPromulgacion": "1925-03-19",
-  "fechaVersion": "1991-02-14",
-  "derogado": "derogado"
+  "fechaPublicacion": "1932-08-20",
+  "fechaPromulgacion": "1932-08-11",
+  "fechaVersion": "1932-08-20",
+  "derogado": "no derogado"
 }
