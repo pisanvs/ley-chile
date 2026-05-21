@@ -1,0 +1,12 @@
+# Decreto Ley N° 325
+COMPLEMENTA DECRETO CON FUERZA DE LEY
+**Publicada:** 1932-08-26
+COMPLEMENTA DECRETO CON FUERZA DE LEY Núm. 325.- Santiago, 29 de Julio de 1932.- Visto lo informado por la Contraloría General de la República, he acordado y dictado el siguiente: Decreto-ley: Se complementa el decreto con fuerza de ley N° 221 de 15 de Mayo de 1931, con los siguientes artículos:
+Artículo 1°.- En el Reglamento dictado de acuerdo con lo dispuesto en el artículo 92 del decreto-ley N° 221 de 15 de Mayo de 1931, podrán sancionarse hasta con $ 500, las faltas cometidas por infracción a sus disposiciones.
+Art. 2°. En el Reglamento aludido en el artículo precedente se establecerán las tasas que corresponda cobrar por los Registros de Matrícula, certificados de revisión u otros que fije el Reglamento y las tarifas por las que deben regirse los Aeropuertos y Aeródromos.
+Art. 3°.- Las tasas, multas y tarifas contempladas en los artículos precedentes podrán ser modificadas por el Presidente de la República cuando lo estime conveniente.
+Art. 4°.- La autoridad aeronáutica que corresponda según el Reglamento de la Ley de Navegación Aérea, queda facultada para recabar el pago de los servicios y multas a que se refieren los artículos precedentes.
+Art. 5°.- Todos los fondos recaudados en cumplimientos de las disposiciones contenidas en el decreto-ley número 221 de 15 de Mayo de 1931, y en su Reglamento complementario, serán depositados en la Dirección de Aeronáutica (Administración de Caja), en la cuenta "Protección de la Aviación Civil Nacional". La Dirección de Aeronáutica será el órgano encargado de la distribución de estos fondos para los fines a que estén destinados y los girará cuando lo estime conveniente.
+Art. 6°.- Substitúyese la primera parte del artículo 15 del decreto-ley N° 221 de 15 de Mayo de 1931, que dice: "Toda aeronave que pase las fronteras para aterrizar en territorio chileno, deberá hacerlo en el primer puerto aéreo que esté dentro de su ruta", por lo siguiente: "Las aeronaves, tanto extranjeras como chilenas, procedentes del extranjero o que allí se dirijan, estarán obligadas a atravesar las fronteras por los puntos determinados en el Reglamento respectivo y a hacer uso de los aeródromos fronterizos, denominados aeropuertos, en los que visarán sus documentos, tanto en su aterrizaje de llegada como al partir".
+---
+Anótese, tómese razón, regístrese y publíquese en el Diario Oficial y Boletín de Leyes del Gobierno.- CARLOS DAVILA.- Pedro Lagos.
