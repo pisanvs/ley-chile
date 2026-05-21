@@ -1,0 +1,8 @@
+# Decreto Ley N° 384
+DECLARA DE EXCLUSIVA CONFIANZA DE LA JUNTA DE GOBIERNO EL CARGO DE DIRECTOR GENERAL DE INVESTIGACIONES
+**Publicada:** 1974-03-28
+DECLARA DE EXCLUSIVA CONFIANZA DE LA JUNTA DE GOBIERNO EL CARGO DE DIRECTOR GENERAL DE INVESTIGACIONES Santiago, 25 de Marzo de 1974.- La Junta de Gobierno de la República de Chile decretó hoy lo que sigue: Núm. 384.- Visto: lo dispuesto en los decretos leyes Nºs 1 y 128, de 1973, y, Considerando: a) Las delicadas funciones en resguardo de la Seguridad Interior del Estado que le corresponde cumplir a la Dirección General de Investigaciones; b) La imperiosa necesidad de que la dirección máxima del citado Servicio sea desempeñada por un funcionario de la exclusiva confianza del Supremo Gobierno; La Junta de Gobierno ha acordado dictar el siguiente Decreto ley:
+Artículo 1º.- Declárase que el cargo de Director General de Investigaciones es de la exclusiva confianza de la Junta de Gobierno, para todos los efectos legales.
+Artículo 2º.- El presente decreto ley regirá a contar del 12 de Marzo de 1974.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Oscar Bonilla Bradanovic, General de División, Ministro del Interior. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Montero Marx, Subsecretario del Interior.
