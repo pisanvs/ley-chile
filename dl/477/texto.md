@@ -1,0 +1,9 @@
+# Decreto Ley N° 477
+CONCEDE NUEVO PLAZO PARA QUE LA CAJA DE PREVISION DE
+LA DEFENSA NACIONAL DE CUMPLIMIENTO A LO DISPUESTO EN EL
+ARTICULO 2° DEL DECRETO LEY N° 171, DE 1973
+**Publicada:** 1974-06-06
+CONCEDE NUEVO PLAZO PARA QUE LA CAJA DE PREVISION DE LA DEFENSA NACIONAL DE CUMPLIMIENTO A LO DISPUESTO EN EL ARTICULO 2° DEL DECRETO LEY N° 171, DE 1973 Núm. 477.- Santiago, 27 de Mayo de 1974.- Visto: lo dispuesto en los decretos leyes número 1 y 128, de 11 de Septiembre y 16 de Noviembre de 1973, Considerando: Que se encuentra vencido el plazo establecido en el artículo 2° del decreto ley N° 171, de 1973, y La necesidad de establecer un nuevo plazo para los fines allí señalados, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Concédese un nuevo plazo de ciento ochenta días para que la Caja de Previsión de la Defensa Nacional dé cumplimiento a lo dispuesto en el artículo 2° del decreto ley N° 171, de 14 de Diciembre de 1973.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros de Chile e Investigaciones y en la Recopilación Oficial de la citada Contraloría General.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Patricio Carvajal Prado, Vicealmirante, Ministro de Defensa Nacional.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda. Lo que se transcribe para su conocimiento.- Ernesto Jobet Ojeda, Contraalmirante, Subsecretario de Marina.
