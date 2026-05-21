@@ -1,6 +1,7 @@
 # Decreto Ley N° 470
 CREA CARGO DE DIRECTOR DE LA CASA DE MENORES DE SANTIAGO
 **Publicada:** 1932-08-31
+**Versión:** 1933-04-05
 Crea cargo de director de la Casa de Menores de Santiago Núm. 470.- Santiago, 23 de Agosto de 1932.- He acordado y dicto el siguiente Decreto- ley:
 ~~Art. 1.o Sepáranse las funciones de director de la Casa de Menores de Santiago de las de director general de Protección de Menores.~~
 ~~Art. 2.o Fíjase en $ 15,000 anuales el sueldo asignado al cargo de director general de Protección de Menores.~~
