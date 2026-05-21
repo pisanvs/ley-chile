@@ -1,0 +1,7 @@
+# Decreto Ley N° 284
+SUSTITUYE EL ARTICULO 131 DE LA LEY N° 16.640
+**Publicada:** 1974-01-25
+SUSTITUYE EL ARTICULO 131 DE LA LEY N° 16.640 Núm. 284.- Santiago, 22 de Enero de 1974.- Vistos: lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, y Teniendo presente: Que la cantidad autorizada por la ley N° 16.640 para la emisión de Bonos de la Reforma Agraria está totalmente copada, lo que impide llevar adelante los trámites correspondientes respecto de más de 3.500 predios cuya expropiación está acordada, La Junta de Gobierno de la República de Chile ha acordado la dictación del siguiente Decreto ley:
+Artículo único.- Sustitúyese, en el artículo 131 de la ley número 16.640 el guarismo "E° 1.000.000.000" por "E° 6.000.000.000.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN. General, Director General de Carabineros.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.- Sergio Crespo Montero, Coronel de Aviación (R), Ministro de Agricultura. Lo que transcribo a US. para su conocimiento.- Dios guarde a US.- Victoria Arellano S., Subsecretario de Hacienda.
