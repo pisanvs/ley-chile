@@ -1,5 +1,6 @@
 # Decreto Ley N° 442
 **Publicada:** 1925-04-06
+**Versión:** 1931-05-28
 Núm. 442.- Santiago, 20 de marzo de 1925.- La Junta de Gobierno, de acuerdo con el Consejo de Secretarios de Estado, ha acordado y dicta el siguiente DECRETO-LEI:
 De la proteccion a la Maternidad Obrera
 ~~Artículo 1.o Las obreras, durante el período de embarazo, tendrán derecho a un descanso que comprenderá, cuarenta dias ántes del alumbramiento y veinte dias despues. Durante este periodo el patron o empresario estará obligado, no obstante cualquiera estipulacion en contrario, a reservarle el puesto y pagarle el cincuenta por ciento del salario.~~
