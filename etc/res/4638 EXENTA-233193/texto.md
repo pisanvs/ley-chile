@@ -32,11 +32,15 @@ Cada contenedor deberá estar en buenas condiciones, operando, con puertas de ci
 
 1.2.5. En caso de transporte terrestre, la partida deberá venir en camión frigorífico o en contenedores con sello oficial, lo cual permita asegurar la condición fitosanitaria del embarque y la no contaminación.
 
-2.- El SAG, previo inicio de cada temporada de exportación, emitirá una resolución donde especificará las plantas de tratamiento cuarentenario y empacadoras autorizadas para exportar a Chile. Aquellas plantas/empacadoras que exportaron la temporada previa sin problemas, automáticamente serán aprobadas para la temporada siguiente, una vez enviado los antecedentes que acrediten la aprobación por parte de SDA.
+2.- Los envíos de frutos frescos de mango deben provenir de empacadoras y plantas de tratamiento hidrotérmico registradas y aprobadas por la autoridad fitosanitaria brasilera y, adicionalmente, autorizadas mediante resolución de habilitación vigente emitida por el SAG para cada temporada de exportación.
 
 3.- Al arribo al país, la partida será inspeccionada por los profesionales del Servicio destacados en el puerto habilitado de ingreso, quienes verificarán el cumplimiento de los requisitos y condiciones fitosanitarias, y con la documentación adjunta, resolverán su internación.
 
-4. Elimínese, temporalmente, a consecuencia de la pandemia ocasionada por la COVID-19, el requisito relacionado con las verificaciones presenciales realizadas por SAG a empacadoras, y sus plantas de tratamiento hidrotérmico, que no dispongan de revisiones previas efectuadas por la autoridad fitosanitaria chilena, y que hayan solicitado al MAPA de Brasil ingresar al programa de exportación de frutos de mango (Mangifera indica), para consumo, producidos en territorio brasilero, a Chile.
+4. SAG podrá ejecutar auditorías en origen a partir de la quinta temporada de funcionamiento con los lineamientos de la Adenda del Plan de Trabajo aprobada a través de resolución exenta SAG N° 4.111 de 2026.
+
+La detección de incumplimientos durante las inspecciones en destino, desde la entrada en vigor de la mencionada Adenda, podrá originar una auditoría extraordinaria, cuyos costos deberán ser asumidos por la parte interesada.
+
+Para ambos casos SAG coordinará las actividades con la autoridad fitosanitaria brasilera, previamente.
 
 5. Deléguese, en MAPA de Brasil, las actividades de verificación en las nuevas empacadoras y plantas de tratamiento hidrotérmico que soliciten ingresar por primera vez al programa de exportación a Chile, y cuyo detalle consta en el "Plan de trabajo para la exportación de mangos desde Brasil a Chile".
 
