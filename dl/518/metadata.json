@@ -1,13 +1,14 @@
 {
-  "idNorma": 6153,
+  "idNorma": 6154,
   "tipo": "Decreto Ley",
   "numero": "518",
-  "titulo": "DISPOSICIONES QUE SE APLICARAN A LOS IMPONENTES PERIODISTAS DE LA CAJA NACIONAL DE EMPLEADOS PUBLICOS Y PERIODISTAS",
+  "titulo": "REEMPLAZA ARTICULO 24 DEL DECRETO LEY Nº 316, DE 1974, DE LA CORPORACION DE FOMENTO A LA PRODUCCION",
   "organismos": [
-    "MINISTERIO DE HACIENDA"
+    "MINISTERIO DE ECONOMÍA, FOMENTO Y RECONSTRUCCIÓN",
+    "SUBSECRETARIA DE ECONOMIA, FOMENTO Y ECONSTRUCCION"
   ],
-  "fechaPublicacion": "1932-09-07",
-  "fechaPromulgacion": "1932-08-30",
-  "fechaVersion": "1932-09-07",
+  "fechaPublicacion": "1974-06-15",
+  "fechaPromulgacion": "1974-06-10",
+  "fechaVersion": "1974-06-15",
   "derogado": "no derogado"
 }
