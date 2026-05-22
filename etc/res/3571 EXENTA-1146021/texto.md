@@ -296,7 +296,7 @@ La Revocación puede tener su origen una medida por incumplimiento, o por la ocu
 
 ### 1. Revocación como medida por incumplimiento
 
-La Revocación como medida por incumplimiento, trae aparejada la inhabilidad para postular nuevamente a dicha autorización por el plazo de dos (2) años, contados desde que quede ejecutoriada la resolución exenta que la establece.
+La evocación como medida por incumplimiento, trae aparejada la inhabilidad para postular como tercero autorizado por el plazo de cinco (5) años, contados desde que quede ejecutoriada la resolución exenta que la establece.
 
 Asimismo, se dará curso al cobro de la garantía, respecto de la autorización que se revoca.
 
