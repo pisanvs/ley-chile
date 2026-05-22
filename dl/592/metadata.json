@@ -1,13 +1,13 @@
 {
-  "idNorma": 6218,
+  "idNorma": 6219,
   "tipo": "Decreto Ley",
   "numero": "592",
-  "titulo": "",
+  "titulo": "DECLARA APLICABLES A LA COMPAÑIA MINERA ANDINA LAS DISPOSICIONES QUE SEÑALA.",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE HACIENDA"
   ],
-  "fechaPublicacion": "1925-10-10",
-  "fechaPromulgacion": "1925-10-09",
-  "fechaVersion": "1925-10-10",
+  "fechaPublicacion": "1974-08-21",
+  "fechaPromulgacion": "1974-07-11",
+  "fechaVersion": "1974-08-21",
   "derogado": "no derogado"
 }
