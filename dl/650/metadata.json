@@ -1,13 +1,13 @@
 {
-  "idNorma": 6257,
+  "idNorma": 6258,
   "tipo": "Decreto Ley",
   "numero": "650",
-  "titulo": "",
+  "titulo": "Introduce algunas modificaciones en el Código de\nJusticia Militar",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE GUERRA Y AVIACIÓN"
   ],
-  "fechaPublicacion": "1925-10-26",
-  "fechaPromulgacion": "1925-10-21",
-  "fechaVersion": "1925-10-26",
+  "fechaPublicacion": "1932-09-29",
+  "fechaPromulgacion": "1932-09-26",
+  "fechaVersion": "1932-09-29",
   "derogado": "no derogado"
 }
