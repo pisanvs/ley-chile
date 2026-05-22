@@ -1,13 +1,13 @@
 {
-  "idNorma": 6209,
+  "idNorma": 6210,
   "tipo": "Decreto Ley",
   "numero": "575",
-  "titulo": "",
+  "titulo": "REGIONALIZACION DEL PAIS",
   "organismos": [
-    "MINISTERIO DE HACIENDA"
+    "MINISTERIO DEL INTERIOR"
   ],
-  "fechaPublicacion": "1925-10-02",
-  "fechaPromulgacion": "1925-09-29",
-  "fechaVersion": "1925-10-02",
+  "fechaPublicacion": "1974-07-13",
+  "fechaPromulgacion": "1974-07-10",
+  "fechaVersion": "1974-07-13",
   "derogado": "no derogado"
 }
