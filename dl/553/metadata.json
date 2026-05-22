@@ -1,13 +1,14 @@
 {
-  "idNorma": 6184,
+  "idNorma": 6185,
   "tipo": "Decreto Ley",
   "numero": "553",
-  "titulo": "SUPLEMENTA EL PRESUPUESTO DE INTERIOR EN $\n1,558,122.32",
+  "titulo": "FIJA UBICACION EN LA ESCALA UNICA PARA EL PERSONAL DE LA EMPRESA DE TRANSPORTES COLECTIVOS DEL ESTADO",
   "organismos": [
-    "MINISTERIO DEL INTERIOR"
+    "MINISTERIO DE OBRAS PÚBLICAS Y TRANSPORTES",
+    "SUBSECRETARIA DE TRANSPORTES"
   ],
-  "fechaPublicacion": "1932-09-15",
-  "fechaPromulgacion": "1932-09-06",
-  "fechaVersion": "1932-09-15",
+  "fechaPublicacion": "1974-07-05",
+  "fechaPromulgacion": "1974-07-01",
+  "fechaVersion": "1974-07-05",
   "derogado": "no derogado"
 }
