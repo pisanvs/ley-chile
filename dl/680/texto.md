@@ -1,6 +1,7 @@
 # Decreto Ley N° 680
 ESTABLECE FECHA DE CELEBRACION DEL DIA DEL MAESTRO
 **Publicada:** 1974-10-10
+**Versión:** 1977-10-08
 ESTABLECE FECHA DE CELEBRACION DEL DIA DEL MAESTRO Núm. 680.- Santiago, 1° de Octubre de 1974. Vistos: Lo dispuesto en los decretos leyes N°s. 1y 128, de 11 de Septiembre y 16 de Noviembre de 1973, respectivamente, y N° 527, de 17 de Junio de 1974, y Considerando: 1°.- Que el 10 de Diciembre de 1945 se otorgó el Premio Nobel de Literatura a Gabriela Mistral, insigne poetisa y maestra chilena; 2°.- Que este máximo reconocimiento constituye uno de los valores de la vida nacional de más permanente vigencia y prestigio universal, y 3°.- Que se estima legítimo y acertado asociar el aniversario de la distinción que significa el Premio Nobel de Literatura con la fecha que la comunidad escolar chilena destina a las actividades y fiestas que se realizan en homenaje a los Educadores, La Junta de Gobierno de la República de Chile ha resuelto dictar el siguiente Decreto ley:
 ~~Artículo único.- Sustitúyese el inciso primero del artículo 1° de la ley N° 16.662, publicado en el Diario Oficial del 8 de Septiembre de 1967, por el siguiente: "Artículo 1°.- Declárase "DIA DEL MAESTRO" el 10 de Diciembre, destinado a las actividades y fiestas que padres, apoderados y alumnos realicen en homenaje a los educadores, ya sea en actos públicos o privados".~~
 ---
