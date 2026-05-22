@@ -1,6 +1,7 @@
 # Decreto Ley N° 637
 SUPRIME LOS TRIBUNALES ESPECIALES CREADOS POR LOS DECRETOS LEYES N.ºS 100 Y 314 DEL PRESENTE AÑO
 **Publicada:** 1932-09-22
+**Versión:** 1932-09-23
 Suprime los tribunales especiales creados por los decretos-leyes N.os 100 y 314 del presente año Núm. 637.- Santiago, 21 de Septiembre de 1932.- Considerando: Que la aplicación de las disposiciones de los decretos-leyes N.os 100 y 314, en lo que se refiere a la organización y procedimiento ante los tribunales especiales, han producido inconvenientes en la práctica que es necesario corregir, El Presidente Provincial de la República, de acuerdo con los Ministros del Despacho, dicta el siguiente, Decreto-ley:
 Artículo 1.o Suprímense los tribunales creados por los decretos-leyes N.os 100, de 21 de Junio de 1932 y 314, de 28 de Julio del mismo año.
 Art. 2.o Corresponde a los tribunales establecidos en el presente decreto-ley, el conocimiento de los delitos contemplados en el Título del Libro II del Código Penal, Título IV, y párrafo I del Título V del Código de Justicia Militar, leyes N.os 4,935 y 5,091, y decreto-ley N.o 50, de 21 de Junio de 1932, y N.o 421, de 13 de Agosto del mismo año.
