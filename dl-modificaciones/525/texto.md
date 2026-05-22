@@ -1,0 +1,8 @@
+# Decreto Ley N° 525
+MODIFICA LA LEY N° 12.120
+**Publicada:** 1974-06-19
+MODIFICA LA LEY N° 12.120 Núm. 525.- Santiago, 17 de Junio de 1974.- Vistos: lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo 1°- Intercálase en la letra a) del N° 1 del artículo 18° de la ley número 12.120, entre las palabras "garbanzos" y "huevos", la palabra "arvejas,". En la misma letra y número señalado anteriormente, intercálase entre las palabras "sal" y "harinas de cereales o de legumbres", las palabras "fideos en general,".
+Artículo 2°- La modificación contenida en el inciso segundo del artículo anterior, regirá a contar del día 13 de Junio de 1974. Sin embargo, los contribuyentes que entre dicha fecha y la publicación de este decreto ley hayan celebrado convenciones relativas a fideos en general, deberán declarar y enterar en arcas fiscales el impuesto de compraventas que hubieren difundido, en la forma y dentro de los plazos normales correspondientes.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda. Lo que transcribo a U. para su conocimiento.- Saluda atentamente a Ud.- Victoria Arellano Stark, Subsecretario de Hacienda.
