@@ -1,7 +1,8 @@
 # Decreto Ley N° 732
-**Publicada:** 1925-12-01
-Núm. 732.- Santiago, 1.o de diciembre de 1925.- Visto lo dispuesto en el decreto-lei número 618, de 17 de octubre próximo pasado, y de acuerdo con el Consejo de Ministros del Despacho, dicto el siguiente DECRETO-LEI:
-Artículo 1.o Agrégase al Presupuesto de Interior vijente, el siguiente ítem: "Para atender a los gastos que demande la celebracion del Centenario de Chiloé, cien mil pesos ($ 100,000)."
-Art. 2.o Concédese un suplemento de treinta mil pesos ($ 30,000) al ítem 5632 de la partida 12 del presupuesto del espresado Departamento
+AGREGA INCISOS QUE INDICA AL ARTICULO 1° DEL DECRETO
+LEY N° 528, de 1974
+**Publicada:** 1974-11-07
+AGREGA INCISOS QUE INDICA AL ARTICULO 1° DEL DECRETO LEY N° 528, de 1974 Núm. 732.- Santiago, 4 de Noviembre de 1974.- Visto, lo dispuesto en los decretos leyes N°s 1 y 128, de 1973, y 527, de 1974, La Junta de Gobierno ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Agréganse los siguientes incisos al artículo 1° del decreto ley N° 528, publicado en el Diario Oficial de 21 de Junio de 1974: "La Planta de Empleos Varios de la Presidencia de la República, asimilada a Carabineros de Chile, y a la cual se refieren los artículos 4° de la ley N° 5.689, 19° de la ley N° 9.645, y DFL. N° 71, de 29 de Abril de 1953, pasará a formar parte de la Planta fijada para la Junta de Gobierno. Este personal, afecto a Carabineros de Chile, continuará disfrutando de los beneficios de que actualmente goza. Las vacantes actualmente existentes en dicha Planta y las que se produzcan a futuro, no podrán ser proveídas, salvo por ascensos del personal que actualmente la integra. Los ascensos, bajas y demás resoluciones correspondientes a este personal serán dispuestos por el Director Administrativo, bajo la fórmula "Por orden del Jefe del Estado".
 ---
-Tómese razon, comuníquese, publíquese e insértese en el Boletin de las Leyes y Decretos del Gobierno.- Luis Barros Borgoño.- Manuel E. Vélis.
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno, Jefe del Estado.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros. Lo que transcribo para su conocimiento.- Enrique Montero Marx, Subsecretario del Interior.
