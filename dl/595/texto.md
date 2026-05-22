@@ -2,6 +2,7 @@
 ESTABLECE UNA CAJA AUTONOMA DE AMORTIZACION DE LA
 DEUDA PUBLICA
 **Publicada:** 1932-09-09
+**Versión:** 1976-05-06
 ESTABLECE UNA CAJA AUTONOMA DE AMORTIZACION DE LA DEUDA PUBLICA Núm. 595.-Santiago, 9 de Septiembre de 1932.-He acordado y dicto el siguiente Decreto ley:
 ## ~~TITULO I Definición y objeto~~
 ~~Artículo 1.o Establécese una Caja Autónoma de Amortización de la Deuda Pública, destinada a atender el servicio y amortización de las obligaciones del Estado. La Caja gozará de personalidad jurídica y disfrutará de autonomía financiera. Tendrá por objeto: a) Efectuar el servicio de la deuda interna del Estado contraída con anterioridad a la fecha de esta ley; b)Efectuar, en conformidad a las disposiciones de la presente ley, el servicio de las nuevas deudas que contraiga el Estado; c) Consolidar y establecer el servicio de las obligaciones externas a corto plazo, del Estado y de las Municipalidades; d) Restablecer, de acuerdo con las disposiciones legales que se dicten, el servicio de la deuda externa consolidada del Estado y de las Municipalidades. Para estos fines, la Caja de Amortización obrará en representación y por cuenta del Gobierno y corporaciones deudoras, sin más autorización que la que se le otorga por la presente ley. Podrá con la aprobación del Presidente de la República y dentro de las autorizaciones legales relativas a cada empréstito, celebrar acuerdos con los acreedores y subscribir los contratos respectivos, que obligarán al Gobierno y corporaciones deudoras en la misma forma que si fueren por ellos.~~
