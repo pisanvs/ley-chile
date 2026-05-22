@@ -1,0 +1,8 @@
+# Decreto Ley N° 672
+**Publicada:** 1925-11-25
+Núm. 672.- Santiago, 27 de Octubre de 1925.- De acuerdo con el Consejo de Secretarios de Estado, He acordado y dicto el siguiente DECRETO-LEI:
+~~Artículo 1.o Agrégase al artículo 124 del Código Penal, los siguientes incisos: "Los que, por cualquier medio, incitaren a las tropas a faltar a sus deberes de obediencia y disciplina, serán castigados con presidio, confinamiento o relegación menores en cualesquiera de sus grados, y multa de cien a mil pesos. Si la incitación tiene por objeto inducir a los ciudadanos a faltar a los deberes que las leyes sobre el Servicio Militar les señalan, la pena será de presidio menor en su grado mínimo y multa de 50 a 500 pesos. Igualmente, los que excitaren al personal civil que presta sus servicios de guerra o de movilización civil en fábricas, arsenales, almacenes, etc., y a los que se ocupan en los servicios de transportes, comunicaciones agrícolas e industrias declaradas para la conservación de la capacidad guerrera del país."~~
+~~Art. 2.o Agrégese a continuación del artículo 136 del Código Penal: "El que de hecho o palabra hiciere objeto de mofa o de desprecio a la bandera o himno nacional de la República, será castigado con pena de prisión, en cualquiera de sus grados, y multas de veinte a mil pesos."~~
+~~Art. 3.o Los Tribunales Militares serán competentes para conocer los delitos a que se refiere la presente lei, en todos los territorios sometidos al estado de sitio de guerra o movilización.~~
+---
+Tómese razón, rejístrese, comuníquese y publíquese en el Boletín de las Leyes y Decretos del Gobierno.- Luis Barros Borgoño.- C. Ibáñez C.
