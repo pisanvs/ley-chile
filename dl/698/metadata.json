@@ -1,13 +1,13 @@
 {
-  "idNorma": 6291,
+  "idNorma": 6292,
   "tipo": "Decreto Ley",
   "numero": "698",
-  "titulo": "",
+  "titulo": "FIJA UBICACION EN LA ESCALA UNICA AL PERSONAL DEL CONSEJO NACIONAL PARA LA ALIMENTACION Y NUTRICION",
   "organismos": [
-    "MINISTERIO DE HIGIENE, ASISTENCIA, PREVISIÓN SOCIAL Y TRABAJO"
+    "MINISTERIO DE SALUD PÚBLICA"
   ],
-  "fechaPublicacion": "1925-11-12",
-  "fechaPromulgacion": "1925-10-17",
-  "fechaVersion": "1925-11-12",
+  "fechaPublicacion": "1974-10-22",
+  "fechaPromulgacion": "1974-10-15",
+  "fechaVersion": "1974-10-22",
   "derogado": "no derogado"
 }
