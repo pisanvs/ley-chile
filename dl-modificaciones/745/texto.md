@@ -1,0 +1,7 @@
+# Decreto Ley N° 745
+DEROGA ARTICULO 84 DEL DECRETO LEY N° 670, DE 1974
+**Publicada:** 1974-11-09
+DEROGA ARTICULO 84 DEL DECRETO LEY N° 670, DE 1974 Núm. 745.- Santiago, 6 de Noviembre de 1974.- Visto: lo dispuesto en los decretos leyes N°s 1 y 128, de 1973, y 527, de 1974, y Considerando: Que un nuevo estudio de las disposiciones sobre fijación de honorarios o adiciones a remuneraciones de determinadas funciones, cargos públicos o asesorías específicas, contenidas en el Art. 84 del decreto ley N° 670, de 1974, ha demostrado la inconveniencia de su establecimiento, el que debe diferirse hasta la debida estructuración de un régimen integral sobre Escala Unica de Rentas, que no importe discriminación a sus reglas y que no signifique una simple alteración parcial de su aplicación, La Junta de Gobierno ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Derógase el Art. 84 del decreto ley N° 670, publicado en el Diario Oficial de 2 de Octubre de 1974.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno, Jefe Supremo de la Nación.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, General Director de Carabineros. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Montero Marx, Subsecretario del Interior.
