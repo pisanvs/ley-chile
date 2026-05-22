@@ -1,13 +1,13 @@
 {
-  "idNorma": 6266,
+  "idNorma": 6267,
   "tipo": "Decreto Ley",
   "numero": "657",
-  "titulo": "",
+  "titulo": "TRASPASA ITEM DEL PRESUPUESTO",
   "organismos": [
-    "MINISTERIO DE OBRAS PUBLICAS COMERCIO Y VIAS DE COMUNICACION"
+    "MINISTERIO DE HACIENDA"
   ],
-  "fechaPublicacion": "1925-11-10",
-  "fechaPromulgacion": "1925-10-17",
-  "fechaVersion": "1925-11-10",
+  "fechaPublicacion": "1932-10-05",
+  "fechaPromulgacion": "1932-09-28",
+  "fechaVersion": "1932-10-05",
   "derogado": "no derogado"
 }
