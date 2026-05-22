@@ -1,5 +1,6 @@
 # Decreto Ley N° 558
 **Publicada:** 1925-10-01
+**Versión:** 1959-12-01
 Núm. 558.- Santiago, 26 de setiembre de 1925.- Vistos estos antecedentes y con el acuerdo del Consejo de Ministros del Despacho, he acordado dictar el siguiente DECRETO-LEI:
 ~~Artículo 1.o La internacion y despacho de películas cinematográficas solo podrá hacerse por las aduanas de Valparaiso y Santiago, con arreglo a las disposiciones del Reglamento que dicte S. E. el Presidente de la República.~~
 ~~Art. 2.o Se crea un Consejo de Censura con residencia en Santiago, compuesto de cinco miembros, que lo serán: el Director Jeneral de Bibliotecas, que lo presidirá, dos personas designadas por el Presidente de la República y dos designadas por la Ilustre Municipalidad de Santiago.~~
