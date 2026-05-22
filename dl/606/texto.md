@@ -1,6 +1,6 @@
 # Decreto Ley N° 606
 **Publicada:** 1925-10-16
-**Versión:** 1932-07-01
+**Versión:** 1945-12-29
 Núm. 606.- Santiago, 14 de octubre de 1925.- Vistas las observaciones presentadas al decreto-lei monetario por la mision de Consejeros Financieros, presidida por el señor Edwin Walter Kemmerer; Teniendo presente los nuevos estudios practicados por el Consejo de Ministros y el Ministerio de Hacienda, y lo informado por la Superintendencia de la Casa de Moneda; y De acuerdo con el Consejo de Ministros de Estado, dicto el siguiente DECRETO-LEI:
 ## TITULO I De las monedas de oro
 Artículo 1.o La unidad monetaria de Chile será el "peso" y tendrá ciento ochenta y tres mil cincuenta y siete millonésimos (183057) de gramo de oro fino. Diez de estas unidades, que deben contener en total un gramo y ochenta y tres mil cincuenta y siete cien milésimos de gramo (1,83057) de oro fino, constituirán en el "cóndor".
