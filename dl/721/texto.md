@@ -1,0 +1,6 @@
+# Decreto Ley N° 721
+**Publicada:** 1925-11-20
+Núm. 721.- Santiago, 18 de noviembre de 1925.- De acuerdo con el Consejo de Ministros del Despacho, dicto el siguiente DECRETO-LEI:
+Artículo único.- Para los efectos de la debida interpretacion de los párrafos 5.o y 6.o del artículo 117 del decreto-lei número 542, de 19 de setiembre último, sobre elecciones, sustitúyense por los siguientes respectivamente: "5.o Si ninguno de los candidatos de la lista tuviere votos nominativos que contuvieren la cifra repartidora o si aplicada la regla 4.a y atribuidos los sobrantes, aun quedaren puestos por llenar para la lista, se multiplicarán los votos de cada candidato no proclamado por una cifra que será igual para el primero de éstos al número de puestos que queden por atribuir a la lista; para el segundo, a esta cifra ménos uno; para el tercero, a esa cifra ménos dos, y así sucesivamente. Llegado el multiplicador a la unidad, será el mismo para todos los multiplicandos restantes. 6.o Los productos así obtenidos se colocarán de mayor a menor y se proclamará a los candidatos a quienes correpondan las mas altas mayorías." El presente decreto-lei empezará a rejir desde su publicacion en el Diario Oficial.
+---
+Tómese razon, comuníquese, publíquese e insértese en el Boletin de las Leyes y Decretos del Gobierno.- Luis Barros Borgoño.- Manuel E. Vélis
