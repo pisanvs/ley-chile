@@ -1,7 +1,8 @@
 # Decreto Ley N° 527
 APRUEBA ESTATUTO DE LA JUNTA DE GOBIERNO
 **Publicada:** 1974-06-26
-APRUEBA ESTATUTO DE LA JUNTA DE GOBIERNO Núm. 527.- Santiago, 17 de Junio de 1974.- Visto lo dispuesto en los decretos leyes N°.s. 1 y 128, de 1973, La Junta de Gobierno ha acordado y dicta el siguiente Decreto ley: ESTATUTO DE LA JUNTA DE GOBIERNO
+**Versión:** 1976-09-13
+MINISTERIO DEL INTERIOR DECRETO LEY 527, DE 1974 Aprueba Estatuto de la Junta de Gobierno (Publicado en el "Diario Oficial" N° 28.886, de 26 de junio de 1974) NUM. 527.- Santiago, 17 de junio de 1974.- Visto lo dispuesto en los decretos leyes números 1 y 128, de 1973, la Junta de Gobierno ha acordado y dicta el siguiente Decreto Ley:
 TITULO PRIMERO {Arts. 1-3} De los Poderes del Estado y su Ejercicio Artículo 1°.- La Junta de Gobierno, integrada por los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea y por el General Director de Carabineros, ha asumido los Poderes Constituyente, Legislativo y Ejecutivo.
 Artículo 2°.- La Junta de Gobierno adoptará sus decisiones por la unanimidad de sus miembros.
 Artículo 3°.- El Poder Judicial está constituido y ejerce sus funciones en la forma y con la independencia y facultades que señalan la Constitución Política del Estado y las leyes de la República.
