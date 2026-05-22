@@ -1,13 +1,13 @@
 {
-  "idNorma": 6306,
+  "idNorma": 6307,
   "tipo": "Decreto Ley",
   "numero": "723",
-  "titulo": "",
+  "titulo": "LIBERA DE LOS DERECHOS E IMPUESTOS QUE INDICA A LOS\nEQUIPOS, MAQUINARIAS Y ELEMENTOS DESTINADOS A LAS\nEMPRESAS PERIODISTICAS, A QUE SE REFIERE LA LEY N.°\n10.621",
   "organismos": [
-    "MINISTERIO DE GUERRA"
+    "MINISTERIO DE HACIENDA"
   ],
-  "fechaPublicacion": "1925-11-20",
-  "fechaPromulgacion": "1925-11-19",
-  "fechaVersion": "1925-11-20",
+  "fechaPublicacion": "1974-10-30",
+  "fechaPromulgacion": "1974-10-28",
+  "fechaVersion": "1974-10-30",
   "derogado": "no derogado"
 }
