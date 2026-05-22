@@ -1,7 +1,7 @@
 # Decreto Ley N° 670
 REAJUSTA, A CONTAR DEL 1° DE OCTUBRE DE 1974, LOS SUELDOS DEL SECTOR PUBLICO Y PRIVADO. OTRAS DISPOSICIONES
 **Publicada:** 1974-10-02
-**Versión:** 1974-10-03
+**Versión:** 1974-11-09
 REAJUSTA, A CONTAR DEL 1° DE OCTUBRE DE 1974, LOS SUELDOS DEL SECTOR PUBLICO Y PRIVADO. OTRAS DISPOSICIONES Núm. 670.- Santiago, 1° de Octubre de 1974.- Vistos: lo dispuesto en los decretos leyes N°s 1 y 128, ambos de 1973, y N° 527, de 1974, La Junta de Gobierno de la República ha resuelto dictar el siguiente Decreto ley:
 ## TITULO I Sector Público
 Artículo 1°.- Reajústanse, a contar del 1° de Octubre de 1974, en un 24%, los sueldos vigentes al 30 de Septiembre del mismo año de la Escala Unica establecida por el decreto ley número 249, de 1973, modificado por el decreto ley N° 479, de 1974. En el mismo porcentaje y a contar desde la misma fecha se reajustarán los sueldos bases mensuales de la Escala establecida por el artículo 5° del decreto ley N° 550, de 1974.
@@ -97,7 +97,7 @@ Artículo 80°.- La vigencia de las respectiva resolución o acuerdo deberá coi
 Artículo 81°.- Dictada una resolución para una determinada zona, empresa, área o rama de actividad, las condiciones de trabajo, remuneraciones, incentivos y beneficios establecidos por convenios colectivos, actas de avenimiento, contratos colectivos, fallos arbitrales o resoluciones de Comisiones Tripartitas, vigentes con anterioridad a la respectiva resolución, serán estudiados y adecuados a ella, si procediere, mediante igual procedimiento al señalado en el inciso primero del artículo 73°.
 Artículo 82°.- DEROGADO.-
 Artículo 83°.- A partir del 1° de Octubre de 1974, las empresas a que se refiere el artículo anterior no podrán contratar, cualquiera sea la calidad jurídica o la naturaleza de los servicios, personal cuya renta exceda del límite máximo de reajustabilidad previsto en el artículo 9°.
-~~Artículo 84°- El Jefe Supremo de la Nación, previo informe de los Ministerios de Hacienda y de Economía, Fomento y Reconstrucción, emitido a requerimiento de cada Ministerio podrá, por decreto supremo, fijar temporalmente y por excepción honorarios o adiciones a remuneraciones de determinadas funciones, cargos públicos o asesorías específicas que para un acertado desempeño precisen de calificada y alta especialización profesional o técnica. Los honorarios o adiciones de remuneraciones a que se refiere este artículo no serán imponibles y no regirán, a su respecto limitaciones o incompatibilidades legales de cualquier índole. El decreto supremo respectivo fijará el Ministerio o institución que pagará los honorarios o adiciones a remuneraciones y dispondrá el ítem presupuestario con cargo al cual se hará dicho pago, el que se entenderá automáticamente suplementado, en caso necesario.~~
+~~Artículo 84°.- Derogado.~~
 ## TITULO FINAL
 Artículo 85°.- Deróganse las siguientes disposiciones: artículo 20° del decreto ley N° 550, de 1974; artículo 11°, inciso 2°, del decreto ley N° 275, de 1974; artículo 61° del DFL N° 2, de 1967, del Ministerio del Trabajo y Previsión Social, y artículo 7° de la ley N° 17.074.
 Artículo 86°.- Pónese término al funcionamiento de todas las Comisiones Tripartitas actualmente existentes, salvo lo establecido por el artículo 3° transitorio del decreto ley N° 552, de 1974.
