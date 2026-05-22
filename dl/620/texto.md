@@ -1,0 +1,9 @@
+# Decreto Ley N° 620
+DA DERECHO A REMUNERACION ESPECIAL EL TRABAJO DE
+OBREROS MARITIMOS, CUANDO ESTE SE HACE EN HORAS
+EXTRAORDINARIAS.
+**Publicada:** 1932-10-05
+DA DERECHO A REMUNERACION ESPECIAL EL TRABAJO DE OBREROS MARITIMOS, CUANDO ESTE SE HACE EN HORAS EXTRAORDINARIAS. Núm. 620.- Santiago, 12 de Septiembre de 1932.- Considerando: 1.o Que las faenas de amarra y desamarra de la nave al fondearla o cambiarla de fondeadero en un puerto o al hacerse a la mar, no dan derecho a remuneración especial cuando se hacen en horas extraordinarias de trabajo, en virtud de lo dispuesto en la letra c) del art. 218 del decreto con fuerza de ley N.o 178; 2.o Que el Sindicato Profesional de Navegantes de Valparaíso, ha solicitado la reforma de esa disposición por considerarla injusta y contraria a las prácticas establecidas con anterioridad a su dictación, y oída la Dirección del Territorio Marítimo, esa repartición ha informado favorablemente la solicitud en referencia, confirmando los antecedentes en ella invocados; 3.o Que de conformidad a lo dispuesto en el art. 214, del decreto con fuerza de ley N.o 178, debe considerarse como de sobretiempo el que se emplee fuera de la jornada ordinaria o turnos de guardia en cualquier trabajo que no sea originado por fuerza mayor y pagarse con el recargo que esa misma disposición establece; 4.o Que, en consecuencia, es de justicia que las faenas de amarra o desamarra de la nave, realizada fuera de la jornada ordinaria o turno de guardia, cuando no obedezcan a casos fortuitos o de fuerza mayor, sean remuneradas con el recargo correspondiente al sobretiempo, he acordado y dicto el siguiente, Decreto-ley:
+Artículo único. Suprímese del texto del decreto con fuerza de ley N.o 178, la letra c) del artículo 218. Esta ley comenzará a regir desde su publicación en el Diario Oficial.
+---
+Tómese razón, comuníquese, publíquese e insértese en el Boletín de las Leyes y Decretos de Gobierno.- CARLOS DAVILA.- Juan B. Rossetti.
