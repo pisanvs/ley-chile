@@ -1,0 +1,7 @@
+# Decreto Ley N° 712
+ASIGNA DENOMINACION A XI REGION
+**Publicada:** 1974-10-28
+ASIGNA DENOMINACION A XI REGION Santiago, 22 de Octubre de 1974.- La Junta de Gobierno de la República de Chile decretó hoy lo que sigue: Núm. 712.- Teniendo presente: La necesidad de rendir homenaje a la memoria del General Carlos Ibáñez del Campo por su destacada administración y constante lucha por levantar nuestra Nación, y Visto: lo dispuesto en los decretos leyes N°. 1, de 1973, y 527, de 1974, La Junta de Gobierno ha acordado dictar el siguiente Decreto ley:
+Artículo único.- La XI Región se denominará en lo sucesivo "Región Aysen del General Carlos Ibáñez del Campo".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletínes Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros e Investigaciones y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Raúl Benavides Escobar, General de División, Ministro del Interior. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Montero Marx, Subsecretario del Interior.
