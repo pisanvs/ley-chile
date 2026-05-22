@@ -1,0 +1,13 @@
+# Decreto Ley N° 603
+DECLARA EXENTA A LA SUPERINTENDENCIA DE LA CASA DE MONEDA Y ESPECIES VALORADAS, DE LAS DISPOSICIONES DEL ARTICULO 6.º DE LA LEY 5,005
+**Publicada:** 1932-09-09
+Declara exenta a la Superintendencia de la Casa de Moneda y Especies Valoradas, de las disposiciones del artículo 6.o de la ley 5,005 Núm. 603.- Santiago, 9 de Septiembre de 1932.- Vistos estos antecedentes y considerando el mayor trabajo que representará la acuñación de las monedas de un peso, dispuesta en el decreto-ley N.o 104 y la impresión de billetes a que se refiere el decreto-ley N.o 591, dicto el siguiente Decreto-ley:
+Artículo 1.o Declárase exenta a la Superintendencia de la Casa de Moneda y Especies Valoradas, de las disposiciones del artículo 6.o de la ley N.o 5,005.
+Art. 2.o Modifícase la planta de la Superintendencia de la Casa de Monedas y Especies Valoradas, en la siguiente forma: a) Suprímense: un oficial de grado 14.o, dos oficiales de grado 20.o y un oficial de grado 22.o; y b) Auméntase la planta en dos oficiales de grado 12.o, un oficial de grado 18.o y un oficial de grado 19.o.
+Art. 3.o El Banco Central de Chile pagará el trabajo extraordinario del personal de empleados de la Superintendencia de la Casa de Moneda y Especies Valoradas, en conformidad a las planillas que le presente el Superintendente, mientras dure la acuñación de las monedas divisionarias y la impresión de los billetes a que se refieren el decreto-ley N.o 104 y el decreto-ley N.o 591.
+Art. 4.o El Banco Central de Chile integrará en arcas fiscales el producto líquido de las órdenes de acuñación de monedas y de impresión de billetes, previa deducción de las sumas que hubiere anticipado según lo dispuesto en el artículo 3.o del presente decreto-ley.
+Art. 5.o Supleméntase el ítem 06/07/04/a en la cantidad de cuatro mil pesos ($ 4,000) y el 06/07/01 en la cantidad de siete mil doscientos pesos ($ 7,200).
+Art. 6.o El mayor gasto que representan las modificaciones anotadas en los artículos 2.o y 5.o de este decreto-ley, se financiará con las entradas extraordinarias de la Superintendencia de la Casa de Moneda y Especies Valoradas, producto de la acuñación de las monedas de un peso ($ 1.00), veinte centavos ($ 0.20) y diez centavos ($ 0.10) dispuestas en el decreto-ley número 104 e impresión de los billetes del Banco Central de Chile a que se refiere el decreto-ley N.o 591.
+Art. 7.o El presente decreto-ley empezará a regir desde la publicación en el Diario Oficial.
+---
+Tómese razón, regístrese, comuníquese, publíquese e insértese en el Boletín de las Leyes y Decretos de Gobierno.- CARLOS DAVILA.- Ernesto Barros.
