@@ -1,7 +1,7 @@
 # Decreto Ley N° 889
 MODIFICA REGIMEN ADUANERO, TRIBUTARIO Y DE INCENTIVOS A LA I, II, III, XI Y XII REGION Y A LA ACTUAL PROVINCIA DE CHILOE
 **Publicada:** 1975-02-21
-**Versión:** 1993-09-03
+**Versión:** 2001-01-23
 MODIFICA REGIMEN ADUANERO, TRIBUTARIO Y DE INCENTIVOS A LA I, II, III, XI Y XII REGION Y A LA ACTUAL PROVINCIA DE CHILOE Núm. 889.- Santiago, 30 de Enero de 1975.- Vistos: lo dispuesto en los decretos leyes N.os 1 y 128, de 1973, y 527, de 1974, y Considerando: 1°- Que la actual legislación especial de las zonas extremas del país y las franquicias territoriales de diversa índole han producido una multiciplidad de áreas productivas sujetas a tratamientos discriminatorios que no conducen a una sana y efectiva competencia; 2°- La necesidad y conveniencia de redefinir la política de incentivos a determinadas zonas geográficas del país para hacerla compatible con la política económica general del Gobierno; La Junta de Gobierno de la República de Chile ha acordado y dicta el siguiente Decreto ley:
 Artículo 1°- Sométese a la I, II, III, XI y XII Regiones y a la actual provincia de Chiloé al tratamiento aduanero, tributario y de incentivos especiales que señala este decreto ley.
 ## TITULO I Primera Región
