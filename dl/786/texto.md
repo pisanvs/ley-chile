@@ -1,7 +1,7 @@
 # Decreto Ley N° 786
 FIJA NORMAS PARA LOS NOMBRAMIENTOS QUE INDICA
 **Publicada:** 1974-12-04
-**Versión:** 1975-06-07
+**Versión:** 1975-12-23
 FIJA NORMAS PARA LOS NOMBRAMIENTOS QUE INDICA Núm. 786.- Santiago, 2 de Diciembre de 1974.- Vistos: lo dispuesto en los decretos leyes N° 1 y 128, ambos de 1973, y N° 727, de 1974, La Junta de Gobierno de la República ha acordado dictar el siguiente Decreto ley:
 Artículo 1°.- Los decretos o resoluciones de nombramiento que ordenen la asunción inmediata de funciones, tanto del personal de planta como a contrata, darán derecho al empleado a percibir sus remuneraciones líquidas desde el primer mes de trabajo, aunque el decreto o resolución de nombramiento no se encuentre totalmente tramitado. Para efectuar el pago correspondiente, bastará una certificación del Jefe del Servicio respectivo acerca de: a) haberse dispuesto la asunción inmediata de funciones; b) encontrarse en tramitación el decreto o resolución de nombramiento, y c) fecha en que el interesado comenzó a prestar servicios. Si el documento de nombramiento es devuelto por la Contraloría General de la República, sin tomar razón de él, se suspenderá el pago establecido en este precepto, y el Jefe respectivo notificará de inmediato al interesado para que deje de prestar servicios.
 Artículo 2°.- La norma sobre prórroga de contratos establecida en el artículo 6° del DFL. N° 338, de 1960, podrá aplicarse respecto de las personas contratadas a honorarios que presten servicio sujetas a jornada diaria de trabajo y reciben sus emolumentos en cuotas mensuales.
