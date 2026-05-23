@@ -1,0 +1,7 @@
+# Decreto Ley N° 1018
+RESTABLECE LA VIGENCIA DE LO DISPUESTO EN EL INCISO 1° DEL ARTICULO 27° DE LA LEY 17.377.
+**Publicada:** 1975-05-15
+RESTABLECE VIGENCIA DE LO DISPUESTO EN EL INCISO PRIMERO DEL ARTICULO 27° DE LA LEY N° 17.377 Núm. 1.018.- Santiago, 12 de Mayo de 1975.- Vistos: lo dispuesto en los decretos leyes N°s 1 y 128, ambos de 1973, y N° 527, de 1974, La Junta de Gobierno ha resuelto dictar el siguiente: Decreto ley:
+Artículo único.- Sin perjuicio de lo dispuesto en el decreto ley N° 415, de 1974, y artículo 19° del decreto ley N° 534, también de 1974, restablécese la vigencia de lo dispuesto en el inciso primero del artículo 27° de la ley N° 17.377, el que será aplicable, asimismo, a las entidades a que se refiere el artículo 2° del mismo cuerpo legal y a las Universidades del Estado o reconocidas por éste.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Jorge Cauas Lama, Ministro de Hacienda. Lo que transcribo a U. para su conocimiento.- Saluda atentamente a U.- Pedro Larrondo Jara, Capitán de Navío (AB), Subsecretario de Hacienda.
