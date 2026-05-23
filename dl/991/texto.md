@@ -2,6 +2,7 @@
 ESTABLECE NORMAS PARA LA TRAMITACION DE DECRETOS
 LEYES
 **Publicada:** 1976-01-03
+**Versión:** 1981-03-28
 ESTABLECE NORMAS PARA LA TRAMITACION DE DECRETOS LEYES Núm. 991.- Santiago, 17 de Abril de 1975.- Visto: lo dispuesto en los decretos leyes N°s. 1, 27 y 128, de 1973, y en el artículo 6°. del decreto ley N°. 527, de 1974, y Teniendo presente la necesidad de establecer los órganos de trabajo y los procedimientos de que se servirá el Gobierno para ejercer las Potestades Constituyente y Legislativa; La Junta de Gobierno acuerda dictar el siguiente Decreto ley:
 ## ~~TITULO I De los Organos de Trabajo~~
 ~~Artículo 1°.- Los Miembros de la Junta de Gobierno ejercerán las Potestades Constituyente y Legislativa de acuerdo con las normas establecidas en su Estatuto, aprobado por decreto ley N°. 527, de 1974, y en conformidad con las disposiciones complementarias en el presente decreto ley.~~
