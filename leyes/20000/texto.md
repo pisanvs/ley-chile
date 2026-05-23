@@ -42,11 +42,15 @@ En igual pena incurrirá el que adquiera, transfiera, suministre o facilite a cu
 
 Se entenderá que no concurre la circunstancia de uso o consumo personal exclusivo y próximo en el tiempo, cuando la droga poseída, transportada, guardada o portada no permita racionalmente suponer que está destinada al uso o consumo descrito o cuando las circunstancias de la posesión, transporte, guarda o porte sean indiciarias del propósito de traficar a cualquier título.
 
+Cuando las pequeñas cantidades de sustancias o drogas que determine el reglamento sean capaces de producir graves efectos tóxicos o daños considerables a la salud, de acuerdo con lo previsto en el artículo 1° de esta ley y lo establecido en el reglamento de la ley N° 20.000 que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas y sustituye la ley N° 19.366, contenido en el decreto N° 867, promulgado en 2007 y publicado en 2008, del Ministerio del Interior, se aplicará la pena del mencionado artículo 1.
+
+> **Nota.** De acuerdo a lo dispuesto en el artículo transitorio de la ley 21817, publicada el 23.05.2026, para dar cumplimiento a lo establecido en el nuevo inciso que incorpora la citada ley en el inciso final del presente artículo 4, el Ministerio de Seguridad Pública deberá realizar, en el plazo de seis meses contado desde la publicación de la citada ley, las modificaciones pertinentes al decreto N° 867, del 2007 del Ministerio del Interior, para incorporar una nueva calificación de sustancias o drogas estupefacientes o sicotrópicas, productoras de dependencia física o psíquica, capaces de provocar graves efectos tóxicos o daños considerables a la salud, aun con consumo en bajas cantidades.
+
 #### Artículo 5
 
-El que sin el consentimiento de la persona afectada le administre a ésta alguna de las sustancias referidas en el artículo 1 será sancionado con la pena de presidio menor en su grado medio a máximo y multa de once a veinte unidades tributarias mensuales.
+El que sin el consentimiento de la persona afectada le administre a ésta alguna de las sustancias referidas en el artículo 1° y el inciso final del artículo 4, será sancionado con la pena de presidio menor en su grado medio a máximo y multa de once a veinte unidades tributarias mensuales.
 
-Si se hubiese obrado con violencia o intimidación para administrar u obligar a otro a consumir las sustancias referidas en el artículo 1, la pena será de presidio mayor en sus grados mínimo a medio.
+Si se hubiese obrado con violencia o intimidación para administrar u obligar a otro a consumir las sustancias referidas en el artículo 1° y el inciso final del artículo 4, la pena será de presidio mayor en sus grados mínimo a medio.
 
 Lo dispuesto en los incisos precedentes no será aplicable si el hecho fuere constitutivo de un delito sancionado con igual o mayor pena por otra disposición legal, en cuyo caso, sin perjuicio de lo dispuesto en el artículo 63 del Código Penal, el suministro de dichas sustancias o el empleo de violencia o intimidación serán considerados como una sola circunstancia agravante.
 
@@ -60,11 +64,11 @@ Atendidas las circunstancias del delito, podrá imponerse, además, la clausura 
 
 #### Artículo 6º
 
-El médico cirujano, odontólogo o médico veterinario que recete alguna de las sustancias señaladas en el artículo 1º, sin necesidad médica o terapéutica, será penado con presidio mayor en sus grados mínimo a medio y multa de cuarenta a cuatrocientas unidades tributarias mensuales.
+El médico cirujano, odontólogo o médico veterinario que recete alguna de las sustancias señaladas en el artículo 1° y el inciso final del artículo 4, sin necesidad médica o terapéutica, será penado con presidio mayor en sus grados mínimo a medio y multa de cuarenta a cuatrocientas unidades tributarias mensuales.
 
 #### Artículo 7º
 
-El que, encontrándose autorizado para suministrar a cualquier título las sustancias o drogas a que se refiere el artículo 1º, o las materias que sirvan para obtenerlas, lo hiciere en contravención de las disposiciones legales o reglamentarias que lo regulan, será sancionado con presidio mayor en sus grados mínimo a medio y multa de cuarenta a cuatrocientas unidades tributarias mensuales. Atendidas las circunstancias del delito, podrá imponerse, además, la medida de clausura temporal del establecimiento por un plazo no inferior a sesenta días ni superior a ciento veinte días, aun cuando el autor del hecho sea empleado o dependiente de cualquier modo en dicho establecimiento. En caso de reiteración, podrá imponerse la clausura definitiva y la prohibición perpetua para el autor de tales ilícitos de participar en otro establecimiento de igual naturaleza.
+El que, encontrándose autorizado para suministrar a cualquier título las sustancias o drogas a que se refieren el artículo 1° y el inciso final del artículo 4, o las materias que sirvan para obtenerlas, lo hiciere en contravención de las disposiciones legales o reglamentarias que lo regulan, será sancionado con presidio mayor en sus grados mínimo a medio y multa de cuarenta a cuatrocientas unidades tributarias mensuales. Atendidas las circunstancias del delito, podrá imponerse, además, la medida de clausura temporal del establecimiento por un plazo no inferior a sesenta días ni superior a ciento veinte días, aun cuando el autor del hecho sea empleado o dependiente de cualquier modo en dicho establecimiento. En caso de reiteración, podrá imponerse la clausura definitiva y la prohibición perpetua para el autor de tales ilícitos de participar en otro establecimiento de igual naturaleza.
 
 #### Artículo 8º
 
@@ -165,6 +169,12 @@ g) Si el delito se perpetró en una institución deportiva, cultural o social, m
 h) Si el delito fue cometido en un centro hospitalario, asistencial, lugar de detención o reclusión, recinto militar o policial.
 
 i) Si el delito es perpetrado por una persona que desempeñe funciones laborales o educativas de manera permanente con menores de edad, o tenga con ellos una relación directa y constante.
+
+j) Si las sustancias traficadas fueren adulteradas, manipuladas o mezcladas entre sí o con otras, de conformidad con el reglamento, aumentando con ello su capacidad de causar daño físico, mental o su potencial letalidad.
+
+k) Si el delito se cometiere valiéndose de la simulación de actividades de comercio internacional, el uso de medios tecnológicos avanzados o la implementación de aplicaciones virtuales, en todos los casos para facilitar su ejecución o encubrir su naturaleza ilícita.
+
+l) Si se determinare que parte o la totalidad de las sustancias estupefacientes o psicotrópicas objeto del tráfico hubieren sido sustraídas de recintos de salud, de instalaciones autorizadas para el almacenamiento o venta de suministros e insumos médicos, o de lugares destinados a su destrucción, y el imputado hubiere conocido o no pudiere menos que conocer que dichas sustancias provienen de alguno de estos lugares.
 
 Si concurren dos o más de las circunstancias señaladas precedentemente, la pena podrá ser aumentada en dos grados.
 
@@ -392,7 +402,7 @@ Los funcionarios responsables del retardo en el cumplimiento de las obligaciones
 
 #### Artículo 43
 
-El Servicio de Salud deberá remitir al Ministerio Público, en el más breve plazo, el que no podrá exceder de treinta días, un protocolo del análisis químico de la sustancia suministrada, en el que se identificará el producto y se señalará su peso o cantidad, su naturaleza, contenido, composición y grado de pureza, como, asimismo, un informe acerca de los componentes tóxicos y sicoactivos asociados, los efectos que produzca y la peligrosidad que revista para la salud pública.
+El Servicio de Salud deberá remitir al Ministerio Público, en el más breve plazo, el que no podrá exceder de treinta días, un protocolo del análisis químico de la sustancia suministrada, en el que se identificará el producto y se señalará su peso o cantidad, su naturaleza, contenido y composición, como, asimismo, un informe acerca de los componentes tóxicos y sicoactivos asociados, los efectos que produzca y la peligrosidad que revista para la salud pública.
 
 Conservará, en todo caso, una determinada cantidad de dicha sustancia para el evento de que cualquiera de los intervinientes solicite nuevos análisis de la misma, de conformidad a los artículos 188, inciso tercero, y 320 del Código Procesal Penal.
 
