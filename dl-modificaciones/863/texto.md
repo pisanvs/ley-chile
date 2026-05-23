@@ -1,0 +1,8 @@
+# Decreto Ley N° 863
+MODIFICA LEY ORGANICA DE LA EMPRESA NACIONAL DE
+MINERIA
+**Publicada:** 1975-01-18
+MODIFICA LEY ORGANICA DE LA EMPRESA NACIONAL DE MINERIA Santiago 13 de Enero de 1975.- Hoy se decretó lo que sigue: Núm. 863.- Vistos: lo dispuesto en los decretos leyes N°s 1 y 128, de 1973, y N° 527, de 1974, y Considerando: 1°- La necesidad de coordinar las funciones de la Empresa Nacional de Minería y de la Corporación del Cobre; 2°- Que en la actualidad la Empresa Nacional de Minería tiene un Director en el Consejo de la Corporación del Cobre y que esta última institución no tiene representante en la Empresa Nacional de Minería, y 3°- Lo acordado por el Directorio de la Empresa Nacional de Minería en su sesión de 29 de Agosto de 1974, La Junta de Gobierno de la República de Chile ha acordado y dicta el siguiente Decreto ley:
+Artículo único.- Agrégase al artículo 11° del decreto con fuerza de ley N° 153, de 1960, orgánico de la Empresa Nacional de Minería, la siguiente letra g) nueva: "g) Por un Director designado por el Directorio de la Corporación del Cobre".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Agustín Toro Dávila, General de Brigada, Ministro de Minería. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Rubén Schindler Contardo, Coronel (I) de Carabineros, Subsecretario de Minería.
