@@ -1,7 +1,8 @@
 # Decreto Ley N° 844
 CREA EL DEPARTAMENTO DE PREVISION DE CARABINEROS
 **Publicada:** 1975-01-11
-CREA EL DEPARTAMENTO DE PREVISION DE CARABINEROS Santiago, 6 de Enero de 1975.- Su Excelencia el Presidente de la República de Chile ha ordenado hoy promulgar el siguiente decreto ley: Núm. 844.- Vistos: Lo dispuesto en los decretos leyes N.os 1 y 128, de 1973, y 527, de 1974, La H. Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+**Versión:** 1991-01-19
+DECRETO LEY N° 844 (Publicado en el Diario Oficial N° 29050, de 11 de Enero de 1975 ) MINISTERIO DE DEFENSA NACIONAL Subsecretaría de Carabineros CREA EL DEPARTAMENTO DE PREVISION DE CARABINEROS Santiago, 6 de Enero de 1975.- Su Excelencia el Presidente de la República de Chile ha ordenado hoy promulgar el siguiente decreto ley: Núm. 844.- Vistos: lo dispuesto en los decretos leyes N.os 1 y 128, de 1973, y 527, de 1974, la H. Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
 ## TITULO I Del Departamento de Previsión de Carabineros
 Artículo 1°.- Créase el Departamento de Previsión de Carabineros de Chile, organismo dependiente del Ministerio de Defensa Nacional y vinculado a él a través de la Subsecretaría de Carabineros. A contar de la fecha de vigencia de este decreto ley, cesará en sus actividades la Caja de Previsión de los Carabineros de Chile, siendo reemplazado en todos sus derechos y obligaciones por el Departamento que se crea en el inciso precedente.
 Artículo 2°.- Concédese personalidad jurídica, para todos los efectos legales, al Departamento de Previsión de Carabineros de Chile, cuyo domicilio será la ciudad de Santiago.
