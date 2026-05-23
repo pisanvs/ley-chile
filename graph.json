@@ -6677,6 +6677,15 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "6471": {
+    "idNorma": 6471,
+    "numero": "1073",
+    "titulo": "REDUCE, EN LAS CANTIDADES QUE INDICA, LA ESTIMACION\nDE LOS GASTOS, EN MONEDA NACIONAL PARA 1975",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-06-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6472": {
     "idNorma": 6472,
     "numero": "1074",
@@ -6710,6 +6719,24 @@
     "titulo": "CREA FONDO DE SOLIDARIDAD NACIONAL",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1975-07-19",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6476": {
+    "idNorma": 6476,
+    "numero": "1087",
+    "titulo": "MODIFICA LEY N° 16.781, SOBRE MEDICINA CURATIVA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1975-07-04",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6477": {
+    "idNorma": 6477,
+    "numero": "1088",
+    "titulo": "APRUEBA PROGRAMA DE VIVIENDAS SOCIALES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-07-07",
     "modifica": [],
     "modificadaPor": []
   },
@@ -6755,6 +6782,15 @@
     "titulo": "ESTABLECE NORMAS SOBRE EXTRANJEROS EN CHILE",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1975-07-19",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6484": {
+    "idNorma": 6484,
+    "numero": "1097",
+    "titulo": "CREA LA SUPERINTENDENCIA DE BANCOS E INSTITUCIONES FINANCIERAS Y SEñALA SUS FUNCIONES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-07-25",
     "modifica": [],
     "modificadaPor": []
   },
