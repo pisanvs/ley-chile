@@ -1,0 +1,8 @@
+# Decreto Ley N° 914
+SUPRIME INCISO SEGUNDO DEL ARTICULO 2° DE LA LEY N°
+16.752
+**Publicada:** 1975-03-08
+SUPRIME INCISO SEGUNDO DEL ARTICULO 2° DE LA LEY N° 16.752 Núm. 914.- Santiago, 28 de Febrero de 1975.- Vistos: lo dispuesto en los decretos leyes N° 1, 128, de 1973; 527 y 806, ambos de 1974. Considerando: Que atribuir la función de sustanciar las Investigaciones Sumarias Administrativas en la Dirección General de Aeronáutica Civil al Departamento Jurídico de dicho servicio, ha significado, en la práctica, restringir innecesariamente el número de funcionarios que pueden instruir tales investigaciones y que, además, ha demandado mayores gastos para el presupuesto de la mencionada Dirección General. La Junta de Gobierno de la República dicta el siguiente Decreto ley:
+Artículo único.- Suprímese en el inciso segundo del artículo 2° de la ley N° 16.752, agregado por el artículo 1°, letra b), de la ley N° 17.931, la frase: "sustanciar las investigaciones sumarias administrativas.".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial y en el Boletín Oficial de la Fuerza Aérea de Chile e insértese en la Recopilación Oficial de dicha Contraloría General.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General Director de Carabineros de Chile.- Oscar Bonilla Bradanovic, General de División, Ministro de Defensa Nacional. Lo que se transcribe para su conocimiento.- Juan Pablo González G., Coronel de Aviación (A), Subsecretario de Aviación.
