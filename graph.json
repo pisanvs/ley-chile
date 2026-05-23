@@ -6443,6 +6443,15 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "6440": {
+    "idNorma": 6440,
+    "numero": "1006",
+    "titulo": "ESTATUTO SOCIAL DE LA EMPRESA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-05-03",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6441": {
     "idNorma": 6441,
     "numero": "1007",
@@ -6488,12 +6497,48 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "6448": {
+    "idNorma": 6448,
+    "numero": "1017",
+    "titulo": "INTRODUCE MODIFICACIONES A LEYES TRIBUTARIAS QUE\nMENCIONA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1975-05-15",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6449": {
+    "idNorma": 6449,
+    "numero": "1018",
+    "titulo": "RESTABLECE LA VIGENCIA DE LO DISPUESTO EN EL INCISO 1° DEL ARTICULO 27° DE LA LEY 17.377.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-05-15",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6451": {
+    "idNorma": 6451,
+    "numero": "1024",
+    "titulo": "ESTABLECE SOBRETASA DEL 10% A LOS IMPUESTOS QUE INDICA; MODIFICA LOS DECRETOS LEYES 825, 826, 828 Y 830, DE 1974, Y 910, DE 1975.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-05-16",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6452": {
     "idNorma": 6452,
     "numero": "1027",
     "titulo": "DISPONE QUE CAJA CENTRAL DE AHORROS Y PRESTAMOS SE RELACIONE CON EL GOBIERNO A TRAVES DEL MINISTERIO DE HACIENDA.-",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1975-05-20",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6453": {
+    "idNorma": 6453,
+    "numero": "1028",
+    "titulo": "PRECISA ATRIBUCIONES Y DEBERES DE LOS SUBSECRETARIOS DE ESTADO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-05-28",
     "modifica": [],
     "modificadaPor": []
   },
@@ -6542,6 +6587,15 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "6460": {
+    "idNorma": 6460,
+    "numero": "1038",
+    "titulo": "AGREGA AL FINAL DEL ARTICULO 9° DEL DFL. N° 278, DE 1960, LOS INCISOS QUE INDICA SANTIAGO, 27 DE MAYO DE 1975.- CON ESTA FECHA SE HA DICTADO EL SIGUIENTE DECRETO LEY",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-06-04",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6462": {
     "idNorma": 6462,
     "numero": "1054",
@@ -6557,6 +6611,69 @@
     "titulo": "AUTORIZA ESTABLECIMIENTO DE ZONAS Y DEPOSITOS\nFRANCOS",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1975-06-25",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6464": {
+    "idNorma": 6464,
+    "numero": "1056",
+    "titulo": "DETERMINA NORMAS COMPLEMENTARIAS RELATIVAS A LA REDUCCION DEL GASTO PUBLICO Y AL MEJOR ORDENAMIENTO Y CONTROL DE PERSONAL",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-06-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6465": {
+    "idNorma": 6465,
+    "numero": "1060",
+    "titulo": "MODIFICA LEY N° 17.798 SOBRE CONTROL DE ARMAS",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1975-06-18",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6466": {
+    "idNorma": 6466,
+    "numero": "1062",
+    "titulo": "AGREGA INCISO AL ARTICULO 2° DEL DECRETO LEY 769, DE\n1974",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-06-11",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6467": {
+    "idNorma": 6467,
+    "numero": "1063",
+    "titulo": "APRUEBA LEY ORGANICA DE CARABINEROS DE CHILE",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-06-12",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6468": {
+    "idNorma": 6468,
+    "numero": "1068",
+    "titulo": "AUTORIZA ENAJENACION DE BIENES DE LA CORPORACION DE FOMENTO DE LA PRODUCCION",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-06-24",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6469": {
+    "idNorma": 6469,
+    "numero": "1070",
+    "titulo": "FIJA NORMAS SOBRE ASIGNACION DE ANTIGÜEDAD Y\nPROFESIONAL PARA FUNCIONARIOS REGIDOS POR LA LEY 15.076",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-06-21",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6473": {
+    "idNorma": 6473,
+    "numero": "1076",
+    "titulo": "MODIFICA EL DECRETO LEY N° 619, DE 1974, Y LA LEY\nSOBRE IMPUESTOS A LA RENTA Y OTROS",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1975-06-28",
     "modifica": [],
     "modificadaPor": []
   },
