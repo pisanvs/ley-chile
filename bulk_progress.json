@@ -761,6 +761,10 @@
     6496,
     6497,
     6498,
+    6508,
+    6509,
+    6510,
+    6511,
     30760,
     198675,
     219119,
@@ -806,58 +810,66 @@
       "last_error": ""
     },
     "6492": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6493": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6494": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6495": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6499": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6500": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6501": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6502": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6503": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6504": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6506": {
-      "count": 1,
+      "count": 2,
       "last_error": ""
     },
     "6507": {
+      "count": 2,
+      "last_error": ""
+    },
+    "6512": {
       "count": 1,
       "last_error": ""
     },
-    "6508": {
+    "6513": {
       "count": 1,
       "last_error": ""
     },
-    "6509": {
+    "6515": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6517": {
       "count": 1,
       "last_error": ""
     }
