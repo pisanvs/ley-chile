@@ -869,34 +869,86 @@
       "last_error": ""
     },
     "6512": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6513": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6515": {
-      "count": 2,
+      "count": 3,
       "last_error": ""
     },
     "6520": {
-      "count": 1,
+      "count": 2,
       "last_error": ""
     },
     "6521": {
-      "count": 1,
+      "count": 2,
       "last_error": ""
     },
     "6522": {
-      "count": 1,
+      "count": 2,
       "last_error": ""
     },
     "6530": {
+      "count": 2,
+      "last_error": ""
+    },
+    "6532": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6533": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6534": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6535": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6536": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6538": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6539": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6540": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6541": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6542": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6543": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6544": {
+      "count": 1,
+      "last_error": ""
+    },
+    "6545": {
       "count": 1,
       "last_error": ""
     }
   },
-  "last_sync": "2026-05-23",
+  "last_sync": "2026-05-24",
   "discovered": []
 }
