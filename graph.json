@@ -7109,12 +7109,48 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "6547": {
+    "idNorma": 6547,
+    "numero": "1276",
+    "titulo": "MODIFICA EL DECRETO LEY 1024, DE 1975.",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1975-12-02",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6548": {
     "idNorma": 6548,
     "numero": "1278",
     "titulo": "APRUEBA EL PRESUPUESTO DE ENTRADAS Y GASTOS DE LA NACION PARA EL AñO 1976",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1975-12-02",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6549": {
+    "idNorma": 6549,
+    "numero": "1281",
+    "titulo": "INTRODUCE MODIFICACIONES A LA LEY 12.927, DE 1958,\nSOBRE SEGURIDAD DEL ESTADO",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1975-12-11",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6550": {
+    "idNorma": 6550,
+    "numero": "1283",
+    "titulo": "EXTIENDE EL AMBITO DE APLICACION DE LAS DISPOSICIONES DEL DECRETO LEY 754, DE 1974",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-12-16",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6551": {
+    "idNorma": 6551,
+    "numero": "1285",
+    "titulo": "DISPONE MEJORAMIENTO ECONOMICO DEL PERSONAL DOCENTE Y PARADOCENTE DEL MINISTERIO DE EDUCACION",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1975-12-13",
     "modifica": [],
     "modificadaPor": []
   },
