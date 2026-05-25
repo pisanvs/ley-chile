@@ -2,6 +2,7 @@
 CAMBIA DE NOMBRE A LA DIRECCION DE RECLUTAMIENTO Y
 ESTADISTICAS DE LAS FUERZAS ARMADAS
 **Publicada:** 1976-10-05
+**Versión:** 1981-11-11
 CAMBIA DE NOMBRE A LA DIRECCION DE RECLUTAMIENTO Y ESTADISTICAS DE LAS FUERZAS ARMADAS Núm. 1.559.- Santiago, 28 de Septiembre de 1976.- Visto: Lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno ha acordado dictar el siguiente Decreto ley:
 ~~Artículo único.- Reemplázase, para todos los efectos legales y reglamentarios, el nombre de la Dirección General de Reclutamiento y Estadísticas de las Fuerzas Armadas por Dirección General de Reclutamiento y Movilización de las Fuerzas Armadas.~~
 ---
