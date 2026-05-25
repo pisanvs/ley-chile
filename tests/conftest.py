@@ -6,8 +6,10 @@ from xml.etree import ElementTree as ET
 
 import pytest
 
-# Add scripts/ to path so test modules can import the scripts directly
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
+# Add scripts/ and scripts/archive/ to path so test modules can import scripts directly
+_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(_ROOT / "scripts"))
+sys.path.insert(0, str(_ROOT / "scripts" / "archive"))
 
 NS = "http://www.leychile.cl/esquemas"
 
