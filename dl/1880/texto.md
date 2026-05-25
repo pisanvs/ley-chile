@@ -3,6 +3,7 @@ ESTABLECE UN SORTEO DE LA POLLA CHILENA DE
 BENEFICENCIA EN BENEFICIO DE LAS INSTITUCIONES QUE
 INDICA
 **Publicada:** 1977-09-12
+**Versión:** 1978-12-29
 ESTABLECE UN SORTEO DE LA POLLA CHILENA DE BENEFICENCIA EN BENEFICIO DE LAS INSTITUCIONES QUE INDICA Núm. 1.880.- Santiago, 17 de Agosto de 1977.- Visto: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527 de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
 ~~Artículo 1°- La Polla Chilena de Beneficencia realizará durante el año 1977 un sorteo cuya utilidad se destinará a las instituciones que señala, en la siguiente proporción: 25% para la Fundación Septiembre, 25% para la Sociedad Pro Ayuda del Niño Lisiado, 25% para la Corporación de Ayuda al Niño Limitado y 25% para el Consejo Nacional de Protección a la Ancianidad. Lo anterior se entenderá sin perjuicio de lo dispuesto en la ley N° 13.964 y sus modificaciones. Este sorteo estará liberado de todo tipo de impuestos y gravámenes, y su equivalente será entregado a las instituciones que señala el inciso primero.~~
 ~~Artículo 2°- Elimínase al Comité Olímpico de Chile como beneficiario del sorteo de la Polla Chilena de Beneficencia que actualmente lo favorece, y por lo tanto deróganse la Ley N° 12.072, el artículo 87 de la ley número 12.434, y el artículo 10 de la ley N° 12.920. En su reemplazo se realizará el sorteo a que se refiere el artículo 1° de este decreto ley.~~
