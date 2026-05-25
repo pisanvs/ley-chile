@@ -1,7 +1,7 @@
 # Decreto Ley N° 1764
 FIJA NORMAS PARA LA INVESTIGACION, PRODUCCION Y COMERCIO DE SEMILLAS
 **Publicada:** 1977-04-30
-**Versión:** 1981-02-09
+**Versión:** 1989-05-24
 FIJA NORMAS PARA LA INVESTIGACION, PRODUCCION Y COMERCIO DE SEMILLAS Núm. 1.764.- Santiago, 23 de Abril de 1977.- Visto: lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974; y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente, Decreto ley:
 ## TITULO I Disposiciones Generales
 Artículo 1°- La Investigación, producción y comercio de semillas, se regirán por las disposiciones contenidas en el presente decreto ley. Un reglamento especial determinará las disposiciones de este decreto ley que se aplicarán a las semillas frutales y forestales.
@@ -21,7 +21,7 @@ Artículo 13. - Los costos que demande la Inscripción serán de cargo del inter
 ## TITULO III De la investigación
 ARTICULO 14° El Ministerio de Agricultura abrirá un Registro de Estaciones Experimentales de acuerdo con las normas que se establezcan en el reglamento de este decreto ley.
 ARTICULO 15° Cualquiera persona, natural o jurídica, podrá dedicarse a trabajos de investigación para el mejoramiento de las variedades de plantas existentes, la formación de nuevas y la mantención de éstas.
-Artículo 16.- Las personas naturales o jurídicas dedicadas a estos trabajos con fines comerciales deberán inscribirse en el Registro de Estaciones Experimentales a que se refiere este título. El reglamento señalará los requisitos que se deberán cumplir para solicitar esta inscripción.
+ARTICULO 16° Deberán inscribirse en el Registro de Estaciones Experimentales a que se refiere este título las personas naturales o jurídicas que se dediquen a la certificación de semillas. El reglamento señalará los requisitos que se deberán cumplir para solicitar esta inscripción.
 ## TITULO IV De la producción de semillas
 ARTICULO 17° Para los efectos de este decreto ley, la producción de semillas incluye también su selección, tratamiento, envasado y, en general, todo proceso tendiente a dejarlas en condiciones de ser utilizadas por los usuarios.
 ARTICULO 18° El Ministerio de Agricultura abrirá Registros de Productores de Semillas. El reglamento determinará los registros que tendrán el carácter de inscripción obligatoria y fijará, además, los requisitos que deberá cumplir el productor para obtener la inscripción, de acuerdo con su categoría o fase del proceso productivo que realice.
@@ -30,7 +30,7 @@ ARTICULO 20° La certificación deberá ser realizada por el Ministerio de Agric
 ARTICULO 21° Sólo podrán certificarse variedades o cultivares que estén inscritos en el Registro de Propiedad de Variedades o Cultivares aptos para la certificación que llevará el Ministerio de Agricultura. El reglamento fijará las condiciones para su inscripción.
 ARTICULO 22° Las inscripciones en el registro a que se refiere el artículo precedente, tendrán una duración indefinida; pero podrán ser canceladas, previo aviso oportuno a los productores, en la forma y condiciones que determine el reglamento. Esta resolución podrá ser reclamada ante el Comité Técnico Calificador del Registro de Propiedad. El reglamento establecerá los plazos en que debe formularse y resolverse el reclamo, así como el procedimiento para su tramitación.
 ## TITULO V Del Comercio de Semillas
-Artículo 23.- Sólo podrán dedicarse al comercio de semillas las personas naturales o jurídicas que se inscriban en el Registro de Comerciantes de Semillas que llevará el Ministerio de Agricultura. El reglamento determinará los requisitos que deberán cumplir estas personas para inscribirse, así como la forma y condiciones en que se llevará el registro.
+ARTICULO 23° DEROGADO.-
 ARTICULO 24° Sólo se podrán transferir a título de tal y comercializar las semillas que cumplan con los requisitos establecidos en este decreto ley y su reglamento, sin perjuicio de las disposiciones vigentes sobre sanidad vegetal.
 ARTICULO 25° La transferencia de toda semilla conlleva la garantía de genuinidad, pureza, germinación y estado sanitario. También se garantiza por el tradente, en el caso de los hídridos, que la semilla que se transfiere ha sido obtenida por métodos que aseguren un comportamiento normal. Los reglamentos establecerán, además, los porcentajes y niveles de genuinidad, pureza y germinación para cada etapa de cada especie o variedad, como asimismo, normas relativas a las siguientes materias: a) Estado sanitario que deberán tener las semillas; b) Las mezclas y expendio de semillas mezcladas; c) Envases, etiquetas, señales y marcas; d) En general, todas las medidas conducentes a garantizar que las semillas que se comercialicen cumplan con las exigencias establecidas en las leyes y reglamentos.
 ARTICULO 26° Toda semilla que se transfiere debe ser envasada. El envase llevará una etiqueta que describa y garantice su contenido, la cual deberá señalar, además, que se han cumplido los requisitos establecidos en este decreto ley y su reglamento.
