@@ -1,0 +1,7 @@
+# Decreto Ley N° 1564
+MODIFICA ARTICULO 3° DEL DECRETO LEY N° 353, DE 1974
+**Publicada:** 1976-10-18
+MODIFICA ARTICULO 3° DEL DECRETO LEY N° 353, DE 1974 Núm. 1.564.- Santiago, 28 de Septiembre de 1976.- Vistos: Lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, y Considerando: 1°- Que el Colegio de Profesores de Chile, por sus finalidades, está llamado a prestar colaboración a los organismos nacionales de formación pedagógica, y 2°- Que el Consejo de Coordinación Nacional de Formación de Docentes, establecido en virtud del DL. N° 353, de 1974, no ha consultado entre sus integrantes a un representante del citado Colegio, La Junta de Gobierno acuerda dictar el siguiente Decreto ley:
+Artículo único.- Agrégase la siguiente letra c) al artículo 3° del decreto ley N° 353, de 1974: "c) Un representante del Colegio de Profesores de Chile".
+---
+Regístrese en la Contraloría General de la República, publíquese e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Arturo Troncoso Daroch, Contralmirante, Ministro de Educación Pública. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Alfredo Prieto Bafalluy, Subsecretario de Educación Pública.
