@@ -1,0 +1,9 @@
+# Decreto Ley N° 1620
+FACULTA AL BANCO CENTRAL DE CHILE PARA RECHAZAR LAS
+IMPORTACIONES A QUE SE REFIERE EL ARTICULO 10 DE LA LEY
+N° 16.624
+**Publicada:** 1976-12-17
+FACULTA AL BANCO CENTRAL DE CHILE PARA RECHAZAR LAS IMPORTACIONES A QUE SE REFIERE EL ARTICULO 10 DE LA LEY N° 16.624 Núm. 1.620.- Santiago, 15 de Diciembre de 1976.- Vistos: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527,de 1974; y 991 de 1976; La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único: Sustitúyese el inciso 2° del artículo 10, de la ley N° 16.624, por el siguiente: "No obstante, el Banco Central de Chile o la Comisión Chilena del Cobre, en su caso, no darán curso a los Registros de Importación que se presenten acogidos a las franquicias señaladas en el inciso anterior cuando a su juicio se refieran a mercancías que se produzcan en el país, en cantidad suficiente y en condiciones similares de calidad y precio, incluyendo, para los efectos de la comparación de este último, el valor del flete y seguro hasta puerto chileno, los derechos de importación y demás impuestos que se perciban por intermedio de las Aduanas y cualquier otro gravamen o contribución a que daría origen la internación".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, General Director de Carabineros.- Pedro Larrondo Jara, Capitán de Navío (AB), Subsecretario de Hacienda subrogante. Lo que transcribo para su conocimiento.- Aldo Montagna Bargetto, Capitán de Navío, JT, Secretario de Legislación de la Junta de Gobierno.
