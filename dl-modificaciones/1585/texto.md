@@ -1,0 +1,8 @@
+# Decreto Ley N° 1585
+MODIFICA EL DECRETO LEY N° 679, DE 1974, SOBRE
+CALIFICACION CINEMATOGRAFICA, EN LA FORMA QUE INDICA
+**Publicada:** 1976-11-08
+MODIFICA EL DECRETO LEY N° 679, DE 1974, SOBRE CALIFICACION CINEMATOGRAFICA, EN LA FORMA QUE INDICA Núm. 1.585.- Santiago, 21 de Octubre de 1976.- Visto: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Introdúcense las siguientes enmiendas al artículo 28° del decreto ley N° 679, de 1974: 1a.) Intercálase el siguiente inciso segundo nuevo: "Exímese del pago de los derechos establecidos en el inciso anterior las películas que, en concepto del Consejo de Calificación Cinematográfica, tengan carácter educativo o cultural y cuya exhibición no persiga fines de lucro", y 2a.) En el actual inciso segundo, que pasa a ser inciso tercero, reemplázase la frase "inciso anterior" por "inciso primero".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Arturo Troncoso Daroch, Contralmirante, Ministro de Educación Pública. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Alfredo Prieto Bafalluy, Subsecretario de Educación Pública.
