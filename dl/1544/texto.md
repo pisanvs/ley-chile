@@ -1,10 +1,11 @@
 # Decreto Ley N° 1544
 AUTORIZA CASINO DE JUEGOS EN LA COMUNA DE COQUIMBO
 **Publicada:** 1976-08-27
+**Versión:** 1993-08-21
 AUTORIZA CASINO DE JUEGOS EN LA COMUNA DE COQUIMBO Núm. 1.544.- Santiago.- 23 de Agosto de 1976.- Visto: Lo dispuesto en los decretos leyes N.os 1 y 128, de 1973; 527, de 1974, y 991 de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente. Decreto Ley:
 Artículo 1°.- Autorízase el establecimiento de un casino en la comuna de Coquimbo, respecto del cual no regirán las disposiciones de los artículo 277, 278 y 279, del Código Penal, ni las demás prohibiciones legales sobre la materia.
 Artículo 2°.- La explotación del casino se concederá mediante el sistema de propuestas públicas, a particulares, personas naturales o jurídicas, chilenas o extranjeras. No podrá otorgarse la concesión a personas jurídicas de responsabilidad limitada. Las concesiones no podrán otorgarse sino por períodos hasta de 5 años renovables. La instalación, alhajamiento, equipamiento y mantención del casino, será de exclusivo cargo del concesionario, no pudiendo irrogar gasto alguno para el Fisco o la I. Municipalidad de Coquimbo.
-Artículo 3°.- El porcentaje de la utilidad líquida que fije el Reglamento ingresará al Presupuesto de la IV Región y se destinará a financiar los proyectos de desarrollo en la misma región. El remanente de dicha utilidad será la retribución que se pague al concesionario.
+Artículo 3°.- El porcentaje de la utilidad de explotación del casino o cualquier forma de retribución que el concesionario se obligue a pagar, constituirán ingresos propios de la Municipalidad de Coquimbo.
 Artículo 4°.- Los ingresos provenientes de la venta de entradas para acceso al casino y a sus salas de juego, pertenecerán a la I. Municipalidad de Coquimbo, la que deberá destinarlos a obras materiales de desarrollo comunal.
 Artículo 5°.- La Contraloría General de la República fiscalizará la percepción e inversión de los recursos provenientes de la explotación del casino, en conformidad con lo dispuesto en este decreto ley.
 ---
