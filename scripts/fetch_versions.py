@@ -34,13 +34,8 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
-from utils import AdaptiveLimiter, detect_data_root, law_dir  # noqa: E402
+from utils import AdaptiveLimiter, detect_data_root, law_dir, setup_logging, Progress  # noqa: E402
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s %(levelname)s %(message)s",
-    datefmt="%H:%M:%S",
-)
 logger = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
@@ -56,6 +51,38 @@ HEADERS = {
 
 PROGRESS_SAVE_EVERY = 20
 LOG_EVERY = 50
+
+
+# ---------------------------------------------------------------------------
+# Version budget
+# ---------------------------------------------------------------------------
+
+
+def _apply_version_budget(
+    work: list[tuple[int, dict]],
+    budget: int | None,
+) -> list[tuple[int, dict]]:
+    """Truncate work queue so total version-fetch cost does not exceed budget.
+
+    Cost of a norma = number of valid vigencias (sentinel dates excluded).
+    The last item that pushes the budget negative is still included — overshoot
+    is bounded by the cost of one norma (typically a few versions).
+    """
+    if budget is None:
+        return work
+    remaining = budget
+    result = []
+    for id_norma, node in work:
+        if remaining <= 0:
+            break
+        vigencias = [
+            v for v in node.get("vigencias", [])
+            if v.get("desde", "") and int(v["desde"][:4]) <= 2100
+        ]
+        cost = max(1, len(vigencias))
+        remaining -= cost
+        result.append((id_norma, node))
+    return result
 
 # ---------------------------------------------------------------------------
 # Thread-local session
@@ -274,12 +301,16 @@ def _write_outputs(
     latest_flat: dict[int, str],
     diffs_cache_dir: Path,
     data_root: Path,
+    write_law_outputs: bool = True,
 ) -> None:
     """Write cache/diffs/{idNorma}.json and {law_dir}/versiones.json + texto.md."""
-    # 1. cache/diffs/{idNorma}.json
+    # 1. cache/diffs/{idNorma}.json — always written
     diffs_cache_dir.mkdir(parents=True, exist_ok=True)
     diff_path = diffs_cache_dir / f"{id_norma}.json"
     diff_path.write_text(json.dumps(diff_list, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    if not write_law_outputs:
+        return
 
     # 2. Resolve law_dir
     numero = node.get("numero", str(id_norma))
@@ -342,7 +373,16 @@ def _write_outputs(
 # ---------------------------------------------------------------------------
 
 
-async def run(data_root: Path, limit: int | None, only_id: int | None) -> None:
+async def run(
+    data_root: Path,
+    limit: int | None,
+    only_id: int | None,
+    cache_dir: Path | None = None,
+    version_budget: int | None = None,
+) -> None:
+    if cache_dir is None:
+        cache_dir = data_root / "cache"
+
     graph_path = data_root / "graph.json"
     if not graph_path.exists():
         logger.error(f"graph.json not found at {graph_path}")
@@ -364,12 +404,14 @@ async def run(data_root: Path, limit: int | None, only_id: int | None) -> None:
 
     logger.info(f"Nodes with 1+ vigencias: {len(candidates)}")
 
+    # Always sort by fechaPublicacion; apply limit after
+    candidates = sorted(candidates, key=lambda t: t[1].get("fechaPublicacion") or "")
     if limit:
-        candidates = candidates[:limit]
-        logger.info(f"--limit applied: processing {len(candidates)}")
+        candidates = candidates[-abs(limit):] if limit < 0 else candidates[:limit]
+        logger.info(f"--limit applied: processing {'most recent' if limit < 0 else 'oldest'} {len(candidates)} by fechaPublicacion")
 
-    versions_cache_dir = data_root / "cache" / "versions"
-    diffs_cache_dir = data_root / "cache" / "diffs"
+    versions_cache_dir = cache_dir / "versions"
+    diffs_cache_dir = cache_dir / "diffs"
     versions_cache_dir.mkdir(parents=True, exist_ok=True)
     diffs_cache_dir.mkdir(parents=True, exist_ok=True)
 
@@ -385,6 +427,11 @@ async def run(data_root: Path, limit: int | None, only_id: int | None) -> None:
         id_norma = int(id_str)
         if id_norma in done_set:
             continue
+        # Skip normas whose diffs file already exists — handles fresh checkouts
+        # where done_set is empty but the cache branch already has results.
+        if (diffs_cache_dir / f"{id_str}.json").exists():
+            done_set.add(id_norma)
+            continue
         if failed_map.get(id_str, 0) >= 3:
             continue
         work.append((id_norma, node))
@@ -394,75 +441,78 @@ async def run(data_root: Path, limit: int | None, only_id: int | None) -> None:
         f"skipped (failed≥3): {len([k for k, v in failed_map.items() if v >= 3])}"
     )
 
+    work = _apply_version_budget(work, version_budget)
+    if version_budget is not None:
+        logger.info("Budget %d: processing %d normas", version_budget, len(work))
+
     if not work:
         logger.info("Nothing to do.")
         return
 
+    # Determine whether to write versiones.json and texto.md into law dirs
+    write_law_outputs = (cache_dir == data_root / "cache")
+
     limiter = AdaptiveLimiter(start=3, min_c=1, max_c=10)
 
     completions_since_save = 0
-    fetches_since_log = 0
-    fetch_count = 0
 
     loop = asyncio.get_running_loop()
     executor = ThreadPoolExecutor(max_workers=10)
 
-    async def process(id_norma: int, node: dict) -> None:
-        nonlocal completions_since_save, fetches_since_log, fetch_count
+    with Progress("fetch_versions", total=len(work), unit="normas") as bar:
 
-        await limiter.acquire()
-        try:
-            id_n, diff_list, latest_flat, err = await loop.run_in_executor(
-                executor,
-                _process_norma_sync,
-                id_norma,
-                node,
-                versions_cache_dir,
-            )
-        finally:
-            limiter.release()
+        async def process(id_norma: int, node: dict) -> None:
+            nonlocal completions_since_save
 
-        fetch_count += 1
-        fetches_since_log += 1
+            await limiter.acquire()
+            try:
+                id_n, diff_list, latest_flat, err = await loop.run_in_executor(
+                    executor,
+                    _process_norma_sync,
+                    id_norma,
+                    node,
+                    versions_cache_dir,
+                )
+            finally:
+                limiter.release()
 
-        if err is not None:
-            status_code = getattr(getattr(err, "response", None), "status_code", None)
-            if status_code in (429, 503):
-                await limiter.on_rate_limit()
-                logger.warning(f"Rate limited on {id_norma}: {err}")
+            if err is not None:
+                status_code = getattr(getattr(err, "response", None), "status_code", None)
+                if status_code in (429, 503):
+                    await limiter.on_rate_limit()
+                    logger.warning(f"Rate limited on {id_norma}: {err}")
+                else:
+                    failure_count = failed_map.get(str(id_norma), 0)
+                    await limiter.on_error(failure_count)
+                    logger.warning(f"Error processing {id_norma}: {err}")
+                failed_map[str(id_norma)] = failed_map.get(str(id_norma), 0) + 1
             else:
-                failure_count = failed_map.get(str(id_norma), 0)
-                await limiter.on_error(failure_count)
-                logger.warning(f"Error processing {id_norma}: {err}")
-            failed_map[str(id_norma)] = failed_map.get(str(id_norma), 0) + 1
-        else:
-            await limiter.on_success()
-            _write_outputs(id_norma, node, diff_list, latest_flat or {}, diffs_cache_dir, data_root)
-            done_set.add(id_norma)
-            completions_since_save += 1
+                await limiter.on_success()
+                _write_outputs(
+                    id_norma, node, diff_list, latest_flat or {},
+                    diffs_cache_dir, data_root,
+                    write_law_outputs=write_law_outputs,
+                )
+                done_set.add(id_norma)
+                completions_since_save += 1
 
-        if fetches_since_log >= LOG_EVERY:
-            fetches_since_log = 0
-            logger.info(
-                f"[{fetch_count}/{len(work)}] done={len(done_set)} "
-                f"failed={len(failed_map)} concurrency={limiter.concurrency}"
-            )
+            bar.update(1, status=f"id={id_norma} c={limiter.concurrency}")
 
-        if completions_since_save >= PROGRESS_SAVE_EVERY:
-            completions_since_save = 0
+            if completions_since_save >= PROGRESS_SAVE_EVERY:
+                completions_since_save = 0
+                progress["done"] = list(done_set)
+                progress["failed"] = failed_map
+                _save_progress(progress_path, progress)
+
+        tasks = [asyncio.create_task(process(id_norma, node)) for id_norma, node in work]
+
+        try:
+            await asyncio.gather(*tasks)
+        finally:
             progress["done"] = list(done_set)
             progress["failed"] = failed_map
             _save_progress(progress_path, progress)
-
-    tasks = [asyncio.create_task(process(id_norma, node)) for id_norma, node in work]
-
-    try:
-        await asyncio.gather(*tasks)
-    finally:
-        progress["done"] = list(done_set)
-        progress["failed"] = failed_map
-        _save_progress(progress_path, progress)
-        executor.shutdown(wait=True)
+            executor.shutdown(wait=True)
 
     logger.info(
         f"Done. total_done={len(done_set)} "
@@ -489,7 +539,7 @@ def main() -> None:
         type=int,
         metavar="N",
         default=None,
-        help="Process only the first N normas (for testing)",
+        help="Limit by fechaPublicacion order: +N = N oldest, -N = N most recent (e.g. --limit -5)",
     )
     parser.add_argument(
         "--id",
@@ -498,12 +548,28 @@ def main() -> None:
         default=None,
         help="Process only this specific idNorma (for testing)",
     )
+    parser.add_argument("--verbose", action="store_true", help="Enable DEBUG logging.")
+    parser.add_argument(
+        "--cache-dir",
+        metavar="PATH",
+        default=None,
+        help="Directory for cache files (default: {data-root}/cache)",
+    )
+    parser.add_argument(
+        "--version-budget",
+        type=int,
+        metavar="N",
+        default=None,
+        help="Max total version-fetches for this run",
+    )
     args = parser.parse_args()
 
+    setup_logging(verbose=args.verbose)
     data_root = Path(args.data_root).resolve() if args.data_root else detect_data_root()
     logger.info(f"DATA_ROOT: {data_root}")
 
-    asyncio.run(run(data_root, args.limit, args.id))
+    cache_dir = Path(args.cache_dir).resolve() if args.cache_dir else None
+    asyncio.run(run(data_root, args.limit, args.id, cache_dir, args.version_budget))
 
 
 if __name__ == "__main__":
