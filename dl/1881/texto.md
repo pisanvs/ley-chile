@@ -1,0 +1,10 @@
+# Decreto Ley N° 1881
+SUSTITUYE ARTICULO 112 DEL DFL. (G) N° 1, DE 1968;
+DEROGA LETRA A) DEL ARTICULO 191 DE DICHO CUERPO LEGAL Y
+SUSTITUYE ARTICULO 41 DEL DFL. (I) N° 2, DE 1968.
+**Publicada:** 1977-09-08
+SUSTITUYE ARTICULO 112 DEL DFL. (G) N° 1, DE 1968; DEROGA LETRA A) DEL ARTICULO 191 DE DICHO CUERPO LEGAL Y SUSTITUYE ARTICULO 41 DEL DFL. (I) N° 2, DE 1968. Santiago, 17 de Agosto de 1977.- Con esta fecha se ha dictado lo siguiente: Núm. 1.881.- Visto: lo dispuesto en los decretos leyes N° 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente, Decreto ley:
+Artículo 1°.- Introdúcense las siguientes modificaciones al DFL. (G) N° 1, de 1968, sobre Estatuto del Personal de las Fuerzas Armadas, cuyo texto refundido, coordinado y sistematizado fue fijado por decreto supremo N° 14, de Guerra, publicado en el Diario Oficial de 9 de Marzo de 1977: a) Sustitúyese el artículo 112 por el siguiente: "Artículo 112.- Las remuneraciones del personal afecto a la presente ley se reducirán al 80%, en caso de hallarse suspendido de su empleo". b) Derógase la letra a) del artículo 191.
+Artículo 2°.- Sustitúyese el artículo 41 del DFL. (I) N° 2, de 1968, sobre Estatuto del Personal de Carabineros de Chile, por el siguiente: "Artículo 41.- Las remuneraciones del personal afecto a la presente ley se reducirán al 80%, en caso de hallarse suspendido de su empleo".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría y en los boletines oficiales del Ejército, Armada, Fuerza Aérea y Carabineros.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General Director de Carabineros.- Herman Brady Roche, General de División, Ministro de Defensa Nacional. Lo que se transcribe para su conocimiento.- Roberto Guillard Marinot, Coronel, Subsecretario de Guerra.
