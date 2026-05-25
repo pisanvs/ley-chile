@@ -1,0 +1,8 @@
+# Decreto Ley N° 1572
+MODIFICA EL ARTICULO 95° DE LA LEY N° 17.336, SOBRE
+PROPIEDAD INTELECTUAL
+**Publicada:** 1976-11-04
+MODIFICA EL ARTICULO 95° DE LA LEY N° 17.336, SOBRE PROPIEDAD INTELECTUAL Núm. 1.572.- Santiago, 7 de Octubre de 1976.- Visto: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, y Considerando: Que es justo compensar el perjuicio económico que experimentan los autores e intérpretes de obras intelectuales o artísticas cuando los usuarios de ellas retardan o no cumplen el pago de las cantidades de dinero adeudadas por concepto de derecho de autor y derechos conexos, La Junta de Gobierno acuerda dictar el siguiente Decreto ley:
+Artículo único.- Agrégase el siguiente inciso tercero al artículo 95 de la ley N° 17.336: "Sin perjuicio de la multa establecida en el inciso primero, las cantidades de dinero adeudadas por concepto de derechos devengarán el interés corriente bancario, a contar del décimo día del mes siguiente a aquel en que tales derechos se hayan generado".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Arturo Troncoso Daroch, Contralmirante, Ministro de Educación Pública. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Alfredo Prieto Bafalluy, Subsecretario de Educación Pública.
