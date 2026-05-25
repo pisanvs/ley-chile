@@ -1,0 +1,9 @@
+# Decreto Ley N° 1631
+MEJORAMIENTO REMUNERACIONES PROFESIONALES REGIDOS
+POR LA LEY N° 15.076
+**Publicada:** 1976-12-24
+MEJORAMIENTO REMUNERACIONES PROFESIONALES REGIDOS POR LA LEY N° 15.076 Núm. 1.631.- Santiago, 22 de Diciembre de 1976.- Vistos: lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; N° 527, de 1974, y N° 991, publicado en 1975, La Junta de Gobierno de la República ha acordado dictar el siguiente Decreto ley:
+Artículo 1°- Introdúcense, a contar del 1° de Enero de 1977, al texto definitivo de la ley N° 15.076, fijado por decreto supremo N° 252, de 14 de Septiembre de 1976, del Ministerio de Salud Pública, las siguientes modificaciones: a) Sustitúyense, en el inciso primero del artículo 7°, los guarismos "9,6; 7,2; 4,8 y 2,4" por "10; 7,5; 5 y 2,5", respectivamente. b) Reemplázanse, en el inciso segundo del artículo 9°, las palabras "ciento sesenta por ciento" por "ciento setenta y cinco por ciento".
+Artículo 2°- El mayor gasto de cargo fiscal que representa la aplicación de este decreto ley durante 1977, se financiará con cargo a los recursos consignados al efecto en la ley de Presupuestos de dicho año.
+---
+Regístrese en la Contraloría General de la República publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General de Carabineros, General Director de Carabineros.- Pedro Larrondo Jara, Capitán de Navío (AB), Ministro de Hacienda subrogante.- Edgardo Cruz Mena, Ministro de Salud Pública subrogante. Lo que transcribo para su conocimiento.- Aldo Montagna Bargetto, Capitán de Navío, JT, Secretario de Legislación de la Junta de Gobierno.
