@@ -1,0 +1,46 @@
+name: Update Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * 1"  # Monday 06:00 UTC
+
+concurrency:
+  group: pipeline-graph
+  cancel-in-progress: false
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure git
+        run: |
+          git config user.name "ley-chile-bot"
+          git config user.email "bot@ley-chile"
+
+      - name: Build catalog
+        run: python scripts/build_catalog.py --data-root .
+
+      - name: Fetch normas graph
+        run: python scripts/fetch_normas.py --data-root .
+
+      - name: Commit graph.json and catalog.json
+        run: |
+          git add graph.json catalog.json
+          git diff --cached --quiet && echo "No changes to graph" && exit 0
+          git commit -m "chore: update graph.json and catalog.json"
+          git push origin ${{ github.ref_name }}
