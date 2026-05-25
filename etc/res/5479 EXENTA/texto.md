@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-Establécese las siguientes regulaciones de importación para plantas, estacas y ramillas de las siguientes especies: Vaccinium corymbosum, Corylus avellana, Punica granatum, Persea americana; para esquejes enraizados y sin enraizar de Fragaria x ananassa, procedentes Estados Unidos de Norteamérica, a condición de cumplir en lo general con las resoluciones del Servicio Agrícola y Ganadero Nº 3.280 de 1999, que establece requisitos para el ingreso de material vegetal en régimen de Cuarentena de Post-Entrada, y Nº 2.863 de 2001 que la complementa, y en lo particular con lo que se establece en la presente resolución:
+Establécese las siguientes regulaciones de importación para plantas, estacas y ramillas de las siguientes especies: Corylus avellana, Punica granatum, Persea americana; procedentes Estados Unidos de Norteamérica, a condición de cumplir en lo general con las resoluciones del Servicio Agrícola y Ganadero Nº 3.280 de 1999, que establece requisitos para el ingreso de material vegetal en régimen de Cuarentena de Post-Entrada, y Nº 2.863 de 2001 que la complementa, y en lo particular con lo que se establece en la presente resolución:
 
 1. El material, deberá venir amparado por un Certificado Fitosanitario del Departamento de Agricultura de Estados Unidos (USDA/APHIS), en el que consten los siguientes requisitos y declaraciones adicionales:
 
@@ -36,149 +36,7 @@ material de
 
 reproducción
 
-* El material procede
-
-de plantas madres
-
-que han sido
-
-inspeccionadas
-
-durante el último
-
-período de crecimiento
-
-activo y analizadas
-
-utilizando indicadores
-
-adecuados o métodos
-
-equivalentes y
-
-Arándano encontradas libres
-
-(Vaccinium de Blueberry leaf
-
-corymbosum) mottle virus, Blueberry
-
-scorch virus, Blueberry
-
-stunt phytoplasma,
-
-indicando la técnica
-
-analítica utilizada
-
-en el diagnóstico de
-
-cada plaga.
-
-Plantas,
-
-estacas
-
-o ramillas
-
-* El material procede
-
-de plantas madres que
-
-han sido inspeccionadas
-
-oficialmente durante
-
-el último período
-
-de crecimiento activo
-
-y encontradas libres
-
-de Botryosphaeria
-
-corticis, Exobasidium
-
-vaccinii, Monilinia
-
-vaccinii-corymbosi,
-
-Pucciniastrum
-
-goeppertianum y
-
-Pucciniastrum vaccinii
-
-(P.myrtilli).
-
-* El material se encuentra
-
 libre de los
-
-siguientes artrópodos:
-
-Acrobasis vaccinü
-
-(Lep. Pyralidae)
-
-Argyrotaenia citrana
-
-(Lep. Tortricidae)
-
-Brevipalpus lilium
-
-(Ac. Tenuipalpidade)
-
-Choristoneura rosaceae
-
-(Lep. Tortricidae)
-
-Conotrachelus nenúfar
-
-(Col. Curculionidae)
-
-Dasineura oxicoccana
-
-(Dip. Cecidonidae)
-
-Grapholita (Cydia)
-
-packardi (Lep. Tortricidae)
-
-Operophtera brumata
-
-(Lep. Tortricidae)
-
-Scaphytopius magdalensis
-
-(Hem. Cicadellidae)
-
-Synanthedon scitula
-
-(Lep. Sessidae)
-
-* El material se encuentra
-
-librede Acalitus vaccini
-
-(Ac. Eriophyidae), de
-
-acuerdo con el
-
-resultado de análisis
-
-oficial, según la
-
-técnica de diagnóstico
-
-de disección de
-
-yemas bajo microscopio
-
-binocular de
-
-laboratorio.
-
-* ELIMINADO.
 
 Avellano * Las plantas fueron
 
@@ -270,111 +128,7 @@ binocular de laboratorio.
 
 * ELIMINADO.
 
-Frutilla * El material procede
-
-de plantas madres que
-
-han sido inspeccionadas
-
-(Fragaria x durante el último
-
-ananassa) período de crecimiento
-
-activo y encontradas libres
-
-de Xanthomonas fragariae,
-
-Colletotrichum
-
-acutatum, Colleto-
-
-Esquejes trichum fragariae y
-
-enraizados o Peronospora fragariae.
-
-sin enraizar
-
-* El material se encuentra
-
-libre de los
-
-siguientes artrópodos:
-
-Archips spp. (Lep.Tortricidae)
-
-Cacoecimorpha pronubana
-
-(Lep.Tortricidae)
-
-Choristoneura rosaceana
-
-(Lep.Tortricidae)
-
-Cnephasia longana
-
-(Lep.Tortricidae)
-
-Erythoneura elegantula
-
-(Hem. Cicadellidae)
-
-Lygus lineolaris
-
-(Hem. Lygaeidae)
-
-Monochroa fragariae
-
-(Lep. Gelechiidae)
-
-Otiorhynchus ovatus
-
-(Col. Curculionidae)
-
-Philaenus spumarius
-
-(Hem. Cercopidae)
-
-Synanthedon bibionipennis
-
-(Lep. Sessidae)
-
-Tetranychus mcdanieli
-
-(Ac.Tetranychidae)
-
-Tetranychus turkestani
-
-(Ac.Tetranychidae)
-
-Tyloderma fragariae
-
-(Col. Curculionidae)
-
-* En envíos de esquejes con
-
-raíz, además se debe
-
-indicar que se encuentran
-
-libres de los nemátodos:
-
-Aphelenchoides besseyi,
-
-Aphelenchoides
-
-fragariae, Ditylenchus
-
-dipsaci raza frutilla,
-
-Longidorus elongatus,
-
-y Xiphinema
-
-diversicaudatum,
-
-de acuerdo a análisis
-
-oficial de laboratorio.
+* ELIMINADO
 
 Granado
 
@@ -480,65 +234,69 @@ utilizada en el
 
 diagnóstico de la plaga.
 
-* El material se encuentra libre de los
+* El material se encuentra libre
 
-siguientes artrópodos:
+de los siguientes artrópodos:
 
-Aonidiella orientalis
-
-(Hem. Diaspididae)
-
-Aleurocanthus woglumi
-
-(Hem. Aleyrodidae)
-
-Aleurodicus spp.
-
-(Hem. Aleyrodidae)
-
-Aspidiotus destructor
+### 1. Aonidiella orientalis
 
 (Hem. Diaspididae)
 
-Ceroplastes floridensis
+### 2. Aleurocanthus woglumi
+
+(Hem. Aleyrodidae)
+
+### 3. Aleurodicus spp
+
+(Hem. Aleyrodidae)
+
+### 4. Aspidiotus destructor
+
+(Hem. Diaspididae)
+
+### 5. Ceroplastes floridensis
 
 (Hem. Coccidae)
 
-Homalodisca coagulata
+### 6. Epiphyas postvittana
+
+(Lep. Tortricidae)
+
+### 7. Homalodisca coagulata
 
 (Hem. Cicadellidae)
 
-Marmara gulosa
+### 8. Marmara gulosa
 
 (Lep. Gracillariae)
 
-Nipacoccus nipae
+### 9. Nipacoccus nipae
 
 (Hem. Pseudoccidae)
 
-Oligonychus persea
+### 10. Oligonychus persea
 
-(Ac.Tetranychidae)
+(Ac. Tetranychidae)
 
-Parabemisia myricae
-
-(Hem. Aleyrodidae)
-
-Paraleyrodes persea
+### 11. Parabemisia myricae
 
 (Hem. Aleyrodidae)
 
-Scirtothrips persea
+### 12. Paraleyrodes persea
+
+(Hem. Aleyrodidae)
+
+### 13. Scirtothrips persea
 
 (Thy. Thripidae)
 
-Selenothrips rubrocinctus
+### 14. Selenothrips rubrocintus
 
 (Thy. Thripidae)
 
-Tetranychus neocaledonicus
+### 15. Tetranychus neocaledonicus
 
-(Ac.Tetranychidae)
+(Ac. Tetranychidae)
 
 * Adicionalmente en envíos
 
