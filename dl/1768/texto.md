@@ -1,0 +1,8 @@
+# Decreto Ley N° 1768
+OTORGA NUEVO PLAZO PARA EJERCER EL DERECHO QUE
+CONCEDE EL ARTICULO TRANSITORIO DE LA LEY N° 17.902
+**Publicada:** 1977-05-12
+OTORGA NUEVO PLAZO PARA EJERCER EL DERECHO QUE CONCEDE EL ARTICULO TRANSITORIO DE LA LEY N° 17.902 Santiago, 28 de Abril de 1977.- Con esta fecha se ha dictado el siguiente decreto ley: Núm. 1.768.- Visto: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Otórgase un nuevo plazo de un año, contado desde la publicación del presente decreto ley, para que las personas que, a la fecha de publicación de la ley N° 17.902, hubieran perdido o disminuido su desahucio legal o sus derechos previsionales a título de sanción principal o accesoría por la comisión de delitos o de infracciones administrativas o de cualquier otro carácter establecido en las leyes, puedan recuperarlos haciendo uso del derecho contenido en el artículo transitorio de la citada ley, en las mismas condiciones establecidas en él.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, General Director de Carabineros.- Sergio Fernández Fernández, Ministro del Trabajo y Previsión Social. Lo que transcribo a U. para su conocimiento.- Saluda a U.- Alfonso Serrano Spoerer, Subsecretario de Previsión Social.
