@@ -26,11 +26,17 @@ El Sistema velará por el respeto a las particularidades de cada nivel y modalid
 
 #### Artículo 4
 
-Integrantes del Sistema. Son integrantes del Sistema los establecimientos educacionales dependientes de los Servicios Locales de Educación Pública, con sus distintos niveles y modalidades educativas, los Servicios Locales de Educación Pública (en adelante también "Servicios Locales") y el Ministerio de Educación, a través de la Dirección de Educación Pública, según lo dispuesto en los Títulos II, III y IV, respectivamente.
+Integrantes del Sistema. Son integrantes del Sistema los establecimientos educacionales dependientes de los Servicios Locales de Educación Pública, con sus distintos niveles y modalidades educativas, los Servicios Locales de Educación Pública (en adelante también "Servicios Locales") y el Ministerio de Educación, a través de la Dirección de Educación Pública, según lo dispuesto en la presente ley.
 
 Los establecimientos educacionales son la unidad básica y fundamental del Sistema. Están conformados por sus respectivas comunidades educativas, integradas por estudiantes, padres, apoderados, profesionales de la educación, asistentes de la educación y por sus respectivos equipos docentes directivos. Dichos establecimientos contarán con autonomía para la definición y desarrollo de sus proyectos educativos, de acuerdo a la identidad y características propias de sus comunidades, de conformidad a la normativa vigente.
 
 En este marco, corresponderá a los profesionales de la educación ejercer un rol fundamental para la consecución del objeto del Sistema y para la materialización de los principios que lo guían, establecidos en el artículo siguiente, desarrollando estrategias y metodologías con creatividad y autonomía, de acuerdo a lo establecido en la letra b) del inciso cuarto del artículo 19 del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación.
+
+Los Servicios Locales están encargados de proveer el servicio educativo a través de los establecimientos educacionales de su dependencia, y se relacionan con el Ministerio de Educación por intermedio de la Dirección de Educación Pública, en los términos dispuestos por esta ley.
+
+La Dirección de Educación Pública será responsable de coordinar y conducir estratégicamente el Sistema, velando por su desarrollo y mejoramiento permanente, considerando las políticas, planes y programas elaborados por el Ministerio de Educación.
+
+El Ministerio de Educación, en su calidad de órgano rector del sistema educativo, promoverá la articulación entre los órganos e instituciones que componen el Sistema de Educación Pública y aquellos que integran el Sistema de Aseguramiento de la Calidad de la Educación. Asimismo, a través de la Subsecretaría de Educación y la Subsecretaría de Educación Parvularia, ejercerá las demás funciones o atribuciones determinadas por la ley.
 
 #### Artículo 5
 
@@ -50,6 +56,8 @@ En ningún caso se podrá condicionar la incorporación o permanencia de los est
 
 d) Desarrollo equitativo e igualdad de oportunidades. Los integrantes del Sistema deberán ejecutar medidas de acción positiva que, en el ámbito educacional, se orienten a evitar o compensar las consecuencias derivadas de las desigualdades de origen o condición de los estudiantes, velando particularmente por aquellos que requieran de apoyos especiales y una atención diferenciada, con el propósito de que puedan desarrollar al máximo sus potencialidades.
 
+Además, promoverán la justicia educativa y el desarrollo de comunidades educativas inclusivas, que favorezcan el acceso, la participación, permanencia y progreso de los estudiantes en las trayectorias educativas.
+
 e) Colaboración y trabajo en red. El Sistema y sus integrantes basarán su funcionamiento en la colaboración, fomentando la cooperación permanente y sistemática entre las instituciones que lo componen, con el objeto de propender al pleno desarrollo de la educación pública. Para ello, deberán realizar un trabajo colaborativo y en red, basado en el desarrollo profesional, el intercambio de información, el acceso común a servicios e instalaciones, la generación de redes de aprendizaje entre los integrantes de las comunidades educativas, el fomento del trabajo conjunto de sus diversos profesionales y el intercambio de buenas prácticas pedagógicas y de gestión educativa, promoviendo el desarrollo de estrategias colectivas para responder a sus desafíos comunes.
 
 Asimismo, los Servicios Locales propenderán a realizar un trabajo colaborativo con órganos pertenecientes a los sectores de salud, deporte, cultura, entre otros, y con sostenedores de la educación particular y particular subvencionada.
@@ -60,6 +68,8 @@ Para estos efectos, el Sistema deberá asegurar especialmente el respeto por la 
 
 g) Pertinencia local, diversidad de los proyectos educativos y participación de la comunidad. El Sistema deberá contar con proyectos educativos diversos y pertinentes a la identidad, necesidades e intereses de la comunidad, respetando siempre los derechos humanos y la convivencia democrática.
 
+El Sistema promoverá, a través de los Servicios Locales de Educación Pública, la creación e implementación de bases curriculares con pertinencia local. Para tal efecto, los Servicios Locales deberán prestar asesoría técnica a los establecimientos, cuando así lo requieran, para adecuar e implementar estas bases curriculares locales.
+
 En la formulación y desarrollo de los proyectos educativos de los establecimientos educacionales se deberá garantizar y promover la participación de las comunidades educativas, asegurando el derecho a la información, organización y expresión de sus opiniones en los asuntos que les afectan, de conformidad a la legislación vigente.
 
 h) Formación ciudadana y valores republicanos. El Sistema promoverá en los estudiantes la comprensión del concepto de ciudadanía y los derechos y deberes asociados a ella, entendidos éstos en el marco de una república democrática, con el propósito de formar una ciudadanía activa en el ejercicio y cumplimiento de estos derechos y deberes. En particular, propenderá a difundir los valores republicanos, entendiéndose por tales aquellos propios de la práctica constante de una sociedad democrática, laica y pluralista, esto es, respetuosa de toda expresión religiosa, y de los derechos humanos reconocidos en la Constitución Política de la República y en tratados internacionales suscritos y ratificados por Chile.
@@ -68,15 +78,19 @@ i) Integración con el entorno y la comunidad. El Sistema se encargará de promo
 
 #### Artículo 6
 
-Estrategia Nacional de Educación Pública. El Ministerio de Educación, a propuesta de la Dirección de Educación Pública, oyendo a las Comisiones de Educación de la Cámara de Diputados y del Senado, y previa aprobación del Consejo Nacional de Educación, establecerá la Estrategia Nacional de Educación Pública (en adelante también "la Estrategia"). La Estrategia tendrá por objeto mejorar la calidad de la educación pública provista por los establecimientos educacionales integrantes del Sistema, propendiendo al pleno desarrollo de ésta. Será establecida por medio de un decreto supremo y tendrá una duración de ocho años, pudiendo modificarse luego de una evaluación a la mitad de dicho período o cuando por razones fundadas, debidamente calificadas, así se determine.
+Estrategia Nacional de Educación Pública. El Ministerio de Educación, a propuesta de la Dirección de Educación Pública, oyendo a las Comisiones de Educación de la Cámara de Diputados y del Senado, y previa aprobación del Consejo Nacional de Educación, establecerá la Estrategia Nacional de Educación Pública (en adelante también "la Estrategia"). La Estrategia contendrá orientaciones y lineamientos dirigidos a mejorar la calidad de la educación pública provista por los establecimientos educacionales integrantes del Sistema, propendiendo al pleno desarrollo de ésta. Será establecida por medio de un decreto supremo y tendrá una duración de ocho años, pudiendo modificarse luego de una evaluación a la mitad de dicho período o cuando por razones fundadas, debidamente calificadas, así se determine.
 
-La Estrategia deberá considerar objetivos, metas y acciones en áreas tales como: cobertura y retención de estudiantes en el Sistema, convivencia escolar, apoyos para el aprendizaje, inclusión y atención diferenciada a los estudiantes, implementación curricular, colaboración y articulación de los sectores y niveles educacionales entre sí, todo lo anterior según los recursos que disponga el país y sus respectivos presupuestos.
+La Estrategia deberá considerar objetivos, metas y acciones en áreas tales como: cobertura, inclusión, revinculación y seguimiento de estudiantes en el Sistema, convivencia educativa y bienestar socioemocional de las comunidades, apoyos para el aprendizaje, inclusión y atención diferenciada a los estudiantes, implementación curricular, desarrollo profesional de docentes y funcionarios, colaboración y articulación de los sectores y niveles educacionales entre sí, todo lo anterior según los recursos que disponga el país y sus respectivos presupuestos.
 
-El Ministerio de Educación, cada dos años, remitirá un informe sobre el estado de avance de la Estrategia a las comisiones de Educación de la Cámara de Diputados y del Senado, así como a los organismos del Sistema de Aseguramiento de la Calidad de la Educación. Este informe será presentado ante las comisiones indicadas, que para tal efecto realizarán una sesión conjunta. En dicho informe se describirán las metas y las acciones de la Estrategia ejecutadas en el período y se evaluarán los avances y mejoras de cada Servicio Local. Dicho informe será remitido a los Comités Directivos Locales, a los Consejos Locales y a las Coordinaciones Regionales, establecidos en la presente ley, y estará a disposición de la ciudadanía en el sitio electrónico del Ministerio de Educación.
+El último trimestre de cada año, la Dirección de Educación Pública realizará una evaluación acerca de las acciones y procesos desarrollados en conformidad con la Estrategia, indicando el grado de cumplimiento de los objetivos o metas fijadas para el período. Esta evaluación será informada al Ministerio de Educación, con una propuesta de medidas de ajustes, correcciones o mejoras, cuando corresponda.
 
-En el marco de la elaboración de una nueva Estrategia, así como en sus modificaciones, la Dirección de Educación Pública y los Servicios Locales de Educación Pública, en el nivel que corresponda, deberán establecer un período de participación de las comunidades educativas, con el objeto de recabar su opinión y propuestas. Con el mismo fin, podrá considerar un proceso de consulta ciudadana, en los términos del artículo 73 del decreto con fuerza de ley N° 1, de 2000, del Ministerio Secretaría General de la Presidencia, dirigida a padres, apoderados, directores, docentes, asistentes de la educación, estudiantes y otras personas u organismos interesados en la materia, tales como decanos de las facultades de educación o expertos en el ámbito educacional. Asimismo, tendrá en consideración los informes señalados en el inciso precedente, así como las propuestas que realicen los Directores Ejecutivos de los Servicios Locales, los Comités Directivos Locales, los Consejos Locales y las Coordinaciones Regionales.
+Sin perjuicio de lo anterior, cada dos años, la Dirección de Educación Pública remitirá un informe sobre el estado de avance de la Estrategia a las comisiones de Educación de la Cámara de Diputados y del Senado, así como a los organismos del Sistema de Aseguramiento de la Calidad de la Educación. Este informe, que será presentado ante las comisiones en una sesión especial conjunta, describirá los procesos y acciones de la Estrategia que hayan sido ejecutados durante el bienio, junto a sus resultados, que considerarán el grado de avance de los Planes Estratégicos Locales y Planes Anuales de cada Servicio Local. Asimismo, el informe será remitido a los Comités Directivos Locales, a los Consejos Locales y al Director Ejecutivo de cada Servicio Local, además de dejarse a disposición de la ciudadanía en el sitio electrónico del Ministerio de Educación.
+
+En el marco de la elaboración de una nueva Estrategia, así como en sus modificaciones, la Dirección de Educación Pública y los Servicios Locales de Educación Pública, en el nivel que corresponda, deberán establecer un período de participación de las comunidades educativas, con el objeto de recabar su opinión y propuestas. Con el mismo fin, podrá considerar un proceso de consulta ciudadana, en los términos del artículo 73 del decreto con fuerza de ley N° 1, de 2000, del Ministerio Secretaría General de la Presidencia, dirigida a padres, apoderados, directores, docentes, asistentes de la educación, estudiantes y otras personas u organismos interesados en la materia, tales como decanos de las facultades de educación o expertos en el ámbito educacional. Asimismo, tendrá en consideración los informes señalados en el inciso precedente, así como las propuestas que realicen los Directores Ejecutivos de los Servicios Locales, los Comités Directivos Locales, los Consejos Locales y las Coordinaciones Regionales. Las opiniones recogidas serán evaluadas y ponderadas por la Dirección de Educación Pública, dejándose constancia de aquello en su sitio electrónico.
 
 Los integrantes del Sistema, en el marco de sus funciones y atribuciones, deberán orientar sus acciones al cumplimiento de la Estrategia.
+
+> **Nota.** El inciso primero del artículo cuarto transitorio de la Ley 21819, publicada el 25.05.2026, establece que las modificaciones introducidas a la Estrategia Nacional de Educación Pública, reguladas en el presente artículo, serán aplicables para la próxima elaboración que corresponda llevar a cabo. En tanto, el inciso segundo de la citada ley indica que las modificaciones introducidas por dicha norma a los convenios de gestión educacional, a los Planes Estratégicos Locales y los respectivos Planes Anuales de los Servicios Locales ya instalados, deberán ser consideradas en la suscripción o elaboración de los instrumentos que sucedan a los vigentes a la fecha de publicación de la mencionada ley.
 
 ## Título II
 
@@ -124,7 +138,7 @@ a) Dirigir y coordinar, en conjunto con su equipo directivo, el trabajo técnico
 
 b) Orientar el desarrollo profesional continuo de los docentes y asistentes de la educación. Para ello, deberán proponer al Director Ejecutivo respectivo la implementación de programas o instrumentos de desarrollo profesional de los docentes y otros integrantes del establecimiento educacional, sobre la base de las necesidades del establecimiento, su proyecto educativo institucional, su plan de mejoramiento educativo y los resultados entregados por el Sistema de Desarrollo Profesional Docente.
 
-c) Elaborar y proponer al Director Ejecutivo el proyecto educativo institucional del establecimiento y sus modificaciones, el que deberá ser expresión de la diversidad de la comunidad escolar y atender a las orientaciones del Plan Estratégico Local, consultando previamente al consejo escolar y al consejo de profesores respectivo, de acuerdo a la normativa vigente. El Director Ejecutivo podrá realizar observaciones al proyecto educativo del establecimiento, fundadas en la normativa vigente o en las definiciones estratégicas contenidas en el Plan Estratégico Local o en la Estrategia Nacional de Educación Pública. El director del establecimiento podrá incorporar las observaciones del Director Ejecutivo. No obstante, deberá incorporarlas cuando el Director Ejecutivo cuente con el acuerdo del Comité Directivo Local.
+c) Elaborar y proponer al Director Ejecutivo el proyecto educativo institucional del establecimiento y sus modificaciones, el que deberá ser expresión de la diversidad de la comunidad escolar y atender a las orientaciones del Plan Estratégico Local, consultando previamente al consejo escolar o parvulario y al consejo de profesores, de acuerdo a la normativa vigente. El Director Ejecutivo podrá realizar observaciones al proyecto educativo del establecimiento, fundadas en la normativa vigente o en las definiciones estratégicas contenidas en el Plan Estratégico Local o en la Estrategia Nacional de Educación Pública. El director del establecimiento podrá incorporar las observaciones del Director Ejecutivo. No obstante, deberá incorporarlas cuando el Director Ejecutivo cuente con el acuerdo del Comité Directivo Local.
 
 d) Elaborar y proponer al Director Ejecutivo el plan de mejoramiento educativo del establecimiento, consultando previamente al consejo escolar, de acuerdo a la normativa vigente y atendiendo a los objetivos y metas del Plan Estratégico Local respectivo. El Director Ejecutivo podrá realizar observaciones al plan presentado por el director, a través de una resolución fundada, la que deberá basarse en las definiciones contenidas en el Plan Estratégico Local o en la Estrategia Nacional de Educación Pública o cuando el plan presentado supere el marco presupuestario correspondiente, tomando en cuenta las especiales características de cada establecimiento educacional. Con todo, el director del establecimiento podrá insistir en su plan o en algunas de sus áreas o dimensiones, para lo cual tendrá que justificar cómo éste se ajusta al Plan Estratégico Local o la Estrategia Nacional. El Director Ejecutivo tendrá un plazo de diez días hábiles para pronunciarse. Dicha decisión deberá ser informada al Comité Directivo Local, al Consejo Local de Educación y a la comunidad educativa respectiva.
 
@@ -142,17 +156,35 @@ i) Proponer al Director Ejecutivo los perfiles profesionales y de cargos titular
 
 j) Decidir la contratación del personal docente que se incorpore al establecimiento, a partir de una terna propuesta por la comisión calificadora correspondiente, establecida en el artículo 30 del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación.
 
-k) Administrar los recursos que le sean delegados en virtud del artículo 21 de la ley N° 19.410, pudiendo adoptar medidas para la conservación y ejecución de las reparaciones necesarias del edificio o construcciones en que funciona el establecimiento educacional, con cargo a estos recursos, excluidas cualquier transformación o ampliación del edificio, construcciones e instalaciones, de conformidad a la normativa vigente.
+k) Administrar los recursos percibidos en virtud del artículo 21 de la ley N° 19.410, pudiendo adoptar, con cargo a estos, medidas para la ejecución de las reparaciones necesarias y de mantención del edificio o instalaciones en que funciona el establecimiento educacional, y del equipamiento y mobiliario destinados permanentemente a éste, excluidas cualquier transformación o ampliación del edificio, construcciones e instalaciones, de conformidad a la normativa vigente.
 
-l) Rendir cuenta anual de su gestión en audiencia pública al Director Ejecutivo respectivo o su representante, al consejo escolar y a la comunidad educativa del establecimiento. Esta rendición anual estará contenida en un informe y comprenderá todas las obligaciones de rendición de cuentas que deba realizar el director del establecimiento educacional, en la forma prevista por la normativa vigente. El Servicio Local prestará asistencia técnica a los equipos directivos para la elaboración de dicha rendición de cuentas.
+Con cargo a estos recursos también se podrá financiar la adquisición de insumos, materiales, elementos de enseñanza y material didáctico o servicios urgentes para la adecuada prestación del servicio educacional.
+
+Un reglamento del Ministerio de Educación regulará la aplicación de este literal, incluyendo la coordinación entre el establecimiento y el Servicio Local para la correcta rendición de estos recursos.
+
+l) Rendir cuenta anual de su gestión en audiencia pública al Director Ejecutivo respectivo o su representante, al consejo escolar y al consejo parvulario, cuando corresponda, y a la comunidad educativa del establecimiento. Esta rendición anual estará contenida en un informe y comprenderá todas las obligaciones de rendición de cuentas que deba realizar el director del establecimiento educacional, en la forma prevista por la normativa vigente. El Servicio Local prestará asistencia técnica a los equipos directivos para la elaboración de dicha rendición de cuentas.
 
 m) Colaborar con el Servicio Local en la implementación de acciones tendientes a asegurar la trayectoria educativa de los estudiantes y a favorecer la retención y el reingreso escolar para los estudiantes que hayan visto interrumpida su trayectoria educativa.
 
+> **Nota.** El artículo sexto transitorio de la Ley 21819, publicada el 25.05.2026, establece que el reglamento señalado en el presente artículo deberá ser dictado dentro del plazo de un año a partir de la publicación de dicha ley en el Diario Oficial.
+
 #### Artículo 11
 
-Conferencia de Directores de Escuelas, Jardines y Liceos. Cada Director Ejecutivo convocará, al menos una vez al año, a una Conferencia a todos los directores de los establecimientos educacionales y a los profesores encargados de escuelas rurales, que dependan del Servicio Local.
+Conferencia de Directores de Escuelas, Jardines y Liceos. Cada Director Ejecutivo convocará, al menos una vez al año, a una Conferencia de carácter consultivo a todos los directores de los establecimientos educacionales y a los profesores encargados de escuelas rurales que dependan del Servicio Local. Esta instancia será dirigida por el Director Ejecutivo y podrán asistir, previa invitación de éste, representantes de otras instituciones públicas que colaboren en la prestación del servicio educativo, así como representantes de asociaciones de docentes y asistentes de la educación, y trabajadores que se desempeñen en los niveles de educación parvularia, básica y media, bajo el estatuto de los asistentes de la educación o el estatuto docente.
 
-Esta Conferencia tendrá carácter consultivo y su objeto será analizar, en conjunto con el Director Ejecutivo, el estado de avance del Plan Estratégico Local establecido en el artículo 45, proponer mejoras para el diseño y la prestación del apoyo técnico-pedagógico que el Servicio entrega a los establecimientos de conformidad con lo señalado en el literal d) del artículo 18, y analizar toda otra materia de interés para el cumplimiento del objeto del Servicio que sea propuesta por el Director Ejecutivo. Un informe de síntesis con las principales conclusiones y propuestas de la Conferencia deberá ser remitido a la Dirección de Educación Pública, al Comité Directivo y al Consejo Local respectivo, para su conocimiento.
+La sesión se realizará el primer semestre de cada año y su objeto será analizar las siguientes materias:
+
+a) El estado de avance del Plan Estratégico Local, en concordancia con el desarrollo del Plan Anual del Servicio Local.
+
+b) Proponer mejoras para el diseño y la prestación del apoyo técnico-pedagógico que el Servicio Local entrega a los establecimientos de conformidad con lo señalado en el literal d) del artículo 18.
+
+c) Proponer diseños y estrategias para la ejecución del trabajo en red entre los establecimientos.
+
+d) Analizar toda otra materia de interés para el cumplimiento del objeto del Servicio que sea propuesta por el Director Ejecutivo. El Director Ejecutivo será responsable de elaborar un informe de síntesis con las principales conclusiones y propuestas de la Conferencia. Además, durante el último trimestre de cada año, elaborará un reporte acerca del estado de avance que éstas hayan alcanzado, para lo cual podrá convocar a una segunda Conferencia, a fin de que los asistentes puedan modificarlo y complementarlo.
+
+El informe y reporte deberán ser remitidos a la Dirección de Educación Pública, a la Secretaría Regional Ministerial, al Comité Directivo y al Consejo Local respectivo, para su conocimiento. La Dirección de Educación Pública deberá mantener un registro actualizado de los informes y reportes generados por las Conferencias de Directores, debiendo emitir recomendaciones u orientaciones a los instrumentos de gestión del Servicio Local en base a las conclusiones y propuestas generadas por la Conferencia. El Director Ejecutivo deberá informar la fecha de realización de la conferencia a la Secretaría Regional Ministerial de Educación respectiva en los plazos establecidos para la entrega del calendario escolar anual.
+
+En cualquier caso, la conferencia deberá llevarse a cabo de forma posterior a la rendición de cuentas anual dispuesta en el literal l) del artículo 10, debiendo incorporarse en el calendario de la programación anual de cada establecimiento. En el caso de escuelas rurales con profesores encargados o establecimientos educacionales que no se rijan por el calendario escolar, los días en que se lleve a cabo la Conferencia podrán incorporarse en el calendario de suspensiones anuales, cuando ello resulte indispensable para la participación de todos los establecimientos en la instancia.
 
 #### Artículo 12
 
@@ -196,6 +228,8 @@ Asimismo, los Servicios Locales promoverán y facilitarán la coordinación y re
 
 En particular, cada Servicio Local, por sí o en coordinación con otros Servicios Locales de la región, cuando corresponda, deberá asegurar la integración de sus establecimientos de educación media que impartan formación diferenciada técnico-profesional a una o más redes de establecimientos del mismo tipo, y coordinarse con instituciones de educación superior.
 
+La Unidad de Apoyo Técnico Pedagógico de cada Servicio Local se coordinará con el o los Departamentos Provinciales de Educación, según corresponda, para el cumplimiento de los objetivos del trabajo en red.
+
 #### Artículo 15
 
 Proyecto educativo institucional y plan de mejoramiento educativo de los establecimientos educacionales. Los establecimientos educacionales pertenecientes al Sistema de Educación Pública deberán contar con un proyecto educativo institucional, el que deberá ser concordante con el objeto y principios del Sistema de Educación Pública, consagrados en los artículos 3 y 5, respectivamente. Este instrumento deberá reconocer la identidad y características de los estudiantes y de la comunidad educativa respectiva y orientar el desarrollo de los diferentes planes y acciones que se lleven a cabo en el establecimiento.
@@ -236,23 +270,37 @@ h) Región del Libertador General Bernardo O'Higgins: seis Servicios Locales.
 
 i) Región del Maule: cuatro Servicios Locales.
 
-j) Región del Biobío: once Servicios Locales.
+j) Región de Ñuble: tres Servicios Locales.
 
-k) Región de La Araucanía: cinco Servicios Locales.
+k) Región del Biobío: ocho Servicios Locales.
 
-l) Región de Los Ríos: dos Servicios Locales.
+l) Región de La Araucanía: cinco Servicios Locales.
 
-m) Región de Los Lagos: cuatro Servicios Locales.
+m) Región de Los Ríos: dos Servicios Locales.
 
-n) Región Aisén del General Carlos Ibáñez del Campo: un Servicio Local.
+n) Región de Los Lagos: cuatro Servicios Locales.
 
-ñ) Región de Magallanes y de la Antártica Chilena: un Servicio Local.
+ñ) Región Aisén del General Carlos Ibáñez del Campo: un Servicio Local.
+
+o) Región de Magallanes y de la Antártica Chilena: un Servicio Local.
 
 El ámbito de competencia territorial de cada uno de los Servicios Locales, su denominación y domicilio se determinará de conformidad a lo dispuesto en el artículo quinto transitorio de esta ley.
 
-Cada Servicio Local podrá crear oficinas locales, mediante decreto fundado del Ministerio de Educación, cuando sea necesario por razones de buen servicio y para el adecuado cumplimiento de sus funciones, en atención a razones de distancia, conectividad y concentración de matrícula, entre otras. También podrá hacerlo a propuesta del Comité Directivo Local respectivo.
-
 Los Servicios Locales se relacionarán con el Ministerio de Educación a través de la Dirección de Educación Pública. Asimismo, estarán afectos al Sistema de Alta Dirección Pública establecido en la ley N° 19.882, sin perjuicio de las materias reguladas en la presente ley.
+
+#### Artículo 16 bis
+
+Oficinas Locales. Los Servicios Locales podrán solicitar al Ministerio de Educación la creación de una o más oficinas, cuya función será servir de enlace entre éstos y los establecimientos educacionales de su dependencia, cuando se considere adecuado por razones de buen servicio, o cuando resulten necesarias para asegurar el funcionamiento regular del servicio.
+
+La creación de una oficina local se solicitará por cada Servicio Local, o por el Comité Directivo Local respectivo, a través de la presentación de un informe técnico a la Dirección de Educación Pública.
+
+La solicitud deberá señalar las razones que justifican la creación de la oficina local, indicando información respecto de, al menos, los siguientes criterios: matrícula, establecimientos educacionales por comuna y dispersión entre ellos, conectividad, distancia de ruta entre las comunas del territorio y el domicilio del Servicio Local.
+
+Una vez recibida la solicitud, la Dirección de Educación Pública deberá emitir un informe en que dé cuenta de la factibilidad de crear la oficina local, el cual será remitido al Ministerio de Educación, quien deberá pronunciarse autorizando o denegando la creación de la oficina local dentro del plazo de noventa días. Cuando lo autorizare, procederá a su creación mediante decreto fundado, con cargo a los recursos del Servicio Local respectivo.
+
+El Ministerio de Educación autorizará la creación de una oficina local cuando constatare que, por razones de dispersión entre los establecimientos educacionales, o de conectividad y distancia de ruta entre los establecimientos y el domicilio del Servicio Local, el tiempo de traslado entre ellos sea de una magnitud tal que represente un riesgo para el funcionamiento regular del servicio.
+
+Un reglamento del Ministerio de Educación, que deberá ser suscrito, además, por el Ministro de Hacienda, regulará el procedimiento para la creación de oficinas locales, los requisitos de la solicitud, los estándares para determinar que se constata el riesgo señalado en el inciso precedente, así como las demás regulaciones que sean necesarias para la correcta implementación de lo establecido en este artículo, tales como los criterios para determinar el personal y otras condiciones necesarias para el adecuado funcionamiento de las oficinas.
 
 #### Artículo 17
 
@@ -284,7 +332,7 @@ El apoyo técnico-pedagógico deberá orientarse y responder a las necesidades d
 
 En esta labor, los Servicios Locales deberán considerar las características territoriales, modalidades, niveles educativos y las formaciones diferenciadas de sus establecimientos educacionales, poniendo especial atención en los establecimientos de educación especial, de adultos, interculturales bilingües y rurales uni, bi y tri docentes, así como aquellos que ofrezcan formaciones diferenciadas técnico-profesional, artística u otras que se creen conforme a la ley, adaptando sus acciones de apoyo en función de sus particularidades.
 
-En el caso del nivel de educación parvularia, el Servicio Local deberá considerar las políticas elaboradas por la Subsecretaría de Educación Parvularia, en el diseño y prestación de apoyo técnico-pedagógico que realice en los establecimientos de su dependencia.
+El Servicio Local deberá considerar las políticas elaboradas por la Subsecretaría de Educación y por la Subsecretaría de Educación Parvularia, en el diseño y prestación de apoyo técnico-pedagógico que realice en los establecimientos de su dependencia.
 
 e) Implementar iniciativas de desarrollo profesional para los equipos directivos, docentes y asistentes de la educación de los establecimientos educacionales de su dependencia, así como de los funcionarios del servicio, siempre y cuando digan relación con los desafíos y necesidades propias de los establecimientos educacionales y del servicio en general, y con arreglo a su disponibilidad presupuestaria.
 
@@ -310,7 +358,7 @@ m) Elaborar y proponer a la Dirección de Educación Pública, u otros organismo
 
 n) Coordinar y apoyar la ejecución de planes y programas de otros órganos de la Administración del Estado, tales como la Junta Nacional de Auxilio Escolar y Becas y las municipalidades, respecto de los establecimientos educacionales de su dependencia.
 
-ñ) Celebrar convenios con municipalidades en todas las materias que resulten relevantes para el cumplimiento de su objeto. Se entenderán incluidos entre estos convenios aquellos que permitan facilitar el acceso de los estudiantes de los establecimientos educacionales de dependencia del respectivo Servicio Local a los servicios provistos por municipalidades. Igualmente se entenderán incluidos aquellos convenios que permitan el uso compartido de los establecimientos educacionales a fin de realizar actividades comunitarias, de conformidad con las funciones de las municipalidades establecidas en la ley, resguardando, en todo caso, de manera preferente el derecho a la educación de los estudiantes.
+ñ) Celebrar convenios con municipalidades en todas las materias que resulten relevantes para el cumplimiento de su objeto. Se entenderán incluidos entre estos convenios aquellos que permitan facilitar el acceso de los estudiantes de los establecimientos educacionales de dependencia del respectivo Servicio Local a los servicios provistos por municipalidades. Igualmente se entenderán incluidos aquellos convenios que permitan el uso compartido de los establecimientos educacionales a fin de realizar actividades comunitarias, así como aquellos convenios que refieran al uso de equipamiento e infraestructura deportiva cuya administración sea de cargo de los Servicios Locales, de conformidad con las funciones de las municipalidades establecidas en la ley, resguardando, en todo caso, de manera preferente el derecho a la educación de los estudiantes.
 
 o) Celebrar convenios o acuerdos con organismos públicos o privados para abordar asuntos de interés común. En particular, podrá vincularse con las instituciones de educación superior para, entre otros, favorecer la formación inicial docente y el desarrollo profesional, la innovación pedagógica y la investigación educativa. En el caso de la educación técnico-profesional, dichos convenios podrán abordar la coordinación de trayectorias educativas, el acceso a prácticas profesionales y la inserción laboral de los estudiantes, entre otros.
 
@@ -322,7 +370,29 @@ r) Implementar y coordinar acciones tendientes a desarrollar diversas expresione
 
 s) Presentar querella respecto de los delitos perpetrados contra los profesionales y funcionarios de los establecimientos de su dependencia.
 
-t) Ejercer las demás funciones y atribuciones que establezcan las leyes.
+t) Desarrollar acciones de monitoreo y generación de información, así como planes de apoyo pedagógicos y psicosociales, orientados a garantizar la permanencia de sus estudiantes y la revinculación de quienes han interrumpido su trayectoria, promoviendo la implementación de proyectos educativos inclusivos en los establecimientos educacionales de su dependencia.
+
+u) Participar en fondos concursables administrados y distribuidos por gobiernos regionales y otros organismos públicos, así como celebrar convenios para el financiamiento de proyectos de toda índole o característica destinados al desarrollo y cumplimiento de las funciones de los Servicios Locales.
+
+v) Ejercer las demás funciones y atribuciones que establezcan las leyes.
+
+#### Artículo 18 bis
+
+Ampliación de la oferta. Para el cumplimiento de lo dispuesto en el literal c) del artículo 18, el Servicio Local podrá solicitar a la Subsecretaría de Educación que, en coordinación con la Subsecretaría de Educación Parvularia, cuando corresponda, califique como urgente la necesidad de ampliar la oferta de educación pública en un territorio.
+
+En el caso de los Servicios Locales, la falta de oferta educativa en un territorio será causa suficiente para autorizar que dos o más establecimientos funcionen en un mismo local escolar, el traslado transitorio del funcionamiento de establecimientos educacionales a locales con destino no educacional o la apertura de nuevos niveles o cursos. En dicho caso, la Subsecretaría de Educación podrá exceptuar a los establecimientos educacionales que solicite el Servicio Local del cumplimiento de los requisitos prescritos en las letras g), h) e i) del artículo 6° del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 2, de 1996, sobre subvención del Estado a establecimientos educacionales, durante el período que contemple la autorización. Esta autorización se otorgará mediante resolución de la Subsecretaría de Educación, estableciendo su carácter esencialmente temporal, la que no podrá exceder un año, debiendo indicar la o las medidas definitivas que se proyecten para resolver la situación correspondiente. Con todo, en aquellos casos que resulte indispensable y se encuentren debidamente fundados podrá renovarse la autorización, por el mismo período, en una sola ocasión.
+
+Un reglamento dictado por el Ministerio de Educación determinará las situaciones que constituyen falta de oferta educativa y armonizará las normas de excepción establecidas en los incisos precedentes con los procedimientos regulares de reconocimiento oficial, apertura de cursos o niveles y solicitud de subvención, y regulará los demás aspectos que sean necesarios para la correcta aplicación de este artículo.
+
+> **Nota.** El artículo sexto transitorio de la Ley 21819, publicada el 25.05.2026, establece que el reglamento señalado en el presente artículo deberá ser dictado dentro del plazo de un año a partir de la publicación de dicha ley en el Diario Oficial.
+
+#### Artículo 18 ter
+
+Apoyo técnico-pedagógico en el Sistema de Educación Pública. A nivel de Servicio Local, será la Unidad de Apoyo Técnico-Pedagógico la que tendrá la competencia para entregar apoyo para la mejora educativa a los establecimientos educacionales de su dependencia, según prescribe el artículo 25 de la presente ley.
+
+Serán funciones de los Departamentos Provinciales de Educación acompañar y asistir a los Servicios Locales en materia de orientaciones, lineamientos, políticas, planes y programas generales elaborados por el Ministerio de Educación. Sin perjuicio de ello, el Servicio podrá solicitar temporal y fundadamente el apoyo directo del Departamento Provincial respecto de uno o más establecimientos de su dependencia.
+
+A nivel nacional, la Dirección de Educación Pública asesorará técnicamente a los Servicios Locales en materia de mejoramiento del servicio educativo y resultados de aprendizaje, a través de un modelo de acompañamiento y desarrollo de capacidades que atienda a los distintos niveles educacionales y modalidades educativas.
 
 #### Artículo 19
 
@@ -330,7 +400,7 @@ Responsabilidades del Servicio Local respecto de los establecimientos educaciona
 
 1. Velar por que cada uno de los establecimientos educacionales de su dependencia cuente con un equipo directivo y docente en permanente desarrollo profesional y que participe en un trabajo colaborativo constante. La dotación deberá ser suficiente para cumplir con los objetivos señalados en los números 2, 3, 4 y 5 de este mismo artículo, de conformidad con lo establecido en el artículo 46, letra b), de esta ley.
 
-2. Proveer una oferta curricular acorde a las definiciones del currículum nacional y los principios establecidos en el artículo 5. La oferta deberá ser pertinente al contexto local y permitirá que los estudiantes tengan oportunidades de aprendizaje y desarrollo en los distintos ámbitos de una formación integral, cautelando la existencia, cuando corresponda, de formaciones diferenciadas humanístico científica, técnico-profesional, artística u otras que se creen conforme a la ley.
+2. Proveer una oferta curricular acorde a las definiciones del currículum nacional y los principios establecidos en el artículo 5. La oferta deberá ser pertinente al contexto local, pudiendo los Servicios Locales prestar asesoría técnica a los establecimientos para efectos de que estos elaboren, adecúen e implementen Programas de Estudio propios, y permitirá que los estudiantes tengan oportunidades de aprendizaje y desarrollo en los distintos ámbitos de una formación integral, cautelando la existencia, cuando corresponda, de formaciones diferenciadas humanístico científica, técnico-profesional, artística u otras que se creen conforme a la ley.
 
 3. Implementar un sistema de monitoreo y seguimiento del progreso de los aprendizajes de cada uno de los estudiantes, que fomente una cultura orientada al aprendizaje, la autoevaluación y la mejora educativa permanente. Este sistema deberá basarse en los informes emitidos por la Agencia de Calidad de la Educación.
 
@@ -347,6 +417,8 @@ No se podrá condicionar la incorporación, la asistencia ni la permanencia de l
 7. Fomentar la participación de la comunidad educativa, promoviendo una cultura democrática y un adecuado clima escolar.
 
 8. Velar por la existencia y mantención de una adecuada infraestructura y equipamiento educativo, en el marco de la normativa vigente.
+
+Los Servicios Locales podrán contratar mediante trato o contratación directa la ejecución de obras de infraestructura, de acuerdo a los requisitos y procedimientos dispuestos en la ley N° 19.886, de bases sobre contratos administrativos de suministro y prestación de servicios.
 
 9. Promover la calidad y pertinencia de las especialidades de los establecimientos de educación media técnico-profesionales del territorio respectivo, vinculándolas con las necesidades del entorno productivo y social, con el objeto de promover el acceso a oportunidades laborales y a la continuidad de estudios de sus estudiantes.
 
@@ -376,7 +448,11 @@ a) El perfil profesional de competencias y aptitudes del cargo concursado será 
 
 b) El Consejo de Alta Dirección Pública elaborará una nómina que contendrá un mínimo de cuatro y un máximo de ocho candidatos idóneos a partir del respectivo proceso de selección. De no haber a lo menos cuatro candidatos al cargo que cumplan los requisitos para ingresar en la nómina, el Consejo ordenará que se efectúe un nuevo concurso para conformar o complementar la lista, siendo aplicable lo dispuesto en el artículo quincuagésimo cuarto de la ley Nº 19.882.
 
-c) El Consejo remitirá la nómina al Comité Directivo Local. Luego de evaluar a los candidatos seleccionados, el Comité Directivo Local remitirá al Presidente de la República una terna para que éste proceda al nombramiento del cargo.
+c) El Consejo remitirá la nómina al Comité Directivo Local, lo que será notificado a la Dirección de Educación Pública. Luego de entrevistar a los candidatos seleccionados, el Comité Directivo Local remitirá al Presidente de la República una terna o, cuando hubiere más de cuatro candidatos en la nómina, una cuaterna, para que éste proceda al nombramiento del cargo. En el mismo acto, el Comité Directivo Local deberá señalar a dos integrantes de la nómina que le fuere remitida por el Consejo de Alta Dirección Pública, en caso de haberlos, para que, respetando el orden de puntaje obtenido en el respectivo proceso de selección, puedan ser incorporados a la terna o cuaterna que será enviada al Presidente de la República, en el evento que alguno de sus integrantes desista o sea nombrado en otro cargo provisto a través del Sistema de Alta Dirección Pública.
+
+d) El Comité Directivo Local dispondrá de un plazo máximo de veinte días hábiles, contado desde la recepción de la nómina de candidatos propuesta por el Consejo de Alta Dirección Pública, para comunicar al Presidente de la República la terna o cuaterna respectiva. En caso de que el Comité no se pronuncie dentro del plazo mencionado, la Dirección de Educación Pública tendrá diez días hábiles para certificar dicha circunstancia e informarlo al Consejo de Alta Dirección Pública, quien deberá enviar al Presidente de la República la terna o cuaterna que hubiere obtenido el mayor puntaje de la nómina de candidatos propuestos.
+
+e) El Presidente de la República, dentro del plazo máximo de noventa días corridos, contado desde la recepción de la nómina a que se refieren los literales c) o d) de este artículo, podrá nombrar a uno de los candidatos propuestos por el Comité Directivo Local o el Consejo de Alta Dirección Pública, según sea el caso, o declarar desierto el proceso de selección, caso en el cual se realizará un nuevo proceso. Transcurrido el plazo antes señalado sin que el Presidente de la República haya ejercido su facultad, se entenderá declarado desierto el proceso de selección.
 
 El Director Ejecutivo durará seis años en su cargo, pudiendo renovarse su nombramiento por una sola vez.
 
@@ -396,13 +472,19 @@ d) Contratar y designar, así como poner término a las funciones del personal d
 
 e) Delegar en los directores de los establecimientos educacionales de su dependencia, así como en funcionarios del Servicio Local, las atribuciones que estime conveniente, de conformidad a la ley.
 
-f) Representar judicial y extrajudicialmente al Servicio Local.
+f) Representar judicial y extrajudicialmente al Servicio Local. Con todo, respecto de la facultad de transigir, siempre deberá ejercerla previa autorización de la Dirección de Educación Pública.
 
 g) Participar, con derecho a voz, en las sesiones del Comité Directivo Local y del Consejo Local.
 
 h) Rendir cuenta pública sobre la marcha del Servicio Local, en el mes de abril de cada año, en audiencia pública. Dicha cuenta pública deberá ser publicada en el sitio electrónico del Servicio Local respectivo.
 
-i) Las demás funciones y atribuciones que le encomienden las leyes.
+i) Celebrar convenios de programación con los gobiernos regionales, para el financiamiento de estudios o proyectos de inversión en infraestructura de establecimientos educacionales o parvularios de su dependencia. Sin perjuicio de esta facultad, cuando un convenio considere recursos del Servicio Local, se requerirá autorización de la Dirección de Presupuesto para su celebración.
+
+j) Contratar personal de reemplazo en aquellos casos en que profesionales de la educación pertenecientes a los establecimientos educacionales dependientes del Servicio Local se encuentren imposibilitados para desempeñar sus cargos por un lapso mayor a siete días corridos, previa solicitud motivada del director o directora del establecimiento respectivo. Esta facultad solo podrá ejercerse cuando exista disponibilidad presupuestaria en el Servicio Local; asimismo, los recursos destinados para el pago de los gastos en personal asociado a los reemplazos no podrán superar aquellos que se destinan regularmente al personal reemplazado. En todo caso, los contratos señalados no podrán tener una vigencia superior a los seis meses, prorrogables por una sola vez o hasta completar el año escolar en curso, según corresponda. Trimestralmente, y a través de la Dirección de Educación Pública, el Director Ejecutivo informará a la Dirección de Presupuestos los recursos destinados a contratos de reemplazo, debidamente justificados conforme a este literal.
+
+k) Actuar como ministro de fe o delegar dicha facultad a un funcionario de su dependencia, cuando el funcionamiento del Servicio Local y de los establecimientos educacionales lo requieran.
+
+l) Las demás funciones y atribuciones que le encomienden las leyes.
 
 #### Artículo 23
 
@@ -417,6 +499,10 @@ c) Incapacidad.
 d) Incumplimiento grave del convenio de gestión educacional establecido en el artículo 39.
 
 e) Negligencia manifiesta en el desempeño de sus funciones.
+
+f) Inhabilidad o incompatibilidad sobreviniente.
+
+g) Incurrir en hechos que correspondan ser sancionados con la medida disciplinaria de destitución, de acuerdo con lo dispuesto en el artículo 125 del decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo.
 
 En el caso de la causal señalada en la letra
 
@@ -434,19 +520,29 @@ ii. Cuando el Director Ejecutivo incurra en acciones que pongan en riesgo la con
 
 iii. Cuando en un Servicio Local exista una alta concentración de establecimientos en categoría Desempeño Insuficiente que se deba a la no implementación o implementación deficiente de las medidas específicas de apoyo referidas en el artículo 29 de la ley N° 20.529. Para estos efectos, la Agencia de Calidad de la Educación deberá informar a la Dirección de Educación Pública y al Consejo Local cada vez que un establecimiento de dependencia del Servicio Local respectivo sea ordenado en categoría Desempeño Insuficiente.
 
+La causal señalada en el literal f) precedente deberá ser declarada por el Director de Educación Pública cuando sobrevenga alguna de las inhabilidades o incompatibilidades con el ejercicio del cargo, de conformidad a lo dispuesto en el inciso final del artículo 21 de esta ley. Para estos efectos se aplicará la ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado, debiendo siempre considerarse una etapa de audiencia previa.
+
 #### Artículo 24
 
-Procedimiento de remoción del Director Ejecutivo. La remoción por las causales señaladas en las letras d) y e) del artículo precedente será dispuesta por el Presidente de la República, a requerimiento del Ministro de Educación, previo procedimiento administrativo que deberá instruir el Director de Educación Pública. En dicho procedimiento deberán acreditarse las causales que justifiquen la remoción, y deberá contemplarse, al menos, audiencia previa del interesado, período de prueba y derecho a interponer recursos administrativos.
+Responsabilidad Administrativa de los Directores Ejecutivos. Los Directores Ejecutivos incurrirán en responsabilidad administrativa cuando la infracción a sus deberes y obligaciones fuere susceptible de la aplicación de una medida disciplinaria. La infracción será acreditada mediante un procedimiento administrativo que deberá instruir el Director de Educación Pública. Dicho procedimiento se sujetará a los principios de confidencialidad, imparcialidad, celeridad y perspectiva de género, y contemplará la respectiva formulación de cargos, audiencia previa del interesado, período de prueba y derecho a interponer recursos administrativos.
 
-Con todo, el procedimiento no podrá exceder de cuatro meses, salvo caso fortuito o fuerza mayor, desde su iniciación hasta la fecha en que se emita la decisión.
+Con todo, el procedimiento no podrá exceder de cuatro meses, salvo caso fortuito o fuerza mayor, desde su inicio hasta la fecha en que se emita la decisión.
 
-Una vez acreditada la o las causales indicadas en el inciso primero, el Director de Educación Pública deberá proponer al Ministro de Educación la remoción del Director Ejecutivo respectivo.
+El Director Ejecutivo podrá ser objeto de las siguientes medidas disciplinarias, las que se aplicarán tomando en cuenta la gravedad de la falta cometida:
 
-El Comité Directivo Local podrá solicitar que se instruya el procedimiento indicado en los incisos precedentes cuando se funde en alguna de las causales señaladas en las letras d) y e) del artículo 23. Esta solicitud sólo podrá ejercerse una vez en el año calendario. En estos casos, la Dirección de Educación Pública podrá acoger la solicitud e instruir dicho procedimiento, o desecharla fundadamente.
+a) Censura.
 
-En caso que el cargo de Director Ejecutivo quede vacante, podrá ser provisto de conformidad con lo establecido en el artículo quincuagésimo noveno de la ley N° 19.882.
+b) Multa.
 
-Un reglamento del Ministerio de Educación, que será firmado, además, por el Ministro de Hacienda, regulará las materias previstas en el presente artículo, especialmente el procedimiento de remoción, de conformidad a las normas del Título V del decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, y, en lo que corresponda, las de la ley N° 19.880.
+c) Suspensión del empleo desde treinta días a tres meses.
+
+d) Remoción.
+
+En caso de que en el procedimiento administrativo se proponga alguna de las medidas disciplinarias contenidas en los literales a), b) o c) precedentes, la Dirección de Educación elevará los antecedentes al Ministro de Educación, el que resolverá en el plazo de cinco días, dictando una resolución al efecto, acogiendo o rechazando la referida propuesta.
+
+Si la propuesta de la Dirección correspondiere a la aplicación de la medida de remoción, procedente por las causales d), e) o g) señaladas en el artículo anterior, aquella deberá ser dispuesta por el Presidente de la República, para lo cual se elevarán los antecedentes al Ministerio de Educación, que deberá requerirlo con esta finalidad.
+
+Un reglamento del Ministerio de Educación, que será firmado, además, por el Ministro de Hacienda, regulará las materias previstas en el presente artículo, especialmente el procedimiento de remoción, de conformidad a las normas del Título V del decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo, y, en lo que corresponda, a las de la ley N° 19.880.
 
 #### Artículo 24 bis
 
@@ -476,15 +572,21 @@ ii. Planificación y control de gestión.
 
 iii. Administración y finanzas.
 
+iv. Infraestructura, mantención y equipamiento.
+
 A la unidad de apoyo técnico-pedagógico le corresponderá, entre otras, la función de asesorar y asistir a los establecimientos educacionales y comunidades educativas de su dependencia, en especial en lo relativo a la implementación curricular, la gestión y liderazgo directivo, la convivencia escolar y el apoyo psicosocial a sus estudiantes, de acuerdo al Plan de Mejoramiento Educativo y el Proyecto Educativo de cada establecimiento educacional.
 
-Asimismo, en caso de ser pertinente, todo Servicio Local deberá contar con profesionales especializados en los distintos niveles y modalidades educativas, tales como el nivel parvulario y la educación media técnico-profesional.
+Asimismo, en caso de ser pertinente, todo Servicio Local deberá contar con profesionales especializados en los distintos niveles y modalidades educativas, que se impartan por los establecimientos educacionales de su dependencia.
 
-A la unidad de planificación y control de gestión le corresponderán, entre otras, las funciones de colaborar con el Director Ejecutivo en la planificación estratégica y presupuestaria para la provisión del servicio educacional por parte del Servicio Local respectivo, junto con monitorear el cumplimiento de las metas e indicadores contemplados en los instrumentos de gestión del Servicio Local y sus establecimientos. Asimismo, a esta unidad le corresponderá elaborar los proyectos de inversión en infraestructura y equipamiento a los que se refiere la letra m) del artículo 18, así como velar por la adecuada mantención de los establecimientos educacionales de su dependencia.
+A la unidad de planificación y control de gestión le corresponderán, entre otras, las funciones de colaborar con el Director Ejecutivo en la planificación estratégica y presupuestaria para la provisión del servicio educacional por parte del Servicio Local respectivo, junto con monitorear el cumplimiento de las metas e indicadores contemplados en los instrumentos de gestión del Servicio Local y sus establecimientos.
 
 A la unidad de administración y finanzas le corresponderá, entre otras, la función de administrar los recursos humanos, materiales y financieros del Servicio Local, y de apoyar, en el ámbito que le competa, a los equipos directivos de los establecimientos educacionales de su dependencia, especialmente en la preparación de los informes solicitados por la Superintendencia de Educación.
 
-Los cargos de jefe de estas tres unidades estarán afectos al Sistema de Alta Dirección Pública, establecido en la ley N° 19.882, como cargos de segundo nivel jerárquico y su nombramiento será por tres años. Una vez nombrados deberán suscribir, en el plazo de treinta días, un convenio de desempeño cuyas metas deberán estar alineadas con el Convenio de Gestión Educacional del Director Ejecutivo de su respectivo Servicio Local.
+A la unidad de infraestructura, mantención y equipamiento le corresponderá proponer y, según su complejidad, elaborar los proyectos de inversión en infraestructura y equipamientos a los que se refiere el literal m) del artículo 18, así como velar por la adecuada mantención de los establecimientos educacionales de su dependencia.
+
+El Ministerio de Educación regulará, mediante resolución, la manera en que las Secretarías Regionales Ministeriales de Educación ejercerán las funciones que les corresponden en materia de infraestructura respecto de los Servicios Locales del territorio de su competencia, así como los mecanismos para llevar a cabo la coordinación entre ambos órganos.
+
+Los cargos de jefe de estas unidades estarán afectos al Sistema de Alta Dirección Pública, establecido en la ley N° 19.882, como cargos de segundo nivel jerárquico y su nombramiento será por tres años. Una vez nombrados deberán suscribir, en el plazo de treinta días, un convenio de desempeño cuyas metas deberán estar alineadas con el Convenio de Gestión Educacional del Director Ejecutivo de su respectivo Servicio Local.
 
 #### Artículo 26
 
@@ -496,11 +598,11 @@ b) Las subvenciones educacionales y aportes que perciban por los establecimiento
 
 c) Los recursos y los bienes que los Gobiernos Regionales y las municipalidades les transfieran.
 
-d) Los recursos y los bienes que reciban por concepto de la celebración de convenios con la Dirección de Educación Pública.
+d) Los recursos y los bienes que le sean transferidos por la Dirección de Educación Pública y por el Ministerio de Educación.
 
 e) Los bienes muebles e inmuebles, corporales e incorporales, que se les transfieran o adquieran a cualquier título.
 
-f) Los frutos, rentas e intereses de los bienes que les pertenezcan.
+f) Los frutos, rentas e intereses de los bienes que les pertenezcan, incluyendo aquellos generados por los inmuebles de propiedad del Servicio Local de Educación Pública.
 
 g) Las donaciones que se les hagan y las herencias y legados que acepten, lo que deberán hacer con beneficio de inventario. Dichas donaciones y asignaciones hereditarias estarán exentas de toda clase de impuestos y de todo gravamen o pago que les afecten. Las donaciones no requerirán del trámite de insinuación.
 
@@ -508,11 +610,15 @@ h) Todo otro aporte que reciban de otros órganos que forman parte de la Adminis
 
 i) Los aportes de cooperación internacional que reciban a cualquier título.
 
+Los bienes señalados en este artículo que se destinen específicamente a la prestación del servicio educativo, gozan de inembargabilidad.
+
 #### Artículo 27
 
-Asignación de recursos a los Servicios Locales y rendición de cuentas. La Dirección de Educación Pública, según lo dispuesto en el literal d) del artículo 26, asignará recursos directamente a los Servicios Locales o a través de otras entidades públicas, para diversos fines, tales como infraestructura, equipamiento, innovación, trabajo en red y desarrollo de capacidades, con el objeto de favorecer la calidad del servicio educativo y de acuerdo a lo que establezca anualmente la Ley de Presupuestos del Sector Público.
+Asignación de recursos a los Servicios Locales y rendición de cuentas. La Dirección de Educación Pública, según lo dispuesto en el literal d) del artículo 26, asignará y transferirá recursos directamente a los Servicios Locales o a través de otras entidades públicas, para diversos fines, tales como infraestructura, equipamiento, innovación, trabajo en red y desarrollo de capacidades, con el objeto de favorecer la calidad del servicio educativo y de acuerdo a lo que establezca anualmente la Ley de Presupuestos del Sector Público.
 
-La unidad de administración y finanzas del Servicio Local respectivo deberá llevar la contabilidad de los ingresos y gastos del Servicio Local y de los establecimientos educacionales de su dependencia.
+Las transferencias que se realicen por la Dirección de Educación Pública o el Ministerio de Educación a los Servicios Locales se efectuarán mediante resolución, la cual dispondrá las condiciones, requisitos, usos o fines de los recursos. En caso de que existan recursos específicos que se rijan por una normativa determinada, la resolución deberá respetar los requisitos, usos y fines que ella establezca, pero podrá definir todos los aspectos procedimentales y formales para su transferencia a los Servicios Locales.
+
+La unidad de administración y finanzas del Servicio Local respectivo deberá llevar la contabilidad de los ingresos y gastos del Servicio Local y de los establecimientos educacionales de su dependencia. Deberá, además, mantener un registro, actualizado mensualmente, de todas las cuentas bancarias en que consten los ingresos que se destinen al cumplimiento de los fines educativos del establecimiento conforme al artículo 3° del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 2, de 1996, sobre subvención del Estado a establecimientos educacionales, así como los movimientos de estas operaciones en dichas cuentas bancarias y los antecedentes que los respalden. Este registro deberá encontrarse disponible permanentemente para su examen por parte de la Superintendencia de Educación.
 
 El Director Ejecutivo del Servicio Local deberá rendir cuenta pública de todos los recursos percibidos, debiendo incorporar el detalle de su uso respecto del servicio mismo, así como de cada uno de los establecimientos educacionales de su dependencia. Esta cuenta se llevará a cabo en la oportunidad establecida en la letra h) del artículo 22, de acuerdo a lo establecido en el artículo 72 del decreto con fuerza de ley N° 1, de 2000, del Ministerio Secretaría General de la Presidencia, que fija texto refundido, coordinado y sistematizado de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado.
 
@@ -521,6 +627,36 @@ Para efectos de lo dispuesto en el inciso primero, se creará el Programa de For
 Los recursos de este Programa serán asignados por la Dirección de Educación Pública, de acuerdo con la Estrategia Nacional de Educación Pública y a principios de equidad y pertinencia. Su asignación se realizará de manera directa a los Servicios Locales o indirecta, a través de otros organismos públicos, de conformidad a criterios objetivos que podrán considerar factores tales como: número de establecimientos educacionales, niveles, modalidades educativas y formaciones diferenciadas que imparten, nivel de desempeño de los establecimientos de conformidad a la ley N° 20.529, así como ruralidad, cobertura, matrícula y vulnerabilidad de los estudiantes, entre otros. Los recursos que cada año se destinen a infraestructura y equipamiento considerarán al menos $80.000.000 miles, los que se asignarán de acuerdo a criterios adecuados a las necesidades de dicha área.
 
 Un reglamento del Ministerio de Educación, suscrito también por el Ministro de Hacienda, regulará la distribución de los recursos y los procedimientos para cumplir lo señalado en el inciso anterior.
+
+#### Artículo 27 bis
+
+Fondo para la Infraestructura Escolar. Créase el "Fondo para la Infraestructura Escolar", en adelante "el Fondo", destinado al financiamiento de las acciones de construcción, adquisición, reposición, reparación, mantención y renovación de los establecimientos educacionales dependientes de los Servicios Locales de Educación Pública, en cumplimiento de las obligaciones de esta ley.
+
+El Fondo estará constituido por los siguientes aportes:
+
+a) Recursos contemplados en las leyes de presupuestos para el sector público de cada año.
+
+b) Aportes efectuados por los Gobiernos Regionales.
+
+c) Aportes efectuados por las municipalidades.
+
+d) Donaciones que perciba, las que estarán exceptuadas del trámite de insinuación y exentas del impuesto a las donaciones.
+
+e) El producto de la rentabilidad que genere la inversión de sus recursos.
+
+f) Los demás aportes que establezca la ley.
+
+Mediante reglamento dictado por el Ministerio de Hacienda se establecerán las normas de inversión financiera de estos recursos, así como las relativas a su funcionamiento, supervisión y control.
+
+El Ministro de Hacienda podrá instruir al Servicio de Tesorerías que realice, directamente, la inversión financiera de los recursos del Fondo. Asimismo, en estos casos, podrá delegar en el Director de Presupuestos las facultades de supervisión y seguimiento de las inversiones realizadas, sin perjuicio de las demás que determine instruir al efecto.
+
+En caso de que el Ministerio encomiende la administración de la cartera de inversiones a terceros, o delegue en ellos algunas de las operaciones asociadas a la administración de todo o parte de los recursos a que se refiere este artículo, deberá contratar anualmente auditorías independientes sobre el estado de los fondos y la gestión efectuada por parte de dichas entidades.
+
+Con cargo a los recursos del Fondo, la Dirección de Educación Pública podrá celebrar toda clase de actos y contratos, siempre que se ajusten a finalidades señaladas en el inciso primero, tales como la celebración de contratos de arriendo con opción de compra y otros que impliquen el pago diferido por el uso y adquisición de bienes. En dichos casos, deberá actuar en forma coordinada con los Servicios Locales de Educación de que dependan los respectivos establecimientos educacionales.
+
+Un reglamento dictado por el Ministerio de Educación, suscrito además por el Ministro de Hacienda, regulará las normas de administración, destino y uso de los recursos del Fondo para el cumplimiento de sus objetivos, así como las demás disposiciones necesarias para su supervisión y control.
+
+> **Nota.** El artículo sexto transitorio de la Ley 21819, publicada el 25.05.2026 establece que el reglamento señalado en el presente artículo deberá ser dictados dentro del plazo de un año a partir de la publicación de dicha ley en el Diario Oficial.
 
 #### Artículo 28
 
@@ -532,61 +668,83 @@ Del Comité Directivo Local
 
 #### Artículo 29
 
-Objeto. En cada Servicio Local existirá un Comité Directivo Local, que tendrá por objeto velar por el adecuado desarrollo estratégico del Servicio, por la rendición de cuentas del Director Ejecutivo ante la comunidad local, y contribuir a la vinculación del Servicio Local con las instituciones de gobierno de las comunas y la región.
+Objeto. En cada Servicio Local existirá un Comité Directivo Local, que velará por el adecuado desarrollo estratégico del servicio, contribuyendo a su vinculación con las instituciones de gobierno de las comunas y la región. Ante dicho Comité, el Director Ejecutivo rendirá cuenta a la comunidad local.
 
 #### Artículo 30
 
 Funciones y atribuciones. El Comité Directivo Local tendrá las siguientes funciones y atribuciones para el cumplimiento de su objeto:
 
-a) Proponer al Director Ejecutivo iniciativas de mejora en la gestión del Servicio Local y sus establecimientos, en especial, aquellas que impliquen una apropiada relación con las municipalidades y las instituciones del territorio, en coherencia con la disponibilidad presupuestaria.
+a) Proponer al Director Ejecutivo, durante el primer trimestre de cada año, iniciativas de mejora en la gestión del Servicio Local y sus establecimientos, y un plan de vinculación institucional en el ámbito regional y comunal, en atención a los lineamientos determinados por el Plan Estratégico Local.
 
-b) Proponer al Director de Educación Pública elementos relativos al perfil profesional del cargo de Director Ejecutivo del respectivo Servicio Local. En la elaboración de esta propuesta deberá considerar las recomendaciones que realice el Consejo Local de Educación Pública respectivo.
+b) Proponer al Director de Educación Pública elementos relativos al perfil profesional del cargo de Director Ejecutivo del respectivo Servicio Local, dentro del plazo de quince días contado desde que sea requerido por la Dirección de Educación Pública. En la elaboración de esta propuesta deberá considerar las recomendaciones que realice el Consejo Local de Educación Pública respectivo.
 
-c) Elaborar un informe que contenga una propuesta de prioridades para el convenio de gestión educacional del Director Ejecutivo, en función de la Estrategia Nacional de Educación Pública, el Plan Estratégico Local y las políticas y programas que se establezcan para el fortalecimiento y desarrollo del Sistema de Educación Pública, de conformidad a lo dispuesto en el inciso tercero del artículo 40.
+c) Elaborar un informe que contenga una propuesta de prioridades para el convenio de gestión educacional del Director Ejecutivo, en función de la Estrategia Nacional de Educación Pública, el Plan Estratégico Local y las políticas y programas que se establezcan para el fortalecimiento y desarrollo del Sistema de Educación Pública, de conformidad a lo dispuesto en el inciso quinto del artículo 40.
 
-d) Proponer al Presidente de la República una nómina de tres candidatos, de entre aquellos seleccionados en el proceso efectuado para la provisión del cargo de Director Ejecutivo, de acuerdo a lo dispuesto en el artículo 21.
+d) Proponer al Presidente de la República una nómina de tres o cuatro candidatos, de entre aquellos seleccionados en el proceso efectuado para la provisión del cargo de Director Ejecutivo, de acuerdo a lo dispuesto en el artículo 21.
+
+El Comité deberá presentar la propuesta dentro del plazo de veinte días, contado desde la recepción de la nómina de seleccionados. Una vez cumplido el plazo, si no se presenta una terna o cuaterna por parte del Comité, el Presidente procederá a designar entre la nómina original de seleccionados que se describe en el párrafo precedente.
 
 e) Solicitar fundadamente al Director de Educación Pública la realización del procedimiento de remoción del Director del Servicio Local. Para ello requerirá el voto conforme de dos tercios de sus integrantes en ejercicio. Esta atribución sólo podrá ejercerse una vez en el año calendario.
 
-f) Aprobar el Plan Estratégico Local, en conformidad con lo establecido en el artículo 45.
+f) Entregar recomendaciones al Plan Estratégico Local, en conformidad con lo establecido en el artículo 45.
 
-g) Convocar al Director Ejecutivo para que informe sobre el estado de avance de los objetivos del Plan Estratégico Local. Para ejercer esta atribución, el Comité Directivo Local deberá contar con el acuerdo de la mayoría de sus miembros en ejercicio.
+g) Convocar anualmente al Director Ejecutivo para que informe sobre el estado de avance de los objetivos del Plan Estratégico Local.
 
-h) Realizar recomendaciones al Plan Anual presentado por el Director Ejecutivo, quien deberá considerarlas e incorporarlas en el Plan o rechazarlas de manera fundada, de acuerdo a lo establecido en el artículo 46. Asimismo, podrá solicitar informes del estado de ejecución del Plan Anual del Servicio, en particular de los aspectos presupuestarios. Las insuficiencias detectadas serán comunicadas por el Comité Directivo a la Dirección de Educación Pública.
+h) Realizar recomendaciones al Plan Anual presentado por el Director Ejecutivo, quien deberá considerarlas e incorporarlas en el Plan o rechazarlas de manera fundada, de acuerdo a lo establecido en el artículo 46. Asimismo, podrá solicitar informes del estado de ejecución del Plan Anual del Servicio, en particular de los aspectos presupuestarios. Las insuficiencias detectadas deberán ser comunicadas oportunamente por el Comité Directivo a la Dirección de Educación Pública.
 
 i) Requerir la fiscalización de la Superintendencia de Educación ante situaciones que pudieran importar incumplimiento de la normativa educacional, tanto en el caso del Servicio Local como de los establecimientos que dependen de este último.
 
 j) Remitir a la Dirección de Educación Pública propuestas referidas a la Estrategia Nacional de Educación Pública. En la elaboración de estas propuestas deberá considerar las recomendaciones que realice el Consejo Local de Educación Pública respectivo.
 
-k) Emitir su opinión respecto de las propuestas de apertura o cierre de especialidades de educación técnico-profesional que realice el Director Ejecutivo.
+k) Emitir su opinión respecto de las propuestas de apertura o cierre de especialidades de educación técnico-profesional que realice el Director Ejecutivo, en un plazo de diez días desde que se le notifique de la propuesta.
 
 l) Emitir su opinión sobre todas las cuestiones que el Director Ejecutivo someta a su consideración.
 
-m) Las demás funciones y atribuciones que le encomienden las leyes.
+m) Recibir al Presidente del Consejo Local de Educación, al menos dos veces al año, para efectos de lo dispuesto en el artículo 56 de la presente ley.
+
+n) Solicitar que se instruya el procedimiento indicado en el artículo 24 de la presente ley, solo una vez en el año calendario. En estos casos, la Dirección de Educación Pública podrá acoger la solicitud e instruir dicho procedimiento o desecharla fundadamente.
+
+ñ) Las demás funciones y atribuciones que le encomienden las leyes.
 
 #### Artículo 31
 
 Integración. El Comité Directivo Local estará constituido por:
 
-a) Uno o dos representantes designados por los alcaldes de las comunas que formen parte del territorio del Servicio Local. En los Servicios Locales que abarquen una sola comuna, el alcalde sólo podrá designar a un representante. En los Servicios Locales que abarquen dos comunas, cada alcalde elegirá a un representante. En los Servicios Locales que abarquen tres o más comunas, los representantes serán designados por mayoría de los alcaldes del territorio.
+a) Uno o dos representantes designados por los alcaldes de las comunas que formen parte del territorio del Servicio Local. Esta designación deberá efectuarse en un plazo máximo de treinta días a contar de la recepción del oficio respectivo que solicita el nombramiento a la última municipalidad que deba participar en el procedimiento. En los Servicios Locales que abarquen una sola comuna, el alcalde sólo podrá designar a un representante. En los Servicios Locales que abarquen dos comunas, cada alcalde elegirá a un representante. En los Servicios Locales que abarquen tres o más comunas, los representantes serán designados por mayoría de los alcaldes del territorio.
 
 b) Dos representantes de los centros de padres y apoderados de los establecimientos educacionales dependientes del Servicio Local. Para su nombramiento, los presidentes de todos los directorios de centros de padres y apoderados de dichos establecimientos deberán votar según las formalidades que fije el reglamento. Quienes obtengan las primeras dos mayorías serán designados como representantes.
 
-c) Dos representantes del gobierno regional designados por su órgano ejecutivo, previa aprobación del consejo regional.
+c) Dos representantes del gobierno regional designados por el Gobernador Regional, previa aprobación del Consejo Regional. Esta designación deberá efectuarse en un plazo máximo de treinta días a contar de la recepción del oficio respectivo que solicita el nombramiento.
 
-En los casos de las letras a) y c), los representantes deberán ser personas con reconocida trayectoria, ya sea profesionales de la educación, u otros profesionales expertos en educación o con experiencia en gestión.
+En el caso del literal a), las autoridades respectivas deberán considerar para la designación de su representante a un profesional con reconocida trayectoria y experiencia en educación; a su vez, respecto a las designaciones del literal c), al menos deberá considerarse un profesional con experiencia en gestión pública o gestión de servicios educacionales. Sin perjuicio de las sanciones establecidas en el artículo 31 bis, en los casos en que se incumplieren los plazos establecidos para la designación de estos representantes, el Comité podrá sesionar en ausencia de los cargos faltantes, ajustándose temporalmente los quorum, hasta que tenga lugar la designación respectiva.
+
+Los representantes designados de acuerdo a lo preceptuado en el literal b) del presente artículo deberán ser actualmente apoderados de algún establecimiento educacional dependiente del Servicio Local. En caso de perder esta calidad mientras integran el Comité Directivo Local, se procederá a su reemplazo por el tiempo restante según lo dispuesto en dicho literal.
 
 Los miembros del Comité Directivo Local durarán seis años en sus cargos y podrán ser designados nuevamente sólo para un nuevo período. El Comité Directivo Local se renovará por mitades cada tres años, de acuerdo al mecanismo de alternancia que se defina en el reglamento.
 
+> **Nota.** El artículo quinto transitorio de la Ley 21819, publicada el 25.05.2026 establece que en el caso de los Servicios Locales en los que ya se encuentren constituidos sus respectivos Comités Directivos Locales y Consejos Locales, las modificaciones introducidas por esta ley al presente artículo, regirá para el próximo proceso de designación o elección de representantes.
+
+#### Artículo 31 bis
+
+De las sanciones al retardo en la designación de representantes. Si el alcalde o gobernador regional no designare a los representantes del Comité Directivo Local, dentro del plazo de treinta días establecido en los literales a) y c) del artículo anterior, la Dirección de Educación Pública remitirá los antecedentes a la Contraloría General de la República, para que ésta instruya un procedimiento breve y concentrado, con la finalidad de imponer las siguientes sanciones:
+
+a) Cuando el retardo sea igual o menor a diez días desde el vencimiento del plazo respectivo, se sancionará a la autoridad respectiva con una amonestación por escrito.
+
+b) Cuando el retardo en la designación exceda los diez días posteriores, pero no supere los sesenta días de retraso, se sancionará a la autoridad con una multa del veinte por ciento de su remuneración, por cada mes que se verifique el incumplimiento.
+
+c) Si el retardo en la designación excede los sesenta días, la multa establecida en el literal anterior ascenderá a un cincuenta por ciento sobre su remuneración mensual.
+
 #### Artículo 32
 
-Funcionamiento. El Comité Directivo Local requerirá de la mayoría absoluta de sus miembros para sesionar y sus acuerdos se adoptarán por la mayoría de sus miembros presentes.
+Funcionamiento. El Comité Directivo Local requerirá de la mayoría absoluta de sus miembros para sesionar, o al menos de un representante por cada uno de los literales del artículo 31, y sus acuerdos se adoptarán por la mayoría de sus miembros presentes.
 
-Los integrantes del Comité Directivo Local tendrán derecho a percibir una dieta de cuatro unidades de fomento por cada sesión a la que asistan, con un máximo de 8 sesiones en un año escolar. Con todo, no tendrán derecho a percibir dieta aquellos integrantes del Comité Directivo Local que tengan la calidad de funcionario público.
+Cuando esta ley u otra normativa establezca plazos para la presentación de informes, propuestas, opiniones u otras actuaciones por parte del Comité Directivo Local, y no sean presentadas o realizadas oportunamente, se dejará constancia de ello y podrá resolverse sin más trámite. En tales casos se configurará respecto de los integrantes que fueron responsables de la omisión del pronunciamiento o decisión un incumplimiento de los deberes y obligaciones que establece la ley.
+
+Los integrantes del Comité Directivo Local tendrán derecho a percibir una dieta de cuatro unidades de fomento por cada sesión a la que asistan, con un máximo de 8 sesiones en un año calendario. Con todo, no tendrán derecho a percibir dieta aquellos integrantes del Comité Directivo Local que tengan la calidad de funcionario público.
 
 El Comité Directivo Local designará de entre sus miembros a un Presidente, quien durará en el cargo dos años, pudiendo ser reelegido por una vez. Dicho Presidente tendrá por función dirigir el Comité Directivo Local, citar a sesiones, fijar sus tablas, dirigir sus deliberaciones y dirimir sus empates.
 
-Un funcionario del Servicio Local designado por el Director Ejecutivo cumplirá las funciones de secretario del Comité Directivo Local, actuará como ministro de fe y registrará sus sesiones.
+Un funcionario del Servicio Local, designado por el Director Ejecutivo, ejercerá el rol de secretario del Comité Directivo Local. Para tal efecto actuará como ministro de fe y registrará sus sesiones, colaborará con el Presidente del Comité en la organización de las sesiones y facilitará la comunicación del órgano con el Servicio Local y el Consejo Local de Educación.
 
 #### Artículo 33
 
@@ -632,9 +790,11 @@ e) Actuación en un asunto en que estuviere legalmente inhabilitado, o cuando se
 
 f) Incumplimiento de los deberes y obligaciones que establece esta ley.
 
-La determinación de las circunstancias establecidas en los literales c), d), e) y f) le corresponderá a la Dirección de Educación Pública. El afectado podrá interponer recursos administrativos de acuerdo a la ley Nº 19.880.
+g) Inasistencia injustificada, a lo menos, a un treinta por ciento del total de las sesiones citadas en un año escolar o tres inasistencias injustificadas consecutivas.
 
-En caso de que uno o más consejeros cese por cualquier causa en su cargo, se procederá la designación de un nuevo consejero, sujeto al mismo procedimiento dispuesto en el artículo 31, por el período que le reste al que ha cesado.
+La determinación de las circunstancias establecidas en los literales c), d), e), f) y g) le corresponderá a la Dirección de Educación Pública. El afectado podrá interponer recursos administrativos de acuerdo a la ley Nº 19.880.
+
+En caso de que uno o más consejeros cese por cualquier causa en su cargo, se procederá la designación de un nuevo consejero, sujeto al mismo procedimiento dispuesto en el artículo 31, por el período que le reste al que ha cesado. Con todo, en el caso de que dicho período sea inferior a un año, no procederá lo dispuesto precedentemente, ajustándose los quorum respectivos a la cantidad de integrantes vigentes.
 
 #### Artículo 37
 
@@ -652,17 +812,21 @@ De los instrumentos de gestión educacional a nivel territorial
 
 #### Artículo 39
 
-Convenio de gestión educacional. Dentro del plazo máximo de tres meses contado desde su nombramiento, el Director Ejecutivo suscribirá con el Ministro de Educación un "convenio de gestión educacional" (en adelante también "el convenio"), que será, para todos los efectos legales, el convenio a que hace referencia el Título VI de la ley N° 19.882. El convenio tendrá una duración de seis años y fijará los objetivos del cargo durante su período, las metas y los correspondientes indicadores, medios de verificación y supuestos básicos en que se basa el cumplimiento del mismo.
+Convenio de gestión educacional. Dentro del plazo máximo de tres meses contado desde su nombramiento, el Director Ejecutivo suscribirá con el Ministro de Educación un "convenio de gestión educacional" (en adelante también "el convenio"), que será, para todos los efectos legales, el convenio a que hace referencia el Título VI de la ley N° 19.882, teniendo como principal objetivo la evaluación del desempeño del Director Ejecutivo como jefe superior del Servicio Local. El convenio tendrá una duración de seis años y fijará los objetivos del cargo durante su período, los indicadores de procesos, los resultados educativos esperados, medios de verificación y supuestos básicos en que se basa el cumplimiento del mismo.
 
-Los objetivos del convenio tendrán en consideración las políticas nacionales de educación pública establecidas por el Ministerio de Educación, así como las especificidades del territorio del Servicio Local respectivo, considerando al menos la calidad y eficiencia, equidad y cobertura del servicio educacional. Asimismo, se deberán considerar los informes que emitan las instituciones del Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media, y en particular, el informe que evacue la Agencia de Calidad como resultado de la evaluación integral realizada al Servicio Local respectivo, establecida en el artículo 12 de la ley Nº 20.529. Respecto de los establecimientos educacionales, el convenio deberá fijar objetivos y metas específicas orientadas al mejoramiento de su desempeño, teniendo en especial consideración a los ordenados en categoría insuficiente, de acuerdo a la ley Nº 20.529. Una vez suscrito el convenio de gestión educacional, estos objetivos no podrán modificarse, a menos que concurra alguna de las causales establecidas en el artículo 42 de la presente ley.
+Los objetivos del convenio tendrán en consideración las políticas nacionales de educación pública establecidas por el Ministerio de Educación, así como las especificidades del territorio del Servicio Local respectivo, considerando al menos la calidad y eficiencia, equidad y cobertura del servicio educacional. Asimismo, se deberán considerar los informes que emitan las instituciones del Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media, y en particular, el informe que evacue la Agencia de Calidad como resultado de la evaluación integral realizada al Servicio Local respectivo, establecida en el artículo 12 de la ley Nº 20.529.
 
 #### Artículo 40
 
 Elaboración de propuesta del convenio de gestión educacional. Corresponderá a la Dirección de Educación Pública elaborar las propuestas de convenios, que serán sancionados por el Ministro de Educación.
 
-Para ello, antes de cuatro meses de la convocatoria al concurso público de selección del Director Ejecutivo, el Director de Educación Pública deberá remitir una propuesta de convenio al Comité Directivo Local y al Consejo Local respectivo y los estudios, informes y demás antecedentes técnicos que se tuvieron en consideración para dicha propuesta. Además, deberá remitirse un resumen ejecutivo a todos los establecimientos educacionales representados por el respectivo Consejo Local, que podrá ser solicitado por cualquier miembro de la comunidad educativa.
+Cada Convenio incluirá indicadores que permitan evaluar dimensiones críticas de la gestión del Director Ejecutivo que son necesarias para asegurar la continuidad y el adecuado funcionamiento del Servicio, tales como liderazgo y visión estratégica, gestión de recursos, gestión pedagógica, vinculación territorial, entre otros. Las dimensiones a evaluar se definirán considerando el Plan Estratégico Local en que el convenio se enmarca.
 
-Por su parte, el Comité Directivo Local, en conjunto con el Director Ejecutivo que se encuentre en el cargo, tendrá el plazo de tres meses para evacuar un informe en el cual proponga prioridades para dicha propuesta de convenio, velando especialmente por su coherencia con la Estrategia Nacional de Educación Pública y con el Plan Estratégico Local respectivo. Para la elaboración de dicho informe deberá considerar las propuestas que haga el Consejo Local, el que contará con el plazo de un mes, desde que reciba la propuesta de convenio, para emitirlas. En el caso que el Director Ejecutivo en ejercicio se presente en el concurso siguiente, éste no participará en la elaboración de dicho informe, por lo que el Comité Directivo Local enviará directamente su informe a la Dirección de Educación Pública, pudiendo requerir al Servicio Local todos los insumos que estime pertinentes.
+Los Servicios Locales que se encuentren dentro de los primeros seis años desde su entrada en funcionamiento deberán, adicionalmente, evaluar la gestión de aquellos procesos y metas que resulten necesarios para asegurar el traspaso del servicio educacional y su implementación en condiciones óptimas.
+
+Antes de que se cumplan cuatro meses desde la publicación de la convocatoria al concurso público del Director Ejecutivo, el Director de Educación Pública deberá remitir una propuesta de convenio al Comité Directivo Local y al Consejo Local respectivo y los estudios, informes y demás antecedentes técnicos que se tuvieron en consideración para dicha propuesta. Además, deberá remitirse un resumen ejecutivo a todos los establecimientos educacionales representados por el respectivo Consejo Local, que podrá ser solicitado por cualquier miembro de la comunidad educativa.
+
+Por su parte, el Comité Directivo Local y el Consejo Local, en conjunto con el Director Ejecutivo que se encuentre en el cargo, tendrán el plazo de tres meses para evacuar un informe en el cual proponga prioridades para dicha propuesta de convenio, velando especialmente por su coherencia con la Estrategia Nacional de Educación Pública y con el Plan Estratégico Local respectivo. En el caso que el Director Ejecutivo en ejercicio se presente en el concurso siguiente, éste no participará en la elaboración de dicho informe, por lo que el Comité Directivo Local y el Consejo Local enviarán directamente su informe a la Dirección de Educación Pública, pudiendo requerir al Servicio Local todos los insumos que estime pertinentes.
 
 La Dirección de Educación Pública deberá sancionar la propuesta de convenio de gestión educacional a fin de que ésta forme parte de los antecedentes del concurso público de selección del nuevo Director Ejecutivo, para lo cual tendrá a la vista el informe del Comité Directivo Local.
 
@@ -672,9 +836,13 @@ Una vez suscrito el convenio por el Ministro de Educación y el Director Ejecuti
 
 Seguimiento, evaluación y revisión del convenio de gestión educacional. Corresponderá al Ministerio de Educación, a través de la Dirección de Educación Pública, la determinación del grado de cumplimiento del convenio de gestión educacional, así como también efectuar el seguimiento y la evaluación de éste. La revisión del convenio se realizará anualmente.
 
-Los Directores Ejecutivos de cada Servicio Local informarán, al menos una vez por año, a la Dirección de Educación Pública del grado de cumplimiento de las metas establecidas en el convenio de gestión educacional, así como de las alteraciones o modificaciones que se hubieren producido en los supuestos acordados. Dicha comunicación se efectuará dentro de los dos meses siguientes al término del año escolar.
+Los Directores Ejecutivos de cada Servicio Local informarán, al menos una vez por año, a la Dirección de Educación Pública de los resultados del convenio de gestión educacional, así como de las alteraciones o modificaciones que se hubieren producido en los supuestos acordados. Dicha comunicación se efectuará dentro de los dos meses siguientes al término del año escolar.
 
-La evaluación definitiva del cumplimiento de las metas deberá realizarse una vez entregado el informe a que hace referencia el inciso precedente. Teniendo en vista este informe preliminar, el Director de Educación Pública dispondrá la elaboración de un informe final que deberá determinar el grado de cumplimiento de las metas contenidas en cada convenio de gestión educacional, y los cambios en las circunstancias y supuestos básicos de tales metas, a fin de evaluar su posible adecuación. Con todo, dicha adecuación de las metas del convenio deberá ser fundada.
+La evaluación definitiva del convenio deberá realizarse una vez entregado el informe a que hace referencia el inciso precedente. Teniendo en vista este informe preliminar, y la información relativa al uso de recursos por parte del Servicio, que podrá solicitarse para estos efectos a la Superintendencia de Educación, el Director de Educación Pública dispondrá la elaboración de un informe final que determinará el grado de cumplimiento de los procesos y resultados esperados en cada convenio de gestión educacional, y los cambios en las circunstancias y supuestos básicos de éstos, a fin de evaluar su posible adecuación. Con todo, dicha adecuación deberá ser fundada.
+
+En virtud del informe final, la Dirección de Educación Pública podrá determinar, mediante resolución, medidas específicas que el Servicio Local deba implementar, con el objeto de asegurar el cumplimiento del Convenio cuando se identificaren debilidades en alguno de los procesos evaluados, o cuando no se hubieren alcanzado los resultados esperados. La resolución deberá contener propuestas encaminadas a subsanar, específicamente, aquellos aspectos de cada proceso que no hayan recibido una evaluación satisfactoria. Para construir estas propuestas y elaborar un diagnóstico que permita fundar su solicitud, la Dirección de Educación Pública podrá ejercer la atribución que la ley le confiere en el literal ñ) del artículo 61 de la presente ley.
+
+La Dirección de Educación Pública será responsable del acompañamiento y supervisión del cumplimiento de lo determinado en la resolución durante los seis meses siguientes a que sea dictada.
 
 #### Artículo 42
 
@@ -696,7 +864,7 @@ Un reglamento del Ministerio de Educación, que deberá ser suscrito, además, p
 
 #### Artículo 45
 
-Plan Estratégico Local de Educación Pública. Cada Servicio Local deberá contar con un Plan Estratégico Local de Educación Pública (en adelante también "Plan Estratégico"), cuyo objeto será el desarrollo de la educación pública y la mejora permanente de la calidad de ésta en el territorio respectivo, mediante el establecimiento de objetivos, prioridades y acciones para lograr dicho propósito. Será elaborado por el Director Ejecutivo y aprobado por el Comité Directivo Local, y tendrá una duración de seis años desde su aprobación.
+Plan Estratégico Local de Educación Pública. Cada Servicio Local deberá contar con un Plan Estratégico Local de Educación Pública (en adelante también "Plan Estratégico"), cuyo objeto será el desarrollo de la educación pública y la mejora permanente de la calidad de ésta en el territorio respectivo, mediante el establecimiento de objetivos, prioridades y acciones para lograr dicho propósito. Será elaborado por el Director Ejecutivo y tendrá una duración de seis años desde su aprobación.
 
 El Director Ejecutivo deberá presentar una propuesta de Plan Estratégico seis meses antes del término de la vigencia del Plan Estratégico anterior, la cual considerará los niveles educativos, formaciones diferenciadas, modalidades educativas y contextos que componen la oferta educativa del territorio.
 
@@ -720,11 +888,11 @@ Para la elaboración y modificación del Plan Estratégico se considerarán los 
 
 5. Los informes que emitan las instituciones del Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media y, en particular, el informe que evacue la Agencia de Calidad como resultado de la evaluación integral realizada al Servicio Local respectivo, establecida en el artículo 12 de la ley N° 20.529.
 
-Para elaborar la propuesta de Plan Estratégico, el Director Ejecutivo deberá consultar al Consejo Local respectivo, el que podrá formular recomendaciones. Asimismo, deberá solicitar la opinión de los directores de los establecimientos del territorio.
+Para elaborar la propuesta de Plan Estratégico, el Director Ejecutivo abrirá un proceso de consultas, en el que solicitará su opinión y recomendaciones al Consejo Local, al Comité Directivo Local y a los directores de establecimientos que dependen del Servicio Local, los que tendrán un plazo de quince días hábiles, contado desde la recepción de la consulta, para responder. Transcurrido dicho plazo sin que se haya emitido opinión o formulado recomendaciones, se entenderá aprobado dicho Plan.
 
-La propuesta del Plan Estratégico deberá ser aprobada por el Comité Directivo Local, el que podrá hacerle observaciones y proponer modificaciones por razones fundadas en lo dispuesto en los incisos tercero y cuarto. El Director Ejecutivo podrá incorporar las observaciones planteadas por el Comité Directivo Local o mantener su propuesta, indicando las razones que la sustentan, remitiéndola a ese Comité para su decisión.
+En caso de formularse observaciones, el Director Ejecutivo tendrá diez días hábiles para incorporarlas o mantener su propuesta, lo que tendrá que ser debidamente fundamentado, entendiéndose aprobado el Plan Estratégico.
 
-Una vez sancionado el Plan Estratégico, el Director Ejecutivo deberá publicarlo en el sitio electrónico del Servicio Local y enviarlo a la Dirección de Educación Pública para su conocimiento y registro.
+Una vez aprobado el Plan Estratégico por el Director Ejecutivo, éste deberá publicarlo en el sitio electrónico del Servicio Local y enviarlo a la Dirección de Educación Pública para su conocimiento y registro.
 
 El Plan Estratégico podrá modificarse por cambios sustantivos en los contenidos dispuestos en el inciso tercero, por fuerza mayor o por caso fortuito. La aprobación de dichas modificaciones deberá seguir las mismas formalidades establecidas en el presente artículo.
 
@@ -732,7 +900,7 @@ El Plan Estratégico podrá modificarse por cambios sustantivos en los contenido
 
 Plan Anual. El Director Ejecutivo presentará al Comité Directivo Local y al Consejo Local, a más tardar el 15 de octubre de cada año, un plan anual para el año siguiente. Este plan anual deberá contener, a lo menos, los siguientes elementos:
 
-a) Estado de avance de los objetivos y metas contenidas en el convenio de gestión educacional, así como aquellos contenidos en el plan estratégico local y los proyectos educativos institucionales de cada establecimiento de dependencia del Servicio Local, de conformidad al artículo anterior.
+a) Resultados del convenio de gestión educacional, así como una evaluación de los procesos desarrollados durante el año en el marco de su respectivo Plan Estratégico Local.
 
 b) Dotación de docentes y asistentes de la educación requerida para el ejercicio de las funciones administrativas y pedagógicas necesarias para el desarrollo del proyecto educativo institucional, según corresponda, en cada establecimiento educacional de dependencia del Servicio Local, la que deberá fundarse en razones técnico-pedagógicas y determinarse sobre la base de, al menos, los siguientes elementos:
 
@@ -746,7 +914,9 @@ iv. Componentes de los Planes de Mejoramiento Educativo, elaborados con la comun
 
 Al consignar la dotación en el plan, deberá indicarse si los profesionales docentes corresponden a la función docente, docente directiva o técnico-pedagógica, según lo establecido en el artículo 5 del decreto con fuerza ley N° 1, de 1996, del Ministerio de Educación, que Fija el texto refundido, coordinado y sistematizado de la ley N° 19.070, que aprobó el estatuto de los profesionales de la educación.
 
-c) Acciones de apoyo técnico-pedagógico a desarrollar para cada uno de los establecimientos educacionales de dependencia del Servicio, determinando la periodicidad y contenidos generales de éstas. La planificación y ejecución de dichas acciones considerará el plan estratégico del Servicio y propenderá al trabajo colaborativo en red de los establecimientos educacionales de su dependencia. Para su elaboración, el Director Ejecutivo consultará a los equipos directivos de los respectivos establecimientos educacionales, teniendo en consideración las acciones definidas en los planes de mejoramiento educativo de éstos y en los convenios de desempeño suscritos con cada director de establecimiento educacional.
+c) Acciones de apoyo técnico-pedagógico a desarrollar para cada uno de los establecimientos educacionales de dependencia del Servicio, determinando la periodicidad y contenidos generales de éstas. La planificación y ejecución de dichas acciones considerará el plan estratégico del Servicio y propenderá al trabajo colaborativo en red de los establecimientos educacionales de su dependencia. Para su elaboración, el Director Ejecutivo consultará a los equipos directivos de los respectivos establecimientos educacionales, teniendo en consideración las acciones definidas en los planes de mejoramiento educativo de éstos y en los convenios de desempeño suscritos con cada director de establecimiento educacional. Además, deberá consultar a los Departamentos Provinciales de Educación y a la Unidad de Apoyo Técnico Pedagógico del Servicio, acerca de la manera en que coordinarán su trabajo, incorporándola en el Plan.
+
+d) Acciones de vinculación institucional a desarrollarse en el ámbito regional y comunal, para lo cual se consultará la planificación elaborada por el Comité Directivo Local.
 
 Una vez presentado el Plan Anual, el Comité Directivo Local y el Consejo Local de Educación contarán con un plazo de quince días hábiles para realizar recomendaciones. El Director Ejecutivo integrará las recomendaciones en su plan anual o las rechazará de manera fundada. Posteriormente, el Director Ejecutivo remitirá el plan anual a la Dirección de Educación Pública, la cual podrá realizar recomendaciones dentro del plazo de diez días hábiles, que el Director Ejecutivo podrá rechazar de manera fundada.
 
@@ -762,9 +932,9 @@ Régimen del personal de los Servicios Locales
 
 #### Artículo 47
 
-Ámbito de aplicación. Las reglas contenidas en el presente párrafo sólo se aplicarán al personal que desarrolla sus funciones en los niveles y unidades internas del Servicio Local a que se refiere el artículo 25. Con todo, los profesionales de la educación de los establecimientos educacionales se regirán por el decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, que Fija el texto refundido, coordinado y sistematizado de la ley N° 19.070 que aprobó el estatuto de los profesionales de la educación, y los asistentes de la educación de los referidos establecimientos se regirán por la ley N° 19.464.
+Ámbito de aplicación. Las reglas contenidas en el presente párrafo sólo se aplicarán al personal que desarrolla sus funciones en los niveles y unidades internas del Servicio Local a que se refiere el artículo 25. Con todo, los profesionales de la educación de los establecimientos educacionales se regirán por el decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, que Fija el texto refundido, coordinado y sistematizado de la ley N° 19.070 que aprobó el estatuto de los profesionales de la educación, y los asistentes de la educación de los referidos establecimientos se regirán por la ley N° 21.109, que establece un estatuto de los asistentes de la educación pública.
 
-Cada Servicio Local de Educación Pública podrá tener un servicio de bienestar, al cual podrán afiliarse tanto el personal que desarrolla funciones en el referido Servicio Local, como los asistentes de la educación, regidos por la ley N° 19.464, de los establecimientos educacionales dependientes del respectivo Servicio Local.
+Cada Servicio Local de Educación Pública podrá tener un servicio de bienestar, al cual podrán afiliarse tanto el personal que desarrolla funciones en el referido Servicio Local, como los asistentes de la educación, regidos por la ley N° 21.109, de los establecimientos educacionales dependientes del respectivo Servicio Local.
 
 El personal de los Servicios Locales se regulará por las normas de esta ley y sus reglamentos y por las disposiciones del decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, que Fija el texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo. En materia de remuneraciones se regulará por las normas del decreto ley N° 249, de 1974, que Fija la escala única de sueldos y su legislación complementaria.
 
@@ -780,6 +950,8 @@ De los Consejos Locales de Educación Pública
 
 Definición. En cada Servicio Local existirá un Consejo Local de Educación Pública (en adelante también "Consejo Local"). Los Consejos Locales colaborarán con el Director Ejecutivo de cada Servicio Local en el cumplimiento de su objeto. Para ello, representarán ante el Director Ejecutivo los intereses de las comunidades educativas, al objeto de que el servicio educacional considere adecuadamente sus necesidades y particularidades.
 
+Para todos los efectos legales, el Consejo Local de Educación Pública será el consejo a que se refiere el artículo 74 del decreto con fuerza de ley N° 1/19.653, promulgado en 2000 y publicado en 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, sin perjuicio de las atribuciones específicas que se establezcan en esta ley.
+
 #### Artículo 50
 
 Integración. Los Consejos Locales se integrarán de la siguiente forma:
@@ -790,7 +962,7 @@ b) Dos representantes de los centros de padres y apoderados de los establecimien
 
 c) Dos representantes de los profesionales de la educación de los establecimientos educacionales que sean dependientes del Servicio Local. Estos representantes serán elegidos entre aquellos miembros de los consejos escolares constituidos en dichos establecimientos.
 
-d) Dos representantes de los asistentes de la educación de los establecimientos educacionales que sean dependientes del Servicio Local. Estos representantes serán elegidos entre aquellos miembros de los consejos escolares constituidos en dichos establecimientos.
+d) Dos representantes de los asistentes de la educación de los establecimientos educacionales que sean dependientes del Servicio Local, elegidos por sus pares.
 
 e) Un representante de las universidades con sede principal en la región acreditadas por cuatro años o más. Este representante será designado por los rectores de dichas instituciones, de común acuerdo. Para dicho efecto, gozarán de preferencia para la designación aquellos candidatos provenientes de las facultades de educación.
 
@@ -798,13 +970,29 @@ f) Un representante de los centros de formación técnica o institutos profesion
 
 g) Dos representantes de los equipos directivos o técnico-pedagógicos de los establecimientos, elegidos por sus pares.
 
-Los cargos señalados en las letras a), b), c), d) y g) serán provistos de acuerdo a lo señalado en el reglamento.
+h) Un representante de los directores de establecimientos de educación parvularia que sean administrados por el Servicio Local, elegido por sus pares.
+
+i) Un representante de los educadores de establecimientos de educación parvularia que sean administrados por el Servicio Local. Este representante será elegido entre aquellos miembros de los consejos parvularios constituidos en dichos establecimientos.
+
+j) Un representante de los asistentes de la educación de los establecimientos que únicamente imparten educación parvularia, elegido por sus pares.
+
+k) Un profesor encargado de una escuela rural, elegido por sus respectivos pares, en el caso de que el Servicio Local cuente con un 10% o más de establecimientos rurales respecto del total que administra, o bien, cuando su matrícula represente al menos el 10% de la matrícula total del Servicio Local.
+
+En los Servicios Locales en que existan más de cuarenta establecimientos de educación básica y media de su dependencia, la cantidad de representantes referidos en los literales a), b), c), d) y g) aumentará en una persona por cada veinte establecimientos que haya por sobre los cuarenta, y podrán elegirse hasta un máximo de tres representantes por cada uno de los literales señalados, independiente del número de establecimientos de su dependencia.
+
+En aquellos casos en que un representante sea trasladado de un establecimiento educacional a otro, dentro del mismo Servicio Local y durante la vigencia del período para el que fue nombrado, igualmente se mantendrá como integrante del Consejo.
+
+Los cargos de representación indicados serán provistos de acuerdo a lo dispuesto en el reglamento.
+
+> **Nota.** El artículo quinto transitorio de la ley 21819, publicada el 25.05.2026, establece que en el caso de los Servicios Locales en los que ya se encuentren constituidos sus respectivos Comités Directivos Locales y Consejos Locales, las modificaciones introducidas al presente artículo por el numeral 34 del artículo 1 de la citada ley, regirán para el próximo proceso de designación o elección de representantes.
 
 #### Artículo 51
 
-Duración en los cargos. Los consejeros señalados en el artículo precedente durarán en sus cargos el período de dos años.
+Duración en los cargos. Los consejeros señalados en el artículo precedente durarán en sus cargos el período de tres años.
 
-En el caso de los consejeros señalados en las letras a), b), c) y d) del artículo precedente, la cesación en el cargo de miembro del consejo escolar producirá la cesación automática en el cargo de consejero del Consejo Local, debiendo ser reemplazado en un plazo no superior a treinta días.
+Sin perjuicio de lo anterior, la pérdida de la calidad en virtud de la cual fue designado algún representante de los indicados en el artículo precedente, producirá la cesación automática en el cargo de consejero del Consejo Local, debiendo ser reemplazado en un plazo no superior a treinta días.
+
+En el caso de los representantes señalados en los literales c) y d) del artículo precedente, la pérdida de la calidad de integrante de un consejo escolar, por la sola circunstancia de su traslado a otro establecimiento dependiente del mismo Servicio Local, no dará lugar al cese de su cargo en el Consejo Local.
 
 #### Artículo 52
 
@@ -820,7 +1008,7 @@ d) Asesorar al Director Ejecutivo en la definición y ejecución de acciones ref
 
 e) Proponer al Comité Directivo Local elementos relativos al perfil profesional, además de las competencias y aptitudes que deben reunir los candidatos o candidatas al cargo de Director Ejecutivo del respectivo Servicio Local.
 
-f) Proponer prioridades al Comité Directivo Local para el convenio de gestión educacional del Director Ejecutivo, de conformidad a lo dispuesto en el inciso tercero del artículo 40.
+f) Proponer prioridades al Director de Educación Pública para el convenio de gestión educacional del Director Ejecutivo, de conformidad a lo dispuesto en el inciso quinto del artículo 40.
 
 g) Emitir opinión respecto de la propuesta de Estrategia Nacional de Educación Pública.
 
@@ -838,7 +1026,15 @@ m) Colaborar con el Director Ejecutivo en la conformación de redes y comunidade
 
 n) Fomentar la participación de las comunidades educativas y el rol de los consejos escolares, los centros de padres y apoderados y los centros de estudiantes.
 
-o) Las demás atribuciones que le encomienden las leyes.
+ñ) Invitar a las sesiones del Consejo a representantes de Universidades del Estado que tengan su sede principal en la región o a representantes de los Centros de Formación Técnica estatales.
+
+o) Colaborar con el Director Ejecutivo del Servicio Local para la realización de la audiencia pública de rendición de cuentas ante la comunidad a la que alude el literal h) del artículo 22 de esta ley.
+
+p) Proponer al Director Ejecutivo medidas tendientes al fortalecimiento de la educación pública, en concordancia con los proyectos que lleven a cabo los Gobiernos Regionales.
+
+q) Proponer al Director Ejecutivo la construcción y fortalecimiento de proyectos pedagógico-curriculares y técnicos-pedagógicos a partir de la vinculación con las universidades pertenecientes al Consejo de Rectores de las Universidades Chilenas y con los Centros de Formación Técnica Estatales.
+
+r) Las demás atribuciones que le encomienden las leyes.
 
 #### Artículo 53
 
@@ -864,7 +1060,9 @@ e) Inasistencia injustificada a más de dos sesiones dentro de un mismo año cal
 
 #### Artículo 56
 
-Funcionamiento. El Consejo Local elegirá de entre sus miembros a su Presidente por mayoría simple y se reunirá a lo menos seis veces al año. Podrá autoconvocarse cuando así lo solicite, por escrito, un tercio de sus integrantes.
+Funcionamiento. El Consejo Local elegirá de entre sus miembros a su Presidente por mayoría simple, quien deberá asistir al menos dos veces en el año calendario al Comité Directivo Local, a fin de transmitir los intereses y preocupaciones del órgano que preside.
+
+El Consejo Local se reunirá, como mínimo, seis veces por cada año calendario. Podrá autoconvocarse cuando así lo solicite, por escrito, un tercio de sus integrantes.
 
 A las sesiones del Consejo Local asistirá el Director Ejecutivo, quien participará en ellas sólo con derecho a voz.
 
@@ -872,7 +1070,15 @@ El quórum para sesionar será la mayoría de sus miembros. El quórum para adop
 
 En caso de existir empate en las votaciones, corresponderá al Presidente del Consejo Local emitir el voto dirimente.
 
-Un funcionario designado por el Director Ejecutivo cumplirá las funciones de Secretario Ejecutivo. Para tal efecto, actuará como ministro de fe y registrará las sesiones.
+El Director Ejecutivo designará a un funcionario dependiente del Servicio para el desempeño de las siguientes funciones respecto del Consejo Local:
+
+1. Actuar como ministro de fe y registrar sus sesiones.
+
+2. Colaborar con el Presidente en la organización de las sesiones.
+
+3. Facilitar la comunicación del órgano con el Servicio Local y el Comité Local de Educación.
+
+4. Facilitar la vinculación de las y los consejeros con los integrantes de las comunidades educativas de los distintos establecimientos educacionales del territorio.
 
 #### Artículo 57
 
@@ -910,7 +1116,7 @@ b) Elaborar y proponer al Ministro de Educación los convenios de gestión educa
 
 c) Proponer al Ministro de Educación el perfil profesional que deberán cumplir los candidatos al cargo de Director Ejecutivo de los Servicios Locales, de conformidad al artículo 21.
 
-d) Prestar asistencia técnica a la gestión administrativa de los Servicios Locales, cuando ello sea necesario para el cumplimiento de los principios establecidos en el artículo 5.
+d) Prestar asistencia técnica a la gestión pedagógica, administrativa y financiera de los Servicios Locales, para el cumplimiento de los principios establecidos en el artículo 5.
 
 e) Asignar recursos a los Servicios Locales, de acuerdo a lo establecido en la Ley de Presupuestos del Sector Público.
 
@@ -918,7 +1124,7 @@ f) Hacer recomendaciones respecto del Plan Anual establecido en el artículo 46.
 
 g) Orientar a los Servicios Locales para el desarrollo de la oferta de educación pública a lo largo de todo el territorio nacional.
 
-h) Coordinar a los Servicios Locales, promoviendo su trabajo colaborativo y en red.
+h) Coordinar a los Servicios Locales, promoviendo su trabajo colaborativo y en red, así como el cumplimiento de la Estrategia Nacional de Educación Pública.
 
 i) Proponer a los Servicios Locales planes de innovación, propendiendo a la mejora continua de los procesos educativos, en concordancia con las políticas del Ministerio de Educación.
 
@@ -928,7 +1134,7 @@ k) Llevar un registro de los planes estratégicos de los Servicios Locales.
 
 l) Supervisar y velar por el cumplimiento de los convenios de los establecimientos de educación técnico-profesional, adscritos al régimen de administración delegada establecido en el decreto ley N° 3.166, de 1980, que para efectos de esta ley se considerarán integrantes del Sistema de Educación Pública, en lo que sea pertinente.
 
-m) Coordinar la relación entre los Servicios Locales y el Ministerio de Educación, así como con otros órganos de la Administración del Estado, cuando su acción sea requerida para la adecuada provisión del servicio educacional.
+m) Coordinar la relación entre los Servicios Locales y el Ministerio de Educación, así como con otros órganos de la Administración del Estado.
 
 n) Promover el mejoramiento de la calidad de la educación impartida por los establecimientos educacionales dependientes de los Servicios Locales, que atiendan a personas que se encuentren bajo cualquier régimen de privación de libertad o programa de reinserción social, reconociendo para ello su especificidad, de acuerdo a las directrices y orientaciones generales emanadas del Ministerio de Educación. Para ello, deberá coordinarse con el Ministerio de Educación, el Ministerio de Justicia y Derechos Humanos y otros órganos de la Administración del Estado, cuando corresponda.
 
@@ -944,7 +1150,35 @@ r) Celebrar convenios o acuerdos con organismos públicos o privados para aborda
 
 s) Rendir cuenta pública anual sobre el estado y proyecciones del Sistema de Educación Pública.
 
-t) Ejercer las demás funciones y atribuciones que le asignen las leyes.
+t) Celebrar convenios de programación con los gobiernos regionales para el financiamiento de estudios o proyectos de inversión en infraestructura escolar pública, para lo cual éstos podrán asignar, de forma fundada, y de acuerdo con sus facultades, recursos directamente en favor de un Servicio Local o de un establecimiento educacional. Cuando un convenio comprometa recursos del Ministerio de Educación, previamente se requerirá autorización de la Dirección de Presupuesto para su celebración.
+
+u) Impartir instrucciones generales y vinculantes a los Servicios Locales, referidas a las materias de gestión administrativa-financiera, con la finalidad de velar y promover que el actuar de éstos se adecúe a la normativa vigente, de conformidad al principio de probidad en la función pública. El incumplimiento de tales instrucciones significará incurrir en responsabilidad administrativa.
+
+v) Coordinar con la División de Educación General y con la Subsecretaría de Educación Parvularia, cuando corresponda, la definición de lineamientos generales en materias de mejoramiento educativo y apoyo técnico-pedagógico a los Servicios Locales, así como a los establecimientos de su dependencia.
+
+Los mecanismos a través de los cuales se ejercerá esta coordinación y las acciones relacionadas al apoyo técnico pedagógico en el Sistema de Educación Pública, a que refiere el artículo 18 ter, se determinarán mediante una resolución exenta dictada por el Ministerio de Educación.
+
+w) Ejercer las demás funciones y atribuciones que le asignen las leyes.
+
+#### Artículo 61 bis
+
+Los profesionales de la educación regidos por el decreto con fuerza de ley N° 1, promulgado en 1996 y publicado en 1997, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado de la ley N° 19.070, que aprobó el Estatuto de los Profesionales de la Educación, y que presten servicios en establecimientos educacionales dependientes de un Servicio Local de Educación Pública, podrán solicitar al Servicio Local respectivo el traslado para prestar servicios en un establecimiento educacional dependiente de otro Servicio Local de Educación Pública, de conformidad al siguiente procedimiento.
+
+La Dirección de Educación Pública será la encargada de conducir y coordinar los procesos de traslado entre Servicios Locales.
+
+Los Servicios Locales remitirán anualmente a la Dirección de Educación Pública un informe que contendrá las solicitudes de traslado efectuadas por los profesionales de la educación de su dependencia. En dicho informe el Servicio Local se pronunciará sobre la compatibilidad del traslado solicitado con las necesidades de funcionamiento del servicio, y del cumplimiento de los requisitos para su procedencia.
+
+Recibidos los informes de los Servicios Locales, la Dirección de Educación Pública remitirá la solicitud al Servicio Local con competencia en el ámbito territorial al que solicita trasladarse, previa verificación del cumplimiento de los requisitos para su procedencia.
+
+El Director Ejecutivo del Servicio Local de destino deberá pronunciarse sobre la solicitud de traslado, la que se podrá rechazar por razones de buen servicio, tales como falta de presupuesto o inexistencia de vacantes, todo lo cual deberá constar en un acto administrativo fundado.
+
+En contra del acto administrativo que deniegue el traslado procederá el recurso de reposición, de conformidad a lo dispuesto en el artículo 59 de la ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado.
+
+El traslado que se materialice de conformidad al presente artículo será sin solución de continuidad, y no podrá significar menoscabo en las remuneraciones de los profesionales de la educación trasladados, ni modificación de sus derechos estatutarios o previsionales.
+
+Sin perjuicio de lo anterior, si las funciones a prestar en el Servicio Local de destino suponen una disminución en la jornada o la remuneración, se requerirá aceptación expresa y por escrito del profesional de la educación respectivo.
+
+Un reglamento dictado por intermedio del Ministerio de Educación regulará los plazos, requisitos, condiciones, criterios de priorización, las reglas de desempate entre postulantes, así como todo otro aspecto que resulte necesario para la adecuada implementación de lo dispuesto en el presente artículo.
 
 ### Párrafo 2°
 
@@ -974,11 +1208,55 @@ El personal de la Dirección de Educación Pública estará afecto a las disposi
 
 El Director de Educación Pública, con sujeción a la planta de personal y la dotación máxima de éste, de conformidad a lo dispuesto en el artículo 31 del decreto con fuerza de ley N° 1, de 2000, del Ministerio Secretaría General de la Presidencia, que Fija texto refundido, coordinado y sistematizado de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, establecerá la organización interna del servicio y determinará las denominaciones y funciones específicas que correspondan a cada una de las unidades que se establezcan, como asimismo el personal adscrito a tales unidades.
 
+## Título IV — bis
+
+Mecanismos Especiales de Coordinación
+
 #### Artículo 64
 
-Coordinación regional. El intendente convocará a lo menos a dos reuniones durante el año, a la que asistirán el secretario regional ministerial de Educación, quien actuará como Secretario Ejecutivo, un representante del gobierno regional, el Director Regional de la Junta Nacional de Jardines Infantiles, el Director Regional de la Superintendencia de Educación, el representante zonal de la Agencia de la Calidad de la Educación, el Director Regional de la Junta Nacional de Auxilio Escolar y Becas, los directores ejecutivos de los Servicios Locales de la región y un representante de la Dirección de Educación Pública, con el objeto de favorecer la coordinación de los Servicios Locales dentro de la región, así como el intercambio de iniciativas de mejora en su gestión, facilitando además la colaboración de los Servicios Locales con otros servicios públicos que se desempeñen dentro de la región. Asimismo, se podrá invitar a las sesiones a representantes de las universidades y centros de formación técnica acreditados y que no persigan fines de lucro, con sede principal en la región.
+Créase un Comité de Ministros, en adelante "el Comité", con el fin de coordinar acciones entre distintos ministerios y fomentar la colaboración de los servicios públicos relacionados a ellos, para atender necesidades urgentes del Sistema o dar cumplimiento a objetivos y/o metas contenidas en la Estrategia Nacional de Educación Pública, especialmente, aquellas que requieran permisos o acciones intersectoriales para su adecuada ejecución.
 
-Para ello, podrá realizar propuestas a la Estrategia Nacional de Educación Pública, así como a la Estrategia Regional de Desarrollo, establecida en el decreto con fuerza de ley Nº 1, de 2005, del Ministerio del Interior, velando por la armonización entre ésta y los Planes Estratégicos de cada Servicio Local. Asimismo, podrá promover acuerdos de colaboración con otras entidades públicas o privadas de la región, con el fin de favorecer a las comunidades educativas de los establecimientos educacionales dependientes de los Servicios Locales de la región.
+El Comité será presidido por el Ministro de Educación e integrado por los Ministros de Interior; de Hacienda; Secretaría General de la Presidencia; de Obras Públicas; de Vivienda y Urbanismo; de Salud; de Trabajo y Previsión Social; de Desarrollo Social y Familia; y de Bienes Nacionales. Además, la presidencia del Comité podrá convocar a otros Ministros si lo considera necesario, según los temas a abordar por el Comité en la sesión respectiva. Únicamente en caso de ausencia o impedimento de un Ministro éste podrá ser reemplazado por su subrogante.
+
+La Secretaría Ejecutiva del Comité estará a cargo de la Subsecretaría de Educación, que contará, para estos efectos, con la asistencia técnica de la Dirección de Educación Pública. Será su responsabilidad realizar la citación y preparar cada sesión del Comité, para lo cual deberá considerar, al menos, los informes y evaluaciones generados a partir de los instrumentos de gestión del Sistema, aquellos que se refieren al funcionamiento y desarrollo de los distintos procesos e instancias que forman parte de éste, así como las solicitudes de acción que pudieren emanar de las mesas ejecutivas de coordinación regional.
+
+El Comité sesionará de forma ordinaria dos veces al año, durante el primer y tercer trimestre. Podrá reunirse de forma extraordinaria cuando sea convocado por su Presidente. Sus acuerdos constarán en un acta levantada por la Secretaría Ejecutiva, que será informada a las Secretarías Regionales Ministeriales de Educación y a los servicios que resulten pertinentes.
+
+> **Nota.** El artículo tercero transitorio de la ley 21819, publicada el 25.05.2026, establece que el Comité establecido en el presente artículo, sesionará ordinariamente de forma excepcional y, por primera vez, dentro de los dos meses siguientes a la fecha de publicación de esta ley.
+
+#### Artículo 64 bis
+
+De la coordinación regional. Para facilitar la coordinación entre los órganos y servicios públicos que integran y se relacionan con el Sistema de Educación Pública, el Delegado Presidencial de cada Región convocará, al menos dos veces por año calendario, a una mesa ejecutiva que velará por la articulación de competencias entre las entidades públicas de la región, con el fin de apoyar el adecuado funcionamiento de los Servicios Locales que pertenecen a ella.
+
+La mesa ejecutiva estará integrada por:
+
+a) El Secretario Regional Ministerial de Educación.
+
+b) Un representante de la Dirección de Educación Pública.
+
+c) Un representante del Gobierno Regional.
+
+d) El Director Regional de la Junta Nacional de Jardines Infantiles.
+
+e) El Director Regional de la Superintendencia de Educación.
+
+f) El representante zonal de la Agencia de la Calidad de la Educación.
+
+g) El Director Regional de la Junta Nacional de Auxilio Escolar y Becas.
+
+h) Los Directores Ejecutivos de los Servicios Locales de la región.
+
+i) El Delegado Presidencial Regional.
+
+j) El o los rectores de la o las Universidades Estatales con domicilio en la región.
+
+k) El rector del Centro de Formación Técnica Estatal de la región.
+
+Cuando se estime pertinente, se podrá invitar a otros órganos o servicios, así como a representantes de universidades o centros de formación técnica con presencia en la región, a participar de las sesiones de la mesa ejecutiva o de las instancias de trabajo que éstas determinen.
+
+El Delegado Presidencial Regional respectivo dirigirá las sesiones de la mesa ejecutiva. Le asistirá en su preparación una secretaría técnica, que estará compuesta por un representante de la Dirección de Educación Pública y por el Secretario Regional Ministerial correspondiente.
+
+La mesa ejecutiva deberá definir una planificación anual para organizar su acción coordinada, según los antecedentes presentados para estos efectos por la secretaría técnica, debiendo tener siempre en consideración las definiciones adoptadas por el Comité de Ministros del artículo 64 de la presente ley. Durante el último trimestre de cada año, presentará a la Subsecretaría de Educación y a la Dirección de Educación Pública un informe que dará cuenta del trabajo realizado durante el año.
 
 Un reglamento dictado por el Ministerio de Educación desarrollará las materias establecidas en el presente artículo.
 
@@ -999,6 +1277,30 @@ Rendición de los recursos provenientes de la subvención escolar preferencial. 
 #### Artículo 67
 
 Imputación del gasto. El mayor gasto fiscal que represente la aplicación de la presente ley se financiará con cargo a los recursos que contemple anualmente la Ley de Presupuestos del Sector Público, en la Partida 09 del Ministerio de Educación, y, en lo que faltare, con cargo a los recursos de la Partida 50 del Tesoro Público.
+
+#### Artículo 67 bis
+
+Los establecimientos de educación parvularia dependientes de un Servicio Local serán financiados con cargo al presupuesto de dicho servicio, contemplado en la Ley de Presupuestos del Sector Público. Para estos efectos, se considerarán los costos a nivel de establecimiento y de aula, la dotación efectiva, los índices de ruralidad de la región y el nivel socioeconómico de la población correspondiente al territorio en que se ubica el Servicio Local, entre otros factores.
+
+Los Servicios Locales entregarán anualmente a la Dirección de Educación Pública, un informe de gestión sobre la ejecución de los recursos señalados en el inciso anterior. El plazo, el contenido de los informes de gestión y cualquier aspecto que resulte necesario para su adecuada implementación, serán regulados en un reglamento dictado por intermedio del Ministerio de Educación y firmado por el Ministro de Hacienda.
+
+Los recursos señalados en el inciso primero solo podrán destinarse al financiamiento de los establecimientos de educación parvularia, dependientes del Servicio Local respectivo.
+
+#### Artículo 67 ter
+
+Un reglamento dictado por intermedio del Ministerio de Educación y firmado por el Ministro de Hacienda establecerá la forma y modalidades de atención de niños y niñas de los establecimientos de educación parvularia dependientes de los Servicios Locales de Educación, las reglas relativas a los informes de gestión, así como las demás materias que resulten necesarias para la aplicación de lo dispuesto en el artículo 67 bis. Lo anterior, sin perjuicio de las Normas Técnicas que dicte la Subsecretaría de Educación Parvularia sobre la calidad del servicio educativo.
+
+#### Artículo 67 quáter
+
+Los asistentes de la educación que se desempeñen en establecimientos de educación parvularia dependientes de un Servicio Local financiado según lo dispuesto en el artículo 67 bis, tendrán derecho a las remuneraciones que se determinen según el régimen laboral aplicable, y además a las siguientes:
+
+1. La asignación del artículo 3° de la ley N° 20.905, que regulariza beneficios de estudiantes, sostenedores y trabajadores de la educación que indica y otras disposiciones, en la medida que cumplan los requisitos para percibirla.
+
+2. La asignación de experiencia contemplada en el artículo 48 de la ley N° 21.109, que establece un estatuto de los asistentes de la educación pública, siempre que se encuentren en las categorías técnicas, administrativas y auxiliares a que refieren los artículos 7, 8 y 9 de dicha ley, respectivamente, y cumplan los requisitos para percibirla.
+
+Los asistentes de la educación señalados en el inciso primero tendrán derecho al bono de desempeño laboral contemplado en el artículo 50 de la ley N° 21.109, en la medida que cumplan los requisitos para percibirlo.
+
+Los profesionales de la educación que se desempeñen en establecimientos de educación parvularia dependientes de un Servicio Local financiado según lo dispuesto en el artículo 67 bis tendrán derecho a las remuneraciones que se determinen según el régimen laboral aplicable, y además a aquella señalada en el numeral 1 del presente artículo.
 
 ## Título VI
 
@@ -1042,17 +1344,31 @@ Modifícase el decreto ley N° 3.166, de 1980, que Autoriza la entrega de la adm
 
 a) Agrégase, en el inciso primero, luego de "El Ministerio de Educación Pública" la frase ", a través de la Dirección de Educación Pública,".
 
-b) Agréganse los siguientes incisos tercero y cuarto:
+b) Introdúcense los siguientes incisos tercero a séptimo, nuevos:
 
-"Asimismo, al término de su vigencia, la Dirección de Educación Pública podrá, mediante resolución fundada, renovar el convenio con la entidad administradora, traspasar la administración del establecimiento educacional al Servicio Local de Educación Pública que corresponda o suscribir un nuevo convenio con otra entidad de las señaladas en el inciso primero, para lo cual deberá analizar la propuesta que se le presente por dicha entidad, considerando a lo menos los criterios indicados en los literales a), b) y c) del inciso siguiente.
+"Asimismo, al término de su vigencia, la Dirección de Educación Pública podrá, mediante resolución fundada, renovar el convenio con la entidad administradora, traspasar el establecimiento educacional al Servicio Local de Educación Pública que corresponda o suscribir un nuevo convenio de administración con otra entidad de las señaladas en el inciso primero.
 
-Para realizar la evaluación de cada convenio, la Dirección de Educación Pública deberá considerar, a lo menos, los siguientes elementos:
+Para efectos de determinar si la renovación del convenio procede, la Dirección de Educación Pública realizará una evaluación de la administración que considerará, al menos, los siguientes criterios:
 
-a) Evaluaciones de desempeño de la Agencia de Calidad de la Educación; reclamos, denuncias, sanciones e infracciones a la normativa educacional que haya conocido o aplicado la Superintendencia de Educación, así como cualquier otro informe, evaluación o información de que dispongan estos organismos respecto del establecimiento educacional.
+a) Evaluaciones de desempeño de la Agencia de Calidad de la Educación, sanciones e infracciones a la normativa educacional que haya conocido o aplicado la Superintendencia de Educación, así como cualquier otro informe, evaluación o información de que dispongan estos organismos respecto del establecimiento educacional.
 
-b) Pertinencia del proyecto educativo institucional del establecimiento en relación a la Estrategia Nacional de Educación Pública y las políticas del Ministerio de Educación en el área de la formación técnico-profesional.
+b) Pertinencia del proyecto educativo institucional del establecimiento en relación con la Estrategia Nacional de Educación Pública, la Estrategia Nacional de Formación Técnico Profesional y otras políticas del Ministerio de Educación en el área de la formación técnico-profesional.
 
-c) Vinculación del establecimiento con el sector productivo y fomento de la continuidad de estudios de los alumnos.".
+c) Vinculación del establecimiento con el sector social y productivo, articulación con iniciativas de desarrollo sostenible a nivel local y nacional, y generación de actividades que propicien la formación de alianzas estratégicas con el sector productivo.
+
+d) Existencia de mecanismos que faciliten la continuidad de estudios de los alumnos, tanto en la educación superior técnico-profesional como en la educación universitaria.
+
+La Dirección de Educación Pública determinará, mediante resolución fundada y conforme a los resultados de la evaluación, si procede o no la renovación del convenio, lo que será informado al administrador al menos cuatro meses antes del vencimiento del convenio. Cuando determinare que no procede, o cuando el administrador manifieste su intención de poner término al convenio, ofrecerá la administración a las entidades que tienen a su cargo establecimientos regidos por el presente decreto ley, y a tres o más instituciones de educación superior u otras entidades que cumplan con lo establecido en el inciso primero del presente artículo y que tengan experiencia en administración de establecimientos que ofrecen formación diferenciada técnico-profesional, otorgándoles en cada caso un plazo de quince días para responder. Terminado el plazo, la autoridad determinará la entidad idónea para la nueva administración del establecimiento, para lo cual podrá llamar a un concurso entre los interesados.
+
+Sin perjuicio de lo dispuesto previamente, la Dirección de Educación Pública podrá entregar el establecimiento al Servicio Local, siempre que constate que los establecimientos que ofrecen formación diferenciada técnico-profesional de su dependencia tienen una mejor categoría de desempeño que los establecimientos dependientes del administrador seleccionado en virtud de lo establecido en el inciso anterior. También se entregará la administración al Servicio Local cuando ninguna entidad de aquellas a las que se refiere el inciso primero del presente artículo manifieste su voluntad de recibir la administración del establecimiento, para lo cual bastará demostrar que se ofreció la administración en los términos señalados en el inciso tercero, o que en el respectivo concurso que se hubiere abierto no se hubiesen recibido postulaciones, éstas no fueron válidas o no cumplieron con el puntaje mínimo correspondiente.
+
+Un reglamento dictado por intermedio del Ministerio de Educación regulará los criterios de evaluación señalados en el inciso cuarto del presente artículo, su ponderación, el procedimiento de evaluación de los convenios, así como la fórmula adecuada para comparar las categorías de desempeño de los establecimientos dependientes de cada sostenedor, según lo establecido en el inciso precedente.".
+
+1 bis. Incorpórase, a continuación del artículo 4° bis, el siguiente artículo 4° ter, nuevo:
+
+#### Artículo 4° ter
+
+El Servicio Local de Educación Pública que reciba un establecimiento educacional regido por el presente decreto ley continuará recibiendo los recursos regulados en los artículos anteriores, de acuerdo con lo establecido en ellos.".
 
 2. Sustitúyese, en el artículo 5, la expresión "del Ministerio de Educación Pública" por "de la Dirección de Educación Pública".
 
@@ -1412,9 +1728,17 @@ i. Sustitúyese la frase "las Municipalidades o por sus Corporaciones" por "los 
 
 ii. Reemplázase la expresión "las Municipalidades" por "los Servicios Locales de Educación Pública".
 
-b) Sustitúyese, en el párrafo segundo del literal C, la frase "la Municipalidad respectiva, si se tratare de establecimientos administrados por ella o por su Corporación" por "el Servicio Local respectivo, si se tratare de establecimientos administrados por éste".
+b) En el párrafo primero del literal C:
 
-2. Modifícase el inciso final de su artículo 7 de la siguiente forma:
+i. Reemplázase la frase "Intendente de la Región" por "Delegado Presidencial Regional".
+
+ii. Agrégase, a continuación de la frase "del domicilio del beneficiario,", la siguiente: "o, en el caso de los Servicios Locales, únicamente con la aprobación del Secretario Regional Ministerial de Educación, con competencia en el domicilio del servicio respectivo,".
+
+iii. Reemplázase la frase "la Municipalidad respectiva, si se tratare de establecimientos administrados por ella o por su Corporación" por "el Servicio Local respectivo, si se tratare de establecimientos administrados por éste.
+
+2. Incorpórase en el inciso primero del artículo 2, a continuación del punto y aparte, que pasa a ser punto y seguido, lo siguiente: "En el caso de los Servicios Locales, las donaciones también podrán ser en especie. El valor de los bienes donados en especie será el que éstos tengan de acuerdo al valor de costo determinado en conformidad a lo dispuesto en la Ley sobre Impuesto a la Renta, y su entrega se registrará y documentará en la forma que establezca el Servicio de Impuestos Internos mediante resolución".
+
+3. Modifícase el inciso final de su artículo 7 de la siguiente forma:
 
 a) Reemplázase la frase "propiedad de la Municipalidad" por "propiedad del Servicio Local".
 
@@ -1652,11 +1976,13 @@ Los recursos de este Fondo deberán ser utilizados para el cumplimiento de los s
 
 i. Mejorar la calidad del servicio educativo a cargo de las municipalidades y corporaciones municipales mientras éste no haya sido traspasado a los Servicios Locales.
 
-ii. Facilitar la instalación y funcionamiento del Sistema de Educación Pública, especialmente el traspaso del servicio educativo a los Servicios Locales, de conformidad a las disposiciones transitorias establecidas en la ley que crea el Sistema de Educación Pública, en particular, las contenidas en el Párrafo 5° de sus disposiciones transitorias.
+ii. Facilitar la instalación y funcionamiento del Sistema de Educación Pública, especialmente el traspaso del servicio educativo a los Servicios Locales, de conformidad a las disposiciones transitorias establecidas en la ley que crea el Sistema de Educación Pública, en particular, las contenidas en el Párrafo 5° de sus disposiciones transitorias. Estas acciones podrán incluir reparaciones en infraestructura y la adquisición del equipamiento y mobiliario necesario para asegurar la correcta prestación del servicio educacional en establecimientos dependientes de Servicios Locales, considerando la normativa vigente.
 
 Los Planes de Transición señalados en el Párrafo 6° de las disposiciones transitorias de la ley que crea el Sistema de Educación Pública podrán ser financiados con los recursos de este Fondo.
 
-El monto anual de este Fondo se establecerá en la Ley de Presupuestos del Sector Público respectiva, y ascenderá a $250.000.000 miles para los años 2018 a 2019, $200.000.000 miles para el año 2020, $150.000.000 miles para el año 2021 y $100.000.000 miles para los años 2022 al 2025.
+En el caso de las municipalidades y corporaciones municipales, los recursos del Fondo serán transferidos después de dictarse la resolución que establezca su Plan de Transición, la que determinará los requisitos para acceder a ellos y los fines específicos en que se podrán destinar los montos correspondientes, de acuerdo con lo indicado en el inciso tercero de este artículo. El Plan de Transición deberá incluir objetivos financieros que permitan preparar o llevar adelante un adecuado traspaso del servicio educativo a los Servicios Locales de Educación, y se sujetarán a lo señalado en el artículo vigésimo sexto transitorio de la ley N° 21.040, que crea el Sistema de Educación Pública. Durante su vigencia, el Ministerio de Educación, a través de las Secretarías Regionales Ministeriales, desarrollará acciones de seguimiento y apoyo a las municipalidades y corporaciones municipales que faciliten su adecuado cumplimiento, considerando las orientaciones técnicas que entregue la Dirección de Educación Pública.
+
+El monto anual de este Fondo se establecerá en la Ley de Presupuestos del Sector Público respectiva, y ascenderá a $250.000.000 miles para los años 2018 a 2019, $200.000.000 miles para el año 2020, $150.000.000 miles para el año 2021 y $100.000.000 miles para los años 2022 al 2029.
 
 Mediante resolución del Ministerio de Educación, suscrita por el Ministerio de Hacienda, se establecerán los mecanismos de distribución de estos recursos, los usos específicos en que se emplearán, y las formas y procedimientos de entrega y rendición de los mismos, cuando ello corresponda.
 
@@ -1738,21 +2064,23 @@ Si, por razones fundadas, se hiciera necesario extender las fechas de entrada en
 
 #### Artículo séptimo
 
-Consejo de Evaluación del Sistema de Educación Pública. Existirá un Consejo de Evaluación del Sistema de Educación Pública (en adelante también "el Consejo de Evaluación"), el que será presidido por el Subsecretario de Educación e integrado además por seis profesionales de reconocida experiencia en las áreas de políticas públicas, educación y administración municipal o del Estado.
+Consejo de Evaluación del Sistema de Educación Pública. Existirá un Consejo de Evaluación del Sistema de Educación Pública (en adelante también "el Consejo de Evaluación"), que será presidido por el Subsecretario de Educación e integrado, además, por seis profesionales de reconocida experiencia en las áreas de políticas públicas, educación y administración municipal o del Estado.
 
-Dichos profesionales deberán ser ajenos a la administración del Estado, salvo aquellos que ejerzan funciones docentes, debiendo reflejarse en la conformación del Consejo una adecuada diversidad de visiones y competencias. Serán designados por el Presidente de la República y su participación será ad honorem. Estos profesionales permanecerán en sus cargos por un período no inferior al de la fecha de entrega del informe de evaluación intermedia al que se refiere el inciso cuarto del presente artículo.
+Dichos profesionales deberán ser ajenos a la Administración del Estado, salvo aquellos que ejerzan funciones docentes, debiendo reflejarse en la conformación del Consejo una adecuada diversidad de visiones y competencias, considerando representación de ambos géneros. Serán designados por el Presidente de la República mediante decreto supremo expedido a través del Ministerio de Educación, previo acuerdo del Senado, adoptado por los dos tercios de sus miembros en ejercicio, en sesión especialmente convocada al efecto. El Presidente de la República hará la proposición en un solo acto y el Senado deberá pronunciarse respecto de la propuesta como una unidad.
 
-La Subsecretaría de Educación prestará apoyo administrativo al Consejo y el Director de Educación Pública será su secretario ejecutivo, teniendo sólo derecho a voz. El Consejo determinará su forma de funcionamiento mediante acuerdo.
+Los Consejeros tendrán una participación ad honorem, se renovarán por parcialidades de tres consejeros cada dos años, y permanecerán en sus cargos por cuatro años, pudiendo ser reelegidos solo por un nuevo período consecutivo.
 
-El Consejo de Evaluación tendrá como misión principal asesorar al Presidente de la República en la evaluación y análisis del proceso de instalación de los Servicios Locales. A fin de dar cumplimiento adecuado a esta tarea, entregará un informe anual de seguimiento de la puesta en marcha del Sistema de Educación Pública, debiendo presentar, en el año 2021, una evaluación intermedia de este proceso.
+El Consejo de Evaluación tendrá como misión principal asesorar al Presidente de la República en la evaluación y análisis del proceso de instalación y del funcionamiento en régimen de los Servicios Locales. A fin de dar cumplimiento adecuado a esta tarea, entregará un informe anual de seguimiento del Sistema de Educación Pública. Dicha evaluación anual podrá versar sobre diferentes aspectos del Sistema cada año, pudiendo incluso referirse únicamente a ciertas regiones o macrozonas, si así lo estima adecuado el Consejo.
 
-En el cumplimiento de sus funciones, el Consejo podrá proponer al Presidente de la República, de manera fundada y con el voto favorable de la mayoría de sus miembros indicados en el inciso segundo de este artículo, modificaciones legales, reglamentarias o de otra índole, tales como la modificación del calendario de la segunda etapa de instalación de los Servicios Locales; la extensión del proceso por un nuevo período o la creación de nuevas etapas de instalación; la implementación de formas de administración o gestión del servicio educacional; la modificación del ámbito de competencia territorial de los Servicios Locales; diferir, incluir o no considerar temporalmente a una o más comunas en el proceso de instalación; variar el número total de Servicios Locales; modificaciones de cualquier naturaleza en aquellos casos en que advierta problemas en la implementación del Sistema; y cualquier otra política pública, medida, procedimiento o mecanismo orientado a mejorar el Sistema Nacional de Educación Pública.
+Además de las evaluaciones anuales, el Consejo deberá presentar una evaluación de término una vez hubieren entrado en funcionamiento todos los Servicios Locales. Esta última deberá contener un análisis exhaustivo de la gobernanza del Sistema, incluyendo una revisión del funcionamiento de los Comités Directivos y Consejos Locales de Educación Pública, que analice a escala regional y nacional el cumplimiento de sus objetivos y funciones.
 
-Para la elaboración de sus propuestas el Consejo considerará un informe sobre la primera etapa del proceso de instalación que para estos efectos le proporcionará la Agencia de Calidad de la Educación, considerando la calidad, funcionamiento y desarrollo del servicio educacional provisto por los Servicios Locales. Asimismo, solicitará información a los directores de Servicios Locales instalados y autoridades municipales y regionales, y consultará a representantes de profesores y asistentes de la educación, representantes estudiantiles del nivel escolar y académicos con experiencia en la materia, entre otros. De igual forma, podrá solicitar estudios e informes a las Subsecretarías de Educación y de Educación Parvularia, a la Agencia de Calidad de la Educación, Superintendencia de Educación y a otros órganos de la Administración que estime pertinente. Con todo, los informes del Consejo deberán contener la opinión del Ministro de Hacienda respecto del impacto presupuestario de las propuestas.
+En el cumplimiento de sus funciones, el Consejo podrá proponer al Presidente de la República, de manera fundada y con el voto favorable de la mayoría de sus miembros indicados en el inciso segundo de este artículo, modificaciones legales, reglamentarias o de otra índole, tales como la modificación del calendario de la segunda etapa de instalación de los Servicios Locales; la extensión del proceso por un nuevo período o la creación de nuevas etapas de instalación; la implementación de formas de administración o gestión del servicio educacional; la adopción de medidas para el fortalecimiento de los Comités Directivos y Consejos Locales de Educación Pública según las debilidades sistémicas que sean identificadas; la modificación del ámbito de competencia territorial de los Servicios Locales; diferir, incluir o no considerar temporalmente a una o más comunas en el proceso de instalación; variar el número total de Servicios Locales; modificaciones de cualquier naturaleza en aquellos casos en que advierta problemas en la implementación del Sistema; y cualquier otra política pública, medida, procedimiento o mecanismo orientado a mejorar el Sistema Nacional de Educación Pública.
 
-El Consejo terminará su labor a más tardar el 1 de enero de 2025 o en el último año que se establezca en el calendario de instalación de los Servicios Locales.
+Para la elaboración de sus propuestas, el Consejo considerará la información disponible sobre el proceso de instalación, que para estos efectos le proporcionará la Agencia de Calidad de la Educación, considerando la calidad, funcionamiento y desarrollo del servicio educacional provisto por los Servicios Locales. Asimismo, solicitará información a los directores de Servicios Locales instalados y autoridades municipales y regionales, y consultará a representantes de profesores y asistentes de la educación, representantes estudiantiles del nivel escolar y académicos con experiencia en la materia, entre otros. De igual forma, podrá solicitar estudios e informes a las Subsecretarías de Educación y de Educación Parvularia, a la Agencia de Calidad de la Educación, a la Superintendencia de Educación y a otros órganos de la Administración que estime pertinente. Con todo, los informes del Consejo deberán contener la opinión del Ministro de Hacienda respecto del impacto presupuestario de las propuestas.
 
-En el mes de marzo de cada año el Ministro de Educación dará cuenta del estado de avance de la implementación del Sistema de Educación Pública a la Comisión de Educación de la Cámara de Diputados y a la Comisión de Educación y Cultura del Senado, en sesión conjunta.
+En el mes de marzo de cada año, el Ministro de Educación dará cuenta del estado de avance de la implementación del Sistema de Educación Pública a las comisiones de Educación de la Cámara de Diputados y del Senado, en sesión conjunta. A más tardar seis meses después de la entrega de la evaluación de término a que refiere el inciso quinto, se dictará, por intermedio del Ministerio de Educación, un reglamento que determinará la forma específica de funcionamiento del Consejo respecto del sistema en régimen, según los objetivos y funciones que este artículo establece para dicha etapa, manteniéndose la forma de selección de los consejeros, así como la obligación del Consejo de realizar evaluaciones anuales.
+
+> **Nota.** El artículo décimo transitorio de la ley 21819, publicada el 25.05.2026, ordena que la designación de los integrantes del Consejo de Evaluación del Sistema de Educación Pública, de conformidad con lo establecido en el presente artículo, deberá efectuarse dentro del plazo de noventa días corridos, contado desde la publicación de la citada ley. Asimimso, con el objeto de permitir la renovación parcial de los integrantes del Consejo, el Presidente de la República, en la propuesta que haga al Senado, identificará a los consejeros que durarán dos y cuatro años en sus cargos. En el acto de nombramiento deberá constar la circunstancia de ejercerse el cargo por este período especial.
 
 ### Párrafo 2°
 
@@ -1760,7 +2088,7 @@ Del traspaso del servicio educacional
 
 #### Artículo octavo
 
-Fecha del traspaso del servicio educacional. El 1 de enero del año siguiente a la fecha de entrada en funcionamiento de un Servicio Local, se le traspasará, por el solo ministerio de la ley, el servicio educacional que prestan las municipalidades, directamente o a través de corporaciones municipales, de las comunas en las cuales éste ejerza su competencia, lo cual comprenderá los bienes muebles e inmuebles, recursos financieros y personas asociadas a la prestación de dicho servicio, de conformidad a las disposiciones transitorias siguientes.
+Fecha del traspaso del servicio educacional. El 1 de enero del año subsiguiente a la fecha de entrada en funcionamiento de un Servicio Local, se le traspasará, por el solo ministerio de la ley, el servicio educacional que prestan las municipalidades, directamente o a través de corporaciones municipales, de las comunas en las cuales éste ejerza su competencia, lo cual comprenderá los bienes muebles e inmuebles, recursos financieros y personas asociadas a la prestación de dicho servicio, de conformidad a las disposiciones transitorias siguientes.
 
 Con todo, el servicio educacional se traspasará, por el solo ministerio de la ley y en las mismas condiciones del inciso anterior, el 1 de marzo de 2018 a los Servicios Locales establecidos en el párrafo primero del numeral 1 del artículo sexto transitorio en caso de que entren en funcionamiento antes del 1 de enero de 2018. Si la entrada en funcionamiento se produce con posterioridad a dicha fecha, el servicio educacional se traspasará según lo establecido en el inciso anterior.
 
@@ -1768,11 +2096,11 @@ Asimismo, en el caso de los Servicios Locales establecidos en el párrafo segund
 
 #### Artículo noveno
 
-Traspaso de los establecimientos educacionales. Los establecimientos educacionales de administración municipal o de corporaciones municipales, que cuenten con reconocimiento oficial al 31 de diciembre de 2014, ya sea que se encuentren en funcionamiento o en receso, así como aquellos que se creen a partir de dicha fecha hasta el momento del traspaso, se traspasarán al Servicio Local que ejerza sus competencias en las correspondientes comunas, de conformidad a los artículos siguientes, y en la misma forma y oportunidad señalada en el artículo anterior.
+Traspaso de los establecimientos educacionales. Los establecimientos educacionales de administración municipal directa o a través de corporaciones municipales, que cuenten con reconocimiento oficial al 31 de diciembre de 2014, ya sea que se encuentren en funcionamiento o en receso, así como aquellos que se creen a partir de dicha fecha hasta el momento del traspaso, se traspasarán al Servicio Local que ejerza sus competencias en las correspondientes comunas, de conformidad a los artículos siguientes, y en la misma forma y oportunidad señalada en el artículo anterior.
 
 El Servicio Local será el sucesor legal de la municipalidad, o la corporación municipal en su caso, en la calidad de sostenedor del establecimiento educacional traspasado.
 
-Los inmuebles donde funcionaron establecimientos educacionales de administración municipal o administrados por corporaciones municipales, que al 31 de diciembre de 2014 hubieren perdido su reconocimiento oficial, dejarán de estar afectos al servicio educacional y pasarán a ser de libre disponibilidad por parte de la municipalidad o corporación municipal respectiva; siempre que estas hayan dado cumplimiento íntegro a todas las obligaciones de los convenios de ejecución del Plan de Transición, y sólo una vez que se haya efectuado el traspaso del servicio educacional al respectivo Servicio Local según lo establecido en estas disposiciones transitorias.
+Los inmuebles donde funcionaron establecimientos educacionales de administración municipal directa o a través de corporaciones municipales, que al 31 de diciembre de 2014 hubieren perdido su reconocimiento oficial, dejarán de estar afectos al servicio educacional y pasarán a ser de libre disponibilidad por parte de la municipalidad, siempre que ésta no haya incurrido en una infracción grave a las obligaciones que emanan del Plan de Transición, y sólo una vez que se haya efectuado el traspaso del servicio educacional al respectivo Servicio Local según lo establecido en estas disposiciones transitorias.
 
 > **Nota.** El artículo 75 de la ley 21724, publicada el 03.01.2025, declara interpretado el inciso segundo del presente artículo en el sentido de que el Servicio Local de Educación Pública será el sucesor legal de la municipalidad o corporación municipal, según corresponda, exclusivamente en la calidad de sostenedor del establecimiento educacional traspasado, excluyendo las obligaciones y deudas generadas u originadas por incumplimientos o hechos ocurridos durante el período previo a la fecha en que les fue traspasado el servicio educativo, las cuales quedarán radicadas en el patrimonio del Municipio o de la Corporación Municipal, para todos los efectos legales, hasta su total extinción. En consecuencia, no se podrán embargar los bienes ni subvenciones a los Servicios Locales de Educación Pública para efectos de responder de dichas deudas u obligaciones.
 
@@ -1780,11 +2108,13 @@ Los inmuebles donde funcionaron establecimientos educacionales de administració
 
 Postergación del traspaso del servicio educacional. Una municipalidad o corporación municipal podrá solicitar al Ministerio de Educación que el servicio educacional de su comuna no sea traspasado al Servicio Local respectivo en los plazos que le correspondieren en virtud de los artículos anteriores, siempre que cumpla con los siguientes requisitos copulativos:
 
-a) Que al momento de la solicitud, a lo menos el 60% del total de establecimientos a su cargo presente niveles educativos ordenados como de desempeño alto o medio alto, según la ordenación realizada por la Agencia de Calidad de la Educación, de conformidad con la ley N° 20.529. Para estos efectos se considerarán las ordenaciones correspondientes al último año disponible.
+a) Que al momento de la solicitud, a lo menos el 60% del total de establecimientos a su cargo presente niveles educativos ordenados como de desempeño alto o medio, según la ordenación realizada por la Agencia de Calidad de la Educación, de conformidad con la ley N° 20.529. Para estos efectos se considerarán las ordenaciones correspondientes al último año disponible.
 
-b) Que la evolución del total de la matrícula en los establecimientos que administra, durante los seis años previos al momento de la solicitud, ubique a la respectiva municipalidad o corporación municipal dentro del 30% de mejor desempeño a nivel nacional para dicho índice.
+Cuando la municipalidad o corporación municipal que solicite la postergación tenga más de un 50% de establecimientos sin categoría de desempeño vigente, pero tuviere a su vez dos o más establecimientos categorizados, se exigirá que al menos el 50% de ellos presente niveles educativos ordenados como de desempeño alto o medio para poder postergar el traspaso. La Agencia de Calidad de la Educación emitirá un informe acerca de la calidad educativa de los establecimientos que no cuentan con categoría de desempeño vigente, el que deberá ser ponderado por el Ministerio de Educación, que podrá rechazar la solicitud cuando estime que, según el contenido del informe, no es posible asegurar la conveniencia de postergar el traspaso.
 
-Para estos efectos se entenderá por "total de la matrícula" aquella comprendida entre el primer año de educación básica y el cuarto año de educación media regular, incluyendo las diversas formaciones diferenciadas y modalidades de enseñanza. Asimismo, para establecer esta evolución se deberá considerar el efecto demográfico referido a la evolución de la población entre 6 y 18 años de las comunas del país para el mismo período.
+b) Que la evolución del total de la matrícula en los establecimientos que administra, durante los seis años previos al momento de la solicitud, ubique a la respectiva municipalidad o corporación municipal dentro del 30% de mejor desempeño a nivel regional para dicho índice.
+
+Para estos efectos se entenderá por "total de la matrícula" aquella comprendida entre el primer año de educación básica y el cuarto año de educación media regular, incluyendo las diversas formaciones diferenciadas y modalidades de enseñanza. Asimismo, para establecer esta evolución se deberá considerar el efecto demográfico referido a la evolución de la población entre 6 y 18 años de las comunas de la región para el mismo período.
 
 c) Que durante los veinticuatro meses previos a la solicitud, no haya registrado obligaciones previsionales impagas respecto de los profesionales de la educación, asistentes de la educación o personal de apoyo y administración educacional de su dependencia, por un monto superior a las 400 unidades de fomento calculadas a la fecha en que se presente la solicitud.
 
@@ -1793,6 +2123,8 @@ d) Que al momento de la solicitud, la deuda de la municipalidad o corporación m
 El municipio o corporación municipal deberá presentar su solicitud durante el mes de enero del año en que entrará en funcionamiento el Servicio Local con competencia sobre la comuna respectiva. El Ministerio de Educación tendrá un plazo de sesenta días para verificar el cumplimiento de los requisitos y acoger la solicitud si fuera procedente.
 
 El Ministerio de Educación deberá evaluar anualmente, a más tardar en marzo de cada año, si las municipalidades o corporaciones municipales autorizadas mantienen el cumplimiento de los requisitos establecidos en los literales de este artículo. De no ser así, el traspaso del servicio educacional que prestan se ajustará a lo establecido en el calendario de instalación definido por el Presidente de la República; y en caso de encontrarse ya en funcionamiento el respectivo Servicio Local con competencia sobre la comuna, se deberá proceder al traspaso del servicio educacional, según las normas establecidas en estas disposiciones transitorias.
+
+En todo caso, todos aquellos municipios o corporaciones municipales que hubieren sido autorizados a la postergación establecida en el presente artículo, deberán realizar el traspaso del servicio educacional al Servicio Local de Educación correspondiente a más tardar el año 2035.
 
 Un reglamento del Ministerio de Educación, suscrito además por el Ministro de Hacienda, especificará los requisitos indicados en los literales de este artículo y la forma e instrumentos para su evaluación, y el procedimiento de solicitud y aprobación del requerimiento de la municipalidad o corporación municipal.
 
@@ -1808,6 +2140,8 @@ Artículo undécimo.- Bienes inmuebles afectos al servicio educacional. Para los
 
 3. Los inmuebles que no correspondan a alguna de las categorías anteriores y que pertenezcan a entidades en que participe una municipalidad, tales como corporaciones municipales, serán traspasados al Servicio Local que corresponda. Con todo, si dichas corporaciones demuestran que un determinado inmueble se encuentra en esta categoría, podrán optar por entregarlo en comodato al Servicio Local. Éste deberá ser celebrado antes de que se verifique el traspaso del servicio educacional, según lo establecido en el artículo octavo transitorio, y tendrá una duración de, al menos, treinta años. Asimismo, deberá dar cumplimiento, respecto del derecho de uso entregado en virtud del comodato, a todos los trámites establecidos para los inmuebles en estas disposiciones transitorias.
 
+Efectuado el traspaso de los inmuebles a un Servicio Local, se extinguirán por el solo ministerio de la ley las hipotecas y prohibiciones constituidas en favor del Fisco, cuyas inscripciones deberán ser canceladas por el Conservador de Bienes Raíces respectivo previa solicitud que deberá efectuar el Servicio Local correspondiente, a través de la anotación marginal de la resolución de traspaso respectiva, dentro de un plazo de treinta días contado desde el momento en que se hiciere efectivo el traspaso del inmueble.
+
 Artículo duodécimo.- Bienes muebles afectos al servicio educacional. Se entenderán afectos a la prestación del servicio educacional los bienes muebles que, perteneciendo a los órganos señalados en el artículo precedente, se encuentren en alguno de los siguientes casos:
 
 a) Bienes muebles que guarnecen los inmuebles señalados en el artículo anterior.
@@ -1822,7 +2156,9 @@ Los bienes señalados en el presente artículo y en el artículo precedente se t
 
 #### Artículo decimo
 
-tercero.- Regularización de inmuebles destinados al funcionamiento de establecimientos educacionales. Para la regularización de la propiedad de los inmuebles afectos al funcionamiento de establecimientos educacionales, señalados en el artículo undécimo transitorio y en el literal b) del artículo vigésimo primero transitorio de esta ley, se estará a lo dispuesto en el decreto ley Nº 2.695, en todo aquello que sea pertinente, sin que sea aplicable, para estos efectos, la restricción respecto al avalúo fiscal de dichos inmuebles que establece el artículo 1 del mismo decreto ley.
+tercero.- Regularización de la posesión de la propiedad raíz afecta a la prestación del servicio educacional. En aquellos casos en que no se encuentre regularizada la posesión de los bienes inmuebles señalados en el artículo undécimo transitorio y en el literal b) del artículo vigésimo primero transitorio de esta ley, se estará a lo dispuesto en el decreto ley N° 2.695, de 1979, que fija normas para regularizar la posesión de la pequeña propiedad raíz y para la constitución del dominio sobre ella, en todo aquello que sea pertinente, sin que sea aplicable, para estos efectos, la restricción respecto al avalúo fiscal de dichos inmuebles que establece el artículo 1 del mismo decreto ley.
+
+Lo señalado en el inciso anterior también se aplicará a los bienes inmuebles que conforman los establecimientos educacionales regulados por el decreto ley N° 3.166, de 1980, que autoriza entrega de la administración de determinados establecimientos de educación técnico profesional a las instituciones o a las personas jurídicas que indica.
 
 #### Artículo decimo
 
@@ -1860,11 +2196,17 @@ Para todos los efectos legales, en los contratos o convenios celebrados con terc
 
 #### Artículo decimo
 
+quinto bis.- Reglamento para el traspaso o reintegro de recursos financieros afectos a la prestación del servicio educacional. Un reglamento dictado por el Ministerio de Educación y suscrito además por el Ministro de Hacienda, regulará el procedimiento de reintegro y/o traspaso de recursos financieros afectos a la prestación del servicio educacional, indicando, al menos, los plazos, actos administrativos, entidad y/o programa presupuestario al cual se reintegran o traspasan dichos recursos.
+
+> **Nota.** El artículo sexto transitorio de la ley 21819, publicada el 25.05.2026, dispone que el reglamento al que alude el presente artículo deberá ser dictado dentro del plazo de un año a partir de la publicación de la citada ley en el Diario Oficial.
+
+#### Artículo decimo
+
 sexto.- Cesión de concesiones. Sin perjuicio del traspaso del servicio educacional y los bienes afectos al mismo, los Servicios Locales serán sucesores legales de aquellas municipalidades que hubieren concesionado el servicio educacional respecto de uno o más establecimientos educacionales, pudiendo poner término a la concesión de acuerdo a los procedimientos vigentes en esta ley.
 
 #### Artículo decimo
 
-séptimo.- Exención de derechos e impuestos. Los actos, convenios, publicaciones, inscripciones, subinscripciones o actuaciones de cualquier otro tipo que se originen a causa de los traspasos de bienes y servicios dispuestos en la presente ley, estarán exentos de todo arancel o tributo, incluyendo cualquier tipo de impuesto, tasa o derecho a favor del Fisco o del patrimonio de cualquier órgano del Estado.
+séptimo.- Exención de derechos e impuestos. Los actos, convenios, publicaciones, inscripciones, reinscripciones, subinscripciones, anotaciones, emisiones de certificados, copias de instrumentos públicos o privados y, en general, toda otra actuación, trámite o diligencia de cualquier otro tipo, que se originen a causa de los traspasos o regularización de bienes y servicios dispuestos en la presente ley, que pudieran efectuar los órganos auxiliares de la administración de justicia, tales como Notarios, Conservadores de Bienes Raíces, Archiveros; así como cualquier órgano de la Administración del Estado, estarán exentos de todo arancel o tributo, incluyendo cualquier tipo de impuesto, tasa, gravamen o derecho, de cualquier naturaleza, a favor del Fisco o del patrimonio de cualquier órgano del Estado, o de los órganos auxiliares de la administración de justicia señalados en el presente artículo.
 
 ### Párrafo 4º
 
@@ -1886,15 +2228,13 @@ Del procedimiento de traspaso del servicio educacional
 
 noveno.- Del procedimiento de traspaso. Los traspasos dispuestos en los párrafos anteriores se efectuarán de conformidad al procedimiento de traspaso regulado en este párrafo, el que deberá resguardar siempre la continuidad del servicio educacional y el derecho a la educación de los estudiantes.
 
-Artículo vigésimo.- Registro de bienes destinados a la prestación del servicio educacional. El Ministerio de Educación llevará un registro actualizado, desde la entrada en vigencia de esta ley, en el cual se individualizarán los bienes muebles e inmuebles que serán traspasados, o entregados en comodato según lo establecido en el numeral 3) del artículo undécimo transitorio, a cada Servicio Local de Educación Pública, de conformidad a lo establecido en el párrafo 3° del presente Título.
+Artículo vigésimo.- Registro de bienes destinados a la prestación del servicio educacional. La Dirección de Educación Pública llevará un registro actualizado en el cual se individualizarán los bienes muebles e inmuebles que sean traspasados o entregados en comodato según lo establecido en el numeral 3 del artículo undécimo transitorio, a cada Servicio Local de Educación Pública, de conformidad a lo establecido en el Párrafo 3° del presente Título y en el reglamento establecido en el artículo vigésimo primero transitorio.
 
-Para estos efectos, cada municipalidad deberá elaborar un registro actualizado de sus bienes inmuebles, cuya copia deberá remitir al Ministerio de Educación, dentro de los tres meses siguientes a la entrada en vigencia de la presente ley, y un registro actualizado de sus bienes muebles, cuya copia deberá remitir al Ministerio de Educación dentro de los doce meses siguientes a dicha fecha. Asimismo, deberá oficiar a dicho Ministerio cualquier hecho relevante relacionado con los bienes destinados a la prestación del servicio educacional que se encuentren en su comuna, de conformidad a lo que establezca el reglamento.
+Artículo vigésimo primero.- De las obligaciones de las municipalidades. Las municipalidades que presten el servicio educacional, directamente o a través de corporaciones municipales, deberán remitir a la Dirección de Educación Pública toda la información que sea necesaria para el adecuado traspaso, con una anticipación de al menos seis meses antes de la entrada en funcionamiento del Servicio Local al cual deban traspasar el servicio educacional. En el caso de los Servicios Locales individualizados en el párrafo primero del numeral 1 del artículo sexto transitorio, las municipalidades cuyo servicio se traspase el año 2018 deberán remitir esta información en el plazo de un mes desde la fecha de publicación de la presente ley. Esta información deberá considerar al menos lo siguiente:
 
-Artículo vigésimo primero.- De las obligaciones de las municipalidades. Las municipalidades que presten el servicio educacional, directamente o a través de corporaciones municipales, deberán remitir al Ministerio de Educación toda la información que sea necesaria para el adecuado traspaso, con una anticipación de al menos seis meses antes de la entrada en funcionamiento del Servicio Local al cual deban traspasar el servicio educacional. En el caso de los Servicios Locales individualizados en el párrafo primero del numeral 1 del artículo sexto transitorio, las municipalidades cuyo servicio se traspase el año 2018 deberán remitir esta información en el plazo de un mes desde la fecha de publicación de la presente ley. Esta información deberá considerar al menos lo siguiente:
+a) Una nómina digitalizada de los profesionales de la educación y asistentes de la educación que se desempeñen en establecimientos educacionales que, de conformidad a la presente ley, serán traspasados a los Servicios Locales. Deberá indicarse el respectivo régimen legal y/o contractual, señalándose entre otros antecedentes que requiera la Dirección, respecto de cada uno, el nombre, función que realiza y calidad contractual de sus horas contratadas, y en el caso de asistentes de la educación, la categoría a la que pertenece, antigüedad, lugar en que se desempeña, situación previsional y remuneración desagregada, y las asignaciones que le corresponda percibir.
 
-a) Una nómina de los profesionales de la educación y asistentes de la educación que se desempeñen en establecimientos educacionales que, de conformidad a la presente ley, serán traspasados a los Servicios Locales. Deberá indicarse el respectivo régimen legal y/o contractual, señalándose entre otros antecedentes que requiera el Ministerio, el nombre, función que realiza, antigüedad, lugar en que se desempeña, situación previsional y remuneración desagregada, y las asignaciones que le correspondan percibir.
-
-b) Un inventario de los bienes muebles e inmuebles que deberán ser traspasados, o entregados en comodato según lo establecido en el numeral 3) del artículo undécimo transitorio, de conformidad a los párrafos 3° y 4º de estas disposiciones transitorias, individualizándolos y señalando el estado de conservación en el cual se encuentran. Respecto de los inmuebles y vehículos motorizados, deberán expresarse todas las menciones exigidas por la ley y reglamentación respectiva para su inscripción en los registros pertinentes. Este inventario deberá llevar la firma del director del respectivo establecimiento educacional.
+b) Un inventario de los bienes muebles e inmuebles que deberán ser traspasados, o entregados en comodato según lo establecido en el numeral 3 del artículo undécimo transitorio, de conformidad a los párrafos 3° y 4° de estas disposiciones transitorias, individualizándolos y señalando el estado de conservación en el cual se encuentran. Respecto de los inmuebles y vehículos motorizados, deberán expresarse todas las menciones exigidas por la ley y reglamentación respectiva para su inscripción en los registros pertinentes. Este inventario deberá llevar la firma del director del respectivo establecimiento educacional. Para los efectos establecidos en este literal y en el artículo anterior, un reglamento regulará los requisitos, el contenido, las formalidades y cualquier otro aspecto necesario para el registro de estos bienes.
 
 c) Copia de los contratos o convenios vigentes con terceros proveedores de bienes y servicios.
 
@@ -1902,79 +2242,127 @@ d) Un catastro de los servicios prestados dentro de la comuna, por los estableci
 
 e) Cualquier otra información que sea procedente para el adecuado traspaso del servicio educacional.
 
-El Ministerio de Educación, mediante resolución, podrá establecer otros antecedentes que resulten necesarios para el adecuado traspaso del servicio educacional, así como determinar el formato en que éstos deberán remitirse.
+Las municipalidades y corporaciones deberán mantener actualizada la información a que se refiere este artículo, la que deberá encontrarse disponible para dar respuesta a solicitudes de información que se realicen sobre ésta, ya sea de la Dirección de Educación Pública, el Servicio Local respectivo u otro organismo de la Administración del Estado, aun cuando se haya producido el traspaso del servicio educacional.
 
-Asimismo, deberá constituirse una comisión técnica con el objeto de colaborar con la adecuada entrega de la información a que se refiere el literal a) del presente artículo. Esta comisión se constituirá al menos ocho meses antes de la entrada en funcionamiento del respectivo Servicio Local y estará compuesta por un representante de la municipalidad, un representante de los profesionales de la educación, un representante de los asistentes de la educación y un representante del personal que se desempeñe en los Departamentos de Administración de Educación Municipal o de las corporaciones municipales cuya función se relacione directamente con la administración del servicio educacional, junto a los equipos técnicos que el Ministerio de Educación destine para estos efectos. En el cumplimiento de su función considerará la información que le sea proporcionada, de carácter laboral y previsional del personal de las municipalidades o de las corporaciones municipales. Las municipalidades correspondientes a los Servicios Locales señalados en el numeral 1 del artículo sexto transitorio se exceptuarán de la constitución de esta comisión. La información contenida en este decreto, en relación con las remuneraciones y asignaciones del personal indicadas en éste, será la utilizada para los efectos del traspaso señalado en el artículo cuadragésimo primero transitorio de esta ley, respecto del personal considerado en dicho decreto; y en particular para la protección señalada en el artículo cuadragésimo segundo transitorio, sin perjuicio de los reajustes que se establezcan, de conformidad a la ley.
+La Dirección de Educación Pública, mediante resolución, podrá establecer otros antecedentes que resulten necesarios para el adecuado traspaso del servicio educacional, así como determinar el formato en que éstos deberán remitirse.
 
-Para los efectos de lo establecido en el presente artículo, la municipalidad deberá dictar un decreto alcaldicio, de acuerdo a la normativa vigente, al cual se acompañará el inventario de bienes y la nómina de personal.
+Asimismo, deberá constituirse una comisión técnica con el objeto de colaborar con la adecuada entrega de la información a que se refiere el literal a) del presente artículo. Esta comisión se constituirá al menos ocho meses antes de la entrada en funcionamiento del respectivo Servicio Local y estará compuesta por un representante de la municipalidad, un representante de los profesionales de la educación, un representante de los asistentes de la educación, un representante de los establecimientos de educación parvularia financiados vía transferencia de fondos, y un representante del personal que se desempeñe en los Departamentos de Administración de Educación Municipal o de las corporaciones municipales cuya función se relacione directamente con la administración del servicio educacional, junto a los equipos técnicos que la Dirección de Educación Pública destine para estos efectos. En el cumplimiento de su función considerará la información que le sea proporcionada, de carácter laboral y previsional del personal de las municipalidades o de las corporaciones municipales. Las municipalidades correspondientes a los Servicios Locales señalados en el numeral 1 del artículo sexto transitorio se exceptuarán de la constitución de esta comisión. La información contenida en el decreto alcaldicio señalado en el inciso sexto, en relación con las remuneraciones y asignaciones del personal indicadas en éste, será la utilizada para los efectos del traspaso señalado en el artículo cuadragésimo primero transitorio de esta ley, respecto del personal considerado en dicho decreto; y en particular para la protección señalada en el artículo cuadragésimo segundo transitorio, sin perjuicio de los reajustes que se establezcan, de conformidad a la ley.
 
-En caso de que un municipio no cumpla con las obligaciones establecidas en este artículo, se entenderá que se configurará causal de notable abandono de deberes respecto del alcalde. Para dichos efectos se procederá según lo dispuesto en la letra c) del artículo 60 del decreto con fuerza de ley N° 1, de 2006, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado de la ley orgánica constitucional de municipalidades.
+A fin de facilitar el cumplimiento de las funciones de la comisión técnica, el municipio organizará, durante la jornada laboral, al menos dos sesiones destinadas a resolver consultas respecto de la información sujeta a su revisión.
 
-El Ministerio de Educación podrá colaborar con las municipalidades para el adecuado cumplimiento de lo dispuesto en este artículo.
+Para los efectos de lo establecido en el presente artículo, la municipalidad deberá dictar un decreto alcaldicio, de acuerdo a la normativa vigente, al cual se acompañará el inventario de bienes y la nómina de personal. Dicho decreto deberá ser actualizado un año antes del traspaso del servicio educacional y complementado con la información que sea requerida por la Dirección de Educación Pública.
 
-Artículo vigésimo segundo.- Resolución de traspaso. Al menos dos meses antes de la entrada en funcionamiento de un Servicio Local, el Ministro de Educación deberá dictar una o más resoluciones que individualicen los bienes muebles e inmuebles y personal que le serán traspasados, o entregados en comodato según lo establecido en el numeral 3) del artículo undécimo transitorio, las cuales deberán contener, a lo menos, lo señalado en los literales a), b), c), d) y e) del inciso primero del artículo anterior. En el caso de los Servicios Locales indicados en el párrafo primero del numeral 1 del artículo sexto transitorio dicha resolución deberá dictarse antes del traspaso del servicio educacional, de conformidad a lo establecido en el artículo octavo transitorio.
+Las obligaciones dispuestas en el presente artículo se entienden contenidas en lo dispuesto en el literal i) del artículo vigésimo quinto transitorio de esta ley. En consecuencia, el incumplimiento de estas obligaciones por parte del municipio dará lugar a la aplicación de las sanciones y medidas del artículo vigésimo noveno bis transitorio de la presente ley.
+
+La Dirección de Educación Pública colaborará con las municipalidades para el adecuado cumplimiento de lo dispuesto en este artículo, revisando la información entregada y requiriendo los ajustes que sean pertinentes de acuerdo con la normativa vigente, los que deberán ser considerados por los municipios al entregar la información a que se refiere este artículo.
+
+Con todo, la Dirección de Educación Pública podrá verificar o complementar la información que entreguen las municipalidades o corporaciones municipales, en el marco de este artículo, a partir de otras fuentes de información que le pueda proporcionar otros órganos del Estado o entidades privadas, los que estarán obligados a entregarla.
+
+> **Nota.** El artículo sexto transitorio de la ley 21819, publicada el 25.05.2026, dispone que el reglamento al que alude el presente artículo deberá ser dictado dentro del plazo de un año a partir de la publicación de la citada ley en el Diario Oficial.
+
+Artículo vigésimo primero bis.- En cada región existirá un equipo de apoyo a la implementación de los Servicios Locales de Educación, que dependerá de la Dirección de Educación Pública. Estos profesionales apoyarán y asesorarán a las municipalidades y corporaciones municipales de la región respectiva en el proceso de traspaso del servicio educacional a los Servicios Locales y, en general, servirán de vínculo entre éstos y la Dirección de Educación Pública.
+
+Este personal desempeñará sus funciones en dependencias de la Secretaría Regional Ministerial respectiva, que deberá colaborar con aquellos y, en caso de ser creadas oficinas regionales de la Dirección de Educación Pública conforme al artículo 59 de esta ley, pasará a formar parte de la oficina regional que corresponda. Sin perjuicio de lo anterior, finalizado el proceso de traspaso del servicio educacional, este personal podrá ser traspasado al Servicio Local de Educación o servicios que formen parte del Ministerio de Educación, de acuerdo a la disponibilidad presupuestaria existente y la pertinencia de las funciones desarrolladas.
+
+Artículo vigésimo segundo.- Resolución de traspaso. Al menos cuatro meses antes del traspaso del servicio educacional al Servicio Local respectivo, el Ministro de Educación deberá dictar una o más resoluciones que individualicen los bienes muebles e inmuebles y personal que le serán traspasados, o entregados en comodato según lo establecido en el numeral 3 del artículo undécimo transitorio, las cuales deberán contener, a lo menos, lo señalado en los literales a), b), c), d) y e) del inciso primero del artículo vigésimo primero transitorio. En el caso de los Servicios Locales indicados en el párrafo primero del numeral 1 del artículo sexto transitorio, dicha resolución deberá dictarse antes del traspaso del servicio educacional, de conformidad a lo establecido en el artículo octavo transitorio.
 
 Dicha resolución deberá ser remitida al Servicio Local respectivo, dentro de los diez días hábiles siguientes a su entrada en funcionamiento. El Conservador de Bienes Raíces y/o el Servicio de Registro Civil e Identificación con competencia en el territorio en que se emplacen los Servicios Locales respectivos, deberán practicar las inscripciones y subinscripciones que correspondan producto del traspaso, respecto de los bienes muebles e inmuebles afectos a la prestación del servicio educacional señalados en los artículos undécimo y duodécimo transitorios de la presente ley, con el sólo mérito de la resolución del Ministerio de Educación a la que se refiere este artículo, la cual será título suficiente para ello.
 
-Artículo vigésimo tercero.- Acta de traspaso. Dentro de los sesenta días siguientes al traspaso del servicio educacional, se constituirá en cada establecimiento traspasado un funcionario del Servicio Local respectivo, quien deberá levantar un acta de traspaso de bienes y recursos financieros, y que será, para estos efectos, ministro de fe.
+En casos calificados por la Secretaría Regional Ministerial competente, la resolución de traspaso de inmuebles será antecedente suficiente para dar por cumplidos, por parte del Servicio Local, los requisitos exigidos en la letra i) del artículo 46 del decreto con fuerza de ley N° 2, promulgado en 2009 y publicado en 2010, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005, y en la letra a) quáter del artículo 6° del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 2, de 1996, sobre subvención del Estado a establecimientos educacionales.
+
+Artículo vigésimo tercero.- Acta de traspaso. Dentro de los ciento veinte días siguientes al traspaso del servicio educacional, se constituirá en cada establecimiento traspasado un funcionario del Servicio Local respectivo, quien deberá levantar un acta de traspaso de bienes, y que será, para estos efectos, ministro de fe.
 
 En dicha acta se individualizarán los bienes muebles e inmuebles que le hayan sido materialmente traspasados, indicando el estado de conservación en que se encuentran, cotejándose con la respectiva resolución de traspaso señalada en el artículo vigésimo segundo transitorio.
 
-En caso que existan diferencias entre la resolución de traspaso y el levantamiento del acta, y de ello se derivare alguna eventual infracción a la ley, se oficiarán los antecedentes que correspondan a los organismos públicos competentes. Asimismo, si se tuviere conocimiento de la comisión de un hecho que pudiere revestir caracteres de delito, deberán remitirse dichos antecedentes a la autoridad competente de conformidad con lo dispuesto en la letra k) del artículo 61 del decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, que Fija el texto refundido, coordinado y sistematizado de la ley N° 18.834.
+En caso que existan diferencias entre las resoluciones de traspaso y el levantamiento del acta, y de ello se derivare alguna eventual infracción a la ley, se oficiarán los antecedentes que correspondan a los organismos públicos competentes. Asimismo, si se tuviere conocimiento de la comisión de un hecho que pudiere revestir caracteres de delito, deberán remitirse dichos antecedentes a la autoridad competente de conformidad con lo dispuesto en la letra k) del artículo 61 del decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, que Fija el texto refundido, coordinado y sistematizado de la ley N° 18.834.
+
+Artículo vigésimo tercero bis.- Regularización de bienes inmuebles. Para los efectos del traspaso de los bienes inmuebles y de conformidad a la prohibición establecida en el inciso segundo del artículo duodécimo transitorio, no podrán ser objeto de regularización ni subdivisión aquellos bienes inmuebles que, con posterioridad a la publicación de la ley, hubieren sido destinados, en todo o en parte, a una finalidad distinta a la educacional.
+
+Cuando en el acta de traspaso constare, de todas formas, la existencia de bienes inmuebles que hubieren sido destinados, en todo o en parte, a una finalidad distinta a la educacional, el Servicio Local de Educación respectivo remitirá los antecedentes a la Contraloría General de la República, al Consejo de Defensa del Estado y a la Superintendencia de Educación, para que ejerzan las atribuciones que la ley les confiere.
+
+Sin perjuicio de lo establecido en los incisos anteriores, dentro de los ciento veinte días siguientes al traspaso, los órganos de la Administración del Estado o sus órganos dependientes podrán solicitar a la Dirección de Educación Pública que dé inicio al procedimiento de regularización del bien inmueble respectivo para efectos de la posterior subdivisión de la parte correspondiente de dicho bien. Lo anterior, siempre que no afecte el correcto desarrollo del servicio educativo y cuando concurran las siguientes circunstancias de forma conjunta:
+
+1. Presencia de instalaciones o edificaciones destinadas a satisfacer un interés público determinado e indispensable para la comunidad, distinto al educacional, que hubieren estado siendo efectivamente utilizadas para estos otros fines durante los doce meses previos al traspaso, o que hubieran comenzado a construirse las edificaciones para dichos fines al menos con veinticuatro meses de anterioridad al traspaso.
+
+2. Que el funcionamiento y reconocimiento oficial de los establecimientos educacionales traspasados no dependa de aquella parte del bien que se destina para otros fines distintos a los educacionales y que serán devueltos al Fisco.
+
+Para la determinación de los requisitos precedentes, la Dirección de Educación Pública deberá solicitar los informes que estime pertinentes a los organismos relacionados, que deberán responder dentro de un plazo máximo de treinta días.
+
+Determinada la concurrencia de los requisitos establecidos en el inciso tercero, la Dirección de Educación Pública dictará una o más resoluciones destinadas a la regularización de los bienes inmuebles en cuestión, la que deberá ser remitida al Servicio Local respectivo y a los órganos que hayan realizado la solicitud a que refiere este artículo.
+
+La tramitación de la subdivisión del bien inmueble será gestionada por el Servicio Local de Educación respectivo, ante el órgano competente que correspondiera en cada caso. El Conservador de Bienes Raíces con competencia en el territorio en que se emplace el Servicio Local deberá practicar las inscripciones y subinscripciones que correspondan producto de la subdivisión que se realizare con posterioridad por dicho órgano competente.
+
+Los actos que se realicen conforme con lo dispuesto en este artículo estarán exentos de todo arancel o tributo, según lo establecido en el artículo décimo séptimo transitorio de la presente ley.
+
+Quienes presentaren una solicitud de regularización, según lo dispuesto en este artículo, podrán celebrar con el Servicio Local correspondiente un contrato de comodato para la tenencia del inmueble respectivo por un plazo de tres años, renovable por el mismo período, hasta el término del proceso de regularización.
+
+> **Nota.** El artículo duodécimo transitorio de la ley 21819, publicada el 25.05.2026, dispone que el plazo de ciento veinte días para solicitar la regularización de inmuebles, a que alude el inciso tercero del presente artículo, se computará a partir de la fecha de publicación de la citada ley respecto de los inmuebles que ya se encuentren traspasados a los Servicios Locales de Educación. En el caso de aquellos municipios o corporaciones municipales que a la fecha de publicación de la referida ley no hubieren traspasado sus establecimientos educacionales a un Servicio Local, no se considerarán los plazos dispuestos en el numeral 1 del mencionado inciso tercero. En lugar de ello, deberán acreditar la presencia de instalaciones o edificaciones destinadas a satisfacer un interés público determinado e indispensable para la comunidad, distinto al educacional, que hubieren estado siendo efectivamente utilizadas para estos otros fines durante los doce meses previos a la publicación de la ley, o que hubieran comenzado a construirse las edificaciones para dichos fines al menos con veinticuatro meses de anticipación a dicha fecha.
 
 ### Párrafo 6°
 
 Del Plan de Transición
 
-Artículo vigésimo cuarto.- Del Plan de Transición. Desde la entrada en vigencia de esta ley, las municipalidades que presten el servicio educacional, directamente o a través de corporaciones municipales, podrán suscribir un Plan de Transición, de carácter plurianual, que el Ministerio de Educación pondrá a su disposición. Éste tendrá por objeto asegurar el adecuado traspaso del servicio educacional, así como el fortalecimiento y mejora de dicho servicio hasta su total traspaso, de conformidad a lo establecido en el artículo octavo transitorio.
+Artículo vigésimo cuarto.- Del Plan de Transición. Los municipios estarán obligados a adoptar todas las medidas y acciones que determine la ley para asegurar el fortalecimiento y mejora del servicio educacional que presten, ya sea directamente o a través de corporaciones municipales, hasta su total traspaso, de conformidad a lo dispuesto en el artículo octavo transitorio.
 
-El plan señalado en el inciso anterior, considerando la situación educacional, administrativa y financiera de la respectiva municipalidad o corporación municipal deberá contemplar, a lo menos, lo siguiente:
+Dicha obligación comprenderá, principalmente, la ejecución de acciones orientadas a mejorar la administración, normalización y saneamiento del déficit financiero que presente el servicio educacional.
 
-a) Especificación de estrategias y acciones a adoptar para el fortalecimiento y mejora del servicio educacional, orientadas a la calidad de la educación que se imparte.
+Para el cumplimiento de lo dispuesto en los incisos anteriores, deberán implementar un Plan de Transición que será puesto a su disposición por el Ministerio de Educación, a través de la Subsecretaría de Educación.
+
+Dicho plan, considerando la situación educacional, administrativa y financiera de la respectiva municipalidad y la proximidad al traspaso del servicio, deberá contemplar, a lo menos, lo siguiente:
+
+a) Especificación de estrategias y acciones a adoptar para el fortalecimiento y mejora del servicio educacional, orientadas a la calidad de la educación que se imparte, así como a la obtención o mantención del reconocimiento oficial del Estado de los establecimientos de educación parvularia de su dependencia.
 
 b) Especificación de estrategias y acciones a adoptar para el adecuado traspaso del servicio educacional, en especial respecto de sus bienes muebles e inmuebles, recursos financieros y personal.
 
 c) Objetivos financieros a alcanzar por la respectiva municipalidad, hasta antes del traspaso del servicio educacional, los cuales deberán desagregarse en objetivos anuales, de conformidad a lo señalado en el artículo vigésimo séptimo transitorio.
 
-d) Incorporación de un compromiso del Ministerio de Educación para colaborar y asistir a la respectiva municipalidad en los objetivos señalados en el literal anterior, transfiriendo recursos con dicho fin, de conformidad a la respectiva Ley de Presupuestos del Sector Público y lo establecido en los artículos vigésimo sexto y vigésimo séptimo transitorios.
+d) El compromiso del Ministerio de Educación para colaborar y asistir a la respectiva municipalidad en los objetivos señalados en el literal anterior, transfiriendo recursos con dicho fin, de conformidad a la respectiva Ley de Presupuestos del Sector Público y lo establecido en los artículos vigésimo sexto y vigésimo séptimo transitorios.
 
-Este plan se ejecutará de conformidad a los recursos que establezca para estos efectos la respectiva Ley de Presupuestos del Sector Público, mediante los convenios señalados en el artículo siguiente.
+Este Plan de Transición se ejecutará de conformidad a los recursos que establezca para estos efectos la respectiva Ley de Presupuestos del Sector Público, mediante las resoluciones exentas señaladas en el artículo siguiente.
 
-> **Nota.** El artículo 83 de la ley 21806, publicada el 05.02.2026, declara interpretado el presente articulo en el sentido que la Dirección de Educación Pública estará facultada para transferir a los municipios y corporaciones municipales recursos destinados al cumplimiento de los objetivos financieros de los Planes de Transición y sus convenios de ejecución, con el objetivo de cubrir la deuda originada por la prestación del servicio educacional, que haya sido exigible hasta el 31 de diciembre de 2025.
+Artículo vigésimo quinto.- De las resoluciones del Plan de Transición. El Plan de Transición se implementará mediante una o más resoluciones exentas del Ministerio de Educación, las que, individualmente o en su conjunto, deberán considerar, a lo menos, las siguientes materias:
 
-Artículo vigésimo quinto.- De los convenios de ejecución del Plan de Transición. El Plan de Transición se ejecutará mediante la suscripción de uno o más convenios de ejecución entre el Ministerio de Educación y la municipalidad o corporación municipal respectiva los que, individualmente o en su conjunto, deberán considerar, a lo menos, las siguientes materias:
-
-a) Obligación de la municipalidad o corporación municipal, según corresponda, para fortalecer y mejorar el servicio educacional que presta, en especial, respecto al mantenimiento y conservación de sus establecimientos educacionales y la calidad del servicio educacional que brindan.
+a) Obligación de la municipalidad de fortalecer y mejorar el servicio educacional que presta, en especial, respecto al mantenimiento y conservación de sus establecimientos educacionales y la calidad del servicio educacional que brindan. Para el cumplimiento de esta obligación, la municipalidad, directamente o a través de la corporación municipal, si fuere el caso, deberá postular a las convocatorias para el mantenimiento y conservación de la infraestructura escolar pública que promueva la Dirección de Educación Pública y, en el evento en que se adjudicare recursos para dichos fines, deberá ejecutarlos dentro de los plazos previstos en los correspondientes convenios o resoluciones, según corresponda. Por su parte, la Dirección de Educación Pública establecerá criterios diferenciados en sus convocatorias que permitan una asignación priorizada de aquellos municipios que se encuentren más próximos a traspasar el servicio educativo.
 
 b) Obligación de la municipalidad o corporación municipal, según corresponda, de mantener en funcionamiento los establecimientos educacionales de su dependencia.
 
-c) Obligación de la municipalidad o corporación municipal, según corresponda, de señalar las prestaciones y programas que implementa a través de los establecimientos educacionales, o dirigidos a estos establecimientos, indicando los servicios que continuará prestando una vez traspasado el servicio educacional.
+c) Derogado.
 
-d) Obligación de la municipalidad o corporación municipal, según corresponda, de ejecutar las acciones que faciliten el traspaso a los Servicios Locales de la administración del servicio educacional, tales como el pago de remuneraciones y pago de proveedores, entre otras.
+d) Obligación de la municipalidad de dar cumplimiento íntegro y oportuno al pago de aquellas contrataciones de bienes y servicios indispensables para la prestación del servicio educacional, así como el pago de las remuneraciones de su dotación y del personal que se desempeña en ellas, no pudiendo generar nueva deuda previsional a su respecto.
 
-e) Obligación de la municipalidad o corporación municipal, según corresponda, de trabajar colaborativamente con las municipalidades o corporaciones municipales pertenecientes al mismo Servicio Local, con el objeto de facilitar el traspaso del servicio educacional.
+e) Derogado.
 
-f) Obligación de la municipalidad o corporación municipal, según corresponda, de ejecutar las acciones que faciliten el traspaso a los Servicios Locales de los inmuebles en que funcionan los establecimientos educacionales o de su uso, tales como, regularización según lo establecido en los artículos decimotercero y decimocuarto transitorios, realización de trámites ante el Conservador de Bienes Raíces respectivo, entrega de información acerca de su estado de conservación, permitir al Servicio Local visitarlos para su revisión, celebración e inscripción del contrato de comodato en el caso del numeral 3) del artículo undécimo transitorio, entre otras.
+f) Obligación de la municipalidad de ejecutar las acciones que faciliten el traspaso a los Servicios Locales de los inmuebles en que funcionan los establecimientos educacionales o de su uso, tales como, regularización según lo establecido en los artículos decimotercero y decimocuarto transitorios, realización de trámites ante el Conservador de Bienes Raíces respectivo, entrega de información acerca de su estado de conservación, permitir al Servicio Local visitarlos para su revisión, celebración e inscripción del contrato de comodato en el caso del numeral 3) del artículo undécimo transitorio, entre otras. Asimismo, deberá considerar la obligación de destinar exclusivamente a la prestación del servicio educacional los inmuebles a los que aluden los artículos noveno y undécimo transitorios de esta ley y, especialmente, la de no subdividirlos antes del traspaso.
 
-g) Obligación de la municipalidad o corporación municipal, según corresponda, de planificar e implementar, en conjunto con el Ministerio de Educación, acciones y programas de formación y capacitación tendientes a fortalecer las capacidades del personal que se desempeña en el nivel de administración educacional municipal.
+g) Derogado.
 
-h) Obligación de la municipalidad o corporación municipal, según corresponda, de cumplir con los objetivos financieros del Plan de Transición, dentro de los que se deberá considerar un adecuado balance entre ingresos y gastos y el pago de las deudas originadas por la prestación del servicio educacional, de acuerdo a lo dispuesto en el artículo trigésimo transitorio. Para estos efectos deberá coordinar la planificación y los instrumentos de gestión del sistema educativo con el financiamiento que establezca la ley, de conformidad a lo señalado en el artículo vigésimo séptimo transitorio de esta ley.
+h) Obligación de la municipalidad de cumplir con los objetivos financieros del Plan de Transición, dentro de los que se deberá considerar un adecuado balance entre ingresos y gastos, revisión y regulación de la dotación en atención a la matrícula anual, y el pago de las deudas originadas por la prestación del servicio educacional, de acuerdo a lo dispuesto en el artículo trigésimo transitorio. Para estos efectos deberá coordinar la planificación y los instrumentos de gestión del sistema educativo con el financiamiento que establezca la ley, de conformidad a lo señalado en el artículo vigésimo séptimo transitorio de esta ley.
 
-i) Obligación de la municipalidad o corporación municipal de entregar al Ministerio de Educación la información que éste requiera para el adecuado traspaso del servicio educacional.
+i) Obligación de la municipalidad de entregar oportunamente al Ministerio de Educación la información que éste requiera para el adecuado traspaso del servicio educacional.
 
-j) Asistencia técnica que el Ministerio de Educación brindará a la respectiva municipalidad o corporación municipal, según corresponda, para la elaboración de los instrumentos de planificación y gestión, en concordancia con lo señalado en la letra h) de este artículo, contemplándose a lo menos la asistencia técnica para la elaboración del Plan de Desarrollo Educativo Municipal de acuerdo a lo señalado en el artículo vigésimo octavo transitorio.
+j) Asistencia técnica que el Ministerio de Educación brindará, principalmente, a través de los Departamentos Provinciales de Educación, a la respectiva municipalidad o corporación municipal, cuando el servicio se preste a través de ésta, para la elaboración del Plan de Desarrollo Educativo Municipal de acuerdo a lo señalado en el artículo vigésimo octavo transitorio.
 
-k) La transferencia o pago directo de recursos por parte del Ministerio de Educación para contribuir al cumplimiento de los objetivos financieros del Plan de Transición. El monto y forma de la transferencia de dichos recursos se determinará de conformidad a lo que establezca la Ley de Presupuestos del Sector Público, así como para la planificación e implementación de las acciones de formación y/o capacitación a que se refiere el literal g) de este artículo.
-
-Una vez suscritos los convenios de ejecución, éstos deberán ser remitidos a la Superintendencia de Educación para su conocimiento. Asimismo, a ésta le corresponderá fiscalizar, de conformidad a la ley, el cumplimiento de las obligaciones establecidas en cada convenio y, en general, el correcto uso de los recursos transferidos de acuerdo a este artículo.
-
-Para efectos de dar cumplimiento a lo señalado en el literal g) de este artículo, el Ministerio de Educación podrá requerir del apoyo del Servicio Nacional de Capacitación y Empleo, del Sistema Nacional de Certificación de Competencias Laborales y de la Subsecretaría de Desarrollo Regional y Administrativo, entre otros.
+k) La transferencia o pago directo de recursos por parte del Ministerio de Educación para contribuir al cumplimiento de los objetivos financieros del Plan de Transición. El monto y forma de la transferencia de dichos recursos se determinará de conformidad a lo que establezca la Ley de Presupuestos del Sector Público.
 
 > **Nota.** El artículo 83 de la ley 21806, publicada el 05.02.2026, declara interpretado el presente articulo en el sentido que la Dirección de Educación Pública estará facultada para transferir a los municipios y corporaciones municipales recursos destinados al cumplimiento de los objetivos financieros de los Planes de Transición y sus convenios de ejecución, con el objetivo de cubrir la deuda originada por la prestación del servicio educacional, que haya sido exigible hasta el 31 de diciembre de 2025.
 
-Artículo vigésimo sexto.- Transferencia de recursos para contribuir al cumplimiento de los objetivos financieros. Para los efectos de lo establecido en el literal k) del artículo anterior, el Ministerio de Educación, con la visación del Ministerio de Hacienda, podrá transferir a las municipalidades o corporaciones municipales, según corresponda, recursos destinados a contribuir al financiamiento de gastos incurridos, que considere debidamente justificados. El Ministerio de Educación estará facultado para pagar directamente a terceros por estos conceptos.
+> **Nota.** NOTA 1 El artículo segundo transitorio de la ley 21819, publicada el 25.05.2026, dispone que la Subsecretaría de Educación dictará gradualmente, dentro del plazo de dieciocho meses desde la publicación de la citada ley, las resoluciones que sean necesarias para la implementación de un Plan de Transición en cada municipalidad que aún no haya traspasado el servicio educacional de su dependencia a un Servicio Local. Agrega, además, que para determinar el orden y prioridad en que se dictarán las resoluciones señaladas, la Subsecretaría deberá considerar los siguientes criterios: a) La proximidad del traspaso del servicio educacional del municipio o corporación municipal respectiva a un Servicio Local de Educación Pública. b) La existencia de deuda previsional o remuneracional respecto de su dotación, y la magnitud de la misma. c) La existencia de antecedentes expresivos de una gestión administrativa o financiera crítica. Por último, dispone que los convenios de ejecución de los planes de transición que se hubieren suscrito de forma previa a la publicación de la ley y que se encuentren vigentes, deberán adecuarse con el objeto de que se ajusten a la normativa vigente.
 
-El Ministerio de Educación determinará dichos gastos, pudiendo para ello solicitar información a la Superintendencia de Educación, la cual deberá remitirla; así como también podrá requerir la realización de auditorías en la respectiva municipalidad o corporación para la justificación de dichos gastos. El Ministerio de Educación deberá requerir la realización de dichas auditorías a la Superintendencia de Educación o a instituciones externas, de conformidad a lo dispuesto en la ley N° 20.529, en aquellos municipios o corporaciones respecto de los cuales se hubiera verificado, durante los cinco años anteriores a la firma del convenio, alguna de las siguientes hipótesis:
+Artículo vigésimo quinto bis.- Actualización del Plan de Transición. Anualmente, durante el mes de junio, la Subsecretaría de Educación remitirá a la Dirección de Educación Pública la o las resoluciones del Plan de Transición del respectivo municipio, junto a los antecedentes completos y actualizados del seguimiento y estado de cumplimiento de éste. La Dirección de Educación Pública podrá proponer modificaciones que estime necesarias para el adecuado traspaso del servicio, en un plazo de treinta días desde la recepción de los antecedentes.
+
+La Subsecretaría de Educación tendrá un plazo de quince días hábiles, a contar de la recepción de las observaciones, para dictar una nueva resolución que incorpore las modificaciones propuestas al Plan de Transición, según su mérito.
+
+Artículo vigésimo quinto ter.- Del acompañamiento, seguimiento y fiscalización de los Planes de Transición. Le corresponderá a las Secretarías Regionales Ministeriales de Educación hacer el acompañamiento a los municipios para la ejecución de los Planes de Transición, y reportar el estado de cumplimiento de éstos al equipo técnico de seguimiento que designe el Ministerio de Educación. Semestralmente, las municipalidades deberán remitir, a dichos órganos y a la Superintendencia de Educación, un informe a través del cual se dará cuenta del estado de cumplimiento de las obligaciones contenidas en los Planes de Transición. La Secretaría Regional Ministerial de Educación respectiva podrá solicitar, en todo momento, nuevos antecedentes que complementen lo informado.
+
+La Superintendencia de Educación será la responsable de fiscalizar, de conformidad a lo dispuesto en esta ley y a lo dispuesto en el Título III de la ley N° 20.529, el cumplimiento de las obligaciones del Plan de Transición y el correcto uso de los recursos transferidos en virtud de éste. Para estos efectos elaborará, anualmente, un programa específico de fiscalización y un registro actualizado de los planes de transición en ejecución, para lo cual se remitirán a ella la o las resoluciones que instruyan la ejecución del Plan de Transición de cada municipio. Para el cumplimiento de esta función, la Superintendencia podrá solicitar informes a los órganos correspondientes.
+
+Si de la fiscalización surgen antecedentes que pudieren revestir el carácter de delito, la Superintendencia deberá elaborar un informe circunstanciado al respecto. Dicho informe se pondrá a disposición del Ministerio Público, vía denuncia, y del Consejo de Defensa del Estado, para que éste ejerza las acciones penales y civiles que correspondan en aquellos casos en que concurra la participación de funcionarios o de la autoridad, respecto de su control jerárquico, su deber de resguardo y buen uso de los recursos públicos, y el de ejercer una correcta administración del servicio educativo de conformidad a la ley.
+
+En el caso que se advirtiere un incumplimiento a las obligaciones del Plan de Transición, o un inadecuado uso de los recursos transferidos en virtud de éste, el Ministerio de Educación deberá informar de ello a la Superintendencia de Educación para que instruya el procedimiento que corresponda. Cuando se detecten infracciones por parte del municipio, la Superintendencia deberá proceder de conformidad a los dispuesto en los artículos vigésimo noveno transitorio y siguientes.
+
+Artículo vigésimo sexto.- Transferencia de recursos para contribuir al cumplimiento de los objetivos financieros. Para los efectos de lo establecido en el literal k) del artículo vigésimo quinto transitorio, el Ministerio de Educación, con la visación del Ministerio de Hacienda, podrá transferir a las municipalidades o corporaciones municipales, según corresponda, recursos destinados a contribuir al financiamiento de gastos incurridos, que considere debidamente justificados. El Ministerio de Educación estará facultado para pagar directamente a terceros por estos conceptos.
+
+El Ministerio de Educación determinará dichos gastos, pudiendo para ello solicitar información a la Superintendencia de Educación, la cual deberá remitirla; así como también podrá requerir la realización de auditorías en la respectiva municipalidad o corporación para la justificación de dichos gastos. El Ministerio de Educación deberá requerir la realización de dichas auditorías a la Superintendencia de Educación o a instituciones externas, de conformidad a lo dispuesto en la ley N° 20.529, en aquellos municipios o corporaciones respecto de los cuales se hubiera verificado, durante los cinco años anteriores a la aplicación del Plan de Transición, alguna de las siguientes hipótesis:
 
 a) Nombramiento de un administrador provisional respecto de uno o más establecimientos educacionales de su dependencia.
 
@@ -1982,25 +2370,79 @@ b) Aplicación de sanciones por infracciones graves a la normativa educacional c
 
 > **Nota.** El artículo 83 de la ley 21806, publicada el 05.02.2026, declara interpretado el presente articulo en el sentido que la Dirección de Educación Pública estará facultada para transferir a los municipios y corporaciones municipales recursos destinados al cumplimiento de los objetivos financieros de los Planes de Transición y sus convenios de ejecución, con el objetivo de cubrir la deuda originada por la prestación del servicio educacional, que haya sido exigible hasta el 31 de diciembre de 2025.
 
-Artículo vigésimo séptimo.- Del Plan Anual de Desarrollo Educativo Municipal. Para efectos de alcanzar los objetivos financieros establecidos en el literal c) del artículo vigésimo cuarto transitorio, los convenios de ejecución señalados en dicho artículo establecerán obligaciones específicas que deberán ser consideradas en el Plan Anual de Desarrollo Educativo Municipal, regulado en el artículo 4 de la ley N° 19.410. En particular, dichos convenios establecerán expresamente que la municipalidad dará cumplimiento a las observaciones que el Ministerio de Educación realice al proyecto de Plan de Desarrollo Educativo Municipal, de conformidad a la asistencia técnica que le brinde según lo dispuesto en el artículo siguiente, como requisito habilitante para acceder a los recursos que prevé el literal k) del artículo vigésimo quinto transitorio.
+Artículo vigésimo séptimo.- Del Plan Anual de Desarrollo Educativo Municipal. Para efectos de alcanzar los objetivos financieros establecidos en el literal c) del artículo vigésimo cuarto transitorio, el Plan de Transición establecerá obligaciones específicas que deberán ser consideradas en el Plan Anual de Desarrollo Educativo Municipal, regulado en el artículo 4 de la ley N° 19.410. En particular, dicho plan deberá establecer expresamente que la municipalidad dará cumplimiento a las observaciones que el Ministerio de Educación realice al proyecto de Plan de Desarrollo Educativo Municipal, de conformidad a la asistencia técnica que le brinde según lo dispuesto en el artículo siguiente, como requisito habilitante para acceder a los recursos que prevé el literal k) del artículo vigésimo quinto transitorio.
 
-Artículo vigésimo octavo.- De la asistencia técnica al Plan de Desarrollo Educativo Municipal. Para los efectos de lo dispuesto en el artículo anterior y en el literal j) del artículo vigésimo quinto transitorio, el o los respectivos convenios establecerán que el Ministerio de Educación brindará asistencia técnica en la elaboración del Plan de Desarrollo Educativo Municipal regulado en el artículo 4 de la ley N° 19.410.
+Artículo vigésimo octavo.- De la asistencia técnica al Plan de Desarrollo Educativo Municipal. Para los efectos de lo dispuesto en el artículo anterior y en el literal j) del artículo vigésimo quinto transitorio, las respectivas resoluciones establecerán que el Ministerio de Educación brindará asistencia técnica en la elaboración del Plan de Desarrollo Educativo Municipal regulado en el artículo 4 de la ley N° 19.410.
 
-Asimismo, los convenios establecerán el plazo en el cual se remitirá al Ministerio de Educación el proyecto de Plan de Desarrollo Educativo Municipal y la oportunidad en la cual el Ministerio enviará sus observaciones o propuestas de modificaciones, si corresponde, lo cual deberá ser previo a la presentación del plan al Concejo Municipal para su respectiva aprobación.
+Asimismo, el Plan de Transición establecerá el plazo en el cual se remitirá al Ministerio de Educación el proyecto de Plan de Desarrollo Educativo Municipal y la oportunidad en la cual el Ministerio enviará sus observaciones o propuestas de modificaciones, si corresponde, lo cual deberá ser previo a la presentación del plan al Concejo Municipal para su respectiva aprobación.
 
-Artículo vigésimo noveno.- Del incumplimiento de los convenios. En caso que una municipalidad incumpla gravemente los convenios de ejecución señalados en el artículo vigésimo quinto transitorio, el Ministerio de Educación podrá ponerles término, mediante resolución fundada, sobre la base de un informe emanado de la Superintendencia de Educación.
+Sin perjuicio de lo señalado precedentemente, el año previo al traspaso del servicio educacional, el Plan Anual de Desarrollo Educativo Municipal deberá considerar las observaciones que realice el Servicio Local sobre éste, debiendo establecer en el Plan de Transición los plazos en que se remitirán las observaciones, lo que en todo caso deberá ser previo a la oportunidad señalada en el inciso anterior.
 
-Se entenderá por incumplimiento grave de los convenios de ejecución:
+Artículo vigésimo noveno.- De la infracción a las obligaciones del Plan de Transición. El alcalde responderá por los incumplimientos a las obligaciones del Plan de Transición en que incurra el municipio, ya fuere que administre directamente o a través de una corporación municipal, sin perjuicio de las responsabilidades penales y civiles que correspondan ser atribuidas.
+
+Se entenderá por infracción grave al Plan de Transición:
 
 a) Incumplimiento de la obligación establecida en el literal b) del artículo vigésimo quinto transitorio.
 
-b) Uso de los recursos transferidos de acuerdo a lo dispuesto en el literal k) del artículo vigésimo quinto transitorio para actividades distintas de las acordadas en los convenios.
+b) Incumplimiento de la obligación de realizar el pago íntegro y oportuno de las remuneraciones del personal que presta el servicio educacional.
 
-c) Incumplimiento de las observaciones que el Ministerio de Educación realice respecto del Plan Anual de Desarrollo Educativo Municipal, regulado en el artículo 4 de la ley N° 19.410.
+c) Incumplimiento de la obligación de no generar nueva deuda previsional, según establece el literal d) del artículo vigésimo quinto transitorio.
 
-En caso de término de un convenio, de conformidad a lo señalado en el presente artículo, no se podrán celebrar los restantes convenios referentes a la transferencia de recursos por parte del Ministerio de Educación para contribuir al cumplimiento de los objetivos financieros del Plan de Transición que se hubiere suscrito.
+d) Incumplimiento de los objetivos financieros establecidos en el plan, en especial de la obligación de mantener un adecuado balance de ingresos y gastos, conforme a lo regulado en el literal h) del artículo vigésimo quinto transitorio.
 
-> **Nota.** El artículo 83 de la ley 21806, publicada el 05.02.2026, declara interpretado el presente articulo en el sentido que la Dirección de Educación Pública estará facultada para transferir a los municipios y corporaciones municipales recursos destinados al cumplimiento de los objetivos financieros de los Planes de Transición y sus convenios de ejecución, con el objetivo de cubrir la deuda originada por la prestación del servicio educacional, que haya sido exigible hasta el 31 de diciembre de 2025.
+e) Uso de los recursos transferidos, de acuerdo a lo dispuesto en el literal k) del artículo vigésimo quinto transitorio, en actividades distintas de las determinadas por el Plan de Transición.
+
+Sobre estas infracciones deberá aplicarse, al menos, una de las sanciones contenidas en los literales c), d),
+
+- **e)** y
+
+- **f)** del artículo siguiente, pudiendo siempre fijarse, conjuntamente a la sanción impuesta, alguna de aquellas sanciones y medidas de los literales
+
+- **a)** y
+
+- **b)** del mismo artículo.
+
+Son infracciones menos graves las siguientes:
+
+a) Incumplimiento de las observaciones que el Ministerio de Educación realice respecto del Plan Anual de Desarrollo Educativo Municipal, regulado en el artículo 4° de la ley N° 19.410.
+
+b) Incumplimiento de las obligaciones del deber de información contenido en el literal i) del artículo vigésimo quinto transitorio.
+
+c) No postular a las convocatorias de mantenimiento y conservación de infraestructura; o, habiéndose adjudicado fondos para ello, no ejecutarlos en los plazos establecidos, de conformidad a lo dispuesto en el literal a) del artículo vigésimo quinto transitorio.
+
+d) No ejecutar las acciones y medidas que faciliten el traspaso del servicio educativo.
+
+Sobre estas infracciones solo podrán aplicarse las sanciones y medidas contenidas en los literales a), b), c) o d) del artículo siguiente.
+
+Son infracciones leves aquellos incumplimientos de las obligaciones contenidas en el Plan de Transición que no se encuentren calificadas como graves o menos graves en virtud del presente artículo, en cuyo caso solo podrán aplicarse las sanciones y medidas contenidas en los literales a), b) o c) del artículo siguiente.
+
+El órgano encargado de imponer las sanciones por infracción a las obligaciones a que se refiere este artículo será la Contraloría General de la República, según el procedimiento al que se refiere el artículo vigésimo noveno bis transitorio. La reiteración de infracciones graves o menos graves será considerada por dicho órgano como circunstancia agravante de responsabilidad.
+
+Artículo vigésimo noveno bis.- De las sanciones y medidas a las infracciones del Plan de Transición. Si, en el ejercicio de sus facultades fiscalizadoras, la Superintendencia de Educación verificare una o más infracciones a las obligaciones de un Plan de Transición, deberá remitir los antecedentes respectivos a la Contraloría General de la República, que los ponderará en su mérito y, en caso de estimarlo procedente, iniciará un procedimiento sancionatorio.
+
+Considerando la gravedad y naturaleza de las infracciones acreditadas, la Contraloría impondrá, conjunta o separadamente, alguna de las siguientes sanciones o medidas:
+
+a) Amonestación por escrito, debiendo precisar la infracción, además de las medidas y plazos para subsanarla. En este caso, el municipio deberá publicar la amonestación en la página de inicio de su sitio web y en todas sus cuentas institucionales de redes sociales.
+
+b) Instruir la capacitación de los funcionarios que hubieren tenido participación en los hechos que constituyeron la infracción.
+
+c) Instruir que se subsanen, conforme a derecho, los actos u omisiones que configuraron la infracción, dentro de un plazo determinado, pudiendo solicitar el inicio de un procedimiento de invalidación cuando correspondiere.
+
+d) Censura, en los términos señalados en el artículo 122 del decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda, que fija texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo.
+
+e) Multa de un veinte por ciento a cincuenta por ciento sobre la remuneración o dieta, según corresponda.
+
+f) La suspensión del empleo desde treinta días a tres meses.
+
+En el caso de que se acredite, además, la responsabilidad administrativa de funcionarios municipales, la Contraloría podrá aplicar las sanciones correspondientes, de conformidad a lo dispuesto en este artículo y a las demás normas que le sean aplicables.
+
+Con todo, en aquellos casos que la Contraloría determine que se configura la causal de notable abandono de deberes, dispuesta en el literal c) del artículo 60 del decreto con fuerza de ley N° 1, de 2006, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.695, Orgánica Constitucional de Municipalidades, deberá remitir los antecedentes al Tribunal Electoral Regional que sea competente y procederá a sustanciar el procedimiento respectivo, según lo dispuesto en el inciso final del artículo 51 del referido decreto con fuerza de ley, comunicando dicha decisión a la Superintendencia de Educación.
+
+Una vez ejecutoriada la sanción que se aplique en virtud del presente artículo, el organismo competente así lo notificará al concejo municipal, en la sesión más próxima que éste celebre. Asimismo, dicha sanción se deberá incluir en la cuenta pública a que hace referencia el artículo 67 del decreto con fuerza de ley N° 1, de 2006, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.695, Orgánica Constitucional de Municipalidades, e incorporarse en el extracto de la misma, que deberá ser difundida a la comunidad.
+
+Respecto de lo dispuesto en el literal c) del presente artículo, la Superintendencia de Educación hará seguimiento de la ejecución y cumplimiento de las medidas de subsanación, pudiendo disponer medidas adicionales en el caso de infracciones sobre la rendición o uso de recursos otorgados en virtud del Plan de Transición. Asimismo, si la fiscalización practicada por la Superintendencia da cuenta de infracciones respecto al uso y rendición de los recursos señalados en el inciso precedente, ésta podrá instruir un procedimiento en virtud de las reglas generales dispuestas en la ley N° 20.529, sin perjuicio de las sanciones que establezca la Contraloría.
+
+Lo dispuesto en el presente artículo no obstará la atribución de responsabilidades civiles y/o penales, cuando correspondan.
 
 Artículo trigésimo.- De la deuda municipal ocasionada por la prestación del servicio educacional. Para los efectos de lo establecido en el literal h) del artículo vigésimo quinto transitorio, se entenderá por deuda municipal originada por la prestación del servicio educacional aquellas obligaciones de una municipalidad o de una corporación municipal que sean exigibles al 31 de diciembre de 2014 y que a continuación se señalan:
 
@@ -2020,9 +2462,9 @@ Artículo trigésimo primero.- Deuda por anticipo de subvención. La deuda contr
 
 Sin perjuicio de lo anterior, las municipalidades o corporaciones municipales, según corresponda, serán las únicas responsables de extinguir las deudas que subsistan con los beneficiarios de dichas leyes, por incumplimiento del pago de las mismas. En la medida que las entidades antedichas hayan cumplido satisfactoriamente dicha obligación, se les condonará el saldo de la deuda por anticipo con el Fisco.
 
-Artículo trigésimo segundo.- Administrador provisional. Previo a la fecha de traspaso del servicio educacional, la Superintendencia de Educación podrá nombrar un administrador provisional en uno o más establecimientos educacionales de administración municipal o de corporaciones municipales, tanto en los casos del artículo 89 de la ley N° 20.529, como cuando se verifique el término del o los convenios de ejecución señalados en el artículo vigésimo quinto transitorio de la presente ley, por incumplimiento grave, conforme a lo establecido en el artículo vigésimo noveno transitorio.
+Artículo trigésimo segundo.- Administrador provisional. Previo a la fecha de traspaso del servicio educacional, la Superintendencia de Educación podrá nombrar un administrador provisional en uno o más establecimientos educacionales de administración municipal, ya fuere que dicha administración sea directa o a través de corporaciones municipales, tanto en los casos del artículo 89 de la ley N° 20.529, como en aquellos que la Superintendencia verifique el incumplimiento de las observaciones que el Ministerio de Educación realice respecto del Plan Anual de Desarrollo Educativo Municipal, o acredite alguna de las circunstancias calificadas como infracciones graves al Plan de Transición, conforme a lo establecido en el artículo vigésimo noveno transitorio.
 
-Tratándose de los literales b) y c) del artículo vigésimo noveno transitorio, el administrador provisional ejercerá sus funciones respecto de la totalidad de los establecimientos educacionales de administración municipal o de la corporación municipal, según corresponda.
+La Superintendencia de Educación podrá resolver, fundado en la gravedad o el riesgo inminente de afectar el funcionamiento de todo el servicio, que el administrador provisional ejerza sus funciones respecto de la totalidad de los establecimientos educacionales de administración municipal o de la corporación municipal, según corresponda.
 
 El administrador provisional regulado en el presente artículo durará en su cargo hasta el término del año laboral docente en curso. Este plazo será prorrogable por períodos iguales y sucesivos, cuando ello sea necesario para garantizar el ejercicio del derecho a la educación de los estudiantes, así como la continuidad del servicio educacional en los establecimientos educacionales, y/o facilitar el adecuado traspaso de éstos a los Servicios Locales. Con todo, las facultades del administrador provisional cesarán en el momento en que se verifique el traspaso del servicio educacional, de acuerdo a lo establecido en el artículo octavo transitorio.
 
@@ -2030,11 +2472,19 @@ Para el adecuado cumplimiento de lo dispuesto en este artículo, el administrado
 
 a) Ordenar que se realice una auditoría, que abarque al menos los dos últimos años lectivos anteriores a su nombramiento, excepto en los casos en que se hubiera realizado la auditoría contemplada en el artículo vigésimo sexto transitorio de la presente ley.
 
-b) Elaborar anualmente una propuesta que contenga las menciones del plan a que se refiere el artículo 4 de la ley N° 19.410, sólo en lo pertinente al o los establecimientos educacionales que administre. Dicha propuesta se entenderá parte integrante, para todos los efectos legales, del plan presentado en conformidad con el inciso primero del artículo 5 de dicha ley, para su respectiva aprobación por el concejo municipal.
+La referida auditoría deberá entregarse al Servicio Local antes del traspaso de los establecimientos educacionales.
 
-Asimismo, podrá suscribir con el Ministerio de Educación los convenios de ejecución establecidos en el artículo vigésimo quinto transitorio de la presente ley en relación al o los establecimientos educacionales que administre.
+b) Elaborar anualmente una propuesta que contenga las menciones del plan a que se refiere el artículo 4° de la ley N° 19.410, sólo en lo pertinente al o los establecimientos educacionales que administre. Dicha propuesta se entenderá parte integrante, para todos los efectos legales, del plan presentado en conformidad con el inciso primero del artículo 5° de dicha ley, para su respectiva aprobación por el concejo municipal.
 
-En todo lo no previsto en este artículo, las normas del Párrafo 6°, Título III, de la ley N° 20.529, se aplicarán supletoriamente.
+Desde la fecha de su nombramiento, el administrador provisional será el único habilitado para percibir los aportes y transferencias del Estado del sector educación, respecto de los establecimientos por los que fue designado. En consecuencia, el sostenedor quedará inhabilitado para percibir dichos recursos.
+
+El administrador provisional podrá adquirir la calidad de sucesor legal del sostenedor en los convenios que éste hubiere celebrado con entidades públicas, para lo cual será necesaria la suscripción de un instrumento entre el administrador y la entidad pública. En estos casos, serán inoponibles al administrador provisional los efectos de los incumplimientos de los convenios en que hubiere incurrido el sostenedor.
+
+El administrador provisional será considerado sostenedor para efectos de suscribir convenios con entidades públicas.
+
+Si el administrador provisional incurre en alguna de las infracciones del Plan de Transición reguladas en el artículo vigésimo noveno transitorio, la Superintendencia podrá poner término anticipado a su nombramiento.
+
+En todo lo no previsto en este artículo, las normas del Párrafo 6° del Título III de la ley N° 20.529 se aplicarán supletoriamente.
 
 Artículo trigésimo tercero.- Convenios de Igualdad de Oportunidades y Excelencia Educativa. El Ministerio de Educación, dentro de los diez días hábiles siguientes al traspaso del servicio educacional, solicitará a las municipalidades o corporaciones municipales respectivas que acrediten haber ejecutado todas las obligaciones generadas de acuerdo a la etapa de cumplimiento de los convenios de Igualdad de Oportunidades y Excelencia Educativa celebrados en virtud de la ley N° 20.248, que Establece Subvención Escolar Preferencial, así como el hecho de haber destinado la totalidad de las subvenciones y aportes recibidos a las medidas comprendidas en el Plan de Mejoramiento Educativo según establece el artículo 6, letra e), de dicha ley, con el fin de poner término a dichos convenios.
 
@@ -2042,15 +2492,15 @@ En caso de que tales recursos no hubiesen sido destinados a la finalidad señala
 
 Desde que se produzca el traspaso del servicio educacional, de acuerdo a lo establecido en el artículo octavo transitorio, el Ministerio de Educación procederá a celebrar nuevos convenios de Igualdad de Oportunidades y Excelencia Educativa con los Servicios Locales de Educación. Para estos efectos no regirá el plazo dispuesto en el artículo 12 de la ley Nº 20.248.
 
-Las municipalidades o corporaciones municipales, que hayan dado cumplimiento íntegro a todas las obligaciones de los convenios de ejecución del Plan de Transición según lo establecido en estas disposiciones transitorias, no requerirán acreditar el cumplimiento de las obligaciones indicadas en el inciso primero de este artículo respecto de aquellos recursos que les fueron transferidos antes del 31 de diciembre de 2016 en el marco de los convenios de Igualdad de Oportunidades y Excelencia Educativa celebrados en virtud de la ley N° 20.248.
+Las municipalidades o corporaciones municipales, que hayan dado cumplimiento íntegro a todas las obligaciones del Plan de Transición según lo establecido en estas disposiciones transitorias, no requerirán acreditar el cumplimiento de las obligaciones indicadas en el inciso primero de este artículo respecto de aquellos recursos que les fueron transferidos antes del 31 de diciembre de 2016 en el marco de los convenios de Igualdad de Oportunidades y Excelencia Educativa celebrados en virtud de la ley N° 20.248.
 
-Artículo trigésimo cuarto.- Informe financiero del servicio educativo municipal previo al traspaso. Cada municipio o corporación municipal, haya o no haya suscrito el Plan de Transición, deberá entregar al Ministerio de Educación un informe completo y actualizado a la fecha de su entrega sobre el estado financiero del servicio educativo a su cargo, en un plazo no superior a ciento ochenta días ni inferior a sesenta días previo al traspaso del servicio educacional. Las municipalidades que traspasen el servicio educacional el año 2018 deberán dar cumplimiento a lo dispuesto en este artículo dentro del plazo de sesenta días previo al traspaso de dicho servicio.
+Artículo trigésimo cuarto.- Informe financiero del servicio educativo municipal previo al traspaso. Cada municipio o corporación municipal deberá entregar al Ministerio de Educación un informe completo y actualizado a la fecha de su entrega sobre el estado financiero del servicio educativo a su cargo, en un plazo no superior a ciento ochenta días ni inferior a sesenta días previo al traspaso del servicio educacional. Las municipalidades que traspasen el servicio educacional el año 2018 deberán dar cumplimiento a lo dispuesto en este artículo dentro del plazo de sesenta días previo al traspaso de dicho servicio.
 
 Este informe deberá contener:
 
-i. El resultado de una auditoría externa realizada por una institución registrada para tales efectos en la Superintendencia de Valores y Seguros, de conformidad al título XXVIII de la ley N° 18.045. Los recursos para estos efectos deberán estar contemplados en el respectivo convenio de ejecución, de acuerdo a lo señalado en el artículo vigésimo quinto transitorio.
+i. El resultado de una auditoría externa realizada por una institución registrada para tales efectos en la Superintendencia de Valores y Seguros, de conformidad al título XXVIII de la ley N° 18.045. Los recursos para estos efectos deberán estar contemplados en la respectiva resolución, de acuerdo a lo señalado en el artículo vigésimo quinto transitorio.
 
-ii. El estado de pago de las obligaciones descritas en los literales a) y b) del artículo trigésimo transitorio, más los intereses y reajustes, en caso de incumplimiento de dichas obligaciones.
+ii. El estado de pago de las obligaciones descritas en los literales a) y b) del artículo trigésimo transitorio, más los intereses y reajustes, en caso de incumplimiento de dichas obligaciones. En este último caso, el estado de pago deberá considerar el total de la deuda generada a la fecha de emisión del informe.
 
 iii. El estado de pago de las remuneraciones que correspondan a los profesionales de la educación regidos por el decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, a los asistentes de la educación regidos por la ley N° 19.464, que se desempeñen o se hayan desempeñado en establecimientos educacionales administrados directamente por municipalidades o a través de corporaciones municipales, y al personal que se desempeña o se haya desempeñado en los respectivos Departamentos de Administración de Educación Municipal o en la gestión educacional de las corporaciones municipales según corresponda.
 
@@ -2058,29 +2508,55 @@ iv. El estado de pago de las obligaciones descritas en el literal c) del artícu
 
 La información a que se refiere el inciso anterior deberá encontrarse actualizada a la fecha en que se remita al Ministerio de Educación, el que podrá complementarla con la que le proporcionen la Superintendencia de Educación u otros organismos públicos.
 
-En caso de que el informe dé cuenta de la existencia de saldos impagos respecto de las obligaciones señaladas en los numerales ii y iii precedentes, la municipalidad o corporación municipal deberá pagar dichas deudas, las que serán siempre de su exclusiva responsabilidad, y por tanto continuará siendo, para todos los efectos legales, la obligada al pago de estas deudas hasta su total extinción. En caso de que la municipalidad o corporación municipal no pague total o parcialmente dichas deudas antes del traspaso del servicio educacional, el Ministerio de Educación, con autorización de la Dirección de Presupuestos, pagará directamente a las instituciones o a las personas que corresponda las obligaciones señaladas en el numeral ii, y podrá siempre pagar, en las mismas condiciones, las obligaciones establecidas en el numeral iii.
+En caso de que el informe dé cuenta de la existencia de saldos impagos respecto de las obligaciones señaladas en los numerales ii y iii precedentes, la municipalidad o corporación municipal deberá pagar dichas deudas, las que serán siempre de su exclusiva responsabilidad, y por tanto continuará siendo, para todos los efectos legales, la única obligada al pago de estas deudas hasta su total extinción.
 
-En el caso de que se haya efectuado el pago en los términos del inciso anterior, el Ministerio de Educación deberá exigir la restitución de lo pagado por dichos conceptos, de acuerdo a las reglas establecidas en los incisos siguientes.
+Para todos los efectos, este informe se entenderá comprendido dentro de la rendición del Plan de Transición correspondiente, suscrito entre el municipio o corporación municipal respectiva y el Ministerio de Educación, de acuerdo a lo señalado en el artículo vigésimo quinto transitorio de la presente ley.
 
-Los recursos fiscales que se utilicen para el pago de las deudas referidas en el inciso cuarto podrán ser descontados del Fondo de Apoyo a la Educación Pública establecido en el artículo trigésimo séptimo transitorio de la ley N° 20.845. Con el mismo fin, el Ministerio de Educación podrá dejar sin efecto las retenciones de subvenciones que haya aplicado a la municipalidad o corporación municipal respectiva en virtud de la normativa educacional vigente, con el solo objeto de que estos recursos se destinen a pagar directamente por el Ministerio las obligaciones señaladas en el inciso cuarto.
+> **Nota.** El artículo segundo transitorio de la Ley 21819, publicada el 25.05.2026, indica que para la entrada en vigencia de las modificaciones al Plan de Transición, la Subsecretaría de Educación dictará gradualmente, dentro del plazo de dieciocho meses desde la publicación de la citada ley, las resoluciones que sean necesarias para la implementación de un Plan de Transición en cada municipalidad que aún no haya traspasado el servicio educacional de su dependencia a un Servicio Local, según lo dispuesto en el artículo vigésimo quinto transitorio de la presente ley. Para determinar el orden y prioridad en que se dictarán las resoluciones señaladas, la Subsecretaría deberá considerar los criterios en conformidad a lo indicado en el inciso segundo de la citada disposición transitoria. Asimismo, los convenios de ejecución de los planes de transición que se hubieren suscrito de forma previa a la publicación de la citada norma y que se encuentren vigentes, deberán adecuarse con el objeto de que se ajusten a la normativa vigente. El Ministerio de Educación coordinará la actualización de todos los convenios que se encuentren vigentes en un plazo máximo de ciento ochenta días desde la publicación de la citada norma y, una vez que las adecuaciones se hayan suscrito por ambas partes, deberá remitirlas a la Superintendencia de Educación para su conocimiento.
 
-En caso de no cubrirse la totalidad de dichos recursos fiscales, el remanente será descontado de los montos que a la municipalidad respectiva le corresponda percibir por su participación en el Fondo Común Municipal, establecido en el decreto ley N° 3.063, de 1979, sobre rentas municipales, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo Nº 2.385, de 1996, del Ministerio del Interior, desde el año inmediatamente siguiente a aquel en que se realicen los mencionados pagos. La Subsecretaría de Desarrollo Regional y Administrativo, con visación de la Dirección de Presupuestos, deberá determinar el plazo y el número de cuotas en que se descontarán los recursos por este concepto y lo informará al Servicio de Tesorerías para que éste proceda al descuento.
+Artículo trigésimo cuarto bis.- Del pago de la deuda previsional de las municipalidades o corporaciones municipales y sus efectos. Si al momento del traspaso la municipalidad o corporación municipal no hubiere pagado, total ni parcialmente, las deudas a que refiere el inciso cuarto del artículo precedente, el Ministerio de Educación, con autorización de la Dirección de Presupuestos, pagará directamente a las instituciones, o a las personas que corresponda, las obligaciones señaladas en el numeral ii, y podrá siempre pagar, en las mismas condiciones, las obligaciones establecidas en el numeral iii, ambas del inciso segundo del artículo anterior.
 
-Para todos los efectos, este informe se entenderá comprendido dentro de la rendición del convenio de ejecución correspondiente, suscrito entre el municipio o corporación municipal respectiva y el Ministerio de Educación, de acuerdo a lo señalado en el artículo vigésimo quinto transitorio de la presente ley.
+En el caso de que se haya efectuado el pago en los términos descritos en el presente artículo, se dispondrá el reintegro de los recursos destinados para dicho fin por parte de las entidades deudoras, de conformidad a las reglas establecidas en el artículo siguiente.
+
+Efectuado el pago de las deudas ya señaladas, el Fisco se subrogará en los derechos de los acreedores que correspondan respecto al municipio o corporación municipal deudora, cuya obligación de pago será imprescriptible.
+
+En ningún caso lo dispuesto en el presente artículo se entenderá como una concurrencia a la responsabilidad del pago por parte del Ministerio de Educación, de las deudas contraídas por municipios o corporaciones municipales, correspondiendo únicamente a una facultad que podrá ejercerse según lo dispuesto en este artículo.
+
+> **Nota.** El artículo segundo transitorio de la Ley 21819, publicada el 25.05.2026, indica que para la entrada en vigencia de las modificaciones al Plan de Transición, la Subsecretaría de Educación dictará gradualmente, dentro del plazo de dieciocho meses desde la publicación de la citada ley, las resoluciones que sean necesarias para la implementación de un Plan de Transición en cada municipalidad que aún no haya traspasado el servicio educacional de su dependencia a un Servicio Local, según lo dispuesto en el artículo vigésimo quinto transitorio de la presente ley. Para determinar el orden y prioridad en que se dictarán las resoluciones señaladas, la Subsecretaría deberá considerar los criterios en conformidad a lo indicado en el inciso segundo de la citada disposición transitoria. Asimismo, los convenios de ejecución de los planes de transición que se hubieren suscrito de forma previa a la publicación de la citada norma y que se encuentren vigentes, deberán adecuarse con el objeto de que se ajusten a la normativa vigente. El Ministerio de Educación coordinará la actualización de todos los convenios que se encuentren vigentes en un plazo máximo de ciento ochenta días desde la publicación de la citada norma y, una vez que las adecuaciones se hayan suscrito por ambas partes, deberá remitirlas a la Superintendencia de Educación para su conocimiento.
+
+Artículo trigésimo cuarto ter.- Mecanismo de reintegro de la deuda previsional municipal. Los recursos fiscales que se utilicen para el pago de las deudas municipales a que se refiere el artículo precedente podrán ser descontados del Fondo de Apoyo a la Educación Pública establecido en el artículo trigésimo séptimo transitorio de la ley N° 20.845. Con el mismo fin, el Ministerio de Educación podrá dejar sin efecto las retenciones de subvenciones que haya aplicado a la municipalidad o corporación municipal respectiva en virtud de la normativa educacional vigente, con el solo objeto de que estos recursos se destinen a pagar directamente por el Ministerio las obligaciones señaladas en el inciso cuarto del artículo trigésimo cuarto transitorio.
+
+En caso de no cubrirse la totalidad de dichos recursos fiscales, el remanente será descontado de los montos que a la municipalidad respectiva le corresponda percibir por su participación en el Fondo Común Municipal, establecido en el decreto ley N° 3.063, de 1979, sobre rentas municipales, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo N° 2.385, de 1996, del Ministerio del Interior.
+
+Para efectos de lo establecido en el inciso anterior, facúltase a la Tesorería General de la República para retener un porcentaje de la participación anual del Fondo Común Municipal que le corresponde a los municipios que se encuentran obligados al reintegro dispuesto en el inciso segundo del artículo precedente, de conformidad a lo solicitado por el Ministerio de Educación, hasta el pago total de la deuda.
+
+Para la retención indicada en el inciso anterior, anualmente, el Ministerio de Educación informará a la Tesorería General de la República la nómina de municipios que se encuentran afectos al reintegro de recursos fiscales, debiendo indicar, al menos, el monto de la deuda que haya sido pagado por el Ministerio de Educación con arreglo al artículo trigésimo cuarto bis transitorio, el período estipulado para el reintegro de los recursos utilizados para el pago y el monto de la retención anual sobre la participación que le corresponda en el Fondo Común Municipal.
+
+Lo establecido en los incisos anteriores deberá ser informado por el Ministerio de Educación a la Subsecretaría de Desarrollo Regional y Administrativo.
+
+La Tesorería General de la República deberá enterar los dineros retenidos, en virtud de los incisos anteriores, a las rentas generales de la Nación, en un plazo de treinta días contado desde la fecha en que se verifique la retención al municipio respectivo.
+
+Un reglamento dictado por el Ministerio de Educación, que además deberá ser suscrito por el Ministro de Hacienda y por el Ministro del Interior, regulará, al menos, la fórmula del mecanismo de reintegro, el número y monto de las retenciones que corresponderá en cada caso, el porcentaje respectivo a retener, el porcentaje máximo del ingreso permanente a retener y los demás términos y condiciones de las materias contenidas en el presente artículo.
+
+> **Nota.** El artículo noveno transitorio de la ley 21819, publicada el 25.05.2026, indica que el reglamento al que alude el inciso final del presente artículo deberá dictarse dentro del plazo de dieciocho meses, a partir de la publicación de la citada norma en el Diario Oficial.
 
 ### Párrafo 7°
 
 Disposiciones transitorias referidas a la Dirección de Educación Pública
 
-Artículo trigésimo quinto.- Facultades especiales de la Dirección de Educación Pública. Durante el período que media entre la entrada en funcionamiento de los Servicios Locales, según lo establecido en el artículo sexto transitorio, y el momento en que se haga efectivo el traspaso del servicio educacional, de acuerdo a lo dispuesto en el artículo octavo transitorio, la Dirección de Educación Pública coordinará y apoyará la instalación de dichos servicios, especialmente en lo que se refiere a la conformación del Comité Directivo Local respectivo, al traspaso de los establecimientos educacionales, de los derechos y obligaciones derivados de la calidad de sostenedor, y el traspaso del personal que se desempeña en las municipalidades o corporaciones municipales, de acuerdo a lo establecido en estas disposiciones transitorias.
+Artículo trigésimo quinto.- Facultades especiales de la Dirección de Educación Pública. Durante el período que media entre la entrada en funcionamiento de los Servicios Locales, según lo establecido en el artículo sexto transitorio, y hasta dos años después del traspaso del servicio educacional, de acuerdo a lo dispuesto en el artículo octavo transitorio, la Dirección de Educación Pública coordinará y apoyará la instalación de dichos servicios, especialmente en lo que se refiere a la conformación del Comité Directivo Local respectivo, al traspaso de los establecimientos educacionales, de los derechos y obligaciones derivados de la calidad de sostenedor la prestación del servicio educacional, y el traspaso del personal que se desempeña en las municipalidades o corporaciones municipales, de acuerdo a lo establecido en estas disposiciones transitorias.
 
-Durante el período que media entre la entrada en vigencia de la presente ley y la entrada en funcionamiento de la Dirección de Educación Pública, le corresponderá a la Subsecretaría de Educación ejercer las funciones establecidas en el inciso precedente, como asimismo, dar apoyo administrativo y operativo tanto a esa Dirección como a los Servicios Locales.
+Asimismo, la Dirección de Educación Pública podrá realizar trámites para la correcta implementación de los Servicios Locales de Educación Pública desde su entrada en funcionamiento y hasta que se haga efectivo el traspaso del servicio educacional, tales como inicio de actividades ante el Servicio de Impuestos Internos, arriendo de las dependencias provisorias o definitivas, autorización y apertura de cuentas corrientes bancarias, suscripción de pólizas de seguros y, en general, la suscripción de actos o realización de trámites administrativos necesarios para la realización de los objetivos descritos, ante la Dirección de Presupuestos, Contraloría General de la República, instituciones bancarias y toda otra institución pública o privada respecto de las cuales se requieran diligencias de idéntica o similar naturaleza. Del mismo modo, podrá adquirir bienes y servicios o activos no financieros, para el o los respectivos Servicios Locales de Educación Pública, con cargo al programa presupuestario de "Gastos Administrativos" de éstos.
+
+Durante el período que media entre la entrada en vigencia de la presente ley y la entrada en funcionamiento de la Dirección de Educación Pública, le corresponderá a la Subsecretaría de Educación ejercer las funciones establecidas en el inciso primero, como asimismo, dar apoyo administrativo y operativo tanto a esa Dirección como a los Servicios Locales.
 
 La función establecida en el artículo 27 de la presente ley será ejercida y aplicada, según lo dispuesto en dicho artículo, por la Subsecretaría de Educación hasta que entre en funcionamiento la Dirección de Educación Pública.
 
 Si después de cuarenta y cinco días hábiles desde la entrada en funcionamiento de alguno de los Servicios Locales de Educación Pública su Director Ejecutivo no hubiere asumido el cargo, el Director de Educación Pública podrá ejercer las funciones y dictar los actos necesarios para la implementación del Servicio Local y para el traspaso del servicio educacional que sean de competencia del Director Ejecutivo, en especial aquellos establecidos en las disposiciones transitorias. El Director de Educación Pública podrá delegar esta facultad en funcionarios de su dependencia, lo que no modificará la responsabilidad de dicha autoridad, sin perjuicio de la que pudiera afectar al delegado por negligencia en el ejercicio de la facultad delegada. Las atribuciones establecidas en virtud de este inciso sólo podrán ser ejercidas hasta que asuma sus funciones el Director Ejecutivo del Servicio Local respectivo.
 
 El funcionario en quien haya sido delegada esta facultad quedará impedido de participar en el proceso de selección regulado en el artículo 21, para asumir en el cargo vacante de Director Ejecutivo del Servicio Local de Educación donde las haya ejercido.
+
+Mientras no haya sido traspasado el servicio educacional a los Servicios Locales de Educación y hasta diez años después de haberse efectuado, la Dirección de Educación Pública podrá solicitar a las municipalidades cualquier información relevante para el procedimiento de traspaso y la correcta instalación de los Servicios Locales.
 
 ### Párrafo 8°
 
@@ -2130,11 +2606,11 @@ Las plantas de personal de los Servicios Locales que se fijen de acuerdo a la at
 
 Artículo trigésimo octavo.- Traspaso de personal municipal. El traspaso a los Servicios Locales, del personal que se desempeñe en los Departamentos de Administración de Educación Municipal y de las corporaciones municipales, creadas en virtud del artículo 12 del decreto con fuerza de ley N° 1-3.063, de 1980, del Ministerio del Interior, cuya función se relacione directamente con la administración del servicio educacional se ajustará al siguiente procedimiento:
 
-1. Una vez nombrado en su cargo, el Director Ejecutivo del Servicio Local llamará a concurso, en el cual sólo podrá participar el personal antes señalado que ha estado cumpliendo funciones en las municipalidades o corporaciones municipales cuyo territorio sea de competencia del Servicio Local, desde a lo menos tres años antes del traspaso del servicio educacional, de acuerdo a lo dispuesto en el artículo octavo transitorio. El concurso se regirá por las normas del Párrafo I, Título II, del decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, que Fija el texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo, sin perjuicio de lo que se señala a continuación:
+1. Una vez nombrado en su cargo, el Director Ejecutivo del Servicio Local llamará a concurso, en el cual sólo podrá participar el personal antes señalado que ha estado cumpliendo funciones en las municipalidades o corporaciones municipales cuyo territorio sea de competencia del Servicio Local, desde a lo menos tres años antes del traspaso del servicio educacional, de acuerdo a lo dispuesto en el artículo octavo transitorio. Las funciones que haya desempeñado el personal que participe en estos concursos podrá ser acreditada, entre otros antecedentes, mediante los contratos de trabajo que los funcionarios mantenían en la municipalidad o corporación municipal y a través de declaración jurada firmada por el Secretario Municipal. Esta última deberá ser puesta a disposición del requirente en un plazo máximo de diez días hábiles desde formulada la solicitud. El concurso se regirá por las normas del Párrafo I, Título II, del decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, que Fija el texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo, sin perjuicio de lo que se señala a continuación:
 
 a) El concurso será preparado y realizado por un comité de selección, conformado por el Director Ejecutivo del Servicio Local o su representante; un representante del Ministerio de Educación y un representante de la Dirección de Educación Pública.
 
-b) El Director Ejecutivo del Servicio Local convocará a los concursos a través de los sitios web del Ministerio de Educación, Dirección Nacional del Servicio Civil y de los municipios respectivos y en otros sitios web que para estos efectos se creen, donde se dará información suficiente, respecto de las funciones del cargo, requisitos para el desempeño del mismo, nivel de remuneraciones y el plazo para la postulación, entre otras materias. Adicionalmente, se publicarán avisos de la convocatoria del proceso de selección antes indicado en diarios de circulación nacional, los que deberán hacer referencia a los correspondientes sitios web para conocer las condiciones de postulación y requisitos solicitados, teniendo como factor preponderante la experiencia laboral.
+b) El Director Ejecutivo del Servicio Local convocará a los concursos a través de los sitios web del Ministerio de Educación, Dirección Nacional del Servicio Civil y de los municipios respectivos y en otros sitios web que para estos efectos se creen, donde se dará información suficiente, respecto de las funciones del cargo, requisitos para el desempeño del mismo, nivel de remuneraciones y el plazo para la postulación, entre otras materias. Adicionalmente, se publicarán avisos de la convocatoria del proceso de selección antes indicado en diarios de circulación nacional, los que deberán hacer referencia a los correspondientes sitios web para conocer las condiciones de postulación y requisitos solicitados, teniendo como factor preponderante la experiencia laboral afín al cargo que se postula. Además, la Dirección de Educación Pública y el Servicio Local respectivo podrán realizar o coordinar otras actividades de difusión e inducción que faciliten el proceso de postulación a los concursos.
 
 c) En la convocatoria se especificarán los cargos de planta y a contrata que se proveerán mediante el concurso, las funciones a desempeñar y la localidad en la que estará ubicada la vacante.
 
@@ -2145,6 +2621,8 @@ e) La provisión de los cargos de planta de cada Servicio Local se efectuará, s
 f) El Director Ejecutivo del Servicio Local respectivo dispondrá el traspaso de los funcionarios seleccionados, mediante resolución dictada al efecto, debiendo comunicar a la respectiva entidad empleadora el personal que ha resultado seleccionado. La fecha de la resolución antedicha fijará la fecha de traspaso de los funcionarios seleccionados.
 
 2. Por el solo mérito de cesar una municipalidad o corporación municipal en la calidad de sostenedor de establecimientos educacionales, se entenderán traspasados los funcionarios seleccionados, según lo dispuesto en los literales anteriores. No obstante ello, mientras una municipalidad o corporación municipal no haya cesado en la calidad de sostenedor de establecimientos educacionales, de conformidad a lo dispuesto en el artículo tercero transitorio, el Director Ejecutivo podrá disponer el traspaso de los trabajadores seleccionados a través del concurso realizado en virtud del numeral anterior, que resultaren imprescindibles para la puesta en marcha del respectivo Servicio Local, no pudiendo, en ningún caso, disponer el traspaso anticipado de más de un tercio de los seleccionados que se encuentren prestando servicios en una misma municipalidad y en las corporaciones municipales cuyo personal esté siendo traspasado, consideradas conjuntamente.
+
+Si tres meses antes del traspaso del servicio educacional se encontrare seleccionado el personal de conformidad con lo establecido en este artículo, el Servicio Local, en coordinación con la municipalidad o corporación municipal correspondiente, deberá efectuar actividades de capacitación destinadas para dicho personal con el objeto de mejorar el funcionamiento del Servicio Local, las que tendrán lugar durante la jornada laboral de quienes participen. Traspasado el servicio educacional sin que se hayan realizado dichas capacitaciones, estas deberán realizarse por el Servicio Local en coordinación con la Dirección de Educación Pública.
 
 3. El pago de los beneficios indemnizatorios al personal traspasado, que de acuerdo a su estatuto laboral tenga derecho a ello, se entenderá postergado por causa que otorgue derecho a percibirlo hasta el cese de servicios en el respectivo Servicio Local de Educación Pública. En tal caso, la indemnización correspondiente se determinará computando el tiempo servido, de acuerdo al Código del Trabajo, en las municipalidades y corporaciones municipales, con el límite a que se refiere el inciso segundo del artículo 163 del Código del Trabajo. La remuneración que se considerará para estos efectos será el promedio de las últimas doce remuneraciones percibidas por el trabajador en las respectivas municipalidades o corporaciones municipales, con los respectivos reajustes.
 
@@ -2172,6 +2650,12 @@ c) Cualquier diferencia de remuneraciones se pagará mediante una planilla suple
 
 d) En tanto no se constituya el Servicio de Bienestar de los Servicios Locales, los profesionales de la educación traspasados podrán afiliarse o continuar afiliados a los servicios de bienestar que le correspondían antes del traspaso.
 
+Artículo trigésimo noveno bis.- Adelantos del Fondo Común Municipal. Las municipalidades podrán solicitar adelantos del Fondo Común Municipal para efectos de pagar las indemnizaciones de cargo fiscal a que se refieren los artículos trigésimo octavo y trigésimo noveno transitorios.
+
+Para efectos de lo dispuesto en el inciso anterior, el municipio deberá acreditar el pago íntegro y oportuno de las remuneraciones y cotizaciones previsionales de los trabajadores y trabajadoras del servicio educacional.
+
+Los descuentos correspondientes serán autorizados mediante resolución de la Subsecretaría de Desarrollo Regional, los que se aplicarán en el tiempo intermedio entre el pago a los beneficiarios de las indemnizaciones y el reembolso de los recursos que se entere a la municipalidad o corporación municipal, según corresponda.
+
 Artículo cuadragésimo.- Nombramientos anticipados. A contar de la publicación de la presente ley, el Presidente de la República, sin sujetarse a lo dispuesto en el Título VI de la ley N° 19.882, podrá nombrar al primer Director de Educación Pública y a los Directores Ejecutivos correspondientes a los Servicios Locales señalados en los numerales 1 y 2 del artículo sexto transitorio de esta ley, quienes asumirán de inmediato, por el plazo máximo de un año y en tanto se efectúa los procesos de selección pertinentes que establece la ley N° 19.882, para los cargos del Sistema de Alta Dirección Pública.
 
 El primer nombramiento de los cargos correspondientes al segundo nivel jerárquico de los servicios públicos antedichos, también podrá realizarse sin sujetarse a lo dispuesto en el Título VI de la ley N° 19.882. Los funcionarios así designados asumirán de inmediato, por el plazo máximo de un año, en tanto se efectúan los procesos de selección pertinentes que establece la ley N° 19.882.
@@ -2190,9 +2674,9 @@ Artículo cuadragésimo primero.- Traspaso del personal de los establecimientos 
 
 Los profesionales de la educación que desarrollan funciones en establecimientos educacionales traspasados a los Servicios Locales, de conformidad al inciso anterior, continuarán rigiéndose, para todos los efectos legales, por el decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, y sus respectivas modificaciones.
 
-Los asistentes de la educación que cumplen funciones en establecimientos educacionales y todos aquellos que contribuyen y participan del proceso coeducativo serán traspasados a los Servicios Locales de Educación con un régimen laboral de estatuto propio, el que será promulgado antes del inicio del proceso de traspaso de los establecimientos a los Servicios Locales de Educación.
+Los asistentes de la educación que cumplen funciones en establecimientos educacionales serán traspasados a los Servicios Locales de Educación, fecha desde la cual pasarán a regirse por la ley N° 21.109, que establece un estatuto de los asistentes de la educación pública.
 
-Asimismo, traspásase a los Servicios Locales, por el solo ministerio de la ley y sin solución de continuidad, el personal que se desempeñe en los establecimientos de educación parvularia, en la fecha establecida en el artículo octavo transitorio. Los profesionales de la educación que se desempeñen en dichos establecimientos continuarán rigiéndose, para todos los efectos, por las disposiciones legales y contractuales que los regulen en el momento de su traspaso. El personal no docente que se desempeñe en estos establecimientos y que desarrolle las funciones descritas en el artículo 2 de la ley N° 19.464 se regirá por la normativa laboral de los asistentes de la educación vigente al momento del traspaso.
+Asimismo, traspásase a los Servicios Locales, por el solo ministerio de la ley y sin solución de continuidad, el personal que se desempeñe en los establecimientos de educación parvularia, en la fecha establecida en el artículo octavo transitorio. Los profesionales de la educación que se desempeñen en dichos establecimientos continuarán rigiéndose, para todos los efectos, por las disposiciones legales y contractuales que los regulen en el momento de su traspaso. El personal no docente que se desempeñe en estos establecimientos y que desarrolle las funciones descritas en el artículo 2 de la ley N° 19.464, pasará a regirse por la ley N° 21.109.
 
 Artículo cuadragésimo segundo.- Protección de derechos del personal. El traspaso al que alude este párrafo en ningún caso podrá tener como consecuencia ni podrá ser considerado causal de término de servicios, supresión de cargos, cese de funciones, pérdida del empleo o término de la relación laboral del personal traspasado. Asimismo, no podrá significar disminución de remuneraciones, ni modificación de los derechos estatutarios o previsionales de dicho personal. Tampoco podrá importar cambio de residencia habitual de los funcionarios fuera de la región en que estén prestando sus servicios, salvo con su consentimiento expreso.
 
@@ -2200,13 +2684,13 @@ La individualización del personal traspasado se llevará a cabo por decretos de
 
 Como consecuencia del traspaso a los Servicios Locales, ningún trabajador perderá sus derechos adquiridos.
 
-Con todo, sólo le serán oponibles a los Servicios Locales de Educación Pública las condiciones pactadas con anterioridad a seis meses contados desde la fecha en que se haga efectivo el traspaso del personal de que trata este párrafo, debiendo pagar la municipalidad o corporación municipal respectiva aquellas que se pacten dentro de dichos seis meses. En caso de que el Presidente de la República ejerza la facultad establecida en el inciso cuarto del artículo sexto transitorio, podrá establecer un plazo menor.
+Con todo, sólo le serán oponibles a los Servicios Locales de Educación Pública las condiciones pactadas con anterioridad a un año contado desde la fecha en que se haga efectivo el traspaso del personal de que trata este párrafo, debiendo pagar la municipalidad o corporación municipal respectiva aquellas que se pacten dentro de dicho año. En caso de que el Presidente de la República ejerza la facultad establecida en el inciso cuarto del artículo sexto transitorio, podrá establecer un plazo menor.
 
 Tampoco serán oponibles al Servicio Local las condiciones de trabajo que se pacten o se hayan pactado en cualquier fecha previa al traspaso del servicio educativo, para que produzcan efectos o se hagan exigibles desde que se verifique el traspaso del servicio educacional al Servicio Local, las que serán pagadas por la municipalidad o corporación municipal respectiva, a través de una planilla complementaria. El Servicio Local de Educación en representación del municipio o corporación municipal pagará dicha planilla complementaria. Para tal efecto, los recursos necesarios para el pago de la obligación del municipio, incluida su corporación, serán deducidos anualmente por el Servicio de Tesorería de las remesas por anticipos del Fondo Común Municipal que le correspondan a la respectiva municipalidad. Con todo, en los municipios en que la proporción de los ingresos por el Fondo Común Municipal respecto del total de ingresos propios percibidos por el municipio, medidos el año anterior, sea igual o superior al 45%, sólo podrá deducirse hasta un 20% de las remesas por anticipos, de acuerdo a lo que se establezca mediante resolución exenta de la Dirección de Presupuestos. Los recursos que no hayan sido descontados pasarán a ser deducidos del año siguiente, y así sucesivamente, hasta la total extinción de la obligación originada por las condiciones pactadas referidas en este inciso. Lo establecido en este inciso será aplicable para todas aquellas condiciones que se hayan pactado desde el 1 de enero de 2021 en adelante.
 
 > **Nota.** El artículo único de la ley 21583, publicada el 08.07.2023, interpreta el presente artículo en el sentido de declarar que los trabajadores asistentes de la educación, al momento de ser traspasados a los establecimientos educacionales de los Servicios Locales de Educación Pública, mantendrán todas y cada una de las asignaciones que recibían, siempre que se hayan pactado, al menos, con seis meses de antelación al traspaso, debiendo fijarse el monto total de la suma de las asignaciones de cada trabajador, con independencia de la naturaleza de las mismas, a fin de establecer una planilla complementaria que se pagará a partir del traspaso. Asimismo, declara que en los contratos individuales de quienes se desempeñaban en establecimientos educacionales administrados por una corporación de educación municipal se tendrán por incorporadas todas las cláusulas de los instrumentos colectivos de trabajo vigentes seis meses antes del traspaso a los Servicios Locales de Educación Pública.
 
-Artículo cuadragésimo segundo bis.- Del financiamiento transitorio de las municipalidades y corporaciones municipales a los asistentes de la educación que se traspasen. Sin perjuicio de lo establecido en los artículos cuadragésimo primero y cuadragésimo segundo transitorios, y durante cinco años contados desde el traspaso del servicio educacional, serán de cargo de los nuevos Servicios Locales de Educación única y exclusivamente las remuneraciones, indemnizaciones, asignaciones y demás beneficios avaluables en dinero de un número máximo de horas de contrato de asistentes de la educación que se traspasen de conformidad a dichos artículos. La municipalidad o corporación municipal respectiva financiará durante dicho período las remuneraciones, asignaciones, indemnizaciones y demás beneficios avaluables en dinero correspondientes a aquellos asistentes de la educación que excedan dicho número de conformidad a lo establecido en el inciso final de este artículo. Luego de transcurrido este plazo, la totalidad de los asistentes de la educación traspasados será de cargo del Servicio Local de Educación respectivo.
+Artículo cuadragésimo segundo bis.- Del financiamiento transitorio de las municipalidades y corporaciones municipales a los asistentes y profesionales de la educación que se traspasen. Sin perjuicio de lo establecido en los artículos cuadragésimo primero y cuadragésimo segundo transitorios, y durante diez años contados desde el traspaso del servicio educacional, serán de cargo de los nuevos Servicios Locales de Educación única y exclusivamente las remuneraciones, indemnizaciones, asignaciones y demás beneficios avaluables en dinero de un número máximo de horas de contrato de asistentes de la educación que se traspasen de conformidad a dichos artículos. La municipalidad o corporación municipal respectiva financiará durante dicho período las remuneraciones, asignaciones, indemnizaciones y demás beneficios avaluables en dinero correspondientes a aquellos asistentes de la educación que excedan dicho número de conformidad a lo establecido en el inciso séptimo de este artículo. Luego de transcurrido este plazo, la totalidad de los asistentes de la educación traspasados será de cargo del Servicio Local de Educación respectivo.
 
 El número máximo a que se refiere el inciso anterior se determinará, para cada comuna, mediante el siguiente procedimiento:
 
@@ -2226,6 +2710,8 @@ Los cocientes señalados en el presente artículo, así como el número máximo 
 
 Las remuneraciones, asignaciones y demás beneficios avaluables en dinero de los asistentes de la educación traspasados se pagarán directamente por los Servicios Locales de Educación respectivos. Sin perjuicio de lo anterior, el criterio de determinación de los montos que serán de cargo de cada municipalidad o corporación municipal será objetivo y corresponderá a aquellas horas de contrato de contrataciones de menor antigüedad en la dotación que sobrepasen el número máximo definido para cada comuna, conforme al procedimiento establecido en el presente artículo. Dichos montos serán descontados, luego de ser debidamente reajustados, de los recursos que a la municipalidad respectiva le corresponda percibir por su participación en el Fondo Común Municipal, establecido en el decreto ley N° 3.063, de 1979, sobre Rentas Municipales, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo N° 2.385 de 1996, del Ministerio del Interior, el año inmediatamente siguiente a aquel en que se realicen los mencionados pagos. Para ello, el Servicio Local de Educación respectivo informará de la liquidación de los montos que deberán ser descontados y enterados a su patrimonio, a la Subsecretaría de Desarrollo Regional y Administrativo, durante el mes de diciembre de cada año.
 
+Lo señalado previamente en este artículo será también aplicable a los profesionales de la educación que se traspasen al Servicio Local de Educación respectivo, con la particularidad de que el mecanismo de cálculo descrito en el inciso segundo para la estimación del cociente respectivo tendrá como fecha de referencia, en lugar de diciembre de 2017, diciembre de 2023.
+
 Artículo cuadragésimo tercero.- Asociaciones de funcionarios. Se otorga un plazo de dos años, a contar de la fecha del traspaso del servicio educacional, para que los sindicatos que representen al personal traspasado puedan fusionarse y modificar sus estatutos según lo previsto en la ley N° 19.296, pasando a regirse por sus disposiciones para todos los efectos legales a contar de su depósito ante la Inspección del Trabajo.
 
 Los sindicatos que, de conformidad a este artículo, pasen a regirse por las reglas de las asociaciones de funcionarios tendrán un año de plazo para cumplir el quórum del inciso segundo del artículo 13 de la ley N° 19.296, contado desde el depósito de los estatutos antes señalado.
@@ -2243,6 +2729,14 @@ Artículo cuadragésimo sexto.- Instrumentos de gestión. Los convenios de gesti
 En el caso de los Directores Ejecutivos nombrados de acuerdo al artículo cuadragésimo transitorio, firmarán un convenio de gestión educacional que durará el tiempo que se encuentren en el cargo; no tendrán que desarrollar un Plan Estratégico Local para dicho período y su propuesta de Plan Anual deberá ser enviada al Ministerio de Educación, para que realice recomendaciones.
 
 En todos los casos, el primer Plan Anual de cada servicio deberá considerar las metas y objetivos establecidos en el convenio de gestión educacional respectivo, así como acciones para una adecuada instalación y prestación del servicio educativo.
+
+La obligación de elaborar el Plan Anual, regulada en el artículo 46 de esta ley, entrará en vigencia para cada Servicio Local el año en que se les traspase el servicio educativo. Sin perjuicio de esto, durante dicho año regirán los Planes Anuales de Desarrollo Educativo Municipal de los territorios traspasados al Servicio Local. Con todo, el Director Ejecutivo estará facultado para modificar dichos planes, como sucesor de las municipalidades correspondientes, conforme al procedimiento establecido en el mencionado artículo 46 de esta ley.
+
+Artículo cuadragésimo sexto bis.- Elaboración del primer convenio de gestión educacional. Corresponderá a la Dirección de Educación Pública elaborar la propuesta del primer convenio de gestión educacional de los directores ejecutivos de los Servicios Locales, una vez aprobado el perfil de selección por el Consejo de Alta Dirección Pública. Desde el momento de la aprobación del referido perfil se podrá convocar al concurso público de selección del Director Ejecutivo.
+
+El Comité Directivo Local tendrá el plazo de treinta días hábiles, contado desde la presentación de la propuesta del convenio de gestión por parte de la Dirección de Educación Pública, para emitir un informe en el cual propondrá las prioridades para dicho convenio, velando especialmente porque considere los aspectos necesarios para evaluar el desempeño del Director en el proceso de instalación del Servicio Local.
+
+La Dirección de Educación Pública, teniendo a la vista el referido informe, elaborará la propuesta final de convenio que remitirá al Ministerio de Educación para su sanción.
 
 Artículo cuadragésimo séptimo.- Inicio de funciones de los Consejos Locales de Educación Pública. Los Consejos Locales de Educación Pública iniciarán sus funciones una vez que todos los representantes establecidos en el artículo 50 sean electos o designados, según corresponda. Los procesos tendientes a tal fin deberán iniciarse una vez instalado el respectivo Servicio Local de Educación Pública, de conformidad con la gradualidad establecida en el artículo sexto transitorio.
 
@@ -2289,6 +2783,16 @@ Sin perjuicio de lo anterior, y sujeto a la disponibilidad presupuestaria, el pa
 3. Trabajadores beneficiarios del Bono por Retiro Voluntario, conforme a las leyes N° 20.964 y N° 20.976, según corresponda.
 
 Los mecanismos procedimentales, términos, criterios para la prelación o condiciones de pago y reintegro establecidas en el presente artículo podrán ser complementadas mediante un reglamento dictado por el Ministerio de Educación, que además deberá ser suscrito por el Ministro de Hacienda y por el Ministro del Interior.
+
+Artículo quincuagésimo séptimo.- Funciones transitorias del Comité de Ministros para el Sistema de Educación Pública. El Comité de Ministros para el Sistema de Educación Pública considerará dentro de sus funciones, además de aquellas señaladas en el artículo 64, la coordinación de acciones entre distintos ministerios y entre los servicios públicos relacionados a ellos, a fin de apoyar la entrada en funcionamiento de los Servicios Locales, además del proceso de traspaso de los servicios educacionales.
+
+Esta función se considerará como una de aquellas que deberá desarrollar el Comité hasta que terminen los traspasos de servicios educacionales desde municipalidades o corporaciones municipales a Servicios Locales.
+
+Artículo quincuagésimo octavo.- Funciones transitorias de la coordinación regional. La mesa ejecutiva de coordinación regional considerará dentro de sus funciones, además de aquellas señaladas en el artículo 64 bis, la articulación de competencias entre las entidades públicas de la región, con el fin de adoptar medidas que favorezcan las condiciones de traspaso de los servicios educacionales dependientes de municipios y/o corporaciones municipales a los Servicios Locales de Educación Pública.
+
+Artículo quincuagésimo noveno.- Lo dispuesto en el artículo 67 bis entrará en vigencia de manera gradual a partir de la publicación de la Ley de Presupuestos del Sector Público correspondiente al año 2028, conforme a las normas que dicha ley establezca.
+
+Una vez iniciado el financiamiento de los establecimientos de educación parvularia mediante el presupuesto del Servicio Local de Educación Pública del cual dependan, cesará el convenio de transferencias que dicho Servicio haya celebrado con la Junta Nacional de Jardines Infantiles, así como el financiamiento que se haya otorgado a los establecimientos de su dependencia en virtud de aquél.
 
 Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

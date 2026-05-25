@@ -228,6 +228,8 @@ Con todo, la provisión de las vacantes deberá ser ordenada mediante acto funda
 
 Los asistentes de la educación que ingresen a una dotación podrán ser contratados por un plazo fijo, que no podrá exceder de un año escolar, o uno indefinido.
 
+Sin perjuicio de lo dispuesto en el inciso anterior, los asistentes de la educación que cuenten con contrato a plazo fijo vigente al 1 de diciembre tendrán derecho a que éste se prorrogue por los meses de enero y febrero o hasta el día anterior al inicio del año escolar siguiente, siempre que se hayan desempeñado por más de seis meses y no más de dos años continuos para el mismo Servicio Local de Educación Pública.
+
 En los contratos de plazo fijo, el hecho de continuar el funcionario prestando servicios con conocimiento del servicio después de expirado el plazo, lo transforma en uno de duración indefinida. Igual efecto producirá la segunda renovación de un contrato de plazo fijo.
 
 El contrato de reemplazo es aquel en virtud del cual un asistente de la educación presta servicios en un establecimiento para suplir transitoriamente a otro con contrato vigente que no puede desempeñar su función, cualquiera que sea la causa. Este contrato deberá incluir el nombre del trabajador que se reemplaza y la causa de su ausencia, las funciones que desempeña y su perfil, y se extenderá como máximo por el período de ausencia del trabajador reemplazado.
@@ -339,6 +341,18 @@ Tendrán derecho a recibir prestaciones del Fondo de Cesantía Solidario estable
 #### Artículo 32
 
 Los asistentes de la educación podrán constituir asociaciones de funcionarios de acuerdo a las disposiciones de la ley N° 19.296. La afiliación a dichas asociaciones será siempre voluntaria, aplicándose las normas sobre fuero establecidas en dicha ley.
+
+#### Artículo 32 bis
+
+Los asistentes de la educación podrán constituir Consejos de Asistentes de la Educación, los cuales estarán conformados por representantes de las categorías establecidas en el artículo 5.
+
+Estos Consejos tendrán carácter consultivo y constituirán instancias de participación y colaboración, destinadas a recoger y sistematizar las opiniones, observaciones y propuestas de sus integrantes, respecto de materias vinculadas a la convivencia educativa, al cumplimiento de los objetivos y programas educacionales, y al fortalecimiento y desarrollo del proyecto educativo del respectivo establecimiento educacional.
+
+Asimismo, estos Consejos podrán conocer y emitir opinión sobre todas las materias que el director o la directora del establecimiento someta a su consideración, y sobre aquellas que les encomiende el reglamento interno del establecimiento educacional al que pertenezcan, dentro del ámbito de sus respectivas atribuciones.
+
+Con el propósito de fortalecer la articulación y el trabajo colaborativo dentro de la comunidad educativa, los integrantes del Consejo podrán ser invitados a las reuniones de los Centros de Cursos y de los Centros de Padres y Apoderados, cualquiera sea su denominación.
+
+Un reglamento expedido por intermedio del Ministerio de Educación establecerá la composición de los Consejos, la forma de designación de sus integrantes, los criterios de constitución conforme a las dimensiones y características del establecimiento educacional, su funcionamiento y, en general, aquellas normas que sean necesarias para la aplicación del presente artículo.
 
 ### Párrafo 4º
 
@@ -488,7 +502,7 @@ Los asistentes de la educación que se desempeñen en establecimientos educacion
 
 El monto de la asignación de experiencia se determinará calculando un 2% sobre la remuneración que se indica en el inciso siguiente, por períodos de dos años, con un límite de treinta años.
 
-La remuneración que se utilizará como base de cálculo del porcentaje señalado en el inciso anterior será la remuneración bruta mensual mínima establecida en el inciso segundo del artículo 43 para cada una de las categorías, según corresponda. En el caso de los asistentes de la educación pertenecientes a la categoría del artículo 6, dicho porcentaje se calculará sobre 3,5 veces del sueldo base del grado 23 del estamento de profesionales de la Escala Única Sueldo del decreto ley N° 249, de 1974.
+La remuneración que se utilizará como base de cálculo del porcentaje señalado en el inciso anterior será la remuneración bruta mensual mínima establecida en el inciso segundo del artículo 43 para cada una de las categorías, según corresponda. En el caso de los asistentes de la educación pertenecientes a la categoría del artículo 6, dicho porcentaje se calculará sobre 3,5 veces del sueldo base del grado 23 del estamento de profesionales de la Escala Única de Sueldos del decreto ley N° 249, de 1973.
 
 También tendrán derecho a la asignación de experiencia los asistentes de la educación de los establecimientos regidos por el decreto ley N° 3.166, de 1980. En este caso, los años de servicio se computarán en el mismo establecimiento.
 
@@ -640,6 +654,10 @@ b) A partir del 1 de enero del año 2019, el Párrafo 2° del Título I y los ar
 
 c) A contar de la fecha señalada en el artículo séptimo transitorio de la presente ley, el artículo 50.
 
+d) A contar del 1 de marzo de 2026, el artículo 10. A partir de esa fecha el ingreso de los asistentes de la educación a una dotación se realizará mediante mecanismos de reclutamiento y selección públicos, inclusivos y transparentes, los que deberán considerar criterios objetivos de ingreso a cada uno de los cargos que se provean, conforme a los perfiles de competencias laborales previamente definidos de acuerdo con lo establecido en el artículo 10.
+
+e) A contar del 1 de marzo de 2026, los artículos 17, 38 y 40. Con todo, en la aplicación del artículo 40 no se considerará la ejecución de nuevas obras de infraestructura.
+
 En el caso de los establecimientos educacionales regidos por el decreto ley Nº 3.166, del Ministerio de Educación Pública, de 1980, las disposiciones de la presente ley comenzarán a aplicarse al personal asistente de la educación que en ellos se desempeña, a partir de la fecha en que los establecimientos educacionales que correspondan a su territorio sean traspasados al Servicio Local de Educación Pública, con excepción de las normas señaladas en el inciso anterior, que se les aplicarán cuando correspondan.
 
 #### Artículo quinto
@@ -660,7 +678,9 @@ El reglamento señalado en el inciso anterior deberá dictarse dentro de los cie
 
 #### Artículo octavo
 
-Transitoriedad sobre término de relación laboral. Las causales de término de la relación laboral establecidas en los literales f) y g) del artículo 33 de esta ley no serán aplicables al personal que tenga contrato vigente con una municipalidad o corporación municipal a la fecha de entrada en vigencia de la misma y sea traspasado a un servicio local.
+Transitoriedad sobre término de relación laboral. La causal de término de la relación laboral establecida en el literal f) del artículo 33 no será aplicable al personal que tenga contrato vigente con una municipalidad o corporación municipal a la fecha de entrada en vigencia de la misma y sea traspasado a un servicio local.
+
+La causal de término establecida en el literal g) del artículo 33 será aplicable a los asistentes de la educación que se desempeñen en establecimientos educacionales, dependientes de aquellas municipalidades o corporaciones municipales que continúen prestando el servicio educacional.
 
 A contar del 1 de enero del año siguiente a la aprobación del Plan de Desarrollo Educativo Municipal que se establezca después de la fecha de publicación de esta ley, no será aplicable lo dispuesto en el inciso primero del artículo 161 del Código del Trabajo a los asistentes de establecimientos educacionales administrados directamente por las municipalidades o por corporaciones privadas sin fines de lucro creadas por éstas para administrar la educación municipal. A contar de dicha fecha, el contrato de trabajo del asistente de la educación de las entidades antes indicadas también podrá terminar a consecuencia de los cambios, ajustes y redistribución que se efectúe a la dotación de asistentes de la educación de la comuna, tanto en su tamaño, composición o redistribución entre establecimientos de la misma, a causa de:
 
