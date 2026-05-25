@@ -49,6 +49,7 @@ jobs:
       # ── pipeline-cache worktree ──────────────────────────────────────────
       - name: Set up pipeline-cache worktree
         run: |
+          CODE_BRANCH=$(git rev-parse --abbrev-ref HEAD)
           if git fetch origin pipeline-cache 2>/dev/null; then
             git worktree add cache pipeline-cache
           else
@@ -56,13 +57,14 @@ jobs:
             git rm -rf . --quiet
             git commit --allow-empty -m "init: pipeline-cache branch"
             git push origin pipeline-cache
-            git checkout -
+            git checkout "$CODE_BRANCH"
             git worktree add cache pipeline-cache
           fi
 
       # ── historial worktree ───────────────────────────────────────────────
       - name: Set up historial worktree
         run: |
+          CODE_BRANCH=$(git rev-parse --abbrev-ref HEAD)
           if git fetch origin historial 2>/dev/null; then
             git worktree add historial historial
           else
@@ -70,7 +72,7 @@ jobs:
             git rm -rf . --quiet
             git commit --allow-empty -m "init: historial branch"
             git push origin historial
-            git checkout -
+            git checkout "$CODE_BRANCH"
             git worktree add historial historial
           fi
 
@@ -114,8 +116,8 @@ jobs:
             --data-root . \
             --cache-dir ./cache \
             --append \
-            --from ${{ steps.watermark.outputs.W }} \
-            --to   ${{ steps.watermark.outputs.D }} \
+            --from "${{ steps.watermark.outputs.W }}" \
+            --to   "${{ steps.watermark.outputs.D }}" \
             --enrichers tramitacion
 
       - name: Push historial
