@@ -42,14 +42,9 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
-from utils import detect_data_root, law_dir, CommitContext  # noqa: E402
+from utils import detect_data_root, law_dir, CommitContext, setup_logging  # noqa: E402
 from enrichers import Enricher  # noqa: E402
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s %(levelname)s %(message)s",
-    datefmt="%H:%M:%S",
-)
 log = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
@@ -100,13 +95,19 @@ def _flatten_to_texto(items: list) -> str:
 # ---------------------------------------------------------------------------
 
 
+_EPOCH_ORDINAL = datetime.date(1970, 1, 1).toordinal()
+
+
 def _date_to_unix(date_str: str, seq: int = 0) -> int:
-    """Convert YYYY-MM-DD to Unix timestamp (noon UTC). seq offsets for tiebreaking."""
+    """Convert YYYY-MM-DD to Unix timestamp (noon UTC). seq offsets for tiebreaking.
+
+    Uses ordinal arithmetic so pre-1900 dates (e.g. 1855-12-14) work on all
+    platforms without relying on the C time_t range.
+    """
     try:
         d = datetime.date.fromisoformat(date_str)
-        dt = datetime.datetime(d.year, d.month, d.day, 12, 0, 0,
-                               tzinfo=datetime.timezone.utc)
-        return int(dt.timestamp()) + seq
+        days_since_epoch = d.toordinal() - _EPOCH_ORDINAL
+        return days_since_epoch * 86400 + 43200 + seq  # noon UTC
     except Exception:
         return 0
 
@@ -122,9 +123,22 @@ def _scope_for_node(node: dict) -> str:
         return "dl"
     if tipo in ("dfl", "decreto con fuerza de ley"):
         return "dfl"
+    if tipo == "cod":
+        return "cod"
     if clasificacion == "modificatoria":
         return "modificacion"
     return "ley"
+
+
+def _tipo_label(scope: str) -> str:
+    """Human label for commit messages."""
+    return {"dl": "Decreto Ley", "dfl": "Decreto con Fuerza de Ley", "cod": "Código", "modificacion": "Ley"}.get(scope, "Ley")
+
+
+def _commit_subject_causa(scope: str, numero: str, fecha: str, organismo: str = "") -> str:
+    label = _tipo_label(scope)
+    org = f" ({organismo})" if organismo and scope in ("dfl", "dl", "dto") else ""
+    return f"{label} N°{numero}{org} publicada ({fecha})"
 
 
 def _law_dir_from_node(node: dict, id_norma: int, data_root: Path) -> Path:
@@ -157,8 +171,8 @@ def _load_graph(data_root: Path) -> dict:
         return {}
 
 
-def _load_diffs(data_root: Path, id_norma: int) -> list | None:
-    diff_path = data_root / "cache" / "diffs" / f"{id_norma}.json"
+def _load_diffs(cache_dir: Path, id_norma: int) -> list | None:
+    diff_path = cache_dir / "diffs" / f"{id_norma}.json"
     if not diff_path.exists():
         return None
     try:
@@ -168,8 +182,8 @@ def _load_diffs(data_root: Path, id_norma: int) -> list | None:
         return None
 
 
-def _load_version_json(data_root: Path, id_norma: int, fecha: str) -> dict | None:
-    ver_path = data_root / "cache" / "versions" / str(id_norma) / f"{fecha}.json"
+def _load_version_json(cache_dir: Path, id_norma: int, fecha: str) -> dict | None:
+    ver_path = cache_dir / "versions" / str(id_norma) / f"{fecha}.json"
     if not ver_path.exists():
         return None
     try:
@@ -181,13 +195,14 @@ def _load_version_json(data_root: Path, id_norma: int, fecha: str) -> dict | Non
 
 def _version_files(
     data_root: Path,
+    cache_dir: Path,
     id_norma: int,
     fecha: str,
     node: dict,
     rel_dir: Path,
 ) -> dict[str, bytes]:
     """Build the files dict for one law version commit."""
-    ver_data = _load_version_json(data_root, id_norma, fecha)
+    ver_data = _load_version_json(cache_dir, id_norma, fecha)
     files: dict[str, bytes] = {}
 
     if ver_data:
@@ -230,9 +245,15 @@ def _find_successor(graph: dict, id_norma: int) -> Optional[str]:
 def _collect_events(
     graph: dict,
     data_root: Path,
+    cache_dir: Path | None = None,
+    from_date: str | None = None,
+    to_date: str | None = None,
 ) -> list[CommitContext]:
-    """Walk graph nodes and build CommitContext list from diffs cache."""
-    events: list[CommitContext] = []
+    """Walk graph nodes; build one CommitContext per *causing* norma (cause-centered model)."""
+    if cache_dir is None:
+        cache_dir = data_root / "cache"
+
+    events_by_cause: dict[tuple, CommitContext] = {}
     seq = 0
 
     for id_norma_str, node in graph.items():
@@ -241,77 +262,66 @@ def _collect_events(
         except ValueError:
             continue
 
-        diffs = _load_diffs(data_root, id_norma)
-        if diffs is None:
-            # No diffs cache yet — skip silently (fetch_versions may still be running)
-            continue
-
+        diffs = _load_diffs(cache_dir, id_norma)
         if not diffs:
             continue
 
-        numero = node.get("numero", id_norma_str)
-        titulo = node.get("titulo", "")
-        fecha_pub = node.get("fechaPublicacion", "")
-        derogado = node.get("derogado", False)
-        scope = _scope_for_node(node)
         rel_dir = _law_dir_from_node(node, id_norma, data_root).relative_to(data_root)
+        derogado = node.get("derogado", False)
 
         for i, entry in enumerate(diffs):
             fecha = entry.get("fecha", "")
             if not fecha:
                 continue
 
-            is_feat = (i == 0)
-            is_last = (i == len(diffs) - 1)
             modificada_por = entry.get("modificadaPor")
+            is_last = (i == len(diffs) - 1)
 
-            if is_feat:
-                tipo = "feat"
-                subject = f"feat({scope}): Ley {numero} publicada"
-                body_lines = []
-                if titulo:
-                    body_lines.append(titulo)
-                    body_lines.append("")
-                body_lines.append(f"BCN idNorma={id_norma}")
-                if fecha_pub:
-                    body_lines.append(f"Publicación: {fecha_pub}")
-                body = "\n".join(body_lines).strip()
-                rank = 0
+            # Determine causing law
+            if i == 0 or not modificada_por:
+                causa_id_str = id_norma_str
+                causa_numero = node.get("numero", id_norma_str)
+                causa_titulo = node.get("titulo", "")
+                causa_fecha = node.get("fechaPublicacion") or fecha
+                causa_node = node
             else:
-                tipo = "update"
-                if modificada_por:
-                    mod_numero = modificada_por.get("numero", "")
-                    subject = f"update({scope}): Ley {numero} modificada por Ley {mod_numero} — versión {fecha}"
-                    body = f"Modificada por: {modificada_por.get('titulo', '')}\n\nBCN idNorma={id_norma}".strip()
-                else:
-                    subject = f"update({scope}): Ley {numero} modificada — versión {fecha}"
-                    body = f"BCN idNorma={id_norma}"
-                rank = 1
+                causa_id_str = str(modificada_por["idNorma"])
+                causa_numero = modificada_por.get("numero") or causa_id_str
+                causa_titulo = modificada_por.get("titulo", "")
+                causa_fecha = fecha
+                causa_node = graph.get(causa_id_str, {})
 
-            seq += 1
-            ctx = CommitContext(
-                tipo=tipo,
-                scope=scope,
-                ley_numero=str(numero),
-                id_norma=id_norma,
-                date=fecha,
-                titulo=titulo,
-                files=_version_files(data_root, id_norma, fecha, node, rel_dir),
-                deletes=[],
-                symlinks={},
-                subject=subject,
-                body=body,
-                extra={
-                    "boletin": node.get("boletin"),
-                    "rel_dir": str(rel_dir),
-                    "modificadaPor": modificada_por,
-                },
-                _seq=seq,
-                _rank=rank,
+            # Date window filter (from_date exclusive, to_date inclusive)
+            if from_date and causa_fecha <= from_date:
+                continue
+            if to_date and causa_fecha > to_date:
+                continue
+
+            key = (causa_fecha, causa_id_str)
+
+            if key not in events_by_cause:
+                seq += 1
+                causa_scope = _scope_for_node(causa_node)
+                causa_org = (causa_node.get("organismos") or [""])[0]
+                events_by_cause[key] = CommitContext(
+                    tipo="feat",
+                    scope=causa_scope,
+                    ley_numero=causa_numero,
+                    id_norma=int(causa_id_str) if causa_id_str.isdigit() else 0,
+                    date=causa_fecha,
+                    titulo=causa_titulo,
+                    subject=_commit_subject_causa(causa_scope, causa_numero, causa_fecha, causa_org),
+                    body="\n".join(filter(None, [causa_titulo, f"BCN idNorma={causa_id_str}"])),
+                    _seq=seq,
+                    _rank=0,
+                )
+
+            # Add this version's files to the causing commit
+            events_by_cause[key].files.update(
+                _version_files(data_root, cache_dir, id_norma, fecha, node, rel_dir)
             )
-            events.append(ctx)
 
-            # Derogation event after the last version
+            # Derogation: deletes + optional symlink attached to the same causing commit
             if is_last and derogado:
                 all_paths = [str(rel_dir / "texto.md"), str(rel_dir / "metadata.json")]
                 symlinks: dict[str, str] = {}
@@ -325,127 +335,33 @@ def _collect_events(
                         succ_id = int(next(
                             (k for k, v in graph.items() if v is succ_node), 0
                         ))
-                        succ_rel = _law_dir_from_node(succ_node, succ_id, data_root).relative_to(data_root)
+                        succ_rel = _law_dir_from_node(
+                            succ_node, succ_id, data_root
+                        ).relative_to(data_root)
                         symlinks[str(rel_dir)] = str(succ_rel)
+                events_by_cause[key].deletes.extend(all_paths)
+                events_by_cause[key].symlinks.update(symlinks)
 
-                seq += 1
-                derog_ctx = CommitContext(
-                    tipo="derog",
-                    scope=scope,
-                    ley_numero=str(numero),
-                    id_norma=id_norma,
-                    date=fecha,
-                    titulo=titulo,
-                    files={},
-                    deletes=all_paths,
-                    symlinks=symlinks,
-                    subject=f"derog({scope}): Ley {numero} derogada",
-                    body=f"Derogada: {fecha}\nBCN idNorma={id_norma}",
-                    extra={"rel_dir": str(rel_dir)},
-                    _seq=seq,
-                    _rank=2,
-                )
-                events.append(derog_ctx)
-
-    return events
+    return list(events_by_cause.values())
 
 
-def _build_chore_init(data_root: Path, seq: int) -> CommitContext:
-    """Initial chore commit with graph.json snapshot."""
-    graph_path = data_root / "graph.json"
-    files: dict[str, bytes] = {}
-    if graph_path.exists():
-        files["graph.json"] = graph_path.read_bytes()
+def _build_chore_final(seq: int, last_date: str) -> CommitContext:
+    """Empty closing commit — always sorts after all law events on the same date."""
     return CommitContext(
         tipo="chore",
         scope="meta",
-        ley_numero="",
-        id_norma=0,
-        date="1900-01-01",  # sorts before all law events
-        titulo="",
-        files=files,
-        deletes=[],
-        symlinks={},
-        subject="chore(init): pipeline graph-first",
-        body="Initial graph snapshot.",
-        _seq=seq,
-        _rank=3,
-    )
-
-
-def _build_chore_final(data_root: Path, seq: int, last_date: str) -> CommitContext:
-    """Final chore commit with graph.json + catalog.json."""
-    files: dict[str, bytes] = {}
-    for name in ("graph.json", "catalog.json"):
-        p = data_root / name
-        if p.exists():
-            files[name] = p.read_bytes()
-    return CommitContext(
-        tipo="chore",
-        scope="meta",
-        ley_numero="",
+        ley_numero="~",  # "~" (0x7E) sorts after all digits/letters — always last on same date
         id_norma=0,
         date=last_date or datetime.date.today().isoformat(),
         titulo="",
-        files=files,
+        files={},
         deletes=[],
         symlinks={},
-        subject="chore(meta): graph final state",
-        body="Final graph and catalog snapshot.",
+        subject="Fin del historial procesado",
+        body="",
         _seq=seq,
-        _rank=3,
+        _rank=4,
     )
-
-
-# ---------------------------------------------------------------------------
-# Grouping helpers (mirror rebuild_history.py pattern)
-# ---------------------------------------------------------------------------
-
-
-def _group_key(ctx: CommitContext) -> tuple:
-    """All feat/update/derog with the same (date, trigger_numero) share one commit."""
-    if ctx.tipo in ("feat", "update", "derog"):
-        mod = (ctx.extra.get("modificadaPor") or {}).get("numero") if ctx.extra else None
-        trigger = mod if mod else ctx.ley_numero
-        return (ctx.date, "law", trigger)
-    return (ctx.date, ctx.tipo, ctx._seq)
-
-
-def _group_events(sorted_events: list[CommitContext]) -> list[list[CommitContext]]:
-    groups: list[list[CommitContext]] = []
-    for ctx in sorted_events:
-        if groups and _group_key(groups[-1][0]) == _group_key(ctx):
-            groups[-1].append(ctx)
-        else:
-            groups.append([ctx])
-    return groups
-
-
-def _merge_body(group: list[CommitContext]) -> str:
-    primary = group[0]
-    body = primary.body or ""
-    if len(group) == 1:
-        return body
-
-    modified: list[str] = []
-    derogated: list[str] = []
-    for ctx in group[1:]:
-        if ctx.tipo == "derog":
-            if ctx.ley_numero not in derogated:
-                derogated.append(ctx.ley_numero)
-        elif ctx.tipo == "update":
-            if ctx.ley_numero not in modified:
-                modified.append(ctx.ley_numero)
-    modified = [n for n in modified if n not in derogated]
-
-    extra: list[str] = []
-    if modified:
-        extra.append("Modifica: " + ", ".join(f"Ley {n}" for n in modified))
-    if derogated:
-        extra.append("Deroga: " + ", ".join(f"Ley {n}" for n in derogated))
-    if not extra:
-        return body
-    return (body + "\n\n" + "\n".join(extra)).strip() if body else "\n".join(extra)
 
 
 # ---------------------------------------------------------------------------
@@ -526,35 +442,24 @@ def _make_fast_import_stream(
         stream_parts.append(b"\n")
 
     sorted_events = sorted(events, key=lambda e: e.sort_key())
-    groups = _group_events(sorted_events)
 
-    for i, group in enumerate(groups):
-        primary = group[0]
+    for i, ctx in enumerate(sorted_events):
         m = next_mark()
-        unix_ts = _date_to_unix(primary.date, seq=i)
+        unix_ts = _date_to_unix(ctx.date, seq=i)
 
-        merged_files: dict[str, bytes] = {}
-        merged_deletes: list[str] = []
-        merged_symlinks: dict[str, str] = {}
-        for ctx in group:
-            merged_files.update(ctx.files)
-            merged_deletes.extend(ctx.deletes)
-            merged_symlinks.update(ctx.symlinks)
+        deleted_set = set(ctx.deletes)
+        files = {p: c for p, c in ctx.files.items() if p not in deleted_set}
 
-        deleted_set = set(merged_deletes)
-        merged_files = {p: c for p, c in merged_files.items() if p not in deleted_set}
-
-        from_branch = (i == 0 and append)
         write_commit(
-            subject=primary.subject,
-            body=_merge_body(group),
+            subject=ctx.subject,
+            body=ctx.body,
             unix_ts=unix_ts,
-            files=merged_files,
+            files=files,
             m=m,
             parent_m=parent_mark,
-            delete_files=merged_deletes or None,
-            symlinks=merged_symlinks or None,
-            from_branch=from_branch,
+            delete_files=ctx.deletes or None,
+            symlinks=ctx.symlinks or None,
+            from_branch=(i == 0 and append),
         )
         parent_mark = m
 
@@ -616,8 +521,30 @@ def main() -> None:
         action="store_true",
         help="Print commit list without running git fast-import",
     )
+    parser.add_argument("--verbose", action="store_true", help="Enable DEBUG logging.")
+    parser.add_argument(
+        "--cache-dir",
+        metavar="PATH",
+        default=None,
+        help="Override cache directory (default: {data-root}/cache)",
+    )
+    parser.add_argument(
+        "--from",
+        dest="from_date",
+        metavar="DATE",
+        default=None,
+        help="Only emit commits for causing normas with date > DATE (exclusive, YYYY-MM-DD)",
+    )
+    parser.add_argument(
+        "--to",
+        dest="to_date",
+        metavar="DATE",
+        default=None,
+        help="Only emit commits for causing normas with date <= DATE (inclusive, YYYY-MM-DD)",
+    )
     args = parser.parse_args()
 
+    setup_logging(verbose=args.verbose)
     data_root = Path(args.data_root).resolve() if args.data_root else detect_data_root()
     log.info("DATA_ROOT = %s", data_root)
 
@@ -626,17 +553,21 @@ def main() -> None:
     log.info("Loaded graph: %d nodes", len(graph))
 
     # Collect events
-    events = _collect_events(graph, data_root)
+    cache_dir = Path(args.cache_dir).resolve() if args.cache_dir else data_root / "cache"
+    events = _collect_events(
+        graph, data_root,
+        cache_dir=cache_dir,
+        from_date=args.from_date,
+        to_date=args.to_date,
+    )
     log.info("Collected %d version events", len(events))
 
     # Chore commits
     seq = len(events) + 1
-    chore_init = _build_chore_init(data_root, seq)
-    seq += 1
     last_date = max((e.date for e in events), default=datetime.date.today().isoformat())
-    chore_final = _build_chore_final(data_root, seq, last_date)
+    chore_final = _build_chore_final(seq, last_date)
 
-    all_events = [chore_init] + events + [chore_final]
+    all_events = events + [chore_final]
 
     # Apply enrichers
     enricher_names = [n for n in args.enrichers.split(",") if n.strip()]
@@ -649,15 +580,10 @@ def main() -> None:
 
     if args.dry_run:
         sorted_events = sorted(all_events, key=lambda e: e.sort_key())
-        groups = _group_events(sorted_events)
-        print(f"Dry run — {len(groups)} commit(s) would be generated:\n")
-        for i, group in enumerate(groups):
-            primary = group[0]
-            print(f"  [{i+1:4d}] {primary.date}  {primary.subject}")
-            if len(group) > 1:
-                for ctx in group[1:]:
-                    print(f"             + {ctx.subject}")
-        print(f"\nTotal: {len(groups)} commit(s) from {len(all_events)} event(s).")
+        print(f"Dry run — {len(sorted_events)} commit(s) would be generated:\n")
+        for i, ctx in enumerate(sorted_events):
+            print(f"  [{i+1:4d}] {ctx.date}  {ctx.subject}")
+        print(f"\nTotal: {len(sorted_events)} commit(s).")
         return
 
     # Guard --append: if branch doesn't exist, fall back to fresh import
