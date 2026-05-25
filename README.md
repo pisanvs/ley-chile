@@ -2,6 +2,15 @@
 
 Repositorio git que reconstruye el historial completo de cambios en el corpus jurídico chileno, haciendo un commit por cada versión publicada de cada ley.
 
+<!-- PIPELINE_STATUS_START -->
+## Pipeline Status
+| | |
+|---|---|
+| **Historial** | `░░░░░░░░░░░░░░░░░░░░` 0% · watermark — · 0 normas |
+| **Cache**     | `░░░░░░░░░░░░░░░░░░░░` 0% · 0 / 0 normas fetched |
+| **Last run**  | — |
+<!-- PIPELINE_STATUS_END -->
+
 ## Por qué existe este proyecto
 
 El sistema [LeyChile](https://www.bcn.cl/leychile) de la BCN publica *textos refundidos* — versiones consolidadas que incorporan todas las modificaciones — sin diffs históricos. Este repositorio reconstruye ese historial de cambios haciendo un commit de cada versión de cada ley a medida que fue modificándose.
