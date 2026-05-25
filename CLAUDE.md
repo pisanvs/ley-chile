@@ -8,152 +8,174 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 pip install -r requirements.txt
 ```
 
-## Key Scripts
-
-### Full pipeline (recommended — runs unattended, resumable)
+## Running the pipeline
 
 ```bash
-# Phase 1: Build complete relationship graph via SPARQL BFS from seed laws
-LEYCHILE_DATA_ROOT=./historial python scripts/build_graph.py
-# → writes historial/graph.json with all ~2175 connected laws
+# Full 4-phase pipeline (idempotent, resumable)
+LEYCHILE_DATA_ROOT=./historial python scripts/run_pipeline.py
 
-# Phase 2: Fetch law texts from LeyChile (resumable; persists in fetch_progress.json)
-LEYCHILE_DATA_ROOT=./historial python scripts/fetch_texts.py
-# → writes leyes/, modificaciones/, dl/, etc. directories with texto.md, metadata.json, versiones.json
+# Limit to most recent 5 normas (useful for testing)
+LEYCHILE_DATA_ROOT=./historial python scripts/run_pipeline.py --limit -5 --verbose
 
-# Phase 3: Rebuild chronological git history
-LEYCHILE_DATA_ROOT=./historial python scripts/rebuild_history.py
+# Skip completed phases
+python scripts/run_pipeline.py --skip-catalog --skip-normas
+python scripts/run_pipeline.py --skip-catalog --skip-normas --skip-versions
 
-# All three phases in one command, with ntfy.sh notification when done:
+# Pass --no-expand to skip BFS expansion of modifier laws in fetch_normas
+python scripts/run_pipeline.py --no-expand
+
+# Preview commits without importing (build_history only)
+LEYCHILE_DATA_ROOT=./historial python scripts/build_history.py --dry-run
+
+# Run in background with ntfy.sh notification
 nohup LEYCHILE_DATA_ROOT=./historial python scripts/run_pipeline.py \
-    --skip-graph \
     --notify-url https://ntfy.sh/YOUR_TOPIC > pipeline.log 2>&1 &
-# Subscribe to https://ntfy.sh/YOUR_TOPIC in a browser or the ntfy app.
-# Use --skip-graph when graph.json is already built.
+
+# Incremental mode (GH Actions style — separate cache worktree):
+python scripts/fetch_versions.py --data-root . --cache-dir ./cache --version-budget 5000
+python scripts/build_history.py --data-root . --cache-dir ./cache --append --from 2020-01-01 --to 2022-12-31
+
+# Compute watermark (W = last historial commit date, D = highest complete cache date):
+python scripts/compute_watermark.py --graph-path ./graph.json --cache-dir ./cache --historial-dir ./historial
+
+# Update README progress bar:
+python scripts/update_readme_status.py --readme README.md --graph-path ./graph.json --cache-dir ./cache --historial-dir ./historial
 ```
 
-### Individual law tracing
+## Tests
 
 ```bash
-# Trace a single law by idNorma
-LEYCHILE_DATA_ROOT=./historial python scripts/trace_graph.py --id 235507 --ley 20000
-
-# Rewrite git history on historial branch in chronological order (via git fast-import)
-LEYCHILE_DATA_ROOT=./historial python scripts/rebuild_history.py
-
-# Preview the event list without writing anything
-LEYCHILE_DATA_ROOT=./historial python scripts/rebuild_history.py --dry-run
-
-# Fetch parliamentary session data for a law
-python scripts/fetch_tramitacion.py --ley 20000
+python -m pytest                    # all tests
+python -m pytest tests/test_utils.py  # single file (adjust path)
 ```
+
+Tests cover pure functions only — no network or git calls required.
 
 ## Architecture
 
-### Two-Branch Design
+### Three-Branch Design
 
-- **`claude/setup-chilean-law-repo-*` (code branch)**: Contains only scripts, requirements, README, CI config. Never contains law data.
-- **`historial` (orphan branch)**: Contains only law data commits, built chronologically by `rebuild_history.py`. Set up as a git worktree at `./historial/`.
+- **Code branch** (`claude/graph-first-pipeline`, etc.): scripts, requirements, config, `graph.json`, `catalog.json`. Never contains law data.
+- **`pipeline-cache` (orphan branch)**: fetched version data — `cache/versions/`, `cache/diffs/`. Mounted as a git worktree at `./cache/`.
+- **`historial` (orphan branch)**: law data commits built by `build_history.py`. Mounted as a git worktree at `./historial/`.
 
-Create the historial worktree:
+Create the `pipeline-cache` worktree (first time):
 ```bash
-git checkout --orphan historial
-git rm -rf .
-git commit --allow-empty -m "init: historial branch"
-git checkout -
-git worktree add historial historial
+git checkout --orphan pipeline-cache && git rm -rf . && git commit --allow-empty -m "init"
+git checkout - && git worktree add cache pipeline-cache
 ```
+
+Reset `pipeline-cache` to clean orphan (for testing):
+```bash
+git -C cache checkout --orphan tmp-clean
+git -C cache commit --allow-empty -m "init"
+git branch -D pipeline-cache
+git -C cache branch -m tmp-clean pipeline-cache
+```
+
+Create the `historial` worktree (first time):
+```bash
+git checkout --orphan historial && git rm -rf . && git commit --allow-empty -m "init"
+git checkout - && git worktree add historial historial
+```
+
+Reset historial to a clean orphan for testing:
+```bash
+git -C historial checkout --orphan tmp-clean
+git -C historial commit --allow-empty -m "init"
+git branch -D historial
+git -C historial branch -m tmp-clean historial
+```
+
+### 4-Phase Pipeline
+
+```
+build_catalog.py   → {DATA_ROOT}/catalog.json              (BCN SPARQL — all norma IDs)
+fetch_normas.py    → {DATA_ROOT}/graph.json                (LeyChile JSON metadata + BFS expansion)
+                     {DATA_ROOT}/cache/normas/{id}.json
+fetch_versions.py  → {DATA_ROOT}/cache/diffs/{id}.json     (per-norma version list + article diffs)
+                     {DATA_ROOT}/cache/versions/{id}/{fecha}.json
+build_history.py   → git fast-import → historial branch
+```
+
+`run_pipeline.py` orchestrates all four phases as subprocesses, with ntfy.sh notifications and per-phase skip flags.
+
+### One Commit Per Published Norma (cause-centered model)
+
+Every commit on `historial` represents a **single legislative publication event**. That one commit includes:
+- The new law's own `texto.md` + `metadata.json`
+- Updated `texto.md` + `metadata.json` for every law it modified
+- Derogation deletes + successor symlinks if applicable
+
+Key: `_collect_events()` in `build_history.py` uses an `events_by_cause` dict keyed by `(fecha, causa_id_str)`. Each entry is one `CommitContext`; files from all affected laws accumulate into it via `.files.update(...)`.
 
 ### DATA_ROOT Detection
 
-Both `trace_graph.py` and `rebuild_history.py` auto-detect where law data lives:
-1. `LEYCHILE_DATA_ROOT` env var (explicit override)
+All scripts auto-detect:
+1. `LEYCHILE_DATA_ROOT` env var
 2. `./historial/` worktree if it exists and has a `.git` file
-3. Fallback: repo root (legacy, single-branch mode)
+3. Repo root (fallback)
 
-`REPO_ROOT` always refers to the scripts directory; `DATA_ROOT` is used for all data operations (leyes/, modificaciones/, graph.json, git -C).
+### CommitContext (utils.py)
 
-### Pipeline
+Central dataclass shared across all pipeline phases:
 
-```
-trace_graph.py → leyes/{numero}/versiones.json + texto.md + metadata.json
-                         ↓
-rebuild_history.py reads versiones.json (committed=true entries only)
-                         ↓
-git fast-import → chronological commits on historial branch
-```
-
-Events are sorted by `(date, group, rank, _seq)` where `group` = modifier ley numero for update events (or own ley numero for feat/derog), and `rank` = 0 feat / 1 update / 2 derog.
-
-### One Commit Per Published Norma
-
-A law publication is a single legislative event — it creates its own text and simultaneously modifies/derogates other laws. `rebuild_history.py` groups all `feat`/`update`/`derog` events that share the same `(date, trigger norma)` into **one commit** (`_group_events`). The commit subject comes from the triggering norma's `feat`; the body appends `Modifica:`/`Deroga:` summary lines (`_merge_commit_body`). Files, deletes, and symlinks from every event in the group are merged; content deleted in the same commit is dropped from the file set. `chore`/`scripts` events are never merged.
-
-### Law Classification
-
-- `sustantiva`: Law with its own subject matter → `leyes/{numero}/`
-- `modificatoria`: Law that primarily amends other laws → `modificaciones/{numero}/`
-
-Classification comes from the BCN graph (`clasificacion` field in `graph.json`).
-
-### versiones.json Lifecycle
-
-Each law directory has `versiones.json`:
-```json
-[
-  {"fecha": "2005-02-16", "committed": true},
-  {"fecha": "2011-02-21", "committed": true, "modificadaPor": {"numero": "20502", ...}}
-]
+```python
+@dataclass
+class CommitContext:
+    tipo: str       # "feat" | "update" | "derog" | "chore"
+    scope: str      # "ley" | "modificacion" | "dl" | "dfl" | "cod"
+    ley_numero: str
+    id_norma: int
+    date: str       # YYYY-MM-DD — the publication date of the *causing* norma
+    titulo: str
+    subject: str    # commit subject line
+    body: str
+    files: dict     # {git_rel_path: bytes} — mutable, accumulates across affected laws
+    deletes: list   # paths to delete (derogations)
+    symlinks: dict  # {old_dir: new_dir} for successor redirects
+    extra: dict     # enricher-specific data (tramitacion, votaciones)
+    _seq: int       # tiebreaker for sort
+    _rank: int      # 0=feat, 1=update, 2=derog, 3=chore
 ```
 
-- `committed: true` — version was successfully fetched and committed; skip on re-run
-- `committed: false` — fetch failed (e.g. LeyChile 500 error); skipped by `rebuild_history.py`
+`sort_key()` returns `(date, ley_numero, _rank, _seq)`.
 
-### graph.json
+### BFS Expansion (fetch_normas.py)
 
-Tracks the dependency graph of laws. Keys are idNorma (string), values contain:
-- `numero`, `titulo`, `clasificacion`, `fechaPublicacion`
-- `modifica`: list of ley numbers this law modifies
-- `modificadaPor`: list of idNorma integers that modified this law
+After fetching the initial catalog, `fetch_normas.py` runs `_expand_modifiers()`: a BFS loop (max 10 rounds) that fetches any `modificadaPor_edges` IDs not yet in the graph. This ensures every modifier law has its own metadata for `build_history.py` to produce complete commits. Disable with `--no-expand`.
 
-### Derogation Commits
+### Enrichers (scripts/enrichers/)
 
-When a law is derogated, `rebuild_history.py` produces two sequential events:
-1. `update` event: final text content
-2. `derog` event: deletes all files in the directory; if a successor law is found in the graph, creates a git symlink (mode `120000`) at `leyes/{old}` → `{new}` (e.g. `leyes/19366` → `20000`)
+`build_history.py` supports pluggable enrichers that annotate `CommitContext.body` with extra legislative data:
+- `tramitacion.py` — parliamentary session data from SIL (Senate + Chamber)
+- `votaciones.py` — vote tallies
 
-After derogation, `leyes/{old}` on the filesystem is a symlink to the successor directory. `trace_graph.py` detects this (`dest.is_symlink()`) and skips the law on subsequent runs.
+Enable via `--enrichers tramitacion,votaciones`.
+
+### Law Directory Layout (utils.py → `law_dir()`)
+
+| Type | Path |
+|---|---|
+| `ley` sustantiva | `leyes/{numero}/` |
+| `ley` modificatoria | `modificaciones/{numero}/` |
+| `dl` (Decreto Ley 1973–81) | `dl/{numero}/` |
+| `dl` pre-1930 | `dl-1924/{numero}/` |
+| `dfl`/`dto` | `{slug}/{organismo-slug}/{numero}/` |
+| `cod` | `cod/{numero}/` |
+
+Collisions (same `numero`, different `idNorma`) get a `-{idNorma}` suffix.
+
+### Archived Scripts
+
+`scripts/archive/` contains the old pipeline (`trace_graph.py`, `rebuild_history.py`, `build_graph.py`, `fetch_texts.py`, etc.). Tests in `tests/` may still reference these; they are not part of the active pipeline.
 
 ## Data Sources
 
-| Source | Endpoint | Notes |
+| Source | Endpoint | Rate limit |
 |---|---|---|
-| LeyChile XML | `https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma={id}&idVersion={YYYY-MM-DD}` | 1 req/s rate limit |
-| BCN linked data | `https://datos.bcn.cl/recurso/cl/ley/{numero}/datos.json` | 0.3 req/s; has `isModifiedBy` / `modifiesTo` predicates |
-| SIL tramitación | Senate XML + Chamber SOAP | No official API; scraped |
+| BCN SPARQL | `https://datos.bcn.cl/sparql` | — |
+| LeyChile norma JSON | `https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=...` | adaptive |
+| LeyChile versioned XML | `https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma={id}&idVersion={YYYY-MM-DD}` | 1 req/s |
 
 **Sentinel date**: LeyChile uses `2222-02-02` for open-ended "current" versions. Filter: `int(date[:4]) <= 2100`.
-
-**DFL filter**: After fetching metadata, filter `all_ids` to only `tipo == "Ley"` — excludes "Decreto con Fuerza de Ley", "Decreto Supremo", etc.
-
-## Key Constants (trace_graph.py)
-
-- `EXTRA_SEEDS = [29815, 30733]` — hardcoded idNormas for Ley 18403 and Ley 19366 (predecessor chain not discoverable from BCN graph alone)
-- `KNOWN_RECENT = {1192530: "21575", 1206373: "21694"}` — fallback for laws too recent for BCN dataset
-
-## Commit Format
-
-```
-feat(ley): Ley 20000 — versión 2005-02-16
-update(ley): Ley 20000 — versión 2011-02-21 [mod. por Ley 20502]
-derog(ley): Ley 19366 derogada 1995-02-16 → Ley 20000
-chore(meta): actualizar graph.json
-```
-
-Types: `feat` (new law version), `update` (modification), `derog` (derogation), `fix` (data correction).
-
-## Text Canonicalization
-
-All `texto.md` content follows two rules:
-1. **Leaf text**: normalized via `_clean(text)` — `re.sub(r"\s+", " ", text).strip()` — collapses all internal whitespace to single spaces.
-2. **Structure**: sections and articles are joined with single `\n` (never `\n\n`), so there are no blank lines in `texto.md`. Blank lines would always attribute to the original `feat` commit in `git blame`, interrupting continuity.
