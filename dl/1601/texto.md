@@ -1,0 +1,9 @@
+# Decreto Ley N° 1601
+CONCEDE NUEVO PLAZO PARA EFECTOS PREVISTOS EN EL
+ARTICULO 2° TRANSITORIO DEL DECRETO LEY N° 1.385, de
+1976
+**Publicada:** 1976-11-30
+CONCEDE NUEVO PLAZO PARA EFECTOS PREVISTOS EN EL ARTICULO 2° TRANSITORIO DEL DECRETO LEY N° 1.385, de 1976 Núm. 1.601.- Santiago, 23 de Noviembre de 1976.- Visto, lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974; 991, de 1976, y 1.385, de 1976, La Junta de Gobierno acuerda dictar el siguiente Decreto ley:
+Artículo único.- Concédese un nuevo plazo de sesenta días, contados desde la fecha de publicación del presente decreto ley en el Diario Oficial, para que el Presidente de la República dicte el Reglamento Orgánico de la Secretaría General de Gobierno, en el que se racionalizarán y determinarán sus dependencias, atribuciones, deberes y facultades y en el cual se podrá fijar la Planta del Personal adecuado a la nueva estructura interna del Servicio, sin que, en todo caso, ésta pueda significar aumento del número de plazas establecido en el decreto ley N° 502, de 1974. Este Reglamento Orgánico llevará, además, la firma de los Ministros de Hacienda y del Interior, en los términos establecidos en el artículo 2° transitorio del decreto ley N° 1.385, de 1976.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- PATRICIO CARVAJAL PRADO, Vicealmirante, Comandante en Jefe subrogante de la Armada. Lo que transcribo para su conocimiento.- Aldo Montagna Bargetto, Capitán de Navío (JT), Secretario de Legislación de la Junta de Gobierno.
