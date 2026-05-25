@@ -1,0 +1,7 @@
+# Decreto Ley N° 1758
+SUSTITUYE DENOMINACION DEL PUEBLO Y COMUNA DE "PUEBLO HUNDIDO" POR LA DE "DIEGO DE ALMAGRO"
+**Publicada:** 1977-04-13
+SUSTITUYE DENOMINACION DEL PUEBLO Y COMUNA DE "PUEBLO HUNDIDO" POR LA DE "DIEGO DE ALMAGRO" Santiago, 21 de Marzo de 1977.- La H. Junta de Gobierno de la República de Chile ha acordado hoy lo que sigue: Núm. 1.758.- Visto: lo dispuesto en los decretos leyes N°.s. 1 y 128, de 1973; 527, de 1974; 991, de 1976, y Considerando: Que existen razones de índole histórico-cultural que aconsejan rendir un homenaje al adelantado español don Diego de Almagro. La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Sustitúyese el nombre del pueblo y de la comuna de "Pueblo Hundido", de la provincia de Chañaral, de la III Región, por "Diego de Almagro".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, General Director de Carabineros.- Patricio Carvajal Prado, Vicealmirante, Comandante en Jefe de la Armada subrogante.- César Raúl Benavides Escobar, General de División, Ministro del Interior. Lo que transcribo a Ud. para su conocimiento.- Saluda Ud.- Enrique Montero Marx, Subsecretario del Interior.
