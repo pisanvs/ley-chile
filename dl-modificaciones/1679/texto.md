@@ -1,0 +1,7 @@
+# Decreto Ley N° 1679
+MODIFICA DECRETO LEY N° 500, DE 1974
+**Publicada:** 1977-01-11
+MODIFICA DECRETO LEY N° 500, DE 1974 Núm. 1.679.- Santiago, 4 de Enero de 1977.- Visto: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 500 y 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Agrégase al artículo 7° del decreto ley N° 500, de 3 de Junio de 1974, el siguiente inciso nuevo: Con todo, el Banco Central de Chile, previo informe favorable del Delegado de Gobierno ante el Sector Pesquero, podrá liberar de la obligación de retorno, considerando que ésta se ha cumplido mediante el pago de los derechos contemplados en los artículos 5° y 6° del presente decreto ley, cuando en otros países existan disposiciones que graven con derechos arancelarios o de otra especie las mercaderías obtenidas en aguas territoriales chilenas, o de cualquier manera impidan su ingreso.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, General Director de Carabineros. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Aldo Montagna Bargetto, Capitán de Navío, JT, Secretario de Legislación de la Junta de Gobierno.
