@@ -1,7 +1,7 @@
 # Decreto con Fuerza de Ley N° 1
 FIJA EL TEXTO REFUNDIDO, COORDINADO, SISTEMATIZADO Y ACTUALIZADO DEL ESTATUTO ORGANICO DEL SERVICIO DE TESORERIAS
 **Publicada:** 1994-10-26
-**Versión:** 2018-02-02
+**Versión:** 2018-07-09
 FIJA EL TEXTO REFUNDIDO, COORDINADO, SISTEMATIZADO Y ACTUALIZADO DEL ESTATUTO ORGANICO DEL SERVICIO DE TESORERIAS D.F.L. Núm. 1.- Santiago, 16 de Mayo de 1994.- Vistos: Lo dispuesto en el Artículo 36 de la ley N° 19.269, dicto el siguiente Decreto con Fuerza de Ley, que fija el texto refundido, coordinado, sistematizado y actualizado del Estatuto Orgánico del Servicio de Tesorerías:
 ## TITULO I Dependencia y Objeto
 Artículo 1°.- 1 El Servicio de Tesorerías dependerá del Ministerio de Hacienda, y estará encargado de recaudar, custodiar y distribuir los fondos y valores fiscales, y en general, los de todos los servicios públicos. Deberá, asimismo, efectuar el pago de las obligaciones del Fisco, y otros que le encomienden las leyes.
