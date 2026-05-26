@@ -265,8 +265,8 @@
   "3474": {
     "idNorma": 3474,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL TEXTO REFUNDIDO, COORDINADO, SISTEMATIZADO Y ACTUALIZADO DEL ESTATUTO ORGANICO DEL SERVICIO DE TESORERIAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1994-10-26",
     "modifica": [
       "178"
@@ -529,8 +529,8 @@
   "4000": {
     "idNorma": 4000,
     "numero": "19",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "COMUNIDADES AGRICOLAS DE COQUIMBO Y ATACAMA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1963-03-27",
     "modifica": [],
     "modificadaPor": []
@@ -549,8 +549,8 @@
   "4042": {
     "idNorma": 4042,
     "numero": "22",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DEROGA ARTICULO 28° DEL DFL. N° 274, DE 1960",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-11-19",
     "modifica": [
       "274"
@@ -577,8 +577,8 @@
   "4197": {
     "idNorma": 4197,
     "numero": "36",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CONCEDE LAS FACULTADES QUE INDICA A LA DIRECCION DE AERONAUTICA Y A LA DIRECCION DEL TRANSITO AEREO, EN RELACION CON LA AVIACION CIVIL, COMERCIAL Y DE TURISMO CREA LA JUNTA PERMANENTE DE AERODROMOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-05-05",
     "modifica": [],
     "modificadaPor": [
@@ -604,8 +604,8 @@
   "4217": {
     "idNorma": 4217,
     "numero": "38",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LIMITE INTERCOMUNAL CERRILLOS-MAIPU, EN\nSECTOR QUE SEÑALA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1991-10-21",
     "modifica": [
       "1"
@@ -888,8 +888,8 @@
   "4984": {
     "idNorma": 4984,
     "numero": "190",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA EL CODIGO TRIBUTARIO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-05",
     "modifica": [],
     "modificadaPor": [
@@ -11244,11 +11244,29 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "6838": {
+    "idNorma": 6838,
+    "numero": "2155",
+    "titulo": "DEROGA LOS ARTICULOS 7° Y 8° DEL DFL (G) N° 5, DE\n1968",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-04-21",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6839": {
+    "idNorma": 6839,
+    "numero": "2156",
+    "titulo": "MODIFICA LA LEY N° 17.798 SOBRE CONTROL DE ARMAS",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-04-25",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6840": {
     "idNorma": 6840,
     "numero": "2157",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL ARTICULO 166 DEL DECRETO CON FUERZA DE\nLEY N° 1 (G), DE 1968, ESTATUTO DEL PERSONAL DE LAS\nFUERZAS ARMADAS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-04-21",
     "modifica": [
       "1"
@@ -11258,12 +11276,102 @@
   "6841": {
     "idNorma": 6841,
     "numero": "2158",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA ESTATUTO DEL PERSONAL DE LAS FUERZAS\nARMADAS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-04-21",
     "modifica": [
       "1"
     ],
+    "modificadaPor": []
+  },
+  "6842": {
+    "idNorma": 6842,
+    "numero": "2159",
+    "titulo": "ESTABLECE SISTEMA DE DESAHUCIO PARA EL PERSONAL DE\nLA MUTUALIDAD DE CARABINEROS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-04-21",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6843": {
+    "idNorma": 6843,
+    "numero": "2176",
+    "titulo": "APRUEBA CONVENIO ENTRE LA REPUBLICA DE CHILE Y LA REPUBLICA ARGENTINA PARA EVITAR LA DOBLE TRIBUTACION EN MATERIAS DE IMPUESTOS SOBRE LA RENTA, GANANCIA O BENEFICIO Y SOBRE EL CAPITAL Y EL PATRIMONIO, SUSCRITO EN SANTIAGO DE CHILE EL 13 DE NOVIEMBRE DE 1976",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-04-25",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6844": {
+    "idNorma": 6844,
+    "numero": "2177",
+    "titulo": "MODIFICA EL ESTATUTO MEDICO FUNCIONARIO EN MATERIAS\nPREVISIONALES",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-04-22",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6845": {
+    "idNorma": 6845,
+    "numero": "2180",
+    "titulo": "MODIFICA ARTICULO 32 DEL D.F.L. N° 290, DE 1960, LEY\nORGANICA DE LA EMPRESA PORTUARIA DE CHILE",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-04-22",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6846": {
+    "idNorma": 6846,
+    "numero": "2184",
+    "titulo": "ESTABLECE EXENCION PARCIAL DE IMPUESTO TERRITORIAL\nPARA EL SECTOR PASIVO Y MODIFICA MONTO DE EXENCION Y\nCUOTA EXENTA DE DICHO TRIBUTO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-04-14",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6847": {
+    "idNorma": 6847,
+    "numero": "2185",
+    "titulo": "MODIFICA EL CODIGO DE PROCEDIMIENTO PENAL EN LO\nRELATIVO A LA LIBERTAD PROVISIONAL DE LOS PROCESADOS",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-05-06",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6848": {
+    "idNorma": 6848,
+    "numero": "2186",
+    "titulo": "APRUEBA LEY ORGANICA DE PROCEDIMIENTO DE EXPROPIACIONES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-06-09",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6849": {
+    "idNorma": 6849,
+    "numero": "2191",
+    "titulo": "CONCEDE AMNISTIA A LAS PERSONAS QUE INDICA POR LOS\nDELITOS QUE SEÑALA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-04-19",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6850": {
+    "idNorma": 6850,
+    "numero": "2200",
+    "titulo": "FIJA NORMAS RELATIVAS AL CONTRATO DE TRABAJO Y A LA PROTECCION DE LOS TRABAJADORES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-06-15",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6851": {
+    "idNorma": 6851,
+    "numero": "2201",
+    "titulo": "CONFIERE MERITO EJECUTIVO A LAS ACTAS QUE DAN CONSTANCIA DE ACUERDOS SUSCRITOS ANTE INSPECTORES DEL TRABAJO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-05-20",
+    "modifica": [],
     "modificadaPor": []
   },
   "6855": {
