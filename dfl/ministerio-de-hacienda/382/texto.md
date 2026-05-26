@@ -1,0 +1,5 @@
+# Decreto con Fuerza de Ley N° 382
+INTERCALA INCISOS NUEVOS ENTRE LOS INCISOS 1° Y 2° DEL ARTICULO 2°, MODIFICA EL INCISO 1° DEL ARTICULO 4° Y MODIFICA EL INCISO 2° DEL ARTICULO 1° TRANSITORIO DEL DECRETO CON FUERZA DE LEY 87, DE 12 DE MAYO DE 1953, QUE CREO EL INSTITUTO NACIONAL DE COMERCIO DEROGA EL INCISO FINAL DEL ARTICULO 1° DEL DECRETO 628, DE 27 DE SEPTIEMBRE DE 1939, DE AGRICULTURA, AGREGADO POR EL ARTICULO 26° DE LA LEY 9.689, DE 21 DE SEPTIEMBRE DE 1950, Y MODIFICA EL INCISO 2° DEL ARTICULO 5° DEL MISMO DECRETO.
+**Publicada:** 1953-08-05
+**Versión:** 1988-12-30
+Intercala incisos nuevos entre los incisos 1° y 2° del artículo 2°, modifica el inciso 1° del artículo 4° y modifica el inciso 2° del artículo 1° transitorio del decreto con fuerza de ley 87, de 12 de mayo de 1953, que creó el Instituto Nacional de Comercio; deroga el inciso final del artículo 1° del decreto 628, de 27 de septiembre de 1939, de Agricultura, agregado por el artículo 26° de la ley 9.689, de 21 de septiembre de 1950, y modifica el inciso 2° del artículo 5° del mismo decreto.
