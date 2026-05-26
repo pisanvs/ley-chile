@@ -1,7 +1,7 @@
 # Decreto Ley N° 2222
 SUSTITUYE LEY DE NAVEGACION
 **Publicada:** 1978-05-31
-**Versión:** 1978-07-25
+**Versión:** 1978-10-07
 SUSTITUYE LEY DE NAVEGACION Núm. 2.222.- Santiago, 21 de Mayo de 1978.- Visto: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley: Substitúyese la Ley de Navegación, de 24 de Junio de 1878, publicada en el Diario Oficial de 3 de Julio del mismo año, por la siguiente: LEY DE NAVEGACION
 ## TITULO I Disposiciones Generales
 Artículo 1°.- Todas las actividades concernientes a la navegación o relacionadas con ella, se regirán por la presente ley, cuyas disposiciones prevalecerán sobre cualquier norma vigente en esta materia.
@@ -205,5 +205,6 @@ Artículo Final.- Deróganse, a contar del 1°. de Enero de 1979, los artículos
 ARTICULOS TRANSITORIOS
 Artículo 1°.- Mientras se dicten los reglamentos de esta ley se mantendrán en vigencia los actuales reglamentos, en lo que no sean contrarios a las disposiciones de este cuerpo legal.
 Artículo 2°.- Los restos o especies náufragos, sea que provengan de naves, aeronaves o artefactos navales o sus cargamentos, que a la fecha de promulgación de esta ley se encuentren hundidos o varados en las aguas sometidas a la jurisdicción nacional, y en las costas del litoral, ríos o lagos de la República, podrán ser otorgados en concesión para su extracción, por la Dirección del Litoral y de Marina Mercante, a cualquier persona natural o jurídica que lo solicite, previa intimación a sus propietarios o armadores que se efectuará por medio de dos avisos publicados en el diario que la Dirección determine. Si éstos manifestaren dentro del plazo de 30 días contados desde la fecha de la publicación, su intención de realizar la extracción, tendrán para esto el plazo fatal de seis meses, a contar de la fecha de la intimación.
+Art. 3° Los ingresos provenientes de la aplicación de los artículos 1°al 4°de la ley N°17.329, que se hayan recaudado a contar del 1°de Junio de 1978 y se recauden hasta el 31 de Diciembre del mismo año, que comprendan algún período del año 1979, se considerarán ingresos propios de la Dirección, en la parte proporcional correspondiente a este último año y serán puestos a su disposición por la Tesorería General de la República.
 ---
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General Director de Carabineros.- César Benavides Escobar, General de División, Ministro de Defensa Nacional. Lo que transcribo para su conocimiento.- Mario Duvauchelle Rodríguez, Capitán de Navío, JT, Secretario de Legislación de la Junta de Gobierno.
