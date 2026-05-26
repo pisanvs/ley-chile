@@ -1,6 +1,7 @@
 # Decreto con Fuerza de Ley N° 5
 MODIFICA, COMPLEMENTA Y FIJA TEXTO REFUNDIDO DEL D.F.L. R.R.A. N° 19, COMUNIDADES AGRICOLAS
 **Publicada:** 1968-01-17
+**Versión:** 1993-08-05
 MODIFICA, COMPLEMENTA Y FIJA TEXTO REFUNDIDO DEL D.F.L. R.R.A. N° 19 "COMUNIDADES AGRICOLAS" Santiago, 26 de Diciembre de 1967.- Hoy se decretó lo que sigue: Núm. 5.- Vistos lo dispuesto en los artículos 190 y 195 de la ley 16.640, 34, 36, 40, 51 y 53 de la ley 15.020, 2° de la ley 15.191 y 8° de la ley 16.438, vengo en dictar el siguiente Decreto con fuerza de ley:
 Artículo 1.o- Para todos los efectos previstos en el presente decreto con fuerza de ley se entenderá por "Comunidades Agrícolas" aquellos terrenos rurales pertenecientes a diversos propietarios en común, en los cuales el número de comuneros sea manifiestamente superior a la capacidad productiva del predio para que los respectivos grupos familiares puedan subvenir a sus necesidades esenciales de subsistencia. Las disposiciones de este texto legal no serán aplicables a las Comunidades regidas por la ley 14.511. Cuando en el presente decreto con fuerza de ley se empleen las palabras Comunidad, Departamento, Jefe Abogado y Saneamiento, se entenderá que ellas se refieren, respectivamente, a las Comunidades definidas en el inciso primero de este artículo, al Departamento de Títulos de la Dirección de Tierras y Bienes Nacionales del Ministerio de Tierras y Colonización, al Jefe Abogado del Departamento de Títulos y a la constitución de la propiedad de las Comunidades al saneamiento de sus títulos de dominio y a su organización.
 ## TITULO I De la constitución de la
@@ -67,6 +68,6 @@ Artículo 58.o.- Cuando en el presente decreto con fuerza de ley se emplee la ex
 Artículo 59.o- Deróganse todas las disposiciones sobre saneamiento, constitución y organización de las Comunidades definidas en el artículo 1.o, que sean contrarias a las normas de este decreto con fuerza de ley.
 Artículo 60.o.- El presente decreto con fuerza de ley entrará en vigor a partir del día de su publicación en el Diario Oficial.
 Disposición transitoria
-~~Artículo único.- Sin perjuicio de lo dispuesto en el artículo 24 de la ley sobre el efecto retroactivo de las leyes, los procedimientos judiciales iniciados en conformidad al D. F. L. R. R. A. N.o 19, de 1963, y que se encontraren suspendidos, continuarán tramitándose de acuerdo a lo establecido en el artículo 11.o del presente texto legal.~~
+~~Artículo único.- DEROGADO~~
 ---
 Tómese razón, comuníquese y publíquese. EDUARDO FREI M.-Hugo Trivelli F. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Carlos Figueroa Serrano, Subsecretario de Agricultura.
