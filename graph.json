@@ -304,8 +304,8 @@
   "3488": {
     "idNorma": 3488,
     "numero": "2",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE ESTATUTO DEL PERSONAL DE CARABINEROS DE CHILE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1968-10-17",
     "modifica": [],
     "modificadaPor": [
@@ -315,8 +315,8 @@
   "3613": {
     "idNorma": 3613,
     "numero": "4",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NORMAS PARA EL FUNCIONAMIENTO Y FINANCIAMIENTO DEL FONDO DE REVALORIZACION DE PENSIONES DE LAS FUERZAS ARMADAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1968-10-07",
     "modifica": [],
     "modificadaPor": [
@@ -326,8 +326,8 @@
   "3654": {
     "idNorma": 3654,
     "numero": "5",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTATUTO ORGANICO DEL SERVICIO DE TESORERIAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1963-07-02",
     "modifica": [
       "179"
@@ -350,8 +350,8 @@
   "3802": {
     "idNorma": 3802,
     "numero": "9",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE IMPUESTOS UNICOS A LOS PRODUCTOS QUE SE INDICAN",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1971-10-14",
     "modifica": [],
     "modificadaPor": [
@@ -361,8 +361,8 @@
   "3822": {
     "idNorma": 3822,
     "numero": "9",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA ESTATUTO ORGANICO DEL SERVICIO NACIONAL DE\nADUANAS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1991-10-31",
     "modifica": [
       "329"
@@ -414,8 +414,8 @@
   "4207": {
     "idNorma": 4207,
     "numero": "37",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA EL REGLAMENTO DEL CONSEJO DE CENSURA\nCINEMATOGRAFICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1959-12-01",
     "modifica": [
       "558"
@@ -477,8 +477,8 @@
   "4336": {
     "idNorma": 4336,
     "numero": "56",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUPRIME LA PLANTA FISCAL DE FUNCIONARIOS DE LA CORPORACION DE LA VIVIENDA, ESTABLECE QUE ESTE PERSONAL SE REGIRA POR EL CODIGO DEL TRABAJO, CON LAS EXCEPCIONES QUE SEÑALA, DEROGA EL ARTICULO 19° DE LA LEY 6.815, DE 4 DE MARZO DE 1941, QUE CREO EL DEPARTAMENTO TECNICO-AGRICOLA, DEPENDIENTE DE LA CAJA DE LA HABITACION, REEMPLAZA EL ARTICULO 1°, AGREGA LETRAS S) Y T) AL ARTICULO 29°, SUBSTITUYE LA LETRA E) Y AGREGA LETRAS I), J), K), L) Y M) AL ARTICULO 31° Y AGREGA INCISO AL ARTICULO 32° DEL DECRETO CON FUERZA DE LEY 285, DE 1953, QUE CREO LA CORPORACION DE LA VIVIENDA, MEDIANTE LA FUSION DE LA CAJA DE LA HABITACION Y DE LA CORPORACION DE RECONSTRUCCION, MODIFICA EL ARTICULO 52° Y SUBSTITUYE EL ARTICULO 56° DEL DECRETO CON FUERZA DE LEY 2, DE 1959, QUE SEÑALA NORMAS PARA LA REALIZACION DE UN PLAN HABITACIONAL DE VIVIENDAS ECONOMICAS.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-01-08",
     "modifica": [
       "2"
@@ -488,8 +488,8 @@
   "4518": {
     "idNorma": 4518,
     "numero": "87",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FUSIONA EL INSTITUTO DE ECONOMIA AGRICOLA Y EL INSTITUTO DE COMERCIO EXTERIOR EN UNA EMPRESA COMERCIAL AUTONOMA, QUE SE DENOMINARA INSTITUTO NACIONAL DE COMERCIO, QUE TENDRA PERSONALIDAD JURIDICA Y PATRIMONIO PROPIO, MODIFICA EL ARTICULO 1° DEL DECRETO CON FUERZA DE LEY 45, DE 2 DE ABRIL DE 1953",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-06-01",
     "modifica": [
       "45"
@@ -518,7 +518,7 @@
     "idNorma": 4562,
     "numero": "94",
     "titulo": "",
-    "clasificacion": "",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-04-13",
     "modifica": [],
     "modificadaPor": [
@@ -570,8 +570,8 @@
   "4900": {
     "idNorma": 4900,
     "numero": "168",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DISPOSICIONES SOBRE EL CONSEJO DE CENSURA\nCINEMATOGRAFICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1953-07-27",
     "modifica": [
       "558"
@@ -607,8 +607,8 @@
   "5046": {
     "idNorma": 5046,
     "numero": "208",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETO CON FUERZA DE LEY N.o 2",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1960-04-02",
     "modifica": [
       "2"
@@ -680,8 +680,8 @@
   "5096": {
     "idNorma": 5096,
     "numero": "221",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "NAVEGACION AEREA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-05-30",
     "modifica": [],
     "modificadaPor": [
@@ -691,8 +691,8 @@
   "5107": {
     "idNorma": 5107,
     "numero": "224",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL TEXTO DE LA LEY GENERAL DE CONSTRUCCIONES Y URBANIZACION",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": [
@@ -811,8 +811,8 @@
   "5312": {
     "idNorma": 5312,
     "numero": "285",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SOBRE ORGANIZACION Y ATRIBUCIONES DE LA CORPORACION DE LA VIVIENDA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": [
@@ -835,8 +835,8 @@
   "5370": {
     "idNorma": 5370,
     "numero": "304",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA LA LEY ORGANICA DEL MINISTERIO DE RELACIONES\nEXTERIORES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-06",
     "modifica": [
       "287"
@@ -992,8 +992,8 @@
   "5494": {
     "idNorma": 5494,
     "numero": "352",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL D.F.L. N° 252, DE 1960",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1960-04-06",
     "modifica": [
       "252"
@@ -1037,8 +1037,8 @@
   "5546": {
     "idNorma": 5546,
     "numero": "383",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA TEXTO DE LA LEY ORGANICA DE LA DIRECCION\nGENERAL DE APROVISIONAMIENTO DEL ESTADO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": [
@@ -10497,6 +10497,33 @@
     "modificadaPor": [
       227730
     ]
+  },
+  "6831": {
+    "idNorma": 6831,
+    "numero": "2129",
+    "titulo": "REAJUSTA AVALUOS DE BIENES RAICES EN EL PORCENTAJE\nQUE SEÑALA Y SUSPENDE APLICACION ARTICULOS 25° Y 26° DE\nLA LEY N° 17.235",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-01-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6832": {
+    "idNorma": 6832,
+    "numero": "2136",
+    "titulo": "AUTORIZA COBRO DEL VALOR DE DOCUMENTOS QUE INDICA, PROPORCIONADOS POR LOS SERVICIOS PUBLICOS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-02-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6833": {
+    "idNorma": 6833,
+    "numero": "2137",
+    "titulo": "ESTABLECE NORMAS SOBRE RELIQUIDACION EXTRAORDINARIA\nDE PENSIONES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-02-24",
+    "modifica": [],
+    "modificadaPor": []
   },
   "6840": {
     "idNorma": 6840,
