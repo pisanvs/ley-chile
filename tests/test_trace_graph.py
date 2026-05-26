@@ -351,3 +351,146 @@ class TestBcnHelpers:
 
     def test_bcn_literal_missing(self):
         assert tg._bcn_literal({}, "missing") == ""
+
+
+# ---------------------------------------------------------------------------
+# _organismo_slug
+# ---------------------------------------------------------------------------
+
+class TestOrganismoSlug:
+    def test_normal(self):
+        assert tg._organismo_slug("Ministerio de Hacienda") == "ministerio-de-hacienda"
+
+    def test_empty_string(self):
+        assert tg._organismo_slug("") == "sin-organismo"
+
+    def test_special_chars(self):
+        assert tg._organismo_slug("Ministerio del Interior & Seguridad") == "ministerio-del-interior-seguridad"
+
+    def test_all_caps(self):
+        assert tg._organismo_slug("MINISTERIO DE EDUCACIÓN") == "ministerio-de-educaci-n"
+
+
+# ---------------------------------------------------------------------------
+# _dl_period_folder
+# ---------------------------------------------------------------------------
+
+class TestDlPeriodFolder:
+    def test_1924_period(self):
+        assert tg._dl_period_folder("1924-10-13") == "dl-1924"
+
+    def test_1926_period(self):
+        assert tg._dl_period_folder("1926-03-15") == "dl-1924"
+
+    def test_1932_period(self):
+        assert tg._dl_period_folder("1932-06-08") == "dl-1932"
+
+    def test_1973_period(self):
+        assert tg._dl_period_folder("1973-09-22") == "dl"
+
+    def test_1980_period(self):
+        assert tg._dl_period_folder("1980-01-01") == "dl"
+
+    def test_empty_fecha_pub_uses_promulgacion(self):
+        assert tg._dl_period_folder("", "1932-06-08") == "dl-1932"
+
+    def test_both_empty_defaults_to_dl(self):
+        assert tg._dl_period_folder("", "") == "dl"
+
+
+# ---------------------------------------------------------------------------
+# law_dir — DL period routing
+# ---------------------------------------------------------------------------
+
+class TestLawDirDl:
+    def test_dl_1924(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        result = tg.law_dir("22", "sustantiva", tipo="Decreto Ley", id_norma=5672, fecha="1924-10-13")
+        assert result == tmp_path / "dl-1924" / "22"
+
+    def test_dl_1932(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        result = tg.law_dir("2", "sustantiva", tipo="Decreto Ley", id_norma=5659, fecha="1932-06-08")
+        assert result == tmp_path / "dl-1932" / "2"
+
+    def test_dl_main(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        result = tg.law_dir("34", "sustantiva", tipo="Decreto Ley", id_norma=5683, fecha="1973-09-22")
+        assert result == tmp_path / "dl" / "34"
+
+    def test_dl_modificatoria(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        result = tg.law_dir("29", "modificatoria", tipo="Decreto Ley", id_norma=5679, fecha="1973-09-27")
+        assert result == tmp_path / "dl-modificaciones" / "29"
+
+    def test_dl_1932_modificatoria(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        result = tg.law_dir("3", "modificatoria", tipo="Decreto Ley", id_norma=5660, fecha="1932-06-10")
+        assert result == tmp_path / "dl-1932-modificaciones" / "3"
+
+    def test_dl_collision_suffix(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        # Create an existing dir with a different idNorma
+        existing = tmp_path / "dl" / "34"
+        existing.mkdir(parents=True)
+        (existing / "metadata.json").write_text(
+            json.dumps({"idNorma": 9999}), encoding="utf-8"
+        )
+        result = tg.law_dir("34", "sustantiva", tipo="Decreto Ley", id_norma=5683, fecha="1973-09-22")
+        assert result == tmp_path / "dl" / "34-5683"
+
+    def test_dl_no_collision_same_id(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        existing = tmp_path / "dl" / "34"
+        existing.mkdir(parents=True)
+        (existing / "metadata.json").write_text(
+            json.dumps({"idNorma": 5683}), encoding="utf-8"
+        )
+        result = tg.law_dir("34", "sustantiva", tipo="Decreto Ley", id_norma=5683, fecha="1973-09-22")
+        assert result == tmp_path / "dl" / "34"
+
+    def test_dl_fallback_promulgacion(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        result = tg.law_dir("11", "sustantiva", tipo="Decreto Ley", id_norma=5666,
+                             fecha="", fecha_promulgacion="1932-06-08")
+        assert result == tmp_path / "dl-1932" / "11"
+
+
+# ---------------------------------------------------------------------------
+# law_dir — DFL / Decreto routing
+# ---------------------------------------------------------------------------
+
+class TestLawDirDflDto:
+    def test_dfl_organismo(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        result = tg.law_dir("1", "sustantiva", tipo="DFL", id_norma=1001,
+                             fecha="2000-01-01", organismo="Ministerio de Hacienda")
+        assert result == tmp_path / "dfl" / "ministerio-de-hacienda" / "1"
+
+    def test_dto_organismo(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        result = tg.law_dir("100", "sustantiva", tipo="Decreto Supremo", id_norma=2001,
+                             fecha="2001-03-01", organismo="Ministerio del Interior")
+        assert result == tmp_path / "dto" / "ministerio-del-interior" / "100"
+
+    def test_dfl_modificatoria(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        result = tg.law_dir("3", "modificatoria", tipo="DFL", id_norma=1002,
+                             organismo="Ministerio de Educación")
+        assert result == tmp_path / "dfl-modificaciones" / "ministerio-de-educaci-n" / "3"
+
+    def test_dfl_no_organismo_fallback(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        result = tg.law_dir("5", "sustantiva", tipo="DFL", id_norma=1003)
+        assert result == tmp_path / "dfl" / "sin-organismo" / "5"
+
+    def test_dfl_collision_suffix(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(tg, "DATA_ROOT", tmp_path)
+        existing = tmp_path / "dfl" / "ministerio-de-hacienda" / "1"
+        existing.mkdir(parents=True)
+        (existing / "metadata.json").write_text(
+            json.dumps({"idNorma": 9998}), encoding="utf-8"
+        )
+        result = tg.law_dir("1", "sustantiva", tipo="DFL", id_norma=1001,
+                             organismo="Ministerio de Hacienda")
+        assert result == tmp_path / "dfl" / "ministerio-de-hacienda" / "1-1001"

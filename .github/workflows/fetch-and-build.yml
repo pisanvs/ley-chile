@@ -1,0 +1,160 @@
+name: Fetch and Build
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:
+    inputs:
+      version_budget:
+        description: "Max version-fetches per run (default: 20000)"
+        required: false
+        default: "20000"
+      notify_url:
+        description: "ntfy.sh webhook URL for completion notification"
+        required: false
+        default: ""
+      dry_run:
+        description: "Compute watermark but do not push historial"
+        type: boolean
+        required: false
+        default: false
+
+concurrency:
+  group: historial-write
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure git
+        run: |
+          git config user.name "ley-chile-bot"
+          git config user.email "bot@ley-chile"
+
+      # ── pipeline-cache worktree ──────────────────────────────────────────
+      - name: Set up pipeline-cache worktree
+        run: |
+          CODE_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          if git fetch origin pipeline-cache 2>/dev/null; then
+            git branch -f pipeline-cache origin/pipeline-cache
+            git worktree add cache pipeline-cache
+          else
+            git checkout --orphan pipeline-cache
+            git rm -rf . --quiet
+            git commit --allow-empty -m "init: pipeline-cache branch"
+            git push origin pipeline-cache
+            git checkout "$CODE_BRANCH"
+            git worktree add cache pipeline-cache
+          fi
+
+      # ── historial worktree ───────────────────────────────────────────────
+      - name: Set up historial worktree
+        run: |
+          CODE_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          if git fetch origin historial 2>/dev/null; then
+            git branch -f historial origin/historial
+            git worktree add historial historial
+          else
+            git checkout --orphan historial
+            git rm -rf . --quiet
+            git commit --allow-empty -m "init: historial branch"
+            git push origin historial
+            git checkout "$CODE_BRANCH"
+            git worktree add historial historial
+          fi
+
+      # ── Step 1: fill the cache ───────────────────────────────────────────
+      - name: Fetch versions into pipeline-cache
+        run: |
+          python scripts/fetch_versions.py \
+            --data-root . \
+            --cache-dir ./cache \
+            --version-budget ${{ github.event.inputs.version_budget || '20000' }} \
+            --verbose
+
+      - name: Commit and push pipeline-cache
+        run: |
+          git -C cache add -A
+          git -C cache diff --cached --quiet && echo "No new cache data" || (
+            git -C cache commit -m \
+              "cache: batch fetch $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for attempt in 1 2 3 4; do
+              git push origin pipeline-cache && break || sleep $((attempt * 3))
+            done
+          )
+
+      # ── Step 2: compute watermark ────────────────────────────────────────
+      - name: Compute watermark
+        id: watermark
+        run: |
+          python scripts/compute_watermark.py \
+            --graph-path ./graph.json \
+            --cache-dir ./cache \
+            --historial-dir ./historial \
+            --output-env
+
+      # ── Step 3: advance historial ────────────────────────────────────────
+      - name: Build historial window
+        if: |
+          steps.watermark.outputs.watermark_advanced == 'true' &&
+          github.event.inputs.dry_run != 'true'
+        run: |
+          python scripts/build_history.py \
+            --data-root . \
+            --cache-dir ./cache \
+            --append \
+            --from "${{ steps.watermark.outputs.W }}" \
+            --to   "${{ steps.watermark.outputs.D }}" \
+            --enrichers tramitacion
+
+      - name: Push historial
+        if: |
+          steps.watermark.outputs.watermark_advanced == 'true' &&
+          github.event.inputs.dry_run != 'true'
+        run: |
+          for attempt in 1 2 3 4; do
+            git push origin historial && break || sleep $((attempt * 3))
+          done
+
+      # ── Step 4: update README ────────────────────────────────────────────
+      - name: Update README status
+        run: |
+          python scripts/update_readme_status.py \
+            --readme README.md \
+            --graph-path ./graph.json \
+            --cache-dir ./cache \
+            --historial-dir ./historial
+
+      - name: Commit README
+        run: |
+          git add README.md
+          git diff --cached --quiet && echo "README unchanged" || (
+            git commit -m \
+              "chore: update pipeline status [skip ci]"
+            git push origin ${{ github.ref_name }}
+          )
+
+      # ── Notification ─────────────────────────────────────────────────────
+      - name: Notify completion
+        if: ${{ github.event.inputs.notify_url != '' }}
+        run: |
+          curl -s -X POST ${{ github.event.inputs.notify_url }} \
+            -H "Content-Type: application/json" \
+            -d "{\"title\": \"ley-chile fetch-and-build done\",
+                 \"message\": \"cache=${{ steps.watermark.outputs.cached_normas }}/${{ steps.watermark.outputs.total_normas }} watermark=${{ steps.watermark.outputs.D }}\"}" \
+            || true
