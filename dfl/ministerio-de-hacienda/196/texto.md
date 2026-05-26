@@ -1,18 +1,18 @@
 # Decreto con Fuerza de Ley N° 196
 FIJA EL ESTATUTO ORGANICO DEL SERVICIO MEDICO LEGAL
 **Publicada:** 1960-04-04
-**Versión:** 2000-09-28
+**Versión:** 2002-05-31
 FIJA EL ESTATUTO ORGANICO DEL SERVICIO MEDICO LEGAL Núm. 196.- Santiago, 25 de Marzo de 1960.- Vistas las facultades que me otorga el artículo 202 de la ley N.o 13,305, de 6 de Abril de 1959, dicto el siguiente Decreto con fuerza de ley: Téngase como texto legal orgánico del Servicio Médico Legal el siguiente:
 ## TITULO I Objeto y Funciones
 Artículo 1.o el Servicio Médico Legal dependerá del Ministerio de Justicia y se regirá por las disposiciones del presente decreto con fuerza de ley.
-Artículo 2.o El Servicio Médico Legal asesorará a los Tribunales de Justicia en materias médico-legales y colaborará con las Cátedras de Medicina Legal de las Universidades del país.
-Artículo 3.o Le corresponderá, especialmente, al Servicio Médico Legal: a) Emitir informes médico-legales a petición de los Tribunales de Justicia; b) Promover el desarrollo de la investigación científica en materias médico-legales; c) Colaborar con las Cátedras de Medicina Legal de las Universidades del país; d) Formar y mantener museos y colecciones de piezas y objetos relacionados con la Medicina Legal; y e) Las demás labores que le encomienden las leyes.
+Artículo 2.o El Servicio Médico Legal asesorará al Ministerio Público y a los Tribunales de Justicia en materias médico-legales y colaborará con las Cátedras de Medicina Legal de las Universidades del país.
+Artículo 3.o Le corresponderá, especialmente, al Servicio Médico Legal: a) Emitir informes médico-legales a petición del Ministerio Público y de los Tribunales de Justicia; b) Promover el desarrollo de la investigación científica en materias médico-legales; c) Colaborar con las Cátedras de Medicina Legal de las Universidades del país; d) Formar y mantener museos y colecciones de piezas y objetos relacionados con la Medicina Legal; y e) Las demás labores que le encomienden las leyes.
 ## TITULO II Organización y Atribuciones
 Artículo 4.o El Servicio Médico Legal estará integrado por los siguientes organismos: a) Dirección; b) Asesoría Jurídica; c) Instituto Médico Legal "Dr. Carlos Ibar"; y d) Servicios Médico Legales de cabeceras de provincias, departamentos y comunas.
 Artículo 5.o El Instituto Médico Legal comprenderá las siguientes Secciones: a) Clínica; b) Tanatología; c) Laboratorios; y d) Administrativa. Cada una de las tres primeras Secciones estará a cargo de un Jefe. Se considerará Jefe de la Sección Administrativa al Jefe del Personal.
 Artículo 6.o El Jefe más antiguo de la Sección Clínica o de Tanatología subrogará al Director del Servicio y, en su defecto, lo reemplazá el otro Jefe.
 Artículo 7.o Los Jefes de Sección tendrán jurisdicción nacional y de ellos dependerán los profesionales funcionarios respectivos.
-~~Artículo 8.o Los Médicos Legistas serán considerados como médicos de ciudad para los efectos de lo dispuesto en el artículo 224 del Código de Procedimiento Penal y demás disposiciones legales.~~
+~~Artículo 8.o DEROGADO~~
 Artículo 9.o A la Sección Clínica corresponderán todos los exámenes, tales como los de lesiones, psiquiatría, enfermedades comunes, accidentes del trabajo, enfermedades profesionales, sexología, evaluación de incapacidades, paternidad, abortos, violaciones y otros.
 Artículo 10.o A la Sección Tanatología corresponderán las pericias en cadáveres o restos humanos. De esta Sección dependerán las Salas de Autopsias y sus anexos, Museos Médico-Legales, Laboratorio de Histopatología, cámaras de conservación y exposición y Laboratorios de Fotografía e Identificación.
 Del Director
@@ -23,7 +23,7 @@ Artículo 13.o Serán obligaciones de los Jefes de Sección: a) Supervigilar la 
 Del Asesor Jurídico
 Artículo 14.o El Asesor Jurídico deberá ser abogado.
 ## TITULO III Disposiciones Generales
-~~Artículo 15.o El Fiscal de la Corte Suprema tendrá la supervigilancia de todo el Servicio Médico Legal y de sus empleados, en lo referente al esclarecimiento de los delitos y al cumplimiento de las órdenes periciales.~~
+~~Artículo 15.o DEROGADO~~
 Artículo 16.o El personal que preste sus servicios en el Servicio Médico Legal o en sus dependencias, estará obligado a guardar sigilo y será responsable, en conformidad a las leyes, si divulgare los hechos o los antecedentes de que tuviere conocimiento en razón de su empleo. En los casos en que los Tribunales de Justicia ordenen practicar reservadamente un examen médico-legal, sólo serán admitidas a presenciar la diligencia aquellas personas designadas por el Juez y no podrán ser utilizados sus resultados en la enseñanza sin previa autorización del Tribunal respectivo.
 Artículo 17.o Los Hospitales, Servicios de Asistencia Pública y demás establecimientos donde habitual o transitoriamente lleguen casos médico-legales, deberán otorgar las facilidades necesarias para el cumplimiento de las órdenes judiciales. En caso de que deban someterse a exámenes, o curaciones que no hagan necesaria la hospitalización, personas que se encuentren detenidas bajo la custodia de funcionarios de Carabineros o de la Policía de Investigaciones, el responsable del establecimiento arbitrará todas las medidas necesarias para que los exámenes o curaciones se efectúen en forma expedita.
 Artículo 18.o A pedido del profesor del ramo y previa orden del Director, los técnicos del Servicio Médico Legal le prestarán asistencia, facilitarán las demostraciones prácticas y seleccionarán el material útil para la enseñanza y museos.
