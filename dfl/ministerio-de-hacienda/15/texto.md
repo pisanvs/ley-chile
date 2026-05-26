@@ -1,0 +1,10 @@
+# Decreto con Fuerza de Ley N° 15
+PROYECTO DE MODIFICACIONES A LA ORDENANZA DE
+ADUANAS, CON MOTIVO DE LA DICTACION DEL NUEVO ARANCEL
+ADUANERO
+**Publicada:** 1967-01-05
+PROYECTO DE MODIFICACIONES A LA ORDENANZA DE ADUANAS, CON MOTIVO DE LA DICTACION DEL NUEVO ARANCEL ADUANERO Santiago, 2 de Enero de 1967.- Hoy se decretó lo que sigue: Núm. 15.- Vistos: las facultades que me confiere el inciso 1.o del artículo 187 de la ley N.o 16.464, publicada en el "Diario Oficial" de 25 de Abril de 1966, dicto el siguiente, Decreto:
+Artículo 1.o- Introdúcense en el DFL. N.o 213, de 1953, las siguientes modificaciones: a) Substitúyense las palabras "mercadería" e "internación", por "mercancía" e "importación", en todo el DFL.; b) Derógase la letra c) del artículo 39; c) Suprímese en la letra q) del artículo 41, la frase entre comas "con acuerdo de la Junta General"; d) Agrégase en el inciso 2.o del artículo 154, a continuación de la frase "si contiene diversas unidades y derechos" y después del punto seguido, la frase siguiente: "Sin embargo, si los datos para individualizar las mercancías fueren incompletos, pero se indicare el número de la partida, subpartida e ítem, según corresponda, se tendrá éste como complemento del pedido. En cualquier otro caso no se tomará en cuenta dicho número".; e) Substitúyese el inciso 3.o del artículo 166, por el siguiente: "Si antes de fallada una reclamación se dictare una ley o un reglamento o alguna regla arancelaria, asimilación o dictamen, que incidan en la materia controvertida y que sean o considere el interesado más favorables que los vigentes que deben aplicarse según las disposiciones de esta Ordenanza, el Superintendente de Aduanas deberá dictar conforme a ellos su resolución o fallo.".
+Artículo 2.o- Deróganse los artículos números 1 al 10 del decreto de Hacienda N.o 5.977, publicado en el "Diario Oficial" del 24 de Octubre de 1931.
+---
+Tómese razón, comuníquese y publíquese.- E. FREI M.- Sergio Molina S. Lo que transcribo a Ud. para su conocimiento.- Dios guarde a Ud.- Andrés Zaldívar Larraín, Subsecretario de Hacienda.
