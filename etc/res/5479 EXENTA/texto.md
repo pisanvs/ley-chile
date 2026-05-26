@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-Establécese las siguientes regulaciones de importación para plantas, estacas y ramillas de las siguientes especies: Corylus avellana, Punica granatum, Persea americana; procedentes Estados Unidos de Norteamérica, a condición de cumplir en lo general con las resoluciones del Servicio Agrícola y Ganadero Nº 3.280 de 1999, que establece requisitos para el ingreso de material vegetal en régimen de Cuarentena de Post-Entrada, y Nº 2.863 de 2001 que la complementa, y en lo particular con lo que se establece en la presente resolución:
+Establécese las siguientes regulaciones de importación para plantas, estacas y ramillas de las siguientes especies: Corylus avellana, Punica granatum, procedentes Estados Unidos de Norteamérica, a condición de cumplir en lo general con las resoluciones del Servicio Agrícola y Ganadero Nº 3.280 de 1999, que establece requisitos para el ingreso de material vegetal en régimen de Cuarentena de Post-Entrada, y Nº 2.863 de 2001 que la complementa, y en lo particular con lo que se establece en la presente resolución:
 
 1. El material, deberá venir amparado por un Certificado Fitosanitario del Departamento de Agricultura de Estados Unidos (USDA/APHIS), en el que consten los siguientes requisitos y declaraciones adicionales:
 
@@ -35,8 +35,6 @@ Especie/Tipo Declaración Adicional
 material de
 
 reproducción
-
-libre de los
 
 Avellano * Las plantas fueron
 
@@ -204,47 +202,7 @@ de acuerdo a análisis oficial
 
 de laboratorio.
 
-Palto * El material procede de
-
-(Persea plantas madres que han
-
-americana) sido inspeccionadas
-
-Plantas, durante el último
-
-ramillas período de crecimiento
-
-o estacas activo y analizadas
-
-utilizando indicadores
-
-adecuados o métodos
-
-equivalentes y
-
-encontradas libres
-
-de Avocado sunblotch
-
-viroid, indicando la
-
-técnica analítica
-
-utilizada en el
-
-diagnóstico de la plaga.
-
-* El material se encuentra libre
-
-de los siguientes artrópodos:
-
-### 1. Aonidiella orientalis
-
-(Hem. Diaspididae)
-
-### 2. Aleurocanthus woglumi
-
-(Hem. Aleyrodidae)
+yrodidae)
 
 ### 3. Aleurodicus spp
 
@@ -298,22 +256,6 @@ de los siguientes artrópodos:
 
 (Ac. Tetranychidae)
 
-* Adicionalmente en envíos
-
-de material con raíces,
-
-se debe indicar que se
-
-encuentran libres de
-
-Rotylenchulus reniformes,
-
-Radopholus similis,
-
-de acuerdo a análisis
-
-oficial de laboratorio.
-
 . Arándano (Vaccinium corymbosum)
 
 . Palto (Persea americana).
@@ -324,7 +266,7 @@ oficial de laboratorio.
 
 * Libre de suelo y desprovisto de flores y restos de frutos.
 
-* Adicionalmente, los materiales de Persea americana, Punica granatum y Corylus avellana, deberán venir desprovistos de hojas.
+* Adicionalmente, los materiales de Punica granatum y Corylus avellana, deberán venir desprovistos de hojas.
 
 * Embalados en envases cerrados, resistentes a la manipulación y factibles de sellar.
 
