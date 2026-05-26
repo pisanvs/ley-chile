@@ -57,9 +57,9 @@
   },
   "1984": {
     "idNorma": 1984,
-    "numero": "penal",
-    "titulo": "",
-    "clasificacion": "",
+    "numero": "PENAL",
+    "titulo": "CÓDIGO PENAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1874-11-12",
     "modifica": [],
     "modificadaPor": [
@@ -951,8 +951,8 @@
   "5009": {
     "idNorma": 5009,
     "numero": "196",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL ESTATUTO ORGANICO DEL SERVICIO MEDICO LEGAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-04",
     "modifica": [
       "646"
@@ -1259,8 +1259,8 @@
   "5328": {
     "idNorma": 5328,
     "numero": "290",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "LEY ORGANICA DE LA EMPRESA PORTUARIA DE CHILE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-06",
     "modifica": [],
     "modificadaPor": [
@@ -1527,8 +1527,8 @@
   "5654": {
     "idNorma": 5654,
     "numero": "7912",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DECRETO QUE ORGANIZA LAS SECRETARIAS DEL ESTADO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1927-12-05",
     "modifica": [],
     "modificadaPor": [
@@ -11570,11 +11570,38 @@
       7210
     ]
   },
+  "6852": {
+    "idNorma": 6852,
+    "numero": "2203",
+    "titulo": "ESTABLECE NORMAS RELACIONADAS CON LA COMPOSICION Y FUNCIONAMIENTO DEL CONSEJO DE LA CAJA DE PREVISION DE LA DEFENSA NACIONAL",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-05-30",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6853": {
+    "idNorma": 6853,
+    "numero": "2205",
+    "titulo": "DICTA NORMAS SOBRE CONSTRUCCIONES DE EDIFICIOS\nESCOLARES POR CUENTA DEL FISCO, POR LA SOCIEDAD\nCONSTRUCTORA DE ESTABLECIMIENTOS EDUCACIONALES Y LA\nFACULTA PARA ENTREGAR INMUEBLES EN COMODATO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-06-09",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6854": {
+    "idNorma": 6854,
+    "numero": "2221",
+    "titulo": "ACLARA ALCANCES ARTICULO 67 DE LA LEY N° 16.640",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-05-20",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6855": {
     "idNorma": 6855,
     "numero": "2222",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE LEY DE NAVEGACION",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-05-31",
     "modifica": [
       "DE COMERCIO"
@@ -11584,8 +11611,8 @@
   "6856": {
     "idNorma": 6856,
     "numero": "2223",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DETERMINA NORMAS DE CARACTER PRESUPUESTARIO,\nFINANCIERO Y DE PERSONAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-05-25",
     "modifica": [
       "2053",
@@ -11595,15 +11622,105 @@
     ],
     "modificadaPor": []
   },
+  "6857": {
+    "idNorma": 6857,
+    "numero": "2224",
+    "titulo": "CREA EL MINISTERIO DE ENERGÍA Y LA COMISION NACIONAL DE ENERGÍA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-06-08",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6858": {
+    "idNorma": 6858,
+    "numero": "2225",
+    "titulo": "BONIFICA LA INVERSION O REINVERSION EN LA\nCONSTRUCCION DE CAMINOS Y PUENTES, EN LA I REGION, XI\nREGION, INCLUIDA LA PROVINCIA DE CHILOE, Y XII REGION",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-06-09",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6859": {
+    "idNorma": 6859,
+    "numero": "2227",
+    "titulo": "TRASPASA ATENCION MEDICA Y DENTAL DE LA JUNTA\nNACIONAL DE AUXILIO ESCOLAR Y BECAS AL SERVICIO NACIONAL\nDE SALUD",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-06-09",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6860": {
+    "idNorma": 6860,
+    "numero": "2230",
+    "titulo": "RENUEVA LA VIGENCIA DEL DECRETO LEY NUMERO 388, DE\n1974, SOBRE SUSPENSION DE INCOMPATIBILIDAD QUE INDICA A\nOFICIALES JUBILADOS DE LA MARINA MERCANTE NACIONAL",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-06-06",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6861": {
+    "idNorma": 6861,
+    "numero": "2231",
+    "titulo": "INCORPORA AL DIRECTOR DE LA BIBLIOTECA DEL CONGRESO NACIONAL AL CONSEJO DE LA EDITORIAL JURIDICA DE CHILE",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-06-06",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6862": {
     "idNorma": 6862,
     "numero": "2237",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE EN EL ARTICULO 140° DEL TEXTO REFUNDIDO,\nCOORDINADO Y SISTEMATIZADO DEL ESTATUTO DEL PERSONAL DE\nLAS FUERZAS ARMADAS, FIJADO POR DECRETO DE GUERRA N° 14,\nDE 1977, EL INCISO FINAL Y LA TABLA DE PORCENTAJES QUE\nINDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-06-10",
     "modifica": [
       "1"
     ],
+    "modificadaPor": []
+  },
+  "6863": {
+    "idNorma": 6863,
+    "numero": "2238",
+    "titulo": "CREA FONDOS PARA LA COMISION ORGANIZADORA DE LA IX\nREUNION DEL CONSEJO INTERAMERICANO PARA LA EDUCACION, LA\nCIENCIA Y LA CULTURA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-06-15",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6864": {
+    "idNorma": 6864,
+    "numero": "2239",
+    "titulo": "ESTABLECE NORMAS SOBRE ASIGNACION POR LA\nCONTRATACION ADICIONAL DE MANO DE OBRA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-06-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6866": {
+    "idNorma": 6866,
+    "numero": "2243",
+    "titulo": "CONCEDE NUEVO PLAZO A PERSONAS QUE INDICA PARA\nACOGERSE A LOS BENEFICIOS DEL ARTICULO 3° DEL DECRETO\nLEY N° 1.582, DE 1976",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-07-01",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6867": {
+    "idNorma": 6867,
+    "numero": "2244",
+    "titulo": "HACE EXTENSIVO EL BENEFICIO DE ASIGNACION DE ZONA\nQUE INDICA A TODO EL PERSONAL QUE SE DESEMPEÑA EN LAS\nLOCALIDADES QUE SEÑALA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-06-24",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6868": {
+    "idNorma": 6868,
+    "numero": "2245",
+    "titulo": "INTRODUCE MODIFICACIONES AL DECRETO LEY N° 1.757, DE\n1977, Y CONCEDE NUEVOS PLAZOS Y BENEFICIOS A LOS\nMIEMBROS DEL CUERPO DE BOMBEROS Y A SUS FAMILIARES",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-06-29",
+    "modifica": [],
     "modificadaPor": []
   },
   "6870": {
