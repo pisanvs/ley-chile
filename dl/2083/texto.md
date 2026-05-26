@@ -1,7 +1,8 @@
 # Decreto Ley N° 2083
 PRORROGA VIGENCIA DISPOSICIONES DECRETOS LEYES N° 231, DE 1973, Y 994, DE 1975.-
 **Publicada:** 1977-12-30
-PRORROGA VIGENCIA DISPOSICIONES DECRETOS LEYES N° 231, DE 1973, Y 994, DE 1975 Núm. 2.083.- Santiago, 28 de Diciembre de 1977.- Visto: lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+**Versión:** 1990-01-16
+PRORROGA VIGENCIA DISPOSICIONES DECRETOS LEYES N° 231, DE 1973, Y 994, DE 1975.- DEROGADO. Núm. 2.083.- Santiago, 28 de Diciembre de 1977.- Visto: lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
 Artículo 1°- Sustitúyese en el artículo 10 del decreto ley N° 231, de 1973, modificado por el artículo 1° del decreto ley N° 1.579, de 1976, la expresión "1976" por "1977".
 Artículo 2°- Prorróganse hasta el 31 de Diciembre de 1978, las facultades conferidas a la Caja Central de Ahorros y Préstamos por el decreto ley N° 974, de 1975, y renovadas por los decretos leyes N° 1.405, de 1976, y 1.755, de 1977. Respecto de las atribuciones que señala el artículo 2° del decreto ley N° 974, de 1975, ellas se entenderán referidas a las operaciones realizadas por las Asociaciones de Ahorro y Préstamo en el período que finaliza el 31 de Diciembre de 1977.
 ---
