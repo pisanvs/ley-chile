@@ -1,0 +1,10 @@
+# Decreto Ley N° 2090
+FACULTA TRANSITORIAMENTE AL DIRECTOR DE LA DIRECCION
+DE PREVISION DE CARABINEROS DE CHILE PARA PROVEER LOS
+EMPLEOS VACANTES DE LA PLANTA ESPECIAL A QUE SE REFIERE
+EL ARTICULO 15 DEL DECRETO LEY N° 844, DE 1975
+**Publicada:** 1977-12-31
+FACULTA TRANSITORIAMENTE AL DIRECTOR DE LA DIRECCION DE PREVISION DE CARABINEROS DE CHILE PARA PROVEER LOS EMPLEOS VACANTES DE LA PLANTA ESPECIAL A QUE SE REFIERE EL ARTICULO 15 DEL DECRETO LEY N° 844, DE 1975 Santiago, 28 de Diciembre de 1977.- S. E., el Presidente de la República de Chile ha ordenado hoy promulgar lo siguiente: Núm. 2.090.- Visto: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Modifícase el decreto ley N° 844, de 1975, que creó la Dirección de Previsión de Carabineros de Chile, en la siguiente forma: a) Sustitúyese el título "Artículo transitorio" por "Artículos transitorios", y b) Agrégase como artículo 2° transitorio, el siguiente: "Artículo 2°.- Facúltase al Director de la Dirección de Previsión de Carabineros de Chile para proveer los empleos vacantes de la planta especial a que se refiere el artículo 15, conforme a las normas del decreto con fuerza de ley N° 338, de 1960, mientras no se implemente el sistema establecido en el artículo 16.".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en el Boletín Oficial de Carabineros de Chile y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General Director de Carabineros.- Herman Brady Roche, General de División, Ministro de Defensa Nacional. Lo que transcribo a Ud. para su conocimiento.- Hosman A. Pérez Sepúlveda, Coronel de Carabineros, Subsecretario de Carabineros MDN.
