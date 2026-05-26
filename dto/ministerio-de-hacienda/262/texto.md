@@ -1,7 +1,7 @@
 # Decreto N° 262
 APRUEBA EL REGLAMENTO DE VIATICOS PARA EL PERSONAL DE LA ADMINISTRACION PUBLICA
 **Publicada:** 1977-05-03
-**Versión:** 1981-01-08
+**Versión:** 1984-12-28
 APRUEBA REGLAMENTO DE VIATICOS Núm. 262.- Santiago, 4 de Abril de 1977.- Vistos: lo dispuesto en el artículo 11 del decreto ley N° 1.608, de 1976, Decreto:
 Artículo 1°.- Los trabajadores del sector público que en su carácter de tales y por razones de servicio deban ausentarse del lugar de su desempeño habitual, dentro del territorio de la República, tendrán derecho a percibir un subsidio, que se denominará viático, para los gastos de alojamiento y alimentación en que incurrieren, el que no será considerado sueldo para ningún efecto legal.
 Artículo 2°.- El sistema de viáticos contenido en este reglamento se aplicará a todos los trabajadores de los servicios de la Administración Pública; organismos o instituciones fiscales, semifiscales o autónomas; empresas, sociedades e instituciones del Estado, centralizadas o descentralizadas; municipalidades, sociedades o instituciones municipales y, en general, de la administración del Estado, tanto central como descentralizada, y de aquellas empresas, sociedades y entidades públicas y privadas en que el Estado o sus empresas, sociedades o instituciones, centralizadas o descentralizadas, tengan aporte de capital mayoritario o en igual proporción, participación o representación. No obstante, seguirán regidas por las normas especiales establecidas o que se establezcan para ellos, los trabajadores de la Empresa de los Ferrocarriles del Estado y el personal que se desempeñe en los trabajos de terreno en zona declarada fronteriza o en territorio extranjero aledaño al límite internacional, de acuerdo a lo dispuesto en el inciso final del artículo 10° del decreto ley N° 249, de 1974, y en el artículo 5° del decreto ley N° 786, de 1974.
@@ -16,6 +16,6 @@ Artículo 10°: La autoridad que ordena la comisión o cometido calificará las 
 Artículo 11°: No obstante las funciones fiscalizadoras de la Contraloría General de la República, las autoridades que dispusieren comisiones con derecho a viáticos estarán obligadas a velar por el fiel cumplimiento de las normas contenidas en el presente decreto y, en general, de la adecuada justificación de dichas comisiones o cometidos. Igual obligación corresponderá a los funcionarios que se desempeñen en calidad de visitadores, inspectores o que, en general, ejerzan fiscalización sobre el desempeño de los servicios y organismos del Estado.
 Artículo 12°: El trabajador que percibiere viáticos indebidamente, estará obligado a reintegrar de inmediato las sumas así percibidas. Será solidariamente responsable del reintegro la autoridad que dispusiere la comisión. Lo establecido en el inciso anterior es sin perjuicio de la responsabilidad administrativa del trabajador y de la autoridad respectiva.
 ARTICULO 13°.- DEROGADO
-Artículo 14°: Por decreto supremo del Ministerio de Hacienda, podrán modificarse los porcentajes que determinan los montos de los viáticos fijados en este Reglamento.
+ARTICULO 14°.- Por decreto supremo del Ministerio de Hacienda podrán modificarse los tramos, grados y porcentajes que determinan los montos de los viáticos fijados en este reglamento.
 ---
 Tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE.- Sergio de Castro.
