@@ -1,7 +1,8 @@
 # Decreto con Fuerza de Ley N° 221
 NAVEGACION AEREA
 **Publicada:** 1931-05-30
-Núm. 221.- Santiago, 15 de Mayo de 1931.- En uso de las facultades que me confiere la ley número 4,945 de 6 de Febrero del presente año: Decreto: El texto definitivo del decreto-ley número 675 de 17 de Octubre de 1925 sobre navegación aérea con las adiciones y modificaciones que ahora se introducen será el siguiente:
+**Versión:** 1990-02-08
+D.F.L. N° 221, MIN. INTERIOR, 1931 D E R O G A D O Navegación Aérea (Publicado en el Diario Oficial N° 15.984, de 30 de Mayo de 1931) Núm. 221.- Santiago, 15 de Mayo de 1931.- En uso de las facultades que me confiere la Ley número 4,945, de 6 de Febrero del presente año, Decreto: El texto definitivo del Decreto-Ley número 675, de 17 de Octubre de 1925, sobre navegación aérea con las adiciones y modificaciones que ahora se introducen será el siguiente:
 ## ~~TITULO I De las aeronaves~~
 ~~Artículo 1°. Para los efectos de la aplicación del presente decreto-ley se considera como aeronave todo aparato capaz de elevarse o de circular en la atmósfera.~~
 ~~Art. 2. Las aeronaves, ya sean del tipo más ligero que el aire o del más pesado, se subdividirán en privadas y del Estado. Se consideran como del Estado: a) Las aeronaves militares, o tripuladas por un militar comisionado al efecto. b) Las aeronaves exclusivamente afectas a un servicio del Estado, como Correos, Aduana, Policía, etc. Las demás aeronaves son privadas, y se subdividen en particulares y comerciales. Son comerciales todas las aeronaves privadas dedicadas a comerciar con el tráfico de pasajeros, mercaderías o correspondencia, ya sea en servicio regular o eventual.~~
