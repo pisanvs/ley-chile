@@ -32,15 +32,105 @@ jobs:
           git config user.name "ley-chile-bot"
           git config user.email "bot@ley-chile"
 
+      # ── pipeline-cache worktree ──────────────────────────────────────────────
+      # All norma JSON files land in ./cache/normas/ (inside the worktree) and
+      # are automatically staged on the next commit step.
+      - name: Set up pipeline-cache worktree
+        run: |
+          CODE_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          if git fetch origin pipeline-cache 2>/dev/null; then
+            git worktree add cache pipeline-cache
+          else
+            git checkout --orphan pipeline-cache
+            git rm -rf . --quiet
+            git commit --allow-empty -m "init: pipeline-cache branch"
+            git push origin pipeline-cache
+            git checkout "$CODE_BRANCH"
+            git worktree add cache pipeline-cache
+          fi
+
+      # ── Restore cross-run state from pipeline-cache ──────────────────────────
+      # catalog.json, graph.json, and progress.json live in the pipeline-cache
+      # branch so they survive across separate workflow runs.
+      - name: Restore state from pipeline-cache
+        run: |
+          cp ./cache/catalog.json            . 2>/dev/null && echo "Restored catalog.json"             || echo "No catalog.json in cache — will fetch fresh"
+          cp ./cache/graph.json              . 2>/dev/null && echo "Restored graph.json"               || echo "No graph.json in cache — will build fresh"
+          cp ./cache/fetch_normas_progress.json . 2>/dev/null && echo "Restored fetch_normas_progress.json" || echo "No progress file in cache"
+
+      # ── Step 1: build / refresh catalog ─────────────────────────────────────
+      # build_catalog.py skips automatically if catalog.json is complete and
+      # younger than 7 days (restored from cache above).  On first run it fetches
+      # ~358k entries from BCN SPARQL (~4h 10min); subsequent runs finish in <1s.
       - name: Build catalog
         run: python scripts/build_catalog.py --data-root .
 
+      # Persist catalog to pipeline-cache immediately so the next run can skip it.
+      - name: Save catalog to pipeline-cache
+        run: |
+          cp catalog.json ./cache/catalog.json
+          git -C cache add catalog.json
+          if git -C cache diff --cached --quiet; then
+            echo "catalog.json unchanged"
+          else
+            git -C cache commit -m "cache: catalog.json $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for i in 1 2 3; do git push origin pipeline-cache && break || sleep $((i * 3)); done
+          fi
+
+      # ── Step 2: fetch norma metadata → graph.json ────────────────────────────
+      # fetch_normas.py reads catalog.json, skips any idNorma whose JSON file
+      # already exists in ./cache/normas/ (pipeline-cache worktree), and fetches
+      # the rest.  graph.json and progress.json are saved at the workspace root
+      # every 50 completions so they're ready for the save step below.
       - name: Fetch normas graph
         run: python scripts/fetch_normas.py --data-root .
 
-      - name: Commit graph.json and catalog.json
+      # ── Step 3: persist normas progress ─────────────────────────────────────
+      # Runs even when the job is cancelled (e.g. 6-hour wall-clock timeout) so
+      # partially-fetched norma JSON files aren't lost between runs.
+      # The norma files themselves are already inside the ./cache/ worktree;
+      # only graph.json and the progress sidecar need an explicit copy.
+      - name: Save normas progress to pipeline-cache
+        if: always()
         run: |
-          git add graph.json catalog.json
-          git diff --cached --quiet && echo "No changes to graph" && exit 0
-          git commit -m "chore: update graph.json and catalog.json"
-          git push origin ${{ github.ref_name }}
+          cp graph.json               ./cache/graph.json               2>/dev/null || true
+          cp fetch_normas_progress.json ./cache/fetch_normas_progress.json 2>/dev/null || true
+          git -C cache add -A
+          if git -C cache diff --cached --quiet; then
+            echo "No new normas progress to save"
+          else
+            git -C cache commit -m "cache: normas progress $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for i in 1 2 3; do git push origin pipeline-cache && break || sleep $((i * 3)); done
+          fi
+
+      # ── Step 4: publish graph.json to main when complete ────────────────────
+      # Only commits to the code branch once every norma in the catalog has been
+      # fetched (graph node count ≥ 95% of catalog entries and catalog is marked
+      # complete).  fetch-and-build.yml reads graph.json from the code branch, so
+      # this is the step that unblocks it.
+      - name: Commit graph.json and catalog.json to main
+        run: |
+          python - <<'PYEOF'
+          import json, os, sys
+          if not os.path.exists("graph.json") or not os.path.exists("catalog.json"):
+              print("graph.json or catalog.json missing — skipping main commit")
+              sys.exit(0)
+          g = json.loads(open("graph.json").read())
+          raw = json.loads(open("catalog.json").read())
+          entries = raw if isinstance(raw, list) else raw.get("entries", [])
+          catalog_complete = raw.get("complete", False) if isinstance(raw, dict) else True
+          done, total = len(g), len(entries)
+          print(f"graph: {done}/{total} nodes, catalog_complete={catalog_complete}")
+          if catalog_complete and done >= total * 0.95:
+              open(".graph_ready", "w").write("1")
+              print("Graph is ready — will commit to main")
+          else:
+              print(f"Graph not yet ready ({done}/{total}) — skipping main commit")
+          PYEOF
+          if [ -f .graph_ready ]; then
+            git add graph.json catalog.json
+            git diff --cached --quiet && echo "No changes to graph.json/catalog.json" || (
+              git commit -m "chore: update graph.json and catalog.json"
+              git push origin "${{ github.ref_name }}"
+            )
+          fi
