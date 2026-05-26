@@ -1,7 +1,8 @@
 # Decreto con Fuerza de Ley N° 179
 FIJA NORMAS POR LAS QUE SE REGIRA EL SERVICIO DE;TESORERIA
 **Publicada:** 1960-04-05
-FIJA NORMAS POR LAS QUE SE REGIRA EL SERVICIO DE TESORERIA Núm. 179.- Santiago, 22 de Marzo de 1960.- En uso de las facultade que me confiere la ley N° 13,305, publicada en el "Diario Oficial" de 6 de Abril de 1959, vengo en dictar el siguiente Decreto con fuerza de ley:
+**Versión:** 1963-07-02
+FIJA NORMAS POR LAS QUE SE REGIRA EL SERVICIO DE TESORERIA Núm. 179.- Santiago, 22 de Marzo de 1960.- En uso de las facultades que me confiere la ley N° 13,305, publicada en el "Diario Oficial" de 6 de Abril de 1959, vengo en dictar el siguiente Decreto con fuerza de ley:
 ## ~~TITULO I Objeto~~
 ~~Artículo 1° El Servicio de Tesorería dependerá del Ministerio de Hacienda, y estará encargado de recaudar, custodiar y distribuir los fondos y valores fiscales, municipales y, en general, los de todos los Servicios Públicos.~~
 ## ~~TITULO II Funciones~~
