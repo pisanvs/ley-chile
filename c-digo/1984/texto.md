@@ -472,14 +472,14 @@ ART. 372 BIS. El que con motivo u ocasión de violación o de sodomía, causare,
 ### § VIII. De los ultrajes públicos a las buenas costumbres.
 ART. 373. Los que de cualquier modo ofendieren el pudor o las buenas costumbres con hechos de grave escándalo o trascendencia, no comprendidos expresamente en otros artículos de este Código, sufrirán la pena de reclusión menor en sus grados mínimo a medio.
 ART. 374. El que vendiere, distribuyere o exhibiere canciones, folletos u otros escritos, impresos o no, figuras o estampas contrarios a las buenas costumbres, será condenado a las penas de reclusión menor en su grado mínimo y multa de seis a diez sueldos vitales. En las mismas penas incurrirá el autor del manuscrito, de la figura o de la estampa o el que los hubiere reproducido por un procedimiento cualquiera que no sea la imprenta.
-### § IX. Del adulterio.
-ART. 375. El adulterio será castigado con la pena de reclusión menor en cualquiera de sus grados. Cometen adulterio la mujer casada que yace con varón que no sea su marido y el que yace con ella sabiendo que es casada, aunque después se declare nulo el matrimonio.
-~~ART. 376. No se impondrá, pena por delito de adulterio sino en virtud de querella del marido. La querella deberá, precisamente iniciarse contra ambos culpables, si uno y otro vivieren; pero en el caso de haber fallecido alguno de ellos o de fallecer después de iniciado el juicio, podrá el ofendido entablarla o continuarla contra el sobreviviente.~~
-~~ART. 377. La acción de adulterio prescribe en un año, que principiará a correr desde el día en que el ofendido tuvo noticia del delito; pero en caso de muerte de uno de los culpables, deberá iniciarse en los cuatro meses siguientes a ésta, siempre que este plazo se halle comprendido dentro del año en que, por regla general, prescribe la acción. En ningún caso podrá entablarse acción de adulterio después de cinco años, contados desde que se cometió el delito.~~
-~~ART. 378. Tampoco podrá entablarse acción de adulterio en caso de divorcio perpetuo, por los actos ejecutados mientras éste subsista.~~
-~~ART. 379. El marido podrá en cualquier tiempo suspender el procedimiento o remitir la pena impuesta a su consorte volviendo a unirse con ella, extendiéndose al cómplice los efectos de la suspensión o remisión.~~
-~~ART. 380. La ejecutoria en causa de divorcio por adulterio surtirá sus efectos plenamente en lo penal, cuando fuere absolutoria. Si fuere condenatoria, será necesario, nuevo juicio para la imposición de las penas.~~
-~~ART. 381. El marido que tuviere manceba dentro de la casa conyugal, o fuera de ella con escándalo, será castigado con reclusión menor en su grado mínimo, y perderá el derecho de acusar a su mujer por los adulterios cometidos durante su amancebamiento. La manceba sufrirá la pena de destierro en cualquiera de sus grados. Lo dispuesto en los artículos 376, 377, 378 y 379 es aplicable al presente.~~
+### LEY 19335 § IX. Art. 34 D.O. 23.09.1994 Del adulterio. Derogado.
+ART. 375. Derogado.
+~~ART. 376. Derogado.~~
+~~ART. 377. Derogado.~~
+~~ART. 378. Derogado.~~
+~~ART. 379. Derogado.~~
+~~ART. 380. Derogado.~~
+~~ART. 381. Derogado.~~
 ### § X. Celebración de matrimonios ilegales.
 ART. 382. El que contrajere matrimonio estando casado válidamente, será castigado con reclusión menor en su grado máximo. En igual pena incurrirá el que contrajere matrimonio estando ordenado in sacris o ligado con voto solemne de castidad.
 ART. 383. El que engañare a una persona simulando la celebración de matrimonio con ella y el que lo contrajere a sabiendas de que tiene un impedimento dirimente no dispensable según la ley, sufrirá la pena de reclusión menor en sus grados medio a máximo. Si el impedimento fuere dispensable, incurrirá en una multa de once a veinte sueldos vitales. Cuando por culpa suya no se revalidare el matrimonio, previa dispensa, en el término que el tribunal designe, será castigado con reclusión menor en su grado medio, de la cual quedará relevado cuando se revalide el matrimonio.
