@@ -1,6 +1,7 @@
 # Decreto con Fuerza de Ley N° 196
 FIJA EL ESTATUTO ORGANICO DEL SERVICIO MEDICO LEGAL
 **Publicada:** 1960-04-04
+**Versión:** 2000-09-28
 FIJA EL ESTATUTO ORGANICO DEL SERVICIO MEDICO LEGAL Núm. 196.- Santiago, 25 de Marzo de 1960.- Vistas las facultades que me otorga el artículo 202 de la ley N.o 13,305, de 6 de Abril de 1959, dicto el siguiente Decreto con fuerza de ley: Téngase como texto legal orgánico del Servicio Médico Legal el siguiente:
 ## TITULO I Objeto y Funciones
 Artículo 1.o el Servicio Médico Legal dependerá del Ministerio de Justicia y se regirá por las disposiciones del presente decreto con fuerza de ley.
@@ -24,7 +25,7 @@ Artículo 14.o El Asesor Jurídico deberá ser abogado.
 ## TITULO III Disposiciones Generales
 ~~Artículo 15.o El Fiscal de la Corte Suprema tendrá la supervigilancia de todo el Servicio Médico Legal y de sus empleados, en lo referente al esclarecimiento de los delitos y al cumplimiento de las órdenes periciales.~~
 Artículo 16.o El personal que preste sus servicios en el Servicio Médico Legal o en sus dependencias, estará obligado a guardar sigilo y será responsable, en conformidad a las leyes, si divulgare los hechos o los antecedentes de que tuviere conocimiento en razón de su empleo. En los casos en que los Tribunales de Justicia ordenen practicar reservadamente un examen médico-legal, sólo serán admitidas a presenciar la diligencia aquellas personas designadas por el Juez y no podrán ser utilizados sus resultados en la enseñanza sin previa autorización del Tribunal respectivo.
-Artículo 17.o Los Hospitales, Servicios de Asistencia Pública y demás establecimientos donde habitual o transitoriamente lleguen casos médico-legales, deberán otorgar las facilidades necesarias para el cumplimiento de las órdenes judiciales.
+Artículo 17.o Los Hospitales, Servicios de Asistencia Pública y demás establecimientos donde habitual o transitoriamente lleguen casos médico-legales, deberán otorgar las facilidades necesarias para el cumplimiento de las órdenes judiciales. En caso de que deban someterse a exámenes, o curaciones que no hagan necesaria la hospitalización, personas que se encuentren detenidas bajo la custodia de funcionarios de Carabineros o de la Policía de Investigaciones, el responsable del establecimiento arbitrará todas las medidas necesarias para que los exámenes o curaciones se efectúen en forma expedita.
 Artículo 18.o A pedido del profesor del ramo y previa orden del Director, los técnicos del Servicio Médico Legal le prestarán asistencia, facilitarán las demostraciones prácticas y seleccionarán el material útil para la enseñanza y museos.
 Artículo 19.o Las normas establecidas por la ley N.o 10,223, para los ascensos, se aplicarán a los concursos de ingreso de profesionales funcionarios.
 Artículo 20.o El Presidente de la República podrá, cuando las necesidades del Servicio lo requieran, dividir o refundir los cargos vacantes de Médicos o de Químicos Farmacéuticos Legistas en cargos con el número de horas diarias de trabajo que fueren necesarias.
