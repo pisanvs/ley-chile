@@ -2,6 +2,7 @@
 APRUEBA ESTATUTO ORGANICO DEL SERVICIO DE ADUANAS Y
 MODIFICA ORDENANZA GENERAL DE ADUANAS
 **Publicada:** 1963-09-12
+**Versión:** 1991-02-14
 APRUEBA ESTATUTO ORGANICO DEL SERVICIO DE ADUANAS Y MODIFICA ORDENANZA GENERAL DE ADUANAS Santiago, 15 de Febrero de 1963.- Hoy se decretó lo que sigue: Decreto supremo N° 8.- Vistas las facultades que me confiere el Art. 1° de la ley N° 15,078, de 18 de Diciembre de 1962, el Art. 7° del DFL N° 290, de 1960 y el Art. 72° de la Constitución Política del Estado, dicto el siguiente DECRETO que aprueba el Estatuto Orgánico del Servicio de Aduanas y modifica la Ordenanza General de Aduanas,
 Artículo 1°.- Reemplázase en el texto del DFL. N° 213, de 22 de Julio de 1953 y sus modificaciones posteriores, el Título Preliminar y los Títulos I al VI del Libro I, por los siguientes:
 ## TITULO PRELIMINAR 1.- De la Potestad de la Aduana
