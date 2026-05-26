@@ -1,7 +1,7 @@
 # Decreto Ley N° 2079
 FIJA TEXTO DE LA LEY ORGANICA DEL BANCO DEL ESTADO DE CHILE
 **Publicada:** 1978-01-18
-**Versión:** 1988-12-29
+**Versión:** 1989-10-10
 FIJA TEXTO DE LA LEY ORGANICA DEL BANCO DEL ESTADO DE CHILE Núm. 2.079.- Santiago, 16 de Diciembre de 1977.- Visto: lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley: Fíjase el siguiente texto de la Ley Orgánica del Banco del Estado de Chile:
 ## TITULO I Naturaleza, objeto, capital y domicilio
 Artículo 1°- El Banco del Estado de Chile es una empresa autónoma del Estado, con personalidad jurídica y patrimonio propio, de duración indefinida, sometida exclusivamente a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras, que se relacionará con el Gobierno a través del Ministerio de Hacienda.
@@ -56,7 +56,7 @@ Artículo 40°- Las relaciones de los trabajadores del Banco con la empresa se r
 Artículo 41°- La relación laboral entre el Banco y su personal tendrá su origen en el nombramiento decretado por autoridad competente de la empresa. Incorporado al Banco, el personal tendrá obligación de prestar servicios en cualquiera de sus oficinas o agencias, salvo estipulación expresa en contrario.
 Artículo 42.- Facúltase al Presidente de la República para que, por decreto expedido a través del Ministerio de Hacienda y a proposición del Comité Ejecutivo, por conducto del Consejo Directivo, fije la Planta del Personal del Banco. El sistema de remuneraciones del personal, sus beneficios, gratificaciones, incentivos o estipendios de cualquier naturaleza y las modificaciones que correspondan, serán aprobados por el Consejo Directivo.
 Artículo 43°- Las personas designadas por el Presidente de la República para desempeñar cargos de su confianza exclusiva en el Banco del Estado, podrán optar, dentro del término de 60 días, contado desde la fecha en que asuman sus funciones, por el régimen previsional a que se hallaren acogidos al momento de su designación o afiliarse a la Caja de Previsión y Estímulo de los Empleados del Banco del Estado de Chile. Las imposiciones correspondientes al empleador serán integradas por el Banco del Estado en el instituto previsional que corresponda, de acuerdo con la opción a que se hubieren acogido dichos funcionarios.
-Artículo 44°- Los miembros del Consejo y el personal del Banco sólo podrán tener créditos en la empresa en los términos que reglamente el Consejo Monetario y dentro de las limitaciones de la Ley General de Bancos.
+Artículo 44.- Los miembros del Consejo y el personal del Banco sólo podrán tener créditos en la empresa en los términos que reglamente el Ministro de Hacienda y dentro de las limitaciones de la Ley General de Bancos.
 Artículo 45.- La organización sindical de los trabajadores del Banco estará sujeta a las mismas normas aplicables a las empresas del Estado. A estos trabajadores les serán igualmente aplicables las normas que rijan para las referidas empresas en materia de negociación colectiva.
 Artículo 46°- Deróganse el decreto con fuerza de ley N° 251, de 1960, y toda otra disposición contraria al presente decreto ley, sin perjuicio de lo dispuesto en los artículos 2° y 3° transitorios.
 DISPOSICIONES TRANSITORIAS
