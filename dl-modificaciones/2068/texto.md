@@ -1,0 +1,8 @@
+# Decreto Ley N° 2068
+MODIFICA EL ARTICULO 4° DEL DECRETO LEY N° 1.349, DE
+1976, QUE CREO LA COMISION CHILENA DEL COBRE
+**Publicada:** 1977-12-19
+MODIFICA EL ARTICULO 4° DEL DECRETO LEY N° 1.349, DE 1976, QUE CREO LA COMISION CHILENA DEL COBRE Núm. 2.068.- Santiago, 7 de Diciembre de 1977.- Visto: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Intercálase en el artículo 4° del decreto ley N° 1.349, de 1976, como inciso tercero nuevo, el siguiente: "Se desempeñará como subrogante del Ministro de Defensa Nacional en este Consejo, el Jefe del Estado Mayor de la Defensa Nacional, quien, cuando se desempeñe como tal, ocupará, para los efectos del orden de precedencia a que se refiere el inciso primero, el mismo lugar que le corresponde al Ministro de Defensa Nacional".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- José Berdichewsky Scher, General de Aviación, Comandante en Jefe de la Fuerza Aérea subrogante.- Herman Brady Roche, General de División, Ministro de Defensa Nacional.- Rubén Schindler Contardo, Coronel de Carabineros, Ministro de Minería subrogante. Lo que se transcribe para su conocimiento.- Roberto Guillard Marinot, Coronel, Subsecretario de Guerra.
