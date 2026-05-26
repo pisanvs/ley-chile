@@ -202,6 +202,17 @@
     ],
     "modificadaPor": []
   },
+  "3396": {
+    "idNorma": 3396,
+    "numero": "1",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1981-03-17",
+    "modifica": [
+      "575"
+    ],
+    "modificadaPor": []
+  },
   "3404": {
     "idNorma": 3404,
     "numero": "1",
@@ -301,6 +312,17 @@
       8963
     ]
   },
+  "3487": {
+    "idNorma": 3487,
+    "numero": "2",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1968-08-01",
+    "modifica": [
+      "5"
+    ],
+    "modificadaPor": []
+  },
   "3488": {
     "idNorma": 3488,
     "numero": "2",
@@ -309,7 +331,64 @@
     "fechaPublicacion": "1968-10-17",
     "modifica": [],
     "modificadaPor": [
-      6201
+      6201,
+      29617,
+      6940,
+      29382,
+      29209,
+      28997,
+      6362,
+      6015,
+      6609,
+      6659,
+      6686,
+      29226,
+      28953,
+      29207,
+      6737,
+      6693,
+      29336,
+      29456,
+      6891,
+      29646,
+      29709,
+      29712,
+      29836,
+      29870,
+      29954,
+      30067,
+      29980,
+      30076,
+      30147,
+      30244,
+      30298,
+      30328,
+      5707,
+      6893,
+      5896,
+      7076,
+      7128,
+      97534,
+      28893,
+      29174,
+      29554,
+      29778,
+      29880,
+      29904,
+      30027,
+      30159,
+      6768,
+      30215,
+      30292,
+      30316,
+      99326,
+      6870,
+      6892,
+      216414,
+      218305,
+      219047,
+      6389,
+      6392
     ]
   },
   "3613": {
@@ -318,9 +397,14 @@
     "titulo": "ESTABLECE NORMAS PARA EL FUNCIONAMIENTO Y FINANCIAMIENTO DEL FONDO DE REVALORIZACION DE PENSIONES DE LAS FUERZAS ARMADAS",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1968-10-07",
-    "modifica": [],
+    "modifica": [
+      "16258"
+    ],
     "modificadaPor": [
-      6190
+      6190,
+      29226,
+      28817,
+      1060194
     ]
   },
   "3654": {
@@ -331,6 +415,34 @@
     "fechaPublicacion": "1963-07-02",
     "modifica": [
       "179"
+    ],
+    "modificadaPor": [
+      3849,
+      28955,
+      4942,
+      7139,
+      3487
+    ]
+  },
+  "3656": {
+    "idNorma": 3656,
+    "numero": "5",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1968-01-17",
+    "modifica": [],
+    "modificadaPor": [
+      6208
+    ]
+  },
+  "3702": {
+    "idNorma": 3702,
+    "numero": "6",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1959-08-24",
+    "modifica": [
+      "224"
     ],
     "modificadaPor": []
   },
@@ -353,7 +465,9 @@
     "titulo": "ESTABLECE IMPUESTOS UNICOS A LOS PRODUCTOS QUE SE INDICAN",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1971-10-14",
-    "modifica": [],
+    "modifica": [
+      "12120"
+    ],
     "modificadaPor": [
       5441
     ]
@@ -366,6 +480,17 @@
     "fechaPublicacion": "1991-10-31",
     "modifica": [
       "329"
+    ],
+    "modificadaPor": []
+  },
+  "3849": {
+    "idNorma": 3849,
+    "numero": "10",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1991-12-20",
+    "modifica": [
+      "5"
     ],
     "modificadaPor": []
   },
@@ -418,9 +543,14 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1959-12-01",
     "modifica": [
-      "558"
+      "558",
+      "168"
     ],
-    "modificadaPor": []
+    "modificadaPor": [
+      28963,
+      6280,
+      5455
+    ]
   },
   "4245": {
     "idNorma": 4245,
@@ -483,7 +613,15 @@
     "modifica": [
       "2"
     ],
-    "modificadaPor": []
+    "modificadaPor": [
+      97993,
+      28304,
+      28681,
+      28649,
+      28212,
+      28032,
+      28893
+    ]
   },
   "4518": {
     "idNorma": 4518,
@@ -492,9 +630,16 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-06-01",
     "modifica": [
-      "45"
+      "45",
+      "6039"
     ],
-    "modificadaPor": []
+    "modificadaPor": [
+      4670,
+      5275,
+      4717,
+      26771,
+      5543
+    ]
   },
   "4537": {
     "idNorma": 4537,
@@ -522,8 +667,51 @@
     "fechaPublicacion": "1931-04-13",
     "modifica": [],
     "modificadaPor": [
-      5205
+      5205,
+      83135,
+      26782,
+      27399,
+      26197,
+      25436,
+      4669,
+      5458,
+      25111,
+      25114,
+      26076
     ]
+  },
+  "4669": {
+    "idNorma": 4669,
+    "numero": "117",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1931-04-30",
+    "modifica": [
+      "94"
+    ],
+    "modificadaPor": []
+  },
+  "4670": {
+    "idNorma": 4670,
+    "numero": "117",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1953-06-18",
+    "modifica": [
+      "87"
+    ],
+    "modificadaPor": []
+  },
+  "4717": {
+    "idNorma": 4717,
+    "numero": "129",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1953-06-30",
+    "modifica": [
+      "87"
+    ],
+    "modificadaPor": []
   },
   "4824": {
     "idNorma": 4824,
@@ -567,6 +755,17 @@
       4245
     ]
   },
+  "4887": {
+    "idNorma": 4887,
+    "numero": "165",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1960-03-26",
+    "modifica": [],
+    "modificadaPor": [
+      6208
+    ]
+  },
   "4900": {
     "idNorma": 4900,
     "numero": "168",
@@ -576,7 +775,9 @@
     "modifica": [
       "558"
     ],
-    "modificadaPor": []
+    "modificadaPor": [
+      4207
+    ]
   },
   "4921": {
     "idNorma": 4921,
@@ -591,6 +792,17 @@
     "modificadaPor": [
       5148
     ]
+  },
+  "4942": {
+    "idNorma": 4942,
+    "numero": "178",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1981-11-06",
+    "modifica": [
+      "5"
+    ],
+    "modificadaPor": []
   },
   "4944": {
     "idNorma": 4944,
@@ -611,7 +823,8 @@
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1960-04-02",
     "modifica": [
-      "2"
+      "2",
+      "1101"
     ],
     "modificadaPor": []
   },
@@ -683,9 +896,18 @@
     "titulo": "NAVEGACION AEREA",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-05-30",
-    "modifica": [],
+    "modifica": [
+      "675"
+    ],
     "modificadaPor": [
-      6197
+      6197,
+      6442,
+      30287,
+      6736,
+      6953,
+      5984,
+      25306,
+      25669
     ]
   },
   "5107": {
@@ -696,7 +918,21 @@
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": [
-      3483
+      3483,
+      16842,
+      13560,
+      28649,
+      27399,
+      27237,
+      28101,
+      26908,
+      28706,
+      7825,
+      256760,
+      26958,
+      13449,
+      6130,
+      3702
     ]
   },
   "5148": {
@@ -707,6 +943,17 @@
     "fechaPublicacion": "1953-08-01",
     "modifica": [
       "173"
+    ],
+    "modificadaPor": []
+  },
+  "5194": {
+    "idNorma": 5194,
+    "numero": "249",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1960-04-05",
+    "modifica": [
+      "285"
     ],
     "modificadaPor": []
   },
@@ -808,6 +1055,17 @@
       1084822
     ]
   },
+  "5275": {
+    "idNorma": 5275,
+    "numero": "274",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1960-04-06",
+    "modifica": [
+      "87"
+    ],
+    "modificadaPor": []
+  },
   "5312": {
     "idNorma": 5312,
     "numero": "285",
@@ -816,7 +1074,18 @@
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": [
-      3483
+      3483,
+      16842,
+      28649,
+      27399,
+      27714,
+      27774,
+      27780,
+      203445,
+      5194,
+      136385,
+      26958,
+      28056
     ]
   },
   "5320": {
@@ -888,6 +1157,37 @@
       1088062,
       1100901
     ]
+  },
+  "5455": {
+    "idNorma": 5455,
+    "numero": "334",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1960-04-06",
+    "modifica": [
+      "37"
+    ],
+    "modificadaPor": []
+  },
+  "5458": {
+    "idNorma": 5458,
+    "numero": "335",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1931-05-29",
+    "modifica": [
+      "94"
+    ],
+    "modificadaPor": []
+  },
+  "5463": {
+    "idNorma": 5463,
+    "numero": "336",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1953-08-05",
+    "modifica": [],
+    "modificadaPor": []
   },
   "5469": {
     "idNorma": 5469,
@@ -996,7 +1296,8 @@
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1960-04-06",
     "modifica": [
-      "252"
+      "252",
+      "3"
     ],
     "modificadaPor": []
   },
@@ -1034,6 +1335,17 @@
     ],
     "modificadaPor": []
   },
+  "5543": {
+    "idNorma": 5543,
+    "numero": "382",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1953-08-05",
+    "modifica": [
+      "87"
+    ],
+    "modificadaPor": []
+  },
   "5546": {
     "idNorma": 5546,
     "numero": "383",
@@ -1042,7 +1354,8 @@
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": [
-      5496
+      5496,
+      26712
     ]
   },
   "5658": {
@@ -1463,7 +1776,8 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1973-10-13",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": [
       6181
@@ -2996,7 +3310,9 @@
     "titulo": "MODIFICA EL DECRETO LEY N° 69, DE 1973; EL D.F.L. N°\n2, DE 1968, Y LA LEY N° 17.682",
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1974-01-08",
-    "modifica": [],
+    "modifica": [
+      "2"
+    ],
     "modificadaPor": []
   },
   "5897": {
@@ -3744,7 +4060,9 @@
     "titulo": "COMPLEMENTA DECRETO CON FUERZA DE LEY",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1932-08-26",
-    "modifica": [],
+    "modifica": [
+      "221"
+    ],
     "modificadaPor": []
   },
   "5986": {
@@ -4009,7 +4327,8 @@
     "fechaPublicacion": "1974-03-16",
     "modifica": [
       "1",
-      "353"
+      "353",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -4958,7 +5277,9 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1925-08-22",
     "modifica": [],
-    "modificadaPor": []
+    "modificadaPor": [
+      6209
+    ]
   },
   "6128": {
     "idNorma": 6128,
@@ -4984,7 +5305,9 @@
     "titulo": "MODIFICA DECRETO SUPREMO N° 880, DE 1963, DEL\nMINISTERIO DE OBRAS PUBLICAS Y TRANSPORTES",
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1974-06-05",
-    "modifica": [],
+    "modifica": [
+      "224"
+    ],
     "modificadaPor": []
   },
   "6131": {
@@ -5826,7 +6149,9 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1974-07-12",
     "modifica": [],
-    "modificadaPor": []
+    "modificadaPor": [
+      29996
+    ]
   },
   "6208": {
     "idNorma": 6208,
@@ -5835,9 +6160,28 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1974-10-11",
     "modifica": [
-      "338"
+      "338",
+      "311",
+      "5",
+      "4855",
+      "16441",
+      "13908",
+      "2087",
+      "380",
+      "16283",
+      "16322",
+      "985",
+      "6152",
+      "165"
     ],
-    "modificadaPor": []
+    "modificadaPor": [
+      6778,
+      6750,
+      6416,
+      6418,
+      6668,
+      13301
+    ]
   },
   "6209": {
     "idNorma": 6209,
@@ -5845,7 +6189,9 @@
     "titulo": "",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1925-10-02",
-    "modifica": [],
+    "modifica": [
+      "486"
+    ],
     "modificadaPor": []
   },
   "6210": {
@@ -5855,7 +6201,23 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1974-07-13",
     "modifica": [],
-    "modificadaPor": []
+    "modificadaPor": [
+      7020,
+      3396,
+      29996,
+      6524,
+      6566,
+      17549,
+      6688,
+      30357,
+      7019,
+      17212,
+      6652,
+      6729,
+      6889,
+      15187,
+      6299
+    ]
   },
   "6211": {
     "idNorma": 6211,
@@ -5864,7 +6226,11 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1925-10-06",
     "modifica": [],
-    "modificadaPor": []
+    "modificadaPor": [
+      25339,
+      6256,
+      25606
+    ]
   },
   "6212": {
     "idNorma": 6212,
@@ -5890,7 +6256,9 @@
     "titulo": "MODIFICA LA LEY NUMERO 17.318",
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1974-09-07",
-    "modifica": [],
+    "modifica": [
+      "17318"
+    ],
     "modificadaPor": []
   },
   "6215": {
@@ -5900,7 +6268,11 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1925-11-03",
     "modifica": [],
-    "modificadaPor": []
+    "modificadaPor": [
+      250708,
+      29982,
+      30406
+    ]
   },
   "6216": {
     "idNorma": 6216,
@@ -5917,7 +6289,10 @@
     "titulo": "MODIFICA INCISO PRIMERO DEL ARTICULO 6° DE LA LEY N°\n16.282",
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1974-08-16",
-    "modifica": [],
+    "modifica": [
+      "104",
+      "16282"
+    ],
     "modificadaPor": []
   },
   "6218": {
@@ -5945,7 +6320,10 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1932-09-09",
     "modifica": [],
-    "modificadaPor": []
+    "modificadaPor": [
+      6616,
+      25623
+    ]
   },
   "6221": {
     "idNorma": 6221,
@@ -5972,7 +6350,10 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1974-08-10",
     "modifica": [],
-    "modificadaPor": []
+    "modificadaPor": [
+      6442,
+      30414
+    ]
   },
   "6226": {
     "idNorma": 6226,
@@ -5980,8 +6361,15 @@
     "titulo": "",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1925-10-16",
-    "modifica": [],
-    "modificadaPor": []
+    "modifica": [
+      "277",
+      "528",
+      "4014"
+    ],
+    "modificadaPor": [
+      213914,
+      24480
+    ]
   },
   "6227": {
     "idNorma": 6227,
@@ -6243,7 +6631,9 @@
     "titulo": "",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1925-10-23",
-    "modifica": [],
+    "modifica": [
+      "576"
+    ],
     "modificadaPor": []
   },
   "6257": {
@@ -6393,7 +6783,9 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1925-11-26",
     "modifica": [],
-    "modificadaPor": []
+    "modificadaPor": [
+      5096
+    ]
   },
   "6277": {
     "idNorma": 6277,
@@ -6428,7 +6820,9 @@
     "titulo": "ESTABLECE NORMAS SOBRE CALIFICACION CINEMATOGRAFICA",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1974-10-10",
-    "modifica": [],
+    "modifica": [
+      "37"
+    ],
     "modificadaPor": []
   },
   "6281": {
@@ -6599,7 +6993,9 @@
     "titulo": "ASIGNA DENOMINACION A XI REGION",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1974-10-28",
-    "modifica": [],
+    "modifica": [
+      "575"
+    ],
     "modificadaPor": []
   },
   "6300": {
@@ -7116,7 +7512,9 @@
     "titulo": "MODIFICA EL DECRETO CON FUERZA LEY 2, DE 1968, DEL MINISTERIO DEL INTERIOR, QUE FIJA EL ESTATUTO DEL PERSONAL DE CARABINEROS DE CHILE",
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1974-12-14",
-    "modifica": [],
+    "modifica": [
+      "2"
+    ],
     "modificadaPor": []
   },
   "6363": {
@@ -7375,7 +7773,8 @@
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1975-02-03",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -7405,7 +7804,9 @@
     "titulo": "CREA OFICIALES DE ORDENES DEL SERVICIO DE ORDEN Y SEGURIDAD Y FIJA NUMERO DE PLAZAS",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1975-02-22",
-    "modifica": [],
+    "modifica": [
+      "2"
+    ],
     "modificadaPor": []
   },
   "6393": {
@@ -7602,7 +8003,9 @@
     "titulo": "ACTUALIZA Y ADECUA LAS NORMAS QUE INDICA APLICABLES POR EL MINISTERIO DE TIERRAS Y COLONIZACION Y PARA TALES EFECTOS MODIFICA EL DECRETO CON FUERZA DE LEY 256, DE 1931, LA LEY 17.699 Y EL DECRETO LEY 574, DE 1974.",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1975-04-03",
-    "modifica": [],
+    "modifica": [
+      "574"
+    ],
     "modificadaPor": []
   },
   "6417": {
@@ -7620,7 +8023,9 @@
     "titulo": "MODIFICA DECRETO LEY N° 574, DE 1974, Y LA LEY N°\n13.908, SOBRE ARRENDAMIENTO Y VENTA DE TERRENOS FISCALES\nEN MAGALLANES",
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1975-04-19",
-    "modifica": [],
+    "modifica": [
+      "574"
+    ],
     "modificadaPor": []
   },
   "6419": {
@@ -7826,7 +8231,10 @@
     "titulo": "SISTEMATIZA NORMAS SOBRE PROTECCION JURIDICA DE LOS DERECHOS PROCESALES DE LOS DETENIDOS POR DELITOS CONTRA LA SEGURIDAD NACIONAL POR LOS ORGANISMOS QUE INDICA Y MODIFICA DISPOSICIONES LEGALES QUE SEÑALA",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1975-05-08",
-    "modifica": [],
+    "modifica": [
+      "221",
+      "604"
+    ],
     "modificadaPor": []
   },
   "6443": {
@@ -8370,7 +8778,9 @@
     "titulo": "DIVIDE LAS REGIONES DEL PAIS EN PROVINCIAS QUE INDICA",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1975-11-04",
-    "modifica": [],
+    "modifica": [
+      "575"
+    ],
     "modificadaPor": []
   },
   "6525": {
@@ -8630,6 +9040,17 @@
     ],
     "modificadaPor": []
   },
+  "6566": {
+    "idNorma": 6566,
+    "numero": "1317",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1976-01-07",
+    "modifica": [
+      "575"
+    ],
+    "modificadaPor": []
+  },
   "6572": {
     "idNorma": 6572,
     "numero": "1330",
@@ -8764,7 +9185,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1976-04-14",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -8776,6 +9198,17 @@
     "fechaPublicacion": "1976-04-19",
     "modifica": [
       "527"
+    ],
+    "modificadaPor": []
+  },
+  "6616": {
+    "idNorma": 6616,
+    "numero": "1444",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1976-05-06",
+    "modifica": [
+      "595"
     ],
     "modificadaPor": []
   },
@@ -8843,7 +9276,9 @@
     "titulo": "MODIFICA DECRETO LEY N°. 575, DE 1974",
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1976-09-20",
-    "modifica": [],
+    "modifica": [
+      "575"
+    ],
     "modificadaPor": []
   },
   "6653": {
@@ -8908,7 +9343,9 @@
     "titulo": "SUPLEMENTA, CREA O MODIFICA LOS ITEM DE GASTOS QUE SEñALA DEL PRESUPUESTO DE LA NACION PARA EL AñO 1976; MODIFICA LAS DISPOSICIONES LEGALES QUE EXPRESA.",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1976-09-28",
-    "modifica": [],
+    "modifica": [
+      "2"
+    ],
     "modificadaPor": []
   },
   "6660": {
@@ -8989,7 +9426,9 @@
     "titulo": "AUTORIZA UTILIZACION PARA FINES DIDACTICOS DE\nMATERIAL FISCAL EN DESUSO",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1976-10-27",
-    "modifica": [],
+    "modifica": [
+      "574"
+    ],
     "modificadaPor": []
   },
   "6669": {
@@ -9166,7 +9605,9 @@
     "titulo": "INTRODUCE MODIFICACIONES AL DECRETO CON FUERZA DE\nLEY N° 2, DE 1968, DEL MINISTERIO DEL INTERIOR, ESTATUTO\nDEL PERSONAL DE CARABINEROS DE CHILE",
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1976-12-04",
-    "modifica": [],
+    "modifica": [
+      "2"
+    ],
     "modificadaPor": []
   },
   "6687": {
@@ -9184,7 +9625,9 @@
     "titulo": "DISUELVE LA JUNTA DE ADELANTO DE ARICA Y CREA LA SECRETARÍA EJECUTIVA DE LA GOBERNACIÓN PROVINCIAL DE\nARICA",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1976-12-10",
-    "modifica": [],
+    "modifica": [
+      "575"
+    ],
     "modificadaPor": []
   },
   "6689": {
@@ -9230,7 +9673,8 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1976-12-15",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": [
       6813
@@ -9525,7 +9969,9 @@
     "titulo": "SUSTITUYE DENOMINACION DEL PUEBLO Y COMUNA DE \"PUEBLO HUNDIDO\" POR LA DE \"DIEGO DE ALMAGRO\"",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1977-04-13",
-    "modifica": [],
+    "modifica": [
+      "575"
+    ],
     "modificadaPor": []
   },
   "6730": {
@@ -9590,7 +10036,9 @@
     "titulo": "MODIFICA EL CODIGO DE JUSTICIA MILITAR",
     "clasificacion": "modificatoria",
     "fechaPublicacion": "1977-04-30",
-    "modifica": [],
+    "modifica": [
+      "221"
+    ],
     "modificadaPor": []
   },
   "6737": {
@@ -9600,7 +10048,8 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1977-05-05",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -9710,7 +10159,8 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1977-06-11",
     "modifica": [
-      "262"
+      "262",
+      "574"
     ],
     "modificadaPor": []
   },
@@ -9869,7 +10319,8 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1977-09-08",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -9953,7 +10404,9 @@
     "titulo": "NORMAS SOBRE ADQUISICION, ADMINISTRACION Y DISPOSICION DE BIENES DEL ESTADO",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1977-11-10",
-    "modifica": [],
+    "modifica": [
+      "574"
+    ],
     "modificadaPor": []
   },
   "6779": {
@@ -10504,7 +10957,10 @@
     "titulo": "REAJUSTA AVALUOS DE BIENES RAICES EN EL PORCENTAJE\nQUE SEÑALA Y SUSPENDE APLICACION ARTICULOS 25° Y 26° DE\nLA LEY N° 17.235",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-01-28",
-    "modifica": [],
+    "modifica": [
+      "1",
+      "17235"
+    ],
     "modificadaPor": []
   },
   "6832": {
@@ -10514,7 +10970,10 @@
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-02-28",
     "modifica": [],
-    "modificadaPor": []
+    "modificadaPor": [
+      30067,
+      30147
+    ]
   },
   "6833": {
     "idNorma": 6833,
@@ -10522,7 +10981,9 @@
     "titulo": "ESTABLECE NORMAS SOBRE RELIQUIDACION EXTRAORDINARIA\nDE PENSIONES",
     "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-02-24",
-    "modifica": [],
+    "modifica": [
+      "10662"
+    ],
     "modificadaPor": []
   },
   "6840": {
@@ -10590,7 +11051,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1978-07-05",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -10638,6 +11100,17 @@
     ],
     "modificadaPor": []
   },
+  "6889": {
+    "idNorma": 6889,
+    "numero": "2339",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1978-10-10",
+    "modifica": [
+      "575"
+    ],
+    "modificadaPor": []
+  },
   "6890": {
     "idNorma": 6890,
     "numero": "2340",
@@ -10658,7 +11131,8 @@
     "modifica": [
       "2053",
       "1",
-      "338"
+      "338",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -10669,7 +11143,19 @@
     "clasificacion": "",
     "fechaPublicacion": "1978-10-27",
     "modifica": [
-      "1"
+      "1",
+      "2"
+    ],
+    "modificadaPor": []
+  },
+  "6893": {
+    "idNorma": 6893,
+    "numero": "2344",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1978-10-27",
+    "modifica": [
+      "2"
     ],
     "modificadaPor": []
   },
@@ -10757,7 +11243,19 @@
     "clasificacion": "",
     "fechaPublicacion": "1979-02-09",
     "modifica": [
-      "1"
+      "1",
+      "2"
+    ],
+    "modificadaPor": []
+  },
+  "6953": {
+    "idNorma": 6953,
+    "numero": "2564",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1979-06-22",
+    "modifica": [
+      "221"
     ],
     "modificadaPor": []
   },
@@ -10828,6 +11326,28 @@
     ],
     "modificadaPor": []
   },
+  "7019": {
+    "idNorma": 7019,
+    "numero": "2867",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1979-10-26",
+    "modifica": [
+      "575"
+    ],
+    "modificadaPor": []
+  },
+  "7020": {
+    "idNorma": 7020,
+    "numero": "2868",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1979-10-26",
+    "modifica": [
+      "575"
+    ],
+    "modificadaPor": []
+  },
   "7034": {
     "idNorma": 7034,
     "numero": "2956",
@@ -10891,6 +11411,17 @@
     "fechaPublicacion": "1980-02-20",
     "modifica": [
       "1"
+    ],
+    "modificadaPor": []
+  },
+  "7076": {
+    "idNorma": 7076,
+    "numero": "3180",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1980-03-15",
+    "modifica": [
+      "2"
     ],
     "modificadaPor": []
   },
@@ -10982,6 +11513,17 @@
     ],
     "modificadaPor": []
   },
+  "7128": {
+    "idNorma": 7128,
+    "numero": "3461",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1980-08-22",
+    "modifica": [
+      "2"
+    ],
+    "modificadaPor": []
+  },
   "7131": {
     "idNorma": 7131,
     "numero": "3468",
@@ -11011,7 +11553,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1980-09-02",
     "modifica": [
-      "520"
+      "520",
+      "5"
     ],
     "modificadaPor": []
   },
@@ -11145,6 +11688,17 @@
     "fechaPublicacion": "1981-03-11",
     "modifica": [
       "338"
+    ],
+    "modificadaPor": []
+  },
+  "7825": {
+    "idNorma": 7825,
+    "numero": "30",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1975-02-20",
+    "modifica": [
+      "224"
     ],
     "modificadaPor": []
   },
@@ -11283,6 +11837,17 @@
     ],
     "modificadaPor": []
   },
+  "12229": {
+    "idNorma": 12229,
+    "numero": "311",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1937-03-22",
+    "modifica": [],
+    "modificadaPor": [
+      6208
+    ]
+  },
   "12744": {
     "idNorma": 12744,
     "numero": "366",
@@ -11317,6 +11882,28 @@
       6201
     ]
   },
+  "13301": {
+    "idNorma": 13301,
+    "numero": "429",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1988-08-18",
+    "modifica": [
+      "574"
+    ],
+    "modificadaPor": []
+  },
+  "13449": {
+    "idNorma": 13449,
+    "numero": "444",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1976-01-05",
+    "modifica": [
+      "224"
+    ],
+    "modificadaPor": []
+  },
   "13560": {
     "idNorma": 13560,
     "numero": "458",
@@ -11324,7 +11911,19 @@
     "clasificacion": "",
     "fechaPublicacion": "1976-04-13",
     "modifica": [
-      "2"
+      "2",
+      "224"
+    ],
+    "modificadaPor": []
+  },
+  "15187": {
+    "idNorma": 15187,
+    "numero": "707",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1977-08-26",
+    "modifica": [
+      "575"
     ],
     "modificadaPor": []
   },
@@ -11339,15 +11938,28 @@
       3483
     ]
   },
+  "16366": {
+    "idNorma": 16366,
+    "numero": "958",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1931-07-27",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "16842": {
     "idNorma": 16842,
     "numero": "1101",
     "titulo": "",
     "clasificacion": "",
     "fechaPublicacion": "1960-07-18",
-    "modifica": [],
+    "modifica": [
+      "224",
+      "285"
+    ],
     "modificadaPor": [
-      6172
+      6172,
+      5046
     ]
   },
   "16886": {
@@ -11358,6 +11970,28 @@
     "fechaPublicacion": "1987-12-28",
     "modifica": [
       "262"
+    ],
+    "modificadaPor": []
+  },
+  "17212": {
+    "idNorma": 17212,
+    "numero": "1204",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1980-11-19",
+    "modifica": [
+      "575"
+    ],
+    "modificadaPor": []
+  },
+  "17549": {
+    "idNorma": 17549,
+    "numero": "1325",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1980-12-10",
+    "modifica": [
+      "575"
     ],
     "modificadaPor": []
   },
@@ -11439,6 +12073,17 @@
     ],
     "modificadaPor": []
   },
+  "22130": {
+    "idNorma": 22130,
+    "numero": "277",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1895-02-11",
+    "modifica": [],
+    "modificadaPor": [
+      6226
+    ]
+  },
   "22353": {
     "idNorma": 22353,
     "numero": "1020",
@@ -11483,6 +12128,17 @@
       6196
     ]
   },
+  "24406": {
+    "idNorma": 24406,
+    "numero": "4014",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1924-05-26",
+    "modifica": [],
+    "modificadaPor": [
+      6226
+    ]
+  },
   "24445": {
     "idNorma": 24445,
     "numero": "4070",
@@ -11491,6 +12147,17 @@
     "fechaPublicacion": "1926-06-21",
     "modifica": [
       "559"
+    ],
+    "modificadaPor": []
+  },
+  "24480": {
+    "idNorma": 24480,
+    "numero": "4111",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1927-01-07",
+    "modifica": [
+      "606"
     ],
     "modificadaPor": []
   },
@@ -11549,6 +12216,17 @@
       5205
     ]
   },
+  "24952": {
+    "idNorma": 24952,
+    "numero": "4855",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1930-06-24",
+    "modifica": [],
+    "modificadaPor": [
+      6208
+    ]
+  },
   "24988": {
     "idNorma": 24988,
     "numero": "4997",
@@ -11590,6 +12268,28 @@
     "fechaPublicacion": "1933-09-16",
     "modifica": [
       "520"
+    ],
+    "modificadaPor": []
+  },
+  "25111": {
+    "idNorma": 25111,
+    "numero": "5441",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1934-06-30",
+    "modifica": [
+      "94"
+    ],
+    "modificadaPor": []
+  },
+  "25114": {
+    "idNorma": 25114,
+    "numero": "5462",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1934-08-31",
+    "modifica": [
+      "94"
     ],
     "modificadaPor": []
   },
@@ -11648,6 +12348,28 @@
     ],
     "modificadaPor": []
   },
+  "25275": {
+    "idNorma": 25275,
+    "numero": "6039",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1937-02-19",
+    "modifica": [],
+    "modificadaPor": [
+      4518
+    ]
+  },
+  "25299": {
+    "idNorma": 25299,
+    "numero": "6152",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1938-01-19",
+    "modifica": [],
+    "modificadaPor": [
+      6208
+    ]
+  },
   "25301": {
     "idNorma": 25301,
     "numero": "6156",
@@ -11666,7 +12388,19 @@
     "clasificacion": "",
     "fechaPublicacion": "1938-01-28",
     "modifica": [
-      "DE COMERCIO"
+      "DE COMERCIO",
+      "221"
+    ],
+    "modificadaPor": []
+  },
+  "25339": {
+    "idNorma": 25339,
+    "numero": "6373",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1939-08-10",
+    "modifica": [
+      "576"
     ],
     "modificadaPor": []
   },
@@ -11700,6 +12434,17 @@
     "fechaPublicacion": "1941-02-28",
     "modifica": [
       "558"
+    ],
+    "modificadaPor": []
+  },
+  "25436": {
+    "idNorma": 25436,
+    "numero": "7123",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1941-10-31",
+    "modifica": [
+      "94"
     ],
     "modificadaPor": []
   },
@@ -11747,6 +12492,17 @@
     ],
     "modificadaPor": []
   },
+  "25606": {
+    "idNorma": 25606,
+    "numero": "7634",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1943-10-30",
+    "modifica": [
+      "576"
+    ],
+    "modificadaPor": []
+  },
   "25620": {
     "idNorma": 25620,
     "numero": "7747",
@@ -11755,6 +12511,28 @@
     "fechaPublicacion": "1943-12-24",
     "modifica": [
       "520"
+    ],
+    "modificadaPor": []
+  },
+  "25623": {
+    "idNorma": 25623,
+    "numero": "7750",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1944-01-07",
+    "modifica": [
+      "595"
+    ],
+    "modificadaPor": []
+  },
+  "25669": {
+    "idNorma": 25669,
+    "numero": "7852",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1944-10-27",
+    "modifica": [
+      "221"
     ],
     "modificadaPor": []
   },
@@ -11791,6 +12569,17 @@
     ],
     "modificadaPor": []
   },
+  "26076": {
+    "idNorma": 26076,
+    "numero": "9406",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1949-09-29",
+    "modifica": [
+      "94"
+    ],
+    "modificadaPor": []
+  },
   "26166": {
     "idNorma": 26166,
     "numero": "9590",
@@ -11799,6 +12588,17 @@
     "fechaPublicacion": "1950-04-10",
     "modifica": [
       "DE COMERCIO"
+    ],
+    "modificadaPor": []
+  },
+  "26197": {
+    "idNorma": 26197,
+    "numero": "9629",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1950-07-18",
+    "modifica": [
+      "94"
     ],
     "modificadaPor": []
   },
@@ -11901,6 +12701,17 @@
     ],
     "modificadaPor": []
   },
+  "26460": {
+    "idNorma": 26460,
+    "numero": "10662",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1952-10-23",
+    "modifica": [],
+    "modificadaPor": [
+      6833
+    ]
+  },
   "26600": {
     "idNorma": 26600,
     "numero": "11219",
@@ -11913,6 +12724,39 @@
       4824
     ]
   },
+  "26712": {
+    "idNorma": 26712,
+    "numero": "11570",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1954-09-21",
+    "modifica": [
+      "383"
+    ],
+    "modificadaPor": []
+  },
+  "26771": {
+    "idNorma": 26771,
+    "numero": "11736",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1954-11-18",
+    "modifica": [
+      "87"
+    ],
+    "modificadaPor": []
+  },
+  "26782": {
+    "idNorma": 26782,
+    "numero": "11764",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1954-12-27",
+    "modifica": [
+      "94"
+    ],
+    "modificadaPor": []
+  },
   "26784": {
     "idNorma": 26784,
     "numero": "11766",
@@ -11923,6 +12767,29 @@
     "modificadaPor": [
       6205
     ]
+  },
+  "26908": {
+    "idNorma": 26908,
+    "numero": "11904",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1955-10-27",
+    "modifica": [
+      "224"
+    ],
+    "modificadaPor": []
+  },
+  "26958": {
+    "idNorma": 26958,
+    "numero": "11994",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1955-12-29",
+    "modifica": [
+      "224",
+      "285"
+    ],
+    "modificadaPor": []
   },
   "27030": {
     "idNorma": 27030,
@@ -11945,7 +12812,8 @@
       "213"
     ],
     "modificadaPor": [
-      6162
+      6162,
+      3802
     ]
   },
   "27057": {
@@ -12067,7 +12935,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1958-02-07",
     "modifica": [
-      "45"
+      "45",
+      "224"
     ],
     "modificadaPor": []
   },
@@ -12091,9 +12960,23 @@
     "clasificacion": "",
     "fechaPublicacion": "1959-04-06",
     "modifica": [
-      "213"
+      "213",
+      "94",
+      "224",
+      "285"
     ],
     "modificadaPor": []
+  },
+  "27550": {
+    "idNorma": 27550,
+    "numero": "13908",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1959-12-24",
+    "modifica": [],
+    "modificadaPor": [
+      6208
+    ]
   },
   "27566": {
     "idNorma": 27566,
@@ -12126,7 +13009,8 @@
     "modifica": [
       "338",
       "2",
-      "252"
+      "252",
+      "285"
     ],
     "modificadaPor": []
   },
@@ -12172,7 +13056,19 @@
     "modifica": [
       "338",
       "2",
-      "252"
+      "252",
+      "285"
+    ],
+    "modificadaPor": []
+  },
+  "27780": {
+    "idNorma": 27780,
+    "numero": "14585",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1961-07-05",
+    "modifica": [
+      "285"
     ],
     "modificadaPor": []
   },
@@ -12272,7 +13168,19 @@
     "clasificacion": "",
     "fechaPublicacion": "1962-12-17",
     "modifica": [
-      "338"
+      "338",
+      "56"
+    ],
+    "modificadaPor": []
+  },
+  "28056": {
+    "idNorma": 28056,
+    "numero": "15152",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1963-01-30",
+    "modifica": [
+      "285"
     ],
     "modificadaPor": []
   },
@@ -12294,7 +13202,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1963-08-14",
     "modifica": [
-      "2"
+      "2",
+      "224"
     ],
     "modificadaPor": []
   },
@@ -12409,7 +13318,8 @@
     "fechaPublicacion": "1964-05-15",
     "modifica": [
       "338",
-      "2"
+      "2",
+      "56"
     ],
     "modificadaPor": []
   },
@@ -12444,7 +13354,8 @@
     "fechaPublicacion": "1964-11-09",
     "modifica": [
       "338",
-      "2"
+      "2",
+      "56"
     ],
     "modificadaPor": []
   },
@@ -12516,6 +13427,39 @@
     ],
     "modificadaPor": [
       6827
+    ]
+  },
+  "28359": {
+    "idNorma": 28359,
+    "numero": "16258",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1965-05-20",
+    "modifica": [],
+    "modificadaPor": [
+      3613
+    ]
+  },
+  "28378": {
+    "idNorma": 28378,
+    "numero": "16283",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1965-08-20",
+    "modifica": [],
+    "modificadaPor": [
+      6208
+    ]
+  },
+  "28396": {
+    "idNorma": 28396,
+    "numero": "16322",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1965-10-08",
+    "modifica": [],
+    "modificadaPor": [
+      6208
     ]
   },
   "28398": {
@@ -12594,7 +13538,8 @@
     "fechaPublicacion": "1966-03-01",
     "modifica": [],
     "modificadaPor": [
-      6205
+      6205,
+      6208
     ]
   },
   "28477": {
@@ -12723,7 +13668,10 @@
     "clasificacion": "",
     "fechaPublicacion": "1968-02-08",
     "modifica": [
-      "2"
+      "2",
+      "56",
+      "224",
+      "285"
     ],
     "modificadaPor": []
   },
@@ -12758,7 +13706,8 @@
     "modifica": [
       "213",
       "338",
-      "2"
+      "2",
+      "56"
     ],
     "modificadaPor": [
       3428,
@@ -12794,7 +13743,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1968-09-12",
     "modifica": [
-      "2"
+      "2",
+      "224"
     ],
     "modificadaPor": []
   },
@@ -12872,9 +13822,21 @@
     "clasificacion": "",
     "fechaPublicacion": "1969-08-21",
     "modifica": [
-      "1"
+      "1",
+      "4"
     ],
     "modificadaPor": []
+  },
+  "28849": {
+    "idNorma": 28849,
+    "numero": "17235",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1969-12-24",
+    "modifica": [],
+    "modificadaPor": [
+      6831
+    ]
   },
   "28855": {
     "idNorma": 28855,
@@ -12933,6 +13895,18 @@
     ],
     "modificadaPor": []
   },
+  "28893": {
+    "idNorma": 28893,
+    "numero": "17289",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1970-02-19",
+    "modifica": [
+      "2",
+      "56"
+    ],
+    "modificadaPor": []
+  },
   "28904": {
     "idNorma": 28904,
     "numero": "17301",
@@ -12975,7 +13949,9 @@
     "modifica": [
       "DE COMERCIO"
     ],
-    "modificadaPor": []
+    "modificadaPor": [
+      6214
+    ]
   },
   "28929": {
     "idNorma": 28929,
@@ -12994,10 +13970,34 @@
     "titulo": "",
     "clasificacion": "",
     "fechaPublicacion": "1970-10-06",
-    "modifica": [],
+    "modifica": [
+      "2"
+    ],
     "modificadaPor": [
       6805
     ]
+  },
+  "28955": {
+    "idNorma": 28955,
+    "numero": "17367",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1970-10-14",
+    "modifica": [
+      "5"
+    ],
+    "modificadaPor": []
+  },
+  "28963": {
+    "idNorma": 28963,
+    "numero": "17377",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1970-10-24",
+    "modifica": [
+      "37"
+    ],
+    "modificadaPor": []
   },
   "28968": {
     "idNorma": 28968,
@@ -13153,7 +14153,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1972-04-07",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -13212,6 +14213,37 @@
     ],
     "modificadaPor": []
   },
+  "29207": {
+    "idNorma": 29207,
+    "numero": "17680",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1972-06-24",
+    "modifica": [
+      "2"
+    ],
+    "modificadaPor": []
+  },
+  "29209": {
+    "idNorma": 29209,
+    "numero": "17682",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1972-06-30",
+    "modifica": [
+      "2"
+    ],
+    "modificadaPor": []
+  },
+  "29225": {
+    "idNorma": 29225,
+    "numero": "17699",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1972-08-14",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "29226": {
     "idNorma": 29226,
     "numero": "17700",
@@ -13219,7 +14251,9 @@
     "clasificacion": "",
     "fechaPublicacion": "1972-08-04",
     "modifica": [
-      "1"
+      "1",
+      "2",
+      "4"
     ],
     "modificadaPor": []
   },
@@ -13243,6 +14277,17 @@
     "fechaPublicacion": "1973-01-02",
     "modifica": [
       "47"
+    ],
+    "modificadaPor": []
+  },
+  "29336": {
+    "idNorma": 29336,
+    "numero": "17883",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1973-01-13",
+    "modifica": [
+      "2"
     ],
     "modificadaPor": []
   },
@@ -13299,7 +14344,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1973-06-06",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -13410,7 +14456,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1981-09-17",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -13602,6 +14649,17 @@
     ],
     "modificadaPor": []
   },
+  "29554": {
+    "idNorma": 29554,
+    "numero": "18130",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1982-06-05",
+    "modifica": [
+      "2"
+    ],
+    "modificadaPor": []
+  },
   "29557": {
     "idNorma": 29557,
     "numero": "18133",
@@ -13690,6 +14748,17 @@
     ],
     "modificadaPor": []
   },
+  "29617": {
+    "idNorma": 29617,
+    "numero": "18196",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1982-12-29",
+    "modifica": [
+      "2"
+    ],
+    "modificadaPor": []
+  },
   "29624": {
     "idNorma": 29624,
     "numero": "18204",
@@ -13709,6 +14778,17 @@
     "fechaPublicacion": "1983-06-10",
     "modifica": [
       "252"
+    ],
+    "modificadaPor": []
+  },
+  "29646": {
+    "idNorma": 29646,
+    "numero": "18226",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1983-07-05",
+    "modifica": [
+      "2"
     ],
     "modificadaPor": []
   },
@@ -13745,6 +14825,17 @@
     ],
     "modificadaPor": []
   },
+  "29709": {
+    "idNorma": 29709,
+    "numero": "18292",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1984-02-01",
+    "modifica": [
+      "2"
+    ],
+    "modificadaPor": []
+  },
   "29712": {
     "idNorma": 29712,
     "numero": "18295",
@@ -13752,7 +14843,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1984-02-07",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -13798,6 +14890,17 @@
     "modifica": [
       "213",
       "329"
+    ],
+    "modificadaPor": []
+  },
+  "29778": {
+    "idNorma": 29778,
+    "numero": "18363",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1984-11-24",
+    "modifica": [
+      "2"
     ],
     "modificadaPor": []
   },
@@ -13865,7 +14968,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1985-08-23",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -13924,6 +15028,17 @@
     ],
     "modificadaPor": []
   },
+  "29870": {
+    "idNorma": 29870,
+    "numero": "18467",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1985-11-16",
+    "modifica": [
+      "2"
+    ],
+    "modificadaPor": []
+  },
   "29880": {
     "idNorma": 29880,
     "numero": "18477",
@@ -13931,7 +15046,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1985-12-13",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -13967,6 +15083,17 @@
     "fechaPublicacion": "1986-01-30",
     "modifica": [
       "1"
+    ],
+    "modificadaPor": []
+  },
+  "29904": {
+    "idNorma": 29904,
+    "numero": "18503",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1986-04-17",
+    "modifica": [
+      "2"
     ],
     "modificadaPor": []
   },
@@ -14032,7 +15159,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1986-10-20",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -14054,7 +15182,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1987-01-03",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -14066,7 +15195,20 @@
     "fechaPublicacion": "1987-01-03",
     "modifica": [
       "338",
-      "539"
+      "539",
+      "588"
+    ],
+    "modificadaPor": []
+  },
+  "29996": {
+    "idNorma": 29996,
+    "numero": "18605",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1987-04-06",
+    "modifica": [
+      "573",
+      "575"
     ],
     "modificadaPor": []
   },
@@ -14099,7 +15241,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1987-08-19",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -14177,7 +15320,9 @@
     "fechaPublicacion": "1987-12-31",
     "modifica": [
       "1",
-      "213"
+      "213",
+      "2",
+      "2136"
     ],
     "modificadaPor": []
   },
@@ -14188,7 +15333,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1988-03-25",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -14233,7 +15379,9 @@
     "fechaPublicacion": "1988-12-29",
     "modifica": [
       "2079",
-      "252"
+      "252",
+      "2",
+      "2136"
     ],
     "modificadaPor": []
   },
@@ -14244,7 +15392,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1989-02-11",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -14310,7 +15459,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1989-11-04",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -14335,6 +15485,17 @@
     "fechaPublicacion": "1989-11-24",
     "modifica": [
       "213"
+    ],
+    "modificadaPor": []
+  },
+  "30244": {
+    "idNorma": 30244,
+    "numero": "18870",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1989-12-02",
+    "modifica": [
+      "2"
     ],
     "modificadaPor": []
   },
@@ -14382,6 +15543,17 @@
     ],
     "modificadaPor": []
   },
+  "30287": {
+    "idNorma": 30287,
+    "numero": "18916",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1990-02-08",
+    "modifica": [
+      "221"
+    ],
+    "modificadaPor": []
+  },
   "30291": {
     "idNorma": 30291,
     "numero": "18920",
@@ -14390,6 +15562,28 @@
     "fechaPublicacion": "1990-02-08",
     "modifica": [
       "1"
+    ],
+    "modificadaPor": []
+  },
+  "30292": {
+    "idNorma": 30292,
+    "numero": "18921",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1990-03-05",
+    "modifica": [
+      "2"
+    ],
+    "modificadaPor": []
+  },
+  "30298": {
+    "idNorma": 30298,
+    "numero": "18927",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1990-02-09",
+    "modifica": [
+      "2"
     ],
     "modificadaPor": []
   },
@@ -14411,7 +15605,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1990-03-03",
     "modifica": [
-      "1"
+      "1",
+      "2"
     ],
     "modificadaPor": []
   },
@@ -14433,7 +15628,19 @@
     "clasificacion": "",
     "fechaPublicacion": "1990-02-24",
     "modifica": [
-      "1"
+      "1",
+      "2"
+    ],
+    "modificadaPor": []
+  },
+  "30357": {
+    "idNorma": 30357,
+    "numero": "18989",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1990-07-19",
+    "modifica": [
+      "575"
     ],
     "modificadaPor": []
   },
@@ -14470,6 +15677,17 @@
     ],
     "modificadaPor": []
   },
+  "30406": {
+    "idNorma": 30406,
+    "numero": "19039",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1991-01-25",
+    "modifica": [
+      "588"
+    ],
+    "modificadaPor": []
+  },
   "30408": {
     "idNorma": 30408,
     "numero": "19041",
@@ -14499,7 +15717,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1991-02-14",
     "modifica": [
-      "DE COMERCIO"
+      "DE COMERCIO",
+      "604"
     ],
     "modificadaPor": []
   },
@@ -14798,11 +16017,24 @@
     "clasificacion": "",
     "fechaPublicacion": "1997-12-19",
     "modifica": [
-      "252"
+      "252",
+      "94"
     ],
     "modificadaPor": [
-      6827
+      6827,
+      5494
     ]
+  },
+  "97534": {
+    "idNorma": 97534,
+    "numero": "1",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1998-03-12",
+    "modifica": [
+      "2"
+    ],
+    "modificadaPor": []
   },
   "97758": {
     "idNorma": 97758,
@@ -14823,6 +16055,18 @@
     "fechaPublicacion": "1998-02-25",
     "modifica": [
       "338",
+      "2",
+      "56"
+    ],
+    "modificadaPor": []
+  },
+  "99326": {
+    "idNorma": 99326,
+    "numero": "2",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1998-05-20",
+    "modifica": [
       "2"
     ],
     "modificadaPor": []
@@ -14864,6 +16108,39 @@
     ],
     "modificadaPor": []
   },
+  "128563": {
+    "idNorma": 128563,
+    "numero": "1",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1998-12-16",
+    "modifica": [],
+    "modificadaPor": [
+      6831
+    ]
+  },
+  "130929": {
+    "idNorma": 130929,
+    "numero": "985",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1898-01-07",
+    "modifica": [],
+    "modificadaPor": [
+      6208
+    ]
+  },
+  "136238": {
+    "idNorma": 136238,
+    "numero": "2087",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1908-02-17",
+    "modifica": [],
+    "modificadaPor": [
+      6208
+    ]
+  },
   "136383": {
     "idNorma": 136383,
     "numero": "54",
@@ -14874,6 +16151,28 @@
       "2"
     ],
     "modificadaPor": []
+  },
+  "136385": {
+    "idNorma": 136385,
+    "numero": "56",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1960-01-08",
+    "modifica": [
+      "285"
+    ],
+    "modificadaPor": []
+  },
+  "137915": {
+    "idNorma": 137915,
+    "numero": "380",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1896-09-21",
+    "modifica": [],
+    "modificadaPor": [
+      6208
+    ]
   },
   "140084": {
     "idNorma": 140084,
@@ -15024,7 +16323,8 @@
     "clasificacion": "",
     "fechaPublicacion": "1960-04-06",
     "modifica": [
-      "2"
+      "2",
+      "285"
     ],
     "modificadaPor": []
   },
@@ -15050,6 +16350,39 @@
       "329"
     ],
     "modificadaPor": []
+  },
+  "213914": {
+    "idNorma": 213914,
+    "numero": "104",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1932-07-01",
+    "modifica": [
+      "606"
+    ],
+    "modificadaPor": []
+  },
+  "214423": {
+    "idNorma": 214423,
+    "numero": "104",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1977-06-25",
+    "modifica": [],
+    "modificadaPor": [
+      6217
+    ]
+  },
+  "214428": {
+    "idNorma": 214428,
+    "numero": "16282",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1965-07-28",
+    "modifica": [],
+    "modificadaPor": [
+      6217
+    ]
   },
   "214628": {
     "idNorma": 214628,
@@ -15084,6 +16417,17 @@
     ],
     "modificadaPor": []
   },
+  "216414": {
+    "idNorma": 216414,
+    "numero": "501",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1974-06-10",
+    "modifica": [
+      "2"
+    ],
+    "modificadaPor": []
+  },
   "216656": {
     "idNorma": 216656,
     "numero": "19912",
@@ -15092,6 +16436,28 @@
     "fechaPublicacion": "2003-11-04",
     "modifica": [
       "213"
+    ],
+    "modificadaPor": []
+  },
+  "218305": {
+    "idNorma": 218305,
+    "numero": "612",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1974-08-20",
+    "modifica": [
+      "2"
+    ],
+    "modificadaPor": []
+  },
+  "219047": {
+    "idNorma": 219047,
+    "numero": "675",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1974-10-14",
+    "modifica": [
+      "2"
     ],
     "modificadaPor": []
   },
@@ -15228,6 +16594,17 @@
     ],
     "modificadaPor": []
   },
+  "236916": {
+    "idNorma": 236916,
+    "numero": "528",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1925-09-16",
+    "modifica": [],
+    "modificadaPor": [
+      6226
+    ]
+  },
   "237264": {
     "idNorma": 237264,
     "numero": "31",
@@ -15317,6 +16694,28 @@
     "modificadaPor": [
       6205
     ]
+  },
+  "250708": {
+    "idNorma": 250708,
+    "numero": "3",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "2006-06-20",
+    "modifica": [
+      "588"
+    ],
+    "modificadaPor": []
+  },
+  "256760": {
+    "idNorma": 256760,
+    "numero": "357",
+    "titulo": "",
+    "clasificacion": "",
+    "fechaPublicacion": "1961-10-25",
+    "modifica": [
+      "224"
+    ],
+    "modificadaPor": []
   },
   "257623": {
     "idNorma": 257623,
@@ -15564,7 +16963,8 @@
     "clasificacion": "",
     "fechaPublicacion": "2014-03-12",
     "modifica": [
-      "31"
+      "31",
+      "4"
     ],
     "modificadaPor": []
   },
