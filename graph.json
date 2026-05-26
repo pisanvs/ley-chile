@@ -1,10 +1,10 @@
 {
   "1974": {
     "idNorma": 1974,
-    "numero": "de comercio",
-    "titulo": "",
-    "clasificacion": "",
-    "fechaPublicacion": "1865-11-23",
+    "numero": "DE COMERCIO",
+    "titulo": "CODIGO DE COMERCIO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "",
     "modifica": [],
     "modificadaPor": [
       6176
@@ -149,8 +149,8 @@
   "3375": {
     "idNorma": 3375,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE LAS PLANTAS DIRECTIVAS, PROFESIONALES Y\nTECNICA Y ADMINISTRATIVA DE LA DIRECCION DE\nAPROVISIONAMIENTO DEL ESTADO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1970-06-02",
     "modifica": [
       "353"
@@ -160,8 +160,8 @@
   "3404": {
     "idNorma": 3404,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL DECRETO CON FUERZA DE LEY 1, DE 1968, DE GUERRA.",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-08-29",
     "modifica": [
       "1"
@@ -171,8 +171,8 @@
   "3413": {
     "idNorma": 3413,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LOS REQUISITOS DE INGRESO QUE INDICA,\nESTABLECIDOS EN EL DFL. N° 90, DE 1977",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1983-03-26",
     "modifica": [
       "90"
@@ -205,8 +205,8 @@
   "3483": {
     "idNorma": 3483,
     "numero": "2",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA TEXTO DEFINITIVO DEL DFL 2, DE 1959, SOBRE PLAN HABITACIONAL.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1959-07-31",
     "modifica": [],
     "modificadaPor": [
@@ -216,8 +216,8 @@
   "3771": {
     "idNorma": 3771,
     "numero": "8",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA ESTATUTO ORGANICO DEL SERVICIO DE ADUANAS Y\nMODIFICA ORDENANZA GENERAL DE ADUANAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1963-09-12",
     "modifica": [
       "213"
@@ -227,8 +227,8 @@
   "3934": {
     "idNorma": 3934,
     "numero": "15",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "PROYECTO DE MODIFICACIONES A LA ORDENANZA DE\nADUANAS, CON MOTIVO DE LA DICTACION DEL NUEVO ARANCEL\nADUANERO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1967-01-05",
     "modifica": [
       "213"
@@ -238,8 +238,8 @@
   "4014": {
     "idNorma": 4014,
     "numero": "20",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETO SUPREMO N° 404, DE HACIENDA, DE\n1978",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-11-09",
     "modifica": [
       "353"
@@ -249,8 +249,8 @@
   "4148": {
     "idNorma": 4148,
     "numero": "31",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA LEY ORGANICA POR LA QUE SE REGIRA LA CAJA DE;PREVISION DE LA DEFENSA NACIONAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-04-18",
     "modifica": [],
     "modificadaPor": [
@@ -260,8 +260,8 @@
   "4245": {
     "idNorma": 4245,
     "numero": "43",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE MODIFICACIONES AL TITULO I DEL DECRETO LEY\nN° 603, de 1974",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-07-24",
     "modifica": [
       "150"
@@ -271,8 +271,8 @@
   "4260": {
     "idNorma": 4260,
     "numero": "45",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "TRASPASA AL INSTITUTO DE ECONOMIA AGRICOLA LAS FACULTADES QUE INDICA, EJERCIDAS POR EL COMISARIATO GENERAL DE SUBSISTENCIAS Y PRECIOS, LA CORPORACION DE FOMENTO DE LA PRODUCCION Y EL INSTITUTO DE FOMENTO MINERO E INDUSTRIAL DE ANTOFAGASTA; ESTABLECE EL REGIMEN JURIDICO DE SU PERSONAL.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-04-17",
     "modifica": [],
     "modificadaPor": [
@@ -282,8 +282,8 @@
   "4276": {
     "idNorma": 4276,
     "numero": "47",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LA LEY ORGANICA DEL PRESUPUESTO",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1959-12-04",
     "modifica": [],
     "modificadaPor": [
@@ -367,8 +367,8 @@
   "4944": {
     "idNorma": 4944,
     "numero": "179",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NORMAS POR LAS QUE SE REGIRA EL SERVICIO DE;TESORERIA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-05",
     "modifica": [],
     "modificadaPor": [
@@ -440,8 +440,8 @@
   "5148": {
     "idNorma": 5148,
     "numero": "237",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FACULTA A LA SUPERINTENDENCIA DE ABASTECIMIENTOS Y\nPRECIOS PARA HACERSE PARTE EN JUICIOS POR DELITOS\nECONOMICOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-01",
     "modifica": [
       "173"
@@ -462,8 +462,8 @@
   "5205": {
     "idNorma": 5205,
     "numero": "252",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL TEXTO DE LA LEY GENERAL DE BANCOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-04",
     "modifica": [],
     "modificadaPor": [
@@ -473,8 +473,8 @@
   "5219": {
     "idNorma": 5219,
     "numero": "256",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL NUEVO ESTATUTO ADMINISTRATIVO PARA LOS\nEMPLEADOS DE LA ADMINISTRACION PUBLICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-07-29",
     "modifica": [],
     "modificadaPor": [
@@ -506,8 +506,8 @@
   "5320": {
     "idNorma": 5320,
     "numero": "287",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL ESTATUTO ORGANICO DEL MINISTERIO DE\nRELACIONES EXTERIORES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-04",
     "modifica": [],
     "modificadaPor": [
@@ -517,8 +517,8 @@
   "5417": {
     "idNorma": 5417,
     "numero": "321",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREA ASTILLEROS Y MAESTRANZAS DE LA ARMADA, DENOMINADOS ASMAR",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-06",
     "modifica": [],
     "modificadaPor": [
@@ -528,8 +528,8 @@
   "5441": {
     "idNorma": 5441,
     "numero": "329",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA LEY ORGÁNICA DEL SERVICIO NACIONAL DE ADUANAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-06-20",
     "modifica": [
       "213"
@@ -660,8 +660,8 @@
   "5499": {
     "idNorma": 5499,
     "numero": "354",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL DECRETO CON FUERZA DE LEY N° 213,\nRELACIONADO CON EL SERVICIO DE EXPLOTACION DE PUERTOS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1953-08-05",
     "modifica": [
       "213"
