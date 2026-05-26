@@ -1,7 +1,7 @@
 # Decreto con Fuerza de Ley N° 196
 FIJA EL ESTATUTO ORGANICO DEL SERVICIO MEDICO LEGAL
 **Publicada:** 1960-04-04
-**Versión:** 2002-05-31
+**Versión:** 2005-10-21
 FIJA EL ESTATUTO ORGANICO DEL SERVICIO MEDICO LEGAL Núm. 196.- Santiago, 25 de Marzo de 1960.- Vistas las facultades que me otorga el artículo 202 de la ley N.o 13,305, de 6 de Abril de 1959, dicto el siguiente Decreto con fuerza de ley: Téngase como texto legal orgánico del Servicio Médico Legal el siguiente:
 ## TITULO I Objeto y Funciones
 Artículo 1.o el Servicio Médico Legal dependerá del Ministerio de Justicia y se regirá por las disposiciones del presente decreto con fuerza de ley.
