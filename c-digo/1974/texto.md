@@ -88,6 +88,22 @@ Art. 77. El corredor a quien su cliente entregare un documento de comercio endos
 Art. 78. En materia de seguros las funciones de los corredores son: intervenir en la realización de los contratos de seguros marítimos o fluviales, redactar las pólizas a prevención con los escribanos públicos, autorizar las ejecutadas entre las partes, y certificar previamente la tasa de las primas en todos los viajes por mar, ríos y canales navegables. En los asientos que hicieren en conformidad al número 3° del artículo 56, expresarán los nombres de los contratantes, la cosa asegurada, el valor que se le hubiere fijado, el lugar de la carga y descarga, la prima estipulada, el nombre del buque, su matrícula, pabellón y porte, y el nombre del capitán que lo mandare.
 Art. 79. En las operaciones de corretaje marítimo los corredores deberán asentar en el registro de que habla el número 3° del artículo 56 los contratos de fletamento en que intervinieren, expresando los nombres del capitán y fletador, nombre, pabellón, matrícula y porte del buque, el puerto de carga y descarga, el flete, los efectos del cargamento, las estadías convenidas y el plazo fijado para principiar y concluir la carga. Deberán asimismo conservar un ejemplar de las cartas de los fletamentos ajustados por su intermedio.
 Art. 80. Sólo los corredores titulados tendrán el carácter de oficiales públicos. Sin embargo, podrá ejercer la correduría cualquiera persona que no se halle incluida en alguna de las prohibiciones establecidas en el artículo 55.
+## ~~TITULO IV LEY 18118 DE LOS MARTILLEROS Art. 27 Derogado. D.O. 25.05.1982~~
+~~Art. 81. Derogado.~~
+~~Art. 82. Derogado.~~
+~~Art. 83. Derogado.~~
+~~Art. 84. Derogado.~~
+~~Art. 85. Derogado.~~
+~~Art. 86. Derogado.~~
+~~Art. 87. Derogado.~~
+~~Art. 88. Derogado.~~
+~~Art. 89. Derogado.~~
+~~Art. 90. Derogado.~~
+~~Art. 91. Derogado.~~
+~~Art. 92. Derogado.~~
+~~Art. 93. Derogado.~~
+~~Art. 94. Derogado.~~
+~~Art. 95. Derogado.~~
 Libro II DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES EN GENERAL
 ## Título IX
 § 1. De la constitución, forma y efectos de los contratos y obligaciones
@@ -318,7 +334,7 @@ Art. 300. El comisionista goza del derecho de retención que sanciona el artícu
 Art. 301. Cesa el derecho de retención desde el momento en que las mercaderías sean entregadas realmente al comitente.
 § 5. De los comisionistas para vender
 Art. 302. El comisionista que al recibir los efectos notare que se hallan averiados o en distinto estado del que indicare la carta de porte o el conocimiento, deberá practicar inmediatamente las diligencias que prescribe el artículo 249.
-Art. 303. No haciendo constar las averías en los términos del artículo precitado, se presume que el comisionista ha recibido las mercaderías en el mismo estado que enuncia la carta de porte o el conocimiento, y responderá de ellas a su comitente, a menos que justifique que han sido averiadas antes de su recepción.
+Art. 303. No haciendo constar las averías en los términos del artículo precitado, se presume que el comisionista ha recibido las mercaderí
 Art. 304. Cuando la alteración de las mercaderías hiciere tan urgente su venta que no haya tiempo para dar aviso al comitente, el comisionista acudirá al juzgado de comercio para que autorice la venta en los términos que juzgue más convenientes a los intereses del propietario.
 Art. 305. En cuanto al precio, lugar, época, modo y demás circunstancias de la venta encomendada, el comisionista se conformará rigurosamente a sus instrucciones.
 Art. 306. Vendiendo a precios más subidos que los designados en las instrucciones, facturas o correspondencia, el comisionista deberá abonarlos íntegramente a su comitente, salvo que por un convenio especial se hiciere la venta a provecho común. Si vendiere a precios más bajos que los señalados, el comisionista será responsable de la diferencia.
@@ -527,7 +543,7 @@ Art. 492. Las sociedades en comandita no podrán dividir su capital en acciones 
 Art. 493. Las sociedades en comandita no quedarán definitivamente constituidas sino después de suscrito todo el capital y de haber entregado cada accionista al menos la cuarta parte del importe de sus acciones. La suscripción y entrega serán comprobadas por la declaración del gerente en una escritura pública, y ésta será acompañada de la lista de suscriptores, de un estado de las entregas y de la escritura social.
 Art. 494. Las acciones de las sociedades en comandita serán nominativas.
 Art. 495. Los subscriptores de acciones son responsables, a pesar de cualquiera estipulación en contrario, del monto total de las acciones que hubieren tomado en la sociedad. Las acciones o cupones de acción no serán negociables sino después de entregadas dos quintas partes de su valor.
-Art. 496. Siempre que alguno de los socios llevare un aporte que no consista en dinero, o estipulare a su favor algunas ventajas particulares, la asamblea general hará verificar y estimar el valor de uno y otras, y mientras no haya prestado su aprobación en una reunión ulterior, la sociedad no quedará definitivamente constituida. Las deliberaciones de la asamblea serán adoptadas a mayoría de sufragios de los accionistas presentes o representados; y esta mayoría será compuesta de la cuarta parte de los accionistas, que represente la cuarta parte del capital social. Los socios que hicieren el aporte o hubieren estipulado las ventajas sometidas a la apreciación de la asamblea, no tendrán voto deliberativo.
+Art. 496. Siempre que alguno de los socios llevare un aporte que no consista en dinero, o estipulare a su favor algunas ventajas particulares, la asamblea general hará verificar y estimar el valor de uno y otras, y mientras no haya prestado su aprobación en una reunió
 Art. 497. Es nula y de ningún efecto, respecto de los socios, la comandita por acciones constituida en contravención a cualquiera de las prescripciones que contienen los artículos precedentes; pero los asociados no podrán oponer a terceros esa nulidad.
 Art. 498. En toda comandita por acciones se establecerá una junta de vigilancia, compuesta al menos de tres accionistas. La junta será nombrada por la asamblea general inmediatamente después de la constitución definitiva de la sociedad y antes de toda operación social. La primera junta será nombrada por un año y las demás por cinco.
 Art. 499. Los miembros de la junta deberán examinar si la sociedad ha sido legalmente constituida, inspeccionar los libros, comprobar la existencia de los valores sociales en caja, en documentos o en cualquier otra forma, y presentar al fin de cada año a la asamblea general una memoria acerca de los inventarios y de las proposiciones que haga el gerente para la distribución de dividendos.
