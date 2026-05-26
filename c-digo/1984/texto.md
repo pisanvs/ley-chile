@@ -471,7 +471,7 @@ ART. 341. El que acometiere a un conductor de correspondencia pública para inte
 ### § I. Aborto.
 ART. 342. El que maliciosamente causare un aborto será castigado: 1.° Con la pena de presidio mayor en su grado mínimo, si ejerciere violencia en la persona de la mujer embarazada. 2.° Con la de presidio menor en su grado máximo, si, aunque no la ejerza, obrare sin consentimiento de la mujer. 3.° Con la de presidio menor en su grado medio, si la mujer consintiere.
 ART. 343. Será castigado con presidio menor en sus grados mínimo a medio, el que con violencias ocasionare un aborto, aun cuando no haya tenido propósito de causarlo, con tal que el estado de embarazo de la mujer sea notorio o le constare al hechor.
-ART. 344. La mujer que causare su aborto o consintiere que otra persona se lo cause, será castigada con presidio menor en su grado máximo. Si lo hiciere por ocultar su deshonra, incurrirá en la pena de presidio menor en su grado medio.
+ART. 344. La mujer que, fuera de los casos permitidos por la ley, causare su aborto o consintiere que otra persona se lo cause, será castigada con presidio menor en su grado máximo. Si lo hiciere por ocultar su deshonra, incurrirá en la pena de presidio menor en su grado medio.
 ART. 345. El facultativo que, abusando de su oficio, causare el aborto o cooperare a él, incurrirá respectivamente en las penas señaladas en el art. 342, aumentadas en un grado.
 ### § II. Abandono de niños y personas desvalidas.
 ART. 346. El que abandonare en un lugar no solitario a un niño menor de siete años, será castigado con presidio menor en su grado mínimo.
