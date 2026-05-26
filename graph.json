@@ -205,8 +205,8 @@
   "3396": {
     "idNorma": 3396,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DETERMINA LIMITES EN LA REGION METROPOLITANA DE SANTIAGO; CREA NUEVAS COMUNAS, ESTABLECE Y DESCRIBE SUS LIMITES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-03-17",
     "modifica": [
       "575"
@@ -315,8 +315,8 @@
   "3487": {
     "idNorma": 3487,
     "numero": "2",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA SEPARADAMENTE LAS PLANTAS PARA EL CONSEJO DE DEFENSA DEL ESTADO Y EL DEPARTAMENTO DE COBRANZA JUDICIAL DE IMPUESTOS; INCORPORA EL DEPARTAMENTO DE COBRANZA JUDICIAL DE IMPUESTOS DEL CONSEJO DE DEFENSA DEL ESTADO AL SERVICIO DE TESORERIAS; MODIFICA EL DECRETO CON FUERZA DE LEY 190, DE 1960, QUE APROBO EL CODIGO TRIBUTARIO Y EL DECRETO CON FUERZA DE LEY 5, DE 1963, QUE APROBO EL ESTATUTO ORGANICO DEL SERVICIO DE TESORERIAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1968-08-01",
     "modifica": [
       "5"
@@ -427,8 +427,8 @@
   "3656": {
     "idNorma": 3656,
     "numero": "5",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA, COMPLEMENTA Y FIJA TEXTO REFUNDIDO DEL D.F.L. R.R.A. N° 19, COMUNIDADES AGRICOLAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1968-01-17",
     "modifica": [],
     "modificadaPor": [
@@ -438,8 +438,8 @@
   "3702": {
     "idNorma": 3702,
     "numero": "6",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "AGREGA INCISO FINAL AL ARTICULO 56° DEL DECRETO CON FUERZA DE LEY 224, DE 1953, QUE FIJO EL TEXTO DE LA LEY GENERAL DE CONSTRUCCIONES Y URBANIZACION.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1959-08-24",
     "modifica": [
       "224"
@@ -486,8 +486,8 @@
   "3849": {
     "idNorma": 3849,
     "numero": "10",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA ESTATUTO ORGANICO DEL SERVICIO DE\nTESORERIAS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1991-12-20",
     "modifica": [
       "5"
@@ -684,7 +684,7 @@
     "idNorma": 4669,
     "numero": "117",
     "titulo": "",
-    "clasificacion": "",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-04-30",
     "modifica": [
       "94"
@@ -694,8 +694,8 @@
   "4670": {
     "idNorma": 4670,
     "numero": "117",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ORDENA QUE LA ADMINISTRACION QUE INDICA, EJERCIDA POR EL INSTITUTO DE ECONOMIA AGRICOLA, PASARA AL DEPARTAMENTO DE INDEMNIZACIONES A OBREROS MOLINEROS Y PANIFICADORES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-06-18",
     "modifica": [
       "87"
@@ -705,8 +705,8 @@
   "4717": {
     "idNorma": 4717,
     "numero": "129",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL DECRETO CON FUERZA DE LEY QUE INDICA, EN\nRELACION CON DETERMINADAS ATRIBUCIONES DE LA DIRECCION\nDE AERONAUTICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1953-06-30",
     "modifica": [
       "87"
@@ -758,8 +758,8 @@
   "4887": {
     "idNorma": 4887,
     "numero": "165",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NORMAS PARA EL ARRENDAMIENTO Y OTORGAMIENTO DE TITULOS DE DOMINIO SOBRE LOS TERRENOS FISCALES QUE INDICA.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-03-26",
     "modifica": [],
     "modificadaPor": [
@@ -796,8 +796,8 @@
   "4942": {
     "idNorma": 4942,
     "numero": "178",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NORMA DE REORGANIZACION Y DEL PERSONAL DEL SERVICIO DE TESORERIAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-11-06",
     "modifica": [
       "5"
@@ -949,8 +949,8 @@
   "5194": {
     "idNorma": 5194,
     "numero": "249",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL DECRETO CON FUERZA DE LEY N.o 371, DE;1953",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1960-04-05",
     "modifica": [
       "285"
@@ -1058,8 +1058,8 @@
   "5275": {
     "idNorma": 5275,
     "numero": "274",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREA UNA EMPRESA DEL ESTADO DENOMINADA EMPRESA DE ABASTECIMIENTO DE ZONAS AISLADAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-06",
     "modifica": [
       "87"
@@ -1161,8 +1161,8 @@
   "5455": {
     "idNorma": 5455,
     "numero": "334",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REEMPLAZA EL ARTICULO 5°, LAS LETRAS E) Y F) DEL 3°, EL INCISO 1° DEL 8° Y EL 1° DEL ARTICULO 10° Y MODIFICA EL ARTICULO 18° DEL DECRETO CON FUERZA DE LEY 37, DE 1959, QUE APRUEBA LA LEY ORGANICA DEL CONSEJO DE CENSURA CINEMATOGRAFICA.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-06",
     "modifica": [
       "37"
@@ -1173,7 +1173,7 @@
     "idNorma": 5458,
     "numero": "335",
     "titulo": "",
-    "clasificacion": "",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-05-29",
     "modifica": [
       "94"
@@ -1183,8 +1183,8 @@
   "5463": {
     "idNorma": 5463,
     "numero": "336",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FACULTA AL PRESIDENTE DE LA REPUBLICA PARA DELEGAR EN EL MINISTERIO DE TIERRAS Y COLONIZACION SUS FACULTADES DE TUICION Y ADMINISTRACION SOBRE BIENES DEL ESTADO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": []
@@ -1338,8 +1338,8 @@
   "5543": {
     "idNorma": 5543,
     "numero": "382",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTERCALA INCISOS NUEVOS ENTRE LOS INCISOS 1° Y 2° DEL ARTICULO 2°, MODIFICA EL INCISO 1° DEL ARTICULO 4° Y MODIFICA EL INCISO 2° DEL ARTICULO 1° TRANSITORIO DEL DECRETO CON FUERZA DE LEY 87, DE 12 DE MAYO DE 1953, QUE CREO EL INSTITUTO NACIONAL DE COMERCIO DEROGA EL INCISO FINAL DEL ARTICULO 1° DEL DECRETO 628, DE 27 DE SEPTIEMBRE DE 1939, DE AGRICULTURA, AGREGADO POR EL ARTICULO 26° DE LA LEY 9.689, DE 21 DE SEPTIEMBRE DE 1950, Y MODIFICA EL INCISO 2° DEL ARTICULO 5° DEL MISMO DECRETO.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [
       "87"
@@ -10984,6 +10984,42 @@
     "modifica": [
       "10662"
     ],
+    "modificadaPor": []
+  },
+  "6834": {
+    "idNorma": 6834,
+    "numero": "2142",
+    "titulo": "DISUELVE LA CORPORACION DE CONSTRUCCIONES DEPORTIVAS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-04-29",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6835": {
+    "idNorma": 6835,
+    "numero": "2145",
+    "titulo": "CREA LA CORTE DE APELACIONES PRESIDENTE AGUIRRE CERDA EN EL DEPARTAMENTO DEL MISMO NOMBRE.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-03-31",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6836": {
+    "idNorma": 6836,
+    "numero": "2147",
+    "titulo": "",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-03-31",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6837": {
+    "idNorma": 6837,
+    "numero": "2154",
+    "titulo": "DISMINUYE LA TASA DE COTIZACION AL FONDO UNICO DE\nPRESTACIONES FAMILIARES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-03-31",
+    "modifica": [],
     "modificadaPor": []
   },
   "6840": {
