@@ -1,0 +1,8 @@
+# Decreto Ley N° 2154
+DISMINUYE LA TASA DE COTIZACION AL FONDO UNICO DE
+PRESTACIONES FAMILIARES
+**Publicada:** 1978-03-31
+DISMINUYE LA TASA DE COTIZACION AL FONDO UNICO DE PRESTACIONES FAMILIARES Núm. 2.154.- Santiago, 30 de Marzo de 1978.- Visto: lo Dispuesto en los decretos leyes N°s 1 y 128, de 1973; N° 527, de 1974, y N° 991, de 1976, y Considerando: Que la actual tasa de cotización al Fondo Unico de Prestaciones Familiares puede ser rebajada, y ello responde a la política de incentivo al sector privado para la contratación de mano de obra, como consecuencia del menor costo de la carga impositiva que conlleva, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Sustitúyese, en el inciso tercero del artículo 5° transitorio del decreto ley N° 307, de 1974, modificado por el artículo 2° del decreto ley N° 2.062, de 1977, a contar del 1° de Abril de 1978, el guarismo "17%" por "13%" y, a contar del 1° de Julio de 1978, el guarismo anterior por "10%".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General Director de Carabineros.- Sergio de Castro Spikula, Ministro de Hacienda.- Vasco Costa Ramírez, Ministro del Trabajo y Previsión Social. Lo que Transcribo a Ud. para su conocimiento.- Pedro Larrondo Jara, Capitán de Navío, Subsecretario de Hacienda.
