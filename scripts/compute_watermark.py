@@ -12,7 +12,7 @@ Usage:
         --historial-dir ./historial \\
         [--output-env]   # write W/D/stats to $GITHUB_OUTPUT
 
-Exit code 0 always. If --output-env, also prints key=value lines.
+Exit code 0 on success. Exits 1 if graph.json is missing.
 """
 
 from __future__ import annotations
@@ -52,6 +52,7 @@ def compute_watermark(
         watermark_advanced — bool: D > W (or D non-empty and W is empty)
     """
     diffs_dir = cache_dir / "diffs"
+    versions_dir = cache_dir / "versions"
 
     # All normas in graph (for counting total and cached)
     all_normas = list(graph.keys())
@@ -67,14 +68,32 @@ def compute_watermark(
         key=lambda t: t[1],
     )
 
-    total_cached = sum(
-        1 for id_str in all_normas
-        if (diffs_dir / f"{id_str}.json").exists()
-    )
+    def _diffs_complete(id_str: str) -> bool:
+        diff_path = diffs_dir / f"{id_str}.json"
+        if not diff_path.exists():
+            return False
+        try:
+            diffs = json.loads(diff_path.read_text(encoding="utf-8"))
+        except Exception:
+            return False
+        if not isinstance(diffs, list) or not diffs:
+            return False
+        base_dir = versions_dir / str(id_str)
+        for entry in diffs:
+            if not isinstance(entry, dict):
+                return False
+            fecha = entry.get("fecha", "")
+            if not fecha:
+                return False
+            if not (base_dir / f"{fecha}.json").exists():
+                return False
+        return True
+
+    total_cached = sum(1 for id_str in all_normas if _diffs_complete(id_str))
 
     D = ""
     for id_str, fecha in dated:
-        if not (diffs_dir / f"{id_str}.json").exists():
+        if not _diffs_complete(id_str):
             break
         D = fecha
 

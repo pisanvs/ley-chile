@@ -304,15 +304,35 @@ def _write_outputs(
     write_law_outputs: bool = True,
 ) -> None:
     """Write cache/diffs/{idNorma}.json and {law_dir}/versiones.json + texto.md."""
-    # 1. cache/diffs/{idNorma}.json — always written
+    # 1. Enrich with modificadaPor edges matched by date (may be multiple per date)
+    modif_by_date: dict[str, list] = {}
+    for edge in node.get("modificadaPor_edges", []):
+        fecha_edge = edge.get("fecha", "")
+        if fecha_edge:
+            modif_by_date.setdefault(fecha_edge, []).append(edge)
+
+    def _normalize_modificada(edges: list) -> dict | list | None:
+        if not edges:
+            return None
+        return edges[0] if len(edges) == 1 else edges
+
+    enriched_list = []
+    for entry in diff_list:
+        v = dict(entry)
+        fecha = entry.get("fecha", "")
+        if fecha in modif_by_date:
+            v["modificadaPor"] = _normalize_modificada(modif_by_date[fecha])
+        enriched_list.append(v)
+
+    # 2. cache/diffs/{idNorma}.json — always written
     diffs_cache_dir.mkdir(parents=True, exist_ok=True)
     diff_path = diffs_cache_dir / f"{id_norma}.json"
-    diff_path.write_text(json.dumps(diff_list, ensure_ascii=False, indent=2), encoding="utf-8")
+    diff_path.write_text(json.dumps(enriched_list, ensure_ascii=False, indent=2), encoding="utf-8")
 
     if not write_law_outputs:
         return
 
-    # 2. Resolve law_dir
+    # 3. Resolve law_dir
     numero = node.get("numero", str(id_norma))
     clasificacion = node.get("clasificacion", "sustantiva")
     tipo = node.get("tipo", "")
@@ -333,24 +353,9 @@ def _write_outputs(
     )
     ldir.mkdir(parents=True, exist_ok=True)
 
-    # 3. Enrich with modificadaPor edges matched by date (may be multiple per date)
-    modif_by_date: dict[str, list] = {}
-    for edge in node.get("modificadaPor_edges", []):
-        fecha_edge = edge.get("fecha", "")
-        if fecha_edge:
-            modif_by_date.setdefault(fecha_edge, []).append(edge)
-
-    versiones_list = []
-    for entry in diff_list:
-        v = dict(entry)
-        fecha = entry.get("fecha", "")
-        if fecha in modif_by_date:
-            v["modificadaPor"] = modif_by_date[fecha]
-        versiones_list.append(v)
-
     versiones_path = ldir / "versiones.json"
     versiones_path.write_text(
-        json.dumps(versiones_list, ensure_ascii=False, indent=2),
+        json.dumps(enriched_list, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
 

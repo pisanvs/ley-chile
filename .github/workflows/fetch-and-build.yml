@@ -51,6 +51,7 @@ jobs:
         run: |
           CODE_BRANCH=$(git rev-parse --abbrev-ref HEAD)
           if git fetch origin pipeline-cache 2>/dev/null; then
+            git branch -f pipeline-cache origin/pipeline-cache
             git worktree add cache pipeline-cache
           else
             git checkout --orphan pipeline-cache
@@ -66,6 +67,7 @@ jobs:
         run: |
           CODE_BRANCH=$(git rev-parse --abbrev-ref HEAD)
           if git fetch origin historial 2>/dev/null; then
+            git branch -f historial origin/historial
             git worktree add historial historial
           else
             git checkout --orphan historial

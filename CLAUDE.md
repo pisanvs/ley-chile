@@ -15,14 +15,11 @@ pip install -r requirements.txt
 LEYCHILE_DATA_ROOT=./historial python scripts/run_pipeline.py
 
 # Limit to most recent 5 normas (useful for testing)
-LEYCHILE_DATA_ROOT=./historial python scripts/run_pipeline.py --limit -5 --verbose
+LEYCHILE_DATA_ROOT=./historial python scripts/run_pipeline.py --limit -5
 
 # Skip completed phases
 python scripts/run_pipeline.py --skip-catalog --skip-normas
 python scripts/run_pipeline.py --skip-catalog --skip-normas --skip-versions
-
-# Pass --no-expand to skip BFS expansion of modifier laws in fetch_normas
-python scripts/run_pipeline.py --no-expand
 
 # Preview commits without importing (build_history only)
 LEYCHILE_DATA_ROOT=./historial python scripts/build_history.py --dry-run
@@ -46,7 +43,7 @@ python scripts/update_readme_status.py --readme README.md --graph-path ./graph.j
 
 ```bash
 python -m pytest                    # all tests
-python -m pytest tests/test_utils.py  # single file (adjust path)
+python -m pytest tests/test_compute_watermark.py  # single file (adjust path)
 ```
 
 Tests cover pure functions only — no network or git calls required.

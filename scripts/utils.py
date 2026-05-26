@@ -102,7 +102,7 @@ class AdaptiveLimiter:
         return self
 
     async def __aexit__(self, *_):
-        await self.release()
+        self.release()
 
     async def acquire(self):
         await self._sem.acquire()
@@ -163,6 +163,62 @@ class AdaptiveLimiter:
     @property
     def concurrency(self) -> int:
         return self._concurrency
+
+
+# ---------------------------------------------------------------------------
+# Logging helpers
+# ---------------------------------------------------------------------------
+
+
+def setup_logging(verbose: bool = False) -> None:
+    """Configure root logging for pipeline scripts."""
+    level = logging.DEBUG if verbose else logging.INFO
+    logging.basicConfig(
+        level=level,
+        format="%(asctime)s %(levelname)s %(message)s",
+        datefmt="%H:%M:%S",
+    )
+
+
+# ---------------------------------------------------------------------------
+# Progress helpers
+# ---------------------------------------------------------------------------
+
+
+class Progress:
+    """Minimal progress logger used by fetch_versions."""
+
+    def __init__(self, label: str, total: int | None = None, unit: str = "items", log_every: int = 20) -> None:
+        self.label = label
+        self.total = total
+        self.unit = unit
+        self.log_every = max(1, log_every)
+        self.count = 0
+
+    def __enter__(self):
+        if self.total is not None:
+            logger.info("%s: starting (%d %s)", self.label, self.total, self.unit)
+        else:
+            logger.info("%s: starting", self.label)
+        return self
+
+    def __exit__(self, *_):
+        if self.total is not None:
+            logger.info("%s: done (%d/%d %s)", self.label, self.count, self.total, self.unit)
+        else:
+            logger.info("%s: done (%d %s)", self.label, self.count, self.unit)
+
+    def update(self, n: int = 1, status: str = "") -> None:
+        self.count += n
+        if self.count % self.log_every != 0 and (self.total is None or self.count != self.total):
+            return
+        if self.total:
+            msg = f"{self.label}: {self.count}/{self.total} {self.unit}"
+        else:
+            msg = f"{self.label}: {self.count} {self.unit}"
+        if status:
+            msg += f" ({status})"
+        logger.info(msg)
 
 
 # ---------------------------------------------------------------------------

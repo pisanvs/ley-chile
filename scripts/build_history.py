@@ -123,6 +123,8 @@ def _scope_for_node(node: dict) -> str:
         return "dl"
     if tipo in ("dfl", "decreto con fuerza de ley"):
         return "dfl"
+    if tipo in ("dto", "decreto", "decreto supremo", "decreto-supremo"):
+        return "dto"
     if tipo == "cod":
         return "cod"
     if clasificacion == "modificatoria":
@@ -132,7 +134,21 @@ def _scope_for_node(node: dict) -> str:
 
 def _tipo_label(scope: str) -> str:
     """Human label for commit messages."""
-    return {"dl": "Decreto Ley", "dfl": "Decreto con Fuerza de Ley", "cod": "Código", "modificacion": "Ley"}.get(scope, "Ley")
+    return {
+        "dl": "Decreto Ley",
+        "dfl": "Decreto con Fuerza de Ley",
+        "dto": "Decreto Supremo",
+        "cod": "Código",
+        "modificacion": "Ley",
+    }.get(scope, "Ley")
+
+
+def _normalize_modificada_por(value: object) -> dict | None:
+    if isinstance(value, list):
+        return value[0] if value else None
+    if isinstance(value, dict):
+        return value
+    return None
 
 
 def _commit_subject_causa(scope: str, numero: str, fecha: str, organismo: str = "") -> str:
@@ -274,7 +290,7 @@ def _collect_events(
             if not fecha:
                 continue
 
-            modificada_por = entry.get("modificadaPor")
+            modificada_por = _normalize_modificada_por(entry.get("modificadaPor"))
             is_last = (i == len(diffs) - 1)
 
             # Determine causing law
@@ -310,6 +326,9 @@ def _collect_events(
                     id_norma=int(causa_id_str) if causa_id_str.isdigit() else 0,
                     date=causa_fecha,
                     titulo=causa_titulo,
+                    files={},
+                    deletes=[],
+                    symlinks={},
                     subject=_commit_subject_causa(causa_scope, causa_numero, causa_fecha, causa_org),
                     body="\n".join(filter(None, [causa_titulo, f"BCN idNorma={causa_id_str}"])),
                     _seq=seq,
