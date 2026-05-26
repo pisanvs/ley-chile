@@ -113,6 +113,7 @@ Art. 114. Siempre que en los contratos enunciados en el inciso primero del anter
 Art. 115. Cuando las partes se refieran a medidas desautorizadas por la ley, serán obligatorias las usadas en el lugar donde deba cumplirse el contrato.
 Art. 116. Si antes del vencimiento del plazo fueren excluidas de la circulación las piezas de moneda a que se refiera la obligación, el pago se hará en las monedas corrientes al tiempo del cumplimiento del contrato según el valor legal que éstas tuvieren.
 Art. 117. El acreedor no está obligado a aceptar el pago antes del vencimiento de la obligación.
+Art. 118. Ninguna persona, con excepción del Fisco, sus reparticiones y demás instituciones públicas, de las empresas estatales y del Banco Central de Chile, está obligada a recibir en pago y de una sola vez más de cincuenta monedas de cada tipo de las que se acuñen en el país. Las monedas cortadas, perforadas, corroídas o deterioradas en cualquiera forma en que no sea visible la acuñación, perderán su carácter de moneda legal.
 Art. 119. El deudor que paga tiene derecho a exigir un recibo, y no está obligado a contentarse con la devolución o entrega del título de la deuda. El recibo prueba la liberación de la deuda.
 Art. 120. El finiquito de una cuenta hará presumir el de las anteriores, cuando el comerciante que lo ha dado arregla sus cuentas en períodos fijos.
 Art. 121. El acreedor que tiene varios créditos vencidos contra un deudor, puede imputar el pago a cualquiera de las deudas, cuando el deudor no hubiere hecho la imputación al tiempo de hacer el pago.
