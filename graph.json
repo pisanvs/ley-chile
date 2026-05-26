@@ -2,8 +2,8 @@
   "3368": {
     "idNorma": 3368,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE ESTATUTO DEL PERSONAL DE LAS FUERZAS ARMADAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1968-10-07",
     "modifica": [],
     "modificadaPor": [
@@ -14,8 +14,8 @@
   "3428": {
     "idNorma": 3428,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL DECRETO LEY N° 1.349, DE 1976, QUE CREA LA COMISION CHILENA DEL COBRE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1987-04-28",
     "modifica": [],
     "modificadaPor": [
@@ -25,8 +25,8 @@
   "4537": {
     "idNorma": 4537,
     "numero": "90",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA FUNCIONES Y REQUISITOS DE INGRESO Y PROMOCION PARA;LOS SERVICIOS REGIDOS POR LA ESCALA UNICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1977-02-11",
     "modifica": [],
     "modificadaPor": [
@@ -36,8 +36,8 @@
   "4824": {
     "idNorma": 4824,
     "numero": "150",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LAS NORMAS SOBRE SISTEMA UNICO DE PRESTACIONES FAMILIARES Y SISTEMA DE SUBSIDIOS DE CESANTIA PARA LOS TRABAJADORES DE LOS SECTORES PRIVADO Y PUBLICO, CONTENIDAS EN LOS DECRETOS LEYES N°S. 307 Y 603, AMBOS DE 1974",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1982-03-25",
     "modifica": [],
     "modificadaPor": [
@@ -47,8 +47,8 @@
   "4921": {
     "idNorma": 4921,
     "numero": "173",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DETERMINA ATRIBUCIONES DE LA SUPERINTENDENCIA DE\nABASTECIMIENTOS Y PRECIOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-07-31",
     "modifica": [
       "520"
@@ -58,8 +58,8 @@
   "5069": {
     "idNorma": 5069,
     "numero": "213",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA ORDENANZA DE ADUANAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": [
@@ -69,8 +69,8 @@
   "5202": {
     "idNorma": 5202,
     "numero": "251",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA EL TEXTO DE LA LEY ORGANICA DEL BANCO DEL ESTADO DE CHILE Y DISPONE QUE NO SERAN APLICABLES A ESTA INSTITUCION LOS ARTICULOS 107°, 109°, 110° Y 111° DEL DECRETO 3.154, DE 23 DE JULIO DE 1947, DE HACIENDA, QUE FIJO EL TEXTO DEFINITIVO DE LA LEY GENERAL DE BANCOS, ESTABLECE QUE LA DISPOSICION DEL N° 5 DEL ARTICULO 196° DEL CODIGO ORGANICO DE TRIBUNALES NO SERA APLICABLE RESPECTO DEL CITADO BANCO, EN LOS JUICIOS DE ESTA INSTITUCION, A MENOS QUE SE EJERCITE UNA ACCION JUDICIAL CONTRA EL JUEZ O CONTRA CUALQUIERA DE LAS PERSONAS QUE DICHA DISPOSICION SEñALA, ASIMISMO, LAS DISPOSICIONES DEL DECRETO CON FUERZA DE LEY 68, DE 1960, SOBRE FIJACION DE RENTAS, NO SERAN APLICABLES AL BANCO DEL ESTADO DE CHILE.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-04",
     "modifica": [],
     "modificadaPor": [
@@ -80,8 +80,8 @@
   "5238": {
     "idNorma": 5238,
     "numero": "262",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA EL REGLAMENTO DE VIATICOS PARA EL PERSONAL DE LA ADMINISTRACION PUBLICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1977-05-03",
     "modifica": [],
     "modificadaPor": [
@@ -91,8 +91,8 @@
   "5469": {
     "idNorma": 5469,
     "numero": "338",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTATUTO ADMINISTRATIVO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-06",
     "modifica": [],
     "modificadaPor": [
@@ -102,8 +102,8 @@
   "5496": {
     "idNorma": 5496,
     "numero": "353",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA EL TEXTO DE LA LEY ORGANICA DE LA DIRECCION\nDE APROVISIONAMIENTO DEL ESTADO.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-06",
     "modifica": [],
     "modificadaPor": [
@@ -9033,6 +9033,96 @@
     "modifica": [
       "1226"
     ],
+    "modificadaPor": []
+  },
+  "6818": {
+    "idNorma": 6818,
+    "numero": "2083",
+    "titulo": "PRORROGA VIGENCIA DISPOSICIONES DECRETOS LEYES N° 231, DE 1973, Y 994, DE 1975.-",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1977-12-30",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6819": {
+    "idNorma": 6819,
+    "numero": "2086",
+    "titulo": "ESTABLECE REAJUSTABILIDAD DE CUOTAS SOCIALES\nDESCONTADAS POR LOS EMPLEADORES EN CASOS QUE SEÑALA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1977-12-31",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6820": {
+    "idNorma": 6820,
+    "numero": "2087",
+    "titulo": "SUPLEMENTA PRESUPUESTO DE LA NACION",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1977-12-30",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6821": {
+    "idNorma": 6821,
+    "numero": "2088",
+    "titulo": "AMPLIA FRANQUICIAS ADUANERAS A CHILOE CONTINENTAL Y\nAYSEN, A CONTAR DEL 1° DE ENERO DE 1978",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1977-12-31",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6822": {
+    "idNorma": 6822,
+    "numero": "2090",
+    "titulo": "FACULTA TRANSITORIAMENTE AL DIRECTOR DE LA DIRECCION\nDE PREVISION DE CARABINEROS DE CHILE PARA PROVEER LOS\nEMPLEOS VACANTES DE LA PLANTA ESPECIAL A QUE SE REFIERE\nEL ARTICULO 15 DEL DECRETO LEY N° 844, DE 1975",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1977-12-31",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6824": {
+    "idNorma": 6824,
+    "numero": "2093",
+    "titulo": "MODIFICA LA NATURALEZA JURIDICA DE LA COMISION NACIONAL DE REFORMA ADMINISTRATIVA Y FIJA PLANTA DE SU PERSONAL",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-01-04",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6826": {
+    "idNorma": 6826,
+    "numero": "2097",
+    "titulo": "INTRODUCE MODIFICACIONES AL DECRETO CON FUERZA DE\nLEY N° 211, DE 1960, Y AL DECRETO LEY N° 1.068, DE 1975,\nY DEROGA EL DECRETO LEY N° 40, DE 1973",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-01-09",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6827": {
+    "idNorma": 6827,
+    "numero": "2099",
+    "titulo": "INTRODUCE DISTINTAS MODIFICACIONES A LA LEGISLACION BANCARIA Y FINANCIERA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-01-13",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6828": {
+    "idNorma": 6828,
+    "numero": "2100",
+    "titulo": "DICTA NORMAS SOBRE REMUNERACION DEL PERSONAL DEL PODER JUDICIAL, DE LA CONTRALORIA GENERAL DE LA REPUBLICA Y DE LOS JUECES DE POLICIA LOCAL, Y SEÑALA EFECTOS DEL PROCESO DE IDENTIFICACION DE CARGOS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-01-16",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6829": {
+    "idNorma": 6829,
+    "numero": "2101",
+    "titulo": "DECLARA EN REORGANIZACION EL MINISTERIO DE RELACIONES EXTERIORES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-01-16",
+    "modifica": [],
     "modificadaPor": []
   },
   "6856": {
