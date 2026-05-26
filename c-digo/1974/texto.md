@@ -23,6 +23,7 @@ Art. 21. Las reglas y formalidades relativas a la organización del registro del
 Art. 24. Las escrituras sociales y los poderes de que no se hubiere tomado razón, no producirán efecto alguno entre los socios, ni entre el mandante y mandatario; pero los actos ejecutados o contratos celebrados por los socios o mandatarios surtirán pleno efecto respecto de terceros.
 § 2. De la contabilidad mercantil
 Art. 25. Todo comerciante está obligado a llevar para su contabilidad y correspondencia: 1°. El libro diario; 2°. El libro mayor o de cuentas corrientes; 3°. El libro de balances; 4°. El libro copiador de cartas.
+Art. 26. Los libros deberán ser llevados en lengua castellana.
 Art. 27. En el libro diario se asentarán por orden cronológico y día por día las operaciones mercantiles que ejecute el comerciante, expresando detalladamente el carácter y circunstancias de cada una de ellas.
 Art. 28. Llevándose libro de caja y de facturas, podrá omitirse en el diario el asiento detallado, tanto de las cantidades que entraren, como de las compras, ventas y remesas de mercaderías que el comerciante hiciere.
 Art. 29. Al abrir su giro, todo comerciante hará en el libro de balances una enunciación estimativa de todos sus bienes, tanto muebles como inmuebles, y de todos sus créditos activos y pasivos. Al fin de cada año formará en este mismo libro un balance general de todos sus negocios, bajo las responsabilidades que se establecen en el Libro IV de este Código.
