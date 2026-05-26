@@ -1,6 +1,7 @@
 # Decreto con Fuerza de Ley N° 47
 MODIFICA LA LEY ORGANICA DEL PRESUPUESTO
 **Publicada:** 1959-12-04
+**Versión:** 1975-11-28
 MODIFICA LA LEY ORGANICA DEL PRESUPUESTO Núm. 47.- Santiago, 27 de Noviembre de 1959.- Considerando: 1° Que la legislación presupuestaria vigente data de 1929; 2° Que se ha registrado en los últimos años un notable progreso técnico en materias presupuestarias; 3° Que es necesario que los presupuestos del sector público sean un elemento útil para el análisis económico; 4° Que el Presupuesto debe permitir la asignación óptima de los recursos públicos, y Vistas, las facultades que me otorga el artículo 207, N° 12 de la ley 13,305, de 6 de Abril de 1959, vengo en dictar el siguiente Decreto con fuerza de ley:
 ~~Título I {ARTS. 1-4} NORMAS DE APLICACION GENERAL A LOS DIVERSOS PRESUPUESTOS DEL SECTOR PUBLICO Artículo 1.o Los presupuestos a que se refiere esta ley son: el presupuesto fiscal, el de las instituciones semifiscales y el de las empresas del Estado. Estos presupuestos serán la expresión financiera de los propósitos, programas y actividades estatales.~~
 ~~Artículo 2.o El año presupuestario coincidirá con el año calendario.~~
