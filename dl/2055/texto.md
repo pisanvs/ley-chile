@@ -1,0 +1,9 @@
+# Decreto Ley N° 2055
+CONCEDE BONIFICACION DE NAVIDAD A LOS TRABAJADORES Y
+**Publicada:** 1977-12-02
+CONCEDE BONIFICACION DE NAVIDAD A LOS TRABAJADORES Y Núm. 2.055.- Santiago, 30 de Noviembre de 1977.- Visto: lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo 1°.- Concédese, por una sola vez, en los mismos términos, modalidades, condiciones y características que señala el decreto ley 1.613, de 1976, a los trabajadores y pensionados allí indicados, que hubieren tenido alguna de esas calidades al 23 de Noviembre de 1977, una bonificación especial de Navidad de $ 100, la que se aumentará en otros $ 100 por cada persona por la cual el beneficiario perciba asignación familiar. Dará, también, derecho a este incremento el goce de asignación maternal.
+Artículo 2°.- La bonificación que otorga este decreto ley, deberá ser pagada antes del 20 de Diciembre de 1977.
+Artículo 3°.- Supleméntase, en las cantidades que se indican, los siguientes ítem del Presupuesto vigente: PARTIDA 50-70 - Tesoro Público: Ingresos Generales de la Nación Miles de $ ------------ 50 01 00 03 0330.013 ................. 260.000 Gastos - Operaciones Complementarias 50 01 02 21 09 ....................... 260.000 ===========
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- CESAR MENDOZA DURAN, General Director de Carabineros.- Carlos Le May Délano, Contralmirante, Comandante en Jefe de la Armada subrogante.- José Berdichewsky Scher, General de Aviación, Cdmandante en Jefe de la Fuerza Aérea de Chile subrogante.- Sergio de Castro Spikula, Ministro de Hacienda. Lo que transcribo para su conocimiento.- Mario Duvauchelle Rodríguez, Capitán de Navío, JT, Secretario de Legislación de la Junta de Gobierno.
