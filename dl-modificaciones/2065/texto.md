@@ -1,0 +1,10 @@
+# Decreto Ley N° 2065
+MODIFICA LA LEGISLACION ADUANERA PARA FACILITAR EL
+TRAFICO DE CABOTAJE Y AGILIZAR OTRAS OPERACIONES
+**Publicada:** 1977-12-15
+MODIFICA LA LEGISLACION ADUANERA PARA FACILITAR EL TRAFICO DE CABOTAJE Y AGILIZAR OTRAS OPERACIONES Núm. 2.065.- Santiago, 7 de Diciembre de 1977.- Visto: lo dispueto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo 1°.- Intercálanse en el inciso final del artículo 35 de la ley N° 13.039, agregado por el artículo 3° del decreto ley N° 1.582, de 1976, las siguientes expresiones, después del punto seguido, a continuación de la palabra "Antárticas" y antes de la frase final de dicho inciso: "La importación de las referidas mercancías podrá efectuarse también por Aduanas mayores ubicadas fuera de la XII Región".
+Artículo 2°- Suprímense, en el inciso primero del artículo 113 de la Ordenanza de Aduanas, aprobada por DFL. N° 213, de 1953, las expresiones: "tanto nacionales, nacionalizadas, como...".
+Artículo 3°- Elimínase, en el artículo 149 de la Ordenanza de Aduanas, la expresión "y cabotaje"; sustitúyese la coma (,) que va a continuación de la palabra "importación" por una "o" y, agrégase el siguiente nuevo inciso: "En el tráfico de cabotaje, el Superintendente de Aduanas determinará la forma de fiscalización de los embarques y desembarques de mercancías en ese tráfico".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha, contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.-JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- Jose Berdichewsky Scher, General de Aviación, Comandante en Jefe de la Fuerza Aérea subrogante.- Sergio de Castro Spikula, Ministro de Hacienda. Lo que transcribo para su conocimiento.- Mario Duvauchelle Rodríguez, Capitán de Navío, JT, Secretario de Legislación de la Junta de Gobierno.
