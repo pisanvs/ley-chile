@@ -1,6 +1,7 @@
 # Decreto con Fuerza de Ley N° 242
 FIJA LA PLANTA PARA LOS SERVICIOS DEPENDIENTES DE LA DIRECCION GENERAL DE PRISIONES
 **Publicada:** 1953-08-05
+**Versión:** 1960-03-29
 FIJA LA PLANTA PARA LOS SERVICIOS DEPENDIENTES DE LA DIRECCION GENERAL DE PRISIONES Núm. 242.- Santiago, 23 de Julio de 1953.- Teniendo presente que los Servicios de Prisiones, entre otros, fue declarado en reorganización, en conformidad al decreto con fuerza de ley número 8, de 5 de Marzo del presente año, y en uso de las facultades que me confiere la ley número 11.151, vengo en dictar el siguiente Decreto con fuerza de ley:
 ~~Artículo 1º Fíjase la siguiente Planta para los Servicios dependientes de la Dirección General de Prisiones: NOTA: Ver Diario Oficial Nº 22.615, del 5 de Agosto None de1953, página ciento y cuatro.~~
 ~~Artículo 2º Los cargos fijados en el artículo 1º, que se encuentren vacantes o que vaquen en el futuro y que sean de confianza del Presidente de la República, serán proveídos de acuerdo con las normas de Estatuto Administrativo. Asimismo, y por esta vez, los de los grados 3º a 17º, inclusive, y los correspondientes a los técnicos y sin grado serán designados a propuesta del Jefe del Servicio.~~
