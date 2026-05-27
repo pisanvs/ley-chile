@@ -3,7 +3,7 @@ CREA LA DIRECCION GENERAL DE RELACIONES ECONOMICAS
 INTERNACIONALES DEL MINISTERIO DE RELACIONES EXTERIORES
 Y ESTABLECE SU ESTATUTO ORGANICO
 **Publicada:** 1979-04-27
-**Versión:** 1988-12-29
+**Versión:** 1988-12-30
 CREA LA DIRECCION GENERAL DE RELACIONES ECONOMICAS INTERNACIONALES DEL MINISTERIO DE RELACIONES EXTERIORES Y ESTABLECE SU ESTATUTO ORGANICO Núm. 53.- Santiago, 10 de Enero de 1979.- Vistos: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974; 991, de 1976; 2.101 y 2.311, de 1978; 2.463, de 1979, y en el decreto supremo N° 161, de 1978, del Ministerio de Relaciones Exteriores. Decreto con fuerza de ley: Estatuto Orgánico de la Dirección General de Relaciones Económicas Internacionales del Ministerio de Relaciones Exteriores.
 DISPOSICIONES GENERALES
 ~~Artículo 1°- Reestructúranse y fusiónanse la Secretaría Ejecutiva para los Asuntos de la ALALC, creada por el decreto con fuerza de ley N° 451/2, de 1963; el cargo de Director General Económico del Ministerio de Relaciones Exteriores creado por la ley N° 16.592, de Diciembre de 1966; y el Instituto de Promoción de Exportaciones de Chile (PROCHILE), creado por el decreto ley N° 740, de 1974, de conformidad a lo dispuesto en el presente decreto con fuerza de ley. El organismo que resulte de la reestructuración y fusión señaladas en el inciso anterior, se denominará Dirección General de Relaciones Económicas Internacionales, en adelante "la Dirección General".~~
