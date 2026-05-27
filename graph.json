@@ -15,8 +15,8 @@
   "1905": {
     "idNorma": 1905,
     "numero": "14",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "EXTRACTO CIRCULAR N° 14 DE MARZO DE 1996",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1996-03-18",
     "modifica": [
       "4"
@@ -496,8 +496,8 @@
   "3469": {
     "idNorma": 3469,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY ORGANICA DEL CONSEJO DE DEFENSA DEL ESTADO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1993-08-07",
     "modifica": [
       "1"
@@ -882,8 +882,8 @@
   "3936": {
     "idNorma": 3936,
     "numero": "15",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "AGREGA ARTICULO QUE INDICA AL DECRETO CON FUERZA DE\nLEY N° 3.068, DE 1964, SOBRE ORDENANZA GENERAL DEL\nTRANSITO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-08-06",
     "modifica": [
       "3068"
@@ -893,8 +893,8 @@
   "3956": {
     "idNorma": 3956,
     "numero": "16",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA D.F.L. N° 3.068 DE 1964",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-10-03",
     "modifica": [
       "3068"
@@ -1123,8 +1123,8 @@
   "4413": {
     "idNorma": 4413,
     "numero": "68",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA LA RENTA MENSUAL MAXIMA DE QUE PODRAN DISFRUTAR LOS FUNCIONARIOS DE LOS SERVICIOS Y ENTIDADES A QUE SE REFIERE EL ARTICULO 202° DE LA LEY 13.305, DE 6 DE ABRIL DE 1959.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-02-01",
     "modifica": [],
     "modificadaPor": [
@@ -1191,8 +1191,8 @@
   "4625": {
     "idNorma": 4625,
     "numero": "106",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA DISPOSICIONES POR LAS QUE SE REGIRA LA DIRECCION DE PRESUPUESTOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-03-03",
     "modifica": [],
     "modificadaPor": [
@@ -1240,7 +1240,7 @@
     "idNorma": 4740,
     "numero": "135",
     "titulo": "",
-    "clasificacion": "",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-05-09",
     "modifica": [],
     "modificadaPor": []
@@ -1607,8 +1607,8 @@
   "5114": {
     "idNorma": 5114,
     "numero": "226",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL D.F.L. N° 251, DE 20 DE MAYO de 1931",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1960-04-05",
     "modifica": [
       "251"
@@ -1641,8 +1641,8 @@
   "5151": {
     "idNorma": 5151,
     "numero": "238",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA LA LEY ORGANICA DEL CONSEJO DE DEFENSA DEL ESTADO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-05",
     "modifica": [],
     "modificadaPor": [
@@ -1652,8 +1652,8 @@
   "5166": {
     "idNorma": 5166,
     "numero": "242",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA LA PLANTA PARA LOS SERVICIOS DEPENDIENTES DE LA DIRECCION GENERAL DE PRISIONES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": [
@@ -1663,8 +1663,8 @@
   "5185": {
     "idNorma": 5185,
     "numero": "247",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL TEXTO DEFINITIVO DE LA LEY DEL BANCO CENTRAL\nDE CHILE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-04",
     "modifica": [],
     "modificadaPor": [
@@ -2201,8 +2201,8 @@
   "5624": {
     "idNorma": 5624,
     "numero": "2100",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA LA ORGANIZACION DE LOS TRIBUNALES PARA EMPLEADOS PARTICULARES Y OBREROS (TRABAJO Y VIVIENDA).",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1928-01-05",
     "modifica": [],
     "modificadaPor": [
@@ -14422,11 +14422,20 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "6926": {
+    "idNorma": 6926,
+    "numero": "2460",
+    "titulo": "DICTA LEY ORGANICA DE POLICIA DE INVESTIGACIONES DE CHILE",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-01-24",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6927": {
     "idNorma": 6927,
     "numero": "2463",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETO LEY N° 740, DE 1974",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-01-13",
     "modifica": [
       "740"
@@ -14436,19 +14445,37 @@
   "6928": {
     "idNorma": 6928,
     "numero": "2464",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE MODIFICACIONES AL DFL. (G) N° 1, DE 1968",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-01-31",
     "modifica": [
       "1"
     ],
     "modificadaPor": []
   },
+  "6929": {
+    "idNorma": 6929,
+    "numero": "2465",
+    "titulo": "CREA EL SERVICIO NACIONAL DE MENORES Y FIJA EL TEXTO DE SU LEY ORGANICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-01-16",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6930": {
+    "idNorma": 6930,
+    "numero": "2466",
+    "titulo": "MODIFICA PLANTA DEL PODER JUDICIAL",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-01-20",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6931": {
     "idNorma": 6931,
     "numero": "2468",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DEROGA EL DECRETO LEY N° 2.331, DE 1978",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-01-16",
     "modifica": [
       "1",
@@ -14456,11 +14483,20 @@
     ],
     "modificadaPor": []
   },
+  "6932": {
+    "idNorma": 6932,
+    "numero": "2469",
+    "titulo": "CONCEDE BENEFICIOS ESPECIALES PARA LOS TRABAJADORES DE LA EMPRESA NACIONAL DEL CARBON S.A.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-01-25",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6933": {
     "idNorma": 6933,
     "numero": "2514",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DISPONE RECURSOS PARA LA V REGION",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-01-30",
     "modifica": [
       "2397"
