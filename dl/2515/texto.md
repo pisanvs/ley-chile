@@ -1,0 +1,7 @@
+# Decreto Ley N° 2515
+COMPLEMENTA DECRETO LEY N° 2.410, DE 1978
+**Publicada:** 1979-02-13
+COMPLEMENTA DECRETO LEY N° 2.410, DE 1978 Núm. 2.515.- Santiago, 26 de Enero de 1979. Visto: Lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527, de 1974; y 991, de 1976. La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Agrégase al artículo 2° del decreto ley N° 2.410, de 1978, el siguiente inciso tercero: "Respecto de su empleo civil, el becario será considerado como titular de permiso sin goce de sueldo y, en todo caso, podra efectuar de su peculio las cotizaciones para desahucio o indemnización por años de servicios y para previsión social, en los términos establecidos en el inciso quinto del artículo 91 del decreto con fuerza de ley N° 338, de 1960".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- CESAR MENDOZA DURAN, General Director de Carabineros.- ARTURO TRONCOSO DAROCH, Vicealmirante, Comandante en Jefe de la Armada y Miembro de la H. Junta de Gobierno subrogante.- JAVIER LOPETEGUI TORRES, General de Aviación, Comandante en Jefe de la FACH. y Miembro de la H. Junta de Gobierno Subrogante.- Raúl Benavides Escobar, Teniente General, Ministro de Defensa Nacional. Lo que se transcribe para su conocimiento.- Julio Bravo Valdés, Coronel, Subsecretario de Guerra.
