@@ -1,7 +1,7 @@
 # Decreto con Fuerza de Ley N° 1
 FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY ORGANICA DEL CONSEJO DE DEFENSA DEL ESTADO
 **Publicada:** 1993-08-07
-**Versión:** 2002-05-31
+**Versión:** 2004-12-30
 FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY ORGANICA DEL CONSEJO DE DEFENSA DEL ESTADO D.F.L. N° 1.- Santiago, 28 de Julio de 1993.- Teniendo presente: El artículo 2° transitorio de la Ley N° 19.202, publicada el 4 de Febrero de 1993, que dispone: "Facúltase al Presidente de la República, para que en el plazo de 180 días, fije el texto refundido, coordinado y sistematizado de la Ley Orgánica del Consejo de Defensa del Estado, pudiendo introducir cambios formales, sea en cuanto a redacción, titulación, ubicación de preceptos y otros de similar naturaleza, pero sólo en la medida en que sean indispensables para la coordinación y sistematización." Y visto, Lo dispuesto en el artículo 32°, N° 8, de la Constitución Política del Estado; lo preceptuado en la disposición facultatoria indicada y el Decreto Ley N° 2.573, de 1979, y sus modificaciones, que contenía dicha Ley Orgánica, Decreto con Fuerza de Ley: El texto de la Ley Orgánica del Consejo de Defensa del Estado será el siguiente:
 ## TITULO I Del objeto y atribuciones
 Art. 1°.- El Consejo de Defensa del Estado es un servicio Ley 19.202/93, público descentralizado, dotado de personalidad jurídica, Art. 1°,n°, bajo la supervigilancia directa del Presidente de la letra A),incs. República e independiente de los diversos Ministerios. 1 y 3: sust. Los decretos supremos que se refieran al Consejo de Defensa acápite inicial del Estado y en que no aparezca una vinculación con un art. 1°. Ministerio determinado, serán expedidos a través del Ministerio de Hacienda.
