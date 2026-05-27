@@ -1,6 +1,7 @@
 # Decreto con Fuerza de Ley N° 12
 ESTATUTO ORGANICO DEL INSTITUTO DE DESARROLLO;AGROPECUARIO
 **Publicada:** 1963-04-10
+**Versión:** 1990-02-03
 ESTATUTO ORGANICO DEL INSTITUTO DE DESARROLLO AGROPECUARIO Santiago, 5 de Febrero de 1963.- Hoy se decretó lo que sigue: N° R.R.A. 12.- Visto lo dispuesto en los artículos 12, 13, 14, 48, 51, 53 y 85 de la ley N° 15.020, Decreto: Fíjase el siguiente texto coordinado, sistematizado y refundido del decreto con fuerza de ley N° 335, de 1960, y sus modificaciones:
 ## ~~TITULO I ORGANIZACION Y ATRIBUCIONES~~
 ~~Artículo 1°- El Instituto de Desarrollo Agropecuario es una persona jurídica de derecho público, empresa autónoma del Estado, de duración indefinida, con patrimonio propio y con plena capacidad para adquirir, ejercer derechos y contraer obligaciones. Su domicilio será la ciudad de Santiago, sin perjuicio de los domicilios especiales que pueda establecer con acuerdo del Consejo.~~
