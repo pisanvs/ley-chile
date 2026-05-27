@@ -1,0 +1,8 @@
+# Decreto Ley N° 2331
+MODIFICA EL DECRETO CON FUERZA DE LEY 1, DE 1968, DE GUERRA.
+**Publicada:** 1978-09-09
+MODIFICA EL D.F.L. N° 1 (G), DE 1968, EN LA FORMA QUE INDICA Núm. 2.331.- Santiago, 8 de Septiembre de 1978.- Visto: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Sustitúyese en el inciso 1° del artículo 158, del D.F.L. (G) N° 1, de 1968, cuyo texto refundido, coordinado y sistematizado fue aprobado por decreto supremo (G) N° 14 de 4 de Enero de 1977, el número "6" por "12".
+Artículo transitorio.- Los decretos supremos o resoluciones ya tramitados, aplicables al personal señalado en el inciso 1° del artículo 158 del D.F.L. (G) N° 1, de 1968, y pendiente el plazo a que se refiere esta norma, podrán ser modificados en cuanto a la fecha en que se harán efectivos, en conformidad con lo dispuesto en el artículo único de este decreto ley.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea y Carabineros, e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- Raúl Benavides Escobar, General de División, Ministro de Defensa Nacional. Lo que transcribo para su conocimiento.- Julio Bravo Valdés, Coronel de Ejército, Subsecretario de Guerra.
