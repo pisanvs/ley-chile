@@ -1,6 +1,7 @@
 # Decreto con Fuerza de Ley N° 212
 REESTRUCTURA SERVICIOS DE LA CAJA DE CREDITO MINERO
 **Publicada:** 1953-08-05
+**Versión:** 1960-04-05
 REESTRUCTURA SERVICIOS DE LA CAJA DE CREDITO MINERO Núm. 212.- Santiago, 21 de Julio de 1953.- Teniendo presente: La ley N.o 5,434, de 4 de Mayo de 1934; la ley N.o 5,546, de 2 de Enero de 1935; de la ley 6,237, de 27 de Agosto de 1938; la ley N.o 6,798, cuyo texto definitivo fue fijado por decreto supremo N.o 1.295 del Ministerio de Fomento, de 11 de Agosto de 1941; la ley N.o 7,082, de 9 de octubre de 1941; la ley N.o 7,434, de 17 de Julio de 1943; la ley N.o 9,281, de 21 Diciembre de 1941; la ley N.o 9,556 de 17 de Enero de 1950; la ley N.o 8.849, de 20 de Diciembre de 1950; la ley N.o 1.003, de 5 de Octubre de 1951; la ley N.o 10.255, de 12 de Febrero de 1952; la ley N.o 10.343, de 28 de Mayo de 1952; las leyes de Presupuesto de la Nación de los años 1948, 1950, 1951, 1952 y 1953; el DFL. N.o 8, de 10 de Marzo de 1953; el DFL. N.o 16, de 21 de Marzo de 1953; el DFL N.o 95, de 9 de Junio de 1953; el DFL. N.o 106, de 19 de Mayo de 1953, y el DFL. N.o 122, de 12 de junio de 1953; y Vistos: Las facultades que me confieren los Arts. 1.o y 5.o de la ley N.o 11.151, de 5 de Febrero del presente año, vengo en dictar el siguiente: Decreto con fuerza de ley:
 ~~SECCION PRIMERA El siguiente será el texto definitivo del "Estatuto Orgánico de la "Caja de Crédito y Fomento Minero":~~
 ## ~~@~~
