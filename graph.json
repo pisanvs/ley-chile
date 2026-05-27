@@ -89,8 +89,8 @@
   "1966": {
     "idNorma": 1966,
     "numero": "72",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "EXTRACTO DE CIRCULAR N° 72, DE 1996",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1996-12-14",
     "modifica": [
       "17"
@@ -471,8 +471,8 @@
   "3384": {
     "idNorma": 3384,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DEROGA FRANQUICIAS ADUANERAS QUE INDICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-05-05",
     "modifica": [
       "1018"
@@ -1097,8 +1097,8 @@
   "4041": {
     "idNorma": 4041,
     "numero": "22",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL TEXTO DEL ESTATUTO DEL PERSONAL DE LA CORPORACION DE LA REFORMA AGRARIA Y DEL INSTITUTO DE DESARROLLO AGROPECUARIO.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1963-04-11",
     "modifica": [],
     "modificadaPor": [
@@ -2143,8 +2143,8 @@
   "5289": {
     "idNorma": 5289,
     "numero": "278",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NORMAS SOBRE FUNCIONES, DEBERES Y ATRIBUCIONES DE LOS CONSEJOS Y VICEPRESIDENTES EJECUTIVOS DE LAS INSTITUCIONES DE PREVISION SOCIAL QUE SE INDICAN",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-06",
     "modifica": [],
     "modificadaPor": [
@@ -2216,8 +2216,8 @@
   "5333": {
     "idNorma": 5333,
     "numero": "292",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA LA LEY ORGANICA DE LA DIRECCION GENERAL DEL TERRITORIO MARITIMO Y DE MARINA MERCANTE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": [
@@ -2490,8 +2490,8 @@
   "5516": {
     "idNorma": 5516,
     "numero": "363",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL ARTICULO 1° DEL DECRETO CON FUERZA DE LEY 100, DE 28 DE MAYO DE 1953, QUE FIJO LA PLANTA DE LA SUBSECRETARIA DEL MINISTERIO DE HACIENDA, Y EL ARTICULO 5° DEL DECRETO CON FUERZA DE LEY 102, DE 30 DE MAYO DE 1953, QUE CREO EL DEPARTAMENTO DE ESTUDIOS FINANCIEROS, DEPENDIENTE DEL MINISTERIO DE HACIENDA.",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1953-08-04",
     "modifica": [
       "102"
@@ -15130,8 +15130,8 @@
   "6940": {
     "idNorma": 6940,
     "numero": "2547",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REVALORIZA, CONFORME A DISPOSICIONES DEL DECRETO LEY N 2.444, DE 1978, PENSIONES DE REGIMENES PREVISIONALES QUE SEÑALA.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-02-09",
     "modifica": [
       "1",
@@ -15139,33 +15139,105 @@
     ],
     "modificadaPor": []
   },
+  "6941": {
+    "idNorma": 6941,
+    "numero": "2548",
+    "titulo": "DISUELVE LA SECRETARIA EJECUTIVA DE LA GOBERNACION\nPROVINCIAL DE ARICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-02-15",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6942": {
+    "idNorma": 6942,
+    "numero": "2549",
+    "titulo": "SUSPENDE VIGENCIA DEL ARTICULO 175, DEL CODIGO\nORGANICO DE TRIBUNALES, PARA LOS SOLOS EFECTOS QUE\nSENALA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-02-21",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6944": {
     "idNorma": 6944,
     "numero": "2551",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DISPONE SUPLEMENTO AL PRESUPUESTO VIGENTE DE LA XII\nREGION",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-02-22",
     "modifica": [
       "2397"
     ],
     "modificadaPor": []
   },
+  "6945": {
+    "idNorma": 6945,
+    "numero": "2552",
+    "titulo": "DEROGA EL DECRETO LEY N° 1.088, DE 1975, Y TRANSFIERE AL MINISTERIO DE LA VIVIENDA Y URBANISMO LOS PROGRAMAS DE \"VIVIENDAS SOCIALES\"; MODIFICA EL DECRETO LEY N° 1.519, DE 1976; DEFINE LAS \"VIVIENDAS DE EMERGENCIA\" Y SEÑALA COMPETENCIA DE LA OFICINA NACIONAL DE EMERGENCIA DEL MINISTERIO DEL INTERIOR",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-02-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6946": {
+    "idNorma": 6946,
+    "numero": "2553",
+    "titulo": "MODIFICA LA LEY NUMERO 17.798, SOBRE CONTROL DE ARMAS",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-03-19",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6947": {
+    "idNorma": 6947,
+    "numero": "2554",
+    "titulo": "DISPONE QUE CORRESPONDERA AL JEFE SUPERIOR DEL SERVICIO DE ADUANAS INTERPRETAR ADMINISTRATIVAMENTE LAS DISPOSICIONES LEGALES Y REGLAMENTARIAS QUE INDICA; FACULTA AL PRESIDENTE DE LA REPUBLICA PARA REORGANIZAR DICHO SERVICIO Y REENCASILLAR A SU PERSONAL.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-03-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6948": {
+    "idNorma": 6948,
+    "numero": "2555",
+    "titulo": "ACLARA DECRETOS LEYES N°s 2.448 Y 2.547, DE 1979",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-03-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6949": {
     "idNorma": 6949,
     "numero": "2556",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DISPONE SUPLEMENTOS AL PRESUPUESTO VIGENTE DEL\nSECTOR PUBLICO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-03-08",
     "modifica": [
       "2397"
     ],
     "modificadaPor": []
   },
+  "6950": {
+    "idNorma": 6950,
+    "numero": "2559",
+    "titulo": "MODIFICA EL DECRETO LEY N° 1.328, DE 1976, SOBRE\nADMINISTRACION DE FONDOS MUTUOS",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-04-04",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6951": {
+    "idNorma": 6951,
+    "numero": "2561",
+    "titulo": "DEROGA EL ARTICULO 27 DE LA LEY N° 17.328, QUE\nRECONOCIO PERSONALIDAD JURIDICA INTERNACIONAL A LA\nFACULTAD LATINOAMERICANA DE CIENCIAS SOCIALES Y FIJO EL\nREGIMEN JURIDICO QUE LE SERIA APLICABLE",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-05-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6952": {
     "idNorma": 6952,
     "numero": "2563",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REEMPLAZA EL SISTEMA DE PAGO DIFERIDO DE GRAVAMENES;ADUANEROS RESPECTO DE LAS IMPORTACIONES DE BIENES DE;CAPITAL QUE SEÑALA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-04-04",
     "modifica": [
       "619",
@@ -15176,8 +15248,8 @@
   "6953": {
     "idNorma": 6953,
     "numero": "2564",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DICTA NORMAS SOBRE AVIACION COMERCIAL, MODIFICA LOS DECRETOS CON FUERZA DE LEY NUMEROS 221, DE 1931, Y 241, DE 1960. Y DEROGA LOS PRECEPTOS QUE SEÑALA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-06-22",
     "modifica": [
       "221",
@@ -15188,8 +15260,8 @@
   "6954": {
     "idNorma": 6954,
     "numero": "2565",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE DECRETO LEY 701, DE 1974, QUE SOMETE LOS TERRENOS FORESTALES A LAS DISPOSICIONES QUE SEÑALA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-04-03",
     "modifica": [
       "701"
