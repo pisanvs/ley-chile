@@ -31,8 +31,8 @@
   "1911": {
     "idNorma": 1911,
     "numero": "17",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "EXTRACTO CIRCULAR N° 17, DE 1995",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1995-05-16",
     "modifica": [],
     "modificadaPor": [
@@ -42,8 +42,8 @@
   "1913": {
     "idNorma": 1913,
     "numero": "19",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REUNE Y SISTEMATIZA LAS INSTRUCCIONES ANTERIORES\nSOBRE TIMBRAJE DE DOCUMENTOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1995-05-17",
     "modifica": [],
     "modificadaPor": [
@@ -53,8 +53,8 @@
   "1914": {
     "idNorma": 1914,
     "numero": "20",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "EXTRACTO CIRCULAR N° 20, DE 1995",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1995-05-18",
     "modifica": [],
     "modificadaPor": [
@@ -579,8 +579,8 @@
   "3477": {
     "idNorma": 3477,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY N° 19.366, QUE SANCIONA EL TRAFICO ILICITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTROPICAS, DICTA Y MODIFICA DIVERSAS DISPOSICIONES LEGALES Y DEROGA LA LEY N° 18.403",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1995-10-18",
     "modifica": [
       "1"
@@ -787,8 +787,8 @@
   "3614": {
     "idNorma": 3614,
     "numero": "4",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REEMPLAZA LAS PLANTAS DEL PERSONAL DE LA DIRECCION\nDE PRESUPUESTOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1970-06-08",
     "modifica": [
       "106"
@@ -829,8 +829,8 @@
   "3660": {
     "idNorma": 3660,
     "numero": "5",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REORGANIZA LA OFICINA DE PRESUPUESTOS DEL MINISTERIO\nDE HACIENDA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1970-05-27",
     "modifica": [
       "106"
@@ -864,8 +864,8 @@
   "3801": {
     "idNorma": 3801,
     "numero": "9",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "NORMAS SOBRE ARRENDAMIENTO DE PREDIOS RUSTICOS Y\nOTRAS FORMAS DE EXPLOTACION POR TERCEROS Y MEDIERIAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1968-01-26",
     "modifica": [],
     "modificadaPor": [
@@ -1264,8 +1264,8 @@
   "4530": {
     "idNorma": 4530,
     "numero": "89",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CONFIERE LA REPRESENTACION QUE SEÑALA AL CONSEJO DE\nDEFENSA FISCAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-06-01",
     "modifica": [],
     "modificadaPor": [
@@ -1314,8 +1314,8 @@
   "4604": {
     "idNorma": 4604,
     "numero": "102",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREA EL DEPARTAMENTO DE ESTUDIOS FINANCIEROS, EN\nCALIDAD DE REPARTICION DEPENDIENTE DEL MINISTERIO DE\nHACIENDA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-06-18",
     "modifica": [],
     "modificadaPor": [
@@ -1325,8 +1325,8 @@
   "4624": {
     "idNorma": 4624,
     "numero": "106",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL TEXTO DEFINITIVO DE LA LEY ORGANICA DEL\nBANCO CENTRAL DE CHILE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-07-28",
     "modifica": [],
     "modificadaPor": []
@@ -1725,8 +1725,8 @@
   "5082": {
     "idNorma": 5082,
     "numero": "217",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SEñALA NORMAS COMPLEMENTARIAS PARA LA APLICACION DEL DECRETO CON FUERZA DE LEY 68, DE 1960, QUE FIJA LA RENTA MENSUAL MAXIMA DE QUE PODRAN DISFRUTAR LOS FUNCIONARIOS DE LOS SERVICIOS Y ENTIDADES A QUE SE REFIERE EL ARTICULO 202° DE LA LEY 13.305, DE 6 DE ABRIL DE 1959.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-06",
     "modifica": [
       "68"
@@ -1804,8 +1804,8 @@
   "5145": {
     "idNorma": 5145,
     "numero": "236",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL SISTEMA DE MONTEPIOS APLICABLE A LOS FUNCIONARIOS PERTENECIENTES AL PODER JUDICIAL",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1968-11-07",
     "modifica": [],
     "modificadaPor": [
@@ -2062,8 +2062,8 @@
   "5284": {
     "idNorma": 5284,
     "numero": "277",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DECLARA EN REORGANIZACION LAS SUBSECRETARIAS DE LOS MINISTERIOS DEL TRABAJO Y PREVISION SOCIAL Y DE SALUD Y SUBSTITUYE LAS PLANTAS Y REMUNERACIONES DE SU PERSONAL, FIJADAS POR EL DECRETO CON FUERZA DE LEY 25, DE 1959; MODIFICA LA LETRA B) DEL ARTICULO 9° DEL DECRETO CON FUERZA DE LEY 106, DE 1960, ORGANICO DE LA DIRECCION DE PRESUPUESTOS.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-05",
     "modifica": [
       "106"
@@ -2146,8 +2146,8 @@
   "5393": {
     "idNorma": 5393,
     "numero": "311",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE ATRIBUCIONES DE LA DIRECCION GENERAL DE INVESTIGACIONES; SEñALA LAS DISPOSICIONES POR LAS CUALES SE REGIRA SU PERSONAL Y FIJA PLANTA DEL SERVICIO DEROGA LOS ARTICULOS 2°, 5° Y 8° DE LA LEY 6.180, DE 17 DE FEBRERO DE 1938, LOS ARTICULOS 4° Y 6° DE LA LEY 6.880, DE 15 DE ABRIL DE 1941, LOS ARTICULOS 4°, 9°, 10°, 11°, 12°, 14°, 15° Y 16° DE LA LEY 8.524, DE 31 DE AGOSTO DE 1946, Y EL ARTICULO 16° DE LA LEY 10.509, DE 12 DE SEPTIEMBRE DE 1952.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": [
@@ -14864,19 +14864,46 @@
   "6934": {
     "idNorma": 6934,
     "numero": "2515",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "COMPLEMENTA DECRETO LEY N° 2.410, DE 1978",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-02-13",
     "modifica": [
       "2410"
     ],
     "modificadaPor": []
   },
+  "6935": {
+    "idNorma": 6935,
+    "numero": "2538",
+    "titulo": "MODIFICA LEY N° 17.169 Y CONDONA DEUDAS QUE INDICA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-02-03",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6936": {
+    "idNorma": 6936,
+    "numero": "2542",
+    "titulo": "SUSTITUYE ARTICULO 1° TRANSITORIO DEL DECRETO LEY N°\n2.145, DE 1978",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-02-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6937": {
+    "idNorma": 6937,
+    "numero": "2544",
+    "titulo": "FIJA NORMAS PARA REUNIONES SINDICALES Y GREMIALES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-02-09",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6938": {
     "idNorma": 6938,
     "numero": "2545",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NORMAS SOBRE COTIZACION Y RECAUDACION DE CUOTAS SINDICALES Y GREMIALES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-02-09",
     "modifica": [
       "2376"
@@ -14886,8 +14913,8 @@
   "6939": {
     "idNorma": 6939,
     "numero": "2546",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA ESCALA DE SUELDOS BASES PARA EL PERSONAL DEL MINISTERIO DE DEFENSA NACIONAL; MODIFICA LOS D.F.L.(G) N°1 Y D.F.L. (I) N° 2, AMBOS DE 1968, Y OTRAS DISPOSICIONES LEGALES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-02-09",
     "modifica": [
       "31",
