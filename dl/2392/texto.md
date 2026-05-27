@@ -1,0 +1,8 @@
+# Decreto Ley N° 2392
+DISPONE SUPLEMENTOS AL PRESUPUESTO VIGENTE DEL
+SECTOR PUBLICO
+**Publicada:** 1978-11-24
+DISPONE SUPLEMENTOS AL PRESUPUESTO VIGENTE DEL SECTOR PUBLICO Núm. 2.392.- Santiago, 22 de Noviembre de 1978.- Vistos: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; N° 527, de 1974, y N° 991, de 1976, La Junta de Gobierno de la República de Chile ha resuelto dictar el siguiente Decreto ley:
+Artículo único.- Supleméntase el Presupuesto vigente, en moneda nacional, en las cantidades que se indican: ------------------------------------------------------- Part. Cap. Prog. Subt. Item Miles de $ ------------------------------------------------------- En PARTIDA 50 - 70 TESORO PUBLICO Ingresos Generales de la Nación 50 01 00 03 23.001 144.000 03 23.002 324.000 03 34.002 578.000 ------- Gastos - Operaciones Complementarias 50 01 02 21 09 120.000 Gastos - Aporte Fiscal Libre 57 01 00 80 360.000 61 04 00 80 326.000 64 01 00 80 20.000 69 60 00 80 220.000 -------------------------------------------------------
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio de Castro Spikula, Ministro de Hacienda. Lo que transcribo a Ud. para su conocimiento.- Saluda Atte a Ud.- Pedro Larrondo Jara, Capitán de Navío (AB), Subsecretario de Hacienda.
