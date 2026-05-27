@@ -1,7 +1,7 @@
 # Decreto Ley N° 2341
 DISPONE SUPLEMENTOS AL PRESUPUESTO VIGENTE DEL SECTOR;PUBLICO. CREA NUEVOS ITEM EN DICHO PRESUPUESTO Y ESTABLECE;NORMAS DE CARACTER PRESUPUESTARIO, FINANCIERO Y DE PERSONAL
 **Publicada:** 1978-10-07
-**Versión:** 1979-12-27
+**Versión:** 1980-12-06
 DISPONE SUPLEMENTOS AL PRESUPUESTO VIGENTE DEL SECTOR PUBLICO. CREA NUEVOS ITEM EN DICHO PRESUPUESTO Y ESTABLECE NORMAS DE CARACTER PRESUPUESTARIO, FINANCIERO Y DE PERSONAL Núm. 2.341.- Santiago, 4 de Octubre de 1978.- Vistos: lo dispuesto en los decretos leyes Nºs. 1 y 128, de 1973; Nº 527, de 1974, y Nº 991, de 1976, y Considerando: que es indispensable efectuar algunos ajustes a la Ley de Presupuestos del Sector Público en actual vigencia, con el objeto de afrontar mayores gastos derivados, principalmente, de los daños producidos por los fenómenos climáticos y telúricos recientes y dar solución a necesidades específicas presentadas con posterioridad a la aprobación del decreto ley Nº 2.052; Que, asimismo, dentro del propósito de corregir la legislación vigente, es conveniente modificar algunas de sus disposiciones, ya sea en materias de carácter administrativo, financiero, presupuestario o de personal, para obviar algunas deficiencias o inconvenientes detectadas en su aplicación práctica. La Junta de Gobierno de la República de Chile ha resuelto dictar el siguiente Decreto ley:
 I.- NORMAS PRESUPUESTARIAS Y DE ADMINISTRACION FINANCIERA
 Artículo 1º.- Introdúcense las siguientes modificaciones al presupuesto vigente: NOTA: Ver Diario Oficial Nº 30.184, del día Sábado 7 de Octubre de 1978, páginas 1 y 2.
