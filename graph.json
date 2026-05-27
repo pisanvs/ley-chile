@@ -703,8 +703,8 @@
   "3896": {
     "idNorma": 3896,
     "numero": "13",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "HACE APLICABLE AL INSTITUTO DE DESARROLLO\nAGROPECUARIO SISTEMA DE ESCRITURACION DE LEYES N°s\n14.171 y 16.391, EN MATERIA QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-08-17",
     "modifica": [
       "12"
@@ -1190,8 +1190,8 @@
   "5065": {
     "idNorma": 5065,
     "numero": "212",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REESTRUCTURA SERVICIOS DE LA CAJA DE CREDITO MINERO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": [
@@ -12448,19 +12448,37 @@
   "6884": {
     "idNorma": 6884,
     "numero": "2331",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL DECRETO CON FUERZA DE LEY 1, DE 1968, DE GUERRA.",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-09-09",
     "modifica": [
       "1"
     ],
     "modificadaPor": []
   },
+  "6885": {
+    "idNorma": 6885,
+    "numero": "2333",
+    "titulo": "SUSTITUYE EL INCISO SEGUNDO DEL ARTICULO 22 DEL\nDECRETO LEY N° 889, DE 1975",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-10-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6886": {
+    "idNorma": 6886,
+    "numero": "2334",
+    "titulo": "SUBSECRETARIA DE GUERRA\nDEROGA INCISO SEGUNDO DEL ARTICULO 17 DEL DECRETO\nLEY N° 249, DE 1974",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-10-04",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6887": {
     "idNorma": 6887,
     "numero": "2335",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETO CON FUERZA DE LEY N° 1, DE 1968",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-09-29",
     "modifica": [
       "1"
@@ -12470,8 +12488,8 @@
   "6889": {
     "idNorma": 6889,
     "numero": "2339",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "OTORGA DENOMINACION A LA REGION METROPOLITANA Y A LAS REGIONES DEL PAIS, EN LA FORMA QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-10-10",
     "modifica": [
       "575"
@@ -12481,8 +12499,8 @@
   "6890": {
     "idNorma": 6890,
     "numero": "2340",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA ARTICULO 213 DEL D.F.L. (G) N° 1, DE 1968",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-10-05",
     "modifica": [
       "1"
@@ -12492,8 +12510,8 @@
   "6891": {
     "idNorma": 6891,
     "numero": "2341",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DISPONE SUPLEMENTOS AL PRESUPUESTO VIGENTE DEL SECTOR;PUBLICO. CREA NUEVOS ITEM EN DICHO PRESUPUESTO Y ESTABLECE;NORMAS DE CARACTER PRESUPUESTARIO, FINANCIERO Y DE PERSONAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-10-07",
     "modifica": [
       "2053",
@@ -12507,8 +12525,8 @@
   "6892": {
     "idNorma": 6892,
     "numero": "2342",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LOS ARTICULOS 197 Y 119 DEL ESTATUTO DEL\nPERSONAL DE LAS FUERZAS ARMADAS Y DE CARABINEROS DE\nCHILE, RESPECTIVAMENTE",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-10-27",
     "modifica": [
       "1",
@@ -12519,23 +12537,95 @@
   "6893": {
     "idNorma": 6893,
     "numero": "2344",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL ESTATUTO DEL PERSONAL DE CARABINEROS DE\nCHILE",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-10-27",
     "modifica": [
       "2"
     ],
     "modificadaPor": []
   },
+  "6894": {
+    "idNorma": 6894,
+    "numero": "2345",
+    "titulo": "OTORGA FACULTADES AL MINISTRO DEL INTERIOR RESPECTO DE MATERIAS QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-10-20",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6895": {
+    "idNorma": 6895,
+    "numero": "2347",
+    "titulo": "DECLARA ILICITAS LAS ASOCIACIONES QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-10-20",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6896": {
+    "idNorma": 6896,
+    "numero": "2349",
+    "titulo": "ESTABLECE NORMAS SOBRE CONTRATOS INTERNACIONALES\nPARA EL SECTOR PUBLICO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-10-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6897": {
+    "idNorma": 6897,
+    "numero": "2351",
+    "titulo": "PERFECCIONA EL SISTEMA DE COMPENSACION ESTABLECIDO\nEN EL ESTATUTO AUTOMOTRIZ",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-11-04",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6898": {
     "idNorma": 6898,
     "numero": "2353",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA ARTICULO 228 DEL DECRETO CON FUERZA DE LEY\nN° 1 (G), DE 1968",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-11-24",
     "modifica": [
       "1"
     ],
+    "modificadaPor": []
+  },
+  "6899": {
+    "idNorma": 6899,
+    "numero": "2376",
+    "titulo": "ESTABLECE NORMAS SOBRE ORGANIZACION Y ELECCION DE LAS DIRECTIVAS SINDICALES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-10-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6900": {
+    "idNorma": 6900,
+    "numero": "2379",
+    "titulo": "MODIFICA LA LEY N° 4.702, SOBRE COMPRAVENTA DE COSAS\nMUEBLES A PLAZO",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-12-05",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6902": {
+    "idNorma": 6902,
+    "numero": "2392",
+    "titulo": "DISPONE SUPLEMENTOS AL PRESUPUESTO VIGENTE DEL\nSECTOR PUBLICO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-11-24",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6903": {
+    "idNorma": 6903,
+    "numero": "2394",
+    "titulo": "MODIFICA LA PLANTA PERMANENTE DE LA SUBSECRETARIA DE\nINVESTIGACIONES, ESTABLECIDA EN EL DECRETO LEY N° 1.487,\nDE 1976",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-12-04",
+    "modifica": [],
     "modificadaPor": []
   },
   "6904": {
