@@ -5,6 +5,11 @@
     "fechaPublicacion": "1995-01-17"
   },
   {
+    "idNorma": 1905,
+    "tipo": "cir",
+    "fechaPublicacion": "1996-03-18"
+  },
+  {
     "idNorma": 1935,
     "tipo": "cir",
     "fechaPublicacion": "1995-10-03"
@@ -68,6 +73,11 @@
     "idNorma": 3434,
     "tipo": "dfl",
     "fechaPublicacion": "1988-12-19"
+  },
+  {
+    "idNorma": 3469,
+    "tipo": "dfl",
+    "fechaPublicacion": "1993-08-07"
   },
   {
     "idNorma": 3474,
@@ -175,6 +185,16 @@
     "fechaPublicacion": "1967-01-05"
   },
   {
+    "idNorma": 3936,
+    "tipo": "dfl",
+    "fechaPublicacion": "1979-08-06"
+  },
+  {
+    "idNorma": 3956,
+    "tipo": "dfl",
+    "fechaPublicacion": "1979-10-03"
+  },
+  {
     "idNorma": 3976,
     "tipo": "dfl",
     "fechaPublicacion": "1982-05-24"
@@ -255,6 +275,11 @@
     "fechaPublicacion": "1960-01-08"
   },
   {
+    "idNorma": 4413,
+    "tipo": "dfl",
+    "fechaPublicacion": "1960-02-01"
+  },
+  {
     "idNorma": 4518,
     "tipo": "dfl",
     "fechaPublicacion": "1953-06-01"
@@ -270,6 +295,11 @@
     "fechaPublicacion": "1931-04-13"
   },
   {
+    "idNorma": 4625,
+    "tipo": "dfl",
+    "fechaPublicacion": "1960-03-03"
+  },
+  {
     "idNorma": 4669,
     "tipo": "dfl",
     "fechaPublicacion": "1931-04-30"
@@ -283,6 +313,11 @@
     "idNorma": 4717,
     "tipo": "dfl",
     "fechaPublicacion": "1953-06-30"
+  },
+  {
+    "idNorma": 4740,
+    "tipo": "dfl",
+    "fechaPublicacion": "1931-05-09"
   },
   {
     "idNorma": 4824,
@@ -365,6 +400,11 @@
     "fechaPublicacion": "1953-08-05"
   },
   {
+    "idNorma": 5114,
+    "tipo": "dfl",
+    "fechaPublicacion": "1960-04-05"
+  },
+  {
     "idNorma": 5120,
     "tipo": "dfl",
     "fechaPublicacion": "1931-05-26"
@@ -373,6 +413,21 @@
     "idNorma": 5148,
     "tipo": "dfl",
     "fechaPublicacion": "1953-08-01"
+  },
+  {
+    "idNorma": 5151,
+    "tipo": "dfl",
+    "fechaPublicacion": "1960-04-05"
+  },
+  {
+    "idNorma": 5166,
+    "tipo": "dfl",
+    "fechaPublicacion": "1953-08-05"
+  },
+  {
+    "idNorma": 5185,
+    "tipo": "dfl",
+    "fechaPublicacion": "1960-04-04"
   },
   {
     "idNorma": 5194,
@@ -493,6 +548,11 @@
     "idNorma": 5587,
     "tipo": "dfl",
     "fechaPublicacion": "1964-02-20"
+  },
+  {
+    "idNorma": 5624,
+    "tipo": "dfl",
+    "fechaPublicacion": "1928-01-05"
   },
   {
     "idNorma": 5636,
@@ -8228,6 +8288,11 @@
     "idNorma": 18045,
     "tipo": "dto",
     "fechaPublicacion": "1976-01-09"
+  },
+  {
+    "idNorma": 18413,
+    "tipo": "dto",
+    "fechaPublicacion": "1963-07-04"
   },
   {
     "idNorma": 18914,
@@ -52010,6 +52075,11 @@
     "fechaPublicacion": "1997-12-19"
   },
   {
+    "idNorma": 83543,
+    "tipo": "dto",
+    "fechaPublicacion": "1997-12-19"
+  },
+  {
     "idNorma": 83544,
     "tipo": "dto",
     "fechaPublicacion": "1997-12-19"
@@ -52618,6 +52688,11 @@
     "idNorma": 129247,
     "tipo": "ley",
     "fechaPublicacion": "1999-01-09"
+  },
+  {
+    "idNorma": 129510,
+    "tipo": "dto",
+    "fechaPublicacion": "1999-01-12"
   },
   {
     "idNorma": 129705,
@@ -58115,6 +58190,11 @@
     "fechaPublicacion": "1974-06-29"
   },
   {
+    "idNorma": 138656,
+    "tipo": "dfl",
+    "fechaPublicacion": "1979-04-06"
+  },
+  {
     "idNorma": 138814,
     "tipo": "ley",
     "fechaPublicacion": "1999-07-12"
@@ -60418,6 +60498,11 @@
     "idNorma": 150681,
     "tipo": "dto",
     "fechaPublicacion": "2000-01-07"
+  },
+  {
+    "idNorma": 150873,
+    "tipo": "dto",
+    "fechaPublicacion": "2000-01-10"
   },
   {
     "idNorma": 151202,
@@ -65805,6 +65890,11 @@
     "fechaPublicacion": "1978-01-06"
   },
   {
+    "idNorma": 180308,
+    "tipo": "dto",
+    "fechaPublicacion": "2001-01-16"
+  },
+  {
     "idNorma": 180477,
     "tipo": "ley",
     "fechaPublicacion": "2001-01-18"
@@ -68770,6 +68860,11 @@
     "fechaPublicacion": "2002-01-19"
   },
   {
+    "idNorma": 193935,
+    "tipo": "dto",
+    "fechaPublicacion": "2002-01-18"
+  },
+  {
     "idNorma": 194154,
     "tipo": "ley",
     "fechaPublicacion": "2002-01-30"
@@ -69515,6 +69610,11 @@
     "fechaPublicacion": "2003-02-04"
   },
   {
+    "idNorma": 207297,
+    "tipo": "dto",
+    "fechaPublicacion": "2003-02-04"
+  },
+  {
     "idNorma": 207361,
     "tipo": "ley",
     "fechaPublicacion": "1952-10-10"
@@ -69588,6 +69688,11 @@
     "idNorma": 207827,
     "tipo": "ley",
     "fechaPublicacion": "1953-03-03"
+  },
+  {
+    "idNorma": 207836,
+    "tipo": "dfl",
+    "fechaPublicacion": "1953-07-25"
   },
   {
     "idNorma": 208338,
@@ -80305,6 +80410,11 @@
     "fechaPublicacion": "2005-02-10"
   },
   {
+    "idNorma": 235399,
+    "tipo": "dto",
+    "fechaPublicacion": "2005-02-10"
+  },
+  {
     "idNorma": 235440,
     "tipo": "dto",
     "fechaPublicacion": "2005-02-14"
@@ -83763,6 +83873,11 @@
     "idNorma": 241179,
     "tipo": "ley",
     "fechaPublicacion": "1964-09-10"
+  },
+  {
+    "idNorma": 241203,
+    "tipo": "dto",
+    "fechaPublicacion": "1971-10-25"
   },
   {
     "idNorma": 241244,
@@ -89595,6 +89710,11 @@
     "fechaPublicacion": "1952-10-30"
   },
   {
+    "idNorma": 258141,
+    "tipo": "dto",
+    "fechaPublicacion": "2007-02-05"
+  },
+  {
     "idNorma": 258269,
     "tipo": "ley",
     "fechaPublicacion": "2007-02-10"
@@ -90765,6 +90885,11 @@
     "fechaPublicacion": "1951-10-03"
   },
   {
+    "idNorma": 266749,
+    "tipo": "dto",
+    "fechaPublicacion": "1930-07-31"
+  },
+  {
     "idNorma": 266750,
     "tipo": "ley",
     "fechaPublicacion": "1934-07-19"
@@ -91217,6 +91342,11 @@
   {
     "idNorma": 269180,
     "tipo": "ley",
+    "fechaPublicacion": "2008-02-09"
+  },
+  {
+    "idNorma": 269205,
+    "tipo": "dto",
     "fechaPublicacion": "2008-02-09"
   },
   {
@@ -92200,6 +92330,11 @@
     "fechaPublicacion": "1954-10-21"
   },
   {
+    "idNorma": 285904,
+    "tipo": "dto",
+    "fechaPublicacion": "2009-01-23"
+  },
+  {
     "idNorma": 285963,
     "tipo": "ley",
     "fechaPublicacion": "1954-01-11"
@@ -93090,6 +93225,11 @@
     "fechaPublicacion": "2009-10-28"
   },
   {
+    "idNorma": 1007469,
+    "tipo": "dfl",
+    "fechaPublicacion": "2009-10-29"
+  },
+  {
     "idNorma": 1007837,
     "tipo": "ley",
     "fechaPublicacion": "2009-11-07"
@@ -93288,6 +93428,11 @@
     "idNorma": 1011199,
     "tipo": "res",
     "fechaPublicacion": "2010-02-22"
+  },
+  {
+    "idNorma": 1011367,
+    "tipo": "dto",
+    "fechaPublicacion": "2010-03-01"
   },
   {
     "idNorma": 1011723,
@@ -93860,6 +94005,11 @@
     "fechaPublicacion": "2011-04-28"
   },
   {
+    "idNorma": 1025103,
+    "tipo": "dto",
+    "fechaPublicacion": "2011-05-06"
+  },
+  {
     "idNorma": 1025141,
     "tipo": "ley",
     "fechaPublicacion": "2011-05-07"
@@ -94395,6 +94545,11 @@
     "fechaPublicacion": "2012-03-15"
   },
   {
+    "idNorma": 1038178,
+    "tipo": "dto",
+    "fechaPublicacion": "2012-03-21"
+  },
+  {
     "idNorma": 1038211,
     "tipo": "ley",
     "fechaPublicacion": "2012-03-22"
@@ -94920,6 +95075,11 @@
     "fechaPublicacion": "2013-03-02"
   },
   {
+    "idNorma": 1049287,
+    "tipo": "dto",
+    "fechaPublicacion": "2013-03-08"
+  },
+  {
     "idNorma": 1049711,
     "tipo": "ley",
     "fechaPublicacion": "2013-03-28"
@@ -95432,6 +95592,11 @@
   {
     "idNorma": 1059332,
     "tipo": "ley",
+    "fechaPublicacion": "2014-02-07"
+  },
+  {
+    "idNorma": 1059334,
+    "tipo": "dto",
     "fechaPublicacion": "2014-02-07"
   },
   {
@@ -96100,6 +96265,11 @@
     "fechaPublicacion": "2015-01-14"
   },
   {
+    "idNorma": 1073491,
+    "tipo": "dto",
+    "fechaPublicacion": "2015-01-15"
+  },
+  {
     "idNorma": 1073492,
     "tipo": "dto",
     "fechaPublicacion": "2015-01-15"
@@ -96693,6 +96863,11 @@
     "idNorma": 1087343,
     "tipo": "ley",
     "fechaPublicacion": "2016-04-01"
+  },
+  {
+    "idNorma": 1087383,
+    "tipo": "dto",
+    "fechaPublicacion": "2016-02-09"
   },
   {
     "idNorma": 1087569,
@@ -97290,6 +97465,11 @@
     "fechaPublicacion": "2017-02-23"
   },
   {
+    "idNorma": 1100531,
+    "tipo": "dto",
+    "fechaPublicacion": "2017-02-24"
+  },
+  {
     "idNorma": 1100901,
     "tipo": "ley",
     "fechaPublicacion": "2017-03-13"
@@ -97795,6 +97975,11 @@
     "fechaPublicacion": "2018-03-23"
   },
   {
+    "idNorma": 1116415,
+    "tipo": "dto",
+    "fechaPublicacion": "2018-03-23"
+  },
+  {
     "idNorma": 1116454,
     "tipo": "ley",
     "fechaPublicacion": "2018-03-24"
@@ -98265,6 +98450,11 @@
     "fechaPublicacion": "2019-02-16"
   },
   {
+    "idNorma": 1129010,
+    "tipo": "dto",
+    "fechaPublicacion": "2019-02-16"
+  },
+  {
     "idNorma": 1129119,
     "tipo": "dl",
     "fechaPublicacion": "1925-04-03"
@@ -98713,6 +98903,11 @@
     "idNorma": 1141780,
     "tipo": "ley",
     "fechaPublicacion": "2020-01-30"
+  },
+  {
+    "idNorma": 1141825,
+    "tipo": "dto",
+    "fechaPublicacion": "2020-01-31"
   },
   {
     "idNorma": 1141904,
