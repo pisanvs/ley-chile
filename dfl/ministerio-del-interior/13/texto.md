@@ -1,0 +1,9 @@
+# Decreto con Fuerza de Ley N° 13
+HACE APLICABLE AL INSTITUTO DE DESARROLLO
+AGROPECUARIO SISTEMA DE ESCRITURACION DE LEYES N°s
+14.171 y 16.391, EN MATERIA QUE INDICA
+**Publicada:** 1979-08-17
+HACE APLICABLE AL INSTITUTO DE DESARROLLO AGROPECUARIO SISTEMA DE ESCRITURACION DE LEYES N°s 14.171 y 16.391, EN MATERIA QUE INDICA Santiago, 22 de Junio de 1979.- Hoy se decretó lo que sigue: DFL N° 13-2.345.- Visto Las facultades que me confiere el artículo 7° del decreto ley N° 2.345, de 1978 y Considerando: Que es conveniente facilitar y hacer menos gravoso el procedimiento de escrituración de las hipotecas que se constituyan para garantizar los créditos que otorgue el Instituto de Desarrollo Agropecuario. Que el procedimiento establecido en las leyes N°s 14.171 y 16.391 para las instituciones del sector Vivienda, cuya aplicación se hizo extensiva al sistema bancario por el decreto ley N° 1.847, de 1977, cumple adecuadamente estos objetivos, vengo en dictar el siguiente Decreto con fuerza de ley:
+Artículo único.- Agrégase el siguiente artículo 30 al D.S. N° 43, de 16 de Enero de 1968, del Ministerio de Agricultura, que fijó el texto coordinado y sistematizado del decreto con fuerza de ley RRA. N° 12, de 1963, Estatuto Orgánico del Instituto de Desarrollo Agropecuario: "Artículo 30.- En las escrituras de constitución de hipotecas en que sea parte el Instituto de Desarrollo Agropecuario, podrán utilizarse los procedimientos de escrituración establecidos en el artículo 68 de la ley 14.171 y en el artículo 61 de la ley N° 16.391".
+---
+Tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Sergio Fernández Fernández, Ministro del Interior.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura. Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Enrique Montero Marx, Coronel de Aviación (J), Subsecretario del Interior.
