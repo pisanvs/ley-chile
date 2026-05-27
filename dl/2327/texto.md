@@ -86,7 +86,7 @@ ARTICULO 41° El régimen de compatibilidades e incompatibilidades aplicable a l
 ## TITULO X Disposiciones finales
 ARTICULO 71° El Presidente de la República dictará el reglamento de este decreto ley dentro del plazo de 40 días contado desde la fecha de su publicación.
 ARTICULO 72° El presente decreto ley se aplicará al personal docente con preferencia a toda disposición que afecte a estos funcionarios y al respecto, deberán entenderse modificadas todas las normas legales incompatibles con sus preceptos. En todo lo no contemplado en este decreto ley, regirá lo dispuesto en el decreto con fuerza de ley 338, de 1960, y sus normas complementarias.
-ARTICULO 73° DEROGADO.-
+ARTICULO 73° DEROGADO.- DEROGADO.-
 ARTICULO 74° Derógase el artículo 43° del decreto con fuerza de ley 5.291, de 22 de noviembre de 1929.
 ARTICULO 75° El mayor gasto que irrogue la aplicación de este decreto ley se financiará con los mayores ingresos que produzcan las disposiciones tributarias vigentes.
 ARTICULO 76° El presente decreto ley regirá a contar del 1° de septiembre de 1978.
