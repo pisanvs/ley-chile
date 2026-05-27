@@ -35,6 +35,11 @@
     "fechaPublicacion": "1993-12-07"
   },
   {
+    "idNorma": 1966,
+    "tipo": "cir",
+    "fechaPublicacion": "1996-12-14"
+  },
+  {
     "idNorma": 1974,
     "tipo": "cod",
     "fechaPublicacion": "1865-11-23"
@@ -63,6 +68,11 @@
     "idNorma": 3382,
     "tipo": "dfl",
     "fechaPublicacion": "1973-03-20"
+  },
+  {
+    "idNorma": 3384,
+    "tipo": "dfl",
+    "fechaPublicacion": "1979-05-05"
   },
   {
     "idNorma": 3396,
@@ -253,6 +263,11 @@
     "idNorma": 4028,
     "tipo": "dfl",
     "fechaPublicacion": "1979-11-13"
+  },
+  {
+    "idNorma": 4041,
+    "tipo": "dfl",
+    "fechaPublicacion": "1963-04-11"
   },
   {
     "idNorma": 4042,
@@ -530,6 +545,11 @@
     "fechaPublicacion": "1960-04-05"
   },
   {
+    "idNorma": 5289,
+    "tipo": "dfl",
+    "fechaPublicacion": "1960-04-06"
+  },
+  {
     "idNorma": 5312,
     "tipo": "dfl",
     "fechaPublicacion": "1953-08-05"
@@ -543,6 +563,11 @@
     "idNorma": 5328,
     "tipo": "dfl",
     "fechaPublicacion": "1960-04-06"
+  },
+  {
+    "idNorma": 5333,
+    "tipo": "dfl",
+    "fechaPublicacion": "1953-08-05"
   },
   {
     "idNorma": 5370,
@@ -603,6 +628,11 @@
     "idNorma": 5499,
     "tipo": "dfl",
     "fechaPublicacion": "1953-08-05"
+  },
+  {
+    "idNorma": 5516,
+    "tipo": "dfl",
+    "fechaPublicacion": "1953-08-04"
   },
   {
     "idNorma": 5543,
@@ -7925,6 +7955,11 @@
     "fechaPublicacion": "1963-04-26"
   },
   {
+    "idNorma": 7381,
+    "tipo": "dto",
+    "fechaPublicacion": "1965-08-10"
+  },
+  {
     "idNorma": 7478,
     "tipo": "dto",
     "fechaPublicacion": "1977-08-10"
@@ -8138,6 +8173,11 @@
     "idNorma": 11320,
     "tipo": "dto",
     "fechaPublicacion": "1995-12-30"
+  },
+  {
+    "idNorma": 11706,
+    "tipo": "dto",
+    "fechaPublicacion": "1977-08-11"
   },
   {
     "idNorma": 11800,
@@ -73153,6 +73193,11 @@
     "idNorma": 215328,
     "tipo": "ley",
     "fechaPublicacion": "2003-10-03"
+  },
+  {
+    "idNorma": 215396,
+    "tipo": "cir",
+    "fechaPublicacion": "2003-10-04"
   },
   {
     "idNorma": 215560,
