@@ -1,0 +1,7 @@
+# Decreto Ley N° 2555
+ACLARA DECRETOS LEYES N°s 2.448 Y 2.547, DE 1979
+**Publicada:** 1979-03-07
+ACLARA DECRETOS LEYES N°s 2.448 Y 2.547, DE 1979 Núm. 2.555.- Santiago, 2 de Marzo de 1979.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 126, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- No obstante lo dispuesto en el artículo 14° del decreto ley N° 2.448, de 1979, y artículo 2° del decreto ley N° 2.547, de 1979, se aplicará a las pensiones, durante el año 1979, el reajuste que establece el artículo 70° del decreto ley N° 670, de 1974, modificado por el artículo 13° del decreto ley N° 2.398, de 1978.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- General de Ejército, Presidente de la República.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea, Miembro de la H. Junta de Gobierno.- ARTURO TRONCOSO DAROCH, Comandante en Jefe de la Armada y Miembro de la H. Junta de Gobierno subrogante.- MARIO MAC KAY JARAQUEMADA, General Director de Carabineros y Miembro de la H. Junta de Gobierno subrogante.- Pedro Larrondo Jara, Capitán de Navío (AB), Ministro de Hacienda subrogante.- José Piñera Echeñique, Ministro del Trabajo y Previsión Social. Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud.- Pedro Larrondo Jara, Capitán de Navío (AB), Subsecretario de Hacienda.
