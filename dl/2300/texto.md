@@ -1,0 +1,10 @@
+# Decreto Ley N° 2300
+ESTABLECE FORMA ESPECIAL DE ACREDITAR FALLECIMIENTO
+DE LAS PERSONAS CUYO DECESO SE PRODUZCA EN LAS
+CIRCUNSTANCIAS QUE INDICA, PARA FINES DE SEGURIDAD
+SOCIAL
+**Publicada:** 1978-08-07
+ESTABLECE FORMA ESPECIAL DE ACREDITAR FALLECIMIENTO DE LAS PERSONAS CUYO DECESO SE PRODUZCA EN LAS CIRCUNSTANCIAS QUE INDICA, PARA FINES DE SEGURIDAD SOCIAL Santiago, 26 de Julio de 1978.- Con esta fecha se ha dictado el siguiente decreto ley: Núm. 2.300.- Visto: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Para el solo efecto de percibir los beneficios inherentes a la seguridad social, podrá acreditarse administrativamente el fallecimiento de una persona desaparecida con ocasión de un accidente marítimo o aéreo, mediante certificado en que se establezca la efectividad del hecho, la circunstancia de que el causante formaba parte de la tripulación o pasaje y la imposibilidad de recuperar sus restos. El certificado lo expedirá la Dirección del Litoral y de Marina Mercante o la Dirección de Aeronáutica Civil según el caso. No obstante, si los accidentes a que se refiere el inciso anterior se hubieren producido en una nave o aeronave Militar o de Carabineros, el aludido certificado será expedido por la autoridad correspondiente de la respectiva institución.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Vasco Costa Ramírez, Ministro del Trabajo y Previsión Social. Lo que transcribo a U. para su conocimiento.- Saluda a U.- Alfonso Serrano Spoerer, Subsecretario de Previsión Social.
