@@ -1,6 +1,7 @@
 # Decreto con Fuerza de Ley N° 189
 FIJA EL ESTATUTO ORGANICO DEL SERVICIO DE PRISIONES
 **Publicada:** 1960-03-29
+**Versión:** 1979-09-15
 FIJA EL ESTATUTO ORGANICO DEL SERVICIO DE PRISIONES Núm. 189.- Santiago, 25 de Marzo de 1960.- Vistas las facultades que me otorga el artículo 202 de la ley N.o 13,305, dicto el siguiente Decreto con fuerza de ley:
 ## ~~TITULO I Objeto~~
 ~~Artículo 1.o La Dirección General de Prisiones se denominará en adelante Servicio de Prisiones, dependerá del Ministerio de Justicia y se regirá por las disposiciones del presente decreto con fuerza de ley.~~
