@@ -1,9 +1,9 @@
 # Decreto Ley N° 2544
 FIJA NORMAS PARA REUNIONES SINDICALES Y GREMIALES
 **Publicada:** 1979-02-09
-**Versión:** 1979-05-02
+**Versión:** 1979-07-03
 FIJA NORMAS PARA REUNIONES SINDICALES Y GREMIALES Núm. 2.544.- Santiago, 8 de Febrero de 1979.- Visto: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527, de 1974, y 991, de 1976. Considerando: 1.- Que constituye una finalidad del Supremo Gobierno el pleno ejercicio de las actividades sindicales y gremiales, y entre ellas, el del derecho de reunión de las entidades respectivas; 2.- Que para el logro de dicha finalidad ha sido necesario dictar los instrumentos jurídicos que la garanticen y compatibilicen con los diversos estados de excepción que han debido regir en el país; 3.- Que la superación de varias de estas etapas excepcionales hace posible la derogación o reemplazo paulatino de las normas dictadas con carácter transitorio; y 4.- Que las nuevas normas, conjuntamente con asegurar una amplia libertad en el ejercicio del derecho de reunión, deben preservar las facultades de la Autoridad para resguardar el orden y la seguridad públicos; La Honorable Junta de Gobierno ha acordado dictar el siguiente Decreto ley:
-Artículo 1°- Derógase el artículo 4° transitorio del decreto ley N° 198, de 1973.
+ARTICULO 1°.- DEROGADO.
 Artículo 2° Las reuniones ordinarias o extraordinarias de las organizaciones sindicales, sean éstas sindicatos, uniones, federaciones o confederaciones, se efectuarán en cualquier sede sindical, fuera de las horas de trabajo, y tendrán por objeto tratar entre sus asociados materias concernientes a la respectiva entidad.
 ARTICULO 3° Las disposiciones establecidas en el artículo anterior serán aplicables en igual forma a las Asociaciones de Funcionarios de los Servicios de la Administración Civil del Estado, Semifiscales, Municipales, y en general a las del Sector Público.
 ARTICULO 4° Las disposiciones del decreto ley 349, de 1974, no serán aplicables a las organizaciones de trabajadores, sean éstas entidades sindicales o asociaciones de funcionarios del Sector Público, en lo que se refiere al ejercicio del derecho de reunión.
