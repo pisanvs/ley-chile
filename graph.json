@@ -2,8 +2,8 @@
   "1892": {
     "idNorma": 1892,
     "numero": "4",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "IMPARTE NUEVAS INSTRUCCIONES SOBRE MATERIA QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1995-01-17",
     "modifica": [
       "3"
@@ -13,8 +13,8 @@
   "1935": {
     "idNorma": 1935,
     "numero": "37",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICACIONES INTRODUCIDAS A LOS ARTICULOS 21, 31,\n33 N° 1 LETRA F) Y 101 DE LA LEY DE LA RENTA, POR LA LEY\nN° 19.398, DE 1995",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1995-10-03",
     "modifica": [
       "824"
@@ -24,8 +24,8 @@
   "1957": {
     "idNorma": 1957,
     "numero": "56",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INFORMACION SOBRE CIRCULAR N° 56, DE 1993",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1993-12-07",
     "modifica": [
       "824"
@@ -227,8 +227,8 @@
   "3365": {
     "idNorma": 3365,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTATUTO ORGANICO DEL CONSEJO DE DEFENSA DEL ESTADO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1963-07-04",
     "modifica": [],
     "modificadaPor": [
@@ -385,8 +385,8 @@
   "3382": {
     "idNorma": 3382,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NUEVA ESCALA DE CATEGORIAS, GRADOS Y SUELDOS ANUALES DE FUNCIONARIOS QUE SEÑALA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1973-03-20",
     "modifica": [],
     "modificadaPor": [
@@ -639,8 +639,8 @@
   "3548": {
     "idNorma": 3548,
     "numero": "2",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA TASA DEL IMPUESTO AL VALOR AGREGADO PARA EL\nPERIODO QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1995-12-30",
     "modifica": [
       "825"
@@ -801,8 +801,8 @@
   "3874": {
     "idNorma": 3874,
     "numero": "12",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE MODIFICACIONES AL DECRETO LEY N° 799, DE 1974, QUE REGULA USO Y CIRCULACION DE VEHICULOS ESTATALES",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-08-02",
     "modifica": [
       "799"
@@ -824,8 +824,8 @@
   "3914": {
     "idNorma": 3914,
     "numero": "14",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NORMAS SOBRE LIQUIDACION DE LA COMUNIDAD\nQUE SE CONSTITUYA SOBRE TERRENOS ASIGNADOS EN PROPIEDAD\nEXCLUSIVA, SOBRE DERECHOS EN UN INMUEBLE ASIGNADO EN\nCOPROPIEDAD Y SOBRE DERECHOS EN UNA COOPERATIVA DE\nREFORMA AGRARIA, CUANDO DICHA COMUNIDAD FUE ORIGINADA\nPOR EL FALLECIMIENTO DE UN ASIGNATARIO O MIEMBRO DE UNA\nCOOPERATIVA O POR LA DISOLUCION DE LA SOCIEDAD CONYUGAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1968-02-05",
     "modifica": [],
     "modificadaPor": [
@@ -849,8 +849,8 @@
   "3976": {
     "idNorma": 3976,
     "numero": "17",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE ESCALAFONES QUE INDICA EN LA PLANTA DE\nPERSONAL DEL SERVICIO NACIONAL DE PESCA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1982-05-24",
     "modifica": [
       "2442"
@@ -860,8 +860,8 @@
   "3987": {
     "idNorma": 3987,
     "numero": "18",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUPRIME REFERENCIA QUE INDICA Y MODIFICA D.L. 828,\nDE 1974, EN LA FORMA QUE SEÑALA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-11-19",
     "modifica": [
       "828"
@@ -893,8 +893,8 @@
   "4028": {
     "idNorma": 4028,
     "numero": "21",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "COMPLEMENTA DECRETO CON FUERZA DE LEY N° 1-2.345, DE\n1979",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-11-13",
     "modifica": [
       "752"
@@ -1266,8 +1266,8 @@
   "4941": {
     "idNorma": 4941,
     "numero": "178",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "Decreto con fuerza de ley N.o 178",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-05-28",
     "modifica": [
       "767"
@@ -1304,8 +1304,8 @@
   "4980": {
     "idNorma": 4980,
     "numero": "189",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL ESTATUTO ORGANICO DEL SERVICIO DE PRISIONES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-03-29",
     "modifica": [],
     "modificadaPor": [
@@ -1499,7 +1499,7 @@
     "idNorma": 5120,
     "numero": "228",
     "titulo": "",
-    "clasificacion": "",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-05-26",
     "modifica": [
       "806"
@@ -1535,8 +1535,8 @@
   "5201": {
     "idNorma": 5201,
     "numero": "251",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "COMPAÑIAS DE SEGUROS, SOCIEDADES ANONIMAS Y BOLSAS DE COMERCIO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-05-22",
     "modifica": [],
     "modificadaPor": [
@@ -1913,8 +1913,8 @@
   "5488": {
     "idNorma": 5488,
     "numero": "348",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE DISPOSICIONES ORGANICAS POR LAS QUE HA DE\nREGIRSE LA CAJA DE PREVISION DE LOS CARABINEROS DE CHILE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": [
@@ -1993,8 +1993,8 @@
   "5587": {
     "idNorma": 5587,
     "numero": "451",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREA LA SECRETARIA EJECUTIVA PARA LOS ASUNTOS DE LA\nASOCIACION LATINOAMERICANA DE LIBRE COMERCIO Y APRUEBA\nSU ESTATUTO ORGANICO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1964-02-20",
     "modifica": [],
     "modificadaPor": [
@@ -2004,8 +2004,8 @@
   "5636": {
     "idNorma": 5636,
     "numero": "3068",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ORDENANZA GENERAL DEL TRANSITO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1964-10-31",
     "modifica": [],
     "modificadaPor": [
@@ -14079,12 +14079,21 @@
   "6924": {
     "idNorma": 6924,
     "numero": "2448",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA REGIMENES DE PENSIONES QUE INDICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-02-09",
     "modifica": [
       "338"
     ],
+    "modificadaPor": []
+  },
+  "6925": {
+    "idNorma": 6925,
+    "numero": "2453",
+    "titulo": "ESTABLECE NORMAS SOBRE RELIQUIDACION EXTRAORDINARIA\nDE PENSIONES PARA 1978",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-01-19",
+    "modifica": [],
     "modificadaPor": []
   },
   "6927": {
