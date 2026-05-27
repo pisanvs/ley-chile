@@ -2,6 +2,7 @@
 FIJA EL TEXTO DEFINITIVO DE LA LEY DEL BANCO CENTRAL
 DE CHILE
 **Publicada:** 1960-04-04
+**Versión:** 1975-06-28
 FIJA EL TEXTO DEFINITIVO DE LA LEY DEL BANCO CENTRAL DE CHILE Núm. 247.- Santiago, 30 de Marzo de 1960.- Vistos: las facultades que me otorgan los artículos 202, 204 y 207 número 6 de la ley N° 13,305, de 6 de Abril de 1959, vengo en dictar el siguiente Decreto con fuerza de ley: Introdúcense en el decreto con fuerza de ley N° 106, de 6 de Junio de 1953, las modificaciones que aparecen en el texto y fíjase el siguiente como texto definitivo de dicho decreto con fuerza de ley:
 ## ~~TITULO I Naturaleza, objetivo y domicilio del Banco~~
 ~~Artículo 1° El Banco Central de Chile será una institución autónoma, con personalidad jurídica, de duración indefinida, que se regirá por el presente decreto con fuerza de ley y por los Estatutos que se dicten de acuerdo con sus disposiciones.~~
