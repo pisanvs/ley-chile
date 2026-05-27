@@ -882,8 +882,8 @@
   "4312": {
     "idNorma": 4312,
     "numero": "53",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREA LA DIRECCION GENERAL DE RELACIONES ECONOMICAS INTERNACIONALES DEL MINISTERIO DE RELACIONES EXTERIORES Y ESTABLECE SU ESTATUTO ORGANICO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-04-27",
     "modifica": [
       "740"
@@ -12769,19 +12769,28 @@
   "6904": {
     "idNorma": 6904,
     "numero": "2396",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETO LEY N° 681, DE 1974, SOBRE PREMIOS\nNACIONALES",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-11-29",
     "modifica": [
       "681"
     ],
     "modificadaPor": []
   },
+  "6905": {
+    "idNorma": 6905,
+    "numero": "2397",
+    "titulo": "APRUEBA EL PRESUPUESTO DE ENTRADAS Y GASTOS DE LA NACION PARA 1979.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-12-01",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6907": {
     "idNorma": 6907,
     "numero": "2398",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "NORMAS COMPLEMENTARIAS DE ADMINISTRACION FINANCIERA Y DE INCIDENCIA PRESUPUESTARIA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-12-01",
     "modifica": [
       "338",
@@ -12793,30 +12802,129 @@
   "6908": {
     "idNorma": 6908,
     "numero": "2399",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "OTORGA PRIVILEGIO DE POBREZA A PERSONAS PATROCINADAS\nPOR LOS CONSULTORIOS JURIDICOS DE LAS FACULTADES DE\nDERECHO DE LAS UNIVERSIDADES QUE INDICA Y DE LA\nSECRETARIA NACIONAL DE LA MUJER, Y MODIFICA DECRETO LEY\nN° 1.861, DE 1977",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-12-22",
     "modifica": [
       "619"
     ],
+    "modificadaPor": []
+  },
+  "6909": {
+    "idNorma": 6909,
+    "numero": "2400",
+    "titulo": "MODIFICA EL ARTICULO 9° DEL DECRETO LEY NUMERO 824,\nDE 1974",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-12-12",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6910": {
+    "idNorma": 6910,
+    "numero": "2401",
+    "titulo": "MODIFICA EL DECRETO 341, DE 1977, DE HACIENDA, QUE FIJO EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LAS NORMAS SOBRE ZONAS Y DEPOSITOS FRANCOS.",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-12-16",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6911": {
+    "idNorma": 6911,
+    "numero": "2405",
+    "titulo": "DISUELVE LA CORPORACION DE LA REFORMA AGRARIA Y MODIFICA LA LEY 16.640",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-12-12",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6912": {
+    "idNorma": 6912,
+    "numero": "2410",
+    "titulo": "CREA LA BECA \"PRESIDENTE DE LA REPUBLICA\" EN LA ACADEMIA SUPERIOR DE SEGURIDAD NACIONAL.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-12-19",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6913": {
+    "idNorma": 6913,
+    "numero": "2411",
+    "titulo": "CONCEDE ASIGNACION ESPECIAL A LOS PERSONALES QUE INDICA, REGIDOS POR EL DECRETO LEY 249, DE 1973",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-12-15",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6914": {
+    "idNorma": 6914,
+    "numero": "2412",
+    "titulo": "ESTABLECE NORMAS SOBRE RECUPERACION Y ACTUALIZACION DE;CUENTAS Y REGISTROS INDIVIDUALES DE IMPOSICIONES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-12-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6915": {
+    "idNorma": 6915,
+    "numero": "2413",
+    "titulo": "INTRODUCE MODIFICACIONES AL DECRETO CON FUERZA DE\nLEY N° 120, DE 1960, LEY ORGANICA DE LA POLLA CHILENA DE\nBENEFICENCIA; FIJA SU PLANTA DE PERSONAL Y DEROGA\nDIVERSAS DISPOSICIONES LEGALES",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-12-29",
+    "modifica": [],
     "modificadaPor": []
   },
   "6916": {
     "idNorma": 6916,
     "numero": "2415",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LOS DECRETOS LEYES N°s. 619, 824, 825 Y\n830, DE 1974; Y 1.078, DE 1975, EN LA FORMA QUE INDICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-12-22",
     "modifica": [
       "619"
     ],
     "modificadaPor": []
   },
+  "6917": {
+    "idNorma": 6917,
+    "numero": "2416",
+    "titulo": "CREA JUZGADOS DE LETRAS DEL CRIMEN, ELEVA DE CATEGORIA A LOS TRIBUNALES DE MENOR CUANTIA QUE INDICA Y MODIFICA DISPOSICIONES QUE SEÑALA DEL CODIGO ORGANICO DE TRIBUNALES, LEY NUMERO 15.231, Y OTROS TEXTOS LEGALES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-01-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6918": {
+    "idNorma": 6918,
+    "numero": "2437",
+    "titulo": "ESTABLECE DISTRIBUCION DEL MONTO DE LAS APUESTAS MUTUAS Y OTRAS NORMAS DE LA ACTIVIDAD HIPICA NACIONAL Y DEROGA D.F.L. N° 807, DE 1970.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-12-29",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6919": {
+    "idNorma": 6919,
+    "numero": "2438",
+    "titulo": "FIJA NORMAS SOBRE SUBVENCION A LOS ESTABLECIMIENTOS;PARTICULARES GRATUITOS DE ENSEÑANZA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-12-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6920": {
+    "idNorma": 6920,
+    "numero": "2439",
+    "titulo": "OTORGA AL PRESIDENTE DE LA REPUBLICA LAS FACULTADES QUE INDICA EN MATERIA DE TEXTOS REFUNDIDOS DE CUERPOS LEGALES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-01-03",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6921": {
     "idNorma": 6921,
     "numero": "2440",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "TRASPASA LA ADMINISTRACION DE PRESTACIONES QUE\nINDICA DE LA EMPRESA DE LOS FERROCARRILES DEL ESTADO A\nLA CAJA DE RETIROS Y PREVISION SOCIAL DE LOS\nFERROCARRILES DEL ESTADO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-01-18",
     "modifica": [
       "150"
@@ -12826,8 +12934,8 @@
   "6922": {
     "idNorma": 6922,
     "numero": "2442",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE FUNCIONES Y ATRIBUCIONES DEL MINISTERIO DE ECONOMIA, FOMENTO Y RECONSTRUCCION, EN MATERIA DE PESCA ORGANIZA LA SUBSECRETARIA DE PESCA CREA EL CONSEJO NACIONAL DE PESCA Y EL SERVICIO NACIONAL DE PESCA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-12-29",
     "modifica": [
       "12"
@@ -12837,8 +12945,8 @@
   "6923": {
     "idNorma": 6923,
     "numero": "2444",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REVALORIZA PENSIONES PREVISIONALES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-12-28",
     "modifica": [
       "670"
