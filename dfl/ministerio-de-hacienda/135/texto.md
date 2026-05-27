@@ -1,5 +1,6 @@
 # Decreto con Fuerza de Ley N° 135
 **Publicada:** 1931-05-09
+**Versión:** 1931-05-10
 Núm. 135.- Santiago, 30 de Abril de 1931.- En uso de las facultades que me confiere la ley N.o 4,945, de 6 de Febrero del presente año, Decreto:
 TITULO PRELIMINAR {Arts. 1-2} De la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio Artículo 1.o, Créase la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio, Oficina que dependerá del Ministerio de Hacienda y que tendrá a su cargo la aplicación de esta ley, la superior fiscalización de los negocios de las Compañías de Seguros, el control de las operaciones bursátiles y la vigilancia de las sociedades anónimas desde la escritura de constitución hasta el término de su liquidación. No quedan comprendidas en las disposiciones de la presente ley, los Bancos y las sociedades anónimas creadas por leyes especiales, salvo que estas mismas dispongan lo contrario.
 Art. 2. Cada vez que en las disposiciones de esta ley se haga referencia a la Superintendencia o al Superintendente, se entenderá por tales, al organismo creado por el artículo anterior o al funcionario titular que lo dirija.
