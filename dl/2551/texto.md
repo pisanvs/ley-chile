@@ -1,0 +1,9 @@
+# Decreto Ley N° 2551
+DISPONE SUPLEMENTO AL PRESUPUESTO VIGENTE DE LA XII
+REGION
+**Publicada:** 1979-02-22
+DISPONE SUPLEMENTO AL PRESUPUESTO VIGENTE DE LA XII REGION Núm. 2.551.- Santiago, 9 de Febrero de 1979°.- Vistos: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; N° 527, de 1974, y N° 991, de 1976, La Junta de Gobierno de la República de Chile ha resuelto dictar el siguiente Decreto ley:
+Artículo 1°.- Supleméntase el presupuesto vigente de la XII Región, en la cantidad que se indica: ------------------------------------------------------- Part. Cap. Prog. Subt. Item Miles de $ ------------------------------------------------------- EN PARTIDA 50-70 TESORO PUBLICO Ingresos Generales de la Nación 50 01 00 03 23001_________ 13.892 ------------------------------------------------------- Gastos 55 22 00 80__________________ 13.892 -------------------------------------------------------
+Artículo 2°.- Los recursos dispuestos para la XII Región, en el artículo precedente, se destinarán a la construcción de terminales de transbordadores en las ciudades de Puerto Montt y Puerto Natales. La utilización de estos fondos se determinarán en forma conjunta por los Intendentes de las Regiones X y XII, pudiendo efectuarse transferencias para estos fines a la X Región.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- ARTURO TRONCOSO DAROCH, Vicealmirante, Comandante en Jefe de la Armada subrogante.- MARIO MC KAY JARAQUEMADA, General Director de Carabineros subrogante.- JAVIER LOPETEGUI TORRES, General de Aviación, Comandante en Jefe de la Fuerza Aérea subrogante.- Sergio de Castro Spikula, Ministro de Hacienda. Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud.- Pedro Larrondo Jara, Capitán de Navío (AB), Subsecretario de Hacienda.
