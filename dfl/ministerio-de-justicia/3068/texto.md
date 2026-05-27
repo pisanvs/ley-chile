@@ -1,6 +1,7 @@
 # Decreto con Fuerza de Ley N° 3068
 ORDENANZA GENERAL DEL TRANSITO
 **Publicada:** 1964-10-31
+**Versión:** 1984-02-07
 ORDENANZA GENERAL DEL TRANSITO Santiago, 27 de Octubre de 1964.- Hoy se decretó lo que sigue: Núm. 3.068.- En virtud de lo dispuesto en el artículo 72 de la ley número 15.231, de 8 de Agosto de 1963, que fijó el texto definitivo y refundido de la Ley de Organización y Atribuciones de los Juzgados de Policía Local, vengo en dictar la siguiente ORDENANZA GENERAL DEL TRANSITO
 Capítulo preliminar
 ~~Artículo 1.o- A las disposiciones de la presente Ordenanza quedarán sujetas todas las personas que como peatones o conductores de cualesquiera clase de vehículos, ya sean motorizados, a propulsión humana o a tracción animal y las que cabalguen animales, lleven éstos de tiro o en arreos, usen o transiten por los caminos, calles y demás vías públicas, rurales o urbanas, caminos vecinales o particulares destinados al uso público de todo el territorio de la República. Estos preceptos prevalecerán sobre toda otra disposición reglamentaria municipal vigente o que en lo sucesivo dictaren las corporaciones edilicias del país. Las disposiciones de esta Ordenanza se aplicarán, también, a las demás personas a que se alude expresamente en varios de sus artículos, con el objeto de propender a la seguridad en el tránsito y precaver la vida e integridad física de los habitantes de la Nación y el respeto de la propiedad ajena. Formarán parte integrante de esta Ordenanza los Anexos a que ella hace referencia.~~
