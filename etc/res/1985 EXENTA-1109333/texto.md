@@ -186,6 +186,8 @@ g.2) Que operen en la banda de frecuencias de 2.400-2.483,5 MHz con una potencia
 
 g.3) Dispositivos de adquisición de datos médicos que operen en la banda de frecuencias de 430 - 440 MHz, con una p.i.r.e. de 0,1 µW y que empleen tecnología de saltos de frecuencia.
 
+g.4) Dispositivos médicos implantables activos de potencia extremadamente baja que operen en la banda de frecuencias de 9-315 kHz, con una intensidad de campo que no exceda el valor de 30 dBµA/m (o su equivalente en dBµV/m) a 10 metros.
+
 h) Otros equipos empleados para aplicaciones médicas que operen en las siguientes bandas de frecuencias con una intensidad de campo eléctrico o potencia radiada que no exceda los valores que se indican a continuación:
 
 Bandas de frecuencias Intensidad de
@@ -430,23 +432,25 @@ p) Informe de Ensayo o Test Report: un hipervínculo que permita descargar un ar
 
 Si algunas características técnicas de un equipo son confidenciales, se podrá restringir el acceso a ellas en el sitio web mediante una clave. Asimismo, si el Informe de Ensayo o Test Report contiene información confidencial, la versión para libre descarga podrá omitirla o censurarla, requiriéndose una clave para acceder a la versión confidencial. En cualquier caso, la respectiva clave debe ser informada previamente a la Subsecretaría de Telecomunicaciones mediante un correo electrónico dirigido a la casilla certificaciones@subtel.gob.cl.
 
+De forma alternativa, la versión confidencial de dicho Informe podrá ser ingresada por Oficina de Partes Virtual de la Subsecretaría de Telecomunicaciones, informando el respectivo Número de Ingreso junto con las referencias del equipo a la misma casilla de correo electrónico señalada precedentemente.
+
 Si el sitio web contiene información relativa a más de un equipo, deberá tener un buscador. Este buscador permitirá encontrar la información específica de cada equipo según su nombre, marca, modelo, tipo o características técnicas.
 
-4) El código QR mencionado en el numeral 2) precedente debe cumplir con los siguientes requisitos:
+4) El código QR mencionado en el numeral 2) precedente debe cumplir con los siguientes requisitos, siempre resguardando las condiciones necesarias mínimas para su correcta lectura:
 
 a) Debe ubicarse en un lugar visible de una de las caras exteriores del empaque del equipo.
 
-b) Debe tener un tamaño mínimo de 1 cm de ancho por 1cm de alto.
+b) El tamaño del código QR será libremente determinado por el responsable, resguardando en todo caso las condiciones necesarias para su correcta lectura y funcionamiento. No obstante, se recomienda que el código QR cumpla con las especificaciones de la norma ISO/IEC 18004.
 
-c) No debe tener marcos.
+c) Podrá tener marcos.
 
 d) Debe ser un modelo legible mediante dispositivos móviles. Por ejemplo: Modelo 2, según estándar QR.
 
 e) El contraste entre los dos colores del patrón que conforma el código QR debe ser legible para cualquier equipo lector.
 
-f) Estilo de borde: cuadrados (módulos).
+f) Estilo de borde: libre elección (módulos).
 
-g) Estilo de centro: cuadrados (módulos).
+g) Estilo de centro: libre elección (módulos).
 
 h) Nivel de corrección: 30%.
 
