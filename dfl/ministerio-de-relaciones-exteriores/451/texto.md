@@ -3,6 +3,7 @@ CREA LA SECRETARIA EJECUTIVA PARA LOS ASUNTOS DE LA
 ASOCIACION LATINOAMERICANA DE LIBRE COMERCIO Y APRUEBA
 SU ESTATUTO ORGANICO
 **Publicada:** 1964-02-20
+**Versión:** 1979-04-27
 CREA LA SECRETARIA EJECUTIVA PARA LOS ASUNTOS DE LA ASOCIACION LATINOAMERICANA DE LIBRE COMERCIO Y APRUEBA SU ESTATUTO ORGANICO Santiago, 6 de Diciembre de 1963.- Hoy se decretó lo que sigue: Núm. 451/2.- Vista la facultad que me confiere el artículo 10.o de la ley N.o 15.266, de 10 de Octubre de 1963, vengo en dictar el siguiente Decreto con fuerza de ley:
 CAPITULO I De la Secretaría Ejecutiva para los Asuntos de la Asociación Latinoamericana de Libre Comercio
 ~~Artículo 1.o- Créase, dependiente del Ministerio de Relaciones Exteriores, un organismo público técnico, denominado Secretaría Ejecutiva para los Asuntos de la Asociación Latinoamericana de Libre Comercio.~~
