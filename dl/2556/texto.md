@@ -1,0 +1,8 @@
+# Decreto Ley N° 2556
+DISPONE SUPLEMENTOS AL PRESUPUESTO VIGENTE DEL
+SECTOR PUBLICO
+**Publicada:** 1979-03-08
+DISPONE SUPLEMENTOS AL PRESUPUESTO VIGENTE DEL SECTOR PUBLICO Núm. 2.556.- Santiago, 2 de Marzo de 1979.- Visto: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; N° 527, de 1974, y N° 991, de 1976, La Junta de Gobierno de la República de Chile ha resuelto dictar el siguiente Decreto ley:
+Artículo único.- Supleméntase el Presupuesto vigente en moneda nacional y moneda extranjera, en las cantidades que se indican: ------------------------------------------------------- Moneda Extranjera Moneda convertida Nacional a dólares Miles de Miles de $ US$ ------------------------------------------------------- Part. Cap. Prog. Subt. Item EN PARTIDA 50-70 TESORO PUBLICO Ingresos Generales de la Nación 50 01 00 01 02.001 6.000 03 16 340 ------------------------------------------------------- Part. Cap. Prog. Subt. Item Gastos - Aporte Fiscal Libre 55 01 00 80 6.000 56 01 00 80 340 -------------------------------------------------------
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- ARTURO TRONCOSO DAROCH, Vicealmirante, Comandante en Jefe de la Armada subrogante.- MARIO MAC-KAY JARAQUEMADA, General Director de Carabineros subrogante.- Pedro Larrondo Jara, Capitán de Navío (AB), Ministro de Hacienda subrogante. Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud.- Pedro Larrondo Jara, Capitán de Navío (AB), Subsecretario de Hacienda.
