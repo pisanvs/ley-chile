@@ -2,7 +2,8 @@
 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE
 LAS NORMAS SOBRE PREMIOS NACIONALES
 **Publicada:** 1988-12-19
-FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LAS NORMAS SOBRE PREMIOS NACIONALES D.F.L. N° 1.- Santiago, 11 de Mayo de 1988.- En uso de las facultades que me confiere el artículo transitorio de la Ley N° 18.659, de 1987 y teniendo presente lo dispuesto en las Leyes N°s. 7.368, de 1942; 11.479, de 1953; 13.363, de 1959; 15.600, de 1964; 16.746, de 1968; 17.595, de 1972 y 18.541, de 1986 y los Decretos Leyes N°s. 681, de 1974; 2.396, de 1978 y 2.838, de 1979, dicto el siguiente: Decreto con fuerza de ley: Fíjase el siguiente texto refundido, coordinado y sistematizado de las normas sobre Premios Nacionales:
+**Versión:** 1992-09-26
+FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LAS NORMAS SOBRE PREMIOS NACIONALES D.F.L. N° 1.- Santiago, 11 de Mayo de 1988.- En uso de las facultades que me confiere el artículo transitorio de la Ley N° 18.659, de 1987 y teniendo presente lo dispuesto en las Leyes N°s. 7.368, de 1942; 11.479, de 1953; 13.363, de 1959; 15.600, de 1964; 16.746, de 1968; 17.595, de 1972 y 18.541, de 1986 y los Decretos Leyes N°s. 681, de 1974; 2.396, de 1978 y 2.838, de 1979, dicto el siguiente: Decreto con fuerza de ley: Fíjase el siguiente texto refundido, coordinado y sistematizado de las normas sobre Premios Nacionales: </NOTA>
 I.- DE LOS PREMIOS.
 ~~Art.1°Ley 7.368/42. Artículo 1°: Créanse los Art.3°Ley11.479/53. Premios Nacionales de Art.1°Ley16.746/68. Literatura, Arte, Periodismo, Art.1°D.L.681/74. Ciencia, Historia y Educación Art.1°D.L.2.838/79. que se regirán por las normas establecidas en la presente ley.~~
 ~~Art.2°Ley 7.368/42. Artículo 2°: El Premio Art.2°Ley17.595/72. Nacional de Literatura Art.2°D.L.681/74. se otorgará cada dos años, Art. único en forma indivisible, al N° Ley 18.541/86. escritor chileno cuya obra, por su excelencia, lo haga acreedor a dicha distinción.~~
