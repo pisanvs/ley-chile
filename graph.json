@@ -474,8 +474,8 @@
   "3485": {
     "idNorma": 3485,
     "numero": "2",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DISPONE LA REESTRUCTURACIÓN Y FIJA LAS FUNCIONES DE LA DIRECCIÓN DEL TRABAJO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1967-09-29",
     "modifica": [],
     "modificadaPor": [
@@ -566,8 +566,8 @@
   "3599": {
     "idNorma": 3599,
     "numero": "3",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE CAMBIOS DE REDACCION A LOS ARTICULOS QUE\nSEÑALA DEL CODIGO PENAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1992-09-03",
     "modifica": [
       "PENAL"
@@ -683,8 +683,8 @@
   "3872": {
     "idNorma": 3872,
     "numero": "12",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTATUTO ORGANICO DEL INSTITUTO DE DESARROLLO;AGROPECUARIO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1963-04-10",
     "modifica": [],
     "modificadaPor": [
@@ -741,8 +741,8 @@
   "4128": {
     "idNorma": 4128,
     "numero": "29",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "TRASPASA AL MINISTERIO DE EDUCACION PUBLICA LAS\nFUNCIONES QUE INDICA DEL EX COLEGIO DE PROFESORES DE\nCHILE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-09-09",
     "modifica": [
       "678"
@@ -1016,8 +1016,8 @@
   "4836": {
     "idNorma": 4836,
     "numero": "153",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREA LA EMPRESA NACIONAL DE MINERIA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-05",
     "modifica": [],
     "modificadaPor": [
@@ -12138,11 +12138,20 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "6869": {
+    "idNorma": 6869,
+    "numero": "2247",
+    "titulo": "MODIFICA Y COMPLEMENTA LA LEY N° 16.640",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-06-19",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6870": {
     "idNorma": 6870,
     "numero": "2248",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE ARTICULO 237 DEL D.F.L. (G) N° 1 E\nINTERCALA ARTICULO AL D.F.L. N° 2, AMBOS DE 1968",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-07-05",
     "modifica": [
       "1",
@@ -12150,33 +12159,123 @@
     ],
     "modificadaPor": []
   },
+  "6871": {
+    "idNorma": 6871,
+    "numero": "2250",
+    "titulo": "MODIFICA DECRETO LEY N° 1.305, DE 1976, QUE\nREESTRUCTURA Y REGIONALIZA EL MINISTERIO DE VIVIENDA Y\nURBANISMO Y FUSIONA ORGANISMOS QUE SE RELACIONAN CON EL\nGOBIERNO POR SU INTERMEDIO",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-07-13",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6872": {
+    "idNorma": 6872,
+    "numero": "2252",
+    "titulo": "AUTORIZA EL FRACCIONAMIENTO DEL FERIADO DE LOS\nTRABAJADORES DE LA EMPRESA DE FERROCARRILES DEL ESTADO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-07-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6873": {
+    "idNorma": 6873,
+    "numero": "2300",
+    "titulo": "ESTABLECE FORMA ESPECIAL DE ACREDITAR FALLECIMIENTO\nDE LAS PERSONAS CUYO DECESO SE PRODUZCA EN LAS\nCIRCUNSTANCIAS QUE INDICA, PARA FINES DE SEGURIDAD\nSOCIAL",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-08-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6874": {
+    "idNorma": 6874,
+    "numero": "2301",
+    "titulo": "PONE TERMINO AL REGIMEN DE INTERVENCION DE LA\nCOMPAÑIA DE TELEFONOS DE CHILE",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-08-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6875": {
     "idNorma": 6875,
     "numero": "2305",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL D.F.L. N° 1 (G), DE 1968, EN LA FORMA\nQUE INDICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-09-08",
     "modifica": [
       "1"
     ],
     "modificadaPor": []
   },
+  "6876": {
+    "idNorma": 6876,
+    "numero": "2306",
+    "titulo": "DICTA NORMAS SOBRE RECLUTAMIENTO Y MOVILIZACION DE LAS FUERZAS ARMADAS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-09-12",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6877": {
+    "idNorma": 6877,
+    "numero": "2312",
+    "titulo": "INTRODUCE MODIFICACIONES AL ARTICULO 1° DEL DECRETO LEY N° 1.606, DE 1976, QUE REEMPLAZO EL TEXTO DEL DECRETO LEY N° 825, DE 1974, SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS Y A OTRAS DISPOSICIONES LEGALES",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-08-25",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6878": {
+    "idNorma": 6878,
+    "numero": "2313",
+    "titulo": "SEÑALA DEPENDENCIA Y CREA PLANTA DE PERSONAL DE LA;SECRETARIA EJECUTIVA DEL COMITE DE INVERSIONES EXTRANJERAS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-09-09",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6879": {
+    "idNorma": 6879,
+    "numero": "2315",
+    "titulo": "MODIFICA EL ARTICULO 5° DEL DECRETO LEY N° 258, DE\n1974, QUE CREO RADIO NACIONAL DE CHILE",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-09-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6880": {
+    "idNorma": 6880,
+    "numero": "2319",
+    "titulo": "MODIFICA LA LEY N° 4.601, SOBRE CAZA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1978-09-04",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6881": {
     "idNorma": 6881,
     "numero": "2324",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LEGISLACION SOBRE IMPUESTO A LA RENTA,\nSOBRE IMPUESTO AL VALOR AGREGADO Y OTRAS DE CARACTER\nTRIBUTARIO",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1978-08-31",
     "modifica": [
       "619"
     ],
     "modificadaPor": []
   },
+  "6882": {
+    "idNorma": 6882,
+    "numero": "2325",
+    "titulo": "ESTABLECE SISTEMA DE REAJUSTE AUTOMATICO SEMESTRAL DE LOS AVALUOS DE BIENES RAICES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1978-09-08",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6883": {
     "idNorma": 6883,
     "numero": "2327",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREA LA CARRERA DOCENTE Y REGULA SU EJERCICIO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-09-22",
     "modifica": [
       "338"
