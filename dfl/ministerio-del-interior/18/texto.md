@@ -1,0 +1,10 @@
+# Decreto con Fuerza de Ley N° 18
+SUPRIME REFERENCIA QUE INDICA Y MODIFICA D.L. 828,
+DE 1974, EN LA FORMA QUE SEÑALA
+**Publicada:** 1979-11-19
+SUPRIME REFERENCIA QUE INDICA Y MODIFICA D.L. 828, DE 1974, EN LA FORMA QUE SEÑALA Santiago, 11 de Octubre de 1979.- Hoy se decretó lo que sigue: D.F.L. N° 18-2.345.- Considerando: 1°.- Que es necesario simplificar el pago de los impuestos al tabaco, cigarros y cigarrillos establecidos en el título II del decreto ley N° 828, de 1974 que actualmente pueden pagarse mediante fajas adheridas a los paquetes. 2°.- Que dicho procedimiento es lento y engorroso y existen medios más expeditos para pagar y recaudar dicho impuesto, y Visto: Las facultades que me confiere el decreto ley N° 2.345, de 1978, dicto el siguiente Decreto con fuerza de ley:
+Artículo 1°.- Suprímese en el artículo 1° del D.F.L. de Interior N° 4/2.345, de 1979, la referencia al artículo 17 del decreto ley N° 828, de 1974.
+Artículo 2°.- Sustitúyese el artículo 9° del decreto ley N° 828, de 1974, por el siguiente: Artículo 9°.- La percepción del impuesto se hará por medio de ingresos de dinero en Tesorería, sin perjuicio del cumplimiento de las medidas de control que la Dirección Nacional del Servicio de Impuestos Internos estime conveniente adoptar en resguardo del interés fiscal, las cuales se harán efectivas, respecto de las especies importadas dentro de los quince días siguientes al retiro de ellas, del recinto aduanero en los lugares y en la forma que determine la referida Dirección.
+Artículo 3°.- Deróganse los artículos 10, 11, 13, 17, inciso 2°; y 18, incisos 2° y 3°, del decreto ley N° 828, de 1974.
+---
+Tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Sergio Fernández Fernández, Ministro del Interior.- Pedro Larrondo Jara, Capitán de Navío AB., Ministro de Hacienda subrogante. Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Enrique Montero Marx, Coronel de Aviación (J), Subsecretario del Interior.
