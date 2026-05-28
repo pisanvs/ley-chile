@@ -1,0 +1,7 @@
+# Decreto Ley N° 2938
+MODIFICA EL ARTICULO 1° DE LA LEY N° 17.668
+**Publicada:** 1979-11-23
+MODIFICA EL ARTICULO 1° DE LA LEY N° 17.668 Santiago, 6 de Noviembre de 1979.- Con esta fecha se ha dictado el siguiente decreto ley: Núm. 2.938.- Visto: Lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527, de 1974, y 991, de 1976. La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Sustitúyese al artículo 1° de la ley N° 17.668, por el siguiente: "Artículo 1°- La Caja Nacional de Empleados Públicos Periodistas invertirá mensualmente los fondos a que se refiere el artículo 41 de la ley N° 10.621, en instrumentos financieros, de acuerdo con el régimen general establecido en el artículo 55 del decreto ley N° 670, de 1974."
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- José Piñera Echenique, Ministro del Trabajo y Previsión Social.- Sergio de Castro Spikula, Ministro de Hacienda. Lo que transcribo a U. para su conocimiento.- Saluda a U.- Alfonso Serrano Spoerer, Subsecretario de Previsión Social.
