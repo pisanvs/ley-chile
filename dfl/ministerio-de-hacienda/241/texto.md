@@ -1,7 +1,7 @@
 # Decreto con Fuerza de Ley N° 241
 FUSIONA Y REORGANIZA DIVERSOS SERVICIOS RELACIONADOS CON LA AVIACION CIVIL.
 **Publicada:** 1960-04-06
-**Versión:** 1987-05-12
+**Versión:** 1987-08-13
 FUSIONA Y REORGANIZA DIVERSOS SERVICIOS RELACIONADOS CON LA AVIACION CIVIL Núm. 241.- Santiago, 29 de Marzo de 1960.- Vistas las facultades que me otorga el artículo 202 de la ley N° 13,305, de 6 de Abril de 1959, vengo en dictar el siguiente Decreto con fuerza de ley:
 ## TITULO I
 Artículo 1°. Fusiónase la Junta de Aeronáutica Civil, creada por decreto supremo 42, de 20 de enero de 1948, del Ministerio de Defensa Nacional (Subsecretaría de Aviación), modificado por el decreto con fuerza de ley 343, de 1953, con la Junta Permanente de Aerodrómos, creada por el decreto con fuerza de ley 36, de 1953, y con el Departamento de Transporte Aéreo de la Subsecretaría de Transportes del Ministerio de Economía, contemplado en el decreto con fuerza de ley 88, de 1953, complementado por el decreto con fuerza de ley 343, de 1953. "El organismo fusionado se denominará Junta de Aeronáutica Civil, dependerá del Ministerio de Transportes y Telecomunicaciones, y tendrá la organización y atribuciones que en este decreto con fuerza de ley se señalan.".
@@ -39,4 +39,4 @@ Artículo 29°.- El personal de la Junta de Aeronáutica Civil en actual servici
 Artículo 30°.- Los empleos y remuneraciones del personal directivo, profesional, técnico o especializado, que declara tal el Presidente de la República, de la Junta de Aeronáutica Civil y de la Dirección de Aeronáutica, serán compatibles con los otros sueldos y cargos de que gocen estos mismos funcionarios, disminuídos el menor de los dos sueldos en un 50%.
 Artículo 31°.- El presente decreto con fuerza de ley entrará en vigencia ochenta días después de su publicación en el "Diario Oficial".
 ---
-Tómese razón, regístrese, comuníquese, publíquese e insértese en la Recopilación de Leyes de la Contraloría General de la República.- J. ALESSANDRI R.- Carlos Vial I.- Roberto Vergara H.- Enrique Ortúzar E.- Pablo Pérez Z.
+Tómese razón, regístrese, comuníquese, publíquese e insértese en la Recopilación de Leyes de la Contraloría General de la República.- JORGE ALESSANDRI RODRIGUEZ.- Carlos Vial.- Roberto Vergara.- Enrique Ortúzar.- Pablo Pérez.
