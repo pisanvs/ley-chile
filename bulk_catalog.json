@@ -640,6 +640,11 @@
     "fechaPublicacion": "1960-04-04"
   },
   {
+    "idNorma": 5215,
+    "tipo": "dfl",
+    "fechaPublicacion": "1931-05-26"
+  },
+  {
     "idNorma": 5216,
     "tipo": "dfl",
     "fechaPublicacion": "1960-04-04"
@@ -69573,6 +69578,11 @@
     "idNorma": 200893,
     "tipo": "dl",
     "fechaPublicacion": "1925-03-18"
+  },
+  {
+    "idNorma": 200899,
+    "tipo": "dfl",
+    "fechaPublicacion": "1968-01-17"
   },
   {
     "idNorma": 200905,
