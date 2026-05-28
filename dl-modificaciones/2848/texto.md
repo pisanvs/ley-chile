@@ -1,0 +1,9 @@
+# Decreto Ley N° 2848
+MODIFICA EL INCISO PRIMERO DEL ARTICULO 198 DEL
+CODIGO DE MINERIA, RELATIVO AL REGIMEN DE
+INEMBARGABILIDAD DE LAS PERTENENCIAS MINERAS
+**Publicada:** 1979-09-11
+MODIFICA EL INCISO PRIMERO DEL ARTICULO 198 DEL CODIGO DE MINERIA, RELATIVO AL REGIMEN DE INEMBARGABILIDAD DE LAS PERTENENCIAS MINERAS Santiago 22 de Agosto de 1979.- Hoy se decretó lo que sigue: Núm. 2.848.- Visto: Lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527 y 788, de 1974; 991, de 1976, y Considerando: Que la actividad minera requiere de importantes inversiones de capital para su adecuado desarrollo, lo que hace indispensable facilitar la obtención de créditos mediante la modificación del principio legal de la inembargabilidad que rige para las pertenencias mineras. La Junta de Gobierno de la República de Chile, en ejercicio de sus potestades constituyente y legislativa ha acordado dictar el siguiente, Decreto ley:
+Artículo único.- Sustituyese el inciso primero del artículo 198 de Código de Minería, por el siguiente: "Sin perjuicio de los derechos de los acreedores hipotecarios, no se podrá embargar ni enajenar la pertenencia del deudor, las cosas que se reputan inmuebles accesorios ni las provisiones introducidas en ella para su laboreo.".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Ofical de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Carlos Quiñones López, Contraalmirante, Ministro de Minería. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Bonifacio Arturo Neira Moraga, Teniente Coronel (I) de Carabineros, Subsecretario de Minería.
