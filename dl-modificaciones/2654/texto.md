@@ -1,0 +1,7 @@
+# Decreto Ley N° 2654
+MODIFICA LA LEY N° 17.379
+**Publicada:** 1979-06-06
+MODIFICA LA LEY N° 17.379 Santiago, 9 de Mayo de 1979.- Hoy se decretó lo que sigue: Núm. 2.654.- Visto: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Introdúcese al artículo único de la ley N° 17.379, entre los actuales incisos tercero y cuarto, el siguiente: "La Sección Bienestar podrá, también, bonificar los beneficios médicos y odontológicos que contempla la ley N° 16.781 y suscribir convenios para su aplicación para lo cual deberá consultar en su presupuesto el 0,8%, a lo menos, de las remuneraciones imponibles del personal de la Municipalidad, para destinarlo a financiamiento de esa bonificación.".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernández, Ministro del Interior.- Carlos Jiménes Vargas, Coronel de Aviación, Ministro de Salud Pública. Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Enrique Montero Marx, Coronel de Aviación (J), Subsecretario del Interior.
