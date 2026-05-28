@@ -1,6 +1,7 @@
 # Decreto con Fuerza de Ley N° 707
 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY SOBRE CUENTAS CORRIENTES BANCARIAS Y CHEQUES
 **Publicada:** 1982-10-07
+**Versión:** 1989-08-01
 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY SOBRE CUENTAS CORRIENTES BANCARIAS Y CHEQUES Santiago, 21 de Julio de 1982.- Hoy se decretó lo que sigue: D.F.L. N° 707.- Visto: La facultad que me confiere la Ley N° 18.127, de 1982, vengo en dictar el siguiente Decreto con fuerza de ley: Fíjase el siguiente texto refundido, coordinado y sistematizado de la Ley sobre Cuentas Corrientes Bancarias y Cheques:
 I.- Del contrato de cuenta corriente
 Artículo 1°.- La cuenta corriente bancaria es un Dto. 3777/43, contrato a virtud del cual un Banco se obliga a cumplir las Hac., Art.1° órdenes de pago de otra persona hasta concurrencia de las cantidades de dinero que hubiere depositado en ella o del crédito que se haya estipulado. El Banco deberá mantener en estricta reserva, respecto de terceros, el movimiento de la cuenta corriente y sus saldos, y sólo podrá proporcionar estas informaciones al librador o a quien éste haya facultado expresamente. No obstante, los Tribunales de Justicia podrán ordenar la exhibición de determinadas partidas de la cuenta corriente en causas civiles y criminales seguidas con el librador.
