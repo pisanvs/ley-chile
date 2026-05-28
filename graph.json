@@ -548,8 +548,8 @@
   "3391": {
     "idNorma": 3391,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "D.F.L. SOBRE NUEVAS MUNICIPALIDADES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-10-15",
     "modifica": [
       "2868"
@@ -17066,22 +17066,58 @@
     ],
     "modificadaPor": []
   },
+  "7028": {
+    "idNorma": 7028,
+    "numero": "2885",
+    "titulo": "ESTABLECE NORMAS SOBRE EL OTORGAMIENTO DE TITULOS DE DOMINIO Y ADMINISTRACION DE TERRENOS FISCALES EN LA ISLA DE PASCUA.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-11-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7029": {
+    "idNorma": 7029,
+    "numero": "2886",
+    "titulo": "DEJA SUJETA A LAS NORMAS GENERALES DEL CODIGO DE MINERIA LA CONSTITUCION DE PERTENENCIA MINERA SOBRE CARBONATO DE CALCIO, FOSFATO Y SALES POTASICAS, RESERVA EL LITIO EN FAVOR DEL ESTADO E INTERPRETA Y MODIFICA LAS LEYES QUE SE SEÑALAN",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-11-14",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7030": {
     "idNorma": 7030,
     "numero": "2935",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETO LEY N° 2.466, DE 1979, E INCORPORA\nA LA PLANTA DEL PODER JUDICIAL CARGO QUE INDICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-11-28",
     "modifica": [
       "2466"
     ],
     "modificadaPor": []
   },
+  "7031": {
+    "idNorma": 7031,
+    "numero": "2936",
+    "titulo": "AGREGA NUEVO INCISO AL ARTICULO 22 DE LA LEY N°\n17.322",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-11-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7032": {
+    "idNorma": 7032,
+    "numero": "2938",
+    "titulo": "MODIFICA EL ARTICULO 1° DE LA LEY N° 17.668",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-11-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7033": {
     "idNorma": 7033,
     "numero": "2950",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETOS LEYES N°s 2.758, 2.756 Y 2.759, Y\nDEROGA DISPOSICIONES QUE INDICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-11-21",
     "modifica": [
       "2756",
@@ -17093,34 +17129,124 @@
   "7034": {
     "idNorma": 7034,
     "numero": "2956",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA NORMAS DEL DFL. (G) No. 1, DE 1968, CUYO\nTEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO FUE FIJADO\nPOR EL DECRETO No. 14, DE 1977, DE GUERRA, ESTATUTO DEL\nPERSONAL DE LAS FUERZAS ARMADAS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-12-03",
     "modifica": [
       "1"
     ],
     "modificadaPor": []
   },
+  "7035": {
+    "idNorma": 7035,
+    "numero": "2959",
+    "titulo": "CONCEDE NUEVO PLAZO PARA ACOGERSE A LAS\nDISPOSICIONES DE LAS LEYES QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-12-11",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7036": {
+    "idNorma": 7036,
+    "numero": "2961",
+    "titulo": "INTERPRETA NORMAS DEL DECRETO CON FUERZA DE LEY N°\n2, DE 1971, DEL MINISTERIO DE EDUCACION PUBLICA,\nRELATIVAS A LA COLEGIATURA DE TECNICOS UNIVERSITARIOS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-01-16",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7037": {
+    "idNorma": 7037,
+    "numero": "2963",
+    "titulo": "LEY ORGANICA DE LA SINDICATURA NACIONAL DE QUIEBRAS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-01-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7038": {
+    "idNorma": 7038,
+    "numero": "2964",
+    "titulo": "MODIFICA D.F.L. N° 33, DE 1979, ESTATUTO PERSONAL\nDEL MINISTERIO DE RELACIONES EXTERIORES",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-12-06",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7039": {
+    "idNorma": 7039,
+    "numero": "2969",
+    "titulo": "MODIFICA DECRETOS LEYES N° 1.166, DE 1975, Y N°\n1.770, DE 1977",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-12-12",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7040": {
+    "idNorma": 7040,
+    "numero": "2971",
+    "titulo": "SUSTITUYE EL ARTICULO 19 DEL DECRETO CON FUERZA DE\nLEY N° 42, DE 1978, DEL MINISTERIO DEL TRABAJO Y\nPREVISION SOCIAL, SUBSECRETARIA DE PREVISION SOCIAL, EN\nLO RELATIVO AL ACUERDO DE LOS TRABAJADORES PARA\nCONSTITUIR NUEVAS CAJAS DE COMPENSACION DE ASIGNACION\nFAMILIAR",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-12-27",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7041": {
+    "idNorma": 7041,
+    "numero": "2973",
+    "titulo": "MODIFICA DECRETO LEY N° 2.437, DE 1978, EN LO\nRELATIVO A APORTE PARA LA PREVISION SOCIAL",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-12-27",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7042": {
     "idNorma": 7042,
     "numero": "2974",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NORMAS ESPECIALES SOBRE CREDITOS QUE SE\nOTORGUEN A PEQUEÑOS EMPRESARIOS AGRICOLAS Y RELATIVOS A\nLA PRENDA AGRARIA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-12-19",
     "modifica": [
       "12"
     ],
     "modificadaPor": []
   },
+  "7043": {
+    "idNorma": 7043,
+    "numero": "2976",
+    "titulo": "MODIFICA ARTICULO 35 DE LA LEY N° 13.039 Y CONCEDE\nFRANQUICIAS RESPECTO DE LOS VEHICULOS PRODUCIDOS EN LA\nPRIMERA REGION",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-12-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7044": {
+    "idNorma": 7044,
+    "numero": "2977",
+    "titulo": "ESTABLECE NORMAS COMPLEMENTARIAS DEL DECRETO LEY Nº 2.758, DE 1979, EN LO RELATIVO A LA ORGANIZACION Y FUNCIONAMIENTO DEL CUERPO ARBITRAL",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-12-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7045": {
     "idNorma": 7045,
     "numero": "2978",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETO LEY No. 2.224, DE 1978, QUE CREO LA\nCOMISION NACIONAL DE ENERGIA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-12-13",
     "modifica": [
       "2224"
     ],
+    "modificadaPor": []
+  },
+  "7046": {
+    "idNorma": 7046,
+    "numero": "3000",
+    "titulo": "PRESUPUESTO DEL SECTOR PUBLICO AÑO 1980",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-12-22",
+    "modifica": [],
     "modificadaPor": []
   },
   "7047": {
