@@ -226,7 +226,10 @@ async def run(data_root: Path, limit: int | None) -> None:
         logger.error("Run build_catalog.py first.")
         sys.exit(1)
 
-    catalog: list[dict] = json.loads(catalog_path.read_text(encoding="utf-8"))
+    raw = json.loads(catalog_path.read_text(encoding="utf-8"))
+    # catalog.json may be either a plain list (legacy) or
+    # {entries, last_code, complete} (resumable build_catalog.py format).
+    catalog: list[dict] = raw if isinstance(raw, list) else raw.get("entries", [])
     logger.info(f"Loaded catalog: {len(catalog)} normas")
 
     if limit:
