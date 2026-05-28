@@ -1,7 +1,8 @@
 # Decreto Ley N° 2963
 LEY ORGANICA DE LA SINDICATURA NACIONAL DE QUIEBRAS
 **Publicada:** 1980-01-10
-FIJA EL TEXTO DE LA LEY ORGANICA DE LA SINDICATURA NACIONAL DE QUIEBRAS Santiago, 20 de Noviembre de 1979.- Hoy se decretó lo que sigue: Núm. 2.963.- Visto: Lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley: LEY ORGANICA DE LA SINDICATURA NACIONAL DE QUIEBRAS
+**Versión:** 1982-10-28
+D.L. 2963, MINISTERIO DE JUSTICIA (Publicado en el Diario Oficial N° 20.560, de 10 de Enero de 1980) FIJA EL TEXTO DE LA LEY ORGANICA DE LA SINDICATURA NACIONAL DE QUIEBRAS Santiago, 20 de Noviembre de 1979.- Hoy se decretó lo que sigue: Núm. 2.963.- Visto: Lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley: LEY ORGANICA DE LA SINDICATURA NACIONAL DE QUIEBRAS
 ## TITULO I Definición y funciones
 Artículo 1°- Establécese la Sindicatura Nacional de Quiebras como un Servicio de la Administración del Estado, dependiente del Ministerio de Justicia, y como un organismo auxiliar de los Tribunales de Justicia, al cual corresponderán las funciones que la ley número 4.558 u otras leyes encomiendan a la Sindicatura General de Quiebras, en cuanto no sean inconciliables con las disposiciones de la presente ley. Especialmente le corresponderá administrar y realizar los bienes de las personas que caigan en falencia, liquidar y pagar sus deudas.
 Artículo 2°- La Sindicatura Nacional de Quiebras deberá considerarse incluida en la enumeración del artículo 1° del decreto ley No. 249, de 1974, y su personal se regirá por el decreto con fuerza de ley N° 338, de 1960, y estará afecto al régimen previsional de la Caja Nacional de Empleados Públicos y Periodistas.
