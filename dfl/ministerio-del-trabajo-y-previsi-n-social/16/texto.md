@@ -1,7 +1,7 @@
 # Decreto con Fuerza de Ley N° 16
 FIJA TEXTO REFUNDIDO SISTEMATIZADO Y COORDINADO DE LAS DISPOSICIONES LEGALES RELATIVAS A LA DIRECCION GENERAL DEL CREDITO PRENDARIO
 **Publicada:** 1986-04-25
-**Versión:** 1988-05-05
+**Versión:** 2001-04-16
 FIJA TEXTO REFUNDIDO SISTEMATIZADO Y COORDINADO DE LAS DISPOSICIONES LEGALES RELATIVAS A LA DIRECCION GENERAL DEL CREDITO PRENDARIO D.F.L. N° 16.- Santiago, 2 de Enero de 1986.- Vistos: Que las disposiciones legales relativas a la Dirección General del Crédito Prendario se contienen en diversos cuerpos legales, actualmente en vigencia y, en general, en las Leyes N°s. 4.285, 5.705, 15.229, 18.118 y en los Decretos con Fuerzas de Ley N° 263, de 1953, del Ministerio del Trabajo y Previsión Social, Subsecretaría del Trabajo; Que es menester refundir, sistematizar y coordinar en un solo texto legal las disposiciones citadas precedentemente, con el fin de facilitar su aplicación y conocimiento; Que la Ley N° 18.407 de fecha 24 de Abril de 1985 facultó al Presidente de la República para fijar textos refundidos de cuerpos legales con atribución especial para coordinar y sistematizar dichas normas e introducirles cambios de redacción y forma, sin alterar el fondo de tales disposiciones, y Teniendo presente, lo dispuesto en el artículo N° 32 N° 8 de la Constitución Política de la República de Chile, vengo en dictar el siguiente: DECRETO CON FUERZA DE LEY
 Artículo único: Fíjase el siguiente texto refundido, sistematizado y cordinado de las disposiciones legales relativas a la Dirección General del Crédito Prendario:
 ## TITULO I Objetivo, Organización y Funciones de la Dirección General del Crédito Prendario
