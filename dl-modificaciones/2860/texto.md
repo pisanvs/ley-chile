@@ -1,0 +1,9 @@
+# Decreto Ley N° 2860
+MODIFICA EL ARTICULO 140 DEL DECRETO CON FUERZA DE
+LEY (G) N° 1, DE 1968
+**Publicada:** 1979-10-03
+MODIFICA EL ARTICULO 140 DEL DECRETO CON FUERZA DE LEY (G) N° 1, DE 1968 Santiago, 13 de Septiembre de 1979.- Con esta fecha se ha dictado lo siguiente: Núm. 2.860.- Visto: lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo 1°- Sustitúyese el inciso segundo del artículo 140 del decreto con fuerza de ley (G) N° 1, de 1968, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo N° 14, de Guerra, de 4 de Enero de 1977 por el siguiente: "Este personal gozará del sueldo del grado de que se halle en posesión, incluyendo todos los beneficios de sueldos superiores a que tenga derecho.".
+Artículo 2°- El mayor gasto que demande la aplicación de este decreto ley, se imputará a los presupuestos en moneda extranjera de las respectivas Subsecretarías del Ministerio de Defensa Nacional.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría y en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros e Investigaciones.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- César Benavides Escobar, Teniente General, Ministro de Defensa Nacional.- Pedro Larrondo Jara, Capitán de Navío (AB), Ministro de Hacienda subrogante. Lo que se transcribe para su conocimiento.- Julio Bravo Valdés, Coronel, Subsecretario de Guerra.
