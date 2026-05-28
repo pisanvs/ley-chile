@@ -1,5 +1,6 @@
 # Decreto con Fuerza de Ley N° 226
 **Publicada:** 1931-05-29
+**Versión:** 1968-01-31
 Núm. 226.- Santiago, 15 de Mayo de 1931.- Visto lo dispuesto en la ley número 4,945, de 6 de Febrero último, Decreto: Apruébase el siguiente Código Sanitario:
 LIBRO I DE LA ORGANIZACION Y DIRECCION DE LOS SERVICIOS SANITARIOS
 ## ~~TITULO I Del Servicio de Salubridad~~
