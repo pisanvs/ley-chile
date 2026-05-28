@@ -8205,6 +8205,11 @@
     "fechaPublicacion": "1975-07-12"
   },
   {
+    "idNorma": 9319,
+    "tipo": "dto",
+    "fechaPublicacion": "1980-03-31"
+  },
+  {
     "idNorma": 9359,
     "tipo": "dto",
     "fechaPublicacion": "1981-02-27"
@@ -52130,6 +52135,11 @@
     "fechaPublicacion": "1997-01-03"
   },
   {
+    "idNorma": 50350,
+    "tipo": "dfl",
+    "fechaPublicacion": "1997-01-10"
+  },
+  {
     "idNorma": 60316,
     "tipo": "ley",
     "fechaPublicacion": "1997-01-25"
@@ -87195,6 +87205,11 @@
     "fechaPublicacion": "1953-12-29"
   },
   {
+    "idNorma": 249177,
+    "tipo": "dfl",
+    "fechaPublicacion": "2006-04-24"
+  },
+  {
     "idNorma": 249179,
     "tipo": "ley",
     "fechaPublicacion": "2006-04-27"
@@ -91388,6 +91403,11 @@
     "idNorma": 266037,
     "tipo": "dto",
     "fechaPublicacion": "2007-10-30"
+  },
+  {
+    "idNorma": 266050,
+    "tipo": "dto",
+    "fechaPublicacion": "1956-05-15"
   },
   {
     "idNorma": 266290,
