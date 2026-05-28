@@ -16766,19 +16766,46 @@
   "7008": {
     "idNorma": 7008,
     "numero": "2838",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREA EL PREMIO NACIONAL DE EDUCACION",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-09-20",
     "modifica": [
       "681"
     ],
     "modificadaPor": []
   },
+  "7009": {
+    "idNorma": 7009,
+    "numero": "2848",
+    "titulo": "MODIFICA EL INCISO PRIMERO DEL ARTICULO 198 DEL\nCODIGO DE MINERIA, RELATIVO AL REGIMEN DE\nINEMBARGABILIDAD DE LAS PERTENENCIAS MINERAS",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-09-11",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7010": {
+    "idNorma": 7010,
+    "numero": "2849",
+    "titulo": "INTERPRETA LOS ARTICULOS 8° Y 11 DEL DECRETO LEY N°\n1.056, DE 1975",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-09-11",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7011": {
+    "idNorma": 7011,
+    "numero": "2850",
+    "titulo": "MODIFICA LA LEY NUMERO 4.808, DE 1930, SOBRE",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-09-14",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7012": {
     "idNorma": 7012,
     "numero": "2852",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "AGREGA INCISO SEGUNDO AL N° 6 DE LA LETRA E DEL\nARTICULO 12 DEL DECRETO LEY N° 825 DE 1974",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-09-14",
     "modifica": [
       "825"
@@ -16788,19 +16815,28 @@
   "7013": {
     "idNorma": 7013,
     "numero": "2853",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "EXCLUYE AL PUERTO DE VALDIVIA DE LA ENUMERACION DEL\nARTICULO 4° DEL D.F.L. N° 290 DE 1960",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-09-14",
     "modifica": [
       "290"
     ],
     "modificadaPor": []
   },
+  "7014": {
+    "idNorma": 7014,
+    "numero": "2854",
+    "titulo": "MODIFICA DECRETO LEY N° 839, DE 1975, EN LA FORMA\nQUE INDICA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-09-11",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7015": {
     "idNorma": 7015,
     "numero": "2859",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA LEY ORGANICA DE GENDARMERIA DE CHILE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-09-15",
     "modifica": [
       "189"
@@ -16810,8 +16846,8 @@
   "7016": {
     "idNorma": 7016,
     "numero": "2860",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL ARTICULO 140 DEL DECRETO CON FUERZA DE\nLEY (G) N° 1, DE 1968",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-10-03",
     "modifica": [
       "1"
@@ -16821,8 +16857,8 @@
   "7017": {
     "idNorma": 7017,
     "numero": "2865",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA ARTICULO 12 DEL DECRETO LEY N° 825, DE\n1974, SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, Y DEROGA\nARTICULO 11 DEL DECRETO LEY N° 1.017, DE 1975",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-09-21",
     "modifica": [
       "825",
@@ -16830,11 +16866,20 @@
     ],
     "modificadaPor": []
   },
+  "7018": {
+    "idNorma": 7018,
+    "numero": "2866",
+    "titulo": "AGREGA LETRA H) AL ARTICULO 6° DE LA LEY N° 12.927,\nSOBRE SEGURIDAD DEL ESTADO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-09-21",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7019": {
     "idNorma": 7019,
     "numero": "2867",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DELIMITA LAS REGIONES Y PROVINCIAS DEL PAIS QUE\nINDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-10-26",
     "modifica": [
       "575"
@@ -16844,8 +16889,8 @@
   "7020": {
     "idNorma": 7020,
     "numero": "2868",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DIVIDE LAS PROVINCIAS QUE SEÑALA DEL PAIS EN LAS COMUNAS QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-10-26",
     "modifica": [
       "575"
@@ -16855,30 +16900,57 @@
   "7021": {
     "idNorma": 7021,
     "numero": "2869",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DISPONE SUPLEMENTOS AL PRESUPUESTO DE LA NACION, VIGENTE PARA EL AñO 1979, Y ESTABLECE NORMAS DE CARACTER PRESUPUESTARIO Y FINANCIERO.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-09-29",
     "modifica": [
       "2397"
     ],
     "modificadaPor": []
   },
+  "7022": {
+    "idNorma": 7022,
+    "numero": "2874",
+    "titulo": "MODIFICA EL ARTICULO TRANSITORIO DEL DECRETO LEY N°\n478, de 1974",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-11-03",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7023": {
+    "idNorma": 7023,
+    "numero": "2876",
+    "titulo": "APRUEBA NUEVO ARANCEL PARA LOS RECEPTORES JUDICIALES E INTRODUCE MODIFICACIONES AL CODIGO ORGANICO DE TRIBUNALES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-11-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7024": {
     "idNorma": 7024,
     "numero": "2877",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE EL N° 1 DEL ARTICULO 2° TRANSITORIO DEL\nDECRETO LEY N° 2.327, DE 1978, RELATIVO A LA CARRERA\nDOCENTE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-10-24",
     "modifica": [
       "2327"
     ],
     "modificadaPor": []
   },
+  "7025": {
+    "idNorma": 7025,
+    "numero": "2878",
+    "titulo": "DICTA NORMA SOBRE PLANES HABITACIONALES DE LOS TRABAJADORES DE LA EMPRESA PORTUARIA DE CHILE.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-11-06",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7026": {
     "idNorma": 7026,
     "numero": "2879",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NORMAS DE PERSONAL Y DE CARACTER FINANCIERO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-10-17",
     "modifica": [
       "2411",
@@ -16888,6 +16960,15 @@
       "1",
       "2760"
     ],
+    "modificadaPor": []
+  },
+  "7027": {
+    "idNorma": 7027,
+    "numero": "2882",
+    "titulo": "MODIFICA DECRETO LEY N° 1.878, DE 1977",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-11-09",
+    "modifica": [],
     "modificadaPor": []
   },
   "7030": {
