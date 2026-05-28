@@ -1,0 +1,13 @@
+# Decreto Ley N° 2569
+DISPONE QUE LOS FONDOS PROVENIENTES DE ENAJENACIONES
+DE INMUEBLES FISCALES QUE SEÑALA INGRESEN A CUENTAS QUE
+INDICA, PARA SER INVERTIDOS EN LOS FINES QUE MENCIONA
+**Publicada:** 1979-04-05
+DISPONE QUE LOS FONDOS PROVENIENTES DE ENAJENACIONES DE INMUEBLES FISCALES QUE SEÑALA INGRESEN A CUENTAS QUE INDICA, PARA SER INVERTIDOS EN LOS FINES QUE MENCIONA Núm. 2.569.- Santiago, 26 de Marzo de 1979.- Visto: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974; y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo 1°- El Ministerio de Tierras y Colonización, en uso de las atribuciones que le confiere al efecto el decreto ley número 1.939, de 1977, procederá a enajenar a título oneroso y en las condiciones que en el respectivo decreto supremo se señalen, los bienes raíces de propiedad fiscal, destinados al uso de las instituciones de la Defensa Nacional y que éstas pongan a su disposición.
+Artículo 2°- Los fondos provenientes de las enajenaciones que se efectúen en virtud de la presente ley, no ingresarán a rentas generales de la Nación, y con ellos se abrirán y mantendrán cuentas especiales en la Tesorería General de la República, a nombre de las respectivas instituciones de la Defensa Nacional.
+Artículo 3°- Los fondos depositados en las cuentas señaladas en el artículo precedente podrán ser invertidos en el estudio, planeamiento, proyección, construcción, demolición, ampliación, reparación, conservación, reposición o adquisición de bienes destinados al uso de la respectiva institución.
+Artículo 4°- Los fondos señalados en el artículo precedente, no invertidos al 31 de Diciembre de cada año, quedarán a disposición de la respectiva institución para ser empleados en los mismos fines.
+Artículo 5°- Todas las obras que se ejecuten y actos que se celebren de acuerdo con las disposiciones de la presente ley, estarán exentos de todo impuesto o derecho, ya sean fiscales o municipales.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General de Carabineros, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Lautaro Recabarren Hidalgo, General Inspector de Carabineros, Ministro de Tierras y Colonización.- Raúl Benavides Escobar, Teniente General, Ministro de Defensa. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Luis Beytía Barrios, Subsecretario de Tierras y Colonización.
