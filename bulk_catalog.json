@@ -85,6 +85,11 @@
     "fechaPublicacion": "1979-05-05"
   },
   {
+    "idNorma": 3391,
+    "tipo": "dfl",
+    "fechaPublicacion": "1980-10-15"
+  },
+  {
     "idNorma": 3396,
     "tipo": "dfl",
     "fechaPublicacion": "1981-03-17"
@@ -8678,6 +8683,11 @@
     "idNorma": 19422,
     "tipo": "dto",
     "fechaPublicacion": "1931-07-31"
+  },
+  {
+    "idNorma": 19429,
+    "tipo": "dto",
+    "fechaPublicacion": "1951-07-23"
   },
   {
     "idNorma": 19440,
@@ -61863,6 +61873,11 @@
     "idNorma": 165125,
     "tipo": "ley",
     "fechaPublicacion": "1972-01-31"
+  },
+  {
+    "idNorma": 165129,
+    "tipo": "dto",
+    "fechaPublicacion": "1979-03-29"
   },
   {
     "idNorma": 165328,
