@@ -2,6 +2,7 @@
 CREA LA DIRECCION DE ASUNTOS INDIGENAS, DEPENDIENTE
 DEL MINISTERIO DE TIERRAS Y COLONIZACION
 **Publicada:** 1953-05-16
+**Versión:** 1979-03-28
 CREA LA DIRECCION DE ASUNTOS INDIGENAS, DEPENDIENTE DEL MINISTERIO DE TIERRAS Y COLONIZACION Núm. 56.- Santiago, 25 de Abril de 1953.- Vista la facultad que me confiere el artículo 1.o de la ley N.o 11,151, y la conveniencia de disponer de un organismo que tenga a su cargo exclusivo la aplicación de las disposiciones de la Ley de Indígenas, cuyo texto se contiene en el decreto N.o 4,111, de 12 de Junio de 1931, he acordado dictar el siguiente Decreto con fuerza de ley:
 Artículo 1.o Créase la Dirección de Asuntos Indígenas, dependiente del Ministerio de Tierras y Colonización, la que tendrá a su cargo el cumplimiento de la Ley sobre División de Comunidades, Liquidación, de Créditos y Radicación de Indígenas, cuyo texto definitivo fué fijado por decreto N.o 4,111, de 12 de Junio de 1931. Las atribuciones que dichas disposiciones legales entregan al Ministerio de Tierras y Colonización relacionadas con los derechos patrimoniales de los indígenas, serán de aplicación exclusiva de la Dirección de Asuntos Indígenas.
 Artículo 2.o Las disposiciones de carácter general necesarias para el cumplimiento de la legislación vigente sobre esta materia, deberán ser dictadas por decreto firmado por el Presidente de la República, a través del Ministerio respectivo y previo informe de la Dirección de Asuntos Indígenas.
