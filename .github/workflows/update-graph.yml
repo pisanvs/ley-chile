@@ -85,21 +85,25 @@ jobs:
       - name: Fetch normas graph
         run: python scripts/fetch_normas.py --data-root .
 
-      # ── Step 3: persist normas progress ─────────────────────────────────────
+      # ── Step 3: persist all in-progress state ───────────────────────────────
       # Runs even when the job is cancelled (e.g. 6-hour wall-clock timeout) so
-      # partially-fetched norma JSON files aren't lost between runs.
-      # The norma files themselves are already inside the ./cache/ worktree;
-      # only graph.json and the progress sidecar need an explicit copy.
-      - name: Save normas progress to pipeline-cache
+      # partially-fetched state survives across runs.  Critically saves
+      # catalog.json because build_catalog.py now checkpoints partial state
+      # (`complete: false`) mid-fetch, and that partial catalog is what lets
+      # the next run resume from the last keyset cursor.
+      # The norma JSON files themselves already live inside the ./cache/
+      # worktree, so `git add -A` picks them up automatically.
+      - name: Save in-progress state to pipeline-cache
         if: always()
         run: |
+          cp catalog.json             ./cache/catalog.json             2>/dev/null || true
           cp graph.json               ./cache/graph.json               2>/dev/null || true
           cp fetch_normas_progress.json ./cache/fetch_normas_progress.json 2>/dev/null || true
           git -C cache add -A
           if git -C cache diff --cached --quiet; then
-            echo "No new normas progress to save"
+            echo "No in-progress state to save"
           else
-            git -C cache commit -m "cache: normas progress $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git -C cache commit -m "cache: in-progress state $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             for i in 1 2 3; do git push origin pipeline-cache && break || sleep $((i * 3)); done
           fi
 
