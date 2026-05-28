@@ -292,8 +292,8 @@
   "3363": {
     "idNorma": 3363,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA DEPENDENCIA, ATRIBUCIONES Y LAS PLANTAS DEL PERSONAL DE LA DIRECCION DE ASUNTOS INDIGENAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1961-09-07",
     "modifica": [
       "56"
@@ -838,8 +838,8 @@
   "3494": {
     "idNorma": 3494,
     "numero": "2",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CONCEDE EL BENEFICIO DE QUINQUENIO PENITENCIARIO A TODOS LOS FUNCIONARIOS DEL SERVICIO DE PRISIONES, CON LA EXCEPCION QUE MENCIONA, EN CONFORMIDAD CON LO PREVISTO EN EL ARTICULO 117° DE LA LEY 17.399",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1971-12-24",
     "modifica": [],
     "modificadaPor": [
@@ -874,8 +874,8 @@
   "3582": {
     "idNorma": 3582,
     "numero": "3",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETO CON FUERZA DE LEY N° 153, DE 1981",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1990-01-10",
     "modifica": [
       "153"
@@ -1041,8 +1041,8 @@
   "3774": {
     "idNorma": 3774,
     "numero": "8",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE IMPUESTO UNICO A LAS BEBIDAS ANALCOHOLICAS Y AGUAS MINERALES Y MINERALIZADAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1971-10-14",
     "modifica": [],
     "modificadaPor": [
@@ -1563,7 +1563,7 @@
     "idNorma": 4551,
     "numero": "92",
     "titulo": "",
-    "clasificacion": "",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-05-08",
     "modifica": [
       "48"
@@ -2177,8 +2177,8 @@
   "5139": {
     "idNorma": 5139,
     "numero": "234",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NUEVA PLANTA DE SECRETARIA Y ADMINISTRACION\nGENERAL DEL MINISTERIO DE TIERRAS Y COLONIZACION",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [
       "56"
@@ -2623,8 +2623,8 @@
   "5377": {
     "idNorma": 5377,
     "numero": "306",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REESTRUCTURA LA DIRECCION GENERAL DEL CREDITO PRENDARIO Y DE MARTILLO Y FIJA LA PLANTA DE SU PERSONAL.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-05",
     "modifica": [],
     "modificadaPor": []
@@ -16230,11 +16230,38 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "6973": {
+    "idNorma": 6973,
+    "numero": "2654",
+    "titulo": "MODIFICA LA LEY N° 17.379",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-06-06",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6974": {
+    "idNorma": 6974,
+    "numero": "2656",
+    "titulo": "ESTABLECE DISPOSICIONES TRIBUTARIAS EN RELACION CON LOS CERTIFICADOS DE AHORRO REAJUSTABLES, SERIES D Y F",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-05-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6975": {
+    "idNorma": 6975,
+    "numero": "2657",
+    "titulo": "MODIFICA LA LETRA G) DEL ARTICULO 53 DE LA LEY N°\n17.382",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-05-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6976": {
     "idNorma": 6976,
     "numero": "2659",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DISPONE SUPLEMENTOS AL PRESUPUESTO VIGENTE DEL\nSECTOR PUBLICO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-05-22",
     "modifica": [
       "2397"
@@ -16244,8 +16271,8 @@
   "6977": {
     "idNorma": 6977,
     "numero": "2660",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DISPONE SUPLEMENTOS AL PRESUPUESTO DEL SECTOR PUBLICO DEL AñO 1979.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-05-25",
     "modifica": [
       "2397"
@@ -16255,8 +16282,8 @@
   "6978": {
     "idNorma": 6978,
     "numero": "2690",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE ARTICULO 7° DEL DECRETO LEY N°. 2.546, DE\n1979",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-06-01",
     "modifica": [
       "2546"
@@ -16266,8 +16293,8 @@
   "6979": {
     "idNorma": 6979,
     "numero": "2691",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYESE INCISO TERCERO DEL ARTICULO 12 DEL\nDECRETO LEY N° 701, DE 1974",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-06-16",
     "modifica": [
       "701"
@@ -16277,19 +16304,55 @@
   "6980": {
     "idNorma": 6980,
     "numero": "2692",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ACLARA Y MODIFICA EL DECRETO LEY N° 2.411, DE 1978,\nQUE OTORGO ASIGNACION ESPECIAL A LOS FUNCIONARIOS QUE\nSEÑALA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-06-08",
     "modifica": [
       "2411"
     ],
     "modificadaPor": []
   },
+  "6981": {
+    "idNorma": 6981,
+    "numero": "2694",
+    "titulo": "FACULTA AL SERVICIO DE IMPUESTOS INTERNOS PARA\nALTERAR EL SUJETO DEL IMPUESTO A LAS VENTAS Y SERVICIOS\nEN LAS ZONAS FRANCAS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-06-13",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6982": {
+    "idNorma": 6982,
+    "numero": "2695",
+    "titulo": "FIJA NORMAS PARA REGULARIZAR LA POSESION DE LA PEQUEÑA PROPIEDAD RAIZ Y PARA LA CONSTITUCION DEL DOMINIO SOBRE ELLA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-07-21",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6983": {
+    "idNorma": 6983,
+    "numero": "2696",
+    "titulo": "MODIFICA ARTICULO TRANSITORIO DEL DECRETO LEY N°\n2.553, DE 1979",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-06-29",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6985": {
+    "idNorma": 6985,
+    "numero": "2699",
+    "titulo": "ESTABLECE NORMAS SOBRE CALIDAD DE PRODUCTOS DE EXPORTACION",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-07-05",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6986": {
     "idNorma": 6986,
     "numero": "2703",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA Y ESTABLECE NORMAS RELACIONADAS CON LA\nCARRERA FUNCIONARIA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-06-29",
     "modifica": [
       "90"
