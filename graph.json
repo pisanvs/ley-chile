@@ -1056,8 +1056,8 @@
   "3866": {
     "idNorma": 3866,
     "numero": "11",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LA LEY ORGANICA DEL SERVICIO DE IMPUESTOS\nINTERNOS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1991-11-30",
     "modifica": [
       "7"
@@ -1227,8 +1227,8 @@
   "4040": {
     "idNorma": 4040,
     "numero": "22",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL TEXTO DE LA LEY ORGÁNICA DEL SERVICIO DE GOBIERNO INTERIOR DE LA REPÚBLICA; DEROGA LA LEY DE RÉGIMEN INTERIOR, DE 22 DE DICIEMBRE DE 1885",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1959-11-19",
     "modifica": [],
     "modificadaPor": [
@@ -1290,8 +1290,8 @@
   "4173": {
     "idNorma": 4173,
     "numero": "33",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTATUTO ORGANICO Y PLANTA DEL PERSONAL DE LA;DIRECCION GENERAL DEL CREDITO PRENDARIO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1983-06-07",
     "modifica": [],
     "modificadaPor": []
@@ -1405,8 +1405,8 @@
   "4335": {
     "idNorma": 4335,
     "numero": "56",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREA LA DIRECCION DE ASUNTOS INDIGENAS, DEPENDIENTE\nDEL MINISTERIO DE TIERRAS Y COLONIZACION",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-05-16",
     "modifica": [],
     "modificadaPor": [
@@ -1731,8 +1731,8 @@
   "4838": {
     "idNorma": 4838,
     "numero": "153",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTATUTO DE LA UNIVERSIDAD DE CHILE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1982-01-19",
     "modifica": [
       "1"
@@ -2065,7 +2065,7 @@
     "idNorma": 5113,
     "numero": "226",
     "titulo": "",
-    "clasificacion": "",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-05-29",
     "modifica": [],
     "modificadaPor": [
@@ -15900,22 +15900,40 @@
     "modifica": [],
     "modificadaPor": []
   },
+  "6959": {
+    "idNorma": 6959,
+    "numero": "2570",
+    "titulo": "REBAJA EL MONTO DE LA PATENTE MINERA QUE AMPARA\nPERTENENCIAS CONSTITUIDAS EN SALARES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-03-30",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6960": {
     "idNorma": 6960,
     "numero": "2571",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETO LEY N° 2.327, DE 1978",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-04-12",
     "modifica": [
       "2327"
     ],
     "modificadaPor": []
   },
+  "6961": {
+    "idNorma": 6961,
+    "numero": "2572",
+    "titulo": "PONE TERMINO A LA EXISTENCIA LEGAL DEL SERVICIO DE\nEQUIPOS AGRICOLAS MECANIZADOS Y DICTA NORMAS SOBRE SU\nLIQUIDACION",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-05-15",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6962": {
     "idNorma": 6962,
     "numero": "2573",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "LEY ORGANICA DEL CONSEJO DE DEFENSA DEL ESTADO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-05-26",
     "modifica": [
       "1"
@@ -15925,22 +15943,40 @@
       198675
     ]
   },
+  "6963": {
+    "idNorma": 6963,
+    "numero": "2575",
+    "titulo": "HACE EXTENSIVAS LAS PRESTACIONES DE LA LEY N° 16.781\nA LOS BENEFICIARIOS DEL SERVICIA NACIONAL DE SALUD",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-05-15",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6964": {
     "idNorma": 6964,
     "numero": "2577",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "PRORROGA PLAZO QUE SEÑALA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-04-20",
     "modifica": [
       "2079"
     ],
     "modificadaPor": []
   },
+  "6965": {
+    "idNorma": 6965,
+    "numero": "2603",
+    "titulo": "MODIFICA Y COMPLEMENTA ACTA CONSTITUCIONAL N° 3; Y ESTABLECE NORMAS SOBRE DERECHOS DE APROVECHAMIENTO DE AGUAS Y FACULTADES PARA EL ESTABLECIMIENTO DEL REGIMEN GENERAL DE LAS AGUAS",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-04-23",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6966": {
     "idNorma": 6966,
     "numero": "2620",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL DECRETO LEY N° 2.544, DE 1979, QUE FIJO\nNORMAS PARA REUNIONES SINDICALES Y GREMIALES",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-05-02",
     "modifica": [
       "2544"
@@ -15950,8 +15986,8 @@
   "6967": {
     "idNorma": 6967,
     "numero": "2621",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA D.F.L. (G) N° 1, DE 1968, Y OTRAS DISPOSICIONES LEGALES",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-04-28",
     "modifica": [
       "PENAL"
@@ -15961,23 +15997,50 @@
   "6968": {
     "idNorma": 6968,
     "numero": "2622",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LEY SOBRE CUENTAS CORRIENTES BANCARIAS Y\nCHEQUES",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-05-11",
     "modifica": [
       "707"
     ],
     "modificadaPor": []
   },
+  "6969": {
+    "idNorma": 6969,
+    "numero": "2624",
+    "titulo": "MODIFICA DECRETO LEY N° 1.560, DE 1976",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-05-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6970": {
     "idNorma": 6970,
     "numero": "2628",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE IMPUESTO A LOS VEHICULOS MOTORIZADOS QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-05-10",
     "modifica": [
       "825"
     ],
+    "modificadaPor": []
+  },
+  "6971": {
+    "idNorma": 6971,
+    "numero": "2629",
+    "titulo": "MODIFICA EL DECRETO LEY 1.239, DE 1975",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-05-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6972": {
+    "idNorma": 6972,
+    "numero": "2652",
+    "titulo": "AUTORIZA A LA FUERZA AEREA PARA EFECTUAR DONACION QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-05-23",
+    "modifica": [],
     "modificadaPor": []
   },
   "6976": {
