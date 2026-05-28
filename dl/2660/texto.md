@@ -1,0 +1,7 @@
+# Decreto Ley N° 2660
+DISPONE SUPLEMENTOS AL PRESUPUESTO DEL SECTOR PUBLICO DEL AñO 1979.
+**Publicada:** 1979-05-25
+DISPONE SUPLEMENTOS AL PRESUPUESTO VIGENTE DEL SECTOR PUBLICO Núm. 2.660.- Santiago, 26 de Mayo de 1979.- Vistos: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; N° 527, de 1974, y N° 991, de 1976, La Junta de Gobierno de la República de Chile ha resuelto dictar el siguiente Decreto ley:
+Artículo único.- Supleméntase el Presupuesto vigente, en moneda extranjera convertida a dólares, en las cantidades que se indican: PART. CAP. PROG. SUBT. ITEM Miles de US$ ------------------------------------------------------- En PARTIDA 50 - 70 TESORO PUBLICO Ingresos Generales de la Nación 50 01 00 08 81 001 3.500 Gastos - Aporte Fiscal Libre 61 01 00 80 3.000 61 04 00 80 500
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio de Castro Spikula, Ministro de Hacienda. Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud.- Pedro Larrondo Jara, Capitán de Navío (AB), Subsecretario de Hacienda.
