@@ -1,10 +1,19 @@
 """
 Build a complete catalog of all Chilean legal norms from BCN SPARQL.
 
-Writes {DATA_ROOT}/catalog.json as a JSON array:
-  [{"idNorma": 235507, "tipo": "ley", "fechaPublicacion": "2005-02-16"}, ...]
+Writes {DATA_ROOT}/catalog.json in this format:
+  {
+    "entries":   [{"idNorma": 235507, "tipo": "ley", "fechaPublicacion": "..."}, ...],
+    "last_code": 358221,         # keyset cursor for resume
+    "complete":  true            # true once the whole catalog has been fetched
+  }
 
-All norma types are included (ley, dl, dfl, dto, etc.). No filtering.
+A run that is killed mid-fetch (e.g. GitHub Actions 6-hour wall) checkpoints its
+partial state every CHECKPOINT_EVERY_PAGES SPARQL pages, so the next run resumes
+from the saved cursor instead of restarting from scratch.
+
+Backward compatibility: a plain JSON array is still accepted on read and treated
+as a complete catalog.
 
 Usage:
     python scripts/build_catalog.py [--force] [--data-root PATH]
@@ -38,6 +47,7 @@ CATALOG_FILE = "catalog.json"
 CATALOG_MAX_AGE_DAYS = 7
 SPARQL_PAGE_SIZE = 500
 LOG_EVERY = 2000
+CHECKPOINT_EVERY_PAGES = 10  # ~5000 entries per checkpoint
 
 # ---------------------------------------------------------------------------
 # SPARQL query — keyset pagination by leychileCode, no OFFSET
@@ -104,17 +114,29 @@ def _parse_tipo(tipo_uri: str) -> str:
     return tipo_slug(fragment) or "otras"
 
 
-def fetch_catalog() -> list[dict]:
+def fetch_catalog(data_root: Path, resume_state: dict | None = None) -> list[dict]:
     """
     Paginate through BCN SPARQL to collect ALL norma types.
     Uses keyset pagination (FILTER code > last_code) to avoid Virtuoso timeouts.
 
+    Checkpoints partial state to catalog.json every CHECKPOINT_EVERY_PAGES pages
+    so a killed run resumes exactly where it left off.
+
     Returns list of {idNorma, tipo, fechaPublicacion} sorted by idNorma.
-    Deduplicates by leychileCode.
     """
     seen: dict[int, dict] = {}
     last_code = 0
+    pages_since_checkpoint = 0
     last_log_count = 0
+
+    if resume_state and not resume_state.get("complete", False):
+        for entry in resume_state.get("entries", []):
+            seen[int(entry["idNorma"])] = entry
+        last_code = int(resume_state.get("last_code", 0))
+        log.info(
+            "Resuming from %d existing entries, cursor last_code=%d",
+            len(seen), last_code,
+        )
 
     while True:
         query = _CATALOG_QUERY.format(last_code=last_code, limit=SPARQL_PAGE_SIZE)
@@ -157,6 +179,12 @@ def fetch_catalog() -> list[dict]:
             log.info("  … %d entries fetched (last_code=%d)", count, last_code)
             last_log_count = count
 
+        pages_since_checkpoint += 1
+        if pages_since_checkpoint >= CHECKPOINT_EVERY_PAGES:
+            entries = sorted(seen.values(), key=lambda e: e["idNorma"])
+            save_catalog_state(data_root, entries, last_code=last_code, complete=False)
+            pages_since_checkpoint = 0
+
         if len(bindings) < SPARQL_PAGE_SIZE:
             break  # last page
 
@@ -183,23 +211,49 @@ def _catalog_age_days(data_root: Path) -> float:
     return (datetime.now() - mtime).total_seconds() / 86400
 
 
-def load_catalog(data_root: Path) -> list[dict]:
+def load_catalog_state(data_root: Path) -> dict:
+    """Return {entries, last_code, complete}. Old plain-list format is treated as complete."""
     p = _catalog_path(data_root)
     if not p.exists():
-        return []
+        return {"entries": [], "last_code": 0, "complete": False}
     try:
-        return json.loads(p.read_text(encoding="utf-8"))
+        raw = json.loads(p.read_text(encoding="utf-8"))
     except Exception as exc:
         log.warning("Failed to load %s: %s", p, exc)
-        return []
+        return {"entries": [], "last_code": 0, "complete": False}
+    if isinstance(raw, list):
+        return {"entries": raw, "last_code": 0, "complete": True}
+    return {
+        "entries": raw.get("entries", []),
+        "last_code": int(raw.get("last_code", 0)),
+        "complete": bool(raw.get("complete", False)),
+    }
+
+
+def load_catalog(data_root: Path) -> list[dict]:
+    """Convenience: just the entries (matches the prior public API)."""
+    return load_catalog_state(data_root).get("entries", [])
+
+
+def save_catalog_state(
+    data_root: Path,
+    entries: list[dict],
+    last_code: int,
+    complete: bool,
+) -> None:
+    p = _catalog_path(data_root)
+    tmp = p.with_suffix(".tmp")
+    payload = {"entries": entries, "last_code": last_code, "complete": complete}
+    tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    tmp.replace(p)
+    status = "complete" if complete else f"partial (cursor={last_code})"
+    log.info("Wrote %d entries to %s [%s]", len(entries), p, status)
 
 
 def save_catalog(catalog: list[dict], data_root: Path) -> None:
-    p = _catalog_path(data_root)
-    tmp = p.with_suffix(".tmp")
-    tmp.write_text(json.dumps(catalog, ensure_ascii=False, indent=2), encoding="utf-8")
-    tmp.replace(p)
-    log.info("Wrote %d entries to %s", len(catalog), p)
+    """Backward-compatible wrapper: saves as complete."""
+    last_code = max((int(e["idNorma"]) for e in catalog), default=0)
+    save_catalog_state(data_root, catalog, last_code=last_code, complete=True)
 
 
 # ---------------------------------------------------------------------------
@@ -213,7 +267,7 @@ def main() -> None:
     parser.add_argument(
         "--force",
         action="store_true",
-        help="Re-fetch even if catalog.json is recent (< 7 days old).",
+        help="Re-fetch even if catalog.json is recent (< 7 days old) and complete.",
     )
     parser.add_argument(
         "--data-root",
@@ -225,28 +279,35 @@ def main() -> None:
     data_root = Path(args.data_root).resolve() if args.data_root else detect_data_root()
     log.info("DATA_ROOT: %s", data_root)
 
+    state = load_catalog_state(data_root)
     age = _catalog_age_days(data_root)
 
-    if not args.force and age < CATALOG_MAX_AGE_DAYS:
-        existing = load_catalog(data_root)
+    if not args.force and state["complete"] and age < CATALOG_MAX_AGE_DAYS:
         log.info(
-            "catalog.json is %.1f days old (%d entries) — skipping fetch. "
+            "catalog.json is %.1f days old (%d entries, complete) — skipping fetch. "
             "Use --force to re-fetch.",
-            age, len(existing),
+            age, len(state["entries"]),
         )
         return
 
     if age == float("inf"):
         log.info("catalog.json not found — fetching from BCN SPARQL ...")
+    elif not state["complete"]:
+        log.info(
+            "catalog.json is partial (%d entries, cursor=%d) — resuming ...",
+            len(state["entries"]), state["last_code"],
+        )
     else:
         log.info("catalog.json is %.1f days old — refreshing ...", age)
 
-    catalog = fetch_catalog()
+    resume_state = None if args.force else state
+    catalog = fetch_catalog(data_root, resume_state=resume_state)
     if not catalog:
         log.error("SPARQL returned no results — aborting")
         sys.exit(1)
 
-    save_catalog(catalog, data_root)
+    last_code = max((int(e["idNorma"]) for e in catalog), default=0)
+    save_catalog_state(data_root, catalog, last_code=last_code, complete=True)
 
 
 if __name__ == "__main__":
