@@ -1,6 +1,7 @@
 # Decreto Ley N° 2977
 ESTABLECE NORMAS COMPLEMENTARIAS DEL DECRETO LEY Nº 2.758, DE 1979, EN LO RELATIVO A LA ORGANIZACION Y FUNCIONAMIENTO DEL CUERPO ARBITRAL
 **Publicada:** 1979-12-10
+**Versión:** 1987-07-06
 ESTABLECE NORMAS COMPLEMENTARIAS DEL DECRETO LEY Nº 2.758, DE 1979, EN LO RELATIVO A LA ORGANIZACION Y FUNCIONAMIENTO DEL CUERPO ARBITRAL Núm. 2.977.- Santiago, 5 de Diciembre de 1979.- Visto: Lo dispuesto en los decretos leyes Nºs. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, y Considerando: 1.- Que el decreto ley Nº 2.758, de 1979, ha establecido un conjunto de normas relativas al arbitraje obligatorio, como fórmula de solución de la negociación colectiva, en los casos previstos en dicho cuerpo legal; 2.- Que es necesario complementar dichas normas mediante otras de igual rango legal que perfeccionen la organización y funcionamiento del Cuerpo Arbitral, así como el procedimiento a que deban someterse los tribunales arbitrales para el ejercicio de sus funciones, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
 ## ~~TITULO I De los árbitros, del Cuerpo Arbitral y de su Consejo Directivo~~
 ~~Artículo 1.- El Cuerpo Arbitral a que se refiere el decreto ley Nº 2.758, de 1979, estará integrado por las personas que figuren en la Nómina Nacional de Arbitros. Los miembros de la Nómina mencionada serán llamados a integrar los tribunales arbitrales a que se refiere el cuerpo legal aludido.~~
