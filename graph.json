@@ -2437,7 +2437,7 @@
     "idNorma": 5215,
     "numero": "255",
     "titulo": "",
-    "clasificacion": "",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-05-26",
     "modifica": [
       "92"
@@ -16441,22 +16441,49 @@
     ],
     "modificadaPor": []
   },
+  "6987": {
+    "idNorma": 6987,
+    "numero": "2750",
+    "titulo": "MODIFICA EL TITULO I DE LA LEY N° 17.729, FIJADO POR\nEL ARTICULO 1° DEL DECRETO LEY N° 2.568, DE 1979",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-07-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6988": {
     "idNorma": 6988,
     "numero": "2752",
-    "titulo": "",
-    "clasificacion": "",
-    "fechaPublicacion": "1979-07-31",
+    "titulo": "MODIFICA DECRETO LEY N° 825, DE 1974, A FIN DE\nINTEGRAR IMPUESTOS A LAS BEBIDAS ALCOHOLICAS AL SISTEMA\nIVA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-06-30",
     "modifica": [
       "825"
     ],
     "modificadaPor": []
   },
+  "6989": {
+    "idNorma": 6989,
+    "numero": "2753",
+    "titulo": "MODIFICA LA LEY 17.105, SOBRE ALCOHOLES, BEBIDAS ALCOHOLICAS Y VINAGRES",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-06-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "6990": {
+    "idNorma": 6990,
+    "numero": "2755",
+    "titulo": "FIJA NORMAS CONSTITUCIONALES EN MATERIA LABORAL",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-07-05",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6991": {
     "idNorma": 6991,
     "numero": "2756",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NORMAS SOBRE ORGANIZACION SINDICAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-07-03",
     "modifica": [
       "2376",
@@ -16468,19 +16495,28 @@
   "6992": {
     "idNorma": 6992,
     "numero": "2757",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NORMAS SOBRE ASOCIACIONES GREMIALES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-07-04",
     "modifica": [],
     "modificadaPor": [
       198675
     ]
   },
+  "6993": {
+    "idNorma": 6993,
+    "numero": "2758",
+    "titulo": "ESTABLECE NORMAS SOBRE NEGOCIACION COLECTIVA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-07-06",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6994": {
     "idNorma": 6994,
     "numero": "2759",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DISPOSICIONES LEGALES QUE INDICA Y ESTABLECE NORMAS LABORALES",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-07-06",
     "modifica": [
       "2079",
@@ -16488,11 +16524,20 @@
     ],
     "modificadaPor": []
   },
+  "6995": {
+    "idNorma": 6995,
+    "numero": "2760",
+    "titulo": "MODIFICA DECRETO LEY N° 211, DE 1973, QUE FIJA NORMAS PARA LA DEFENSA DE LA LIBRE COMPETENCIA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-07-05",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "6997": {
     "idNorma": 6997,
     "numero": "2762",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA D.F.L. (G) N° 1, DE 1968, Y OTRAS\nDISPOSICIONES LEGALES",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-07-31",
     "modifica": [
       "1",
@@ -16500,33 +16545,87 @@
     ],
     "modificadaPor": []
   },
+  "6999": {
+    "idNorma": 6999,
+    "numero": "2763",
+    "titulo": "REORGANIZA EL MINISTERIO DE SALUD Y CREA LOS SERVICIOS DE SALUD, EL FONDO NACIONAL DE SALUD, EL INSTITUTO DE SALUD PUBLICA DE CHILE Y LA CENTRAL DE ABASTECIMIENTO DEL SISTEMA NACIONAL DE SERVICIOS DE SALUD",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-08-03",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7000": {
     "idNorma": 7000,
     "numero": "2764",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA ARTICULO 79° DEL D.F.L. N° 1 (G), DE 1968",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-07-26",
     "modifica": [
       "1"
     ],
     "modificadaPor": []
   },
+  "7001": {
+    "idNorma": 7001,
+    "numero": "2824",
+    "titulo": "REEMPLAZA PROCEDIMIENTO DE PAGO DE CREDITOS QUE EL\nBANCO CENTRAL DE CHILE CONCEDE AL SISTEMA NACIONAL DE\nAHORROS Y PRESTAMOS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-08-06",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7002": {
+    "idNorma": 7002,
+    "numero": "2826",
+    "titulo": "FIJA NUEVA PLANTA DEL PERSONAL DE LA SECRETARIA GENERAL DE GOBIERNO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-08-30",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7003": {
+    "idNorma": 7003,
+    "numero": "2829",
+    "titulo": "MODIFICA EL ARTICULO 140 DE LA LEY N° 17.105",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-08-13",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7004": {
+    "idNorma": 7004,
+    "numero": "2831",
+    "titulo": "SUSTITUYE EL ARTICULO 4° TRANSITORIO DEL DECRETO LEY\nN° 2.552, DE 1979",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-07-27",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7005": {
     "idNorma": 7005,
     "numero": "2832",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREA NUEVOS JUZGADOS DE POLICIA LOCAL EN LAS\nMUNICIPALIDADES DE LAS CONDES Y ÑUÑOA Y LOS CARGOS DE\nJUEZ Y SECRETARIO ABOGADO DE LOS MISMOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-09-05",
     "modifica": [
       "682"
     ],
     "modificadaPor": []
   },
+  "7006": {
+    "idNorma": 7006,
+    "numero": "2833",
+    "titulo": "SIMPLIFICA TRAMITES DE TRANSFERENCIA DE DOMINIO Y CONSTITUCION DE GRAVAMENES Y PROHIBICIONES EN SITIOS UBICADOS EN POBLACIONES DE PROPIEDAD DE LOS SERVICIOS DE VIVIENDA Y URBANIZACION",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-09-05",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7007": {
     "idNorma": 7007,
     "numero": "2837",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REEMPLAZA DENOMINACION DE LA DIRECCION DEL LITORAL Y\nDE MARINA MERCANTE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-08-30",
     "modifica": [
       "2222",
