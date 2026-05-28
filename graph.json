@@ -1327,8 +1327,8 @@
   "4078": {
     "idNorma": 4078,
     "numero": "25",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "BONIFICACION Y COMERCIO DE FERTILIZANTES, DESINFECTANTES Y PESTICIDAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1963-04-04",
     "modifica": [],
     "modificadaPor": [
@@ -1366,8 +1366,8 @@
   "4168": {
     "idNorma": 4168,
     "numero": "33",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA ESTATUTO DEL PERSONAL DEL MINISTERIO DE RELACIONES EXTERIORES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-03-09",
     "modifica": [],
     "modificadaPor": [
@@ -1426,8 +1426,8 @@
   "4238": {
     "idNorma": 4238,
     "numero": "42",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA ESTATUTO GENERAL DE LAS CAJAS DE\nCOMPENSACION DE ASIGNACION FAMILIAR",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-07-24",
     "modifica": [],
     "modificadaPor": [
@@ -17407,8 +17407,8 @@
   "7047": {
     "idNorma": 7047,
     "numero": "3001",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "NORMAS COMPLEMENTARIAS DE ADMINISTRACION FINANCIERA Y DE INCIDENCIA PRESUPUESTARIA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-12-27",
     "modifica": [
       "338",
@@ -17422,8 +17422,8 @@
   "7048": {
     "idNorma": 7048,
     "numero": "3002",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL DFL. (G) N° 1, DE 1968, ESTATUTO DEL PERSONAL DE LAS FUERZAS ARMADAS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-12-26",
     "modifica": [
       "1"
@@ -17433,8 +17433,8 @@
   "7049": {
     "idNorma": 7049,
     "numero": "3053",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DICTA NORMAS SOBRE LA EX-CORPORACION DE REFORMA\nAGRARIA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-12-21",
     "modifica": [
       "2405"
@@ -17444,8 +17444,8 @@
   "7050": {
     "idNorma": 7050,
     "numero": "3057",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DISPOSICIONES SOBRE SEGUROS DEL DECRETO CON\nFUERZA DE LEY N° 251, DE 1931, Y NORMAS RELATIVAS A\nPRODUCTORES DE SEGUROS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-01-10",
     "modifica": [
       "824",
@@ -17456,13 +17456,22 @@
   "7051": {
     "idNorma": 7051,
     "numero": "3058",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA SISTEMA DE REMUNERACIONES DEL PODER JUDICIAL",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-12-29",
     "modifica": [
       "2100",
       "236"
     ],
+    "modificadaPor": []
+  },
+  "7052": {
+    "idNorma": 7052,
+    "numero": "3059",
+    "titulo": "LEY DE FOMENTO A LA MARINA MERCANTE",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1979-12-22",
+    "modifica": [],
     "modificadaPor": []
   },
   "7054": {
