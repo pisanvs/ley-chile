@@ -1,7 +1,7 @@
 # Decreto con Fuerza de Ley N° 4
 FIJA NORMAS SOBRE FINANCIAMIENTO DE LAS UNIVERSIDADES
 **Publicada:** 1981-01-20
-**Versión:** 1982-01-04
+**Versión:** 1986-01-03
 FIJA NORMAS SOBRE FINANCIAMIENTO DE LAS UNIVERSIDADES D.F.L. N° 4.- Santiago, 14 de Enero de 1981.- Visto: Lo dispuesto en el decreto ley N° 3.641, de 1980, Decreto con fuerza de ley:
 ## TITULO I Del aporte fiscal
 Artículo primero: El estado contribuirá al financiamiento de las universidades existentes al 31 de diciembre de 1980 y de las instituciones que de ellas se derivaren, mediante aportes fiscales cuyo monto anual y distribución se determinarán conforme a las normas del presente título.
