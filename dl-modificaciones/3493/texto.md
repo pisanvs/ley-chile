@@ -1,0 +1,7 @@
+# Decreto Ley N° 3493
+MODIFICA PRESUPUESTO VIGENTE
+**Publicada:** 1980-10-18
+MODIFICA PRESUPUESTO VIGENTE Núm. 3.493.- Santiago, 15 de Octubre de 1980.- Vistos: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; N° 527, de 1974, y N° 991, de 1976, La Junta de Gobierno de la República de Chile ha resuelto dictar el siguiente Decreto ley:
+Artículo único.- Introdúcense las siguientes modificaciones al presupuesto vigente: En Partida 50 - 70 Tesoro Público _______________________________________________________ Moneda Nacional Part. Cap. Prog. Subt. Item Miles de $ _______________________________________________________ Supleméntanse, en las cantidades que se indican: INGRESOS Ingresos Generales de la Nación 50 01 00 03 91 33.000 GASTOS Aporte Fiscal Libre 51 01 01 80 33.000 _______________________________________________________
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio de Castro Spikula, Ministro de Hacienda. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Seguel Morel, Teniente Coronel, Subsecretario de Hacienda.
