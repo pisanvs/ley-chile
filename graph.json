@@ -587,8 +587,8 @@
   "3389": {
     "idNorma": 3389,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REGLAMENTA APLICACION INCISO SEGUNDO DEL ARTICULO 38° DEL DL. N° 3.063, DE 1979",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-06-13",
     "modifica": [],
     "modificadaPor": [
@@ -985,8 +985,8 @@
   "3568": {
     "idNorma": 3568,
     "numero": "3",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DISPONE NEGOCIACION COLECTIVA EN LOS TERMINOS ESTABLECIDOS EN EL D.L. QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-08-06",
     "modifica": [],
     "modificadaPor": [
@@ -3505,8 +3505,8 @@
   "5596": {
     "idNorma": 5596,
     "numero": "789",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NORMAS SOBRE ADQUISICION Y DISPOSICION DE LOS BIENES MUNICIPALES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1978-12-12",
     "modifica": [],
     "modificadaPor": [
@@ -19820,11 +19820,38 @@
     ],
     "modificadaPor": []
   },
+  "7151": {
+    "idNorma": 7151,
+    "numero": "3504",
+    "titulo": "AGREGA DOS NUEVOS INCISOS AL ARTICULO 245 DEL CODIGO\nDE PROCEDIMIENTO PENAL, EN RELACION CON LOS HONORARIOS\nDE LOS PERITOS MEDICO-LEGALES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-11-18",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7152": {
+    "idNorma": 7152,
+    "numero": "3508",
+    "titulo": "MODIFICA LOS ARTICULOS 123 Y 130 DEL CODIGO DE\nMINERIA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-11-20",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7153": {
+    "idNorma": 7153,
+    "numero": "3511",
+    "titulo": "FACULTA PARA REESTRUCTURAR DIRECCION DE INDUSTRIA Y COMERCIO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-11-15",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7154": {
     "idNorma": 7154,
     "numero": "3515",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL ARTICULO 169 DEL D.F.L. (G) N° 1, DE 1968",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-12-04",
     "modifica": [
       "1"
@@ -19834,19 +19861,28 @@
   "7155": {
     "idNorma": 7155,
     "numero": "3516",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NORMAS SOBRE DIVISIÓN DE PREDIOS RÚSTICOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-12-01",
     "modifica": [
       "752"
     ],
     "modificadaPor": []
   },
+  "7156": {
+    "idNorma": 7156,
+    "numero": "3517",
+    "titulo": "FACULTA AL MINISTERIO DE TRANSPORTES Y\nTELECOMUNICACIONES PARA FIJAR CARACTERISTICAS DE\nVEHICULOS DE ALQUILER Y DEROGA DISPOSICIONES QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-12-03",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7157": {
     "idNorma": 7157,
     "numero": "3520",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREANSE JUZGADOS DE POLICIA LOCAL EN LAS\nMUNICIPALIDADES DE VALPARAISO, ANTOFAGASTA, PUNTA ARENAS\nY TEMUCO; Y LOS CARGOS DE JUECES Y SECRETARIO ABOGADO DE\nLOS MISMOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-12-17",
     "modifica": [
       "682",
@@ -19857,8 +19893,8 @@
   "7158": {
     "idNorma": 7158,
     "numero": "3522",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "AUTORIZA DONACIONES AL SERVICIO NACIONAL DE MENORES\nY LO FACULTA PARA HACER DETERMINADOS APORTES CON O SIN\nGARANTIA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-12-03",
     "modifica": [
       "824",
@@ -19866,11 +19902,29 @@
     ],
     "modificadaPor": []
   },
+  "7160": {
+    "idNorma": 7160,
+    "numero": "3525",
+    "titulo": "CREA EL SERVICIO NACIONAL DE GEOLOGIA Y MINERIA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-12-20",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7161": {
+    "idNorma": 7161,
+    "numero": "3528",
+    "titulo": "PRESUPUESTO DEL SECTOR PUBLICO AÑO 1981",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-12-06",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7162": {
     "idNorma": 7162,
     "numero": "3529",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "NORMAS COMPLEMENTARIAS DE ADMINISTRACION FINANCIERA Y DE INCIDENCIA PRESUPUESTARIA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-12-06",
     "modifica": [
       "262",
@@ -19887,19 +19941,28 @@
   "7163": {
     "idNorma": 7163,
     "numero": "3532",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NUEVO PROCEDIMIENTO PARA EL COBRO EJECUTIVO DE LAS OBLIGACIONES HIPOTECARIAS DE LA ASOCIACION NACIONAL DE AHORRO Y PRESTAMO Y MODIFICA EL ARTICULO 3° DEL DECRETO LEY N° 3.480, DE 1980, EN LA FORMA QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-12-05",
     "modifica": [
       "3480"
     ],
     "modificadaPor": []
   },
+  "7164": {
+    "idNorma": 7164,
+    "numero": "3534",
+    "titulo": "MODIFICA LA LEY NUMERO 17.169 Y EL DECRETO LEY N°\n1.224, DE 1975",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-12-11",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7165": {
     "idNorma": 7165,
     "numero": "3535",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "OTORGA RECURSOS A MUNICIPALIDADES QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-12-11",
     "modifica": [
       "3063"
@@ -19909,8 +19972,8 @@
   "7166": {
     "idNorma": 7166,
     "numero": "3536",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA Y DEROGA LAS DISPOSICIONES LEGALES QUE\nINDICA CON EL FIN DE SIMPLIFICAR LA GESTION\nADMINISTRATIVA DE LA SUPERINTENDENCIA DE SEGURIDAD\nSOCIAL",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-01-07",
     "modifica": [
       "49",
@@ -19921,8 +19984,8 @@
   "7167": {
     "idNorma": 7167,
     "numero": "3537",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DIVERSAS DISPOSICIONES LEGALES DE CARACTER\nPREVISIONAL.",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-01-22",
     "modifica": [
       "338",
@@ -19933,8 +19996,8 @@
   "7168": {
     "idNorma": 7168,
     "numero": "3538",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREA LA COMISIÓN PARA EL MERCADO FINANCIERO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-12-23",
     "modifica": [
       "251"
