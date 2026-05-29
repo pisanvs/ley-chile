@@ -334,7 +334,27 @@ async def run(data_root: Path, limit: int | None) -> None:
             _save_progress(progress_path, progress)
             _save_graph(graph_path, graph)
 
-    tasks = [asyncio.create_task(process(id_norma, entry)) for id_norma, entry in work]
+    # Feed work through a bounded queue consumed by a fixed pool of workers.
+    # Materializing one task per norma (358k+) parks that many coroutines on the
+    # limiter at once — a multi-GB memory storm that stalls the event loop before
+    # any progress is made.  A worker pool keeps only POOL_SIZE coroutines live.
+    POOL_SIZE = max(limiter._max if hasattr(limiter, "_max") else 10, 10)
+    queue: asyncio.Queue = asyncio.Queue()
+    for item in work:
+        queue.put_nowait(item)
+
+    async def worker() -> None:
+        while True:
+            try:
+                id_norma, entry = queue.get_nowait()
+            except asyncio.QueueEmpty:
+                return
+            try:
+                await process(id_norma, entry)
+            finally:
+                queue.task_done()
+
+    tasks = [asyncio.create_task(worker()) for _ in range(POOL_SIZE)]
 
     try:
         await asyncio.gather(*tasks)
