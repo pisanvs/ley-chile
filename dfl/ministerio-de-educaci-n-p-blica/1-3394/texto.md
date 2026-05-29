@@ -1,7 +1,7 @@
 # Decreto con Fuerza de Ley N° 1
 FIJA NORMAS SOBRE UNIVERSIDADES
 **Publicada:** 1981-01-03
-**Versión:** 1982-01-04
+**Versión:** 1986-01-02
 FIJA NORMAS SOBRE UNIVERSIDADES (Año 1980) D.F.L. N° 1.- Santiago, 30 de Diciembre de 1980.- Visto, lo dispuesto en el decreto ley N° 3.541, de 1980, Decreto con fuerza de ley:
 I.- LAS UNIVERSIDADES Y SUS FINES
 Artículo 1°- La Universidad es una institución de educación superior, de investigación, raciocinio y cultura que, en el cumplimiento de sus funciones, debe atender adecuadamente los intereses y necesidades del país, al más alto nivel de excelencia.
@@ -39,6 +39,6 @@ ARTICULOS TRANSITORIOS
 Artículo 1°- Aplícanse a las universidades actualmente existentes todas las normas de esta ley con excepción de lo dispuesto en los artículos 15 a 19, 20 inciso primero, 21 y 23 a 27.
 Artículo 2°- Las Universidades actualmente existentes mantendrán su carácter de tales y podrán continuar otorgando los títulos profesionales y grados académicos que actualmente confieren. Dichas Universidades y las que de ellas se deriven tendrán el carácter de Universidad Examinadora, para todos los efectos legales, respecto de los títulos y grados académicos que otorguen.
 Artículo 3°- En tanto no se dicte la ley a que se refiere el inciso segundo del artículo 13 sólo las universidades podrán otorgar los títulos profesionales que por cualquier norma legal en actual vigencia estén reservados a ellas.
-Artículo 4°- Durante el plazo de cinco años contado desde la fecha de publicación de la presente ley para que las nuevas universidades puedan gozar de personalidad jurídica y funcionar como tales, será necesario, previo al depósito del instrumento constitutivo de la entidad, contar con la autorización del Ministerio del Interior el que sólo podrá otorgarla cuando a su juicio no se atente o no pudiere atentarse con su establecimiento en contra del orden público o de la seguridad nacional.
+Artículo 4°- Durante el plazo de siete años contado desde la fecha de publicación de la presente ley para que las nuevas universidades puedan gozar de personalidad jurídica y funcionar como tales, será necesario, previo al depósito del instrumento constitutivo de la entidad, contar con la autorización del Ministerio del Interior el que sólo podrá otorgarla cuando a su juicio no se atente o no pudiere atentarse con su establecimiento en contra del orden público o de la seguridad nacional.
 ---
 Tómese razón, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Sergio Fernández Fernández, Ministro del Interior.- Sergio de Castro Spikula, Ministro de Hacienda.- Alfredo Prieto Bafalluy, Ministro de Educación Pública.- Mónica Madariaga Gutiérrez, Ministro de Justicia. Lo que transcribo para su conocimiento.- Le saluda atentamente.- Silvia Peña Morales, Subsecretaria de Educación Pública.
