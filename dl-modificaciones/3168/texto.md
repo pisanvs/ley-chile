@@ -1,0 +1,10 @@
+# Decreto Ley N° 3168
+MODIFICA ARTICULO 2° DEL DECRETO LEY N° 81, DE 1973,
+Y MODIFICA EL ARTICULO 1° DEL DECRETO LEY N° 1.877, DE
+1977
+**Publicada:** 1980-02-06
+MODIFICA ARTICULO 2° DEL DECRETO LEY N° 81, DE 1973, Y MODIFICA EL ARTICULO 1° DEL DECRETO LEY N° 1.877, DE 1977 Santiago, 29 de Enero de 1980.- Hoy se acordó lo que sigue: Núm. 3.168.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527 y 788, 1974 y 991, de 1976, La Junta de Gobierno de la República de Chile en uso de la Potestad Constituyente ha acordado dictar el siguiente Decreto ley:
+Artículo 1°.- Agréganse al artículo 2° del decreto ley N° 81, los siguientes nuevos incisos: Asimismo, en iguales casos, podrá disponerse la permanencia obligada en una determinada localidad del territorio nacional. La medida de permanencia obligada, a que se refiere el inciso precedente, sólo podrá disponerse por un plazo no superior a tres meses mediante decreto supremo firmado por el Ministro del Interior, bajo la fórmula "Por orden del Presidente de la República". El afectado por la medida prevista en los dos incisos anteriores podrá pedir su reconsideración en cualquier tiempo, al Ministro del Interior, sin que ello obste a su cumplimiento.
+Artículo 2°.- Agrégase al artículo 1° del decreto ley N° 1.877, de 1977, el siguiente inciso: Esta facultad será ejercida por medio de decreto supremo que firmará el Ministro del Interior, con la fórmula: "Por orden del Presidente de la República".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- RAUL LOPEZ SILVA, Vicealmirante, Comandante en Jefe de la Armada subrogante.- Mónica Madariaga Gutiérrez, Ministro de Justicia.- Enrique Montero Marx, Ministro del Interior subrogante. Lo que transcribo a Ud., para su conocimiento.- Saluda a Ud.- Juan Ignacio García Rodríguez, Subsecretario del Interior subrogante.
