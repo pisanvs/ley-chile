@@ -30,7 +30,7 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
-from utils import AdaptiveLimiter, classify, detect_data_root  # noqa: E402
+from utils import AdaptiveLimiter, classify, detect_data_root, load_graph, save_graph  # noqa: E402
 
 logging.basicConfig(
     level=logging.INFO,
@@ -189,18 +189,13 @@ def _save_progress(path: Path, progress: dict) -> None:
 # ---------------------------------------------------------------------------
 
 def _load_graph(path: Path) -> dict:
-    if path.exists():
-        try:
-            return json.loads(path.read_text(encoding="utf-8"))
-        except (json.JSONDecodeError, OSError):
-            pass
-    return {}
+    # Delegates to utils.load_graph (sharded graph_shards/ with monolithic fallback).
+    return load_graph(path)
 
 
 def _save_graph(path: Path, graph: dict) -> None:
-    tmp = path.with_suffix(".tmp")
-    tmp.write_text(json.dumps(graph, ensure_ascii=False, indent=2), encoding="utf-8")
-    tmp.replace(path)
+    # Delegates to utils.save_graph (writes graph_shards/NN.json under the 100MB limit).
+    save_graph(path, graph)
 
 
 # ---------------------------------------------------------------------------
