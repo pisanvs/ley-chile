@@ -34,7 +34,7 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
-from utils import AdaptiveLimiter, detect_data_root, law_dir, setup_logging, Progress  # noqa: E402
+from utils import AdaptiveLimiter, detect_data_root, law_dir, setup_logging, Progress, graph_exists, load_graph  # noqa: E402
 
 logger = logging.getLogger(__name__)
 
@@ -389,12 +389,12 @@ async def run(
         cache_dir = data_root / "cache"
 
     graph_path = data_root / "graph.json"
-    if not graph_path.exists():
-        logger.error(f"graph.json not found at {graph_path}")
+    if not graph_exists(graph_path):
+        logger.error(f"graph not found at {graph_path} (no graph_shards/ or graph.json)")
         logger.error("Run fetch_normas.py first.")
         sys.exit(1)
 
-    graph: dict = json.loads(graph_path.read_text(encoding="utf-8"))
+    graph: dict = load_graph(graph_path)
     logger.info(f"Loaded graph: {len(graph)} nodes")
 
     # Filter: only nodes with 1+ vigencias (single-version laws also need diffs cache)
