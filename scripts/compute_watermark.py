@@ -24,6 +24,12 @@ import subprocess
 import sys
 from pathlib import Path
 
+_SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS_DIR))
+
+from utils import graph_exists, load_graph  # noqa: E402
+
 
 def get_historial_watermark(historial_dir: Path) -> str:
     """Return YYYY-MM-DD of the most recent commit on historial, or '' if empty."""
@@ -144,11 +150,11 @@ def main() -> None:
     args = parser.parse_args()
 
     graph_path = Path(args.graph_path)
-    if not graph_path.exists():
-        print(f"ERROR: graph.json not found at {graph_path}", file=sys.stderr)
+    if not graph_exists(graph_path):
+        print(f"ERROR: graph not found at {graph_path} (no graph_shards/ or graph.json)", file=sys.stderr)
         sys.exit(1)
 
-    graph = json.loads(graph_path.read_text(encoding="utf-8"))
+    graph = load_graph(graph_path)
     cache_dir = Path(args.cache_dir)
 
     if args.W_override is not None:
