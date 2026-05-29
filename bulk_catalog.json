@@ -70,6 +70,11 @@
     "fechaPublicacion": "1970-06-02"
   },
   {
+    "idNorma": 3376,
+    "tipo": "dfl",
+    "fechaPublicacion": "1970-07-29"
+  },
+  {
     "idNorma": 3380,
     "tipo": "dfl",
     "fechaPublicacion": "1971-06-08"
@@ -108,6 +113,11 @@
     "idNorma": 3413,
     "tipo": "dfl",
     "fechaPublicacion": "1983-03-26"
+  },
+  {
+    "idNorma": 3414,
+    "tipo": "dfl",
+    "fechaPublicacion": "1983-03-30"
   },
   {
     "idNorma": 3428,
@@ -425,6 +435,11 @@
     "fechaPublicacion": "1959-12-04"
   },
   {
+    "idNorma": 4295,
+    "tipo": "dfl",
+    "fechaPublicacion": "1982-01-04"
+  },
+  {
     "idNorma": 4312,
     "tipo": "dfl",
     "fechaPublicacion": "1979-04-27"
@@ -448,6 +463,11 @@
     "idNorma": 4413,
     "tipo": "dfl",
     "fechaPublicacion": "1960-02-01"
+  },
+  {
+    "idNorma": 4503,
+    "tipo": "dfl",
+    "fechaPublicacion": "1931-04-11"
   },
   {
     "idNorma": 4518,
@@ -776,6 +796,11 @@
   },
   {
     "idNorma": 5370,
+    "tipo": "dfl",
+    "fechaPublicacion": "1960-04-06"
+  },
+  {
+    "idNorma": 5373,
     "tipo": "dfl",
     "fechaPublicacion": "1960-04-06"
   },
@@ -8385,6 +8410,11 @@
     "fechaPublicacion": "1987-03-11"
   },
   {
+    "idNorma": 10200,
+    "tipo": "dto",
+    "fechaPublicacion": "1974-02-28"
+  },
+  {
     "idNorma": 10289,
     "tipo": "dto",
     "fechaPublicacion": "1964-04-22"
@@ -8408,6 +8438,11 @@
     "idNorma": 10389,
     "tipo": "dto",
     "fechaPublicacion": "1976-03-12"
+  },
+  {
+    "idNorma": 10532,
+    "tipo": "dto",
+    "fechaPublicacion": "1981-08-29"
   },
   {
     "idNorma": 10533,
@@ -8555,6 +8590,11 @@
     "fechaPublicacion": "1979-07-17"
   },
   {
+    "idNorma": 13705,
+    "tipo": "dto",
+    "fechaPublicacion": "1974-06-01"
+  },
+  {
     "idNorma": 13789,
     "tipo": "dto",
     "fechaPublicacion": "1976-02-26"
@@ -8578,6 +8618,11 @@
     "idNorma": 14470,
     "tipo": "dto",
     "fechaPublicacion": "1978-10-13"
+  },
+  {
+    "idNorma": 14787,
+    "tipo": "dto",
+    "fechaPublicacion": "1974-04-26"
   },
   {
     "idNorma": 14962,
@@ -8748,6 +8793,11 @@
     "idNorma": 18995,
     "tipo": "dto",
     "fechaPublicacion": "1964-07-10"
+  },
+  {
+    "idNorma": 19065,
+    "tipo": "dto",
+    "fechaPublicacion": "1929-01-09"
   },
   {
     "idNorma": 19286,
