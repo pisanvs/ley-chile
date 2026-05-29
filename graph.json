@@ -469,8 +469,8 @@
   "3376": {
     "idNorma": 3376,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTATUTO DE LOS DEPORTISTAS PROFESIONALES Y TRABAJADORES QUE DESEMPEÑAN ACTIVIDADES CONEXAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1970-07-29",
     "modifica": [],
     "modificadaPor": [
@@ -622,8 +622,8 @@
   "3414": {
     "idNorma": 3414,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA PLANTA DE PERSONAL DE LA SUBSECRETARIA DE\nTELECOMUNICACIONES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1983-03-30",
     "modifica": [
       "249"
@@ -1647,8 +1647,8 @@
   "4295": {
     "idNorma": 4295,
     "numero": "50",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "COMPLEMENTA D.F.L. N° 1, N°4 y N° 24",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1982-01-04",
     "modifica": [
       "4"
@@ -1744,7 +1744,7 @@
     "idNorma": 4503,
     "numero": "84",
     "titulo": "",
-    "clasificacion": "",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-04-11",
     "modifica": [],
     "modificadaPor": [
@@ -2948,8 +2948,8 @@
   "5373": {
     "idNorma": 5373,
     "numero": "305",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA EL TEXTO ORGANICO DE LA LINEA AEREA\nNACIONAL-CHILE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-06",
     "modifica": [
       "247"
@@ -18745,19 +18745,37 @@
   "7102": {
     "idNorma": 7102,
     "numero": "3357",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETO LEY N° 2.327, DE 1978, SOBRE\nCARRERA DOCENTE, EN MATERIA DE DESTINACIONES Y PLANTAS,\nY OTORGA FACULTADES QUE INDICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-05-24",
     "modifica": [
       "2327"
     ],
     "modificadaPor": []
   },
+  "7103": {
+    "idNorma": 7103,
+    "numero": "3361",
+    "titulo": "DISMINUYE LA TASA DE COTIZACION AL FONDO UNICO DE\nPRESTACIONES FAMILIARES, A CONTAR DE LA FECHA QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-05-15",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7105": {
+    "idNorma": 7105,
+    "numero": "3424",
+    "titulo": "DEROGA EL TITULO III DE LA LEY N° 16.624, DE LAS SOCIEDADES MINERAS MIXTAS",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-06-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7106": {
     "idNorma": 7106,
     "numero": "3425",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA CODIGO DE JUSTICIA MILITAR Y CODIGO DE\nPROCEDIMIENTO PENAL, EN LA FORMA QUE INDICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-06-14",
     "modifica": [
       "1"
@@ -18767,8 +18785,8 @@
   "7107": {
     "idNorma": 7107,
     "numero": "3426",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA PRESUPUESTO 1980 DE LA CAJA DE PREVISION DE\nEMPLEADOS PARTICULARES",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-06-13",
     "modifica": [
       "3000"
@@ -18778,8 +18796,8 @@
   "7108": {
     "idNorma": 7108,
     "numero": "3429",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA ARTICULO UNICO DEL DECRETO LEY N° 3.356, de\n1980",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-06-26",
     "modifica": [
       "3356"
@@ -18789,8 +18807,8 @@
   "7109": {
     "idNorma": 7109,
     "numero": "3430",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "RENUEVA PLAZO PARA EJERCER FACULTAD QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-07-16",
     "modifica": [
       "3063"
@@ -18800,30 +18818,66 @@
   "7110": {
     "idNorma": 7110,
     "numero": "3431",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "RENUEVA FACULTADES QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-07-02",
     "modifica": [
       "2763"
     ],
     "modificadaPor": []
   },
+  "7111": {
+    "idNorma": 7111,
+    "numero": "3433",
+    "titulo": "CREA CARGO DE JEFE DE DEPARTAMENTO EN LA PLANTA DE\nLA OFICINA DE PLANIFICACION NACIONAL",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-06-25",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7112": {
+    "idNorma": 7112,
+    "numero": "3434",
+    "titulo": "MODIFICA EL N° 1 DEL ARTICULO 361 DEL CODIGO DE PROCEDIMIENTO CIVIL",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-07-01",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7113": {
+    "idNorma": 7113,
+    "numero": "3435",
+    "titulo": "MODIFICA DECRETO LEY N° 3.058, DE 1979, SOBRE\nSISTEMA DE REMUNERACIONES DEL PODER JUDICIAL",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-06-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7114": {
     "idNorma": 7114,
     "numero": "3436",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "RENUEVA FACULTAD OTORGADA A S.E. EL PRESIDENTE DE LA\nREPUBLICA POR EL ARTICULO 1° TRANSITORIO DEL DECRETO LEY\nN° 2.859, DE 1979",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-07-02",
     "modifica": [
       "2859"
     ],
     "modificadaPor": []
   },
+  "7115": {
+    "idNorma": 7115,
+    "numero": "3437",
+    "titulo": "DISPONE NOMBRAMIENTO QUE INDICA, EN LA RESERVA DE LA FUERZA AEREA DE CHILE.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-06-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7116": {
     "idNorma": 7116,
     "numero": "3439",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DEROGA ARTICULO 2° DEL DECRETO CON FUERZA DE LEY N°\n236, DE 1968",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-07-02",
     "modifica": [
       "236"
@@ -18833,8 +18887,8 @@
   "7117": {
     "idNorma": 7117,
     "numero": "3443",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE MODIFICACIONES AL CODIGO TRIBUTARIO, A LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS Y AL CODIGO PENAL",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-07-02",
     "modifica": [
       "PENAL",
