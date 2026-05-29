@@ -3,7 +3,15 @@ name: Update Graph
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * 1"  # Monday 06:00 UTC
+    # BOOTSTRAP MODE — every 30 min.  Combined with the pipeline-graph
+    # concurrency group (cancel-in-progress: false), each tick queues a
+    # *pending* successor that starts the instant the active 6h run ends,
+    # so the graph fetch self-chains across the 6h wall-clock limit until
+    # graph_shards/ reaches the 95% publish threshold and lands on main.
+    # Post-bootstrap these become cheap no-ops (catalog skips, fetch_normas
+    # reports "Nothing to do").  REVERT to "0 6 * * 1" (weekly) once the
+    # graph is published, or it keeps firing forever.
+    - cron: "*/30 * * * *"
 
 concurrency:
   group: pipeline-graph
@@ -50,12 +58,19 @@ jobs:
           fi
 
       # ── Restore cross-run state from pipeline-cache ──────────────────────────
-      # catalog.json, graph.json, and progress.json live in the pipeline-cache
-      # branch so they survive across separate workflow runs.
+      # catalog.json, the graph (graph_shards/), and progress.json live in the
+      # pipeline-cache branch so they survive across separate workflow runs.
+      # graph_shards/ is the sharded graph (idNorma % 16) that keeps every file
+      # under GitHub's 100MB push limit; a legacy monolithic graph.json is still
+      # restored as a fallback so an old cache bootstraps cleanly on first run.
       - name: Restore state from pipeline-cache
         run: |
           cp ./cache/catalog.json            . 2>/dev/null && echo "Restored catalog.json"             || echo "No catalog.json in cache — will fetch fresh"
-          cp ./cache/graph.json              . 2>/dev/null && echo "Restored graph.json"               || echo "No graph.json in cache — will build fresh"
+          if [ -d ./cache/graph_shards ]; then
+            rm -rf ./graph_shards && cp -r ./cache/graph_shards . && echo "Restored graph_shards ($(ls ./graph_shards | wc -l) shards)"
+          else
+            cp ./cache/graph.json . 2>/dev/null && echo "Restored legacy graph.json" || echo "No graph in cache — will build fresh"
+          fi
           cp ./cache/fetch_normas_progress.json . 2>/dev/null && echo "Restored fetch_normas_progress.json" || echo "No progress file in cache"
 
       # ── Step 1: build / refresh catalog ─────────────────────────────────────
@@ -77,11 +92,11 @@ jobs:
             for i in 1 2 3; do git push origin pipeline-cache && break || sleep $((i * 3)); done
           fi
 
-      # ── Step 2: fetch norma metadata → graph.json ────────────────────────────
+      # ── Step 2: fetch norma metadata → graph_shards/ ──────────────────────────
       # fetch_normas.py reads catalog.json, skips any idNorma whose JSON file
       # already exists in ./cache/normas/ (pipeline-cache worktree), and fetches
-      # the rest.  graph.json and progress.json are saved at the workspace root
-      # every 50 completions so they're ready for the save step below.
+      # the rest.  graph_shards/ and progress.json are saved at the workspace
+      # root every 50 completions so they're ready for the save step below.
       - name: Fetch normas graph
         run: python scripts/fetch_normas.py --data-root .
 
@@ -97,7 +112,10 @@ jobs:
         if: always()
         run: |
           cp catalog.json             ./cache/catalog.json             2>/dev/null || true
-          cp graph.json               ./cache/graph.json               2>/dev/null || true
+          if [ -d ./graph_shards ]; then
+            rm -rf ./cache/graph_shards && cp -r ./graph_shards ./cache/
+            rm -f ./cache/graph.json   # drop stale pre-shard monolithic graph
+          fi
           cp fetch_normas_progress.json ./cache/fetch_normas_progress.json 2>/dev/null || true
           git -C cache add -A
           if git -C cache diff --cached --quiet; then
@@ -107,34 +125,38 @@ jobs:
             for i in 1 2 3; do git push origin pipeline-cache && break || sleep $((i * 3)); done
           fi
 
-      # ── Step 4: publish graph.json to main when complete ────────────────────
+      # ── Step 4: publish graph_shards/ to main when complete ─────────────────
       # Only commits to the code branch once every norma in the catalog has been
       # fetched (graph node count ≥ 95% of catalog entries and catalog is marked
-      # complete).  fetch-and-build.yml reads graph.json from the code branch, so
-      # this is the step that unblocks it.
-      - name: Commit graph.json and catalog.json to main
+      # complete).  fetch-and-build.yml reads the graph (shard-aware) from the
+      # code branch, so this is the step that unblocks it.
+      - name: Commit graph_shards and catalog.json to main
         run: |
           python - <<'PYEOF'
           import json, os, sys
-          if not os.path.exists("graph.json") or not os.path.exists("catalog.json"):
-              print("graph.json or catalog.json missing — skipping main commit")
+          sys.path.insert(0, "scripts")
+          from utils import load_graph, graph_exists
+          if not graph_exists("graph.json") or not os.path.exists("catalog.json"):
+              print("graph or catalog.json missing — skipping main commit")
               sys.exit(0)
-          g = json.loads(open("graph.json").read())
+          g = load_graph("graph.json")
           raw = json.loads(open("catalog.json").read())
           entries = raw if isinstance(raw, list) else raw.get("entries", [])
           catalog_complete = raw.get("complete", False) if isinstance(raw, dict) else True
           done, total = len(g), len(entries)
           print(f"graph: {done}/{total} nodes, catalog_complete={catalog_complete}")
-          if catalog_complete and done >= total * 0.95:
+          if catalog_complete and total and done >= total * 0.95:
               open(".graph_ready", "w").write("1")
               print("Graph is ready — will commit to main")
           else:
               print(f"Graph not yet ready ({done}/{total}) — skipping main commit")
           PYEOF
           if [ -f .graph_ready ]; then
-            git add graph.json catalog.json
-            git diff --cached --quiet && echo "No changes to graph.json/catalog.json" || (
-              git commit -m "chore: update graph.json and catalog.json"
+            git rm -q --cached --ignore-unmatch graph.json   # drop any legacy file
+            rm -f graph.json
+            git add graph_shards catalog.json
+            git diff --cached --quiet && echo "No changes to graph_shards/catalog.json" || (
+              git commit -m "chore: update graph_shards and catalog.json"
               git push origin "${{ github.ref_name }}"
             )
           fi
