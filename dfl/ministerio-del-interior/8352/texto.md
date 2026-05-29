@@ -1,5 +1,6 @@
 # Decreto con Fuerza de Ley N° 8352
 **Publicada:** 1927-12-28
+**Versión:** 1960-03-30
 Núm. 8,352.- Santiago, 23 de Diciembre de 1927.- En uso de las facultades que me confieren las leyes números 4,113, de 25 de Enero y 4,156, de 4 de Agosto, últimos, Decreto:
 ~~Artículo 1.o "Carabineros de Chile" es una institución de carácter militar a cuyo cargo estarán en todo el territorio de la República, el mantenimiento de la seguridad y el orden y la vigilancia del cumplimiento de las leyes y demás disposiciones de carácter general.~~
 ~~Art. 2.o Los carabineros dependerán directamente del Ministerio del Interior, pero, cuando el Presidente de la República lo estime conveniente, podrá ponerlos temporalmente a disposición del Ministerio de Guerra.~~
