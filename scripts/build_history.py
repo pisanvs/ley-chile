@@ -42,7 +42,7 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
-from utils import detect_data_root, law_dir, CommitContext, setup_logging  # noqa: E402
+from utils import detect_data_root, law_dir, CommitContext, setup_logging, graph_exists, load_graph  # noqa: E402
 from enrichers import Enricher  # noqa: E402
 
 log = logging.getLogger(__name__)
@@ -177,13 +177,13 @@ def _law_dir_from_node(node: dict, id_norma: int, data_root: Path) -> Path:
 
 def _load_graph(data_root: Path) -> dict:
     graph_path = data_root / "graph.json"
-    if not graph_path.exists():
-        log.warning("graph.json not found at %s", graph_path)
+    if not graph_exists(graph_path):
+        log.warning("graph not found at %s (no graph_shards/ or graph.json)", graph_path)
         return {}
     try:
-        return json.loads(graph_path.read_text(encoding="utf-8"))
+        return load_graph(graph_path)
     except Exception as exc:
-        log.error("Failed to load graph.json: %s", exc)
+        log.error("Failed to load graph: %s", exc)
         return {}
 
 
