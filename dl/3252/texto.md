@@ -2,6 +2,7 @@
 ESTABLECE SEGURO OBLIGATORIO DE RESPONSABILIDAD
 CIVIL EN ACCIDENTE DE TRANSITO
 **Publicada:** 1980-03-11
+**Versión:** 1986-01-04
 ESTABLECE SEGURO OBLIGATORIO DE RESPONSABILIDAD CIVIL EN ACCIDENTE DE TRANSITO Núm. 3.252.- Santiago, 14 de Febrero de 1980.- Visto: Lo dispuesto en los decretos leyes 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
 ~~Artículo primero.- Establécese, a partir del 1° de Enero 1981, con el carácter de obligatorio, un seguro que cubrirá la responsabilidad civil del dueño y de quien maneje un vehículo motorizado, sea por la muerte o lesiones causadas a las personas como por los daños causados a vehículos y a otros bienes, con ocasión de un accidente del tránsito. El seguro obligatorio a que se refiere el inciso anterior, no cubrirá la muerte o lesiones del asegurado y el conductor; como asimismo los daños causados a bienes de propiedad de éstos, al vehículo asegurado, ni a las cosas transportadas en él.~~
 ~~Artículo segundo.- Los vehículos que no portaren el certificado del seguro a que se refiere esta ley, no podrán circular en el territorio nacional.~~
