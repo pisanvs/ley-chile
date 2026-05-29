@@ -1,6 +1,7 @@
 # Decreto Ley N° 3170
 DICTA NORMAS SOBRE FINANCIAMIENTO UNIVERSITARIO
 **Publicada:** 1980-02-07
+**Versión:** 1981-01-20
 DICTA NORMAS SOBRE FINANCIAMIENTO UNIVERSITARIO Núm. 3.170.- Santiago, 29 de Enero de 1980.- Visto: Lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
 ~~Artículo 1°.- A partir del año presupuestario 1981, el aporte fiscal anual a las universidades se mantendra estabilizado en moneda del mismo valor adquisitivo, calculado sobre la base del total de dicho aporte en el año 1980. Se entendera por aporte estabilizado, aquél que anualmente sólo considere modificaciones por las variaciones que experimente el Indice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas y Censos. Para los efectos de la aplicación en los incisos anteriores y su inclusión en las leyes anuales de presupuesto, el procedimiento para el cálculo del aporte fiscal sera determinado por un reglamento expedido a través de los Ministerios de Hacienda y de Educación Pública.~~
 ~~Artículo 2°.- Además del aporte fiscal a que se refiere el artículo anterior, las universidades contaran con los siguientes recursos: a) Ingresos financiados con créditos provenientes del cobro a los alumnos universitarios que se matriculen en ellas. El aumento anual de éstos recursos no podra exceder de un siete por ciento real, acumulado, calculado sobre el aporte fiscal, y b) Otros ingresos de cualquier naturaleza.~~
