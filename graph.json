@@ -978,8 +978,8 @@
   "3621": {
     "idNorma": 3621,
     "numero": "4",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NORMAS SOBRE FINANCIAMIENTO DE LAS UNIVERSIDADES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-01-20",
     "modifica": [
       "3170"
@@ -2718,8 +2718,8 @@
   "5252": {
     "idNorma": 5252,
     "numero": "266",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA OTORGAR LAS FRANQUICIAS ADUANERAS Y TRIBUTARIAS QUE INDICA Y EN LAS CONDICIONES QUE SEÑALA,  A LAS PERSONAS JURIDICAS QUE, DE MANERA EXCLUSIVA, SE DEDIQUEN AL FOMENTO DE LA ACTIVIDAD PESQUERA E INDUSTRIAS DERIVADAS, COMO CONGELACION, CONSERVACION, ELABORACION Y TRANSFORMACION DE LOS PRODUCTOS DE LA PESCA, Y A LA CONSTRUCCION O REPARACION DE EMBARCACIONES ADECUADAS PARA LA PESCA INDUSTRIAL O COMERCIAL.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-06",
     "modifica": [],
     "modificadaPor": [
@@ -2900,8 +2900,8 @@
   "5407": {
     "idNorma": 5407,
     "numero": "317",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LEY ORGANICA DE CARABINEROS DE CHILE",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1960-04-06",
     "modifica": [
       "213"
@@ -3330,7 +3330,7 @@
     "idNorma": 5632,
     "numero": "2484",
     "titulo": "",
-    "clasificacion": "",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1927-05-05",
     "modifica": [],
     "modificadaPor": [
@@ -3376,7 +3376,7 @@
     "idNorma": 5655,
     "numero": "8352",
     "titulo": "",
-    "clasificacion": "",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1927-12-28",
     "modifica": [],
     "modificadaPor": [
@@ -18342,11 +18342,29 @@
     ],
     "modificadaPor": []
   },
+  "7087": {
+    "idNorma": 7087,
+    "numero": "3274",
+    "titulo": "FIJA LEY ORGANICA DEL MINISTERIO DE BIENES NACIONALES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-06-05",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7088": {
+    "idNorma": 7088,
+    "numero": "3275",
+    "titulo": "MODIFICA EL ARTICULO 3° TRANSITORIO Y SUSTITUYE EL\nARTICULO 6° TRANSITORIO DEL DECRETO LEY N° 2.416, DE\n1978",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-05-03",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7089": {
     "idNorma": 7089,
     "numero": "3276",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "AGREGA ARTICULO TRANSITORIO AL DECRETO LEY N° 2.622,\nDE 1979, QUE MODIFICO LA LEY SOBRE CUENTAS CORRIENTES\nBANCARIAS Y CHEQUES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-04-12",
     "modifica": [
       "2622"
@@ -18356,41 +18374,77 @@
   "7090": {
     "idNorma": 7090,
     "numero": "3277",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "EXIME AL INSTITUTO DE INVESTIGACIONES AGROPECUARIAS\nDE LA APLICACION DE LAS DISPOSICIONES LEGALES QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-04-30",
     "modifica": [
       "799"
     ],
     "modificadaPor": []
   },
+  "7091": {
+    "idNorma": 7091,
+    "numero": "3279",
+    "titulo": "MODIFICA LA LEY N° 17.635 Y ESTABLECE NUEVAS NORMAS\nPARA EL COBRO EJECUTIVO DE SALDOS DE PRECIO Y OTROS\nCREDITOS QUE SE ADEUDEN A LOS SERVICIOS DE VIVIENDA Y\nURBANIZACION",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-05-17",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7092": {
     "idNorma": 7092,
     "numero": "3336",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL MONTO DE LAS PENSIONES DE DETERMINADO\nPERSONAL DOCENTE JUBILADO AL 31 DE AGOSTO DE 1978",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-05-06",
     "modifica": [
       "2327"
     ],
     "modificadaPor": []
   },
+  "7093": {
+    "idNorma": 7093,
+    "numero": "3337",
+    "titulo": "PRORROGA FACULTAD CONFERIDA AL PRESIDENTE DE LA\nREPUBLICA POR EL PLAZO QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-05-13",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7094": {
+    "idNorma": 7094,
+    "numero": "3342",
+    "titulo": "ESTABLECE LIBERTAD DE AFILIACION A LA CONFEDERACION\nMUTUALISTA DE CHILE Y AUTORIZA A LAS INSTITUCIONES DE\nSOCORROS MUTUOS PARA FORMAR FEDERACIONES Y\nCONFEDERACIONES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-05-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7095": {
     "idNorma": 7095,
     "numero": "3343",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CONFIERE DERECHO DE OPCION A BENEFICIARIOS DE\nMONTEPIOS DE EX SERVIDORES DE LA GUERRA DEL PACIFICO Y\nDE INVALIDOS DE LA REVOLUCION DE 1891, PARA GOZAR DE LAS\nPRESTACIONES DE LA CAJA DE PREVISION DE LA DEFENSA\nNACIONAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-05-19",
     "modifica": [
       "1"
     ],
     "modificadaPor": []
   },
+  "7096": {
+    "idNorma": 7096,
+    "numero": "3344",
+    "titulo": "MODIFICA LEGISLACION SOBRE ALMACENES GENERALES DE\nDEPOSITO",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-06-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7097": {
     "idNorma": 7097,
     "numero": "3345",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE MODIFICACIONES A LA LEGISLACION BANCARIA Y\nFINANCIERA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-04-29",
     "modifica": [
       "252",
@@ -18402,8 +18456,8 @@
   "7098": {
     "idNorma": 7098,
     "numero": "3346",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL TEXTO DE LA LEY ORGANICA DEL MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-05-22",
     "modifica": [
       "7912",
@@ -18413,17 +18467,35 @@
       1040829
     ]
   },
+  "7099": {
+    "idNorma": 7099,
+    "numero": "3351",
+    "titulo": "LEY DE COOPERATIVAS ESPECIALES AGRICOLAS Y DE\nABASTECIMIENTO DE ENERGIA ELECTRICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-05-12",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7100": {
     "idNorma": 7100,
     "numero": "3355",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LOS DECRETOS LEYES 2.756 Y 2.258 DE 1979, E INTRODUCE TAMBIEN MODIFICACIONES A DIVERSOS PRECEPTOS RELATIVOS A LEGISLACION LABORAL",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-05-17",
     "modifica": [
       "2200",
       "2756",
       "2758"
     ],
+    "modificadaPor": []
+  },
+  "7101": {
+    "idNorma": 7101,
+    "numero": "3356",
+    "titulo": "FIJA NORMAS UNIFORMES PARA SER APLICADAS A LOS SEÑORES GENERALES, ALMIRANTES Y SUBOFICIALES MAYORES EN RETIROS DE LAS FUERZAS ARMADAS Y CARABINEROS DE CHILE.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-05-23",
+    "modifica": [],
     "modificadaPor": []
   },
   "7102": {
