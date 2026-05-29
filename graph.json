@@ -1136,8 +1136,8 @@
   "3668": {
     "idNorma": 3668,
     "numero": "5",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NORMAS SOBRE INSTITUTOS PROFESIONALES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-02-16",
     "modifica": [
       "1"
@@ -1247,8 +1247,8 @@
   "3803": {
     "idNorma": 3803,
     "numero": "9",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REFUNDE IMPUESTOS QUE AFECTAN A LOS DISCOS\nFONOGRAFICOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1972-11-07",
     "modifica": [],
     "modificadaPor": [
@@ -19271,19 +19271,28 @@
   "7133": {
     "idNorma": 7133,
     "numero": "3471",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA ARTICULO 90 DEL D.F.L. (G) No. 1, DE 1968",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-09-08",
     "modifica": [
       "1"
     ],
     "modificadaPor": []
   },
+  "7134": {
+    "idNorma": 7134,
+    "numero": "3472",
+    "titulo": "CREA EL FONDO DE GARANTIA PARA PEQUEÑOS EMPRESARIOS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-09-02",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7135": {
     "idNorma": 7135,
     "numero": "3473",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE MODIFICACIONES A LA LEY SOBRE IMPUESTO A\nLA RENTA Y VENTAS Y SERVICIOS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-09-04",
     "modifica": [
       "824",
@@ -19294,8 +19303,8 @@
   "7136": {
     "idNorma": 7136,
     "numero": "3474",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE DIVERSAS MODIFICACIONES A LAS LEYES SOBRE\nRENTAS MUNICIPALES Y A LAS QUE ESTABLECEN TASACIONES\nESPECIALES DE BIENES RAICES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-09-05",
     "modifica": [
       "964",
@@ -19306,8 +19315,8 @@
   "7137": {
     "idNorma": 7137,
     "numero": "3475",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LA LEY DE TIMBRES Y ESTAMPILLAS CONTENIDA EN EL DECRETO LEY N° 619, DE 1974",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-09-04",
     "modifica": [
       "619"
@@ -19317,8 +19326,8 @@
   "7138": {
     "idNorma": 7138,
     "numero": "3476",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NORMAS A LOS ESTABLECIMIENTOS DE ENSEÑANZA\nPARTICULAR SUBVENCIONADOS POR EL ESTADO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-09-04",
     "modifica": [
       "2327",
@@ -19329,8 +19338,8 @@
   "7139": {
     "idNorma": 7139,
     "numero": "3477",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NORMAS DE CARACTER PRESUPUESTARIO, DE ADMINISTRACION FINANCIERA Y DE PERSONAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-09-02",
     "modifica": [
       "520",
@@ -19347,22 +19356,76 @@
     ],
     "modificadaPor": []
   },
+  "7140": {
+    "idNorma": 7140,
+    "numero": "3480",
+    "titulo": "AUTORIZA RELIQUIDACION Y REPACTACION DE DEUDAS CON LA ASOCIACION DE AHORRO Y PRESTAMO Y LA DECLARA SUCESORA LEGAL DE LAS EX ASOCIACIONES DE AHORRO Y PRESTAMO QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-09-17",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7141": {
+    "idNorma": 7141,
+    "numero": "3481",
+    "titulo": "ESTABLECE NUEVO SISTEMA DE REAJUSTES Y FIJA NORMAS SOBRE REPACTACION DE DEUDA Y PAGO DE DIVIDENDOS POR CONCEPTO DE SALDOS DE PRECIO POR VENTA DE INMUEBLES, PRESTAMOS HABITACIONALES Y ASIGNACION DE VIVIENDAS, ADEUDADOS A LAS INSTITUCIONES DE PREVISION",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-09-17",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7142": {
+    "idNorma": 7142,
+    "numero": "3484",
+    "titulo": "PRORROGA EL PERIODO DE VIGENCIA DEL NUMERO Y\nDISTRIBUCION DE PATENTES DE ALCOHOLES QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-09-26",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7143": {
+    "idNorma": 7143,
+    "numero": "3489",
+    "titulo": "MODIFICA DISPOSICIONES DEL CODIGO ORGANICO DE\nTRIBUNALES QUE INDICA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-09-25",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7144": {
+    "idNorma": 7144,
+    "numero": "3490",
+    "titulo": "MODIFICA EL ARTICULO 11 DEL DECRETO LEY N° 3.477, DE\n1980, ESTABLECE PROHIBICION QUE INDICA E INTERPRETA LOS\nARTICULOS 43 Y 48 DEL DECRETO N° 274, DE ECONOMIA, DE\n1975",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-09-30",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7145": {
     "idNorma": 7145,
     "numero": "3493",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA PRESUPUESTO VIGENTE",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-10-18",
     "modifica": [
       "3000"
     ],
     "modificadaPor": []
   },
+  "7146": {
+    "idNorma": 7146,
+    "numero": "3496",
+    "titulo": "DEROGA INCISO SEGUNDO DEL ARTICULO 1° DEL DECRETO\nLEY N° 1.816, DE 1977",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-11-05",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7147": {
     "idNorma": 7147,
     "numero": "3500",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NUEVO SISTEMA DE PENSIONES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-11-13",
     "modifica": [],
     "modificadaPor": [
@@ -19372,13 +19435,31 @@
   "7148": {
     "idNorma": 7148,
     "numero": "3501",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NUEVO SISTEMA DE COTIZACIONES PREVISIONALES Y DEROGA DISPOSICIONES LEGALES QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-11-18",
     "modifica": [
       "2437",
       "2252"
     ],
+    "modificadaPor": []
+  },
+  "7149": {
+    "idNorma": 7149,
+    "numero": "3502",
+    "titulo": "CREA INSTITUTO DE NORMALIZACION PREVISIONAL",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-11-18",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7150": {
+    "idNorma": 7150,
+    "numero": "3503",
+    "titulo": "ESTABLECE NORMAS SOBRE CONSIGNACIONES JUDICIALES,\nMODIFICANDO LOS ARTICULOS QUE SEÑALA DEL CODIGO ORGANICO\nDE TRIBUNALES Y DEL CODIGO DE PROCEDIMIENTO CIVIL",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-11-18",
+    "modifica": [],
     "modificadaPor": []
   },
   "7154": {
