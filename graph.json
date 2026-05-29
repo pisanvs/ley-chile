@@ -1248,8 +1248,8 @@
   "3954": {
     "idNorma": 3954,
     "numero": "16",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SANIDAD Y PROTECCION ANIMAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1963-03-09",
     "modifica": [],
     "modificadaPor": [
@@ -2254,8 +2254,8 @@
   "5070": {
     "idNorma": 5070,
     "numero": "213",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA LA LEY ORGANICA DE CARABINEROS DE CHILE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-03-30",
     "modifica": [
       "191"
@@ -3256,8 +3256,8 @@
   "5628": {
     "idNorma": 5628,
     "numero": "2252",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "CREA LA CAJA DE PREVISION Y ESTIMULO DE LOS EMPLEADOS DEL BANCO DEL ESTADO DE CHILE.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1957-03-13",
     "modifica": [],
     "modificadaPor": [
@@ -17994,8 +17994,8 @@
   "7069": {
     "idNorma": 7069,
     "numero": "3168",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA ARTICULO 2° DEL DECRETO LEY N° 81, DE 1973,\nY MODIFICA EL ARTICULO 1° DEL DECRETO LEY N° 1.877, DE\n1977",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-02-06",
     "modifica": [
       "81"
@@ -18005,30 +18005,57 @@
   "7070": {
     "idNorma": 7070,
     "numero": "3169",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "PRORROGA FACULTAD OTORGADA AL PRESIDENTE DE LA\nREPUBLICA, POR EL ARTICULO 1° TRANSITORIO, DEL DECRETO\nLEY N° 2.859, DE 1979",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-02-14",
     "modifica": [
       "2859"
     ],
     "modificadaPor": []
   },
+  "7071": {
+    "idNorma": 7071,
+    "numero": "3170",
+    "titulo": "DICTA NORMAS SOBRE FINANCIAMIENTO UNIVERSITARIO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-02-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7072": {
+    "idNorma": 7072,
+    "numero": "3173",
+    "titulo": "RENUEVA HASTA EL 31 DE DICIEMBRE DE 1982 LAS\nAUTORIZACIONES ESTABLECIDAS EN EL DECRETO LEY N° 1.068,\nDE 1975, QUE FACULTA A LA CORPORACION DE FOMENTO DE LA\nPRODUCCION PARA ENAJENAR SUS ACTIVOS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-02-13",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7073": {
     "idNorma": 7073,
     "numero": "3174",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA ARTICULO 3° DEL DECRETO LEY N° 2.410, QUE CREO LA BECA PRESIDENTE DE LA REPUBLICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-02-22",
     "modifica": [
       "2410"
     ],
     "modificadaPor": []
   },
+  "7074": {
+    "idNorma": 7074,
+    "numero": "3177",
+    "titulo": "SUSTITUYE ARTICULO 4° DEL DECRETO LEY NUMERO 1.697,\nDE 1977",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-02-09",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7075": {
     "idNorma": 7075,
     "numero": "3178",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE LA LETRA F) DEL ARTICULO 135 DEL DECRETO\nCON FUERZA DE LEY (G) No. 1, DE 1968",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-02-20",
     "modifica": [
       "1"
@@ -18038,19 +18065,28 @@
   "7076": {
     "idNorma": 7076,
     "numero": "3180",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL DECRETO CON FUERZA DE LEY 2, DE 1968, DE INTERIOR.",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-03-15",
     "modifica": [
       "2"
     ],
     "modificadaPor": []
   },
+  "7077": {
+    "idNorma": 7077,
+    "numero": "3252",
+    "titulo": "ESTABLECE SEGURO OBLIGATORIO DE RESPONSABILIDAD\nCIVIL EN ACCIDENTE DE TRANSITO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-03-11",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7078": {
     "idNorma": 7078,
     "numero": "3253",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "AMPLIA PLAZO PARA LA DICTACION DEL REGLAMENTO DE LA\nLEY DE FOMENTO A LA MARINA MERCANTE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-02-19",
     "modifica": [
       "3059"
@@ -18060,8 +18096,8 @@
   "7079": {
     "idNorma": 7079,
     "numero": "3256",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "BENEFICIOS TRIBUTARIOS PARA LAS RESERVAS INDIGENAS QUE SE DIVIDEN",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-02-27",
     "modifica": [
       "935"
@@ -18071,30 +18107,57 @@
   "7080": {
     "idNorma": 7080,
     "numero": "3257",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL DECRETO LEY No. 825, DE 1974",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-03-07",
     "modifica": [
       "825"
     ],
     "modificadaPor": []
   },
+  "7081": {
+    "idNorma": 7081,
+    "numero": "3258",
+    "titulo": "MODIFICA ARTICULO 3°. DEL DECRETO LEY No. 1.812, DE\n1977",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-03-15",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7082": {
     "idNorma": 7082,
     "numero": "3259",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REDUCE PLAZO DE PRESCRIPCION PARA IMPETRAR LOS\nBENEFICIOS QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-04-07",
     "modifica": [
       "1"
     ],
     "modificadaPor": []
   },
+  "7083": {
+    "idNorma": 7083,
+    "numero": "3260",
+    "titulo": "ESTABLECE REGIMEN DE GOBIERNO Y ADMINISTRACION DE LA REGION METROPOLITANA DE SANTIAGO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-04-01",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7085": {
+    "idNorma": 7085,
+    "numero": "3262",
+    "titulo": "ESTABLECE NORMAS SOBRE ENAJENACION DE TIERRAS ASIGNADAS POR LA CAJA DE COLONIZACION AGRICOLA, LA CORPORACION DE LA REFORMA AGRARIA, LA OFICINA DE NORMALIZACION AGRARIA Y EL SERVICIO AGRICOLA Y GANADERO, Y DE TIERRAS ADJUDICADAS A LA DISOLUCION DE COOPERATIVAS DE REFORMA AGRARIA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-04-24",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7086": {
     "idNorma": 7086,
     "numero": "3270",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL REGLAMENTO DE REMATES ADUANEROS.",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-03-26",
     "modifica": [
       "213",
