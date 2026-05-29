@@ -350,3 +350,83 @@ def law_dir(
     folder = f"{slug}{suffix}"
     key = str(id_norma) if id_norma else numero
     return root / folder / key
+
+
+# ---------------------------------------------------------------------------
+# Sharded graph storage
+# ---------------------------------------------------------------------------
+# graph.json grows to ~200 MB at full catalog scale, breaching GitHub's hard
+# 100 MB per-file push limit.  We store it instead as graph_shards/NN.json,
+# bucketed by idNorma % GRAPH_SHARD_COUNT, so each shard stays well under the
+# limit.  load_graph/save_graph hide the sharding from callers; load_graph also
+# falls back to a legacy monolithic graph.json so old caches still bootstrap.
+
+GRAPH_SHARD_COUNT = 16
+
+
+def graph_shard_dir(graph_path) -> Path:
+    """Sibling directory holding the shards for a given logical graph.json path."""
+    graph_path = Path(graph_path)
+    return graph_path.parent / "graph_shards"
+
+
+def graph_exists(graph_path) -> bool:
+    """True if a sharded graph dir (with shards) or a legacy graph.json exists."""
+    graph_path = Path(graph_path)
+    sd = graph_shard_dir(graph_path)
+    if sd.is_dir() and any(sd.glob("*.json")):
+        return True
+    return graph_path.exists()
+
+
+def load_graph(graph_path) -> dict:
+    """Load a graph dict from shards if present, else a legacy monolithic file."""
+    graph_path = Path(graph_path)
+    sd = graph_shard_dir(graph_path)
+    if sd.is_dir():
+        merged: dict = {}
+        for shard in sorted(sd.glob("*.json")):
+            try:
+                merged.update(json.loads(shard.read_text(encoding="utf-8")))
+            except (json.JSONDecodeError, OSError):
+                continue
+        if merged:
+            return merged
+    if graph_path.exists():
+        try:
+            return json.loads(graph_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            pass
+    return {}
+
+
+def save_graph(graph_path, graph: dict, shards: int = GRAPH_SHARD_COUNT) -> None:
+    """Write the graph as graph_shards/NN.json bucketed by idNorma % shards.
+
+    Writes each shard atomically (tmp + replace).  Removes any legacy monolithic
+    graph.json so a stale, oversized file can't linger and break pushes.
+    """
+    graph_path = Path(graph_path)
+    sd = graph_shard_dir(graph_path)
+    sd.mkdir(parents=True, exist_ok=True)
+
+    buckets: list[dict] = [{} for _ in range(shards)]
+    for key, node in graph.items():
+        try:
+            idx = int(key) % shards
+        except (TypeError, ValueError):
+            idx = 0
+        buckets[idx][key] = node
+
+    for i, bucket in enumerate(buckets):
+        dest = sd / f"{i:02d}.json"
+        tmp = dest.with_suffix(".json.tmp")
+        tmp.write_text(json.dumps(bucket, ensure_ascii=False, indent=2), encoding="utf-8")
+        tmp.replace(dest)
+
+    # Drop legacy monolithic file if it survived from a pre-shard run.
+    if graph_path.exists() and graph_path.is_file():
+        try:
+            graph_path.unlink()
+        except OSError:
+            pass
