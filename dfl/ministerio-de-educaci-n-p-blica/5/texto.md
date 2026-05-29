@@ -1,7 +1,7 @@
 # Decreto con Fuerza de Ley N° 5
 FIJA NORMAS SOBRE INSTITUTOS PROFESIONALES
 **Publicada:** 1981-02-16
-**Versión:** 1986-01-02
+**Versión:** 1996-11-30
 FIJA NORMAS SOBRE INSTITUTOS PROFESIONALES D.F.L. N° 5.- Santiago, 6 de Febrero de 1981.- Visto: Lo dispuesto en el decreto ley N° 3.541, de 1980, Decreto con fuerza de ley:
 ## TITULO I Normas Generales
 Artículo primero: Los Institutos Profesionales son instituciones de educación superior que, en el cumplimiento de sus funciones, deben atender adecuadamente los intereses y necesidades del país, mediante la formación de profesionales con los conocimientos necesarios para el ejercicio de sus respectivas actividades.
