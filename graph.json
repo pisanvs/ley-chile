@@ -496,8 +496,8 @@
   "3383": {
     "idNorma": 3383,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DEROGA DECRETO N° 20, DE 1964, Y LO REEMPLAZA POR LAS DISPOSICIONES QUE INDICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-02-14",
     "modifica": [],
     "modificadaPor": [
@@ -920,8 +920,8 @@
   "3607": {
     "idNorma": 3607,
     "numero": "4",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA MONTO DE MULTAS Y SANCIONES PECUNIARIAS QUE SEÑALA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1963-01-30",
     "modifica": [
       "176"
@@ -1214,8 +1214,8 @@
   "3935": {
     "idNorma": 3935,
     "numero": "15",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LEYES DE CONTROL APLICABLES POR EL MINISTERIO DE AGRICULTURA, ESTABLECE NORMAS SOBRE ACTIVIDADES APICOLAS Y SANCIONA LA EXPLOTACION ILEGAL DE MADERAS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1968-01-29",
     "modifica": [
       "25"
@@ -1468,8 +1468,8 @@
   "4225": {
     "idNorma": 4225,
     "numero": "40",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE ESCALAFONES QUE INDICA EN LA PLANTA DE\nPERSONAL QUE SEÑALA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-07-31",
     "modifica": [
       "33"
@@ -1593,7 +1593,7 @@
     "idNorma": 4396,
     "numero": "65",
     "titulo": "",
-    "clasificacion": "",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1931-03-30",
     "modifica": [],
     "modificadaPor": [
@@ -1677,8 +1677,8 @@
   "4539": {
     "idNorma": 4539,
     "numero": "90",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE REGIMEN PREVISIONAL DE ASIGNACION POR MUERTE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-01-11",
     "modifica": [
       "42"
@@ -1814,8 +1814,8 @@
   "4661": {
     "idNorma": 4661,
     "numero": "115",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE MODIFICACIONES AL DECRETO CON FUERZA DE LEY N° 42 DE 1978.",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-01-26",
     "modifica": [
       "42"
@@ -17706,33 +17706,69 @@
       1129261
     ]
   },
+  "7053": {
+    "idNorma": 7053,
+    "numero": "3060",
+    "titulo": "MODIFICA EL ARTICULO 6° DEL DECRETO LEY N° 1.759, DE 1977 DECLARA INTEGRAMENTE PAGADAS LAS PATENTES MINERAS CUYO MONTO, INFERIOR AL LEGAL, FUE O SEA INDICADO POR LA TESORERIA GENERAL DE LA REPUBLICA MODIFICA EL ARTICULO 83 DEL CODIGO DE MINERIA Y DECLARA EL SENTIDO DE LAS DISPOSICIONES DE DICHO CODIGO, QUE INDICA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1979-12-27",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7054": {
     "idNorma": 7054,
     "numero": "3063",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NORMAS SOBRE RENTAS MUNICIPALES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-12-29",
     "modifica": [
       "995"
     ],
     "modificadaPor": []
   },
+  "7055": {
+    "idNorma": 7055,
+    "numero": "3064",
+    "titulo": "(AÑO 1979) ESTABLECE NORMAS RELATIVAS AL PRESUPUESTO DE LA COMISION CHILENA DE ENERGIA NUCLEAR PARA EL AÑO 1980 Y MODIFICA DISPOSICIONES LEGALES QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-01-03",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7056": {
+    "idNorma": 7056,
+    "numero": "3065",
+    "titulo": "(Año 1979)\nMODIFICA DECRETO LEY N° 1.487, DE 1976, QUE\nDETERMINA FUNCIONES Y ESTABLECE LA PLANTA DE LA\nSUBSECRETARIA DE INVESTIGACIONES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-01-12",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7057": {
     "idNorma": 7057,
     "numero": "3145",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "OTORGA FACULTADES QUE INDICA AL PRESIDENTE DE LA\nREPUBLICA PARA FIJAR TEXTOS REFUNDIDOS EN CUERPOS\nLEGALES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-01-28",
     "modifica": [
       "2439"
     ],
     "modificadaPor": []
   },
+  "7058": {
+    "idNorma": 7058,
+    "numero": "3147",
+    "titulo": "MODIFICA DECRETO LEY N° 3.058, DE 1979, SOBRE\nSISTEMA DE REMUNERACIONES DEL PODER JUDICIAL",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-02-01",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7059": {
     "idNorma": 7059,
     "numero": "3158",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA ARTICULO 55, DEL DECRETO LEY N° 670, DE\n1974",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-02-14",
     "modifica": [
       "670"
@@ -17742,8 +17778,8 @@
   "7060": {
     "idNorma": 7060,
     "numero": "3159",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LETRA d), No. 4, DEL ARTICULO 114 DEL\nD.F.L. No. 1 (G), DE 1968, ESTATUTO DEL PERSONAL DE LAS\nFUERZAS ARMADAS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-02-14",
     "modifica": [
       "1"
@@ -17753,8 +17789,8 @@
   "7061": {
     "idNorma": 7061,
     "numero": "3160",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "RENUEVA FACULTAD OTORGADA AL PRESIDENTE DE LA\nREPUBLICA POR EL ARTICULO 2°. TRANSITORIO DEL DECRETO\nLEY N°. 2.460, DE 1979",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-02-18",
     "modifica": [
       "2460"
@@ -17764,8 +17800,8 @@
   "7063": {
     "idNorma": 7063,
     "numero": "3162",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL ARTICULO 5° TRANSITORIO DEL DECRETO LEY N° 2.327, DE 1978, Y DA NORMAS SOBRE CALIFICACIONES",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-02-06",
     "modifica": [
       "2327"
@@ -17775,8 +17811,8 @@
   "7064": {
     "idNorma": 7064,
     "numero": "3163",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA Y COMPLEMENTA EL DECRETO LEY N° 2.757, DE;1979, SOBRE ASOCIACIONES GREMIALES",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-02-05",
     "modifica": [
       "2757"
@@ -17786,8 +17822,8 @@
   "7065": {
     "idNorma": 7065,
     "numero": "3164",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "PRORROGA FACULTAD OTORGADA AL PRESIDENTE DE LA\nREPUBLICA POR EL ARTICULO 13 DEL DL. N° 2.448, DE 1978",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-02-22",
     "modifica": [
       "2448"
@@ -17797,8 +17833,8 @@
   "7067": {
     "idNorma": 7067,
     "numero": "3165",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DICTA NORMAS SOBRE DEUDAS QUE INDICA Y MODIFICA EL\nDECRETO LEY N° 2.405, DE 1978",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-02-01",
     "modifica": [
       "2405"
