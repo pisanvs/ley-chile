@@ -1,0 +1,8 @@
+# Decreto Ley N° 3426
+MODIFICA PRESUPUESTO 1980 DE LA CAJA DE PREVISION DE
+EMPLEADOS PARTICULARES
+**Publicada:** 1980-06-13
+MODIFICA PRESUPUESTO 1980 DE LA CAJA DE PREVISION DE EMPLEADOS PARTICULARES Santiago, 9 de Junio de 1980.- Con esta fecha se ha dictado el siguiente decreto ley: Núm. 3.426.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974; 991, de 1976, y 3.000, de 1979. La Junta de Gobierno ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Introdúcense las siguientes modificaciones al Presupuesto de la Caja de Previsión de Empleados Particulares aprobado por decreto ley N. 3.000, de 22 de Diciembre de 1979 (15-19-00): _______________________________________________________ TRASPASESE: DE: _______________________________________________________ Part. Cap. Prog. Subt. Item. Miles de $ 15 19 00 32 80 499.355 A: 15 19 00 32 81 003 499.355 _______________________________________________________
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- José Piñera Echenique, Ministro del Trabajo y Previsión Social.- Sergio de Castro Spikula, Ministro de Hacienda. Lo que transcribo a U. para su conocimiento.- Saluda a U.- Alfonso Serrano Spoerer, Subsecretario de Previsión Social.
