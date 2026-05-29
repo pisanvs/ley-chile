@@ -32,25 +32,39 @@ A. COMITÉ EJECUTIVO DE CRÉDITOS.
 
 1º. Créase el Comité Ejecutivo de Créditos, en el que se delegan las facultades señaladas en el artículo 4º del numeral 3º de esta resolución.
 
-2º. El Comité Ejecutivo de Créditos, en adelante también "el Comité" o "CEC", estará constituido por:
+2° El Comité Ejecutivo de Créditos, en adelante también "el Comité" o "CEC", estará integrado por:
 
-a) Gerente de Asuntos Corporativos.
+a) El Fiscal de Corfo.
 
-b) Fiscal.
+b) El Gerente General de Corfo.
 
-c) Gerente General
+c) El Gerente de Administración y Finanzas de Corfo.
 
-d) Gerente de Administración y Finanzas
+d) El Gerente de Emprendimiento de Corfo.
 
-e) Gerente de Emprendimiento
+e) Un funcionario de la Corporación designado por el Vicepresidente Ejecutivo.
 
-En caso de ausencia, impedimento u otro motivo que afecte a quienes se refieren las letras precedentes, éstos serán reemplazados por las personas a quienes corresponda subrogar en el cargo, de conformidad a los órdenes de subrogación establecidos por la Corporación.
+f) Dos miembros con experiencia en el ámbito financiero, designados por el Vicepresidente Ejecutivo de la Corporación.
 
-3º. El Comité será presidido por el Gerente de Asuntos Corporativos y, en caso de ausencia de éste, por el miembro que el Comité designe de entre sus integrantes.
+En caso de ausencia, impedimento u otro motivo que afecte a quienes se refieren las letras
 
-El quórum será de tres de sus miembros.
+- **a)** a
 
-Sus acuerdos se adoptarán por simple mayoría de los miembros presentes.
+- **d)** precedentes, éstos serán reemplazados por sus subrogantes. Los miembros designados de acuerdo con las letras
+
+- **e)** y f), serán reemplazados por quien designe la autoridad que designa a los titulares.
+
+Los Consejeros deberán dar cumplimiento al principio de probidad administrativa y al deber de abstención que derivan del ejercicio de una función pública. Asimismo, les resultarán aplicables las normas sobre inhabilidades de ingreso, contenidas en el Título III de la ley Nº 18.575, en atención a que ejercerán un cargo o función pública en la Administración del Estado.
+
+El Comité Ejecutivo de Créditos tendrá un Secretario de Actas, función que será desempeñada por un funcionario designado por el Fiscal de Corfo.
+
+Le corresponderá al Secretario de Actas citar y asistir a las sesiones; certificar la asistencia a éstas de sus miembros; levantar actas de las mismas; y certificar los Acuerdos que se adopten en dichas sesiones.
+
+Reemplazará al Secretario de Actas, en el desempeño de las funciones indicadas, el funcionario que designe al efecto el Fiscal de Corfo.
+
+3° El Comité será presidido por el Fiscal, y, en caso de ausencia o impedimento de éste, por el funcionario titular de Corfo que le sigue en el orden del numeral precedente. Si no participaren titulares, se seguirá el orden con los subrogantes.
+
+El quórum para sesionar será de cuatro miembros, y los Acuerdos se adoptarán por la mayoría de los miembros presentes en la sesión.
 
 Los empates serán resueltos por quien presida la sesión.
 
