@@ -1,0 +1,11 @@
+# Decreto Ley N° 3459
+SUSTITUYE INCISOS CUARTO Y QUINTO DEL ARTICULO 12
+DEL DECRETO LEY N° 3.000, DE 1979, Y EXIME A LAS
+MUNICIPALIDADES DE LA INTERVENCION DEL MINISTERIO DE
+HACIENDA, EXIGIDA PARA LOS TRAMITES QUE INDICA
+**Publicada:** 1980-08-02
+SUSTITUYE INCISOS CUARTO Y QUINTO DEL ARTICULO 12 DEL DECRETO LEY N° 3.000, DE 1979, Y EXIME A LAS MUNICIPALIDADES DE LA INTERVENCION DEL MINISTERIO DE HACIENDA, EXIGIDA PARA LOS TRAMITES QUE INDICA Núm. 3.459.- Santiago, 31 de Julio de 1980.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo 1°- Sustitúyense los incisos cuarto y quinto del artículo 12 del decreto ley N° 3.000, de 1979, por los siguientes: "La identificación de los proyectos de inversión, programas o líneas de acción, a que se refiere el artículo 4° de este decreto ley, será aprobada mediante decreto del Alcalde respectivo. La dotación máxima de personal y el número de horas extraordinarias-año, podrán ser modificadas por resolución fundada del Ministerio del Interior.".
+Artículo 2°- La visación y la autorización del Ministerio de Hacienda, exigida por el artículo 8° del decreto ley N° 1.056, de 1975, cuyo texto vigente fue fijado por el artículo 11 del decreto ley N° 3.001, de 1979, y por el artículo 22 de este último decreto ley, respectivamente, no serán necesarias para las decisiones que sobre las materias a que se refieren dichos textos legales adopten las Municipalidades".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernández, Ministro del Interior.- Sergio de Castro Spikula, Ministro de Hacienda. Lo que transcribo para su conocimiento.- Enrique Montero Marx, General de Brigada Aérea (J), Ministro Subsecretario del Interior.
