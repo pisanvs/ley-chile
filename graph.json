@@ -321,8 +321,8 @@
   "3367": {
     "idNorma": 3367,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SEñALA NORMAS SOBRE PLANTACIONES, REPLANTES Y TRASPLANTES DE VIñAS VINIFERAS Y DE UVAS DE MESA; MODIFICA LA LEY 11.256, QUE FIJO EL TEXTO REFUNDIDO DE LAS DISPOSICIONES VIGENTES SOBRE LA LEY DE ALCOHOLES Y BEBIDAS ALCOHOLICAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1967-10-03",
     "modifica": [],
     "modificadaPor": [
@@ -598,8 +598,8 @@
   "3394": {
     "idNorma": 3394,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NORMAS SOBRE UNIVERSIDADES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-01-03",
     "modifica": [],
     "modificadaPor": [
@@ -923,8 +923,8 @@
   "3516": {
     "idNorma": 3516,
     "numero": "2",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA PLANTA DE PERSONAL DE LA SUBSECRETARIA DE\nTELECOMUNICACIONES\nD.F.L. N° 2.- Santiago, 23 de Junio de 1986.-\nVistos:",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1986-07-19",
     "modifica": [
       "1"
@@ -959,8 +959,8 @@
   "3560": {
     "idNorma": 3560,
     "numero": "3",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "NUEVO D.F.L. ORGANICO, LINEA AEREA NACIONAL - CHILE",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1969-09-20",
     "modifica": [
       "305"
@@ -1509,8 +1509,8 @@
   "4067": {
     "idNorma": 4067,
     "numero": "24",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NORMAS SOBRE CENTROS DE FORMACION TECNICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-04-16",
     "modifica": [],
     "modificadaPor": [
@@ -18990,22 +18990,58 @@
     ],
     "modificadaPor": []
   },
+  "7118": {
+    "idNorma": 7118,
+    "numero": "3444",
+    "titulo": "AGREGA ART. 9° TRANSITORIO AL ACTA CONSTITUCIONAL N°\n3",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-07-04",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7119": {
     "idNorma": 7119,
     "numero": "3446",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DISPOSICIONES DEL DFL. (G) N° 1, DE 1968",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-07-08",
     "modifica": [
       "1"
     ],
     "modificadaPor": []
   },
+  "7120": {
+    "idNorma": 7120,
+    "numero": "3447",
+    "titulo": "AUTORIZA A LA FUERZA AEREA DE CHILE PARA EFECTUAR\nDONACION DE ESPECIES QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-07-08",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7121": {
+    "idNorma": 7121,
+    "numero": "3450",
+    "titulo": "MODIFICA LEY N° 16.752",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-07-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7122": {
+    "idNorma": 7122,
+    "numero": "3451",
+    "titulo": "MODIFICA DECRETO LEY No. 1.877, DE 1977",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1980-07-17",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7123": {
     "idNorma": 7123,
     "numero": "3454",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA LAS LEYES SOBRE IMPUESTO A LA RENTA, HABITACIONAL, A LAS VENTAS Y SERVICIOS, A LOS;ESPECTACULOS Y DE TIMBRES Y ESTAMPILLAS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-07-25",
     "modifica": [
       "619",
@@ -19019,8 +19055,8 @@
   "7124": {
     "idNorma": 7124,
     "numero": "3456",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DISPOSICIONES DEL D.F.L. (G) N 1 DE 1968",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-07-30",
     "modifica": [
       "1"
@@ -19030,8 +19066,8 @@
   "7125": {
     "idNorma": 7125,
     "numero": "3457",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA D.F.L. N° 22, DE 1959",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-07-26",
     "modifica": [
       "22"
@@ -19041,8 +19077,8 @@
   "7126": {
     "idNorma": 7126,
     "numero": "3459",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE INCISOS CUARTO Y QUINTO DEL ARTICULO 12\nDEL DECRETO LEY N° 3.000, DE 1979, Y EXIME A LAS\nMUNICIPALIDADES DE LA INTERVENCION DEL MINISTERIO DE\nHACIENDA, EXIGIDA PARA LOS TRAMITES QUE INDICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-08-02",
     "modifica": [
       "3000"
@@ -19052,8 +19088,8 @@
   "7127": {
     "idNorma": 7127,
     "numero": "3460",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE MODIFICACIONES A LA LEY BANCARIA Y\nFINANCIERA CONTENIDA EN EL DECRETO CON FUERZA DE LEY N°\n252, DE 1960",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-09-05",
     "modifica": [
       "252"
@@ -19063,19 +19099,37 @@
   "7128": {
     "idNorma": 7128,
     "numero": "3461",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE MODIFICACIONES AL D.F.L. (I) N° 2 DE 1968,\nESTATUTO DEL PERSONAL DE CARABINEROS DE CHILE",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1980-08-22",
     "modifica": [
       "2"
     ],
     "modificadaPor": []
   },
+  "7129": {
+    "idNorma": 7129,
+    "numero": "3464",
+    "titulo": "APRUEBA NUEVA CONSTITUCION POLITICA Y LA SOMETE A RATIFICACION POR PLEBISCITO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-08-11",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7130": {
+    "idNorma": 7130,
+    "numero": "3465",
+    "titulo": "CONVOCA AL PLEBISCITO DISPUESTO POR EL DECRETO LEY 3.464, DE 1980 Y SEñALA NORMAS A LAS CUALES SE SUJETARA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-08-12",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7131": {
     "idNorma": 7131,
     "numero": "3468",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTERPRETA EL INCISO FINAL DEL ARTICULO 1°\nTRANSITORIO DEL DECRETO LEY N° 1.349, DE 1976",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-09-06",
     "modifica": [
       "1"
@@ -19085,8 +19139,8 @@
   "7132": {
     "idNorma": 7132,
     "numero": "3469",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SEÑALA NORMAS ESPECIALES SOBRE VIVIENDAS ECONOMICAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-09-08",
     "modifica": [
       "964"
