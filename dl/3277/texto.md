@@ -1,0 +1,10 @@
+# Decreto Ley N° 3277
+EXIME AL INSTITUTO DE INVESTIGACIONES AGROPECUARIAS
+DE LA APLICACION DE LAS DISPOSICIONES LEGALES QUE INDICA
+**Publicada:** 1980-04-30
+EXIME AL INSTITUTO DE INVESTIGACIONES AGROPECUARIAS DE LA APLICACION DE LAS DISPOSICIONES LEGALES QUE INDICA Núm. 3.277.- Santiago, 10 de Abril de 1980.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo 1°- Al Instituto de Investigaciones Agropecuarias, no le serán aplicables las disposiciones de los decretos leyes N°s 249, de 1973; 349, de 1974; 799, de 1974 y 1.263, de 1975. A partir de la publicación de este decreto ley se regirá exclusivamente por las normas contenidas en sus estatutos y en las disposiciones legales y reglamentarias por las que se rigen las corporaciones de derecho privado. Le será aplicable, en todo caso, lo dispuesto en el inciso segundo del artículo 16 de la ley N° 10.336.
+Artículo 2°- Derógase el artículo 187 de la ley número 16.640.
+Artículo transitorio.- Mientras los estatutos del Instituto de Investigaciones Agropecuarias no establezcan la composición de su Consejo Directivo y éste no entre en funciones continuará siendo administrado por un delegado designado por el Gobierno para ello.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Alfonso Marquéz de la Plata Yrarrázaval, Ministro de Agricultura.- Sergio de Castro Spikula, Ministro de Hacienda. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- José Luis Toro Hevia, Subsecretario de Agricultura.
