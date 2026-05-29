@@ -2,6 +2,7 @@
 APRUEBA EL TEXTO ORGANICO DE LA LINEA AEREA
 NACIONAL-CHILE
 **Publicada:** 1960-04-06
+**Versión:** 1969-09-20
 APRUEBA EL TEXTO ORGANICO DE LA LINEA AEREA NACIONAL-CHILE Núm. 305.- Santiago, 1. de Abril de 1960.- Vistas las facultades que me confiere el Título VIII de la ley N.o 13,305, publicada en el "Diario Oficial" de fecha 6 de Abril de 1959, dicto el siguiente Decreto con fuerza de ley:
 ## ~~TITULO I Naturaleza, objeto y domicilio~~
 ~~Artículo 1.o La Línea Aérea Nacional-Chile es una Empresa del Estado, con personalidad jurídica propia, con domicilio en Santiago, destinada al comercio del transporte aéreo y a todo cuanto tenga relación con esta actividad, dentro y fuera del país.~~
