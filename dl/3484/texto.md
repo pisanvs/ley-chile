@@ -1,0 +1,8 @@
+# Decreto Ley N° 3484
+PRORROGA EL PERIODO DE VIGENCIA DEL NUMERO Y
+DISTRIBUCION DE PATENTES DE ALCOHOLES QUE INDICA
+**Publicada:** 1980-09-26
+PRORROGA EL PERIODO DE VIGENCIA DEL NUMERO Y DISTRIBUCION DE PATENTES DE ALCOHOLES QUE INDICA Santiago, 10 de Septiembre de 1980.- Hoy se decretó lo que sigue: Núm. 3.484.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974; y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Renuévase desde el 1° de Enero de 1979 y hasta el 31 de Diciembre de 1980 la vigencia del número de patentes de alcoholes limitadas y su distribución, que rigieron para el quinquenio que expiraba el 31 de Diciembre de 1978 según lo dispuesto en el inciso segundo del artículo 147 de la ley N° 17.105. La nueva determinación del número de patentes de alcoholes y su distribución, que deberá hacerse de acuerdo con esas disposiciones legales, regirá a partir del 1° de Enero de 1981, fecha desde la cual comenzarán a computarse los quinquenios que fijan esos preceptos.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Mónica Madariaga Gutiérrez, Ministro de Justicia.- Sergio Fernández Fernández, Ministro del Interior. Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Enrique Montero Marx, General de Brigada Aérea (J), Ministro Subsecretario del Interior.
