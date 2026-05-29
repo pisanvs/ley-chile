@@ -1,6 +1,7 @@
 # Decreto con Fuerza de Ley N° 1
 FIJA NORMAS SOBRE UNIVERSIDADES
 **Publicada:** 1981-01-03
+**Versión:** 1981-02-16
 FIJA NORMAS SOBRE UNIVERSIDADES (Año 1980) D.F.L. N° 1.- Santiago, 30 de Diciembre de 1980.- Visto, lo dispuesto en el decreto ley N° 3.541, de 1980, Decreto con fuerza de ley:
 I.- LAS UNIVERSIDADES Y SUS FINES
 Artículo 1°- La Universidad es una institución de educación superior, de investigación, raciocinio y cultura que, en el cumplimiento de sus funciones, debe atender adecuadamente los intereses y necesidades del país, al más alto nivel de excelencia.
@@ -35,7 +36,7 @@ Artículo 26°- Las cinco primeras promociones de los alumnos de cada profesión
 Artículo 27°- La disolución de una Universidad se producirá conforme lo dispongan sus estatutos. Por decreto supremo del Ministerio de Educación se podrá cancelar la personalidad jurídica a una universidad si no cumple con sus fines o si realizare actividades contrarias a las leyes, al orden público, a las buenas costumbres, a la moral o a la seguridad nacional o incurriere en infracciones graves a sus estatutos o dejare de otorgar títulos de aquellos a que se refiere el artículo 12 o contare con un número de alumnos regulares inferior a cien. En conformidad a lo prescrito en la Constitución Política del Estado, los afectados podrán recurrir de protección en contra de esta decisión de la autoridad sin perjuicio de sus demás derechos. Para los efectos de lo dispuesto en el inciso segundo de este artículo, las universidades estarán sujetas a la fiscalización del Ministerio de Educación. Las universidades deberán enviar anualmente a dicho Ministerio un balance y una memoria explicativa de sus actividades.
 ARTICULOS TRANSITORIOS
 Artículo 1°- Aplícanse a las universidades actualmente existentes todas las normas de esta ley con excepción de lo dispuesto en los artículos 15 a 19, 20 inciso primero, 21 y 23 a 27.
-Artículo 2°- Las universidades actualmente existentes mantendrán su carácter de tales; podrán continuar otorgando los títulos profesionales y grados académicos que actualmente confieren y tendrán el carácter de universidad examinadora, para todos los efectos legales, respecto de los títulos y grados académicos que otorguen.
+Artículo 2°- Las Universidades actualmente existentes mantendrán su carácter de tales y podrán continuar otorgando los títulos profesionales y grados académicos que actualmente confieren. Dichas Universidades y las que de ellas se deriven tendrán el carácter de Universidad Examinadora, para todos los efectos legales, respecto de los títulos y grados académicos que otorguen.
 Artículo 3°- En tanto no se dicte la ley a que se refiere el inciso segundo del artículo 13 sólo las universidades podrán otorgar los títulos profesionales que por cualquier norma legal en actual vigencia estén reservados a ellas.
 Artículo 4°- Durante el plazo de cinco años contado desde la fecha de publicación de la presente ley para que las nuevas universidades puedan gozar de personalidad jurídica y funcionar como tales, será necesario, previo al depósito del instrumento constitutivo de la entidad, contar con la autorización del Ministerio del Interior el que sólo podrá otorgarla cuando a su juicio no se atente o no pudiere atentarse con su establecimiento en contra del orden público o de la seguridad nacional.
 ---
