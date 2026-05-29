@@ -52,6 +52,7 @@ HEADERS = {
 
 PROGRESS_SAVE_EVERY = 50   # flush progress every N completions
 LOG_EVERY = 100            # log stats every N fetches
+MAX_RETRIES = 3            # in-worker retries for transient server errors
 
 # ---------------------------------------------------------------------------
 # HTML reference extraction
@@ -207,12 +208,30 @@ def _save_graph(path: Path, graph: dict) -> None:
 # ---------------------------------------------------------------------------
 
 def _worker(id_norma: int, cache_dir: Path, session: requests.Session) -> tuple[int, dict | None, Exception | None]:
-    """Returns (id_norma, parsed_data_or_None, error_or_None)."""
-    try:
-        data = fetch_one(id_norma, cache_dir, session)
-        return (id_norma, data, None)
-    except Exception as exc:
-        return (id_norma, None, exc)
+    """Returns (id_norma, parsed_data_or_None, error_or_None).
+
+    Retries transient server errors (502/504/500, read timeouts, connection
+    drops) up to MAX_RETRIES with exponential backoff, since LeyChile's gateway
+    is intermittently flaky.  Two cases are returned immediately without retry:
+      - 429/503 rate-limits — the caller's AdaptiveLimiter must react to these.
+      - permanent 4xx client errors — they won't change on retry (dead idNorma).
+    Runs in a thread pool, so the blocking time.sleep does not stall the loop.
+    """
+    last_exc: Exception | None = None
+    for attempt in range(MAX_RETRIES):
+        try:
+            data = fetch_one(id_norma, cache_dir, session)
+            return (id_norma, data, None)
+        except requests.HTTPError as exc:
+            status = getattr(getattr(exc, "response", None), "status_code", None)
+            if status in (429, 503) or (status is not None and 400 <= status < 500):
+                return (id_norma, None, exc)
+            last_exc = exc
+        except Exception as exc:
+            last_exc = exc  # timeout / connection error — transient
+        if attempt < MAX_RETRIES - 1:
+            time.sleep(min(8, 2 ** attempt))  # 1s, 2s
+    return (id_norma, None, last_exc)
 
 
 # ---------------------------------------------------------------------------
