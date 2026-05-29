@@ -1,7 +1,7 @@
 # Decreto Ley N° 3063
 ESTABLECE NORMAS SOBRE RENTAS MUNICIPALES
 **Publicada:** 1979-12-29
-**Versión:** 1987-01-03
+**Versión:** 1995-05-30
 ESTABLECE NORMAS SOBRE RENTAS MUNICIPALES Núm. 3.063.- Santiago, 24 de Diciembre de 1979.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974; y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley: LEY DE RENTAS MUNICIPALES
 ## TITULO I
 Artículo 1.- Los ingresos o rentas municipales se regulan por las disposiciones de la presente ley y las contenidas en leyes especiales.
