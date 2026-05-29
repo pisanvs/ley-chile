@@ -180,9 +180,13 @@ e) Ejercer las demás facultades y cumplir las otras obligaciones que este instr
 
 #### Artículo 12º
 
-El Comité tendrá un Director Ejecutivo, un Subdirector de Operación y Gestión y, al menos, Subdirectores de Fomento MIPYME e Innovación y Emprendimiento, además de los Subdirectores Sectoriales, si dichas Subdirecciones se crearen. Estos últimos rendirán cuenta de sus gestiones al Director Ejecutivo.
+El Comité tendrá un Director Ejecutivo, quien será designado por el Consejo Directivo del Comité, de una terna que le presente el Vicepresidente Ejecutivo de Corfo.
 
-Las autoridades antes señaladas serán designadas por el Consejo Directivo, de una terna que propondrá el Vicepresidente Ejecutivo de CORFO, previo concurso público.
+También tendrá un Subdirector de Operación y Gestión, y, al menos, Subdirectores de Fomento Mipyme e Innovación y Emprendimiento, además de los Subdirectores Sectoriales, si dichas Subdirecciones se crearen. Los Subdirectores serán designados por el Consejo Directivo, de una terna que propondrá el Vicepresidente Ejecutivo de Corfo, previo concurso público, y rendirán cuenta de sus gestiones al Director Ejecutivo.
+
+Corresponderá al Vicepresidente Ejecutivo de Corfo dictar y celebrar los actos relacionados con la contratación, la modificación del contrato de trabajo y la desvinculación del Director Ejecutivo. La dictación y suscripción de los actos relacionados con la contratación de los Subdirectores, corresponderá al Director Ejecutivo del Comité.
+
+Sin perjuicio de lo señalado en los incisos anteriores, el Vicepresidente Ejecutivo de la Corporación, mediante acto administrativo, podrá asignar la función de Subdirector de cualquiera de las Subdirecciones que existan en el Comité, a la persona que ejerza, ya sea en calidad de titular o suplente, el cargo de Jefe de Departamento, Grado 5°, de la Planta de Directivos de Corfo en la región.
 
 El Director Ejecutivo será subrogado por el Subdirector que designe al efecto.
 
