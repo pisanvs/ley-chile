@@ -1,0 +1,7 @@
+# Decreto Ley N° 3457
+MODIFICA D.F.L. N° 22, DE 1959
+**Publicada:** 1980-07-26
+MODIFICA D.F.L. N° 22, DE 1959 Santiago, 25 de Julio de 1980.- Hoy se decretó lo que sigue: Núm. 3.457.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974; y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Sustitúyese el inciso primero de la letra f) del artículo 26° del D.F.L. N° 22, de 1959, por el siguiente: "Exigir administrativamente la restitución de cualquier bien de propiedad fiscal o perteneciente a entidades del Estado con patrimonio distinto al del Fisco, o nacional de uso público, que esté indebidamente ocupado. En caso de oposición, podrá hacer uso de las facultades que le otorga la presente ley".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernández, Ministro del Interior. Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Juan Ignacio García Rodríguez, Subsecretario del Interior suplente.
