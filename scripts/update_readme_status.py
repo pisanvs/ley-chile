@@ -27,6 +27,7 @@ if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
 from compute_watermark import compute_watermark, get_historial_watermark  # noqa: E402
+from utils import load_graph  # noqa: E402
 
 START_MARKER = "<!-- PIPELINE_STATUS_START -->"
 END_MARKER = "<!-- PIPELINE_STATUS_END -->"
@@ -83,7 +84,7 @@ def main() -> None:
     parser.add_argument("--W", dest="W_override", metavar="DATE", default=None)
     args = parser.parse_args()
 
-    graph = json.loads(Path(args.graph_path).read_text(encoding="utf-8"))
+    graph = load_graph(Path(args.graph_path))
     cache_dir = Path(args.cache_dir)
 
     if args.W_override is not None:
