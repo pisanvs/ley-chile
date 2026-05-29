@@ -1,0 +1,8 @@
+# Decreto Ley N° 3259
+REDUCE PLAZO DE PRESCRIPCION PARA IMPETRAR LOS
+BENEFICIOS QUE INDICA
+**Publicada:** 1980-04-07
+REDUCE PLAZO DE PRESCRIPCION PARA IMPETRAR LOS BENEFICIOS QUE INDICA Núm. 3.259.- Santiago, 13 de Marzo de 1980.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+Artículo único.- Agrégase a la letra d) del artículo 114 del decreto con fuerza de ley (G) N° 1, de 1968, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto N° 14, de 1977, de la Subsecretaría de Guerra, el siguiente número 5: "5.- El derecho a impetrar los beneficios de asignación por cambio de residencia y de anticipo de sueldo contemplados en este artículo prescribirá en el plazo de seis meses, contados desde la fecha en que el personal se presente a su nuevo destino.".
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros de Chile e Investigaciones de Chile, e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Raúl Benavides Escobar, Teniente General, Ministro de Defensa Nacional. Lo que se transcribe para su conocimiento.- Julio Bravo Valdés, Coronel, Subsecretario de Guerra.
