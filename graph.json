@@ -686,8 +686,8 @@
   "3427": {
     "idNorma": 3427,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY N° 9.618, QUE CREA LA EMPRESA NACIONAL DEL PETROLEO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1987-04-24",
     "modifica": [],
     "modificadaPor": [
@@ -1008,8 +1008,8 @@
   "3517": {
     "idNorma": 3517,
     "numero": "2",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL DECRETO LEY N° 1.089, DE 1975, QUE ESTABLECE NORMAS SOBRE CONTRATOS ESPECIALES DE OPERACION PARA LA EXPLORACION Y EXPLOTACION O BENEFICIO DE YACIMIENTOS DE HIDROCARBUROS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1987-03-30",
     "modifica": [],
     "modificadaPor": [
@@ -23192,8 +23192,8 @@
   "13524": {
     "idNorma": 13524,
     "numero": "455",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA PRESUPUESTO CORRIENTE Y DE CAPITAL PARA\n1975, DE LA CORPORACION DE FOMENTO DE LA PRODUCCION",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1975-10-08",
     "modifica": [
       "785"
@@ -23203,8 +23203,8 @@
   "13537": {
     "idNorma": 13537,
     "numero": "456",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REEMPLAZA GUARISMO QUE INDICA EN GLOSA DEL ITEM SERVICIOS GENERALES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1975-11-29",
     "modifica": [
       "785"
@@ -23214,8 +23214,8 @@
   "13538": {
     "idNorma": 13538,
     "numero": "456",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "REAJUSTA EN UN 11,1% LAS TASAS FIJAS DE IMPUESTOS\nCONTENIDAS EN EL DECRETO LEY N° 3.475, DE 1980",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1987-06-26",
     "modifica": [
       "3475"
@@ -23225,8 +23225,8 @@
   "13548": {
     "idNorma": 13548,
     "numero": "457",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUPLEMENTA PRESUPUESTO DE INGRESOS CORRIENTES EN\nMONEDA NACIONAL DE LA SOCIEDAD CONSTRUCTORA DE\nESTABLECIMIENTOS HOSPITALARIOS S.A., PARA 1975",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1975-12-29",
     "modifica": [
       "785"
