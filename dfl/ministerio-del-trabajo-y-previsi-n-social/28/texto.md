@@ -3,7 +3,7 @@ FIJA EL ESTATUTO DEL PERSONAL DE LA SUPERINTENDENCIA
 DE ADMINISTRADORAS DE FONDOS DE PENSIONES Y DETERMINA
 SU PLANTA Y REGIMEN DE REMUNERACIONES
 **Publicada:** 1981-03-30
-**Versión:** 1981-04-04
+**Versión:** 1981-04-05
 FIJA EL ESTATUTO DEL PERSONAL DE LA SUPERINTENDENCIA DE ADMINISTRADORAS DE FONDOS DE PENSIONES Y DETERMINA SU PLANTA Y REGIMEN DE REMUNERACIONES Santiago, 6 de Marzo de 1981.- Hoy se dictó el siguiente D.F.L. N° 28.- Visto: la facultad que me otorga el artículo 95 del decreto ley N° 3500, de 1980, dicto el siguiente Decreto con fuerza de ley:
 Artículo 1°.- Las relaciones jurídicas de la Superintendencia de Administradoras de Fondos de Pensiones con sus trabajadores se regirán por las normas contenidas en este Estatuto y en lo no contemplado en ellas, por las disposiciones establecidas en el D.F.L. 338, de 1960, y sus modificaciones. Para todos los efectos de este decreto con fuerza de ley, se entenderá por "Superintendencia" a la Superintendencia de Administradoras de Fondos de Pensiones; por "Superintendente" al Superintendente de la Superintendencia de Administradoras de Fondos de Pensiones; y por "trabajadores" o por "personal" a los trabajadores de la Superintendencia de Administradoras de Fondos de Pensiones.
 Artículo 2°.- Los trabajadores de la Superintendencia serán nombrados por resolución del Superintendente y podrán serlo de planta o a contrata. Son de planta aquellos consultados en la organización estable de la Institución con carácter permanente. Son a contrata aquellos que se desempeñen transitoriamente en la organización de la Superintendencia. Podrán efectuarse designaciones a contrata por jornada parcial y, en este caso, la remuneración será proporcional a ella.
