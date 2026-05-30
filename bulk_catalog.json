@@ -210,6 +210,11 @@
     "fechaPublicacion": "1969-09-20"
   },
   {
+    "idNorma": 3565,
+    "tipo": "dfl",
+    "fechaPublicacion": "1979-02-13"
+  },
+  {
     "idNorma": 3568,
     "tipo": "dfl",
     "fechaPublicacion": "1980-08-06"
@@ -8608,6 +8613,11 @@
     "idNorma": 12229,
     "tipo": "dto",
     "fechaPublicacion": "1937-03-22"
+  },
+  {
+    "idNorma": 12259,
+    "tipo": "dto",
+    "fechaPublicacion": "1981-03-13"
   },
   {
     "idNorma": 12744,
