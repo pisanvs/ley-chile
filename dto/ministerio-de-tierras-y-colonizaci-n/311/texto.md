@@ -2,6 +2,7 @@
 APRUEBA EL TEXTO DEFINITIVO DE LA LEY DE
 COLONIZACION DE AYSEN
 **Publicada:** 1937-03-22
+**Versión:** 1974-10-11
 APRUEBA EL TEXTO DEFINITIVO DE LA LEY DE COLONIZACION DE AYSEN Núm. 311.- Santiago, 24 de Febrero de 1937.- Vista la facultad que me confiere el artículo 6.o de la Ley N.o 6,035, de 16 de Febrero de 1937, Decreto: El texto definitivo de las leyes números 4,855, de 20 de Junio de 1930 y 6,035, de 16 de Febrero de 1937, sobre colonización de la provincia de Aysen, será el siguiente:
 ~~Artículo 1.o A todo chileno o extranjero nacionalizado que se encuentre domiciliado en la provincia de Aysen y que ocupe y cultive tierras en esa provincia, desde una fecha anterior al 1.o de Enero de 1927, podrá concedérsele gratuitamente, a título de dominio, hasta seiscientas hectáreas por sí, y hasta cincuenta hectáreas por cada hijo vivo de uno u otro sexo.~~
 ~~Artículo 2.o Igual concesión podrá hacerse a los chilenos que deseen repatriarse de la República Argentina, que comprueben competencia en trabajos agrícolas o ganaderos, y cumplan los requisitos que el Reglamento establezca, siempre que dispongan de elementos de trabajo y animales por un valor no inferior al veinte por ciento del que se asigne a las tierras que se les va a entregar.~~
