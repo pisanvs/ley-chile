@@ -1,7 +1,7 @@
 # Decreto con Fuerza de Ley N° 5
 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL DECRETO CON FUERZA DE LEY 34, DE 1931, QUE LEGISLA SOBRE LA INDUSTRIA PESQUERA Y SUS DERIVADOS
 **Publicada:** 1983-11-15
-**Versión:** 1998-09-07
+**Versión:** 1998-12-23
 FIJA TEXTO REFUNDIDO COORDINADO Y SISTEMATIZADO DEL D.F.L. N° 34, DE 1931, QUE LEGISLA SOBRE LA INDUSTRIA PESQUERA Y SUS DERIVADOS D.F.L. N° 5.- Santiago, 3 de Mayo de 1983.- Visto: Las facultades que me confiere la Ley 18.127, de 1982, dicto el siguiente: Decreto con fuerza de ley Fíjase el siguiente texto refundido, coordinado y sistematizado del DFL. N° 34, de 1931 que legisla sobre la industria pesquera y sus derivados.
 ## TITULO I DE LA PESCA
 Art�culo 1º.- DEROGADO
@@ -51,7 +51,7 @@ ARTICULO 39° La División de Protección Pesquera del Servicio Agrícola y Gana
 ARTICULO 40° La Corporación de Fomento de la Producción debe entregar gratuitamente al Ministerio de Economía, Fomento y Reconstrucción, para la Subsecretaría de Pesca, toda la información científica primaria y las estadísticas históricas, relacionadas con la administración de los recursos hidrobiológicos, que obra en su poder o en el de sus organismos dependientes.
 ## TITULO IV PROHIBICIONES Y RESTRICCIONES
 Artículo 41.- DEROGADO
-Artículo 42°.- La importación y propagación de especies hidrobiológicas vivas foráneas, en cualquier estado de su desarrollo, sólo podrá efectuarse previa autorización de la Subsecretaría de Pesca.
+Artículo 42°.- DEROGADO
 Artículo 43°.- DEROGADO
 Artículo 44°.- DEROGADO
 ## TITULO V PROCEDIMIENTOS Y PENALIDADES
