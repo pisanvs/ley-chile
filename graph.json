@@ -714,8 +714,8 @@
   "3468": {
     "idNorma": 3468,
     "numero": "1",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY ORGANICA DE LA EMPRESA DE LOS FERROCARRILES DEL ESTADO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1993-08-03",
     "modifica": [],
     "modificadaPor": [
@@ -1056,8 +1056,8 @@
   "3612": {
     "idNorma": 3612,
     "numero": "4",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA Y COMPLEMENTA EL DECRETO CON FUERZA DE LEY\nR. R. A. N° 5, de 1963, Y FIJA TEXTO REFUNDIDO Y\nCOORDINADO QUE ESTABLECE NORMAS SOBRE PEQUEÑA PROPIEDAD\nRUSTICA.",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1968-01-17",
     "modifica": [],
     "modificadaPor": [
@@ -1583,8 +1583,8 @@
   "4046": {
     "idNorma": 4046,
     "numero": "22",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE ESCALAFONES QUE INDICA EN LA PLANTA DE\nPERSONAL QUE SEÑALA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-06-30",
     "modifica": [
       "3529"
@@ -1918,8 +1918,8 @@
   "4524": {
     "idNorma": 4524,
     "numero": "88",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ADOPTA LAS MEDIDAS QUE INDICA EN RELACION CON EL MINISTERIO DE ECONOMIA Y COMERCIO Y SUS ATRIBUCIONES Y ACTIVIDADES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-06-01",
     "modifica": [],
     "modificadaPor": [
@@ -2018,8 +2018,8 @@
   "4563": {
     "idNorma": 4563,
     "numero": "94",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL TEXTO DEFINITIVO DE LA LEY DE ADMINISTRACION DE LA EMPRESA DE LOS FERROCARRILES DEL ESTADO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-03-21",
     "modifica": [],
     "modificadaPor": [
@@ -2742,8 +2742,8 @@
   "5170": {
     "idNorma": 5170,
     "numero": "243",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE LA INDEMNIZACION POR AÑOS DE SERVICIOS PARA LOS OBREROS.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1953-08-03",
     "modifica": [],
     "modificadaPor": [
@@ -20193,22 +20193,67 @@
       1069105
     ]
   },
+  "7169": {
+    "idNorma": 7169,
+    "numero": "3541",
+    "titulo": "DELEGA FACULTADES QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1980-12-13",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7170": {
     "idNorma": 7170,
     "numero": "3543",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA NORMAS DEL D.F.L. (G) No. 1, DE 1968,\nESTATUTO DEL PERSONAL DE LAS FF.AA., CUYO TEXTO\nREFUNDIDO, COORDINADO Y SISTEMATIZADO FUE FIJADO POR EL\nD.S. (G) N° 14, DE 1977",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-01-07",
     "modifica": [
       "1"
     ],
     "modificadaPor": []
   },
+  "7171": {
+    "idNorma": 7171,
+    "numero": "3544",
+    "titulo": "SUPRIME LA DIRECCION DE PAVIMENTACION DE SANTIAGO Y\nMODIFICA LEY N° 11.150 EN LA FORMA QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1981-01-13",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7172": {
+    "idNorma": 7172,
+    "numero": "3545",
+    "titulo": "MODIFICA LEY DE IMPUESTO A LAS HERENCIAS,\nASIGNACIONES Y DONACIONES",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1981-01-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7173": {
+    "idNorma": 7173,
+    "numero": "3547",
+    "titulo": "ESTABLECE NORMAS PARA FIJAR EL MONTO MAXIMO DE LOS\nPRESTAMOS QUE CONCEDE LA CAJA DE CREDITO POPULAR.",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1981-01-09",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7174": {
+    "idNorma": 7174,
+    "numero": "3549",
+    "titulo": "PRORROGA FACULTAD CONCEDIDA AL PRESIDENTE DE LA\nREPUBLICA Y ESTABLECE RECURSO ANTE CORTES DE APELACIONES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1981-01-21",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7175": {
     "idNorma": 7175,
     "numero": "3551",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NORMAS SOBRE REMUNERACIONES Y SOBRE PERSONAL PARA EL SECTOR PUBLICO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-01-02",
     "modifica": [
       "90",
@@ -20217,11 +20262,20 @@
     ],
     "modificadaPor": []
   },
+  "7176": {
+    "idNorma": 7176,
+    "numero": "3552",
+    "titulo": "SUSTITUYE LOS INCISOS PRIMERO Y SEGUNDO DEL ARTICULO\nUNICO DEL DECRETO LEY N° 3.356, DE 1980",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1981-01-14",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7177": {
     "idNorma": 7177,
     "numero": "3555",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL ARTICULO 4° DEL DECRETO LEY N° 1.349, DE\n1976",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-01-16",
     "modifica": [
       "1"
@@ -20231,8 +20285,8 @@
   "7178": {
     "idNorma": 7178,
     "numero": "3557",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE DISPOSICIONES SOBRE PROTECCION AGRICOLA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-02-09",
     "modifica": [
       "25"
@@ -20242,12 +20296,39 @@
   "7179": {
     "idNorma": 7179,
     "numero": "3558",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NUEVA FECHA DE VIGENCIA DEL SEGURO OBLIGATORIO\nPOR ACCIDENTES DEL TRANSITO",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-02-04",
     "modifica": [
       "3252"
     ],
+    "modificadaPor": []
+  },
+  "7180": {
+    "idNorma": 7180,
+    "numero": "3559",
+    "titulo": "DEROGA ARTICULOS 14° Y 15° DEL DECRETO LEY N° 1.509,\nDE 1976",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1981-01-20",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7181": {
+    "idNorma": 7181,
+    "numero": "3560",
+    "titulo": "CREA EL FONDO DE AUXILIO SOCIAL EN LA DIRECCION DE\nPREVISION DE CARABINEROS DE CHILE",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1981-03-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7182": {
+    "idNorma": 7182,
+    "numero": "3562",
+    "titulo": "MODIFICA DECRETOS LEYES N°S 818, DE 1974, Y 2.081, DE 1977, Y N° 17 DEL ARTICULO 65 DE LA LEY GENERAL DE BANCOS",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1981-01-14",
+    "modifica": [],
     "modificadaPor": []
   },
   "7183": {
