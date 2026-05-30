@@ -1,7 +1,7 @@
 # Decreto Ley N° 3650
 ESTABLECE NORMAS DE CARACTER PRESUPUESTARIO Y DE ADMINISTRACION FINANCIERA
 **Publicada:** 1981-03-11
-**Versión:** 1989-12-31
+**Versión:** 2000-12-13
 ESTABLECE NORMAS DE CARACTER PRESUPUESTARIO Y DE ADMINISTRACION FINANCIERA Núm. 3.650.- Santiago, 10 de Marzo de 1981.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974; y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
 Art�culo 1°- Créanse, en la Partida 50-70 Tesoro Público del Presupuesto vigente, los siguientes aportes: ______________________ En Miles de $ ______________________ 50-01-02-25-33.008 Universidad de Chile_____ 74.960 50-01-02-25-33.009 Universidad Técnica del Estado___________________ 17.380 INCISO SEGUNDO.- DEROGADO.-
 Artículo 2°- Redúcese en la cantidad de $ 92.340 miles, el Item 50-01-02-24-30.007, del presupuesto del Sector Público vigente.
