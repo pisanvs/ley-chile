@@ -13,6 +13,14 @@ Repositorio git que reconstruye el historial completo de cambios en el corpus ju
 | **Last run**  | — |
 <!-- PIPELINE_STATUS_END -->
 
+<!-- GRAPH_STATUS_START -->
+## Graph Build Status
+| | |
+|---|---|
+| **Fetch normas** | `░░░░░░░░░░░░░░░░░░░░` 0% · 0 / 0 normas · fetching… |
+| **Last run**     | — |
+<!-- GRAPH_STATUS_END -->
+
 ## Por qué existe este proyecto
 
 El sistema [LeyChile](https://www.bcn.cl/leychile) de la BCN publica *textos refundidos* — versiones consolidadas que incorporan todas las modificaciones — sin diffs históricos. Este repositorio reconstruye ese historial de cambios haciendo un commit de cada versión de cada ley a medida que fue modificándose.
