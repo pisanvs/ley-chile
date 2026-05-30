@@ -1,6 +1,7 @@
 # Decreto con Fuerza de Ley N° 340
 DECRETO CON FUERZA DE LEY N° 340 SOBRE CONCESIONES MARITIMAS
 **Publicada:** 1960-04-06
+**Versión:** 1975-08-04
 DECRETO CON FUERZA DE LEY N° 340 SOBRE CONCESIONES MARITIMAS Núm. 340.- Santiago , 5 de abril de 1960. El Presidente de la República, de acuerdo con las atribuciones que le confiere el Título VIII de la Ley N° 13.305, publicada en el Diario Oficial N° 24.311, de fecha 6 de abril de 1959, dicta el siguiente DECRETO CON FUERZA DE LEY:
 Artículo 1.° Al Ministerio de Defensa Nacional, Subsecretaría de Marina, corresponde el control, fiscalización y supervigilancia de toda la costa y mar territorial de la República y de los ríos y lagos que son navegables por buques de más de 100 toneladas.
 Art. 2.° Es facultad privativa del Ministerio de Defensa Nacional, Subsecretaría de Marina, conceder el uso particular en cualquier forma, de las playas y terrenos de playas fiscales dentro de una faja de 80 metros de ancho medidos desde la línea de más alta marea de la costa del litoral; como asimismo la concesión de rocas, fondos de mar, porciones de agua dentro y fuera de las bahías; y también las concesiones en ríos o lagos que sean navegables por buques de más de 100 toneladas, o en los que no siéndolo, siempre que se trate de bienes fiscales, en la extensión en que estén afectados por las mareas, de las playas de unos y otros y de los terrenos fiscales riberanos hasta una distancia de 80 metros medidos desde donde comienza la ribera.
