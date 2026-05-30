@@ -1279,8 +1279,8 @@
   "3777": {
     "idNorma": 3777,
     "numero": "8",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE REGIMEN DE REMUNERACIONES Y LA PLANTA DEL\nPERSONAL DEL SERVICIO DE IMPUESTOS INTERNOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1980-10-15",
     "modifica": [],
     "modificadaPor": [
@@ -1642,8 +1642,8 @@
   "4115": {
     "idNorma": 4115,
     "numero": "28",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA EL ESTATUTO DEL PERSONAL DE LA SUPERINTENDENCIA\nDE ADMINISTRADORAS DE FONDOS DE PENSIONES Y DETERMINA\nSU PLANTA Y REGIMEN DE REMUNERACIONES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-03-30",
     "modifica": [
       "3551"
@@ -3005,8 +3005,8 @@
   "5235": {
     "idNorma": 5235,
     "numero": "261",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DECLARA INAPLICABLE LO DISPUESTO EN EL INCISO 3° DEL\nARTICULO 15° DEL D.F.L. N° 94, DE 1960",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1960-04-04",
     "modifica": [
       "1",
@@ -20532,8 +20532,8 @@
   "7183": {
     "idNorma": 7183,
     "numero": "3564",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "AGREGA ARTICULO TRANSITORIO AL D.F.L. (G) No. 1, DE\n1968",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-02-05",
     "modifica": [
       "1"
@@ -20543,8 +20543,8 @@
   "7184": {
     "idNorma": 7184,
     "numero": "3574",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL DECRETO LEY N° 2.564, DE 1979, SOBRE\nAVIACION COMERCIAL Y EL DECRETO CON FUERZA DE LEY N°\n241, DE 1960, ORGANICO DE LA JUNTA DE AERONAUTICA CIVIL",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-02-18",
     "modifica": [
       "2564",
@@ -20555,8 +20555,8 @@
   "7185": {
     "idNorma": 7185,
     "numero": "3575",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL INCISO TERCERO DEL ARTICULO 205 DEL\nDECRETO CON FUERZA DE LEY (G) N° 1, DE 1968, SOBRE\nESTATUTO DEL PERSONAL DE LAS FUERZAS ARMADAS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-02-23",
     "modifica": [
       "1"
@@ -20566,19 +20566,28 @@
   "7186": {
     "idNorma": 7186,
     "numero": "3577",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "TRASPASA FUNCIONES QUE INDICA A LOS SERVICIOS DE\nSALUD",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-02-05",
     "modifica": [
       "274"
     ],
     "modificadaPor": []
   },
+  "7187": {
+    "idNorma": 7187,
+    "numero": "3579",
+    "titulo": "MODIFICA EL CODIGO TRIBUTARIO Y EL DECRETO LEY N°\n825, DE 1974, EN LA FORMA QUE INDICA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1981-02-12",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7188": {
     "idNorma": 7188,
     "numero": "3580",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA Y COMPLEMENTA LEGISLACION ADUANERA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-01-19",
     "modifica": [
       "1055"
@@ -20588,8 +20597,8 @@
   "7189": {
     "idNorma": 7189,
     "numero": "3581",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA TEXTOS LEGALES QUE SEÑALA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-01-21",
     "modifica": [
       "252",
@@ -20601,30 +20610,66 @@
   "7190": {
     "idNorma": 7190,
     "numero": "3582",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL ARTICULO 57 DEL DECRETO CON FUERZA DE\nLEY (G) N° 1, DE 1968, SOBRE ESTATUTO DEL PERSONAL DE\nLAS FUERZAS ARMADAS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-02-23",
     "modifica": [
       "1"
     ],
     "modificadaPor": []
   },
+  "7191": {
+    "idNorma": 7191,
+    "numero": "3583",
+    "titulo": "MODIFICA LOS CODIGOS ORGANICO DE TRIBUNALES Y DEL TRABAJO LOS DECRETOS LEYES N°S. 1.179, DE 1975 Y 2.416, DE 1979; LA LEY N° 16.441, QUE CREO EL DEPARTAMENTO DE ISLA DE PASCUA, Y LA LEY N° 17.105, SOBRE ALCOHOLES, BEBIDAS ALCOHOLICAS Y VINAGRES, Y DEROGA LA LEY N° 13.313",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1981-01-29",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7192": {
+    "idNorma": 7192,
+    "numero": "3606",
+    "titulo": "DECLARA NO AFECTOS A LA LEY SOBRE IMPUESTO A LA\nRENTA INGRESOS QUE SEÑALA. SANCIONA INFRACCIONES AL\nD.F.L. N° 1.385 DE 1980",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1981-01-19",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7193": {
     "idNorma": 7193,
     "numero": "3607",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DEROGA DL. N° 194, DE 1973, Y ESTABLECE NUEVAS NORMAS SOBRE FUNCIONAMIENTO DE VIGILANTES PRIVADOS",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-01-08",
     "modifica": [],
     "modificadaPor": [
       1021537
     ]
   },
+  "7194": {
+    "idNorma": 7194,
+    "numero": "3618",
+    "titulo": "MODIFICA LA LEY N° 17.301, QUE CREO LA JUNTA\nNACIONAL DE JARDINES INFANTILES",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1981-02-24",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7195": {
+    "idNorma": 7195,
+    "numero": "3621",
+    "titulo": "FIJA NORMAS SOBRE COLEGIOS PROFESIONALES",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1981-02-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7196": {
     "idNorma": 7196,
     "numero": "3625",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE MODIFICACIONES A LOS DECRETOS LEYES N°S. 3.501, DE 1980, Y 889, DE 1975",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-02-21",
     "modifica": [
       "3501"
@@ -20634,8 +20679,8 @@
   "7197": {
     "idNorma": 7197,
     "numero": "3626",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "INTRODUCE MODIFICACIONES A LOS DECRETOS LEYES N°s\n3.500, DE 1980; Y 824, DE 1974",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-02-21",
     "modifica": [
       "824",
@@ -20643,11 +20688,20 @@
     ],
     "modificadaPor": []
   },
+  "7198": {
+    "idNorma": 7198,
+    "numero": "3627",
+    "titulo": "ESTABLECE COMPETENCIA DE TRIBUNALES MILITARES DE TIEMPO DE GUERRA EN SITUACIONES QUE INDICA",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1981-02-21",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7199": {
     "idNorma": 7199,
     "numero": "3628",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETO LEY N° 3.551, QUE FIJO NORMAS SOBRE\nREMUNERACIONES DEL PERSONAL DEL SECTOR PUBLICO",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-02-25",
     "modifica": [
       "3528",
