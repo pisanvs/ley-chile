@@ -1,0 +1,8 @@
+# Decreto N° 162
+CREA ITEM PARA DAR CUMPLIMIENTO AL D.L. N° 442, DE
+1974, SOBRE SUBSIDIOS A LOS PRODUCTORES LECHEROS
+**Publicada:** 1976-03-19
+CREA ITEM PARA DAR CUMPLIMIENTO AL D.L. N° 442, DE 1974, SOBRE SUBSIDIOS A LOS PRODUCTORES LECHEROS Santiago, 16 de Febrero de 1976.- Hoy se decretó lo que sigue: Núm. 162.- Visto: El D.L. N° 442, de 1974, el Art. 21 del D.L. N° 1.263, de 1975; el dictamen N° 83.669 de la Contraloría General de la República, de fecha 20 de Noviembre de 1975, y el D.L. N° 1.278, de 1975, Decreto:
+1°.- Créase el siguiente ítem y asignación en el Presupuesto del Ministerio de Hacienda con la suma que se indica, y pónganse los fondos a disposición de la institución que se señala. MINISTERIO DE HACIENDA Secretaría y Administración General. Transferencias a Empresas del Sector Público Empresa de Comercio Agrícola __ __ __ $ 1.000.000,- Para cancelar bonificación a productores lecheros, D.L. N° 442/74 08 01 04 44 33 001 2.- Modifícase el Presupuesto de 1976, de la Empresa de Comercio Agrícola aprobado por el D.L. N° 1.278, de 1975, como a continuación se señala: Se crea el siguiente ítem: 100- Ingresos Corrientes 1.300- Transferencias Corrientes 1.310- Aporte Fiscal - Del ítem: 08 01 04 44 33 001 $ 1.000.000,- Supleméntase el siguiente ítem: III- Gastos Corrientes 2- Bienes de Consumo y Servicios no Personales 18- Obligaciones pendientes __ $ 1.000.000,-
+---
+Refréndese, tómese razón, comuníquese y publíquese.- Pedro Larrondo Jara, Capitán de Navío (AB), Ministro de Hacienda subrogante.- Sergio de Castro Spikula, Ministro de Economía, Fomento y Reconstrucción. Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud.- Pedro Larrondo Jara, Capitán de Navío (AB), Subsecretario de Hacienda.
