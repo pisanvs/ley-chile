@@ -140,6 +140,11 @@
     "fechaPublicacion": "1983-03-30"
   },
   {
+    "idNorma": 3427,
+    "tipo": "dfl",
+    "fechaPublicacion": "1987-04-24"
+  },
+  {
     "idNorma": 3428,
     "tipo": "dfl",
     "fechaPublicacion": "1987-04-28"
@@ -203,6 +208,11 @@
     "idNorma": 3516,
     "tipo": "dfl",
     "fechaPublicacion": "1986-07-19"
+  },
+  {
+    "idNorma": 3517,
+    "tipo": "dfl",
+    "fechaPublicacion": "1987-03-30"
   },
   {
     "idNorma": 3548,
@@ -290,9 +300,19 @@
     "fechaPublicacion": "1970-05-27"
   },
   {
+    "idNorma": 3662,
+    "tipo": "dfl",
+    "fechaPublicacion": "1979-01-31"
+  },
+  {
     "idNorma": 3668,
     "tipo": "dfl",
     "fechaPublicacion": "1981-02-16"
+  },
+  {
+    "idNorma": 3676,
+    "tipo": "dfl",
+    "fechaPublicacion": "1983-11-15"
   },
   {
     "idNorma": 3702,
@@ -303,6 +323,11 @@
     "idNorma": 3722,
     "tipo": "dfl",
     "fechaPublicacion": "1990-04-28"
+  },
+  {
+    "idNorma": 3744,
+    "tipo": "dfl",
+    "fechaPublicacion": "1979-03-26"
   },
   {
     "idNorma": 3747,
@@ -493,6 +518,11 @@
     "idNorma": 4173,
     "tipo": "dfl",
     "fechaPublicacion": "1983-06-07"
+  },
+  {
+    "idNorma": 4180,
+    "tipo": "dfl",
+    "fechaPublicacion": "1959-11-16"
   },
   {
     "idNorma": 4197,
@@ -1025,6 +1055,11 @@
     "fechaPublicacion": "1960-04-06"
   },
   {
+    "idNorma": 5473,
+    "tipo": "dfl",
+    "fechaPublicacion": "1960-04-06"
+  },
+  {
     "idNorma": 5488,
     "tipo": "dfl",
     "fechaPublicacion": "1953-08-05"
@@ -1065,6 +1100,11 @@
     "fechaPublicacion": "1964-02-20"
   },
   {
+    "idNorma": 5590,
+    "tipo": "dfl",
+    "fechaPublicacion": "1993-12-16"
+  },
+  {
     "idNorma": 5594,
     "tipo": "dfl",
     "fechaPublicacion": "1982-10-07"
@@ -1078,6 +1118,11 @@
     "idNorma": 5596,
     "tipo": "dfl",
     "fechaPublicacion": "1978-12-12"
+  },
+  {
+    "idNorma": 5606,
+    "tipo": "dfl",
+    "fechaPublicacion": "1981-12-21"
   },
   {
     "idNorma": 5624,
@@ -53158,6 +53203,11 @@
     "idNorma": 93888,
     "tipo": "ley",
     "fechaPublicacion": "1998-02-10"
+  },
+  {
+    "idNorma": 94802,
+    "tipo": "dto",
+    "fechaPublicacion": "1989-06-12"
   },
   {
     "idNorma": 96030,
