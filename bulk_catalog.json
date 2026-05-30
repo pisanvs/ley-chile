@@ -315,6 +315,11 @@
     "fechaPublicacion": "1980-10-15"
   },
   {
+    "idNorma": 3799,
+    "tipo": "dto",
+    "fechaPublicacion": "1963-03-06"
+  },
+  {
     "idNorma": 3801,
     "tipo": "dfl",
     "fechaPublicacion": "1968-01-26"
@@ -505,6 +510,11 @@
     "fechaPublicacion": "1978-07-24"
   },
   {
+    "idNorma": 4252,
+    "tipo": "dfl",
+    "fechaPublicacion": "1978-07-24"
+  },
+  {
     "idNorma": 4260,
     "tipo": "dfl",
     "fechaPublicacion": "1953-04-17"
@@ -628,6 +638,11 @@
     "idNorma": 4670,
     "tipo": "dfl",
     "fechaPublicacion": "1953-06-18"
+  },
+  {
+    "idNorma": 4712,
+    "tipo": "dfl",
+    "fechaPublicacion": "1982-11-24"
   },
   {
     "idNorma": 4717,
@@ -8353,6 +8368,11 @@
     "idNorma": 7381,
     "tipo": "dto",
     "fechaPublicacion": "1965-08-10"
+  },
+  {
+    "idNorma": 7402,
+    "tipo": "dto",
+    "fechaPublicacion": "1963-03-06"
   },
   {
     "idNorma": 7478,
@@ -53318,6 +53338,11 @@
     "idNorma": 124100,
     "tipo": "ley",
     "fechaPublicacion": "1998-09-14"
+  },
+  {
+    "idNorma": 124245,
+    "tipo": "dto",
+    "fechaPublicacion": "1943-06-01"
   },
   {
     "idNorma": 124810,
