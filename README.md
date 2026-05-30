@@ -17,8 +17,8 @@ Repositorio git que reconstruye el historial completo de cambios en el corpus ju
 ## Graph Build Status
 | | |
 |---|---|
-| **Fetch normas** | `░░░░░░░░░░░░░░░░░░░░` 0% · 0 / 0 normas · fetching… |
-| **Last run**     | — |
+| **Fetch normas** | `█████░░░░░░░░░░░░░░░` 25% · 91,250 / 358,221 normas · fetching… |
+| **Last run**     | 2026-05-30 03:50 UTC |
 <!-- GRAPH_STATUS_END -->
 
 ## Por qué existe este proyecto
