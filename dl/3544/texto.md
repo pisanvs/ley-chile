@@ -1,0 +1,15 @@
+# Decreto Ley N° 3544
+SUPRIME LA DIRECCION DE PAVIMENTACION DE SANTIAGO Y
+MODIFICA LEY N° 11.150 EN LA FORMA QUE INDICA
+**Publicada:** 1981-01-13
+SUPRIME LA DIRECCION DE PAVIMENTACION DE SANTIAGO Y MODIFICA LEY N° 11.150 EN LA FORMA QUE INDICA Santiago, 16 de Diciembre de 1980.- Hoy se decretó lo que sigue: Núm. 3.544.- Visto: Lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974; y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente, Decreto ley:
+Artículo 1°- Suprímese a contar de la publicación de este decreto ley, la Dirección de Pavimentación de Santiago y traspásanse sus atribuciones, funciones, derechos y obligaciones a la Municipalidad de Santiago, que será su continuadora legal.
+Artículo 2°- El presupuesto de la Municipalidad de Santiago se entenderá incrementado con los recursos de la Dirección de Pavimentación de Santiago, desde la vigencia de este cuerpo legal.
+Artículo 3°- La dotación de personal de la Dirección de Pavimentación de Santiago, fijada en la Ley de Presupuesto vigente, incrementará la dotación del personal de la Municipalidad de Santiago.
+Artículo 4°- Facúltase al Presidente de la República para que dentro del plazo de un año, contado desde la publicación de este decreto ley, modifique la planta del personal de la Municipalidad de Santiago y la identificación de cargos y escalafones, contempladas en el artículo 255 del decreto con fuerza de ley N° 1.166, de 1977, y para que a proposición del Alcalde, reencasille en la planta de la Municipalidad de Santiago al personal que, a la fecha de la vigencia de este cuerpo legal, se encuentre desempeñando funciones en la Dirección de Pavimentación.
+Artículo 5°- El personal que no fuere reencasillado gozará del beneficio contemplado en la letra e) del artículo 29 del decreto ley N° 2.879, de 1979.
+Artículo 6°- Reemplázase en la ley N° 11.150 las expresiones: "Dirección de Pavimentación de Santiago", "Dirección de Pavimentación" y "Oficina" por la siguiente: "Municipalidad de Santiago".
+Artículo 7°- Autorízase a la Municipalidad de Santiago para convenir o contratar con particulares la pavimentación o reparación de calzadas y aceras de la comuna, sujeta al cumplimiento de las normas técnicas y a la fiscalización de aquella.
+Artículo 8°- Deróganse el artículo 25 de la ley número 8.946 y los incisos terceros, cuarto y final del artículo 8° de la ley número 11.150.
+---
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernandez, Ministro del Interior.- Sergio de Castro Spikula, Ministro de Hacienda. Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Enrique Montero Marx, General de Brigada Aérea (J), Ministro Subsecretario del Interior.
