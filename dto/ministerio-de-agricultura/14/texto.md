@@ -1,0 +1,9 @@
+# Decreto N° 14
+CONCEDE AUTORIZACION AL INSTITUTO DE DESARROLLO
+AGROPECUARIO PARA LOS EFECTOS DEL DECRETO LEY N° 2.568,
+DE 1979
+**Publicada:** 1980-01-30
+CONCEDE AUTORIZACION AL INSTITUTO DE DESARROLLO AGROPECUARIO PARA LOS EFECTOS DEL DECRETO LEY N° 2.568, DE 1979 Santiago, 9 de Enero de 1980.- Hoy se decretó lo que sigue: Núm. 14.- Vistos: Lo dispuesto en los artículos 8 y 9 del decreto ley N° 2.568, de 1979, y lo establecido en los decretos leyes N.os 1, de 1973; 527 y 806, de 1974, y Considerando: La conveniencia de otorgar títulos de dominio a los pequeños agricultores que se encuentren en posesión de los terrenos que ocupan y con ello normalizar la propiedad agrícola en las regiones VIII, IX y X, Decreto:
+Concédese al Instituto de Desarrollo Agropecuario la autorización requerida en el artículo 9° del decreto ley N° 2.568, de 1979, para dar aplicación al artículo 8° del mismo decreto ley, en las siguientes comunas: VIII REGION Provincia Bío-Bío Comunas: Santa Bárbara Mulchén Provincia de Arauco Comunas: Los Alamos Cañete Contulmo Tirúa IX REGION Provincia Malleco Comunas: Angol Renaico Collipulli Lonquimay Curacautín Ercilla Victoria Traiguén Lumaco Purén Los Sauces Provincia Cautín Comunas: Temuco Lautaro Perquenco Vilcún Cunco Melipeuco Curarrehue Pucón Villarrica Toltén Teodoro Schmidt Saavedra Carahue Nueva Imperial Galvarino X REGION Provincia Valdivia Comunas: Valdivia Mariquina Lanco Futrono Máfil Panguipulli La Unión Paillaco Río Bueno Lago Ranco Provincia de Osorno Comunas: Puerto Octay Purranque Río Negro San Juan de la Costa
+---
+Tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura.- Luis Simón Figueroa del Río, Ministro de Tierras y Colonización subrogante. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- José Luis Toro Hevia, Subsecretario de Agricultura.
