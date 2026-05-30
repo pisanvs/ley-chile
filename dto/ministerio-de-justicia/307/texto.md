@@ -2,7 +2,7 @@
 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE
 LA LEY N° 15.231
 **Publicada:** 1978-05-23
-**Versión:** 1987-01-29
+**Versión:** 1990-02-15
 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY N° 15.231 Santiago, 3 de Marzo de 1978.- Hoy se decretó lo que sigue: Núm. 307.- Teniendo presente: Que es necesario introducir a la ley N° 15.231, sobre Organización y Atribuciones de los Juzgados de Policía Local, las diversas modificaciones de que ha sido objeto, coordinando y sistematizando debidamente sus disposiciones actualizadas; Que es recomendable, asimismo, por razones de buen orden administrativo y de utilidad práctica, señalar detenidamente, mediante notas marginales, las fuentes legales en que se originan las modificaciones experimentadas por los distintos preceptos, e indicar, al mismo tiempo, la relación de la nueva numeración del articulado de la ley con la de su texto original, y Vistas: las facultades que me otorga el D.L. N° 2.042, de 1977, Decreto: Fíjase el siguiente texto refundido, coordinado y sistematizado de la ley N° 15.231.
 ## TITULO I De los Jueces de Policía Local
 Artículo 1°.- La Organización y Atribuciones de los Ley 15.231, Juzgados de Policía Local se regirán por las disposiciones Art. 1° de la presente ley.
@@ -76,7 +76,7 @@ Artículo 63° Los Tribunales de Justicia o los Juzgados de Policía Local podr�
 ~~ARTICULO 64°.- DEROGADO.-~~
 Artículo 65° Investigaciones de Chile deberá cumplir las órdenes de investigación o arresto que emitan los Jueces de Policía Local en las causas de que conozcan, sin perjuicio de los deberes de Carabineros de Chile en esta materia.
 Artículo 66°.- En todo accidente del tránsito en que se Ley 15.231, produjeren lesiones o muerte de personas, el conductor que participe en los hechos estará obligado a detener su Art. 69° marcha, a prestar la ayuda que fuere necesaria y dar cuenta a la autoridad policial más inmediata. Se presumirá la culpabilidad del conductor que no lo hiciere y abandonare el lugar del accidente.
-Artículo 67°.- Salvo prueba en contrario, las Ley 15.231. infracciones que se deriven del mal estado y condiciones del Art. 70° vehículo serán imputables a su propietario, sin perjuicio de la responsabilidad que corresponda al conductor. También serán imputables al propietario, las contravenciones cometidas por un conductor que no haya sido individualizado, salvo que aquél acredite que el vehículo le fue tomado sin su conocimiento o sin su autorización expresa o tácita.
+ARTICULO 67°.- En los casos en que concurrieren, en un accidente del tránsito, infracciones que son el medio para la comisión de un delito o cuasidelito o que sean elementos integrantes de éstos, conocerá únicamente el Juez del Crimen. Si se dictare sobreseimiento definitivo, se enviarán los antecedentes al Juez de Policía Local para que conozca de las infracciones.
 Artículo 68°.- Si el vehículo perteneciere a una persona que no esté radicada en el país no se permitirá la Ley 15.231. salida de dicho vehículo del territorio nacional mientras Art. 71° se encuentre pendiente el proceso en el cual se discute la responsabilidad penal, civil o contravencional del dueño. En todo caso, si se rinde caución suficiente, podrá solicitarse del Tribunal correspondiente que alce la anterior prohibición, comunicando a las oficinas de Aduanas la resolución que se dicte.
 ~~ARTICULO 69.- DEROGADO~~
 ~~ARTICULO 70.- DEROGADO~~
