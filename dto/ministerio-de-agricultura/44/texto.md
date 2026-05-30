@@ -1,6 +1,7 @@
 # Decreto N° 44
 APRUEBA EL REGLAMENTO ORGANICO DEL SERVICIO AGRICOLA Y GANADERO
 **Publicada:** 1968-02-13
+**Versión:** 1989-01-07
 APRUEBA EL REGLAMENTO ORGANICO DEL SERVICIO AGRICOLA Y GANADERO Santiago, 16 Enero de 1968.- Hoy se decretó lo que sigue: Núm. 44.- Vistos: el Art. 72º, Nº 2, de la Constitución Política del Estado; el Art. 10 transitorio de la ley Nº 16.640; las disposiciones legales y reglamentarias relativas a la ex Dirección de Agricultura y Pesca y lo establecido en los Art. 229, letra k) y 257, del mismo texto legal, Decreto: Apruébase el siguiente Reglamento Orgánico del Servicio Agrícola y Ganadero:
 ## ~~TITULO I Organización, funciones y atribuciones~~
 ~~Artículo 1º.- El Servicio Agrícola y Ganadero es una persona jurídica de derecho público, empresa autónoma del Estado, de duración indefinida, con patrimonio propio y con plena capacidad para adquirir; ejercer derechos y contraer obligaciones. El Servicio Agrícola y Ganadero formará parte del Sector Agrícola y se relacionará con el Gobierno a través del Ministerio de Agricultura. Para todos los efectos legales, el domicilio del Servicio Agrícola y Ganadero será la ciudad de Santiago, sin perjuicio de los domicilios especiales que pueda establecer con acuerdo del Consejo.~~
