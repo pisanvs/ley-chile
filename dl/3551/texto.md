@@ -1,7 +1,7 @@
 # Decreto Ley N° 3551
 FIJA NORMAS SOBRE REMUNERACIONES Y SOBRE PERSONAL PARA EL SECTOR PUBLICO
 **Publicada:** 1981-01-02
-**Versión:** 1994-12-03
+**Versión:** 2012-08-30
 FIJA NORMAS SOBRE REMUNERACIONES Y SOBRE PERSONAL PARA EL SECTOR PUBLICO Núm. 3.551.- Santiago, 26 de Diciembre de 1980.- Visto: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974; y 991, de 1976. La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente: Decreto ley:
 ## TITULO I De la Contraloría General de la República y de las Instituciones Fiscalizadoras
 ARTICULO 1°- La Contraloría General de la República, la Fiscalía Nacional Económica, el Servicio Nacional de Aduanas, la Dirección del Trabajo y la Superintendencia de Seguridad Social dejarán de regirse por el sistema de remuneraciones establecido en el decreto ley N° 249, de 1974, sin perjuicio de lo dispuesto en el artículo 7°.
