@@ -1,0 +1,7 @@
+# Decreto N° 366
+MODIFICA ARTICULO 4°, DEL DFL. N° 262, DE 1977
+**Publicada:** 1985-06-01
+MODIFICA ARTICULO 4°, DEL DFL. N° 262, DE 1977 Núm. 366.- Santiago, 22 de Abril de 1985.- Visto: El artículo 14, del DFL. N° 262, de 1977, del Ministerio de Hacienda y el artículo 36, de la Ley N° 18.382, Decreto:
+Sustitúyese el texto de la letra a) del inciso segundo del artículo 4°, del decreto con fuerza de ley N° 262, de Hacienda, de 1977, fijado en el decreto N° 188, de 1985, del mismo Ministerio, por el siguiente: "a) Los funcionarios que ocupen alguno de los 5 primeros niveles jerárquicos de la entidad respectiva, tendrán derecho, en orden descendente, a la misma cantidad que corresponda a los funcionarios de los grados 1-B, 1-C, 2°, 3° y 4°, de la Escala Unica antes aludida. No obstante los funcionarios F/G y grado 1-B de la escala del artículo 5° del decreto ley N° 3.551, de 1981, tendrá derecho al viático que corresponda a las autoridades de grado II a que se refiere el artículo 45 de dicho decreto ley. Para los efectos del cálculo del viático que corresponda al personal municipal, deberá estarse a los niveles jerárquicos que ocupen de acuerdo a la escala esquemática del artículo 23 del decreto ley N° 3.551 antes mencionado.
+---
+Tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Hernán Büchi Buc, Ministro de Hacienda. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Manuel Concha Martínez, Coronel de Ejército, Subsecretario de Hacienda.
