@@ -17,8 +17,8 @@ Repositorio git que reconstruye el historial completo de cambios en el corpus ju
 ## Graph Build Status
 | | |
 |---|---|
-| **Fetch normas** | `█████░░░░░░░░░░░░░░░` 25% · 91,250 / 358,221 normas · fetching… |
-| **Last run**     | 2026-05-30 03:50 UTC |
+| **Fetch normas** | `████████░░░░░░░░░░░░` 40% · 143,788 / 358,221 normas · fetching… |
+| **Last run**     | 2026-05-30 09:52 UTC |
 <!-- GRAPH_STATUS_END -->
 
 > **Sobre estas barras.** *Graph Build Status* sigue la construcción única del grafo de metadatos (`graph.json`): `fetch_normas.py` descarga la metadata de las ~358 mil normas del catálogo BCN en tandas de 6 horas, y la barra avanza en cada corrida del workflow `update-graph`. Al llegar al ~95% el grafo se publica y se habilita la fase siguiente. *Pipeline Status* sigue lo que viene después: cuántas normas tienen ya su historial de versiones reconstruido en la branch `historial`. Este repo aún está en proceso de germinación. Lo entretenido llega al terminar esta fase!
