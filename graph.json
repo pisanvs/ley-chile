@@ -1008,8 +1008,8 @@
   "3565": {
     "idNorma": 3565,
     "numero": "3",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "APRUEBA REGLAMENTO DE OPERACIONES ADUANERAS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-02-13",
     "modifica": [],
     "modificadaPor": [
@@ -20792,11 +20792,20 @@
     ],
     "modificadaPor": []
   },
+  "7200": {
+    "idNorma": 7200,
+    "numero": "3630",
+    "titulo": "DICTA NORMAS PARA EL SERVICIO DE REGISTRO CIVIL E IDENTIFICACION",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1981-02-28",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7201": {
     "idNorma": 7201,
     "numero": "3631",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA NORMAS SOBRE UNIVERSIDADES",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-02-28",
     "modifica": [
       "3434",
@@ -20804,11 +20813,20 @@
     ],
     "modificadaPor": []
   },
+  "7202": {
+    "idNorma": 7202,
+    "numero": "3632",
+    "titulo": "MODIFICA ARTICULOS 516 Y 549 DEL CODIGO ORGANICO DE\nTRIBUNALES",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1981-03-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7203": {
     "idNorma": 7203,
     "numero": "3634",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA EL CODIGO ORGANICO DE TRIBUNALES Y EL\nDECRETO LEY N° 321, DE 1925, SOBRE LIBERTAD CONDICIONAL,\nEN LOS ARTICULOS QUE INDICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-03-07",
     "modifica": [
       "321"
@@ -20818,19 +20836,37 @@
   "7204": {
     "idNorma": 7204,
     "numero": "3636",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA DECRETO LEY N° 3.607, DE 1981",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-03-04",
     "modifica": [
       "3607"
     ],
     "modificadaPor": []
   },
+  "7205": {
+    "idNorma": 7205,
+    "numero": "3637",
+    "titulo": "MODIFICA DISPOSICIONES QUE INDICA",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1981-03-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
+  "7206": {
+    "idNorma": 7206,
+    "numero": "3638",
+    "titulo": "SUPRIME EL PAGO DE REGALIAS AL DUEÑO DEL SUELO A QUE\nESTAN AFECTOS LOS TITULARES DE CONCESIONES CARBONIFERAS",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1981-03-07",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7207": {
     "idNorma": 7207,
     "numero": "3642",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICA D.L. 3.260 QUE ESTABLECE REGIMEN DE\nGOBIERNO Y ADMINISTRACION DE LA REGION METROPOLITANA DE\nSANTIAGO",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-03-07",
     "modifica": [
       "3260"
@@ -20840,19 +20876,28 @@
   "7208": {
     "idNorma": 7208,
     "numero": "3643",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "MODIFICACION AL D.F.L. 223 DE 1953 Y AL D.L. 2.067\nDE 1977",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-03-11",
     "modifica": [
       "2067"
     ],
     "modificadaPor": []
   },
+  "7209": {
+    "idNorma": 7209,
+    "numero": "3645",
+    "titulo": "MODIFICA DECRETO LEY N° 1.877, DE 1977",
+    "clasificacion": "modificatoria",
+    "fechaPublicacion": "1981-03-10",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7210": {
     "idNorma": 7210,
     "numero": "3648",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DETERMINA JURISDICCION EN MATERIAS LABORALES; CREA, EN SANTIAGO, SEIS NUEVOS JUZGADOS EN LO CIVIL, Y ESTABLECE PROCEDIMIENTO JUDICIAL PARA CAUSAS DEL TRABAJO.",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-03-10",
     "modifica": [
       "2201"
@@ -20862,8 +20907,8 @@
   "7212": {
     "idNorma": 7212,
     "numero": "3650",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTABLECE NORMAS DE CARACTER PRESUPUESTARIO Y DE ADMINISTRACION FINANCIERA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-03-11",
     "modifica": [
       "338",
@@ -20877,8 +20922,8 @@
   "7213": {
     "idNorma": 7213,
     "numero": "3651",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA PLANTA DE LA CONTRALORIA GENERAL DE LA REPUBLICA",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-03-11",
     "modifica": [
       "3551"
@@ -20888,8 +20933,8 @@
   "7214": {
     "idNorma": 7214,
     "numero": "3652",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DEROGA ARTICULO 6° DEL DECRETO LEY N° 2.552, DE 1979\nY DECLARA COMO LICITOS Y AJUSTADOS A DERECHO LOS COBROS\nPOR APORTES A OBRAS GENERALES",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1981-03-11",
     "modifica": [
       "2552"
@@ -20899,19 +20944,28 @@
   "7216": {
     "idNorma": 7216,
     "numero": "3655",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "SUSTITUYE ARTICULO UNICO DEL DECRETO LEY N° 3.627, DE 1981",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-03-17",
     "modifica": [
       "3627"
     ],
     "modificadaPor": []
   },
+  "7217": {
+    "idNorma": 7217,
+    "numero": "3659",
+    "titulo": "DISPONE TERMINO DE EXISTENCIA LEGAL DE LA EMPRESA DE TRANSPORTES COLECTIVOS DEL ESTADO",
+    "clasificacion": "sustantiva",
+    "fechaPublicacion": "1981-04-08",
+    "modifica": [],
+    "modificadaPor": []
+  },
   "7218": {
     "idNorma": 7218,
     "numero": "3660",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "RENUEVA EN LAS CONDICIONES QUE SEÑALA LA FACULTAD\nCONFERIDA AL PRESIDENTE DE LA REPUBLICA POR EL ARTICULO\nSEGUNDO TRANSITORIO DEL DECRETO LEY N° 3.274",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1981-04-04",
     "modifica": [
       "3274"
@@ -20921,8 +20975,8 @@
   "7251": {
     "idNorma": 7251,
     "numero": "2",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "TEXTO DEFINITIVO DE LA LEY ORGANICA DEL CONSEJO DE DEFENSA FISCAL",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1933-01-18",
     "modifica": [],
     "modificadaPor": [
@@ -20932,8 +20986,8 @@
   "7252": {
     "idNorma": 7252,
     "numero": "2",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "ESTATUTO ORGANICO DEL SERVICIO DE IMPUESTOS INTERNOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1963-05-16",
     "modifica": [],
     "modificadaPor": [
