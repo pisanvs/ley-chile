@@ -73,6 +73,35 @@ jobs:
           fi
           cp ./cache/fetch_normas_progress.json . 2>/dev/null && echo "Restored fetch_normas_progress.json" || echo "No progress file in cache"
 
+      # ── Update README progress bar (Graph Build Status) ──────────────────────
+      # Renders fetch_normas progress (graph nodes / catalog total) into the
+      # GRAPH_STATUS section of README.md on main.  Runs here — on the reliable
+      # path, before the long fetch — using the state just restored from cache,
+      # so it always executes (the end-of-run save races the 6h cancellation
+      # grace window).  The bar therefore reflects cumulative progress as of the
+      # previous run, updating roughly once per 6h run.
+      - name: Update README progress bar
+        run: |
+          if [ ! -f catalog.json ] || { [ ! -d graph_shards ] && [ ! -f graph.json ]; }; then
+            echo "No catalog/graph yet — skipping README update"
+            exit 0
+          fi
+          python scripts/update_readme_status.py --section graph \
+            --readme README.md \
+            --graph-path ./graph.json \
+            --catalog-path ./catalog.json
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README unchanged"
+          else
+            git commit -m "chore: update graph progress bar [skip ci]"
+            for i in 1 2 3; do
+              git push origin "${{ github.ref_name }}" && break
+              git fetch origin "${{ github.ref_name }}" && git rebase "origin/${{ github.ref_name }}" || git rebase --abort
+              sleep $((i * 3))
+            done
+          fi
+
       # ── Step 1: build / refresh catalog ─────────────────────────────────────
       # build_catalog.py skips automatically if catalog.json is complete and
       # younger than 7 days (restored from cache above).  On first run it fetches
