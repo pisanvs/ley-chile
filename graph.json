@@ -1097,8 +1097,8 @@
   "3566": {
     "idNorma": 3566,
     "numero": "3",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "DEROGA FRANQUICIAS ADUANERAS QUE INDICA",
+    "clasificacion": "modificatoria",
     "fechaPublicacion": "1979-12-29",
     "modifica": [
       "1254"
@@ -1292,8 +1292,8 @@
   "3662": {
     "idNorma": 3662,
     "numero": "5",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "AGREGA ARTICULO QUE INDICA AL DECRETO LEY N° 1.094,\nDE 1975",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1979-01-31",
     "modifica": [
       "1094"
@@ -1316,8 +1316,8 @@
   "3676": {
     "idNorma": 3676,
     "numero": "5",
-    "titulo": "",
-    "clasificacion": "",
+    "titulo": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL DECRETO CON FUERZA DE LEY 34, DE 1931, QUE LEGISLA SOBRE LA INDUSTRIA PESQUERA Y SUS DERIVADOS",
+    "clasificacion": "sustantiva",
     "fechaPublicacion": "1983-11-15",
     "modifica": [],
     "modificadaPor": [
