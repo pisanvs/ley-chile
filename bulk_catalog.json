@@ -175,6 +175,11 @@
     "fechaPublicacion": "1967-09-29"
   },
   {
+    "idNorma": 3486,
+    "tipo": "dfl",
+    "fechaPublicacion": "1967-10-25"
+  },
+  {
     "idNorma": 3487,
     "tipo": "dfl",
     "fechaPublicacion": "1968-08-01"
@@ -680,6 +685,11 @@
     "fechaPublicacion": "1960-04-05"
   },
   {
+    "idNorma": 4950,
+    "tipo": "dfl",
+    "fechaPublicacion": "1960-04-05"
+  },
+  {
     "idNorma": 4980,
     "tipo": "dfl",
     "fechaPublicacion": "1960-03-29"
@@ -728,6 +738,11 @@
     "idNorma": 5096,
     "tipo": "dfl",
     "fechaPublicacion": "1931-05-30"
+  },
+  {
+    "idNorma": 5104,
+    "tipo": "dfl",
+    "fechaPublicacion": "1953-07-30"
   },
   {
     "idNorma": 5107,
@@ -851,6 +866,11 @@
   },
   {
     "idNorma": 5252,
+    "tipo": "dfl",
+    "fechaPublicacion": "1960-04-06"
+  },
+  {
+    "idNorma": 5268,
     "tipo": "dfl",
     "fechaPublicacion": "1960-04-06"
   },
@@ -8625,6 +8645,11 @@
     "fechaPublicacion": "1985-06-01"
   },
   {
+    "idNorma": 12828,
+    "tipo": "dto",
+    "fechaPublicacion": "1979-02-15"
+  },
+  {
     "idNorma": 13031,
     "tipo": "dto",
     "fechaPublicacion": "1978-04-13"
@@ -8778,6 +8803,11 @@
     "idNorma": 14205,
     "tipo": "dto",
     "fechaPublicacion": "1985-06-29"
+  },
+  {
+    "idNorma": 14320,
+    "tipo": "dto",
+    "fechaPublicacion": "1967-04-27"
   },
   {
     "idNorma": 14470,
@@ -9068,6 +9098,11 @@
     "idNorma": 19303,
     "tipo": "dto",
     "fechaPublicacion": "1979-11-20"
+  },
+  {
+    "idNorma": 19343,
+    "tipo": "dto",
+    "fechaPublicacion": "1941-10-09"
   },
   {
     "idNorma": 19386,
@@ -91980,6 +92015,11 @@
     "fechaPublicacion": "2007-10-02"
   },
   {
+    "idNorma": 265174,
+    "tipo": "dfl",
+    "fechaPublicacion": "2007-10-02"
+  },
+  {
     "idNorma": 265227,
     "tipo": "ley",
     "fechaPublicacion": "2007-10-03"
@@ -99528,6 +99568,11 @@
     "idNorma": 1122387,
     "tipo": "ley",
     "fechaPublicacion": "1936-12-26"
+  },
+  {
+    "idNorma": 1122966,
+    "tipo": "dfl",
+    "fechaPublicacion": "2018-09-11"
   },
   {
     "idNorma": 1123020,
