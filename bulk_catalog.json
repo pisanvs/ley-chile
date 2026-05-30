@@ -300,6 +300,11 @@
     "fechaPublicacion": "1971-10-14"
   },
   {
+    "idNorma": 3777,
+    "tipo": "dfl",
+    "fechaPublicacion": "1980-10-15"
+  },
+  {
     "idNorma": 3801,
     "tipo": "dfl",
     "fechaPublicacion": "1968-01-26"
@@ -433,6 +438,11 @@
     "idNorma": 4078,
     "tipo": "dfl",
     "fechaPublicacion": "1963-04-04"
+  },
+  {
+    "idNorma": 4115,
+    "tipo": "dfl",
+    "fechaPublicacion": "1981-03-30"
   },
   {
     "idNorma": 4128,
@@ -821,6 +831,11 @@
   },
   {
     "idNorma": 5223,
+    "tipo": "dfl",
+    "fechaPublicacion": "1960-04-04"
+  },
+  {
+    "idNorma": 5235,
     "tipo": "dfl",
     "fechaPublicacion": "1960-04-04"
   },
@@ -8928,6 +8943,11 @@
     "idNorma": 16999,
     "tipo": "dto",
     "fechaPublicacion": "1988-12-31"
+  },
+  {
+    "idNorma": 17067,
+    "tipo": "dto",
+    "fechaPublicacion": "1931-09-16"
   },
   {
     "idNorma": 17212,
@@ -73076,6 +73096,11 @@
   },
   {
     "idNorma": 214302,
+    "tipo": "dfl",
+    "fechaPublicacion": "2003-09-02"
+  },
+  {
+    "idNorma": 214306,
     "tipo": "dfl",
     "fechaPublicacion": "2003-09-02"
   },
