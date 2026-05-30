@@ -605,6 +605,11 @@
     "fechaPublicacion": "1960-02-01"
   },
   {
+    "idNorma": 4418,
+    "tipo": "dfl",
+    "fechaPublicacion": "1953-05-08"
+  },
+  {
     "idNorma": 4503,
     "tipo": "dfl",
     "fechaPublicacion": "1931-04-11"
@@ -903,6 +908,11 @@
     "idNorma": 5185,
     "tipo": "dfl",
     "fechaPublicacion": "1960-04-04"
+  },
+  {
+    "idNorma": 5189,
+    "tipo": "dfl",
+    "fechaPublicacion": "1960-04-02"
   },
   {
     "idNorma": 5194,
@@ -53715,6 +53725,11 @@
     "fechaPublicacion": "1953-07-21"
   },
   {
+    "idNorma": 127695,
+    "tipo": "dto",
+    "fechaPublicacion": "1966-05-24"
+  },
+  {
     "idNorma": 127696,
     "tipo": "dl",
     "fechaPublicacion": "1973-12-10"
@@ -95510,6 +95525,11 @@
     "fechaPublicacion": "2011-04-18"
   },
   {
+    "idNorma": 1024693,
+    "tipo": "dfl",
+    "fechaPublicacion": "2011-04-20"
+  },
+  {
     "idNorma": 1024796,
     "tipo": "dto",
     "fechaPublicacion": "2011-04-26"
@@ -97288,6 +97308,11 @@
     "idNorma": 1061080,
     "tipo": "ley",
     "fechaPublicacion": "1826-12-01"
+  },
+  {
+    "idNorma": 1061371,
+    "tipo": "dfl",
+    "fechaPublicacion": "2014-04-23"
   },
   {
     "idNorma": 1061853,
