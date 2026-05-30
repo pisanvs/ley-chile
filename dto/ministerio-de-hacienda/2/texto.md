@@ -1,6 +1,7 @@
 # Decreto N° 2
 TEXTO DEFINITIVO DE LA LEY ORGANICA DEL CONSEJO DE DEFENSA FISCAL
 **Publicada:** 1933-01-18
+**Versión:** 1960-04-05
 TEXTO DEFINITIVO DE LA LEY ORGANICA DEL CONSEJO DE DEFENSA FISCAL Núm. 2.- Santiago, 2 de Enero de 1933.- En uso de la facultad que me confiere el artículo 2.o, transitorio del decreto-ley N.o 460, de 13 de Agosto del año 1932, y artículo 72, N.o 2, de la Constitución Política, Decreto: El texto definitivo de la Ley Orgánica del Consejo de Defensa Fiscal, será el siguiente:
 ## ~~TITULO I De la defensa y representación del Fisco~~
 ~~Artículo 1.o La defensa del Fisco en todos los juicios y en los actos no contenciosos en que tengan interés, estará a cargo del Consejo de Defensa Fiscal y de los funcionarios que indica esta ley, sin perjuicio de la que corresponda a los abogados especiales que existen en algunos servicios públicos. La representación judicial será ejercida, en la forma que determinan los artículos siguientes:~~
