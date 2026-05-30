@@ -1,0 +1,7 @@
+# Decreto N° 405
+INCORPORA ITEM QUE INDICA AL CLASIFICADOR DE GASTOS
+**Publicada:** 1980-06-24
+INCORPORA ITEM QUE INDICA AL CLASIFICADOR DE GASTOS Núm. 405.- Santiago, 3 de Junio de 1980.- Visto: Lo dispuesto en el artículo 24° del D.L. N° 3.000, de 1979, y los artículos 16° y 70° del D.L. N° 1.263, de 1975, Decreto:
+Modifícase el decreto de Hacienda N° 1.180, de 27 de Diciembre de 1979, en los siguientes términos: En su N° 2- Gastos Agrégase en el Subtítulo 25 el siguiente ítem: "40 Subsidios a Combustibles- Decreto (Ec.) N° 294, de 1980." En su N° 3 - Clasificador de Gastos Agrégase en el Subtítulo 25 la siguiente definición al ítem: "40 Subsidios a Combustibles - Decreto (Ec.) N° 294, de 1980." Comprende los subsidios a productores o importadores de gas licuado y/o kerosene y a las compañías distribuidoras de gas corriente, conforme a lo dispuesto en los artículos 2° y 3° del decreto N° 294, de 30 de mayo de 1980, del Ministerio de Economía, Fomento y Reconstrucción. En su N° 3- Clasificador de Ingresos Sustitúyese en el Subtítulo 10, la frase "pero cuya operación y/o registro se efectuó en períodos anteriores" por la siguiente: "pero cuyo registro se efectuó en períodos anteriores".
+---
+Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República.- Sergio de Castro Spikula, Ministro de Hacienda. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Seguel Morel, Teniente Coronel, Subsecretario de Hacienda.
