@@ -63,17 +63,22 @@ def test_full_cache_D_equals_last_date(tmp_path):
     assert result["cached"] == 2
 
 
-def test_watermark_advanced_true_when_D_gt_W(tmp_path):
+def test_watermark_advanced_true_when_D_is_nonempty(tmp_path):
+    """Rebuild semantics: advance whenever any complete data exists, regardless of W."""
     graph = {"100": {"fechaPublicacion": "2020-01-01"}}
     cache_dir = _make_cache(tmp_path, graph, [100])
-    result = cw.compute_watermark(graph, cache_dir, W="2019-01-01")
-    assert result["watermark_advanced"] is True
+    # Both W<D and W>D must trigger advance now — historial is regenerated, not appended.
+    assert cw.compute_watermark(graph, cache_dir, W="2019-01-01")["watermark_advanced"] is True
+    assert cw.compute_watermark(graph, cache_dir, W="2020-01-01")["watermark_advanced"] is True
+    assert cw.compute_watermark(graph, cache_dir, W="2099-01-01")["watermark_advanced"] is True
 
 
-def test_watermark_advanced_false_when_D_eq_W(tmp_path):
+def test_watermark_advanced_false_when_D_empty(tmp_path):
+    """No complete prefix → nothing to rebuild → don't advance."""
     graph = {"100": {"fechaPublicacion": "2020-01-01"}}
-    cache_dir = _make_cache(tmp_path, graph, [100])
+    cache_dir = _make_cache(tmp_path, graph, [])  # no diffs
     result = cw.compute_watermark(graph, cache_dir, W="2020-01-01")
+    assert result["D"] == ""
     assert result["watermark_advanced"] is False
 
 
@@ -88,12 +93,29 @@ def test_normas_without_fecha_are_skipped(tmp_path):
     assert result["total"] == 2
 
 
-def test_historial_count_counts_normas_le_W(tmp_path):
+def test_historial_count_zero_without_historial_dir(tmp_path):
+    """When historial_dir is absent we report 0 — no fabricated projection."""
     graph = {
         "100": {"fechaPublicacion": "2020-01-01"},
         "200": {"fechaPublicacion": "2021-01-01"},
-        "300": {"fechaPublicacion": "2022-01-01"},
     }
     cache_dir = _make_cache(tmp_path, graph, [])
     result = cw.compute_watermark(graph, cache_dir, W="2021-01-01")
-    assert result["historial_count"] == 2  # 100 and 200
+    assert result["historial_count"] == 0
+
+
+def test_historial_count_counts_real_metadata_files(tmp_path):
+    """With historial_dir, count actual <type>/<numero>/metadata.json files."""
+    graph = {"100": {"fechaPublicacion": "2020-01-01"}}
+    cache_dir = _make_cache(tmp_path, graph, [])
+    historial = tmp_path / "historial"
+    # Build a realistic historial dir: 3 normas across two types.
+    for type_dir, numero in [("leyes", "20000"), ("leyes", "20100"), ("dl", "707")]:
+        d = historial / type_dir / numero
+        d.mkdir(parents=True)
+        (d / "metadata.json").write_text('{"x":1}', encoding="utf-8")
+    # A dir without metadata.json must NOT be counted (incomplete write).
+    (historial / "leyes" / "20200").mkdir(parents=True)
+
+    result = cw.compute_watermark(graph, cache_dir, W="2020-01-01", historial_dir=historial)
+    assert result["historial_count"] == 3
