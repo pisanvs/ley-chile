@@ -785,6 +785,11 @@
     "fechaPublicacion": "1960-04-05"
   },
   {
+    "idNorma": 4993,
+    "tipo": "dfl",
+    "fechaPublicacion": "1953-08-03"
+  },
+  {
     "idNorma": 5009,
     "tipo": "dfl",
     "fechaPublicacion": "1960-04-04"
@@ -8808,6 +8813,11 @@
     "idNorma": 11351,
     "tipo": "dto",
     "fechaPublicacion": "1979-05-11"
+  },
+  {
+    "idNorma": 11386,
+    "tipo": "dto",
+    "fechaPublicacion": "1963-07-23"
   },
   {
     "idNorma": 11503,
@@ -59895,6 +59905,11 @@
     "fechaPublicacion": "1999-08-05"
   },
   {
+    "idNorma": 140412,
+    "tipo": "dfl",
+    "fechaPublicacion": "1959-12-14"
+  },
+  {
     "idNorma": 140414,
     "tipo": "ley",
     "fechaPublicacion": "1968-10-02"
@@ -99312,6 +99327,11 @@
   {
     "idNorma": 1107616,
     "tipo": "ley",
+    "fechaPublicacion": "2017-09-06"
+  },
+  {
+    "idNorma": 1107658,
+    "tipo": "dfl",
     "fechaPublicacion": "2017-09-06"
   },
   {
