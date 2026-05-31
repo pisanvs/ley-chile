@@ -1,0 +1,33 @@
+[
+  {
+    "fecha": "1830-07-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1830-07-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10265210,
+          "old": null,
+          "new": "<div><br><div class=\"p\">BUQUES EXTRANJEROS.</div><br><br><div class=\"p\">&nbsp; &nbsp;  Santiago, Julio 26 de 1830.</div></div>"
+        },
+        {
+          "part_id": 10265211,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  El Congreso nacional de plenipotenciarios en sesion de hoi, ha acordado autorizar al Gobierno, provisoriamente y hasta que se d&#xE9; la ley jeneral de comercio, para que pueda espedir licencia a los buques extranjeros que soliciten extraer frutos del pais por puertos menores, previas las solemnidades de estilo, y graduando la conveniencia p&#xFA;blica y seguridad del Erario. - </div><br><div class=\"p\">&nbsp; &nbsp;  El Presidente que suscribe saluda a S. E. el Vice-Presidente de la Rep&#xFA;blica con las consideraciones de su alto aprecio. - FERNANDO ELIZALDE, Presidente. - Ignacio Molina, Secretario. </div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

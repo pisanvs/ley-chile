@@ -1,0 +1,38 @@
+[
+  {
+    "fecha": "1829-01-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1829-01-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10245470,
+          "old": null,
+          "new": "<div><div class=\"p\">BECAS DEL LICEO DE CHILE.</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, Enero 12 de 1829.</div></div>"
+        },
+        {
+          "part_id": 10245471,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Ocupar&#xE1;n una de las cuarenta y dos becas, creadas en el Liceo de Chile y cuya provision se cometi&#xF3; al Poder Ejecutivo por la lei de 6 de diciembre pr&#xF3;ximo anterior, cada uno de los j&#xF3;venes que se nombran a continuaci&#xF3;n, a saber.- D. Jos&#xE9; Collao, D. Facundo Marcoleta, D. Jacinto Chacon y Barrios, D. Felipe del Castillo, D. Manuel Argomedo, D. Jos&#xE9; Patricio de Orihuela, D. Francisco Vidal, D. Jos&#xE9; Calder&#xF3;n, D. Manuel Perez Mascayano, D. Valentin Gormaz, D. Ramon Gutierrez y Mu&#xF1;oz, D. Santiago Amenguar y Balbont&#xED;n, D. Jos&#xE9; Vizcaya y Bazan, D. Jos&#xE9; Rafael Echeverr&#xED;a, D. Jos&#xE9; Francisco Prado Montaner, D. Ignacio Ca&#xF1;as de Sotomayor, D. Pio Campino, D. Jos&#xE9; Maria Prieto y Cruz, D. Manuel Larrain y Espinosa, D. Manuel Gormaz y Espejo, D. Manuel Echeverr&#xED;a, D. Jos&#xE9; Mar&#xED;a Amenaval, D. L&#xE1;zaro Ramos, D. Mariano Calvo, D. Antonio Bergara Orostiaga, D. Lorenzo Guerrero y Varas, D. Jos&#xE9; Santiago Melo y D. Laureano Sanchez.-</div></div>"
+        },
+        {
+          "part_id": 10245472,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xF3;mese razon y comun&#xED;quese a quieres corresponda.</div><div class=\"p\">&nbsp; &nbsp;  PINTO&nbsp; &nbsp;  Rodr&#xED;guez.</div></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

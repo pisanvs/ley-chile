@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "1994-10-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-10-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9287702,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  F&#xED;janse las siguientes exigencias sanitarias para internaci&#xF3;n a Chile de cueros de equino:</div><br><div class=\"p\">1.-&nbsp; El pa&#xED;s de procedencia debe estar declarado libre de Viruela equina y Linfangitis epizo&#xF3;tica, ante la Oficina Internacional de Epizootias.</div><br><div class=\"p\">2.-&nbsp; Los animales de los cuales proceden los cueros:</div><br><div class=\"p\">2.1.-Son nacidos, criados y beneficiados en el pa&#xED;s exportador.</div><br><div class=\"p\">2.2.-Han sido beneficiados en un matadero con control m&#xE9;dico veterinario oficial y que cumple con las condiciones de estructura, funcionamiento e inspecci&#xF3;n sanitaria que lo autorice para exportar.</div><br><div class=\"p\">2.3.-Han sido inspeccionados pre y post mortem y reconocidos libres de Sarna, Habronemosis y otras enfermedades transmisibles.</div><br><div class=\"p\">3.-&nbsp; No presentan restos de huesos, cart&#xED;lagos, elementos c&#xE1;rneos, sangre, tierra, esti&#xE9;rcol, ni otros elementos ajenos al cuero o a los productos utilizados en su preparaci&#xF3;n.</div><br><div class=\"p\">4.-&nbsp; Los cueros curtidos, semicurtidos, wet-blue, o piquelados s&#xF3;lo deber&#xE1;n cumplir lo establecido en el punto 6 de esta Resoluci&#xF3;n.</div><br><div class=\"p\">5.-&nbsp; El transporte de estos cueros desde el establecimiento de procedencia hasta su destino en Chile, se debe realizar en veh&#xED;culos o compartimentos que aseguren la mantenci&#xF3;n de&nbsp; sus condiciones higi&#xE9;nico sanitarias.</div><br><div class=\"p\">6.-&nbsp; Los cueros deber&#xE1;n estar amparados por un certificado oficial, otorgado al momento del embarque por la autoridad sanitaria competente del pa&#xED;s de origen, que acredite el cumplimiento de las exigencias sanitarias, y estipule el pa&#xED;s y el establecimiento de procedencia, la identificaci&#xF3;n del producto, la cantidad y el peso neto.</div><br><div class=\"p\">7.-&nbsp; Al arribo al pa&#xED;s estos cueros ser&#xE1;n sometidos a los controles y ex&#xE1;menes que determine el Servicio Agr&#xED;cola y Ganadero, los que ser&#xE1;n con cargo a los usuarios.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  F&#xED;janse las siguientes exigencias sanitarias para internaci&#xF3;n a Chile de cueros de equino:</div><br><div class=\"p\">1.-&nbsp; El pa&#xED;s de procedencia debe estar declarado libre de Viruela equina y Linfangitis epizo&#xF3;tica, ante la Oficina Internacional de Epizootias.</div><br><div class=\"p\">2.-&nbsp; Los animales de los cuales proceden los cueros:</div><br><div class=\"p\">2.1.-Son nacidos, criados y beneficiados en el pa&#xED;s exportador.</div><br><div class=\"p\">2.2.-Han sido beneficiados en un matadero con control m&#xE9;dico veterinario oficial y que cumple con las condiciones de estructura, funcionamiento e inspecci&#xF3;n sanitaria que lo autorice para exportar.</div><br><div class=\"p\">2.3.-Han sido inspeccionados pre y post mortem y reconocidos libres de Sarna, Habronemosis y otras enfermedades transmisibles.</div><br><div class=\"p\">3.-&nbsp; No presentan restos de huesos, cart&#xED;lagos, elementos c&#xE1;rneos, sangre, tierra, esti&#xE9;rcol, ni otros elementos ajenos al cuero o a los productos utilizados en su preparaci&#xF3;n.</div><br><div class=\"p\">4.-&nbsp; Los cueros curtidos, semicurtidos, wet-blue, o piquelado<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=265410&amp;idParte=7355728&amp;idVersion=2007-10-10\">RES 4722 EXENTA,<br>AGRICULTURA<br>D.O. 10.10.2007</a></span>s s&#xF3;lo deber&#xE1;n cumplir lo establecido en el punto 5 de esta resoluci&#xF3;n.</div><br><div class=\"p\">5.-&nbsp; El transporte de estos cueros desde el establecimiento de procedencia hasta su destino en Chile, se debe realizar en veh&#xED;culos o compartimentos que aseguren la mantenci&#xF3;n de&nbsp; sus condiciones higi&#xE9;nico sanitarias.</div><br><div class=\"p\">6.-&nbsp; Los cueros deber&#xE1;n estar amparados por un certificado oficial, otorgado al momento del embarque por la autoridad sanitaria competente del pa&#xED;s de origen, que acredite el cumplimiento de las exigencias sanitarias, y estipule el pa&#xED;s y el establecimiento de procedencia, la identificaci&#xF3;n del producto, la cantidad y el peso neto.</div><br><div class=\"p\">7.-&nbsp; Al arribo al pa&#xED;s estos cueros ser&#xE1;n sometidos a los controles y ex&#xE1;menes que determine el Servicio Agr&#xED;cola y Ganadero, los que ser&#xE1;n con cargo a los usuarios.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 265410,
+      "fecha": "2007-10-10"
+    }
+  },
+  {
+    "fecha": "2022-01-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

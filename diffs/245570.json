@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1976-06-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-04-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9053499,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 3&#xBA; El precio de los contratos de compraventa de bienes ra&#xED;ces que se celebren con particulares no podr&#xE1; ser superior a la tasaci&#xF3;n que para estos efectos se&#xF1;ale en cada caso el Servicio de Impuestos Internos, y deber&#xE1; ser pagado, por intermedio de los Comandantes y Jefes de Direcci&#xF3;n respectivos, referidos en el art&#xED;culo 1&#xBA;, o de los Oficiales o funcionarios a quienes se les ha delegado la representaci&#xF3;n en el caso del art&#xED;culo 5&#xBA;. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 3&#xB0; El precio<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1204037&amp;idParte=10502495&amp;idVersion=1981-04-24\">Decreto 41, DEFENSA<br>Art. &#xFA;nico<br>D.O. 24.04.1981</a></span> de los contratos de compraventa de bienes ra&#xED;ces se fijar&#xE1; de com&#xFA;n acuerdo entre las partes y deber&#xE1; ser pagado, por intermedio de los Comandantes y Jefes de Direcci&#xF3;n respectivos, referidos en el art&#xED;culo 1&#xB0;, o de los Oficiales o funcionarios a quienes se les ha delegado la representaci&#xF3;n en el caso del art&#xED;culo 5&#xB0;.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1204037,
+      "fecha": "1981-04-24"
+    }
+  }
+]
