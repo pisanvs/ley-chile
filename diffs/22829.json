@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1904-08-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1925-02-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8274573,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Fija las prescripciones para la concesion de permisos i para hacer las instalaciones el&#xE9;ctricas en la Rep&#xFA;blica</div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. I665.- Santiago, a 4 de Agosto de I904.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente:</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br><br></div>",
+          "new": "<div><div class=\"p\">Fija las prescripciones para la concesion de permisos i para hacer las instalaciones el&#xE9;ctricas en la Rep&#xFA;blica</div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. I665.- Santiago, a 4 de Agosto de I904.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente:</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 114 del DL 252, Obras y V&#xED;as P&#xFA;blicas, publicado el 18.02.1925, derog&#xF3; la presente norma. Con posterioridad el art&#xED;culo 162 del DFL 244, Interior, publicado el 30.05.1931, reiter&#xF3; la derogaci&#xF3;n de esta norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

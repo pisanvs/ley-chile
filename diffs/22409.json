@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1898-10-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1898-10-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845074,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; I por cuanto, oido el Consejo de Estado, he tenido a bien aprobarlo i sancionarlo; por tanto prom&#xFA;lguese i ll&#xE9;vese a efecto como lei de la Rep&#xFA;blica.- Santiago, a ocho de octubre de mil ochocientos noventa i ocho.- FEDERICO ERRAZURIZ.- Carlos A. Palacios Z.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; I por cuanto, oido el Consejo de Estado, he tenido a bien aprobarlo i sancionarlo; por tanto, prom&#xFA;lguese i ll&#xE9;vese a efecto como lei de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, a 8 de Octubre de 1898.- FEDERICO ERRAZURIZ.- C&#xE1;rlos A. Palacios Z.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1899-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845073,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- La Corte de Apelaciones de Santiago conocer&#xE1; de las causas del territorio de la provincia de Aconcagua, salvo las que se encuentren actualmente pendientes del conocimiento de la Corte de Apelaciones de Valparaiso.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO UNICO. La Corte de Apelaciones de Santiago conocer&#xE1; de las causas del territorio de la provincia de Aconcagua, salvo las que se encuentren actualmente pendientes del conocimiento de la Corte de Apelaciones de Valparaiso. La Corte de Apelaciones de Santiago tendr&#xE1; tambi&#xE9;n<span class=\"n\" id=\"n_0\">LEY 1170<br>Art. Unico<br>D.O. 19.01.1899</span> a su cargo, en los mismos t&#xE9;rminos espresados en la citada lei n&#xFA;m. 1,100 todos los demas negocios que, provenientes de la provincia de Aconcagua, est&#xE1;n actualmente sometidos a la jurisdiccion de la Corte de Apelaciones de Valparaiso. </div></div>"
+        }
+      ]
+    }
+  }
+]

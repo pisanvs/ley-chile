@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1911-02-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1919-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7165799,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Agrega varios incisos a la lei de impuesto sobre el papel sellado, timbres i estampillas</div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 2,467.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Agrega varios incisos a la lei de impuesto sobre<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> el papel sellado, timbres i estampillas</div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 2,467.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 4&#xB0; transitorio de la LEY 3482, publicada el 04.02.1919, disposici&#xF3;n que fue ratificada por el Art. 4&#xB0; transitorio de la LEY 3733, publicada el 23.02.1921, dispuso la derogaci&#xF3;n de la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

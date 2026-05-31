@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1910-08-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1941-05-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7165710,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> aprobacion al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 45 de la LEY 6811, publicada el 03.05.1941, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

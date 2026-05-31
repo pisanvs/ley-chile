@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1908-08-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1936-09-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5952813,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 2,114, que dispone que la plata en barra con lei de cinco d&#xE9;cimos de fino o m&#xE9;nos pagar&#xE1; un derecho de esportacion de 40 por ciento.</div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 2,114.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 2,114, que dispone que la plata en barra<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> con lei de cinco d&#xE9;cimos de fino o m&#xE9;nos pagar&#xE1; un derecho de esportacion de 40 por ciento.</div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 2,114.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 1&#xBA; de la LEY 5888, publicada el<br>07.09.1936, derog&#xF3; la presente norma. El Art. 3&#xBA; de la misma ley dispone que su derogaci&#xF3;n regir&#xE1; a contar del 24 de marzo de 1933, fecha en que fue promulgada la ley 5146.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

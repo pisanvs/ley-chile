@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1911-02-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1918-05-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6170855,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Lei n&#xFA;m. 2,498.- Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  PROYECTO DE LEI:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Lei n&#xFA;m. 2,498.- Por cuanto el Congreso Nacional ha<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> dado su aprobacion al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  PROYECTO DE LEI:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La presente Ley ha sido derogada por el Art. 27 de la Ley 3379 publicada en el D.O el 23.05.1918<br></div></div>"
+        }
+      ]
+    }
+  }
+]
