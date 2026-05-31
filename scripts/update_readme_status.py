@@ -45,8 +45,9 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
-from compute_watermark import compute_watermark, get_historial_watermark  # noqa: E402
+from compute_watermark import get_historial_watermark  # noqa: E402
 from utils import load_graph  # noqa: E402
+from verify_pipeline import gather_report  # noqa: E402
 
 START_MARKER = "<!-- PIPELINE_STATUS_START -->"
 END_MARKER = "<!-- PIPELINE_STATUS_END -->"
@@ -173,12 +174,40 @@ def main() -> None:
         W = ""
 
     historial_dir = Path(args.historial_dir) if args.historial_dir else None
-    stats = compute_watermark(graph, cache_dir, W=W, historial_dir=historial_dir)
+
+    # Source REAL counts from verify_pipeline (honest reporter) so the README
+    # reflects on-disk artifacts.  The denominator is `catalog.entries` (the
+    # only target that's meaningful for "how complete is the pipeline?"),
+    # the historial bar shows real metadata.json count, and the cache bar
+    # shows actual diff files.  W is just for the watermark date label.
+    report = gather_report(
+        catalog_path=Path(args.catalog_path),
+        graph_path=Path(args.graph_path),
+        cache_dir=cache_dir,
+        historial_dir=historial_dir,
+    )
+    stats = {
+        "W": W,
+        "D": "",  # no longer driving advance decisions; omitted from the bar
+        "total": report["catalog"]["entries"],
+        "cached": report["cache"]["diff_files"],
+        "historial_count": report["historial"]["norma_dirs"],
+    }
     update_readme_status(Path(args.readme), stats)
     print(f"README updated — historial {stats['historial_count']}/{stats['total']}"
           f" ({stats['historial_count'] / (stats['total'] or 1):.0%})"
           f", cache {stats['cached']}/{stats['total']}"
           f" ({stats['cached'] / (stats['total'] or 1):.0%})")
+    if report["inconsistencies"]:
+        # Print to stderr — visible in CI logs without breaking the success path.
+        # (verify_pipeline.py is the place to exit non-zero on these; this script's
+        # job is just to update the README.)
+        print(
+            f"  warning: {len(report['inconsistencies'])} pipeline inconsistency(ies) detected",
+            file=sys.stderr,
+        )
+        for item in report["inconsistencies"][:5]:
+            print(f"    - {item}", file=sys.stderr)
 
 
 if __name__ == "__main__":
