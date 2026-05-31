@@ -50,19 +50,28 @@ def compute_watermark(
     W: str,
     historial_dir: Path | None = None,
 ) -> dict:
-    """
+    """Compute the diffs-side completion frontier.
+
+    With build_history --rebuild, historial is a derived artifact regenerated
+    each run from the diffs cache.  W (last commit date on historial) is no
+    longer load-bearing for advance decisions — it's reported for visibility
+    only.  watermark_advanced fires whenever D is non-empty (there's any
+    complete prefix of dated normas to rebuild from).
+
     Returns:
-        D              — highest date where all dated normas up to D are cached
-        cached         — total normas with a diffs file in cache_dir/diffs/
-        total          — total normas in graph (both dated and undated)
-        historial_count — number of norma dirs actually written to historial
-                          (counted as <type>/<numero>/metadata.json files when
-                          historial_dir is provided).  Falls back to the legacy
-                          "graph entries with fechaPublicacion <= W" projection
-                          if historial_dir is None — that projection is highly
-                          misleading because W tracks ANY commit date, not the
-                          chronological frontier of completed ingestion.
-        watermark_advanced — bool: D > W (or D non-empty and W is empty)
+        D                  — highest date where every dated norma <= D has a
+                             complete diffs file (entries + version JSONs).
+        cached             — total normas with complete diffs in cache_dir/diffs/.
+        total              — total normas in graph.
+        historial_count    — number of <type>/<numero>/metadata.json files
+                             actually present in historial_dir (0 if not given).
+                             Replaces the previous misleading "graph entries
+                             with fechaPublicacion <= W" projection.
+        watermark_advanced — bool(D).  Rebuild whenever there's any complete
+                             data; the build itself is deterministic and
+                             idempotent so re-running is cheap if nothing
+                             changed.
+        W                  — informational; the last historial commit date.
     """
     diffs_dir = cache_dir / "diffs"
     versions_dir = cache_dir / "versions"
@@ -111,17 +120,17 @@ def compute_watermark(
         D = fecha
 
     if historial_dir is not None and historial_dir.is_dir():
-        # Real count: directories that have a metadata.json under any norma type.
+        # Real count: dirs that have a metadata.json under any norma type.
         historial_count = sum(1 for _ in historial_dir.glob("*/*/metadata.json"))
     else:
-        # Legacy projection — see docstring; only used when caller can't supply
-        # a real historial dir.
-        historial_count = sum(1 for _, fecha in dated if fecha <= W) if W else 0
+        # No historial dir → don't fabricate a count.  The previous projection
+        # ("graph entries with fechaPublicacion <= W") fed the README's
+        # bogus 99% claim and is gone for good.
+        historial_count = 0
 
-    if D and W:
-        watermark_advanced = D > W
-    else:
-        watermark_advanced = bool(D)
+    # Rebuild whenever any complete prefix exists.  D > W comparison is dropped
+    # because historial is now a derived artifact, not an append-only log.
+    watermark_advanced = bool(D)
 
     return {
         "W": W,
