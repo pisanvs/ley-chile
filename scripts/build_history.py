@@ -391,10 +391,37 @@ def _build_chore_final(seq: int, last_date: str) -> CommitContext:
 def _make_fast_import_stream(
     events: list[CommitContext],
     append: bool,
+    rebuild: bool = False,
 ) -> bytes:
+    """Generate a fast-import stream from an ordered list of events.
+
+    Modes (mutually exclusive — at most one of `append`/`rebuild` may be True):
+
+      - default (append=False, rebuild=False): fresh import. The first commit
+        is a root commit (no `from` line); the trailing reset repoints the
+        branch.  Suitable for an empty/missing historial.
+
+      - append=True: incremental. The first commit's parent is the current
+        historial tip (`from refs/heads/historial`).  Used to add commits
+        chronologically after the existing tip.
+
+      - rebuild=True: regenerate.  Emits a leading `reset refs/heads/historial`
+        with no `from`, atomically wiping the branch before the new commits
+        land.  No parent inheritance from the prior branch.  Used to make
+        historial a fully derived artifact (deterministic given the cache).
+    """
+    if append and rebuild:
+        raise ValueError("append and rebuild are mutually exclusive")
+    if rebuild and not events:
+        return b""  # nothing to do; don't emit a dangling reset
     stream_parts: list[bytes] = []
     mark = 0
     parent_mark: Optional[int] = None
+
+    if rebuild:
+        # Wipe the branch up front so the operation is atomic and visible in
+        # the stream — fast-import readers see the intent before commits land.
+        stream_parts.append(f"reset refs/heads/{TARGET_BRANCH}\n\n".encode("utf-8"))
 
     def next_mark() -> int:
         nonlocal mark
@@ -561,7 +588,21 @@ def main() -> None:
         default=None,
         help="Only emit commits for causing normas with date <= DATE (inclusive, YYYY-MM-DD)",
     )
+    parser.add_argument(
+        "--rebuild",
+        action="store_true",
+        help=(
+            "Regenerate the entire historial branch from the diffs cache.  "
+            "Atomically wipes the existing branch (via in-stream `reset`) and "
+            "replaces it with a deterministic, fully-derived commit graph.  "
+            "Mutually exclusive with --append."
+        ),
+    )
     args = parser.parse_args()
+    if args.rebuild and args.append:
+        parser.error("--rebuild and --append are mutually exclusive")
+    if args.rebuild and (args.from_date or args.to_date):
+        parser.error("--rebuild ignores --from/--to (it always rebuilds the whole branch)")
 
     setup_logging(verbose=args.verbose)
     data_root = Path(args.data_root).resolve() if args.data_root else detect_data_root()
@@ -617,8 +658,9 @@ def main() -> None:
             append = False
 
     # Generate fast-import stream
-    log.info("Generating git fast-import stream ...")
-    stream = _make_fast_import_stream(all_events, append=append)
+    log.info("Generating git fast-import stream (mode=%s) ...",
+             "rebuild" if args.rebuild else ("append" if append else "fresh"))
+    stream = _make_fast_import_stream(all_events, append=append, rebuild=args.rebuild)
     log.info("Stream size: %d bytes", len(stream))
 
     if not stream:
@@ -628,8 +670,10 @@ def main() -> None:
     # Pipe to git fast-import
     # If data_root is a worktree, git -C data_root still works
     cmd = ["git", "-C", str(data_root), "fast-import", "--force", "--quiet"]
-    if not append:
-        # Wipe existing historial branch first
+    if not append and not args.rebuild:
+        # Fresh-import mode: wipe existing historial branch first.
+        # Rebuild mode already wipes via the in-stream `reset` (atomic, no race
+        # with fast-import) so we don't need to pre-delete.
         subprocess.run(
             ["git", "-C", str(data_root), "branch", "-D", TARGET_BRANCH],
             capture_output=True,
