@@ -44,9 +44,22 @@ logger = logging.getLogger(__name__)
 
 BASE_URL = "https://nuevo.leychile.cl/servicios/Navegar/get_norma_json"
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
-    "Accept": "application/json, */*",
+    # Full browser-ish header set. The endpoint sits behind a CloudFront WAF
+    # that returns small non-JSON bodies (HTTP 200 with ~264 bytes) to requests
+    # from cloud-provider IP ranges with sparse headers — looks like the WAF's
+    # 'silent block' response. A complete Chrome-style header set reliably
+    # gets the real JSON from both residential and Azure (GH Actions) IPs.
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json, text/javascript, */*; q=0.01",
+    "Accept-Language": "es-CL,es;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
     "X-Requested-With": "XMLHttpRequest",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin",
 }
 
 PROGRESS_SAVE_EVERY = 20
@@ -201,7 +214,20 @@ def fetch_version(
     resp = sess.get(BASE_URL, params=params, headers=headers, timeout=30)
     resp.raise_for_status()
 
-    data = resp.json()
+    try:
+        data = resp.json()
+    except json.JSONDecodeError as e:
+        # 2xx with non-JSON body — likely a CloudFront WAF response that
+        # slipped past raise_for_status.  Surface what we got so future
+        # log inspection shows the actual block message instead of an
+        # opaque "Expecting value" error.
+        ct = resp.headers.get("content-type", "?")
+        body_preview = resp.text[:300] if resp.text else "<empty>"
+        raise RuntimeError(
+            f"non-JSON body for idNorma={id_norma} fecha={fecha} "
+            f"status={resp.status_code} content-type={ct!r} "
+            f"bytes={len(resp.content)} body[:300]={body_preview!r}"
+        ) from e
     cache_file.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
     return data
 
@@ -485,14 +511,16 @@ async def run(
                 status_code = getattr(getattr(err, "response", None), "status_code", None)
                 # Permanent / non-retryable failures:
                 #   - 4xx client errors (dead idNorma)
-                #   - 500 (LeyChile returns 500 for missing data, not transient)
-                #   - JSONDecodeError: server returns HTTP 200 with empty body
-                #     for missing idNormas — the "empty-200 degradation" pattern.
-                # 429/503 still go through the limiter for rate-limit backoff.
+                #   - 500 (LeyChile returns 500 with "no se encuentra en nuestra
+                #     Base de Datos" for missing idNormas; not a transient error)
+                # Note: non-JSON 200 bodies are no longer treated as permanent.
+                # They turn out to be CloudFront WAF responses to cloud-IP
+                # requests with sparse headers — addressed by the beefed-up
+                # HEADERS in this module.  Any residual occurrences should be
+                # retried with backoff, not permanently skipped.
                 is_permanent = (
                     status_code == 500
                     or (status_code is not None and 400 <= status_code < 500)
-                    or isinstance(err, json.JSONDecodeError)
                 )
                 if status_code in (429, 503):
                     await limiter.on_rate_limit()
