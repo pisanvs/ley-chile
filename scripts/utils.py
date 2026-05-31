@@ -145,20 +145,35 @@ class AdaptiveLimiter:
     # ------------------------------------------------------------------
 
     async def _resize(self, new_c: int) -> None:
-        """Replace the semaphore with one of the new capacity.
+        """Adjust the live semaphore's permits in place.
 
-        Drains the old semaphore down to 0 (capturing any already-held
-        slots) then creates a fresh one so in-flight tasks are not
-        interrupted — they hold the old semaphore slot and will release it,
-        but new acquires go through the new semaphore.
+        Swapping ``self._sem`` for a fresh Semaphore (the old implementation)
+        orphans every waiter currently parked on the old semaphore's
+        ``_waiters`` queue — they wait forever because future ``release()``
+        calls go to the new semaphore.  With unbounded-task callers this is
+        an instant total deadlock (the entire workload queues on the initial
+        sem; the first resize event freezes everything).
+
+        Instead, mutate the existing semaphore:
+          - increase: ``release()`` once per added permit (sync, non-blocking).
+          - decrease: schedule a background task that ``acquire()``s the
+            excess permits so they're held out of circulation.  Done off the
+            lock to avoid deadlocking when no permits are free.
         """
         new_c = max(self._min, min(new_c, self._max))
-        if new_c == self._concurrency:
+        diff = new_c - self._concurrency
+        if diff == 0:
             return
-        # Build a fresh semaphore; existing holders are unaffected because
-        # they hold a reference to the old one via acquire().
         self._concurrency = new_c
-        self._sem = asyncio.Semaphore(new_c)
+        if diff > 0:
+            for _ in range(diff):
+                self._sem.release()
+        else:
+            n = -diff
+            async def _absorb() -> None:
+                for _ in range(n):
+                    await self._sem.acquire()
+            asyncio.create_task(_absorb())
 
     @property
     def concurrency(self) -> int:
