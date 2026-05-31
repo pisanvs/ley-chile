@@ -48,13 +48,20 @@ def compute_watermark(
     graph: dict,
     cache_dir: Path,
     W: str,
+    historial_dir: Path | None = None,
 ) -> dict:
     """
     Returns:
         D              — highest date where all dated normas up to D are cached
         cached         — total normas with a diffs file in cache_dir/diffs/
         total          — total normas in graph (both dated and undated)
-        historial_count — normas with fechaPublicacion <= W
+        historial_count — number of norma dirs actually written to historial
+                          (counted as <type>/<numero>/metadata.json files when
+                          historial_dir is provided).  Falls back to the legacy
+                          "graph entries with fechaPublicacion <= W" projection
+                          if historial_dir is None — that projection is highly
+                          misleading because W tracks ANY commit date, not the
+                          chronological frontier of completed ingestion.
         watermark_advanced — bool: D > W (or D non-empty and W is empty)
     """
     diffs_dir = cache_dir / "diffs"
@@ -103,7 +110,13 @@ def compute_watermark(
             break
         D = fecha
 
-    historial_count = sum(1 for _, fecha in dated if fecha <= W) if W else 0
+    if historial_dir is not None and historial_dir.is_dir():
+        # Real count: directories that have a metadata.json under any norma type.
+        historial_count = sum(1 for _ in historial_dir.glob("*/*/metadata.json"))
+    else:
+        # Legacy projection — see docstring; only used when caller can't supply
+        # a real historial dir.
+        historial_count = sum(1 for _, fecha in dated if fecha <= W) if W else 0
 
     if D and W:
         watermark_advanced = D > W
@@ -164,7 +177,8 @@ def main() -> None:
     else:
         W = ""
 
-    stats = compute_watermark(graph, cache_dir, W=W)
+    historial_dir = Path(args.historial_dir) if args.historial_dir else None
+    stats = compute_watermark(graph, cache_dir, W=W, historial_dir=historial_dir)
 
     if args.output_env:
         _write_github_output(stats)
