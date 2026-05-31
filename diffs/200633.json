@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1891-12-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1897-03-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003800,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ART. 2&#xBA;</div><div class=\"p\">&nbsp; &nbsp;  Cada Municipalidad se compone de nueve miembros, tres de los cuales ser&#xE1;n alcaldes i los demas rejidores.</div><div class=\"p\">&nbsp; &nbsp;  En los territorios municipales cuya poblacion exceda de veinte mil habitantes, se elejir&#xE1; un municipal mas por cada fraccion de diez mil.</div><div class=\"p\">&nbsp; &nbsp;  En la parte urbana de las poblaciones de Santiago i Valparaiso se dividir&#xE1; el territorio municipal, por el Presidente de la Rep&#xFA;blica, en diez i en cinco circunscripciones respectivamente. Cada una de estas circunscripciones elejir&#xE1; tres municipales i la Municipalidad se compondr&#xE1; de la totalidad de los municipales elejidos por las circunscripciones.</div><div class=\"p\">&nbsp; &nbsp;  Los tres municipales formar&#xE1;n en cada circunscripcion una junta local que atender&#xE1; a los servicios que le confie la Municipalidad i presidir&#xE1; las asambleas de electores.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ART. 2&#xBA;</div><div class=\"p\">&nbsp; &nbsp;  Cada Municipalidad se compone de nueve miembros, tres de los cuales ser&#xE1;n alcaldes i los demas rejidores.</div><div class=\"p\">&nbsp; &nbsp;  En<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1122069&amp;idParte=9951259&amp;idVersion=1897-03-03\">Lei 914<br>Art. 1<br>D.O. 03.03.1897</a></span> los territorios municipales cuya poblacion exceda de veinte mil habitantes, se elejir&#xE1;n dos municipales mas por cada diez mil habitantes de exceso.</div><div class=\"p\">&nbsp; &nbsp;  En la parte urbana de las poblaciones de Santiago i Valparaiso se dividir&#xE1; el territorio municipal, por el Presidente de la Rep&#xFA;blica, en diez i en cinco circunscripciones respectivamente. Cada una de estas circunscripciones elejir&#xE1; tres municipales i la Municipalidad se compondr&#xE1; de la totalidad de los municipales elejidos por las circunscripciones.</div><div class=\"p\">&nbsp; &nbsp;  Los tres municipales formar&#xE1;n en cada circunscripcion una junta local que atender&#xE1; a los servicios que le confie la Municipalidad i presidir&#xE1; las asambleas de electores.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1122069,
+      "fecha": "1897-03-03"
+    }
+  }
+]

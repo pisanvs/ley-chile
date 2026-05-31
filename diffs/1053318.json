@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1874-06-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1909-09-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9368579,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  ART. 6.&#xB0;</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Los edificios que se construyan en adelante en las calles actuales o de diez metros, no podr&#xE1;n tener mayor elevacion que la de doce metros; i en las nuevas calles i en las que se prolonguen, de veinte metros, cuando fueren de material de ladrillo o piedra, i quince metros si es de adobe u otro material.</div><div class=\"p\">&nbsp; &nbsp;  Esta &#xFA;ltima regla se seguir&#xE1; respecto de los edificios que se construyan en la calle de las Delicias, en plazas, avenidas, parques, etc., pudiendo los edificios p&#xFA;blicos elevarse hasta la altura de&nbsp; veinticinco metros.</div><div class=\"p\">&nbsp; &nbsp;  Se escept&#xFA;an de esta prescripcion los edificios cuyos propietarios los internen sobre la l&#xED;nea horizontal de la calle, en cuyo caso podr&#xE1;n dar a sus edificios la altura correspondiente al terreno que desocupan hacia el esterior</div><div class=\"p\">&nbsp; &nbsp;  En el c&#xF3;mputo de la elevacion se contar&#xE1; solo el de la pared esterior a la calle publica, desde su base a la l&#xED;nea recta que la termina, sin tomar en consideracion los techos, claraboyas, est&#xE1;tuas, jarrones o cualquiera superstructura que por via de adorno se coloque sobre las fachadas, cuyos adornos, en ningun caso, podr&#xE1;n tener una altura mayor de dos metros, cuando se les coloque en la l&#xED;nea vertical, de la calle.</div><div class=\"p\">&nbsp; &nbsp;  La l&#xED;nea de elevacion se contar&#xE1; desde la superficie de la acera esterior, deduciendo toda construccion subterr&#xE1;nea hasta la l&#xED;nea recta superior de la pared esterior, sea que consista aqu&#xE9;lla en cornisas balaustradas u otro remate an&#xE1;logo, cualquiera que sea el material de &#xE9;ste.</div><div class=\"p\">&nbsp; &nbsp;  Las prescripciones del presente art&#xED;culo no rejir&#xE1;n respecto de los edificios en construccion a la fecha de la promulgacion de la presente le&#xED;.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=23195&amp;idParte=8275121&amp;idVersion=1909-09-16\">LEY 2203<br>Art. FINAL<br>D.O. 16.09.1909</a></span>&nbsp; &nbsp;  ART. 6.&#xB0; Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 23195,
+      "fecha": "1909-09-16"
+    }
+  }
+]

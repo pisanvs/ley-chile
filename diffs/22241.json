@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1897-01-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1898-09-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8998802,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4&#xB0;.- En los lugares de asiento de Corte en que hubiere mas de un juez de letras en lo civil, deber&#xE1; presentarse a la secretar&#xED;a jeneral de la respectiva Corte toda demanda o jestion judicial que se iniciare i de que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento.</div><div class=\"p\">&nbsp; &nbsp; Esta designacion se har&#xE1; asignando a cada causa un n&#xFA;mero de &#xF3;rden segun su naturaleza i dejando constancia de ella en un libro llevado al efecto, que no podr&#xE1; ser examinado sin &#xF3;rden del Tribunal.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 4.&#xB0; En los lugares de asiento de corte en que hubiere mas de un juez de letras en lo civil, deber&#xE1; presentarse a la secretar&#xED;a jeneral de la respectiva Corte toda demanda o jestion judicial que se iniciare i que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento. Esta designacion se har&#xE1; por el presidente del<span class=\"n\" id=\"n_0\">LEY 1072<br>Art. 3&#xB0;<br>D.O. 15.09.1898</span> Tribunal, pr&#xE9;via cuenta dada por el secretario, asignando a cada causa un n&#xFA;mero de &#xF3;rden, segun su naturaleza, i dejando constancia de ella en un libro llevado al efecto que no podr&#xE1; ser examinado sin &#xF3;rden del Tribunal. </div></div>"
+        }
+      ]
+    }
+  }
+]

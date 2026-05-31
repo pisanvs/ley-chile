@@ -1,0 +1,82 @@
+[
+  {
+    "fecha": "1898-02-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-02-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8885067,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 1,012.- Santiago, 31 de enero de 1898.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha prestado su aprobacion al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; LEY N&#xB0; 1.012.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA 1:</a></div></div><div class=\"p\">&nbsp; &nbsp; (Publicada en el &quot;Diario Oficial&quot; N&#xB0; 5.922, de 7 de febrero de 1898).</div><div class=\"p\">&nbsp; &nbsp; Lei que autoriza al Presidente de la Rep&#xFA;blica para cancelar el saldo l&#xED;quido de la Deuda que la Ilustre Municipalidad de Santiago reconoce en favor del Banco Comercial de Chile.</div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 1,012.- Santiago, a 31 de Enero de 1898.- Por cuanto el Congreso Nacional ha prestado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA 1:</a> <br>&nbsp; &nbsp;  Los art&#xED;culos 2&#xB0;, 5&#xB0; y 11 de la ley N&#xB0; 18.777, publicada en el &quot;Diario Oficial&quot; de 8 de febrero de 1989, disponen la derogaci&#xF3;n de la presente ley, desde la fecha de publicaci&#xF3;n del decreto supremo que dicte el Presidente de la Rep&#xFA;blica, en virtud del cual, determinar&#xE1; y asignar&#xE1; los derechos, obligaciones y patrimonio inicial que debe constituirse para la formaci&#xF3;n de las sociedades an&#xF3;nimas abiertas que se denominar&#xE1;n &quot;Empresa Metropolitana de Obras Sanitarias S.A.&quot; y &quot;Empresa de Obras Sanitarias de Valpara&#xED;so S.A.&quot; o &quot;EMOS S.A.&quot; y &quot;ESVAL S.A.&quot;, respectivamente.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1989-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8885068,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;. Autor&#xED;zase al Presidente de la Rep&#xFA;blica para cancelar el saldo l&#xED;quido de la deuda que la Ilustre Municipalidad de Santiago reconoce en favor del Banco Comercial de Chile, ascendente, en la fecha de la &#xFA;ltima liquidacion, a la suma de novecientos sesenta mil quinientos sesenta i cinco pesos cincuenta i tres centavos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xBA;. Autor&#xED;zase al Presidente de la Rep&#xFA;blica para cancelar el saldo l&#xED;quido de la deuda que la Ilustre Municipalidad de Santiago reconoce en favor del Banco Comercial de Chile, ascendente, en la fecha de la &#xFA;ltima liquidaci&#xF3;n, a la suma de novecientos setenta mil quinientos sesenta i cinco pesos cincuenta i tres centavos.</div><br><br></div>"
+        },
+        {
+          "part_id": 8885069,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2&#xB0;. Este pago se har&#xE1; deduciendo aquella cantidad de la suma que el expresado Banco adeuda al Fisco.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ART. 2&#xB0; Este pago se har&#xE1; deduciendo aquella cantidad de la suma que el espresado Banco adeuda al Fisco.</div><br></div>"
+        },
+        {
+          "part_id": 8885070,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 3&#xB0;. La Municipalidad de Santiago pagar&#xE1; la deuda en favor del Fisco con seis por ciento de interes i cuatro por ciento de amortizacion acumulativa anuales, aplic&#xE1;ndose mensualmente al pago el producto l&#xED;quido de la Empresa de Agua Potable.</div><div class=\"p\">&nbsp; &nbsp; Este producto l&#xED;quido se destinar&#xE1;: en primer lugar a pago de los intereses i amortizaciones a que se refiere el inciso anterior; en segundo lugar a los gastos estraordinarios de conservacion i ensanche de ese servicio y que a juicio del Gobierno fueren necesarios; i en tercer lugar a amortizaciones estraordinarias de la deuda en favor del Fisco.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ART. 3&#xB0; La Municipalidad de Santiago pagar&#xE1; la deuda en favor del Fisco con seis por ciento de interes i cuatro por ciento de amortizacion acumulativa anuales, aplic&#xE1;ndose mensualmente al pago el producto l&#xED;quido de la Empresa de Agua Potable.</div><div class=\"p\">&nbsp; &nbsp; Este producto l&#xED;quido se destinar&#xE1;: en primer lugar a pago de los intereses i amortizaciones a que se refiere el inciso anterior; en segundo lugar a los gastos estraordinarios de conservacion i ensanche de ese servicio i que, a juicio del Gobierno, fueren necesarios; i en tercer lugar a amortizaciones estraordinarias de la deuda en favor del Fisco. </div></div>"
+        },
+        {
+          "part_id": 8885071,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4&#xB0;. Desde la promulgacion de la presente lei hasta que esta deuda de la Municipalidad haya sido totalmente cancelada, la administracion de la Empresa de Agua Potable de Santiago ser&#xE1; ejercida por una junta completa de un miembro de la Municipalidad nombrado por la misma Corporacion i de dos personas nombradas por el Presidente de la Rep&#xFA;blica, las cuales desempe&#xF1;ar&#xE1;n sus funciones sin remuneracion.</div><div class=\"p\">&nbsp; &nbsp; Esta junta depender&#xE1; esclusivamente del Ministerio del Interior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ART. 4&#xB0; Desde la promulgacion de la presente lei hasta que esta deuda de la Municipalidad haya sido totalmente cancelada, la administracion de la Empresa de Agua Potable de Santiago ser&#xE1; ejercida por una junta compuesta de un miembro de la Municipalidad, nombrado por la misma Corporacion, i de dos personas nombradas por el Presidente de la Rep&#xFA;blica, las cuales desempe&#xF1;ar&#xE1;n sus funciones sin remuneracion.</div><div class=\"p\">&nbsp; &nbsp; Esta junta depender&#xE1; esclusivamente del Ministerio del Interior.</div><br></div>"
+        },
+        {
+          "part_id": 8885072,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 5&#xB0;. La Municipalidad podr&#xE1; pagar en cualquier tiempo el todo o parte de esta deuda.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ART. 5&#xB0; La Municipalidad podr&#xE1; pagar en cualquier tiempo el todo o parte de esta deuda.</div><br></div>"
+        },
+        {
+          "part_id": 8885073,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 6&#xB0;. El Presidente de la Rep&#xFA;blica dictar&#xE1; los reglamentos necesarios para el funcionamiento de este servicio, i para nombramiento i remocion de los empleados.</div><div class=\"p\">&nbsp; &nbsp; Los servicios prestados en la Empresa de Agua Potable no dan derecho a jubilacion.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ART. 6&#xB0; El Presidente de la Rep&#xFA;blica dictar&#xE1; los reglamentos necesarios para el funcionamiento de este servicio i para nombramiento i remocion de los empleados.</div><div class=\"p\">&nbsp; &nbsp; Los servicios prestados en la Empresa de Agua Potable no dan decho a jubilacion.</div><br></div>"
+        },
+        {
+          "part_id": 8885074,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 7&#xB0;. Pagada que sea totalmente la deuda a que se refiere la presente lei, la Municipalidad de Santiago recuperar&#xE1; la Empresa de Agua Potable, sin que pueda deducir accion o reclamo alguno con motivo de la administracion fiscal.</div><div class=\"p\">&nbsp; &nbsp; Durante el tiempo que permanezca vijente el todo o parte de la deuda, la Municipalidad no podr&#xE1; gravar o enajenar de modo alguno la Empresa de Agua Potable. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ART. 7&#xB0; Pagada que sea totalmente la deuda a que se refiere la presente lei, la Municipalidad de Santiago recuperar&#xE1; la Empresa de Agua Potable, sin que pueda deducir accion o reclamo alguno con motivo de la administracion fiscal.</div><div class=\"p\">&nbsp; &nbsp; Durante el tiempo que permanezca vijente el todo o parte de la deuda, la Municipalidad no podr&#xE1; gravar o enajenar de modo alguno la Empresa de Agua Potable. </div></div>"
+        },
+        {
+          "part_id": 8885075,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 8&#xB0;. La Empresa proporcionar&#xE1;, sin remuneracion alguna, el agua potable necesaria a los establecimientos de beneficencia i a los fiscales i particulares de ense&#xF1;anza gratuita.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ART. 8&#xB0; DEROGADO<span class=\"n\" id=\"n_1\">DL 2050 1977<br>ART 18</span></div><br></div>"
+        },
+        {
+          "part_id": 8885076,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 9&#xB0;. Esta lei comenzar&#xE1; a rejir desde el dia de su promulgacion.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ART. 9&#xB0; Esta lei comenzar&#xE1; a rejir desde el dia de su promulgacion.</div><br></div>"
+        },
+        {
+          "part_id": 8885077,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto, oido el Consejo de Estado, he tenido a bien aprobarlo i sancionarlo; por tanto, prom&#xFA;lguese i ll&#xE9;vese a efecto como lei de la Rep&#xFA;blica.- FEDERICO ERRAZURIZ.- Antonio Valdes C.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; I por cuanto, oido el Consejo de Estado, he tenido a bien aprobarlo i sancionarlo; por tanto, prom&#xFA;lguese i ll&#xE9;vese a efecto como lei de la Rep&#xFA;blica.- FEDERICO ERRAZURIZ.- Antonio Valdes C.</div><br></div>"
+        }
+      ]
+    }
+  }
+]
