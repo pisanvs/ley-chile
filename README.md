@@ -9,8 +9,8 @@ Repositorio git que reconstruye el historial completo de cambios en el corpus ju
 | | |
 |---|---|
 | **Historial** | `████████████████████` 99% · watermark 2026-05-31 · 353,513 normas |
-| **Cache**     | `░░░░░░░░░░░░░░░░░░░░` 0% · 1,708 / 357,259 normas fetched |
-| **Last run**  | 2026-05-31 04:35 UTC |
+| **Cache**     | `░░░░░░░░░░░░░░░░░░░░` 1% · 4,403 / 357,259 normas fetched |
+| **Last run**  | 2026-05-31 08:48 UTC |
 <!-- PIPELINE_STATUS_END -->
 
 <!-- GRAPH_STATUS_START -->
