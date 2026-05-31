@@ -172,7 +172,8 @@ def main() -> None:
     else:
         W = ""
 
-    stats = compute_watermark(graph, cache_dir, W=W)
+    historial_dir = Path(args.historial_dir) if args.historial_dir else None
+    stats = compute_watermark(graph, cache_dir, W=W, historial_dir=historial_dir)
     update_readme_status(Path(args.readme), stats)
     print(f"README updated — historial {stats['historial_count']}/{stats['total']}"
           f" ({stats['historial_count'] / (stats['total'] or 1):.0%})"
