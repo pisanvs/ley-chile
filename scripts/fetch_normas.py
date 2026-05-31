@@ -205,11 +205,13 @@ def _save_graph(path: Path, graph: dict) -> None:
 def _worker(id_norma: int, cache_dir: Path, session: requests.Session) -> tuple[int, dict | None, Exception | None]:
     """Returns (id_norma, parsed_data_or_None, error_or_None).
 
-    Retries transient server errors (502/504/500, read timeouts, connection
-    drops) up to MAX_RETRIES with exponential backoff, since LeyChile's gateway
-    is intermittently flaky.  Two cases are returned immediately without retry:
-      - 429/503 rate-limits — the caller's AdaptiveLimiter must react to these.
-      - permanent 4xx client errors — they won't change on retry (dead idNorma).
+    Retries genuinely transient errors (502 bad gateway, 504 gateway timeout,
+    read timeouts, connection drops) up to MAX_RETRIES with exponential
+    backoff.  Bubbles up immediately for cases where retry is pointless:
+      - 4xx client errors (dead idNorma).
+      - 500 — LeyChile returns this for missing idNormas (not transient), so
+        retrying just wastes ~3s per bad id across contiguous dead ranges.
+      - 429 / 503 rate-limits — the caller's AdaptiveLimiter handles backoff.
     Runs in a thread pool, so the blocking time.sleep does not stall the loop.
     """
     last_exc: Exception | None = None
@@ -219,7 +221,7 @@ def _worker(id_norma: int, cache_dir: Path, session: requests.Session) -> tuple[
             return (id_norma, data, None)
         except requests.HTTPError as exc:
             status = getattr(getattr(exc, "response", None), "status_code", None)
-            if status in (429, 503) or (status is not None and 400 <= status < 500):
+            if status in (429, 503, 500) or (status is not None and 400 <= status < 500):
                 return (id_norma, None, exc)
             last_exc = exc
         except Exception as exc:
@@ -311,14 +313,26 @@ async def run(data_root: Path, limit: int | None) -> None:
 
         if err is not None:
             status_code = getattr(getattr(err, "response", None), "status_code", None)
+            # LeyChile returns 500 for missing idNormas — treat as permanent,
+            # same as 4xx.  These are dead ids in the catalog and must NOT
+            # drop limiter concurrency or queue up for the next 2 runs.
+            is_permanent = (
+                status_code == 500
+                or (status_code is not None and 400 <= status_code < 500)
+            )
             if status_code in (429, 503):
                 await limiter.on_rate_limit()
                 logger.warning(f"Rate limited on {id_norma}: {err}")
+                failed_map[str(id_norma)] = failed_map.get(str(id_norma), 0) + 1
+            elif is_permanent:
+                # Quietly skip — log only once per ~LOG_EVERY to avoid noise;
+                # mark permanent so future runs don't redo the work.
+                failed_map[str(id_norma)] = 3
             else:
                 failure_count = failed_map.get(str(id_norma), 0)
                 await limiter.on_error(failure_count)
                 logger.warning(f"Error fetching {id_norma}: {err}")
-            failed_map[str(id_norma)] = failed_map.get(str(id_norma), 0) + 1
+                failed_map[str(id_norma)] = failure_count + 1
         else:
             await limiter.on_success()
             # Update graph node
