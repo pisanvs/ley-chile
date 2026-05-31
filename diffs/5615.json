@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1927-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1930-07-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8988920,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 22. La asignaci&#xF3;n para gastos de representaci&#xF3;n comenzar&#xE1; a devengarse desde el d&#xED;a en que el funcionario a quien est&#xE9; acordada tome posesi&#xF3;n de su puesto y le corresponder&#xE1; s&#xF3;lo mientras est&#xE9; efectivamente desempe&#xF1;&#xE1;ndolo.</div><div class=\"p\">&nbsp; &nbsp; Los Consejeros, Primeros Secretarios de Embajada y Primeros Secretarios de Legaci&#xF3;n, percibir&#xE1;n, mientras act&#xFA;an como Encargados de Negocios ad-interin, y siempre que en el presupuesto no se consulte asignaci&#xF3;n especial para gastos de representaci&#xF3;n en dicho car&#xE1;cter, la misma asignaci&#xF3;n para tales gastos de representaci&#xF3;n acordada por el presupuesto al Embajador o Ministro respectivo y con cargo al &#xED;tem que la consulta. Esta misma disposici&#xF3;n regir&#xE1; para los C&#xF3;nsules Generales que desempe&#xF1;en funciones de Encargados de Negocios ad-interin.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 22. La asignaci&#xF3;n para gastos de representaci&#xF3;n comenzar&#xE1; a devengarse desde el d&#xED;a en que el funcionario a quien est&#xE9; acordada tome posesi&#xF3;n de su puesto y le corresponder&#xE1; s&#xF3;lo mientras est&#xE9; efectivamente desempe&#xF1;&#xE1;ndolo.</div><div class=\"p\">&nbsp; &nbsp; Los Consejeros, Primeros Secretarios de Embajada,<span class=\"n\" id=\"n_0\">DFL 1198<br>1930</span> Primeros Secretarios de Legaci&#xF3;n y C&#xF3;nsules Generales que desempe&#xF1;en temporalmente funciones de Encargados de Negocios, por renuncia o licencia del Jefe de Misi&#xF3;n, s&#xF3;lo percibir&#xE1;n, siempre que en el presupuesto no se consulte asignaci&#xF3;n especial para gastos de representaci&#xF3;n en favor de dichos Encargados de Negocios, por su car&#xE1;cter de tales, una cuota que el Presidente de la Rep&#xFA;blica fijar&#xE1; entre el veinticinco por ciento (25%) y el cincuenta por ciento (50%) de la asignaci&#xF3;n que el presupuesto consulte, con aquel objeto, para el Jefe de la respectiva Misi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; En los casos de ausencia o licencia, el Embajador o Ministro percibir&#xE1; la parte que el Presidente de la Rep&#xFA;blica no asigne al Encargado de Negocios ad-interim, y en los casos de renuncia o vacancia, la misma parte quedar&#xE1; sin invertirse.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

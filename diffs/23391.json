@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1912-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1925-09-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7165910,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Lei n&#xFA;m. 2,621.- Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de Lei:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Lei n&#xFA;m. 2,621.- Por cuanto el Congreso Nacional<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp;  Proyecto de Lei:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 83 del DL 559, Hacienda, publicado el 26.09.1925, derog&#xF3; la presente ley a contar de su fecha de vigencia, esto es, 6 meses despu&#xE9;s de su publicaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

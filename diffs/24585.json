@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1927-12-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1931-05-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8829295,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente:</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> aprobaci&#xF3;n al siguiente:</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 162 del DFL 135, Hacienda, publicado el 09.05.1931, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1927-06-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1930-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5958467,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Fija derechos de internaci&#xF3;n a ganado; declara libre de impuestos internaci&#xF3;n hembras especie bovina que pasen por Uspallata, Planch&#xF3;n, Lonquimay y Puc&#xF3;n, destinadas a la crianza.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha prestado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Fija derechos de internaci&#xF3;n a ganado; declara libre<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> de impuestos internaci&#xF3;n hembras especie bovina que pasen por Uspallata, Planch&#xF3;n, Lonquimay y Puc&#xF3;n, destinadas a la crianza.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha prestado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 6&#xB0; de la LEY 4915, publicada el 19.12.1930, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1918-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1925-09-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9053198,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Se posterga el plazo fijado por la lei n&#xFA;mero 2,192, de 30 de agosto de 1909, para la conversion del papel moneda de curso forzoso, hasta el 31 de diciembre de 1919.</div><div class=\"p\">&nbsp; &nbsp;  Se postergan, igualmente, hasta el 31 de diciembre de 1919, los demas plazos consultados en la citada lei.</div><div class=\"p\">&nbsp; &nbsp;  Se prohibe la esportaci&#xF3;n del oro bajo pena de comiso.</div><div class=\"p\">&nbsp; &nbsp;  La presente lei comenzar&#xE1; a rejir desde su publicaci&#xF3;n en el Diario Oficial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Se posterga el plazo fijado por la lei n&#xFA;mero 2,192, de 30 de agosto de 1909, para la conversion del papel moneda de curso forzoso, hasta el 31 de diciembre de 1919.</div><div class=\"p\">&nbsp; &nbsp;  Se postergan, igualmente, hasta el 31 de diciembre de 1919, los demas plazos consultados en la citada lei.</div><div class=\"p\">&nbsp; &nbsp;  Se prohibe la esportaci&#xF3;n del oro bajo pena de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> comiso.<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1:</a></div></div><div class=\"p\">&nbsp; &nbsp;  La presente lei comenzar&#xE1; a rejir desde su publicaci&#xF3;n en el Diario Oficial.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 23 del DL 528, publicado el 16.09.1925, dispuso la derogaci&#xF3;n de la prohibici&#xF3;n para exportar oro contenida en el presente art&#xED;culo, desde el d&#xED;a en que el Banco Central de Chile abra oficialmente su oficina.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp;  El Art. 22 del DL 606, publicado el 16.10.1925, reiter&#xF3; la modificaci&#xF3;n que el DL 528 introdujo a la presente norma, referida en la nota anterior.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

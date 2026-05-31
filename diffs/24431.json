@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1924-09-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1952-08-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8846204,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> aprobaci&#xF3;n al siguiente<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1:</a></div></div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 34, Higiene, publicado el 03.03.1926, fij&#xF3; el texto refundido de la presente norma.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 82 de la LEY 10383, publicada el 08.08.1952, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

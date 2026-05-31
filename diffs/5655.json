@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1927-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-03-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8458659,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 8,352.- Santiago, 23 de Diciembre de 1927.- En uso de las facultades que me confieren las leyes n&#xFA;meros 4,113, de 25 de Enero y 4,156, de 4 de Agosto, &#xFA;ltimos, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 8,352.- Santiago, 23 de Diciembre de 1927.- En<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> uso de las facultades que me confieren las leyes n&#xFA;meros 4,113, de 25 de Enero y 4,156, de 4 de Agosto, &#xFA;ltimos,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 30 del DFL 213, Interior, publicado el 30.03.1960, derog&#xF3; el presente decreto con fuerza de ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

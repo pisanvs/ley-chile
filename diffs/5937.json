@@ -1,0 +1,47 @@
+[
+  {
+    "fecha": "1925-03-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1973-02-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9815825,
+          "old": null,
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Decl&#xE1;rase en estado de sitio las provincias de Santiago, Valparaiso y Aconcagua.</div><br></div>"
+        },
+        {
+          "part_id": 9815826,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 2.o Las fuerzas armadas de toda la Rep&#xFA;blica, incluyendo los carabineros y las polic&#xED;as fiscales y comunales, depender&#xE1;n, mi&#xE9;ntras rija el decreto-lei, de la respectiva comandancia de Armas.</div><br><br></div>"
+        },
+        {
+          "part_id": 9815827,
+          "old": null,
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art. 3.o Las Comandancias de Armas podr&#xE1;n suspender o restrinjir el derecho de reunion y la libertad de prensa.</div><br><br></div>"
+        },
+        {
+          "part_id": 9815828,
+          "old": null,
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art. 4.o&nbsp; El Consejo Ordinario de Guerra o el Consejo de Oficiales Jenerales, resolviendo en &#xFA;nica instancia, podr&#xE1;n condenar a las personas a confinamiento, estra&#xF1;amiento, relegacion o destierro.</div><br><div class=\"p\">&nbsp; &nbsp;  Cuando los Consejos de Guerra condenen a la pena de muerte, deber&#xE1; consultarse a la Corte de Apelaciones respectiva, aplic&#xE1;ndose las reglas ordinarias.</div><br><br></div>"
+        },
+        {
+          "part_id": 9815829,
+          "old": null,
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art. 5.o El presente decreto-lei rije desde su fecha hasta su derogacion espresa.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9815830,
+          "old": null,
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  T&#xF3;mese razon, comun&#xED;quese, publ&#xED;quese e ins&#xE9;rtese&nbsp; en el Boletin de las Leyes y Decretos del Gobierno.- Emilio Bello C.&#x2013; C.A. Ward.- Pedro P. Dartnell E.- Armando Jaramillo V.</div><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

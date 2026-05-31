@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1926-09-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1928-02-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7168059,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o&nbsp; Se autoriza al Presidente de la Rep&#xFA;blica para contratar uno o varios empr&#xE9;stitos, que produzcan hasta la suma de un mill&#xF3;n novecientas ochenta y nueve mil quinientas cincuenta libras esterlinas ($ 1.989,550), o su equivalente en d&#xF3;lares.</div><div class=\"p\">&nbsp; &nbsp;  El producto del o de los empr&#xE9;stitos de que trata el inciso anterior, se destinar&#xE1;:</div><div class=\"p\">&nbsp; &nbsp;  a) Al rescate y amortizaci&#xF3;n total de los siguientes empr&#xE9;stitos, correspondientes a la deuda interna del Estado:</div><br><div class=\"p\">Habitaciones</div><div class=\"p\">para obreros Ley 1,969-8% con 2%, reducido a $ 2.016,000</div><div class=\"p\">Obras de</div><div class=\"p\">regad&#xED;o&nbsp; &nbsp; &nbsp;  &quot;&nbsp; 2,953-7%&nbsp; &quot;&nbsp; 1%&nbsp; &nbsp; &nbsp; &quot;&nbsp; &nbsp; &quot;&nbsp;  8.421,000</div><div class=\"p\">Obras de</div><div class=\"p\">regad&#xED;o&nbsp; &nbsp; &nbsp;  &quot;&nbsp; 2,953-8%&nbsp; &quot;&nbsp; 1%&nbsp; &nbsp; &nbsp; &quot;&nbsp; &nbsp; &quot;&nbsp; 19.207,000</div><div class=\"p\">Obras de</div><div class=\"p\">regad&#xED;o&nbsp; &nbsp; &nbsp;  &quot;&nbsp; 2,953-8%&nbsp; &quot;&nbsp; 2%&nbsp; &nbsp; &nbsp; &quot;&nbsp; &nbsp; &quot;&nbsp;  5.374,000</div><div class=\"p\">Edificaci&#xF3;n</div><div class=\"p\">escolar&nbsp; &nbsp; &nbsp;  &quot;&nbsp; 3,069-7%&nbsp; &quot;&nbsp; 1%&nbsp; &nbsp; &nbsp; &quot;&nbsp; &nbsp; &quot;&nbsp;  5.588,000</div><div class=\"p\">Edificaci&#xF3;n</div><div class=\"p\">escolar&nbsp; &nbsp; &nbsp;  &quot;&nbsp; 3,069-8%&nbsp; &quot;&nbsp; 2%&nbsp; &nbsp; &nbsp; &quot;&nbsp; &nbsp; &quot;&nbsp;  2.363,000</div><div class=\"p\">Parque San</div><div class=\"p\">Crist&#xF3;bal&nbsp; &nbsp;  &quot;&nbsp; 3,925-8%&nbsp; &quot;&nbsp; 2%&nbsp; &nbsp; &nbsp; &quot;&nbsp; &nbsp; &quot;&nbsp; &nbsp;  818,000</div><div class=\"p\">Regad&#xED;o de</div><div class=\"p\">Tacna&nbsp; &nbsp; &nbsp; &nbsp;  &quot;&nbsp; 3,790-8%&nbsp; &quot;&nbsp; 1%&nbsp; &nbsp; &nbsp; &quot;&nbsp; &nbsp; &quot;&nbsp;  2.916,000</div><div class=\"p\">Canalizaci&#xF3;n</div><div class=\"p\">del r&#xED;o</div><div class=\"p\">Mapocho&nbsp; &nbsp; &nbsp;  &quot;&nbsp; 3,814-8% (amort. 31 Dic. 1926)1.500,000</div><div class=\"p\">Bonos del</div><div class=\"p\">Tesoro&nbsp; &nbsp; &nbsp; &nbsp; &quot;&nbsp; 3,874-8%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  25.920,000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $ 74.622,000</div><br><div class=\"p\">&nbsp; &nbsp;  b) Al rescate y amortizaci&#xF3;n del empr&#xE9;stito fiscal contratado con la firma Blair y Compa&#xF1;&#xED;a, reducido actualmente a ciento veinticuatro mil libras esterlinas (L 124,000).</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o&nbsp; Se autoriza al Presidente de la Rep&#xFA;blica para contratar uno o varios empr&#xE9;stitos, que produzcan hasta la suma de un mill&#xF3;n novecientas ochenta y nueve mil quinientas cincuenta libras esterlinas ($ 1.989,550), o su equivalente en d&#xF3;lares.</div><div class=\"p\">&nbsp; &nbsp;  El producto del o de los empr&#xE9;stitos de que trata el inciso anterior, se destinar&#xE1;:</div><br><div class=\"p\">&nbsp; &nbsp;  a) DEROGADA<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=24644&amp;idParte=7168508&amp;idVersion=1928-02-16\">LEY 4303<br>Art. Transitorio<br>D.O. 16.02.1928</a></span>.</div><br><div class=\"p\">&nbsp; &nbsp;  b) Al rescate y amortizaci&#xF3;n del empr&#xE9;stito fiscal contratado con la firma Blair y Compa&#xF1;&#xED;a, reducido actualmente a ciento veinticuatro mil libras esterlinas (L 124,000).</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 24644,
+      "fecha": "1928-02-16"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1928-02-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1941-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5958991,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Autoriza al Presidente de la Rep&#xFA;blica, para atender las acu&#xF1;aciones extraordinarias que haga el Banco Central con la utilidad fiscal que se obtenga entre el valor de la moneda y el costo de la elaboraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Autoriza al Presidente de la Rep&#xFA;blica, para<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> atender las acu&#xF1;aciones extraordinarias que haga el Banco Central con la utilidad fiscal que se obtenga entre el valor de la moneda y el costo de la elaboraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 5 de la LEY 7139, publicada el 19.12.1941, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

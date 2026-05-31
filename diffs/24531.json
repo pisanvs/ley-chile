@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1927-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1930-02-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5958616,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Crea Tribunal Especial de divisi&#xF3;n de comunidades ind&#xED;genas y reglamenta procedimientos. (Asiento en Temuco).</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Crea Tribunal Especial de divisi&#xF3;n de comunidades<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> ind&#xED;genas y reglamenta procedimientos. (Asiento en Temuco).</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 49 de la LEY 4802, publicada el 11.02.1930, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

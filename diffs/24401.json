@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1924-05-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1924-05-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9027895,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Cr&#xE9;ase, en la Planta de Directivos del Servicio de Gobierno Interior, Un (1) cargo paralelo grado 6&#xB0; de la escala &#xFA;nica de remuneraciones, a contar del 1&#xB0; de Abril de 1991.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1.o DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_0\">LEY 4017<br>ART. 5&#xB0;</span></div><br></div>"
+        },
+        {
+          "part_id": 9027896,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- El cargo creado ser&#xE1; ocupado por do&#xF1;a Rosa Amelia Theoduloz Dell&apos;Aquila, (RUN. 6.853.848-3), quien hizo uso de la opci&#xF3;n de permanecer en igual cargo y remuneraciones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 2.o DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_1\">LEY 4017<br>ART. 5&#xB0;</span></div><br></div>"
+        },
+        {
+          "part_id": 9027899,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 5.o Cr&#xE9;ase una nueva plaza de relator para el<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> servicio de cada una de las Cortes de Apelaciones de Valparaiso, Talca y Valdivia.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El DL 361, de 23 marzo de 1925, suprimi&#xF3; en la Corte de Apelaciones de Talca, la tercera plaza de Relator creada para el servicio de dicho tribunal por el art. 5&#xB0; de la presente ley.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 5.o Cr&#xE9;ase una nueva plaza de relator para el<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 1</a></div> servicio de cada una de las Cortes de Apelaciones de Valparaiso, Talca y Valdivia.</div><br><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El DL 361, de 23 marzo de 1925, suprimi&#xF3; en la Corte de Apelaciones de Talca, la tercera plaza de Relator creada para el servicio de dicho tribunal por el art. 5&#xB0; de la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

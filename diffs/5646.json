@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1927-09-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1928-01-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9089643,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4.o La Universidad se compone de las siguientes facultades presididas por su respectivo Decano:</div><div class=\"p\">&nbsp; &nbsp; a) De Ciencia, Matem&#xE1;ticas y Naturales;</div><div class=\"p\">&nbsp; &nbsp; b) De Ingenier&#xED;a y Arquitectura;</div><div class=\"p\">&nbsp; &nbsp; c) de Ciencias M&#xE9;dicas;</div><div class=\"p\">&nbsp; &nbsp; d) De Ciencias Jur&#xED;dicas y Sociales; y</div><div class=\"p\">&nbsp; &nbsp; e) De Humanidades, Filosof&#xED;a y Letras.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=5653&amp;idParte=5871262&amp;idVersion=1928-01-04\">DFL 7818,<br>EDUCACI&#xD3;N<br>D.O. 04.01.1928</a></span>&nbsp; &nbsp;  Art&#xED;culo 4.o La Universidad se compone de las siguientes Facultades, presididas por su respectivo Decano:</div><div class=\"p\">&nbsp; &nbsp; a) De Ciencias Matem&#xE1;ticas y Naturales;</div><div class=\"p\">&nbsp; &nbsp; b) De Ingenier&#xED;a y de Arquitectura;</div><div class=\"p\">&nbsp; &nbsp; c) De Ciencias M&#xE9;dicas;</div><div class=\"p\">&nbsp; &nbsp; d) De Ciencias Jur&#xED;dicas y Sociales;</div><div class=\"p\">&nbsp; &nbsp; e) De Humanidad, Filosof&#xED;a y Letras; y</div><div class=\"p\">&nbsp; &nbsp; f) De Agronom&#xED;a y Veterinaria;</div><br></div>"
+        },
+        {
+          "part_id": 9089644,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 5.o Formar&#xE1;n el Consejo Universitario:</div><div class=\"p\">&nbsp; &nbsp; a) El Rector de la Universidad, que ser&#xE1; a la vez, Director General de Educaci&#xF3;n Universitaria;</div><div class=\"p\">&nbsp; &nbsp; b) Los Decanos de Facultades;</div><div class=\"p\">&nbsp; &nbsp; c) Dos representantes elegidos por la mayor&#xED;a absoluta del Claustro Pleno Universitario, el cual deber&#xE1; sesionar, para este objeto, con quorum no inferior a la mitad de sus miembros;</div><div class=\"p\">&nbsp; &nbsp; d) El Director del Instituto Pedag&#xF3;gico;</div><div class=\"p\">&nbsp; &nbsp; e) El Director del Instituto Superior de Educaci&#xF3;n F&#xED;sica y Manual;</div><div class=\"p\">&nbsp; &nbsp; f) Un miembro nombrado por el Presidente de la Rep&#xFA;blica;</div><div class=\"p\">&nbsp; &nbsp; g) Tres representantes elegidos por instituciones cient&#xED;ficas o profesionales, que signe el Presidente de la Rep&#xFA;blica; y</div><div class=\"p\">&nbsp; &nbsp; h) Un representante de las Universidades particulares designado por el Presidente de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=5653&amp;idParte=5871262&amp;idVersion=1928-01-04\">DFL 7818,<br>EDUCACI&#xD3;N<br>D.O. 04.01.1928</a></span>&nbsp; &nbsp; Art. 5.o El Consejo Universitario estar&#xE1; formado por:</div><div class=\"p\">&nbsp; &nbsp; a) El Rector de la Universidad que lo presidir&#xE1;;</div><div class=\"p\">&nbsp; &nbsp; b) Los Decanos de las Facultades;</div><div class=\"p\">&nbsp; &nbsp; c) Un miembro nombrado por el Presidente de la Rep&#xFA;blica; y</div><div class=\"p\">&nbsp; &nbsp; d) Dos representantes, ajenos a la docencia y pertenecientes a las actividades profesionales, elegido por la mayor&#xED;a absoluta del claustro pleno universitario.</div><div class=\"p\">&nbsp; &nbsp; En caso de empate, decidir&#xE1; el voto del Rector de la Universidad.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 5653,
+      "fecha": "1928-01-04"
+    }
+  }
+]

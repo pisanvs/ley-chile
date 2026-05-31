@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1923-03-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1931-05-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8276825,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 3,915, que fija el peso m&#xE1;ximum de los sacos que contengan cualquiera clase de productos, destinados a cargu&#xED;o por fuerza del hombre.</div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 3,915.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 3,915, que fija el peso m&#xE1;ximum de los<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> sacos que contengan cualquiera clase de productos, destinados a cargu&#xED;o por fuerza del hombre.</div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 3,915.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El N&#xB0; 3 del Art. 574 del DFL 178, Bienestar Social, publicado el 28 de mayo de 1931, que refundi&#xF3; en un solo texto la presente ley con las dem&#xE1;s leyes referentes al trabajo, derog&#xF3; esta norma. El Art. 576 dispone que dicho texto refundido regir&#xE1; 6 meses despu&#xE9;s de su publicaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

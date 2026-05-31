@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1927-08-24",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1927-08-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9078632,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo... Para los efectos de la subrogaci&#xF3;n, se entender&#xE1; tambi&#xE9;n que falta el juez, si no hubiere llegado a la hora ordinaria de despacho, o si no estuviere presente para evacuar aquellas diligencias que requieran su intervenci&#xF3;n personal, como son las audiencias de prueba, los remates, los comparendos u otras semejantes, de todo lo cual dejar&#xE1; constancia, en los autos, el secretario que act&#xFA;e en ellos.</div><div class=\"p\">&nbsp; &nbsp; &quot;En tales casos, la subrogaci&#xF3;n s&#xF3;lo durar&#xE1; el tiempo de la ausencia.</div><div class=\"p\">&nbsp; &nbsp; &quot;El secretario dar&#xE1; cuenta mensualmente de estas subrogaciones a la respectiva Corte de Apelaciones, la que deber&#xE1; dictar las providencias del caso, si este hecho ocurriere con relativa frecuencia.</div><div class=\"p\">&nbsp; &nbsp; &quot;Los subrogantes s&#xF3;lo podr&#xE1;n dictar sentencias definitivas en aquelas negocios en que conozcan por inhabilidad, implicancia o recusaci&#xF3;n del titular.&quot;</div><div class=\"p\">&nbsp; &nbsp; Cuando el subrogante sea un Juez de letras, el<span class=\"n\" id=\"n_2\">LEY 7419<br>ART. 6&#xB0;</span> Defensor P&#xFA;blico o el Secretario del respectivo Juzgado, no regir&#xE1; la limitaci&#xF3;n del inciso anterior&quot;.</div><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  La modificaci&#xF3;n introducida por la ley 7.419, regir&#xE1; trienta di&#xE1;s despu&#xE9;s de la fecha de su publicaci&#xF3;n en el Diario Oficial, efectuada el 24 de mayo de 1943.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2.o Der&#xF3;gase la ley n&#xFA;mero 1,468, de 1&#xB0; de Mayo de 1901, en la parte que se refiere al art&#xED;culo 129 de la ley de 15 de Octubre de 1875, sobre Organizaci&#xF3;n y Atribuciones de los Tribunales. </div></div>"
+        },
+        {
+          "part_id": 9078637,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4&#xB0; Se reemplaza el art&#xED;culo 3.o de la ley n&#xFA;mero 3,390, de 15 de Julio de 1918, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 3.o Para los efecto de lo dispuesto en los art&#xED;culos 2.o, 4.o, 5.o, 17 y 18 de la presente ley, el Presidente de la Rep&#xFA;blica designar&#xE1;, en el mes de Enero de cada a&#xF1;o, seis abogados para la Corte Suprema, seis para la Corte de Apelaciones de Santiago, y tres para cada una de las dem&#xE1;s Cortes de Apelaciones, previa formaci&#xF3;n, por la Corte Suprema, de cinquenas o ternas, seg&#xFA;n se trate del primero o de los dem&#xE1;s de dichos Tribunales.</div><div class=\"p\">&nbsp; &nbsp; &quot;Las ternas ser&#xE1;n formadas tomando los nombres de una lista que, en el mes de Diciembre de cada a&#xF1;o, enviar&#xE1;n a la Corte Suprema los Consejos de los Colegios de Abogados residentes en los asientos de las diversas Cortes de Apelaciones. En esta lista deber&#xE1;n figurar abogados que tengan su residencia en la ciudad que sirve de asiento al Tribunal respectivo; que re&#xFA;nan las condiciones requeridas para ejercer los cargos de<span class=\"n\" id=\"n_4\">LEY 4884<br>Art. &#xFA;nico<br>D.O. 06.09.1930</span> Ministros.</div><div class=\"p\">&nbsp; &nbsp; &quot;Si no hubiere Colegio de Abogados, las listas ser&#xE1;n formadas por las Cortes de Apelaciones respectivas.</div><div class=\"p\">&nbsp; &nbsp; &quot;Estas listas se compondr&#xE1;n, para Santiago, de treinta nombres, y de quince para las dem&#xE1;s Cortes.</div><div class=\"p\">&nbsp; &nbsp; &quot;Para la formaci&#xF3;n de las cinquenas de los abogados integrantes de la Corte Suprema, este Tribunal tomar&#xE1; sus nombres de una lista de treinta y cinco abogados,<span class=\"n\" id=\"n_5\">LEY 4176<br>Art. 1&#xBA;<br>D.O. 27.09.1927</span> que reunan las condiciones exigidas en el inciso segundo, y que le ser&#xE1; enviada por el Consejo General de la Orden de los Abogados, en el mes de Diciembre de cada a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; &quot;En las cinquenas o ternas, no se podr&#xE1;n repetir nombres.&quot; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4&#xB0; Se reemplaza el art&#xED;culo 3.o de la ley n&#xFA;mero 3,390, de 15 de Julio de 1918, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 3.o Para los efecto de lo dispuesto en los art&#xED;culos 2.o, 4.o, 5.o, 17 y 18 de la presente ley, el Presidente de la Rep&#xFA;blica designar&#xE1;, en el mes de Enero de cada a&#xF1;o, seis abogados para la Corte Suprema, seis para la Corte de Apelaciones de Santiago, y tres para cada una de las dem&#xE1;s Cortes de Apelaciones, previa formaci&#xF3;n, por la Corte Suprema, de cinquenas o ternas, seg&#xFA;n se trate del primero o de los dem&#xE1;s de dichos Tribunales.</div><div class=\"p\">&nbsp; &nbsp; &quot;Las ternas ser&#xE1;n formadas tomando los nombres de una lista que, en el mes de Diciembre de cada a&#xF1;o, enviar&#xE1;n a la Corte Suprema los Consejos de los Colegios de Abogados residentes en los asientos de las diversas Cortes de Apelaciones. En esta lista deber&#xE1;n figurar abogados que tengan su residencia en la ciudad que sirve de asiento al Tribunal respectivo; que re&#xFA;nan las condiciones requeridas para ejercer los cargos de<span class=\"n\" id=\"n_2\">LEY 4884<br>Art. &#xFA;nico<br>D.O. 06.09.1930</span> Ministros.</div><div class=\"p\">&nbsp; &nbsp; &quot;Si no hubiere Colegio de Abogados, las listas ser&#xE1;n formadas por las Cortes de Apelaciones respectivas.</div><div class=\"p\">&nbsp; &nbsp; &quot;Estas listas se compondr&#xE1;n, para Santiago, de treinta nombres, y de quince para las dem&#xE1;s Cortes.</div><div class=\"p\">&nbsp; &nbsp; &quot;Para la formaci&#xF3;n de las cinquenas de los abogados integrantes de la Corte Suprema, este Tribunal tomar&#xE1; sus nombres de una lista de treinta y cinco abogados,<span class=\"n\" id=\"n_3\">LEY 4176<br>Art. 1&#xBA;<br>D.O. 27.09.1927</span> que reunan las condiciones exigidas en el inciso segundo, y que le ser&#xE1; enviada por el Consejo General de la Orden de los Abogados, en el mes de Diciembre de cada a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; &quot;En las cinquenas o ternas, no se podr&#xE1;n repetir nombres.&quot; </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1943-03-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

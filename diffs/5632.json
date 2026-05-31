@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1927-05-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-03-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8988997,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2,484.- Santiago, 27 de Abril de 1927.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.o Que el servicio de orden y seguridad interna de la Rep&#xFA;blica se encuentra entregado a las polic&#xED;as fiscales, polic&#xED;as comunales y Cuerpo de Carabineros;</div><div class=\"p\">&nbsp; &nbsp; 2.o Que todas estas fuerzas tienen una misma finalidad, cual es la de asegurar el orden de las ciudades, campos y comunas rurales y, en cambio, obedecen a autoridades distintas, tienen organizaciones diversas y est&#xE1;n sujetas a disposiciones de distinta &#xED;ndole, con grave perjuicio para la unidad del servicio;</div><div class=\"p\">&nbsp; &nbsp; 3.o Que las circunstancias del considerando anterior determinan un servicio deficiente y dificultan la expedici&#xF3;n de las &#xF3;rdenes y la cooperaci&#xF3;n en el desempe&#xF1;o de los distintos funcionarios del orden;</div><div class=\"p\">&nbsp; &nbsp; 4.o Que las polic&#xED;as comunales han sido, en gran parte, destinadas a servir fines pol&#xED;ticos e intereses personales, lo que ha significado la contrataci&#xF3;n de personal sin competencia o sin las condiciones necesarias para la importante funci&#xF3;n a que est&#xE1;n destinadas;</div><div class=\"p\">&nbsp; &nbsp; 5.o Que es condici&#xF3;n esencial de este Gobierno reforzar el principio de autoridad, lo que implica la necesidad imperiosa de tener agentes de orden p&#xFA;blico, capacitados moral, f&#xED;sica e intelectualmente para el desempe&#xF1;o de sus funciones diarias; y</div><div class=\"p\">&nbsp; &nbsp; 6.o La necesidad de dar a estos servicios la organizaci&#xF3;n y distribuci&#xF3;n l&#xF3;gica que resultan de los considerandos anteriores y lo dispuesto por el art&#xED;culo 15 de la ley 4,113, de 25 de Enero del presente a&#xF1;o, He acordado y decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2,484.- Santiago, 27 de Abril de 1927.-<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.o Que el servicio de orden y seguridad interna de la Rep&#xFA;blica se encuentra entregado a las polic&#xED;as fiscales, polic&#xED;as comunales y Cuerpo de Carabineros;</div><div class=\"p\">&nbsp; &nbsp; 2.o Que todas estas fuerzas tienen una misma finalidad, cual es la de asegurar el orden de las ciudades, campos y comunas rurales y, en cambio, obedecen a autoridades distintas, tienen organizaciones diversas y est&#xE1;n sujetas a disposiciones de distinta &#xED;ndole, con grave perjuicio para la unidad del servicio;</div><div class=\"p\">&nbsp; &nbsp; 3.o Que las circunstancias del considerando anterior determinan un servicio deficiente y dificultan la expedici&#xF3;n de las &#xF3;rdenes y la cooperaci&#xF3;n en el desempe&#xF1;o de los distintos funcionarios del orden;</div><div class=\"p\">&nbsp; &nbsp; 4.o Que las polic&#xED;as comunales han sido, en gran parte, destinadas a servir fines pol&#xED;ticos e intereses personales, lo que ha significado la contrataci&#xF3;n de personal sin competencia o sin las condiciones necesarias para la importante funci&#xF3;n a que est&#xE1;n destinadas;</div><div class=\"p\">&nbsp; &nbsp; 5.o Que es condici&#xF3;n esencial de este Gobierno reforzar el principio de autoridad, lo que implica la necesidad imperiosa de tener agentes de orden p&#xFA;blico, capacitados moral, f&#xED;sica e intelectualmente para el desempe&#xF1;o de sus funciones diarias; y</div><div class=\"p\">&nbsp; &nbsp; 6.o La necesidad de dar a estos servicios la organizaci&#xF3;n y distribuci&#xF3;n l&#xF3;gica que resultan de los considerandos anteriores y lo dispuesto por el art&#xED;culo 15 de la ley 4,113, de 25 de Enero del presente a&#xF1;o,</div><div class=\"p\">&nbsp; &nbsp; He acordado y decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 30 del DFL 213, Interior, publicado el 30.03.1960, derog&#xF3; el presente decreto con fuerza de ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

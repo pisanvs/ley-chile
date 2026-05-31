@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1927-01-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1928-11-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8775655,
+          "old": "<div><div class=\"p\">&#xA0;</div></div>",
+          "new": "<div><div class=\"p\">@@</div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 3&#xB0; de la LEY 4468, publicada el 28.11.1928, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1932-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8775655,
+          "old": "<div><div class=\"p\">@@</div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 3&#xB0; de la LEY 4468, publicada el 28.11.1928, derog&#xF3; la presente ley.<br></div></div>",
+          "new": "<div><div class=\"p\">@@</div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 3&#xB0; de la LEY 4468, publicada el 28.11.1928, derog&#xF3; la presente ley.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp;  El Art. 5&#xB0; del DL 104, Hacienda, publicado el 01.07.1932, reiter&#xF3; la derogaci&#xF3;n de la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

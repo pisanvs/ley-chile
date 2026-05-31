@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1921-12-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1931-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7167320,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 3,815, que organiza el Cuerpo de Jendarmer&#xED;a de Prisiones</div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 3,815.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 3,815, que organiza el Cuerpo de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Jendarmer&#xED;a de Prisiones<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1:</a></div></div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 3,815.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEI:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 21 del DFL 301, Justicia, publicado el 10.03.1925, derog&#xF3; la presente norma.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 8&#xBA; de la LEY 5022, publicada el 30.12.1931, reitera la derogaci&#xF3;n de la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

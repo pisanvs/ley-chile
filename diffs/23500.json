@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1925-10-27",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1995-08-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8998830,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Unico.- El Presidente de la Rep&#xFA;blica podr&#xE1; ejercitar respecto de los empleados del Rejistro Civil, las facultades siguientes:</div><div class=\"p\">&nbsp; &nbsp; 1.&#xB0;- Autorizarlos para permutar sus empleos, previo informe favorable de la inspeccion del ramo;</div><div class=\"p\">&nbsp; &nbsp; 2.&#xB0;- Decretar la traslacion de un empleado a otro cargo de igual categoria, a peticion de la respectiva inspeccion, i con informe de la Corte de Apelaciones de la jurisdiccion correspondiente al empleado trasladado; i</div><div class=\"p\">&nbsp; &nbsp; 3.&#xB0;- Suspenderlos de sus funciones hasta por dos meses en cada a&#xF1;o, i sin goce de sueldo, por faltas cometidas en el servicio, i a peticion de la respectiva Inspeccion.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art. 8&#xB0; del decreto ley N&#xB0; 626, de 1925, modific&#xF3; el inciso segundo del art&#xED;culo &#xFA;nico de la presente ley, en el sentido de que las traslaciones a que se refiere podr&#xE1;n efectuarse a oficinas de la categor&#xED;a inmediatamente superior.<br></div></div>"
+        },
+        {
+          "part_id": 8998831,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; I por cuanto, oido el Consejo de Estado, he tenido a bien aprobarlo i sancionarlo; por tanto, prom&#xFA;lguese i ll&#xE9;vese a efecto como lei de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, 1.&#xB0; de Agosto de 1913.- RAMON BARROS LUCO.- Fanor Paredes.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

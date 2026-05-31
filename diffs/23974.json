@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1918-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-07-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8276304,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 3,446, que impide la entrada al pais o la residencia en &#xE9;l de elementos indeseables.</div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 3,446.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente proyecto de lei:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 3,446, que impide la entrada al pais<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> o la residencia en &#xE9;l de elementos indeseables.</div><div class=\"p\">&nbsp; &nbsp; Lei n&#xFA;m. 3,446.-</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente proyecto de lei:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 96 del DL 1094, Interior, publicado el 19.07.1975, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

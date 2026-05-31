@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1925-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-04-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7125380,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 646.- Santiago, 17 de Octubre de 1925.-</div><div class=\"p\">&nbsp; &nbsp; El Presidente de la Rep&#xFA;blica de acuerdo con el Consejo de Ministros, dicta el siguiente</div><div class=\"p\">&nbsp; &nbsp; DECRETO-LEI:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 646.- Santiago, 17 de Octubre de 1925.-<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">&nbsp; &nbsp; NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; El Presidente de la Rep&#xFA;blica de acuerdo con el Consejo de Ministros, dicta el siguiente</div><div class=\"p\">&nbsp; &nbsp; DECRETO-LEI:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">&nbsp; &nbsp; NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 24 del DFL 196 publicado en el D.O. del 04.04.1960, derog&#xF3; el presente Decreto Ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

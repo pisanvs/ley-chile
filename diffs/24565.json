@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1927-10-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1929-01-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7168320,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Modifica el art&#xED;culo 52 del decreto-ley 767, de 1925, sobre descuentos y beneficios Caja Nacional de Empleados P&#xFA;blicos y Periodistas, personal diplom&#xE1;tico y consular.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha prestado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Modifica el art&#xED;culo 52 del decreto-ley 767, de 1925, sobre descuentos y beneficios Caja Nacional de Empleados P&#xFA;blicos y Periodistas, personal diplom&#xE1;tico y consular.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha prestado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

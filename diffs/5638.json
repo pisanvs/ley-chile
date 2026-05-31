@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1928-01-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1937-09-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9089591,
+          "old": "<div><div class=\"p\">REGLAMENTO PARA EL NOMBRAMIENTO DE LOS FUNCIONARIOS JUDICIALES Y FORMACION DEL ESCALAFON.</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 29 de Diciembre de 1927.- En ejercicio de las facultades que me confiere el n&#xFA;mero 2.o del art&#xED;culo 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado, y visto lo dispuesto en el art&#xED;culo 4.o de la ley n&#xFA;mero 4,156, de 4 de Agosto &#xFA;ltimo, que autoriza al Presidente de la Rep&#xFA;blica para dictar las disposiciones que estime necesarias para la designaci&#xF3;n de funcionarios del orden judicial, a fin de que las preferencias por antig&#xFC;edad o por m&#xE9;ritos se hallen preestablecidas al tiempo de formarse las ternas,</div><br><div class=\"p\">&nbsp; &nbsp; He acordado y decreto el siguiente</div><br><div class=\"p\">REGLAMENTO PARA EL NOMBRAMIENTO DE LOS FUNCIONARIOS JUDICIALES Y FORMACION DEL ESCALAFON</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">REGLAMENTO PARA EL NOMBRAMIENTO DE LOS FUNCIONARIOS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> JUDICIALES Y FORMACION DEL ESCALAFON.</div><div class=\"p\">&nbsp; &nbsp; Santiago, 29 de Diciembre de 1927.- En ejercicio de las facultades que me confiere el n&#xFA;mero 2.o del art&#xED;culo 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado, y visto lo dispuesto en el art&#xED;culo 4.o de la ley n&#xFA;mero 4,156, de 4 de Agosto &#xFA;ltimo, que autoriza al Presidente de la Rep&#xFA;blica para dictar las disposiciones que estime necesarias para la designaci&#xF3;n de funcionarios del orden judicial, a fin de que las preferencias por antig&#xFC;edad o por m&#xE9;ritos se hallen preestablecidas al tiempo de formarse las ternas,</div><div class=\"p\">&nbsp; &nbsp; He acordado y decreto el siguiente REGLAMENTO PARA EL NOMBRAMIENTO DE LOS FUNCIONARIOS JUDICIALES Y FORMACION DEL ESCALAFON</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 40 de la LEY 6073, publicada el 08.09.1937, derog&#xF3; presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]
