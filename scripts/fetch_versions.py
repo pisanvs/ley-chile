@@ -483,14 +483,30 @@ async def run(
 
             if err is not None:
                 status_code = getattr(getattr(err, "response", None), "status_code", None)
+                # Permanent / non-retryable failures:
+                #   - 4xx client errors (dead idNorma)
+                #   - 500 (LeyChile returns 500 for missing data, not transient)
+                #   - JSONDecodeError: server returns HTTP 200 with empty body
+                #     for missing idNormas — the "empty-200 degradation" pattern.
+                # 429/503 still go through the limiter for rate-limit backoff.
+                is_permanent = (
+                    status_code == 500
+                    or (status_code is not None and 400 <= status_code < 500)
+                    or isinstance(err, json.JSONDecodeError)
+                )
                 if status_code in (429, 503):
                     await limiter.on_rate_limit()
                     logger.warning(f"Rate limited on {id_norma}: {err}")
+                    failed_map[str(id_norma)] = failed_map.get(str(id_norma), 0) + 1
+                elif is_permanent:
+                    # Mark permanent so subsequent runs skip these dead ids;
+                    # don't punish the limiter — these aren't load signals.
+                    failed_map[str(id_norma)] = 3
                 else:
                     failure_count = failed_map.get(str(id_norma), 0)
                     await limiter.on_error(failure_count)
                     logger.warning(f"Error processing {id_norma}: {err}")
-                failed_map[str(id_norma)] = failed_map.get(str(id_norma), 0) + 1
+                    failed_map[str(id_norma)] = failure_count + 1
             else:
                 await limiter.on_success()
                 _write_outputs(
