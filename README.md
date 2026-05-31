@@ -8,9 +8,9 @@ Repositorio git que reconstruye el historial completo de cambios en el corpus ju
 ## Pipeline Status
 | | |
 |---|---|
-| **Historial** | `░░░░░░░░░░░░░░░░░░░░` 0% · watermark — · 0 normas |
-| **Cache**     | `░░░░░░░░░░░░░░░░░░░░` 0% · 0 / 0 normas fetched |
-| **Last run**  | — |
+| **Historial** | `████████████████████` 99% · watermark 2026-05-31 · 353,513 normas |
+| **Cache**     | `░░░░░░░░░░░░░░░░░░░░` 0% · 1,708 / 357,259 normas fetched |
+| **Last run**  | 2026-05-31 04:35 UTC |
 <!-- PIPELINE_STATUS_END -->
 
 <!-- GRAPH_STATUS_START -->
