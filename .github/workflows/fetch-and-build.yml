@@ -108,8 +108,13 @@ jobs:
             --historial-dir ./historial \
             --output-env
 
-      # ── Step 3: advance historial ────────────────────────────────────────
-      - name: Build historial window
+      # ── Step 3: rebuild historial ───────────────────────────────────────
+      # historial is a fully derived artifact regenerated from the diffs cache
+      # via build_history.py --rebuild.  The fast-import stream is deterministic
+      # given identical input, so a run with no new data leaves the branch
+      # SHA unchanged and force-with-lease push is a no-op.  When new diffs
+      # arrive, the new commit graph reflects the cache contents end-to-end.
+      - name: Rebuild historial from cache
         if: |
           steps.watermark.outputs.watermark_advanced == 'true' &&
           github.event.inputs.dry_run != 'true'
@@ -117,18 +122,24 @@ jobs:
           python scripts/build_history.py \
             --data-root . \
             --cache-dir ./cache \
-            --append \
-            --from "${{ steps.watermark.outputs.W }}" \
-            --to   "${{ steps.watermark.outputs.D }}" \
+            --rebuild \
             --enrichers tramitacion
 
-      - name: Push historial
+      - name: Push historial (force-with-lease)
         if: |
           steps.watermark.outputs.watermark_advanced == 'true' &&
           github.event.inputs.dry_run != 'true'
         run: |
+          # historial is a generated branch — we replace its tip each rebuild.
+          # --force-with-lease refuses to clobber if someone else pushed in the
+          # meantime, so concurrent writes still fail safely.
           for attempt in 1 2 3 4; do
-            git push origin historial && break || sleep $((attempt * 3))
+            git push --force-with-lease origin historial && break || (
+              # If the lease check failed, refresh and try again — the next
+              # rebuild is deterministic and will incorporate whatever landed.
+              git -C historial fetch origin historial || true
+              sleep $((attempt * 3))
+            )
           done
 
       # ── Step 4: update README ────────────────────────────────────────────
