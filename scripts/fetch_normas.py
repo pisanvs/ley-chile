@@ -264,6 +264,38 @@ async def run(data_root: Path, limit: int | None) -> None:
     done_set: set[int] = set(progress.get("done", []))
     failed_map: dict[str, int] = progress.get("failed", {})
 
+    # Reconcile graph from cache.  Across cancelled runs, normas often get
+    # fetched (JSON written to cache + idNorma added to done_set) but the
+    # run is killed BEFORE the periodic _save_graph runs — so the next run
+    # sees the cache file, marks done, and skips graphing it entirely.  Over
+    # time this creates a permanent gap between done_set and the graph that
+    # never heals.  Fix: walk the cache once at startup and parse anything
+    # missing from the graph back in.  Cheap after the first reconciliation
+    # (only net-new files need parsing).
+    if cache_dir.exists():
+        reconciled = 0
+        for cache_file in cache_dir.iterdir():
+            if cache_file.suffix != ".json":
+                continue
+            try:
+                id_norma = int(cache_file.stem)
+            except ValueError:
+                continue
+            if str(id_norma) in graph:
+                continue
+            try:
+                data = json.loads(cache_file.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, OSError):
+                continue
+            graph[str(id_norma)] = parse_node(id_norma, data, None)
+            done_set.add(id_norma)
+            reconciled += 1
+        if reconciled:
+            logger.info(f"Reconciled {reconciled:,} cached normas into graph (closing done/graph drift)")
+            _save_graph(graph_path, graph)
+            progress["done"] = list(done_set)
+            _save_progress(progress_path, progress)
+
     # Build work queue
     work = []
     for entry in catalog:
