@@ -45,9 +45,22 @@ logger = logging.getLogger(__name__)
 
 BASE_URL = "https://nuevo.leychile.cl/servicios/Navegar/get_norma_json"
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
-    "Accept": "application/json, */*",
+    # Full browser-ish header set — the endpoint sits behind a CloudFront WAF
+    # that returns small non-JSON bodies (HTTP 200 with ~264 bytes) to cloud-IP
+    # requests with sparse headers.  Real-browser headers reliably get the
+    # actual JSON from Azure (GH Actions) IPs.  See fetch_versions.py for the
+    # same set + diagnostic notes.
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json, text/javascript, */*; q=0.01",
+    "Accept-Language": "es-CL,es;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
     "X-Requested-With": "XMLHttpRequest",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin",
 }
 
 PROGRESS_SAVE_EVERY = 50   # flush progress every N completions
