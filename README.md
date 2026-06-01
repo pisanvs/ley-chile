@@ -8,9 +8,9 @@ Repositorio git que reconstruye el historial completo de cambios en el corpus ju
 ## Pipeline Status
 | | |
 |---|---|
-| **Historial** | `░░░░░░░░░░░░░░░░░░░░` 0% · watermark 2026-05-31 · 1,193 normas |
-| **Cache**     | `░░░░░░░░░░░░░░░░░░░░` 2% · 8,028 / 357,259 normas fetched |
-| **Last run**  | 2026-05-31 19:13 UTC |
+| **Historial** | `░░░░░░░░░░░░░░░░░░░░` 0% · watermark 2026-04-02 · 1,196 normas |
+| **Cache**     | `█░░░░░░░░░░░░░░░░░░░` 4% · 12,839 / 358,221 normas fetched |
+| **Last run**  | 2026-06-01 12:39 UTC |
 <!-- PIPELINE_STATUS_END -->
 
 <!-- GRAPH_STATUS_START -->
@@ -18,7 +18,7 @@ Repositorio git que reconstruye el historial completo de cambios en el corpus ju
 | | |
 |---|---|
 | **Fetch normas** | `████████████████████` 100% · 357,259 / 358,221 normas · complete ✅ |
-| **Last run**     | 2026-05-31 21:33 UTC |
+| **Last run**     | 2026-06-01 10:39 UTC |
 <!-- GRAPH_STATUS_END -->
 
 > **Sobre estas barras.** *Graph Build Status* sigue la construcción única del grafo de metadatos (`graph.json`): `fetch_normas.py` descarga la metadata de las ~358 mil normas del catálogo BCN en tandas de 6 horas, y la barra avanza en cada corrida del workflow `update-graph`. Al llegar al ~95% el grafo se publica y se habilita la fase siguiente. *Pipeline Status* sigue lo que viene después: cuántas normas tienen ya su historial de versiones reconstruido en la branch `historial`. Este repo aún está en proceso de germinación. Lo entretenido llega al terminar esta fase!

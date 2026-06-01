@@ -2,13 +2,13 @@ name: Fetch and Build
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
+    - cron: "0 */3 * * *"
   workflow_dispatch:
     inputs:
       version_budget:
-        description: "Max version-fetches per shard (default: 2500, 20000 total across 8 shards)"
+        description: "Max version-fetches per shard (default: 600000 × 8 shards)"
         required: false
-        default: "2500"
+        default: "600000"
       notify_url:
         description: "ntfy.sh webhook URL for completion notification"
         required: false
