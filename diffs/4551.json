@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1931-05-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1931-05-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8823963,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2.o Los Intendentes y Gobernadores tendr&#xE1;n la vigilancia directa de los bienes ubicados en la provincia o en el demente de su conservaci&#xF3;n en el uso a que est&#xE9;n destinados, de acuerdo con las instrucciones que al respecto les imparta el Ejecutivo, y exigiendo su restituci&#xF3;n cuando sean ocupados indebidamente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2.o Los Intendentes y Gobernadores tendr&#xE1;n la vigilancia directa de los bienes ubicados en la provincia o en el demente de su conservaci&#xF3;n en el uso a que est&#xE9;n destinados, de acuerdo con las instrucciones que al respecto les imparta el Ejecutivo, y exigiendo su restituci&#xF3;n cuando sean ocupados indebidamente.</div><div class=\"p\">&nbsp; &nbsp; Los mismos funcionarios estar&#xE1;n autorizados para<span class=\"n\" id=\"n_0\">DFL 255,PROPIEDAD AUSTRAL<br>Art. &#xFA;nico<br>D.O. 26.05.1931<br></span> dar en arrendamiento los predios urbanos del Fisco, hasta por el plazo de un mes, de acuerdo con las condiciones establecidas en el decreto con fuerza de ley N.o 69, de 27 de Marzo de 1931, y en su Reglamento, en aquellos casos en que la resoluci&#xF3;n inmediata de las correspondientes solicitudes sea exigida por la naturaleza del objeto para la cual se solicita el arrendamiento, debiendo, dentro del plazo de cinco d&#xED;as, remitir al Ministerio de Bienes Nacionales, copias autorizadas en los decretos que dicten en virtud de esta facultad, y el respectivo comprobante de ingreso en Tesorer&#xED;a, de las rentas que se perciban por este cap&#xED;tulo.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1932-07-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8823961,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 92.- Santiago, 10 de Abril de 1931.- Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; 1.o La conveniencia de reunir en un solo cuerpo y adaptar a las necesidades administrativas las disposiciones relativas al manejo y control de los bienes nacionales;</div><div class=\"p\">&nbsp; &nbsp; 2.o La urgencia en dictar algunas disposiciones nuevas que contenplan las situaciones creadas a los ocupantes de terrenos fiscales bald&#xED;os que han prosperado debido a su esfuerzo, adquiriendo as&#xED; moralmente cierto derecho, sobre dichos bienes;</div><div class=\"p\">&nbsp; &nbsp; 3.o Que hay inter&#xE9;s en formar el mayor n&#xFA;mero de propietarios, y, en general, de gente arraigada al trabajo de las tierras, as&#xED; como el regularizar la constituci&#xF3;n de la propiedad; y</div><div class=\"p\">&nbsp; &nbsp; 4.o En uso de la facultad que me otorga la ley n&#xFA;mero 4,945, de 6 de Febrero de 1931.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 92.- Santiago, 10 de Abril de 1931.- Teniendo<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> presente:</div><div class=\"p\">&nbsp; &nbsp; 1.o La conveniencia de reunir en un solo cuerpo y adaptar a las necesidades administrativas las disposiciones relativas al manejo y control de los bienes nacionales;</div><div class=\"p\">&nbsp; &nbsp; 2.o La urgencia en dictar algunas disposiciones nuevas que contenplan las situaciones creadas a los ocupantes de terrenos fiscales bald&#xED;os que han prosperado debido a su esfuerzo, adquiriendo as&#xED; moralmente cierto derecho, sobre dichos bienes;</div><div class=\"p\">&nbsp; &nbsp; 3.o Que hay inter&#xE9;s en formar el mayor n&#xFA;mero de propietarios, y, en general, de gente arraigada al trabajo de las tierras, as&#xED; como el regularizar la constituci&#xF3;n de la propiedad; y</div><div class=\"p\">&nbsp; &nbsp; 4.o En uso de la facultad que me otorga la ley n&#xFA;mero 4,945, de 6 de Febrero de 1931.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  Ver DL 153, Interior, publicado el 08.07.1932, que sustituye la presente norma.<br></div></div>"
+        },
+        {
+          "part_id": 8823963,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2.o Los Intendentes y Gobernadores tendr&#xE1;n la vigilancia directa de los bienes ubicados en la provincia o en el demente de su conservaci&#xF3;n en el uso a que est&#xE9;n destinados, de acuerdo con las instrucciones que al respecto les imparta el Ejecutivo, y exigiendo su restituci&#xF3;n cuando sean ocupados indebidamente.</div><div class=\"p\">&nbsp; &nbsp; Los mismos funcionarios estar&#xE1;n autorizados para<span class=\"n\" id=\"n_0\">DFL 255,PROPIEDAD AUSTRAL<br>Art. &#xFA;nico<br>D.O. 26.05.1931<br></span> dar en arrendamiento los predios urbanos del Fisco, hasta por el plazo de un mes, de acuerdo con las condiciones establecidas en el decreto con fuerza de ley N.o 69, de 27 de Marzo de 1931, y en su Reglamento, en aquellos casos en que la resoluci&#xF3;n inmediata de las correspondientes solicitudes sea exigida por la naturaleza del objeto para la cual se solicita el arrendamiento, debiendo, dentro del plazo de cinco d&#xED;as, remitir al Ministerio de Bienes Nacionales, copias autorizadas en los decretos que dicten en virtud de esta facultad, y el respectivo comprobante de ingreso en Tesorer&#xED;a, de las rentas que se perciban por este cap&#xED;tulo.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2.o Los Intendentes y Gobernadores tendr&#xE1;n la vigilancia directa de los bienes ubicados en la provincia o en el demente de su conservaci&#xF3;n en el uso a que est&#xE9;n destinados, de acuerdo con las instrucciones que al respecto les imparta el Ejecutivo, y exigiendo su restituci&#xF3;n cuando sean ocupados indebidamente.</div><div class=\"p\">&nbsp; &nbsp; Los mismos funcionarios estar&#xE1;n autorizados para<span class=\"n\" id=\"n_1\">DFL 255,PROPIEDAD AUSTRAL<br>Art. &#xFA;nico<br>D.O. 26.05.1931<br></span> dar en arrendamiento los predios urbanos del Fisco, hasta por el plazo de un mes, de acuerdo con las condiciones establecidas en el decreto con fuerza de ley N.o 69, de 27 de Marzo de 1931, y en su Reglamento, en aquellos casos en que la resoluci&#xF3;n inmediata de las correspondientes solicitudes sea exigida por la naturaleza del objeto para la cual se solicita el arrendamiento, debiendo, dentro del plazo de cinco d&#xED;as, remitir al Ministerio de Bienes Nacionales, copias autorizadas en los decretos que dicten en virtud de esta facultad, y el respectivo comprobante de ingreso en Tesorer&#xED;a, de las rentas que se perciban por este cap&#xED;tulo.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

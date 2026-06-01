@@ -1,0 +1,107 @@
+[
+  {
+    "fecha": "1933-11-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1939-09-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9060798,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1.o La jurisdicci&#xF3;n de las Cortes de Apelaciones ser&#xE1; la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Iquique, las provincias de Tarapac&#xE1; y Antofagasta, exceptuando el departamento de Taltal;</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de La Serena, las provincias de Atacama y Coquimbo y el departamento de Taltal;</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Valpara&#xED;so, la provincia de Aconcagua;</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Santiago, las provincias de Santiago y Colchagua;</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Talca, las provincias de Talca y Maule;</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Concepci&#xF3;n, las provincias de &#xD1;uble, Concepci&#xF3;n y Bio-B&#xED;o;</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Temuco, provincia de Caut&#xED;n; y</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Valdivia, las provincias de Valdivia, Chilo&#xE9;, Aysen y Magallanes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; La jurisdicci&#xF3;n de las Cortes de Apelaciones ser&#xE1; la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Iquique, las provincias de Tarapac&#xE1; y Antofagasta, exceptuando el departamento de Taltal;</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de La Serena, las provincias de Atacama y Coquimbo y el departamento de Taltal;</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Valpara&#xED;so, la provincia de Aconcagua;</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Santiago, las provincias de Santiago y Colchagua;</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Talca, las provincias de Talca y Maule;</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Concepci&#xF3;n, las provincias de &#xD1;uble, Concepci&#xF3;n y Biob&#xED;o;</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Temuco, la provincia de Caut&#xED;n; y</div><div class=\"p\">&nbsp; &nbsp; Corte de Apelaciones de Valdivia, las provincias de Valdivia, Chilo&#xE9;, Aysen y Magallanes.</div><br></div>"
+        },
+        {
+          "part_id": 9060799,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2.o Las Cortes de Apelaciones que consten de una sola Sala, se compondr&#xE1;n de cuatro miembros y ser&#xE1;n servidas por un solo relator.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2&#xB0; Las Cortes de Apelaciones que consten de una sola Sala, se compondr&#xE1;n de cuatro miembros y ser&#xE1;n servidas por un solo relator.</div><br></div>"
+        },
+        {
+          "part_id": 9060800,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 3.o Habr&#xE1; dos Juzgados de Letras de Mayor Cuant&#xED;a en cada uno de los departamentos de Iquique y Antofagasta.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 3&#xB0; Habr&#xE1; dos Juzgados de Letras de Mayor Cuant&#xED;a en cada uno de los departamentos de Iquique y Antofagasta.</div><br></div>"
+        },
+        {
+          "part_id": 9060801,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4.o Para todos los efectos del servicio judicial, ser&#xE1;n considerados como departamentos las divisiones administrativas que a continuaci&#xF3;n se enumeran, con los territorios que se indican:</div><div class=\"p\">&nbsp; &nbsp; Coquimbo, Combarbal&#xE1;, Petorca, Putaendo, Casablanca, Chanco, La Florida, Talcahuano, Nacimiento, Collipulli, R&#xED;o Bueno, Calbuco y Achao, con las comunas de sus respectivos nombres;</div><div class=\"p\">&nbsp; &nbsp; Freirina, con las comunas de Huasco y Freirina;</div><div class=\"p\">&nbsp; &nbsp; Limache, con las comunas de Limache y Quilpu&#xE9;;</div><div class=\"p\">&nbsp; &nbsp; Melipilla, con las comunas de Melipilla, El Monte, San Pedro y Alhu&#xE9;;</div><div class=\"p\">&nbsp; &nbsp; San Bernardo, con las comunas de Puente Alto, a excepci&#xF3;n del territorio de la antigua comuna de Pirque, San Jos&#xE9; de Maipo, Isla de Maipo, Talagante, Pe&#xF1;aflor, La Cisterna y San Bernardo;</div><div class=\"p\">&nbsp; &nbsp; Bu&#xED;n, con las comunas de Buin y Paine y el territorio de la antigua comuna de Pirque;</div><div class=\"p\">&nbsp; &nbsp; Peumo, con las comunas de Peumo y Las Cabras;</div><div class=\"p\">&nbsp; &nbsp; Vichuqu&#xE9;n, con las comunas de Huala&#xF1;&#xE9; y Vichuqu&#xE9;n;</div><div class=\"p\">&nbsp; &nbsp; Arauco, con las comunas de Arauco y Curanilahue; y Ca&#xF1;ete, con las comunas de Ca&#xF1;ete y Contulmo. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4&#xB0; Para todos los efectos del servicio judicial, ser&#xE1;n considerados como departamentos las divisiones administrativas que a continuaci&#xF3;n se enumeran, con los territorios que se indican:</div><div class=\"p\">&nbsp; &nbsp; Coquimbo, Combarbal&#xE1;, Petorca, Putaendo, Casablanca, Chanco, La Florida, Talcahuano, Nacimiento, Collipulli, R&#xED;o Bueno, Calbuco y Achao, con las comunas de sus respectivos nombres;</div><div class=\"p\">&nbsp; &nbsp; Freirina, con las comunas de Huasco y Freirina;</div><div class=\"p\">&nbsp; &nbsp; Limache, con las comunas de Limache y Quilpu&#xE9;;</div><div class=\"p\">&nbsp; &nbsp; Melipilla, con las comunas de Melipilla, el Monte, San Pedro y Alhu&#xE9;;</div><div class=\"p\">&nbsp; &nbsp; San Bernardo, con las comunas de Puente Alto, a excepci&#xF3;n del territorio de la antigua comuna de Pirque, San Jos&#xE9; de Maipo, Isla de Maipo, Talagante, Pe&#xF1;aflor, La Cisterna y San Bernardo; Buin, con las comunas de Buin y Paine y el territorio de la antigua comuna de Pirque;</div><div class=\"p\">&nbsp; &nbsp; Peumo, con las comunas de Peumo y Las Cabras;</div><div class=\"p\">&nbsp; &nbsp; Vichuqu&#xE9;n, con las comunas de Huala&#xF1;&#xE9; y Vichuqu&#xE9;n;</div><div class=\"p\">&nbsp; &nbsp; Arauco, con las comunas de Arauco y Curanilahue; y Ca&#xF1;ete, con las comunas de Ca&#xF1;ete y Contulmo. </div></div>"
+        },
+        {
+          "part_id": 9060803,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 6.o En los territorios jurisdiccionales a que se refiere el art. 4.o, el auxilio de la fuerza p&#xFA;blica ser&#xE1; prestado directamente por el subdelegado respectivo, si no hubiere gobernador en la ciudad en que funciona el Tribunal.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 6.o En los territorios jurisdiccionales a que se refiere el art&#xED;culo 4.o, el auxilio de la fuerza p&#xFA;blica ser&#xE1; prestado directamente por el subdelegado respectivo, si no hubiere gobernador en la ciudad en que funciona el Tribunal.</div><br></div>"
+        },
+        {
+          "part_id": 9060804,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 7.o Supr&#xED;mese el Juzgado de Letras de Menor Cuant&#xED;a con jurisdicci&#xF3;n sobre la comuna de Antofagasta, creado por el art. 12 del DFL. N.o 253, de 20 de Mayo de 1931.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 7.o Supr&#xED;mese el Juzgado de Letras de Menor Cuant&#xED;a con jurisdicci&#xF3;n sobre la comuna de Antofagasta, creado por el art&#xED;culo 12 del decreto con fuerza de ley 253, de 20 de mayo de 1931.</div><br></div>"
+        },
+        {
+          "part_id": 9060805,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 8.o Introd&#xFA;cense las siguientes modificaciones en el decreto-ley N.o 363, de 17 de Marzo de 1925:</div><div class=\"p\">&nbsp; &nbsp; a) Reemplazar el art. 37, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Puesto el proceso en estado de ser visto, el Tribunal de Segunda Instancia lo pondr&#xE1; en tabla&quot;.</div><div class=\"p\">&nbsp; &nbsp; &quot;Los alegatos no podr&#xE1;n exceder de diez minutos, salvo que el Tribunal acuerde aumentar ese tiempo&quot;.</div><div class=\"p\">&nbsp; &nbsp; b) Reemplazar el art. 39 por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;El Tribunal destinar&#xE1;, por lo menos, un d&#xED;a de cada semana a la vista preferente de estas causas&quot;. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 8.o Introd&#xFA;cense las siguientes modificaciones en el decreto-ley N.o 363, de 17 de marzo de 1925:</div><div class=\"p\">&nbsp; &nbsp; a) Reemplazar el art&#xED;culo 37, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Puesto el proceso en estado de ser visto, el Tribunal de Segunda Instancia lo pondr&#xE1; en tabla&quot;.</div><div class=\"p\">&nbsp; &nbsp; &quot;Los alegatos no podr&#xE1;n exceder de diez minutos, salvo que el Tribunal acuerde aumentar ese tiempo&quot;.</div><div class=\"p\">&nbsp; &nbsp; b) Reemplazar el art&#xED;culo 39 por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;El Tribunal destinar&#xE1;, por lo menos, un d&#xED;a de cada semana a la vista preferente de estas causas&quot;. </div></div>"
+        },
+        {
+          "part_id": 9060807,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 10. Cada una de las diversas divisiones administrativas indicadas en el art. 4.o, tendr&#xE1; un notario y conservador de bienes ra&#xED;ces, comercio y minas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 10. Cada una de las diversas divisiones administrativas indicadas en el art&#xED;culo 4.o, tendr&#xE1; un notario y conservador de bienes ra&#xED;ces, comercio y minas.</div><br></div>"
+        },
+        {
+          "part_id": 9060808,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 11. En los territorios de los Juzgados de Letras a que se refiere la segunda parte del inciso 2.o del art. 5.o, los cargos de secretario y notario podr&#xE1;n ser desempe&#xF1;ados por una misma persona; pero el titular de ambos tendr&#xE1; derecho solamente a la mitad del sueldo asignado al de secretario.</div><div class=\"p\">&nbsp; &nbsp; Los secretarios de Juzgados de Letras que deseen servir aquellas Notar&#xED;as que se encuentren vacantes, deber&#xE1;n declararlo al Presidente de la Rep&#xFA;blica, dentro del plazo de sesenta d&#xED;as, contado desde la vigencia de la Ley N.o 5,203.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 11. En los territorios de los Juzgados de Letras a que se refiere la segunda parte del inciso 2.o<span class=\"n\" id=\"n_0\">LEY 6417<br>ART. 11</span> del art&#xED;culo 5.o, los cargos de secretario y notario podr&#xE1;n ser desempe&#xF1;ados por una misma persona;</div><div class=\"p\">&nbsp; &nbsp; Los secretarios de Juzgados de Letras que deseen servir aquellas Notar&#xED;as que se encuentren vacantes, deber&#xE1;n declararlo al Presidente de la Rep&#xFA;blica, dentro del plazo de sesenta d&#xED;as, contado desde la vigencia de la ley N.o 5,203.</div><br></div>"
+        },
+        {
+          "part_id": 9060810,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 13. Agr&#xE9;ganse al art. 769 del C&#xF3;digo de Procedimiento Civil los siguientes incisos:</div><div class=\"p\">&nbsp; &nbsp; &quot;Al ejercitarse la acci&#xF3;n a que se refiere el inciso precedente, podr&#xE1; deducirse tambi&#xE9;n la de cobro de las rentas insolutas en que aquella se funde y la de los consumos de luz, gas, energ&#xED;a el&#xE9;ctrica, agua potable, riego u otras prestaciones an&#xE1;logas que se adeuden&quot;.</div><div class=\"p\">&nbsp; &nbsp; &quot;Tales peticiones se substanciar&#xE1;n y fallar&#xE1;n conjuntamente con la cuesti&#xF3;n principal&quot;.</div><div class=\"p\">&nbsp; &nbsp; &quot;Demandadas estas prestaciones se entender&#xE1;n comprendidas en la acci&#xF3;n las de igual naturaleza a las reclamadas que se devenguen durante la tramitaci&#xF3;n del juicio hasta la expiraci&#xF3;n del plazo que se haya fijado para la restituci&#xF3;n o para el pago&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 13. Agr&#xE9;ganse al art&#xED;culo 769 del C&#xF3;digo de Procedimiento Civil los siguientes incisos:</div><div class=\"p\">&nbsp; &nbsp; &quot;Al ejercitarse la acci&#xF3;n a que se refiere el inciso precedente, podr&#xE1; deducirse tambi&#xE9;n la de cobro de las rentas insolutas en que aquella se funde y la de los consumos de luz, gas, energ&#xED;a el&#xE9;ctrica, agua potable, riego u otras prestaciones an&#xE1;logas que se adeuden&quot;.</div><div class=\"p\">&nbsp; &nbsp; &quot;Tales peticiones se substanciar&#xE1;n y fallar&#xE1;n conjuntamente con la cuesti&#xF3;n principal&quot;.</div><div class=\"p\">&nbsp; &nbsp; &quot;Demandadas estas prestaciones se entender&#xE1;n comprendidas en la acci&#xF3;n las de igual naturaleza a las reclamadas que se devenguen durante la tramitaci&#xF3;n del juicio hasta la expiraci&#xF3;n del plazo que se haya fijado para la restituci&#xF3;n o para el pago&quot;.</div><br></div>"
+        },
+        {
+          "part_id": 9060811,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culos transitorios {Arts. 1-7} Art. 1.o Las reducciones a que den lugar los arts.</div><div class=\"p\">2.o y 9.o, se har&#xE1;n no proveyendo las vacantes que se produzcan.</div><div class=\"p\">&nbsp; &nbsp; Cada vez que por haberse producido la vacancia de un cargo de notario pueda operarse la fusi&#xF3;n a que se refiere el art. 11.o, el secretario judicial respectivo deber&#xE1; manifestar dentro de los quince d&#xED;as siguientes a dicha vacancia, si hace o no uso del derecho que le confiere ese art&#xED;culo. Si nada expusiere dentro de dicho plazo, se entender&#xE1; que acepta la fusi&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 1.o Las reducciones a que den lugar los art&#xED;culos 2.o y 9.o, se har&#xE1;n no proveyendo las vacantes que se produzcan.</div><div class=\"p\">&nbsp; &nbsp; Cada vez que por haberse producido la vacancia de un cargo de notario pueda operarse la fusi&#xF3;n a que se refiere el art&#xED;culo 11, el secretario judicial respectivo deber&#xE1; manifestar dentro de los quince d&#xED;as siguientes a dicha vacancia, si hace o no uso del derecho que le confiere ese art&#xED;culo. Si nada expusiere dentro de dicho plazo, se entender&#xE1; que acepta la fusi&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9060812,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2.o Los actuales jueces de Letras de Menor Cuant&#xED;a de Freirina, Combarbal&#xE1;, Petorca, Putaendo, Casablanca, Limache, Buin, Peumo, Vichuqu&#xE9;n, Chanco, La Florida, Arauco, Ca&#xF1;ete, Nacimiento, Collipulli, R&#xED;o Bueno, Calbuco y Achao, continuar&#xE1;n en el ejercicio de sus funciones como jueces de Letras de Mayor Cuant&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Los actuales secretarios de dichos Juzgados, personal de Secretar&#xED;a y funcionarios auxiliares de la misma, continuar&#xE1;n igualmente en el ejercicio de sus funciones siempre que re&#xFA;nan los requisitos legales. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2.o Los actuales jueces de Letras de Menor Cuant&#xED;a de Freirina, Combarbal&#xE1;, Petorca, Putaendo, Casablanca, Limache, Buin, Peumo, Vichuqu&#xE9;n, Chanco, La Florida, Arauco, Ca&#xF1;ete, Nacimiento, Collipulli, R&#xED;o Bueno, Calbuco y Achao, continuar&#xE1;n en el ejercicio de su funciones como jueces de Letras de Mayor Cuant&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Los actuales secretarios de dichos Juzgados, personal de Secretar&#xED;a y funcionarios auxiliares de la misma, continuar&#xE1;n igualmente en el ejercicio de sus funciones, siempre que reunan los requisitos legales. </div></div>"
+        },
+        {
+          "part_id": 9060813,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 3.o Se devolver&#xE1;n a los notarios y conservadores de bienes ra&#xED;ces de las divisiones administrativas establecidas en el art. 4.o, los respectivos registros, libros y archivos que hubieren sido trasladados en cumplimiento de las disposiciones del decreto con fuerza de ley N.o 253, de 20 de Mayo de 1931.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 3.o Se devolver&#xE1;n a los notarios y conservadores de bienes ra&#xED;ces de las divisiones administrativas establecidas en el art&#xED;culo 4.o, los respectivos registros, libros y archivos que hubieren sido trasladados en cumplimiento de las disposiciones del decreto con fuerza de ley N.o 253, de 20 de mayo de 1931.</div><br></div>"
+        },
+        {
+          "part_id": 9060814,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4.o Los registros y archivos de las Notarias que se suprimen a virtud de lo dispuesto en el art. 9.o, quedar&#xE1;n a cargo del notario que permanezca en funciones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4.o Los registros y archivos de las Notar&#xED;as que se suprimen a virtud de lo dispuesto en el art&#xED;culo 9.o, quedar&#xE1;n a cargo del notario que permanezca en funciones.</div><br></div>"
+        },
+        {
+          "part_id": 9060815,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 5.o Si a virtud de la aplicaci&#xF3;n de las disposiciones del decreto con fuerza de ley N.o 253, de 20 de Mayo de 1931, se encontrare vacante alguno o algunos de los cargos de notario y conservador de bienes ra&#xED;ces de los territorios a que se refiere el art. 4.o, proceder&#xE1; a proveerlos en conformidad a la Ley, sin perjuicio de lo dispuesto en el art. 11.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 5.o Si a virtud de la aplicaci&#xF3;n de las disposiciones del decreto con fuerza de ley N.o 253, de 20 de mayo de 1931, se encontrare vacante alguno o algunos de los cargos de notario y conservador de bienes ra&#xED;ces de los territorios a que se refiere el art&#xED;culo 4.o, se proceder&#xE1; a proveerlos en conformidad a la ley, sin perjuicio de lo dispuesto en el art&#xED;culo 11. </div></div>"
+        },
+        {
+          "part_id": 9060816,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 6.o Sin perjuicio de lo establecido en el art.</div><div class=\"p\">5.o, las personas a que se refiere la segunda parte del inciso 2.o de dicho art&#xED;culo, que actualmente estuvieren sirviendo sus cargos, continuar&#xE1;n gozando de la misma categor&#xED;a y sueldo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 6.o Sin perjuicio de lo establecido en el art&#xED;culo 5.o, las personas a que se refiere la segunda parte del inciso 2.o de dicho art&#xED;culo, que actualmente estuvieren sirviendo sus cargos, continuar&#xE1;n gozando de la misma categor&#xED;a y sueldo.</div><br></div>"
+        },
+        {
+          "part_id": 9060817,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 7.o Los asuntos de que est&#xE1;n conociendo los jueces de Letras de Mayor Cuant&#xED;a de un departamento a virtud de la supresi&#xF3;n de Juzgados dispuesta por el decreto con fuerza de ley N.o 253, de 20 de Mayo de 1931, pasar&#xE1;n al conocimiento del juez de Letras de Mayor Cuant&#xED;a a quien corresponder&#xED;a estar conociendo si esa supresi&#xF3;n no se hubiese verificado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 7.o Los asuntos de que est&#xE1;n conociendo los jueces de Letras de Mayor Cuant&#xED;a de un departamento a virtud de la supresi&#xF3;n de Juzgados, dispuesta por el decreto con fuerza de ley N.o 253, de 20 de mayo de 1931, pasar&#xE1;n al conocimiento del juez de Letras de Mayor Cuant&#xED;a a quien corresponder&#xED;a estar conociendo si esa supresi&#xF3;n no se hubiese verificado.</div><br></div>"
+        },
+        {
+          "part_id": 9060818,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; T&#xF3;mese raz&#xF3;n, comun&#xED;quese, publ&#xED;quese e ins&#xE9;rtese en el Bolet&#xED;n de las Leyes y Decretos del Gobierno.- ALESSANDRI.- Domingo Dur&#xE1;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; T&#xF3;mese raz&#xF3;n, comun&#xED;quese, publ&#xED;quese e ins&#xE9;rtese en el Bolet&#xED;n de Leyes y Decretos del Gobierno.- ALESSANDRI.- Domingo Dur&#xE1;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

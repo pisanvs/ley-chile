@@ -1,0 +1,218 @@
+[
+  {
+    "fecha": "1934-01-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1937-08-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676144,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 19.o El n&#xFA;mero de horas extraordinarias para un empleado pagado por semanas, ser&#xE1; el saldo que arroje el total de las horas trabajadas en la semana, con deducci&#xF3;n del producto que resulte, multiplicando los d&#xED;as h&#xE1;biles de la semana, por 8 o por 9 y un tercio, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  El n&#xFA;mero de horas extraordinarias para un empleado pagado al mes, ser&#xE1; el saldo que arroje el total de las horas trabajadas en el mes, con deducci&#xF3;n del producto que resulte, multiplicando los d&#xED;as h&#xE1;biles del mes, por 8 o 9 y un tercio, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  En consecuencia, el c&#xE1;lculo se har&#xE1; en la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 48 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en el mes o en la semana&nbsp;  (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en el mes o en la</div><div class=\"p\">&nbsp;  semana por 8 horas&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  (tantas)</div><br><div class=\"p\">&nbsp; &nbsp;  2.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 56 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en el mes o en la semana&nbsp;  (tantas) Menos d&#xED;as h&#xE1;biles en el mes o en la</div><div class=\"p\">&nbsp;  semana por 9 1/3&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  (tantas)</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 19.o El n&#xFA;mero de horas extraordinarias<span class=\"n\" id=\"n_0\">DTO 692, TRABAJO<br>Art. &#xFA;nico<br>D.O. 23.08.1937</span> ser&#xE1; el saldo que arroje el total de las horas trabajadas en la semana, con deducci&#xF3;n del producto que resulte, multiplicando los d&#xED;as h&#xE1;biles de la semana, por 8 o 9 y un tercio, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  En consecuencia, el c&#xE1;lculo se har&#xE1; en la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 48 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 8 horas&nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><div class=\"p\">&nbsp; &nbsp;  2.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 56 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 9 1/3&nbsp; &nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1942-12-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676186,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 53.o El sueldo m&#xED;nimo de los empleados, se determinar&#xE1; de acuerdo con las normas establecidas en el decreto N.o 276, de 12 de Septiembre de 1932, en lo que fueren compatibles.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 53. Los l&#xED;mites m&#xE1;ximos de $ 2,000 y $ 2,500<span class=\"n\" id=\"n_2\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span> mensuales fijados para el c&#xF3;mputo y pago de las gratificaciones y bonificaciones legales anuales se aplicar&#xE1;n en la determinaci&#xF3;n de la gratificaci&#xF3;n o la bonificaci&#xF3;n de cada empleado cuando se trate de ejercicios financieros que expiren con posterioridad al 14 de Septiembre de 1942.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676187,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  6.o Del salario m&#xED;nimo:</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  6.o De las gratificaciones<span class=\"n\" id=\"n_1\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1947-02-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8676194,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 56.o Las infracciones al presente Reglamento<span class=\"n\" id=\"n_3\">DTO 123, TRABAJO<br>Art. 1&#xBA;<br>D.O. 08.02.1947</span> ser&#xE1;n sancionadas de acuerdo con el art&#xED;culo 178 del C&#xF3;digo de Trabajo.</div><br><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1948-01-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676131,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 8.o Cualquiera de las partes interesadas puede solicitar reconsideraci&#xF3;n de la calificaci&#xF3;n. Para que la Junta conozca de ella, se requiere: A) que se solicite dentro del plazo m&#xE1;ximo de 30 d&#xED;as, contados desde la fecha en que se comunic&#xF3; a la parte reclamante la resoluci&#xF3;n que motiv&#xF3; el reclamo; y B) que se invoquen hechos nuevos, no considerados al producirse la calificaci&#xF3;n. Contra una reconsideraci&#xF3;n acogida o rechazada no procede recurso de ninguna especie.</div><div class=\"p\">&nbsp; &nbsp;  La reconsideraci&#xF3;n debe tramitarse en la misma forma que la calificaci&#xF3;n y debe dirigirse a la Inspecci&#xF3;n del Trabajo respectiva, donde se le pondr&#xE1; cargo con la fecha de la recepci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 8.o Cualquiera de las partes interesadas puede solicitar reconsideraci&#xF3;n de la calificaci&#xF3;n. Para que la Junta conozca de ella, se requiere: A) que se solicite dentro del plazo m&#xE1;ximo de 30 d&#xED;as, contados desde la fecha en que se comunic&#xF3; a la parte reclamante la resoluci&#xF3;n que motiv&#xF3; el reclamo; y B) que se invoquen hechos nuevos, no considerados al producirse la calificaci&#xF3;n. Contra una reconsideraci&#xF3;n acogida o rechazada no procede recurso de ninguna especie.</div><div class=\"p\">&nbsp; &nbsp;  La reconsideraci&#xF3;n debe tramitarse en la misma forma que la calificaci&#xF3;n y debe dirigirse a la Inspecci&#xF3;n del Trabajo respectiva, donde se le pondr&#xE1; cargo con la fecha de la recepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  La Caja de Previsi&#xF3;n de Empleados Particulares y<span class=\"n\" id=\"n_0\">DTO 1153, TRABAJO<br>D.O. 07.01.1948</span> la Caja de Seguro Obligatorio podr&#xE1;n interponer este recurso en todos aquellos casos en que tengan inter&#xE9;s y aun cuando no hubieren figurado como parte.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676144,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 19.o El n&#xFA;mero de horas extraordinarias<span class=\"n\" id=\"n_0\">DTO 692, TRABAJO<br>Art. &#xFA;nico<br>D.O. 23.08.1937</span> ser&#xE1; el saldo que arroje el total de las horas trabajadas en la semana, con deducci&#xF3;n del producto que resulte, multiplicando los d&#xED;as h&#xE1;biles de la semana, por 8 o 9 y un tercio, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  En consecuencia, el c&#xE1;lculo se har&#xE1; en la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 48 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 8 horas&nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><div class=\"p\">&nbsp; &nbsp;  2.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 56 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 9 1/3&nbsp; &nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 19.o El n&#xFA;mero de horas extraordinarias<span class=\"n\" id=\"n_1\">DTO 692, TRABAJO<br>Art. &#xFA;nico<br>D.O. 23.08.1937</span> ser&#xE1; el saldo que arroje el total de las horas trabajadas en la semana, con deducci&#xF3;n del producto que resulte, multiplicando los d&#xED;as h&#xE1;biles de la semana, por 8 o 9 y un tercio, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  En consecuencia, el c&#xE1;lculo se har&#xE1; en la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 48 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 8 horas&nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><div class=\"p\">&nbsp; &nbsp;  2.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 56 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 9 1/3&nbsp; &nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676186,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 53. Los l&#xED;mites m&#xE1;ximos de $ 2,000 y $ 2,500<span class=\"n\" id=\"n_2\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span> mensuales fijados para el c&#xF3;mputo y pago de las gratificaciones y bonificaciones legales anuales se aplicar&#xE1;n en la determinaci&#xF3;n de la gratificaci&#xF3;n o la bonificaci&#xF3;n de cada empleado cuando se trate de ejercicios financieros que expiren con posterioridad al 14 de Septiembre de 1942.</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 53. Los l&#xED;mites m&#xE1;ximos de $ 2,000 y $ 2,500<span class=\"n\" id=\"n_3\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span> mensuales fijados para el c&#xF3;mputo y pago de las gratificaciones y bonificaciones legales anuales se aplicar&#xE1;n en la determinaci&#xF3;n de la gratificaci&#xF3;n o la bonificaci&#xF3;n de cada empleado cuando se trate de ejercicios financieros que expiren con posterioridad al 14 de Septiembre de 1942.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676187,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  6.o De las gratificaciones<span class=\"n\" id=\"n_1\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  6.o De las gratificaciones<span class=\"n\" id=\"n_2\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span></div><br></div>"
+        },
+        {
+          "part_id": 8676194,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 56.o Las infracciones al presente Reglamento<span class=\"n\" id=\"n_3\">DTO 123, TRABAJO<br>Art. 1&#xBA;<br>D.O. 08.02.1947</span> ser&#xE1;n sancionadas de acuerdo con el art&#xED;culo 178 del C&#xF3;digo de Trabajo.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 56.o Las infracciones al presente Reglamento<span class=\"n\" id=\"n_4\">DTO 123, TRABAJO<br>Art. 1&#xBA;<br>D.O. 08.02.1947</span> ser&#xE1;n sancionadas de acuerdo con el art&#xED;culo 178 del C&#xF3;digo de Trabajo.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1948-10-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8676195,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. ... Sin perjuicio de la obligaci&#xF3;n<span class=\"n\" id=\"n_2\">DTO 845, TRABAJO<br>Art. 1&#xBA;<br>D.O. 25.10.1948</span> establecida en los dos art&#xED;culos precedentes, todo empleador deber&#xE1; presentar a la respectiva Inspecci&#xF3;n del Trabajo y dentro de los treinta d&#xED;as siguientes a la fecha en que pague la gratificaci&#xF3;n a sus empleados, un ejemplar de uno u otro de los formularios indicados en dichos art&#xED;culos, seg&#xFA;n sea el sistema de gratificaci&#xF3;n que haya adoptado.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676196,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. ... Las infracciones a las disposiciones del<span class=\"n\" id=\"n_5\">DTO 845, TRABAJO<br>Art. 2&#xBA;<br>D.O. 25.10.1948</span> presente Reglamento ser&#xE1;n sancionadas con la multa establecida en el art&#xED;culo 178 del C&#xF3;digo del Trabajo.</div><br><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676186,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 53. Los l&#xED;mites m&#xE1;ximos de $ 2,000 y $ 2,500<span class=\"n\" id=\"n_3\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span> mensuales fijados para el c&#xF3;mputo y pago de las gratificaciones y bonificaciones legales anuales se aplicar&#xE1;n en la determinaci&#xF3;n de la gratificaci&#xF3;n o la bonificaci&#xF3;n de cada empleado cuando se trate de ejercicios financieros que expiren con posterioridad al 14 de Septiembre de 1942.</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 53. Los l&#xED;mites m&#xE1;ximos de $ 2,000 y $ 2,500<span class=\"n\" id=\"n_4\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span> mensuales fijados para el c&#xF3;mputo y pago de las gratificaciones y bonificaciones legales anuales se aplicar&#xE1;n en la determinaci&#xF3;n de la gratificaci&#xF3;n o la bonificaci&#xF3;n de cada empleado cuando se trate de ejercicios financieros que expiren con posterioridad al 14 de Septiembre de 1942.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676187,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  6.o De las gratificaciones<span class=\"n\" id=\"n_2\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  6.o De las gratificaciones<span class=\"n\" id=\"n_3\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span></div><br></div>"
+        },
+        {
+          "part_id": 8676194,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 56.o Las infracciones al presente Reglamento<span class=\"n\" id=\"n_4\">DTO 123, TRABAJO<br>Art. 1&#xBA;<br>D.O. 08.02.1947</span> ser&#xE1;n sancionadas de acuerdo con el art&#xED;culo 178 del C&#xF3;digo de Trabajo.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 56.o Las infracciones al presente Reglamento<span class=\"n\" id=\"n_6\">DTO 123, TRABAJO<br>Art. 1&#xBA;<br>D.O. 08.02.1947</span> ser&#xE1;n sancionadas de acuerdo con el art&#xED;culo 178 del C&#xF3;digo de Trabajo.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1957-01-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676131,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 8.o Cualquiera de las partes interesadas puede solicitar reconsideraci&#xF3;n de la calificaci&#xF3;n. Para que la Junta conozca de ella, se requiere: A) que se solicite dentro del plazo m&#xE1;ximo de 30 d&#xED;as, contados desde la fecha en que se comunic&#xF3; a la parte reclamante la resoluci&#xF3;n que motiv&#xF3; el reclamo; y B) que se invoquen hechos nuevos, no considerados al producirse la calificaci&#xF3;n. Contra una reconsideraci&#xF3;n acogida o rechazada no procede recurso de ninguna especie.</div><div class=\"p\">&nbsp; &nbsp;  La reconsideraci&#xF3;n debe tramitarse en la misma forma que la calificaci&#xF3;n y debe dirigirse a la Inspecci&#xF3;n del Trabajo respectiva, donde se le pondr&#xE1; cargo con la fecha de la recepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  La Caja de Previsi&#xF3;n de Empleados Particulares y<span class=\"n\" id=\"n_0\">DTO 1153, TRABAJO<br>D.O. 07.01.1948</span> la Caja de Seguro Obligatorio podr&#xE1;n interponer este recurso en todos aquellos casos en que tengan inter&#xE9;s y aun cuando no hubieren figurado como parte.</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 8.o Cualquiera de las partes interesadas puede solicitar reconsideraci&#xF3;n de la calificaci&#xF3;n. Para que la Junta conozca de ella, se requiere: A) que se solicite dentro del plazo m&#xE1;ximo de 30 d&#xED;as, contados desde la fecha en que se comunic&#xF3; a la parte reclamante la resoluci&#xF3;n que motiv&#xF3; el reclamo; y B) que se invoquen hechos nuevos, no considerados al producirse la calificaci&#xF3;n. Contra una reconsideraci&#xF3;n acogida o rechazada no procede recurso de ninguna especie.</div><div class=\"p\">&nbsp; &nbsp;  La reconsideraci&#xF3;n debe tramitarse en la misma forma que la calificaci&#xF3;n y debe dirigirse a la Inspecci&#xF3;n del Trabajo respectiva, donde se le pondr&#xE1; cargo con la fecha de la recepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  La Caja de Previsi&#xF3;n de Empleados Particulares y<span class=\"n\" id=\"n_0\">DTO 1153, TRABAJO<br>D.O. 07.01.1948</span> la Caja de Seguro Obligatorio podr&#xE1;n interponer este recurso en todos aquellos casos en que tengan inter&#xE9;s y aun cuando no hubieren figurado como parte.</div><div class=\"p\">&nbsp; &nbsp;  Las resoluciones que acojan o desechen una<span class=\"n\" id=\"n_1\">DTO 958, TRABAJO<br>D.O. 11.01.1957</span> reconsideraci&#xF3;n se notificar&#xE1;n por c&#xE9;dula que contenga la copia &#xED;ntegra del acuerdo, la que se entregar&#xE1; por los inspectores del trabajo o por carabineros a cualquiera persona adulta que se encuentre en el domicilio del interesado. El inspector o carabinero dejar&#xE1; testimonio escrito de la diligencia, que devolver&#xE1; a la Junta, para ser agregada al respectivo expediente.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676144,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 19.o El n&#xFA;mero de horas extraordinarias<span class=\"n\" id=\"n_1\">DTO 692, TRABAJO<br>Art. &#xFA;nico<br>D.O. 23.08.1937</span> ser&#xE1; el saldo que arroje el total de las horas trabajadas en la semana, con deducci&#xF3;n del producto que resulte, multiplicando los d&#xED;as h&#xE1;biles de la semana, por 8 o 9 y un tercio, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  En consecuencia, el c&#xE1;lculo se har&#xE1; en la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 48 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 8 horas&nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><div class=\"p\">&nbsp; &nbsp;  2.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 56 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 9 1/3&nbsp; &nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 19.o El n&#xFA;mero de horas extraordinarias<span class=\"n\" id=\"n_2\">DTO 692, TRABAJO<br>Art. &#xFA;nico<br>D.O. 23.08.1937</span> ser&#xE1; el saldo que arroje el total de las horas trabajadas en la semana, con deducci&#xF3;n del producto que resulte, multiplicando los d&#xED;as h&#xE1;biles de la semana, por 8 o 9 y un tercio, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  En consecuencia, el c&#xE1;lculo se har&#xE1; en la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 48 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 8 horas&nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><div class=\"p\">&nbsp; &nbsp;  2.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 56 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 9 1/3&nbsp; &nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676186,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 53. Los l&#xED;mites m&#xE1;ximos de $ 2,000 y $ 2,500<span class=\"n\" id=\"n_4\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span> mensuales fijados para el c&#xF3;mputo y pago de las gratificaciones y bonificaciones legales anuales se aplicar&#xE1;n en la determinaci&#xF3;n de la gratificaci&#xF3;n o la bonificaci&#xF3;n de cada empleado cuando se trate de ejercicios financieros que expiren con posterioridad al 14 de Septiembre de 1942.</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 53. Los l&#xED;mites m&#xE1;ximos de $ 2,000 y $ 2,500<span class=\"n\" id=\"n_5\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span> mensuales fijados para el c&#xF3;mputo y pago de las gratificaciones y bonificaciones legales anuales se aplicar&#xE1;n en la determinaci&#xF3;n de la gratificaci&#xF3;n o la bonificaci&#xF3;n de cada empleado cuando se trate de ejercicios financieros que expiren con posterioridad al 14 de Septiembre de 1942.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676187,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  6.o De las gratificaciones<span class=\"n\" id=\"n_3\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  6.o De las gratificaciones<span class=\"n\" id=\"n_4\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span></div><br></div>"
+        },
+        {
+          "part_id": 8676194,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 56.o Las infracciones al presente Reglamento<span class=\"n\" id=\"n_6\">DTO 123, TRABAJO<br>Art. 1&#xBA;<br>D.O. 08.02.1947</span> ser&#xE1;n sancionadas de acuerdo con el art&#xED;culo 178 del C&#xF3;digo de Trabajo.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 56.o Las infracciones al presente Reglamento<span class=\"n\" id=\"n_7\">DTO 123, TRABAJO<br>Art. 1&#xBA;<br>D.O. 08.02.1947</span> ser&#xE1;n sancionadas de acuerdo con el art&#xED;culo 178 del C&#xF3;digo de Trabajo.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676195,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. ... Sin perjuicio de la obligaci&#xF3;n<span class=\"n\" id=\"n_2\">DTO 845, TRABAJO<br>Art. 1&#xBA;<br>D.O. 25.10.1948</span> establecida en los dos art&#xED;culos precedentes, todo empleador deber&#xE1; presentar a la respectiva Inspecci&#xF3;n del Trabajo y dentro de los treinta d&#xED;as siguientes a la fecha en que pague la gratificaci&#xF3;n a sus empleados, un ejemplar de uno u otro de los formularios indicados en dichos art&#xED;culos, seg&#xFA;n sea el sistema de gratificaci&#xF3;n que haya adoptado.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. ... Sin perjuicio de la obligaci&#xF3;n<span class=\"n\" id=\"n_3\">DTO 845, TRABAJO<br>Art. 1&#xBA;<br>D.O. 25.10.1948</span> establecida en los dos art&#xED;culos precedentes, todo empleador deber&#xE1; presentar a la respectiva Inspecci&#xF3;n del Trabajo y dentro de los treinta d&#xED;as siguientes a la fecha en que pague la gratificaci&#xF3;n a sus empleados, un ejemplar de uno u otro de los formularios indicados en dichos art&#xED;culos, seg&#xFA;n sea el sistema de gratificaci&#xF3;n que haya adoptado.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676196,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. ... Las infracciones a las disposiciones del<span class=\"n\" id=\"n_5\">DTO 845, TRABAJO<br>Art. 2&#xBA;<br>D.O. 25.10.1948</span> presente Reglamento ser&#xE1;n sancionadas con la multa establecida en el art&#xED;culo 178 del C&#xF3;digo del Trabajo.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. ... Las infracciones a las disposiciones del<span class=\"n\" id=\"n_6\">DTO 845, TRABAJO<br>Art. 2&#xBA;<br>D.O. 25.10.1948</span> presente Reglamento ser&#xE1;n sancionadas con la multa establecida en el art&#xED;culo 178 del C&#xF3;digo del Trabajo.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1961-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676135,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 12.o El empleador a quien afecten las disposiciones del art&#xED;culo 115 del C&#xF3;digo del Trabajo, llevar&#xE1; en la oficina principal y en cada sucursal, un registro de su personal, que contenga las indicaciones siguientes:</div><div class=\"p\">&nbsp; &nbsp;  A) Nombre y apellido de cada uno de los empleados;</div><div class=\"p\">&nbsp; &nbsp;  B) Su nacionalidad;</div><div class=\"p\">&nbsp; &nbsp;  C) Sueldo de cada uno de los empleados; proporci&#xF3;n o porcentaje representado por los sueldos asignados a empleados chilenos y a los considerados como tales por la Ley;</div><div class=\"p\">&nbsp; &nbsp;  D) Quienes no entran para los efectos del c&#xF3;mputo a que se refiere el Art. 115 del C&#xF3;digo del Trabajo;</div><div class=\"p\">&nbsp; &nbsp;  E) Quienes, no obstante ser extranjeros, deben considerarse como chilenos;</div><div class=\"p\">&nbsp; &nbsp;  F) N&#xFA;mero total de empleados;</div><div class=\"p\">&nbsp; &nbsp;  G) Proporci&#xF3;n o porcentaje de chilenos. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 12.o El empleador a quien afecten las disposiciones del art&#xED;culo 115 del C&#xF3;digo del Trabajo, llevar&#xE1; en la oficina principal y en cada sucursal, un registro de su personal, que contenga las indicaciones siguientes:</div><div class=\"p\">&nbsp; &nbsp;  A) Nombre y apellido de cada uno de los empleados;</div><div class=\"p\">&nbsp; &nbsp;  B) Su nacionalidad;</div><div class=\"p\">&nbsp; &nbsp;  C) Sueldo de cada uno de los empleados; proporci&#xF3;n o porcentaje representado por los sueldos asignados a empleados chilenos y a los considerados como tales por la Ley;</div><div class=\"p\">&nbsp; &nbsp;  D) Quienes no entran para los efectos del c&#xF3;mputo a que se refiere el Art. 115 del C&#xF3;digo del Trabajo;</div><div class=\"p\">&nbsp; &nbsp;  E) Quienes, no obstante ser extranjeros, deben considerarse como chilenos;</div><div class=\"p\">&nbsp; &nbsp;  F) N&#xFA;mero total de empleados;</div><div class=\"p\">&nbsp; &nbsp;  G) Proporci&#xF3;n o porcentaje de chilenos.</div><br><div class=\"p\">&nbsp; &nbsp;  Previa autorizaci&#xF3;n de la respectiva Inspecci&#xF3;n<span class=\"n\" id=\"n_2\">DTO 6, TRABAJO<br>Art. &#xFA;nico<br>D.O. 31.01.1961</span> Provincial del Trabajo, las empresas podr&#xE1;n reemplazar el sistema de registro de libros por un sistema de registro Kardex o cualquier otro que cumpla, a juicio de la respectiva Inspecci&#xF3;n, la finalidad prevista en el art&#xED;culo 117 del C&#xF3;digo del Trabajo.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676144,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 19.o El n&#xFA;mero de horas extraordinarias<span class=\"n\" id=\"n_2\">DTO 692, TRABAJO<br>Art. &#xFA;nico<br>D.O. 23.08.1937</span> ser&#xE1; el saldo que arroje el total de las horas trabajadas en la semana, con deducci&#xF3;n del producto que resulte, multiplicando los d&#xED;as h&#xE1;biles de la semana, por 8 o 9 y un tercio, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  En consecuencia, el c&#xE1;lculo se har&#xE1; en la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 48 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 8 horas&nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><div class=\"p\">&nbsp; &nbsp;  2.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 56 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 9 1/3&nbsp; &nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 19.o El n&#xFA;mero de horas extraordinarias<span class=\"n\" id=\"n_3\">DTO 692, TRABAJO<br>Art. &#xFA;nico<br>D.O. 23.08.1937</span> ser&#xE1; el saldo que arroje el total de las horas trabajadas en la semana, con deducci&#xF3;n del producto que resulte, multiplicando los d&#xED;as h&#xE1;biles de la semana, por 8 o 9 y un tercio, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  En consecuencia, el c&#xE1;lculo se har&#xE1; en la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 48 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 8 horas&nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><div class=\"p\">&nbsp; &nbsp;  2.o Caso de empleados sujetos a la duraci&#xF3;n semanal de 56 horas ordinarias de trabajo:</div><br><div class=\"p\">Horas trabajadas en la semana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><div class=\"p\">Menos d&#xED;as h&#xE1;biles en la semana por 9 1/3&nbsp; &nbsp; (tantas)</div><div class=\"p\">Horas extraordinarias&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (tantas)</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676186,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 53. Los l&#xED;mites m&#xE1;ximos de $ 2,000 y $ 2,500<span class=\"n\" id=\"n_5\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span> mensuales fijados para el c&#xF3;mputo y pago de las gratificaciones y bonificaciones legales anuales se aplicar&#xE1;n en la determinaci&#xF3;n de la gratificaci&#xF3;n o la bonificaci&#xF3;n de cada empleado cuando se trate de ejercicios financieros que expiren con posterioridad al 14 de Septiembre de 1942.</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 53. Los l&#xED;mites m&#xE1;ximos de $ 2,000 y $ 2,500<span class=\"n\" id=\"n_6\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span> mensuales fijados para el c&#xF3;mputo y pago de las gratificaciones y bonificaciones legales anuales se aplicar&#xE1;n en la determinaci&#xF3;n de la gratificaci&#xF3;n o la bonificaci&#xF3;n de cada empleado cuando se trate de ejercicios financieros que expiren con posterioridad al 14 de Septiembre de 1942.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676187,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  6.o De las gratificaciones<span class=\"n\" id=\"n_4\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  6.o De las gratificaciones<span class=\"n\" id=\"n_5\">DTO 1198, TRABAJO<br>D.O. 31.12.1942</span></div><br></div>"
+        },
+        {
+          "part_id": 8676194,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 56.o Las infracciones al presente Reglamento<span class=\"n\" id=\"n_7\">DTO 123, TRABAJO<br>Art. 1&#xBA;<br>D.O. 08.02.1947</span> ser&#xE1;n sancionadas de acuerdo con el art&#xED;culo 178 del C&#xF3;digo de Trabajo.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 56.o Las infracciones al presente Reglamento<span class=\"n\" id=\"n_8\">DTO 123, TRABAJO<br>Art. 1&#xBA;<br>D.O. 08.02.1947</span> ser&#xE1;n sancionadas de acuerdo con el art&#xED;culo 178 del C&#xF3;digo de Trabajo.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676195,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. ... Sin perjuicio de la obligaci&#xF3;n<span class=\"n\" id=\"n_3\">DTO 845, TRABAJO<br>Art. 1&#xBA;<br>D.O. 25.10.1948</span> establecida en los dos art&#xED;culos precedentes, todo empleador deber&#xE1; presentar a la respectiva Inspecci&#xF3;n del Trabajo y dentro de los treinta d&#xED;as siguientes a la fecha en que pague la gratificaci&#xF3;n a sus empleados, un ejemplar de uno u otro de los formularios indicados en dichos art&#xED;culos, seg&#xFA;n sea el sistema de gratificaci&#xF3;n que haya adoptado.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. ... Sin perjuicio de la obligaci&#xF3;n<span class=\"n\" id=\"n_4\">DTO 845, TRABAJO<br>Art. 1&#xBA;<br>D.O. 25.10.1948</span> establecida en los dos art&#xED;culos precedentes, todo empleador deber&#xE1; presentar a la respectiva Inspecci&#xF3;n del Trabajo y dentro de los treinta d&#xED;as siguientes a la fecha en que pague la gratificaci&#xF3;n a sus empleados, un ejemplar de uno u otro de los formularios indicados en dichos art&#xED;culos, seg&#xFA;n sea el sistema de gratificaci&#xF3;n que haya adoptado.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8676196,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. ... Las infracciones a las disposiciones del<span class=\"n\" id=\"n_6\">DTO 845, TRABAJO<br>Art. 2&#xBA;<br>D.O. 25.10.1948</span> presente Reglamento ser&#xE1;n sancionadas con la multa establecida en el art&#xED;culo 178 del C&#xF3;digo del Trabajo.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. ... Las infracciones a las disposiciones del<span class=\"n\" id=\"n_7\">DTO 845, TRABAJO<br>Art. 2&#xBA;<br>D.O. 25.10.1948</span> presente Reglamento ser&#xE1;n sancionadas con la multa establecida en el art&#xED;culo 178 del C&#xF3;digo del Trabajo.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

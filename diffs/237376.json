@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1931-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1953-08-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9053245,
+          "old": "<div><div class=\"p\">Decreto con fuerza de Ley N.o 341</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 341.- Santiago, 15 de Mayo de 1931.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  1.o Que es conveniente propender al fomento y fiscalizaci&#xF3;n de la producci&#xF3;n equina y de las actividades ecuestres e h&#xED;picas, y estimular la formaci&#xF3;n de reservas caballares, continuando la pol&#xED;tica de protecci&#xF3;n iniciada por la ley n&#xFA;mero 4,566, de 31 de Enero de 1929;</div><div class=\"p\">&nbsp; &nbsp;  2.o Que en este sentido, es preciso modificar las disposiciones contenidas en la ley a que se acaba de hacer referencia, y en la ley n&#xFA;mero 1,528, de 2 de Mayo de 1902, que autoriz&#xF3; las apuestas mutuas en los Hip&#xF3;dromos del pa&#xED;s, con el primordial objeto de fomentar la raza caballar;</div><div class=\"p\">&nbsp; &nbsp;  I vistas las facultades que me confiere la ley n&#xFA;mero 4,945, de 6 de Febrero del presente a&#xF1;o, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">Decreto con fuerza de Ley N.o 341<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 341.- Santiago, 15 de Mayo de 1931.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  1.o Que es conveniente propender al fomento y fiscalizaci&#xF3;n de la producci&#xF3;n equina y de las actividades ecuestres e h&#xED;picas, y estimular la formaci&#xF3;n de reservas caballares, continuando la pol&#xED;tica de protecci&#xF3;n iniciada por la ley n&#xFA;mero 4,566, de 31 de Enero de 1929;</div><div class=\"p\">&nbsp; &nbsp;  2.o Que en este sentido, es preciso modificar las disposiciones contenidas en la ley a que se acaba de hacer referencia, y en la ley n&#xFA;mero 1,528, de 2 de Mayo de 1902, que autoriz&#xF3; las apuestas mutuas en los Hip&#xF3;dromos del pa&#xED;s, con el primordial objeto de fomentar la raza caballar;</div><div class=\"p\">&nbsp; &nbsp;  I vistas las facultades que me confiere la ley n&#xFA;mero 4,945, de 6 de Febrero del presente a&#xF1;o,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 5 del DFL 192, Hacienda, publicado el 03.08.1953, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1928-09-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1929-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7168739,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Reemplaza el art&#xED;culo 12 del decreto-ley n&#xFA;mero 718, de 13 de Noviembre de 1925</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Reemplaza el art&#xED;culo 12 del decreto-ley n&#xFA;mero<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> 718, de 13 de Noviembre de 1925</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. &#xFA;nico de la LEY 4520, publicada el 09.01.1929, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

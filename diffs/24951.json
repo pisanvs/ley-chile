@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "1930-03-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1934-03-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9093241,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 35. a la partida A, se destinar&#xE1; el 60 por ciento que el &#xED;tem 7 del Presupuesto Ordinario Nacional destine a caminos y puentes por concepto del producto del impuesto normal sobre los Bienes Ra&#xED;ces, en conformidad a los art&#xED;culos 28 y 31 de la presente ley.</div><div class=\"p\">&nbsp; &nbsp; Al cap&#xED;tulo (A1), &quot;Gastos Generales&quot;, se destinar&#xE1; como m&#xE1;ximo el quince por ciento de la Partida (A).</div><div class=\"p\">&nbsp; &nbsp; De este quince por ciento s&#xF3;lo se destinar&#xE1; un cinco por ciento a gastos generales; entendi&#xE9;ndose como tales, lo que la Oficina Central de Caminos y Puentes estime necesario invertir por concepto de sueldos, gratificaciones, vi&#xE1;ticos, movilizaci&#xF3;n, estudios, inspecci&#xF3;n t&#xE9;cnica y arriendo con aprobaci&#xF3;n del Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; El diez por ciento restante se invertir&#xE1; en las expropiaciones, adquisici&#xF3;n de locales, maquinarias, herramientas, muebles y &#xFA;tiles, y otros gastos de igual naturaleza, con aprobaci&#xF3;n del Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Al Cap&#xED;tulo (A2) (Obras de Caminos), se destinar&#xE1;, como m&#xED;nimo, el 85 por ciento de la Partida (A). Esta suma se destinar&#xE1; a costear la ejecuci&#xF3;n directa de las obras, o sea, la atenci&#xF3;n de los gastos de jornales, materiales y gastos accesorios, o al pago de los contratos de obras. La cuota asignada a este cap&#xED;tulo se distribuir&#xE1; por departamento a prorrata del rendimiento en el a&#xF1;o anterior al de formaci&#xF3;n del presupuesto de las rentas de bienes ra&#xED;ces que financien los gastos normales de caminos.</div><div class=\"p\">&nbsp; &nbsp; Para este efecto, los Territorios de Aysen y Magallanes, ser&#xE1;n considerados como departamentos.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, con acuerdo de las respectivas juntas departamentales, se podr&#xE1; destinar hasta un 30 por ciento en caminos fuera del departamento.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 35. a la partida A, se destinar&#xE1; el 60 por ciento que el &#xED;tem 7 del Presupuesto Ordinario Nacional destine a caminos y puentes por concepto del producto del impuesto normal sobre los Bienes Ra&#xED;ces, en conformidad a los art&#xED;culos 28 y 31 de la presente ley.</div><div class=\"p\">&nbsp; &nbsp; En<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1216846&amp;idParte=10562627&amp;idVersion=1934-03-22\">Ley 5432<br>Art. 1<br>D.O. 22.03.1934</a></span> las provincias de Tarapac&#xE1;, Antofagasta y Atacama y en los departamentos de Ancud y Castro, deber&#xE1; invertirse en caminos el total de los fondos.</div><div class=\"p\">&nbsp; &nbsp; Al cap&#xED;tulo (A1), &quot;Gastos Generales&quot;, se destinar&#xE1; como m&#xE1;ximo el quince por ciento de la Partida (A).</div><div class=\"p\">&nbsp; &nbsp; De este quince por ciento s&#xF3;lo se destinar&#xE1; un cinco por ciento a gastos generales; entendi&#xE9;ndose como tales, lo que la Oficina Central de Caminos y Puentes estime necesario invertir por concepto de sueldos, gratificaciones, vi&#xE1;ticos, movilizaci&#xF3;n, estudios, inspecci&#xF3;n t&#xE9;cnica y arriendo con aprobaci&#xF3;n del Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; El diez por ciento restante se invertir&#xE1; en las expropiaciones, adquisici&#xF3;n de locales, maquinarias, herramientas, muebles y &#xFA;tiles, y otros gastos de igual naturaleza, con aprobaci&#xF3;n del Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Al Cap&#xED;tulo (A2) (Obras de Caminos), se destinar&#xE1;, como m&#xED;nimo, el 85 por ciento de la Partida (A). Esta suma se destinar&#xE1; a costear la ejecuci&#xF3;n directa de las obras, o sea, la atenci&#xF3;n de los gastos de jornales, materiales y gastos accesorios, o al pago de los contratos de obras. La cuota asignada a este cap&#xED;tulo se distribuir&#xE1; por departamento a prorrata del rendimiento en el a&#xF1;o anterior al de formaci&#xF3;n del presupuesto de las rentas de bienes ra&#xED;ces que financien los gastos normales de caminos.</div><div class=\"p\">&nbsp; &nbsp; Para este efecto, los Territorios de Aysen y Magallanes, ser&#xE1;n considerados como departamentos.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, con acuerdo de las respectivas juntas departamentales, se podr&#xE1; destinar hasta un 30 por ciento en caminos fuera del departamento.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1216846,
+      "fecha": "1934-03-22"
+    }
+  },
+  {
+    "fecha": "1960-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

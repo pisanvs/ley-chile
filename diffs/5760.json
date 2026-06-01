@@ -1,0 +1,77 @@
+[
+  {
+    "fecha": "1934-08-09",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1934-08-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8989131,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- DEROGADO<span class=\"n\" id=\"n_0\">Ley 5454<br>Art 1&#xB0;</span></div><br></div>"
+        },
+        {
+          "part_id": 8989132,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- DEROGADO<span class=\"n\" id=\"n_1\">Ley 5454<br>Art 1&#xB0;</span></div><br></div>"
+        },
+        {
+          "part_id": 8989133,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- DEROGADO<span class=\"n\" id=\"n_2\">Ley 5454<br>Art 1&#xB0;</span></div><br></div>"
+        },
+        {
+          "part_id": 8989134,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4.&#xB0; Unicamente el Banco Central de Chile podr&#xE1; comprar y a &#xE9;l se podr&#xE1; vender oro en barras y oro amonedado, al precio que corresponda al cambio internacional fijado por dicho Banco.</div><br></div>"
+        },
+        {
+          "part_id": 8989135,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 5.&#xB0; Los vendedores del oro a que se refieren el art&#xED;culo anterior tendr&#xE1;n derecho a obtener, dentro del plazo de tres meses contados desde la fecha de la venta, autorizaciones de la Comisi&#xF3;n de Cambios Internacionales para la emisi&#xF3;n de giros sobre el extranjero por las cantidades correspondientes, de acuerdo con la ley n&#xFA;mero 5,107, de 19 de abril de 1932, y para los objetos que ella se&#xF1;ala. Ese derecho podr&#xE1; cederse con autorizaci&#xF3;n de dicha comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Si el vendedor del oro amonedado o en barras fuere<span class=\"n\" id=\"n_3\">DL 522 1932<br>Art 1&#xB0;</span> un Banco comercial, la Comisi&#xF3;n de Cambios podr&#xE1; autorizar la emisi&#xF3;n de los giros con prescindencia del orden de prelaci&#xF3;n establecido por la ley N&#xB0; 5,107, previo informe favorable del Superintendente de Bancos, sobre la necesidad de esos giros que tenga el Banco solicitante para sus operaciones ordinarias y sobre el hecho de haber &#xE9;ste adquirido el oro con anterioridad al 30 de julio de 1931.</div><br></div>"
+        },
+        {
+          "part_id": 8989136,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 6.&#xB0; El comercio de oro manufacturado para usos personales, s&#xF3;lo podr&#xE1; ejercerse por las personas naturales o jur&#xED;dicas que paguen la patente que corresponda precisamente a ese comercio, las cuales estar&#xE1;n sujetas a los reglamentos que se dicten al respecto.</div><br></div>"
+        },
+        {
+          "part_id": 8989137,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 7.&#xB0; La Casa de Moneda reducir&#xE1; a barras o amonedar&#xE1; el oro de lavaderos y el oro manufacturado para usos personales, que se presente por las personas naturales o jur&#xED;dicas autorizadas para comprarlo o para comerciar con &#xE9;l, seg&#xFA;n el presente decreto-ley. </div></div>"
+        },
+        {
+          "part_id": 8989138,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 8.&#xB0; La Caja de Cr&#xE9;dito Minero organizar&#xE1;, con aprobaci&#xF3;n del Presidente de la Rep&#xFA;blica, el servicio de compras de minerales y de oro de lavaderos. </div></div>"
+        },
+        {
+          "part_id": 8989139,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 9.&#xB0; El Estado anticipar&#xE1; a la Caja de Cr&#xE9;dito Minero los fondos que fueren necesarios para el desempe&#xF1;o de los servicios que se le encomiendan. Estos fondos ser&#xE1;n administrados de acuerdo con el reglamento que se dicte al respecto.</div><br></div>"
+        },
+        {
+          "part_id": 8989140,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 10. El oro que se negocie con infracci&#xF3;n a este decreto-ley caer&#xE1; &#xED;ntegramente en comiso en favor del Estado.</div><br></div>"
+        },
+        {
+          "part_id": 8989141,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 11. El presente decreto-ley regir&#xE1; desde la fecha de su promulgaci&#xF3;n en el &quot;Diario Oficial&quot;. </div></div>"
+        },
+        {
+          "part_id": 8989142,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; T&#xF3;mese raz&#xF3;n, comun&#xED;quese, publ&#xED;quese e ins&#xE9;rtese en el Bolet&#xED;n de Leyes y Decretos del Gobierno.- CARLOS DAVILA.- Nolasco C&#xE1;rdenas.-</div><div class=\"p\">A. Cabero.- Enrique Za&#xF1;artu P.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

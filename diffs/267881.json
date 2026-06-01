@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1931-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1940-06-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9054491,
+          "old": "<div><div class=\"p\">Modifica Reglamento venta de anteojos</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 549.- Santiago, 17 de Julio de 1931.- Vistos estos antecedentes y lo informado por la Direcci&#xF3;n General de Sanidad,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA REGLAMENTO VENTA DE ANTEOJOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 549.- Santiago, 17 de Julio de 1931.- Vistos estos antecedentes y lo informado por la Direcci&#xF3;n General de Sanidad,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

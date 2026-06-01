@@ -1,0 +1,61 @@
+[
+  {
+    "fecha": "1931-05-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1948-07-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9251442,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo... El obrero tendr&#xE1; derecho al salario base en dinero<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1038875&amp;idParte=9249946&amp;idVersion=1948-07-31\">Ley 8961<br>Art. 3<br>D.O. 31.07.1948</a></span> por los d&#xED;as Domingo y feriados.</div><div class=\"p\">&nbsp; &nbsp; Se entender&#xE1; por salario base la remuneraci&#xF3;n ordinaria en dinero efectivo que perciba el obrero por la prestaci&#xF3;n de sus servicios, con exclusi&#xF3;n de toda otra remuneraci&#xF3;n accesoria o extraordinaria.</div><div class=\"p\">&nbsp; &nbsp; En los trabajos a trato, cuando no se hubiere pactado un salario base, la remuneraci&#xF3;n que se pague por los d&#xED;as Domingo y festivos ser&#xE1; el promedio de los salarios devengados en el respectivo per&#xED;odo de pago. Para estos casos, el salario base no podr&#xE1; ser inferior al salario base m&#xED;nimo en dinero que pague la empresa a los obreros que trabajen al d&#xED;a o por tiempo.</div><div class=\"p\">&nbsp; &nbsp; Para gozar del derecho que establece el inciso primero del presente art&#xED;culo, el obrero deber&#xE1; haber cumplido la jornada diaria completa de todos los d&#xED;as trabajados por la empresa o secci&#xF3;n correspondiente en la semana respectiva.</div><div class=\"p\">&nbsp; &nbsp; No har&#xE1;n perder este derecho las inasistencias debidas a accidentes del trabajo.</div><div class=\"p\">&nbsp; &nbsp; Tampoco se perder&#xE1; debido a atrasos y permisos, cuando &#xE9;stos no sumen en total m&#xE1;s de dos horas en una misma semana, ni m&#xE1;s de cuatro en el mes calendario.</div><div class=\"p\">&nbsp; &nbsp; Lo dispuesto en este art&#xED;culo no se aplicar&#xE1; cuando la empresa respectiva ocupare cinco obreros o menos</div></div>"
+        },
+        {
+          "part_id": 9252141,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Articulo... Si la empresa o faena, por<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1038875&amp;idParte=9249947&amp;idVersion=1948-07-31\">Ley 8961<br>Art. 5<br>D.O. 31.07.1948</a></span> causas ajenas a la voluntad del empresario, no pudiera desarrollar la jornada diaria de trabajo, los d&#xED;as Domingos y festivos y de descanso se pagar&#xE1;n conforme al salario base, en proporci&#xF3;n a las horas trabajadas efectivamente por la empresa en el respectivo per&#xED;odo.</div><div class=\"p\">&nbsp; &nbsp;  Si la Paralizaci&#xF3;n de las actividades de la empresa se debiera a hecho o culpa de sus operarios, &#xE9;stos perder&#xE1;n todo derecho al pago de los d&#xED;as Domingo y festivo, o del d&#xED;a de descanso, del per&#xED;odo en que dicha interrupci&#xF3;n se produjera</div></div>"
+        },
+        {
+          "part_id": 9252142,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo... Lo dispuesto en el art&#xED;culo que se<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1038875&amp;idParte=9249947&amp;idVersion=1948-07-31\">Ley 8961<br>Art. 5<br>D.O. 31.07.1948</a></span> agrega a continuaci&#xF3;n del art&#xED;culo 322 del C&#xF3;digo del Trabajo, y en el art&#xED;culo 327 del mismo C&#xF3;digo, no se aplicar&#xE1; a los obreros que no tienen obligaci&#xF3;n de cumplir jornada u horario fijo de trabajo</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8776366,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 28. En aquellas faenas que, por su naturaleza, no perjudiquen la salud del obrero, podr&#xE1;n pactarse por escrito, en casos especiales que calificar&#xE1; la respectiva Inspecci&#xF3;n del Trabajo, horas extraordinarias hasta el m&#xE1;ximo de dos por d&#xED;a, las que se pagar&#xE1;n con un 50 % de recargo sobre el salario convenido para la jornada ordinaria.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 28. En aquellas faenas que, por su naturaleza, no perjudiquen la salud del obrero, podr&#xE1;n pactarse por escrito, en casos especiales que calificar&#xE1; la respectiva Inspecci&#xF3;n del Trabajo, horas extraordinarias hasta el m&#xE1;ximo de dos por d&#xED;a, las que se pagar&#xE1;n con un 50 % de recargo sobre el salario convenido para la jornada ordinaria.</div><div class=\"p\">&nbsp; &nbsp; Las horas trabajadas en Domingo y d&#xED;as de feriado legal<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1038875&amp;idParte=9249944&amp;idVersion=1948-07-31\">Ley 8961<br>Art. 1<br>D.O. 31.07.1948</a></span> se considerar&#xE1;n extraordinarias y se pagar&#xE1;n como tales siempre que con ellas se excediere de los m&#xE1;ximos legales, o de las pactadas contractualmente cuando el n&#xFA;mero de &#xE9;stas fuere inferior a aqu&#xE9;llos.</div><div class=\"p\">&nbsp; &nbsp; Las empresas o faenas no exceptuadas del descanso dominical no podr&#xE1;n distribuir la jornada normal ordinaria de trabajo en forma que incluya el d&#xED;a Domingo, salvo el caso de fuerza mayor calificada por la Direcci&#xF3;n General del Trabajo. Si lo hicieren sin esa autorizaci&#xF3;n, las horas trabajadas en dichos d&#xED;as se pagar&#xE1;n con el recargo legal.</div><br><br></div>"
+        },
+        {
+          "part_id": 8776483,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 127. Se entiende por horas extraordinarias, las que excedan del m&#xE1;ximo de cuarenta y ocho y cincuenta y seis, seg&#xFA;n los casos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 127. Se entiende por horas extraordinarias, las que excedan del m&#xE1;ximo de cuarenta y ocho y cincuenta y seis, seg&#xFA;n los casos y las trabajadas en d&#xED;as Domingo y de feriado legal, siempre que<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1038875&amp;idParte=9249945&amp;idVersion=1948-07-31\">Ley 8961<br>Art. 2<br>D.O. 31.07.1948</a></span> con ellas se excedan los l&#xED;mites indicados.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8776711,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 327. Toda excepci&#xF3;n se entender&#xE1; aplicable exclusivamente:</div><div class=\"p\">&nbsp; &nbsp; 1) En cada Empresa, a los servicios o partes de la explotaci&#xF3;n, donde se realizan los trabajos que motivan excepciones;</div><div class=\"p\">&nbsp; &nbsp; 2) A las personas estrictamente indispensables para la ejecuci&#xF3;n de los referidos trabajos.</div><div class=\"p\">&nbsp; &nbsp; A&#xFA;n a las personas exceptuadas en las condiciones anteriores, se les dar&#xE1;, por lo menos, un d&#xED;a de descanso cada dos semanas. El d&#xED;a de descanso podr&#xE1; ser com&#xFA;n para todas las personas, o por turnos para no paralizar el curso del trabajo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 327. Toda excepci&#xF3;n se entender&#xE1; aplicable exclusivamente:</div><div class=\"p\">&nbsp; &nbsp; 1) En cada Empresa, a los servicios o partes de la explotaci&#xF3;n, donde se realizan los trabajos que motivan excepciones;</div><div class=\"p\">&nbsp; &nbsp; 2) A las personas estrictamente indispensables para la ejecuci&#xF3;n de los referidos trabajos.</div><div class=\"p\">&nbsp; &nbsp; A&#xFA;n a las personas exceptuadas en las condiciones<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1038875&amp;idParte=9249947&amp;idVersion=1948-07-31\">Ley 8961<br>Art. 4<br>D.O. 31.07.1948</a></span> anteriores, se les dar&#xE1;, por lo menos, un d&#xED;a de descanso cada dos semanas. El d&#xED;a de descanso podr&#xE1; ser com&#xFA;n para todas las personas, o por turnos para no paralizar el curso del trabajo.</div><div class=\"p\">&nbsp; &nbsp; Los obreros exceptuados en las condiciones anteriores tendr&#xE1;n derecho al pago del salario base por el d&#xED;a de descanso.</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en los incisos segundo, tercero y s&#xE9;ptimo del art&#xED;culo que se agrega a continuaci&#xF3;n del art&#xED;culo 322 se aplicar&#xE1; tambi&#xE9;n a estos obreros.</div><div class=\"p\">&nbsp; &nbsp;  Para gozar del derecho que establece el inciso primero del presente art&#xED;culo, el obrero deber&#xE1; haber cumplido la jornada diaria completa de todos los d&#xED;as trabajados por la empresa o secci&#xF3;n correspondiente en el per&#xED;odo bisemanalrespectivo.</div><div class=\"p\">&nbsp; &nbsp;  No har&#xE1;n perder este derecho las inasistencias debidas a accidentes del trabajo, siempre que no abarquen un per&#xED;odo bisemanal completo.</div><div class=\"p\">&nbsp; &nbsp;  Tampoco se perder&#xE1; debido a atrasos y permisos cuando &#xE9;stos no sumen en total m&#xE1;s de cinco horas en un mismo per&#xED;odo bisemanal, ni m&#xE1;s de diez en dos de estos per&#xED;odos seguidos.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1038875,
+      "fecha": "1948-07-31"
+    }
+  },
+  {
+    "fecha": "1987-07-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

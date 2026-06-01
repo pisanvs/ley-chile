@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1930-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1940-06-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6278325,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.834.-&nbsp; Santiago, 5 de Diciembre de 1930.- Visto lo dispuesto en los art&#xED;culos 155 y 240 del C&#xF3;digo Sanitario,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente reglamento sobre el expendio de anteojos al p&#xFA;blico:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.834.-&nbsp; Santiago, 5 de Diciembre de 1930.-<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Visto lo dispuesto en los art&#xED;culos 155 y 240 del C&#xF3;digo Sanitario,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente reglamento sobre el expendio de anteojos al p&#xFA;blico:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 11 del DTO 447, Salubridad, publicado el 15.06.1940, derog&#xF3; el presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

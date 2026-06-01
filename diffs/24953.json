@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1930-07-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1930-10-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8829620,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA; Los empleados que hubieren quedado cesantes, a contar del 1&#xBA; de Mayo por la paralizaci&#xF3;n de faenas, y los que quedaren cesantes a consecuencia de la aplicaci&#xF3;n de la presente ley, podr&#xE1;n exigir de la Caja de Previsi&#xF3;n de Empleados Particulares, la devoluci&#xF3;n inmediata de sus fondos de retiro.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;. La <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=24964&amp;idParte=5961165&amp;idVersion=1930-10-11\">LEY 4904<br>Art. 1<br>D.O. 11.10.1930</a></span>Caja de Previsi&#xF3;n de Empleados Particulares y dem&#xE1;s instituciones similares, deber&#xE1;n devolver, a petici&#xF3;n de los interesados, el total de los fondos de retiro de los empleados que se encuentren cesantes desde el 1&#xBA; de Enero de 1930 y de los que quedaren cesantes con motivo de la aplicaci&#xF3;n de la presente ley.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 24964,
+      "fecha": "1930-10-11"
+    }
+  }
+]

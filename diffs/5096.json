@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1931-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-02-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9033701,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 221.- Santiago, 15 de Mayo de 1931.- En uso de las facultades que me confiere la ley n&#xFA;mero 4,945 de 6 de Febrero del presente a&#xF1;o:</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; El texto definitivo del decreto-ley n&#xFA;mero 675 de 17 de Octubre de 1925 sobre navegaci&#xF3;n a&#xE9;rea con las adiciones y modificaciones que ahora se introducen ser&#xE1; el siguiente:</div><br></div>",
+          "new": "<div><div class=\"p\"> D.F.L. N&#xB0; 221, MIN. INTERIOR, 1931&nbsp; D E R O G A D O<span class=\"n\" id=\"n_0\">LEY 18916<br>Art. 202</span> Navegaci&#xF3;n A&#xE9;rea</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el Diario Oficial N&#xB0; 15.984, de 30 de<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div> Mayo de 1931)<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 2</a></div></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 221.- Santiago, 15 de Mayo de 1931.- En uso de las facultades que me confiere la Ley n&#xFA;mero 4,945, de 6 de Febrero del presente a&#xF1;o,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; El texto definitivo del Decreto-Ley n&#xFA;mero 675, de 17 de Octubre de 1925, sobre navegaci&#xF3;n a&#xE9;rea con las adiciones y modificaciones que ahora se introducen ser&#xE1; el siguiente:</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 202 de la Ley N&#xB0; 18.916, publicada en el &quot;Diario Oficial&quot; de 8 de febrero de 1990, derog&#xF3; el presente D.F.L. El art&#xED;culo 203, de la misma ley, dispuso que esta derogaci&#xF3;n rige seis meses despu&#xE9;s de su publicaci&#xF3;n.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El texto de este decreto con fuerza de ley derogado se encuentra en una cinta de normas derogadas BDTA. </div></div>"
+        }
+      ]
+    }
+  }
+]

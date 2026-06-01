@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1929-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8829469,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Establece disposiciones generales, relativas a la emisi&#xF3;n de &quot;Debentures&quot;</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Establece disposiciones generales, relativas a<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> la emisi&#xF3;n de &quot;Debentures&quot;</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 65 del DL 1064, Hacienda, publicado el 14.06.1975, derog&#xF3; la presente ley a contar de su fecha de vigencia, esto es, sesenta d&#xED;as despu&#xE9;s de su publicaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

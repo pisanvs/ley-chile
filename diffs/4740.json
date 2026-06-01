@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1931-05-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1931-05-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9089454,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 35. La detenci&#xF3;n de los comerciantes, en los casos calificados en el art&#xED;culo 31, podr&#xE1; durar hasta diez d&#xED;as, a contar de la iniciaci&#xF3;n del sumario. Pasado el plazo de veinte d&#xED;as, a contar de la misma fecha, el Juzgado entregar&#xE1; el producido del salvataje a su due&#xF1;o y las Compa&#xF1;&#xED;as aseguradoras podr&#xE1;n pagar los seguros comprometidos, a menos que se haya declarado reo al siniestrado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 35. La detenci&#xF3;n de los comerciantes, en los casos calificados en el art&#xED;culo 31, podr&#xE1; durar hasta diez d&#xED;as, a contar de la iniciaci&#xF3;n del sumario. Pasado el plazo de veinte d&#xED;as, a contar de la misma fecha, el Juzgado entregar&#xE1; el producido del salvataje a su due&#xF1;o y las Compa&#xF1;&#xED;as aseguradoras podr&#xE1;n pagar los seguros comprometidos, a menos que se haya declarado reo al siniestrado.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

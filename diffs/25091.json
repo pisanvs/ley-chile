@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1934-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1934-11-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9042342,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2.o El Juzgado a que se refiere el art&#xED;culo anterior, ser&#xE1; servido por el siguiente personal con los sueldos anuales que se indican:</div><div class=\"p\">&nbsp; Un juez de letras de Menor Cuant&#xED;a______ $&nbsp; 12,600</div><div class=\"p\">&nbsp; Un secretario___________________________&nbsp; &nbsp;  7,200</div><div class=\"p\">&nbsp; Un oficial de Sala______________________&nbsp; &nbsp;  2,800</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2.o El Juzgado a que se refiere el art&#xED;culo anterior, ser&#xE1; servido por el siguiente personal con los sueldos anuales que se indican:</div><div class=\"p\"> Un juez de letras de Menor Cuant&#xED;a _ _&nbsp; $ 12,600</div><div class=\"p\"> Un secretario _ _ _ _ _ _ _ _ _ _ _ _ _&nbsp; &nbsp;  7,200</div><div class=\"p\"> Un oficial de Sala_ _ _ _ _ _ _ _ _ _ _&nbsp; &nbsp;  2,800</div><br></div>"
+        },
+        {
+          "part_id": 9042344,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4.o Esta ley regir&#xE1; desde el 1.o de Enero de 1934.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4.o Esta la ley regir&#xE1; desde el 1.o de enero de 1934.</div><br></div>"
+        },
+        {
+          "part_id": 9042345,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto, he tenido a bien aprobarlo y sancionarlo; por tanto, prom&#xFA;lguese y ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, a treinta de Diciembre de mil novecientos treinta y tres.- ARTURO ALESSANDRI.- Domingo Duran. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto, he tenido a bien aprobarlo y sancionarlo; por tanto, prom&#xFA;lguese y ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, treinta de diciembre de mil novecientos treinta y tres.- ARTURO ALESSANDRI.- Domingo Dur&#xE1;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

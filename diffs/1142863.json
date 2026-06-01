@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1925-05-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1927-02-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10107752,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 94. Por exijirlo el interes nacional, los establecimientos de la primera categor&#xED;a, que actualmente existan, y los que en adelante existieran, cerrar&#xE1;n sus puertas, es decir, se clausurar&#xE1;n, desde las cinco de la tarde de los dias s&#xE1;bados, hasta las ocho de la ma&#xF1;ana de los dias l&#xFA;nes de todo el a&#xF1;o. Igual clausura ser&#xE1; obligatoria durante los dias festivos y feriados.</div><div class=\"p\">&nbsp; &nbsp;  Tampoco podr&#xE1;n abrirse, ni funcionar cantinas ni establecimientos en que se espendan bebidas alcoh&#xF3;licos en las poblaciones modelos para obreros, construidas por los Consejos de Habitaciones, por instituciones de beneficencia o de otra naturaleza, y que hayan sido previamente declaradas &quot;hiji&#xE9;nicas&quot; y &quot;econ&#xF3;micas&quot; por los respectivos Consejos, ni a una distancia menor de doscientos metros de las mismas poblaciones.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art. 94. DEROGA<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1179758&amp;idParte=10383994&amp;idVersion=1927-02-11\">Ley 4117<br>Art. 4<br>D.O. 11.02.1927</a></span>DO</div><br><br></div>"
+        },
+        {
+          "part_id": 10107753,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 95. Por exijirlo el interes nacional, en los establecimientos de segunda categor&#xED;a no podr&#xE1; venderse ni consumirse, bebida alcoh&#xF3;lica alguna, desde las cinco de la tarde de los dias s&#xE1;bados hasta las ocho de la ma&#xF1;ana de los dias l&#xFA;nes, y durante los dias festivos y feriados, fuera de las horas de almuerzo y de comida.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 95. DEROGAD<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1179758&amp;idParte=10383994&amp;idVersion=1927-02-11\">Ley 4117<br>Art. 4<br>D.O. 11.02.1927</a></span>O</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1179758,
+      "fecha": "1927-02-11"
+    }
+  }
+]

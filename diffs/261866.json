@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1925-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-08-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7345365,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 8.o Se prohibe a los empleados del Archivo proporcionar dato alguno relativo a los documentos existentes, salvo los indicados en la letra b) del art&#xED;culo 5.o. Los que contravinieren a esta disposici&#xF3;n incurrir&#xE1;n en las penas que se&#xF1;alan los art&#xED;culos 242 a 246 del C&#xF3;digo Penal.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=276363&amp;idParte=8535497&amp;idVersion=2008-08-20\">LEY 20285<br>Art. UNDECIMO<br>D.O. 20.08.2008</a></span>Art&#xED;culo.- Derogado</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 276363,
+      "fecha": "2008-08-20"
+    }
+  }
+]

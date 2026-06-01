@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1928-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1966-04-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7168602,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Arancel Aduanero Ley n&#xFA;mero 4,321 Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Arancel Aduanero<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Ley n&#xFA;mero 4,321 Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 185 de la LEY 16464, publicada el 25.04.1966, dispuso la derogaci&#xF3;n de la presente norma a contar de la fecha de entrada en vigencia del nuevo Arancel Aduanero, que la misma disposici&#xF3;n faculta dictar al Presidente de la Rep&#xFA;blica. El referido nuevo arancel fue aprobado por el DTO 10, Hacienda, publicado el 04.01.1967.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

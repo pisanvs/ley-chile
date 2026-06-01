@@ -1,0 +1,76 @@
+[
+  {
+    "fecha": "1931-10-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1967-01-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8701268,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 1.o Toda mercader&#xED;a no comprendida o no expresamente enunciada por el Arancel Aduanero podr&#xE1; ser asimilada por analog&#xED;a a una partida de &#xE9;l, a propuesta del Superintendente, por la Junta General de Aduanas, tomando en cuenta su materia, uso, propiedades u otras caracter&#xED;sticas que determinen su semejanza con alguna de las mercader&#xED;as expresamente enunciadas en dicha partida.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 1.o&nbsp; DEROGADO<span class=\"n\" id=\"n_0\">DFL 15, HACIENDA<br>Art. 2<br>D.O. 05.01.1967</span></div><br><br><br></div>"
+        },
+        {
+          "part_id": 8701270,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 2.o En caso de que los valores, calidades o grado de elaboraci&#xF3;n de las mercader&#xED;as, guarden diferencia apreciable con los de aquellas a las cuales podr&#xED;an asimilarse, la Junta General, al efectuar la asimilaci&#xF3;n, podr&#xE1; intercalar en el Arancel subpartidas que comprendan las mercader&#xED;as asimiladas y fijarles el derecho que estime corresponderles.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 2.o&nbsp; DEROGADO<span class=\"n\" id=\"n_1\">DFL 15, HACIENDA<br>Art. 2<br>D.O. 05.01.1967</span></div><br><br><br></div>"
+        },
+        {
+          "part_id": 8701271,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 3.o Toda propuesta de asimilaci&#xF3;n, ya sea originada por el propio Superintendente, de oficio, o cuando lo estimare necesario para fallar en juicios de reclamo o en dict&#xE1;menes, o por los funcionarios a que se refiere el art&#xED;culo 5.o, deber&#xE1; hacerse por escrito, acompa&#xF1;arse de una muestra de la factura comercial o certificado de valor y de los dem&#xE1;s antecedentes que se hayan tenido para formularla.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 3.o&nbsp; DEROGADO<span class=\"n\" id=\"n_2\">DFL 15, HACIENDA<br>Art. 2<br>D.O. 05.01.1967</span></div><br><br><br></div>"
+        },
+        {
+          "part_id": 8701272,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 4.o Cuando, por la &#xED;ndole de la mercader&#xED;a, no sea posible tomar muestras o acompa&#xF1;ar muestras, &#xE9;stas podr&#xE1;n substituirse por fotograf&#xED;as o por dise&#xF1;os, aparte de los folletos, cat&#xE1;logos, explicaciones y descripciones de su materia, empleo y dem&#xE1;s datos que den completa idea de ella.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 4.o&nbsp; DEROGADO<span class=\"n\" id=\"n_3\">DFL 15, HACIENDA<br>Art. 2<br>D.O. 05.01.1967</span></div><br><br><br></div>"
+        },
+        {
+          "part_id": 8701273,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 5.o Los administradores, antes de elevar a la Superintendencia los proyectos de asimilaciones que los Vistas o ellos originen, los notificar&#xE1;n a los interesados a fin de que dejen constancia de su conformidad o formulen las objeciones que les merezcan, procediendo en estos casos como si se tratara de un reclamo de aforo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 5.o&nbsp; DEROGADO<span class=\"n\" id=\"n_4\">DFL 15, HACIENDA<br>Art. 2<br>D.O. 05.01.1967</span></div><br><br><br></div>"
+        },
+        {
+          "part_id": 8701274,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 6.o Toda propuesta de asimilaciones ser&#xE1; comunicada al Ministerio de Hacienda, enviada en consulta al Ministerio de Fomento y puesta en conocimiento del p&#xFA;blico en un diario, a lo menos; de Santiago y Valpara&#xED;so.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 6.o&nbsp; DEROGADO<span class=\"n\" id=\"n_5\">DFL 15, HACIENDA<br>Art. 2<br>D.O. 05.01.1967</span></div><br><br><br></div>"
+        },
+        {
+          "part_id": 8701275,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 7.o Toda asimilaci&#xF3;n ser&#xE1; de car&#xE1;cter general, y contendr&#xE1;, adem&#xE1;s de las consideraciones que hayan servido de fundamento para acordarla, los datos necesarios para individualizar la mercader&#xED;a que debe figurar en ella s&#xF3;lo a v&#xED;a de ejemplo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 7.o&nbsp; DEROGADO<span class=\"n\" id=\"n_6\">DFL 15, HACIENDA<br>Art. 2<br>D.O. 05.01.1967</span></div><br><br><br></div>"
+        },
+        {
+          "part_id": 8701276,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 8.o En ning&#xFA;n caso podr&#xE1; mediar menos de seis d&#xED;as entre la sesi&#xF3;n en que la Junta acuerde una asimilaci&#xF3;n y aquella en que le ha sido propuesta. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 8.o&nbsp; DEROGADO<span class=\"n\" id=\"n_7\">DFL 15, HACIENDA<br>Art. 2<br>D.O. 05.01.1967</span></div><br><br><br></div>"
+        },
+        {
+          "part_id": 8701277,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 9.o Las asimilaciones regir&#xE1;n desde la fecha de la resoluci&#xF3;n en que el Superintendente las promulgue, salvo que la Junta disponga otra cosa.</div><div class=\"p\">&nbsp; &nbsp;  No obstante, si los derechos que establecen, importan un aumento con relaci&#xF3;n a los fijados por el Superintendente en fallos sobre reclamaciones de aforo, las asimilaciones no podr&#xE1;n tener efecto sino treinta d&#xED;as despu&#xE9;s de dicha fecha.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, estas ultimas asimilaciones no se aplicar&#xE1;n a las mercader&#xED;as llegadas al pa&#xED;s con posterioridad a su vigencia, siempre que se pidan &#xE9;stas a despacho dentro de los quince d&#xED;as de su llegada y se acredite haberlas embarcado directamente consignadas a Chile con anterioridad a la fecha en que se ha aprobado la asimilaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 9.o&nbsp; DEROGADO<span class=\"n\" id=\"n_8\">DFL 15, HACIENDA<br>Art. 2<br>D.O. 05.01.1967</span></div><br><br><br></div>"
+        },
+        {
+          "part_id": 8701278,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 10. El Superintendente de Aduanas, cada tres meses, comunicar&#xE1; al Ministerio de Hacienda las asimilaciones acordadas en el trimestre anterior y que est&#xE9;n vigentes a la fecha de dicha comunicaci&#xF3;n, a fin de que se decrete su incorporaci&#xF3;n en la edici&#xF3;n del Arancel en conformidad a su art&#xED;culo 11.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 10.&nbsp; DEROGADO<span class=\"n\" id=\"n_9\">DFL 15, HACIENDA<br>Art. 2<br>D.O. 05.01.1967</span></div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2009-06-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

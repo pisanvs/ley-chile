@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1928-09-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1929-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9369423,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 11. Habr&#xE1; dos clases de pavimentaci&#xF3;n: pavimentaci&#xF3;n definitiva, que es la que se ejecuta sobre base de concreto, y pavimentaci&#xF3;n provisional, que es la que se ejecuta sin base de concreto.</div><div class=\"p\">&nbsp; &nbsp;  Las cuentas por pavimentaci&#xF3;n definitiva se cancelar&#xE1;n al contado o en diez anualidades iguales, con un inter&#xE9;s de diez por ciento (10%) anual, y una amortizaci&#xF3;n acumulativa tal, que la deuda se extinga en diez a&#xF1;os. Las cuentas por pavimentaci&#xF3;n provisional, se pagar&#xE1;n al contado.</div><div class=\"p\">&nbsp; &nbsp;  Los pagos de las cuentas se har&#xE1;n en las fechas que determine el Reglamento que, para el efecto, dicte la Junta de Alcaldes de Magallanes.</div><div class=\"p\">&nbsp; &nbsp;  En caso de mora, los propietarios abonar&#xE1;n el inter&#xE9;s penal de uno por ciento (1%) mensual.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=24826&amp;idParte=8277590&amp;idVersion=1929-11-13\">LEY 4679<br>Art. 1<br>D.O. 13.11.1929</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art. 11. Habr&#xE1; dos clases de pavimentaci&#xF3;n: pavimentaci&#xF3;n definitiva, que es la que se ejecuta sobre base de concreto, y pavimentaci&#xF3;n provisional, que es la que se ejecuta sin base de concreto.</div><div class=\"p\">&nbsp; &nbsp; Las cuentas por pavimentaci&#xF3;n definitiva se cancelar&#xE1;n al contado, o en 10 anualidades iguales, con inter&#xE9;s de 8 por ciento anual y una amortizaci&#xF3;n acumulativa tal, que la deuda se extinga en este plazo.</div><div class=\"p\">&nbsp; &nbsp; Las cuentas por pavimentaci&#xF3;n provisional se cancelar&#xE1;n al contado, o en 5 anualidades iguales, con inter&#xE9;s de 8 por ciento anual, y una amortizaci&#xF3;n acumulativa tal, que la deuda se extinga en este plazo.</div><div class=\"p\">&nbsp; &nbsp; Los pagos de las cuentas se har&#xE1;n en la forma que determine el reglamento, que para el efecto dicte el Presidente de la Rep&#xFA;blica a propuesta de la Junta de Alcaldes de Magallanes.</div><div class=\"p\">&nbsp; &nbsp; En caso de mora los propietarios abonar&#xE1;n el inter&#xE9;s penal de 1 por ciento mensual.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 24826,
+      "fecha": "1929-11-13"
+    }
+  }
+]

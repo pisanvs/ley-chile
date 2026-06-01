@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1930-08-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1932-02-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9054311,
+          "old": "<div><div class=\"p\">DECRETO NUM. 1,322</div><br><div class=\"p\">MODIFICA EL ESTATUTO ORG&#xC1;NICO DEL SERVICIO DIPLOM&#xC1;TICO </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 22 de Agosto de 1930.</div><br><div class=\"p\">&nbsp; &nbsp;  En uso de las facultades extraordinarias que me confiere la ley N.o 4,795, de 24 de Enero de 1930, </div><br><div class=\"p\">&nbsp; &nbsp;  DECRETO:</div><br><div class=\"p\">&nbsp; &nbsp;  Se modifica el Decreto N.o 1,494, de 27 de Diciembre de 1927, sobre el Estatuto org&#xE1;nico del servicio diplom&#xE1;tico, en la siguiente forma: </div></div>",
+          "new": "<div><br><div class=\"p\">DECRETO NUM. 1,322<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"p\">MODIFICA EL ESTATUTO ORG&#xC1;NICO DEL SERVICIO DIPLOM&#xC1;TICO </div><div class=\"p\">&nbsp; &nbsp; &nbsp; Santiago, 22 de Agosto de 1930.</div><br><div class=\"p\">&nbsp; &nbsp;  En uso de las facultades extraordinarias que me confiere la ley N.o 4,795, de 24 de Enero de 1930, </div><div class=\"p\">&nbsp; &nbsp; &nbsp;  DECRETO:</div><br><div class=\"p\">&nbsp; &nbsp;  Se modifica el Decreto N.o 1,494, de 27 de Diciembre de 1927, sobre el Estatuto org&#xE1;nico del servicio diplom&#xE1;tico, en la siguiente forma: </div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 23 de la LEY 5051, publicada el 17.02.1932, deroga la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

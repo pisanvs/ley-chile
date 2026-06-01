@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1931-05-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1937-02-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5864601,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 143.- Santiago, 5 de Mayo de 1931.- Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; 1.o Que es un deber fundamental del Estado, tomar todas las medidas que las circunstancias aconsejen, a fin de propender al bien com&#xFA;n y asegurar el &#xE9;xito de las disposiciones de orden administrativo y econ&#xF3;mico que dicte;</div><div class=\"p\">&nbsp; &nbsp; 2.o Que en tales condiciones, es necesario impedir y sancionar todas aquellas actividades destinadas a producir desconfianza o intranquilidad o a lesionar el valor fiduciario de la moneda u otros valores y efectos p&#xFA;blicos; y</div><div class=\"p\">&nbsp; &nbsp; Vistas las facultades que me confiere la ley N.o 4,945, de 6 de Febrero de 1931,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 143.- Santiago, 5 de Mayo de 1931.- Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; 1.o Que es un deber fundamental del Estado, tomar todas las medidas que las circunstancias aconsejen, a fin de propender al bien com&#xFA;n y asegurar el &#xE9;xito de las disposiciones de orden administrativo y econ&#xF3;mico que dicte;</div><div class=\"p\">&nbsp; &nbsp; 2.o Que en tales condiciones, es necesario impedir y sancionar todas aquellas actividades destinadas a producir desconfianza o intranquilidad o a lesionar el valor fiduciario de la moneda u otros valores y efectos p&#xFA;blicos; y</div><div class=\"p\">&nbsp; &nbsp; Vistas las facultades que me confiere la ley N.o 4,945, de 6 de Febrero de 1931,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

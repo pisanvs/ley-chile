@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1932-07-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1932-07-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7123342,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Ampl&#xED;a plazo establecido art&#xED;culo 130 decreto con fuerza ley N&#xB0; 251</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 139.- Santiago, Julio 5 de 1932.</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0; Que es un deber del Estado cautelar los intereses p&#xFA;blicos o fiscales que puedan estar comprometidos en empresas o sociedades de cualquier naturaleza;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0; Que las leyes chilenas en vigor no contemplan esa tuici&#xF3;n que las legislaciones modernas consideran en todos sus aspectos;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0; Que mientras se dicta una ley completa sobre la materia conviene por lo menos considerar la situaci&#xF3;n de esas empresas o sociedades en caso de disoluci&#xF3;n o liquidaci&#xF3;n,</div><div class=\"p\">&nbsp; &nbsp; La Honorable Junta de Gobierno ha acordado y dicta el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto-ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Ampl&#xED;a plazo establecido art&#xED;culo 130 decreto con<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> fuerza ley N&#xB0; 251</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 139.- Santiago, Julio 5 de 1932.</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0; Que es un deber del Estado cautelar los intereses p&#xFA;blicos o fiscales que puedan estar comprometidos en empresas o sociedades de cualquier naturaleza;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0; Que las leyes chilenas en vigor no contemplan esa tuici&#xF3;n que las legislaciones modernas consideran en todos sus aspectos;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0; Que mientras se dicta una ley completa sobre la materia conviene por lo menos considerar la situaci&#xF3;n de esas empresas o sociedades en caso de disoluci&#xF3;n o liquidaci&#xF3;n,</div><div class=\"p\">&nbsp; &nbsp; La Honorable Junta de Gobierno ha acordado y dicta el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto-ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico del DL 272, Hacienda, publicado el 25.07.1932, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

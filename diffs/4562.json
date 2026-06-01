@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1931-04-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1931-04-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7116781,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4.o Los que tomaren letras de cr&#xE9;dito sobre hipotecas, se comprometer&#xE1;n a pagar a la Caja, por la cantidad a que dichas letras ascendieran, anualidades por el n&#xFA;mero de a&#xF1;os que se fijen en el contrato, que comprender&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp; 1.o El inter&#xE9;s que no podr&#xE1; exceder de la tasa que fije el Presidente de la Rep&#xFA;blica peri&#xF3;dicamente seg&#xFA;n las circunstancias del mercado, con anticipaci&#xF3;n de tres meses;</div><div class=\"p\">&nbsp; &nbsp; 2.o La amortizaci&#xF3;n que puede estipularse libremente;</div><div class=\"p\">&nbsp; &nbsp; 3.o La comisi&#xF3;n, que no podr&#xE1; exceder de un medio por ciento, destinada a gastos de administraci&#xF3;n y fondos de reserva. Pagada la anualidad convenida por todo el tiempo del contrato, el deudor hipotecario queda libre de toda obligaci&#xF3;n respecto de la Caja.</div><div class=\"p\">&nbsp; &nbsp; Las anualidades se pagar&#xE1;n anticipadamente por semestres y en moneda corriente nacional o extranjera, conforme a los respectivos contratos.</div><div class=\"p\">&nbsp; &nbsp; La anualidad que no se pagare en la &#xE9;poca determinada por la Caja ganar&#xE1; el inter&#xE9;s penal del doce por ciento anual.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4.o Los que tomaren letras de cr&#xE9;dito sobre hipotecas, se comprometer&#xE1;n a pagar a la Caja, por la cantidad a que dichas letras ascendieran, anualidades por el n&#xFA;mero de a&#xF1;os que se fijen en el contrato, que comprender&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp; 1.o El inter&#xE9;s que no podr&#xE1; exceder de la tasa que fije el Presidente de la Rep&#xFA;blica peri&#xF3;dicamente seg&#xFA;n las circunstancias del mercado, con anticipaci&#xF3;n de tres meses;</div><div class=\"p\">&nbsp; &nbsp; 2.o La amortizaci&#xF3;n que puede estipularse libremente;</div><div class=\"p\">&nbsp; &nbsp; 3.o La comisi&#xF3;n, que no podr&#xE1; exceder de un medio por ciento, destinada a gastos de administraci&#xF3;n y fondos de reserva. Pagada la anualidad convenida por todo el tiempo del contrato, el deudor hipotecario queda libre de toda obligaci&#xF3;n respecto de la Caja.</div><div class=\"p\">&nbsp; &nbsp; Las anualidades se pagar&#xE1;n anticipadamente por semestres y en moneda corriente nacional o extranjera, conforme a los respectivos contratos.</div><div class=\"p\">&nbsp; &nbsp; La anualidad que no se pagare en la &#xE9;poca determinada por la Caja ganar&#xE1; un inter&#xE9;s penal superior en una mitad al t&#xE9;rmino medio del inter&#xE9;s corriente bancario, fijado por la Superintendencia de Bancos en conformidad a lo dispuesto en el art&#xED;culo 1.o de la ley N.o 4,594, de 22 de Noviembre de 1929; pero en ning&#xFA;n caso el inter&#xE9;s penal podr&#xE1; ser inferior al doce por ciento ni exceder del dieciocho por ciento anual.</div><div class=\"p\">&nbsp; &nbsp; Si de la aplicaci&#xF3;n de la regla anterior resultare como tasa del inter&#xE9;s penal una cifra con fracci&#xF3;n decimal que no sea de medio por ciento, se ajustar&#xE1; al medio o entero m&#xE1;s pr&#xF3;ximo.</div><div class=\"p\">&nbsp; &nbsp; La tasa de inter&#xE9;s penal establecida de acuerdo con lo dispuesto en los incisos que anteceden, regir&#xE1;n para todos los intereses penales que devenguen durante el semestre respectivo las medias anualidades pendientes.</div><div class=\"p\">&nbsp; &nbsp; Los semestres a que se refiere el inciso precedente se computar&#xE1;n desde el 15 de Enero y desde el 15 de Julio de cada a&#xF1;o.</div><br></div>"
+        },
+        {
+          "part_id": 7116825,
+          "old": "<div><div class=\"p\">\tArt&#xED;culo 1.o La disposici&#xF3;n del inciso final del art&#xED;culo 4.o, se aplicar&#xE1; tambi&#xE9;n a los contratos vigentes en cuanto a los intereses penales que se devenguen desde la fecha de la promulgaci&#xF3;n de la presente ley.</div><div class=\"p\">&nbsp; &nbsp; Los intereses penales devengados con anterioridad a la misma fecha podr&#xE1;n ser liquidados a la tasa del 12 por ciento anual siempre que los respectivos deudores pongan al d&#xED;a sus obligaciones dentro del plazo de tres meses a contar desde la fecha de la promulgaci&#xF3;n de esta ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1.o Las disposiciones de los cuatro &#xFA;ltimos incisos del Art. 4.o, se aplicar&#xE1;n tambi&#xE9;n a los contratos vigentes, en cuanto a los intereses penales que se devenguen desde el 15 de Julio del presente a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; Los intereses penales devengados o que se devenguen antes del 15 de Julio pr&#xF3;ximo podr&#xE1;n ser liquidados a la tasa del doce por ciento anual, siempre que los respectivos deudores paguen los dividendos atrasados antes de la fecha indicada La disposici&#xF3;n del inciso final del art&#xED;culo 4.o, se aplicar&#xE1; tambi&#xE9;n a los contratos vigentes en cuanto a los intereses penales que se devenguen desde la fecha de la promulgaci&#xF3;n de la presente ley.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1960-04-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7116777,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 94.- Santiago, 11 de Abril de 1931.- En uso de las facultades que me confiere la ley n&#xFA;mero 4,945, de 6 de Febrero del presente a&#xF1;o,</div><div class=\"p\">&nbsp; &nbsp; Decreto.</div><div class=\"p\">&nbsp; &nbsp; El texto definitivo de la ley de 29 de Agosto de 1855, que cre&#xF3; la Caja de Cr&#xE9;dito Hipotecario con las adiciones y modificaciones del decreto-ley n&#xFA;mero 743, de 5 de Diciembre de 1925 y con las que ahora se introducen, ser&#xE1; el siguiente:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 94.- Santiago, 11 de Abril de 1931.- En uso de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> las facultades que me confiere la ley n&#xFA;mero 4,945, de 6 de Febrero del presente a&#xF1;o,</div><div class=\"p\">&nbsp; &nbsp; Decreto.</div><div class=\"p\">&nbsp; &nbsp; El texto definitivo de la ley de 29 de Agosto de 1855, que cre&#xF3; la Caja de Cr&#xE9;dito Hipotecario con las adiciones y modificaciones del decreto-ley n&#xFA;mero 743, de 5 de Diciembre de 1925 y con las que ahora se introducen, ser&#xE1; el siguiente:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo final del DFL 252, Hacienda, publicado el 04.04.1960 derog&#xF3; el presente decreto con fuerza de ley.&nbsp; A su vez, la letra n) del art&#xED;culo 1&#xBA; del DL 2099, publicado el 13.01.1978, deroga el T&#xED;tulo XIII del DFL 252 que comprend&#xED;a el art&#xED;culo final del DFL 252, de 1960.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

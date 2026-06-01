@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1930-07-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-03-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9054481,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1,811.- Santiago, 17 de Julio de 1930.- Considerando que es necesario refundir en un solo organismo los actuales servicios carcelarios y los que tienen a su cargo la Direcci&#xF3;n General de Talleres Fiscales de Prisiones, a fin de obtener un mayor control y unidad en estos servicios; y</div><div class=\"p\">&nbsp; &nbsp;  En uso de la facultad que me confiere la ley n&#xFA;mero 4,795, de 24 de Enero pasado, y el art&#xED;culo 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1,811.- Santiago, 17 de Julio de 1930.-<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Considerando que es necesario refundir en un solo organismo los actuales servicios carcelarios y los que tienen a su cargo la Direcci&#xF3;n General de Talleres Fiscales de Prisiones, a fin de obtener un mayor control y unidad en estos servicios; y</div><div class=\"p\">&nbsp; &nbsp;  En uso de la facultad que me confiere la ley n&#xFA;mero 4,795, de 24 de Enero pasado, y el art&#xED;culo 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 13 del DFL 189, Justicia, publicado el 29.03.1960, derog&#xF3; la presente norma. </div></div>"
+        }
+      ]
+    }
+  }
+]

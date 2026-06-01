@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "1932-08-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-08-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6280080,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Toda persona que haya sufrido cualquier clase de condena y reuna las condiciones que se&#xF1;ala esta ley, tendr&#xE1; derecho despu&#xE9;s de dos a&#xF1;os de haber cumplido su pena, si es primera condena, y de cinco a&#xF1;os, si ha sido condenado dos o m&#xE1;s veces, a que por decreto supremo, de car&#xE1;cter confidencial, se le considere como si nunca hubiere delinquido para todos los efectos legales y administrativos y se le indulten todas las penas accesorias a que estuviere condenado.</div><div class=\"p\">&nbsp; &nbsp;  El decreto que concede este beneficio se considerar&#xE1; como una recomendaci&#xF3;n del S. Gobierno al Senado para los efectos de la rehabilitaci&#xF3;n a que se refiere el n&#xFA;mero 2.o del art&#xED;culo 9.o de la Constituci&#xF3;n Pol&#xED;tica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Toda persona que haya sufrido cualquier clase de condena y reuna las condiciones que se&#xF1;ala esta ley, tendr&#xE1; derecho despu&#xE9;s de dos a&#xF1;os de haber cumplido su pena, si es primera condena, y de cinco a&#xF1;os, si ha sido condenado dos o m&#xE1;s veces, a que por decreto supremo, de car&#xE1;cter confidencial, se le considere como si nunca hubiere delinquido para todos los efectos legales y administrativos y se le indulten todas las penas accesorias a que estuviere condenado.</div><div class=\"p\">&nbsp; &nbsp;  Cuando la <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053666&amp;idParte=9370503&amp;idVersion=2013-08-20\">Ley 20685<br>Art. 2<br>D.O. 20.08.2013</a></span>persona hubiere sido condenada a la pena temporal del art&#xED;culo 39 bis, de conformidad con el art&#xED;culo 372, ambos del C&#xF3;digo Penal, el derecho a que se refiere el inciso anterior s&#xF3;lo se podr&#xE1; ejercer transcurridos diez a&#xF1;os desde el cumplimiento de la pena, sin importar el n&#xFA;mero de condenas que dicha persona tuviere.</div><div class=\"p\">&nbsp; &nbsp;  El decreto que concede este beneficio se considerar&#xE1; como una recomendaci&#xF3;n del S. Gobierno al Senado para los efectos de la rehabilitaci&#xF3;n a que se refiere el n&#xFA;mero 2.o del art&#xED;culo 9.o de la Constituci&#xF3;n Pol&#xED;tica.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-02-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6280080,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Toda persona que haya sufrido cualquier clase de condena y reuna las condiciones que se&#xF1;ala esta ley, tendr&#xE1; derecho despu&#xE9;s de dos a&#xF1;os de haber cumplido su pena, si es primera condena, y de cinco a&#xF1;os, si ha sido condenado dos o m&#xE1;s veces, a que por decreto supremo, de car&#xE1;cter confidencial, se le considere como si nunca hubiere delinquido para todos los efectos legales y administrativos y se le indulten todas las penas accesorias a que estuviere condenado.</div><div class=\"p\">&nbsp; &nbsp;  Cuando la <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053666&amp;idParte=9370503&amp;idVersion=2013-08-20\">Ley 20685<br>Art. 2<br>D.O. 20.08.2013</a></span>persona hubiere sido condenada a la pena temporal del art&#xED;culo 39 bis, de conformidad con el art&#xED;culo 372, ambos del C&#xF3;digo Penal, el derecho a que se refiere el inciso anterior s&#xF3;lo se podr&#xE1; ejercer transcurridos diez a&#xF1;os desde el cumplimiento de la pena, sin importar el n&#xFA;mero de condenas que dicha persona tuviere.</div><div class=\"p\">&nbsp; &nbsp;  El decreto que concede este beneficio se considerar&#xE1; como una recomendaci&#xF3;n del S. Gobierno al Senado para los efectos de la rehabilitaci&#xF3;n a que se refiere el n&#xFA;mero 2.o del art&#xED;culo 9.o de la Constituci&#xF3;n Pol&#xED;tica.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Toda persona que haya sufrido cualquier clase de condena y reuna las condiciones que se&#xF1;ala esta ley, tendr&#xE1; derecho despu&#xE9;s de dos a&#xF1;os de haber cumplido su pena, si es primera condena, y de cinco a&#xF1;os, si ha sido condenado dos o m&#xE1;s veces, a que por decreto supremo, de car&#xE1;cter confidencial, se le considere como si nunca hubiere delinquido para todos los efectos legales y administrativos y se le indulten todas las penas accesorias a que estuviere condenado.</div><div class=\"p\">&nbsp; &nbsp;  No<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1172371&amp;idParte=10307974&amp;idVersion=2022-02-05\">Ley 21418<br>Art. 3<br>D.O. 05.02.2022</a></span> obstar&#xE1; al efecto se&#xF1;alado en el inciso anterior que el condenado se encontrare cumpliendo la pena de inhabilitaci&#xF3;n perpetua prevista en el inciso segundo del art&#xED;culo 372 del C&#xF3;digo Penal, o la pena de inhabilitaci&#xF3;n perpetua prevista en el art&#xED;culo 403 qu&#xE1;ter del C&#xF3;digo Penal. En tales casos la eliminaci&#xF3;n de los antecedentes a que diere lugar la concesi&#xF3;n del beneficio se&#xF1;alado en el inciso anterior nunca implicar&#xE1; la eliminaci&#xF3;n de las inscripciones de las respectivas penas de inhabilitaci&#xF3;n perpetua, las que permanecer&#xE1;n anotadas en la Secci&#xF3;n de Inhabilitaciones Perpetuas del Registro Seccional de Inhabilitaciones.</div><div class=\"p\">&nbsp; &nbsp;  El decreto que concede este beneficio se considerar&#xE1; como una recomendaci&#xF3;n del S. Gobierno al Senado para los efectos de la rehabilitaci&#xF3;n a que se refiere el n&#xFA;mero 2.o del art&#xED;culo 9.o de la Constituci&#xF3;n Pol&#xED;tica.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1172371,
+      "fecha": "2022-02-05"
+    }
+  }
+]

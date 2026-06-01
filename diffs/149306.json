@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1929-02-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1930-02-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002648,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 5.o Las Municipalidades que cuenten dentro de su territorio con una ciudad de m&#xE1;s de veinte mil habitantes, someter&#xE1;n al Ejecutivo, dentro del plazo de seis meses, un anteproyecto de transformaci&#xF3;n de esas ciudades. Sobre la base de este anteproyecto, el Presidente de la Rep&#xFA;blica ordenar&#xE1; confeccionar un proyecto definitivo, el cual, una vez aprobado, servir&#xE1; para dar las l&#xED;neas de edificaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El Presidente de la Rep&#xFA;blica podr&#xE1; incluir tambi&#xE9;n en lo dispuesto por el inciso anterior, ciudades de menos de veinte mil habitantes; en cuyo caso las Municipalidades respectivas deber&#xE1;n presentar el anteproyecto dentro del mismo plazo de seis meses, contado desde la fecha del decreto supremo que lo ordene.</div><div class=\"p\">&nbsp; &nbsp;  Los terrenos que, en conformidad a las l&#xED;neas de edificaci&#xF3;n, queden desocupados al frente o al costado de los edificios en la parte colindante con las v&#xED;as p&#xFA;blicas, continuar&#xE1;n bajo el dominio de sus due&#xF1;os, mientras se procede a su adquisici&#xF3;n por la autoridad correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  No se podr&#xE1; efectuar nuevas construcciones ni obras de reparaci&#xF3;n o consolidaci&#xF3;n de las existentes, en los terrenos necesarios para el ensanche de las calles, que consultan los planos aprobados por el Presidente de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 5.o Las Municipalidades que cuenten dentro de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> su territorio con una ciudad de m&#xE1;s de veinte mil habitantes, someter&#xE1;n al Ejecutivo, dentro del plazo de seis meses, un anteproyecto de transformaci&#xF3;n de esas ciudades. Sobre la base de este anteproyecto, el Presidente de la Rep&#xFA;blica ordenar&#xE1; confeccionar un proyecto definitivo, el cual, una vez aprobado, servir&#xE1; para dar las l&#xED;neas de edificaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El Presidente de la Rep&#xFA;blica podr&#xE1; incluir tambi&#xE9;n en lo dispuesto por el inciso anterior, ciudades de menos de veinte mil habitantes; en cuyo caso las Municipalidades respectivas deber&#xE1;n presentar el anteproyecto dentro del mismo plazo de seis meses, contado desde la fecha del decreto supremo que lo ordene.</div><div class=\"p\">&nbsp; &nbsp;  Los terrenos que, en conformidad a las l&#xED;neas de edificaci&#xF3;n, queden desocupados al frente o al costado de los edificios en la parte colindante con las v&#xED;as p&#xFA;blicas, continuar&#xE1;n bajo el dominio de sus due&#xF1;os, mientras se procede a su adquisici&#xF3;n por la autoridad correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  No se podr&#xE1; efectuar nuevas construcciones ni obras de reparaci&#xF3;n o consolidaci&#xF3;n de las existentes, en los terrenos necesarios para el ensanche de las calles, que consultan los planos aprobados por el Presidente de la Rep&#xFA;blica.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo 1&#xBA; de la LEY 4841, publicada el 25.02.1930, prorroga por el t&#xE9;rmino de un a&#xF1;o el plazo se&#xF1;alado en la presente norma, para que los municipios sometan al Ejecutivo el anteproyecto de transformaci&#xF3;n de las ciudades a que se hace referencia en esta norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

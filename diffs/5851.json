@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1932-07-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-03-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8255879,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Autoriza director general Carabineros para dictar resoluciones con fuerza decreto ministerial</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 191.- Santiago, 13 de Julio de 1932.- Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; Que es conveniente descongestionar el despacho de resoluci&#xF3;n del Ministerio del Interior, exoner&#xE1;ndolo del conocimiento de todos aquellos asuntos de simple tr&#xE1;mite que se relacionan con Carabineros de Chile,</div><div class=\"p\">&nbsp; &nbsp; Que, por otra parte, es conveniente, tambi&#xE9;n, que el director general de Carabineros cuente con las atribuciones legales suficientes para que pueda adoptar resoluciones r&#xE1;pidas en aquellas necesidades del servicio que as&#xED; lo requiera,</div><div class=\"p\">&nbsp; &nbsp; he acordado y dicto el siguiente Decreto-ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">AUTORIZA DIRECTOR GENERAL CARABINEROS PARA DICTAR<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> RESOLUCIONES CON FUERZA DECRETO MINISTERIAL</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 191.- Santiago, 13 de Julio de 1932.- Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; Que es conveniente descongestionar el despacho de resoluci&#xF3;n del Ministerio del Interior, exoner&#xE1;ndolo del conocimiento de todos aquellos asuntos de simple tr&#xE1;mite que se relacionan con Carabineros de Chile,</div><div class=\"p\">&nbsp; &nbsp; Que, por otra parte, es conveniente, tambi&#xE9;n, que el director general de Carabineros cuente con las atribuciones legales suficientes para que pueda adoptar resoluciones r&#xE1;pidas en aquellas necesidades del servicio que as&#xED; lo requiera, he acordado y dicto el siguiente Decreto-ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 30 del DFL 213, Hacienda, publicado el 30.03.1960, derog&#xF3; el presente decreto ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

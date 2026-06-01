@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1928-12-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-07-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6210909,
+          "old": "<div><div class=\"p\">Ley n&#xFA;mero 4,472</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  PROYECTO DE LEY:</div><br></div>",
+          "new": "<div><div class=\"p\">Ley n&#xFA;mero 4,472</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  PROYECTO DE LEY:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1928-02-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1929-01-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7168626,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Ley sobre impuesto de Timbres, Estampillas y Papel Sellado</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">Ley sobre impuesto de Timbres, Estampillas<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> y Papel Sellado</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 118, Hacienda, publicado el 11.01.1929, fijo el texto refundido de la presente ley y la 4460, manteniendo la numeraci&#xF3;n de esta &#xFA;ltima.<br></div></div>"
+        }
+      ]
+    }
+  }
+]
