@@ -1,4 +1,6 @@
-name: Bulk Fetch Laws (DEPRECATED)
+# ARCHIVED 2026-06-01 — superseded by pipeline.yml.
+# Delete this file once pipeline.yml is confirmed stable.
+name: "[ARCHIVED] Bulk Fetch Laws"
 
 # DEPRECATED 2026-05-31.  The bulk_fetch.py pipeline wrote per-norma commits
 # directly to historial in parallel with the newer fetch-and-build pipeline,

@@ -468,9 +468,21 @@ async def run(
     progress = _load_progress(progress_path)
 
     done_set: set[int] = set(base_progress.get("done", [])) | set(progress.get("done", []))
-    failed_map: dict[str, int] = {**base_progress.get("failed", {}), **progress.get("failed", {})}
+    # Only HTTP-500/4xx "dead norma" failures are permanent — those normas don't
+    # exist in LeyChile's database and will never have data.  Transient failures
+    # (IP blocks, timeouts, overloads) are NOT accumulated across runs; they only
+    # gate retries within a single run via run_failed below.
+    permanently_dead: set[str] = set(
+        id_str
+        for id_str, reason in {
+            **base_progress.get("dead", {}),
+            **progress.get("dead", {}),
+        }.items()
+        if reason in ("http_500", "http_4xx")
+    )
 
-    # Build work queue
+    # Build work queue: skip done, skip diffs-already-on-disk, skip permanently dead.
+    # Transient failures from prior runs are NOT skipped — they are retried.
     work = []
     for id_str, node in candidates:
         id_norma = int(id_str)
@@ -481,7 +493,7 @@ async def run(
         if (diffs_cache_dir / f"{id_str}.json").exists():
             done_set.add(id_norma)
             continue
-        if failed_map.get(id_str, 0) >= max_transient_failures:
+        if id_str in permanently_dead:
             continue
         work.append((id_norma, node))
 
@@ -515,9 +527,11 @@ async def run(
     loop = asyncio.get_running_loop()
     executor = ThreadPoolExecutor(max_workers=10)
 
-    # Track only this run's done/failed entries for the shard progress file.
+    # Per-run tracking only — NOT persisted across runs (transient failures never
+    # become permanent skips).  Only run_dead is persisted across runs.
     run_done: set[int] = set()
-    run_failed: dict[str, int] = {}
+    run_failed: dict[str, int] = {}   # transient failure count this run
+    run_dead: dict[str, str] = {}     # permanently dead: {id_str: reason}
 
     with Progress("fetch_versions", total=len(work), unit="normas") as bar:
 
@@ -547,37 +561,48 @@ async def run(
                 # requests with sparse headers — addressed by the beefed-up
                 # HEADERS in this module.  Any residual occurrences should be
                 # retried with backoff, not permanently skipped.
-                is_permanent = (
-                    status_code == 500
-                    or (status_code is not None and 400 <= status_code < 500)
-                )
                 err_str = str(err)
+                is_dead_500 = status_code == 500
+                is_dead_4xx = status_code is not None and 400 <= status_code < 500
+                is_rate_limit = status_code in (429, 503)
                 is_waf_block = "non-JSON body" in err_str and status_code == 200
-                is_overload = status_code in (502, 503, 429) or "timed out" in err_str or "Read timed out" in err_str or "Response ended prematurely" in err_str
-                if status_code in (429, 503):
+                is_overload = (
+                    status_code == 502
+                    or "timed out" in err_str
+                    or "Read timed out" in err_str
+                    or "Response ended prematurely" in err_str
+                )
+
+                if is_dead_500:
+                    # HTTP 500 = LeyChile "no se encuentra en nuestra Base de Datos".
+                    # This norma doesn't exist — permanently dead, never retry.
+                    run_dead[str(id_norma)] = "http_500"
+                    logger.debug(f"Dead (500) {id_norma} — will not retry")
+                elif is_dead_4xx:
+                    # 4xx client error — dead norma, bad idNorma in our graph.
+                    run_dead[str(id_norma)] = "http_4xx"
+                    logger.debug(f"Dead (4xx) {id_norma} — will not retry")
+                elif is_rate_limit:
+                    # Server-side rate limit — signal the limiter and count as
+                    # transient (will be retried next run).
                     await limiter.on_rate_limit()
                     logger.warning(f"Rate limited on {id_norma}: {err}")
                     run_failed[str(id_norma)] = run_failed.get(str(id_norma), 0) + 1
-                elif is_permanent:
-                    # Mark permanent so subsequent runs skip these dead ids;
-                    # don't punish the limiter — these aren't load signals.
-                    run_failed[str(id_norma)] = max_transient_failures
-                elif is_overload:
-                    # Server-side overload (502, timeout): reduce concurrency.
-                    failure_count = failed_map.get(str(id_norma), 0) + run_failed.get(str(id_norma), 0)
-                    await limiter.on_error(failure_count)
-                    logger.warning(f"Error processing {id_norma}: {err}")
-                    run_failed[str(id_norma)] = run_failed.get(str(id_norma), 0) + 1
                 elif is_waf_block:
-                    # IP-level WAF block (HTTP 200 with HTML body): concurrency is
-                    # irrelevant since the block is per-IP, not per-request rate.
-                    # Just record the failure and move on without touching the limiter.
-                    logger.warning(f"Error processing {id_norma}: {err}")
+                    # IP-level WAF block — not a per-norma data quality issue.
+                    # Don't touch concurrency (block is IP-wide, not load-driven).
+                    # Will be retried next run (potentially from a different IP).
+                    logger.warning(f"WAF block on {id_norma} — will retry next run")
+                    run_failed[str(id_norma)] = run_failed.get(str(id_norma), 0) + 1
+                elif is_overload:
+                    # Server overload — back off concurrency, transient.
+                    await limiter.on_error(run_failed.get(str(id_norma), 0))
+                    logger.warning(f"Overload on {id_norma}: {err}")
                     run_failed[str(id_norma)] = run_failed.get(str(id_norma), 0) + 1
                 else:
-                    failure_count = failed_map.get(str(id_norma), 0) + run_failed.get(str(id_norma), 0)
-                    await limiter.on_error(failure_count)
-                    logger.warning(f"Error processing {id_norma}: {err}")
+                    # Unknown transient error — back off, will retry.
+                    await limiter.on_error(run_failed.get(str(id_norma), 0))
+                    logger.warning(f"Error on {id_norma}: {err}")
                     run_failed[str(id_norma)] = run_failed.get(str(id_norma), 0) + 1
             else:
                 await limiter.on_success()
@@ -594,19 +619,28 @@ async def run(
 
             if completions_since_save >= PROGRESS_SAVE_EVERY:
                 completions_since_save = 0
-                _save_progress(progress_path, {"done": list(run_done), "failed": run_failed})
+                _save_progress(progress_path, {
+                    "done": list(run_done),
+                    "failed": run_failed,   # transient: NOT used to skip next run
+                    "dead": run_dead,       # permanent: HTTP 500/4xx dead normas
+                })
 
         tasks = [asyncio.create_task(process(id_norma, node)) for id_norma, node in work]
 
         try:
             await asyncio.gather(*tasks)
         finally:
-            _save_progress(progress_path, {"done": list(run_done), "failed": run_failed})
+            _save_progress(progress_path, {
+                "done": list(run_done),
+                "failed": run_failed,
+                "dead": run_dead,
+            })
             executor.shutdown(wait=True)
 
     logger.info(
         f"Done. total_done={len(done_set)} "
-        f"failed={len([v for v in run_failed.values() if v >= max_transient_failures])}"
+        f"transient_failures_this_run={len(run_failed)} "
+        f"permanently_dead={len(run_dead)}"
     )
 
 

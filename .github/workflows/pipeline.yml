@@ -1,0 +1,491 @@
+name: Pipeline
+
+# Single workflow replacing the previous four:
+#   - fetch-and-build.yml   (superseded — archived)
+#   - update-graph.yml      (superseded — archived)
+#   - sync.yml              (superseded — archived)
+#   - bulk-fetch.yml        (superseded — archived)
+#
+# All phases are invoked via  python scripts/leychile.py <command>  so
+# local runs, Docker runs, and CI runs are identical.
+#
+# ┌──────────────────────────────────────────────────────────────────────┐
+# │  PHASE 1 — fetch-graph (conditional, runs on main runner)           │
+# │  Refresh BCN SPARQL catalog + LeyChile norma metadata.              │
+# │  Runs only when the graph is stale (>7 days) OR forced by input.    │
+# │  Output: graph_shards/ + catalog.json pushed to pipeline-cache.     │
+# ├──────────────────────────────────────────────────────────────────────┤
+# │  PHASE 2 — fetch-versions (8 parallel runners, separate IPs)        │
+# │  Each runner fetches its id_norma % 8 == k slice.                   │
+# │  Different IPs → different GitHub Actions IP ranges → avoids the    │
+# │  CloudFront rate-limit that hits a single runner after ~5k reqs.    │
+# │  Output: per-shard branch pipeline-cache-shard-k.                   │
+# ├──────────────────────────────────────────────────────────────────────┤
+# │  PHASE 3 — consolidate-and-build (single runner, always() gate)     │
+# │  Merge shard branches → pipeline-cache.                             │
+# │  Rebuild historial deterministically from diffs cache.              │
+# │  Push historial (chunked) with force-with-lease.                    │
+# │  Update README pipeline status bar.                                 │
+# └──────────────────────────────────────────────────────────────────────┘
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"    # every 3 hours
+  workflow_dispatch:
+    inputs:
+      phase:
+        description: "Phase to run"
+        type: choice
+        options: [all, fetch-graph, fetch-versions, consolidate-build]
+        default: all
+      version_budget:
+        description: "Max version-fetches per shard"
+        type: number
+        default: 600000
+      shard_count:
+        description: "Number of fetch-versions shards (1 = no sharding)"
+        type: number
+        default: 8
+      force_fetch_graph:
+        description: "Force graph refresh even if fresh"
+        type: boolean
+        default: false
+      dry_run:
+        description: "Compute watermark but do not push historial or README"
+        type: boolean
+        default: false
+      notify_url:
+        description: "ntfy.sh webhook URL for completion notification"
+        default: ""
+
+concurrency:
+  group: historial-write
+  cancel-in-progress: false
+
+# ---------------------------------------------------------------------------
+# Reusable worktree bootstrap (expressed as env so all jobs share it)
+# ---------------------------------------------------------------------------
+env:
+  PYTHON_VERSION: "3.12"
+  GIT_USER_NAME: "ley-chile-bot"
+  GIT_USER_EMAIL: "bot@ley-chile"
+
+# ── Phase 1: fetch-graph (optional) ─────────────────────────────────────────
+
+jobs:
+  fetch-graph:
+    name: "Fetch graph (catalog + normas)"
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'schedule' ||
+      github.event.inputs.phase == 'all' ||
+      github.event.inputs.phase == 'fetch-graph' ||
+      github.event.inputs.force_fetch_graph == 'true'
+    permissions:
+      contents: write
+    outputs:
+      ran: ${{ steps.run.outputs.ran }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure git
+        run: |
+          git config user.name "${{ env.GIT_USER_NAME }}"
+          git config user.email "${{ env.GIT_USER_EMAIL }}"
+
+      - name: Set up pipeline-cache worktree
+        run: |
+          CODE=$(git rev-parse --abbrev-ref HEAD)
+          if git fetch origin pipeline-cache 2>/dev/null; then
+            git branch -f pipeline-cache origin/pipeline-cache
+            git worktree add cache pipeline-cache
+          else
+            git checkout --orphan pipeline-cache && git rm -rf . --quiet
+            git commit --allow-empty -m "init: pipeline-cache"
+            git push origin pipeline-cache
+            git checkout "$CODE"
+            git worktree add cache pipeline-cache
+          fi
+
+      - name: Restore graph state from pipeline-cache
+        run: |
+          cp ./cache/catalog.json . 2>/dev/null || true
+          if [ -d ./cache/graph_shards ]; then
+            rm -rf ./graph_shards && cp -r ./cache/graph_shards .
+          else
+            cp ./cache/graph.json . 2>/dev/null || true
+          fi
+          cp ./cache/fetch_normas_progress.json . 2>/dev/null || true
+
+      - name: Check if graph is stale
+        id: stale
+        run: |
+          FORCE=${{ github.event.inputs.force_fetch_graph || 'false' }}
+          if [ "$FORCE" = "true" ]; then
+            echo "stale=true" >> $GITHUB_OUTPUT; exit 0
+          fi
+          python - <<'EOF' >> $GITHUB_OUTPUT
+          import json, time
+          from pathlib import Path
+          cat = Path("catalog.json")
+          if not cat.exists():
+              print("stale=true"); exit()
+          age = (time.time() - cat.stat().st_mtime) / 86400
+          raw = json.loads(cat.read_text())
+          complete = raw.get("complete", False) if isinstance(raw, dict) else True
+          print(f"stale={'true' if age > 7 or not complete else 'false'}")
+          EOF
+
+      - name: Run fetch-graph
+        id: run
+        if: steps.stale.outputs.stale == 'true'
+        run: |
+          python scripts/leychile.py fetch-graph --data-root .
+          echo "ran=true" >> $GITHUB_OUTPUT
+
+      - name: Save state to pipeline-cache
+        if: steps.run.outputs.ran == 'true'
+        run: |
+          cp catalog.json ./cache/catalog.json 2>/dev/null || true
+          if [ -d ./graph_shards ]; then
+            rm -rf ./cache/graph_shards && cp -r ./graph_shards ./cache/
+            rm -f ./cache/graph.json
+          fi
+          cp fetch_normas_progress.json ./cache/ 2>/dev/null || true
+          git -C cache add -A
+          git -C cache diff --cached --quiet && echo "No graph changes" || (
+            git -C cache commit -m "cache: graph update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for i in 1 2 3; do git push origin pipeline-cache && break || sleep $((i*3)); done
+          )
+
+      - name: Publish graph_shards to main when complete
+        if: steps.run.outputs.ran == 'true'
+        run: |
+          python - <<'PYEOF'
+          import json, sys
+          sys.path.insert(0, "scripts")
+          from utils import load_graph, graph_exists
+          from pathlib import Path
+          import os
+          g = load_graph("graph.json") if graph_exists("graph.json") else {}
+          cat = json.loads(Path("catalog.json").read_text())
+          entries = cat if isinstance(cat, list) else cat.get("entries", [])
+          complete = cat.get("complete", False) if isinstance(cat, dict) else True
+          done, total = len(g), len(entries)
+          if complete and total and done >= total * 0.95:
+              Path(".graph_ready").write_text("1")
+              print(f"Graph ready ({done}/{total}) — publishing to main")
+          else:
+              print(f"Graph not ready ({done}/{total}) — skipping")
+          PYEOF
+          if [ -f .graph_ready ]; then
+            git rm -q --cached --ignore-unmatch graph.json
+            rm -f graph.json
+            git add graph_shards catalog.json
+            git diff --cached --quiet || (
+              git commit -m "chore: update graph_shards and catalog.json"
+              git push origin "${{ github.ref_name }}"
+            )
+          fi
+
+# ── Phase 2: fetch-versions (8 parallel shards) ──────────────────────────────
+
+  fetch-shard:
+    name: "Fetch shard ${{ matrix.shard }}/${{ github.event.inputs.shard_count || 8 }}"
+    needs: fetch-graph
+    if: |
+      always() &&
+      (github.event.inputs.phase == 'all' || github.event.inputs.phase == 'fetch-versions' || github.event.inputs.phase == '') &&
+      github.event.inputs.phase != 'fetch-graph' &&
+      github.event.inputs.phase != 'consolidate-build'
+    strategy:
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+      fail-fast: false
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure git
+        run: |
+          git config user.name "${{ env.GIT_USER_NAME }}"
+          git config user.email "${{ env.GIT_USER_EMAIL }}"
+
+      - name: Set up pipeline-cache worktree (shard branch)
+        run: |
+          git fetch origin pipeline-cache
+          git branch -f pipeline-cache origin/pipeline-cache
+          git worktree add cache pipeline-cache
+          # Each shard uses its own branch so parallel pushes don't conflict.
+          git -C cache checkout -b "pipeline-cache-shard-${{ matrix.shard }}"
+
+      - name: Fetch versions (shard ${{ matrix.shard }})
+        run: |
+          python scripts/leychile.py fetch-versions \
+            --data-root . \
+            --cache-dir ./cache \
+            --shard "${{ matrix.shard }}/${{ github.event.inputs.shard_count || 8 }}" \
+            --budget "${{ github.event.inputs.version_budget || 2500 }}" \
+            --max-transient-failures 8
+
+      - name: Commit and push shard branch
+        run: |
+          git -C cache add -A
+          if git -C cache diff --cached --quiet; then
+            echo "shard ${{ matrix.shard }}: no new data"
+          else
+            git -C cache commit -m \
+              "shard-${{ matrix.shard }}: fetch $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          fi
+          git push --force origin \
+            "pipeline-cache-shard-${{ matrix.shard }}:refs/heads/pipeline-cache-shard-${{ matrix.shard }}"
+
+# ── Phase 3: consolidate + build ─────────────────────────────────────────────
+
+  consolidate-and-build:
+    name: "Consolidate and build historial"
+    needs: [fetch-graph, fetch-shard]
+    if: |
+      always() &&
+      github.event.inputs.phase != 'fetch-graph' &&
+      github.event.inputs.phase != 'fetch-versions'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure git
+        run: |
+          git config user.name "${{ env.GIT_USER_NAME }}"
+          git config user.email "${{ env.GIT_USER_EMAIL }}"
+          git config http.postBuffer 524288000   # 500 MB for large historial push
+
+      # ── pipeline-cache worktree ─────────────────────────────────────────
+      - name: Set up pipeline-cache worktree
+        run: |
+          CODE=$(git rev-parse --abbrev-ref HEAD)
+          if git fetch origin pipeline-cache 2>/dev/null; then
+            git branch -f pipeline-cache origin/pipeline-cache
+            git worktree add cache pipeline-cache
+          else
+            git checkout --orphan pipeline-cache && git rm -rf . --quiet
+            git commit --allow-empty -m "init: pipeline-cache"
+            git push origin pipeline-cache
+            git checkout "$CODE"
+            git worktree add cache pipeline-cache
+          fi
+
+      # ── historial worktree ──────────────────────────────────────────────
+      - name: Set up historial worktree
+        run: |
+          CODE=$(git rev-parse --abbrev-ref HEAD)
+          if git fetch origin historial 2>/dev/null; then
+            git branch -f historial origin/historial
+            git worktree add historial historial
+          else
+            git checkout --orphan historial && git rm -rf . --quiet
+            git commit --allow-empty -m "init: historial"
+            git push origin historial
+            git checkout "$CODE"
+            git worktree add historial historial
+          fi
+
+      # ── Merge shard branches ────────────────────────────────────────────
+      - name: Apply shard data to pipeline-cache
+        run: |
+          N=${{ github.event.inputs.shard_count || 8 }}
+          APPLIED=0
+          for k in $(seq 0 $((N - 1))); do
+            if git fetch origin "pipeline-cache-shard-$k" 2>/dev/null; then
+              NEW=$(git -C cache diff HEAD..origin/pipeline-cache-shard-$k --name-only)
+              if [ -n "$NEW" ]; then
+                echo "$NEW" | xargs git -C cache checkout "origin/pipeline-cache-shard-$k" --
+                echo "  shard $k: applied $(echo "$NEW" | wc -l) file(s)"
+                APPLIED=$((APPLIED + 1))
+              fi
+              git push origin --delete "pipeline-cache-shard-$k" || true
+            else
+              echo "  shard $k: not found (may have failed)"
+            fi
+          done
+          echo "Shards applied: $APPLIED"
+
+      - name: Merge shard progress files
+        run: |
+          python - <<'EOF'
+          import json
+          from pathlib import Path
+          cache = Path("cache")
+          main_file = cache / "fetch_versions_progress.json"
+          main = json.loads(main_file.read_text()) if main_file.exists() else {"done": [], "failed": {}, "dead": {}}
+          done = set(main.get("done", []))
+          # "failed" is transient — do NOT merge across runs (normas are always retried).
+          # "dead" is permanent (HTTP 500/4xx) — merge and persist.
+          dead = dict(main.get("dead", {}))
+          for f in sorted(cache.glob("fetch_versions_progress-shard-*.json")):
+              shard = json.loads(f.read_text())
+              done.update(shard.get("done", []))
+              dead.update(shard.get("dead", {}))
+              f.unlink()
+          main_file.write_text(json.dumps({"done": sorted(done), "failed": {}, "dead": dead}))
+          print(f"Merged: {len(done)} done, {len(dead)} permanently dead")
+          EOF
+
+      - name: Commit merged pipeline-cache
+        run: |
+          git -C cache add -A
+          git -C cache diff --cached --quiet && echo "No new cache data" || (
+            git -C cache commit -m "cache: merge shards $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for i in 1 2 3 4; do
+              git push origin pipeline-cache && break || sleep $((i * 3))
+            done
+          )
+
+      # ── Completeness check ──────────────────────────────────────────────
+      # We do NOT build historial from a partial cache. Every norma that has
+      # vigencias in the graph MUST have a complete diffs file before we build.
+      # If cache_complete=false, the run succeeds (it just fetches more next
+      # time) — but historial is not rebuilt, so the old historial stays intact.
+      - name: Check cache completeness
+        id: watermark
+        run: |
+          python scripts/leychile.py status \
+            --data-root . \
+            --cache-dir ./cache \
+            --historial-dir ./historial > /tmp/pipeline_stats.json
+          python - <<'EOF'
+          import json, os
+          stats = json.load(open("/tmp/pipeline_stats.json"))
+          out = os.environ.get("GITHUB_OUTPUT", "")
+          lines = [
+            f"watermark_advanced={'true' if stats['watermark_advanced'] else 'false'}",
+            f"cache_complete={'true' if stats['cache_complete'] else 'false'}",
+            f"W={stats['W']}",
+            f"D={stats['D']}",
+            f"cached={stats['cached']}",
+            f"total={stats['total']}",
+            f"missing={stats['missing']}",
+          ]
+          for l in lines:
+              print(l)
+          if out:
+              open(out, "a").write("\n".join(lines) + "\n")
+          if not stats["cache_complete"]:
+              missing = stats["missing"]
+              sample = stats.get("missing_ids_sample", [])[:10]
+              print(f"::warning::Cache incomplete: {missing} normas missing diffs. "
+                    f"Historial will NOT be rebuilt until all normas are cached. "
+                    f"Sample missing IDs: {sample}")
+          else:
+              print(f"Cache complete: all {stats['total']} normas have diffs. Building historial.")
+          EOF
+
+      # ── Build historial ─────────────────────────────────────────────────
+      # Gate: BOTH cache_complete AND watermark_advanced must be true.
+      # cache_complete=false means we don't yet have all norma diffs — building
+      # now would produce an incomplete historial. Wait for the next run.
+      - name: Rebuild historial from cache
+        if: |
+          steps.watermark.outputs.cache_complete == 'true' &&
+          steps.watermark.outputs.watermark_advanced == 'true' &&
+          github.event.inputs.dry_run != 'true'
+        run: |
+          python scripts/leychile.py build \
+            --data-root . \
+            --cache-dir ./cache \
+            --rebuild \
+            --enrichers tramitacion
+
+      - name: Push historial (chunked, force-with-lease)
+        if: |
+          steps.watermark.outputs.cache_complete == 'true' &&
+          steps.watermark.outputs.watermark_advanced == 'true' &&
+          github.event.inputs.dry_run != 'true'
+        run: |
+          set -euo pipefail
+          CHUNK_SIZE=500
+          mapfile -t COMMITS < <(git log --reverse --format="%H" historial)
+          TOTAL=${#COMMITS[@]}
+          echo "historial: $TOTAL commits, pushing in chunks of $CHUNK_SIZE"
+          for ((i = CHUNK_SIZE - 1; i < TOTAL - 1; i += CHUNK_SIZE)); do
+            sha="${COMMITS[$i]}"
+            echo "  chunk: 1..$((i+1)) / $TOTAL"
+            git push --force origin "$sha:refs/heads/historial"
+          done
+          PUSHED=0
+          for attempt in 1 2 3 4; do
+            if git push --force-with-lease origin historial; then
+              PUSHED=1; break
+            fi
+            echo "Attempt $attempt failed; retrying in $((attempt * 3))s..."
+            git fetch origin historial || true
+            sleep $((attempt * 3))
+          done
+          [ $PUSHED -eq 1 ] || { echo "ERROR: historial push failed"; exit 1; }
+
+      # ── Update README ───────────────────────────────────────────────────
+      - name: Update README pipeline status
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          python scripts/update_readme_status.py \
+            --readme README.md \
+            --graph-path ./graph.json \
+            --cache-dir ./cache \
+            --historial-dir ./historial
+
+      - name: Commit README
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git add README.md
+          git diff --cached --quiet && echo "README unchanged" || (
+            git commit -m "chore: update pipeline status [skip ci]"
+            for i in 1 2 3; do
+              git push origin "${{ github.ref_name }}" && break
+              git fetch origin "${{ github.ref_name }}"
+              git rebase "origin/${{ github.ref_name }}" || git rebase --abort
+              sleep $((i * 3))
+            done
+          )
+
+      # ── Notification ────────────────────────────────────────────────────
+      - name: Notify completion
+        if: github.event.inputs.notify_url != ''
+        run: |
+          curl -sf -X POST "${{ github.event.inputs.notify_url }}" \
+            -H "Content-Type: application/json" \
+            -d "{\"title\":\"ley-chile pipeline done\",
+                 \"message\":\"cached=${{ steps.watermark.outputs.cached }}/${{ steps.watermark.outputs.total }} D=${{ steps.watermark.outputs.D }}\"}" \
+            || true
