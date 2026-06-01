@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1931-05-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-11-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9054003,
+          "old": "<div><div class=\"p\">Decreto con fuerza de Ley N.o 256</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 256.- Santiago, 20 de Mayo de 1931.- Teniendo presente:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o Que la crisis mundial que se ha reflejado tambi&#xE9;n en nuestras actividades industriales, dejando un regular n&#xFA;mero de desocupados, ha puesto una vez m&#xE1;s en relieve la conveniencia de aumentar en lo posible el n&#xFA;mero de individuos de nuestras clases agricultoras, porque &#xE9;stas son siempre las que menos sufren con las crisis, pues, por lo menos, obtienen de la tierra los elementos suficientes e inmediatos para su sostenimiento;</div><div class=\"p\">&nbsp; &nbsp;  2.o La importancia de formar el mayor n&#xFA;mero de propietarios chilenos, contribuyendo as&#xED; a la estabilidad y solidez de nuestra nacionalidad;</div><div class=\"p\">&nbsp; &nbsp;  3.o Que hay manifiesta ventaja en interesar a un mayor n&#xFA;mero de nuestros conciudadanos en las labores de la industria agr&#xED;cola y sus derivados, fuente permanente de riqueza;</div><div class=\"p\">&nbsp; &nbsp;  4.o Que una reglamentaci&#xF3;n adecuada que tienda a entregar definitivamente la propiedad de las tierras s&#xF3;lo a los elementos que ya hayan demostrado su capacidad para producir y esp&#xED;ritu de trabajo suficiente para perseverar en las labores agrarias, puede lograr los fines perseguidos, as&#xED; como el de conservar y aumentar nuestra poblaci&#xF3;n por las mejores condiciones de vida que ofrece el campo;</div><div class=\"p\">&nbsp; &nbsp;  5.o Que hay, asimismo, conveniencia de favorecer la inmigraci&#xF3;n extranjeras seleccionada que constituya un aumento de poblaci&#xF3;n &#xFA;til y de esfuerzo que pueda sumarse a nuestra masa popular, mejorando sus h&#xE1;bitos; y 6.o Las facultades que me otorga la ley n&#xFA;mero 4,945, de 6 de Febrero de 1931.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">DECRETO CON FUERZA DE LEY N.O 256<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 256.- Santiago, 20 de Mayo de 1931.- Teniendo presente:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o Que la crisis mundial que se ha reflejado tambi&#xE9;n en nuestras actividades industriales, dejando un regular n&#xFA;mero de desocupados, ha puesto una vez m&#xE1;s en relieve la conveniencia de aumentar en lo posible el n&#xFA;mero de individuos de nuestras clases agricultoras, porque &#xE9;stas son siempre las que menos sufren con las crisis, pues, por lo menos, obtienen de la tierra los elementos suficientes e inmediatos para su sostenimiento;</div><div class=\"p\">&nbsp; &nbsp;  2.o La importancia de formar el mayor n&#xFA;mero de propietarios chilenos, contribuyendo as&#xED; a la estabilidad y solidez de nuestra nacionalidad;</div><div class=\"p\">&nbsp; &nbsp;  3.o Que hay manifiesta ventaja en interesar a un mayor n&#xFA;mero de nuestros conciudadanos en las labores de la industria agr&#xED;cola y sus derivados, fuente permanente de riqueza;</div><div class=\"p\">&nbsp; &nbsp;  4.o Que una reglamentaci&#xF3;n adecuada que tienda a entregar definitivamente la propiedad de las tierras s&#xF3;lo a los elementos que ya hayan demostrado su capacidad para producir y esp&#xED;ritu de trabajo suficiente para perseverar en las labores agrarias, puede lograr los fines perseguidos, as&#xED; como el de conservar y aumentar nuestra poblaci&#xF3;n por las mejores condiciones de vida que ofrece el campo;</div><div class=\"p\">&nbsp; &nbsp;  5.o Que hay, asimismo, conveniencia de favorecer la inmigraci&#xF3;n extranjeras seleccionada que constituya un aumento de poblaci&#xF3;n &#xFA;til y de esfuerzo que pueda sumarse a nuestra masa popular, mejorando sus h&#xE1;bitos; y</div><div class=\"p\">&nbsp; &nbsp;  6.o Las facultades que me otorga la ley n&#xFA;mero 4,945, de 6 de Febrero de 1931.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 608, Tierras y Colonizaci&#xF3;n, publicado el 16.11.1978, declara derogada la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

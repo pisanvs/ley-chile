@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1942-10-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8747766,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA EL TEXTO DEFINITIVO DEL DECRETO N.o 720, DE</div><div class=\"p\">1941, QUE FIJO EL TEXTO REFUNDIDO DE LAS LEYES N.os</div><div class=\"p\">6,020 y 6,074, Y EL DE LA LEY N.o 7,280, SOBRE EMPLEADOS</div><div class=\"p\">PARTICULARES</div><div class=\"p\">&nbsp; &nbsp; Santiago, 30 de Septiembre de 1942.- Vista la facultad que me confiere el art&#xED;culo 7.o transitorio de la ley N.o 7,280, de 14 del presente,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; El texto definitivo del decreto N.o 720, de 14 de Noviembre de 1941, que fij&#xF3; el texto refundido de las leyes N.os 6,020 y 7,064, y el de la ley N.o 7,280, ser&#xE1; el siguiente:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  APRUEBA EL TEXTO DEFINITIVO DEL DECRETO N.o 720, DE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> 1941, QUE FIJO EL TEXTO REFUNDIDO DE LAS LEYES N.os 6,020 y 6,074, Y EL DE LA LEY N.o 7,280, SOBRE EMPLEADOS PARTICULARES</div><div class=\"p\">&nbsp; &nbsp;  Santiago, 30 de Septiembre de 1942.- Vista la facultad que me confiere el art&#xED;culo 7.o transitorio de la ley N.o 7,280, de 14 del presente,</div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><div class=\"p\">&nbsp; &nbsp;  El texto definitivo del decreto N.o 720, de 14 de Noviembre de 1941, que fij&#xF3; el texto refundido de las leyes N.os 6,020 y 7,064, y el de la ley N.o 7,280, ser&#xE1; el siguiente:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art. 6&#xBA; de la LEY 18018, publicada el 14.08.1981, derog&#xF3; la presente Ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

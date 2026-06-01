@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1943-07-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1966-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9258242,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 13. Los concesionarios de v&#xED;a f&#xE9;rrea deber&#xE1;n pagar al Fisco por el uso u ocupaci&#xF3;n de terrenos fiscales o bienes nacionales de uso p&#xFA;blico, necesarios para la v&#xED;a y sus dependencias, la renta de arrendamiento que se fijar&#xE1; por decreto expedido por el Ministerio de Obras P&#xFA;blicas y V&#xED;as de Comunicaci&#xF3;n, de acuerdo con las normas que se indican:</div><div class=\"p\">&nbsp; &nbsp;  a) La renta correspondiente a los terrenos fiscales ser&#xE1; fijada previo informe del Ministerio de Tierras y Colonizaci&#xF3;n, y no ser&#xE1; inferior al 6% del aval&#xFA;o de dichos terrenos, practicado por la Direcci&#xF3;n General de Impuestos Internos, m&#xE1;s el 2% sobre dicha renta.</div><div class=\"p\">&nbsp; &nbsp;  El concesionario deber&#xE1; pagar adem&#xE1;s, un derecho de arrendamiento de $ 100 por una sola vez, al otorgarse la respectiva concesi&#xF3;n conforme a la Ley de Timbres y Estampillas;</div><div class=\"p\">&nbsp; &nbsp;  b) La renta correspondiente a los bienes nacionales de uso p&#xFA;blico ser&#xE1; fijada previo informe del Ministerio nombrado en el p&#xE1;rrafo anterior, y no ser&#xE1; inferior al 4% del aval&#xFA;o de los mismos, practicado por la Direcci&#xF3;n General de Impuestos Internos;</div><div class=\"p\">&nbsp; &nbsp;  c) La renta correspondiente a los terrenos fiscales y caminos p&#xFA;blicos, empezar&#xE1; a pagarse despu&#xE9;s de transcurridos los cinco primeros a&#xF1;os desde la fecha inicial de la concesi&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  d) La renta de arrendamiento de las calles, plazas, puentes, playas y dem&#xE1;s lugares de uso p&#xFA;blico, con excepci&#xF3;n de los caminos p&#xFA;blicos empezar&#xE1; a pagarse desde la fecha inicial de la concesi&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  e) Trat&#xE1;ndose de v&#xED;as f&#xE9;rreas ya constru&#xED;das, la renta de arrendamiento por terrenos fiscales o bienes nacionales de uso p&#xFA;blico ocupados por ramales o desv&#xED;os, se pagar&#xE1; en conformidad a las letras a), b), c) y d) precedentes, teni&#xE9;ndose las siguientes normas:</div><div class=\"p\">&nbsp; &nbsp;  a) Desde el 1.&#xB0; de Enero de 1928, fecha en que se declararon caducadas todas las concesiones otorgadas a t&#xED;tulo gratuito, para los desv&#xED;os constru&#xED;dos con anterioridad a esa fecha;</div><div class=\"p\">&nbsp; &nbsp;  b) Desde la fecha de la construcci&#xF3;n de la v&#xED;a en caso de que &#xE9;sta fuere posterior, lo que deber&#xE1; acreditar el interesado; y</div><div class=\"p\">&nbsp; &nbsp;  f) La renta se pagar&#xE1; por anualidades anticipadas en la Tesorer&#xED;a Provincial de Santiago, previa orden del Departamento de Ferrocarriles del Ministerio de Obras P&#xFA;blicas y V&#xED;as de Comunicaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1068589&amp;idParte=9519733&amp;idVersion=1966-01-02\">Decreto 436, TRANSPORTES<br>Art. 13<br>D.O. 02.01.1966</a></span>&nbsp; &nbsp;  Art. 13. Derogado.</div></div>"
+        },
+        {
+          "part_id": 9258243,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 14. Los pagos de derechos, renta de arrendamiento y dem&#xE1;s, que deba hacer el concesionario en favor del Fisco, se har&#xE1;n previa orden del Departamento nombrado en la Tesorer&#xED;a Provincial de Santiago.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1068589&amp;idParte=9519733&amp;idVersion=1966-01-02\">Decreto 436, TRANSPORTES<br>Art. 13<br>D.O. 02.01.1966</a></span>&nbsp; &nbsp;  Art. 14. Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1068589,
+      "fecha": "1966-01-02"
+    }
+  }
+]

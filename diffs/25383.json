@@ -1,0 +1,67 @@
+[
+  {
+    "fecha": "1940-10-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1941-05-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9042618,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1&#xB0; De la solicitud de cobro de honorarios de los peritos a que se refiere el art&#xED;culo 267 del C&#xF3;digo de Procedimiento Penal, se dar&#xE1; traslado al Fisco por el t&#xE9;rmino de 10 d&#xED;as. Dicha solicitud deber&#xE1; ir acompa&#xF1;ada de una copia del respectivo informe pericial.</div><div class=\"p\">&nbsp; &nbsp; En los departamentos en que no haya Abogado-Procurador Fiscal, se notificar&#xE1; al Presidente del Consejo de Defensa Fiscal o al Abogado-Procurador Fiscal de la jurisdicci&#xF3;n correspondiente. En este caso, el plazo indicado en el inciso anterior se aumentar&#xE1; con el de emplazamiento a que se refiere el art&#xED;culo 256 del C&#xF3;digo de Procedimiento Civil.</div><div class=\"p\">&nbsp; &nbsp; Las reglas del inciso anterior se aplicar&#xE1;n a las notificaciones de la resoluci&#xF3;n judicial que regule los honorarios y al plazo para interponer la apelaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; De los juicios de que trata este art&#xED;culo conocer&#xE1;n en segunda instancia las Cortes de Apelaciones de la jurisdicci&#xF3;n respectiva.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; De la solicitud de cobro de honorarios de peritos a que se refiere el art&#xED;culo 267 del C&#xF3;digo de Procedimiento Penal, se dar&#xE1; traslado al Fisco por el t&#xE9;rmino de diez d&#xED;as. Dicha solicitud deber&#xE1; ir acompa&#xF1;ada de una copia del respectivo informe pericial.</div><div class=\"p\">&nbsp; &nbsp; En los departamentos en que no haya Abogado-Procurador Fiscal, se notificar&#xE1; al Presidente del Consejo de Defensa Fiscal o al Abogado-Procurador Fiscal de la jurisdicci&#xF3;n correspondiente. En este caso, el plazo indicado en el inciso anterior se aumentar&#xE1; con el de emplazamiento a que se refiere el art&#xED;culo 256 del C&#xF3;digo de Procedimiento Civil.</div><div class=\"p\">&nbsp; &nbsp; Las reglas del inciso anterior se aplicar&#xE1;n a las notificaciones de la resoluci&#xF3;n judicial que regule los honorarios y al plazo para interponer la apelaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; De los juicios de que trata este art&#xED;culo conocer&#xE1;n en segunda instancia las Cortes de Apelaciones de la jurisdicci&#xF3;n respectiva.</div><br></div>"
+        },
+        {
+          "part_id": 9042619,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; No ser&#xE1; necesario el tr&#xE1;mite de la consulta para las resoluciones que ordenen el pago de honorarios inferiores a mil pesos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2&#xB0; No ser&#xE1; necesario el tr&#xE1;mite de la consulta para las resoluciones que ordenen el pago de honorarios inferiores a mil pesos ($ 1,000).</div><br></div>"
+        },
+        {
+          "part_id": 9042620,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0; Incorp&#xF3;rase a los sueldos del personal del Consejo de Defensa Fiscal el 20% que actualmente percibe como gratificaci&#xF3;n por la defensa ante los Tribunales Superiores de Justicia de los juicios por cobro de contribuciones morosas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 3&#xB0; DEROGADO<span class=\"n\" id=\"n_0\">LEY 6915<br>ART 22</span></div><br></div>"
+        },
+        {
+          "part_id": 9042621,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0; A contar del 1&#xB0; de Enero de 1941, el personal de planta y a contrata del Consejo de Defensa Fiscal gozar&#xE1; de una remuneraci&#xF3;n adicional equivalente al 5% de sus sueldos por cada cinco a&#xF1;os que haya servido en el Consejo. Se computar&#xE1;n, al efecto, los a&#xF1;os servidos hasta la vigencia de esta ley y los que se enteraren en el futuro hasta completar un m&#xE1;ximo del 30% del sueldo.</div><div class=\"p\">&nbsp; &nbsp; Esta remuneraci&#xF3;n adicional se considerar&#xE1;, para todos los efectos legales, como parte integrante del sueldo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 4&#xB0; DEROGADO<span class=\"n\" id=\"n_1\">LEY 6915<br>ART 22</span></div><br></div>"
+        },
+        {
+          "part_id": 9042622,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0; Cr&#xE9;ase el cargo de Abogado-Procurador Fiscal de Punta Arenas (grado 6&#xB0;).</div><div class=\"p\">&nbsp; &nbsp; El Abogado Fiscal de Arica tendr&#xE1; el car&#xE1;cter de Abogado-Procurador Fiscal, y los Jueces de Letras de Mayor Cuant&#xED;a de dicho departamento tendr&#xE1;n tambi&#xE9;n la competencia que se&#xF1;ala el art&#xED;culo 14 de la Ley org&#xE1;nica del Consejo de Defensa Fiscal.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 5&#xB0; Cr!ease el cargo de Abogado-Procurador Fiscal de Punta Arenas (grado 6&#xB0;).</div><div class=\"p\">&nbsp; &nbsp; El Abogado Fiscal de Arica tendr&#xE1; el car&#xE1;cter de Abogado-Procurador Fiscal, y los Jueces de Letras de Mayor Cuant&#xED;a de dicho departamento tendr&#xE1;n tambi&#xE9;n la competencia que se&#xF1;ala el art&#xED;culo 14 de la Ley Org&#xE1;nica del Consejo de Defensa Fiscal.</div><br></div>"
+        },
+        {
+          "part_id": 9042623,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0; La presente ley regir&#xE1; desde su publicaci&#xF3;n en el Diario Oficial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 6&#xB0; La presente ley regir&#xE1; desde su publicaci&#xF3;n en el &quot;Diario Oficial&quot;.</div><br></div>"
+        },
+        {
+          "part_id": 9042624,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culos transitorios {ARTS. 1-3} Art&#xED;culo 1&#xB0; Para los efectos de lo dispuesto en el art&#xED;culo 5&#xB0;, letra a) de la ley N&#xB0; 6,425, de 20 de Octubre de 1939, que modifica el art&#xED;culo 267 del C&#xF3;digo de Procedimiento Penal, se declara que s&#xF3;lo ser&#xE1;n de cargo del Fisco los honorarios correspondientes a los peritajes ordenados con posterioridad al 1&#xB0; de Enero de 1940.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; Para los efectos de lo dispuesto en el art&#xED;culo 5.&#xB0;, letra a) de la ley N.&#xB0; 6,425, de 20 de octubre de 1939 (1), que modifica el art&#xED;culo 267 del C&#xF3;digo de Procedimiento Penal, se declara que s&#xF3;lo ser&#xE1;n de cargo del Fisco los honorarios correspondientes a los peritajes ordenados con posterioridad al 1.&#xB0; de enero de 1940.</div><br></div>"
+        },
+        {
+          "part_id": 9042625,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; Supr&#xED;mese el cargo de Abogado de la Inspecci&#xF3;n de Tierras de Magallanes creado por la ley N&#xB0; 6,152, de 31 de Diciembre de 1937, y sus funciones ser&#xE1;n desempe&#xF1;adas por el Abogado-Procurador Fiscal de Punta Arenas.</div><div class=\"p\">&nbsp; &nbsp; Las personas que actualmente desempe&#xF1;an las funciones de Abogado de la Inspecci&#xF3;n de Tierras de Magallanes y de Abogado Fiscal de Arica, continuar&#xE1;n en el desempe&#xF1;o de sus cargos con las nuevas denominaciones de Abogado-Procurador Fiscal de Punta Arenas y de Abogado-Procurador Fiscal de Arica, respectivamente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2.&#xB0; Supr&#xED;mese el cargo de Abogado de la Inspecci&#xF3;n de Tierras de Magallanes creado por la ley N.&#xB0; 6,152, de 31 de diciembre de 1937, y sus funciones ser&#xE1;n desempe&#xF1;adas por el Abogado-Procurador Fiscal de Punta Arenas.</div><div class=\"p\">&nbsp; &nbsp; Las personas que actualmente desempe&#xF1;an las funciones de Abogado de la Inspecci&#xF3;n de Tierras de Magallanes y de Abogado Fiscal de Arica, continuar&#xE1;n en el desempe&#xF1;o de sus cargos con las nuevas denominaciones de Abogado-Procurador Fiscal de Punta Arenas y de Abogado-Procurador Fiscal de Arica, respectivamente. </div></div>"
+        },
+        {
+          "part_id": 9042626,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0; Mientras las personas que actualmente desempe&#xF1;an los los empleos de Jefe y Abogados del Departamento de Colonizaci&#xF3;n y Propiedad Austral de la Direcci&#xF3;n General de Tierras y Colonizaci&#xF3;n pertenezcan a dicha repartici&#xF3;n, continuar&#xE1;n rigiendo respecto de ellas las disposiciones de los decretos expedidos por el Ministerio de Hacienda N.os 562 y 1,022, de 9 de Febrero y de 16 de Marzo de 1937, respectivamente; y regir&#xE1;, asimismo, para dichos funcionarios, el aumento de sueldo en la propor ci&#xF3;n que indica el art&#xED;culo 3&#xB0; y la disposici&#xF3;n del art&#xED;culo 4&#xB0; de esta ley&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 3.&#xB0; Mientras las personas que actualmente desempe&#xF1;an los empleos de Jefe y Abogados del Departamento de Colonizaci&#xF3;n y Propiedad Austral de la Direcci&#xF3;n General de Tierras y Colonizaci&#xF3;n pertenezcan a dicha repartici&#xF3;n, continuar&#xE1;n rigiendo respecto de ellas las disposiciones de los decretos expedidos por el Ministerio de Hacienda N&#xB0;s 562 y 1,022, de 9 de febrero y de 16 de marzo de 1937, respectivamente; y regir&#xE1;, asimismo, para dichos funcionarios, el aumento de sueldo en la proporci&#xF3;n que indica el art&#xED;culo 3.&#xB0; y la disposici&#xF3;n del art&#xED;culo 4.&#xB0; de esta ley.</div><br></div>"
+        },
+        {
+          "part_id": 9042627,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, prom&#xFA;lguese y ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, diez de Octubre de mil novecientos cuarenta.- PEDRO AGUIRRE CERDA.- L. Ra&#xFA;l Puga M.- Pedro Enrique Alfonso.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto, he tenido a bien aprobarlo y sancionarlo; por tanto, prom&#xFA;lguese y ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, diez de octubre de mil novecientos cuarenta.- P. AGUIRRE CERDA.- Ra&#xFA;l Puga M.- Pedro Enrique Alfonso.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

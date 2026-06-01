@@ -1,0 +1,112 @@
+[
+  {
+    "fecha": "1950-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1955-01-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9005152,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 32. Los empleados martilleros de las<span class=\"n\" id=\"n_3\">DTO 958, TRABAJO<br>N&#xBA;2 d)<br>D.O. 20.01.1955</span> ferias deber&#xE1;n ser autorizados por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo, quien lo calificar&#xE1; previamente por medio del Departamento respectivo.</div><div class=\"p\">&nbsp; &nbsp; Dichos empleados martilleros actuar&#xE1;n bajo la responsabilidad de la feria, y en caso de ser sorprendidos en faltas o abusos, les ser&#xE1; cancelado definitivamente este permiso, sin perjuicio de las sanciones que la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo aplique a la feria.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9005118,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto.- Todo expediente sobre constituci&#xF3;n de una feria regida por la ley 7,094 deber&#xE1; ser informado en definitiva al Ministerio de Hacienda por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo, se&#xF1;alando si a su juicio procede o no otorgar el permiso de funcionamiento.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto.- Todo expediente sobre constituci&#xF3;n de una feria regida por la ley 7,094 deber&#xE1; ser informado en definitiva al Ministerio del Trabajo<span class=\"n\" id=\"n_0\">DTO 958, TRABAJO<br>N&#xBA;2 a)<br>D.O. 20.01.1955</span> por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo, se&#xF1;alando si a su juicio procede o no otorgar el permiso de funcionamiento.</div><br></div>"
+        },
+        {
+          "part_id": 9005126,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11. Las ferias servir&#xE1;n &#xFA;nicamente de intermediarias para las ventas en martillo, y les estar&#xE1; prohibido:</div><div class=\"p\">&nbsp; &nbsp;  a) Vender en p&#xFA;blica subasta animales o productos agr&#xED;colas de su propio dominio;</div><div class=\"p\">&nbsp; &nbsp;  b) Tomar parte en las licitaciones por s&#xED; o por interp&#xF3;sita persona;</div><div class=\"p\">&nbsp; &nbsp;  c) Adquirir uno o m&#xE1;s de los productos de cuya subasta se hallen encargadas, mediante contrato celebrado con la persona que los hubiere licitado, y d) Alterar el juego&nbsp; normal de las posturas y el precio natural de las subastas, mediante maniobras de cualquiera &#xED;ndole o interposici&#xF3;n de personas empleadas o no.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11. Las ferias servir&#xE1;n &#xFA;nicamente de intermediarias para las ventas en martillo, y les estar&#xE1; prohibido a ellas y sus empleados:<span class=\"n\" id=\"n_1\">DTO 958, TRABAJO<br>N&#xBA;2 b)<br>D.O. 20.01.1955</span></div><div class=\"p\">&nbsp; &nbsp;  a) Vender en p&#xFA;blica subasta animales o productos agr&#xED;colas de su propio dominio;</div><div class=\"p\">&nbsp; &nbsp;  b) Tomar parte en las licitaciones por s&#xED; o por interp&#xF3;sita persona;</div><div class=\"p\">&nbsp; &nbsp;  c) Adquirir uno o m&#xE1;s de los productos de cuya subasta se hallen encargadas, mediante contrato celebrado con la persona que los hubiere licitado, y</div><div class=\"p\">&nbsp; &nbsp;  d) Alterar el juego&nbsp; normal de las posturas y el precio natural de las subastas, mediante maniobras de cualquiera &#xED;ndole o interposici&#xF3;n de personas empleadas o no.</div><br></div>"
+        },
+        {
+          "part_id": 9005144,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 27. Las infracciones a la ley n&#xFA;mero 7,094, a cualquiera de las disposiciones del presente Reglamento o a las resoluciones u &#xF3;rdenes dictadas por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo en uso de sus facultades, ser&#xE1;n sancionadas, a petici&#xF3;n del Departamento de Martillo y Ferias y previo informe de la Asesor&#xED;a Jur&#xED;dica de dicha Direcci&#xF3;n, con una o m&#xE1;s de las siguientes medidas disciplinarias:</div><div class=\"p\">&nbsp; &nbsp;  a) Censura por escrito que se consignar&#xE1; en un &quot;Libro de Medidas Disciplinarias&quot;;</div><div class=\"p\">&nbsp; &nbsp;  b) Prohibici&#xF3;n de efectuar un determinado n&#xFA;mero de remates;</div><div class=\"p\">&nbsp; &nbsp;  c) Suspensi&#xF3;n temporal del permiso para funcionar hasta por seis meses, y</div><div class=\"p\">&nbsp; &nbsp;  d) Cancelaci&#xF3;n de la autorizaci&#xF3;n suprema para funcionar.</div><div class=\"p\">&nbsp; &nbsp;  Las medidas contempladas por las letras a), b) y c) se aplicar&#xE1;n administrativamente por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo.</div><div class=\"p\">&nbsp; &nbsp;  La medida contemplada por la letra d) ser&#xE1; aplicada por el Presidente de la Rep&#xFA;blica a proposici&#xF3;n de la misma Direcci&#xF3;n General.</div><div class=\"p\">&nbsp; &nbsp;  Contra las resoluciones de la Direcci&#xF3;n no se concede otro recurso que el de reconsideraci&#xF3;n, que deber&#xE1; interponerse dentro del plazo de diez d&#xED;as corridos a contar desde la fecha de su notificaci&#xF3;n. Contra las resoluciones del Presidente de la Rep&#xFA;blica no procede recurso alguno.</div><div class=\"p\">&nbsp; &nbsp;  La fuerza p&#xFA;blica deber&#xE1; prestar su auxilio para el cumplimiento de las sanciones aplicadas en conformidad a este art&#xED;culo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 27. Las infracciones a la ley n&#xFA;mero 7,094, a cualquiera de las disposiciones del presente Reglamento o a las resoluciones u &#xF3;rdenes dictadas por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo en uso de sus facultades, ser&#xE1;n sancionadas, a petici&#xF3;n del Departamento de Martillo y Ferias y previo informe de la Asesor&#xED;a Jur&#xED;dica de dicha Direcci&#xF3;n, con una o m&#xE1;s de las siguientes medidas disciplinarias:</div><div class=\"p\">&nbsp; &nbsp;  a) Censura por escrito que se consignar&#xE1; en un &quot;Libro de Medidas Disciplinarias&quot;;</div><div class=\"p\">&nbsp; &nbsp;  b) Multa de cinco mil a cincuenta mil pesos.<span class=\"n\" id=\"n_2\">DTO 958, TRABAJO<br>N&#xBA;2 c)<br>D.O. 20.01.1955</span></div><div class=\"p\">&nbsp; &nbsp;  c) Suspensi&#xF3;n temporal del permiso para funcionar hasta por seis meses, y</div><div class=\"p\">&nbsp; &nbsp;  d) Cancelaci&#xF3;n de la autorizaci&#xF3;n suprema para funcionar.</div><div class=\"p\">&nbsp; &nbsp;  Las medidas contempladas por las letras a), b) y c) se aplicar&#xE1;n administrativamente por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo.</div><div class=\"p\">&nbsp; &nbsp;  La medida contemplada por la letra d) ser&#xE1; aplicada por el Presidente de la Rep&#xFA;blica a proposici&#xF3;n de la misma Direcci&#xF3;n General.</div><div class=\"p\">&nbsp; &nbsp;  Contra las resoluciones de la Direcci&#xF3;n no se concede otro recurso que el de reconsideraci&#xF3;n, que deber&#xE1; interponerse dentro del plazo de diez d&#xED;as corridos a contar desde la fecha de su notificaci&#xF3;n. Contra las resoluciones del Presidente de la Rep&#xFA;blica no procede recurso alguno.</div><div class=\"p\">&nbsp; &nbsp;  La fuerza p&#xFA;blica deber&#xE1; prestar su auxilio para el cumplimiento de las sanciones aplicadas en conformidad a este art&#xED;culo.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1967-09-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9005120,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo sexto.- Las ferias podr&#xE1;n vender en p&#xFA;blica subasta y al mejor postor, dentro o fuera de sus locales, &#xFA;nicamente animales y productos agr&#xED;colas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo sexto.- Las ferias podr&#xE1;n vender en p&#xFA;blica subasta y al mejor postor, dentro o fuera de sus locales, &#xFA;nicamente animales y productos agr&#xED;colas.</div><div class=\"p\">&nbsp; &nbsp;  Trat&#xE1;ndose de animales vacunos, ovinos, porcinos y<span class=\"n\" id=\"n_1\">DTO 478, TRABAJO<br>Art. &#xFA;nico<br>D.O. 02.09.1967</span> equinos destinados a matadero, &#xE9;stos deber&#xE1;n ser rematados por las ferias por kilogramo de peso, qued&#xE1;ndoles prohibido realizar dichas subastas en otra forma que la indicada.</div><br></div>"
+        },
+        {
+          "part_id": 9005126,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11. Las ferias servir&#xE1;n &#xFA;nicamente de intermediarias para las ventas en martillo, y les estar&#xE1; prohibido a ellas y sus empleados:<span class=\"n\" id=\"n_1\">DTO 958, TRABAJO<br>N&#xBA;2 b)<br>D.O. 20.01.1955</span></div><div class=\"p\">&nbsp; &nbsp;  a) Vender en p&#xFA;blica subasta animales o productos agr&#xED;colas de su propio dominio;</div><div class=\"p\">&nbsp; &nbsp;  b) Tomar parte en las licitaciones por s&#xED; o por interp&#xF3;sita persona;</div><div class=\"p\">&nbsp; &nbsp;  c) Adquirir uno o m&#xE1;s de los productos de cuya subasta se hallen encargadas, mediante contrato celebrado con la persona que los hubiere licitado, y</div><div class=\"p\">&nbsp; &nbsp;  d) Alterar el juego&nbsp; normal de las posturas y el precio natural de las subastas, mediante maniobras de cualquiera &#xED;ndole o interposici&#xF3;n de personas empleadas o no.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11. Las ferias servir&#xE1;n &#xFA;nicamente de intermediarias para las ventas en martillo, y les estar&#xE1; prohibido a ellas y sus empleados:<span class=\"n\" id=\"n_2\">DTO 958, TRABAJO<br>N&#xBA;2 b)<br>D.O. 20.01.1955</span></div><div class=\"p\">&nbsp; &nbsp;  a) Vender en p&#xFA;blica subasta animales o productos agr&#xED;colas de su propio dominio;</div><div class=\"p\">&nbsp; &nbsp;  b) Tomar parte en las licitaciones por s&#xED; o por interp&#xF3;sita persona;</div><div class=\"p\">&nbsp; &nbsp;  c) Adquirir uno o m&#xE1;s de los productos de cuya subasta se hallen encargadas, mediante contrato celebrado con la persona que los hubiere licitado, y</div><div class=\"p\">&nbsp; &nbsp;  d) Alterar el juego&nbsp; normal de las posturas y el precio natural de las subastas, mediante maniobras de cualquiera &#xED;ndole o interposici&#xF3;n de personas empleadas o no.</div><br></div>"
+        },
+        {
+          "part_id": 9005144,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 27. Las infracciones a la ley n&#xFA;mero 7,094, a cualquiera de las disposiciones del presente Reglamento o a las resoluciones u &#xF3;rdenes dictadas por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo en uso de sus facultades, ser&#xE1;n sancionadas, a petici&#xF3;n del Departamento de Martillo y Ferias y previo informe de la Asesor&#xED;a Jur&#xED;dica de dicha Direcci&#xF3;n, con una o m&#xE1;s de las siguientes medidas disciplinarias:</div><div class=\"p\">&nbsp; &nbsp;  a) Censura por escrito que se consignar&#xE1; en un &quot;Libro de Medidas Disciplinarias&quot;;</div><div class=\"p\">&nbsp; &nbsp;  b) Multa de cinco mil a cincuenta mil pesos.<span class=\"n\" id=\"n_2\">DTO 958, TRABAJO<br>N&#xBA;2 c)<br>D.O. 20.01.1955</span></div><div class=\"p\">&nbsp; &nbsp;  c) Suspensi&#xF3;n temporal del permiso para funcionar hasta por seis meses, y</div><div class=\"p\">&nbsp; &nbsp;  d) Cancelaci&#xF3;n de la autorizaci&#xF3;n suprema para funcionar.</div><div class=\"p\">&nbsp; &nbsp;  Las medidas contempladas por las letras a), b) y c) se aplicar&#xE1;n administrativamente por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo.</div><div class=\"p\">&nbsp; &nbsp;  La medida contemplada por la letra d) ser&#xE1; aplicada por el Presidente de la Rep&#xFA;blica a proposici&#xF3;n de la misma Direcci&#xF3;n General.</div><div class=\"p\">&nbsp; &nbsp;  Contra las resoluciones de la Direcci&#xF3;n no se concede otro recurso que el de reconsideraci&#xF3;n, que deber&#xE1; interponerse dentro del plazo de diez d&#xED;as corridos a contar desde la fecha de su notificaci&#xF3;n. Contra las resoluciones del Presidente de la Rep&#xFA;blica no procede recurso alguno.</div><div class=\"p\">&nbsp; &nbsp;  La fuerza p&#xFA;blica deber&#xE1; prestar su auxilio para el cumplimiento de las sanciones aplicadas en conformidad a este art&#xED;culo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 27. Las infracciones a la ley n&#xFA;mero 7,094, a cualquiera de las disposiciones del presente Reglamento o a las resoluciones u &#xF3;rdenes dictadas por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo en uso de sus facultades, ser&#xE1;n sancionadas, a petici&#xF3;n del Departamento de Martillo y Ferias y previo informe de la Asesor&#xED;a Jur&#xED;dica de dicha Direcci&#xF3;n, con una o m&#xE1;s de las siguientes medidas disciplinarias:</div><div class=\"p\">&nbsp; &nbsp;  a) Censura por escrito que se consignar&#xE1; en un &quot;Libro de Medidas Disciplinarias&quot;;</div><div class=\"p\">&nbsp; &nbsp;  b) Multa de cinco mil a cincuenta mil pesos.<span class=\"n\" id=\"n_3\">DTO 958, TRABAJO<br>N&#xBA;2 c)<br>D.O. 20.01.1955</span></div><div class=\"p\">&nbsp; &nbsp;  c) Suspensi&#xF3;n temporal del permiso para funcionar hasta por seis meses, y</div><div class=\"p\">&nbsp; &nbsp;  d) Cancelaci&#xF3;n de la autorizaci&#xF3;n suprema para funcionar.</div><div class=\"p\">&nbsp; &nbsp;  Las medidas contempladas por las letras a), b) y c) se aplicar&#xE1;n administrativamente por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo.</div><div class=\"p\">&nbsp; &nbsp;  La medida contemplada por la letra d) ser&#xE1; aplicada por el Presidente de la Rep&#xFA;blica a proposici&#xF3;n de la misma Direcci&#xF3;n General.</div><div class=\"p\">&nbsp; &nbsp;  Contra las resoluciones de la Direcci&#xF3;n no se concede otro recurso que el de reconsideraci&#xF3;n, que deber&#xE1; interponerse dentro del plazo de diez d&#xED;as corridos a contar desde la fecha de su notificaci&#xF3;n. Contra las resoluciones del Presidente de la Rep&#xFA;blica no procede recurso alguno.</div><div class=\"p\">&nbsp; &nbsp;  La fuerza p&#xFA;blica deber&#xE1; prestar su auxilio para el cumplimiento de las sanciones aplicadas en conformidad a este art&#xED;culo.</div><br></div>"
+        },
+        {
+          "part_id": 9005152,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 32. Los empleados martilleros de las<span class=\"n\" id=\"n_3\">DTO 958, TRABAJO<br>N&#xBA;2 d)<br>D.O. 20.01.1955</span> ferias deber&#xE1;n ser autorizados por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo, quien lo calificar&#xE1; previamente por medio del Departamento respectivo.</div><div class=\"p\">&nbsp; &nbsp; Dichos empleados martilleros actuar&#xE1;n bajo la responsabilidad de la feria, y en caso de ser sorprendidos en faltas o abusos, les ser&#xE1; cancelado definitivamente este permiso, sin perjuicio de las sanciones que la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo aplique a la feria.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 32. Los empleados martilleros de las<span class=\"n\" id=\"n_4\">DTO 958, TRABAJO<br>N&#xBA;2 d)<br>D.O. 20.01.1955</span> ferias deber&#xE1;n ser autorizados por la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo, quien lo calificar&#xE1; previamente por medio del Departamento respectivo.</div><div class=\"p\">&nbsp; &nbsp; Dichos empleados martilleros actuar&#xE1;n bajo la responsabilidad de la feria, y en caso de ser sorprendidos en faltas o abusos, les ser&#xE1; cancelado definitivamente este permiso, sin perjuicio de las sanciones que la Direcci&#xF3;n General del Cr&#xE9;dito Prendario y de Martillo aplique a la feria.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1977-09-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9005153,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 33&#xBA;.- Las ferias podr&#xE1;n vender en p&#xFA;blica<span class=\"n\" id=\"n_6\">D.O. 01.09.1977</span> subasta cualquier tipo de carnes, siempre que dispongan para este efecto de locales separados de los recintos feriales donde se trafican animales y productos agr&#xED;colas.</div><br></div>"
+        },
+        {
+          "part_id": 9005154,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; P&#xE1;rrafo V<span class=\"n\" id=\"n_5\">DTO 352, ECONOMIA<br>Art. &#xFA;nico</span></div><br></div>"
+        },
+        {
+          "part_id": 9005155,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 34&#xBA;.- La sala de almacenamiento y<span class=\"n\" id=\"n_7\">DTO 352, ECONOMIA<br>Art. &#xFA;nico<br>D.O.01.09.1977</span> exposici&#xF3;n de productos c&#xE1;rneos contar&#xE1; con instalaciones de fr&#xED;o suficiente para mantener carne enfriada en una temperatura ambiental inferior a 10&#xBA;C, iluminaci&#xF3;n y ventilaci&#xF3;n adecuada y suficiente, seg&#xFA;n condiciones t&#xE9;cnicas. Corresponder&#xE1; al Subsecretario de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n certificar, con informe de la Direcci&#xF3;n de Industria y Comercio, que las instalaciones y equipos tienen los elementos y las caracter&#xED;sticas de suficiencia que esta finalidad de mantenci&#xF3;n requiere.</div><br></div>"
+        },
+        {
+          "part_id": 9005156,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 35&#xBA;.- Obtenida la certificaci&#xF3;n a que se<span class=\"n\" id=\"n_8\">DTO 352, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 01.09.1977</span> refiere el art&#xED;culo anterior, la feria deber&#xE1; solicitar autorizaci&#xF3;n del Servicio Nacional de Salud, la que se otorgar&#xE1; mediante resoluci&#xF3;n fundada, toda vez que se cumplan espec&#xED;ficamente, los requisitos sanitarios de funcionamiento.</div><br></div>"
+        },
+        {
+          "part_id": 9005157,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 36&#xBA;.- En todo lo que no se oponga a la<span class=\"n\" id=\"n_9\">DTO 352, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 01.09.1977</span> naturaleza de esta clase de remates y a lo dispuesto en el articulado de este P&#xE1;rrafo, se aplicar&#xE1;n a estas operaciones las normas del presente Reglamento.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1982-05-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

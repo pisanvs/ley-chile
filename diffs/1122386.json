@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1936-03-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1937-12-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9950835,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo... Los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1122387&amp;idParte=9950713&amp;idVersion=1936-12-26\">Ley 5966<br>Art. &#xDA;NICO<br>D.O. 26.12.1936</a></span>empleados a contrata de la Empresa, que fueron declarados cesantes en la &#xE9;poca se&#xF1;alada en el art&#xED;culo 1.o, que actualmente se encuentren reincorporados, y que aun no hubieren recuperado el grado que ten&#xED;an cuando cesaron en sus cargos, recobrar&#xE1;n ese grado con la renta que corresponda a la fecha de la promulgaci&#xF3;n de la presente Ley. La Empresa formar&#xE1; un escalaf&#xF3;n especial para esta clase de empleados </div><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

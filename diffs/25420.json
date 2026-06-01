@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1941-06-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1943-09-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9042692,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1.o Cr&#xE9;ase un Juzgado de Letras de Menor Cuant&#xED;a con asiento en Villarrica y cuya jurisdicci&#xF3;n comprender&#xE1; las subdelegaciones de Villarrica y Puc&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; Cr&#xE9;ase un Juzgado de Letras de Menor<span class=\"n\" id=\"n_0\">Ley 7497<br>Art Unico</span> Cuant&#xED;a con asiento en Villarrica y cuya jurisdicci&#xF3;n comprender&#xE1; la subdelegaci&#xF3;n del mismo nombre.<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  La modificaci&#xF3;n introducida por el art. &#xFA;nico de la ley 7497 regir&#xE1; treinta d&#xED;as despu&#xE9;s de su publicaci&#xF3;n en el &quot;Diario Oficial&quot;, efectuada el 3 de septiembre de 1943.<br></div></div>"
+        },
+        {
+          "part_id": 9042693,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o El personal de este Juzgado ser&#xE1; el siguiente y su renta anual la que se expresa a continuaci&#xF3;n:</div><div class=\"p\"> Juez de Letras de Menor Cuant&#xED;a_________ $ 24,000.-</div><div class=\"p\"> Secretario______________________________&nbsp;  18,000.-</div><div class=\"p\"> Oficial de Sala_________________________&nbsp; &nbsp; 7,087.50</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 2&#xB0; El personal de este Juzgado ser&#xE1; el siguiente y su renta anual la que se expresa a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; Juez de Letras de Menor</div><div class=\"p\">&nbsp; Cuant&#xED;a- - - - - - $&nbsp;  24,000.-</div><div class=\"p\">&nbsp; Secretario- - - - -&nbsp; &nbsp; 18,000.-</div><div class=\"p\">&nbsp; Oficial de Sala - -&nbsp; &nbsp;  7,087.50</div><br></div>"
+        },
+        {
+          "part_id": 9042694,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3.o El gasto que importe el cumplimiento de esta ley se imputar&#xE1; al rendimiento derivado de las modificaciones introducidas en la Ley de Impuesto a la Renta, por el art&#xED;culo 6.o de la Ley N.o 6,782, de 20 de Febrero de 1941.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 3&#xB0; El gasto que importe el cumplimiento de esta ley se imputar&#xE1; al rendimiento derivado de las modificaciones introducidas en la Ley de Impuesto a la Renta, por el art&#xED;culo 6&#xB0; de la ley N&#xB0; 6,782, de 20 de febrero de 1941.</div><br></div>"
+        },
+        {
+          "part_id": 9042695,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4.o Esta ley regir&#xE1; desde su publicaci&#xF3;n en el Diario Oficial&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 4&#xB0; Esta ley regir&#xE1; desde su publicaci&#xF3;n en el &quot;Diario Oficial&quot;.</div><br></div>"
+        },
+        {
+          "part_id": 9042696,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto he tenido a bien aprobarlo y sancionarlo, prom&#xFA;lguese y ll&#xE9;vese a efecto como Ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, treinta de Mayo de mil novecientos cuarenta y uno.- PEDRO AGUIRRE CERDA.- L. Ra&#xFA;l Puga M.- Marcial Mora M.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto, he tenido a bien aprobarlo y sancionarlo; por tanto prom&#xFA;lguese y ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, treinta de mayo de mil novecientos cuarenta y uno.- P. AGUIRRE CERDA.- Ra&#xFA;l Puga M.- Marcial Mora M.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

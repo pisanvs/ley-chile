@@ -1,0 +1,57 @@
+[
+  {
+    "fecha": "1945-02-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1945-04-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9001944,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10. Las modificaciones en la planta derivadas de la creaci&#xF3;n de nuevos cargos o de aumentos de sueldos, que provengan de los reajustes establecidos en la Ley N.o 7.295, publicada en el &quot;DIARIO OFICIAL&quot; de 22 de Octubre de 1942, ser&#xE1;n autorizadas por Decreto Supremo a propuesta del Consejo de Administraci&#xF3;n de la Mutualidad.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10. Las modificaciones en la planta<span class=\"n\" id=\"n_0\">DTO 449, SALUBRIDAD<br>D.O. 07.04.1945</span> derivadas de la creaci&#xF3;n de nuevos cargos o de aumentos de sueldos que no provengan de los reajustes establecidos en la Ley N.o 7,295, publicada en el Diario Oficial de 22 de Octubre de 1942, ser&#xE1;n autorizados por decreto supremo a propuesta del Consejo de Administraci&#xF3;n de la Mutualidad.</div><br></div>"
+        },
+        {
+          "part_id": 9001961,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 25. Si el haber del Fondo de Retiro de cada empleado de la Mutualidad que traspase la Caja de Previsi&#xF3;n de Empleados Particulares a la Caja de Previsi&#xF3;n de Carabineros, no alcanzare a cubrir el monto de las imposiciones con intereses que debe enterar el empleado en esta &#xFA;ltima instituci&#xF3;n, la Caja de Previsi&#xF3;n de Carabineros conceder&#xE1; pr&#xE9;stamos de auxilio a estos empleados, destinados a cancelar ese saldo no enterado.</div><div class=\"p\">&nbsp; &nbsp;  El Consejo de Administraci&#xF3;n de la Caja determinar&#xE1; las condiciones y modalidades de pago de esos pr&#xE9;stamos, estableci&#xE9;ndose que el servicio mensual de estas obligaciones no exceder&#xE1; del quince por ciento de la remuneraci&#xF3;n del empleado afecta a imposiciones en la Caja; pero, en ning&#xFA;n caso, el plazo m&#xE1;ximo de reintegro podr&#xE1; exceder de 10 a&#xF1;os, para lo que podr&#xE1;n exceder videndos del 15% de la remuneraci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 25. Si el haber del Fondo de Retiro de cada empleado de la Mutualidad que traspase la Caja de Previsi&#xF3;n de Empleados Particulares a la Caja de Previsi&#xF3;n de Carabineros, no alcanzare a cubrir el monto de las imposiciones con intereses que debe enterar el empleado en esta &#xFA;ltima instituci&#xF3;n, la Caja de Previsi&#xF3;n de Carabineros conceder&#xE1; pr&#xE9;stamos de auxilio a estos empleados, destinados a cancelar ese saldo no enterado. El Consejo de Administraci&#xF3;n de la Caja determinar&#xE1;<span class=\"n\" id=\"n_1\">DTO 449, SALUBRIDAD<br>D.O. 07.04.1945</span> las condiciones y modalidades de pago de esos pr&#xE9;stamos, estableci&#xE9;ndose que el servicio mensual de estas obligaciones no exceder&#xE1;&nbsp; del 15% de la remuneraci&#xF3;n del empleado afecta a imposiciones en la Caja; pero, en ning&#xFA;n caso, el plazo m&#xE1;ximo de reintegro podr&#xE1; exceder de 10 a&#xF1;os. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1945-05-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9001935,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o. El seguro ser&#xE1; equivalente al monto de la remuneraci&#xF3;n anual del funcionario sujeta a imposiciones en la Caja.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o El seguro ser&#xE1; equivalente al monto del sueldo anual del funcionario sujeto a imposiciones<span class=\"n\" id=\"n_0\">DTO 525, SALUBRIDAD<br>N&#xBA; 1<br>D.O. 04.05.1945</span> de la Caja. </div></div>"
+        },
+        {
+          "part_id": 9001944,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10. Las modificaciones en la planta<span class=\"n\" id=\"n_0\">DTO 449, SALUBRIDAD<br>D.O. 07.04.1945</span> derivadas de la creaci&#xF3;n de nuevos cargos o de aumentos de sueldos que no provengan de los reajustes establecidos en la Ley N.o 7,295, publicada en el Diario Oficial de 22 de Octubre de 1942, ser&#xE1;n autorizados por decreto supremo a propuesta del Consejo de Administraci&#xF3;n de la Mutualidad.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10. Las modificaciones en la planta<span class=\"n\" id=\"n_1\">DTO 449, SALUBRIDAD<br>D.O. 07.04.1945</span> derivadas de la creaci&#xF3;n de nuevos cargos o de aumentos de sueldos que no provengan de los reajustes establecidos en la Ley N.o 7,295, publicada en el Diario Oficial de 22 de Octubre de 1942, ser&#xE1;n autorizados por decreto supremo a propuesta del Consejo de Administraci&#xF3;n de la Mutualidad.</div><br></div>"
+        },
+        {
+          "part_id": 9001953,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18. Para los efectos del reconocimiento de los a&#xF1;os de servicios prestados por los empleados de la Mutualidad en esa instituci&#xF3;n, estos empleados deber&#xE1;n depositar en la Caja las erogaciones establecidas en la letra A, del art&#xED;culo 6.o y en la letra A del art&#xED;culo 7.o del D.F.L. N.o 4,901, de 20 de Julio de 1927, calculadas sobre los sueldos percibidos m&#xE1;s la gratificaci&#xF3;n respectiva hasta un m&#xE1;ximo de 25% del sueldo, con intereses legales del 6% anual, contados de las fechas respectivas en que debieron enterarse esas imposiciones tal como si todos los servicios reconocidos hubieren estado afectos al r&#xE9;gimen de la Caja.</div><div class=\"p\">&nbsp; &nbsp;  Estas imposiciones se har&#xE1;n efectivas a contar de la fecha de la creaci&#xF3;n de la Caja de Asistencia, Previsi&#xF3;n y Bienestar de las Polic&#xED;as el 1.o de Septiembre de 1925, respecto de los actuales empleados que hayan prestado servicios con anterioridad a esa fecha.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18. Para los efectos del reconocimiento de los a&#xF1;os de servicios prestados por los empleados de la Mutualidad en esa instituci&#xF3;n, estos empleados deber&#xE1;n depositar en la Caja las erogaciones establecidas en la letra A, del art&#xED;culo 6.o y en la letra A del art&#xED;culo 7.o del D.F.L. N.o 4,901, de 20 de Julio de 1927, calculadas sobre los sueldos percibidos m&#xE1;s la gratificaci&#xF3;n respectiva hasta un m&#xE1;ximo de 25% del sueldo, con intereses legales del 6% anual, contados de las fechas respectivas en que debieron enterarse esas imposiciones tal como si todos los servicios reconocidos hubieren estado afectos al r&#xE9;gimen de la Caja. INCISO DEROGADO<span class=\"n\" id=\"n_2\">DTO 525, SALUBRIDAD<br>N&#xBA; 2<br>D.O. 04.05.1945</span> </div></div>"
+        },
+        {
+          "part_id": 9001961,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 25. Si el haber del Fondo de Retiro de cada empleado de la Mutualidad que traspase la Caja de Previsi&#xF3;n de Empleados Particulares a la Caja de Previsi&#xF3;n de Carabineros, no alcanzare a cubrir el monto de las imposiciones con intereses que debe enterar el empleado en esta &#xFA;ltima instituci&#xF3;n, la Caja de Previsi&#xF3;n de Carabineros conceder&#xE1; pr&#xE9;stamos de auxilio a estos empleados, destinados a cancelar ese saldo no enterado. El Consejo de Administraci&#xF3;n de la Caja determinar&#xE1;<span class=\"n\" id=\"n_1\">DTO 449, SALUBRIDAD<br>D.O. 07.04.1945</span> las condiciones y modalidades de pago de esos pr&#xE9;stamos, estableci&#xE9;ndose que el servicio mensual de estas obligaciones no exceder&#xE1;&nbsp; del 15% de la remuneraci&#xF3;n del empleado afecta a imposiciones en la Caja; pero, en ning&#xFA;n caso, el plazo m&#xE1;ximo de reintegro podr&#xE1; exceder de 10 a&#xF1;os. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 25. Si el haber del Fondo de Retiro de cada empleado de la Mutualidad que traspase la Caja de Previsi&#xF3;n de Empleados Particulares a la Caja de Previsi&#xF3;n de Carabineros, no alcanzare a cubrir el monto de las imposiciones con intereses que debe enterar el empleado en esta &#xFA;ltima instituci&#xF3;n, la Caja de Previsi&#xF3;n de Carabineros conceder&#xE1; pr&#xE9;stamos de auxilio a estos empleados, destinados a cancelar ese saldo no enterado. El Consejo de Administraci&#xF3;n de la Caja determinar&#xE1;<span class=\"n\" id=\"n_3\">DTO 449, SALUBRIDAD<br>D.O. 07.04.1945</span> las condiciones y modalidades de pago de esos pr&#xE9;stamos, estableci&#xE9;ndose que el servicio mensual de estas obligaciones no exceder&#xE1;&nbsp; del 15% de la remuneraci&#xF3;n del empleado afecta a imposiciones en la Caja; pero, en ning&#xFA;n caso, el plazo m&#xE1;ximo de reintegro podr&#xE1; exceder de 10 a&#xF1;os. </div></div>"
+        }
+      ]
+    }
+  }
+]

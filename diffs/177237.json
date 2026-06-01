@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1940-08-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-12-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003093,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1.o El personal civil de la Administraci&#xF3;n P&#xFA;blica acogido a los beneficios de la Caja Nacional de Empleados P&#xFA;blicos y Periodistas, que acredite tener quince a&#xF1;os, o m&#xE1;s, de servicios p&#xFA;blicos, y que deba abandonar sus funciones por efectos de reorganizaciones, supresiones de empleos, declaraci&#xF3;n de vacancia o renuncia no voluntaria, y siempre que &#xE9;sta no sea motivada por comisi&#xF3;n de delito, podr&#xE1; sin necesidad de acreditar imposibilidad f&#xED;sica, optar entre el desahucio o la jubilaci&#xF3;n, liquidada &#xE9;sta sobre la base de los a&#xF1;os de servicios y los porcentajes que al respecto establecen las leyes vigentes sobre jubilaci&#xF3;n. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1.o Tendr&#xE1; derecho a jubilar por<span class=\"n\" id=\"n_0\">DL 2411, HACIENDA<br>Art. 9<br>D.O. 15.12.1978</span> expiraci&#xF3;n obligada de funciones el personal de los servicios semifiscales, empresas del Estado u otras entidades no regidas por el p&#xE1;rrafo 20 del T&#xED;tulo II del decreto con fuerza de ley 338, de 1960, que est&#xE9; acogido a reg&#xED;menes previsionales que consulten el beneficio de la jubilaci&#xF3;n o retiro y que, teniendo 20 o m&#xE1;s a&#xF1;os de servicios o imposiciones, debiere abandonar su empleo al t&#xE9;rmino del respectivo per&#xED;odo legal, por la supresi&#xF3;n del mismo derivada de reorganizaciones o dispuesta por la autoridad competente, o por renuncia no voluntaria, siempre que no sea por calificaci&#xF3;n insuficiente, por medida disciplinaria o por ser responsable de un delito.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

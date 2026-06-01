@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "1944-03-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1955-02-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8590776,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 2.o En la regi&#xF3;n indicada queda prohibido indefinidamente:</div><div class=\"p\">&nbsp; &nbsp;  a) La descepadura de las siguientes especies: tamarugo, algarrobo, cha&#xF1;ar, guayac&#xE1;n, olivillo, carb&#xF3;n o carbonillo, espino, boldo, mait&#xE9;n, litre y bollen.</div><div class=\"p\">&nbsp; &nbsp;  La corta o explotaci&#xF3;n de estos &#xE1;rboles y arbustos s&#xF3;lo ser&#xE1; permitida durante los meses de Abril, Mayo, Junio y Julio;</div><div class=\"p\">&nbsp; &nbsp;  b) La libre explotaci&#xF3;n de tamarugos, algarrobos y cha&#xF1;ares, siendo menester un permiso escrito del Intendente o Gobernador respectivo para poderlo hacer en las &#xE9;pocas se&#xF1;aladas en el inciso anterior;</div><div class=\"p\">&nbsp; &nbsp;  Para obtener este permiso deber&#xE1; solicitarse por escrito a la autoridad referida, indic&#xE1;ndose si el solicitante es due&#xF1;o o arrrendatario del predio, la densidad del bosque, ubicaci&#xF3;n y n&#xFA;mero de &#xE1;rboles que va a explotarse, producto que se tendr&#xE1;n de ellos y dem&#xE1;s datos necesarios para la resoluci&#xF3;n de esta solicitud;</div><div class=\"p\">&nbsp; &nbsp;  Se acompa&#xF1;ar&#xE1; a dicha solicitud un plano o croquis del terreno en que se va a efectuar la explotaci&#xF3;n, relacionando su ubicaci&#xF3;n con el pueblo o estaci&#xF3;n m&#xE1;s cercana;</div><div class=\"p\">&nbsp; &nbsp;  c) La explotaci&#xF3;n de tamarugos, algarrobos y cha&#xF1;ares que vegeten en terrenos fiscales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 2.o En la regi&#xF3;n indicada queda prohibido indefinidamente: a) La descepadura de las siguientes especies:</div><div class=\"p\">tamarugo, algarrobo, cha&#xF1;ar, guayac&#xE1;n, olivillo, carb&#xF3;n</div><div class=\"p\">o carbonillo, espino, boldo, mait&#xE9;n, litre y bollen.</div><div class=\"p\">&nbsp; &nbsp;  La corta o explotaci&#xF3;n de estos &#xE1;rboles y arbustos</div><div class=\"p\">s&#xF3;lo ser&#xE1; permitida durante los meses de Abril, Mayo,</div><div class=\"p\">Junio y Julio;</div><div class=\"p\">&nbsp; &nbsp;  Except&#xFA;ase la corta y explotaci&#xF3;n de las hojas de<span class=\"n\" id=\"n_0\">DTO 251, TIERRAS<br>D.O. 26.02.1955</span></div><div class=\"p\">boldo, la que podr&#xE1; realizarse &#xFA;nicamente entre los</div><div class=\"p\">meses de Diciembre a Marzo de cada a&#xF1;o, en toda el</div><div class=\"p\">&#xE1;rea de distribuci&#xF3;n de esta especie en la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  b) La libre explotaci&#xF3;n de tamarugos, algarrobos y</div><div class=\"p\">cha&#xF1;ares, siendo menester un permiso escrito del</div><div class=\"p\">Intendente o Gobernador respectivo para poderlo hacer en</div><div class=\"p\">las &#xE9;pocas se&#xF1;aladas en el inciso anterior;</div><div class=\"p\">&nbsp; &nbsp;  Para obtener este permiso deber&#xE1; solicitarse por</div><div class=\"p\">escrito a la autoridad referida, indic&#xE1;ndose si el</div><div class=\"p\">solicitante es due&#xF1;o o arrrendatario del predio, la</div><div class=\"p\">densidad del bosque, ubicaci&#xF3;n y n&#xFA;mero de &#xE1;rboles que</div><div class=\"p\">va a explotarse, producto que se tendr&#xE1;n de ellos y</div><div class=\"p\">dem&#xE1;s datos necesarios para la resoluci&#xF3;n de esta</div><div class=\"p\">solicitud;</div><div class=\"p\">&nbsp; &nbsp;  Se acompa&#xF1;ar&#xE1; a dicha solicitud un plano o croquis</div><div class=\"p\">del terreno en que se va a efectuar la explotaci&#xF3;n,</div><div class=\"p\">relacionando su ubicaci&#xF3;n con el pueblo o estaci&#xF3;n m&#xE1;s</div><div class=\"p\">cercana;</div><div class=\"p\">&nbsp; &nbsp;  c) La explotaci&#xF3;n de tamarugos, algarrobos y</div><div class=\"p\">cha&#xF1;ares que vegeten en terrenos fiscales.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1955-12-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8590777,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 3.o En conformidad con el art&#xED;culo 19 de la Ley de Bosques en vigencia, proh&#xED;bese la corta del quillay y la explotaci&#xF3;n de este producto, tales como le&#xF1;a, carb&#xF3;n y corteza, entre el 1.o de Diciembre y el 30 de Abril de cada a&#xF1;o. Fuera de esta &#xE9;poca los interesados en explotar este &#xE1;rbol deber&#xE1;n solicitar permiso en la Direcci&#xF3;n General de Tierras y Colonizaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 3.o En conformidad con el art&#xED;culo 19 de la Ley de Bosques en vigencia, proh&#xED;bese la corta del quillay y la explotaci&#xF3;n de este producto, tales como le&#xF1;a, carb&#xF3;n y corteza, <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1044583&amp;idParte=9304600&amp;idVersion=1955-12-02\">Decreto 2250,<br>AGRICULTURA<br>Promulgado el 02.12.1955</a></span>entre el 1.o de Enero y el 30 de Abril de cada a&#xF1;o. Fuera de esta &#xE9;poca los interesados en explotar este &#xE1;rbol deber&#xE1;n solicitar permiso en la Direcci&#xF3;n General de Tierras y Colonizaci&#xF3;n.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1044583,
+      "fecha": "1955-12-02"
+    }
+  }
+]

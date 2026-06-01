@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1944-03-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-08-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6353045,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 9&#xBA;.- El Reglamento de Carreras podr&#xE1; ser modificado por el Consejo Superior de la H&#xED;pica Nacional, e interpretado en forma obligatoria por este mismo organismo a requerimiento de uno de sus componentes.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053552&amp;idParte=9369362&amp;idVersion=2013-08-12\">Decreto 604, HACIENDA<br>Art. 2<br>D.O. 12.08.2013</a></span>&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- Las modificaciones al Reglamento de Carreras ser&#xE1;n propuestas por el Consejo Superior de la H&#xED;pica Nacional al Ministro de Hacienda, debiendo ser ratificadas y sancionadas por resoluci&#xF3;n de este &#xFA;ltimo. El Reglamento de Carreras podr&#xE1; ser interpretado en forma obligatoria por el Consejo Superior de la H&#xED;pica Nacional, a requerimiento de uno de sus miembros.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1053552,
+      "fecha": "2013-08-12"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1941-07-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-11-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8744492,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 7&#xB0; Esta ley regir&#xE1; desde la fecha de su<span class=\"n\" id=\"n_1\">DL 753 1974<br>ART UNICO</span> publicaci&#xF3;n en el &quot;Diario Oficial&quot;.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8744490,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6.o Esta ley regir&#xE1; desde la fecha de su publicaci&#xF3;n en el Diario Oficial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 6&#xB0; Cuando la servidumbre consista en el<span class=\"n\" id=\"n_0\">DL 753 1974<br>ART UNICO</span> establecimiento de un servicio com&#xFA;n de alcantarillado, sea mediante el sistema de red, c&#xE1;mara, desag&#xFC;e o cualquier otro, proyectado para servir a dos o m&#xE1;s viviendas de un conjunto habitacional, se entender&#xE1; constituida tal servidumbre, por el solo ministerio de la ley, por el hecho de aprobarse el plano a que se refiere el art&#xED;culo 3&#xB0;, el que quedar&#xE1; archivado en la oficina de la autoridad competente que lo haya aprobado, sirviendo este hecho como equivalente a la protocolizaci&#xF3;n del respectivo documento.</div><div class=\"p\">&nbsp; &nbsp; La servidumbre com&#xFA;n de alcantarillado gravar&#xE1; a los terrenos en que se encuentren construidas o se construyan las viviendas, quedando los titulares del dominio de los inmuebles obligados solidariamente a mantener, conservar y reparar el servicio com&#xFA;n y cumplir las normas legales y reglamentarias que rijan la materia y las disposiciones que impartan las autoridades encargadas de su fiscalizaci&#xF3;n. No podr&#xE1; hacerse alteraci&#xF3;n alguna de las instalaciones de los servicios comunes sin previa autorizaci&#xF3;n de la autoridad competente.</div><div class=\"p\">&nbsp; &nbsp; El plano, debidamente aprobado y archivado, demarcar&#xE1; la servidumbre de alcantarillado y determinar&#xE1; el ejercicio de los derechos y cumplimientos de las obligaciones respectivas.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "1947-08-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1962-05-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8516713,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1.o Las instituciones con personalidad jur&#xED;dica, asociaciones y agrupaciones cuyo fin sea la pr&#xE1;ctica, fomento o difusi&#xF3;n de la cultura f&#xED;sica o de los deportes, cuyos dirigentes o asociados no persigan fines de lucro particular, estar&#xE1;n exentas de los impuestos sobre la renta de tercera categor&#xED;a y global complementario.</div><div class=\"p\">&nbsp; &nbsp;  Igualmente dichas instituciones estar&#xE1;n exentas del impuesto que establece el art&#xED;culo 7.o del decreto de Hacienda n&#xFA;mero 2,772, publicado en el Diario Oficial de 3 de Septiembre de 1943, que fij&#xF3; el texto definitivo y refundido de la Ley sobre Impuesto a la Internaci&#xF3;n, a la Producci&#xF3;n y a la Cifra de los Negocios.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1.o Las instituciones con personalidad jur&#xED;dica, asociaciones y agrupaciones cuyo fin sea la pr&#xE1;ctica, fomento o difusi&#xF3;n de la cultura f&#xED;sica o de los deportes, cuyos dirigentes o asociados no persigan fines de lucro particular, estar&#xE1;n exentas de los impuestos sobre la renta de tercera categor&#xED;a y global complementario. Igualmente dichas instituciones estar&#xE1;n exentas del impuesto que establece el art&#xED;culo 7.o del decreto de Hacienda n&#xFA;mero 2,772, publicado en el Diario Oficial de 3 de Septiembre de 1943, que fij&#xF3; el texto definitivo y refundido de la Ley sobre Impuesto a la Internaci&#xF3;n, a la Producci&#xF3;n y a la Cifra de los Negocios. Quedar&#xE1;n, adem&#xE1;s, exentas de todo impuesto las<span class=\"n\" id=\"n_0\">LEY 14855<br>Art. 1<br>D.O.15.05.1962</span> rentas, remuneraciones, beneficios, participaciones y, en general, todos los ingresos pecuniarios que perciban las entidades o instituciones deportivas extranjeras, deportistas, personal t&#xE9;cnico, asesores y dirigentes, por su actuaci&#xF3;n como tales en Chile con motivo del Campeonato Mundial de F&#xFA;tbol de 1962, entidades e instituciones que podr&#xE1;n retirar del pa&#xED;s los dineros correspondientes libres de toda contribuci&#xF3;n. Las expresadas entidades, instituciones y dem&#xE1;s personas referidas no estar&#xE1;n afectas a las obligaciones que establece el art&#xED;culo 4.o de la presente ley. Las instituciones deportivas nacionales podr&#xE1;n realizar los pagos que correspondan a obligaciones estatutarias y reglamentarias de car&#xE1;cter internacional del respectivo deporte, libres de todo impuesto, sea que tales pagos se efect&#xFA;en en Chile o deban ser remesados al extranjero. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1965-12-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8516713,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1.o Las instituciones con personalidad jur&#xED;dica, asociaciones y agrupaciones cuyo fin sea la pr&#xE1;ctica, fomento o difusi&#xF3;n de la cultura f&#xED;sica o de los deportes, cuyos dirigentes o asociados no persigan fines de lucro particular, estar&#xE1;n exentas de los impuestos sobre la renta de tercera categor&#xED;a y global complementario. Igualmente dichas instituciones estar&#xE1;n exentas del impuesto que establece el art&#xED;culo 7.o del decreto de Hacienda n&#xFA;mero 2,772, publicado en el Diario Oficial de 3 de Septiembre de 1943, que fij&#xF3; el texto definitivo y refundido de la Ley sobre Impuesto a la Internaci&#xF3;n, a la Producci&#xF3;n y a la Cifra de los Negocios. Quedar&#xE1;n, adem&#xE1;s, exentas de todo impuesto las<span class=\"n\" id=\"n_0\">LEY 14855<br>Art. 1<br>D.O.15.05.1962</span> rentas, remuneraciones, beneficios, participaciones y, en general, todos los ingresos pecuniarios que perciban las entidades o instituciones deportivas extranjeras, deportistas, personal t&#xE9;cnico, asesores y dirigentes, por su actuaci&#xF3;n como tales en Chile con motivo del Campeonato Mundial de F&#xFA;tbol de 1962, entidades e instituciones que podr&#xE1;n retirar del pa&#xED;s los dineros correspondientes libres de toda contribuci&#xF3;n. Las expresadas entidades, instituciones y dem&#xE1;s personas referidas no estar&#xE1;n afectas a las obligaciones que establece el art&#xED;culo 4.o de la presente ley. Las instituciones deportivas nacionales podr&#xE1;n realizar los pagos que correspondan a obligaciones estatutarias y reglamentarias de car&#xE1;cter internacional del respectivo deporte, libres de todo impuesto, sea que tales pagos se efect&#xFA;en en Chile o deban ser remesados al extranjero. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1.o Las instituciones con personalidad jur&#xED;dica, asociaciones y agrupaciones cuyo fin sea la pr&#xE1;ctica, fomento o difusi&#xF3;n de la cultura f&#xED;sica o de los deportes, cuyos dirigentes o asociados no persigan fines de lucro particular, estar&#xE1;n exentas de los impuestos sobre la renta de tercera categor&#xED;a y global complementario. Igualmente dichas instituciones estar&#xE1;n exentas del impuesto que establece el art&#xED;culo 7.o del decreto de Hacienda n&#xFA;mero 2,772, publicado en el Diario Oficial de 3 de Septiembre de 1943, que fij&#xF3; el texto definitivo y refundido de la Ley sobre Impuesto a la Internaci&#xF3;n, a la Producci&#xF3;n y a la Cifra de los Negocios. Quedar&#xE1;n, adem&#xE1;s, exentas de todo impuesto las<span class=\"n\" id=\"n_0\">LEY 14855<br>Art. 1<br>D.O.15.05.1962</span> rentas, remuneraciones, beneficios, participaciones y, en general, todos los ingresos pecuniarios que perciban las entidades o instituciones deportivas extranjeras, deportistas, personal t&#xE9;cnico, asesores y dirigentes, por su actuaci&#xF3;n como tales en Chile con motivo del Campeonato Mundial de F&#xFA;tbol de 1962, entidades e instituciones que podr&#xE1;n retirar del pa&#xED;s los dineros correspondientes libres de toda contribuci&#xF3;n. Las expresadas entidades, instituciones y dem&#xE1;s personas referidas no estar&#xE1;n afectas a las obligaciones que establece el art&#xED;culo 4.o de la presente ley. Las instituciones deportivas nacionales podr&#xE1;n realizar los pagos que correspondan a obligaciones estatutarias y reglamentarias de car&#xE1;cter internacional del respectivo deporte, libres de todo impuesto, sea que tales pagos se efect&#xFA;en en Chile o deban ser remesados al extranjero. Las rentas, remuneraciones, beneficios,<span class=\"n\" id=\"n_1\">LEY 16383<br>Art. 6&#xBA;<br>D.O. 09.12.1965</span> participaciones y, en general, todos los ingresos pecuniarios que perciban las entidades o instituciones deportivas, deportistas, personal t&#xE9;cnico, asesores y dirigentes extranjeros por su actuaci&#xF3;n como tales en Chile con motivo de los Campeonatos que se celebren en el pa&#xED;s, podr&#xE1;n ser retirados de &#xE9;ste libres de toda contribuci&#xF3;n, previa autorizaci&#xF3;n del Servicio de Impuestos Internos, siempre que tengan informe favorable de la Direcci&#xF3;n de Deportes del Estado. Las instituciones deportivas nacionales podr&#xE1;n realizar los pagos que correspondan a obligaciones estatutarias y reglamentarias de car&#xE1;cter internacional del respectivo deporte, libres de todo impuesto, sea que tales pagos se efect&#xFA;en en Chile o deban ser remesados al extranjero. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-05-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

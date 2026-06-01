@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "1943-08-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1945-03-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8868012,
+          "old": "<div><div class=\"p\">FIJA SUELDOS A LOS EMPLEADOS DEL ESCALAFON ESPECIAL DEL PODER JUDICIAL</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">FIJA SUELDOS A LOS EMPLEADOS DEL ESCALAFON ESPECIAL DEL<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> PODER JUDICIAL</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 4&#xBA; de la LEY 8100, Publicada el 01.03.1945, derog&#xF3; la presente norma, en lo que se refieren al beneficio de quinquenios establecidos en favor de los funcionarios y empleados judiciales.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1955-11-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8868018,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA; Los oficiales 1os. de las Cortes de Apelaciones deber&#xE1;n ser abogados, sin perjuicio de que contin&#xFA;en en el desempe&#xF1;o de su cargo los que actualmente no lo son. Asimismo, el secretario del Fiscal de la Corte Suprema deber&#xE1; ser abogado. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA; Los oficiales 1os. de las Cortes de Apelaciones deber&#xE1;n ser abogados, sin perjuicio de que contin&#xFA;en en el desempe&#xF1;o de su cargo los que actualmente no lo son. Asimismo, el secretario del Fiscal de la Corte Suprema deber&#xE1; ser abogado.</div><div class=\"p\">&nbsp; &nbsp;  No obstante, podr&#xE1;n ser nombrados Oficiales<span class=\"n\" id=\"n_1\">LEY 11986<br>Art. 29<br>D.O. 19.11.1955</span> Primeros los actuales empleados que, sin estar en posesi&#xF3;n del t&#xED;tulo de abogado, hayan ingresado al Servicio Judicial con anterioridad al 16 de Agosto de 1943.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1981-04-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8868018,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA; Los oficiales 1os. de las Cortes de Apelaciones deber&#xE1;n ser abogados, sin perjuicio de que contin&#xFA;en en el desempe&#xF1;o de su cargo los que actualmente no lo son. Asimismo, el secretario del Fiscal de la Corte Suprema deber&#xE1; ser abogado.</div><div class=\"p\">&nbsp; &nbsp;  No obstante, podr&#xE1;n ser nombrados Oficiales<span class=\"n\" id=\"n_1\">LEY 11986<br>Art. 29<br>D.O. 19.11.1955</span> Primeros los actuales empleados que, sin estar en posesi&#xF3;n del t&#xED;tulo de abogado, hayan ingresado al Servicio Judicial con anterioridad al 16 de Agosto de 1943.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA; Los oficiales 1os. de las Cortes de Apelaciones deber&#xE1;n ser abogados, sin perjuicio de que contin&#xFA;en en el desempe&#xF1;o de su cargo los que actualmente no lo son. Asimismo, el secretario del Fiscal de la Corte Suprema deber&#xE1; ser abogado.</div><div class=\"p\">&nbsp; &nbsp; No obstante, podr&#xE1;n ser nombrados Oficiales<span class=\"n\" id=\"n_1\">LEY 17987<br>Art. &#xFA;nico<br>D.O. 27.04.1981</span> Primeros los actuales empleados que sin estar en posesi&#xF3;n del t&#xED;tulo de abogado, tengan m&#xE1;s de quince a&#xF1;os de antig&#xFC;edad en el servicio judicial y hayan sido siempre calificados en Lista N&#xBA; 1.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

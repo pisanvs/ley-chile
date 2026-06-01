@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1944-12-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1949-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003647,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.o Aum&#xE9;ntanse las actuales pensiones concedidas al personal del Congreso Nacional que haya jubilado en forma administrativa o por leyes especiales, de manera que el aumento corresponda a la diferencia entre el monto de la pensi&#xF3;n y el sueldo, inclu&#xED;das las remuneraciones por a&#xF1;os de servicios, de que entrar&#xED;a a disfrutar cada uno de los miembros de dicho personal, una vez aplicada esta ley, si estuviere actualmente en el cargo en que jubil&#xF3;.</div><div class=\"p\">&nbsp; &nbsp;  Este aumento se ajustar&#xE1; a la siguiente escala:</div><br><div class=\"p\">&nbsp; &nbsp;  25% de aumento de la diferencia establecida en el inciso anterior, las pensiones superiores a $ 50.000.</div><div class=\"p\">&nbsp; &nbsp;  30%, las comprendidas entre $ 40,001 y $ 50,000;</div><div class=\"p\">&nbsp; &nbsp;  40%, las comprendidas entre $ 30,001 y $ 40,000;</div><div class=\"p\">&nbsp; &nbsp;  50%, las comprendidas entre $ 25,001 y $ 30,000; y 60%, las inferiores a $ 25,000.</div><br><div class=\"p\">&nbsp; &nbsp;  Las pensiones de los empleados actualmente jubilados y las que se otorguen, conforme a las disposiciones legales y administrativas vigentes, a los empleados del Congreso Nacional que en adelante jubilen, se reliquidar&#xE1;n cada vez, con motivo de cualquier futuro aumento de los sueldos del personal en servicio activo ajustada a la escala indicada en el inciso precedente.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que signifique el aumento que dispone este art&#xED;culo ser&#xE1; de cargo fiscal.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.o Aum&#xE9;ntanse las actuales pensiones<span class=\"n\" id=\"n_0\">LEY 9311<br>Art. 49<br>D.O. 04.02.1949</span> concedidas al personal del Congreso Nacional que haya jubilado en forma administrativa o por leyes especiales, de manera que el aumento corresponda al ochenta por<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> ciento de la diferencia entre el monto de la pensi&#xF3;n y el sueldo, inclu&#xED;das las remuneraciones por a&#xF1;os de servicios, de que entrar&#xED;a a disfrutar cada uno de los miembros de dicho personal, una vez aplicada esta ley, si estuviere actualmente en el cargo en que jubil&#xF3;.</div><div class=\"p\">&nbsp; &nbsp;  INCISOS SUPRIMIDOS</div><div class=\"p\">&nbsp; &nbsp;  Las pensiones de los empleados actualmente jubilados y las que se otorguen, conforme a las disposiciones legales y administrativas vigentes, a los empleados del Congreso Nacional que en adelante jubilen, se reliquidar&#xE1;n cada vez, con motivo de cualquier futuro aumento de los sueldos del personal en servicio activo de acuerdo con lo dispuesto en el inciso 1&#xB0; de este art&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que signifique el aumento que dispone este art&#xED;culo ser&#xE1; de cargo fiscal.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El inciso 2&#xB0; del Art. 49 de la LEY 9311, publicada el 04.02.1949, dispuso que las reliquidaciones que se practicaren en conformidad a la presente modificaci&#xF3;n, se determinar&#xE1;n sobre las remuneraciones que actualmente perciben los interesados.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

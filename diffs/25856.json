@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1947-11-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-12-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9308755,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Modif&#xED;quese el inciso primero del art&#xED;culo 27 de la ley N.o 7,295, publicada en el &quot;Diario Oficial&quot; de 22 de Octubre de 1942, agreg&#xE1;ndose a la frase: &quot;...e hijos leg&#xED;timos o adoptivos menores de 18 a&#xF1;os&quot;, la siguiente: &quot;... y mayores de esta edad, pero menores de 23 a&#xF1;os, que acrediten con certificados competentes, que siguen cursos regulares universitarios o de especialidad t&#xE9;cnica&quot;.</div></div>"
+        },
+        {
+          "part_id": 9308756,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o Esta ley regir&#xE1; desde la fecha de su publicaci&#xF3;n en el &quot;Diario Oficial&quot;.</div></div>"
+        },
+        {
+          "part_id": 9308757,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, prom&#xFA;lguese y ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Santiago, a diez de Octubre de mil novecientos cuarenta y siete.- GABRIEL GONZALEZ VIDELA.- Doctor Jos&#xE9; Santos Salas.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1935-12-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-09-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7331883,
+          "old": "<div><div class=\"p\">COMPLEMENTA EL REGLAMENTO DE LA LEY DE PESCA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.300.- Santiago, 26 de Noviembre de 1935.- Visto lo informado por la Direcci&#xF3;n General de Pesca y Caza en nota N.o 1,135, de 9 del actual, lo dispuesto en el art&#xED;culo 19, y en la letra b), art&#xED;culo 16 del D.F.L.</div><div class=\"p\">N.o 34, de 12 de Marzo de 1931, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que en el Reglamento de la Ley de Pesca, aprobado por decreto del Ministerio de Fomento N.o 1,584, de 30 de Abril de 1934, se omiti&#xF3; establecer una veda y dimensiones para la pesca del camar&#xF3;n del mar, debido a que la abundancia de &#xE9;stos no hac&#xED;a prever su pr&#xF3;ximo agotamiento; y</div><div class=\"p\">&nbsp; &nbsp;  Que la experiencia ha demostrado que tales franquicias ocasionan la pesca desmedida de dichos crust&#xE1;ceos sin sujeci&#xF3;n alguna en cuanto a tama&#xF1;o y &#xE9;poca de procreaci&#xF3;n,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA EL REGLAMENTO DE LA LEY DE PESCA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.300.- Santiago, 26 de Noviembre de 1935.- Visto lo informado por la Direcci&#xF3;n General de Pesca y Caza en nota N.o 1,135, de 9 del actual, lo dispuesto en el art&#xED;culo 19, y en la letra b), art&#xED;culo 16 del D.F.L.</div><div class=\"p\">N.o 34, de 12 de Marzo de 1931, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que en el Reglamento de la Ley de Pesca, aprobado por decreto del Ministerio de Fomento N.o 1,584, de 30 de Abril de 1934, se omiti&#xF3; establecer una veda y dimensiones para la pesca del camar&#xF3;n del mar, debido a que la abundancia de &#xE9;stos no hac&#xED;a prever su pr&#xF3;ximo agotamiento; y</div><div class=\"p\">&nbsp; &nbsp;  Que la experiencia ha demostrado que tales franquicias ocasionan la pesca desmedida de dichos crust&#xE1;ceos sin sujeci&#xF3;n alguna en cuanto a tama&#xF1;o y &#xE9;poca de procreaci&#xF3;n,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

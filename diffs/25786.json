@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1946-12-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1961-09-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8278451,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE QUE EL SENADO Y LA CAMARA DE DIPUTADOS TENDRAN DOS REPRESENTANTES EN LA JUNTA CENTRAL DE BENEFICENCIA PUBLICA Y EN CADA CONSEJO DE ORGANISMOS FISCALES, DE ADMINISTRACION AUTONOMA O SEMIFISCALES Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">DISPONE QUE EL SENADO Y LA CAMARA DE DIPUTADOS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> TENDRAN DOS REPRESENTANTES EN LA JUNTA CENTRAL DE BENEFICENCIA PUBLICA Y EN CADA CONSEJO DE ORGANISMOS FISCALES, DE ADMINISTRACION AUTONOMA O SEMIFISCALES</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 1&#xBA; de la LEY 14631, publicada el 21.09.1961, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1944-12-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1980-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999380,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; INCORPORA A LOS AGENTES PROFESIONALES DE SEGUROS A LA CATEGORIA DE EMPLEADOS PARTICULARES</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; INCORPORA A LOS AGENTES PROFESIONALES DE SEGUROS A<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> LA CATEGORIA DE EMPLEADOS PARTICULARES</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 7 del DL 3057, publicado en el &quot;Diario Oficial&quot; de 10.01.1980, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1937-03-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-10-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7144567,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA EL TEXTO DEFINITIVO DE LA LEY DE COLONIZACION DE AYSEN</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 311.- Santiago, 24 de Febrero de 1937.- Vista la facultad que me confiere el art&#xED;culo 6.o de la Ley N.o 6,035, de 16 de Febrero de 1937,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; El texto definitivo de las leyes n&#xFA;meros 4,855, de 20 de Junio de 1930 y 6,035, de 16 de Febrero de 1937, sobre colonizaci&#xF3;n de la provincia de Aysen, ser&#xE1; el siguiente:</div><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA EL TEXTO DEFINITIVO DE LA LEY DE COLONIZACION<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">DE AYSEN</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 311.- Santiago, 24 de Febrero de 1937.- Vista la facultad que me confiere el art&#xED;culo 6.o de la Ley N.o 6,035, de 16 de Febrero de 1937,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; El texto definitivo de las leyes n&#xFA;meros 4,855, de 20 de Junio de 1930 y 6,035, de 16 de Febrero de 1937, sobre colonizaci&#xF3;n de la provincia de Aysen, ser&#xE1; el siguiente:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 53 del DFL 15, Hacienda, publicado el 04.04.1963, derog&#xF3; la presente norma. Sin embargo, su Art. 2&#xB0; transitorio faculta a quienes eran titulares de permisos de ocupaci&#xF3;n y de t&#xED;tulos provisorios al 27 de Noviembre de 1962, para hacer valer sus derechos conforme a ella, sin perjuicio de quedar vinculados a las disposiciones de los art&#xED;culos que indica.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp;  El Art. 307 del DL 574, Tierras y Colonizaci&#xF3;n, publicado el 11.10.1974, que refundi&#xF3; las normas legales sobre administraci&#xF3;n, tuici&#xF3;n y disposici&#xF3;n de bienes del Estado, reiter&#xF3; la derogaci&#xF3;n de la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1942-11-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1944-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8857025,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7.o. Ll&#xE1;mase a concurso a escritores chilenos para una biograf&#xED;a completa de don Bernardo O&apos;Higgins que comprenda no menos de 500 p&#xE1;ginas oficio, en tipo corriente de m&#xE1;quina a espacio dos.</div><div class=\"p\">&nbsp; &nbsp; En este concurso se asignar&#xE1;n un primer premio de $ 80,00, un segundo premio de $ 40,000 y un tercero de $ 20,000, pudiendo el Jurado declarar desierto uno o dos de los premios, si a su juicio las obras concursantes no lo mereciesen.</div><div class=\"p\">&nbsp; &nbsp; El concurso quedar&#xE1; cerrado el 1.o de Julio de 1944, y el Presidente de la Rep&#xFA;blica destinar&#xE1;, de los fondos que produzca la Colecta Nacional &quot;O&apos;Higgins&quot;, del 20 de Agosto de ese a&#xF1;o, la suma necesaria para cancelar el valor de los premios y los gastos de impresi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El Jurado ser&#xE1; integrado por el Ministro de Educaci&#xF3;n P&#xFA;blica, que lo presidir&#xE1;, y por representantes de la Biblioteca Nacional, Academia Chilena de la Historia, Sociedad Chilena de Historia y Geograf&#xED;a y Academia Chilena de la Lengua.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7.o. Ll&#xE1;mase a concurso a escritores chilenos para una biograf&#xED;a completa de don Bernardo O&apos;Higgins que comprenda no menos de 500 p&#xE1;ginas oficio, en tipo corriente de m&#xE1;quina a espacio dos.</div><div class=\"p\">&nbsp; &nbsp; En este concurso se asignar&#xE1;n un primer premio de $ 80,00, un segundo premio de $ 40,000 y un tercero de $ 20,000, pudiendo el Jurado declarar desierto uno o dos de los premios, si a su juicio las obras concursantes no lo mereciesen.</div><div class=\"p\">&nbsp; &nbsp; El concurso quedar&#xE1; cerrado el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=25652&amp;idParte=5965164&amp;idVersion=1944-08-24\">LEY 7803<br>Art. UNICO<br>D.O. 24.08.1944</a></span>30 de Junio de 1945<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=25739&amp;idParte=5965585&amp;idVersion=1945-06-12\">Ley 8054<br>Art. 1<br>D.O. 12.06.1945</a></span>, y el Presidente de la Rep&#xFA;blica destinar&#xE1;, de los fondos que produzca la Colecta Nacional &quot;O&apos;Higgins&quot;, del 20 de Agosto de ese a&#xF1;o, la suma necesaria para cancelar el valor de los premios y los gastos de impresi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El Jurado ser&#xE1; integrado por el Ministro de Educaci&#xF3;n P&#xFA;blica, que lo presidir&#xE1;, y por representantes de la Biblioteca Nacional, Academia Chilena de la Historia, Sociedad Chilena de Historia y Geograf&#xED;a y Academia Chilena de la Lengua.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1942-06-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1959-06-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999335,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE QUE LOS DECRETOS QUE SE REFIERAN A LAS MATERIAS QUE SE INDICAN, PODRAN SER EXPEDIDOS, DENTRO DE LAS AUTORIZACIONES QUE OTORGUEN LAS LEYES AL PRESIDENTE DE LA REPUBLICA, CON LA SOLA FIRMA DEL MINISTRO DE ESTADO RESPECTIVO</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">DISPONE QUE LOS DECRETOS QUE SE REFIERAN A LAS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> MATERIAS QUE SE INDICAN, PODRAN SER EXPEDIDOS, DENTRO DE LAS AUTORIZACIONES QUE OTORGUEN LAS LEYES AL PRESIDENTE DE LA REPUBLICA, CON LA SOLA FIRMA DEL MINISTRO DE ESTADO RESPECTIVO</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 5&#xBA; de la LEY 13329, publicada el 15.06.1959, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

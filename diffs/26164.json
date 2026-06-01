@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1950-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8860892,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREA EL REGISTRO NACIONAL DE VIAJANTES Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; CREA EL REGISTRO NACIONAL DE VIAJANTES<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  Ver DTO 811, Trabajo, publicado el 14.12.1967, que fija el texto refundido de esta norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1937-02-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1958-08-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8278062,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; SEGURIDAD INTERIOR DEL ESTADO Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; SEGURIDAD INTERIOR DEL ESTADO<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">&nbsp; &nbsp; NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">&nbsp; &nbsp; NOTA:</a> <br>&nbsp; &nbsp; &nbsp; &nbsp;  El art&#xED;culo 39 de la LEY 12927, publicada el 06.08.1958, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

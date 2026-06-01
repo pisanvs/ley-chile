@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1944-08-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-12-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9052061,
+          "old": "<div><div class=\"p\">CREA EL &quot;MUSEO DE AVIACION&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 486.- Santiago, 13 de Julio de 1944.- Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que es necesario formar un Museo de Aviaci&#xF3;n que guarde las reliquias de la Aviaci&#xF3;n Militar y Civil Nacional;</div><div class=\"p\">&nbsp; &nbsp;  Que esta instituci&#xF3;n servir&#xE1; tanto para mantener la historia de la Aviaci&#xF3;n, como para demostrar las etapas de su progreso;</div><div class=\"p\">&nbsp; &nbsp;  Que ello ser&#xE1; un medio de gran valor para estimular el inter&#xE9;s p&#xFA;blico por la Aviaci&#xF3;n Nacional, cuyo desarrollo est&#xE1; tan &#xED;ntimamente relacionado con el adelanto del pa&#xED;s, y </div><div class=\"p\">&nbsp; &nbsp;  Visto lo propuesto por el Comandante en Jefe de la Fuerza A&#xE9;rea en su oficio N.o 2,182, de 5 de Julio de 1944.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">CREA EL &quot;MUSEO NACIONAL AERON&#xC1;UTICO Y DEL ESPACIO&quot;<span class=\"n\" id=\"n_0\">DTO 800, DEFENSA<br>b)<br>D.O. 05.12.1995</span> N&#xFA;m. 486.- Santiago, 13 de Julio de 1944.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que es necesario formar un Museo Nacional Aeron&#xE1;utico y del Espacio que guarde las reliquias de la Aviaci&#xF3;n Militar y Civil Nacional;</div><div class=\"p\">&nbsp; &nbsp;  Que esta instituci&#xF3;n servir&#xE1; tanto para mantener la historia de la Aviaci&#xF3;n, como para demostrar las etapas de su progreso;</div><div class=\"p\">&nbsp; &nbsp;  Que ello ser&#xE1; un medio de gran valor para estimular el inter&#xE9;s p&#xFA;blico por la Aviaci&#xF3;n Nacional, cuyo desarrollo est&#xE1; tan &#xED;ntimamente relacionado con el adelanto del pa&#xED;s, y Visto lo propuesto por el Comandante en Jefe de la Fuerza A&#xE9;rea en su oficio N.o 2,182, de 5 de Julio de 1944.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>"
+        },
+        {
+          "part_id": 9052062,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1) Cr&#xE9;ase el Museo de Aviaci&#xF3;n, con sede en Santiago, que comprender&#xE1; tanto la Aviaci&#xF3;n Militar como la Civil;</div><div class=\"p\">&nbsp; &nbsp;  2) El Museo de Aviaci&#xF3;n depender&#xE1; de la Direcci&#xF3;n de Aeron&#xE1;utica, la que estar&#xE1; encargada de su organizaci&#xF3;n y mantenimiento;</div><div class=\"p\">&nbsp; &nbsp;  3) Se autoriza a la misma Direcci&#xF3;n para recibir las donaciones y erogaciones que se hagan al Museo de Aviaci&#xF3;n, y para destinarlas a su formaci&#xF3;n y desarrollo. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1) Cr&#xE9;ase el Museo Nacional Aeron&#xE1;utico y del<span class=\"n\" id=\"n_1\">DTO 800, DEFENSA<br>a y b)<br>D.O. 05.12.1995</span> Espacio, con sede en Santiago, que comprender&#xE1; tanto la Aviaci&#xF3;n Militar como la Civil y la actividad espacial;</div><div class=\"p\">&nbsp; &nbsp;  2) El Museo Nacional Aeron&#xE1;utico y del Espacio depender&#xE1; de la Direcci&#xF3;n de Aeron&#xE1;utica, la que estar&#xE1; encargada de su organizaci&#xF3;n y mantenimiento;</div><div class=\"p\">&nbsp; &nbsp;  3) Se autoriza a la misma Direcci&#xF3;n para recibir las donaciones y erogaciones que se hagan al Museo Nacional Aeron&#xE1;utico y del Espacio, y para destinarlas a su formaci&#xF3;n y desarrollo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

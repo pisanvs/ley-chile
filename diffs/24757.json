@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1929-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-10-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7169091,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; LEY NUM. 4,558 SOBRE QUIEBRAS Por cuanto el Congreso Nacional ha prestado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; LEY NUM. 4,558 SOBRE QUIEBRAS</div><br><br><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha prestado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

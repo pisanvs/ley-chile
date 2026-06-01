@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1945-11-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-11-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004920,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Ser&#xE1;n considerados como empleados particulares, para los efectos de la previsi&#xF3;n, los profesionales que sirvan de manera continua y a base de sueldo fijo, a dos o m&#xE1;s empleadores, en actividades para cuyo ejercicio se requiera la posesi&#xF3;n de un t&#xED;tulo profesional otorgado o reconocido por la Universidad de Chile.</div><div class=\"p\">&nbsp; &nbsp;  Las personas a que se refiere el inciso anterior ser&#xE1;n consideradas empleados particulares desde la fecha en que hubieren empezado a hacer las imposiciones respectivas en la Caja de Previsi&#xF3;n de Empleados Particulares.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Ser&#xE1;n considerados como empleados particulares, para los efectos de la previsi&#xF3;n, los profesionales que sirvan de manera continua y a base de sueldo fijo, a dos o m&#xE1;s empleadores, en actividades para cuyo ejercicio se requiera la posesi&#xF3;n de un t&#xED;tulo profesional otorgado o reconocido por la Universidad de Chile u otra Universidad reconocida por el Estado o<span class=\"n\" id=\"n_0\">LEY 14241<br>Art. &#xFA;nico<br>D.O. 10.11.1960</span> encontrarse inscrito en los Registros del Colegio de Contadores.</div><div class=\"p\">&nbsp; &nbsp;  Las personas a que se refiere el inciso anterior ser&#xE1;n consideradas empleados particulares desde la fecha en que hubieren empezado a hacer las imposiciones respectivas en la Caja de Previsi&#xF3;n de Empleados Particulares.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

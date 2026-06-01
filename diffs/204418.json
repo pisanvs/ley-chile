@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1946-05-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1969-03-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8842087,
+          "old": "<div><div class=\"p\">APRUEBA EL &quot;REGLAMENTO DE POLICIA MINERA&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 185.- Santiago, 27 de Febrero de 1946.- Visto el oficio N&#xB0; 225, de fecha 14 de Febrero del presente a&#xF1;o, del Departamento de Minas y Petr&#xF3;leo, y teniendo presente lo establecido en el decreto ley N&#xB0; 311, de 9 de Marzo de 1925, y en los art&#xED;culos 109, 244 y 245 del C&#xF3;digo de Miner&#xED;a,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base, el siguiente &quot;Reglamento de Polic&#xED;a Minera&quot;:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA EL &quot;REGLAMENTO DE POLICIA MINERA&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 185.- Santiago, 27 de Febrero de 1946.- Visto el oficio N&#xB0; 225, de fecha 14 de Febrero del presente a&#xF1;o, del Departamento de Minas y Petr&#xF3;leo, y teniendo presente lo establecido en el decreto ley N&#xB0; 311, de 9 de Marzo de 1925, y en los art&#xED;culos 109, 244 y 245 del C&#xF3;digo de Miner&#xED;a,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base, el siguiente &quot;Reglamento de Polic&#xED;a Minera&quot;:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

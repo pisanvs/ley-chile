@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1941-04-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8347959,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.o La calidad de los cementos que se produzcan en el pa&#xED;s o se importen mediante certificados extendidos por el Taller de Ensayes de Resistencia de Materiales de la Universidad de Chile, instituci&#xF3;n que en lo sucesivo se denominar&#xE1; Taller.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.o DEROGADO<span class=\"n\" id=\"n_0\">DTO 243, ECONOMIA<br>Art. 1&#xBA;<br>D.O. 30.09.1995</span> </div></div>"
+        }
+      ]
+    }
+  }
+]

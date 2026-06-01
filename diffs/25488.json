@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1942-11-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1944-11-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7171595,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA A LA MUNICIPALIDAD DE TRAIGUEN PARA CONTRATAR EMPRESTITO POR $ 200,000</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">AUTORIZA A LA MUNICIPALIDAD DE TRAIGUEN PARA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> CONTRATAR EMPRESTITO POR $ 200,000</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 8, de la LEY 7966, publicada el<br>11.11.1944, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

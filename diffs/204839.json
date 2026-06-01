@@ -1,0 +1,86 @@
+[
+  {
+    "fecha": "1943-06-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8796239,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Cr&#xE9;ase el Consejo Superior de la H&#xED;pica Nacional, que se compondr&#xE1;:</div><div class=\"p\">&nbsp; &nbsp;  a) De un representante del Presidente de la Rep&#xFA;blica;</div><div class=\"p\">&nbsp; &nbsp;  b) Del presidente de Consejo Nacional de Fomento Equino;</div><div class=\"p\">&nbsp; &nbsp;  c) De cinco representantes designados por cada uno de los Directorios de las siguientes instituciones:</div><div class=\"p\">&nbsp; &nbsp;  Club H&#xED;pico de Santiago, Hip&#xF3;dromo Chile, Valpara&#xED;so Sporting Club, Sociedad de Criadores de Caballos F. S. de Carrera y Asociaci&#xF3;n de Propietarios de Caballos F. S. de Carrera;</div><div class=\"p\">&nbsp; &nbsp;  d) De un representante de preparadores y jinetes, elegidos por ellos mismos, en la forma que determine un reglamento que dictar&#xE1; el Consejo dentro del plazo de treinta d&#xED;as.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Cr&#xE9;ase el Consejo Superior de la</div><div class=\"p\">H&#xED;pica Nacional, que se compondr&#xE1;:</div><div class=\"p\">&nbsp; &nbsp;  a) De un representante del Presidente de la</div><div class=\"p\">Rep&#xFA;blica;</div><div class=\"p\">&nbsp; &nbsp;  b) Del presidente de Consejo Nacional de Fomento</div><div class=\"p\">Equino;</div><div class=\"p\">&nbsp; &nbsp;  c) De un representante del Cuerpo de Carabineros<span class=\"n\" id=\"n_0\">DTO 2382, HACIENDA<br>a y b)<br>D.O. 09.01.1974</span></div><div class=\"p\">de Chile, designado por su Director General;</div><div class=\"p\">&nbsp; &nbsp;  d) De cinco representantes designados por cada uno</div><div class=\"p\">de los Directorios de las siguientes instituciones:</div><div class=\"p\">&nbsp; &nbsp;  Club H&#xED;pico de Santiago, Hip&#xF3;dromo Chile,</div><div class=\"p\">Valpara&#xED;so Sporting Club, Asociaci&#xF3;n Gremial de<span class=\"n\" id=\"n_1\">DTO 1214, HACIENDA<br>D.O. 08.01.1993</span></div><div class=\"p\">Criadores de Caballos F.S. de Carrera de Chile</div><div class=\"p\">y Asociaci&#xF3;n de Propietarios de Caballos F. S.</div><div class=\"p\">de Carrera;</div><div class=\"p\">&nbsp; &nbsp;  f) De un representante de preparadores y jinetes,</div><div class=\"p\">elegidos por ellos mismos, en la forma que determine un</div><div class=\"p\">reglamento que dictar&#xE1; el Consejo dentro del plazo de</div><div class=\"p\">treinta d&#xED;as.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-04-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8796239,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Cr&#xE9;ase el Consejo Superior de la</div><div class=\"p\">H&#xED;pica Nacional, que se compondr&#xE1;:</div><div class=\"p\">&nbsp; &nbsp;  a) De un representante del Presidente de la</div><div class=\"p\">Rep&#xFA;blica;</div><div class=\"p\">&nbsp; &nbsp;  b) Del presidente de Consejo Nacional de Fomento</div><div class=\"p\">Equino;</div><div class=\"p\">&nbsp; &nbsp;  c) De un representante del Cuerpo de Carabineros<span class=\"n\" id=\"n_0\">DTO 2382, HACIENDA<br>a y b)<br>D.O. 09.01.1974</span></div><div class=\"p\">de Chile, designado por su Director General;</div><div class=\"p\">&nbsp; &nbsp;  d) De cinco representantes designados por cada uno</div><div class=\"p\">de los Directorios de las siguientes instituciones:</div><div class=\"p\">&nbsp; &nbsp;  Club H&#xED;pico de Santiago, Hip&#xF3;dromo Chile,</div><div class=\"p\">Valpara&#xED;so Sporting Club, Asociaci&#xF3;n Gremial de<span class=\"n\" id=\"n_1\">DTO 1214, HACIENDA<br>D.O. 08.01.1993</span></div><div class=\"p\">Criadores de Caballos F.S. de Carrera de Chile</div><div class=\"p\">y Asociaci&#xF3;n de Propietarios de Caballos F. S.</div><div class=\"p\">de Carrera;</div><div class=\"p\">&nbsp; &nbsp;  f) De un representante de preparadores y jinetes,</div><div class=\"p\">elegidos por ellos mismos, en la forma que determine un</div><div class=\"p\">reglamento que dictar&#xE1; el Consejo dentro del plazo de</div><div class=\"p\">treinta d&#xED;as.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Cr&#xE9;ase el Consejo Superior de la<span class=\"n\" id=\"n_0\">DTO 211, HACIENDA<br>A<br>D.O. 30.04.2003</span> H&#xED;pica Nacional, que se compondr&#xE1;:</div><div class=\"p\">a)&nbsp;  De un representante del Presidente de la Rep&#xFA;blica, quien lo presidir&#xE1;,</div><br><div class=\"p\">b)&nbsp;  De seis representantes designados por cada uno de los Directorios de las siguientes instituciones:</div><br><div class=\"p\">&nbsp; &nbsp;  - Club H&#xED;pico de Santiago,</div><div class=\"p\">&nbsp; &nbsp;  - Hip&#xF3;dromo de Chile,</div><div class=\"p\">&nbsp; &nbsp;  - Valpara&#xED;so Sporting Club,</div><div class=\"p\">&nbsp; &nbsp;  - Criadores Fina Sangre de Carrera S.A.,</div><div class=\"p\">&nbsp; &nbsp;  - C&#xED;rculo de Due&#xF1;os de F.S. de Carrera A.G.</div><div class=\"p\">&nbsp; &nbsp;  - Asociaci&#xF3;n de Propietarios de Caballos de Carrera AG, y</div><br><div class=\"p\">c)&nbsp;  De dos representantes, uno por cada actividad, de los gremios de&nbsp; preparadores y jinetes, elegidos por ellos mismos en la forma que determine un reglamento que dictar&#xE1; el Consejo dentro del plazo de treinta d&#xED;as.</div><br></div>"
+        },
+        {
+          "part_id": 8796240,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o Los miembros del Consejo desempe&#xF1;ar&#xE1;n sus funciones ad honores durar&#xE1;n dos a&#xF1;os en sus cargos, pudiendo ser reelegidos y designar&#xE1;n de entre ellos un presidente, que tendr&#xE1; voto decisivo en caso de empate.</div><div class=\"p\">&nbsp; &nbsp;  El Consejo sesionar&#xE1; con una asistencia no inferior a cinco de sus miembros, y sus acuerdos se adoptar&#xE1;n por mayor&#xED;a de votos.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Los miembros del Consejo no tendr&#xE1;n<span class=\"n\" id=\"n_1\">DTO 211, HACIENDA<br>B<br>D.O. 30.04.2003</span> derecho a dieta por asistencia a las sesiones del Consejo y durar&#xE1;n dos a&#xF1;os en sus cargos. El Consejo sesionar&#xE1; con una asistencia no inferior a cinco de sus miembros y sus acuerdos se adoptar&#xE1;n por mayor&#xED;a de votos. En caso de empate dirimir&#xE1; el Presidente.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2004-12-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8796239,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Cr&#xE9;ase el Consejo Superior de la<span class=\"n\" id=\"n_0\">DTO 211, HACIENDA<br>A<br>D.O. 30.04.2003</span> H&#xED;pica Nacional, que se compondr&#xE1;:</div><div class=\"p\">a)&nbsp;  De un representante del Presidente de la Rep&#xFA;blica, quien lo presidir&#xE1;,</div><br><div class=\"p\">b)&nbsp;  De seis representantes designados por cada uno de los Directorios de las siguientes instituciones:</div><br><div class=\"p\">&nbsp; &nbsp;  - Club H&#xED;pico de Santiago,</div><div class=\"p\">&nbsp; &nbsp;  - Hip&#xF3;dromo de Chile,</div><div class=\"p\">&nbsp; &nbsp;  - Valpara&#xED;so Sporting Club,</div><div class=\"p\">&nbsp; &nbsp;  - Criadores Fina Sangre de Carrera S.A.,</div><div class=\"p\">&nbsp; &nbsp;  - C&#xED;rculo de Due&#xF1;os de F.S. de Carrera A.G.</div><div class=\"p\">&nbsp; &nbsp;  - Asociaci&#xF3;n de Propietarios de Caballos de Carrera AG, y</div><br><div class=\"p\">c)&nbsp;  De dos representantes, uno por cada actividad, de los gremios de&nbsp; preparadores y jinetes, elegidos por ellos mismos en la forma que determine un reglamento que dictar&#xE1; el Consejo dentro del plazo de treinta d&#xED;as.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Cr&#xE9;ase el Consejo Superior de la<span class=\"n\" id=\"n_0\">DTO 211, HACIENDA<br>A<br>D.O. 30.04.2003</span> H&#xED;pica Nacional, que se compondr&#xE1;:</div><div class=\"p\">a)&nbsp;  De un representante del Presidente de la Rep&#xFA;blica, quien lo presidir&#xE1;,</div><div class=\"p\">b)&nbsp;  Del Director General de Fomento Equino y<span class=\"n\" id=\"n_1\">DTO 952, HACIENDA<br>D.O. 29.12.2004</span> Remonta del Ej&#xE9;rcito,</div><div class=\"p\">c)&nbsp;  De seis representantes designados por cada uno de los Directorios de las siguientes instituciones:</div><br><div class=\"p\">&nbsp; &nbsp;  - Club H&#xED;pico de Santiago,</div><div class=\"p\">&nbsp; &nbsp;  - Hip&#xF3;dromo de Chile,</div><div class=\"p\">&nbsp; &nbsp;  - Valpara&#xED;so Sporting Club,</div><div class=\"p\">&nbsp; &nbsp;  - Criadores Fina Sangre de Carrera S.A.,</div><div class=\"p\">&nbsp; &nbsp;  - C&#xED;rculo de Due&#xF1;os de F.S. de Carrera A.G.</div><div class=\"p\">&nbsp; &nbsp;  - Asociaci&#xF3;n de Propietarios de Caballos de</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  Carrera AG, y</div><br><div class=\"p\">d)&nbsp;  De dos representantes, uno por cada actividad, de los gremios de&nbsp; preparadores y jinetes, elegidos por ellos mismos en la forma que determine un reglamento que dictar&#xE1; el Consejo dentro del plazo de treinta d&#xED;as.</div><br></div>"
+        },
+        {
+          "part_id": 8796240,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Los miembros del Consejo no tendr&#xE1;n<span class=\"n\" id=\"n_1\">DTO 211, HACIENDA<br>B<br>D.O. 30.04.2003</span> derecho a dieta por asistencia a las sesiones del Consejo y durar&#xE1;n dos a&#xF1;os en sus cargos. El Consejo sesionar&#xE1; con una asistencia no inferior a cinco de sus miembros y sus acuerdos se adoptar&#xE1;n por mayor&#xED;a de votos. En caso de empate dirimir&#xE1; el Presidente.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Los miembros del Consejo no tendr&#xE1;n<span class=\"n\" id=\"n_2\">DTO 211, HACIENDA<br>B<br>D.O. 30.04.2003</span> derecho a dieta por asistencia a las sesiones del Consejo y durar&#xE1;n dos a&#xF1;os en sus cargos. El Consejo sesionar&#xE1; con una asistencia no inferior a cinco de sus miembros y sus acuerdos se adoptar&#xE1;n por mayor&#xED;a de votos. En caso de empate dirimir&#xE1; el Presidente.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-08-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8796241,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.o Son atribuciones y deberes del Consejo:</div><div class=\"p\">&nbsp; &nbsp;  a) Asesorar al Ministerio de Hacienda en el cumplimiento de la obligaci&#xF3;n se&#xF1;alada en el art&#xED;culo 5.o de la ley N.o 5,055, de 12 de Febrero de 1932.</div><div class=\"p\">&nbsp; &nbsp;  b) Informar al Gobierno sobre las reformas legales que se propongan y digan relaci&#xF3;n a las leyes porque se rigen los Hip&#xF3;dromos.</div><div class=\"p\">&nbsp; &nbsp;  c) Modificar el Reglamento de Carreras.</div><div class=\"p\">&nbsp; &nbsp;  d) Interpretar el Reglamento de Carreras cuando fuere requerido en tal sentido por algunos de los componentes del Consejo. El Consejo no tendr&#xE1; intervenci&#xF3;n en la administraci&#xF3;n particular de cada una de las instituciones h&#xED;picas, funciones que corresponden en conformidad a la ley y a sus estatutos a los respectivos Directorios.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.o Son atribuciones y deberes del Consejo:</div><div class=\"p\">&nbsp; &nbsp;  a) Asesorar al Ministerio de Hacienda en el cumplimiento de la obligaci&#xF3;n se&#xF1;alada en el art&#xED;culo 5.o de la ley N.o 5,055, de 12 de Febrero de 1932.</div><div class=\"p\">&nbsp; &nbsp;  b) Informar al Ministerio<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1053552&amp;idParte=9369361&amp;idVersion=2013-08-12\">Decreto 604, HACIENDA<br>Art. 1 a)<br>D.O. 12.08.2013</a></span> de Hacienda sobre las reformas legales que se propongan y digan relaci&#xF3;n a las leyes porque se rigen los Hip&#xF3;dromos.</div><div class=\"p\">&nbsp; &nbsp;  c) Proponer modificaciones al Reglamento de Carreras.</div><div class=\"p\">&nbsp; &nbsp;  d) Interpretar el Reglamento de Carreras cuando fuere requerido en tal sentido por algunos de los componentes del Consejo. El Consejo no tendr&#xE1; intervenci&#xF3;n en la administraci&#xF3;n particular de cada una de las instituciones h&#xED;picas, funciones que corresponden en conformidad a la ley y a sus estatutos a los respectivos Directorios.</div><br><br></div>"
+        },
+        {
+          "part_id": 8796242,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.o Las modificaciones al Reglamento de Carreras ser&#xE1;n publicadas en el Diario Oficial y comenzar&#xE1;n a regir un mes despu&#xE9;s de su publicaci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1053552&amp;idParte=9369361&amp;idVersion=2013-08-12\">Decreto 604, HACIENDA<br>Art. 1 b)<br>D.O. 12.08.2013</a></span>&nbsp; &nbsp;  Art&#xED;culo 4.o Las modificaciones al Reglamento de Carreras ser&#xE1;n publicadas en el Diario Oficial y comenzar&#xE1;n a regir un mes despu&#xE9;s de su publicaci&#xF3;n, salvo que se se&#xF1;alare algo diferente. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1053552,
+      "fecha": "2013-08-12"
+    }
+  }
+]

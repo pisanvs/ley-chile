@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1943-01-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1954-06-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8765076,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Los obreros que presten sus servicios en las Municipalidades de la Rep&#xFA;blica, que cesen en sus funciones por causas ajenas a su voluntad y siempre que el acuerdo del alcalde o Corporaci&#xF3;n respectiva no est&#xE9; basado en la comisi&#xF3;n de delitos comunes, ni faltas en el desempe&#xF1;o de las funciones del obrero, comprobadas previa substanciaci&#xF3;n de un sumario administrativo, tendr&#xE1;n derecho a un desahucio correspondiente a treinta d&#xED;as de jornal por cada a&#xF1;o servido o fracci&#xF3;n de tiempo no inferior a seis meses, comput&#xE1;ndose a los beneficiados el tiempo servido anteriormente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.<span class=\"n\" id=\"n_0\">LEY 11531<br>ART 1&#xB0;</span></div><div class=\"p\">&nbsp; &nbsp; Los obreros que presten sus servicios en las Municipalidades de la Rep&#xFA;blica, que cesen en sus funciones por cualquier causa que no sea la comisi&#xF3;n de delitos comunes ni faltas en el desempe&#xF1;o de sus funciones, comprobadas previa substanciaci&#xF3;n de un sumario administrativo, tendr&#xE1;n derecho a un desahucio correspondiente a 30 d&#xED;as de jornal por a&#xF1;o servido o fracci&#xF3;n de tiempo no inferior a 6 meses, comput&#xE1;ndose a los beneficiados el tiempo servido con anterioridad. En caso de fallecimiento, percibir&#xE1;n el desahucio correspondiente sus herederos.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

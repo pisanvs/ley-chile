@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1944-11-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1967-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999368,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1.&#xB0; La disposici&#xF3;n del art&#xED;culo 7.&#xB0; del decreto con fuerza de ley N.&#xB0; 3,650, de 28 de mayo de 1927, se aplicar&#xE1; al personal de todos los servicios afectos al r&#xE9;gimen de la Caja de Previsi&#xF3;n de Carabineros.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1.&#xB0; La disposici&#xF3;n del art&#xED;culo 7.&#xB0; del decreto con fuerza de ley N.&#xB0; 3,650, de 28 de mayo de 1927, se aplicar&#xE1; al personal de todos los servicios afectos al r&#xE9;gimen de la Caja de Previsi&#xF3;n de Carabineros, con excepci&#xF3;n del personal del Servicio<span class=\"n\" id=\"n_0\">LEY 16468<br>Art. 32 a)<br>D.O. 03.05.1966<br>LEY 16468<br>Art. 32 b)<br>D.O. 03.05.1966</span> de Prisiones.</div><br><div class=\"p\">&nbsp; &nbsp; Sin embargo, este &#xFA;ltimo personal estar&#xE1; obligado a contratar un seguro de vida en su propia Mutualidad, de acuerdo a las condiciones que se contemplen en un reglamento que deber&#xE1; dictar el Presidente de l<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div>a Rep&#xFA;blica dentro del plazo de ciento veinte d&#xED;as, contado desde la fecha de vigencia de la presente ley.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  Por el art&#xED;culo 224 de la LEY 16617, publicada el 31.01.1967 se ampl&#xED;a hasta el 1&#xB0; de julio de 1967 el plazo se&#xF1;alado en este art&#xED;culo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

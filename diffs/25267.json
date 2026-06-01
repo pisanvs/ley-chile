@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1937-02-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1942-10-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7170761,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MEJORA LA SITUACION ECONOMICA DE LOS EMPLEADOS PARTICULARES</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n del siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO LEY:</div><div class=\"p\">&nbsp; &nbsp; Del sueldo vital y de las Comisiones Mixtas de Sueldos </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  MEJORA LA SITUACION ECONOMICA DE LOS EMPLEADOS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> PARTICULARES</div><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n del siguiente</div><div class=\"p\">&nbsp; &nbsp;  PROYECTO LEY:</div><div class=\"p\">&nbsp; &nbsp;  Del sueldo vital y de las Comisiones Mixtas de Sueldos</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Ver texto definitivo en LEY 7295, publicada el 22.10.1942, que fij&#xF3; el texto refundido de esta ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

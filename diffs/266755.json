@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1941-09-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1942-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7359105,
+          "old": "<div><div class=\"p\">MODIFICA EL ART. 32 DEL REGLAMENTO ORGANICO DE LA CAJA DE RETIROS Y DE PREVISION SOCIAL DE LOS FERROCARRILES DEL ESTADO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1,863.- Santiago, 25 de Agosto de 1941.- Vistos estos antecedentes, y lo informado por el Departamento de Ferrocarriles del Ministerio de Fomento en nota N.o 1,411, de 13 de Agosto en curso,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA EL ART. 32 DEL REGLAMENTO ORGANICO DE LA CAJA DE RETIROS Y DE PREVISION SOCIAL DE LOS FERROCARRILES DEL ESTADO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1,863.- Santiago, 25 de Agosto de 1941.- Vistos estos antecedentes, y lo informado por el Departamento de Ferrocarriles del Ministerio de Fomento en nota N.o 1,411, de 13 de Agosto en curso,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1963-01-12",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1979-01-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9041727,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MINISTERIO DEL INTERIOR APRUEBA EL REGLAMENTO ORGANICO DEL SERVICIO DE INVESTIGACIONES</div><div class=\"p\">&nbsp; &nbsp; (PUBLICADO EN EL &quot;DIARIO OFICIAL&quot; N&#xB0; 20.009, de 17 de noviembre de 1944).</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 3.738.- Santiago, 25 de Septiembre de 1944.- Vistos estos antecedentes, y teniendo presente lo informado por la Direcci&#xF3;n General de Investigaciones, en oficio N.o 2,645, de 30 de Agosto pr&#xF3;ximo pasado.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el adjunto Reglamento Org&#xE1;nico del Servicio de Investigaciones.</div><div class=\"p\">&nbsp; &nbsp; Una copia de &#xE9;l, autorizada por el Subsecretario del Interior, se publicar&#xE1; en el Diario Oficial, conjuntamente con el presente decreto.</div><div class=\"p\">&nbsp; &nbsp; T&#xF3;mese raz&#xF3;n, comun&#xED;quese, publ&#xED;quese e ins&#xE9;rtese en el Bolet&#xED;n de Leyes y Decretos del Gobierno.- J. A. RIOS M.- Osvaldo Hiriart.</div><div class=\"p\">&nbsp; &nbsp; REGLAMENTO ORGANICO DEL SERVICIO DE INVESTIGACIONES DE LA REPUBLICA DE CHILE </div></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

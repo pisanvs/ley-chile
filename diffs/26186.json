@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1950-07-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999637,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA EL TEXTO DE LA NUEVA LEY DE PELUQUEROS Por cuanto el Congreso Nacional ha prestado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA EL TEXTO DE LA NUEVA LEY DE PELUQUEROS Por cuanto el Congreso Nacional ha prestado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo 2 de la LEY 18018, publicada el 14.08.1981, derog&#xF3; la presente Ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

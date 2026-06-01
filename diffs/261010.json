@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1940-08-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1972-06-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9006057,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Art&#xED;culo 14. Son atribuciones del jefe de</div><div class=\"p\">&nbsp; &nbsp;  la plaza:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; a) Asegurar la cooperaci&#xF3;n de las</div><div class=\"p\">&nbsp; &nbsp;  autoridades de las fuerzas puestas bajo sus &#xF3;rdenes -comandante de la guarnici&#xF3;n militar, jefe de las fuerzas navales, jefe de la repartici&#xF3;n a&#xE9;rea (unidad, puerto o posta), Prefectura de Carabineros -y mantener a estas autoridades al corriente de todo aquello que pueda influir en el desempe&#xF1;o de sus</div><div class=\"p\">&nbsp; &nbsp;  obligaciones;</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b) Dictar las &#xF3;rdenes e instrucciones</div><div class=\"p\">&nbsp; &nbsp;  relacionadas con el acuartelamiento de las fuerzas, el servicio de guardias de rondas de la plaza, etc.;</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; c) Tomar, de acuerdo con las autoridades</div><div class=\"p\">&nbsp; &nbsp;  bajo sus &#xF3;rdenes, las medidas que estime necesarias para mantener un enlace seguro de dichas autoridades entre ellas y con el jefe de la plaza;</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; d) Disponer lo que estime conveniente para</div><div class=\"p\">&nbsp; &nbsp;  asegurar el r&#xE1;pido traslado de las fuerzas bajo sus &#xF3;rdenes, o de parte de ellas, a los lugares en que puede ser necesaria su intervenci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; e) Dar cuenta diariamente a la autoridad</div><div class=\"p\">&nbsp; &nbsp;  administrativa de las novedades que hubieren ocurrido dentro de la plaza.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14. Son atribuciones del jefe de la plaza:</div><div class=\"p\">&nbsp; &nbsp;  a) Asegurar la cooperaci&#xF3;n de las autoridades de las fuerzas puestas bajo sus &#xF3;rdenes -comandante de la guarnici&#xF3;n militar, jefe de las fuerzas navales, jefe de la repartici&#xF3;n a&#xE9;rea (unidad, puerto o posta), Prefectura de Carabineros -y mantener a estas autoridades al corriente de todo aquello que pueda influir en el desempe&#xF1;o de sus obligaciones;</div><div class=\"p\">&nbsp; &nbsp;  b) Dictar las &#xF3;rdenes e instrucciones relacionadas con el acuartelamiento de las fuerzas, el servicio de guardias de rondas de la plaza, etc.;</div><div class=\"p\">&nbsp; &nbsp;  c) Tomar, de acuerdo con las autoridades bajo sus &#xF3;rdenes, las medidas que estime necesarias para mantener un enlace seguro de dichas autoridades entre ellas y con el jefe de la plaza;</div><div class=\"p\">&nbsp; &nbsp;  d) Disponer lo que estime conveniente para asegurar el r&#xE1;pido traslado de las fuerzas bajo sus &#xF3;rdenes, o de parte de ellas, a los lugares en que puede ser necesaria su intervenci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  e) Dar cuenta diariamente a la autoridad administrativa de las novedades que hubieren ocurrido dentro de la plaza.</div><div class=\"p\">&nbsp; &nbsp;  f).- Si la designaci&#xF3;n comprendiere una zona<span class=\"n\" id=\"n_0\">DTO 245, DEFENSA<br>D.O. 24.06.1972</span> jurisdiccional en que existen fuerzas distribuidas en varias guarniciones puestas bajo su mando, delegar&#xE1; sus atribuciones en cada uno de los Comandantes de Unidades Bases o Reparticiones que se encuentran fuera del lugar asiento de la Comandancia General de Guarnici&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

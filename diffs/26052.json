@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1949-09-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9043246,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ADOPTA LAS RESOLUCIONES QUE INDICA RELACIONADAS CON EL PERSONAL DE NOTARIAS Y CONSERVADORES DE BIENES RAICES Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ADOPTA LAS RESOLUCIONES QUE INDICA RELACIONADAS CON</div><div class=\"p\"> EL PERSONAL DE NOTARIAS Y CONSERVADORES DE BIENES RAICES</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DEROGADA.-<span class=\"n\" id=\"n_0\">LEY 19390,<br>Art.2&#xB0;</span></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 2</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El Art&#xED;culo 2&#xB0; de la Ley N&#xB0; 19.390, publicada en el &quot;Diario Oficial&quot; de 30 de Mayo de 1995, derog&#xF3; la presente ley.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El texto de esta ley derogada se encuentra en una cinta de normas derogadas BDTO.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

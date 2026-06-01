@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1942-12-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999349,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA REMUNERACION ESPECIAL A GARZONES Y CAMAREROS ENCARGADOS DE ATENDER DIRECTAMENTE AL PUBLICO EN HOTELES, RESTORANES, ETC.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA REMUNERACION ESPECIAL A GARZONES Y CAMAREROS ENCARGADOS DE ATENDER DIRECTAMENTE AL PUBLICO EN HOTELES, RESTORANES, ETC.</div><br><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

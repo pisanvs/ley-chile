@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1932-06-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1932-07-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7320047,
+          "old": "<div><div class=\"p\">DECRETO-LEY NUM. 39</div><br><div class=\"p\">Complementa el decreto-ley N.o 12, sobre dep&#xF3;sitos en moneda extranjera</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 39.- Santiago, Junio 16 de 1932.- La Junta de Gobierno ha acordado y dicta el siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto-ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">DECRETO-LEY NUM. 39<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"p\">Complementa el decreto-ley N.o 12, sobre dep&#xF3;sitos en moneda extranjera</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 39.- Santiago, Junio 16 de 1932.- La Junta de Gobierno ha acordado y dicta el siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto-ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 1&#xBA; del DL 311, Hacienda, publicado el 28.07.1932, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

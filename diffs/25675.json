@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1944-09-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1961-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999362,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA EL DECRETO N.o 4,111, DE 1931, SOBRE DIVISION DE COMUNIDADES INDIGENAS</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; MODIFICA EL DECRETO N.o 4,111, DE 1931, SOBRE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> DIVISION DE COMUNIDADES INDIGENAS</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 105 de la LEY 14511, publicada el 03.01.1961, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

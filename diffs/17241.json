@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1943-08-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8996491,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 31. El arquitecto que haya sido declarado reo por los Tribunales de Justicia por resoluci&#xF3;n ejecutoriada por alguno de los delitos que tenga como pena principal o accesoria la inhabilitaci&#xF3;n para profesiones titulares, quedar&#xE1; de hecho suspendido del ejercicio de la profesi&#xF3;n por todo el tiempo que dure el juicio y hasta que recaiga en &#xE9;l sentencia que le ponga t&#xE9;rmino.</div><div class=\"p\">&nbsp; &nbsp; Si la sentencia fuere absolutoria o de sobreseimiento, quedar&#xE1; de hecho terminada la suspensi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; En caso contrario, la suspensi&#xF3;n durar&#xE1; el tiempo de la condena, salvo la excepci&#xF3;n del art&#xED;culo siguiente.</div><div class=\"p\">&nbsp; &nbsp; La resoluci&#xF3;n judicial que declare reo al arquitecto ser&#xE1; comunicada de oficio por el Tribunal al Consejo General.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art. 31. El arquitecto que haya sido declarado reo<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> por los Tribunales de Justicia por resoluci&#xF3;n ejecutoriada por alguno de los delitos que tenga como pena principal o accesoria la inhabilitaci&#xF3;n para profesiones titulares, quedar&#xE1; de hecho suspendido del ejercicio de la profesi&#xF3;n por todo el tiempo que dure el juicio y hasta que recaiga en &#xE9;l sentencia que le ponga t&#xE9;rmino.</div><div class=\"p\">&nbsp; &nbsp; Si la sentencia fuere absolutoria o de sobreseimiento, quedar&#xE1; de hecho terminada la suspensi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; En caso contrario, la suspensi&#xF3;n durar&#xE1; el tiempo de la condena, salvo la excepci&#xF3;n del art&#xED;culo siguiente.</div><div class=\"p\">&nbsp; &nbsp; La resoluci&#xF3;n judicial que declare reo al arquitecto ser&#xE1; comunicada de oficio por el Tribunal al Consejo General.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>"
+        }
+      ]
+    }
+  }
+]
