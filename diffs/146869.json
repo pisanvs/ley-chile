@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-04-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8352702,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA BRISAMAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA BRISAMAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

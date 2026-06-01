@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-08-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8338764,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA CONSTlTUCION LIMITADA PARA INICIAR ACTIVIDADES </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA CONSTITUCION LIMITADA PARA INICIAR ACTIVIDADES</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

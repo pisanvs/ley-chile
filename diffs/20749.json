@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-06-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-11-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8950615,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO N&#xB0; 233 EXENTO, DE 1996 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO N&#xB0; 233 EXENTO, DE 1996 </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

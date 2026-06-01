@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-12-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6026801,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DELEGA EN EL JEFE DE LA OFICINA JURIDICA REGIONAL LAS FUNCIONES QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">DELEGA EN EL JEFE DE LA OFICINA JURIDICA REGIONAL LAS FUNCIONES QUE SE&#xD1;ALA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

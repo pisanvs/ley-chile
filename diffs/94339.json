@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-03-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8324752,
+          "old": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1;IA PESQUERA MEDITERRANEO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS, DENIEGA AUTORIZACIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1;IA PESQUERA MEDITERRANEO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS, DENIEGA AUTORIZACIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

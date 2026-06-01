@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-01-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8835484,
+          "old": "<div><div class=\"p\">APRUEBA &quot;ORDENANZA LOCAL SOBRE DICHOS MUNICIPALES POR CONCESIONES, PERMISOS Y SERVICIOS&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 48.- Valpara&#xED;so, 12 de Enero de 1987.- Vistos: La resoluci&#xF3;n No. 1.050 de la Contralor&#xED;a General de la Rep&#xFA;blica de 1980; el decreto ley No. 1.289 de 1975; el Decreto Supremo No. 621 del Ministerio del Interior de 21 de Julio de 1978; y en m&#xED; calidad de Alcaide de la I. Municipalidad de Valpara&#xED;so,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la siguiente &quot;Ordenanza Local sobre Derechos Municipales por Concesiones, Permisos y Servicios&quot;.</div><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA &quot;ORDENANZA LOCAL SOBRE DICHOS MUNICIPALES POR<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> CONCESIONES, PERMISOS Y SERVICIOS&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 48.- Valpara&#xED;so, 12 de Enero de 1987.- Vistos: La resoluci&#xF3;n No. 1.050 de la Contralor&#xED;a General de la Rep&#xFA;blica de 1980; el decreto ley No. 1.289 de 1975; el Decreto Supremo No. 621 del Ministerio del Interior de 21 de Julio de 1978; y en m&#xED; calidad de Alcaide de la I. Municipalidad de Valpara&#xED;so,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la siguiente &quot;Ordenanza Local sobre Derechos Municipales por Concesiones, Permisos y Servicios&quot;.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 11 del DTO 148, M. de Valpara&#xED;so, publicado el 30.01.1988, deroga la presente norma a contar del 18 de enero de 1988.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

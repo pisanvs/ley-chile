@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-04-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8355757,
+          "old": "<div><div class=\"p\">AUTORIZA A DON LUIS ESBERTO ANDRADE PINTO PARA AMPLIAR ACTIVIDADES PESQUERAS Y DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON LUIS ESBERTO ANDRADE PINTO PARA AMPLIAR ACTIVIDADES PESQUERAS Y DENIEGA AUTORIZACION QUE INDICA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

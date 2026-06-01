@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1972-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8866106,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- Los organismos de cr&#xE9;dito, Banco del Estado, bancos particulares, Junta de Adelanto de Arica, Corporaci&#xF3;n de Magallanes e Institutos Corfo Aysen y Chilo&#xE9;, abrir&#xE1;n, dentro de noventa d&#xED;as de publicada esta ley, una l&#xED;nea de cr&#xE9;dito especial a los profesores del pa&#xED;s para que puedan adquirir un veh&#xED;culo motorizado para su movilizaci&#xF3;n. El referido veh&#xED;culo no podr&#xE1; tener m&#xE1;s de 1.500 cent&#xED;metros c&#xFA;bicos de cilindrada y el pr&#xE9;stamo podr&#xE1; alcanzar hasta el 70% del valor de &#xE9;ste, al inter&#xE9;s bancario y a un plazo no inferior a 24 meses.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- DEROGADO.-<span class=\"n\" id=\"n_0\">LEY 18903<br>Art. &#xFA;nico,<br>4.-</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

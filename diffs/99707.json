@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-05-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8330349,
+          "old": "<div><br><div class=\"p\">AUTORIZA A DO&#xD1;A MARIA MACARENA LERIA CASANELLO PARA INICIAR</div><div class=\"p\"> ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MARIA MACARENA LERIA CASANELLO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

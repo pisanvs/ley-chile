@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-09-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-08-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325981,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA. DEROGA PARCIALMENTE RESOLUCION QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA. DEROGA PARCIALMENTE RESOLUCION QUE SE&#xD1;ALA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

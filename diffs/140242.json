@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1988-05-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-06-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6181307,
+          "old": null,
+          "new": "<div><div class=\"p\">FIJA OBLIGACIONES DE NOTARIOS QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp;  Santiago, 03 de Mayo de 1988.- Hoy se ha resuelto lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.106 exenta.- Vistos: Lo dispuesto en los Art. 6&#xB0; Letra A) No. 1 y 76&#xB0; del C&#xF3;digo Tributario; y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;) El Art&#xED;culo 2&#xB0; de la Ley No. 17.990 del 04 de Mayo de 1981, establece: &quot;Los notarios y los conservadores de bienes ra&#xED;ces estar&#xE1;n obligados a proporcionar al Servicio de Impuestos Internos la informaci&#xF3;n que &#xE9;ste les exija respecto de las transferencias de bienes ra&#xED;ces en la forma, plazo y condiciones que el Director Nacional de dicho organismo determine. El incumplimiento de esta obligaci&#xF3;n ser&#xE1; sancionada seg&#xFA;n lo previsto en el No. 1 del art&#xED;culo 97&#xB0; del C&#xF3;digo Tributario&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;) Al respecto, la Circular No. 30 de 1981 de este Servicio instruy&#xF3; que: &quot;Los notarios deben poner en conocimiento del Servicio de Impuestos Internos, a m&#xE1;s tardar el d&#xED;a 10 de cada mes, los antecedentes solicitados en el formulario No. 5198 que el Servicio pondr&#xE1; a disposici&#xF3;n de los interesados, respecto de los contratos que sirvan para transferir el dominio de bienes ra&#xED;ces autorizados por dichos funcionarios en el mes precedente. B&#xE1;sicamente estos antecedentes consistir&#xE1;n en la individualizaci&#xF3;n del comprador y su RUT, comuna y n&#xFA;mero de rol del predio transferido, precio, valor al contado y fecha de otorgamiento de la escritura.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;) Para una adecuada informaci&#xF3;n a este Servicio se hace necesario especificar la forma de entregar algunos antecedentes dispuestos en el formulario No. 5198.</div><div class=\"p\">&nbsp; &nbsp;  Vistos, adem&#xE1;s lo establecido en el Art. 6&#xB0;, letra A) No. 4 y en el art&#xED;culo 97 No. 1 del C&#xF3;digo Tributario.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

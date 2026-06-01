@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6265417,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA SAN JORGE LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA SAN JORGE LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

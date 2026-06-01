@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-01-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8932318,
+          "old": "<div><div class=\"p\">MODIFICA NOMINACION DE LOS MIEMBROS TITULARES Y SUPLENTES DEL CONSEJO ZONAL DE PESCA DE LA XII REGION Y ANTARTICA CHILENA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 765.- Santiago, 15 de Diciembre de 1995.- Visto: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; la Ley N&#xB0; 18.892 y sus modificaciones, cuyo texto refundido se halla contenido en el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el D.S. N&#xB0; 453 y N&#xB0; 683, ambos de 1992, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Carta de la Asociaci&#xF3;n de Productores de Salm&#xF3;n y Trucha de Magallanes y Ant&#xE1;rtica Chilena (A.G.) de fecha 31 de agosto de 1995.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que, en virtud de lo previsto en el art&#xED;culo 152 de la Ley General de Pesca y Acuicultura, los Consejos Zonales de Pesca estar&#xE1;n integrados por los titulares de los cargos que se mencionan y por los representantes de las organizaciones y entidades que se se&#xF1;alan, correspondiendo al Presidente de la Rep&#xFA;blica oficializar la nominaci&#xF3;n definitiva de estos &#xFA;ltimos, tanto en calidad de titulares como suplentes.</div><div class=\"p\">&nbsp; &nbsp; Que, el art&#xED;culo N&#xB0; 8 del Reglamento para la elecci&#xF3;n de Consejeros de los Consejos Zonales de Pesca, establece la facultad y el procedimiento para proveer los cargos vacantes, tanto titulares como suplentes.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA NOMINACION DE LOS MIEMBROS TITULARES Y SUPLENTES DEL CONSEJO ZONAL DE PESCA DE LA XII REGION Y ANTARTICA CHILENA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 765.- Santiago, 15 de Diciembre de 1995.- Visto: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; la Ley N&#xB0; 18.892 y sus modificaciones, cuyo texto refundido se halla contenido en el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el D.S. N&#xB0; 453 y N&#xB0; 683, ambos de 1992, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Carta de la Asociaci&#xF3;n de Productores de Salm&#xF3;n y Trucha de Magallanes y Ant&#xE1;rtica Chilena (A.G.) de fecha 31 de agosto de 1995.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que, en virtud de lo previsto en el art&#xED;culo 152 de la Ley General de Pesca y Acuicultura, los Consejos Zonales de Pesca estar&#xE1;n integrados por los titulares de los cargos que se mencionan y por los representantes de las organizaciones y entidades que se se&#xF1;alan, correspondiendo al Presidente de la Rep&#xFA;blica oficializar la nominaci&#xF3;n definitiva de estos &#xFA;ltimos, tanto en calidad de titulares como suplentes.</div><div class=\"p\">&nbsp; &nbsp; Que, el art&#xED;culo N&#xB0; 8 del Reglamento para la elecci&#xF3;n de Consejeros de los Consejos Zonales de Pesca, establece la facultad y el procedimiento para proveer los cargos vacantes, tanto titulares como suplentes.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

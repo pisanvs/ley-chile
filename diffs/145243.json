@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8351377,
+          "old": "<div><div class=\"p\">AUTORIZA A DON ROBERTO PEDRO IBA&#xD1;EZ MONCADA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON ROBERTO PEDRO IBA&#xD1;EZ MONCADA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><div class=\"p\">(Extracto)</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

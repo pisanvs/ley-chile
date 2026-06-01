@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-07-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-02-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6081675,
+          "old": "<div><div class=\"p\">DICTA REGLAMENTO DE BENEFICIOS PARA LA COMUNA </div><div class=\"p\">N&#xFA;m. 152 exento.- Maull&#xED;n, 09 de Julio de 1990.- Vistos:</div><div class=\"p\">a) El Decreto Exento No. 100 de fecha 11 de Mayo de 1990, que designa comisi&#xF3;n de Funcionarios Municipales para elaborar el anteproyecto de reglamento de beneficios de la comuna:</div><div class=\"p\">b) El Ord. de fecha 29 de Mayo de 1990 en que se remite dicho anteproyecto al Consejo de Desarrollo Comunal, para conocimiento y aprobaci&#xF3;n;</div><div class=\"p\">c) Las reuniones del Consejo de Desarrollo Comunal de Maull&#xED;n de fecha 22 de Mayo y 22 de Junio del presente a&#xF1;o, en que se analiza y se aprueba respectivamente el anteproyecto de beneficios de la comuna de Maull&#xED;n;</div><div class=\"p\">d) La Resoluci&#xF3;n Exenta No. 893 de fecha 31.10.89 del Consejo Regional de Desarrollo Xa. Regi&#xF3;n, en que nombra Alcalde de la Comuna de Maull&#xED;n;</div><div class=\"p\">e) La Ley No. 18.695 Org&#xE1;nica Constitucional de Municipalidades;</div><div class=\"p\">Teniendo presente: Que es necesario contar con un conjunto de normas que regulen la solicitud, tr&#xE1;mite y otorgamiento de permisos para efectuar beneficios en la comuna de Maull&#xED;n.</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DICTA REGLAMENTO DE BENEFICIOS PARA LA COMUNA </div><div class=\"p\">N&#xFA;m. 152 exento.- Maull&#xED;n, 09 de Julio de 1990.- Vistos:</div><div class=\"p\">a) El Decreto Exento No. 100 de fecha 11 de Mayo de 1990, que designa comisi&#xF3;n de Funcionarios Municipales para elaborar el anteproyecto de reglamento de beneficios de la comuna:</div><div class=\"p\">b) El Ord. de fecha 29 de Mayo de 1990 en que se remite dicho anteproyecto al Consejo de Desarrollo Comunal, para conocimiento y aprobaci&#xF3;n;</div><div class=\"p\">c) Las reuniones del Consejo de Desarrollo Comunal de Maull&#xED;n de fecha 22 de Mayo y 22 de Junio del presente a&#xF1;o, en que se analiza y se aprueba respectivamente el anteproyecto de beneficios de la comuna de Maull&#xED;n;</div><div class=\"p\">d) La Resoluci&#xF3;n Exenta No. 893 de fecha 31.10.89 del Consejo Regional de Desarrollo Xa. Regi&#xF3;n, en que nombra Alcalde de la Comuna de Maull&#xED;n;</div><div class=\"p\">e) La Ley No. 18.695 Org&#xE1;nica Constitucional de Municipalidades;</div><div class=\"p\">Teniendo presente: Que es necesario contar con un conjunto de normas que regulen la solicitud, tr&#xE1;mite y otorgamiento de permisos para efectuar beneficios en la comuna de Maull&#xED;n.</div><br><div class=\"p\">Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

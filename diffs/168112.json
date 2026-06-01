@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-02-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-09-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9061298,
+          "old": "<div><div class=\"p\">FIJA NUEVO TEXTO DEL REGLAMENTO PARA CONTRATACION DE TRABAJOS DE CONSULTORIA</div><br><div class=\"p\">&nbsp; &nbsp;  No. 334.- Santiago, 31 de Octubre de 1984.- Vistos: Las necesidades del Servicio, lo establecido en el art&#xED;culo 32&#xB0;, No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, la Ley No. 15.840, Org&#xE1;nica del Ministerio de Obras P&#xFA;blicas, y en el decreto de Hacienda, No. 691, de 1977, y sus modificaciones, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><div class=\"p\">&nbsp; &nbsp;  La conveniencia de tener un texto actualizado del Reglamento para la Contrataci&#xF3;n de Trabajos de Consultor&#xED;a que contemple en forma coordinada todas las modificaciones experimentadas,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">FIJA NUEVO TEXTO DEL REGLAMENTO PARA CONTRATACION<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> DE TRABAJOS DE CONSULTORIA</div><br><div class=\"p\">&nbsp; &nbsp;  No. 334.- Santiago, 31 de Octubre de 1984.- Vistos: Las necesidades del Servicio, lo establecido en el art&#xED;culo 32&#xB0;, No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, la Ley No. 15.840, Org&#xE1;nica del Ministerio de Obras P&#xFA;blicas, y en el decreto de Hacienda, No. 691, de 1977, y sus modificaciones, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><div class=\"p\">&nbsp; &nbsp;  La conveniencia de tener un texto actualizado del Reglamento para la Contrataci&#xF3;n de Trabajos de Consultor&#xED;a que contemple en forma coordinada todas las modificaciones experimentadas,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 48, Obras, publicado el 09.09.1994, que aprob&#xF3; el nuevo reglamento para la contrataci&#xF3;n de trabajos de consultor&#xED;a, derog&#xF3; el presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

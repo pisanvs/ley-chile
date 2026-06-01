@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1978-08-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-11-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003274,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 23&#xBA;.- En las zonas enzo&#xF3;ticas, s&#xF3;lo se permitir&#xE1; el transporte de animales susceptibles a la fiebre aftosa en veh&#xED;culos previamente autorizados por el Servicio. Para este efecto se abrir&#xE1; un registro especial, en el que los propietarios inscribir&#xE1;n los veh&#xED;culos que habr&#xE1;n de utilizar en el transporte de ganado, sea &#xE9;ste ocasional o permanente.</div><div class=\"p\">&nbsp; &nbsp;  El conductor, el propietario del veh&#xED;culo y el propietario de los animales ser&#xE1;n solidariamente responsables de cumplir las disposiciones precedentes.</div><div class=\"p\">&nbsp; &nbsp;  Para cada veh&#xED;culo el Servicio Agr&#xED;cola y Ganadero otorgar&#xE1; una tarjeta denominada &quot;Registro de Veh&#xED;culo para transporte de Ganado&quot;, la que ser&#xE1; v&#xE1;lida hasta la fecha de renovaci&#xF3;n de la respectiva patente. Esta tarjeta deber&#xE1; llevarla consigo el conductor en todo momento. En caso contrario, &#xE9;ste ser&#xE1; sancionado, aplic&#xE1;ndose la multa correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  S&#xF3;lo podr&#xE1;n inscribirse los veh&#xED;culos que cumplan con los requisitos que fije el Servicio.</div><div class=\"p\">&nbsp; &nbsp;  Los propietarios de veh&#xED;culos inscritos ser&#xE1;n responsables de mantenerlos en el estado y condiciones que se tuvo en vista al momento de ser autorizados. En el caso de transportar animales sin cumplir con los requisitos exigidos, el Servicio podr&#xE1; cancelar la inscripci&#xF3;n&nbsp; del veh&#xED;culo, sin perjuicio de aplicar la multa correspondiente.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 23&#xBA;.- DEROGADO<span class=\"n\" id=\"n_0\">DTO 349, AGRICULTURA<br>D.O. 22.11.1978</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1985-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003263,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Si apareciere un foco de fiebre aftosa o se sospechara su existencia en las zonas libres de fiebre aftosa, el Director Regional del Servicio podr&#xE1; declararla zona amagada de esta enfermedad y adoptar las siguientes medidas, adem&#xE1;s de las indicadas en art&#xED;culo 7&#xBA;.</div><div class=\"p\">&nbsp; &nbsp;  a) Determinar el &#xE1;rea infectada dentro de la zona amagada.</div><div class=\"p\">&nbsp; &nbsp;  b) Prohibir o restringir el transporte de animales, productos y especies que puedan ser veh&#xED;culos de contagio de la fiebre aftosa.</div><div class=\"p\">&nbsp; &nbsp;  c) Clausurar Mataderos, Ferias y otros establecimientos en que se mantengan animales.</div><div class=\"p\">&nbsp; &nbsp;  d) Sacrificar los animales susceptibles de contraer la enfermedad existentes en el &#xE1;rea infectada.</div><div class=\"p\">&nbsp; &nbsp;  e) Establecer barreras sanitarias en caminos y v&#xED;as p&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp;  f) Suspender o restringir el tr&#xE1;nsito de veh&#xED;culos y dem&#xE1;s medios de transporte desde o hacia las zonas amagadas.</div><div class=\"p\">&nbsp; &nbsp;  Podr&#xE1;, adem&#xE1;s, disponer las medidas sanitarias y de desinfecci&#xF3;n complementarias que permitan evitar la propagaci&#xF3;n del brote.</div><div class=\"p\">&nbsp; &nbsp;  Las autoridades deber&#xE1;n colaborar en el cumplimiento de las medidas sanitarias que se dispongan. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Si apareciere un foco de fiebre aftosa o se sospechara su existencia en las zonas libres de fiebre aftosa, el Director Regional del Servicio podr&#xE1; declararla zona amagada de esta enfermedad y adoptar las siguientes medidas, adem&#xE1;s de las indicadas en art&#xED;culo 7&#xBA;: a) Determinar el &#xE1;rea infectada dentro de la zona</div><div class=\"p\">amagada.</div><div class=\"p\">&nbsp; &nbsp;  b) Prohibir o restringir el transporte de animales,</div><div class=\"p\">productos y especies que puedan ser veh&#xED;culos de</div><div class=\"p\">contagio de la fiebre aftosa.</div><div class=\"p\">&nbsp; &nbsp;  c) Clausurar Mataderos, Ferias y otros</div><div class=\"p\">establecimientos en que se mantengan animales.</div><div class=\"p\">&nbsp; &nbsp;  d) Sacrificar los animales susceptibles de contraer</div><div class=\"p\">la enfermedad existentes en el &#xE1;rea infectada.</div><div class=\"p\">&nbsp; &nbsp;  e) Establecer barreras sanitarias en caminos y v&#xED;as</div><div class=\"p\">p&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp;  f) Suspender o restringir el tr&#xE1;nsito de veh&#xED;culos</div><div class=\"p\">y dem&#xE1;s medios de transporte desde o hacia las zonas</div><div class=\"p\">amagadas.</div><div class=\"p\">&nbsp; &nbsp;  Si el foco de fiebre aftosa o la sospecha de su<span class=\"n\" id=\"n_0\">DTO 142, AGRICULTURA<br>D.O. 04.02.1985</span></div><div class=\"p\">existencia apareciere en territorio extranjero lim&#xED;trofe</div><div class=\"p\">con Chile el Director Regional correspondiente del</div><div class=\"p\">Servicio podr&#xE1; disponer el despoblamiento de animales</div><div class=\"p\">biungulados en las zonas de su jurisdicci&#xF3;n que</div><div class=\"p\">considere expuestas a riesgo de contagio y la</div><div class=\"p\">prohibici&#xF3;n de ingreso a ellas de tales animales,</div><div class=\"p\">sin perjuicio de adoptar las medidas indicadas en</div><div class=\"p\">las letras b) y e) precedentes.</div><div class=\"p\">&nbsp; &nbsp;  Podr&#xE1;, adem&#xE1;s, disponer las medidas sanitarias y</div><div class=\"p\">de desinfecci&#xF3;n complementarias que permitan evitar</div><div class=\"p\">la propagaci&#xF3;n del brote.</div><div class=\"p\">&nbsp; &nbsp;  Las autoridades deber&#xE1;n colaborar en el</div><div class=\"p\">cumplimiento de las medidas sanitarias que se</div><div class=\"p\">dispongan.</div><br></div>"
+        },
+        {
+          "part_id": 9003274,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 23&#xBA;.- DEROGADO<span class=\"n\" id=\"n_0\">DTO 349, AGRICULTURA<br>D.O. 22.11.1978</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 23&#xBA;.- DEROGADO<span class=\"n\" id=\"n_1\">DTO 349, AGRICULTURA<br>D.O. 22.11.1978</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

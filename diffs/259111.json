@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-02-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9006023,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;janse los siguientes montos b&#xE1;sicos a los vi&#xE1;ticos que correspondan al personal de la Defensa Nacional que viajen al extranjero en cumplimiento de comisiones de servicio por per&#xED;odo de hasta treinta d&#xED;as:</div><div class=\"p\">&nbsp; &nbsp;  Funcionarios de grados 1 al 3, US$ 70 diarios.</div><div class=\"p\">&nbsp; &nbsp;  Funcionarios de grados 4 al 7, US$ 60 diarios.</div><div class=\"p\">&nbsp; &nbsp;  Funcionarios de grados 8 al 13, US$ 50 diarios.</div><div class=\"p\">&nbsp; &nbsp;  Funcionarios de grados 14 al 16, US$ 40 diarios.</div><div class=\"p\">&nbsp; &nbsp;  Funcionarios de grados 17 al 22, US$ 35 diarios.</div><div class=\"p\">&nbsp; &nbsp;  Los montos b&#xE1;sicos indicados se incrementar&#xE1;n en el porcentaje de asignaci&#xF3;n de costo de vida que corresponda a los funcionarios del grado 8&#xBA; al 14&#xBA; del Ministerio de Defensa Nacional.</div><div class=\"p\">&nbsp; &nbsp;  El vi&#xE1;tico podr&#xE1; pagarse en d&#xF3;lares o su equivalente en otras monedas extranjeras.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;janse los siguientes montos b&#xE1;sicos a los vi&#xE1;ticos que correspondan al personal de la Defensa Nacional que viajen al extranjero en cumplimiento de comisiones de servicio por per&#xED;odo de hasta treinta d&#xED;as:</div><div class=\"p\">&nbsp; &nbsp;  Funcionarios de grados 1 al 3, US$ 70 diarios.</div><div class=\"p\">&nbsp; &nbsp;  Funcionarios de grados 4 al 7, US$ 60 diarios.</div><div class=\"p\">&nbsp; &nbsp;  Funcionarios de grados 8 al 13, US$ 50 diarios.</div><div class=\"p\">&nbsp; &nbsp;  Funcionarios de grados 14 al 16, US$ 40 diarios.</div><div class=\"p\">&nbsp; &nbsp;  Funcionarios de grados 17 al 22, US$ 35 diarios.</div><div class=\"p\">&nbsp; &nbsp;  Los montos b&#xE1;sicos indicados se incrementar&#xE1;n en el porcentaje de asignaci&#xF3;n de costo de vida que corresponda a los funcionarios del Ministerio de Defensa<span class=\"n\" id=\"n_0\">DTO 202, HACIENDA<br>D.O. 19.04.1982</span> Nacional.</div><div class=\"p\">&nbsp; &nbsp;  El vi&#xE1;tico podr&#xE1; pagarse en d&#xF3;lares o su equivalente en otras monedas extranjeras.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

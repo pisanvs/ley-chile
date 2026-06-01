@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-11-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8954005,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 11&#xB0; Los precios mensuales de concesi&#xF3;n se expresar&#xE1;n en unidades monetarias que aseguren su reajustabilidad. El pago se deber&#xE1; realizar en forma anticipada en moneda nacional, dentro de los primeros 5 d&#xED;as h&#xE1;biles del mes, de acuerdo al factor de conversi&#xF3;n vigente al d&#xED;a de pago.</div><div class=\"p\">&nbsp; &nbsp; El n&#xFA;mero de meses del per&#xED;odo de pago anticipado se establecer&#xE1; en un rango de uno (1) a seis (6) meses. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 11&#xB0; Los precios mensuales de concesi&#xF3;n se expresar&#xE1;n en unidades monetarias que aseguren su reajustabilidad. El pago se deber&#xE1; realizar en forma anticipada en moneda nacional, dentro de los primeros 7<span class=\"n\" id=\"n_0\">RES 4, TRANSPORTES<br>D.O.15.02.1997</span> d&#xED;as h&#xE1;biles del mes, de acuerdo al factor de conversi&#xF3;n vigente al d&#xED;a de facturaci&#xF3;n. El n&#xFA;mero de meses del per&#xED;odo de pago anticipado se establecer&#xE1; en un rango de uno (1) a seis (6) meses. </div></div>"
+        }
+      ]
+    }
+  }
+]

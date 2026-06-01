@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-04-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8319426,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO No. 156, DE 1981, DEL MINISTERIO DE SALUD </div><div class=\"p\">N&#xFA;m. 97.- Santiago, 05 de Marzo de 1990.- Visto: Estos antecedentes; el decreto No. 106, de 1981, del Ministerio de Salud; y lo dispuesto en el art&#xED;culo 32 No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><br><div class=\"p\">Decreto</div><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO No. 156, DE 1981, DEL MINISTERIO DE SALUD </div><div class=\"p\">N&#xFA;m. 97.- Santiago, 05 de Marzo de 1990.- Visto: Estos antecedentes; el decreto No. 106, de 1981, del Ministerio de Salud; y lo dispuesto en el art&#xED;culo 32 No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><br><div class=\"p\">Decreto</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

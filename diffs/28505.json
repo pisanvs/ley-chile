@@ -1,0 +1,97 @@
+[
+  {
+    "fecha": "1966-07-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1967-01-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7177006,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0;.- Cr&#xE9;ase, en cada uno de los Juzgados de Letras de Mayor Cuant&#xED;a de ciudad asiento de Corte y de ciudad capital de provincia, que se desempe&#xF1;en como Juzgados de Letras de Menores, una plaza de Asistente Social con las remuneraciones asignadas a la 8&#xB0; Categor&#xED;a del Personal Superior del Poder Judicial en los Juzgados que funcionen en el asiento de una Corte de Apelaciones y de la 5&#xB0; Categor&#xED;a del personal subalterno, en los Juzgados de capital de provincia. El Consejo Nacional de Menores deber&#xE1; poner a disposici&#xF3;n de la Oficina de Presupuestos del Poder Judicial las sumas necesarias para cubrir el gasto que demande la provisi&#xF3;n de estas vacantes.</div><div class=\"p\">&nbsp; &nbsp; Cuando se creen Juzgados de Letras de Menores en los territorios jurisdiccionales de los Tribunales a que se refiere el inciso anterior, la plaza de asistente social respectiva pasar&#xE1; a la planta del nuevo Juzgado y seguir&#xE1; siendo servida por su titular sin necesidad de nueva designaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0;.- Cr&#xE9;ase, en cada uno de los Juzgados de Letras de Mayor Cuant&#xED;a de ciudad asiento de Corte y de ciudad capital de provincia, que se desempe&#xF1;en como Juzgados de Letras de Menores, una plaza de Asistente Social con las remuneraciones asignadas a la 8&#xB0; Categor&#xED;a del Personal Superior del Poder Judicial en los Juzgados que funcionen en el asiento de una Corte de Apelaciones y de la 5&#xB0; Categor&#xED;a del personal subalterno, en los Juzgados de capital de provincia. El Consejo Nacional de Menores depositar&#xE1; en la<span class=\"n\" id=\"n_0\">LEY 16605<br>Art. 96<br>D.O. 02.01.1967</span> Cuenta de Ingreso B-36-j las sumas necesarias para cubrir el gasto que demande la provisi&#xF3;n de estas vacantes.</div><div class=\"p\">&nbsp; &nbsp; Cuando se creen Juzgados de Letras de Menores en los territorios jurisdiccionales de los Tribunales a que se refiere el inciso anterior, la plaza de asistente social respectiva pasar&#xE1; a la planta del nuevo Juzgado y seguir&#xE1; siendo servida por su titular sin necesidad de nueva designaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1967-01-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7177008,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 15&#xB0;.- Para el cumplimiento de las finalidades de la presente ley, dest&#xED;nanse los siguientes recursos:</div><div class=\"p\">&nbsp; &nbsp; a) El mayor ingreso del impuesto a la compraventa de monedas extranjeras, establecido en el art&#xED;culo 3&#xB0; bis-A de la ley N&#xB0; 12.120, cuya tasa se fija en un 6% a contar de la fecha de publicaci&#xF3;n de la presente ley;</div><div class=\"p\">&nbsp; &nbsp; b) Los fondos establecidos en el inciso primero del art&#xED;culo 55&#xB0; de la ley N&#xB0; 15.231;</div><div class=\"p\">&nbsp; &nbsp; c) El producto de un recargo de 30%, a beneficio fiscal, sobre las patentes municipales que graven a los negocios de expendio de bebidas alcoh&#xF3;licas. La respectiva Municipalidad deber&#xE1; percibir este tributo, e integrarlo en el plazo m&#xE1;ximo de 30 d&#xED;as en arcas fiscales;</div><div class=\"p\">&nbsp; &nbsp; d) El 70% del impuesto a los viajes, y</div><div class=\"p\">&nbsp; &nbsp; e) Las sumas que anualmente se contemplen en la Ley de Presupuestos de la Naci&#xF3;n, en el Ministerio de Justicia, como aporte al Consejo Nacional de Menores. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 15&#xB0;.- Para el cumplimiento de las finalidades de la presente ley, dest&#xED;nanse los siguientes recursos:</div><div class=\"p\">&nbsp; &nbsp; a) DEROGADA<span class=\"n\" id=\"n_1\">LEY 16617<br>Art. 232 N&#xBA; 4<br>D.O. 31.01.1967</span></div><div class=\"p\">&nbsp; &nbsp; b) Los fondos establecidos en el inciso primero del art&#xED;culo 55&#xB0; de la ley N&#xB0; 15.231;</div><div class=\"p\">&nbsp; &nbsp; c) El producto de un recargo de 30%, a beneficio fiscal, sobre las patentes municipales que graven a los negocios de expendio de bebidas alcoh&#xF3;licas. La respectiva Municipalidad deber&#xE1; percibir este tributo, e integrarlo en el plazo m&#xE1;ximo de 30 d&#xED;as en arcas fiscales;</div><div class=\"p\">&nbsp; &nbsp; d) El 70% del impuesto a los viajes, y</div><div class=\"p\">&nbsp; &nbsp; e) Las sumas que anualmente se contemplen en la Ley de Presupuestos de la Naci&#xF3;n, en el Ministerio de Justicia, como aporte al Consejo Nacional de Menores. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1968-01-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7177006,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0;.- Cr&#xE9;ase, en cada uno de los Juzgados de Letras de Mayor Cuant&#xED;a de ciudad asiento de Corte y de ciudad capital de provincia, que se desempe&#xF1;en como Juzgados de Letras de Menores, una plaza de Asistente Social con las remuneraciones asignadas a la 8&#xB0; Categor&#xED;a del Personal Superior del Poder Judicial en los Juzgados que funcionen en el asiento de una Corte de Apelaciones y de la 5&#xB0; Categor&#xED;a del personal subalterno, en los Juzgados de capital de provincia. El Consejo Nacional de Menores depositar&#xE1; en la<span class=\"n\" id=\"n_0\">LEY 16605<br>Art. 96<br>D.O. 02.01.1967</span> Cuenta de Ingreso B-36-j las sumas necesarias para cubrir el gasto que demande la provisi&#xF3;n de estas vacantes.</div><div class=\"p\">&nbsp; &nbsp; Cuando se creen Juzgados de Letras de Menores en los territorios jurisdiccionales de los Tribunales a que se refiere el inciso anterior, la plaza de asistente social respectiva pasar&#xE1; a la planta del nuevo Juzgado y seguir&#xE1; siendo servida por su titular sin necesidad de nueva designaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0;.- Cr&#xE9;ase, en cada uno de los Juzgados de Letras de Mayor Cuant&#xED;a de ciudad asiento de Corte y de ciudad capital de provincia, que se desempe&#xF1;en como Juzgados de Letras de Menores, una plaza de Asistente Social con las remuneraciones asignadas a la 8&#xB0; Categor&#xED;a del Personal Superior del Poder Judicial en los Juzgados que funcionen en el asiento de una Corte de Apelaciones y de la 5&#xB0; Categor&#xED;a del personal subalterno, en los Juzgados de capital de provincia. El Consejo Nacional de Menores depositar&#xE1; en la<span class=\"n\" id=\"n_0\">LEY 16735<br>Art. 51<br>D.O. 02.01.1968</span> Cuenta de Ingreso B-36-j las sumas necesarias para cubrir el gasto que demande la provisi&#xF3;n de estas vacantes</div><div class=\"p\">&nbsp; &nbsp; Cuando se creen Juzgados de Letras de Menores en los territorios jurisdiccionales de los Tribunales a que se refiere el inciso anterior, la plaza de asistente social respectiva pasar&#xE1; a la planta del nuevo Juzgado y seguir&#xE1; siendo servida por su titular sin necesidad de nueva designaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1968-12-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7177006,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0;.- Cr&#xE9;ase, en cada uno de los Juzgados de Letras de Mayor Cuant&#xED;a de ciudad asiento de Corte y de ciudad capital de provincia, que se desempe&#xF1;en como Juzgados de Letras de Menores, una plaza de Asistente Social con las remuneraciones asignadas a la 8&#xB0; Categor&#xED;a del Personal Superior del Poder Judicial en los Juzgados que funcionen en el asiento de una Corte de Apelaciones y de la 5&#xB0; Categor&#xED;a del personal subalterno, en los Juzgados de capital de provincia. El Consejo Nacional de Menores depositar&#xE1; en la<span class=\"n\" id=\"n_0\">LEY 16735<br>Art. 51<br>D.O. 02.01.1968</span> Cuenta de Ingreso B-36-j las sumas necesarias para cubrir el gasto que demande la provisi&#xF3;n de estas vacantes</div><div class=\"p\">&nbsp; &nbsp; Cuando se creen Juzgados de Letras de Menores en los territorios jurisdiccionales de los Tribunales a que se refiere el inciso anterior, la plaza de asistente social respectiva pasar&#xE1; a la planta del nuevo Juzgado y seguir&#xE1; siendo servida por su titular sin necesidad de nueva designaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0;.- Cr&#xE9;ase, en cada uno de los Juzgados de Letras de Mayor Cuant&#xED;a de ciudad asiento de Corte y de ciudad capital de provincia, que se desempe&#xF1;en como Juzgados de Letras de Menores, una plaza de Asistente Social con las remuneraciones asignadas a la 8&#xB0; Categor&#xED;a del Personal Superior del Poder Judicial en los Juzgados que funcionen en el asiento de una Corte de Apelaciones y de la 5&#xB0; Categor&#xED;a del personal subalterno, en los Juzgados de capital de provincia. El Consejo Nacional de Menores depositar&#xE1; en la<span class=\"n\" id=\"n_0\">LEY 17072<br>Art. 49<br>D.O. 31.12.1968</span> Cuenta de Ingreso B-36-j las sumas necesarias para cubrir el gasto que demande la provisi&#xF3;n de estas vacantes</div><div class=\"p\">&nbsp; &nbsp; Cuando se creen Juzgados de Letras de Menores en los territorios jurisdiccionales de los Tribunales a que se refiere el inciso anterior, la plaza de asistente social respectiva pasar&#xE1; a la planta del nuevo Juzgado y seguir&#xE1; siendo servida por su titular sin necesidad de nueva designaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1970-01-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7177006,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0;.- Cr&#xE9;ase, en cada uno de los Juzgados de Letras de Mayor Cuant&#xED;a de ciudad asiento de Corte y de ciudad capital de provincia, que se desempe&#xF1;en como Juzgados de Letras de Menores, una plaza de Asistente Social con las remuneraciones asignadas a la 8&#xB0; Categor&#xED;a del Personal Superior del Poder Judicial en los Juzgados que funcionen en el asiento de una Corte de Apelaciones y de la 5&#xB0; Categor&#xED;a del personal subalterno, en los Juzgados de capital de provincia. El Consejo Nacional de Menores depositar&#xE1; en la<span class=\"n\" id=\"n_0\">LEY 17072<br>Art. 49<br>D.O. 31.12.1968</span> Cuenta de Ingreso B-36-j las sumas necesarias para cubrir el gasto que demande la provisi&#xF3;n de estas vacantes</div><div class=\"p\">&nbsp; &nbsp; Cuando se creen Juzgados de Letras de Menores en los territorios jurisdiccionales de los Tribunales a que se refiere el inciso anterior, la plaza de asistente social respectiva pasar&#xE1; a la planta del nuevo Juzgado y seguir&#xE1; siendo servida por su titular sin necesidad de nueva designaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0;.- Cr&#xE9;ase, en cada uno de los Juzgados de Letras de Mayor Cuant&#xED;a de ciudad asiento de Corte y de ciudad capital de provincia, que se desempe&#xF1;en como Juzgados de Letras de Menores, una plaza de Asistente Social con las remuneraciones asignadas a la 8&#xB0; Categor&#xED;a del Personal Superior del Poder Judicial en los Juzgados que funcionen en el asiento de una Corte de Apelaciones y de la 5&#xB0; Categor&#xED;a del personal subalterno, en los Juzgados de capital de provincia. El Consejo Nacional de Menores depositar&#xE1; en la<span class=\"n\" id=\"n_0\">LEY 17271<br>Art. 55<br>D.O. 02.01.1970</span> Cuenta de Ingreso B-36-j las sumas necesarias para cubrir el gasto que demande la provisi&#xF3;n de estas vacantes.</div><div class=\"p\">&nbsp; &nbsp; Cuando se creen Juzgados de Letras de Menores en los territorios jurisdiccionales de los Tribunales a que se refiere el inciso anterior, la plaza de asistente social respectiva pasar&#xE1; a la planta del nuevo Juzgado y seguir&#xE1; siendo servida por su titular sin necesidad de nueva designaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1974-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7177008,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 15&#xB0;.- Para el cumplimiento de las finalidades de la presente ley, dest&#xED;nanse los siguientes recursos:</div><div class=\"p\">&nbsp; &nbsp; a) DEROGADA<span class=\"n\" id=\"n_1\">LEY 16617<br>Art. 232 N&#xBA; 4<br>D.O. 31.01.1967</span></div><div class=\"p\">&nbsp; &nbsp; b) Los fondos establecidos en el inciso primero del art&#xED;culo 55&#xB0; de la ley N&#xB0; 15.231;</div><div class=\"p\">&nbsp; &nbsp; c) El producto de un recargo de 30%, a beneficio fiscal, sobre las patentes municipales que graven a los negocios de expendio de bebidas alcoh&#xF3;licas. La respectiva Municipalidad deber&#xE1; percibir este tributo, e integrarlo en el plazo m&#xE1;ximo de 30 d&#xED;as en arcas fiscales;</div><div class=\"p\">&nbsp; &nbsp; d) El 70% del impuesto a los viajes, y</div><div class=\"p\">&nbsp; &nbsp; e) Las sumas que anualmente se contemplen en la Ley de Presupuestos de la Naci&#xF3;n, en el Ministerio de Justicia, como aporte al Consejo Nacional de Menores. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 15&#xB0;.- Para el cumplimiento de las finalidades de la presente ley, dest&#xED;nanse los siguientes recursos:</div><div class=\"p\">&nbsp; &nbsp; a) DEROGADA<span class=\"n\" id=\"n_1\">LEY 16617<br>Art. 232 N&#xBA; 4<br>D.O. 31.01.1967<br>DL 829, HACIENDA<br>Art. 1&#xBA; N&#xBA; 4<br>D.O. 31.12.1974</span></div><div class=\"p\">&nbsp; &nbsp; b) Los fondos establecidos en el inciso primero del art&#xED;culo 55&#xB0; de la ley N&#xB0; 15.231;</div><div class=\"p\">&nbsp; &nbsp; c) DEROGADA</div><div class=\"p\">&nbsp; &nbsp; d) El 70% del impuesto a los viajes, y</div><div class=\"p\">&nbsp; &nbsp; e) Las sumas que anualmente se contemplen en la Ley de Presupuestos de la Naci&#xF3;n, en el Ministerio de Justicia, como aporte al Consejo Nacional de Menores. </div></div>"
+        }
+      ]
+    }
+  }
+]

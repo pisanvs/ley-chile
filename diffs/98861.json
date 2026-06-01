@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-12-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7232806,
+          "old": "<div><div class=\"p\">AMPLIA DECRETO EXENTO N&#xBA; 35, DE 1987</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 81 exento.- Santiago, 1&#xBA; de Marzo de 1990.- Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que el Centro de Formaci&#xF3;n T&#xE9;cnica Iquique English College, fue autorizado para funcionar por Decreto Exento de Educaci&#xF3;n N&#xBA; 35 de 1987.</div><div class=\"p\">&nbsp; &nbsp;  Que, el representante legal de la Corporaci&#xF3;n Metodista ha solicitado a este Ministerio autorizaci&#xF3;n de funcionamiento de nuevas sedes y &#xE1;reas;</div><div class=\"p\">&nbsp; &nbsp;  Que, revisados los antecedentes de las sedes de este Centro, cumplen con las condiciones y requisitos exigidos por la Ley.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el D.L. N&#xBA; 3.531 de 1980, D.F.L.</div><div class=\"p\">N&#xBA; 24 de 1981, D.S. N&#xBA; 9.555 de 1980 y D.S. N&#xBA; 1080 de 1983, todos del Ministerio de Educaci&#xF3;n P&#xFA;blica y la Resoluci&#xF3;n N&#xBA; 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AMPLIA DECRETO EXENTO N&#xBA; 35, DE 1987</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 81 exento.- Santiago, 1&#xBA; de Marzo de 1990.- Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que el Centro de Formaci&#xF3;n T&#xE9;cnica Iquique English College, fue autorizado para funcionar por Decreto Exento de Educaci&#xF3;n N&#xBA; 35 de 1987.</div><div class=\"p\">&nbsp; &nbsp;  Que, el representante legal de la Corporaci&#xF3;n Metodista ha solicitado a este Ministerio autorizaci&#xF3;n de funcionamiento de nuevas sedes y &#xE1;reas;</div><div class=\"p\">&nbsp; &nbsp;  Que, revisados los antecedentes de las sedes de este Centro, cumplen con las condiciones y requisitos exigidos por la Ley.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el D.L. N&#xBA; 3.531 de 1980, D.F.L.</div><div class=\"p\">N&#xBA; 24 de 1981, D.S. N&#xBA; 9.555 de 1980 y D.S. N&#xBA; 1080 de 1983, todos del Ministerio de Educaci&#xF3;n P&#xFA;blica y la Resoluci&#xF3;n N&#xBA; 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

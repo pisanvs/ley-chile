@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-09-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7266093,
+          "old": "<div><div class=\"p\">AUTORIZA A CONSERVERA SAN FRANCISCO LIMITADA, PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A CONSERVERA SAN FRANCISCO LIMITADA, PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-01-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-05-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8349796,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD COMERCIAL E INDUSTRIAL GIORDANO LTDA. Y COMPA&#xD1;IA EN COMANDITA POR ACCIONES PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD COMERCIAL E INDUSTRIAL GIORDANO LTDA. Y COMPA&#xD1;IA EN COMANDITA POR ACCIONES PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-05-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6253721,
+          "old": "<div><br><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;AGRICOLA Y FORESTAL NAGUILAN LTDA.&quot;, PARA AMPLIAR SUS ACTIVIDADES PESQUERAS Y DENIEGA PERMISO QUE INDICA</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;AGRICOLA Y FORESTAL NAGUILAN LTDA.&quot;, PARA AMPLIAR SUS ACTIVIDADES PESQUERAS Y DENIEGA PERMISO QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

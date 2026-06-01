@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-08-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8321172,
+          "old": "<div><div class=\"p\">AUTORIZA A ASOCIACION GREMIAL DE BUZOS MARISCADORES DE NEHUENTUE PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><br><div class=\"p\"> AUTORIZA A ASOCIACION GREMIAL DE BUZOS MARISCADORES DE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"> NEHUENTUE PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La presente norma hab&#xED;a sido dejada sin efecto por la RES 1718, Econom&#xED;a, publicada el 07.12.1998. La RES 1544, Econom&#xED;a, publicada el 17.08.1999, dej&#xF3; sin efecto la RES 1718 anteriormente citada y declar&#xF3; vigente la presente norma<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1969-09-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1984-12-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7178239,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; OTORGA DERECHO A HACER IMPOSICIONES QUE INDICA A FUNCIONARIOS DE REGISTRO CIVIL E IDENTIFICACION QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  OTORGA DERECHO A HACER IMPOSICIONES QUE INDICA A<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"> FUNCIONARIOS DE REGISTRO CIVIL E IDENTIFICACION QUE</div><div class=\"p\">SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 51 de la Ley 18382, publicada el 28.12.1984, derog&#xF3; la presente norma. Asimismo, dispone que: No obstante, los funcionarios del Servicio de Registro Civil e Identificaci&#xF3;n que ocuparon algunos de los cargos a que se refiere dicha ley u ocupan a la fecha cargos de jefatura B, Nivel II, grado 13 o superiores, que se hayan acogido a sus disposiciones o lo hagan dentro del plazo de sesenta d&#xED;as, mantendr&#xE1;n la franquicia establecida en la referida ley.<br>&nbsp; &nbsp; Asimismo, los ex funcionarios de ese Servicio que se acogieron a las disposiciones de dicha ley y que efectuaron las imposiciones correspondientes sin que al momento de impetrar la jubilaci&#xF3;n, se les haya reconocido el derecho a considerar las rentas respectivas para los efectos de fijar el monto de su pensi&#xF3;n, tendr&#xE1;n derecho a que se les reliquide la pensi&#xF3;n a contar de la fecha de esta ley, comput&#xE1;ndoseles dichas rentas.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316354,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JOSE AGUSTIN BENAVENTE ARIZTIA PARA INICIAR ACTIVIDADES PESQUERAS DE CULTIVOS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JOSE AGUSTIN BENAVENTE ARIZTIA PARA INICIAR ACTIVIDADES PESQUERAS DE CULTIVOS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

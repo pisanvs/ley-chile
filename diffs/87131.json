@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-01-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7221866,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION EXENTA No. 150/1991 QUE CONTEMPLA EL SISTEMA TARIFARIO DE LA EMPRESA DE CORREOS DE CHILE </div><div class=\"p\">N&#xFA;m. 1.601 exenta.- Santiago, 23 de diciembre de 1991.- Vistos: El DFL No. 10 de 1981 y el art&#xED;culo No. 5 del Decreto No. 29 de 1991, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones, la necesidad de fijar tarifas a las prestaciones postales complementarias; la resoluci&#xF3;n exenta No. 150, de 1991, que contempla el sistema tarifario y fija los valores que indica; el acuerdo No. 120/91 del 18 de diciembre de 1991; la resoluci&#xF3;n No. 1050 de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica y, en uso de las atribuciones que me confiere la resoluci&#xF3;n No. 453 de 1985 de la Empresa de Correos de Chile, vengo en dictar lo siguiente:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION EXENTA No. 150/1991 QUE CONTEMPLA EL SISTEMA TARIFARIO DE LA EMPRESA DE CORREOS DE CHILE </div><div class=\"p\">N&#xFA;m. 1.601 exenta.- Santiago, 23 de diciembre de 1991.- Vistos: El DFL No. 10 de 1981 y el art&#xED;culo No. 5 del Decreto No. 29 de 1991, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones, la necesidad de fijar tarifas a las prestaciones postales complementarias; la resoluci&#xF3;n exenta No. 150, de 1991, que contempla el sistema tarifario y fija los valores que indica; el acuerdo No. 120/91 del 18 de diciembre de 1991; la resoluci&#xF3;n No. 1050 de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica y, en uso de las atribuciones que me confiere la resoluci&#xF3;n No. 453 de 1985 de la Empresa de Correos de Chile, vengo en dictar lo siguiente:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

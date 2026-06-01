@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-01-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9009980,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo primero: Conc&#xE9;dese, por Gracia, a cada una de las menores Nataly Iveta y Francisca Isabel Garrido Retamal, una pensi&#xF3;n equivalente al 50% de un ingreso m&#xED;nimo mensual, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos, es aquel a que hace referencia el inciso 1&#xB0; del art&#xED;culo 5 de la Ley N&#xB0; 18.647, que se emplea para fines no remuneracionales. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo primero: Conc&#xE9;dese, por Gracia, a cada una de las menores Nataly Ivette y Francisca Isabel Garrido<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 26.01.1995</span> Retamal, una pensi&#xF3;n equivalente al 50% de un ingreso m&#xED;nimo mensual, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos, es aquel a que hace referencia el inciso 1&#xB0; del art&#xED;culo 5 de la Ley N&#xB0; 18.647, que se emplea para fines no remuneracionales. </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-07-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-04-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8747616,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;: La Administraci&#xF3;n de los fondos del presente programa es la siguiente:</div><div class=\"p\">&nbsp; &nbsp; El Ministerio de Educaci&#xF3;n traspasar&#xE1; los recursos a las Secretar&#xED;as Regionales Ministeriales de Educaci&#xF3;n para que &#xE9;stas a su vez, mediante la dictaci&#xF3;n de una o m&#xE1;s Resoluciones Exentas asignen los recursos a los distintos establecimientos que tengan grupos diferenciales y dispongan su entrega de conformidad con lo estipulado en el Art&#xED;culo Segundo de este Reglamento.</div><div class=\"p\">&nbsp; &nbsp; Los Sostenedores de los distintos Establecimientos Educacionales deber&#xE1;n elaborar un informe en el que se indique la naturaleza y monto de los gastos realizados con el presente aporte, debiendo mantener en su poder por un per&#xED;odo no inferior a un a&#xF1;o la documentaci&#xF3;n que respalde dicho informe, el que ser&#xE1; indispensable para proceder al pago de futuros aportes anuales en el caso que as&#xED; sean contemplados en las leyes de presupuesto de los a&#xF1;os siguientes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;: La Administraci&#xF3;n de los fondos del presente programa es la siguiente:</div><div class=\"p\">&nbsp; &nbsp; El Ministerio de Educaci&#xF3;n traspasar&#xE1; los recursos a las Secretar&#xED;as Regionales Ministeriales de Educaci&#xF3;n para que &#xE9;stas a su vez, mediante la dictaci&#xF3;n de una o m&#xE1;s Resoluciones Exentas asignen los recursos a los distintos establecimientos que tengan grupos diferenciales y dispongan su entrega de conformidad con lo estipulado en el Art&#xED;culo Segundo de este Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Los sostenedores de los establecimientos<span class=\"n\" id=\"n_0\">DTO 156, EDUCACION<br>Art. 1&#xB0;<br>D.O. 20.04.2000</span> educacionales deber&#xE1;n elaborar un informe en el que se indique la naturaleza y monto de los gastos realizados, debiendo acompa&#xF1;ar la documentaci&#xF3;n que acredite el gasto respectivo. Dicho informe deber&#xE1; ser presentado en el Departamento Provincial de Educaci&#xF3;n correspondiente, a m&#xE1;s tardar el d&#xED;a 31 de octubre del a&#xF1;o respectivo.</div><div class=\"p\">&nbsp; &nbsp;  Los Jefes de los Departamentos Provinciales remitir&#xE1;n a las Secretar&#xED;as Regionales Ministeriales de Educaci&#xF3;n el listado de los establecimientos que hayan cumplido con la obligaci&#xF3;n anterior. S&#xF3;lo podr&#xE1;n ser beneficiarios del aporte, aquellos establecimientos que hayan cumplido con lo se&#xF1;alado en el inciso precedente.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

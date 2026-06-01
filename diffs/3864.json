@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-11-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-11-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7114931,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- El gasto que represente la aplicaci&#xF3;n del presente decreto con fuerza de ley ser&#xE1; financiado con los recursos contemplados en el presupuesto vigente del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; R.U.T.&nbsp; &nbsp; &nbsp;  Nombre&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  a/c</div><div class=\"p\"> 5.000.697-2&nbsp; Burg Urbina Sergio Patricio&nbsp;  17.07.90</div><div class=\"p\"> 3.837.602-0&nbsp; Rivera D&#xED;az Juan&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 17.07.90</div><div class=\"p\"> 4.285.327-5&nbsp; Arenas Romero Mar&#xED;a&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  17.07.90</div><div class=\"p\"> 3.548.018-8&nbsp; Gatica Merino V&#xED;ctor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 24.07.90</div><div class=\"p\"> 6.712.413-9&nbsp; Aguilera Garc&#xED;a H&#xE9;ctor&nbsp; &nbsp; &nbsp; &nbsp; 16.07.90</div><div class=\"p\"> 5.358.807-7&nbsp; Salazar Vega Jorge&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 15.07.90</div><div class=\"p\"> 5.290.541-9&nbsp; Calder&#xF3;n Silva Miguel&nbsp; &nbsp; &nbsp; &nbsp;  15.07.90</div><div class=\"p\"> 2.784.817-6&nbsp; Sangmeister Flandes Augusto&nbsp;  18.07.90</div><div class=\"p\"> 3.930.724-3&nbsp; D&#xED;az Silva Ra&#xFA;l Enrique&nbsp; &nbsp; &nbsp;  18.07.90</div><div class=\"p\"> 6.078.784-0&nbsp; Epuyao Aguilef Leonardo&nbsp; &nbsp; &nbsp;  18.07.90</div><div class=\"p\"> 2.954.424-7&nbsp; Araya Herrera David Sergio&nbsp; &nbsp; 20.07.90</div><div class=\"p\"> 4.181.158-7&nbsp; Bruzzo Rojas Nino Enzo&nbsp; &nbsp; &nbsp; &nbsp; 15.07.90</div><div class=\"p\">&nbsp; &nbsp; Los citados funcionarios percibir&#xE1;n la misma remuneraci&#xF3;n que actualmente gozan o las que en lo sucesivo corresponde a los respectivos grados.</div><div class=\"p\">&nbsp; &nbsp; El cargo constituir&#xE1; dotaci&#xF3;n adicional y se extinguir&#xE1; de pleno derecho al momento del cese de funciones por cualquier causa.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- El gasto que represente la aplicaci&#xF3;n del presente decreto con fuerza de ley ser&#xE1; financiado con los recursos contemplados en el presupuesto vigente del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; R.U.T.&nbsp; &nbsp; &nbsp;  Nombre&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  a/c</div><div class=\"p\"> 5.000.697-2&nbsp; Burg Urbina Sergio Patricio&nbsp;  17.07.90</div><div class=\"p\"> 3.837.602-0&nbsp; Rivera D&#xED;az Juan&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 17.07.90</div><div class=\"p\"> 4.285.327-5&nbsp; Arenas Romero Gloria Mar&#xED;a&nbsp; &nbsp; 17.07.90<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 24.11.1990</span></div><div class=\"p\"> 3.548.018-8&nbsp; Gatica Merino V&#xED;ctor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 24.07.90</div><div class=\"p\"> 6.712.413-9&nbsp; Aguilera Garc&#xED;a H&#xE9;ctor&nbsp; &nbsp; &nbsp; &nbsp; 16.07.90</div><div class=\"p\"> 5.358.807-7&nbsp; Salazar Vega Jorge&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 15.07.90</div><div class=\"p\"> 5.290.541-9&nbsp; Calder&#xF3;n Silva Miguel&nbsp; &nbsp; &nbsp; &nbsp;  15.07.90</div><div class=\"p\"> 2.784.817-6&nbsp; Sangmeister Flandes Augusto&nbsp;  18.07.90</div><div class=\"p\"> 3.930.724-3&nbsp; D&#xED;az Silva Ra&#xFA;l Enrique&nbsp; &nbsp; &nbsp;  18.07.90</div><div class=\"p\"> 6.078.784-0&nbsp; Epuyao Aguilef Leonardo&nbsp; &nbsp; &nbsp;  18.07.90</div><div class=\"p\"> 2.954.424-7&nbsp; Araya Herrera David Sergio&nbsp; &nbsp; 20.07.90</div><div class=\"p\"> 4.181.158-7&nbsp; Bruzzo Rojas Nino Enzo&nbsp; &nbsp; &nbsp; &nbsp; 15.07.90</div><div class=\"p\">&nbsp; &nbsp; Los citados funcionarios percibir&#xE1;n la misma remuneraci&#xF3;n que actualmente gozan o las que en lo sucesivo corresponde a los respectivos grados.</div><div class=\"p\">&nbsp; &nbsp; El cargo constituir&#xE1; dotaci&#xF3;n adicional y se extinguir&#xE1; de pleno derecho al momento del cese de funciones por cualquier causa.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

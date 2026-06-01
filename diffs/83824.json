@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-11-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8315572,
+          "old": "<div><div class=\"p\">AUTORIZA A DON CARLOS EMILIO MALDONADO VARGAS PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON CARLOS EMILIO MALDONADO VARGAS PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

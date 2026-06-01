@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-07-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313949,
+          "old": "<div><div class=\"p\">DENIEGA AUTORIZACION QUE INDICA. CADUCA RESOLUCION QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">DENIEGA AUTORIZACION QUE INDICA. CADUCA RESOLUCION QUE SE&#xD1;ALA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

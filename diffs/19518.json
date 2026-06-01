@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-09-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-09-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8271262,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE DIVERSAS MEDIDAS EXTRAORDINARIAS DE CARACTER ADMINISTRATIVO PARA EL FONDO DE SOLIDARIDAD E INVERSION SOCIAL POR ESTADO DE CATASTROFE EN ZONA QUE INDICA Santiago, 29 de Agosto de 1991.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 3 exento.- Vistos: Lo dispuesto en el art&#xED;culo 32, N&#xB0; 8 y 41 N&#xB0;s. 5 y 6 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; los art&#xED;culos 9&#xB0; y 10 de la Ley N&#xB0; 18.425; la Ley N&#xB0; 18.989; art&#xED;culo 3&#xB0; del Decreto Supremo N&#xB0; 104 de 1977, del Ministerio del Interior que fij&#xF3; el texto refundido, coordinado y sistematizado del T&#xED;tulo I de la Ley N&#xB0; 16.282 y el Decreto Supremo N&#xB0; 821 de 1991, del Ministerio del Interior, y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; La urgente necesidad de acudir en ayuda inmediata de los damnificados por la cat&#xE1;strofe que aflige a los habitantes de las comunas de R&#xED;o Ib&#xE1;&#xF1;ez y Chile Chico, y Que el se&#xF1;or Director Ejecutivo del FOSIS ha solicitado autorizaci&#xF3;n para que el Servicio pueda invertir hasta la suma de $ 100.000.000 (cien millones de pesos) en ayuda a damnificados de la zona que indica.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DISPONE DIVERSAS MEDIDAS EXTRAORDINARIAS DE CARACTER ADMINISTRATIVO PARA EL FONDO DE SOLIDARIDAD E INVERSION SOCIAL POR ESTADO DE CATASTROFE EN ZONA QUE INDICA Santiago, 29 de Agosto de 1991.- Hoy se decret&#xF3; lo que sigue: N&#xFA;m. 3 exento.- Vistos: Lo dispuesto en el art&#xED;culo 32, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de<span class=\"n\" id=\"n_0\">DTO 4 EXENTO,<br>PLANIFICACION<br>N&#xBA; 1<br>D.O. 17.09.1991</span> Chile; los art&#xED;culos 9&#xB0; y 10 de la Ley N&#xB0; 18.425; la Ley N&#xB0; 18.989; art&#xED;culo 3&#xB0; del Decreto Supremo N&#xB0; 104 de 1977, del Ministerio del Interior que fij&#xF3; el texto refundido, coordinado y sistematizado del T&#xED;tulo I de la Ley N&#xB0; 16.282 y el Decreto Supremo N&#xB0; 821 de 1991, del Ministerio del Interior, y Teniendo presente: La urgente necesidad de acudir en ayuda inmediata de los damnificados por la cat&#xE1;strofe que aflige a los habitantes de las comunas de R&#xED;o Ib&#xE1;&#xF1;ez y Chile Chico, y Que el se&#xF1;or Director Ejecutivo del FOSIS ha solicitado autorizaci&#xF3;n para que el Servicio pueda invertir hasta la suma de $ 100.000.000 (cien millones de pesos) en ayuda a damnificados de la zona que indica. Decreto: </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8323702,
+          "old": "<div><div class=\"p\">AUTORIZA A DON NIBALDO MARTINEZ MU&#xD1;OZ PARA AMPLIAR ACTIVIDADES PESQUERAS.</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON NIBALDO MARTINEZ MU&#xD1;OZ PARA AMPLIAR ACTIVIDADES PESQUERAS.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

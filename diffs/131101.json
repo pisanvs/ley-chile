@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-09-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-07-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8340280,
+          "old": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA PALACIOS LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA PALACIOS LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

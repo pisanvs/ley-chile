@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-08-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8373167,
+          "old": "<div><div class=\"p\">REGLAMENTO PARA BECAS A FUNCIONARIOS PUBLICOS </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 29 de Junio de 1977.- El Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 675.- Vistos: lo dispuesto en la ley N&#xBA; 1.635; en el decreto ley N&#xBA; 1.603, que aprueba el Presupuesto de la Naci&#xF3;n para 1977; en el DFL. N&#xBA; 338, de 1960, y en el decreto supremo N&#xBA; 239, de 1972, del Ministerio del Interior;</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que a la Oficina de Planificaci&#xF3;n Nacional corresponde elaborar y proponer al Presidente de la Rep&#xFA;blica el Plan Nacional de Desarrollo Econ&#xF3;mico y Social del pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp;  Que la implementaci&#xF3;n eficaz de dicho Plan supone necesariamente el concurso de personal altamente calificado en las materias pertinentes, tanto de la Oficina de Planificaci&#xF3;n Nacional como de las entidades p&#xFA;blicas con las cuales esta Oficina se relaciona o tiene tuici&#xF3;n en materias t&#xE9;cnicas;</div><div class=\"p\">&nbsp; &nbsp;  Que con frecuencia, en las t&#xE9;cnicas de planificaci&#xF3;n y, en general, en las ciencias econ&#xF3;micas y de administraci&#xF3;n, las necesidades de perfeccionamiento del personal de la administraci&#xF3;n p&#xFA;blica no son satisfechas debidamente por la asistencia t&#xE9;cnica internacional en la oportunidad, condiciones, cantidad y contenido;</div><div class=\"p\">&nbsp; &nbsp;  Que la Ley de Presupuestos ha puesto a disposici&#xF3;n de la Oficina de Planificaci&#xF3;n Nacional recursos para financiar becas y se ha ordenado la dictaci&#xF3;n del correspondiente Reglamento,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTO PARA BECAS A FUNCIONARIOS PUBLICOS </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 29 de Junio de 1977.- El Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 675.- Vistos: lo dispuesto en la ley N&#xBA; 1.635; en el decreto ley N&#xBA; 1.603, que aprueba el Presupuesto de la Naci&#xF3;n para 1977; en el DFL. N&#xBA; 338, de 1960, y en el decreto supremo N&#xBA; 239, de 1972, del Ministerio del Interior;</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que a la Oficina de Planificaci&#xF3;n Nacional corresponde elaborar y proponer al Presidente de la Rep&#xFA;blica el Plan Nacional de Desarrollo Econ&#xF3;mico y Social del pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp;  Que la implementaci&#xF3;n eficaz de dicho Plan supone necesariamente el concurso de personal altamente calificado en las materias pertinentes, tanto de la Oficina de Planificaci&#xF3;n Nacional como de las entidades p&#xFA;blicas con las cuales esta Oficina se relaciona o tiene tuici&#xF3;n en materias t&#xE9;cnicas;</div><div class=\"p\">&nbsp; &nbsp;  Que con frecuencia, en las t&#xE9;cnicas de planificaci&#xF3;n y, en general, en las ciencias econ&#xF3;micas y de administraci&#xF3;n, las necesidades de perfeccionamiento del personal de la administraci&#xF3;n p&#xFA;blica no son satisfechas debidamente por la asistencia t&#xE9;cnica internacional en la oportunidad, condiciones, cantidad y contenido;</div><div class=\"p\">&nbsp; &nbsp;  Que la Ley de Presupuestos ha puesto a disposici&#xF3;n de la Oficina de Planificaci&#xF3;n Nacional recursos para financiar becas y se ha ordenado la dictaci&#xF3;n del correspondiente Reglamento,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

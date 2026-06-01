@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1974-01-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9035300,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Elim&#xED;nase de la aplicaci&#xF3;n del art&#xED;culo 1&#xB0; del D.L. N&#xB0; 249, p&#xFA;blicado en el Diario Oficial de 5 de Enero de 1974, a las siguientes entidades:</div><div class=\"p\">&nbsp; Universidad de Chile Universidad T&#xE9;cnica del Estado Universidad Cat&#xF3;lica de Chile Universidad T&#xE9;cnica Federico Santa Mar&#xED;a Universidad del Norte Universidad Cat&#xF3;lica de Valpara&#xED;so Universidad Austral Universidad de Concepci&#xF3;n Direcci&#xF3;n de Aeron&#xE1;utica Banco Central de Chile Corporaci&#xF3;n del Cobre Corporaci&#xF3;n de Televisi&#xF3;n de las Universidades de Chile, Cat&#xF3;lica de Chile y Cat&#xF3;lica de Valpara&#xED;so. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0; Elim&#xED;nase de la aplicaci&#xF3;n del art&#xED;culo 1&#xB0; del decreto ley 249, publicado en el Diario Oficial de 5 de enero de 1974, a las siguientes entidades:</div><div class=\"p\">&nbsp; &nbsp; Universidad de Chile Universidad T&#xE9;cnica del Estado Universidad Cat&#xF3;lica de Chile Universidad T&#xE9;cnica Federico Santa Mar&#xED;a Universidad del Norte Universidad Cat&#xF3;lica de Valpara&#xED;so Universidad Austral Universidad de Concepci&#xF3;n Direcci&#xF3;n de Aeron&#xE1;utica Banco Central de Chile Corporaci&#xF3;n del Cobre Corporaci&#xF3;n de Televisi&#xF3;n de las Universidades de Chile, Cat&#xF3;lica de Chile y Cat&#xF3;lica de Valpara&#xED;so. </div></div>"
+        },
+        {
+          "part_id": 9035301,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2o.- El personal de la Direcci&#xF3;n de Aeronautica seguir&#xE1; regido por las normas aplicables a los personales a quienes rige el DFL. N&#xB0; 1, de Guerra, de 1968.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; El personal de la Direcci&#xF3;n de Aeron&#xE1;utica seguir&#xE1; regido por las normas aplicables a los personales a quienes rige el decreto con fuerza de ley 1, de Guerra, de 1968.</div><br></div>"
+        },
+        {
+          "part_id": 9035302,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3o.- Las Universidades chilenas deber&#xE1;n fijar para sus personales acad&#xE9;micos, administrativos y auxiliares un sistema uniforme de remuneraciones, ajustado a la escala de remuneraciones establecida en el art&#xED;culo 1&#xB0; del D.L. N&#xB0; 249. El sistema podr&#xE1; comprender, adem&#xE1;s, los beneficios adicionales a la escala &#xFA;nica que se enumeran en el art&#xED;culo 5&#xB0;, dentro de los montos y con las condiciones y requisitos que se establecen en ese cuerpo legal.</div><div class=\"p\">&nbsp; &nbsp; El sistema uniforme deber&#xE1; ser visado por el Ministro de Hacienda.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; DEROGADO<span class=\"n\" id=\"n_0\">DFL 3 1980<br>EDUCACION<br>ART 3&#xB0;</span> <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp;  1</a></div> </div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp;  1</a> <br>&nbsp; &nbsp;  Esta derogaci&#xF3;n regir&#xE1; a contar de la fecha en que, respecto de cada Universidad, entren en vigencias las nuevas remuneraciones. (DFL 3, Educaci&#xF3;n, 1980, art. 3&#xB0;).<br></div></div>"
+        },
+        {
+          "part_id": 9035303,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4o.- Anualmente, en forma previa a la aprobaci&#xF3;n de su presupuesto, cada Universidad deber&#xE1; informar a la Direcci&#xF3;n de Presupuestos del Ministerio de Hacienda, de la asignaci&#xF3;n de recursos efectuada durante el ejercicio anterior, tanto de los provenientes del aporte Fiscal como de los ingresos propios. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 4&#xB0; Anualmente, en forma previa a la aprobaci&#xF3;n de su presupuesto, cada Universidad deber&#xE1; informar a la Direcci&#xF3;n de Presupuestos del Ministerio de Hacienda, de la asignaci&#xF3;n de recursos efectuada durante el ejercicio anterior, tanto de los provenientes del aporte Fiscal como de los ingresos propios. </div></div>"
+        },
+        {
+          "part_id": 9035304,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Comandante en Jefe del Ej&#xE9;rcito, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a US. para su conocimiento.- Dios guarde a US. Victoria Arellano S., Subsecretario de Hacienda </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Lorenzo Gotuzzo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

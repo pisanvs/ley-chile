@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-09-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-11-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8946306,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Conc&#xE9;dese, por gracia, a don Abelardo Leoncini Salamanca, una pensi&#xF3;n equivalente a un y medio ingreso m&#xED;nimo mensual, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos es aquel a que hace referencia el inciso 1&#xB0; del art&#xED;culo 5 de la Ley N&#xB0;. 18.647, que se emplea para fines no remuneracionales.</div><br><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Conc&#xE9;dese, por gracia, a don Abelardo Anselmo Leoncini Salamanca, una pensi&#xF3;n<span class=\"n\" id=\"n_0\">DTO 958, INTERIOR<br>Art. &#xFA;nico<br>D.O. 05.11.1991</span> equivalente a un y medio ingreso m&#xED;nimo mensual, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos es aquel a que hace referencia el inciso 1&#xB0; del art&#xED;culo 5 de la Ley N&#xB0;. 18.647, que se emplea para fines no remuneracionales. El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico. </div></div>"
+        }
+      ]
+    }
+  }
+]

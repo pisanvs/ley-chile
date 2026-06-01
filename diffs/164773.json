@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1972-11-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1973-12-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845759,
+          "old": "<div><div class=\"p\">LEY NUM. 17.850</div><br><div class=\"p\">CONCEDE PENSION, POR GRACIA, A DO&#xD1;A BERTA LUISA FERNANDEZ LAGOS VIUDA DE NELSON. OTROS BENEFICIOS </div><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">CONCEDE PENSION, POR GRACIA, A DO&#xD1;A BERTA LUISA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> FERNANDEZ LAGOS VIUDA DE NELSON. OTROS BENEFICIOS</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 2121, Interior, publicado el 03.12.1973, rectific&#xF3; el presente decreto ley en el sentido que el nombre correcto de la persona indicada es Erna Luisa Fern&#xE1;ndez Lagos viuda de Nelson, y no como se indica.<br></div></div>"
+        },
+        {
+          "part_id": 8845760,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Conc&#xE9;dese, por gracia, una pensi&#xF3;n mensual equivalente a dos sueldos vitales mensuales escala A), del departamento de Santiago, a do&#xF1;a Berta Luisa Fern&#xE1;ndez Lagos viuda de Nelson; una equivalente a un sueldo vital mensual escala A), del departamento de Santiago, a cada uno de los hijos menores de don Sergio Orlando Nelson Beltr&#xE1;n, Sergio Alberto Nelson Fern&#xE1;ndez y al que estaba por nacer a la fecha de su fallecimiento, hasta que cumplan la edad de 21 a&#xF1;os o 23, si fueren estudiantes universitarios, y una equivalente a tres cuartos de vital mensual escala A), del departamento de Santiago, a cada uno de los padres del mismo se&#xF1;or Nelson Beltr&#xE1;n, don Sergio Nelson Tapia y do&#xF1;a Mar&#xED;a Dolores Beltr&#xE1;n de Tapia.</div><div class=\"p\">&nbsp; &nbsp;  El mayor gasto que signifique la aplicaci&#xF3;n de la presente ley se imputar&#xE1; al &#xED;tem de Pensiones del Presupuesto del Ministerio de Hacienda.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Conc&#xE9;dese, por gracia, una pensi&#xF3;n mensual equivalente a dos sueldos vitales mensuales escala A), del departamento de Santiago, a do&#xF1;a Berta Luisa Fern&#xE1;ndez Lagos viuda de Nelson; una<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> equivalente a un sueldo vital mensual escala A), del departamento de Santiago, a cada uno de los hijos menores de don Sergio Orlando Nelson Beltr&#xE1;n, Sergio Alberto Nelson Fern&#xE1;ndez y al que estaba por nacer a la fecha de su fallecimiento, hasta que cumplan la edad de 21 a&#xF1;os o 23, si fueren estudiantes universitarios, y una equivalente a tres cuartos de vital mensual escala A), del departamento de Santiago, a cada uno de los padres del mismo se&#xF1;or Nelson Beltr&#xE1;n, don Sergio Nelson Tapia y do&#xF1;a Mar&#xED;a Dolores Beltr&#xE1;n de Tapia.</div><div class=\"p\">&nbsp; &nbsp;  El mayor gasto que signifique la aplicaci&#xF3;n de la presente ley se imputar&#xE1; al &#xED;tem de Pensiones del Presupuesto del Ministerio de Hacienda.&quot;.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 2121, Interior, publicado el 03.12.1973, rectific&#xF3; el presente decreto ley en el sentido que el nombre correcto de la persona indicada es Erna Luisa Fern&#xE1;ndez Lagos viuda de Nelson, y no como se indica.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

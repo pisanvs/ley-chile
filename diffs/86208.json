@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-01-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-02-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8317714,
+          "old": "<div><div class=\"p\">FIJA TARIFA ARRIENDO EQUIPO</div><br><div class=\"p\">N&#xFA;m. 1.278.- Valpara&#xED;so, 19 de Diciembre de 1991.- Vistos: el DS (TT y TT) No. 125 de fecha 31.08.90, publicado en el Diario Oficial de fecha 11.01.91; los Art&#xED;culos No. s. 3, 4, 5, 6 y 12 del Decreto citado en el primer Visto; la Resoluci&#xF3;n No. 21 de fecha 18.01.91, que establece el Reglamento para los servicios que presta la Empresa; las facultades delegadas por Resoluci&#xF3;n No. 250 del 21.12.81, de la Direcci&#xF3;n de la Empresa; y en virtud de las atribuciones que me han sido conferidas en mi calidad de Administrador de Puerto de Valpara&#xED;so, dicto la siguiente:</div><br><div class=\"p\">Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA TARIFA ARRIENDO EQUIPO</div><br><div class=\"p\">N&#xFA;m. 1.278.- Valpara&#xED;so, 19 de Diciembre de 1991.- Vistos: el DS (TT y TT) No. 125 de fecha 31.08.90, publicado en el Diario Oficial de fecha 11.01.91; los Art&#xED;culos No. s. 3, 4, 5, 6 y 12 del Decreto citado en el primer Visto; la Resoluci&#xF3;n No. 21 de fecha 18.01.91, que establece el Reglamento para los servicios que presta la Empresa; las facultades delegadas por Resoluci&#xF3;n No. 250 del 21.12.81, de la Direcci&#xF3;n de la Empresa; y en virtud de las atribuciones que me han sido conferidas en mi calidad de Administrador de Puerto de Valpara&#xED;so, dicto la siguiente:</div><br><div class=\"p\">Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

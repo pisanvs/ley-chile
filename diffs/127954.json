@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1988-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6141904,
+          "old": null,
+          "new": "<div><div class=\"p\">REACTUALIZA EN UN 4,14% LAS CANTIDADES EXPRESADAS EN DOLARES</div><div class=\"p\">DE LOS ESTADOS UNIDOS DE AMERICA, A QUE SE REFIEREN LOS</div><div class=\"p\">ARTICULOS 43&#xB0; BIS Y 46&#xB0; DE LA LEY SOBRE IMPUESTO A LAS</div><div class=\"p\">VENTAS Y SERVICIOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.138.- Santiago, 4 de Diciembre de 1988.- Vistos: Lo dispuesto en los art&#xED;culos 43&#xB0; bis, 46&#xB0; y 46&#xB0; bis de la Ley sobre Impuestos a las Ventas y Servicios, contenida en el decreto ley No. 825, de 1974, y sus modificaciones, y</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que los art&#xED;culos 43, bis, 46&#xB0; y 46&#xB0; bis de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el decreto ley No. 825, de 1974, y sus modificaciones, establecen que para los efectos de determinar el monto de los impuestos adicionales que se aplican a la importaci&#xF3;n de veh&#xED;culos, de conjuntos de partes o piezas necesarios para su armadur&#xED;a o ensamblaje en el pa&#xED;s, y de veh&#xED;culos semiterminados, se deben considerar determinadas cantidades expresadas en d&#xF3;lares de los Estados Unidos de Am&#xE9;rica, que se reactualizar&#xE1;n a contar del 1&#xB0; de Enero de cada a&#xF1;o, mediante decreto supremo del Ministerio de Hacienda, de acuerdo con la variaci&#xF3;n experimentada por el Indice Oficial de Precios al por Mayor de los Estados Unidos de Am&#xE9;rica en el per&#xED;odo de doce meses comprendido entre el 01 de Noviembre del a&#xF1;o que antecede a su dictaci&#xF3;n y el 31 de Octubre del a&#xF1;o anterior a su entrada en vigencia.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Que de conformidad a lo informado por el Banco, Central de Chile, el Indice Oficial de Precios al por Mayor de los Estados Unidos de Am&#xE9;rica, en el per&#xED;odo de doce meses comprendido entre el 1&#xB0; de Noviembre de 1987 y el 31 de Octubre de 1988, tuvo una variaci&#xF3;n positiva de un 4,14% </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Decreto</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

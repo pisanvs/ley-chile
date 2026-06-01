@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1958-08-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-03-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999950,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico. Autor&#xED;zase al Presidente de la Rep&#xFA;blica para transferir gratuitamente a la Municipalidad de Parral el sitio de propiedad fiscal ubicado en la comuna de Parral, que deslinda al Norte, con la calle Dieciocho; al Sur, con Sucesi&#xF3;n Hern&#xE1;ndez; al Oriente, con Edificios P&#xFA;blicos, y al Poniente, con calle Balmaceda.</div><div class=\"p\">&nbsp; &nbsp; El terreno objeto de la transferencia fue adquirido por el Fisco por compra a do&#xF1;a Berenice Orrego viuda de San Mart&#xED;n, inscrito a fojas 204, N.o 300, del Registro de Propiedad del Conservador de Bienes Ra&#xED;ces de Parral, correspondiente al a&#xF1;o 1936.</div><div class=\"p\">&nbsp; &nbsp; La Municipalidad de Parral deber&#xE1; destinar el terreno que se le transfiere a la construcci&#xF3;n de una Plaza de Juegos Infantiles; a un gimnasio o cancha de deportes o a un hotel&quot;.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico. Autor&#xED;zase al Presidente de la Rep&#xFA;blica para transferir gratuitamente a la Municipalidad de Parral el sitio de propiedad fiscal ubicado en la comuna de Parral, que deslinda al Norte, con la calle Dieciocho; al Sur, con Sucesi&#xF3;n Hern&#xE1;ndez; al Oriente, con Edificios P&#xFA;blicos, y al Poniente, con calle Balmaceda. El terreno objeto de la transferencia fue adquirido por el Fisco por compra a do&#xF1;a Berenice Orrego viuda de San Mart&#xED;n, inscrito a fojas 237, N.o 346, del Registro<span class=\"n\" id=\"n_0\">LEY 13929<br>Art. &#xFA;nico<br>D.O. 18.03.1960</span> de Propiedad del Conservador de Bienes Ra&#xED;ces de Parral, correspondiente al a&#xF1;o 1936. La Municipalidad de Parral deber&#xE1; destinar el terreno que se le transfiere a la construcci&#xF3;n de una Plaza de Juegos Infantiles; a un gimnasio o cancha de deportes o a un hotel&quot;. </div></div>"
+        }
+      ]
+    }
+  }
+]

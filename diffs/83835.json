@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9049231,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JOSE ANDRES MEDEL RIVAS PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JOSE ANDRES MEDEL RIVAS PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

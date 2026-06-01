@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-03-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048229,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA LANDES S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA LANDES S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

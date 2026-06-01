@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-03-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8952310,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Francisca Bernarda C&#xE9;spedes Gonz&#xE1;lez, c&#xF3;nyuge y madre de la menor, respectivamente, para cobrar las pensiones en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Francisca<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Bernarda C&#xE9;spedes Gonz&#xE1;lez, c&#xF3;nyuge y madre de la menor, respectivamente, para cobrar las pensiones en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 667, Interior, publicado el 18.08.2003, modific&#xF3; la presente norma, en el sentido de facultar a do&#xF1;a Rosa Elvira C&#xE9;spedes Gonz&#xE1;lez, RUT 9.992.574-4, t&#xED;a y tutora legal de la beneficiaria, para cobrar la Pensi&#xF3;n de Gracia de la menor Damaris Bel&#xE9;n Rojas C&#xE9;spedes, RUT 17.737.408-3.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-02-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316400,
+          "old": "<div><div class=\"p\">AUTORIZA AL SINDICATO TRABAJADORES INDEPENDIENTES, BUZOS MARISCADORES DE LIRQUEN PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA AL SINDICATO TRABAJADORES INDEPENDIENTES, BUZOS MARISCADORES DE LIRQUEN PARA INICIAR ACTIVIDADES PESQUERAS </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

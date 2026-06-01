@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-05-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7196470,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AMPLIA Y ESTABLECE NUEVOS SERVICIOS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 486.- Valpara&#xED;so, 11 de Mayo de 1993.- Vistos: El D.S. (TT y TT), N&#xB0; 125 de fecha 03.08.90, publicado en el Diario Oficial el 11.01.91, la Resoluci&#xF3;n N&#xB0; 21 de fecha 18.01.91, que establece el Reglamento para los servicios que presta la Empresa Portuaria, la Resoluci&#xF3;n N&#xB0; 133 de fecha 04.02.93, de la Administraci&#xF3;n Puerto Valpara&#xED;so, que fija las tarifas de almacenamiento y otros servicios, la Resoluci&#xF3;n N&#xB0; 135 de fecha 04.02.93 que establece reglamento tarifario, las facultades delegadas por Resoluci&#xF3;n N&#xB0; 250 del 21.12.81 de la Direcci&#xF3;n de la Empresa; y en virtud de las atribuciones que me han sido conferidas en mi calidad de Administrador del Puerto de Valpara&#xED;so,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AMPLIA Y ESTABLECE NUEVOS SERVICIOS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 486.- Valpara&#xED;so, 11 de Mayo de 1993.- Vistos: El D.S. (TT y TT), N&#xB0; 125 de fecha 03.08.90, publicado en el Diario Oficial el 11.01.91, la Resoluci&#xF3;n N&#xB0; 21 de fecha 18.01.91, que establece el Reglamento para los servicios que presta la Empresa Portuaria, la Resoluci&#xF3;n N&#xB0; 133 de fecha 04.02.93, de la Administraci&#xF3;n Puerto Valpara&#xED;so, que fija las tarifas de almacenamiento y otros servicios, la Resoluci&#xF3;n N&#xB0; 135 de fecha 04.02.93 que establece reglamento tarifario, las facultades delegadas por Resoluci&#xF3;n N&#xB0; 250 del 21.12.81 de la Direcci&#xF3;n de la Empresa; y en virtud de las atribuciones que me han sido conferidas en mi calidad de Administrador del Puerto de Valpara&#xED;so,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

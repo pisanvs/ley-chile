@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-07-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8339319,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD &quot;CHILE ALGAS EXPORTACION Y COMPA&#xD1;IA LIMITADA&quot; PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD &quot;CHILE ALGAS EXPORTACION Y COMPA&#xD1;IA LIMITADA&quot; PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

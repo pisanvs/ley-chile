@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1964-12-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1968-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8372092,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15.o- Der&#xF3;gase el art&#xED;culo 4.o de la ley N.o 15.209, de 2 de Julio de 1963.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15.o- Derogad<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=141366&amp;idParte=8912611&amp;idVersion=1968-12-19\">LEY 17044<br>Art. 10<br>D.O. 19.12.1968</a></span>o.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 141366,
+      "fecha": "1968-12-19"
+    }
+  }
+]

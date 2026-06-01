@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1990-01-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8740509,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- El producto neto de la liquidaci&#xF3;n de la Caja y de la Asociaci&#xF3;n ser&#xE1; ingresado a rentas generales de la Naci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Los bienes, de cualquier naturaleza, no enajenados o liquidados por la Caja en liquidaci&#xF3;n, se entender&#xE1;n transferidos por el solo ministerio de la ley, exentos de todo derecho o impuesto, al dominio del Fisco a contar desde la fecha de publicaci&#xF3;n del decreto que se menciona en el art&#xED;culo anterior. Los Conservadores de Bienes Ra&#xED;ces y el Servicio de Registro Civil e Identificaci&#xF3;n deber&#xE1; practicar las inscripciones y anotaciones que procedan con el solo m&#xE9;rito de la exhibici&#xF3;n de copia autorizada de dicho decreto. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- El producto neto de la liquidaci&#xF3;n de la Caja y de la Asociaci&#xF3;n ser&#xE1; ingresado a rentas generales de la Naci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Los bienes, de cualquier naturaleza, no enajenados o<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> liquidados por la Caja en liquidaci&#xF3;n, se entender&#xE1;n transferidos por el solo ministerio de la ley, exentos de todo derecho o impuesto, al dominio del Fisco a contar desde la fecha de publicaci&#xF3;n del decreto que se menciona en el art&#xED;culo anterior. Los Conservadores de Bienes Ra&#xED;ces y el Servicio de Registro Civil e Identificaci&#xF3;n deber&#xE1; practicar las inscripciones y anotaciones que procedan con el solo m&#xE9;rito de la exhibici&#xF3;n de copia autorizada de dicho decreto.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  Ver el Art&#xED;culo 1&#xB0; y siguientes de la Ley N&#xB0; 19.229, publicada en el &quot;Diario Oficial&quot; de 16 de julio de 1993, que dispone, a contar de la fecha de publicaci&#xF3;n de la misma, el traspaso al Fisco de bienes, derechos y obligaciones que se&#xF1;ala.<br></div></div>"
+        },
+        {
+          "part_id": 8740512,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Der&#xF3;ganse los art&#xED;culos 1&#xB0;, 2&#xB0;, 3&#xB0;, 4&#xB0;, 5&#xB0;, 6&#xB0;, 7&#xB0;, 8&#xB0;, 14, 23, 24, 25, 26, 36, 39, 40, 42, 46, 47, 51, 57 inciso final, 58, 63, 65, 66, 76, 78, 80, 87, 90, 92 y 93 de la ley N&#xB0; 16.807: y los decretos leyes N&#xB0;s. 741, de 1974; 974, de 1975; 1.027, de 1975;</div><div class=\"p\">1.069, de 1975; 1.405, de 1976; 1.755 de 1977; 2.083, de 1977, y 2.960, de 1979.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Der&#xF3;ganse los art&#xED;culos 1&#xB0;, 2&#xB0;, 3&#xB0;, 4&#xB0;, 5&#xB0;, 6&#xB0;, 7&#xB0;, 8&#xB0;, 14, 23, 24, 25, 26, 36, 39, 40, 42, 46, 47, 51, 57 inciso final, 58, 63, 65, 66, 76, 78, 80, 87, 90, 92 y 93 de la ley N&#xB0; 16.807: y los decretos leyes N&#xB0;s. 741, de 1974; 974, de 1975; 1.027, de 1975; 1.069, de 1975; 1.405, de 1976; 1.755 de 1977; 2.083, de 1977, y 2.960, de 1979.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

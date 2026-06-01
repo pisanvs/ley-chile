@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-09-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-05-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7184470,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREA FONDO DE GARANTIA PARA EXPORTADORES NO TRADICIONALES</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley </div></div>",
+          "new": "<div><div class=\"p\">CREA FONDO DE GARANTIA PARA EXPORTADORES NO&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NOTA TRADICIONALES</div><br><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de ley</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 4&#xBA; de la LEY 19677, publicada el 20.05.2000, derog&#xF3; la presente ley, poniendo t&#xE9;rmino al Fondo de Garant&#xED;a para Exportadores no Tradicionales, y traspas&#xF3; de pleno derecho y sin soluci&#xF3;n de continuidad su patrimonio al Fondo de Garant&#xED;a para Peque&#xF1;os Empresarios del DL 3472, de 1980, el que pasa a ser su sucesor legal. El art&#xED;culo transitorio de la Ley 19677 dispone la aplicaci&#xF3;n de las normas de la ley 18645, su reglamento e instrucciones, para todas aquellas situaciones y operaciones pendientes.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1957-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1971-09-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9060040,
+          "old": "<div><br><div class=\"p\"> APRUEBA EL REGLAMENTO DE CRUCES Y PARALELISMOS DE LINEAS ELECTRICAS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.261.- Santiago, 21 de Marzo de 1957.- Vistos estos antecedentes y lo informado por la Direcci&#xF3;n General de Servicios El&#xE9;ctricos y de Gas en oficio n&#xFA;mero 4.430, de 14 de Septiembre de 1956.</div><br><div class=\"p\">Decreto:</div></div>",
+          "new": "<div><br><div class=\"p\"> APRUEBA EL REGLAMENTO DE CRUCES Y PARALELISMOS DE LINEAS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> ELECTRICAS </div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.261.- Santiago, 21 de Marzo de 1957.- Vistos estos antecedentes y lo informado por la Direcci&#xF3;n General de Servicios El&#xE9;ctricos y de Gas en oficio n&#xFA;mero 4.430, de 14 de Septiembre de 1956.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 692 Exenta, Interior, publicada el 24.09.1971, establece que constituir&#xE1;n Normas T&#xE9;cnicas en las materias correspondientes, los textos de los decretos que han sido derogados por el Decreto 1280, Interior, de 24.09.1971.</div></div>"
+        }
+      ]
+    }
+  }
+]

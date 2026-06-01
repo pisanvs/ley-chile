@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "1966-02-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1970-10-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1970-10-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9083955,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14.o- Establ&#xE9;cese un impuesto adicional del 10 por ciento sobre el valor efectivo de las entradas de cines y teatros de las provincias de Atacama y Coquimbo que se cobrar&#xE1; en la misma forma que los impuestos establecidos por la ley n&#xFA;mero 5.172 y su reglamento.</div><div class=\"p\">&nbsp; &nbsp; El producto de este impuesto y contra el cual podr&#xE1; girar el Presidente de la Rep&#xFA;blica, se pondr&#xE1; a disposici&#xF3;n de la Sociedad Juan Sebasti&#xE1;n Bach, de La Serena, para que atienda la mantenci&#xF3;n de una Orquesta Sinf&#xF3;nica y promueva actividades docentes y de extensi&#xF3;n cultural.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14.o- Establ&#xE9;cese un impuesto adicional del 10 por ciento sobre el valor efectivo de las entradas de cines y teatros de las provincias de Atacama y Coquimbo que se cobrar&#xE1; en la misma forma que los impuestos establecidos por la ley n&#xFA;mero 5.172 y su reglamento.</div><div class=\"p\">&nbsp; &nbsp; El producto de este impuesto se depositar&#xE1; en cuenta<span class=\"n\" id=\"n_0\">LEY 16.840<br>Art. 244</span> especial, centralizada en la Tesorer&#xED;a Provincial de Coquimbo, y se entregar&#xE1; a la Universidad de Chile para que lo destine al funcionamiento de actividades docentes y de extensi&#xF3;n musical a trav&#xE9;s del Conservatorio Regional, dependiente del Centro Universitario de La Serena.</div><br></div>"
+        },
+        {
+          "part_id": 9083957,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16.o- Ot&#xF3;rgase un nuevo plazo de 60 d&#xED;as, contados desde la fecha de publicaci&#xF3;n de la presente ley, para que los interesados se acojan a los beneficios establecidos en los art&#xED;culos 51 y 12 transitorio de la ley n&#xFA;mero 16.250, de 21 de Abril de 1965.</div><div class=\"p\">&nbsp; &nbsp; Acl&#xE1;rase que dichas disposiciones benefician tambi&#xE9;n a regidores y ex-regidores.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16.o- Ot&#xF3;rgase un nuevo plazo de 60 d&#xED;as,<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 1.-</a></div> contados desde la fecha de publicaci&#xF3;n de la presente ley, para que los interesados se acojan a los beneficios establecidos en los art&#xED;culos 51 y 12 transitorio de la ley n&#xFA;mero 16.250, de 21 de Abril de 1965.</div><div class=\"p\">&nbsp; &nbsp; Los ex regidores no jubilados como tales y los que<span class=\"n\" id=\"n_1\">LEY 17.366<br>Art 1&#xB0;</span> hubieren jubilado en otra calidad que la de regidores tendr&#xE1;n derecho a jubilar, a rejubilar o reliquidar sus<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:&nbsp; 2.-</a></div> pensiones, en su caso, computando los servicios prestados en calidad de regidores, con los beneficios y modalidades de las leyes 11.745 y 12.566.</div><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 1.-</a> <br>&nbsp; &nbsp;  El art&#xED;culo 136 de la Ley 16.617 otorg&#xF3; un plazo de 30 d&#xED;as a contar de su publicaci&#xF3;n en el Diario Oficial, efectuada el 31 de enero de 1967, para que los ex parlamentarios y regidores y ex regidores puedan acogerse a los beneficios de la jubilaci&#xF3;n o rejubilaci&#xF3;n de acuerdo con lo dispuesto en la presente ley.<br></div><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:&nbsp; 2.-</a> <br>&nbsp; &nbsp;  La modificaci&#xF3;n introducida por la Ley 17.366 regir&#xE1;, seg&#xFA;n su art&#xED;culo 3&#xB0;, desde la vigencia de la presente ley.<br></div></div>"
+        },
+        {
+          "part_id": 9083965,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6.o- El orden de subrogaci&#xF3;n de los funcionarios a que se refieren los art&#xED;culos 30 y 37, letra c), de la Ley Org&#xE1;nica del Banco Central de Chile, deber&#xE1; ser se&#xF1;alado por el Directorio del Banco, por una vez, dentro de los treinta d&#xED;as siguientes a la fecha de publicaci&#xF3;n de la presente ley en el Diario Oficial. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.o- DEROGADO.-<span class=\"n\" id=\"n_4\">LEY 16.464<br>Art. 76,c)</span></div><br></div>"
+        },
+        {
+          "part_id": 9083969,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10.o- D&#xE9;janse sin efecto los reparos efectuados por la Contralor&#xED;a General de la Rep&#xFA;blica a los Tesoreros Comunales y Provinciales por las rendiciones de cuentas municipales al 31 de Diciembre de 1965, siempre que no hubieren reca&#xED;do en hechos constitutivos de delitos.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10.o- D&#xE9;janse sin efecto los reparos<span class=\"n\" id=\"n_5\">LEY 16.478<br>Art. 5&#xB0;<br>LEY 16.840<br>Art. 206&#xB0;</span> efectuados por la Contralor&#xED;a General de la Rep&#xFA;blica a los Tesoreros Comunales y Provinciales y Tesoreros Municipales de Santiago y Valpara&#xED;so, y a sus codeudores solidarios, por las rendiciones de cuentas municipales al 30 de septiembre de 1967 y cond&#xF3;nanse las sumas debidas en raz&#xF3;n de haberse acogido dichos reparos por sentencia ejecutoriada, siempre que &#xE9;stos, en ambos casos, no hubieren reca&#xED;do en hechos constitutivos de delitos.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

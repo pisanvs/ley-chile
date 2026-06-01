@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1960-11-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1962-01-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9005190,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o El producto del o los pr&#xE9;stamos se invertir&#xE1; en la construcci&#xF3;n del Mercado y Matadero Municipal.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o El producto del o los empr&#xE9;stitos que<span class=\"n\" id=\"n_0\">LEY 14827<br>Art. &#xFA;nico<br>D.O. 26.01.1962</span> autoriza la presente ley se destinar&#xE1; &#xED;ntegramente a la terminaci&#xF3;n de las obras de construcci&#xF3;n de la Hoster&#xED;a de El Infiernillo y la edificaci&#xF3;n de un local de renta municipal en la comuna de Pichilemu.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

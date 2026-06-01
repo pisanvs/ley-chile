@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-11-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-04-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8334693,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  AUTORIZA A PESQUERA LOA NORTE S.A. PARA AMPLIAR ACTIVIDADES </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA LOA NORTE S.A. PARA AMPLIAR ACTIVIDADES</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

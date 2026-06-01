@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-10-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9028801,
+          "old": "<div><div class=\"p\">FIJA TEXTO REFUNDIDO Y ACTUALIZADO DEL DECRETO N&#xB0; 210, DE 1983</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 454.- Santiago, 11 de Noviembre de 1992.-</div><div class=\"p\">Visto y Teniendo Presente: Lo dispuesto en el art&#xED;culo 19&#xB0; N&#xB0;</div><div class=\"p\">8 y 32&#xB0; N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica en el D.S. N&#xB0; 210, de 30 de Marzo de 1983, del Ministerio de Bienes Nacionales; los D.S. N&#xB0;s. 708, de 1984, 423 y 557, ambos de 1991,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; F&#xED;jase el siguiente texto refundido y actualizado del D.S. N&#xB0; 210, de 30 de Marzo de 1983, del Ministerio de Bienes Nacionales:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA TEXTO REFUNDIDO Y ACTUALIZADO DEL DECRETO N&#xB0; 210, DE 1983</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 454.- Santiago, 11 de Noviembre de 1992.-</div><div class=\"p\">Visto y Teniendo Presente: Lo dispuesto en el art&#xED;culo 19&#xB0; N&#xB0; 8 y 32&#xB0; N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica en el D.S. N&#xB0; 210, de 30 de Marzo de 1983, del Ministerio de Bienes Nacionales; los D.S. N&#xB0;s. 708, de 1984, 423 y 557, ambos de 1991,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; F&#xED;jase el siguiente texto refundido y actualizado del D.S. N&#xB0; 210, de 30 de Marzo de 1983, del Ministerio de Bienes Nacionales:</div><br></div>"
+        }
+      ]
+    }
+  }
+]

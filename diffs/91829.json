@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-06-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-04-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320799,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA CHILEAN BAY KING CRAB LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA CHILEAN BAY KING CRAB LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

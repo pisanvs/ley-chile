@@ -1,0 +1,56 @@
+[
+  {
+    "fecha": "1983-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-04-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8973938,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Autor&#xED;zase el funcionamiento al Centro de Formaci&#xF3;n T&#xE9;cnica &quot;Centro Nacional de Estudios Param&#xE9;dicos Propam S.A.&quot;, ubicado en calle Hu&#xE9;rfanos N&#xBA; 1463, cuyo fin es la docencia a nivel t&#xE9;cnico para egresados de ense&#xF1;anza media, en las &#xE1;reas param&#xE9;dicas y de servicios.</div><div class=\"p\">&nbsp; &nbsp;  Las carreras que imparta, los t&#xED;tulos que otorgue y las normas de promoci&#xF3;n, evaluaci&#xF3;n y titulaci&#xF3;n se aprobar&#xE1;n por resoluci&#xF3;n del Subsecretario de Educaci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase el funcionamiento del<span class=\"n\" id=\"n_0\">DTO 362 EXENTO<br>EDUCACION<br></span> Centro de Formaci&#xF3;n T&#xE9;cnica que se indica, organizado por la persona jur&#xED;dica que se se&#xF1;ala, cuyo fin es la docencia D.O. 07.04.1998 a nivel t&#xE9;cnico para egresados de ense&#xF1;anza media: Nombre de la Instituci&#xF3;n: Centro de Formaci&#xF3;n T&#xE9;cnica Centro Nacional de Estudios Param&#xE9;dicos y Agropecuarios Propam. Domicilio: Santiago. Organizador: Sociedad Centro Nacional de Estudios Param&#xE9;dicos y Agropecuarios Propam Limitada, o Centro de Formaci&#xF3;n T&#xE9;cnica Propam Ltda., o Centro de Formaci&#xF3;n T&#xE9;cnica Centro Nacional de Estudios Param&#xE9;dicos y Agropecuarios Propam Ltda., o Propam Limitada, o Propam Ltda. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2017-10-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8973938,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase el funcionamiento del<span class=\"n\" id=\"n_0\">DTO 362 EXENTO<br>EDUCACION<br></span> Centro de Formaci&#xF3;n T&#xE9;cnica que se indica, organizado por la persona jur&#xED;dica que se se&#xF1;ala, cuyo fin es la docencia D.O. 07.04.1998 a nivel t&#xE9;cnico para egresados de ense&#xF1;anza media: Nombre de la Instituci&#xF3;n: Centro de Formaci&#xF3;n T&#xE9;cnica Centro Nacional de Estudios Param&#xE9;dicos y Agropecuarios Propam. Domicilio: Santiago. Organizador: Sociedad Centro Nacional de Estudios Param&#xE9;dicos y Agropecuarios Propam Limitada, o Centro de Formaci&#xF3;n T&#xE9;cnica Propam Ltda., o Centro de Formaci&#xF3;n T&#xE9;cnica Centro Nacional de Estudios Param&#xE9;dicos y Agropecuarios Propam Ltda., o Propam Limitada, o Propam Ltda. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase el funcionamiento del<span class=\"n\" id=\"n_0\">DTO 362 EXENTO<br>EDUCACION<br></span> Centro de Formaci&#xF3;n T&#xE9;cnica que se indica, organizado por la persona jur&#xED;dica que se se&#xF1;ala, cuyo fin es la docencia D.O. 07.04.1998 a nivel t&#xE9;cnico para egresados de ense&#xF1;anza media: </div><div class=\"p\">Nombre de la </div><div class=\"p\">Instituci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; : Centro <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1108899&amp;idParte=9839746&amp;idVersion=2017-10-12\">Decreto 23 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 12.10.2017</a></span>de Formaci&#xF3;n T&#xE9;cnica Santo Tom&#xE1;s.</div><div class=\"p\">Organizador&nbsp; &nbsp; &nbsp; &nbsp; : Sociedad Centro de Formaci&#xF3;n T&#xE9;cnica </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Santo Tom&#xE1;s Limitada, pudiendo abreviarse </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  la expresi&#xF3;n &quot;Limitada&quot; por &quot;Ltda.&quot; y </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  pudiendo utilizar adem&#xE1;s los nombres de </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  fantas&#xED;a &quot;Centro Nacional de Estudios </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Param&#xE9;dicos y Agropecuarios Propam Ltda.&quot;, </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &quot;CFT Santo Tom&#xE1;s Limitada&quot;, &quot;Centro de </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Formaci&#xF3;n T&#xE9;cnica Santo Tom&#xE1;s Ltda&quot;, </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &quot;CFT Santo Tom&#xE1;s Ltda&quot;, &quot;Propam&quot;, </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &quot;Propam Ltda.&quot; y &quot;Propam Limitada&quot;.</div><div class=\"p\">Representante </div><div class=\"p\">Legal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : Presidente del Directorio</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8973938,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase el funcionamiento del<span class=\"n\" id=\"n_0\">DTO 362 EXENTO<br>EDUCACION<br></span> Centro de Formaci&#xF3;n T&#xE9;cnica que se indica, organizado por la persona jur&#xED;dica que se se&#xF1;ala, cuyo fin es la docencia D.O. 07.04.1998 a nivel t&#xE9;cnico para egresados de ense&#xF1;anza media: </div><div class=\"p\">Nombre de la </div><div class=\"p\">Instituci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; : Centro <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1108899&amp;idParte=9839746&amp;idVersion=2017-10-12\">Decreto 23 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 12.10.2017</a></span>de Formaci&#xF3;n T&#xE9;cnica Santo Tom&#xE1;s.</div><div class=\"p\">Organizador&nbsp; &nbsp; &nbsp; &nbsp; : Sociedad Centro de Formaci&#xF3;n T&#xE9;cnica </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Santo Tom&#xE1;s Limitada, pudiendo abreviarse </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  la expresi&#xF3;n &quot;Limitada&quot; por &quot;Ltda.&quot; y </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  pudiendo utilizar adem&#xE1;s los nombres de </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  fantas&#xED;a &quot;Centro Nacional de Estudios </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Param&#xE9;dicos y Agropecuarios Propam Ltda.&quot;, </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &quot;CFT Santo Tom&#xE1;s Limitada&quot;, &quot;Centro de </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Formaci&#xF3;n T&#xE9;cnica Santo Tom&#xE1;s Ltda&quot;, </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &quot;CFT Santo Tom&#xE1;s Ltda&quot;, &quot;Propam&quot;, </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &quot;Propam Ltda.&quot; y &quot;Propam Limitada&quot;.</div><div class=\"p\">Representante </div><div class=\"p\">Legal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : Presidente del Directorio</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase el funcionamiento del<span class=\"n\" id=\"n_0\">DTO 362 EXENTO<br>EDUCACION<br></span> Centro de Formaci&#xF3;n T&#xE9;cnica que se indica, organizado por la persona jur&#xED;dica que se se&#xF1;ala, cuyo fin es la docencia D.O. 07.04.1998 a nivel t&#xE9;cnico para egresados de ense&#xF1;anza media: </div><div class=\"p\">Nombre de la </div><div class=\"p\">Instituci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; : Centro de Formaci&#xF3;n T&#xE9;cnica Santo Tom&#xE1;s.</div><div class=\"p\">Organizador&nbsp; &nbsp; &nbsp; &nbsp; : Corporaci&#xF3;n <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1133344&amp;idParte=10034818&amp;idVersion=2019-07-02\">Decreto 308 EXENTO, <br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 02.07.2019</a></span>Centro de Formaci&#xF3;n T&#xE9;cnica Santo Tom&#xE1;s</div><div class=\"p\">Representante </div><div class=\"p\">Legal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Presidente del Directorio</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1133344,
+      "fecha": "2019-07-02"
+    }
+  }
+]

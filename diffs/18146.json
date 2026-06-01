@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-11-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-02-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8267923,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA DECRETO N&#xB0; 940, DE 1975 Santiago, 12 de Septiembre de 1994.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.584.- Visto: Lo dispuesto en los art&#xED;culos 6&#xB0; y 91 del Decreto Ley N&#xB0; 1.094 de 1975; en el art&#xED;culo 177 del Decreto Supremo N&#xB0; 597 de 1984 del Ministerio del Interior; en el Decreto Supremo N&#xB0; 940 de 1975, modificado por los Decretos Supremos N&#xB0;s. 1.401 de 1975, 1.175 de 1981, 742 de 1990 y 828 de 1994, todos del Ministerio del Interior, y en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA DECRETO N&#xB0; 940, DE 1975 Santiago, 12 de Septiembre de 1994.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.584.- Visto: Lo dispuesto en los art&#xED;culos 6&#xB0; y 91 del Decreto Ley N&#xB0; 1.094 de 1975; en el art&#xED;culo 177 del Decreto Supremo N&#xB0; 597 de 1984 del Ministerio del Interior; en el Decreto Supremo N&#xB0; 940 de 1975, modificado por los Decretos Supremos N&#xB0;s. 1.401 de 1975, 1.175 de 1981, 742 de 1990 y 828 de 1994, todos del Ministerio del Interior, y en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

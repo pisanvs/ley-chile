@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-04-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-06-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8341870,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JUVENAL OTONIEL SALAS VERA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCION QUE INDICA</div><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JUVENAL OTONIEL SALAS VERA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

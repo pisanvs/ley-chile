@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1979-04-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-02-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9036879,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- Sin perjuicio de lo dispuesto en el inciso segundo del art&#xED;culo 292 del C&#xF3;digo Penal, se presumir&#xE1; que las asociaciones a que se refiere el inciso primero de dicho art&#xED;culo ha tenido alguno de los objetos que en &#xE9;l se indican, cuando uno o m&#xE1;s de sus miembros ha dado principio a la ejecuci&#xF3;n de alguno de los delitos contemplados en el art&#xED;culo 5&#xB0; a), 5&#xB0; b), y 6&#xB0;, letras c), d), e) y g), de la ley N&#xB0; 12.927 de Seguridad del Estado; en el art&#xED;culo 58 del decreto con fuerza de ley N&#xB0; 221, de 1931, sobre Navegaci&#xF3;n A&#xE9;rea; en el inciso primero del art&#xED;culo 8&#xB0; de la ley N&#xB0; 17.798 sobre Control de Armas; o en los delitos previstos en los art&#xED;culos 323 a 326, 474 a 476, y 480 del C&#xF3;digo Penal.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;- DEROGADO.-<span class=\"n\" id=\"n_0\">LEY 19047<br>Art. 8&#xB0;</span></div><br></div>"
+        },
+        {
+          "part_id": 9036880,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;- Cuando uno o m&#xE1;s miembros de la asociaci&#xF3;n il&#xED;cita ha ejecutado o dado principio a la ejecuci&#xF3;n de alguno de los delitos indicados en el art&#xED;culo anterior de este decreto ley, la pena se&#xF1;alada para los casos contemplados en el inciso segundo del art&#xED;culo 293 del C&#xF3;digo Penal, se aplicar&#xE1; en sus grados medio a m&#xE1;ximo; y las penas para los casos previstos en el art&#xED;culo 294 del mismo C&#xF3;digo, ser&#xE1;n las de presidio menor en su grado m&#xE1;ximo y presidio menor en su grado medio, respectivamente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;- DEROGADO.-<span class=\"n\" id=\"n_1\">LEY 19047<br>Art. 8&#xB0;</span></div><br></div>"
+        },
+        {
+          "part_id": 9036882,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- En los casos a que se refiere el N&#xB0; 5&#xB0; del inciso tercero del art&#xED;culo 363 del C&#xF3;digo de Procedimiento Penal tampoco proceder&#xE1; la remisi&#xF3;n condicional de la pena.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;- DEROGADO.-<span class=\"n\" id=\"n_2\">LEY 19047<br>Art. 8&#xB0;</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

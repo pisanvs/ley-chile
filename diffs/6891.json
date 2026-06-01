@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1978-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-12-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8784441,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19&#xBA;.- Los requisitos de capacitaci&#xF3;n establecidos en el DFL. N&#xBA; 90, de Hacienda, de 1977, no ser&#xE1;n exigibles, hasta el 1&#xBA; de Enero de 1980, para los efectos de ocupar en el car&#xE1;cter de interino cargos de Jefaturas B y C.</div><div class=\"p\">&nbsp; &nbsp;  Los interinatos referidos caducar&#xE1;n, a contar de dicha fecha, respecto de los funcionarios que no hubieren cumplido entretanto con los requisitos de capacitaci&#xF3;n necesarios. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19&#xBA;.- Los requisitos de capacitaci&#xF3;n establecidos en el DFL. N&#xBA; 90, de Hacienda, de 1977, no ser&#xE1;n exigibles, hasta el 1&#xBA; de Enero de 1981, para los<span class=\"n\" id=\"n_0\">DL 3001, HACIENDA<br>Art. 4&#xBA;<br>D.O. 27.12.1979</span> efectos de ocupar en el car&#xE1;cter de interino cargos de Jefaturas B y C.</div><div class=\"p\">&nbsp; &nbsp;  Los interinatos referidos caducar&#xE1;n, a contar de dicha fecha, respecto de los funcionarios que no hubieren cumplido entretanto con los requisitos de capacitaci&#xF3;n necesarios.</div><br></div>"
+        },
+        {
+          "part_id": 8784456,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 33&#xBA;.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que, dentro del plazo de noventa d&#xED;as, mediante decretos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, suscritos tambi&#xE9;n por el Ministro de Hacienda, y a proposici&#xF3;n del Vicepresidente Ejecutivo de la Empresa de Comercio Agr&#xED;cola, proceda a suprimir cargos de las plantas del personal de dicha Empresa.</div><div class=\"p\">&nbsp; &nbsp;  Los funcionarios que pierdan sus cargos por aplicaci&#xF3;n de la facultad a que se refiere el inciso anterior y no re&#xFA;nan los requisitos para acogerse a jubilaci&#xF3;n, tendr&#xE1;n derecho a seguir percibiendo, durante seis meses, a t&#xED;tulo de indemnizaci&#xF3;n, la remuneraci&#xF3;n total que les haya correspondido en el &#xFA;ltimo mes en que prestaren servicios. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 33&#xBA;.- Fac&#xFA;ltase al Presidente de la<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> Rep&#xFA;blica para que, dentro del plazo de noventa d&#xED;as, mediante decretos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, suscritos tambi&#xE9;n por el Ministro de Hacienda, y a proposici&#xF3;n del Vicepresidente Ejecutivo de la Empresa de Comercio Agr&#xED;cola, proceda a suprimir cargos de las plantas del personal de dicha Empresa.</div><div class=\"p\">&nbsp; &nbsp;  Los funcionarios que pierdan sus cargos por aplicaci&#xF3;n de la facultad a que se refiere el inciso anterior y no re&#xFA;nan los requisitos para acogerse a jubilaci&#xF3;n, tendr&#xE1;n derecho a seguir percibiendo, durante seis meses, a t&#xED;tulo de indemnizaci&#xF3;n, la remuneraci&#xF3;n total que les haya correspondido en el &#xFA;ltimo mes en que prestaren servicios.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 33 del DL 3001, Hacienda, publicado el 27.12.1979, renueva por el plazo de un a&#xF1;o, la facultad concedida en esta norma. Tendr&#xE1; aplicaci&#xF3;n, asimismo, en los casos que correspondan, lo dispuesto en el inciso segundo de este art&#xED;culo.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1980-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8784456,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 33&#xBA;.- Fac&#xFA;ltase al Presidente de la<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> Rep&#xFA;blica para que, dentro del plazo de noventa d&#xED;as, mediante decretos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, suscritos tambi&#xE9;n por el Ministro de Hacienda, y a proposici&#xF3;n del Vicepresidente Ejecutivo de la Empresa de Comercio Agr&#xED;cola, proceda a suprimir cargos de las plantas del personal de dicha Empresa.</div><div class=\"p\">&nbsp; &nbsp;  Los funcionarios que pierdan sus cargos por aplicaci&#xF3;n de la facultad a que se refiere el inciso anterior y no re&#xFA;nan los requisitos para acogerse a jubilaci&#xF3;n, tendr&#xE1;n derecho a seguir percibiendo, durante seis meses, a t&#xED;tulo de indemnizaci&#xF3;n, la remuneraci&#xF3;n total que les haya correspondido en el &#xFA;ltimo mes en que prestaren servicios.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 33 del DL 3001, Hacienda, publicado el 27.12.1979, renueva por el plazo de un a&#xF1;o, la facultad concedida en esta norma. Tendr&#xE1; aplicaci&#xF3;n, asimismo, en los casos que correspondan, lo dispuesto en el inciso segundo de este art&#xED;culo.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 33&#xBA;.- Fac&#xFA;ltase al Presidente de la<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> Rep&#xFA;blica para que, dentro del plazo de noventa d&#xED;as,<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 1:</a></div> mediante decretos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, suscritos tambi&#xE9;n por el Ministro de Hacienda, y a proposici&#xF3;n del Vicepresidente Ejecutivo de la Empresa de Comercio Agr&#xED;cola, proceda a suprimir cargos de las plantas del personal de dicha Empresa.</div><div class=\"p\">&nbsp; &nbsp;  Los funcionarios que pierdan sus cargos por aplicaci&#xF3;n de la facultad a que se refiere el inciso anterior y no re&#xFA;nan los requisitos para acogerse a jubilaci&#xF3;n, tendr&#xE1;n derecho a seguir percibiendo, durante seis meses, a t&#xED;tulo de indemnizaci&#xF3;n, la remuneraci&#xF3;n total que les haya correspondido en el &#xFA;ltimo mes en que prestaren servicios.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 33 del DL 3001, Hacienda, publicado el 27.12.1979, renueva por el plazo de un a&#xF1;o, la facultad concedida en esta norma. Tendr&#xE1; aplicaci&#xF3;n, asimismo, en los casos que correspondan, lo dispuesto en el inciso segundo de este art&#xED;culo.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 1:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 4&#xBA; del DL 3529, Hacienda, publicado el 06.12.1980, renueva, a partir de la fecha de su publicaci&#xF3;n y por el plazo de un a&#xF1;o la facultad concedida por la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1976-04-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-07-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7133110,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DECRETO N&#xB0; 37, DE 26 DE MARZO DE 1976 Aprueba los Estatutos de la Corporaci&#xF3;n Nacional del Cobre de Chile.</div><div class=\"p\">&nbsp; &nbsp; NUM. 37.- Santiago, 26 de marzo de 1976.- Vistos: estos antecedentes y teniendo presente lo establecido en el art&#xED;culo 11&#xB0; del decreto ley 1.350, de 1976, y en los decretos leyes 1 y 128, de 1973; 527 y 806, de 1974</div><div class=\"p\">&nbsp; &nbsp; DECRETO:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;banse los siguientes Estatutos de la Corporaci&#xF3;n Nacional del Cobre de Chile, creada por decreto ley 1.350, de 30 de enero de 1976.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DECRETO N&#xB0; 37, DE 26 DE MARZO DE 1976 Aprueba los Estatutos de la Corporaci&#xF3;n Nacional del Cobre de Chile.</div><div class=\"p\">&nbsp; &nbsp; NUM. 37.- Santiago, 26 de marzo de 1976.- Vistos: estos antecedentes y teniendo presente lo establecido en el art&#xED;culo 11&#xB0; del decreto ley 1.350, de 1976, y en los decretos leyes 1 y 128, de 1973; 527 y 806, de 1974</div><div class=\"p\">&nbsp; &nbsp; DECRETO:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;banse los siguientes Estatutos de la Corporaci&#xF3;n Nacional del Cobre de Chile, creada por decreto ley 1.350, de 30 de enero de 1976.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 7133130,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Articulo decimosexto. . El Presidente Ejecutivo de la Empresa ser&#xE1; designado por el Presidente de la Rep&#xFA;blica por decreto supremo del Ministerio de Miner&#xED;a, siendo tal designaci&#xF3;n de su exclusiva confianza.</div><div class=\"p\">&nbsp; &nbsp;  En caso de ausencias ocasionales, el Presidente Ejecutivo ser&#xE1; reemplazado por uno de los Directores de la exclusiva confianza del Presidente de la Rep&#xFA;blica a que alude, la letra. d) del art&#xED;culo l0.o de estos Estatutos en el orden de precedencia que se&#xF1;ale el Directorio.</div><div class=\"p\">&nbsp; &nbsp;  El nombramiento del Presidente Ejecutivo podr&#xE1; ser revocado por el Presidente de la Rep&#xFA;blica y en tal evento o en el de renuncia, fallecimiento u otro impedimento, se proceder&#xE1; a designarle reemplazante en la forma se&#xF1;alada en el inciso primero de este art&#xED;culo.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 16&#xB0; El Presidente Ejecutivo de la Empresa ser&#xE1; designado por el Presidente de la Rep&#xFA;blica por decreto supremo del Ministerio de Miner&#xED;a, siendo tal designaci&#xF3;n de su exclusiva confianza.</div><div class=\"p\">&nbsp; &nbsp; En caso de ausencias, el Presidente Ejecutivo ser&#xE1;<span class=\"n\" id=\"n_0\">DS 114, 1979<br>MINERIA<br>ART. UNICO</span> reemplazado por un ejecutivo superior de la Empresa, seg&#xFA;n el orden que, a propuesta del Presidente Ejecutivo, se&#xF1;ale el Directorio.</div><div class=\"p\">&nbsp; &nbsp; El nombramiento del Presidente Ejecutivo podr&#xE1; ser revocado por el Presidente de la Rep&#xFA;blica y en tal evento o en el de renuncia, fallecimiento u otro impedimento, se proceder&#xE1; a designarle reemplazante en la foma se&#xF1;alada en el inciso 1&#xB0; de este art&#xED;culo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

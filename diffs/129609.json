@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-08-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8338740,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA MARAZUL LIMITADA PARA AMPLIAR ACTIVIDADES </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA MARAZUL LIMITADA PARA AMPLIAR ACTIVIDADES</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

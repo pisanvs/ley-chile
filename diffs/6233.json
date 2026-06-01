@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-08-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1980-09-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8852046,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APLICA LOS IMPUESTOS QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 619.- Santiago, 19 de Agosto de 1974.- Vistos: lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973 y 527, de 1974,</div><div class=\"p\">&nbsp; &nbsp; la Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; APLICA LOS IMPUESTOS QUE SE&#xD1;ALA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 619.- Santiago, 19 de Agosto de 1974.- Vistos: lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973 y 527, de 1974,</div><div class=\"p\">&nbsp; &nbsp; la Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 32 del DL 3475, Hacienda, publicado el 04.09.1980, derog&#xF3; el presente Decreto Ley a contar del d&#xED;a 1&#xBA; del mes subsiguiente al de su publicaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

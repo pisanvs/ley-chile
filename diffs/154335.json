@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-09-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-02-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6228683,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD AMERICAN PRODUCTOS LTDA. PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD AMERICAN PRODUCTOS LTDA. PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

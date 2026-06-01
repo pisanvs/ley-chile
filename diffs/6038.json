@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1974-03-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-01-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9062318,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las asignaciones contempladas en los incisos 3&#xBA; y 4&#xBA; del art&#xED;culo 33&#xBA; del decreto con fuerza de ley N&#xBA; 2, de 1968, de Interior, cuyo texto fue fijado por el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 260, de 1974, ser&#xE1;n aplicables al personal de la Direcci&#xF3;n General de Investigaciones.</div><div class=\"p\">&nbsp; &nbsp;  Para estos efectos, las referencias que se hacen a &quot;el Oficial que desempe&#xF1;e el cargo de General Director de Carabineros&quot;, a &quot;los Oficiales Generales titulares de los cargos de Subdirector y Generales Inspectores (II Categor&#xED;a)&quot; y a &quot;los Oficiales de fila titulares del cargo de General (III Categor&#xED;a)&quot;, se entender&#xE1;n hechas a los cargos de &quot;Director General de Investigaciones&quot;, &quot;Subdirector General (II Categor&#xED;a)&quot; y &quot;Prefecto Inspector o grados equivalentes (III Categor&#xED;a)&quot;, respectivamente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las asignaciones contempladas en los incisos 3&#xBA; y 4&#xBA; del art&#xED;culo 33&#xBA; del decreto con fuerza de ley N&#xBA; 2, de 1968, de Interior, cuyo texto fue fijado por el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 260, de 1974, ser&#xE1;n aplicables al personal de la Direcci&#xF3;n General de Investigaciones.</div><div class=\"p\">&nbsp; &nbsp;  Para estos efectos, las referencias que se hacen a &quot;el Oficial que desempe&#xF1;e el cargo de General Director de Carabineros&quot;, a &quot;los Oficiales Generales titulares de los cargos de Subdirector y Generales Inspectores Gdo. 2<span class=\"n\" id=\"n_0\">DL 876, DEFENSA<br>Art. 3&#xBA;<br>D.O. 22.01.1975</span> y a &quot;los Oficiales de fila titulares del cargo de General Gdo. 3, se entender&#xE1;n hechas a los cargos de &quot;Director General de Investigaciones&quot;, &quot;Subdirector General Gdo. 2 y &quot;Prefecto Inspector Gdo. 3, respectivamente.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1980-09-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9062318,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las asignaciones contempladas en los incisos 3&#xBA; y 4&#xBA; del art&#xED;culo 33&#xBA; del decreto con fuerza de ley N&#xBA; 2, de 1968, de Interior, cuyo texto fue fijado por el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 260, de 1974, ser&#xE1;n aplicables al personal de la Direcci&#xF3;n General de Investigaciones.</div><div class=\"p\">&nbsp; &nbsp;  Para estos efectos, las referencias que se hacen a &quot;el Oficial que desempe&#xF1;e el cargo de General Director de Carabineros&quot;, a &quot;los Oficiales Generales titulares de los cargos de Subdirector y Generales Inspectores Gdo. 2<span class=\"n\" id=\"n_0\">DL 876, DEFENSA<br>Art. 3&#xBA;<br>D.O. 22.01.1975</span> y a &quot;los Oficiales de fila titulares del cargo de General Gdo. 3, se entender&#xE1;n hechas a los cargos de &quot;Director General de Investigaciones&quot;, &quot;Subdirector General Gdo. 2 y &quot;Prefecto Inspector Gdo. 3, respectivamente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las asignaciones contempladas en los incisos 3&#xBA; y 4&#xBA; del art&#xED;culo 33&#xBA; del decreto con fuerza de ley N&#xBA; 2, de 1968, de Interior, cuyo texto fue fijado por el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 260, de 1974, ser&#xE1;n aplicables al personal de la Direcci&#xF3;n General de Investigaciones.</div><div class=\"p\">&nbsp; &nbsp;  Para estos efectos, las referencias que se hacen a &quot;el Oficial que desempe&#xF1;e el cargo de General Director de Carabineros&quot;, a &quot;los Oficiales Generales titulares de los cargos de Subdirector y Generales Inspectores Gdo. 2<span class=\"n\" id=\"n_0\">DL 876, DEFENSA<br>Art. 3&#xBA;<br>D.O. 22.01.1975</span> y a &quot;los Oficiales de fila titulares del cargo de General Gdo. 3, se entender&#xE1;n hechas a los cargos de &quot;Director General de Investigaciones&quot;, &quot;Subdirector General Gdo. 2 y &quot;Prefecto Inspector Gdo. 3 de la<span class=\"n\" id=\"n_1\">DL 3483, DEFENSA<br>Art. &#xFA;nico<br>D.O. 20.09.1980</span> planta de Oficiales Policiales, respectivamente.</div><div class=\"p\"> </div></div>"
+        }
+      ]
+    }
+  }
+]

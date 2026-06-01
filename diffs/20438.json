@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-09-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8272134,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA NORMA OFICIAL DE LA REPUBLICA LA QUE INDICA, APROBADA POR EL INSTITUTO NACIONAL DE NORMALIZACION N&#xFA;m. 152 exento.- Santiago, 29 de Agosto de 1994.- Visto: Estos antecedentes: El oficio N&#xB0; 10760-400, de fecha 08.07.94 del Instituto Nacional de Normalizaci&#xF3;n; lo informado por el Sr. Superintendente de Electricidad y Combustibles mediante el Ord. N&#xB0; 3083 de fecha 09.08.94 y por la Secretar&#xED;a Ejecutiva de la Comisi&#xF3;n Nacional de Energ&#xED;a mediante el Ord. N&#xB0; 765-94, de fecha 19.08.94; lo dispuesto en el art&#xED;culo 3&#xB0; N&#xB0; 14 de la ley N&#xB0; 18.410; el DFL N&#xB0; 88, de Hacienda, de 1953, y lo previsto en el Decreto N&#xB0; 654, de 1994, del Ministerio del Interior y en la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA NORMA OFICIAL DE LA REPUBLICA LA QUE INDICA, APROBADA POR EL INSTITUTO NACIONAL DE NORMALIZACION N&#xFA;m. 152 exento.- Santiago, 29 de Agosto de 1994.- Visto: Estos antecedentes: El oficio N&#xB0; 10760-400, de fecha 08.07.94 del Instituto Nacional de Normalizaci&#xF3;n; lo informado por el Sr. Superintendente de Electricidad y Combustibles mediante el Ord. N&#xB0; 3083 de fecha 09.08.94 y por la Secretar&#xED;a Ejecutiva de la Comisi&#xF3;n Nacional de Energ&#xED;a mediante el Ord. N&#xB0; 765-94, de fecha 19.08.94; lo dispuesto en el art&#xED;culo 3&#xB0; N&#xB0; 14 de la ley N&#xB0; 18.410; el DFL N&#xB0; 88, de Hacienda, de 1953, y lo previsto en el Decreto N&#xB0; 654, de 1994, del Ministerio del Interior y en la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

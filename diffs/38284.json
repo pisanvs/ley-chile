@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-02-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201056,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS TECNICO ADMINISTRATIVAS PARA LA APLICACION DEL ARANCEL DEL REGIMEN DE PRESTACIONES DE SALUD DE LA LEY N&#xB0; 18.469 EN LA MODALIDAD INSTITUCIONAL N&#xFA;m. 94 exenta.- Santiago, 6 de febrero de 1996.- Visto: Lo establecido en el art&#xED;culo 4&#xB0;, letra b) de la Ley 18.469 y en el inciso segundo del art&#xED;culo 6&#xB0; del Decreto Ley N&#xB0; 2.763 de 1979; lo dispuesto en la Resoluci&#xF3;n N&#xB0; 1.271, del 29 de Diciembre de 1995 del Ministerio de Salud y de Hacienda, que aprob&#xF3; el Arancel del R&#xE9;gimen de Prestaciones de Salud, dicto la siguiente Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE NORMAS TECNICO ADMINISTRATIVAS PARA LA APLICACION DEL ARANCEL DEL REGIMEN DE PRESTACIONES DE SALUD DE LA LEY N&#xB0; 18.469 EN LA MODALIDAD INSTITUCIONAL </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 94 exenta.- Santiago, 6 de febrero de 1996.- Visto: Lo establecido en el art&#xED;culo 4&#xB0;, letra b) de la Ley 18.469 y en el inciso segundo del art&#xED;culo 6&#xB0; del Decreto Ley N&#xB0; 2.763 de 1979; lo dispuesto en la Resoluci&#xF3;n N&#xB0; 1.271, del 29 de Diciembre de 1995 del Ministerio de Salud y de Hacienda, que aprob&#xF3; el Arancel del R&#xE9;gimen de Prestaciones de Salud, dicto la siguiente </div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

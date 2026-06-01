@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1988-02-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7184768,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14.- La subasta de la especie por falta de pago de la obligaci&#xF3;n garantida con ella no podr&#xE1; suspenderse en caso de concurso, quiebra o muerte del deudor, ni por otra causa que no sea orden escrita del juez competente, dictada previa consignaci&#xF3;n del valor de la obligaci&#xF3;n garantida y de sus intereses, gastos y derechos.</div><div class=\"p\">&nbsp; &nbsp; El producto de la subasta s&#xF3;lo ser&#xE1; embargable en lo que exceda de lo que corresponda pagar al acreedor prendario.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14.- La subasta de la especie por falta de pago de la obligaci&#xF3;n garantida con ella no podr&#xE1; suspenderse en cas<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1058072&amp;idParte=9399109&amp;idVersion=2014-01-09\">Ley 20720<br>Art. 370 N&#xB0; 1<br>D.O. 09.01.2014</a></span>o de declarado el inicio de un procedimiento concursal o muerte del deudor, ni por otra causa que no sea orden escrita del juez competente, dictada previa consignaci&#xF3;n del valor de la obligaci&#xF3;n garantida y de sus intereses, gastos y derechos.</div><div class=\"p\">&nbsp; &nbsp; El producto de la subasta s&#xF3;lo ser&#xE1; embargable en lo que exceda de lo que corresponda pagar al acreedor prendario.</div><br></div>"
+        },
+        {
+          "part_id": 7184784,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 30.- Para ejercer el giro de almacenes generales de dep&#xF3;sito, los interesados deber&#xE1;n acreditar previamente ante la Superintendencia de Bancos e Instituciones Financieras:</div><div class=\"p\">&nbsp; &nbsp; a) Que, en el caso de personas jur&#xED;dicas, se encuentran constituidas legalmente y tienen como giro exclusivo el desarrollo de las actividades a que se refiere esta ley; que, si se trata de personas naturales, no han sido condenadas ni se hallan actualmente procesadas por crimen o simple delito de acci&#xF3;n p&#xFA;blica, y que, en el caso de personas naturales o jur&#xED;dicas declaradas en quiebra, han sido legalmente rehabilitadas. Las personas jur&#xED;dicas deber&#xE1;n acreditar, adem&#xE1;s, que los impedimentos se&#xF1;alados precedentemente no afectan a sus administradores o directores, y b) Que tienen un patrimonio igual o superior a 20.000 unidades de fomento, acreditado en conformidad a las instrucciones que imparta la Superintendencia. Trat&#xE1;ndose de empresas con un a&#xF1;o o m&#xE1;s de funcionamiento, deber&#xE1; acreditarse el patrimonio mediante copia del balance, debidamente auditado, que haya servido de base a la &#xFA;ltima declaraci&#xF3;n de impuesto a la renta del almacenista.</div><div class=\"p\">&nbsp; &nbsp; Sin perjuicio de lo anterior, los almacenistas deber&#xE1;n, adem&#xE1;s, acreditar anualmente ante la Superintendencia las circunstancias se&#xF1;aladas en las letras a) y b) precedentes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 30.- Para ejercer el giro de almacenes generales de dep&#xF3;sito, los interesados deber&#xE1;n acreditar previamente ante la Superintendencia de Bancos e Instituciones Financieras:</div><div class=\"p\">&nbsp; &nbsp; a) Que, en el caso de personas jur&#xED;dicas, se encuentran constituidas legalmente y tienen como giro exclusivo el desarrollo de las actividades a que se refiere esta ley; que, si se trata de personas naturales, no han sido condenadas ni se hallan actualmente procesadas por crimen o simple delito de acci&#xF3;n p&#xFA;blica, y que, en el caso de personas naturales o jur&#xED;dicas<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1058072&amp;idParte=9399109&amp;idVersion=2014-01-09\">Ley 20720<br>Art. 370 N&#xB0; 2<br>D.O. 09.01.2014</a></span>, el procedimiento concursal de liquidaci&#xF3;n se encuentre terminado por sentencia firme. Las personas jur&#xED;dicas deber&#xE1;n acreditar, adem&#xE1;s, que los impedimentos se&#xF1;alados precedentemente no afectan a sus administradores o directores, y b) Que tienen un patrimonio igual o superior a 20.000 unidades de fomento, acreditado en conformidad a las instrucciones que imparta la Superintendencia. Trat&#xE1;ndose de empresas con un a&#xF1;o o m&#xE1;s de funcionamiento, deber&#xE1; acreditarse el patrimonio mediante copia del balance, debidamente auditado, que haya servido de base a la &#xFA;ltima declaraci&#xF3;n de impuesto a la renta del almacenista.</div><div class=\"p\">&nbsp; &nbsp; Sin perjuicio de lo anterior, los almacenistas deber&#xE1;n, adem&#xE1;s, acreditar anualmente ante la Superintendencia las circunstancias se&#xF1;aladas en las letras a) y b) precedentes.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

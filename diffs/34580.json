@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-03-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8292204,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDADES PRESQUERAS EN LA UNIDAD DE PESQUERIA EN PLENA EXPLOTACION DE LANGOSTINO AMARILLO FIJADA POR EL DECRETO N&#xB0; 377 DE 1995</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 391.- Valpara&#xED;so, 27 de Febrero de 1996.- Visto: Lo solicitado por Mar&#xED;a Baycic Baycic, Mario Morozin Yurecic, Mar&#xED;a Ana Morozin Baycic y Pesquera Quintero S.A.; lo informado por la Division de Desarrollo Pesquero de esta Subsecretar&#xED;a en Memorandun N&#xB0; 1 y 2 de 3 de Enero, N&#xB0; 3 y N&#xB0; 4 de 4 de Enero y N&#xB0; 17 de 16 de Enero, todos de 1996, el D.F.L. N&#xB0; 5, de 1983; la Resoluci&#xF3;n N&#xB0; 1417 de 5 de Octubre de 1995 de esta Subsecretar&#xED;a; el D.S. N&#xB0; 377, de 1995, del Ministerio de Econom&#xED;a, Fomento y Reconstruccion; la Ley N&#xB0; 18.892 y sus modificaciones, cuyo texto refundido fue fijado por D.S. N&#xB0; 430 de 1991 del Ministerio de Econom&#xED;a, Fomento y Reconstruccion;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDADES PRESQUERAS EN LA UNIDAD DE PESQUERIA EN PLENA EXPLOTACION DE LANGOSTINO AMARILLO FIJADA POR EL DECRETO N&#xB0; 377 DE 1995</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 391.- Valpara&#xED;so, 27 de Febrero de 1996.- Visto: Lo solicitado por Mar&#xED;a Baycic Baycic, Mario Morozin Yurecic, Mar&#xED;a Ana Morozin Baycic y Pesquera Quintero S.A.; lo informado por la Division de Desarrollo Pesquero de esta Subsecretar&#xED;a en Memorandun N&#xB0; 1 y 2 de 3 de Enero, N&#xB0; 3 y N&#xB0; 4 de 4 de Enero y N&#xB0; 17 de 16 de Enero, todos de 1996, el D.F.L. N&#xB0; 5, de 1983; la Resoluci&#xF3;n N&#xB0; 1417 de 5 de Octubre de 1995 de esta Subsecretar&#xED;a; el D.S. N&#xB0; 377, de 1995, del Ministerio de Econom&#xED;a, Fomento y Reconstruccion; la Ley N&#xB0; 18.892 y sus modificaciones, cuyo texto refundido fue fijado por D.S. N&#xB0; 430 de 1991 del Ministerio de Econom&#xED;a, Fomento y Reconstruccion;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

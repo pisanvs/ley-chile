@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1976-04-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-07-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003144,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- La Comisi&#xF3;n deber&#xE1; rendir cuenta de los fondos que le hayan sido entregados, a la Contralor&#xED;a General de la Rep&#xFA;blica, a m&#xE1;s tardar dentro del plazo de sesenta d&#xED;as de terminada la Reuni&#xF3;n de la Asamblea.</div><div class=\"p\">&nbsp; &nbsp;  Transcurrido dicho plazo, quedar&#xE1; extinguida la Comisi&#xF3;n. El Fisco ser&#xE1; su sucesor legal para todos los efectos a que haya lugar.</div><div class=\"p\">&nbsp; &nbsp;  A contar de esa fecha, s&#xF3;lo podr&#xE1; girar en la cuenta bancaria de la Comisi&#xF3;n el Subsecretario del Ministerio de Relaciones Exteriores para obligaciones pendientes de la Comisi&#xF3;n. Una vez pagadas dichas obligaciones, el saldo de la cuenta aludida se ingresar&#xE1; a rentas generales de la naci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Los bienes adquiridos por la Comisi&#xF3;n ser&#xE1;n transferidos al Fisco previo registro e inventario aprobado por la Contralor&#xED;a General de la Rep&#xFA;blica. Por decreto supremo del Ministerio de Relaciones Exteriores se fijar&#xE1; el destino que se dar&#xE1; a dichos bienes, el que ser&#xE1; suscrito, adem&#xE1;s, por el Ministro de Hacienda.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- La Comisi&#xF3;n deber&#xE1; rendir cuenta de los fondos que le hayan sido entregados, a la Contralor&#xED;a General de la Rep&#xFA;blica, a m&#xE1;s tardar dentro del plazo de sesenta d&#xED;as de terminada la Reuni&#xF3;n de la Asamblea. Transcurrido dicho plazo, quedar&#xE1; extinguida la Comisi&#xF3;n. El Fisco ser&#xE1; su sucesor legal para todos los efectos a que haya lugar. A contar de esa fecha, s&#xF3;lo podr&#xE1; girar en la cuenta bancaria de la Comisi&#xF3;n el Subsecretario del Ministerio de Relaciones Exteriores para obligaciones pendientes de la Comisi&#xF3;n. Una vez pagadas dichas obligaciones, el saldo de la cuenta aludida se ingresar&#xE1; a rentas generales de la naci&#xF3;n, con excepci&#xF3;n de hasta US$<span class=\"n\" id=\"n_0\">DL 1532, HACIENDA<br>Art. 8&#xB0;<br>D.O. 29.07.1976</span> 25.000, que incrementar&#xE1;n el &#xED;tem 06/01/00/22/17. Los bienes adquiridos por la Comisi&#xF3;n ser&#xE1;n transferidos al Fisco previo registro e inventario aprobado por la Contralor&#xED;a General de la Rep&#xFA;blica. Por decreto supremo del Ministerio de Relaciones Exteriores se fijar&#xE1; el destino que se dar&#xE1; a dichos bienes, el que ser&#xE1; suscrito, adem&#xE1;s, por el Ministro de Hacienda. </div></div>"
+        }
+      ]
+    }
+  }
+]

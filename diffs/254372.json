@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1960-04-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-04-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6586681,
+          "old": "<div><div class=\"p\">CREA LA COMISION NACIONAL DE TELECOMUNICACIONES </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 315.- Santiago, 1.o de Abril de 1960.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  La necesidad de obtener una coordinaci&#xF3;n en la administraci&#xF3;n, control y fomento de las telecomunicaciones del pa&#xED;s, en relaci&#xF3;n con la actual organizaci&#xF3;n estatal relacionada con los Servicios El&#xE9;ctricos y de Gas, y</div><div class=\"p\">&nbsp; &nbsp;  Vistas las facultades que me confieren los art&#xED;culos 202 y 207, N.o 10, de la ley N.o 13,305, de 6 de Abril de 1959, vengo en dictar el siguiente </div><div class=\"p\">&nbsp; &nbsp;  Decreto con fuerza de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">CREA LA COMISION NACIONAL DE TELECOMUNICACIONES<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> </div><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xFA;m. 315.- Santiago, 1.o de Abril de 1960.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  La necesidad de obtener una coordinaci&#xF3;n en la administraci&#xF3;n, control y fomento de las telecomunicaciones del pa&#xED;s, en relaci&#xF3;n con la actual organizaci&#xF3;n estatal relacionada con los Servicios El&#xE9;ctricos y de Gas, y</div><div class=\"p\">&nbsp; &nbsp;  Vistas las facultades que me confieren los art&#xED;culos 202 y 207, N.o 10, de la ley N.o 13,305, de 6 de Abril de 1959, vengo en dictar el siguiente </div><div class=\"p\">&nbsp; &nbsp; &nbsp; Decreto con fuerza de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 14 del DL 1762, Transportes, publicado el 30.04.1977, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

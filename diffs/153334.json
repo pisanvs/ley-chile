@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7259818,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA CORMORAN S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA </div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA CORMORAN S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA </div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

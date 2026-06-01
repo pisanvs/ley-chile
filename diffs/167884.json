@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-05-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-01-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7269072,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA ROCIO LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA ROCIO LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

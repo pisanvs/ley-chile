@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-11-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-05-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8937666,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: Fac&#xFA;ltase al Presidente de la Fundaci&#xF3;n Mi Casa, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: Fac&#xFA;ltase al Presidente de la<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Fundaci&#xF3;n Mi Casa, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 624, Interior, publicado el 30.05.1998, dej&#xF3; sin efecto la facultad concedida al Presidente de la Fundaci&#xF3;n Mi Casa, facultando en su lugar a do&#xF1;a Mar&#xED;a Eugenia Parada.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

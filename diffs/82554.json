@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-07-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-05-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313855,
+          "old": "<div><div class=\"p\">AUTORIZA A DON HUGO SEGUNDO DIAZ MARIN PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON HUGO SEGUNDO DIAZ MARIN PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

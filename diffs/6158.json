@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-06-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8934694,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREA LA DIRECCION DE INTELIGENCIA NACIONAL (DINA) N&#xFA;m. 521.- Santiago, 14 de junio de 1974.-</div><div class=\"p\">&nbsp; &nbsp; Visto: lo dispuesto en los decretos leyes n&#xFA;meros 1 y 128, de 1973, y</div><div class=\"p\">&nbsp; &nbsp; Considerando la necesidad de que el Supremo Gobierno tenga la colaboraci&#xF3;n inmediata y permanente de un organismo especializado que le proporcione en forma sistem&#xE1;tica y debidamente procesada la informaci&#xF3;n que requiera para adecuar sus resoluciones en el campo de la Seguridad y Desarrollo Nacional,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno ha acordado dictar el siguiente Decreto ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; CREA LA DIRECCION DE INTELIGENCIA NACIONAL (DINA)<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> N&#xFA;m. 521.- Santiago, 14 de junio de 1974.-</div><div class=\"p\">&nbsp; &nbsp; Visto: lo dispuesto en los decretos leyes n&#xFA;meros 1 y 128, de 1973, y</div><div class=\"p\">&nbsp; &nbsp; Considerando la necesidad de que el Supremo Gobierno tenga la colaboraci&#xF3;n inmediata y permanente de un organismo especializado que le proporcione en forma sistem&#xE1;tica y debidamente procesada la informaci&#xF3;n que requiera para adecuar sus resoluciones en el campo de la Seguridad y Desarrollo Nacional,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno ha acordado dictar el siguiente Decreto ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La presente norma fue derogada por el DL 1876, Interior, publicado el 13.08.1977.-<br></div></div>"
+        }
+      ]
+    }
+  }
+]

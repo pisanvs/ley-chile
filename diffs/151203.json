@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-07-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-04-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8356485,
+          "old": "<div><div class=\"p\">AUTORIZA A SABROPESCA LTDA. PARA CONTINUAR Y AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SABROPESCA LTDA. PARA CONTINUAR Y AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

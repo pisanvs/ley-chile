@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-04-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7232995,
+          "old": "<div><div class=\"p\">FIJA VALOR DE ENTRADA A MUSEOS DEL ESTADO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 22 de Febrero de 1989.- Hoy se decret&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 130.- Considerando: La necesidad de facilitar el cobro de los valores de la entrada a los Museos del Estado, dependientes de la Direcci&#xF3;n de Bibliotecas, Archivos y Museos, y lo solicitado por el Director de dicho Servicio en su oficio Ord. No. 150, de 13 de Febrero del a&#xF1;o en curso, y Vistos: El art&#xED;culo 32, No. 8, de la Constituci&#xF3;n Pol&#xED;tica del Estado; el DFL No. 5.200, de 1929, del Ministerio de Educaci&#xF3;n, y el DL No. 1.174, de 1975, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA VALOR DE ENTRADA A MUSEOS DEL ESTADO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 22 de Febrero de 1989.- Hoy se decret&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 130.- Considerando: La necesidad de facilitar el cobro de los valores de la entrada a los Museos del Estado, dependientes de la Direcci&#xF3;n de Bibliotecas, Archivos y Museos, y lo solicitado por el Director de dicho Servicio en su oficio Ord. No. 150, de 13 de Febrero del a&#xF1;o en curso, y Vistos: El art&#xED;culo 32, No. 8, de la Constituci&#xF3;n Pol&#xED;tica del Estado; el DFL No. 5.200, de 1929, del Ministerio de Educaci&#xF3;n, y el DL No. 1.174, de 1975, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

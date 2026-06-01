@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1992-11-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-11-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9107031,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16&#xB0;.- Se llamar&#xE1; a concurso p&#xFA;blico mediante una publicaci&#xF3;n en dos diarios de circulaci&#xF3;n nacional, indicando a lo menos el lugar, fecha y valor de la entrega de las bases t&#xE9;cnicas-administrativas; y, as&#xED; como tambi&#xE9;n fecha, lugar y hora de la apertura de las propuestas, la que deber&#xE1; ser a lo menos 30 d&#xED;as despu&#xE9;s del llamado a concurso.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16&#xB0;.- La contrataci&#xF3;n para la ejecuci&#xF3;n<span class=\"n\" id=\"n_1\">DTO 207, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 03.11.2006</span> de los proyectos y programas que financie el Fondo, se regir&#xE1; por las normas establecidas en la ley N&#xBA; 19.886 y su Reglamento, fijado por el decreto supremo N&#xBA; 250 de 2004, del Ministerio de Hacienda.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2006-12-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9107025,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; P&#xE1;rrafo 2&#xB0; {ARTS. 10-14}</div><div class=\"p\">&nbsp; &nbsp; Del Funcionamiento del Consejo</div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;.- El Consejo sesionar&#xE1; en las dependencias del Servicio Nacional de Pesca en forma ordinaria a lo menos una vez cada dos meses, y en forma extraordinaria cuando sea convocado por iniciativa del Presidente, o a requerimiento de a lo menos cuatro de sus miembros.</div><div class=\"p\">&nbsp; &nbsp; El Presidente convocar&#xE1; a reuni&#xF3;n tanto ordinaria como extraordinaria, con a lo menos siete d&#xED;as de anticipaci&#xF3;n a su celebraci&#xF3;n, debiendo acompa&#xF1;ar la tabla y la documentaci&#xF3;n correspondiente a ella. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; P&#xE1;rrafo 2&#xB0;</div><div class=\"p\">&nbsp; &nbsp; Del Funcionamiento del Consejo</div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;.- El Consejo sesionar&#xE1; en las dependencias del Servicio Nacional de Pesca en forma ordinaria a lo menos una vez cada dos meses, y en forma extraordinaria cuando sea convocado por iniciativa del Presidente, o a requerimiento de a lo menos cuatro de sus miembros.</div><div class=\"p\">&nbsp; &nbsp; El Presidente convocar&#xE1; a reuni&#xF3;n tanto ordinaria como extraordinaria, con a lo menos siete d&#xED;as de anticipaci&#xF3;n a su celebraci&#xF3;n, debiendo acompa&#xF1;ar la tabla y la documentaci&#xF3;n correspondiente a ella.</div><div class=\"p\">&nbsp; &nbsp; Por acuerdo del Consejo, podr&#xE1;n participar de sus<span class=\"n\" id=\"n_1\">DTO 313, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 14.12.2006</span> reuniones ordinarias y extraordinarias, los consejeros suplentes del sector pesquero artesanal, quienes tendr&#xE1;n derecho a voz, pero en ning&#xFA;n caso podr&#xE1;n intervenir en las votaciones que se realicen para la adopci&#xF3;n de sus acuerdos.</div><div class=\"p\">&nbsp; &nbsp; De igual forma, los consejeros representantes del sector artesanal podr&#xE1;n participar, si as&#xED; lo acuerda el Consejo, en otras actividades relacionadas con la ejecuci&#xF3;n y supervisi&#xF3;n del programa anual de inversi&#xF3;n del Fondo.</div><br></div>"
+        },
+        {
+          "part_id": 9107031,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16&#xB0;.- La contrataci&#xF3;n para la ejecuci&#xF3;n<span class=\"n\" id=\"n_1\">DTO 207, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 03.11.2006</span> de los proyectos y programas que financie el Fondo, se regir&#xE1; por las normas establecidas en la ley N&#xBA; 19.886 y su Reglamento, fijado por el decreto supremo N&#xBA; 250 de 2004, del Ministerio de Hacienda.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16&#xB0;.- La contrataci&#xF3;n para la ejecuci&#xF3;n<span class=\"n\" id=\"n_2\">DTO 207, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 03.11.2006</span> de los proyectos y programas que financie el Fondo, se regir&#xE1; por las normas establecidas en la ley N&#xBA; 19.886 y su Reglamento, fijado por el decreto supremo N&#xBA; 250 de 2004, del Ministerio de Hacienda.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

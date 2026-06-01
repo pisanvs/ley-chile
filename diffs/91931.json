@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-12-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320937,
+          "old": "<div><div class=\"p\">AUTORIZA A PESCA Y SERVICIOS MARITIMOS LIMITADA &quot;PESERMA LTDA.&quot; PARA AMPLIAR ACTIVIDADES DEJA SIN EFECTO RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESCA Y SERVICIOS MARITIMOS LIMITADA &quot;PESERMA LTDA.&quot; PARA AMPLIAR ACTIVIDADES DEJA SIN EFECTO RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

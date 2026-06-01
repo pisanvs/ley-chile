@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-04-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5902449,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DESIGNA GOBERNADOR PROPIETARIO Y SUPLENTE ANTE EL BANCO INTERAMERICANO DE DESARROLLO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 235.- Santiago, 16 de Marzo de 1994.- Vistos: El art&#xED;culo 32 n&#xFA;mero 10 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, y los Decretos Supremos de Hacienda N&#xB0; 237 y 239, ambos de 1990,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DESIGNA GOBERNADOR PROPIETARIO Y SUPLENTE ANTE EL BANCO INTERAMERICANO DE DESARROLLO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 235.- Santiago, 16 de Marzo de 1994.- Vistos: El art&#xED;culo 32 n&#xFA;mero 10 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, y los Decretos Supremos de Hacienda N&#xB0; 237 y 239, ambos de 1990,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

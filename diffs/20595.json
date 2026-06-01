@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-11-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-12-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8596414,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA FUNCIONAMIENTO DE CENTRO DE FORMACION TECNICA QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m.185 exento.- Santiago, 21 de Octubre de 1982.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, el Centro de Formaci&#xF3;n T&#xE9;cnica &quot;La Frontera de Temuco&quot;, ha solicitado se autorice su funcionamiento por este Ministerio.</div><div class=\"p\">&nbsp; &nbsp; Que, formuladas las observaciones &#xE9;stas han sido subsanadas en tiempo y forma;</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el decreto ley N&#xB0; 3.541, de 1980, D.F.L. N&#xB0; 5 y N&#xB0; 24 de 1981, y en el art&#xED;culo 32, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA FUNCIONAMIENTO DE CENTRO DE FORMACION TECNICA QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m.185 exento.- Santiago, 21 de Octubre de 1982.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, el Centro de Formaci&#xF3;n T&#xE9;cnica &quot;La Frontera de Temuco&quot;, ha solicitado se autorice su funcionamiento por este Ministerio.</div><div class=\"p\">&nbsp; &nbsp; Que, formuladas las observaciones &#xE9;stas han sido subsanadas en tiempo y forma;</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el decreto ley N&#xB0; 3.541, de 1980, D.F.L. N&#xB0; 5 y N&#xB0; 24 de 1981, y en el art&#xED;culo 32, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

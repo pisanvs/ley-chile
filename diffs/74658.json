@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048436,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA CENTAURUS S.A., PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA CENTAURUS S.A., PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

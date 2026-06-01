@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-10-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8322151,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A JUANA MARDONIA JARA PERALTA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A JUANA MARDONIA JARA PERALTA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

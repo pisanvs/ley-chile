@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-09-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7212632,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 146, DE 1992 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 146, DE 1992</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

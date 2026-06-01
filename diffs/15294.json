@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-04-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-04-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5920894,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA PLANTA DE PERSONAL DE LA DIRECCION GENERAL DE AERONAUTICA CIVIL</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 726.- Santiago, 29 de septiembre de 1995.- Vistos: Lo dispuesto en el art&#xED;culo 19 de la Ley N&#xB0; 16.752; y</div><div class=\"p\">&nbsp; &nbsp; Considerando: lo propuesto por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil en oficio ordinario N&#xB0; 12/0/153/3063 de 02.Ago.995,</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA PLANTA DE PERSONAL DE LA DIRECCION GENERAL DE AERONAUTICA CIVIL</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 726.- Santiago, 29 de septiembre de 1995.- Vistos: Lo dispuesto en el art&#xED;culo 19 de la Ley N&#xB0; 16.752; y</div><div class=\"p\">&nbsp; &nbsp; Considerando: lo propuesto por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil en oficio ordinario N&#xB0; 12/0/153/3063 de 02.Ago.995,</div><br><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

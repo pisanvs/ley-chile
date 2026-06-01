@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1968-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-04-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8987904,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; NORMAS SOBRE ARRENDAMIENTO DE PREDIOS RUSTICOS Y OTRAS FORMAS DE EXPLOTACION POR TERCEROS Y MEDIERIAS Santiago, 15 de Enero de 1968.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 9.- Vistas, las facultades que me confiere el art&#xED;culo 196&#xB0; de la ley 16.640, sobre Reforma Agraria, vengo en dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; NORMAS SOBRE ARRENDAMIENTO DE PREDIOS RUSTICOS Y<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> OTRAS FORMAS DE EXPLOTACION POR TERCEROS Y MEDIERIAS</div><div class=\"p\">&nbsp; &nbsp; Santiago, 15 de Enero de 1968.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 9.- Vistas, las facultades que me confiere el art&#xED;culo 196&#xB0; de la ley 16.640, sobre Reforma Agraria, vengo en dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DL 993, Agricultura, publicado el 24.04.1975 derog&#xF3; el presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

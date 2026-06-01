@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-04-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316242,
+          "old": "<div><div class=\"p\">AUTORIZA A DON HECTOR ELEAZAR URRA SOTO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON HECTOR ELEAZAR URRA SOTO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

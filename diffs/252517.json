@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1954-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1958-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7331898,
+          "old": "<div><div class=\"p\">MODIFICA EL DECRETO N.o 1,584, DE 30 DE ABRIL DE 1934, DEL MINISTERIO DE FOMENTO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 113.- Santiago, 8 de Febrero de 1954.- Vistos estos antecedentes: lo informado por la Direcci&#xF3;n General de Pesca y Caza en su oficio N.o 181, de fecha 29 de Enero de 1954; las atribuciones que me confiere el DFL. N.o 34, del 12 de Marzo de 1931; el decreto reglamentario N.o 1,584, de 30 de Abril de 1934, del Ministerio de Fomento, y lo dispuesto en el&nbsp; DFL. N.o 183, de 5 de Agosto de 1953,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA EL DECRETO N.o 1,584, DE 30 DE ABRIL DE 1934, DEL MINISTERIO DE FOMENTO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 113.- Santiago, 8 de Febrero de 1954.- Vistos estos antecedentes: lo informado por la Direcci&#xF3;n General de Pesca y Caza en su oficio N.o 181, de fecha 29 de Enero de 1954; las atribuciones que me confiere el DFL. N.o 34, del 12 de Marzo de 1931; el decreto reglamentario N.o 1,584, de 30 de Abril de 1934, del Ministerio de Fomento, y lo dispuesto en el&nbsp; DFL. N.o 183, de 5 de Agosto de 1953,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

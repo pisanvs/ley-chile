@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-05-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8811540,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Conc&#xE9;dese, a contar del 1&#xB0; de octubre de 1989, a los integrantes del Escalaf&#xF3;n del Personal de Empleados del Poder Judicial, que no ocupen viviendas fiscales o de una entidad estatal, una asignaci&#xF3;n de casa, no imponible, equivalente al 10% del sueldo base mensual que perciba el funcionario.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Conc&#xE9;dese, a contar del 1&#xB0; de octubre de 1989, a los integrantes del Escalaf&#xF3;n del Personal de Empleados y del Escalaf&#xF3;n de Asistentes Sociales del<span class=\"n\" id=\"n_0\">LEY 19133<br>Art. 4</span> Poder Judicial, que no ocupen viviendas fiscales o de una entidad estatal, una asignaci&#xF3;n de casa, no<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div> imponible, equivalente al 10% del sueldo base mensual que perciba el funcionario.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 5&#xB0; de la Ley N&#xB0; 19.133, publicada en el &quot;Diario Oficial&quot; de 30 de abril de 1992, dispuso que la modificaci&#xF3;n al presente art&#xED;culo regir&#xE1; a contar del primer d&#xED;a del mes siguiente al de su publicaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-09-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-11-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8956492,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Conc&#xE9;dese, por gracia, a don Rodrigo Adri&#xE1;n Laferte Pizarro, una pensi&#xF3;n equivalente a dos ingresos m&#xED;nimos mensuales, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos es aquel a que hace referencia el inciso 1&#xB0; del art&#xED;culo 5 de la Ley No. 18.647, que se emplea para fines no remuneracionales.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Conc&#xE9;dese, por gracia, a don Rodrigo Adri&#xE1;n Lafferte Pizarro, una pensi&#xF3;n equivalente<span class=\"n\" id=\"n_0\">DTO 957, INTERIOR<br>Art. &#xFA;nico<br>D.O. 05.11.1991</span> a dos ingresos m&#xED;nimos mensuales, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos es aquel a que hace referencia el inciso 1&#xB0; del art&#xED;culo 5 de la Ley No. 18.647, que se emplea para fines no remuneracionales. El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico. </div></div>"
+        }
+      ]
+    }
+  }
+]

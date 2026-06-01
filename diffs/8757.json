@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1995-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8882018,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; F&#xED;janse como deslindes del cauce del R&#xED;o Mapocho, ribera sur, el que comprende una longitud de 213,50 metros y se ubica entre los kil&#xF3;metros 12.715,500 y 12.929,000, individualizado en el plano N&#xB0; XIII-1-8.107 T.U.</div><div class=\"p\">&nbsp; &nbsp; Cualquier interesado al respecto, tendr&#xE1; administrativamente un plazo de sesenta (60) d&#xED;as, contado desde la fecha de la publicaci&#xF3;n del presente decreto en el Diario Oficial, para pedir la modificaci&#xF3;n del mismo, formulando el correspondiente reclamo al Ministerio de Bienes Nacionales o a la Secretar&#xED;a Regional Ministerial de Bienes Nacionales de la Regi&#xF3;n Metropolitana de Santiago.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; F&#xED;janse como deslindes del cauce del R&#xED;o Mapocho,<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> ribera sur, el que comprende una longitud de 213,50 metros y se ubica entre los kil&#xF3;metros 12.715,500 y 12.929,000, individualizado en el plano N&#xB0; XIII-1-8.107 T.U.</div><div class=\"p\">&nbsp; &nbsp; Cualquier interesado al respecto, tendr&#xE1; administrativamente un plazo de sesenta (60) d&#xED;as, contado desde la fecha de la publicaci&#xF3;n del presente decreto en el Diario Oficial, para pedir la modificaci&#xF3;n del mismo, formulando el correspondiente reclamo al Ministerio de Bienes Nacionales o a la Secretar&#xED;a Regional Ministerial de Bienes Nacionales de la Regi&#xF3;n Metropolitana de Santiago.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 71 exento, Bienes Nacionales, publicado el 25.02.1999, modific&#xF3; los deslindes del R&#xED;o Mapocho, en el sentido que se indica.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2010-02-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8882017,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA DESLINDES DEL CAUCE DEL RIO MAPOCHO, RIBERA SUR, EN SECTOR QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 74.- Santiago, 22 de Marzo de 1995.- Vistos: Estos antecedentes; lo informado por la Divisi&#xF3;n de Bienes Nacionales en Oficio N&#xB0; 299, de fecha 2 de Febrero de 1995; por el Departamento de Obras Fluviales - Vialidad, en Oficio N&#xB0; 573, de fecha 3 de Diciembre de 1993; y en virtud de lo dispuesto en el D.S. N&#xB0; 609, de 1978, de este Ministerio, publicado en el &quot;Diario Oficial&quot; el 24 de Enero de 1979,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA DESLINDES DEL CAUCE DEL RIO MAPOCHO, RIBERA SUR, EN SECTOR QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 74.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>- Santiago, 22 de Marzo de 1995.- Vistos: Estos antecedentes; lo informado por la Divisi&#xF3;n de Bienes Nacionales en Oficio N&#xB0; 299, de fecha 2 de Febrero de 1995; por el Departamento de Obras Fluviales - Vialidad, en Oficio N&#xB0; 573, de fecha 3 de Diciembre de 1993; y en virtud de lo dispuesto en el D.S. N&#xB0; 609, de 1978, de este Ministerio, publicado en el &quot;Diario Oficial&quot; el 24 de Enero de 1979,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; I del Decreto 1116 Exento, Bienes Nacionales, publicado el 17.02.2010, modifica la presente norma en el sentido que se fija el deslinde Norte definitivo del cauce del R&#xED;o Mapocho, de la siguiente manera, en la parte en donde se ubica el inmueble de propiedad de Aguas Cordillera S.A., deslinde Norte, &quot;entre el R&#xED;o Mapocho, bien nacional de uso p&#xFA;blico y el bien inmueble de propiedad de Aguas Cordillera S.A., mediante una l&#xED;nea divisoria entre ambos inmuebles la que es marcada entre los puntos B1, A y G del plano que, firmado por todas las partes, forma parte integrante de la transacci&#xF3;n como Anexo 3.</div></div>"
+        },
+        {
+          "part_id": 8882018,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; F&#xED;janse como deslindes del cauce del R&#xED;o Mapocho,<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> ribera sur, el que comprende una longitud de 213,50 metros y se ubica entre los kil&#xF3;metros 12.715,500 y 12.929,000, individualizado en el plano N&#xB0; XIII-1-8.107 T.U.</div><div class=\"p\">&nbsp; &nbsp; Cualquier interesado al respecto, tendr&#xE1; administrativamente un plazo de sesenta (60) d&#xED;as, contado desde la fecha de la publicaci&#xF3;n del presente decreto en el Diario Oficial, para pedir la modificaci&#xF3;n del mismo, formulando el correspondiente reclamo al Ministerio de Bienes Nacionales o a la Secretar&#xED;a Regional Ministerial de Bienes Nacionales de la Regi&#xF3;n Metropolitana de Santiago.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 71 exento, Bienes Nacionales, publicado el 25.02.1999, modific&#xF3; los deslindes del R&#xED;o Mapocho, en el sentido que se indica.<br></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; F&#xED;janse como deslindes del cauce del R&#xED;o Mapocho,<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> ribera sur, el que comprende una longitud de 213,50 metros y se ubica entre los kil&#xF3;metros 12.715,500 y 12.929,000, individualizado en el plano N&#xB0; XIII-1-8.107 T.U.</div><div class=\"p\">&nbsp; &nbsp; Cualquier interesado al respecto, tendr&#xE1; administrativamente un plazo de sesenta (60) d&#xED;as, contado desde la fecha de la publicaci&#xF3;n del presente decreto en el Diario Oficial, para pedir la modificaci&#xF3;n del mismo, formulando el correspondiente reclamo al Ministerio de Bienes Nacionales o a la Secretar&#xED;a Regional Ministerial de Bienes Nacionales de la Regi&#xF3;n Metropolitana de Santiago.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 71 exento, Bienes Nacionales, publicado el 25.02.1999, modific&#xF3; los deslindes del R&#xED;o Mapocho, en el sentido que se indica.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

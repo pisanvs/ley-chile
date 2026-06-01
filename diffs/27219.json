@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1957-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1957-12-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9044356,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; TRASPASA LAS CANTIDADES QUE INDICA ENTRE LOS ITEM, LETRAS Y NUMEROS DEL PRESUPUESTO PARA 1957, APROBADO POR LEY N.o 12.417.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Traspasa las cantidades que indica, entre los &#xED;tem, letras y n&#xFA;meros que se&#xF1;ala, del Presupuesto de Gastos de la Naci&#xF3;n para el a&#xF1;o 1957, aprobado por ley 12.417, de 31 de diciembre de 1956; modifica el inciso 2&#xB0; del art&#xED;culo 22&#xB0; de la ley 12.462, de 6 de julio de 1957, en la parte que establece aportes a diversas instituciones para la construcci&#xF3;n de habitaciones para empleados y obreros.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

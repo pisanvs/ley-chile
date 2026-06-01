@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-09-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8326441,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD &quot;BIGAS Y GOMEZ LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS&quot;</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD &quot;BIGAS Y GOMEZ LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS&quot;</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

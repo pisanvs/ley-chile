@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-06-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8993335,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- Los cilindros ajenos en poder de un distribuidor deber&#xE1;n ser restituidos a su propietario en el plazo de 5 d&#xED;as, contados desde la fecha en que el usuario devolvi&#xF3; el cilindro y su garant&#xED;a, respet&#xE1;ndose en todo caso el porcentaje m&#xE1;ximo permitido de cilindros ajenos, que corresponde al 1% del inventario declarado oficialmente en cada regi&#xF3;n por la empresa propietaria de &#xE9;stos. Cuando los distribuidores se encuentren situados en distintas regiones el plazo indicado deber&#xE1; entenderse como aqu&#xE9;l que tendr&#xE1; el tenedor de los cilindros ajenos para ofrecer al propietario, por carta certificada, la restituci&#xF3;n de ellos, siendo obligaci&#xF3;n de ambos perfeccionarla dentro del t&#xE9;rmino de 15 d&#xED;as, contados desde la fecha de env&#xED;o de la carta certificada.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- Los cilindros ajenos en poder de un distribuidor deber&#xE1;n ser restituidos a su propietario en el plazo de 5 d&#xED;as, contados desde la fecha en que el usuario devolvi&#xF3; el cilindro y su garant&#xED;a, respet&#xE1;ndose en todo caso el porcentaje m&#xE1;ximo permitido de cilindros ajenos, que corresponde al 0,2% del inventario declarado<span class=\"n\" id=\"n_0\">DTO 178, ECONOMIA<br>Art. 2&#xBA;<br>D.O. 10.06.1992</span> oficialmente en cada regi&#xF3;n por la empresa propietaria de &#xE9;stos. Cuando los distribuidores se encuentren situados en distintas regiones el plazo indicado deber&#xE1;<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> entenderse como aqu&#xE9;l que tendr&#xE1; el tenedor de los cilindros ajenos para ofrecer al propietario, por carta certificada, la restituci&#xF3;n de ellos, siendo obligaci&#xF3;n de ambos perfeccionarla dentro del t&#xE9;rmino de 15 d&#xED;as, contados desde la fecha de env&#xED;o de la carta certificada.</div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. Transitorio del DTO 178, Econom&#xED;a, publicado el 10.06.1992, dispuso que la modificaci&#xF3;n que introduce en la presente norma rige a contar del 1&#xBA; de enero de 1993.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-08-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320506,
+          "old": "<div><div class=\"p\">AUTORIZA A DON RODRIGO ROLANDO CANO AVENDA&#xD1;O PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON RODRIGO ROLANDO CANO AVENDA&#xD1;O PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

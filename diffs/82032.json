@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-10-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-07-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313204,
+          "old": "<div><div class=\"p\">PRORROGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">PRORROGA AUTORIZACION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

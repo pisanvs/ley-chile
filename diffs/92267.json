@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "1968-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9049936,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Toda contrataci&#xF3;n de empr&#xE9;stitos o pr&#xE9;stamos mediante emisiones de bonos o debentures, s&#xF3;lo podr&#xE1; ser acordada por el Consejo de la Corporaci&#xF3;n con el voto favorable de dos tercios, a lo menos, de los Consejeros en ejercicio, en sesi&#xF3;n especialmente convocada al efecto y previo informe de la Comisi&#xF3;n Nacional del Ahorro.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.-&nbsp; Toda contrataci&#xF3;n de empr&#xE9;stitos o<span class=\"n\" id=\"n_0\">DTO 294<br>ECONOMIA<br>ART 1<br>D.O.03.01.1998</span></div><div class=\"p\">pr&#xE9;stamos mediante emisiones de bonos o debentures, s&#xF3;lo podr&#xE1; ser acordada por el Consejo de la Corporaci&#xF3;n con el voto favorable de la mayor&#xED;a absoluta de los Consejeros en ejercicio, en sesi&#xF3;n especialmente convocada al efecto.</div><br></div>"
+        },
+        {
+          "part_id": 9049938,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- El acuerdo que adopte el Consejo de la Corporaci&#xF3;n deber&#xE1; se&#xF1;alar, a lo menos, las siguientes materias:</div><div class=\"p\">&nbsp; &nbsp;  a) Objeto en que se emplear&#xE1;n los fondos que se obtengan en la emisi&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  b) Monto de la emisi&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  c) Plazo tipo de inter&#xE9;s, sistema y forma de amortizaci&#xF3;n y rescate;</div><div class=\"p\">&nbsp; &nbsp;  d) Condiciones necesarias para su colocaci&#xF3;n y transferencia;</div><div class=\"p\">&nbsp; &nbsp;  e) Si la emisi&#xF3;n es en moneda extranjera o en moneda nacional.</div><div class=\"p\">&nbsp; &nbsp;  En este &#xFA;ltimo caso deber&#xE1; establecer que el valor nominal de los bonos o debentures y sus intereses se reajustar&#xE1;, para los efectos del servicio, de acuerdo a las variaciones que experimente el Indice de Precios al Consumidor, seg&#xFA;n el sistema establecido en el art&#xED;culo 186, inciso 1&#xBA;, de la ley 16.640.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- El acuerdo que adopte el Consejo de la Corporaci&#xF3;n deber&#xE1; se&#xF1;alar, a lo menos, las siguientes materias: a) Objeto en que se emplear&#xE1;n los fondos que se</div><div class=\"p\">obtengan en la emisi&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  b) Monto de la emisi&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  c) Plazo tipo de inter&#xE9;s, sistema y forma de</div><div class=\"p\">amortizaci&#xF3;n y rescate;</div><div class=\"p\">&nbsp; &nbsp;  d) Condiciones necesarias para su colocaci&#xF3;n y</div><div class=\"p\">transferencia;</div><div class=\"p\">&nbsp; &nbsp;  e) Si la emisi&#xF3;n es en moneda extranjera o en</div><div class=\"p\">moneda nacional.</div><div class=\"p\">&nbsp; &nbsp;  En este &#xFA;ltimo caso deber&#xE1; establecer que el valor<span class=\"n\" id=\"n_1\">DTO 294<br>ECONOMIA<br>ART 1 b)<br>D.O.03.01.1998</span> nominal de los bonos o debentures y sus intereses se reajustar&#xE1;, para los efectos del servicio, de acuerdo a las variaciones que experimente el Indice de Precios al Consumidor. </div></div>"
+        },
+        {
+          "part_id": 9049941,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Los t&#xED;tulos de todo bono ser&#xE1;n nominativos. La Corporaci&#xF3;n deber&#xE1; llevar un registro especial en que se anotar&#xE1;n todos los bonos que haya emitido con indicaci&#xF3;n de su n&#xFA;mero, serie y valor; y el nombre de la persona a qui&#xE9;n pertenezcan.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Los t&#xED;tulos de los bonos podr&#xE1;n ser<span class=\"n\" id=\"n_2\">DTO 294<br>ECONOMIA<br>ART 1 c)<br>D.O.03.01.1998</span> nominativos, a la orden o al portador. En el primer caso, la Corporaci&#xF3;n deber&#xE1; llevar un registro especial en que se anotar&#xE1;n todos los bonos nominativos que haya emitido, indicando su n&#xFA;mero, serie y valor, y la identidad de la persona a cuyo nombre hayan sido emitidos. </div></div>"
+        },
+        {
+          "part_id": 9049942,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- La cesi&#xF3;n de los bonos se har&#xE1; por endoso en el mismo t&#xED;tulo, subscrito por el cedente y por el concesionario e inscrito en el registro a que se refiere el art&#xED;culo anterior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- En el caso de cesi&#xF3;n de bonos<span class=\"n\" id=\"n_3\">DTO 294<br>ECONOMIA<br>ART 1 d)<br>D.O.03.01.1998</span> nominativos, &#xE9;sta se efectuar&#xE1; al reverso del mismo t&#xED;tulo y ser&#xE1; suscrita por el cedente y el cesionario e inscrita en el registro a que se refiere el art&#xED;culo anterior.&nbsp; Trat&#xE1;ndose de bonos a la orden, el endoso se har&#xE1; en conformidad a lo previsto en la Ley 18.552. </div></div>"
+        },
+        {
+          "part_id": 9049943,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- Los tenedores de bonos o debentures emitidos por la Corporaci&#xF3;n de conformidad a lo prescrito por el art&#xED;culo 10 de la ley 16.813, gozar&#xE1;n de las siguientes franquicias, bajo la garant&#xED;a del Estado:</div><div class=\"p\">&nbsp; &nbsp;  1.- Los intereses que devenguen o los beneficios que con motivo de la tenencia, transferencia o por cualquier otra causa&nbsp; correspondan al tomador o adquirente, estar&#xE1;n exentos de cualquier gravamen o impuesto, a excepci&#xF3;n del Global Complementario;</div><div class=\"p\">&nbsp; &nbsp;  2.- La transferencia de los t&#xED;tulos quedar&#xE1; exenta de todo impuesto o gravamen;</div><div class=\"p\">&nbsp; &nbsp;  3.- Los t&#xED;tulos de los bonos o debentures que emita la Corporaci&#xF3;n, con arreglo a lo dispuesto en el art&#xED;culo 10 de la ley 16.813, deber&#xE1;n ser recibidos a la par por la Tesorer&#xED;a General de la Rep&#xFA;blica en pago de cualquier impuesto, tributo, derecho, gravamen o servicio de los&nbsp; que se perciben por las Aduanas, sean en moneda nacional o extranjera.</div><div class=\"p\">&nbsp; &nbsp;  En ning&#xFA;n caso los bonos o debentures que emita la Corporaci&#xF3;n servir&#xE1;n para constituir garant&#xED;a o dep&#xF3;sito de Importaciones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- DEROGADO<span class=\"n\" id=\"n_4\">DTO 294<br>ECONOMIA<br>ART 1 e)<br>D.O.03.01.1998</span> </div></div>"
+        },
+        {
+          "part_id": 9049944,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA;.- El decreto que autorice la emisi&#xF3;n ser&#xE1; publicado en el Diario Oficial. Dicho decreto se tendr&#xE1; por escritura de emisi&#xF3;n para los efectos de la ley 4.657.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA;.- El decreto que autorice la emisi&#xF3;n<span class=\"n\" id=\"n_5\">DTO 294<br>ECONOMIA<br>ART 1 f)<br>D.O.03.01.1998</span></div><div class=\"p\">ser&#xE1; publicado en el Diario Oficial.&nbsp; Dicho decreto se</div><div class=\"p\">tendr&#xE1; por escritura de emisi&#xF3;n para todos los efectos legales.</div><br></div>"
+        },
+        {
+          "part_id": 9049945,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;.- Las emisiones de bonos o debentures hechas por la Corporaci&#xF3;n quedar&#xE1;n sujetas a las disposiciones de la ley 4.657, en lo que le sean aplicables.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;.- Las emisiones de bonos o debentures<span class=\"n\" id=\"n_6\">DTO 294<br>ECONOMIA<br>ART 1 g)<br>D.O.03.01.1998</span> hechas por la Corporaci&#xF3;n quedar&#xE1;n sujetas a las disposiciones de la ley 18045, en lo que le sean aplicables. </div></div>"
+        }
+      ]
+    }
+  }
+]

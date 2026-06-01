@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-01-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5872265,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE QUE LA ADMINISTRACION DE BIENES EMPART SERA EJERCIDA TRANSITORIAMENTE POR EL VICEPRESIDENTE EJECUTIVO DE LA CAJA DE PREVISION DE EMPLEADOS PARTICULARES</div><div class=\"p\">&nbsp; &nbsp; Santiago, 7 de Enero de 1974.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 253.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;- Lo dispuesto en el decreto ley N&#xB0; 1, de 11 de Septiembre de 1973;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;- Que la Caja de Previsi&#xF3;n de Empleados Particulares y la Confederaci&#xF3;n de Empleados Particulares, de acuerdo a lo dispuesto en el art&#xED;culo 5&#xB0; del decreto supremo N&#xB0; 277, de 1970, del Ministerio del Trabajo y Previsi&#xF3;n Social, administran a trav&#xE9;s de una comisi&#xF3;n paritaria los bienes destinados a bienestar social adquiridos o construidos con los recursos econ&#xF3;micos consultados en las leyes N&#xB0;s. 16.735, 17.213 y 17.537;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;- Que en la hora actual no resulta adecuado el sistema de administraci&#xF3;n establecido en el decreto supremo N&#xB0; 277 para los bienes referidos, tanto porque el Consejo Directivo de la Caja est&#xE1; en receso como porque el decreto N&#xB0; 49, de 12 de Octubre de 1973, que dispuso dicha medida no dej&#xF3; radicada en el Jefe Superior de la Instituci&#xF3;n la facultad de administrar estos inmuebles;</div><div class=\"p\">&nbsp; &nbsp; Por estas consideraciones, la Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado y dicta el siguiente Decreto ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE QUE LA ADMINISTRACION DE BIENES EMPART SERA EJERCIDA TRANSITORIAMENTE POR EL VICEPRESIDENTE EJECUTIVO DE LA CAJA DE PREVISION DE EMPLEADOS PARTICULARES</div><div class=\"p\">&nbsp; &nbsp; Santiago, 7 de Enero de 1974.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 253.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;- Lo dispuesto en el decreto ley N&#xB0; 1, de 11 de Septiembre de 1973;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;- Que la Caja de Previsi&#xF3;n de Empleados Particulares y la Confederaci&#xF3;n de Empleados Particulares, de acuerdo a lo dispuesto en el art&#xED;culo 5&#xB0; del decreto supremo N&#xB0; 277, de 1970, del Ministerio del Trabajo y Previsi&#xF3;n Social, administran a trav&#xE9;s de una comisi&#xF3;n paritaria los bienes destinados a bienestar social adquiridos o construidos con los recursos econ&#xF3;micos consultados en las leyes N&#xB0;s. 16.735, 17.213 y 17.537;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;- Que en la hora actual no resulta adecuado el sistema de administraci&#xF3;n establecido en el decreto supremo N&#xB0; 277 para los bienes referidos, tanto porque el Consejo Directivo de la Caja est&#xE1; en receso como porque el decreto N&#xB0; 49, de 12 de Octubre de 1973, que dispuso dicha medida no dej&#xF3; radicada en el Jefe Superior de la Instituci&#xF3;n la facultad de administrar estos inmuebles;</div><div class=\"p\">&nbsp; &nbsp; Por estas consideraciones, la Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado y dicta el siguiente Decreto ley:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "fecha": "1984-11-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1996-01-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2000-01-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7183059,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- El otorgamiento de los permisos y las diligencias relacionadas con esta ley estar&#xE1;n afectos a tarifas que se fijar&#xE1;n anualmente en el mes de enero de cada a&#xF1;o por el Presidente de la Rep&#xFA;blica, a proposici&#xF3;n del Ministerio de Defensa Nacional. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- El otorgamiento de los permisos y las diligencias relacionadas con esta ley estar&#xE1;n afectos a tarifas que se fijar&#xE1;n anualmente en el mes de enero de cada a&#xF1;o por el Presidente de la Rep&#xFA;blica, a proposici&#xF3;n del Ministerio de Defensa Nacional.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO N&#xB0; 37 exento, de Defensa, publicado el 20.01.2000, fij&#xF3; las Tasas de Derechos a que se refiere el presente art&#xED;culo, para el a&#xF1;o 2000.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7183053,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Quedar&#xE1;n sometidas a las normas de esta ley todas las personas naturales o jur&#xED;dicas, chilenas o extranjeras, que desarrollen cualquier actividad relacionada con las artes marciales o con los implementos destinados a ellas.</div><div class=\"p\">&nbsp; &nbsp; Para este efecto, se entiende por arte marcial todo sistema, procedimiento o t&#xE9;cnica de lucha o combate personal, con prop&#xF3;sito de ataque o defensa, sea mediante la utilizaci&#xF3;n de elementos materiales o el solo uso del cuerpo humano. Los deportes de box, esgrima, judo o lucha no son considerados como artes marciales, sin perjuicio de las facultades de las autoridades deportivas que correspondan, para fiscalizar que ellos se desarrollen de acuerdo con la reglamentaci&#xF3;n que les d&#xE9; un car&#xE1;cter estrictamente deportivo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Quedar&#xE1;n sometidas a las normas de esta ley todas las personas naturales o jur&#xED;dicas, chilenas o extranjeras, que desarrollen cualquier actividad relacionada con las artes marciales o con los implementos destinados a ellas.</div><div class=\"p\">&nbsp; &nbsp; Para este efecto, se entiende por arte marcial todo sistema, procedimiento o t&#xE9;cnica de lucha o combate personal, con prop&#xF3;sito de ataque o defensa, sea mediante la utilizaci&#xF3;n de elementos materiales o el solo uso del cuerpo humano. Los deportes de box,<span class=\"n\" id=\"n_0\">LEY 19867<br>Art. &#xFA;nico<br>D.O. 12.05.2003</span> esgrima, judo, lucha, karate, taekwondo y kendo, no son considerados como artes marciales, si&#xE9;ndoles aplicables para su ejercicio, fomento, protecci&#xF3;n y control las normas de la ley N&#xBA; 19.712, Ley del Deporte, con el objeto que ellos se desarrollen de acuerdo con la reglamentaci&#xF3;n que les d&#xE9; un car&#xE1;cter estrictamente deportivo. Un reglamento establecer&#xE1; los procedimientos de fiscalizaci&#xF3;n y determinar&#xE1; los requisitos que deber&#xE1;n cumplir sus instructores y alumnos. En todo caso, su fiscalizaci&#xF3;n, control o regulaci&#xF3;n no estar&#xE1; sujeta a pago de ninguna especie.</div><br></div>"
+        },
+        {
+          "part_id": 7183059,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- El otorgamiento de los permisos y las diligencias relacionadas con esta ley estar&#xE1;n afectos a tarifas que se fijar&#xE1;n anualmente en el mes de enero de cada a&#xF1;o por el Presidente de la Rep&#xFA;blica, a proposici&#xF3;n del Ministerio de Defensa Nacional.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO N&#xB0; 37 exento, de Defensa, publicado el 20.01.2000, fij&#xF3; las Tasas de Derechos a que se refiere el presente art&#xED;culo, para el a&#xF1;o 2000.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- El otorgamiento de los permisos y las diligencias relacionadas con esta ley estar&#xE1;n afectos a tarifas que se fijar&#xE1;n anualmente en el mes de enero de cada a&#xF1;o por el Presidente de la Rep&#xFA;blica, a proposici&#xF3;n del Ministerio de Defensa Nacional.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO N&#xB0; 37 exento, de Defensa, publicado el 20.01.2000, fij&#xF3; las Tasas de Derechos a que se refiere el presente art&#xED;culo, para el a&#xF1;o 2000.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

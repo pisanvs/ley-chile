@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-11-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-11-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8334633,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  AUTORIZA A DON RUBELINDO SEGOVIA RUIZ PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  AUTORIZA A DON RUBELINDO SEGOVIA RUIZ PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

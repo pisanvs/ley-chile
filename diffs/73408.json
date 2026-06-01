@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048267,
+          "old": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1;IA DE IMPORTACIONES Y EXPORTACIONES NANSEI CHILE S.A. &quot;NANSEI CHILE S.A.&quot; PARA INICIAR </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1;IA DE IMPORTACIONES Y EXPORTACIONES NANSEI CHILE S.A. &quot;NANSEI CHILE S.A.&quot; PARA INICIAR </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

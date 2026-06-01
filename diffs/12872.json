@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "1986-04-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-12-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8741677,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- A las instalaciones existentes a la fecha de vigencia del presente reglamento, se les otorgar&#xE1; un plazo de 12 meses para cumplir con la totalidad de las disposiciones contenidas en &#xE9;ste. Sin embargo, para aquellas instalaciones que presenten riesgo inminente, la Superintendencia de Electricidad y Combustibles podr&#xE1; exigir el cumplimiento inmediato de algunas medidas de seguridad aqu&#xED; establecidas. </div></div>"
+        },
+        {
+          "part_id": 8741678,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DISPOSICION TRANSITORIA </div></div>"
+        },
+        {
+          "part_id": 8741679,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; An&#xF3;tese, t&#xF3;mese raz&#xF3;n y publ&#xED;quese.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- Juan Carlos D&#xE9;lano Ort&#xFA;zar, Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Salud atentamente a Ud.- Jorge Valenzuela Dur&#xE1;n, Coronel de Ej&#xE9;rcito, Subsecretario de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2009-10-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

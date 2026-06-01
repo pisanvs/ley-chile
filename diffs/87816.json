@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-02-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-12-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6077284,
+          "old": "<div><div class=\"p\">ESTABLECE REGULACIONES PARA EL INGRESO DE PI&#xD1;AS (ANANAS SPP.) AL PAIS Y MODIFICA RESOLUCION 1.795, DE 1981 </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">Santiago, 01 de Febrero de 1991.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">N&#xFA;m. 170 exenta.- Visto: Lo dispuesto en el decreto ley No.</div><div class=\"p\">3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, las resoluciones No. 39 y 350 de 1981, y la resoluci&#xF3;n No. 1.795 de 1981 expedidas todas por el Servicio Agr&#xED;cola y Ganadero, y </div><div class=\"p\">Considerando:</div><br><div class=\"p\">Que a trav&#xE9;s de las inspecciones efectuadas a productos vegetales de internaci&#xF3;n, se ha detectado cada vez con mayor frecuencia la infestaci&#xF3;n de pi&#xF1;as con plagas cuarentenarias de importancia.</div><div class=\"p\">Que desde la dictaci&#xF3;n de la resoluci&#xF3;n No. 1.795 de 1981 a la fecha, la realidad fitosanitaria de los pa&#xED;ses proveedores ha cambiado.</div><div class=\"p\">Que existen tratamientos que permiten controlar estas plagas.</div><div class=\"p\">Que el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer normas y requisitos para el ingreso de mercader&#xED;as hortofrut&#xED;colas.</div><br><div class=\"p\">Resuelvo:</div><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE REGULACIONES PARA EL INGRESO DE PI&#xD1;AS (ANANAS SPP.) AL PAIS Y MODIFICA RESOLUCION 1.795, DE 1981 </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">Santiago, 01 de Febrero de 1991.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">N&#xFA;m. 170 exenta.- Visto: Lo dispuesto en el decreto ley No.</div><div class=\"p\">3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, las resoluciones No. 39 y 350 de 1981, y la resoluci&#xF3;n No. 1.795 de 1981 expedidas todas por el Servicio Agr&#xED;cola y Ganadero, y </div><div class=\"p\">Considerando:</div><br><div class=\"p\">Que a trav&#xE9;s de las inspecciones efectuadas a productos vegetales de internaci&#xF3;n, se ha detectado cada vez con mayor frecuencia la infestaci&#xF3;n de pi&#xF1;as con plagas cuarentenarias de importancia.</div><div class=\"p\">Que desde la dictaci&#xF3;n de la resoluci&#xF3;n No. 1.795 de 1981 a la fecha, la realidad fitosanitaria de los pa&#xED;ses proveedores ha cambiado.</div><div class=\"p\">Que existen tratamientos que permiten controlar estas plagas.</div><div class=\"p\">Que el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer normas y requisitos para el ingreso de mercader&#xED;as hortofrut&#xED;colas.</div><br><div class=\"p\">Resuelvo:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

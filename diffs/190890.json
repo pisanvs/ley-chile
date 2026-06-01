@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-03-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7286739,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA HUMBOLDT S.A. PARA CONTINUAR DESARROLLANDO ACTIVIDADES PESQUERAS Y AMPLIA ACTIVIDADES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA HUMBOLDT S.A. PARA CONTINUAR DESARROLLANDO ACTIVIDADES PESQUERAS Y AMPLIA ACTIVIDADES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-12-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8831537,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DICTA ORDENANZA SOBRE VENDEDORES DE FICHAS DE PARQUIMETROS Y ACOMODADORES VEHICULOS ESTACIONADOS EN LA VIA PUBLICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 14.- Recoleta, 13 de Junio de 1995.- Visto:</div><div class=\"p\">&nbsp; &nbsp; 1.- La necesidad de regular la actividad que ejercen los vendedores de fichas de parqu&#xED;metros y acomodadores de veh&#xED;culos estacionados en la v&#xED;a p&#xFA;blica de la Comuna de Recoleta.</div><div class=\"p\">&nbsp; &nbsp; 2.- El acuerdo N&#xB0; 38, de 5 Junio 1995, del Concejo Municipal, mediante el cual aprueba la Ordenanza sobre Vendedores de Fichas de Parqu&#xED;metros y Acomodadores de Veh&#xED;culos; y</div><div class=\"p\">&nbsp; &nbsp; Teniendo Presente: Las facultades que me confiere la Ley 18.695 Org&#xE1;nica Constitucional de Municipalidades, con esta fecha</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente Ordenanza:</div><br></div>",
+          "new": "<div><div class=\"p\">DICTA ORDENANZA SOBRE VENDEDORES DE FICHAS DE PARQUIMETROS Y ACOMODADORES VEHICULOS ESTACIONADOS EN LA VIA PUBLICA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 14.- Recoleta, 13 de Junio de 1995.- Visto:</div><div class=\"p\">&nbsp; &nbsp; 1.- La necesidad de regular la actividad que ejercen los vendedores de fichas de parqu&#xED;metros y acomodadores de veh&#xED;culos estacionados en la v&#xED;a p&#xFA;blica de la Comuna de Recoleta.</div><div class=\"p\">&nbsp; &nbsp; 2.- El acuerdo N&#xB0; 38, de 5 Junio 1995, del Concejo Municipal, mediante el cual aprueba la Ordenanza sobre Vendedores de Fichas de Parqu&#xED;metros y Acomodadores de Veh&#xED;culos; y</div><div class=\"p\">&nbsp; &nbsp; Teniendo Presente: Las facultades que me confiere la Ley 18.695 Org&#xE1;nica Constitucional de Municipalidades, con esta fecha</div><br><div class=\"p\">&nbsp; &nbsp; dicto la siguiente Ordenanza:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

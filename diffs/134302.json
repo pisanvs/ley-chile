@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1980-06-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1980-09-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8964029,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que dentro del plazo de 90 d&#xED;as siguientes a la publicaci&#xF3;n de este decreto ley reorganice el Servicio de Impuestos Internos, suprima, cree, fusione o modifique sus organismos y dependencias; redistribuya, traspase, modifique y elimine funciones y atribuciones; ampl&#xED;e las atribuciones del Director Nacional para los solos efectos de la administraci&#xF3;n del Servicio y su personal; dicte el texto del estatuto org&#xE1;nico del Servicio y adec&#xFA;e otras disposiciones legales que digan relaci&#xF3;n con la nueva organizaci&#xF3;n del Servicio.</div><div class=\"p\">&nbsp; &nbsp;  Dentro del mismo plazo, el Presidente de la Rep&#xFA;blica, establecer&#xE1; las Plantas, el r&#xE9;gimen de personal y de remuneraciones que se aplicar&#xE1; al personal del Servicio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que dentro del plazo de 120 d&#xED;as<span class=\"n\" id=\"n_0\">DL 3477, HACIENDA<br>Art. 27<br>D.O. 02.09.1980</span> siguientes a la publicaci&#xF3;n de este decreto ley reorganice el Servicio de Impuestos Internos, suprima, cree, fusione o modifique sus organismos y dependencias; redistribuya, traspase, modifique y elimine funciones y atribuciones; ampl&#xED;e las atribuciones del Director Nacional para los solos efectos de la administraci&#xF3;n el Servicio y su personal; dicte el texto del estatuto org&#xE1;nico del Servicio y adec&#xFA;e otras disposiciones legales que digan relaci&#xF3;n con la nueva organizaci&#xF3;n del Servicio. Dentro del mismo plazo, el Presidente de la Rep&#xFA;blica, establecer&#xE1; las Plantas, el r&#xE9;gimen de personal y de remuneraciones que se aplicar&#xE1; al personal del Servicio. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1980-10-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8964030,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Dentro de los 90 d&#xED;as siguientes a la publicaci&#xF3;n del decreto que fije las plantas y r&#xE9;gimen del personal, el Presidente de la Rep&#xFA;blica proveer&#xE1; discrecionalmente los cargos y reencasillar&#xE1; en ellos a todo o parte del personal del Servicio. Los cargos vacantes despu&#xE9;s de efectuado el reencasillamiento ser&#xE1;n llenados discrecionalmente por el Presidente de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Dentro de los 90 d&#xED;as siguientes a la publicaci&#xF3;n del decreto que fije las plantas y r&#xE9;gimen del personal, el Presidente de la Rep&#xFA;blica proveer&#xE1; discrecionalmente los cargos y reencasillar&#xE1; en ellos a todo o parte del personal del Servicio.<span class=\"n\" id=\"n_1\">DL 3492, HACIENDA<br>Art. 3&#xB0;<br>D.O. 07.10.1980</span> </div></div>"
+        }
+      ]
+    }
+  }
+]

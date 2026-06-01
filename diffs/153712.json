@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-08-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-08-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7260211,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD ASTILLEROS Y SERVICIOS NAVALES LIMITADA, PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD ASTILLEROS Y SERVICIOS NAVALES LIMITADA, PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

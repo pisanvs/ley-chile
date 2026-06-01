@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "1979-03-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-03-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9156148,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.- La asignaci&#xF3;n especial se calcular&#xE1; sobre los respectivos sueldos base y ser&#xE1; de un m&#xED;nimo de 30% y un m&#xE1;ximo de 130%, de acuerdo a los siguientes tramos relacionados con los puntajes resultantes de la aplicaci&#xF3;n del sistema de evaluaci&#xF3;n:</div><br><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/19056.jpg\"></div><br><br><div class=\"p\">&nbsp; &nbsp;  Para los efectos de la aplicaci&#xF3;n del art&#xED;culo N&#xBA; 5, el tramo superior del primero ser&#xE1; de un 13%.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.- La asignaci&#xF3;n especial se calcular&#xE1; sobre los respectivos sueldos base y ser&#xE1; de un m&#xED;nimo de 30% y un m&#xE1;ximo de 130%, de acuerdo a los siguientes tramos relacionados con los puntajes resultantes de la aplicaci&#xF3;n del sistema de evaluaci&#xF3;n:</div><br><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/19056.jpg\"></div><br><br><div class=\"p\">&nbsp; &nbsp;  Para los efectos de la aplicaci&#xF3;n del <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1027474&amp;idParte=9156268&amp;idVersion=1979-03-28\">Rectificaci&#xF3;n 166<br>D.O. 28.03.1979</a></span>art&#xED;culo N&#xBA; 5, el tramo superior del primero ser&#xE1; de un 130%.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1027474,
+      "fecha": "1979-03-28"
+    }
+  },
+  {
+    "fecha": "1988-06-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

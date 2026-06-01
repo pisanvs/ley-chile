@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-01-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-04-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8324073,
+          "old": "<div><div class=\"p\">AUTORIZA A UNIVERSIDAD DE ANTOFAGASTA PARA AMPLIAR ACTIVIDADES PESQUERAS. DEROGA PARCIALMENTE RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A UNIVERSIDAD DE ANTOFAGASTA PARA AMPLIAR ACTIVIDADES PESQUERAS. DEROGA PARCIALMENTE RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

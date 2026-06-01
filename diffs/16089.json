@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-02-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-08-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5923913,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DAR-07 &quot;REGLAMENTO DE MARCAS DE NACIONALIDAD Y MATRICULA DE AERONAVES&quot;</div><div class=\"p\">&nbsp; &nbsp; Santiago, 27 de Diciembre de 1988.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 894.- Vistos: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; y Considerando:</div><div class=\"p\">&nbsp; &nbsp; a) Que, como el Reglamento sobre Marcas y otros distintivos a usarse en aeronaves, aprobado por Decreto Supremo N&#xB0; 789, de fecha 13.DIC.962, ha quedado desactualizado, se ha estimado necesario readecuar el Reglamento Nacional, incorporando en su texto las nuevas normas de la Organizaci&#xF3;n de Aviaci&#xF3;n Civil Internacional en esta materia y otros aspectos nacionales surgidos a ra&#xED;z de la experiencia obtenida de su aplicaci&#xF3;n y a los cambios experimentados por el desarrollo de las actividades aeron&#xE1;uticas.</div><div class=\"p\">&nbsp; &nbsp; b) Que, lo propuesto por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil en conformidad al art&#xED;culo 3&#xB0;, letra t), de la Ley 16.752, se encuadra dentro de las normas y m&#xE9;todos recomendados por la Organizaci&#xF3;n de Aviaci&#xF3;n Civil Internacional; y</div><div class=\"p\">&nbsp; &nbsp; c) Lo propuesto por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil en oficio ordinario N&#xB0; 05/0/1585/3892, de 04.NOV.988,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO DAR-07 &quot;REGLAMENTO DE MARCAS DE NACIONALIDAD Y MATRICULA DE AERONAVES&quot;</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 27 de Diciembre de 1988.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 894.- Vistos: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; y Considerando:</div><div class=\"p\">&nbsp; &nbsp; a) Que, como el Reglamento sobre Marcas y otros distintivos a usarse en aeronaves, aprobado por Decreto Supremo N&#xB0; 789, de fecha 13.DIC.962, ha quedado desactualizado, se ha estimado necesario readecuar el Reglamento Nacional, incorporando en su texto las nuevas normas de la Organizaci&#xF3;n de Aviaci&#xF3;n Civil Internacional en esta materia y otros aspectos nacionales surgidos a ra&#xED;z de la experiencia obtenida de su aplicaci&#xF3;n y a los cambios experimentados por el desarrollo de las actividades aeron&#xE1;uticas.</div><div class=\"p\">&nbsp; &nbsp; b) Que, lo propuesto por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil en conformidad al art&#xED;culo 3&#xB0;, letra t), de la Ley 16.752, se encuadra dentro de las normas y m&#xE9;todos recomendados por la Organizaci&#xF3;n de Aviaci&#xF3;n Civil Internacional; y</div><div class=\"p\">&nbsp; &nbsp; c) Lo propuesto por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil en oficio ordinario N&#xB0; 05/0/1585/3892, de 04.NOV.988,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

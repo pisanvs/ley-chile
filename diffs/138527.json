@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-02-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-06-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8346196,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION No. 268, DE 1987 </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION No. 268, DE 1987</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

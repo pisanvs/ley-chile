@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-08-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1980-03-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003007,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Recon&#xF3;cese, por gracia, a do&#xF1;a Amanda Virginia Bravo Soto para todos los efectos legales y en especial para su jubilaci&#xF3;n el per&#xED;odo servido entre el 15 de Noviembre de 1948 y el 15 de Mayo de 1949.</div><div class=\"p\">&nbsp; &nbsp;  La Caja Nacional de Empleados P&#xFA;blicos y Periodistas proceder&#xE1; a recibir las imposiciones por dicho per&#xED;odo, las que ser&#xE1;n de cargo de la interesada y le otorgar&#xE1; jubilaci&#xF3;n de acuerdo a la ley N&#xBA; 16.494. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Recon&#xF3;cese, por gracia, a do&#xF1;a Amada Virginia Bravo Soto para todos los efectos<span class=\"n\" id=\"n_0\">DL 3231, INTERIOR<br>Art. &#xFA;nico<br>D.O. 20.03.1980</span> legales y en especial para su jubilaci&#xF3;n el per&#xED;odo servido entre el 15 de Noviembre de 1948 y el 15 de Mayo de 1949. La Caja Nacional de Empleados P&#xFA;blicos y Periodistas proceder&#xE1; a recibir las imposiciones por dicho per&#xED;odo, las que ser&#xE1;n de cargo de la interesada y le otorgar&#xE1; jubilaci&#xF3;n de acuerdo a la ley N&#xBA; 16.494. </div></div>"
+        }
+      ]
+    }
+  }
+]

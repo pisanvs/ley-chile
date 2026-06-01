@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "1987-07-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-07-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7210958,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xBA;.- Establ&#xE9;cese, como condici&#xF3;n de<span class=\"n\" id=\"n_1\">DTO 78, TRANSPORTES<br>Letra b)<br>D.O.09.07.1997</span> seguridad, en 90 kil&#xF3;metros por hora el l&#xED;mite m&#xE1;ximo de velocidad en zonas rurales, para la circulaci&#xF3;n de los veh&#xED;culos motorizados destinados al transporte de carga de peso bruto vehicular superior a 3.500 kilogramos. </div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7210949,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- En los veh&#xED;culos de carga no se podr&#xE1; ocupar con ella el techo de la cabina ni llevarla en forma que exceda el ancho de la carrocer&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  La carga no podr&#xE1; sobrepasar el extremo anterior en los veh&#xED;culos motorizados o la cabeza de los animales de tiro, cuando se trate de veh&#xED;culos a tracci&#xF3;n animal. Por la parte posterior, la carga no deber&#xE1; arrastrar ni sobresalir del extremo del veh&#xED;culo m&#xE1;s de 3 metros. Cuando sobresalga m&#xE1;s de 0,50 m., deber&#xE1; llevar en el extremo de la carga una luz roja, si fuere de noche y un bander&#xED;n del mismo color, si fuere de d&#xED;a. Este bander&#xED;n ser&#xE1; de g&#xE9;nero o de material pl&#xE1;stico, de 0,50 m. de largo por 0,40 de ancho, colocado en forma adecuada y que se amarrar&#xE1; al extremo de la carga.</div><div class=\"p\">&nbsp; &nbsp;  Cuando los objetos que constituyan la carga tengan gran longitud, deber&#xE1;n estar fuertemente sujetos unos a otros, y tambi&#xE9;n al veh&#xED;culo, de tal manera que las oscilaciones que el movimiento produzca no den lugar a que sobresalgan lateralmente de aqu&#xE9;l.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- En los veh&#xED;culos de carga no se podr&#xE1; ocupar con ella el techo de la cabina ni llevarla en forma que exceda el ancho de la carrocer&#xED;a. La carga no podr&#xE1; sobrepasar el extremo anterior en los veh&#xED;culos motorizados o la cabeza de los animales de tiro, cuando se trate de veh&#xED;culos a tracci&#xF3;n animal. Por la parte posterior, la carga no deber&#xE1; arrastrar ni sobresalir del extremo del veh&#xED;culo m&#xE1;s de 2 metros.<span class=\"n\" id=\"n_0\">DTO 78, TRANSPORTES<br>Letra a)<br>D.O.19.07.1997</span> Cuando sobresalga m&#xE1;s de 0,50 m., deber&#xE1; llevar en el extremo de la carga una luz roja, si fuere de noche y un bander&#xED;n del mismo color, si fuere de d&#xED;a. Este bander&#xED;n ser&#xE1; de g&#xE9;nero o de material pl&#xE1;stico, de 0,50 m. de largo por 0,40 de ancho, colocado en forma adecuada y que se amarrar&#xE1; al extremo de la carga. Cuando los objetos que constituyan la carga tengan gran longitud, deber&#xE1;n estar fuertemente sujetos unos a otros, y tambi&#xE9;n al veh&#xED;culo, de tal manera que las oscilaciones que el movimiento produzca no den lugar a que sobresalgan lateralmente de aqu&#xE9;l. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-07-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7210954,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Proh&#xED;bese anunciar o promover la venta de gas licuado mediante el uso de aparato sonoro, golpes en los cilindros transportados u otro tipo de ruidos estridentes similares.</div><div class=\"p\">&nbsp; &nbsp;  El transporte de gas licuado deber&#xE1; efectuarse de acuerdo con lo dispuesto en el Cap&#xED;tulo VI del D.S. N&#xBA; 29, de 1986, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Proh&#xED;bese anunciar o promover la venta de gas licuado mediante el uso de aparato sonoro, golpes en los cilindros transportados u otro tipo de ruidos estridentes similares.</div><div class=\"p\">&nbsp; &nbsp;  El <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1179270&amp;idParte=10352188&amp;idVersion=2022-07-28\">Decreto 90, <br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 28.07.2022</a></span>transporte de gas licuado de petr&#xF3;leo deber&#xE1; efectuarse de acuerdo con lo dispuesto en el T&#xED;tulo VI &quot;Del transporte de GLP&quot; del decreto supremo N&#xBA; 108, de 2013, del Ministerio de Energ&#xED;a, que aprueba reglamento de seguridad para las instalaciones de almacenamiento, transporte y distribuci&#xF3;n de gas licuado de petr&#xF3;leo y operaciones asociadas, o el que en el futuro lo reemplace.</div><br><br></div>"
+        },
+        {
+          "part_id": 7210958,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xBA;.- Establ&#xE9;cese, como condici&#xF3;n de<span class=\"n\" id=\"n_1\">DTO 78, TRANSPORTES<br>Letra b)<br>D.O.09.07.1997</span> seguridad, en 90 kil&#xF3;metros por hora el l&#xED;mite m&#xE1;ximo de velocidad en zonas rurales, para la circulaci&#xF3;n de los veh&#xED;culos motorizados destinados al transporte de carga de peso bruto vehicular superior a 3.500 kilogramos. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xBA;.- Establ&#xE9;cese, como condici&#xF3;n de<span class=\"n\" id=\"n_2\">DTO 78, TRANSPORTES<br>Letra b)<br>D.O.09.07.1997</span> seguridad, en 90 kil&#xF3;metros por hora el l&#xED;mite m&#xE1;ximo de velocidad en zonas rurales, para la circulaci&#xF3;n de los veh&#xED;culos motorizados destinados al transporte de carga de peso bruto vehicular superior a 3.500 kilogramos. </div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1179270,
+      "fecha": "2022-07-28"
+    }
+  }
+]

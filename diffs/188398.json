@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-08-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-12-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7284912,
+          "old": "<div><div class=\"p\">CREA COMISION TRIPATITA CONSULTIVA PARA LA ACTIVIDAD MARITIMA DEL SECTOR PRIVADO DEL PAIS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 5 de Agosto de 1975.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m 397.- Vistos: lo dispuesto en el art&#xED;culo 74 del decreto ley N&#xBA; 670, de 1&#xBA; de Octubre de 1974; la facultad que me confiere el N&#xBA;1 del art&#xED;culo 10&#xBA; del decreto ley N&#xBA; 527, de 17 de Junio de 1974, y lo dispuesto en los decretos supremos Nos. 826 y 39, de 26 de Noviembre de 1974 y 21 de Enero de 1975, respectivamente, del Ministerio del Trabajo y Previsi&#xF3;n Social;</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente la utilidad y conveniencia de crear una Comisi&#xF3;n Tripartita Consultiva que se encargue de estudiar las condiciones econ&#xF3;micas, caracter&#xED;sticas y situaci&#xF3;n de la relaci&#xF3;n laboral de las empresas, &#xE1;reas o ramas de la Actividad Mar&#xED;tima del Sector Privado del Pa&#xED;s, y proponer a los Ministerios del Trabajo y Previsi&#xF3;n Social y de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n las condiciones de trabajo m&#xED;nimas o m&#xE1;ximas para los trabajadores de esta &#xE1;rea de la econom&#xED;a, respecto de remuneraciones, tratos, incentivos y beneficios.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">CREA COMISION TRIPATITA CONSULTIVA PARA LA ACTIVIDAD MARITIMA DEL SECTOR PRIVADO DEL PAIS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 5 de Agosto de 1975.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m 397.- Vistos: lo dispuesto en el art&#xED;culo 74 del decreto ley N&#xBA; 670, de 1&#xBA; de Octubre de 1974; la facultad que me confiere el N&#xBA;1 del art&#xED;culo 10&#xBA; del decreto ley N&#xBA; 527, de 17 de Junio de 1974, y lo dispuesto en los decretos supremos Nos. 826 y 39, de 26 de Noviembre de 1974 y 21 de Enero de 1975, respectivamente, del Ministerio del Trabajo y Previsi&#xF3;n Social;</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente la utilidad y conveniencia de crear una Comisi&#xF3;n Tripartita Consultiva que se encargue de estudiar las condiciones econ&#xF3;micas, caracter&#xED;sticas y situaci&#xF3;n de la relaci&#xF3;n laboral de las empresas, &#xE1;reas o ramas de la Actividad Mar&#xED;tima del Sector Privado del Pa&#xED;s, y proponer a los Ministerios del Trabajo y Previsi&#xF3;n Social y de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n las condiciones de trabajo m&#xED;nimas o m&#xE1;ximas para los trabajadores de esta &#xE1;rea de la econom&#xED;a, respecto de remuneraciones, tratos, incentivos y beneficios.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

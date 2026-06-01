@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8324830,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA LOA SUR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS.</div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA. DENIEGA AUTORIZACION QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA LOA SUR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS. MODIFICA RESOLUCION QUE INDICA. DENIEGA AUTORIZACION QUE SE&#xD1;ALA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

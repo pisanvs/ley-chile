@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1990-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9093033,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 21&#xB0;.- La creaci&#xF3;n, modificaci&#xF3;n o supresi&#xF3;n de las Secciones y sus Unidades dependientes se determinar&#xE1; por resoluci&#xF3;n del Director de Previsi&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 21&#xBA;.- La creaci&#xF3;n, modificaci&#xF3;n o<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1022720&amp;idParte=9107463&amp;idVersion=2011-02-04\">Decreto 262, DEFENSA <br>D.O. 04.02.2011</a></span> supresi&#xF3;n de las divisiones y estamentos dependientes, se determinar&#xE1; por resoluci&#xF3;n del Director de Previsi&#xF3;n, previa autorizaci&#xF3;n de la Subsecretar&#xED;a de Carabineros. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1022720,
+      "fecha": "2011-02-04"
+    }
+  }
+]

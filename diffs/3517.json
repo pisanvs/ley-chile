@@ -1,0 +1,62 @@
+[
+  {
+    "fecha": "1987-03-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-12-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8626556,
+          "old": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 10.- Las m&#xE1;quinas, los<span class=\"n\" id=\"n_17\">Ley 18.482,<br>Art. 55<br>letra l)</span> aparatos, instrumentos, equipos, herramientas y sus partes o piezas necesarios para el cumplimiento de un contrato de trabajo petrolero espec&#xED;fico, sean o no sean de propiedad del subcontratista, podr&#xE1;n ingresar al pa&#xED;s bajo el r&#xE9;gimen de admisi&#xF3;n temporal, establecido en la Ordenanza de Aduanas.</div><div class=\"p\">&nbsp;  Las mercader&#xED;as referidas ingresar&#xE1;n bajo el r&#xE9;gimen indicado por un plazo de hasta cinco a&#xF1;os, prorrogable anualmente por el Director Nacional de Aduanas de acuerdo con las necesidades y caracter&#xED;sticas del respectivo contrato de trabajo petrolero espec&#xED;fico.</div><div class=\"p\">&nbsp;  Lo dispuesto en este art&#xED;culo ser&#xE1; igualmente aplicable al contratista de un contrato especial de operaci&#xF3;n respecto de las maquinarias, los aparatos, instalaciones, equipos, herramientas y sus partes o piezas destinados a la exploraci&#xF3;n de hidrocarburos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10.- Las m&#xE1;quinas, los<span class=\"n\" id=\"n_17\">Ley 18.482,<br>Art. 55<br>letra l)</span> aparatos, instrumentos, equipos, herramientas y sus partes o piezas necesarios para el cumplimiento de un contrato de trabajo petrolero espec&#xED;fico, sean o no sean de propiedad del subcontratista, podr&#xE1;n ingresar al pa&#xED;s bajo el r&#xE9;gimen de admisi&#xF3;n temporal, establecido en la Ordenanza de Aduanas.</div><div class=\"p\">&nbsp;  Las mercanc&#xED;as referidas destinadas a<span class=\"n\" id=\"n_18\">LEY 18682<br>ART 8 N&#xB0;2<br>a) y b)</span> la exploraci&#xF3;n de hidrocarburos ingresar&#xE1;n bajo el r&#xE9;gimen indicado en el inciso anterior, sin aplicaci&#xF3;n de ning&#xFA;n derecho, impuesto, tasa o grav&#xE1;men por un plazo de hasta cinco a&#xF1;os, prorrogable anualmente por el Director Nacional de Aduanas de acuerdo con las necesidades y caracter&#xED;sticas del respectivo contrato de trabajo petrolero espec&#xED;fico.</div><div class=\"p\">&nbsp;  Lo dispuesto en este art&#xED;culo ser&#xE1; igualmente aplicable al contratista de un contrato especial de operaci&#xF3;n respecto de las maquinarias, los aparatos, instalaciones, equipos, herramientas y sus partes o piezas destinados a la exploraci&#xF3;n de hidrocarburos.</div><br></div>"
+        },
+        {
+          "part_id": 8626557,
+          "old": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 11.- Se declaran de<span class=\"n\" id=\"n_18\">Ley 18.482,<br>Art. 55<br>letra m)</span> utilidad p&#xFA;blica, para los efectos de su expropiaci&#xF3;n, todos los terrenos que, por decreto supremo dictado por el Ministerio de Miner&#xED;a, determine el Presidente de la Rep&#xFA;blica como necesarios para la exploraci&#xF3;n y explotaci&#xF3;n de yacimientos de hidrocarburos por parte de personas que hayan celebrado con el Estado contratos especiales de operaci&#xF3;n.</div><div class=\"p\">&nbsp;  Lo dispuesto en el inciso anterior se entiende sin perjuicio de los derechos y servidumbres establecidos en el C&#xF3;digo de Miner&#xED;a en favor de la investigaci&#xF3;n y exploraci&#xF3;n mineras, de las concesiones mineras y de los establecimientos de beneficio; servidumbres y derechos que son aplicables en todo a la investigaci&#xF3;n, exploraci&#xF3;n y explotaci&#xF3;n de hidrocarburos efectuadas por personas que hayan celebrado con el Estado contratos especiales de operaci&#xF3;n.</div><div class=\"p\">&nbsp;  Las indemnizaciones y gastos que se originen con motivo de expropiaciones y constituci&#xF3;n de servidumbres referidas en este art&#xED;culo ser&#xE1;n de cargo del respectivo contratista.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 11.- Se declaran de<span class=\"n\" id=\"n_19\">Ley 18.482,<br>Art. 55<br>letra m)</span> utilidad p&#xFA;blica, para los efectos de su expropiaci&#xF3;n, todos los terrenos que, por decreto supremo dictado por el Ministerio de Miner&#xED;a, determine el Presidente de la Rep&#xFA;blica como necesarios para la exploraci&#xF3;n y explotaci&#xF3;n de yacimientos de hidrocarburos por parte de personas que hayan celebrado con el Estado contratos especiales de operaci&#xF3;n.</div><div class=\"p\">&nbsp;  Lo dispuesto en el inciso anterior se entiende sin perjuicio de los derechos y servidumbres establecidos en el C&#xF3;digo de Miner&#xED;a en favor de la investigaci&#xF3;n y exploraci&#xF3;n mineras, de las concesiones mineras y de los establecimientos de beneficio; servidumbres y derechos que son aplicables en todo a la investigaci&#xF3;n, exploraci&#xF3;n y explotaci&#xF3;n de hidrocarburos efectuadas por personas que hayan celebrado con el Estado contratos especiales de operaci&#xF3;n.</div><div class=\"p\">&nbsp;  Las indemnizaciones y gastos que se originen con motivo de expropiaciones y constituci&#xF3;n de servidumbres referidas en este art&#xED;culo ser&#xE1;n de cargo del respectivo contratista.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1988-09-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8626559,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12.- El r&#xE9;gimen, beneficios,<span class=\"n\" id=\"n_20\">LEY 18737<br>ART 14 N&#xB0;4</span> franquicias y exenciones, establecidos en cualquiera de los art&#xED;culos de este decreto ley, de los cuales deber&#xE1; dejarse constancia en el contrato especial de operaci&#xF3;n, permanecer&#xE1;n invariables durante la vigencia del mismo.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2010-02-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8626557,
+          "old": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 11.- Se declaran de<span class=\"n\" id=\"n_19\">Ley 18.482,<br>Art. 55<br>letra m)</span> utilidad p&#xFA;blica, para los efectos de su expropiaci&#xF3;n, todos los terrenos que, por decreto supremo dictado por el Ministerio de Miner&#xED;a, determine el Presidente de la Rep&#xFA;blica como necesarios para la exploraci&#xF3;n y explotaci&#xF3;n de yacimientos de hidrocarburos por parte de personas que hayan celebrado con el Estado contratos especiales de operaci&#xF3;n.</div><div class=\"p\">&nbsp;  Lo dispuesto en el inciso anterior se entiende sin perjuicio de los derechos y servidumbres establecidos en el C&#xF3;digo de Miner&#xED;a en favor de la investigaci&#xF3;n y exploraci&#xF3;n mineras, de las concesiones mineras y de los establecimientos de beneficio; servidumbres y derechos que son aplicables en todo a la investigaci&#xF3;n, exploraci&#xF3;n y explotaci&#xF3;n de hidrocarburos efectuadas por personas que hayan celebrado con el Estado contratos especiales de operaci&#xF3;n.</div><div class=\"p\">&nbsp;  Las indemnizaciones y gastos que se originen con motivo de expropiaciones y constituci&#xF3;n de servidumbres referidas en este art&#xED;culo ser&#xE1;n de cargo del respectivo contratista.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 11.- Se declaran de<span class=\"n\" id=\"n_19\">Ley 18.482,<br>Art. 55<br>letra m)</span> utilidad p&#xFA;blica, para los efectos de su expropiaci&#xF3;n, todos los terrenos que, por decreto supremo dictado por el Ministerio de Energ&#xED;a, determine el Presidente de la Rep&#xFA;blica como necesarios para la<span class=\"n\" id=\"n_20\"><a href=\"navegar?idNorma=1008692&amp;idParte=8811974&amp;idVersion=2009-12-03\">Ley 20402<br>Art. 7<br>D.O. 03.12.2009</a></span> exploraci&#xF3;n y explotaci&#xF3;n de yacimientos de hidrocarburos por parte de personas que hayan celebrado con el Estado contratos especiales de operaci&#xF3;n.</div><div class=\"p\">&nbsp;  Lo dispuesto en el inciso anterior se entiende sin perjuicio de los derechos y servidumbres establecidos en el C&#xF3;digo de Miner&#xED;a en favor de la investigaci&#xF3;n y exploraci&#xF3;n mineras, de las concesiones mineras y de los establecimientos de beneficio; servidumbres y derechos que son aplicables en todo a la investigaci&#xF3;n, exploraci&#xF3;n y explotaci&#xF3;n de hidrocarburos efectuadas por personas que hayan celebrado con el Estado contratos especiales de operaci&#xF3;n.</div><div class=\"p\">&nbsp;  Las indemnizaciones y gastos que se originen con motivo de expropiaciones y constituci&#xF3;n de servidumbres referidas en este art&#xED;culo ser&#xE1;n de cargo del respectivo contratista.</div><br><br></div>"
+        },
+        {
+          "part_id": 8626559,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12.- El r&#xE9;gimen, beneficios,<span class=\"n\" id=\"n_20\">LEY 18737<br>ART 14 N&#xB0;4</span> franquicias y exenciones, establecidos en cualquiera de los art&#xED;culos de este decreto ley, de los cuales deber&#xE1; dejarse constancia en el contrato especial de operaci&#xF3;n, permanecer&#xE1;n invariables durante la vigencia del mismo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12.- El r&#xE9;gimen, beneficios,<span class=\"n\" id=\"n_21\">LEY 18737<br>ART 14 N&#xB0;4</span> franquicias y exenciones, establecidos en cualquiera de los art&#xED;culos de este decreto ley, de los cuales deber&#xE1; dejarse constancia en el contrato especial de operaci&#xF3;n, permanecer&#xE1;n invariables durante la vigencia del mismo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

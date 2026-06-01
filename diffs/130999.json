@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-09-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-09-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8340084,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  AUTORIZA TRASLADO DE PLANTA</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA TRASLADO DE PLANTA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

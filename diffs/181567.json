@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1973-02-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1973-11-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6321383,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA FUNCIONAMIENTO DE CENTRO DE REHABILITACION PROFESIONAL, CREADO POR DECRETO 79, DE 1972, DE ESTE MINISTERIO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 15 de Diciembre de 1972.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 305.- Visto, lo dispuesto en el decreto N&#xBA; 79, de 28 de Marzo de 1972, de la Subsecretar&#xED;a de Previsi&#xF3;n Social del Ministerio del Trabajo y Previsi&#xF3;n Social, publicado en el Diario Oficial de 18 de Noviembre del mismo a&#xF1;o, y de acuerdo a la facultad que me confiere el N&#xBA; 2 del art&#xED;culo 72&#xBA; de la Constituci&#xF3;n Pol&#xED;tica del Estado.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente reglamento para el funcionamiento del Centro de Rehabilitaci&#xF3;n Profesional, creado por decreto supremo N&#xBA; 79, de 28 de Marzo de 1972, de la Subsecretar&#xED;a de Previsi&#xF3;n Social del Ministerio del Trabajo y Previsi&#xF3;n Social, publicado en el Diario Oficial de 18 de Noviembre de 1972: </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA FUNCIONAMIENTO DE CENTRO DE REHABILITACION PROFESIONAL, CREADO POR DECRETO 79, DE 1972, DE ESTE MINISTERIO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 15 de Diciembre de 1972.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 305.- Visto, lo dispuesto en el decreto N&#xBA; 79, de 28 de Marzo de 1972, de la Subsecretar&#xED;a de Previsi&#xF3;n Social del Ministerio del Trabajo y Previsi&#xF3;n Social, publicado en el Diario Oficial de 18 de Noviembre del mismo a&#xF1;o, y de acuerdo a la facultad que me confiere el N&#xBA; 2 del art&#xED;culo 72&#xBA; de la Constituci&#xF3;n Pol&#xED;tica del Estado.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente reglamento para el funcionamiento del Centro de Rehabilitaci&#xF3;n Profesional, creado por decreto supremo N&#xBA; 79, de 28 de Marzo de 1972, de la Subsecretar&#xED;a de Previsi&#xF3;n Social del Ministerio del Trabajo y Previsi&#xF3;n Social, publicado en el Diario Oficial de 18 de Noviembre de 1972:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

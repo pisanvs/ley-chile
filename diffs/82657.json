@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-07-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-07-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313991,
+          "old": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA ALERCE S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA ALERCE S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

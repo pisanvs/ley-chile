@@ -1,0 +1,80 @@
+[
+  {
+    "fecha": "1982-06-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-08-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7181020,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 15.- Para los efectos de ejercer el derecho a la asignaci&#xF3;n de contrataci&#xF3;n adicional, deber&#xE1; distinguirse entre los empleadores que iniciaron sus actividades con anterioridad al 1&#xB0; de Enero de 1982 y los que lo hicieron o lo hagan a partir de esa fecha.</div><div class=\"p\">&nbsp; &nbsp; Los primeros tendr&#xE1;n derecho a la asignaci&#xF3;n por cada nuevo trabajador que exceda a la dotaci&#xF3;n existente en la respectiva empresa al 31 de Marzo de 1982.</div><div class=\"p\">&nbsp; &nbsp; Los empleadores que iniciaron sus actividades a contar del 1&#xB0; de Enero de 1982 o con posterioridad a esa fecha o lo hagan en el futuro, tendr&#xE1;n derecho a la asignaci&#xF3;n, a partir del quinto mes desde su iniciaci&#xF3;n, por cada nuevo trabajador que exceda la dotaci&#xF3;n promedio existente en la empresa en el cuarto mes de sus actividades.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 15&#xB0; Para los efectos de ejercer el derecho a la asignaci&#xF3;n de contrataci&#xF3;n adicional, deber&#xE1; distinguirse entre los empleadores que iniciaron sus actividades con anterioridad al 1&#xB0; de enero de 1982 y los que lo hicieron o lo hagan a partir de esa fecha.</div><div class=\"p\">&nbsp; &nbsp; Los primeros tendr&#xE1;n derecho a la asignaci&#xF3;n por<span class=\"n\" id=\"n_0\">LEY 18162,<br>ART 2&#xB0;</span> cada nuevo trabajador que exceda a la dotaci&#xF3;n existente en la respectiva empresa al 31 de marzo de 1982 o al 31 de julio de dicho a&#xF1;o, a elecci&#xF3;n del empleador. Los empleadores que iniciaron sus actividades a contar del 1&#xB0; de enero de 1982 o con posterioridad a esa fecha o lo hagan en el futuro, tendr&#xE1;n derecho a la asignaci&#xF3;n, a partir del quinto mes desde su iniciaci&#xF3;n, por cada nuevo trabajador que exceda la dotaci&#xF3;n promedio existente en la empresa en el cuarto mes de sus actividades.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1983-12-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1983-12-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7181004,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Establ&#xE9;cese, a contar del 1&#xB0; de Julio de 1982 y hasta el 30 de Junio de 1984, un descuento a las rentas brutas tributables a que se refiere el N&#xB0; 1 del art&#xED;culo 42 de la Ley sobre Impuesto a la Renta y a los honorarios de los contribuyentes pertenecientes a las entidades cuyo sistema de remuneraciones se establece o complementa en los decretos leyes N&#xB0;s. 249, de 1974; 1.953, de 1977; 2.546 y 3.058, de 1979; 3.551, de 1981; decreto supremo de Hacienda N&#xB0; 73, de 1978, con sus modificaciones posteriores, y en las leyes N&#xB0;s.</div><div class=\"p\">17.983 y 17.997. Este descuento se aplicar&#xE1; en el momento de la percepci&#xF3;n de la renta y sin deducci&#xF3;n de ninguna especie, de acuerdo a las siguientes tasas:</div><div class=\"p\">&nbsp; &nbsp; Por la parte de las rentas mensuales que exceda de $ 100.000 y no sobrepase de $ 150.000, 10%; sobre la parte que exceda de $150.000, 20%.</div><div class=\"p\">&nbsp; &nbsp; El descuento establecido en este art&#xED;culo se rebajar&#xE1; de las remuneraciones para los efectos de calcular el impuesto a la renta.</div><div class=\"p\">&nbsp; &nbsp; Para los efectos de este descuento las rentas pagadas &#xED;ntegramente con retraso, o que correspondan a diferencias o saldos de remuneraciones o remuneraciones accesorias o complementarias devengadas en m&#xE1;s de un per&#xED;odo habitual de pago, se ubicar&#xE1;n en &#xE9;l o per&#xED;odos en que se devengaron, reliquid&#xE1;ndose el descuento correspondiente de acuerdo con las normas vigentes en dichos per&#xED;odos.</div><div class=\"p\">&nbsp; &nbsp; La aplicaci&#xF3;n de este descuento, sin perjuicio de determinarse de acuerdo a la renta bruta total, no afectar&#xE1; para ning&#xFA;n efecto a la base imponible de cotizaciones previsionales, entendi&#xE9;ndose por lo tanto que se deduce de las rentas no imponibles.</div><div class=\"p\">&nbsp; &nbsp; En las instituciones y servicios que tengan aprobados aportes fiscales, el monto total del descuento se rebajar&#xE1; de &#xE9;stos. En los casos que no perciban aportes de esta naturaleza se ingresar&#xE1; a rentas generales por concepto de excedentes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0; Establ&#xE9;cese, a contar del 1&#xB0; de julio<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div> de 1982 y hasta el 30 de junio de 1984, un descuento a las rentas brutas tributables a que se refiere el N&#xB0; 1 del art&#xED;culo 42&#xB0; de la Ley sobre Impuesto a la Renta y a los honorarios de los contribuyentes pertenecientes a las entidades cuyo sistema de remuneraciones se establece o complementa en los decretos leyes N&#xB0;s. 249, de 1974; 1.953, de 1977; 2.546 y 3.058, de 1979; 3.551, de 1981 decreto supremo de Hacienda N&#xB0; 73, de 1978, con sus modificaciones posteriores, y en las leyes 17.983 y 17.997. Este descuento se aplicar&#xE1; en el momento de la percepci&#xF3;n de la renta y sin deducci&#xF3;n de ninguna especie, de acuerdo a las siguientes tasas:</div><div class=\"p\">&nbsp; &nbsp; Por la parte de las rentas mensuales que exceda de<span class=\"n\" id=\"n_0\">LEY 18267<br>ART 3&#xB0;</span> $ 120.750, y no sobrepase de $ 181.125, 10%; sobre la parte que exceda de $ 181.125, 20%.</div><div class=\"p\">&nbsp; &nbsp; El descuento establecido en este art&#xED;culo se rebajar&#xE1; de las remuneraciones para los efectos de calcular el impuesto a la renta.</div><div class=\"p\">&nbsp; &nbsp; Para los efectos de este descuento las rentas pagadas &#xED;ntegramente con retraso, o que correspondan a diferencias o saldos de remuneraciones o remuneraciones accesorias o complementarias devengadas en m&#xE1;s de un per&#xED;odo habitual de pago, se ubicar&#xE1;n en &#xE9;l o per&#xED;odos en que se devengaron, reliquid&#xE1;ndose el descuento correspondiente de acuerdo con las normas vigentes en dichos per&#xED;odos.</div><div class=\"p\">&nbsp; &nbsp; La aplicaci&#xF3;n de este descuento, sin perjuicio de determinarse de acuerdo a la renta bruta total, no afectar&#xE1; para ning&#xFA;n efecto a la base imponible de cotizaciones previsionales, entendi&#xE9;ndose por lo tanto que se deduce de las rentas no imponibles.</div><div class=\"p\">&nbsp; &nbsp; En las instituciones y servicios que tengan aprobados aportes fiscales, el monto total del descuento se rebajar&#xE1; de &#xE9;stos. En los casos que no perciban aportes de esta naturaleza se ingresar&#xE1; a rentas generales por concepto de excedentes.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El descuento que se establece en el art&#xED;culo 1&#xB0; de esta ley deber&#xE1; aplicarse, tambi&#xE9;n, a contar del 1&#xB0; del mes siguiente al de publicaci&#xF3;n de esta ley (14 de enero 1983), y hasta el 30 de junio de 1984, a las rentas brutas tributables del personal de la Comisi&#xF3;n Chilena del Cobre. (Art&#xED;culo 8&#xB0; de la Ley 18196).<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  La modificaci&#xF3;n introducida a este art&#xED;culo por el art&#xED;culo 3&#xB0; de la ley 18267, rige a contar del 1&#xB0; de enero de 1984.<br></div></div>"
+        },
+        {
+          "part_id": 7181020,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 15&#xB0; Para los efectos de ejercer el derecho a la asignaci&#xF3;n de contrataci&#xF3;n adicional, deber&#xE1; distinguirse entre los empleadores que iniciaron sus actividades con anterioridad al 1&#xB0; de enero de 1982 y los que lo hicieron o lo hagan a partir de esa fecha.</div><div class=\"p\">&nbsp; &nbsp; Los primeros tendr&#xE1;n derecho a la asignaci&#xF3;n por<span class=\"n\" id=\"n_0\">LEY 18162,<br>ART 2&#xB0;</span> cada nuevo trabajador que exceda a la dotaci&#xF3;n existente en la respectiva empresa al 31 de marzo de 1982 o al 31 de julio de dicho a&#xF1;o, a elecci&#xF3;n del empleador. Los empleadores que iniciaron sus actividades a contar del 1&#xB0; de enero de 1982 o con posterioridad a esa fecha o lo hagan en el futuro, tendr&#xE1;n derecho a la asignaci&#xF3;n, a partir del quinto mes desde su iniciaci&#xF3;n, por cada nuevo trabajador que exceda la dotaci&#xF3;n promedio existente en la empresa en el cuarto mes de sus actividades.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 15&#xB0; Para los efectos de ejercer el derecho a la asignaci&#xF3;n de contrataci&#xF3;n adicional, deber&#xE1; distinguirse entre los empleadores que iniciaron sus actividades con anterioridad al 1&#xB0; de enero de 1982 y los que lo hicieron o lo hagan a partir de esa fecha.</div><div class=\"p\">&nbsp; &nbsp; Los primeros tendr&#xE1;n derecho a la asignaci&#xF3;n por<span class=\"n\" id=\"n_3\">LEY 18162,<br>ART 2&#xB0;</span> cada nuevo trabajador que exceda a la dotaci&#xF3;n existente en la respectiva empresa al 31 de marzo de 1982 o al 31 de julio de dicho a&#xF1;o, a elecci&#xF3;n del empleador. Los empleadores que iniciaron sus actividades a contar del 1&#xB0; de enero de 1982 o con posterioridad a esa fecha o lo hagan en el futuro, tendr&#xE1;n derecho a la asignaci&#xF3;n, a partir del quinto mes desde su iniciaci&#xF3;n, por cada nuevo trabajador que exceda la dotaci&#xF3;n promedio existente en la empresa en el cuarto mes de sus actividades.</div><br></div>"
+        },
+        {
+          "part_id": 7181028,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada, Miembro de la Junta de Gobierno.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea, Miembro de la Junta de Gobierno.- CESAR MENDOZA DURAN, General Director de Carabineros, Miembro de la Junta de Gobierno.- CESAR RAUL BENAVIDES ESCOBAR, Teniente General de Ej&#xE9;rcito, Miembro de la Junta de Gobierno.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en se&#xF1;al de promulgaci&#xF3;n.</div><div class=\"p\">Ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Santiago, diecisiete de Junio de mil novecientos ochenta y dos.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- Sergio de la Cuadra Fabres, Ministro de Hacienda.- Luis Dan&#xFA;s Covian, Brigadier General, Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Seguel Morel, Coronel, Subsecretario de Hacienda.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; JOSE T. MERINO CASTRO.- FERNANDO MATTHEI AUBEL.- CESAR MENDOZA DURAN.- CESAR RAUL BENAVIDES ESCOBAR.&quot;.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en se&#xF1;al de promulgaci&#xF3;n.</div><div class=\"p\">Ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n oficial de dicha Contralor&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Santiago, diecisiete de junio de mil novecientos ochenta y dos.</div><div class=\"p\">&nbsp; &nbsp; AUGUSTO PINOCHET UGARTE.- Sergio de la Cuadra, Ministro de Hacienda.- Luis Dan&#xFA;s, Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2010-08-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7181011,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Establ&#xE9;cese a contar del d&#xED;a 1&#xB0; del mes siguiente al de la publicaci&#xF3;n de la presente ley, una sobretasa adicional de 10% a la venta de los productos a que se refieren los art&#xED;culos 4&#xB0; y 5&#xB0; del decreto ley N&#xB0; 828, de 1974, que se aplicar&#xE1; con sujeci&#xF3;n a las mismas normas que rigen para los impuestos contenidos en los citados art&#xED;culos.</div><div class=\"p\">&nbsp; &nbsp; Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para rebajar la sobretasa establecida en el inciso anterior, fijando el plazo de su vigencia, o derogarla.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1015783&amp;idParte=8955052&amp;idVersion=2010-08-31\">Ley 20455<br>Art. 7<br>D.O. 31.07.2010</a></span>&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- DEROGADO.</div></div>"
+        },
+        {
+          "part_id": 7181020,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 15&#xB0; Para los efectos de ejercer el derecho a la asignaci&#xF3;n de contrataci&#xF3;n adicional, deber&#xE1; distinguirse entre los empleadores que iniciaron sus actividades con anterioridad al 1&#xB0; de enero de 1982 y los que lo hicieron o lo hagan a partir de esa fecha.</div><div class=\"p\">&nbsp; &nbsp; Los primeros tendr&#xE1;n derecho a la asignaci&#xF3;n por<span class=\"n\" id=\"n_3\">LEY 18162,<br>ART 2&#xB0;</span> cada nuevo trabajador que exceda a la dotaci&#xF3;n existente en la respectiva empresa al 31 de marzo de 1982 o al 31 de julio de dicho a&#xF1;o, a elecci&#xF3;n del empleador. Los empleadores que iniciaron sus actividades a contar del 1&#xB0; de enero de 1982 o con posterioridad a esa fecha o lo hagan en el futuro, tendr&#xE1;n derecho a la asignaci&#xF3;n, a partir del quinto mes desde su iniciaci&#xF3;n, por cada nuevo trabajador que exceda la dotaci&#xF3;n promedio existente en la empresa en el cuarto mes de sus actividades.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 15&#xB0; Para los efectos de ejercer el derecho a la asignaci&#xF3;n de contrataci&#xF3;n adicional, deber&#xE1; distinguirse entre los empleadores que iniciaron sus actividades con anterioridad al 1&#xB0; de enero de 1982 y los que lo hicieron o lo hagan a partir de esa fecha.</div><div class=\"p\">&nbsp; &nbsp; Los primeros tendr&#xE1;n derecho a la asignaci&#xF3;n por<span class=\"n\" id=\"n_4\">LEY 18162,<br>ART 2&#xB0;</span> cada nuevo trabajador que exceda a la dotaci&#xF3;n existente en la respectiva empresa al 31 de marzo de 1982 o al 31 de julio de dicho a&#xF1;o, a elecci&#xF3;n del empleador. Los empleadores que iniciaron sus actividades a contar del 1&#xB0; de enero de 1982 o con posterioridad a esa fecha o lo hagan en el futuro, tendr&#xE1;n derecho a la asignaci&#xF3;n, a partir del quinto mes desde su iniciaci&#xF3;n, por cada nuevo trabajador que exceda la dotaci&#xF3;n promedio existente en la empresa en el cuarto mes de sus actividades.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1015783,
+      "fecha": "2010-08-31"
+    }
+  }
+]

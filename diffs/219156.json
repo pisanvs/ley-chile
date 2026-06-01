@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-10-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-04-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004638,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Sustit&#xFA;yese el art&#xED;culo &#xFA;nico del decreto ley N&#xBA; 399, de 1974, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Siete cargos de C&#xF3;nsules Generales de Primera Clase y un cargo de Consejero de la Planta del Servicio Exterior del Ministerio de Relaciones Exteriores, Presupuesto en d&#xF3;lares, ser&#xE1;n de libre designaci&#xF3;n del Ejecutivo, debiendo recaer los correspondientes nombramientos en ciudadanos chilenos no pertenecientes a dicha Planta&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Sustit&#xFA;yese el art&#xED;culo &#xFA;nico del decreto ley N&#xBA; 399, de 1974, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Ocho cargos de C&#xF3;nsules<span class=\"n\" id=\"n_0\">DL 1373, RELACIONES<br>Art. &#xFA;nico<br>D.O. 09.04.1976</span> Generales de Primera Clase de la Planta del Servicio Exterior del Ministerio de Relaciones Exteriores, presupuesto en d&#xF3;lares, ser&#xE1;n de exclusiva confianza del Presidente de la Rep&#xFA;blica, y un cargo de Consejero de la Planta del Servicio Exterior ser&#xE1; de su libre designaci&#xF3;n, debiendo recaer los correspondientes nombramientos en chilenos no pertenecientes a dicha planta.&quot;</div><br></div>"
+        }
+      ]
+    }
+  }
+]

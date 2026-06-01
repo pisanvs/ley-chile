@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-07-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316910,
+          "old": "<div><br><div class=\"p\">AUTORIZA A DON JORGE MENDOZA HOSMAN PARA AMPLIAR ACTIVIDADES</div><div class=\"p\"> PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JORGE MENDOZA HOSMAN PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

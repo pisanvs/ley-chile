@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7222803,
+          "old": "<div><div class=\"p\">APRUEBA MODIFICACIONES A ORDENANZA LOCAL SOBRE DERECHOS MUNICIPALES POR PERMISOS, CONCESIONES Y SERVICIOS </div><div class=\"p\">N&#xFA;m. 123 exento.- Rancagua, 28 de Enero de 1991.-</div><br><div class=\"p\">CONSIDERANDO:</div><br><div class=\"p\">1.- Que, mediante Decreto Exento No. 120, de fecha 26 de Enero de 1989 la I. Municipalidad de Rancagua aprob&#xF3; la Ordenanza Local sobre Derechos Municipales por Permisos, Concesiones y Servicios.</div><div class=\"p\">2.- Que, por Decreto Exento No. 050, de fecha 16 de Enero de 1990, se modific&#xF3; el Decreto antes referido.</div><div class=\"p\">3.- Que, el art&#xED;culo 43o. del DL 3.063, de 1979, prescribe que los derechos correspondientes a servicios, concesiones o permisos, cuyas tasas no est&#xE1;n fijadas en la Ley o que no se encuentran consideradas especif&#xED;camente en el art&#xED;culo 42a, de dicho cuerpo legal o que digan relaci&#xF3;n con nuevos servicios que se creen por las municipalidades se determinar&#xE1;n mediante ordenanzas locales que deber&#xE1;n informar al Intendente Regional respectivo. Igual procedimiento se aplicar&#xE1; para la modificaci&#xF3;n o supresi&#xF3;n de las tasas en su caso.</div><div class=\"p\">4.- El acuerdo adoptado por el Consejo de Desarrollo Comunal en sesi&#xF3;n ordinaria de fecha 22 de Enero de 1991.</div><div class=\"p\">5.- El oficio ordinario No 003, de fecha 11 de Enero de 1991 de la Direcci&#xF3;n de Administraci&#xF3;n y Finanzas, y </div><div class=\"p\">VISTOS:</div><br><div class=\"p\">Lo dispuesto en los art&#xED;culos 5o letra e), 10a, 55a, letra c), de la Ley No. 18.695 Org&#xE1;nica Constitucional de Municipalidad, y la Resoluci&#xF3;n No. 1.050, de 1980, de la Contralor&#xED;a General de Rep&#xFA;blica.</div><br><br><div class=\"p\">DECRETO </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA MODIFICACIONES A ORDENANZA LOCAL SOBRE DERECHOS MUNICIPALES POR PERMISOS, CONCESIONES Y SERVICIOS </div><div class=\"p\">N&#xFA;m. 123 exento.- Rancagua, 28 de Enero de 1991.-</div><br><div class=\"p\">CONSIDERANDO:</div><br><div class=\"p\">1.- Que, mediante Decreto Exento No. 120, de fecha 26 de Enero de 1989 la I. Municipalidad de Rancagua aprob&#xF3; la Ordenanza Local sobre Derechos Municipales por Permisos, Concesiones y Servicios.</div><div class=\"p\">2.- Que, por Decreto Exento No. 050, de fecha 16 de Enero de 1990, se modific&#xF3; el Decreto antes referido.</div><div class=\"p\">3.- Que, el art&#xED;culo 43o. del DL 3.063, de 1979, prescribe que los derechos correspondientes a servicios, concesiones o permisos, cuyas tasas no est&#xE1;n fijadas en la Ley o que no se encuentran consideradas especif&#xED;camente en el art&#xED;culo 42a, de dicho cuerpo legal o que digan relaci&#xF3;n con nuevos servicios que se creen por las municipalidades se determinar&#xE1;n mediante ordenanzas locales que deber&#xE1;n informar al Intendente Regional respectivo. Igual procedimiento se aplicar&#xE1; para la modificaci&#xF3;n o supresi&#xF3;n de las tasas en su caso.</div><div class=\"p\">4.- El acuerdo adoptado por el Consejo de Desarrollo Comunal en sesi&#xF3;n ordinaria de fecha 22 de Enero de 1991.</div><div class=\"p\">5.- El oficio ordinario No 003, de fecha 11 de Enero de 1991 de la Direcci&#xF3;n de Administraci&#xF3;n y Finanzas, y </div><div class=\"p\">VISTOS:</div><br><div class=\"p\">Lo dispuesto en los art&#xED;culos 5o letra e), 10a, 55a, letra c), de la Ley No. 18.695 Org&#xE1;nica Constitucional de Municipalidad, y la Resoluci&#xF3;n No. 1.050, de 1980, de la Contralor&#xED;a General de Rep&#xFA;blica.</div><br><div class=\"p\">DECRETO</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

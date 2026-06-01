@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-10-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7161512,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO N&#xB0; 293 EXENTO, DE 1993 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO N&#xB0; 293 EXENTO, DE 1993 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1973-10-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-01-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8758059,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2 transitorio.- Establ&#xE9;cese, a beneficio fiscal, un impuesto adicional de 4% sobre los actos gravados en el N&#xB0; 8 del art&#xED;culo 1 de la ley N&#xB0; 16.272, sobre Timbres, Estampillas y Papel Sellado, que se mantendr&#xE1; mientras no entren a regir nuevos aval&#xFA;os provenientes de la retasaci&#xF3;n de los bienes ra&#xED;ces que debe efectuar el Servicio de Impuestos Internos, de acuerdo con el art&#xED;culo 3 de la ley N&#xB0; 17.235.</div><div class=\"p\">&nbsp; &nbsp; Ser&#xE1;n aplicables a este tributo las normas sobre administraci&#xF3;n, c&#xE1;lculo, sanciones y fiscalizaci&#xF3;n que rigen al impuesto establecido en el citado N&#xB0; 8 del art&#xED;culo 1 de la ley N&#xB0; 16.272.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2 transitorio.- Establ&#xE9;cese, a beneficio fiscal, un impuesto adicional de 2% sobre los actos<span class=\"n\" id=\"n_0\">DL 296, HACIENDA<br>Art. 13<br>D.O. 30.01.1974</span> gravados en el N&#xB0; 8 del art&#xED;culo 1 de la ley N&#xB0; 16.272, sobre Timbres, Estampillas y Papel Sellado, que se mantendr&#xE1; mientras no entren a regir nuevos aval&#xFA;os provenientes de la retasaci&#xF3;n de los bienes ra&#xED;ces que debe efectuar el Servicio de Impuestos Internos, de acuerdo con el art&#xED;culo 3 de la ley N&#xB0; 17.235.</div><div class=\"p\">&nbsp; &nbsp; Ser&#xE1;n aplicables a este tributo las normas sobre administraci&#xF3;n, c&#xE1;lculo, sanciones y fiscalizaci&#xF3;n que rigen al impuesto establecido en el citado N&#xB0; 8 del art&#xED;culo 1 de la ley N&#xB0; 16.272.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1974-06-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8758048,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- Ot&#xF3;rgase, a contar del 1&#xB0; de Julio de 1973, al personal se&#xF1;alado en las letras a), b) y c) del art&#xED;culo 2 del DFL. N&#xB0; 1, de 1968, del Ministerio de Defensa Nacional, a los profesores civiles de las Fuerzas Armadas y de Carabineros de Chile con jornada de treinta y seis horas semanales u horas equivalentes, al personal de la reserva llamado al servicio activo, al personal a jornal de las Fuerzas Armadas y al personal afecto al DFL. N&#xB0; 2, de 1968, del Ministerio del Interior, una &quot;Asignaci&#xF3;n Mensual Especial&quot; equivalente en su monto a dos sueldos vitales mensuales, escala A), del departamento de Santiago. Esta asignaci&#xF3;n no ser&#xE1; imponible ni considerada renta para ning&#xFA;n efecto legal. Los profesionales y t&#xE9;cnicos que presten servicios a contrata s&#xF3;lo tendr&#xE1;n derecho a este beneficio cuando sirvan con jornada completa. Los conscriptos de las Fuerzas Armadas tendr&#xE1;n derecho a percibir, a t&#xED;tulo de beneficio personal, un 20% de la asignaci&#xF3;n establecida en este art&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp; Sin perjuicio de lo establecido en el inciso anterior, ot&#xF3;rgase a los conscriptos de las Fuerzas Armadas, por una sola vez, una bonificaci&#xF3;n extraordinaria de E&#xB0; 5.000, no imponible y que no ser&#xE1; considerada renta para ning&#xFA;n efecto legal.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;- DEROGADO<span class=\"n\" id=\"n_0\">DL 550, HACIENDA<br>Art. 6<br>D.O. 29.06.1974</span></div><br></div>"
+        },
+        {
+          "part_id": 8758059,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2 transitorio.- Establ&#xE9;cese, a beneficio fiscal, un impuesto adicional de 2% sobre los actos<span class=\"n\" id=\"n_0\">DL 296, HACIENDA<br>Art. 13<br>D.O. 30.01.1974</span> gravados en el N&#xB0; 8 del art&#xED;culo 1 de la ley N&#xB0; 16.272, sobre Timbres, Estampillas y Papel Sellado, que se mantendr&#xE1; mientras no entren a regir nuevos aval&#xFA;os provenientes de la retasaci&#xF3;n de los bienes ra&#xED;ces que debe efectuar el Servicio de Impuestos Internos, de acuerdo con el art&#xED;culo 3 de la ley N&#xB0; 17.235.</div><div class=\"p\">&nbsp; &nbsp; Ser&#xE1;n aplicables a este tributo las normas sobre administraci&#xF3;n, c&#xE1;lculo, sanciones y fiscalizaci&#xF3;n que rigen al impuesto establecido en el citado N&#xB0; 8 del art&#xED;culo 1 de la ley N&#xB0; 16.272.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2 transitorio.- Establ&#xE9;cese, a beneficio fiscal, un impuesto adicional de 2% sobre los actos<span class=\"n\" id=\"n_1\">DL 296, HACIENDA<br>Art. 13<br>D.O. 30.01.1974</span> gravados en el N&#xB0; 8 del art&#xED;culo 1 de la ley N&#xB0; 16.272, sobre Timbres, Estampillas y Papel Sellado, que se mantendr&#xE1; mientras no entren a regir nuevos aval&#xFA;os provenientes de la retasaci&#xF3;n de los bienes ra&#xED;ces que debe efectuar el Servicio de Impuestos Internos, de acuerdo con el art&#xED;culo 3 de la ley N&#xB0; 17.235.</div><div class=\"p\">&nbsp; &nbsp; Ser&#xE1;n aplicables a este tributo las normas sobre administraci&#xF3;n, c&#xE1;lculo, sanciones y fiscalizaci&#xF3;n que rigen al impuesto establecido en el citado N&#xB0; 8 del art&#xED;culo 1 de la ley N&#xB0; 16.272.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

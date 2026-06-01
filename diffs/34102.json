@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-11-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-12-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6008767,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Los autoadhesivos a que se refiere el art&#xED;culo 6&#xB0; de los Decretos Supremos N&#xB0;s 54 y 55 de 1994, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, deber&#xE1;n reunir las siguientes caracter&#xED;sticas:</div><div class=\"p\"> a) Ser&#xE1;n de forma rectangular, de 18 cm. de base y 8 cm. de altura, con una tolerancia de m&#xE1;s (+) 2 cm.;</div><div class=\"p\"> b) Estar&#xE1;n numerados en base a caracteres num&#xE9;ricos perforados;</div><div class=\"p\"> c) Ser&#xE1;n de color verde o rojo, seg&#xFA;n corresponda y llevar&#xE1;n la leyenda &quot;Veh&#xED;culo cumple Normas de Emisi&#xF3;n que establece el D.S. N&#xB0; 54/94 o 55/94 de Mintratel&quot; o &quot;Veh&#xED;culo no cumple Normas de Emisi&#xF3;n que establece el D.S. N&#xB0; 54/94 o 55/94 de Mintratel&quot;, respectivamente.</div><div class=\"p\"> d) Deber&#xE1;n llevar dos recuadros conteniendo cada uno las letras del alfabeto empleadas en la patente &#xFA;nica de los veh&#xED;culos y cuatro recuadros que contendr&#xE1;n cada uno los n&#xFA;meros del 0 al 9, de tal modo de posibilitar, mediante perforaci&#xF3;n, indicar la patente &#xFA;nica del veh&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp; Los autoadhesivos se&#xF1;alados precedentemente ser&#xE1;n confeccionados por la Casa de Moneda de Chile.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Al momento de obtenerse el permiso de circulaci&#xF3;n respectivo los autoadhesivos ser&#xE1;n adheridos al parabrisas de los veh&#xED;culos, en la parte media adyacente al borde superior del mismo, o bien en su zona extrema inferior derecha, de tal forma que no obstaculicen la adecuada visi&#xF3;n del conductor. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Los autoadhesivos a que se refiere el art&#xED;culo 6&#xB0; de los Decretos Supremos N&#xB0;s 54 y 55 de 1994, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, deber&#xE1;n reunir las siguientes caracter&#xED;sticas:</div><div class=\"p\"> a) Ser&#xE1;n de forma rectangular, de 18 cm. de base y 8 cm. de altura, con una tolerancia de m&#xE1;s (+) 2 cm.;</div><div class=\"p\"> b) Estar&#xE1;n numerados en base a caracteres num&#xE9;ricos perforados;</div><div class=\"p\"> c) Ser&#xE1;n de color verde, amarillo o rojo, seg&#xFA;n<span class=\"n\" id=\"n_0\">RES 102,<br>TRANSPORTES<br>Art. 2&#xBA;<br>D.O. 27.12.2005</span> corresponda. Los sellos de color verde llevar&#xE1;n la leyenda &quot;Veh&#xED;culo Apto para Circular por Todo el Pa&#xED;s&quot;, los sellos amarillos se&#xF1;alar&#xE1;n &quot;Veh&#xED;culo no apto para circular por la Regi&#xF3;n Metropolitana&quot;, en tanto, los sellos de color rojo tendr&#xE1;n la inscripci&#xF3;n &quot;Veh&#xED;culo no cumple Normas de Emisi&#xF3;n que establece el D.S. Nos 54/94 o 55/94 de Mintratel&quot;.</div><div class=\"p\"> d) Deber&#xE1;n llevar dos recuadros conteniendo cada uno las letras del alfabeto empleadas en la patente &#xFA;nica de los veh&#xED;culos y cuatro recuadros que contendr&#xE1;n cada uno los n&#xFA;meros del 0 al 9, de tal modo de posibilitar, mediante perforaci&#xF3;n, indicar la patente &#xFA;nica del veh&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp; Los autoadhesivos se&#xF1;alados precedentemente ser&#xE1;n confeccionados por la Casa de Moneda de Chile.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Al momento de obtenerse el permiso de circulaci&#xF3;n respectivo los autoadhesivos ser&#xE1;n adheridos al parabrisas de los veh&#xED;culos, en la parte media adyacente al borde superior del mismo, o bien en su zona extrema inferior derecha, de tal forma que no obstaculicen la adecuada visi&#xF3;n del conductor.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

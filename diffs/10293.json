@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1985-07-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-05-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9030030,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Por resoluci&#xF3;n de la Subsecretar&#xED;a de Pesca se podr&#xE1; autorizar la importaci&#xF3;n de especies salmon&#xED;deas solamente en estado de ovas o gametos, previo cumplimiento de los requisitos generales que establece el reglamento de actividades pesqueras y siempre que se acredite mediante certificado oficial del pa&#xED;s de origen, que los espec&#xED;menes est&#xE1;n exentos de enfermedades Clase I.</div><div class=\"p\">&nbsp; &nbsp; No obstante lo dispuesto en el inciso precedente, respecto de la enfermedad Clase I denominada Bacteriana del Ri&#xF1;&#xF3;n (Renibacterium salmoninarum), el referido certificado oficial deber&#xE1; acreditar exclusivamente que tanto los progenitores como las ovas o gametos fueron tratados contra dicha enfermedad y que la partida que se desea internar al pa&#xED;s ha sido sometida a un proceso de desinfecci&#xF3;n profil&#xE1;ctica, dentro de un plazo no superior a 48 horas previas al embarque, ambos tratamientos seg&#xFA;n los procedimientos t&#xE9;cnicos que establezca el Servicio Nacional de Pesca.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- DEROGADO<span class=\"n\" id=\"n_0\">DTO 96, ECONOMIA<br>Art. final<br>D.O. 04.05.1996</span></div><br></div>"
+        },
+        {
+          "part_id": 9030031,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- La importaci&#xF3;n de otras especies hidrobiol&#xF3;gicas s&#xF3;lo podr&#xE1; efectuarse con autorizaci&#xF3;n de la Subsecretar&#xED;a de Pesca, previo cumplimiento de los requisitos generales y se acredite mediante certificado oficial del pa&#xED;s de origen, que las especies carecen de las siguientes enfermedades Clase I: Septicemia Hemorr&#xE1;gica Viral-VHS (Virus de Egtved). Necrosis Pancre&#xE1;tica Infecciosa-IPN (VNPI) y Necrosis Hematopoy&#xE9;tica Infecciosa-IHN (VNHI).</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- DEROGADO<span class=\"n\" id=\"n_1\">DTO 96, ECONOMIA<br>Art. final<br>D.O. 04.05.1996</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9030028,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO SOBRE CONTROL DE ENFERMEDADES DE PECES DE LA FAMILIA SALMONIDAE Y OTRAS ESPECIES HIDROBIOLOGICAS Y DEROGA DECRETO N&#xB0; 291, DE 1985</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 162.- Santiago, 3 de junio de 1985.-</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo informado por la Subsecretar&#xED;a de Pesca; lo dispuesto en el decreto N&#xB0; 291, de 1984, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; en el art. 14 letra b) del DFL N&#xB0; 34, de 1931, que legisla sobre la industria pesquera y sus derivados, cuyo texto refundido, coordinado y sistematizado fue fijado por DFL N&#xB0; 5, de 1983; en el art 7&#xB0; del DFL N&#xB0; 4, de 1983 y en el art. 32&#xB0; N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, la actividad de cultivo de especies hidrobiol&#xF3;gicas, especialmente de salm&#xF3;nidos, ha tenido un destacado y creciente desarrollo en algunas regiones del pa&#xED;s y la continuaci&#xF3;n de su crecimiento depende en forma importante de la disponibilidad de ovas y gametos de origen externo.</div><div class=\"p\">&nbsp; &nbsp; Que, existen antecedentes cient&#xED;ficos y t&#xE9;cnicos que demuestran la presencia de enfermedades de diferente grado de peligrosidad tanto en las poblaciones de salm&#xF3;nidos de los principales pa&#xED;ses exportadores, como en otras poblaciones de especies hidrobiol&#xF3;gicas de origen externo que son portadores de agentes causales de graves enfermedades.</div><div class=\"p\">&nbsp; &nbsp; Que, es deber del Estado adoptar medidas para evitar la introducci&#xF3;n y propagaci&#xF3;n dentro del territorio nacional de enfermedades que afecten a los recursos hidrobiol&#xF3;gicos marinos y continentales y para combatir las existentes,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento sobre control de enfermedades de peces de la familia salmonidae y otras especies hidrobiol&#xF3;gicas.</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO SOBRE CONTROL DE ENFERMEDADES DE PECES DE LA FAMILIA SALMONIDAE Y OTRAS ESPECIES HIDROBIOLOGICAS Y DEROGA DECRETO N&#xB0; 291, DE 1985 </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 162.- Santiago, 3 de junio de 1985.- Visto: Lo informado por la Subsecretar&#xED;a de Pesca; lo dispuesto en el decreto N&#xB0; 291, de 1984, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; en el art. 14 letra b) del DFL N&#xB0; 34, de 1931, que legisla sobre la industria pesquera y sus derivados, cuyo texto refundido, coordinado y sistematizado fue fijado por DFL N&#xB0; 5, de 1983; en el art 7&#xB0; del DFL N&#xB0; 4, de 1983 y en el art. 32&#xB0; N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que, la actividad de cultivo de especies hidrobiol&#xF3;gicas, especialmente de salm&#xF3;nidos, ha tenido un destacado y creciente desarrollo en algunas regiones del pa&#xED;s y la continuaci&#xF3;n de su crecimiento depende en forma importante de la disponibilidad de ovas y gametos de origen externo.</div><div class=\"p\">&nbsp; &nbsp; Que, existen antecedentes cient&#xED;ficos y t&#xE9;cnicos que demuestran la presencia de enfermedades de diferente grado de peligrosidad tanto en las poblaciones de salm&#xF3;nidos de los principales pa&#xED;ses exportadores, como en otras poblaciones de especies hidrobiol&#xF3;gicas de origen externo que son portadores de agentes causales de graves enfermedades.</div><div class=\"p\">&nbsp; &nbsp; Que, es deber del Estado adoptar medidas para evitar la introducci&#xF3;n y propagaci&#xF3;n dentro del territorio nacional de enfermedades que afecten a los recursos hidrobiol&#xF3;gicos marinos y continentales y para combatir las existentes,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento sobre control de enfermedades de peces de la familia salmonidae y otras especies hidrobiol&#xF3;gicas.</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

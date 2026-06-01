@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-07-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-04-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7161642,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xB0; 339 EXENTO, DE 1996</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xB0; 339 EXENTO, DE 1996</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

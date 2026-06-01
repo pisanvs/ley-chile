@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-08-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-09-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7147960,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO PARA LA APLICACION EN CHILE DEL CONVENIO REGIONAL DE CONVALIDACION DE ESTUDIOS, TITULOS Y DIPLOMAS DE EDUCACION SUPERIOR EN AMERICA LATINA Y EL CARIBE</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 429.- Santiago, 15 de Julio de 1985.- Visto: Lo dispuesto en los art&#xED;culos 8&#xB0; y 9&#xB0; del Convenio Regional de Convalidaci&#xF3;n de Estudios, T&#xED;tulos y Diplomas de Educaci&#xF3;n Superior en Am&#xE9;rica Latina y El Caribe, ratificado por Chile por decreto ley N&#xB0; 1.214 de 13 de Octubre de 1975, con reserva de la no aplicaci&#xF3;n en el pa&#xED;s del N&#xB0; 2 del art&#xED;culo 7&#xB0;, y publicado en el Diario Oficial N&#xB0; 29.448 de 6 de Mayo de 1976; en relaci&#xF3;n con lo establecido en el decreto supremo N&#xB0; 12 de 7 de Enero de 1985, del Ministerio de Educaci&#xF3;n P&#xFA;blica, Publicado en el Diario Oficial N&#xB0; 32.131 de 26 de Marzo de 1985; lo establecido en el art&#xED;culo 3&#xB0; del D.F.L. N&#xB0; 153 de 1981, aprobatorio del Estatuto de la Universidad de Chile; la proposici&#xF3;n de la Universidad de Chile, OF (R) N&#xB0; 440 de 6 de Junio de 1985 y en el art&#xED;culo 32, N&#xB0;s. 8 y 17 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento para la aplicaci&#xF3;n en Chile del Convenio Regional de Convalidaci&#xF3;n de Estudios, T&#xED;tulos y Diplomas de Educaci&#xF3;n Superior en Am&#xE9;rica Latina y El Caribe;</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO PARA LA APLICACION EN CHILE DEL CONVENIO REGIONAL DE CONVALIDACION DE ESTUDIOS, TITULOS Y DIPLOMAS DE EDUCACION SUPERIOR EN AMERICA LATINA Y EL CARIBE</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 429.- Santiago, 15 de Julio de 1985.- Visto: Lo dispuesto en los art&#xED;culos 8&#xB0; y 9&#xB0; del Convenio Regional de Convalidaci&#xF3;n de Estudios, T&#xED;tulos y Diplomas de Educaci&#xF3;n Superior en Am&#xE9;rica Latina y El Caribe, ratificado por Chile por decreto ley N&#xB0; 1.214 de 13 de Octubre de 1975, con reserva de la no aplicaci&#xF3;n en el pa&#xED;s del N&#xB0; 2 del art&#xED;culo 7&#xB0;, y publicado en el Diario Oficial N&#xB0; 29.448 de 6 de Mayo de 1976; en relaci&#xF3;n con lo establecido en el decreto supremo N&#xB0; 12 de 7 de Enero de 1985, del Ministerio de Educaci&#xF3;n P&#xFA;blica, Publicado en el Diario Oficial N&#xB0; 32.131 de 26 de Marzo de 1985; lo establecido en el art&#xED;culo 3&#xB0; del D.F.L. N&#xB0; 153 de 1981, aprobatorio del Estatuto de la Universidad de Chile; la proposici&#xF3;n de la Universidad de Chile, OF (R) N&#xB0; 440 de 6 de Junio de 1985 y en el art&#xED;culo 32, N&#xB0;s. 8 y 17 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento para la aplicaci&#xF3;n en Chile del Convenio Regional de Convalidaci&#xF3;n de Estudios, T&#xED;tulos y Diplomas de Educaci&#xF3;n Superior en Am&#xE9;rica Latina y El Caribe;</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

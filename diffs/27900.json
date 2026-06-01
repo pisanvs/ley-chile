@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1962-01-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1962-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9098742,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA COMO LEY DE PRESUPUESTOS PARA 1962 LA PARTE NO VETADA QUE SE&#xD1;ALA DEL PROYECTO DE LEY DE PRESUPUESTO PARA 1962; APRUEBA EL CALCULO DE ENTRADAS Y GASTOS DEL PRESUPUESTO DE LA NACION, EN MONEDAS NACIONAL Y EXTRANJERAS REDUCIDAS A DOLARES PARA EL A&#xD1;O 1962 Y PRORROGA LA INICIACION DEL PERIODO DE INSCRIPCIONES ELECTORALES EXTRAORDINARIAS</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; Que el Presidente de la Rep&#xFA;blica en uso de sus facultades constitucionales ha procedido a vetar la distribuci&#xF3;n de las sumas consultadas en diversos &#xED;tem de la Ley de Presupuestos para 1962, y</div><div class=\"p\">&nbsp; &nbsp; Que de acuerdo con lo dispuesto en el art&#xED;culo 31 del D.F.L. N&#xB0; 47, de 1959, que en lo pertinente es reproducci&#xF3;n de la antigua Ley General de Presupuesto n&#xFA;mero 4.520, la parte no vetada regir&#xE1; como Ley de Presupuesto del a&#xF1;o fiscal para el que fu&#xE9; dictada a partir del 1&#xB0; de Enero del a&#xF1;o respectivo,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base como Ley de Presupuestos para 1962, la parte no vetada del proyecto de Ley de Presupuesto para 1962 sometido a la aprobaci&#xF3;n del Presidente de la Rep&#xFA;blica y que le fuera comunicado por oficio N&#xB0; 750, de 28 de Diciembre de 1961, de la H. C&#xE1;mara de Diputados,</div><div class=\"p\">&nbsp; &nbsp; Ley n&#xFA;m. 14.821 Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Aprueba en la parte no vetada del proyecto de Ley de Presupuesto para 1962, el C&#xE1;lculo de Entradas y el Presupuesto de Gastos de la Naci&#xF3;n para el a&#xF1;o 1962, moneda corriente y en monedas extranjeras reducidas a d&#xF3;lares; prorroga, por el t&#xE9;rmino de 90 d&#xED;as, la iniciaci&#xF3;n del per&#xED;odo de inscripciones electorales extraordinarias.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

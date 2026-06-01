@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-04-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8815531,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE SISTEMA ESPECIAL DE EXAMINACION PARA NUEVAS UNIVERSIDADES</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley </div></div>",
+          "new": "<div><div class=\"p\">LEY NUM. 18.862</div><br><div class=\"p\"> ESTABLECE SISTEMA ESPECIAL DE EXAMINACION PARA NUEVAS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">UNIVERSIDADES</div><br><div class=\"p\">&nbsp; &nbsp;  La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Proyecto de ley</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 1&#xBA; de la LEY 19054, publicada el 13.04.1991, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

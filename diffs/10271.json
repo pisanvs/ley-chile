@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-02-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-06-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7139732,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE UNIFORME PARA LOS ALUMNOS DE 7&#xB0; y 8&#xB0; A&#xD1;OS DE ENSE&#xD1;ANZA GENERAL BASICA Y ENSE&#xD1;ANZA MEDIA, AMBAS MODALIDADES</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 161.- Santiago, 23 de Enero de 1979.- Vistos: lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973; 527, de 1974, y en el DFL. N&#xB0; 7.912, de 20 de Noviembre de 1927, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que es conveniente adoptar medidas adecuadas para contribuir al orden y presentaci&#xF3;n personal de los escolares, tanto dentro del establecimiento educacional como fuera de &#xE9;l.</div><div class=\"p\">&nbsp; &nbsp; Que el uniforme constituye un distintivo para los estudiantes y al mismo tiempo representa una efectiva econom&#xED;a para los hogares,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE UNIFORME PARA LOS ALUMNOS DE 7&#xB0; y 8&#xB0; A&#xD1;OS DE ENSE&#xD1;ANZA GENERAL BASICA Y ENSE&#xD1;ANZA MEDIA, AMBAS MODALIDADES</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 161.- Santiago, 23 de Enero de 1979.- Vistos: lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973; 527, de 1974, y en el DFL. N&#xB0; 7.912, de 20 de Noviembre de 1927, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que es conveniente adoptar medidas adecuadas para contribuir al orden y presentaci&#xF3;n personal de los escolares, tanto dentro del establecimiento educacional como fuera de &#xE9;l.</div><div class=\"p\">&nbsp; &nbsp; Que el uniforme constituye un distintivo para los estudiantes y al mismo tiempo representa una efectiva econom&#xED;a para los hogares,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1955-10-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1972-08-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7174091,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREA EL COLEGIO DE ASISTENTES SOCIALES Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; CREA EL COLEGIO DE ASISTENTES SOCIALES Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

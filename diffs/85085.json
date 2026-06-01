@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7220129,
+          "old": "<div><div class=\"p\">EXTRACTO DEL DECRETO EXENTO No. 47.DE 1990 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DEL DECRETO EXENTO No. 47.DE 1990</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

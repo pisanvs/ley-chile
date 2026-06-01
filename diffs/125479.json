@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-12-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-02-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8335405,
+          "old": "<div><div class=\"p\">AUTORIZA A DON RODRIGO JESUS ANTONIO MANDIOLA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON RODRIGO JESUS ANTONIO MANDIOLA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-07-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8542686,
+          "old": "<div><div class=\"p\">AUTORIZA A JIMENEZ Y CIA. LTDA., PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A JIMENEZ Y CIA. LTDA., PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

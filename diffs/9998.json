@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-12-24",
+    "tipo_version_s": "Única",
+    "diff": null
+  },
+  {
+    "fecha": "2026-09-17",
+    "tipo_version_s": "Con Vigencia Diferida por Fecha",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5896427,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile, la norma t&#xE9;cnica que se indica a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; NCh 2165 OF. 91 Tensiones admisibles para la madera laminada encolada estructural de pino radiata.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Corresponder&#xE1; al Instituto Nacional de Normalizaci&#xF3;n publicar una minuta del presente decreto en el Diario Oficial, y el texto &#xED;ntegro de esta norma en documentos oficiales en documentos oficiales del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- El Instituto Nacional de Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de dicha norma, debidamente certificada su conformidad con el texto oficial, a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionar gratuitamente el mismo n&#xFA;mero de ejemplares al Ministerio de Vivienda y Urbanismo, que la declara norma oficial de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile, la norma t&#xE9;cnica que se indica a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; NCh 2165 OF. 91 Derogada<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1222321&amp;idParte=10587694&amp;idVersion=2026-03-16\">Decreto 13 EXENTO,<br>VIVIENDA<br>N&#xB0; 7<br>D.O. 16.03.2026</a></span>.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Corresponder&#xE1; al Instituto Nacional de Normalizaci&#xF3;n publicar una minuta del presente decreto en el Diario Oficial, y el texto &#xED;ntegro de esta norma en documentos oficiales en documentos oficiales del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- El Instituto Nacional de Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de dicha norma, debidamente certificada su conformidad con el texto oficial, a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionar gratuitamente el mismo n&#xFA;mero de ejemplares al Ministerio de Vivienda y Urbanismo, que la declara norma oficial de la Rep&#xFA;blica.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

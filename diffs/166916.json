@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1987-10-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2001-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7268312,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION No. 210, DE 1986, QUE AUTORIZA A DON JUAN CARRIZO URBINA, PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION No. 210, DE 1986, QUE AUTORIZA A DON JUAN CARRIZO URBINA, PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

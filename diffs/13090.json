@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-12-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-07-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5911032,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Hist&#xF3;rico la Bas&#xED;lica de los Sacramentinos, de la Orden de los Sacramentinos, incluyendo el templo, construcciones anexas al poniente, el Claustro, y el espacio circundante conformado por el &#xE1;rea verde de uso p&#xFA;blico que lo rodea, situada entre calles In&#xE9;s de Aguilera (nueva Santa Isabel), Arturo Prat, y norte del &#xE1;rea verde intercomunal, en la comuna de Santiago, Regi&#xF3;n Metropolitana.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Decl&#xE1;rase Monumento Hist&#xF3;rico la Bas&#xED;lica de los Sacramentinos, de la Orden de los Sacramentinos, incluyendo el templo, construcciones anexas al poniente, el Claustro, y el espacio circundante conformado por el &#xE1;rea verde de uso p&#xFA;blico que lo rodea, situada entre calles In&#xE9;s de Aguilera (nueva Santa Isabel), Arturo Prat, y norte del &#xE1;rea verde intercomunal, en la comuna de Santiago, Regi&#xF3;n Metropolitana.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; del Decreto 38, Culturas, publicado el 19.07.2019, modifica la declaraci&#xF3;n de Monumento Nacional, en la categor&#xED;a Monumento Hist&#xF3;rico, de la Bas&#xED;lica de Los Sacramentinos, ubicada en la comuna de Santiago, Regi&#xF3;n Metropolitana, contenida en la presente norma con el fin de aclarar sus l&#xED;mites de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

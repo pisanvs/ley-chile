@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-01-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-07-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8548900,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MERCEDES HEIDEN VALDES, PARA INICIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MERCEDES HEIDEN VALDES, PARA INICIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

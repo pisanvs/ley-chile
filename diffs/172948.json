@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-05-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003013,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Ab&#xF3;nase, por gracia, a don Temistocles Cris&#xF3;stomo Sep&#xFA;lveda dos d&#xED;as, a objeto de cumplir con lo prescrito en el art&#xED;culo 44 N&#xBA; 2 del DFL.</div><div class=\"p\">2, de 1968, en relaci&#xF3;n con el art&#xED;culo 6&#xBA; del decreto ley N&#xBA; 1.147, de 1975.</div><div class=\"p\">&nbsp; &nbsp;  La Direcci&#xF3;n de Previsi&#xF3;n de Carabineros de Chile, proceder&#xE1; a reliquidar la pensi&#xF3;n que goza actualmente el Sr. Cris&#xF3;stomo Sep&#xFA;lveda adicionando a ella el per&#xED;odo de tiempo que se abona por el presente decreto ley.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Ab&#xF3;nase, por gracia, a don Temistocles Cris&#xF3;stomo Sep&#xFA;lveda dos d&#xED;as, a objeto de cumplir con lo prescrito en el art&#xED;culo 44 N&#xBA; 1 del<span class=\"n\" id=\"n_0\">DL 2911, INTERIOR<br>Art. &#xFA;nico<br>D.O. 13.11.1979</span> DFL. 2, de 1968, en relaci&#xF3;n con el art&#xED;culo 6&#xBA; del decreto ley N&#xBA; 1.147, de 1975. La Direcci&#xF3;n de Previsi&#xF3;n de Carabineros de Chile, proceder&#xE1; a reliquidar la pensi&#xF3;n que goza actualmente el Sr. Cris&#xF3;stomo Sep&#xFA;lveda adicionando a ella el per&#xED;odo de tiempo que se abona por el presente decreto ley. </div></div>"
+        }
+      ]
+    }
+  }
+]

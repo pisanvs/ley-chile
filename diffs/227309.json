@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1960-07-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1965-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6486597,
+          "old": "<div><div class=\"p\">APRUEBA CARACTERISTICAS PARA EL BILLETE DE MEDIO ESCUDO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 7,486.- Santiago, 20 de Julio de 1960.- Vistos: la nota del Banco Central de Chile, de fecha 7 de Julio de 1960, y lo dispuesto en la ley N.o 13,305, y en el art&#xED;culo 51 del decreto con fuerza de ley N.o 247, de 1960,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA CARACTERISTICAS PARA EL BILLETE DE MEDIO ESCUDO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 7,486.- Santiago, 20 de Julio de 1960.- Vistos: la nota del Banco Central de Chile, de fecha 7 de Julio de 1960, y lo dispuesto en la ley N.o 13,305, y en el art&#xED;culo 51 del decreto con fuerza de ley N.o 247, de 1960,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

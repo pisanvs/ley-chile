@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-08-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-03-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7268421,
+          "old": "<div><br><div class=\"p\">ESTABLECE NUEVAS TARIFAS PARA OTORGAMIENTO Y REVALIDACION DE PASAPORTES QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 524.- Santiago, Julio 27 de 1982.- Vistos: La Constituci&#xF3;n Pol&#xED;tica del Estado; el DFL 161 (RR.EE.) de 1978; el art&#xED;culo 13 del decreto supremo N&#xB0; 428 (RR.EE.) de 1978; el decreto supremo N&#xB0; 751 (RR.EE.) de 1979, y las necesidades del servicio,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE NUEVAS TARIFAS PARA OTORGAMIENTO Y REVALIDACION DE PASAPORTES QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 524.- Santiago, Julio 27 de 1982.- Vistos: La Constituci&#xF3;n Pol&#xED;tica del Estado; el DFL 161 (RR.EE.) de 1978; el art&#xED;culo 13 del decreto supremo N&#xB0; 428 (RR.EE.) de 1978; el decreto supremo N&#xB0; 751 (RR.EE.) de 1979, y las necesidades del servicio, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

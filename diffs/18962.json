@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "1994-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-11-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938203,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14: Las instalaciones el&#xE9;ctricas de los centros de di&#xE1;lisis deber&#xE1;n cumplir los siguientes requisitos:</div><div class=\"p\"> a) Deben contemplar consumos m&#xE1;ximos indicados por el fabricante, para todo el equipamiento incluyendo los sistemas de iluminaci&#xF3;n general.</div><div class=\"p\"> b) Deben contemplar enchufes individuales para cada equipo, con capacidad suficiente para el consumo indicado por el fabricante y con conexi&#xF3;n a tierra.</div><div class=\"p\"> c) Deben tener diferencial de acuerdo a la instalaci&#xF3;n.</div><div class=\"p\"> d) Deben contar con equipos de iluminaci&#xF3;n de emergencia en &#xE1;reas claves: sala de di&#xE1;lisis, sala de reutilizaci&#xF3;n, pasillos y &#xE1;reas de circulaci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14: Las instalaciones el&#xE9;ctricas de los centros de di&#xE1;lisis deber&#xE1;n cumplir los siguientes requisitos: a) Deben contemplar consumos m&#xE1;ximos indicados por el fabricante, para todo el equipamiento incluyendo los sistemas de iluminaci&#xF3;n general. b) Deben contemplar enchufes individuales para cada equipo, con capacidad suficiente para el consumo indicado por el fabricante y con conexi&#xF3;n a tierra. c) Deben tener diferencial de acuerdo a la instalaci&#xF3;n. d) Deben contar con equipos de iluminaci&#xF3;n de emergencia en &#xE1;reas claves: sala de di&#xE1;lisis, sala de reutilizaci&#xF3;n, pasillos y &#xE1;reas de circulaci&#xF3;n. e) Contar con grupo electr&#xF3;geno que permita mantener en<span class=\"n\" id=\"n_0\">DTO 531, SALUD<br>Art. Primero<br>D.O. 17.11.1999</span> pleno funcionamiento los equipos de di&#xE1;lisis que utiliza el Centro, en toda ocasi&#xF3;n en la que disminuya o se suprima el suministro de energ&#xED;a el&#xE9;ctrica de la red general. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2001-01-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8938210,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19: En los casos en que el centro de<span class=\"n\" id=\"n_1\">DTO 558, SALUD<br>N&#xBA;1<br>D.O. 13.01.2001</span> di&#xE1;lisis autorizado, desee otorgar la prestaci&#xF3;n de di&#xE1;lisis peritoneal cr&#xF3;nica deber&#xE1; contar con una sala espec&#xED;fica de di&#xE1;lisis peritoneal, independiente y especialmente habilitada con &#xE1;reas separadas, sucia y limpia adem&#xE1;s de los implementos necesarios, tales como lavamanos, sillas, porta sueros y estantes.</div><div class=\"p\">&nbsp; &nbsp;  Las enfermeras que efect&#xFA;en este procedimiento deber&#xE1;n acreditar su capacitaci&#xF3;n en un centro autorizado que efect&#xFA;e este tipo de di&#xE1;lisis, de a lo menos 20 horas de actividad pr&#xE1;ctica con 5 pacientes en di&#xE1;lisis peritoneal cr&#xF3;nica.</div><div class=\"p\">&nbsp; &nbsp;  Cada enfermera podr&#xE1; estar a cargo de la atenci&#xF3;n de un m&#xE1;ximo de 30 pacientes adultos o de 15 pedi&#xE1;tricos, en dicho tratamiento.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2017-09-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

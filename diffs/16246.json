@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-11-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-04-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7154084,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; INTRODUCE MODIFICACION QUE INDICA, AL D.S. N&#xB0; 434, DE 1991</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 925.- Santiago, 14 de Octubre de 1991.- Vistos: lo dispuesto en el art&#xED;culo 32 n&#xFA;mero 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; el D.L.</div><div class=\"p\">N&#xB0; 1.263 de 1975; el D.S. N&#xB0; 551 de 1982; el D.L. N&#xB0; 2.349 de 1978; la Ley N&#xB0; 19.012 de 1990; la Ley N&#xB0; 18.840 de 1989, y el D.S. N&#xB0; 434 de 1991,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; INTRODUCE MODIFICACION QUE INDICA, AL D.S. N&#xB0; 434, DE 1991</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 925.- Santiago, 14 de Octubre de 1991.- Vistos: lo dispuesto en el art&#xED;culo 32 n&#xFA;mero 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; el D.L.</div><div class=\"p\">N&#xB0; 1.263 de 1975; el D.S. N&#xB0; 551 de 1982; el D.L. N&#xB0; 2.349 de 1978; la Ley N&#xB0; 19.012 de 1990; la Ley N&#xB0; 18.840 de 1989, y el D.S. N&#xB0; 434 de 1991,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

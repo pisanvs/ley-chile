@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-11-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-05-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6257448,
+          "old": "<div><div class=\"p\">AUTORIZA A EXPORTADORA PROIMEC S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE LA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EXPORTADORA PROIMEC S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE LA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

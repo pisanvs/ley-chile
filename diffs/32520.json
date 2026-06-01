@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1994-07-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-12-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8289593,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; I.- Agr&#xE9;gase, a continuaci&#xF3;n de la letra b), del numerando II, de la <a href=\"https://www.leychile.cl/Navegar?idNorma=236543&amp;idParte=0&amp;idVersion=\">Resoluci&#xF3;n N&#xB0; 18, de fecha 21 de octubre de 1981, del Ministerio de Bienes Nacionales</a>, la siguiente letra:</div><div class=\"p\">&nbsp; &nbsp; c) Suscribir contratos o convenios con otras entidades, sean &#xE9;stas p&#xFA;blicas o privadas.</div><div class=\"p\">&nbsp; &nbsp; II.- La presente Resoluci&#xF3;n formar&#xE1; parte integrante de la que se complementa, para todos los efectos legales.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; I.- Agr&#xE9;gase, a continuaci&#xF3;n de la letra b), del numerando II, de la Resoluci&#xF3;n N&#xB0; 18, de fecha 21 de octubre de 1981, del Ministerio de Bienes Nacionales, la siguiente letra:</div><div class=\"p\">&nbsp; &nbsp; c) Suscribir contratos o convenios con otras entidades, sean &#xE9;stas p&#xFA;blicas o privadas.</div><br><div class=\"p\">&nbsp; &nbsp; d).- Adquirir<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=33397&amp;idParte=8290615&amp;idVersion=1994-12-07\">RES 137,<br>BIENES NACIONALES<br>N&#xBA; I<br>D.O. 07.12.1994</a></span> bienes muebles, equipos y servicios, hasta 30 U.T.M. cada vez.</div><br><div class=\"p\">&nbsp; &nbsp; II.- La presente Resoluci&#xF3;n formar&#xE1; parte integrante de la que se complementa, para todos los efectos legales.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 33397,
+      "fecha": "1994-12-07"
+    }
+  }
+]

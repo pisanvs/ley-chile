@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-05-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-10-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9007146,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA NORMAS DE EVALUACION Y PROMOCION ESCOLAR N&#xFA;m. 76 exento.- Santiago, 7 de Mayo de 1985.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que la experiencia derivada de la aplicaci&#xF3;n de las normas vigentes sobre evaluaci&#xF3;n y promoci&#xF3;n escolar, aprobadas por decreto supremo exento de Educaci&#xF3;n N&#xB0; 62, de 1983, recomienda reemplazar la Prueba Global establecida para el r&#xE9;gimen semestral, por un examen de fin de curso;</div><div class=\"p\">&nbsp; &nbsp; Que es preciso hacer extensivo el examen mencionado, a los establecimientos de ense&#xF1;anza estatales y particulares que aplican el citado decreto, con r&#xE9;gimen de evaluaci&#xF3;n trimestral;</div><div class=\"p\">&nbsp; &nbsp; Que es asimismo conveniente usar una escala num&#xE9;rica en todos los documentos oficiales referidos a evaluaci&#xF3;n y promoci&#xF3;n escolar; y</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el D.F.L. N&#xB0; 7.912, de 1927; Ley N&#xB0; 16.526, de 1966; decreto supremo de Educaci&#xF3;n N&#xB0; 9.555, de 1980; decreto supremo exento de Educaci&#xF3;n N&#xB0; 62, de 1983; Resoluci&#xF3;n N&#xB0; 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; FIJA NORMAS DE EVALUACION Y PROMOCION ESCOLAR<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 76 exento.- Santiago, 7 de Mayo de 1985.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que la experiencia derivada de la aplicaci&#xF3;n de las normas vigentes sobre evaluaci&#xF3;n y promoci&#xF3;n escolar, aprobadas por decreto supremo exento de Educaci&#xF3;n N&#xB0; 62, de 1983, recomienda reemplazar la Prueba Global establecida para el r&#xE9;gimen semestral, por un examen de fin de curso;</div><div class=\"p\">&nbsp; &nbsp; Que es preciso hacer extensivo el examen mencionado, a los establecimientos de ense&#xF1;anza estatales y particulares que aplican el citado decreto, con r&#xE9;gimen de evaluaci&#xF3;n trimestral;</div><div class=\"p\">&nbsp; &nbsp; Que es asimismo conveniente usar una escala num&#xE9;rica en todos los documentos oficiales referidos a evaluaci&#xF3;n y promoci&#xF3;n escolar; y</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el D.F.L. N&#xB0; 7.912, de 1927; Ley N&#xB0; 16.526, de 1966; decreto supremo de Educaci&#xF3;n N&#xB0; 9.555, de 1980; decreto supremo exento de Educaci&#xF3;n N&#xB0; 62, de 1983; Resoluci&#xF3;n N&#xB0; 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 22 del DTO 146 exento, Educaci&#xF3;n, publicado el 08.10.1988, modificado por el DTO 157 exento, Educaci&#xF3;n, publicado 13.06.2000, que cambi&#xF3; su numeraci&#xF3;n, derog&#xF3; la presente norma, a partir del a&#xF1;o escolar 1989.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1981-09-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-11-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9026517,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Declarase a contar de esta fecha, feriado legal el d&#xED;a 11 de Septiembre de cada a&#xF1;o. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico. Decl&#xE1;rase feriado legal el primer<span class=\"n\" id=\"n_0\">LEY 19588<br>Art. 1&#xBA;<br>D.O. 11.11.1998</span> lunes del mes de septiembre, fecha que se denominar&#xE1; &quot;D&#xED;a de la Unidad Nacional&quot;.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-03-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9026517,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico. Decl&#xE1;rase feriado legal el primer<span class=\"n\" id=\"n_0\">LEY 19588<br>Art. 1&#xBA;<br>D.O. 11.11.1998</span> lunes del mes de septiembre, fecha que se denominar&#xE1; &quot;D&#xED;a de la Unidad Nacional&quot;.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico. Decl&#xE1;rase feriado legal el primer<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> lunes del mes de septiembre, fecha que se denominar&#xE1; &quot;D&#xED;a de la Unidad Nacional&quot;.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico de la LEY 19793, publicada el 06.03.2002, derog&#xF3; la Ley 19588 que estableci&#xF3; este feriado legal, en consecuencia, desde esa fecha el presente art&#xED;culo queda sin efecto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

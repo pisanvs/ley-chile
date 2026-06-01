@@ -1,0 +1,67 @@
+[
+  {
+    "fecha": "1981-11-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1985-12-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9046731,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; LEY NUM. 18.048 MODIFICA EL PRESUPUESTO DE LA CAJA DE PREVISION DE EMPLEADOS PARTICULARES PARA EL A&#xD1;O 1981 Y ESTABLECE DISPOSICIONES LEGALES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MINISTERIO DEL TRABAJO Y PREVISION SOCIAL LEY N&#xB0; 18.048 Modifica el presupuesto del sector p&#xFA;blico para el a&#xF1;o 1981; normas sobre operaciones de cr&#xE9;dito con garant&#xED;a hipotecaria de parte de las instituciones de previsi&#xF3;n; otras disposiciones</div><div class=\"p\">&nbsp; &nbsp; (Publicada en el &quot;Diario Oficial&quot; N&#xB0; 31.109, de 6 de noviembre de 1981)</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1985-12-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9046732,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- Las operaciones con garant&#xED;a hipotecaria que, conforme a la legislaci&#xF3;n vigente efect&#xFA;en las instituciones de previsi&#xF3;n fiscalizadas por la Superintendencia de Seguridad Social y sus respectivos dividendos, se expresar&#xE1;n en Unidades de Fomento y devengar&#xE1;n un inter&#xE9;s del ocho por ciento anual.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 1&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_0\">LEY 18360<br>ART. 6&#xB0;</span></div><br></div>"
+        },
+        {
+          "part_id": 9046733,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- Modif&#xED;case el Presupuesto del Sector P&#xFA;blico, para el a&#xF1;o 1981, aprobado por el decreto ley N&#xB0; 3.528 de 1980, en la siguiente forma:</div><div class=\"p\">&nbsp; &nbsp; 1.- Trasp&#xE1;sase desde el &#xED;tem 15-19-00-32-80 al subt&#xED;tulo 15-19-00-22, la suma de $ 200.000 miles.</div><div class=\"p\">&nbsp; &nbsp; 2.- Agr&#xE9;gase a continuaci&#xF3;n de la glosa N&#xB0; 2 en el presupuesto de la Caja de Previsi&#xF3;n de Empleados Particulares lo siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Con los recursos de este subt&#xED;tulo se podr&#xE1;n pagar todos los gastos que demande la cobranza judicial de imposiciones y multas que efect&#xFA;en personas naturales y jur&#xED;dicas, para la Caja de Previsi&#xF3;n de Empleados Particulares y el Servicio de Seguro Social.&quot; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Modif&#xED;case el Presupuesto del Sector P&#xFA;blico, para el a&#xF1;o 1981, aprobado por el decreto ley 3.528, de 1980, en la siguiente forma:</div><div class=\"p\">&nbsp; &nbsp; 1.- Trasp&#xE1;sase desde el &#xED;tem 15-19-00-32-80 al subt&#xED;tulo 15-19-00-22, la suma de $ 200.000 miles.</div><div class=\"p\">&nbsp; &nbsp; 2.- Agr&#xE9;gase a continuaci&#xF3;n de la glosa N&#xB0; 2 en el presupuesto de la Caja de Previsi&#xF3;n de Empleados Particulares lo siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Con los recursos de este subt&#xED;tulo se podr&#xE1;n pagar todos los gastos que demande la cobranza judicial de imposiciones y multas que efect&#xFA;en personas naturales y jur&#xED;dicas, para la Caja de Previsi&#xF3;n de Empleados Particulares y el Servicio de Seguro Social&quot;. </div></div>"
+        },
+        {
+          "part_id": 9046734,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;- Las instituciones de previsi&#xF3;n a que se refiere el art&#xED;culo 1&#xB0; podr&#xE1;n enajenar a t&#xED;tulo oneroso sus cr&#xE9;ditos hipotecarios mediante licitaci&#xF3;n p&#xFA;blica cuyas bases deber&#xE1;n ser aprobadas por el Director del Instituto de Normalizaci&#xF3;n Previsional.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; Las instituciones de previsi&#xF3;n a que se refiere el art&#xED;culo 1&#xB0; podr&#xE1;n enajenar a t&#xED;tulo oneroso sus cr&#xE9;ditos hipotecarios mediante licitaci&#xF3;n p&#xFA;blica cuyas bases deber&#xE1;n ser aprobadas por el Director del Instituto de Normalizaci&#xF3;n Previsional. </div></div>"
+        },
+        {
+          "part_id": 9046735,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;- Der&#xF3;gase, a contar del 1&#xB0; de Enero de 1982, el art&#xED;culo 24 de la ley N&#xB0; 17.322.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 4&#xB0; Der&#xF3;gase, a contar del 1&#xB0; de enero de 1982, el art&#xED;culo 24&#xB0; de la ley 17.322.</div><br></div>"
+        },
+        {
+          "part_id": 9046736,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- Fac&#xFA;ltase al personal de fiscalizadores de la Caja de Previsi&#xF3;n de Empleados Particulares y del Servicio de Seguro Social para que, adem&#xE1;s de las funciones que les son propias, controle el cumplimiento de la legislaci&#xF3;n laboral, de acuerdo con el mismo procedimiento y con las mismas atribuciones de las que est&#xE1;n investidos los inspectores y fiscalizadores de la Direcci&#xF3;n del Trabajo.</div><div class=\"p\">&nbsp; &nbsp; Fac&#xFA;ltase, asimismo, a los inspectores y fiscalizadores de la Direcci&#xF3;n del Trabajo para que, adem&#xE1;s de las funciones que les son propias, controlen el cumplimiento de la legislaci&#xF3;n previsional, de acuerdo con el mismo procedimiento y con id&#xE9;nticas atribuciones de las que est&#xE1; investido el personal de fiscalizadores de la Caja de Previsi&#xF3;n de Empleados Particulares y del Servicio de Seguro Social.</div><div class=\"p\">&nbsp; &nbsp; Las sanciones por infracciones a la legislaci&#xF3;n y reglamentaci&#xF3;n laborales y previsionales se aplicar&#xE1;n administrativamente, tanto por el personal de fiscalizadores como por los inspectores y fiscalizadores referidos, que hayan constatado la infracci&#xF3;n, salvo las establecidas por los art&#xED;culos 22 y 22 a) de la ley N&#xB0; 17.322.</div><div class=\"p\">&nbsp; &nbsp; Las sanciones que se apliquen en conformidad al inciso precedente, podr&#xE1;n reclamarse en conformidad a lo dispuesto en la ley N&#xB0; 14.972.</div><div class=\"p\">&nbsp; &nbsp; Las facultades otorgadas en los incisos precedentes se establecen sin perjuicio de aqu&#xE9;llas que otorgan a los Jefes Superiores de las instituciones de previsi&#xF3;n los art&#xED;culos 2&#xB0; N&#xB0; 3 y 17 de la ley N&#xB0; 17.322.</div><div class=\"p\">&nbsp; &nbsp; La realizaci&#xF3;n de las funciones a que se refieren los incisos primero y segundo de este art&#xED;culo, se sujetar&#xE1;n a las instrucciones de car&#xE1;cter general que les impartan sus propios superiores jer&#xE1;rquicos. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 5&#xB0; .- DEROGADO.<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 1</a></div></div><div class=\"p\"><span class=\"n\" id=\"n_1\">LEY 18482<br>ART 76 INC 2</span></div><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 76 de la ley 18482, en su inciso primero, dispuso:<br>&nbsp; &nbsp; -Corresponder&#xE1; a la Direcci&#xF3;n del Trabajo la competencia exclusiva para controlar, adem&#xE1;s de las funciones que le son propias, el cumplimiento de la legislaci&#xF3;n previsional respecto de los imponentes de la Caja de Previsi&#xF3;n de Empleados Particulares y del Servicio de Seguro Social, principalmente en materias de retenci&#xF3;n, declaraci&#xF3;n y pago de cotizaciones y aportes de seguridad social, compensaci&#xF3;n y pago de prestaciones familiares, pago de tributos y otros valores de cualquier naturaleza, que deban ser enterados en las referidas instituciones previsionales, sin perjuicio de las facultades que le corresponden a la Superintendencia de Seguridad Social.<br></div></div>"
+        },
+        {
+          "part_id": 9046737,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo transitorio.- Conc&#xE9;dese el derecho a pensi&#xF3;n de invalidez en conformidad con el art&#xED;culo 10 de la ley N&#xB0; 10.475, a los imponentes de la Caja de Previsi&#xF3;n de Empleados Particulares y de sus organismos auxiliares, que con posterioridad al 9 de Febrero de 1979, hayan cumplido los requisitos que dicha norma se&#xF1;ala y no han tenido derecho a pensi&#xF3;n de vejez. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO TRANSITORIO: Conc&#xE9;dese el derecho a pensi&#xF3;n de invalidez en conformidad con el art&#xED;culo 10&#xB0; de la ley 10.475, a los imponentes de la Caja de Previsi&#xF3;n de Empleados Particulares y de sus organismos auxiliares, que con posterioridad al 9 de febrero de 1979, hayan cumplido los requisitos que dicha norma se&#xF1;ala y no han tenido derecho a pensi&#xF3;n de vejez.</div><div class=\"p\">&nbsp; &nbsp; JOSE T. MERINO CASTRO.- CESAR MENDOZA DURAN.- CESAR RAUL BENAVIDES ESCOBAR.- JAVIER LOPETEGUI TORRES.&quot;. </div></div>"
+        },
+        {
+          "part_id": 9046738,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada, miembro de la Junta de Gobierno.- CESAR MENDOZA DURAN, General Director de Carabineros, miembro de la Junta de Gobierno.- CESAR RAUL BENAVIDES ESCOBAR, Teniente General de Ej&#xE9;rcito, miembro de la Junta de Gobierno.- JAVIER LOPETEGUI TORRES, General de Aviaci&#xF3;n, Comandante en Jefe de la Fuerza A&#xE9;rea y miembro de la Junta de Gobierno subrogante.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en se&#xF1;al de promulgaci&#xF3;n.</div><div class=\"p\">Ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Santiago, veintis&#xE9;is de Octubre de mil novecientos ochenta y uno.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- Miguel Kast Rist, Ministro del Trabajo y Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Alfonso Serrano Spoerer, Subsecretario de Previsi&#xF3;n Social.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en se&#xF1;al de promulgaci&#xF3;n.</div><div class=\"p\">Ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

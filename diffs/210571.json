@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-12-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-08-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7299653,
+          "old": "<div><div class=\"p\">AMPLIA DECRETO EXENTO No. 92, DE 1989</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 43 exento.- Santiago, 09 de Febrero de 1990.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que, el Instituto Profesional &quot;CONANDES&quot;, organizado por la Sociedad &quot;Instituto Profesional CONANDES Limitada&quot;, autorizado a funcionar por Decreto Exento No. 92 de 11 de Mayo de 1989, en el &#xE1;rea de Inform&#xE1;tica, ha solicitado autorizaci&#xF3;n para ampliar cobertura a &#xE1;reas de Administraci&#xF3;n y Comercio y Ciencias Sociales;</div><div class=\"p\">&nbsp; &nbsp;  Que, la presentaci&#xF3;n de antecedentes respecto de estas nuevas &#xE1;reas ha sido considerada satisfactoria por parte de este Ministerio.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el DL No. 3541 de 1980, el DFL No. 5, de 1981, el Art&#xED;culo 32&#xB0; No. 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado y Decreto Exento No. 92 de 1989 del Ministerio de Educaci&#xF3;n P&#xFA;blica, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AMPLIA DECRETO EXENTO No. 92, DE 1989</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 43 exento.- Santiago, 09 de Febrero de 1990.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que, el Instituto Profesional &quot;CONANDES&quot;, organizado por la Sociedad &quot;Instituto Profesional CONANDES Limitada&quot;, autorizado a funcionar por Decreto Exento No. 92 de 11 de Mayo de 1989, en el &#xE1;rea de Inform&#xE1;tica, ha solicitado autorizaci&#xF3;n para ampliar cobertura a &#xE1;reas de Administraci&#xF3;n y Comercio y Ciencias Sociales;</div><div class=\"p\">&nbsp; &nbsp;  Que, la presentaci&#xF3;n de antecedentes respecto de estas nuevas &#xE1;reas ha sido considerada satisfactoria por parte de este Ministerio.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el DL No. 3541 de 1980, el DFL No. 5, de 1981, el Art&#xED;culo 32&#xB0; No. 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado y Decreto Exento No. 92 de 1989 del Ministerio de Educaci&#xF3;n P&#xFA;blica, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

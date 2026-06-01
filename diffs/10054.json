@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1987-08-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-08-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8788391,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Las personas beneficiadas con estas autorizaciones pagar&#xE1;n a la municipalidad correspondiente, en substituci&#xF3;n del valor de la patente ordinaria, un derecho por toda la respectiva temporada, equivalente al cincuenta por ciento del valor de la patente ordinaria.</div><div class=\"p\">&nbsp; &nbsp; Los establecimientos de temporada no podr&#xE1;n iniciar su funcionamiento si no hubieren cancelado los respectivos derechos.</div><br></div>"
+        },
+        {
+          "part_id": 8788392,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; Los establecimientos con autorizaci&#xF3;n temporal para el expendio de bebidas alcoh&#xF3;licas s&#xF3;lo podr&#xE1;n funcionar hasta un m&#xE1;ximo de cuatro meses en el a&#xF1;o en los per&#xED;odos de turismo que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; Balnearios o lugares de turismo de verano: desde el 1&#xB0; de diciembre de un a&#xF1;o hasta el 31 de marzo inclusive del a&#xF1;o siguiente.</div><div class=\"p\">&nbsp; &nbsp; Balnearios o lugares de turismo de cordillera y, en general, de invierno: desde el 1&#xB0; de junio al 30 de septiembre del mismo a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; No obstante, si las condiciones clim&#xE1;ticas u otras circunstancias relativas a la situaci&#xF3;n especial del flujo tur&#xED;stico hacia la comuna lo justificaren, la respectiva Municipalidad podr&#xE1; modificar los per&#xED;odos indicados, ajust&#xE1;ndose, en todo caso, al m&#xE1;ximo de cuatro meses autorizados por la ley.</div><br></div>"
+        },
+        {
+          "part_id": 8788393,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 4&#xB0; No podr&#xE1; otorgarse patentes temporales con expendio de bebidas alcoh&#xF3;licas a las personas comprendidas en las prohibiciones del art&#xED;culo 166&#xB0;, de la ley 17.105, que fij&#xF3; el texto refundido de la Ley de Alcoholes, Bebidas Alcoh&#xF3;licas y Vinagres.</div><br></div>"
+        },
+        {
+          "part_id": 8788394,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; T&#xF3;mese raz&#xF3;n, comun&#xED;quese, publ&#xED;quese e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de Reglamentos de la Contralor&#xED;a General de la Rep&#xFA;blica.- AUGUSTO PINOCHET UGARTE.- Enrique Montero.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

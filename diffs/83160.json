@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-05-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-11-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8314701,
+          "old": "<div><div class=\"p\">AUTORIZA A DON INDALICIO OJEDA CARDENAS PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON INDALICIO OJEDA CARDENAS PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

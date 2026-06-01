@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-09-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8340307,
+          "old": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA PACIFICO NORTE LIMITADA PARA SUSTITUIR EMBARCACION QUE INDICA. DEROGA RESOLUCION QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA PACIFICO NORTE LIMITADA PARA SUSTITUIR EMBARCACION QUE INDICA. DEROGA RESOLUCION QUE SE&#xD1;ALA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-12-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-07-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8295093,
+          "old": "<div><div class=\"p\">CULTIVOS MARINOS FLAMENCO LIMITADA, PESCA, AUTORIZACION</div><br><br></div>",
+          "new": "<div><div class=\"p\">CULTIVOS MARINOS FLAMENCO LIMITADA, PESCA, AUTORIZACION </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

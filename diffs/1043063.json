@@ -1,0 +1,20 @@
+[
+  {
+    "fecha": "1968-04-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null,
+    "modificadaPor": {
+      "idNorma": 277794,
+      "fecha": "1968-04-30"
+    }
+  },
+  {
+    "fecha": "1981-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

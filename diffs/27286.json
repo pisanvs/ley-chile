@@ -1,0 +1,62 @@
+[
+  {
+    "fecha": "1958-07-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-09-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999947,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10. Agr&#xE9;gase a continuaci&#xF3;n de la palabra &quot;igual&quot; en el primer rengl&#xF3;n del inciso segundo del art&#xED;culo 1.o de la ley N.o 12,072, la siguiente frase:</div><div class=\"p\">&quot;al menor de los ordinarios cuyo monto fije la Polla Chilena de Beneficencia durante los segundos semestres de cada a&#xF1;o&quot;, y supr&#xED;mese la frase que dice: &quot;a los ordinarios en lo que se reparte como premio mayor la suma de treinta y seis millones de pesos</div><div class=\"p\">($36.000.000).&quot;.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10.- DEROGADO<span class=\"n\" id=\"n_0\">DL 1880, HACIENDA<br>Art. 2&#xB0;<br>D.O. 12.09.1977</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1986-10-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999937,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA LA LEY N.o 12,877, DE 18 DE MARZO DE 1958 Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA LA LEY N.o 12,877, DE 18 DE MARZO DE 1958 </div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><br></div>"
+        },
+        {
+          "part_id": 8999942,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5.o Sin perjuicio de la participaci&#xF3;n que corresponda al Consejo de Defensa del Ni&#xF1;o sobre rendimiento de los impuestos a los premios de la Loter&#xED;a de Concepci&#xF3;n, el excedente que se produzca sobre la suma consultada como ingreso en el Presupuesto de Entradas y Gastos de la Naci&#xF3;n para 1958, por concepto de impuestos sobre premios y boletos, pasar&#xE1; a beneficio de las Universidades de Concepci&#xF3;n, de Chile y Cat&#xF3;lica de Chile, en la proporci&#xF3;n de un 80% para la primera y de un 10% para cada una de las otras, debiendo ser entregado dicho excedente por la Loter&#xED;a a la Universidad de Concepci&#xF3;n para que &#xE9;sta lo distribuya en la forma indicada.</div><div class=\"p\">&nbsp; &nbsp; Para lo sucesivo, queda congelada en la suma que le corresponde percibir este a&#xF1;o, la participaci&#xF3;n fiscal en la Loter&#xED;a de Concepci&#xF3;n por los impuestos a los boletos y a los premios, procedi&#xE9;ndose con el excedente, en la forma prevista en el inciso primero.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5.o- DEROGADO<span class=\"n\" id=\"n_0\">LEY 18568<br>Art. 12<br>D.O. 30.10.1986</span></div><br></div>"
+        },
+        {
+          "part_id": 8999943,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6.o Los gastos de propaganda directa de cada sorteo de la Loter&#xED;a de Concepci&#xF3;n ser&#xE1;n cargados como gastos del sorteo respectivo. Los gastos de propaganda generales realizados por la Loter&#xED;a ser&#xE1;n cargados al porcentaje de que dispone para comisiones y gastos de administraci&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6.o- DEROGADO<span class=\"n\" id=\"n_1\">LEY 18568<br>Art. 12<br>D.O. 30.10.1986</span></div><br></div>"
+        },
+        {
+          "part_id": 8999945,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8.o El total de los impuestos correspondientes a diez sorteos que la Loter&#xED;a de Concepci&#xF3;n efect&#xFA;e cada a&#xF1;o, se destinar&#xE1; a incrementar el patrimonio de las Universidades de Concepci&#xF3;n, de Chile y Cat&#xF3;lica de Chile, en proporci&#xF3;n de un 60% para la primera y de un 20% para cada una de las otras.</div><div class=\"p\">&nbsp; &nbsp; La Loter&#xED;a entregar&#xE1; directamente a la Universidad de Concepci&#xF3;n el monto de los impuestos liberados, para que &#xE9;sta los distribuya en la forma expresada en el inciso anterior.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8.o- DEROGADO<span class=\"n\" id=\"n_2\">LEY 18568<br>Art. 12<br>D.O. 30.10.1986</span></div><br></div>"
+        },
+        {
+          "part_id": 8999946,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9.o Cuando el 15% de que habla la letra d) del n&#xFA;mero 2 del art&#xED;culo 1.o del decreto ley N.o 312, de 28 de Julio de 1932, excediere de $ 130.000.000 anuales, el exceso se distribuir&#xE1; en la proporci&#xF3;n de un 80% para la Universidad de Concepci&#xF3;n; de un 10% para la Universidad de Chile y de un 10% para la Universidad Cat&#xF3;lica de Chile.</div><div class=\"p\">&nbsp; &nbsp; La Loter&#xED;a de Concepci&#xF3;n proceder&#xE1; para este efecto, en la forma prevista en el art&#xED;culo anterior. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9.o- DEROGADO<span class=\"n\" id=\"n_3\">LEY 18568<br>Art. 12<br>D.O. 30.10.1986</span></div><br></div>"
+        },
+        {
+          "part_id": 8999947,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10.- DEROGADO<span class=\"n\" id=\"n_0\">DL 1880, HACIENDA<br>Art. 2&#xB0;<br>D.O. 12.09.1977</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10.- DEROGADO<span class=\"n\" id=\"n_4\">DL 1880, HACIENDA<br>Art. 2&#xB0;<br>D.O. 12.09.1977</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

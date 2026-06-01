@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1991-11-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-04-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8954217,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 233, DE 1991</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 233, DE 1991 </div></div>"
+        },
+        {
+          "part_id": 8954218,
+          "old": "<div><div class=\"p\">Por decreto Exento No. 233 de fecha 05 de Agosto de 1991 del Ministerio de Educaci&#xF3;n, se insert&#xF3; en las respectivas Resoluciones Exentas de Educaci&#xF3;n del Centro de Formaci&#xF3;n T&#xE9;cnica Sim&#xF3;n Bol&#xED;var de Santiago, las adecuaciones introducidas a las carreras de Turismo y Hoteler&#xED;a; Secretario Ejecutivo Biling&#xFC;e y Control Industrial. </div></div>",
+          "new": "<div><div class=\"p\">Por decreto Exento No. 233 de fecha 05 de Agosto de 1991<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> del Ministerio de Educaci&#xF3;n, se insert&#xF3; en las respectivas Resoluciones Exentas de Educaci&#xF3;n del Centro de Formaci&#xF3;n T&#xE9;cnica Sim&#xF3;n Bol&#xED;var de Santiago, las adecuaciones introducidas a las carreras de Turismo y Hoteler&#xED;a; Secretario Ejecutivo Biling&#xFC;e y Control Industrial.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 366 exento, Educaci&#xF3;n, publicado el 17.04.1998, aprob&#xF3; adecuaciones al programa de estudio de la carrera de Turismo y Hoteler&#xED;a.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

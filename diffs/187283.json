@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1967-04-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1968-08-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7284071,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO DE ADQUISICIONES DE BIENES MUEBLES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 1&#xBA; de Abril de 1967.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 300.- Vistos: lo dispuesto en los art&#xED;culos 9&#xBA;, 11&#xBA; letra j); 20&#xBA; letra g); 21&#xBA; letra j); 42&#xBA; y 54&#xBA; de la ley N&#xB0; 15.840, y 72&#xBA; N&#xB0; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado; la proposici&#xF3;n de la Direcci&#xF3;n General de Obras P&#xFA;blicas sobre adquisiciones de bienes muebles y el informe de la Contralor&#xED;a General de la Rep&#xFA;blica por oficio N&#xB0; 19.118, de 27 de Marzo de 1967, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO DE ADQUISICIONES DE BIENES MUEBLES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 1&#xBA; de Abril de 1967.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 300.- Vistos: lo dispuesto en los art&#xED;culos 9&#xBA;, 11&#xBA; letra j); 20&#xBA; letra g); 21&#xBA; letra j); 42&#xBA; y 54&#xBA; de la ley N&#xB0; 15.840, y 72&#xBA; N&#xB0; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado; la proposici&#xF3;n de la Direcci&#xF3;n General de Obras P&#xFA;blicas sobre adquisiciones de bienes muebles y el informe de la Contralor&#xED;a General de la Rep&#xFA;blica por oficio N&#xB0; 19.118, de 27 de Marzo de 1967, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

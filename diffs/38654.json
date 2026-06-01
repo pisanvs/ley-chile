@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-08-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-02-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6021623,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Determ&#xED;nase, para los efectos del D.S. N&#xB0; 212/92 citado en Visto, que el radio urbano del conglomerado conformado por las ciudades de Limache y Olmu&#xE9;, ser&#xE1; el &#xE1;rea comprendida al interior del pol&#xED;gono definido por los siguientes v&#xE9;rtices:</div><div class=\"p\">V&#xE9;rtice A : Intersecci&#xF3;n de la Ruta 62 (Camino</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Troncal) con la l&#xED;nea f&#xE9;rrea del</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ferrocarril que une Limache con San</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pedro (Km. 23,300 de la Ruta 62).</div><div class=\"p\"> V&#xE9;rtice B : Intersecci&#xF3;n de la Ruta 62 con</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  l&#xED;mite de las Provincias de Quillota</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Valpara&#xED;so (Km. 36,070 de la Ruta 62).</div><div class=\"p\"> V&#xE9;rtice C : Intersecci&#xF3;n de la Ruta F-640 con</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  la Ruta F-638.</div><div class=\"p\"> V&#xFFFD;rtice D : Intersecci&#xF3;n de la Ruta F-670 con</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  la Ruta F-660.</div><div class=\"p\"> V&#xE9;rtice E : Intersecci&#xF3;n de la Ruta F-590 con</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  el Camino de Subida al Cerro La Campana.</div><div class=\"p\">&nbsp; &nbsp; 2.- La presente Resoluci&#xF3;n entrar&#xE1; en vigencia a los 30 (treinta) d&#xED;as de su publicaci&#xF3;n en el Diario Oficial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Determ&#xED;nase, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1139722&amp;idParte=10077791&amp;idVersion=2019-12-12\">Resoluci&#xF3;n 3351 EXENTA, <br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 12.12.2019</a></span>para los efectos del decreto supremo N&#xB0; 212, de 1992, citado en el Visto, que el radio urbano del conglomerado conformado por las ciudades de Limache y Olmu&#xE9;, ser&#xE1; el &#xE1;rea comprendida al interior del pol&#xED;gono definido por los siguientes v&#xE9;rtices:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  . V&#xE9;rtice A: Tranque Lliu - Lliu con Quebrada Bolsones.</div><div class=\"p\">&nbsp; &nbsp;  . V&#xE9;rtice B: Embalse Los Aromos con Camino a Parcelaci&#xF3;n Los Aromos.</div><div class=\"p\">&nbsp; &nbsp;  . V&#xE9;rtice C: Av. Los Laureles con Ruta F-64.</div><div class=\"p\">&nbsp; &nbsp;  . V&#xE9;rtice D: L&#xED;mite comunal con Cerro El Roble.</div><div class=\"p\">&nbsp; &nbsp;  . V&#xE9;rtice E: L&#xED;mite comunal con Camino Cuesta La Dormida.</div><div class=\"p\">&nbsp; &nbsp;  . V&#xE9;rtice F: Ruta F-62 con intersecci&#xF3;n L&#xED;nea F&#xE9;rrea Ferrocarril.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/101243.jpg\">.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

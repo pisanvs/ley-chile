@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1990-08-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-10-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8923196,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- La informaci&#xF3;n requerida en el art&#xED;culo precedente, deber&#xE1; ser entregada en un plazo que no exceda los 60 d&#xED;as, contados desde la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- La informaci&#xF3;n requerida en el art&#xED;culo precedente, deber&#xE1; ser entregada en un plazo que no exceda los 90 d&#xED;as, contados desde la fecha de<span class=\"n\" id=\"n_0\">DTO 337, ECONOMIA<br>Art. 2<br>D.O. 05.10.1990</span> publicaci&#xF3;n del presente decreto en el Diario Oficial.</div><br></div>"
+        },
+        {
+          "part_id": 8923197,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El formulario que contenga la informaci&#xF3;n solicitada deber&#xE1; ser firmado por el armador o su representante legal, debidamente acreditado, manifestando de este modo que la informaci&#xF3;n y antecedentes a que se refiere el Art&#xED;culo 1&#xB0;, es aut&#xE9;ntica y fidedigna. Esta informaci&#xF3;n formar&#xE1; parte del registro nacional pesquero industrial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El formulario que contenga la informaci&#xF3;n solicitada deber&#xE1; ser firmado por el armador o su representante legal, debidamente acreditado, manifestando de este modo que la informaci&#xF3;n y antecedentes a que se refiere el Art&#xED;culo 1&#xB0;, es aut&#xE9;ntica y fidedigna.<span class=\"n\" id=\"n_1\">DTO 337, ECONOMIA<br>Art. 3<br>D.O. 05.10.1990</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2006-07-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

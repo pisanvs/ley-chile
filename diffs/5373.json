@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1960-04-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1969-09-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8531950,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA EL TEXTO ORGANICO DE LA LINEA AEREA NACIONAL-CHILE</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 305.- Santiago, 1. de Abril de 1960.- Vistas las facultades que me confiere el T&#xED;tulo VIII de la ley N.o 13,305, publicada en el &quot;Diario Oficial&quot; de fecha 6 de Abril de 1959,</div><div class=\"p\">&nbsp; &nbsp; dicto el siguiente Decreto con fuerza de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA EL TEXTO ORGANICO DE LA LINEA AEREA NACIONAL-CHILE</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 305.- Santiago, 1. de Abril de 1960.- Vistas las facultades que me confiere el T&#xED;tulo VIII de la ley N.o 13,305, publicada en el &quot;Diario Oficial&quot; de fecha 6 de Abril de 1959,</div><div class=\"p\">&nbsp; &nbsp; dicto el siguiente Decreto con fuerza de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 16 del DFL 3, Obras P&#xFA;blicas y Transportes, publicado el 20.09.1969, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

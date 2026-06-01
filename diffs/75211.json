@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-04-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048614,
+          "old": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE CENTRO DE FORMACION TECNICA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 45 exento.- Santiago, 24 de Marzo de 1986.- Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el Centro de Formaci&#xF3;n T&#xE9;cnica Centro de Investigaciones de Estudios T&#xE9;cnicos - CIDET de Chill&#xE1;n de don David Emilio Mora Carrasco, ha solicitado se autorice sus funcionamiento por este Ministerio.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, formuladas las observaciones &#xE9;stas han sido subsanadas en tiempo y forma.</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el D.L. N&#xBA; 3.541 de 1980, DFL. N&#xBA; 24 DE 1981, D.S. N&#xBA; 9.555 DE 1980 Y D.S. N&#xBA; 1.080 de 1983, todos del Ministerio de Educaci&#xF3;n P&#xFA;blica y la Resoluci&#xF3;n N&#xBA; 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE CENTRO DE FORMACION TECNICA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 45 exento.- Santiago, 24 de Marzo de 1986.- Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el Centro de Formaci&#xF3;n T&#xE9;cnica Centro de Investigaciones de Estudios T&#xE9;cnicos - CIDET de Chill&#xE1;n de don David Emilio Mora Carrasco, ha solicitado se autorice sus funcionamiento por este Ministerio.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, formuladas las observaciones &#xE9;stas han sido subsanadas en tiempo y forma.</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el D.L. N&#xBA; 3.541 de 1980, DFL. N&#xBA; 24 DE 1981, D.S. N&#xBA; 9.555 DE 1980 Y D.S. N&#xBA; 1.080 de 1983, todos del Ministerio de Educaci&#xF3;n P&#xFA;blica y la Resoluci&#xF3;n N&#xBA; 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

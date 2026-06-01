@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1959-07-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-11-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8838616,
+          "old": "<div><div class=\"p\">APRUEBA EL REGLAMENTO GENERAL DE ALIMENTOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 176.- Santiago, 25 de Febrero de 1959.- Vistos: el oficio N.o 2,099, de 29 de Enero de 1959, de la Direcci&#xF3;n General del Servicio Nacional de Salud, y de acuerdo con lo dispuesto en el art&#xED;culo 166 del decreto con fuerza de ley N.o 226, de 29 de Mayo de 1931, que aprob&#xF3; el C&#xF3;digo Sanitario,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento General de Alimentos:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA EL REGLAMENTO GENERAL DE ALIMENTOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 176.- Santiago, 25 de Febrero de 1959.- Vistos: el oficio N.o 2,099, de 29 de Enero de 1959, de la Direcci&#xF3;n General del Servicio Nacional de Salud, y de acuerdo con lo dispuesto en el art&#xED;culo 166 del decreto con fuerza de ley N.o 226, de 29 de Mayo de 1931, que aprob&#xF3; el C&#xF3;digo Sanitario,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento General de Alimentos:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

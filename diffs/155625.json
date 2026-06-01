@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-02-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-08-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7261230,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA SALAZAR LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA SALAZAR LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

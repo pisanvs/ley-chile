@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-11-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8335134,
+          "old": "<div><div class=\"p\">AUTORIZA A PRODUCTOS MARINOS PRADERA DEL SUR Y COMPA&#xD1;IA LIMITADA &quot;PROMAPRA&quot; PARA INICIAR ACTIVIDADES PESQUERAS. DEROGA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PRODUCTOS MARINOS PRADERA DEL SUR Y COMPA&#xD1;IA LIMITADA &quot;PROMAPRA&quot; PARA INICIAR ACTIVIDADES PESQUERAS. DEROGA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

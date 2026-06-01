@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1965-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-12-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6588542,
+          "old": "<div><div class=\"p\">REGLAMENTO DE VENTA POR PISOS O DEPARTAMENTOS DE LOS EDIFICIOS DE LA CORPORACION DE LA VIVIENDA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 12 de Noviembre de 1965.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.514.- Vistos estos antecedentes, lo dispuesto en el Art. 64, incisos 4&#xBA;, 5&#xBA; y 6&#xBA; del D.S. 880 del Ministerio de Obras P&#xFA;blicas, publicado en el &quot;Diario Oficial&quot; de 16 de Mayo de 1963, agregados por el Art. 14 de la ley 15.228, y en uso de la facultad que me confiere el Art. 72 de la Constituci&#xF3;n Pol&#xED;tica:</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTO DE VENTA POR PISOS O DEPARTAMENTOS DE LOS EDIFICIOS DE LA CORPORACION DE LA VIVIENDA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 12 de Noviembre de 1965.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.514.- Vistos estos antecedentes, lo dispuesto en el Art. 64, incisos 4&#xBA;, 5&#xBA; y 6&#xBA; del D.S. 880 del Ministerio de Obras P&#xFA;blicas, publicado en el &quot;Diario Oficial&quot; de 16 de Mayo de 1963, agregados por el Art. 14 de la ley 15.228, y en uso de la facultad que me confiere el Art. 72 de la Constituci&#xF3;n Pol&#xED;tica:</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

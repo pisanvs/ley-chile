@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "1994-02-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-03-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6019268,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Establece que, a contar de las fechas que a continuaci&#xF3;n se indican, se har&#xE1;n exigibles en la VII Regi&#xF3;n, las obligaciones que se se&#xF1;alan para los veh&#xED;culos de alquiler, en las modalidades de servicios que en cada caso se especifica:</div><div class=\"p\">&nbsp; &nbsp; 1.- A contar del 1 de Marzo de 1994, los taxis b&#xE1;sicos y colectivos urbanos y rurales, deber&#xE1;n llevar pintado en el exterior de sus puertas delanteras, las letras y n&#xFA;meros de la placa patente &#xFA;nica del veh&#xED;culo, conforme a las especificaciones dispuestas en el art&#xED;culo citado en Visto.</div><div class=\"p\">&nbsp; &nbsp; 2.- A contar del 1 de Marzo de 1994, los taxis colectivos Rurales e Interurbanos y los de servicios de Turismo, deber&#xE1;n estar pintados con los respectivos colores reglamentarios, a que se refiere el inciso segundo del art&#xED;culo N&#xB0; 76&#xB0; del D.S. N&#xB0; 212/92, ya citado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Establece que, a contar de las fechas que a continuaci&#xF3;n se indican, se har&#xE1;n exigibles en la VII Regi&#xF3;n, las obligaciones que se se&#xF1;alan para los veh&#xED;culos de alquiler, en las modalidades de servicios que en cada caso se especifica:</div><div class=\"p\">&nbsp; &nbsp; 1.- A contar del 1 de Marzo de 1994, los taxis b&#xE1;sicos y colectivos urbanos y rurales, deber&#xE1;n llevar pintado en el exterior de sus puertas delanteras, las letras y n&#xFA;meros de la placa patente &#xFA;nica del veh&#xED;culo, conforme a las especificaciones dispuestas en el art&#xED;culo citado en Visto.</div><div class=\"p\">&nbsp; &nbsp; 2.- A contar del 1 de Marzo de 1994, los taxis colectivos Rurales e Interurbanos y los de servicios de Turismo, deber&#xE1;n estar pintados con los respectivos colores reglamentarios, a que se refiere el inciso segundo del art&#xED;culo N&#xB0; 76&#xB0; del D.S. N&#xB0; 212/92, ya citado.</div><div class=\"p\">&nbsp; &nbsp; 3.- La obligaci&#xF3;n establecida en el numeral 1.- de la presente resoluci&#xF3;n<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1143341&amp;idParte=10107903&amp;idVersion=2020-03-11\">Resoluci&#xF3;n 282 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 11.03.2020</a></span>, esto es, llevar pintado en el exterior de sus puertas delanteras, las letras y n&#xFA;meros de la placa patente &#xFA;nica del veh&#xED;culo no ser&#xE1; aplicable a los taxis colectivos urbanos de la ciudad de Talca.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2024-04-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6019268,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Establece que, a contar de las fechas que a continuaci&#xF3;n se indican, se har&#xE1;n exigibles en la VII Regi&#xF3;n, las obligaciones que se se&#xF1;alan para los veh&#xED;culos de alquiler, en las modalidades de servicios que en cada caso se especifica:</div><div class=\"p\">&nbsp; &nbsp; 1.- A contar del 1 de Marzo de 1994, los taxis b&#xE1;sicos y colectivos urbanos y rurales, deber&#xE1;n llevar pintado en el exterior de sus puertas delanteras, las letras y n&#xFA;meros de la placa patente &#xFA;nica del veh&#xED;culo, conforme a las especificaciones dispuestas en el art&#xED;culo citado en Visto.</div><div class=\"p\">&nbsp; &nbsp; 2.- A contar del 1 de Marzo de 1994, los taxis colectivos Rurales e Interurbanos y los de servicios de Turismo, deber&#xE1;n estar pintados con los respectivos colores reglamentarios, a que se refiere el inciso segundo del art&#xED;culo N&#xB0; 76&#xB0; del D.S. N&#xB0; 212/92, ya citado.</div><div class=\"p\">&nbsp; &nbsp; 3.- La obligaci&#xF3;n establecida en el numeral 1.- de la presente resoluci&#xF3;n<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1143341&amp;idParte=10107903&amp;idVersion=2020-03-11\">Resoluci&#xF3;n 282 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 11.03.2020</a></span>, esto es, llevar pintado en el exterior de sus puertas delanteras, las letras y n&#xFA;meros de la placa patente &#xFA;nica del veh&#xED;culo no ser&#xE1; aplicable a los taxis colectivos urbanos de la ciudad de Talca.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Establece que, a contar de las fechas que a continuaci&#xF3;n se indican, se har&#xE1;n exigibles en la VII Regi&#xF3;n, las obligaciones que se se&#xF1;alan para los veh&#xED;culos de alquiler, en las modalidades de servicios que en cada caso se especifica:</div><div class=\"p\">&nbsp; &nbsp; 1.- A contar del 1 de Marzo de 1994, los taxis b&#xE1;sicos y colectivos urbanos y rurales, deber&#xE1;n llevar pintado en el exterior de sus puertas delanteras, las letras y n&#xFA;meros de la placa patente &#xFA;nica del veh&#xED;culo, conforme a las especificaciones dispuestas en el art&#xED;culo citado en Visto.</div><div class=\"p\">&nbsp; &nbsp; 2.- A contar del 1 de Marzo de 1994, los taxis colectivos Rurales e Interurbanos y los de servicios de Turismo, deber&#xE1;n estar pintados con los respectivos colores reglamentarios, a que se refiere el inciso segundo del art&#xED;culo N&#xB0; 76&#xB0; del D.S. N&#xB0; 212/92, ya citado.</div><div class=\"p\">&nbsp; &nbsp; 3.- La <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1202516&amp;idParte=10496542&amp;idVersion=2024-04-11\">Resoluci&#xF3;n 373 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 11.04.2024</a></span>obligaci&#xF3;n establecida en el numeral 1.- de la presente resoluci&#xF3;n, esto es, llevar pintado en el exterior de sus puertas delanteras, las letras y n&#xFA;meros de la placa patente &#xFA;nica del veh&#xED;culo no ser&#xE1; aplicable a los taxis colectivos urbanos de las comunas de Curic&#xF3;, Talca, Constituci&#xF3;n, Linares, San Javier, Parral y Cauquenes.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1202516,
+      "fecha": "2024-04-11"
+    }
+  }
+]

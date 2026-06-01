@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1966-08-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1970-10-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004863,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o- El producto del o los empr&#xE9;stitos se invertir&#xE1; por la Municipalidad de Licant&#xE9;n en la pavimentaci&#xF3;n de calles y veredas en la comuna. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o- El producto de los empr&#xE9;stitos se<span class=\"n\" id=\"n_0\">LEY 17350<br>Art. &#xFA;nico<br>D.O. 01.10.1970</span> har&#xE1; por la Municipalidad de Licant&#xE9;n en el pago de las sumas que adeuda a la Empresa Nacional de Electricidad S. A. por la electrificaci&#xF3;n del Balneario de Duao, y en obras de electrificaci&#xF3;n del caser&#xED;o de Huapi de esa comuna.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

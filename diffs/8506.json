@@ -1,0 +1,51 @@
+[
+  {
+    "fecha": "1986-07-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-04-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8992142,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; El que ejecute trabajos en la v&#xED;a p&#xFA;blica estar&#xE1; obligado a colocar y mantener por su cuenta, de d&#xED;a y de noche, la se&#xF1;alizaci&#xF3;n y a tomar las medidas se seguridad correspondientes, conforme a lo descrito en anexo a este decreto. Dicho anexo se entender&#xE1; incorporado, como cap&#xED;tulo V, al &quot;Manual de Se&#xF1;alizaci&#xF3;n de Tr&#xE1;nsito&quot;, elaborado y distribuido con ocasi&#xF3;n de la dictaci&#xF3;n del Decreto Supremo N&#xB0; 121/82 de este Ministerio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; El que ejecute trabajos en la v&#xED;a p&#xFA;blica estar&#xE1; obligado a colocar y mantener por su cuenta, de d&#xED;a y de noche, la se&#xF1;alizaci&#xF3;n y a tomar las medidas se seguridad correspondientes, conforme a lo descrito en anexo a este decreto. Dicho anexo se entender&#xE1; incorporado, como cap&#xED;tulo V, al &quot;Manual de Se&#xF1;alizaci&#xF3;n de Tr&#xE1;nsito&quot;, elaborado y distribuido con ocasi&#xF3;n de la dictaci&#xF3;n del Decreto Supremo N&#xB0; 121/82 de este Ministerio.</div><div class=\"p\">&nbsp; &nbsp; Sin perjuicio de lo anterior, trat&#xE1;ndose de<span class=\"n\" id=\"n_0\">DTO 11, TRANSPORTES<br>N&#xBA; 1<br>D.O.09.04.1996</span> trabajos que se realicen en las v&#xED;as urbanas, excluidas las autopistas, quienes los ejecuten deber&#xE1;n mantener en el lugar de las obras y a disposici&#xF3;n de la autoridad, un ejemplar de la &quot;Gu&#xED;a de Seguridad para Trabajos en las V&#xED;as P&#xFA;blicas de las Ciudades&quot;, cuyo contenido y dise&#xF1;o determinar&#xE1; por resoluci&#xF3;n el Ministerio de Transportes y Telecomunicaciones. En dicha Gu&#xED;a y para cada obra, su ejecutor confeccionar&#xE1; un croquis esquem&#xE1;tico conteniendo las se&#xF1;alizaciones y medidas de seguridad que adoptar&#xE1;, el que, salvo que se tratare de una emergencia, deber&#xE1; contar con la aprobaci&#xF3;n de la municipalidad o del Ministerio de Obras P&#xFA;blicas, seg&#xFA;n corresponda. Tanto las se&#xF1;ales que se consulten como las medidas de seguridad que se propongan deber&#xE1;n ce&#xF1;irse a las indicaciones de la Gu&#xED;a y a las disposiciones del anexo del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  Se entender&#xE1; que la ejecuci&#xF3;n de una obra no re&#xFA;ne<span class=\"n\" id=\"n_1\">DTO 11, TRANSPORTES<br>N&#xBA; 1<br>D.O.09.04.1996</span> las condiciones m&#xED;nimas de seguridad cuando en ella no se d&#xE9; cumplimiento a lo establecido en el inciso anterior.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1997-06-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2003-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8992141,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; SOBRE SE&#xD1;ALIZACION Y MEDIDAS DE SEGURIDAD CUANDO SE EFECTUAN TRABAJOS EN LA VIA PUBLICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 63.- Santiago, 15 de Mayo de 1986.- Visto: Lo dispuesto por los Art&#xED;culos 99 y 102 de la Ley de Tr&#xE1;nsito, N&#xB0; 18.290, en relaci&#xF3;n con la Ley 18.059, Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">SOBRE SE&#xD1;ALIZACION Y MEDIDAS DE SEGURIDAD CUANDO SE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> EFECTUAN TRABAJOS EN LA VIA PUBLICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 63.- Santiago, 15 de Mayo de 1986.- Visto: Lo dispuesto por los Art&#xED;culos 99 y 102 de la Ley de Tr&#xE1;nsito, N&#xB0; 18.290, en relaci&#xF3;n con la Ley 18.059,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 1&#xB0; del DTO 90, Transportes, publicado el 20.01.2003, derog&#xF3; el presente decreto a contar de su fecha de vigencia, esto es, 60 d&#xED;as desde su publicaci&#xF3;n.<br></div></div>"
+        },
+        {
+          "part_id": 8992142,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; El que ejecute trabajos en la v&#xED;a p&#xFA;blica estar&#xE1; obligado a colocar y mantener por su cuenta, de d&#xED;a y de noche, la se&#xF1;alizaci&#xF3;n y a tomar las medidas se seguridad correspondientes, conforme a lo descrito en anexo a este decreto. Dicho anexo se entender&#xE1; incorporado, como cap&#xED;tulo V, al &quot;Manual de Se&#xF1;alizaci&#xF3;n de Tr&#xE1;nsito&quot;, elaborado y distribuido con ocasi&#xF3;n de la dictaci&#xF3;n del Decreto Supremo N&#xB0; 121/82 de este Ministerio.</div><div class=\"p\">&nbsp; &nbsp; Sin perjuicio de lo anterior, trat&#xE1;ndose de<span class=\"n\" id=\"n_0\">DTO 11, TRANSPORTES<br>N&#xBA; 1<br>D.O.09.04.1996</span> trabajos que se realicen en las v&#xED;as urbanas, excluidas las autopistas, quienes los ejecuten deber&#xE1;n mantener en el lugar de las obras y a disposici&#xF3;n de la autoridad, un ejemplar de la &quot;Gu&#xED;a de Seguridad para Trabajos en las V&#xED;as P&#xFA;blicas de las Ciudades&quot;, cuyo contenido y dise&#xF1;o determinar&#xE1; por resoluci&#xF3;n el Ministerio de Transportes y Telecomunicaciones. En dicha Gu&#xED;a y para cada obra, su ejecutor confeccionar&#xE1; un croquis esquem&#xE1;tico conteniendo las se&#xF1;alizaciones y medidas de seguridad que adoptar&#xE1;, el que, salvo que se tratare de una emergencia, deber&#xE1; contar con la aprobaci&#xF3;n de la municipalidad o del Ministerio de Obras P&#xFA;blicas, seg&#xFA;n corresponda. Tanto las se&#xF1;ales que se consulten como las medidas de seguridad que se propongan deber&#xE1;n ce&#xF1;irse a las indicaciones de la Gu&#xED;a y a las disposiciones del anexo del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  Se entender&#xE1; que la ejecuci&#xF3;n de una obra no re&#xFA;ne<span class=\"n\" id=\"n_1\">DTO 11, TRANSPORTES<br>N&#xBA; 1<br>D.O.09.04.1996</span> las condiciones m&#xED;nimas de seguridad cuando en ella no se d&#xE9; cumplimiento a lo establecido en el inciso anterior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; El que ejecute trabajos en la v&#xED;a p&#xFA;blica estar&#xE1; obligado a colocar y mantener por su cuenta, de d&#xED;a y de noche, la se&#xF1;alizaci&#xF3;n y a tomar las medidas se seguridad correspondientes, conforme a lo descrito en anexo a este decreto. Dicho anexo se entender&#xE1; incorporado, como cap&#xED;tulo V, al &quot;Manual de Se&#xF1;alizaci&#xF3;n de Tr&#xE1;nsito&quot;, elaborado y distribuido con ocasi&#xF3;n de la dictaci&#xF3;n del Decreto Supremo N&#xB0; 121/82 de este Ministerio.</div><div class=\"p\">&nbsp; &nbsp; Sin perjuicio de lo anterior, trat&#xE1;ndose de<span class=\"n\" id=\"n_1\">DTO 11, TRANSPORTES<br>N&#xBA; 1<br>D.O.09.04.1996</span> trabajos que se realicen en las v&#xED;as urbanas, excluidas las autopistas, quienes los ejecuten deber&#xE1;n mantener en el lugar de las obras y a disposici&#xF3;n de la autoridad, un ejemplar de la &quot;Gu&#xED;a de Seguridad para Trabajos en las V&#xED;as P&#xFA;blicas de las Ciudades&quot;, cuyo contenido y dise&#xF1;o determinar&#xE1; por resoluci&#xF3;n el Ministerio de Transportes y Telecomunicaciones. En dicha Gu&#xED;a y para cada obra, su ejecutor confeccionar&#xE1; un croquis esquem&#xE1;tico conteniendo las se&#xF1;alizaciones y medidas de seguridad que adoptar&#xE1;, el que, salvo que se tratare de una emergencia, deber&#xE1; contar con la aprobaci&#xF3;n de la municipalidad o del Ministerio de Obras P&#xFA;blicas, seg&#xFA;n corresponda. Tanto las se&#xF1;ales que se consulten como las medidas de seguridad que se propongan deber&#xE1;n ce&#xF1;irse a las indicaciones de la Gu&#xED;a y a las disposiciones del anexo del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  Se entender&#xE1; que la ejecuci&#xF3;n de una obra no re&#xFA;ne<span class=\"n\" id=\"n_2\">DTO 11, TRANSPORTES<br>N&#xBA; 1<br>D.O.09.04.1996</span> las condiciones m&#xED;nimas de seguridad cuando en ella no se d&#xE9; cumplimiento a lo establecido en el inciso anterior.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-12-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-07-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6271937,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA SANTA BARBARA S.A. PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA SANTA BARBARA S.A. PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

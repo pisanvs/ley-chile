@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-12-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949082,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Cr&#xE9;ase una Quinta Notar&#xED;a para el servicio de las comunas que constituyen el territorio jurisdiccional de los Juzgados de Letras de Talca, la cual tendr&#xE1; su asiento en la comuna de San Clemente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Cr&#xE9;ase una Quinta Notar&#xED;a para el servicio de las comunas que constituyen el territorio jurisdiccional de los Juzgados de Letras de Talca, con asiento en la<span class=\"n\" id=\"n_0\">DS 1396,<br>Justicia,1993</span> comuna de Talca.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-03-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-05-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8795714,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14&#xB0;.- Las Municipalidades del pa&#xED;s, integrar&#xE1;n a contar del 1&#xB0; de Enero de 1974, a las respectivas cajas de Previsi&#xF3;n, a cuenta de aportes patronales y mientras se paguen los anticipos de sueldos que establece el art&#xED;culo 16&#xB0; del decreto ley N&#xB0; 272, de 1974, un monto equivalente al aporte patronal que correspondi&#xF3; efectuar en el mes de Diciembre de 1973, incluidos los aportes patronales efectuados por aplicaci&#xF3;n de las bonificaciones del decreto ley N&#xB0; 97, de 1973.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14&#xB0;.- Las Municipalidades del pa&#xED;s, integrar&#xE1;n a contar del 1&#xB0; de Enero de 1974, a las respectivas cajas de Previsi&#xF3;n, a cuenta de aportes patronales y mientras se paguen los anticipos de sueldos que establece el art&#xED;culo 16&#xB0; del decreto ley N&#xB0; 272, de 1974, un monto equivalente al aporte patronal que correspondi&#xF3; efectuar en el mes de Diciembre de 1973, incluidos los aportes patronales efectuados por aplicaci&#xF3;n de las bonificaciones del decreto ley N&#xB0; 97, de 1973.</div><div class=\"p\">&nbsp; &nbsp; Mientras se mantenga el r&#xE9;gimen de anticipos a que<span class=\"n\" id=\"n_0\">DL 472, TRABAJO<br>Art. 7<br>D.O. 28.05.1974</span> alude el inciso precedente, las Municipalidades del pa&#xED;s continuar&#xE1;n pagando directamente a sus personales las asignaciones familiares establecidas en el decreto ley N&#xB0; 307, de 1974, de acuerdo con los requisitos, monto y dem&#xE1;s modalidades se&#xF1;aladas en dicho cuerpo legal. Una vez que se dicten las normas que asimilen a esos personales a la Escala Unica de Sueldos, las Municipalidades efectuar&#xE1;n las compensaciones que correspondan con los Fondos de los decretos leyes N&#xB0;s. 307 y 314.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1980-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-01-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7327440,
+          "old": "<div><div class=\"p\">CREA UNA SEGUNDA NOTARIA EN EL DEPARTAMENTO DE CHA&#xD1;ARAL </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 18 de Junio de 1980.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 813.- Vistos: Estos antecedentes; lo dispuesto en los decretos leyes N&#xBA; 1 y 128, de 1973; 527, de 1974, y 991, de 1976; lo preceptuado en el art&#xED;culo 400 del C&#xF3;digo Org&#xE1;nico de Tribunales y lo informado por la Iltma. Corte de Apelaciones de Copiap&#xF3;,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">CREA UNA SEGUNDA NOTARIA EN EL DEPARTAMENTO DE CHA&#xD1;ARAL </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 18 de Junio de 1980.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 813.- Vistos: Estos antecedentes; lo dispuesto en los decretos leyes N&#xBA; 1 y 128, de 1973; 527, de 1974, y 991, de 1976; lo preceptuado en el art&#xED;culo 400 del C&#xF3;digo Org&#xE1;nico de Tribunales y lo informado por la Iltma. Corte de Apelaciones de Copiap&#xF3;,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

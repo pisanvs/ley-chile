@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1962-10-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-06-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9000552,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA NORMAS PARA CANCELAR LAS OBLIGACIONES QUE SE&#xD1;ALA EN MONEDA EXTRANJERA.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; FIJA NORMAS PARA CANCELAR LAS OBLIGACIONES QUE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> SE&#xD1;ALA EN MONEDA EXTRANJERA.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 28 de la LEY 18010, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

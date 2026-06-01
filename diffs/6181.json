@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1974-06-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-07-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8519727,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 24&#xBA; Las remuneraciones de los trabajadores agr&#xED;colas se determinar&#xE1;n, a contar del 1&#xBA; de julio de 1974, de acuerdo con las normas establecidas en este decreto ley, consider&#xE1;ndose para estos efectos, tanto la remuneraci&#xF3;n pagada en dinero efectivo como el aval&#xFA;o de la respectiva regal&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  La remuneraci&#xF3;n imponible, para los obreros agr&#xED;colas, ser&#xE1; de E&#xBA; 28.000 mensuales.</div><div class=\"p\">&nbsp; &nbsp;  Estos trabajadores quedar&#xE1;n afectos, en todo caso, al ingreso m&#xED;nimo se&#xF1;alado en el art&#xED;culo 15&#xBA; del presente decreto ley, incluy&#xE9;ndose en dicho ingreso el valor de las regal&#xED;as. En todo caso, a lo menos, el 50% de dicho ingreso m&#xED;nimo deber&#xE1; pagarse en dinero efectivo.</div><div class=\"p\">&nbsp; &nbsp;  La cantidad m&#xED;nima se&#xF1;alada en el inciso 2&#xBA; del art&#xED;culo 15&#xBA; de este decreto ley, se aplicar&#xE1; proporcionalmente, en conformidad a las sumas en dinero que el trabajador agr&#xED;cola est&#xE9; recibiendo al 30 de junio de 1974; consider&#xE1;ndose como base de c&#xE1;lculo que a una suma de E&#xBA; 29.000 en dinero a la fecha se&#xF1;alada, le corresponde la cantidad de E&#xBA; 10.000.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 24&#xBA; Las remuneraciones de los trabajadores agr&#xED;colas se determinar&#xE1;n, a contar del 1&#xBA; de julio de 1974, de acuerdo con las normas establecidas en este decreto ley, consider&#xE1;ndose para estos efectos, tanto la remuneraci&#xF3;n pagada en dinero efectivo como el aval&#xFA;o de la respectiva regal&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  La remuneraci&#xF3;n imponible, para los obreros agr&#xED;colas, ser&#xE1; de E&#xBA; 28.000 mensuales. Estos trabajadores quedar&#xE1;n afectos, en todo caso, al ingreso m&#xED;nimo se&#xF1;alado en el art&#xED;culo 15&#xBA; del presente decreto ley, incluy&#xE9;ndose en dicho ingreso el valor de las regal&#xED;as. En todo caso, a lo menos, el 50% de dicho ingreso m&#xED;nimo deber&#xE1; pagarse en dinero efectivo.</div><div class=\"p\">&nbsp; &nbsp;  La cantidad m&#xED;nima se&#xF1;alada en el inciso 2&#xBA; del<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 08.07.1974</span> art&#xED;culo 14&#xBA; de este decreto ley, se aplicar&#xE1; proporcionalmente, en conformidad a las sumas en dinero que el trabajador agr&#xED;cola est&#xE9; recibiendo al 30 de junio de 1974; consider&#xE1;ndose como base de c&#xE1;lculo que a una suma de E&#xBA; 29.000 en dinero a la fecha se&#xF1;alada, le corresponde la cantidad de E&#xBA; 10.000.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1974-10-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8519723,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 20&#xBA; Por decreto supremo fundado, con la firma del Ministro del Trabajo y Previsi&#xF3;n Social y la del Ministro del Ramo que corresponda, podr&#xE1; excepcionarse de la aplicaci&#xF3;n de las disposiciones de las Comisiones Tripartitas a determinados sectores o actividades que re&#xFA;nan caracter&#xED;sticas especiales que justifiquen esta medida. Este decreto se&#xF1;alar&#xE1; las normas que ser&#xE1;n aplicables a estos sectores o actividades, pudiendo inclusive, por una sola vez, establecer las normas de ajuste que sean pertinentes para la aplicaci&#xF3;n a dichos sectores o actividades de los decretos leyes 275 y 446, de 1974.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; ARTICULO 20&#xBA;.- DEROGADO<span class=\"n\" id=\"n_0\">DL 670, TRABAJO<br>Art. 85&#xBA;<br>D.O. 02.10.1974</span></div><br></div>"
+        },
+        {
+          "part_id": 8519727,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 24&#xBA; Las remuneraciones de los trabajadores agr&#xED;colas se determinar&#xE1;n, a contar del 1&#xBA; de julio de 1974, de acuerdo con las normas establecidas en este decreto ley, consider&#xE1;ndose para estos efectos, tanto la remuneraci&#xF3;n pagada en dinero efectivo como el aval&#xFA;o de la respectiva regal&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  La remuneraci&#xF3;n imponible, para los obreros agr&#xED;colas, ser&#xE1; de E&#xBA; 28.000 mensuales. Estos trabajadores quedar&#xE1;n afectos, en todo caso, al ingreso m&#xED;nimo se&#xF1;alado en el art&#xED;culo 15&#xBA; del presente decreto ley, incluy&#xE9;ndose en dicho ingreso el valor de las regal&#xED;as. En todo caso, a lo menos, el 50% de dicho ingreso m&#xED;nimo deber&#xE1; pagarse en dinero efectivo.</div><div class=\"p\">&nbsp; &nbsp;  La cantidad m&#xED;nima se&#xF1;alada en el inciso 2&#xBA; del<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 08.07.1974</span> art&#xED;culo 14&#xBA; de este decreto ley, se aplicar&#xE1; proporcionalmente, en conformidad a las sumas en dinero que el trabajador agr&#xED;cola est&#xE9; recibiendo al 30 de junio de 1974; consider&#xE1;ndose como base de c&#xE1;lculo que a una suma de E&#xBA; 29.000 en dinero a la fecha se&#xF1;alada, le corresponde la cantidad de E&#xBA; 10.000.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 24&#xBA; Las remuneraciones de los trabajadores agr&#xED;colas se determinar&#xE1;n, a contar del 1&#xBA; de julio de 1974, de acuerdo con las normas establecidas en este decreto ley, consider&#xE1;ndose para estos efectos, tanto la remuneraci&#xF3;n pagada en dinero efectivo como el aval&#xFA;o de la respectiva regal&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  La remuneraci&#xF3;n imponible, para los obreros agr&#xED;colas, ser&#xE1; de E&#xBA; 28.000 mensuales. Estos trabajadores quedar&#xE1;n afectos, en todo caso, al ingreso m&#xED;nimo se&#xF1;alado en el art&#xED;culo 15&#xBA; del presente decreto ley, incluy&#xE9;ndose en dicho ingreso el valor de las regal&#xED;as. En todo caso, a lo menos, el 50% de dicho ingreso m&#xED;nimo deber&#xE1; pagarse en dinero efectivo.</div><div class=\"p\">&nbsp; &nbsp;  La cantidad m&#xED;nima se&#xF1;alada en el inciso 2&#xBA; del<span class=\"n\" id=\"n_1\">RECTIFICACION<br>D.O. 08.07.1974</span> art&#xED;culo 14&#xBA; de este decreto ley, se aplicar&#xE1; proporcionalmente, en conformidad a las sumas en dinero que el trabajador agr&#xED;cola est&#xE9; recibiendo al 30 de junio de 1974; consider&#xE1;ndose como base de c&#xE1;lculo que a una suma de E&#xBA; 29.000 en dinero a la fecha se&#xF1;alada, le corresponde la cantidad de E&#xBA; 10.000.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

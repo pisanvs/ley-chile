@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1976-04-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-01-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7309550,
+          "old": "<div><div class=\"p\">RENUEVA LAS FACULTADES A LA CAJA CENTRAL DE AHORROS Y PRESTAMOS CONCEDIDAS POR D.L. 974</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.405.- Santiago, 9 de Abril de 1976.</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: lo dispuesto en los decretos leyes N&#xBA;s.</div><div class=\"p\">1, 128, 162, 527, 741, 974 y ley N&#xB0; 16.807, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando: la conveniencia de mantener durante el a&#xF1;o 1976 la vigencia del decreto ley N&#xB0; 974, de 1975.</div><div class=\"p\">&nbsp; &nbsp;  La Junta de Gobierno ha acordado y dicta el siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto ley:</div><br></div>",
+          "new": "<div><div class=\"p\">RENUEVA LAS FACULTADES A LA CAJA CENTRAL DE AHORROS Y PRESTAMOS CONCEDIDAS POR D.L. 974</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.405.- Santiago, 9 de Abril de 1976.</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: lo dispuesto en los decretos leyes N&#xBA;s.</div><div class=\"p\">1, 128, 162, 527, 741, 974 y ley N&#xB0; 16.807, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando: la conveniencia de mantener durante el a&#xF1;o 1976 la vigencia del decreto ley N&#xB0; 974, de 1975.</div><div class=\"p\">&nbsp; &nbsp;  La Junta de Gobierno ha acordado y dicta el siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto ley:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

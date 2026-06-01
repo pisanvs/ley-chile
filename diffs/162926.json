@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-08-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8360463,
+          "old": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO QUE INDICA EN DIAS QUE SE&#xD1;ALA A LA CONTRALORIA REGIONAL DE TARAPACA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 26 de Junio de 1985.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 839.- Teniendo presente: Que la naturaleza de las funciones fiscalizadoras de variada &#xED;ndole que deben desempe&#xF1;arse por la Contralor&#xED;a Regional de Tarapac&#xE1;, dentro del territorio de su jurisdicci&#xF3;n, hacen necesario que el veh&#xED;culo asignado a esa entidad, pueda mantenerse en funcionamiento los d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos,</div><div class=\"p\">&nbsp; &nbsp;  Visto: El oficio ordinario N&#xB0; 013272 de 10 de Junio de 1985, del Sr. Contralor General de la Rep&#xFA;blica, y lo dispuesto en los art&#xED;culos 1&#xB0; y 3&#xB0; del DL. N&#xB0; 799, de 1974, modificado por el DFL N&#xB0; 12-2345, de 1979, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO QUE INDICA EN DIAS QUE SE&#xD1;ALA A LA CONTRALORIA REGIONAL DE TARAPACA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 26 de Junio de 1985.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 839.- Teniendo presente: Que la naturaleza de las funciones fiscalizadoras de variada &#xED;ndole que deben desempe&#xF1;arse por la Contralor&#xED;a Regional de Tarapac&#xE1;, dentro del territorio de su jurisdicci&#xF3;n, hacen necesario que el veh&#xED;culo asignado a esa entidad, pueda mantenerse en funcionamiento los d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos,</div><div class=\"p\">&nbsp; &nbsp;  Visto: El oficio ordinario N&#xB0; 013272 de 10 de Junio de 1985, del Sr. Contralor General de la Rep&#xFA;blica, y lo dispuesto en los art&#xED;culos 1&#xB0; y 3&#xB0; del DL. N&#xB0; 799, de 1974, modificado por el DFL N&#xB0; 12-2345, de 1979, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

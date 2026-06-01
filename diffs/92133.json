@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-10-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-06-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8321283,
+          "old": "<div><div class=\"p\">AUTORIZA A DON LUIS OMAR ALVARADO AGUILAR PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON LUIS OMAR ALVARADO AGUILAR PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "1955-09-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-09-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9003119,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xBA; Todas las personas que en la actualidad<span class=\"n\" id=\"n_4\">DTO 279, SALUD<br>N&#xBA; 4<br>D.O. 17.09.1974</span> cuentan con autorizaci&#xF3;n para ejercer como laboratoristas Dentales, extendidas por el Director General de Salud, en conformidad con las normas anteriormente vigentes del presente decreto, podr&#xE1;n continuar ejerciendo como tales, siempre que se encuentren inscritas en el Registro de Laboratoristas Dentales que lleva el Consejo General del Colegio de la Orden.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003105,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; Para ser Laboratorista Dental se requiere estar autorizado por resoluci&#xF3;n emanada del Director General del Servicio Nacional de Salud. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xBA; DEROGADO<span class=\"n\" id=\"n_0\">DTO 279, SALUD<br>N&#xBA; 1<br>D.O. 17.09.1974</span></div><br></div>"
+        },
+        {
+          "part_id": 9003106,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xBA; Para obtener la autorizaci&#xF3;n correspondiente se requiere certificar los siguientes antecedentes:</div><br><br><div class=\"p\">a) Ser mayor de edad;</div><div class=\"p\">b) Poseer certificado de antecedentes sin anotaciones penales;</div><div class=\"p\">c) Haber cursado satisfactoriamente tercer a&#xF1;o de humanidades;</div><div class=\"p\">d) No haber sido sancionado por la autoridad</div><div class=\"p\">&nbsp;  sanitaria por infracci&#xF3;n a los art&#xED;culos 210 y 223 del C&#xF3;digo Sanitario;</div><div class=\"p\">e) Estar en posesi&#xF3;n del certificado de competencia expedido por el H. Consejo General del Colegio de Dentistas de Chile, a que se refiere el art&#xED;culo 39 del reglamento de la ley N&#xBA; 9.271.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp;  Art&#xED;culo 3&#xBA; DEROGADO<span class=\"n\" id=\"n_1\">DTO 279, SALUD<br>N&#xBA; 1<br>D.O. 17.09.1974</span></div><br></div>"
+        },
+        {
+          "part_id": 9003107,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA; El Laboratorista Dental para ejercer sus actividades de tal deber&#xE1; estar inscrito en el registro pertinente que lleva el Subdepartamento de Profesiones M&#xE9;dicas y Param&#xE9;dicas del Servicio Nacional de Salud. Para estos efectos proporcionar&#xE1; los siguientes antecedentes: nombre completo; fecha de nacimiento; nacionalidad; n&#xFA;mero y fecha de su autorizaci&#xF3;n; domicilio y lugar en que desarrollar&#xE1; sus actividades.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA; El Laboratorista Dental para ejercer sus actividades de tal deber&#xE1; estar inscrito en el registro pertinente que lleva el Consejo General de<span class=\"n\" id=\"n_2\">DTO 279, SALUD<br>N&#xBA; 2<br>D.O. 17.09.1974</span> la Orden. Para estos efectos proporcionar&#xE1; los siguientes antecedentes: nombre completo; fecha de nacimiento; nacionalidad; n&#xFA;mero y fecha de su autorizaci&#xF3;n; domicilio y lugar en que desarrollar&#xE1; sus actividades.</div><br></div>"
+        },
+        {
+          "part_id": 9003114,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA; Toda contravenci&#xF3;n al presente Reglamento ser&#xE1; sancionada de acuerdo con lo dispuesto en el art&#xED;culo 243 y siguientes del T&#xED;tulo VI, Libro IV, del C&#xF3;digo Sanitario. El Director General de Salud estar&#xE1; facultado para cancelar temporal o definitivamente la autorizaci&#xF3;n al Laboratorista Dental que infrinja los art&#xED;culos 210 o 223 del C&#xF3;digo Sanitario y las disposiciones de este Reglamento. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA; Toda contravenci&#xF3;n al presente<span class=\"n\" id=\"n_3\">DTO 279, SALUD<br>N&#xBA; 3<br>D.O. 17.09.1974</span> reglamento ser&#xE1; sancionada de acuerdo con lo dispuesto en el art&#xED;culo 165 y siguientes del T&#xED;tulo III del Libro IX del C&#xF3;digo Sanitario.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1997-10-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

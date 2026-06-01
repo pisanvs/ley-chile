@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-07-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8314430,
+          "old": "<div><div class=\"p\">AUTORIZA A HATFIELD INTERNATIONAL S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A HATFIELD INTERNATIONAL S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

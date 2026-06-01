@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8561247,
+          "old": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1;IA PESQUERA Y NAVIERA PRO-AUSTRAL LIMITADA PARA TRASLADO DE PLANTA Y AMPLIACION DE ACTIVIDADES PESQUERAS. DECLARA CADUCIDAD DE RESOLUCION QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1;IA PESQUERA Y NAVIERA PRO-AUSTRAL LIMITADA PARA TRASLADO DE PLANTA Y AMPLIACION DE ACTIVIDADES PESQUERAS. DECLARA CADUCIDAD DE RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

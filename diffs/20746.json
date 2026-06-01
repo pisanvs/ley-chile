@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-10-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7161247,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO EXENTO NUMERO 232, DE 1993 </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO EXENTO NUMERO 232, DE 1993 </div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-03-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-10-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002751,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- A aquellos funcionarios que sirvan un empleo ubicado entre los grados 14&#xBA; y 31&#xBA;, ambos inclusive, de la Escala Unica de Sueldos, que no tengan denominaci&#xF3;n de Jefaturas, ni de Procesamiento de Datos, se les otorga la asignaci&#xF3;n establecida, para el grado de que se trate, en la primera tabla de valores contemplada en el art&#xED;culo 1&#xBA;, inciso 2&#xBA;, del D.L. N&#xBA; 2.411, de 1978.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- A aquellos funcionarios que sirvan un empleo ubicado entre los grados 14&#xBA; y 31&#xBA;, ambos inclusive, de la Escala Unica de Sueldos, que no<span class=\"n\" id=\"n_0\">DL 2879, HACIENDA<br>Art. 2&#xBA;<br>D.O. 17.10.1979</span> tengan denominaci&#xF3;n de Procesamiento de Datos ni tengan derecho a la asignaci&#xF3;n establecida en el art&#xED;culo 3 del decreto ley N 2.411, de 1978, se les<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> otorga la asignaci&#xF3;n establecida, para el grado de que se trate, en la primera tabla de valores contemplada en el art&#xED;culo 1&#xBA;, inciso 2&#xBA;, del D.L. N&#xBA; 2.411, de 1978.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 2&#xBA; del DL 2879, Hacienda, publicado el 17.10.1979, dispuso que la modificaci&#xF3;n introducida en el presente art&#xED;culo rige a contar del 1&#xBA; de enero de 1979.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

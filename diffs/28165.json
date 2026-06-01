@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1963-11-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1965-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8857513,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7.o- La L&#xED;nea A&#xE9;rea Nacional-Chile estar&#xE1; obligada a indemnizar a su personal de vuelo y funcionarios que viajen en comisi&#xF3;n de servicios o en raz&#xF3;n de sus funciones habituales, en aviones de propiedad de la empresa o de otras compa&#xF1;&#xED;as, por los accidentes de aviaci&#xF3;n en que resultaren afectados con la p&#xE9;rdida de su vida o invalidez f&#xED;sica permanente, ya sea total o parcial.</div><div class=\"p\">&nbsp; &nbsp; Esta indemnizaci&#xF3;n ser&#xE1; de un monto igual a treinta veces el sueldo mensual imponible y monto por cargas familiares, que percibiere el empleado u obrero as&#xED; accidentado con un m&#xED;nimo de quince sueldos vitales anuales de la escala A del departamento de Santiago.</div><div class=\"p\">&nbsp; &nbsp; Asimismo, esta empresa deber&#xE1; destinar anualmente y a partir del a&#xF1;o 1964, un 1,5% de sus entradas generales, al incremento del fondo de reservas que mantiene actualmente para autoseguro, eventualidades y riesgos diversos y el cual tendr&#xE1; tambi&#xE9;n por objeto cubrir la responsabilidad que pueda corresponderle como transportador a&#xE9;reo, en el pa&#xED;s o en el exterior, por da&#xF1;os o perjuicios causados a las personas o bienes transportados y a terceros, quedando as&#xED; liberada de contratar seguros para cubrir los riesgos de indemnizaciones a que se refiere este art&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp; Cesar&#xE1; la obligaci&#xF3;n de incrementar este fondo cuando las reservas acumuladas llegaren a un monto de dos mil quinientos sueldos vitales anuales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7.o- La L&#xED;nea A&#xE9;rea Nacional-Chile estar&#xE1; obligada a indemnizar a su personal de vuelo y funcionarios que viajen en comisi&#xF3;n de servicios o en raz&#xF3;n de sus funciones habituales, en aviones de propiedad de la empresa o de otras compa&#xF1;&#xED;as, por los accidentes de aviaci&#xF3;n en que resultaren afectados con la p&#xE9;rdida de su vida o invalidez f&#xED;sica permanente, ya sea total o parcial.</div><div class=\"p\">&nbsp; &nbsp; Esta indemnizaci&#xF3;n ser&#xE1; de un monto igual a treinta veces el sueldo mensual imponible y monto por cargas familiares, que percibiere el empleado u obrero as&#xED; accidentado con un m&#xED;nimo de quince sueldos vitales anuales de la escala A del departamento de Santiago.</div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=28442&amp;idParte=5977659&amp;idVersion=1965-12-31\">LEY 16405<br>Art. UNICO<br>D.O. 31.12.1965</a></span></div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 28442,
+      "fecha": "1965-12-31"
+    }
+  }
+]

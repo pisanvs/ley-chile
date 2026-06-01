@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1995-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-09-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7158082,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0; Los establecimientos municipales de atenci&#xF3;n primaria de salud cumplir&#xE1;n las normas t&#xE9;cnicas, planes y programas que respecto de las prestaciones de esa naturaleza que realizan, imparta el Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp; Siempre y sin necesidad de autorizaci&#xF3;n alguna, podr&#xE1;n efectuar otras prestaciones adicionales a las establecidas en el respectivo programa de salud, las que en todo caso deber&#xE1;n tambi&#xE9;n ce&#xF1;irse a las normas t&#xE9;cnicas que sobre su ejecuci&#xF3;n haya dictado la autoridad sanitaria, de acuerdo a sus atribuciones generales en esta materia. Estas prestaciones podr&#xE1;n ser financiadas directamente por la municipalidad o mediante cobro directo al que las recibe, seg&#xFA;n el arancel que ella fije el que, respecto de los beneficiarios de la Ley N&#xB0; 18.469, no podr&#xE1; exceder de los valores que esa normativa establece para la modalidad institucional.</div><div class=\"p\">&nbsp; &nbsp; Si con posterioridad a la entrada en vigencia de la Ley N&#xB0; 19.378 se imparten normas t&#xE9;cnicas, planes y programas, que impliquen un mayor gasto para la municipalidad, su financiamiento ser&#xE1; incorporado a los aportes establecidos en el art&#xED;culo 49&#xB0; de la misma Ley, de acuerdo a lo que se se&#xF1;ala en su inciso segundo. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0; Las entidades administradoras<span class=\"n\" id=\"n_0\">DTO 47, SALUD<br>Art. 2&#xBA; N&#xBA; 1<br>D.O. 27.09.2007</span> definir&#xE1;n la estructura organizacional de sus establecimientos de atenci&#xF3;n primaria de salud y de la unidad encargada de salud en la entidad administradora, sobre la base del plan de salud comunal y del modelo de atenci&#xF3;n definido por el Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp;  Los establecimientos municipales de atenci&#xF3;n primaria de salud cumplir&#xE1;n las normas t&#xE9;cnicas, planes y programas que respecto de las prestaciones de esa naturaleza que realizan, imparta el Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp; Siempre y sin necesidad de autorizaci&#xF3;n alguna, podr&#xE1;n efectuar otras prestaciones adicionales a las establecidas en el respectivo programa de salud, las que en todo caso deber&#xE1;n tambi&#xE9;n ce&#xF1;irse a las normas t&#xE9;cnicas que sobre su ejecuci&#xF3;n haya dictado la autoridad sanitaria, de acuerdo a sus atribuciones generales en esta materia. Estas prestaciones podr&#xE1;n ser financiadas directamente por la municipalidad o mediante cobro directo al que las recibe, seg&#xFA;n el arancel que ella fije el que, respecto de los beneficiarios de la Ley N&#xB0; 18.469, no podr&#xE1; exceder de los valores que esa normativa establece para la modalidad institucional.</div><div class=\"p\">&nbsp; &nbsp; Si con posterioridad a la entrada en vigencia de la Ley N&#xB0; 19.378 se imparten normas t&#xE9;cnicas, planes y programas, que impliquen un mayor gasto para la municipalidad, su financiamiento ser&#xE1; incorporado a los aportes establecidos en el art&#xED;culo 49&#xB0; de la misma Ley, de acuerdo a lo que se se&#xF1;ala en su inciso segundo. </div></div>"
+        },
+        {
+          "part_id": 7158089,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 17&#xB0; Dichas comisiones estar&#xE1;n integradas por el Director del Servicio de Salud respectivo, quien las presidir&#xE1;, por los Directores de las Entidades Administradoras de Salud Municipal, los Jefes de las Direcciones de Atenci&#xF3;n Primaria, los Jefes de los Departamentos de Programas de Salud de las Personas y del Programa del Ambiente del respectivo Servicio. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;.- Dichas comisiones estar&#xE1;n<span class=\"n\" id=\"n_1\">DTO 47, SALUD<br>Art. 2&#xBA; N&#xBA; 2<br>D.O. 27.09.2007</span> integradas por el Director del Servicio de Salud respectivo, quien las presidir&#xE1;, por los Directores de las Entidades Administradoras de Salud Municipal y por tres profesionales que el Director del Servicio de Salud correspondiente designe.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

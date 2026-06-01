@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1969-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-08-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8955740,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA EL TEXTO REFUNDIDO, CORREGIDO, COORDINADO SISTEMATIZADO DE LA LEY 16.959. APRUEBA DISPOSICIONES LEGALES RELATIVAS AL IMPUESTO HABITACIONAL DE 5% y 4% ESTABLECIDO EN FAVOR DE LA CORPORACION DE LA VIVIENDA Santiago, 25 de Septiembre de 1968.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 671.- Vistos lo dispuesto en el art&#xED;culo 83&#xB0; de la ley N&#xB0; 16.742,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; F&#xED;jase el siguiente texto refundido, corregido, coordinado y sistematizado de las disposiciones legales relativas al impuesto habitacional de 5% y 4% establecido en favor de la Corporaci&#xF3;n de la Vivienda, y que llevar&#xE1; el siguiente n&#xFA;mero de ley:</div><div class=\"p\">&nbsp; &nbsp; LEY N&#xB0; 16.959 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA EL TEXTO REFUNDIDO, CORREGIDO, COORDINADO</div><div class=\"p\">SISTEMATIZADO DE LA LEY 16.959. APRUEBA DISPOSICIONES</div><div class=\"p\">LEGALES RELATIVAS AL IMPUESTO HABITACIONAL DE 5% y 4%</div><div class=\"p\">ESTABLECIDO EN FAVOR DE LA CORPORACION DE LA VIVIENDA</div><div class=\"p\">&nbsp; &nbsp; Santiago, 25 de Septiembre de 1968.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 671.- Vistos lo dispuesto en el art&#xED;culo 83&#xB0; de la ley N&#xB0; 16.742,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; F&#xED;jase el siguiente texto refundido, corregido, coordinado y sistematizado de las disposiciones legales relativas al impuesto habitacional de 5% y 4% establecido en favor de la Corporaci&#xF3;n de la Vivienda, y que llevar&#xE1; el siguiente n&#xFA;mero de ley:</div><div class=\"p\">&nbsp; &nbsp;  LEY N&#xB0; 16.959</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 19 del DL 1519, publicado en el Diario Oficial del 03 de agosto de 1976, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

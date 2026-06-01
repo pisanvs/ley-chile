@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-10-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-10-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8543572,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Establ&#xE9;cese, a partir de 1988, una veda estacional para el recurso erizo, la cual regir&#xE1; en el litoral entre la I a XI Regi&#xF3;n, ambas inclusive, durante el per&#xED;odo comprendido desde el 15 de octubre de cada a&#xF1;o y hasta el 15 de enero del a&#xF1;o siguiente.</div><div class=\"p\">&nbsp; &nbsp; En consecuencia, proh&#xED;bese la extracci&#xF3;n del recurso erizo en el &#xE1;rea y per&#xED;odos indicados en el inciso primero.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Establ&#xE9;cese, a partir de 1988, una veda estacional para el recurso erizo, la cual regir&#xE1; en el litoral entre la I a XI Regi&#xF3;n, ambas inclusive, durante el per&#xED;odo comprendido<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> desde el 15 de octubre de cada a&#xF1;o y hasta el 15 de enero del a&#xF1;o siguiente.</div><div class=\"p\">&nbsp; &nbsp; En consecuencia, proh&#xED;bese la extracci&#xF3;n del recurso erizo en el &#xE1;rea y per&#xED;odos indicados en el inciso primero.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 812 Exento, Econom&#xED;a, publicado el&nbsp; 19.10.2015, modifica la presente norma en el sentido de suspender la vigencia de la veda extractiva para el recurso Erizo, a contar del d&#xED;a 15 de octubre y hasta el d&#xED;a 19 de noviembre de 2015, ambas fechas inclusive, en el &#xE1;rea mar&#xED;tima correspondiente a la comuna de Tocopilla, II Regi&#xF3;n de Antofagasta.</div></div>"
+        }
+      ]
+    }
+  }
+]

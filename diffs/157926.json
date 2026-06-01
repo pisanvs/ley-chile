@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-08-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7262637,
+          "old": "<div><div class=\"p\">COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.600 exenta.- Santiago, 20.12.85.- Vistos: El Decreto N&#xB0; 195 de fecha 11.11.85, del Ministerio de Transportes y Telecomunicaciones, la necesidad de fijar tarifas a las prestaciones postales complementarias de que trata el art&#xED;culo 5&#xB0; del mismo Decreto; los Acuerdos de Directorio N&#xB0; 119/85 y N&#xB0; 141/85 de fechas 17 de Octubre y 05 de Diciembre, ambas de 1985, respectivamente, las facultades que me otorga la Resoluci&#xF3;n N&#xB0; 2 del 19 de Febrero de 1982 de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.600 exenta.- Santiago, 20.12.85.- Vistos: El Decreto N&#xB0; 195 de fecha 11.11.85, del Ministerio de Transportes y Telecomunicaciones, la necesidad de fijar tarifas a las prestaciones postales complementarias de que trata el art&#xED;culo 5&#xB0; del mismo Decreto; los Acuerdos de Directorio N&#xB0; 119/85 y N&#xB0; 141/85 de fechas 17 de Octubre y 05 de Diciembre, ambas de 1985, respectivamente, las facultades que me otorga la Resoluci&#xF3;n N&#xB0; 2 del 19 de Febrero de 1982 de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

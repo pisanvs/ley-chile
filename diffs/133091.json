@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-04-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8548832,
+          "old": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1;IA PESQUERA CAMANCHACA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1;IA PESQUERA CAMANCHACA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

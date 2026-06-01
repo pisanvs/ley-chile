@@ -1,0 +1,16 @@
+[
+  {
+    "fecha": "1992-03-06",
+    "tipo_version_s": "Única",
+    "diff": null
+  },
+  {
+    "fecha": "2030-12-31",
+    "tipo_version_s": "Con Derogación Diferida por fecha",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

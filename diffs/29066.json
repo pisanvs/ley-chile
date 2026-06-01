@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1971-10-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5981932,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE RENTA MENSUAL PARA EL PRESIDENTE DE LA REPUBLICA, MINISTROS DE ESTADO Y DEMAS PERSONAL QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE RENTA MENSUAL PARA EL PRESIDENTE DE LA REPUBLICA, MINISTROS DE ESTADO Y DEMAS PERSONAL QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

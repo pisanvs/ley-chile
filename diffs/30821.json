@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-05-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-06-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8232640,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El Instituto de Normalizaci&#xF3;n Previsional y las Mutualidades de Empleadores de la ley N&#xB0; 16.744 pagar&#xE1;n las pensiones, excluidas las de sobrevivencia, hasta el &#xFA;ltimo d&#xED;a del mes del fallecimiento del titular.</div><div class=\"p\">&nbsp; &nbsp; Las pensiones de sobrevivencia causadas en los reg&#xED;menes previsionales administrados por el Instituto de Normalizaci&#xF3;n Previsional y aquellas de la ley N&#xB0; 16.744, se devengar&#xE1;n a contar del primer d&#xED;a del mes siguiente al del deceso del causante.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El Instituto de Normalizaci&#xF3;n Previsional y las Mutualidades de Empleadores de la ley N&#xB0; 16.744 pagar&#xE1;n las pensiones, hasta el &#xFA;ltimo d&#xED;a del<span class=\"n\" id=\"n_0\">LEY 19953<br>Art. 10 N&#xBA; 1<br>D.O. 26.06.2004</span> mes del fallecimiento del titular. Las pensiones de sobrevivencia causadas en los reg&#xED;menes previsionales administrados por el Instituto de Normalizaci&#xF3;n Previsional y aquellas de la ley N&#xB0; 16.744, se devengar&#xE1;n a contar del primer d&#xED;a del mes siguiente al del deceso del causante. Asimismo, los<span class=\"n\" id=\"n_1\">LEY 19953<br>Art. 10 N&#xBA; 2<br>D.O. 26.06.2004</span> acrecimientos que procedieren a favor de otros pensionados de sobrevivencia, se devengar&#xE1;n a contar del primer d&#xED;a del mes siguiente al del fallecimiento del pensionado que los causare. </div></div>"
+        }
+      ]
+    }
+  }
+]

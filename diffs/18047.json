@@ -1,0 +1,77 @@
+[
+  {
+    "fecha": "1982-01-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-01-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7156735,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTO SOBRE INDULTOS PARTICULARES:</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 26 de Noviembre de 1981.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.542.- Visto: lo dispuesto en el art&#xED;culo 7&#xB0; de la ley N&#xB0; 18.050, y la facultad que me confiere el art&#xED;culo 32, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento que fija las normas conforme a las cuales deber&#xE1;n tramitarse las solicitudes de indultos particulares:</div><br><br><br><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTO SOBRE INDULTOS PARTICULARES:</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 26 de Noviembre de 1981.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.542.- Visto: lo dispuesto en el art&#xED;culo 7&#xB0; de la ley N&#xB0; 18.050, y la facultad que me confiere el art&#xED;culo 32, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento que fija las normas conforme a las cuales deber&#xE1;n tramitarse las solicitudes de indultos particulares:</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1991-02-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7156740,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- La autoridad gubernativa correspondiente requerir&#xE1; los antecedentes policiales y dem&#xE1;s que estime necesarios para evacuar un informe fundado del reo condenado a relegaci&#xF3;n o destierro que solicite el indulto y elevar&#xE1; los antecedentes directamente al Ministerio de Justicia. Se agregar&#xE1;, tambi&#xE9;n, el certificado de antecedentes del solicitante, con todas sus anotaciones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- La autoridad gubernativa correspondiente requerir&#xE1; los antecedentes policiales y dem&#xE1;s que estime necesarios para evacuar un informe fundado del reo condenado a relegaci&#xF3;n o destierro que<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> solicite el indulto y elevar&#xE1; los antecedentes directamente al Ministerio de Justicia. Se agregar&#xE1;, tambi&#xE9;n, el certificado de antecedentes del solicitante, con todas sus anotaciones.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>"
+        },
+        {
+          "part_id": 7156741,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El indulto prevalecer&#xE1; sobre cualquiera resoluci&#xF3;n referente a la libertad condicional de un reo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El indulto prevalecer&#xE1; sobre cualquiera resoluci&#xF3;n referente a la libertad condicional de un reo.<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>"
+        },
+        {
+          "part_id": 7156744,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- Desde que una solicitud de indulto sea entregada por el reo a la autoridad correspondiente, aqu&#xE9;lla y sus antecedentes tendr&#xE1;n el car&#xE1;cter de confidencial y quedar&#xE1; prohibido a los funcionarios de Gendarmer&#xED;a de Chile, de las Intendencias y Gobernaciones y del Ministerio de Justicia informar o dar datos respecto a su tramitaci&#xF3;n. En consecuencia, ninguna autoridad, funcionario o particular podr&#xE1; tramitar o gestionar el despacho de indultos o interesarse en ellos.</div><div class=\"p\">&nbsp; &nbsp; Los funcionarios que infrinjan esta disposici&#xF3;n, sea proporcionando datos o requiri&#xE9;ndolos, ser&#xE1;n sancionados disciplinariamente, de acuerdo con el grado de responsabilidad que se establezca en el correspondiente sumario o investigaci&#xF3;n sumaria. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- Desde que una solicitud de indulto sea entregada por el reo a la autoridad correspondiente,<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:</a></div> aqu&#xE9;lla y sus antecedentes tendr&#xE1;n el car&#xE1;cter de confidencial y quedar&#xE1; prohibido a los funcionarios de Gendarmer&#xED;a de Chile, de las Intendencias y Gobernaciones y del Ministerio de Justicia informar o dar datos respecto a su tramitaci&#xF3;n. En consecuencia, ninguna autoridad, funcionario o particular podr&#xE1; tramitar o gestionar el despacho de indultos o interesarse en ellos.</div><div class=\"p\">&nbsp; &nbsp; Los funcionarios que infrinjan esta disposici&#xF3;n, sea proporcionando datos o requiri&#xE9;ndolos, ser&#xE1;n sancionados disciplinariamente, de acuerdo con el grado de responsabilidad que se establezca en el correspondiente sumario o investigaci&#xF3;n sumaria. </div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1999-07-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7156737,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Los Alcaides de los establecimientos penales elevar&#xE1;n las solicitudes al Supremo Gobierno a trav&#xE9;s de la Direcci&#xF3;n Nacional de las respectivas Direcciones Regionales de Gendarmer&#xED;a de Chile, por estricto orden de presentaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; A la solicitud del interesado, dicho funcionario deber&#xE1; adjuntar un informe fundado del Tribunal de Conducta del establecimiento, que contendr&#xE1; un pronunciamiento acerca de la procedencia de la petici&#xF3;n y las menciones indicadas en el art&#xED;culo 4&#xB0; de este reglamento. En los establecimientos en que no exista Tribunal de Conducta, este tr&#xE1;mite ser&#xE1; cumplido por el Alcaide.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Los Alcaides de los establecimientos penales elevar&#xE1;n las solicitudes al Supremo Gobierno a<span class=\"n\" id=\"n_0\">Rectificado<br>D.O. 13-1-82</span> trav&#xE9;s de la Direcci&#xF3;n Nacional o de las respectivas Direcciones Regionales de Gendarmer&#xED;a de Chile, por estricto orden de presentaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; A la solicitud del interesado, dicho funcionario deber&#xE1; adjuntar un informe fundado del Tribunal de Conducta del establecimiento, que contendr&#xE1; un pronunciamiento acerca de la procedencia de la petici&#xF3;n y las menciones indicadas en el art&#xED;culo 4&#xB0; de este reglamento. En los establecimientos en que no exista Tribunal de Conducta, este tr&#xE1;mite ser&#xE1; cumplido por el Alcaide.</div><br></div>"
+        },
+        {
+          "part_id": 7156740,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- La autoridad gubernativa correspondiente requerir&#xE1; los antecedentes policiales y dem&#xE1;s que estime necesarios para evacuar un informe fundado del reo condenado a relegaci&#xF3;n o destierro que<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> solicite el indulto y elevar&#xE1; los antecedentes directamente al Ministerio de Justicia. Se agregar&#xE1;, tambi&#xE9;n, el certificado de antecedentes del solicitante, con todas sus anotaciones.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- La autoridad gubernativa correspondiente requerir&#xE1; los antecedentes policiales y dem&#xE1;s que estime necesarios para evacuar un informe fundado del reo condenado a relegaci&#xF3;n o destierro que<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> solicite el indulto y elevar&#xE1; los antecedentes directamente al Ministerio de Justicia. Se agregar&#xE1;, tambi&#xE9;n, el certificado de antecedentes del solicitante, con todas sus anotaciones.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>"
+        },
+        {
+          "part_id": 7156741,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El indulto prevalecer&#xE1; sobre cualquiera resoluci&#xF3;n referente a la libertad condicional de un reo.<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El indulto prevalecer&#xE1; sobre cualquiera resoluci&#xF3;n referente a la libertad condicional de un reo.<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:</a></div></div><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>"
+        },
+        {
+          "part_id": 7156744,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- Desde que una solicitud de indulto sea entregada por el reo a la autoridad correspondiente,<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:</a></div> aqu&#xE9;lla y sus antecedentes tendr&#xE1;n el car&#xE1;cter de confidencial y quedar&#xE1; prohibido a los funcionarios de Gendarmer&#xED;a de Chile, de las Intendencias y Gobernaciones y del Ministerio de Justicia informar o dar datos respecto a su tramitaci&#xF3;n. En consecuencia, ninguna autoridad, funcionario o particular podr&#xE1; tramitar o gestionar el despacho de indultos o interesarse en ellos.</div><div class=\"p\">&nbsp; &nbsp; Los funcionarios que infrinjan esta disposici&#xF3;n, sea proporcionando datos o requiri&#xE9;ndolos, ser&#xE1;n sancionados disciplinariamente, de acuerdo con el grado de responsabilidad que se establezca en el correspondiente sumario o investigaci&#xF3;n sumaria. </div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- Desde que una solicitud de indulto sea entregada por el reo a la autoridad correspondiente,<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:</a></div> aqu&#xE9;lla y sus antecedentes tendr&#xE1;n el car&#xE1;cter de confidencial y quedar&#xE1; prohibido a los funcionarios de Gendarmer&#xED;a de Chile, de las Intendencias y Gobernaciones y del Ministerio de Justicia informar o dar datos respecto a su tramitaci&#xF3;n. En consecuencia, ninguna autoridad, funcionario o particular podr&#xE1; tramitar o gestionar el despacho de indultos o interesarse en ellos.</div><div class=\"p\">&nbsp; &nbsp; Los funcionarios que infrinjan esta disposici&#xF3;n, sea proporcionando datos o requiri&#xE9;ndolos, ser&#xE1;n sancionados disciplinariamente, de acuerdo con el grado de responsabilidad que se establezca en el correspondiente sumario o investigaci&#xF3;n sumaria. </div><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

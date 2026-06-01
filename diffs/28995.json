@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1971-03-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-10-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8923630,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 13&#xB0; Decl&#xE1;rase de utilidad p&#xFA;blica y ord&#xE9;nase a la Corporaci&#xF3;n de Mejoramiento Urbano, expropiar, por cuenta y en beneficio de sus actuales ocupantes, las viviendas de propiedad del Ferrocarril de Antofagasta a Bolivia o de quien acredite ser su due&#xF1;o o sus derechos represente, ubicadas en la comuna de Mejillones y enroladas en el Servicio de Impuestos Internos, bajo el N&#xB0; 300.</div><div class=\"p\">&nbsp; &nbsp; El valor de la indemnizaci&#xF3;n ser&#xE1; fijado por la Junta Ejecutiva de la Corporaci&#xF3;n de Mejoramiento Urbano, teniendo particularmente en consideraci&#xF3;n el aval&#xFA;o fiscal de esas viviendas, su antig&#xFC;edad y estado de conservaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; La indemnizaci&#xF3;n se pagar&#xE1; a dos a&#xF1;os plazo, sin reajuste y con un inter&#xE9;s del 10% anual.</div><div class=\"p\">&nbsp; &nbsp; En lo dem&#xE1;s, esta expropiaci&#xF3;n se regir&#xE1; por los art&#xED;culos 24&#xB0; a 36&#xB0; de la ley 5.604, cuyo texto refundido se fij&#xF3; por decreto supremo 103, del Ministerio de la Vivienda y Urbanismo, publicado en el Diario Oficial de 15 de marzo de 1968.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 13&#xB0; DEROGADO<span class=\"n\" id=\"n_0\">DL 714<br>Art. &#xDA;nico<br>D.O. 30.10.1974</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1974-12-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8923627,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 10&#xB0; Autor&#xED;zase al Presidente de la Rep&#xFA;blica para disponer que los terrenos de propiedad del Servicio Nacional de Salud, ubicados en el per&#xED;metro comprendido entre las calles Carlos Anwandter, Garc&#xED;a Reyes, Chacabuco y Plaza Achar&#xE1;n, de la ciudad de Valdivia, y el situado en calle Bueras, de la misma ciudad, contiguo al predio que actualmente ocupa el Hospital Regional y enrolado en el Servicio de Impuestos Internos, bajo el N&#xB0; 412-2, sean transferidos a la Corporaci&#xF3;n de la Vivienda, a fin de que esta instituci&#xF3;n los destine a la construcci&#xF3;n de edificios de departamentos, en cuya asignaci&#xF3;n definitiva se reconocer&#xE1; derecho preferente a los funcionarios del Servicio Nacional de Salud, que se desempe&#xF1;en en la comuna de Valdivia.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 10&#xB0; DEROGADO<span class=\"n\" id=\"n_0\">DL 809<br>Art. &#xDA;nico<br>D.O. 21.12.1974</span></div><br></div>"
+        },
+        {
+          "part_id": 8923630,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 13&#xB0; DEROGADO<span class=\"n\" id=\"n_0\">DL 714<br>Art. &#xDA;nico<br>D.O. 30.10.1974</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 13&#xB0; DEROGADO<span class=\"n\" id=\"n_1\">DL 714<br>Art. &#xDA;nico<br>D.O. 30.10.1974</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

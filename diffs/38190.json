@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-06-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-03-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6020289,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUMENTA FRECUENCIAS EN SERVICIOS URBANOS DE CIUDADES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 66 exenta.- Temuco, 22 de mayo de 1995.- Visto: el art. 12&#xB0; del D.S. 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes,</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUMENTA FRECUENCIAS EN SERVICIOS URBANOS DE CIUDADES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 66 exenta.- Temuco, 22 de mayo de 1995.- Visto: el art. 12&#xB0; del D.S. 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes,</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1980-10-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-02-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9008208,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;- Los dem&#xE1;s derechos, beneficios, obligaciones, prohibiciones y otras materias a que d&#xE9; lugar el desempe&#xF1;o de las funciones asistenciales y el desarrollo de sus actividades de perfeccionamiento o especializaci&#xF3;n, ser&#xE1;n reconocidos o resueltos por las Direcciones de los Servicios de Salud en que ellos est&#xE9;n destinados, de acuerdo con las normas que rigen la materia.</div><div class=\"p\">&nbsp; &nbsp;  En todo caso, las resoluciones que dicten los Directores de dichos Servicios respecto de los profesionales en Ciclo de Destinaci&#xF3;n, ser&#xE1;n transcritas de inmediato a la Subsecretaria de Salud.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;- Los dem&#xE1;s derechos, beneficios, obligaciones, prohibiciones y otras materias a que d&#xE9; lugar el desempe&#xF1;o de las funciones asistenciales y el desarrollo de sus actividades de perfeccionamiento o especializaci&#xF3;n, ser&#xE1;n reconocidos o resueltos por las Direcciones de los Servicios de Salud en que ellos est&#xE9;n destinados, de acuerdo con las normas que rigen la materia. INCISO DEROGADO<span class=\"n\" id=\"n_0\">DTO 424, SALUD<br>D.O. 22.02.1990</span> </div></div>"
+        }
+      ]
+    }
+  }
+]

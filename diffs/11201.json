@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-09-15",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1983-09-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8972213,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; T&#xF3;mese raz&#xF3;n, comun&#xED;quese y publ&#xED;quese.- J. ALESSANDRI R.- Orlando Sandoval Vargas.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Ciro Iturriaga Garc&#xE9;s, Subsecretario de Agricultura.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

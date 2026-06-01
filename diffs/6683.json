@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1976-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-05-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8860746,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;- Sustit&#xFA;yese, a contar del 1&#xB0; de Enero de 1977, el inciso segundo del art&#xED;culo 3&#xB0; del decreto ley N&#xB0; 479, de 1974, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Esta asignaci&#xF3;n ser&#xE1; equivalente al porcentaje que se indica del sueldo del grado de la escala &#xFA;nica que corresponda al cargo que ocupa el funcionario, y se calcular&#xE1; &#xFA;nicamente sobre ese sueldo: grado A al grado 6&#xB0;, 70%; grados 7&#xB0; al 12&#xB0;, 50%; grados 13&#xB0; al 17&#xB0;, 40%, y grados 18&#xB0; al 23&#xB0;, 25%.</div><div class=\"p\">&nbsp; &nbsp; A partir del 1&#xB0; de Enero de 1978, los referidos porcentajes de &quot;70%&quot;, &quot;50%&quot;, &quot;40%&quot; y &quot;25%&quot; pasar&#xE1;n a ser de &quot;80%&quot;, &quot;70%&quot;, &quot;60%&quot; y &quot;25%&quot;, respectivamente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; Sustit&#xFA;yese a contar del 1&#xB0; de enero de 1977, el inciso 2&#xB0; del art&#xED;culo 3&#xB0; del decreto ley 479, de 1974, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Esta asignaci&#xF3;n ser&#xE1; equivalente al porcentaje que se indica del sueldo del grado de la escala &#xFA;nica que corresponda al cargo que ocupa el funcionario, y se calcular&#xE1; &#xFA;nicamente sobre ese sueldo: grado A al grado 6&#xB0;, 70%; grados 7&#xB0; al 12&#xB0;, 50%; grados 13&#xB0; al 17&#xB0;, 40%, y grados 18&#xB0; al 23&#xB0;, 25%&quot;.</div><div class=\"p\">&nbsp; &nbsp; A partir del 1&#xB0; de mayo de 1977, los referidos<span class=\"n\" id=\"n_0\">DL 1770, HACIENDA<br>Art. 4&#xBA;<br>D.O. 05.05.1977</span> porcentajes de &quot;70%&quot;, &quot;50%&quot;, &quot;40%&quot; y &quot;25%&quot; pasar&#xE1;n a ser &quot;80%&quot;, &quot;70%&quot;, &quot;60%&quot; y &quot;25%&quot;, respectivamente.</div><br></div>"
+        },
+        {
+          "part_id": 8860747,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;- Sustit&#xFA;yese, a contar del 1&#xB0; de Enero de 1977, en el inciso 1&#xB0; del art&#xED;culo 10&#xB0; del decreto ley N&#xB0; 924, de 1975, el porcentaje &quot;35%&quot; por &quot;70%&quot;.</div><div class=\"p\">&nbsp; &nbsp; A partir del 1&#xB0; de Enero de 1978, el referido porcentaje de &quot;70%&quot; pasar&#xE1; a ser de &quot;80%&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 4&#xB0; Sustit&#xFA;yese, a contar del 1&#xB0; de enero de 1977, en el inciso 1&#xB0; del art&#xED;culo 10&#xB0; del decreto ley 924, de 1975, el porcentaje &quot;35%&quot; por &quot;70%&quot;.</div><div class=\"p\">&nbsp; &nbsp; A partir del 1&#xB0; de mayo de 1977, el referido<span class=\"n\" id=\"n_1\">DL 1770, HACIENDA<br>Art. 4&#xBA;<br>D.O. 05.05.1977</span> porcentaje de &quot;70%&quot; pasar&#xE1; a ser de &quot;80%&quot;.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1977-12-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8860750,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;- Conc&#xE9;dese, a contar del 1&#xB0; del mes en que entren en vigencia las modificaciones al decreto ley N&#xB0; 825, de 1974, que eliminen las exenciones al Impuesto al Valor Agregado, una bonificaci&#xF3;n compensatoria de los montos que se indican, para los funcionarios ubicados en los grados que se se&#xF1;alan de la escala &#xFA;nica de remuneraciones:</div><div class=\"p\">&nbsp;  Grados 19&#xB0; al 21&#xB0;, $ 30 al mes.</div><div class=\"p\">&nbsp;  Grados 22&#xB0; al 24&#xB0;, $ 40 al mes.</div><div class=\"p\">&nbsp;  Grados 25&#xB0; al 27&#xB0;, $ 50 al mes.</div><div class=\"p\">&nbsp;  Grados 28&#xB0; al 29&#xB0;, $ 60 al mes.</div><div class=\"p\">&nbsp;  Grados 30&#xB0; al 32&#xB0;, $ 75 al mes.</div><div class=\"p\">&nbsp; &nbsp; El personal que cumpla jornada parcial tendr&#xE1; derecho a este beneficio en la proporci&#xF3;n que corresponda a la jornada completa.</div><div class=\"p\">&nbsp; &nbsp; La bonificaci&#xF3;n no ser&#xE1; imponible ni tributable y estar&#xE1; afecta al reajuste autom&#xE1;tico establecido en el decreto ley N&#xB0; 670, de 1974, pero no ser&#xE1; considerada sueldo para la aplicaci&#xF3;n de ning&#xFA;n beneficio remuneratorio que constituya porcentaje de los sueldos, tales como los bienios, trienios, bonificaci&#xF3;n profesional y asignaci&#xF3;n de zona.</div><div class=\"p\">&nbsp; &nbsp; El beneficio que concede este art&#xED;culo se aplicar&#xE1; a los sueldos del personal de las Universidades regido por el art&#xED;culo 3&#xB0; del decreto ley N&#xB0; 271, de 1974, y sus modificaciones, cuyos montos correspondan a los de los grados aludidos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 7&#xB0; Conc&#xE9;dese, a contar del 1&#xB0; del mes en que entren en vigencia las modificaciones al decreto ley 825, de 1974, que eliminen las exenciones al Impuesto al Valor Agregado, una bonificaci&#xF3;n compensatoria de los montos que se indican, para los funcionarios ubicados en los grados que se se&#xF1;alan de la escala &#xFA;nica de remuneraciones:</div><br><div class=\"p\"> Grados 19&#xB0; al 21&#xB0;, $ 100 al mes<span class=\"n\" id=\"n_2\">DL 2072, HACIENDA<br>Art. 4&#xBA;<br>D.O. 22.12.1977</span></div><div class=\"p\"> Grados 22&#xB0; al 24&#xB0;, $ 133 al mes</div><div class=\"p\"> Grados 25&#xB0; al 27&#xB0;, $ 167 al mes</div><div class=\"p\"> Grados 28&#xB0; al 31&#xB0;, $ 200 al mes<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:</a></div></div><br><div class=\"p\">&nbsp; &nbsp; El personal que cumpla jornada parcial tendr&#xE1; derecho a este beneficio en la proporci&#xF3;n que corresponda a la jornada completa.</div><div class=\"p\">&nbsp; &nbsp; La bonificaci&#xF3;n no ser&#xE1; imponible ni tributable y estar&#xE1; afecta al reajuste autom&#xE1;tico establecido en el decreto ley 670, de 1974, pero no ser&#xE1; considerada sueldo para la aplicaci&#xF3;n de ning&#xFA;n beneficio remuneratorio que constituya porcentaje de los sueldos, tales como los bienios, trienios, bonificaci&#xF3;n profesional y asignaci&#xF3;n de zona.</div><div class=\"p\">&nbsp; &nbsp; El beneficio que concede este art&#xED;culo se aplicar&#xE1; a los sueldos del personal de las Universidades regido por el art&#xED;culo 3&#xB0; del decreto ley 271, de 1974, y sus modificaciones, cuyos montos correspondan a los de los grados aludidos.</div><br><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 4&#xBA; del DL 2072, publicado el 22.12.1977, dispuso que la presente modificaci&#xF3;n rige a contar del 1&#xBA; de enero de 1978.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

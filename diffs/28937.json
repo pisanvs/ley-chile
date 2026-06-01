@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1970-09-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-10-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7178840,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico.- Reemplazase la ley 7.205, de 24 de julio de 1942, que cre&#xF3; el Colegio de Farmac&#xE9;uticos de Chile, por la siguente:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &quot;ARTICULO UNICO Reempl&#xE1;zase la ley 7.205, de 24 de julio de 1942, que cre&#xF3; el Colegio de Farmac&#xE9;uticos de Chile, por la siguiente:</div><br></div>"
+        },
+        {
+          "part_id": 7178844,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Estar&#xE1;n obligados a formar parte del Colegio todos los que poseen el t&#xED;tulo de Farmac&#xE9;utico, Qu&#xED;mico-Farmac&#xE9;utico o de Bioqu&#xED;mico, otorgado o revalidado por la Universidad de Chile y que desempe&#xF1;en labores para las cuales se requiere el t&#xED;tulo profesional.</div><div class=\"p\">&nbsp; &nbsp; El Colegio, a trav&#xE9;s del Consejo General, tendr&#xE1; la facultad de resolver en casos de dudas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Estar&#xE1;n obligados a formar parte del<span class=\"n\" id=\"n_0\">DL 672 1974<br>ART UNICO</span> Colegio todos los que poseen el t&#xED;tulo de Farmac&#xE9;utico, Qu&#xED;mico-Farmac&#xE9;utico o Bioqu&#xED;mico, otorgado por la Universidad de Chile u otras reconocidas por el Estado o revalidado por la Universidad de Chile y que desempe&#xF1;en labores para las cuales se requiere el t&#xED;tulo profesional.</div><div class=\"p\">&nbsp; &nbsp; El Colegio, a trav&#xE9;s del Consejo General, tendr&#xE1; la facultad de resolver en casos de dudas.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1991-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7178850,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Para ser elegido miembro del Consejo General se requiere:</div><div class=\"p\">&nbsp; &nbsp; a) Haber ejercido la profesi&#xF3;n en el pa&#xED;s a lo menos durante dos a&#xF1;os y estar inscrito en los Registros del Colegio;</div><div class=\"p\">&nbsp; &nbsp; b) No adeudar patente profesional;</div><div class=\"p\">&nbsp; &nbsp; c) Estar al d&#xED;a en el pago de todas cuotas que exige el Colegio;</div><div class=\"p\">&nbsp; &nbsp; d) No haber sido condenado en los &#xFA;ltimos cinco a&#xF1;os por crimen o simple delito, no haber sido jam&#xE1;s condenado a pena aflictiva, ni encontrarse procesado por crimen o simple delito, salvo que la encargatoria de reo provenga de un cuasidelito; y</div><div class=\"p\">&nbsp; &nbsp; e) No haber sufrido durante el &#xFA;ltimo a&#xF1;o las medidas disciplinarias de amonestaci&#xF3;n o censura ni la de suspensi&#xF3;n durante los cinco &#xFA;ltimos a&#xF1;os, impuestas por los Consejos Regionales.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 7&#xB0; Para ser elegido miembro del Consejo General se requiere:</div><div class=\"p\">&nbsp; &nbsp; a) Haber ejercido la profesi&#xF3;n en el pa&#xED;s a lo menos durante dos a&#xF1;os y estar inscrito en los Registros del Colegio;</div><div class=\"p\">&nbsp; &nbsp; b) No adeudar patente profesional;</div><div class=\"p\">&nbsp; &nbsp; c) Estar al d&#xED;a en el pago de todas las cuotas que exige el Colegio;</div><div class=\"p\">&nbsp; &nbsp; d) No haber sido condenado en los &#xFA;ltimos cinco a&#xF1;os por crimen o simple delito, no haber sido jam&#xE1;s condenado a pena aflictiva, ni encontrarse procesado por crimen o simple delito, salvo que la encargatoria de reo<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> provenga de un cuasidelito; y</div><div class=\"p\">&nbsp; &nbsp; e) No haber sufrido durante el &#xFA;ltimo a&#xF1;o las medidas disciplinarias de amonestaci&#xF3;n o censura ni la de suspensi&#xF3;n durante los cinco &#xFA;ltimos a&#xF1;os, impuestas por el Consejo General o por los Consejos Regionales.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir las expresiones &quot;auto de reo&quot;, &quot;encargatoria de reo&quot; y &quot;auto encargatoria de reo&quot; por la de &quot;auto de procesamiento&quot;.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

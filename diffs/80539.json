@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-08-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-10-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8939234,
+          "old": "<div><div class=\"p\">Art&#xED;culo &#xFA;nico: Modif&#xED;case el Decreto Supremo Exento de Educaci&#xF3;n No. 318, de 21 de noviembre de 1990, en el sentido de sustituir la expresi&#xF3;n &quot;E No. 830&quot; por &quot;F No. 824&quot;. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Modif&#xED;case el Decreto Supremo Exento de Educaci&#xF3;n No. 318, de 21 de noviembre de 1990, en el sentido de sustituir la expresi&#xF3;n &quot;E No. 830&quot; por &quot;E No. 824&quot;.<span class=\"n\" id=\"n_0\">DTO 278 EXENTO,<br>Art. &#xFA;nico<br>D.O. 29.10.1991</span> </div></div>"
+        }
+      ]
+    }
+  }
+]

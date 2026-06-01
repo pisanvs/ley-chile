@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-11-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8956544,
+          "old": "<div><div class=\"p\">1.- Conc&#xE9;dese personalidad jur&#xED;dica a la entidad denominada &quot;Club Uni&#xF3;n Espa&#xF1;ola&quot;, con domicilio en la provincia de Valpara&#xED;so, Quinta Regi&#xF3;n de Valpara&#xED;so.</div><div class=\"p\">2.- Apru&#xE9;banse los estatutos por los cuales se ha de regir la citada entidad, en los t&#xE9;rminos de que dan testimonio las escrituras p&#xFA;blicas de fechas 31 de julio de 1991 y 04 de agosto de 1992, otorgadas ante el Notario P&#xFA;blico de Valpara&#xED;so, don Luis Enrique Fischer Yavar.</div><div class=\"p\">3.- Proh&#xED;bese el expendio de bebidas alcoh&#xF3;licas en el recinto del mencionado club.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Conc&#xE9;dese personalidad jur&#xED;dica a la entidad denominada &quot;Club Uni&#xF3;n Espa&#xF1;ola&quot;, con domicilio en la provincia de Valpara&#xED;so, Quinta Regi&#xF3;n de Valpara&#xED;so.</div><div class=\"p\">&nbsp; &nbsp;  2.- Apru&#xE9;banse los estatutos por los cuales se ha de regir la citada entidad, en los t&#xE9;rminos de que dan testimonio las escrituras p&#xFA;blicas de fechas 31 de julio de 1991 y 04 de agosto de 1992, otorgadas ante el Notario P&#xFA;blico de Valpara&#xED;so, don Luis Enrique Fischer Yavar.</div><div class=\"p\">&nbsp; &nbsp;  3.- Proh&#xED;bese el expendio de bebidas alcoh&#xF3;licas en<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> el recinto del mencionado club.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; EL DTO 757, Justicia, publicado el 20.11.1998, elimin&#xF3; la prohibici&#xF3;n establecida en el numeral 3 de la presente resoluci&#xF3;n<br></div></div>"
+        }
+      ]
+    }
+  }
+]

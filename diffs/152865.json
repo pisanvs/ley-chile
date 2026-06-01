@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-07-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-07-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6224484,
+          "old": "<div><div class=\"p\">ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO AL INSTITUTO NACIONAL DE INVESTIGACION DE RECURSOS NATURALES </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 107.- Santiago, 14 de Abril de 1986.- Visto: Art&#xED;culo 3&#xB0; del Decreto Ley No. 799 de 1974, modificado por el DFL No. 12-2.345 de 1979 del Ministerio del Interior; Circular No. 9.277 de 1975 y Resoluciones N&#xB0;s. 600 de 1977 y 1.050 de 1980, todos de la Contralor&#xED;a General de la Rep&#xFA;blica; Ords. N&#xB0;s. 0088 de 28 de Enero de 1986 del Instituto Nacional de Investigaci&#xF3;n de Recursos Naturales y 01.984 de 31 de Marzo de 1986 de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n;</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el Instituto Nacional de Investigaci&#xF3;n de Recursos Naturales, posee una camioneta Toyota doble cabina, para uso de actividades de terreno y de promoci&#xF3;n, involucrando la asistencia a ferias y exposiciones, debiendo para estos efectos transportar materiales y a los funcionarios que participan en las ferias antes indicadas,</div><div class=\"p\">&nbsp; &nbsp;  Que, la mayor actividad se desarrolla en d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos, por lo que se hace necesario conceder la autorizaci&#xF3;n correspondiente, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO AL INSTITUTO NACIONAL DE INVESTIGACION DE RECURSOS NATURALES </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 107.- Santiago, 14 de Abril de 1986.- Visto: Art&#xED;culo 3&#xB0; del Decreto Ley No. 799 de 1974, modificado por el DFL No. 12-2.345 de 1979 del Ministerio del Interior; Circular No. 9.277 de 1975 y Resoluciones N&#xB0;s. 600 de 1977 y 1.050 de 1980, todos de la Contralor&#xED;a General de la Rep&#xFA;blica; Ords. N&#xB0;s. 0088 de 28 de Enero de 1986 del Instituto Nacional de Investigaci&#xF3;n de Recursos Naturales y 01.984 de 31 de Marzo de 1986 de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n;</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el Instituto Nacional de Investigaci&#xF3;n de Recursos Naturales, posee una camioneta Toyota doble cabina, para uso de actividades de terreno y de promoci&#xF3;n, involucrando la asistencia a ferias y exposiciones, debiendo para estos efectos transportar materiales y a los funcionarios que participan en las ferias antes indicadas,</div><div class=\"p\">&nbsp; &nbsp;  Que, la mayor actividad se desarrolla en d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos, por lo que se hace necesario conceder la autorizaci&#xF3;n correspondiente, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

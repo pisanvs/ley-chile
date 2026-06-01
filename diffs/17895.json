@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1968-08-23",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1976-03-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8997087,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DECRETO N&#xB0; 1.469, DE 26 DE JULIO DE 1968 MINISTERIO DE HACIENDA APRUEBA REGLAMENTO DE LA CORPORACION DE MAGALLANES (Publicado en el &quot;Diario Oficial&quot; N&#xB0; 27.125, de 22 de agosto de 1968)</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.469.- Santiago, 26 de julio de 1968.- Visto lo dispuesto en los art&#xED;culos 1&#xB0; y 26&#xB0; del la ley 16.813 y en uso de la facultad que me confiere el art&#xED;culo 72&#xB0;, N&#xB0; 2, de la Constituci&#xF3;n Pol&#xED;tica del Estado, DECRETO:</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

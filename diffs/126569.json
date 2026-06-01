@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1980-07-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1984-06-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8336331,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA LA APLICACION DE LOS ARTICULOS 35&#xBA;, 36&#xBA;, 37&#xBA;, 38&#xBA;, INCISO 1&#xBA; Y 61&#xBA; DEL DECRETO LEY N&#xBA; 3.063, DE 1979</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 29 de Mayo de 1980.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 580.- Vistos: El decreto ley N&#xBA; 3.063, de 1979, y las facultades que me otorga el decreto ley n&#xFA;mero 527, de 1974, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando la necesidad de reglamentar lo relativo a la distribuci&#xF3;n del aporte fiscal entre las Municipalidades y la participaci&#xF3;n de &#xE9;stas en el Fondo Com&#xFA;n Municipal,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento que fija el m&#xE9;todo de distribuci&#xF3;n del Aporte Fiscal y del Fondo Com&#xFA;n Municipal entre las Municipalidades del pa&#xED;s y el procedimiento para la remisi&#xF3;n y entero en arcas municipales de esos recursos y de la participaci&#xF3;n contemplada en el art&#xED;culo 37&#xBA;, inciso 2&#xBA;, de la ley. </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA LA APLICACION DE LOS ARTICULOS 35&#xBA;, 36&#xBA;, 37&#xBA;, 38&#xBA;, INCISO 1&#xBA; Y 61&#xBA; DEL DECRETO LEY N&#xBA; 3.063, DE 1979</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 29 de Mayo de 1980.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 580.- Vistos: El decreto ley N&#xBA; 3.063, de 1979, y las facultades que me otorga el decreto ley n&#xFA;mero 527, de 1974, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando la necesidad de reglamentar lo relativo a la distribuci&#xF3;n del aporte fiscal entre las Municipalidades y la participaci&#xF3;n de &#xE9;stas en el Fondo Com&#xFA;n Municipal,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento que fija el m&#xE9;todo de distribuci&#xF3;n del Aporte Fiscal y del Fondo Com&#xFA;n Municipal entre las Municipalidades del pa&#xED;s y el procedimiento para la remisi&#xF3;n y entero en arcas municipales de esos recursos y de la participaci&#xF3;n contemplada en el art&#xED;culo 37&#xBA;, inciso 2&#xBA;, de la ley.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-03-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-11-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8042843,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO N&#xB0; 674, DE 1969, QUE REGLAMENTA ESCUELA DE TASADORES DE LA DIRECCION GENERAL DEL CREDITO PRENDARIO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 46.- Santiago, 24 de Mayo de 1984.- Vistos: El art&#xED;culo 32, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; el art&#xED;culo 3&#xB0; transitorio del DFL N&#xB0; 33, de 08 de Abril de 1983, del Ministerio del Trabajo y Previsi&#xF3;n Social, Subsecretar&#xED;a del Trabajo, publicado en el Diario Oficial de 07 de Junio de 1983, que dispone que mantendr&#xE1; n su vigencia los reglamentos aplicables a la Direcci&#xF3;n General del Cr&#xE9;dito Prendario mientras no se dicten otros que los reemplacen, en cuanto no fueren incompatibles con las normas de dicho cuerpo legal; la necesidad de modernizar las normas por las cuales se rige el funcionamiento de la Escuela de Tasadores de la citada Direcci&#xF3;n General, actualmente contenidas en el decreto supremo N&#xB0; 674, de 1969, del Ministerio del Trabajo y Previsi&#xF3;n Social, y sus modificaciones y lo dispuesto en las leyes N&#xB0; 15.229 y N&#xB0; 18.118,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO N&#xB0; 674, DE 1969, QUE REGLAMENTA ESCUELA DE TASADORES DE LA DIRECCION GENERAL DEL CREDITO PRENDARIO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 46.- Santiago, 24 de Mayo de 1984.- Vistos: El art&#xED;culo 32, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; el art&#xED;culo 3&#xB0; transitorio del DFL N&#xB0; 33, de 08 de Abril de 1983, del Ministerio del Trabajo y Previsi&#xF3;n Social, Subsecretar&#xED;a del Trabajo, publicado en el Diario Oficial de 07 de Junio de 1983, que dispone que mantendr&#xE1; n su vigencia los reglamentos aplicables a la Direcci&#xF3;n General del Cr&#xE9;dito Prendario mientras no se dicten otros que los reemplacen, en cuanto no fueren incompatibles con las normas de dicho cuerpo legal; la necesidad de modernizar las normas por las cuales se rige el funcionamiento de la Escuela de Tasadores de la citada Direcci&#xF3;n General, actualmente contenidas en el decreto supremo N&#xB0; 674, de 1969, del Ministerio del Trabajo y Previsi&#xF3;n Social, y sus modificaciones y lo dispuesto en las leyes N&#xB0; 15.229 y N&#xB0; 18.118,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

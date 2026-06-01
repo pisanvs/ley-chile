@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-02-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-03-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7269605,
+          "old": "<div><div class=\"p\">MODIFICA EL DECRETO SUPREMO N&#xBA; 428, DE 1978</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xFA;m. 1.072.- Santiago, 25 de Noviembre de 1980.- Considerando: Que es necesario, para el debido otorgamiento y control de los pasaportes diplom&#xE1;ticos, oficiales y especiales, actualizar las normas por las que se rigen; y</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Vistos: Los decretos leyes Nos. 1, de 1973; 527 y 806, de 1974; decreto supremo N&#xBA; 428, de 19 de Octubre de 1978, y el decreto con fuerza de ley N&#xBA; 161, de 31 de Marzo de 1978, ambos del Ministerio de Relaciones Exteriores,</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA EL DECRETO SUPREMO N&#xBA; 428, DE 1978</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xFA;m. 1.072.- Santiago, 25 de Noviembre de 1980.- Considerando: Que es necesario, para el debido otorgamiento y control de los pasaportes diplom&#xE1;ticos, oficiales y especiales, actualizar las normas por las que se rigen; y</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Vistos: Los decretos leyes Nos. 1, de 1973; 527 y 806, de 1974; decreto supremo N&#xBA; 428, de 19 de Octubre de 1978, y el decreto con fuerza de ley N&#xBA; 161, de 31 de Marzo de 1978, ambos del Ministerio de Relaciones Exteriores,</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

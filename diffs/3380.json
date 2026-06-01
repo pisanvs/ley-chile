@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1971-06-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9014893,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA ESTATUTO ORGANICO DE LA UNIVERSIDAD DE CHILE N&#xFA;m. 1.- Santiago, 4 de Junio de 1971.</div><div class=\"p\">&nbsp; &nbsp; Vistos: las facultades que me confiere la ley N&#xB0; 17.434, publicada en el Diario Oficial de fecha 21 de Mayo de 1971; el proyecto de Estatuto Org&#xE1;nico de la Universidad de Chile aprobado por el Congreso Universitario transitorio y las modificaciones introducidas por el Parlamento Nacional conforme se establece en la ley citada, dicto el siguiente Decreto con fuerza de ley:</div><div class=\"p\">&nbsp; &nbsp; ESTATUTO ORGANICO DE LA UNIVERSIDAD DE CHILE </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA ESTATUTO ORGANICO DE LA UNIVERSIDAD DE CHILE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> N&#xFA;m. 1.- Santiago, 4 de Junio de 1971.</div><div class=\"p\">&nbsp; &nbsp; Vistos: las facultades que me confiere la ley N&#xB0; 17.434, publicada en el Diario Oficial de fecha 21 de Mayo de 1971; el proyecto de Estatuto Org&#xE1;nico de la Universidad de Chile aprobado por el Congreso Universitario transitorio y las modificaciones introducidas por el Parlamento Nacional conforme se establece en la ley citada, dicto el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><div class=\"p\">&nbsp; &nbsp; ESTATUTO ORGANICO DE LA UNIVERSIDAD DE CHILE</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DFL 153, Hacienda, publicado el 19.01.1982 derog&#xF3; el presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

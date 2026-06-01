@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6021007,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA A LOS CONTRIBUYENTES DE ESTA DIRECCION REGIONAL, PARA LLEVAR LIBROS DE CONTABILIDAD Y/O AUXILIARES EN HOJAS SUELTAS</div><div class=\"p\">&nbsp; &nbsp; Punta Arenas, 21 de Enero de 1992.- Hoy se ha resuelto lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 148 exenta.- Vistos: Las facultades contempladas en los art&#xED;culos 6&#xB0;, letra B, N&#xB0; 5 y 17&#xB0;, inciso 4&#xB0;, del C&#xF3;digo Tributario; lo dispuesto en la Resoluci&#xF3;n, N&#xB0; Ex. 042 de 08.01.92 del Servicio de Impuestos Internos, publicada en el Diario Oficial de 11.01.92; y la Resoluci&#xF3;n N&#xB0; Ex. 262, de 03.10.90, sobre Subrogancia.</div><div class=\"p\">&nbsp; &nbsp; Con lo relacionado, y Considerando:</div><div class=\"p\">&nbsp; &nbsp; La facultad concedida al Director Regional, en el Art. 17&#xB0; del C&#xF3;digo Tributario, para autorizar la sustituci&#xF3;n de libros de contabilidad y/o auxiliares en hojas sueltas, escritas a mano o en otra forma, consultando las garant&#xED;as necesarias para el resguardo de los intereses fiscales.</div><div class=\"p\">&nbsp; &nbsp; Se resuelve:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA A LOS CONTRIBUYENTES DE ESTA DIRECCION REGIONAL, PARA LLEVAR LIBROS DE CONTABILIDAD Y/O AUXILIARES EN HOJAS SUELTAS</div><div class=\"p\">&nbsp; &nbsp; Punta Arenas, 21 de Enero de 1992.- Hoy se ha resuelto lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 148 exenta.- Vistos: Las facultades contempladas en los art&#xED;culos 6&#xB0;, letra B, N&#xB0; 5 y 17&#xB0;, inciso 4&#xB0;, del C&#xF3;digo Tributario; lo dispuesto en la Resoluci&#xF3;n, N&#xB0; Ex. 042 de 08.01.92 del Servicio de Impuestos Internos, publicada en el Diario Oficial de 11.01.92; y la Resoluci&#xF3;n N&#xB0; Ex. 262, de 03.10.90, sobre Subrogancia.</div><div class=\"p\">&nbsp; &nbsp; Con lo relacionado, y Considerando:</div><div class=\"p\">&nbsp; &nbsp; La facultad concedida al Director Regional, en el Art. 17&#xB0; del C&#xF3;digo Tributario, para autorizar la sustituci&#xF3;n de libros de contabilidad y/o auxiliares en hojas sueltas, escritas a mano o en otra forma, consultando las garant&#xED;as necesarias para el resguardo de los intereses fiscales.</div><div class=\"p\">&nbsp; &nbsp; Se resuelve:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1988-06-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-03-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002240,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Toda serolog&#xED;a que se&#xF1;ale un resultado</div><div class=\"p\">positivo para anticuerpos de virus de la</div><div class=\"p\">inmunodeficiencia humana (VIH) deber&#xE1; ser sometida</div><div class=\"p\">obligatoriamente a un examen confirmatorio en el</div><div class=\"p\">Instituto de Salud P&#xFA;blica, y, en caso que este</div><div class=\"p\">Organismo ratifique su resultado, se proceder&#xE1; a</div><div class=\"p\">efectuar la notificaci&#xF3;n correspondiente al Servicio de</div><div class=\"p\">Salud competente, de acuerdo a lo establecido en el</div><div class=\"p\">art&#xED;culo 4&#xB0; del decreto supremo No. 466 de 1987, de este Ministerio.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- La disposici&#xF3;n precedente es de obligatorio cumplimiento para todos los laboratorios del pa&#xED;s, tanto los pertenecientes al Sistema Nacional de Servicios de Salud o a otras instituciones p&#xFA;blicas como los del sector privado. El examen confirmatorio ser&#xE1; gratuito.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;.- El procedimiento de toma y env&#xED;o de muestra de sangre al Instituto de Salud P&#xFA;blica, deber&#xE1; realizarse de acuerdo a las normas t&#xE9;cnicas de bioseguridad, las que se encuentran descritas en las Normas T&#xE9;cnicas y Administrativas para el Control y Manejo del S&#xED;ndrome de Inmunodeficiencia Adquirida (Resoluci&#xF3;n Exenta No. 759 de 11 de agosto de 1987 del Ministerio de Salud). </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Toda serolog&#xED;a que se&#xF1;ale un resultado positivo<span class=\"n\" id=\"n_0\">RES 211 EXENTA<br>SALUD<br>D.O. 22.03.1994</span> para anticuerpos contra el virus de la inmuno deficiencia humana (VIH) deber&#xE1; ser sometida a un nuevo examen en duplicado, utilizando el mismo test de tamizaje.</div><div class=\"p\">&nbsp; &nbsp;  2.- En caso de obtener un resultado positivo en dos de los ex&#xE1;menes a que se refiere el punto anterior, deber&#xE1; requerirse al Instituto de Salud P&#xFA;blica de Chile un examen confirmatorio.</div><div class=\"p\">&nbsp; &nbsp;  3.- Si el Instituto de Salud P&#xFA;blica de Chile ratifica el resultado positivo, el establecimiento requirente proceder&#xE1; a tomar una segunda muestra de sangre para realizar un nuevo examen con el mismo test de tamizaje originalmente efectuado. S&#xF3;lo si este nuevo examen resultare positivo, se practicar&#xE1; la notificaci&#xF3;n obligatoria prevista en el art&#xED;culo 4&#xB0; del decreto supremo N&#xB0; 466, de 1987, del Ministerio de Salud, y se proceder&#xE1; a informar al paciente, por intermedio de personal debidamente entrenado en consejer&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  Las normas contenidas en los numerandos anteriores, ser&#xE1;n obligatorias para todas las instituciones de salud, sean ellas p&#xFA;blicas o privadas.</div><div class=\"p\">&nbsp; &nbsp;  4.- El examen confirmatorio en el Instituto de Salud P&#xFA;blica de Chile ser&#xE1; gratuito. El procedimiento toma de muestra y env&#xED;o de la sangre a ese Instituto se realizar&#xE1; de acuerdo a las Normas T&#xE9;cnicas y Administrativas para el control y manejo del S&#xED;ndrome de Imunodeficiencia Adquirida (SIDA), aprobado por la resoluci&#xF3;n exenta N&#xB0; 759, de 11 de agosto de 1987, del Ministerio de Salud, publicada en el Diario Oficial de 29 de agosto de 1987.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2001-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002239,
+          "old": "<div><div class=\"p\">ESTABLECE OBLIGATORIEDAD DE EXAMEN CONFIRMATORIO QUE INDICA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 478 exenta.- Santiago, 06 de Mayo de 1988.- Visto: Lo dispuesto en el art&#xED;culo 38 del C&#xF3;digo Sanitario; en los art&#xED;culos 4&#xB0; y 6&#xB0; del decreto ley No.</div><div class=\"p\">2.763, de 1979, y en el decreto supremo No. 466, de 1987, del Ministerio de Salud,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE OBLIGATORIEDAD DE EXAMEN CONFIRMATORIO QUE INDICA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 478 exenta.- Santiago, 06 de Mayo de 1988.- Visto: Lo dispuesto en el art&#xED;culo 38 del C&#xF3;digo Sanitario; en los art&#xED;culos 4&#xB0; y 6&#xB0; del decreto ley No.</div><div class=\"p\">2.763, de 1979, y en el decreto supremo No. 466, de 1987, del Ministerio de Salud,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

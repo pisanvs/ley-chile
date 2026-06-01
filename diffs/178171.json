@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1978-04-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-05-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8364812,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Recon&#xF3;cese, por gracia, a don Eduardo Abello Arellano, para todos los efectos legales, el tiempo efectivamente servido entre el 1&#xBA; de Febrero al 2 de Marzo de 1944; 13 de Marzo al 5 de Abril de 1944, y desde el 12 de Julio al 31 de Diciembre de 1944.</div><br><div class=\"p\">&nbsp; &nbsp;  La Caja Nacional de Empleados P&#xFA;blicos y Periodistas, proceder&#xE1; a la recepci&#xF3;n de las imposiciones por el per&#xED;odo se&#xF1;alado, las que ser&#xE1;n de cargo del interesado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Recon&#xF3;cese, por gracia, a don Eduardo Avello Arellano, para todos los efectos legales,<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 03.05.1978</span> el tiempo efectivamente servido entre el 1&#xBA; de Febrero al 2 de Marzo de 1944; 13 de Marzo al 5 de Abril de 1944, y desde el 12 de Julio al 31 de Diciembre de 1944. La Caja Nacional de Empleados P&#xFA;blicos y Periodistas, proceder&#xE1; a la recepci&#xF3;n de las imposiciones por el per&#xED;odo se&#xF1;alado, las que ser&#xE1;n de cargo del interesado. </div></div>"
+        }
+      ]
+    }
+  }
+]

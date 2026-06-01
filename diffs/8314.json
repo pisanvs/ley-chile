@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-12-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8922733,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA CIRCULACION DE VEHICULOS EN DIAS SABADO, DOMINGO Y FESTIVOS A PETROX S.A., REFINERIA DEL PETROLEO Santiago, 4 de octubre de 1996.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 52.- Visto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA CIRCULACION DE VEHICULOS EN DIAS SABADO, DOMINGO Y FESTIVOS A PETROX S.A., REFINERIA DEL PETROLEO Santiago, 4 de octubre de 1996.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 52.- Visto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

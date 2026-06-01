@@ -1,0 +1,38 @@
+[
+  {
+    "fecha": "1959-07-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1964-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9005176,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo ... Los fondos acumulados que existan<span class=\"n\" id=\"n_2\">LEY 15446<br>Art. &#xFA;nico c)<br>D.O. 03.01.1964</span> actualmente por aplicaci&#xF3;n de la ley 13.333, de 16 de julio de 1959, ser&#xE1;n destinados por la Municipalidad de Puchuncav&#xED; como aporte a la Direcci&#xF3;n de Obras Sanitarias para la ejecuci&#xF3;n de la obras de instalaci&#xF3;n del servicio de agua potable en la comuna.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9005165,
+          "old": "<div><div class=\"p\">Ley n&#xFA;m. 13,333</div><br><div class=\"p\">AUTORIZA A LA MUNICIPALIDAD DE PUCHUNCAVI PARA CONTRATAR EL PRESTAMO QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">Ley n&#xFA;m. 13,333</div><br><div class=\"p\">AUTORIZA A LA MUNICIPALIDAD DE PUCHUNCAVI PARA CONTRATAR EL PRESTAMO QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9005166,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Autor&#xED;zase a la Municipalidad de Puchuncav&#xED; para contratar directamente uno o m&#xE1;s empr&#xE9;stitos que produzcan hasta la suma de $ 12.000.000, a un inter&#xE9;s no inferior al 10% anual y con una amortizaci&#xF3;n que extinga la deuda en el plazo m&#xE1;ximo de cinco a&#xF1;os.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Autor&#xED;zase a la Municipalidad de<span class=\"n\" id=\"n_0\">LEY 15446<br>Art. &#xFA;nico a)<br>D.O. 03.01.1964</span> Puchuncav&#xED; para contratar, directamente con el Banco del Estado de Chile u otras instituciones de cr&#xE9;dito o bancarias, uno o m&#xE1;s empr&#xE9;stitos que produzcan hasta la suma de E&#xB0; 40.000 al inter&#xE9;s corriente bancario y con una amortizaci&#xF3;n que extinga la deuda en el plazo m&#xE1;ximo de diez a&#xF1;os.</div><br></div>"
+        },
+        {
+          "part_id": 9005168,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.o El producto del o los empr&#xE9;stitos ser&#xE1; invertido por la Municipalidad en lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp; Aporte para la ejecuci&#xF3;n de las</div><div class=\"p\">&nbsp; &nbsp; obras de instalaci&#xF3;n del servicio</div><div class=\"p\">&nbsp; &nbsp; de agua potable de la comuna&nbsp; &nbsp; &nbsp;  $ 12.000.000.-</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.o El producto del o los empr&#xE9;stitos<span class=\"n\" id=\"n_1\">LEY 15446<br>Art. &#xFA;nico b)<br>D.O. 03.01.1964</span> ser&#xE1; invertido en los siguientes fines:</div><div class=\"p\"> 1) Instalaci&#xF3;n de alumbrado p&#xFA;blico en la</div><div class=\"p\">&nbsp; &nbsp; Greda, Runque, El Paso, Pucal&#xE1;n y otros</div><div class=\"p\">&nbsp; &nbsp; pueblos de la comuna&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; E&#xB0;&nbsp; 20.000</div><div class=\"p\"> 2) Construcci&#xF3;n del nuevo edificio</div><div class=\"p\">&nbsp; &nbsp; municipal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  10.000</div><div class=\"p\"> 3) Adquisici&#xF3;n de terrenos para campos</div><div class=\"p\">&nbsp; &nbsp; deportivos&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  3.000</div><div class=\"p\"> 4) Adquisici&#xF3;n de una ambulancia&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.000</div><div class=\"p\"> 5) Colocaci&#xF3;n de soleras&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2.000</div><div class=\"p\"> 6) Hermoseamiento de la Plaza P&#xFA;blica</div><div class=\"p\">&nbsp; &nbsp; de Puchuncav&#xED;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.000</div><div class=\"p\"> 7) Reparaci&#xF3;n del Matadero Municipal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _______</div><div class=\"p\">&nbsp; &nbsp; TOTAL:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; E&#xB0;&nbsp; 40.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ===========</div><br></div>"
+        }
+      ]
+    }
+  }
+]

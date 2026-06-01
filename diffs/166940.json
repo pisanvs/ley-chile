@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-10-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7268327,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION No. 93, DE 1986, QUE AUTORIZO A SOCIEDAD PESQUERA BIO-BIO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA DISPOSICION QUE INDICA </div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION No. 93, DE 1986, QUE AUTORIZO A SOCIEDAD PESQUERA BIO-BIO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA DISPOSICION QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048414,
+          "old": "<div><div class=\"p\">AUTORIZA A DON SERGIO TORO SOTO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON SERGIO TORO SOTO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

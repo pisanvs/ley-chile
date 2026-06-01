@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-05-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-10-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7326639,
+          "old": "<div><div class=\"p\">COMPLEMENTA RESOLUCION 1.910, DE 1982, SOBRE NORMAS PARA VIVEROS, CRIADEROS Y DEPOSITOS DE PLANTAS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 19 de Mayo de 1989.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 760 exenta.- Visto: El Decreto Ley No. 3.557 de 29 de Diciembre de 1980, publicado en el Diario Oficial del 09 de Febrero de 1981, el Reglamento de la Ley de Semillas contenido en el Decreto 195 de 02 de Julio de 1979 de Agricultura, publicado en el Diario Oficial de 26 de Junio de 1980, la resoluci&#xF3;n de Delegaci&#xF3;n de Facultades expedida por el Director Ejecutivo del Servicio bajo el No. 39 de 1981, la resoluci&#xF3;n 1.910 de 29 de Diciembre de 1982 publicada en el Diario Oficial el 18 de Enero de 1983 en sus art&#xED;culos II A 3, II B 3, II B 4 y Memorandum No. 305 de fecha 07 de Septiembre de 1988 del Departamento de Diagn&#xF3;stico y Vigilancia y</div><div class=\"p\">&nbsp; &nbsp;  Considerando: 1.- Que es necesario complementar los problemas sanitarios regulados en viveros y criaderos de especies frutales basado en nuevas especies y detecci&#xF3;n de otras plagas y enfermedades desde la fecha de la dictaci&#xF3;n de la resoluci&#xF3;n 1.910 de 1982, las que pueden diseminarse por la producci&#xF3;n y comercio de plantas a trav&#xE9;s del territorio nacional.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA RESOLUCION 1.910, DE 1982, SOBRE NORMAS PARA VIVEROS, CRIADEROS Y DEPOSITOS DE PLANTAS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 19 de Mayo de 1989.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 760 exenta.- Visto: El Decreto Ley No. 3.557 de 29 de Diciembre de 1980, publicado en el Diario Oficial del 09 de Febrero de 1981, el Reglamento de la Ley de Semillas contenido en el Decreto 195 de 02 de Julio de 1979 de Agricultura, publicado en el Diario Oficial de 26 de Junio de 1980, la resoluci&#xF3;n de Delegaci&#xF3;n de Facultades expedida por el Director Ejecutivo del Servicio bajo el No. 39 de 1981, la resoluci&#xF3;n 1.910 de 29 de Diciembre de 1982 publicada en el Diario Oficial el 18 de Enero de 1983 en sus art&#xED;culos II A 3, II B 3, II B 4 y Memorandum No. 305 de fecha 07 de Septiembre de 1988 del Departamento de Diagn&#xF3;stico y Vigilancia y</div><div class=\"p\">&nbsp; &nbsp;  Considerando: 1.- Que es necesario complementar los problemas sanitarios regulados en viveros y criaderos de especies frutales basado en nuevas especies y detecci&#xF3;n de otras plagas y enfermedades desde la fecha de la dictaci&#xF3;n de la resoluci&#xF3;n 1.910 de 1982, las que pueden diseminarse por la producci&#xF3;n y comercio de plantas a trav&#xE9;s del territorio nacional.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-07-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5903279,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE COMISION POR GARANTIA DEL ESTADO A BANCOS Y SOCIEDADES FINANCIERAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 248.- Santiago, 21 de Marzo de 1986.- Vistos: Lo dispuesto en el art. 32 n&#xFA;mero 8 de la Constituci&#xF3;n Pol&#xED;tica y en el art&#xED;culo 4&#xB0; de la Ley N&#xB0; 18.442, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE COMISION POR GARANTIA DEL ESTADO A BANCOS Y SOCIEDADES FINANCIERAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 248.- Santiago, 21 de Marzo de 1986.- Vistos: Lo dispuesto en el art. 32 n&#xFA;mero 8 de la Constituci&#xF3;n Pol&#xED;tica y en el art&#xED;culo 4&#xB0; de la Ley N&#xB0; 18.442, Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

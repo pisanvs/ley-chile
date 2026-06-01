@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8301708,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 28, DE 1997</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 281.- Valpara&#xED;so, 21 de febrero de 1997.- Visto: La Resoluci&#xF3;n N&#xBA; 28 de 15 de enero de 1997, de esta Subsecretar&#xED;a; lo dispuesto en el D.F.L. N&#xBA; 5 de 1983; la Ley N&#xBA; 18.892 sobre Pesca y Acuicultura, cuyo texto refundido, coordinado y sistematizado fue fijado por D.S. N&#xBA; 430 de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n;</div><br><div class=\"p\">R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 28, DE 1997</div><br><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 281.- Valpara&#xED;so, 21 de febrero de 1997.- Visto: La Resoluci&#xF3;n N&#xBA; 28 de 15 de enero de 1997, de esta Subsecretar&#xED;a; lo dispuesto en el D.F.L. N&#xBA; 5 de 1983; la Ley N&#xBA; 18.892 sobre Pesca y Acuicultura, cuyo texto refundido, coordinado y sistematizado fue fijado por D.S. N&#xBA; 430 de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n;</div><br><div class=\"p\">R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

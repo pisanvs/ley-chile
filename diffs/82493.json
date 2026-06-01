@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-08-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-10-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313785,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD COMERCIAL LOS CHONOS LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD COMERCIAL LOS CHONOS LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

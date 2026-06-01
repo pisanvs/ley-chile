@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-08-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-05-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8990436,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREA ALMACENES QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.126.- Santiago, 30 de Julio de 1975.</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;- Que es preocupaci&#xF3;n fundamental del Supremo Gobierno adecuar las instituciones a las necesidades actuales del pa&#xED;s a objeto de elevar el nivel de vida de los sectores m&#xE1;s necesitados de la poblaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;- Que corresponde a la Direcci&#xF3;n de Industria y Comercio asegurar a todos los habitantes las mejores condiciones de vida, en especial a aquellos sectores de m&#xE1;s bajos ingresos, a trav&#xE9;s de un abastecimiento adecuado, oportuno y a precios razonables.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;- Que dentro del actual esquema econ&#xF3;mico es obligaci&#xF3;n de la Direcci&#xF3;n de Industria y Comercio facilitar al p&#xFA;blico consumidor la defensa de sus derechos a fin de evitar abusos y especulaciones haciendo operar efectivamente el sistema de mercado.</div><div class=\"p\">&nbsp; &nbsp; 4&#xB0;- Que en este orden de ideas es imperativo crear y mejorar las infraestructuras comerciales destinadas a satisfacer las reales necesidades de compra de art&#xED;culos esenciales, de primera necesidad o de uso o consumo habitual, en aquellos Campamentos o Poblaciones Marginales que no cuenten con comercio establecido, o que el que tienen es tan ineficiente que los precios que pagan estos sectores son muy superiores a los precios normales.</div><div class=\"p\">&nbsp; &nbsp; Vistos: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; N&#xB0; 527, Junio de 1974,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; CREA ALMACENES QUE SE&#xD1;ALA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.126.- Santiago, 30 de Julio de 1975.</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;- Que es preocupaci&#xF3;n fundamental del Supremo Gobierno adecuar las instituciones a las necesidades actuales del pa&#xED;s a objeto de elevar el nivel de vida de los sectores m&#xE1;s necesitados de la poblaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;- Que corresponde a la Direcci&#xF3;n de Industria y Comercio asegurar a todos los habitantes las mejores condiciones de vida, en especial a aquellos sectores de m&#xE1;s bajos ingresos, a trav&#xE9;s de un abastecimiento adecuado, oportuno y a precios razonables.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;- Que dentro del actual esquema econ&#xF3;mico es obligaci&#xF3;n de la Direcci&#xF3;n de Industria y Comercio facilitar al p&#xFA;blico consumidor la defensa de sus derechos a fin de evitar abusos y especulaciones haciendo operar efectivamente el sistema de mercado.</div><div class=\"p\">&nbsp; &nbsp; 4&#xB0;- Que en este orden de ideas es imperativo crear y mejorar las infraestructuras comerciales destinadas a satisfacer las reales necesidades de compra de art&#xED;culos esenciales, de primera necesidad o de uso o consumo habitual, en aquellos Campamentos o Poblaciones Marginales que no cuenten con comercio establecido, o que el que tienen es tan ineficiente que los precios que pagan estos sectores son muy superiores a los precios normales.</div><div class=\"p\">&nbsp; &nbsp; Vistos: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; N&#xB0; 527, Junio de 1974,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 3&#xBA; de la LEY 18121, publicada el 19.05.1982 derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

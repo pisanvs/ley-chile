@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-10-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9163669,
+          "old": "<div><br><div class=\"p\">DELEGA FIRMAS Y ATRIBUCIONES EN COORDINADORES REGIONALES DE EDUCACION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 824.- Santiago, 16 de Agosto de 1974.-</div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que las Coordinaciones Regionales de Educaci&#xF3;n son los organismos encargados de poner en pr&#xE1;ctica el proceso de descentralizaci&#xF3;n administrativa del Ministerio de Educaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  Que es urgente dar a estos organismos los mecanismos administrativos adecuados con el objeto de que la gesti&#xF3;n p&#xFA;blica que se les ha encomendado cumpla con los postulados de eficacia y eficiencia sustentados por el actual Gobierno, y</div><div class=\"p\">&nbsp; &nbsp;  Visto: lo dispuesto en el Art. 72 N&#xB0; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado; en los D. L. 1, 128, 527 y 575; en las leyes 14.832, 16.436, 16.840, 17.301, Arts. 48 y 51; en los D. F. L. 246, de 1953, y 338, de 1960; en los decretos supremos 13.057, de 1969, y 1.586, de 1973; en las resoluciones de la Contralor&#xED;a General de la Rep&#xFA;blica N&#xB0; 1.100, de 1973 y 627, de 1974, y circular N&#xB0;1, de 8 de Julio de 1974, de la Subsecretar&#xED;a General de Gobierno.</div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div></div>",
+          "new": "<div><br><div class=\"p\">DELEGA FIRMAS Y ATRIBUCIONES EN COORDINADORES REGIONALES DE EDUCACION <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 824.- Santiago, 16 de Agosto de 1974.-</div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que las Coordinaciones Regionales de Educaci&#xF3;n son los organismos encargados de poner en pr&#xE1;ctica el proceso de descentralizaci&#xF3;n administrativa del Ministerio de Educaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  Que es urgente dar a estos organismos los mecanismos administrativos adecuados con el objeto de que la gesti&#xF3;n p&#xFA;blica que se les ha encomendado cumpla con los postulados de eficacia y eficiencia sustentados por el actual Gobierno, y</div><div class=\"p\">&nbsp; &nbsp;  Visto: lo dispuesto en el Art. 72 N&#xB0; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado; en los D. L. 1, 128, 527 y 575; en las leyes 14.832, 16.436, 16.840, 17.301, Arts. 48 y 51; en los D. F. L. 246, de 1953, y 338, de 1960; en los decretos supremos 13.057, de 1969, y 1.586, de 1973; en las resoluciones de la Contralor&#xED;a General de la Rep&#xFA;blica N&#xB0; 1.100, de 1973 y 627, de 1974, y circular N&#xB0;1, de 8 de Julio de 1974, de la Subsecretar&#xED;a General de Gobierno.</div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo 1&#xB0; del Decreto 958, Educaci&#xF3;n P&#xFA;blica, publicado el 05.01.1976, complementa la presente norma en el sentido de establecer que las facultades delegadas en los Secretarios Regionales Ministeriales ser&#xE1;n ejercidas por el Secretario Ministerial de Educaci&#xF3;n del Area Metropolitana, a contar desde el 2 de Enero de 1976.</div></div>"
+        }
+      ]
+    }
+  }
+]

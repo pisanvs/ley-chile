@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1977-07-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-08-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8991091,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; INTRODUCE MODIFICACIONES A LA LEGISLACION BANCARIA N&#xFA;m. 1.847.- Santiago, 24 de Junio de 1977.- Visto: lo dispuesto en los decretos leyes N&#xB0;s 1 y 128, de 1973; 527, de 1974; 991, de 1976, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- La conveniencia de que los bancos comerciales puedan emitir obligaciones hipotecarias o letras de cr&#xE9;dito y transferirlas sobre hipotecas a su favor, facultad que en la actualidad tienen los bancos de fomento.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que es conveniente ampliar las facultades que tienen los bancos de fomento para que puedan adquirir por cuenta propia letras de cr&#xE9;dito hipotecario emitidas por otras empresas bancarias.</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; INTRODUCE MODIFICACIONES A LA LEGISLACION BANCARIA N&#xFA;m. 1.847.- Santiago, 24 de Junio de 1977.- Visto: lo dispuesto en los decretos leyes N&#xB0;s 1 y 128, de 1973; 527, de 1974; 991, de 1976, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- La conveniencia de que los bancos comerciales puedan emitir obligaciones hipotecarias o letras de cr&#xE9;dito y transferirlas sobre hipotecas a su favor, facultad que en la actualidad tienen los bancos de fomento.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que es conveniente ampliar las facultades que tienen los bancos de fomento para que puedan adquirir por cuenta propia letras de cr&#xE9;dito hipotecario emitidas por otras empresas bancarias.</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><br></div>"
+        },
+        {
+          "part_id": 8991096,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- En las escrituras p&#xFA;blicas en que sean partes los Bancos Comerciales, los Bancos de Fomento, el Banco del Estado de Chile, el Banco Central de Chile o la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, podr&#xE1;n utilizarse los procedimientos de escrituraci&#xF3;n establecidos en el art&#xED;culo 68 de la ley N&#xB0; 14.171 y en el art&#xED;culo 61 de la ley N&#xB0; 16.391.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- En las escrituras p&#xFA;blicas en que sean partes los Bancos Comerciales, los Bancos de Fomento, las sociedades financieras, el Banco del<span class=\"n\" id=\"n_0\">LEY 18022<br>Art. 4&#xBA;<br>D.O. 19.08.1981</span> Estado de Chile, el Banco Central de Chile o la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, podr&#xE1;n utilizarse los procedimientos de escrituraci&#xF3;n establecidos en el art&#xED;culo 68 de la ley N&#xB0; 14.171 y en el art&#xED;culo 61 de la ley N&#xB0; 16.391.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

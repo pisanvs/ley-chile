@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-09-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8326773,
+          "old": "<div><div class=\"p\">AUTORIZA A ULISES ROMERO BORNE PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A ULISES ROMERO BORNE PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

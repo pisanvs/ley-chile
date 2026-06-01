@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1989-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-02-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6093534,
+          "old": "<div><div class=\"p\">Art&#xED;culo &#xFA;nico: Determ&#xED;nase que la declaraci&#xF3;n de Monumento Hist&#xF3;rico de las Oficinas Salitreras &quot;Santa Laura&quot; y &quot;Humberstone&quot; de la provincia de Iquique, I Regi&#xF3;n de Tarapac&#xE1; y &quot;Chacabuco&quot; de la provincia de Antofagasta, II Regi&#xF3;n de Antofagasta, incluyen las &quot;tortas de ripio&quot; respectivas.</div><br></div>",
+          "new": "<div><div class=\"p\">Art&#xED;culo &#xFA;nico: Determ&#xED;nase que la declaraci&#xF3;n de Monumento Hist&#xF3;rico de las Oficinas Salitreras &quot;Santa Laura&quot; y &quot;Humberstone&quot; de la provincia de Iquique, I Regi&#xF3;n de Tarapac&#xE1; y &quot;Oficina <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1114879&amp;idParte=9884389&amp;idVersion=2018-02-10\">Decreto 9, EDUCACI&#xD3;N<br>Art. 2<br>D.O. 10.02.2018</a></span>Salitrera y Campo de Prisioneros Chacabuco&quot; de la provincia de Antofagasta, II Regi&#xF3;n de Antofagasta, incluyen las &quot;tortas de ripio&quot; respectivas.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1114879,
+      "fecha": "2018-02-10"
+    }
+  }
+]

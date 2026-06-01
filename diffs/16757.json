@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-07-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8483934,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Segundo: Las Pensiones de Gracia que se conceden a los menores, se pagar&#xE1;n hasta que &#xE9;stos cumplan 18 &#xF3; 23 a&#xF1;os de edad, siendo requisito indispensable para su cobro que al comienzo de cada a&#xF1;o lectivo, acrediten ser alumno regular de un plantel educacional.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Segundo: Las Pensiones de Gracia que se<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> conceden a los menores, se pagar&#xE1;n hasta que &#xE9;stos cumplan 18 &#xF3; 23 a&#xF1;os de edad, siendo requisito indispensable para su cobro que al comienzo de cada a&#xF1;o lectivo, acrediten ser alumno regular de un plantel educacional.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 3097, Interior, publicado el 22.07.2000 dej&#xF3; sin efecto el tope de edad de 18 &#xF3; 23 a&#xF1;os y el requisito de acreditar ser alumno regular de un plantel educacional, para pagar la pensi&#xF3;n por gracia otorgada al menor Marcelo Antonio Fuentes Fuentes.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

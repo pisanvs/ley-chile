@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-02-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8330133,
+          "old": "<div><br><div class=\"p\">AUTORIZA A SOCIEDAD CHAPARRAL S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><br><div class=\"p\">AUTORIZA A SOCIEDAD CHAPARRAL S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br></div>"
+        }
+      ]
+    }
+  }
+]

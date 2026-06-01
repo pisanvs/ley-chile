@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-04-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949736,
+          "old": "<div><div class=\"p\">Art&#xED;culo 1&#xB0;.- Autor&#xED;zase, la circulaci&#xF3;n durante los d&#xED;as, s&#xE1;bados, domingos y festivos, a los veh&#xED;culos de la Empresa de Servicios Sanitarios de Tarapac&#xE1; S.A., provisto del correspondiente disco distintivo, en cumplimiento de labores propias de esa Empresa.</div><div class=\"p\">VER TABLA EN DIARIO OFICIAL DE 23 DE ABRIL DE 1992 </div></div>",
+          "new": "<div><div class=\"p\">Art&#xED;culo 1&#xB0;.- Autor&#xED;zase, la circulaci&#xF3;n durante los d&#xED;as, s&#xE1;bados, domingos y festivos, a los veh&#xED;culos de la Empresa de Servicios Sanitarios de Tarapac&#xE1; S.A., provisto del correspondiente disco distintivo, en cumplimiento de labores propias de esa Empresa.</div><div class=\"p\"> VER TABLA EN DIARIO OFICIAL DE 23 DE ABRIL DE 1992</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 1&#xB0; del DTO 449 exento, Econom&#xED;a, publicado el 28.01.2000, elimin&#xF3; del listado publicado en el Diario Oficial, los veh&#xED;culos que indica, los cuales fueron dados de baja y reemplazados por otros.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

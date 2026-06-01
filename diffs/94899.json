@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-01-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325516,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A LUISA MU&#xD1;OZ CHEUQUEL PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A LUISA MU&#xD1;OZ CHEUQUEL PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

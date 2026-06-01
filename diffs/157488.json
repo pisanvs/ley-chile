@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-03-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-11-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6238630,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;ABARCA Y COMPA&#xD1;IA LIMITADA&quot; PARA CAMBIAR DE UBICACION PLANTA QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;ABARCA Y COMPA&#xD1;IA LIMITADA&quot; PARA CAMBIAR DE UBICACION PLANTA QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

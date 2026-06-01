@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1968-09-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8956884,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o- Fac&#xFA;ltase a las Empresas del Estado para donar material en desuso que sirva para construir plazas de juegos infantiles o campos deportivos, cuando lo soliciten las autoridades educacionales en beneficio de las Escuelas Fiscales Primarias. Asimismo, la Empresa de los Ferrocarriles del Estado ceder&#xE1; gratuitamente las campanas de las locomotoras en desuso para ser destinadas a las Escuelas Fiscales Rurales.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o- DEROGADO<span class=\"n\" id=\"n_0\">LEY 18091<br>Art. 3&#xBA;<br>D.O. 30.12.1981</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

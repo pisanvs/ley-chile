@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-06-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6252833,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xBA; 170, DE 1984 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xBA; 170, DE 1984</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-06-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-12-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8341455,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA EICOMAR S,A. PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA EICOMAR S,A. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

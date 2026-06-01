@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-12-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-08-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7196666,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA INSTITUCIONES OFICIALES DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION</div><div class=\"p\">&nbsp; &nbsp; Santiago, 18 de Noviembre de 1993.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 554.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1 o del D.S. N&#xB0;4 (V.y U.), de 1992, Ordenanza General de Urbanismo y Construcciones y las facultades que me otorga el D.L. N&#xB0;1.305, de 1976,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA INSTITUCIONES OFICIALES DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 18 de Noviembre de 1993.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 554.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1 o del D.S. N&#xB0;4 (V.y U.), de 1992, Ordenanza General de Urbanismo y Construcciones y las facultades que me otorga el D.L. N&#xB0;1.305, de 1976,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

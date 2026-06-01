@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-02-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8924923,
+          "old": "<div><div class=\"p\">AUTORIZA EXISTENCIA Y APRUEBA ESTATUTOS DE LA &quot;COMPA&#xD1;IA DE SEGUROS DE VIDA CONTINENTAL S.A.&quot; </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 7 de Febrero de 1990. Hoy se resolvi&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 22 exenta.- Vistos: la solicitud adjunta e informes emitidos y lo dispuesto en el art&#xED;culo 126 de la Ley No. 18.046,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA EXISTENCIA Y APRUEBA ESTATUTOS DE LA &quot;COMPA&#xD1;IA DE SEGUROS DE VIDA CONTINENTAL S.A.&quot; </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 7 de Febrero de 1990. Hoy se resolvi&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 22 exenta.- Vistos: la solicitud adjunta e informes emitidos y lo dispuesto en el art&#xED;culo 126 de la Ley No. 18.046,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

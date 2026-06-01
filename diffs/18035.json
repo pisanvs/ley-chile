@@ -1,0 +1,62 @@
+[
+  {
+    "fecha": "1967-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1984-02-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8696073,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;: El izamiento del pabell&#xF3;n extranjero<span class=\"n\" id=\"n_0\">DTO 1568, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 28.02.1984</span> en las embajadas y sedes de los Consulados, se ajustar&#xE1; a lo establecido por las Convenciones de Viena, sobre Relaciones Diplom&#xE1;ticas y Consulares respectivamente.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, las personas naturales o jur&#xED;dicas extranjeras domiciliadas en el pa&#xED;s, de naciones con las que Chile mantiene relaciones diplom&#xE1;ticas o consulares, podr&#xE1;n izar el pabell&#xF3;n de su pa&#xED;s en las oportunidades establecidas en el art&#xED;culo 2&#xB0; del presente decreto, o cuando celebren su aniversario patrio, en cuyo caso deber&#xE1; igualmente izarse la bandera chilena, d&#xE1;ndose en todo cumplimiento a las formalidades dispuestas en el art&#xED;culo 4&#xB0;.</div><br></div>"
+        },
+        {
+          "part_id": 8696074,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0; La violaci&#xF3;n de lo preceptuado en los<span class=\"n\" id=\"n_1\">DTO 1568, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 28.02.1984</span> art&#xED;culos precedentes autorizar&#xE1; al Intendente o Gobernador para ordenar el inmediato retiro del emblema, sin perjuicio de las sanciones que establezcan al respecto las leyes.</div><div class=\"p\">&nbsp; &nbsp; Si la violaci&#xF3;n se hiciere con &#xE1;nimo de ultraje, la sanci&#xF3;n se sujetar&#xE1; a lo dispuesto en su caso por la Ley de Seguridad Interior del Estado o el C&#xF3;digo de Justicia Militar.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2013-01-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9330123,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0; bis: Con excepci&#xF3;<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1048462&amp;idParte=9330110&amp;idVersion=2013-01-29\">Decreto 938,<br>INTERIOR<br>Art. &#xDA;NICO N&#xBA; 2<br>D.O. 29.01.2013</a></span>n de lo dispuesto en el art&#xED;culo precedente, cuando se usen o icen conjuntamente con la Bandera Nacional, a las banderas o pabellones regionales se aplicar&#xE1;n las normas establecidas en el presente reglamento para los pabellones extranjeros.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  En los dem&#xE1;s casos, las banderas o pabellones regionales se usar&#xE1;n o izar&#xE1;n en la forma dispuesta en el art&#xED;culo 3&#xB0;.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8696065,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; Con excepci&#xF3;n de los d&#xED;as 21 de mayo y 18 y 19 de septiembre de cada a&#xF1;o, en que deber&#xE1; izarse obligatoriamente y al tope, ninguna persona ni reuni&#xF3;n de personas podr&#xE1; usar en p&#xFA;blico y enarbolar en los edificios p&#xFA;blicos o particulares la <a href=\"https://www.leychile.cl/Navegar?idNorma=23382&amp;idParte=0&amp;idVersion=\">Bandera Nacional</a> sin la correspondiente autorizaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Los Intendentes y Gobernadores podr&#xE1;n ordenar o permitir el uso o izamiento al tope o a media asta de la Bandera Nacional en el territorio de su jurisdicci&#xF3;n, con autorizaci&#xF3;n previa del Ministerio del Interior, en aquellos casos en que haya motivo justificado, pudiendo hacerla extensiva al uso o colocaci&#xF3;n de los dem&#xE1;s emblemas nacionales, sin perjuicio de lo establecido en el art&#xED;culo 8&#xB0; del presente decreto y del libre uso de la escarapela o cucarda.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 2&#xBA;: Con excepci&#xF3;n <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1048462&amp;idParte=9330110&amp;idVersion=2013-01-29\">Decreto 938,<br>INTERIOR<br>Art. &#xDA;NICO N&#xBA; 1<br>D.O. 29.01.2013</a></span> de los d&#xED;as 21 de mayo y 18 y 19 de septiembre de cada a&#xF1;o, en que deber&#xE1; izarse obligatoriamente y al tope, la <a href=\"https://www.leychile.cl/Navegar?idNorma=23382&amp;idParte=&amp;idVersion=\">Bandera Nacional</a> podr&#xE1; usarse o izarse sin autorizaci&#xF3;n previa, cuidando siempre de resguardar el respeto de la misma y de observar las disposiciones de este reglamento.</div><br><div class=\"p\">&nbsp; &nbsp;  Los Intendentes y Gobernadores podr&#xE1;n ordenar o permitir el uso o izamiento a media asta de la Bandera Nacional en el territorio de su jurisdicci&#xF3;n, con autorizaci&#xF3;n previa del Ministerio del Interior y Seguridad P&#xFA;blica, en aquellos casos en que haya motivo justificado, pudiendo hacerla extensiva al uso o colocaci&#xF3;n de los dem&#xE1;s emblemas nacionales o regionales, sin perjuicio de lo establecido en el art&#xED;culo 8&#xB0; del presente decreto y del libre uso de la escarapela o cucarda.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8696073,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;: El izamiento del pabell&#xF3;n extranjero<span class=\"n\" id=\"n_0\">DTO 1568, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 28.02.1984</span> en las embajadas y sedes de los Consulados, se ajustar&#xE1; a lo establecido por las Convenciones de Viena, sobre Relaciones Diplom&#xE1;ticas y Consulares respectivamente.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, las personas naturales o jur&#xED;dicas extranjeras domiciliadas en el pa&#xED;s, de naciones con las que Chile mantiene relaciones diplom&#xE1;ticas o consulares, podr&#xE1;n izar el pabell&#xF3;n de su pa&#xED;s en las oportunidades establecidas en el art&#xED;culo 2&#xB0; del presente decreto, o cuando celebren su aniversario patrio, en cuyo caso deber&#xE1; igualmente izarse la bandera chilena, d&#xE1;ndose en todo cumplimiento a las formalidades dispuestas en el art&#xED;culo 4&#xB0;.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;: El izamiento del pabell&#xF3;n extranjero<span class=\"n\" id=\"n_1\">DTO 1568, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 28.02.1984</span> en las embajadas y sedes de los Consulados, se ajustar&#xE1; a lo establecido por las Convenciones de Viena, sobre Relaciones Diplom&#xE1;ticas y Consulares respectivamente.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, las personas naturales o jur&#xED;dicas extranjeras domiciliadas en el pa&#xED;s, de naciones con las que Chile mantiene relaciones diplom&#xE1;ticas o consulares, podr&#xE1;n izar el pabell&#xF3;n de su pa&#xED;s en las oportunidades establecidas en el art&#xED;culo 2&#xB0; del presente decreto, o cuando celebren su aniversario patrio, en cuyo caso deber&#xE1; igualmente izarse la bandera chilena, d&#xE1;ndose en todo cumplimiento a las formalidades dispuestas en el art&#xED;culo 4&#xB0;.</div><br></div>"
+        },
+        {
+          "part_id": 8696074,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0; La violaci&#xF3;n de lo preceptuado en los<span class=\"n\" id=\"n_1\">DTO 1568, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 28.02.1984</span> art&#xED;culos precedentes autorizar&#xE1; al Intendente o Gobernador para ordenar el inmediato retiro del emblema, sin perjuicio de las sanciones que establezcan al respecto las leyes.</div><div class=\"p\">&nbsp; &nbsp; Si la violaci&#xF3;n se hiciere con &#xE1;nimo de ultraje, la sanci&#xF3;n se sujetar&#xE1; a lo dispuesto en su caso por la Ley de Seguridad Interior del Estado o el C&#xF3;digo de Justicia Militar.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0; La violaci&#xF3;n de lo preceptuado en los<span class=\"n\" id=\"n_3\">DTO 1568, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 28.02.1984</span> art&#xED;culos precedentes autorizar&#xE1; al Intendente o Gobernador para ordenar el inmediato retiro del emblema, sin perjuicio de las sanciones que establezcan al respecto las leyes.</div><div class=\"p\">&nbsp; &nbsp; Si la violaci&#xF3;n se hiciere con &#xE1;nimo de ultraje, la sanci&#xF3;n se sujetar&#xE1; a lo dispuesto en su caso por la Ley de Seguridad Interior del Estado o el C&#xF3;digo de Justicia Militar.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1048462,
+      "fecha": "2013-01-29"
+    }
+  }
+]

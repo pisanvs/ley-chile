@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-07-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8356443,
+          "old": "<div><div class=\"p\">AUTORIZA A INDUSTRIAS MARINAS LIMITADA, IMASA LTDA., PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A INDUSTRIAS MARINAS LIMITADA, IMASA LTDA., PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

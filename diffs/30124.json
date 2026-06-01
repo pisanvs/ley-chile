@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1988-09-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-04-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9075673,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; I.- CREACION DE LA UNIVERSIDAD DEL BIO-BIO {ARTS. 1-8}</div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Cr&#xE9;ase la Universidad del B&#xED;o-B&#xED;o, instituci&#xF3;n de educaci&#xF3;n superior del Estado, como organismo aut&#xF3;nomo, con personalidad jur&#xED;dica y patrimonio propios. Sus estatutos fijar&#xE1;n su domicilio el que, en todo caso, deber&#xE1; estar dentro de la Octava Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; La representaci&#xF3;n legal de la Universidad que se crea corresponder&#xE1; al Rector.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; I.- CREACION DE LA UNIVERSIDAD DEL BIO-BIO {ARTS. 1-8}</div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Cr&#xE9;ase la Universidad del B&#xED;o-B&#xED;o, instituci&#xF3;n de educaci&#xF3;n superior del Estado, como organismo aut&#xF3;nomo, con personalidad jur&#xED;dica y patrimonio propios. Sus <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1202952&amp;idParte=10498145&amp;idVersion=2024-04-26\">Ley 21661<br>Art. 2<br>D.O. 26.04.2024</a></span>estatutos fijar&#xE1;n los domicilios de sus respectivas sedes, las que deber&#xE1;n estar dentro de la Regi&#xF3;n del Biob&#xED;o y en alguna regi&#xF3;n contigua, atendiendo al car&#xE1;cter birregional de la universidad, de conformidad con lo se&#xF1;alado en el art&#xED;culo 1 de la ley N&#xB0; 21.094, sobre Universidades Estatales.</div><div class=\"p\">&nbsp; &nbsp; La representaci&#xF3;n legal de la Universidad que se crea corresponder&#xE1; al Rector.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1202952,
+      "fecha": "2024-04-26"
+    }
+  }
+]

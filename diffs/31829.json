@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "1995-08-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-12-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7193617,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- F&#xED;janse al interior de la zona urbana de la comuna de Rancagua, los siguientes trazados que deber&#xE1;n utilizar los servicios de locomoci&#xF3;n colectiva rural e interurbana, para ingresar y salir del Terminal Rodoviario, ubicado en calle Dr. Salinas N&#xB0; 115.</div><div class=\"p\"> _______________________________________________________</div><div class=\"p\"> | NOTA: VER DIARIO OFICIAL N&#xB0; 35.255 DEL DIA MARTES&nbsp;  |</div><div class=\"p\"> |&nbsp; &nbsp; &nbsp;  29 DE AGOSTO DE 1995, PAGINA 4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</div><div class=\"p\"> |_____________________________________________________|</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- F&#xED;janse, al interior de la zona urbana de la comuna de Rancagua, los siguientes trazados que deber&#xE1;n utilizar los servicios de locomoci&#xF3;n colectiva interurbana para ingresar y salir del Terminal ubicado en calle O&apos;Carrol N&#xB0; 1179.</div><div class=\"p\">&nbsp; _____________________________________________________</div><div class=\"p\"> | NOTA: VER DIARIO OFICIAL N&#xB0; 35.255 DEL DIA MARTES&nbsp;  |</div><div class=\"p\"> |&nbsp; &nbsp; &nbsp;  29 DE AGOSTO DE 1995, PAGINA 4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</div><div class=\"p\"> |_____________________________________________________|</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia transcurridos treinta d&#xED;as de la fecha de su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culos Transitorios</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Los servicios rurales e interurbanos descritos en el numeral 1 letra a).- durante el tiempo de ejecuci&#xF3;n de los trabajos de construcci&#xF3;n del cruce de Av. Las Torres con la Ruta 5 y de la calzada Sur de calle Mill&#xE1;n entre Av. Estaci&#xF3;n y Av. Cachapoal, deber&#xE1;n utilizar entre la Ruta 5 y el Terminal Rodoviario de calle Dr. Salinas N&#xB0; 115, el siguiente trazado:</div><div class=\"p\"> Acceso : Av. Cachapoal-Mill&#xE1;n-Calvo-Bombero</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ruid&#xED;az.</div><div class=\"p\">&nbsp; Salida : Vi&#xF1;a del Mar-Av. La Marina-Av.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Estaci&#xF3;n-Maruri-Ibieta-Alc&#xE1;zar-Mill&#xE1;n-Av.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Cachapoal o bien Vi&#xF1;a del Mar-Av.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Estaci&#xF3;n-Maruri-Ibieta-Campos-Palominos-</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Cachapoal.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Los servicios rurales e interurbanos descritos en los numerales 1 letra b) y 2.- durante el tiempo de ejecuci&#xF3;n de los trabajos que permitan acceder a la Ruta 5, en direcci&#xF3;n Norte por Avda. Rep&#xFA;blica de Chile, deber&#xE1;n utilizar desde los terminales ubicados en calles Dr. Salinas N&#xB0; 115, y O&apos;Carrol N&#xB0; 1179, hasta la Ruta 5, respectivamente, los siguientes trazados:</div><div class=\"p\">-&nbsp; Bombero Ruid&#xED;az - Av. Libertador B. O&apos;Higgins.</div><div class=\"p\">-&nbsp; Calvo - Bombero Ruid&#xED;az - Av. Libertador B.</div><div class=\"p\">&nbsp;  O&apos;Higgins.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1008677&amp;idParte=8811831&amp;idVersion=2009-12-02\">Resoluci&#xF3;n 978 EXENTA,<br>TRANSPORTES<br>N&#xBA; 3<br>D.O. 02.12.2009</a></span>&nbsp; &nbsp; 1&#xB0;.- SUPRIMIDO</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- SUPRIMIDO</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia transcurridos treinta d&#xED;as de la fecha de su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culos Transitorios</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Los servicios rurales e interurbanos descritos en el numeral 1 letra a).- durante el tiempo de ejecuci&#xF3;n de los trabajos de construcci&#xF3;n del cruce de Av. Las Torres con la Ruta 5 y de la calzada Sur de calle Mill&#xE1;n entre Av. Estaci&#xF3;n y Av. Cachapoal, deber&#xE1;n utilizar entre la Ruta 5 y el Terminal Rodoviario de calle Dr. Salinas N&#xB0; 115, el siguiente trazado:</div><div class=\"p\"> Acceso : Av. Cachapoal-Mill&#xE1;n-Calvo-Bombero</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ruid&#xED;az.</div><div class=\"p\">&nbsp; Salida : Vi&#xF1;a del Mar-Av. La Marina-Av.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Estaci&#xF3;n-Maruri-Ibieta-Alc&#xE1;zar-Mill&#xE1;n-Av.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Cachapoal o bien Vi&#xF1;a del Mar-Av.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Estaci&#xF3;n-Maruri-Ibieta-Campos-Palominos-</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Cachapoal.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Los servicios rurales e interurbanos descritos en los numerales 1 letra b) y 2.- durante el tiempo de ejecuci&#xF3;n de los trabajos que permitan acceder a la Ruta 5, en direcci&#xF3;n Norte por Avda. Rep&#xFA;blica de Chile, deber&#xE1;n utilizar desde los terminales ubicados en calles Dr. Salinas N&#xB0; 115, y O&apos;Carrol N&#xB0; 1179, hasta la Ruta 5, respectivamente, los siguientes trazados:</div><div class=\"p\">-&nbsp; Bombero Ruid&#xED;az - Av. Libertador B. O&apos;Higgins.</div><div class=\"p\">-&nbsp; Calvo - Bombero Ruid&#xED;az - Av. Libertador B.</div><div class=\"p\">&nbsp;  O&apos;Higgins.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1008677,
+      "fecha": "2009-12-02"
+    }
+  },
+  {
+    "fecha": "2010-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

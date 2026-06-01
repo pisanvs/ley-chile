@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-09-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-02-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6151492,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El domicilio de la mencionada Corporaci&#xF3;n ser&#xE1; la ciudad de Valpara&#xED;so, sin perjuicio de las distintas oficinas o concultorios que funcionan dentro de su radio jurisdiccional el que comprender&#xE1; la Primera, la Segunda, Tercera, Cuarta y Quinta Regiones. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El domicilio de la mencionada<span class=\"n\" id=\"n_0\">DFL 2, JUSTICIA<br>Art. &#xFA;nico<br>D.O. 17.02.1988</span> Corporaci&#xF3;n ser&#xE1; la ciudad de Valpara&#xED;so, sin perjuicio de las distintas oficinas o consultorios que funcionan dentro de su radio jurisdiccional el que comprender&#xE1; la Tercera, Cuarta y Quinta Regiones.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

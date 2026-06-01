@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-11-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7202744,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 901/92 SOBRE INTERNACION DE SEMILLAS DE CEREALES HUESPEDES DE TILLETIA INDICA </div><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de octubre de 1996.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 3.279 exenta.- Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, la Resoluci&#xF3;n N&#xB0; 350 de 1981, N&#xB0; 833, N&#xB0; 477 de 1992 y N&#xB0; 901 de 1992 todas expedidas por Servicio Agr&#xED;cola y Ganadero.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; - Que el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las normas destinadas a evitar la introducci&#xF3;n de plagas cuarentenarias en el pa&#xED;s, las que deben ser adecuadas a las circunstancias.</div><div class=\"p\">&nbsp; &nbsp; - Que el an&#xE1;lisis de riesgo correspondiente para los pat&#xF3;genos cuarentenarios y su posible introducci&#xF3;n al pa&#xED;s demuestra que es necesario modificar los procedimientos fitosanitarios para la internaci&#xF3;n de semillas cereales.</div><div class=\"p\">&nbsp; &nbsp; - Que contar con &#xE1;reas libres de pat&#xF3;genos como Tilletia spp. es cada vez m&#xE1;s improbable, si se considera la epidemiolog&#xED;a de los carbones.</div><br><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 901/92 SOBRE INTERNACION DE SEMILLAS DE CEREALES HUESPEDES DE TILLETIA INDICA </div><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de octubre de 1996.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 3.279 exenta.- Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, la Resoluci&#xF3;n N&#xB0; 350 de 1981, N&#xB0; 833, N&#xB0; 477 de 1992 y N&#xB0; 901 de 1992 todas expedidas por Servicio Agr&#xED;cola y Ganadero.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; - Que el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las normas destinadas a evitar la introducci&#xF3;n de plagas cuarentenarias en el pa&#xED;s, las que deben ser adecuadas a las circunstancias.</div><div class=\"p\">&nbsp; &nbsp; - Que el an&#xE1;lisis de riesgo correspondiente para los pat&#xF3;genos cuarentenarios y su posible introducci&#xF3;n al pa&#xED;s demuestra que es necesario modificar los procedimientos fitosanitarios para la internaci&#xF3;n de semillas cereales.</div><div class=\"p\">&nbsp; &nbsp; - Que contar con &#xE1;reas libres de pat&#xF3;genos como Tilletia spp. es cada vez m&#xE1;s improbable, si se considera la epidemiolog&#xED;a de los carbones.</div><br><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

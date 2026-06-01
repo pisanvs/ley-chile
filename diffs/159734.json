@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6246290,
+          "old": "<div><div class=\"p\">DICTA ORDENANZA LOCAL SOBRE DERECHOS MUNICIPALES POR CONCESIONES, PERMISOS Y SERVICIOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 35.- Ninhue, Enero 22 de 1986.- Vistos: Lo dispuesto en los Art&#xED;culos 42&#xB0;, 43&#xB0; y dem&#xE1;s pertinentes del D.L. 3.063 de 1979 sobre Rentas Municipales y las facultades que me confiere el DL n&#xFA;mero 1.289 de 1975 sobre Ley Org&#xE1;nica de Municipalidades y Administraci&#xF3;n Comunal, y debido a la necesidad de modificar, agregar y eliminar algunos derechos determinados en la Ordenanza Local sobre Derechos Municipales por Concesiones, Permisos y Servicios incluidos en el Decreto N&#xB0; 59 del 30 de Diciembre de 1980,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Dictase la siguiente Ordenanza para la Comuna de Ninhue, sobre Derechos Municipales por concesiones, permisos y servicios, que regir n a contar de la fecha de publicaci&#xF3;n en el Diario Oficial.</div><br></div>",
+          "new": "<div><div class=\"p\">DICTA ORDENANZA LOCAL SOBRE DERECHOS MUNICIPALES POR CONCESIONES, PERMISOS Y SERVICIOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 35.- Ninhue, Enero 22 de 1986.- Vistos: Lo dispuesto en los Art&#xED;culos 42&#xB0;, 43&#xB0; y dem&#xE1;s pertinentes del D.L. 3.063 de 1979 sobre Rentas Municipales y las facultades que me confiere el DL n&#xFA;mero 1.289 de 1975 sobre Ley Org&#xE1;nica de Municipalidades y Administraci&#xF3;n Comunal, y debido a la necesidad de modificar, agregar y eliminar algunos derechos determinados en la Ordenanza Local sobre Derechos Municipales por Concesiones, Permisos y Servicios incluidos en el Decreto N&#xB0; 59 del 30 de Diciembre de 1980,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Dictase la siguiente Ordenanza para la Comuna de Ninhue, sobre Derechos Municipales por concesiones, permisos y servicios, que regir&#xE1;n a contar de la fecha de publicaci&#xF3;n en el Diario Oficial.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

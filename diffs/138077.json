@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1967-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-10-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6174160,
+          "old": "<div><div class=\"p\">LEY NUM. 16.662</div><br><div class=\"p\">ESTABLECE &quot;DIA DEL MAESTRO&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha tenido a bien prestar su aprobaci&#xF3;n al siguiente,</div><br><div class=\"p\">Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">ESTABLECE &quot;DIA DEL MAESTRO&quot;<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha tenido a bien prestar su aprobaci&#xF3;n al siguiente,</div><br><div class=\"p\">Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 3&#xBA; del DL 1938, Educaci&#xF3;n, publicado el 08.10.1977, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-07-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320405,
+          "old": "<div><div class=\"p\">AUTORIZA A LA ASOCIACION GREMIAL DE ALGUEROS, PESCADORES ARTESANALES Y RAMOS AFINES DEL ESTERO DE HUILDAD, COMUNA DE QUELLON PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA ASOCIACION GREMIAL DE ALGUEROS, PESCADORES ARTESANALES Y RAMOS AFINES DEL ESTERO DE HUILDAD, COMUNA DE QUELLON PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

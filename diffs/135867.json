@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-03-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-08-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8344502,
+          "old": "<div><div class=\"p\">AUTORIZA A DON HONORIO GARCES VERGARA,PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON HONORIO GARCES VERGARA,PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

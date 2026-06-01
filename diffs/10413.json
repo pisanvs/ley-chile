@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-10-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-01-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8948757,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;: En caso de arrendamiento de naves para el servicio del tr&#xE1;fico, y siempre que ello sea posible en igualdad de condiciones, los armadores y empresas navieras chilenas deber&#xE1;n dar preferencia de acuerdo a la siguiente prioridad:</div><br><div class=\"p\"> 1&#xB0;&nbsp;  Naves chilenas</div><div class=\"p\"> 2&#xB0;&nbsp;  Naves brasileras, y</div><div class=\"p\"> 3&#xB0;&nbsp;  Otras naves o de tercera bandera</div><br><div class=\"p\">&nbsp; &nbsp; La falta de naves chilenas y brasileras, susceptibles de ser tomadas en arriendo, deber&#xE1; acreditarse mediante un certificado emitido por el Acuerdo de Tarifas y Servicios (Comit&#xE9; de Santiago) a que se refiere el Convenio o por un corredor de naves (broker) -chileno. Este documento deber&#xE1; emitirse con una anticipaci&#xF3;n no superior a 10 (diez) d&#xED;as h&#xE1;biles de la fecha de celebraci&#xF3;n del contrato de arrendamiento.</div><div class=\"p\">&nbsp; &nbsp; Los armadores o empresas navieras autorizadas, podr&#xE1;n hacer uso de hasta seis fletamentos de naves extranjeras, dentro del a&#xF1;o calendario, entre el 1&#xB0; de Enero y 31 de Diciembre, para operar en el servicio del tr&#xE1;fico. Los contratos de fletamento deber&#xE1;n ser registrados, en forma previa, ante la Autoridad del Convenio.</div><div class=\"p\">&nbsp; &nbsp; Ser&#xE1; obligatorio que, a lo menos, la mitad de las salidas en cada sentido del tr&#xE1;fico, por cada empresa autorizada, sean prestadas con naves de bandera chilena, en el respectivo a&#xF1;o calendario.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;: En caso de arrendamiento de naves para el servicio del tr&#xE1;fico, y siempre que ello sea posible en igualdad de condiciones, los armadores y empresas navieras chilenas deber&#xE1;n dar preferencia de acuerdo a la siguiente prioridad:</div><br><div class=\"p\"> 1&#xB0;&nbsp;  Naves chilenas</div><div class=\"p\"> 2&#xB0;&nbsp;  Naves brasileras, y</div><div class=\"p\"> 3&#xB0;&nbsp;  Otras naves o de tercera bandera</div><br><div class=\"p\">&nbsp; &nbsp; La falta de naves chilenas y brasileras, susceptibles de ser tomadas en arriendo, deber&#xE1; acreditarse mediante un certificado emitido por el Acuerdo de Tarifas y Servicios (Comit&#xE9; de Santiago) a que se refiere el Convenio o por un corredor de naves (broker) -chileno. Este documento deber&#xE1; emitirse con una anticipaci&#xF3;n no superior a 10 (diez) d&#xED;as h&#xE1;biles de la fecha de celebraci&#xF3;n del contrato de arrendamiento.</div><div class=\"p\">&nbsp; &nbsp; Los armadores o empresas navieras autorizadas, podr&#xE1;n hacer uso de hasta seis fletamentos de naves extranjeras, dentro del a&#xF1;o calendario, entre el 1&#xB0; de Enero y 31 de Diciembre, para operar en el servicio del tr&#xE1;fico. Los contratos de fletamento deber&#xE1;n ser registrados, en forma previa, ante la Autoridad del Convenio.</div><div class=\"p\">&nbsp; &nbsp; Ser&#xE1; obligatorio que, a lo menos, un tercio de las<span class=\"n\" id=\"n_0\">DTO 104, TRANSPORTES<br>Art. 1&#xBA;<br>D.O. 07.01.2009</span> salidas en cada sentido del tr&#xE1;fico, por cada empresa autorizada, sean prestadas con naves de bandera chilena, en el respectivo a&#xF1;o calendario.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

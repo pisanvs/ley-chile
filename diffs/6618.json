@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1976-05-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-10-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8791945,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA ESTATUTO DE CAPACITACION Y EMPLEO N&#xFA;m. 1.446.- Santiago, 1&#xB0; de Mayo de 1976.- Vistos: lo dispuesto en los decretos leyes N&#xB0; 1 y 128, de 1973, y 527, de 1974, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;- Que el Estatuto Social de la Empresa, aprobado por decreto ley N&#xB0; 1.006, de 1975, se fundamenta en la necesidad de crear estructuras que constituyan cimientos del nuevo orden social que el Supremo Gobierno persigue establecer, basadas en los principios de pluralidad y subsidiariedad del Estado;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;- Que dicho Estatuto, seg&#xFA;n su art&#xED;culo 1&#xB0;, no s&#xF3;lo est&#xE1; constituido por las normas del decreto ley citado, sino adem&#xE1;s por todas aquellas que regulan la interrelaci&#xF3;n de la empresa, los inversionistas, los trabajadores y la sociedad;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;- Que entre estas normas deben estar las relativas a la capacitaci&#xF3;n ocupacional de los trabajadores y al fomento del empleo, mediante acciones de colocaci&#xF3;n e informaci&#xF3;n, todo ello al servicio de una pol&#xED;tica integral de recursos humanos y de pleno empleo;</div><div class=\"p\">&nbsp; &nbsp; 4&#xB0;- Que la estructuraci&#xF3;n y desarrollo de la capacitaci&#xF3;n ocupacional y de la colocaci&#xF3;n constituyen factores de regulaci&#xF3;n del mercado de trabajo, permitiendo el m&#xE1;s amplio desarrollo de las aptitudes intelectuales, t&#xE9;cnicas y laborales de los trabajadores, y el mejor aprovechamiento de los recursos humanos, haciendo as&#xED; posible una mayor productividad;</div><div class=\"p\">&nbsp; &nbsp; 5&#xB0;- Que el sistema de capacitaci&#xF3;n ocupacional y de fomento del empleo requiere de un ordenamiento jur&#xED;dico que garantice su eficacia, resguarde los derechos de los particulares, describa las acciones y competencias, cree los organismos de supervigilancia, coordinaci&#xF3;n y control y racionalice la utilizaci&#xF3;n de los recursos tanto p&#xFA;blicos como privados,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno acuerda dictar el siguiente Decreto ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  APRUEBA ESTATUTO DE CAPACITACION Y EMPLEO<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA: 1</a></div></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.446.- Santiago, 1&#xB0; de Mayo de 1976.- Vistos: lo dispuesto en los decretos leyes N&#xB0; 1 y 128, de 1973, y 527, de 1974, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;- Que el Estatuto Social de la Empresa, aprobado por decreto ley N&#xB0; 1.006, de 1975, se fundamenta en la necesidad de crear estructuras que constituyan cimientos del nuevo orden social que el Supremo Gobierno persigue establecer, basadas en los principios de pluralidad y subsidiariedad del Estado;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;- Que dicho Estatuto, seg&#xFA;n su art&#xED;culo 1&#xB0;, no s&#xF3;lo est&#xE1; constituido por las normas del decreto ley citado, sino adem&#xE1;s por todas aquellas que regulan la interrelaci&#xF3;n de la empresa, los inversionistas, los trabajadores y la sociedad;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;- Que entre estas normas deben estar las relativas a la capacitaci&#xF3;n ocupacional de los trabajadores y al fomento del empleo, mediante acciones de colocaci&#xF3;n e informaci&#xF3;n, todo ello al servicio de una pol&#xED;tica integral de recursos humanos y de pleno empleo;</div><div class=\"p\">&nbsp; &nbsp; 4&#xB0;- Que la estructuraci&#xF3;n y desarrollo de la capacitaci&#xF3;n ocupacional y de la colocaci&#xF3;n constituyen factores de regulaci&#xF3;n del mercado de trabajo, permitiendo el m&#xE1;s amplio desarrollo de las aptitudes intelectuales, t&#xE9;cnicas y laborales de los trabajadores, y el mejor aprovechamiento de los recursos humanos, haciendo as&#xED; posible una mayor productividad;</div><div class=\"p\">&nbsp; &nbsp; 5&#xB0;- Que el sistema de capacitaci&#xF3;n ocupacional y de fomento del empleo requiere de un ordenamiento jur&#xED;dico que garantice su eficacia, resguarde los derechos de los particulares, describa las acciones y competencias, cree los organismos de supervigilancia, coordinaci&#xF3;n y control y racionalice la utilizaci&#xF3;n de los recursos tanto p&#xFA;blicos como privados,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno acuerda dictar el siguiente Decreto ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  Ver DFL 1, Trabajo, publicado el 27.09.1989, que fij&#xF3; el Texto Refundido, Coordinado y Sistematizado de las Normas sobre el Estatuto de Capacitaci&#xF3;n y Empleo, contenidas en el presente decreto ley.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA: 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 95 de la LEY 19518, publicada el 14.09.1997, dispone que para todos los efectos el Servicio Nacional de Capacitaci&#xF3;n y Empleo a que se hace referencia en la citada norma se entender&#xE1; como el continuador legal del organismo del mismo nombre creado por el presente decreto ley.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1997-12-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-10-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-02-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8318328,
+          "old": "<div><div class=\"p\">ESTABLECE SUBROGANCIA PARA EL CARGO DE JEFE DE DIVISION DE BIENES NACIONALES</div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">N&#xFA;m. 121.- Santiago, 12 de Septiembre de 1991.- Vistos: Lo manifestado por el Jefe de Gabinete de la Sra. Subsecretaria, en Providencia No. 1269 de 09 de Septiembre de 1991, y,</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">Que el cargo de Jefe de Divisi&#xF3;n de Bienes Nacionales se encuentra vacante por la renuncia del titular, y, por encontrarse con permiso con goce de remuneraciones y posteriormente con feriado legal la subrogante, es necesario designar a un funcionario que ejerza tal funci&#xF3;n mientras dure la ausencia del titular.</div><div class=\"p\">Que por razones de buen servicio, se ha estimado conveniente establecer que don Carlos Z&#xE1;rate Buholzer, Profesional, grado 10&#xB0; EUR., de la Planta de Profesionales de este Ministerio, subrogue el cargo de Jefe de Divisi&#xF3;n, y, Teniendo presente: Lo dispuesto en los art&#xED;culos No. 74, 75 letra a) y 76 de la Ley No. 18.834 que aprueba el Estatuto Administrativo,</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE SUBROGANCIA PARA EL CARGO DE JEFE DE DIVISION DE BIENES NACIONALES</div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">N&#xFA;m. 121.- Santiago, 12 de Septiembre de 1991.- Vistos: Lo manifestado por el Jefe de Gabinete de la Sra. Subsecretaria, en Providencia No. 1269 de 09 de Septiembre de 1991, y,</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">Que el cargo de Jefe de Divisi&#xF3;n de Bienes Nacionales se encuentra vacante por la renuncia del titular, y, por encontrarse con permiso con goce de remuneraciones y posteriormente con feriado legal la subrogante, es necesario designar a un funcionario que ejerza tal funci&#xF3;n mientras dure la ausencia del titular.</div><div class=\"p\">Que por razones de buen servicio, se ha estimado conveniente establecer que don Carlos Z&#xE1;rate Buholzer, Profesional, grado 10&#xB0; EUR., de la Planta de Profesionales de este Ministerio, subrogue el cargo de Jefe de Divisi&#xF3;n, y, Teniendo presente: Lo dispuesto en los art&#xED;culos No. 74, 75 letra a) y 76 de la Ley No. 18.834 que aprueba el Estatuto Administrativo,</div><br><div class=\"p\">Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

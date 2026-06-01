@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-04-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6034941,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 351 EXENTO, DE 1997 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 351 EXENTO, DE 1997</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

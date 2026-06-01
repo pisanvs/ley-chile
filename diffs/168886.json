@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-02-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-04-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6275958,
+          "old": "<div><div class=\"p\">AUTORIZA A COMERCIALIZADORA DEL SUR LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMERCIALIZADORA DEL SUR LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

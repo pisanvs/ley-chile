@@ -1,0 +1,66 @@
+[
+  {
+    "fecha": "1981-04-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-01-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7115641,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; transitorio: Los organismos que actualmente otorgan el t&#xED;tulo de t&#xE9;cnico reconocido por el Ministerio de Educaci&#xF3;n P&#xFA;blica, mediante cursos para egresados de Ense&#xF1;anza Media, tendr&#xE1;n plazo hasta el 31 de Diciembre de 1981, para adecuarse a las normas del presente decreto con fuerza de ley. Vencido este plazo, se entender&#xE1; derogado su reconocimiento.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; transitorio: Los organismos que actualmente otorgan el t&#xED;tulo de t&#xE9;cnico reconocido por el Ministerio de Educaci&#xF3;n P&#xFA;blica, mediante cursos para egresados de Ense&#xF1;anza Media, tendr&#xE1;n plazo hasta el 31 de Diciembre de 1981, para adecuarse a las<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div> normas del presente decreto con fuerza de ley. Vencido este plazo, se entender&#xE1; derogado su reconocimiento.</div><div class=\"p\">&nbsp; &nbsp; Excepcionalmente, los organismos se&#xF1;alados en el<span class=\"n\" id=\"n_0\">DFL N&#xB0; 50<br>M EDUCACION<br>1982 ART 3&#xB0;</span> inciso anterior que no puedan adecuarse como Centros de Formaci&#xF3;n T&#xE9;cnica y tengan alumnos que iniciaron sus carreras con anterioridad o durante el primer semestre de 1981, podr&#xE1;n seguir funcionando, previa autorizaci&#xF3;n del Ministerio de Educaci&#xF3;n P&#xFA;blica, sin perder su reconocimiento, para el solo efecto que dichos alumnos egresen y/o se titulen, bajo las mismas condiciones que establece el respectivo decreto que aprob&#xF3; sus planes y programas.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El Decreto 225 exento, de 1983, Min. de Educaci&#xF3;n, dispone que los Centros de Formaci&#xF3;n T&#xE9;cnica que tengan alumnos provenientes de cursos impartidos por estas instituciones, antes de su autorizaci&#xF3;n de funcionamiento como tales, podr&#xE1;n validar los estudios para el r&#xE9;gimen de la evaluaci&#xF3;n y titulaci&#xF3;n que actualmente los rige, cuando cumplan algunas de las condiciones estipuladas en el mencionado Decreto.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1986-01-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7115642,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; T&#xF3;mese raz&#xF3;n, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de la Contralor&#xED;a General de la Rep&#xFA;blica.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- Sergio Fern&#xE1;ndez Fern&#xE1;ndez, Ministro del Interior.- Enrique Seguel Morel, Teniente Coronel de Ej&#xE9;rcito, Ministro de Hacienda subrogante.- Alfredo Prieto Bafalluy, Ministro de Educaci&#xF3;n P&#xFA;blica.- M&#xF3;nica Madariaga Guti&#xE9;rrez, Ministro de Justicia.- Miguel Kast Rist, Ministro del Trabajo y Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo para su conocimiento.- Saluda atentamente a Ud.- Alvaro Arriagada Norambuena, Subsecretario de Educaci&#xF3;n subrogante.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; T&#xF3;mese raz&#xF3;n, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de la Contralor&#xED;a General de la Rep&#xFA;blica.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- Sergio Fern&#xE1;ndez Fern&#xE1;ndez, Ministro del Interior.- Enrique Seguel Morel, Teniente Coronel de Ej&#xE9;rcito, Ministro de Hacienda subrogante.- Alfredo Prieto Bafalluy, Ministro de Educaci&#xF3;n P&#xFA;blica.-</div><div class=\"p\">M&#xF3;nica Madariaga Guti&#xE9;rrez, Ministro de Justicia.- Miguel Kast Rist, Ministro del Trabajo y Previsi&#xF3;n Social.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-06-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7115632,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;: Cualquiera persona natural o jur&#xED;dica podr&#xE1; crear Centros de Formaci&#xF3;n T&#xE9;cnica de conformidad con las normas de este decreto.</div><div class=\"p\">&nbsp; &nbsp; Para tal efecto los organizadores deber&#xE1;n dictar el reglamento por el que habr&#xED;a de regirse el Centro de Formaci&#xF3;n T&#xE9;cnica.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1078579&amp;idParte=9610994&amp;idVersion=2015-06-18\">Ley 20843<br>Art. 4 N&#xB0; 1<br>D.O. 18.06.2015</a></span>&nbsp; &nbsp; Art&#xED;culo 5&#xB0;: Cualquiera persona natural o jur&#xED;dica podr&#xE1; crear Centros de Formaci&#xF3;n T&#xE9;cnica de conformidad con las normas de este decreto.</div><div class=\"p\">&nbsp; &nbsp; Para tal efecto los organizadores deber&#xE1;n dictar el reglamento por el que habr&#xED;a de regirse el Centro de Formaci&#xF3;n T&#xE9;cnica.</div><div class=\"p\">&nbsp; &nbsp; Para los efectos de lo dispuesto en este art&#xED;culo, los estatutos, normativa interna o cualquier acto o contrato entre los centros de formaci&#xF3;n t&#xE9;cnica y sus estudiantes o personal docente o no docente no podr&#xE1;n contener disposiciones que proh&#xED;ban, limiten u obstaculicen la libre organizaci&#xF3;n de &#xE9;stos.</div><br></div>"
+        },
+        {
+          "part_id": 7115634,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;: Los organizadores de un Centro de Formaci&#xF3;n T&#xE9;cnica, deber&#xE1;n enviar al Ministerio de Educaci&#xF3;n una solicitud de funcionamiento, que contendr&#xE1; los siguientes antecedentes:</div><div class=\"p\">&nbsp; &nbsp; a) - Individualizaci&#xF3;n de sus organizadores.</div><div class=\"p\">&nbsp; &nbsp; b) - Indicaci&#xF3;n precisa del nombre y domicilio de la entidad.</div><div class=\"p\">&nbsp; &nbsp; c) - Fines que se propone.</div><div class=\"p\">&nbsp; &nbsp; d) - Reglamentos de la Instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; e) - El Plan de Estudios y los respectivos Programas de cada Carrera y los t&#xED;tulos que se otorgar&#xE1;n.</div><div class=\"p\">&nbsp; &nbsp; f) - Condiciones y requisitos para el otorgamiento de los t&#xED;tulos.</div><div class=\"p\">&nbsp; &nbsp; g) - El modelo y la descripci&#xF3;n del dise&#xF1;o curricular y de instrucci&#xF3;n que ordenar&#xE1;n el proceso docente de la Instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; h) - La descripci&#xF3;n de los recursos humanos, materiales y financieros con que contar&#xE1; la Instituci&#xF3;n para el logro de los objetivos educacionales. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;: Los organizadores de un Centro de Formaci&#xF3;n T&#xE9;cnica, deber&#xE1;n enviar al Ministerio de Educaci&#xF3;n una solicitud de funcionamiento, que contendr&#xE1; los siguientes antecedentes:</div><div class=\"p\">&nbsp; &nbsp; a) - Individualizaci&#xF3;n de sus organizadores.</div><div class=\"p\">&nbsp; &nbsp; b) - Indicaci&#xF3;n precisa del nombre y domicilio de la entidad.</div><div class=\"p\">&nbsp; &nbsp; c) - Fines que se propone.</div><div class=\"p\">&nbsp; &nbsp; d) - Los reglamentos de la in<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1078579&amp;idParte=9610994&amp;idVersion=2015-06-18\">Ley 20843<br>Art. 4 N&#xB0; 2<br>D.O. 18.06.2015</a></span>stituci&#xF3;n, los que deber&#xE1;n dictarse con sujeci&#xF3;n a lo dispuesto en el art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp; e) - El Plan de Estudios y los respectivos Programas de cada Carrera y los t&#xED;tulos que se otorgar&#xE1;n.</div><div class=\"p\">&nbsp; &nbsp; f) - Condiciones y requisitos para el otorgamiento de los t&#xED;tulos.</div><div class=\"p\">&nbsp; &nbsp; g) - El modelo y la descripci&#xF3;n del dise&#xF1;o curricular y de instrucci&#xF3;n que ordenar&#xE1;n el proceso docente de la Instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; h) - La descripci&#xF3;n de los recursos humanos, materiales y financieros con que contar&#xE1; la Instituci&#xF3;n para el logro de los objetivos educacionales. </div><br></div>"
+        },
+        {
+          "part_id": 7115641,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; transitorio: Los organismos que actualmente otorgan el t&#xED;tulo de t&#xE9;cnico reconocido por el Ministerio de Educaci&#xF3;n P&#xFA;blica, mediante cursos para egresados de Ense&#xF1;anza Media, tendr&#xE1;n plazo hasta el 31 de Diciembre de 1981, para adecuarse a las<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div> normas del presente decreto con fuerza de ley. Vencido este plazo, se entender&#xE1; derogado su reconocimiento.</div><div class=\"p\">&nbsp; &nbsp; Excepcionalmente, los organismos se&#xF1;alados en el<span class=\"n\" id=\"n_0\">DFL N&#xB0; 50<br>M EDUCACION<br>1982 ART 3&#xB0;</span> inciso anterior que no puedan adecuarse como Centros de Formaci&#xF3;n T&#xE9;cnica y tengan alumnos que iniciaron sus carreras con anterioridad o durante el primer semestre de 1981, podr&#xE1;n seguir funcionando, previa autorizaci&#xF3;n del Ministerio de Educaci&#xF3;n P&#xFA;blica, sin perder su reconocimiento, para el solo efecto que dichos alumnos egresen y/o se titulen, bajo las mismas condiciones que establece el respectivo decreto que aprob&#xF3; sus planes y programas.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El Decreto 225 exento, de 1983, Min. de Educaci&#xF3;n, dispone que los Centros de Formaci&#xF3;n T&#xE9;cnica que tengan alumnos provenientes de cursos impartidos por estas instituciones, antes de su autorizaci&#xF3;n de funcionamiento como tales, podr&#xE1;n validar los estudios para el r&#xE9;gimen de la evaluaci&#xF3;n y titulaci&#xF3;n que actualmente los rige, cuando cumplan algunas de las condiciones estipuladas en el mencionado Decreto.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; transitorio: Los organismos que actualmente otorgan el t&#xED;tulo de t&#xE9;cnico reconocido por el Ministerio de Educaci&#xF3;n P&#xFA;blica, mediante cursos para egresados de Ense&#xF1;anza Media, tendr&#xE1;n plazo hasta el 31 de Diciembre de 1981, para adecuarse a las<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:&nbsp; 1</a></div> normas del presente decreto con fuerza de ley. Vencido este plazo, se entender&#xE1; derogado su reconocimiento.</div><div class=\"p\">&nbsp; &nbsp; Excepcionalmente, los organismos se&#xF1;alados en el<span class=\"n\" id=\"n_2\">DFL N&#xB0; 50<br>M EDUCACION<br>1982 ART 3&#xB0;</span> inciso anterior que no puedan adecuarse como Centros de Formaci&#xF3;n T&#xE9;cnica y tengan alumnos que iniciaron sus carreras con anterioridad o durante el primer semestre de 1981, podr&#xE1;n seguir funcionando, previa autorizaci&#xF3;n del Ministerio de Educaci&#xF3;n P&#xFA;blica, sin perder su reconocimiento, para el solo efecto que dichos alumnos egresen y/o se titulen, bajo las mismas condiciones que establece el respectivo decreto que aprob&#xF3; sus planes y programas.</div><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El Decreto 225 exento, de 1983, Min. de Educaci&#xF3;n, dispone que los Centros de Formaci&#xF3;n T&#xE9;cnica que tengan alumnos provenientes de cursos impartidos por estas instituciones, antes de su autorizaci&#xF3;n de funcionamiento como tales, podr&#xE1;n validar los estudios para el r&#xE9;gimen de la evaluaci&#xF3;n y titulaci&#xF3;n que actualmente los rige, cuando cumplan algunas de las condiciones estipuladas en el mencionado Decreto.<br></div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1078579,
+      "fecha": "2015-06-18"
+    }
+  }
+]

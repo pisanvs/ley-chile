@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-04-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8954112,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Decl&#xE1;rase el control obligatorio de la</div><div class=\"p\">enfermedad denominada &quot;enfermedad de Sharka&quot; causada</div><div class=\"p\">por Plum Pox Virus, PPV, en todo el territorio</div><div class=\"p\">nacional.</div><div class=\"p\">&nbsp; &nbsp; 2.- Fac&#xFA;ltase a los Directores Regionales que</div><div class=\"p\">correspondan para disponer, notificar y fijar plazos</div><div class=\"p\">para la ejecuci&#xF3;n de las siguientes medidas</div><div class=\"p\">cuarentenarias:</div><div class=\"p\">&nbsp; &nbsp; a.- Disponer a los viveristas la obligatoriedad de declarar al Servicio el origen del material que utilizar&#xE1;n en la reproducci&#xF3;n de plantas de: durazneros, nectarines, damascos y ciruelos (plantas madres), con el prop&#xF3;sito de ser testado para el PPV.</div><div class=\"p\">&nbsp; &nbsp; b.- Notificar a los tenedores de huertos y viveros de las especies mencionadas en la letra anterior, la prohibici&#xF3;n de movilizar a cualquier t&#xED;tulo material que pueda ser usado para la reproducci&#xF3;n, que no est&#xE9; certificado libre de PPV por el Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp; c.- Disponer el testaje de las plantas de viveros de las especies mencionadas, autorizando s&#xF3;lo la movilizaci&#xF3;n de aquellas que resulten negativas al an&#xE1;lisis de laboratorio del SAG.</div><div class=\"p\">&nbsp; &nbsp; d.- Ordenar en vivero la destrucci&#xF3;n de todas las plantas de aquella especie y variedad que se detecte positiva a PPV.</div><div class=\"p\">&nbsp; &nbsp; 3.- Con el prop&#xF3;sito de constatar la dispersi&#xF3;n de la enfermedad, profesionales del Servicio Agr&#xED;cola y Ganadero realizar&#xE1;n prospecciones en huertos y packing de fruta de carozo, para lo cual los propietarios de estos predios deber&#xE1;n dar las facilidades y otorgar la informaci&#xF3;n que se requiera.</div><div class=\"p\">&nbsp; &nbsp; 4.- En caso de detectarse plantas positivas en huertos, se faculta a los Directores Regionales para adoptar las medidas cuarentenarias que para esa circunstancia el Departamento de Protecci&#xF3;n Agr&#xED;cola determine.</div><div class=\"p\">&nbsp; &nbsp; 5.- El incumplimiento de las disposiciones contenidas en la presente resoluci&#xF3;n, ser&#xE1; sancionada con las multas establecidas en el T&#xED;tulo IV del Decreto Ley N&#xB0;3.557.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Decl&#xE1;rase el control obligatorio de la enfermedad denominada &quot;enfermedad de Sharka&quot; causada por Plum Pox Virus, PPV, en todo el territorio nacional. 2.- DEROGADO<span class=\"n\" id=\"n_0\">RES 1963 EXENTA,<br>AGRICULTURA<br>N&#xBA; 24<br>D.O. 05.09.2001<br>RES 1963 EXENTA,<br>AGRICULTURA<br>N&#xBA; 24<br>D.O. 05.09.2001<br>RES 1963 EXENTA,<br>AGRICULTURA<br>N&#xBA; 24<br>D.O. 05.09.2001<br>RES 1963 EXENTA,<br>AGRICULTURA<br>N&#xBA; 24<br>D.O. 05.09.2001</span> 3.- DEROGADO 4.- DEROGADO 5.- DEROGADO </div></div>"
+        }
+      ]
+    }
+  }
+]

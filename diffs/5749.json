@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1973-10-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-05-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8989125,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- Susp&#xE9;ndese, a contar del 11 de Septiembre de 1973, la aplicaci&#xF3;n de lo dispuesto en el art&#xED;culo 172&#xB0; del DFL. N&#xB0; 338, de 1960.</div><div class=\"p\">&nbsp; &nbsp; No obstante, ning&#xFA;n funcionario podr&#xE1; percibir, en conjunto, por concepto de sueldos y pensiones, una cantidad que exceda el m&#xE1;ximo fijado en el art&#xED;culo 34 de la ley N&#xB0; 17.416.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;- DEROGADO<span class=\"n\" id=\"n_0\">DL 491, HACIENDA<br>Art. &#xFA;nico<br>D.O. 31.05.1974</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

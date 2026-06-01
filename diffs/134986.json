@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-03-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8343570,
+          "old": "<div><div class=\"p\">DEJA SIN EFECTO PARCIALMENTE RESOLUCION QUE INDICA Y AUTORIZA A DON GASTON NELSON CARCAMO BURGOS PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">DEJA SIN EFECTO PARCIALMENTE RESOLUCION QUE INDICA Y AUTORIZA A DON GASTON NELSON CARCAMO BURGOS PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

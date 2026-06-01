@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-05-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9020098,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA LA REALIZACION DE CURSOS PARA LA FORMACION DE EXPERTOS EN PREVENCION DE RIESGOS DE LA INDUSTRIA EXTRACTIVA MINERA, Y DICTA NORMAS AL RESPECTO N&#xFA;m. 575.- Santiago, 11 de mayo de 1993.</div><div class=\"p\">&nbsp; &nbsp; Visto: El Decreto Ley N&#xB0; 3.525, de 1980; que contiene la Ley Org&#xE1;nica del Servicio Nacional de Geolog&#xED;a y Miner&#xED;a; el Decreto Supremo N&#xB0; 72, de 1985 del Ministerio de Miner&#xED;a, que aprob&#xF3; el Reglamento de Seguridad Minera; el D.S. N&#xB0; 140, de 1992, del Ministerio de Miner&#xED;a, que modifica el Reglamento de Seguridad Minera; el Decreto Supremo N&#xB0; 42, de 1990, del Ministerio de Miner&#xED;a, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\"> 1&#xB0;.- Que es imprescindible en la industria extractiva minera, contar con personal calificado en la prevenci&#xF3;n de riesgos mineros;</div><div class=\"p\"> 2&#xB0;.- Que el art&#xED;culo 11 del Reglamento de Seguridad Minera establece que le corresponde al Servicio Nacional de Geolog&#xED;a y Miner&#xED;a, en forma exclusiva, la calificaci&#xF3;n de Expertos en Prevenci&#xF3;n de Riesgos, as&#xED; como tambi&#xE9;n la determinaci&#xF3;n de las materias cuyo conocimiento deber&#xE1;n poseer para ejercer sus funciones;</div><div class=\"p\"> 3&#xB0;.- Que se ha considerado necesario autorizar la realizaci&#xF3;n de cursos para la formaci&#xF3;n de Expertos en Prevenci&#xF3;n de Riesgos, y dictar normas reglamentarias en relaci&#xF3;n con ellos.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA LA REALIZACION DE CURSOS PARA LA FORMACION DE EXPERTOS EN PREVENCION DE RIESGOS DE LA INDUSTRIA EXTRACTIVA MINERA, Y DICTA NORMAS AL RESPECTO N&#xFA;m. 575.- Santiago, 11 de mayo de 1993.</div><div class=\"p\">&nbsp; &nbsp; Visto: El Decreto Ley N&#xB0; 3.525, de 1980; que contiene la Ley Org&#xE1;nica del Servicio Nacional de Geolog&#xED;a y Miner&#xED;a; el Decreto Supremo N&#xB0; 72, de 1985 del Ministerio de Miner&#xED;a, que aprob&#xF3; el Reglamento de Seguridad Minera; el D.S. N&#xB0; 140, de 1992, del Ministerio de Miner&#xED;a, que modifica el Reglamento de Seguridad Minera; el Decreto Supremo N&#xB0; 42, de 1990, del Ministerio de Miner&#xED;a, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\"> 1&#xB0;.- Que es imprescindible en la industria extractiva minera, contar con personal calificado en la prevenci&#xF3;n de riesgos mineros;</div><div class=\"p\"> 2&#xB0;.- Que el art&#xED;culo 11 del Reglamento de Seguridad Minera establece que le corresponde al Servicio Nacional de Geolog&#xED;a y Miner&#xED;a, en forma exclusiva, la calificaci&#xF3;n de Expertos en Prevenci&#xF3;n de Riesgos, as&#xED; como tambi&#xE9;n la determinaci&#xF3;n de las materias cuyo conocimiento deber&#xE1;n poseer para ejercer sus funciones;</div><div class=\"p\"> 3&#xB0;.- Que se ha considerado necesario autorizar la realizaci&#xF3;n de cursos para la formaci&#xF3;n de Expertos en Prevenci&#xF3;n de Riesgos, y dictar normas reglamentarias en relaci&#xF3;n con ellos.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

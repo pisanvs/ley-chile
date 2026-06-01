@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-06-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8315645,
+          "old": "<div><div class=\"p\">AUTORIZA A TRIOMAR S.A. PARA INICIAR ACTIVIDADES PESQUERAS. DECLARA CADUCIDAD DE RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A TRIOMAR S.A. PARA INICIAR ACTIVIDADES PESQUERAS. DECLARA CADUCIDAD DE RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

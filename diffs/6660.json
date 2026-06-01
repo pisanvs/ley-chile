@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1976-09-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-03-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7127325,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Todos los contratos de operaci&#xF3;n y sus modificaciones ser&#xE1;n autorizados por decreto supremo fundado, previo informe del Comit&#xE9; de Inversiones Extranjeras, cualesquiera sean la nacionalidad del contratista y el origen de las inversiones. Dichos contratos o modificaciones no se perfeccionar&#xE1;n mientras no se hayan otorgado por escritura p&#xFA;blica, en la que deber&#xE1;n insertarse tanto el decreto como el informe mencionados. Para todos los efectos, se entender&#xE1; que el decreto correspondiente forma parte integrante del respectivo contrato o modificaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- Todos los contratos de operaci&#xF3;n y<span class=\"n\" id=\"n_0\">DL 1748 1977<br>ART 3&#xB0;<br>TRANS.</span> sus modificaciones ser&#xE1;n autorizados por decreto supremo fundado, previo informe favorable del Comit&#xE9; de Inversiones Extranjeras, cualesquiera sean la nacionalidad del contratista y el origen de las inversiones. Dichos contratos o modificaciones no se perfeccionar&#xE1;n mientras no se hayan otorgado por escritura p&#xFA;blica, en la que deber&#xE1;n insertarse tanto el decreto como el informe mencionados. Para todos los efectos, se entender&#xE1; que el decreto correspondiente forma parte integrante del respectivo contrato o modificaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 7127329,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- Los derechos y las obligaciones que para el contratista emanen del contrato de operaci&#xF3;n, no podr&#xE1;n enajenarse a ning&#xFA;n t&#xED;tulo ni ser objeto de acto o contrato alguno, sino con consentimiento previo de la Comisi&#xF3;n, otorgado por escritura p&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; En todo caso, el respectivo acto o contrato deber&#xE1; ser autorizado por decreto supremo fundado, previo informe del Comit&#xE9; de Inversiones Extranjeras.</div><div class=\"p\">&nbsp; &nbsp; Los derechos que para el contratista emanen del contrato de operaci&#xF3;n ser&#xE1;n inembargables por terceros. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;- Los derechos y las obligaciones que para el contratista emanen del contrato de operaci&#xF3;n, no podr&#xE1;n enajenarse a ning&#xFA;n t&#xED;tulo ni ser objeto de acto o contrato alguno, sino con consentimiento previo de la Comisi&#xF3;n, otorgado por escritura p&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; En todo caso, el respectivo acto o contrato deber&#xE1; ser autorizado por decreto supremo fundado, previo informe favorable del Comit&#xE9; de Inversiones Extranjeras.</div><div class=\"p\">&nbsp; &nbsp; Los derechos que para el contratista emanen del<span class=\"n\" id=\"n_1\">DL 1748 1977<br>ART TERCERO<br>TRANS</span> contrato de operaci&#xF3;n ser&#xE1;n inembargables por terceros.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1977-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7127360,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Enrique Valenzuela Blanquier, Ministro de Miner&#xED;a.- Jorge Cauas Lama, Ministro de Hacienda.- Sergio de Castro Spikula, Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo para su conocimiento.- Aldo Montagna Bargetto, Capit&#xE1;n de Nav&#xED;o, JT, Secretario de Legislaci&#xF3;n de la Junta de Gobierno.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Enrique Valenzuela Blanquier, Ministro de Miner&#xED;a.- Jorge Cauas Lama, Ministro de Hacienda.- Sergio de Castro Spikula, Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

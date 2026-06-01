@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-07-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9039259,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Establ&#xE9;cese un plazo de once meses a contar del 24 de Junio de 1993, fecha de la &#xFA;ltima publicaci&#xF3;n de los avisos que trata el art&#xED;culo 6&#xB0; transitorio del C&#xF3;digo de Miner&#xED;a, para que los titulares de las pertenencias mineras situadas en la II Regi&#xF3;n de Antofagasta y cuyos n&#xFA;meros en el rol de minas del pa&#xED;s (de pago de patente minera) van desde el 02101-0001-6 al 02303-0007-0, ambos inclusive, con exclusi&#xF3;n de los correspondientes a las pertenencias constituidas sobre nitratos y sales an&#xE1;logas con arreglo a la legislaci&#xF3;n nacional anterior a la Ley N&#xB0; 18.248 que se encuentran vigentes y que no son aquellas a que se refiere el art&#xED;culo 2&#xB0; transitorio del C&#xF3;digo de Miner&#xED;a, procedan a cumplir con lo dispuesto en los n&#xFA;meros 1&#xB0;, 2&#xB0; y 3&#xB0; del inciso cuarto del citado art&#xED;culo 6&#xB0; transitorio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Establ&#xE9;cese un plazo de once meses a<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> contar del 24 de Junio de 1993, fecha de la &#xFA;ltima publicaci&#xF3;n de los avisos que trata el art&#xED;culo 6&#xB0; transitorio del C&#xF3;digo de Miner&#xED;a, para que los titulares de las pertenencias mineras situadas en la II Regi&#xF3;n de Antofagasta y cuyos n&#xFA;meros en el rol de minas del pa&#xED;s (de pago de patente minera) van desde el 02101-0001-6 al 02303-0007-0, ambos inclusive, con exclusi&#xF3;n de los correspondientes a las pertenencias constituidas sobre nitratos y sales an&#xE1;logas con arreglo a la legislaci&#xF3;n nacional anterior a la Ley N&#xB0; 18.248 que se encuentran vigentes y que no son aquellas a que se refiere el art&#xED;culo 2&#xB0; transitorio del C&#xF3;digo de Miner&#xED;a, procedan a cumplir con lo dispuesto en los n&#xFA;meros 1&#xB0;, 2&#xB0; y 3&#xB0; del inciso cuarto del citado art&#xED;culo 6&#xB0; transitorio.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 1&#xB0; del D.S. 118, de 2 de julio de 1994, del Ministerio de Miner&#xED;a, prorrog&#xF3; por un plazo de 6 meses, a contar del 24 de mayo de 1994, el t&#xE9;rmino establecido por el presente decreto para que los titulares de pertenencias mineras situadas en la II Regi&#xF3;n de Antofagasta procedan a cumplir con lo dispuesto en los Nos. 1&#xB0;, 2&#xB0; y 3&#xB0; del inciso cuarto del art&#xED;culo 6&#xB0; transitorio del C&#xF3;digo de Miner&#xED;a.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fecha": "1994-07-09",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1994-07-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8939081,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;: F&#xED;jase la edad m&#xED;nima de ingreso a la Ense&#xF1;anza B&#xE1;sica de Adultos en 15 a&#xF1;os; y, en 18 a&#xF1;os, el ingreso a la Ense&#xF1;anza Media, ambas cumplidas como m&#xE1;ximo al 30 de junio del a&#xF1;o lectivo correspondiente.</div><div class=\"p\">&nbsp; &nbsp; No obstante lo anterior, se faculta al Director del establecimiento educacional, para decidir excepcionalmente la admisi&#xF3;n a la Ense&#xF1;anza de Adultos, a las personas que demuestren con informes de organismos o profesionales id&#xF3;neos, situaciones especiales de car&#xE1;cter socioecon&#xF3;mico, civil o de salud, que justifiquen su ingreso a dicha ense&#xF1;anza con edades inferiores a las establecidas.</div><br></div>"
+        },
+        {
+          "part_id": 8939082,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;: Los postulantes a establecimientos educacionales que apliquen programas de estudios estructurados en grados, ciclos o semestres, continuar&#xE1;n rigi&#xE9;ndose por las normas especiales aprobadas para dichos establecimientos.</div><br></div>"
+        },
+        {
+          "part_id": 8939083,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;: Las personas con discapacidades de car&#xE1;cter cong&#xE9;nito o adquiridas, que presenten alteraciones en sus funciones f&#xED;sicas, sensoriales o mentales, y sean consideradas como tales por organismos, comisiones o profesionales autorizados por la reglamentaci&#xF3;n vigente para practicar tal determinaci&#xF3;n, tendr&#xE1;n acceso a opciones educativas en los establecimientos educacionales especiales, seg&#xFA;n las necesidades que se hayan establecido, sin exigencia de edad m&#xED;nima de ingreso.</div><div class=\"p\">&nbsp; &nbsp; El servicio educacional especial se otorgar&#xE1; hasta el momento que se determine por los organismos, comisiones o profecionales competentes. Con todo, el Ministerio de Educaci&#xF3;n reconocer&#xE1; como edad m&#xE1;xima de permanencia en la Ense&#xF1;anza Especial o Diferencial, los 26 a&#xF1;os, cumplidos durante el a&#xF1;o lectivo.<span class=\"n\" id=\"n_0\">DS. 673<br>EDUC.1993<br>DS. N&#xB0; 227<br>EDUC.1994</span> correspondiente.</div><div class=\"p\">&nbsp; &nbsp; Los discapacitados mayores de 26 a&#xF1;os, que hubieren aprobado las Etapas o Niveles Preb&#xE1;sico y B&#xE1;sico de su educaci&#xF3;n general b&#xE1;sica, podr&#xE1;n continuar en el sistema educativo en cursos talleres de la Etapa o Nivel de Orientaci&#xF3;n o Capacitaci&#xF3;n Laboral de la educaci&#xF3;n general b&#xE1;sica especial diferenciada.</div><br></div>"
+        },
+        {
+          "part_id": 8939084,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;: Autor&#xED;zase a los discapacitados mayores de 24 a&#xF1;os, de cualquier edad, para incorporarse a la Ense&#xF1;anza de Adultos.</div><br></div>"
+        },
+        {
+          "part_id": 8939085,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;: Los informes, determinaciones, recomendaciones u otros documentos probatorios de las excepciones o discapacidades se&#xF1;aladas en el presente decreto, permanecer&#xE1;n en los establecimientos educacionales a disposici&#xF3;n de los Departamentos Provinciales de educaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 8939086,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; An&#xF3;tese, t&#xF3;mese raz&#xF3;n, publ&#xED;quese e ins&#xE9;rtese en la recopilaci&#xF3;n oficial de la Contralor&#xED;a General de la Rep&#xFA;blica.- PATRICIO AYLWIN AZOCAR, Presidente de la Rep&#xFA;blica.- Ricardo Lagos Escobar, Ministro de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a usted para su conocimiento.- Saluda a usted.- Ra&#xFA;l Allard Neumann, Subsecretario de Educaci&#xF3;n.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-12-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-06-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7268741,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD JIMENEZ Y CIA. LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD JIMENEZ Y CIA. LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS DENIEGA AUTORIZACION QUE INDICA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

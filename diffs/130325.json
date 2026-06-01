@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-07-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-09-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8339199,
+          "old": "<div><div class=\"p\">AUTORIZA A DON PEDRO ANTONIO BORQUEZ AG&#xDC;ERO PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON PEDRO ANTONIO BORQUEZ AG&#xDC;ERO PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

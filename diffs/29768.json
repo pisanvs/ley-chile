@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-10-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-08-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9026544,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o.- Decl&#xE1;rase existir causa de utilidad p&#xFA;blica en la expropiaci&#xF3;n de los terrenos situados dentro del predio de una Comunidad regida por el decreto con fuerza de ley N.o 5, de 1967, del Ministerio de Agricultura, y que se encuentren ocupados por establecimientos de educaci&#xF3;n, de salud u otros a cargo de servicios p&#xFA;blicos o instituciones estatales, y fac&#xFA;ltase al Ministerio de Bienes Nacionales para expropiarlos por cuenta del Fisco o del servicio o instituci&#xF3;n respectiva.</div><div class=\"p\">&nbsp; &nbsp; Fac&#xFA;ltase, asimismo, por existir causa de utilidad p&#xFA;blica, al Ministerio de Bienes Nacionales para expropiar los terrenos de Comunidades que se hallen ocupados por poblaciones urbanas o que se declaren de extensi&#xF3;n urbana, con el objeto de regularizar su situaci&#xF3;n, y aquellos terrenos que, por su aptitud tur&#xED;stica, urbana o habitacional, hayan perdido su finalidad o capacidad agr&#xED;cola originaria.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o.- DEROGADO.-<span class=\"n\" id=\"n_0\">LEY 19233<br>Art.segundo</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

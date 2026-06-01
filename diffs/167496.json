@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-02-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6271481,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA LA HORADADA LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA LA HORADADA LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

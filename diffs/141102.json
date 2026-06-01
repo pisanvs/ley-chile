@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-05-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-10-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7252205,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 616, DE 1988 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 616, DE 1988 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1959-03-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-03-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6288762,
+          "old": "<div><div class=\"p\">APRUEBA EL REGLAMENTO SANITARIO PARA LA INDUSTRIA QUIMICO-FARMACEUTICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 179.- Santiago, 28 de Febrero de 1959.- Vistos: el oficio N.o 2,330, de 3 de Febrero del presente a&#xF1;o; lo informado por la Superintendencia de Seguridad Social en nota N.o 342, de 12 del mismo mes; lo dispuesto en el art&#xED;culo 166 del C&#xF3;digo Sanitario, y en uso de la facultad que me confiere el N.o 2 del Art&#xED;culo 72.o de la Constituci&#xF3;n Pol&#xED;tica del Estado, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento Sanitario para la Industria Qu&#xED;mico-Farmac&#xE9;utica:</div><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA EL REGLAMENTO SANITARIO PARA LA INDUSTRIA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> QUIMICO-FARMACEUTICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 179.- Santiago, 28 de Febrero de 1959.- Vistos: el oficio N.o 2,330, de 3 de Febrero del presente a&#xF1;o; lo informado por la Superintendencia de Seguridad Social en nota N.o 342, de 12 del mismo mes; lo dispuesto en el art&#xED;culo 166 del C&#xF3;digo Sanitario, y en uso de la facultad que me confiere el N.o 2 del Art&#xED;culo 72.o de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento Sanitario para la Industria Qu&#xED;mico-Farmac&#xE9;utica:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 146 del DTO 435, Salud, publicado el 22.03.1982, derog&#xF3; el presente decreto a contar de su fecha de vigencia, esto es, 60 d&#xED;as despu&#xE9;s de su publicaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

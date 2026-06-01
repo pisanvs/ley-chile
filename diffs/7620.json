@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1996-02-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-06-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5884554,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CONCEDE PERSONALIDAD JURIDICA Y APRUEBA ESTATUTOS A &quot;FUNDACION &quot;LUZ DEL MUNDO&quot; PARA LA EVANGELIZACION Y CULTURA CATOLICA&quot;, DE SANTIAGO</div><div class=\"p\">&nbsp; &nbsp; Santiago, 4 de Enero de 1996.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 18.- Vistos: estos antecedentes, lo dispuesto en el Decreto Supremo N&#xB0; 110, Reglamento sobre Concesi&#xF3;n de Personalidad Jur&#xED;dica, publicado en el Diario Oficial de 20 de Marzo de 1979 y lo informado por el Sr. Intendente de la Regi&#xF3;n Metropolitana, por el Sr. Subsecretario del Interior y por el Consejo de Defensa del Estado,</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; CONCEDE PERSONALIDAD JURIDICA Y APRUEBA ESTATUTOS A &quot;FUNDACION &quot;LUZ DEL MUNDO&quot; PARA LA EVANGELIZACION Y CULTURA CATOLICA&quot;, DE SANTIAGO <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 4 de Enero de 1996.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 18.- Vistos: estos antecedentes, lo dispuesto en el Decreto Supremo N&#xB0; 110, Reglamento sobre Concesi&#xF3;n de Personalidad Jur&#xED;dica, publicado en el Diario Oficial de 20 de Marzo de 1979 y lo informado por el Sr. Intendente de la Regi&#xF3;n Metropolitana, por el Sr. Subsecretario del Interior y por el Consejo de Defensa del Estado,</div><br><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El Decreto 1936 Exento, Justicia, publicado el 06.06.2009, rectifica la presente norma, en el sentido que el nombre de la entidad es &quot;Fundaci&#xF3;n &quot;Luz del Mundo&quot; para la Evangelizaci&#xF3;n y Cultura Cat&#xF3;lica&quot; y no como se indica. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-09-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

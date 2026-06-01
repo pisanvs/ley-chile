@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-10-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325263,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA Y COMERCIAL GOLPAK S.A. PARA AMPLIAR ACTIVIDADES.</div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA Y COMERCIAL GOLPAK S.A. PARA AMPLIAR ACTIVIDADES. MODIFICA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

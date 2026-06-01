@@ -1,0 +1,44 @@
+[
+  {
+    "fecha": "1975-10-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1983-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8517803,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xBA;: Toda persona natural o jur&#xED;dica, de<span class=\"n\" id=\"n_0\">DTO 1012, DEFENSA<br>D.O. 14.02.1983</span> nacionalidad chilena, que desea realizar investigaciones cient&#xED;ficas y/o tecnol&#xF3;gicas marinas en la zona mar&#xED;tima bajo jurisdicci&#xF3;n nacional, incluidas sus aguas, su plataforma continental, atm&#xF3;sfera, suelo y subsuelo, deber&#xE1; presentar directamente al Instituto Hidrogr&#xE1;fico de la Armada su plan de trabajo con 3 meses de anticipaci&#xF3;n a la fecha de su iniciaci&#xF3;n. La participaci&#xF3;n de extranjeros s&#xF3;lo ser&#xE1; posible con la autorizaci&#xF3;n previa del Instituto Hidrogr&#xE1;fico de la Armada el que podr&#xE1; establecer las normas que estime convenientes de acuerdo a las circunstancias. En todo caso se aplicar&#xE1;n las normas establecidas en los art&#xED;culos 10&#xBA; y 11&#xBA;, como asimismo lo dispuesto en el art&#xED;culo 12&#xBA; en lo que concierne a los &quot;holotipos&quot;.</div><br></div>"
+        },
+        {
+          "part_id": 8517804,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xBA;: Toda infracci&#xF3;n a este Reglamento ser&#xE1;<span class=\"n\" id=\"n_3\">DTO 1012, DEFENSA<br>D.O. 14.02.1983</span> sancionado por la Autoridad Mar&#xED;tima, a requerimiento del Instituto Hidrogr&#xE1;fico de la Armada en conformidad al art&#xED;culo 342 del Reglamento General de&nbsp; Orden, Seguridad y Disciplina en las Naves y Litoral de la Rep&#xFA;blica, sin perjuicio del comiso de los efectos o datos obtenidos por la investigaci&#xF3;n y de la suspensi&#xF3;n del permiso para proseguir con la investigaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Lo anterior ser&#xE1; aplicable tambi&#xE9;n a toda entidad o nave extranjera o nacional que sea sorprendida sin autorizaci&#xF3;n para realizar actividades cient&#xED;ficas y/o tecnol&#xF3;gicas marinas en la zona mar&#xED;tima de jurisdicci&#xF3;n nacional, aparte de otras sanciones de que se haga acreedora.</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": 8517798,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xBA;: En la resoluci&#xF3;n que dicte el Instituto Hidrogr&#xE1;fico de la Armada, una vez aprobado el Plan de Trabajo, indicar&#xE1; las instrucciones de control y podr&#xE1; excluir de la investigaci&#xF3;n las &#xE1;reas consideradas restringidas. Esta resoluci&#xF3;n deber&#xE1; ser requerida por la Autoridad Mar&#xED;tima para autorizar el zarpe de la nave a la iniciaci&#xF3;n de la investigaci&#xF3;n.</div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": [
+        {
+          "part_id": 8517795,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16&#xBA;: Toda persona natural o jur&#xED;dica, de nacionalidad chilena, que desea realizar investigaciones cient&#xED;ficas y/o tecnol&#xF3;gicas marinas en la zona mar&#xED;tima bajo jurisdicci&#xF3;n nacional, incluidas sus aguas, su plataforma continental, atm&#xF3;sfera, suelo y subsuelo, deber&#xE1; presentar directamente al Instituto Hidrogr&#xE1;fico de la Armada su plan de trabajo con 3 meses de anticipaci&#xF3;n a la fecha de su iniciaci&#xF3;n. La participaci&#xF3;n de extranjeros s&#xF3;lo ser&#xE1; posible con la autorizaci&#xF3;n previa del Instituto Hidrogr&#xE1;fico de la Armada el que podr&#xE1; establecer las normas que estime convenientes de acuerdo a las circunstancias. En todo caso se aplicar&#xE1;n las normas establecidas en los art&#xED;culos 10&#xBA; y 11&#xBA;, como asimismo lo dispuesto en el art&#xED;culo 12&#xBA; en lo que concierne a los &quot;holotipos&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16&#xBA;:&nbsp; El Instituto Hidrogr&#xE1;fico de la ArmadaDTO 1012, DEFENSA<span class=\"n\" id=\"n_1\"><br>D.O. 14.02.1983</span> podr&#xE1; efectuar sugerencias al respectivo programa, designar funcionarios para que participen en la investigaci&#xF3;n, requerir copia sin costo de los estudios que se realicen que sean de su especial inter&#xE9;s y restringir o retener los efectos, informaciones y datos que estime convenientes.</div><br></div>"
+        },
+        {
+          "part_id": 8517797,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;:&nbsp; El Instituto Hidrogr&#xE1;fico de la Armada podr&#xE1; efectuar sugerencias al respectivo programa, designar funcionarios para que participen en la investigaci&#xF3;n, requerir copia sin costo de los estudios que se realicen que sean de su especial inter&#xE9;s y restringir o retener los efectos, informaciones y datos que estime convenientes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;: En la resoluci&#xF3;n que dicte el InstitutoDTO 1012, DEFENSA<span class=\"n\" id=\"n_2\"><br>D.O. 14.02.1983</span> Hidrogr&#xE1;fico de la Armada, una vez aprobado el Plan de Trabajo, indicar&#xE1; las instrucciones de control y podr&#xE1; excluir de la investigaci&#xF3;n las &#xE1;reas consideradas restringidas. Esta resoluci&#xF3;n deber&#xE1; ser requerida por la Autoridad Mar&#xED;tima para autorizar el zarpe de la nave a la iniciaci&#xF3;n de la investigaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-12-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1980-11-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7276344,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;. Supr&#xED;mese de la dotaci&#xF3;n m&#xE1;xima de personal autorizada al Servicio Nacional de Salud por el DL. N&#xBA; 2.397, de 1978, los siguientes cargos:</div><br><br><div class=\"p\">&nbsp; &nbsp;  NOTA: Ver Diario Oficial N&#xBA; 30.532, del d&#xED;a</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Mi&#xE9;rcoles 5 de Diciembre de 1979, p&#xE1;ginas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  seis, siete, ocho, nueve, diez y once.</div><br><br><div class=\"p\">&nbsp; &nbsp;  El personal a que se refieren los p&#xE1;rrafos anteriores, que no sea encasillado en la planta del Servicio Nacional de Menores ni contratado por el mismo, cesar&#xE1; en sus funciones, a contar de la fecha de vigencia del decreto supremo que debe disponer dicho encasillamiento, en las condiciones previstas en el inciso tercero del art&#xED;culo 2&#xBA; transitorio, del decreto ley N&#xBA; 2.465, de 1979.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;. Supr&#xED;mese de la dotaci&#xF3;n m&#xE1;xima de personal autorizada al Servicio<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> Nacional de Salud por el DL. N&#xBA; 2.397, de 1978, los siguientes cargos:</div><br><br><div class=\"p\">&nbsp; &nbsp;  NOTA: Ver Diario Oficial N&#xBA; 30.532, del d&#xED;a</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Mi&#xE9;rcoles 5 de Diciembre de 1979, p&#xE1;ginas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  seis, siete, ocho, nueve, diez y once.</div><br><br><div class=\"p\">&nbsp; &nbsp;  El personal a que se refieren los p&#xE1;rrafos anteriores, que no sea encasillado en la planta del Servicio Nacional de Menores ni contratado por el mismo, cesar&#xE1; en sus funciones, a contar de la fecha de vigencia del decreto supremo que debe disponer dicho encasillamiento, en las condiciones previstas en el inciso tercero del art&#xED;culo 2&#xBA; transitorio, del decreto ley N&#xBA; 2.465, de 1979.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico del Decreto Ley 3526, Justicia, publicado el 28.11.1980, modific&#xF3; el listado contenido en el presente art&#xED;culo en el sentido de declarar que el nombre del funcionario que figura como &quot;Videla Saldivar, Manuel&quot;, en el ac&#xE1;pite &quot;Administrativos&quot;, es &quot;Videla Videla, Manuel de la Cruz&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

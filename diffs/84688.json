@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316557,
+          "old": "<div><br><div class=\"p\">AUTORIZA A DON CARLOS ZULETA BRITO PARA INICIAR ACTIVIDADES</div><div class=\"p\">PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA CADUCA AUTORIZACIONES QUE INDICA </div></div>",
+          "new": "<div><br><div class=\"p\">AUTORIZA A DON CARLOS ZULETA BRITO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA CADUCA</div><div class=\"p\">AUTORIZACIONES QUE INDICA</div><br></div>"
+        }
+      ]
+    }
+  }
+]

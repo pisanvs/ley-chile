@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-11-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7230959,
+          "old": "<div><div class=\"p\">FIJA NORMAS SOBRE EXENCION DEL TRAMITE DE TOMA DE RAZON </div><div class=\"p\">Santiago, 24 de Enero de 1992.- Con esta fecha se ha resuelto lo siguiente;</div><br><div class=\"p\">TENIENDO PRESENTE:</div><br><div class=\"p\">Que es necesario actualizar las normas relativas a exenci&#xF3;n de toma de raz&#xF3;n contenidas en la Resoluci&#xF3;n No. 1.050, de 1980, de esta Contralor&#xED;a General, considerando las modificaciones introducidas al r&#xE9;gimen de organizaci&#xF3;n y funcionamiento de la Administraci&#xF3;n del Estado, dentro de un contexto de fiscalizaci&#xF3;n finalista que resguarde los valores fundamentales reconocidos en nuestro ordenamiento jur&#xED;dico y que contribuya efectivamente a la eficiencia y eficacia administrativa.</div><br><div class=\"p\">Y visto lo dispuesto en los incisos quinto y sexto del art&#xED;culo 10 de la ley No. 10.336.</div><br><div class=\"p\">RESUELVO:</div><br><div class=\"p\">N&#xBA; 55</div><br><div class=\"p\">F&#xED;janse las siguientes normas sobre exenci&#xF3;n del tr&#xE1;mite de toma de raz&#xF3;n:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">FIJA NORMAS SOBRE EXENCION DEL TRAMITE DE TOMA DE RAZON<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1:</a></div> Santiago, 24 de Enero de 1992.- Con esta fecha se ha resuelto lo siguiente;</div><br><div class=\"p\">TENIENDO PRESENTE:</div><br><div class=\"p\">Que es necesario actualizar las normas relativas a exenci&#xF3;n de toma de raz&#xF3;n contenidas en la Resoluci&#xF3;n No. 1.050, de 1980, de esta Contralor&#xED;a General, considerando las modificaciones introducidas al r&#xE9;gimen de organizaci&#xF3;n y funcionamiento de la Administraci&#xF3;n del Estado, dentro de un contexto de fiscalizaci&#xF3;n finalista que resguarde los valores fundamentales reconocidos en nuestro ordenamiento jur&#xED;dico y que contribuya efectivamente a la eficiencia y eficacia administrativa.</div><br><div class=\"p\">Y visto lo dispuesto en los incisos quinto y sexto del art&#xED;culo 10 de la ley No. 10.336.</div><br><div class=\"p\">RESUELVO:</div><br><div class=\"p\">N&#xBA; 55</div><br><div class=\"p\">F&#xED;janse las siguientes normas sobre exenci&#xF3;n del tr&#xE1;mite de toma de raz&#xF3;n:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; Ver RES 520, Contralor&#xED;a General de la Rep&#xFA;blica, publicada el 14.12.1996, que fija el texto refundido de la presente norma.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp; &nbsp; La RES 1600, Contralor&#xED;a General de la Rep&#xFA;blica, publicada el 06.11.2008, derog&#xF3; la presente norma y su texto refundido a contar de su fecha de vigencia, esto es, 24 de noviembre de 2008.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

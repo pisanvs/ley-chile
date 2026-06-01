@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-09-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-11-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8980921,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico. Fac&#xFA;ltase al Ministro de Vivienda y Urbanismo, para que en casos calificados en que no se hubiere aplicado al precio de adquisici&#xF3;n o de construcci&#xF3;n de la vivienda todo o parte del ahorro acreditado al postular, deje sin efecto, mediante resoluciones fundadas, la sanci&#xF3;n de caducidad de certificados de subsidio habitacional correspondientes al Sistema General de Subsidio Habitacional o al Sistema de Ahorro y Financiamiento para la Vivienda, regulados por el DS No. 188 (V. y U.), de 1978 y por el DS No. 74 (V. y U.), de 1984, o de los respectivos certificados de sustituci&#xF3;n, en su caso, y autorice el pago de dichos certificados de subsidio y el otorgamiento de los cr&#xE9;ditos hipotecarios correspondientes.</div><div class=\"p\">&nbsp; &nbsp;  Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico. Fac&#xFA;ltase al Ministro de Vivienda y Urbanismo, para que en casos calificados en que no se hubiere aplicado al precio de adquisici&#xF3;n o de construcci&#xF3;n de la vivienda todo o parte del ahorro acreditado al postular, deje sin efecto, mediante resoluciones fundadas, la sanci&#xF3;n de caducidad de certificados de subsidio habitacional correspondientes a los sistemas de Subsidio Habitacional regulados por los decretos supremos N&#xBA; 62 (V. y U.), de 1984; N&#xBA; 167<span class=\"n\" id=\"n_0\">DTO 128, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 17.11.1997</span> (V. y U.), de 1986; N&#xBA; 44 (V. y U.), de 1988; y N&#xBA; 140 (V. y U.), de 1990, o de los respectivos certificados de sustituci&#xF3;n, en su caso, y autorice el pago de dichos certificados de subsidio y el otorgamiento de los cr&#xE9;ditos hipotecarios correspondientes. Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as. </div></div>"
+        }
+      ]
+    }
+  }
+]

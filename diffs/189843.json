@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1964-09-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1966-09-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6350747,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA EL PAGO DE REMUNERACIONES A LOS OFICIALES DE SANIDAD NAVAL EMBARCADOS Y A LOS MEDICOS Y DENTISTAS DE LA ARMADA DESTINADOS A LA ISLA DE PASCUA O PUERTO WILLIAMS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 17 de Agosto de 1964.- S. E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 852.- Vistos: lo manifestado por la Comandancia en Jefe de la Armada en oficio reservado N&#xBA; 6.458/1, de 14 de Julio del a&#xF1;o en curso, lo dispuesto en el art&#xED;culo 34 de la ley n&#xFA;mero 15.575, en relaci&#xF3;n con lo establecido en el art&#xED;culo 11&#xBA; de la ley n&#xFA;mero 15.076, y teniendo presente la facultad que me confiere el art&#xED;culo 72, N&#xBA; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento para Pago de Remuneraciones a los Oficiales de Sanidad Naval embarcados y a los M&#xE9;dicos y Dentistas de la Armada destinados a la Isla de Pascua o Puerto Williams: </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA EL PAGO DE REMUNERACIONES A LOS OFICIALES DE SANIDAD NAVAL EMBARCADOS Y A LOS MEDICOS Y DENTISTAS DE LA ARMADA DESTINADOS A LA ISLA DE PASCUA O PUERTO WILLIAMS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 17 de Agosto de 1964.- S. E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 852.- Vistos: lo manifestado por la Comandancia en Jefe de la Armada en oficio reservado N&#xBA; 6.458/1, de 14 de Julio del a&#xF1;o en curso, lo dispuesto en el art&#xED;culo 34 de la ley n&#xFA;mero 15.575, en relaci&#xF3;n con lo establecido en el art&#xED;culo 11&#xBA; de la ley n&#xFA;mero 15.076, y teniendo presente la facultad que me confiere el art&#xED;culo 72, N&#xBA; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento para Pago de Remuneraciones a los Oficiales de Sanidad Naval embarcados y a los M&#xE9;dicos y Dentistas de la Armada destinados a la Isla de Pascua o Puerto Williams:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

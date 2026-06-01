@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-02-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8249262,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico.- Apl&#xED;case, a contar del 16 de enero de 1996, por un per&#xED;odo de 3 a&#xF1;os, el sistema de fijaci&#xF3;n de los derechos y rebajas para la harina de trigo, dispuesto en el art&#xED;culo 12 de la ley N&#xB0; 18.525, estableci&#xE9;ndose para estos efectos en 1,56 el factor de multiplicaci&#xF3;n dispuesto en la parte final del inciso tercero del referido art&#xED;culo.&quot;.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Apl&#xED;case, a contar del 16 de enero de 1996, el sistema de fijaci&#xF3;n de los derechos y rebajas<span class=\"n\" id=\"n_0\">LEY 19604<br>Art. 4&#xBA;<br>D.O. 06.02.1999</span> para la harina de trigo, dispuesto en el art&#xED;culo 12 de la ley N&#xB0; 18.525, estableci&#xE9;ndose para estos efectos en 1,56 el factor de multiplicaci&#xF3;n dispuesto en la parte final del inciso tercero del referido art&#xED;culo. </div></div>"
+        }
+      ]
+    }
+  }
+]

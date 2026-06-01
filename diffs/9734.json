@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1996-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8951987,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9 bis: El Bienestar podr&#xE1; financiar con<span class=\"n\" id=\"n_0\">DTO 46, TRABAJO<br>Art. &#xFA;nico<br>D.O. 28.01.2004</span> cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias, y contratar seguros de vida para sus afiliados, seguros de salud, para solventar gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.</div><br></div>"
+        },
+        {
+          "part_id": 8951988,
+          "old": null,
+          "new": "<div><div class=\"p\">@</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2021-10-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

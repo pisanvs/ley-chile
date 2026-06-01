@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-06-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7207945,
+          "old": "<div><div class=\"p\">DICTA ORDENANZA SOBRE NORMAS SANITARIAS BASICAS </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 4.- San Bernardo, Mayo 17 de 1984.- Vistos: Lo dispuesto en el decreto ley N&#xBA; 1.289, de 1976, Org&#xE1;nica de Municipios y Administraci&#xF3;n Comunal; en el decreto ley N&#xBA; 2.763, de 1979, que estableci&#xF3; el Sistema Nacional de Servicios de Salud; en el C&#xF3;digo Sanitario y sus reglamentos; en la Ley N&#xBA; 18.122, que cre&#xF3; el Servicio de Salud del Ambiente de la Regi&#xF3;n Metropolitana, y en su reglamento org&#xE1;nico, y Considerando: La necesidad de fijar las normas que regulan en general las condiciones sanitarias m&#xED;nimas de la comuna y, en especial, la de los establecimientos de comercio, de industria y de servicios.</div><div class=\"p\">&nbsp; &nbsp;  D&#xED;ctase la siguiente &quot;Ordenanza sobre Normas Sanitarias B&#xE1;sicas&quot;:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">DICTA ORDENANZA SOBRE NORMAS SANITARIAS BASICAS </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 4.- San Bernardo, Mayo 17 de 1984.- Vistos: Lo dispuesto en el decreto ley N&#xBA; 1.289, de 1976, Org&#xE1;nica de Municipios y Administraci&#xF3;n Comunal; en el decreto ley N&#xBA; 2.763, de 1979, que estableci&#xF3; el Sistema Nacional de Servicios de Salud; en el C&#xF3;digo Sanitario y sus reglamentos; en la Ley N&#xBA; 18.122, que cre&#xF3; el Servicio de Salud del Ambiente de la Regi&#xF3;n Metropolitana, y en su reglamento org&#xE1;nico, y Considerando: La necesidad de fijar las normas que regulan en general las condiciones sanitarias m&#xED;nimas de la comuna y, en especial, la de los establecimientos de comercio, de industria y de servicios.</div><div class=\"p\">&nbsp; &nbsp;  D&#xED;ctase la siguiente &quot;Ordenanza sobre Normas Sanitarias B&#xE1;sicas&quot;:</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]
