@@ -2,7 +2,7 @@ name: Fetch and Build
 
 on:
   schedule:
-    - cron: "0 */3 * * *"  # Every 6 hours
+    - cron: "0 */3 * * *"
   workflow_dispatch:
     inputs:
       version_budget:
