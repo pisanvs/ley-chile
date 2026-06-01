@@ -362,17 +362,18 @@ jobs:
           from pathlib import Path
           cache = Path("cache")
           main_file = cache / "fetch_versions_progress.json"
-          main = json.loads(main_file.read_text()) if main_file.exists() else {"done": [], "failed": {}}
+          main = json.loads(main_file.read_text()) if main_file.exists() else {"done": [], "failed": {}, "dead": {}}
           done = set(main.get("done", []))
-          failed = dict(main.get("failed", {}))
+          # "failed" is transient — do NOT merge across runs (normas are always retried).
+          # "dead" is permanent (HTTP 500/4xx) — merge and persist.
+          dead = dict(main.get("dead", {}))
           for f in sorted(cache.glob("fetch_versions_progress-shard-*.json")):
               shard = json.loads(f.read_text())
               done.update(shard.get("done", []))
-              for k, v in shard.get("failed", {}).items():
-                  failed[k] = max(failed.get(k, 0), v)
+              dead.update(shard.get("dead", {}))
               f.unlink()
-          main_file.write_text(json.dumps({"done": sorted(done), "failed": failed}))
-          print(f"Merged: {len(done)} done, {sum(1 for v in failed.values() if v > 0)} with failures")
+          main_file.write_text(json.dumps({"done": sorted(done), "failed": {}, "dead": dead}))
+          print(f"Merged: {len(done)} done, {len(dead)} permanently dead")
           EOF
 
       - name: Commit merged pipeline-cache
@@ -385,8 +386,12 @@ jobs:
             done
           )
 
-      # ── Watermark check ─────────────────────────────────────────────────
-      - name: Compute watermark
+      # ── Completeness check ──────────────────────────────────────────────
+      # We do NOT build historial from a partial cache. Every norma that has
+      # vigencias in the graph MUST have a complete diffs file before we build.
+      # If cache_complete=false, the run succeeds (it just fetches more next
+      # time) — but historial is not rebuilt, so the old historial stays intact.
+      - name: Check cache completeness
         id: watermark
         run: |
           python scripts/leychile.py status \
@@ -398,20 +403,34 @@ jobs:
           out = os.environ.get("GITHUB_OUTPUT", "")
           lines = [
             f"watermark_advanced={'true' if stats['watermark_advanced'] else 'false'}",
+            f"cache_complete={'true' if stats['cache_complete'] else 'false'}",
             f"W={stats['W']}",
             f"D={stats['D']}",
             f"cached={stats['cached']}",
             f"total={stats['total']}",
+            f"missing={stats['missing']}",
           ]
           for l in lines:
               print(l)
           if out:
               open(out, "a").write("\n".join(lines) + "\n")
+          complete = stats["cache_complete"]
+          missing = stats["missing"]
+          if not complete:
+              print(f"::warning::Cache incomplete: {missing} normas missing diffs. "
+                    f"Historial will NOT be rebuilt until all normas are cached. "
+                    f"Sample missing IDs: {stats.get('missing_ids_sample', [])[:10]}")
+          else:
+              print(f"Cache complete: all {stats['total']} normas have diffs. Building historial.")
           EOF
 
       # ── Build historial ─────────────────────────────────────────────────
+      # Gate: BOTH cache_complete AND watermark_advanced must be true.
+      # cache_complete=false means we don't yet have all norma diffs — building
+      # now would produce an incomplete historial. Wait for the next run.
       - name: Rebuild historial from cache
         if: |
+          steps.watermark.outputs.cache_complete == 'true' &&
           steps.watermark.outputs.watermark_advanced == 'true' &&
           github.event.inputs.dry_run != 'true'
         run: |
@@ -423,6 +442,7 @@ jobs:
 
       - name: Push historial (chunked, force-with-lease)
         if: |
+          steps.watermark.outputs.cache_complete == 'true' &&
           steps.watermark.outputs.watermark_advanced == 'true' &&
           github.event.inputs.dry_run != 'true'
         run: |

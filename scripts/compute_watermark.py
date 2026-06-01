@@ -111,7 +111,9 @@ def compute_watermark(
                 return False
         return True
 
-    total_cached = sum(1 for id_str in all_normas if _diffs_complete(id_str))
+    complete_set = {id_str for id_str in all_normas if _diffs_complete(id_str)}
+    total_cached = len(complete_set)
+    missing_ids = sorted(set(all_normas) - complete_set, key=lambda x: int(x) if x.isdigit() else 0)
 
     D = ""
     for id_str, fecha in dated:
@@ -123,13 +125,13 @@ def compute_watermark(
         # Real count: dirs that have a metadata.json under any norma type.
         historial_count = sum(1 for _ in historial_dir.glob("*/*/metadata.json"))
     else:
-        # No historial dir → don't fabricate a count.  The previous projection
-        # ("graph entries with fechaPublicacion <= W") fed the README's
-        # bogus 99% claim and is gone for good.
         historial_count = 0
 
-    # Rebuild whenever any complete prefix exists.  D > W comparison is dropped
-    # because historial is now a derived artifact, not an append-only log.
+    # cache_complete: every norma in the graph has a complete diffs file.
+    # This is the correctness gate — historial should only be built when True.
+    cache_complete = total_cached == total
+
+    # watermark_advanced: any complete prefix exists to rebuild from.
     watermark_advanced = bool(D)
 
     return {
@@ -137,8 +139,12 @@ def compute_watermark(
         "D": D,
         "total": total,
         "cached": total_cached,
+        "missing": len(missing_ids),
+        "cache_complete": cache_complete,
         "historial_count": historial_count,
         "watermark_advanced": watermark_advanced,
+        # Only include missing IDs list when it's small to avoid huge JSON blobs.
+        "missing_ids_sample": missing_ids[:50] if missing_ids else [],
     }
 
 
@@ -148,8 +154,10 @@ def _write_github_output(stats: dict) -> None:
         f"W={stats['W']}",
         f"D={stats['D']}",
         f"watermark_advanced={'true' if stats['watermark_advanced'] else 'false'}",
+        f"cache_complete={'true' if stats['cache_complete'] else 'false'}",
         f"total_normas={stats['total']}",
         f"cached_normas={stats['cached']}",
+        f"missing_normas={stats['missing']}",
         f"historial_count={stats['historial_count']}",
     ]
     for line in lines:
