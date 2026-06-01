@@ -81,13 +81,53 @@ class DiffPayload:
         )
 
 
+@dataclass(frozen=True, slots=True)
+class ModificadaPor:
+    """The amending norma that caused a particular version of an affected law.
+
+    Legacy shape inside a diff entry::
+
+        "modificadaPor": {"idNorma": 30232, "numero": "18802", "titulo": "..."}
+
+    Legacy also tolerates a list form (uses first element) and absence/None.
+    """
+
+    id_norma: int
+    numero: str = ""
+    titulo: str = ""
+
+    @classmethod
+    def from_legacy(cls, raw: object) -> "ModificadaPor | None":
+        if raw is None:
+            return None
+        if isinstance(raw, list):
+            raw = raw[0] if raw else None
+        if not isinstance(raw, dict):
+            return None
+        try:
+            id_norma = int(raw["idNorma"])
+        except (KeyError, TypeError, ValueError):
+            return None
+        return cls(
+            id_norma=id_norma,
+            numero=str(raw.get("numero", "")),
+            titulo=str(raw.get("titulo", "")),
+        )
+
+
 @dataclass(slots=True)
 class VersionDiffEntry:
-    """One published version of a norma: date, label, and optional diff."""
+    """One published version of a norma: date, label, optional diff, optional cause.
+
+    ``modificada_por`` identifies the amending norma that caused this
+    version. None for original publications (and for legacy caches that
+    pre-date the field).
+    """
 
     fecha: str  # YYYY-MM-DD; the original version has the law's pub date
     tipo_version_s: str
     diff: DiffPayload | None  # None on the original (no predecessor to diff against)
+    modificada_por: ModificadaPor | None = None
 
     @classmethod
     def from_legacy(cls, raw: dict, *, source: str | None = None) -> "VersionDiffEntry":
@@ -96,6 +136,7 @@ class VersionDiffEntry:
                 fecha=str(raw["fecha"]),
                 tipo_version_s=str(raw.get("tipo_version_s", "")),
                 diff=DiffPayload.from_legacy(raw.get("diff")),
+                modificada_por=ModificadaPor.from_legacy(raw.get("modificadaPor")),
             )
         except (KeyError, TypeError, ValueError) as e:
             raise SchemaError(

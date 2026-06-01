@@ -19,6 +19,7 @@ from .graph import Vigencia, ModificadaPorEdge, NormaNode, NormaGraph
 from .versions import (
     DiffPart,
     DiffPayload,
+    ModificadaPor,
     VersionDiffEntry,
     NormaDiffSeries,
     NormaVersionSnapshot,
@@ -39,6 +40,7 @@ __all__ = [
     "NormaGraph",
     "DiffPart",
     "DiffPayload",
+    "ModificadaPor",
     "VersionDiffEntry",
     "NormaDiffSeries",
     "NormaVersionSnapshot",
