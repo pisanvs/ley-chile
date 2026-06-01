@@ -2,13 +2,13 @@ name: Fetch and Build
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
+    - cron: "0 */3 * * *"  # Every 6 hours
   workflow_dispatch:
     inputs:
       version_budget:
-        description: "Max version-fetches per run (default: 20000)"
+        description: "Max version-fetches per run (default: 600000)"
         required: false
-        default: "20000"
+        default: "600000"
       notify_url:
         description: "ntfy.sh webhook URL for completion notification"
         required: false
