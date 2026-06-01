@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1950-10-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-08-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7284662,
+          "old": "<div><div class=\"p\">FIJA NORMAS EN RELACION CON EL CONTRATO DE TECNICOS EXTRANJEROS Y LOS SISTEMAS DE IMPOSICIONES O LEYES DE PREVISION ACTUALMENTE EN VIGOR</div><br><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">FIJA NORMAS EN RELACION CON EL CONTRATO DE TECNICOS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> EXTRANJEROS Y LOS SISTEMAS DE IMPOSICIONES O LEYES DE PREVISION ACTUALMENTE EN VIGOR</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 7&#xBA; de la LEY 18156, publicada el 25.08.1982, derog&#xF3; la presente ley. Sin embargo, su Art. transitorio dispuso que las exenciones que fueron otorgadas bajo su vigencia y que se encontraren pendientes al momento de su derogaci&#xF3;n, subsistir&#xE1;n hasta su t&#xE9;rmino en la forma y condiciones previstas en esta norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

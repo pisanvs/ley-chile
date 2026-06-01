@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1938-02-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1941-03-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9005160,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o Substit&#xFA;yese el n&#xFA;mero segundo del art&#xED;culo 3.o de la Ley 5,950, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;2.o Con los dineros que le entregar&#xE1; la Caja de Seguro Obligatorio, de conformidad a lo que dispone el inciso siguiente.</div><div class=\"p\">&nbsp; &nbsp;  La Caja de Seguro Obligatoria har&#xE1; entrega anualmente a la Caja de la Habitaci&#xF3;n, de la cuarta parte del aporte patronal que establecen los art&#xED;culos 12 de la Ley 4,054 y 1.o de la presente.</div><div class=\"p\">&nbsp; &nbsp;  La Caja de la Habitaci&#xF3;n invertir&#xE1; dichos fondos en la adquisici&#xF3;n de terrenos y en la construcci&#xF3;n de habitaciones para obreros.</div><div class=\"p\">&nbsp; &nbsp;  El dominio de estos inmuebles pertenecer&#xE1; a la Caja de Seguro Obligatorio, a cuyo efecto se inscribir&#xE1;n a su nombre en el Registro Conservador de Bienes Ra&#xED;ces.</div><div class=\"p\">&nbsp; &nbsp;  Los citados inmuebles ser&#xE1;n transferidos por la Caja de Seguro Obligatorio a los imponentes de ella que lo soliciten y que hayan cumplido con las disposiciones del Art. 24, p&#xE1;rrafo 2.o de esta Ley, al inter&#xE9;s m&#xE1;ximo anual del 3% y una amortizaci&#xF3;n m&#xED;nima de un 1%.</div><div class=\"p\">&nbsp; &nbsp;  La transferencia de los inmuebles adquiridos por los imponentes, s&#xF3;lo podr&#xE1; ser hecha a otros imponentes de la Caja de Seguro Obligatorio y previa autorizaci&#xF3;n del Consejo de ella.</div><div class=\"p\">&nbsp; &nbsp;  En estos casos, se imputar&#xE1;n al 5% de inter&#xE9;s que deber&#xE1; pagar la Caja de la Habitaci&#xF3;n a la Caja de Seguro Obligatorio, las cuotas que deber&#xE1;n pagar los adquirentes, de manera que la primera de estas instituciones solamente pagar&#xE1; a la segunda el saldo que corresponda hasta enterar dicho 5% de inter&#xE9;s&quot;. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o Substit&#xFA;yese el n&#xFA;mero segundo del art&#xED;culo 3.o de la Ley 5,950, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;2.o Con los dineros que le entregar&#xE1; la Caja de Seguro Obligatorio, de conformidad a lo que dispone el inciso siguiente.</div><div class=\"p\">&nbsp; &nbsp;  La Caja de Seguro Obligatoria har&#xE1; entrega anualmente a la Caja de la Habitaci&#xF3;n, de la cuarta parte del aporte patronal que establecen los art&#xED;culos 12 de la Ley 4,054 y 1.o de la presente.</div><div class=\"p\">&nbsp; &nbsp;  La Caja de la Habitaci&#xF3;n invertir&#xE1; dichos fondos en la adquisici&#xF3;n de terrenos y en la construcci&#xF3;n de habitaciones para obreros.</div><div class=\"p\">&nbsp; &nbsp;  INCISOS SUPRIMIDOS<span class=\"n\" id=\"n_0\">LEY 6815<br>Art. 21<br>D.O. 04.03.1941</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

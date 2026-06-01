@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1952-07-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1983-10-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7279676,
+          "old": "<div><div class=\"p\">ADOPTA MEDIDAS EN RELACION CON LA AMPLIACION DE CONCESIONES DE EXPLOTACION DE YACIMIENTOS CARBONIFEROS SUBMARINOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 917.- Santiago, 9 de Junio de 1952.- Vistos estos antecedentes; lo informado por el Servicio de Minas del Estado y la facultad que me confiere el art&#xED;culo &#xFA;nico de la ley N.o 10,263, de 28 de Febrero de 1952,</div><div class=\"p\">&nbsp; &nbsp;  He acordado, y Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ADOPTA MEDIDAS EN RELACION CON LA AMPLIACION DE CONCESIONES DE EXPLOTACION DE YACIMIENTOS CARBONIFEROS SUBMARINOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 917.- Santiago, 9 de Junio de 1952.- Vistos estos antecedentes; lo informado por el Servicio de Minas del Estado y la facultad que me confiere el art&#xED;culo &#xFA;nico de la ley N.o 10,263, de 28 de Febrero de 1952,</div><div class=\"p\">&nbsp; &nbsp;  He acordado, y</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

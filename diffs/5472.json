@@ -1,0 +1,67 @@
+[
+  {
+    "fecha": "1962-01-04",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1990-03-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8988743,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Derogado.<span class=\"n\" id=\"n_0\">Ley 14816,<br>Art.10&#xB0;</span></div><br></div>"
+        },
+        {
+          "part_id": 8988744,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Derogado.<span class=\"n\" id=\"n_1\">Ley 14816,<br>Art.10&#xB0;</span></div><br></div>"
+        },
+        {
+          "part_id": 8988745,
+          "old": null,
+          "new": "<div><div class=\"p\"> Art&#xED;culo 3&#xB0;. Para el ingreso al presente Escalaf&#xF3;n<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:&nbsp;  1</a></div><div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:&nbsp;  1</a></div> s<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:&nbsp;  1</a></div>e requiere lo siguiente:</div><div class=\"p\">&nbsp; &nbsp; a) Ser Oficial de la Armada en retiro con el grado<span class=\"n\" id=\"n_2\">Ley 12053,<br>Art &#xFA;nico</span> de Teniente 2&#xB0;., a lo menos. b) Que su retiro del servicio activo de la Instituci&#xF3;n, no se haya debido a las siguientes causales:</div><div class=\"p\">&nbsp; &nbsp; Sanci&#xF3;n disciplinaria.</div><div class=\"p\">&nbsp; &nbsp; Inutilidad f&#xED;sica.</div><div class=\"p\">&nbsp; &nbsp; c) Ser declarado apto para el servicio por la Comisi&#xF3;n de Cirujanos de la Armada.</div><div class=\"p\">&nbsp; &nbsp; d) No tener m&#xE1;s de cincuenta a&#xF1;os de edad.</div><div class=\"p\">&nbsp; &nbsp; e) Haber estado clasificado durante el &#xFA;ltimo a&#xF1;o de permanencia en la Armada, por lo menos en Lista N&#xB0; 2.</div><div class=\"p\">&nbsp; &nbsp; f) Haber pertenecido a la fecha de su retiro del servicio activo, a la Especialidad de Estado Mayor o a alguna de las Especialidades de Armamento o de Ingenier&#xED;a Naval.</div><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:&nbsp;  1</a> <br>&nbsp; &nbsp;  El inciso 2&#xB0; del art&#xED;culo 10 de la ley 14.816 dispuso que el personal de Profesionales Auxiliares de Empleados Civiles de la Armada seguir&#xE1; rigi&#xE9;ndose para los efectos de su ingreso y requisitos de ascenso, por los art&#xED;culos 3&#xB0;, 4&#xB0; y 5&#xB0; del presente DFL.<br></div></div>"
+        },
+        {
+          "part_id": 8988746,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;. El ingreso normal al Escalaf&#xF3;n se efectuar&#xE1; en el grado m&#xE1;s bajo y en el &#xFA;ltimo lugar, sin embargo, podr&#xE1; ingresarse en dicho lugar de alguno de los otros grados, cuando concurran las siguientes circunstancias:</div><div class=\"p\">&nbsp; &nbsp; a) Cuando exista vacante en el grado correspondiente y no existan Oficiales en el grado inferior con requisitos para el ascenso.</div><div class=\"p\">&nbsp; &nbsp; b) Cuando el candidato posea a lo menos el grado de asimilaci&#xF3;n correspondiente en el Escalaf&#xF3;n de la Reserva de la Armada.</div><br></div>"
+        },
+        {
+          "part_id": 8988747,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;. Los requisitos de ascenso ser&#xE1;n los siguientes:</div><div class=\"p\">&nbsp; &nbsp; a) Tener a lo menos cinco a&#xF1;os de permanencia en cada grado, contados desde el ingreso al Escalaf&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; b) Estar clasificado en Lista N&#xB0; 1.</div><div class=\"p\">&nbsp; &nbsp; c) Cumplir con los requisitos especiales que se disponga por decreto supremo.</div><br></div>"
+        },
+        {
+          "part_id": 8988748,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;. Supr&#xED;mense los siguientes cargos de la planta y Escalafones que se indican:</div><div class=\"p\">&nbsp; &nbsp; PLANTA DE EMPLEADOS CIVILES</div><div class=\"p\">&nbsp; &nbsp; (Armada)</div><div class=\"p\">&nbsp; &nbsp; a) Servicio de Informaciones.</div><div class=\"p\">&nbsp; &nbsp; 1.- Un Traductor, grado 10&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; c) Servicio de Dibujantes.</div><div class=\"p\">&nbsp; &nbsp; 1.- Un Dibujante, grado 8&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; m) Servicios Generales.</div><div class=\"p\">&nbsp; &nbsp; 1.- Un T&#xE9;cnico Bal&#xED;stico, grado 3&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; 1.- Un Secretario T&#xE9;cnico de la Direcci&#xF3;n de Armamentos, grado 3&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; 1.- Un Empleado T&#xE9;cnico del Estado Mayor General de la Armada, grado 3&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; 1.- Un Empleado T&#xE9;cnico del Estado Mayor General de la Armada, grado 9&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; 1.- Un Cript&#xF3;grafo del Estado Mayor General de la Armada, grado 10&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; 1.- Un Empleado T&#xE9;cnico del Estado Mayor General de la Armada, grado 11&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; ITEM 10/01/01.- OTROS SUELDOS</div><div class=\"p\">&nbsp; &nbsp; 12.- Doce Subingenieros (Vacantes).</div><br></div>"
+        },
+        {
+          "part_id": 8988749,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;. Las supresiones de los cargos indicados en el art&#xED;culo 6&#xB0;, no se encuentran afectos a la indemnizaci&#xF3;n extraodinaria que contempla la ley 11.151, por no producirse despidos de personal. </div></div>"
+        },
+        {
+          "part_id": 8988750,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;. El presente decreto con fuerza de ley regir&#xE1; a contar desde la fecha de su promulgaci&#xF3;n en el &quot;Diario Oficial&quot;.</div><br></div>"
+        },
+        {
+          "part_id": 8988751,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo transitorio. El personal que actualmente pertenece a los empleos que se suprimen y que sea Oficial de la Armada en retiro y re&#xFA;na adem&#xE1;s, los requisitos indicados en el art&#xED;culo 3&#xB0;, letras b), c) y e), exigidos en el presente decreto, ingresar&#xE1; al Escalaf&#xF3;n del Servicio T&#xE9;cnico Especial y ser&#xE1; encasillado dentro de &#xE9;l por medio de un decreto supremo.</div><br></div>"
+        },
+        {
+          "part_id": 8988752,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; An&#xF3;tese, t&#xF3;mese raz&#xF3;n, reg&#xED;strese, comun&#xED;quese y publ&#xED;quese.- CARLOS IBA&#xD1;EZ DEL CAMPO.- Abd&#xF3;n Parra.- Felipe Herrera.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

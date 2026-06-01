@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1953-05-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8460096,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Supr&#xED;mense los derechos de internaci&#xF3;n, de almacenaje, el impuesto de embarque y desembarque, los impuestos establecidos en el decreto de Hacienda N.&#xB0; 2,772, de 18 de Agosto de 1943,- que fij&#xF3; el texto refundido de las disposiciones sobre impuestos a la internaci&#xF3;n, producci&#xF3;n y cifra de negocios, y&nbsp; en sus modificaciones posteriores y, en general, todo impuesto o derecho que se perciba por las Aduanas, que afecten a las mezclas vitam&#xED;nicas destinadas a aumentar el valor nutritivo del pan, compuestas de Tiamina, riboflavina, niacina, fierro, calcio, etc.</div><br><div class=\"p\">&nbsp; &nbsp;  El presente decreto con fuerza de ley regir&#xE1; desde la fecha de su publicaci&#xF3;n en el &quot;Diario Oficial&quot;. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- DEROGADO<span class=\"n\" id=\"n_0\">DFL 1, HACIENDA<br>Art. 1&#xBA; N&#xBA; 2<br>D.O. 05.05.1979</span> </div></div>"
+        }
+      ]
+    }
+  }
+]

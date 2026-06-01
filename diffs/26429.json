@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1952-10-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8900054,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA DISPOSICIONES QUE REGIRAN LAS RELACIONES ENTRE COLEGIOS PARTICULARES PAGADOS, DE INSTRUCCION PRIMARIA O SECUNDARIA, Y SUS PROFESORES SEGLARES</div><div class=\"p\">&nbsp; &nbsp; El Congreso Nacional ha tenido a bien prestar su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA DISPOSICIONES QUE REGIRAN LAS RELACIONES ENTRE COLEGIOS PARTICULARES PAGADOS, DE INSTRUCCION PRIMARIA O SECUNDARIA, Y SUS PROFESORES SEGLARES</div><br><div class=\"p\">&nbsp; &nbsp; El Congreso Nacional ha tenido a bien prestar su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

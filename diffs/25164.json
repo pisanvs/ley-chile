@@ -1,0 +1,48 @@
+[
+  {
+    "fecha": "1982-08-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-02-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8802742,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; LEY N&#xB0; 5,687 Aprueba el Estatuto Org&#xE1;nico del Instituto de Cr&#xE9;dito Industrial; y deroga leyes 4,312, de 24 de febrero de 1928, que lo estableci&#xF3;, y 4,560, de 30 de enero de 1929, que la modific&#xF3;, y el decreto 3,217 de 30 de julio de 1929, de Hacienda, que fij&#xF3; texto definitivo a las leyes citadas, y toda otra disposici&#xF3;n que le sea contraria.</div><div class=\"p\">&nbsp; &nbsp; (Publicada en el &quot;Diario Oficial&quot; N&#xB0; 17,271, de 17 de septiembre de 1935)</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>"
+        },
+        {
+          "part_id": 8802743,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 24. El contrato de prenda industrial podr&#xE1; recaer sobre:</div><div class=\"p\">&nbsp; &nbsp; a) Materias primas;</div><div class=\"p\">&nbsp; &nbsp; b) Productos elaborados;</div><div class=\"p\">&nbsp; &nbsp; c) Maquinarias;</div><div class=\"p\">&nbsp; &nbsp; d) Vasijas;</div><div class=\"p\">&nbsp; &nbsp; e) Productos agr&#xED;colas destinados a la industria;</div><div class=\"p\">&nbsp; &nbsp; f) Herramientas y &#xFA;tiles;</div><div class=\"p\">&nbsp; &nbsp; g) Animales, siempre que ellos sean elementos de trabajo industrial;</div><div class=\"p\">&nbsp; &nbsp; h) Maderas;</div><div class=\"p\">&nbsp; &nbsp; i) DEROGADA<span class=\"n\" id=\"n_4\">LEY 18690<br>Art. 40<br>D.O. 02.02.1988</span></div><div class=\"p\">&nbsp; &nbsp; j) Elementos de transporte, como carros, camiones, naves, embarcaciones, etc.</div><div class=\"p\">&nbsp; &nbsp; k) Acciones, bonos y otros valores.<div class=\"n rnp\" id=\"rnp5\"><a href=\"#np5\">NOTA:&nbsp; 1</a></div></div><div class=\"p\">&nbsp; &nbsp; Y, en general, todas aquellas especies muebles que, en raz&#xF3;n de la industria, forman parte integrante o accesoria de ella.</div><br><div class=\"np\" id=\"np5\"><a href=\"#rnp5\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 41 de la Ley N&#xB0; 18.690, dispuso que la derogaci&#xF3;n regir&#xE1; a contar de sesenta d&#xED;as despu&#xE9;s de su publicaci&#xF3;n en el Diario Oficial.<br></div></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": [
+        {
+          "part_id": 8802725,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 40. En los dem&#xE1;s casos, o cuando no pueda por cualquier motivo, procederse en la forma antes indicada, la enajenaci&#xF3;n de la prenda se har&#xE1; con arreglo a lo dispuesto en los art&#xED;culos 507, 511, 512 y 513 del<span class=\"n\" id=\"n_4\">Ley 6276<br>Art 1&#xB0;, c)</span> C&#xF3;digo de Procedimiento Civil, tomando como base para la enajenaci&#xF3;n la tasaci&#xF3;n pericial practicada para otorgar el pr&#xE9;stamo.</div><div class=\"p\">&nbsp; &nbsp; Las impugnaciones que se hagan a esta tasaci&#xF3;n se tramitar&#xE1;n en forma incidental.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 40. En los dem&#xE1;s casos, o cuando no pueda por cualquier motivo, procederse en la forma antes indicada, la enajenaci&#xF3;n de la prenda se har&#xE1; con arreglo a lo dispuesto en los art&#xED;culos 507, 511, 512 y 513 del<span class=\"n\" id=\"n_6\">Ley 6276<br>Art 1&#xB0;, c)</span> C&#xF3;digo de Procedimiento Civil, tomando como base para la enajenaci&#xF3;n la tasaci&#xF3;n pericial practicada para otorgar el pr&#xE9;stamo.</div><div class=\"p\">&nbsp; &nbsp; Las impugnaciones que se hagan a esta tasaci&#xF3;n se tramitar&#xE1;n en forma incidental.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

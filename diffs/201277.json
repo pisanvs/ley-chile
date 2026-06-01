@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1952-04-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1983-02-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7293409,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.o Conc&#xE9;dese personalidad jur&#xED;dica a la corporaci&#xF3;n denominada &quot;Club de Jazz de Santiago&quot;, con domicilio en la ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2.o Apru&#xE9;banse los estatutos por los cuales se ha de regir la citada corporaci&#xF3;n, en los t&#xE9;rminos de que da constancia la escritura p&#xFA;blica otorgada ante el notario del departamento de Santiago don Luis Az&#xF3;car Alvarez, con fecha dos de Octubre de mil novecientos cincuenta y uno.</div><div class=\"p\">&nbsp; &nbsp;  3.o Se declara que queda prohibido el expendio de bebidas alcoh&#xF3;licas en el local social.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.o Conc&#xE9;dese personalidad jur&#xED;dica a la corporaci&#xF3;n denominada &quot;Club de Jazz de Santiago&quot;, con domicilio en la ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2.o Apru&#xE9;banse los estatutos por los cuales se ha de regir la citada corporaci&#xF3;n, en los t&#xE9;rminos de que da constancia la escritura p&#xFA;blica otorgada ante el notario del departamento de Santiago don Luis Az&#xF3;car Alvarez, con fecha dos de Octubre de mil novecientos cincuenta y uno.</div><div class=\"p\">&nbsp; &nbsp;  3.o SUPRIMID<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=276198&amp;idParte=10128274&amp;idVersion=1983-02-28\">Decreto 88,<br>JUSTICIA<br>D.O. 28.02.1983</a></span>O</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 276198,
+      "fecha": "1983-02-28"
+    }
+  }
+]

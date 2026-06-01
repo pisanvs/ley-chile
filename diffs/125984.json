@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1951-05-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-10-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7240756,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA LOS TEXTOS DEFINITIVOS DEL CODIGO DE AGUAS </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2,310.- Santiago, 13 de Abril de 1951.- En uso de la facultad que me confiere el art&#xED;culo 4.o de la ley N.o 9,896, publicada en el Diario Oficial de 28 de Marzo del a&#xF1;o en curso,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"p\">&nbsp; &nbsp; T&#xE9;ngase como textos definitivos del C&#xF3;digo de Aguas y de su ley aprobatoria los siguientes, que constituir&#xE1;n la</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  LEY N.o 9,909</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ley Aprobatoria</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; FIJA LOS TEXTOS DEFINITIVOS DEL CODIGO DE AGUAS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2,310.- Santiago, 13 de Abril de 1951.- En uso de la facultad que me confiere el art&#xED;culo 4.o de la ley N.o 9,896, publicada en el Diario Oficial de 28 de Marzo del a&#xF1;o en curso,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"p\">&nbsp; &nbsp; T&#xE9;ngase como textos definitivos del C&#xF3;digo de Aguas y de su ley aprobatoria los siguientes, que constituir&#xE1;n la</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  LEY N.o 9,909</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ley Aprobatoria</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 308 del DFL 1122, Justicia, publicado el 29.10.1981, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

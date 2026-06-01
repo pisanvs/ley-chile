@@ -1,0 +1,76 @@
+[
+  {
+    "fecha": "1936-12-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1942-03-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9021652,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 138. A ninguna sociedad cooperativa le ser&#xE1; permitido, sin la autorizaci&#xF3;n previa del Comisariato General de Subsistencias y Precios:</div><div class=\"p\">&nbsp; &nbsp;  a) Realizar con la intervenci&#xF3;n o relaci&#xF3;n de intermediarios, las operaciones propias de estas sociedades;</div><div class=\"p\">&nbsp; &nbsp;  b) Establecer con comerciantes combinaciones o acuerdos que hagan participar a &#xE9;stos directa, o indirectamente de los beneficios de la sociedad o de la Ley; y</div><div class=\"p\">&nbsp; &nbsp;  c) Recibir mercader&#xED;as a consignaci&#xF3;n o de concesionarios por una suma superior al 50% de las existencias sociales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 138. A ninguna sociedad cooperativa le ser&#xE1; permitido, sin la autorizaci&#xF3;n previa del Comisariato General de Subsistencias y Precios:</div><div class=\"p\">&nbsp; &nbsp;  a) Realizar con la intervenci&#xF3;n o relaci&#xF3;n de</div><div class=\"p\">intermediarios, las operaciones propias de estas</div><div class=\"p\">sociedades;</div><div class=\"p\">&nbsp; &nbsp;  b) Establecer con comerciantes combinaciones o</div><div class=\"p\">acuerdos que hagan participar a &#xE9;stos directa, o</div><div class=\"p\">indirectamente de los beneficios de la sociedad o de</div><div class=\"p\">la Ley; y</div><div class=\"p\">&nbsp; &nbsp;  c) Recibir mercader&#xED;as a consignaci&#xF3;n por una<span class=\"n\" id=\"n_0\">DTO 188, TRABAJO<br>D.O. 09.03.1942</span></div><div class=\"p\">suma superior al 50% de las existencias sociales.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1947-05-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9021515,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  TITULO I</div><br><div class=\"p\">DE LA CONSTITUCION DE LAS SOCIEDADES COOPERATIVAS Y DE SU APROBACION SUPREMA</div><br><div class=\"p\">&nbsp; &nbsp;  Articulo 1.o Ninguna cooperativa que no est&#xE9; regida por leyes especiales, podr&#xE1; constituirse con menos de 20 socios; pero trat&#xE1;ndose de cooperativas de consumo, este m&#xED;nimo ser&#xE1; de cien accionistas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  TITULO I DE LA CONSTITUCION DE LAS SOCIEDADES COOPERATIVAS Y DE SU APROBACION SUPREMA</div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Ninguna Cooperativa que no est&#xE9;<span class=\"n\" id=\"n_0\">DTO 550, ECONOMIA<br>D.O. 29.05.1947</span> regida por leyes especiales podr&#xE1; constituirse con menos de cien socios, salvo que el Ministerio de Econom&#xED;a y Comercio, previo informe del se&#xF1;or Comisario General de Subsistencias y Precios, atendida la naturaleza de la sociedad o los fines que se persiguen, autorice su constituci&#xF3;n con un n&#xFA;mero inferior. Except&#xFA;anse las Cooperativas de Consumo de energ&#xED;a el&#xE9;ctrica que podr&#xE1;n constituirse con veinte socios.</div><br></div>"
+        },
+        {
+          "part_id": 9021652,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 138. A ninguna sociedad cooperativa le ser&#xE1; permitido, sin la autorizaci&#xF3;n previa del Comisariato General de Subsistencias y Precios:</div><div class=\"p\">&nbsp; &nbsp;  a) Realizar con la intervenci&#xF3;n o relaci&#xF3;n de</div><div class=\"p\">intermediarios, las operaciones propias de estas</div><div class=\"p\">sociedades;</div><div class=\"p\">&nbsp; &nbsp;  b) Establecer con comerciantes combinaciones o</div><div class=\"p\">acuerdos que hagan participar a &#xE9;stos directa, o</div><div class=\"p\">indirectamente de los beneficios de la sociedad o de</div><div class=\"p\">la Ley; y</div><div class=\"p\">&nbsp; &nbsp;  c) Recibir mercader&#xED;as a consignaci&#xF3;n por una<span class=\"n\" id=\"n_0\">DTO 188, TRABAJO<br>D.O. 09.03.1942</span></div><div class=\"p\">suma superior al 50% de las existencias sociales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 138. A ninguna sociedad cooperativa le ser&#xE1; permitido, sin la autorizaci&#xF3;n previa del Comisariato General de Subsistencias y Precios:</div><div class=\"p\">&nbsp; &nbsp;  a) Realizar con la intervenci&#xF3;n o relaci&#xF3;n de</div><div class=\"p\">intermediarios, las operaciones propias de estas</div><div class=\"p\">sociedades;</div><div class=\"p\">&nbsp; &nbsp;  b) Establecer con comerciantes combinaciones o</div><div class=\"p\">acuerdos que hagan participar a &#xE9;stos directa, o</div><div class=\"p\">indirectamente de los beneficios de la sociedad o de</div><div class=\"p\">la Ley; y</div><div class=\"p\">&nbsp; &nbsp;  c) Recibir mercader&#xED;as a consignaci&#xF3;n por una<span class=\"n\" id=\"n_1\">DTO 188, TRABAJO<br>D.O. 09.03.1942</span></div><div class=\"p\">suma superior al 50% de las existencias sociales.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1960-04-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9021514,
+          "old": "<div><div class=\"p\">APRUEBA EL REGLAMENTO SOBRE SOCIEDADES COOPERATIVAS </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 790.- Santiago, 6 de Octubre de 1936.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente lo dispuesto en el decreto N.o 215, expedido por este Ministerio el 26 de Febrero &#xFA;ltimo, por el cual se dispuso que el Departamento de Cooperativas de la Inspecci&#xF3;n General del Trabajo depender&#xED;a del Comisariato General de Subsistencias y Precios, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o Que tanto los organismos administrativos encargados por la Ley de la fiscalizaci&#xF3;n de las Sociedades Cooperativas, como los dirigentes de &#xE9;stas mismas han representado la necesidad que existe en orden a que se introduzcan las reformas que la pr&#xE1;ctica se&#xF1;ala para la mejor aplicaci&#xF3;n y desarrollo del r&#xE9;gimen cooperativista; y</div><div class=\"p\">&nbsp; &nbsp;  2.o Que para su mejor consulta y aplicaci&#xF3;n se presenta la necesidad de refundir en un solo texto las diversas disposiciones reglamentarias del decreto N.o 596, de 14 de Noviembre de 1932, y</div><div class=\"p\">&nbsp; &nbsp;  En uso de las facultades que me confiere el N.o 2 del art&#xED;culo 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado, y de conformidad a lo dispuesto en el art&#xED;culo 75 del mismo decreto N.o 596.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento para la aplicaci&#xF3;n del decreto N.o 596, de 14 de Noviembre de 1932, que refundi&#xF3; en un solo texto las disposiciones de los decretos N.os, 700, de 17 de Octubre de 1925 y 669, de 30 de Septiembre de 1932 sobre Sociedades Cooperativas:</div><br></div>",
+          "new": "<div><br><div class=\"p\"> APRUEBA EL REGLAMENTO SOBRE SOCIEDADES COOPERATIVAS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 790.- Santiago, 6 de Octubre de 1936.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente lo dispuesto en el decreto N.o 215, expedido por este Ministerio el 26 de Febrero &#xFA;ltimo, por el cual se dispuso que el Departamento de Cooperativas de la Inspecci&#xF3;n General del Trabajo depender&#xED;a del Comisariato General de Subsistencias y Precios, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o Que tanto los organismos administrativos encargados por la Ley de la fiscalizaci&#xF3;n de las Sociedades Cooperativas, como los dirigentes de &#xE9;stas mismas han representado la necesidad que existe en orden a que se introduzcan las reformas que la pr&#xE1;ctica se&#xF1;ala para la mejor aplicaci&#xF3;n y desarrollo del r&#xE9;gimen cooperativista; y</div><div class=\"p\">&nbsp; &nbsp;  2.o Que para su mejor consulta y aplicaci&#xF3;n se presenta la necesidad de refundir en un solo texto las diversas disposiciones reglamentarias del decreto N.o 596, de 14 de Noviembre de 1932, y</div><div class=\"p\">&nbsp; &nbsp;  En uso de las facultades que me confiere el N.o 2 del art&#xED;culo 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado, y de conformidad a lo dispuesto en el art&#xED;culo 75 del mismo decreto N.o 596.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento para la aplicaci&#xF3;n del decreto N.o 596, de 14 de Noviembre de 1932, que refundi&#xF3; en un solo texto las disposiciones de los decretos N.os, 700, de 17 de Octubre de 1925 y 669, de 30 de Septiembre de 1932 sobre Sociedades Cooperativas:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 133 del DFL 326, Hacienda, publicado el 06.04.1960, que estableci&#xF3; normas sobre Sociedades Cooperativas, derog&#xF3; las disposiciones contrarias o incompatibles con &#xE9;l y, especialmente, entre otras, el DTO 596, reglamentado por el presente decreto. Asimismo, dejo sin efecto las disposiciones reglamentarias vigentes.<br></div></div>"
+        },
+        {
+          "part_id": 9021515,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  TITULO I DE LA CONSTITUCION DE LAS SOCIEDADES COOPERATIVAS Y DE SU APROBACION SUPREMA</div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Ninguna Cooperativa que no est&#xE9;<span class=\"n\" id=\"n_0\">DTO 550, ECONOMIA<br>D.O. 29.05.1947</span> regida por leyes especiales podr&#xE1; constituirse con menos de cien socios, salvo que el Ministerio de Econom&#xED;a y Comercio, previo informe del se&#xF1;or Comisario General de Subsistencias y Precios, atendida la naturaleza de la sociedad o los fines que se persiguen, autorice su constituci&#xF3;n con un n&#xFA;mero inferior. Except&#xFA;anse las Cooperativas de Consumo de energ&#xED;a el&#xE9;ctrica que podr&#xE1;n constituirse con veinte socios.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  TITULO I DE LA CONSTITUCION DE LAS SOCIEDADES COOPERATIVAS Y DE SU APROBACION SUPREMA</div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Ninguna Cooperativa que no est&#xE9;<span class=\"n\" id=\"n_1\">DTO 550, ECONOMIA<br>D.O. 29.05.1947</span> regida por leyes especiales podr&#xE1; constituirse con menos de cien socios, salvo que el Ministerio de Econom&#xED;a y Comercio, previo informe del se&#xF1;or Comisario General de Subsistencias y Precios, atendida la naturaleza de la sociedad o los fines que se persiguen, autorice su constituci&#xF3;n con un n&#xFA;mero inferior. Except&#xFA;anse las Cooperativas de Consumo de energ&#xED;a el&#xE9;ctrica que podr&#xE1;n constituirse con veinte socios.</div><br></div>"
+        },
+        {
+          "part_id": 9021652,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 138. A ninguna sociedad cooperativa le ser&#xE1; permitido, sin la autorizaci&#xF3;n previa del Comisariato General de Subsistencias y Precios:</div><div class=\"p\">&nbsp; &nbsp;  a) Realizar con la intervenci&#xF3;n o relaci&#xF3;n de</div><div class=\"p\">intermediarios, las operaciones propias de estas</div><div class=\"p\">sociedades;</div><div class=\"p\">&nbsp; &nbsp;  b) Establecer con comerciantes combinaciones o</div><div class=\"p\">acuerdos que hagan participar a &#xE9;stos directa, o</div><div class=\"p\">indirectamente de los beneficios de la sociedad o de</div><div class=\"p\">la Ley; y</div><div class=\"p\">&nbsp; &nbsp;  c) Recibir mercader&#xED;as a consignaci&#xF3;n por una<span class=\"n\" id=\"n_1\">DTO 188, TRABAJO<br>D.O. 09.03.1942</span></div><div class=\"p\">suma superior al 50% de las existencias sociales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 138. A ninguna sociedad cooperativa le ser&#xE1; permitido, sin la autorizaci&#xF3;n previa del Comisariato General de Subsistencias y Precios:</div><div class=\"p\">&nbsp; &nbsp;  a) Realizar con la intervenci&#xF3;n o relaci&#xF3;n de</div><div class=\"p\">intermediarios, las operaciones propias de estas</div><div class=\"p\">sociedades;</div><div class=\"p\">&nbsp; &nbsp;  b) Establecer con comerciantes combinaciones o</div><div class=\"p\">acuerdos que hagan participar a &#xE9;stos directa, o</div><div class=\"p\">indirectamente de los beneficios de la sociedad o de</div><div class=\"p\">la Ley; y</div><div class=\"p\">&nbsp; &nbsp;  c) Recibir mercader&#xED;as a consignaci&#xF3;n por una<span class=\"n\" id=\"n_2\">DTO 188, TRABAJO<br>D.O. 09.03.1942</span></div><div class=\"p\">suma superior al 50% de las existencias sociales.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2007-01-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

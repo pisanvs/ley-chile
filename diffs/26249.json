@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1951-10-19",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1951-10-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8999655,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1.o. Lib&#xE9;rase de derechos de internaci&#xF3;n, estad&#xED;stica y almacenaje, de los impuestos establecidos en el decreto supremo N.o 2,772, de 18 de Agosto de 1943, que fij&#xF3; el texto refundido de las disposiciones sobre el impuesto a la internaci&#xF3;n, producci&#xF3;n y cifra de negocios, y de los establecidos o que se establezcan en virtud de disposiciones legales que lo modifiquen o complementen, y, en general, de todo derecho o contribuci&#xF3;n, los efectos personales y dom&#xE9;sticos de las Misiones Naval y A&#xE9;rea de los Estados Unidos de Norte Am&#xE9;rica en Chile, para su uso personal y para el uso de los dem&#xE1;s miembros inmediatos de sus familias, entendi&#xE9;ndose por tales la mujer e hijos.</div><div class=\"p\">&nbsp; &nbsp; Asimismo gozar&#xE1;n de iguales franquicias los pertrechos importados para uso oficial de las Misiones que el Presidente de la Rep&#xFA;blica autorice a la Embajada de Estados Unidos de Am&#xE9;rica internar al pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; El autom&#xF3;vil de uso personal entrar&#xE1; igualmente libre de derechos e impuestos, pero deber&#xE1;n integrarse en arcas fiscales si es objeto de transferencia a cualquier t&#xED;tulo.</div><br></div>"
+        },
+        {
+          "part_id": 8999656,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o. El Presidente de la Rep&#xFA;blica otorgar&#xE1; tales autorizaciones mediante decretos supremos en que determinar&#xE1; expresamente, en cada caso, los materiales, pertrechos, &#xFA;tiles o efectos personales que, de acuerdo con lo dispuesto en el art&#xED;culo anterior, deban liberarse de derechos y contribuciones. </div></div>"
+        },
+        {
+          "part_id": 8999657,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3.o. Las remuneraciones, asignaciones o emolumentos de cualquiera &#xED;ndole que el Gobierno de Chile pague a los miembros de las Misiones, en moneda nacional o extranjera, en conformidad a los acuerdos celebrados por los Gobiernos de Chile y Estados Unidos de Am&#xE9;rica, estar&#xE1;n exentos de todo impuesto o gravamen que est&#xE9;n en vigor o se impongan en el futuro por cualquiera autoridad pol&#xED;tica o administrativa de Chile sobre los sueldos o remuneraciones pagados por el Gobierno de Chile.</div><br></div>"
+        },
+        {
+          "part_id": 8999658,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, prom&#xFA;lguese y ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, a quince de Diciembre de mil novecientos cincuenta.- GABRIEL GONZALEZ VIDELA.- Ra&#xFA;l Yrarr&#xE1;zaval L.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

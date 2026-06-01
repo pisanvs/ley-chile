@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1951-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7286380,
+          "old": "<div><div class=\"p\">ADOPTA LAS MEDIDAS QUE INDICA EN RELACION CON IMPUESTOS SOBRE APUESTAS MUTUAS EN LOS HIPODROMOS QUE DETALLA </div><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de Ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">ADOPTA LAS MEDIDAS QUE INDICA EN RELACION CON IMPUESTOS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> SOBRE APUESTAS MUTUAS EN LOS HIPODROMOS QUE DETALLA</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de Ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 19 del DFL 590, Hacienda, publicado el 22.01.1960, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

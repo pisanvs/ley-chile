@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1944-09-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1968-04-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7171798,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA LA LEY SOBRE ALCOHOLES Y BEBIDAS ALCOHOLICAS, EN LO REFERENTE A PATENTES PARA HOTELES Y PARA RESTAURANTES DE TURISMO</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Pleno ha tenido a bien prestar su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA LA LEY SOBRE ALCOHOLES Y BEBIDAS ALCOHOLICAS, EN LO REFERENTE A PATENTES PARA HOTELES Y PARA RESTAURANTES DE TURISMO</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Pleno ha tenido a bien prestar su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo cuarto del DFL 8, Agricultura, publicado el 14.04.1968, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

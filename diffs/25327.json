@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1938-09-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999219,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA EMPLEADOS PARTICULARES A LOS CHOFERES QUE PRESTEN EN FORMA CONTINUA SUS SERVICIOS EN CASAS PARTICULARES Y EN EMPRESAS INDUSTRIALES O COMERCIALES Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA EMPLEADOS PARTICULARES A LOS CHOFERES QUE PRESTEN EN FORMA CONTINUA SUS SERVICIOS EN CASAS PARTICULARES Y EN EMPRESAS INDUSTRIALES O COMERCIALES Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

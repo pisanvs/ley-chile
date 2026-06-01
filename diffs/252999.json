@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1953-08-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1968-07-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9005290,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO SEPTIMO: Las cantidades a que se refiere el presente Decreto con Fuerza de Ley, se incrementar&#xE1;n proporcionalmente a los aumentos de los Presupuestos de Entradas y Gastos Ordinarios de la Naci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos de lo dispuesto en el inciso anterior, se considerar&#xE1; como cifra de referencia el monto del Presupuesto de Entradas y Gastos Ordinarios de la Naci&#xF3;n para el a&#xF1;o 1953.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  ARTICULO SEPTIMO: DEROGADO<span class=\"n\" id=\"n_0\">LEY 16872<br>Art. 3&#xBA;<br>D.O. 18.07.1968</span>&nbsp; </div></div>"
+        }
+      ]
+    }
+  }
+]

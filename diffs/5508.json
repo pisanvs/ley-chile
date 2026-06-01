@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1953-08-06",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1953-11-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8988808,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DECRETO CON FUERZA DE LEY N&#xB0; 357, DE 25 DE JULIO DE 1953</div><div class=\"p\">&nbsp; &nbsp; Autoriza al Banco del Estado de Chile para emitir bonos reajustables anualmente, cuyo producido se destinar&#xE1; a los fines que indica.</div><div class=\"p\">&nbsp; &nbsp; MINISTERIO DE HACIENDA</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el &quot;Diario Oficial&quot; N.&#xB0; 22.615, de 5 de agosto de 1953)</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 357.- Santiago, 25 de julio de 1953.- Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; 1.&#xB0;) Que, ante la angustiosa carencia de habitaciones populares que aqueja al pa&#xED;s, es deber ineludible del Gobierno proveer a todos los medios para fomentar su construcci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; 2.&#xB0;) Que los recursos p&#xFA;blicos son insuficientes para realizar esta tarea, lo que hace indispensable la concurrencia adicional del ahorro popular y de la iniciativa privada;</div><div class=\"p\">&nbsp; &nbsp; 3.&#xB0;) Que, ante la escasez y carest&#xED;a de algunos productos alimenticios, es tambi&#xE9;n obligaci&#xF3;n primordial del Gobierno propender al desarrollo de la agricultura;</div><div class=\"p\">&nbsp; &nbsp; 4.&#xB0;) Que la creaci&#xF3;n de recursos, al trav&#xE9;s del cr&#xE9;dito, es un medio positivo para estimular estas actividades productoras;</div><div class=\"p\">&nbsp; &nbsp; 5.&#xB0;) Que el avance de la inflaci&#xF3;n ha hecho desaparecer virtualmente del pa&#xED;s el cr&#xE9;dito a mediano y largo plazo, de importancia fundamental para proveer a las inversiones de car&#xE1;cter permanente que requiere el desarrollo agr&#xED;cola;</div><div class=\"p\">&nbsp; &nbsp; 6.&#xB0;) Que la implantaci&#xF3;n de un cr&#xE9;dito reajustable mediante &#xED;ndices determinados, y por ende a cubierto del da&#xF1;o inflacionista, puede conculcar esa falta de cr&#xE9;dito a mediano y largo plazo;</div><div class=\"p\">&nbsp; &nbsp; 7.&#xB0;) Que la creaci&#xF3;n de nuevos alicientes para el ahorro y la capitalizaci&#xF3;n es parte integral del plan antiinflacionista en que se encuentra empe&#xF1;ado el Gobierno, y</div><div class=\"p\">&nbsp; &nbsp; Vistas las facultades que me confiere la ley 11.151, de 5 de febrero del presente a&#xF1;o, especialmente en sus art&#xED;culos 5.&#xB0; y 7.&#xB0;, dicto el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1953-03-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-01-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6549342,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19. Para ejercer la profesi&#xF3;n de enfermera es necesario estar en posesi&#xF3;n del t&#xED;tulo correspondiente otorgado por la Universidad de Chile, o reconocido por ella, o por la Universidad Cat&#xF3;lica de Chile o Universidad de Concepci&#xF3;n, o ser titulada por la Escuela de Enfermeras del Hospital de Ni&#xF1;os de Valpara&#xED;so, desde la fecha de su fundaci&#xF3;n hasta cuatro a&#xF1;os despu&#xE9;s de la vigencia de esta ley y estar inscrita en el Colegio.</div><div class=\"p\">&nbsp; &nbsp;  Las Municipalidades no podr&#xE1;n otorgar patente para el ejercicio de la profesi&#xF3;n de enfermera a ninguna profesional que no compruebe estar inscrita en el Colegio de Enfermeras.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19. Para ejercer la profesi&#xF3;n de enfermera es necesario estar en posesi&#xF3;n del t&#xED;tulo correspondiente otorgado por la Universidad de Chile, o reconocido por ella, o por la Universidad Cat&#xF3;lica de Chile o Universidad de Concepci&#xF3;n, o por las<span class=\"n\" id=\"n_0\">DL 857, EDUCACION<br>Art. &#xFA;nico<br>D.O. 17.01.1975</span> universidades del Estado o reconocidas por el Estado, o ser titulada por la Escuela de Enfermeras del Hospital de Ni&#xF1;os de Valpara&#xED;so, desde la fecha de su fundaci&#xF3;n hasta cuatro a&#xF1;os despu&#xE9;s de la vigencia de esta ley y estar inscrita en el Colegio.</div><div class=\"p\">&nbsp; &nbsp;  Las Municipalidades no podr&#xE1;n otorgar patente para el ejercicio de la profesi&#xF3;n de enfermera a ninguna profesional que no compruebe estar inscrita en el Colegio de Enfermeras.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1951-07-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-11-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8015685,
+          "old": "<div><div class=\"p\">APRUEBA EL PLANO OFICIAL DE URBANIZACION Y ORDENANZA LOCAL DE LA COMUNA DE SAN MIGUEL</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 916.- Santiago, 16 de Mayo de 1951.- Vistos el acuerdo de la Ilustre Municipalidad de San Miguel aprobado en sesiones de 19 de Mayo de 1950 y 14 de Marzo de 1951; lo informado por la Direcci&#xF3;n General de Obras P&#xFA;blicas en oficio N&#xBA; 1,803, de 4 de Mayo en curso, y lo dispuesto en los art&#xED;culos 37 y 92 de la Ley General de Construcciones y Urbanizaci&#xF3;n,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA EL PLANO OFICIAL DE URBANIZACION Y ORDENANZA LOCAL DE LA COMUNA DE SAN MIGUEL</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 916.- Santiago, 16 de Mayo de 1951.- Vistos el acuerdo de la Ilustre Municipalidad de San Miguel aprobado en sesiones de 19 de Mayo de 1950 y 14 de Marzo de 1951; lo informado por la Direcci&#xF3;n General de Obras P&#xFA;blicas en oficio N&#xBA; 1,803, de 4 de Mayo en curso, y lo dispuesto en los art&#xED;culos 37 y 92 de la Ley General de Construcciones y Urbanizaci&#xF3;n,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

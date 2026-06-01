@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1952-03-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1958-09-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8821786,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.o Establ&#xE9;cese, por diez a&#xF1;os, un impuesto de veinte centavos por litro de gasolina que se expenda en los departamentos de Concepci&#xF3;n, Talcahuano, Coronel, Nacimiento y Angol. Este impuesto ser&#xE1; depositado trimestralmente por las Compa&#xF1;&#xED;as distribuidoras en las respectivas Tesorer&#xED;as. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.o Establ&#xE9;cese, por diez a&#xF1;os, un impuesto de dos pesos por litro de gasolina que se<span class=\"n\" id=\"n_0\">LEY 12954,<br>Art. 8&#xBA;<br>D.O. 01.09.1958</span> expenda en los departamentos de Concepci&#xF3;n, Talcahuano, Coronel, Nacimiento y Angol. Este impuesto ser&#xE1; depositado trimestralmente por las Compa&#xF1;&#xED;as distribuidoras en las respectivas Tesorer&#xED;as.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

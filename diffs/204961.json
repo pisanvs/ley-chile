@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1953-12-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1957-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8925434,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1.o Decl&#xE1;ranse afectos a los beneficios del decreto con fuerza de ley N.o 33, de 8 de Abril de 1931, y de las leyes N.os 5,579, de 2 de Febrero de 1935; 6,754, de 22 de Noviembre de 1940, y 7,600, de 20 de Octubre de 1943, a los mejoreros que ocupan terrenos en la Poblaci&#xF3;n denominada &quot;Ebensperger&quot;, de la ciudad de Puerto Montt.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1.o Decl&#xE1;ranse afectos a los beneficios del decreto con fuerza de ley N.o 33, de 8 de Abril de 1931, y de las leyes N.os 5,579, de 2 de Febrero de 1935; 6,754, de 22 de Noviembre de 1940, y 7,600, de 20 de Octubre de 1943, a los mejoreros o compradores de<span class=\"n\" id=\"n_0\">LEY 12406<br>Art. 1&#xB0;<br>D.O. 10.01.1957</span> sitios a plazo que ocuparon sitios o terrenos hasta el 31 de Diciembre de 1952, en la Poblaci&#xF3;n denominada &quot;Francisco y Luis Ebensperguer&quot; de la ciudad de Puerto Montt. </div></div>"
+        }
+      ]
+    }
+  }
+]

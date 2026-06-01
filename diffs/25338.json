@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1939-07-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1943-10-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999232,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Los jubilados ferroviarios, sin perjuicio de sus actuales derechos tendr&#xE1;n en los Ferrocarriles del Estado, un pase libre de ida y regreso, desde el lugar de su residencia a cualquier punto del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; El pase libre a que se refiere el inciso anterior ser&#xE1; intransferible y deber&#xE1; otorgarse gratuitamente por los Ferrocarriles del Estado para el jubilado, sus hijos menores de 18 a&#xF1;os y su mujer, si fuere casado. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El personal ferroviario jubilado<span class=\"n\" id=\"n_0\">LEY 7571<br>Art. 13&#xB0;<br>D.O. 01.10.1943</span> tendr&#xE1; derecho a pase libre por los Ferrocarriles del Estado en los mismos t&#xE9;rminos y condiciones que el personal en servicio activo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

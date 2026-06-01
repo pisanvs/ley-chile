@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1952-12-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1966-04-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8751179,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico. Al personal de empleados y obreros de la Administraci&#xF3;n Fiscal, Semifiscal, Beneficencia P&#xFA;blica y de la Empresa de los Ferrocarriles del Estado se les reconocer&#xE1; y abonar&#xE1;, para todos los efectos legales, el tiempo servido en cumplimiento de la Ley sobre Servicio Militar Obligatorio.</div><div class=\"p\">&nbsp; &nbsp; Gozar&#xE1;n de este mismo beneficio todos los empleados y obreros a los cuales la ley les da derecho a jubilar&quot;.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico. Al personal de empleados y obreros de la Administraci&#xF3;n Fiscal, Semifiscal, Beneficencia P&#xFA;blica y de la Empresa de los Ferrocarriles del Estado se les reconocer&#xE1; y abonar&#xE1;, para todos los efectos legales, el tiempo servido en cumplimiento de la Ley sobre Servicio Militar Obligatorio.</div><div class=\"p\">&nbsp; &nbsp; Gozar&#xE1;n de este mismo beneficio todos los empleados y obreros a los cuales la ley les da derecho a jubilar&quot;. </div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 5.o transitorio de la Ley 16466, publicada el 29.04.1966, establece: &quot;Conc&#xE9;dese un nuevo plazo de un a&#xF1;o, contado desde la fecha de vigencia de la presente ley, para que los imponentes afectos a un r&#xE9;gimen previsional puedan reconocer de su cargo ante la respectiva Caja o Instituci&#xF3;n, el tiempo servido en cumplimiento de la Ley sobre Servicio Militar Obligatorio y declarado computable para todos los efectos legales por el art&#xED;culo &#xFA;nico de la ley n&#xFA;mero 11.133.&quot;.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1928-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1935-09-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7168557,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Establece el Instituto de Cr&#xE9;dito Industrial Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Establece el Instituto de Cr&#xE9;dito Industrial Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

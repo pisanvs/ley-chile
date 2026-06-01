@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1953-06-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5863492,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CONFIERE LA REPRESENTACION QUE SE&#xD1;ALA AL CONSEJO DE DEFENSA FISCAL</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 89.- Santiago, 16 de Mayo de 1953.- Teniendo presente la conveniencia que significa para el Estado el estar representado por el Consejo de Defensa Fiscal en todos aquellos juicios en que est&#xE9; comprometido su inter&#xE9;s, y</div><div class=\"p\">&nbsp; &nbsp; En uso de la facultad que me confiere el art&#xED;culo 1.o de la ley N.o 11,151, en orden a se&#xF1;alarle sus funciones a los organismos de la Administraci&#xF3;n P&#xFA;blica, vengo en dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">CONFIERE LA REPRESENTACION QUE SE&#xD1;ALA AL CONSEJO DE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> DEFENSA FISCAL</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 89.- Santiago, 16 de Mayo de 1953.- Teniendo presente la conveniencia que significa para el Estado el estar representado por el Consejo de Defensa Fiscal en todos aquellos juicios en que est&#xE9; comprometido su inter&#xE9;s, y</div><div class=\"p\">&nbsp; &nbsp; En uso de la facultad que me confiere el art&#xED;culo 1.o de la ley N.o 11,151, en orden a se&#xF1;alarle sus funciones a los organismos de la Administraci&#xF3;n P&#xFA;blica, vengo en dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 60 del DFL 238, Hacienda, publicado el 05.04.1960, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

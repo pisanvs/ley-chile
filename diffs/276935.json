@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1951-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1951-06-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7377898,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  CONCEDE PERSONALIDAD JUR&#xCD;DICA Y APRUEBA LOS ESTATUTOS A LA CORPORACI&#xD3;N DENOMINADA &quot;SOCIEDAD FILANTR&#xD3;PICA RENE BERITH &quot;PACIFICO&quot;, DOMICILIADA EN SANTIAGO</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2,563.- Santiago, 2 de Mayo de 1951.- Vistos estos antecedentes; lo dispuesto en el decreto reglamentario N.o 2,736 de 31 de Octubre de 1925, y lo informado por el Consejo de Defensa Fiscal, </div><div class=\"p\">&nbsp; &nbsp;  Decreto</div><div class=\"p\">&#xA0;</div></div>"
+        },
+        {
+          "part_id": 10116250,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. o Conc&#xE9;dese personalidad jur&#xED;dica a la corporaci&#xF3;n denominada &quot;Sociedad Filantr&#xF3;pica Ben&#xE9; Berith &quot;Pac&#xED;fico&quot;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1144584&amp;idParte=10116321&amp;idVersion=1951-06-01\">Rectificaci&#xF3;n 2114<br>D.O. 01.06.1951</a></span>, con domicilio en la cuidad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2.o Apru&#xE9;banse los estatutos por los cuales se ha de regir la citada corporaci&#xF3;n, en los t&#xE9;rminos de que da constancia la escritura p&#xFA;blica otorgada ante el notario del departamento de Santiago don Luis Azocar Alvarez, con fecha catorce de Noviembre de mil novecientos cincuenta, con declaraci&#xF3;n de que el art&#xED;culo tercero terminar&#xE1; en la palabra &quot;Santiago&quot;. </div><br><br></div>"
+        },
+        {
+          "part_id": 10116251,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xF3;mese raz&#xF3;n, comun&#xED;quese y publ&#xED;quese.- GABRIEL GONZALEZ V.-&nbsp; Humberto Parada B.</div></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1144584,
+      "fecha": "1951-06-01"
+    }
+  }
+]

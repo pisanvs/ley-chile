@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1946-04-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1964-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8872763,
+          "old": "<div><div class=\"p\">FIJA EL TEXTO REFUNDIDO DE LA LEY SOBRE IMPUESTO A LA RENTA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1,531.- Santiago, 27 de Marzo de 1946.- En uso de la facultad que me confiere el art&#xED;culo 6&#xBA; transitorio de la ley N&#xB0; 8,283, de 21 de Septiembre de 1945,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  El texto refundido de la</div><br><div class=\"p\">&nbsp; &nbsp;  LEY SOBRE IMPUESTO A LA RENTA</div><br><div class=\"p\">&nbsp; &nbsp;  Ser&#xE1; el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  LEY NUM. 8,419</div><br></div>",
+          "new": "<div><br><div class=\"p\">FIJA EL TEXTO REFUNDIDO DE LA LEY SOBRE IMPUESTO<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">A LA RENTA<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1:</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1,531.- Santiago, 27 de Marzo de 1946.- En uso de la facultad que me confiere el art&#xED;culo 6&#xBA; transitorio de la ley N&#xB0; 8,283, de 21 de Septiembre de 1945,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  El texto refundido de la</div><br><div class=\"p\">&nbsp; &nbsp;  LEY SOBRE IMPUESTO A LA RENTA</div><br><div class=\"p\">&nbsp; &nbsp;  Ser&#xE1; el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  LEY NUM. 8,419</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 2106, Hacienda, publicado el 10.05.1954, fij&#xF3; el texto refundido de la presente norma.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 5 de la LEY 15564, publicada el 14.02.1964, fij&#xF3; el texto refundido de la Ley de Impuesto a la Renta, en sustituci&#xF3;n al aprobado por la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

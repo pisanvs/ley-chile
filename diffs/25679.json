@@ -1,0 +1,57 @@
+[
+  {
+    "fecha": "1944-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1949-01-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7171832,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10. Los Conservadores de Bienes Ra&#xED;ces y de Comercio cobrar&#xE1;n los mismos derechos que los Notarios por cada p&#xE1;gina de escritura en sus registros.</div><div class=\"p\">&nbsp; &nbsp; Los derechos a que se refiere este art&#xED;culo se distribuir&#xE1;n de manera que un veinticinco por ciento lo perciban los Conservadores y el setenta y cinco por ciento restante los empleados en la siguiente forma: un tercio para el que hubiere ejecutado el trabajo y los dos tercios restantes para todos, a prorrata de sus a&#xF1;os de servicios.</div><div class=\"p\">&nbsp; &nbsp; Estas participaciones no se tomar&#xE1;n en cuenta para el c&#xE1;lculo del sueldo vital.</div><div class=\"p\">&nbsp; &nbsp; Los Conservadores tendr&#xE1;n derecho, adem&#xE1;s, a cobrar cuatro pesos por cada p&#xE1;gina de copia de inscripci&#xF3;n y cuatro pesos por cada autorizaci&#xF3;n de las mismas.</div><div class=\"p\">&nbsp; &nbsp; Der&#xF3;gase el art&#xED;culo 5.o del Decreto con Fuerza de Ley N.o 254, de 20 de Mayo de 1931.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10. Los Conservadores de Bienes Ra&#xED;ces y de Comercio cobrar&#xE1;n los mismos derechos que los Notarios por cada p&#xE1;gina de escritura en sus registros.</div><div class=\"p\">&nbsp; &nbsp; Los derechos a que se refiere este art&#xED;culo se distribuir&#xE1;n de manera que un veinticinco por ciento lo perciban los Conservadores y el setenta y cinco por ciento restante los empleados en la siguiente forma: un tercio para el que hubiere ejecutado el trabajo y los dos tercios restantes para todos, a prorrata de sus a&#xF1;os de servicios.</div><div class=\"p\">&nbsp; &nbsp; Estas participaciones no se tomar&#xE1;n en cuenta para el c&#xE1;lculo del sueldo vital.</div><div class=\"p\">&nbsp; &nbsp; Los Conservadores tendr&#xE1;n adem&#xE1;s derecho a cobrar<span class=\"n\" id=\"n_0\">LEY 9295<br>Art. 1&#xBA;<br>D.O. 24.01.1949</span> ocho pesos por cada p&#xE1;gina de copia de inscripci&#xF3;n, de los cuales cuatro corresponder&#xE1;n a los copistas o dactil&#xF3;grafos, cuatro al Conservador y otros cuatro pesos por cada autorizaci&#xF3;n de las mismas.</div><div class=\"p\">&nbsp; &nbsp; Der&#xF3;gase el art&#xED;culo 5.o del Decreto con Fuerza de Ley N.o 254, de 20 de Mayo de 1931.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7171823,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1.o A los empleados que presten sus servicios en las Oficinas de los Notarios, Conservadores de Bienes Ra&#xED;ces, de Comercio y de Minas y de los Archiveros Judiciales de la Rep&#xFA;blica, les ser&#xE1;n aplicables las disposiciones del C&#xF3;digo del Trabajo y de las dem&#xE1;s leyes actualmente vigentes que lo complementan relativas a los empleados particulares, salvo las excepciones y modificaciones que establece la presente ley.</div><div class=\"p\">&nbsp; &nbsp; Para estos efectos, los Conservadores Notarios y Archiveros, tendr&#xE1;n la calidad de empleadores. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1.o DEROGADO<span class=\"n\" id=\"n_0\">LEY 18018<br>Art. 3&#xBA;<br>D.O. 14.08.1981</span></div><br></div>"
+        },
+        {
+          "part_id": 7171824,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o No ser&#xE1;n aplicables a los funcionarios y empleados de que trata esta ley, las disposiciones del C&#xF3;digo del Trabajo que se refieren al derecho de huelga y lockout ni las de la ley N.o 7,295, de 22 de Octubre de 1942, en lo relativo al reajuste de sueldos que ella establece.</div><div class=\"p\">&nbsp; &nbsp; El derecho a gratificaci&#xF3;n y a indemnizaci&#xF3;n por a&#xF1;os de servicios de los empleados a que se refiere la presente ley se regir&#xE1; por los art&#xED;culos siguientes. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o DEROGADO<span class=\"n\" id=\"n_1\">LEY 18018<br>Art. 3&#xBA;<br>D.O. 14.08.1981</span></div><br></div>"
+        },
+        {
+          "part_id": 7171825,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3.o Los empleados tendr&#xE1;n derecho a una gratificaci&#xF3;n anual equivalente a la duod&#xE9;cima parte del sueldo y participaciones legales que percibieren en el a&#xF1;o, con excepci&#xF3;n de la establecida en el inciso segundo de la letra a) del art&#xED;culo 7.o, relacionada con la cuant&#xED;a del acto o contrato.</div><div class=\"p\">&nbsp; &nbsp; Esta gratificaci&#xF3;n se liquidar&#xE1; y pagar&#xE1; mensualmente por el empleador, mediante dep&#xF3;sitos que deber&#xE1; hacer en la Caja Nacional de Empleados P&#xFA;blicos y Periodistas a nombre de los respectivos empleados. El dep&#xF3;sito deber&#xE1; hacerse dentro de los quince d&#xED;as siguientes. Estos dep&#xF3;sitos podr&#xE1;n ser retirados por los empleados al t&#xE9;rmino de cada doce meses completos o al t&#xE9;rmino del contrato de trabajo, si &#xE9;ste venciere con anterioridad, sin intereses.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3.o DEROGADO<span class=\"n\" id=\"n_2\">LEY 18018<br>Art. 3&#xBA;<br>D.O. 14.08.1981</span></div><br></div>"
+        },
+        {
+          "part_id": 7171832,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10. Los Conservadores de Bienes Ra&#xED;ces y de Comercio cobrar&#xE1;n los mismos derechos que los Notarios por cada p&#xE1;gina de escritura en sus registros.</div><div class=\"p\">&nbsp; &nbsp; Los derechos a que se refiere este art&#xED;culo se distribuir&#xE1;n de manera que un veinticinco por ciento lo perciban los Conservadores y el setenta y cinco por ciento restante los empleados en la siguiente forma: un tercio para el que hubiere ejecutado el trabajo y los dos tercios restantes para todos, a prorrata de sus a&#xF1;os de servicios.</div><div class=\"p\">&nbsp; &nbsp; Estas participaciones no se tomar&#xE1;n en cuenta para el c&#xE1;lculo del sueldo vital.</div><div class=\"p\">&nbsp; &nbsp; Los Conservadores tendr&#xE1;n adem&#xE1;s derecho a cobrar<span class=\"n\" id=\"n_0\">LEY 9295<br>Art. 1&#xBA;<br>D.O. 24.01.1949</span> ocho pesos por cada p&#xE1;gina de copia de inscripci&#xF3;n, de los cuales cuatro corresponder&#xE1;n a los copistas o dactil&#xF3;grafos, cuatro al Conservador y otros cuatro pesos por cada autorizaci&#xF3;n de las mismas.</div><div class=\"p\">&nbsp; &nbsp; Der&#xF3;gase el art&#xED;culo 5.o del Decreto con Fuerza de Ley N.o 254, de 20 de Mayo de 1931.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10. Los Conservadores de Bienes Ra&#xED;ces y de Comercio cobrar&#xE1;n los mismos derechos que los Notarios por cada p&#xE1;gina de escritura en sus registros.</div><div class=\"p\">&nbsp; &nbsp; Los derechos a que se refiere este art&#xED;culo se distribuir&#xE1;n de manera que un veinticinco por ciento lo perciban los Conservadores y el setenta y cinco por ciento restante los empleados en la siguiente forma: un tercio para el que hubiere ejecutado el trabajo y los dos tercios restantes para todos, a prorrata de sus a&#xF1;os de servicios.</div><div class=\"p\">&nbsp; &nbsp; Estas participaciones no se tomar&#xE1;n en cuenta para el c&#xE1;lculo del sueldo vital.</div><div class=\"p\">&nbsp; &nbsp; Los Conservadores tendr&#xE1;n adem&#xE1;s derecho a cobrar<span class=\"n\" id=\"n_3\">LEY 9295<br>Art. 1&#xBA;<br>D.O. 24.01.1949</span> ocho pesos por cada p&#xE1;gina de copia de inscripci&#xF3;n, de los cuales cuatro corresponder&#xE1;n a los copistas o dactil&#xF3;grafos, cuatro al Conservador y otros cuatro pesos por cada autorizaci&#xF3;n de las mismas.</div><div class=\"p\">&nbsp; &nbsp; Der&#xF3;gase el art&#xED;culo 5.o del Decreto con Fuerza de Ley N.o 254, de 20 de Mayo de 1931.</div><br></div>"
+        },
+        {
+          "part_id": 7171843,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 21. Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para declarar exentos de las obligaciones de gratificaci&#xF3;n y sueldo vital, aquellas Notar&#xED;as, Conservadores de Bienes Ra&#xED;ces y Archivos Judiciales de provincias que manifiestamente no obtengan las entradas necesarias para poder darles cumplimiento.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 21. DEROGADO<span class=\"n\" id=\"n_4\">LEY 18018<br>Art. 3&#xBA;<br>D.O. 14.08.1981</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

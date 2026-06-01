@@ -1,0 +1,47 @@
+[
+  {
+    "fecha": "1939-08-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-09-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9001325,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;&nbsp; En conformidad a los art&#xED;culos 23 y 27 de la Convenci&#xF3;n para el mejoramiento de la condici&#xF3;n de los heridos y de los enfermos en los ej&#xE9;rcitos en campa&#xF1;a, del 6 de Julio de 1906; as&#xED; como tambi&#xE9;n a los art&#xED;culos 24 y 29 de la Convecci&#xF3;n de Ginebra del 27 de Julio de 1929 (sobre el mismo objeto) el emblema de la cruz roja sobre fondo blanco y las palabras Cruz Roja o Cruz de Ginebra, s&#xF3;lo pueden emplearse, sea en tiempo de guerra o en tiempo de paz, para proteger o designar el personal y el material de las formaciones sanitarias y de los establecimientos del servicio de Sanidad, de los ej&#xE9;rcitos de tierra, del aire y de mar; as&#xED; como tambi&#xE9;n por las sociedades de socorros voluntarios, citados en el art&#xED;culo 10, p&#xE1;rrafo 1&#xB0; de dicha Convenci&#xF3;n de 1929, las que podr&#xE1;n emplearlos tambi&#xE9;n en sus actividades en tiempo de paz.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xBA;.- El emblema de la Cruz Roja sobre<span class=\"n\" id=\"n_0\">LEY 19511<br>ART UNICO N&#xB0;1<br>D.O.03.09.1997</span> fondo blanco y las expresiones &quot;Cruz Roja&quot; o &quot;Cruz de Ginebra&quot;, s&#xF3;lo podr&#xE1;n emplearse, sea en tiempo de paz o en tiempo de guerra, en los t&#xE9;rminos se&#xF1;alados por los Convenios de Ginebra del 12 de agosto de 1949 y sus Protocolos Adicionales de 1977. </div></div>"
+        },
+        {
+          "part_id": 9001327,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;&nbsp; Excepcionalmente y con la autorizaci&#xF3;n expresa de la Sociedad Nacional de la Cruz Roja Chilena, se podr&#xE1; hacer uso del emblema de la Convenci&#xF3;n, en tiempo de paz, para se&#xF1;alar el emplazamiento de los puestos de socorros exclusivamente reservados a prestar cuidados gratuitos a los heridos o a los enfermos (Art. 24, p&#xE1;rrafo 4, de la Convenci&#xF3;n de Ginebra de 1929).</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xBA;.- Excepcionalmente, y con la<span class=\"n\" id=\"n_1\">LEY 19511<br>ART UNICO N&#xB0;2<br>D.O.03.09.1997</span> aprobaci&#xF3;n expresa de la Sociedad Nacional de la Cruz Roja Chilena se podr&#xE1; autorizar, en los casos que determinar&#xE1; el Reglamento de esta ley, el uso del emblema de la Cruz Roja en tiempo de paz para identificar veh&#xED;culos, ambulancias y puestos de socorro utilizados en la asistencia gratuita a heridos o enfermos. </div></div>"
+        },
+        {
+          "part_id": 9001328,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;&nbsp; Queda prohibido el empleo de todo signo o de toda denominaci&#xF3;n que constituya una imitaci&#xF3;n del emblema de una cruz roja sobre fondo blanco, o de las palabras Cruz Roja o Cruz de Ginebra y tambi&#xE9;n el uso del emblema o palabras an&#xE1;logas que puedan prestarse a una confusi&#xF3;n, sea que se empleen con fines comerciales o cualquier otro fin (Art. 28, inciso a), de la Convenci&#xF3;n de Ginebra de 1929).</div><div class=\"p\">&nbsp; &nbsp;  El empleo, en una marca, en un dibujo o modelo del signo de la cruz, sin especificaci&#xF3;n de un color especial, no confiere el derecho de utilizar este signo en color rojo o en otro color similar.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;&nbsp; Queda prohibido el empleo de todo signo o de toda denominaci&#xF3;n que constituya una imitaci&#xF3;n del emblema de una cruz roja sobre fondo blanco, o de las palabras Cruz Roja o Cruz de Ginebra y tambi&#xE9;n el uso del emblema o palabras an&#xE1;logas que puedan prestarse a una confusi&#xF3;n, sea que se empleen con fines comerciales o cualquier otro fin<span class=\"n\" id=\"n_2\">LEY 19511<br>ART UNICO N&#xB0;3<br>D.O.03.09.1997</span> El empleo, en una marca, en un dibujo o modelo del signo de la cruz, sin especificaci&#xF3;n de un color especial, no confiere el derecho de utilizar este signo en color rojo o en otro color similar. </div></div>"
+        },
+        {
+          "part_id": 9001329,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;&nbsp; En raz&#xF3;n del homenaje rendido a la Confederaci&#xF3;n Suiza, por la adopci&#xF3;n de los colores federales invertidos, se prohibe en todo tiempo, el empleo por particulares o por Sociedades, de las armas de la Confederaci&#xF3;n Suiza o de signos que constituyan una imitaci&#xF3;n, sea como marca de f&#xE1;brica o de comercio o como elementos de estas marcas, sea con objeto contrario a la lealtad comercial, sea en condiciones susceptibles de herir el sentimiento nacional suizo (Art. 28, inciso b) de la Convenci&#xF3;n de Ginebra de 1929.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xBA;.- En raz&#xF3;n del homenaje rendido a la<span class=\"n\" id=\"n_3\">LEY 19511<br>ART UNICO N&#xB0; 4<br>D.O.03.09.1997</span> Confederaci&#xF3;n Suiza, por la adopci&#xF3;n de los colores federales invertidos, se proh&#xED;be, en todo tiempo, el empleo por particulares o por Sociedades, de las armas de la Confederaci&#xF3;n Suiza o de signos que constituyan una imitaci&#xF3;n, sea como marca de f&#xE1;brica o de comercio o como elementos de estas marcas, o en formas de publicidad o en condiciones que puedan lesionar el sentimiento nacional suizo. </div></div>"
+        },
+        {
+          "part_id": 9001330,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;&nbsp; Toda contravenci&#xF3;n a los art&#xED;culos anteriores, por uso indebido de la cruz roja, sea en banderas, brazaletes, art&#xED;culos sanitarios, anuncios, carteles, r&#xF3;tulos, marcas de f&#xE1;brica, membrentes comerciales, sea por particulares o por cualquier asociaci&#xF3;n p&#xFA;blica o privada, ser&#xE1; castigada con una multa de $ 60 por cada infracci&#xF3;n; que en caso de reincidencia ser&#xE1; aumentada al doble.&nbsp; Si la infracci&#xF3;n es cometida por una instituci&#xF3;n (sociedad, corporaci&#xF3;n, etc.), las penas antedichas podr&#xE1;n aplicarse a los miembros directivos responsables, aun en caso de simple negligencia.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;&nbsp; Toda contravenci&#xF3;n a los art&#xED;culos<span class=\"n\" id=\"n_4\">LEY 19511<br>ART UNICO N&#xB0;5<br>D.O.03.09.1997</span> anteriores, por uso indebido de la cruz roja, sea en banderas, brazaletes, art&#xED;culos sanitarios, anuncios, carteles, r&#xF3;tulos, marcas de f&#xE1;brica, membrentes comerciales, sea por particulares o por cualquier asociaci&#xF3;n p&#xFA;blica o privada, ser&#xE1; castigada con una multa de una a diez unidades tributarias mensuales por cada infracci&#xF3;n; que en caso de reincidencia ser&#xE1; aumentada al doble.&nbsp; Si la infracci&#xF3;n es cometida por una instituci&#xF3;n (sociedad, corporaci&#xF3;n, etc.), las penas antedichas podr&#xE1;n aplicarse a los miembros directivos responsables, aun en caso de simple negligencia.</div><br></div>"
+        },
+        {
+          "part_id": 9001331,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xB0;&nbsp; Las multas establecidas en el art&#xED;culo anterior ser&#xE1;n impuestas a requerimiento policial o de la Cruz Roja Chilena, por el Juzgado de Polic&#xED;a Local correspondiente. Su valor se entregar&#xE1; al Comit&#xE9; Central de la Cruz Roja Chilena.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;&nbsp; Las multas establecidas en el art&#xED;culo<span class=\"n\" id=\"n_5\">LEY 19511<br>ART UNICO N&#xB0;6<br>D.O.03.09.1997</span> anterior ser&#xE1;n impuestas a requerimiento policial o de la Cruz Roja Chilena, por el Juzgado de Polic&#xED;a Local correspondiente.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

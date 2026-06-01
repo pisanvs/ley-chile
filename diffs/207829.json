@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1953-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1953-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9079875,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Se autoriza a la Empresa de los Ferrocarriles del Estado para reajustar anualmente las remuneraciones de su personal de planta, a contrata y a jornal, como igualmente las pensiones de su personal jubilado y las pensiones de los deudos del personal fallecido en actos del servicio, en los porcentajes y modalidades se&#xF1;aladas en los incisos 2.o y 9.o del art&#xED;culo 132.o de la ley 10.343. En estos reajustes no regir&#xE1; lo dispuesto en el art&#xED;culo 12.o de la ley 7.571, de 1&#xBA; de octubre de 1943.</div><div class=\"p\">&nbsp; &nbsp;  El reajuste de los jornales se practicar&#xE1; aplicando sobre sus montos anuales, el mismo porcentaje m&#xE1;ximo establecido para los obreros de la Administraci&#xF3;n P&#xFA;blica en el referido inciso 2.o del art&#xED;culo 132.o de la ley 10.343.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o. Se autoriza a la Empresa de los Ferrocarriles del Estado para reajustar anualmente las remuneraciones de su personal de planta, a contrata y a jornal, como igualmente las pensiones de su personal jubilado y las pensiones de los deudos del personal fallecido en actos del servicio, en los porcentajes y modalidades se&#xF1;aladas en los incisos 2.o y 3.o del<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 05.08.1953</span> art&#xED;culo 132 de la ley N.o 10,343. En estos reajustes no regir&#xE1; lo dispuesto en el art&#xED;culo 12 de la ley N.o 7.571, de 1.o de octubre de 1943. El reajuste de los jornales se practicar&#xE1; aplicando sobre sus montos anuales, el mismo porcentaje m&#xE1;ximo establecido para los obreros de la Administraci&#xF3;n P&#xFA;blica en el referido inciso 2.o del art&#xED;culo 132 de la ley N.o 10,343. </div></div>"
+        }
+      ]
+    }
+  }
+]

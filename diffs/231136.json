@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1952-12-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-09-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8537875,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo II bis<span class=\"n\" id=\"n_0\">DTO 164, RELACIONES<br>D.O. 29.09.2004</span></div><br><div class=\"p\">&nbsp; &nbsp;  1. Cada Parte Contratante conceder&#xE1; a la otra Parte Contratante los derechos que se especifican a continuaci&#xF3;n en este convenio, con la finalidad de operar servicios a&#xE9;reos internacionales en la ruta especificada. Mientras est&#xE9; operando un servicio acordado en una ruta especificada, la empresa a&#xE9;rea designada de cada Parte Contratante gozar&#xE1;:</div><div class=\"p\">(a)&nbsp;  del derecho de sobrevolar el territorio de la otra Parte Contratante;</div><div class=\"p\">(b)&nbsp;  del derecho de aterrizar en el referido territorio, para fines no comerciales;</div><div class=\"p\">(c)&nbsp;  del derecho de embarcar y desembarcar en el referido territorio, en los puntos de las rutas especificadas, pasajeros, equipaje, carga y correspondencia, separadamente o en combinaci&#xF3;n, originados en o destinados a puntos en el territorio de la otra Parte Contratante;</div><div class=\"p\">(d)&nbsp;  del derecho de embarcar y desembarcar en los territorios de terceros pa&#xED;ses, en los puntos de las rutas especificadas, pasajeros, equipaje, carga y correspondencia, separadamente o en combinaci&#xF3;n, originados en o destinados a puntos en el territorio de la otra Parte Contratante, en conformidad con las disposiciones contenidas en el anexo.</div><br><div class=\"p\">&nbsp; &nbsp;  2. Las empresas a&#xE9;reas designadas por una Parte Contratante gozar&#xE1;n del derecho de embarcar y desembarcar en el territorio de la otra Parte Contratante pasajeros, equipaje, carga y correspondencia, separadamente o en combinaci&#xF3;n, originados en o destinados a puntos en el territorio de terceros pa&#xED;ses, a trav&#xE9;s de su territorio.</div><div class=\"p\">&nbsp; &nbsp;  3. Ninguna disposici&#xF3;n del p&#xE1;rrafo 1&#xBA; de este art&#xED;culo ser&#xE1; considerada como concesi&#xF3;n a una empresa a&#xE9;rea designada de una Parte Contratante del derecho de embarcar, en el territorio de la otra Parte Contratante, pasajeros, equipajes, carga y correspondencia, transportados mediante pago o retribuci&#xF3;n y destinados a otro punto en el territorio de aquella Parte Contratante.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8537861,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO IV</div><br><div class=\"p\">&nbsp; &nbsp;  Los certificados de navegabilidad, certificados de competencia y licencias expedidos y validados por una de las Partes Contratantes y a&#xFA;n vigentes, ser&#xE1;n reconocidos como v&#xE1;lidos por la otra Parte Contratante para los fines de explotaci&#xF3;n de los servicios acordados. Las Partes Contratantes se reservan, sin embargo, el derecho de no reconocer, cuando se trate de vuelos sobre su propio territorio, los certificados de competencia y licencias otorgados a sus propios nacionales por la otra Parte Contratante o por un tercer Estado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO IV</div><br><div class=\"p\">&nbsp; &nbsp;  1. Los certificados de navegabilidad, certificados<span class=\"n\" id=\"n_1\">DTO 164, RELACIONES<br>D.O. 29.09.2004</span> de competencia y licencias expedidos y validados por una de las Partes Contratantes y a&#xFA;n vigentes, ser&#xE1;n reconocidos como v&#xE1;lidos por la otra Parte Contratante para los fines de explotaci&#xF3;n de los servicios acordados. Las Partes Contratantes se reservan, sin embargo, el derecho de no reconocer, cuando se trate de vuelos sobre su propio territorio, los certificados de competencia y licencias otorgados a sus propios nacionales por la otra Parte Contratante o por un tercer Estado.</div><div class=\"p\">&nbsp; &nbsp;  2. Tales certificados y licencias tambi&#xE9;n ser&#xE1;n<span class=\"n\" id=\"n_2\">DTO 164, RELACIONES<br>D.O. 29.09.2004</span> reconocidos, en la forma se&#xF1;alada en el p&#xE1;rrafo anterior, para los efectos de operaciones de los servicios que resultaren de un contrato de arrendamiento, fletamento o intercambio de aeronaves, celebrados entre empresas a&#xE9;reas de ambas Partes Contratantes, para permitir que tripulaciones chilenas operen aeronaves brasile&#xF1;as y viceversa.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

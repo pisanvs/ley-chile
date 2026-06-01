@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1952-11-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1957-08-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8925697,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o La Direcci&#xF3;n General de Obras P&#xFA;blicas proceder&#xE1; a pavimentar los siguientes caminos de la provincia de Talca y hasta su total terminaci&#xF3;n: Talca a San Clemente, Molina a Lontu&#xE9; por Casa Blanca, Talca a Duao, Panguilemu a Pelarco, San Miguel a Las Rastras, Camarico a Cumpeo, Lontu&#xE9; a Villa Prat, Talca a Pencahue, Talca a La Villa (Colin) y Molina a Cumpeo, en la forma y condiciones que ella determine y cuyo valor se financiar&#xE1; de acuerdo con las prescripciones de la presente ley.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o La Direcci&#xF3;n General de Obras P&#xFA;blicas proceder&#xE1; a pavimentar los siguientes caminos de la provincia de Talca y hasta su total terminaci&#xF3;n: Talca a San Clemente hasta Bajo Perqu&#xED;n, Molina a Lontu&#xE9;<span class=\"n\" id=\"n_0\">LEY 12507<br>Art. 4&#xBA;<br>D.O. 27.08.1957</span> por Casa Blanca, Talca a Duao, Panguilemu a Pelarco, San Miguel a Las Rastras, Camarico a Cumpeo, Lontu&#xE9; a Villa Prat, Talca a Pencahue, Talca a La Villa Colin), San Clemente a Mariposas y Molina a Cumpeo, en la forma y condiciones que ella determine y cuyo valor se financiar&#xE1; de acuerdo con las prescripciones de la presente ley.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

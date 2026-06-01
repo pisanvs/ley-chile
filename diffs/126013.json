@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1940-01-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9083973,
+          "old": "<div><div class=\"p\">CREA UN CONSEJO DE FERTILIZANTES</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley </div></div>",
+          "new": "<div><div class=\"p\">CREA UN CONSEJO DE FERTILIZANTES<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Proyecto de ley</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 48 del DL 3557, Agricultura, publicado el 09.02.1981, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

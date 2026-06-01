@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1953-08-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-04-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5868748,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DETERMINA ATRIBUCIONES DEL SERVICIO NACIONAL DE ESTADISTICA Y CENSOS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 325.- Santiago, 25 de Julio de 1953.- Visto lo dispuesto en el art&#xED;culo 10, del DFL., N.o 88, publicado en el &quot;Diario Oficial&quot; el 1.o de Junio del presente a&#xF1;o y en uso de las atribuciones que me confiere la ley N.o 11,151, de 5 de Febrero de 1953, dicto el siguiente Decreto con fuerza de ley:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento Org&#xE1;nico del Servicio Nacional de Estad&#xED;stica y Censos:</div><br></div>",
+          "new": "<div><br><div class=\"p\">DETERMINA ATRIBUCIONES DEL SERVICIO NACIONAL DE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> ESTADISTICA Y CENSOS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 325.- Santiago, 25 de Julio de 1953.- Visto lo dispuesto en el art&#xED;culo 10, del DFL., N.o 88, publicado en el &quot;Diario Oficial&quot; el 1.o de Junio del presente a&#xF1;o y en uso de las atribuciones que me confiere la ley N.o 11,151, de 5 de Febrero de 1953, dicto el siguiente Decreto con fuerza de ley:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento Org&#xE1;nico del Servicio Nacional de Estad&#xED;stica y Censos:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 38 del DFL 313, Hacienda, publicado el 06.04.1960, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

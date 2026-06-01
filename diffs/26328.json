@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1952-02-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1955-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5967780,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ADOPTA MEDIDAS EN RELACION CON LAS EXPORTACIONES DE COBRE</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">ADOPTA MEDIDAS EN RELACION CON LAS EXPORTACIONES<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> DE COBRE</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 37 de la LEY 11828, publicada el 05.05.1955, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

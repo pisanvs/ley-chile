@@ -1,0 +1,137 @@
+[
+  {
+    "fecha": "1953-05-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-04-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7116465,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10. Es &quot;Inmigraci&#xF3;n dirigida&quot; aquella que se efect&#xFA;a con la ayuda econ&#xF3;mica de instituciones nacionales, extranjeras o internacionales y con el objeto de radicar al inmigrante en una zona determinada del pa&#xED;s para que se dedique a labores agr&#xED;colas, forestales, ganaderas, mineras, pesqueras, industriales u otras que para cada caso determine el Ministerio de Relaciones Exteriores.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10. Es &quot;Inmigraci&#xF3;n dirigida&quot; aquella que<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> se efect&#xFA;a con la ayuda econ&#xF3;mica de instituciones nacionales, extranjeras o internacionales y con el objeto de radicar al inmigrante en una zona determinada del pa&#xED;s para que se dedique a labores agr&#xED;colas, forestales, ganaderas, mineras, pesqueras, industriales u otras que para cada caso determine el Ministerio de Relaciones Exteriores.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 31 del DFL 258, Hacienda, publicado el 04.04.1960, hace aplicable a los miembros de una &quot;Inmigraci&#xF3;n Dirigida&quot;, las franquicias que se&#xF1;ala en su art&#xED;culo 6&#xBA;, en lo concerniente a los equipos industriales y elementos de trabajo que aporten al pa&#xED;s.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1979-12-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7116474,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 18. Lib&#xE9;rase de derechos de internaci&#xF3;n, de almacenaje, de los impuestos establecidos en el decreto de Hacienda n&#xFA;mero 2,772, de 18 de Agosto de 1943, que fij&#xF3; el texto refundido de las disposiciones sobre impuestos a la internaci&#xF3;n, producci&#xF3;n o cifra de negocios, y sus modificaciones posteriores y de los que se establezcan en virtud de disposiciones legales que lo modifique o complementen, y en general, de todo impuesto o contribuci&#xF3;n que se perciba por intermedio de las Aduanas a las maquinarias, tractores, camienes, camionetas, jeeps, bicicletas, veh&#xED;culos y carros de arrastre de tracci&#xF3;n animal o humano, sus partes y repuestos, embarcaciones armadas o desarmadas para la pesca, sus partes y repuestos; aparatos, &#xFA;tiles, herramientas, animales vacunos, caballares, ovejunos, cabr&#xED;os, porcinos, aves de corral, equipajes, menaje de casa y dem&#xE1;s bienes que sean necesarios para las actividades de la profesi&#xF3;n u oficios que realicen los extranjeros que ingresen al pa&#xED;s con la &quot;Visaci&#xF3;n de Inmigraci&#xF3;n&quot;. Esta liberalidad se conceder&#xE1; por una sola vez a cada inmigrante.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 18. Lib&#xE9;rase de derechos de internaci&#xF3;n, de<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> almacenaje, de los impuestos establecidos en el decreto de Hacienda n&#xFA;mero 2,772, de 18 de Agosto de 1943, que fij&#xF3; el texto refundido de las disposiciones sobre impuestos a la internaci&#xF3;n, producci&#xF3;n o cifra de negocios, y sus modificaciones posteriores y de los que se establezcan en virtud de disposiciones legales que lo modifique o complementen, y en general, de todo impuesto o contribuci&#xF3;n que se perciba por intermedio de las Aduanas a las maquinarias, tractores, camiones, camionetas, jeeps, bicicletas, veh&#xED;culos y carros de arrastre de tracci&#xF3;n animal o humano, sus partes y repuestos, embarcaciones armadas o desarmadas para la pesca, sus partes y repuestos; aparatos, &#xFA;tiles, herramientas, animales vacunos, caballares, ovejunos, cabr&#xED;os, porcinos, aves de corral, equipajes, menaje de casa y dem&#xE1;s bienes que sean necesarios para las actividades de la profesi&#xF3;n u oficios que realicen los extranjeros que ingresen al pa&#xED;s con la &quot;Visaci&#xF3;n de Inmigraci&#xF3;n&quot;. Esta liberalidad se conceder&#xE1; por una sola vez a cada inmigrante.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 1&#xBA; del DFL 3, Hacienda, publicado el 29.12.1979, derog&#xF3;, a contar del 1&#xBA; de enero de 1980, las franquicias y liberaciones aduaneras contenidas en el presente art&#xED;culo.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-02-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7116459,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5.o Inmigrante es el extranjero que ingresa al pa&#xED;s con el objeto de radicarse, trabajar y cumplir las disposiciones del presente decreto con fuerza de ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5.o Der<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>ogado.</div><br><br></div>"
+        },
+        {
+          "part_id": 7116460,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; TITULO II </div><div class=\"p\">&nbsp; &nbsp; De la Inmigraci&#xF3;n</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; TITULO II </div><div class=\"p\">&nbsp; &nbsp; De la Inmigraci&#xF3;n Derog<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>ado. </div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 7116461,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6.o Todo extranjero que desee emigrar a Chile deber&#xE1; declarar por escrito y bajo juramento ante las autoridades diplom&#xE1;ticas o consulares, que se compromete a acatar la Constituci&#xF3;n, las leyes, decretos y dem&#xE1;s disposiciones que rigen en el territorio de la Rep&#xFA;blica.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.o De<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>rogado.</div><br><br></div>"
+        },
+        {
+          "part_id": 7116462,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7.o Cr&#xE9;ase la &quot;Visaci&#xF3;n de Inmigraci&#xF3;n&quot;, la que se otorgar&#xE1; a los extranjeros que deseen emigrar a Chile, una vez satisfechos todos los requisitos establecidos en el presente decreto con fuerza de ley y en sus respectivos reglamentos.</div><div class=\"p\">&nbsp; &nbsp; La &quot;Visaci&#xF3;n de Inmigraci&#xF3;n&quot; pagar&#xE1; un derecho de dos d&#xF3;lares, pudiendo aplicarse esta tarifa en los pasaportes individuales o colectivos, cuando en este &#xFA;ltimo caso se trate de grupos familiares en que est&#xE9;n inclu&#xED;dos el inmigrante, su c&#xF3;nyuge e hijos. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.o De<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>rogado. </div><br><br></div>"
+        },
+        {
+          "part_id": 7116463,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8.o La inmigraci&#xF3;n ser&#xE1; libre o dirigida, seg&#xFA;n sean las condiciones en que se efect&#xFA;e. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8.o De<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>rogado. </div><br><br></div>"
+        },
+        {
+          "part_id": 7116464,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9.o Es &quot;Inmigraci&#xF3;n libre&quot; aquella en que el extranjero costea los gastos de su viaje y de su establecimiento en Chile.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9.o De<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>rogado.</div><br><br></div>"
+        },
+        {
+          "part_id": 7116465,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10. Es &quot;Inmigraci&#xF3;n dirigida&quot; aquella que<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> se efect&#xFA;a con la ayuda econ&#xF3;mica de instituciones nacionales, extranjeras o internacionales y con el objeto de radicar al inmigrante en una zona determinada del pa&#xED;s para que se dedique a labores agr&#xED;colas, forestales, ganaderas, mineras, pesqueras, industriales u otras que para cada caso determine el Ministerio de Relaciones Exteriores.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 31 del DFL 258, Hacienda, publicado el 04.04.1960, hace aplicable a los miembros de una &quot;Inmigraci&#xF3;n Dirigida&quot;, las franquicias que se&#xF1;ala en su art&#xED;culo 6&#xBA;, en lo concerniente a los equipos industriales y elementos de trabajo que aporten al pa&#xED;s.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10. De<span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>rogado.</div><br><br></div>"
+        },
+        {
+          "part_id": 7116466,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11. La &quot;Visaci&#xF3;n de Inmigraci&#xF3;n&quot; le da a su titular el derecho de ejercer libremente actividades econ&#xF3;micas o de otro orden, si se tratare de inmigrante libre, o de acuerdo con las cl&#xE1;usulas del contrato cuando se trate de inmigraci&#xF3;n dirigida; a residir en el territorio de la Rep&#xFA;blica y a obtener la permanencia definitiva dentro de dos a&#xF1;os, libre del pago de todo derecho, y la nacionalidad chilena, si durante cinco a&#xF1;os hubiere permanecido ininterrumpidamente en el pa&#xED;s, demostrando buenas costumbres, ejercitando actividades l&#xED;citas y que no se encuentre procesado ni haya sido condenado por delito que merezca pena aflictiva.</div><div class=\"p\">&nbsp; &nbsp; Corresponder&#xE1; al Ministerio de Relaciones Exteriores calificar, atendidas las circunstancias, si viajes accidentales al extranjero han interrumpido o no la residencia continuada a la que se refiere el inciso precedente.</div><div class=\"p\">&nbsp; &nbsp; En caso que el inmigrante, por razones justificadas, no pueda permanecer en la zona que se le determin&#xF3;, seg&#xFA;n el art&#xED;culo anterior, el Ministerio de Relaciones Exteriores queda facultado para autorizar su radicaci&#xF3;n en otra regi&#xF3;n.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11. De<span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>rogado.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 7116467,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12. No podr&#xE1;n obtener &quot;Visaci&#xF3;n de Inmigraci&#xF3;n&quot;, mientras permanezcan en el pa&#xED;s:</div><div class=\"p\">&nbsp; &nbsp; 1. Los funcionarios diplom&#xE1;ticos y consulares de otras naciones, los miembros de sus familias ni su servidumbre;</div><div class=\"p\">&nbsp; &nbsp; 2. Los extranjeros comisionados por sus Gobiernos;</div><div class=\"p\">&nbsp; &nbsp; 3. Los extranjeros en tr&#xE1;nsito a otros pa&#xED;ses ni los turistas;</div><div class=\"p\">&nbsp; &nbsp; 4. Los extranjeros que vengan con una visaci&#xF3;n condicional.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12. De<span class=\"n\" id=\"n_8\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>rogado.</div><br><br></div>"
+        },
+        {
+          "part_id": 7116468,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13. Para la ubicaci&#xF3;n e instalaci&#xF3;n de inmigrantes colonos, el Presidente de la Rep&#xFA;blica podr&#xE1; destinar las tierras fiscales necesarias de conformidad con las disposiciones legales vigentes sobre tierras y colonizaci&#xF3;n, aplicando las normas establecidas por la Ley de la Caja de Colonizaci&#xF3;n Agr&#xED;cola y sus respectivos reglamentos.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13. De<span class=\"n\" id=\"n_9\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>rogado.</div><br><br></div>"
+        },
+        {
+          "part_id": 7116469,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14. Todo inmigrante deber&#xE1; estar en posesi&#xF3;n de su &quot;Cartilla de Inmigraci&#xF3;n&quot;, confeccionada de acuerdo con lo que disponga el reglamento del presente decreto con fuerza de ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14. Dero<span class=\"n\" id=\"n_10\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>gado.</div><br><br></div>"
+        },
+        {
+          "part_id": 7116471,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 15. El Ministerio de Relaciones Exteriores determinar&#xE1; anualmente los Consulados que puedan otorgar la &quot;Visaci&#xF3;n de Inmigraci&#xF3;n&quot; a los extranjeros que deseen entrar al pa&#xED;s, teniendo presente su distribuci&#xF3;n en el territorio nacional, de acuerdo con las necesidades demogr&#xE1;ficas, sociales y econ&#xF3;micas de cada regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Fuera de los casos previstos en el inciso anterior, ning&#xFA;n C&#xF3;nsul podr&#xE1; otorgar &quot;Visaci&#xF3;n de Inmigraci&#xF3;n&quot;, sin consulta previa al Ministerio de Relaciones Exteriores. Si lo hiciere ser&#xE1; destituido.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15. Dero<span class=\"n\" id=\"n_11\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>gado.</div><br><br></div>"
+        },
+        {
+          "part_id": 7116472,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16. El inmigrante que a juicio del Ministerio de Relaciones Exteriores faltare a los compromisos establecidos en el presente decreto con fuerza de ley y dem&#xE1;s disposiciones reglamentarias, ser&#xE1; denunciado al Ministerio del Interior para la aplicaci&#xF3;n de las disposiciones sobre permanencia y expulsi&#xF3;n de extranjeros.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16. Dero<span class=\"n\" id=\"n_12\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>gado.</div><br><br></div>"
+        },
+        {
+          "part_id": 7116473,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 17. El Ministerio de Relaciones Exteriores actuar&#xE1; como entidad coordinadora en la formaci&#xF3;n de planes de colonizaci&#xF3;n con elementos extranjeros, que consulten la inversi&#xF3;n de fondos fiscales o semifiscales.</div><div class=\"p\">&nbsp; &nbsp; Asimismo, tendr&#xE1; intervenci&#xF3;n directa en los planes de colonizaci&#xF3;n con extranjeros que laboren o ejecuten entidades u organismos de car&#xE1;cter particular, sean nacionales o internacionales.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17. Dero<span class=\"n\" id=\"n_13\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>gado.</div><br><br></div>"
+        },
+        {
+          "part_id": 7116474,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 18. Lib&#xE9;rase de derechos de internaci&#xF3;n, de<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> almacenaje, de los impuestos establecidos en el decreto de Hacienda n&#xFA;mero 2,772, de 18 de Agosto de 1943, que fij&#xF3; el texto refundido de las disposiciones sobre impuestos a la internaci&#xF3;n, producci&#xF3;n o cifra de negocios, y sus modificaciones posteriores y de los que se establezcan en virtud de disposiciones legales que lo modifique o complementen, y en general, de todo impuesto o contribuci&#xF3;n que se perciba por intermedio de las Aduanas a las maquinarias, tractores, camiones, camionetas, jeeps, bicicletas, veh&#xED;culos y carros de arrastre de tracci&#xF3;n animal o humano, sus partes y repuestos, embarcaciones armadas o desarmadas para la pesca, sus partes y repuestos; aparatos, &#xFA;tiles, herramientas, animales vacunos, caballares, ovejunos, cabr&#xED;os, porcinos, aves de corral, equipajes, menaje de casa y dem&#xE1;s bienes que sean necesarios para las actividades de la profesi&#xF3;n u oficios que realicen los extranjeros que ingresen al pa&#xED;s con la &quot;Visaci&#xF3;n de Inmigraci&#xF3;n&quot;. Esta liberalidad se conceder&#xE1; por una sola vez a cada inmigrante.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 1&#xBA; del DFL 3, Hacienda, publicado el 29.12.1979, derog&#xF3;, a contar del 1&#xBA; de enero de 1980, las franquicias y liberaciones aduaneras contenidas en el presente art&#xED;culo.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18. Dero<span class=\"n\" id=\"n_14\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>gado.</div><br><br></div>"
+        },
+        {
+          "part_id": 7116475,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 19. Quedan tambi&#xE9;n eximidos los inmigrantes de la obligaci&#xF3;n de solicitar permiso del Consejo de Comercio Exterior y de la cobertura en divisas para internar los efectos indicados en el art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp; Para gozar de esta franquicia, el inmigrante deber&#xE1; hacer una declaraci&#xF3;n escrita ante el C&#xF3;nsul de Chile, de los elementos y materiales que se propone internar, lo que se ajustar&#xE1; al reglamento de la presente ley.</div><div class=\"p\">&nbsp; &nbsp; El C&#xF3;nsul dar&#xE1; gratuitamente la correspondiente certificaci&#xF3;n, previa manifestaci&#xF3;n de que los elementos y &#xFA;tiles declarados son de propiedad del inmigrante. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19. Dero<span class=\"n\" id=\"n_15\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>gado. </div><br><br></div>"
+        },
+        {
+          "part_id": 7116476,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 20. Para la obtenci&#xF3;n de c&#xE9;dula de identidad de los inmigrantes, regir&#xE1; la disposici&#xF3;n del art&#xED;culo 93 de la ley n&#xFA;mero 8,283, de 24 de Septiembre de 1945, modificada por la ley N.o 10,751, de 6 de Noviembre de 1952.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20. Dero<span class=\"n\" id=\"n_16\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>gado.</div><br><br></div>"
+        },
+        {
+          "part_id": 7116477,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 21. Los inmigrantes que lleguen al pa&#xED;s podr&#xE1;n cambiar sus nombres y apellidos por otros de origen espa&#xF1;ol o hispanizarlos.</div><div class=\"p\">&nbsp; &nbsp; Para tal efecto, el Ministerio de Relaciones Exteriores enviar&#xE1; la solicitud del interesado, informada por el Departamento de Inmigraci&#xF3;n, a la Direcci&#xF3;n General del Registro Civil Nacional, la que dictar&#xE1; la resoluci&#xF3;n correspondiente, exenta de todo pago o derecho. Copia de esta resoluci&#xF3;n se remitir&#xE1; al Ministerio de Relaciones Exteriores y al Departamento de Extranjer&#xED;a de la Direcci&#xF3;n General de Investigaciones. Lo anterior, sin perjuicio de la intervenci&#xF3;n que por leyes vigentes corresponde a los Tribunales Ordinarios sobre esta materia.</div><div class=\"p\">&nbsp; &nbsp; La Direcci&#xF3;n General del Registro Civil Nacional deber&#xE1; controlar el ejercicio del derecho que se confiere por el presente art&#xED;culo, estableciendo al efecto un registro especial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21. Dero<span class=\"n\" id=\"n_17\"><a href=\"navegar?idNorma=1158549&amp;idParte=10221475&amp;idVersion=2222-02-02\">Ley 21325<br>Art. 175, N&#xB0; 7<br>D.O. 20.04.2021</a></span>gado.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

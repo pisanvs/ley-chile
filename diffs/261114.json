@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1953-11-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1972-09-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8751991,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21.o El Administrador Gerente tendr&#xE1; las siguientes facultades y obligaciones:</div><div class=\"p\">&nbsp; &nbsp;  a) Ejecutar los acuerdos que adopte la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  b) Representar judicial y extrajudicialmente al Departamento. En el orden judicial tendr&#xE1; las facultades contempladas en el inciso 1.o del art&#xED;culo 7.o del C&#xF3;digo de Procedimiento Civil.</div><div class=\"p\">&nbsp; &nbsp;  c) Cautelar los bienes y fondos del Departamento.</div><div class=\"p\">&nbsp; &nbsp;  d) Subscribir todos los documentos p&#xFA;blicos y privados que debe otorgar el Departamento cuando expresamente no se hubiere designado a otra persona para hacerlo.</div><div class=\"p\">&nbsp; &nbsp;  e) Proponer a la Comisi&#xF3;n, de acuerdo con el Presidente, el nombramiento, remoci&#xF3;n y remuneraci&#xF3;n de los empleados y vigilar su conducta funcionaria.</div><div class=\"p\">&nbsp; &nbsp;  f) Confeccionar al 31 de Diciembre de cada a&#xF1;o la Memoria y Balance del ejercicio financiero anterior para presentarlos a la consideraci&#xF3;n de la Comisi&#xF3;n Administradora.</div><div class=\"p\">&nbsp; &nbsp;  g) Ejercer las dem&#xE1;s funciones que la Comisi&#xF3;n estime conveniente confiarle.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21.o El Administrador Gerente tendr&#xE1; las siguientes facultades y obligaciones:</div><div class=\"p\">&nbsp; &nbsp;  a) Ejecutar los acuerdos que adopte la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  b) Representar judicial y extrajudicialmente al Departamento. En el orden judicial tendr&#xE1; las facultades contempladas en el inciso 1.o del art&#xED;culo 7.o del C&#xF3;digo de Procedimiento Civil.</div><div class=\"p\">&nbsp; &nbsp;  c) Cautelar los bienes y fondos del Departamento.</div><div class=\"p\">&nbsp; &nbsp;  d) Subscribir todos los documentos p&#xFA;blicos y privados que debe otorgar el Departamento cuando expresamente no se hubiere designado a otra persona para hacerlo.</div><div class=\"p\">&nbsp; &nbsp;  e) Proponer a la Comisi&#xF3;n, de acuerdo con el Presidente, el nombramiento, remoci&#xF3;n y remuneraci&#xF3;n de los empleados y vigilar su conducta funcionaria.</div><div class=\"p\">&nbsp; &nbsp;  f) Confeccionar al 31 de Diciembre de cada a&#xF1;o la Memoria y Balance del ejercicio financiero anterior para presentarlos a la consideraci&#xF3;n de la Comisi&#xF3;n Administradora.</div><div class=\"p\">&nbsp; &nbsp;  g) Ejercer las dem&#xE1;s funciones que la Comisi&#xF3;n estime conveniente confiarle.</div><div class=\"p\">&nbsp; &nbsp;  El Jefe Superior del Servicio ser&#xE1; subrogado para<span class=\"n\" id=\"n_0\">DTO 159, TRABAJO<br>D.O. 06.09.1972</span> todos los efectos legales por el Fiscal de la Instituci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1952-10-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9043384,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4.o La Corporaci&#xF3;n de Fomento deber&#xE1; contribuir, anualmente, con una suma no inferior al 2% de los sueldos de sus funcionarios, a la creaci&#xF3;n y mantenimiento de un Fondo de Bienestar. Este fondo se destinar&#xE1; a conceder auxilios m&#xE9;dicos y otros beneficios al personal y ser&#xE1; administrado en conformidad a un reglamento que dictar&#xE1; el Consejo de la Corporaci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4.o La Corporaci&#xF3;n de Fomento deber&#xE1; contribuir, anualmente, con una suma no inferior al 2% de los sueldos de sus funcionarios, a la creaci&#xF3;n y mantenimiento de un Fondo de Bienestar. Este fondo se destinar&#xE1; a conceder auxilios m&#xE9;dicos y otros beneficios al personal y ser&#xE1; administrado en conformidad a un reglamento que dictar&#xE1; el Consejo de la Corporaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Para la misma finalidad indicada en el inciso<span class=\"n\" id=\"n_0\">LEY 18899<br>ART 60&#xB0;</span> precedente, podr&#xE1; dicha instituci&#xF3;n traspasar al referido fondo, en administraci&#xF3;n, los inmuebles de su dominio, de car&#xE1;cter deportivo y recreacional, pudiendo destinarse los excedentes de su operaci&#xF3;n a la finalidad ya mencionada.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

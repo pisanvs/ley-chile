@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1952-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-06-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8846308,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o La congregaci&#xF3;n religiosa beneficiada deber&#xE1; destinar el predio transferido para el funcionamiento de un asilo de ni&#xF1;as desvalidas y de una escuela para estas mismas. Si lo destinare a otros fines volver&#xE1; al dominio del Fisco&quot;.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o&nbsp; DEROGADO.<span class=\"n\" id=\"n_0\">DL 2704, TIERRAS<br>Art. &#xFA;nico<br>D.O. 27.06.1979</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]
