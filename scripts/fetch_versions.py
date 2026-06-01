@@ -505,8 +505,7 @@ async def run(
 
     logger.info(
         f"To process: {len(work)}, already done: {len(done_set)}, "
-        f"skipped (failed≥{max_transient_failures}): "
-        f"{len([k for k, v in failed_map.items() if v >= max_transient_failures])}"
+        f"permanently dead (HTTP 500/4xx): {len(permanently_dead)}"
     )
 
     work = _apply_version_budget(work, version_budget)
