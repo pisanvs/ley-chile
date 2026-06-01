@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       version_budget:
-        description: "Max version-fetches per run (default: 20000)"
+        description: "Max version-fetches per shard (default: 2500, 20000 total across 8 shards)"
         required: false
-        default: "20000"
+        default: "2500"
       notify_url:
         description: "ntfy.sh webhook URL for completion notification"
         required: false
@@ -23,8 +23,18 @@ concurrency:
   group: historial-write
   cancel-in-progress: false
 
+# ── Phase 1: parallel fetch shards ─────────────────────────────────────────────
+# Each shard runs on its own runner (different IP) and fetches a disjoint slice
+# of normas (id_norma % 8 == shard_index).  Results are committed to a temporary
+# pipeline-cache-shard-{k} branch and merged in the consolidate job below.
+
 jobs:
-  fetch-and-build:
+  fetch-shard:
+    name: "Fetch shard ${{ matrix.shard }}/8"
+    strategy:
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+      fail-fast: false   # let other shards finish even if one fails
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -46,7 +56,67 @@ jobs:
           git config user.name "ley-chile-bot"
           git config user.email "bot@ley-chile"
 
-      # ── pipeline-cache worktree ──────────────────────────────────────────
+      - name: Set up pipeline-cache worktree (shard branch)
+        run: |
+          git fetch origin pipeline-cache
+          git branch -f pipeline-cache origin/pipeline-cache
+          git worktree add cache pipeline-cache
+          # Each shard works on its own branch so pushes don't collide.
+          git -C cache checkout -b pipeline-cache-shard-${{ matrix.shard }}
+
+      - name: Fetch versions (shard ${{ matrix.shard }}/8)
+        run: |
+          python scripts/fetch_versions.py \
+            --data-root . \
+            --cache-dir ./cache \
+            --version-budget ${{ github.event.inputs.version_budget || '2500' }} \
+            --shard ${{ matrix.shard }}/8 \
+            --max-transient-failures 8 \
+            --verbose
+
+      - name: Commit and push shard branch
+        run: |
+          git -C cache add -A
+          if git -C cache diff --cached --quiet; then
+            echo "shard ${{ matrix.shard }}: no new data"
+          else
+            git -C cache commit -m \
+              "shard-${{ matrix.shard }}: fetch $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          fi
+          # Force-push: a previous failed run may have left a stale shard branch.
+          git push --force origin \
+            "pipeline-cache-shard-${{ matrix.shard }}:refs/heads/pipeline-cache-shard-${{ matrix.shard }}"
+
+# ── Phase 2: consolidate + build ───────────────────────────────────────────────
+# Merges all shard branches into pipeline-cache, rebuilds historial, pushes both.
+
+  consolidate:
+    name: Consolidate and build
+    needs: fetch-shard
+    if: always()   # run even when some shards fail; apply whatever data landed
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure git
+        run: |
+          git config user.name "ley-chile-bot"
+          git config user.email "bot@ley-chile"
+          git config http.postBuffer 524288000   # 500 MB — helps with large historial push
+
+      # ── pipeline-cache worktree ────────────────────────────────────────────
       - name: Set up pipeline-cache worktree
         run: |
           CODE_BRANCH=$(git rev-parse --abbrev-ref HEAD)
@@ -62,7 +132,7 @@ jobs:
             git worktree add cache pipeline-cache
           fi
 
-      # ── historial worktree ───────────────────────────────────────────────
+      # ── historial worktree ─────────────────────────────────────────────────
       - name: Set up historial worktree
         run: |
           CODE_BRANCH=$(git rev-parse --abbrev-ref HEAD)
@@ -78,27 +148,64 @@ jobs:
             git worktree add historial historial
           fi
 
-      # ── Step 1: fill the cache ───────────────────────────────────────────
-      - name: Fetch versions into pipeline-cache
+      # ── Merge shard branches ───────────────────────────────────────────────
+      - name: Apply shard data to pipeline-cache
         run: |
-          python scripts/fetch_versions.py \
-            --data-root . \
-            --cache-dir ./cache \
-            --version-budget ${{ github.event.inputs.version_budget || '20000' }} \
-            --verbose
+          APPLIED=0
+          for k in 0 1 2 3 4 5 6 7; do
+            if git fetch origin "pipeline-cache-shard-$k" 2>/dev/null; then
+              # Identify files added/changed by this shard vs current pipeline-cache HEAD.
+              NEW=$(git -C cache diff HEAD..origin/pipeline-cache-shard-$k --name-only)
+              if [ -n "$NEW" ]; then
+                echo "$NEW" | xargs git -C cache checkout "origin/pipeline-cache-shard-$k" --
+                echo "  shard $k: applied $(echo "$NEW" | wc -l) file(s)"
+                APPLIED=$((APPLIED + 1))
+              else
+                echo "  shard $k: no new files"
+              fi
+              # Remove the temporary shard branch from the remote.
+              git push origin --delete "pipeline-cache-shard-$k" || true
+            else
+              echo "  shard $k: branch not found (shard may have failed)"
+            fi
+          done
+          echo "Shards applied: $APPLIED"
 
-      - name: Commit and push pipeline-cache
+      - name: Merge shard progress files and commit pipeline-cache
         run: |
+          # Merge all fetch_versions_progress-shard-*.json into the main progress file,
+          # then remove the shard files so they don't clutter pipeline-cache.
+          python - <<'EOF'
+          import json
+          from pathlib import Path
+
+          cache = Path("cache")
+          main_file = cache / "fetch_versions_progress.json"
+          main = json.loads(main_file.read_text()) if main_file.exists() else {"done": [], "failed": {}}
+          done = set(main.get("done", []))
+          failed = dict(main.get("failed", {}))
+
+          for f in sorted(cache.glob("fetch_versions_progress-shard-*.json")):
+              shard = json.loads(f.read_text())
+              done.update(shard.get("done", []))
+              for id_str, cnt in shard.get("failed", {}).items():
+                  failed[id_str] = max(failed.get(id_str, 0), cnt)
+              f.unlink()
+
+          main_file.write_text(json.dumps({"done": sorted(done), "failed": failed}))
+          print(f"Merged progress: {len(done)} done, {len([v for v in failed.values() if v > 0])} with failures")
+          EOF
+
           git -C cache add -A
           git -C cache diff --cached --quiet && echo "No new cache data" || (
             git -C cache commit -m \
-              "cache: batch fetch $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+              "cache: merge 8 shards $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             for attempt in 1 2 3 4; do
               git push origin pipeline-cache && break || sleep $((attempt * 3))
             done
           )
 
-      # ── Step 2: compute watermark ────────────────────────────────────────
+      # ── Step 2: compute watermark ──────────────────────────────────────────
       - name: Compute watermark
         id: watermark
         run: |
@@ -108,12 +215,7 @@ jobs:
             --historial-dir ./historial \
             --output-env
 
-      # ── Step 3: rebuild historial ───────────────────────────────────────
-      # historial is a fully derived artifact regenerated from the diffs cache
-      # via build_history.py --rebuild.  The fast-import stream is deterministic
-      # given identical input, so a run with no new data leaves the branch
-      # SHA unchanged and force-with-lease push is a no-op.  When new diffs
-      # arrive, the new commit graph reflects the cache contents end-to-end.
+      # ── Step 3: rebuild historial ──────────────────────────────────────────
       - name: Rebuild historial from cache
         if: |
           steps.watermark.outputs.watermark_advanced == 'true' &&
@@ -125,24 +227,42 @@ jobs:
             --rebuild \
             --enrichers tramitacion
 
-      - name: Push historial (force-with-lease)
+      - name: Push historial (chunked + force-with-lease)
         if: |
           steps.watermark.outputs.watermark_advanced == 'true' &&
           github.event.inputs.dry_run != 'true'
         run: |
-          # historial is a generated branch — we replace its tip each rebuild.
-          # --force-with-lease refuses to clobber if someone else pushed in the
-          # meantime, so concurrent writes still fail safely.
-          for attempt in 1 2 3 4; do
-            git push --force-with-lease origin historial && break || (
-              # If the lease check failed, refresh and try again — the next
-              # rebuild is deterministic and will incorporate whatever landed.
-              git -C historial fetch origin historial || true
-              sleep $((attempt * 3))
-            )
+          set -euo pipefail
+
+          # Large packs hit GitHub's HTTP 500 in a single RPC.  Push in
+          # CHUNK_SIZE-commit slices (oldest-first) so each request only sends
+          # an incremental delta, then do a final force-with-lease on the tip.
+          CHUNK_SIZE=500
+          mapfile -t COMMITS < <(git log --reverse --format="%H" historial)
+          TOTAL=${#COMMITS[@]}
+          echo "historial: $TOTAL commits, pushing in chunks of $CHUNK_SIZE"
+
+          # Intermediate chunks — plain --force is fine here; the lease guard
+          # only matters for the final tip to catch concurrent writes.
+          for ((i = CHUNK_SIZE - 1; i < TOTAL - 1; i += CHUNK_SIZE)); do
+            sha="${COMMITS[$i]}"
+            echo "  chunk: commits 1..$((i+1)) / $TOTAL  ($sha)"
+            git push --force origin "$sha:refs/heads/historial"
           done
 
-      # ── Step 4: update README ────────────────────────────────────────────
+          # Final tip — force-with-lease refuses to clobber a concurrent push.
+          PUSHED=0
+          for attempt in 1 2 3 4; do
+            if git push --force-with-lease origin historial; then
+              PUSHED=1; break
+            fi
+            echo "Attempt $attempt failed; fetching and retrying in $((attempt * 3))s..."
+            git fetch origin historial || true
+            sleep $((attempt * 3))
+          done
+          [ $PUSHED -eq 1 ] || { echo "ERROR: historial push failed after 4 attempts"; exit 1; }
+
+      # ── Step 4: update README ──────────────────────────────────────────────
       - name: Update README status
         run: |
           python scripts/update_readme_status.py \
@@ -160,7 +280,7 @@ jobs:
             git push origin ${{ github.ref_name }}
           )
 
-      # ── Notification ─────────────────────────────────────────────────────
+      # ── Notification ───────────────────────────────────────────────────────
       - name: Notify completion
         if: ${{ github.event.inputs.notify_url != '' }}
         run: |

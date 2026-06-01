@@ -410,6 +410,8 @@ async def run(
     only_id: int | None,
     cache_dir: Path | None = None,
     version_budget: int | None = None,
+    shard: tuple[int, int] | None = None,
+    max_transient_failures: int = 8,
 ) -> None:
     if cache_dir is None:
         cache_dir = data_root / "cache"
@@ -446,11 +448,27 @@ async def run(
     versions_cache_dir.mkdir(parents=True, exist_ok=True)
     diffs_cache_dir.mkdir(parents=True, exist_ok=True)
 
-    progress_path = data_root / "fetch_versions_progress.json"
+    # Progress file lives in cache_dir so it persists in the pipeline-cache branch.
+    # When sharding, each shard writes its own file; consolidation merges them.
+    if shard is not None:
+        shard_k, shard_n = shard
+        progress_path = cache_dir / f"fetch_versions_progress-shard-{shard_k}.json"
+    else:
+        progress_path = cache_dir / "fetch_versions_progress.json"
+        # Migrate from the old location (data_root) if present and cache_dir copy missing.
+        old_path = data_root / "fetch_versions_progress.json"
+        if not progress_path.exists() and old_path.exists():
+            import shutil
+            shutil.copy2(old_path, progress_path)
+
+    # For initial done/failed state, always read the main (non-shard) progress file
+    # so each shard knows what the consolidated run has already completed.
+    base_progress_path = cache_dir / "fetch_versions_progress.json"
+    base_progress = _load_progress(base_progress_path)
     progress = _load_progress(progress_path)
 
-    done_set: set[int] = set(progress.get("done", []))
-    failed_map: dict[str, int] = progress.get("failed", {})
+    done_set: set[int] = set(base_progress.get("done", [])) | set(progress.get("done", []))
+    failed_map: dict[str, int] = {**base_progress.get("failed", {}), **progress.get("failed", {})}
 
     # Build work queue
     work = []
@@ -463,13 +481,20 @@ async def run(
         if (diffs_cache_dir / f"{id_str}.json").exists():
             done_set.add(id_norma)
             continue
-        if failed_map.get(id_str, 0) >= 3:
+        if failed_map.get(id_str, 0) >= max_transient_failures:
             continue
         work.append((id_norma, node))
 
+    # When sharding, restrict this runner to its slice of IDs.
+    if shard is not None:
+        shard_k, shard_n = shard
+        work = [(id_norma, node) for id_norma, node in work if id_norma % shard_n == shard_k]
+        logger.info(f"Shard {shard_k}/{shard_n}: {len(work)} normas in this slice")
+
     logger.info(
         f"To process: {len(work)}, already done: {len(done_set)}, "
-        f"skipped (failed≥3): {len([k for k, v in failed_map.items() if v >= 3])}"
+        f"skipped (failed≥{max_transient_failures}): "
+        f"{len([k for k, v in failed_map.items() if v >= max_transient_failures])}"
     )
 
     work = _apply_version_budget(work, version_budget)
@@ -489,6 +514,10 @@ async def run(
 
     loop = asyncio.get_running_loop()
     executor = ThreadPoolExecutor(max_workers=10)
+
+    # Track only this run's done/failed entries for the shard progress file.
+    run_done: set[int] = set()
+    run_failed: dict[str, int] = {}
 
     with Progress("fetch_versions", total=len(work), unit="normas") as bar:
 
@@ -522,19 +551,34 @@ async def run(
                     status_code == 500
                     or (status_code is not None and 400 <= status_code < 500)
                 )
+                err_str = str(err)
+                is_waf_block = "non-JSON body" in err_str and status_code == 200
+                is_overload = status_code in (502, 503, 429) or "timed out" in err_str or "Read timed out" in err_str or "Response ended prematurely" in err_str
                 if status_code in (429, 503):
                     await limiter.on_rate_limit()
                     logger.warning(f"Rate limited on {id_norma}: {err}")
-                    failed_map[str(id_norma)] = failed_map.get(str(id_norma), 0) + 1
+                    run_failed[str(id_norma)] = run_failed.get(str(id_norma), 0) + 1
                 elif is_permanent:
                     # Mark permanent so subsequent runs skip these dead ids;
                     # don't punish the limiter — these aren't load signals.
-                    failed_map[str(id_norma)] = 3
-                else:
-                    failure_count = failed_map.get(str(id_norma), 0)
+                    run_failed[str(id_norma)] = max_transient_failures
+                elif is_overload:
+                    # Server-side overload (502, timeout): reduce concurrency.
+                    failure_count = failed_map.get(str(id_norma), 0) + run_failed.get(str(id_norma), 0)
                     await limiter.on_error(failure_count)
                     logger.warning(f"Error processing {id_norma}: {err}")
-                    failed_map[str(id_norma)] = failure_count + 1
+                    run_failed[str(id_norma)] = run_failed.get(str(id_norma), 0) + 1
+                elif is_waf_block:
+                    # IP-level WAF block (HTTP 200 with HTML body): concurrency is
+                    # irrelevant since the block is per-IP, not per-request rate.
+                    # Just record the failure and move on without touching the limiter.
+                    logger.warning(f"Error processing {id_norma}: {err}")
+                    run_failed[str(id_norma)] = run_failed.get(str(id_norma), 0) + 1
+                else:
+                    failure_count = failed_map.get(str(id_norma), 0) + run_failed.get(str(id_norma), 0)
+                    await limiter.on_error(failure_count)
+                    logger.warning(f"Error processing {id_norma}: {err}")
+                    run_failed[str(id_norma)] = run_failed.get(str(id_norma), 0) + 1
             else:
                 await limiter.on_success()
                 _write_outputs(
@@ -543,29 +587,26 @@ async def run(
                     write_law_outputs=write_law_outputs,
                 )
                 done_set.add(id_norma)
+                run_done.add(id_norma)
                 completions_since_save += 1
 
             bar.update(1, status=f"id={id_norma} c={limiter.concurrency}")
 
             if completions_since_save >= PROGRESS_SAVE_EVERY:
                 completions_since_save = 0
-                progress["done"] = list(done_set)
-                progress["failed"] = failed_map
-                _save_progress(progress_path, progress)
+                _save_progress(progress_path, {"done": list(run_done), "failed": run_failed})
 
         tasks = [asyncio.create_task(process(id_norma, node)) for id_norma, node in work]
 
         try:
             await asyncio.gather(*tasks)
         finally:
-            progress["done"] = list(done_set)
-            progress["failed"] = failed_map
-            _save_progress(progress_path, progress)
+            _save_progress(progress_path, {"done": list(run_done), "failed": run_failed})
             executor.shutdown(wait=True)
 
     logger.info(
         f"Done. total_done={len(done_set)} "
-        f"failed={len([v for v in failed_map.values() if v >= 3])}"
+        f"failed={len([v for v in run_failed.values() if v >= max_transient_failures])}"
     )
 
 
@@ -611,14 +652,39 @@ def main() -> None:
         default=None,
         help="Max total version-fetches for this run",
     )
+    parser.add_argument(
+        "--shard",
+        metavar="K/N",
+        default=None,
+        help="Process only shard K of N (e.g. '0/8'). Filters by id_norma %% N == K.",
+    )
+    parser.add_argument(
+        "--max-transient-failures",
+        type=int,
+        metavar="N",
+        default=8,
+        help="Failures before a norma is permanently skipped (default: 8)",
+    )
     args = parser.parse_args()
 
     setup_logging(verbose=args.verbose)
     data_root = Path(args.data_root).resolve() if args.data_root else detect_data_root()
     logger.info(f"DATA_ROOT: {data_root}")
 
+    shard: tuple[int, int] | None = None
+    if args.shard:
+        try:
+            k_str, n_str = args.shard.split("/")
+            shard = (int(k_str), int(n_str))
+        except ValueError:
+            logger.error(f"--shard must be 'K/N', got: {args.shard!r}")
+            sys.exit(1)
+
     cache_dir = Path(args.cache_dir).resolve() if args.cache_dir else None
-    asyncio.run(run(data_root, args.limit, args.id, cache_dir, args.version_budget))
+    asyncio.run(run(
+        data_root, args.limit, args.id, cache_dir, args.version_budget,
+        shard=shard, max_transient_failures=args.max_transient_failures,
+    ))
 
 
 if __name__ == "__main__":

@@ -136,7 +136,13 @@ class AdaptiveLimiter:
         await asyncio.sleep(backoff)
 
     async def on_error(self, attempt: int) -> None:
-        """Exponential backoff for transient errors (not rate limits)."""
+        """Exponential backoff for transient errors (not rate limits).
+
+        Resets the success streak so concurrency doesn't keep climbing through
+        a wave of server-overload errors.
+        """
+        async with self._lock:
+            self._streak = 0
         delay = min(60, 2 ** attempt)
         await asyncio.sleep(delay)
 
