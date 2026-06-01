@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-10-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-08-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8577538,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD MORELIA REYES Y COMPA&#xD1;IA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS Y TRASLADAR PLANTA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD MORELIA REYES Y COMPA&#xD1;IA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS Y TRASLADAR PLANTA </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

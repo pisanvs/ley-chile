@@ -1,0 +1,40 @@
+[
+  {
+    "fecha": "1999-02-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-04-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6152028,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- Estos productos deben venir amparados por un certificado de libre venta del pa&#xED;s de procedencia y por un certificado sanitario oficial otorgado por la autoridad sanitaria competente del pa&#xED;s de origen, que indique el establecimiento de procedencia, la identificaci&#xF3;n del producto, el proceso al que fue sometido, la cantidad y peso neto, el exportador y destinatario y la identificaci&#xF3;n del medio de transporte.</div><div class=\"p\">&nbsp; &nbsp;  Los alimentos deben venir envasados y sellados exhibiendo la etiqueta de garant&#xED;a en espa&#xF1;ol y la fecha de vencimiento del producto.</div><div class=\"p\">&nbsp; &nbsp;  Los alimentos para mascotas que contienen ingredientes de origen animal, en la certificaci&#xF3;n sanitaria debe establecerse adem&#xE1;s que:</div><br><div class=\"p\">a)&nbsp;  Provienen de pa&#xED;ses libres de BSE y Scrapie, o bien No contienen materias primas de origen de rumiantes.</div><div class=\"p\">b)&nbsp;  Los productos han sido sometidos a un tratamiento tal, que impida el desarrollo de cualquier agente pat&#xF3;geno que afecte la salud animal.</div><div class=\"p\">c)&nbsp;  Cada partida debe acreditar haber sido sometida a an&#xE1;lisis bacteriol&#xF3;gico (Recuento total, coliformes totales, E. Coli y Salmonella sp), cuyos resultados deben indicarse en el certificado sanitario oficial o bien adjuntarse los protocolos correspondientes.</div><div class=\"p\">d)&nbsp;  El contenido de aflatoxina no sobrepasa el l&#xED;mite de 10ppb como m&#xE1;ximo.</div><div class=\"p\">e)&nbsp;  Los productos para morder, de origen animal, deben acreditar que en su preparaci&#xF3;n han sido calentados hasta alcanzar los 90&#xB0;C en el centro del producto.</div><br><div class=\"p\">&nbsp; &nbsp;  Los alimentos que contienen s&#xF3;lo ingredientes de origen vegetal:</div><br><div class=\"p\">a)&nbsp;  Mezclas de semillas: deben presentar certificado de libre venta y deben cumplir con las exigencias agr&#xED;colas.</div><div class=\"p\">b)&nbsp;  Alimentos completos: deben cumplir con el certificado de libre venta y l&#xED;mite m&#xE1;ximo de 10 ppb de aflatoxinas.</div><br><div class=\"p\">&nbsp; &nbsp;  Al arribo al pa&#xED;s, los productos podr&#xE1;n ser sometidos a controles, los cuales ser&#xE1;n de costo del usuario.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- Estos productos deben venir amparados<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> por un certificado de libre venta del pa&#xED;s de procedencia y por un certificado sanitario oficial otorgado por la autoridad sanitaria competente del pa&#xED;s de origen, que indique el establecimiento de procedencia, la identificaci&#xF3;n del producto, el proceso al que fue sometido, la cantidad y peso neto, el exportador y destinatario y la identificaci&#xF3;n del medio de transporte.</div><div class=\"p\">&nbsp; &nbsp;  Los alimentos deben venir envasados y sellados exhibiendo la etiqueta de garant&#xED;a en espa&#xF1;ol y la fecha de vencimiento del producto.</div><div class=\"p\">&nbsp; &nbsp;  Los alimentos para mascotas que contienen ingredientes de origen animal, en la certificaci&#xF3;n sanitaria debe establecerse adem&#xE1;s que:</div><div class=\"p\">a)&nbsp;  Provienen de pa&#xED;ses libres de BSE y Scrapie, o bien No contienen materias primas de origen de rumiantes.</div><div class=\"p\">b)&nbsp;  Los productos han sido sometidos a un tratamiento tal, que impida el desarrollo de cualquier agente pat&#xF3;geno que afecte la salud animal.</div><div class=\"p\">c)&nbsp;  Cada partida debe acreditar haber sido sometida a an&#xE1;lisis bacteriol&#xF3;gico (Recuento total, coliformes totales, E. Coli y Salmonella sp), cuyos resultados deben indicarse en el certificado sanitario oficial o bien adjuntarse los protocolos correspondientes.</div><div class=\"p\">d)&nbsp;  El contenido de aflatoxina no sobrepasa el l&#xED;mite de 10ppb como m&#xE1;ximo.</div><div class=\"p\">e)&nbsp;  Los productos para morder, de origen animal, deben acreditar que en su preparaci&#xF3;n han sido calentados hasta alcanzar los 90&#xB0;C en el centro del producto.</div><div class=\"p\">&nbsp; &nbsp;  Los alimentos que contienen s&#xF3;lo ingredientes de origen vegetal:</div><div class=\"p\">a)&nbsp;  Mezclas de semillas: deben presentar certificado de libre venta y deben cumplir con las exigencias agr&#xED;colas.</div><div class=\"p\">b)&nbsp;  Alimentos completos: deben cumplir con el certificado de libre venta y l&#xED;mite m&#xE1;ximo de 10 ppb de aflatoxinas.</div><div class=\"p\">&nbsp; &nbsp;  Al arribo al pa&#xED;s, los productos podr&#xE1;n ser sometidos a controles, los cuales ser&#xE1;n de costo del usuario.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 1113 exenta, Agricultura, publicada el 23.04.2002, modific&#xF3; la presente norma en el sentido de disponer que las harinas de carne o hueso de origen rumiante, que incorporen en su f&#xF3;rmula, los alimentos para mascotas que se importen al pa&#xED;s, deber&#xE1;n haber sido reducidas a un tama&#xF1;o m&#xE1;ximo de 50 mms.; y luego ser sometidas a tratamiento t&#xE9;rmico en una atm&#xF3;sfera saturada de vapor, cuya temperatura ascienda a lo menos a 133&#xB0;C, durante 20 minutos como m&#xED;nimo, con una presi&#xF3;n absoluta de tres bares.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-03-21",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2013-08-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

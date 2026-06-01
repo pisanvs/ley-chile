@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-07-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8362934,
+          "old": "<div><div class=\"p\">AUTORIZA AL INSTITUTO COMERCIAL BLAS CA&#xD1;AS PARA EFECTUAR RIFA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.058 exenta.- Santiago, 29 de junio de 2000.- Vistos: Lo solicitado por la representante legal del Instituto Comercial Blas Ca&#xF1;as; lo dispuesto en decretos supremos N&#xB0;s 955/74 y 969/75, del Ministerio del Interior, el texto actualizado de la resoluci&#xF3;n N&#xB0; 55/92 de la Contralor&#xED;a General de la Rep&#xFA;blica, y en ejercicio de las facultades que me otorga el art&#xED;culo 2&#xB0; de la ley N&#xB0;19.175,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA AL INSTITUTO COMERCIAL BLAS CA&#xD1;AS PARA EFECTUAR RIFA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.058 exenta.- Santiago, 29 de junio de 2000.- Vistos: Lo solicitado por la representante legal del Instituto Comercial Blas Ca&#xF1;as; lo dispuesto en decretos supremos N&#xB0;s 955/74 y 969/75, del Ministerio del Interior, el texto actualizado de la resoluci&#xF3;n N&#xB0; 55/92 de la Contralor&#xED;a General de la Rep&#xFA;blica, y en ejercicio de las facultades que me otorga el art&#xED;culo 2&#xB0; de la ley N&#xB0;19.175,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

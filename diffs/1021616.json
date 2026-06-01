@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2010-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-05-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9090440,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: La presente modificaci&#xF3;n regir&#xE1; transcurridos seis meses contados desde la publicaci&#xF3;n de la resoluci&#xF3;n que fije las condiciones de manejo sanitario aludidas precedentemente.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Lo dispuesto<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1025623&amp;idParte=9142982&amp;idVersion=2011-05-23\">Resoluci&#xF3;n 828 EXENTA,<br>ECONOM&#xCD;A <br>Art. &#xDA;NICO<br>D.O. 23.05.2011</a></span> en la presente resoluci&#xF3;n regir&#xE1; a contar de su publicaci&#xF3;n en el Diario Oficial, salvo lo dispuesto en el numeral primero del art&#xED;culo precedente, que regir&#xE1; transcurridos dos meses contados desde la publicaci&#xF3;n de la resoluci&#xF3;n que fije las condiciones de manejo sanitario antes aludidas.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1025623,
+      "fecha": "2011-05-23"
+    }
+  },
+  {
+    "fecha": "2011-08-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

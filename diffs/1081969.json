@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-09-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-12-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9637210,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  I. Post&#xE9;rgase por el plazo de tres meses el otorgamiento permisos de edificaci&#xF3;n, urbanizaci&#xF3;n, loteo y subdivisi&#xF3;n en el sector de la Cuenca Sur del Estero de Re&#xF1;aca, en el per&#xED;metro comprendido entre el Estero de Re&#xF1;aca por el norte; Avda. G&#xF3;mez Carre&#xF1;o y Avda. Alejandro Navarrete por el sur y sur poniente; Jard&#xED;n del Mar por el poniente; y Glorias Navales y Expresos Vi&#xF1;a por el oriente, seg&#xFA;n pol&#xED;gono 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-1, graficado en &quot;Plano &#xC1;rea Estudio - Cuenca Estero de Re&#xF1;aca Sector Sur&quot;, elaborado por Asesor&#xED;a Urbana y que se entender&#xE1; formar parte integrante del presente decreto.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  II. Transcr&#xED;base a la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo Regi&#xF3;n de Valpara&#xED;so.</div><div class=\"p\">&nbsp; &nbsp;  III. Notif&#xED;quese al Director de Obras Municipales y al Asesor Urbanista.</div><div class=\"p\">&nbsp; &nbsp;  IV. Publ&#xED;quese en el Diario Oficial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  I. Post&#xE9;rgase por el plazo de tres meses el otorgamiento<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> permisos de edificaci&#xF3;n, urbanizaci&#xF3;n, loteo y subdivisi&#xF3;n en el sector de la Cuenca Sur del Estero de Re&#xF1;aca, en el per&#xED;metro comprendido entre el Estero de Re&#xF1;aca por el norte; Avda. G&#xF3;mez Carre&#xF1;o y Avda. Alejandro Navarrete por el sur y sur poniente; Jard&#xED;n del Mar por el poniente; y Glorias Navales y Expresos Vi&#xF1;a por el oriente, seg&#xFA;n pol&#xED;gono 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-1, graficado en &quot;Plano &#xC1;rea Estudio - Cuenca Estero de Re&#xF1;aca Sector Sur&quot;, elaborado por Asesor&#xED;a Urbana y que se entender&#xE1; formar parte integrante del presente decreto.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  II. Transcr&#xED;base a la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo Regi&#xF3;n de Valpara&#xED;so.</div><div class=\"p\">&nbsp; &nbsp;  III. Notif&#xED;quese al Director de Obras Municipales y al Asesor Urbanista.</div><div class=\"p\">&nbsp; &nbsp;  IV. Publ&#xED;quese en el Diario Oficial.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 3363 Exenta,&nbsp; Vivienda, publicada el 17.12.2015 modifica la presente norma, en el sentido de prorrogar la postergaci&#xF3;n de permisos de edificaci&#xF3;n, urbanizaci&#xF3;n, loteo y subdivisi&#xF3;n en el sector de la Cuenca Sur del Estero de Re&#xF1;aca, por un plazo de 9 (nueve) meses a contar del plazo de expiraci&#xF3;n de la postergaci&#xF3;n de permisos vigente, originalmente dispuesta por la presente Resoluci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

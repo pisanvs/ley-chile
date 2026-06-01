@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-04-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6251539,
+          "old": "<div><div class=\"p\">AUTORIZA A DON ALFREDO PIZA TURNER PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON ALFREDO PIZA TURNER PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

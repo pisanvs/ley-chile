@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-09-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-10-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8438542,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;bese la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados por calle Carmen, entre Av. Libertador Bernardo O&apos;Higgins (Alameda) y calle Curic&#xF3;, de la comuna de Santiago, desde el 22 de septiembre al 22 de octubre del presente a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  2.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la ley N&#xB0; 18.290.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;bese la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados por calle Carmen, entre Av. Libertador Bernardo O.Higgins (Alameda) y calle Curic&#xF3;, de la comuna de Santiago, desde el 22 de<span class=\"n\" id=\"n_0\">RES 2197 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 14.10.2008</span> septiembre al 8 de octubre del presente a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  2.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la ley N&#xB0; 18.290.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

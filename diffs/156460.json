@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-04-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7261820,
+          "old": "<div><div class=\"p\">DISPONE PROHIBICION DE TRANSITO DE CAMIONES EN SECTOR QUE INDICA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 132 exenta.- Santiago, 11 de Febrero de 1986.- Vistos: El Art&#xED;culo 118 de la Ley 18.299, Ley de Tr&#xE1;nsito; el Decreto Supremo N&#xB0; 275/80 y la Resoluci&#xF3;n N&#xB0; 59/85, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes;</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- El Ord. N&#xB0; 2634/85 del Ministerio de Obras P&#xFA;blicas, en que se informa los problemas que est&#xE1; causando el tr&#xE1;nsito de camiones en el camino San Juan de Pirque a Puente El Toyo, Km. 0 al Km. 23, y por su bifurcaci&#xF3;n hacia el camino Santiago al Volc&#xE1;n a trav&#xE9;s del Puente Las Vertientes.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- Los Ord. N&#xB0;s. 26/86 y 03/86, de las I, Municipalidades de Pirque y San Jos&#xE9; de Maipo.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;.- El Memor&#xE1;ndum N&#xB0; 1/86, de la Subsecretar&#xED;a de Transportes;</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DISPONE PROHIBICION DE TRANSITO DE CAMIONES EN SECTOR QUE INDICA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 132 exenta.- Santiago, 11 de Febrero de 1986.- Vistos: El Art&#xED;culo 118 de la Ley 18.299, Ley de Tr&#xE1;nsito; el Decreto Supremo N&#xB0; 275/80 y la Resoluci&#xF3;n N&#xB0; 59/85, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes;</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- El Ord. N&#xB0; 2634/85 del Ministerio de Obras P&#xFA;blicas, en que se informa los problemas que est&#xE1; causando el tr&#xE1;nsito de camiones en el camino San Juan de Pirque a Puente El Toyo, Km. 0 al Km. 23, y por su bifurcaci&#xF3;n hacia el camino Santiago al Volc&#xE1;n a trav&#xE9;s del Puente Las Vertientes.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- Los Ord. N&#xB0;s. 26/86 y 03/86, de las I, Municipalidades de Pirque y San Jos&#xE9; de Maipo.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;.- El Memor&#xE1;ndum N&#xB0; 1/86, de la Subsecretar&#xED;a de Transportes;</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

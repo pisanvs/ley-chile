@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-05-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-10-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9916458,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- Modif&#xED;case el <a href=\"https://www.leychile.cl/Navegar?idNorma=1117850&amp;idParte=&amp;idVersion=\">decreto exento N&#xBA; 254, de 5 de abril de 2018</a>, del Ministerio de Educaci&#xF3;n, que designa representante del Ministerio de Educaci&#xF3;n en el Directorio del Centro de Formaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n de Tarapac&#xE1;, en el sentido de agregar en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1117850&amp;idParte=9908519&amp;idVersion=\">art&#xED;culo 2</a> un segundo inciso nuevo, del siguiente tenor:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;A contar de la fecha del presente acto, se deja sin efecto el decreto exento N&#xBA; 254, de 2018, del Ministerio de Educaci&#xF3;n, que contiene la designaci&#xF3;n de don Francisco Prieto Henr&#xED;quez, como representante del Ministerio de Educaci&#xF3;n en el Directorio del Centro de Formaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n de Tarapac&#xE1;.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- Modif&#xED;case el decreto exento N&#xBA; 254, de 5 de abril de 2018, del Ministerio de Educaci&#xF3;n, que designa representante del Ministerio de Educaci&#xF3;n en el Directorio del Centro de Formaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n de Tarapac&#xE1;, en el sentido de agregar en el art&#xED;culo 2 un segundo inciso nuevo, del siguiente tenor:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;A contar <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1124749&amp;idParte=9960379&amp;idVersion=2018-10-31\">Decreto 761 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 31.10.2018</a></span>de la fecha del presente acto, se deja sin efecto el decreto exento N&#xBA; 3, de 2018, del Ministerio de Educaci&#xF3;n, que contiene la designaci&#xF3;n de don Francisco Prieto Henr&#xED;quez, como representante del Ministerio de Educaci&#xF3;n en el Directorio del Centro de Formaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n de Tarapac&#xE1;.&quot;.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1124749,
+      "fecha": "2018-10-31"
+    }
+  }
+]

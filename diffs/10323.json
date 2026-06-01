@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1968-10-08",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1968-10-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8993205,
+          "old": null,
+          "new": "<div><div class=\"p\">desde el 1&#xB0; de mayo del presente a&#xF1;o. An&#xF3;tese, t&#xF3;mese raz&#xF3;n y publ&#xED;quese.- EDUARDO FREI MONTALVA.- Sergio Ossa.- Andr&#xE9;s Zald&#xED;var.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

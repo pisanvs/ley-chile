@@ -1,0 +1,20 @@
+[
+  {
+    "fecha": "2021-09-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null,
+    "modificadaPor": {
+      "idNorma": 1164602,
+      "fecha": "2021-09-03"
+    }
+  },
+  {
+    "fecha": "2026-02-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "1971-12-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1972-05-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8913032,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0; transitorio.- Las normas del presente Reglamento prevalecer&#xE1;n sobre las disposiciones de los actuales reglamentos particulares de copropiedad en lo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1012648&amp;idParte=8913026&amp;idVersion=1972-05-04\">Decreto 150, VIVIENDA<br>D.O. 04.05.1972</a></span>que &#xE9;stas fueren contrarias a aqu&#xE9;llas, mientras los respectivos comuneros no modifiquen sus reglamentos adecu&#xE1;ndolos a dichas normas, y las mismas, adem&#xE1;s, regir&#xE1;n en todo lo no previsto en dichos reglamentos.</div><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1012648,
+      "fecha": "1972-05-04"
+    }
+  },
+  {
+    "fecha": "1976-10-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8912352,
+          "old": "<div><div class=\"p\">FIJA NUEVO TEXTO DEL REGLAMENTO SOBRE COMUNIDADES DE COPROPIETARIOS DE EDIFICIOS</div><br><div class=\"p\">&nbsp; &nbsp; NUM. 695.- Santiago, 8 de noviembre de 1971.- Vistos: lo dispuesto en el art&#xED;culo 8&#xB0; letra i) de la ley 16.391 y la facultad que me confiere el art&#xED;culo 72&#xB0;, N&#xB0; 2, de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA NUEVO TEXTO DEL REGLAMENTO SOBRE COMUNIDADES DE <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>COPROPIETARIOS DE EDIFICIOS</div><br><div class=\"p\">&nbsp; &nbsp; NUM. 695.- Santiago, 8 de noviembre de 1971.- Vistos: lo dispuesto en el art&#xED;culo 8&#xB0; letra i) de la ley 16.391 y la facultad que me confiere el art&#xED;culo 72&#xB0;, N&#xB0; 2, de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 306, Econom&#xED;a, publicada el 29 de octubre de 1976, dispuso la delegaci&#xF3;n, en el Jefe del Departamento de Arriendos, en los Directores Regionales, en los Jefes Regionales y en los Jefes Provinciales, de las facultades que por el presente decreto se confieren al Director Nacional de la Direcci&#xF3;n de Industria y Comercio.</div></div>"
+        },
+        {
+          "part_id": 8913032,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0; transitorio.- Las normas del presente Reglamento prevalecer&#xE1;n sobre las disposiciones de los actuales reglamentos particulares de copropiedad en lo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1012648&amp;idParte=8913026&amp;idVersion=1972-05-04\">Decreto 150, VIVIENDA<br>D.O. 04.05.1972</a></span>que &#xE9;stas fueren contrarias a aqu&#xE9;llas, mientras los respectivos comuneros no modifiquen sus reglamentos adecu&#xE1;ndolos a dichas normas, y las mismas, adem&#xE1;s, regir&#xE1;n en todo lo no previsto en dichos reglamentos.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0; transitorio.- Las normas del presente Reglamento prevalecer&#xE1;n sobre las disposiciones de los actuales reglamentos particulares de copropiedad en lo <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1012648&amp;idParte=8913026&amp;idVersion=1972-05-04\">Decreto 150, VIVIENDA<br>D.O. 04.05.1972</a></span>que &#xE9;stas fueren contrarias a aqu&#xE9;llas, mientras los respectivos comuneros no modifiquen sus reglamentos adecu&#xE1;ndolos a dichas normas, y las mismas, adem&#xE1;s, regir&#xE1;n en todo lo no previsto en dichos reglamentos.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

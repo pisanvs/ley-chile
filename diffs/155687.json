@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-06-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-06-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6232846,
+          "old": "<div><div class=\"p\">DECLARA LIBRE DE MARCHITEZ BACTERIANA DE LA PAPA A LA PROVINCIA DE MALLECO DE LA IX REGION</div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 700 exenta.- Santiago, 28 de Mayo de 1986.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, la Resoluci&#xF3;n N&#xB0; 803 de 1983, el Informe elaborado por el Departamento de Diagn&#xF3;stico y Vigilancia y los resultados de prospecciones sistem&#xE1;ticas efectuadas en la Provincia de Malleco, IX Regi&#xF3;n, para detectar presencia de marchitez bacteriana y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la Resoluci&#xF3;n N&#xB0; 803, de 1983, declar&#xF3; de control obligatorio, en todo el territorio nacional, la enfermedad de los vegetales conocida como &quot;Marchitez bacteriana de la papa&quot; causada por la bacteria Pseudomonas solanacerarum.</div><div class=\"p\">&nbsp; &nbsp;  Que con el objeto de delimitar las zonas de ocurrencia de esta enfermedad, se efectu&#xF3; prospecciones en la provincia de Malleco con resultados negativos, </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA LIBRE DE MARCHITEZ BACTERIANA DE LA PAPA A LA PROVINCIA DE MALLECO DE LA IX REGION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 700 exenta.- Santiago, 28 de Mayo de 1986.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, la Resoluci&#xF3;n N&#xB0; 803 de 1983, el Informe elaborado por el Departamento de Diagn&#xF3;stico y Vigilancia y los resultados de prospecciones sistem&#xE1;ticas efectuadas en la Provincia de Malleco, IX Regi&#xF3;n, para detectar presencia de marchitez bacteriana y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la Resoluci&#xF3;n N&#xB0; 803, de 1983, declar&#xF3; de control obligatorio, en todo el territorio nacional, la enfermedad de los vegetales conocida como &quot;Marchitez bacteriana de la papa&quot; causada por la bacteria Pseudomonas solanacerarum.</div><div class=\"p\">&nbsp; &nbsp;  Que con el objeto de delimitar las zonas de ocurrencia de esta enfermedad, se efectu&#xF3; prospecciones en la provincia de Malleco con resultados negativos, </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

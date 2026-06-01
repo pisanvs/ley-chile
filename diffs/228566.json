@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-08-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-03-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6490621,
+          "old": "<div><div class=\"p\">FIJA ORDEN DE SUBROGACION QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m.&nbsp; 96.- Valpara&#xED;so, 10 de mayo de 2004.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que, la ley 19.891 ha creado el Consejo Nacional de la Cultura y las Artes como un servicio p&#xFA;blico aut&#xF3;nomo, descentralizado y territorialmente desconcentrado, con personalidad jur&#xED;dica y patrimonio propio y que mediante decreto con fuerza de ley N&#xBA; 3 se fijaron las plantas de dicho servicio.</div><div class=\"p\">&nbsp; &nbsp;  Que, el Presidente del Consejo es el jefe superior del servicio y como tal le corresponde conocer y resolver todo asunto relacionado con los intereses del Consejo, pudiendo al efecto ejecutar los actos que sean necesarios y conducentes a la obtenci&#xF3;n de los objetivos del Consejo.</div><div class=\"p\">&nbsp; &nbsp;  Que, para un eficaz y eficiente desarrollo de las funciones del Consejo como servicio p&#xFA;blico y para su buen funcionamiento, se debe determinar el orden de la subrogancia para el Subdirector Nacional del Consejo Nacional de la Cultura y las Artes.</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en los art&#xED;culos 5 N&#xBA; 1 y 9 N&#xBA; 4 de la ley N&#xBA; 19.891; ley N&#xBA; 18.575; decreto con fuerza de ley N&#xBA; 3 de 2003, del Ministerio de Educaci&#xF3;n; resoluci&#xF3;n N&#xBA; 89 de 2004, del Consejo Nacional de la Cultura y las Artes; ley N&#xBA; 19.880; ley N&#xBA; 18.834 y resoluci&#xF3;n N&#xBA; 520 de 1996 y sus modificaciones de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA ORDEN DE SUBROGACION QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m.&nbsp; 96.- Valpara&#xED;so, 10 de mayo de 2004.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que, la ley 19.891 ha creado el Consejo Nacional de la Cultura y las Artes como un servicio p&#xFA;blico aut&#xF3;nomo, descentralizado y territorialmente desconcentrado, con personalidad jur&#xED;dica y patrimonio propio y que mediante decreto con fuerza de ley N&#xBA; 3 se fijaron las plantas de dicho servicio.</div><div class=\"p\">&nbsp; &nbsp;  Que, el Presidente del Consejo es el jefe superior del servicio y como tal le corresponde conocer y resolver todo asunto relacionado con los intereses del Consejo, pudiendo al efecto ejecutar los actos que sean necesarios y conducentes a la obtenci&#xF3;n de los objetivos del Consejo.</div><div class=\"p\">&nbsp; &nbsp;  Que, para un eficaz y eficiente desarrollo de las funciones del Consejo como servicio p&#xFA;blico y para su buen funcionamiento, se debe determinar el orden de la subrogancia para el Subdirector Nacional del Consejo Nacional de la Cultura y las Artes.</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en los art&#xED;culos 5 N&#xBA; 1 y 9 N&#xBA; 4 de la ley N&#xBA; 19.891; ley N&#xBA; 18.575; decreto con fuerza de ley N&#xBA; 3 de 2003, del Ministerio de Educaci&#xF3;n; resoluci&#xF3;n N&#xBA; 89 de 2004, del Consejo Nacional de la Cultura y las Artes; ley N&#xBA; 19.880; ley N&#xBA; 18.834 y resoluci&#xF3;n N&#xBA; 520 de 1996 y sus modificaciones de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

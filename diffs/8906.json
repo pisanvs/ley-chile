@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1976-03-13",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1984-07-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8992437,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Ministerio del Trabajo y Previsi&#xF3;n Social SUBSECRETARIA DE PREVISION SOCIAL</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el Diario Oficial N&#xB0; 29.404, de 12 de marzo de 1976)</div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DEL PERSONAL DE LA SECRETARIA Y ADMINISTRACION GENERAL, DEL SERVICIO DE GOBIERNO INTERIOR, DE LA OFICINA DE PRESUPUESTOS Y PLANIFICACION Y DE LA OFICINA NACIONAL DE EMERGENCIA, TODOS DEL MINISTERIO DEL INTERIOR Santiago, 10 de Febrero de 1976.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 84.- Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; El decreto ley N&#xB0; 702, de 21 de Octubre de 1974, que fusiona las Comisiones de Bienestar del Personal de la Secretar&#xED;a y Administraci&#xF3;n General del Ministerio del Interior y del Servicio de Gobierno Interior, y Vistos: lo dispuesto en las leyes N&#xB0;s. 11.764 y 16.781; el decreto supremo N&#xB0; 722, de 11 de Agosto de 1955, del ex Ministerio de Salud P&#xFA;blica y Previsi&#xF3;n Social, y sus modificaciones, y la facultad que me confiere el N&#xB0; 1 del art&#xED;culo 10&#xB0; del decreto ley N&#xB0; 527, de 1974,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; 1.- Der&#xF3;ganse los decretos supremos N&#xB0; 116, de 3 de Abril de 1962, y N&#xB0; 510, de 10 de Octubre de 1963, ambos del Ministerio del Trabajo y Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp; 2.- Apru&#xE9;base el siguiente Reglamento para el Servicio de Bienestar del Ministerio del Interior, creado por decreto ley N&#xB0; 702, de 1974, para el personal que se desempe&#xF1;a en la Secretar&#xED;a y Administraci&#xF3;n General, en el Servicio de Gobierno Interior, en la Oficina de Presupuestos y Planificaci&#xF3;n y en la Oficina Nacional de Emergencia de la referida Secretar&#xED;a de Estado.</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

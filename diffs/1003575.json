@@ -1,0 +1,65 @@
+[
+  {
+    "fecha": "2009-06-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-07-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8695371,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Tercero: A contar de la fecha mencionada, esto es, el 1 de junio de 2009, todos los productos farmac&#xE9;uticos que soliciten registro y que contengan el principio activo antes mencionado, deber&#xE1;n presentar los protocolos de los estudios de bioequivalencia respectivos.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Tercero: A contar de la fecha mencionada, esto es, el 1 de julio de 2009,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1004320&amp;idParte=8746588&amp;idVersion=2009-07-20\">Resolucion 3343 EXENTA,<br>SALUD<br>N&#xBA; 1<br>D.O. 20.07.2009</a></span> todos los productos farmac&#xE9;uticos que soliciten registro y que contengan el principio activo antes mencionado, deber&#xE1;n presentar los protocolos de los estudios de bioequivalencia respectivos.</div><br></div>"
+        },
+        {
+          "part_id": 8695372,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Cuarto: Para los productos farmac&#xE9;uticos con registro vigente, los interesados podr&#xE1;n entregar una propuesta de cronograma para la realizaci&#xF3;n de los estudios de bioequivalencia respectivos, durante el mes siguiente de la entrada en vigencia de esta resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, establ&#xE9;cese un plazo fatal de un a&#xF1;o, a contar del 1 de junio de 2009, para la presentaci&#xF3;n del protocolo de bioequivalencia para los productos que contienen Imatinib mesilato, Fenito&#xED;na s&#xF3;dica, Biperideno clorhidrato, Levotiroxina s&#xF3;dica, Doxiciclina hiclato - monohidrato - clorhidrato, Abacavir sulfato, Efavirenz, Didanosina, Fosamprenavir c&#xE1;lcico y Prednisona.</div></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Cuarto: Para los productos farmac&#xE9;uticos con registro vigente, los interesados podr&#xE1;n entregar una propuesta de cronograma para la realizaci&#xF3;n de los estudios de bioequivalencia respectivos, durante el mes siguiente de la entrada en vigencia de esta resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, establ&#xE9;cese un plazo fatal de un a&#xF1;o, a contar del 1 de julio de 2009<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1004320&amp;idParte=8746588&amp;idVersion=2009-07-20\">Resolucion 3343 EXENTA,<br>SALUD<br>N&#xBA; 1<br>D.O. 20.07.2009</a></span>, para la presentaci&#xF3;n del protocolo de bioequivalencia para los productos que contienen Imatinib mesilato, Fenito&#xED;na s&#xF3;dica, Biperideno clorhidrato, Levotiroxina s&#xF3;dica, Doxiciclina hiclato - monohidrato - clorhidrato, Abacavir sulfato, Efavirenz, Didanosina, Fosamprenavir c&#xE1;lcico y Prednisona.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1004320,
+      "fecha": "2009-07-20"
+    }
+  },
+  {
+    "fecha": "2009-12-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8695369,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero: Establ&#xE9;cese como fecha de inicio de la exigencia de requisitos para establecer bioequivalencia el d&#xED;a 1 de julio de 2009, a los productos farmac&#xE9;uticos monodrogas que contengan los principios activos:</div><br><div class=\"p\">&#x2022;&nbsp; &nbsp; IMATINIB MESILATO en potencias de 50 y 100 mg contenidos en c&#xE1;psulas de liberaci&#xF3;n convencional y potencias de 100 y 400 mg contenido en comprimidos de liberaci&#xF3;n convencional.</div><div class=\"p\">&#x2022;&nbsp; &nbsp; FENITO&#xCD;NA S&#xD3;DICA en potencia de 100 mg contenidos en comprimidos de liberaci&#xF3;n r&#xE1;pida (&quot;prompt&quot;).</div><div class=\"p\">&#x2022;&nbsp; &nbsp; BIPERIDENO CLORHIDRATO en potencia de 2 mg contenidos en comprimidos liberaci&#xF3;n convencional.</div><div class=\"p\">&#x2022;&nbsp; &nbsp; LEVOTIROXINA S&#xD3;DICA en potencias de 25, 50, 75, 88, 100, 112, 125, 150, 175 y 200 mcg contenidos en comprimidos de liberaci&#xF3;n convencional.</div><div class=\"p\">&#x2022;&nbsp; &nbsp; DOXICICLINA HICLATO en potencias de 20, 100 y 200 mg contenidos en comprimidos, comprimidos recubiertos y c&#xE1;psulas.</div><div class=\"p\">&#x2022;&nbsp; &nbsp; DOXICICLINA MONOHIDRATO en potencias de 50, 100 y 200 mg contenidos en comprimidos y comprimidos recubiertos.</div><div class=\"p\">&#x2022;&nbsp; &nbsp; DOXICICLINA CLORHIDRATO en potencia de 50 mg contenidos en c&#xE1;psulas.</div><div class=\"p\">&#x2022;&nbsp; &nbsp; ABACAVIR SULFATO en potencia de 300 mg contenidos en comprimidos de liberaci&#xF3;n convencional.</div><div class=\"p\">&#x2022;&nbsp; &nbsp; EFAVIRENZ en potencias de 100 y 200 mg contenidos en c&#xE1;psulas; 200 y 600 mg contenidos en comprimidos recubiertos.</div><div class=\"p\">&#x2022;&nbsp; &nbsp; DIDANOSINA en potencias de 125, 200, 250 y 400 mg contenidos en c&#xE1;psulas con gr&#xE1;nulos con recubrimiento ent&#xE9;rico.</div><div class=\"p\">&#x2022;&nbsp; &nbsp; FOSAMPRENAVIR C&#xC1;LCICO en potencia de 700 mg contenidos en comprimidos recu-biertos.</div><div class=\"p\">&#x2022;&nbsp; &nbsp; PREDNISONA en potencias de 1, 5, 20 y 50 mg contenidos en comprimidos convencionales.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero: Establ&#xE9;cese como fecha de inicio de la exigencia de requisitos para establecer bioequivalencia el d&#xED;a 1 de julio de 2009, a los productos farmac&#xE9;uticos monodrogas que contengan los principios activos:</div><br><div class=\"p\">-&nbsp; &nbsp; IMATINIB MESILATO en potencias de 50 y 100 mg contenidos en c&#xE1;psulas de liberaci&#xF3;n convencional y potencias de 100 y 400 mg contenido en comprimidos de liberaci&#xF3;n convencional.</div><div class=\"p\">-&nbsp; &nbsp; FENITO&#xCD;NA S&#xD3;DICA en potencia de 100 mg contenidos en comprimidos de liberaci&#xF3;n r&#xE1;pida (&quot;prompt&quot;).</div><div class=\"p\">-&nbsp; &nbsp; BIPERIDENO CLORHIDRATO en potencia de 2 mg contenidos en comprimidos liberaci&#xF3;n convencional.</div><div class=\"p\">-&nbsp; &nbsp; LEVOTIROXINA S&#xD3;DICA en potencias de 25, 50, 75, 88, 100, 112, 125, 150, 175 y 200 mcg contenidos en comprimidos de liberaci&#xF3;n convencional.</div><div class=\"p\">-&nbsp; &nbsp; DOXICICLINA HICLATO en potencias de 20, 100 y 200 mg contenidos en comprimidos, comprimidos recubiertos y c&#xE1;psulas.</div><div class=\"p\">-&nbsp; &nbsp; DOXICICLINA MONOHIDRATO en potencias de 50, 100 y 200 mg contenidos en comprimidos y comprimidos recubiertos.</div><div class=\"p\">-&nbsp; &nbsp; DOXICICLINA CLORHIDRATO en potencia de 50 mg contenidos en c&#xE1;psulas.</div><div class=\"p\">-&nbsp; &nbsp; ABACAVIR SULFATO en potencia de 300 mg contenidos en comprimidos de liberaci&#xF3;n convencional.</div><div class=\"p\">-&nbsp; &nbsp; EFAVIRENZ en potencias de 100 y 200 mg contenidos en c&#xE1;psulas; 200 y 600 mg contenidos en comprimidos recubiertos.</div><div class=\"p\">-&nbsp; &nbsp; DIDANOSINA en potencias de 125, 200, 250 y 400 mg contenidos en c&#xE1;psulas con gr&#xE1;nulos con recubrimiento ent&#xE9;rico. <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">-&nbsp; &nbsp; FOSAMPRENAVIR C&#xC1;LCICO en potencia de 700 mg contenidos en comprimidos recu-biertos.</div><div class=\"p\">-&nbsp; &nbsp; PREDNISONA en potencias de 1, 5, 20 y 50 mg contenidos en comprimidos convencionales.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La letra c) del N&#xBA; 1 de la Resoluci&#xF3;n 5555 Exenta, Salud, publicada el 09.12.2009, modifica la presente norma en el sentido de suspender la exigencia de estudios de bioequivalencia a aquellos productos monodroga que contienen el principio activo Didanosina en c&#xE1;psulas con gr&#xE1;nulos con recubrimiento ent&#xE9;rico en potencias de 125 mg, 200 mg, 250 mg y 400 mg.</div></div>"
+        },
+        {
+          "part_id": 8695371,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Tercero: A contar de la fecha mencionada, esto es, el 1 de julio de 2009,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1004320&amp;idParte=8746588&amp;idVersion=2009-07-20\">Resolucion 3343 EXENTA,<br>SALUD<br>N&#xBA; 1<br>D.O. 20.07.2009</a></span> todos los productos farmac&#xE9;uticos que soliciten registro y que contengan el principio activo antes mencionado, deber&#xE1;n presentar los protocolos de los estudios de bioequivalencia respectivos.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Tercero: A contar de la fecha mencionada, esto es, el 1 de julio de 2009,<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1004320&amp;idParte=8746588&amp;idVersion=2009-07-20\">Resolucion 3343 EXENTA,<br>SALUD<br>N&#xBA; 1<br>D.O. 20.07.2009</a></span> todos los productos farmac&#xE9;uticos que soliciten registro y que contengan el principio activo antes mencionado, deber&#xE1;n presentar los protocolos de los estudios de bioequivalencia respectivos.</div><br></div>"
+        },
+        {
+          "part_id": 8695372,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Cuarto: Para los productos farmac&#xE9;uticos con registro vigente, los interesados podr&#xE1;n entregar una propuesta de cronograma para la realizaci&#xF3;n de los estudios de bioequivalencia respectivos, durante el mes siguiente de la entrada en vigencia de esta resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, establ&#xE9;cese un plazo fatal de un a&#xF1;o, a contar del 1 de julio de 2009<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1004320&amp;idParte=8746588&amp;idVersion=2009-07-20\">Resolucion 3343 EXENTA,<br>SALUD<br>N&#xBA; 1<br>D.O. 20.07.2009</a></span>, para la presentaci&#xF3;n del protocolo de bioequivalencia para los productos que contienen Imatinib mesilato, Fenito&#xED;na s&#xF3;dica, Biperideno clorhidrato, Levotiroxina s&#xF3;dica, Doxiciclina hiclato - monohidrato - clorhidrato, Abacavir sulfato, Efavirenz, Didanosina, Fosamprenavir c&#xE1;lcico y Prednisona.</div><br></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Cuarto: Para los productos farmac&#xE9;uticos con registro vigente, los interesados podr&#xE1;n entregar una propuesta de cronograma para la realizaci&#xF3;n de los estudios de bioequivalencia respectivos, durante el mes siguiente de la entrada en vigencia de esta resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, establ&#xE9;cese un plazo fatal de un a&#xF1;o, a contar del 1 de julio de 2009<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1004320&amp;idParte=8746588&amp;idVersion=2009-07-20\">Resolucion 3343 EXENTA,<br>SALUD<br>N&#xBA; 1<br>D.O. 20.07.2009</a></span>, para la presentaci&#xF3;n del protocolo de bioequivalencia para los productos que contienen Imatinib mesilato, Fenito&#xED;na s&#xF3;dica, Biperideno clorhidrato, Levotiroxina s&#xF3;dica, Doxiciclina hiclato - monohidrato - clorhidrato, Abacavir sulfato, Efavirenz, Didanosina, Fosamprenavir c&#xE1;lcico y Prednisona.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2012-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

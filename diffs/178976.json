@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-12-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6312307,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;3.939, de 31 de agosto de 2000 y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y DFL MOP N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s 23-5 y 23-7, para la obra Camino: Santiago - Colina - Los Andes, sector &apos;&apos;B&apos;&apos; By Pass Colina saneamiento longitudinal Regi&#xF3;n Metropolitana, que figuran a nombre de Saavedra Romero Hern&#xE1;n, rol de aval&#xFA;o en tr&#xE1;mite, comuna de Colina, superficies 300,6 m2 y 333,2 m2. respectivamente. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Mar&#xED;a Cristina Camus Palacios, Marlene Teresa R&#xED;os Marcuello y Mar&#xED;a Pilar Quiroga Gonz&#xE1;lez, fij&#xF3; con fecha 17 de julio de 2000, el valor provisional de la indemnizaci&#xF3;n en las cantidades de $1.052.100.- para el lote N&#xBA;23-5 y $1.166.200.- para el lote N&#xBA;23-7. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA;2.186, de 1978.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;3.939, de 31 de agosto de 2000 y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y DFL MOP N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s 23-5 y 23-7, para la obra Camino: Santiago - Colina - Los Andes, sector &apos;&apos;B&apos;&apos; By Pass Colina. Saneamiento<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 02.01.2000</span> longitudinal. Km. 2.800, 00 a Km. 3.200, 00, Regi&#xF3;n Metropolitana, que figuran a nombre de Saavedra Romero Hern&#xE1;n, rol de aval&#xFA;o en tr&#xE1;mite, comuna de Colina, superficies 300,6 m2 y 333,2 m2. respectivamente. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Mar&#xED;a Cristina Camus Palacios, Marlene Teresa R&#xED;os Marcuello y Mar&#xED;a Pilar Quiroga Gonz&#xE1;lez, fij&#xF3; con fecha 17 de julio de 2000, el valor provisional de la indemnizaci&#xF3;n en las cantidades de $1.052.100.- para el lote N&#xBA;23-5 y $1.166.200.- para el lote N&#xBA;23-7.</div><div class=\"p\">La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA;2.186, de 1978.-</div><br></div>"
+        }
+      ]
+    }
+  }
+]

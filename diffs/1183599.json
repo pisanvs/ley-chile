@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-10-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-03-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10375699,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;.- El plazo de construcci&#xF3;n de las obras ser&#xE1; de 11 meses contados desde el inicio de los trabajos hasta su terminaci&#xF3;n. Dicho plazo comenzar&#xE1; a transcurrir cumplidos 90 d&#xED;as h&#xE1;biles desde la reducci&#xF3;n a escritura p&#xFA;blica del respectivo decreto de concesi&#xF3;n el&#xE9;ctrica definitiva. Los plazos para la iniciaci&#xF3;n de los trabajos y su terminaci&#xF3;n por etapas y secciones son los siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/176174.jpg\"></div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/176175.jpg\"></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xB0;.- El <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1211784&amp;idParte=10541594&amp;idVersion=2025-03-14\">Decreto 48 EXENTO,<br>ENERG&#xCD;A<br>N&#xB0; 1<br>D.O. 14.03.2025</a></span>plazo de construcci&#xF3;n de las obras ser&#xE1; de 11 meses contados desde el inicio de los trabajos hasta su terminaci&#xF3;n. Dicho plazo comenzar&#xE1; a transcurrir cumplidos 36 meses desde la fecha de publicaci&#xF3;n en el Diario Oficial del presente decreto. Los plazos para la iniciaci&#xF3;n de los trabajos y su terminaci&#xF3;n por etapas y secciones son los siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/176174.jpg\"></div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/176175.jpg\"></div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1211784,
+      "fecha": "2025-03-14"
+    }
+  }
+]

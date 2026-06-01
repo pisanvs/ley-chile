@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-01-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6267828,
+          "old": "<div><div class=\"p\">COMPLEMENTA DECRETO N&#xB0; 116 EXENT0 DE 1984</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 9 exento.- Santiago, 07 de Enero de 1985.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que no existen instituciones de educaci&#xF3;n superior que importan la carrera de Pedagog&#xED;a en Educaci&#xF3;n B&#xE1;sica con menciones en Desarrollo de la Comunidad, Educaci&#xF3;n F&#xED;sica de Primer Cielo y Educaci&#xF3;n de Adultos y Extraescolar de la Juventud.</div><div class=\"p\">&nbsp; &nbsp;  Que en estas circunstancias procede que asuma la calidad de entidad examinadora este Ministerio y Visto: Lo dispuesto en el DFL N&#xB0; 5 de 1981, Art&#xED;culo 11&#xB0; letra d),</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA DECRETO N&#xB0; 116 EXENT0 DE 1984</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 9 exento.- Santiago, 07 de Enero de 1985.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que no existen instituciones de educaci&#xF3;n superior que importan la carrera de Pedagog&#xED;a en Educaci&#xF3;n B&#xE1;sica con menciones en Desarrollo de la Comunidad, Educaci&#xF3;n F&#xED;sica de Primer Cielo y Educaci&#xF3;n de Adultos y Extraescolar de la Juventud.</div><div class=\"p\">&nbsp; &nbsp;  Que en estas circunstancias procede que asuma la calidad de entidad examinadora este Ministerio y Visto: Lo dispuesto en el DFL N&#xB0; 5 de 1981, Art&#xED;culo 11&#xB0; letra d),</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

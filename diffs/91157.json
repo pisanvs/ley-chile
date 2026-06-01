@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-02-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8924950,
+          "old": "<div><div class=\"p\">1.- Establ&#xE9;cese el control obligatorio en las barreras de Los Vilos, Caldera y Teresita, ubicadas en las Regiones III y IV, de todo veh&#xED;culo que ingrese o salga de ellas y que transporte uvas, vinos, bebidas alcoh&#xF3;licas o alcoholes et&#xED;licos, tanto a granel como envasados.</div><div class=\"p\">2.- El incumplimiento a lo dispuesto en esta Resoluci&#xF3;n, como el transporte de los productos indicados amparados con documentaci&#xF3;n con antecedentes falsos, ser&#xE1; sancionado en conformidad a la Ley.</div><div class=\"p\">3.- Der&#xF3;gase la resoluci&#xF3;n No. 566, exenta, de 27 de febrero de 1981, del Servicio Agr&#xED;cola y Ganadero.</div><br></div>",
+          "new": "<div><br><div class=\"p\">1.- Establ&#xE9;cese el control obligatorio en las barreras de NOTA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Los Vilos, Caldera y Teresita, ubicadas en las Regiones III y IV, de todo veh&#xED;culo que ingrese o salga de ellas y que transporte uvas, vinos, bebidas alcoh&#xF3;licas o alcoholes et&#xED;licos, tanto a granel como envasados.</div><div class=\"p\">2.- El incumplimiento a lo dispuesto en esta Resoluci&#xF3;n, como el transporte de los productos indicados amparados con documentaci&#xF3;n con antecedentes falsos, ser&#xE1; sancionado en conformidad a la Ley.</div><div class=\"p\">3.- Der&#xF3;gase la resoluci&#xF3;n No. 566, exenta, de 27 de febrero de 1981, del Servicio Agr&#xED;cola y Ganadero.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 459, Agricultura, publicada el 24.02.1995, elimin&#xF3; el control obligatorio de barreras de Caldera y Teresita , ubicadas en la III Regi&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

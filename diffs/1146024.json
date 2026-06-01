@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-08-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10125313,
+          "old": "<div><br><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Recon&#xF3;zcase, en el marco del &quot;Convenio de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Grados Acad&#xE9;micos de Educaci&#xF3;n Superior entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica del Ecuador&quot;, suscrito el 15 de octubre de 2015, los t&#xED;tulos de grado obtenidos en las universidades ecuatorianas que se indican o continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/109230.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/109231.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/109232.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><br><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Recon&#xF3;zcase, en <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>el marco del &quot;Convenio de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Grados Acad&#xE9;micos de Educaci&#xF3;n Superior entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica del Ecuador&quot;, suscrito el 15 de octubre de 2015, los t&#xED;tulos de grado obtenidos en las universidades ecuatorianas que se indican o continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/109230.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/109231.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/109232.jpg\"></div><div class=\"p\">&nbsp; </div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo de la Resoluci&#xF3;n 3315 exenta, Educaci&#xF3;n, publicada el 03.08.2020, rectifica el N&#xB0; 8 del listado contenido en el presente art&#xED;culo: en la parte que dice &quot;Le&#xF3;n&quot;, debe decir &quot;Leonardo&quot;. </div></div>"
+        }
+      ]
+    }
+  }
+]

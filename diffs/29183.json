@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1972-04-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845433,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico.- Los distribuidores de veh&#xED;culos motorizados deber&#xE1;n pagar al momento de efectuar la primera transferencia de un veh&#xED;culo motorizado el uno por mil sobre el precio de venta del respectivo veh&#xED;culo. Igual impuesto, calculado sobre el valor CIF correspondiente, afectar&#xE1; a los importadores de veh&#xED;culos motorizados. Estos impuestos ser&#xE1;n de exclusivo cargo de los distribuidores o importadores y, en caso alguno, podr&#xE1;n representar un aumento del precio de venta de dichos veh&#xED;culos.</div><div class=\"p\">&nbsp; &nbsp; Para los efectos de la administraci&#xF3;n, recaudaci&#xF3;n y fiscalizaci&#xF3;n de este tributo se aplicar&#xE1;n, en lo que fueren compatibles, las normas de la ley N&#xB0; 12.120, sobre impuestos a las compraventas y otras convenciones sobre bienes y servicios.</div><div class=\"p\">&nbsp; &nbsp; Las sumas recaudadas por este concepto ser&#xE1;n giradas mensualmente por la Tesorer&#xED;a General de la Rep&#xFA;blica a la Direcci&#xF3;n de Deportes y Recreaci&#xF3;n, organismo que a su vez transferir&#xE1;, tambi&#xE9;n mensualmente, estos fondos a la Federaci&#xF3;n Chilena de Automovilismo Deportivo, debiendo controlar su inversi&#xF3;n en el fomento y desarrollo del automovilismo deportivo de velocidad.&quot; </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.-&nbsp; DEROGADO<span class=\"n\" id=\"n_0\">DL 292, HACIENDA<br>Art. 29 N&#xBA; 2<br>D.O. 30.01.1974</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

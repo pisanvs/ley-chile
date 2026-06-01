@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2019-01-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-09-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9989542,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Articulo primero: Des&#xED;gnase al Ministro de Econom&#xED;a, Fomento y Turismo para que en mi representaci&#xF3;n participe de la formaci&#xF3;n y constituci&#xF3;n de una persona jur&#xED;dica de derecho privado sin fines de lucro a que se refiere el T&#xED;tulo XXXIII del Libro Primero del C&#xF3;digo Civil, cuyo objeto principal sea adquirir, procesar y almacenar en medios digitales los conjuntos de datos generados por instituciones de car&#xE1;cter p&#xFA;blico o privado y que por su volumen, naturaleza y complejidad requieren una curadur&#xED;a, exploraci&#xF3;n, visualizaci&#xF3;n y an&#xE1;lisis que faciliten la disponibilidad de dichos datos para fines del desarrollo de la ciencia, tecnolog&#xED;a, innovaci&#xF3;n, conocimiento y sus aplicaciones en la econom&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  En la realizaci&#xF3;n de su objeto, la persona jur&#xED;dica que se constituya deber&#xE1; dar estricto cumplimiento a lo dispuesto en la ley N&#xB0; 17.336 de Propiedad Industrial, al DFL N&#xB0; 3, de 2006, del Ministerio de Econom&#xED;a, Fomento y Turismo, que fija texto refundido, coordinado y sistematizado de la Ley de Propiedad Industrial, sus respectivos reglamentos, a la ley N&#xB0;19.628, sobre protecci&#xF3;n de la vida privada y los requerimientos de confidencialidad que correspondan.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Articulo primero: Des&#xED;gnase al Ministro de Econom&#xED;a, Fomento y Turismo y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1136780&amp;idParte=10056650&amp;idVersion=2019-09-27\">Decreto 75, ECONOM&#xCD;A<br>Art. primero<br>D.O. 27.09.2019</a></span>al Ministro de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n, para que en mi representaci&#xF3;n participen de la formaci&#xF3;n y constituci&#xF3;n de una persona jur&#xED;dica de derecho privado sin fines de lucro a que se refiere el T&#xED;tulo XXXIII del Libro Primero del C&#xF3;digo Civil, cuyo objeto principal sea adquirir, procesar y almacenar en medios digitales los conjuntos de datos generados por instituciones de car&#xE1;cter p&#xFA;blico o privado y que por su volumen, naturaleza y complejidad requieren una curadur&#xED;a, exploraci&#xF3;n, visualizaci&#xF3;n y an&#xE1;lisis que faciliten la disponibilidad de dichos datos para fines del desarrollo de la ciencia, tecnolog&#xED;a, innovaci&#xF3;n, conocimiento y sus aplicaciones en la econom&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  En la realizaci&#xF3;n de su objeto, la persona jur&#xED;dica que se constituya deber&#xE1; dar estricto cumplimiento a lo dispuesto en la ley N&#xB0; 17.336 de Propiedad Industrial, al DFL N&#xB0; 3, de 2006, del Ministerio de Econom&#xED;a, Fomento y Turismo, que fija texto refundido, coordinado y sistematizado de la Ley de Propiedad Industrial, sus respectivos reglamentos, a la ley N&#xB0;19.628, sobre protecci&#xF3;n de la vida privada y los requerimientos de confidencialidad que correspondan.</div><br></div>"
+        },
+        {
+          "part_id": 9989543,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Autor&#xED;zase al Ministro de Econom&#xED;a, Fomento y Turismo a participar, en mi representaci&#xF3;n, en el &#xF3;rgano de direcci&#xF3;n de la persona jur&#xED;dica de derecho privado sin fines de lucro que se constituya, as&#xED; como, eventualmente, en su modificaci&#xF3;n, retiro, disoluci&#xF3;n, extinci&#xF3;n y liquidaci&#xF3;n, con arreglo a sus estatutos.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Autor&#xED;zase al Ministro de Econom&#xED;a, Fomento y Turismo y <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1136780&amp;idParte=10056651&amp;idVersion=2019-09-27\">Decreto 75, ECONOM&#xCD;A<br>Art. segundo<br>D.O. 27.09.2019</a></span>al Ministro de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n a participar, en mi representaci&#xF3;n, en el &#xF3;rgano de direcci&#xF3;n de la persona jur&#xED;dica de derecho privado sin fines de lucro que se constituya, as&#xED; como, eventualmente, en su modificaci&#xF3;n, retiro, disoluci&#xF3;n, extinci&#xF3;n y liquidaci&#xF3;n, con arreglo a sus estatutos.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1136780,
+      "fecha": "2019-09-27"
+    }
+  }
+]

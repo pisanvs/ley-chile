@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-08-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-10-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9165076,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnase transitoria y provisionalmente, a contar del 3 de junio de 2011, en el cargo de Director Nacional del Servicio Agr&#xED;cola y Ganadero, grado 3&#xBA; de la escala &#xFA;nica de remuneraciones, a don An&#xED;bal Arizt&#xED;a Reyes, RUT N&#xBA; 5.552.536-6, quien asumir&#xE1; sus funciones en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  2.- Por razones impostergables de buen servicio, el funcionario nombrado precedentemente asumir&#xE1; sus funciones en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3.- El presente nombramiento otorga el derecho a percibir los beneficios del Estatuto Administrativo, cuando correspondan y la asignaci&#xF3;n de alta direcci&#xF3;n p&#xFA;blica, contemplada en la ley N&#xBA; 19.882 y autorizada por decreto con fuerza de ley N&#xBA;10, de 2003, del Ministerio de Hacienda, que asciende a un 70% de la suma de las remuneraciones brutas de car&#xE1;cter permanente que le corresponda percibir al se&#xF1;or An&#xED;bal Arizt&#xED;a Reyes.</div><div class=\"p\">&nbsp; &nbsp;  4.- Decl&#xE1;rase que el se&#xF1;or An&#xED;bal Arizt&#xED;a Reyes deber&#xE1; rendir la fianza correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  5.- El gasto que irrogue el presente decreto se imputar&#xE1; al presupuesto vigente del Servicio Agr&#xED;cola y Ganadero.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnase transitoria y provisionalmente, a contar del 3 de junio de 2011, en el cargo de Director Nacional del Servicio Agr&#xED;cola y Ganadero, grado 3&#xBA; de la escala &#xFA;nica de remuneraciones, a don An&#xED;bal Arizt&#xED;a Reyes, RUT N&#xBA; 5.552.536-6, quien asumir&#xE1; sus funciones en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  2.- Por razones impostergables de buen servicio, el funcionario nombrado precedentemente asumir&#xE1; sus funciones en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3. El presente nombramiento otorga el derecho<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1030835&amp;idParte=9192736&amp;idVersion=2011-10-11\">Decreto 38, AGRICULTURA<br>N&#xB0; 1<br>D.O. 11.10.2011</a></span> a percibir los beneficios del Estatuto Administrativo, cuando correspondan y la asignaci&#xF3;n de Alta Direcci&#xF3;n P&#xFA;blica contemplada en la ley 19.882 y autorizada por el decreto N&#xBA;747, de 2009, del Ministerio de Hacienda, que asciende a un 83% de la suma de las remuneraciones brutas de car&#xE1;cter permanente que le corresponda percibir al se&#xF1;or An&#xED;bal Arizt&#xED;a Reyes.</div><div class=\"p\">&nbsp; &nbsp;  4.- Decl&#xE1;rase que el se&#xF1;or An&#xED;bal Arizt&#xED;a Reyes deber&#xE1; rendir la fianza correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  5.- El gasto que irrogue el presente decreto se imputar&#xE1; al presupuesto vigente del Servicio Agr&#xED;cola y Ganadero.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1030835,
+      "fecha": "2011-10-11"
+    }
+  }
+]

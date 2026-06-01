@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9525905,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primero: Decl&#xE1;rese como afectadas por la presencia del Hidrozoo Physalia physalis todas las playas y bah&#xED;as de las comunas de Carahue y Saavedra, de la Regi&#xF3;n de la Araucan&#xED;a.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primero: Decl&#xE1;rese como <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>afectadas por la presencia del Hidrozoo Physalia physalis todas las playas y bah&#xED;as de las comunas de Carahue y Saavedra, de la Regi&#xF3;n de la Araucan&#xED;a.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numero 1 de la Resoluci&#xF3;n 18644 Exenta, Salud, publicada el 05.01.2014, modifica la presente norma en el sentido de declarar como zonas No afectadas por la presencia del Hidrozoo Physalia physalis y &#xE1;lcese la prohibici&#xF3;n de ba&#xF1;o y de actividades de recreaci&#xF3;n en las playas y bah&#xED;as todas&nbsp; de las comunas de Carahue y Saavedra, de la Regi&#xF3;n de la Araucan&#xED;a.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1999-07-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6179538,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase el enriquecimiento del producto alimenticio &apos;&apos;Cereal para el desayuno Basic 4&apos;&apos;, de la empresa Nestl&#xE9; Chile S.A., en la forma que a continuaci&#xF3;n se indica, por cada porci&#xF3;n de 30 gramos:</div><br><div class=\"p\">Vitamina A&nbsp; &nbsp; &nbsp; 120&nbsp; &nbsp; &nbsp; mcgER</div><div class=\"p\">Vitamina B1&nbsp; &nbsp;  0,21&nbsp; &nbsp;  mg</div><div class=\"p\">Vitamina B2&nbsp; &nbsp;  0,24&nbsp; &nbsp;  mg</div><div class=\"p\">Vitamina B6&nbsp; &nbsp;  0,27&nbsp; &nbsp;  mg</div><div class=\"p\">Vitamina B12&nbsp; &nbsp; 0,24&nbsp; &nbsp;  mcg</div><div class=\"p\">Vitamina D&nbsp; &nbsp; &nbsp; 0,54&nbsp; &nbsp;  mcg</div><div class=\"p\">Niacina (PP)&nbsp; &nbsp; 2,7&nbsp; &nbsp; &nbsp; mg</div><div class=\"p\">Acido F&#xF3;lico&nbsp; &nbsp; 49,8&nbsp; &nbsp;  mcg</div><div class=\"p\">Calcio&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 132&nbsp; &nbsp; &nbsp; mg</div><div class=\"p\">Hierro&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2,25&nbsp; &nbsp;  mg</div><div class=\"p\">Zinc&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2,0&nbsp; &nbsp; &nbsp; mg</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase el enriquecimiento del producto alimenticio &quot;Cereal para el desayuno Basic 4&quot;, de la empresa Nestl&#xE9; Chile S.A., en la forma que a continuaci&#xF3;n se indica, por cada porci&#xF3;n de 30 gramos:</div><br><div class=\"p\">Vitamina A&nbsp; &nbsp; &nbsp; 120&nbsp; &nbsp; &nbsp; mcgER</div><div class=\"p\">Vitamina B1&nbsp; &nbsp;  0,21&nbsp; &nbsp;  mg</div><div class=\"p\">Vitamina B2&nbsp; &nbsp;  0,24&nbsp; &nbsp;  mg</div><div class=\"p\">Vitamina B6&nbsp; &nbsp;  0,27&nbsp; &nbsp;  mg</div><div class=\"p\">Vitamina B12&nbsp; &nbsp; 0,24&nbsp; &nbsp;  mcg</div><div class=\"p\">Vitamina D&nbsp; &nbsp; &nbsp; 0,54&nbsp; &nbsp;  mcg</div><div class=\"p\">Niacina (PP)&nbsp; &nbsp; 2,7&nbsp; &nbsp; &nbsp; mg</div><div class=\"p\">Acido F&#xF3;lico&nbsp; &nbsp; 49,8&nbsp; &nbsp;  mcg</div><div class=\"p\">Calcio&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 240&nbsp; &nbsp; &nbsp; mg<span class=\"n\" id=\"n_0\">RES 390 EXENTA,<br>SALUD<br>N&#xBA; 1<br>D.O. 14.03.2001</span></div><div class=\"p\">Hierro&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2,25&nbsp; &nbsp;  mg</div><div class=\"p\">Zinc&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2,0&nbsp; &nbsp; &nbsp; mg</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2001-07-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6179538,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase el enriquecimiento del producto alimenticio &quot;Cereal para el desayuno Basic 4&quot;, de la empresa Nestl&#xE9; Chile S.A., en la forma que a continuaci&#xF3;n se indica, por cada porci&#xF3;n de 30 gramos:</div><br><div class=\"p\">Vitamina A&nbsp; &nbsp; &nbsp; 120&nbsp; &nbsp; &nbsp; mcgER</div><div class=\"p\">Vitamina B1&nbsp; &nbsp;  0,21&nbsp; &nbsp;  mg</div><div class=\"p\">Vitamina B2&nbsp; &nbsp;  0,24&nbsp; &nbsp;  mg</div><div class=\"p\">Vitamina B6&nbsp; &nbsp;  0,27&nbsp; &nbsp;  mg</div><div class=\"p\">Vitamina B12&nbsp; &nbsp; 0,24&nbsp; &nbsp;  mcg</div><div class=\"p\">Vitamina D&nbsp; &nbsp; &nbsp; 0,54&nbsp; &nbsp;  mcg</div><div class=\"p\">Niacina (PP)&nbsp; &nbsp; 2,7&nbsp; &nbsp; &nbsp; mg</div><div class=\"p\">Acido F&#xF3;lico&nbsp; &nbsp; 49,8&nbsp; &nbsp;  mcg</div><div class=\"p\">Calcio&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 240&nbsp; &nbsp; &nbsp; mg<span class=\"n\" id=\"n_0\">RES 390 EXENTA,<br>SALUD<br>N&#xBA; 1<br>D.O. 14.03.2001</span></div><div class=\"p\">Hierro&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2,25&nbsp; &nbsp;  mg</div><div class=\"p\">Zinc&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2,0&nbsp; &nbsp; &nbsp; mg</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase el enriquecimiento del producto alimenticio &quot;Cereal para el desayuno Basic 4&quot;, de la empresa Nestl&#xE9; Chile S.A., en la forma que a continuaci&#xF3;n se indica, por cada porci&#xF3;n de 30 gramos:</div><div class=\"p\">Vitamina A&nbsp; &nbsp;  82,5&nbsp; &nbsp; &nbsp; mcgER<span class=\"n\" id=\"n_0\">RES 961 EXENTA,<br>SALUD<br>N&#xBA; 1<br>D.O. 05.07.2001</span></div><div class=\"p\">Vitamina B1&nbsp; &nbsp;  0,21&nbsp; &nbsp;  mg</div><div class=\"p\">Vitamina B2&nbsp; &nbsp;  0,24&nbsp; &nbsp;  mg</div><div class=\"p\">Vitamina B6&nbsp; &nbsp;  0,27&nbsp; &nbsp;  mg</div><div class=\"p\">Vitamina B12&nbsp; &nbsp; 0,24&nbsp; &nbsp;  mcg</div><div class=\"p\">Vitamina D&nbsp; &nbsp; &nbsp; 0,54&nbsp; &nbsp;  mcg</div><div class=\"p\">Niacina (PP)&nbsp; &nbsp; 2,7&nbsp; &nbsp; &nbsp; mg</div><div class=\"p\">Acido F&#xF3;lico&nbsp; &nbsp; 49,8&nbsp; &nbsp;  mcg</div><div class=\"p\">Calcio&nbsp; &nbsp; &nbsp; &nbsp;  136,0&nbsp; &nbsp;  mg</div><div class=\"p\">Hierro&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2,5&nbsp; &nbsp; &nbsp; mg</div><div class=\"p\">Zinc&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2,0&nbsp; &nbsp; &nbsp; mg</div><br></div>"
+        }
+      ]
+    }
+  }
+]

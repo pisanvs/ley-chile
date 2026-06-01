@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-09-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8431343,
+          "old": "<div><div class=\"p\">APRUEBA TEXTO REFUNDIDO DEL REGLAMENTO DEL FONDO DE SUBSIDIOS PARA BECAS A ALUMNOS DEL CENTRO DE FORMACION TECNICA DE LOTA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 18 de julio de 2006.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 266.- Visto:</div><br><div class=\"p\">1.&nbsp;  El Acuerdo de Consejo N&#xBA; 1.875, de 1996, que crea el Fondo de Subsidios para Becas en Centro de Formaci&#xF3;n T&#xE9;cnica de Lota, modificado por los Acuerdos N&#xBA;s 1.892, de 1997; 1.963, de 1998 y 2.373, de 2005.</div><div class=\"p\">2.&nbsp;  La Resoluci&#xF3;n (E) N&#xBA; 272 de 1998, que aprob&#xF3; el texto del Reglamento del citado Fondo, modificado por las Resoluciones (E) N&#xBA; 654, de 1999 y (A) N&#xBA; 145, de 2006.</div><div class=\"p\">3.&nbsp;  El Acuerdo de Consejo N&#xBA; 2.396, de 2006, que autoriza al Vicepresidente Ejecutivo a fijar el texto refundido, coordinado y sistematizado del Reglamento aludido.</div><div class=\"p\">4.&nbsp;  Las facultades que me otorgan el Acuerdo citado, y el Reglamento General de la Corporaci&#xF3;n, as&#xED; como lo se&#xF1;alado en la Ley 19.880 y en la Resoluci&#xF3;n N&#xBA; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, cuyo texto refundido, coordinado y sistematizado fue fijado por Resoluci&#xF3;n N&#xBA; 520, de 1996, modificada por Resoluci&#xF3;n N&#xBA; 488, de 1997, del mismo organismo, </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente texto refundido del Reglamento del Fondo de Subsidios para Becas de Alumnos del Centro de Formaci&#xF3;n T&#xE9;cnica de Lota:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA TEXTO REFUNDIDO DEL REGLAMENTO DEL FONDO DE SUBSIDIOS PARA BECAS A ALUMNOS DEL CENTRO DE FORMACION TECNICA DE LOTA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 18 de julio de 2006.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 266.- Visto:</div><br><div class=\"p\">1.&nbsp;  El Acuerdo de Consejo N&#xBA; 1.875, de 1996, que crea el Fondo de Subsidios para Becas en Centro de Formaci&#xF3;n T&#xE9;cnica de Lota, modificado por los Acuerdos N&#xBA;s 1.892, de 1997; 1.963, de 1998 y 2.373, de 2005.</div><div class=\"p\">2.&nbsp;  La Resoluci&#xF3;n (E) N&#xBA; 272 de 1998, que aprob&#xF3; el texto del Reglamento del citado Fondo, modificado por las Resoluciones (E) N&#xBA; 654, de 1999 y (A) N&#xBA; 145, de 2006.</div><div class=\"p\">3.&nbsp;  El Acuerdo de Consejo N&#xBA; 2.396, de 2006, que autoriza al Vicepresidente Ejecutivo a fijar el texto refundido, coordinado y sistematizado del Reglamento aludido.</div><div class=\"p\">4.&nbsp;  Las facultades que me otorgan el Acuerdo citado, y el Reglamento General de la Corporaci&#xF3;n, as&#xED; como lo se&#xF1;alado en la Ley 19.880 y en la Resoluci&#xF3;n N&#xBA; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, cuyo texto refundido, coordinado y sistematizado fue fijado por Resoluci&#xF3;n N&#xBA; 520, de 1996, modificada por Resoluci&#xF3;n N&#xBA; 488, de 1997, del mismo organismo, </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente texto refundido del Reglamento del Fondo de Subsidios para Becas de Alumnos del Centro de Formaci&#xF3;n T&#xE9;cnica de Lota:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2000-06-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-11-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6280634,
+          "old": "<div><div class=\"p\">&#xA0;</div></div>",
+          "new": "<div><div class=\"p\">,</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2004-04-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6280634,
+          "old": "<div><div class=\"p\">,</div><br><br></div>",
+          "new": "<div><div class=\"p\">,</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-07-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6182423,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  APRUEBA CONVENIO EN VIRTUD DEL CUAL EL MINISTERIO DE EDUCACION PUBLICA ENTREGA A. LA FUNDACION CONSEJO DE DEFENSA DEL NI&#xD1;O LA ADMINISTRACION DEL LICEO COMERCIAL B No. 76, DE QUINTA NORMAL, EN CONFORMIDAD CON EL DECRETO LEY No. 3.166 DE 29 DE ENERO DE 1980, Y CON EL REGLAMENTO APROBADO POR DECRETO SUPREMO No. 5.077, DE EDUCACION, DE 19 DE JUNIO DE 1980</div><br><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.851.- Santiago, 30 de Diciembre de 1986.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Que el Supremo Gobierno propicia un modelo social que sea congruente con la institucionalidad pol&#xED;tica y econ&#xF3;mica de una sociedad libre y eficiente, lo que exige, en materia educacional, la adopci&#xF3;n de medidas que hagan efectivo el principio de subsidiaridad y la democracia participativa a trav&#xE9;s de los cuerpos intermedios;</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- Que para el mejoramiento cualitativo de la Educaci&#xF3;n T&#xE9;cnico-Profesional, es conveniente aprovechar la cooperaci&#xF3;n de personas jur&#xED;dicas del sector privado que no persigan fines de lucro, que est&#xE1;n vinculadas al sector productivo que requieren los t&#xE9;cnicos del nivel medio a formar, vinculando, de esta manera, el respectivo establecimiento educacional e incorporando a ellos la tecnolog&#xED;a adecuada a las especialidades y a la demanda ocupacional.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el Art. 32 No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; Decreto Ley No. 3.168, Decreto Supremo de Educaci&#xF3;n No. 5.077, ambos de 1980; Decreto Supremo de Educaci&#xF3;n No. 632, de 1983 y la Resoluci&#xF3;n No. 1.050, de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA CONVENIO EN VIRTUD DEL CUAL EL MINISTERIO DE EDUCACION PUBLICA ENTREGA A. LA FUNDACION CONSEJO DE DEFENSA DEL NI&#xD1;O LA ADMINISTRACION DEL LICEO COMERCIAL B No. 76, DE QUINTA NORMAL, EN CONFORMIDAD CON EL DECRETO LEY No. 3.166 DE 29 DE ENERO DE 1980, Y CON EL REGLAMENTO APROBADO POR DECRETO SUPREMO No.</div><div class=\"p\">5.077, DE EDUCACION, DE 19 DE JUNIO DE 1980</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.851.- Santiago, 30 de Diciembre de 1986.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Que el Supremo Gobierno propicia un modelo social que sea congruente con la institucionalidad pol&#xED;tica y econ&#xF3;mica de una sociedad libre y eficiente, lo que exige, en materia educacional, la adopci&#xF3;n de medidas que hagan efectivo el principio de subsidiaridad y la democracia participativa a trav&#xE9;s de los cuerpos intermedios;</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- Que para el mejoramiento cualitativo de la Educaci&#xF3;n T&#xE9;cnico-Profesional, es conveniente aprovechar la cooperaci&#xF3;n de personas jur&#xED;dicas del sector privado que no persigan fines de lucro, que est&#xE1;n vinculadas al sector productivo que requieren los t&#xE9;cnicos del nivel medio a formar, vinculando, de esta manera, el respectivo establecimiento educacional e incorporando a ellos la tecnolog&#xED;a adecuada a las especialidades y a la demanda ocupacional.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el Art. 32 No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; Decreto Ley No. 3.168, Decreto Supremo de Educaci&#xF3;n No. 5.077, ambos de 1980; Decreto Supremo de Educaci&#xF3;n No. 632, de 1983 y la Resoluci&#xF3;n No. 1.050, de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

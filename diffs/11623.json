@@ -1,0 +1,137 @@
+[
+  {
+    "fecha": "1995-01-13",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8993888,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; TITULO I (ART. 1-1)</div><div class=\"p\">&nbsp; &nbsp; Definiciones</div><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0; Para los efectos del presente reglamento, se establecen las siguientes definiciones:</div><div class=\"p\">&nbsp; &nbsp; &quot;CUOTA DE AHORRO&quot; La cuota de ahorro para la vivienda establecida en el T&#xED;tulo III del decreto con fuerza de ley 2, de 1959, considerada siempre a su valor provisional mensual, excepci&#xF3;n hecha del per&#xED;odo comprendido entre el 11 de julio al 10 de agosto de cada a&#xF1;o, en que por coincidir el valor oficial con el provisional, rige s&#xF3;lo dicho valor oficial.</div><div class=\"p\">&nbsp; &nbsp; &quot;CUOTA DE AHORRO DE PAGO ORDINARIO DE DIVIDENDO&quot; La cuota de ahorro para la vivienda cuyo valor se fijar&#xE1; en la forma se&#xF1;alada en el art&#xED;culo 8&#xB0; de este reglamento.</div><div class=\"p\">&nbsp; &nbsp; &quot;SALDO DEUDOR&quot; El que corresponde al saldo inicial expresado en cuotas de ahorro, incrementado con los intereses penales, cuando procedieren, y disminuido en el n&#xFA;mero de cuotas de ahorro correspondiente a los abonos por amortizaciones ordinarias y extraordinarias.</div><div class=\"p\">&nbsp; &nbsp; &quot;TABLA DE VALORES&quot; El valor de transferencia, que fijan los SERVIU mediante la correspondiente resoluci&#xF3;n, para las viviendas de una poblaci&#xF3;n o grupo habitacional, expresado en pesos y cuotas de ahorro al valor provisional a la fecha de su confecci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 8993889,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; TITULO II (ARTs. 2-4)</div><div class=\"p\">&nbsp; &nbsp; Del precio de los inmuebles, de los mutuos</div><div class=\"p\">hipotecarios y de los saldos de deuda</div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; El valor de transferencia de los inmuebles, destinados a la venta, el monto de los pr&#xE9;stamos habitacionales que se otorguen y los saldos de deudas se fijar&#xE1;n en pesos, moneda legal, y se expresar&#xE1;n, adem&#xE1;s, en cuotas de ahorro.</div><br></div>"
+        },
+        {
+          "part_id": 8993890,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; El n&#xFA;mero de cuotas de ahorro que constituir&#xE1; el valor de los inmuebles ser&#xE1; el que se se&#xF1;ale en la respectiva Tabla de Valores. Las cuotas de contado se expresar&#xE1;n, igualmente, en cuotas de ahorro al valor provisional a la fecha de su aplicaci&#xF3;n o pago. </div></div>"
+        },
+        {
+          "part_id": 8993891,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 4&#xB0; Los pr&#xE9;stamos habitacional, sean o no hipotecarios, y las deudas originadas por la venta de inmuebles que se transfieran u otorguen por los SERVIU ser&#xE1;n, igualmente, expresados en cuotas de ahorro. </div></div>"
+        },
+        {
+          "part_id": 8993892,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; TITULO III (ARTS. 5-6)</div><div class=\"p\">&nbsp; &nbsp; Del pago de las deudas</div><div class=\"p\">&nbsp; &nbsp; ARTICULO 5&#xB0; De acuerdo a lo establecido en el T&#xED;tulo II de este reglamento, quienes obtengan cr&#xE9;ditos habitacionales son deudores de un determinado n&#xFA;mero de cuotas de ahorro y las deudas no se extinguir&#xE1;n mientras no se haya pagado un n&#xFA;mero de cuotas de ahorro igual a la deuda inicial expresada en cuotas de ahorro. </div></div>"
+        },
+        {
+          "part_id": 8993893,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 6&#xB0; Todo lo que un deudor pague como abono a su deuda, salvo lo que corresponda a intereses penales, se expresar&#xE1; en cuotas de ahorro, dividiendo los pesos por el valor de la cuota de ahorro que corresponda, vigente a la fecha de su pago. El n&#xFA;mero de cuotas de ahorro resultante se abonar&#xE1; al saldo deudor expresado igualmente en cuotas de ahorro.</div><br></div>"
+        },
+        {
+          "part_id": 8993894,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; TITULO IV (ARTS. 7-9)</div><div class=\"p\">&nbsp; &nbsp; Del servicio ordinario de las deudas</div><div class=\"p\">&nbsp; &nbsp; ARTICULO 7&#xB0; El servicio de la deuda, expresado en cuotas de ahorro, comprender&#xE1; amortizaci&#xF3;n, intereses y primas de seguro de incendio y/o desgravamen. Se iniciar&#xE1; a partir del mes siguiente a la entrega material del inmueble o pr&#xE9;stamo y se servir&#xE1; con mensualidades iguales y sucesivas, hasta la extinci&#xF3;n total de la deuda.</div><br></div>"
+        },
+        {
+          "part_id": 8993895,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 8&#xB0; El dividendo, servicio o amortizaci&#xF3;n ordinaria que deber&#xE1;n pagar los deudores se expresar&#xE1;n en cuotas de ahorro y ser&#xE1; igual a la deuda inicial expresada en cuotas de ahorro dividida por el n&#xFA;mero de meses del plazo que se otorga para el pago del cr&#xE9;dito.</div><div class=\"p\">&nbsp; &nbsp; El dividendo m&#xED;nimo no ser&#xE1; inferior al 20% de un ingreso m&#xED;nimo mensual.</div><div class=\"p\">&nbsp; &nbsp; Para los efectos de la aplicaci&#xF3;n del inciso 1&#xB0; de este art&#xED;culo, los SERVIU no podr&#xE1;n pactar deudas en plazos que excedan inicialmente de las 300 mensualidades. Sin embargo, los SERVIU, a petici&#xF3;n expresa del deudor, podr&#xE1;n convenir en cualquier momento plazos de amortizaci&#xF3;n inferiores a las 300 mensualidades. No podr&#xE1; convenirse consolidaciones o reestructuraciones de deudas que implique prorrogar el plazo m&#xE1;s all&#xE1; de las 360 mensualidades.</div><br></div>"
+        },
+        {
+          "part_id": 8993896,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 9&#xB0; El dividendo, calculado en la forma expresada en el art&#xED;culo 8&#xB0; precedente, no podr&#xE1; exceder del 20% de la renta del grupo familiar declarado por el interesado al postular a la vivienda o pr&#xE9;stamo, debidamente actualizada con los reajustes legales generales de sueldo y salarios concedidos hasta la fecha en que corresponda asignar el cr&#xE9;dito. No podr&#xE1;n otorgarse pr&#xE9;stamos hipotecarios ni efectuarse ventas de inmuebles que comprometan por concepto de dividendo un porcentaje superior al se&#xF1;alado 20% del ingreso familiar al momento de concretarse la operaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 8993897,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; TITULO V (ARTS. 10-13)</div><div class=\"p\">&nbsp; &nbsp; Del servicio extraordinario de la deuda</div><div class=\"p\">&nbsp; &nbsp; y de la mora</div><div class=\"p\">&nbsp; &nbsp; ARTICULO 10&#xB0; Se entender&#xE1;n por amortizaciones extraordinarias aquellos pagos que en cualquier momento efect&#xFA;e el deudor fuera del servicio ordinario de la deuda, definido en el art&#xED;culo 14&#xB0; de este reglamento, sea para regularizar dividendos en mora y/o para anticipar el servicio de la deuda cubriendo dividendos futuros.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, el SERVIU acreedor podr&#xE1; convenir con el deudor, de acuerdo a la cuant&#xED;a de la amortizaci&#xF3;n extraordinaria, un nuevo servicio de la deuda que modifique el plazo primitivo y/o rebaje el monto del dividendo.</div><br></div>"
+        },
+        {
+          "part_id": 8993898,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 11&#xB0; Los dividendos expresados en cuotas de<span class=\"n\" id=\"n_0\">DS 320,<br>VIVIENDA<br><br><br>N&#xB0; 1&#xB0;.</span> ahorro que se paguen con posterioridad a su fecha de vencimiento se cobrar&#xE1;n al valor que tenga a la fecha de 1980, pago efectivo la cuota para pago ordinario de dividendos Art. UNICO, a que se refiere el art&#xED;culo 17&#xB0; de este Reglamento, devengando, adem&#xE1;s por cada mes o fracci&#xF3;n de mes de retardo, un inter&#xE9;s penal del 1% calculado sobre el valor resultante.</div><div class=\"p\">&nbsp; &nbsp;  INCISO SEGUNDO.- DEROGADO<span class=\"n\" id=\"n_1\">DS 145,<br>VIVIENDA<br>1988, Art.<br>Unico, N&#xB0; 1</span></div><br></div>"
+        },
+        {
+          "part_id": 8993899,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 12&#xB0; Los Servicios de Vivienda y<span class=\"n\" id=\"n_2\">DS 199,VIV.<br>1995, Art.<br>&#xFA;nico</span> Urbanizaci&#xF3;n podr&#xE1;n pactar con sus deudores que se encuentren atrasados en el servicio de sus deudas, convenios de pago extrajudiciales y judiciales.</div><br></div>"
+        },
+        {
+          "part_id": 8993900,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 13&#xB0; Todos los movimientos que corresponda registrar en las cuentas corrientes del deudor, ser&#xE1;n expresados en n&#xFA;mero enteros, aproximando los cent&#xE9;simos de las cuotas de ahorro que resulten de los procesos de contabilizaci&#xF3;n. Para tales efectos se elevar&#xE1;n al entero superior los cent&#xE9;simos iguales o superiores a 0,50 y se despreciar&#xE1;n los cent&#xE9;simos inferiores a 0,50 cuotas de ahorro, respectivamente.</div><br></div>"
+        },
+        {
+          "part_id": 8993901,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  TITULO VI (ARTS. 14-15)</div><div class=\"p\">&nbsp; &nbsp; De las cuentas corrientes de deudores y de la conversi&#xF3;n de los pagos a cuotas de ahorro</div><div class=\"p\">&nbsp; &nbsp; ARTICULO 14&#xB0; Derogado.<span class=\"n\" id=\"n_3\">DS 320,<br>VIVIENDA<br>1980,<br>Art. UNICO,<br>N&#xB0; 3.</span></div><br></div>"
+        },
+        {
+          "part_id": 8993902,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 15&#xB0; Los SERVIU, para todos sus efectos<span class=\"n\" id=\"n_4\">DS, 320,<br>VIVIENDA<br>1980,<br>Art. UNICO,<br>N&#xB0; 4.</span> internos, deber&#xE1;n tener presente que el total de los pagos en pesos que efect&#xFA;en los deudores, sea como amortizaciones ordinarias o extraordinarias, se sujetar&#xE1;n a los siguientes porcentajes promedios de imputaci&#xF3;n contable:</div><div class=\"p\">&nbsp; a) Amortizaci&#xF3;n de capital___________________ 63%</div><div class=\"p\">&nbsp; b) Intereses_________________________________ 22%</div><div class=\"p\">&nbsp; c) Prima de seguro de desgravamen____________ 11%</div><div class=\"p\">&nbsp; d) Prima de seguro de incendio_______________&nbsp; 4%</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ______</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  TOTAL_________________________________100%</div><br></div>"
+        },
+        {
+          "part_id": 8993903,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  TITULO VII (ART. 16-16)</div><div class=\"p\">&nbsp; &nbsp;  De los seguros</div><div class=\"p\">&nbsp; &nbsp; ARTICULO 16&#xB0; Los seguros de incendio y desgravamen<span class=\"n\" id=\"n_5\">DS 145<br>VIVIENDA<br>Art. Unico<br>N&#xB0; 2</span> se regir&#xE1;n por las normas del D.S. N&#xB0; 121, (V. y U.), de 1967, y sus modificaciones.</div><br></div>"
+        },
+        {
+          "part_id": 8993904,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; TITULO VIII (ART. 17-17)</div><div class=\"p\">&nbsp; &nbsp; De las cuotas de ahorro de pago ordinario de</div><div class=\"p\">dividendo</div><div class=\"p\">&nbsp; &nbsp; ARTICULO 17&#xB0; El Ministro de Vivienda y Urbanismo, por resoluci&#xF3;n que se publicar&#xE1; en el Diario Oficial, fijar&#xE1; para los meses en que no corresponda aplicar reajustes legales generales de sueldos y salarios, el valor de la cuota de ahorro de pago ordinario de dividendos, el que deber&#xE1; ser igual al valor provisional de la cuota de ahorro vigente en el mes en que tuvo lugar el &#xFA;ltimo reajuste general de remuneraciones, debiendo cada mes que haya aumento legal de remuneraciones hacer coincidir la cuota de ahorro de pago ordinario de dividendo con el valor provisional de la cuota de ahorro. En caso de que tengan lugar s&#xF3;lo reajustes de remuneraciones escalonados y/o diferenciados por sectores, el Ministro de Vivienda y Urbanismo podr&#xE1; hacer aplicable la norma de este art&#xED;culo, determinando el porcentaje de incremento y per&#xED;odo por el cual deba regir el valor de la cuota de ahorro de pago ordinario de dividendo.</div><br></div>"
+        },
+        {
+          "part_id": 8993905,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culos transitorios (ARTS. 1-6) ARTICULO 1&#xB0; En el caso de las deudas afectas al sistema de reajustabilidad y expresadas en &quot;unidades reajustables&quot;, contra&#xED;das por asignatarios o adquirentes individuales de viviendas o sitios con la ex Corporaci&#xF3;n de Servicios Habitacionales o la ex Corporaci&#xF3;n de la Vivienda, los SERVIU expresar&#xE1;n las cuentas de esos deudores, a partir del 1&#xB0; de julio de 1976, en cuotas de ahorro, para los efectos de su contabilidad interna.</div><div class=\"p\">&nbsp; &nbsp; Con este objeto el saldo deudor en &quot;unidad reajustable&quot; se transformar&#xE1; en cuotas de ahorro considerando el valor provisional de la &quot;unidad reajustable&quot; y de la cuota de ahorro vigente al 30 de junio de 1976. El plazo para cumplir esta deuda ser&#xE1; igual al que reste del primitivamente pactado. </div></div>"
+        },
+        {
+          "part_id": 8993906,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Los SERVIU podr&#xE1;n tener por debida y oportunamente cumplido el servicio de las deudas existentes a la fecha del respectivo contrato o asignaci&#xF3;n y el 30 de junio de 1976, por el lapso antes indicado, sin perjuicio de su cobro posterior, el que s&#xF3;lo podr&#xE1; declararse no recuperable si a juicio de estos Servicios, se&#xF1;alado en forma expresa, no hay antecedentes para establecer el cobro de los mismos. </div></div>"
+        },
+        {
+          "part_id": 8993907,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; Para los efectos de la aplicaci&#xF3;n del art&#xED;culo transitorio del decreto ley 1.506, debe entenderse que los cr&#xE9;ditos por venta de viviendas y/o sitios otorgados por la ex Corporaci&#xF3;n de Mejoramiento Urbano, expresados en &quot;cuotas de ahorro para la vivienda&quot;, se seguir&#xE1;n sirviendo a partir del 1&#xB0; de julio de 1976 en los mismos t&#xE9;rminos de los contratos respectivos, con la modalidad que el pago de los dividendos se efectuar&#xE1; al valor de la cuota de ahorro de pago ordinario de dividendos.</div><br></div>"
+        },
+        {
+          "part_id": 8993908,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0; Los SERVIU, para los efectos de mantener DS 201,<span class=\"n\" id=\"n_6\"><br>VIVIENDA<br>1977,<br>Art. UNICO.</span> la continuidad en el servicio de las deudas vigentes al 30 de junio de 1976, cobrar&#xE1;n como dividendo a estos deudores el 20% de la renta que perciban a la fecha de pago. Si para postular hubiesen sumado la renta del c&#xF3;nyuge, el referido porcentaje deber&#xE1; calcularse sobre dicha renta familiar, debidamente actualizada con los reajustes legales generales de sueldos y salarios.</div><div class=\"p\">&nbsp; &nbsp; No obstante lo anterior, si las condiciones socioecon&#xF3;micas del deudor lo hicieren aconsejable, los SERVIU podr&#xE1;n convenir con &#xE9;l que el dividendo se determine de acuerdo a lo dispuesto en el art&#xED;culo 8&#xB0; de este reglamento.</div><div class=\"p\">&nbsp; &nbsp; Cualquiera sea el sistema que se aplique para la determinaci&#xF3;n del dividendo, &#xE9;ste no podr&#xE1; ser inferior al 20% de un ingreso m&#xED;nimo mensual vigente a la fecha de la mensualidad que se paga. Sin embargo, cuando un deudor acredite a satisfacci&#xF3;n del SERVIU respectivo que efectivamente percibe una renta propia o familiar, seg&#xFA;n sea el caso, inferior a un ingreso m&#xED;nimo mensual, el dividendo ser&#xE1; de un 20% de la renta propia o familiar del deudor.</div><br></div>"
+        },
+        {
+          "part_id": 8993909,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 5&#xB0; A las viviendas que al 30 de junio de 1976 se encontraren en proceso de regularizaci&#xF3;n, de acuerdo a lo dispuesto en el art&#xED;culo 1&#xB0; del decreto supremo 268 (V. y U.), de 1975, les ser&#xE1;n aplicables todas las disposiciones del presente reglamento. </div></div>"
+        },
+        {
+          "part_id": 8993910,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 6&#xB0; Si por efectos de la aplicaci&#xF3;n del inciso 2&#xB0; del art&#xED;culo transitorio del decreto ley 1.506, se tuvieren por cumplidas las obligaciones de un deudor durante el tiempo se&#xF1;alado en este precepto legal, tal situaci&#xF3;n no afectar&#xE1; a los dineros percibidos por el SERVIU provenientes de descuentos por planilla recaudados por los empleadores y/o habilitados antes del 30 de junio de 1976.</div><br></div>"
+        },
+        {
+          "part_id": 8993911,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; An&#xF3;tese, t&#xF3;mese raz&#xF3;n, publ&#xED;quese e ins&#xE9;rtese en la Recopilaci&#xF3;n de Reglamentos de la Contralor&#xED;a General de la Rep&#xFA;blica.- Augusto Pinochet Ugarte.- Carlos Granifo. </div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

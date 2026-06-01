@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9035986,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DEROGA DECRETO LEY N&#xB0; 897, DE 1975, Y MODIFICA DECRETO LEY N&#xB0; 349, de 1974</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 911.- Santiago, 28 de Febrero de 1975.- Visto: lo dispuesto en los decretos leyes N&#xB0;s 1 y 128, de 1973, y 527, de 1974,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno acuerda dictar el siguiente Decreto ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DEROGA DECRETO LEY N&#xB0; 897, DE 1975, Y MODIFICA DECRETO LEY N&#xB0; 349, de 1974.- DEROGADO.-<span class=\"n\" id=\"n_0\">LEY 18879<br>ART. UNICO</span></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 911.- Santiago, 28 de Febrero de 1975.- Visto: lo dispuesto en los decretos leyes N&#xB0;s 1 y 128, de 1973,<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div> y 527, de 1974,<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 2</a></div></div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno acuerda dictar el siguiente Decreto ley:</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp; &nbsp; El presente decreto ley fue derogado por el art&#xED;culo &#xFA;nico de la Ley N&#xB0; 18.879, publicada en el &quot;Diario Oficial de 19 de Diciembre de 1989.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El texto de este decreto ley derogado, se encuentra en una cinta de normas derogadas BDTO.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

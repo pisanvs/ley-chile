@@ -1,0 +1,120 @@
+[
+  {
+    "fecha": "2019-12-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-12-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10077174,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnase el tramo Avanzado del Sistema de Desarrollo Profesional Docente establecido en el T&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, a los profesionales de la educaci&#xF3;n que, al 1&#xB0; de diciembre de 2018, acreditaron desempe&#xF1;arse como directores de establecimientos educacionales, jefes de educaci&#xF3;n de las Corporaciones Municipales o de Departamentos de Administraci&#xF3;n de Educaci&#xF3;n Municipal, seg&#xFA;n lo establecido en el inciso primero y tercero del art&#xED;culo decimosexto transitorio de la ley N&#xB0; 20.903, y que se encuentran individualizados en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;N&#xF3;mina Beneficiarios Ley 21.152&quot;, almacenado en CD adjunto, caratulado &quot;N&#xF3;mina Beneficiarios Ley N&#xB0; 21.152 Tramo Avanzado&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnase el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1153869&amp;idParte=10187673&amp;idVersion=2020-12-23\">Resoluci&#xF3;n 5133 EXENTA,<br>EDUCACION<br>Art. primero<br>D.O. 23.12.2020</a></span>tramo Avanzado del Sistema de Desarrollo Profesional Docente establecido en el T&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, y el que corresponda seg&#xFA;n lo dispuesto en el inciso segundo del art&#xED;culo decimosexto transitorio de la Ley N&#xB0; 20.903, a los profesionales de la educaci&#xF3;n que, al 1&#xB0; de diciembre de 2018, acreditaron desempe&#xF1;arse como directores de establecimientos educacionales, jefes de educaci&#xF3;n de las Corporaciones Municipales o de Departamentos de Administraci&#xF3;n de Educaci&#xF3;n Municipal, seg&#xFA;n lo establecido en el inciso primero, segundo y tercero del art&#xED;culo decimosexto transitorio de la Ley N&#xB0; 20.903, y que se encuentran individualizados en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;24092020_Directores_Ley_21152 (1)&quot;, almacenado en CD adjunto, caratulado &quot;REX 6015 24092020&quot;, el que se entiende a formar parte integrante del presente acto administrativo.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-04-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10077174,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnase el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1153869&amp;idParte=10187673&amp;idVersion=2020-12-23\">Resoluci&#xF3;n 5133 EXENTA,<br>EDUCACION<br>Art. primero<br>D.O. 23.12.2020</a></span>tramo Avanzado del Sistema de Desarrollo Profesional Docente establecido en el T&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, y el que corresponda seg&#xFA;n lo dispuesto en el inciso segundo del art&#xED;culo decimosexto transitorio de la Ley N&#xB0; 20.903, a los profesionales de la educaci&#xF3;n que, al 1&#xB0; de diciembre de 2018, acreditaron desempe&#xF1;arse como directores de establecimientos educacionales, jefes de educaci&#xF3;n de las Corporaciones Municipales o de Departamentos de Administraci&#xF3;n de Educaci&#xF3;n Municipal, seg&#xFA;n lo establecido en el inciso primero, segundo y tercero del art&#xED;culo decimosexto transitorio de la Ley N&#xB0; 20.903, y que se encuentran individualizados en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;24092020_Directores_Ley_21152 (1)&quot;, almacenado en CD adjunto, caratulado &quot;REX 6015 24092020&quot;, el que se entiende a formar parte integrante del presente acto administrativo.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1157881&amp;idParte=10214722&amp;idVersion=2021-04-07\">Resoluci&#xF3;n 1775 EXENTA, <br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 07.04.2021</a></span>el tramo Avanzado del Sistema de Desarrollo Profesional Docente establecido en el T&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, y el que corresponda seg&#xFA;n lo dispuesto en el inciso segundo del art&#xED;culo decimosexto transitorio de la ley N&#xB0; 20.903, a los profesionales de la educaci&#xF3;n que, al 1&#xB0; de diciembre de 2018, acreditaron desempe&#xF1;arse como directores de establecimientos educacionales, jefes de educaci&#xF3;n de las Corporaciones Municipales o de Departamentos de Administraci&#xF3;n de Educaci&#xF3;n Municipal, seg&#xFA;n lo establecido en el inciso primero, segundo y tercero del art&#xED;culo decimosexto transitorio de la ley N&#xB0; 20.903, y que se encuentran individualizados en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;N&#xF3;mina_Directores_Ley_21152_18012021_firmada.pdf&quot;, almacenado en CD adjunto, caratulado &quot;REX N&#xB0; Directores&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-10-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10077174,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1157881&amp;idParte=10214722&amp;idVersion=2021-04-07\">Resoluci&#xF3;n 1775 EXENTA, <br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 07.04.2021</a></span>el tramo Avanzado del Sistema de Desarrollo Profesional Docente establecido en el T&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, y el que corresponda seg&#xFA;n lo dispuesto en el inciso segundo del art&#xED;culo decimosexto transitorio de la ley N&#xB0; 20.903, a los profesionales de la educaci&#xF3;n que, al 1&#xB0; de diciembre de 2018, acreditaron desempe&#xF1;arse como directores de establecimientos educacionales, jefes de educaci&#xF3;n de las Corporaciones Municipales o de Departamentos de Administraci&#xF3;n de Educaci&#xF3;n Municipal, seg&#xFA;n lo establecido en el inciso primero, segundo y tercero del art&#xED;culo decimosexto transitorio de la ley N&#xB0; 20.903, y que se encuentran individualizados en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;N&#xF3;mina_Directores_Ley_21152_18012021_firmada.pdf&quot;, almacenado en CD adjunto, caratulado &quot;REX N&#xB0; Directores&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1166161&amp;idParte=10274459&amp;idVersion=2021-10-06\">Resoluci&#xF3;n 4898 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 06.10.2021</a></span>el tramo Avanzado del Sistema de Desarrollo Profesional Docente establecido en el T&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, y el que corresponda seg&#xFA;n lo dispuesto en el inciso segundo del art&#xED;culo decimosexto transitorio de la ley N&#xB0;20.903, a los profesionales de la educaci&#xF3;n que, al 1&#xB0; de diciembre de 2018, acreditaron desempe&#xF1;arse como directores de establecimientos educacionales, jefes de educaci&#xF3;n de las Corporaciones Municipales o de Departamentos de Administraci&#xF3;n de Educaci&#xF3;n Municipal, seg&#xFA;n lo establecido en el inciso primero, segundo y tercero del art&#xED;culo decimosexto transitorio de la ley N&#xB0; 20.903, y que se encuentran individualizados en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;23082021_Directores_Ley_21152_firmada&quot;, almacenado en CD adjunto, caratulado &quot;23082021-n&#xF3;mina directores&quot;, el que se entiende a formar parte integrante del presente acto administrativo</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-07-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10077174,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1166161&amp;idParte=10274459&amp;idVersion=2021-10-06\">Resoluci&#xF3;n 4898 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 06.10.2021</a></span>el tramo Avanzado del Sistema de Desarrollo Profesional Docente establecido en el T&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, y el que corresponda seg&#xFA;n lo dispuesto en el inciso segundo del art&#xED;culo decimosexto transitorio de la ley N&#xB0;20.903, a los profesionales de la educaci&#xF3;n que, al 1&#xB0; de diciembre de 2018, acreditaron desempe&#xF1;arse como directores de establecimientos educacionales, jefes de educaci&#xF3;n de las Corporaciones Municipales o de Departamentos de Administraci&#xF3;n de Educaci&#xF3;n Municipal, seg&#xFA;n lo establecido en el inciso primero, segundo y tercero del art&#xED;culo decimosexto transitorio de la ley N&#xB0; 20.903, y que se encuentran individualizados en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;23082021_Directores_Ley_21152_firmada&quot;, almacenado en CD adjunto, caratulado &quot;23082021-n&#xF3;mina directores&quot;, el que se entiende a formar parte integrante del presente acto administrativo</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1179308&amp;idParte=10352420&amp;idVersion=2022-07-29\">Resoluci&#xF3;n 3248 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 29.07.2022</a></span>rt&#xED;culo primero: As&#xED;gnase el tramo Avanzado del Sistema de Desarrollo Profesional Docente establecido en el T&#xED;tulo III del Decreto con Fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, y el que corresponda seg&#xFA;n lo dispuesto en el inciso segundo del art&#xED;culo decimosexto transitorio de la ley N&#xB0;20.903, a los profesionales de la educaci&#xF3;n que, al 1&#xB0; de diciembre de 2018, acreditaron desempe&#xF1;arse como directores de establecimientos educacionales, jefes de educaci&#xF3;n de las Corporaciones Municipales o de Departamentos de Administraci&#xF3;n de Educaci&#xF3;n Municipal, seg&#xFA;n lo establecido en el inciso primero, segundo y tercero del art&#xED;culo decimosexto transitorio de la ley N&#xB0; 20.903, y que se encuentran individualizados en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;25042022_Directores_Ley_21152firmada&quot;, almacenado en CD adjunto, caratulado &quot;N&#xF3;mina Directores Actualizada Rex. 6.015 abril 2022&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2024-02-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10077174,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1179308&amp;idParte=10352420&amp;idVersion=2022-07-29\">Resoluci&#xF3;n 3248 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 29.07.2022</a></span>rt&#xED;culo primero: As&#xED;gnase el tramo Avanzado del Sistema de Desarrollo Profesional Docente establecido en el T&#xED;tulo III del Decreto con Fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, y el que corresponda seg&#xFA;n lo dispuesto en el inciso segundo del art&#xED;culo decimosexto transitorio de la ley N&#xB0;20.903, a los profesionales de la educaci&#xF3;n que, al 1&#xB0; de diciembre de 2018, acreditaron desempe&#xF1;arse como directores de establecimientos educacionales, jefes de educaci&#xF3;n de las Corporaciones Municipales o de Departamentos de Administraci&#xF3;n de Educaci&#xF3;n Municipal, seg&#xFA;n lo establecido en el inciso primero, segundo y tercero del art&#xED;culo decimosexto transitorio de la ley N&#xB0; 20.903, y que se encuentran individualizados en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;25042022_Directores_Ley_21152firmada&quot;, almacenado en CD adjunto, caratulado &quot;N&#xF3;mina Directores Actualizada Rex. 6.015 abril 2022&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201292&amp;idParte=10490752&amp;idVersion=2024-02-26\">Resoluci&#xF3;n 1771 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 26.02.2024</a></span>t&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an como director de establecimientos educacionales que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;DirectoresLey21152_REX6015_2019.pdf FIRMADA&quot; almacenado en pendrive, caratulado &quot;Directores 2019&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;Asimilaci&#xF3;n Directores 2019&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1201292,
+      "fecha": "2024-02-26"
+    }
+  },
+  {
+    "fecha": "2025-09-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10077174,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201292&amp;idParte=10490752&amp;idVersion=2024-02-26\">Resoluci&#xF3;n 1771 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 26.02.2024</a></span>t&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an como director de establecimientos educacionales que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;DirectoresLey21152_REX6015_2019.pdf FIRMADA&quot; almacenado en pendrive, caratulado &quot;Directores 2019&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;Asimilaci&#xF3;n Directores 2019&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201292&amp;idParte=10490752&amp;idVersion=2024-02-26\">Resoluci&#xF3;n 1771 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 26.02.2024</a></span>t&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an como director de establecimientos educacionales que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1216477&amp;idParte=10561241&amp;idVersion=2025-09-09\">Resoluci&#xF3;n 10417 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.09.2025</a></span>241105_DirectoresLey21152_202410 FIRMADA&quot; almacenado en pendrive, caratulado &quot;Directores 2019&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;Asimilaci&#xF3;n Directores 2019&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1216477,
+      "fecha": "2025-09-09"
+    }
+  },
+  {
+    "fecha": "2025-12-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10077174,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201292&amp;idParte=10490752&amp;idVersion=2024-02-26\">Resoluci&#xF3;n 1771 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 26.02.2024</a></span>t&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an como director de establecimientos educacionales que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1216477&amp;idParte=10561241&amp;idVersion=2025-09-09\">Resoluci&#xF3;n 10417 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.09.2025</a></span>241105_DirectoresLey21152_202410 FIRMADA&quot; almacenado en pendrive, caratulado &quot;Directores 2019&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;Asimilaci&#xF3;n Directores 2019&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201292&amp;idParte=10490752&amp;idVersion=2024-02-26\">Resoluci&#xF3;n 1771 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 26.02.2024</a></span>t&#xED;culo <div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA</a></div>primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an como director de establecimientos educacionales que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1216477&amp;idParte=10561241&amp;idVersion=2025-09-09\">Resoluci&#xF3;n 10417 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.09.2025</a></span>241105_DirectoresLey21152_202410 FIRMADA&quot; almacenado en pendrive, caratulado &quot;Directores 2019&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;Asimilaci&#xF3;n Directores 2019&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 13796 Exenta, Educaci&#xF3;n, publicada el 23.12.2025, actualiza el listado a que se refiere el presente art&#xED;culo por la n&#xF3;mina contenida en el archivo con firma electr&#xF3;nica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, bajo el nombre del archivo PDF &quot;241105_DirectoresLey21152_202410 FIRMADA&quot;, almacenado en el pendrive adjunto a la citada resoluci&#xF3;n, caratulado &quot;Modificaci&#xF3;n Rex 6.015/2019 Asimilaci&#xF3;n Directores&quot;, el que se entiende formar parte integrante del mencionado acto administrativo.</div></div>"
+        }
+      ]
+    }
+  }
+]

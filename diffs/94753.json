@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-12-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325287,
+          "old": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA CHIVILINGO S.A. CERRADA PARA AMPLIAR ACTIVIDADES PESQUERAS.</div><div class=\"p\">DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA CHIVILINGO S.A. CERRADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "fecha": "1977-04-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-02-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7127590,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 29.- Autor&#xED;zase la importaci&#xF3;n de semillas de especies y variedades ya probadas en el pa&#xED;s, con la sola limitaci&#xF3;n de cumplir con las normas de sanidad vegetal.</div><br><div class=\"p\">&nbsp; &nbsp;  Con igual limitaci&#xF3;n, autor&#xED;zase tambi&#xE9;n la importaci&#xF3;n de semillas de frutales, forestales, flores y plantas ornamentales.</div><br><div class=\"p\">&nbsp; &nbsp;  En caso de especies o variedades no conocidas o no probadas en el pa&#xED;s, esta autorizaci&#xF3;n ser&#xE1; otorgada s&#xF3;lo despu&#xE9;s de haber sido comprobado su valor agron&#xF3;mico por una estaci&#xF3;n experimental registrada. Esta limitaci&#xF3;n no se aplicar&#xE1; a las especies se&#xF1;aladas en el inciso anterior.</div><br><div class=\"p\">&nbsp; &nbsp;  Las estaciones experimentales registradas podr&#xE1;n importar cualquier especie o variedad con fines de investigaci&#xF3;n, con la &#xFA;nica limitaci&#xF3;n de cumplir con las normas de sanidad vegetal.</div><br><div class=\"p\">&nbsp; &nbsp;  Para las semillas de hortalizas no conocidas o no probadas ser&#xE1; obligatorio un informe favorable de una estaci&#xF3;n experimental registrada.</div><br><div class=\"p\">&nbsp; &nbsp;  Las semillas cuyo objetivo de importaci&#xF3;n sea su ulterior multiplicaci&#xF3;n y exportaci&#xF3;n al exterior, no tendr&#xE1;n limitaci&#xF3;n alguna, salvo las disposiciones pertinentes de sanidad vegetal</div><div class=\"p\">&nbsp; &nbsp;  Con todo, una vez internadas al pa&#xED;s, todas estas semillas quedar&#xE1;n sujetas a las disposiciones legales y reglamentarlas y al control y fiscalizaci&#xF3;n del Ministerio de Agricultura.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 29&#xB0; Autor&#xED;zase la importaci&#xF3;n de<span class=\"n\" id=\"n_0\">Decreto Ley 3557, AGRICULTURA<br>Art. 46<br>D.O. 09.02.1981</span> cualquier especie o variedad de semillas, con la sola limitaci&#xF3;n de cumplir con las exigencias fitosanitarias y dem&#xE1;s condiciones que establezca el Ministerio de Agricultura.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1989-05-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7127575,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16.- Las personas naturales o jur&#xED;dicas dedicadas a estos trabajos con fines comerciales deber&#xE1;n inscribirse en el Registro de Estaciones Experimentales a que se refiere este t&#xED;tulo.</div><div class=\"p\">&nbsp; &nbsp;  El reglamento se&#xF1;alar&#xE1; los requisitos que se deber&#xE1;n cumplir para solicitar esta inscripci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 16&#xB0; Deber&#xE1;n inscribirse en el Registro de<span class=\"n\" id=\"n_0\">LEY 18796<br>ART 4&#xB0; a)<br>D.O. 24.05.1989</span> Estaciones Experimentales a que se refiere este t&#xED;tulo las personas naturales o jur&#xED;dicas que se dediquen a la certificaci&#xF3;n de semillas.</div><div class=\"p\">&nbsp; &nbsp; El reglamento se&#xF1;alar&#xE1; los requisitos que se deber&#xE1;n cumplir para solicitar esta inscripci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 7127583,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 23.- S&#xF3;lo podr&#xE1;n dedicarse al comercio de semillas las personas naturales o jur&#xED;dicas que se inscriban en el Registro de Comerciantes de Semillas que llevar&#xE1; el Ministerio de Agricultura.</div><div class=\"p\">&nbsp; &nbsp;  El reglamento determinar&#xE1; los requisitos que deber&#xE1;n cumplir estas personas para inscribirse, as&#xED; como la forma y condiciones en que se llevar&#xE1; el registro.&nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 23&#xB0; DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_1\">LEY 18796<br>ART 4&#xB0; b)<br>D.O. 24.05.1989</span></div></div>"
+        },
+        {
+          "part_id": 7127590,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 29&#xB0; Autor&#xED;zase la importaci&#xF3;n de<span class=\"n\" id=\"n_0\">Decreto Ley 3557, AGRICULTURA<br>Art. 46<br>D.O. 09.02.1981</span> cualquier especie o variedad de semillas, con la sola limitaci&#xF3;n de cumplir con las exigencias fitosanitarias y dem&#xE1;s condiciones que establezca el Ministerio de Agricultura.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 29&#xB0; Autor&#xED;zase la importaci&#xF3;n de<span class=\"n\" id=\"n_2\">Decreto Ley 3557, AGRICULTURA<br>Art. 46<br>D.O. 09.02.1981</span> cualquier especie o variedad de semillas, con la sola limitaci&#xF3;n de cumplir con las exigencias fitosanitarias y dem&#xE1;s condiciones que establezca el Ministerio de Agricultura.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1994-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7127557,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- La Investigaci&#xF3;n, producci&#xF3;n y comercio de semillas, se regir&#xE1;n por las disposiciones contenidas en el presente decreto ley.</div><div class=\"p\">&nbsp; &nbsp;  Un reglamento especial determinar&#xE1; las disposiciones de este decreto ley que se aplicar&#xE1;n a las semillas frutales y forestales.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0; La investigaci&#xF3;n, producci&#xF3;n y<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> comercio de semillas, se regir&#xE1;n por las disposiciones contenidas en el presente decreto ley.</div><div class=\"p\">&nbsp; &nbsp; Un reglamento especial determinar&#xE1; las disposiciones de este decreto ley que se aplicar&#xE1;n a las semillas frutales y forestales.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El Art&#xED;culo 5&#xB0; transitorio de la Ley 19342, publicada el 03.11.1994, dispuso que toda referencia que se haga en el presente decreto ley, o en otras leyes a la Unidad T&#xE9;cnica de Semillas, deber&#xE1;n entenderse hechas al Departamento de Semillas del Servicio Agr&#xED;cola y Ganadero.</div></div>"
+        },
+        {
+          "part_id": 7127564,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;- Un Registro de Propiedad de Variedades o Cultivares dependiente del Ministerio de Agricultura, tendr&#xE1; por objeto constituir y proteger el derecho de propiedad de los creadores de nuevas variedades o cultivares y estar&#xE1; a cargo de un director que deber&#xE1; ser ingeniero agr&#xF3;nomo.</div><div class=\"p\">&nbsp; &nbsp;  Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que, en el plazo de un a&#xF1;o, establezca la forma y organizaci&#xF3;n que tendr&#xE1; dicho registro; las facultades y atribuciones del director a su cargo; las variedades o cultivares que podr&#xE1;n inscribirse; las disposiciones que rijan las inscripciones sobre variedades creadas en el extranjero; el plazo y limitaciones a la protecci&#xF3;n de los derechos sobre las inscripciones: las variedades que pueden inscribirse en el Registro de Marcas del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; las limitaciones de ellas para ser objeto de patentes de invenciones industriales; la forma de amparar los derechos que emanen de la inscripci&#xF3;n; los requisitos y exigencias que debe cumplir el propietario; la forma de dar cumplimiento a la obligaci&#xF3;n de mantener una colecci&#xF3;n de &quot;ejemplares testigos&quot; por el propietario; las sanciones que acarree la vulneraci&#xF3;n de los derechos del creador o del propietario; el monto del derecho a que se refiere el art&#xED;culo 13 del presente decreto ley y dem&#xE1;s disposiciones que aseguren el correcto funcionamiento del registro.&nbsp;  </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 7&#xB0; DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_1\">LEY 19342<br>Art. 47<br>D.O. 03.11.1994</span></div></div>"
+        },
+        {
+          "part_id": 7127566,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;- El derecho de propiedad sobre una variedad o cultivar se constituye por su inscripci&#xF3;n en el registro a que se refiere el art&#xED;culo anterior, y conferir&#xE1; a su titular el derecho exclusivo para producir y comerciar la semilla de la variedad protegida, por el tiempo que en cada caso corresponda de acuerdo con las normas que fije el Presidente de la Rep&#xFA;blica, en conformidad con lo establecido en el inciso segundo del art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp;  Este derecho es comerciable, transferible y transmisible y el sucesor podr&#xE1; usar, gozar y disponer de &#xE9;l por el plazo que falte a su titular, en la misma forma y condiciones que &#xE9;ste.&nbsp; &nbsp;  </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 8&#xB0; DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_2\">LEY 19342<br>Art. 47<br>D.O. 03.11.1994</span></div></div>"
+        },
+        {
+          "part_id": 7127567,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;- La calificaci&#xF3;n de las variedades o cultivares, cuya inscripci&#xF3;n se solicite en el Registro de propiedad de Variedades o Cultivares, estar&#xE1; a cargo de un Comit&#xE9; T&#xE9;cnico Calificador, integrado por un representante del sector p&#xFA;blico, uno de las Universidades y otro del sector privado, elegidos por el Ministerio de Agricultura entre especialistas y profesionales en gen&#xE9;tica, bot&#xE1;nica y agronom&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  El Director del Registro de Propiedad de Variedades o Cultivares actuar&#xE1; como Secretario y Relator del Comit&#xE9; T&#xE9;cnico Calificador.&nbsp; &nbsp;  </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 9&#xB0; DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_3\">LEY 19342<br>Art. 47<br>D.O. 03.11.1994</span></div></div>"
+        },
+        {
+          "part_id": 7127568,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10.- Al Comit&#xE9; T&#xE9;cnico Calificador de Variedades o Cultivares corresponder&#xE1;:</div><div class=\"p\">&nbsp; &nbsp;  a) Conocer y pronunciarse sobre las solicitudes de Inscripci&#xF3;n en el Registro de Propiedad de Variedades o Cultivares; disponer los ensayos y pruebas que correspondan; ordenar las inscripciones provisorias y definitivas cu&#xE1;ndo procedieren y la canceraci&#xF3;n de las mismas, de acuerdo con este decreto ley y su reglamento y</div><div class=\"p\">&nbsp; &nbsp;  b) Cumplir las dem&#xE1;s funciones que le asignan este decreto ley y su reglamento.&nbsp; &nbsp;  </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 10&#xB0; DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_4\">LEY 19342<br>Art. 47<br>D.O. 03.11.1994</span></div></div>"
+        },
+        {
+          "part_id": 7127569,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11.- Las resoluciones del Comit&#xE9; T&#xE9;cnico Calificador ser&#xE1;n apelables ante el Tribunal Agrario Provincial del domicilio del recurrente, dentro del t&#xE9;rmino de quince d&#xED;as, contados desde la notificaci&#xF3;n de la resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El Tribunal Agrario Provincial resolver&#xE1; con audiencia del interesado y del que formule leg&#xED;tima oposici&#xF3;n. Podr&#xE1;, asimismo, solicitar informe al Director del Registro mencionado y recabar informes periciales sobre la materia. En contra de sus resoluciones no proceder&#xE1; recurso alguno.&nbsp; &nbsp;  </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 11&#xB0; DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_5\">LEY 19342<br>Art. 47<br>D.O. 03.11.1994</span></div></div>"
+        },
+        {
+          "part_id": 7127570,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12.- El ejercicio del derecho de propiedad sobre una variedad o cultivar tendr&#xE1;, no obstante, las siguientes limitaciones:</div><div class=\"p\">&nbsp; &nbsp;  a) El Ministerio de Agricultura podr&#xE1; exigir al titular del derecho la multiplicaci&#xF3;n de semillas de la variedad o cultivar inscrito, o la celebraci&#xF3;n de convenios para tal efecto, cuando la producci&#xF3;n de dichas variedades o cultivares sea de alta conveniencia para la econom&#xED;a nacional.</div><div class=\"p\">&nbsp; &nbsp;  S&#xED; el titular del derecho no quisiese o no pudiere producir las cantidades requeridas o celebrar los convenios exigidos, el Ministro de Agricultura podr&#xE1;, en presentaci&#xF3;n de dicho titular, pactar directamente con terceros la multiplicaci&#xF3;n de estas semillas.</div><div class=\"p\">&nbsp; &nbsp;  En los contratos respectivos se impondr&#xE1; siempre al multiplicador la obligaci&#xF3;n de cumplir con las compensaciones equitativas en beneficio del due&#xF1;o de la variedad o cultivar. El reglamento establecer&#xE1; normas para determinar estas compensaciones.</div><div class=\"p\">&nbsp; &nbsp;  b) El derecho de propiedad sobre una variedad o cultivar no impide que otra persona pueda emplearla, siempre que dicho empleo tenga como &#xFA;nica finalidad crear una nueva, la que a su vez, cumpliendo con los requisitos legales y reglamentarios, podr&#xE1; inscribirse a nombre de su creador sin contar con la autorizaci&#xF3;n o asentimiento del due&#xF1;o de la variedad primitiva que sirvi&#xF3; de medio para obtenerla.</div><br><div class=\"p\">&nbsp; &nbsp;  Sin embargo, cuando las variedades originales deban ser utilizadas permanentemente para la producci&#xF3;n de la nueva, se requerir&#xE1; la autorizaci&#xF3;n o asentimiento expreso del o de los nuevos de aqu&#xE9;llas.&nbsp; &nbsp;  </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 12&#xB0; DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_6\">LEY 19342<br>Art. 47<br>D.O. 03.11.1994</span></div></div>"
+        },
+        {
+          "part_id": 7127571,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13. - Los costos que demande la Inscripci&#xF3;n ser&#xE1;n de cargo del interesado. Este deber&#xE1; pagar adem&#xE1;s, un derecho anual por variedad inscrita a beneficio del Registro de Propiedad de Variedades o Cultivares. El no pago de este derecho producir&#xE1; la caducidad de la inscripci&#xF3;n, en la forma y condiciones que determine el Reglamento.&nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 13&#xB0; DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_7\">LEY 19342<br>Art. 47<br>D.O. O3.11.1994</span></div></div>"
+        },
+        {
+          "part_id": 7127575,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 16&#xB0; Deber&#xE1;n inscribirse en el Registro de<span class=\"n\" id=\"n_0\">LEY 18796<br>ART 4&#xB0; a)<br>D.O. 24.05.1989</span> Estaciones Experimentales a que se refiere este t&#xED;tulo las personas naturales o jur&#xED;dicas que se dediquen a la certificaci&#xF3;n de semillas.</div><div class=\"p\">&nbsp; &nbsp; El reglamento se&#xF1;alar&#xE1; los requisitos que se deber&#xE1;n cumplir para solicitar esta inscripci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 16&#xB0; Deber&#xE1;n inscribirse en el Registro de<span class=\"n\" id=\"n_8\">LEY 18796<br>ART 4&#xB0; a)<br>D.O. 24.05.1989</span> Estaciones Experimentales a que se refiere este t&#xED;tulo las personas naturales o jur&#xED;dicas que se dediquen a la certificaci&#xF3;n de semillas.</div><div class=\"p\">&nbsp; &nbsp; El reglamento se&#xF1;alar&#xE1; los requisitos que se deber&#xE1;n cumplir para solicitar esta inscripci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 7127583,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 23&#xB0; DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_1\">LEY 18796<br>ART 4&#xB0; b)<br>D.O. 24.05.1989</span></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 23&#xB0; DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_9\">LEY 18796<br>ART 4&#xB0; b)<br>D.O. 24.05.1989</span></div></div>"
+        },
+        {
+          "part_id": 7127590,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 29&#xB0; Autor&#xED;zase la importaci&#xF3;n de<span class=\"n\" id=\"n_2\">Decreto Ley 3557, AGRICULTURA<br>Art. 46<br>D.O. 09.02.1981</span> cualquier especie o variedad de semillas, con la sola limitaci&#xF3;n de cumplir con las exigencias fitosanitarias y dem&#xE1;s condiciones que establezca el Ministerio de Agricultura.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 29&#xB0; Autor&#xED;zase la importaci&#xF3;n de<span class=\"n\" id=\"n_10\">Decreto Ley 3557, AGRICULTURA<br>Art. 46<br>D.O. 09.02.1981</span> cualquier especie o variedad de semillas, con la sola limitaci&#xF3;n de cumplir con las exigencias fitosanitarias y dem&#xE1;s condiciones que establezca el Ministerio de Agricultura.</div><br></div>"
+        },
+        {
+          "part_id": 7127595,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 33.- El productor que, sin el consentimiento del propietario de una variedad, y mientras est&#xE9; vigente su inscripci&#xF3;n, o sin la autorizaci&#xF3;n competente a que se refiere el art&#xED;culo 12, produzca esta semilla y la enajene, o el que ofreciere o comercializare estas semillas a sabiendas de que han sido producidas o multiplicadas sin la autorizaci&#xF3;n del due&#xF1;o de la variedad, ser&#xE1; sancionado con una multa de hasta 100 unidades tributarias, sin perjuicio del comiso de los lotes que se encuentren en su poder.&nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 33&#xB0; DEROGADO.-</div><br><div class=\"p\"><span class=\"n\" id=\"n_11\">LEY 19342<br>Art. 4<br>03.11.1994</span></div></div>"
+        }
+      ]
+    }
+  }
+]

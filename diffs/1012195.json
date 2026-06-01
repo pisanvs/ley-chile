@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2010-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-03-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8904234,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Ot&#xF3;rgase la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica a la empresa Hot Rock Chile S.A., conforme lo previsto en la ley N&#xBA; 19.657 y su Reglamento, respecto del &#xE1;rea denominada &quot;Santa Antonia&quot;, ubicada en las comunas de Santa B&#xE1;rbara y Alto B&#xED;o B&#xED;o, Provincia y Regi&#xF3;n del B&#xED;o B&#xED;o, sobre una superficie total de 43.200 hect&#xE1;reas, con un largo de 24.000 metros y un ancho de 18.000 metros, delimitada por el paralelogramo rectangular de v&#xE9;rtices V1, V2, V3 y V4, cuyas coordenadas UTM, referidas al Datum WGS84, Huso 19S, expresadas en metros, son las siguientes:</div><br><div class=\"p\"> V&#xE9;rtice&nbsp; &nbsp; &nbsp;  UTM</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Norte&nbsp; &nbsp; Este</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp;  1&nbsp;  5.833.000&nbsp;  279.000</div><div class=\"p\">&nbsp;  2&nbsp;  5.833.000&nbsp;  297.000</div><div class=\"p\">&nbsp;  3&nbsp;  5.809.000&nbsp;  297.000</div><div class=\"p\">&nbsp;  4&nbsp;  5.809.000&nbsp;  279.000</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Ot&#xF3;rgase la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica a la empresa Hot Rock Chile S.A., conforme lo previsto en la ley N&#xBA; 19.657 y su Reglamento, respecto del &#xE1;rea denominada &quot;Santa Antonia&quot;, ubicada en las comunas de Santa B&#xE1;rbara y Alto B&#xED;o B&#xED;o, Provincia y Regi&#xF3;n del B&#xED;o B&#xED;o, sobre una superficie total de 43.200 hect&#xE1;reas, con un largo de 24.000 metros y un ancho de 18.000 metros, delimitada por el paralelogramo rectangular de v&#xE9;rtices V1, V2, V3 y V4, cuyas coordenadas UTM, referidas al Datum WGS84, Huso 19S, expresadas en metros, son las siguientes:</div><br><div class=\"p\"> V&#xE9;rtice&nbsp; &nbsp; &nbsp;  UTM</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Norte&nbsp; &nbsp; Este</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp;  1&nbsp;  5.833.000&nbsp;  279.000</div><div class=\"p\">&nbsp;  2&nbsp;  5.833.000&nbsp;  297.000</div><div class=\"p\">&nbsp;  3&nbsp;  5.809.000&nbsp;  297.000</div><div class=\"p\">&nbsp;  4&nbsp;  5.809.000&nbsp;  279.000</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Numeral I del Decreto 80 Exento, Energ&#xED;a, publicado el 26.03.2014, viene a modificar la presente norma en el sentido de dar cuenta del cambio de nombre de la sociedad titular de la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica, la que ha pasado a denominarse &quot;EDC Energ&#xED;a Verde Chile S.A.&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

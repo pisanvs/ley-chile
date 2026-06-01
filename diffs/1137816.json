@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-10-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-05-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10062910,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese la siguiente tabla de factores multiplicadores de los montos de subsidio base por comuna para los proyectos de Ampliaci&#xF3;n de la Vivienda del Cap&#xED;tulo Segundo, del T&#xED;tulo II, del <a href=\"https://www.leychile.cl/Navegar?idNorma=1114960&amp;idParte=&amp;idVersion=\">DS N&#xB0; 27 (V. y U.), de 2016</a>, conforme lo se&#xF1;alado en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1114960&amp;idParte=9885288&amp;idVersion=\">art&#xED;culo 12</a>, de dicho decreto:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/99234.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. El monto de subsidio base que percibir&#xE1; cada familia beneficiada con Proyectos de Ampliaci&#xF3;n de la Vivienda del Cap&#xED;tulo Segundo, del T&#xED;tulo II, del DS 27 (V. y U.), de 2016, corresponder&#xE1; al monto resultante, luego de aplicar el factor multiplicador correspondiente a la comuna donde se emplace la obra, indicado en la tabla que se se&#xF1;ala en el resuelvo anterior, al monto se&#xF1;alado para ese subsidio en el numeral 2 del art&#xED;culo 77 de dicho decreto. En los casos en que el resultado de la aplicaci&#xF3;n del factor multiplicador arroje un n&#xFA;mero decimal, &#xE9;ste deber&#xE1; ser aproximado al n&#xFA;mero entero inmediatamente superior.</div><div class=\"p\">&nbsp; &nbsp;  3. Este factor multiplicador se aplicar&#xE1; para los llamados que consideren proyectos de Ampliaci&#xF3;n de Vivienda, del Cap&#xED;tulo Segundo, del T&#xED;tulo II, del DS 27 (V. y U.), de 2016, a efectuarse a partir del a&#xF1;o 2019.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese la siguiente tabla de factores multiplicadores de los montos de subsidio base por comuna para los proyectos de Ampliaci&#xF3;n de la Vivienda del Cap&#xED;tulo Segundo, del T&#xED;tulo II, del DS N&#xB0; 27 (V. y U.), de 2016, conforme lo se&#xF1;alado en el art&#xED;culo 12, de dicho decreto:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1145509&amp;idParte=10122038&amp;idVersion=2020-05-20\">Resoluci&#xF3;n 668 EXENTA,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 20.05.2020</a></span></div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/108704.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/108705.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. El monto de subsidio base que percibir&#xE1; cada familia beneficiada con Proyectos de Ampliaci&#xF3;n de la Vivienda del Cap&#xED;tulo Segundo, del T&#xED;tulo II, del DS 27 (V. y U.), de 2016, corresponder&#xE1; al monto resultante, luego de aplicar el factor multiplicador correspondiente a la comuna donde se emplace la obra, indicado en la tabla que se se&#xF1;ala en el resuelvo anterior, al monto se&#xF1;alado para ese subsidio en el numeral 2 del art&#xED;culo 77 de dicho decreto. En los casos en que el resultado de la aplicaci&#xF3;n del factor multiplicador arroje un n&#xFA;mero decimal, &#xE9;ste deber&#xE1; ser aproximado al n&#xFA;mero entero inmediatamente superior.</div><div class=\"p\">&nbsp; &nbsp;  3. Este factor multiplicador se aplicar&#xE1; para los llamados que consideren proyectos de Ampliaci&#xF3;n de Vivienda, del Cap&#xED;tulo Segundo, del T&#xED;tulo II, del DS 27 (V. y U.), de 2016, a efectuarse a partir del a&#xF1;o 2019.</div><div class=\"p\"> </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1145509,
+      "fecha": "2020-05-20"
+    }
+  }
+]

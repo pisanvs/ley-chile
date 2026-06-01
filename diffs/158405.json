@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-05-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-07-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6241776,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION No. 758 EXENTA, DE 1986 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION No. 758 EXENTA, DE 1986 </div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2001-05-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6335923,
+          "old": "<div><div class=\"p\">COMPLEMENTA RESOLUCION N&#xBA; 83 EXENTA,&nbsp; DE 2001, QUE FIJA VIAS CON CARACTER DE EXCLUSIVAS Y/O REVERSIBLES PARA LA CIRCULACION DE VEHICULOS EN LA CIUDAD DE SANTIAGO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 159 exenta.- Santiago, 22 de mayo de 2001.- Visto: Lo dispuesto en la resoluci&#xF3;n exenta N&#xBA; 83/2001 de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n Metropolitana.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA RESOLUCION N&#xBA; 83 EXENTA,&nbsp; DE 2001, QUE FIJA VIAS CON CARACTER DE EXCLUSIVAS Y/O REVERSIBLES PARA LA CIRCULACION DE VEHICULOS EN LA CIUDAD DE SANTIAGO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 159 exenta.- Santiago, 22 de mayo de 2001.- Visto: Lo dispuesto en la resoluci&#xF3;n exenta N&#xBA; 83/2001 de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n Metropolitana.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        },
+        {
+          "part_id": 6335924,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Incorp&#xF3;rese como v&#xED;as exclusivas para el transporte p&#xFA;blico durante los episodios de preemergencia y emergencia ambiental que se registren de lunes a viernes, excepto festivos, las siguientes:</div><br><div class=\"p\">-&nbsp; &nbsp; Avenida Providencia entre Eleodoro Y&#xE1;&#xF1;ez y Avenida Tobalaba.</div><br><div class=\"p\">-&nbsp; &nbsp; Avenida 11 de Septiembre entre Avenida Jos&#xE9; Miguel Claro y Avenida Los Leones.</div><br><div class=\"p\">-&nbsp; &nbsp; Avenida Apoquindo entre Avenida Tobalaba y Alc&#xE1;ntara.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Estas v&#xED;as exclusivas funcionar&#xE1;n en ambos sentidos entre las 7:30 AM y 10:00 AM (punta ma&#xF1;ana) y las 18:00 y 20:00 horas (punta tarde).</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Incorp&#xF3;rese como v&#xED;as exclusivas para el</div><div class=\"p\">transporte p&#xFA;blico durante los episodios de</div><div class=\"p\">preemergencia y emergencia ambiental que se registren</div><div class=\"p\">de lunes a viernes, excepto festivos, las siguientes:</div><br><div class=\"p\">-&nbsp; &nbsp; Avenida Providencia entre Eleodoro Y&#xE1;&#xF1;ez y Avenida</div><div class=\"p\">&nbsp; &nbsp;  Tobalaba.</div><br><div class=\"p\">-&nbsp; &nbsp; Avenida 11 de Septiembre entre Avenida Jos&#xE9; Miguel</div><div class=\"p\">&nbsp; &nbsp;  Claro y Avenida Los Leones.</div><br><div class=\"p\">-&nbsp; &nbsp; Avenida Apoquindo entre Avenida Tobalaba y</div><div class=\"p\">&nbsp; &nbsp;  Alc&#xE1;ntara.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Estas v&#xED;as exclusivas funcionar&#xE1;n en ambos<span class=\"n\" id=\"n_0\">RES 163 EXENTA,<br>TRANSPORTES<br>D.O. 31.05.2001</span></div><div class=\"p\">sentidos entre las 7:30 AM y 10:00 AM (punta ma&#xF1;ana)</div><div class=\"p\">y las 18:00 PM y 20:30 PM (punta tarde)</div><br></div>"
+        }
+      ]
+    }
+  }
+]

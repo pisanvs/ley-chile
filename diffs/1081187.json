@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2015-09-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-11-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9633780,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  D&#xE9;cimo: El Servicio efectuar&#xE1; el procedimiento de acreditaci&#xF3;n de origen legal, mediante la visaci&#xF3;n de los respectivos recursos en la Oficina de Melinka, cuyo horario de atenci&#xF3;n ser&#xE1; de lunes a jueves, entre las 9:00 y 18:00 horas y viernes de 09:00 a 17:00 horas.</div><div class=\"p\">&nbsp; &nbsp;  El procedimiento se podr&#xE1; extender hasta las 22:00 horas y en caso de condiciones climatol&#xF3;gicas adversas hasta las 24:00 horas.</div><div class=\"p\">&nbsp; &nbsp;  Excepcionalmente, podr&#xE1; ampliarse el procedimiento de acreditaci&#xF3;n a d&#xED;as s&#xE1;bado, domingo y festivos en los horarios indicados precedentemente. Sin perjuicio de lo anterior, en todos los casos la extensi&#xF3;n de d&#xED;as y de horarios deber&#xE1; solicitarse al Servicio con al menos 12 horas de anticipaci&#xF3;n al traslado o comercializaci&#xF3;n de los recursos o productos de que se trate y quedar&#xE1; condicionado a la existencia de personal disponible por parte del mismo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  D&#xE9;cimo: El Servicio efectuar&#xE1; el procedimiento de acreditaci&#xF3;n de<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1125145&amp;idParte=9965151&amp;idVersion=2018-11-10\">Resoluci&#xF3;n 3510 EXENTA,<br>ECONOM&#xCD;A<br>Art. TERCERO a)<br>D.O. 10.11.2018</a></span> origen legal mediante la visaci&#xF3;n de los respectivos recursos en la oficina de Melinka o el documento tributario m&#xE1;s el comprobante AOL del sistema trazabilidad.</div><br></div>"
+        },
+        {
+          "part_id": 9633782,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  D&#xE9;cimo segundo: El Servicio fiscalizar&#xE1; a los agentes comercializadores y a las plantas de proceso a fin de controlar la medida de administraci&#xF3;n referida a la talla m&#xED;nima legal de los recursos. Para este efecto las plantas deber&#xE1;n respaldar sus abastecimientos acreditando el origen legal mediante los procedimientos establecidos por el Servicio.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  D&#xE9;cimo segundo: Eliminado<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1125145&amp;idParte=9965151&amp;idVersion=2018-11-10\">Resoluci&#xF3;n 3510 EXENTA,<br>ECONOM&#xCD;A<br>Art. TERCERO b)<br>D.O. 10.11.2018</a></span>.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1125145,
+      "fecha": "2018-11-10"
+    }
+  }
+]

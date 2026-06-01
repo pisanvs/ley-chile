@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-05-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048217,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD AGRICOLA, INDUSTRIAL Y COMERCIAL PEREZ Y RAMIREZ LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA DECRETO DE AGRICULTURA QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD AGRICOLA, INDUSTRIAL Y COMERCIAL PEREZ Y RAMIREZ LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA DECRETO DE AGRICULTURA QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

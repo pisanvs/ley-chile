@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7287788,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD &quot;PESQUERA FRIOMAR LTDA.&quot; PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD &quot;PESQUERA FRIOMAR LTDA.&quot; PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

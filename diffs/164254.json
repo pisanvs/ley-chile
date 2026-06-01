@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-11-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-12-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7266886,
+          "old": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO AL INSTITUTO DE FOMENTO PESQUERO, IFOP</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 298.- Santiago, 17 de Septiembre de 1985.- Visto: Decreto Ley No. 799 de 1974, modificado por el DFL No.</div><div class=\"p\">12-2.345 de 1979, Circular No. 9.277 de 1975, de la Contralor&#xED;a General de la Rep&#xFA;blica; lo solicitado por el Instituto de Fomento Pesquero en su Oficio Ord. No. 80831 de 06 de Septiembre de 1985, y antecedentes que se acompa&#xF1;an:</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, el Instituto de Fomento Pesquero, IFOP., debe mantener un veh&#xED;culo en funcionamiento permanente, con el objeto de cumplir en forma oportuna las labores de inspecci&#xF3;n de pre-embarques y embarques de harina y aceite de pescado, en los recintos portuarios, empresas pesqueras y otros lugares, en la Base Zonal que IFOP posee en Talcahuano,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO AL INSTITUTO DE FOMENTO PESQUERO, IFOP</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 298.- Santiago, 17 de Septiembre de 1985.- Visto: Decreto Ley No. 799 de 1974, modificado por el DFL No.</div><div class=\"p\">12-2.345 de 1979, Circular No. 9.277 de 1975, de la Contralor&#xED;a General de la Rep&#xFA;blica; lo solicitado por el Instituto de Fomento Pesquero en su Oficio Ord. No. 80831 de 06 de Septiembre de 1985, y antecedentes que se acompa&#xF1;an:</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, el Instituto de Fomento Pesquero, IFOP., debe mantener un veh&#xED;culo en funcionamiento permanente, con el objeto de cumplir en forma oportuna las labores de inspecci&#xF3;n de pre-embarques y embarques de harina y aceite de pescado, en los recintos portuarios, empresas pesqueras y otros lugares, en la Base Zonal que IFOP posee en Talcahuano,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

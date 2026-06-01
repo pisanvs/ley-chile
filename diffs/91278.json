@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-12-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320134,
+          "old": "<div><div class=\"p\">AUTORIZA A DON MARCELINO CAIPICHUN CAIPICHUN, PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON MARCELINO CAIPICHUN CAIPICHUN, PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

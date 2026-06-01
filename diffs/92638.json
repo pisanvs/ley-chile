@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-04-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8322109,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JOSE ORLANDO SOTO SOTO PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JOSE ORLANDO SOTO SOTO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

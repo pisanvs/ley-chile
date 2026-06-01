@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1986-06-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-06-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7260541,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 314, DE 1986</div><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 314, DE 1986</div><br><br></div>"
+        },
+        {
+          "part_id": 7260542,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Resoluci&#xF3;n N&#xB0; 470 de 04 de Junio de 1986 de la Subsecretaria de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, se modifica la Resoluci&#xF3;n 314, de 03 de Abril de 1986, de la Subsecretaria de Pesca, que autoriz&#xF3; a &quot;Conservera Dalcahue S.A.&quot; para desarrollar actividades pesqueras, en orden a dejar establecido que dicha autorizaci&#xF3;n se entiende conferida a &quot;Conserveras Dalcahue S.A.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por Resoluci&#xF3;n N&#xB0; 470 de 04 de Junio de 1986 de la Subsecretaria de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, se modifica la Resoluci&#xF3;n 314, de 03 de Abril de 1986, de la Subsecretaria de Pesca, que autoriz&#xF3; a &quot;Conservas Dalcahue S.A.&quot; para<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 20.06.1986</span> desarrollar actividades pesqueras, en orden a dejar establecido que dicha autorizaci&#xF3;n se entiende conferida a &quot;Conserveras Dalcahue S.A.&quot;. </div></div>"
+        }
+      ]
+    }
+  }
+]

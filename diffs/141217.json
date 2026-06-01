@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-02-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7252292,
+          "old": "<div><div class=\"p\">PRORROGA VIGENCIA DEL DECRETO ALCALDICIO N&#xB0; 6, DE 1985 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3.- Samo Alto, 28 de Enero de 1987.- Vistos: Estos antecedentes, el art&#xED;culo 43 y dem&#xE1;s pertinentes del Decreto Ley N&#xB0; 3.063, de 1979, sobre Rentas Municipales; y las facultades que me confieren los art&#xED;culos 12 y 13 del Decreto Ley N&#xB0; 1.289, de 1976, Ley Org&#xE1;nica de Municipios y Administraci&#xF3;n Comunal, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">PRORROGA VIGENCIA DEL DECRETO ALCALDICIO N&#xB0; 6, DE 1985 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3.- Samo Alto, 28 de Enero de 1987.- Vistos: Estos antecedentes, el art&#xED;culo 43 y dem&#xE1;s pertinentes del Decreto Ley N&#xB0; 3.063, de 1979, sobre Rentas Municipales; y las facultades que me confieren los art&#xED;culos 12 y 13 del Decreto Ley N&#xB0; 1.289, de 1976, Ley Org&#xE1;nica de Municipios y Administraci&#xF3;n Comunal, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

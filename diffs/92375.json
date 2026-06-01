@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8321686,
+          "old": "<div><div class=\"p\">AUTORIZA A DON CLAUDIO JODECK MOSES PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON CLAUDIO JODECK MOSES PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

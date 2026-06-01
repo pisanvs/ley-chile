@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-05-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8918581,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case el <a href=\"https://www.leychile.cl/Navegar?idNorma=1009970&amp;idParte=&amp;idVersion=2010-05-17\">Decreto Alcaldicio N&#xBA; 4.540 de 28 de diciembre de 2009</a>, referido a la aprobaci&#xF3;n de la &quot;Ordenanza Municipal Sobre Uso de la Plaza Gobernador Benjam&#xED;n Mu&#xF1;oz Gamero&quot; en el sentido de incorporar el art&#xED;culo transitorio que se indica:</div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Transitorio</div><br><div class=\"p\">&nbsp; &nbsp;  Las actividades artesanales que se autoricen en la Plaza Gobernador Benjam&#xED;n Mu&#xF1;oz Gamero, s&#xF3;lo podr&#xE1;n realizarse hasta el mes de agosto de 2010, priorizando a los asignatarios de carros de exhibici&#xF3;n y venta de productos artesanales y, una vez asignados la totalidad de estos, considerar excepcionalmente el desarrollo de estas actividades sin el uso de los mencionados carros.</div><br><div class=\"p\">&nbsp; &nbsp;  2. D&#xE9;jase establecido que para todos los efectos legales se mantiene vigente todo lo no modificado en el decreto original.</div><br><div class=\"p\">&nbsp; &nbsp;  3. Proc&#xE9;dase por el Departamento de Comunicaciones, a tramitar la publicaci&#xF3;n del presente Decreto Alcaldicio.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case el Decreto Alcaldicio N&#xBA; 4.540 de 28 de diciembre de 2009, referido a la aprobaci&#xF3;n de la &quot;Ordenanza Municipal Sobre Uso de la Plaza Gobernador Benjam&#xED;n Mu&#xF1;oz Gamero&quot; en el sentido de incorporar el art&#xED;culo transitorio que se indica:</div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Transitorio</div><br><div class=\"p\">&nbsp; &nbsp;  Las actividades artesanales que se autoricen en la Plaza Gobernador Benjam&#xED;n Mu&#xF1;oz Gamero, podr&#xE1;n realizarse hasta que el municipio <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1017007&amp;idParte=8982878&amp;idVersion=2010-09-13\">Decreto 3151,<br>M. DE PUNTA ARENAS<br>N&#xBA; 1<br>D.O. 13.09.2010</a></span>disponga del Centro Artesanal que se espera est&#xE9; finalizando a mediados del a&#xF1;o 2011, priorizando a los asignatarios de carros de exhibici&#xF3;n y venta de productos artesanales y, una vez asignados la totalidad de estos, considerar excepcionalmente el desarrollo de estas actividades sin el uso de los mencionados carros.</div><br><div class=\"p\">&nbsp; &nbsp;  2. D&#xE9;jase establecido que para todos los efectos legales se mantiene vigente todo lo no modificado en el decreto original.</div><br><div class=\"p\">&nbsp; &nbsp;  3. Proc&#xE9;dase por el Departamento de Comunicaciones, a tramitar la publicaci&#xF3;n del presente Decreto Alcaldicio.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1017007,
+      "fecha": "2010-09-13"
+    }
+  }
+]

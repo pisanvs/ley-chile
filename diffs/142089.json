@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-04-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-12-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6187280,
+          "old": "<div><div class=\"p\">DEROGA DECRETO No. 38, DE 1987, Y AUTORIZA A ENTIDADES ASEGURADORAS QUE INDICA PARA EMITIR POLIZAS DE SEGUROS DE FIANZA Y RESPONSABILIDAD PERSONAL EN FAVOR DEL ESTADO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 196.- Santiago, 26 de Febrero de 1987.- Vistos: Lo informado por la Superintendencia de Valores y Seguros, lo dispuesto en el art&#xED;culo 73&#xB0;, letra d) de la Ley No. 10.336, art&#xED;culo 68&#xB0; del Decreto Supremo de Defensa No. 226, de 20 de Noviembre de 1979 y las facultades que me confiere el art&#xED;culo 38&#xB0;, No. 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DEROGA DECRETO No. 38, DE 1987, Y AUTORIZA A ENTIDADES ASEGURADORAS QUE INDICA PARA EMITIR POLIZAS DE SEGUROS DE FIANZA Y RESPONSABILIDAD PERSONAL EN FAVOR DEL ESTADO </div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 196.- Santiago, 26 de Febrero de 1987.- Vistos: Lo informado por la Superintendencia de Valores y Seguros, lo dispuesto en el art&#xED;culo 73&#xB0;, letra d) de la Ley No. 10.336, art&#xED;culo 68&#xB0; del Decreto Supremo de Defensa No. 226, de 20 de Noviembre de 1979 y las facultades que me confiere el art&#xED;culo 38&#xB0;, No. 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-08-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9805661,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.- Los ministerios del Trabajo y Previsi&#xF3;n Social y de Desarrollo Social deber&#xE1;n evaluar conjuntamente los resultados de la implementaci&#xF3;n de esta ley cada cuatro a&#xF1;os, y deber&#xE1;n informar de ello a la Comisi&#xF3;n de Trabajo y Previsi&#xF3;n Social del Senado y a la Comisi&#xF3;n de Desarrollo Social, Superaci&#xF3;n de la Pobreza y Planificaci&#xF3;n de la C&#xE1;mara de Diputados.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.- Los ministerios del Trabajo y Previsi&#xF3;n Social y de Desarrollo Social <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1206100&amp;idParte=10513856&amp;idVersion=2024-08-24\">Ley 21690<br>Art. 5&#xB0; N&#xBA;s 1, 2 y 3<br>D.O. 24.08.2024</a></span>y Familia deber&#xE1;n evaluar conjuntamente los resultados de la implementaci&#xF3;n de esta ley cada tres a&#xF1;os contados desde su entrada en vigencia, y deber&#xE1;n informar de ello a la Comisi&#xF3;n de Trabajo y Previsi&#xF3;n Social del Senado y a la Comisi&#xF3;n de Desarrollo Social, Superaci&#xF3;n de la Pobreza y Planificaci&#xF3;n y a la Comisi&#xF3;n de Personas Mayores y Discapacidad, ambas de la C&#xE1;mara de Diputados. En su informe deber&#xE1; indicar, a lo menos, la cantidad de empresas e instituciones p&#xFA;blicas obligadas a dar cumplimiento a la ley, datos estad&#xED;sticos sobre el cumplimiento de las disposiciones de esta ley, las caracter&#xED;sticas de los contratos de trabajo que se hubieren celebrado en conformidad a ella, su duraci&#xF3;n promedio y las causas de t&#xE9;rmino de la relaci&#xF3;n laboral de personas con discapacidad y/o asignatarias de una pensi&#xF3;n de invalidez de cualquier r&#xE9;gimen previsional.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1206100,
+      "fecha": "2024-08-24"
+    }
+  }
+]

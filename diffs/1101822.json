@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2017-04-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-07-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9788346,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rgase el otorgamiento de permisos de subdivisi&#xF3;n, loteo, urbanizaci&#xF3;n y de construcci&#xF3;n, por el plazo de tres meses, para los predios afectados por la Modificaci&#xF3;n &quot;&#xC1;reas Verdes Costanera Sur Oriente&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2. Mediante el presente decreto, se informar&#xE1; a los interesados en la Direcci&#xF3;n de Obras Municipales.</div><div class=\"p\">&nbsp; &nbsp;  3. La postergaci&#xF3;n de permisos de edificaci&#xF3;n antes se&#xF1;alada regir&#xE1; desde la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese el presente decreto a trav&#xE9;s de la Direcci&#xF3;n de Comunicaciones y Prensa en el Diario Oficial y en uno de los peri&#xF3;dicos de mayor circulaci&#xF3;n comunal.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rgase el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>otorgamiento de permisos de subdivisi&#xF3;n, loteo, urbanizaci&#xF3;n y de construcci&#xF3;n, por el plazo de tres meses, para los predios afectados por la Modificaci&#xF3;n &quot;&#xC1;reas Verdes Costanera Sur Oriente&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2. Mediante el presente decreto, se informar&#xE1; a los interesados en la Direcci&#xF3;n de Obras Municipales.</div><div class=\"p\">&nbsp; &nbsp;  3. La postergaci&#xF3;n de permisos de edificaci&#xF3;n antes se&#xF1;alada regir&#xE1; desde la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese el presente decreto a trav&#xE9;s de la Direcci&#xF3;n de Comunicaciones y Prensa en el Diario Oficial y en uno de los peri&#xF3;dicos de mayor circulaci&#xF3;n comunal.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1991 Exenta, Vivienda, publicada el 12.07.2017, modifica la presente norma en el sentido de prorrogar por el plazo de nueve meses la pr&#xF3;rroga de postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, correspondiente al &#xE1;rea definida en el &quot;Plano Ilustrativo de &#xC1;reas de Postergaci&#xF3;n de Permisos de Subdivisi&#xF3;n, Loteo o Urbanizaci&#xF3;n Predial y Construcci&#xF3;n para los Lotes 1, 2 y 3&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

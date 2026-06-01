@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2023-04-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-01-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10421799,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1.- Agr&#xE9;ganse en el inciso segundo del <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=29636&amp;idParte=7181848&amp;idVersion=2023-04-10\">art&#xED;culo 1</a> de la <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=29636&amp;idVersion=2023-04-10&amp;idParte=\">ley N&#xB0; 18.216</a>, que establece penas que indica como sustitutivas a las penas privativas o restrictivas de libertad, a continuaci&#xF3;n del punto y aparte, que ha pasado a ser punto y seguido, las siguientes oraciones: &quot;Tampoco proceder&#xE1; respecto de aquellos delitos contra la vida y la integridad f&#xED;sica de funcionarios de Carabineros de Chile, Polic&#xED;a de Investigaciones y&nbsp; Gendarmer&#xED;a&nbsp; de&nbsp; Chile.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, tampoco proceder&#xE1; respecto de los funcionarios de las Fuerzas Armadas y servicios de su dependencia, en cumplimiento del deber, exclusivamente, en el marco de funciones de resguardo del orden p&#xFA;blico, tales como las que se ejercen durante estados de excepci&#xF3;n constitucional, en protecci&#xF3;n de la infraestructura cr&#xED;tica, resguardo de fronteras y funciones de polic&#xED;a, cuando correspondan o cuando se desempe&#xF1;an en el marco de sus funciones fiscalizadoras.&quot;.&nbsp; &nbsp; &nbsp; </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1200085&amp;idParte=10485651&amp;idVersion=2024-01-13\">Rectificaci&#xF3;n S/N<br>D.O. 13.01.2024</a></span>rt&#xED;culo 1.- Agr&#xE9;ganse en el inciso segundo del art&#xED;culo 1 de la ley N&#xB0; 18.216, que establece penas que indica como sustitutivas a las penas privativas o restrictivas de libertad, a continuaci&#xF3;n del punto y aparte, que ha pasado a ser punto y seguido, las siguientes oraciones: &quot;Tampoco proceder&#xE1; respecto de aquellos delitos contra la vida y la integridad f&#xED;sica de funcionarios de Carabineros de Chile, Polic&#xED;a de Investigaciones y&nbsp; Gendarmer&#xED;a&nbsp; de&nbsp; Chile. Asimismo, tampoco proceder&#xE1; respecto de los funcionarios de las Fuerzas Armadas y servicios de su dependencia, en cumplimiento del deber, exclusivamente, en el marco de funciones de resguardo del orden p&#xFA;blico, tales como las que se ejercen durante estados de excepci&#xF3;n constitucional, en protecci&#xF3;n de la infraestructura cr&#xED;tica, resguardo de fronteras y funciones de polic&#xED;a, cuando correspondan o cuando se desempe&#xF1;an en el marco de sus funciones fiscalizadoras.&quot;. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1200085,
+      "fecha": "2024-01-13"
+    }
+  }
+]

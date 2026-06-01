@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-10-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-01-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8952947,
+          "old": "<div><div class=\"p\">APRUEBA PLAN REGULADOR COMUNAL DE CODEGUA</div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">N&#xFA;m. 13.- Rancagua, 16 de Julio de 1990.- Vistos:</div><div class=\"p\">a) Lo dispuesto en los art&#xED;culos 2&#xB0; y 21&#xB0; de la Ley 16.391 y 12 del Decreto Ley No. 1305; el DS No. 397 (V. y U.) de 1976; los art&#xED;culos 41, 42, 43 y 44, el DS No. 458 (V. y U.) de 1975, Ley General de Urbanismo y Construcciones, modificada por la Ley No. 18.738, los art&#xED;culos 447 y 550 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n, ambas disposiciones legales modificadas por DS No. 224, publicado en el Diario Oficial del 14 de Enero de 1989; el Decreto Alcaldicio Exento No. 84 del 10 de Abril de 1990, de la Ilustre Municipalidad de Codegua, que ratific&#xF3; el acuerdo mediante el cual el Consejo de Desarrollo Comunal en Sesi&#xF3;n No. 04 de 05 de Abril de 1990, aprob&#xF3; el Plan Regulador Comunal de Codegua; el Memorandum No. 109 de 13 de Junio de 1990, de la Unidad de Desarrollo Urbano e Infraestructura de la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo VI Regi&#xF3;n, que adjunta Informe T&#xE9;cnico Favorable del Plan Regulador Comunal de Codegua, la Resoluci&#xF3;n No. 136 de 14 de Mayo de 1990, del Ministerio de Vivienda y Urbanismo, que nombra Secretario Regional Ministerial de Vivienda y Urbanismo en la VI Regi&#xF3;n del Libertador Bernardo O&apos;Higgins, y los dem&#xE1;s antecedentes que se acompa&#xF1;an dicto la siguiente:</div><br><div class=\"p\">Resoluci&#xF3;n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA PLAN REGULADOR COMUNAL DE CODEGUA</div><br><div class=\"p\">N&#xFA;m. 13.- Rancagua, 16 de Julio de 1990.- Vistos:</div><div class=\"p\">a) Lo dispuesto en los art&#xED;culos 2&#xB0; y 21&#xB0; de la Ley 16.391 y 12 del Decreto Ley No. 1305; el DS No. 397 (V. y U.) de 1976; los art&#xED;culos 41, 42, 43 y 44, el DS No. 458 (V. y U.) de 1975, Ley General de Urbanismo y Construcciones, modificada por la Ley No. 18.738, los art&#xED;culos 447 y 550 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n, ambas disposiciones legales modificadas por DS No. 224, publicado en el Diario Oficial del 14 de Enero de 1989; el Decreto Alcaldicio Exento No. 84 del 10 de Abril de 1990, de la Ilustre Municipalidad de Codegua, que ratific&#xF3; el acuerdo mediante el cual el Consejo de Desarrollo Comunal en Sesi&#xF3;n No. 04 de 05 de Abril de 1990, aprob&#xF3; el Plan Regulador Comunal de Codegua; el Memorandum No. 109 de 13 de Junio de 1990, de la Unidad de Desarrollo Urbano e Infraestructura de la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo VI Regi&#xF3;n, que adjunta Informe T&#xE9;cnico Favorable del Plan Regulador Comunal de Codegua, la Resoluci&#xF3;n No. 136 de 14 de Mayo de 1990, del Ministerio de Vivienda y Urbanismo, que nombra Secretario Regional Ministerial de Vivienda y Urbanismo en la VI Regi&#xF3;n del Libertador Bernardo O&apos;Higgins, y los dem&#xE1;s antecedentes que se acompa&#xF1;an dicto la siguiente:</div><br><div class=\"p\">Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1992-03-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-07-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8232320,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; SEGUNDA.- Dentro de los treinta d&#xED;as siguientes a la publicaci&#xF3;n de esta ley, los secretarios municipales proceder&#xE1;n a abrir los registros para la inscripci&#xF3;n de las organizaciones que participar&#xE1;n en las elecciones de los miembros de los consejos econ&#xF3;micos y sociales respectivos, los que permanecer&#xE1;n abiertos por el t&#xE9;rmino de sesenta d&#xED;as.</div><div class=\"p\">&nbsp; &nbsp; En la primera constituci&#xF3;n de los consejos econ&#xF3;micos y sociales comunales, se exigir&#xE1; a las organizaciones el requisito de antig&#xFC;edad de un a&#xF1;o, contado hacia atr&#xE1;s desde la fecha de publicaci&#xF3;n de esta ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; SEGUNDA.- Dentro de los treinta d&#xED;as siguientes a la publicaci&#xF3;n de esta ley, los secretarios municipales proceder&#xE1;n a abrir los registros para la inscripci&#xF3;n de las organizaciones que participar&#xE1;n en las elecciones de los miembros de los consejos econ&#xF3;micos y sociales<span class=\"n\" id=\"n_0\">LEY 19150<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 07.07.1992</span> respectivos, los que permanecer&#xE1;n abiertos hasta el 31 de agosto de 1992. En la primera constituci&#xF3;n de los consejos econ&#xF3;micos y sociales comunales, se exigir&#xE1; a las organizaciones el requisito de antig&#xFC;edad de un a&#xF1;o, contado hacia atr&#xE1;s desde la fecha de publicaci&#xF3;n de esta ley. </div></div>"
+        },
+        {
+          "part_id": 8232321,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; TERCERA.- Los primeros consejos econ&#xF3;micos y sociales comunales se instalar&#xE1;n dentro de los treinta d&#xED;as siguientes a aquel en que asuman los concejos elegidos en conformidad con esta ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; TERCERA.- Los primeros consejos econ&#xF3;micos y sociales comunales se instalar&#xE1;n dentro de los noventa<span class=\"n\" id=\"n_1\">LEY 19150<br>Art. &#xFA;nico N&#xBA; 2<br>D.O. 07.07.1992</span> d&#xED;as siguientes a aquel en que asuman los concejos elegidos en conformidad con esta ley. </div></div>"
+        }
+      ]
+    }
+  }
+]

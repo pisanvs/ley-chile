@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1999-09-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6191640,
+          "old": "<div><div class=\"p\">FIJA FECHA DE PUESTA EN MARCHA DE OPERACION DE PLANTAS DE CONCESIONES QUE INDICA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 83 exenta.- Antofagasta, 10 de agosto de 1999.- Visto: Lo dispuesto en el art&#xED;culo 2&#xBA; del D.S. 156/90 y lo se&#xF1;alado en el punto 3.7 de las Bases Administrativas y T&#xE9;cnicas de Licitaci&#xF3;n P&#xFA;blica de cinco (5) concesiones para operar establecimientos que practiquen revisiones t&#xE9;cnicas de veh&#xED;culos en la II Regi&#xF3;n de Antofagasta,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA FECHA DE PUESTA EN MARCHA DE OPERACION DE PLANTAS DE CONCESIONES QUE INDICA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 83 exenta.- Antofagasta, 10 de agosto de 1999.- Visto: Lo dispuesto en el art&#xED;culo 2&#xBA; del D.S. 156/90 y lo se&#xF1;alado en el punto 3.7 de las Bases Administrativas y T&#xE9;cnicas de Licitaci&#xF3;n P&#xFA;blica de cinco (5) concesiones para operar establecimientos que practiquen revisiones t&#xE9;cnicas de veh&#xED;culos en la II Regi&#xF3;n de Antofagasta,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        },
+        {
+          "part_id": 6191641,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- F&#xED;jase el 3 de enero de 2000 como fecha de puesta en marcha de la operaci&#xF3;n de las plantas de las concesiones adjudicadas a:</div><br><div class=\"p\">&nbsp; &nbsp;  Sociedad A. Denham y C&#xED;a. Ltda., Calama, por resoluci&#xF3;n N&#xBA; 50/99, publicada con fecha 4 de agosto de 1999 en el Diario Oficial;</div><div class=\"p\">&nbsp; &nbsp;  Sociedad Middleton y Compa&#xF1;&#xED;a Limitada, Calama, por resoluci&#xF3;n N&#xBA; 51/99, publicada con fecha 4 de agosto de 1999 en el Diario Oficial;</div><div class=\"p\">&nbsp; &nbsp;  Sociedad Automotora Villa Alemana Ltda., Antofagasta por resoluci&#xF3;n N&#xBA; 52/99, publicada con fecha 4 de agosto de 1999 en el Diario Oficial; y,</div><div class=\"p\">&nbsp; &nbsp;  Sociedad Ormazabal Hijos Limitada, Antofagasta, por resoluci&#xF3;n N&#xBA; 53/99, publicada con fecha 4 de agosto de 1999 en el Diario Oficial.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- F&#xED;jase a m&#xE1;s tardar el 1 de marzo del 2000 como<span class=\"n\" id=\"n_0\">RES 153 EXENTA<br>TRANSPORTES<br>D.O. 07.01.2000</span> fecha de puesta en marcha de la operaci&#xF3;n de las plantas de las concesiones adjudicadas a:</div><br><div class=\"p\">&nbsp; &nbsp;  Sociedad A. Denham y C&#xED;a. Ltda., Calama, por resoluci&#xF3;n N&#xBA; 50/99, publicada con fecha 4 de agosto de 1999 en el Diario Oficial;</div><div class=\"p\">&nbsp; &nbsp;  Sociedad Middleton y Compa&#xF1;&#xED;a Limitada, Calama, por resoluci&#xF3;n N&#xBA; 51/99, publicada con fecha 4 de agosto de 1999 en el Diario Oficial;</div><div class=\"p\">&nbsp; &nbsp;  Sociedad Automotora Villa Alemana Ltda., Antofagasta por resoluci&#xF3;n N&#xBA; 52/99, publicada con fecha 4 de agosto de 1999 en el Diario Oficial; y,</div><div class=\"p\">&nbsp; &nbsp;  Sociedad Ormazabal Hijos Limitada, Antofagasta, por resoluci&#xF3;n N&#xBA; 53/99, publicada con fecha 4 de agosto de 1999 en el Diario Oficial.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

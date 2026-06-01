@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1972-01-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-06-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5982202,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA A CAPRECA PARA DISPONER DEL EXCEDENTE DEL 1,5% PARA PAGOS DE SUBSIDIOS DE REPOSO PREVENTIVO Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\"> AUTORIZA A CAPRECA PARA DISPONER DEL EXCEDENTE DEL<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"> 1,5% PARA PAGOS DE SUBSIDIOS DE REPOSO PREVENTIVO</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 6&#xB0; del DL 1812, Defensa, publicado el 09.06.1977, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

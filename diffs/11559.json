@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-07-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-07-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8260809,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE VEDA DEL RECURSO MERLUZA DEL SUR EN ZONA QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 254.- Santiago, 26 de Junio de 1991.- Vistos: Lo informado por la Subsecretar&#xED;a de Pesca; lo dispuesto en el Art&#xED;culo 32 N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; el D.F.L. N&#xB0; 5, de 1983; la Ley 10.336, y Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que es un deber del Estado velar por la protecci&#xF3;n, conservaci&#xF3;n y aprovechamiento integral de los recursos hidrobiol&#xF3;gicos que existen en el medio ambiente acu&#xE1;tico de la Naci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Que de acuerdo a los antecedentes t&#xE9;cnicos disponibles resulta necesario fijar una veda biol&#xF3;gica para el recurso merluza del sur (Merluccius australis) en la zona de crianza que indica.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE VEDA DEL RECURSO MERLUZA DEL SUR EN ZONA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 254.- Santiago, 26 de Junio de 1991.- Vistos: Lo informado por la Subsecretar&#xED;a de Pesca; lo dispuesto en el Art&#xED;culo 32 N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; el D.F.L. N&#xB0; 5, de 1983; la Ley 10.336, y Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que es un deber del Estado velar por la protecci&#xF3;n, conservaci&#xF3;n y aprovechamiento integral de los recursos hidrobiol&#xF3;gicos que existen en el medio ambiente acu&#xE1;tico de la Naci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Que de acuerdo a los antecedentes t&#xE9;cnicos disponibles resulta necesario fijar una veda biol&#xF3;gica para el recurso merluza del sur (Merluccius australis) en la zona de crianza que indica.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

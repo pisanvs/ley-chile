@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-01-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-01-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6513756,
+          "old": "<div><div class=\"p\">ESTABLECE PROCEDIMIENTOS DE CONTROL PARA LA PESQUERIA MERLUZA DEL SUR, ADMINISTRADO&nbsp; BAJO REGIMEN ARTESANAL DE EXTRACCION EN LA XI REGION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 18.- Valpara&#xED;so, 14 de enero de 2005.- Visto: Lo dispuesto en el D.S. 430 de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, que fija el texto refundido, coordinado y sistematizado de la ley N&#xBA; 18.892 y sus modificaciones, Ley General de Pesca y Acuicultura; el D.F.L. N&#xBA; 5 de 1983; el decreto N&#xBA; 114 de 2005 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la resoluci&#xF3;n N&#xBA; 180 de 2005 de la Subsecretar&#xED;a de Pesca.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, en conformidad con el decreto exento N&#xBA; 114 de 2005 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, se ha establecido el R&#xE9;gimen Artesanal de Extracci&#xF3;n para la pesquer&#xED;a artesanal de la merluza del sur en aguas interiores de la XI Regi&#xF3;n, bajo la modalidad de Organizaciones de Pescadores Artesanales.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, es necesario establecer procedimientos de control de la cuota de captura asignada en conformidad con la medida de administraci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Que corresponde al Servicio Nacional de Pesca ejecutar la pol&#xED;tica pesquera nacional y fiscalizar su cumplimiento.</div><div class=\"p\">&nbsp; &nbsp;  Que corresponde al Director Nacional de Pesca dictar resoluciones para la aplicaci&#xF3;n y fiscalizaci&#xF3;n de las leyes y reglamentos sobre pesca, caza mar&#xED;tima y dem&#xE1;s formas de explotaci&#xF3;n de recursos hidrobiol&#xF3;gicos </div><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o </div></div>",
+          "new": "<div><div class=\"p\">ESTABLECE PROCEDIMIENTOS DE CONTROL PARA LA PESQUERIA MERLUZA DEL SUR, ADMINISTRADO&nbsp; BAJO REGIMEN ARTESANAL DE EXTRACCION EN LA XI REGION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 18.- Valpara&#xED;so, 14 de enero de 2005.- Visto: Lo dispuesto en el D.S. 430 de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, que fija el texto refundido, coordinado y sistematizado de la ley N&#xBA; 18.892 y sus modificaciones, Ley General de Pesca y Acuicultura; el D.F.L. N&#xBA; 5 de 1983; el decreto N&#xBA; 114 de 2005 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la resoluci&#xF3;n N&#xBA; 180 de 2005 de la Subsecretar&#xED;a de Pesca.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, en conformidad con el decreto exento N&#xBA; 114 de 2005 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, se ha establecido el R&#xE9;gimen Artesanal de Extracci&#xF3;n para la pesquer&#xED;a artesanal de la merluza del sur en aguas interiores de la XI Regi&#xF3;n, bajo la modalidad de Organizaciones de Pescadores Artesanales.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, es necesario establecer procedimientos de control de la cuota de captura asignada en conformidad con la medida de administraci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Que corresponde al Servicio Nacional de Pesca ejecutar la pol&#xED;tica pesquera nacional y fiscalizar su cumplimiento.</div><div class=\"p\">&nbsp; &nbsp;  Que corresponde al Director Nacional de Pesca dictar resoluciones para la aplicaci&#xF3;n y fiscalizaci&#xF3;n de las leyes y reglamentos sobre pesca, caza mar&#xED;tima y dem&#xE1;s formas de explotaci&#xF3;n de recursos hidrobiol&#xF3;gicos </div><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-09-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-07-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7202672,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NOMINA Y GARANTIA DE ADITIVOS A SER USADOS EN LA FABRICACION DE ALIMENTOS Y SUPLEMENTOS PARA ANIMALES Y DEROGA RESOLUCIONES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.814 exenta.- Santiago, 12 septiembre de 1996.- Vistos: Lo dispuesto en el art&#xED;culo N&#xB0; 9 del Decreto Supremo N&#xB0; 307 del 25 de Octubre de 1979, del Ministerio de Agricultura y en la Ley N&#xB0; 18.755 de 1989, modificada por la Ley N&#xB0; 19.283 de 1994.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que es necesario establecer la n&#xF3;mina de aditivos autorizados y componentes que los aportan, para su uso en la alimentaci&#xF3;n animal.</div><div class=\"p\">&nbsp; &nbsp; Que es necesario exigir un determinado tipo de garant&#xED;a a los aditivos autorizados y sus componentes.</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE NOMINA Y GARANTIA DE ADITIVOS A SER USADOS EN LA FABRICACION DE ALIMENTOS Y SUPLEMENTOS PARA ANIMALES Y DEROGA RESOLUCIONES QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.814 exenta.- Santiago, 12 septiembre de 1996.- Vistos: Lo dispuesto en el art&#xED;culo N&#xB0; 9 del Decreto Supremo N&#xB0; 307 del 25 de Octubre de 1979, del Ministerio de Agricultura y en la Ley N&#xB0; 18.755 de 1989, modificada por la Ley N&#xB0; 19.283 de 1994.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que es necesario establecer la n&#xF3;mina de aditivos autorizados y componentes que los aportan, para su uso en la alimentaci&#xF3;n animal.</div><div class=\"p\">&nbsp; &nbsp; Que es necesario exigir un determinado tipo de garant&#xED;a a los aditivos autorizados y sus componentes.</div><br><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

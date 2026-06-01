@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-06-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7245782,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Autor&#xED;zase el funcionamiento al Centro de Formaci&#xF3;n T&#xE9;cnica San Agust&#xED;n de Talca, organizado por la &quot;Sociedad Educacional Alto Las Cruces Limitada&quot; o &quot;Alto Las Cruces Ltda.&quot;, cuyo fin es la docencia para egresados de ense&#xF1;anza media, en el &#xE1;rea de administraci&#xF3;n, comercio y tecnolog&#xED;a.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Autor&#xED;zase el funcionamiento al Centro de Formaci&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> T&#xE9;cnica San Agust&#xED;n de Talca, organizado por la &quot;Sociedad Educacional Alto Las Cruces Limitada&quot; o &quot;Alto Las Cruces Ltda.&quot;, cuyo fin es la docencia para egresados de ense&#xF1;anza media, en el &#xE1;rea de administraci&#xF3;n, comercio y tecnolog&#xED;a.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1 del Decreto 776 Exento, Educaci&#xF3;n, publicado el 02.08.2017 modifica la presente norma quedando como a continuaci&#xF3;n se indica:<br>&nbsp; &nbsp;  Nombre de la Instituci&#xF3;n : Centro de Formaci&#xF3;n T&#xE9;cnica <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; San Agust&#xED;n.<br>&nbsp; &nbsp;  Organizador&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Fundaci&#xF3;n Centro de <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Formaci&#xF3;n T&#xE9;cnica San <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Agust&#xED;n del Maule.<br>&nbsp; &nbsp;  Representante Legal&nbsp; &nbsp; &nbsp; : Presidente del Directorio.</div></div>"
+        }
+      ]
+    }
+  }
+]

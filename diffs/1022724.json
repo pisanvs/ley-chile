@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9107520,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase como receptor judicial para practicar permanentemente las actuaciones inherentes a ese cargo, en las causas que se tramitan ante los Juzgados de Polic&#xED;a Local de Los &#xC1;ngeles, en conformidad a las disposiciones del decreto ley N&#xBA; 2.974, de 1979, al funcionario Humberto Alfredo Lafont Torres, C&#xE9;dula de Identidad N&#xBA; 6.571.841-3, Grado 9&#xBA; EUR, planta profesional, con desempe&#xF1;o en la Regi&#xF3;n del B&#xED;o B&#xED;o.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase como receptor judicial para practicar permanentemente las actuaciones inherentes a ese cargo, en las causas que se tramitan ante los Juzgados de Polic&#xED;a Local de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Los &#xC1;ngeles, en conformidad a las disposiciones del decreto ley N&#xBA; 2.974, de 1979, al funcionario Humberto Alfredo Lafont Torres, C&#xE9;dula de Identidad N&#xBA; 6.571.841-3, Grado 9&#xBA; EUR, planta profesional, con desempe&#xF1;o en la Regi&#xF3;n del B&#xED;o B&#xED;o.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La resoluci&#xF3;n 31511 Exenta, Agricultura, publicada el 05.05.2011, viene a modificar la presente resoluci&#xF3;n en el sentido de ampliar la designaci&#xF3;n como receptor judicial para practicar permanentemente las actuaciones inherentes a ese cargo, en las causas que se tramiten ante los Juzgados de Polic&#xED;a Local de la Regi&#xF3;n del B&#xED;o B&#xED;o, al funcionario Humberto Alfredo Lafont Torres, C.I. 6.571.841-3, Grado 9&#xBA; EUR, Planta Profesional, con desempe&#xF1;o en la Regi&#xF3;n del B&#xED;o B&#xED;o.</div></div>"
+        }
+      ]
+    }
+  }
+]

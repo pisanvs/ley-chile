@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-12-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6209881,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA; 3.138, de 20 de octubre de 1999, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y del DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 35-D, para la obra: &apos;&apos;Concesi&#xF3;n Internacional Ruta 5; Tramo Collipulli - Temuco&apos;&apos;; Km. 608,49000 a Km. 610,40000, Novena Regi&#xF3;n, que figura a nombre de I. Municipalidad de Victoria, rol de aval&#xFA;o 698-155, comuna de Victoria, superficie 4.077 m2. La Comisi&#xF3;n de Peritos, integrada por los se&#xF1;ores Luis Javier Donoso Moreno, Patricio Fernando Casagrande Ulloa y Hugo Wilibaldo Repetto Vera, fij&#xF3; con fecha 28 de junio de 1999, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $82.654.500. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA; 3.138, de 20 de octubre de 1999, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y del DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 35-D, para la obra: &quot;Concesi&#xF3;n Internacional Ruta 5; Tramo Collipulli - Temuco&quot;; Km. 608,49000 a Km. 610,40000, Novena Regi&#xF3;n, que figura a nombre de I. Munic. De<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 15.01.2000</span> Victoria, rol de aval&#xFA;o 698-155, comuna de Victoria, superficie 4.077 m2. La Comisi&#xF3;n de Peritos, integrada por los se&#xF1;ores Luis Javier Donoso Moreno, Patricio Fernando Casagrande Ulloa y Hugo Wilibaldo Repetto Vera, fij&#xF3; con fecha 28 de junio de 1999, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $82.654.500. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978. </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-10-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6269182,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MARIA MU&#xD1;OZ ALVAREZ PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MARIA MU&#xD1;OZ ALVAREZ PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2015-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-04-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9585288,
+          "old": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase a la Regi&#xF3;n de Atacama, a contar de esta fecha, como afectada por la cat&#xE1;strofe derivada de las precipitaciones que han asolado a esa zona.</div><div class=\"p\">&nbsp;  </div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase a la Regi&#xF3;n de Atacama, a contar de esta <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>fecha, como afectada por la cat&#xE1;strofe derivada de las precipitaciones que han asolado a esa zona.</div><br><br><div class=\"p\">&nbsp;  </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 331, Interior, publicado el 22.04.2016, modifica la presente norma en el sentido de extender el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe de la Regi&#xF3;n de Atacama por seis meses contados desde el 25 de marzo de 2016.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2016-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9585288,
+          "old": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase a la Regi&#xF3;n de Atacama, a contar de esta <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>fecha, como afectada por la cat&#xE1;strofe derivada de las precipitaciones que han asolado a esa zona.</div><br><br><div class=\"p\">&nbsp;  </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 331, Interior, publicado el 22.04.2016, modifica la presente norma en el sentido de extender el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe de la Regi&#xF3;n de Atacama por seis meses contados desde el 25 de marzo de 2016.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase a la Regi&#xF3;n de Atacama, a contar de esta <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>fecha, como afectada por la cat&#xE1;strofe derivada de las precipitaciones que han asolado a esa zona.</div><br><br><div class=\"p\">&nbsp;  </div><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 331, Interior, publicado el 22.04.2016, modifica la presente norma en el sentido de extender el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe de la Regi&#xF3;n de Atacama por seis meses contados desde el 25 de marzo de 2016.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 1355, Interior, publicado el 08.11.2016, modifica la presente norma en el sentido de extender el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe de la Regi&#xF3;n de Atacama por seis meses contados desde el 25 de septiembre de 2016.</div></div>"
+        }
+      ]
+    }
+  }
+]

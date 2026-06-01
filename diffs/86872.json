@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-11-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8318204,
+          "old": "<div><div class=\"p\">FIJA VALORES DE DOCUMENTOS QUE INDICA Y DEROGA DECRETO QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 395.- Santiago, 12 de Septiembre de 1991.- Vistos: Lo dispuesto en el Decreto Ley No. 2.136 de 1978; y la facultad que me confiere el Art&#xED;culo 32&#xB0; No. 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">FIJA VALORES DE DOCUMENTOS QUE INDICA Y DEROGA DECRETO QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 395.- Santiago, 12 de Septiembre de 1991.- Vistos: Lo dispuesto en el Decreto Ley No. 2.136 de 1978; y la facultad que me confiere el Art&#xED;culo 32&#xB0; No. 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

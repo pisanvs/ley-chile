@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9915589,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;: Lo dispuesto en los art&#xED;culos precedentes regir&#xE1; a contar del 31 de diciembre de 2018, con el objeto de permitir la finalizaci&#xF3;n de los procesos acad&#xE9;micos pendientes de los alumnos del Centro.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;: Lo dispuesto en los art&#xED;culos precedentes regir&#xE1; a contar del 31 <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1128560&amp;idParte=9997465&amp;idVersion=2019-02-06\">Decreto 53 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 06.02.2019</a></span>de agosto de 2019, con el objeto de permitir la finalizaci&#xF3;n de los procesos acad&#xE9;micos pendientes de los alumnos del Centro.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1128560,
+      "fecha": "2019-02-06"
+    }
+  }
+]

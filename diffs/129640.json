@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-08-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7243834,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

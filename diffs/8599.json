@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1994-03-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-01-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8939040,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- F&#xED;janse los siguientes valores por cada hoja tama&#xF1;o oficio o menor de los documentos que deba proporcionarse a particulares por la Subsecretar&#xED;a de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n:</div><div class=\"p\"> a) Certificado de vigencia de personalidad jur&#xED;dica de cooperativa: $550.- (quinientos cincuenta pesos).</div><div class=\"p\"> b) Copias fotost&#xE1;ticas, mimeografiadas de reglamentos, decretos, resoluciones y documentos en general:</div><div class=\"p\">&nbsp; &nbsp; $110.- (cientos diez pesos).</div><div class=\"p\"> c) Certificado de inscripci&#xF3;n en los registros que corresponde llevar al Ministerio y certificados en general, siempre que su daci&#xF3;n gratuita no est&#xE9; dispuesta por Ley: $550.- (quinientos cincuenta pesos).</div><div class=\"p\"> d) Documentos impresos en general $110.- (ciento diez pesos).</div><div class=\"p\"> e) Fotocopias de Patentes de Invenci&#xF3;n (reproducida por lector impresor de microfichas): $280.- (docientos ochenta pesos).</div><div class=\"p\"> f) Documentos de Registros de Marcas Comerciales:</div><div class=\"p\">&nbsp; &nbsp; $280.- (doscientos ochenta pesos).</div><div class=\"p\"> g) Documentos de Solicitud de Registro de Patentes:</div><div class=\"p\">&nbsp; &nbsp; $280.- (doscientos ochenta pesos).</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- F&#xED;janse los siguientes valores por cada hoja tama&#xF1;o oficio o menor de los documentos que deba proporcionarse a particulares por la Subsecretar&#xED;a de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n:</div><div class=\"p\"> a) Certificado de vigencia de personalidad jur&#xED;dica de cooperativa: $550.- (quinientos cincuenta pesos).</div><div class=\"p\"> b) Copias fotost&#xE1;ticas, mimeografiadas de reglamentos, decretos, resoluciones y documentos en general: $110.- (cientos diez pesos).</div><div class=\"p\"> c) Certificado de inscripci&#xF3;n en los registros que corresponde llevar al Ministerio y certificados en general, siempre que su daci&#xF3;n gratuita no est&#xE9; dispuesta por Ley: $550.- (quinientos cincuenta pesos).</div><div class=\"p\"> d) Documentos impresos en general $110.- (ciento diez pesos).</div><div class=\"p\"> e) DEROGADA<span class=\"n\" id=\"n_0\">DTO 668, ECONOMIA<br>Art. 3&#xBA;<br>D.O. 06.01.1999</span></div><div class=\"p\"> f) DEROGADA</div><div class=\"p\"> g) DEROGADA.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2005-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8939040,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- F&#xED;janse los siguientes valores por cada hoja tama&#xF1;o oficio o menor de los documentos que deba proporcionarse a particulares por la Subsecretar&#xED;a de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n:</div><div class=\"p\"> a) Certificado de vigencia de personalidad jur&#xED;dica de cooperativa: $550.- (quinientos cincuenta pesos).</div><div class=\"p\"> b) Copias fotost&#xE1;ticas, mimeografiadas de reglamentos, decretos, resoluciones y documentos en general: $110.- (cientos diez pesos).</div><div class=\"p\"> c) Certificado de inscripci&#xF3;n en los registros que corresponde llevar al Ministerio y certificados en general, siempre que su daci&#xF3;n gratuita no est&#xE9; dispuesta por Ley: $550.- (quinientos cincuenta pesos).</div><div class=\"p\"> d) Documentos impresos en general $110.- (ciento diez pesos).</div><div class=\"p\"> e) DEROGADA<span class=\"n\" id=\"n_0\">DTO 668, ECONOMIA<br>Art. 3&#xBA;<br>D.O. 06.01.1999</span></div><div class=\"p\"> f) DEROGADA</div><div class=\"p\"> g) DEROGADA.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- F&#xED;janse los siguientes valores por cada hoja tama&#xF1;o oficio o menor de los documentos que deba proporcionarse a particulares por la Subsecretar&#xED;a de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n:</div><div class=\"p\"> a) Certificado de vigencia de personalidad jur&#xED;dica de cooperativa: $550.- (quinientos cincuenta pesos).</div><div class=\"p\"> b) Copias fotost&#xE1;ticas, mimeografiadas de reglamentos, decretos, resoluciones y documentos en general: $110.- (cientos diez pesos).</div><div class=\"p\"> c) Certificado de inscripci&#xF3;n en los registros que corresponde llevar al Ministerio y certificados en general, siempre que su daci&#xF3;n gratuita no est&#xE9; dispuesta por Ley: $550.- (quinientos cincuenta pesos). Sin embargo, los certificados relativos<span class=\"n\" id=\"n_0\">DTO 175, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 02.08.2005</span> al Registro Nacional de Martilleros, que se extiendan electr&#xF3;nicamente, estar&#xE1;n exentos de todo cobro.</div><div class=\"p\"> d) Documentos impresos en general $110.- (ciento diez pesos).</div><div class=\"p\"> e) DEROGADA<span class=\"n\" id=\"n_1\">DTO 668, ECONOMIA<br>Art. 3&#xBA;<br>D.O. 06.01.1999</span></div><div class=\"p\"> f) DEROGADA</div><div class=\"p\"> g) DEROGADA.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

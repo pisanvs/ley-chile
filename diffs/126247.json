@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-04-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8336067,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Autor&#xED;zase la circulaci&#xF3;n los d&#xED;as s&#xE1;bado&nbsp; en la tarde, domingo&nbsp; y festivos del veh&#xED;culo de la Intendencia Regi&#xF3;n del B&#xED;o B&#xED;o que a continuaci&#xF3;n se individualiza, el que adem&#xE1;s quedar&#xE1; exento de la obligaci&#xF3;n de usar el disco fiscal establecido en el art&#xED;culo 3&#xBA; del decreto ley N&#xBA; 799, de 1974:</div><br><br><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp; &nbsp; : Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp;  : Kia Motors</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; &nbsp; : Sportage DLX 2.0</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : 1997</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp;  : Gris plata</div><div class=\"p\">N&#xBA; motor&nbsp; &nbsp; &nbsp; : 725071</div><div class=\"p\">N&#xBA; chassis&nbsp; &nbsp; : 109595</div><div class=\"p\">Placa Unica&nbsp;  : PS-7291-K</div><div class=\"p\">I.R.V.M.&nbsp; &nbsp; &nbsp; : PS-7291-K</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: DEROGADO<span class=\"n\" id=\"n_0\">DTO 326 EXENTO,<br>INTERIOR<br>Art. &#xFA;nico<br>D.O. 04.04.2002</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

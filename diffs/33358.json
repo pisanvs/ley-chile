@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-02-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7195035,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA TARIFAS Y DEROGA RESOLUCIONES QUE INDICA N&#xFA;m. 133.- Valpara&#xED;so, 4 de Febrero de 1993.- Vistos: El D.S. (TT y TT), N&#xB0; 125 de fecha 03.08.90, publicado en el Diario Oficial del 11.01.91; la Resoluci&#xF3;n N&#xB0; 21 de fecha 18.01.91, que establece el Reglamento para los Servicios que presta la Empresa Portuaria; las Resoluciones N&#xB0;s. 0529 de fecha 24.06.91, 0617 del 12.07.91, 01160 del 25.11.91, 01278 del 19.12.91 y N&#xB0; 0468 de fecha 28.05.92, todas de esta Administraci&#xF3;n Puerto, que fijan las tarifas de Almacenamiento para los cinco primeros d&#xED;as y Otros Servicios; las facultades delegadas por Resoluci&#xF3;n N&#xB0; 250 del 21.12.81, de la Direcci&#xF3;n de la Empresa; y en virtud de las atribuciones que me han sido conferidas en mi calidad de Administrador del Puerto de Valpara&#xED;so, dicto la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA TARIFAS Y DEROGA RESOLUCIONES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 133.- Valpara&#xED;so, 4 de Febrero de 1993.- Vistos: El D.S. (TT y TT), N&#xB0; 125 de fecha 03.08.90, publicado en el Diario Oficial del 11.01.91; la Resoluci&#xF3;n N&#xB0; 21 de fecha 18.01.91, que establece el Reglamento para los Servicios que presta la Empresa Portuaria; las Resoluciones N&#xB0;s. 0529 de fecha 24.06.91, 0617 del 12.07.91, 01160 del 25.11.91, 01278 del 19.12.91 y N&#xB0; 0468 de fecha 28.05.92, todas de esta Administraci&#xF3;n Puerto, que fijan las tarifas de Almacenamiento para los cinco primeros d&#xED;as y Otros Servicios; las facultades delegadas por Resoluci&#xF3;n N&#xB0; 250 del 21.12.81, de la Direcci&#xF3;n de la Empresa; y en virtud de las atribuciones que me han sido conferidas en mi calidad de Administrador del Puerto de Valpara&#xED;so, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

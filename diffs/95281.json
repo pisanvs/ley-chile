@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-09-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-04-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325907,
+          "old": "<div><div class=\"p\">AUTORIZA A EXPORTADORA CONO SUR LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EXPORTADORA CONO SUR LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

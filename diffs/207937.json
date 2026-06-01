@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2003-02-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-11-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6415424,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- F&#xED;jase un porcentaje m&#xE1;ximo de desembarque de Langostino enano Pleuroncodes sp., ascendente a un 3%, medido en peso, en relaci&#xF3;n a la especie objetivo, por viaje de pesca, en calidad de fauna acompa&#xF1;ante en la pesca dirigida al recurso anchoveta Engraulis ringens, con red de cerco, en el &#xE1;rea mar&#xED;tima de la I y II regiones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- F&#xED;jase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1069303&amp;idParte=9526190&amp;idVersion=2014-11-12\">Decreto 785 EXENTO,<br>ECONOM&#xCD;A<br>D.O. 12.11.2014</a></span>un porcentaje m&#xE1;ximo de desembarque de Langostino enano Pleuroncodes sp., ascendente a un 3%, medido en peso, o de un m&#xE1;ximo de 5 toneladas del mismo recurso, en relaci&#xF3;n a la especie objetivo, por viaje de pesca, en calidad de fauna acompa&#xF1;ante en la pesca dirigida a especies pel&#xE1;gicas peque&#xF1;as con red de cerco, en el &#xE1;rea mar&#xED;tima de la XV, I y II Regiones.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1069303,
+      "fecha": "2014-11-12"
+    }
+  }
+]

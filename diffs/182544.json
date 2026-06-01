@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-03-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-08-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8494077,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION&nbsp; (A) N&#xBA; 11, DE 2001</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION&nbsp; (A) N&#xBA; 11, DE 2001</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

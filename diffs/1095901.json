@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-10-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-11-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9742115,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.- Servicios del Escritorio Empresa y mecanismos de autenticaci&#xF3;n. Los servicios disponibles a trav&#xE9;s de la plataforma est&#xE1;n destinados a permitir que las empresas, a trav&#xE9;s de Escritorio Empresa, gestionen mejor sus emprendimientos y operaciones, y obtengan informaci&#xF3;n y documentaci&#xF3;n asociada a los tr&#xE1;mites y/o servicios e interacciones que desarrollen con los &#xF3;rganos de la Administraci&#xF3;n del Estado y eventualmente con organismos privados de inter&#xE9;s p&#xFA;blico.</div><div class=\"p\">&nbsp; &nbsp;  Los servicios disponibles en Escritorio Empresa &#xFA;nicamente podr&#xE1;n ser utilizados por usuarios que hayan creado una cuenta. Para ello, el representante legal de la empresa o una persona autorizada por &#xE9;ste (usuario administrador), deber&#xE1; autenticarse en Escritorio Empresa a trav&#xE9;s del RUT y clave registrada por la empresa en el Servicio de Impuestos Internos. Una vez autenticada la empresa, el representante legal o la persona autorizada por &#xE9;ste, deber&#xE1; entregar una cantidad limitada de informaci&#xF3;n de la empresa y de su representante legal, como RUT, nombres, apellidos, domicilio, n&#xFA;mero de tel&#xE9;fono fijo y m&#xF3;vil y direcci&#xF3;n de correo electr&#xF3;nico. </div><div class=\"p\">&nbsp; &nbsp;  Trat&#xE1;ndose de empresas que se encuentren en proceso de creaci&#xF3;n y a&#xFA;n no han obtenido RUT y clave en el Servicio de Impuestos Internos, el representante legal podr&#xE1; utilizar los servicios y tr&#xE1;mites, asociados al proceso de creaci&#xF3;n de la empresa, autentic&#xE1;ndose con su clave &#xFA;nica otorgada por el Servicio de Registro Civil e Identificaci&#xF3;n. Una vez que la empresa cuente con RUT y clave otorgada por el Servicio de Impuestos Internos, los tr&#xE1;mites y servicios de Escritorio Empresa deber&#xE1;n ser utilizados con la autenticaci&#xF3;n a que se refiere el inciso segundo de este art&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp;  Cada vez que un usuario registrado se identifique en Escritorio Empresa, quedar&#xE1; constancia de ello en una bit&#xE1;cora que al efecto llevar&#xE1; el Operador.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.- Servicios <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1110428&amp;idParte=9848016&amp;idVersion=2017-11-11\">Decreto 70, ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 11.11.2017</a></span>del Escritorio Empresa y mecanismos de autenticaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Los servicios disponibles a trav&#xE9;s de la plataforma est&#xE1;n destinados a permitir que las empresas, a trav&#xE9;s de Escritorio Empresa, gestionen mejor sus emprendimientos y operaciones, y obtengan informaci&#xF3;n y documentaci&#xF3;n asociada a los tr&#xE1;mites y/o servicios e interacciones que desarrollen con los &#xF3;rganos de la Administraci&#xF3;n del Estado y eventualmente con organismos privados de inter&#xE9;s p&#xFA;blico.</div><div class=\"p\">&nbsp; &nbsp;  Los servicios disponibles en Escritorio Empresa &#xFA;nicamente podr&#xE1;n ser utilizados por usuarios que hayan creado una cuenta, tengan la calidad de administrador o de usuario autorizado. Para ello, el representante legal de la empresa o una persona autorizada por &#xE9;ste (usuario administrador), deber&#xE1; autenticarse en Escritorio Empresa a trav&#xE9;s de alguno de los mecanismos de autenticaci&#xF3;n disponibles para tales efectos en la plataforma y deber&#xE1; entregar una cantidad limitada de informaci&#xF3;n de la empresa y de su representante legal, como RUT, nombres, apellidos, domicilio, n&#xFA;mero de tel&#xE9;fono fijo y m&#xF3;vil y direcci&#xF3;n de correo electr&#xF3;nico.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, trat&#xE1;ndose de actuaciones en que se exija que la identidad del interesado sea comprobada fehacientemente, el representante legal de la empresa o el usuario administrador deber&#xE1; autenticarse a trav&#xE9;s de su clave &#xFA;nica otorgada por el Servicio de Registro Civil e Identificaci&#xF3;n o a trav&#xE9;s de su firma electr&#xF3;nica avanzada.</div><div class=\"p\">&nbsp; &nbsp;  Cada vez que un usuario registrado se identifique en Escritorio Empresa, quedar&#xE1; constancia de ello en una bit&#xE1;cora que al efecto llevar&#xE1; el Operador.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1110428,
+      "fecha": "2017-11-11"
+    }
+  }
+]

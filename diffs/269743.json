@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2008-03-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6641546,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- En consistencia con el numeral 7 del art&#xED;culo 208&#xBA; de la ley, y lo se&#xF1;alado en el T&#xED;tulo II del decreto supremo N&#xBA;181, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, de 2004, Reglamento del Panel de Expertos, las discrepancias respecto de los precios de los servicios no consistentes en suministro de energ&#xED;a que sean sujeto de fijaci&#xF3;n tarifaria de acuerdo a lo estipulado por el Tribunal de Defensa de la Libre Competencia, ser&#xE1;n sometidas al dictamen del Panel de Expertos.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- De conformidad a lo dispuesto en el art&#xED;culo 184&#xBA; de la ley,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1113260&amp;idParte=9872471&amp;idVersion=2018-01-05\">Decreto 44, ENERG&#xCD;A<br>Art. CUARTO N&#xB0; 1<br>D.O. 05.01.2018</a></span> las discrepancias que se produzcan en relaci&#xF3;n a la fijaci&#xF3;n de los precios de los servicios no consistentes en suministro de energ&#xED;a, podr&#xE1;n ser sometidas al dictamen del Panel de Expertos conforme al procedimiento establecido en el art&#xED;culo 211&#xBA; de la misma ley.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 6641548,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17.- A partir del aviso de publicaci&#xF3;n del informe t&#xE9;cnico referido al cap&#xED;tulo del estudio correspondiente a los servicios no consistentes en suministro de energ&#xED;a, y en consistencia con la letra i) del art&#xED;culo 33 del Reglamento del Panel de Expertos, las empresas distribuidoras tendr&#xE1;n un plazo de diez d&#xED;as para notificar sus discrepancias a la Comisi&#xF3;n. Contado desde dicha notificaci&#xF3;n, tendr&#xE1;n un plazo de quince d&#xED;as para presentar sus discrepancias al Panel de Expertos, el cual deber&#xE1; evacuar su dictamen dentro del plazo legal. Las discrepancias que presenten las empresas distribuidoras respecto del informe t&#xE9;cnico, podr&#xE1;n estar basadas en los resultados del estudio realizado por ellas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17.- A partir del aviso de publicaci&#xF3;n del informe t&#xE9;cnico referido al cap&#xED;tulo del estudio correspondiente a los servicios no consistentes en suministro de energ&#xED;a<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1113260&amp;idParte=9872471&amp;idVersion=2018-01-05\">Decreto 44, ENERG&#xCD;A<br>Art. CUARTO N&#xB0; 2<br>D.O. 05.01.2018</a></span>, las empresas distribuidoras tendr&#xE1;n un plazo de diez d&#xED;as para notificar sus discrepancias a la Comisi&#xF3;n. Contado desde dicha notificaci&#xF3;n, tendr&#xE1;n un plazo de quince d&#xED;as para presentar sus discrepancias al Panel de Expertos, el cual deber&#xE1; evacuar su dictamen dentro del plazo legal. Las discrepancias que presenten las empresas distribuidoras respecto del informe t&#xE9;cnico, podr&#xE1;n estar basadas en los resultados del estudio realizado por ellas.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1113260,
+      "fecha": "2018-01-05"
+    }
+  }
+]

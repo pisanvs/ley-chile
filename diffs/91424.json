@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-04-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8579337,
+          "old": "<div><div class=\"p\">AUTORIZA A DON VICTOR HUGO MILANCA GUZMAN PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON VICTOR HUGO MILANCA GUZMAN PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

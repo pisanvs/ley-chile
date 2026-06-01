@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-10-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-10-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6499397,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Por decreto MOP N&#xBA; 753 de 25 de agosto de 2004 y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 63 para la obra &quot;Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 1: Km. 0.000,00 al Km. 21.000,00&quot; Quinta Regi&#xF3;n, que figura a nombre de Suc. Torres Ena Abelino, rol de aval&#xFA;o 223-5, comuna de La Calera, superficie 1.347 m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Patricio Benjam&#xED;n Garc&#xED;a Toso, Luis Pablo Padilla Vergara y Ricardo Antonio Strickler Arellano, fij&#xF3; con fecha 30 de junio de 2004, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $53.584.640.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.- </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Por decreto MOP N&#xBA; 753 de 25 de agosto de 2004 y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 63 para la obra &quot;Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 1: Km. 0.000,00 al Km. 21.000,00&quot; Quinta Regi&#xF3;n, que figura a nombre de Suc. Torres Mena Abelino, rol de aval&#xFA;o 223-5, comuna de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 15.10.2004</span> La Calera, superficie 1.347 m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Patricio Benjam&#xED;n Garc&#xED;a Toso, Luis Pablo Padilla Vergara y Ricardo Antonio Strickler Arellano, fij&#xF3; con fecha 30 de junio de 2004, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $53.584.640.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

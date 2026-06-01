@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-08-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-08-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9936913,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1. Incorp&#xF3;rese dentro de los datos de individualizaci&#xF3;n del empe&#xF1;ante en el Sistema de Operaciones de Cr&#xE9;dito Prendario (OCP), la menci&#xF3;n a una cuenta bancaria de &#xE9;ste, debiendo contener esta individualizaci&#xF3;n: el tipo de cuenta, n&#xFA;mero de cuenta, Banco de la cuenta y n&#xFA;mero de c&#xE9;dula de identidad del empe&#xF1;ante;</div><div class=\"p\">&nbsp; &nbsp;  2. Incorp&#xF3;rese dentro de los datos de individualizaci&#xF3;n del empe&#xF1;ante en la p&#xF3;liza de empe&#xF1;o, la menci&#xF3;n a una cuenta bancaria de &#xE9;ste, debiendo contener esta individualizaci&#xF3;n: el tipo de cuenta, n&#xFA;mero de cuenta, Banco de la cuenta y n&#xFA;mero de c&#xE9;dula de identidad del empe&#xF1;ante;</div><div class=\"p\">&nbsp; &nbsp;  3. T&#xE9;ngase presente que en aquellas p&#xF3;lizas que a&#xFA;n no cuenten con un campo impreso respecto a datos del resuelvo N&#xB0; 2 de esta resoluci&#xF3;n, estos deben ser incorporados en el campo de &quot;observaciones&quot; de estas p&#xF3;lizas;</div><div class=\"p\">&nbsp; &nbsp;  4. Contr&#xF3;lese el cumplimiento de esta resoluci&#xF3;n por parte del Departamento de Cr&#xE9;dito de DICREP;</div><div class=\"p\">&nbsp; &nbsp;  5. Publ&#xED;quese en el Diario Oficial, conforme a lo dispuesto en la letra a) del art&#xED;culo 48 de la ley 19.880;</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. Incorp&#xF3;rese dentro de los datos de individualizaci&#xF3;n del empe&#xF1;ante en el Sistema de Operaciones de Cr&#xE9;dito Prendario (OCP), la menci&#xF3;n a una cuenta bancaria de &#xE9;ste, debiendo contener esta individualizaci&#xF3;n: el tipo de cuenta, n&#xFA;mero de cuenta, Banco de la cuenta y n&#xFA;mero de c&#xE9;dula de identidad del empe&#xF1;ante;<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  2. Incorp&#xF3;rese dentro de los datos de individualizaci&#xF3;n del empe&#xF1;ante en la p&#xF3;liza de empe&#xF1;o, la menci&#xF3;n a una cuenta bancaria de &#xE9;ste, debiendo contener esta individualizaci&#xF3;n: el tipo de cuenta, n&#xFA;mero de cuenta, Banco de la cuenta y n&#xFA;mero de c&#xE9;dula de identidad del empe&#xF1;ante;</div><div class=\"p\">&nbsp; &nbsp;  3. T&#xE9;ngase presente que en aquellas p&#xF3;lizas que a&#xFA;n no cuenten con un campo impreso respecto a datos del resuelvo N&#xB0; 2 de esta resoluci&#xF3;n, estos deben ser incorporados en el campo de &quot;observaciones&quot; de estas p&#xF3;lizas;</div><div class=\"p\">&nbsp; &nbsp;  4. Contr&#xF3;lese el cumplimiento de esta resoluci&#xF3;n por parte del Departamento de Cr&#xE9;dito de DICREP;</div><div class=\"p\">&nbsp; &nbsp;  5. Publ&#xED;quese en el Diario Oficial, conforme a lo dispuesto en la letra a) del art&#xED;culo 48 de la ley 19.880;</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los numerales 1 y 2 de la Resoluci&#xF3;n 420 Exenta, Trabajo, publicada el 16.08.2019, complementa la presente norma en el sentido de incorporar dentro de los datos de individualizaci&#xF3;n del empe&#xF1;ante en el Sistema de Operaciones de Cr&#xE9;dito Prendario (OCP), la menci&#xF3;n de un correo electr&#xF3;nico para los casos en que el usuario autorice el dep&#xF3;sito autom&#xE1;tico en una cuenta bancaria si es que existe alg&#xFA;n pago a su favor.</div></div>"
+        }
+      ]
+    }
+  }
+]

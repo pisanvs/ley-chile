@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1989-07-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9666745,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile, las normas t&#xE9;cnicas que se indican a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  NCh 2148.0f89 Madera laminada encolada estructural Requisitos e inspecci&#xF3;n. </div><div class=\"p\">&nbsp; &nbsp;  NCh 2149.0f89 Madera - Madera aserrada - Determinaci&#xF3;n del m&#xF3;dulo de elasticidad en flexi&#xF3;n - M&#xE9;todo de ensayo no destructivo.</div><div class=\"p\">&nbsp; &nbsp;  NCh 2150.Of89 Madera laminada encolada - Clasificaci&#xF3;n mec&#xE1;nica y visual de madera aserrada de pino radiata.</div><div class=\"p\">&nbsp; &nbsp;  NCh 2151 Of89&nbsp; Madera laminada encolada estructural - Vocabulario.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- Corresponder&#xE1; al Instituto Nacional de Normalizaci&#xF3;n publicar una minuta del presente decreto en el Diario Oficial, y el texto &#xED;ntegro de estas normas en documentos oficiales del mencionado Instituto.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xB0;.- El Instituto Nacional de Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de dichas normas, debidamente certificada su conformidad con el texto</div><div class=\"p\">oficial, a la Contraloria General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionar gratuitamente el mismo n&#xFA;mero de ejemplares al Ministerio de Vivienda y Urbanismo, que las declara normas oficiales de la Rep&#xFA;blica. </div><br><br><br></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile, las normas t&#xE9;cnicas que se indican a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  NCh2148:2013 Madera <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1086705&amp;idParte=9666717&amp;idVersion=2016-01-18\">Decreto 5 EXENTO,<br>VIVIENDA<br>N&#xB0; 1, l)<br>D.O. 18.01.2016</a></span>laminada encolada estructural - Requisitos m&#xE9;todos de muestreo e inspecci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  NCh 2149.0f89 Madera - Madera aserrada - Determinaci&#xF3;n del m&#xF3;dulo de elasticidad en flexi&#xF3;n - M&#xE9;todo de ensayo no destructivo.</div><div class=\"p\">&nbsp; &nbsp;  NCh 2150.Of89 Madera laminada encolada - Clasificaci&#xF3;n mec&#xE1;nica y visual de madera aserrada de pino radiata.</div><div class=\"p\">&nbsp; &nbsp;  NCh 2151 Of89 Madera laminada encolada estructural - Vocabulario. </div><br><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- Corresponder&#xE1; al Instituto Nacional de Normalizaci&#xF3;n publicar una minuta del presente decreto en el Diario Oficial, y el texto &#xED;ntegro de estas normas en documentos oficiales del mencionado Instituto.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xB0;.- El Instituto Nacional de Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de dichas normas, debidamente certificada su conformidad con el texto</div><div class=\"p\">oficial, a la Contraloria General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionar gratuitamente el mismo n&#xFA;mero de ejemplares al Ministerio de Vivienda y Urbanismo, que las declara normas oficiales de la Rep&#xFA;blica. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1086705,
+      "fecha": "2016-01-18"
+    }
+  }
+]

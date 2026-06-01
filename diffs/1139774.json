@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-12-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10078042,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;gase, por el plazo de nueve meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n dispuesta por <a href=\"https://www.leychile.cl/Navegar?idNorma=1136122&amp;idParte=&amp;idVersion=\">decreto exento N&#xBA; 4.588, de fecha 13 de septiembre de 2019</a>, publicado en el Diario Oficial el d&#xED;a 16 de septiembre de 2019, de la Ilustre Municipalidad de La Cisterna, correspondiente al territorio comunal descrito en dicho decreto exento, el cual se encuentra mencionado en el considerando 4., de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. La presente resoluci&#xF3;n deber&#xE1; ser publicada por el municipio solicitante en el Diario Oficial a m&#xE1;s tardar el &#xFA;ltimo d&#xED;a del plazo de la postergaci&#xF3;n inicial, as&#xED; como tambi&#xE9;n en uno de los diarios de mayor circulaci&#xF3;n de dicha comuna.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;gase, por el plazo de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>nueve meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n dispuesta por decreto exento N&#xBA; 4.588, de fecha 13 de septiembre de 2019, publicado en el Diario Oficial el d&#xED;a 16 de septiembre de 2019, de la Ilustre Municipalidad de La Cisterna, correspondiente al territorio comunal descrito en dicho decreto exento, el cual se encuentra mencionado en el considerando 4., de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. La presente resoluci&#xF3;n deber&#xE1; ser publicada por el municipio solicitante en el Diario Oficial a m&#xE1;s tardar el &#xFA;ltimo d&#xED;a del plazo de la postergaci&#xF3;n inicial, as&#xED; como tambi&#xE9;n en uno de los diarios de mayor circulaci&#xF3;n de dicha comuna.</div><div class=\"p\"> </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1136 Exenta, Vivienda, publicada 21.09.2020, suspende por un plazo de 7 meses la postergaci&#xF3;n de los permisos de edificaci&#xF3;n en los t&#xE9;rminos establecidos en el Art. 117 de la LGUC, dispuesta originalmente por el decreto N&#xBA; 4.588, de la Ilustre Municipalidad de La Cisterna y prorrogada por la presente norma, correspondiente al territorio comunal descrito en el citada norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

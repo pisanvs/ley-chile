@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-01-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-04-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9667591,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Proh&#xED;base a partir del d&#xED;a 1 de enero de 2016 y hasta el d&#xED;a 31 de diciembre de 2016, la circulaci&#xF3;n de los veh&#xED;culos motorizados inscritos en el Registro Nacional de Servicios de Transporte P&#xFA;blico de Pasajeros en la modalidad de taxi colectivo y que presten servicio urbano en la comuna de Temuco y Padre Las Casas, de acuerdo al &#xFA;ltimo d&#xED;gito de su placa patente &#xFA;nica, seg&#xFA;n se indica a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54906.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. La prohibici&#xF3;n se&#xF1;alada regir&#xE1; de lunes a viernes, excepto festivos, entre las 7:00 y las 22:00 horas, y ser&#xE1; extensiva a todas las v&#xED;as p&#xFA;blicas de las comunas de Temuco y Padre las Casas.</div><div class=\"p\">&nbsp; &nbsp;  3. Except&#xFA;ese de la prohibici&#xF3;n a los veh&#xED;culos que circulen en la condici&#xF3;n de fuera de servicio en viajes que no signifiquen transporte p&#xFA;blico de pasajeros ni privado remunerado, debiendo exhibir un letrero que as&#xED; lo indique.</div><div class=\"p\">&nbsp; &nbsp;  4. El cumplimiento de la presente resoluci&#xF3;n deber&#xE1; ser fiscalizado por Carabineros de Chile, inspectores fiscales y municipales conforme lo dispone el art&#xED;culo 4&#xBA; del DFL N&#xBA; 1/2007 citado en Visto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Proh&#xED;base a partir del d&#xED;a 1 de enero de 2016 y hasta el d&#xED;a 31 de diciembre de 2016, la circulaci&#xF3;n de los veh&#xED;culos motorizados inscritos en el Registro Nacional de Servicios de Transporte P&#xFA;blico de Pasajeros en la modalidad de taxi colectivo y que presten servicio urbano en la comuna de Temuco y Padre Las Casas, de acuerdo al &#xFA;ltimo d&#xED;gito de su placa patente &#xFA;nica, seg&#xFA;n se indica a continuaci&#xF3;n:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1089202&amp;idParte=9694414&amp;idVersion=2016-04-08\">Resoluci&#xF3;n 177 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 08.04.2016</a></span></div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57059.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. La prohibici&#xF3;n se&#xF1;alada regir&#xE1; de lunes a viernes, excepto festivos, entre las 7:00 y las 22:00 horas, y ser&#xE1; extensiva a todas las v&#xED;as p&#xFA;blicas de las comunas de Temuco y Padre las Casas.</div><div class=\"p\">&nbsp; &nbsp;  3. Except&#xFA;ese de la prohibici&#xF3;n a los veh&#xED;culos que circulen en la condici&#xF3;n de fuera de servicio en viajes que no signifiquen transporte p&#xFA;blico de pasajeros ni privado remunerado, debiendo exhibir un letrero que as&#xED; lo indique.</div><div class=\"p\">&nbsp; &nbsp;  4. El cumplimiento de la presente resoluci&#xF3;n deber&#xE1; ser fiscalizado por Carabineros de Chile, inspectores fiscales y municipales conforme lo dispone el art&#xED;culo 4&#xBA; del DFL N&#xBA; 1/2007 citado en Visto.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1089202,
+      "fecha": "2016-04-08"
+    }
+  }
+]

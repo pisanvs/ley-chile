@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-11-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-06-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7266406,
+          "old": "<div><div class=\"p\">AUTORIZA A COMERCIALIZADORA DE PRODUCTOS DEL MAULE S.A., PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMERCIALIZADORA DE PRODUCTOS DEL MAULE S.A., PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

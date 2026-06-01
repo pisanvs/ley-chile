@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-04-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-02-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9057404,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que en el plazo de 180 d&#xED;as, mediante uno o m&#xE1;s decretos con fuerza de ley, suscritos por el Ministro de Defensa Nacional, dicte normas sobre responsabilidad administrativa funcionaria, en relaci&#xF3;n con la inversi&#xF3;n de los fondos a que se refiere esta ley. Conforme a esta autorizaci&#xF3;n se determinar&#xE1; el procedimiento para hacer efectiva tal responsabilidad, el cual deber&#xE1; prever, a lo menos, normas relativas a las recusaciones del fiscal y del actuario; el plazo para cerrar la investigaci&#xF3;n; la formulaci&#xF3;n de cargos al inculpado; el t&#xE9;rmino para presentar sus descargos; la publicidad de las actuaciones respecto del afectado y su abogado y procedimiento de doble instancia en caso de aplicarse como sanci&#xF3;n una medida expulsiva.</div><div class=\"p\">&nbsp; &nbsp; Las sanciones disciplinarias que se podr&#xE1;n aplicar en estos casos ser&#xE1;n las previstas en el art&#xED;culo 23 del Reglamento de Disciplina de Carabineros de Chile, N&#xB0; 11, contenido en el decreto supremo N&#xB0; 900, de 1967, del Ministerio del Interior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que en el plazo de 180 d&#xED;as, mediante uno<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> o m&#xE1;s decretos con fuerza de ley, suscritos por el Ministro de Defensa Nacional, dicte normas sobre responsabilidad administrativa funcionaria, en relaci&#xF3;n con la inversi&#xF3;n de los fondos a que se refiere esta ley. Conforme a esta autorizaci&#xF3;n se determinar&#xE1; el procedimiento para hacer efectiva tal responsabilidad, el cual deber&#xE1; prever, a lo menos, normas relativas a las recusaciones del fiscal y del actuario; el plazo para cerrar la investigaci&#xF3;n; la formulaci&#xF3;n de cargos al inculpado; el t&#xE9;rmino para presentar sus descargos; la publicidad de las actuaciones respecto del afectado y su abogado y procedimiento de doble instancia en caso de aplicarse como sanci&#xF3;n una medida expulsiva.</div><div class=\"p\">&nbsp; &nbsp; Las sanciones disciplinarias que se podr&#xE1;n aplicar en estos casos ser&#xE1;n las previstas en el art&#xED;culo 23 del Reglamento de Disciplina de Carabineros de Chile, N&#xB0; 11, contenido en el decreto supremo N&#xB0; 900, de 1967, del Ministerio del Interior.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 35 de la Ley N&#xB0; 18.959, publicada en el &quot;Diario Oficial&quot; de 24 de febrero de 1990, concedi&#xF3; un nuevo plazo de 30 d&#xED;as para que el Presidente de la Rep&#xFA;blica ejerza las facultades que se le confirieron mediante el presente art&#xED;culo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-04-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-07-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7220406,
+          "old": "<div><div class=\"p\">ACEPTA RENUNCIA VOLUNTARIA A DON JULIO ANINAT PAUL </div><div class=\"p\">N&#xFA;m. 207.- Santiago, 20 de Marzo de 1992.- Vistos: lo establecido en el art&#xED;culo 4&#xB0; del Decreto Ley No. 3.059, de 1979, modificado por la letra d) del art&#xED;culo 1&#xB0; de la Ley No. 18.454; el art&#xED;culo 32 n&#xFA;mero 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica y el Decreto Supremo de Hacienda No. 699, de 1991,</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ACEPTA RENUNCIA VOLUNTARIA A DON JULIO ANINAT PAUL </div><div class=\"p\">N&#xFA;m. 207.- Santiago, 20 de Marzo de 1992.- Vistos: lo establecido en el art&#xED;culo 4&#xB0; del Decreto Ley No. 3.059, de 1979, modificado por la letra d) del art&#xED;culo 1&#xB0; de la Ley No. 18.454; el art&#xED;culo 32 n&#xFA;mero 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica y el Decreto Supremo de Hacienda No. 699, de 1991,</div><br><div class=\"p\">Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

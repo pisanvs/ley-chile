@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1955-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999766,
+          "old": "<div><div class=\"p\">FACULTA A LAS MUNICIPALIDADES DE LA REPUBLICA PARA QUE, A PETICION DE LOS EMPLEADORES O EMPLEADOS, PUEDAN DECRETAR EL CIERRE OBLIGATORIO DE ESTABLECIMIENTOS COMERCIALES MINORISTAS LOS DIAS SABADOS A LAS 13 HORAS </div><div class=\"p\">&nbsp; &nbsp; Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">FACULTA A LAS MUNICIPALIDADES DE LA REPUBLICA PARA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> QUE, A PETICION DE LOS EMPLEADORES O EMPLEADOS, PUEDAN DECRETAR EL CIERRE OBLIGATORIO DE ESTABLECIMIENTOS COMERCIALES MINORISTAS LOS DIAS SABADOS A LAS 13 HORAS Por cuanto el H. Congreso Nacional ha dado su</div><div class=\"p\">aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El N&#xB0; 3 del Art. 6 de la LEY 18018, publicada el 14.08.1981, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

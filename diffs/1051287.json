@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-05-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-04-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9354236,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Para los efectos del presente reglamento, las embarcaciones artesanales con inscripci&#xF3;n vigente en el Registro Artesanal a la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial, se clasificar&#xE1;n s&#xF3;lo de acuerdo a su eslora y arte de pesca en alguna de las clases a las que se refiere el numeral 1. del art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp;  En caso que las embarcaciones a que se refiere el inciso anterior, tengan una capacidad de bodega superior a la de su clase de acuerdo a su eslora, se considerar&#xE1; &#xE9;sta para efectos de su sustituci&#xF3;n, con independencia de la capacidad de bodega m&#xE1;xima que corresponda dentro de la clase que haya quedado clasificada de conformidad con su eslora.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Para los efectos del presente reglamento, las embarcaciones artesanales con inscripci&#xF3;n vigente en el Registro Artesanal a la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial, se clasificar&#xE1;n s&#xF3;lo de acuerdo a su eslora y arte de pesca en alguna de las clases a las que se refiere el numeral 1. del art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp;  En caso que las embarcaciones a que se refiere el inciso anterior, tengan una capacidad de bodega superior a la de su clase de acuerdo a su eslora, se considerar&#xE1; &#xE9;sta para efectos de su sustituci&#xF3;n, con independencia de la capacidad de bodega m&#xE1;xima que corresponda dentro de la clase que haya quedado clasificada de conformidad con su eslora. <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1101802&amp;idParte=9788388&amp;idVersion=2017-04-13\">Decreto 13, ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 13.04.2017</a></span>Sin perjuicio de lo anterior, en aquellos casos de siniestro de una embarcaci&#xF3;n artesanal debidamente acreditado ante la Autoridad Mar&#xED;tima que constituya fuerza mayor o caso fortuito y que implique dar de baja la citada embarcaci&#xF3;n en el Registro de Naves que lleva dicho organismo, la embarcaci&#xF3;n sustituta podr&#xE1; mantener la misma capacidad de bodega que ten&#xED;a la embarcaci&#xF3;n sustituida.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1101802,
+      "fecha": "2017-04-13"
+    }
+  }
+]

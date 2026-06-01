@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-11-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-10-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9377352,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Tres. Los titulares de registros <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1055011&amp;idParte=9377283&amp;idVersion=2013-10-09\">Resoluci&#xF3;n 3240 EXENTA,<br>SALUD<br>D.O. 09.10.2013</a></span>sanitarios de productos farmac&#xE9;uticos concedidos antes del d&#xED;a 25 de diciembre de 2011 que hayan sido o tengan autorizados dos o m&#xE1;s fabricantes respecto de todo o algunas etapas del proceso productivo del respectivo producto farmac&#xE9;utico, deber&#xE1;n optar por uno solo de ellos, para todo el proceso productivo o para cada etapa del mismo, seg&#xFA;n sea el caso, realizando la correspondiente declaraci&#xF3;n ante este Instituto dentro del plazo de un a&#xF1;o contado desde el d&#xED;a 1 de octubre de 2013, conforme al siguiente procedimiento:</div><div class=\"p\">&nbsp; &nbsp;  a) El procedimiento debe realizarse ingresando a un m&#xF3;dulo especial destinado al efecto en la plataforma de tramitaci&#xF3;n electr&#xF3;nica Gicona.</div><div class=\"p\">&nbsp; &nbsp;  b) En dicho m&#xF3;dulo el interesado deber&#xE1; se&#xF1;alar el fabricante que mantendr&#xE1; asociado al producto o a la etapa correspondiente, as&#xED; como aquellos que eliminar&#xE1;.</div><div class=\"p\">&nbsp; &nbsp;  c) Asimismo, el interesado deber&#xE1; seleccionar el fabricante que conservar&#xE1; el n&#xFA;mero de registro existente.</div><div class=\"p\">&nbsp; &nbsp;  d) Una vez ingresada la solicitud de regularizaci&#xF3;n, se generar&#xE1; un nuevo registro sanitario -con la misma informaci&#xF3;n que el registro original- por cada fabricante que el interesado declare mantener, con un m&#xE1;ximo de tres registros sanitarios en total.</div><div class=\"p\">&nbsp; &nbsp;  e) En el evento que el interesado desee conservar un mayor n&#xFA;mero de fabricantes, debe solicitar el registro sanitario correspondiente, cancelando el arancel respectivo.</div><div class=\"p\">&nbsp; &nbsp;  f) La solicitud de regularizaci&#xF3;n ser&#xE1; evaluada por el Departamento Agencia Nacional de Medicamentos, emitiendo el acto administrativo que formalice la decisi&#xF3;n correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  g) Los registros sanitarios generados ser&#xE1;n considerados como independientes de aquel que le ha dado origen, de modo que cualquier modificaci&#xF3;n futura deber&#xE1; ser solicitada en forma particular para cada uno de ellos.</div><div class=\"p\">&nbsp; &nbsp;  h) La fecha de inicio de vigencia de los nuevos registros generados ser&#xE1; aquella en que se dicte la resoluci&#xF3;n a que se refiere la letra f) precedente.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1055011,
+      "fecha": "2013-10-09"
+    }
+  }
+]

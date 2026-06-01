@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-10-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-07-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8318730,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO No. 218, DE 1990</div><br><div class=\"p\">N&#xFA;m. 337.- Santiago, 27 de Septiembre de 1990.- Visto: Lo informado por la Subsecretar&#xED;a de Pesca; lo dispuesto en el DFL No. 5, de 1983; las Leyes No. 18.892, de 1989 y No.</div><div class=\"p\">18.977, de 1990 el DS No. 218, de 1990, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; y la Ley No. 10.336.</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">Que la entrada en vigencia de la Ley No. 18.892 se encontraba prevista para el 01 de Octubre de 1990.</div><br><div class=\"p\">Que la Ley No. 18.999 prorroga la entrada en vigencia de la Ley General de Pesca y Acuicultura por el plazo de 60 d&#xED;as.</div><br><div class=\"p\">Que se ha estimado oportuno ampliar el plazo para la entrega de los antecedentes necesarios para la creaci&#xF3;n del Registro Nacional Pesquero Industrial.</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO No. 218, DE 1990</div><br><div class=\"p\">N&#xFA;m. 337.- Santiago, 27 de Septiembre de 1990.- Visto: Lo informado por la Subsecretar&#xED;a de Pesca; lo dispuesto en el DFL No. 5, de 1983; las Leyes No. 18.892, de 1989 y No.</div><div class=\"p\">18.977, de 1990 el DS No. 218, de 1990, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; y la Ley No. 10.336.</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">Que la entrada en vigencia de la Ley No. 18.892 se encontraba prevista para el 01 de Octubre de 1990.</div><br><div class=\"p\">Que la Ley No. 18.999 prorroga la entrada en vigencia de la Ley General de Pesca y Acuicultura por el plazo de 60 d&#xED;as.</div><br><div class=\"p\">Que se ha estimado oportuno ampliar el plazo para la entrega de los antecedentes necesarios para la creaci&#xF3;n del Registro Nacional Pesquero Industrial.</div><br><div class=\"p\">Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

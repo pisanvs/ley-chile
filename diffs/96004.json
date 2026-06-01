@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-02-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-07-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8326921,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Margarita In&#xE9;s G&#xF3;mez Rojas, Rut. 9.612.203-9, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;,</div><div class=\"p\">del&nbsp; Programa&nbsp; Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Margarita In&#xE9;s<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> G&#xF3;mez Rojas, Rut. 9.612.203-9, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del&nbsp; Programa&nbsp; Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 1438, Interior, publicado el 03.07.2000, dej&#xF3; sin efecto la facultad de do&#xF1;a Margarita In&#xE9;s G&#xF3;mez Rojas para cobrar la pensi&#xF3;n de gracia que se establece en el presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

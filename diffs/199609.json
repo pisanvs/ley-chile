@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2002-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-07-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8427232,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  ARTICULO 6&#xBA;: Se sugiere que el material<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 20.07.2002</span> retrorreflectivo referido en el art&#xED;culo precedente, que se incorpore en los uniformes escolares, cumpla con los siguientes requerimientos:</div><div class=\"p\">A)&nbsp;  REQUERIMIENTOS FOTOMETRICOS DEL MATERIAL RETRORREFLECTIVO NUEVO</div><div class=\"p\">&nbsp; &nbsp;  El material retrorreflectivo nuevo debe satisfacer los requerimientos fotom&#xE9;tricos de la tabla N&#xBA;1.</div><div class=\"p\">Tabla N&#xBA; 1</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; COEFICIENTE DE RETRORREFLEXION</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; EN cd/(lx&#xB7;M2) - VALORES MINIMOS</div><div class=\"p\"> Angulo de&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Angulo de Entrada</div><div class=\"p\">Observaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  5&#xBA;&nbsp; &nbsp; &nbsp;  20&#xBA;&nbsp; &nbsp; &nbsp; &nbsp; 30&#xBA;&nbsp; &nbsp; &nbsp; &nbsp;  40&#xBA;</div><div class=\"p\">&nbsp; &nbsp; 12&#xBA;&nbsp; &nbsp; &nbsp; &nbsp; 250&nbsp; &nbsp; &nbsp;  220&nbsp; &nbsp; &nbsp; &nbsp; 135&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 50</div><div class=\"p\">&nbsp; &nbsp; 20&#xBA;&nbsp; &nbsp; &nbsp; &nbsp; 120&nbsp; &nbsp; &nbsp;  100&nbsp; &nbsp; &nbsp; &nbsp;  75&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 30</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;&nbsp; &nbsp; &nbsp; &nbsp;  25&nbsp; &nbsp; &nbsp; &nbsp; 15&nbsp; &nbsp; &nbsp; &nbsp;  12&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10</div><div class=\"p\">&nbsp;  1&#xBA; 30&apos;&nbsp; &nbsp; &nbsp;  10&nbsp; &nbsp; &nbsp; &nbsp;  7&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  4</div><div class=\"p\">&nbsp; &nbsp;  El coeficiente de retrorreflexi&#xF3;n para materiales nuevos, se determinar&#xE1; de acuerdo al m&#xE9;todo de ensayo descrito en una de las siguientes normas: EN-471:1994, o ANSI/ISEA 107-1999.</div><div class=\"p\">B)&nbsp;  REQUERIMIENTOS DE RETRORREFLEXION DESPUES DE LOS ENSAYOS</div><div class=\"p\">&nbsp; &nbsp;  El material retrorreflectivo ensayado de acuerdo a una de las normas indicadas precedentemente, deber&#xE1; someterse a los ensayos de Abrasi&#xF3;n, Flexi&#xF3;n, Plegado a baja temperatura, Variaciones de temperatura, Lavado, Limpieza en seco e Influencia de la lluvia, de acuerdo a los m&#xE9;todos de ensayo descritos en una de las siguientes normas: EN-471:1994, o ANSI/ISEA 107-1999.</div><div class=\"p\">&nbsp; &nbsp;  Posteriormente a &#xE9;stos, el material retrorreflectivo deber&#xE1; presentar un coeficiente de retrorreflexi&#xF3;n superior a 100 cd/(lx&#xB7;m2), medido bajo un &#xE1;ngulo de observaci&#xF3;n de 12&#xBA; y bajo un &#xE1;ngulo de entrada de 5&#xBA;.</div><div class=\"p\">&nbsp; &nbsp;  El cumplimiento de los requerimientos indicados en las letras A) y B) precedentes, deber&#xE1; ser documentado por el fabricante o importador, mediante certificaci&#xF3;n emitida por un organismo de certificaci&#xF3;n de tercera parte.</div><div class=\"p\">C)&nbsp;  DISE&#xD1;O</div><div class=\"p\">&nbsp; &nbsp;  Las prendas deber&#xE1;n contar con un &#xE1;rea total m&#xED;nima de material retrorreflectivo, las que pueden variar en estilos, colores y tama&#xF1;os. Las Tablas N&#xBA; 2-1 y 2-2 siguientes indican la cantidad total m&#xED;nima de material requerido de acuerdo a la talla de la prenda escolar.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2009-10-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

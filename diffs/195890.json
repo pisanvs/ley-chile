@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-03-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6373930,
+          "old": "<div><div class=\"p\">DESIGNA REPRESENTANTE DEL MINISTERIO DE HACIENDA EN EL COMITE DE SEGURO AGRICOLA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 198 exenta.- Santiago, 19 de marzo de 2002.- Vistos: El DFL N&#xBA;294, de 1960; la resoluci&#xF3;n N&#xBA;139, de 24 de julio de 2000, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n; y la resoluci&#xF3;n 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que la resoluci&#xF3;n N&#xBA;139, de 24 de julio de 2000, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, cre&#xF3; el Comit&#xE9; de Seguro Agr&#xED;cola, integrado, entre otros, por un miembro designado por el Ministro de Hacienda, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA REPRESENTANTE DEL MINISTERIO DE HACIENDA EN EL COMITE DE SEGURO AGRICOLA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 198 exenta.- Santiago, 19 de marzo de 2002.- Vistos: El DFL N&#xBA;294, de 1960; la resoluci&#xF3;n N&#xBA;139, de 24 de julio de 2000, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n; y la resoluci&#xF3;n 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que la resoluci&#xF3;n N&#xBA;139, de 24 de julio de 2000, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, cre&#xF3; el Comit&#xE9; de Seguro Agr&#xED;cola, integrado, entre otros, por un miembro designado por el Ministro de Hacienda, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

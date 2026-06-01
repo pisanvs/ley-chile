@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-03-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6105486,
+          "old": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.703.- Santiago, 30 de diciembre de 1998.- Vistos: Estos antecedentes, oficio del Instituto Nacional de Normalizaci&#xF3;n Ref.: 14346-300 de 10 de diciembre de 1998, el oficio de la Direcci&#xF3;n General de Obras P&#xFA;blicas, Ord. N&#xBA; 2726 de 17 de diciembre de 1998, y lo dispuesto en el D.S.</div><div class=\"p\">N&#xBA; 654 de 1994, del Ministerio del Interior, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o </div></div>",
+          "new": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 112.- Santiago, 11 de febrero de 1998.- Vistos: Los antecedentes, el oficio Ord. N&#xBA; 302 de fecha 9 de febrero de 1998 de la Direcci&#xF3;n General de Obras P&#xFA;blicas, dependiente de esta Secretar&#xED;a de Estado y lo dispuesto en el D.S. N&#xBA; 654 de 1994 del Ministerio del Interior,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

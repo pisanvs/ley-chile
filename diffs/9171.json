@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-07-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-02-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7137534,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ADJUDICA CONTRATO DE CONCESION PARA LA EJECUCION, CONSERVACION Y EXPLOTACION DE LA OBRA PUBLICA FISCAL DENOMINADA &quot;CAMINO DEL RIPIO&quot;</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 97.- Santiago, 9 de Marzo de 1995.- Vistos: El Art. 87 del Decreto Supremo MOP N&#xB0; 294, de 1984, el Decreto con Fuerza de ley MOP N&#xB0; 164, de 1991; el Decreto Supremo MOP N&#xB0; 240, de 1991; la Resoluci&#xF3;n N&#xB0; 1006, de fecha 09 de Diciembre de 1994, de la Direcci&#xF3;n General de Obras P&#xFA;blicas que aprob&#xF3; bases de licitaci&#xF3;n para la concesi&#xF3;n de la obra p&#xFA;blica denominada &quot;Camino del Ripio&quot; y la Circular N&#xB0; 1, de fecha 6 de Octubre de 1994, las Circulares N&#xB0; 2 y N&#xB0; 3, ambas de fecha 7 de Diciembre de 1994. La Resoluci&#xF3;n N&#xB0; 43 de fecha 10 de Enero de 1995, de la Direcci&#xF3;n General de Obras P&#xFA;blicas, que aprueba las Circulares N&#xB0; 4 y N&#xB0; 5 de fechas 19 de Diciembre de 1994 y 9 de Enero de 1995, respectivamente; las actas de apertura de las ofertas t&#xE9;cnica y econ&#xF3;mica, de fechas 23 de Enero y 20 de Febrero respectivamente, las actas de Calificaci&#xF3;n T&#xE9;cnica y Econ&#xF3;mica de fechas 20 y 22 de Febrero de 1995; el Dictamen del Servicio de Impuestos Internos N&#xB0; 4596, de fecha 28 de Diciembre de 1994.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ADJUDICA CONTRATO DE CONCESION PARA LA EJECUCION, CONSERVACION Y EXPLOTACION DE LA OBRA PUBLICA FISCAL DENOMINADA &quot;CAMINO DEL RIPIO&quot;</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 97.- Santiago, 9 de Marzo de 1995.- Vistos: El Art. 87 del Decreto Supremo MOP N&#xB0; 294, de 1984, el Decreto con Fuerza de ley MOP N&#xB0; 164, de 1991; el Decreto Supremo MOP N&#xB0; 240, de 1991; la Resoluci&#xF3;n N&#xB0; 1006, de fecha 09 de Diciembre de 1994, de la Direcci&#xF3;n General de Obras P&#xFA;blicas que aprob&#xF3; bases de licitaci&#xF3;n para la concesi&#xF3;n de la obra p&#xFA;blica denominada &quot;Camino del Ripio&quot; y la Circular N&#xB0; 1, de fecha 6 de Octubre de 1994, las Circulares N&#xB0; 2 y N&#xB0; 3, ambas de fecha 7 de Diciembre de 1994. La Resoluci&#xF3;n N&#xB0; 43 de fecha 10 de Enero de 1995, de la Direcci&#xF3;n General de Obras P&#xFA;blicas, que aprueba las Circulares N&#xB0; 4 y N&#xB0; 5 de fechas 19 de Diciembre de 1994 y 9 de Enero de 1995, respectivamente; las actas de apertura de las ofertas t&#xE9;cnica y econ&#xF3;mica, de fechas 23 de Enero y 20 de Febrero respectivamente, las actas de Calificaci&#xF3;n T&#xE9;cnica y Econ&#xF3;mica de fechas 20 y 22 de Febrero de 1995; el Dictamen del Servicio de Impuestos Internos N&#xB0; 4596, de fecha 28 de Diciembre de 1994.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

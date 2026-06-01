@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-08-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7302719,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Modif&#xED;case en la forma que se indica, en la letra D, del art&#xED;culo 3&#xBA; del decreto supremo N&#xBA; 1.230, de 1989, del Ministerio de Hacienda, el punto habilitado N&#xBA; 8, sujeto a la jurisdicci&#xF3;n de la Aduana de Antofagasta:</div><br><br><div class=\"p\">&nbsp; &nbsp;  &quot;8. Puerto de Mejillones&nbsp; &nbsp;  Permanente paso de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; personas y todo tipo</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; de operaciones.&quot;</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Modif&#xED;case en la forma que se indica, en la letra D, del art&#xED;culo 3&#xBA; del decreto supremo N&#xBA; 1.230, de 1989, del Ministerio de Hacienda, el punto habilitado N&#xBA; 8, sujeto a la jurisdicci&#xF3;n de la Aduana de Antofagasta:</div><br><br><div class=\"p\">&nbsp; &nbsp;  &quot;8. Puerto de Mejillones&nbsp; &nbsp;  Permanente paso de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; personas y todo tipo</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; de operaciones</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; aduaneras.&quot;<span class=\"n\" id=\"n_0\">DTO 565 EXENTO,<br>D.O. 05.01.2004</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1987-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-12-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1988-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9047052,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- El Servicio Agr&#xED;cola y Ganadero dispondr&#xE1; el pago de una indemnizaci&#xF3;n, con cargo al Fisco, al propietario de uno o m&#xE1;s animales sacrificados por la autoridad como medida sanitaria destinada a combatir y erradicar la fiebre aftosa del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; No tendr&#xE1;n derecho a la indemnizaci&#xF3;n a que se refiere el inciso anterior aquellos propietarios de animales que por s&#xED; o por sus representantes, trabajadores o encargados de los animales, hayan incurrido o incurrieren, seg&#xFA;n se establezca en el respectivo proceso administrativo incoado por infracci&#xF3;n a las normas sobre sanidad animal, en alguna de las siguientes conductas:</div><div class=\"p\">&nbsp; &nbsp; a) Haber introducido esta enfermedad al territorio nacional o contribuido a su propagaci&#xF3;n en &#xE9;l;</div><div class=\"p\">&nbsp; &nbsp; b) No denunciar oportunamente al Servicio la presencia de animales biungulados enfermos o la de aquellos que hubieren desarrollado la enfermedad anteriormente y cuyos ex&#xE1;menes de laboratorio resulten positivos;</div><div class=\"p\">&nbsp; &nbsp; c) Trasladar animales sin la autorizaci&#xF3;n previa del Servicio cuando dicha autorizaci&#xF3;n les fuere exigible, y d) Vacunar animales susceptibles a la enfermedad en contravenci&#xF3;n a las normas reglamentarias.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- El Servicio Agr&#xED;cola y Ganadero<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div> dispondr&#xE1; el pago de una indemnizaci&#xF3;n, con cargo al Fisco, al propietario de uno o m&#xE1;s animales sacrificados por la autoridad como medida sanitaria destinada a combatir y erradicar la fiebre aftosa del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; No tendr&#xE1;n derecho a la indemnizaci&#xF3;n a que se refiere el inciso anterior aquellos propietarios de animales que por s&#xED; o por sus representantes, trabajadores o encargados de los animales, hayan incurrido o incurrieren, seg&#xFA;n se establezca en el respectivo proceso administrativo incoado por infracci&#xF3;n a las normas sobre sanidad animal, en alguna de las siguientes conductas:</div><div class=\"p\">&nbsp; &nbsp; a) Haber introducido esta enfermedad al territorio nacional o contribuido a su propagaci&#xF3;n en &#xE9;l;</div><div class=\"p\">&nbsp; &nbsp; b) No denunciar oportunamente al Servicio la presencia de animales biungulados enfermos o la de aquellos que hubieren desarrollado la enfermedad anteriormente y cuyos ex&#xE1;menes de laboratorio resulten positivos;</div><div class=\"p\">&nbsp; &nbsp; c) Trasladar animales sin la autorizaci&#xF3;n previa del Servicio cuando dicha autorizaci&#xF3;n les fuere exigible, y d) Vacunar animales susceptibles a la enfermedad en contravenci&#xF3;n a las normas reglamentarias.</div><div class=\"p\">&nbsp; &nbsp; Lo dispuesto en el inciso anterior afectar&#xE1;<span class=\"n\" id=\"n_0\">Ley 18.768<br>Art. 32</span> exclusivamente a los animales sacrificados respecto de los cuales exista una relaci&#xF3;n directa de causalidad entre la infracci&#xF3;n cometida y el referido sacrificio. En ning&#xFA;n caso se privar&#xE1; del derecho a la indemnizaci&#xF3;n por el sacrificio de otros animales de propiedad de la misma persona, respecto de los cuales no se haya podido establecer tal relaci&#xF3;n de causalidad.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 33 de la Ley 18.768, autoriz&#xF3; para dar curso a las solicitudes de pago de la indemnizaci&#xF3;n a que se refiere la presente ley, y que hubieren sido presentadas con anterioridad al 30 de marzo de 1988.<br></div></div>"
+        },
+        {
+          "part_id": 9047061,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULOS TRANSITORIOS Art&#xED;culo 1&#xB0;.- Trat&#xE1;ndose de animales sacrificados conforme a las condiciones se&#xF1;aladas en este cuerpo legal en el lapso comprendido entre el 1&#xB0; de marzo de 1987 y la fecha de publicaci&#xF3;n de la presente ley en el Diario Oficial, los interesados deber&#xE1;n solicitar el pago de la indemnizaci&#xF3;n a que se refiere el art&#xED;culo 1&#xB0; permanente dentro de los 120 d&#xED;as contados desde dicha publicaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULOS TRANSITORIOS (ARTS. 1-2) Art&#xED;culo 1&#xB0;.- Trat&#xE1;ndose de animales sacrificados conforme a las condiciones se&#xF1;aladas en este cuerpo legal en el lapso comprendido entre el 1&#xB0; de marzo de 1987 y la fecha de publicaci&#xF3;n de la presente ley en el Diario Oficial, los interesados deber&#xE1;n solicitar el pago de la indemnizaci&#xF3;n a que se refiere el art&#xED;culo 1&#xB0; permanente dentro de los 120 d&#xED;as contados desde dicha publicaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

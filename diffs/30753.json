@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1995-05-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-12-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8640392,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Sin perjuicio de lo establecido en el art&#xED;culo precedente se declaran indivisibles aquellos retazos de terreno de los bienes comunes inmuebles destinados en forma permanente a actividades asistenciales, deportivas, recreativas, religiosas, sociales o comunitarias.</div><div class=\"p\">&nbsp; &nbsp; Estos inmuebles podr&#xE1;n ser cedidos a t&#xED;tulo gratuito a personas jur&#xED;dicas sin fines de lucro, con la obligaci&#xF3;n de mantener su destino de origen.</div><div class=\"p\">&nbsp; &nbsp; Para enajenar tales inmuebles a t&#xED;tulo oneroso, se requerir&#xE1; el acuerdo de los comuneros que representen a lo menos las 35 partes de los derechos sobre el bien com&#xFA;n. Para cambiar el destino de origen de estos bienes, se elevar&#xE1; el qu&#xF3;rum a 45, salvo cuando se trate de bienes inmuebles destinados en forma permanente a actividades deportivas, en cuyo caso se requerir&#xE1; la unanimidad de los comuneros.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Sin perjuicio de lo establecido en el art&#xED;culo precedente se declaran indivisibles aquellos retazos de terreno de los bienes comunes inmuebles destinados en forma permanente a actividades asistenciales, deportivas, recreativas, religiosas, sociales o comunitarias.</div><div class=\"p\">&nbsp; &nbsp; Estos inmuebles podr&#xE1;n ser cedidos a t&#xED;tulo gratuito a personas jur&#xED;dicas sin fines de lucro, con la obligaci&#xF3;n de mantener su destino de origen. Igualmente<span class=\"n\" id=\"n_0\">LEY 19647<br>Art. &#xFA;nico<br>D.O. 03.12.1999</span> podr&#xE1;n ser cedidos a t&#xED;tulo gratuito a sostenedores de establecimientos educacionales rurales, con objeto de dar cumplimiento a los fines establecidos en la ley N&#xBA; 19.532 y con la obligaci&#xF3;n de mantener ese destino.</div><div class=\"p\">&nbsp; &nbsp; Para enajenar tales inmuebles a t&#xED;tulo oneroso, se requerir&#xE1; el acuerdo de los comuneros que representen a lo menos las 3/5 partes de los derechos sobre el bien com&#xFA;n. Para cambiar el destino de origen de estos bienes, se elevar&#xE1; el qu&#xF3;rum a 4/5, salvo cuando se trate de bienes inmuebles destinados en forma permanente a actividades deportivas, en cuyo caso se requerir&#xE1; la unanimidad de los comuneros.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-06-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8640392,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Sin perjuicio de lo establecido en el art&#xED;culo precedente se declaran indivisibles aquellos retazos de terreno de los bienes comunes inmuebles destinados en forma permanente a actividades asistenciales, deportivas, recreativas, religiosas, sociales o comunitarias.</div><div class=\"p\">&nbsp; &nbsp; Estos inmuebles podr&#xE1;n ser cedidos a t&#xED;tulo gratuito a personas jur&#xED;dicas sin fines de lucro, con la obligaci&#xF3;n de mantener su destino de origen. Igualmente<span class=\"n\" id=\"n_0\">LEY 19647<br>Art. &#xFA;nico<br>D.O. 03.12.1999</span> podr&#xE1;n ser cedidos a t&#xED;tulo gratuito a sostenedores de establecimientos educacionales rurales, con objeto de dar cumplimiento a los fines establecidos en la ley N&#xBA; 19.532 y con la obligaci&#xF3;n de mantener ese destino.</div><div class=\"p\">&nbsp; &nbsp; Para enajenar tales inmuebles a t&#xED;tulo oneroso, se requerir&#xE1; el acuerdo de los comuneros que representen a lo menos las 3/5 partes de los derechos sobre el bien com&#xFA;n. Para cambiar el destino de origen de estos bienes, se elevar&#xE1; el qu&#xF3;rum a 4/5, salvo cuando se trate de bienes inmuebles destinados en forma permanente a actividades deportivas, en cuyo caso se requerir&#xE1; la unanimidad de los comuneros.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Sin perjuicio de lo establecido en el art&#xED;culo precedente se declaran indivisibles aquellos retazos de terreno de los bienes comunes inmuebles destinados en forma permanente a actividades asistenciales, deportivas, recreativas, religiosas, sociales o comunitarias.</div><div class=\"p\">&nbsp; &nbsp; Estos inmuebles podr&#xE1;n ser cedidos a t&#xED;tulo gratuito a personas jur&#xED;dicas sin fines de lucro, con la obligaci&#xF3;n de mantener su destino de origen. Igualmente<span class=\"n\" id=\"n_0\">LEY 19647<br>Art. &#xFA;nico<br>D.O. 03.12.1999</span> podr&#xE1;n ser cedidos a t&#xED;tulo gratuito a sostenedores de establecimientos educacionales rurales, con objeto de dar cumplimiento a los fines establecidos en la ley N&#xBA; 19.532 y con la obligaci&#xF3;n de mantener ese destino.</div><div class=\"p\">&nbsp; &nbsp; Para enajenar tales inmuebles a t&#xED;tulo oneroso, se requerir&#xE1; el acuerdo de los comuneros que representen a lo menos las 3/5 partes de los derechos sobre el bien com&#xFA;n. Para cambiar el destino de origen de estos bienes, se elevar&#xE1; el qu&#xF3;rum a 4/5, salvo cuando se trate de bienes inmuebles destinados en forma permanente a actividades deportivas, en cuyo caso se requerir&#xE1; la unanimidad de los comuneros.</div><div class=\"p\">&nbsp; &nbsp;  Las organizaciones deportivas o comunitarias con<span class=\"n\" id=\"n_1\">LEY 19807<br>Art. 2&#xBA;<br>D.O. 12.06.2002</span> personalidad jur&#xED;dica, inscritas en el registro establecido en el art&#xED;culo 38 de la ley N&#xBA; 19.712, de las localidades correspondientes, que usen permanentemente bienes comunes derivados del proceso de reforma agraria o retazos de los mismos para actividades deportivas, podr&#xE1;n postular al subsidio que dispone el inciso tercero del art&#xED;culo 52 de ese mismo cuerpo legal.</div><div class=\"p\">&nbsp; &nbsp;  Para el solo prop&#xF3;sito de lo dispuesto en el inciso anterior, se considerar&#xE1; el inmueble libre de grav&#xE1;menes, prohibiciones y embargos.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-10-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5944843,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO N&#xB0; 488 EXENTO, DE 1995 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO N&#xB0; 488 EXENTO, DE 1995 </div><br></div>"
+        }
+      ]
+    }
+  }
+]

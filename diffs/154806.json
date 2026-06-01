@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1986-08-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-06-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7260711,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Decl&#xE1;ranse Normas oficiales de la Rep&#xFA;blica de Chile, las siguientes: NCh 1095/1 L mparas de filamento de tungsteno para iluminaci&#xF3;n general Parte 1: Requisitos generales.</div><br><div class=\"p\">&nbsp; &nbsp;  NCh 1095/2 L&#xE1;mparas de filamento de tungsteno para iluminaci&#xF3;n general Parte 2: L&#xE1;mparas con una duraci&#xF3;n de 2.500 horas.</div><br><div class=\"p\">&nbsp; &nbsp;  NCh 2015 Tubos flexibles de material pl&#xE1;stico autoextinguible para canalizaciones el&#xE9;ctricas - Especificaciones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Decl&#xE1;ranse Normas oficiales de la Rep&#xFA;blica de Chile, las siguientes: NCh 1095/1 L mparas de filamento de tungsteno para iluminaci&#xF3;n general Parte 1: Requisitos generales.</div><br><div class=\"p\">&nbsp; &nbsp;  NCh 1095/2 L&#xE1;mparas de filamento de tungsteno para iluminaci&#xF3;n general Parte 2: L&#xE1;mparas con una duraci&#xF3;n de 2.500 horas.</div><br><div class=\"p\">&nbsp; &nbsp;  NCh 2015 ANULADA Y REEMPLAZADA</div><br><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1003563&amp;idParte=8695328&amp;idVersion=2009-06-18\">Resolucion 953 EXENTA, ECONOMIA<br>Art. 2<br>D.O. 18.06.2009</a></span></div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1003563,
+      "fecha": "2009-06-18"
+    }
+  }
+]

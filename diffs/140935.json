@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-05-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8348290,
+          "old": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA SAN CARLOS S.A. PARA INICIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE INDICA</div><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA SAN CARLOS S.A. PARA INICIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE INDICA</div><div class=\"p\">(Extracto)</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

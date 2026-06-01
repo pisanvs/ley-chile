@@ -1,0 +1,50 @@
+[
+  {
+    "fecha": "1969-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1969-07-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8838197,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 218&#xBA;: Con el objeto de que ninguna secci&#xF3;n del territorio nacional quede excluida de la organizaci&#xF3;n a que se refiere la ley N&#xBA; 16.880, las Municipalidades tendr&#xE1;n un plazo m&#xE1;ximo de 60 d&#xED;as para fijar las Unidades Vecinales en su comuna, transcurrido el cual se aplicar&#xE1; la disposici&#xF3;n contenida en el inciso 2&#xBA; del art&#xED;culo 8 de dicha ley. Este plazo se contar&#xE1; desde la fecha de promulgaci&#xF3;n del decreto supremo a que se refiere el art&#xED;culo 7&#xBA; inciso 3&#xBA; de la ley mencionada.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 218&#xBA;: Con el objeto de que ninguna secci&#xF3;n del territorio nacional quede excluida de la organizaci&#xF3;n a que se refiere la ley N&#xBA; 16.880, las Municipalidades tendr&#xE1;n un plazo m&#xE1;ximo de 60 d&#xED;as para fijar las Unidades Vecinales en su comuna, transcurrido el cual se aplicar&#xE1; la disposici&#xF3;n contenida en el inciso 2&#xBA; del art&#xED;culo 8 de dicha ley. Este plazo se contar&#xE1; desde la fecha de publicaci&#xF3;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1044564&amp;idParte=9304543&amp;idVersion=1969-07-11\">Decreto 906, INTERIOR<br>D.O. 11.07.1969</a></span>n del decreto supremo a que se refiere el art&#xED;culo 7&#xBA; inciso 3&#xBA; de la ley mencionada.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1044564,
+      "fecha": "1969-07-11"
+    }
+  },
+  {
+    "fecha": "1970-08-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8838045,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 66&#xBA;: El presidente y el tesorero de la Junta de Vecinos podr&#xE1;n girar sobre los fondos depositados, previa aprobaci&#xF3;n del directorio.</div><div class=\"p\">&nbsp; &nbsp;  En el acta correspondiente se dejar&#xE1; constancia de la cantidad autorizada y el objetivo del gasto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 66&#xBA;: El presidente y el tesorero de la Junta de Vecinos podr&#xE1;n girar sobre los fondos depositados, previa aprobaci&#xF3;n del directorio.</div><div class=\"p\">&nbsp; &nbsp;  En el acta correspondiente se dejar&#xE1; constancia de la cantidad autorizada y el objetivo del gasto.</div><div class=\"p\">&nbsp; &nbsp;  No obstante, por tratarse de actos de administraci&#xF3;n interna<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1044565&amp;idParte=9304546&amp;idVersion=1970-08-29\">Decreto 1190, INTERIOR<br>D.O. 29.08.1970</a></span>, no ser&#xE1; exigible a los terceros interesados conocer los t&#xE9;rminos de la aprobaci&#xF3;n del directoria, ni la constancia en el acta correspondiente.</div><br></div>"
+        },
+        {
+          "part_id": 8838197,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 218&#xBA;: Con el objeto de que ninguna secci&#xF3;n del territorio nacional quede excluida de la organizaci&#xF3;n a que se refiere la ley N&#xBA; 16.880, las Municipalidades tendr&#xE1;n un plazo m&#xE1;ximo de 60 d&#xED;as para fijar las Unidades Vecinales en su comuna, transcurrido el cual se aplicar&#xE1; la disposici&#xF3;n contenida en el inciso 2&#xBA; del art&#xED;culo 8 de dicha ley. Este plazo se contar&#xE1; desde la fecha de publicaci&#xF3;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1044564&amp;idParte=9304543&amp;idVersion=1969-07-11\">Decreto 906, INTERIOR<br>D.O. 11.07.1969</a></span>n del decreto supremo a que se refiere el art&#xED;culo 7&#xBA; inciso 3&#xBA; de la ley mencionada.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 218&#xBA;: Con el objeto de que ninguna secci&#xF3;n del territorio nacional quede excluida de la organizaci&#xF3;n a que se refiere la ley N&#xBA; 16.880, las Municipalidades tendr&#xE1;n un plazo m&#xE1;ximo de 60 d&#xED;as para fijar las Unidades Vecinales en su comuna, transcurrido el cual se aplicar&#xE1; la disposici&#xF3;n contenida en el inciso 2&#xBA; del art&#xED;culo 8 de dicha ley. Este plazo se contar&#xE1; desde la fecha de publicaci&#xF3;<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1044564&amp;idParte=9304543&amp;idVersion=1969-07-11\">Decreto 906, INTERIOR<br>D.O. 11.07.1969</a></span>n del decreto supremo a que se refiere el art&#xED;culo 7&#xBA; inciso 3&#xBA; de la ley mencionada.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1044565,
+      "fecha": "1970-08-29"
+    }
+  }
+]

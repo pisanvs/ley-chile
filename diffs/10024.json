@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-04-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-06-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5896571,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA NORMA OFICIAL DE LA REPUBLICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 146.- Santiago, 29 de febrero de 1996.- Vistos: Estos antecedentes, el Oficio Ord. N&#xB0; 264 de fecha 29 de Febrero de 1996 de la Direcci&#xF3;n General de Obras P&#xFA;blicas, dependiente de esta Secretar&#xED;a de Estado, y lo dispuesto en el Decreto Supremo Ministerio del Interior N&#xB0; 654 de 1994.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA NORMA OFICIAL DE LA REPUBLICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 146.- Santiago, 29 de febrero de 1996.- Vistos: Estos antecedentes, el Oficio Ord. N&#xB0; 264 de fecha 29 de Febrero de 1996 de la Direcci&#xF3;n General de Obras P&#xFA;blicas, dependiente de esta Secretar&#xED;a de Estado, y lo dispuesto en el Decreto Supremo Ministerio del Interior N&#xB0; 654 de 1994.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

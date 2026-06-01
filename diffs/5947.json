@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-05-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8989410,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; transitorio.- Por el a&#xF1;o 1974, los contribuyentes pagar&#xE1;n el impuesto territorial en cuatro cuotas iguales en los meses de Junio, Agosto, Octubre y Diciembre.</div><div class=\"p\">&nbsp; &nbsp; La presentaci&#xF3;n por servicio de aseo a que se refiere el art&#xED;culo 18&#xB0; de la ley N&#xB0; 11.704, se pagar&#xE1; igualmente, por el a&#xF1;o 1974, en cuatro cuotas iguales, y conjuntamente con la contribuci&#xF3;n territorial respectiva.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; transitorio.- Por el a&#xF1;o 1974, los contribuyentes pagar&#xE1;n el impuesto territorial en cuatro cuotas iguales en los meses de Junio, Agosto, Octubre y Diciembre.</div><div class=\"p\">&nbsp; &nbsp; La prestaci&#xF3;n por servicio de aseo a que se<span class=\"n\" id=\"n_0\">DL 471, HACIENDA<br>Art. 3&#xBA; N&#xBA; 1<br>D.O. 29.05.1974</span> refiere el art&#xED;culo 18&#xB0; de la ley N&#xB0; 11.704, se pagar&#xE1; igualmente, por el a&#xF1;o 1974, en cuatro cuotas iguales, y conjuntamente con la contribuci&#xF3;n territorial respectiva.</div><div class=\"p\">&nbsp; &nbsp;  Los recursos determinados por los conceptos<span class=\"n\" id=\"n_1\">DL 471, HACIENDA<br>Art. 3&#xBA; N&#xBA; 2<br>D.O. 29.05.1974</span> indicados en los incisos precedentes ingresar&#xE1;n en 1974 a rentas generales de la Naci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos de la participaci&#xF3;n municipal en dicho a&#xF1;o deber&#xE1; crearse un &#xED;tem en el Ministerio de Hacienda contra el cual girar&#xE1; el Servicio de Tesorer&#xED;a, sin necesidad de decreto de fondos, para anticipar en forma parcial o total los montos que correspondan a las Municipalidades, hasta por el m&#xE1;ximo del valor enrolado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

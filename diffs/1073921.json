@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2015-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-03-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9584367,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1075764&amp;idParte=9584309&amp;idVersion=2015-03-27\">Resoluci&#xF3;n 615 EXENTA,<br>ECONOM&#xCD;A<br>Art. PRIMERO<br>D.O. 27.03.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo cuarto: En caso de ausencia o impedimento de do&#xF1;a Claudia Marcela Lavanderos Garc&#xED;a, ejercer&#xE1; las funciones precedentemente se&#xF1;aladas do&#xF1;a Macarena S&#xE1;nchez Fierro, C&#xE9;dula Nacional de Identidad N&#xBA; 10.987.436-1, funcionaria de esta Subsecretar&#xED;a en calidad de contrata, asimilada a grado 7&#xBA; de la E.U.S.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1075764,
+      "fecha": "2015-03-27"
+    }
+  },
+  {
+    "fecha": "2016-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

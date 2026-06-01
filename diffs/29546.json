@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-05-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-02-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7180972,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO LEY N&#xB0; 2.763, DE 1979, Y CREA EL SERVICIO DE SALUD DEL AMBIENTE EN LA REGION METROPOLITANA</div><br><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente:</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO LEY N&#xB0; 2.763, DE 1979, Y CREA EL SERVICIO DE SALUD DEL AMBIENTE EN LA REGION METROPOLITANA</div><br><div class=\"p\">&nbsp; &nbsp;  La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente:</div><br><br><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp;  Proyecto de ley:</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art 1&#xBA; del D.F.L. 2, Salud, publicado el 12.02.2005, dictado en conformidad con la facultad conferida al Presidente de la Rep&#xFA;blica por la letra l) del Art. vig&#xE9;simo segundo de la Ley 19937 para determinar la fecha de supresi&#xF3;n del Servicio de Salud del Ambiente de la Regi&#xF3;n Metropolitana, determina que el referido servicio se suprime a contar del 1&#xBA; de enero del a&#xF1;o 2005.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-04-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8344310,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO N&#xBA; 787 EXENTO, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 133 exento.- Santiago, 24 de febrero de 1999.- Visto: Art&#xED;culos N&#xBA;s. 1&#xBA;, 2&#xBA;, 3&#xBA; y 6&#xBA; del D.L. N&#xBA; 799 de 1974 y sus modificaciones; art&#xED;culo 1&#xBA;, n&#xFA;mero 7 del decreto supremo N&#xBA; 654 de 1994 de Interior y sus modificaciones; circular N&#xBA; 35.593 de 1995 y resoluci&#xF3;n N&#xBA; 520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica; decreto ex. N&#xBA;787 de 1997, de Econom&#xED;a; oficio Segpres (D. Ejec.) N&#xBA;225 de 1994; oficio N&#xBA; 00916 de 1999, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n y antecedentes que se acompa&#xF1;an.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Que, por decreto exento N&#xBA; 787 de 1997, de Econom&#xED;a, se asignaron y autorizaron para circular en d&#xED;as s&#xE1;bado, domingo y festivos, exentos del uso del disco fiscal distintivo y sin restricci&#xF3;n de horarios, a varios veh&#xED;culos de propiedad de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n (Corfo).</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Que, se hace necesario modificar el decreto exento antes citado, en la parte correspondiente a los domicilios particulares de los Sres. Bernardo Espinosa Bancalari, Fiscal y Eduardo Arriagada Moreno, Presidente del Comit&#xE9; Sistema Administrador de Empresas.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO N&#xBA; 787 EXENTO, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 133 exento.- Santiago, 24 de febrero de 1999.- Visto: Art&#xED;culos N&#xBA;s. 1&#xBA;, 2&#xBA;, 3&#xBA; y 6&#xBA; del D.L. N&#xBA; 799 de 1974 y sus modificaciones; art&#xED;culo 1&#xBA;, n&#xFA;mero 7 del decreto supremo N&#xBA; 654 de 1994 de Interior y sus modificaciones; circular N&#xBA; 35.593 de 1995 y resoluci&#xF3;n N&#xBA; 520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica; decreto ex. N&#xBA;787 de 1997, de Econom&#xED;a; oficio Segpres (D. Ejec.) N&#xBA;225 de 1994; oficio N&#xBA; 00916 de 1999, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n y antecedentes que se acompa&#xF1;an.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Que, por decreto exento N&#xBA; 787 de 1997, de Econom&#xED;a, se asignaron y autorizaron para circular en d&#xED;as s&#xE1;bado, domingo y festivos, exentos del uso del disco fiscal distintivo y sin restricci&#xF3;n de horarios, a varios veh&#xED;culos de propiedad de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n (Corfo).</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Que, se hace necesario modificar el decreto exento antes citado, en la parte correspondiente a los domicilios particulares de los Sres. Bernardo Espinosa Bancalari, Fiscal y Eduardo Arriagada Moreno, Presidente del Comit&#xE9; Sistema Administrador de Empresas.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

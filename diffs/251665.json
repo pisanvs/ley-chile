@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-07-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-12-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7331171,
+          "old": "<div><div class=\"p\">PRECISA ALCANCE DEL ARTICULO 39 DEL DECRETO N&#xBA; 1.876, DE 1995, DEL MINISTERIO DE SALUD</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 5.662 exenta.- Santiago, 17 de julio de 2006.- Visto: Estos antecedentes; lo dispuesto en el art&#xED;culo 39 del decreto supremo 1.876 de 1995 del Ministerio de Salud; y teniendo presente las facultades que me confieren los art&#xED;culos 94 y 102 del C&#xF3;digo Sanitario y el D.L. 2.763 de 1979, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">PRECISA ALCANCE DEL ARTICULO 39 DEL DECRETO N&#xBA; 1.876, DE 1995, DEL MINISTERIO DE SALUD</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 5.662 exenta.- Santiago, 17 de julio de 2006.- Visto: Estos antecedentes; lo dispuesto en el art&#xED;culo 39 del decreto supremo 1.876 de 1995 del Ministerio de Salud; y teniendo presente las facultades que me confieren los art&#xED;culos 94 y 102 del C&#xF3;digo Sanitario y el D.L. 2.763 de 1979, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

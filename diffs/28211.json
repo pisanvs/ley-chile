@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "1964-03-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1964-08-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9000813,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culos transitorios {Arts. 1-2} ARTICULO 1.o- El plazo establecido en el art&#xED;culo 2.o regir&#xE1;, respecto de la reconstituci&#xF3;n de las inscripciones de los registros conservatorios de Florida y Maull&#xED;n, a contar desde la fecha de la publicaci&#xF3;n de esta ley.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culos transitorios {Arts. 1-2} </div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o- El plazo establecido en el art&#xED;culo 2.o regir&#xE1;,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=28231&amp;idParte=9107172&amp;idVersion=1964-08-13\">LEY 15632<br>Art. 9 Transitorio<br>D.O. 13.08.1964</a></span> respecto de la constituci&#xF3;n de las inscripciones de los Registros Conservatorios de Florida, Maull&#xED;n, Ultima Esperanza y Porvenir, a contar desde la fecha de la publicaci&#xF3;n de esta ley.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 28231,
+      "fecha": "1964-08-13"
+    }
+  },
+  {
+    "fecha": "1967-09-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9000792,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS PARA LA RECONSTITUCION DE LAS INSCRIPCIONES VIGENTES EN LOS REGISTROS DE LOS CONSERVADORES DE BIENES RAICES QUE SEAN DESTRUIDOS TOTAL O PARCIALMENTE POR SINIESTRO</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">ESTABLECE NORMAS PARA LA RECONSTITUCION DE LAS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> INSCRIPCIONES VIGENTES EN LOS REGISTROS DE LOS</div><div class=\"p\">CONSERVADORES DE BIENES RAICES QUE SEAN DESTRUIDOS</div><div class=\"p\">TOTAL O PARCIALMENTE POR SINIESTRO</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 22 de la LEY 16665, publicada el 08.09.1967, derog&#xF3; la presente ley.<br></div></div>"
+        },
+        {
+          "part_id": 9000813,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culos transitorios {Arts. 1-2} </div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o- El plazo establecido en el art&#xED;culo 2.o regir&#xE1;,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=28231&amp;idParte=9107172&amp;idVersion=1964-08-13\">LEY 15632<br>Art. 9 Transitorio<br>D.O. 13.08.1964</a></span> respecto de la constituci&#xF3;n de las inscripciones de los Registros Conservatorios de Florida, Maull&#xED;n, Ultima Esperanza y Porvenir, a contar desde la fecha de la publicaci&#xF3;n de esta ley.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culos transitorios {Arts. 1-2} </div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o- El plazo establecido en el art&#xED;culo 2.o regir&#xE1;,<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=28231&amp;idParte=9107172&amp;idVersion=1964-08-13\">LEY 15632<br>Art. 9 Transitorio<br>D.O. 13.08.1964</a></span> respecto de la constituci&#xF3;n de las inscripciones de los Registros Conservatorios de Florida, Maull&#xED;n, Ultima Esperanza y Porvenir, a contar desde la fecha de la publicaci&#xF3;n de esta ley.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

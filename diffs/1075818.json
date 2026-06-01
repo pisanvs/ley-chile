@@ -1,0 +1,55 @@
+[
+  {
+    "fecha": "2015-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-04-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9585279,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Des&#xED;gnase como Jefe de la Defensa Nacional en Regi&#xF3;n de Atacama al Teniente Coronel, don Marcelo Urrutia Caro.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1076002&amp;idParte=9587418&amp;idVersion=2015-04-07\">Decreto 379, INTERIOR<br>Art. PRIMERO<br>D.O. 07.04.2015</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Des&#xED;gnase como Jefe de la Defensa Nacional en Regi&#xF3;n de Atacama al General de Brigada Rafael Fuenzalida Carmona, RUN N&#xBA; 9.161.373-5.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1076002,
+      "fecha": "2015-04-07"
+    }
+  },
+  {
+    "fecha": "2015-05-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9585277,
+          "old": "<div><br><div class=\"p\">DECLARA ESTADO DE EXCEPCI&#xD3;N CONSTITUCIONAL DE CAT&#xC1;STROFE, POR CALAMIDAD P&#xDA;BLICA, EN LA REGI&#xD3;N DE ATACAMA</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 352.- Santiago, 25 de marzo de 2015.- Vistos: Lo establecido en los art&#xED;culos 32 N&#xBA; 5 y 41 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; en la ley N&#xBA; 18.415, Org&#xE1;nica Constitucional de Estados de Excepci&#xF3;n y, en la resoluci&#xF3;n N&#xBA; 1.600, de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Considerando,</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Que a consecuencia del frente de mal tiempo que ha afectado a la Regi&#xF3;n de Atacama se han producido inundaciones, derrumbes, aluviones de roca y barro, avalanchas de lodo y piedras, desborde de r&#xED;os y otros cursos de aguas, as&#xED; como da&#xF1;os en caminos, puentes y edificios.</div><div class=\"p\">&nbsp; &nbsp;  Que tambi&#xE9;n el fen&#xF3;meno clim&#xE1;tico ha provocado el aislamiento de personas en diversos sectores de la Regi&#xF3;n de Atacama y ha obligado a la evacuaci&#xF3;n de la poblaci&#xF3;n en varias localidades.</div><div class=\"p\">&nbsp; &nbsp;  Que asimismo, en diversas comunas de la Regi&#xF3;n de Atacama se ha producido la interrupci&#xF3;n del suministro de energ&#xED;a el&#xE9;ctrica y de agua potable.</div><div class=\"p\">&nbsp; &nbsp;  Que para las comunas de Copiap&#xF3;, Tierra Amarilla, Diego de Almagro y Alto del Carmen, el Ministerio de Salud ha declarado alerta sanitaria.</div><div class=\"p\">&nbsp; &nbsp;  Que las situaciones previamente referidas constituyen una calamidad p&#xFA;blica que generar&#xE1; el requerimiento de eficiencia y eficacia en el uso de recursos y organizaci&#xF3;n de personas por parte de los servicios p&#xFA;blicos competentes, tanto durante los procesos de evacuaci&#xF3;n y rescate de personas y asistencia a los damnificados, as&#xED; como en la posterior recuperaci&#xF3;n de los bienes y personas afectadas por las inundaciones.</div><div class=\"p\">&nbsp; &nbsp;  Que asimismo, es necesario atender la seguridad p&#xFA;blica en las zonas afectadas, dado que se ha dispuesto la evacuaci&#xF3;n de numerosas viviendas que han quedado sin resguardo, lo que hace necesario una adecuada coordinaci&#xF3;n de los &#xF3;rganos de la Administraci&#xF3;n del Estado para evitar que cunda una situaci&#xF3;n de desorden o p&#xE1;nico.</div><div class=\"p\">&nbsp; &nbsp;  Que teniendo en cuenta lo anteriormente se&#xF1;alado,</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div></div>",
+          "new": "<div><br><div class=\"p\">DECLARA ESTADO DE EXCEPCI&#xD3;N CONSTITUCIONAL DE CAT&#xC1;STROFE, POR CALAMIDAD P&#xDA;BLICA, EN LA REGI&#xD3;N DE ATACAM<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>A</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 352.- Santiago, 25 de marzo de 2015.- Vistos: Lo establecido en los art&#xED;culos 32 N&#xBA; 5 y 41 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; en la ley N&#xBA; 18.415, Org&#xE1;nica Constitucional de Estados de Excepci&#xF3;n y, en la resoluci&#xF3;n N&#xBA; 1.600, de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Considerando,</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Que a consecuencia del frente de mal tiempo que ha afectado a la Regi&#xF3;n de Atacama se han producido inundaciones, derrumbes, aluviones de roca y barro, avalanchas de lodo y piedras, desborde de r&#xED;os y otros cursos de aguas, as&#xED; como da&#xF1;os en caminos, puentes y edificios.</div><div class=\"p\">&nbsp; &nbsp;  Que tambi&#xE9;n el fen&#xF3;meno clim&#xE1;tico ha provocado el aislamiento de personas en diversos sectores de la Regi&#xF3;n de Atacama y ha obligado a la evacuaci&#xF3;n de la poblaci&#xF3;n en varias localidades.</div><div class=\"p\">&nbsp; &nbsp;  Que asimismo, en diversas comunas de la Regi&#xF3;n de Atacama se ha producido la interrupci&#xF3;n del suministro de energ&#xED;a el&#xE9;ctrica y de agua potable.</div><div class=\"p\">&nbsp; &nbsp;  Que para las comunas de Copiap&#xF3;, Tierra Amarilla, Diego de Almagro y Alto del Carmen, el Ministerio de Salud ha declarado alerta sanitaria.</div><div class=\"p\">&nbsp; &nbsp;  Que las situaciones previamente referidas constituyen una calamidad p&#xFA;blica que generar&#xE1; el requerimiento de eficiencia y eficacia en el uso de recursos y organizaci&#xF3;n de personas por parte de los servicios p&#xFA;blicos competentes, tanto durante los procesos de evacuaci&#xF3;n y rescate de personas y asistencia a los damnificados, as&#xED; como en la posterior recuperaci&#xF3;n de los bienes y personas afectadas por las inundaciones.</div><div class=\"p\">&nbsp; &nbsp;  Que asimismo, es necesario atender la seguridad p&#xFA;blica en las zonas afectadas, dado que se ha dispuesto la evacuaci&#xF3;n de numerosas viviendas que han quedado sin resguardo, lo que hace necesario una adecuada coordinaci&#xF3;n de los &#xF3;rganos de la Administraci&#xF3;n del Estado para evitar que cunda una situaci&#xF3;n de desorden o p&#xE1;nico.</div><div class=\"p\">&nbsp; &nbsp;  Que teniendo en cuenta lo anteriormente se&#xF1;alado,</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo primero del Decreto 554, Interior, publicado el 01.05.2015, prorroga el estado de excepci&#xF3;n constitucional de cat&#xE1;strofe, por calamidad p&#xFA;blica, declarado en la Regi&#xF3;n de Atacama, mediante la presente norma, por un plazo adicional de 30 d&#xED;as, a contar del vencimiento del per&#xED;odo previsto en dicho acto administrativo. Por su parte, el Art&#xED;culo segundo de la citada norma, renueva, por el mismo per&#xED;odo, la designaci&#xF3;n como Jefe de la Defensa Nacional en Regi&#xF3;n de Atacama del General de Brigada, Rafael Fuenzalida Carmona, con las mismas facultades que se establecieron en el decreto N&#xBA; 352 de 2015, del Ministerio del Interior y Seguridad P&#xFA;blica.</div></div>"
+        },
+        {
+          "part_id": 9585279,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1076002&amp;idParte=9587418&amp;idVersion=2015-04-07\">Decreto 379, INTERIOR<br>Art. PRIMERO<br>D.O. 07.04.2015</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Des&#xED;gnase como Jefe de la Defensa Nacional en Regi&#xF3;n de Atacama al General de Brigada Rafael Fuenzalida Carmona, RUN N&#xBA; 9.161.373-5.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1076002&amp;idParte=9587418&amp;idVersion=2015-04-07\">Decreto 379, INTERIOR<br>Art. PRIMERO<br>D.O. 07.04.2015</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Des&#xED;gnase como Jefe de la Defensa Nacional en Regi&#xF3;n de Atacama al General de Brigada Rafael Fuenzalida Carmona, RUN N&#xBA; 9.161.373-5.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-05-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

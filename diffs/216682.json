@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-06-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7305092,
+          "old": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 981.- Santiago, 16 de septiembre de 2003.- Vistos: Estos antecedentes: Oficio del Instituto Nacional de Normalizaci&#xF3;n, Ref. 3000-0761-02 de fecha 5 de noviembre de 2002; ord. N&#xBA; 202 de fecha 14/01/2003 de la Direcci&#xF3;n Nacional de Obras Hidr&#xE1;ulicas; ord. DAP N&#xBA; 531/222 de fecha 9/12/2002 de la Direcci&#xF3;n Nacional de Aeropuertos; ord. N&#xBA; 3.348 de fecha 2/12/2002 de la Superintendencia de Servicios Sanitarios; y lo dispuesto en el D.S. Ministerio Secretar&#xED;a General de la Presidencia, N&#xBA; 19, del 10 de febrero de 2001, modificado por el D.S. N&#xBA; 61, del 17 de mayo de 2001.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 981.- Santiago, 16 de septiembre de 2003.- Vistos: Estos antecedentes: Oficio del Instituto Nacional de Normalizaci&#xF3;n, Ref. 3000-0761-02 de fecha 5 de noviembre de 2002; ord. N&#xBA; 202 de fecha 14/01/2003 de la Direcci&#xF3;n Nacional de Obras Hidr&#xE1;ulicas; ord. DAP N&#xBA; 531/222 de fecha 9/12/2002 de la Direcci&#xF3;n Nacional de Aeropuertos; ord. N&#xBA; 3.348 de fecha 2/12/2002 de la Superintendencia de Servicios Sanitarios; y lo dispuesto en el D.S. Ministerio Secretar&#xED;a General de la Presidencia, N&#xBA; 19, del 10 de febrero de 2001, modificado por el D.S. N&#xBA; 61, del 17 de mayo de 2001.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

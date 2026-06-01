@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1980-09-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-04-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8431999,
+          "old": "<div><div class=\"p\">APRUEBA PLANES DE ESTUDIOS Y PROGRAMAS DE TRATAMIENTO DE EDUCACION DIFERENCIAL PARA TRASTORNOS ESPECIFICOS DE APRENDIZAJE DE LA LECTO-ESCRITURA Y CALCULO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 143 Ex.- Santiago, 21 de Agosto de 1980.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Que es principio rector que orienta la acci&#xF3;n del Supremo Gobierno proporcionar igualdad de oportunidades a todos los chilenos, raz&#xF3;n por la cual el sistema educacional debe estar al servicio del pa&#xED;s en su conjunto;</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Que, por consiguiente, toda persona que presente dificultades en el aprendizaje debe ser atendida en el sistema educacional;</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Que, en relaci&#xF3;n con estas dificultades, existe un gran n&#xFA;mero de alumnos que presentan trastornos espec&#xED;ficos de aprendizaje en la lecto- escritura y/o c&#xE1;lculo;</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- Que dichos alumnos asisten a cursos regulares, regidos por planes y programas de estudio de la educaci&#xF3;n general b&#xE1;sica, y requieren atenci&#xF3;n simult&#xE1;nea en grupos de habilitaci&#xF3;n, con planes y programas de tratamientos especializados;</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA;.- Que es necesario aprobar planes y programas de tratamiento que se apliquen en forma experimental por cuatro a&#xF1;os en Escuelas de Educaci&#xF3;n Diferencial para Trastornos Espec&#xED;ficos de Aprendizaje y en Grupos Diferenciales;</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en los decretos leyes N.os 1 y 128, de 1973; 527, de 1974; decreto supremo de Educaci&#xF3;n N&#xBA; 2.039, de 1980; acta constitucional N&#xBA; 3, art&#xED;culo 1&#xBA;, N&#xBA; 13, y en el art&#xED;culo 72, N&#xBA; 2, de la Constituci&#xF3;n Pol&#xED;tica del Estado, y en la resoluci&#xF3;n N&#xBA; 600, de 1977, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA PLANES DE ESTUDIOS Y PROGRAMAS DE TRATAMIENTO DE EDUCACION DIFERENCIAL PARA TRASTORNOS ESPECIFICOS DE APRENDIZAJE DE LA LECTO-ESCRITURA Y CALCULO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 143 Ex.- Santiago, 21 de Agosto de 1980.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Que es principio rector que orienta la acci&#xF3;n del Supremo Gobierno proporcionar igualdad de oportunidades a todos los chilenos, raz&#xF3;n por la cual el sistema educacional debe estar al servicio del pa&#xED;s en su conjunto;</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Que, por consiguiente, toda persona que presente dificultades en el aprendizaje debe ser atendida en el sistema educacional;</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Que, en relaci&#xF3;n con estas dificultades, existe un gran n&#xFA;mero de alumnos que presentan trastornos espec&#xED;ficos de aprendizaje en la lecto- escritura y/o c&#xE1;lculo;</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- Que dichos alumnos asisten a cursos regulares, regidos por planes y programas de estudio de la educaci&#xF3;n general b&#xE1;sica, y requieren atenci&#xF3;n simult&#xE1;nea en grupos de habilitaci&#xF3;n, con planes y programas de tratamientos especializados;</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA;.- Que es necesario aprobar planes y programas de tratamiento que se apliquen en forma experimental por cuatro a&#xF1;os en Escuelas de Educaci&#xF3;n Diferencial para Trastornos Espec&#xED;ficos de Aprendizaje y en Grupos Diferenciales;</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en los decretos leyes N.os 1 y 128, de 1973; 527, de 1974; decreto supremo de Educaci&#xF3;n N&#xBA; 2.039, de 1980; acta constitucional N&#xBA; 3, art&#xED;culo 1&#xBA;, N&#xBA; 13, y en el art&#xED;culo 72, N&#xBA; 2, de la Constituci&#xF3;n Pol&#xED;tica del Estado, y en la resoluci&#xF3;n N&#xBA; 600, de 1977, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

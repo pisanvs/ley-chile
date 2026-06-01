@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2001-09-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6349281,
+          "old": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A LA SOCIEDAD AGRICOLA EL CARMEN LTDA.</div><br></div>",
+          "new": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A LA SOCIEDAD AGRICOLA EL CARMEN LTDA.</div><br><br></div>"
+        },
+        {
+          "part_id": 6349282,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  La Direcci&#xF3;n Regional Metropolitana Santiago Oriente del Servicio de Impuestos Internos, por res. N&#xBA; ex. 2.014 de 6 de septiembre de 2001, otorga a contar del d&#xED;a 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n y en forma indefinida, a la Sociedad Agr&#xED;cola El Carmen Ltda., RUT N&#xBA; 78.103.190-9, la calidad de Agente Retenedor del Impuesto al Valor Agregado por las ventas de ganado vivo, de acuerdo con lo establecido en la res.</div><div class=\"p\">N&#xBA; 3.721 del 28 de julio de 2000, de la Direcci&#xF3;n Nacional del Servicio y publicada en el Diario Oficial. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  La Direcci&#xF3;n Regional Metropolitana Santiago Oriente del Servicio de Impuestos Internos, por res. N&#xBA; ex. 2.014 de 6 de septiembre de 2001, otorga a contar del d&#xED;a 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n y en forma indefinida, a la Sociedad Agr&#xED;cola El Carmen Ltda., RUT N&#xBA; 78.103.190-9, la calidad de Agente Retenedor del Impuesto al Valor Agregado por las ventas de ganado vivo, de acuerdo con lo establecido en la Res. N&#xBA; Ex. 3.721 del 28 de julio de 2000, de la<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 27.09.2001</span> Direcci&#xF3;n Nacional del Servicio y publicada en el Diario Oficial. </div></div>"
+        }
+      ]
+    }
+  }
+]

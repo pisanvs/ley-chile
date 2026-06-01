@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-03-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9891438,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Conc&#xE9;dese Audiencia a cualquier interesado para el d&#xED;a jueves 22 de marzo de 2018, a las 10 de la ma&#xF1;ana, en las dependencias de este Ministerio ubicadas en San Mart&#xED;n 73, piso 8, comuna de Santiago, a fin de que puedan realizar presentaciones, formular observaciones y aportar documentos y antecedentes que estimen pertinentes.</div><div class=\"p\">&nbsp; &nbsp;  2. Del&#xE9;ganse en la jefa del Departamento de Legislaci&#xF3;n Ambiental, Lorna P&#xFC;schel, y en las abogadas del mismo departamento, Alejandra Guerra e Isidora Infante, facultades suficientes para comparecer y dirigir la referida audiencia.</div><div class=\"p\">&nbsp; &nbsp;  3. Notif&#xED;quese la presente resoluci&#xF3;n por carta certificada, en el domicilio designado al efecto y publ&#xED;quese en el Diario Oficial.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Conc&#xE9;dese Audiencia <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>a cualquier interesado para el d&#xED;a jueves 22 de marzo de 2018, a las 10 de la ma&#xF1;ana, en las dependencias de este Ministerio ubicadas en San Mart&#xED;n 73, piso 8, comuna de Santiago, a fin de que puedan realizar presentaciones, formular observaciones y aportar documentos y antecedentes que estimen pertinentes.</div><div class=\"p\">&nbsp; &nbsp;  2. Del&#xE9;ganse en la jefa del Departamento de Legislaci&#xF3;n Ambiental, Lorna P&#xFC;schel, y en las abogadas del mismo departamento, Alejandra Guerra e Isidora Infante, facultades suficientes para comparecer y dirigir la referida audiencia.</div><div class=\"p\">&nbsp; &nbsp;  3. Notif&#xED;quese la presente resoluci&#xF3;n por carta certificada, en el domicilio designado al efecto y publ&#xED;quese en el Diario Oficial.</div><br><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 152 Exenta, Medio Ambiente, publicada el 12.03.2018, complementa la presente norma, en el sentido de precisar que la solicitud de invalidaci&#xF3;n objeto del presente proceso administrativo recae sobre el decreto supremo N&#xB0; 41, de 2015, del Ministerio del Medio Ambiente, que aprueba cartograf&#xED;a oficial del Santuario de la Naturaleza R&#xED;o Cruces y Chorocomayo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

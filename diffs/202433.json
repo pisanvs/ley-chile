@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-09-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-10-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6395882,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xB0; 441, de fecha 28 de agosto de 2002, se dispuso por Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo Regi&#xF3;n de Coquimbo, el llamado N&#xB0; 13/2002 a postular en la IV Regi&#xF3;n en Programa que en ella se indica:</div><br><div class=\"p\">Fecha de inicio postulaci&#xF3;n&nbsp; : 16 de septiembre de 2002.</div><div class=\"p\">Fecha de t&#xE9;rmino postulaci&#xF3;n : 27 de septiembre de 2002.</div><br><div class=\"p\">Programa&nbsp;  Modalidad&nbsp; &nbsp; Monto M&#xE1;x.&nbsp; Recursos disponibles</div><div class=\"p\">Privado&nbsp;  Indiv.o Colect. Subsidio&nbsp; Toda la Regi&#xF3;n</div><br><div class=\"p\">Oferta 1</div><div class=\"p\">Subsidio&nbsp; &nbsp; &nbsp;  Indiv.o&nbsp; &nbsp;  Hasta 140 UF&nbsp; &nbsp;  34.800 UF</div><div class=\"p\">Nueva B&#xE1;sica&nbsp;  Colect.</div><br><div class=\"p\">Ahorro m&#xED;nimo postulaci&#xF3;n: 20 U.F. al 31/08/2002.</div><br><div class=\"p\">&nbsp; &nbsp;  Los dem&#xE1;s requisitos y condiciones se encuentran establecidas en la resoluci&#xF3;n exenta N&#xB0;441, de fecha 28 de agosto de 2002 extractadas, antes mencionadas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xB0; 441, de fecha 28 de agosto de 2002, se dispuso por Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo Regi&#xF3;n de Coquimbo, el llamado N&#xB0; 13/2002 a postular en la IV Regi&#xF3;n en Programa que en ella se indica:</div><br><div class=\"p\">Fecha de inicio postulaci&#xF3;n&nbsp; : 16 de septiembre de 2002.</div><div class=\"p\">Fecha de t&#xE9;rmino postulaci&#xF3;n : 27 de septiembre de 2002.</div><div class=\"p\">Programa&nbsp; &nbsp;  Modalidad&nbsp; &nbsp; Monto M&#xE1;x.&nbsp; Recursos disponibles</div><div class=\"p\">Privado&nbsp;  Indiv.o Colect. Subsidio&nbsp; &nbsp; &nbsp; &nbsp; Toda la Regi&#xF3;n</div><br><div class=\"p\">Oferta 1</div><div class=\"p\">Subsidio&nbsp; &nbsp; &nbsp;  Indiv.o&nbsp; &nbsp; Hasta 140 UF&nbsp; &nbsp; &nbsp; 45.120 UF<span class=\"n\" id=\"n_0\">RES 489 EXENTA,<br>VIVIENDA<br>D.O. 11.10.2002</span></div><div class=\"p\">Nueva B&#xE1;sica&nbsp;  Colect.</div><div class=\"p\">Ahorro m&#xED;nimo postulaci&#xF3;n: 20 U.F. al 31/08/2002.</div><br><div class=\"p\">&nbsp; &nbsp;  Los dem&#xE1;s requisitos y condiciones se encuentran establecidas en la resoluci&#xF3;n exenta N&#xB0;441, de fecha 28 de agosto de 2002 extractadas, antes mencionadas.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

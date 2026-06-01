@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-09-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325901,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA. AUTORIZA A INDUSTRIA PESQUERA POSEIDON S.A. PARA AMPLIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA. AUTORIZA A INDUSTRIA PESQUERA POSEIDON S.A. PARA AMPLIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE SE&#xD1;ALA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1957-09-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999903,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; La Empresa de los Ferrocarriles del Estado establecer&#xE1; durante el per&#xED;odo escolar o universitario, tarifas especiales cuyo valor no podr&#xE1; exceder del 50% del pasaje o abono corriente m&#xE1;s econ&#xF3;mico en favor de los estudiantes.</div><div class=\"p\">&nbsp; &nbsp; De igual franquicia gozar&#xE1;n los ciudadanos que est&#xE9;n cumpliendo con el Servicio Militar fuera de su ciudad de origen (1).</div><div class=\"p\">&nbsp; &nbsp; Los profesores y cualquier otro funcionario docente de establecimientos fiscales gozar&#xE1;n de igual franquicia para trasladarse hasta la localidad donde hacen clases, siempre que el Ministerio de Educaci&#xF3;n P&#xFA;blica les haya autorizado residencia fuera de ellas.</div><div class=\"p\">&nbsp; &nbsp; El mismo descuento del 50% regir&#xE1; en cualquier &#xE9;poca para los viajes colectivos y de estudios que realicen los estudiantes de los diversos establecimientos de educaci&#xF3;n acompa&#xF1;ados de sus profesores o de cualquier otro funcionario docente del respectivo colegio y los deportistas no profesionales afiliados a Federaciones Oficiales que participen en Campeonatos Nacionales acompa&#xF1;ados de hasta dos dirigentes, previa presentaci&#xF3;n de una solicitud al Jefe de Estaci&#xF3;n respectiva en que se acrediten sus nombres debidamente autorizados por el Consejo Nacional de Deportes.</div><div class=\"p\">&nbsp; &nbsp; La calidad de estudiante o profesor se acreditar&#xE1; con un certificado del Director del respectivo establecimiento educacional y la residencia mediante certificado extendido por Carabineros, documentos que s&#xF3;lo tendr&#xE1;n validez durante los per&#xED;odos de funcionamiento escolar o universitario.</div><div class=\"p\">&nbsp; &nbsp; Las n&#xF3;minas de participantes en jiras de estudio ser&#xE1;n autorizadas por el Director Provincial respectivo, trat&#xE1;ndose de educaci&#xF3;n primaria, y por los Directores de los establecimientos en las dem&#xE1;s ramas de la ense&#xF1;anza.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; DEROGADO<span class=\"n\" id=\"n_0\">LEY 18091<br>Art. 3&#xBA;<br>D.O. 30.12.1981</span></div><br></div>"
+        },
+        {
+          "part_id": 8999904,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0; Las Compa&#xF1;&#xED;as o Conjuntos Teatrales y Circenses que sean calificados de &quot;Chileno o Nacional&quot; por declaraci&#xF3;n de la Direcci&#xF3;n Superior del Teatro Nacional, gozar&#xE1;n de una rebaja de un 50% en el valor de sus pasajes y fletes de carga y equipaje en los Ferrocarriles del Estado.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0; DEROGADO<span class=\"n\" id=\"n_1\">LEY 18091<br>Art. 3&#xBA;<br>D.O. 30.12.1981</span></div><br></div>"
+        },
+        {
+          "part_id": 8999905,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0; Las rebajas establecidas en los art&#xED;culos precedentes ser&#xE1;n de cargo fiscal, para cuyo efecto la Empresa de los Ferrocarriles del Estado llevar&#xE1; las cuentas correspondientes.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0; DEROGADO<span class=\"n\" id=\"n_2\">LEY 18091<br>Art. 3&#xBA;<br>D.O. 30.12.1981</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-08-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-06-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9093884,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- F&#xED;janse las siguientes normas t&#xE9;cnicas en materias el&#xE9;ctricas, cuyos textos se incluyen en el presente decreto:</div><br><div class=\"p\">- NCH Elec. 2/84. Electricidad. Elaboraci&#xF3;n y presentaci&#xF3;n de proyectos</div><br><div class=\"p\">- NCH Elec. 4/84. Electricidad. Instalaciones interiores en baja tensi&#xF3;n.</div><br><div class=\"p\">- NCH Elec. 10/84. Electricidad. Tr&#xE1;mite para la puesta en servicio de una instalaci&#xF3;n interior. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- F&#xED;janse las siguientes normas t&#xE9;cnicas en materias el&#xE9;ctricas, cuyos textos se incluyen en el presente decreto:</div><br><div class=\"p\">- NCH Elec. 2/84. Electricidad. Elaboraci&#xF3;n y</div><div class=\"p\">&nbsp; presentaci&#xF3;n de proyectos</div><br><div class=\"p\">- DEROGADA<span class=\"n\" id=\"n_0\">DTO 115, ECONOMIA<br>Art. 2<br>D.O. 18.06.2004</span></div><div class=\"p\">- NCH Elec. 10/84. Electricidad. Tr&#xE1;mite para la</div><div class=\"p\">&nbsp; puesta en servicio de una instalaci&#xF3;n interior.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1979-08-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9933324,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case el Reglamento sobre Concesiones Mar&#xED;timas, aprobado por D.S. (M) N&#xB0; 223, de 11 de Marzo de 1968, en la forma que se indica:</div><div class=\"p\">&nbsp; &nbsp;  Sustit&#xFA;yese el inciso primero, del p&#xE1;rrafo 4), de la letra J, del art&#xED;culo 65&#xB0; por los siguientes:</div><div class=\"p\">&nbsp; &nbsp;  &quot;4) Algas Marinas:</div><div class=\"p\">&nbsp; &nbsp;  De cualquier tipo o especie extra&#xED;da o recolectada, $ 20 oro, por tonelada de alga h&#xFA;meda, considerando el peso del alga con el 100% de humedad.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos del cobro, se restar&#xE1; al porcentaje de humedad que tengan las algas al momento de su pesaje. Si ese porcentaje resulta inferior al 100%, la determinaci&#xF3;n del peso se efectuar&#xE1; aplicando el factor de conversi&#xF3;n establecido por el Director del Litoral y de Marina Mercante.&quot;.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case el Reglamento sobre Concesiones Mar&#xED;timas, aprobado por <a href=\"https://www.leychile.cl/Navegar?idNorma=11202&amp;idParte=0&amp;idVersion=\">D.S. (M) N&#xB0; 223, de 11 de Marzo de 1968</a>, en la forma que se indica:</div><div class=\"p\">&nbsp; &nbsp;  Sustit&#xFA;yese el inciso primero, del p&#xE1;rrafo 4), de la letra J, del <a href=\"https://www.leychile.cl/Navegar?idNorma=11202&amp;idParte=9391025&amp;idVersion=\">art&#xED;culo 65&#xB0;</a> por los siguientes:</div><div class=\"p\">&nbsp; &nbsp;  &quot;4) Algas Marinas:</div><div class=\"p\">&nbsp; &nbsp;  De cualquier tipo o especie extra&#xED;da o recolectada, $ 20 oro, por tonelada de alga h&#xFA;meda, considerando el peso del alga con el 100% de humedad.</div><div class=\"p\">&nbsp; &nbsp;  Para <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1120801&amp;idParte=9933341&amp;idVersion=1979-08-14\">Rectificaci&#xF3;n 1634<br>D.O. 14.08.1979</a></span>los efectos del cobro, se estar&#xE1; al porcentaje de humedad que tengan las algas al momento de su pesaje. Si ese porcentaje resulta inferior al 100%, la determinaci&#xF3;n del peso se efectuar&#xE1; aplicando el factor de conversi&#xF3;n establecido por el Director del Litoral y de Marina Mercante.&quot;.</div><div class=\"p\"> </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1120801,
+      "fecha": "1979-08-14"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-07-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-08-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10349272,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xBA; 791 EXENTA, DE FECHA 12 DE JULIO DE 2022</div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO D<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1179881&amp;idParte=10356919&amp;idVersion=2022-08-10\">Rectificaci&#xF3;n 2474<br>D.O. 10.08.2022</a></span>E RESOLUCI&#xD3;N N&#xBA; 791 EXENTA, DE FECHA 12 DE JULIO DE 2022</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1179881,
+      "fecha": "2022-08-10"
+    }
+  }
+]

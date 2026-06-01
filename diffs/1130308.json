@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-04-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-04-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10013775,
+          "old": "<div><br><div class=\"p\">NOTIFICA RESOLUCI&#xD3;N DE CALIFICACI&#xD3;N AMBIENTAL PROYECTO: &quot;HIJUELAS QUIL&#xCD;N&quot;</div></div>",
+          "new": "<div><br><div class=\"p\">NOTIFICA RESOLUCI&#xD3;N QUE RECHAZA SOLICITUD DE REALIZACI&#xD3;N DE PROCESO DE PARTICIPACI&#xD3;N CIUDADA<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1130459&amp;idParte=10014820&amp;idVersion=2019-04-12\">Aviso S/N,<br>MEDIO AMBIENTE<br>D.O. 12.04.2019</a></span>NA PROYECTO: &quot;HIJUELAS QUIL&#xCD;N&quot;</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1130459,
+      "fecha": "2019-04-12"
+    }
+  }
+]

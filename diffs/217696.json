@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1974-08-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-11-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004625,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Asci&#xE9;ndese, por gracia, al grado de Prefecto de Investigaciones, 3&#xAA;. Categor&#xED;a Directiva Policial, al detective 4&#xBA; don Nelson Mario Bustos Far&#xED;as, muerto en el cumplimiento del deber, por acto determinado del servicio.</div><div class=\"p\">&nbsp; &nbsp;  Confi&#xE9;rese, por gracia, a don Lincoln Bustos Lagos, padre leg&#xED;timo del funcionario fallecido, el derecho a disfrutar del montep&#xED;o correspondiente a dicho cargo, ampliado en la forma que expresa el art&#xED;culo 154 del DFL. 2, de 1968.</div><div class=\"p\">&nbsp; &nbsp;  El mayor gasto que origine este art&#xED;culo se pagar&#xE1; con cargo al &#xED;tem de pensiones del Presupuesto del Ministerio de Hacienda.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Asci&#xE9;ndese, por gracia, al grado de Prefecto de Investigaciones, 3&#xAA;. Categor&#xED;a Directiva Policial, al detective 4&#xBA; don Nelson Mario Bustos Far&#xED;as, muerto en el cumplimiento del deber, por acto determinado del servicio.</div><div class=\"p\">&nbsp; &nbsp;  Confi&#xE9;rese, por gracia, a don Lincoln Bustos Lagos, padre leg&#xED;timo del funcionario fallecido, el derecho a disfrutar del montep&#xED;o correspondiente a dicho cargo, ampliado en la forma que expresa el art&#xED;culo 154 del DFL. 2, de 1968; Ot&#xF3;rgasele,<span class=\"n\" id=\"n_0\">DL 718, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 07.11.1974</span> asimismo, el derecho a acogerse a los beneficios del decreto ley N&#xBA; 417, aunque no haya sido causante de asignaci&#xF3;n familiar, limitando el beneficio s&#xF3;lo al usufructo, de por vida, del inmueble</div><div class=\"p\">&nbsp; &nbsp;  El mayor gasto que origine este art&#xED;culo se pagar&#xE1; con cargo al &#xED;tem de pensiones del Presupuesto del Ministerio de Hacienda.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1977-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004625,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Asci&#xE9;ndese, por gracia, al grado de Prefecto de Investigaciones, 3&#xAA;. Categor&#xED;a Directiva Policial, al detective 4&#xBA; don Nelson Mario Bustos Far&#xED;as, muerto en el cumplimiento del deber, por acto determinado del servicio.</div><div class=\"p\">&nbsp; &nbsp;  Confi&#xE9;rese, por gracia, a don Lincoln Bustos Lagos, padre leg&#xED;timo del funcionario fallecido, el derecho a disfrutar del montep&#xED;o correspondiente a dicho cargo, ampliado en la forma que expresa el art&#xED;culo 154 del DFL. 2, de 1968; Ot&#xF3;rgasele,<span class=\"n\" id=\"n_0\">DL 718, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 07.11.1974</span> asimismo, el derecho a acogerse a los beneficios del decreto ley N&#xBA; 417, aunque no haya sido causante de asignaci&#xF3;n familiar, limitando el beneficio s&#xF3;lo al usufructo, de por vida, del inmueble</div><div class=\"p\">&nbsp; &nbsp;  El mayor gasto que origine este art&#xED;culo se pagar&#xE1; con cargo al &#xED;tem de pensiones del Presupuesto del Ministerio de Hacienda.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Asci&#xE9;ndese, por gracia, al grado de Prefecto de Investigaciones, 3&#xAA;. Categor&#xED;a Directiva Policial, al detective 4&#xBA; don Nelson Mario Bustos Far&#xED;as, muerto en el cumplimiento del deber, por acto determinado del servicio.</div><div class=\"p\">&nbsp; &nbsp;  Confi&#xE9;rese, por gracia, a don Lincoln Bustos Lagos, padre leg&#xED;timo del funcionario fallecido, el derecho a disfrutar del montep&#xED;o correspondiente a dicho cargo, ampliado en la forma que expresa el art&#xED;culo 154 del DFL. 2, de 1968; Ot&#xF3;rgasele,<span class=\"n\" id=\"n_0\">DL 718, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 07.11.1974<br>DL 1843, VIVIENDA<br>Art. 1&#xBA;<br>D.O. 01.07.1977</span> asimismo, el derecho a acogerse a los beneficios del decreto ley N&#xBA; 417.</div><br><div class=\"p\">&nbsp; &nbsp;  El mayor gasto que origine este art&#xED;culo se pagar&#xE1; con cargo al &#xED;tem de pensiones del Presupuesto del Ministerio de Hacienda<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div>.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 2&#xBA; del DL 1843, Vivienda, publicado el 01.07.1977 dispone que: &quot; Para cumplir con lo dispuesto en los cuerpos legales indicados en el art&#xED;culo anterior, el Servicio Regional de Vivienda y Urbanizaci&#xF3;n de la V Regi&#xF3;n transferir&#xE1; gratuitamente a don Lincoln Bustos Lagos el dominio del inmueble que ocupa, que corresponde al departamento 21 del block 3 de calle L&#xFA;cumos, ampliaci&#xF3;n de la poblaci&#xF3;n Miraflores Alto, de Vi&#xF1;a del Mar.&quot;<br></div></div>"
+        }
+      ]
+    }
+  }
+]

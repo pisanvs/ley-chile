@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-12-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-03-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6452443,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Cr&#xE9;anse a contar del d&#xED;a 5 de abril del 2004, en los sectores de Los Libertadores, Los Pajaritos y Chicureo, comunas de Huechuraba, Maip&#xFA; y Colina, respectivamente, Juntas Inscriptoras permanentes, cuyos territorios jurisdiccionales ser&#xE1;n comunales.</div><div class=\"p\">&nbsp; &nbsp;  2.- Las Juntas Inscriptoras que se crean funcionar&#xE1;n en per&#xED;odo ordinario los siete primeros d&#xED;as h&#xE1;biles de los meses de junio, julio y agosto de cada a&#xF1;o, y en los per&#xED;odos extraordinarios que contempla la letra b) del inciso 1&#xBA; del art&#xED;culo 35 de la ley N&#xBA; 18.556.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Cr&#xE9;anse a contar del d&#xED;a 5 de abril del 2004, en los sectores de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Los Libertadores, Los Pajaritos y Chicureo, comunas de Huechuraba, Maip&#xFA; y Colina, respectivamente, Juntas Inscriptoras permanentes, cuyos territorios jurisdiccionales ser&#xE1;n comunales.</div><div class=\"p\">&nbsp; &nbsp;  2.- Las Juntas Inscriptoras que se crean funcionar&#xE1;n en per&#xED;odo ordinario los siete primeros d&#xED;as h&#xE1;biles de los meses de junio, julio y agosto de cada a&#xF1;o, y en los per&#xED;odos extraordinarios que contempla la letra b) del inciso 1&#xBA; del art&#xED;culo 35 de la ley N&#xBA; 18.556.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 72, Servicio Electoral, publicada el 31.03.2016, modifico la presente norma en el sentido de fijar l&#xED;mites jurisdiccionales para las circunscripciones electorales que se indican:<br> <br>&nbsp; &nbsp;  Los Libertadores: Al Norte, l&#xED;mite comunal con la comuna de Colina; al Sur, Av. Am&#xE9;rico Vespucio Norte, desde la Carretera General San Mart&#xED;n hasta la calle El Rosal (l&#xED;mite comunal con las comunas de Conchal&#xED; y Recoleta); al Oeste, Carretera General San Mart&#xED;n, desde Av. Am&#xE9;rico Vespucio Norte en l&#xED;nea recta por Puntilla Puente Verde, hasta la intersecci&#xF3;n con la comuna de Colina (l&#xED;mite comunal con la comuna de Quilicura); al Este, calle El Rosal, desde Av. Am&#xE9;rico Vespucio Norte siguiendo una l&#xED;nea imaginaria hasta el l&#xED;mite con la comuna de Colina.<br> <br>&nbsp; &nbsp;  Los Pajaritos: Al Norte, Av. Santa Corina, desde Av. Lo Err&#xE1;zuriz hasta Las Torres - Los Pajaritos - Av. Teniente Cruz, siguiendo por Av. Los Mares - Autopista Vespucio Norte y Av. Laguna Sur hasta el R&#xED;o Mapocho (l&#xED;mite comunal con las comunas de Pudahuel y Estaci&#xF3;n Central); al Sur, Zanj&#xF3;n de La Aguada, desde Av. Lo Err&#xE1;zuriz, siguiendo por Av. Las Torres - Autopista del Sol, hasta el Zanj&#xF3;n de La Aguada al Poniente; al Oeste, R&#xED;o Mapocho, desde el Zanj&#xF3;n de la Aguada hasta el l&#xED;mite comunal con la comuna de Pudahuel y, al Este, Av. Lo Err&#xE1;zuriz, desde Av. Santa Corina hasta el Zanj&#xF3;n de La Aguada (l&#xED;mite comunal con las comunas de Estaci&#xF3;n Central y Cerrillos).<br> <br>&nbsp; &nbsp;  Chicureo: Al Norte, Liray, desde la Panamericana Norte siguiendo por Santa Marta de Liray - Lo Pinto y, desde la Autopista Los Libertadores (Km. 21) hacia el Oriente por los faldeos Sur del Cerro La Guaca, siguiendo en l&#xED;nea recta por la Quebrada La Leonera hasta la intersecci&#xF3;n con el l&#xED;mite comunal de la comuna de Lo Barnechea; al Sur, l&#xED;mite comunal con la comuna de Huechuraba, desde la intersecci&#xF3;n con la comuna de Quilicura y hasta la intersecci&#xF3;n con la comuna de Lo Barnechea; al Oeste, l&#xED;mite comunal con las comunas de Quilicura y Lampa y, al Este, l&#xED;mite comunal con la comuna de Lo Barnechea.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-03-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-04-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6470732,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 276 EXENTA, DEL 19 DE MARZO DE 2004 TERCER LLAMADO 2004-POSTULACION VIVIENDAS SERVIU (EXCEDENTES) </div></div>",
+          "new": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 276 EXENTA, DEL 18 DE MARZO DE<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 08.04.2004</span></div><div class=\"p\">2004 TERCER LLAMADO 2004-POSTULACION VIVIENDAS SERVIU</div><div class=\"p\">(EXCEDENTES)</div><br></div>"
+        }
+      ]
+    }
+  }
+]

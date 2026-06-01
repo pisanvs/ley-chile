@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-05-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938379,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnase en el Ministerio de Salud, al Dr. Ra&#xFA;l</div><div class=\"p\">Alejandro Koch Barbagelata, RUN. 8.525.193-7, en el cargo de</div><div class=\"p\">Secretario Regional Ministerial de Salud de la X Regi&#xF3;n,</div><div class=\"p\">grado 2&#xBA; EUS., 40% de asignaci&#xF3;n de responsabilidad superior</div><div class=\"p\">y la asignaci&#xF3;n profesional correspondiente estipulada en el</div><div class=\"p\">Art. 19&#xBA; de la Ley N&#xBA; 19.185, en calidad de titular, a contar del 2 de enero de 1997.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza y por razones impostergables de buen servicio, la persona en referencia asumir&#xE1; en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- D&#xE9;jase establecido que con la presente designaci&#xF3;n, el Dr. Koch Barbagelata, conserva el cargo de Jefe Depto. Atenci&#xF3;n Integrada grado 5&#xBA;, que sirve en calidad de titular en el Servicio de Salud Osorno.</div><br><div class=\"p\">&nbsp; &nbsp;  4.- Imp&#xFA;tese el gasto correspondiente a los Item 21-01-001, 21-02-002 y 21-02-006 del presupuesto del Ministerio de Salud.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnase en el Ministerio de Salud, al Dr. Ra&#xFA;l</div><div class=\"p\">Alejandro Koch Barbagelata, RUN. 8.525.193-7, en el cargo de</div><div class=\"p\">Secretario Regional Ministerial de Salud de la X Regi&#xF3;n,</div><div class=\"p\">grado 2&#xBA; EUS., 40% de asignaci&#xF3;n de responsabilidad superior</div><div class=\"p\">y la asignaci&#xF3;n profesional correspondiente estipulada en el</div><div class=\"p\">Art. 19&#xBA; de la Ley N&#xBA; 19.185, en calidad de titular, a</div><div class=\"p\">contar del 2 de enero de 1997.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- El desempe&#xF1;o de estas funciones est&#xE1; afecto a</div><div class=\"p\">rendici&#xF3;n de fianza y por razones impostergables de buen</div><div class=\"p\">servicio, la persona en referencia asumir&#xE1; en la fecha</div><div class=\"p\">indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- D&#xE9;jase establecido que con la presente<span class=\"n\" id=\"n_0\">DTO 175, SALUD<br>D.O.23.05.1997</span></div><div class=\"p\">designaci&#xF3;n, el Dr. Koch Barbagelata, conserva el cargo</div><div class=\"p\">de Director de&nbsp; Atenci&#xF3;n Primaria grado 5&#xBA; EUR, que sirve</div><div class=\"p\">en calidad de titular en el Servicio de Salud Osorno.</div><br><div class=\"p\">&nbsp; &nbsp;  4.- Imp&#xFA;tese el gasto correspondiente a los Item</div><div class=\"p\">21-01-001, 21-02-002 y 21-02-006 del presupuesto del</div><div class=\"p\">Ministerio de Salud.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-10-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-05-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8336036,
+          "old": "<div><div class=\"p\">AUTORIZA A DON OLEGARIO ERNESTO DELGADO DIAZ PARA AMPLIAR ACTIVIDADES PESQUERAS. DEROGA RESOLUCION QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON OLEGARIO ERNESTO DELGADO DIAZ PARA AMPLIAR ACTIVIDADES PESQUERAS. DEROGA RESOLUCION QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

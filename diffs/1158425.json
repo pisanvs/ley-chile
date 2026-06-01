@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-04-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-10-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10217024,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Autor&#xED;zase la circulaci&#xF3;n en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bado en la tarde, domingo y festivos a los veh&#xED;culos asignados al uso de la Fiscal&#xED;a Regional de Magallanes y Ant&#xE1;rtica Chilena, que se individualizan a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Fiscal&#xED;a Regional Regi&#xF3;n de Magallanes</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp;  Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp; Toyota</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp;  RAV 4 4X4 2.0</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2020</div><div class=\"p\">Motor&nbsp; &nbsp; &nbsp; &nbsp; M20AV143261</div><div class=\"p\">Chasis&nbsp; &nbsp; &nbsp;  JTMB43FV5LD009257</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp; Blanco</div><div class=\"p\">I.N.R.V.M.&nbsp;  PCYD.13-4</div><div class=\"p\">Patente&nbsp; &nbsp; &nbsp; PCYD.13.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Unidad de Atenci&#xF3;n a V&#xED;ctimas y Testigos Regi&#xF3;n de Magallanes</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp;  Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp; Toyota</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp;  RAV 4 4X4 2.0</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2020</div><div class=\"p\">Motor&nbsp; &nbsp; &nbsp; &nbsp; M20AV144174</div><div class=\"p\">Chasis&nbsp; &nbsp; &nbsp;  JTMB43FV6LD009333</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp; Blanco</div><div class=\"p\">I.N.R.V.M.&nbsp;  PCYD.14-2</div><div class=\"p\">Patente&nbsp; &nbsp; &nbsp; PCYD.14.</div><br><div class=\"p\">&nbsp; &nbsp;  3. Fiscal&#xED;a Local de Punta Arenas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp;  Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp; Toyota </div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp;  RAV 4 4X4 2.0</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2020</div><div class=\"p\">Motor&nbsp; &nbsp; &nbsp; &nbsp; M20AV144629</div><div class=\"p\">Chasis&nbsp; &nbsp; &nbsp;  JTMB43FV3LD009371</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp; Blanco</div><div class=\"p\">I.N.R.V.M.&nbsp;  PCYC.15-4</div><div class=\"p\">Patente&nbsp; &nbsp; &nbsp; PCYC.15.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  4. Fiscal&#xED;a Local de Puerto Natales</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp;  Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp; Toyota&nbsp;  </div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp;  RAV 4 4X4 2.0</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2020</div><div class=\"p\">Motor&nbsp; &nbsp; &nbsp; &nbsp; M20AV143717</div><div class=\"p\">Chasis&nbsp; &nbsp; &nbsp;  JTMB43FV7LD009339</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp; Blanco</div><div class=\"p\">I.N.R.V.M.&nbsp;  PCYC.16-2</div><div class=\"p\">Patente&nbsp; &nbsp; &nbsp; PCYC.16.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  5. Fiscal&#xED;a Local de Porvenir</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp;  Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp; Toyota</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp;  RAV 4 4X4 2.0</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2020</div><div class=\"p\">Motor&nbsp; &nbsp; &nbsp; &nbsp; M20AV144149</div><div class=\"p\">Chasis&nbsp; &nbsp; &nbsp;  JTMB43FVXLD009335</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp; Blanco</div><div class=\"p\">I.N.R.V.M.&nbsp;  PCYC.22-7</div><div class=\"p\">Patente&nbsp; &nbsp; &nbsp; PCYC.22.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1207719&amp;idParte=10521105&amp;idVersion=2024-10-24\">Decreto 2577 EXENTO,<br>INTERIOR <br>Art. segundo<br>D.O. 24.10.2024</a></span>Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1207719,
+      "fecha": "2024-10-24"
+    }
+  }
+]

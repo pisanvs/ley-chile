@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-02-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-08-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8327145,
+          "old": "<div><div class=\"p\">MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE MERLUZA COMUN, DEL ARTICULO 1&#xBA; LETRA E), DEL D.S.</div><div class=\"p\">N&#xBA; 354, DE 1993</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m.&nbsp; 158.- Valpara&#xED;so, 30 de enero de 1998.- Visto: Lo informado por la Divisi&#xF3;n de Desarrollo Pesquero, de esta Subsecretar&#xED;a, en Memorandum N&#xBA; 84 de fecha 29 de enero de 1998; el D.F.L. N&#xBA; 5 de 1983; las resoluciones N&#xBA; 1.857, de 1997, y N&#xBA; 141 de 1998, ambas de esta Subsecretar&#xED;a; la Ley N&#xBA; 18.892 sobre Pesca y Acuicultura, cuyo texto refundido, coordinado y sistematizado fue fijado por D.S. N&#xBA; 430 de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE MERLUZA COMUN, DEL ARTICULO 1&#xBA; LETRA E), DEL D.S.</div><div class=\"p\">N&#xBA; 354, DE 1993</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m.&nbsp; 158.- Valpara&#xED;so, 30 de enero de 1998.- Visto: Lo informado por la Divisi&#xF3;n de Desarrollo Pesquero, de esta Subsecretar&#xED;a, en Memorandum N&#xBA; 84 de fecha 29 de enero de 1998; el D.F.L. N&#xBA; 5 de 1983; las resoluciones N&#xBA; 1.857, de 1997, y N&#xBA; 141 de 1998, ambas de esta Subsecretar&#xED;a; la Ley N&#xBA; 18.892 sobre Pesca y Acuicultura, cuyo texto refundido, coordinado y sistematizado fue fijado por D.S. N&#xBA; 430 de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

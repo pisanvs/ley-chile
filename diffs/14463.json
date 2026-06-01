@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-12-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8264041,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA A EMPRESA PESQUERA MARAZUL LIMITADA PARA REALIZAR ACTIVIDADES DE PESCA EXTRACTIVA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 588.- Santiago, 7 de Octubre de 1993.- Visto: Lo solicitado por Pesquera Marazul Limitada y su declaraci&#xF3;n contenida en Carta CGG-033, de 20 de septiembre de 1993; lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; el Informe T&#xE9;cnico del Departamento de Pesquer&#xED;a de la Subsecretar&#xED;a de Pesca N&#xB0; 185, de 1993; lo informado por el Consejo Nacional de Pesca mediante carta de fecha 07 de julio de 1993; la Resoluci&#xF3;n N&#xB0; 764, de 1993, de la Subsecretar&#xED;a de Pesca; el D.F.L. N&#xB0; 5, de 1993; el D.S.</div><div class=\"p\">N&#xB0; 175, de 1980, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Ley N&#xB0; 18.892 y sus modificaciones;</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que las autorizaciones a que alude el art&#xED;culo 162, inciso 2&#xB0;, de la Ley General de Pesca y Acuicultura deben otorgarse mediante decreto supremo.</div><div class=\"p\">&nbsp; &nbsp; Que forma parte de la pol&#xED;tica del Estado el desarrollo de las islas oce&#xE1;nicas del Pa&#xED;s y su correspondiente zona econ&#xF3;mica exclusiva, donde actualmente se ejerce un esfuerzo de pesca de car&#xE1;cter limitado sobre las especies objetivo que por el presente decreto se autorizan.</div><div class=\"p\">&nbsp; &nbsp; Que, consultados el Consejo Nacional de Pesca y la Subsecretar&#xED;a de Pesca, informaron favorablemente la solicitud de la empresa Pesquera Marazul Limitada.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA A EMPRESA PESQUERA MARAZUL LIMITADA PARA REALIZAR ACTIVIDADES DE PESCA EXTRACTIVA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 588.- Santiago, 7 de Octubre de 1993.- Visto: Lo solicitado por Pesquera Marazul Limitada y su declaraci&#xF3;n contenida en Carta CGG-033, de 20 de septiembre de 1993; lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; el Informe T&#xE9;cnico del Departamento de Pesquer&#xED;a de la Subsecretar&#xED;a de Pesca N&#xB0; 185, de 1993; lo informado por el Consejo Nacional de Pesca mediante carta de fecha 07 de julio de 1993; la Resoluci&#xF3;n N&#xB0; 764, de 1993, de la Subsecretar&#xED;a de Pesca; el D.F.L. N&#xB0; 5, de 1993; el D.S.</div><div class=\"p\">N&#xB0; 175, de 1980, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Ley N&#xB0; 18.892 y sus modificaciones;</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que las autorizaciones a que alude el art&#xED;culo 162, inciso 2&#xB0;, de la Ley General de Pesca y Acuicultura deben otorgarse mediante decreto supremo.</div><div class=\"p\">&nbsp; &nbsp; Que forma parte de la pol&#xED;tica del Estado el desarrollo de las islas oce&#xE1;nicas del Pa&#xED;s y su correspondiente zona econ&#xF3;mica exclusiva, donde actualmente se ejerce un esfuerzo de pesca de car&#xE1;cter limitado sobre las especies objetivo que por el presente decreto se autorizan.</div><div class=\"p\">&nbsp; &nbsp; Que, consultados el Consejo Nacional de Pesca y la Subsecretar&#xED;a de Pesca, informaron favorablemente la solicitud de la empresa Pesquera Marazul Limitada.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

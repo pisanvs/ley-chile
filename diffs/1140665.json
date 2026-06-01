@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "2020-03-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-03-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10090693,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Modif&#xED;case el <a href=\"https://www.leychile.cl/navegar?idNorma=1086838&amp;idParte=9667660&amp;idVersion=2222-02-02\">decreto N&#xBA; 515, de 2015, del Ministerio de Educaci&#xF3;n</a>, que Aprueba el Reglamento que determina la Metodolog&#xED;a para la identificaci&#xF3;n de los Alumnos Preferentes a que se refiere el Art&#xED;culo 4&#xBA; de la ley N&#xBA; 20.845, que modifica la ley N&#xBA; 20.248 que establece una Subvenci&#xF3;n, Escolar Preferencial, en el siguiente sentido:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Elim&#xED;nase el inciso segundo del <a href=\"https://www.leychile.cl/navegar?idNorma=1086838&amp;idParte=9667662&amp;idVersion=2222-02-02\">art&#xED;culo 2&#xBA;</a>.</div><div class=\"p\">&nbsp; &nbsp;  2. Sustit&#xFA;yase el <a href=\"https://www.leychile.cl/navegar?idNorma=1086838&amp;idParte=9667663&amp;idVersion=2222-02-02\">art&#xED;culo 3&#xBA;</a>, por el siguiente.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 3&#xBA;: La calidad de alumno preferente ser&#xE1; determinada a m&#xE1;s tardar el 31 de julio de cada a&#xF1;o por el Ministerio de Educaci&#xF3;n, con la informaci&#xF3;n proporcionada por el Ministerio de Desarrollo Social, comunic&#xE1;ndose dicha calidad o su p&#xE9;rdida en los t&#xE9;rminos del art&#xED;culo 5&#xBA;, incisos primero y segundo, del decreto N&#xBA; 235, de 2008, del Ministerio de Educaci&#xF3;n.&quot;</div><br><br></div>"
+        },
+        {
+          "part_id": 10090694,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio: El presente decreto entrar&#xE1; en vigencia el a&#xF1;o escolar 2020.</div><br><br></div>"
+        },
+        {
+          "part_id": 10090695,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, t&#xF3;mese raz&#xF3;n y publ&#xED;quese.- SEBASTI&#xC1;N PI&#xD1;ERA ECHENIQUE, Presidente de la Rep&#xFA;blica.- Marcela Cubillos Sigall, Ministra de Educaci&#xF3;n.- Francisco Moreno Guzm&#xE1;n, Ministro de Hacienda (S).</div><div class=\"p\">&nbsp; &nbsp;  Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Ra&#xFA;l Figueroa Salas, Subsecretario de Educaci&#xF3;n.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

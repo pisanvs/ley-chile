@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-08-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8347624,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- La Corporaci&#xF3;n de Fomento de la Producci&#xF3;n publicar&#xE1; en el Diario Oficial en extracto las resoluciones de su Vicepresidente Ejecutivo, que pongan en vigencia Acuerdos del Consejo que creen o modifiquen programas de fomento de cualquier naturaleza. El se&#xF1;alado extracto deber&#xE1; especificar la materia de que se tratan y el n&#xFA;mero y fecha de la resoluci&#xF3;n respectiva.</div><div class=\"p\">&nbsp; &nbsp;  El texto completo de la resoluci&#xF3;n estar&#xE1; a disposici&#xF3;n de los usuarios en la oficina central de dicha Corporaci&#xF3;n y en las Direcciones Regionales. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- La Corporaci&#xF3;n de Fomento de la Producci&#xF3;n publicar&#xE1; en el Diario Oficial en extracto las resoluciones de su Vicepresidente Ejecutivo, que pongan en vigencia Acuerdos del Consejo que creen o modifiquen programas de fomento de cualquier naturaleza. El se&#xF1;alado extracto deber&#xE1; especificar la materia de que se tratan y el n&#xFA;mero y fecha de la resoluci&#xF3;n respectiva. El texto completo de la resoluci&#xF3;n estar&#xE1; a disposici&#xF3;n de los usuarios en la oficina central de dicha Corporaci&#xF3;n y en las Direcciones Regionales. Las mismas reglas contempladas en los p&#xE1;rrafos<span class=\"n\" id=\"n_0\">DTO 668, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 31.01.2000</span> precedentes ser&#xE1;n aplicables a las dem&#xE1;s resoluciones de car&#xE1;cter reglamentario que se dicten para poner en vigencia acuerdos del Consejo de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

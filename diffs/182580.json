@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-03-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-09-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6325389,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Autor&#xED;zase al Ministro de Hacienda para que, en representaci&#xF3;n de la Rep&#xFA;blica de Chile, suscriba con el Banco Interamericano de Desarrollo (BID), un Convenio para el establecimiento de L&#xED;nea de Cr&#xE9;dito hasta por la suma de US$1.500.000.- (Un mill&#xF3;n quinientos mil d&#xF3;lares de los Estados Unidos de Am&#xE9;rica), destinados a financiar la preparaci&#xF3;n y ejecuci&#xF3;n de proyectos y programas. Dicha L&#xED;nea ser&#xE1; rotatoria y condicional.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Autor&#xED;zase al Ministro de Hacienda para que, en representaci&#xF3;n de la Rep&#xFA;blica de Chile, suscriba con el Banco Interamericano de Desarrollo (BID), un Convenio para el establecimiento de L&#xED;nea de Cr&#xE9;dito hasta por la suma de US$3.000.000.-<span class=\"n\" id=\"n_0\">DTO 936, HACIENDA<br>N&#xBA; 1<br>D.O. 14.09.2005</span> (Tres millones de d&#xF3;lares de los Estados Unidos de Am&#xE9;rica), destinados a financiar la preparaci&#xF3;n y ejecuci&#xF3;n de proyectos y programas. Dicha L&#xED;nea ser&#xE1; rotatoria y condicional. </div></div>"
+        }
+      ]
+    }
+  }
+]

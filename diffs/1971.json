@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-01-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7104666,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA CIRCULAR N&#xB0; 581 SOBRE MODELO DE POLIZA DE SEGURO OBLIGATORIO DE ACCIDENTES PERSONALES CAUSADOS POR VEHICULOS MOTORIZADOS</div><div class=\"p\">&nbsp; &nbsp; Para todas las entidades aseguradoras del primer grupo.</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.045.- Santiago, Diciembre 12 de 1991.</div><div class=\"p\">&nbsp; &nbsp; Vista la facultad que me confiere la letra e) del art&#xED;culo 3&#xB0; del D.F.L. 251, de 1931, y lo dispuesto en el art&#xED;culo 21&#xB0; de la Ley N&#xB0; 18.490, se introduce la siguiente modificaci&#xF3;n aclaratoria al modelo de P&#xF3;liza de Seguro Obligatorio de Accidentes Personales Causados por Veh&#xED;culos Motorizados, aprobado por Circular N&#xB0; 581 de 4 de enero de 1986.</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA CIRCULAR N&#xB0; 581 SOBRE MODELO DE POLIZA DE SEGURO OBLIGATORIO DE ACCIDENTES PERSONALES CAUSADOS POR VEHICULOS MOTORIZADOS</div><br><div class=\"p\">&nbsp; &nbsp; Para todas las entidades aseguradoras del primer grupo.</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.045.- Santiago, Diciembre 12 de 1991.</div><br><div class=\"p\">&nbsp; &nbsp; Vista la facultad que me confiere la letra e) del art&#xED;culo 3&#xB0; del D.F.L. 251, de 1931, y lo dispuesto en el art&#xED;culo 21&#xB0; de la Ley N&#xB0; 18.490, se introduce la siguiente modificaci&#xF3;n aclaratoria al modelo de P&#xF3;liza de Seguro Obligatorio de Accidentes Personales Causados por Veh&#xED;culos Motorizados, aprobado por Circular N&#xB0; 581 de 4 de enero de 1986.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

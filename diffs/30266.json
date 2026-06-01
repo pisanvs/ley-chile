@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-10-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8623697,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; LEY SOBRE ORGANIZACIONES COMUNITARIAS TERRITORIALES Y FUNCIONALES</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; LEY SOBRE ORGANIZACIONES COMUNITARIAS TERRITORIALES Y FUNCIONALES</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley D E R O G A D A.-<span class=\"n\" id=\"n_0\">LEY 19418,<br>Art. 52</span></div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El Art&#xED;culo 52 de la Ley N&#xB0; 19.418, publicada en el &quot;Diario Oficial&quot; de 9 de Octubre de 1995, y que establece Normas sobre Juntas de Vecinos y dem&#xE1;s Organizaciones Comunitarias, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

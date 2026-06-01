@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-04-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10185893,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;: Una vez que se produzca el cese de las actividades acad&#xE9;micas del Instituto Profesional Adventista, la instituci&#xF3;n deber&#xE1; entregar y depositar en el Ministerio de Educaci&#xF3;n la totalidad de los registros acad&#xE9;micos existentes en la instituci&#xF3;n desde su inicio en el a&#xF1;o 1982, hasta el t&#xE9;rmino de las actividades acad&#xE9;micas en el a&#xF1;o 2021, los que deber&#xE1;n ser presentados en orden y con la informaci&#xF3;n curricular de los alumnos completa y de los planes y programas de estudios de las carreras de la instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;: Una <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1158083&amp;idParte=10215575&amp;idVersion=2021-04-12\">Decreto 134 EXENTO, <br>EDUCACI&#xD3;N<br>Art. cuarto<br>D.O. 12.04.2021</a></span>vez que se verifique la llegada del plazo de revocaci&#xF3;n de reconocimiento oficial indicada en el art&#xED;culo 3&#xB0; del presente decreto, el Instituto Profesional Adventista deber&#xE1; entregar a la Universidad Adventista de Chile la totalidad de los registros acad&#xE9;micos existentes en la instituci&#xF3;n desde su inicio en el a&#xF1;o 1982, hasta el t&#xE9;rmino de las actividades acad&#xE9;micas, los que deber&#xE1;n ser presentados a la Universidad en orden y con la informaci&#xF3;n curricular de los alumnos completa y de los planes y programas de estudio de las carreras del instituto profesional, de modo que la referida Universidad pueda entregar las certificaciones respectivas a los ex alumnos, egresados y titulados que lo soliciten.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1158083,
+      "fecha": "2021-04-12"
+    }
+  }
+]

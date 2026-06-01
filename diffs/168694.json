@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2000-05-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6275390,
+          "old": "<div><div class=\"p\">&#xA0;</div></div>",
+          "new": "<div><div class=\"p\">,</div><br><br></div>"
+        },
+        {
+          "part_id": 6275391,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA; 987, de 30 de marzo de 2000, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y del DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 113-A1, para la obra: Concesi&#xF3;n Internacional Ruta 5. Tramo: Santiago-Talca. Sector F: Km. 92.000,00 - Km. 110.200,00, Sexta Regi&#xF3;n, que figura a nombre de Soc. Trurull y Gallegos Ltda., rol de aval&#xFA;o 223-670, comuna de Rengo, superficie 486 m&#xB2;. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Jaime Rolando J&#xFC;rgens Bittner, Carmen Pilar R&#xED;os Marcuello y Gustavo Antonio Dom&#xED;nguez Err&#xE1;zuriz, fij&#xF3; con fecha 9 de febrero de 2000, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $2.612.250.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA; 987, de 30 de marzo de 2000, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y del DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 113-A1, para la obra: Concesi&#xF3;n Internacional Ruta 5. Tramo: Santiago-Talca. Sector F: Km. 92.000,00 - Km. 110.200,00, Sexta Regi&#xF3;n, que figura a nombre de Soc. Trurull y Gallegos Ltda., rol de aval&#xFA;o 233-670, comuna<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 01.06.2000</span> de Rengo, superficie 486 m&#xB2;. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Jaime Rolando J&#xFC;rgens Bittner, Carmen Pilar R&#xED;os Marcuello y Gustavo Antonio Dom&#xED;nguez Err&#xE1;zuriz, fij&#xF3; con fecha 9 de febrero de 2000, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $2.612.250.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978. </div></div>"
+        }
+      ]
+    }
+  }
+]

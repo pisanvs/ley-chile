@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1961-04-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1980-06-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9306313,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 59. Los alumnos libres tendr&#xE1;n derecho a rendir ex&#xE1;menes en Diciembre o Marzo. Las solicitudes para rendirlos en cualquiera de estas temporadas deber&#xE1;n presentarse antes del 15 de Octubre, con los antecedentes que correspondan, a la Direcci&#xF3;n de Educaci&#xF3;n Secundaria, en Santiago, y en provincia al jefe del liceo fiscal respectivo.</div><div class=\"p\">&nbsp; &nbsp;  Si el candidato es menor de edad, la solicitud correspondiente deber&#xE1; ser firmada por el apoderado. Adem&#xE1;s, deber&#xE1; acompa&#xF1;arse una declaraci&#xF3;n del apoderado en que se exprese que los datos contenidos en la solicitud son rigurosamente efectivos.</div><div class=\"p\">&nbsp; &nbsp;  Los ex&#xE1;menes rendidos en Marzo tendr&#xE1;n car&#xE1;cter de repetici&#xF3;n, aunque se rindan por primera vez.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=261923&amp;idParte=7345554&amp;idVersion=1980-06-12\">Decreto 3949, EDUCACI&#xD3;N<br>Art. 3<br>D.O. 12.06.1980</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 59. Los alumnos libres tendr&#xE1;n derecho a rendir examen de validaci&#xF3;n de estudios de Educaci&#xF3;n General B&#xE1;sica y/o de Ense&#xF1;anza Media Human&#xED;stico - Cient&#xED;fica, en dos temporadas:</div><div class=\"p\">&nbsp; &nbsp;  a) de fin de curso, desde el 1&#xBA; de Octubre al 31 de Diciembre;</div><div class=\"p\">&nbsp; &nbsp;  b) de repetici&#xF3;n, desde la iniciaci&#xF3;n del a&#xF1;o escolar hasta el 31 de Marzo.</div><br><div class=\"p\">&nbsp; &nbsp;  Las solicitudes para rendir examen de validaci&#xF3;n de estudios en cualquiera de las temporadas se&#xF1;aladas, se presentar&#xE1;n, antes del 30 de Junio, a los Directores Departamentales o Locales de Educaci&#xF3;n o a los Jefes de Liceos Human&#xED;stico - Cient&#xED;ficos</div><div class=\"p\">-seg&#xFA;n corresponda- quienes podr&#xE1;n otorgar la autorizaci&#xF3;n que proceda ci&#xF1;&#xE9;ndose estrictamente a la reglamentaci&#xF3;n en vigencia y responsabiliz&#xE1;ndose de la regularidad de todo el proceso.</div><div class=\"p\">&nbsp; &nbsp;  En los casos en que se solicite examen de validaci&#xF3;n que comprenda cursos de Educaci&#xF3;n General B&#xE1;sica y de Ense&#xF1;anza Media, la petici&#xF3;n deber&#xE1; presentarse al Jefe del Liceo Human&#xED;stico - Cient&#xED;fico correspondiente, quien podr&#xE1; otorgar la autorizaci&#xF3;n respectiva conforme a las disposiciones reglamentarias pertinentes.</div><div class=\"p\">&nbsp; &nbsp;  Si el alumno es menor de edad, la solicitud ser&#xE1; firmada por el padre o apoderado.</div><div class=\"p\">&nbsp; &nbsp;  Los peticionarios deber&#xE1;n acompa&#xF1;ar a la solicitud los siguientes documentos:</div><div class=\"p\">&nbsp; &nbsp;  a) Certificado de nacimiento o c&#xE9;dula de identidad.</div><div class=\"p\">&nbsp; &nbsp;  b) Certificado de residencia.</div><div class=\"p\">&nbsp; &nbsp;  c) Los certificados de estudios correspondientes a los cursos anteriores al nivel que se solicita extendidos o visados, a la fecha de la presentaci&#xF3;n, por el Jefe del establecimiento educacional que los otorg&#xF3; o por la autoridad competente de la Direcci&#xF3;n de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  d) Declaraci&#xF3;n Jurada del Apoderado, en que se exprese que los datos contenidos en la solicitud son rigurosamente efectivos. Este requisito ser&#xE1; obligatorio s&#xF3;lo para los alumnos libres menores de 21 a&#xF1;os.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 261923,
+      "fecha": "1980-06-12"
+    }
+  }
+]

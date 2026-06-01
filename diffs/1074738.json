@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-02-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-04-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9591586,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1076593&amp;idParte=9591580&amp;idVersion=2015-04-25\">Decreto 10, ENERG&#xCD;A<br>D.O. 25.04.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo cuarto: Reempl&#xE1;cense, a partir del 29 de enero de 2015 y s&#xF3;lo para los efectos de la aplicaci&#xF3;n de la ley N&#xBA; 20.805 que modific&#xF3; el art&#xED;culo 157&#xBA; de la Ley, las tablas contenidas en los numerales 1.2. y 2.2. del Art&#xED;culo segundo del presente decreto supremo, por la tabla que se indica a continuaci&#xF3;n:</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48751.jpg\">&nbsp; &nbsp; </div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1076593,
+      "fecha": "2015-04-25"
+    }
+  }
+]

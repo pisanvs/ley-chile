@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-04-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8314958,
+          "old": "<div><div class=\"p\">AUTORIZA A DON EDWIN HUGO SCHMEISSER VASQUEZ PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON EDWIN HUGO SCHMEISSER VASQUEZ PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

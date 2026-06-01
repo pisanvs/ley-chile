@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-06-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-11-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6339468,
+          "old": "<div><div class=\"p\">DECLARA INSTITUCION OFICIAL DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION A LA SOCIEDAD &quot;PETRUS INGENIERIA E INSPECCIONES S.A.&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 22 de mayo de 2001.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 498.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1. del D.S. N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; las facultades que me otorga el D.L. N&#xBA; 1.305 de 1976 y la resoluci&#xF3;n N&#xBA; 688 (V. y U.), de 1998, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">DECLARA INSTITUCION OFICIAL DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION A LA SOCIEDAD &quot;PETRUS INGENIERIA E INSPECCIONES S.A.&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 22 de mayo de 2001.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 498.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1. del D.S. N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; las facultades que me otorga el D.L. N&#xBA; 1.305 de 1976 y la resoluci&#xF3;n N&#xBA; 688 (V. y U.), de 1998, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

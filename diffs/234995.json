@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8048158,
+          "old": "<div><div class=\"p\">EXCEPCIONA DE CAMBIO DE SUJETO A COMPA&#xD1;IA ANDINA DE JAMON SERRANO S.A.</div><br></div>",
+          "new": "<div><div class=\"p\">EXCEPCIONA DE CAMBIO DE SUJETO A COMPA&#xD1;IA ANDINA DE JAMON SERRANO S.A.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1997-04-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-02-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938384,
+          "old": "<div><div class=\"p\">DECLARA NORMAS OFICIALES DE LA REPUBLICA DE CHILE LAS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 615 exento.- Santiago, 21 de marzo de 1997.- Visto: lo solicitado por el Instituto Nacional de Normalizaci&#xF3;n en su Oficio N&#xBA; 12.464-300 de 8 de enero de 1997; lo informado por el Jefe de la Divisi&#xF3;n de Salud Ambiental, a trav&#xE9;s de su memor&#xE1;ndum N&#xBA; 4B/61, de 3 de febrero de 1997; lo establecido en el art&#xED;culo 1&#xBA; N&#xBA; 30 del Decreto N&#xBA; 654, de 1994, del Ministerio del Interior; en la Resoluci&#xF3;n N&#xBA; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; y las facultades que me confieren los art&#xED;culos 4&#xBA; y 6&#xBA; del Decreto Ley N&#xBA; 2.763, de 1979 y teniendo presente lo dispuesto en los art&#xED;culos 24 y 32 N&#xBA; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA NORMAS OFICIALES DE LA REPUBLICA DE CHILE LAS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 615 exento.- Santiago, 21 de marzo de 1997.- Visto: lo solicitado por el Instituto Nacional de Normalizaci&#xF3;n en su Oficio N&#xBA; 12.464-300 de 8 de enero de 1997; lo informado por el Jefe de la Divisi&#xF3;n de Salud Ambiental, a trav&#xE9;s de su memor&#xE1;ndum N&#xBA; 4B/61, de 3 de febrero de 1997; lo establecido en el art&#xED;culo 1&#xBA; N&#xBA; 30 del Decreto N&#xBA; 654, de 1994, del Ministerio del Interior; en la Resoluci&#xF3;n N&#xBA; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; y las facultades que me confieren los art&#xED;culos 4&#xBA; y 6&#xBA; del Decreto Ley N&#xBA; 2.763, de 1979 y teniendo presente lo dispuesto en los art&#xED;culos 24 y 32 N&#xBA; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>"
+        },
+        {
+          "part_id": 8938385,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile las siguientes:</div><br><br><div class=\"p\">- NCh 1258/0&nbsp; &nbsp; &nbsp; Equipos de protecci&#xF3;n personal para trabajos con</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; riesgo de ca&#xED;da.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Parte 0: Terminolog&#xED;a y clasificaci&#xF3;n.</div><br><div class=\"p\">- NCh 2278&nbsp; &nbsp; &nbsp; &nbsp; Aparatos de protecci&#xF3;n respiratoria - Roscas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; para piezas faciales - conexiones por rosca</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; est&#xE1;ndar.</div><br><div class=\"p\">- NCh 2374&nbsp; &nbsp; &nbsp; &nbsp; Calzado de pl&#xE1;stico moldeado - Botas de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; policroruro de vinilo, con o sin forro, para uso</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; general en la industria - Especificaciones.</div><br><div class=\"p\">- NCh 2378&nbsp; &nbsp; &nbsp; &nbsp; Aparatos de protecci&#xF3;n respiratoria - m&#xE1;scaras -</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; requisitos y m&#xE9;todos de ensayo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile las siguientes:</div><br><div class=\"p\">- NCh 1258/0&nbsp; &nbsp; &nbsp; DEROGADO<span class=\"n\" id=\"n_0\">DTO 1159 EXENTO,<br>SALUD<br>Art. 4&#xBA;<br>D.O. 23.02.2006</span></div><br><div class=\"p\">- NCh 2278&nbsp; &nbsp; &nbsp; &nbsp; Aparatos de protecci&#xF3;n respiratoria -</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Roscas para piezas faciales -</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; conexiones por rosca est&#xE1;ndar.</div><br><div class=\"p\">- NCh 2374&nbsp; &nbsp; &nbsp; &nbsp; Calzado de pl&#xE1;stico moldeado - Botas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; de policroruro de vinilo, con o sin</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; forro, para uso general en la industria</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Especificaciones.</div><br><div class=\"p\">- NCh 2378&nbsp; &nbsp; &nbsp; &nbsp; Aparatos de protecci&#xF3;n respiratoria</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - m&#xE1;scaras - requisitos y m&#xE9;todos de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ensayo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

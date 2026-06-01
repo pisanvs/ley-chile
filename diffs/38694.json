@@ -1,0 +1,47 @@
+[
+  {
+    "fecha": "1994-03-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-04-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8924062,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;. Los valores aplicables a los env&#xED;os ser&#xE1;n los vigentes al momento de su admisi&#xF3;n en la Agencia de Correos de dep&#xF3;sito y deber&#xE1;n ser pagados en dinero efectivo o cheques nominativos y cruzados extendidos a la orden de la Empresa de Correos de Chile por el usuario, en el lugar y dentro del plazo estipulado en las Facturas. Cualquier atraso en el pago de estos valores, devengar&#xE1;n reajuste e intereses penales, conforme a lo estipulado por la legislaci&#xF3;n vigente al respecto, y el m&#xE1;ximo de inter&#xE9;s corriente permitido estipular para operaciones de cr&#xE9;dito de dinero No Reajustable.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;. Los valores aplicables a los env&#xED;os ser&#xE1;n los vigentes al momento de su admisi&#xF3;n en la Agencia de Correos de dep&#xF3;sito y deber&#xE1;n ser pagados en dinero efectivo o cheques nominativos y cruzados extendidos a la orden de la Empresa de Correos de Chile por el usuario, en el lugar y dentro del plazo estipulado en las Facturas. En el caso de las<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 06.04.1994</span> Instituciones del Estado se podr&#xE1;n prorrogar y/o fijar plazos especiales mediante resoluci&#xF3;n fundada de la Gerencia General. Cualquier atraso en el pago de estos valores, devengar&#xE1;n reajuste e intereses penales, conforme a lo estipulado por la legislaci&#xF3;n vigente al respecto, y el m&#xE1;ximo de inter&#xE9;s corriente permitido estipular para operaciones de cr&#xE9;dito de dinero No Reajustable. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1998-01-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8924060,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;. Los usuarios deber&#xE1;n imprimir en los env&#xED;os amparados en sobre, envoltorios o fajas, su raz&#xF3;n social o nombre, la menci&#xF3;n &quot;Franqueo Convenido&quot; cuando se trate de env&#xED;os nacionales o &quot;Porte Pagado&quot; para los env&#xED;os internacionales, el n&#xFA;mero y fecha de la Resoluci&#xF3;n que aprueba el Contrato y la menci&#xF3;n &quot;Empresa de Correos de Chile&quot;, inscripciones que ser&#xE1;n de su cargo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; los usuarios deber&#xE1;n consignar<span class=\"n\" id=\"n_0\">RES 33 EXENTA<br>TRANSPORTES<br>Art. PRIMERO<br>D.O. 21.01.1998</span> en los env&#xED;os amparados en sobres, envoltorios o fajas, su raz&#xF3;n social o nombre. La Empresa de Correos de Chile podr&#xE1; adem&#xE1;s exigir a los usuarios que impriman en los sobres, envoltorios o fojas que amparan sus env&#xED;os, la menci&#xF3;n &quot;Franqueo Convenido&quot; cuando se trate de env&#xED;os nacionales o &quot;Porte Pagado&quot; para los env&#xED;os internacionales y el n&#xFA;mero y fecha de la resoluci&#xF3;n que aprueba el contrato, inscripciones que ser&#xE1;n de su cargo. En caso de detectarse env&#xED;os postales con esta leyenda y que no correspondan a un convenio debidamente autorizado, su autor ser&#xE1; sancionado en la forma prevista en el D.S. N&#xBA; 5.037, de 1960, del Ministerio del Interior. </div></div>"
+        },
+        {
+          "part_id": 8924061,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;. El uso de etiquetas adhesivas, timbre o impresiones manuales con las leyendas mencionadas en el art&#xED;culo anterior, s&#xF3;lo ser&#xE1; admitido para los clientes que cuenten con la autorizaci&#xF3;n de la Empresa de Correos de Chile.</div><div class=\"p\">&nbsp; &nbsp; En caso de detectarse env&#xED;os postales con esta leyenda y que no correspondan a un convenio debidamente autorizado, su autor ser&#xE1; del Ministerio del Interior. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;: La Empresa de Correos de Chile<span class=\"n\" id=\"n_1\">RES 33 EXENTA<br>TRANSPORTES<br>Art. SEGUNDO<br>D.O.21.01.1998</span> se reserva el derecho de denegar las solicitudes del Servicio de Franqueo Convenido a aquellos usuarios que impongan una cantidad mensual de env&#xED;os inferior a la por ella fijada. </div></div>"
+        },
+        {
+          "part_id": 8924062,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;. Los valores aplicables a los env&#xED;os ser&#xE1;n los vigentes al momento de su admisi&#xF3;n en la Agencia de Correos de dep&#xF3;sito y deber&#xE1;n ser pagados en dinero efectivo o cheques nominativos y cruzados extendidos a la orden de la Empresa de Correos de Chile por el usuario, en el lugar y dentro del plazo estipulado en las Facturas. En el caso de las<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 06.04.1994</span> Instituciones del Estado se podr&#xE1;n prorrogar y/o fijar plazos especiales mediante resoluci&#xF3;n fundada de la Gerencia General. Cualquier atraso en el pago de estos valores, devengar&#xE1;n reajuste e intereses penales, conforme a lo estipulado por la legislaci&#xF3;n vigente al respecto, y el m&#xE1;ximo de inter&#xE9;s corriente permitido estipular para operaciones de cr&#xE9;dito de dinero No Reajustable. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;. Los valores aplicables a los env&#xED;os ser&#xE1;n los vigentes al momento de su admisi&#xF3;n en la Agencia de Correos de dep&#xF3;sito y deber&#xE1;n ser pagados en dinero efectivo o cheques nominativos y cruzados extendidos a la orden de la Empresa de Correos de Chile por el usuario, en el lugar y dentro del plazo estipulado en las Facturas. En el caso de las<span class=\"n\" id=\"n_2\">RECTIFICACION<br>D.O. 06.04.1994</span> Instituciones del Estado se podr&#xE1;n prorrogar y/o fijar plazos especiales mediante resoluci&#xF3;n fundada de la Gerencia General. Cualquier atraso en el pago de estos valores, devengar&#xE1;n reajuste e intereses penales, conforme a lo estipulado por la legislaci&#xF3;n vigente al respecto, y el m&#xE1;ximo de inter&#xE9;s corriente permitido estipular para operaciones de cr&#xE9;dito de dinero No Reajustable. </div></div>"
+        }
+      ]
+    }
+  }
+]

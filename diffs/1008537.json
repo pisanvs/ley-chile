@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-12-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8811657,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;quese El Plan Regulador Comunal de Puente Alto, en los t&#xE9;rminos se&#xF1;alados en el Art. 2.1.14 de la Ordenanza General de Urbanismo y Construcciones, incorporando la Memoria Explicativa del Proyecto Seccional denominado &quot;Seccional 4 Oriente - Costanera&quot;, Escala 1/10000, elaborado por la Municipalidad de Puente Alto, para la Modificaci&#xF3;n del Uso de Suelo del Plan Regulador Comunal de Puente Alto de la Zona I M 1 a H 2, identificados en el citado instrumento y su gr&#xE1;fica.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA</a></div>Modif&#xED;quese El Plan Regulador Comunal de Puente Alto, en los t&#xE9;rminos se&#xF1;alados en el Art. 2.1.14 de la Ordenanza General de Urbanismo y Construcciones, incorporando la Memoria Explicativa del Proyecto Seccional denominado &quot;Seccional 4 Oriente - Costanera&quot;, Escala 1/10000, elaborado por la Municipalidad de Puente Alto, para la Modificaci&#xF3;n del Uso de Suelo del Plan Regulador Comunal de Puente Alto de la Zona I M 1 a H 2, identificados en el citado instrumento y su gr&#xE1;fica.</div><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 969 Exento, M. de Puente Alto, publicado el 02.08.2010, introduce diversas modificaciones a la presente norma, en la forma que en ella se indica y que se han incorporado al este texto actualizado por restricciones t&#xE9;cnicas.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1015826,
+      "fecha": "2010-08-02"
+    }
+  }
+]

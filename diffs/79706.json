@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-02-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-04-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8945294,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xBA;94, DE 1990 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xBA;94, DE 1990</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

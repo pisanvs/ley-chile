@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-02-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1985-08-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6261439,
+          "old": "<div><br><div class=\"p\">AUTORIZA A SOCIEDAD EXPLOTADORA DE RECURSOS MARITIMOS, OCEAN RESOURCES GROUP INTERNATIONAL LIMITADA, PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD EXPLOTADORA DE RECURSOS MARITIMOS, OCEAN RESOURCES GROUP INTERNATIONAL LIMITADA, PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

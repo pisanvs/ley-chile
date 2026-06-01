@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-10-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-08-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6442993,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese una veda biol&#xF3;gica para el recurso Huepo (Ensis macha), en el &#xE1;rea mar&#xED;tima de la XII Regi&#xF3;n, la que regir&#xE1; entre el 1&#xBA; de agosto y el 30 de noviembre de cada a&#xF1;o, ambas fechas inclusive. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese una<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> veda biol&#xF3;gica para el recurso Huepo (Ensis macha), en el &#xE1;rea mar&#xED;tima de la XII Regi&#xF3;n, la que regir&#xE1; entre el 1&#xBA; de agosto y el 30 de noviembre de cada a&#xF1;o, ambas fechas inclusive. </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; del Decreto 735 exento, Econom&#xED;a, publicada el 16.08.2011, modifica la presente norma en el sentido de se&#xF1;alar que la veda biol&#xF3;gica reproductiva para la especie Huepo (Ensis macha), en el &#xE1;rea mar&#xED;tima de la XII Regi&#xF3;n, regir&#xE1; entre los d&#xED;as 1 de septiembre y 30 de noviembre de cada a&#xF1;o, ambas fechas inclusive.</div></div>"
+        }
+      ]
+    }
+  }
+]

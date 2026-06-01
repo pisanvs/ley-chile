@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-07-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-07-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10134653,
+          "old": "<div><div class=\"p\">AUTORIZA INCORPORACI&#xD3;N DE ESPECIES Y MODIFICA CONCESI&#xD3;N DE ACUICULTURA</div></div>",
+          "new": "<div><div class=\"p\">OTORGA CONCE<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1147633&amp;idParte=10137301&amp;idVersion=2020-07-18\">Aviso S/N, DEFENSA<br>D.O. 18.07.2020</a></span>SI&#xD3;N DE ACUICULTURA</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1147633,
+      "fecha": "2020-07-18"
+    }
+  }
+]

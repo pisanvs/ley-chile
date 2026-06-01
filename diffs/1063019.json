@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-06-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9478167,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Des&#xED;gnase a D. Fernando Arenas Pino, RUN 7.530.480-3, en el cargo de Secretario Regional Ministerial de Salud de la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins, grado 2&#xBA; EUS, m&#xE1;s el 40% de asignaci&#xF3;n de responsabilidad superior, m&#xE1;s la asignaci&#xF3;n profesional correspondiente, de acuerdo al art&#xED;culo 19&#xBA; de la ley N&#xBA; 19.185; a contar del 17 de marzo de 2014.</div><div class=\"p\">&nbsp; &nbsp;  2. El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza y por razones impostergables de buen servicio, la persona asumir&#xE1; en la fecha indicada en el numeral 1, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3. D&#xE9;jase establecido que la persona individualizada anteriormente dio cumplimiento, en su oportunidad al art&#xED;culo 12&#xBA; del decreto con fuerza de ley N&#xBA; 29, de 2004, del Ministerio de Hacienda que fija el texto refundido, coordinado y sistematizado de la Ley 18.834, sobre Estatuto Administrativo; adem&#xE1;s, guardar&#xE1; cargo, Titular 22 horas (liberado de guardia ley 15.076, 28 horas atenci&#xF3;n primaria) en el Hospital de Santa Cruz.</div><div class=\"p\">&nbsp; &nbsp;  4. Imp&#xFA;tese el gasto correspondiente a los &#xCD;tem 21-01-001, del presupuesto del Ministerio de Salud.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Des&#xED;gnase a D. Fernando Arenas Pino, RUN 7.530.480-3, en el carg<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>o de Secretario Regional Ministerial de Salud de la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins, grado 2&#xBA; EUS, m&#xE1;s el 40% de asignaci&#xF3;n de responsabilidad superior, m&#xE1;s la asignaci&#xF3;n profesional correspondiente, de acuerdo al art&#xED;culo 19&#xBA; de la ley N&#xBA; 19.185; a contar del 17 de marzo de 2014.</div><div class=\"p\">&nbsp; &nbsp;  2. El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza y por razones impostergables de buen servicio, la persona asumir&#xE1; en la fecha indicada en el numeral 1, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3. D&#xE9;jase establecido que la persona individualizada anteriormente dio cumplimiento, en su oportunidad al art&#xED;culo 12&#xBA; del decreto con fuerza de ley N&#xBA; 29, de 2004, del Ministerio de Hacienda que fija el texto refundido, coordinado y sistematizado de la Ley 18.834, sobre Estatuto Administrativo; adem&#xE1;s, guardar&#xE1; cargo, Titular 22 horas (liberado de guardia ley 15.076, 28 horas atenci&#xF3;n primaria) en el Hospital de Santa Cruz.</div><div class=\"p\">&nbsp; &nbsp;  4. Imp&#xFA;tese el gasto correspondiente a los &#xCD;tem 21-01-001, del presupuesto del Ministerio de Salud.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 del Decreto 172, Salud,publicado el 14.02.2015, modifica la presente norma, en el sentido de dejar establecido que D. Fernando Arenas Pino, RUN N&#xBA; 7.530.480-3, en el ejercicio de esta funci&#xF3;n, percibir&#xE1; la remuneraci&#xF3;n por el cargo que mantiene en el Servicio de Salud y no el indicado en la citada norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

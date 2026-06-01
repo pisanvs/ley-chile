@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-10-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8942497,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- F&#xED;jase en las &#xE1;reas de aguas interiores que a continuaci&#xF3;n se indican, las siguientes cuotas globales anuales de captura de Merluza del sur (Merluccius australis) para el a&#xF1;o 1995:</div><div class=\"p\">&nbsp; &nbsp; 1) 4.000 toneladas en el &#xE1;rea de pesca denominada Aguas Interiores Norte, comprendida entre los paralelos 41&#xB0;28&apos;,6 y 47&#xB0; L.S., excluy&#xE9;ndose las &#xE1;reas de aguas interiores se&#xF1;aladas en las letras a) y b) del art&#xED;culo 2&#xB0; del D.S. N&#xB0; 445, ya citado.</div><div class=\"p\">&nbsp; &nbsp; Esta cuota s&#xF3;lo podr&#xE1; extraerse para los fines establecidos en el T&#xED;tulo VII de la Ley General de Pesca y Acuicultura, de acuerdo a los procedimientos que en el mismo se establecen.</div><div class=\"p\">&nbsp; &nbsp; 2) 2.600 toneladas, en el &#xE1;rea de pesca denominada Aguas Interiores Sur, comprendida entre los paralelos 47&#xB0; L.S. y 56&#xB0; L.S., de la cual 1.000 toneladas estar&#xE1;n reservadas exclusivamente a la pesca artesanal. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- F&#xED;jase en las &#xE1;reas de aguas interiores que a continuaci&#xF3;n se indican, las siguientes cuotas globales anuales de captura de Merluza del sur (Merluccius australis) para el a&#xF1;o 1995: 1) 5.300 toneladas en el &#xE1;rea de pesca denominada<span class=\"n\" id=\"n_0\">DTO 208 EXENTO,<br>ECONOMIA<br>D.O. 24.10.1995</span> Aguas Interiores Norte, comprendida entre los paralelos 41&#xB0;28,6&apos; y 47&#xB0; L.S., excluy&#xE9;ndose las &#xE1;reas de aguas interiores se&#xF1;aladas en las letras a) y b) del art&#xED;culo 2&#xB0; del D.S. N&#xB0; 445, ya citado. Esta cuota s&#xF3;lo podr&#xE1; extraerse para los fines establecidos en el T&#xED;tulo VII de la Ley General de Pesca y Acuicultura, de acuerdo a los procedimientos que en el mismo se establecen. 2) 2.600 toneladas, en el &#xE1;rea de pesca denominada Aguas Interiores Sur, comprendida entre los paralelos 47&#xB0; L.S. y 56&#xB0; L.S., de la cual 1.000 toneladas estar&#xE1;n reservadas exclusivamente a la pesca artesanal. </div></div>"
+        }
+      ]
+    }
+  }
+]

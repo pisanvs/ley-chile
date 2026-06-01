@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-05-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8258076,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DEROGA DECRETO N&#xB0; 179 DE 1992, Y FIJA ORDEN DE SUBROGACION DEL VICEPRESIDENTE EJECUTIVO DE LA CORPORACION DE FOMENTO DE LA PRODUCCION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 18.- Santiago, 15 de Enero de 1993.- Visto: La facultad que me confiere la letra a) del Art. 75&#xB0; del Estatuto Administrativo aprobado por la Ley N&#xB0; 18.834; Decreto N&#xB0; 179 de 1992, y Ord. N&#xB0; 10043 de 1992, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, que se acompa&#xF1;a.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DEROGA DECRETO N&#xB0; 179 DE 1992, Y FIJA ORDEN DE SUBROGACI&#xD3;N DEL VICEPRESIDENTE EJECUTIVO DE LA CORPORACION DE FOMENTO DE LA PRODUCCI&#xD3;N</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 18.- Santiago, 15 de Enero de 1993.- Visto: La facultad que me confiere la letra a) del Art. 75&#xB0; del Estatuto Administrativo aprobado por la Ley N&#xB0; 18.834; Decreto N&#xB0; 179 de 1992, y Ord. N&#xB0; 10043 de 1992, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, que se acompa&#xF1;a.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

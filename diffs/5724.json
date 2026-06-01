@@ -1,0 +1,57 @@
+[
+  {
+    "fecha": "1973-10-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1973-10-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9035021,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Mientras se incorpora a Astilleros y Maestranzas de la Armada, ASMAR, como organismo dependiente de la Armada Nacional, no se aplicar&#xE1; a su personal ni al que se refiere el inciso 1&#xB0; del art&#xED;culo 21 del DFL. N&#xB0; 321 de 1960, las disposiciones establecidas en el art&#xED;culo 34 de la ley 17.416. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 3&#xB0; DEROGADO.<span class=\"n\" id=\"n_0\">DL 96, HACIENDA<br>Art. 4<br>D.O. 24.10.1973</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1973-10-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9035021,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 3&#xB0; DEROGADO.<span class=\"n\" id=\"n_0\">DL 96, HACIENDA<br>Art. 4<br>D.O. 24.10.1973</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  ARTICULO 3&#xB0; DEROGADO.<span class=\"n\" id=\"n_0\">DL 96, HACIENDA<br>Art. 4<br>D.O. 24.10.1973</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1973-10-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9035020,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Como consecuencia de las modificaciones establecidas en el art&#xED;culo precedente, decl&#xE1;rase que las atribuciones que correspond&#xED;an a la Junta de Vigilancia ser&#xE1;n ejercidas por el Director de Astilleros y Maestranzas de la Armada.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Como consecuencia de las modificaciones establecidas en el art&#xED;culo precedente, decl&#xE1;rase que las atribuciones que correspond&#xED;an a la Junta de Vigilancia ser&#xE1;n ejercidas por el Director de Astilleros y Maestranzas de la Armada.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9035022,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en el Bolet&#xED;n Oficial de la Armada y en la recopilaci&#xF3;n oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET U., General de Ej&#xE9;rcito, Comandante en Jefe, Presidente de la Junta de Gobierno.- JOSE T. MERINO C., Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH G., General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea.- CESAR MENDOZA D., General Director de Carabineros de Chile.- Patricio Carvajal P., Vicealmirante, Ministro de Defensa Nacional.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Ernesto Jobet Ojeda, Capit&#xE1;n de Nav&#xED;o, Subsecretario de Marina.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en el Bolet&#xED;n Oficial de la Armada y en la Recopilaci&#xF3;n oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN .- Patricio Carvajal.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-10-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-05-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6543463,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Se except&#xFA;a de lo dispuesto en el art&#xED;culo 4&#xBA; del decreto supremo N&#xBA; 40 de 1996, del Ministerio de Educaci&#xF3;n, el programa correspondiente al Subsector Idioma Extranjero - Ingl&#xE9;s, debido a que la aplicaci&#xF3;n obligatoria de este Subsector, en los cursos de 5&#xBA; a 8&#xBA; a&#xF1;o b&#xE1;sico de las escuelas rurales del pa&#xED;s, regir&#xE1; a partir del a&#xF1;o escolar 2008.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Se except&#xFA;a de lo dispuesto en el art&#xED;culo 4&#xBA; del decreto supremo N&#xBA; 40 de 1996, del Ministerio de Educaci&#xF3;n, el programa correspondiente al Subsector Idioma Extranjero - Ingl&#xE9;s, debido a que la aplicaci&#xF3;n obligatoria de este Subsector, en los cursos<span class=\"n\" id=\"n_0\">DTO 198, EDUCACION<br>Art. &#xFA;nico<br>D.O. 09.05.2008</span> de 5&#xBA; a 8&#xBA; a&#xF1;o b&#xE1;sico de las escuelas rurales del pa&#xED;s, regir&#xE1; a partir del a&#xF1;o escolar 2010.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

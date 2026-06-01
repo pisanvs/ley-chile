@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-12-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7227083,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 1.175. DE 1989 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 1.175. DE 1989 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

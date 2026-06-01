@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-07-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9928151,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Trasp&#xE1;sese, sin soluci&#xF3;n de continuidad, desde la Subsecretar&#xED;a de Servicios Sociales a la Subsecretar&#xED;a de la Ni&#xF1;ez, a contar de la fecha de iniciaci&#xF3;n de actividades establecida en el art&#xED;culo 5&#xBA;, a 4 funcionarios asimilados a la planta de profesionales que se desempe&#xF1;en en la Unidad de la Ni&#xF1;ez de la Subsecretar&#xED;a de Servicios Sociales.</div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, a contar del 1 de enero de 2019, trasp&#xE1;sese, sin soluci&#xF3;n de continuidad, desde la Subsecretar&#xED;a de Servicios Sociales a la Subsecretar&#xED;a de la Ni&#xF1;ez, a un funcionario titular de un cargo de planta profesional y a 14 funcionarios asimilados a la planta de profesionales que se desempe&#xF1;en en el Subsistema de Protecci&#xF3;n Integral a la Infancia Chile Crece Contigo creado por la ley N&#xBA; 20.379.</div><div class=\"p\">&nbsp; &nbsp;  A contar de la fecha del traspaso se suprimir&#xE1; por el solo ministerio de la ley en la planta de personal de la Subsecretar&#xED;a de Servicios Sociales, el cargo de planta que se traspase. Desde esa misma data se rebajar&#xE1; la dotaci&#xF3;n m&#xE1;xima de personal de la Subsecretar&#xED;a antes se&#xF1;alada en el mismo n&#xFA;mero de cargos que se traspasen a la Subsecretar&#xED;a de la Ni&#xF1;ez. Conjuntamente con el traspaso de personal se transferir&#xE1;n desde la Subsecretar&#xED;a de Servicios Sociales los recursos presupuestarios liberados por dicho traspaso.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Trasp&#xE1;sese, sin soluci&#xF3;n de continuidad, desde la Subsecretar&#xED;a de Servicios Sociales a la Subsecretar&#xED;a de la Ni&#xF1;ez, a contar de la fecha de iniciaci&#xF3;n de actividades establecida en el art&#xED;culo 5&#xBA;, a 4 funcionarios asimilados a la planta de profesionales que se desempe&#xF1;en en la Unidad de la Ni&#xF1;ez de la Subsecretar&#xED;a de Servicios Sociales.</div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, a contar del 1 de enero de 2019, trasp&#xE1;sese, sin soluci&#xF3;n de continuidad, desde la Subsecretar&#xED;a de Servicios Sociales a la Subsecretar&#xED;a de la Ni&#xF1;ez, a 9<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1132014&amp;idParte=10025874&amp;idVersion=2019-05-27\">Decreto con Fuerza de Ley 2,<br>DESARROLLO SOCIAL<br>Art. &#xFA;nico Nos. 1 y 2<br>D.O. 27.05.2019</a></span> funcionarios asimilados a la planta de profesionales que se desempe&#xF1;en en el Subsistema de Protecci&#xF3;n Integral a la Infancia Chile Crece Contigo creado por la ley N&#xBA; 20.379.</div><div class=\"p\">&nbsp; &nbsp;  A contar de la fecha del traspaso se suprimir&#xE1; por el solo ministerio de la ley en la planta de personal de la Subsecretar&#xED;a de Servicios Sociales, el cargo de planta que se traspase. Desde esa misma data se rebajar&#xE1; la dotaci&#xF3;n m&#xE1;xima de personal de la Subsecretar&#xED;a antes se&#xF1;alada en el mismo n&#xFA;mero de cargos que se traspasen a la Subsecretar&#xED;a de la Ni&#xF1;ez. Conjuntamente con el traspaso de personal se transferir&#xE1;n desde la Subsecretar&#xED;a de Servicios Sociales los recursos presupuestarios liberados por dicho traspaso.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1132014,
+      "fecha": "2019-05-27"
+    }
+  }
+]

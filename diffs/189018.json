@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-08-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-03-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6347958,
+          "old": "<div><div class=\"p\">OTORGA RECONOCIMIENTO OFICIAL A ESCUELA DE CONDUCTORES PROFESIONALES ICASA S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 124 exenta.- Talca, 21 de agosto de 2001.- Visto: Lo dispuesto en art&#xED;culo 31 D de la ley N&#xBA; 18.290; el art&#xED;culo 6&#xBA; del decreto supremo N&#xBA; 251, de 9 de octubre de 1998, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, que establece el Reglamento para las Escuelas de Conductores Profesionales; la resoluci&#xF3;n N&#xBA; 249, del 19 de diciembre de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la solicitud de Icasa del 26 de julio del 2001, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtenci&#xF3;n de licencias profesionales clases A2, A3, A4 y A5.</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que corresponde a esta Secretar&#xED;a Regional Ministerial emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los art&#xED;culos 31 A, 31 B y 31 C de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">OTORGA RECONOCIMIENTO OFICIAL A ESCUELA DE CONDUCTORES PROFESIONALES ICASA S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 124 exenta.- Talca, 21 de agosto de 2001.- Visto: Lo dispuesto en art&#xED;culo 31 D de la ley N&#xBA; 18.290; el art&#xED;culo 6&#xBA; del decreto supremo N&#xBA; 251, de 9 de octubre de 1998, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, que establece el Reglamento para las Escuelas de Conductores Profesionales; la resoluci&#xF3;n N&#xBA; 249, del 19 de diciembre de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la solicitud de Icasa del 26 de julio del 2001, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtenci&#xF3;n de licencias profesionales clases A2, A3, A4 y A5.</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que corresponde a esta Secretar&#xED;a Regional Ministerial emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los art&#xED;culos 31 A, 31 B y 31 C de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

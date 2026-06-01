@@ -1,0 +1,51 @@
+[
+  {
+    "fecha": "1992-05-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-05-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8639755,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Tanto las sociedades y dem&#xE1;s asociaciones con terceros como las transferencias a la Empresa Nacional de Miner&#xED;a de que trata esta ley s&#xF3;lo podr&#xE1;n recaer en pertenencias mineras que hayan sido objeto, a lo menos, de exploraci&#xF3;n b&#xE1;sica por parte de Codelco-Chile.&quot;.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Tanto las sociedades y dem&#xE1;s<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> asociaciones con terceros como las transferencias a la Empresa Nacional de Miner&#xED;a de que trata esta ley s&#xF3;lo podr&#xE1;n recaer en pertenencias mineras que hayan sido objeto, a lo menos, de exploraci&#xF3;n b&#xE1;sica por parte de Codelco-Chile.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico del DTO 96, Miner&#xED;a, publicado el 21.07.1992, dispuso que para los efectos del presente art&#xED;culo, se entender&#xE1; por exploraci&#xF3;n b&#xE1;sica la primera etapa del proceso de exploraci&#xF3;n consistente en la selecci&#xF3;n de &#xE1;reas geogr&#xE1;ficas con caracter&#xED;sticas geol&#xF3;gicas favorables para contener dep&#xF3;sitos minerales, y en la identificaci&#xF3;n en ellas, mediante la aplicaci&#xF3;n de una o m&#xE1;s t&#xE9;cnicas de reconocimiento geol&#xF3;gico, de sectores espec&#xED;ficos o blancos en los que eventualmente pueda comprobarse la presencia de tales dep&#xF3;sitos.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1992-07-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2010-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8639752,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Los t&#xE9;rminos, condiciones y modalidades de los actos o contratos a que se refiere esta ley, deber&#xE1;n ser establecidos por acuerdo fundado del Directorio de la Corporaci&#xF3;n Nacional del Cobre de Chile, adoptado con el voto conforme de, a lo menos, cinco de sus miembros, entre los cuales deber&#xE1;n, necesariamente, contarse los de los Ministros de Miner&#xED;a y de Hacienda. Dichos actos y contratos deber&#xE1;n ser aprobados por el Presidente de la Rep&#xFA;blica, mediante decreto supremo del Ministerio de Miner&#xED;a, previamente a su celebraci&#xF3;n u otorgamiento. En las sociedades, asociaciones o comunidades que se constituyan de acuerdo con el art&#xED;culo 2&#xB0; de esta ley, CODELCO-CHILE propender&#xE1;, en la medida que las circunstancias lo permitan, atendido los vol&#xFA;menes de inversi&#xF3;n de las partes, la rentabilidad esperada y dem&#xE1;s condiciones particulares de cada una de ellas, a tener una participaci&#xF3;n mayoritaria.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Los t&#xE9;rminos, condiciones y modalidades de los actos o contratos a que se refiere esta ley, deber&#xE1;n ser establecidos por acuerdo fundado del Directorio de la Corporaci&#xF3;n Nacional del Cobre de Chile, adoptado con el voto conforme de, a lo menos, cinco de sus miembros.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1007982&amp;idParte=8799901&amp;idVersion=2009-11-14\">Ley 20392<br>Art. 2 N&#xBA; 1 y 2<br>D.O. 14.11.2009</a></span> Dichos actos y contratos deber&#xE1;n ser aprobados por el Presidente de la Rep&#xFA;blica, mediante decreto supremo del Ministerio de Hacienda, suscrito, adem&#xE1;s, por el Ministro de Miner&#xED;a, previamente a su celebraci&#xF3;n u otorgamiento. En las sociedades, asociaciones o comunidades que se constituyan de acuerdo con el art&#xED;culo 2&#xB0; de esta ley, CODELCO-CHILE propender&#xE1;, en la medida que las circunstancias lo permitan, atendido los vol&#xFA;menes de inversi&#xF3;n de las partes, la rentabilidad esperada y dem&#xE1;s condiciones particulares de cada una de ellas, a tener una participaci&#xF3;n mayoritaria.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8639755,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Tanto las sociedades y dem&#xE1;s<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> asociaciones con terceros como las transferencias a la Empresa Nacional de Miner&#xED;a de que trata esta ley s&#xF3;lo podr&#xE1;n recaer en pertenencias mineras que hayan sido objeto, a lo menos, de exploraci&#xF3;n b&#xE1;sica por parte de Codelco-Chile.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico del DTO 96, Miner&#xED;a, publicado el 21.07.1992, dispuso que para los efectos del presente art&#xED;culo, se entender&#xE1; por exploraci&#xF3;n b&#xE1;sica la primera etapa del proceso de exploraci&#xF3;n consistente en la selecci&#xF3;n de &#xE1;reas geogr&#xE1;ficas con caracter&#xED;sticas geol&#xF3;gicas favorables para contener dep&#xF3;sitos minerales, y en la identificaci&#xF3;n en ellas, mediante la aplicaci&#xF3;n de una o m&#xE1;s t&#xE9;cnicas de reconocimiento geol&#xF3;gico, de sectores espec&#xED;ficos o blancos en los que eventualmente pueda comprobarse la presencia de tales dep&#xF3;sitos.<br></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Tanto las sociedades y dem&#xE1;s<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> asociaciones con terceros como las transferencias a la Empresa Nacional de Miner&#xED;a de que trata esta ley s&#xF3;lo podr&#xE1;n recaer en pertenencias mineras que hayan sido objeto, a lo menos, de exploraci&#xF3;n b&#xE1;sica por parte de Codelco-Chile.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico del DTO 96, Miner&#xED;a, publicado el 21.07.1992, dispuso que para los efectos del presente art&#xED;culo, se entender&#xE1; por exploraci&#xF3;n b&#xE1;sica la primera etapa del proceso de exploraci&#xF3;n consistente en la selecci&#xF3;n de &#xE1;reas geogr&#xE1;ficas con caracter&#xED;sticas geol&#xF3;gicas favorables para contener dep&#xF3;sitos minerales, y en la identificaci&#xF3;n en ellas, mediante la aplicaci&#xF3;n de una o m&#xE1;s t&#xE9;cnicas de reconocimiento geol&#xF3;gico, de sectores espec&#xED;ficos o blancos en los que eventualmente pueda comprobarse la presencia de tales dep&#xF3;sitos.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

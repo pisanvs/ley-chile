@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-02-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-09-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8327563,
+          "old": "<div><div class=\"p\">DEJA SIN EFECTO DECRETO No. 262 DE 1990, ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO QUE INDICA A EMPRESA DE ABASTECIMIENTO DE ZONAS AISLADAS</div><br><br><div class=\"p\">N&#xFA;m. 480.- Santiago, 17 de Diciembre de 1990.- Visto: Art&#xED;culos 1&#xB0; y 3&#xB0; del DL 799 de 1974, modificado por el DFL No. 122. 345 de 1979 del Ministerio del Interior; Circular No. 9.277 de 1975 y resoluciones N&#xB0;s. 600 de 1977 y 1.050 de 1980, todos de la Contralor&#xED;a General de la Rep&#xFA;blica; decreto de Econom&#xED;a No. 262 de 1990, lo solicitado por la Empresa de Abastecimiento de Zonas Aisladas en su Oficio Ord. No. 187 de 1990, y antecedentes que se acompa&#xF1;an:</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">Que, mediante decreto de Econom&#xED;a No. 262 de 1990, se asign&#xF3; al Vicepresidente Ejecutivo de la Empresa de Abastecimiento de Zonas Aisladas, en reemplazo del Jeep Suzuki, modelo SJ413V, a&#xF1;o 1988 Placa Unica BZ.7214-3, el autom&#xF3;vil Peugeot 504, a&#xF1;o 1978, Placa Unica 2046-5, Que, el autom&#xF3;vil Peugeot dada su antig&#xFC;edad presenta desperfectos de un alto costo de reparaci&#xF3;n, siendo necesario para la Empresa destinar nuevamente al uso exclusivo de la Vicepresidencia Ejecutiva el Jeep mencionado en el primer considerando de este decreto y dejar sin efecto el decreto de Econom&#xED;a No. 262 de 1990, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DEJA SIN EFECTO DECRETO No. 262 DE 1990, ASIGNA Y AUTORIZA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> CIRCULACION DE VEHICULO QUE INDICA A EMPRESA DE ABASTECIMIENTO DE ZONAS AISLADAS</div><br><br><div class=\"p\">N&#xFA;m. 480.- Santiago, 17 de Diciembre de 1990.- Visto:</div><div class=\"p\">Art&#xED;culos 1&#xB0; y 3&#xB0; del DL 799 de 1974, modificado por el DFL No. 122. 345 de 1979 del Ministerio del Interior; Circular No. 9.277 de 1975 y resoluciones N&#xB0;s. 600 de 1977 y 1.050 de 1980, todos de la Contralor&#xED;a General de la Rep&#xFA;blica; decreto de Econom&#xED;a No. 262 de 1990, lo solicitado por la Empresa de Abastecimiento de Zonas Aisladas en su Oficio Ord. No. 187 de 1990, y antecedentes que se acompa&#xF1;an:</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">Que, mediante decreto de Econom&#xED;a No. 262 de 1990, se asign&#xF3; al Vicepresidente Ejecutivo de la Empresa de Abastecimiento de Zonas Aisladas, en reemplazo del Jeep Suzuki, modelo SJ413V, a&#xF1;o 1988 Placa Unica BZ.7214-3, el autom&#xF3;vil Peugeot 504, a&#xF1;o 1978, Placa Unica 2046-5,</div><div class=\"p\">Que, el autom&#xF3;vil Peugeot dada su antig&#xFC;edad presenta desperfectos de un alto costo de reparaci&#xF3;n, siendo necesario para la Empresa destinar nuevamente al uso exclusivo de la Vicepresidencia Ejecutiva el Jeep mencionado en el primer considerando de este decreto y dejar sin efecto el decreto de Econom&#xED;a No. 262 de 1990, </div><div class=\"p\">Decreto:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo 1&#xBA; del DTO 198, ECONOMIA, publicado el 16.09.1991, dej&#xF3; sin efecto la presente norma. </div></div>"
+        }
+      ]
+    }
+  }
+]

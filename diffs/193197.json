@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6363807,
+          "old": "<div><div class=\"p\">COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 144 exenta.- Santiago, 27 de diciembre de 2001.- Vistos: El D.F.L.N&#xB0;10, de 1981 y el art&#xED;culo N&#xB0;5 del decreto N&#xB0;69, de 2000, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de fijar tarifas a las prestaciones postales no se&#xF1;aladas en el citado decreto de Telecomunicaciones N&#xB0;69, de 2000; Acuerdo N&#xB0;247/2001, del Directorio de la Empresa de Correos de Chile, adoptado en la sesi&#xF3;n D&#xE9;cima Quinta Extraordinaria de 27 de Diciembre de 2001; la resoluci&#xF3;n N&#xB0;520/1996 de la Contralor&#xED;a General de la Rep&#xFA;blica: y en uso de las facultades que me confieren la resoluci&#xF3;n N&#xB0;5, del 2000 y la resoluci&#xF3;n exenta N&#xB0;20 de 2001, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n :</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 144 exenta.- Santiago, 27 de diciembre de 2001.- Vistos: El D.F.L.N&#xB0;10, de 1981 y el art&#xED;culo N&#xB0;5 del decreto N&#xB0;69, de 2000, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de fijar tarifas a las prestaciones postales no se&#xF1;aladas en el citado decreto de Telecomunicaciones N&#xB0;69, de 2000; Acuerdo N&#xB0;247/2001, del Directorio de la Empresa de Correos de Chile, adoptado en la sesi&#xF3;n D&#xE9;cima Quinta Extraordinaria de 27 de Diciembre de 2001; la resoluci&#xF3;n N&#xB0;520/1996 de la Contralor&#xED;a General de la Rep&#xFA;blica: y en uso de las facultades que me confieren la resoluci&#xF3;n N&#xB0;5, del 2000 y la resoluci&#xF3;n exenta N&#xB0;20 de 2001, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n :</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

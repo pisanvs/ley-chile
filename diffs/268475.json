@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2008-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-02-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8434121,
+          "old": "<div><div class=\"p\">NOTIFICACI&#xD3;N </div></div>",
+          "new": "<div><div class=\"p\">NOTIFICACI&#xD3;N</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8434122,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 200, de 28.11.2007, Serviu VI Regi&#xF3;n del Libertador Bernardo O&apos;Higgins, orden&#xF3; expropiaci&#xF3;n parte de un inmueble ubicado en Avenida Manso de Velasco N&#xBA; 1040, Rol de Aval&#xFA;o N&#xBA; 140-71, de la comuna de Rancagua, superficie aproximada de 96,75 m&#xB2; de terreno, delimitada en pol&#xED;gono G-H-I-J conforme al plano elaborado por Pamela Acu&#xF1;a Illanes, ingeniero, &quot;Mejoramiento Eje Vial Manso de Velasco y Avenida O&apos;Higgins comuna de San Fernando. De aparente dominio de Dar&#xED;o Humberto Romero Romero&quot;, a fojas 997 N&#xBA; 1206 del a&#xF1;o 1985. &quot;Proyecto Mejoramiento Eje Manso de Velasco y Avenida O&apos;Higgins&quot;, conforme al Art. 51, ley 16.391 y D.L. 2.186. Comisi&#xF3;n Tasadora, peritos Sra. Carmen R&#xED;os Marcuello, Sra. Mar&#xED;a Isabel R&#xED;os Marcuello y Sra. Patricia Morales Rivera, ingeniero, arquitecto y constructor civil, respectivamente, seg&#xFA;n informe de fecha noviembre de 2007, monto provisional en $48.568.350.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 200, de 28.11.2007, Serviu VI Regi&#xF3;n del Libertador Bernardo O.Higgins, orden&#xF3; expropiaci&#xF3;n parte de un inmueble ubicado en Avenida Manso de Velasco N&#xBA; 1040, Rol de Aval&#xFA;o N&#xBA; 140-71, de la Comuna de San<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 15.02.2008</span> Fernando, superficie aproximada de 96,75 m&#xB2; de terreno, delimitada en pol&#xED;gono G-H-I-J conforme al plano elaborado por Pamela Acu&#xF1;a Illanes, ingeniero, &quot;Mejoramiento Eje Vial Manso de Velasco y Avenida O.Higgins comuna de San Fernando. De aparente dominio de Dar&#xED;o Humberto Romero Romero&quot;, a fojas 997 N&#xBA; 1206 del a&#xF1;o 1985. &quot;Proyecto Mejoramiento Eje Manso de Velasco y Avenida O.Higgins&quot;, conforme al Art. 51, ley 16.391 y D.L. 2.186. Comisi&#xF3;n Tasadora, peritos Sra. Carmen R&#xED;os Marcuello, Sra. Mar&#xED;a Isabel R&#xED;os Marcuello y Sra. Patricia Morales Rivera, ingeniero, arquitecto y constructor civil, respectivamente, seg&#xFA;n informe de fecha noviembre de 2007, monto provisional en $48.568.350.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

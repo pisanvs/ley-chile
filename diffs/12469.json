@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-09-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8923235,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Los ingresos que provengan del ejercicio de las facultades contenidas en la letra a) del art&#xED;culo 1&#xB0; del Decreto Ley N&#xB0; 2.352, de 1978, que fueron radicadas en el Jefe de la Divisi&#xF3;n de Extensi&#xF3;n Cultural del Ministerio de Educaci&#xF3;n, a nivel nacional, y los Secretarios Regionales Ministeriales de Educaci&#xF3;n, a nivel regional, en virtud del Decreto N&#xB0; 468 del a&#xF1;o 1979, pueden emanar tambi&#xE9;n de publicaciones originadas en las distintas dependencias del Ministerio de Educaci&#xF3;n como de las que provengan de terceros ajenos a este Ministerio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Los ingresos que provengan del ejercicio de las facultades contenidas en la letra a) del art&#xED;culo 1&#xB0; del Decreto Ley N&#xB0; 2.352, de 1978, que fueron radicadas en el Jefe de la Divisi&#xF3;n de Administraci&#xF3;n General del Ministerio de Educaci&#xF3;n,<span class=\"n\" id=\"n_0\">DTO 102, EDUCACION<br>Art. segundo<br>D.O. 07.09.2005</span> a nivel nacional, y los Secretarios Regionales Ministeriales de Educaci&#xF3;n, a nivel regional, en virtud del Decreto N&#xB0; 468 del a&#xF1;o 1979, pueden emanar tambi&#xE9;n de publicaciones originadas en las distintas dependencias del Ministerio de Educaci&#xF3;n como de las que provengan de terceros ajenos a este Ministerio.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

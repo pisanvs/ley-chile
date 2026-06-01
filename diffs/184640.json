@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-02-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-04-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6332468,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MARIA G. MARIN VELAZQUEZ PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MARIA G. MARIN VELAZQUEZ PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

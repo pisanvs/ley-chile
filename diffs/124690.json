@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-10-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-02-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8334708,
+          "old": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA CHILEMAR S.A. PARA SUSTITUIR EMBARCACIONES QUE INDICA. DEJA SIN EFECTO AUTORIZACIONES QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA CHILEMAR S.A. PARA SUSTITUIR EMBARCACIONES QUE INDICA. DEJA SIN EFECTO AUTORIZACIONES QUE SE&#xD1;ALA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

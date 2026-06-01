@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1997-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-04-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8924467,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Resoluci&#xF3;n N&#xBA; 669, de 9 de mayo de 1997, de esta Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, modif&#xED;case el numeral 1 de la Resoluci&#xF3;n N&#xBA; 1.149 de 1994, de esta Subsecretar&#xED;a, que autoriz&#xF3; a ANDRES JAVIER GUARACHE GOMEZ, para operar la nave &quot;La Chimba&quot;, en el sentido de se&#xF1;alar que sus actuales caracter&#xED;sticas n&#xE1;uticas son las siguientes:</div><br><br><div class=\"p\">Matr&#xED;cula&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2360</div><div class=\"p\">Eslora de arqueo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 22,0 m</div><div class=\"p\">T.R.G. (Nacional)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  77,9</div><div class=\"p\">Capacidad de Bodega&nbsp; &nbsp; &nbsp; &nbsp; 145,3 m3</div><div class=\"p\">Arte de pesca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cerco</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por Resoluci&#xF3;n N&#xBA; 669, de 9 de mayo de 1997, de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> esta Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, modif&#xED;case el numeral 1 de la Resoluci&#xF3;n N&#xBA; 1.149 de 1994, de esta Subsecretar&#xED;a, que autoriz&#xF3; a ANDRES JAVIER GUARACHE GOMEZ, para operar la nave &quot;La Chimba&quot;, en el sentido de se&#xF1;alar que sus actuales caracter&#xED;sticas n&#xE1;uticas son las siguientes:</div><br><br><div class=\"p\">Matr&#xED;cula&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2360</div><div class=\"p\">Eslora de arqueo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 22,0 m</div><div class=\"p\">T.R.G. (Nacional)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  77,9</div><div class=\"p\">Capacidad de Bodega&nbsp; &nbsp; &nbsp; &nbsp; 145,3 m3</div><div class=\"p\">Arte de pesca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cerco</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  Por la RES 347, Econom&#xED;a, publicada en el Diario Oficial 15.04.1998, se ampliaron actividades pesqueras a que hace referencia dicha resoluci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1999-11-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

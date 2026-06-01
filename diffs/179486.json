@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-11-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6313956,
+          "old": "<div><div class=\"p\">PRORROGA POR OTRO PERIODO FORMULAS TARIFARIAS VIGENTES DE AGUA POTABLE Y ALCANTARILLADO DE AGUAS SERVIDAS DE LA EMPRESA DE AGUAS LA SERENA S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 606.- Santiago, 31 de octubre de 2000.- Visto: Lo dispuesto en el decreto con fuerza de ley N&#xBA; 70 de 1988 del Ministerio de Obras P&#xFA;blicas, en especial los art&#xED;culos N&#xBA; 12 y N&#xBA; 12B, y sus modificaciones contenidas en la ley N&#xBA; 19.549; el decreto supremo N&#xBA; 453, de 1989, modificado por decreto N&#xBA; 109, de 1998, y el decreto supremo N&#xBA; 182, de 1995 todos ellos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el art&#xED;culo N&#xBA; 10 de la ley N&#xBA; 10.336; la ley N&#xBA; 18.902; el decreto supremo N&#xBA; 457 del 26 de julio de 1995 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, publicado en el Diario Oficial del 29 de diciembre de 1995 correspondiente a los servicios que otorga la Empresa; carta N&#xBA; 068 del 28 de octubre de 1999 de la Empresa, en la cual solicita pr&#xF3;rroga de sus tarifas y el acta de acuerdo del 29 de octubre de 1999 entre la Empresa y la Superintendencia de Servicios Sanitarios.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><br><div class=\"p\">PRORROGA POR OTRO PERIODO FORMULAS TARIFARIAS VIGENTES<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> DE AGUA POTABLE Y ALCANTARILLADO DE AGUAS SERVIDAS DE LA EMPRESA DE AGUAS LA SERENA S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 606.- Santiago, 31 de octubre de 2000.- Visto: Lo dispuesto en el decreto con fuerza de ley N&#xBA; 70 de 1988 del Ministerio de Obras P&#xFA;blicas, en especial los art&#xED;culos N&#xBA; 12 y N&#xBA; 12B, y sus modificaciones contenidas en la ley N&#xBA; 19.549; el decreto supremo N&#xBA; 453, de 1989, modificado por decreto N&#xBA; 109, de 1998, y el decreto supremo N&#xBA; 182, de 1995 todos ellos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el art&#xED;culo N&#xBA; 10 de la ley N&#xBA; 10.336; la ley N&#xBA; 18.902; el decreto supremo N&#xBA; 457 del 26 de julio de 1995 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, publicado en el Diario Oficial del 29 de diciembre de 1995 correspondiente a los servicios que otorga la Empresa; carta N&#xBA; 068 del 28 de octubre de 1999 de la Empresa, en la cual solicita pr&#xF3;rroga de sus tarifas y el acta de acuerdo del 29 de octubre de 1999 entre la Empresa y la Superintendencia de Servicios Sanitarios.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 10 del DTO 279, Econom&#xED;a, publicado el 19.11.2005, orden&#xF3; dejar sin efecto la presente norma a partir del 29 de diciembre de 2005. Sin perjuicio que, vencido dicho plazo contin&#xFA;e factur&#xE1;ndose conforme a las tarifas del DTO 606/2000 se&#xF1;alado, mientras no se publique el presente Decreto que fija las tarifas del nuevo per&#xED;odo y se apliquen en su caso, las reliquidaciones que sean procedentes conforme al art. 12&#xBA; del D.F.L. N&#xB0;70 de 1988.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

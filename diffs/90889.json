@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-10-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9007804,
+          "old": "<div><div class=\"p\">Art&#xED;culo &#xFA;nico: Conc&#xE9;dese, por gracia, a do&#xF1;a Julia Angulo Gilobert, una pensi&#xF3;n equivalente a un ingreso m&#xED;nimo mensual, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos es aquel a que hace referencia el inciso 1&#xB0; del art&#xED;culo 5 de la Ley No. 18.647 que se emplea para fines no remuneracionales.</div><div class=\"p\">El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><div class=\"p\">Art&#xED;culo &#xFA;nico: Conc&#xE9;dese, por gracia, a do&#xF1;a Julia Angulo Gilobert,<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> una pensi&#xF3;n equivalente a un ingreso m&#xED;nimo mensual, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos es aquel a que hace referencia el inciso 1&#xB0; del art&#xED;culo 5 de la Ley No. 18.647 que se emplea para fines no remuneracionales.</div><div class=\"p\">El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 1870, Interior, publicado el 03.01.1990, ordena rectificar el art&#xED;culo &#xFA;nico del presente decreto en el sentido de dejar establecido que el nombre de la beneficiaria es Julia Angulo Jilabert.</div></div>"
+        }
+      ]
+    }
+  }
+]

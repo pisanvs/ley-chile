@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-09-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9634408,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Cr&#xE9;ase la Circunscripci&#xF3;n Electoral denominada &quot;Los Molles&quot; en la comuna de Quilpu&#xE9;, provincia de Valpara&#xED;so, V Regi&#xF3;n de Valpara&#xED;so, cuyo territorio jurisdiccional ser&#xE1;: al Norte, L&#xED;mite comunas de Villa Alemana, Limache y Olmu&#xE9;; al Sur, L&#xED;mite con comunas de Valpara&#xED;so, Casablanca y Curacav&#xED;; al Este, L&#xED;mite con comunas de Tiltil y Lampa; y, al Oeste, Ruta F-560 desde l&#xED;mite con la comuna de Villa Alemana hasta intersecci&#xF3;n con ruta F-50; l&#xED;nea recta imaginaria desde la intersecci&#xF3;n de ruta F-560 con ruta F-50, cruzando la intersecci&#xF3;n de la ruta F-740 con Quebrada Patagual, hasta llegar al l&#xED;mite con la comuna de Valpara&#xED;so.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Modif&#xED;case el territorio jurisdiccional de la Circunscripci&#xF3;n Electoral Quilpu&#xE9;, en el sentido que el territorio de dicha circunscripci&#xF3;n ser&#xE1; el actual, excepto el asignado a la nueva Circunscripci&#xF3;n Electoral Los Molles.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Proc&#xE9;dase a la incorporaci&#xF3;n autom&#xE1;tica de todos los electores con domicilio electoral en el territorio jurisdiccional de la Circunscripci&#xF3;n Electoral Los Molles.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; Publ&#xED;quese dentro de 5&#xBA; d&#xED;a en el Diario Oficial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Cr&#xE9;ase la Circunscripci&#xF3;n Electoral denominada &quot;Los Molles&quot; en la comuna de Quilpu&#xE9;, Provincia de Marga Marga<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1081451&amp;idParte=9635359&amp;idVersion=2015-09-11\">Resoluci&#xF3;n 205,<br>SERVICIO ELECTORAL<br>N&#xB0; 1<br>D.O. 11.09.2015</a></span>, V Regi&#xF3;n de Valpara&#xED;so, cuyo territorio jurisdiccional ser&#xE1;: al Norte, L&#xED;mite comunas de Villa Alemana, Limache y Olmu&#xE9;; al Sur, L&#xED;mite con comunas de Valpara&#xED;so, Casablanca y Curacav&#xED;; al Este, L&#xED;mite con comunas de Tiltil y Lampa; y, al Oeste, Ruta F-560 desde l&#xED;mite con la comuna de Villa Alemana hasta intersecci&#xF3;n con ruta F-50; l&#xED;nea recta imaginaria desde la intersecci&#xF3;n de ruta F-560 con ruta F-50, cruzando la intersecci&#xF3;n de la ruta F-740 con Quebrada Patagual, hasta llegar al l&#xED;mite con la comuna de Valpara&#xED;so.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Modif&#xED;case el territorio jurisdiccional de la Circunscripci&#xF3;n Electoral Quilpu&#xE9;, en el sentido que el territorio de dicha circunscripci&#xF3;n ser&#xE1; el actual, excepto el asignado a la nueva Circunscripci&#xF3;n Electoral Los Molles.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Proc&#xE9;dase a la incorporaci&#xF3;n autom&#xE1;tica de todos los electores con domicilio electoral en el territorio jurisdiccional de la Circunscripci&#xF3;n Electoral Los Molles.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; Publ&#xED;quese dentro de 5&#xBA; d&#xED;a en el Diario Oficial.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1081451,
+      "fecha": "2015-09-11"
+    }
+  }
+]

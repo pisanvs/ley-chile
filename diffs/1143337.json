@@ -1,0 +1,56 @@
+[
+  {
+    "fecha": "2020-03-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10107379,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: El presente decreto entrar&#xE1; en vigencia una vez publicado en el Diario Oficial. No obstante lo anterior, respecto de las Plantas de Revisi&#xF3;n T&#xE9;cnica, la verificaci&#xF3;n del factor de transmisi&#xF3;n regular de la luz grabado en el vidrio comenzar&#xE1; a efectuarse transcurridos seis meses a contar de su publicaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: El presente decreto entrar&#xE1; en vigencia una vez publicado en el Diario Oficial. No obstante lo anterior, respecto de las Plantas de Revisi&#xF3;n T&#xE9;cnica, la verificaci&#xF3;n del factor de transmisi&#xF3;n regular de la luz grabado en el vidrio comenzar&#xE1; a efectuarse transcurridos doc<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1149346&amp;idParte=10157895&amp;idVersion=2020-09-11\">Decreto 37, TRANSPORTES<br>Art. primero<br>D.O. 11.09.2020</a></span>e meses a contar de su publicaci&#xF3;n.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-03-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10107379,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: El presente decreto entrar&#xE1; en vigencia una vez publicado en el Diario Oficial. No obstante lo anterior, respecto de las Plantas de Revisi&#xF3;n T&#xE9;cnica, la verificaci&#xF3;n del factor de transmisi&#xF3;n regular de la luz grabado en el vidrio comenzar&#xE1; a efectuarse transcurridos doc<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1149346&amp;idParte=10157895&amp;idVersion=2020-09-11\">Decreto 37, TRANSPORTES<br>Art. primero<br>D.O. 11.09.2020</a></span>e meses a contar de su publicaci&#xF3;n.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: El presente decreto entrar&#xE1; en vigencia una vez publicado en el Diario Oficial. No obstante lo anterior, respecto de las Plantas de Revisi&#xF3;n T&#xE9;cnica, la verificaci&#xF3;n del factor de transmisi&#xF3;n regular de la luz grabado en el vidrio comenzar&#xE1; a efectuarse transcurridos vein<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1157228&amp;idParte=10211126&amp;idVersion=2021-03-20\">Decreto 14, <br>TRANSPORTES<br>Art. primero<br>D.O. 20.03.2021</a></span>te meses a contar de su publicaci&#xF3;n.</div><br><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10107379,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: El presente decreto entrar&#xE1; en vigencia una vez publicado en el Diario Oficial. No obstante lo anterior, respecto de las Plantas de Revisi&#xF3;n T&#xE9;cnica, la verificaci&#xF3;n del factor de transmisi&#xF3;n regular de la luz grabado en el vidrio comenzar&#xE1; a efectuarse transcurridos vein<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1157228&amp;idParte=10211126&amp;idVersion=2021-03-20\">Decreto 14, <br>TRANSPORTES<br>Art. primero<br>D.O. 20.03.2021</a></span>te meses a contar de su publicaci&#xF3;n.</div><br><br><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: El presente decreto entrar&#xE1; en vigencia una vez publicado en el Diario Oficial. No obstante lo anterior, respecto de las Plantas de Revisi&#xF3;n T&#xE9;cnica, la verificaci&#xF3;n del factor de transmisi&#xF3;n regular de la luz grabado en el vidrio comenzar&#xE1; a efectuarse transcurridos veintis&#xE9;is<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1172548&amp;idParte=10309128&amp;idVersion=2022-02-14\">Decreto 60,<br>TRANSPORTES<br>Art. 2&#xB0;<br>D.O. 14.02.2022</a></span> meses a contar de su publicaci&#xF3;n.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1172548,
+      "fecha": "2022-02-14"
+    }
+  }
+]

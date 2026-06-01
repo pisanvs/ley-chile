@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2016-02-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-04-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9694245,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1089157&amp;idParte=9694152&amp;idVersion=2016-04-07\">Resoluci&#xF3;n 28,<br>CONTRALOR&#xCD;A GENERAL DE LA REP&#xDA;BLICA<br>Art. &#xDA;NICO<br>D.O. 07.04.2016</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Sin perjuicio de lo indicado en el art&#xED;culo 13 permanente, los Servicios de Salud; el Centro de Referencia de Salud de Pe&#xF1;alol&#xE9;n Cordillera Oriente; el Centro de Referencia de Salud Maip&#xFA;; el Hospital Padre Alberto Hurtado; las Universidades; las Fuerzas Armadas y de Orden y Seguridad P&#xFA;blica y Gendarmer&#xED;a de Chile, continuar&#xE1;n rigi&#xE9;ndose por lo se&#xF1;alado en las resoluciones Nos 908, de 2011; 245, de 2012; 224 y 444, de 2013, y N&#xB0; 15, de 2015, todas de esta Entidad Fiscalizadora, en lo que dice relaci&#xF3;n con el registro electr&#xF3;nico de los siguientes actos administrativos:</div><br><div class=\"p\">1.&nbsp;  Suplencias dispuestas con personal del mismo Servicio, salvo que se refieran a cargos de exclusiva confianza.</div><div class=\"p\">2.&nbsp;  Designaciones a contrata dispuestas por per&#xED;odos inferiores a quince d&#xED;as.</div><div class=\"p\">3.&nbsp;  Pr&#xF3;rrogas de designaciones a contrata.</div><div class=\"p\">4.&nbsp;  Contratos a honorarios de personas naturales:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Que se paguen por mensualidades, por un monto mensual igual o inferior a 75 unidades tributarias mensuales.</div><br><div class=\"p\">&nbsp; &nbsp;  b) A suma alzada o cualquier otra modalidad de pago, cuyo monto total sea igual o inferior a 150 unidades tributarias mensuales.</div><br><div class=\"p\">5.&nbsp;  Renovaciones de contratos a honorarios asimilados a grado, dispuestos en iguales condiciones.</div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1089157,
+      "fecha": "2016-04-07"
+    }
+  },
+  {
+    "fecha": "2017-04-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

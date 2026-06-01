@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316569,
+          "old": "<div><div class=\"p\">AUTORIZA A DON CARLOS MAURICIO ANGULO KOLBACH PMA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON CARLOS MAURICIO ANGULO KOLBACH PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

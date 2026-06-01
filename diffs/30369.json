@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1990-10-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9047149,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1&#xB0;.- La primera calificaci&#xF3;n que deba hacerse conforme a las normas de la ley N&#xB0; 18.834, sobre estatuto administrativo, tendr&#xE1; lugar a contar del 1&#xB0; de septiembre de 1991 y conprender&#xE1; el desempe&#xF1;o funcionario entre el 1&#xB0; de septiembre de 1990 y el 1&#xB0; de septiembre de 1991.</div><div class=\"p\">&nbsp; &nbsp; El escalaf&#xF3;n contemplado en el art&#xED;culo 46&#xB0; de la ley N&#xB0; 18.834 comenzar&#xE1; a regir el 1&#xB0; de enero de 1992. Hasta que no entre en vigencia el referido escalaf&#xF3;n, deber&#xE1; constituirse un escalaf&#xF3;n de antig&#xFC;edad por cada una de las plantas establecidas en el art&#xED;culo 5&#xB0; permanente de la mencionada ley.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1&#xB0;.- La primera calificaci&#xF3;n que deba hacerse conforme a las normas de la ley N&#xB0; 18.834, sobre estatuto administrativo, tendr&#xE1; lugar a contar del 1&#xB0; de septiembre de 1992 y conprender&#xE1; el desempe&#xF1;o<span class=\"n\" id=\"n_0\">LEY 19075<br>Art. &#xFA;nico</span> funcionario entre el 1&#xB0; de septiembre de 1991 y el 1&#xB0; de septiembre de 1992.</div><div class=\"p\">&nbsp; &nbsp; El escalaf&#xF3;n contemplado en el art&#xED;culo 46&#xB0; de la ley N&#xB0; 18.834 comenzar&#xE1; a regir el 1&#xB0; de enero de 1993.<span class=\"n\" id=\"n_1\">LEY 19075<br>Art. &#xFA;nico</span> Hasta que no entre en vigencia el referido escalaf&#xF3;n, deber&#xE1; constituirse un escalaf&#xF3;n de antig&#xFC;edad por cada una de las plantas establecidas en el art&#xED;culo 5&#xB0; permanente de la mencionada ley.</div><br></div>"
+        },
+        {
+          "part_id": 9047150,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- La primera calificaci&#xF3;n que deba hacerse conforme a las normas de la ley N&#xB0; 18.883, sobre Estatuto administrativo para los Funcionarios Municipales, tendr&#xE1; lugar a contar del 1&#xB0; de septiembre de 1991 y comprender&#xE1; el desempe&#xF1;o funcionario entre el 1&#xB0; de septiembre de 1990 y el 1&#xB0; de septiembre de 1991.</div><div class=\"p\">&nbsp; &nbsp; El escalaf&#xF3;n contemplado en el art&#xED;culo 49&#xB0; del mencionado Estatuto comenzar&#xE1; a regir el 1&#xB0; de enero de 1992. Hasta que no entre en vigencia el referido escalaf&#xF3;n deber&#xE1; constituirse un escalaf&#xF3;n de antig&#xFC;edad por cada una de las plantas establecidas en el art&#xED;culo 7&#xB0; permanente de la ley N&#xB0; 18.883.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- La primera calificaci&#xF3;n que deba hacerse conforme a las normas de la ley N&#xB0; 18.883, sobre Estatuto administrativo para los Funcionarios Municipales, tendr&#xE1; lugar a contar del 1&#xB0; de septiembre de 1992 y comprender&#xE1; el desempe&#xF1;o funcionario entre el<span class=\"n\" id=\"n_2\">LEY 19075<br>Art. &#xFA;nico</span> 1&#xB0; de septiembre de 1991 y el 1&#xB0; de septiembre de 1992. El escalaf&#xF3;n contemplado en el art&#xED;culo 49&#xB0; del mencionado Estatuto comenzar&#xE1; a regir el 1&#xB0; de enero de<span class=\"n\" id=\"n_3\">LEY 19075<br>Art. &#xFA;nico</span> 1993. Hasta que no entre en vigencia el referido escalaf&#xF3;n deber&#xE1; constituirse un escalaf&#xF3;n de antig&#xFC;edad por cada una de las plantas establecidas en el art&#xED;culo 7&#xB0; permanente de la ley N&#xB0; 18.883. </div></div>"
+        }
+      ]
+    }
+  }
+]

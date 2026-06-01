@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1973-12-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-01-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004581,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Todos los ingresos que se efect&#xFA;en en el Servicio de Tesorer&#xED;as y en las Municipalidades por concepto de impuestos, contribuciones y dem&#xE1;s cr&#xE9;ditos fiscales y municipales, y sus respectivos intereses, sanciones y recargos, ser&#xE1;n girados y cobrados en cifras enteras, sin considerar los cent&#xE9;simos, despreci&#xE1;ndose las fracciones inferiores a cincuenta cent&#xE9;simos y elev&#xE1;ndose al entero superior las de cincuenta cent&#xE9;simos o m&#xE1;s.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Todos los ingresos que se efect&#xFA;en en el Servicio de Tesorer&#xED;as y en las Municipalidades por concepto de impuestos, contribuciones y dem&#xE1;s cr&#xE9;ditos fiscales y municipales, y sus respectivos intereses, sanciones y recargos, ser&#xE1;n girados y cobrados en cifras enteras, sin considerar los cent&#xE9;simos, despreci&#xE1;ndose las fracciones inferiores a cincuenta cent&#xE9;simos y elev&#xE1;ndose al entero superior las de cincuenta cent&#xE9;simos o m&#xE1;s.</div><div class=\"p\">&nbsp; &nbsp;  Todas las multas y consignaciones que deban<span class=\"n\" id=\"n_0\">DL 281, HACIENDA<br>Art. &#xFA;nico<br>D.O. 26.01.1974</span> enterarse en el Servicio de Tesorer&#xED;a y en las Municipalidades se cancelar&#xE1;n en cifras enteras, en los mismos t&#xE9;rminos se&#xF1;alados en este art&#xED;culo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

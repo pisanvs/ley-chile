@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-05-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7263223,
+          "old": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA ZONA CENTRAL LIMITADA PARA AMPLIAR SUS ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA ZONA CENTRAL LIMITADA PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

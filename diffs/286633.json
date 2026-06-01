@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2009-02-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-06-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8624127,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;: Con excepci&#xF3;n de las entidades se&#xF1;aladas en el art&#xED;culo 29&#xBA; de la presente resoluci&#xF3;n, las cooperativas deber&#xE1;n presentar sus balances clasificados y estados de situaci&#xF3;n en el formulario dise&#xF1;ado por el Departamento de Cooperativas denominado Ficha Estad&#xED;stica, disponible en la oficina de partes de la Subsecretar&#xED;a de Econom&#xED;a, en la p&#xE1;gina web del mismo Departamento www.decoop.cl, y en las respectivas Secretar&#xED;as Regionales Ministeriales, y en ellos se expresar&#xE1;n valores enteros, sin centavos.</div><div class=\"p\">&nbsp; &nbsp;  En el formulario del balance general clasificado y en estados de situaci&#xF3;n, deber&#xE1;n anotarse en forma comparativa los saldos de las cuentas determinados al cierre del &#xFA;ltimo mes del ejercicio que se informa, con los correspondientes al cierre del mismo mes del a&#xF1;o inmediatamente anterior, estos &#xFA;ltimos reajustados de acuerdo al porcentaje de variaci&#xF3;n experimentada por el &#xCD;ndice de Precios al Consumidor, en el per&#xED;odo comprendido entre el &#xFA;ltimo d&#xED;a del segundo mes anterior a la iniciaci&#xF3;n del ejercicio que se informa y el &#xFA;ltimo d&#xED;a del mes anterior al balance.</div><div class=\"p\">&nbsp; &nbsp;  Tanto los balances como los estados de situaci&#xF3;n, deber&#xE1;n presentarse firmados por el gerente o administrador y el contador de la cooperativa.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;: Con excepci&#xF3;n de las entidades se&#xF1;aladas<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1026392&amp;idParte=9149123&amp;idVersion=2011-06-13\">Resoluci&#xF3;n 1155 EXENTA,<br>ECONOM&#xCD;A<br>Art. UNICO N&#xB0; 1 a)<br>D.O. 13.06.2011</a></span> en el art&#xED;culo 29&#xBA; de la presente resoluci&#xF3;n, las cooperativas deber&#xE1;n presentar sus balances clasificados y estado de resultado, utilizando el formato, codificaci&#xF3;n y cuentas que correspondan a su objeto o giro, seg&#xFA;n el Plan de Cuentas para cooperativas de importancia econ&#xF3;mica distintas de las de ahorro y cr&#xE9;dito, disponible en la p&#xE1;gina web del Departamento de Cooperativas, www.decoop.cl, y en el que deber&#xE1;n expresar sus valores en n&#xFA;meros enteros, sin centavos.</div><div class=\"p\">&nbsp; &nbsp;  En el formulario del balance general clasificado y en esta<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1026392&amp;idParte=9149123&amp;idVersion=2011-06-13\">Resoluci&#xF3;n 1155 EXENTA,<br>ECONOM&#xCD;A<br>Art. UNICO N&#xB0; 1 b)<br>D.O. 13.06.2011</a></span>dos de resultados, deber&#xE1;n anotarse en forma comparativa los saldos de las cuentas determinados al cierre del &#xFA;ltimo mes del ejercicio que se informa, con los correspondientes al cierre del mismo mes del a&#xF1;o inmediatamente anterior, estos &#xFA;ltimos reajustados de acuerdo al porcentaje de variaci&#xF3;n experimentada por el &#xCD;ndice de Precios al Consumidor, en el per&#xED;odo comprendido entre el &#xFA;ltimo d&#xED;a del segundo mes anterior a la iniciaci&#xF3;n del ejercicio que se informa y el &#xFA;ltimo d&#xED;a del mes anterior al balance.</div><div class=\"p\">&nbsp; &nbsp;  Tanto los balances como los estados de situaci&#xF3;n, deber&#xE1;n presentarse firmados por el gerente o administrador y el contador de la cooperativa.</div><br></div>"
+        },
+        {
+          "part_id": 8624144,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 30&#xBA;: El balance anual y la memoria de las cooperativas de importancia econ&#xF3;mica, deber&#xE1;n estar elaborados a m&#xE1;s tardar el 28 de febrero del a&#xF1;o siguiente para ser presentados al Departamento de Cooperativas, salvo que la junta obligatoria anual de socios deba efectuarse seg&#xFA;n el estatuto, en una fecha anterior.</div><div class=\"p\">&nbsp; &nbsp;  Estas cooperativas deber&#xE1;n remitir al Departamento de Cooperativas a m&#xE1;s tardar el 28 de febrero del a&#xF1;o siguiente, el informe de auditor&#xED;a, certificado que acredite la inscripci&#xF3;n de los auditores en el registro se&#xF1;alado en el art&#xED;culo 29&#xBA; de la presente resoluci&#xF3;n, la ficha estad&#xED;stica, el balance a 8 columnas, un estado de flujo de efectivo y las correspondientes notas explicativas a los Estados Financieros.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 30&#xBA;: Las cooperativas de importancia econ&#xF3;mica <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1026392&amp;idParte=9149123&amp;idVersion=2011-06-13\">Resoluci&#xF3;n 1155 EXENTA,<br>ECONOM&#xCD;A<br>Art. UNICO N&#xB0; 2<br>D.O. 13.06.2011</a></span>deber&#xE1;n remitir al Departamento de Cooperativas, a m&#xE1;s tardar el 31 de marzo del a&#xF1;o siguiente, el balance general clasificado, estado de resultado, balance de ocho columnas, informe de auditor&#xED;a, estado de flujo de efectivo, las correspondientes notas explicativas a los Estados Financieros y el certificado que acredite la inscripci&#xF3;n de los auditores en el registro se&#xF1;alado en el art&#xED;culo 29&#xBA; de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  La memoria de las cooperativas de importancia econ&#xF3;mica deber&#xE1; ser enviada al Departamento de Cooperativas, en conjunto con los documentos de la junta general de socios se&#xF1;alada en la letra f) del art&#xED;culo 6, de la Ley General de Cooperativas.</div><br></div>"
+        },
+        {
+          "part_id": 8624151,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 37&#xBA;: Las cooperativas de importancia econ&#xF3;mica deber&#xE1;n publicar en un peri&#xF3;dico impreso de circulaci&#xF3;n regional, el balance general anual, el correspondiente estado de resultados, el dictamen de los auditores externos y los nombres del gerente y del contador general. La publicaci&#xF3;n deber&#xE1; realizarse dentro de los treinta d&#xED;as siguientes a la celebraci&#xF3;n de la junta general de socios que tom&#xF3; conocimiento y aprob&#xF3; el balance. Copia de la publicaci&#xF3;n deber&#xE1; ser remitida al Departamento de Cooperativas, en un plazo de 10 d&#xED;as, contados desde su realizaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Si operan en m&#xE1;s de una regi&#xF3;n, o no existiere un peri&#xF3;dico impreso regional, dicha publicaci&#xF3;n deber&#xE1; efectuarse en uno de circulaci&#xF3;n nacional, sin perjuicio de otro tipo de publicaciones que voluntariamente puedan realizar estas entidades. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 37&#xBA;: A contar del a&#xF1;o 2012, las cooperativas<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1026392&amp;idParte=9149123&amp;idVersion=2011-06-13\">Resoluci&#xF3;n 1155 EXENTA,<br>ECONOM&#xCD;A<br>Art. UNICO N&#xB0; 3<br>D.O. 13.06.2011</a></span> de importancia econ&#xF3;mica deber&#xE1;n publicar en la p&#xE1;gina web del Departamento de Cooperativas, www.decoop.cl, el balance general anual, el estado de resultados, el dictamen de los auditores externos y los nombres de su gerente y contador general. La publicaci&#xF3;n ser&#xE1; gratuita y deber&#xE1; ingresarse por la Cooperativa al sitio web, dentro de los treinta d&#xED;as siguientes al de la celebraci&#xF3;n de la junta general de socios en que se tom&#xF3; conocimiento y aprob&#xF3; el balance.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, las cooperativas podr&#xE1;n publicar los documentos citados en el inciso anterior, en un diario de circulaci&#xF3;n nacional o regional. </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1026392,
+      "fecha": "2011-06-13"
+    }
+  },
+  {
+    "fecha": "2013-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

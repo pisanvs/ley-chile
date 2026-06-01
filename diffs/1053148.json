@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-07-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-12-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9366759,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Aprueba la 1&#xAA; n&#xF3;mina de Beneficiarios del Llamado, para el desarrollo de proyectos del programa &quot;Acondicionamiento T&#xE9;rmico del Pol&#xED;gono Javiera Carrera&quot;, mes de julio, los cuales se detallan a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/33890.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  Publ&#xED;quese en un peri&#xF3;dico de circulaci&#xF3;n regional un aviso que indique el lugar y fecha en que ser&#xE1;n publicadas las n&#xF3;minas de los postulantes seleccionados y los respectivos proyectos, conforme al n&#xFA;mero 1. de esta resoluci&#xF3;n, el nombre de cada postulante con su respectiva c&#xE9;dula de identidad.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. Aprueba la 1&#xAA; n&#xF3;mina de Beneficiarios del Llamado, para el desarrollo de proyectos del programa &quot;Acondicionamiento T&#xE9;rmico del Pol&#xED;gono Javiera Carrera&quot;, mes de julio, los <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>cuales se detallan a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/33890.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  Publ&#xED;quese en un peri&#xF3;dico de circulaci&#xF3;n regional un aviso que indique el lugar y fecha en que ser&#xE1;n publicadas las n&#xF3;minas de los postulantes seleccionados y los respectivos proyectos, conforme al n&#xFA;mero 1. de esta resoluci&#xF3;n, el nombre de cada postulante con su respectiva c&#xE9;dula de identidad.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 1669 Exenta, Vivienda, publicada el 28.12.2013, reemplaza la Empresa Constructora Mahenco Ltda., a cargo de los proyectos que se visualizan en el cuadro inserto en la presente resoluci&#xF3;n, por la Empresa Constructora Magapa.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-10-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8272226,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA DECRETO N&#xB0; 46 EXENTO, DE 1992</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 169 exento.- Santiago, 30 de Septiembre de 1993.- Visto: Art&#xED;culos N&#xB0;s. 1&#xB0; y 3&#xB0; del DL. N&#xB0; 799 de 1974, modificado por el DFL N&#xB0; 12-2.345 de 1979; Decreto N&#xB0; 45 de 1992, todos del Interior; Circular N&#xB0; 9.277 de 1975; Resoluci&#xF3;n N&#xB0; 55 de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica; Decreto Ex. N&#xB0; 46 de 1992, de Econom&#xED;a; y antecedentes que se acompa&#xF1;an.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA DECRETO N&#xB0; 46 EXENTO, DE 1992</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 169 exento.- Santiago, 30 de Septiembre de 1993.- Visto: Art&#xED;culos N&#xB0;s. 1&#xB0; y 3&#xB0; del DL. N&#xB0; 799 de 1974, modificado por el DFL N&#xB0; 12-2.345 de 1979; Decreto N&#xB0; 45 de 1992, todos del Interior; Circular N&#xB0; 9.277 de 1975; Resoluci&#xF3;n N&#xB0; 55 de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica; Decreto Ex. N&#xB0; 46 de 1992, de Econom&#xED;a; y antecedentes que se acompa&#xF1;an.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

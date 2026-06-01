@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-10-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-01-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7379307,
+          "old": "<div><div class=\"p\">APRUEBA CONTRATO DE APORTE FINANCIERO, COMPONENTE DE MEDIDAS COMPLEMENTARIAS DEL PROYECTO MANEJO SUSTENTABLE DE RESIDUOS S&#xD3;LIDOS X REGI&#xD3;N</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.032.- Santiago, 4 de agosto de 2008.- Vistos: El art&#xED;culo 32 n&#xFA;mero 6 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, el D.L. N&#xBA; 2.349 de 1978 y el D.S N&#xBA; 270 de 2006, del Ministerio de Relaciones Exteriores.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: 1.- El Convenio celebrado entre el Gobierno de la Rep&#xFA;blica de Chile y el Gobierno de la Rep&#xFA;blica Federal de Alemania sobre Cooperaci&#xF3;n Financiera, promulgado mediante decreto N&#xBA; 270 de 2006, del Ministerio de Relaciones Exteriores.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA CONTRATO DE APORTE FINANCIERO, COMPONENTE DE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> MEDIDAS COMPLEMENTARIAS DEL PROYECTO MANEJO SUSTENTABLE DE RESIDUOS S&#xD3;LIDOS X REGI&#xD3;N</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.032.- Santiago, 4 de agosto de 2008.- Vistos: El art&#xED;culo 32 n&#xFA;mero 6 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, el D.L. N&#xBA; 2.349 de 1978 y el D.S N&#xBA; 270 de 2006, del Ministerio de Relaciones Exteriores.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: 1.- El Convenio celebrado entre el Gobierno de la Rep&#xFA;blica de Chile y el Gobierno de la Rep&#xFA;blica Federal de Alemania sobre Cooperaci&#xF3;n Financiera, promulgado mediante decreto N&#xBA; 270 de 2006, del Ministerio de Relaciones Exteriores.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El AVI S/N, Hacienda, publicado el 29.01.2009, complementa la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

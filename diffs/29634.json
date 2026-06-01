@@ -1,0 +1,67 @@
+[
+  {
+    "fecha": "1983-04-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-12-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8746907,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- El Departamento de Bienestar de Investigaciones de Chile tendr&#xE1; un patrimonio de afectaci&#xF3;n fiscal formado por los siguientes recursos:</div><div class=\"p\">&nbsp; &nbsp; a) Fondos que se le asignen anualmente en la Ley de Presupuestos de la Naci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; b) Fondos que se le asignen en leyes especiales;</div><div class=\"p\">&nbsp; &nbsp; c) Fondos que provengan de los pagos efectuados por la Mutualidad de Carabineros al Departamento y Secciones de Bienestar por concepto de prestaciones de servicios y venta de productos o bienes muebles de cualquier naturaleza;</div><div class=\"p\">&nbsp; &nbsp; d) Fondos que provengan del pago de servicios otorgados o prestados por el Departamento y Secciones de su dependencia;</div><div class=\"p\">&nbsp; &nbsp; e) Intereses que devenguen los pr&#xE9;stamos concedidos a los funcionarios;</div><div class=\"p\">&nbsp; &nbsp; f) Bienes o fondos que provengan de donaciones, legados o aportes que por cualquier concepto, se le hagan para el cumplimiento de sus fines.</div><div class=\"p\">&nbsp; &nbsp; Las donaciones no estar&#xE1;n sujetas al tr&#xE1;mite de insinuaci&#xF3;n, cualquiera que sea su cuant&#xED;a o naturaleza, y</div><div class=\"p\">&nbsp; &nbsp; g) Fondos que tengan su origen en la venta de bienes muebles y productos de cualquier naturaleza, intereses y reajustes de dep&#xF3;sitos de cuentas de ahorro, bonos de cualquier clase, certificados de ahorro reajustable del Banco Central, valores hipotecarios reajustables y cualquier otro valor que exista o existiere en el futuro.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_0\">LEY 18714<br>ART 17</span></div><br></div>"
+        },
+        {
+          "part_id": 8746908,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Con los fondos del patrimonio de afectaci&#xF3;n podr&#xE1;n adquirirse bienes muebles o inmuebles, productos o servicios. En la administraci&#xF3;n, manejo y disposici&#xF3;n de los fondos del patrimonio, y de los bienes y servicios que con dichos fondos se adquieran, el Departamento de Bienestar actuar&#xE1; como persona jur&#xED;dica representada por su Jefe, quien, en dicha representaci&#xF3;n podr&#xE1; celebrar toda clase de actos o contratos tendientes al logro de los objetivos de bienestar social del personal. En consecuencia, para los efectos se&#xF1;alados anteriormente, podr&#xE1; celebrar, por v&#xED;a de ejemplo, contratos de trabajo con los trabajadores que depender&#xE1;n del Departamento de Bienestar, contratos de arrendamiento, de compraventas mutuos contratos de honorarios con profesionales, contratos de concesi&#xF3;n, adquisici&#xF3;n de bonos, contratos de ahorros y pr&#xE9;stamos, aceptar, endosar y cobrar documentos de cr&#xE9;dito, letras y cheques, obligando en estos casos solamente al patrimonio de afectaci&#xF3;n fiscal.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_1\">LEY 18714<br>ART 17</span></div><div class=\"p\"> a</div><br></div>"
+        },
+        {
+          "part_id": 8746909,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3.&#xB0;- La representaci&#xF3;n judicial del Departamento de Bienestar residir&#xE1; en el Jefe respectivo, quien podr&#xE1; actuar conforme al art&#xED;culo 7&#xB0; del C&#xF3;digo de Procedimiento Civil.</div><div class=\"p\">&nbsp; &nbsp; La representaci&#xF3;n que ejerce el Jefe del Departamento de Bienestar, tanto judicial como extrajudicial, se limitar&#xE1; a lo que dice relaci&#xF3;n con la actividad espec&#xED;fica que desarrolla el Departamento en la consecuci&#xF3;n de sus fines, y puede ser delegada por dicho Jefe.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.&#xB0;- DEROGADO.-<span class=\"n\" id=\"n_2\">LEY 18714<br>ART 17</span></div><br></div>"
+        },
+        {
+          "part_id": 8746910,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Las adquisiciones y enajenaciones de los bienes muebles, productos o servicios mencionados con anterioridad se sujetar&#xE1;n a las normas de derecho com&#xFA;n.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, podr&#xE1;n aplicarse las disposiciones que rigen las adquisiciones o enajenaciones en Investigaciones de Chile.</div><div class=\"p\">&nbsp; &nbsp; En ambos casos, s&#xF3;lo se obligar&#xE1; al patrimonio de afectaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_3\">LEY 18714<br>ART 17</span></div><br></div>"
+        },
+        {
+          "part_id": 8746911,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- El Departamento de Bienestar de Investigaciones de Chile se regir&#xE1; exclusivamente por las disposiciones de esta ley y no quedar&#xE1; sujeto a la norma contenida en el art&#xED;culo 134 de la ley N&#xB0; 11.764, ni a ning&#xFA;na otra sobre bienestar.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_4\">LEY 18714<br>ART 17</span></div><br></div>"
+        },
+        {
+          "part_id": 8746912,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El presupuesto del Departamento de Bienestar se regir&#xE1; por las normas contenidas en el decreto ley N&#xB0; 1.263, de 1975, sobre Administraci&#xF3;n Financiera del Estado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_5\">LEY 18714<br>ART 17</span></div><br></div>"
+        },
+        {
+          "part_id": 8746913,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- El Jefe del Departamento de Bienestar ejercer&#xE1; la administraci&#xF3;n y control de los bienes ra&#xED;ces y muebles adquiridos con fondos del patrimonio de afectaci&#xF3;n que se crea en esta ley. S&#xF3;lo podr&#xE1;n enajenarse los bienes ra&#xED;ces adquiridos con fondos del Departamento de Bienestar que no presten utilidad para los fines que motivaron su adquisici&#xF3;n, pero podr&#xE1;n darse en arrendamiento, concesi&#xF3;n o uso, ingresando su producto al patrimonio de afectaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_6\">LEY 18714<br>ART 17</span></div><br></div>"
+        },
+        {
+          "part_id": 8746914,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- Sin perjuicio de la fiscalizaci&#xF3;n que compete a la Contralor&#xED;a General de la Rep&#xFA;blica, el Departamento de Bienestar de Investigaciones de Chile estar&#xE1; sometido directamente a la fiscalizaci&#xF3;n y control de dicha Instituci&#xF3;n, a trav&#xE9;s de sus organismos correspondientes.</div><div class=\"p\">&nbsp; &nbsp; El Jefe del Departamento de Bienestar deber&#xE1; rendir fianza, conforme a la ley N&#xB0; 10.336, Org&#xE1;nica de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_7\">LEY 18714<br>ART 17</span></div><br></div>"
+        },
+        {
+          "part_id": 8746915,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- El reglamento del Departamento de Bienestar, aprobado por decreto supremo, se&#xF1;alar&#xE1; las normas pertinentes para dar cumplimiento a esta ley. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_8\">LEY 18714<br>ART 17</span></div><br></div>"
+        },
+        {
+          "part_id": 8746918,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Mientras se dicta la norma reglamentar&#xED;a a que se refiere el art&#xED;culo 9&#xB0;, se mantendr&#xE1; vigente el Reglamento aprobado por decreto supremo N&#xB0; 786, de 5 de Octubre de 1960, del Ministerio del Trabajo y Previsi&#xF3;n Social.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_9\">LEY 18714<br>ART 17</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

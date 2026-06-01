@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-06-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8356108,
+          "old": "<div><br><div class=\"p\">AUTORIZA A COMERCIAL GARDEWEG, ORTUZAR Y PALMA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMERCIAL GARDEWEG, ORTUZAR Y PALMA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-11-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-11-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7270038,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD DE AGENCIAS Y REPRESENTACIONES COMERCIALES INTERNACIONALES LIMITADA, &quot;COMERCIAL MAGNA LTDA.&quot; PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD DE AGENCIAS Y REPRESENTACIONES COMERCIALES INTERNACIONALES LIMITADA, &quot;COMERCIAL MAGNA LTDA.&quot; PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

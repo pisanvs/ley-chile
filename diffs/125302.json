@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-10-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8335334,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 1.697, DE 1997</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.378.- Valpara&#xED;so, 29 de septiembre de 1998.- Visto: Lo solicitado por Alimentos San Antonio S.A.; la resoluci&#xF3;n N&#xBA; 1.697 de 1997, de esta Subsecretar&#xED;a; el D.F.L. N&#xBA; 5 de 1983; la ley N&#xBA; 18.892 y sus modificaciones cuyo texto refundido, coordinado y sistematizado fue fijado por el D.S. N&#xBA; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 1.697, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.378.- Valpara&#xED;so, 29 de septiembre de 1998.- Visto: Lo solicitado por Alimentos San Antonio S.A.; la resoluci&#xF3;n N&#xBA; 1.697 de 1997, de esta Subsecretar&#xED;a; el D.F.L. N&#xBA; 5 de 1983; la ley N&#xBA; 18.892 y sus modificaciones cuyo texto refundido, coordinado y sistematizado fue fijado por el D.S. N&#xBA; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

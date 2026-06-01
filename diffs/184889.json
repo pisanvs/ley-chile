@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-05-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6333392,
+          "old": "<div><div class=\"p\">REGLAMENTO SOBRE EL SECRETO O RESERVA DE LOS ACTOS Y DOCUMENTOS DE LA ADMINISTRACION DEL ESTADO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 26.- Santiago, 28 de enero de 2001.- Visto: Lo dispuesto en el N&#xBA; 8 del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; la ley N&#xBA; 18.575, modificada por la ley N&#xBA; 19.653, en particular sus art&#xED;culos 11 bis y 11 ter, y la resoluci&#xF3;n N&#xBA; 520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o :</div><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTO SOBRE EL SECRETO O RESERVA DE LOS ACTOS Y DOCUMENTOS DE LA ADMINISTRACION DEL ESTADO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 26.- Santiago, 28 de enero de 2001.- Visto: Lo dispuesto en el N&#xBA; 8 del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; la ley N&#xBA; 18.575, modificada por la ley N&#xBA; 19.653, en particular sus art&#xED;culos 11 bis y 11 ter, y la resoluci&#xF3;n N&#xBA; 520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o :</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

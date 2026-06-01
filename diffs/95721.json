@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-09-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-09-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8326598,
+          "old": "<div><div class=\"p\">AUTORIZA A ASOCIACION GREMIAL DE PESCADORES ARTESANALES Y ALGUEROS DE &quot;EL ARENAL&quot; PARA INICIAR ACTIVIDADES PESQUERAS </div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A ASOCIACION GREMIAL DE PESCADORES ARTESANALES Y ALGUEROS DE &quot;EL ARENAL&quot; PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

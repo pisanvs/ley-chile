@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-08-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7251487,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Los establecimientos de expendio de bebidas alcoh&#xF3;licas clasificados en el art&#xED;culo 140 de la ley N&#xBA;17.105, categor&#xED;a A) Dep&#xF3;sito de bebidas alcoh&#xF3;licas y categor&#xED;a H) Supermercados de bebidas alcoh&#xF3;licas, s&#xF3;lo podr&#xE1;n funcionar en los siguientes horarios:</div><div class=\"p\">a) Temporada de invierno, entendi&#xE9;ndose por tal aquella que corre desde el 16 de marzo al 14 de diciembre, ambos inclusive, desde las 8:00 horas hasta las 23:00 horas, de domingo a jueves; y desde las 8:00 horas hasta las 24:00 horas, los d&#xED;as viernes y s&#xE1;bado; y</div><div class=\"p\">b) Temporada de verano, entendi&#xE9;ndose por tal aquella que corre desde el 15 de diciembre hasta el 15 marzo, ambos inclusive, desde las 8:00 horas hasta las 24:00 horas, de domingo a jueves; y desde las 8:00 horas hasta las 1:00 horas los d&#xED;as viernes y s&#xE1;bado.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  I.- Apru&#xE9;base la Ordenanza Local sobre horario de funcionamiento de establecimientos de expendio de bebidas alcoh&#xF3;licas en la comuna de El Quisco. Art&#xED;culo 1&#xBA;: Los establecimientos de expendio de<span class=\"n\" id=\"n_0\">DTO 1131<br>M. DE EL QUISCO<br>N&#xBA; I<br>D.O. 06.01.2001</span> bebidas alcoh&#xF3;licas clasificadas en el Art. 140&#xBA; de la ley N&#xBA; 17.105, categor&#xED;a A) Dep&#xF3;sito de Bebidas Alcoh&#xF3;licas y categor&#xED;a H) Supermercados de Bebidas Alcoh&#xF3;licas, s&#xF3;lo podr&#xE1;n funcionar de lunes a domingo desde las 8:00 hrs. hasta las 02:00 hrs., del d&#xED;a siguiente. </div></div>"
+        }
+      ]
+    }
+  }
+]

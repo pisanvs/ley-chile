@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6336284,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Reempl&#xE1;zase el art&#xED;culo 2&#xBA; del decreto ley N&#xBA; 116, de 1973, por el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- Decl&#xE1;rase en receso el Consejo de la Corporaci&#xF3;n y p&#xF3;nese t&#xE9;rmino a los nombramientos de sus miembros. El Presidente de la Instituci&#xF3;n asumir&#xE1; la plenitud de las funciones, atribuciones y obligaciones que el Estatuto Org&#xE1;nico del Servicio confiere a las autoridades unipersonales y colegiadas de la Corporaci&#xF3;n, mientras dure dicho receso al que se podr&#xE1; poner fin mediante decreto supremo dictado a trav&#xE9;s del Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Las facultades que confiere al Presidente del Organismo el inciso anterior podr&#xE1;n ser delegadas en los funcionarios de la Comisi&#xF3;n que &#xE9;ste determine.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Reempl&#xE1;zase<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> el art&#xED;culo 2&#xBA; del decreto ley N&#xBA; 116, de 1973, por el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- Decl&#xE1;rase en receso el Consejo de la Corporaci&#xF3;n y p&#xF3;nese t&#xE9;rmino a los nombramientos de sus miembros. El Presidente de la Instituci&#xF3;n asumir&#xE1; la plenitud de las funciones, atribuciones y obligaciones que el Estatuto Org&#xE1;nico del Servicio confiere a las autoridades unipersonales y colegiadas de la Corporaci&#xF3;n, mientras dure dicho receso al que se podr&#xE1; poner fin mediante decreto supremo dictado a trav&#xE9;s del Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Las facultades que confiere al Presidente del Organismo el inciso anterior podr&#xE1;n ser delegadas en los funcionarios de la Comisi&#xF3;n que &#xE9;ste determine.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 326, Educaci&#xF3;n, publicado el 03.01.2015, modifica la presente norma en el sentido de declarar finalizado el receso del Consejo de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica.</div></div>"
+        }
+      ]
+    }
+  }
+]

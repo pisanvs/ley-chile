@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1966-06-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1968-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8745636,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Introd&#xFA;cense las siguientes modificaciones a la ley n&#xFA;mero 10.475, de 8 de Septiembre de 1952:</div><div class=\"p\">&nbsp; &nbsp; a) Reempl&#xE1;zase el inciso segundo del art&#xED;culo 11&#xB0; por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Las imponentes mujeres tendr&#xE1;n derecho a percibir la pensi&#xF3;n de jubilaci&#xF3;n por antig&#xFC;edad con treinta a&#xF1;os de servicios computables para dicho efecto, de los cuales 25 deber&#xE1;n ser efectivamente trabajados, o con veinte a&#xF1;os efectivamente trabajados y cincuenta y cinco a&#xF1;os o m&#xE1;s de edad.&quot;, y</div><div class=\"p\">&nbsp; &nbsp; b) Sustit&#xFA;yese el inciso segundo del art&#xED;culo 12&#xB0; por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Las pensiones de antig&#xFC;edad y vejez de las imponentes mujeres, siempre que tengan veinte a&#xF1;os trabajados efectivamente, a lo menos, se otorgar&#xE1;n con un aumento de 1/35 avo del sueldo base por cada hijo y de 2/35 avos m&#xE1;s si son viudas. Estos aumentos se conceder&#xE1;n en la medida que el monto de la pensi&#xF3;n no exceda del sueldo base.&quot;.&quot; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Introd&#xFA;cense las siguientes modificaciones a la ley n&#xFA;mero 10.475, de 8 de Septiembre de 1952: a) Reempl&#xE1;zase el inciso segundo del art&#xED;culo 11&#xB0; por el siguiente: &quot;Las imponentes mujeres tendr&#xE1;n derecho a percibir la pensi&#xF3;n de jubilaci&#xF3;n por antig&#xFC;edad con treinta a&#xF1;os de servicios computables para dicho efecto, de los cuales 25 deber&#xE1;n ser efectivamente trabajados, o con veinte a&#xF1;os efectivamente trabajados y cincuenta y cinco a&#xF1;os o m&#xE1;s de edad.&quot;, y b) Sustit&#xFA;yese el inciso segundo del art&#xED;culo 12<span class=\"n\" id=\"n_0\">LEY 17074<br>Art. 11<br>D.O. 31.12.1968</span> por el siguiente: &quot;Las pensiones de invalidez, antig&#xFC;edad y vejez de las imponentes mujeres, siempre que tengan veinte a&#xF1;os trabajados efectivamente, a lo menos, se otorgar&#xE1;n con un aumento de 1/35 avo de sueldo base por cada hijo, y de 2/35 avos m&#xE1;s si son viudas. Estos aumentos se conceder&#xE1;n en la medida que el monto de la pensi&#xF3;n no exceda del sueldo base.&quot;. </div></div>"
+        }
+      ]
+    }
+  }
+]

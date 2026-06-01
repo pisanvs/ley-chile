@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-10-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-12-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7268720,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA VICTORY S.A. PARA INICIAR ACTIVIDADES PESQUERAS; DEJA SIN EFECTO PARCIALMENTE RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA VICTORY S.A. PARA INICIAR ACTIVIDADES PESQUERAS; DEJA SIN EFECTO PARCIALMENTE RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-07-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8346337,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo s&#xE9;ptimo.- Las propiedades fiscales, municipales y particulares que se ver&#xE1;n afectadas por el servicio predial de servidumbre, se se&#xF1;alan a continuaci&#xF3;n:</div><br><div class=\"p\">VER D.O. 09.07.1999 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo s&#xE9;ptimo.- Las propiedades fiscales, municipales y particulares que se ver&#xE1;n afectadas por el servicio predial de servidumbre, se se&#xF1;alan a continuaci&#xF3;n:</div><br><div class=\"p\"> VER D.O. 09.07.1999<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El presente art&#xED;culo fue rectificado en la forma se&#xF1;alada en la p&#xE1;gina 6 del D.O. de 17.07.1999 y por no haberse podido ingresar al texto original, no&nbsp; se puede construir el actualizado.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

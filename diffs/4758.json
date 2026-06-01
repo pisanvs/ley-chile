@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-10-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5864543,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA PLANTA Y REQUISITOS GENERALES Y ESPECIFICOS DE INGRESO Y PROMOCION DEL PERSONAL DE LA FISCALIA DEL MINISTERIO DE OBRAS PUBLICAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 138.- Santiago, 28 de Junio de 1991.- Visto: Las facultades que me confiere el Art. 8&#xB0; de la Ley N&#xB0; 19.020,</div><div class=\"p\">&nbsp; &nbsp; dicto el siguiente:</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA PLANTA Y REQUISITOS GENERALES Y ESPECIFICOS DE INGRESO Y PROMOCION DEL PERSONAL DE LA FISCALIA DEL MINISTERIO DE OBRAS PUBLICAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 138.- Santiago, 28 de Junio de 1991.- Visto: Las facultades que me confiere el Art. 8&#xB0; de la Ley N&#xB0; 19.020,</div><div class=\"p\">&nbsp; &nbsp; dicto el siguiente:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp; Decreto con fuerza de ley </div><div class=\"p\">&nbsp; &nbsp;  </div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xDA;nico del Decreto con Fuerza de Ley 275, Obras P&#xFA;blicas, publicado el 06.02.2010, modifica los requisitos espec&#xED;ficos para el ingreso y promoci&#xF3;n en la planta del personal y cargos de la Fiscal&#xED;a del Ministerio de Obras P&#xFA;blicas establecidos en el presente decreto con fuerza de ley, por los que en la se&#xF1;alada norma se incluyen.</div></div>"
+        }
+      ]
+    }
+  }
+]

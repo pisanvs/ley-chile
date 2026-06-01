@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-08-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-04-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10261434,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Ot&#xF3;rgase concesi&#xF3;n de Servicio P&#xFA;blico de Voz Sobre Internet, a la empresa Uxtal SpA, RUT N&#xBA; 77.096.413-K, con domicilio en Armando Carrera N&#xBA; 5218, comuna de &#xD1;u&#xF1;oa, Regi&#xF3;n Metropolitana de Santiago, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;zase a la concesionaria para instalar, operar y explotar un nodo ubicado en calle Europa N&#xBA; 1969, comuna de Providencia, Regi&#xF3;n Metropolitana de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  El servicio se suministrar&#xE1; mediante facilidades propias o de terceros debidamente</div><div class=\"p\">&nbsp; &nbsp;  2. La zona de servicio corresponde al Territorio Nacional.</div><div class=\"p\">&nbsp; &nbsp;  3. El periodo de vigencia de la concesi&#xF3;n ser&#xE1; de 30 a&#xF1;os, contados desde la publicaci&#xF3;n en el Diario Oficial del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  4. Los plazos de inicio y t&#xE9;rmino de obras, y de inicio del servicio son los que a continuaci&#xF3;n se indican:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/130248.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  5. Apru&#xE9;base el proyecto t&#xE9;cnico base de la solicitud presentado por la concesionaria, en lo relacionado con los sistemas y equipos de telecomunicaciones autorizados en el presente decreto, conforme a las disposiciones t&#xE9;cnico-legales que rigen el servicio de telecomunicaciones concedido. La documentaci&#xF3;n respectiva quedar&#xE1; archivada en la Subsecretar&#xED;a de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  6. Es obligaci&#xF3;n de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y t&#xE9;cnicas que regulan las telecomunicaciones, en lo que le sean aplicables.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Ot&#xF3;rgase concesi&#xF3;n de Servicio<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1191431&amp;idParte=10425076&amp;idVersion=2023-04-20\">Decreto 107 EXENTO,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 20.04.2023</a></span> P&#xFA;blico de Voz Sobre Internet, a la empresa Uxtel SpA, RUT N&#xBA; 77.096.413-K, con domicilio en Armando Carrera N&#xBA; 5218, comuna de &#xD1;u&#xF1;oa, Regi&#xF3;n Metropolitana de Santiago, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;zase a la concesionaria para instalar, operar y explotar un nodo ubicado en calle Europa N&#xBA; 1969, comuna de Providencia, Regi&#xF3;n Metropolitana de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  El servicio se suministrar&#xE1; mediante facilidades propias o de terceros debidamente</div><div class=\"p\">&nbsp; &nbsp;  2. La zona de servicio corresponde al Territorio Nacional.</div><div class=\"p\">&nbsp; &nbsp;  3. El periodo de vigencia de la concesi&#xF3;n ser&#xE1; de 30 a&#xF1;os, contados desde la publicaci&#xF3;n en el Diario Oficial del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  4. Los plazos de inicio y t&#xE9;rmino de obras, y de inicio del servicio son los que a continuaci&#xF3;n se indican:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/130248.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  5. Apru&#xE9;base el proyecto t&#xE9;cnico base de la solicitud presentado por la concesionaria, en lo relacionado con los sistemas y equipos de telecomunicaciones autorizados en el presente decreto, conforme a las disposiciones t&#xE9;cnico-legales que rigen el servicio de telecomunicaciones concedido. La documentaci&#xF3;n respectiva quedar&#xE1; archivada en la Subsecretar&#xED;a de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  6. Es obligaci&#xF3;n de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y t&#xE9;cnicas que regulan las telecomunicaciones, en lo que le sean aplicables.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1191431,
+      "fecha": "2023-04-20"
+    }
+  }
+]

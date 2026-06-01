@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-03-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-06-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9682595,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Del&#xE9;guese en las Secretar&#xED;as Regionales Ministeriales de Vivienda y Urbanismo la facultad de firmar y aprobar los convenios de transferencia de recursos por un monto inferior a 5.000 UTM, en el marco del Programa de Recuperaci&#xF3;n de Barrios y del Programa Campamentos, conforme a la Partida 18, Cap&#xED;tulo 01, Programas 04 y 02 de la ley N&#xBA;20.882, que aprueba el presupuesto del sector p&#xFA;blico correspondiente al a&#xF1;o 2016.</div><div class=\"p\">&nbsp; &nbsp;  2. Ratif&#xED;canse los convenios suscritos por las Secretar&#xED;as Regionales Ministeriales y las resoluciones dictadas al efecto, que aprueban los mismos, en el marco del Programa de Recuperaci&#xF3;n de Barrios y el Programa Campamentos, de acuerdo al inciso tercero del art&#xED;culo 13 de la ley 19.880 de Bases de los Procedimientos Administrativos que rigen los Actos de los &#xD3;rganos de la Administraci&#xF3;n del Estado.</div><div class=\"p\">&nbsp; &nbsp;  3. Notif&#xED;quese la presente resoluci&#xF3;n a las Secretar&#xED;as Regionales Ministeriales de Vivienda y Urbanismo.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Del&#xE9;gase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1091889&amp;idParte=9711051&amp;idVersion=2016-06-24\">Resoluci&#xF3;n 3806 EXENTA, <br>VIVIENDA<br>N&#xB0; 1<br>D.O. 24.06.2016</a></span>en las Secretar&#xED;as Regionales Ministeriales de Vivienda y Urbanismo la facultad de suscribir los convenios celebrados en el marco del Programa de Recuperaci&#xF3;n de Barrios y del Programa Campamentos, conforme a la Partida 18, Cap&#xED;tulo 01, Programas 04 y 02 de la ley N&#xBA; 20.882 de Presupuesto del Sector P&#xFA;blico, correspondiente al a&#xF1;o 2016.</div><div class=\"p\">&nbsp; &nbsp;  2.- Del&#xE9;gase <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1091889&amp;idParte=9711051&amp;idVersion=2016-06-24\">Resoluci&#xF3;n 3806 EXENTA, <br>VIVIENDA<br>N&#xB0; 2<br>D.O. 24.06.2016</a></span>en las Secretar&#xED;as Regionales Ministeriales de Vivienda y Urbanismo la facultad de aprobar, mediante el correspondiente acto administrativo, los convenios celebrados en el marco del Programa de Recuperaci&#xF3;n de Barrios y del Programa Campamentos y aquellos de transferencia de recursos cuyo monto no exceda las 5.000 UTM, celebrados en el marco del Programa de Recuperaci&#xF3;n de Barrios y del Programa Campamentos, conforme a la Partida 18, Cap&#xED;tulo 01, Programas 04 y 02 de la ley N&#xBA; 20.882 de Presupuesto del Sector P&#xFA;blico, correspondiente al a&#xF1;o 2016.</div><div class=\"p\">&nbsp; &nbsp;  3. Notif&#xED;quese la presente resoluci&#xF3;n a las Secretar&#xED;as Regionales Ministeriales de Vivienda y Urbanismo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1091889,
+      "fecha": "2016-06-24"
+    }
+  }
+]

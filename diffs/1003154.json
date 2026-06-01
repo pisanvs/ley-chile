@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2009-06-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-11-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8675225,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xBA;: Recon&#xF3;cese oficialmente al Instituto Profesional Escuela de Cine de Chile, inscrito en el registro correspondiente con el N&#xBA;119, de fecha 8 de junio de 2007, con domicilio en Avenida Jos&#xE9; Pedro Alessandri N&#xBA;2320 de la comuna de Macul, ciudad de Santiago, organizado por la Sociedad Instituto Profesional Escuela de Cine de Chile Limitada o Escuela de Cine de Chile, representada legalmente por don Carlos Flores Delpino y don Carlos Baudilio &#xC1;lvarez Pineda, quienes actuar&#xE1;n indistintamente cualquiera de ellos.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xBA;: Recon&#xF3;cese oficialmente al Instituto <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Profesional Escuela de Cine de Chile, inscrito en el registro correspondiente con el N&#xBA;119, de fecha 8 de junio de 2007, con domicilio en Avenida Jos&#xE9; Pedro Alessandri N&#xBA;2320 de la comuna de Macul, ciudad de Santiago, organizado por la Sociedad Instituto Profesional Escuela de Cine de Chile Limitada o Escuela de Cine de Chile, representada legalmente por don Carlos Flores Delpino y don Carlos Baudilio &#xC1;lvarez Pineda, quienes actuar&#xE1;n indistintamente cualquiera de ellos.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 1902 Exento, Educaci&#xF3;n, publicado el 16.11.2012 modifica la presente norma, por transformaci&#xF3;n de sociedad, en el siguiente sentido:<br>&nbsp; &nbsp;  Nombre de la Instituci&#xF3;n: Instituto Profesional Escuela de Cine de Chile.<br>&nbsp; &nbsp;  Organizador: Sociedad Instituto Profesional Escuela de Cine de Chile S.A. o Escuela de Cine de Chile.<br>&nbsp; &nbsp;  Representante Legal: Presidente del Directorio.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

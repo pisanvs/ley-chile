@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1996-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-12-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938323,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA OBLIGATORIEDAD DE PORTAR DOCUMENTO QUE SE&#xD1;ALA EN TAXIS COLECTIVOS URBANOS DE LAS CIUDADES DE LA V REGION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 9 exenta.- Valpara&#xED;so, 18 de Enero de 1996.- Visto: Lo dispuesto en el art&#xED;culo 49&#xB0; bis del D.S. N&#xB0; 212/92, modificado por el D.S. N&#xB0; 97 del 31 de Mayo de 1993, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, publicado en el Diario Oficial del 8 de Julio de 1993, R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA OBLIGATORIEDAD DE PORTAR DOCUMENTO QUE SE&#xD1;ALA EN TAXIS COLECTIVOS URBANOS DE LAS CIUDADES DE LA V REGION</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 9 exenta.- Valpara&#xED;so, 18 de Enero de 1996.- Visto: Lo dispuesto en el art&#xED;culo 49&#xB0; bis del D.S. N&#xB0; 212/92, modificado por el D.S. N&#xB0; 97 del 31 de Mayo de 1993, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, publicado en el Diario Oficial del 8 de Julio de 1993, </div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8938324,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- F&#xED;jase el 19 de Febrero de 1996, como fecha a contar de la cual se har&#xE1; exigible en las ciudades de la V Regi&#xF3;n, la obligatoriedad de que los taxis colectivos urbanos porten el documento a que se refiere el Art&#xED;culo 49&#xB0; bis del D.S. citado en Visto:</div><div class=\"p\">&nbsp; &nbsp; 2.- El documento indicado en el punto anterior, deber&#xE1; tener las siguientes caracter&#xED;sticas:</div><div class=\"p\">&nbsp; &nbsp; a) Su dimensi&#xF3;n ser&#xE1; de 21 cm. de alto y 10 cm. de ancho, fondo de color celeste, letras y l&#xED;neas negras y deber&#xE1; estar timbrado por la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; b) Estar&#xE1; dividido en 2 secciones, una de control interno y una que deber&#xE1; acompa&#xF1;ar al m&#xF3;vil en toda su carrera. Ambas secciones deber&#xE1;n estar adheridas por un sistema de prepicado u otro que facilite su desprendimiento. Las dimensiones ser&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp; - Control Interno: 7 cm. de alto por 10 cm. de ancho;</div><div class=\"p\">&nbsp; &nbsp; - Control Externo: 14 cm. de alto por 10 cm. de ancho.</div><div class=\"p\">&nbsp; &nbsp; 3.- Los datos que deber&#xE1; consignar ser&#xE1;n los siguientes:</div><div class=\"p\">&nbsp; &nbsp; a) Nombre del conductor;</div><div class=\"p\">&nbsp; &nbsp; b) Nombre del despachador;</div><div class=\"p\">&nbsp; &nbsp; c) N&#xFA;mero de licencia del conductor;</div><div class=\"p\">&nbsp; &nbsp; d) PPU del m&#xF3;vil;</div><div class=\"p\">&nbsp; &nbsp; e) Folio (o N&#xB0;) de la hoja de ruta que se est&#xE9; usando, la que ser&#xE1; correlativa;</div><div class=\"p\">&nbsp; &nbsp; f) Horarios de salida y llegada</div><div class=\"p\">&nbsp; &nbsp; g) Recorrido (troncal o variante) a la que est&#xE1; sirviendo</div><div class=\"p\">&nbsp; &nbsp; h) Horas en las que se encuentra fuera de servicio i) Espacio para observaciones y firma del despachador o inspector.</div><div class=\"p\">&nbsp; &nbsp; 4.- El formato del documento ser&#xE1; el que se indica en el anexo adjunto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- F&#xED;jase el 19 de Febrero de 1996, como fecha a contar de la cual se har&#xE1; exigible en las ciudades de la V Regi&#xF3;n, la obligatoriedad de que los taxis colectivos urbanos porten el documento a que se refiere el Art&#xED;culo 49&#xB0; bis del D.S. citado en Visto:</div><div class=\"p\">&nbsp; &nbsp; 2.- El documento indicado en el punto anterior, deber&#xE1; tener las siguientes caracter&#xED;sticas:</div><div class=\"p\">&nbsp; &nbsp; a) Su dimensi&#xF3;n ser&#xE1; de 21 cm. de alto y 10 cm. de ancho, fondo de color blanco, letras y l&#xED;neas negras y<span class=\"n\" id=\"n_0\">RES 3086 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 27.12.2006</span> deber&#xE1; estar timbrado por la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones. b) Estar&#xE1; dividido en 2 secciones, una de control interno y una que deber&#xE1; acompa&#xF1;ar al m&#xF3;vil en toda su<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> carrera. Ambas secciones deber&#xE1;n estar adheridas por un sistema de prepicado u otro que facilite su desprendimiento. Las dimensiones ser&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp; - Control Interno: 7 cm. de alto por 10 cm. de ancho;</div><div class=\"p\">&nbsp; &nbsp; - Control Externo: 14 cm. de alto por 10 cm. de ancho.</div><div class=\"p\">&nbsp; &nbsp; 3.- Los datos que deber&#xE1; consignar ser&#xE1;n los siguientes:</div><div class=\"p\">&nbsp; &nbsp; a) Nombre del conductor;</div><div class=\"p\">&nbsp; &nbsp; b) Nombre del despachador;</div><div class=\"p\">&nbsp; &nbsp; c) N&#xFA;mero de licencia del conductor;</div><div class=\"p\">&nbsp; &nbsp; d) PPU del m&#xF3;vil;</div><div class=\"p\">&nbsp; &nbsp; e) Folio (o N&#xB0;) de la hoja de ruta que se est&#xE9; usando, la que ser&#xE1; correlativa;</div><div class=\"p\">&nbsp; &nbsp; f) Horarios de salida y llegada</div><div class=\"p\">&nbsp; &nbsp; g) Recorrido (troncal o variante) a la que est&#xE1; sirviendo</div><div class=\"p\">&nbsp; &nbsp; h) Horas en las que se encuentra fuera de servicio i) Espacio para observaciones y firma del despachador o inspector.</div><div class=\"p\">&nbsp; &nbsp; 4.- El formato del documento ser&#xE1; el que se indica en el anexo adjunto.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El N&#xBA; 2 de la RES 3086 exenta, Transportes, publicada el 27.12.2006, dispuso que la modificaci&#xF3;n introducida en la presente norma rige a contar del 1&#xBA; de enero de 2008.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-10-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

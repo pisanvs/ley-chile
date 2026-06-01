@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-03-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325224,
+          "old": "<div><div class=\"p\">AUTORIZA A NORBERTO MANUEL HOPPE GARAY PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A NORBERTO MANUEL HOPPE GARAY PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

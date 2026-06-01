@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-04-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-02-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9906495,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1. Ex&#xED;mase del cumplimiento de los requisitos, condiciones o impedimentos establecidos en el DS N&#xBA; 49 (V. y U.), de 2011 a los beneficiarios damnificados que integrar&#xE1;n el conjunto habitacional denominado &quot;Conjunto Habitacional Cerro Tarapac&#xE1; I&quot;, &quot;Conjunto Habitacional Cerro Tarapac&#xE1; Etapa I, Pampa Perdiz&quot; y &quot;Conjunto Habitacional San Lorenzo&quot;, conforme a las facultades otorgadas en el resuelvo 8&#xBA; de las resoluciones exentas Nos 5.928, 5.929 y 5.930, todas de (V. y U.), de fecha 7 de agosto de 2015.</div><div class=\"p\">&nbsp; &nbsp;  2. Sanci&#xF3;nase inclusi&#xF3;n en n&#xF3;mina para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elecci&#xF3;n de Vivienda a damnificados de los Conjuntos Habitacionales Cerro Tarapac&#xE1; I, Cerro Tarapac&#xE1; Etapa I, Pampa Perdiz y San Lorenzo, todos de la comuna de Alto Hospicio, conforme a la delegaci&#xF3;n de facultades establecidas en el resuelvo 7&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 5.929 (V. y U.), de fecha 7 de agosto de 2015 a los beneficiarios que se individualizan a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/79300.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/79301.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. Ex&#xED;mase del cumplimiento de los requisitos, condiciones o impedimentos establecidos en el DS N&#xBA; 49 (V. y U.), de 2011 a los beneficiarios damnificados que integrar&#xE1;n el conjunto habitacional denominado &quot;Conjunto Habitacional Cerro Tarapac&#xE1; I&quot;, &quot;Conjunto Habitacional Cerro Tarapac&#xE1; Etapa I, Pampa Perdiz&quot; y &quot;Conjunto Habitacional San Lorenzo&quot;, conforme a las facultades otorgadas en el resuelvo 8&#xBA; de las resoluciones exentas Nos 5.928, 5.929 y 5.930, todas de (V. y U.), de fecha 7 de agosto de 2015.</div><div class=\"p\">&nbsp; &nbsp;  2. Sanci&#xF3;nase inclusi&#xF3;n en n&#xF3;mina para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elecci&#xF3;n de Vivienda a damnificados de los Conjuntos Habitacionales Cerro Tarapac&#xE1; I, Cerro Tarapac&#xE1; Etapa I, Pampa Perdiz y San Lorenzo, todos de la comuna de Alto Hospicio, conforme a la delegaci&#xF3;n de facultades establecidas en el resuelvo 7&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 5.929 (V. y U.), de fecha 7 de agosto de 2015 a los beneficiarios que se individualizan a continuaci&#xF3;n:</div><div class=\"p\"> <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/79300.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/79301.jpg\">.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp;  El numeral 1&#xB0; de la Resoluci&#xF3;n 49 Exenta, Vivienda, publicada el 07.02.2019, modifica la presente norma en el sentido de rectificar el nombre del beneficiario, donde dice: Fabrizzio Bosso Pe&#xF1;a, debe decir: Fabrizio Bosso Pe&#xF1;a.</div></div>"
+        }
+      ]
+    }
+  }
+]

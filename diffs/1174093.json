@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-03-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-05-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10320480,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Decl&#xE1;rase zona saturada por Material Particulado Fino Respirable MP 2,5 , como concentraci&#xF3;n de 24 horas, a la ciudad de Puerto Ays&#xE9;n y su &#xE1;rea circundante, en conformidad al pol&#xED;gono que se indica, cuyos l&#xED;mites geogr&#xE1;ficos de acuerdo a las coordenadas UTM Datum WGS84, Huso 18, son los siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/146424.jpg\"></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Decl&#xE1;rase zona saturada por Material Particulado Fino Respirable MP 2,5, como concentraci&#xF3;n de 24 horas, a la ciudad de Puerto Ays&#xE9;n y su &#xE1;rea circundante, en conformidad al pol&#xED;gono que se indica, cuyos l&#xED;mites geogr&#xE1;ficos de acuerdo a las coordenadas UTM Datum WGS84, Huso 18, son los siguientes:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1192554&amp;idParte=10433044&amp;idVersion=2023-05-24\">Decreto 59,<br>MEDIO AMBIENTE<br>Art. primero<br>D.O. 24.05.2023</a></span><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/166788.jpg\"></div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1192554,
+      "fecha": "2023-05-24"
+    }
+  }
+]

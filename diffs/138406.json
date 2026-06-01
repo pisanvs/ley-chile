@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-02-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-02-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8346137,
+          "old": "<div><div class=\"p\">SUBSECRETARIA DE PESCA AUTORIZA A EMPRESA PESQUERA CHILEMAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS. DEROGA PARCIALMENTE RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">SUBSECRETARIA DE PESCA AUTORIZA A EMPRESA PESQUERA CHILEMAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS. DEROGA PARCIALMENTE RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

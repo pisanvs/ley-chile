@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2006-08-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-02-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10197798,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xB0; bis.- Para <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1155220&amp;idParte=10197654&amp;idVersion=2021-02-01\">Decreto 43, DEPORTE<br>Art. &#xDA;NICO<br>D.O. 01.02.2021</a></span>acreditar el cumplimiento estricto del Protocolo General a que se refiere el numeral 17) del art&#xED;culo 2&#xB0; de la ley N&#xB0; 20.686, aprobado por el decreto supremo N&#xB0; 22, de 2020, del Ministerio del Deporte, las organizaciones deportivas profesionales, cualquiera sea la normativa jur&#xED;dica bajo la cual se hayan constituido, deber&#xE1;n remitir al Instituto Nacional de Deportes de Chile los siguientes documentos:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Copia autorizada de la escritura p&#xFA;blica en que conste la adopci&#xF3;n del Protocolo General por los &#xF3;rganos competentes, cumpliendo para ello con las formalidades que exige la ley.</div><div class=\"p\">&nbsp; &nbsp;  b) Informe de cumplimiento del Protocolo General, en el plazo y con los contenidos que en &#xE9;ste se indiquen.</div><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1155220,
+      "fecha": "2021-02-01"
+    }
+  }
+]

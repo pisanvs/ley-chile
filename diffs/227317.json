@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1965-09-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1967-06-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7313008,
+          "old": "<div><div class=\"p\">FIJA CARACTERISTICAS PARA EL NUEVO BILLETE DE UN ESCUDO </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 28 de Julio de 1965.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.036.- Vistos: la nota adjunta, de fecha 17 de Julio del presente a&#xF1;o, del Banco Central de Chile; el acuerdo adoptado por el Directorio de dicho Banco en sesi&#xF3;n N.o 2.033, de 14 de Julio del a&#xF1;o en curso, y lo dispuesto en el art&#xED;culo 51 del DFL. N.o 247, de 1960, y los decretos de Hacienda N.os 3.686 y 3.327, de 1960 y 1964, respectivamente, y en la ley N.o 14.631, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA CARACTERISTICAS PARA EL NUEVO BILLETE DE UN ESCUDO </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 28 de Julio de 1965.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.036.- Vistos: la nota adjunta, de fecha 17 de Julio del presente a&#xF1;o, del Banco Central de Chile; el acuerdo adoptado por el Directorio de dicho Banco en sesi&#xF3;n N.o 2.033, de 14 de Julio del a&#xF1;o en curso, y lo dispuesto en el art&#xED;culo 51 del DFL. N.o 247, de 1960, y los decretos de Hacienda N.os 3.686 y 3.327, de 1960 y 1964, respectivamente, y en la ley N.o 14.631, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-12-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-11-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6407543,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 1.014 EXENTO, DE 2002 </div><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 1.014 EXENTO, DE 2002 </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

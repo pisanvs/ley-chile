@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-04-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-11-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6188762,
+          "old": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO EN DIAS QUE INDICA Y LO EXIME DE OBLIGACIONES QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 14.- Santiago, 29 de Enero de 1987.- Vistos: Las necesidades del servicio, lo dispuesto en el art&#xED;culo 32 n&#xFA;mero 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado, las disposiciones contenidas en el DL No. 799 de 1977 modificado por el DFL No. 12-2.345 de 1979, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que la naturaleza de las funciones que debe desempe&#xF1;ar la Gerencia General de la Empresa Metropolitana de Obras Sanitarias, siendo necesario que el veh&#xED;culo fiscal asignado, permanezca en circulaci&#xF3;n durante los d&#xED;as S&#xE1;bados en la tarde, Domingos y Festivos, como asimismo, que lo haga sin uso del disco y sello estatal para el mejor cumplimiento de los asuntos del servicio.</div><div class=\"p\">&nbsp; &nbsp;  2.- La vigencia del DS No. 272 del MINVU, de fecha 31 de agosto de 1976, cursado con alcance de Contralor&#xED;a General de la Rep&#xFA;blica No. 067762, de fecha 27 de septiembre de 1976, que autoriza a un autom&#xF3;vil Peugeot 404/76, el cual fue dado de baja y en su reemplazo se asignara el veh&#xED;culo se&#xF1;alado m&#xE1;s adelante, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO EN DIAS QUE INDICA Y LO EXIME DE OBLIGACIONES QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 14.- Santiago, 29 de Enero de 1987.- Vistos: Las necesidades del servicio, lo dispuesto en el art&#xED;culo 32 n&#xFA;mero 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado, las disposiciones contenidas en el DL No. 799 de 1977 modificado por el DFL No. 12-2.345 de 1979, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que la naturaleza de las funciones que debe desempe&#xF1;ar la Gerencia General de la Empresa Metropolitana de Obras Sanitarias, siendo necesario que el veh&#xED;culo fiscal asignado, permanezca en circulaci&#xF3;n durante los d&#xED;as S&#xE1;bados en la tarde, Domingos y Festivos, como asimismo, que lo haga sin uso del disco y sello estatal para el mejor cumplimiento de los asuntos del servicio.</div><div class=\"p\">&nbsp; &nbsp;  2.- La vigencia del DS No. 272 del MINVU, de fecha 31 de agosto de 1976, cursado con alcance de Contralor&#xED;a General de la Rep&#xFA;blica No. 067762, de fecha 27 de septiembre de 1976, que autoriza a un autom&#xF3;vil Peugeot 404/76, el cual fue dado de baja y en su reemplazo se asignara el veh&#xED;culo se&#xF1;alado m&#xE1;s adelante, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

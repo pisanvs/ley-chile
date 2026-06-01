@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-08-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7230836,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xBA;. 272, DE 1990 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xBA;. 272, DE 1990</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

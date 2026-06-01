@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7220557,
+          "old": "<div><br><div class=\"p\">DELEGA FACULTADES QUE INDICA EN FUNCIONARIOS QUE SE&#xD1;ALA</div><br></div>",
+          "new": "<div><div class=\"p\">DELEGA FACULTADES QUE INDICA EN FUNCIONARIOS QUE SE&#xD1;ALA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-03-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-04-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10007889,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Modif&#xED;quese el <a href=\"https://www.leychile.cl/Navegar?idNorma=1049693&amp;idParte=&amp;idVersion=\">decreto N&#xBA; 45, de 22 de marzo de 2013, del Ministerio de Econom&#xED;a, Fomento y Turismo</a>, que aprueba el Reglamento de la ley N&#xBA; 20.659, que simplifica el r&#xE9;gimen de constituci&#xF3;n, modificaci&#xF3;n y disoluci&#xF3;n de las sociedades comerciales, sustituy&#xE9;ndose los literales d), e) y f) de su art&#xED;culo segundo transitorio, por los siguientes:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;d) La constituci&#xF3;n y migraci&#xF3;n de Sociedad Colectiva Comercial, contemplada en los P&#xE1;rrafos 1 a 7, ambos inclusive, del T&#xED;tulo VII del Libro II del C&#xF3;digo de Comercio, de la Sociedad en Comandita Simple, contemplada en los P&#xE1;rrafos 10 y 11 del T&#xED;tulo VII del Libro II del C&#xF3;digo de Comercio, y de la Sociedad en Comandita por Acciones, establecida en los P&#xE1;rrafos 10 y 12 del T&#xED;tulo VII del Libro II del C&#xF3;digo de Comercio, a contar del primer d&#xED;a h&#xE1;bil del nonag&#xE9;simo primer mes contado desde la entrada en vigencia de la Ley;</div><div class=\"p\">&nbsp; &nbsp;  e) La constituci&#xF3;n y migraci&#xF3;n de la Sociedad An&#xF3;nima Cerrada, establecida en la ley N&#xBA; 18.046, a contar del primer d&#xED;a h&#xE1;bil del septuag&#xE9;simo noveno mes contado desde la entrada en vigencia de la ley; y</div><div class=\"p\">&nbsp; &nbsp;  f) La constituci&#xF3;n y migraci&#xF3;n de la Sociedad An&#xF3;nima de Garant&#xED;a Rec&#xED;proca, regulada por la ley N&#xBA; 20.179, a contar del primer d&#xED;a h&#xE1;bil del septuag&#xE9;simo noveno mes contado desde la entrada en vigencia de la Ley.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Modif&#xED;quese el decreto N&#xBA; 45, de 22 de marzo de 2013, del Ministerio de Econom&#xED;a, Fomento y Turismo, que aprueba el Reglamento de la ley N&#xBA; 20.659, que simplifica el r&#xE9;gimen de constituci&#xF3;n, modificaci&#xF3;n y disoluci&#xF3;n de las sociedades comerciales, sustituy&#xE9;ndose los literales d), e) y f) de su art&#xED;culo segundo transitorio, por los siguientes:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;d) La constituci&#xF3;n y migraci&#xF3;n de Sociedad Colectiva Comercial, contemplada en los P&#xE1;rrafos 1 a 7, ambos inclusive, del T&#xED;tulo VII del Libro II del C&#xF3;digo de Comercio, de la Sociedad en Comandita Simple, contemplada en los P&#xE1;rrafos 10 y 11 del T&#xED;tulo VII del Libro II del C&#xF3;digo de Comercio, y de la Sociedad en Comandita por Acciones, establecida en los P&#xE1;rrafos 10 y 12 del T&#xED;tulo VII del Libro II del C&#xF3;digo de Comercio, a contar del primer d&#xED;a h&#xE1;bil del nonag&#xE9;simo primer mes contado desde la entrada en vigencia de la Ley;</div><div class=\"p\">&nbsp; &nbsp;  e) La <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1130651&amp;idParte=10016339&amp;idVersion=2019-04-16\">Rectificaci&#xF3;n 1874<br>D.O. 16.04.2019</a></span>constituci&#xF3;n y migraci&#xF3;n de la Sociedad An&#xF3;nima Cerrada, establecida en la ley N&#xBA; 18.046, a contar del primer d&#xED;a h&#xE1;bil del septuag&#xE9;simo sexto mes contado desde la entrada en vigencia de la ley; y</div><div class=\"p\">&nbsp; &nbsp;  f) La constituci&#xF3;n y migraci&#xF3;n de la Sociedad An&#xF3;nima de Garant&#xED;a Rec&#xED;proca, regulada por la ley N&#xBA; 20.179, a contar del primer d&#xED;a h&#xE1;bil del septuag&#xE9;simo sexto mes contado desde la entrada en vigencia de la ley.&quot;.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1130651,
+      "fecha": "2019-04-16"
+    }
+  }
+]

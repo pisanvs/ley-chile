@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2009-02-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8460884,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. P&#xF3;nese t&#xE9;rmino a contar del 1 de febrero de 2009 al orden de subrogancia del cargo de Secretario(a) Regional Ministerial de Salud de la Regi&#xF3;n del Maule, dispuesto por decreto exento N&#xBA; 35, de 8 de febrero de 2008, del Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp;  2. Establ&#xE9;cese a contar del 1 de febrero de 2009 el siguiente orden de subrogancia del cargo de Secretario(a) Regional Ministerial de Salud de la Regi&#xF3;n del Maule, en caso de ausencia o impedimento de su titular.</div><br><div class=\"p\">Primer orden de Subrogancia</div><div class=\"p\">Dr. Rodrigo Iraguen Fuenzalida, RUT 6.298.498-8, Director (S) del Servicio de Salud del Maule.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- Decl&#xE1;rese que el subrogante del Secretario(a) Regional Ministerial de Salud de la Regi&#xF3;n del Maule asumir&#xE1; sus funciones, a contar de la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><br></div>"
+        },
+        {
+          "part_id": 8460885,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, comun&#xED;quese y publ&#xED;quese.- Por orden de la Presidenta de la Rep&#xFA;blica, Alvaro Erazo Latorre, Ministro de Salud.</div><div class=\"p\">&nbsp; &nbsp;  Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Cecilia Morales Veloso, Subsecretaria de Salud P&#xFA;blica Subrogante.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

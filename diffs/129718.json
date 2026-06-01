@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-02-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-02-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9050647,
+          "old": "<div><div class=\"p\">FIJA TARIFAS A LOS SERVICIOS DE LOCOMOCION COLECTIVA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 175.- Santiago, 27 de Diciembre de 1985.- Vistas: Lo dispuesto en el Decreto Ley N&#xBA; 83, de 1973; N&#xBA; 557, de 1974; en el art&#xED;culo 10&#xBA; de la Ley N&#xBA; 10.336 y el art&#xED;culo 32&#xBA; N&#xBA; 8 de la Constituci&#xA2;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA TARIFAS A LOS SERVICIOS DE LOCOMOCION COLECTIVA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 175.- Santiago, 27 de Diciembre de 1985.- Vistas: Lo dispuesto en el Decreto Ley N&#xBA; 83, de 1973; N&#xBA; 557, de 1974; en el art&#xED;culo 10&#xBA; de la Ley N&#xBA; 10.336 y el art&#xED;culo 32&#xBA; N&#xBA; 8 de la Constituci&#xA2;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

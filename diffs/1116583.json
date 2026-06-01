@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2018-03-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9901051,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;. Decl&#xE1;rase como de desempe&#xF1;o de excelencia para los a&#xF1;os 2018 y 2019 y, en consecuencia, beneficiarios de la subvenci&#xF3;n establecida en el <a href=\"https://www.leychile.cl/Navegar?idNorma=30777&amp;idParte=9047353&amp;idVersion=\">art&#xED;culo 15</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=30777&amp;idParte=&amp;idVersion=\">ley N&#xBA; 19.410</a>, a los siguientes establecimientos educacionales subvencionados que se individualizados en el listado contenido en el archivo con firma electr&#xF3;nica avanzada del CD con folio N&#xBA; 01/2018-2019, firmado por el Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, que se acompa&#xF1;a en anexo y que forma parte integrante de la presente resoluci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;. Decl&#xE1;rase como de desempe&#xF1;o de excelencia para los a&#xF1;os 2018 y 2019 y, en consecuencia, beneficiarios de la subvenci&#xF3;n establecida en el art&#xED;culo 15 de la ley N&#xBA; 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizados en los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1123758&amp;idParte=9954068&amp;idVersion=2018-10-10\">Resoluci&#xF3;n 5036 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 1 a)<br>D.O. 10.10.2018</a></span>listados contenidos en los archivos con firma electr&#xF3;nica avanzada del CD con folio N&#xBA; 01/2018-2019 y del CD con folio N&#xBA; 02/2018, ambos firmados por el Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, que se acompa&#xF1;an en anexo y que forman parte integrante de la presente resoluci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9901056,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;. Por razones de econom&#xED;a, eficiencia y de buen servicio, el anexo que contiene la n&#xF3;mina de establecimientos educacionales subvencionados beneficiarios de la subvenci&#xF3;n por desempe&#xF1;o de excelencia ser&#xE1; distribuido en formato digital, por medio de una copia del CD con folio N&#xB0; 01/2018-2019 a que refiere el art&#xED;culo 1&#xB0;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;. Por razones de econom&#xED;a, eficiencia y de buen servicio, el anexo que contiene la n&#xF3;mina de establecimientos educacionales subvencionados beneficiarios de la subvenci&#xF3;n por desempe&#xF1;o de excelencia ser&#xE1; distribuido en formato digital, por medio de una <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1123758&amp;idParte=9954068&amp;idVersion=2018-10-10\">Resoluci&#xF3;n 5036 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 1 b)<br>D.O. 10.10.2018</a></span>copia de los CD con folios N&#xBA; 01/2018-2019 y N&#xBA; 02/2018 a los que se refiere el Art&#xED;culo 1&#xBA; del presente acto administrativo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1123758,
+      "fecha": "2018-10-10"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-05-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-08-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9593785,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;bese la siguiente n&#xF3;mina de terrenos coincidentes con las fajas v&#xED;as de circulaciones en el territorio comunal de La Reina, cuyas declaratorias de utilidad p&#xFA;blica se dejan sin efecto.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48916.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Que se dejan sin efecto las declaratorias de utilidad p&#xFA;blica en las fajas v&#xED;as en la n&#xF3;mina se&#xF1;alada precedentemente y aprobada en este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3. Encomi&#xE9;ndese a la Secretar&#xED;a Comunal de Planificaci&#xF3;n, a trav&#xE9;s de Asesor&#xED;a Urbana, que la informaci&#xF3;n producto de esta desafectaci&#xF3;n, una vez ratificada por la Seremi Metropolitana de Vivienda y Urbanismo sea incorporada a la Ordenanza del Plan Regulador Comunal de La Reina.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;bese la siguiente n&#xF3;mina de terrenos coincidentes con las fajas v&#xED;as de circulaciones en el territorio comunal de La Reina, cuyas declaratorias de utilidad p&#xFA;blica se dejan sin efecto. <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48916.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Que se dejan sin efecto las declaratorias de utilidad p&#xFA;blica en las fajas v&#xED;as en la n&#xF3;mina se&#xF1;alada precedentemente y aprobada en este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3. Encomi&#xE9;ndese a la Secretar&#xED;a Comunal de Planificaci&#xF3;n, a trav&#xE9;s de Asesor&#xED;a Urbana, que la informaci&#xF3;n producto de esta desafectaci&#xF3;n, una vez ratificada por la Seremi Metropolitana de Vivienda y Urbanismo sea incorporada a la Ordenanza del Plan Regulador Comunal de La Reina.</div><br><br><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numertal N&#xB0; 2 del Decreto 1549, M. de la Reina, publicado el 22.08.2015, modifica la n&#xF3;mina de terrenos coincidentes con las fajas v&#xED;as de circulaciones en el territorio comunal de La Reina, cuyas declaratorias de utilidad p&#xFA;blica se dejan sin efecto, en el texto correspondiente al detalle de la calle Helsby de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

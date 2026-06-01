@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-03-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-10-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9036875,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El Presidente de la Rep&#xFA;blica, proveer&#xE1; discrecionalmente los cargos y encasillar&#xE1; en ellos a todo o parte del personal actualmente en servicio, dentro de los 90 d&#xED;as siguientes a la publicaci&#xF3;n del decreto de fijaci&#xF3;n de plantas.</div><div class=\"p\">&nbsp; &nbsp; Se exigir&#xE1; el cumplimiento de los requisitos establecidos en el decreto supremo de Hacienda N&#xB0; 90, de 1977, para los encasillamientos que se hagan en nivel superior al que actualmente ocupa el respectivo funcionario.</div><div class=\"p\">&nbsp; &nbsp; La diferencia de remuneraciones que pudiesen producirse por aplicaci&#xF3;n de este art&#xED;culo, dar&#xE1; derecho al funcionario a percibir esas diferencias por planilla suplementaria, imponible en la misma proporci&#xF3;n que la remuneraci&#xF3;n que compensa, que no se reajustar&#xE1; y ser&#xE1; absorbida por los ascensos o nombramientos que beneficien al funcionario.</div><div class=\"p\">&nbsp; &nbsp; El personal que no sea encasillado, tendr&#xE1; derecho a seguir percibiendo durante seis meses la remuneraci&#xF3;n total que le haya correspondido en el mes precedente al del encasillamiento, siempre que no tenga derecho a jubilaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El Presidente de la Rep&#xFA;blica, proveer&#xE1; discrecionalmente los cargos y encasillar&#xE1; en ellos a todo o parte del personal actualmente en servicio, dentro de los 90 d&#xED;as siguientes a la publicaci&#xF3;n del decreto de fijaci&#xF3;n de plantas.</div><div class=\"p\">&nbsp; &nbsp; Se exigir&#xE1; el cumplimiento de los requisitos establecidos en el decreto supremo de Hacienda N&#xB0; 90, de 1977, para los encasillamientos que se hagan en nivel superior al que actualmente ocupa el respectivo funcionario.</div><div class=\"p\">&nbsp; &nbsp; La diferencia de remuneraciones que pudiesen producirse por aplicaci&#xF3;n de este art&#xED;culo, dar&#xE1; derecho al funcionario a percibir esas diferencias por planilla suplementaria, imponible en la misma proporci&#xF3;n que la remuneraci&#xF3;n que compensa, que ser&#xE1; reajustable en<span class=\"n\" id=\"n_0\">DL 2879, HACIENDA<br>Art. 10<br>D.O. 17.10.1979</span> las mismas condiciones que los sueldos y ser&#xE1; absorbida por los ascensos o nombramientos que beneficien al funcionario.<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; El personal que no sea encasillado, tendr&#xE1; derecho a seguir percibiendo durante seis meses la remuneraci&#xF3;n total que le haya correspondido en el mes precedente al del encasillamiento, siempre que no tenga derecho a jubilaci&#xF3;n.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 10 del DL 2879, Hacienda, publicado el 17.10.1979, dispone que la presente modificaci&#xF3;n, rige a contar desde la publicaci&#xF3;n de la norma modificada. </div></div>"
+        }
+      ]
+    }
+  }
+]

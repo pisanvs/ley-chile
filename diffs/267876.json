@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-12-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7360555,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;banse las reformas que ha acordado introducir a sus estatutos la entidad denominada &quot;Sociedad Chilena de Pediatr&#xED;a&quot;, con domicilio en la provincia de Santiago, Regi&#xF3;n Metropolitana de Santiago, y personalidad jur&#xED;dica concedida por decreto supremo de Justicia N&#xBA; 5.543, de 4 de octubre de 1960, en los t&#xE9;rminos que da testimonio la escritura p&#xFA;blica de fecha 26 de junio de 2007, otorgada ante el Notario P&#xFA;blico de Santiago, don Jaime Morand&#xE9; Orrego.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;banse las reformas que ha acordado introducir a su<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>s estatutos la entidad denominada &quot;Sociedad Chilena de Pediatr&#xED;a&quot;, con domicilio en la provincia de Santiago, Regi&#xF3;n Metropolitana de Santiago, y personalidad jur&#xED;dica concedida por decreto supremo de Justicia N&#xBA; 5.543, de 4 de octubre de 1960, en los t&#xE9;rminos que da testimonio la escritura p&#xFA;blica de fecha 26 de junio de 2007, otorgada ante el Notario P&#xFA;blico de Santiago, don Jaime Morand&#xE9; Orrego.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 2 del Decreto 6569 Exento, Justicia, publicado el 03.01.2012, rectifica la presente norma, en el&nbsp; sentido de que el nombre de la entidad es &quot;Sociedad Chilena de Pediatr&#xED;a&quot; que puede usar tambi&#xE9;n la sigla &quot;Sochipe&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

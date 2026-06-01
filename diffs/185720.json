@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-08-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7283178,
+          "old": "<div><div class=\"p\">EXTRACTO DE ORDENANZA QUE MODIFICA PLAN REGULADOR COMUNAL </div></div>",
+          "new": "<div><br><div class=\"p\">ORDENANZA QUE MODIFICA PLAN REGULADOR COMUNAL,<span class=\"n\" id=\"n_0\">DTO 1426,<br>M. DE CERRO NAVIA<br>N&#xBA; 2<br>D.O. 24.08.2001</span></div><div class=\"p\">SECTOR PLAZA YUGOSLAVIA</div><br></div>"
+        }
+      ]
+    }
+  }
+]

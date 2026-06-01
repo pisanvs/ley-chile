@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2021-11-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-11-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10287725,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;base la formalizaci&#xF3;n de la siguiente n&#xF3;mina de Planes Urbanos Habitacionales (PUH):</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/135578.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/135579.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Instr&#xFA;yese la actualizaci&#xF3;n y env&#xED;o, de manera semestral, de la programaci&#xF3;n establecida mediante Carta Gantt para cada uno de los Planes Urbanos Habitacionales formalizados en la n&#xF3;mina anterior. Dicha actualizaci&#xF3;n deber&#xE1; remitirse mediante oficio del Director de Serviu y/o Seremi de V. y U. de la regi&#xF3;n que corresponda, dirigido al Jefe de Divisi&#xF3;n de Pol&#xED;tica Habitacional y al Jefe de Divisi&#xF3;n de Desarrollo Urbano de este Ministerio, con el fin de poder apoyar la concreci&#xF3;n y seguimiento del Plan Operativo de la cartera de PUH.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;base la formalizaci&#xF3;n de la siguiente n&#xF3;mina de Planes Urbanos Habitacionales <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1197820&amp;idParte=10468852&amp;idVersion=2023-11-14\">Resoluci&#xF3;n 1866 EXENTA,<br>VIVIENDA<br>N&#xB0; 2, i <br>D.O. 14.11.2023</a></span>(PUH):</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/172997.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Instr&#xFA;yase la actualizaci&#xF3;n y env&#xED;o, de manera semestral, de la programaci&#xF3;n establecida mediante la Carta Gantt, para cada uno de los Planes Urbanos Habitacionales formalizados en la n&#xF3;mina<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1197820&amp;idParte=10468852&amp;idVersion=2023-11-14\">Resoluci&#xF3;n 1866 EXENTA,<br>VIVIENDA<br>N&#xB0; 2, ii<br>D.O. 14.11.2023</a></span> anterior. Dicha actualizaci&#xF3;n deber&#xE1; remitirse mediante oficio de los Secretarios o las Secretarias Regionales Ministeriales de Vivienda y Urbanismo en conjunto con las Directoras o los Directores de los Servicios de Vivienda y Urbanizaci&#xF3;n, dirigido al Jefe de Divisi&#xF3;n de Pol&#xED;tica Habitacional y al Jefe de Divisi&#xF3;n de Desarrollo Urbano de este Ministerio, seg&#xFA;n formato de Carta Gantt adjunto a este acto administrativo. Asimismo, se instruye, que las referidas autoridades regionales, con el objeto de apoyar la concreci&#xF3;n y seguimiento del plan operativo de la Cartera de Planes Urbanos Habitacionales, env&#xED;en una copia del referido oficio, al correo electr&#xF3;nico del Equipo T&#xE9;cnico Nacional.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1197820,
+      "fecha": "2023-11-14"
+    }
+  },
+  {
+    "fecha": "2026-04-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10287725,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;base la formalizaci&#xF3;n de la siguiente n&#xF3;mina de Planes Urbanos Habitacionales <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1197820&amp;idParte=10468852&amp;idVersion=2023-11-14\">Resoluci&#xF3;n 1866 EXENTA,<br>VIVIENDA<br>N&#xB0; 2, i <br>D.O. 14.11.2023</a></span>(PUH):</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/172997.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Instr&#xFA;yase la actualizaci&#xF3;n y env&#xED;o, de manera semestral, de la programaci&#xF3;n establecida mediante la Carta Gantt, para cada uno de los Planes Urbanos Habitacionales formalizados en la n&#xF3;mina<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1197820&amp;idParte=10468852&amp;idVersion=2023-11-14\">Resoluci&#xF3;n 1866 EXENTA,<br>VIVIENDA<br>N&#xB0; 2, ii<br>D.O. 14.11.2023</a></span> anterior. Dicha actualizaci&#xF3;n deber&#xE1; remitirse mediante oficio de los Secretarios o las Secretarias Regionales Ministeriales de Vivienda y Urbanismo en conjunto con las Directoras o los Directores de los Servicios de Vivienda y Urbanizaci&#xF3;n, dirigido al Jefe de Divisi&#xF3;n de Pol&#xED;tica Habitacional y al Jefe de Divisi&#xF3;n de Desarrollo Urbano de este Ministerio, seg&#xFA;n formato de Carta Gantt adjunto a este acto administrativo. Asimismo, se instruye, que las referidas autoridades regionales, con el objeto de apoyar la concreci&#xF3;n y seguimiento del plan operativo de la Cartera de Planes Urbanos Habitacionales, env&#xED;en una copia del referido oficio, al correo electr&#xF3;nico del Equipo T&#xE9;cnico Nacional.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;base la formalizaci&#xF3;n de la siguiente n&#xF3;mina de Planes Urbanos Habitacionales (PUH)<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1223417&amp;idParte=10592166&amp;idVersion=2026-04-22\">Resoluci&#xF3;n 380 EXENTA,<br>VIVIENDA<br>N&#xB0; 2<br>D.O. 22.04.2026</a></span>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/210696.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/210697.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Instr&#xFA;yase la actualizaci&#xF3;n y env&#xED;o, de manera semestral, de la programaci&#xF3;n establecida mediante la Carta Gantt, para cada uno de los Planes Urbanos Habitacionales formalizados en l<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1197820&amp;idParte=10468852&amp;idVersion=2023-11-14\">Resoluci&#xF3;n 1866 EXENTA,<br>VIVIENDA<br>N&#xB0; 2, ii<br>D.O. 14.11.2023</a></span>a n&#xF3;mina anterior. Dicha actualizaci&#xF3;n deber&#xE1; remitirse mediante oficio de los Secretarios o las Secretarias Regionales Ministeriales de Vivienda y Urbanismo en conjunto con las Directoras o los Directores de los Servicios de Vivienda y Urbanizaci&#xF3;n, dirigido al Jefe de Divisi&#xF3;n de Pol&#xED;tica Habitacional y al Jefe de Divisi&#xF3;n de Desarrollo Urbano de este Ministerio, seg&#xFA;n formato de Carta Gantt adjunto a este acto administrativo. Asimismo, se instruye, que las referidas autoridades regionales, con el objeto de apoyar la concreci&#xF3;n y seguimiento del plan operativo de la Cartera de Planes Urbanos Habitacionales, env&#xED;en una copia del referido oficio, al correo electr&#xF3;nico del Equipo T&#xE9;cnico Nacional.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1223417,
+      "fecha": "2026-04-22"
+    }
+  }
+]

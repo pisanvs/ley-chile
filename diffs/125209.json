@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-10-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8335263,
+          "old": "<div><div class=\"p\">ESTABLECE RESTRICCIONES AL MOVIMIENTO DE ESPECIES SALMONIDAS VIVAS DESDE&nbsp; LAS REGIONES V Y METROPOLITANA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.030.- Valpara&#xED;so, 21 de septiembre de 1998.- Visto: Lo dispuesto en la Ley General de Pesca y Acuicultura, N&#xBA; 18.892 y sus modificaciones; el D.F.L.</div><div class=\"p\">N&#xBA; 5 de 1983 y sus modificaciones; el decreto supremo N&#xBA; 162 de 1985 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n y la resoluci&#xF3;n del Servicio Nacional de Pesca N&#xBA; 2.029, de fecha 21 de septiembre de 1998.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, existen antecedentes de la presencia del virus de la Necrosis Pancre&#xE1;tica Infecciosa (IPN) en las regiones V y Metropolitana.</div><div class=\"p\">&nbsp; &nbsp;  Que este virus se encuentra dentro de las enfermedades Clase I del D.S. N&#xBA;162 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Que, esta enfermedad es considerada por la Oficina Internacional de Epizootias como una enfermedad de importancia internacional actual o potencial.</div><div class=\"p\">&nbsp; &nbsp;  Que, las regiones V y Metropolitana constituyen un posible foco de diseminaci&#xF3;n del Virus del IPN, ya que desde ellas se transportan especies vivas hacia otras regiones del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp;  Que, es deber de este Servicio, a trav&#xE9;s del Departamento de Sanidad Pesquera, ejecutar las medidas de protecci&#xF3;n y control para evitar la introducci&#xF3;n de enfermedades de alto riego y especies que constituyan plagas, aislar su presencia en caso de que &#xE9;stas ocurran, evitar su propagaci&#xF3;n y propender a su erradicaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE RESTRICCIONES AL MOVIMIENTO DE ESPECIES SALMONIDAS VIVAS DESDE&nbsp; LAS REGIONES V Y METROPOLITANA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.030.- Valpara&#xED;so, 21 de septiembre de 1998.- Visto: Lo dispuesto en la Ley General de Pesca y Acuicultura, N&#xBA; 18.892 y sus modificaciones; el D.F.L.</div><div class=\"p\">N&#xBA; 5 de 1983 y sus modificaciones; el decreto supremo N&#xBA; 162 de 1985 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n y la resoluci&#xF3;n del Servicio Nacional de Pesca N&#xBA; 2.029, de fecha 21 de septiembre de 1998.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, existen antecedentes de la presencia del virus de la Necrosis Pancre&#xE1;tica Infecciosa (IPN) en las regiones V y Metropolitana.</div><div class=\"p\">&nbsp; &nbsp;  Que este virus se encuentra dentro de las enfermedades Clase I del D.S. N&#xBA;162 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Que, esta enfermedad es considerada por la Oficina Internacional de Epizootias como una enfermedad de importancia internacional actual o potencial.</div><div class=\"p\">&nbsp; &nbsp;  Que, las regiones V y Metropolitana constituyen un posible foco de diseminaci&#xF3;n del Virus del IPN, ya que desde ellas se transportan especies vivas hacia otras regiones del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp;  Que, es deber de este Servicio, a trav&#xE9;s del Departamento de Sanidad Pesquera, ejecutar las medidas de protecci&#xF3;n y control para evitar la introducci&#xF3;n de enfermedades de alto riego y especies que constituyan plagas, aislar su presencia en caso de que &#xE9;stas ocurran, evitar su propagaci&#xF3;n y propender a su erradicaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

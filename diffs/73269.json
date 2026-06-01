@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-06-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6038404,
+          "old": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A JOSE CAMARENA Y CIA. LTDA.</div><br></div>",
+          "new": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A JOSE CAMARENA Y CIA. LTDA.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

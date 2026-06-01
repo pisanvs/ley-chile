@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-10-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6352219,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Del&#xE9;gase en los Secretarios Regionales Ministeriales de Educaci&#xF3;n la facultad de suscribir las escrituras p&#xFA;blicas de prohibici&#xF3;n de enajenar y primera hipoteca en favor del Ministerio de Educaci&#xF3;n, respecto de los inmuebles en los que se ejecuten obras, en el marco de desarrollo de los Proyectos en la L&#xED;nea de Apoyo a la Formaci&#xF3;n de T&#xE9;cnicos de Nivel Superior del Fondo Competitivo de Proyectos del Programa de Mejoramiento de la Equidad y Calidad de la Educaci&#xF3;n Superior, y de primera hipoteca en favor del Ministerio de Educaci&#xF3;n, sobre otros inmuebles ofrecidos por las instituciones adjudicatarias de Proyectos de la L&#xED;nea de Apoyo a la Formaci&#xF3;n de T&#xE9;cnicos de Nivel Superior, aprobados por esta Secretar&#xED;a de Estado para la constituci&#xF3;n de la se&#xF1;alada primera hipoteca por estimar dicho gravamen como garant&#xED;a suficiente para asegurar el destino de las obras ejecutadas con cargo al respectivo Proyecto de Mejoramiento de la Formaci&#xF3;n de T&#xE9;cnicos de Nivel Superior.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Del&#xE9;gase en los Secretarios<span class=\"n\" id=\"n_0\">DTO 287, EDUCACION<br>Art. &#xFA;nico<br>D.O. 26.11.2001</span> Regionales Ministeriales de Educaci&#xF3;n la Facultad de suscribir las escrituras p&#xFA;blicas de prohibici&#xF3;n de enajenar y primera hipoteca en favor del Ministerio de Educaci&#xF3;n, respecto de los inmuebles en los que se ejecuten obras, en el marco de desarrollo de los Proyectos en la L&#xED;nea de Apoyo a la Formaci&#xF3;n de T&#xE9;cnicos de Nivel Superior del Fondo Competitivo de Proyectos del Programa de Mejoramiento de la Equidad y Calidad de la Educaci&#xF3;n Superior, y de primera hipoteca y prohibici&#xF3;n de enajenar en favor del Ministerio de Educaci&#xF3;n, sobre otros inmuebles ofrecidos por las instituciones adjudicatarias de Proyectos de la L&#xED;nea de Apoyo a la Formaci&#xF3;n T&#xE9;cnicos de Nivel Superior, aprobados por esta Secretar&#xED;a de Estado para la constituci&#xF3;n de la se&#xF1;alada primera hipoteca y prohibici&#xF3;n, por estimar dicho gravamen como garant&#xED;a suficiente para asegurar el destino de las obras ejecutadas con cargo al respectivo Proyecto de Mejoramiento de la Formaci&#xF3;n de T&#xE9;cnicos de Nivel Superior.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

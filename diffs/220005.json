@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-01-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-03-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6458521,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- La presente resoluci&#xF3;n comenzar&#xE1; a regir a contar de los seis meses siguientes a su publicaci&#xF3;n en el Diario Oficial, con excepci&#xF3;n de lo dispuesto en el N&#xBA; 63 de la n&#xF3;mina que regir&#xE1; a partir de la fecha de dicha publicaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- La presente resoluci&#xF3;n comenzar&#xE1; a regir a contar de los seis meses siguientes a su publicaci&#xF3;n en el Diario Oficial, con excepci&#xF3;n de lo dispuesto en el N&#xBA; 63 de la n&#xF3;mina que regir&#xE1; a partir de la fecha de dicha publicaci&#xF3;n y de lo dispuesto en<span class=\"n\" id=\"n_0\">RES 423 EXENTA,<br>SALUD<br>Art. 1&#xBA;<br>D.O. 03.03.2004</span> el N&#xBA; 64 de la n&#xF3;mina que regir&#xE1; a contar del 30 de enero de 2005.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

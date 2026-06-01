@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-08-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313740,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A LORETO ISABEL HIDALGO VARGAS PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A LORETO ISABEL HIDALGO VARGAS PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

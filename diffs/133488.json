@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-04-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-07-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7246754,
+          "old": "<div><div class=\"p\">FIJA TRAZADOS DE CIRCULACION DE VEHICULOS DE LOCOMOCION COLECTIVA </div></div>",
+          "new": "<div><div class=\"p\">FIJA TRAZADOS DE CIRCULACION DE VEHICULOS DE LOCOMOCION COLECTIVA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

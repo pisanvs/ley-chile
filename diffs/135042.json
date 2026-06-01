@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-04-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-07-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6164212,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Articulo 3&#xBA;.- La Empresa Portuaria de Valpara&#xED;so efectuar&#xE1; los ajustes respectivos.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Los bienes y sus respectivos<span class=\"n\" id=\"n_0\">DTO 109, TRANSPORTES<br>ART. UNICO<br>D.O. 22.07.2000</span> valores libros a que se refiere el art&#xED;culo 1&#xBA; precedente, se clasificar&#xE1;n contablemente en las correspondientes cuentas del Activo Fijo F&#xED;sico de la Empresa Portuaria Valpara&#xED;so.</div><div class=\"p\">&nbsp; &nbsp;  El aporte que se se&#xF1;ala en el art&#xED;culo 2&#xBA; precedente, se clasificar&#xE1; contablemente en las cuentas de Otros Ingresos de la Empresa Portuaria Valpara&#xED;so.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2000-04-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-07-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6271832,
+          "old": "<div><div class=\"p\">OTORGA AL SR. OSVALDO MANUEL URDANGARIN ROMERO CONCESION DE ACUICULTURA, DE PORCION DE AGUA Y FONDO DE MAR, EN LA COMUNA DE CISNES </div></div>",
+          "new": "<div><div class=\"p\">OTORGA AL SR. OSVALDO MANUEL URDANGARIN ROMERO CONCESION DE ACUICULTURA, DE PORCION DE AGUA Y FONDO DE MAR, EN LA COMUNA DE CISNES</div><br><br></div>"
+        },
+        {
+          "part_id": 6271833,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Mediante resoluci&#xF3;n N&#xBA;2.277, de 30 de diciembre de 1999, de esta Subsecretar&#xED;a de Marina del Ministerio de Defensa Nacional, se otorg&#xF3; al Sr. Osvaldo Manuel Undangarin Romero, RUT N&#xBA;5.194.499-2, con domicilio en Valent&#xED;n Letelier N&#xBA;1373, Oficina 804, Santiago concesi&#xF3;n de acuicultura, de porci&#xF3;n de agua y fondo de mar, en Seno Canalad, Isla Magdalena, comuna de Cisnes, provincia de Ays&#xE9;n, XI Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo, individualizada en la ubicaci&#xF3;n se&#xF1;alada en los planos N&#xBA;s. 674/99-A y 675/99-A, ambos visados por la Autoridad Mar&#xED;tima de Puerto Cisnes.</div><div class=\"p\">&nbsp; &nbsp;  2.- El sector tiene una superficie de 8,60 hect&#xE1;reas y est&#xE1; delimitado por las siguientes coordenadas geogr&#xE1;-ficas:</div><br><div class=\"p\">V&#xE9;rtice A Lat. 44&#xB0;33&apos;48,64&quot; S. Long. 73&#xB0;08&apos;14,00&quot; W.</div><div class=\"p\">V&#xE9;rtice B Lat. 44&#xB0;33&apos;48,64&quot; S. Long. 73&#xB0;08&apos;02,88&quot; W.</div><div class=\"p\">V&#xE9;rtice C Lat. 44&#xB0;33&apos;00,00&quot; S. Long. 73&#xB0;08&apos;02,88&quot; W.</div><div class=\"p\">V&#xE9;rtice D Lat. 44&#xB0;33&apos;00,00&quot; S. Long. 73&#xB0;08&apos;14,00&quot; W.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- El objeto de la concesi&#xF3;n es amparar la instalaci&#xF3;n y operaci&#xF3;n de un cultivo de Salm&#xF3;n Plateado, Salm&#xF3;n del Atl&#xE1;ntico y Trucha Arcoiris.</div><div class=\"p\">&nbsp; &nbsp;  4.- El concesionario deber&#xE1; dar cabal cumplimiento al Proyecto T&#xE9;cnico y Cronograma de Actividades, aprobado por resoluci&#xF3;n N&#xBA;1.670, de fecha 31 de agosto de 1999, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, Subsecretar&#xED;a de Pesca.</div><div class=\"p\">&nbsp; &nbsp;  5.- El concesionario deber&#xE1; dar cumplimiento al D.S. N&#xBA;427, de fecha 8 de noviembre de 1989, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Mediante resoluci&#xF3;n N&#xBA;2.277, de 30 de diciembre</div><div class=\"p\">de 1999, de esta Subsecretar&#xED;a de Marina del Ministerio</div><div class=\"p\">de Defensa Nacional, se otorg&#xF3; al Sr. Osvaldo Manuel</div><div class=\"p\">Undangarin Romero, RUT N&#xBA;5.194.499-2, con domicilio en</div><div class=\"p\">Valent&#xED;n Letelier N&#xBA;1373, Oficina 804, Santiago</div><div class=\"p\">concesi&#xF3;n de acuicultura, de porci&#xF3;n de agua y fondo de</div><div class=\"p\">mar, en Seno Canalad, Isla Magdalena, comuna de Cisnes,</div><div class=\"p\">provincia de Ays&#xE9;n, XI Regi&#xF3;n de Ays&#xE9;n del General</div><div class=\"p\">Carlos Ib&#xE1;&#xF1;ez del Campo, individualizada en la ubicaci&#xF3;n</div><div class=\"p\">se&#xF1;alada en los planos N&#xBA;s. 674/99-A y 675/99-A, ambos</div><div class=\"p\">visados por la Autoridad Mar&#xED;tima de Puerto Cisnes.</div><div class=\"p\">&nbsp; &nbsp;  2.- El sector tiene una superficie de 8,60</div><div class=\"p\">hect&#xE1;reas y est&#xE1; delimitado por las siguientes</div><div class=\"p\">coordenadas geogr&#xE1;-ficas:</div><br><div class=\"p\">V&#xE9;rtice A Lat. 44&#xB0;33&apos;48,64&quot; S. Long. 73&#xB0;08&apos;14,00&quot; W.</div><div class=\"p\">V&#xE9;rtice B Lat. 44&#xB0;33&apos;48,64&quot; S. Long. 73&#xB0;08&apos;02,88&quot; W.</div><div class=\"p\">V&#xE9;rtice C Lat. 44&#xB0;34&apos;00,00&quot; S. Long. 73&#xB0;08&apos;02,88&quot; W.<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 28.07.2000</span></div><div class=\"p\">V&#xE9;rtice D Lat. 44&#xB0;34&apos;00,00&quot; S. Long. 73&#xB0;08&apos;14,00&quot; W.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- El objeto de la concesi&#xF3;n es amparar la</div><div class=\"p\">instalaci&#xF3;n y operaci&#xF3;n de un cultivo de Salm&#xF3;n</div><div class=\"p\">Plateado, Salm&#xF3;n del Atl&#xE1;ntico y Trucha Arcoiris.</div><div class=\"p\">&nbsp; &nbsp;  4.- El concesionario deber&#xE1; dar cabal cumplimiento</div><div class=\"p\">al Proyecto T&#xE9;cnico y Cronograma de Actividades,</div><div class=\"p\">aprobado por resoluci&#xF3;n N&#xBA;1.670, de fecha 31 de agosto</div><div class=\"p\">de 1999, del Ministerio de Econom&#xED;a, Fomento y</div><div class=\"p\">Reconstrucci&#xF3;n, Subsecretar&#xED;a de Pesca.</div><div class=\"p\">&nbsp; &nbsp;  5.- El concesionario deber&#xE1; dar cumplimiento al</div><div class=\"p\">D.S. N&#xBA;427, de fecha 8 de noviembre de 1989, del</div><div class=\"p\">Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

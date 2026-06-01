@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-02-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201580,
+          "old": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR EN ADQUISICIONES DE LEGUMBRES A DON JUAN RICARDO LATRACH PONCE </div><div class=\"p\">&nbsp; &nbsp; Talca, 14 de febrero de 1996.- Hoy se ha resuelto lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 508 exenta.- Vistos: La solicitud de fecha 16.01.96, presentada por don Juan Ricardo Latrach Ponce, RUT N&#xB0; 9.187.736-8, con domicilio en 1 Norte N&#xB0; 424, Longav&#xED;, por la que pide que se le certifique la calidad de Agente Retenedor respecto de las adquisiciones de Legumbres; el Informe N&#xB0; 003 de 12.01.96, del Departamento de Fiscalizaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; Las disposiciones legales y reglamentarias e instrucciones vigentes sobre la materia y las facultades establecidas en el art&#xED;culo 6&#xB0;, letra B), N&#xB0; 5, del C&#xF3;digo Tributario y las delegadas en el dispositivo N&#xB0; 12, de la Res. N&#xB0; Ex.5.045, de 21.11.994, de la Direcci&#xF3;n Nacional, publicada en el Diario Oficial de 25 de Noviembre de 1994, y</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; 1&#xB0;) Que, en el presente caso, los argumentos, fundamentaciones y antecedentes proporcionados por el interesado en su solicitud, han sido estimados atendibles por esta Direcci&#xF3;n Regional y adem&#xE1;s cumple con los requisitos y exigencias se&#xF1;alados en el N&#xB0; 12, de la Res. N&#xB0; Ex.5045, de Direcci&#xF3;n Nacional, publicada en el Diario Oficial de 25 de Noviembre de 1994.</div><br><div class=\"p\">&nbsp; &nbsp; Se resuelve:</div><br><br></div>",
+          "new": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR EN ADQUISICIONES DE LEGUMBRES A DON JUAN RICARDO LATRACH PONCE </div><div class=\"p\">&nbsp; &nbsp; Talca, 14 de febrero de 1996.- Hoy se ha resuelto lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 508 exenta.- Vistos: La solicitud de fecha 16.01.96, presentada por don Juan Ricardo Latrach Ponce, RUT N&#xB0; 9.187.736-8, con domicilio en 1 Norte N&#xB0; 424, Longav&#xED;, por la que pide que se le certifique la calidad de Agente Retenedor respecto de las adquisiciones de Legumbres; el Informe N&#xB0; 003 de 12.01.96, del Departamento de Fiscalizaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; Las disposiciones legales y reglamentarias e instrucciones vigentes sobre la materia y las facultades establecidas en el art&#xED;culo 6&#xB0;, letra B), N&#xB0; 5, del C&#xF3;digo Tributario y las delegadas en el dispositivo N&#xB0; 12, de la Res. N&#xB0; Ex.5.045, de 21.11.994, de la Direcci&#xF3;n Nacional, publicada en el Diario Oficial de 25 de Noviembre de 1994, y</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; 1&#xB0;) Que, en el presente caso, los argumentos, fundamentaciones y antecedentes proporcionados por el interesado en su solicitud, han sido estimados atendibles por esta Direcci&#xF3;n Regional y adem&#xE1;s cumple con los requisitos y exigencias se&#xF1;alados en el N&#xB0; 12, de la Res. N&#xB0; Ex.5045, de Direcci&#xF3;n Nacional, publicada en el Diario Oficial de 25 de Noviembre de 1994.</div><br><div class=\"p\">&nbsp; &nbsp; Se resuelve:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-05-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-11-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8314833,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JUAN HERIBERTO VERA VIDAL PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JUAN HERIBERTO VERA VIDAL PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

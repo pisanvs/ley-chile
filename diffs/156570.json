@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-06-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7261894,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD COMERCIAL INDUSTRIAL PESQUERA CAREN LIMITADA PARA AMPLIAR ACTIVIDADES DE PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD COMERCIAL INDUSTRIAL PESQUERA CAREN LIMITADA PARA AMPLIAR ACTIVIDADES DE PESQUERAS </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

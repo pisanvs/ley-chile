@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-06-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-10-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6283798,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xB0;182 EXENTO, DE 2000 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xB0;182 EXENTO, DE 2000</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

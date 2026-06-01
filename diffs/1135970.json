@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-09-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-04-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10052330,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;zase a la empresa Importadora de Tabacos Nady Basti Ltda., para la comercializaci&#xF3;n en el pa&#xED;s de las marcas de productos de tabaco Amsterdamer, Mac Baren y Raw, en las variedades y formato indicados en la presente resoluci&#xF3;n, por cuanto se da cumplimiento a lo dispuesto en la normativa vigente.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Autor&#xED;zase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1144568&amp;idParte=10116246&amp;idVersion=2020-04-23\">Resoluci&#xF3;n 280 EXENTA,<br>SALUD<br>N&#xB0; 1<br>D.O. 23.04.2020</a></span>a la empresa Importadora de Tabacos Nady Basti Ltda., para la comercializaci&#xF3;n en el pa&#xED;s de las marcas de productos de tabaco Amsterdamer, Mac Baren, Pueblo y Raw, en las variedades y formato indicados en la presente resoluci&#xF3;n, por cuanto se da cumplimiento a lo dispuesto en la normativa vigente.</div><div class=\"p\"> </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1144568,
+      "fecha": "2020-04-23"
+    }
+  }
+]

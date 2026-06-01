@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-12-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6113393,
+          "old": "<div><div class=\"p\">ESTABLECE RED VIAL BASICA EN LA CIUDAD DE TEMUCO (Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 19 exenta.- Temuco, 28 de Abril de 1989.- Vistos: El Decreto Supremo No. 83, de 1985, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, y sus modificaciones, y la Resoluci&#xF3;n No. 1050/80, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Lo informado por la I. Municipalidad de Temuco, mediante oficio Ord. No. 506, de fecha 17 de Marzo de 1989,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE RED VIAL BASICA EN LA CIUDAD DE TEMUCO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 19 exenta.- Temuco, 28 de Abril de 1989.- Vistos: El Decreto Supremo No. 83, de 1985, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, y sus modificaciones, y la Resoluci&#xF3;n No. 1050/80, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Lo informado por la I. Municipalidad de Temuco, mediante oficio Ord. No. 506, de fecha 17 de Marzo de 1989,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

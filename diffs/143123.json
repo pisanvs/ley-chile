@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8349778,
+          "old": "<div><div class=\"p\">AUTORIZA A DON LUIS ERNESTO ARAYA QUIROGA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON LUIS ERNESTO ARAYA QUIROGA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

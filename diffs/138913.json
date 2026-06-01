@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1999-07-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-10-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6176921,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Letra A: Dep&#xF3;sitos de bebidas alcoh&#xF3;licas, solamente para ser consumidas fuera del local de expendio o de sus dependencias podr&#xE1;n funcionar todos los d&#xED;as de la semana, de 10:00 horas a la 1:00 de la madrugada del d&#xED;a siguiente:</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Letra A: Dep&#xF3;sito de bebidas<span class=\"n\" id=\"n_0\">ORZ 2, M. DE LAMPA<br>Art. 1&#xB0;<br>D.O. 26.10.1999</span> alcoh&#xF3;licas, solamente para ser consumidas fuera del local de expendio o de sus dependencias podr&#xE1;n funcionar todos los d&#xED;as de la semana, de 10:00 horas a 01:00 de la madrugada del d&#xED;a siguiente y los d&#xED;as viernes y s&#xE1;bado el horario de cierre ser&#xE1; a las 02:00 A.M. del d&#xED;a siguiente. </div></div>"
+        },
+        {
+          "part_id": 6176924,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Letra C: Restaurantes diurnos y nocturnos, sin derecho a baile, a representaciones o espect&#xE1;culos, con expendio de bebidas alcoh&#xF3;licas &#xFA;nicamente a los clientes que concurran a cenar o a consumir alimentos, podr&#xE1;n funcionar todos los d&#xED;as de la semana, de 10:00 horas a las 2:00 de la madrugada del d&#xED;a siguiente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 3&#xBA;:Letra C: Restaurantes diurnos y<span class=\"n\" id=\"n_1\">ORZ 2, M. DE LAMPA<br>Art. 2&#xB0;<br>D.O. 26.10.1999</span> nocturnos, sin derecho a baile, a representaciones o espect&#xE1;culos, con expendio de bebidas alcoh&#xF3;licas &#xFA;nicamente a los clientes que concurran a cenar o a consumir alimentos, podr&#xE1;n funcionar todos los d&#xED;as de la semana, de 10:00 horas a las 02:00 de la madrugada del d&#xED;a siguiente, y los d&#xED;as viernes y s&#xE1;bado el horario de cierre ser&#xE1; a las 03:00 A.M. del d&#xED;a siguiente.</div><br></div>"
+        },
+        {
+          "part_id": 6176925,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: Letra D: Cabarets o pe&#xF1;as folkl&#xF3;ricas podr&#xE1;n funcionar todos los d&#xED;as de la semana de 19:00 horas a 5:00 de la madrugada del d&#xED;a siguiente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 4&#xBA;: Letra D: Cabarets o pe&#xF1;as folkl&#xF3;ricas<span class=\"n\" id=\"n_2\">ORZ-2, M. DE LAMPA<br>Art. 3&#xB0;<br>D.O. 26.10.1999</span> podr&#xE1;n funcionar todos los d&#xED;as de la semana de 12:00 horas A.M. a 5:00 de la madrugada del d&#xED;a siguiente. </div></div>"
+        },
+        {
+          "part_id": 6176929,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: Letra H: Supermercados de bebidas alcoh&#xF3;licas, solamente envasadas y para ser consumidas fuera del local de venta o de sus dependencias, podr&#xE1;n funcionar todos los d&#xED;as de la semana de 10:00 horas a 24:00 horas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 8&#xBA;: Letra H: Supermercados de bebidas<span class=\"n\" id=\"n_3\">ORZ 2, M. DE LAMPA<br>Art. 4&#xB0;<br>D.O. 26.10.1999</span> alcoh&#xF3;licas, solamente envasadas y para ser consumidas fuera del local de venta o de sus dependencias, podr&#xE1;n funcionar todos los d&#xED;as de la semana de 08:00 horas a 24:00 horas.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-08-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7059429,
+          "old": "<div><div class=\"p\">DEROGA DECRETO N&#xBA; 831 EXENTO, DE 1998. ASIGNA Y AUTORIZA CIRCULACION DE VEHICULOS LOS DIAS SABADO EN LA TARDE, DOMINGO Y FESTIVOS SIN LLEVAR DISCO DISTINTIVO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 535 exento.- Santiago, 10 de mayo de 2000.- Vistos: Lo establecido en los art&#xED;culos 1&#xBA; y 3&#xBA; del decreto ley N&#xBA; 799, de 1974, modificado por el D.F.L. N&#xBA; 12-2.345, de 1979, del Ministerio del Interior, y por la ley 18.267, art&#xED;culo 14&#xBA;; las instrucciones impartidas por la Contralor&#xED;a General de la Rep&#xFA;blica, con fecha 6 de febrero de 1975, que rige la materia objeto del presente decreto; el oficio circular N&#xBA; 6, de 14 de julio de 1998, del Ministerio de Bienes Nacionales; el D.S. N&#xBA; 654, de 1994, y sus modificaciones del Ministerio del Interior y, la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica y sus modificaciones; lo solicitado por la Divisi&#xF3;n Administrativa mediante oficio N&#xBA; 8, y oficio N&#xBA; 10, ambos de 8 de mayo de 2000 de la se&#xF1;ora Subsecretaria de Bienes Nacionales.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, mediante decreto (exento) N&#xBA; 831, de 6 de octubre de 1998, del Ministerio de Bienes Nacionales se dispuso el uso de los veh&#xED;culos del Nivel Central, el cual se encuentra obsoleto, atendido que en &#xE9;l se se&#xF1;alan veh&#xED;culos que ya no se encuentran dentro de la dotaci&#xF3;n del Servicio, y que algunos de ellos han sido dados de baja;</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">DEROGA DECRETO N&#xBA; 831 EXENTO, DE 1998. ASIGNA Y AUTORIZA CIRCULACION DE VEHICULOS LOS DIAS SABADO EN LA TARDE, DOMINGO Y FESTIVOS SIN LLEVAR DISCO DISTINTIVO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 535 exento.- Santiago, 10 de mayo de 2000.- Vistos: Lo establecido en los art&#xED;culos 1&#xBA; y 3&#xBA; del decreto ley N&#xBA; 799, de 1974, modificado por el D.F.L. N&#xBA; 12-2.345, de 1979, del Ministerio del Interior, y por la ley 18.267, art&#xED;culo 14&#xBA;; las instrucciones impartidas por la Contralor&#xED;a General de la Rep&#xFA;blica, con fecha 6 de febrero de 1975, que rige la materia objeto del presente decreto; el oficio circular N&#xBA; 6, de 14 de julio de 1998, del Ministerio de Bienes Nacionales; el D.S. N&#xBA; 654, de 1994, y sus modificaciones del Ministerio del Interior y, la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica y sus modificaciones; lo solicitado por la Divisi&#xF3;n Administrativa mediante oficio N&#xBA; 8, y oficio N&#xBA; 10, ambos de 8 de mayo de 2000 de la se&#xF1;ora Subsecretaria de Bienes Nacionales.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, mediante decreto (exento) N&#xBA; 831, de 6 de octubre de 1998, del Ministerio de Bienes Nacionales se dispuso el uso de los veh&#xED;culos del Nivel Central, el cual se encuentra obsoleto, atendido que en &#xE9;l se se&#xF1;alan veh&#xED;culos que ya no se encuentran dentro de la dotaci&#xF3;n del Servicio, y que algunos de ellos han sido dados de baja;</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

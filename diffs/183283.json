@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-03-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6327946,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: La Divisi&#xF3;n de Extensi&#xF3;n Cultural del Ministerio de Educaci&#xF3;n, efectuar&#xE1; la convocatoria al concurso de proyectos, programas y acciones a trav&#xE9;s de Secretar&#xED;as Regionales Ministeriales de Educaci&#xF3;n. Dichos organismos convocar&#xE1;n con anticipaci&#xF3;n de, a lo menos&nbsp; treinta (30) d&#xED;as a la fecha de cierre de postulaci&#xF3;n de proyectos, a los establecimientos educacionales especializados en cultura&nbsp; y difusi&#xF3;n art&#xED;stica que correspondan a su regi&#xF3;n y que est&#xE9;n reconocidos con dichas especialidades por el Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: La Divisi&#xF3;n de Extensi&#xF3;n Cultural del Ministerio de Educaci&#xF3;n, efectuar&#xE1; la convocatoria al concurso de proyectos, programas y acciones a trav&#xE9;s de Secretar&#xED;as Regionales Ministeriales de Educaci&#xF3;n. Dichos organismos convocar&#xE1;n con anticipaci&#xF3;n de, a lo menos&nbsp; treinta (30) d&#xED;as a la fecha de cierre de postulaci&#xF3;n de proyectos, a los establecimientos educacionales especializados en cultura&nbsp; y difusi&#xF3;n art&#xED;stica que correspondan a su regi&#xF3;n y que est&#xE9;n reconocidos con dichas especialidades por el Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, el Consejo Nacional<span class=\"n\" id=\"n_0\">DTO 396, EDUCACION<br>Art. &#xFA;nico<br>D.O. 26.01.2004</span> de la Cultura y las Artes podr&#xE1; efectuar dentro del mismo a&#xF1;o calendario m&#xE1;s de un concurso. Para este efecto, deber&#xE1; certificarse por el Subdirector Nacional de dicho Consejo el hecho de no haberse asignado la totalidad de los fondos concursables y en este caso, se efectuar&#xE1; la correspondiente convocatoria para un nuevo concurso, el que se regir&#xE1; por el presente reglamento.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

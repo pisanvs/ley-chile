@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-08-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8347855,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: Fac&#xFA;ltase, en el caso de los menores Evelyn Andrea, Jos&#xE9; Luis y Konstanza Danisa Ar&#xE9;valo Fuentes, a do&#xF1;a Elisa del Carmen Fuentes Ruz, Rut. 10.632.258-9, madre de los beneficiarios; en el caso de Miguel Angel Fern&#xE1;ndez Parada, a don Augusto Fern&#xE1;ndez Richter, Rut. 2.934.658-5, padre del beneficiario; en el caso del menor Angel Iv&#xE1;n Fuentes Villegas, a do&#xF1;a Nancy del Carmen Villegas Aravena, Rut.</div><div class=\"p\">11.768.226-9, madre del beneficiario; en el caso de Osvaldo Cristi&#xE1;n Hidalgo Honores, a do&#xF1;a Marta Zulema Honores Mu&#xF1;oz, Rut. 6.422.904-4, madre del beneficiario; en el caso del menor Jos&#xE9; Antonio Guti&#xE9;rrez Esparza, a do&#xF1;a Sof&#xED;a Magdalena Esparza Escobar, Rut. 6.676.343-9, madre del beneficiario; en el caso del menor Cristi&#xE1;n Alejandro Huidobro C&#xE1;ceres, a do&#xF1;a Alejandra Macarena C&#xE1;ceres Montecinos, Rut. 10.971.677-4, madre del beneficiario; en el caso del menor Sergio Enrique Santis Castillo, a do&#xF1;a Benedicta del Rosario Castillo D&#xED;az, Rut. 8.428.922-1, madre del beneficiario, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: Fac&#xFA;ltase, en el caso de los menores Evelyn Andrea, Jos&#xE9; Luis y Konstanza Danisa Ar&#xE9;valo Fuentes, a do&#xF1;a Elisa del Carmen Fuentes Ruz, Rut. 10.632.258-9, madre de los beneficiarios; en el caso de Miguel Angel Fern&#xE1;ndez Parada, a don Augusto Fern&#xE1;ndez Richter, Rut. 2.934.658-5, padre del beneficiario; en el caso del menor Angel Iv&#xE1;n Fuentes Villegas, a do&#xF1;a Nancy del Carmen Villegas Aravena, Rut. 11.768.226-9, madre del beneficiario; en el caso de Osvaldo Cristi&#xE1;n Hidalgo Honores, a do&#xF1;a Marta Zulema Honores Mu&#xF1;oz, Rut. 6.422.904-4, madre del beneficiario; en el caso del menor Jos&#xE9; Antonio Guti&#xE9;rrez Esparza, a do&#xF1;a Sof&#xED;a Magdalena Esparza Escobar, Rut. 6.676.343-9, madre del beneficiario; en el caso del menor Cristi&#xE1;n Alejandro Huidobro C&#xE1;ceres, a do&#xF1;a Alejandra Macarena C&#xE1;ceres Montecinos, Rut.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> 10.971.677-4, madre del beneficiario; en el caso del menor Sergio Enrique Santis Castillo, a do&#xF1;a Benedicta del Rosario Castillo D&#xED;az, Rut. 8.428.922-1, madre del beneficiario, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 419, Interior, publicado el 22.06.2001, dej&#xF3; sin efecto la facultad concedida a do&#xF1;a Alejandra Macarena C&#xE1;ceres Montecinos, otorg&#xE1;ndosela a do&#xF1;a Nancy Virginia Montecinos Ayala, Rut. 5.085.468-k.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

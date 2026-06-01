@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1961-10-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1963-12-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9000090,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;. Las imposiciones al Servicio de Seguro Social se har&#xE1;n a lo menos sobre un salario diario presunto de cincuenta cent&#xE9;simos de escudos (E&#xB0; 0,50).&quot; </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;. Las imposiciones al Servicio de Seguro<span class=\"n\" id=\"n_0\">LEY 15386<br>Art. 35<br>D.O. 11.12.1963</span> Social se har&#xE1;n a lo menos sobre un salario diario presunto de un escudo (E&#xB0; 1).</div><br></div>"
+        }
+      ]
+    }
+  }
+]

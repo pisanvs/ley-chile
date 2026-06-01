@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6266081,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JUAN ASTUDILLO VALDES, PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JUAN ASTUDILLO VALDES, PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

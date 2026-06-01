@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1997-05-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-05-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7206437,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto exento N&#xBA; 686, de fecha 16 de Diciembre de 1996, del Ministerio de Educaci&#xF3;n, se declararon aprobados a la Universidad de Ciencias de la Inform&#xE1;tica, inscrita en el Registro de Universidades bajo el Folio C-N&#xBA; 32 de 1989, los siguientes post&#xED;tulos, para ser impartidos a contar de 1997, correspondiendo al Consejo Superior de Educaci&#xF3;n la verificaci&#xF3;n progresiva de su desarrollo:</div><br><br><div class=\"p\"> Post&#xED;tulo&nbsp; &nbsp;  : En Dise&#xF1;o Gr&#xE1;fico Computacional.</div><div class=\"p\"> Post&#xED;tulo&nbsp; &nbsp;  : En Inform&#xE1;tica Educativa.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto exento N&#xBA; 686, de fecha 16 de Diciembre de 1996, del Ministerio de Educaci&#xF3;n, se declararon aprobados a la Universidad de Ciencias de la Inform&#xE1;tica, inscrita en el Registro de Universidades bajo el Folio C-N&#xBA; 32 de 1989, los siguientes post&#xED;tulos, para ser impartidos a contar de 1997, correspondiendo al Consejo Superior de Educaci&#xF3;n la verificaci&#xF3;n progresiva de su desarrollo:</div><br><br><div class=\"p\">Post&#xED;tulo&nbsp; &nbsp;  : En Dise&#xF1;o Gr&#xE1;fico Computacional.</div><div class=\"p\">Post&#xED;tulo&nbsp; &nbsp;  : En Inform&#xE1;tica Educativa.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2020-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-11-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-04-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7153474,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AGREGA CAMINO RODELILLO - EL SALTO - VILLA DULCE, RENOMBRA UN TRAMO Y DESAFECTA EL TRAMO RESTANTE DE LA RUTA F-66, EN DECLARACION DE CAMINOS PUBLICOS DE LA V REGION DE VALPARAISO, SEGUN DECRETO N&#xB0; 236, DE 1989 N&#xFA;m. 844.- Santiago, 14 de Octubre de 1996.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; Estos antecedentes, lo dispuesto en el D.S. N&#xB0; 294 M.O.P. del 27/09/84, que fija el texto refundido, coordinado y sistematizado de la Ley 15.840 y del D.F.L.</div><div class=\"p\">N&#xB0; 206 de 1960, y el D.F.L. N&#xB0; 458 V. y U. de 1975, Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp; La necesidad de modificar lo establecido en el Decreto Supremo N&#xB0; 236 del 11/08/89, para incluir el nuevo camino construido por el M.O.P. y hacer los cambios que se requieren para optimizar el funcionamiento de la trama vial bajo nuestra tuici&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; La necesidad de coordinar las acciones de los servicios responsables de la construcci&#xF3;n y conservaci&#xF3;n de las obras de pavimentaci&#xF3;n de las calles o avenidas urbanas que unen caminos p&#xFA;blicos.</div><div class=\"p\">&nbsp; &nbsp; Que es necesario definir las calles o avenidas urbanas que ser&#xE1;n administradas por la Direcci&#xF3;n de Vialidad del Ministerio de Obras P&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp; Que el Decreto Supremo N&#xB0; 294 M.O.P. del 27/09/84, que fija el texto refundido, coordinado y sistematizado de la Ley 15.840 y del D.F.L. N&#xB0; 206 de 1960, permite declarar caminos p&#xFA;blicos a dichas calles o avenidas urbanas.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AGREGA CAMINO RODELILLO - EL SALTO - VILLA DULCE, RENOMBRA UN TRAMO Y DESAFECTA EL TRAMO RESTANTE DE LA RUTA F-66, EN DECLARACION DE CAMINOS PUBLICOS DE LA V REGION DE VALPARAISO, SEGUN DECRETO N&#xB0; 236, DE 1989 N&#xFA;m. 844.- Santiago, 14 de Octubre de 1996.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; Estos antecedentes, lo dispuesto en el D.S. N&#xB0; 294 M.O.P. del 27/09/84, que fija el texto refundido, coordinado y sistematizado de la Ley 15.840 y del D.F.L.</div><div class=\"p\">N&#xB0; 206 de 1960, y el D.F.L. N&#xB0; 458 V. y U. de 1975, Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp; La necesidad de modificar lo establecido en el Decreto Supremo N&#xB0; 236 del 11/08/89, para incluir el nuevo camino construido por el M.O.P. y hacer los cambios que se requieren para optimizar el funcionamiento de la trama vial bajo nuestra tuici&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; La necesidad de coordinar las acciones de los servicios responsables de la construcci&#xF3;n y conservaci&#xF3;n de las obras de pavimentaci&#xF3;n de las calles o avenidas urbanas que unen caminos p&#xFA;blicos.</div><div class=\"p\">&nbsp; &nbsp; Que es necesario definir las calles o avenidas urbanas que ser&#xE1;n administradas por la Direcci&#xF3;n de Vialidad del Ministerio de Obras P&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp; Que el Decreto Supremo N&#xB0; 294 M.O.P. del 27/09/84, que fija el texto refundido, coordinado y sistematizado de la Ley 15.840 y del D.F.L. N&#xB0; 206 de 1960, permite declarar caminos p&#xFA;blicos a dichas calles o avenidas urbanas.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

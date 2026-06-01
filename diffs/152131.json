@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-01-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-02-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8357265,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Der&#xF3;gase la declaraci&#xF3;n de Norma Oficial de la Rep&#xFA;blica de Chile de la norma NCh 1273.</div><div class=\"p\">Of. 76 Trigo para panificaci&#xF3;n, reposter&#xED;a y galleter&#xED;a, Especificaciones; dispuesta por la resoluci&#xF3;n N&#xBA; 381, de fecha 16.11.76, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Der&#xF3;gase la declaraci&#xF3;n de Norma Oficial de la Rep&#xFA;blica de Chile de la norma NCh 1237.<span class=\"n\" id=\"n_0\">RES 32 EXENTA<br>ECONOMIA<br>Art. 1&#xBA;<br>D.O. 02.02.2000</span> Of. 76 Trigo para panificaci&#xF3;n, reposter&#xED;a y galleter&#xED;a, Especificaciones; dispuesta por la resoluci&#xF3;n N&#xBA; 381, de fecha 16.11.76, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

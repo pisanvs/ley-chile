@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7229793,
+          "old": "<div><div class=\"p\">COMPLEMENTA RESOLUCION N&#xBA;. 981 DE 1985 SOBRE TRATAMIENTOS QUIMICOS ALTERNATIVOS EN PRODUCTOS VEGETALES QUE SE INTERNEN A GRANEL DESTINADOS A CONSUMO Y/O INDUSTRIALIZACION </div><br><div class=\"p\">Santiago, 05 de Diciembre de 1989.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">N&#xFA;m. 2.033 exenta.- Visto: Lo dispuesto en el Decreto Ley No. 3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola y las resoluciones N&#xB0;s. 39.350 de 1981, 106.981 de 1985 y 1296/87 expedidas por el Servicio Agr&#xED;cola y Ganadero y, </div><div class=\"p\">Considerando:</div><br><div class=\"p\">- Que es necesario establecer requisitos de ingreso para evitar la introducci&#xF3;n de plagas de los vegetales al territorio nacional.</div><div class=\"p\">- Que el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las condiciones que necesitan cumplir las mercader&#xED;as peligrosas de importaci&#xF3;n.</div><div class=\"p\">- Que la utilizaci&#xF3;n de fumigantes est&#xE1; prohibida en algunos pa&#xED;ses, y - Que existen tratamientos de alternativa.</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA RESOLUCION N&#xBA;. 981 DE 1985 SOBRE TRATAMIENTOS QUIMICOS ALTERNATIVOS EN PRODUCTOS VEGETALES QUE SE INTERNEN A GRANEL DESTINADOS A CONSUMO Y/O INDUSTRIALIZACION </div><br><div class=\"p\">Santiago, 05 de Diciembre de 1989.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">N&#xFA;m. 2.033 exenta.- Visto: Lo dispuesto en el Decreto Ley No. 3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola y las resoluciones N&#xB0;s. 39.350 de 1981, 106.981 de 1985 y 1296/87 expedidas por el Servicio Agr&#xED;cola y Ganadero y, </div><div class=\"p\">Considerando:</div><br><div class=\"p\">- Que es necesario establecer requisitos de ingreso para evitar la introducci&#xF3;n de plagas de los vegetales al territorio nacional.</div><div class=\"p\">- Que el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las condiciones que necesitan cumplir las mercader&#xED;as peligrosas de importaci&#xF3;n.</div><div class=\"p\">- Que la utilizaci&#xF3;n de fumigantes est&#xE1; prohibida en algunos pa&#xED;ses, y - Que existen tratamientos de alternativa.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

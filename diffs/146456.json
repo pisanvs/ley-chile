@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1987-10-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-03-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8964109,
+          "old": "<div><div class=\"p\">DECLARA MONUMENTO HISTORICO LA IGLESIA Y EL CONVENTO DE LAS CARMELITAS DESCALZAS DE LOS ANDES</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 788.- Santiago, 23 de Septiembre de 1987.</div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que los m&#xE9;ritos arquitect&#xF3;nicos de la Iglesia y el Convento de las Carmelitas Descalzas de Los Andes levantados en estructuras de ladrillo entre 1920 - 25, son modestos. Podemos citar talvez el frontispicio de la iglesia que, en una curiosa soluci&#xF3;n inspirada en el g&#xF3;tico, levanta su estructura a manera de espada&#xF1;a y los dos primeros patios del monasterio;</div><div class=\"p\">&nbsp; &nbsp;  Que no obstante, especial consideraci&#xF3;n merece el recuerdo y beatificaci&#xF3;n de Sor Teresa de Los Andes que hizo su vida religiosa en dicho monasterio; y Visto: Lo dispuesto en la Ley No. 17.288 de 1970; lo solicitado por el Alcalde de la I. Municipalidad de Los Andes; acuerdo de sesi&#xF3;n de 05 de agosto de 1987 del Consejo de Monumentos Nacionales; lo expuesto por la Priora de las Carmelitas Descalzas del Monasterio del Esp&#xED;ritu Santo; y en los art&#xED;culos 32 No. 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA MONUMENTO HISTORICO LA IGLESIA Y EL CONVENTO DE LAS CARMELITAS DESCALZAS DE LOS ANDES N&#xFA;m. 788.- Santiago, 23 de Septiembre de 1987. Considerando: Que los m&#xE9;ritos arquitect&#xF3;nicos de la Iglesia y el Convento de las Carmelitas Descalzas de Los Andes levantados en estructuras de ladrillo entre 1920 - 25, son modestos. Podemos citar talvez el frontispicio de la iglesia que, en una curiosa soluci&#xF3;n inspirada en el g&#xF3;tico, levanta su estructura a manera de espada&#xF1;a y los dos primeros patios del monasterio; Que, no obstante, especial consideraci&#xF3;n merece<span class=\"n\" id=\"n_0\">DTO 57, EDUCACION<br>Art. &#xFA;nico a)<br>D.O. 16.03.1988</span> el recuerdo y beatificaci&#xF3;n de Sor Teresa de Los Andes cuyos restos estuvieron en este lugar para la veneraci&#xF3;n de los fieles. Visto: Lo dispuesto en la Ley No. 17.288 de 1970; lo solicitado por el Alcalde de la I. Municipalidad de Los Andes; acuerdo de sesi&#xF3;n de 05 de agosto de 1987 del Consejo de Monumentos Nacionales; lo expuesto por la Priora de las Carmelitas Descalzas del Monasterio del Esp&#xED;ritu Santo; y en los art&#xED;culos 32 No. 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, Decreto: </div></div>"
+        },
+        {
+          "part_id": 8964110,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Decl&#xE1;rase Monumento Hist&#xF3;rico la Iglesia y el Convento de las Carmelitas Descalzas de Los Andes, provincia de Los Andes, V Regi&#xF3;n de Valpara&#xED;so. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Decl&#xE1;rase Monumento Hist&#xF3;rico la Iglesia y Coro adyacente de las Carmelitas Descalzas<span class=\"n\" id=\"n_1\">DTO 57, EDUCACION<br>Art. &#xFA;nico b)<br>D.O. 16.03.1988</span> de Los Andes, provincia de Los Andes, V Regi&#xF3;n de Valpara&#xED;so. </div></div>"
+        }
+      ]
+    }
+  }
+]

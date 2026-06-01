@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-08-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-08-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6297327,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: As&#xED;gnase a la Secretaria Ministerial de Educaci&#xF3;n de la V Regi&#xF3;n de Valpara&#xED;so, para su uso privativo, en las funciones inherentes a su respectivo cargo, el veh&#xED;culo que se indica a continuaci&#xF3;n:</div><br><br><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  Autom&#xF3;vil.</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  Subaru.</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  Legacy 2.0.</div><div class=\"p\">A&#xF1;o fabricaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  1995.</div><div class=\"p\">N&#xBA;motor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  125506.</div><div class=\"p\">N&#xBA;chasis&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  007730.</div><div class=\"p\">Reg. Nacional Veh&#xED;culos</div><div class=\"p\">Motorizados&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  LY 8613-5.</div><div class=\"p\">Placa Unica&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  LY 8613-5.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: As&#xED;gnase a la Secretaria Ministerial<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> de Educaci&#xF3;n de la V Regi&#xF3;n de Valpara&#xED;so, para su uso privativo, en las funciones inherentes a su respectivo cargo, el veh&#xED;culo que se indica a continuaci&#xF3;n:</div><br><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : Autom&#xF3;vil.</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Subaru.</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : Legacy 2.0.</div><div class=\"p\">A&#xF1;o fabricaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; : 1995.</div><div class=\"p\">N&#xBA;motor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 125506.</div><div class=\"p\">N&#xBA;chasis&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : 007730.</div><div class=\"p\">Reg. Nacional Veh&#xED;culos</div><div class=\"p\">Motorizados&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : LY 8613-5.</div><div class=\"p\">Placa Unica&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : LY 8613-5.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 6&#xBA; del DTO 657 exento, Educaci&#xF3;n, publicado el 27.08.2002, modific&#xF3; el presente art&#xED;culo, en el sentido que el veh&#xED;culo de que trata se asigna al Secretario Ministerial de Educaci&#xF3;n de la II Regi&#xF3;n de Antofagasta, en las mismas condiciones se&#xF1;aladas en el presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

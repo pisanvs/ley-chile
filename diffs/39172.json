@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-05-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6023157,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA VALORES Y PORCENTAJES DE REDUCCION DE EMISIONES DE MATERIAL PARTICULADO QUE INDICA, PARA EFECTOS QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 623 exenta.- Santiago, 13 de Mayo de 1994.- Visto: Lo establecido en los art&#xED;culos 67 y 89 letra a) del C&#xF3;digo Sanitario; en los decretos supremos N&#xB0; 4 y N&#xB0; 1.583, ambos de 1992 y N&#xB0; 1.905 de 1993 todos del Ministerio de Salud; y teniendo presente las facultades que me otorga el punto 7&#xB0; del decreto supremo N&#xB0; 32, de 1990, modificado y complementado por el decreto supremo N&#xB0; 322, de 1991, ambos del Ministerio de Salud respectivamente publicados en el Diario Oficial del 24 de mayo de 1990, y del 7 de mayo de 1991, que aprueba el reglamento de funcionamiento de fuentes emisoras de contaminantes atmosf&#xE9;ricos que indica, en situaciones de emergencia de contaminaci&#xF3;n atmosf&#xE9;rica,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA VALORES Y PORCENTAJES DE REDUCCION DE EMISIONES DE MATERIAL PARTICULADO QUE INDICA, PARA EFECTOS QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 623 exenta.- Santiago, 13 de Mayo de 1994.- Visto: Lo establecido en los art&#xED;culos 67 y 89 letra a) del C&#xF3;digo Sanitario; en los decretos supremos N&#xB0; 4 y N&#xB0; 1.583, ambos de 1992 y N&#xB0; 1.905 de 1993 todos del Ministerio de Salud; y teniendo presente las facultades que me otorga el punto 7&#xB0; del decreto supremo N&#xB0; 32, de 1990, modificado y complementado por el decreto supremo N&#xB0; 322, de 1991, ambos del Ministerio de Salud respectivamente publicados en el Diario Oficial del 24 de mayo de 1990, y del 7 de mayo de 1991, que aprueba el reglamento de funcionamiento de fuentes emisoras de contaminantes atmosf&#xE9;ricos que indica, en situaciones de emergencia de contaminaci&#xF3;n atmosf&#xE9;rica,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

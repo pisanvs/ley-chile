@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2004-10-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-01-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6499754,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO DE &quot;TITULOS Y GRADOS DE LA ESCUELA TECNICA AERONAUTICA&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 39.- Santiago, 9 de febrero de 2004.- Vistos: lo dispuesto en el art&#xED;culo 32, N&#xBA; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado; los art&#xED;culos 29, 71, 72 de la ley N&#xBA; 18.962 y los art&#xED;culos 1&#xBA; y 3&#xBA; letra p) de la ley N&#xBA; 16.752.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: que es necesario dictar un nuevo Reglamento de T&#xED;tulos y Grados de la Escuela T&#xE9;cnica Aeron&#xE1;utica que incorpore las modificaciones sobre especialidades y duraci&#xF3;n de las carreras profesionales; lo solicitado por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil, mediante oficio ordinario N&#xBA; 05/0/2378/5497 de 14.Nov.2003; y el oficio ordinario de la Subsecretar&#xED;a de Aviaci&#xF3;n (Auditor&#xED;a) N&#xBA; 415 de fecha 04.Feb.2004, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO DE &quot;TITULOS Y GRADOS DE LA ESCUELA TECNICA AERONAUTICA&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 39.- Santiago, 9 de febrero de 2004.- Vistos: lo dispuesto en el art&#xED;culo 32, N&#xBA; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado; los art&#xED;culos 29, 71, 72 de la ley N&#xBA; 18.962 y los art&#xED;culos 1&#xBA; y 3&#xBA; letra p) de la ley N&#xBA; 16.752.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: que es necesario dictar un nuevo Reglamento de T&#xED;tulos y Grados de la Escuela T&#xE9;cnica Aeron&#xE1;utica que incorpore las modificaciones sobre especialidades y duraci&#xF3;n de las carreras profesionales; lo solicitado por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil, mediante oficio ordinario N&#xBA; 05/0/2378/5497 de 14.Nov.2003; y el oficio ordinario de la Subsecretar&#xED;a de Aviaci&#xF3;n (Auditor&#xED;a) N&#xBA; 415 de fecha 04.Feb.2004, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-01-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

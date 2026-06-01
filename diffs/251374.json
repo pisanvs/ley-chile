@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-10-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949892,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;. Las formas propagand&#xED;sticas o publicitarias a que se refiere el art&#xED;culo anterior, en sus estructuras, soportes e instalaciones se conceptuar&#xE1;n como obras menores para los efectos previstos en la Ordenanza General de Urbanismo y Construcciones y requerir&#xE1;n, para su instalaci&#xF3;n, permiso de la Direcci&#xF3;n de Obras Municipales.</div><div class=\"p\">&nbsp; &nbsp;  En ning&#xFA;n caso podr&#xE1;n ellas afectar las condiciones estructurales, funcionales y est&#xE9;ticas de los edificios, construcciones o espacios a los cuales se adosen, pendan o sobre los que se sit&#xFA;en, debiendo guardar armon&#xED;a o ajustarse al estilo arquitect&#xF3;nico de los mismos. Del mismo modo no podr&#xE1;n comprometer la seguridad, la habitabilidad y la comodidad de los usuarios de espacios p&#xFA;blicos o de los edificios, ni podr&#xE1;n cubrir los vanos de puertas y/o ventanas de &#xE9;stos.</div><div class=\"p\">&nbsp; &nbsp;  La Municipalidad mediante Decreto Alcaldicio, podr&#xE1; establecer caracter&#xED;sticas espec&#xED;ficas y determinadas de dise&#xF1;o para autorizar la instalaci&#xF3;n de avisos o formas propagand&#xED;sticas o publicitarias en los edificios, v&#xED;as o sitios y espacios p&#xFA;blicos importantes, cuando sea de inter&#xE9;s del municipio obtener un efecto arm&#xF3;nico en el entorno y la adopci&#xF3;n de un determinado estilo en esa calle, avenida, plaza o espacio p&#xFA;blico, o en una cierta extensi&#xF3;n de ellos.</div><div class=\"p\">&nbsp; &nbsp;  Los avisos de propaganda o publicidad, s&#xF3;lo podr&#xE1;n mantenerse mientras subsistan las condiciones que autorizaron su instalaci&#xF3;n y sus propietarios se encuentren al d&#xED;a en el pago de los derechos municipales por concepto de propaganda que correspondan, de acuerdo a la Ordenanza respectiva.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;. Las formas propagand&#xED;sticas o publicitarias a que se refiere el art&#xED;culo anterior, en sus estructuras, soportes e instalaciones se conceptuar&#xE1;n como obras menores para los efectos previstos en la Ordenanza General de Urbanismo y Construcciones y requerir&#xE1;n, para su instalaci&#xF3;n, permiso de la Direcci&#xF3;n de Obras Municipales, si<span class=\"n\" id=\"n_0\">DTO 1113,<br>M. DE LA GRANJA<br>D.O. 17.10.1997</span> su emplazamiento se realiza en Bienes Nacionales de Uso P&#xFA;blico se requerir&#xE1;, adem&#xE1;s, de un informe favorable de la Direcci&#xF3;n de Tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  En ning&#xFA;n caso podr&#xE1;n ellas afectar las condiciones estructurales, funcionales y est&#xE9;ticas de los edificios, construcciones o espacios a los cuales se adosen, pendan o sobre los que se sit&#xFA;en, debiendo guardar armon&#xED;a o ajustarse al estilo arquitect&#xF3;nico de los mismos. Del mismo modo no podr&#xE1;n comprometer la seguridad, la habitabilidad y la comodidad de los usuarios de espacios p&#xFA;blicos o de los edificios, ni podr&#xE1;n cubrir los vanos de puertas y/o ventanas de &#xE9;stos.</div><div class=\"p\">&nbsp; &nbsp;  La Municipalidad mediante Decreto Alcaldicio, podr&#xE1; establecer caracter&#xED;sticas espec&#xED;ficas y determinadas de dise&#xF1;o para autorizar la instalaci&#xF3;n de avisos o formas propagand&#xED;sticas o publicitarias en los edificios, v&#xED;as o sitios y espacios p&#xFA;blicos importantes, cuando sea de inter&#xE9;s del municipio obtener un efecto arm&#xF3;nico en el entorno y la adopci&#xF3;n de un determinado estilo en esa calle, avenida, plaza o espacio p&#xFA;blico, o en una cierta extensi&#xF3;n de ellos.</div><div class=\"p\">&nbsp; &nbsp;  Los avisos de propaganda o publicidad, s&#xF3;lo podr&#xE1;n mantenerse mientras subsistan las condiciones que autorizaron su instalaci&#xF3;n y sus propietarios se encuentren al d&#xED;a en el pago de los derechos municipales por concepto de propaganda que correspondan, de acuerdo a la Ordenanza respectiva.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

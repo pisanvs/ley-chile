@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-05-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-04-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6167113,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 99 EXENTO, DE 1999</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 99 EXENTO, DE 1999</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

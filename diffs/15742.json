@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-05-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7153337,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;: Para los efectos del presente decreto se entender&#xE1; por fuentes estacionarias puntuales existentes, reguladas por los decretos supremos N&#xB0; 4 o N&#xB0; 1.583, ambos de 1992, del Ministerio de Salud, las que cumplan con los siguientes requisitos:</div><div class=\"p\"> 1.- Que se acredite su funcionamiento a la</div><div class=\"p\">&nbsp; &nbsp;  fecha de publicaci&#xF3;n del respectivo decreto supremo que las regula;</div><div class=\"p\"> 2.- Que cumplan con alguna de las siguientes especificaciones:</div><div class=\"p\">&nbsp; &nbsp;  a) Que se posea la respectiva autorizaci&#xF3;n de instalaci&#xF3;n del establecimiento donde se ubica la fuente, a la fecha de publicaci&#xF3;n del decreto que las regula;</div><div class=\"p\">&nbsp; &nbsp;  b) Que la fuente se encontraba registrada en el Servicio, en fecha previa a la publicaci&#xF3;n del decreto que las regula, o bien, que inici&#xF3; las gestiones pertinentes para registrarla con anterioridad a dicha fecha.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;: DEROGADO<span class=\"n\" id=\"n_0\">DTO 58,<br>SEC. GRAL. PRES.<br>Art. 91<br>D.O. 29.01.2004</span></div><div class=\"p\"> </div></div>"
+        }
+      ]
+    }
+  }
+]

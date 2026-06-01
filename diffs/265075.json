@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-09-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-05-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8655129,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Ampl&#xED;ase, a contar del d&#xED;a primero del mes siguiente al de publicaci&#xF3;n de esta ley, hasta un m&#xE1;ximo de treinta y seis meses, en cuotas fijas o variables, el plazo que el inciso primero del art&#xED;culo 192 del C&#xF3;digo Tributario concede al Servicio de Tesorer&#xED;as para otorgar facilidades para el pago de impuestos adeudados, s&#xF3;lo respecto de aquellos impuestos girados hasta el d&#xED;a 30 de junio de 2007 y que se encuentren sujetos a cobranza administrativa o judicial. La facultad que se concede al Servicio de Tesorer&#xED;as en este art&#xED;culo, se podr&#xE1; ejercer por el lapso de seis meses, contados desde la fecha de vigencia de esta ley. La primera de las cuotas deber&#xE1; ser enterada al momento de suscribir el convenio, no pudiendo exceder su monto una treintaiseisava parte del monto total adeudado, salvo que el deudor, en forma expresa, solicite pagar un monto mayor.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Ampl&#xED;ase, a contar del d&#xED;a primero del mes siguiente al de publicaci&#xF3;n de esta ley, hasta un m&#xE1;ximo de treinta y seis meses, en cuotas fijas o variables, el plazo que el inciso primero del art&#xED;culo 192 del C&#xF3;digo Tributario concede al Servicio de Tesorer&#xED;as para otorgar facilidades para el pago de impuestos adeudados, s&#xF3;lo respecto de aquellos impuestos girados hasta el d&#xED;a 31 de marzo de 2008 y que se<span class=\"n\" id=\"n_0\">LEY 20263<br>Art. 8&#xBA; N&#xBA; 1<br>D.O. 02.05.2008<br>LEY 20263<br>Art. 8&#xBA; N&#xBA; 2<br>D.O. 02.05.2008</span> encuentren sujetos a cobranza administrativa o judicial. La facultad que se concede al Servicio de Tesorer&#xED;as en este art&#xED;culo, se podr&#xE1; ejercer por el lapso de siete meses, contados desde la fecha de vigencia de esta ley. La primera de las cuotas deber&#xE1; ser enterada al momento de suscribir el convenio, no pudiendo exceder su monto<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> una treintaiseisava parte del monto total adeudado, salvo que el deudor, en forma expresa, solicite pagar un monto mayor.</div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. segundo transitorio de la LEY 20263, publicada el 02.05.2008, dispuso que la modificaci&#xF3;n introducida en el presente art&#xED;culo rige a contar del 1&#xBA; de abril de 2008.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

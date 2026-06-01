@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-06-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-11-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002703,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Establ&#xE9;cese una veda estacional para los recursos centolla y centoll&#xF3;n durante el per&#xED;odo comprendido entre el 01 de Diciembre de cada a&#xF1;o y el 31 de enero del a&#xF1;o siguiente, ambas fechas inclusive.</div><div class=\"p\">&nbsp; &nbsp;  Durante el per&#xED;odo de veda fijado en el inciso precedente se prohibe la extracci&#xF3;n, tenencia, posesi&#xF3;n, industrializaci&#xF3;n, comercializaci&#xF3;n y transporte de estas especies.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Establ&#xE9;cese una veda estacional para los recursos centolla y centoll&#xF3;n durante el per&#xED;odo comprendido entre el 01 de Diciembre de cada a&#xF1;o y el 31 de enero del a&#xF1;o siguiente, ambas fechas inclusive. Durante el per&#xED;odo de veda fijado en el inciso precedente se prohibe la extracci&#xF3;n, tenencia, posesi&#xF3;n, industrializaci&#xF3;n, comercializaci&#xF3;n y transporte de estas especies. Lo dispuesto en el inciso primero de este art&#xED;culo<span class=\"n\" id=\"n_0\">DTO 332, ECONOMIA<br>Art. 1&#xBA;<br>D.O. 05.11.1986</span> regir&#xE1; a partir del a&#xF1;o 1987. </div></div>"
+        }
+      ]
+    }
+  }
+]

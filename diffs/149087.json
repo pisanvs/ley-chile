@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-05-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6211072,
+          "old": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO EN DIAS QUE INDICA, SIN OBLIGACION DE USAR DISCO DISTINTIVO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 42.- Santiago, 10 de Marzo de 1987.- Vistos: Las necesidades del Servicio y lo dispuesto en los art&#xED;culos 10 No. I del Decreto Ley 527, de 1974 y en los art&#xED;culos 1&#xB0; y 3&#xB0; del Decreto Ley No. 799 de 1974, y</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que por la naturaleza de las funciones que se deben desempe&#xF1;ar en el Departamento de Emergencia y Coordinaci&#xF3;n de los Servicios de Seguridad del Ministerio de Obras P&#xFA;blicas, es necesario que el veh&#xED;culo fiscal asignado pueda permanecer en circulaci&#xF3;n durante los d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos, como asimismo que lo haga sin uso del disco distintivo estatal para el mejor cumplimiento de los asuntos del Servicio,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO EN DIAS QUE INDICA, SIN OBLIGACION DE USAR DISCO DISTINTIVO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 42.- Santiago, 10 de Marzo de 1987.- Vistos: Las necesidades del Servicio y lo dispuesto en los art&#xED;culos 10 No. I del Decreto Ley 527, de 1974 y en los art&#xED;culos 1&#xB0; y 3&#xB0; del Decreto Ley No. 799 de 1974, y</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que por la naturaleza de las funciones que se deben desempe&#xF1;ar en el Departamento de Emergencia y Coordinaci&#xF3;n de los Servicios de Seguridad del Ministerio de Obras P&#xFA;blicas, es necesario que el veh&#xED;culo fiscal asignado pueda permanecer en circulaci&#xF3;n durante los d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos, como asimismo que lo haga sin uso del disco distintivo estatal para el mejor cumplimiento de los asuntos del Servicio,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

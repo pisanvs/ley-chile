@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2001-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6315770,
+          "old": "<div><div class=\"p\">APRUEBA ACTA DE CIERRE DE RECEPCION DE SOLICITUDES DE DERECHO EXCLUSIVO DE CONCESIONES GEOTERMICAS (ART. TRANSITORIO LEY 19.657)</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 6&nbsp; exenta.- Santiago, 8 de enero de 2001.- Visto:&nbsp; Las disposiciones contenidas en la Ley 19.657, particularmente en su Art&#xED;culo Transitorio y el&nbsp; &quot;Acta de Cierre de Solicitudes de Concesiones Geot&#xE9;rmicas, Art&#xED;culo Transitorio&nbsp; Ley 19.657&quot;.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o :</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA ACTA DE CIERRE DE RECEPCION DE SOLICITUDES DE DERECHO EXCLUSIVO DE CONCESIONES GEOTERMICAS (ART. TRANSITORIO LEY 19.657)</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 6&nbsp; exenta.- Santiago, 8 de enero de 2001.- Visto:&nbsp; Las disposiciones contenidas en la Ley 19.657, particularmente en su Art&#xED;culo Transitorio y el&nbsp; &quot;Acta de Cierre de Solicitudes de Concesiones Geot&#xE9;rmicas, Art&#xED;culo Transitorio&nbsp; Ley 19.657&quot;.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o :</div><br><br><br></div>"
+        },
+        {
+          "part_id": 6315771,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.-&nbsp; Apru&#xE9;base el Acta de Cierre de Solicitudes de</div><div class=\"p\">Concesiones Geot&#xE9;rmicas, Art&#xED;culo Transitorio, Ley</div><div class=\"p\">19.657, cuyo texto es el siguiente:</div><br><br><div class=\"p\">ACTA DE CIERRE DE SOLICITUDES DE CONCESIONES GEOTERMICA,</div><div class=\"p\">ARTICULO TRANSITORIO LEY N&#xB0; 19.657</div><br><div class=\"p\">&nbsp; &nbsp;  En Santiago, a 7 de enero del 2001, siendo las 24 horas, se cierra el per&#xED;odo de recepci&#xF3;n de solicitudes de concesiones geot&#xE9;rmicas efectuadas al amparo del art&#xED;culo transitorio de la ley 19.657, por vencimiento de plazo fatal contemplado en dicho precepto legal.</div><br><div class=\"p\">&nbsp; &nbsp;  La n&#xF3;mina de solicitudes presentadas fue la siguiente:</div><br><div class=\"p\">VER D.O. DE 10.01.2001, PAGINA 3</div><br><div class=\"p\">&nbsp; &nbsp;  2.- La referida acta constituir&#xE1; el documento suficiente para acreditar el ejercicio del derecho concedido en el Art&#xED;culo Transitorio de la Ley 19.657. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.-&nbsp; Apru&#xE9;base el Acta de Cierre de Solicitudes de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Concesiones Geot&#xE9;rmicas, Art&#xED;culo Transitorio, Ley 19.657, cuyo texto es el siguiente:</div><br><br><div class=\"p\">ACTA DE CIERRE DE SOLICITUDES DE CONCESIONES GEOTERMICA, ARTICULO TRANSITORIO LEY N&#xB0; 19.657</div><br><div class=\"p\">&nbsp; &nbsp;  En Santiago, a 7 de enero del 2001, siendo las 24 horas, se cierra el per&#xED;odo de recepci&#xF3;n de solicitudes de concesiones geot&#xE9;rmicas efectuadas al amparo del art&#xED;culo transitorio de la ley 19.657, por vencimiento de plazo fatal contemplado en dicho precepto legal.</div><br><div class=\"p\">&nbsp; &nbsp;  La n&#xF3;mina de solicitudes presentadas fue la siguiente:</div><br><div class=\"p\">VER D.O. DE 10.01.2001, PAGINA 3</div><br><div class=\"p\">&nbsp; &nbsp;  2.- La referida acta constituir&#xE1; el documento suficiente para acreditar el ejercicio del derecho concedido en el Art&#xED;culo Transitorio de la Ley 19.657.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 125 Exenta, Miner&#xED;a, publicada el 20.03.2001 modific&#xF3; la presente resoluci&#xF3;n en el sentido de rectificar en el numeral 1 los datos de la n&#xF3;mina de solicitudes presentadas, en la forma que en dicha norma se se&#xF1;ala.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

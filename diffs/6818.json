@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-01-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9036661,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; PRORROGA VIGENCIA DISPOSICIONES DECRETOS LEYES N&#xB0; 231, DE 1973, Y 994, DE 1975</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.083.- Santiago, 28 de Diciembre de 1977.- Visto: lo dispuesto en los decretos leyes N&#xB0;s 1 y 128, de 1973; 527, de 1974, y 991, de 1976,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; PRORROGA VIGENCIA DISPOSICIONES DECRETOS LEYES N&#xB0; 231, DE 1973, Y 994, DE 1975.-&nbsp; DEROGADO.<span class=\"n\" id=\"n_0\">LEY 18900<br>ART. 7&#xB0;</span></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.083.- Santiago, 28 de Diciembre de 1977.-</div><div class=\"p\">Visto: lo dispuesto en los decretos leyes N&#xB0;s 1 y 128,<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div> de 1973; 527, de 1974, y 991, de 1976,<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 2</a></div></div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 7&#xB0; de la Ley N&#xB0; 18.900, publicada en el &quot;Diario oficial&quot; de 16 de enero de 1990, derog&#xF3; el presente decreto ley.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El texto de este decreto ley derogado se encuentra en una cinta de normas derogadas BDTO.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

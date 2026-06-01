@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-11-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9046739,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS SOBRE SEGUROS DE DEPOSITOS Y CAPTACIONES</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; LEY N&#xB0; 18.080&nbsp;  DEROGADA<span class=\"n\" id=\"n_0\">LEY 18576<br>Art. 4&#xB0;</span></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div></div><div class=\"p\">&nbsp; &nbsp;  Establece normas sobre seguros de dep&#xF3;sitos <div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 2</a></div>y</div><div class=\"p\"> captaciones</div><div class=\"p\">&nbsp; &nbsp; (Publicada en el Diario Oficial del 16 de diciembre de 1981) </div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  Esta ley fue derogada por la ley 18576, del M. Hacienda, D. OF. 27 de Noviembre de 1986. </div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El texto de esta ley se encuentra en una cinta de normas derogadas BDTA.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

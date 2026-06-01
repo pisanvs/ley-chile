@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-03-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8323407,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA TRAFALGAR S.A. PARA SUSTITUIR EMBARCACION QUE INDICA. DEJA SIN EFECTO RESOLUCION QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA TRAFALGAR S.A. PARA SUSTITUIR EMBARCACION QUE INDICA. DEJA SIN EFECTO RESOLUCION QUE SE&#xD1;ALA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

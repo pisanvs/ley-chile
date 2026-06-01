@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-04-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8453790,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Prorr&#xF3;gase, hasta el 31 de diciembre de 1992, la vigencia de los actuales aval&#xFA;os de los bienes ra&#xED;ces agr&#xED;colas, con sujeci&#xF3;n a todas las normas aplicables a la determinaci&#xF3;n de dichos aval&#xFA;os, en especial, las dispuestas en el decreto ley N&#xB0; 2.325, de 1978, y f&#xED;jase a contar del 1 de enero de 1993 la vigencia de los nuevos aval&#xFA;os que se determinen de acuerdo con las normas del art&#xED;culo 3&#xB0; de la ley N&#xB0; 17.235.</div><div class=\"p\">&nbsp; &nbsp; Para la fijaci&#xF3;n de los nuevos aval&#xFA;os, el Servicio de Impuestos Internos podr&#xE1; eximir de la obligaci&#xF3;n de presentar la declaraci&#xF3;n a que se refiere el art&#xED;culo 3&#xB0; de la ley N&#xB0; 17.235, a todos los contribuyentes o a una parte de ellos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Prorr&#xF3;gase, hasta el 30 de junio de 1996, la vigencia de los actuales aval&#xFA;os de los bienes ra&#xED;ces agr&#xED;colas,<span class=\"n\" id=\"n_0\"><br>LEY 19182<br>Art. 25</span> con sujeci&#xF3;n a todas las normas aplicables a la determinaci&#xF3;n de dichos aval&#xFA;os, en especi<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:&nbsp; 1</a></div>al, las dispuestas en el decreto ley N&#xB0; 2.325, de 1978, y f&#xED;jase a contar del 1&#xB0; de julio de 1996 la vigencia de <span class=\"n\" id=\"n_1\">LEY 19259<br>Art. 27</span>los nuevos aval&#xFA;os que se determinen de acuerdo con las normas del art&#xED;culo 3&#xB0; de la ley N&#xB0; 17.235.</div><div class=\"p\">&nbsp; &nbsp; Para l<div class=\"n rnp\" id=\"rnp4\"><a href=\"#np4\">NOTA:&nbsp; 2</a></div>a fijaci&#xF3;n <span class=\"n\" id=\"n_2\">LEY 19339<br>art. 2<br>LEY 19380<br>Art. 8&#xB0;</span>de los nuevos aval&#xFA;os, el Servicio de Impuestos Internos podr&#xE1; eximir de la obligaci&#xF3;n de presentar la declaraci&#xF3;n a que se refiere el art&#xED;culo 3&#xB0; de la ley N&#xB0; 17.235, a todos los contribuyentes o a una parte de ellos.</div><br><br><br><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 19 de la ley N&#xB0; 19.182, publicada en el &quot;Diario Oficial&quot; de 9 de diciembre de 1992, orden&#xF3; que sus disposiciones regir&#xE1;n a contar del 1&#xB0; de enero de 1993, sin perjuicio de que puedan dictarse en el mes de diciembre de 1992 los decretos a que se refieren los art&#xED;culos 3&#xB0; y 4&#xB0; y las resoluciones indicadas en dicho art&#xED;culo 4&#xB0;.<br></div><div class=\"np\" id=\"np4\"><a href=\"#rnp4\">NOTA:&nbsp; 2</a> <br>&nbsp; El Art&#xED;culo 25 de la Ley N&#xB0; 19.259, publicada en el &quot;Diario Oficial&quot; de 10 de Noviembre de 1993, orden&#xF3; que las disposiciones de la misma regir&#xE1;n a contar del 1&#xB0; de enero de 1994, sin perjuicio de que puedan dictarse a contar de la fecha de su publicaci&#xF3;n los decretos a que se refieren los art&#xED;culos 3&#xB0; y 5&#xB0; y las resoluciones indicadas en dicho art&#xED;culo 5&#xB0;.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

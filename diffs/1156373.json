@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-12-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10206784,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese la Red Vial B&#xE1;sica de la comuna de Talcahuano, la que estar&#xE1; constituida por aquellas v&#xED;as comprendidas en su radio urbano, que, conforme la categor&#xED;a vial correspondiente, se detallan en el siguiente cuadro:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/120904.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Cualquier modificaci&#xF3;n a las caracter&#xED;sticas f&#xED;sicas u operacionales de las v&#xED;as antes individualizadas, que comprometan la operaci&#xF3;n de veh&#xED;culos y/o peatones, as&#xED; como los proyectos de construcci&#xF3;n de nuevas v&#xED;as que incidan en la red vial b&#xE1;sica, deber&#xE1;n contar con la aprobaci&#xF3;n de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n Metropolitana de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  3. La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese la Red Vial B&#xE1;sica de la comuna de Talcahuano, la que estar&#xE1; constituida por aquellas v&#xED;as comprendidas en su radio urbano, que, conforme la categor&#xED;a vial correspondiente, se detallan en el siguiente cuadro:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1186949&amp;idParte=10390338&amp;idVersion=2022-12-23\">Resoluci&#xF3;n 2393 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 23.12.2022</a></span><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/158090.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Cualquier modificaci&#xF3;n a las caracter&#xED;sticas f&#xED;sicas u operacionales de las v&#xED;as antes individualizadas, que comprometan la operaci&#xF3;n de veh&#xED;culos y/o peatones, as&#xED; como los proyectos de construcci&#xF3;n de nuevas v&#xED;as que incidan en la red vial b&#xE1;sica, deber&#xE1;n contar con la aprobaci&#xF3;n de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n Metropolitana de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  3. La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1186949,
+      "fecha": "2022-12-23"
+    }
+  }
+]

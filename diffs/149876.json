@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6214104,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase el enriquecimiento del producto alimenticio &quot;Cocoa Raff&quot;, elaborado por la empresa Corpora Tres Montes, fortific&#xE1;ndolo en la forma que a continuaci&#xF3;n se indica, por cada porci&#xF3;n de 30 gramos:</div><div class=\"p\">Calcio&nbsp; &nbsp; 200 mg</div><div class=\"p\">Fosfato&nbsp;  114 mg</div><div class=\"p\">Hierro&nbsp; &nbsp; 2,8 mg</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase el enriquecimiento del producto alimenticio &quot;Cocoa Raff&quot;, elaborado por la empresa Corpora Tres Montes, fortific&#xE1;ndolo en la forma que a continuaci&#xF3;n se indica, por cada porci&#xF3;n de 30 gramos:</div><div class=\"p\">Calcio&nbsp; &nbsp; 200 mg</div><div class=\"p\">F&#xF3;sforo&nbsp;  114 mg<span class=\"n\" id=\"n_0\">RES 866 EXENTA,<br>SALUD<br>N&#xBA; 1<br>D.O. 02.06.2001</span></div><div class=\"p\">Hierro&nbsp; &nbsp; 2,8 mg</div><br></div>"
+        }
+      ]
+    }
+  }
+]

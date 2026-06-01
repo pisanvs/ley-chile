@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "2001-01-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-02-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6314797,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- F&#xED;jase para el per&#xED;odo enero-julio del a&#xF1;o 2001, una cuota de 525 toneladas, la que se imputar&#xE1; a la cuota global anual de captura y se fraccionar&#xE1; de la siguiente manera:</div><br><div class=\"p\">&nbsp; &nbsp;  1) 420 toneladas en el &#xE1;rea de pesca denominada Aguas Interiores Norte, comprendida entre los paralelos 41&#xB0;28,6&apos; y 47&#xB0; L.S.</div><br><div class=\"p\">&nbsp; &nbsp;  La se&#xF1;alada cuota se subdividir&#xE1; de la siguiente manera:</div><div class=\"p\">&nbsp; &nbsp;  a) Paralelo 41&#xB0;28,6&apos; L.S. al l&#xED;mite sur de la X Regi&#xF3;n: 30 toneladas mensuales.</div><br><div class=\"p\">&nbsp; &nbsp;  b) L&#xED;mite norte de la XI Regi&#xF3;n al paralelo 47&#xB0; L.S.: 30 toneladas mensuales.</div><br><div class=\"p\">&nbsp; &nbsp;  2) 105 toneladas en el &#xE1;rea de pesca denominada Aguas Interiores Sur, comprendida entre los paralelos 47&#xB0; L.S. y 56&#xB0; L.S.</div><br><div class=\"p\">&nbsp; &nbsp;  La cuota antes se&#xF1;alada se fraccionar&#xE1; en 15 toneladas mensuales, de las cuales 10 estar&#xE1;n reservadas a la pesca artesanal.</div><br><div class=\"p\">&nbsp; &nbsp;  Las faenas de extracci&#xF3;n que se efect&#xFA;en en aguas del Estrecho de Magallanes se imputar&#xE1;n a la cuota individualizada precedentemente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- F&#xED;jase para el per&#xED;odo enero-julio del a&#xF1;o 2001, una cuota de 525 toneladas, la que se imputar&#xE1; a la cuota global anual de captura y se fraccionar&#xE1; de la siguiente manera:</div><br><div class=\"p\">&nbsp; &nbsp;  1) 420 toneladas en el &#xE1;rea de pesca denominada Aguas Interiores Norte, comprendida entre los paralelos 41&#xB0;28,6&apos; y 47&#xB0; L.S.</div><br><div class=\"p\">&nbsp; &nbsp;  La se&#xF1;alada cuota se subdividir&#xE1; de la siguiente manera:</div><div class=\"p\">&nbsp; &nbsp;  a) Paralelo 41&#xB0;28,6&apos; L.S. al l&#xED;mite sur de la X Regi&#xF3;n: 30 toneladas mensuales.</div><br><div class=\"p\">&nbsp; &nbsp;  b) L&#xED;mite norte de la XI Regi&#xF3;n al paralelo 47&#xB0; L.S.: 30 toneladas mensuales.</div><br><div class=\"p\">&nbsp; &nbsp;  2) 105 toneladas en el &#xE1;rea de pesca denominada<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Aguas Interiores Sur, comprendida entre los paralelos 47&#xB0; L.S. y 56&#xB0; L.S.</div><br><div class=\"p\">&nbsp; &nbsp;  La cuota antes se&#xF1;alada se fraccionar&#xE1; en 15 toneladas mensuales, de las cuales 10 estar&#xE1;n reservadas a la pesca artesanal.</div><br><div class=\"p\">&nbsp; &nbsp;  Las faenas de extracci&#xF3;n que se efect&#xFA;en en aguas del Estrecho de Magallanes se imputar&#xE1;n a la cuota individualizada precedentemente.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 103 Exento, Econom&#xED;a, publicado el 08.02.2001 modific&#xF3; el presente art&#xED;culo en el sentido de se&#xF1;alar que la cuota de captura del Congrio dorado para el &#xE1;rea de pesca en &#xE9;l se&#xF1;alado, per&#xED;odo febrero-julio del 2001, ascender&#xE1; a 210 toneladas, la cual se fraccionar&#xE1; en 30 toneladas mensuales para la flota artesanal y 5 toneladas mensuales para la flota industrial.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2001-02-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6314801,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Para los efectos de lograr una efectiva fiscalizaci&#xF3;n de la cuota global anual de captura establecida en el presente decreto, los armadores pesqueros industriales deber&#xE1;n efectuar capturas en una sola unidad de pesquer&#xED;a, debiendo recalar y efectuar la declaraci&#xF3;n de capturas correspondientes antes de zarpar a otra unidad de pesquer&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, los armadores pesqueros industriales deber&#xE1;n comunicar, al Servicio Nacional de Pesca, previo a cada zarpe, el recurso objetivo al que dirigir&#xE1;n sus actividades extractivas, debiendo durante todo el viaje de pesca capturar exclusivamente al recurso informado previamente. No obstante lo anterior, la nave podr&#xE1; reorientar sus actividades extractivas durante el viaje de pesca, por una &#xFA;nica vez, a otro recurso autorizado, previa comunicaci&#xF3;n al organismo antes se&#xF1;alado, debiendo igualmente mantener la exclusividad del viaje de pesca.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- DEROGADO<span class=\"n\" id=\"n_1\">DTO 106 EXENTO<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 10.02.2001<br>D.O. 10.02.2001</span> </div></div>"
+        },
+        {
+          "part_id": 6314802,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- El Servicio Nacional de Pesca podr&#xE1; mediante resoluci&#xF3;n establecer medidas y procedimientos para lograr una efectiva fiscalizaci&#xF3;n, tales como fijar horarios de desembarque, solicitar informaci&#xF3;n de la actividad pesquera a las plantas de transformaci&#xF3;n, naves pesqueras u otros agentes del sector, en los per&#xED;odos y fechas que indique, y efectuar los controles que sean necesarios para lograr un efectivo cumplimiento de las disposiciones del presente decreto.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- DEROGADO<span class=\"n\" id=\"n_2\">DTO 106 EXENTO<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 10.02.2001</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

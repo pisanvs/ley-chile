@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-10-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10060175,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Disp&#xF3;nense como plazos de recepci&#xF3;n de expedientes en esta Seremi, mediante su ingreso por Oficina de Partes, ubicada en Maip&#xF3;n N&#xBA; 342 interior, Chill&#xE1;n, entre las 09:00 y las 13:00 horas, en el Llamado 2019 a postulaci&#xF3;n para el desarrollo de proyectos del Programa de Protecci&#xF3;n del Patrimonio Familiar en la modalidad regulada por su Cap&#xED;tulo II, de la atenci&#xF3;n a Condominios de Viviendas Sociales, los siguientes:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/98671.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- Distrib&#xFA;yanse los recursos disponibles para el a&#xF1;o 2019, en el citado Llamado en condiciones especiales, en las cantidades se&#xF1;aladas en el cuadro siguiente:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/98672.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  3.- Def&#xED;nanse los siguientes factores o criterios regionales de prelaci&#xF3;n, de acuerdo a lo dispuesto en el resuelvo N&#xBA; 19 de la resoluci&#xF3;n exenta N&#xBA; 1.115 (V. y U.), de 2019 y sus modificaciones:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/98673.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  4.- Prior&#xED;cense, en caso de existir empates para determinar el &#xFA;ltimo proyecto con financiamiento, los siguientes factores de prelaci&#xF3;n, de acuerdo al orden indicado en la presente tabla:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/98674.jpg\">.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Disp&#xF3;nense como plazos de recepci&#xF3;n de expedientes en esta Seremi, mediante su ingreso por Oficina de Partes, ubicada en Maip&#xF3;n N&#xBA; 342 interior, Chill&#xE1;n, entre las 09:00 y las 13:00 horas, en el Llamado 2019 a postulaci&#xF3;n para el desarrollo de proyectos del Programa de Protecci&#xF3;n del Patrimonio Familiar en la modalidad regulada por su Cap&#xED;tulo II, de la atenci&#xF3;n a Condominios de Viviendas Sociales, los siguientes:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/98671.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- Distrib&#xFA;yanse los recursos disponibles para el a&#xF1;o 2019, en el citado Llamado en condiciones especiales, en las cantidades se&#xF1;aladas en el cuadro siguient<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1142389&amp;idParte=10100665&amp;idVersion=2020-02-14\">Resoluci&#xF3;n 45 EXENTA, <br>VIVIENDA<br>N&#xB0; 1<br>D.O. 14.02.2020</a></span>e:</div><br><br><br><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/104882.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  3.- Def&#xED;nanse los siguientes factores o criterios regionales de prelaci&#xF3;n, de acuerdo a lo dispuesto en el resuelvo N&#xBA; 19 de la resoluci&#xF3;n exenta N&#xBA; 1.115 (V. y U.), de 2019 y sus modificaciones:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/98673.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  4.- Prior&#xED;cense, en caso de existir empates para determinar el &#xFA;ltimo proyecto con financiamiento, los siguientes factores de prelaci&#xF3;n, de acuerdo al orden indicado en la presente tabla:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/98674.jpg\">.</div><div class=\"p\"> </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1142389,
+      "fecha": "2020-02-14"
+    }
+  }
+]

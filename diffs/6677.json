@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1976-11-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-01-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7127395,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA LEY N&#xB0; 16.640, SOBRE REFORMA AGRARIA Y ESTABLECE NORMAS SOBRE ENAJENACION DE TIERRAS ASIGNADAS N&#xFA;m. 1.600.- Santiago, 17 de Noviembre de 1976.- Visto: lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que las tierras expropiadas por la Corporaci&#xF3;n de la Reforma Agraria est&#xE1;n fundamentalmente destinadas a ser transferidas a los trabajadores agr&#xED;colas que acrediten el cumplimiento de requisitos que los habiliten para asumir su responsabilidad de agricultores y que garanticen el mejor aprovechamiento de la capacidad productiva agr&#xED;cola del pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp; Que el cumplimiento de esa finalidad hace necesario impedir que dichas tierras sean asignadas a quienes hubieren ocupado il&#xED;citamente predios r&#xFA;sticos o hubieren inducido a efectuar dichas ocupaciones;</div><div class=\"p\">&nbsp; &nbsp; Que es prop&#xF3;sito del Gobierno incentivar las inversiones destinadas a mejorar la capacidad productiva de los predios r&#xFA;sticos;</div><div class=\"p\">&nbsp; &nbsp; Que la adecuada aplicaci&#xF3;n de la ley de Reforma Agraria hace necesario modificar los coeficientes de conversi&#xF3;n de las superficies de terrenos a hect&#xE1;reas de riego b&#xE1;sicas para la Regi&#xF3;n de Magallanes, de acuerdo a las caracter&#xED;sticas propias de esa zona, y</div><div class=\"p\">&nbsp; &nbsp; Que es de toda conveniencia establecer normas que regulen la enajenaci&#xF3;n de tierras asignadas, La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">MODIFICA LEY N&#xB0; 16.640, SOBRE REFORMA AGRARIA Y<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> ESTABLECE NORMAS SOBRE ENAJENACION DE TIERRAS ASIGNADAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.600.- Santiago, 17 de Noviembre de 1976.- Visto: lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que las tierras expropiadas por la Corporaci&#xF3;n de la Reforma Agraria est&#xE1;n fundamentalmente destinadas a ser transferidas a los trabajadores agr&#xED;colas que acrediten el cumplimiento de requisitos que los habiliten para asumir su responsabilidad de agricultores y que garanticen el mejor aprovechamiento de la capacidad productiva agr&#xED;cola del pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp; Que el cumplimiento de esa finalidad hace necesario impedir que dichas tierras sean asignadas a quienes hubieren ocupado il&#xED;citamente predios r&#xFA;sticos o hubieren inducido a efectuar dichas ocupaciones;</div><div class=\"p\">&nbsp; &nbsp; Que es prop&#xF3;sito del Gobierno incentivar las inversiones destinadas a mejorar la capacidad productiva de los predios r&#xFA;sticos;</div><div class=\"p\">&nbsp; &nbsp; Que la adecuada aplicaci&#xF3;n de la ley de Reforma Agraria hace necesario modificar los coeficientes de conversi&#xF3;n de las superficies de terrenos a hect&#xE1;reas de riego b&#xE1;sicas para la Regi&#xF3;n de Magallanes, de acuerdo a las caracter&#xED;sticas propias de esa zona, y</div><div class=\"p\">&nbsp; &nbsp; Que es de toda conveniencia establecer normas que regulen la enajenaci&#xF3;n de tierras asignadas,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La letra e) del art&#xED;culo 40 de la LEY 18755, publicada el 07.01.1989, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

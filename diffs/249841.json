@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2006-05-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-07-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8189671,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;: La tarifa anual, calculada en unidades tributarias mensuales, tendr&#xE1; una vigencia de tres a&#xF1;os y se fijar&#xE1; de acuerdo al siguiente procedimiento:</div><br><div class=\"p\">&nbsp; &nbsp;  1) A m&#xE1;s tardar el 31 de agosto del a&#xF1;o anterior a la entrada en vigencia de un nuevo periodo tarifario, las unidades Municipales encargadas del c&#xE1;lculo de la tarifa recolectar&#xE1;n la informaci&#xF3;n que requieran para efectuar su c&#xF3;mputo, las que, a m&#xE1;s tardar el quince de octubre del mismo a&#xF1;o, deber&#xE1;n tener una primera propuesta de tarifas para su comunicaci&#xF3;n a los usuarios en los t&#xE9;rminos que se indican en el numeral siguiente.</div><br><div class=\"p\">&nbsp; &nbsp;  2) Los usuarios del servicio podr&#xE1;n presentar observaciones fundadas a la proposici&#xF3;n de la tarifa, hasta el quince de noviembre del a&#xF1;o anterior a la entrada en vigencia de un nuevo periodo tarifario. Para ello, la Municipalidad deber&#xE1; comunicar a los usuarios del servicio, mediante aviso en el Diario Oficial o en la p&#xE1;gina web de la municipalidad respectiva o en un diario regional de entre los tres de mayor circulaci&#xF3;n de la respectiva comuna, el inicio y duraci&#xF3;n del plazo para formular sus observaciones a la proposici&#xF3;n de la tarifa, y facilitar los antecedentes del c&#xE1;lculo.</div><br><div class=\"p\">&nbsp; &nbsp;  3) A m&#xE1;s tardar el quince de diciembre del a&#xF1;o anterior a la entrada en vigencia de un nuevo periodo tarifario, el Alcalde deber&#xE1; presentar la proposici&#xF3;n de la tarifa al Concejo Municipal para su aprobaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  4) A m&#xE1;s tardar el 31 de diciembre del a&#xF1;o anterior a la entrada en vigencia de un nuevo periodo tarifario, se publicar&#xE1; la Ordenanza Municipal que fije la tarifa para el siguiente periodo, la que comenzar&#xE1; a regir desde el primero de enero del a&#xF1;o respectivo. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;: La tarifa anual, calculada en unidades tributarias mensuales, tendr&#xE1; una vigencia de tres a&#xF1;os y se fijar&#xE1; de acuerdo al siguiente procedimiento:</div><br><div class=\"p\">&nbsp; &nbsp;  1) A m&#xE1;s tardar el 15 de julio del a&#xF1;o anterior a<span class=\"n\" id=\"n_0\">DTO 158, ECONOMIA<br>Art. 1&#xBA; a)<br>D.O. 24.07.2007</span> la entrada en vigencia de un nuevo periodo tarifario, las unidades Municipales encargadas del c&#xE1;lculo de la tarifa recolectar&#xE1;n la informaci&#xF3;n que requieran para efectuar su c&#xF3;mputo, las que, a m&#xE1;s tardar el quince de agosto del mismo a&#xF1;o, deber&#xE1;n tener una primera propuesta de tarifas para su comunicaci&#xF3;n a los usuarios en los t&#xE9;rminos que se indican en el numeral siguiente.</div><br><div class=\"p\">&nbsp; &nbsp;  2) Los usuarios del servicio podr&#xE1;n presentar observaciones fundadas a la proposici&#xF3;n de la tarifa, hasta el quince de septiembre del a&#xF1;o anterior a la<span class=\"n\" id=\"n_1\">DTO 158, ECONOMIA<br>Art. 1&#xBA; b)<br>D.O. 24.07.2007</span> entrada en vigencia de un nuevo periodo tarifario. Para ello, la Municipalidad deber&#xE1; comunicar a los usuarios del servicio, mediante aviso en el Diario Oficial o en la p&#xE1;gina web de la municipalidad respectiva o en un diario regional de entre los tres de mayor circulaci&#xF3;n de la respectiva comuna, el inicio y duraci&#xF3;n del plazo para formular sus observaciones a la proposici&#xF3;n de la tarifa, y facilitar los antecedentes del c&#xE1;lculo.</div><br><div class=\"p\">&nbsp; &nbsp;  3) A m&#xE1;s tardar el quince de octubre del a&#xF1;o<span class=\"n\" id=\"n_2\">DTO 158, ECONOMIA<br>Art. 1&#xBA; c)<br>D.O. 24.07.2007</span> anterior a la entrada en vigencia de un nuevo periodo tarifario, el Alcalde deber&#xE1; presentar la proposici&#xF3;n de la tarifa al Concejo Municipal para su aprobaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  4) A m&#xE1;s tardar el 31 de octubre del a&#xF1;o anterior<span class=\"n\" id=\"n_3\">DTO 158, ECONOMIA<br>Art. 1&#xBA; d)<br>D.O. 24.07.2007</span> a la entrada en vigencia de un nuevo periodo tarifario, se publicar&#xE1; la Ordenanza Municipal que fije la tarifa para el siguiente periodo, la que comenzar&#xE1; a regir desde el primero de enero del a&#xF1;o respectivo. </div></div>"
+        },
+        {
+          "part_id": 8189691,
+          "old": "<div><div class=\"p\">SEGUNDA DISPOSICION TRANSITORIA</div><br><div class=\"p\">&nbsp; &nbsp;  El primer c&#xE1;lculo de la tarifa se realizar&#xE1; al a&#xF1;o siguiente de la publicaci&#xF3;n del presente Reglamento en el Diario Oficial.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  SEGUNDA DISPOSICION TRANSITORIA<span class=\"n\" id=\"n_4\">DTO 158, ECONOMIA<br>Art. 1&#xBA; N&#xBA; 2<br>D.O. 24.07.2007</span></div><div class=\"p\"> El primer c&#xE1;lculo de la tarifa se realizar&#xE1; el a&#xF1;o 2008.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

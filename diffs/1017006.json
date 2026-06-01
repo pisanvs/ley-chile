@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2010-09-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-03-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8982742,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Post&#xE9;rganse por un plazo de tres (3) meses, a contar de la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial, los permisos de construcciones para edificaciones de m&#xE1;s de cuatro (4) pisos en los Sectores 3 y 4, Barrio Universitario y Expansi&#xF3;n del Centro, de acuerdo a lo graficado en el plano N&#xBA;165, escala 1:10.000, elaborado por la Asesor&#xED;a Urbana de la Ilma. Municipalidad de Santiago, que forma parte integrante de este decreto.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Post&#xE9;rganse por un plazo de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> tres (3) meses, a contar de la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial, los permisos de construcciones para edificaciones de m&#xE1;s de cuatro (4) pisos en los Sectores 3 y 4, Barrio Universitario y Expansi&#xF3;n del Centro, de acuerdo a lo graficado en el plano N&#xBA;165, escala 1:10.000, elaborado por la Asesor&#xED;a Urbana de la Ilma. Municipalidad de Santiago, que forma parte integrante de este decreto.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero 1&#xBA; de la Resoluci&#xF3;n 490 exenta, Vivienda, publicada el 11.03.2011, prorroga a contar del d&#xED;a 13 de marzo de 2011, por 3 meses, la postergaci&#xF3;n de los permisos de construcciones para edificaciones de m&#xE1;s de cuatro (4) pisos en los Sectores 3 y 4 Barrio Universitario y Expansi&#xF3;n del Centro de acuerdo a lo graficado en el plano N&#xBA; 165, escala 1:10.000, elaborado por la Asesor&#xED;a Urbana de la Ilustr&#xED;sima Municipalidad de Santiago.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-06-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8982742,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Post&#xE9;rganse por un plazo de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> tres (3) meses, a contar de la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial, los permisos de construcciones para edificaciones de m&#xE1;s de cuatro (4) pisos en los Sectores 3 y 4, Barrio Universitario y Expansi&#xF3;n del Centro, de acuerdo a lo graficado en el plano N&#xBA;165, escala 1:10.000, elaborado por la Asesor&#xED;a Urbana de la Ilma. Municipalidad de Santiago, que forma parte integrante de este decreto.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero 1&#xBA; de la Resoluci&#xF3;n 490 exenta, Vivienda, publicada el 11.03.2011, prorroga a contar del d&#xED;a 13 de marzo de 2011, por 3 meses, la postergaci&#xF3;n de los permisos de construcciones para edificaciones de m&#xE1;s de cuatro (4) pisos en los Sectores 3 y 4 Barrio Universitario y Expansi&#xF3;n del Centro de acuerdo a lo graficado en el plano N&#xBA; 165, escala 1:10.000, elaborado por la Asesor&#xED;a Urbana de la Ilustr&#xED;sima Municipalidad de Santiago.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Post&#xE9;rganse por un plazo de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> tres (3) meses, a <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>contar de la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial, los permisos de construcciones para edificaciones de m&#xE1;s de cuatro (4) pisos en los Sectores 3 y 4, Barrio Universitario y Expansi&#xF3;n del Centro, de acuerdo a lo graficado en el plano N&#xBA;165, escala 1:10.000, elaborado por la Asesor&#xED;a Urbana de la Ilma. Municipalidad de Santiago, que forma parte integrante de este decreto.</div><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero 1&#xBA; de la Resoluci&#xF3;n 490 exenta, Vivienda, publicada el 11.03.2011, prorroga a contar del d&#xED;a 13 de marzo de 2011, por 3 meses, la postergaci&#xF3;n de los permisos de construcciones para edificaciones de m&#xE1;s de cuatro (4) pisos en los Sectores 3 y 4 Barrio Universitario y Expansi&#xF3;n del Centro de acuerdo a lo graficado en el plano N&#xBA; 165, escala 1:10.000, elaborado por la Asesor&#xED;a Urbana de la Ilustr&#xED;sima Municipalidad de Santiago.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero 1&#xBA; de la Resoluci&#xF3;n 1218 exenta, Vivienda, publicada el 04.06.2001, prorroga, por un nuevo plazo m&#xE1;ximo de 3 meses, a contar del d&#xED;a 13 de junio de 2011, la postergaci&#xF3;n de los permisos de construcciones para edificaciones de m&#xE1;s de cuatro (4) pisos en los Sectores 3 y 4, Barrio Universitario y Expansi&#xF3;n del Centro, de acuerdo a lo graficado en el plano N&#xBA; 165, escala 1:10.000, elaborado por Asesor&#xED;a Urbana de la Ilustre Municipalidad de Santiago.</div></div>"
+        }
+      ]
+    }
+  }
+]

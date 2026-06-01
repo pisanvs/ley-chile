@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1994-11-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-04-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6020834,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; En servicios rurales de m&#xE1;s de 50 Km. de longitud que se presten con buses dentro de la IV Regi&#xF3;n de Coquimbo podr&#xE1;n transportarse pasajeros de pie hasta un m&#xE1;ximo de 20, incluidos estudiantes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; En servicios rurales de m&#xE1;s de 50 Km. de longitud que se presten con buses dentro de la IV Regi&#xF3;n de Coquimbo podr&#xE1;n transportarse pasajeros de pie hasta un m&#xE1;ximo de 20, incluidos estudiantes.</div><div class=\"p\">&nbsp; &nbsp;  No obstante, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1039455&amp;idParte=9252822&amp;idVersion=2012-04-27\">Resoluci&#xF3;n 136 EXENTA, TRANSPORTES<br>D.O. 27.04.2012</a></span>en los servicios de buses rurales que cubren la Ruta 43, que une las ciudades de La Serena - Coquimbo y Ovalle s&#xF3;lo se podr&#xE1;n transportar a un m&#xE1;ximo de 10 pasajeros de pie</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1039455,
+      "fecha": "2012-04-27"
+    }
+  }
+]

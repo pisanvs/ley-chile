@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1993-06-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-04-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7136806,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- Los buses que cumplan con las normas de emisi&#xF3;n que fija el presente decreto estar&#xE1;n exentos de prohibiciones de circular en caso de restricci&#xF3;n vehicular por razones de contaminaci&#xF3;n atmosf&#xE9;rica. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xBA;: Los buses que cumplan con las<span class=\"n\" id=\"n_0\">DTO 20,<br>SEC. GRAL. PRES.<br>Art. 1&#xBA; N&#xBA; 14<br>D.O. 12.04.2001</span> normas de emisi&#xF3;n que fija el presente decreto estar&#xE1;n afectos a restricci&#xF3;n vehicular por causa de contaminaci&#xF3;n atmosf&#xE9;rica en episodios de Pre-Emergencia y Emergencia Ambiental.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2004-02-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7136805,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Sin perjuicio de las exigencias se&#xF1;aladas precedentemente, el motor que se instale a los buses antes indicados, deber&#xE1; tener una potencia tal que la relaci&#xF3;n potencia a peso bruto vehicular deber&#xE1; ser igual o superior a 9,0 kW/Ton, medida la potencia del motor conforme al m&#xE9;todo establecido por las Comunidades Europeas en la Directiva 80/1269/CEE.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xBA;: Sin perjuicio de las exigencias<span class=\"n\" id=\"n_0\">DTO 169, TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 21.02.2004</span> se&#xF1;aladas precedentemente, el motor que se instale a los buses antes indicados, deber&#xE1; tener una potencia tal que la relaci&#xF3;n potencia a peso bruto t&#xE9;cnico deber&#xE1; ser igual o superior a 7,5 KW/Ton para los buses cuya longitud sea igual o superior a 15 metros, o bien, igual o superior a 9.0 KW/Ton, para los buses que tengan una longitud inferior a los 15 metros. En ambos casos, el peso bruto t&#xE9;cnico se entender&#xE1; como la capacidad total de carga del veh&#xED;culo, que se obtiene al sumar las capacidades de todos los ejes seg&#xFA;n las especificaciones del fabricante. Por su parte, la potencia del motor se medir&#xE1; conforme al m&#xE9;todo establecido por las Comunidades Europeas en la Directiva 80/1269/CEE.</div><br></div>"
+        },
+        {
+          "part_id": 7136806,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xBA;: Los buses que cumplan con las<span class=\"n\" id=\"n_0\">DTO 20,<br>SEC. GRAL. PRES.<br>Art. 1&#xBA; N&#xBA; 14<br>D.O. 12.04.2001</span> normas de emisi&#xF3;n que fija el presente decreto estar&#xE1;n afectos a restricci&#xF3;n vehicular por causa de contaminaci&#xF3;n atmosf&#xE9;rica en episodios de Pre-Emergencia y Emergencia Ambiental.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xBA;: Los buses que cumplan con las<span class=\"n\" id=\"n_1\">DTO 20,<br>SEC. GRAL. PRES.<br>Art. 1&#xBA; N&#xBA; 14<br>D.O. 12.04.2001</span> normas de emisi&#xF3;n que fija el presente decreto estar&#xE1;n afectos a restricci&#xF3;n vehicular por causa de contaminaci&#xF3;n atmosf&#xE9;rica en episodios de Pre-Emergencia y Emergencia Ambiental.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

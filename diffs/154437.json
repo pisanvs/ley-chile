@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-02-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-01-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6228985,
+          "old": "<div><div class=\"p\">DISPONE OBLIGATORIEDAD DE EXHIBIR IDENTIFICACION DEL CONDUCTOR EN TAXIS COLECTIVOS, BASICOS Y DE TURISMO, EN LA FORMA QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 118 exenta.- Santiago, 21 de enero de 2000.- Visto: Lo dispuesto en el art&#xED;culo 75&#xBA;, inciso tercero, del decreto supremo N&#xBA; 212/92, y en el decreto supremo N&#xBA; 6/99, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">DISPONE OBLIGATORIEDAD DE EXHIBIR IDENTIFICACION DEL CONDUCTOR EN TAXIS COLECTIVOS, BASICOS Y DE TURISMO, EN LA FORMA QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 118 exenta.- Santiago, 21 de enero de 2000.- Visto: Lo dispuesto en el art&#xED;culo 75&#xBA;, inciso tercero, del decreto supremo N&#xBA; 212/92, y en el decreto supremo N&#xBA; 6/99, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-07-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8339208,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JUAN GUILLERMO SHEE VELIZ PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JUAN GUILLERMO SHEE VELIZ PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

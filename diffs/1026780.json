@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-06-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9151950,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Modificase la ley N&#xBA; 18.290, de Tr&#xE1;nsito, cuyo texto refundido, coordinado y sistematizado fue fijado en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1007469&amp;idParte=0&amp;idVersion=\">decreto con fuerza de ley N&#xBA; 1, de 2009</a>, de los Ministerios de Transportes y Telecomunicaciones, y de Justicia, en la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Reempl&#xE1;zase el numeral 4) del inciso segundo del <a href=\"https://www.leychile.cl/Navegar?idNorma=1007469&amp;idParte=8795095&amp;idVersion=\">art&#xED;culo 13</a>, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;4) Acreditar, en caso de la Clase A-3, haber estado en posesi&#xF3;n, durante a lo menos dos a&#xF1;os, de la Licencia Profesional Clases A-1, A-2, A-4 o A-5. Trat&#xE1;ndose de la Clase A-5, los postulantes deber&#xE1;n acreditar haber estado en posesi&#xF3;n, durante a lo menos dos a&#xF1;os, de la licencia profesional clases A-2, A-3 o A-4.&quot;.</div><br><div class=\"p\">&nbsp; &nbsp;  b) Reempl&#xE1;zase <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>el <a href=\"https://www.leychile.cl/Navegar?idNorma=1007469&amp;idParte=8795345&amp;idVersion=\">art&#xED;culo 5&#xBA; transitorio</a> por el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 5&#xBA;.- Los titulares de licencias de conductor Clase A-1 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicaci&#xF3;n de esta ley, podr&#xE1;n obtener directamente la licencia profesional Clase A-3. Asimismo, los titulares de licencias de conductor Clase A-2 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicaci&#xF3;n de esta ley, podr&#xE1;n obtener directamente las licencias profesionales clases A-3 y A-5. En los casos aludidos en el inciso anterior, deber&#xE1; acreditarse haber aprobado un curso de capacitaci&#xF3;n en la forma que determine el Ministerio de Transportes y Telecomunicaciones.&quot;.&quot;.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La letra b) de la presente norma, que reemplaza el art&#xED;culo 5&#xB0; transitorio de la Ley de Tr&#xE1;nsito, fue publicado como un solo inciso. Sin embargo, tanto en el oficio de ley enviado al Ejecutivo y como el enviado por este &#xFA;ltimo al Diario Oficial tiene 2 incisos, por lo que claramente hay un error en la publicaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Modificase la ley N&#xBA; 18.290, de Tr&#xE1;nsito, cuyo texto refundido, coordinado y sistematizado fue fijado en el decreto con fuerza de ley N&#xBA; 1, de 2009, de los Ministerios de Transportes y Telecomunicaciones, y de Justicia, en la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Reempl&#xE1;zase el numeral 4) del inciso segundo del art&#xED;culo 13, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;4) Acreditar, en caso de la Clase A-3, haber estado en posesi&#xF3;n, durante a lo menos dos a&#xF1;os, de la Licencia Profesional Clases A-1, A-2, A-4 o A-5. Trat&#xE1;ndose de la Clase A-5, los postulantes deber&#xE1;n acreditar haber estado en posesi&#xF3;n, durante a lo menos dos a&#xF1;os, de la licencia profesional clases A-2, A-3 o A-4.&quot;.</div><br><div class=\"p\">&nbsp; &nbsp;  b) Reempl&#xE1;zase el art&#xED;culo 5&#xBA; transitorio por el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 5&#xBA;.- Los titulares de licencias de conductor Clase A-1 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicaci&#xF3;n de esta ley, podr&#xE1;n obtener directamente la licencia profesional Clase A-3. Asimismo, los titulares de licencias de conductor Clase A-2 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicaci&#xF3;n de esta ley, podr&#xE1;n <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1027574&amp;idParte=9157531&amp;idVersion=2011-07-09\">Rectificaci&#xF3;n 167,<br>D.O. 09.07.2011</a></span>obtener directamente las licencias profesionales clases A-3 y A-5.</div><div class=\"p\">&nbsp; &nbsp;  En los casos aludidos en el inciso anterior, deber&#xE1; acreditarse haber aprobado un curso de capacitaci&#xF3;n en la forma que determine el Ministerio de Transportes y Telecomunicaciones.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1027574,
+      "fecha": "2011-07-09"
+    }
+  }
+]

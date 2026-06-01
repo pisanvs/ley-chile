@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "1996-12-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-02-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7152174,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE VACUNACION OBLIGATORIA CONTRA ENFERMEDADES INMUNOPREVENIBLES A LA POBLACION INFANTIL DEL PAIS N&#xFA;m. 667.- Santiago, 15 de julio de 1996.- Visto: lo dispuesto en el art&#xED;culo 32 del C&#xF3;digo Sanitario, aprobado por decreto con fuerza de ley N&#xB0; 725, de 1968, del Ministerio de Salud; teniendo presente los art&#xED;culos 1&#xB0;, 4&#xB0; y 6&#xB0; del decreto ley N&#xB0; 2763, de 1979, y la facultad que me concede el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado.</div><div class=\"p\">&nbsp; &nbsp; Considerando: la necesidad de mantener altas y eficientes coberturas de vacunaci&#xF3;n para inmunizar a los ni&#xF1;os del pa&#xED;s contra las enfermedades inmunoprevenibles; objetivo para cuya consecuci&#xF3;n es indispensable imponer la obligatoriedad de la vacunaci&#xF3;n respecto de las enfermedades incluidas en el calendario elaborado y propuesto por la autoridad sanitaria competente, y adem&#xE1;s, controlar la efectividad de su cumplimiento en el m&#xE1;s amplio radio de la poblaci&#xF3;n infantil que sea posible.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">DISPONE VACUNACION OBLIGATORIA CONTRA ENFERMEDADES INMUNOPREVENIBLES A LA POBLACION INFANTIL DEL PAIS </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 667.- Santiago, 15 de julio de 1996.- Visto: lo dispuesto en el art&#xED;culo 32 del C&#xF3;digo Sanitario, aprobado por decreto con fuerza de ley N&#xB0; 725, de 1968, del Ministerio de Salud; teniendo presente los art&#xED;culos 1&#xB0;, 4&#xB0; y 6&#xB0; del decreto ley N&#xB0; 2763, de 1979, y la facultad que me concede el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado.</div><div class=\"p\">&nbsp; &nbsp; Considerando: la necesidad de mantener altas y eficientes coberturas de vacunaci&#xF3;n para inmunizar a los ni&#xF1;os del pa&#xED;s contra las enfermedades inmunoprevenibles; objetivo para cuya consecuci&#xF3;n es indispensable imponer la obligatoriedad de la vacunaci&#xF3;n respecto de las enfermedades incluidas en el calendario elaborado y propuesto por la autoridad sanitaria competente, y adem&#xE1;s, controlar la efectividad de su cumplimiento en el m&#xE1;s amplio radio de la poblaci&#xF3;n infantil que sea posible.</div><br><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2009-09-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7152177,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CONTRALORIA GENERAL DE LA REPUBLICA Division Jur&#xED;dica Cursa con alcance Decreto N&#xB0; 667, de 1996, del Ministerio de Salud</div><div class=\"p\">&nbsp; &nbsp; N&#xB0; 27.664.- Santiago, 29 de agosto de 1996.- Esta Contralor&#xED;a General ha dado curso al documento del rubro, que declara obligatoria la vacunaci&#xF3;n de los ni&#xF1;os de hasta siete a&#xF1;os de edad contra las enfermedades inmunoprevenibles que se indican, y que, por otra parte, establece que para el ingreso de esos ni&#xF1;os a los establecimientos educacionales que se se&#xF1;alan, los apoderados deber&#xE1;n acreditar ante la autoridad superior del establecimiento el cumplimiento del calendario de vacunaci&#xF3;n obligatoria y, en caso contrario, se les dar&#xE1; la informaci&#xF3;n que expresa, por cuanto se ajusta a derecho.</div><div class=\"p\">&nbsp; &nbsp; No obstante, hace presente que entiende que la falta de la acreditaci&#xF3;n mencionada ante un establecimiento educacional no puede obstar a su ingreso a dicho plantel, toda vez que la Carta Fundamental consagra, en su art&#xED;culo 19, N&#xB0; 10, el derecho a la educaci&#xF3;n, especificando que la educaci&#xF3;n b&#xE1;sica es obligatoria y que el Estado tiene el deber de asegurar a toda la poblaci&#xF3;n el acceso a ella.</div><div class=\"p\">&nbsp; &nbsp; Con el alcance que antecede se ha tomado raz&#xF3;n del instrumento del ep&#xED;grafe.</div><div class=\"p\">&nbsp; &nbsp; Dios guarde a US.- Osvaldo Iturriaga Ruiz, Contralor General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Al Se&#xF1;or Ministro de Salud Presente </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1006030&amp;idParte=8780341&amp;idVersion=2009-09-11\">Decreto 1305 EXENTO<br>Art.<br>D.O. 11.09.2009</a></span>&nbsp; &nbsp; CONTRALORIA GENERAL DE LA REPUBLICA Division Jur&#xED;dica Cursa con alcance Decreto N&#xB0; 667, de 1996, del Ministerio de Salud</div><div class=\"p\">&nbsp; &nbsp; N&#xB0; 27.664.- Santiago. 29 de agosto de 1996.- Esta Contralor&#xED;a General ha dado curso al documento del rubro, que declara obligatoria la vacunaci&#xF3;n de los ni&#xF1;os de hasta siete a&#xF1;os de edad contra las enfermedades inmunoprevenibles que se indican, y que, por otra parte, establece que para el ingreso de esos ni&#xF1;os a los establecimientos educacionales que se se&#xF1;alan, los apoderados deber&#xE1;n acreditar ante la autoridad superior del establecimiento el cumplimiento del calendario de vacunaci&#xF3;n obligatoria y, en caso contrario, se les dar&#xE1; la informaci&#xF3;n que expresa, por cuanto se ajusta a derecho.</div><div class=\"p\">&nbsp; &nbsp; No obstante, hace presente que entiende que la falta de la acreditaci&#xF3;n mencionada ante un establecimiento educacional no puede obstar a su ingreso a dicho plantel, toda vez que la Carta Fundamental consagra, en su art&#xED;culo 19, N&#xB0; 10, el derecho a la educaci&#xF3;n, especificando que la educaci&#xF3;n b&#xE1;sica es obligatoria y que el Estado tiene el deber de asegurar a toda la poblaci&#xF3;n el acceso a ella.</div><div class=\"p\">&nbsp; &nbsp; Con el alcance que antecede se ha tomado raz&#xF3;n del instrumento del ep&#xED;grafe.</div><div class=\"p\">&nbsp; &nbsp; Dios guarde a US.- Osvaldo Iturriaga Ruiz, Contralor General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Al Se&#xF1;or Ministro de Salud Presente </div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1006030,
+      "fecha": "2009-09-11"
+    }
+  }
+]

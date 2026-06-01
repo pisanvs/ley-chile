@@ -1,0 +1,237 @@
+[
+  {
+    "fecha": "2022-11-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-10-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10465809,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1197197&amp;idParte=10465747&amp;idVersion=2023-10-24\">Decreto 78,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 2<br>D.O. 24.10.2023</a></span>&#xCD;TULO XI</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Chilo&#xE9;</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        },
+        {
+          "part_id": 10465810,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1197197&amp;idParte=10465747&amp;idVersion=2023-10-24\">Decreto 78,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 2<br>D.O. 24.10.2023</a></span>rt&#xED;culo 60 bis.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Chilo&#xE9; (en adelante tambi&#xE9;n &quot;Servicio Local de Chilo&#xE9;&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Los Lagos se&#xF1;alado en el numeral 1. del art&#xED;culo 9 del decreto N&#xB0; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><br><br></div>"
+        },
+        {
+          "part_id": 10465811,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1197197&amp;idParte=10465747&amp;idVersion=2023-10-24\">Decreto 78,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 2<br>D.O. 24.10.2023</a></span>rt&#xED;culo 60 ter.- El &#xE1;mbito de competencia territorial del Servicio Local de Chilo&#xE9; comprender&#xE1; las comunas de Castro, Ancud, Chonchi, Curaco de V&#xE9;lez, Dalcahue, Puqueld&#xF3;n, Queil&#xE9;n, Quell&#xF3;n, Quemchi y Quinchao, y tendr&#xE1; su domicilio en la comuna de Castro.</div><br><br></div>"
+        },
+        {
+          "part_id": 10465812,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1197197&amp;idParte=10465747&amp;idVersion=2023-10-24\">Decreto 78,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 2<br>D.O. 24.10.2023</a></span>rt&#xED;culo 60 qu&#xE1;ter.- El Servicio Local de Chilo&#xE9; iniciar&#xE1; sus funciones el d&#xED;a 30 de junio de 2024.</div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10379553,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO XI</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Chilo&#xE9;</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO XI</div><div class=\"p\">&nbsp; &nbsp;  Supri<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1197197&amp;idParte=10465747&amp;idVersion=2023-10-24\">Decreto 78,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 1<br>D.O. 24.10.2023</a></span>mido. </div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 10379554,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 91.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Chilo&#xE9; (en adelante tambi&#xE9;n &quot;Servicio Local de Chilo&#xE9;&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Los Lagos se&#xF1;alado en el numeral 1. del art&#xED;culo 9 del decreto N&#xB0; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 91.- Sup<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1197197&amp;idParte=10465747&amp;idVersion=2023-10-24\">Decreto 78,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 1<br>D.O. 24.10.2023</a></span>rimido.&nbsp; &nbsp; &nbsp; </div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 10379555,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 92.- El &#xE1;mbito de competencia territorial del Servicio Local de Chilo&#xE9; comprender&#xE1; las comunas de Castro, Ancud, Chonchi, Curaco de V&#xE9;lez, Dalcahue, Puqueld&#xF3;n, Queil&#xE9;n, Quell&#xF3;n, Quemchi y Quinchao, y tendr&#xE1; su domicilio en la comuna de Castro.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 92.- Supr<span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1197197&amp;idParte=10465747&amp;idVersion=2023-10-24\">Decreto 78,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 1<br>D.O. 24.10.2023</a></span>imido.&nbsp; &nbsp; &nbsp; </div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 10379556,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 93.- El Servicio Local de Chilo&#xE9; iniciar&#xE1; sus funciones el d&#xED;a 1&#xB0; de marzo de 2025.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 93.- Sup<span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1197197&amp;idParte=10465747&amp;idVersion=2023-10-24\">Decreto 78,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 1<br>D.O. 24.10.2023</a></span>rimido. </div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1197197,
+      "fecha": "2023-10-24"
+    }
+  },
+  {
+    "fecha": "2025-04-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10545820,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; T&#xCD;TULO XII<span class=\"n\" id=\"n_20\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 4<br>D.O. 23.04.2025</a></span></div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Los Vi&#xF1;edos</div><br></div>"
+        },
+        {
+          "part_id": 10545821,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 93 bis.- <span class=\"n\" id=\"n_21\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 4<br>D.O. 23.04.2025</a></span>Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Los Vi&#xF1;edos (en adelante tambi&#xE9;n &quot;Servicio Local de Los Vi&#xF1;edos&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n Metropolitana se&#xF1;alado en el numeral 12. del art&#xED;culo 12 del decreto N&#xB0; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 10545822,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 93 ter.- El <span class=\"n\" id=\"n_22\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 4<br>D.O. 23.04.2025</a></span>&#xE1;mbito de competencia territorial del Servicio Local de Los Vi&#xF1;edos comprender&#xE1; las comunas de Puente Alto, Pirque y San Jos&#xE9; de Maipo, y tendr&#xE1; su domicilio en la comuna de Puente Alto.</div><br></div>"
+        },
+        {
+          "part_id": 10545823,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 93 qu&#xE1;ter.- <span class=\"n\" id=\"n_23\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 4<br>D.O. 23.04.2025</a></span>El Servicio Local de Los Vi&#xF1;edos iniciar&#xE1; sus funciones el d&#xED;a 30 de junio de 2025.</div></div>"
+        },
+        {
+          "part_id": 10545824,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO XII <span class=\"n\" id=\"n_32\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 6<br>D.O. 23.04.2025</a></span></div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica Manquehue</div><br></div>"
+        },
+        {
+          "part_id": 10545825,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 160.- <span class=\"n\" id=\"n_33\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 6<br>D.O. 23.04.2025</a></span>Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica Manquehue (en adelante tambi&#xE9;n &quot;Servicio Local Manquehue&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n Metropolitana se&#xF1;alado en el numeral 10. del art&#xED;culo 12 del decreto N&#xB0; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 10545826,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 161.- <span class=\"n\" id=\"n_34\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 6<br>D.O. 23.04.2025</a></span>El &#xE1;mbito de competencia territorial del Servicio Local Manquehue comprender&#xE1; las comunas de La Reina, Las Condes, Lo Barnechea, Providencia y Vitacura, y tendr&#xE1; su domicilio en la comuna de Providencia.</div><br></div>"
+        },
+        {
+          "part_id": 10545827,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 162.-<span class=\"n\" id=\"n_35\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 6<br>D.O. 23.04.2025</a></span> El Servicio Local Manquehue iniciar&#xE1; sus funciones el d&#xED;a 1&#xB0; de marzo de 2027.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10379521,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO III</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Manquehue</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO III Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Manquehue.- <span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 1<br>D.O. 23.04.2025</a></span>Suprimido.</div></div>"
+        },
+        {
+          "part_id": 10379522,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 67.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica Manquehue (en adelante tambi&#xE9;n &quot;Servicio Local de Manquehue&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n Metropolitana se&#xF1;alado en el numeral 10. del art&#xED;culo 12 del decreto N&#xB0; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 67.- <span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 1<br>D.O. 23.04.2025</a></span>Suprimido.</div></div>"
+        },
+        {
+          "part_id": 10379523,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 68.- El &#xE1;mbito de competencia territorial del Servicio Local Manquehue comprender&#xE1; las comunas de La Reina, Las Condes, Lo Barnechea, Providencia y Vitacura, y tendr&#xE1; su domicilio en la comuna de Providencia.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 68.- <span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 1<br>D.O. 23.04.2025</a></span>Suprimido.</div></div>"
+        },
+        {
+          "part_id": 10379524,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 69.- El Servicio Local de Manquehue iniciar&#xE1; sus funciones el d&#xED;a 1&#xB0; de marzo de 2025.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 69.- <span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 1<br>D.O. 23.04.2025</a></span>Suprimido.</div></div>"
+        },
+        {
+          "part_id": 10379533,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO VI</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Costa Colchagua</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO VI Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Costa Colchagua.- <span class=\"n\" id=\"n_8\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 2<br>D.O. 23.04.2025</a></span>Suprimido.</div></div>"
+        },
+        {
+          "part_id": 10379534,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 76.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Costa Colchagua (en adelante tambi&#xE9;n &apos;&apos;Servicio Local de Costa Colchagua&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins se&#xF1;alado en el numeral 1. del art&#xED;culo 5 del decreto N&#xB0; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 76.- <span class=\"n\" id=\"n_9\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 2<br>D.O. 23.04.2025</a></span>Suprimido.</div></div>"
+        },
+        {
+          "part_id": 10379535,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 77.- El &#xE1;mbito de competencia territorial del Servicio Local de Costa Colchagua comprender&#xE1; las comunas de Ch&#xE9;pica, Lolol, Palmilla, Peralillo, Pumanque y Santa Cruz, y tendr&#xE1; su domicilio en la comuna de Santa Cruz.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 77.- <span class=\"n\" id=\"n_10\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 2<br>D.O. 23.04.2025</a></span>Suprimido.</div></div>"
+        },
+        {
+          "part_id": 10379536,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 78.- El Servicio Local de Costa Colchagua iniciar&#xE1; sus funciones el d&#xED;a 1&#xB0; de marzo de 2025.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 78.- <span class=\"n\" id=\"n_11\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 2<br>D.O. 23.04.2025</a></span>Suprimido.</div></div>"
+        },
+        {
+          "part_id": 10379541,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO VIII</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Maule Valle</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO VIII Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Maule Valle.- <span class=\"n\" id=\"n_12\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 3<br>D.O. 23.04.2025</a></span>Suprimido.</div></div>"
+        },
+        {
+          "part_id": 10379542,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 82.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Maule Valle (en adelante tambi&#xE9;n &quot;Servicio Local de Maule Valle&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n del Maule se&#xF1;alado en el numeral 4. del art&#xED;culo 6 del decreto N&#xB0; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 82.- <span class=\"n\" id=\"n_13\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 3<br>D.O. 23.04.2025</a></span>Suprimido.</div></div>"
+        },
+        {
+          "part_id": 10379543,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 83.- El &#xE1;mbito de competencia territorial del Servicio Local de Maule Valle comprender&#xE1; las comunas de Talca, Maule, Pelarco, Pencahue, San Clemente, San Rafael y San Javier, y tendr&#xE1; su domicilio en la comuna de Talca.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 83.- <span class=\"n\" id=\"n_14\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 3<br>D.O. 23.04.2025</a></span>Suprimido.</div></div>"
+        },
+        {
+          "part_id": 10379544,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 84.- El Servicio Local de Maule Valle iniciar&#xE1; sus funciones el d&#xED;a 1&#xB0; de marzo de 2025.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 84.- <span class=\"n\" id=\"n_15\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 3<br>D.O. 23.04.2025</a></span>Suprimido.</div></div>"
+        },
+        {
+          "part_id": 10379553,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO XI</div><div class=\"p\">&nbsp; &nbsp;  Supri<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1197197&amp;idParte=10465747&amp;idVersion=2023-10-24\">Decreto 78,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 1<br>D.O. 24.10.2023</a></span>mido. </div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO XI<span class=\"n\" id=\"n_16\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 4<br>D.O. 23.04.2025</a></span></div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Chacabuco</div><br></div>"
+        },
+        {
+          "part_id": 10379554,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 91.- Sup<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1197197&amp;idParte=10465747&amp;idVersion=2023-10-24\">Decreto 78,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 1<br>D.O. 24.10.2023</a></span>rimido.&nbsp; &nbsp; &nbsp; </div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 91.- <span class=\"n\" id=\"n_17\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 4<br>D.O. 23.04.2025</a></span>Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Chacabuco (en adelante tambi&#xE9;n &quot;Servicio Local de Chacabuco&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n Metropolitana se&#xF1;alado en el numeral 4. del art&#xED;culo 12 del decreto N&#xB0; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 10379555,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 92.- Supr<span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1197197&amp;idParte=10465747&amp;idVersion=2023-10-24\">Decreto 78,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 1<br>D.O. 24.10.2023</a></span>imido.&nbsp; &nbsp; &nbsp; </div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 92.- <span class=\"n\" id=\"n_18\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 4<br>D.O. 23.04.2025</a></span>El &#xE1;mbito de competencia territorial del Servicio Local de Chacabuco comprender&#xE1; las comunas de Colina, Lampa y Tiltil y tendr&#xE1; su domicilio en la comuna de Colina.</div><br></div>"
+        },
+        {
+          "part_id": 10379556,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 93.- Sup<span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1197197&amp;idParte=10465747&amp;idVersion=2023-10-24\">Decreto 78,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 1<br>D.O. 24.10.2023</a></span>rimido. </div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 93.- <span class=\"n\" id=\"n_19\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 4<br>D.O. 23.04.2025</a></span>El Servicio Local de Chacabuco iniciar&#xE1; sus funciones el d&#xED;a 30 de junio de 2025.</div><br></div>"
+        },
+        {
+          "part_id": 10379566,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO III</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Chacabuco</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO III<span class=\"n\" id=\"n_24\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 5<br>D.O. 23.04.2025</a></span></div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Costa Colchagua</div><br></div>"
+        },
+        {
+          "part_id": 10379567,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 100.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Chacabuco (en adelante tambi&#xE9;n &quot;Servicio Local de Chacabuco&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n Metropolitana se&#xF1;alado en el numeral 4. del art&#xED;culo 12 del decreto N&#xB0; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 100.- <span class=\"n\" id=\"n_25\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 5<br>D.O. 23.04.2025</a></span>Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Costa Colchagua (en adelante tambi&#xE9;n &quot;Servicio Local de Costa Colchagua&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins se&#xF1;alado en el numeral 1. del art&#xED;culo 5 del decreto N&#xB0; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 10379568,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 101.- El &#xE1;mbito de competencia territorial del Servicio Local de Chacabuco comprender&#xE1; las comunas de Colina, Lampa y Tiltil y tendr&#xE1; su domicilio en la comuna de Colina.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 101.- <span class=\"n\" id=\"n_26\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 5<br>D.O. 23.04.2025</a></span>El &#xE1;mbito de competencia territorial del Servicio Local de Costa Colchagua comprender&#xE1; las comunas de Ch&#xE9;pica, Lolol, Palmilla, Peralillo, Pumanque y Santa Cruz, y tendr&#xE1; su domicilio en la comuna de Santa Cruz.</div><br></div>"
+        },
+        {
+          "part_id": 10379569,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 102.- El Servicio Local de Chacabuco iniciar&#xE1; sus funciones el d&#xED;a 1&#xB0; de marzo de 2026.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 102.-<span class=\"n\" id=\"n_27\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 5<br>D.O. 23.04.2025</a></span> El Servicio Local de Costa Colchagua iniciar&#xE1; sus funciones el d&#xED;a 1&#xB0; de marzo de 2026.</div><br></div>"
+        },
+        {
+          "part_id": 10379570,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO IV</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Los Vi&#xF1;edos</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO IV<span class=\"n\" id=\"n_28\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 5<br>D.O. 23.04.2025</a></span></div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Maule Valle</div><br></div>"
+        },
+        {
+          "part_id": 10379571,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 103.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Los Vi&#xF1;edos (en adelante tambi&#xE9;n &quot;Servicio Local de Los Vi&#xF1;edos&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n Metropolitana se&#xF1;alado en el numeral 12. del art&#xED;culo 12 del decreto N&#xB0; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 103.-<span class=\"n\" id=\"n_29\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 5<br>D.O. 23.04.2025</a></span> Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Maule Valle (en adelante tambi&#xE9;n &quot;Servicio Local de Maule Valle&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n del Maule se&#xF1;alado en el numeral 4. del art&#xED;culo 6 del decreto N&#xB0; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 10379572,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 104.- El &#xE1;mbito de competencia territorial del Servicio Local de Los Vi&#xF1;edos comprender&#xE1; las comunas de Puente Alto, Pirque y San Jos&#xE9; de Maipo, y tendr&#xE1; su domicilio en la comuna de Puente Alto.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 104.-<span class=\"n\" id=\"n_30\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 5<br>D.O. 23.04.2025</a></span> El &#xE1;mbito de competencia territorial del Servicio Local de Maule Valle comprender&#xE1; las comunas de Talca, Maule, Pelarco, Pencahue, San Clemente, San Rafael y San Javier, y tendr&#xE1; su domicilio en la comuna de Talca.</div><br></div>"
+        },
+        {
+          "part_id": 10379573,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 105.- El Servicio Local de Los Vi&#xF1;edos iniciar&#xE1; sus funciones el d&#xED;a 1&#xB0; de marzo de 2026.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 105.- <span class=\"n\" id=\"n_31\"><a href=\"navegar?idNorma=1212674&amp;idParte=10545738&amp;idVersion=2025-04-23\">Decreto 15,<br>EDUCACI&#xD3;N<br>Art. primero N&#xBA; 5<br>D.O. 23.04.2025</a></span>El Servicio Local de Maule Valle iniciar&#xE1; sus funciones el d&#xED;a 1&#xB0; de marzo de 2026.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1212674,
+      "fecha": "2025-04-23"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2014-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-04-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9405214,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;bense los Protocolos de An&#xE1;lisis y/o Ensayos que se indican en la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/37532.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Los textos &#xED;ntegros de los protocolos individualizados en la presente resoluci&#xF3;n se encuentran en esta Superintendencia a disposici&#xF3;n de los interesados, y pueden ser consultados en el sitio web www.sec.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Los fabricantes nacionales, importadores y comercializadores de los productos el&#xE9;ctricos se&#xF1;alados en la presente resoluci&#xF3;n, previo a su comercializaci&#xF3;n en el pa&#xED;s, deber&#xE1;n contar con el respectivo Certificado de Aprobaci&#xF3;n de Eficiencia Energ&#xE9;tica, a partir de la fecha de aplicaci&#xF3;n, seg&#xFA;n lo indicado en el Resuelvo 1&#xBA; de la presente resoluci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;bense los Protocolos de An&#xE1;lisis y/o Ensayos que se indican en la siguiente tabla:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/37532.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Los textos &#xED;ntegros de los protocolos individualizados en la presente resoluci&#xF3;n se encuentran en esta Superintendencia a disposici&#xF3;n de los interesados, y pueden ser consultados en el sitio web www.sec.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Los fabricantes nacionales, importadores y comercializadores de los productos el&#xE9;ctricos se&#xF1;alados en la presente resoluci&#xF3;n, previo a su comercializaci&#xF3;n en el pa&#xED;s, deber&#xE1;n contar con el respectivo Certificado de Aprobaci&#xF3;n de Eficiencia Energ&#xE9;tica, a partir de la fecha de aplicaci&#xF3;n, seg&#xFA;n lo indicado en el Resuelvo 1&#xBA; de la presente resoluci&#xF3;n.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 7545 Exenta, Energ&#xED;a, publicada el 07.04.2015, modif&#xED;ca la fecha de entrada de aplicaci&#xF3;n de los protocolos de ensayos de eficiencia, para la certificaci&#xF3;n correspondiente a los productos lavavajillas es 31.03.2016, y secadora de ropa 31.03.2016.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2017-04-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9405214,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;bense los Protocolos de An&#xE1;lisis y/o Ensayos que se indican en la siguiente tabla:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/37532.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Los textos &#xED;ntegros de los protocolos individualizados en la presente resoluci&#xF3;n se encuentran en esta Superintendencia a disposici&#xF3;n de los interesados, y pueden ser consultados en el sitio web www.sec.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Los fabricantes nacionales, importadores y comercializadores de los productos el&#xE9;ctricos se&#xF1;alados en la presente resoluci&#xF3;n, previo a su comercializaci&#xF3;n en el pa&#xED;s, deber&#xE1;n contar con el respectivo Certificado de Aprobaci&#xF3;n de Eficiencia Energ&#xE9;tica, a partir de la fecha de aplicaci&#xF3;n, seg&#xFA;n lo indicado en el Resuelvo 1&#xBA; de la presente resoluci&#xF3;n.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 7545 Exenta, Energ&#xED;a, publicada el 07.04.2015, modif&#xED;ca la fecha de entrada de aplicaci&#xF3;n de los protocolos de ensayos de eficiencia, para la certificaci&#xF3;n correspondiente a los productos lavavajillas es 31.03.2016, y secadora de ropa 31.03.2016.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;bense los Protocolos de An&#xE1;lisis y/o Ensayos que se indican en la siguiente tabla:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/37532.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Los textos &#xED;ntegros de los protocolos individualizados en la presente resoluci&#xF3;n se encuentran en esta Superintendencia a disposici&#xF3;n de los interesados, y pueden ser consultados en el sitio web www.sec.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Los fabricantes nacionales, importadores y comercializadores de los productos el&#xE9;ctricos se&#xF1;alados en la presente resoluci&#xF3;n, previo a su comercializaci&#xF3;n en el pa&#xED;s, deber&#xE1;n contar con el respectivo Certificado de Aprobaci&#xF3;n de Eficiencia Energ&#xE9;tica, a partir de la fecha de aplicaci&#xF3;n, seg&#xFA;n lo indicado en el Resuelvo 1&#xBA; de la presente resoluci&#xF3;n.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 7545 Exenta, Energ&#xED;a, publicada el 07.04.2015, modif&#xED;ca la fecha de entrada de aplicaci&#xF3;n de los protocolos de ensayos de eficiencia, para la certificaci&#xF3;n correspondiente a los productos lavavajillas es 31.03.2016, y secadora de ropa 31.03.2016.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 17613 Exenta, Energ&#xED;a, publicada el 08.04.2017, modif&#xED;ca la fecha de entrada de aplicaci&#xF3;n de los protocolos de ensayos de eficiencia, para la certificaci&#xF3;n correspondiente a los productos lavavajillas para el 31.10.2017.</div></div>"
+        }
+      ]
+    }
+  }
+]

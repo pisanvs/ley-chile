@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-07-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-07-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8324472,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A SILVIA IRIS MENDOZA CONTRERAS PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A SILVIA IRIS MENDOZA CONTRERAS PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

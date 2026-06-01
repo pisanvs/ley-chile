@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2015-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-01-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9642804,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Autor&#xED;zanse las siguientes se&#xF1;ales especiales de Paradas de Buses para el sistema de transporte p&#xFA;blico del &#xC1;rea Metropolitana de Concepci&#xF3;n:&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/52944.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1098683&amp;idParte=9759273&amp;idVersion=2017-01-04\">Resoluci&#xF3;n 3304 EXENTA, <br>TRANSPORTES<br>D.O. 04.01.2017</a></span>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zanse las siguientes se&#xF1;ales especiales de Paradas de Buses para el sistema de transporte p&#xFA;blico del &#xC1;rea Metropolitana de Concepci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a) Colores de se&#xF1;ales seg&#xFA;n destino final:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63329.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  b) Tama&#xF1;os y tipolog&#xED;as:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63330.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  c) Elementos que componen las se&#xF1;ales:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63331.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  d) Especificaciones tipogr&#xE1;ficas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63332.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63333.jpg\">.</div><br><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  c) Secuencia de llenado:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63335.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63334.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  d) Mini panel-personas con discapacidad visual:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63336.jpg\">.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1098683,
+      "fecha": "2017-01-04"
+    }
+  },
+  {
+    "fecha": "2019-02-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9642804,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1098683&amp;idParte=9759273&amp;idVersion=2017-01-04\">Resoluci&#xF3;n 3304 EXENTA, <br>TRANSPORTES<br>D.O. 04.01.2017</a></span>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zanse las siguientes se&#xF1;ales especiales de Paradas de Buses para el sistema de transporte p&#xFA;blico del &#xC1;rea Metropolitana de Concepci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a) Colores de se&#xF1;ales seg&#xFA;n destino final:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63329.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  b) Tama&#xF1;os y tipolog&#xED;as:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63330.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  c) Elementos que componen las se&#xF1;ales:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63331.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  d) Especificaciones tipogr&#xE1;ficas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63332.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63333.jpg\">.</div><br><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  c) Secuencia de llenado:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63335.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63334.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  d) Mini panel-personas con discapacidad visual:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63336.jpg\">.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1098683&amp;idParte=9759273&amp;idVersion=2017-01-04\">Resoluci&#xF3;n 3304 EXENTA, <br>TRANSPORTES<br>D.O. 04.01.2017</a></span>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zanse las siguientes se&#xF1;ales especiales de Paradas de Buses para el sistema de transporte p&#xFA;blico del &#xC1;rea Metropolitana de Concepci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a) Colores de se&#xF1;ales seg&#xFA;n destino final:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63329.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  b) Tama&#xF1;os y tipolog&#xED;as:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63330.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  </div><br><br><div class=\"p\">&nbsp; &nbsp;  Por razones clim&#xE1;ticas y para mejor orientaci&#xF3;n de los usuarios, los mini<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1128712&amp;idParte=9999168&amp;idVersion=2019-02-11\">Resoluci&#xF3;n 280 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1, 1<br>D.O. 11.02.2019</a></span> paneles para personas con discapacidad visual, podr&#xE1;n ser instalados en la estructura del refugio peatonal si las condiciones de estos lo permiten.</div><br><div class=\"p\">&nbsp; &nbsp;  c) Elementos que componen las se&#xF1;ales:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63331.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  d) Especificaciones tipogr&#xE1;ficas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63332.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63333.jpg\">.</div><br><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  e) Secuencia de llenado<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1128712&amp;idParte=9999168&amp;idVersion=2019-02-11\">Resoluci&#xF3;n 280 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1, 2<br>D.O. 11.02.2019</a></span>:</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; </div><br><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63335.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63334.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  f) Mini panel-personas con discapacidad visual:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63336.jpg\">.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1128712,
+      "fecha": "2019-02-11"
+    }
+  }
+]

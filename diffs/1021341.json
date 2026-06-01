@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-12-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9080867,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Dentro del plazo de 18 meses contados desde la fecha de publicaci&#xF3;n de esta ley la Subsecretar&#xED;a de Pesca deber&#xE1; elaborar los estudios necesarios para determinar la talla de primera madurez sexual del recurso hidrobiol&#xF3;gico jurel a lo largo de todas las unidades de pesquer&#xED;a. Vencido dicho plazo la Subsecretar&#xED;a de Pesca determinar&#xE1; la talla m&#xED;nima del recurso jurel de conformidad con los resultados de los estudios t&#xE9;cnicos antes mencionados, seg&#xFA;n lo establecido en el art&#xED;culo 4&#xB0; de la Ley General de Pesca y Acuicultura.&quot;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Dentro del plazo de 18 meses contados desde la fecha de publicaci&#xF3;n de esta ley la Subsecretar&#xED;a de Pesca deber&#xE1; elaborar los estudios necesarios para determinar la talla de primera madurez sexual del recurso hidrobiol&#xF3;gico jurel a lo largo de todas las unidades de pesquer&#xED;a. Vencido dicho plazo la Subsecretar&#xED;a de Pesca determinar&#xE1; la talla m&#xED;nima del recurso jurel de conformidad con los resultados de los estudios t&#xE9;cnicos antes mencionados, seg&#xFA;n lo establecido en el art&#xED;culo 4&#xB0; de la Ley General de Pesca y Acuicultura. Durante dicho<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1035775&amp;idParte=9223112&amp;idVersion=2012-01-03\">Ley 20560<br>Art. 6<br>D.O. 03.01.2012</a></span> per&#xED;odo y en las Unidades de Pesquer&#xED;a comprendidas entre la XV y II, y III y IV Regiones, la extracci&#xF3;n de jurel se efectuar&#xE1; sobre una talla m&#xED;nima de car&#xE1;cter referencial de 22 cent&#xED;metros de longitud de horquilla. Sin perjuicio de lo anterior, se aceptar&#xE1; un margen de tolerancia de un 35% medido en n&#xFA;mero de ejemplares, respecto de la captura por cada viaje de pesca, durante per&#xED;odos que ser&#xE1;n definidos por la Subsecretar&#xED;a, debiendo cerrarse temporalmente por un lapso de siete d&#xED;as corridos, el &#xE1;rea o las &#xE1;reas definidas por la Subsecretar&#xED;a dentro de cada Unidad de Pesquer&#xED;a, si se excede dicho porcentaje.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1035775,
+      "fecha": "2012-01-03"
+    }
+  }
+]

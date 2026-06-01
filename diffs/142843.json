@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-09-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6189544,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base el Gabinete T&#xE9;cnico oreado e instalado en la Municipalidad de &quot;Panguipulli&quot;, por cumplir con los requisitos exigidos.</div><div class=\"p\">&nbsp; &nbsp;  2.- Autor&#xED;zase a la Municipalidad de &quot;Panguipulli&quot; para otorgar Licencias de Conductor de acuerdo a lo se&#xF1;alado en la Ley de Tr&#xE1;nsito y sus reglamentos.</div><div class=\"p\">&nbsp; &nbsp;  3.- En todo caso, la Municipalidad precedentemente individualizada deber&#xE1; suspender el otorgamiento de Licencias de Conductor, en el evento de faltarle alguno de los requisitos que hicieron posible la presente autorizaci&#xF3;n.-</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente Resoluci&#xF3;n entrar&#xE1; en vigencia a contar de su publicaci&#xF3;n en el Diario Oficial. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base el Gabinete T&#xE9;cnico creado e instalado en la Municipalidad de &quot;Panguipulli&quot;<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>, por cumplir con los requisitos exigidos.</div><div class=\"p\">&nbsp; &nbsp;  2.- Autor&#xED;zase a la Municipalidad de &quot;Panguipulli&quot; para otorgar Licencias de Conductor de acuerdo a lo se&#xF1;alado en la Ley de Tr&#xE1;nsito y sus reglamentos.</div><div class=\"p\">&nbsp; &nbsp;  3.- En todo caso, la Municipalidad precedentemente individualizada deber&#xE1; suspender el otorgamiento de Licencias de Conductor, en el evento de faltarle alguno de los requisitos que hicieron posible la presente autorizaci&#xF3;n.-</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente Resoluci&#xF3;n entrar&#xE1; en vigencia a contar de su publicaci&#xF3;n en el Diario Oficial. </div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xBA; de la Resoluci&#xF3;n 641, publicada el 16.09.2021, modifica la presente norma en el sentido de indicar que su direcci&#xF3;n de funcionamiento estar&#xE1; ubicada en calle Bernardo O&apos;Higgins N&#xB0; 786, comuna de Panguipulli, Regi&#xF3;n de Los R&#xED;os.</div></div>"
+        }
+      ]
+    }
+  }
+]

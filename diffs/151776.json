@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-08-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-07-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8356909,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MARIA SINFOROSA SOTO NAVARRO PABA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MARIA SINFOROSA SOTO NAVARRO PABA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

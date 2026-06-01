@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-07-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-07-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10036881,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese el orden de subrogaci&#xF3;n del cargo de Secretario Ejecutivo de la Comisi&#xF3;n Nacional de Riego, el que quedar&#xE1; como sigue:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Primer Subrogante: Jefe de la Divisi&#xF3;n Jur&#xED;dica, Directivo grado 4&#xBA; EUR. </div><div class=\"p\">&nbsp; &nbsp;  Segundo Subrogante: Jefe de Departamento de Fomento al Riego, Directivo grado 4&#xBA; EUR.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  2. D&#xE9;jase sin efecto el decreto exento N&#xBA; 193, de 2012, del Ministerio de Agricultura. </div><div class=\"p\">&nbsp; &nbsp;  3. Env&#xED;ese una copia del presente decreto, al Secretario Ejecutivo de la Comisi&#xF3;n Nacional de Riego, para su conocimiento.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Deja <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1134077&amp;idParte=10040405&amp;idVersion=2019-07-19\">Decreto 68 EXENTO, <br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 19.07.2019</a></span>sin efecto.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  2. D&#xE9;jase sin efecto el decreto exento N&#xBA; 193, de 2012, del Ministerio de Agricultura. </div><div class=\"p\">&nbsp; &nbsp;  3. Env&#xED;ese una copia del presente decreto, al Secretario Ejecutivo de la Comisi&#xF3;n Nacional de Riego, para su conocimiento.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1134077,
+      "fecha": "2019-07-19"
+    }
+  }
+]

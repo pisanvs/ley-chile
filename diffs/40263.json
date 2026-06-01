@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-10-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-10-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7202696,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA EL INGRESO DE LAS ESPECIES QUE INDICA DESDE ISLA DE PASCUA</div><div class=\"p\">&nbsp; &nbsp; Santiago, 18 de Octubre de 1995.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.903 exenta.- Visto: el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola; las Resoluciones N&#xB0; 39 y 350 de 1981; N&#xB0; 1039 de 1982; N&#xB0; 800 de 1983 y N&#xB0; 216 de 1984, todas expedidas por el Servicio Agr&#xED;cola y Ganadero; el Art. 3&#xB0;, letra a), b), c) y d) de la Ley N&#xB0; 18.755, modificada por la Ley N&#xB0; 19.293, y</div><div class=\"p\">&nbsp; &nbsp; C o n s i d e r a n d o:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que las condiciones fitosanitarias existentes en Isla de Pascua justifican mantener restricciones al transporte de productos vegetales al territorio continental.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que en Isla de Pascua se cultivan especies cuyo volumen de producci&#xF3;n no alcanza a ser absorbido por la demanda local.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que es necesario estimular la agricultura insular a trav&#xE9;s de la comercializaci&#xF3;n de productos en el continente, tomando las medidas cuarentenarias que reduzcan los riesgos fitosanitarios.</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA EL INGRESO DE LAS ESPECIES QUE INDICA DESDE ISLA DE PASCUA</div><div class=\"p\">&nbsp; &nbsp; Santiago, 18 de Octubre de 1995.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.903 exenta.- Visto: el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola; las Resoluciones N&#xB0; 39 y 350 de 1981; N&#xB0; 1039 de 1982; N&#xB0; 800 de 1983 y N&#xB0; 216 de 1984, todas expedidas por el Servicio Agr&#xED;cola y Ganadero; el Art. 3&#xB0;, letra a), b), c) y d) de la Ley N&#xB0; 18.755, modificada por la Ley N&#xB0; 19.293, y</div><div class=\"p\">&nbsp; &nbsp; C o n s i d e r a n d o:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que las condiciones fitosanitarias existentes en Isla de Pascua justifican mantener restricciones al transporte de productos vegetales al territorio continental.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que en Isla de Pascua se cultivan especies cuyo volumen de producci&#xF3;n no alcanza a ser absorbido por la demanda local.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que es necesario estimular la agricultura insular a trav&#xE9;s de la comercializaci&#xF3;n de productos en el continente, tomando las medidas cuarentenarias que reduzcan los riesgos fitosanitarios.</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

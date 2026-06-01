@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-01-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8323848,
+          "old": "<div><br><div class=\"p\">AUTORIZA A DO&#xD1;A EDITH DEL CARMEN ARRIAGADA AROS PARA INICIAR ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A EDITH DEL CARMEN ARRIAGADA AROS PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

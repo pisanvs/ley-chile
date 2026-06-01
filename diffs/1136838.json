@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-10-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10057412,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Apru&#xFFFD;base la Norma T&#xE9;cnica N&#xBA; 208, para el &quot;Almacenamiento y Transporte de Medicamentos Refrigerados y Congelados&quot;.</div><div class=\"p\">&nbsp; &nbsp;  La Norma T&#xE9;cnica aprobada por este decreto, la cual se adjunta y se entiende formar parte integrante del mismo, consta de 20 p&#xE1;ginas.</div><div class=\"p\">&nbsp; &nbsp;  Esta Norma T&#xE9;cnica es aplicable a los establecimientos sanitariamente autorizados que realizan las actividades de almacenamiento y distribuci&#xF3;n de este tipo de productos, tales como, laboratorios farmac&#xE9;uticos, droguer&#xED;as, dep&#xF3;sitos de productos farmac&#xE9;uticos de uso humano, dep&#xF3;sitos de vacunas e inmunoglobulinas, farmacias, botiquines y recetarios magistrales siendo un complemento de la Norma T&#xE9;cnica N&#xBA; 147, del Ministerio de Salud, para las particularidades que estos productos representan.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Apru&#xE9;base la Norma T&#xE9;cnica N&#xBA; 208, para el &quot;Almacenamiento y Transporte de Medicamentos Refrigerados y Congelados&quot;.</div><div class=\"p\">&nbsp; &nbsp;  La <div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA</a></div>Norma T&#xE9;cnica aprobada por este decreto, la cual se adjunta y se entiende formar parte integrante del mismo, consta de 20 p&#xE1;ginas.</div><div class=\"p\">&nbsp; &nbsp;  Esta Norma T&#xE9;cnica es aplicable a los establecimientos sanitariamente autorizados que realizan las actividades de almacenamiento y distribuci&#xF3;n de este tipo de productos, tales como, laboratorios farmac&#xE9;uticos, droguer&#xED;as, dep&#xF3;sitos de productos farmac&#xE9;uticos de uso humano, dep&#xF3;sitos de vacunas e inmunoglobulinas, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1149659&amp;idParte=10160815&amp;idVersion=2020-09-21\">Decreto 49 EXENTO, SALUD<br>Art. primero N&#xB0; 1<br>D.O. 21.09.2020</a></span>siendo un complemento de la Norma T&#xE9;cnica N&#xBA; 147, del Ministerio de Salud, para las particularidades que estos productos representan.</div><div class=\"p\">&nbsp; &nbsp;  Esta <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1149659&amp;idParte=10160815&amp;idVersion=2020-09-21\">Decreto 49 EXENTO, SALUD<br>Art. primero N&#xB0; 2<br>D.O. 21.09.2020</a></span>norma t&#xE9;cnica no ser&#xE1; aplicable a las farmacias, botiquines y recetarios magistrales.</div><div class=\"p\"> </div><br><br><br><br><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los numerales 3 y 4 del art&#xED;culo primero del Decreto 49 Exento, Salud, publicado el 21.09.2020, disponen modificar en la presente norma el apartado II &quot;Alcances&quot;. Sin embargo, no se ha podido realizar la actualizaci&#xF3;n por no encontrarse disponible en su texto tal apartado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1149659,
+      "fecha": "2020-09-21"
+    }
+  }
+]

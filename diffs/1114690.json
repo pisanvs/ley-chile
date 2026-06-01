@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2018-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-10-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9882352,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- El cierre definitivo de la instituci&#xF3;n regir&#xE1; a partir del 31 de enero de 2021, sin perjuicio que el Ministerio de Educaci&#xF3;n podr&#xE1;, mediante resoluci&#xF3;n fundada, antes del vencimiento de dicha fecha, extender el plazo por un m&#xE1;ximo de veinticuatro meses a aquellas sedes, carreras o programas que, por razones fundadas, requieran seguir funcionando.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, la Universidad no podr&#xE1; admitir nuevos alumnos, en ninguno de los programas y carreras que imparta, desde la suscripci&#xF3;n de este acto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- El cierre <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1150512&amp;idParte=10166401&amp;idVersion=2020-10-13\">Decreto 706 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 13.10.2020</a></span>definitivo de la instituci&#xF3;n regir&#xE1; a partir del 31 de enero de 2021, sin perjuicio que el Ministerio de Educaci&#xF3;n podr&#xE1;, mediante resoluci&#xF3;n fundada, antes del vencimiento de dicha fecha, extender el plazo por un m&#xE1;ximo de cuarenta y dos meses, a efectos de <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>finalizar los procesos acad&#xE9;micos y de titulaci&#xF3;n vigentes.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, la Universidad no podr&#xE1; admitir nuevos alumnos, en ninguno de los programas y carreras que imparta, desde la suscripci&#xF3;n de este acto.</div><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 2 del Decreto 706 Exento, Educaci&#xF3;n, publicado el 13.10.2020, prorroga el plazo de cierre definitivo de la Universidad de Artes y Ciencias Sociales-Arcis hasta el 31 de julio de 2024.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2024-07-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9882352,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- El cierre <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1150512&amp;idParte=10166401&amp;idVersion=2020-10-13\">Decreto 706 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 13.10.2020</a></span>definitivo de la instituci&#xF3;n regir&#xE1; a partir del 31 de enero de 2021, sin perjuicio que el Ministerio de Educaci&#xF3;n podr&#xE1;, mediante resoluci&#xF3;n fundada, antes del vencimiento de dicha fecha, extender el plazo por un m&#xE1;ximo de cuarenta y dos meses, a efectos de <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>finalizar los procesos acad&#xE9;micos y de titulaci&#xF3;n vigentes.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, la Universidad no podr&#xE1; admitir nuevos alumnos, en ninguno de los programas y carreras que imparta, desde la suscripci&#xF3;n de este acto.</div><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 2 del Decreto 706 Exento, Educaci&#xF3;n, publicado el 13.10.2020, prorroga el plazo de cierre definitivo de la Universidad de Artes y Ciencias Sociales-Arcis hasta el 31 de julio de 2024.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- El<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1205308&amp;idParte=10510148&amp;idVersion=2024-07-30\">Decreto 564 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1&#xBA;<br>D.O. 30.07.2024</a></span> cierre definitivo de la instituci&#xF3;n regir&#xE1; a partir del d&#xED;a 31 de diciembre de 2025, sin perjuicio que el Ministerio de Educaci&#xF3;n podr&#xE1;, mediante acto administrativo fundado, antes del vencimiento de dicha fecha, extender el plazo a aquellas sedes, carreras o programas que, por razones fundadas, requieran seguir funcionando.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, la Universidad no podr&#xE1; admitir nuevos alumnos, en ninguno de los programas y carreras que imparta, desde la suscripci&#xF3;n de este acto.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1205308,
+      "fecha": "2024-07-30"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-03-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6256386,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: Por medio de los concursos de car&#xE1;cter general se distribuir&#xE1;n un total de $7.582.843.- miles entre las instituciones de Educaci&#xF3;n Superior se&#xF1;aladas en el art&#xED;culo 1&#xBA; del decreto con fuerza de ley N&#xBA; 4 de 1981 de Educaci&#xF3;n, en las modalidades que se indican en los art&#xED;culos siguientes:</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: Por medio de los concursos de car&#xE1;cter<span class=\"n\" id=\"n_0\">DTO 327, EDUCACION<br>ART. 1<br>D.O. 12.08.2000</span> general se distribuir&#xE1;n un total de $7.462.843.-&nbsp; miles entre las instituciones de Educaci&#xF3;n Superior se&#xF1;aladas en el art&#xED;culo 1&#xBA; del decreto con fuerza de ley N&#xBA; 4 de 1981 de Educaci&#xF3;n, en las modalidades que se indican en los art&#xED;culos siguientes:</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-07-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-10-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6026825,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DELEGA EN EL DIRECTOR REGIONAL DE LA XIII DIRECCION REGIONAL METROPOLITANA SANTIAGO CENTRO LAS FACULTADES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">DELEGA EN EL DIRECTOR REGIONAL DE LA XIII DIRECCION REGIONAL METROPOLITANA SANTIAGO CENTRO LAS FACULTADES QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

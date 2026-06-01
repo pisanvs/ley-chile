@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-02-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6316807,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;4.697, de 27 de octubre de 2000, se</div><div class=\"p\">rectific&#xF3; el decreto MOP N&#xB0; 4015 de 30 de diciembre de 1999</div><div class=\"p\">en sus numerales 1&#xB0;, 2&#xB0;, 3&#xB0; y 7&#xB0;, que expropi&#xF3; el lote de</div><div class=\"p\">terreno N&#xBA;2, para la obra: &apos;&apos;CONCESION INTERNACIONAL RUTA 5.</div><div class=\"p\">TRAMO: TALCA-CHILLAN. SECTOR : KM. 262.740,00 AL KM.</div><div class=\"p\">265.740,00&apos;&apos;, S&#xE9;ptima Regi&#xF3;n, que figura a nombre de Soc</div><div class=\"p\">Serv y Const Fdo Lazcano Ltda, rol de aval&#xFA;o 168-123, comuna</div><div class=\"p\">de MAULE, superficie 465 m2. La comisi&#xF3;n de peritos</div><div class=\"p\">integrada por los se&#xF1;ores Paula Soledad Gonz&#xE1;lez Ortega,</div><div class=\"p\">Arturo Alejandro Briso Inostroza y Mar&#xED;a Isabel de Jes&#xFA;s R&#xED;os Marcuello, fij&#xF3; con fecha 20 de septiembre de 2000, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $1.627.500.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto Ley N&#xBA;2186, de 1978. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;4.697, de 27 de octubre de 2000, se rectific&#xF3; el decreto MOP N&#xB0; 4015 de 30 de diciembre de 1999 en sus numerales 1&#xB0;, 2&#xB0;, 3&#xB0; y 7&#xB0;, que expropi&#xF3; el lote de terreno N&#xBA;5, para la obra: &quot;CONCESION<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 01.02.2001</span> INTERNACIONAL RUTA 5. TRAMO: TALCA-CHILLAN. SECTOR : KM. 262.740,00 AL KM. 265.740,00&quot;, S&#xE9;ptima Regi&#xF3;n, que figura a nombre de Soc Serv y Const Fdo Lazcano Ltda, rol de aval&#xFA;o 168-123, comuna de MAULE, superficie 465 m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Paula Soledad Gonz&#xE1;lez Ortega, Arturo Alejandro Briso Inostroza y Mar&#xED;a Isabel de Jes&#xFA;s R&#xED;os Marcuello, fij&#xF3; con fecha 20 de septiembre de 2000, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $1.627.500.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto Ley N&#xBA;2186, de 1978. </div></div>"
+        }
+      ]
+    }
+  }
+]

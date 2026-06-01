@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-10-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-05-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8321024,
+          "old": "<div><div class=\"p\">AUTORIZA A DON PABLINO GARATE SALAS PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON PABLINO GARATE SALAS PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

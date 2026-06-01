@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-02-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-10-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7307862,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Cr&#xE9;anse en la Planta de Profesionales del Instituto de Desarrollo Agropecuario siete cargos de Profesionales de grado 5&#xBA; de la escala &#xFA;nica de remuneraciones y tres cargos de Profesionales de grado 6&#xBA; de la misma escala.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Cr&#xE9;anse en la Planta de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Profesionales del Instituto de Desarrollo Agropecuario siete cargos de Profesionales de grado 5&#xBA; de la escala &#xFA;nica de remuneraciones y tres cargos de Profesionales de grado 6&#xBA; de la misma escala.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero, N&#xBA; 2 del DFL 3, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 5, en la Planta de personal estamento Directivo del Instituto de Desarrollo Agropecuario. Por su parte, el N&#xBA; 3 del citado cuerpo legal crea un cargo de Director Regional, grado 6, en la planta de personal de Directivos del Servicio Agr&#xED;cola y Ganadero.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

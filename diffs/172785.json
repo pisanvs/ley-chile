@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-07-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6288340,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Autor&#xED;zase a la Jefe del Departamento de Programas sobre el Ambiente del Servicio de Salud Llanquihue, Chilo&#xE9; y Palena Dra. Clara Kiguel Abramo-vich, para usar en el desempe&#xF1;o de sus funciones el veh&#xED;culo individualizado en el art&#xED;culo anterior y, asimismo, autor&#xED;zase indistintamente el uso del se&#xF1;alado veh&#xED;culo a los funcionarios de dicho Servicio D. Alejandro Roa Estero y a D. Ra&#xFA;l Bastidas Sol&#xED;s en el ejercicio de sus labores inherentes a sus cargos. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Autor&#xED;zase a la Jefe del Departamento de Programas sobre el Ambiente del Servicio de Salud Llanquihue, Chilo&#xE9; y Palena Dra. Clara Kiguel Abramo-vich, para usar en el desempe&#xF1;o de sus funciones el veh&#xED;culo individualizado en el art&#xED;culo anterior y, asimismo, autor&#xED;zase indistintamente el uso del se&#xF1;alado veh&#xED;culo a los funcionarios de dicho Servicio D. Alejandro Roa Estero y a D. Ra&#xFA;l Bastidas Sol&#xED;s en el ejercicio de sus labores inherentes a sus cargos. Asimismo, autor&#xED;zase al Director del Servicio de<span class=\"n\" id=\"n_0\">DTO 395 EXENTO,SALUD<br>Letra A)<br>D.O. 19.03.2001</span> Salud Llanquihue Chilo&#xE9; Palena para usar, en el desempe&#xF1;o de sus funciones, el veh&#xED;culo individualizado en el art&#xED;culo anterior, el cual podr&#xE1; guardar en su domicilio particular, adoptando los resguardos procedentes. </div></div>"
+        }
+      ]
+    }
+  }
+]

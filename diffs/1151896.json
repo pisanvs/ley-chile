@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "2020-11-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-07-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10556459,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11 bis.- La Divisi&#xF3;n de Tecnolog&#xED;as Emergentes,<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1215284&amp;idParte=10556276&amp;idVersion=2025-07-30\">Decreto 4,<br>CIENCIA,<br>Art. &#xFA;nico N&#xB0; 2<br>D.O. 30.07.2025</a></span> dependiente de la Subsecretar&#xED;a de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n es la encargada de dise&#xF1;ar estrategias y generar iniciativas que impulsen y potencien capacidades tecnol&#xF3;gicas emergentes para ampliar oportunidades de innovaci&#xF3;n, inversi&#xF3;n, desarrollo y regulaci&#xF3;n, en coordinaci&#xF3;n con los actores relevantes del sector p&#xFA;blico, privado y acad&#xE9;mico. Dicha divisi&#xF3;n tiene, entre otras, las siguientes funciones:</div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp; a) Proponer metodolog&#xED;as e instrumentos para la identificaci&#xF3;n, seguimiento y an&#xE1;lisis de tecnolog&#xED;as emergentes con potencial impacto en el desarrollo productivo y social del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; b) Promover capacidades tecnol&#xF3;gicas, inversi&#xF3;n y desarrollo en sectores estrat&#xE9;gicos en diversos &#xE1;mbitos del desarrollo de tecnolog&#xED;as emergentes.</div><div class=\"p\">&nbsp; &nbsp; c) Promover, fomentar y fortalecer los v&#xED;nculos entre los sectores p&#xFA;blico, privado y acad&#xE9;mico en &#xE1;mbitos del desarrollo de tecnolog&#xED;as emergentes.</div><div class=\"p\">&nbsp; &nbsp; d) Generar instancias de di&#xE1;logo y coordinaci&#xF3;n con la comunidad cient&#xED;fica, instituciones p&#xFA;blicas y privadas en &#xE1;mbitos del desarrollo de tecnolog&#xED;as emergentes.</div><div class=\"p\">&nbsp; &nbsp; e) Desempe&#xF1;ar las dem&#xE1;s funciones que le encomiende la ley y las autoridades del Ministerio.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10176294,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- La estructura interna del Ministerio de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n ser&#xE1; la siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) El Ministro o Ministra de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n en adelante tambi&#xE9;n &quot;el Ministro o Ministra&quot;.</div><div class=\"p\">&nbsp; &nbsp;  b) El Subsecretario o Subsecretaria de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n, en adelante tambi&#xE9;n &quot;el Subsecretario o Subsecretaria&quot;.</div><div class=\"p\">&nbsp; &nbsp;  c) Las Secretar&#xED;as Regionales Ministeriales de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n, en adelante, tambi&#xE9;n &quot;Secretar&#xED;as Regionales Ministeriales&quot;.</div><div class=\"p\">&nbsp; &nbsp;  d) La Divisi&#xF3;n de Pol&#xED;ticas P&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp;  e) La Divisi&#xF3;n de Ciencia y Sociedad.</div><div class=\"p\">&nbsp; &nbsp;  f) La Divisi&#xF3;n Jur&#xED;dica.</div><div class=\"p\">&nbsp; &nbsp;  g) La Divisi&#xF3;n de Administraci&#xF3;n y Finanzas.</div><div class=\"p\">&nbsp; &nbsp;  h) La Oficina de Comunicaciones. dependiente directamente del Ministro o Ministra, el Departamento de Auditor&#xED;a Interna, dependiente del Subsecretario o Subsecretaria, y la Oficina de Estudios y Estad&#xED;stica,&nbsp; dependiente de la Divisi&#xF3;n de Pol&#xED;ticas P&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- La estructura interna del Ministerio de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n ser&#xE1; la siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) El Ministro o Ministra de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n en adelante tambi&#xE9;n &quot;el Ministro o Ministra&quot;.</div><div class=\"p\">&nbsp; &nbsp;  b) El Subsecretario o Subsecretaria de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n, en adelante tambi&#xE9;n &quot;el Subsecretario o Subsecretaria&quot;.</div><div class=\"p\">&nbsp; &nbsp;  c) Las Secretar&#xED;as Regionales Ministeriales de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n, en adelante, tambi&#xE9;n &quot;Secretar&#xED;as Regionales Ministeriales&quot;.</div><div class=\"p\">&nbsp; &nbsp;  d) La Divisi&#xF3;n de Pol&#xED;ticas P&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp;  e) La Divisi&#xF3;n de Ciencia y Sociedad.</div><div class=\"p\">&nbsp; &nbsp;  f) La Divisi&#xF3;n Jur&#xED;dica.</div><div class=\"p\">&nbsp; &nbsp;  g) La Divisi&#xF3;n de Administraci&#xF3;n y Finanzas.</div><div class=\"p\">&nbsp; &nbsp;  h) La Divisi&#xF3;n de Tecnolog&#xED;as Emergentes.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1215284&amp;idParte=10556276&amp;idVersion=2025-07-30\">Decreto 4,<br>CIENCIA,<br>Art. &#xFA;nico N&#xB0; 1, i y ii<br>D.O. 30.07.2025</a></span></div><div class=\"p\">&nbsp; &nbsp;  i) La Oficina de Comunicaciones dependiente directamente del Ministro o Ministra, el Departamento de Auditor&#xED;a Interna, dependiente del Subsecretario o Subsecretaria, y la Oficina de Estudios y Estad&#xED;stica,&nbsp; dependiente de la Divisi&#xF3;n de Pol&#xED;ticas P&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1215284,
+      "fecha": "2025-07-30"
+    }
+  }
+]

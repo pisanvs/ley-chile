@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-05-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-08-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8543983,
+          "old": "<div><div class=\"p\">AUTORIZA A DON ROBERTO PEDRO IBA&#xD1;EZ MONCADA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA LA CADUCIDAD DE LA RESOLUCION QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON ROBERTO PEDRO IBA&#xD1;EZ MONCADA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA LA CADUCIDAD DE LA RESOLUCION QUE SE&#xD1;ALA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

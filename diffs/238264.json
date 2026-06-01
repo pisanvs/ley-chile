@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-05-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7320556,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Articulo 1&#xB0;. Establ&#xE9;cese el siguiente procedimiento para la determinaci&#xF3;n del monto que percibir&#xE1; el personal de planta y a contrata de los Servicios de Salud se&#xF1;alados en el art&#xED;culo 16 del decreto ley N&#xB0;2.763, de 1979, por concepto de la asignaci&#xF3;n de turno a que se refiere el art&#xED;culo 72 del mismo cuerpo legal:</div><br><div class=\"p\">1.&nbsp;  Para el personal que labora efectiva y</div><div class=\"p\">&nbsp; &nbsp;  permanentemente en puestos de trabajo que requieren atenci&#xF3;n las 24 horas del d&#xED;a, durante todos los d&#xED;as del a&#xF1;o, en un sistema de turno integrado por cuatro funcionarios, la asignaci&#xF3;n de turno ser&#xE1; equivalente a un 38% aplicado sobre la suma mensual del sueldo base del grado en que est&#xE9; nombrado o contratado el funcionario, m&#xE1;s la asignaci&#xF3;n de antig&#xFC;edad y las asignaciones establecidas en los art&#xED;culos 17 y 19 de la ley N&#xBA;19.185, y, cuando corresponda, la se&#xF1;alada en el art&#xED;culo 2&#xBA; de la ley N&#xBA;19.699.</div><div class=\"p\">2.&nbsp;  Para el personal que labora efectiva y</div><div class=\"p\">&nbsp; &nbsp;  permanentemente en puestos de trabajo que requieren atenci&#xF3;n las 24 horas del d&#xED;a, durante todos los d&#xED;as del a&#xF1;o, en un sistema de turno integrado por tres funcionarios, la asignaci&#xF3;n de turno ser&#xE1; equivalente a un 70% aplicado sobre la suma mensual del sueldo base del grado en que est&#xE9; nombrado o contratado el funcionario, m&#xE1;s la asignaci&#xF3;n de antig&#xFC;edad y las asignaciones establecidas en los art&#xED;culos 17 y 19 de la ley N&#xBA;19.185, y, cuando corresponda, la se&#xF1;alada en el art&#xED;culo 2&#xBA; de la ley N&#xBA;19.699.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Articulo 1&#xB0;. Establ&#xE9;cese el siguiente procedimiento para la determinaci&#xF3;n del monto que percibir&#xE1; el personal de planta y a contrata de los Servicios de Salud se&#xF1;alados en el art&#xED;culo 16 del decreto ley N&#xB0;2.763, de 1979, por concepto de la asignaci&#xF3;n de turno a que se refiere el art&#xED;culo 72 del mismo cuerpo legal:</div><br><div class=\"p\">1.&nbsp;  Para el personal que labora efectiva y</div><div class=\"p\">&nbsp; &nbsp;  permanentemente en puestos de trabajo que requieren atenci&#xF3;n las 24 horas del d&#xED;a, durante todos los d&#xED;as del a&#xF1;o, en un sistema de turno integrado por cuatro funcionarios, la asignaci&#xF3;n de turno ser&#xE1; equivalente a un <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1096972&amp;idParte=9749100&amp;idVersion=2016-11-29\">Ley 20972<br>Art. 5<br>D.O. 29.11.2016</a></span>40% aplicado sobre la suma mensual del sueldo base del grado en que est&#xE9; nombrado o contratado el funcionario, m&#xE1;s la asignaci&#xF3;n de antig&#xFC;edad y las asignaciones establecidas en los art&#xED;culos 17 y 19 de la ley N&#xBA;19.185, y, cuando corresponda, la se&#xF1;alada en el art&#xED;culo 2&#xBA; de la ley N&#xBA;19.699.</div><div class=\"p\">2.&nbsp;  Para el personal que labora efectiva y</div><div class=\"p\">&nbsp; &nbsp;  permanentemente en puestos de trabajo que requieren atenci&#xF3;n las 24 horas del d&#xED;a, durante todos los d&#xED;as del a&#xF1;o, en un sistema de turno integrado por tres funcionarios, la asignaci&#xF3;n de turno ser&#xE1; equivalente a un 70% aplicado sobre la suma mensual del sueldo base del grado en que est&#xE9; nombrado o contratado el funcionario, m&#xE1;s la asignaci&#xF3;n de antig&#xFC;edad y las asignaciones establecidas en los art&#xED;culos 17 y 19 de la ley N&#xBA;19.185, y, cuando corresponda, la se&#xF1;alada en el art&#xED;culo 2&#xBA; de la ley N&#xBA;19.699.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1973-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004593,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Transitoriamente, las Cajas de Compensaci&#xF3;n de Asignaci&#xF3;n Familiar Obrera ser&#xE1;n administradas por un Consejo integrado por tres personas, de las cuales una ser&#xE1; representante de los obreros beneficiarios; otra de los adherentes, y otra de la Junta de Gobierno, que ser&#xE1; presidente del Consejo. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Transitoriamente, las Cajas de Compensaci&#xF3;n de Asignaci&#xF3;n Familiar Obrera ser&#xE1;n administradas por un Consejo integrado por tres personas, de las cuales una ser&#xE1; representante de los trabajadores beneficiarios; otra de los adherentes,<span class=\"n\" id=\"n_0\">DL 2062, TRABAJO<br>Art. 17 a)<br>D.O. 19.12.1977</span> y otra de la Junta de Gobierno, que ser&#xE1; presidente del Consejo.</div><br></div>"
+        },
+        {
+          "part_id": 9004595,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Los representantes de los obreros beneficiarios y de los adherentes deber&#xE1;n reunir, respectivamente, las calidades indicadas por los art&#xED;culos 10 y 11 del decreto N&#xB0; 640, de 13 de Diciembre de 1963, del Ministerio del Trabajo y Previsi&#xF3;n Social. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Los representantes de los trabajadores beneficiarios y de los adherentes<span class=\"n\" id=\"n_1\">DL 2062, TRABAJO<br>Art. 17 b)<br>D.O. 19.12.1977</span> deber&#xE1;n reunir, respectivamente, las calidades indicadas por los art&#xED;culos 10 y 11 del decreto N&#xB0; 640, de 13 de Diciembre de 1963, del Ministerio del Trabajo y Previsi&#xF3;n Social.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

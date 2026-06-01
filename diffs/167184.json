@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "2000-04-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-05-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6270509,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 33&#xBA;.- La idoneidad y competencia tendr&#xE1; un m&#xE1;ximo de 15 puntos y ser&#xE1; ponderada en conciencia con la Comisi&#xF3;n teniendo en cuenta los puntajes obtenidos en los dem&#xE1;s factores, las condiciones morales y de car&#xE1;cter del concursante conocidas por la Comisi&#xF3;n, su &#xFA;ltima calificaci&#xF3;n funcionaria y hoja de vida; en cuanto puedan guardar relaci&#xF3;n con las condiciones adecuadas para el mejor desempe&#xF1;o del cargo.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n podr&#xE1; requerir informaci&#xF3;n adicional acerca del comportamiento funcionario y profesional que pueda incidir en el futuro desempe&#xF1;o del cargo, a las instituciones en las que &#xE9;ste se hubiere desempe&#xF1;ado. En la calificaci&#xF3;n de la idoneidad y competencia de los postulantes a los concursos de cargos de la planta de directivos, deber&#xE1; ponderarse la formaci&#xF3;n y/o experiencia en Medicina Legal y/o Administraci&#xF3;n, as&#xED; como las aptitudes demostradas para desempe&#xF1;ar funciones de jefatura o direcci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Cuando la Comisi&#xF3;n lo estime conveniente podr&#xE1; someter a una entrevista estructurada sobre la adecuaci&#xF3;n al perfil laboral que requiere el cargo directivo, a los postulantes de m&#xE1;s altos puntajes, cuyo n&#xFA;mero deber&#xE1; ser definido por la Comisi&#xF3;n al momento de constituirse para fijar los criterios de asignaci&#xF3;n y ponderaci&#xF3;n de puntaje.</div><div class=\"p\">&nbsp; &nbsp;  Las medidas disciplinarias de censura y multa aplicadas en los cinco a&#xF1;os anteriores, ser&#xE1;n examinadas en conciencia por la Comisi&#xF3;n, la que podr&#xE1; rebajar hasta en cinco puntos el puntaje de este rubro. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 33&#xBA;.- La idoneidad y competencia tendr&#xE1; un<span class=\"n\" id=\"n_0\">RES 505 EXENTA<br>SERV. MED. LEGAL<br>N&#xBA; 1<br>D.O. 13.05.2000</span> m&#xE1;ximo de 15 puntos y ser&#xE1; ponderada en conciencia por la Comisi&#xF3;n teniendo en cuenta los puntajes obtenidos en los dem&#xE1;s factores, las condiciones morales y de car&#xE1;cter del concursante conocidas por la Comisi&#xF3;n, su &#xFA;ltima calificaci&#xF3;n funcionaria y hoja de vida; en cuanto puedan guardar relaci&#xF3;n con las condiciones adecuadas para el mejor desempe&#xF1;o del cargo. La Comisi&#xF3;n podr&#xE1; requerir informaci&#xF3;n adicional acerca del comportamiento funcionario y profesional que pueda incidir en el futuro desempe&#xF1;o del cargo, a las instituciones en las que &#xE9;ste se hubiere desempe&#xF1;ado. En la calificaci&#xF3;n de la idoneidad y competencia de los postulantes a los concursos de cargos de la planta de directivos, deber&#xE1; ponderarse la formaci&#xF3;n y/o experiencia en Medicina Legal y/o Administraci&#xF3;n, as&#xED; como las aptitudes demostradas para desempe&#xF1;ar funciones de jefatura o direcci&#xF3;n. Cuando la Comisi&#xF3;n lo estime conveniente podr&#xE1; someter a una entrevista estructurada sobre la adecuaci&#xF3;n al perfil laboral que requiere el cargo directivo, a los postulantes de m&#xE1;s altos puntajes, cuyo n&#xFA;mero deber&#xE1; ser definido por la Comisi&#xF3;n al momento de constituirse para fijar los criterios de asignaci&#xF3;n y ponderaci&#xF3;n de puntaje. Las medidas disciplinarias de censura y multa aplicadas en los cinco a&#xF1;os anteriores, ser&#xE1;n examinadas en conciencia por la Comisi&#xF3;n, la que podr&#xE1; rebajar hasta en cinco puntos el puntaje de este rubro. </div></div>"
+        },
+        {
+          "part_id": 6270516,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 37&#xBA;.- En caso de empate entre dos o m&#xE1;s postulantes, el concurso ser&#xE1; resuelto seg&#xFA;n el siguiente orden de prelaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- (A definir) Se dar&#xE1; preferencia al oponente que pertenezca al Servicio M&#xE9;dico Legal, ya sea en car&#xE1;cter de titular, suplente o contratado, en ese mismo orden.</div><div class=\"p\">&nbsp; &nbsp;  2.- De mantenerse la igualdad, se preferir&#xE1; al que tenga mayor puntaje en cargos desempe&#xF1;ados en el Servicio M&#xE9;dico Legal.</div><div class=\"p\">&nbsp; &nbsp;  3.- De subsistir el empate, deber&#xE1; resolver la Comisi&#xF3;n correspondiente, dejando registrado en el acta el criterio utilizado para dirimirlo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 37&#xBA;.- En caso de empate entre dos o m&#xE1;s postulantes, el concurso ser&#xE1; resuelto seg&#xFA;n el siguiente orden de prelaci&#xF3;n: 1.- Se dar&#xE1; preferencia al oponente que pertenezca<span class=\"n\" id=\"n_1\">RES 505 EXENTA<br>SERV. MED. LEGAL<br>N&#xBA; 2<br>D.O. 13.05.2000</span></div><div class=\"p\"> al Servicio M&#xE9;dico Legal, ya sea en car&#xE1;cter de titular,</div><div class=\"p\"> suplente o contratado, en ese mismo orden.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- De mantenerse la igualdad, se preferir&#xE1; al que</div><div class=\"p\">tenga mayor puntaje en cargos desempe&#xF1;ados en el</div><div class=\"p\">Servicio M&#xE9;dico Legal.</div><div class=\"p\">&nbsp; &nbsp;  3.- De subsistir el empate, deber&#xE1; resolver la</div><div class=\"p\">Comisi&#xF3;n correspondiente, dejando registrado en el acta</div><div class=\"p\">el criterio utilizado para dirimirlo.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2006-06-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

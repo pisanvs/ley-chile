@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-01-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5900218,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; OTORGA CONCESION DE RADIODIFUSION SONORA Santiago, 07 de Agosto de 1992.- Con esta fecha se ha decretado lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 200.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; a) La Ley N&#xB0; 18.168, de 1982 y sus posteriores modificaciones, Ley General de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; b) El Decreto Ley N&#xB0; 1.762, de 1977.</div><div class=\"p\">&nbsp; &nbsp; c) El art&#xED;culo 1&#xB0; de la Ley N&#xB0; 16.436, de 1966.</div><div class=\"p\">&nbsp; &nbsp; d) El N&#xB0;1, art&#xED;culo 3&#xB0;, p&#xE1;rrafo III de la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; a) Lo solicitado por el interesado.</div><div class=\"p\">&nbsp; &nbsp; b) Lo propuesto por la Subsecretar&#xED;a de Telecomunicaciones por oficio Ord. N&#xB0; 33.476, de 07.08.92.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; OTORGA CONCESION DE RADIODIFUSION SONORA Santiago, 07 de Agosto de 1992.- Con esta fecha se ha decretado lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 200.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; a) La Ley N&#xB0; 18.168, de 1982 y sus posteriores modificaciones, Ley General de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; b) El Decreto Ley N&#xB0; 1.762, de 1977.</div><div class=\"p\">&nbsp; &nbsp; c) El art&#xED;culo 1&#xB0; de la Ley N&#xB0; 16.436, de 1966.</div><div class=\"p\">&nbsp; &nbsp; d) El N&#xB0;1, art&#xED;culo 3&#xB0;, p&#xE1;rrafo III de la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; a) Lo solicitado por el interesado.</div><div class=\"p\">&nbsp; &nbsp; b) Lo propuesto por la Subsecretar&#xED;a de Telecomunicaciones por oficio Ord. N&#xB0; 33.476, de 07.08.92.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

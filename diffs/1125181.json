@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "2018-11-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-05-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9965482,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Des&#xED;gnase a don Francisco Antonio Matte Risopatr&#xF3;n, RUT N&#xBA; 6.925.290-7, en calidad de representante titular del Ministerio de Hacienda, en el Consejo Directivo del Comit&#xE9; Innova Chile, a contar de la fecha de la presente resoluci&#xF3;n, y a don Crist&#xF3;bal Pe&#xF1;a Liberona, RUT N&#xBA; 15.621.320-9, en calidad de representante suplente en el mismo Consejo, a contar de la fecha de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Por razones impostergables de buen servicio, el se&#xF1;or Matte Risopatr&#xF3;n y el se&#xF1;or Pe&#xF1;a Liberona asumir&#xE1;n sus funciones a contar de la fecha antes se&#xF1;alada, sin esperar la total tramitaci&#xF3;n de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. D&#xE9;janse sin efecto las resoluciones Nos <a href=\"https://www.leychile.cl/Navegar?idNorma=1062837&amp;idParte=&amp;idVersion=\">232</a> y 807, ambas de 2014, y <a href=\"https://www.leychile.cl/Navegar?idNorma=1096377&amp;idParte=&amp;idVersion=\">N&#xBA; 1.166, de 2016</a>, todas del Ministerio de Hacienda.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Des&#xED;gnase a don Francisco Antonio Matte Risopatr&#xF3;n, RUT N&#xBA; 6.925.290-7, en calidad de representante titular del Ministerio de Hacienda, en el Consejo Directivo del Comit&#xE9; Innova Chile, a contar de la fecha de la presente resoluci&#xF3;n, y a don <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\"> NOTA</a></div>Crist&#xF3;bal Pe&#xF1;a Liberona, RUT N&#xBA; 15.621.320-9, en calidad de representante suplente en el mismo Consejo, a contar de la fecha de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Por razones impostergables de buen servicio, el se&#xF1;or Matte Risopatr&#xF3;n y el se&#xF1;or Pe&#xF1;a Liberona asumir&#xE1;n sus funciones a contar de la fecha antes se&#xF1;alada, sin esperar la total tramitaci&#xF3;n de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. D&#xE9;janse sin efecto las resoluciones Nos 232 y 807, ambas de 2014, y N&#xBA; 1.166, de 2016, todas del Ministerio de Hacienda.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\"> NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 102 Exenta, Hacienda, publicada el 05.05.2020, modifica la presente norma en el sentido de dejar sin efecto la designaci&#xF3;n del Sr. Crist&#xF3;bal Pe&#xF1;a Liberona, en calidad de representante suplente en el Consejo Directivo del Comit&#xE9; Innova Chile.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2020-07-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9965482,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Des&#xED;gnase a don Francisco Antonio Matte Risopatr&#xF3;n, RUT N&#xBA; 6.925.290-7, en calidad de representante titular del Ministerio de Hacienda, en el Consejo Directivo del Comit&#xE9; Innova Chile, a contar de la fecha de la presente resoluci&#xF3;n, y a don <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\"> NOTA</a></div>Crist&#xF3;bal Pe&#xF1;a Liberona, RUT N&#xBA; 15.621.320-9, en calidad de representante suplente en el mismo Consejo, a contar de la fecha de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Por razones impostergables de buen servicio, el se&#xF1;or Matte Risopatr&#xF3;n y el se&#xF1;or Pe&#xF1;a Liberona asumir&#xE1;n sus funciones a contar de la fecha antes se&#xF1;alada, sin esperar la total tramitaci&#xF3;n de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. D&#xE9;janse sin efecto las resoluciones Nos 232 y 807, ambas de 2014, y N&#xBA; 1.166, de 2016, todas del Ministerio de Hacienda.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\"> NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 102 Exenta, Hacienda, publicada el 05.05.2020, modifica la presente norma en el sentido de dejar sin efecto la designaci&#xF3;n del Sr. Crist&#xF3;bal Pe&#xF1;a Liberona, en calidad de representante suplente en el Consejo Directivo del Comit&#xE9; Innova Chile.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Des&#xED;gnase a don <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>Francisco Antonio Matte Risopatr&#xF3;n, RUT N&#xBA; 6.925.290-7, en calidad de representante titular del Ministerio de Hacienda, en el Consejo Directivo del Comit&#xE9; Innova Chile, a contar de la fecha de la presente resoluci&#xF3;n, y a don <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\"> NOTA</a></div>Crist&#xF3;bal Pe&#xF1;a Liberona, RUT N&#xBA; 15.621.320-9, en calidad de representante suplente en el mismo Consejo, a contar de la fecha de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Por razones impostergables de buen servicio, el se&#xF1;or Matte Risopatr&#xF3;n y el se&#xF1;or Pe&#xF1;a Liberona asumir&#xE1;n sus funciones a contar de la fecha antes se&#xF1;alada, sin esperar la total tramitaci&#xF3;n de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. D&#xE9;janse sin efecto las resoluciones Nos 232 y 807, ambas de 2014, y N&#xBA; 1.166, de 2016, todas del Ministerio de Hacienda.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\"> NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 102 Exenta, Hacienda, publicada el 05.05.2020, modifica la presente norma en el sentido de dejar sin efecto la designaci&#xF3;n del Sr. Crist&#xF3;bal Pe&#xF1;a Liberona, en calidad de representante suplente en el Consejo Directivo del Comit&#xE9; Innova Chile.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 3&#xB0; de la Resoluci&#xF3;n 180 Exenta, Hacienda, publicada el 20.07.2020, modifica la presente norma, en el sentido de dejar sin efecto la designaci&#xF3;n del Sr. Francisco Antonio Matte Risopatr&#xF3;n, en calidad de representante titular en el Consejo Directivo del Comit&#xE9; Innova Chile, dispuesta en su resuelvo 1. Por su parte, el numeral 4&#xB0; de la citada resoluci&#xF3;n, ordena mantener vigente el resuelvo 2&#xB0; de la presente norma, conservando, asimismo, la designaci&#xF3;n de la representante suplente, en el Consejo Directivo del Comit&#xE9; Innova Chile, contenida en la resoluci&#xF3;n 102 Exenta de 2020.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-05-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

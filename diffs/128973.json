@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-01-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-09-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6145605,
+          "old": "<div><div class=\"p\">OTORGA CONCESION DE SERVICIO PUBLICO BUSCAPERSONAS DIGITAL 900 A COMPA&#xD1;IA DE COMUNICACIONES BIPCOM LIMITADA </div><div class=\"p\">Santiago, 14 de septiembre de 1998.- Con esta fecha se ha decretado lo que sigue:</div><div class=\"p\">N&#xFA;m. 476.- Vistos:</div><br><br><div class=\"p\">a)&nbsp;  El decreto ley N&#xBA; 1.762 de 1977.</div><div class=\"p\">b)&nbsp;  La ley N&#xBA; 18.168 de 1982, Ley General de Telecomunicaciones.</div><div class=\"p\">c)&nbsp;  El art&#xED;culo 1&#xBA; de la ley N&#xBA; 16.436 de 1966.</div><div class=\"p\">d)&nbsp;  El N&#xBA; 1 del art&#xED;culo 3&#xBA; del p&#xE1;rrafo III de la resoluci&#xF3;n N&#xBA; 55 de 1992, cuyo texto refundido, coordinado y sistematizado fue fijado por la resoluci&#xF3;n N&#xBA; 520 de 1996, ambas de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">e)&nbsp;  El decreto supremo N&#xBA; 83 de 1984 del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">f)&nbsp;  La resoluci&#xF3;n exenta N&#xBA; 724 de 1996 de la Subsecretar&#xED;a de Telecomunicaciones.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Lo solicitado por la interesada mediante Ingresos Subtel N&#xBA; 17.983 del 29.07.97 y 22.196 del 11.11.97.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">OTORGA CONCESION DE SERVICIO PUBLICO BUSCAPERSONAS DIGITAL 900 A COMPA&#xD1;IA DE COMUNICACIONES BIPCOM LIMITADA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 14 de septiembre de 1998.- Con esta fecha se ha decretado lo que sigue:</div><br><div class=\"p\">N&#xFA;m. 476.- Vistos:</div><br><div class=\"p\">a)&nbsp;  El decreto ley N&#xBA; 1.762 de 1977.</div><div class=\"p\">b)&nbsp;  La ley N&#xBA; 18.168 de 1982, Ley General de Telecomunicaciones.</div><div class=\"p\">c)&nbsp;  El art&#xED;culo 1&#xBA; de la ley N&#xBA; 16.436 de 1966.</div><div class=\"p\">d)&nbsp;  El N&#xBA; 1 del art&#xED;culo 3&#xBA; del p&#xE1;rrafo III de la resoluci&#xF3;n N&#xBA; 55 de 1992, cuyo texto refundido, coordinado y sistematizado fue fijado por la resoluci&#xF3;n N&#xBA; 520 de 1996, ambas de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">e)&nbsp;  El decreto supremo N&#xBA; 83 de 1984 del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">f)&nbsp;  La resoluci&#xF3;n exenta N&#xBA; 724 de 1996 de la Subsecretar&#xED;a de Telecomunicaciones.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Lo solicitado por la interesada mediante Ingresos Subtel N&#xBA; 17.983 del 29.07.97 y 22.196 del 11.11.97.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

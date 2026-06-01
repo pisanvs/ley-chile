@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-02-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-07-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8417007,
+          "old": "<div><div class=\"p\">NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE MERLUZA DEL SUR DEL ARTICULO 1&#xBA; LETRA F) DEL D.S. N&#xBA; 354 DE 1993. DEJA SIN EFECTO RESOLUCION QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE MERLUZA DEL SUR DEL ARTICULO 1&#xBA; LETRA F) DEL D.S. N&#xBA; 354 DE 1993. DEJA SIN EFECTO RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

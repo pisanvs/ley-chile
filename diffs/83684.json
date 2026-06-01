@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8315425,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA PLAYA BLANCA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS DEROGA RESOLUCION QUE SE&#xD1;ALA </div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA PLAYA BLANCA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS DEROGA RESOLUCION QUE SE&#xD1;ALA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

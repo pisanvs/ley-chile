@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-01-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6317456,
+          "old": "<div><div class=\"p\">AUTORIZA ENRIQUECIMIENTO DE PRODUCTO ALIMENTICIO QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 19 exenta.- Santiago, 9 de enero de 2000.- Visto: Lo dispuesto en los art&#xED;culos 106, letra g) y 120, letra g), ambos del decreto supremo N&#xBA; 977 de 1996, del Ministerio de Salud, que aprueba el Reglamento Sanitario de los Alimentos.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: lo solicitado por la empresa IPAL, Industria Productos Alimenticios S.A., en su presentaci&#xF3;n de fecha 09.11.2000, y</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Las facultades que me confieren los art&#xED;culos 4&#xBA; y 6&#xBA;, del decreto ley N&#xBA; 2.763 de 1979, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA ENRIQUECIMIENTO DE PRODUCTO ALIMENTICIO QUE INDICA N&#xFA;m. 19 exenta.- Santiago, 9 de enero de 2001.-<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 25.01.2001</span> Visto: Lo dispuesto en los art&#xED;culos 106, letra g) y 120, letra g), ambos del decreto supremo N&#xBA; 977 de 1996, del Ministerio de Salud, que aprueba el Reglamento Sanitario de los Alimentos. Considerando: lo solicitado por la empresa IPAL, Industria Productos Alimenticios S.A., en su presentaci&#xF3;n de fecha 09.11.2000, y Teniendo presente: Las facultades que me confieren los art&#xED;culos 4&#xBA; y 6&#xBA;, del decreto ley N&#xBA; 2.763 de 1979, dicto la siguiente: R e s o l u c i &#xF3; n: </div></div>"
+        }
+      ]
+    }
+  }
+]

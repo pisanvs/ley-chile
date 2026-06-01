@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6253024,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD RODOLFO ROJAS Y COMPA&#xD1;IA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD RODOLFO ROJAS Y COMPA&#xD1;IA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

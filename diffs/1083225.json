@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-11-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9645522,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;canse las resoluciones exentas N&#xBA; 339, de 1993, y <a href=\"https://www.leychile.cl/Navegar?idNorma=1006829&amp;idParte=&amp;idVersion=\">N&#xBA; 3.767, de 2009</a>, de la Tesorer&#xED;a General de la Rep&#xFA;blica, en el sentido de que se agrega al territorio jurisdiccional de la Tesorer&#xED;a Provincial de Las Condes la comuna de Lo Barnechea.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  La presente modificaci&#xF3;n regir&#xE1; a contar de la total tramitaci&#xF3;n de la presente resoluci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;canse las resoluciones exentas N&#xBA; 339, de 1993, y N&#xBA; 3.767, de 2009, de la Tesorer&#xED;a General de la Rep&#xFA;blica, en el sentido de que se agrega al territorio jurisdiccional de la Tesorer&#xED;a Provincial de Las Condes la comuna de Lo Barnechea.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  La presente modificaci&#xF3;n <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>regir&#xE1; a contar de la total tramitaci&#xF3;n de la presente resoluci&#xF3;n.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1618 Exenta, Hacienda, publicada el 07.11.2015, modifica la presente norma en el sentido de indicar que la&nbsp; incorporaci&#xF3;n de la comuna de Lo Barnechea al territorio jurisdiccional de la Tesorer&#xED;a Provincial de Las Condes, comenzar&#xE1; a regir a partir del d&#xED;a 1 de enero de 2016.</div></div>"
+        }
+      ]
+    }
+  }
+]

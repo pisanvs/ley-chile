@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-12-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9046961,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- La exenci&#xF3;n establecida en el inciso primero del art&#xED;culo 51 de la ley N&#xB0; 18.482 regir&#xE1; para los actos y contratos relativos a pr&#xF3;rrogas, renegociaciones y reprogramaciones de cr&#xE9;ditos cuyo monto no haya excedido, en conjunto dentro de cada instituci&#xF3;n, de diez millones de pesos al 30 de octubre de 1985, que la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n y el Instituto de Desarrollo Agropecuario concedan a sus deudores.</div><div class=\"p\">&nbsp; &nbsp; Esta disposici&#xF3;n regir&#xE1; respecto de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n por el mismo t&#xE9;rmino que se&#xF1;ala el inciso tercero del art&#xED;culo 51 de la ley N&#xB0; 18.482 y en relaci&#xF3;n al Instituto de Desarrollo Agropecuario hasta el 30 de abril de 1987. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- La exenci&#xF3;n establecida en el inciso<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> primero del art&#xED;culo 51 de la ley N&#xB0; 18.482 regir&#xE1; para los actos y contratos relativos a pr&#xF3;rrogas, renegociaciones y reprogramaciones de cr&#xE9;ditos cuyo monto no haya excedido, en conjunto dentro de cada instituci&#xF3;n, de diez millones de pesos al 30 de octubre de 1985, que la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n y el Instituto de Desarrollo Agropecuario concedan a sus deudores.</div><div class=\"p\">&nbsp; &nbsp; Esta disposici&#xF3;n regir&#xE1; respecto de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n por el mismo t&#xE9;rmino que se&#xF1;ala el inciso tercero del art&#xED;culo 51 de la ley N&#xB0; 18.482 y en relaci&#xF3;n al Instituto de Desarrollo Agropecuario hasta el 30 de abril de 1987.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 1&#xB0; de la ley N&#xB0; 18.718, publicada en el &quot;Diario Oficial&quot; de 4 de junio de 1988, dispuso que la exenci&#xF3;n a que se refiere este art&#xED;culo regir&#xE1;, respecto del Instituto de Desarrollo Agropecuario, por el plazo de un a&#xF1;o, contado desde la fecha de publicaci&#xF3;n de esta ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1976-01-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8370578,
+          "old": "<div><div class=\"p\">CONCEDE PENSION POR GRACIA A DO&#xD1;A MARIA Y DO&#xD1;A BLANCA RISOPATRON LIRA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 26 de Diciembre de 1975.- La H. Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.306.- Visto: lo dispuesto en los decretos leyes N.os 1 y 128, de 1973, y 527, de 1974, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  El informe favorable de la comisi&#xF3;n a que se refiere el decreto supremo N&#xBA; 1.702, de Interior, de 27 de Noviembre de 1973,</div><div class=\"p\">&nbsp; &nbsp;  La Junta de Gobierno dicta el siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">CONCEDE PENSION POR GRACIA A DO&#xD1;A MARTA Y DO&#xD1;A BLANCA<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 04.02.1976</span> RISOPATRON LIRA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 26 de Diciembre de 1975.- La H. Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.306.- Visto: lo dispuesto en los decretos leyes N.os 1 y 128, de 1973, y 527, de 1974, y </div><div class=\"p\">&nbsp; &nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  El informe favorable de la comisi&#xF3;n a que se refiere el decreto supremo N&#xBA; 1.702, de Interior, de 27 de Noviembre de 1973,</div><div class=\"p\">&nbsp; &nbsp;  La Junta de Gobierno dicta el siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto ley:</div><br></div>"
+        },
+        {
+          "part_id": 8370579,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Ot&#xF3;rgase, por gracia, a do&#xF1;a Mar&#xED;a Risopatr&#xF3;n Lira y a do&#xF1;a Blanca Risopatr&#xF3;n Lira, una pensi&#xF3;n de un sueldo vital mensual a cada una, con derecho a acrecer entre ellas.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que irrogue el presente decreto ley se imputar&#xE1; al &#xED;tem de pensiones del Presupuesto del Ministerio de Hacienda.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Ot&#xF3;rgase, por gracia, a do&#xF1;a Marta<span class=\"n\" id=\"n_1\">RECTIFICACION<br>D.O. 04.02.1976</span> Risopatr&#xF3;n Lira y a do&#xF1;a Blanca Risopatr&#xF3;n Lira, una pensi&#xF3;n de un sueldo vital mensual a cada una, con derecho a acrecer entre ellas.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que irrogue el presente decreto ley se imputar&#xE1; al &#xED;tem de pensiones del Presupuesto del Ministerio de Hacienda.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

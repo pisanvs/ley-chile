@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-07-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-05-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5988653,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FACULTA AL PERSONAL DE LA FISCALIA NACIONAL DE QUIEBRAS PARA AFILIARSE AL SERVICIO DE BIENESTAR DEL SERVICIO DE REGISTRO CIVIL E IDENTIFICACION, DEL SERVICIO MEDICO LEGAL Y DEL SERVICIO NACIONAL DE MENORES La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley </div></div>",
+          "new": "<div><br><div class=\"p\">FACULTA AL PERSONAL DE LA SUPERINTENDENCIA DE QUIEBRAS<span class=\"n\" id=\"n_0\">LEY 19806<br>Art. 65<br>D.O. 31.05.2002</span></div><div class=\"p\">PARA AFILIARSE AL SERVICIO DE BIENESTAR DEL SERVICIO</div><div class=\"p\">DE REGISTRO CIVIL E IDENTIFICACION, DEL SERVICIO MEDICO</div><div class=\"p\">LEGAL Y DEL SERVICIO NACIONAL DE MENORES</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley</div><br></div>"
+        }
+      ]
+    }
+  }
+]

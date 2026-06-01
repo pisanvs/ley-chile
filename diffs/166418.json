@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7267996,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD PROCESADORA DE PRODUCTOS MARINOS LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD PROCESADORA DE PRODUCTOS MARINOS LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

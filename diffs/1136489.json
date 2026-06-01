@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-09-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-10-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10054406,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 2.889 de fecha 06/09/19, conforme al art&#xED;culo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto &quot;Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte&quot;, Serviu Regi&#xF3;n de la Araucan&#xED;a orden&#xF3; la expropiaci&#xF3;n de parte del Lote N&#xBA; 169-0 Lote A de la Divisi&#xF3;n de un terreno compuesto de diez hect&#xE1;reas y quince hect&#xE1;reas ubicado en el lugar Coihueco de este departamento, comuna de Temuco, Rol de aval&#xFA;o 2873-06. La superficie a expropiar aproximada es de 308,19 metros cuadrados, de aparente dominio de Segundo Rudecindo Mart&#xED;nez S&#xE1;ez. Comisi&#xF3;n de Peritos designada al efecto, fij&#xF3; monto de Indemnizaci&#xF3;n Provisional en $43.147.062, seg&#xFA;n Informe N&#xBA; 169-0 de fecha 04/09/2019, pagadero contado.- </div></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 2.889 de fecha 06/09/19, conforme al art&#xED;culo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto &quot;Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte&quot;, Serviu Regi&#xF3;n de la Araucan&#xED;a orden&#xF3; la expropiaci&#xF3;n de parte del Lote N&#xBA; 169-0 Lote A de la Divisi&#xF3;n de un terreno compuesto de diez hect&#xE1;reas y quince hect&#xE1;reas ubicado en el lugar Coihueco de este departamento, comuna de Temuco, Rol de aval&#xFA;o 2873-06. La superficie a expropiar aproximada es de 308,19 metros cuadrados, de aparente dominio de Segundo Rudecindo Mart&#xED;nez S&#xE1;ez. Comisi&#xF3;n de Peritos designada al efecto, fij&#xF3; monto de Indemnizaci&#xF3;n Provisional en $85<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1137644&amp;idParte=10061984&amp;idVersion=2019-10-15\">Aviso S/N<br>D.O. 15.10.2019</a></span>.447.062, seg&#xFA;n Informe N&#xBA; 169-0 de fecha 04/09/2019, pagadero contado.- </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1137644,
+      "fecha": "2019-10-15"
+    }
+  }
+]

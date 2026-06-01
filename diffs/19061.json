@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-03-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8853095,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DEL FORMULARIO NACIONAL DE MEDICAMENTOS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.505.- Santiago, 1 de Diciembre de 1995.- Visto: lo dispuesto en el art&#xED;culo 100 del C&#xF3;digo Sanitario, aprobado por decreto con fuerza de ley N&#xB0; 725, de 1968, del Ministerio de Salud; lo establecido en el decreto supremo N&#xB0; 640 de 1995, del Ministerio de Salud, que sancion&#xF3; el nuevo Formulario Nacional de Medicamentos;</div><div class=\"p\">&nbsp; &nbsp; Considerando: la necesidad de reactualizar la reglamentaci&#xF3;n del Formulario Nacional de Medicamentos, contenida en el Decreto Supremo N&#xB0; 1031, de 1968, del Ministerio de Salud; y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente, las facultades que me confiere el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado, Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento del Formulario Nacional de Medicamentos:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO DEL FORMULARIO NACIONAL DE MEDICAMENTOS</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.505.- Santiago, 1 de Diciembre de 1995.- Visto: lo dispuesto en el art&#xED;culo 100 del C&#xF3;digo Sanitario, aprobado por decreto con fuerza de ley N&#xB0; 725, de 1968, del Ministerio de Salud; lo establecido en el decreto supremo N&#xB0; 640 de 1995, del Ministerio de Salud, que sancion&#xF3; el nuevo Formulario Nacional de Medicamentos;</div><div class=\"p\">&nbsp; &nbsp; Considerando: la necesidad de reactualizar la reglamentaci&#xF3;n del Formulario Nacional de Medicamentos, contenida en el Decreto Supremo N&#xB0; 1031, de 1968, del Ministerio de Salud; y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente, las facultades que me confiere el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado, </div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento del Formulario Nacional de Medicamentos:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

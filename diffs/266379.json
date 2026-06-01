@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2007-11-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-06-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8764084,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;. Recibida una insistencia, la Subsecretar&#xED;a lo trasladar&#xE1; a la empresa reclamada por medio del procedimiento de transferencia electr&#xF3;nica descrito en el Anexo T&#xE9;cnico. A partir de la fecha y hora de efectuado el primer intento de transferencia electr&#xF3;nica, comenzar&#xE1;n a contarse los plazos establecidos al efecto en el Reglamento de Reclamos. En caso de que la transferencia no se efect&#xFA;e durante un plazo de 24 horas en d&#xED;as h&#xE1;biles, desde la fecha y hora en que se intent&#xF3; la transferencia por primera vez, la Subsecretar&#xED;a publicar&#xE1; en su sitio web los antecedentes de la insistencia y a partir de la fecha y hora de esta publicaci&#xF3;n comenzar&#xE1;n a contarse los plazos establecidos en el Reglamento de Reclamos. Adem&#xE1;s, la Subsecretar&#xED;a dentro del plazo antedicho, podr&#xE1; establecer contacto con el Coordinador T&#xE9;cnico de la Reclamada para determinar posibles dificultades t&#xE9;cnicas y tomar acciones para su soluci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;. Recibida una insistencia, la Subsecretar&#xED;a lo trasladar&#xE1; a la empresa reclamada por medio del procedimiento de transferencia electr&#xF3;nica descrito en el Anexo T&#xE9;cnico. A partir de la fecha y hora de efectuado el primer intento de transferencia electr&#xF3;nica, comenzar&#xE1;n a contarse los plazos establecidos al efecto en el Reglamento de Reclamos. En caso de que la transferencia no se efect&#xFA;e durante un plazo de 24 horas en d&#xED;as h&#xE1;biles, desde la fecha y hora en que se intent&#xF3; la transferencia por primera vez, la Subsecretar&#xED;a publicar&#xE1; en su sitio web los antecedentes de la insistencia y a partir de la fecha y hora de esta publicaci&#xF3;n comenzar&#xE1;n a contarse los plazos establecidos en el Reglamento de Reclamos. Adem&#xE1;s, la Subsecretar&#xED;a dentro del plazo antedicho, podr&#xE1; establecer contacto con el Coordinador T&#xE9;cnico de la Reclamada para determinar posibles dificultades t&#xE9;cnicas y tomar acciones para su soluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Trat&#xE1;ndose de empresas reclamadas que hayan<span class=\"n\" id=\"n_0\">RES 635 EXENTA,<br>TRANSPORTES<br>Art. Primero N&#xBA; 1<br>D.O. 27.06.2008</span> obtenido de la Subsecretar&#xED;a la exenci&#xF3;n a que se refiere el art&#xED;culo 27&#xB0; bis, inciso segundo, del Reglamento de Reclamos, la insistencia les ser&#xE1; trasladada por medio de su notificaci&#xF3;n por correo certificado. Sin perjuicio de la responsabilidad infraccional que pudiera asistirles, en el caso de empresas reclamadas no acogidas a exenci&#xF3;n y que no han reportado una URL de conformidad a lo establecido en el art&#xED;culo 12&#xBA; de esta norma t&#xE9;cnica, las insistencias deducidas en su contra se les trasladar&#xE1;n mediante su publicaci&#xF3;n en el portal de transferencia electr&#xF3;nica habilitado por la Subsecretar&#xED;a en el Anexo T&#xE9;cnico.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8764086,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16&#xBA;. Cuando correspondiere, la Subsecretar&#xED;a enviar&#xE1; la resoluci&#xF3;n de la insistencia a la reclamada, por medio del procedimiento de transferencia electr&#xF3;nica descrito en el Anexo T&#xE9;cnico. A partir de la fecha y hora de efectuado el primer intento de transferencia electr&#xF3;nica, comenzar&#xE1;n a contarse los plazos establecidos al efecto en el Reglamento de Reclamos. En caso de que la transferencia no se efect&#xFA;e durante un plazo de 24 horas de d&#xED;as h&#xE1;biles, desde la fecha y hora en que se transfiri&#xF3; la informaci&#xF3;n a la reclamada por primera vez, la Subsecretar&#xED;a publicar&#xE1; en su p&#xE1;gina web los antecedentes de la insistencia y a partir de la fecha y hora de esta publicaci&#xF3;n se entender&#xE1; que la reclamada ha sido notificada. Adem&#xE1;s, la Subsecretar&#xED;a dentro del plazo antedicho, podr&#xE1; establecer contacto con el Coordinador T&#xE9;cnico de la Reclamada para determinar posibles dificultades t&#xE9;cnicas y tomar acciones para su soluci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16&#xBA;. Cuando correspondiere, la Subsecretar&#xED;a enviar&#xE1; la resoluci&#xF3;n de la insistencia a la reclamada, por medio del procedimiento de transferencia electr&#xF3;nica descrito en el Anexo T&#xE9;cnico. A partir de la fecha y hora de efectuado el primer intento de transferencia electr&#xF3;nica, comenzar&#xE1;n a contarse los plazos establecidos al efecto en el Reglamento de Reclamos. En caso de que la transferencia no se efect&#xFA;e durante un plazo de 24 horas de d&#xED;as h&#xE1;biles, desde la fecha y hora en que se transfiri&#xF3; la informaci&#xF3;n a la reclamada por primera vez, la Subsecretar&#xED;a publicar&#xE1; en su p&#xE1;gina web los antecedentes de la insistencia y a partir de la fecha y hora de esta publicaci&#xF3;n se entender&#xE1; que la reclamada ha sido notificada. Adem&#xE1;s, la Subsecretar&#xED;a dentro del plazo antedicho, podr&#xE1; establecer contacto con el Coordinador T&#xE9;cnico de la Reclamada para determinar posibles dificultades t&#xE9;cnicas y tomar acciones para su soluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  A las empresas reclamadas eximidas de la<span class=\"n\" id=\"n_1\">RES 635 EXENTA,<br>TRANSPORTES<br>Art. Primero N&#xBA; 2<br>D.O. 27.06.2008</span> obligaci&#xF3;n de utilizaci&#xF3;n de medios electr&#xF3;nicos la resoluci&#xF3;n de la insistencia les ser&#xE1; notificada por correo certificado. Sin perjuicio de la responsabilidad infraccional que pudiera asistirles, en el caso de empresas reclamadas no acogidas a exenci&#xF3;n y que no han reportado una URL de conformidad a lo establecido en el art&#xED;culo 12&#xBA; de esta norma t&#xE9;cnica, la resoluciones de las insistencias les ser&#xE1;n notificadas mediante su publicaci&#xF3;n en el portal de transferencia electr&#xF3;nica habilitado por la Subsecretar&#xED;a en el Anexo T&#xE9;cnico.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8764088,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Esta norma entrar&#xE1; en vigencia el d&#xED;a 1 de julio de 2008.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Esta norma entrar&#xE1; en vigencia el d&#xED;a 1 de<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:</a></div></div><div class=\"p\">julio de 2008.</div><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. Segundo de la RES 635 exenta, Transportes,<br>publicada el 27.06.2008, modific&#xF3; lo dispuesto en este<br>art&#xED;culo en el sentido de disponer que la norma t&#xE9;cnica entrar&#xE1; en vigencia el d&#xED;a 1&#xBA; de septiembre de 2008.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-08-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

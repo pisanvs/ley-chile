@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-04-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9591821,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- D&#xE9;jense sin efecto las declaratorias de utilidad p&#xFA;blica de los terrenos destinados a circulaciones, plazas y parques, incluidos sus ensanches, conforme a la ley N&#xBA;20.791, que se identifican en la n&#xF3;mina adjunta, numerales 1 al 38:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48773.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jense sin efecto las declaratorias de utilidad p&#xFA;blica de los terrenos destinados a circulaciones, plazas y parques, incluidos sus ensanches, que se constituyeron como Bienes Nacionales de Uso P&#xFA;blico, que se identifican en la n&#xF3;mina adjunta, numerales 39 al 98:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48774.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  3.- Publ&#xED;quese en el Diario Oficial de la Rep&#xFA;blica el presente decreto alcaldicio.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- D&#xE9;jense sin efecto las declaratorias de utilidad p&#xFA;blica de los terrenos destinados a circulaciones, plazas y parques, incluidos sus ensanches, conforme a la ley N&#xBA;20.791, que se identifican en la n&#xF3;mina adjunta, numerales 1 al 38:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48773.jpg\">.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1079641&amp;idParte=9623094&amp;idVersion=2015-07-17\">Decreto 1182,<br>M. DE VILLA ALEMANA<br>N&#xB0; 1<br>D.O. 17.07.2015</a></span>&nbsp; </div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/50813.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jense sin efecto las declaratorias de utilidad p&#xFA;blica de los terrenos destinados a circulaciones, plazas y parques, incluidos sus ensanches, que se constituyeron como Bienes Nacionales de Uso P&#xFA;blico, que se identifican en la n&#xF3;mina adjunta, numerales 39 al 98:<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div> </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48774.jpg\">.&nbsp;  </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  3.- Publ&#xED;quese en el Diario Oficial de la Rep&#xFA;blica el presente decreto alcaldicio.</div><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 2 del Decreto 1182, Municipalidad de Villa Alemana, publicado el 17.07.2015, enmend&#xF3; el cuadro N&#xB0; 2 de la presente norma en el sentido de se&#xF1;alar que la numeraci&#xF3;n se inicia con el Numeral 45 y finaliza en el 104.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1079641,
+      "fecha": "2015-07-17"
+    }
+  }
+]

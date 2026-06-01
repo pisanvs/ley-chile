@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-06-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8261936,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA FORMULAS TARIFARIAS DE AGUA POTABLE Y ALCANTARILLADO DE AGUAS SERVIDAS PARA LA EMPRESA DE AGUA POTABLE LOS DOMINICOS S.A.</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 376.- Santiago, 22 de Junio de 1995.- Visto: Lo dispuesto en el decreto con fuerza de ley N&#xB0; 70 de 1988, del Ministerio de Obras P&#xFA;blicas; en el decreto supremo N&#xB0; 453, del 12 de diciembre de 1989, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, en el decreto supremo N&#xB0; 182 del 31 de Marzo de 1995, en el art&#xED;culo 10&#xB0; de la ley N&#xB0; 10.336, el estudio de tarifas realizado por la Superintendencia de Servicios Sanitarios y el fallo de la Comisi&#xF3;n de Expertos.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA FORMULAS TARIFARIAS DE AGUA POTABLE Y ALCANTARILLADO DE AGUAS SERVIDAS PARA LA EMPRESA DE AGUA POTABLE LOS DOMINICOS S.A.</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 376.- Santiago, 22 de Junio de 1995.- Visto: Lo dispuesto en el decreto con fuerza de ley N&#xB0; 70 de 1988, del Ministerio de Obras P&#xFA;blicas; en el decreto supremo N&#xB0; 453, del 12 de diciembre de 1989, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, en el decreto supremo N&#xB0; 182 del 31 de Marzo de 1995, en el art&#xED;culo 10&#xB0; de la ley N&#xB0; 10.336, el estudio de tarifas realizado por la Superintendencia de Servicios Sanitarios y el fallo de la Comisi&#xF3;n de Expertos.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

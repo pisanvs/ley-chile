@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6943245,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- Establ&#xE9;cese una prenda especial, sin desplazamiento, de los bienes o derechos objeto del contrato, en aquellos casos en que la obligaci&#xF3;n del participante comprenda la ejecuci&#xF3;n, operaci&#xF3;n o mantenci&#xF3;n total o parcial de una obra, y su retribuci&#xF3;n consista en la explotaci&#xF3;n total o parcial de la misma por un per&#xED;odo de tiempo determinado. Esta prenda tendr&#xE1; por objeto garantizar las obligaciones financieras que el participante contraiga para financiar la ejecuci&#xF3;n, operaci&#xF3;n, mantenci&#xF3;n y explotaci&#xF3;n de la obra. La prenda podr&#xE1; recaer sobre los derechos que para el participante emanen del contrato, los bienes muebles de su propiedad y los ingresos que provengan de la explotaci&#xF3;n de la obra.</div><div class=\"p\">&nbsp; &nbsp;  La prenda a que se refiere el inciso anterior deber&#xE1; constituirse por escritura p&#xFA;blica e inscribirse en el Registro de Prenda Industrial del Conservador de Bienes Ra&#xED;ces del domicilio del Serviu o de la Municipalidad y en el del participante, si fueren distintos. Adem&#xE1;s, deber&#xE1; anotarse al margen de la inscripci&#xF3;n de la sociedad participante en el Registro de Comercio.</div><div class=\"p\">&nbsp; &nbsp;  A esta prenda ser&#xE1;n aplicables, en lo que no fueren incompatibles con las normas de esta ley, las disposiciones contenidas en los art&#xED;culos 25 inciso primero, 30, 31, 32, 33, 36, 37, 38, 40, 42, 43, 44, 46, 48, 49 y 50 de la ley N&#xBA; 5.687, sobre Prenda Industrial. </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=261427&amp;idParte=8190056&amp;idVersion=2007-06-05\">LEY 20190<br>Art. 42 (DEL ART. 14)<br>D.O. 05.06.2007</a></span>&nbsp; &nbsp;  Art&#xED;culo 16.- DEROGADO.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

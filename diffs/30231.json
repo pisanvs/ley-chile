@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-01-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9047139,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Unico Transitorio.- La primera fijaci&#xF3;n de f&#xF3;rmulas tarifarias para los suministros se&#xF1;alados en el art&#xED;culo 34&#xB0;, reemplazado por el n&#xFA;mero XVI del art&#xED;culo 1&#xB0; de esta ley, deber&#xE1; efectuarla el Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n en un plazo m&#xE1;ximo de un a&#xF1;o despu&#xE9;s de publicada esta ley en el Diario Oficial. En el intertanto dichos suministros continuar&#xE1;n rigi&#xE9;ndose por las disposiciones vigentes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Unico Transitorio.- La primera fijaci&#xF3;n de f&#xF3;rmulas tarifarias para los suministros se&#xF1;alados en el art&#xED;culo 34&#xB0;, reemplazado por el n&#xFA;mero XVI del art&#xED;culo 1&#xB0; de esta ley, deber&#xE1; efectuarla el Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n en un plazo m&#xE1;ximo de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> un a&#xF1;o despu&#xE9;s de publicada esta ley en el Diario Oficial. En el intertanto dichos suministros continuar&#xE1;n rigi&#xE9;ndose por las disposiciones vigentes.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico de la Ley N&#xB0; 19.026, publicada en el &quot;Diario Oficial&quot; de 3 de enero de 1991, prorrog&#xF3;, hasta el 30 de junio de 1991, el plazo para establecer f&#xF3;rmulas tarifarias a que se refiere el presente art&#xED;culo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

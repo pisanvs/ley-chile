@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8873014,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Autor&#xED;zase al Presidente de la Rep&#xFA;blica para contraer obligaciones, en el pa&#xED;s o en el exterior, en moneda nacional o en monedas extranjeras, hasta por las cantidades de $10.434.280 miles y US$ 63.664 miles, correspondientes a Endeudamiento, aprobadas en el C&#xE1;lculo de Ingresos Generales de la Naci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Autor&#xED;zasele, adem&#xE1;s, para contraer obligaciones, sea en el pa&#xED;s o en el exterior, hasta por la cantidad de US$ 1.200.000.000 moneda de los Estados Unidos de Am&#xE9;rica o su equivalente en otras monedas extranjeras o en moneda nacional.</div><div class=\"p\">&nbsp; &nbsp; Para los fines de este art&#xED;culo podr&#xE1;n emitirse y colocarse bonos y otros documentos en moneda nacional o extranjera, los cuales podr&#xE1;n llevar impresa la firma del Tesorero General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; La parte de las obligaciones contra&#xED;das en virtud de esta autorizaci&#xF3;n, que sea amortizada dentro del ejercicio presupuestario de 1989, no ser&#xE1; considerada en el c&#xF3;mputo del margen de endeudamiento fijado en los incisos anteriores.</div><div class=\"p\">&nbsp; &nbsp; La autorizaci&#xF3;n que se otorga al Presidente de la Rep&#xFA;blica ser&#xE1; ejercida mediante decretos supremos expedidos a trav&#xE9;s del Ministerio de Hacienda, en los cuales se identificar&#xE1; el destino espec&#xED;fico de las obligaciones por contraer.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Autor&#xED;zase al Presidente de la<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> Rep&#xFA;blica para contraer obligaciones, en el pa&#xED;s o en el<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 2</a></div> exterior, en moneda nacional o en monedas extranjeras, hasta por las cantidades de $10.434.280 miles y US$ 63.664 miles, correspondientes a Endeudamiento, aprobadas en el C&#xE1;lculo de Ingresos Generales de la Naci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Autor&#xED;zasele, adem&#xE1;s, para contraer obligaciones,<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 3</a></div> sea en el pa&#xED;s o en el exterior, hasta por la cantidad de US$ 1.200.000.000 moneda de los Estados Unidos de Am&#xE9;rica o su equivalente en otras monedas extranjeras o en moneda nacional.</div><div class=\"p\">&nbsp; &nbsp; Para los fines de este art&#xED;culo podr&#xE1;n emitirse y colocarse bonos y otros documentos en moneda nacional o extranjera, los cuales podr&#xE1;n llevar impresa la firma del Tesorero General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; La parte de las obligaciones contra&#xED;das en virtud de esta autorizaci&#xF3;n, que sea amortizada dentro del ejercicio presupuestario de 1989, no ser&#xE1; considerada en el c&#xF3;mputo del margen de endeudamiento fijado en los incisos anteriores.</div><div class=\"p\">&nbsp; &nbsp; La autorizaci&#xF3;n que se otorga al Presidente de la Rep&#xFA;blica ser&#xE1; ejercida mediante decretos supremos expedidos a trav&#xE9;s del Ministerio de Hacienda, en los cuales se identificar&#xE1; el destino espec&#xED;fico de las obligaciones por contraer.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 13 de la Ley N&#xB0; 18.766, increment&#xF3; en $ 36.000.000 miles, la autorizaci&#xF3;n establecida en este art&#xED;culo para contraer obligaciones en moneda nacional.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El art&#xED;culo 8&#xB0; de la Ley N&#xB0; 18.774, increment&#xF3; en $ 21.000.000 miles, la autorizaci&#xF3;n establecida en este art&#xED;culo para contraer obligaciones en moneda nacional.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 3</a> <br>&nbsp; &nbsp;  El art&#xED;culo 51 de la Ley N&#xB0; 18.899 increment&#xF3; en US$ 400.000 miles la cantidad autorizada en el inciso 2&#xB0; de este art&#xED;culo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

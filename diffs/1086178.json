@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-01-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9664118,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">1.&nbsp;  Increm&#xE9;ntase los montos de subsidio y de Asistencia T&#xE9;cnica otorgados por medio de la resoluci&#xF3;n exenta N&#xBA; 6.718 (V. y U.), de 2015, citada en la letra d) de los visto de la presente resoluci&#xF3;n, a las familias de las comunas de Antofagasta y Taltal, de la Regi&#xF3;n de Antofagasta, por el monto indicado en las siguientes n&#xF3;minas:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54584.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">2.&nbsp;  Imp&#xFA;tese la diferencia de 3.584 Unidades de Fomento, correspondientes al mayor valor de los subsidios asignados y reflejados en las Tablas insertas en los resuelvos precedentes de la presente resoluci&#xF3;n, a los recursos autorizados a la Regi&#xF3;n de Atacama para el Programa de Protecci&#xF3;n del Patrimonio Familiar del a&#xF1;o 2015, de las cuales 2.820 Unidades de Fomento corresponden al subsidio directo y 764 Unidades de Fomento a la Asistencia T&#xE9;cnica.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">1.&nbsp;  Increm&#xE9;ntase los montos de subsidio y de Asistencia T&#xE9;cnica otorgados por medio de la resoluci&#xF3;n exenta N&#xBA; 6.718 (V. y U.), de 2015, citada en la letra d) de los visto de la presente resoluci&#xF3;n, a las familias de las comunas de Antofagasta y Taltal, de la Regi&#xF3;n de Antofagasta, por el monto indicado en las siguientes n&#xF3;minas:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54584.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">2.&nbsp;  Imp&#xFA;tese la diferencia de 3.584 Unidades de Fomento, correspondientes al mayor valor de los subsidios asignados y reflejados en las Tablas insertas en los resuelvos precedentes de la presente resoluci&#xF3;n, a los recursos autorizados a la Regi&#xF3;n de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1087236&amp;idParte=9673003&amp;idVersion=2016-02-03\">Resoluci&#xF3;n 651 EXENTA, VIVIENDA<br>N&#xB0; 1.-<br>D.O. 03.02.2016</a></span>Antofagasta para el Programa de Protecci&#xF3;n del Patrimonio Familiar del a&#xF1;o 2015, de las cuales 2.820 Unidades de Fomento corresponden al subsidio directo y 764 Unidades de Fomento a la Asistencia T&#xE9;cnica.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1087236,
+      "fecha": "2016-02-03"
+    }
+  }
+]

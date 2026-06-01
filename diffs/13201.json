@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-10-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8262465,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA DESLINDES DEL CAUCE DEL ESTERO PUANGUE, REGION METROPOLITANA DE SANTIAGO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 420.- Santiago, 23 de Agosto de 1993.- Vistos estos antecedentes, lo informado por la Secretar&#xED;a Regional Ministerial de Bienes Nacionales de la Regi&#xF3;n Metropolitana de Santiago y por la Divisi&#xF3;n de Bienes Nacionales, en oficios adjuntos; en virtud de lo dispuesto en D.S. N&#xB0; 609, de 1978, del Ministerio de Tierras y Colonizaci&#xF3;n, publicado en el &quot;Diario Oficial&quot; de fecha 24 de Enero de de 1979; y, en el D.L. N&#xB0; 1.939, de 1977,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA DESLINDES DEL CAUCE DEL ESTERO PUANGUE, REGION METROPOLITANA DE SANTIAGO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 420.- Santiago, 23 de Agosto de 1993.- Vistos estos antecedentes, lo informado por la Secretar&#xED;a Regional Ministerial de Bienes Nacionales de la Regi&#xF3;n Metropolitana de Santiago y por la Divisi&#xF3;n de Bienes Nacionales, en oficios adjuntos; en virtud de lo dispuesto en D.S. N&#xB0; 609, de 1978, del Ministerio de Tierras y Colonizaci&#xF3;n, publicado en el &quot;Diario Oficial&quot; de fecha 24 de Enero de de 1979; y, en el D.L. N&#xB0; 1.939, de 1977,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

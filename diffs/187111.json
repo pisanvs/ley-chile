@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7283895,
+          "old": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE INSTITUTO PROFESIONAL DENOMINADO &quot;ESCUELA DE COMUNICACION&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 197 exento.- Santiago, 17 de Noviembre de 1982.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que, el Supremo Gobierno ha determinado que la educaci&#xF3;n superior sea impartida a trav&#xE9;s de varias instancias como una medida para lograr que todos, de acuerdo a sus capacidades tengan acceso a ella;</div><div class=\"p\">&nbsp; &nbsp;  Que, una de estas instancias la constituyen los Institutos Profesionales;</div><div class=\"p\">&nbsp; &nbsp;  Que, el Instituto Profesional denominado &quot;Escuela de Comunicaci&#xF3;n&quot;, ha solicitado se autorice su funcionamiento y formuladas las observaciones, estas han sido subsanadas en tiempo y forma,</div><br><div class=\"p\">&nbsp; &nbsp;  Vistos:</div><br><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en el decreto ley N&#xB0; 3.541, de 1980,; el D.F.L. N&#xB0; 5 de 1981; y el art&#xED;culo 32&#xB0; N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE INSTITUTO PROFESIONAL DENOMINADO &quot;ESCUELA DE COMUNICACION&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 197 exento.- Santiago, 17 de Noviembre de 1982.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que, el Supremo Gobierno ha determinado que la educaci&#xF3;n superior sea impartida a trav&#xE9;s de varias instancias como una medida para lograr que todos, de acuerdo a sus capacidades tengan acceso a ella;</div><div class=\"p\">&nbsp; &nbsp;  Que, una de estas instancias la constituyen los Institutos Profesionales;</div><div class=\"p\">&nbsp; &nbsp;  Que, el Instituto Profesional denominado &quot;Escuela de Comunicaci&#xF3;n&quot;, ha solicitado se autorice su funcionamiento y formuladas las observaciones, estas han sido subsanadas en tiempo y forma,</div><br><div class=\"p\">&nbsp; &nbsp;  Vistos:</div><br><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en el decreto ley N&#xB0; 3.541, de 1980,; el D.F.L. N&#xB0; 5 de 1981; y el art&#xED;culo 32&#xB0; N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

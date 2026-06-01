@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-12-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6313309,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;3.757, de 28 de agosto de 2000, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y del DFL MOP N&#xBA;206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA;12, para la obra &apos;&apos;Concesi&#xF3;n Internacional Interconexi&#xF3;n Vial Santiago - Valpara&#xED;so - Vi&#xF1;a del Mar. Troncal Sur. Tramo 3. Km. 96.800,00 a Km. 99.200,00&apos;&apos;, Quinta Regi&#xF3;n, que figura a nombre de Acharn Castaneda Elba y Ots., rol de aval&#xFA;o 3506-2, comuna de Quilpu&#xE9;, superficie 1.712 m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Marcela Alejandra Redard Ayala, Joaqu&#xED;n Prieto Ochagav&#xED;a y Fernando Jos&#xE9; Senerman Mandel, fij&#xF3; con fecha 10 de julio de 2000, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $4.280.000.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA;2.186, de 1978.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;3.757, de 28 de agosto de 2000, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y del DFL MOP N&#xBA;206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA;12, para la obra &apos;&apos;Concesi&#xF3;n Internacional Interconexi&#xF3;n Vial Santiago - Valpara&#xED;so - Vi&#xF1;a del Mar. Troncal Sur. Tramo 3. Km. 96.800,00 a Km. 99.200,00&apos;&apos;, Quinta Regi&#xF3;n, que figura a nombre de Acha-r&#xE1;n Castaneda Elba y Ots.,<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 15.01.2001</span> rol de aval&#xFA;o 3506-2, comuna de Quilpu&#xE9;, superficie 1.712 m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Marcela Alejandra Redard Ayala, Joaqu&#xED;n Prieto Ochagav&#xED;a y Fernando Jos&#xE9; Senerman Mandel, fij&#xF3; con fecha 10 de julio de 2000, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $4.280.000.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA;2.186, de 1978.-</div><br></div>"
+        }
+      ]
+    }
+  }
+]

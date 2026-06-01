@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-06-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316964,
+          "old": "<div><div class=\"p\">AUTORIZA A CONSERVERA SACRAMENTO S.A. PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A CONSERVERA SACRAMENTO S.A. PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

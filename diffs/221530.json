@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-08-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9061598,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio: Las disposiciones de este decreto ley no podr&#xE1;n significar disminuci&#xF3;n de las rentas de que se est&#xE1; en posesi&#xF3;n aumentadas en un 34%.</div><div class=\"p\">&nbsp; &nbsp;  Las diferencias que se produzcan se pagar&#xE1;n por planilla suplementaria.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio: Las disposiciones de este decreto ley no podr&#xE1;n significar disminuci&#xF3;n de las rentas de que se est&#xE1; en posesi&#xF3;n aumentadas en un 34%.</div><div class=\"p\">&nbsp; &nbsp;  Las diferencias que se produzcan se pagar&#xE1;n por planilla suplementaria.</div><div class=\"p\">&nbsp; &nbsp;  Tampoco podr&#xE1;n significar la disminuci&#xF3;n de las<span class=\"n\" id=\"n_0\">DL 1139, DEFENSA<br>Art. 1&#xBA;<br>D.O. 16.08.1975</span> remuneraciones en moneda extranjera de que goza el personal actualmente en comisi&#xF3;n en el extranjero. </div></div>"
+        }
+      ]
+    }
+  }
+]

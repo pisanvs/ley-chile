@@ -1,0 +1,67 @@
+[
+  {
+    "fecha": "1966-04-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-10-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8797001,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6.o- Ser&#xE1; competente para conocer las reclamaciones a que se refiere la presente ley, el Juez Especial del Trabajo con asiento en la comuna donde el trabajador presta sus servicios.</div><div class=\"p\">&nbsp; &nbsp; En aquellas comunas que no fueren asiento de un Juzgado Especial del Trabajo, ser&#xE1; competente el Juez de Polic&#xED;a Local si fuere abogado; en caso contrario, lo ser&#xE1; el Juez Especial del Trabajo o, en su defecto, el Juez de Polic&#xED;a Local de la ciudad cabecera del departamento a que corresponda la comuna.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6.o- DEROGADO<span class=\"n\" id=\"n_0\">DL 676<br>Art. 8&#xBA;<br>D.O. 09.10.1974</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1975-03-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8797025,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2. bis.- Por estimarse actividades<span class=\"n\" id=\"n_0\">DL 930<br>Art. 2&#xBA;<br>D.O. 19.03.1975</span> perjudiciales a la seguridad del Estado, son tambi&#xE9;n causas justificadas de terminaci&#xF3;n del contrato de trabajo, las siguientes:</div><div class=\"p\">&nbsp; &nbsp; 1.- La comisi&#xF3;n de actos il&#xED;citos que impidan al trabajador concurrir a su trabajo, o cumplir con sus obligaciones laborales;</div><div class=\"p\">&nbsp; &nbsp; 2.- El atentado contra los bienes situados en las empresas;</div><div class=\"p\">&nbsp; &nbsp; 3.- La comisi&#xF3;n de actos que produzcan la destrucci&#xF3;n de materiales, instrumentos o productos de trabajo, o mercader&#xED;as, o disminuyan su valor o causen su deterioro;</div><div class=\"p\">&nbsp; &nbsp; 4.- Dirigir o participar activamente en la interrupci&#xF3;n o paralizaci&#xF3;n ilegales de actividades, totales o parciales, en las empresas o en los lugares de trabajo, o en la retenci&#xF3;n indebida de personas o bienes;</div><div class=\"p\">&nbsp; &nbsp; 5.- Incitar a destruir, inutilizar, interrumpir, o participar en hechos que da&#xF1;en instalaciones p&#xFA;blicas o privadas;</div><div class=\"p\">&nbsp; &nbsp; 6.- Participar en la introducci&#xF3;n al pa&#xED;s, fabricaci&#xF3;n, almacenamiento, transporte o entrega, al t&#xED;tulo que sea, de cualquier tipo de armas sin la autorizaci&#xF3;n competente;</div><div class=\"p\">&nbsp; &nbsp; 7.- La comisi&#xF3;n de un delito contemplada en la ley N&#xB0; 12.927 sobre Seguridad del Estado, y sus modificaciones o en la ley N&#xB0; 17.798 sobre Control de Armas, y sus modificaciones. El empleador deber&#xE1; dar cuenta de la comisi&#xF3;n de dicho delito a la autoridad respectiva para que &#xE9;sta proceda a efectuar la denuncia si lo estima conveniente. Efectuada la denuncia el trabajador quedar&#xE1; suspendido de inmediato de su empleo y si resultare absuelto por el Tribunal respectivo este ordenar&#xE1; la reintegraci&#xF3;n a su cargo con derecho a percibir las remuneraciones, asignaciones familiares y dem&#xE1;s beneficios econ&#xF3;micos que habr&#xED;a percibido al haber estado en funciones. El empleador no podr&#xE1; excusarse de la reincorporaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El empleador que invoque las causales se&#xF1;aladas en este art&#xED;culo quedar&#xE1; sometido a las normas contenidas en los incisos primero, segundo y cuarto del art&#xED;culo 4&#xB0; de la presente ley, debiendo, en todo caso entregar aviso escrito al trabajador en forma inmediata y personalmente o, si ello no es posible, dirig&#xED;rselo al domicilio registrado en la empresa mediante carta certificada.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8797001,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6.o- DEROGADO<span class=\"n\" id=\"n_0\">DL 676<br>Art. 8&#xBA;<br>D.O. 09.10.1974</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6.o- DEROGADO<span class=\"n\" id=\"n_1\">DL 676<br>Art. 8&#xBA;<br>D.O. 09.10.1974</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1981-03-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8797002,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7.o- El Juzgado conocer&#xE1; y resolver&#xE1; la reclamaci&#xF3;n en &#xFA;nica instancia, sin forma de juicio, previa audiencia de las partes, audiencia a la que deber&#xE1;n concurrir con sus medios de prueba y que se celebrar&#xE1; con la parte que asista. Si no hubiere constancia en autos de estar notificada una de las partes, el Juez se cerciorar&#xE1; si la omisi&#xF3;n es f&#xE1;cilmente subsanable y s&#xF3;lo en caso de no serlo fijar&#xE1; d&#xED;a y hora para el nuevo comparendo.</div><div class=\"p\">&nbsp; &nbsp; La notificaci&#xF3;n de la reclamaci&#xF3;n y de la sentencia se practicar&#xE1; por funcionario del Juzgado o por Carabineros, personalmente o por c&#xE9;dula, en el domicilio de la parte respectiva. Deber&#xE1; entregarse copia de la reclamaci&#xF3;n, o de la sentencia en su caso, a cualquiera persona de dicho domicilio si la parte no fuere habida. Adem&#xE1;s, se dirigir&#xE1; al demandado, por Secretar&#xED;a, carta certificada.</div><div class=\"p\">&nbsp; &nbsp; En todos los tr&#xE1;mites de esta gesti&#xF3;n, las partes podr&#xE1;n comparecer personalmente, sin necesidad de patrocinio de abogado y se litigar&#xE1; en papel simple.</div><div class=\"p\">&nbsp; &nbsp; El procedimiento tendr&#xE1; una duraci&#xF3;n m&#xE1;xima de quince d&#xED;as h&#xE1;biles contados desde la notificaci&#xF3;n a las partes de la reclamaci&#xF3;n interpuesta</div><div class=\"p\">&nbsp; &nbsp; El Juez apreciar&#xE1; la prueba y fallar&#xE1; en conciencia. Las resoluciones que se dicten en los tr&#xE1;mites del proceso no ser&#xE1;n susceptibles de recurso alguno. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7.o- DEROGADO<span class=\"n\" id=\"n_2\">DL 3648<br>Art. 49 b)<br>D.O. 10.03.1981</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

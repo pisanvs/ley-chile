@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-09-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7295352,
+          "old": "<div><div class=\"p\">IMPARTE NORMAS QUE INDICA SOBRE SEGURIDAD MINERA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.071.- Santiago, 5 de Octubre de 1983.- Visto: La resoluci&#xF3;n N&#xBA; 11, de 1970, del ex Servicio de Minas del Estado; las disposiciones del C&#xF3;digo de Miner&#xED;a de 1932; la Ley N&#xBA; 18.097, Org&#xE1;nica Constitucional de Concesiones Mineras; la Ley N&#xBA; 16.744, sobre Accidentes del Trabajo y Enfermedades Profesionales; el decreto ley N&#xBA; 3.525, de 1980, que contiene la Ley Org&#xE1;nica del Servicio Nacional de Geolog&#xED;a y Miner&#xED;a; el decreto supremo N&#xBA; 32, de 1969, del Ministerio de Miner&#xED;a, que establece el reglamento de Polic&#xED;a y Seguridad Minera; el decreto supremo N&#xBA; 89, de 1981, del Ministerio de Miner&#xED;a; el inciso segundo del art&#xED;culo 16 de la Ley N&#xBA; 10.336; el dictamen N&#xBA; 004881, de 1982, de la Contralor&#xED;a General de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- La necesidad de actualizar y regularizar el Registro Nacional de Expertos en Seguridad Minera;</div><div class=\"p\">&nbsp; &nbsp;  2.- Que es requisito fundamental fijar normas y pautas que permitan exigir el cumplimiento de requisitos m&#xED;nimos de los expertos profesionales y pr&#xE1;cticos en Prevenci&#xF3;n de Riesgos de la Industria Extractiva Minera.</div><div class=\"p\">&nbsp; &nbsp;  3.- Que el Servicio Nacional de Geolog&#xED;a y Miner&#xED;a ha estimado oportuno proceder a una nueva inscripci&#xF3;n en el Registro de Expertos Profesionales y Pr&#xE1;cticos en Seguridad Minera, de las personas que se dedican a esta actividad; y</div><div class=\"p\">&nbsp; &nbsp;  4.- Que para una mejor preparaci&#xF3;n y m&#xE1;s justa evaluaci&#xF3;n, se ha preparado cursos de capacitaci&#xF3;n y normas de reconocimiento, que se exigir&#xE1; a las personas que se inscriban en los registros ya se&#xF1;alados, </div><div class=\"p\">&nbsp; &nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">IMPARTE NORMAS QUE INDICA SOBRE SEGURIDAD MINERA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.071.- Santiago, 5 de Octubre de 1983.- Visto: La resoluci&#xF3;n N&#xBA; 11, de 1970, del ex Servicio de Minas del Estado; las disposiciones del C&#xF3;digo de Miner&#xED;a de 1932; la Ley N&#xBA; 18.097, Org&#xE1;nica Constitucional de Concesiones Mineras; la Ley N&#xBA; 16.744, sobre Accidentes del Trabajo y Enfermedades Profesionales; el decreto ley N&#xBA; 3.525, de 1980, que contiene la Ley Org&#xE1;nica del Servicio Nacional de Geolog&#xED;a y Miner&#xED;a; el decreto supremo N&#xBA; 32, de 1969, del Ministerio de Miner&#xED;a, que establece el reglamento de Polic&#xED;a y Seguridad Minera; el decreto supremo N&#xBA; 89, de 1981, del Ministerio de Miner&#xED;a; el inciso segundo del art&#xED;culo 16 de la Ley N&#xBA; 10.336; el dictamen N&#xBA; 004881, de 1982, de la Contralor&#xED;a General de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- La necesidad de actualizar y regularizar el Registro Nacional de Expertos en Seguridad Minera;</div><div class=\"p\">&nbsp; &nbsp;  2.- Que es requisito fundamental fijar normas y pautas que permitan exigir el cumplimiento de requisitos m&#xED;nimos de los expertos profesionales y pr&#xE1;cticos en Prevenci&#xF3;n de Riesgos de la Industria Extractiva Minera.</div><div class=\"p\">&nbsp; &nbsp;  3.- Que el Servicio Nacional de Geolog&#xED;a y Miner&#xED;a ha estimado oportuno proceder a una nueva inscripci&#xF3;n en el Registro de Expertos Profesionales y Pr&#xE1;cticos en Seguridad Minera, de las personas que se dedican a esta actividad; y</div><div class=\"p\">&nbsp; &nbsp;  4.- Que para una mejor preparaci&#xF3;n y m&#xE1;s justa evaluaci&#xF3;n, se ha preparado cursos de capacitaci&#xF3;n y normas de reconocimiento, que se exigir&#xE1; a las personas que se inscriban en los registros ya se&#xF1;alados, </div><div class=\"p\">&nbsp; &nbsp; &nbsp;  Resuelvo:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

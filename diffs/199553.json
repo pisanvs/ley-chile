@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-12-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003677,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Los trabajadores, que de acuerdo con las disposiciones de este decreto ley, cumplan jornada extraordinaria de trabajo, tendr&#xE1;n derecho a remuneraciones adicionales, las que ser&#xE1;n equivalente al 50% de sus sueldos y salarios, y se calcular&#xE1; en proporci&#xF3;n al tiempo trabajado.</div><div class=\"p\">&nbsp; &nbsp;  Las remuneraciones mencionadas en el inciso anterior ser&#xE1;n imponibles y se liquidar&#xE1;n y pagar&#xE1;n conjuntamente con el sueldo.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- DEROGADO<span class=\"n\" id=\"n_0\">DL 1608, HACIENDA<br>Art. 20<br>D.O. 07.12.1976</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

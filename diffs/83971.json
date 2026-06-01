@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-01-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-07-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8315750,
+          "old": "<div><div class=\"p\">AUTORIZA A LA JUNTA DE VECINOS &quot;CHADMO CENTRAL&quot; UNIDAD VECINAL No. 18 DE QUELLON PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA JUNTA DE VECINOS &quot;CHADMO CENTRAL&quot; UNIDAD VECINAL No. 18 DE QUELLON PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

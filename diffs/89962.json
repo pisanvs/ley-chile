@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-04-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7224569,
+          "old": "<div><br><div class=\"p\">FIJA VIAS QUE INDICA PARA CIRCULACION DE SERVICIOS PUBLICOS DE LOCOMOCION COLECTIVA</div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">N&#xFA;m. 11 exenta.- Talca, 07 de Marzo de 1990.- Visto: El DS No. 275/80, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, las Leyes N&#xB0;s. 18.575 y 18.696, la resoluci&#xF3;n No. 37, de 1988, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes y lo informado por Carabineros de Chile a trav&#xE9;s DO. N&#xB0;s. 71/90, 82/90 y 149/90.</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><br><div class=\"p\">FIJA VIAS QUE INDICA PARA CIRCULACION DE SERVICIOS PUBLICOS DE LOCOMOCION COLECTIVA</div><div class=\"p\">N&#xFA;m. 11 exenta.- Talca, 07 de Marzo de 1990.- Visto: El DS No. 275/80, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, las Leyes N&#xB0;s. 18.575 y 18.696, la resoluci&#xF3;n No. 37, de 1988, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes y lo informado por Carabineros de Chile a trav&#xE9;s DO. N&#xB0;s. 71/90, 82/90 y 149/90.</div><br><div class=\"p\">Resuelvo:</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-11-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8288218,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Establ&#xE9;cese una prenda especial sobre las concesiones a que se refiere el art&#xED;culo 32 bis de la ley N&#xB0; 18.695.</div><div class=\"p\">&nbsp; &nbsp; Esta prenda deber&#xE1; constituirse por escritura p&#xFA;blica, inscribirse en el Registro de Prenda Industrial del Conservador de Bienes Ra&#xED;ces respectivo y subinscribirse en el Registro Especial de Concesiones establecido en el art&#xED;culo 32 bis de la ley N&#xB0; 18.695. Adem&#xE1;s, deber&#xE1; anotarse al margen de la inscripci&#xF3;n de la sociedad concesionaria en el respectivo Registro de Comercio.</div><div class=\"p\">&nbsp; &nbsp; A esta prenda se aplicar&#xE1; lo dispuesto en los art&#xED;culos 25 inciso primero; 30; 31; 32; 33; 36; 37; 38; 40; 42; 43; 44; 46; 48; 49 y 50 de la ley N&#xB0; 5.687 sobre el Contrato de Prenda Industrial.</div><div class=\"p\">&nbsp; &nbsp; En los casos de ejecuci&#xF3;n forzada de la prenda a que se refiere este art&#xED;culo, se estar&#xE1; a lo dispuesto en el art&#xED;culo 32 bis de la ley N&#xB0; 18.695.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=261427&amp;idParte=8190056&amp;idVersion=2007-06-05\">LEY 20190<br>Art. 42 (DEL ART. 14)<br>D.O. 05.06.2007</a></span>&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- DEROGADO.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

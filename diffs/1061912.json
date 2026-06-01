@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-05-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9441312,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;base el protocolo de an&#xE1;lisis y/o ensayos que a continuaci&#xF3;n se indica, para la certificaci&#xF3;n del producto el&#xE9;ctrico que se se&#xF1;ala:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Tabla 2</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/39632.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Los textos &#xED;ntegros del protocolo precedentemente individualizado se encuentran en esta Superintendencia a disposici&#xF3;n de los interesados y puede ser consultado en el sitio web www.sec.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Para poder comercializar en el pa&#xED;s el producto Televisor, los importadores, fabricantes y comercializadores del mismo, deber&#xE1;n certificar y verificar, previo a la comercializaci&#xF3;n del producto, que &#xE9;ste cuente con el Certificado de Aprobaci&#xF3;n de Eficiencia Energ&#xE9;tica, de acuerdo al protocolo se&#xF1;alado en la Tabla 2, a partir del 31.12.2014, quedando, en consecuencia, sin efecto desde esta &#xFA;ltima fecha el protocolo el&#xE9;ctrico individualizado en la Tabla 1.</div><div class=\"p\">&nbsp; &nbsp;  No obstante lo anterior, los fabricantes e importadores interesados en utilizar este protocolo, antes de su entrada en vigencia, podr&#xE1;n hacerlo cuando existan Organismos de Certificaci&#xF3;n y Laboratorios de Ensayos autorizados para tales efectos.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;base el protocolo de an&#xE1;lisis y/o ensayos que a continuaci&#xF3;n se indica, para la certificaci&#xF3;n del producto el&#xE9;ctrico que se se&#xF1;ala:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Tabla 2</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/39632.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Los textos &#xED;ntegros del protocolo precedentemente individualizado se encuentran en esta Superintendencia a disposici&#xF3;n de los interesados y puede ser consultado en el sitio web www.sec.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Para poder comercializar en el pa&#xED;s el produ<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>cto Televisor, los importadores, fabricantes y comercializadores del mismo, deber&#xE1;n certificar y verificar, previo a la comercializaci&#xF3;n del producto, que &#xE9;ste cuente con el Certificado de Aprobaci&#xF3;n de Eficiencia Energ&#xE9;tica, de acuerdo al protocolo se&#xF1;alado en la Tabla 2, a partir del 31.12.2014, quedando, en consecuencia, sin efecto desde esta &#xFA;ltima fecha el protocolo el&#xE9;ctrico individualizado en la Tabla 1.</div><div class=\"p\">&nbsp; &nbsp;  No obstante lo anterior, los fabricantes e importadores interesados en utilizar este protocolo, antes de su entrada en vigencia, podr&#xE1;n hacerlo cuando existan Organismos de Certificaci&#xF3;n y Laboratorios de Ensayos autorizados para tales efectos.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 de la Resoluci&#xF3;n 6304 Exenta, Energ&#xED;a, publicada el 22.01.2015, modific&#xF3; la presente norma en el sentido de establecer que para poder comercializar en el pa&#xED;s el producto Televisor, los importadores, fabricantes y comercializadores del mismo, deber&#xE1;n certificar y verificar, previo a la comercializaci&#xF3;n del producto, que &#xE9;ste cuente con el respectivo Certificado de Aprobaci&#xF3;n de Eficiencia Energ&#xE9;tica, basado en el protocolo PE N&#xBA; 8/02/1-2, a partir del 01.06.2015.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-08-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-03-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048386,
+          "old": "<div><div class=\"p\">AUTORIZA A INVERSIONES DELFINES SOCIEDAD ANONIMA CERRADA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A INVERSIONES DELFINES SOCIEDAD ANONIMA CERRADA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div><br></div>"
+        }
+      ]
+    }
+  }
+]

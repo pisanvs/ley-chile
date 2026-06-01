@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1984-01-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8964553,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  La base imponible para calcular los pagos provisionales mensuales que con arreglo a la letra b) del art&#xED;culo 84&#xB0; de la Ley sobre Impuesto a la Renta corresponde efectuar a los Notarios, se determinar&#xE1; deduciendo del total de los derechos que obtienen del p&#xFA;blico el monto de las remuneraciones brutas que en el mes respectivo deban destinar al pago de su personal.</div><div class=\"p\">&nbsp; &nbsp;  Esta disposici&#xF3;n regir&#xE1; a contar de los ingresos y remuneraciones correspondientes al mes de Enero del presente a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  Las cantidades que por aplicaci&#xF3;n de lo dispuesto en este decreto resulten pagadas en exceso, tendr&#xE1;n el car&#xE1;cter de pagos provisionales conforme a lo establecido en el art&#xED;culo 88 de la Ley sobre Impuesto a la Renta.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  La base imponible para calcular los pagos provisionales mensuales que con arreglo a la letra b) del art&#xED;culo 84&#xB0; de la Ley sobre Impuesto a la Renta corresponde efectuar a los Notarios, Conservadores de<span class=\"n\" id=\"n_0\">DTO 9, HACIENDA<br>D.O. 25.01.1984</span> Bienes Ra&#xED;ces y Archiveros Judiciales, se determinar&#xE1; deduciendo del total de los derechos que obtienen del p&#xFA;blico el monto de las remuneraciones brutas que en el mes respectivo deban destinar al pago de su personal.</div><div class=\"p\">&nbsp; &nbsp;  Esta disposici&#xF3;n regir&#xE1; a contar de los ingresos y<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> remuneraciones correspondientes al mes de Enero del presente a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  Las cantidades que por aplicaci&#xF3;n de lo dispuesto<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> en este decreto resulten pagadas en exceso, tendr&#xE1;n el car&#xE1;cter de pagos provisionales conforme a lo establecido en el art&#xED;culo 88 de la Ley sobre Impuesto a la Renta.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 9, Hacienda, publicado el 25.01.1984, dispone que lo establecido en los p&#xE1;rrafos segundo y tercero del presente decreto supremo ser&#xE1; aplicable tanto a los Notarios como a los Conservadores de Bienes Ra&#xED;ces y Archiveros Judiciales.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

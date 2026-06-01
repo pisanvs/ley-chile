@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-01-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-06-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7270830,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA GRAN HORIZONTE S.A. PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE SE&#xD1;ALA. DEROGA PARCIALMENTE DECRETO QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA GRAN HORIZONTE S.A. PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE SE&#xD1;ALA. DEROGA PARCIALMENTE DECRETO QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

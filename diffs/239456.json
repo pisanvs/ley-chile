@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2005-06-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-03-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6530763,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Autor&#xED;zase a la Empresa de los Ferrocarriles del Estado para suprimir y proceder al levante de las v&#xED;as f&#xE9;rreas correspondientes al ramal ferroviario de Pur&#xE9;n a Lebu, desde el kil&#xF3;metro 26,325 hasta el kil&#xF3;metro 142,8 Los Sauces a Lebu, y que se compone de las fajas v&#xED;as y estaciones que se detallan en el anexo adjunto, el que se entiende formar parte integrante del presente Decreto.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Fac&#xFA;ltase a la citada empresa para que levante, desarme y retire todos los bienes que conforman la v&#xED;a f&#xE9;rrea desde el kil&#xF3;metro 26,325 hasta el kil&#xF3;metro 142,8 del ramal ferroviario Pur&#xE9;n a Lebu, sean &#xE9;stos muebles o inmuebles por adherencia o destinaci&#xF3;n, adem&#xE1;s de las construcciones y edificaciones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Autor&#xED;zase a la Empresa de los Ferrocarriles del Estado para suprimir y proceder al levante de las v&#xED;as f&#xE9;rreas correspondientes al ramal ferroviario de Pur&#xE9;n a Lebu, desde el kil&#xF3;metro 26,325 hasta el kil&#xF3;metro <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1143708&amp;idParte=10110123&amp;idVersion=2020-03-25\">Decreto 80,<br>TRANSPORTES<br>Art. &#xDA;NICO<br>D.O. 25.03.2020</a></span>143,0 Los Sauces a Lebu, y que se compone de las fajas v&#xED;as y estaciones que se detallan en el anexo adjunto, el que se entiende formar parte integrante del presente Decreto.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Fac&#xFA;ltase a la citada empresa para que levante, desarme y retire todos los bienes que conforman la v&#xED;a f&#xE9;rrea desde el kil&#xF3;metro 26,325 hasta el kil&#xF3;metro 143,0 del ramal ferroviario Pur&#xE9;n a Lebu, sean &#xE9;stos muebles o inmuebles por adherencia o destinaci&#xF3;n, adem&#xE1;s de las construcciones y edificaciones.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1143708,
+      "fecha": "2020-03-25"
+    }
+  }
+]

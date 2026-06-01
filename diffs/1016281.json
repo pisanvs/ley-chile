@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2010-08-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-11-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8965905,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Apl&#xED;quese, por el plazo de tres meses, contados de la fecha de publicaci&#xF3;n de la presente resoluci&#xF3;n, la siguiente estructura tarifaria base m&#xE1;xima al &quot;Servicio Courier de Correos de Chile&quot;, para el mercado personas, &#xE1;mbito nacional:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/12668.jpg\"> .</div><br><div class=\"p\">Tarifas exentas de IVA</div><div class=\"p\">Peso m&#xE1;ximo 30 kilos.</div><div class=\"p\">Para calcular el valor del env&#xED;o se considerar&#xE1; el peso mayor entre el peso f&#xED;sico y el peso volum&#xE9;trico.</div><div class=\"p\">Equivalencia volum&#xE9;trica: (Largo x Ancho x Alto) en cms./4.000</div><div class=\"p\">Ejemplo de c&#xE1;lculo: (25 x 50 x 40)/4.000= 12,5 kilos.</div><div class=\"p\">Dimensiones m&#xE1;ximas: Largo + Ancho + Alto debe ser menor a 3 mts., con una tolerancia de 30 cms. para env&#xED;o individual</div><div class=\"p\">El lado m&#xE1;ximo del env&#xED;o no debe superar los 2 mts., con una tolerancia de 10 cms.</div><div class=\"p\">Servicios adicionales: 11 AM, recargo 50%. Pago en destino, recargo 10%.</div><div class=\"p\">Env&#xED;os cuyo origen o destino no se encuentren dentro de la matriz, estar&#xE1;n afectos a un recargo del 20%.</div><br><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/12669.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Apl&#xED;quese, por el plazo de tres meses, contados de la fecha de publicaci&#xF3;n de la presente resoluci&#xF3;n,<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> la siguiente estructura tarifaria base m&#xE1;xima al &quot;Servicio Courier de Correos de Chile&quot;, para el mercado personas, &#xE1;mbito nacional:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/12668.jpg\"> .</div><br><div class=\"p\">Tarifas exentas de IVA</div><div class=\"p\">Peso m&#xE1;ximo 30 kilos.</div><div class=\"p\">Para calcular el valor del env&#xED;o se considerar&#xE1; el peso mayor entre el peso f&#xED;sico y el peso volum&#xE9;trico.</div><div class=\"p\">Equivalencia volum&#xE9;trica: (Largo x Ancho x Alto) en cms./4.000</div><div class=\"p\">Ejemplo de c&#xE1;lculo: (25 x 50 x 40)/4.000= 12,5 kilos.</div><div class=\"p\">Dimensiones m&#xE1;ximas: Largo + Ancho + Alto debe ser menor a 3 mts., con una tolerancia de 30 cms. para env&#xED;o individual</div><div class=\"p\">El lado m&#xE1;ximo del env&#xED;o no debe superar los 2 mts., con una tolerancia de 10 cms.</div><div class=\"p\">Servicios adicionales: 11 AM, recargo 50%. Pago en destino, recargo 10%.</div><div class=\"p\">Env&#xED;os cuyo origen o destino no se encuentren dentro de la matriz, estar&#xE1;n afectos a un recargo del 20%.</div><br><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/12669.jpg\">.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero 2 de la Resoluci&#xF3;n 79 exenta, Empresa de Correos, publicada el 17.11.2010. modifica en lo que corresponde la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

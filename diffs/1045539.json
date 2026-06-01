@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2012-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-09-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9311407,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  2. Apru&#xE9;bense las nuevas normas urban&#xED;sticas asignadas a los terrenos, cuyas afectaciones de utilidad p&#xFA;blica caducaron con fecha 12 de febrero de 2010, y que se indican en los siguientes cuadros:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/29107.jpg\">.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  2. Apru&#xE9;bense las nuevas normas urban&#xED;sticas asignadas a los terrenos, cuyas afectaciones de utilidad p&#xFA;blica caducaron con fecha 12 de febrero de 2010, y que se indican en los siguientes&nbsp; c<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>uadros:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/29107.jpg\">.</div><br><div class=\"p\"> </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Numeral 1 del Decreto 4819, Municipalidad de Maip&#xFA;, publicado 27.09.2013, rectifica un error de transcripci&#xF3;n, del cuadro de la presente norma, quedando la descripci&#xF3;n del tramo correspondiente de la siguiente manera:<br>&nbsp; &nbsp; &nbsp; &quot;Entre L.O. poniente de avenida Tres Poniente y 23 metros al poniente de la l&#xED;nea oficial oriente de calle Santa Priscila.&quot;.<br>&nbsp; &nbsp;  Debe leerse: &quot;...Entre L.O. poniente de Avenida Tres Poniente hasta 23 metros al poniente de la l&#xED;nea oficial poniente de calle Santa Priscila&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

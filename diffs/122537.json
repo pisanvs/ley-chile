@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-07-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-02-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7236794,
+          "old": "<div><br><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A GUSTAVO FLORES MU&#xD1;OZ </div><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A GUSTAVO FLORES MU&#xD1;OZ </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

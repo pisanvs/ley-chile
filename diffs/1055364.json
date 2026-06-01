@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-03-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9380024,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Des&#xED;gnase, a contar de la fecha del presente decreto, como miembro de la Junta de Aeron&#xE1;utica Civil a do&#xF1;a Mar&#xED;a Cecilia Godoy Cruz, RUT 9.908.047-7, Coordinadora de Planificaci&#xF3;n y Desarrollo de la Subsecretaria de Transportes.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Des&#xED;gnase, a contar de la fecha del presente decreto<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>, como miembro de la Junta de Aeron&#xE1;utica Civil a do&#xF1;a Mar&#xED;a Cecilia Godoy Cruz, RUT 9.908.047-7, Coordinadora de Planificaci&#xF3;n y Desarrollo de la Subsecretaria de Transportes.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 2 del Decreto 221, Transportes, publicado el 03.03.2015, deja sin efecto la designaci&#xF3;n de do&#xF1;a Mar&#xED;a Cecilia Godoy Cruz como miembro de la Junta de Aeron&#xE1;utica Civil, contenida en el presente art&#xED;culo.</div></div>"
+        }
+      ]
+    }
+  }
+]

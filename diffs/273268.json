@@ -1,0 +1,69 @@
+[
+  {
+    "fecha": "1971-04-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1973-01-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9120418,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art. 3&#xBA;.- Las tasas que se imponen a los vuelos internacionales en los T&#xED;tulos I y II del Cap&#xED;tulo II del presente Reglamento se actualizar&#xE1;n, mediante su reajuste, el d&#xED;a primero de cada mes. Para efectuar este reajuste se tomar&#xE1; como base el tipo de cambio para el d&#xF3;lar libre corredores, vendedor, que estuviere vigente el d&#xED;a primero del mes anterior al del reajuste.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 3&#xBA;.- Las tasas que se imponen a los vuelos internacionales en los T&#xED;tulos I y II del Cap&#xED;tulo II del presente <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=273368&amp;idParte=9118218&amp;idVersion=1973-01-08\">Decreto 28, DEFENSA<br>N&#xBA; 1<br>D.O. 20.03.1973</a></span>Reglamento se actualizar&#xE1;n, mediante su reajuste, el d&#xED;a primero de cada mes. Para efectuar este reajuste se tomar&#xE1; como base el tipo de cambio para el d&#xF3;lar libre corredores, comprador, que estuviere vigente el d&#xED;a primero del mes anterior al del reajuste.</div><br></div>"
+        },
+        {
+          "part_id": 9120419,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art. 4&#xB0;.- Las dem&#xE1;s tasas y derechos aeron&#xE1;uticos se reajustar&#xE1;n anualmente el primero de Julio de cada a&#xF1;o. El porcentaje de &#xE9;ste ser&#xE1; igual al porcentaje de alza experimentado por el &#xED;ndice de precios al consumidor durante el per&#xED;odo comprendido, hacia atr&#xE1;s, entre el 31 de Mayo del a&#xF1;o que corresponde efectuar el reajuste y el 1&#xBA; de Junio del a&#xF1;o inmediatamente anterior.</div><div class=\"p\">Se except&#xFA;an de esta disposici&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  A.- La tasa operacional establecida en el t&#xED;tulo III, del cap&#xED;tulo II, y</div><div class=\"p\">&nbsp; &nbsp;  B.- Los derechos aeron&#xE1;uticos por concesiones a que se refiere el cap&#xED;tulo V.</div><br><div class=\"p\">&nbsp; &nbsp;  En los casos de las excepciones se&#xF1;aladas, el reajuste se efectuar&#xE1; el 1&#xBA; de Enero de cada a&#xF1;o y el porcentaje de este reajuste ser&#xE1; igual al porcentaje de alza del &#xED;ndice de precios al consumidor en el per&#xED;odo comprendido entre el 1&#xBA; de Enero y el 31 de Diciembre del a&#xF1;o inmediatamente anterior.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 4&#xB0;.- Las dem&#xE1;s <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=273368&amp;idParte=9118218&amp;idVersion=1973-01-08\">Decreto 28, DEFENSA<br>N&#xBA; 2<br>D.O. 20.03.1973</a></span>tasas y derechos aeron&#xE1;uticos se reajustar&#xE1;n anualmente el primero de Enero de cada a&#xF1;o. El porcentaje de este reajuste ser&#xE1; igual al porcentaje de alza experimentado por el &#xED;ndice de precios al consumidor durante el a&#xF1;o calendario inmediatamente anterior.</div><br><div class=\"p\">&nbsp; &nbsp;  Se except&#xFA;an de esta disposici&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  A.- La tasa operacional establecida en el t&#xED;tulo III, del cap&#xED;tulo II, y</div><div class=\"p\">&nbsp; &nbsp;  B.- Los derechos aeron&#xE1;uticos por concesiones a que se refiere el cap&#xED;tulo V.</div><br><div class=\"p\">&nbsp; &nbsp;  En los casos de las excepciones se&#xF1;aladas, el reajuste se efectuar&#xE1; el 1&#xBA; de Enero de cada a&#xF1;o y el porcentaje de este reajuste ser&#xE1; igual al porcentaje de alza del &#xED;ndice de precios al consumidor en el per&#xED;odo comprendido entre el 1&#xBA; de Enero y el 31 de Diciembre del a&#xF1;o inmediatamente anterior.</div><br></div>"
+        },
+        {
+          "part_id": 9120842,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 59&#xBA;.- El Director de Aeron&#xE1;utica podr&#xE1; conceder a terceros el servicio de abastecimiento de combustibles y lubricantes a las aeronaves en los aer&#xF3;dromos.</div><div class=\"p\">&nbsp; &nbsp;  El derecho m&#xED;nimo que se podr&#xE1; cobrar por esta concesi&#xF3;n ser&#xE1; el que corresponda seg&#xFA;n el art&#xED;culo 55&#xBA;, m&#xE1;s E&#xBA; 0,023 por litro de combustible suministrado y E&#xB0; 0,234 por litro de lubricante vendido. El suministro se controlar&#xE1; por medio de un estado mensual que entregar&#xE1; la compa&#xF1;&#xED;a abastecedora y los pagos correspondientes se har&#xE1;n dentro de los quince primeros d&#xED;as del mes siguiente al de la fecha del estado.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 59&#xBA;.- El Director de Aeron&#xE1;utica podr&#xE1; conceder a terceros el servicio de abastecimiento de combustibles y lubricantes a las aeronaves en los aer&#xF3;dromos.</div><div class=\"p\">&nbsp; &nbsp;  El derecho m&#xED;nimo que se podr&#xE1; cobrar por esta concesi&#xF3;n ser&#xE1; el que corresponda seg&#xFA;n el art&#xED;culo 55&#xBA;, m&#xE1;s <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=273368&amp;idParte=9118218&amp;idVersion=1973-01-08\">Decreto 28, DEFENSA<br>N&#xBA; 3<br>D.O. 20.03.1973</a></span>E&#xBA; 0,20 por litro de combustible suministrado y E&#xB0; 2 por litro de lubricante vendido. El suministro se controlar&#xE1; por medio de un estado mensual que entregar&#xE1; la compa&#xF1;&#xED;a abastecedora y los pagos correspondientes se har&#xE1;n dentro de los quince primeros d&#xED;as del mes siguiente al de la fecha del estado.</div><br></div>"
+        },
+        {
+          "part_id": 9120844,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 60.- Establ&#xE9;cense los siguientes derechos por servicios e instalaciones suministradas para la atenci&#xF3;n de los pasajeros que se embarquen en aeronaves comerciales:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  A.-Aer&#xF3;dromos de primera categor&#xED;a</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; a.-E&#xBA; 40.00 por pasajero con destino al extranjero.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b.-E&#xBA; 11,00 por pasajero con destino a un punto dentro del territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  B.-Aer&#xF3;dromos de segunda categor&#xED;a</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; E&#xB0; 8,00 por pasajero con destino a un punto del territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  C.-En Aer&#xF3;dromo Carlos Ib&#xE1;&#xF1;ez del C. (Punta Arenas)</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; a.-E&#xBA; 7,00 por pasajero con destino a un punto dentro de la regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b.-E&#xB0; 11,00 por pasajero, con destino a un punto dentro del territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; c.-E&#xB0; 25,00 por cada pasajero con destino a R&#xED;o Gallegos.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; d.-E&#xB0; 40,00 por pasajero con destino al extranjero.</div><div class=\"p\">&nbsp; &nbsp;  Los derechos establecidos en el presente art&#xED;culo ser&#xE1;n de cargo del pasajero y se cobrar&#xE1;n por las empresas de aeronavegaci&#xF3;n comercial, para lo cual la Direcci&#xF3;n de Aeron&#xE1;utica les impartir&#xE1; las instrucciones necesarias.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 60.- Establ&#xE9;cense los siguientes derechos por servicios e instalaciones suministradas para la atenci&#xF3;n de los pasajeros que se embarquen en aeronaves comerciales:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  A.-Aer&#xF3;dromos <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=273368&amp;idParte=9118218&amp;idVersion=1973-01-08\">Decreto 28, DEFENSA<br>N&#xBA; 4<br>D.O. 20.03.1973</a></span>de primera categor&#xED;a</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; a.-E&#xBA; 300,00 por pasajero con destino al extranjero.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b.-E&#xBA; 11,00 por pasajero con destino a un punto dentro del territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  B.-Aer&#xF3;dromos de segunda categor&#xED;a</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; E&#xB0; 8,00 por pasajero con destino a un punto del territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  C.-En Aer&#xF3;dromo Carlos Ib&#xE1;&#xF1;ez del C. (Punta Arenas)</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; a.-E&#xBA; 7,00 por pasajero con destino a un punto dentro de la regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b.-E&#xB0; 11,00 por pasajero, con destino a un punto dentro del territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; c.-E&#xB0; 25,00 por cada pasajero con destino a R&#xED;o Gallegos.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; d.-E&#xB0; 300,00 por pasajero con destino al extranjero.</div><div class=\"p\">&nbsp; &nbsp;  Los derechos establecidos en el presente art&#xED;culo ser&#xE1;n de cargo del pasajero y se cobrar&#xE1;n por las empresas de aeronavegaci&#xF3;n comercial, para lo cual la Direcci&#xF3;n de Aeron&#xE1;utica les impartir&#xE1; las instrucciones necesarias.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 273368,
+      "fecha": "1973-01-08"
+    }
+  },
+  {
+    "fecha": "1973-06-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9120418,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 3&#xBA;.- Las tasas que se imponen a los vuelos internacionales en los T&#xED;tulos I y II del Cap&#xED;tulo II del presente <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=273368&amp;idParte=9118218&amp;idVersion=1973-01-08\">Decreto 28, DEFENSA<br>N&#xBA; 1<br>D.O. 20.03.1973</a></span>Reglamento se actualizar&#xE1;n, mediante su reajuste, el d&#xED;a primero de cada mes. Para efectuar este reajuste se tomar&#xE1; como base el tipo de cambio para el d&#xF3;lar libre corredores, comprador, que estuviere vigente el d&#xED;a primero del mes anterior al del reajuste.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=273369&amp;idParte=9118760&amp;idVersion=1973-06-01\">Decreto 339, DEFENSA<br>N&#xBA; 1<br>D.O. 31.07.1973</a></span>&nbsp; &nbsp;  Art. 3&#xBA;.- Las tasas que se imponen a los vuelos internacionales en los T&#xED;tulos I y II del Cap&#xED;tulo II del presente Reglamento se actualizar&#xE1;n mediante su reajuste el d&#xED;a 1.o de cada mes. Tal reajuste ser&#xE1; igual al porcentaje de alza que haya experimentado, en el mes inmediatamente anterior, el tipo de cambio que el Banco Central fije a las Empresas A&#xE9;reas extranjeras para la liquidaci&#xF3;n de divisas con el objeto de atender sus gastos en el pa&#xED;s.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 273369,
+      "fecha": "1973-06-01"
+    }
+  },
+  {
+    "fecha": "1974-04-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2012-10-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-07-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9308726,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Ampl&#xED;ese el plazo en dos meses, contados desde la total tramitaci&#xF3;n del presente decreto, para que los regantes del Embalse Puclaro suscriban las respectivas escrituras de reembolso y acciones del Embalse.</div><div class=\"p\">&nbsp; &nbsp;  2.- En todo aquello no modificado por el presente decreto supremo modificatorio, permanecer&#xE1;n plenamente vigentes todas y cada una de las disposiciones contenidas en el DS N&#xB0; 191, de 28 de febrero de 2006 y <a href=\"https://www.leychile.cl/Navegar?idNorma=267089&amp;idParte=&amp;idVersion=\">DS N&#xB0; 566, de 9 de agosto de 2007</a>.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Ampl&#xED;ese el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>plazo en dos meses, contados desde la total tramitaci&#xF3;n del presente decreto, para que los regantes del Embalse Puclaro suscriban las respectivas escrituras de reembolso y acciones del Embalse.</div><div class=\"p\">&nbsp; &nbsp;  2.- En todo aquello no modificado por el presente decreto supremo modificatorio, permanecer&#xE1;n plenamente vigentes todas y cada una de las disposiciones contenidas en el DS N&#xB0; 191, de 28 de febrero de 2006 y DS N&#xB0; 566, de 9 de agosto de 2007.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los Numerales 1 y 2 del Decreto 155, Obras P&#xFA;blicas, publicado el 08.07.2016, modifica la presente norma en el sentido de ampliar el plazo, en un a&#xF1;o para la suscripci&#xF3;n de las escrituras de reembolso y cesi&#xF3;n de derechos de aprovechamiento de aguas a los titulares de acciones del embalse regularizada y en dos a&#xF1;os, para la suscripci&#xF3;n de las escrituras de reembolso y cesi&#xF3;n de derechos de aprovechamiento de aguas a los titulares de acciones cuya regularizaci&#xF3;n se encuentre pendiente.</div></div>"
+        }
+      ]
+    }
+  }
+]

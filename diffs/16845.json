@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1982-01-28",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1982-01-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8996142,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo primero: Cr&#xE9;ase, como entidad asesora del Presidente de la Rep&#xFA;blica y bajo su Direcci&#xF3;n, el Consejo Social de Ministros, que estar&#xE1; integrado por los Ministerios del Interior, Hacienda, Educaci&#xF3;n P&#xFA;blica, Justicia, Trabajo y Previsi&#xF3;n Social, Salud P&#xFA;blica y Vivienda y Urbanismo.</div><div class=\"p\">&nbsp; &nbsp; Participar&#xE1;n, adem&#xE1;s, en dicho Consejo, el Ministro Director de la Oficina de Planificaci&#xF3;n Nacional, el Ministro Jefe del Comit&#xE9; Asesor de la H. Junta de Gobierno y el Ministro Jefe del Estado Mayor Presidencial.</div><div class=\"p\">&nbsp; &nbsp; El Ministro del Interior presidir&#xE1; este Consejo, cuando el Presidente de la Rep&#xFA;blica as&#xED; lo disponga.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp;  1</a> <br>&nbsp; &nbsp;  El Decreto Supremo N&#xB0; 2.012, del Ministerio del Interior, publicado en el &quot;Diario Oficial&quot; de 28 de Enero de 1982, dispuso lo siguiente:<br>&nbsp; &nbsp; A contar de la fecha de publicaci&#xF3;n del presente decreto, el Consejo Social de Ministros creado por decreto supremo N&#xB0; 1.103, de 1979, de este Ministerio, quedar&#xE1; integrado exclusivamente con los siguientes miembros: Ministros del Interior y Hacienda; Ministro Director de la Oficina de Planificaci&#xF3;n Nacional; Ministro Jefe del Comit&#xE9; Asesor Presidencial y Ministro Jefe del Estado Mayor Presidencial.<br></div></div>"
+        },
+        {
+          "part_id": 8996143,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: Ser&#xE1;n funciones principales de esta entidad las siguientes:</div><div class=\"p\">&nbsp; &nbsp; a) Proponer la educaci&#xF3;n, en forma permanente, de la asignaci&#xF3;n del gasto social;</div><div class=\"p\">&nbsp; &nbsp; b)Coordinar las pol&#xED;ticas sectoriales en materia social, con el fin de lograr un desarrollo social arm&#xF3;nico y acelerado;</div><div class=\"p\">&nbsp; &nbsp; c) Coordinar las pol&#xED;ticas de acci&#xF3;n social, tendiente a obtener una racional utilizaci&#xF3;n de los recursos sociales, y</div><div class=\"p\">&nbsp; &nbsp; d) Todas aquellas funciones de asesor&#xED;a que, en estas materias, el Presidente de la Rep&#xFA;blica le encomiende.</div><br></div>"
+        },
+        {
+          "part_id": 8996144,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; T&#xF3;mese raz&#xF3;n, an&#xF3;tese, comun&#xED;quese y publ&#xED;quese.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- Sergio Fern&#xE1;ndez Fern&#xE1;ndez, Ministro del Interior.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Enrique Montero Marx, Coronel de Aviaci&#xF3;n (J), Subsecretario del Interior.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

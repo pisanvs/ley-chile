@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-07-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-05-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6292856,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- F&#xED;jase la siguiente ponderaci&#xF3;n para los precios hist&#xF3;ricos, de corto plazo y de largo plazo, para la determinaci&#xF3;n de los Precios de Referencia Intermedio, que ser&#xE1; igual para todos los combustibles derivados del petr&#xF3;leo:</div><br><br><div class=\"p\">PRI = 40% x Precio Hist&#xF3;rico + 25% x Precio Corto Plazo + 35% x Precio Largo Plazo</div><br><br><div class=\"p\">&nbsp; &nbsp;  2.- Las denominaciones &apos;&apos;Precio de Referencia Intermedio&apos;&apos;, &apos;&apos;Precio Hist&#xF3;rico&apos;&apos;, &apos;&apos;Precio Corto Plazo&apos;&apos; y &apos;&apos;Precio Largo Plazo&apos;&apos;, mencionadas en la ponderaci&#xF3;n anteriormente determinada, se entender&#xE1;n en los t&#xE9;rminos en que han sido definidas en el art&#xED;culo 2&#xBA; de la ley N&#xBA;19.681.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- F&#xED;jase la siguiente ponderaci&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> para los precios hist&#xF3;ricos, de corto plazo y de largo plazo, para la determinaci&#xF3;n de los Precios de Referencia Intermedio, que ser&#xE1; igual para todos los combustibles derivados del petr&#xF3;leo:</div><br><br><div class=\"p\">PRI = 40% x Precio Hist&#xF3;rico + 25% x Precio Corto Plazo + 35% x Precio Largo Plazo</div><br><br><div class=\"p\">&nbsp; &nbsp;  2.- Las denominaciones &apos;&apos;Precio de Referencia Intermedio&apos;&apos;, &apos;&apos;Precio Hist&#xF3;rico&apos;&apos;, &apos;&apos;Precio Corto Plazo&apos;&apos; y &apos;&apos;Precio Largo Plazo&apos;&apos;, mencionadas en la ponderaci&#xF3;n anteriormente determinada, se entender&#xE1;n en los t&#xE9;rminos en que han sido definidas en el art&#xED;culo 2&#xBA; de la ley N&#xBA;19.681.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo Segundo del Decreto 44, Energ&#xED;a, publicado el 24.05.2011 modifica la presente norma en el sentido de dejar sin efecto la ponderaci&#xF3;n de los precios hist&#xF3;rico, de corto plazo y de largo plazo, dispuesta por este numeral.</div></div>"
+        }
+      ]
+    }
+  }
+]

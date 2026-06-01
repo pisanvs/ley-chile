@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-04-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-11-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9525531,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1069177&amp;idParte=9525517&amp;idVersion=2014-11-07\">Ordenanza 135,<br>M. DE PROVIDENCIA<br>N&#xB0; 1<br>D.O. 07.11.2014</a></span>&nbsp; &nbsp;  Art&#xED;culo 88&#xBA; Bis: Las infracciones a la presente Ordenanza denunciadas al Juzgado de Polic&#xED;a Local ser&#xE1;n sancionadas con multas que fluctuar&#xE1;n de 1 a 5 UTM, por cada infracci&#xF3;n.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1069177,
+      "fecha": "2014-11-07"
+    }
+  }
+]

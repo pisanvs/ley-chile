@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-10-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9375132,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Del&#xE9;gase en los Secretarios Regionales Ministeriales de Desarrollo Social el ejercicio de las siguientes facultades relacionadas con el Sistema Intersectorial de Protecci&#xF3;n Social, y sus Subsistemas de Protecci&#xF3;n Integral a la Infancia &quot;Chile Crece Contigo&quot;, &quot;Chile Solidario y &quot;Seguridades y Oportunidades&quot;.</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Celebrar convenios de colaboraci&#xF3;n y/o de transferencia de recursos por un monto inferior a 5.000 Unidades Tributarias Mensuales, para la implementaci&#xF3;n y ejecuci&#xF3;n de los Subsistemas de Protecci&#xF3;n Integral a la Infancia &quot;Chile Crece Contigo&quot;, &quot;Chile Solidario&quot; y &quot;Seguridades y Oportunidades&quot; con municipalidades, con otros &#xF3;rganos de la Administraci&#xF3;n del Estado o con entidades privadas sin fines de lucro, en el &#xE1;mbito de su respectiva regi&#xF3;n, aprobarlos por el acto administrativo correspondiente, as&#xED; como tambi&#xE9;n, suscribir y aprobar los actos relacionados con la ejecuci&#xF3;n y t&#xE9;rmino de dichos convenios.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Celebrar convenios de colaboraci&#xF3;n y transferencia de recursos hasta el monto ya se&#xF1;alado, para la aplicaci&#xF3;n del instrumento de caracterizaci&#xF3;n socioecon&#xF3;mica de la poblaci&#xF3;n, con municipalidades, con otros &#xF3;rganos de la Administraci&#xF3;n del Estado o con entidades privadas sin fines de lucro, en el &#xE1;mbito de su respectiva regi&#xF3;n, aprobarlos por el acto administrativo correspondiente, as&#xED; como tambi&#xE9;n, suscribir y aprobar los actos relacionados con la ejecuci&#xF3;n y t&#xE9;rmino de dichos convenios.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Del&#xE9;gase en los Secretarios Regionales Ministeriales de Desarrollo Social el ejercicio de las siguientes facultades relacionadas con el Sistema Intersectorial de Protecci&#xF3;n Social, y sus Subsistemas de Protecci&#xF3;n Integral a la Infancia &quot;Chile Crece Contigo&quot;, &quot;Chile Solidario y &quot;Seguridades y Oportunidades&quot;.</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Celebrar convenios de colaboraci&#xF3;n y/o de transferencia de recursos por un monto inferior a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1166279&amp;idParte=10275237&amp;idVersion=2021-10-12\">Resoluci&#xF3;n 786 EXENTA,<br>DESARROLLO<br>N&#xB0; 1&#xB0;, 1<br>D.O. 12.10.2021</a></span>6.000 Unidades Tributarias Mensuales, para la implementaci&#xF3;n y ejecuci&#xF3;n de los Subsistemas de Protecci&#xF3;n Integral a la Infancia &quot;Chile Crece Contigo&quot;, &quot;Chile Solidario&quot; y &quot;Seguridades y Oportunidades&quot; con municipalidades, con otros &#xF3;rganos de la Administraci&#xF3;n del Estado o con entidades privadas sin fines de lucro, en el &#xE1;mbito de su respectiva regi&#xF3;n, aprobarlos por el acto administrativo correspondiente, as&#xED; como tambi&#xE9;n, suscribir y aprobar los actos relacionados con la ejecuci&#xF3;n y t&#xE9;rmino de dichos convenios.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Celebrar convenios de colaboraci&#xF3;n y transferencia de recursos hasta el monto ya se&#xF1;alado, para la aplicaci&#xF3;n del instrumento de caracterizaci&#xF3;n socioecon&#xF3;mica de la poblaci&#xF3;n, con municipalidades, con otros &#xF3;rganos de la Administraci&#xF3;n del Estado o con entidades privadas sin fines de lucro, en el &#xE1;mbito de su respectiva regi&#xF3;n, aprobarlos por el acto administrativo correspondiente, as&#xED; como tambi&#xE9;n, suscribir y aprobar los actos relacionados con la ejecuci&#xF3;n y t&#xE9;rmino de dichos convenios.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1166279,
+      "fecha": "2021-10-12"
+    }
+  }
+]

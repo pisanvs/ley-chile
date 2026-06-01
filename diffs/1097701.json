@@ -1,0 +1,55 @@
+[
+  {
+    "fecha": "2016-12-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-09-21",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9752295,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo noveno: En los procesos de acreditaci&#xF3;n realizados por la CNA, la comunicaci&#xF3;n entre &#xE9;sta y las instituciones se efectuar&#xE1; a trav&#xE9;s de medios electr&#xF3;nicos conforme a las instrucciones que sobre la materia imparta la Comisi&#xF3;n. No obstante, la solicitud de incorporaci&#xF3;n al proceso de acreditaci&#xF3;n deber&#xE1; entregarse por escrito a la CNA.</div><div class=\"p\">&nbsp; &nbsp;  Para efectos de la notificaci&#xF3;n, las instituciones de educaci&#xF3;n superior deber&#xE1;n se&#xF1;alar el lugar donde ser&#xE1;n notificadas (domicilio) o bien el medio preferente para ello (por ejemplo, correo electr&#xF3;nico). En caso de fijar su domicilio, la notificaci&#xF3;n se efectuar&#xE1; conforme lo dispone el art&#xED;culo 46 de la Ley N&#xBA; 19.880.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo noveno: En los procesos de acr<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1136613&amp;idParte=10055307&amp;idVersion=2019-09-21\">Resoluci&#xF3;n 36 EXENTA,<br>C.N. ACREDITACI&#xD3;N<br>Art. primero N&#xB0; 1<br>D.O. 21.09.2019</a></span>editaci&#xF3;n realizados por la CNA, la comunicaci&#xF3;n entre &#xE9;sta y las instituciones se efectuar&#xE1; a trav&#xE9;s de medios electr&#xF3;nicos conforme a las instrucciones que sobre la materia imparta la Comisi&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9752300,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo d&#xE9;cimo cuarto: Tan pronto se dicte la resoluci&#xF3;n que apruebe el inicio del proceso de acreditaci&#xF3;n, se firmar&#xE1; un Convenio entre la CNA y la instituci&#xF3;n. Dicho documento da cuenta de las condiciones contractuales del proceso, y ser&#xE1; enviado al representante legal de la instituci&#xF3;n para su firma, debiendo remitirse suscrito en un plazo m&#xE1;ximo de 30 d&#xED;as h&#xE1;biles. Asimismo, la instituci&#xF3;n deber&#xE1; suscribir, a trav&#xE9;s del mismo representante legal, el Convenio de pago de arancel y la declaraci&#xF3;n jurada simple de veracidad de los antecedentes que entregue a la CNA, seg&#xFA;n formato que &#xE9;sta adjuntar&#xE1; al referido Convenio.</div><div class=\"p\">&nbsp; &nbsp;  Por su parte, las agencias deber&#xE1;n establecer el procedimiento a seguir en esta materia, el que deber&#xE1; constar en los reglamentos que sean sometidos a la autorizaci&#xF3;n de la CNA. En cualquier caso, se considerar&#xE1; que el proceso ha tenido inicio s&#xF3;lo cuando se ha hecho entrega del Informe de Autoevaluaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo d&#xE9;cimo cuarto: La resoluci&#xF3;n que apru<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1136613&amp;idParte=10055307&amp;idVersion=2019-09-21\">Resoluci&#xF3;n 36 EXENTA,<br>C.N. ACREDITACI&#xD3;N<br>Art. primero N&#xB0; 2<br>D.O. 21.09.2019</a></span>ebe el inicio del proceso de acreditaci&#xF3;n dar&#xE1; cuenta de las condiciones particulares de &#xE9;ste. La instituci&#xF3;n deber&#xE1; suscribir el documento Compromiso Pago de Arancel, el cual ser&#xE1; enviado al representante legal para su firma, debiendo remitirse suscrito en un plazo m&#xE1;ximo de 15 d&#xED;as h&#xE1;biles.</div><br></div>"
+        },
+        {
+          "part_id": 9752317,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo vig&#xE9;simo noveno: Dentro de los 30 d&#xED;as h&#xE1;biles siguientes a la adopci&#xF3;n de la decisi&#xF3;n, la instituci&#xF3;n ser&#xE1; notificada/o del acto jur&#xED;dico que contiene los fundamentos del juicio adoptado, de acuerdo a las formas que la Ley permita. Todas las resoluciones adoptadas por la CNA y las agencias acreditadoras ser&#xE1;n de p&#xFA;blico conocimiento.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo vig&#xE9;simo noveno: Dentro de los 30 d&#xED;as h&#xE1;bi<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1136613&amp;idParte=10055307&amp;idVersion=2019-09-21\">Resoluci&#xF3;n 36 EXENTA,<br>C.N. ACREDITACI&#xD3;N<br>Art. primero N&#xB0; 3<br>D.O. 21.09.2019</a></span>les siguientes a la adopci&#xF3;n de la decisi&#xF3;n, la instituci&#xF3;n ser&#xE1; notificada de la resoluci&#xF3;n administrativa que contiene los fundamentos del juicio adoptado. Dicha notificaci&#xF3;n se efectuar&#xE1; de acuerdo a lo dispuesto en el art&#xED;culo 46&#xB0; de la ley N&#xB0; 19.880. Todas las resoluciones adoptadas por la CNA y las agencias acreditadoras ser&#xE1;n de p&#xFA;blico conocimiento.</div><div class=\"p\">&nbsp; &nbsp;  Las instituciones que cuenten con convenio de tramitaci&#xF3;n electr&#xF3;nica suscrito con la CNA, y manifiesten su voluntad de notificarse de las resoluciones de acreditaci&#xF3;n a trav&#xE9;s de las direcciones de correo electr&#xF3;nico declaradas, se entender&#xE1;n notificadas al d&#xED;a h&#xE1;bil siguiente del env&#xED;o de la informaci&#xF3;n de que el referido acto administrativo se encuentra disponible en la plataforma de tramitaci&#xF3;n electr&#xF3;nica. Para tales efectos, las resoluciones de acreditaci&#xF3;n contar&#xE1;n con firma electr&#xF3;nica avanzada.</div><br></div>"
+        },
+        {
+          "part_id": 9752321,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo trig&#xE9;simo tercero: Acorde al art&#xED;culo 59 de la Ley 19.880, la instituci&#xF3;n podr&#xE1; interponer un recurso de reposici&#xF3;n respecto de la decisi&#xF3;n de acreditaci&#xF3;n, en el plazo de 5 d&#xED;as h&#xE1;biles contados desde la notificaci&#xF3;n de la resoluci&#xF3;n que contenga dicha decisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Las reposiciones deber&#xE1;n interponerse por escrito y deber&#xE1;n expresar con claridad las razones y fundamentos que la motivan, conteniendo un punto de vista institucional y no solo la de la carrera o programa afectado por la decisi&#xF3;n. En todo caso, no se podr&#xE1; invocar como fundamento, antecedentes o hechos de fecha posterior al per&#xED;odo evaluado. Adem&#xE1;s, deber&#xE1;n tener la firma del representante legal de la Instituci&#xF3;n, o de quien &#xE9;ste haya designado al momento de suscribir el convenio o de una persona especialmente facultada para ello.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo trig&#xE9;simo tercero: Acorde al art&#xED;culo 59 de la l<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1136613&amp;idParte=10055307&amp;idVersion=2019-09-21\">Resoluci&#xF3;n 36 EXENTA,<br>C.N. ACREDITACI&#xD3;N<br>Art. primero N&#xB0; 4<br>D.O. 21.09.2019</a></span>ey 19.880, y a las instrucciones dictadas por la CNA al efecto, la instituci&#xF3;n podr&#xE1; interponer un recurso de reposici&#xF3;n respecto de la decisi&#xF3;n de acreditaci&#xF3;n, en el plazo de 5 d&#xED;as h&#xE1;biles contados desde la notificaci&#xF3;n de la resoluci&#xF3;n que contenga dicha decisi&#xF3;n. La Comisi&#xF3;n dispondr&#xE1; de un plazo de 30 d&#xED;as h&#xE1;biles para pronunciarse sobre la reposici&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Las reposiciones deber&#xE1;n expresar con claridad las razones y fundamentos que la motivan, conteniendo un punto de vista institucional y no solo la de la carrera o programa afectado por la decisi&#xF3;n. En todo caso, no se podr&#xE1; invocar como fundamento, antecedentes o hechos de fecha posterior al periodo evaluador. Adem&#xE1;s, deber&#xE1;n tener la firma del representante legal de la Instituci&#xF3;n o de persona especialmente facultada para ello.</div><br></div>"
+        },
+        {
+          "part_id": 9752324,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo trig&#xE9;simo sexto: Las apelaciones que se presenten ante la CNA deber&#xE1;n formularse por escrito y en conformidad a la normativa que &#xE9;sta dicte al efecto.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n dispondr&#xE1; del plazo de 30 d&#xED;as h&#xE1;biles para analizar y resolver la apelaci&#xF3;n, cuyo t&#xE9;rmino se contar&#xE1; a partir de la fecha de presentaci&#xF3;n del recurso o desde la fecha en que se subsanen observaciones al escrito.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo trig&#xE9;simo sexto: Las apelaciones que se pr<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1136613&amp;idParte=10055307&amp;idVersion=2019-09-21\">Resoluci&#xF3;n 36 EXENTA,<br>C.N. ACREDITACI&#xD3;N<br>Art. primero N&#xB0; 5<br>D.O. 21.09.2019</a></span>esenten ante la CNA, deber&#xE1;n efectuarse de conformidad a las instrucciones que &#xE9;sta dicte al efecto.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1136613,
+      "fecha": "2019-09-21"
+    }
+  },
+  {
+    "fecha": "2020-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

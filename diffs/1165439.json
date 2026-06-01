@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2021-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-10-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10270504,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primero: Dicta Instrucci&#xF3;n de Car&#xE1;cter General que establece directrices espec&#xED;ficas para la operatividad de las entidades t&#xE9;cnicas de fiscalizaci&#xF3;n ambiental autorizadas en el componente ambiental aire, contenidas en el &quot;Documento para la Operatividad Espec&#xED;fica de las Entidades T&#xE9;cnicas de Fiscalizaci&#xF3;n Ambiental en el Componente Ambiental AIRE ETFA-TEC-01&quot;, el que forma parte integrante de esta.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primero: Dicta Instrucci&#xF3;n de Car&#xE1;cter General que establece directrices espec&#xED;ficas para la operatividad de las entidades t&#xE9;cnicas de fiscalizaci&#xF3;n ambiental autorizadas en el componente ambiental aire, contenidas en el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&quot;Documento para la Operatividad Espec&#xED;fica de las Entidades T&#xE9;cnicas de Fiscalizaci&#xF3;n Ambiental en el Componente Ambiental AIRE ETFA-TEC-01&quot;, el que forma parte integrante de esta.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 1790 Exenta, Medio Ambiente, publicada el 30.10.2023, dispone extender la vigencia de los certificados de verificaci&#xF3;n y de calibraci&#xF3;n de los equipos e instrumentos de muestreo y medici&#xF3;n se&#xF1;alados en los puntos 3.1 y 4.1 de la presente norma, para todas las entidades t&#xE9;cnicas de fiscalizaci&#xF3;n ambiental autorizadas para la realizaci&#xF3;n de muestreos o mediciones en los alcances relacionados con el componente aire-emisiones atmosf&#xE9;ricas de fuentes fijas y aire-ruido, a contar desde el 16 de octubre de 2023, fecha en que los funcionarios p&#xFA;blicos del Instituto de Salud P&#xFA;blica iniciaron una paralizaci&#xF3;n de actividades, y hasta que esta Superintendencia dicte un acto que le ponga t&#xE9;rmino a la presente extensi&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-11-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10270504,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primero: Dicta Instrucci&#xF3;n de Car&#xE1;cter General que establece directrices espec&#xED;ficas para la operatividad de las entidades t&#xE9;cnicas de fiscalizaci&#xF3;n ambiental autorizadas en el componente ambiental aire, contenidas en el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&quot;Documento para la Operatividad Espec&#xED;fica de las Entidades T&#xE9;cnicas de Fiscalizaci&#xF3;n Ambiental en el Componente Ambiental AIRE ETFA-TEC-01&quot;, el que forma parte integrante de esta.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 1790 Exenta, Medio Ambiente, publicada el 30.10.2023, dispone extender la vigencia de los certificados de verificaci&#xF3;n y de calibraci&#xF3;n de los equipos e instrumentos de muestreo y medici&#xF3;n se&#xF1;alados en los puntos 3.1 y 4.1 de la presente norma, para todas las entidades t&#xE9;cnicas de fiscalizaci&#xF3;n ambiental autorizadas para la realizaci&#xF3;n de muestreos o mediciones en los alcances relacionados con el componente aire-emisiones atmosf&#xE9;ricas de fuentes fijas y aire-ruido, a contar desde el 16 de octubre de 2023, fecha en que los funcionarios p&#xFA;blicos del Instituto de Salud P&#xFA;blica iniciaron una paralizaci&#xF3;n de actividades, y hasta que esta Superintendencia dicte un acto que le ponga t&#xE9;rmino a la presente extensi&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primero: Dicta Instrucci&#xF3;n de Car&#xE1;cter General que establece directrices espec&#xED;ficas para la operatividad de las entidades t&#xE9;cnicas de fiscalizaci&#xF3;n ambiental autorizadas en el componente ambiental aire, contenidas en el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>&quot;Documento para la Operatividad Espec&#xED;fica de las Entidades T&#xE9;cnicas de Fiscalizaci&#xF3;n Ambiental en el Componente Ambiental AIRE ETFA-TEC-01&quot;, el que forma parte integrante de esta.</div><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 1790 Exenta, Medio Ambiente, publicada el 30.10.2023, dispone extender la vigencia de los certificados de verificaci&#xF3;n y de calibraci&#xF3;n de los equipos e instrumentos de muestreo y medici&#xF3;n se&#xF1;alados en los puntos 3.1 y 4.1 de la presente norma, para todas las entidades t&#xE9;cnicas de fiscalizaci&#xF3;n ambiental autorizadas para la realizaci&#xF3;n de muestreos o mediciones en los alcances relacionados con el componente aire-emisiones atmosf&#xE9;ricas de fuentes fijas y aire-ruido, a contar desde el 16 de octubre de 2023, fecha en que los funcionarios p&#xFA;blicos del Instituto de Salud P&#xFA;blica iniciaron una paralizaci&#xF3;n de actividades, y hasta que esta Superintendencia dicte un acto que le ponga t&#xE9;rmino a la presente extensi&#xF3;n.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 1920 Exenta, Medio Ambiente, publicada el 27.11.2023, dispone poner t&#xE9;rmino al per&#xED;odo de extensi&#xF3;n de vigencia de los certificados de verificaci&#xF3;n y de calibraci&#xF3;n de los equipos e instrumentos de muestreo y medici&#xF3;n se&#xF1;alados en los puntos 3.1 y 4.1 de la de la presente norma, de acuerdo a la resoluci&#xF3;n exenta N&#xBA; 1.790, del 19 de octubre de 2023.</div></div>"
+        }
+      ]
+    }
+  }
+]

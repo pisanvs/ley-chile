@@ -1,0 +1,62 @@
+[
+  {
+    "fecha": "1973-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1973-12-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8902668,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Quinto: El material cient&#xED;fico que la Comisi&#xF3;n importe bajo r&#xE9;gimen de exenciones o franquicias aduaneras o tributarias de cualquier especie, podr&#xE1; ser enajenado a t&#xED;tulo oneroso o ser objeto de cualquier negociaci&#xF3;n cient&#xED;ficos chilenos, universidades nacionales u organismos del sector p&#xFA;blico, dentro del pa&#xED;s.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Quinto: El material cient&#xED;fico que la Comisi&#xF3;n importe bajo r&#xE9;gimen de exenciones o franquicias aduaneras o tributarias de cualquier especie, podr&#xE1; ser enajenado a t&#xED;tulo oneroso o ser objeto de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 13.12.1973</span> cualquier negociaci&#xF3;n con cient&#xED;ficos chilenos, universidades nacionales u organismos del sector p&#xFA;blico, dentro del pa&#xED;s.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1974-10-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8902665,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Segundo: Decl&#xE1;rase en receso el Consejo de la Corporaci&#xF3;n y p&#xF3;nese t&#xE9;rmino a los nombramientos de sus miembros. La Secretaria Ejecutiva asumir&#xE1; la plenitud de las funciones, atribuciones y obligaciones que el Estatuto Org&#xE1;nico del Servicio confiere o impone a dicho Consejo, o a su Presidente, en tanto dure su receso, al que se podr&#xE1; poner fin mediante decreto supremo dictado a trav&#xE9;s del Ministerio de Educaci&#xF3;n P&#xFA;blica. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- Decl&#xE1;rase en receso el Consejo<span class=\"n\" id=\"n_0\">DL 668, EDUCACION<br>Art. &#xFA;nico<br>D.O. 07.10.1974</span> de la Corporaci&#xF3;n y p&#xF3;nese t&#xE9;rmino a los nombramientos de sus miembros. El Presidente de la Instituci&#xF3;n asumir&#xE1; la plenitud de las funciones, atribuciones y obligaciones que el Estatuto Org&#xE1;nico del Servicio confiere a las autoridades unipersonales y colegiadas de la Corporaci&#xF3;n, mientras dure dicho receso al que se podr&#xE1; poner fin mediante decreto supremo dictado a trav&#xE9;s del Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Las facultades que confiere al Presidente del Organismo el inciso anterior podr&#xE1;n ser delegadas en los funcionarios de la Comisi&#xF3;n que &#xE9;ste determine.</div><br></div>"
+        },
+        {
+          "part_id": 8902668,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Quinto: El material cient&#xED;fico que la Comisi&#xF3;n importe bajo r&#xE9;gimen de exenciones o franquicias aduaneras o tributarias de cualquier especie, podr&#xE1; ser enajenado a t&#xED;tulo oneroso o ser objeto de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 13.12.1973</span> cualquier negociaci&#xF3;n con cient&#xED;ficos chilenos, universidades nacionales u organismos del sector p&#xFA;blico, dentro del pa&#xED;s.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Quinto: El material cient&#xED;fico que la Comisi&#xF3;n importe bajo r&#xE9;gimen de exenciones o franquicias aduaneras o tributarias de cualquier especie, podr&#xE1; ser enajenado a t&#xED;tulo oneroso o ser objeto de<span class=\"n\" id=\"n_1\">RECTIFICACION<br>D.O. 13.12.1973</span> cualquier negociaci&#xF3;n con cient&#xED;ficos chilenos, universidades nacionales u organismos del sector p&#xFA;blico, dentro del pa&#xED;s.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8902665,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- Decl&#xE1;rase en receso el Consejo<span class=\"n\" id=\"n_0\">DL 668, EDUCACION<br>Art. &#xFA;nico<br>D.O. 07.10.1974</span> de la Corporaci&#xF3;n y p&#xF3;nese t&#xE9;rmino a los nombramientos de sus miembros. El Presidente de la Instituci&#xF3;n asumir&#xE1; la plenitud de las funciones, atribuciones y obligaciones que el Estatuto Org&#xE1;nico del Servicio confiere a las autoridades unipersonales y colegiadas de la Corporaci&#xF3;n, mientras dure dicho receso al que se podr&#xE1; poner fin mediante decreto supremo dictado a trav&#xE9;s del Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Las facultades que confiere al Presidente del Organismo el inciso anterior podr&#xE1;n ser delegadas en los funcionarios de la Comisi&#xF3;n que &#xE9;ste determine.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- Decl&#xE1;rase<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div> en receso el Consejo de la <span class=\"n\" id=\"n_0\">DL 668, EDUCACION<br>Art. &#xFA;nico<br>D.O. 07.10.1974</span>Corporaci&#xF3;n y p&#xF3;nese t&#xE9;rmino a los nombramientos de sus miembros. El Presidente de la Instituci&#xF3;n asumir&#xE1; la plenitud de las funciones, atribuciones y obligaciones que el Estatuto Org&#xE1;nico del Servicio confiere a las autoridades unipersonales y colegiadas de la Corporaci&#xF3;n, mientras dure dicho receso al que se podr&#xE1; poner fin mediante decreto supremo dictado a trav&#xE9;s del Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Las facultades que confiere al Presidente del Organismo el inciso anterior podr&#xE1;n ser delegadas en los funcionarios de la Comisi&#xF3;n que &#xE9;ste determine.</div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 326, Eduaci&#xF3;n, publicado el 03.01.2014, modifica la presente norma en el sentido de declarar finalizado el receso del Consejo de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica.</div></div>"
+        },
+        {
+          "part_id": 8902668,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Quinto: El material cient&#xED;fico que la Comisi&#xF3;n importe bajo r&#xE9;gimen de exenciones o franquicias aduaneras o tributarias de cualquier especie, podr&#xE1; ser enajenado a t&#xED;tulo oneroso o ser objeto de<span class=\"n\" id=\"n_1\">RECTIFICACION<br>D.O. 13.12.1973</span> cualquier negociaci&#xF3;n con cient&#xED;ficos chilenos, universidades nacionales u organismos del sector p&#xFA;blico, dentro del pa&#xED;s.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Quinto: El material cient&#xED;fico que la Comisi&#xF3;n importe bajo r&#xE9;gimen de exenciones o franquicias aduaneras o tributarias de cualquier especie, podr&#xE1; ser enajenado a t&#xED;tulo oneroso o ser objeto de<span class=\"n\" id=\"n_2\">RECTIFICACION<br>D.O. 13.12.1973</span> cualquier negociaci&#xF3;n con cient&#xED;ficos chilenos, universidades nacionales u organismos del sector p&#xFA;blico, dentro del pa&#xED;s.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1965-02-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-09-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7331930,
+          "old": "<div><div class=\"p\">MODIFICA EL REGLAMENTO DE LA LEY DE PESCA, EN LA FORMA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 15 de Enero 1965.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 49.- Vistos: lo manifestado por la Direcci&#xF3;n General de Agricultura y Pesca, en su oficio N.o 5, de 4 de Enero &#xFA;ltimo; el DFL. N.o 34, de 12 de Marzo de 1931, Ley de Pesca y su Reglamento, contenido en el decreto supremo N.o 1.584, de 30 de Abril de 1934, expedido por el ex Ministerio de Fomento; los DFL. n&#xFA;meros 294 y 301, de 5 y 6 de Abril de 1960, org&#xE1;nicos del Ministerio de Agricultura y de la Direcci&#xF3;n de Agricultura y Pesca, respectivamente, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, seg&#xFA;n informes de los organismos t&#xE9;cnicos de este Ministerio, existe en el litoral nacional una considerable disminuci&#xF3;n del Gastr&#xF3;podo denominado com&#xFA;nmente &quot;loco&quot;;</div><div class=\"p\">&nbsp; &nbsp;  Que, esos mismos organismos t&#xE9;cnicos han comprobado que, debido a condiciones ambientales, el Equinodermo denominado com&#xFA;nmente &quot;erizo&quot;, alcanza un menor desarrollo en el litoral de las provincias de Tarapac&#xE1; y Antofagasta;</div><div class=\"p\">&nbsp; &nbsp;  Que, por lo tanto, es necesario modificar los tama&#xF1;os m&#xED;nimos permitidos en el Reglamento de la Ley de Pesca para la extracci&#xF3;n de las aludidas especies marinas, para mantener la adecuada protecci&#xF3;n a dichas especies;</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA EL REGLAMENTO DE LA LEY DE PESCA, EN LA FORMA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 15 de Enero 1965.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 49.- Vistos: lo manifestado por la Direcci&#xF3;n General de Agricultura y Pesca, en su oficio N.o 5, de 4 de Enero &#xFA;ltimo; el DFL. N.o 34, de 12 de Marzo de 1931, Ley de Pesca y su Reglamento, contenido en el decreto supremo N.o 1.584, de 30 de Abril de 1934, expedido por el ex Ministerio de Fomento; los DFL. n&#xFA;meros 294 y 301, de 5 y 6 de Abril de 1960, org&#xE1;nicos del Ministerio de Agricultura y de la Direcci&#xF3;n de Agricultura y Pesca, respectivamente, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, seg&#xFA;n informes de los organismos t&#xE9;cnicos de este Ministerio, existe en el litoral nacional una considerable disminuci&#xF3;n del Gastr&#xF3;podo denominado com&#xFA;nmente &quot;loco&quot;;</div><div class=\"p\">&nbsp; &nbsp;  Que, esos mismos organismos t&#xE9;cnicos han comprobado que, debido a condiciones ambientales, el Equinodermo denominado com&#xFA;nmente &quot;erizo&quot;, alcanza un menor desarrollo en el litoral de las provincias de Tarapac&#xE1; y Antofagasta;</div><div class=\"p\">&nbsp; &nbsp;  Que, por lo tanto, es necesario modificar los tama&#xF1;os m&#xED;nimos permitidos en el Reglamento de la Ley de Pesca para la extracci&#xF3;n de las aludidas especies marinas, para mantener la adecuada protecci&#xF3;n a dichas especies;</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

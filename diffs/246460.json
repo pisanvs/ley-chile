@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2006-01-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-05-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8653656,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- El Sistema ser&#xE1; de adscripci&#xF3;n voluntaria para todos aquellos que participen, en cualquier forma, en el mercado interno y externo de productos org&#xE1;nicos. Sin embargo, s&#xF3;lo los productores, elaboradores y dem&#xE1;s participantes en el mercado que se hayan adscrito formalmente al Sistema y cumplan con sus normas podr&#xE1;n usar, en la rotulaci&#xF3;n, identificaci&#xF3;n o denominaci&#xF3;n de los productos que manejan, las expresiones &quot;productos org&#xE1;nicos&quot; o sus equivalentes, tales como &quot;productos ecol&#xF3;gicos&quot; o &quot;productos biol&#xF3;gicos&quot; y utilizar el sello oficial que exprese esa calidad.</div><div class=\"p\">&nbsp; &nbsp;  En el caso de comercializaci&#xF3;n directa a los consumidores, ya sea en ferias, tiendas, mercados locales u otros, por parte de agricultores ecol&#xF3;gicos (peque&#xF1;os productores, familiares, campesinos e ind&#xED;genas), insertos en procesos propios de organizaci&#xF3;n y control social, previamente registrados en el organismo fiscalizador, &#xE9;stos podr&#xE1;n tener sistemas propios y alternativos de certificaci&#xF3;n, una vez que est&#xE9; asegurada a los consumidores y al &#xF3;rgano fiscalizador, la rastreabilidad del producto y el libre acceso a los locales de producci&#xF3;n o procesamiento. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- El Sistema ser&#xE1; de adscripci&#xF3;n voluntaria para todos aquellos que participen, en cualquier forma, en el mercado interno y externo de productos org&#xE1;nicos. Sin embargo, s&#xF3;lo los productores, elaboradores y dem&#xE1;s participantes en el mercado que se hayan adscrito formalmente al Sistema y cumplan con sus normas podr&#xE1;n usar, en la rotulaci&#xF3;n, identificaci&#xF3;n o denominaci&#xF3;n de los productos que manejan, las expresiones &quot;productos org&#xE1;nicos&quot; o sus equivalentes, tales como &quot;productos ecol&#xF3;gicos&quot; o &quot;productos biol&#xF3;gicos&quot; y utilizar el sello oficial que exprese esa calidad.</div><div class=\"p\">&nbsp; &nbsp;  En el caso de comercializaci&#xF3;n, ya sea en ferias, tiendas, mercado<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1077977&amp;idParte=9602970&amp;idVersion=2015-05-30\">Ley 20838<br>Art. &#xDA;NICO<br>D.O. 30.05.2015</a></span>s locales u otros, por parte de agricultores ecol&#xF3;gicos (peque&#xF1;os productores, familiares, campesinos e ind&#xED;genas), insertos en procesos propios de organizaci&#xF3;n y control social, previamente registrados en el organismo fiscalizador, &#xE9;stos podr&#xE1;n tener sistemas propios y alternativos de certificaci&#xF3;n, una vez que est&#xE9; asegurada a los consumidores y al &#xF3;rgano fiscalizador, la rastreabilidad del producto y el libre acceso a los locales de producci&#xF3;n o procesamiento. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1077977,
+      "fecha": "2015-05-30"
+    }
+  }
+]

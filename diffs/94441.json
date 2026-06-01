@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8324924,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD INDUSTRIAL Y COMERCIAL MAROA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD INDUSTRIAL Y COMERCIAL MAROA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

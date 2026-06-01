@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-07-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6225770,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA TRES COLINAS LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA</div><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA TRES COLINAS LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

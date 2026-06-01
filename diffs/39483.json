@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-09-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-07-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6024092,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA GABINETE TECNICO Y AUTORIZA A LA MUNICIPALIDAD DE &quot;SIERRA GORDA&quot; PARA OTORGAR LICENCIAS DE CONDUCTOR</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.052 exenta.- Santiago, 8 de Septiembre de 1993.- Visto: Estos antecedentes; lo dispuesto por el Art. 9&#xB0; de la Ley de Tr&#xE1;nsito, Ley N&#xB0; 18.290; el Decreto Supremo N&#xB0; 97/84 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, y la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente: Lo informado por el Secretario Regional Ministerial de Transportes y Telecomunicaciones de la II Regi&#xF3;n en el sentido de que la Municipalidad de &quot;Sierra Gorda&quot; cuenta con Gabinete T&#xE9;cnico provisto de los elementos requeridos para el otorgamiento de licencias;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA GABINETE TECNICO Y AUTORIZA A LA MUNICIPALIDAD DE &quot;SIERRA GORDA&quot; PARA OTORGAR LICENCIAS DE CONDUCTOR</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.052 exenta.- Santiago, 8 de Septiembre de 1993.- Visto: Estos antecedentes; lo dispuesto por el Art. 9&#xB0; de la Ley de Tr&#xE1;nsito, Ley N&#xB0; 18.290; el Decreto Supremo N&#xB0; 97/84 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, y la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente: Lo informado por el Secretario Regional Ministerial de Transportes y Telecomunicaciones de la II Regi&#xF3;n en el sentido de que la Municipalidad de &quot;Sierra Gorda&quot; cuenta con Gabinete T&#xE9;cnico provisto de los elementos requeridos para el otorgamiento de licencias;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

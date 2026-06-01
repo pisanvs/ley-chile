@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-03-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-06-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6475548,
+          "old": "<div><div class=\"p\">DECLARA NORMAS OFICIALES DE LA REPUBLICA DE CHILE, LAS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de Enero de 1984.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 11.- Visto: Lo solicitado por el Instituto Nacional de Normalizaci&#xF3;n, por oficio N&#xBA; 6.692-400, de 2 de Enero de 1984; lo informado por el Departamento de Programaci&#xF3;n del Ministerio de Salud; lo dispuesto en el Libro Tercero, T&#xED;tulo II, art&#xED;culos 69 y siguientes del C&#xF3;digo Sanitario; en el decreto N&#xBA; 735, de 7 de Noviembre de 1969, del Ministerio de Salud, que reglamenta los Servicios de Agua destinados al consumo humano; en los art&#xED;culos 175 y siguientes del T&#xED;tulo XIV del decreto supremo N&#xBA; 60, del 5 de Abril de 1982, del Ministerio de Salud, en el decreto ley N&#xBA; 2.763, de 1979, y lo se&#xF1;alado en la Ley N&#xBA; 15.840, sobre organizaci&#xF3;n y atribuciones del Ministerio de Obras P&#xFA;blicas,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA NORMAS OFICIALES DE LA REPUBLICA DE CHILE, LAS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de Enero de 1984.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 11.- Visto: Lo solicitado por el Instituto Nacional de Normalizaci&#xF3;n, por oficio N&#xBA; 6.692-400, de 2 de Enero de 1984; lo informado por el Departamento de Programaci&#xF3;n del Ministerio de Salud; lo dispuesto en el Libro Tercero, T&#xED;tulo II, art&#xED;culos 69 y siguientes del C&#xF3;digo Sanitario; en el decreto N&#xBA; 735, de 7 de Noviembre de 1969, del Ministerio de Salud, que reglamenta los Servicios de Agua destinados al consumo humano; en los art&#xED;culos 175 y siguientes del T&#xED;tulo XIV del decreto supremo N&#xBA; 60, del 5 de Abril de 1982, del Ministerio de Salud, en el decreto ley N&#xBA; 2.763, de 1979, y lo se&#xF1;alado en la Ley N&#xBA; 15.840, sobre organizaci&#xF3;n y atribuciones del Ministerio de Obras P&#xFA;blicas,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

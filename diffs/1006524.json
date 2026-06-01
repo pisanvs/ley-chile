@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-09-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8785636,
+          "old": "<div><br><div class=\"p\">APRUEBA REFORMAS DE ESTATUTOS A &quot;ASOCIACI&#xD3;N NACIONAL DE F&#xDA;TBOL AMATEUR DE CHILE&quot;, DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3.459 exento.- Santiago, 11 de septiembre de 2009.- Vistos: estos antecedentes, lo dispuesto en el decreto supremo de Justicia N&#xBA; 110, de 1979, Reglamento sobre Concesi&#xF3;n de Personalidad Jur&#xED;dica a Corporaciones y Fundaciones, publicado en el Diario Oficial de 20 de marzo de 1979, modificado por decreto supremo de Justicia N&#xBA; 679, de 2003, publicado en el Diario Oficial de 6 de noviembre de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica, y lo informado por el Instituto Nacional de Deportes y por el Consejo de Defensa del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA REFORMAS DE ESTATUTOS A &quot;ASOCIACI&#xD3;N NACIONAL DE F&#xDA;TBOL AMATEUR DE CHILE&quot;, DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3.459 exento.- Santiago, 11 de septiembre de 2009.- Vistos: estos antecedentes, lo dispuesto en el decreto supremo de Justicia N&#xBA; 110, de 1979, Reglamento sobre Concesi&#xF3;n de Personalidad Jur&#xED;dica a Corporaciones y Fundaciones, publicado en el Diario Oficial de 20 de marzo de 1979, modificado por decreto supremo de Justicia N&#xBA; 679, de de 2003, p<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1006662&amp;idParte=8786148&amp;idVersion=2009-09-30\">Rectificaci&#xF3;n 59,<br>JUSTICIA<br>D.O. 30.09.2009</a></span>ublicado en el Diario Oficial de 13 de febrero de 2004; en la Resoluci&#xF3;n N&#xBA; 1600, de 2008, publicada en el Diario Oficial de 6 de noviembre de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica, y lo informado por el Instituto Nacional de Deportes y por el Consejo de Defensa del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1006662,
+      "fecha": "2009-09-30"
+    }
+  }
+]

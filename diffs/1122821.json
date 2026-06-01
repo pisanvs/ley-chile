@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-09-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-07-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9947425,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- F&#xED;jase la calidad de primer subrogante del Subsecretario del Patrimonio Cultural en la persona que ejerza el cargo de Subsecretario de las Culturas y las Artes de este Ministerio.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: F&#xED;jase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1133533&amp;idParte=10035809&amp;idVersion=2019-07-06\">Decreto 16 EXENTO,<br>CULTURAS<br>Art. &#xDA;NICO<br>D.O. 06.07.2019</a></span>como primer subrogante del Subsecretario del Patrimonio Cultural en la persona que ejerza la jefatura de la Divisi&#xF3;n de Patrimonio Cultural y en ausencia de este &#xFA;ltimo, como segundo subrogante, en la persona que ejerza la jefatura del Departamento de Gesti&#xF3;n de Proyectos Patrimoniales, ambos de dicha Subsecretar&#xED;a.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1133533,
+      "fecha": "2019-07-06"
+    }
+  }
+]

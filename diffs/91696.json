@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-07-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320596,
+          "old": "<div><br><div class=\"p\">MODIFICA RESOLUCION QUE INDICA. AUTORIZA A PESQUERA MAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS.DENIEGA AUTORIZACIONES QUE SE&#xD1;ALA</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA. AUTORIZA A PESQUERA MAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS.DENIEGA AUTORIZACIONES QUE SE&#xD1;ALA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

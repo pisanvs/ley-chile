@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-07-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-03-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8629734,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA PLAN TECNICO FUNDAMENTAL DE SE&#xD1;ALIZACION TELEX</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 30.- Santiago, 21 de Marzo de 1984.- Vistos: Lo dispuesto en el art&#xED;culo 32&#xB0; N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica, la Ley N&#xB0; 18.168 de 1982, el decreto ley N&#xB0; 1.762 de 1977 y el decreto supremo 423 de 1978, que aprob&#xF3; la Pol&#xED;tica Nacional de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; La necesidad de definir las normas relacionadas con los c&#xF3;digos y se&#xF1;ales necesarias para el establecimiento, supervisi&#xF3;n, t&#xE9;rmino y tasaci&#xF3;n de las comunicaciones en la red t&#xE9;lex nacional.</div><div class=\"p\">&nbsp; &nbsp; Las caracter&#xED;sticas t&#xE9;cnicas de los equipos de conmutaci&#xF3;n y transmisi&#xF3;n actualmente en uso en el pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el Plan T&#xE9;cnico Fundamental de Se&#xF1;alizaci&#xF3;n T&#xE9;lex que ser&#xE1; la norma a aplicar en la red t&#xE9;lex nacional.</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA PLAN TECNICO FUNDAMENTAL DE SE&#xD1;ALIZACION TELEX </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 30.- Santiago, 21 de Marzo de 1984.- Vistos: Lo dispuesto en el art&#xED;culo 32&#xB0; N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica, la Ley N&#xB0; 18.168 de 1982, el decreto ley N&#xB0; 1.762 de 1977 y el decreto supremo 423 de 1978, que aprob&#xF3; la Pol&#xED;tica Nacional de Telecomunicaciones.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; La necesidad de definir las normas relacionadas con los c&#xF3;digos y se&#xF1;ales necesarias para el establecimiento, supervisi&#xF3;n, t&#xE9;rmino y tasaci&#xF3;n de las comunicaciones en la red t&#xE9;lex nacional.</div><div class=\"p\">&nbsp; &nbsp; Las caracter&#xED;sticas t&#xE9;cnicas de los equipos de conmutaci&#xF3;n y transmisi&#xF3;n actualmente en uso en el pa&#xED;s.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el Plan T&#xE9;cnico Fundamental de Se&#xF1;alizaci&#xF3;n T&#xE9;lex que ser&#xE1; la norma a aplicar en la red t&#xE9;lex nacional.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-12-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6910915,
+          "old": "<div><div class=\"p\">APRUEBA MODIFICACI&#xD3;N DE ORDENANZA LOCAL SOBRE FIJACI&#xD3;N DE TARIFAS DEL SERVICIO DOMICILIARIO POR EXTRACCI&#xD3;N DE BASURAS Y EXENCI&#xD3;N TOTAL Y PARCIAL</div><br><div class=\"p\">Conchal&#xED;, 4 de diciembre de 2007.- La alcald&#xED;a decret&#xF3; hoy:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.727 exento.- Vistos: decreto exento N&#xBA; 513, de 27.12.1995, que aprob&#xF3; Ordenanza Local sobre Fijaci&#xF3;n de Tarifas del Servicio Domiciliario por Extracci&#xF3;n de Basuras y Exenci&#xF3;n Total y Parcial; decreto exento N&#xBA; 471, del 25.07.96, que modific&#xF3; el anterior; decreto exento N&#xBA; 552, del 28.08.96, que rectific&#xF3; y complement&#xF3; el decreto exento N&#xBA; 471/96; decreto exento N&#xBA; 934, del 24.12.97, que modific&#xF3; la Ordenanza; decreto exento N&#xBA; 117, del 11.02.98, que rectific&#xF3; el decreto exento N&#xBA; 934/97; decreto exento N&#xBA; 1.020, del 14.12.99; decreto exento N&#xBA; 1.436, del 19.12.2002, que modificaron dicha Ordenanza; acuerdo adoptado por el Concejo en sesi&#xF3;n extrordinaria celebrada el d&#xED;a 28.11.2007, y teniendo presente las facultades y atribuciones que me confiere la Ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA MODIFICACI&#xD3;N DE ORDENANZA LOCAL SOBRE FIJACI&#xD3;N DE TARIFAS DEL SERVICIO DOMICILIARIO POR EXTRACCI&#xD3;N DE BASURAS Y EXENCI&#xD3;N TOTAL Y PARCIAL</div><br><div class=\"p\">&nbsp; &nbsp;  Conchal&#xED;, 4 de diciembre de 2007.- La alcald&#xED;a decret&#xF3; hoy:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.727 exento.- Vistos: decreto exento N&#xBA; 513, de 27.12.1995, que aprob&#xF3; Ordenanza Local sobre Fijaci&#xF3;n de Tarifas del Servicio Domiciliario por Extracci&#xF3;n de Basuras y Exenci&#xF3;n Total y Parcial; decreto exento N&#xBA; 471, del 25.07.96, que modific&#xF3; el anterior; decreto exento N&#xBA; 552, del 28.08.96, que rectific&#xF3; y complement&#xF3; el decreto exento N&#xBA; 471/96; decreto exento N&#xBA; 934, del 24.12.97, que modific&#xF3; la Ordenanza; decreto exento N&#xBA; 117, del 11.02.98, que rectific&#xF3; el decreto exento N&#xBA; 934/97; decreto exento N&#xBA; 1.020, del 14.12.99; decreto exento N&#xBA; 1.436, del 19.12.2002, que modificaron dicha Ordenanza; acuerdo adoptado por el Concejo en sesi&#xF3;n extrordinaria celebrada el d&#xED;a 28.11.2007, y teniendo presente las facultades y atribuciones que me confiere la Ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

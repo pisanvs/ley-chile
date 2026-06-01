@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-02-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-05-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7317719,
+          "old": "<div><div class=\"p\">DESIGNA REPRESENTANTE DEL MINISTERIO DE HACIENDA EN CALIDAD DE SUBROGANTE DEL TITULAR EN LA COMISION QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 108 exenta.- Santiago, 31 de enero de 2005.- Vistos: Lo dispuesto en el art&#xED;culo 11 de la ley N&#xBA; 18.525; la resoluci&#xF3;n exenta N&#xBA; 52 del Ministerio de Hacienda, de 13 de enero de 1997, y la resoluci&#xF3;n exenta N&#xBA; 790, del Ministerio de Hacienda, de 2000.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que el art&#xED;culo 11 de la ley N&#xBA; 18.525 cre&#xF3; una Comisi&#xF3;n Nacional encargada de investigar la existencia de distorsiones en el precio de las mercader&#xED;as importadas, integrada, entre otros, por un miembro designado por el Ministerio de Hacienda, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA REPRESENTANTE DEL MINISTERIO DE HACIENDA EN CALIDAD DE SUBROGANTE DEL TITULAR EN LA COMISION QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 108 exenta.- Santiago, 31 de enero de 2005.- Vistos: Lo dispuesto en el art&#xED;culo 11 de la ley N&#xBA; 18.525; la resoluci&#xF3;n exenta N&#xBA; 52 del Ministerio de Hacienda, de 13 de enero de 1997, y la resoluci&#xF3;n exenta N&#xBA; 790, del Ministerio de Hacienda, de 2000.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que el art&#xED;culo 11 de la ley N&#xBA; 18.525 cre&#xF3; una Comisi&#xF3;n Nacional encargada de investigar la existencia de distorsiones en el precio de las mercader&#xED;as importadas, integrada, entre otros, por un miembro designado por el Ministerio de Hacienda, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

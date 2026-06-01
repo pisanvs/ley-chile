@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2010-07-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-11-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8941059,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1. Des&#xED;gnase a D. Mar&#xED;a Isabel Iduya Landa, RUT 7.839.550-8, en el cargo de Secretaria Regional Ministerial de Salud de la Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena, grado 2&#xBA; EUS, 40% de asignaci&#xF3;n de responsabilidad superior, m&#xE1;s la asignaci&#xF3;n profesional correspondiente, de acuerdo al art&#xED;culo 19&#xBA; de la ley N&#xBA; 19.185; a contar del 18 de marzo de 2010.</div><div class=\"p\">&nbsp; &nbsp;  2. El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza y por razones impostergables de buen servicio, la persona asumir&#xE1; en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3. Imp&#xFA;tese el gasto correspondiente al &#xCD;tem 21-01-001, del presupuesto del Ministerio de Salud.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. Des&#xED;gnase a D. Mar&#xED;a <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> Isabel Iduya Landa, RUT 7.839.550-8, en el cargo de Secretaria Regional Ministerial de Salud de la Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena, grado 2&#xBA; EUS, 40% de asignaci&#xF3;n de responsabilidad superior, m&#xE1;s la asignaci&#xF3;n profesional correspondiente, de acuerdo al art&#xED;culo 19&#xBA; de la ley N&#xBA; 19.185; a contar del 18 de marzo de 2010.</div><div class=\"p\">&nbsp; &nbsp;  2. El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza y por razones impostergables de buen servicio, la persona asumir&#xE1; en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3. Imp&#xFA;tese el gasto correspondiente al &#xCD;tem 21-01-001, del presupuesto del Ministerio de Salud.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El decreto 84, Salud, publicado el 27.11.2010, viene a complementar el presente decreto en el sentido de dejar establecido que la funcionaria se acoge a lo dispuesto en el art&#xED;culo 14&#xBA; de la ley N&#xBA;15.076, respecto de los cargos titulares de la ley N&#xBA;15.076, que corresponden a 28 horas Urgencia y Residencia M&#xE9;dico Quir&#xFA;rgico y 22 horas Medicina Interna que mantiene en la Armada de Chile, optando por percibir las remuneraciones correspondientes a dichos cargos.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-05-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-04-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8314827,
+          "old": "<div><div class=\"p\">AUTORIZA A DON DAGOBERTO MU&#xD1;OZ &#xD1;ANCO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON DAGOBERTO MU&#xD1;OZ &#xD1;ANCO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

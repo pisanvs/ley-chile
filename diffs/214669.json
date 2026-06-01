@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-06-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-07-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6439873,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JORGE EDUARDO MARDONES REYES PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JORGE EDUARDO MARDONES REYES PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

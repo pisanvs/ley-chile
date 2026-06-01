@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-07-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7208792,
+          "old": "<div><div class=\"p\">DISTRIBUYE RECURSOS ASIGNADOS POR RESOLUCION N&#xBA; 1.349 EXENTA, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  Puerto Montt, 27 de junio de 1997.- Con esta fecha se ha dictado la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 353 exenta.- Vistos: a) El D.S. N&#xBA; 167 (V. y U.) de 1986, y sus modificaciones, que regula el Sistema de Subsidio Habitacional para la atenci&#xF3;n del Sector Rural; la Resoluci&#xF3;n Exenta N&#xBA; 1.349 de 7 de marzo de 1997 del Minvu; la Resoluci&#xF3;n Exenta N&#xBA; 1.507, de fecha 23 de mayo de 1996, publicada en el Diario Oficial de 27 de mayo de 1996 y Resoluci&#xF3;n Exenta N&#xBA; 1.350, de 7 de mayo de 1997, publicada en el Diario Oficial de 12 de mayo de 1997, ambas del Se&#xF1;or Ministro de Vivienda y Urbanismo y el D.S. N&#xBA; 65 (V. y U.) del 28 de marzo de 1994 que nombra al infrascrito Secretario Regional Ministerial para la X Regi&#xF3;n, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DISTRIBUYE RECURSOS ASIGNADOS POR RESOLUCION N&#xBA; 1.349 EXENTA, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  Puerto Montt, 27 de junio de 1997.- Con esta fecha se ha dictado la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 353 exenta.- Vistos: a) El D.S. N&#xBA; 167 (V. y U.) de 1986, y sus modificaciones, que regula el Sistema de Subsidio Habitacional para la atenci&#xF3;n del Sector Rural; la Resoluci&#xF3;n Exenta N&#xBA; 1.349 de 7 de marzo de 1997 del Minvu; la Resoluci&#xF3;n Exenta N&#xBA; 1.507, de fecha 23 de mayo de 1996, publicada en el Diario Oficial de 27 de mayo de 1996 y Resoluci&#xF3;n Exenta N&#xBA; 1.350, de 7 de mayo de 1997, publicada en el Diario Oficial de 12 de mayo de 1997, ambas del Se&#xF1;or Ministro de Vivienda y Urbanismo y el D.S. N&#xBA; 65 (V. y U.) del 28 de marzo de 1994 que nombra al infrascrito Secretario Regional Ministerial para la X Regi&#xF3;n, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

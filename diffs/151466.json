@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-01-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-05-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8356708,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Complem&#xE9;ntase el numerando II.- del DS N&#xBA; 511, de fecha 20 de agosto de 1999, del Ministerio de Bienes Nacionales, en lo siguiente:</div><br><div class=\"p\">-&nbsp; &nbsp; En el sentido que, en la delegaci&#xF3;n all&#xED; se&#xF1;alada, se incluye, adem&#xE1;s, al Jefe de la Oficina Provincial de Bienes Nacionales de Arica; y,</div><div class=\"p\">-&nbsp; &nbsp; En el sentido que la delegaci&#xF3;n comprende, adem&#xE1;s, la facultad de poner t&#xE9;rmino o caducar las concesiones gratuitas otorgadas en virtud de atribuciones delegadas. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Complem&#xE9;ntase el numerando II.- del DS N&#xBA; 511, de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> fecha 20 de agosto de 1999, del Ministerio de Bienes Nacionales, en lo siguiente:</div><br><div class=\"p\">-&nbsp; &nbsp; En el sentido que, en la delegaci&#xF3;n all&#xED; se&#xF1;alada, se incluye, adem&#xE1;s, al Jefe de la Oficina Provincial de Bienes Nacionales de Arica; y,</div><div class=\"p\">-&nbsp; &nbsp; En el sentido que la delegaci&#xF3;n comprende, adem&#xE1;s, la facultad de poner t&#xE9;rmino o caducar las concesiones gratuitas otorgadas en virtud de atribuciones delegadas.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 98, Bienes Nacionales, publicado el 13.05.2000 complement&#xF3; el presente decreto en el sentido de se&#xF1;alar que la delegaci&#xF3;n comprende, adem&#xE1;s, las facultades que en dicha norma se indican.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

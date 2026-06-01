@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2003-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-11-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8572823,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Establ&#xE9;cese para los cargos de &quot;Gendarmes Mayores Grado 9&#xBA;&quot; de la Planta de Vigilantes Penitenciarios, a que se refiere el art&#xED;culo 1&#xBA; de la presente ley, una asignaci&#xF3;n de Responsabilidad de Gendarme Mayor ascendente a la cantidad de $72.875.</div><div class=\"p\">&nbsp; &nbsp;  Esta asignaci&#xF3;n ser&#xE1; de car&#xE1;cter imponible para efectos de salud y pensiones, y no servir&#xE1; de base para el c&#xE1;lculo de ninguna remuneraci&#xF3;n ni para ning&#xFA;n otro efecto legal.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Establ&#xE9;cese para los cargos de &quot;Gendarmes Mayores Grado 9&#xBA;&quot; de la Planta de Vigilantes Penitenciarios, a que se refiere el art&#xED;culo 1&#xBA; de la presente ley, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1019178&amp;idParte=9055544&amp;idVersion=2010-11-10\">DFL 1, JUSTICIA<br>Art. 8<br>D.O. 10.11.2010</a></span>una asignaci&#xF3;n de Responsabilidad de Gendarme Mayor ascendente a la cantidad de $136.494.</div><div class=\"p\">&nbsp; &nbsp;  Esta asignaci&#xF3;n ser&#xE1; de car&#xE1;cter imponible para efectos de salud y pensiones, y no servir&#xE1; de base para el c&#xE1;lculo de ninguna remuneraci&#xF3;n ni para ning&#xFA;n otro efecto legal.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1019178,
+      "fecha": "2010-11-10"
+    }
+  }
+]

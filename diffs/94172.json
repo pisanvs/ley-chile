@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8324400,
+          "old": "<div><br><div class=\"p\">AUTORIZA A DON JUAN NOLBERTO ALVARADO MANSILLA PARA INICIAR ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JUAN NOLBERTO ALVARADO MANSILLA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

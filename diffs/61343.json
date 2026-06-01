@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1997-03-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8937793,
+          "old": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE TERMINAL DE BUSES NO URBANOS </div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 397 exenta.- Temuco, 11 de diciembre de 1996.- Vistos: Lo dispuesto por el D.S. N&#xBA; 94/84; la Resoluci&#xF3;n N&#xBA; 12/87, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, y el Certificado de Recepci&#xF3;n Definitiva N&#xBA; 473, de fecha 04.11.96, de la Direcci&#xF3;n de Obras Municipales, Municipalidad de Temuco,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE TERMINAL DE BUSES NO URBANOS </div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 397 exenta.- Temuco, 11 de diciembre de 1996.- Vistos: Lo dispuesto por el D.S. N&#xBA; 94/84; la Resoluci&#xF3;n N&#xBA; 12/87, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, y el Certificado de Recepci&#xF3;n Definitiva N&#xBA; 473, de fecha 04.11.96, de la Direcci&#xF3;n de Obras Municipales, Municipalidad de Temuco,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        },
+        {
+          "part_id": 8937794,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase el funcionamiento del Terminal de Buses No Urbanos, de propiedad de la Inmobiliaria del Sur Ltda., ubicado en Balmaceda N&#xBA; 1395, comuna de Temuco.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- La capacidad del terminal se&#xF1;alado anteriormente ser&#xE1; de treinta (30) veh&#xED;culos.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- El propietario del terminal individualizado deber&#xE1; dar cumplimiento a lo establecido en la Ordenanza Local dictada por la I. Municipalidad de Temuco, publicada en el Diario Oficial de fecha 24 de Diciembre de 1985, conforme a lo se&#xF1;alado en el Art. 3&#xBA; Transitorio del D.S. N&#xBA; 94/84, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase el funcionamiento del Terminal de</div><div class=\"p\">Buses No Urbanos, de propiedad de la Inmobiliaria</div><div class=\"p\">del Sur Ltda., ubicado en Balmaceda N&#xBA; 1395,</div><div class=\"p\">comuna de Temuco.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- La capacidad del terminal se&#xF1;alado</div><div class=\"p\">anteriormente ser&#xE1; de treinta (55) veh&#xED;culos.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Si producto del aumento de la flota,</div><div class=\"p\">el terminal produce efectos negativos en las v&#xED;as</div><div class=\"p\">adyacentes, tales como: congesti&#xF3;n, bloqueo de v&#xED;as,</div><div class=\"p\">problemas severos de maniobrabilidad y peligro de</div><div class=\"p\">accidentes, la empresa deber&#xE1; presentar un estudio de<span class=\"n\" id=\"n_0\">RES 548 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1 y 2<br>D.O. 05.01.2005</span></div><div class=\"p\">Impacto al Sistema de Transporte Urbano que mitigue los</div><div class=\"p\">Impactos.</div><br><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- El propietario del terminal individualizado</div><div class=\"p\">deber&#xE1; dar cumplimiento a lo establecido en</div><div class=\"p\">la Ordenanza Local dictada por la I. Municipalidad</div><div class=\"p\">de Temuco, publicada en el Diario Oficial de</div><div class=\"p\">fecha 24 de Diciembre de 1985, conforme a lo</div><div class=\"p\">se&#xF1;alado en el Art. 3&#xBA; Transitorio del D.S. N&#xBA; 94/84,</div><div class=\"p\">del Ministerio de Transportes y Telecomunicaciones,</div><div class=\"p\">Subsecretar&#xED;a de Transportes.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

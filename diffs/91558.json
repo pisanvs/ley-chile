@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-03-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320399,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JOSE ADOLFO VIDAL BARRIA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JOSE ADOLFO VIDAL BARRIA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

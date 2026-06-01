@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1991-04-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-09-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9633707,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xDA;nico: Decl&#xE1;rase Zona T&#xED;pica la Plaza Mu&#xF1;oz Gamero de Punta Arenas y los siguientes edificios que la acotan, conforme al plano que se adjunta y que forma parte integrante del presente decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Lado Norte: N&#xB0;s. 700 al 798: 1) Club de la Uni&#xF3;n N&#xB0; 716, 2) Comandancia Guarnici&#xF3;n s/n, 3) Casino de Oficiales N&#xB0; 778 y 4) City Bank N&#xB0; 764-782.</div><div class=\"p\">&nbsp; &nbsp;  Lado Oriente: N&#xB0;s 1001 al 1099: 5) Hotel Cabo de Hornos N&#xB0;, 1025, 6) Banco Edwards N&#xB0; 1055, 7) Banco O Higgins N&#xB0; 1073.</div><div class=\"p\">&nbsp; &nbsp;  Lado Sur: N&#xB0;s 701 al 799: 8) Banco del Estado, 9) Casa Espa&#xF1;a - Teatro Cervantes N&#xB0;s. 765/771, 10) Sede de la I. Municipalidad N&#xB0; 745 y 11) Sede de la Empresa Nacional de Petr&#xF3;leo N&#xB0; 1101.</div><div class=\"p\">&nbsp; &nbsp;  Lado Poniente: N&#xB0;s. 1000 a 1098: 12) La Iglesia Matriz. 13) Casa de La Intendencia N&#xB0; 1072, 14) La Gobernaci&#xF3;n N&#xB0; 1028.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xDA;nico: Decl&#xE1;rase Zona T&#xED;pica la Plaza Mu&#xF1;oz Gamero de Punta Arenas y los siguientes edificios que la acotan, conforme al plano que se adjunta y que forma parte integrante del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  F&#xED;janse <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1081189&amp;idParte=9633612&amp;idVersion=2015-09-03\">Decreto 330, EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0;s. 1,2,3<br>D.O. 03.09.2015</a></span>los l&#xED;mites de la Zona T&#xED;pica Plaza Mu&#xF1;oz Gomero de Punta Arenas y de los edificios que la acotan, declarada como tal por el decreto supremo N&#xBA; 67, de 22 de febrero de 1991, del Ministerio de Educaci&#xF3;n, ubicada en la comuna Punta Arenas, provincia de Magallanes, regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena, como a continuaci&#xF3;n se indica:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/52000.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida tiene una superficie aproximada de 62.841,63 mts.2, seg&#xFA;n se delimita por el pol&#xED;gono 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-37-38-1, del plano adjunto, que forma parte del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  </div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1081189,
+      "fecha": "2015-09-03"
+    }
+  }
+]

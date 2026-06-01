@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-03-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6195630,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;case el art&#xED;culo 80 del DS N&#xBA; 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, en orden a reemplazar en todos los incisos el guarismo &apos;&apos;800&apos;&apos; por &apos;&apos;200&apos;&apos;.</div><div class=\"p\">&nbsp; &nbsp;  2.- La modificaci&#xF3;n anterior entrar&#xE1; a regir en el plazo de 90 d&#xED;as contado desde la fecha de publicaci&#xF3;n del presente decreto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;case el art&#xED;culo 80 del DS N&#xBA; 212, de</div><div class=\"p\">1992, del Ministerio de Transportes y</div><div class=\"p\">Telecomunicaciones, Subsecretar&#xED;a de Transportes, en</div><div class=\"p\">orden a reemplazar en todos los incisos el guarismo</div><div class=\"p\">&apos;&apos;800&apos;&apos; por &apos;&apos;200&apos;&apos;.</div><div class=\"p\">&nbsp; &nbsp;  2.- La modificaci&#xF3;n anterior entrar&#xE1; a regir el<span class=\"n\" id=\"n_0\">DTO 192, TRANSPORTES<br>D.O. 03.03.2000</span></div><div class=\"p\">31 de Marzo de 2000.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

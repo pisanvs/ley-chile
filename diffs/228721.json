@@ -1,0 +1,112 @@
+[
+  {
+    "fecha": "1971-09-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-01-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676117,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- Reempl&#xE1;zase el inciso segundo del art&#xED;culo 117 del C&#xF3;digo de Miner&#xED;a, por los siguientes:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Dentro de los treinta d&#xED;as siguientes a la fecha de recepci&#xF3;n de la n&#xF3;mina de las propiedades mineras que no hayan pagado su patente, la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n y/o Empresa Nacional de Miner&#xED;a se&#xF1;alar&#xE1;n las propiedades mineras que deseen conservar y en tal caso dichas propiedades mineras pasar&#xE1;n a dominio de la respectiva instituci&#xF3;n, por el solo ministerio de la ley, consider&#xE1;ndose como fecha de adquisici&#xF3;n el d&#xED;a 1&#xBA; de Abril, y ser&#xE1;n eliminadas de las&nbsp; n&#xF3;minas de propiedades por rematarse. Bastar&#xE1; que cualquiera de dichas instituciones lo se&#xF1;ale por escrito en el respectivo Juzgado, y &#xE9;ste ordenar&#xE1; sin m&#xE1;s tr&#xE1;mite la inscripci&#xF3;n de la propiedad minera en el Conservador respectivo a nombre de la entidad&nbsp; interesada, sin que estas est&#xE9;n obligadas a pagar las patentes adeudadas.</div><div class=\"p\">&nbsp; &nbsp;  El juez se&#xF1;alar&#xE1; d&#xED;a y hora para el remate despu&#xE9;s de transcurrido el plazo de treinta d&#xED;as se&#xF1;alado precedentemente, y se referir&#xE1; a las pertenencias que hayan quedado en la n&#xF3;mina, excluidas las reservadas para algunas instituciones estatales, y ordenar&#xE1; que esta resoluci&#xF3;n y la n&#xF3;mina sean publicadas por dos veces&quot;.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- DEROGADO<span class=\"n\" id=\"n_0\">DL 1290, MINERIA<br>Art. 1&#xBA;<br>D.O. 05.01.1976</span></div><br></div>"
+        },
+        {
+          "part_id": 8676118,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.- Aquellas pertenencias que pasaren a dominio de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n o de la Empresa Nacional de Miner&#xED;a en virtud del art&#xED;culo anterior, no podr&#xE1;n ser transferidas, y s&#xF3;lo podr&#xE1;n ser explotadas por estas entidades o por pirquineros o peque&#xF1;os mineros, en las condiciones que fije el Reglamento.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.- DEROGADO<span class=\"n\" id=\"n_1\">DL 1290, MINERIA<br>Art. 1&#xBA;<br>D.O. 05.01.1976</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1977-04-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676116,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5.- Agr&#xE9;ganse los siguientes incisos quinto y sexto nuevos al art&#xED;culo 62 de la ley 17.272, de 31 de Diciembre de 1969, que reemplaz&#xF3; el texto del art&#xED;culo 114 del C&#xF3;digo de Miner&#xED;a:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Sin perjuicio de lo expresado en los incisos precedentes, en casos determinados, el Director del servicio de Minas del Estado, por resoluci&#xF3;n fundada, podr&#xE1; disponer que las pertenencias constituidas sobre cualquiera sustancia que permanezcan injustificadamente inactivas, paguen sus patentes recargadas, mientras se mantengan en tal condici&#xF3;n, en un porcentaje equivalente al 100% del valor de la patente que les corresponda pagar. El Reglamento fijar&#xE1; las disposiciones que fueren precisas para el cumplimiento de estas normas.</div><div class=\"p\">&nbsp; &nbsp;  El recargo mencionado en este art&#xED;culo se considerar&#xE1; como patente para todos los efectos legales y no se aplicar&#xE1; a los peque&#xF1;os mineros que posean menos de veinte pertenencias, sumando porcentajes y derechos en todo el pa&#xED;s&quot;.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5.- DEROGADO<span class=\"n\" id=\"n_0\">DL 1759, MINERIA<br>Art. 1&#xBA;<br>D.O. 20.04.1977</span></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 1&#xBA; transitorio del DL 1759, Miner&#xED;a, publicado el 20.04.1977, dispuso que la presente modificaci&#xF3;n regir&#xE1; a contar del 1&#xBA; de febrero de 1978.<br></div></div>"
+        },
+        {
+          "part_id": 8676117,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- DEROGADO<span class=\"n\" id=\"n_0\">DL 1290, MINERIA<br>Art. 1&#xBA;<br>D.O. 05.01.1976</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- DEROGADO<span class=\"n\" id=\"n_2\">DL 1290, MINERIA<br>Art. 1&#xBA;<br>D.O. 05.01.1976</span></div><br></div>"
+        },
+        {
+          "part_id": 8676118,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.- DEROGADO<span class=\"n\" id=\"n_1\">DL 1290, MINERIA<br>Art. 1&#xBA;<br>D.O. 05.01.1976</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.- DEROGADO<span class=\"n\" id=\"n_3\">DL 1290, MINERIA<br>Art. 1&#xBA;<br>D.O. 05.01.1976</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1977-06-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676112,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- La Empresa Nacional de Miner&#xED;a otorgar&#xE1; ayudas extraordinarias o subsidios a los productores de minerales o concentrados aur&#xED;feros con el fin de fomentar la actual producci&#xF3;n y poner en actividad nuevas explotaciones.</div><div class=\"p\">&nbsp; &nbsp;  Estas ayudas o subsidios no podr&#xE1;n otorgarse, en ning&#xFA;n caso, a las Empresas de la Gran Miner&#xED;a del Cobre o a sus filiales o subsidiarias.</div><div class=\"p\">&nbsp; &nbsp;  Se faculta a la Empresa Nacional de Miner&#xED;a para estudiar y ejecutar los procedimientos y fiscalizaciones necesarias para incorporar a los beneficios de esta ley a los productores de oro amalgamado y de lavaderos. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- DEROGADO<span class=\"n\" id=\"n_0\">DL 1818, HACIENDA<br>Art. 1&#xBA;<br>D.O. 15.06.1977</span></div><br></div>"
+        },
+        {
+          "part_id": 8676113,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.- Estas ayudas o subsidios ser&#xE1;n otorgados por la Empresa Nacional de Miner&#xED;a, dentro de su labor de fomento de la producci&#xF3;n aur&#xED;fera, conforme a normas generales y permanentes, que no podr&#xE1;n ser alteradas sino con autorizaci&#xF3;n previa del Ministerio de Miner&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  En estas normas se consultar&#xE1;n la adquisici&#xF3;n de equipos, maquinarias u otros elementos que sean necesarios para dicha explotaci&#xF3;n, y otros est&#xED;mulos que conduzcan a la apertura de nuevas explotaciones, el aumento de la producci&#xF3;n o a una mejor&#xED;a de su productividad.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.- DEROGADO<span class=\"n\" id=\"n_1\">DL 1818, HACIENDA<br>Art. 1&#xBA;<br>D.O. 15.06.1977</span></div><br></div>"
+        },
+        {
+          "part_id": 8676114,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.- La Empresa Nacional de Miner&#xED;a dispondr&#xE1;, para la funci&#xF3;n de fomento que esta ley le encomienda, de anticipos que deber&#xE1; concederle el Banco Central de Chile, y que ser&#xE1;n cubiertos con cargo a la participaci&#xF3;n fiscal en las utilidades del Banco en la forma, plazo y condiciones que determine el Directorio del Banco.</div><div class=\"p\">&nbsp; &nbsp;  El monto del anticipo no podr&#xE1; ser superior a la diferencia obtenida por el Banco Central de Chile en-entre los precios de venta y compra del oro de producci&#xF3;n nacional que haya comprado y vendido durante el semestre en que se otorgue el anticipo, deducidos los gastos de esas operaciones en oro, que el Directorio del Banco determine.</div><div class=\"p\">&nbsp; &nbsp;  Los acuerdos del Directorio del Banco Central de Chile a que se refiere este art&#xED;culo, requerir&#xE1;n el voto conforme de dos directores fiscales, a lo menos. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.- DEROGADO<span class=\"n\" id=\"n_2\">DL 1818, HACIENDA<br>Art. 1&#xBA;<br>D.O. 15.06.1977</span></div><br></div>"
+        },
+        {
+          "part_id": 8676115,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.- Los anticipos que otorgue el Banco Central de Chile a la Empresa Nacional de Miner&#xED;a, conforme a lo dispuesto en el art&#xED;culo anterior, no ser&#xE1;n reintegrados al Banco y se considerar&#xE1;n entradas del Presupuesto Corriente de la Empresa, la que podr&#xE1;, con estos fondos, hacer traspasos de un presupuesto al otro, sin que le sea aplicable lo dispuesto en el inciso tercero del art&#xED;culo 59&#xBA; del DFL. N&#xBA; 47, de 1959.</div><div class=\"p\">&nbsp; &nbsp;  Los fondos que se acumulen en virtud de lo dispuesto en la presente ley s&#xF3;lo podr&#xE1;n destinarse a los fines espec&#xED;ficos se&#xF1;alados en los art&#xED;culos 1 y 2. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.- DEROGADO<span class=\"n\" id=\"n_3\">DL 1818, HACIENDA<br>Art. 1&#xBA;<br>D.O. 15.06.1977</span></div><br></div>"
+        },
+        {
+          "part_id": 8676116,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5.- DEROGADO<span class=\"n\" id=\"n_0\">DL 1759, MINERIA<br>Art. 1&#xBA;<br>D.O. 20.04.1977</span></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 1&#xBA; transitorio del DL 1759, Miner&#xED;a, publicado el 20.04.1977, dispuso que la presente modificaci&#xF3;n regir&#xE1; a contar del 1&#xBA; de febrero de 1978.<br></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5.- DEROGADO<span class=\"n\" id=\"n_4\">DL 1759, MINERIA<br>Art. 1&#xBA;<br>D.O. 20.04.1977</span></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp5\"><a href=\"#np5\">NOTA:</a></div></div><br><div class=\"np\" id=\"np5\"><a href=\"#rnp5\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 1&#xBA; transitorio del DL 1759, Miner&#xED;a, publicado el 20.04.1977, dispuso que la presente modificaci&#xF3;n regir&#xE1; a contar del 1&#xBA; de febrero de 1978.<br></div></div>"
+        },
+        {
+          "part_id": 8676117,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- DEROGADO<span class=\"n\" id=\"n_2\">DL 1290, MINERIA<br>Art. 1&#xBA;<br>D.O. 05.01.1976</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- DEROGADO<span class=\"n\" id=\"n_6\">DL 1290, MINERIA<br>Art. 1&#xBA;<br>D.O. 05.01.1976</span></div><br></div>"
+        },
+        {
+          "part_id": 8676118,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.- DEROGADO<span class=\"n\" id=\"n_3\">DL 1290, MINERIA<br>Art. 1&#xBA;<br>D.O. 05.01.1976</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.- DEROGADO<span class=\"n\" id=\"n_7\">DL 1290, MINERIA<br>Art. 1&#xBA;<br>D.O. 05.01.1976</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1980-11-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676119,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8.- Agr&#xE9;gase al final de la letra a) del art&#xED;culo 15 de la ley N&#xBA; 16.744, de 1&#xBA; de febrero de 1968, reemplazando el punto y coma (;) por un punto seguido (.) la siguiente oraci&#xF3;n: &quot;Trat&#xE1;ndose de actividades mineras, la tasa de cotizaci&#xF3;n b&#xE1;sica general ser&#xE1; de 1,5% de las remuneraciones imponibles, con excepci&#xF3;n de los productores mineros que vendan su producci&#xF3;n a la Empresa Nacional de Miner&#xED;a y que en conjunto de todas sus actividades, no produzcan m&#xE1;s de 100 toneladas de cobre fino al a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  El mayor ingreso que se obtengan en virtud del establecimiento de la tasa referida en el inciso anterior, se destinar&#xE1; a incrementar el presupuesto del Servicio de Minas del Estado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8.- Agr&#xE9;gase al final de la letra a) del art&#xED;culo 15 de la ley N&#xBA; 16.744, de 1&#xBA; de febrero de 1968, reemplazando el punto y coma (;) por un punto seguido (.) la siguiente oraci&#xF3;n: &quot;Trat&#xE1;ndose de actividades mineras, la tasa de cotizaci&#xF3;n b&#xE1;sica general ser&#xE1; de 1,5% de las remuneraciones imponibles, con excepci&#xF3;n de los productores mineros que vendan su producci&#xF3;n a la Empresa Nacional de Miner&#xED;a y que en conjunto de todas sus actividades, no produzcan m&#xE1;s de 100 toneladas de cobre fino al a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  INCISO DEROGADO<span class=\"n\" id=\"n_8\">DL 3501, TRABAJO<br>Art. 24<br>D.O. 18.11.1980</span></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp9\"><a href=\"#np9\">NOTA:</a></div></div><br><div class=\"np\" id=\"np9\"><a href=\"#rnp9\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 35 del DL 3501, Trabajo, publicado el 18.11.1980, dispuso que la referida norma regir&#xE1; a contar del 1&#xBA; de marzo de 1981.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

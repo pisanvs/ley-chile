@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-03-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-04-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6374171,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;2.236, de 28 de diciembre de 2001 y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del D.F.L. MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y D.F.L. MOP N&#xBA;206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA;57-A para la obra: &quot;Concesi&#xF3;n Internacional Ruta 5. Tramo: Chill&#xE1;n - Collipulli. Sector: Km. 529.940,00 -</div><div class=\"p\">Km. 530.690,00&quot; Novena Regi&#xF3;n, que figura a nombre de Riquelme Beroiza Manuel J., rol de aval&#xFA;o 608-114, comuna de Mulchen, superficie 5.955 m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Juan Andr&#xE9;s Tepper Lavanderos, Christian Cornelio Scherpenisse Infante y Omar Andr&#xE9;s Asp&#xE9; Neira, fij&#xF3; con fecha 24 de agosto de 2001, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $5.687.200.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA;2.186, de 1978.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;2.236, de 28 de diciembre de 2001 y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del D.F.L. MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y D.F.L. MOP N&#xBA;206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA;57-A para la obra: &quot;Concesi&#xF3;n Internacional Ruta 5. Tramo: Chill&#xE1;n - Collipulli. Sector: Km. 529.940,00 - Km. 530.690,00&quot; Octava Regi&#xF3;n, que figura a nombre de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 01.04.2002</span> Riquelme Beroiza Manuel J., rol de aval&#xFA;o 608-114, comuna de Mulchen, superficie 5.955 m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Juan Andr&#xE9;s Tepper Lavanderos, Christian Cornelio Scherpenisse Infante y Omar Andr&#xE9;s Asp&#xE9; Neira, fij&#xF3; con fecha 24 de agosto de 2001, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $5.687.200.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA;2.186, de 1978.- </div></div>"
+        }
+      ]
+    }
+  }
+]

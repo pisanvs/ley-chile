@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-05-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-12-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7221799,
+          "old": "<div><div class=\"p\">EXTRACTO DE ORDENANZA SOBRE RUIDOS MOLESTOS </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE ORDENANZA SOBRE RUIDOS MOLESTOS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

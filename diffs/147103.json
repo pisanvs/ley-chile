@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-04-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-09-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8353003,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A RUTH MARIA MONTEALEGRE PERALTA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A RUTH MARIA MONTEALEGRE PERALTA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

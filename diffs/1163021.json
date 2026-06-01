@@ -1,0 +1,56 @@
+[
+  {
+    "fecha": "2021-07-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-08-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10255367,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Recon&#xF3;zcase para el a&#xF1;o 2021 los siguientes alumnos que asisten a establecimientos educacionales con programas de integraci&#xF3;n escolar, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n de educaci&#xF3;n especial diferencial y/o necesidades educativas especiales de car&#xE1;cter transitorio, de acuerdo a lo dispuesto en el <a href=\"https://www.leychile.cl/Navegar?idNorma=127911&amp;idParte=8602443&amp;idVersion=\">art&#xED;culo 9&#xBA;</a> del <a href=\"https://www.leychile.cl/Navegar?idNorma=127911&amp;idParte=&amp;idVersion=\">decreto con fuerza de ley N&#xBA; 2, de 1998, del Ministerio de Educaci&#xF3;n</a>, que se encuentran individualizados en el archivo con firma electr&#xF3;nica avanzada de la Jefa de la Coordinaci&#xF3;n Nacional de Tecnolog&#xED;a de la Divisi&#xF3;n de Planificaci&#xF3;n y Presupuesto del Ministerio de Educaci&#xF3;n, denominado &quot;1RA_MARCA_PIE30_06_21 Con Firma Digital&quot; versi&#xF3;n documento Excel, contenido en el disco compacto (CD), que se acompa&#xF1;a en anexo y que forma parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Recon&#xF3;zcase para el a&#xF1;o 2021 los siguientes alumnos que asisten a establecimientos educacionales con programas de integraci&#xF3;n escolar, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n de educaci&#xF3;n especial diferencial y/o necesidades educativas especiales de car&#xE1;cter transitorio, de acuerdo a lo dispuesto en el art&#xED;culo 9&#xBA; del decreto con fuerza de ley N&#xBA; 2, de 1998, del Ministerio de Educaci&#xF3;n, que <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1164219&amp;idParte=10263372&amp;idVersion=2021-08-27\">Resoluci&#xF3;n 4524 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2&#xB0;<br>D.O. 27.08.2021</a></span>se encuentran individualizados en los archivos con firma electr&#xF3;nica avanzada de la Jefa de la Coordinaci&#xF3;n Nacional de Tecnolog&#xED;a de la Divisi&#xF3;n de Planificaci&#xF3;n y Presupuesto del Ministerio de Educaci&#xF3;n, denominados &quot;1RA_MARCA_PIE_30_06_21&nbsp;  Con&nbsp; &nbsp; &nbsp; &nbsp; Firma&nbsp; &nbsp; Digital&quot; y &quot;2A_MARCA_PIE_2da_Resoluci&#xF3;n_02_08_2021&quot;, ambos versi&#xF3;n documento Excel, contenido en el disco compacto (CD), que se acompa&#xF1;a en anexo y que forma parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-10-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10255367,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Recon&#xF3;zcase para el a&#xF1;o 2021 los siguientes alumnos que asisten a establecimientos educacionales con programas de integraci&#xF3;n escolar, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n de educaci&#xF3;n especial diferencial y/o necesidades educativas especiales de car&#xE1;cter transitorio, de acuerdo a lo dispuesto en el art&#xED;culo 9&#xBA; del decreto con fuerza de ley N&#xBA; 2, de 1998, del Ministerio de Educaci&#xF3;n, que <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1164219&amp;idParte=10263372&amp;idVersion=2021-08-27\">Resoluci&#xF3;n 4524 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2&#xB0;<br>D.O. 27.08.2021</a></span>se encuentran individualizados en los archivos con firma electr&#xF3;nica avanzada de la Jefa de la Coordinaci&#xF3;n Nacional de Tecnolog&#xED;a de la Divisi&#xF3;n de Planificaci&#xF3;n y Presupuesto del Ministerio de Educaci&#xF3;n, denominados &quot;1RA_MARCA_PIE_30_06_21&nbsp;  Con&nbsp; &nbsp; &nbsp; &nbsp; Firma&nbsp; &nbsp; Digital&quot; y &quot;2A_MARCA_PIE_2da_Resoluci&#xF3;n_02_08_2021&quot;, ambos versi&#xF3;n documento Excel, contenido en el disco compacto (CD), que se acompa&#xF1;a en anexo y que forma parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Recon&#xF3;zcase para el a&#xF1;o 2021 los siguientes alumnos que asisten a establecimientos educacionales con programas de integraci&#xF3;n escolar, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n de educaci&#xF3;n especial diferencial y/o necesidades educativas especiales de car&#xE1;cter transitorio, de acuerdo a lo dispuesto en el art&#xED;culo 9&#xBA; del decreto con fuerza de ley N&#xBA; 2, de 1998, del Ministerio de Educaci&#xF3;n, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1167323&amp;idParte=10280221&amp;idVersion=2021-10-30\">Resoluci&#xF3;n 5568 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2&#xBA;<br>D.O. 30.10.2021</a></span>que se encuentran individualizados en los archivos con firma electr&#xF3;nica avanzada de la Jefa de la Coordinaci&#xF3;n Nacional de Tecnolog&#xED;a de la Divisi&#xF3;n de Planificaci&#xF3;n y Presupuesto del Ministerio de Educaci&#xF3;n, denominados &quot;1RA_MARCA_PIE_30_06_21 con Firma Digital&quot;, &quot;2A_MARCA_PIE_2da_Resoluci&#xF3;n_02_08_2021&quot; y &quot;3A_MARCA_PIE_EXCEPCIONALIDAD_12_10&quot; todos versi&#xF3;n documento Excel, contenidos en discos compactos (CDS), que se acompa&#xF1;an en anexo y que forman parte integrante de la presente resoluci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-11-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10255367,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Recon&#xF3;zcase para el a&#xF1;o 2021 los siguientes alumnos que asisten a establecimientos educacionales con programas de integraci&#xF3;n escolar, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n de educaci&#xF3;n especial diferencial y/o necesidades educativas especiales de car&#xE1;cter transitorio, de acuerdo a lo dispuesto en el art&#xED;culo 9&#xBA; del decreto con fuerza de ley N&#xBA; 2, de 1998, del Ministerio de Educaci&#xF3;n, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1167323&amp;idParte=10280221&amp;idVersion=2021-10-30\">Resoluci&#xF3;n 5568 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2&#xBA;<br>D.O. 30.10.2021</a></span>que se encuentran individualizados en los archivos con firma electr&#xF3;nica avanzada de la Jefa de la Coordinaci&#xF3;n Nacional de Tecnolog&#xED;a de la Divisi&#xF3;n de Planificaci&#xF3;n y Presupuesto del Ministerio de Educaci&#xF3;n, denominados &quot;1RA_MARCA_PIE_30_06_21 con Firma Digital&quot;, &quot;2A_MARCA_PIE_2da_Resoluci&#xF3;n_02_08_2021&quot; y &quot;3A_MARCA_PIE_EXCEPCIONALIDAD_12_10&quot; todos versi&#xF3;n documento Excel, contenidos en discos compactos (CDS), que se acompa&#xF1;an en anexo y que forman parte integrante de la presente resoluci&#xF3;n.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Recon&#xF3;zcase para el a&#xF1;o 2021 los siguientes alumnos que asisten a establecimientos educacionales con programas de integraci&#xF3;n escolar, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n de educaci&#xF3;n especial diferencial y/o necesidades educativas especiales de car&#xE1;cter transitorio, de acuerdo a lo dispuesto en el art&#xED;culo 9&#xBA; del decreto con fuerza de ley N&#xBA; 2, de 1998, del Ministerio de Educaci&#xF3;n, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1168821&amp;idParte=10287666&amp;idVersion=2021-11-30\">Resoluci&#xF3;n 5936 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2&#xBA;<br>D.O. 30.11.2021</a></span>que se encuentran individualizados en los archivos con firma electr&#xF3;nica avanzada de la Jefa de la Coordinaci&#xF3;n Nacional de Tecnolog&#xED;a de la Divisi&#xF3;n de Planificaci&#xF3;n y Presupuesto del Ministerio de Educaci&#xF3;n, denominados &quot;1RA_MARCA_PIE_30_06_21 Con Firma Digital&quot;,&quot;2A_MARCA_PIE_2da_Resoluci&#xF3;n_02_08_2021&quot;,&quot;3A_MARCA_PIE_EXCEPCIONA LIDAD_1 2_10&quot; y &quot;4&#xBA; MARCA ALUMNOS PIE 05-11-2021&quot; todos versi&#xF3;n documento Excel, contenidos en discos compactos (CDs), que se acompa&#xF1;an en anexo y que forman parte integrante de la presente resoluci&#xF3;n.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1168821,
+      "fecha": "2021-11-30"
+    }
+  }
+]

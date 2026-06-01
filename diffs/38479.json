@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-07-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949440,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- La Red Vial B&#xE1;sica de la ciudad de Ovalle, estar&#xE1; constituida por las v&#xED;as que se detallan a continuaci&#xF3;n, las que se agrupan de acuerdo a las siguientes categor&#xED;as viales:</div><br><div class=\"p\"> _______________________________________________________</div><div class=\"p\"> | NOTA: VER DIARIO OFICIAL N&#xB0; 35.521, SABADO 20 DE&nbsp; &nbsp; |</div><div class=\"p\"> |&nbsp; &nbsp; &nbsp;  JULIO DE 1996, PAGINA 7.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</div><div class=\"p\"> |_____________________________________________________|</div><br><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Cualquier modificaci&#xF3;n a las caracter&#xED;sticas f&#xED;sicas u operacionales de las v&#xED;as antes individualizadas, que alteren el desplazamiento de veh&#xED;culos y personas, deber&#xE1; ser aprobado por esta Secretar&#xED;a Regional.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- La Red Vial B&#xE1;sica de la ciudad de Ovalle,<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> estar&#xE1; constituida por las v&#xED;as que se detallan a continuaci&#xF3;n, las que se agrupan de acuerdo a las siguientes categor&#xED;as viales:</div><br><div class=\"p\"> _______________________________________________________</div><div class=\"p\"> | NOTA: VER DIARIO OFICIAL N&#xB0; 35.521, SABADO 20 DE&nbsp; &nbsp; |</div><div class=\"p\"> |&nbsp; &nbsp; &nbsp;  JULIO DE 1996, PAGINA 7.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</div><div class=\"p\"> |_____________________________________________________|</div><br><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Cualquier modificaci&#xF3;n a las caracter&#xED;sticas f&#xED;sicas u operacionales de las v&#xED;as antes individualizadas, que alteren el desplazamiento de veh&#xED;culos y personas, deber&#xE1; ser aprobado por esta Secretar&#xED;a Regional.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 494 Exenta, Transportes, publicada el 05.01.2009, modifica la presente norma, en el sentido de reemplazar el tramo que comprende en la categor&#xED;a vial de Servicio la Calle Vicu&#xF1;a Mackenna, por la siguiente: Desde calle Santiago hasta calle Victoria.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

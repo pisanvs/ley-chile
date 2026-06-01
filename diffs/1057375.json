@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9392935,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA; 2322, de 29 de noviembre de 2013, y en base a la facultad otorgada por los art&#xED;culos 3&#xBA; letra a), 74&#xBA; letra e) y105 del D.F.L. M.O.P. N&#xBA; 850 de 1997, que fij&#xF3; el texto actualizado de la Ley N&#xBA; 15.840, se expropi&#xF3; el lote de terreno N&#xBA; 1, para la obra: &quot;CONSTRUCCION DESCARGA COLECTOR DE AGUAS LLUVIAS CANAL ROMERAL, QUEBRADA EL INGENIO&quot;, que figura a nombre de CANIHUANTE ALVAREZ FELIX, rol de aval&#xFA;o 545-32, Comuna de OVALLE, IV Regi&#xF3;n, superficie 441 m2. La Comisi&#xF3;n de Peritos integrada por PABLO JAVIER FLORES SALINAS, MIGUEL ANGEL RUIZ VALENZUELA y ANA ROSA DEL CARMEN SILVA GIL, mediante informe de tasaci&#xF3;n de 06 de noviembre de 2013, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $1.352.500.-. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1057721&amp;idParte=9395569&amp;idVersion=2014-01-02\">Aviso S/N,<br>OBRAS P&#xDA;BLICAS<br>D.O. 02.01.2014</a></span>&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA; 2322, de 09 de diciembre de 2013, y en base a la facultad otorgada por los art&#xED;culos 3&#xBA; letra a), 74&#xBA; letra e) y105 del D.F.L. M.O.P. N&#xBA; 850 de 1997, que fij&#xF3; el texto actualizado de la Ley N&#xBA; 15.840, se expropi&#xF3; el lote de terreno N&#xBA; 1, para la obra: &quot;CONSTRUCCION DESCARGA COLECTOR DE AGUAS LLUVIAS CANAL ROMERAL, QUEBRADA EL INGENIO&quot;, que figura a nombre de CANIHUANTE ALVAREZ FELIX, rol de aval&#xFA;o 545-32, Comuna de OVALLE, IV Regi&#xF3;n, superficie 441 m2. La Comisi&#xF3;n de Peritos integrada por PABLO JAVIER FLORES SALINAS, MIGUEL ANGEL RUIZ VALENZUELA y ANA ROSA DEL CARMEN SILVA GIL, mediante informe de tasaci&#xF3;n de 06 de noviembre de 2013, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $1.352.500.-. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1057721,
+      "fecha": "2014-01-02"
+    }
+  }
+]

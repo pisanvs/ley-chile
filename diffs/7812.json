@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1988-04-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-10-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7132804,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Los requisitos que deben ser acreditados para postular a una beca ser&#xE1;n los siguientes:</div><div class=\"p\">&nbsp; &nbsp; 1.- Ser chileno con domicilio en el pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp; 2.- Poseer grado acad&#xE9;mico de licenciado o t&#xED;tulo profesional;</div><div class=\"p\">&nbsp; &nbsp; 3.- Estar aceptado en el programa de postgrado en alguna universidad chilena, para el cual postula a la beca;</div><div class=\"p\">&nbsp; &nbsp; 4.- Presentar cartas emanadas de dos acad&#xE9;micos respaldando su postulaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; 5.- Trat&#xE1;ndose de candidatos que tengan la calidad de acad&#xE9;micos, se deber&#xE1; acompa&#xF1;ar una carta de la instituci&#xF3;n en que trabaja patrocinando su postulaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; 6.- No encontrarse actualmente procesado ni haber sido condenado por crimen o simple delito, y</div><div class=\"p\">&nbsp; &nbsp; 7.- Ser menor de 35 a&#xF1;os al momento de postular. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Los requisitos que deben ser<span class=\"n\" id=\"n_0\">DTO 441, EDUCACION<br>D.0. 09.10.1998</span> acreditados para postular a una beca ser&#xE1;n los siguientes:</div><div class=\"p\">&nbsp; &nbsp;  1.- Ser chileno o extranjero residente en elpa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp; 2.- Poseer grado acad&#xE9;mico de licenciado o t&#xED;tulo profesional;</div><div class=\"p\">&nbsp; &nbsp; 3.- Estar aceptado en el programa de postgrado en alguna universidad chilena, para el cual postula a la beca;</div><div class=\"p\">&nbsp; &nbsp; 4.- Presentar cartas emanadas de dos acad&#xE9;micos respaldando su postulaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; 5.- Trat&#xE1;ndose de candidatos que tengan la calidad de acad&#xE9;micos, se deber&#xE1; acompa&#xF1;ar una carta de la instituci&#xF3;n en que trabaja patrocinando su postulaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; 6.- No encontrarse actualmente procesado ni haber sido condenado por crimen o simple delito.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; Existir&#xE1; opci&#xF3;n preferencial para concursantes menores de 35 a&#xF1;os, a la fecha de postulaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2007-03-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7132801,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARRUEBA REGLAMENTO DE PROGRAMA NACIONAL DE BECAS DE POSTGRADO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 29.- Santiago, 12 de Enero de 1988.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que es decisi&#xF3;n del Supremo Gobierno a trav&#xE9;s de un Plan Nacional de Desarrollo Cient&#xED;fico y Tecnol&#xF3;gico, crear e impulsar un programa de becas que ayude a financiar el acceso a estudios de postgrado en Universidades del pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp; Que mediante el programa descrito se constribuye eficazmente a fortalecer los programas de postgrado impartidos en Chile, lo que financia la formaci&#xF3;n superior en un entorno que considera las realidades nacionales;</div><div class=\"p\">&nbsp; &nbsp; Que el otorgamiento de becas contribuye a elevar el nivel de especializaci&#xF3;n de los recursos humanos del pa&#xED;s, a la vez que consolida la investigaci&#xF3;n de avanzada lo que fortalece a las universidades y al desarrollo del pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp; Que una efectiva descentralizaci&#xF3;n compromete el desarrollo de Universidades Regionales con personal acad&#xE9;mico altamente calificado, para lo cual el postgrado constituye una v&#xED;a de perfeccionamiento importante, y</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en las Leyes N&#xB0;s. 16.746 y 18.669; el Decreto Supremo de Educaci&#xF3;n N&#xB0; 491, de 1971; la Resoluci&#xF3;n N&#xB0; 1.050, de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica, y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, Decreto:</div><br><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO DE PROGRAMA NACIONAL DE BECAS DE POSTGRADO</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 29.- Santiago, 12 de Enero de 1988.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que es decisi&#xF3;n del Supremo Gobierno a trav&#xE9;s de un Plan Nacional de Desarrollo Cient&#xED;fico y Tecnol&#xF3;gico, crear e impulsar un programa de becas que ayude a financiar el acceso a estudios de postgrado en Universidades del pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp; Que mediante el programa descrito se constribuye eficazmente a fortalecer los programas de postgrado impartidos en Chile, lo que financia la formaci&#xF3;n superior en un entorno que considera las realidades nacionales;</div><div class=\"p\">&nbsp; &nbsp; Que el otorgamiento de becas contribuye a elevar el nivel de especializaci&#xF3;n de los recursos humanos del pa&#xED;s, a la vez que consolida la investigaci&#xF3;n de avanzada lo que fortalece a las universidades y al desarrollo del pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp; Que una efectiva descentralizaci&#xF3;n compromete el desarrollo de Universidades Regionales con personal acad&#xE9;mico altamente calificado, para lo cual el postgrado constituye una v&#xED;a de perfeccionamiento importante, y</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en las Leyes N&#xB0;s. 16.746 y 18.669; el Decreto Supremo de Educaci&#xF3;n N&#xB0; 491, de 1971; la Resoluci&#xF3;n N&#xB0; 1.050, de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica, y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, </div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

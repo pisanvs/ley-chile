@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-08-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7237214,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Fac&#xFA;ltase al Ministro de Vivienda y Urbanismo para que, en casos calificados, a requerimiento del Serviu respectivo, mediante resoluciones fundadas, pueda autorizar la emisi&#xF3;n de nuevos Certificados de Subsidio Habitacional para Vivienda Progresiva, con cargo al programa correspondiente al a&#xF1;o 1998, en favor de beneficiarios de Programas Privados de Viviendas Progresivas cuyos Certificados de Subsidio Habitacional se encuentren con su plazo de vigencia vencido o pr&#xF3;ximo a expirar, cuando concurran las causales o circunstancias que se&#xF1;alan los puntos i) e ii) del considerando c) de este decreto. En los casos en que se hubiere efectuado anticipos a cuenta del pago del subsidio y hubiere avance de obras acreditado por el Serviu, a los nuevos Certificados de Subsidio Habitacional que se emitan se les descontar&#xE1; de su valor un monto equivalente al que represente la parte del subsidio ya incorporada en obras.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Fac&#xFA;ltase al Ministro de Vivienda y Urbanismo para que, en casos calificados, a requerimiento del Serviu respectivo, mediante resoluciones fundadas, pueda autorizar la emisi&#xF3;n de nuevos Certificados de Subsidio Habitacional para Vivienda Progresiva, con cargo a los programas<span class=\"n\" id=\"n_0\">DTO 177, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 31.12.1998</span> correspondientes al a&#xF1;o 1998 o al a&#xF1;o 1999, en su caso, en favor de beneficiarios de Programas Privados de Viviendas Progresivas cuyos Certificados de Subsidio Habitacional se encuentren con su plazo de vigencia vencido o pr&#xF3;ximo a expirar, cuando concurran las causales o circunstancias que se&#xF1;alan los puntos i) e ii) del considerando c) de este decreto. En los casos en que se hubiere efectuado anticipos a cuenta del pago del subsidio y hubiere avance de obras acreditado por el Serviu, a los nuevos Certificados de Subsidio Habitacional que se emitan se les descontar&#xE1; de su valor un monto equivalente al que represente la parte del subsidio ya incorporada en obras. </div></div>"
+        }
+      ]
+    }
+  }
+]

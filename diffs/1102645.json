@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-05-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-10-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9796236,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Reempl&#xE1;zase en el numeral primero del <a href=\"https://www.leychile.cl/Navegar?idNorma=1065672&amp;idParte=&amp;idVersion=\">decreto exento N&#xBA; 608, de 2014</a>, la tabla en la que se individualizan los veh&#xED;culos cuya circulaci&#xF3;n se autoriza por la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Patente&nbsp;  Veh&#xED;culo&nbsp; &nbsp; Marca Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A&#xF1;o</div><br><div class=\"p\">&nbsp; &nbsp;  GCLY64-4&nbsp; Camioneta&nbsp;  Nissan Terrano DXS 4x4 D/C 2.5 Di&#xE9;sel&nbsp; &nbsp; &nbsp;  2014</div><div class=\"p\">&nbsp; &nbsp;  HLRS96-8&nbsp; Camioneta&nbsp;  Chevrolet Di Max 4x4 D/C Di&#xE9;sel&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2016</div><div class=\"p\">&nbsp; &nbsp;  HLRS99-2&nbsp; Camioneta&nbsp;  Chevrolet Di Max 4x4 D/C Di&#xE9;sel&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2016</div><div class=\"p\">&nbsp; &nbsp;  GCLC43-3&nbsp; Camioneta&nbsp;  Nissan Terrano DXS 4x4 D/C 2.5 Di&#xE9;sel&nbsp; &nbsp; &nbsp;  2014</div><div class=\"p\">&nbsp; &nbsp;  BFYK80-5&nbsp; Camioneta&nbsp;  Nissan Terrano DX 2.4 D/C 4x4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2008</div><div class=\"p\">&nbsp; &nbsp;  BPPD86-0&nbsp; Autom&#xF3;vil&nbsp;  Nissan Platina Sed&#xE1;n 1.6 L 5MT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2009</div><div class=\"p\">&nbsp; &nbsp;  GBWS12-9&nbsp; Camioneta&nbsp;  Nissan Terrano DXS 4x4 D/C 2.5 Di&#xE9;sel&nbsp; &nbsp; &nbsp;  2014</div><div class=\"p\">&nbsp; &nbsp;  CDCF71-7&nbsp; Camioneta&nbsp;  Nissan Terrano AXS 4x4 D/C&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2009</div><div class=\"p\">&nbsp; &nbsp;  CGHR99-5&nbsp; Autom&#xF3;vil&nbsp;  Nissan Sentra V16 STD B31001&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2010</div><div class=\"p\">&nbsp; &nbsp;  CXFZ19-K&nbsp; Camioneta&nbsp;  Mazda BT50 4x4 D/CAB&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2011</div><div class=\"p\">&nbsp; &nbsp;  CXFZ20-3&nbsp; Camioneta&nbsp;  Mazda BT50 4x4 D/CAB&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2011</div><div class=\"p\">&nbsp; &nbsp;  CXFZ33-5&nbsp; Camioneta&nbsp;  Mazda BT50 4x2 D/CAB&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2011</div><div class=\"p\">&nbsp; &nbsp;  CXFZ34-3&nbsp; Camioneta&nbsp;  Mazda BT50 4x2 D/CAB&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2011</div><div class=\"p\">&nbsp; &nbsp;  DDVY84&nbsp; &nbsp; Station </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Wagon&nbsp; &nbsp; &nbsp;  Mahindra Scorpio SUV 4x2&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2011</div><div class=\"p\">&nbsp; &nbsp;  FJBP44-4&nbsp; Camioneta&nbsp;  Nissan Terrano DXS D/C 2.5 Di&#xE9;sel mec&#xE1;nica&nbsp; 2013</div><div class=\"p\">&nbsp; &nbsp;  FJBP49-4&nbsp; Camioneta&nbsp;  Nissan Terrano DXS D/C 2.5 Di&#xE9;sel mec&#xE1;nica&nbsp; 2013</div><div class=\"p\">&nbsp; &nbsp;  DSFP72-4&nbsp; Camioneta&nbsp;  Mazda BT50 4x2 D/CAB&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2012</div><div class=\"p\">&nbsp; &nbsp;  DSFP77-5&nbsp; Camioneta&nbsp;  Mazda BT50 4x2 D/CAB&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2012</div><br><br><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Reempl&#xE1;zase en el numeral primero del decreto exento N&#xBA; 608, de 2014, la tabla en la que se individualizan los veh&#xED;culos cuya circulaci&#xF3;n se autoriza por la siguiente:</div><div class=\"p\">&nbsp;  <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1109709&amp;idParte=9843237&amp;idVersion=2017-10-24\">Decreto 271 EXENTO,<br>SALUD<br>Art. &#xDA;NICO<br>D.O. 24.10.2017</a></span>&nbsp; </div><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"p\">&nbsp; &nbsp;  .<img class=\"img-responsive\" src=\"Navegar/imagen/JPG/71614.jpg\">.</div><br><br><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1109709,
+      "fecha": "2017-10-24"
+    }
+  }
+]

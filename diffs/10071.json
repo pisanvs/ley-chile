@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1996-10-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-07-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8953870,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; TITULO IV {ARTS. 9-18}</div><div class=\"p\">&nbsp; &nbsp; De los Beneficios</div><div class=\"p\">&nbsp; &nbsp; P&#xE1;rrafo I. De car&#xE1;cter m&#xE9;dico {ARTS. 9-10}</div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- El Servicio de Bienestar podr&#xE1; otorgar beneficios de car&#xE1;cter m&#xE9;dico y odontol&#xF3;gico a sus afiliados y cargas familiares que lo soliciten, por los conceptos y en los t&#xE9;rminos se&#xF1;alados en el art&#xED;culo 15&#xB0; del Reglamento General.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  TITULO IV</div><div class=\"p\">&nbsp; &nbsp;  De los Beneficios</div><div class=\"p\">&nbsp; &nbsp;  P&#xE1;rrafo I. De car&#xE1;cter m&#xE9;dico</div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- El Servicio de Bienestar podr&#xE1;<span class=\"n\" id=\"n_0\">DTO 28, TRABAJO<br>Art. &#xFA;nico<br>D.O. 17.07.2001</span> otorgar beneficios de car&#xE1;cter m&#xE9;dico y odontol&#xF3;gico a sus afiliados y cargas familiares que lo soliciten. Con el objeto de mejorar el nivel de estas prestaciones m&#xE9;dicas, el Servicio de Bienestar podr&#xE1; contratar seguros adicionales de salud para sus asociados los cuales deber&#xE1;n tener una cobertura a lo menos equivalente a lo se&#xF1;alado en el art&#xED;culo 15&#xBA; del D.S. N&#xBA; 28 de 1994 del Ministerio del Trabajo y Previsi&#xF3;n Social y adem&#xE1;s, podr&#xE1;n incluir seguros que cubran enfermedades catastr&#xF3;ficas.</div><div class=\"p\">&nbsp; &nbsp; El Servicio de Bienestar, si sus disponibilidades lo permiten, podr&#xE1; con cargo a su presupuesto, incluido el aporte institucional, bonificar o subsidiar pagos de primas por concepto de seguros colectivos de vida, complementarios de salud, de enfermedades catastr&#xF3;ficas u otros que contraten los afiliados en su favor o de sus cargas familiares, a trav&#xE9;s de convenios del Servicio de Bienestar.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-03-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

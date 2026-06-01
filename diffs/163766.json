@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-04-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6259412,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 39, de fecha 28 de marzo de 2000, de Serviu Regi&#xF3;n de Coquimbo, se orden&#xF3; expropiaci&#xF3;n, conforme art. 51 ley 16.391 y D.L. 2.186 de 1978, del inmueble denominado Lote 5 ubicado en localidad de Lagunillas de la comuna de Ovalle, presunto rol aval&#xFA;o 553-42 comuna de Ovalle, de aparentemente dominio de Comunidad Agr&#xED;cola Lagunillas Galleguillos del Valle, de una superficie aproximada de 422 metros cuadrados. Comisi&#xF3;n Peritos integrada por arquitectos do&#xF1;a Iris Marcich Moller, Alfredo Prieto Parra y Francisco Broquedis Marcich, seg&#xFA;n informe de 27 de marzo de 2000, fij&#xF3; monto provisional indemnizaci&#xF3;n en $126.600, pagadera al contado.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 39, de fecha 28 de marzo de 2000, de Serviu Regi&#xF3;n de Coquimbo, se orden&#xF3; expropiaci&#xF3;n, conforme art. 51 ley 16.391 y D.L. 2.186 de 1978, del inmueble denominado Lote 5 ubicado en localidad de Lagunillas de la comuna de Ovalle, presunto rol aval&#xFA;o 553-42 comuna de Ovalle, de aparentemente dominio de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 15.04.2000</span> don Camilo Olivares, de una superficie aproximada de 422 metros cuadrados. Comisi&#xF3;n Peritos integrada por arquitectos do&#xF1;a Iris Marcich Moller, Alfredo Prieto Parra y Francisco Broquedis Marcich, seg&#xFA;n informe de 27 de marzo de 2000, fij&#xF3; monto provisional indemnizaci&#xF3;n en $126.600, pagadera al contado.- </div></div>"
+        }
+      ]
+    }
+  }
+]

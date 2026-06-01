@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1970-11-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8905002,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;ARTICULO 1&#xB0; En el cargo de Director del Instituto de Neurocirug&#xED;a e Investigaciones Cerebrales del Servicio Nacional de Salud, cuando el Director en actual ejercicio cese definitivamente en sus funciones, ser&#xE1; designado, previo concurso de antecedentes, un m&#xE9;dico cirujano especialista en neurocirug&#xED;a que desempe&#xF1;e funciones docentes en el Servicio Nacional de Salud o en la Universidad de Chile y tenga experiencia administrativa.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; &quot;ARTICULO 1&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_0\">DL 781, SALUD<br>Art. 1&#xB0;<br>D.O. 06.12.1974</span></div><br></div>"
+        },
+        {
+          "part_id": 8905003,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que, dentro de los sesenta d&#xED;as siguientes al de la publicaci&#xF3;n de la presente ley, mediante decreto supremo fundado y a propuesta del Director del Instituto a que se refiere el art&#xED;culo anterior, dicte el texto refundido del Reglamento Org&#xE1;nico por el cual se regir&#xE1; este Instituto. En uso de esta facultad, se podr&#xE1;n corregir, modificar, adicionar y sistematizar las normas por las cuales se rige el Instituto en la actualidad. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_1\">DL 781, SALUD<br>Art. 1&#xB0;<br>D.O. 06.12.1974</span></div><br></div>"
+        },
+        {
+          "part_id": 8905004,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; Los recursos que corresponden al Instituto en virtud de lo dispuesto en las leyes n&#xFA;meros 15.109, 15.575, art&#xED;culo 89&#xB0;; 16.466, art&#xED;culo 38&#xB0; y en la presente ley, ser&#xE1;n puestos a disposici&#xF3;n del Director dentro de los 90 d&#xED;as a su percepci&#xF3;n por la Tesorer&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; El Director determinar&#xE1;, con el acuerdo del Consejo T&#xE9;cnico del Instituto y la aprobaci&#xF3;n del Director General de Salud, la inversi&#xF3;n que deber&#xE1; darse a dichos fondos, conforme a sus funciones espec&#xED;ficas. La aprobaci&#xF3;n a que se he hecho referencia deber&#xE1; darse dentro de los treinta d&#xED;as siguientes a la fecha en que sea solicitada. Si el Director General de Salud no se pronunciare en ese lapso se entender&#xED;a que aprueba la inversi&#xF3;n propuesta.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; Los recursos que corresponden al Instituto en virtud de lo dispuesto en las leyes n&#xFA;meros 15.109, 15.575, art&#xED;culo 89&#xB0;; 16.466, art&#xED;culo 38&#xB0; y en la presente ley, ser&#xE1;n puestos a disposici&#xF3;n del Director dentro de los 90 d&#xED;as a su percepci&#xF3;n por la Tesorer&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; INCISO DEROGADO<span class=\"n\" id=\"n_2\">DL 781, SALUD<br>Art. 1&#xB0;<br>D.O. 06.12.1974</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

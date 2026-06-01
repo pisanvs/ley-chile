@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1978-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-12-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8627932,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;- El m&#xE1;ximo de horas extraordinarias cuya ejecuci&#xF3;n podr&#xE1; ordenarse ser&#xE1; de 40 horas por funcionario al mes.</div><div class=\"p\">&nbsp; &nbsp; S&#xF3;lo podr&#xE1; excederse esta limitaci&#xF3;n cuando se trate de trabajos de car&#xE1;cter imprevisto motivados por fen&#xF3;menos naturales o calamidades p&#xFA;blicas que hagan imprescindible trabajar un mayor n&#xFA;mero de horas extraordinarias.</div><div class=\"p\">&nbsp; &nbsp; De tal circunstancia deber&#xE1; dejarse expresa constancia en la resoluci&#xF3;n que ordene la ejecuci&#xF3;n de tales trabajos extraordinarios.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 7&#xB0; El m&#xE1;ximo de horas extraordinarias cuya ejecuci&#xF3;n podr&#xE1; ordenarse ser&#xE1; de 40 horas por<span class=\"n\" id=\"n_0\">DL 3001 1979<br>ART 6</span> funcionario al mes. El m&#xE1;ximo referido, respecto del personal de los escalafones de Procesamiento de Datos,&nbsp;  N&#xB0; 2 a) ser&#xE1; de 70 horas por funcionario al mes.</div><div class=\"p\">&nbsp; &nbsp; S&#xF3;lo podr&#xE1; excederse esta limitaci&#xF3;n cuando se trate de trabajos de car&#xE1;cter imprevisto, motivados por fen&#xF3;menos naturales o calamidades p&#xFA;blicas que hagan imprescindible trabajar un mayor n&#xFA;mero de horas extraordinarias.</div><div class=\"p\">&nbsp; &nbsp; De tal circunstancia deber&#xE1; dejarse expresa constancia en la resoluci&#xF3;n que ordene la ejecuci&#xF3;n de tales trabajos extraordinarios.</div><br></div>"
+        },
+        {
+          "part_id": 8627935,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;- S&#xF3;lo podr&#xE1;n efectuarse trabajos extraordinarios de noche o en d&#xED;as festivos cuando no puedan esos trabajos postergarse por causa mayor imprevista o en los casos de Servicios que no puedan paralizarse sin grave da&#xF1;o para el pa&#xED;s, y autorizados expresamente por el Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Se entender&#xE1; por trabajo nocturno, el que se realice entre las veintiuna (21) horas de un d&#xED;a y las siete (7) horas del d&#xED;a siguiente.</div><div class=\"p\">&nbsp; &nbsp; Los empleados que deban realizar trabajos nocturnos o en d&#xED;as festivos deber&#xE1;n ser compensados con un descanso complementario igual al tiempo trabajado m&#xE1;s un aumento del cincuenta por ciento.</div><div class=\"p\">&nbsp; &nbsp; Los Jefes de Servicio ordenar&#xE1;n los turnos correspondientes entre su personal y fijar&#xE1;n los descansos complementarios que correspondan.</div><div class=\"p\">&nbsp; &nbsp; En caso de que el n&#xFA;mero de empleados de un Servicio u Oficina impida dar el descanso a que tienen derecho los funcionarios que hubieren realizado trabajos en d&#xED;as festivos u horas nocturnas, se les abonar&#xE1; un recargo del 50% sobre la hora ordinaria de trabajo calculada conforme al art&#xED;culo 8&#xB0;, siempre que consulten fondos en forma espec&#xED;fica para este objeto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 10&#xB0; S&#xF3;lo podr&#xE1;n efectuarse trabajos extraordinarios de noche o en d&#xED;as festivos cuando no puedan esos trabajos postergados por causa mayor imprevista o en los casos de Servicios que no puedan<span class=\"n\" id=\"n_1\">DL 3001 1979<br>ART 6 N 2 b)</span> paralizarse sin grave da&#xF1;os para el pa&#xED;s, y autorizados de acuerdo a las normas establecidas en el art&#xED;culo 6&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; Se entender&#xE1; por trabajo nocturno el que se realice entre las veintiuna (21) horas de un d&#xED;a y las siete (7) horas del d&#xED;a siguiente.</div><div class=\"p\">&nbsp; &nbsp; Los empleados que deban realizar trabajos nocturnos o en d&#xED;as festivos deber&#xE1;n ser compensados con un descanso complementario igual al tiempo trabajado m&#xE1;s un aumento del cincuenta por ciento.</div><div class=\"p\">&nbsp; &nbsp; Los jefes de Servicio ordenar&#xE1;n los turnos correspondientes entre su personal y fijar&#xE1;n los descansos complementarios que correspondan.</div><div class=\"p\">&nbsp; &nbsp; En caso de que el n&#xFA;mero de empleados de un Servicio u Oficina impida dar el descanso a que tienen derecho los funcionarios que hubieren realizado trabajos en d&#xED;as festivos u horas nocturnas, se les abonar&#xE1; un recargo del 50% sobre la hora ordinaria de trabajo, calculada conforme al art&#xED;culo 8&#xB0;, siempre que consulten fondos en forma espec&#xED;fica para este objeto. </div></div>"
+        },
+        {
+          "part_id": 8627937,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0;- La autorizaci&#xF3;n para efectuar trabajos extraordinarios de noche o en d&#xED;as festivos en los servicios, instituciones y empresas regidas por los art&#xED;culos 1&#xB0; y 2&#xB0; del decreto ley N&#xB0; 249, de 1974, deber&#xE1; ser visada previamente por el Ministerio de Hacienda.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 11&#xB0; DEROGADO.-<span class=\"n\" id=\"n_2\">DL 3001 1979<br>ART 6<br>N&#xB0; 2 c)</span></div><div class=\"p\"> </div></div>"
+        }
+      ]
+    }
+  }
+]

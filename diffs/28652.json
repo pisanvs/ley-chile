@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1968-02-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-11-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5979173,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Decl&#xE1;rase de utilidad p&#xFA;blica y autor&#xED;zase la expropiaci&#xF3;n del inmueble, o parte de &#xE9;l, en que naci&#xF3; el Presidente de la Rep&#xFA;blica, don Juan Antonio R&#xED;os Morales, ubicado en Ca&#xF1;ete, en el que se instalar&#xE1; el Museo Folkl&#xF3;rico Araucano que llevar&#xE1; su nombre.</div><div class=\"p\">&nbsp; &nbsp; La Sociedad Constructora de Establecimientos Educacionales construir&#xE1; en el mismo predio una Escuela Hogar que llevar&#xE1; el nombre del Presidente Juan Antonio R&#xED;os.</div><div class=\"p\">&nbsp; &nbsp; El inmueble referido anteriormente tiene los siguientes deslindes: Al Norte: Hijuela N&#xB0;1, de don Virgilio Morales Vivanco; de por medio ind&#xED;genas Ferm&#xED;n Vilu&#xF1;ir, Antonio Neculp&#xED;; cerco de alambre, r&#xED;o Leiva, en parte, separado por la Hijuela de Larroulet;</div><div class=\"p\">&nbsp; &nbsp; Al Este: r&#xED;o Leiva y An&#xED;bal Gajardo, separado en parte por arroyito;</div><div class=\"p\">&nbsp; &nbsp; Al Sur: con An&#xED;bal Gajardo, separado en parte por arroyito, hijuela N&#xB0; 2 de do&#xF1;a Dolores Dom&#xED;nguez R&#xED;os de Cerda, separado por l&#xED;nea estacada de este-oeste, cerco de alambre y arroyito en parte, y</div><div class=\"p\">&nbsp; &nbsp; Al Oeste: R&#xED;o Peleco, antes denominado Leiva, hijuela N&#xB0;1 de don Virgilio Morales Vivanco, separada por l&#xED;nea trazada en el terreno con una inclinaci&#xF3;n de 34 grados al Oeste a partir de la estaca A. por plantaciones de pinos y camino vecinal y en parte, r&#xED;o Leiva.</div><div class=\"p\">&nbsp; &nbsp; La expropiaci&#xF3;n se har&#xE1; por la Direcci&#xF3;n General de Obras P&#xFA;blicas y con el procedimiento que establece su Ley Org&#xE1;nica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Decl&#xE1;rase de utilidad p&#xFA;blica y autor&#xED;zase la expropiaci&#xF3;n del inmueble, o parte de &#xE9;l, en que naci&#xF3; el Presidente de la Rep&#xFA;blica, don Juan Antonio R&#xED;os Morales, ubicado en Ca&#xF1;ete, en el que se instalar&#xE1; el<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1032242&amp;idParte=9202986&amp;idVersion=2011-11-15\">Ley 20548<br>Art. UNICO<br>D.O. 15.11.2011</a></span> Museo Ruka kimvn tai&#xF1; volil, lonko Juan Cayupi Huechicura.</div><div class=\"p\">&nbsp; &nbsp; La Sociedad Constructora de Establecimientos Educacionales construir&#xE1; en el mismo predio una Escuela Hogar que llevar&#xE1; el nombre del Presidente Juan Antonio R&#xED;os.</div><div class=\"p\">&nbsp; &nbsp; El inmueble referido anteriormente tiene los siguientes deslindes: Al Norte: Hijuela N&#xB0;1, de don Virgilio Morales Vivanco; de por medio ind&#xED;genas Ferm&#xED;n Vilu&#xF1;ir, Antonio Neculp&#xED;; cerco de alambre, r&#xED;o Leiva, en parte, separado por la Hijuela de Larroulet;</div><div class=\"p\">&nbsp; &nbsp; Al Este: r&#xED;o Leiva y An&#xED;bal Gajardo, separado en parte por arroyito;</div><div class=\"p\">&nbsp; &nbsp; Al Sur: con An&#xED;bal Gajardo, separado en parte por arroyito, hijuela N&#xB0; 2 de do&#xF1;a Dolores Dom&#xED;nguez R&#xED;os de Cerda, separado por l&#xED;nea estacada de este-oeste, cerco de alambre y arroyito en parte, y</div><div class=\"p\">&nbsp; &nbsp; Al Oeste: R&#xED;o Peleco, antes denominado Leiva, hijuela N&#xB0;1 de don Virgilio Morales Vivanco, separada por l&#xED;nea trazada en el terreno con una inclinaci&#xF3;n de 34 grados al Oeste a partir de la estaca A. por plantaciones de pinos y camino vecinal y en parte, r&#xED;o Leiva.</div><div class=\"p\">&nbsp; &nbsp; La expropiaci&#xF3;n se har&#xE1; por la Direcci&#xF3;n General de Obras P&#xFA;blicas y con el procedimiento que establece su Ley Org&#xE1;nica.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1032242,
+      "fecha": "2011-11-15"
+    }
+  }
+]

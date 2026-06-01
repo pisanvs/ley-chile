@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-09-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8431353,
+          "old": "<div><div class=\"p\">DISPONE REQUISITOS SANITARIOS EXIGIBLES EN LOS CONTRATOS DE FABRICACION Y/O CONTROL DE CALIDAD DE PRODUCTOS FARMACEUTICOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 6.786 exenta.- Santiago, 1 de septiembre de 2006.- Visto estos antecedentes: - Las Pr&#xE1;cticas de Buena Manufactura contenidas en los Informes 32 y 33 del Comit&#xE9; de Expertos de la OMS en Especificaciones para las Preparaciones Farmac&#xE9;uticas, aprobadas por resoluci&#xF3;n exenta N&#xBA; 2.088/99, del Ministerio de Salud, en lo que respecta el punto N&#xBA; 8 &quot;Producci&#xF3;n y an&#xE1;lisis por contrato&quot;.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que el Art. 132&#xBA; del DS 1.876/95, del Ministerio de Salud, faculta al Instituto de Salud P&#xFA;blica de Chile a autorizar a los laboratorios de producci&#xF3;n para elaborar productos por cuenta ajena, previa presentaci&#xF3;n del convenio notarial correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  - La necesidad de incorporar requisitos sanitarios en los contratos de fabricaci&#xF3;n y/o de control de calidad de productos farmac&#xE9;uticos, que garanticen el cumplimiento de las Buenas Pr&#xE1;cticas de Manufactura y que definan las responsabilidades sanitarias de cada una de las partes afectas a este contrato, sin perjuicio de las dem&#xE1;s disposiciones legales, comerciales y econ&#xF3;micas que este contrato conlleva.</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Lo dispuesto en los Arts. 94&#xBA; y 102&#xBA; del C&#xF3;digo Sanitario, 2&#xBA; y 15&#xBA; letra a) del DS N&#xBA; 1.876/95 y los Arts. 37&#xBA; letra b) y 39&#xBA; letra b) del decreto ley N&#xBA; 2.763 de 1979, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><br><div class=\"p\">DISPONE REQUISITOS SANITARIOS EXIGIBLES EN LOS CONTRATOS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> DE FABRICACION Y/O CONTROL DE CALIDAD DE PRODUCTOS FARMACEUTICOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 6.786 exenta.- Santiago, 1 de septiembre de 2006.- Visto estos antecedentes: - Las Pr&#xE1;cticas de Buena Manufactura contenidas en los Informes 32 y 33 del Comit&#xE9; de Expertos de la OMS en Especificaciones para las Preparaciones Farmac&#xE9;uticas, aprobadas por resoluci&#xF3;n exenta N&#xBA; 2.088/99, del Ministerio de Salud, en lo que respecta el punto N&#xBA; 8 &quot;Producci&#xF3;n y an&#xE1;lisis por contrato&quot;.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que el Art. 132&#xBA; del DS 1.876/95, del Ministerio de Salud, faculta al Instituto de Salud P&#xFA;blica de Chile a autorizar a los laboratorios de producci&#xF3;n para elaborar productos por cuenta ajena, previa presentaci&#xF3;n del convenio notarial correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  - La necesidad de incorporar requisitos sanitarios en los contratos de fabricaci&#xF3;n y/o de control de calidad de productos farmac&#xE9;uticos, que garanticen el cumplimiento de las Buenas Pr&#xE1;cticas de Manufactura y que definan las responsabilidades sanitarias de cada una de las partes afectas a este contrato, sin perjuicio de las dem&#xE1;s disposiciones legales, comerciales y econ&#xF3;micas que este contrato conlleva.</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Lo dispuesto en los Arts. 94&#xBA; y 102&#xBA; del C&#xF3;digo Sanitario, 2&#xBA; y 15&#xBA; letra a) del DS N&#xBA; 1.876/95 y los Arts. 37&#xBA; letra b) y 39&#xBA; letra b) del decreto ley N&#xBA; 2.763 de 1979, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 7888 Exenta, Salud, publicada el 06.12.2006, invalida la presente norma por ser contraria a derecho.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

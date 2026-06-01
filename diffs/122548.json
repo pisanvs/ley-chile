@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-07-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6123795,
+          "old": "<div><br><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOC. FERIA AGRICOLA LINARES LTDA.</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOC. FERIA AGRICOLA LINARES LTDA.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

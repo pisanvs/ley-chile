@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-04-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-10-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8826636,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA TEXTO ACTUALIZADO Y REFUNDIDO DIVERSOS REGLAMENTOS SOBRE EVALUACION Y PROMOCION ESCOLAR Y SOBRE OTRAS DISPOSICIONES RELATIVAS A ESTA MATERIA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 62 exento.- Santiago, 25 de Marzo de 1983.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que es prop&#xF3;sito del Ministerio de Educaci&#xF3;n P&#xFA;blica mejorar la administraci&#xF3;n escolar y la conducci&#xF3;n del proceso educativo, procurando a trav&#xE9;s de una revisi&#xF3;n y actualizaci&#xF3;n permanente de los instrumentos normativos y t&#xE9;cnicos, simplificar y dar mayor flexibilidad al sistema;</div><div class=\"p\">&nbsp; &nbsp; Que la actual estructura de los establecimientos educacionales permite atender en un mismo plantel, los diversos niveles y modalidades de ense&#xF1;anza, en jornadas diurnas, vespertinas y nocturnas y que la responsabilidad de dirigir y orientar el proceso ense&#xF1;anza-aprendizaje que en ellos se desarrolla, radica en una sola Direcci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; Que existen normas sobre evaluaci&#xF3;n y promoci&#xF3;n escolar y otras disposiciones relativas a esta materia en diferentes textos jur&#xED;dicos, y es necesario y conveniente incluirlas en un solo cuerpo reglamentario;</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el D.F.L. N&#xB0; 7.912, de 1927; Ley N&#xB0; 16.526, de 1966; decreto supremo de Educaci&#xF3;n N&#xB0; 9.555, de 1980; resoluci&#xF3;n N&#xB0; 1.050 de la Contralor&#xED;a General de la Rep&#xFA;blica, y en los art&#xED;culos 32, N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA TEXTO ACTUALIZADO Y REFUNDIDO DIVERSOS REGLAMENTOS SOBRE EVALUACION Y PROMOCION ESCOLAR Y SOBRE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> OTRAS DISPOSICIONES RELATIVAS A ESTA MATERIA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 62 exento.- Santiago, 25 de Marzo de 1983.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que es prop&#xF3;sito del Ministerio de Educaci&#xF3;n P&#xFA;blica mejorar la administraci&#xF3;n escolar y la conducci&#xF3;n del proceso educativo, procurando a trav&#xE9;s de una revisi&#xF3;n y actualizaci&#xF3;n permanente de los instrumentos normativos y t&#xE9;cnicos, simplificar y dar mayor flexibilidad al sistema;</div><div class=\"p\">&nbsp; &nbsp; Que la actual estructura de los establecimientos educacionales permite atender en un mismo plantel, los diversos niveles y modalidades de ense&#xF1;anza, en jornadas diurnas, vespertinas y nocturnas y que la responsabilidad de dirigir y orientar el proceso ense&#xF1;anza-aprendizaje que en ellos se desarrolla, radica en una sola Direcci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; Que existen normas sobre evaluaci&#xF3;n y promoci&#xF3;n escolar y otras disposiciones relativas a esta materia en diferentes textos jur&#xED;dicos, y es necesario y conveniente incluirlas en un solo cuerpo reglamentario;</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el D.F.L. N&#xB0; 7.912, de 1927; Ley N&#xB0; 16.526, de 1966; decreto supremo de Educaci&#xF3;n N&#xB0; 9.555, de 1980; resoluci&#xF3;n N&#xB0; 1.050 de la Contralor&#xED;a General de la Rep&#xFA;blica, y en los art&#xED;culos 32, N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 22 del DTO 146 exento, Educaci&#xF3;n, publicado el 08.10.1988, modificado por el DTO 157 exento, Educaci&#xF3;n, publicado el 13.06.2000 que cambi&#xF3; la numeraci&#xF3;n del art&#xED;culo a 23, derog&#xF3; esta norma, a partir del a&#xF1;o escolar 1989.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

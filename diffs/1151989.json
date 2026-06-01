@@ -1,0 +1,50 @@
+[
+  {
+    "fecha": "2020-11-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-03-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10176680,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;: Podr&#xE1;n afiliarse al Servicio de Bienestar, quienes tengan la calidad de funcionarios de planta o a contrata, y aquellos que hayan jubilado siendo funcionarios de dicha Instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;: Tanto <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1157091&amp;idParte=10210210&amp;idVersion=2021-03-17\">Decreto 16 EXENTO,<br>TRABAJO<br>Art. &#xDA;NICO N&#xB0; 1<br>D.O. 17.03.2021</a></span>la afiliaci&#xF3;n como la desafiliaci&#xF3;n al Servicio de Bienestar ser&#xE1; de manera voluntaria y deber&#xE1; ser solicitada al Consejo Administrativo por escrito.</div><div class=\"p\">&nbsp; &nbsp;  Atendido lo anterior, podr&#xE1;n afiliarse aquellos funcionarios/as que pertenezcan al Servicio Local de Educaci&#xF3;n P&#xFA;blica Puerto Cordillera en calidad de planta, o a contrata en conformidad al DFL N&#xBA; 29 sobre el Estatuto Administrativo, al inciso segundo del art&#xED;culo 47&#xBA; de la Ley N&#xBA; 21.040 de 2017, a los funcionarios se&#xF1;alados en el art&#xED;culo 29&#xBA; de la Ley N&#xBA; 21.109 de 2018, ambos del Ministerio de Educaci&#xF3;n, y respecto de aquellos que hayan jubilado siendo funcionario/a de esta Instituci&#xF3;n P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        },
+        {
+          "part_id": 10176682,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;: La Administraci&#xF3;n del Servicio de Bienestar, le corresponder&#xE1; al Consejo Administrativo, el que estar&#xE1; integrado por:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a. El Director(a) Ejecutivo(a) del Servicio Local de Educaci&#xF3;n P&#xFA;blica Puerto Cordillera o la persona que &#xE9;ste(a) designe en su reemplazo, quien lo presidir&#xE1;;</div><div class=\"p\">&nbsp; &nbsp;  b. El Jefe(a) de Departamento Jur&#xED;dico o a quien &#xE9;ste(a) designe;</div><div class=\"p\">&nbsp; &nbsp;  c. El Subdirector(a) Unidad de Administraci&#xF3;n y Finanzas o a quien &#xE9;ste(a) designe;</div><div class=\"p\">&nbsp; &nbsp;  d. El Jefe(a) de Administraci&#xF3;n de Personal o a quien &#xE9;ste(a) designe, y</div><div class=\"p\">&nbsp; &nbsp;  e. Cuatro representantes de los afiliados, uno de los cuales ser&#xE1; designado, cuando proceda, por la Asociaci&#xF3;n de Funcionarios, con arreglo a lo dispuesto en el inciso tres del art&#xED;culo 18&#xB0; del Reglamento General, los tres restantes, ser&#xE1;n elegidos por los afiliados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  El Jefe del Servicio de Bienestar, actuar&#xE1; como Secretario del Consejo y solo tendr&#xE1; derecho a voz.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;: La Administraci&#xF3;n del Servicio de Bienestar, le corresponder&#xE1; al Consejo Administrativo, el que estar&#xE1; integrado por:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a. El Director(a) Ejecutivo(a) del Servicio Local de Educaci&#xF3;n P&#xFA;blica Puerto Cordillera o la persona que &#xE9;ste(a) designe en su reemplazo, quien lo presidir&#xE1;;</div><div class=\"p\">&nbsp; &nbsp;  b. El Jefe(a) de Departamento Jur&#xED;dico o a quien &#xE9;ste(a) designe;</div><div class=\"p\">&nbsp; &nbsp;  c. El <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1157091&amp;idParte=10210210&amp;idVersion=2021-03-17\">Decreto 16 EXENTO,<br>TRABAJO<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 17.03.2021</a></span>Jefe/a Unidad de Administraci&#xF3;n y Finanzas, o a quien &#xE9;ste designe;</div><div class=\"p\">&nbsp; &nbsp;  d. El <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1157091&amp;idParte=10210210&amp;idVersion=2021-03-17\">Decreto 16 EXENTO,<br>TRABAJO<br>Art. &#xDA;NICO N&#xB0; 3<br>D.O. 17.03.2021</a></span>Jefe/a Departamento de Gesti&#xF3;n y Desarrollo de Personas, o a quien &#xE9;ste designe;</div><div class=\"p\">&nbsp; &nbsp;  e. Cuatro representantes de los afiliados, uno de los cuales ser&#xE1; designado, cuando proceda, por la Asociaci&#xF3;n de Funcionarios, con arreglo a lo dispuesto en el inciso tres del art&#xED;culo 18&#xB0; del Reglamento General, los tres restantes, ser&#xE1;n elegidos por los afiliados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  El Jefe del Servicio de Bienestar, actuar&#xE1; como Secretario del Consejo y solo tendr&#xE1; derecho a voz.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1157091,
+      "fecha": "2021-03-17"
+    }
+  },
+  {
+    "fecha": "2022-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10176701,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19&#xB0;: El Servicio Local de Educaci&#xF3;n P&#xFA;blica Puerto Cordillera, podr&#xE1; financiar con cargo a sus propios recursos, y de acuerdo a su disponibilidad presupuestaria:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Administrar guarder&#xED;as escolares, casas de hu&#xE9;spedes, policl&#xED;nicos, refugios, casinos del personal, complejos deportivos, complejos recreativos, centros vacacionales, gimnasios, centros culturales, Salas y Salones que el Servicio Local de Educaci&#xF3;n P&#xFA;blica Puerto Cordillera adquiera a cualquier t&#xED;tulo, o que &#xE9;ste u otra instituci&#xF3;n le asigne para estos fines y que sea para beneficio de sus afiliados;</div><div class=\"p\">&nbsp; &nbsp;  b) Financiar eventos culturales, deportivos, recreativos, art&#xED;sticos y sociales que propendan el adecuado uso del tiempo libre de sus afiliados y cargas familiares;</div><div class=\"p\">&nbsp; &nbsp;  c) Patrocinar, asesorar y financiar cursos de desarrollo personal, actividades culturales y art&#xED;sticas.</div><div class=\"p\">&nbsp; &nbsp;  d) Organizar y financiar celebraciones de Navidad y la adquisici&#xF3;n de obsequios para sus afiliados e hijos cargas familiares hasta edades y montos que anualmente fije el Consejo Administrativo, y</div><div class=\"p\">&nbsp; &nbsp;  e) Organizar, promover y financiar actividades de est&#xED;mulo para sus afiliados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19&#xB0;: El Servicio Local de Educaci&#xF3;n P&#xFA;blica Puerto Cordillera, podr&#xE1; financiar con cargo a sus propios recursos, y de acuerdo a su disponibilidad presupuestaria:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Administrar guarder&#xED;as escolares, casas de hu&#xE9;spedes, policl&#xED;nicos, refugios, casinos del personal, complejos deportivos, complejos recreativos, centros vacacionales, gimnasios, centros culturales, Salas y Salones que el Servicio Local de Educaci&#xF3;n P&#xFA;blica Puerto Cordillera adquiera a cualquier t&#xED;tulo, o que &#xE9;ste u otra instituci&#xF3;n le asigne para estos fines y que sea para beneficio de sus afiliados;</div><div class=\"p\">&nbsp; &nbsp;  b) Financiar eventos culturales, deportivos, recreativos, art&#xED;sticos y sociales que propendan el adecuado uso del tiempo libre de sus afiliados y cargas familiares;</div><div class=\"p\">&nbsp; &nbsp;  c) Patrocinar, asesorar y financiar cursos de desarrollo personal, actividades culturales y art&#xED;sticas.</div><div class=\"p\">&nbsp; &nbsp;  d) Organizar y financiar celebraciones de Navidad y la adquisici&#xF3;n de obsequios para sus afiliados e hijos cargas familiares hasta edades y montos que anualmente fije el Consejo Administrativo, y</div><div class=\"p\">&nbsp; &nbsp;  e) <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1178185&amp;idParte=10346099&amp;idVersion=2022-07-02\">Decreto 56 EXENTO,<br>TRABAJO<br>Art. &#xFA;nico N&#xB0; 1)<br>D.O. 02.07.2022</a></span>Organizar, promover y financiar actividades de beneficios facultativos actividades vacacionales, celebraci&#xF3;n a&#xF1;o nuevo, d&#xED;a de la secretaria, d&#xED;a del padre, d&#xED;a de la madre, d&#xED;a del ni&#xF1;o, d&#xED;a internacional de la mujer, aniversario de la instituci&#xF3;n y aniversario del Servicio de Bienestar.</div><div class=\"p\">&nbsp; &nbsp;  f)<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1178185&amp;idParte=10346099&amp;idVersion=2022-07-02\">Decreto 56 EXENTO,<br>TRABAJO<br>Art. &#xFA;nico N&#xB0; 2)<br>D.O. 02.07.2022</a></span> Beneficios Septiembre y Diciembre: Anualmente el Consejo Administrativo del Servicio de Bienestar dispondr&#xE1; la entrega de un aporte en dinero o especie por afiliado en el mes de septiembre y diciembre respectivamente, su valor estar&#xE1; determinado por la disponibilidad presupuestaria.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1178185,
+      "fecha": "2022-07-02"
+    }
+  }
+]

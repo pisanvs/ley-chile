@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-11-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-06-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7133373,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DE LOS FUNCIONARIOS DEL SERVICIO NACIONAL DE ADUANAS N&#xFA;m. 40.- Santiago, Febrero 7 de 1995.- Vistos: lo dispuesto en las Leyes N&#xB0;s. 11.764, art&#xED;culo 134;</div><div class=\"p\">17.538, art&#xED;culo &#xFA;nico; 16.395, art&#xED;culo 24 y 18.469; en el D.S. N&#xB0; 28 de 1994 del Ministerio del Trabajo y Previsi&#xF3;n Social, y la facultad que me confiere el art&#xED;culo 32 N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DE LOS FUNCIONARIOS DEL SERVICIO NACIONAL DE ADUANAS </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 40.- Santiago, Febrero 7 de 1995.- Vistos: lo dispuesto en las Leyes N&#xB0;s. 11.764, art&#xED;culo 134;</div><div class=\"p\">17.538, art&#xED;culo &#xFA;nico; 16.395, art&#xED;culo 24 y 18.469; en el D.S. N&#xB0; 28 de 1994 del Ministerio del Trabajo y Previsi&#xF3;n Social, y la facultad que me confiere el art&#xED;culo 32 N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

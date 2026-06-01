@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-03-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7293474,
+          "old": "<div><div class=\"p\">ESTABLECE NORMAS TECNICO - ADMINISTRATIVAS PARA LA APLICACION DEL ARANCEL DEL REGIMEN DE PRESTACIONES DE SALUD DE LA LEY No. 18.469 EN LA MODALIDAD DE LIBRE ELECCION </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 202 exenta.- Santiago, 26 de Febrero de 1988.- Visto: Lo establecido en el art&#xED;culo 13&#xB0; de la Ley No.</div><div class=\"p\">18.469; en la letra b) del art&#xED;culo 4&#xB0; y en el inciso segundo del art&#xED;culo 6&#xB0; del decreto ley No. 2.763, de 1979; lo dispuesto en la resoluci&#xF3;n No. 1.716 de Diciembre de 1985, del Ministerio de Salud y Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, que aprob&#xF3; el Arancel del R&#xE9;gimen de Prestaciones de Salud, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE NORMAS TECNICO - ADMINISTRATIVAS PARA LA APLICACION DEL ARANCEL DEL REGIMEN DE PRESTACIONES DE SALUD DE LA LEY No. 18.469 EN LA MODALIDAD DE LIBRE ELECCION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 202 exenta.- Santiago, 26 de Febrero de 1988.- Visto: Lo establecido en el art&#xED;culo 13&#xB0; de la Ley No. 18.469; en la letra b) del art&#xED;culo 4&#xB0; y en el inciso segundo del art&#xED;culo 6&#xB0; del decreto ley No. 2.763, de 1979; lo dispuesto en la resoluci&#xF3;n No. 1.716 de Diciembre de 1985, del Ministerio de Salud y Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, que aprob&#xF3; el Arancel del R&#xE9;gimen de Prestaciones de Salud, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

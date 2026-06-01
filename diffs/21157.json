@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-09-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7161783,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO N&#xB0; 400 EXENTO, DE 1995 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xB0; 400 EXENTO, DE 1995</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

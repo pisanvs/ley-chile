@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1993-08-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-06-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8934523,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO EXENTO N&#xB0;272, DE 1993 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO EXENTO N&#xB0;272, DE 1993 </div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2008-04-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

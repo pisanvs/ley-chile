@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-07-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8339238,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA. DENIEGA AUTORIZACION QUE SE&#xD1;ALA. DECLARA CADUCIDAD DE RESOLUCION QUE MENCIONA </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA. DENIEGA AUTORIZACION QUE SE&#xD1;ALA. DECLARA CADUCIDAD DE RESOLUCION QUE MENCIONA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-05-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-07-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7329988,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- La municipalidad podr&#xE1; dar facilidades de pago a aquellos contribuyentes y usuarios que se encuentren en mora en el pago de las prestaciones establecidas en el art&#xED;culo 1&#xBA; de esta ordenanza, salvo que se trate de permisos de circulaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Al momento de suscribir el convenio de pago se calcular&#xE1; el monto total adeudado, incluyendo reajustes e intereses. Las deudas superiores a 0,5 U.T.M. se podr&#xE1;n dividir hasta en doce cuotas mensuales a aquellos contribuyentes que lo soliciten fundadamente y que est&#xE9;n imposibilitados de pagarlos al contado. Sobre el saldo insoluto, despu&#xE9;s del abono del art&#xED;culo 8, se cobrar&#xE1; el inter&#xE9;s compuesto del 1,5% mensual.</div><div class=\"p\">&nbsp; &nbsp;  La celebraci&#xF3;n de un convenio constituye novaci&#xF3;n de la obligaci&#xF3;n originalmente adeudada, por lo que el contribuyente queda facultado para pagar en su oportunidad legal las contribuciones, patentes, permisos y derechos que devenguen durante el plazo de vigencia del convenio. Esto &#xFA;ltimo no obsta el derecho del alcalde para declarar la clausura del negocio o establecimiento que estuviere en mora del pago de las patentes y que, acogido a convenio tampoco cumpla con esta obligaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- La Municipalidad podr&#xE1; dar<span class=\"n\" id=\"n_0\">DTO 1919,<br>M. DE VILLA ALEMANA<br>D.O. 13.07.2007</span> facilidades de pago a aquellos contribuyentes y usuarios que se encuentren en mora en el pago de las prestaciones establecidas en el art&#xED;culo 1&#xBA; de esta Ordenanza, salvo que se trate de permisos de circulaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Al momento de suscribir el convenio de pago se calcular&#xE1; el monto total adeudado, incluyendo reajustes e intereses. Las deudas superiores a 0,5 UTM se podr&#xE1;n dividir en 12 cuotas mensuales a aquellos contribuyentes que lo soliciten fundadamente, y que est&#xE9;n imposibilitados de pagarlos al contado. Sobre el saldo insoluto, despu&#xE9;s del abono del art&#xED;culo 8&#xBA;, se cobrar&#xE1; el inter&#xE9;s penal establecido en el C&#xF3;digo Tributario.</div><br><div class=\"p\">&nbsp; &nbsp;  Los contribuyentes que mantengan convenio de pago vigente, que lo est&#xE9;n sirviendo regularmente, y que adicionalmente tengan otra deuda, por alg&#xFA;n derecho o impuesto cuya cobranza est&#xE9; regida por esta Ordenanza y cuyo monto sea igual o superior a 20 UTM, podr&#xE1;n solicitar otro convenio de pago, por esta deuda, debiendo cancelar al contado, a lo menos, la mitad del porcentaje indicado en el art. 8 de la respectiva deuda actualizada.</div><br><div class=\"p\">&nbsp; &nbsp;  El incumplimiento del convenio, autoriza al municipio para cobrar el saldo insoluto ejecutivamente, sin perjuicio de las dem&#xE1;s facultades legales del Alcalde.</div><br><div class=\"p\">&nbsp; &nbsp;  Mientras el contribuyente se encuentre dando cumplimiento al convenio, podr&#xE1; pagar las deudas que se devenguen con posterioridad a la suscripci&#xF3;n del convenio.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

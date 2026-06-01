@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8324367,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA ATACAMA S.A. PARA AMPLIAR ACTIVIDADES. DECLARA CADUCIDAD DE AUTORIZACIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA ATACAMA S.A. PARA AMPLIAR ACTIVIDADES. DECLARA CADUCIDAD DE AUTORIZACIONES QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

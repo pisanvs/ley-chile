@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-10-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7255223,
+          "old": "<div><div class=\"p\">ESTABLECE LISTA DE REQUERIMIENTOS MINIMOS</div><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE LISTA DE REQUERIMIENTOS MINIMOS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

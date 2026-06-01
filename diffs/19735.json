@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-04-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5939754,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO NUMERO 25 EXENTO, DE 1996 </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO NUMERO 25 EXENTO, DE 1996 </div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

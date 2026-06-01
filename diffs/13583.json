@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-04-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040384,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO SOBRE CONDICIONES SANITARIAS MINIMAS DE LOS ESTABLECIMIENTOS EDUCACIONALES Santiago, 28 de Diciembre de 1983.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 462.- Visto: Lo dispuesto en los art&#xED;culos 67 y 77, letra d), del decreto con fuerza de ley N&#xB0; 725 de 1968, del Ministerio de Salud, que aprob&#xF3; el C&#xF3;digo Sanitario;</div><div class=\"p\">&nbsp; &nbsp; Considerando: La necesidad de uniformar las acciones que los Servicios de Salud realizan en el control de las condiciones sanitarias que deben cumplir los establecimientos educacionales; y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente las facultades que me confiere el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado, Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento sobre condiciones sanitarias m&#xED;nimas de los establecimientos educacionales:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO SOBRE CONDICIONES SANITARIAS MINIMAS DE LOS ESTABLECIMIENTOS EDUCACIONALES D E R O G A D O .-<span class=\"n\" id=\"n_0\">DS 289<br>Salud<br>1989</span></div><div class=\"p\">&nbsp; &nbsp; Santiago, 28 de Diciembre de 1983.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 462.- Visto: Lo dispuesto en los art&#xED;culos 67 y<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1.-</a></div> 77, letra d), del decreto con fuerza de ley N&#xB0; 725 de 1968, del Ministerio de Salud, que aprob&#xF3; el C&#xF3;digo Sanitario;</div><div class=\"p\">&nbsp; &nbsp; Considerando: La necesidad de uniformar las acciones que los Servicios de Salud realizan en el control de las condiciones sanitarias que deben cumplir los establecimientos educacionales; y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente las facultades que me confiere el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado, Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento sobre condiciones sanitarias m&#xED;nimas de los establecimientos educacionales:</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1.-</a> <br>&nbsp; &nbsp;  El presente decreto fue derogado por el D.S. 289, del Ministerio de Salud, publicado en el &quot;Diario Oficial&quot; de 13 de noviembre de 1989, que aprueba el nuevo reglamento sobre condiciones sanitarias m&#xED;nimas de los establecimientos educacionales.<br>&nbsp;  El texto de este reglamento se encuentra en la Base de Datos de Textos Originales (BDTO).<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-11-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6357857,
+          "old": "<div><div class=\"p\">ESTABLECE ORDEN DE SUBROGACION DEL DIRECTOR NACIONAL DE TURISMO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 349.- Santiago, 28 de septiembre de 2001.- Visto: Los art&#xED;culos 7&#xBA; y 75&#xBA; letra a) de la ley N&#xBA;18.834, decreto ley N&#xBA;1.224 de 1975; el decreto supremo N&#xBA;515, de 1977, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n y la resoluci&#xF3;n N&#xBA;520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- La necesidad de proceder a la subrogancia del Director Nacional de Turismo para el caso de ausencia o impedimento de ejercicio del cargo por el titular.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- El oficio Ord. N&#xBA;302/5 de 13 de septiembre de 2001, del Servicio Nacional de Turismo.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE ORDEN DE SUBROGACION DEL DIRECTOR NACIONAL DE TURISMO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 349.- Santiago, 28 de septiembre de 2001.- Visto: Los art&#xED;culos 7&#xBA; y 75&#xBA; letra a) de la ley N&#xBA;18.834, decreto ley N&#xBA;1.224 de 1975; el decreto supremo N&#xBA;515, de 1977, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n y la resoluci&#xF3;n N&#xBA;520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- La necesidad de proceder a la subrogancia del Director Nacional de Turismo para el caso de ausencia o impedimento de ejercicio del cargo por el titular.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- El oficio Ord. N&#xBA;302/5 de 13 de septiembre de 2001, del Servicio Nacional de Turismo.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

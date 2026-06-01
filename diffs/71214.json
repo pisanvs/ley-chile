@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1997-05-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6035735,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; El presente Decreto se publicar&#xE1; en el Diario Oficial. El texto &#xED;ntegro de la norma ser&#xE1; publicado en documentos oficiales del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp;  A contar de la fecha de publicaci&#xF3;n de este Decreto en el Diario Oficial, la norma individualizada en el Art&#xED;culo 1&#xBA;, se denominar&#xE1; como sigue:</div><br><br><div class=\"p\">NCh2313/6.Of.97&nbsp; : Aguas residuales - M&#xE9;todos de an&#xE1;lisis - Parte</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  6: Determinaci&#xF3;n de aceites y grasas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; El presente Decreto se publicar&#xE1; en el Diario Oficial. El texto &#xED;ntegro de la norma ser&#xE1; publicado en documentos oficiales del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp;  A contar de la fecha de publicaci&#xF3;n de este Decreto en el Diario Oficial, la norma individualizada en el Art&#xED;culo 1&#xBA;, se denominar&#xE1; como sigue:</div><br><br><div class=\"p\">NCh2313/6.Of.97&nbsp; : DEROGA<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1087066&amp;idParte=9668883&amp;idVersion=2016-01-28\">Decreto 7,<br>OBRAS P&#xDA;BLICAS<br>Art. 2<br>D.O. 28.01.2016</a></span>DA.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1087066,
+      "fecha": "2016-01-28"
+    }
+  }
+]

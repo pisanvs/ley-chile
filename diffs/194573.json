@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-02-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-12-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6369017,
+          "old": "<div><div class=\"p\">EXTRACTO DECRETO N&#xBA; 912 EXENTO, DE 2001 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DECRETO N&#xBA; 912 EXENTO, DE 2001</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

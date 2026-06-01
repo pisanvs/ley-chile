@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-11-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8357699,
+          "old": "<div><div class=\"p\"> PRORROGA PLAZO ESTABLECIDO EN EL NUMERAL 6 DE LA RESOLUCION N&#xB0; 144, DE 1986 </div></div>",
+          "new": "<div><div class=\"p\">PRORROGA PLAZO ESTABLECIDO EN EL NUMERAL 6 DE LA RESOLUCION N&#xB0; 144, DE 1986</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

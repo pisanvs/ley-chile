@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-05-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-09-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8964185,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Autor&#xED;zase la circulaci&#xF3;n durante los d&#xED;as S&#xE1;bados, Domingos y festivos del veh&#xED;culo que se se&#xF1;ala a continuaci&#xF3;n, asignado a la Oficina de Relaciones P&#xFA;blicas y Difusi&#xF3;n de la Repartici&#xF3;n ya indicada para el transporte de expertos:</div><br><div class=\"p\">&nbsp; &nbsp;  Marca : Toyota HI-ACE Modelo : YH60LV-JRB</div><div class=\"p\">&nbsp; &nbsp;  A&#xF1;o : 1985 Motor : 2Y-0189125 Rol DAE : 19556 Patente &#xFA;nica : CA-3043-4 Color: Azul Reg. Nac. de veh&#xED;c. Mol. : En tr&#xE1;mite </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- DEROGADO<span class=\"n\" id=\"n_0\">DTO 198 EXENTO,<br>MINERIA<br>Art. 3&#xBA;<br>D.O. 03.09.1996</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

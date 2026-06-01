@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-10-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-10-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8790609,
+          "old": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xB0; 5.220 EXENTA, DE 2009</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1007325&amp;idParte=8791106&amp;idVersion=2009-10-21\">Rectificaci&#xF3;n 63<br>D.O. 21.10.2009</a></span></div><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xB0; 5.220 EXENTA, DE 2009</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1007325,
+      "fecha": "2009-10-21"
+    }
+  }
+]

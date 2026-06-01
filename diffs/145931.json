@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-03-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-04-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8352215,
+          "old": "<div><div class=\"p\">AUTORIZA A CORPORACION EXPLOTADORA DE RECURSOS MARINOS MARHEAS LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A CORPORACION EXPLOTADORA DE RECURSOS MARINOS MARHEAS LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

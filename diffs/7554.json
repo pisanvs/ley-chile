@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-02-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-05-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8536195,
+          "old": "<div><div class=\"p\">DECLARA OFICIALES MODIFICACION Y NORMAS QUE INDICA, APROBADAS POR EL INSTITUTO NACIONAL DE NORMALIZACION </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 15.- Santiago, 11 de Enero de 1985.- Visto: Estos antecedentes; los oficios N&#xB0;s. 7031-400, 7032-400 y 7033-400, de 05 de Diciembre de 1984, del Instituto Nacional de Normalizaci&#xF3;n; lo dispuesto en los art&#xED;culos 6&#xB0; y 14&#xB0;, del DFL de Miner&#xED;a N&#xB0; 1, de 1978, y en el art&#xED;culo 20 del decreto ley N&#xB0; 3.001 de 1979, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA OFICIALES MODIFICACION Y NORMAS QUE INDICA, APROBADAS POR EL INSTITUTO NACIONAL DE NORMALIZACION </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 15.- Santiago, 11 de Enero de 1985.- Visto: Estos antecedentes; los oficios N&#xB0;s. 7031-400, 7032-400 y 7033-400, de 05 de Diciembre de 1984, del Instituto Nacional de Normalizaci&#xF3;n; lo dispuesto en los art&#xED;culos 6&#xB0; y 14&#xB0;, del DFL de Miner&#xED;a N&#xB0; 1, de 1978, y en el art&#xED;culo 20 del decreto ley N&#xB0; 3.001 de 1979, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

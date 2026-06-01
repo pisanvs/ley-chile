@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1980-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9050907,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.-&nbsp; Recon&#xF3;cese, por gracia, a don Edmundo Jara Villalobos, para todos los efectos legales y en especial para su jubilaci&#xF3;n el per&#xED;odo comprendido entre el 16 de Mayo de 1959 y el 5 de Febrero de 1961.</div><br><div class=\"p\">&nbsp; &nbsp;  Las imposiciones correspondientes a dicho per&#xED;odo ser&#xE1;n de cargo del interesado y la Caja Nacional de Empleados P&#xFA;blicos y Periodistas proceder&#xE1; a recibirlas. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.-&nbsp; Recon&#xF3;cese, por gracia, a don<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Edmundo Jara Villalobos, para todos los efectos legales y en especial para su jubilaci&#xF3;n el per&#xED;odo comprendido entre el 16 de Mayo de 1959 y el 5 de Febrero de 1961.</div><br><div class=\"p\">&nbsp; &nbsp;  Las imposiciones correspondientes a dicho per&#xED;odo ser&#xE1;n de cargo del interesado y la Caja Nacional de Empleados P&#xFA;blicos y Periodistas proceder&#xE1; a recibirlas.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico del DL 3595, Interior, publicado el 20.01.1981, modific&#xF3; el presente decreto ley, en el sentido que el per&#xED;odo que se reconoce, es el comprendido entre el 16 de Mayo de 1959 y el 5 de Febrero de 1962.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2000-11-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-12-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6308297,
+          "old": "<div><div class=\"p\">NOMBRA MINISTRO DE DEFENSA NACIONAL SUBROGANTE AL MINISTRO DEL INTERIOR DON JOSE MIGUEL INSULZA SALINAS </div><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xFA;m. 94.- Santiago, 13 de octubre de 2000.- Vistos:</div><br><div class=\"p\">a)&nbsp;  Los art&#xED;culos N&#xBA;s. 32 N&#xBA; 9 y 34 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile;</div><div class=\"p\">b)&nbsp;  El Memor&#xE1;ndum Gabinete MDN. N&#xBA; 6070/900, de 13 de octubre de 2000; y</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Considerando: Que el titular de la Cartera de Defensa Nacional cumplir&#xE1; una comisi&#xF3;n de servicio a Brasil,</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">NOMBRA MINISTRO DE DEFENSA NACIONAL SUBROGANTE AL MINISTRO DEL INTERIOR DON JOSE MIGUEL INSULZA SALINAS </div><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xFA;m. 94.- Santiago, 13 de octubre de 2000.- Vistos:</div><br><div class=\"p\">a)&nbsp;  Los art&#xED;culos N&#xBA;s. 32 N&#xBA; 9 y 34 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile;</div><div class=\"p\">b)&nbsp;  El Memor&#xE1;ndum Gabinete MDN. N&#xBA; 6070/900, de 13 de octubre de 2000; y</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Considerando: Que el titular de la Cartera de Defensa Nacional cumplir&#xE1; una comisi&#xF3;n de servicio a Brasil,</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; D e c r e t o:</div><br><br></div>"
+        },
+        {
+          "part_id": 6308298,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xF3;mbrase Ministro de Defensa Nacional Subrogante al Ministro del Interior don Jos&#xE9; Miguel Insulza Salinas, desde el 16 al 19 de octubre de 2000. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xF3;mbrase Ministro de Defensa Nacional Subrogante<span class=\"n\" id=\"n_0\">DTO 100, DEFENSA<br>D.O. 21.12.2000</span> al Ministro del Interior don Jos&#xE9; Miguel Insulza Salinas, desde el 16 al 18 de octubre de 2000.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2012-07-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-12-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9273520,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;quese la <a href=\"https://www.leychile.cl/Navegar?idNorma=1021626&amp;idParte=0&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 1.436, de fecha 22 de diciembre de 2010</a>, de la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo de la Regi&#xF3;n del Biob&#xED;o, que dispone llamado extraordinario a postulaci&#xF3;n al Programa de Protecci&#xF3;n del Patrimonio Familiar reglamentado por el decreto supremo N&#xBA; 255 (V. y U.), de 2006, en el siguiente sentido:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase la postulaci&#xF3;n de proyectos del T&#xED;tulo I del DS N&#xBA; 255 (V. y U.), de 2006, adem&#xE1;s de los proyectos del T&#xED;tulo II, al llamado extraordinario regulado por resoluci&#xF3;n exenta N&#xBA; 1.436, de la Secretar&#xED;a Regional Ministerial Regi&#xF3;n del Biob&#xED;o, que se modifica.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- El plazo para postular a este llamado extraordinario de los T&#xED;tulos I y II del DS N&#xBA; 255/2006 (V. y U.), ser&#xE1; de 90 d&#xED;as corridos, contados a partir de la publicaci&#xF3;n de la presente resoluci&#xF3;n exenta en el Diario Oficial.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;quese la resoluci&#xF3;n exenta N&#xBA; 1.436, de fecha 22 de diciembre de 2010, de la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo de la Regi&#xF3;n del Biob&#xED;o, que dispone llamado extraordinario a postulaci&#xF3;n al Programa de Protecci&#xF3;n del Patrimonio Familiar reglamentado por el decreto supremo N&#xBA; 255 (V. y U.), de 2006, en el siguiente sentido:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase la postulaci&#xF3;n de proyectos del T&#xED;tulo I del DS N&#xBA; 255 (V. y U.), de 2006, adem&#xE1;s de los proyectos del T&#xED;tulo II, al llamado extraordinario regulado por resoluci&#xF3;n exenta N&#xBA; 1.436, de la Secretar&#xED;a Regional Ministerial Regi&#xF3;n del Biob&#xED;o, que se modifica.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- El plazo para <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> postular a este llamado extraordinario de los T&#xED;tulos I y II del DS N&#xBA; 255/2006 (V. y U.), ser&#xE1; de 90 d&#xED;as corridos, contados a partir de la publicaci&#xF3;n de la presente resoluci&#xF3;n exenta en el Diario Oficial.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1.1 de la Resoluci&#xF3;n 2119 Exenta, Vivienda, publicada el 28.12.2012, modifica la presente norma en el sentido de fijar un plazo de 90 d&#xED;as corridos, para la postulaci&#xF3;n al llamado extraordinario de los T&#xED;tulos I y II del Decreto 255 (V. y U.) de 2006.</div></div>"
+        }
+      ]
+    }
+  }
+]

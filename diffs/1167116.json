@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2021-10-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-05-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10279755,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Las disposiciones del presente reglamento comenzar&#xE1;n a regir a contar de la fecha de su publicaci&#xF3;n en el Diario Oficial, salvo respecto de las normas que se se&#xF1;alan en los incisos siguientes.</div><div class=\"p\">&nbsp; &nbsp;  Las disposiciones relativas a los datos e informaci&#xF3;n contenidas en los literales B, C y G del art&#xED;culo 3&#xBA;, comenzar&#xE1;n a regir en el plazo de 2 meses contado desde la entrada en vigor de este reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Las disposiciones contenidas en los literales E y F del art&#xED;culo 3&#xBA; comenzar&#xE1;n a regir en el plazo de 7 meses contado desde la entrada en vigor de este reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Las disposiciones contenidas en los literales H e I del art&#xED;culo 3&#xBA; comenzar&#xE1;n a regir en el plazo de 13 meses contado desde la entrada en vigor de este reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Las disposiciones contenidas en los literales J y K del art&#xED;culo 3&#xBA; comenzar&#xE1;n a regir en el plazo de 20 meses contado desde la entrada en vigor de este reglamento.</div><div class=\"p\">&nbsp; &nbsp;  La disposici&#xF3;n relativa a datos e informaci&#xF3;n contenida en el literal A del art&#xED;culo 4&#xBA; comenzar&#xE1; a regir en el plazo de 13 meses contado desde la entrada en vigor de este reglamento.</div><div class=\"p\">&nbsp; &nbsp;  La disposici&#xF3;n relativa a datos e informaci&#xF3;n contenida en el literal B del art&#xED;culo 4&#xBA; comenzar&#xE1; a regir en el plazo de 9 meses contado desde la entrada en vigor de este reglamento.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Las disposiciones del presente reglamento comenzar&#xE1;n a regir a contar de la fecha de su publicaci&#xF3;n en el Diario Oficial, salvo respecto de las normas que se se&#xF1;alan en los incisos siguientes.</div><div class=\"p\">&nbsp; &nbsp;  Las disposiciones relativas a los datos e informaci&#xF3;n contenidas en los literales B, C y G del art&#xED;culo 3&#xBA;, comenzar&#xE1;n a regir en el plazo de 2 meses contado desde la entrada en vigor de este reglamento. Sin <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1176706&amp;idParte=10337727&amp;idVersion=2022-05-31\">Decreto 39, TRABAJO<br>Art. &#xFA;nico N&#xB0; 1 y 2<br>D.O. 31.05.2022</a></span>perjuicio de lo cual, su obligatoriedad se suspender&#xE1; por el plazo de 18 meses desde esa vigencia.</div><div class=\"p\">&nbsp; &nbsp;  Las disposiciones contenidas en los literales E; F; H; I; J y K del art&#xED;culo 3&#xBA; y las del art&#xED;culo 4&#xBA; comenzar&#xE1;n a regir en el plazo de 20 meses contado desde su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1176706,
+      "fecha": "2022-05-31"
+    }
+  },
+  {
+    "fecha": "2023-06-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1989-01-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-08-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8286126,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- El patrimonio inicial de la sociedad an&#xF3;nima mencionada que se determine por el decreto supremo a que se refiere el inciso primero del art&#xED;culo 3&#xB0;, ser&#xE1; transferido de pleno derecho en proporci&#xF3;n del 1% para el Fisco y del 99% para la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n. En la misma proporci&#xF3;n se traspasar&#xE1;n al Fisco y a la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, las diferencias que resulten de la aplicaci&#xF3;n del inciso segundo del art&#xED;culo 3&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; La Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, deber&#xE1; mantener permanentemente la propiedad de, a lo menos, el 65% de las acciones que conforman el capital de la sociedad an&#xF3;nima que se constituye, las que no podr&#xE1;n enajenarse.</div><div class=\"p\">&nbsp; &nbsp; En caso de que se propongan aumentos de capital, la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n s&#xF3;lo podr&#xE1; votar a favor de dicha proposici&#xF3;n, si cuenta con los recursos necesarios para suscribir las cantidades requeridas que le aseguren la mantenci&#xF3;n de, a lo menos, un 65% del capital accionario.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- El patrimonio inicial de la sociedad an&#xF3;nima mencionada que se determine por el decreto supremo a que se refiere el inciso primero del art&#xED;culo 3&#xB0;, ser&#xE1; transferido de pleno derecho en proporci&#xF3;n del 1% para el Fisco y del 99% para la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n. En la misma proporci&#xF3;n se traspasar&#xE1;n al Fisco y a la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, las diferencias que resulten de la aplicaci&#xF3;n del inciso segundo del art&#xED;culo 3&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; Incisos segundo y tercero derogados.<span class=\"n\" id=\"n_0\">LEY 19319<br>art. 1&#xB0;</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1994-08-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

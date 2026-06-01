@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-10-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-12-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9376731,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;base la 3&#xAA; n&#xF3;mina de Beneficiarios del Llamado para el desarrollo de proyectos del programa &quot;Acondicionamiento T&#xE9;rmico del Pol&#xED;gono Javiera Carrera&quot;, de la comuna de Temuco, Regi&#xF3;n de la Araucan&#xED;a, mes de agosto de 2013, que se detalla a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/34973.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Publ&#xED;quese en un peri&#xF3;dico de circulaci&#xF3;n regional un aviso que indique el lugar y fecha en que ser&#xE1;n publicadas las n&#xF3;minas de los postulantes seleccionados y los respectivos proyectos, conforme al n&#xFA;mero 1. de esta resoluci&#xF3;n, el nombre de cada postulante con su respectiva c&#xE9;dula de identidad.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;base la 3&#xAA; n&#xF3;mina de Beneficiarios <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1057643&amp;idParte=9394628&amp;idVersion=2013-12-28\">Resoluci&#xF3;n 1670 EXENTA,<br>VIVIENDA<br>N&#xB0; 1 y 2<br>D.O. 28.12.2013</a></span>del Llamado para el desarrollo de proyectos del programa &quot;Acondicionamiento T&#xE9;rmico del Pol&#xED;gono Javiera Carrera&quot;, de la comuna de Temuco, Regi&#xF3;n de la Araucan&#xED;a, mes de septiembre de 2013, que se detalla a continuaci&#xF3;n:</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/36393.jpg\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Publ&#xED;quese en un peri&#xF3;dico de circulaci&#xF3;n regional un aviso que indique el lugar y fecha en que ser&#xE1;n publicadas las n&#xF3;minas de los postulantes seleccionados y los respectivos proyectos, conforme al n&#xFA;mero 1. de esta resoluci&#xF3;n, el nombre de cada postulante con su respectiva c&#xE9;dula de identidad.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1057643,
+      "fecha": "2013-12-28"
+    }
+  }
+]

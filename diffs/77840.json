@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-11-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8952864,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Las modificaciones al D.S. N&#xBA; 62 (V. y U.), de 1984, que se contienen en el presente decreto, regir&#xE1;n a partir de la fecha de su publicaci&#xF3;n en el Diario Oficial y no se aplicar&#xE1;n a los &quot;Certificados de Subsidio para la Vivienda Social&quot; emitidos con anterioridad a esa fecha.</div><div class=\"p\">&nbsp; &nbsp;  En todo caso, a los anticipos a cuenta de los certificados de subsidio a que se refiere el inciso anterior, que se autoricen a partir de la fecha de publicaci&#xF3;n del presente decreto, se aplicar&#xE1;n las normas del art&#xED;culo 49 del D.S. N&#xBA; 62 (V. y U.), de 1984, en su texto sustituido por el presente decreto, y el SERVIU no podr&#xE1; autorizar el giro de dichos anticipos en tanto el beneficiario no acredite la contrataci&#xF3;n del correspondiente prestador de servicios de asistencia t&#xE9;cnica, a que se refiere el inciso tercero del mismo precepto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Las modificaciones al D.S. N&#xBA; 62 (V. y U.), de 1984, que se contienen en el presente decreto, regir&#xE1;n a partir de la fecha de su publicaci&#xF3;n en el Diario Oficial y no se aplicar&#xE1;n a los &quot;Certificados de Subsidio para la Vivienda Social&quot; emitidos con anterioridad a esa fecha. En todo caso, a los anticipos a cuenta de los certificados de subsidio a que se refiere el inciso anterior, que se autoricen a partir de la fecha de publicaci&#xF3;n del presente decreto, se aplicar&#xE1;n las normas del art&#xED;culo 49 del D.S. N&#xBA; 62 (V. y U.), de 1984, en su texto sustituido por el presente decreto, y el SERVIU no podr&#xE1; autorizar el giro de dichos anticipos en tanto el beneficiario no acredite la contrataci&#xF3;n del correspondiente prestador de servicios de asistencia t&#xE9;cnica, a que se refiere el inciso tercero del mismo precepto. No obstante lo dispuesto en el inciso anterior,<span class=\"n\" id=\"n_0\">DTO 5, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 09.02.1999</span> trat&#xE1;ndose de contratos de construcci&#xF3;n celebrados entre el beneficiario y el constructor con anterioridad al 13 de agosto de 1997, fecha de publicaci&#xF3;n del D.S. N&#xBA; 63 (V. y U.), de 1997, que cre&#xF3; el Registro Nacional de Constructores de Viviendas Sociales, Modalidad Privada, del Ministerio de Vivienda y Urbanismo, los Serviu podr&#xE1;n otorgar los anticipos a cuenta de los certificados de subsidio a que se refiere el art&#xED;culo 49 del D.S. N&#xBA; 62 (V. y U.), de 1984, sin exigir el cumplimiento del requisito de inscripci&#xF3;n en el mencionado Registro. </div></div>"
+        }
+      ]
+    }
+  }
+]

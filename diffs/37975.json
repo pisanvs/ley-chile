@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1994-11-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6019666,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Aum&#xE9;ntase la frecuencia m&#xED;nima de veh&#xED;culos/hora que deber&#xE1;n ofrecer por sentido los servicios urbanos de locomoci&#xF3;n colectiva, en las ciudades que m&#xE1;s adelante se indican de la VII Regi&#xF3;n, en el per&#xED;odo de 7:00 a 9:00 Hrs., a excepci&#xF3;n de los d&#xED;as, s&#xE1;bados, domingos y festivos:</div><div class=\"p\"> Curic&#xF3; y Talca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : 10</div><div class=\"p\"> Linares&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 08</div><div class=\"p\"> Constituci&#xF3;n y Cauquenes : 06</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a contar de su publicaci&#xF3;n en el Diario Oficial. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1195183&amp;idParte=10450571&amp;idVersion=2023-08-18\">Resoluci&#xF3;n 439 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 18.08.2023</a></span>Aum&#xE9;ntase la frecuencia m&#xED;nima de veh&#xED;culo/hora que deber&#xE1;n ofrecer por sentido los servicios urbanos de locomoci&#xF3;n colectiva, en las ciudades que m&#xE1;s adelante se indican de la Regi&#xF3;n del Maule, en los periodos de 7:00 a 9:00 hrs. y de 17:00 a 19:00 hrs., de lunes a viernes, excepto festivos:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/169315.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a contar de su publicaci&#xF3;n en el Diario Oficial. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1195183,
+      "fecha": "2023-08-18"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-10-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7304200,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Del&#xE9;gase en los Secretarios Regionales Ministeriales de Educaci&#xF3;n de todo el pa&#xED;s, en el marco de ejecuci&#xF3;n del Programa Inform&#xE1;tica Educativa en Escuelas y Liceos, la facultad para suscribir con personas naturales o jur&#xED;dicas convenios y contratos y aprobarlos administrativamente, hasta por un monto m&#xE1;ximo de 600 Unidades Tributarias Mensuales. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Del&#xE9;gase en los Secretarios Regionales Ministeriales de Educaci&#xF3;n de todo el pa&#xED;s,&nbsp; &nbsp;  EDUCACION en el marco de ejecuci&#xF3;n del Programa Inform&#xE1;tica Educativa en Escuelas y Liceos, la facultad para suscribir con personas naturales o jur&#xED;dicas convenios y contratos y aprobarlos administrativamente, hasta por un monto m&#xE1;ximo de 1.500 Unidades Tributarias Mensuales.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

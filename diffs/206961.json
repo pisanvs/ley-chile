@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2003-01-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-01-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6411050,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 5 EXENTA, DE 15 DE ENERO DE 2003 </div></div>",
+          "new": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 3 EXENTA, DE 15 DE ENERO<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 25.01.2003</span></div><div class=\"p\">DE 2003</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6411050,
+          "old": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 3 EXENTA, DE 15 DE ENERO<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 25.01.2003</span></div><div class=\"p\">DE 2003</div><br></div>",
+          "new": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 3 EXENTA, DE 15 DE ENERO<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 25.01.2003</span> DE 2003</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 42 Exenta, Hacienda, publicada el 18.08.2003, rectific&#xF3; tasaciones de la lista anexa que contiene la presente resoluci&#xF3;n, publicada en suplemento del diario El Mercurio del d&#xED;a 30 de enero de 2003, de acuerdo a la tabla que en ella se indica.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

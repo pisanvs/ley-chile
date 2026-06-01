@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-08-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-05-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7220248,
+          "old": "<div><div class=\"p\">ESTABLECE REQUISITOS PARA EL TRANSITO DE PLATANOS, PI&#xD1;AS, COCOS Y DATILES</div><br><div class=\"p\">Santiago, 26 de Agosto de 1992.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">N&#xFA;m. 1.508 exenta.- Visto: Lo dispuesto en el Decreto Ley No. 3557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola, la Ley No.</div><div class=\"p\">18.755 de 1989 que establece normas sobre el Servicio Agr&#xED;cola y Ganadero, lo dispuesto en el Art&#xED;culo VI de la Convenci&#xF3;n Internacional de Protecci&#xF3;n Fitosanitaria FAO 1951, las Resoluciones No. 139/86, 512/92 y 889/92 emanadas del Servicio Agr&#xED;cola y Ganadero, y</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">- Que, el ingreso en tr&#xE1;nsito por territorio nacional de mercader&#xED;as peligrosas para los vegetales extranjeras destinados a terceros pa&#xED;ses, representa un riesgo para la agricultura nacional.</div><div class=\"p\">- Que, las mercader&#xED;as que ingresan al pa&#xED;s bajo este r&#xE9;gimen no son sometidas a inspecci&#xF3;n fitosanitaria. - Que, el Servicio Agr&#xED;cola y Ganadero debe establecer las medidas necesarias en resguardo del patrimonio silvoagr&#xED;cola del pa&#xED;s.</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE REQUISITOS PARA EL TRANSITO DE PLATANOS, PI&#xD1;AS, COCOS Y DATILES</div><br><div class=\"p\">Santiago, 26 de Agosto de 1992.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">N&#xFA;m. 1.508 exenta.- Visto: Lo dispuesto en el Decreto Ley No. 3557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola, la Ley No.</div><div class=\"p\">18.755 de 1989 que establece normas sobre el Servicio Agr&#xED;cola y Ganadero, lo dispuesto en el Art&#xED;culo VI de la Convenci&#xF3;n Internacional de Protecci&#xF3;n Fitosanitaria FAO 1951, las Resoluciones No. 139/86, 512/92 y 889/92 emanadas del Servicio Agr&#xED;cola y Ganadero, y</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">- Que, el ingreso en tr&#xE1;nsito por territorio nacional de mercader&#xED;as peligrosas para los vegetales extranjeras destinados a terceros pa&#xED;ses, representa un riesgo para la agricultura nacional.</div><div class=\"p\">- Que, las mercader&#xED;as que ingresan al pa&#xED;s bajo este r&#xE9;gimen no son sometidas a inspecci&#xF3;n fitosanitaria. - Que, el Servicio Agr&#xED;cola y Ganadero debe establecer las medidas necesarias en resguardo del patrimonio silvoagr&#xED;cola del pa&#xED;s.</div><br><div class=\"p\">Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

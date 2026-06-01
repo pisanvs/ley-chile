@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-02-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6412891,
+          "old": "<div><div class=\"p\">ESTABLECE ACTOS ADMINISTRATIVOS Y DOCUMENTOS AFECTOS A SECRETO O RESERVA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 27 de enero de 2003.- Hoy se dict&#xF3; la siguiente resoluci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 202.- Vistos: Estos antecedentes, lo dispuesto en la ley N&#xBA; 18.575, Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado, cuyo texto fuera fijado por el DFL N&#xBA; 1-19.653 de 2001 del Ministerio Secretar&#xED;a General de la Presidencia; el D.S.</div><div class=\"p\">N&#xBA; 26-01, del Ministerio Secretar&#xED;a General de la Presidencia y la resoluci&#xF3;n N&#xBA; 520-96, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE ACTOS ADMINISTRATIVOS Y DOCUMENTOS AFECTOS A SECRETO O RESERVA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 27 de enero de 2003.- Hoy se dict&#xF3; la siguiente resoluci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 202.- Vistos: Estos antecedentes, lo dispuesto en la ley N&#xBA; 18.575, Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado, cuyo texto fuera fijado por el DFL N&#xBA; 1-19.653 de 2001 del Ministerio Secretar&#xED;a General de la Presidencia; el D.S.</div><div class=\"p\">N&#xBA; 26-01, del Ministerio Secretar&#xED;a General de la Presidencia y la resoluci&#xF3;n N&#xBA; 520-96, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

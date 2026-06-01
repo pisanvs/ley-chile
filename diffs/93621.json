@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-10-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8323350,
+          "old": "<div><div class=\"p\">AUTORIZA A INVERSIONES DELFINES SOCIEDAD ANONIMA CERRADA PARA AMPLIAR ACTIVIDADES.</div><div class=\"p\">DENIEGA AUTORIZACIONES QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A INVERSIONES DELFINES SOCIEDAD ANONIMA CERRADA PARA AMPLIAR ACTIVIDADES.</div><div class=\"p\">DENIEGA AUTORIZACIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

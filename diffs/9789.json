@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1994-05-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-01-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5895636,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Decl&#xE1;rase Camino Nacional con car&#xE1;cter de Internacional el camino que une los sectores de Cerro Blanco (Ruta 5) y Casas de Chacabuco (Ruta 57-CH, Carretera San Mart&#xED;n).</div><div class=\"p\">&nbsp; &nbsp; 2.- Der&#xF3;gase el Rol G-13 al camino mencionado en el punto N&#xB0; 1 precedente.</div><div class=\"p\">&nbsp; &nbsp; 3.- As&#xED;gnase el Rol 57-CH a este mismo camino, de modo de darle continuidad con el resto de la ruta hasta Los Andes.</div><div class=\"p\">&nbsp; &nbsp; 4.- Der&#xF3;gase el Rol 57-CH en el tramo comprendido entre Am&#xE9;rico Vespucio y Casas de Chacabuco, del actual camino Santiago-Los Andes, que pasa por Colina.</div><div class=\"p\">&nbsp; &nbsp; 5.- As&#xED;gnase el Rol G-15 al camino mencionado en el punto N&#xB0; 4 precedente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- DER<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1048165&amp;idParte=9328322&amp;idVersion=2013-01-17\">Decreto 267,<br>OBRAS P&#xDA;BLICAS<br>N&#xBA; 3<br>D.O. 17.01.2013</a></span>OGADO.</div><div class=\"p\">&nbsp; &nbsp; 2.- Der&#xF3;gase el Rol G-13 al camino mencionado en el punto N&#xB0; 1 precedente.</div><div class=\"p\">&nbsp; &nbsp; 3.- As&#xED;gnase el Rol 57-CH a este mismo camino, de modo de darle continuidad con el resto de la ruta hasta Los Andes.</div><div class=\"p\">&nbsp; &nbsp; 4.- Der&#xF3;gase el Rol 57-CH en el tramo comprendido entre Am&#xE9;rico Vespucio y Casas de Chacabuco, del actual camino Santiago-Los Andes, que pasa por Colina.</div><div class=\"p\">&nbsp; &nbsp; 5.- As&#xED;gnase el Rol G-15 al camino mencionado en el punto N&#xB0; 4 precedente.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1048165,
+      "fecha": "2013-01-17"
+    }
+  }
+]

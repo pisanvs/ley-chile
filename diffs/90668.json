@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-04-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8319582,
+          "old": "<div><div class=\"p\">AUTORIZA DO&#xD1;A LITA DEL CARMEN VILLARROEL GUTIERREZ PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA DO&#xD1;A LITA DEL CARMEN VILLARROEL GUTIERREZ PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

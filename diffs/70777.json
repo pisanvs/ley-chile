@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "1983-12-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8765122,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- N&#xF3;mbrase a las siguientes personas que conformar&#xE1;n la tercera n&#xF3;mina nacional de s&#xED;ndicos:</div><br><br><div class=\"p\">&nbsp; &nbsp; &nbsp;  Araya Blazina N&#xE9;stor</div><div class=\"p\">&nbsp; &nbsp;  - Belmar Luna Oscar</div><div class=\"p\">&nbsp; &nbsp;  - Campos Gonz&#xE1;lez Alfonso</div><div class=\"p\">&nbsp; &nbsp;  - Cereceda Bravo Pablo</div><div class=\"p\">&nbsp; &nbsp;  - Edwards Edwards Jos&#xE9; Manuel</div><div class=\"p\">&nbsp; &nbsp;  - Gonz&#xE1;lez de Grote Sim&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  - Ibarra L&#xE9;niz Pedro</div><div class=\"p\">&nbsp; &nbsp;  - Luengo C&#xE1;rdenas Mario</div><div class=\"p\">&nbsp; &nbsp;  - Maffei Belloni Jaime</div><div class=\"p\">&nbsp; &nbsp;  - Montt D&#xED;az Nicol&#xE1;s</div><div class=\"p\">&nbsp; &nbsp;  - Mislej Musalem Jorge</div><div class=\"p\">&nbsp; &nbsp;  - Munro Pinochet Jaime</div><div class=\"p\">&nbsp; &nbsp;  - Risopatr&#xF3;n Garmendia Pablo</div><div class=\"p\">&nbsp; &nbsp;  - Rojas Cellier Demetrio</div><div class=\"p\">&nbsp; &nbsp;  - Urz&#xFA;a Jensen Arturo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- N&#xF3;mbrase a las siguientes personas que conformar&#xE1;n la tercera n&#xF3;mina nacional de s&#xED;ndicos:</div><br><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; Araya Blazina N&#xE9;stor</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Belmar Luna Oscar</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Campos Gonz&#xE1;lez Alfonso</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Cereceda Bravo Pablo</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Edwards Edwards Jos&#xE9; Manuel</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Gonz&#xE1;lez de Grote Sim&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Ibarra L&#xE9;niz Pedro</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Luengo C&#xE1;rdenas Mario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Maffei Belloni Jaime</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Montt D&#xED;az Nicol&#xE1;s</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Mislej Musalem Jorge</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Munro Pinochet Jaime</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Risopatr&#xF3;n Garmendia Pablo</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Rojas Cellier Demetrio</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Urz&#xFA;a Jensen Arturo.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-04-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8765122,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- N&#xF3;mbrase a las siguientes personas que conformar&#xE1;n la tercera n&#xF3;mina nacional de s&#xED;ndicos:</div><br><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; Araya Blazina N&#xE9;stor</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Belmar Luna Oscar</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Campos Gonz&#xE1;lez Alfonso</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Cereceda Bravo Pablo</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Edwards Edwards Jos&#xE9; Manuel</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Gonz&#xE1;lez de Grote Sim&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Ibarra L&#xE9;niz Pedro</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Luengo C&#xE1;rdenas Mario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Maffei Belloni Jaime</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Montt D&#xED;az Nicol&#xE1;s</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Mislej Musalem Jorge</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Munro Pinochet Jaime</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Risopatr&#xF3;n Garmendia Pablo</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Rojas Cellier Demetrio</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Urz&#xFA;a Jensen Arturo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- N&#xF3;mbrase a las siguientes personas que conformar&#xE1;n la tercera n&#xF3;mina nacional de s&#xED;ndicos:</div><br><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; Araya Blazina N&#xE9;stor</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Belmar Luna Oscar</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Campos Gonz&#xE1;lez Alfonso</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Cereceda Bravo Pablo</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Edwards Edwards Jos&#xE9; Manuel</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Gonz&#xE1;lez de Grote Sim&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Ibarra L&#xE9;niz Pedro</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Luengo C&#xE1;rdenas Mario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Maffei Belloni Jaime</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Montt D&#xED;az Nicol&#xE1;s</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Mislej Musalem Jorge<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Munro Pinochet Jaime</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Risopatr&#xF3;n Garmendia Pablo</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Rojas Cellier Demetrio</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Urz&#xFA;a Jensen Arturo.</div><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp;  El Decreto 167, Justicia, publicado el 29.04.2002, modifica la presente norma en el sentido de dejar establecido que don Jorge Luis Mislej Musalem (RUN N&#xBA;5.035.143-2), S&#xED;ndico Privado de Quiebras, ejercer&#xE1; sus funciones en todo el territorio nacional.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2017-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8765122,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- N&#xF3;mbrase a las siguientes personas que conformar&#xE1;n la tercera n&#xF3;mina nacional de s&#xED;ndicos:</div><br><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; Araya Blazina N&#xE9;stor</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Belmar Luna Oscar</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Campos Gonz&#xE1;lez Alfonso</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Cereceda Bravo Pablo</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Edwards Edwards Jos&#xE9; Manuel</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Gonz&#xE1;lez de Grote Sim&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Ibarra L&#xE9;niz Pedro</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Luengo C&#xE1;rdenas Mario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Maffei Belloni Jaime</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Montt D&#xED;az Nicol&#xE1;s</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Mislej Musalem Jorge<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Munro Pinochet Jaime</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Risopatr&#xF3;n Garmendia Pablo</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Rojas Cellier Demetrio</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Urz&#xFA;a Jensen Arturo.</div><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp;  El Decreto 167, Justicia, publicado el 29.04.2002, modifica la presente norma en el sentido de dejar establecido que don Jorge Luis Mislej Musalem (RUN N&#xBA;5.035.143-2), S&#xED;ndico Privado de Quiebras, ejercer&#xE1; sus funciones en todo el territorio nacional.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- N&#xF3;mbrase a las siguientes personas que conformar&#xE1;n la tercera n&#xF3;mina nacional de s&#xED;ndicos:</div><br><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; Araya Blazina N&#xE9;stor</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Belmar Luna Oscar</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Campos Gonz&#xE1;lez Alfonso</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Cereceda Bravo Pablo</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Edwards Edwards Jos&#xE9; Manuel</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Gonz&#xE1;lez de Grote Sim&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Ibarra L&#xE9;niz Pedro</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Luengo C&#xE1;rdenas Mario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Maffei Belloni Jaime</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Montt D&#xED;az Nicol&#xE1;s</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Mislej Musalem Jorge<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Munro Pinochet Jaime<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Risopatr&#xF3;n Garmendia Pablo</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Rojas Cellier Demetrio</div><div class=\"p\">&nbsp; &nbsp; &nbsp; - Urz&#xFA;a Jensen Arturo.</div><div class=\"p\"> </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp;  El Decreto 167, Justicia, publicado el 29.04.2002, modifica la presente norma en el sentido de dejar establecido que don Jorge Luis Mislej Musalem (RUN N&#xBA;5.035.143-2), S&#xED;ndico Privado de Quiebras, ejercer&#xE1; sus funciones en todo el territorio nacional.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 920, Justicia, publicado el 19.12.2017, modifica la presente norma en el sentido de reducir la competencia territorial de don Jorge Luis Mislej Musalem, RUN N&#xB0; 5.035.143-2, S&#xED;ndico Privado de Quiebras, quien ejercer&#xE1; sus funciones en todo el territorio nacional, con excepci&#xF3;n de las regiones XV de Arica y Parinacota, XI de Ays&#xE9;n y XII de Magallanes y la Ant&#xE1;rtica Chilena, a contar de la fecha de la publicaci&#xF3;n del citado Decreto.</div></div>"
+        }
+      ]
+    }
+  }
+]

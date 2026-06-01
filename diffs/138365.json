@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-02-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-07-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8346122,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A RUBY ELIZABETH BRUHN ZUST PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A RUBY ELIZABETH BRUHN ZUST PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

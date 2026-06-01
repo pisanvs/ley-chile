@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316970,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JULIO CANALES CHANDIA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JULIO CANALES CHANDIA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

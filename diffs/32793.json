@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-02-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-02-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8289919,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Por Resoluci&#xF3;n N&#xB0; 67, de 19 de Enero de 1995, de esta Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, modif&#xED;case el numeral 2&#xB0; de la Resoluci&#xF3;n N&#xB0; 1.718, de 1989, de esta Subsecretar&#xED;a, por la cual se autoriz&#xF3; a PESQUERA NACIONAL S.A., R.U.T. N&#xB0; 88.627.400-9, para operar la nave &quot;Magdalena I&quot;, en el sentido de se&#xF1;alar que el nombre y sus actuales caracter&#xED;sticas n&#xE1;uticas, son las siguientes:</div><div class=\"p\"> Nombre&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &quot;Macarena I&quot;</div><br><div class=\"p\"> Matr&#xED;cula&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2783</div><div class=\"p\"> Eslora de arqueo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  39,10 m.</div><div class=\"p\"> Manga&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  9,50 m.</div><div class=\"p\"> Puntal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5,40 m.</div><div class=\"p\"> T.R.G.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 567,28</div><div class=\"p\"> T.R.N.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 182,02</div><div class=\"p\"> Cap. de Bodega&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 648,33 m3</div><div class=\"p\"> Arte de pesca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cerco</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Por Resoluci&#xF3;n N&#xB0; 67, de 19 de Enero de 1995, de esta Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, modif&#xED;case el numeral 2&#xB0; de la Resoluci&#xF3;n N&#xB0; 1.718, de 1989, de esta Subsecretar&#xED;a, por la cual se autoriz&#xF3; a PESQUERA NACIONAL S.A., R.U.T. N&#xB0; 88.627.400-9, para operar la nave &quot;Magdalena I&quot;, en el sentido de se&#xF1;alar que el nombre y sus actuales caracter&#xED;sticas n&#xE1;uticas, son las siguientes:</div><div class=\"p\"> Nombre&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &quot;Magdalena I&quot;<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 10.02.1995</span></div><div class=\"p\"> Matr&#xED;cula&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2783</div><div class=\"p\"> Eslora de arqueo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  39,10 m.</div><div class=\"p\"> Manga&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  9,50 m.</div><div class=\"p\"> Puntal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5,40 m.</div><div class=\"p\"> T.R.G.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 567,28</div><div class=\"p\"> T.R.N.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 182,02</div><div class=\"p\"> Cap. de Bodega&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 648,33 m3</div><div class=\"p\"> Arte de pesca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cerco</div><br></div>"
+        }
+      ]
+    }
+  }
+]

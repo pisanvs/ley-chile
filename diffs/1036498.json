@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-01-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-03-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9228063,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 6. Las convocatorias a postular a los concursos, que se realicen con cargo al Fondo, deber&#xE1;n efectuarse mediante un procedimiento transparente y competitivo. El presente Reglamento ser&#xE1; parte integrante de todas las bases administrativas y t&#xE9;cnicas, as&#xED; como de los convenios de transferencia de recursos que se suscriban con las entidades seleccionadas para la subvenci&#xF3;n de sus actividades. Las resoluciones en virtud de las cuales el Intendente Regional apruebe las bases y convoque a cada concurso ser&#xE1;n publicadas en el sitio www.gorevalparaiso.cl, sin perjuicio de realizar publicaciones en otros medios de comunicaci&#xF3;n de car&#xE1;cter regional o provincial a fin de asegurar la debida publicidad de los procesos.</div><div class=\"p\">&nbsp; &nbsp;  Las bases de los concursos deber&#xE1;n se&#xF1;alar claramente el plazo de vigencia de la convocatoria, que no podr&#xE1; ser inferior a 30 d&#xED;as corridos, el o los lugares de entrega de las postulaciones, la cantidad de proyectos que cada entidad puede presentar, la unidad t&#xE9;cnica que har&#xE1; el seguimiento de los proyectos en ejecuci&#xF3;n y las comisiones de admisibilidad y evaluaci&#xF3;n designadas por el Intendente Regional, encargadas respectivamente del examen de admisibilidad y de la evaluaci&#xF3;n de los proyectos.</div><div class=\"p\">&nbsp; &nbsp;  Los plazos que se se&#xF1;alen en las bases ser&#xE1;n de d&#xED;as corridos, salvo que se exprese lo contrario. Se entender&#xE1; como d&#xED;a h&#xE1;bil todos los d&#xED;as de la semana excepto s&#xE1;bados, domingos y festivos.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 6. Las convocatorias a postular a los concursos, que se realicen con cargo al Fondo, deber&#xE1;n efectuarse mediante un procedimiento transparente y competitivo. El presente Reglamento ser&#xE1; parte integrante de todas las bases administrativas y t&#xE9;cnicas, as&#xED; como de los convenios de transferencia de recursos que se suscriban con las entidades seleccionadas para la subvenci&#xF3;n de sus actividades. Las resoluciones en virtud de las cuales el Intendente Regional apruebe las bases y convoque a cada concurso ser&#xE1;n publicadas en el sitio www.gorevalparaiso.cl, sin perjuicio de realizar publicaciones en otros medios de comunicaci&#xF3;n de car&#xE1;cter regional o provincial a fin de asegurar la debida publicidad de los procesos.</div><div class=\"p\">&nbsp; &nbsp;  Las bases de los concursos deber&#xE1;n se&#xF1;alar claramente e<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1037775&amp;idParte=9241084&amp;idVersion=2012-03-09\">Resoluci&#xF3;n 31 AFECTA,<br>GOB. REG. VALPARA&#xCD;SO<br>N&#xB0; 1<br>D.O. 09.03.2012</a></span>l plazo de vigencia de la convocatoria, el o los lugares de entrega de las postulaciones, la cantidad de proyectos que cada entidad puede presentar, la unidad t&#xE9;cnica que har&#xE1; el seguimiento de los proyectos en ejecuci&#xF3;n y las comisiones de admisibilidad y evaluaci&#xF3;n designadas por el Intendente Regional, encargadas respectivamente del examen de admisibilidad y de la evaluaci&#xF3;n de los proyectos.</div><div class=\"p\">&nbsp; &nbsp;  Los plazos que se se&#xF1;alen en las bases ser&#xE1;n de d&#xED;as corridos, salvo que se exprese lo contrario. Se entender&#xE1; como d&#xED;a h&#xE1;bil todos los d&#xED;as de la semana excepto s&#xE1;bados, domingos y festivos.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1037775,
+      "fecha": "2012-03-09"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-10-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-11-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6400152,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;1.539, de 30 de agosto de 2002, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y DFL MOP N&#xBA;206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA;110-A1 para la obra: &apos;&apos;Concesi&#xF3;n Internacional Ruta 5. Tramo: Santiago-Talca. Sector K: Km. 161.650,00 al Km. 179.500,00&apos;&apos;, Sexta Regi&#xF3;n, que figura a nombre de Hern&#xE1;ndez Iturriaga Francisco, rol de aval&#xFA;o 60-170, comuna de Teno, superficie 129m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Mar&#xED;a Isabel de Jes&#xFA;s R&#xED;os Marcuello, Enrique Luis Figueroa Echeverr&#xED;a y Jos&#xE9; Cristi&#xE1;n Larra&#xED;n Barros, fij&#xF3; con fecha 17 de julio de 2002, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $13.824.700.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA;2.186, de 1978.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;1.539, de 30 de agosto de 2002, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y DFL MOP N&#xBA;206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA;110-A1 para la obra: &apos;&apos;Concesi&#xF3;n Internacional Ruta 5. Tramo: Santiago-Talca. Sector K: Km. 161.650,00 al Km. 179.500,00&apos;&apos;, S&#xE9;ptima Regi&#xF3;n, que figura a nombre de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 02.11.2002</span> Hern&#xE1;ndez Iturriaga Francisco, rol de aval&#xFA;o 60-170, comuna de Teno, superficie 129m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Mar&#xED;a Isabel de Jes&#xFA;s R&#xED;os Marcuello, Enrique Luis Figueroa Echeverr&#xED;a y Jos&#xE9; Cristi&#xE1;n Larra&#xED;n Barros, fij&#xF3; con fecha 17 de julio de 2002, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $13.824.700.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA;2.186, de 1978. </div></div>"
+        }
+      ]
+    }
+  }
+]

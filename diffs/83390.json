@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8315036,
+          "old": "<div><div class=\"p\">AUTORIZA A BIO SUR S.A. PARA INICIAR ACTIVIDADES PESQUERAS. CADUCA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A BIO SUR S.A. PARA INICIAR ACTIVIDADES PESQUERAS.CADUCA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

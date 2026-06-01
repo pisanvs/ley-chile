@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-05-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8817234,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Modif&#xED;case el p&#xE1;rrafo I N&#xBA; 3 del art&#xED;culo 6 de la Ordenanza N&#xBA; 5, de 16 de diciembre de 2002, modificado por Ordenanza N&#xBA; 12, de 30 de diciembre de 2003, y reempl&#xE1;zase por el siguiente:</div><br><div class=\"p\">&quot;3.-&nbsp; &nbsp; Sistema de Control de Estacionamientos:</div><br><div class=\"p\">&nbsp; &nbsp;  I.&nbsp; &nbsp; Se consideran los siguientes valores:</div><div class=\"p\">&nbsp; &nbsp;  a)&nbsp; &nbsp; Zona Alta: $900.- / hora + IVA</div><div class=\"p\">&nbsp; &nbsp;  b)&nbsp; &nbsp; Zona Media: $750.- / hora + IVA</div><div class=\"p\">&nbsp; &nbsp;  c)&nbsp; &nbsp; Zona Baja: $600.- / hora + IVA</div><br><div class=\"p\">&nbsp; &nbsp;  Estos valores se cobrar&#xE1;n a contar del 1 de enero de 2010&quot;.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Modif&#xED;case el p&#xE1;rrafo I N&#xBA; 3 del art&#xED;culo 6 de la Ordenanza N&#xBA; 5, de 16 de diciembre de 2002, modificado por Ordenanza N&#xBA; 12, de 30 de diciembre de 2003, y reempl&#xE1;zase por el siguiente:</div><br><div class=\"p\">&quot;3.-&nbsp; &nbsp; Sistema de Control de Estacionamientos:</div><br><div class=\"p\">&nbsp; &nbsp;  I.&nbsp; &nbsp; Se consideran los siguientes valores:</div><div class=\"p\">&nbsp; &nbsp;  a)&nbsp; &nbsp; Zona Alta: $900.- / hora IVA incluido<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1025056&amp;idParte=9137126&amp;idVersion=2011-05-04\">Ordenanza 2, M. de Concepci&#xF3;n<br>Art. UNICO<br>D.O. 04.05.2011</a></span></div><div class=\"p\">&nbsp; &nbsp;  b)&nbsp; &nbsp; Zona Media: $750.- / hora IVA incluido</div><div class=\"p\">&nbsp; &nbsp;  c)&nbsp; &nbsp; Zona Baja: $600.- / hora&nbsp; IVA incluido</div><br><div class=\"p\">&nbsp; &nbsp;  Estos valores se cobrar&#xE1;n a contar del 1 de enero de 2010&quot;.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1025056,
+      "fecha": "2011-05-04"
+    }
+  }
+]

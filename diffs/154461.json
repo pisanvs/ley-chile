@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-09-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-03-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6229056,
+          "old": "<div><div class=\"p\">AUTORIZA A DON MARIO EUGENIO VOLCKE ALVARADO PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON MARIO EUGENIO VOLCKE ALVARADO PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

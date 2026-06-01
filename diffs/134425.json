@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-07-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6162248,
+          "old": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE CENTRO DE FORMACION TECNICA &quot;INSTITUTO FRANCISCO BILBAO&quot;, DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 74 exento.- Santiago, 30 de Abril de 1985.- Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el organizador del Centro de Formaci&#xF3;n T&#xE9;cnica Instituto Francisco Bilbao, do&#xF1;a Sandra Yanina Camerotto Moraga como persona natural, ha solicitado se autorice su funcionamiento por este Ministerio.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, formuladas las observaciones &#xE9;stas han sido subsanadas en tiempo y forma.</div><br><div class=\"p\">&nbsp; &nbsp;  Visto:</div><br><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en el D.L. N&#xBA; 3.541 de 1980; D.F.L. N&#xBA; 24 de 1981, D.S. N&#xBA; 9.555 de 1980 y D.S. N&#xBA; 1.080 de 1983, todos del Ministerio de Educaci&#xF3;n P&#xFA;blica y la resoluci&#xF3;n N&#xBA; 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto lo siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE CENTRO DE FORMACION TECNICA &quot;INSTITUTO FRANCISCO BILBAO&quot;, DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 74 exento.- Santiago, 30 de Abril de 1985.- Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el organizador del Centro de Formaci&#xF3;n T&#xE9;cnica Instituto Francisco Bilbao, do&#xF1;a Sandra Yanina Camerotto Moraga como persona natural, ha solicitado se autorice su funcionamiento por este Ministerio.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, formuladas las observaciones &#xE9;stas han sido subsanadas en tiempo y forma.</div><br><div class=\"p\">&nbsp; &nbsp;  Visto:</div><br><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en el D.L. N&#xBA; 3.541 de 1980; D.F.L. N&#xBA; 24 de 1981, D.S. N&#xBA; 9.555 de 1980 y D.S. N&#xBA; 1.080 de 1983, todos del Ministerio de Educaci&#xF3;n P&#xFA;blica y la resoluci&#xF3;n N&#xBA; 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto lo siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

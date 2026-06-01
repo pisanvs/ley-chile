@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2019-04-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-02-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10006638,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11. Determinaci&#xF3;n del monto a cobrar y emisi&#xF3;n de la resoluci&#xF3;n respectiva. Para la determinaci&#xF3;n del monto a cobrar, la causa deber&#xE1; estar terminada y su forma de t&#xE9;rmino ingresada en el sistema inform&#xE1;tico de la DPP. Asimismo, su tramo de copago deber&#xE1; estar definido seg&#xFA;n lo establecido en los art&#xED;culos 7&#xB0; y 12&#xB0; de la presente resoluci&#xF3;n. El monto a cobrar se determinar&#xE1; en funci&#xF3;n del tramo de copago al que qued&#xF3; afecto el imputado y del arancel fijado para la forma de t&#xE9;rmino de la causa. Una vez definido, registrado y notificado por el sistema inform&#xE1;tico el valor a cobrar, el Defensor Regional emitir&#xE1;, dentro de los diez d&#xED;as h&#xE1;biles siguientes, la correspondiente resoluci&#xF3;n administrativa que fija el valor a cobrar.</div><div class=\"p\">&nbsp; &nbsp;  En base a lo dispuesto en el art&#xED;culo 9&#xB0; de la Ley N&#xB0; 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de los &#xD3;rganos de la Administraci&#xF3;n del Estado, norma que consagra el principio de econom&#xED;a procedimental, se establece que para aquellos usuarios exentos del pago de arancel no ser&#xE1; necesario dictar acto administrativo alguno que los declare como tales.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11. Determinaci&#xF3;n del <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>monto a cobrar y emisi&#xF3;n de la resoluci&#xF3;n respectiva. Para la determinaci&#xF3;n del monto a cobrar, la causa deber&#xE1; estar terminada y su forma de t&#xE9;rmino ingresada en el sistema inform&#xE1;tico de la DPP. Asimismo, su tramo de copago deber&#xE1; estar definido seg&#xFA;n lo establecido en los art&#xED;culos 7&#xB0; y 12&#xB0; de la presente resoluci&#xF3;n. El monto a cobrar se determinar&#xE1; en funci&#xF3;n del tramo de copago al que qued&#xF3; afecto el imputado y del arancel fijado para la forma de t&#xE9;rmino de la causa. Una vez definido, registrado y notificado por el sistema inform&#xE1;tico el valor a cobrar, el Defensor Regional emitir&#xE1;, dentro de los diez d&#xED;as h&#xE1;biles siguientes, la correspondiente resoluci&#xF3;n administrativa que fija el valor a cobrar.</div><div class=\"p\">&nbsp; &nbsp;  En base a lo dispuesto en el art&#xED;culo 9&#xB0; de la Ley N&#xB0; 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de los &#xD3;rganos de la Administraci&#xF3;n del Estado, norma que consagra el principio de econom&#xED;a procedimental, se establece que para aquellos usuarios exentos del pago de arancel no ser&#xE1; necesario dictar acto administrativo alguno que los declare como tales.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 59 exenta, Justicia, publicado el 02.02.2022, modifica temporalmente lo dispuesto en el inciso primero del presente art&#xED;culo, en el sentido que una vez definido, registrado y notificado por el sistema inform&#xE1;tico el valor a cobrar, el Defensor Regional emitir&#xE1;, dentro de los treinta d&#xED;as h&#xE1;biles siguientes, la correspondiente resoluci&#xF3;n administrativa que fija el valor del arancel a cobrar. Asimismo, el numeral 2&#xB0; indica que la citada resoluci&#xF3;n tendr&#xE1; un per&#xED;odo de vigencia temporal de tres meses contados desde la fecha de su publicaci&#xF3;n en el Diario Oficial.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-08-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

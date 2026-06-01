@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-02-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9008276,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El tr&#xE1;nsito podr&#xE1; efectuarse por las Aduanas o lugares que se&#xF1;ale el Director Nacional de Aduanas, con aprobaci&#xF3;n del Presidente de la Rep&#xFA;blica. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El tr&#xE1;nsito de mercanc&#xED;as podr&#xE1;<span class=\"n\" id=\"n_0\">DTO 1667, HACIENDA<br>Art. 2<br>D.O. 06.02.2009</span> efectuarse entre las aduanas y/o cualquier punto habilitado en forma permanente en que se haya autorizado realizar todo tipo de operaciones aduaneras.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

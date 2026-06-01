@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-09-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6020757,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA FECHA CUMPLIMIENTO ART. 45&#xB0; DECRETO N&#xB0; 212/92 N&#xFA;m. 116 exenta.- Temuco, 25 de Julio de 1995.- Visto: El Art. 45&#xB0; del Decreto Supremo N&#xB0; 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes,</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  FIJA FECHA CUMPLIMIENTO ART. 45&#xB0; DECRETO N&#xB0; 212/92<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 116 exenta.- Temuco, 25 de Julio de 1995.- Visto: El Art. 45&#xB0; del Decreto Supremo N&#xB0; 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes,</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0;1 de la RES 43 Exenta, Transportes, publicada el 18.03.1999 derog&#xF3; la presente resoluci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

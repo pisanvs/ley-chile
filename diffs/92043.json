@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8321107,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD ALGUERA, BUZOS Y PESCADORES AMARGOS CORRAL LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD ALGUERA, BUZOS Y PESCADORES AMARGOS CORRAL LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS </div><br></div>"
+        }
+      ]
+    }
+  }
+]

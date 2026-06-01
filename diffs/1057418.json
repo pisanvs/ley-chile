@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2013-12-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9393179,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El premio ser&#xE1; gestionado por el Ministerio de Econom&#xED;a, Fomento y Turismo, en adelante &quot;el Ministerio&quot;, quien determinar&#xE1;, cada a&#xF1;o la integraci&#xF3;n del jurado y sus respectivas categor&#xED;as, mediante resoluci&#xF3;n del Ministro de Econom&#xED;a, Fomento y Turismo, quien adem&#xE1;s presidir&#xE1; el jurado.</div><div class=\"p\">&nbsp; &nbsp;  El premio ser&#xE1; otorgado en el mes de noviembre de cada a&#xF1;o.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- El <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1149071&amp;idParte=10155906&amp;idVersion=2020-09-03\">Decreto 13, CIENCIA<br>Art. &#xDA;NICO, N&#xB0; 1<br>D.O. 03.09.2020</a></span>premio ser&#xE1; gestionado por el Ministerio de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n, en adelante &apos;el Ministerio&apos;, quien determinar&#xE1;, cada a&#xF1;o la integraci&#xF3;n del jurado y sus respectivas categor&#xED;as, mediante resoluci&#xF3;n del Ministro de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n, quien lo presidir&#xE1;. En todo caso, el jurado estar&#xE1; siempre integrado, entre otros, por el Ministro de Econom&#xED;a, Fomento y Turismo o quien &#xE9;ste designe en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El premio ser&#xE1; otorgado una vez por a&#xF1;o, en la fecha que se determine en el acto administrativo que corresponda.</div><br><br></div>"
+        },
+        {
+          "part_id": 9393180,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- El Ministerio podr&#xE1; mandatar, previo concurso p&#xFA;blico, la gesti&#xF3;n y/u organizaci&#xF3;n de la premiaci&#xF3;n a un organismo p&#xFA;blico o privado sin fines de lucro, el que ser&#xE1; designado por el Ministro de Econom&#xED;a, Fomento y Turismo, mediante resoluci&#xF3;n fundada.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- El <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1149071&amp;idParte=10155906&amp;idVersion=2020-09-03\">Decreto 13, CIENCIA<br>Art. &#xDA;NICO, N&#xB0; 2<br>D.O. 03.09.2020</a></span>Ministerio podr&#xE1; mandatar, previo concurso p&#xFA;blico, la gesti&#xF3;n y/u organizaci&#xF3;n de la premiaci&#xF3;n a un organismo p&#xFA;blico o privado sin fines de lucro, el que ser&#xE1; designado por el Ministro de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n mediante resoluci&#xF3;n fundada.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1149071,
+      "fecha": "2020-09-03"
+    }
+  }
+]

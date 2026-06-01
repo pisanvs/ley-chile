@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-08-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-07-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9720291,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xB0; Los permisos de ocupaci&#xF3;n de veredas y calzadas est&#xE1;n afectos al pago de los derechos municipales que para tal efecto disponga la ordenanza correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, cuando comprometan bienes del mobiliario urbano municipal, tales como &#xE1;rboles, sem&#xE1;foros, &#xE1;reas verdes, bancos, veredas, calzadas, u otros, se deber&#xE1; garantizar su conservaci&#xF3;n mediante un vale vista o boleta bancaria cuyo monto y plazo ser&#xE1; fijado cada vez por el municipio, a trav&#xE9;s de la Direcci&#xF3;n competente en la materia, seg&#xFA;n los valores comprometidos.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xB0; Los permisos de ocupaci&#xF3;n de veredas y calzadas est&#xE1;n afectos al pago de los derechos municipales que para tal efecto disponga la ordenanza correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, cuando comprometan bienes del mobiliario urbano municipal, tales como &#xE1;rboles, sem&#xE1;foros, &#xE1;reas verdes, bancos, veredas, calzadas, u otros, se deber&#xE1; garantizar su conservaci&#xF3;n mediante un vale vista o boleta bancaria cuyo monto y plazo ser&#xE1; fijado cada vez por el municipio, a trav&#xE9;s de la Direcci&#xF3;n competente en la materia, seg&#xFA;n los valores comprometidos.</div><div class=\"p\">&nbsp; &nbsp;  Excepcionalmente, cuando se trate de obras<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1215167&amp;idParte=10555787&amp;idVersion=2025-07-25\">Ordenanza 39,<br>M. DE PE&#xD1;ALOL&#xC9;N<br>N&#xB0; 1<br>D.O. 25.07.2025</a></span> a ser desarrolladas por &#xF3;rganos de la Administraci&#xF3;n del Estado en la comuna -sea que lo hagan directamente, sea que lo hagan a trav&#xE9;s de terceros-, por medio de una resoluci&#xF3;n fundada especialmente dictada al efecto y siempre previa solicitud escrita del jefe del servicio interesado, el alcalde podr&#xE1; disponer una dispensa del cumplimiento de la aludida obligaci&#xF3;n. Para evaluar esta solicitud -cuya pendencia no habilitar&#xE1; al interesado a iniciar las obras, salvo que pague los derechos y constituya las garant&#xED;as-, el alcalde ponderar&#xE1; el tipo de obra de que se trate, el tipo de bien en que se desarrollar&#xE1;, el alcance territorial de sus beneficios y el n&#xFA;mero de unidades vecinales y/o macrosectores a los que servir&#xE1;. En caso de ser favorable dicha evaluaci&#xF3;n, el beneficio deber&#xE1; ser incorporado en el acto administrativo a que alude el inciso final del art&#xED;culo 5 de esta ordenanza, en el que, adicionalmente, deber&#xE1;n incorporarse todas las cl&#xE1;usulas que la unidad de obras, previa consulta con la unidad de asesor&#xED;a jur&#xED;dica, estimen necesarias para proteger adecuadamente los intereses municipales. Lo anterior ser&#xE1; informado peri&#xF3;dicamente al Concejo Municipal.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1215167,
+      "fecha": "2025-07-25"
+    }
+  }
+]

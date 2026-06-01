@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-02-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-06-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9678317,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: F&#xED;jase para el a&#xF1;o 2016 el calendario nacional de examinaci&#xF3;n para las personas inscritas en los Programas de Modalidad Flexible de Nivelaci&#xF3;n de Estudios, Validaci&#xF3;n de Estudios, Examinaci&#xF3;n de Estudios realizados en Programas de Alfabetizaci&#xF3;n y Examen de Equivalencia para Fines Laborales, en los niveles de Educaci&#xF3;n B&#xE1;sica y Educaci&#xF3;n Media, considerando la simultaneidad en su aplicaci&#xF3;n a nivel nacional, de acuerdo al siguiente cuadro:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/55807.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Podr&#xE1;n eximirse de los per&#xED;odos de aplicaci&#xF3;n establecidos en este calendario, las regiones cuya condici&#xF3;n y/o contexto geogr&#xE1;fico ameriten su aplicaci&#xF3;n en otras fechas, situaci&#xF3;n que deber&#xE1; ser informada oportunamente a la Coordinaci&#xF3;n Nacional de Educaci&#xF3;n de Personas J&#xF3;venes y Adultas, para su an&#xE1;lisis, en la Unidad encargada de la Divisi&#xF3;n de Educaci&#xF3;n General y refrendada mediante el acto administrativo de la respectiva Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General podr&#xE1;, excepcionalmente, extender estos plazos para una regi&#xF3;n o a todo el pa&#xED;s.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: F&#xED;jase para el a&#xF1;o 2016 el calendario nacional de examinaci&#xF3;n para las personas inscritas en los Programas de Modalidad Flexible de Nivelaci&#xF3;n de Estudios, Validaci&#xF3;n de Estudios, Examinaci&#xF3;n de Estudios realizados en Programas de Alfabetizaci&#xF3;n y Examen de Equivalencia para Fines Laborales, en los niveles de Educaci&#xF3;n B&#xE1;sica y Educaci&#xF3;n Media, considerando la simultaneidad en su aplicaci&#xF3;n a nivel nacional, de acuerdo al siguiente cuadro<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/55807.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Podr&#xE1;n eximirse de los per&#xED;odos de aplicaci&#xF3;n establecidos en este calendario, las regiones cuya condici&#xF3;n y/o contexto geogr&#xE1;fico ameriten su aplicaci&#xF3;n en otras fechas, situaci&#xF3;n que deber&#xE1; ser informada oportunamente a la Coordinaci&#xF3;n Nacional de Educaci&#xF3;n de Personas J&#xF3;venes y Adultas, para su an&#xE1;lisis, en la Unidad encargada de la Divisi&#xF3;n de Educaci&#xF3;n General y refrendada mediante el acto administrativo de la respectiva Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General podr&#xE1;, excepcionalmente, extender estos plazos para una regi&#xF3;n o a todo el pa&#xED;s.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo 1&#xB0; de la Resoluci&#xF3;n 2991 Exenta, Educaci&#xF3;n, publicada el 30.06.2016, modifica la presente norma, en el sentido de modificar las fechas del Calendario Nacional de Examinaci&#xF3;n,en lo que dice relaci&#xF3;n a Validaci&#xF3;n de Estudios para Personas J&#xF3;venes y Adultas y Examen de equivalencia para fines laborales.</div></div>"
+        }
+      ]
+    }
+  }
+]

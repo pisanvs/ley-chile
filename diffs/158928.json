@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-01-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7263660,
+          "old": "<div><div class=\"p\">MODIFICA EL REGLAMENTO DE HOMOLOGACION DE APARATOS TELEFONICOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;n. 9.- Santiago, 18 de Enero de 1985.- Vistos:</div><div class=\"p\">&nbsp; &nbsp;  a) Lo dispuesto en el art&#xED;culo 32&#xB0;, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado.</div><div class=\"p\">&nbsp; &nbsp;  b) La Ley N&#xB0; 18.168 de 1982.</div><div class=\"p\">&nbsp; &nbsp;  c) El decreto ley N&#xB0; 1.762 de 1977.</div><div class=\"p\">&nbsp; &nbsp;  d) El decreto supremo N&#xB0; 423 de 1978 que aprob&#xF3; la Pol&#xED;tica Nacional de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  e) El decreto supremo N&#xB0; 220 de 1980 del Ministerio de Transportes y Telecomunicaciones.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Que en los circuitos arrendados se podr&#xE1;n emplear modems de caracter&#xED;sticas especiales.</div><div class=\"p\">&nbsp; &nbsp;  b) Que el avance tecnol&#xF3;gico ha permitido el desarrollo de modems que funcionen a mayores velocidades.</div><div class=\"p\">&nbsp; &nbsp;  c) Que las redes de las Compa&#xF1;&#xED;as permiten el uso de modems de mayor velocidad,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA EL REGLAMENTO DE HOMOLOGACION DE APARATOS TELEFONICOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;n. 9.- Santiago, 18 de Enero de 1985.- Vistos:</div><div class=\"p\">&nbsp; &nbsp;  a) Lo dispuesto en el art&#xED;culo 32&#xB0;, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado.</div><div class=\"p\">&nbsp; &nbsp;  b) La Ley N&#xB0; 18.168 de 1982.</div><div class=\"p\">&nbsp; &nbsp;  c) El decreto ley N&#xB0; 1.762 de 1977.</div><div class=\"p\">&nbsp; &nbsp;  d) El decreto supremo N&#xB0; 423 de 1978 que aprob&#xF3; la Pol&#xED;tica Nacional de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  e) El decreto supremo N&#xB0; 220 de 1980 del Ministerio de Transportes y Telecomunicaciones.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Que en los circuitos arrendados se podr&#xE1;n emplear modems de caracter&#xED;sticas especiales.</div><div class=\"p\">&nbsp; &nbsp;  b) Que el avance tecnol&#xF3;gico ha permitido el desarrollo de modems que funcionen a mayores velocidades.</div><div class=\"p\">&nbsp; &nbsp;  c) Que las redes de las Compa&#xF1;&#xED;as permiten el uso de modems de mayor velocidad,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

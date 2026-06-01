@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2015-06-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-03-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9608643,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- A quien se hubiere otorgado una concesi&#xF3;n de televisi&#xF3;n digital deber&#xE1; solicitar por escrito a la Subsecretar&#xED;a la asignaci&#xF3;n de un n&#xFA;mero virtual del canal, se&#xF1;alando el n&#xFA;mero de su preferencia entre los posibles n&#xFA;meros a asignar y que se encuentren disponibles. La solicitud deber&#xE1; ser firmada por el representante legal de la concesionaria y se&#xF1;alar el n&#xFA;mero y fecha de la resoluci&#xF3;n del Consejo Nacional de Televisi&#xF3;n, que autoriza el respectivo canal f&#xED;sico. La concesionaria podr&#xE1; solicitar su n&#xFA;mero virtual del canal, con una antelaci&#xF3;n no superior a 6 meses del inicio del servicio de su concesi&#xF3;n, el cual quedar&#xE1; nuevamente disponible, de no iniciarse los servicios en el plazo se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp;  La Subsecretar&#xED;a, una vez recibida la solicitud a que se refiere el inciso precedente, publicar&#xE1; un extracto de la misma en su p&#xE1;gina de internet, el que para tales fines, mantendr&#xE1; un direccionamiento para acceso directo a todas las solicitudes presentadas, a lo menos, en el mes anterior, a fin de que, quien tenga inter&#xE9;s en ello y se encuentre en similares condiciones que la solicitante, pueda oponerse a ella, solicitando el mismo n&#xFA;mero, dentro del plazo de 10 d&#xED;as contado desde la publicaci&#xF3;n del citado extracto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- A <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1116225&amp;idParte=9894942&amp;idVersion=2018-03-16\">Resoluci&#xF3;n 504 EXENTA,<br>TRANSPORTES<br>Art. &#xDA;NICO N&#xB0; 1<br>D.O. 16.03.2018</a></span>quien se hubiere otorgado una concesi&#xF3;n de televisi&#xF3;n digital deber&#xE1; solicitar por escrito a la Subsecretar&#xED;a la asignaci&#xF3;n de un n&#xFA;mero virtual de canal, se&#xF1;alando el n&#xFA;mero de su preferencia entre los posibles n&#xFA;meros a asignar y que se encuentren disponibles. La solicitud deber&#xE1; ser firmada por el representante legal de la concesionaria y se&#xF1;alar el n&#xFA;mero y fecha de la resoluci&#xF3;n del Consejo Nacional de Televisi&#xF3;n, que autoriza el respectivo canal f&#xED;sico. La concesionaria podr&#xE1; solicitar su n&#xFA;mero virtual de canal, con una antelaci&#xF3;n no superior a 6 meses del inicio del servicio de su concesi&#xF3;n, el cual quedar&#xE1; nuevamente disponible, de no iniciarse los servicios en el plazo se&#xF1;alado.</div><br></div>"
+        },
+        {
+          "part_id": 9608644,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Transcurrido el plazo de 10 d&#xED;as se&#xF1;alado precedentemente, la Subsecretar&#xED;a, mediante resoluci&#xF3;n, proceder&#xE1; a la asignaci&#xF3;n de la numeraci&#xF3;n virtual de canal o, de existir oposiciones de otras interesadas en asignarse el mismo n&#xFA;mero virtual y que se encuentren en similares condiciones, llamar&#xE1; a sorteo p&#xFA;blico entre &#xE9;stas para resolver aqu&#xE9;lla. Adem&#xE1;s de las oposiciones recibidas en el plazo de 10 d&#xED;as a que se refiere el art&#xED;culo anterior, se considerar&#xE1;n en el sorteo aquellas presentaciones solicitando la asignaci&#xF3;n del mismo n&#xFA;mero virtual de canal que se hubieren efectuado con posterioridad a la primera solicitud recibida para asignarse dicho n&#xFA;mero y antes de la publicaci&#xF3;n del extracto de la misma.</div><div class=\"p\">&nbsp; &nbsp;  Resultar&#xE1; asignataria del n&#xFA;mero virtual de canal la concesionaria que hubiere obtenido el mayor n&#xFA;mero en el sorteo. Las restantes participantes en el sorteo que no hubieran sido favorecidas en el mismo deber&#xE1;n presentar una nueva solicitud, sin perjuicio de la posibilidad de oponerse, dentro de plazo, a una en curso.</div><div class=\"p\">&nbsp; &nbsp;  La Subsecretar&#xED;a notificar&#xE1; a la concesionaria favorecida la resoluci&#xF3;n de asignaci&#xF3;n de numeraci&#xF3;n virtual de canal, copia de la cual se remitir&#xE1; al Consejo.</div><div class=\"p\">&nbsp; &nbsp;  A quien se hubiere asignado un n&#xFA;mero virtual de canal no podr&#xE1; solicitar el cambio de dicho n&#xFA;mero en el plazo de 5 a&#xF1;os contado desde el inicio de las transmisiones con el mismo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- En <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1116225&amp;idParte=9894942&amp;idVersion=2018-03-16\">Resoluci&#xF3;n 504 EXENTA,<br>TRANSPORTES<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 16.03.2018</a></span>caso de encontrarse disponible el n&#xFA;mero solicitado, la Subsecretar&#xED;a, mediante resoluci&#xF3;n, asignar&#xE1; a la concesionaria el n&#xFA;mero virtual de canal solicitado, remitiendo copia al Consejo. De lo contrario, rechazar&#xE1; fundadamente la solicitud. En este &#xFA;ltimo caso, la concesionaria podr&#xE1; volver a solicitar uno nuevo.</div><div class=\"p\">&nbsp; &nbsp;  En caso de solicitudes incompatibles entre s&#xED;, se resolver&#xE1;n las mismas seg&#xFA;n orden de presentaci&#xF3;n conforme al respectivo n&#xFA;mero de Ingreso en Oficina de Partes de la Subsecretar&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  A quien se hubiere asignado un n&#xFA;mero virtual de canal no podr&#xE1; solicitar el cambio de dicho n&#xFA;mero en el plazo de 5 a&#xF1;os contado desde el inicio de las transmisiones con el mismo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1116225,
+      "fecha": "2018-03-16"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-09-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-04-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6440704,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 191 EXENTO, DE 2003</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 191 EXENTO, DE 2003</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

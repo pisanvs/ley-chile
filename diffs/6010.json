@@ -1,0 +1,87 @@
+[
+  {
+    "fecha": "1974-03-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-03-16",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7123909,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Primera.- Las universidades, estatales o privadas reconocidas por el Estado, deber&#xE1;n absorber la totalidad de los alumnos que durante el a&#xF1;o lectivo 1973 realizaron uno o dos semestres de formaci&#xF3;n sistem&#xE1;tica correspondientes al primero o segundo a&#xF1;os profesionales, en las distintas Escuelas Normales del pa&#xED;s y que figuren en la n&#xF3;mina oficial producto de la aplicaci&#xF3;n del art&#xED;culo 5&#xB0; de D.L. N&#xB0; 179, de 1973. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Primera.- Las universidades, estatales o privadas reconocidas por el Estado, deber&#xE1;n absorber la totalidad de los alumnos que durante el a&#xF1;o lectivo 1973 realizaron uno o dos semestres de formaci&#xF3;n sistem&#xE1;tica correspondientes al primero o segundo a&#xF1;os profesionales, en las distintas Escuelas Normales del pa&#xED;s y que figuren en la n&#xF3;mina oficial producto de la aplicaci&#xF3;n del art&#xED;culo 5&#xB0; D.L. N&#xB0; 179, de 1973. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1976-10-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7123898,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;- Integrar&#xE1;n el Consejo de Coordinaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; a) Un representante del Ministerio de Educaci&#xF3;n P&#xFA;blica, designado mediante Decreto Supremo suscrito directamente por el Ministro del ramo.</div><div class=\"p\">&nbsp; &nbsp; b) Un representante por cada una de las Universidades que impartan formaci&#xF3;n de docentes. Los representantes de las universidades estatales ser&#xE1;n designados por los respectivos Rectores Delegados, y los de las universidades particulares, mediante Decreto Supremo por el Ministro de Educaci&#xF3;n a proposici&#xF3;n de los Rectores Delegados correspondientes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;- Integrar&#xE1;n el Consejo de Coordinaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; a) Un representante del Ministerio de Educaci&#xF3;n P&#xFA;blica, designado mediante Decreto Supremo suscrito directamente por el Ministro del ramo.</div><div class=\"p\">&nbsp; &nbsp; b) Un representante por cada una de las Universidades que impartan formaci&#xF3;n de docentes. Los representantes de las universidades estatales ser&#xE1;n ser&#xE1;n designados por los respectivos Rectores Delegados, y los de las universidades particulares, mediante Decreto Supremo por el Ministro de Educaci&#xF3;n a proposici&#xF3;n de los Rectores Delegados correspondientes.</div><div class=\"p\">&nbsp; &nbsp; c) Un representante del Colegio de Profesores de<span class=\"n\" id=\"n_0\">DL 1564 1976<br>ART UNICO</span> Chile.</div><br></div>"
+        },
+        {
+          "part_id": 7123900,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- Los bienes fiscales, actualmente en poder de las escuelas del Estado, sean estos: corporales o incorporales, muebles o inmuebles, podr&#xE1;n ser transferidos a las universidades que asuman la responsabilidad de la formaci&#xF3;n de docentes.</div><div class=\"p\">&nbsp; &nbsp; Dicha transferencia se formalizar&#xE1;, previo acuerdo entre &#xE9;stas y el Ministerio de Educaci&#xF3;n, si ellas lo solicitaren, bajo las condiciones, plazos y modos que ambas entidades convengan, con arreglo a las prescripciones legales que al respecto regulen las leyes vigentes sobre la materia.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Los bienes fiscales, actualmente en poder de las escuelas del Estado, sean &#xE9;stos: corporales o incorporales, muebles o inmuebles, podr&#xE1;n ser transferidos a las universidades que asuman la responsabilidad de la formaci&#xF3;n de docentes.</div><div class=\"p\">&nbsp; &nbsp; Dicha transferencia se formalizar&#xE1;, previo acuerdo entre &#xE9;stas y el Ministerio de Educaci&#xF3;n, si ellas lo solicitaren, bajo las condiciones, plazos y modos que ambas entidades convengan, con arreglo a las prescripciones legales que al respecto regulen las leyes vigentes sobre la materia.</div></div>"
+        },
+        {
+          "part_id": 7123902,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;- Except&#xFA;anse de lo dispuesto en el art&#xED;culo anterior, los bienes que actualmente se encuentran destinados exclusivamente a las Escuelas de Aplicaci&#xF3;n Anexas a las Escuelas Normales.</div><div class=\"p\">&nbsp; &nbsp; Quedan exclu&#xED;dos, de la misma manera, los bienes que conforman las bibliotecas, archivos y obras de arte que posean las Escuelas Normales.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- Except&#xFA;anse de lo dispuesto en el art&#xED;culo anterior, los bienes que actualmente se encuentran destinados exclusivamente a las Escuelas de Aplicaci&#xF3;n Anexas a las Escuelas Normales.</div><div class=\"p\">&nbsp; &nbsp; Quedan excluidos, de la misma manera, los bienes que conforman las bibliotecas, archivos y obras de arte que posean las Escuelas Normales.</div></div>"
+        },
+        {
+          "part_id": 7123903,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;- La dotaci&#xF3;n bibliogr&#xE1;fica de las actuales Escuelas Normales del Estado podr&#xE1; ser destinada a las Universidades que formar&#xE1;n docentes, al Museo Pedag&#xF3;gico, a la Direcci&#xF3;n General de Bibliotecas, Archivos y Museos o al Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Para determinar el material que podr&#xE1; ser destinado a los organismos mencionados, el Consejo de Coordinaci&#xF3;n designar&#xE1; una comisi&#xF3;n para que en un plazo no superior a 180 d&#xED;as, contado desde la vigencia del presente Decreto-Ley, proponga los procedimientos y medidas tendientes al cumplimiento de esta disposici&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- La dotaci&#xF3;n bibliogr&#xE1;fica de las actuales Escuelas Normales del Estado podr&#xE1; ser destinada a las Universidades que formar&#xE1;n docentes, al Museo Pedag&#xF3;gico, a la Direcci&#xF3;n General de Bibliotecas, Archivos y Museos o al Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Para determinar el material que podr&#xE1; ser destinado a los organismos mencionados, el Consejo de Coordinaci&#xF3;n designar&#xE1; una comisi&#xF3;n para que en un plazo no superior a 180 d&#xED;as, contado desde la vigencia del presente Decreto Ley, proponga los procedimientos y medidas tendientes al cumplimiento de esta disposici&#xF3;n. </div></div>"
+        },
+        {
+          "part_id": 7123904,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;- Los archivos existentes en las Escuelas Normales fiscales del pa&#xED;s, en su integridad pasar&#xE1;n a formar parte de los archivos oficiales del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Para este efecto el Ministerio deber&#xE1; habilitar un local especial, en el cual se mantendr&#xE1;n clasificados cronol&#xF3;gicamente y por materias los documentos que cada Escuela Normal posee a la fecha de vigencia del presente Decreto-Ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- Los archivos existentes en las Escuelas Normales fiscales del pa&#xED;s, en su integridad pasar&#xE1;n a formar parte de los archivos oficiales del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Para este efecto el Ministerio deber&#xE1; habilitar un local especial, en el cual se mantendr&#xE1;n clasificados cronol&#xF3;gicamente y por materias los documentos que cada Escuela Normal posee a la fecha de vigencia del presente Decreto Ley.</div></div>"
+        },
+        {
+          "part_id": 7123905,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;- El Ministerio de Educaci&#xF3;n designar&#xE1; a los Interventores que realizar&#xE1;n el escrutinio e inventario de los archivos de cada Escuela Normal, para su posterior concentraci&#xF3;n en el Ministerio. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- El Ministerio de Educaci&#xF3;n designar&#xE1; a los Interventores que realizar&#xE1;n el escrutinio e inventario de los archivos de cada Escuela Normal, para su posterior concentraci&#xF3;n en el Ministerio.</div></div>"
+        },
+        {
+          "part_id": 7123906,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;- Un funcionario con la denominaci&#xF3;n de Conservador, nombrado por el Ministerio de Educaci&#xF3;n, ser&#xE1; el custodio del archivo y responsable de su mantenci&#xF3;n y conservaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Tendr&#xE1; &#xE9;ste, adem&#xE1;s, la calidad de ministro de fe encargado de autorizar las copias que le fueren solicitadas respecto de hechos que consten en los documentos aut&#xE9;nticos, con las formalidades que la ley establece al efecto.</div><div class=\"p\">&nbsp; &nbsp; El archivo contar&#xE1; con el presupuesto y el personal que fuere necesario para su funcionamiento.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;.- Un funcionario con la denominaci&#xF3;n de Conservador, nombrado por el Ministerio de Educaci&#xF3;n, ser&#xE1; el custodio del archivo y responsable de su mantenci&#xF3;n y conservaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Tendr&#xE1; &#xE9;ste, adem&#xE1;s, la calidad de ministro de fe encargado de autorizar las copias que le fueren solicitadas respecto de hechos que consten en los documentos aut&#xE9;nticos, con las formalidades que la ley establece al efecto.</div><div class=\"p\">&nbsp; &nbsp; El archivo contar&#xE1; con el presupuesto y el personal que fuere necesario para su funcionamiento.</div></div>"
+        },
+        {
+          "part_id": 7123907,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0;- El archivo de la Ense&#xF1;anza Normal, tendr&#xE1; por objeto reunir, en un todo org&#xE1;nico, los archivos de las Escuelas Normales, tanto para que a &#xE9;l se pueda recurrir para obtener copias de los documentos que all&#xED; existan, como para atender a su mejor aprovechamiento cultural.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0;.- El archivo de la Ense&#xF1;anza Normal, tendr&#xE1; por objeto reunir, en un todo org&#xE1;nico, los archivos de las Escuelas Normales, tanto para que a &#xE9;l se pueda recurrir para obtener copias de los documentos que all&#xED; existan, como para atender a su mejor aprovechamiento cultural.</div></div>"
+        },
+        {
+          "part_id": 7123912,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Tercera.- En aquellas localidades en que existan dos o m&#xE1;s universidades o sedes, el interesado queda en libertad de solicitar su ingreso a la que &#xE9;l decida, sin que esto signifique, necesariamente, su incorporaci&#xF3;n a ella, toda vez que la universidad o sede que reciba un n&#xFA;mero superior de solicitudes que las que proporcionalmente le corresponda, deber&#xE1; aplicar un sistema de prioridades basado s&#xF3;lo en las calificaciones ofrecidas por el postulante, debiendo el resto que exceda de esa proporcionalidad incorporarse a la o a las otras universidades o sedes de esa localidad o zona. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Tercera.- En aquellas localidades en que existan dos o m&#xE1;s universidades o sedes, el interesado queda en libertad de solicitar su ingreso a la que &#xE9;l decida, sin que esto signifique, necesariamente, su incorporaci&#xF3;n a ella, toda vez que la universidad o sede que reciba un n&#xFA;mero superior de solicitudes que las que proporcionalmente le corresponda, deber&#xE1; aplicar un sistema de prioridades basado s&#xF3;lo en las calificaciones ofrecidas por el postulante, debiendo el resto que exceda de esa proporcionalidad incorporarse a la o a las otras universidades o sedes de esa localidad o zona.</div></div>"
+        },
+        {
+          "part_id": 7123914,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Quinta.- Los alumnos que no pudieren continuar sus estudios en 1974, y que cumplan lo consignado en la Primera Disposici&#xF3;n Transitoria, podr&#xE1;n solicitar a la universidad respectiva que resuelva su situaci&#xF3;n. Esta facultad s&#xF3;lo podr&#xE1; ejercerse en el transcurso del primer semestre del mismo a&#xF1;o, siendo definitivo lo que la universidad resuelva.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Quinta.- Los alumnos que no pudieren continuar sus estudios en 1974, y que cumplan lo consignado en la Primera Disposici&#xF3;n Transitoria, podr&#xE1;n solicitar a la universidad respectiva que resuelva su situaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Esta facultad solo podr&#xE1; ejercerse en el transcurso del primer semestre del mismo a&#xF1;o, siendo definitivo lo que la universidad resuelva.</div></div>"
+        },
+        {
+          "part_id": 7123917,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, comun&#xED;quese y publ&#xED;quese en el Diario Oficial y en los Boletines Oficiales del Ej&#xE9;rcito, Armada, Fuerza A&#xE9;rea, Carabineros de Chile e Investigaciones y en la Recopilaci&#xF3;n Oficial de la Contralor&#xED;a General de la Rep&#xFA;blica.- Junta de Gobierno de la Rep&#xFA;blica de Chile, AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Comandante en Jefe, Presidente de la Junta.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe.- CESAR MENDOZA DURAN, General, Director de Carabineros.- Hugo Castro Jim&#xE9;nez, Contraalmirante, Ministro de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo para su conocimiento.- Miguel Retamal Salas, Subsecretario de Educaci&#xF3;n P&#xFA;blica. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, comun&#xED;quese y publ&#xED;quese en el Diario Oficial y en los Boletines Oficiales del Ej&#xE9;rcito, Armada, Fuerza A&#xE9;rea, Carabineros de Chile e Investigaciones y en la Recopilaci&#xF3;n Oficial de la Contralor&#xED;a General de la Rep&#xFA;blica.- Junta de Gobierno de la Rep&#xFA;blica de Chile, AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Comandante en Jefe, Presidente de la Junta.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe.- CESAR MENDOZA DURAN, General, Director de Carabineros.- Hugo Castro Jim&#xE9;nez, Contraalmirante, Ministro de Educaci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

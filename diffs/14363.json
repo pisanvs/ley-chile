@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-11-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-11-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8632445,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo primero.- Corresponder&#xE1; al Ministerio de Relaciones Exteriores, Direcci&#xF3;n General Administrativa, Direcci&#xF3;n de Asuntos Administrativos, Departamento de Liberaciones, el otorgamiento del respectivo destintivo o placa a los veh&#xED;culos de propiedad de las Misiones Diplom&#xE1;ticas y Consulares extranjeras acreditadas en el pa&#xED;s, de organismos internacionales a los que Chile haya adherido o de los respectivos agentes diplom&#xE1;ticos, consulares o funcionarios internacionales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo primero.- Corresponder&#xE1; al Ministerio de Relaciones Exteriores, Direcci&#xF3;n General Administrativa, Direcci&#xF3;n de Asuntos Administrativos, Departamento de Liberaciones, el otorgamiento del respectivo distintivo o placa a los veh&#xED;culos de propiedad o de uso bajo el<span class=\"n\" id=\"n_0\">DTO 231,<br>R. EXTERIORES<br>D.O. 28.11.2005</span> sistema de arrendamiento con opci&#xF3;n de compra de las Misiones Diplom&#xE1;ticas y Consulares extranjeras acreditadas en el pa&#xED;s, de organismos internacionales a los que Chile haya adherido o de los respectivos agentes diplom&#xE1;ticos, consulares o funcionarios internacionales.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

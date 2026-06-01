@@ -1,0 +1,47 @@
+[
+  {
+    "fecha": "2004-07-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-02-21",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8456890,
+          "old": "<div><div class=\"p\">MODIFICA ORDENANZA N&#xBA; 1.182, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 957.- Panquehue, 6 de julio de 2004.- Vistos: Estos antecedentes, la necesidad que existe de efectuar modificaci&#xF3;n de Ordenanza Municipal N&#xBA; 1.182 de fecha 19 de diciembre de 1997, publicada en el Diario Oficial de fecha 29 de diciembre de 1997, en uso de las facultades y atribuciones que me confiere la ley 18.695, y sus modificaciones, el Decreto Alcaldicio N&#xBA; 1.301, de fecha 6 de diciembre de 2000 que nombra alcalde.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; El memorando N&#xBA; 31, de fecha 2 de marzo de 2004, de se&#xF1;or Director de Obras Municipales, por medio del cual solicita modificar Ordenanza Municipal 1.182/1997.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El acuerdo N&#xBA; 142, de fecha 19 de diciembre de 2003, adoptado por el Concejo Municipal.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA ORDENANZA N&#xBA; 1.182, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 957.- Panquehue, 6 de julio de 2004.- Vistos: Estos antecedentes, la necesidad que existe de efectuar modificaci&#xF3;n de Ordenanza Municipal N&#xBA; 1.182 de fecha 19 de diciembre de 1997, publicada en el Diario Oficial de fecha 29 de diciembre de 1997, en uso de las facultades y atribuciones que me confiere la ley 18.695, y sus modificaciones, el Decreto Alcaldicio N&#xBA; 1.301, de fecha 6 de diciembre de 2000 que nombra alcalde.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; El memorando N&#xBA; 31, de fecha 2 de marzo de 2004, de se&#xF1;or Director de Obras Municipales, por medio del cual solicita modificar Ordenanza Municipal 1.182/1997.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El acuerdo N&#xBA; 142, de fecha 19 de diciembre de 2003, adoptado por el Concejo Municipal.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8456891,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Mod&#xED;fiquese la Ordenanza Municipal N&#xBA; 1.182, de fecha 19 de diciembre de 1997, en su n&#xFA;mero 2 del t&#xED;tulo IX derechos de Obras Municipales</div><br><div class=\"p\">&nbsp; &nbsp;  Extracci&#xF3;n de arena, ripio, y otros materiales de pozos lastreros de Bienes Nacionales de uso p&#xFA;blico, por metro c&#xFA;bico, 0,01 UTM x M3.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Mod&#xED;fiquese la Ordenanza Municipal N&#xBA; 1.182, de fecha 19 de diciembre de 1997, en su n&#xFA;mero 2 del t&#xED;tulo IX derechos de Obras Municipales</div><br><div class=\"p\">&nbsp; &nbsp;  Extracci&#xF3;n de arena, ripio, y otros materiales de<span class=\"n\" id=\"n_0\">DTO 267,<br>M. DE PANQUEHUE<br>N&#xBA; 1<br>D.O. 21.02.2008</span> pozos lastreros de Bienes Nacionales de uso p&#xFA;blico, por metro c&#xFA;bico, 0,05 UTM x M3.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2009-03-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8456890,
+          "old": "<div><div class=\"p\">MODIFICA ORDENANZA N&#xBA; 1.182, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 957.- Panquehue, 6 de julio de 2004.- Vistos: Estos antecedentes, la necesidad que existe de efectuar modificaci&#xF3;n de Ordenanza Municipal N&#xBA; 1.182 de fecha 19 de diciembre de 1997, publicada en el Diario Oficial de fecha 29 de diciembre de 1997, en uso de las facultades y atribuciones que me confiere la ley 18.695, y sus modificaciones, el Decreto Alcaldicio N&#xBA; 1.301, de fecha 6 de diciembre de 2000 que nombra alcalde.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; El memorando N&#xBA; 31, de fecha 2 de marzo de 2004, de se&#xF1;or Director de Obras Municipales, por medio del cual solicita modificar Ordenanza Municipal 1.182/1997.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El acuerdo N&#xBA; 142, de fecha 19 de diciembre de 2003, adoptado por el Concejo Municipal.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA ORDENANZA N&#xBA; 1.182, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 957.- Panquehue, 6 de julio de 2004.- Vistos: Estos antecedentes, la necesidad que existe de efectuar modificaci&#xF3;n de Ordenanza Municipal N&#xBA; 1.182 de fecha 19 de diciembre de 1997, publicada en el Diario Oficial de fecha 29 de diciembre de 1997, en uso de las facultades y atribuciones que me confiere la ley 18.695, y sus modificaciones, el Decreto Alcaldicio N&#xBA; 1.301, de fecha 6 de diciembre de 2000 que nombra alcalde.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; El memorando N&#xBA; 31, de fecha 2 de marzo de 2004, de se&#xF1;or Director de Obras Municipales, por medio del cual solicita modificar Ordenanza Municipal 1.182/1997.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El acuerdo N&#xBA; 142, de fecha 19 de diciembre de 2003, adoptado por el Concejo Municipal.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>"
+        },
+        {
+          "part_id": 8456891,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Mod&#xED;fiquese la Ordenanza Municipal N&#xBA; 1.182, de fecha 19 de diciembre de 1997, en su n&#xFA;mero 2 del t&#xED;tulo IX derechos de Obras Municipales</div><br><div class=\"p\">&nbsp; &nbsp;  Extracci&#xF3;n de arena, ripio, y otros materiales de<span class=\"n\" id=\"n_0\">DTO 267,<br>M. DE PANQUEHUE<br>N&#xBA; 1<br>D.O. 21.02.2008</span> pozos lastreros de Bienes Nacionales de uso p&#xFA;blico, por metro c&#xFA;bico, 0,05 UTM x M3.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Mod&#xED;fiquese la Ordenanza Municipal N&#xBA; 1.182, de fecha 19 de diciembre de 1997, en su n&#xFA;mero 2 del t&#xED;tulo IX derechos de Obras Municipales</div><br><div class=\"p\">&nbsp; &nbsp;  Extracci&#xF3;n de arena, ripio, y otros materiales de<span class=\"n\" id=\"n_0\">DTO 267,<br>M. DE PANQUEHUE<br>N&#xBA; 1<br>D.O. 21.02.2008<br>DTO 240,<br>M. DE PANQUEHUE<br>N&#xBA; 1<br>D.O. 07.03.2009</span> pozos lastreros de Bienes Nacionales de uso p&#xFA;blico, por metro c&#xFA;bico, 0,021 UTM x M3.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

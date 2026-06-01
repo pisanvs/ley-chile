@@ -1,0 +1,57 @@
+[
+  {
+    "fecha": "1985-06-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-01-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8285731,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Los derechos y garant&#xED;as que la Constituci&#xF3;n asegura a todas las personas s&#xF3;lo pueden ser afectados en las situaciones en que &#xE9;sta lo autoriza y siempre que se encuentren en aplicaci&#xF3;n los estados de excepci&#xF3;n que ella establece.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- El ejercicio de los derechos y<span class=\"n\" id=\"n_0\">LEY 18906<br>Art. &#xFA;nico, 1.-<br>D.O 24.01.1990</span> garant&#xED;as que la Constituci&#xF3;n Pol&#xED;tica asegura a todas las personas, s&#xF3;lo puede ser afectado en las situaciones en que &#xE9;sta lo autoriza y siempre que se encuentren vigentes los estados de excepci&#xF3;n que ella establece.</div><br></div>"
+        },
+        {
+          "part_id": 8285733,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Durante el estado de sitio, las facultades conferidas al Presidente de la Rep&#xFA;blica podr&#xE1;n ser delegadas, total o parcialmente, en los Intendentes, Gobernadores o jefes de la Defensa Nacional que &#xE9;l designe, con excepci&#xF3;n de las de prohibir el ingreso al pa&#xED;s a determinadas personas o de expulsarlas del territorio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Durante el estado de sitio, las facultades conferidas al Presidente de la Rep&#xFA;blica podr&#xE1;n ser delegadas, total o parcialmente, en los<span class=\"n\" id=\"n_1\">LEY 18906<br>Art. &#xFA;nico, 2.-<br>D.O 24.01.1990</span> Intendentes, Gobernadores o jefes de la Defensa Nacional que &#xE9;l designe.</div><br></div>"
+        },
+        {
+          "part_id": 8285734,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Declarado el estado de emergencia, las facultades conferidas al Presidente de la Rep&#xFA;blica podr&#xE1;n ser delegadas, total o parcialmente, en los jefes de la Defensa Nacional que &#xE9;l designe, salvo la de prohibir a determinadas personas la entrada o salida del territorio de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Declarado el estado de emergencia, las facultades conferidas al Presidente de la Rep&#xFA;blica podr&#xE1;n ser delegadas, total o parcialmente, en los jefes de la Defensa Nacional que &#xE9;l designe.<span class=\"n\" id=\"n_2\">LEY 18906<br>Art. &#xFA;nico, 3.-<br>D.O 24.01.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 8285738,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- Los estados de excepci&#xF3;n constitucional se declarar&#xE1;n mediante decreto supremo firmado por el Presidente de la Rep&#xFA;blica y los Ministros del Interior y de Defensa Nacional y comenzar&#xE1;n a regir desde la fecha de su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; El decreto que declare el estado de sitio con el acuerdo del Congreso Nacional deber&#xE1; publicarse dentro del plazo de tres d&#xED;as, contado desde la fecha del acuerdo aprobatorio, o bien contado desde el vencimiento del plazo de diez d&#xED;as que se&#xF1;ala el art&#xED;culo 40 N&#xB0; 2&#xB0;, inciso segundo, de la Constituci&#xF3;n, si no hubiere habido pronunciamiento del Congreso.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, si el Presidente de la Rep&#xFA;blica aplicare el estado de sitio con el s&#xF3;lo acuerdo del Consejo de Seguridad Nacional, dicho estado comenzar&#xE1; a regir a contar de la fecha del acuerdo, sin perjuicio de su publicaci&#xF3;n en el Diario Oficial dentro de tercero d&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Para decretar el estado de asamblea bastar&#xE1; la existencia de una situaci&#xF3;n de guerra externa y no se requerir&#xE1; que la declaraci&#xF3;n de guerra haya sido autorizada por ley.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- Los estados de excepci&#xF3;n<span class=\"n\" id=\"n_3\">LEY 18906<br>Art. &#xFA;nico, 4.-<br>D.O 24.01.1990</span> constitucional se declarar&#xE1;n mediante decreto supremo firmado por el Presidente de la Rep&#xFA;blica y los Ministros del Interior y de Defensa Nacional, y comenzar&#xE1;n a regir desde la fecha de su publicaci&#xF3;n en el Diario Oficial. Los estados de asamblea y de cat&#xE1;strofe podr&#xE1;n declararse por un plazo m&#xE1;ximo de noventa d&#xED;as, pero el Presidente de la Rep&#xFA;blica podr&#xE1; solicitar nuevamente su pr&#xF3;rroga o su nueva declaraci&#xF3;n si subsisten las circunstancias que lo motivan. Los estados de sitio y emergencia se declarar&#xE1;n y prorrogar&#xE1;n en la forma que establecen las normas constitucionales pertinentes.</div><div class=\"p\">&nbsp; &nbsp; El decreto que declare el estado de sitio con el acuerdo del Congreso Nacional deber&#xE1; publicarse dentro del plazo de tres d&#xED;as, contado desde la fecha del acuerdo aprobatorio, o bien contado desde el vencimiento del plazo de diez d&#xED;as que se&#xF1;ala el art&#xED;culo 40 N&#xB0; 2&#xB0;, inciso segundo, de la Constituci&#xF3;n, si no hubiere habido pronunciamiento del Congreso.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, si el Presidente de la Rep&#xFA;blica aplicare el estado de sitio con el s&#xF3;lo acuerdo del Consejo de Seguridad Nacional, dicho estado comenzar&#xE1; a regir a contar de la fecha del acuerdo, sin perjuicio de su publicaci&#xF3;n en el Diario Oficial dentro de tercero d&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Para decretar el estado de asamblea bastar&#xE1; la existencia de una situaci&#xF3;n de guerra externa y no se requerir&#xE1; que la declaraci&#xF3;n de guerra haya sido autorizada por ley.</div><br></div>"
+        },
+        {
+          "part_id": 8285741,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11.- Todas las medidas que se adopten en virtud de los estados de excepci&#xF3;n deber&#xE1;n ser difundidas o comunicadas, en la forma que la autoridad determine.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11.- Todas las medidas que se adopten en virtud de los estados de excepci&#xF3;n deber&#xE1;n ser difundidas o comunicadas, en la forma que la autoridad determine.</div><div class=\"p\">&nbsp; &nbsp; En ning&#xFA;n caso esta difusi&#xF3;n podr&#xE1; implicar una<span class=\"n\" id=\"n_4\">LEY 18906<br>Art. &#xFA;nico, 5.-<br>D.O 24.01.1990</span> discriminaci&#xF3;n entre medios de comunicaci&#xF3;n del mismo g&#xE9;nero.</div><br><br></div>"
+        },
+        {
+          "part_id": 8285743,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13.- Las medidas que se adopten durante los estados de excepci&#xF3;n en ning&#xFA;n caso podr&#xE1;n prolongarse m&#xE1;s all&#xE1; de la vigencia de dichos estados, sin perjuicio del las excepciones relativas a la de expulsi&#xF3;n del territorio de la Rep&#xFA;blica y de prohibici&#xF3;n de ingreso al pa&#xED;s, contempladas en el N&#xB0; 7&#xB0; del art&#xED;culo 41 de la Constituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Si, en conformidad con lo dispuesto en el inciso final del N&#xB0; 2&#xB0; del art&#xED;culo 40 de la Constituci&#xF3;n, el estado de sitio fuere prorrogado, las medidas adoptadas en su virtud subsistir&#xE1;n durante la pr&#xF3;rroga.</div><div class=\"p\">&nbsp; &nbsp; En el caso del inciso tercero del N&#xB0; 2&#xB0; del art&#xED;culo 40 de la Constituci&#xF3;n, todas las medidas que el Presidente de la Rep&#xFA;blica hubiere aplicado en virtud de dicha disposici&#xF3;n quedar&#xE1;n sin efecto si el Congreso rechazare la proposici&#xF3;n de declarar el estado de sitio. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13.- Las medidas que se adopten durante los<span class=\"n\" id=\"n_5\">Ley 18906<br>Art. &#xFA;nico, 6.-<br>D.O 24.01.1990</span> estados de excepci&#xF3;n en ning&#xFA;n caso podr&#xE1;n prolongarse m&#xE1;s all&#xE1; de la vigencia de dichos estados.</div><div class=\"p\">&nbsp; &nbsp; Si, en conformidad con lo dispuesto en el inciso final del N&#xB0; 2&#xB0; del art&#xED;culo 40 de la Constituci&#xF3;n, el estado de sitio fuere prorrogado, las medidas adoptadas en su virtud subsistir&#xE1;n durante la pr&#xF3;rroga.</div><div class=\"p\">&nbsp; &nbsp; En el caso del inciso tercero del N&#xB0; 2&#xB0; del art&#xED;culo 40 de la Constituci&#xF3;n, todas las medidas que el Presidente de la Rep&#xFA;blica hubiere aplicado en virtud de dicha disposici&#xF3;n quedar&#xE1;n sin efecto si el Congreso rechazare la proposici&#xF3;n de declarar el estado de sitio.</div><br></div>"
+        },
+        {
+          "part_id": 8285744,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14.- La persona afectada con la medida de expulsi&#xF3;n del territorio de la Rep&#xFA;blica o de prohibici&#xF3;n de ingreso al pa&#xED;s podr&#xE1; solicitar la reconsideraci&#xF3;n de la respectiva medida.</div><div class=\"p\">&nbsp; &nbsp; Una vez expirado el estado de excepci&#xF3;n en virtud del cual se adopt&#xF3; la medida correspondiente, el rechazo de la petici&#xF3;n deber&#xE1; ser fundado.</div><div class=\"p\">&nbsp; &nbsp; Lo dispuesto en los incisos anteriores es sin perjuicio de que la propia autoridad deje sin efecto la medida decretada en la oportunidad que ella misma determine.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14.- La persona afectada con la medida de<span class=\"n\" id=\"n_6\">LEY 18906<br>Art. &#xFA;nico, 7.-<br>D.O 24.01.1990</span> expulsi&#xF3;n del territorio de la Rep&#xFA;blica o de prohibici&#xF3;n de ingreso al pa&#xED;s durante el estado de asamblea, podr&#xE1; solicitar la reconsideraci&#xF3;n de la respectiva medida, sin perjuicio de que la propia autoridad la deje sin efecto en la oportunidad que ella misma determine.</div><br><br></div>"
+        },
+        {
+          "part_id": 8285746,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16.- La medida de traslado s&#xF3;lo podr&#xE1; cumplirse en localidades urbanas.</div><div class=\"p\">&nbsp; &nbsp; Para los efectos de esta ley, enti&#xE9;ndese por localidad urbana todo lugar poblado que se encuentre dotado, a lo menos, de unidad policial y alg&#xFA;n medio de comunicaci&#xF3;n con el resto del pa&#xED;s, tal como camino, tel&#xE9;fono, radio o tel&#xE9;grafo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16.- La medida de traslado s&#xF3;lo podr&#xE1; cumplirse en localidades urbanas.</div><div class=\"p\">&nbsp; &nbsp; Para los efectos de esta ley, enti&#xE9;ndese por<span class=\"n\" id=\"n_7\">LEY 18906<br>Art. &#xFA;nico, 8.-<br>D.O 24.01.1990</span> localidad urbana aquella que se encuentra dentro del radio urbano en que tenga su asiento una municipalidad.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

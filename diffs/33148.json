@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-08-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-04-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9001295,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Des&#xED;gnase como Ministro de Fe para actuar en las localidades ubicadas en la VIII Regi&#xF3;n, en que no haya Notarios ni Oficiales del Registro Civil, a los siguientes funcionarios:</div><div class=\"p\"> - Antonio Maltrana Torres</div><div class=\"p\"> - Remberto Contreras Santander</div><div class=\"p\"> - Mario Quappe de la Maza</div><div class=\"p\"> - M&#xE1;ximo Sep&#xFA;lveda Silva</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Des&#xED;gnase como Ministro de Fe para actuar en las localidades ubicadas en la VIII Regi&#xF3;n, en que no haya Notarios ni Oficiales del Registro Civil, a los siguientes funcionarios:</div><div class=\"p\"> - ELIMINADO<span class=\"n\" id=\"n_0\">RES 71, AGRICULTURA<br>D.O. 30.04.2005</span></div><div class=\"p\"> - Remberto Contreras Santander</div><div class=\"p\"> - Mario Quappe de la Maza</div><div class=\"p\"> - M&#xE1;ximo Sep&#xFA;lveda Silva</div><br></div>"
+        }
+      ]
+    }
+  }
+]

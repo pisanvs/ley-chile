@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-01-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8831933,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DE CALIFICACION DE EXPERTOS EN PREVENCION DE RIEGOS DE LA INDUSTRIA EXTRACTIVA MINERA N&#xFA;m.1.851.- Santiago, 28 de Diciembre de 1993.- Visto: El Decreto Ley N&#xB0;3.525, de 1980; el Decreto Supremo N&#xB0;72, de 1985 del Ministerio de Miner&#xED;a; el D.S.</div><div class=\"p\">N&#xB0;140, de 1992 del Ministerio de Miner&#xED;a; el Decreto Supremo N&#xB0;42, de 1990, del Ministerio de Miner&#xED;a y la Resoluci&#xF3;n N&#xB0;575 del 11 de mayo de 1993 del Servicio Nacional de Geolog&#xED;a y Miner&#xED;a; y,</div><div class=\"p\">&nbsp; &nbsp; Considerando: La conveniencia de tener una normativa relativa a la calificaci&#xF3;n de los Expertos en Prevenci&#xF3;n de Riesgos,</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el presente Reglamento de calificaci&#xF3;n de los Expertos en Prevenci&#xF3;n de Riesgos, el que se regir&#xE1; por las cl&#xE1;usulas siguientes:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DE CALIFICACION DE EXPERTOS EN PREVENCION DE RIEGOS DE LA INDUSTRIA EXTRACTIVA MINERA N&#xFA;m.1.851.- Santiago, 28 de Diciembre de 1993.- Visto: El Decreto Ley N&#xB0;3.525, de 1980; el Decreto Supremo N&#xB0;72, de 1985 del Ministerio de Miner&#xED;a; el D.S.</div><div class=\"p\">N&#xB0;140, de 1992 del Ministerio de Miner&#xED;a; el Decreto Supremo N&#xB0;42, de 1990, del Ministerio de Miner&#xED;a y la Resoluci&#xF3;n N&#xB0;575 del 11 de mayo de 1993 del Servicio Nacional de Geolog&#xED;a y Miner&#xED;a; y,</div><div class=\"p\">&nbsp; &nbsp; Considerando: La conveniencia de tener una normativa relativa a la calificaci&#xF3;n de los Expertos en Prevenci&#xF3;n de Riesgos,</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el presente Reglamento de calificaci&#xF3;n de los Expertos en Prevenci&#xF3;n de Riesgos, el que se regir&#xE1; por las cl&#xE1;usulas siguientes:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

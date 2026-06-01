@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-07-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-08-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9485380,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- F&#xED;jese el listado consolidado de los territorios urbanos saturados de torres soporte de antenas y sistemas radiantes subsistentes una vez ejecutoriadas todas las resoluciones dictadas con motivo de los recursos interpuestos durante los a&#xF1;os 2012 y 2013, y sin perjuicio de las medidas de mitigaci&#xF3;n que hubieren sido ejecutadas por las concesionarias de conformidad al antedicho art&#xED;culo 4&#xBA; transitorio, y que -seg&#xFA;n se ha se&#xF1;alado- debieron o deben ser controladas por las Direcciones de Obras Municipales:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/40995.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/40996.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Decl&#xE1;rese que la presente resoluci&#xF3;n no afectar&#xE1; los plazos que a&#xFA;n se encuentren en curso o aquellos que ya se encontraren vencidos, en lo concerniente al cumplimiento de las obligaciones contempladas en el art&#xED;culo 4&#xBA; transitorio de la ley N&#xBA;20.599.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- F&#xED;jese el listado consolidado de los territorios urbanos saturados de torres soporte de antenas y sistemas radiantes subsistentes una vez ejecutoriadas todas las resoluciones dictadas con motivo de los recursos interpuestos durante los a&#xF1;os 2012 y 2013, y sin perjuicio de las medidas de mitigaci&#xF3;n que hubieren sido ejecutadas por las concesionarias de conformidad al antedicho art&#xED;culo 4&#xBA; transitorio, y que -seg&#xFA;n se ha se&#xF1;alado- debieron o deben ser controladas por las Direcciones de Obras Municipales: <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/40995.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/40996.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Decl&#xE1;rese que la presente resoluci&#xF3;n no afectar&#xE1; los plazos que a&#xFA;n se encuentren en curso o aquellos que ya se encontraren vencidos, en lo concerniente al cumplimiento de las obligaciones contempladas en el art&#xED;culo 4&#xBA; transitorio de la ley N&#xBA;20.599.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 2&#xB0; de la Resoluci&#xF3;n 2763 Exenta, Transportes, publicada el 08.08.2014, modifica la presente norma en el sentido de rectificar el listado consolidado de los territorios urbanos saturados de torres soporte de antenas y sistemas radiantes, elimin&#xE1;ndose la menci&#xF3;n efectuada en el resuelvo 1.- al sitio ID N&#xBA; 122, comuna de Vitacura, Regi&#xF3;n Metropolitana.</div></div>"
+        }
+      ]
+    }
+  }
+]

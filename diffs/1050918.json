@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-05-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-06-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9356797,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  CONTRALOR&#xCD;A GENERAL DE LA REP&#xDA;BLICA<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1051615&amp;idParte=9356795&amp;idVersion=2013-06-04\">Rectificaci&#xF3;n 249<br>D.O. 04.06.2013</a></span></div><br><div class=\"p\">&nbsp; &nbsp;  Divisi&#xF3;n de Infraestructura y Regulaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  Subdivisi&#xF3;n Jur&#xED;dica</div><br><div class=\"p\">Cursa con alcance el decreto N&#xBA; 31, de 2013, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 18.206.- Santiago, 22 de marzo de 2013.</div><div class=\"p\">&nbsp; &nbsp;  Esta Contralor&#xED;a General ha dado curso al documento individualizado en el rubro, que modifica, por cambio de titular, las concesiones de radiodifusi&#xF3;n sonora en frecuencia modulada que se indican para las localidades de Ba&#xF1;os Morales, El Volc&#xE1;n y San Gabriel, pero cumple con se&#xF1;alar que ese Ministerio deber&#xE1; adoptar en las instancias que correspondan las medidas que sean procedentes en relaci&#xF3;n con lo sostenido por esa Secretar&#xED;a de Estado en la resoluci&#xF3;n de fecha 24 de octubre de 2012, en orden a haberse constatado una diferencia entre la ubicaci&#xF3;n de las instalaciones relativas a una concesi&#xF3;n otorgada a la empresa Indestel Limitada y la consignada en el decreto de otorgamiento respectivo, las que deber&#xE1;n ser informadas a esta Entidad Fiscalizadora.</div><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a Ud., por orden del Contralor General de la Rep&#xFA;blica, Jefe Subdivisi&#xF3;n Jur&#xED;dica, Divisi&#xF3;n de Infraestructura y Regulaci&#xF3;n.</div><br><div class=\"p\">Al se&#xF1;or</div><div class=\"p\">Ministro de Transportes y Telecomunicaciones</div><div class=\"p\">Presente.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1051615,
+      "fecha": "2013-06-04"
+    }
+  }
+]

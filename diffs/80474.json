@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-08-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-11-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8952870,
+          "old": "<div><div class=\"p\">1&#xB0;.- Ampl&#xED;ase la autorizaci&#xF3;n otorgada mediante resoluci&#xF3;n exenta de SEC No. 323 de fecha 12.05.87, al Organismo T&#xE9;cnico de inspecci&#xF3;n y mantenci&#xF3;n de v&#xE1;lvulas para cilindros de GLP, Inspecciones Gama Ltda., RUT No.</div><div class=\"p\">83.268.100-8, para operar en las instalaciones ubicadas en calle San Carlos No. 175, de la Poblaci&#xF3;n Santa Leonor, en la Comuna de Talcahuano.</div><div class=\"p\">2&#xB0;.- La autorizaci&#xF3;n contenida en esta resoluci&#xF3;n exenta ser&#xE1; v&#xE1;lida para ejercer con la infraestructura humana y f&#xED;sica, en la direcci&#xF3;n individualizada en el resuelvo 1&#xB0;, y sujeta al estricto cumplimiento de las disposiciones legales, reglamentarias y normativas vigentes y especialmente lo prescrito en el decreto se&#xF1;alado en visto 2&#xB0;, y en la norma chilena NCh 1800, &quot;V&#xE1;lvulas para cilindros port&#xE1;tiles soldados para gases licuados de petr&#xF3;leo-Inspecci&#xF3;n y mantenci&#xF3;n&quot;.</div><div class=\"p\">3&#xB0;.- La presente resoluci&#xF3;n exenta entrar&#xE1; en vigencia una vez que haya sido publicada en el Diario Oficial por cuenta del interesado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Ampl&#xED;ase la autorizaci&#xF3;n otorgada mediante</div><div class=\"p\">resoluci&#xF3;n exenta de SEC No. 323 de fecha 12.05.87,</div><div class=\"p\">al Organismo T&#xE9;cnico de inspecci&#xF3;n y mantenci&#xF3;n de</div><div class=\"p\">v&#xE1;lvulas para cilindros de GLP, Inspecciones Gama Ltda.,</div><div class=\"p\">RUT No. 83.268.100-8, para operar en las instalaciones</div><div class=\"p\">ubicadas en calle San Carlos No. 715, de la Poblaci&#xF3;n<span class=\"n\" id=\"n_0\">RES 1316 EXENTA,<br>ECONOMIA<br>D.O. 02.11.1991</span></div><div class=\"p\">Santa Leonor, en la Comuna de Talcahuano.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- La autorizaci&#xF3;n contenida en esta resoluci&#xF3;n</div><div class=\"p\">exenta ser&#xE1; v&#xE1;lida para ejercer con la infraestructura</div><div class=\"p\">humana y f&#xED;sica, en la direcci&#xF3;n individualizada en el</div><div class=\"p\">resuelvo 1&#xB0;, y sujeta al estricto cumplimiento de las</div><div class=\"p\">disposiciones legales, reglamentarias y normativas</div><div class=\"p\">vigentes y especialmente lo prescrito en el decreto</div><div class=\"p\">se&#xF1;alado en visto 2&#xB0;, y en la norma chilena NCh 1800,</div><div class=\"p\">&quot;V&#xE1;lvulas para cilindros port&#xE1;tiles soldados para</div><div class=\"p\">gases licuados de petr&#xF3;leo-Inspecci&#xF3;n y mantenci&#xF3;n&quot;.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;.- La presente resoluci&#xF3;n exenta entrar&#xE1; en</div><div class=\"p\">vigencia una vez que haya sido publicada en el Diario</div><div class=\"p\">Oficial por cuenta del interesado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

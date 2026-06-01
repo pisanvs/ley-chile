@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2024-08-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10531015,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1209939&amp;idParte=10530976&amp;idVersion=2025-01-03\">Ley 21724<br>Art. 79<br>D.O. 03.01.2025</a></span>En el marco de las actividades de vigilancia destinadas a la prevenci&#xF3;n de riesgos laborales, los organismos administradores del seguro de la ley N&#xB0; 16.744 deber&#xE1;n remitir semestralmente a la Superintendencia de Seguridad Social, la cantidad de denuncias que han sido presentadas en los lugares de trabajo en materia de acoso laboral, sexual o de violencia en el trabajo, adem&#xE1;s del tipo de acciones y/o medidas adoptadas en cada una de ellas.</div><div class=\"p\">&nbsp; &nbsp; Los empleadores estar&#xE1;n obligados a proporcionar la informaci&#xF3;n requerida por los organismos administradores para dar cumplimiento a lo establecido en el inciso precedente.</div><div class=\"p\">&nbsp; &nbsp; La Superintendencia de Seguridad Social, mediante una norma de car&#xE1;cter general, entregar&#xE1; las directrices para el cumplimiento de lo dispuesto en el presente art&#xED;culo, especialmente en lo que respecta al reporte y registro de informaci&#xF3;n y la clasificaci&#xF3;n de las acciones y medidas adoptadas por los empleadores. Con todo, la Superintendencia deber&#xE1; remitir al Ministerio del Trabajo y Previsi&#xF3;n Social y al Consejo Superior Laboral, en los meses de enero y julio de cada a&#xF1;o, un informe estad&#xED;stico con los datos consolidados a que refiere el presente art&#xED;culo.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1209939,
+      "fecha": "2025-01-03"
+    }
+  }
+]

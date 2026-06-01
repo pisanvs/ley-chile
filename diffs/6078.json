@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-05-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5872909,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE SEGURO DE PASAJEROS EN LOS SERVICIOS ESPECIALES DE LOCOMOCION COLECTIVA, ESCOLARES, TURISMO Y PEATONES</div><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de Abril de 1974.- La H. Junta de Gobierno ha acordado dictar el siguiente decreto ley:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 431.- Vistos: lo dispuesto en el art&#xED;culo 19&#xB0; de la ley N&#xB0; 16.426, reemplazado por el art&#xED;culo 25&#xB0; de la ley N&#xB0; 16.582, de 24 de Noviembre de 1966; lo establecido en el decreto supremo N&#xB0; 1.130, de 1967, del Ministerio de Hacienda; lo prescrito en el decreto ley N&#xB0; 1, de 11 de Septiembre de 1973, y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; La conveniencia de hacer extensivo el seguro obligatorio de accidentes de pasajeros y peatones a todas aquellas personas que hacen uso de veh&#xED;culos de locomoci&#xF3;n colectiva del pa&#xED;s para efectuar viajes destinados al transporte de trabajadores o a viajes especiales, preferentemente de fines de semanas, que tienen por objeto la recreaci&#xF3;n, eventos deportivos, y a los peatones;</div><div class=\"p\">&nbsp; &nbsp; Que, asimismo, es necesario hacer extensivo el indicado seguro al transporte de escolares y a los viajes de turismo;</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE SEGURO DE PASAJEROS EN LOS SERVICIOS ESPECIALES DE LOCOMOCION COLECTIVA, ESCOLARES, TURISMO Y PEATONES</div><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de Abril de 1974.- La H. Junta de Gobierno ha acordado dictar el siguiente decreto ley:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 431.- Vistos: lo dispuesto en el art&#xED;culo 19&#xB0; de la ley N&#xB0; 16.426, reemplazado por el art&#xED;culo 25&#xB0; de la ley N&#xB0; 16.582, de 24 de Noviembre de 1966; lo establecido en el decreto supremo N&#xB0; 1.130, de 1967, del Ministerio de Hacienda; lo prescrito en el decreto ley N&#xB0; 1, de 11 de Septiembre de 1973, y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; La conveniencia de hacer extensivo el seguro obligatorio de accidentes de pasajeros y peatones a todas aquellas personas que hacen uso de veh&#xED;culos de locomoci&#xF3;n colectiva del pa&#xED;s para efectuar viajes destinados al transporte de trabajadores o a viajes especiales, preferentemente de fines de semanas, que tienen por objeto la recreaci&#xF3;n, eventos deportivos, y a los peatones;</div><div class=\"p\">&nbsp; &nbsp; Que, asimismo, es necesario hacer extensivo el indicado seguro al transporte de escolares y a los viajes de turismo;</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-05-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-05-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9594615,
+          "old": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  a. Reempl&#xE1;zase el n&#xFA;mero 7&#xBA; de las Normas sobre Transmisi&#xF3;n de Programas Culturales por el texto que a continuaci&#xF3;n se indica: &quot;De lunes a domingo, ambos d&#xED;as inclusive, el horario de alta audiencia ser&#xE1; el comprendido entre las 18:30 Horas y las 00:00 Horas&quot;. </div><div class=\"p\">&nbsp; &nbsp;  b. Reempl&#xE1;zase el n&#xFA;mero 8&#xBA; de las Normas sobre Transmisi&#xF3;n de Programas Culturales por el texto que a continuaci&#xF3;n se indica: &quot;De lunes a domingo, ambos d&#xED;as inclusive, las restantes horas obligatorias de programaci&#xF3;n cultural deber&#xE1;n transmitirse entre las 09:00 Horas y las 18:03 Horas&quot;. </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  El Consejo autoriz&#xF3; al Presidente para ordenar de inmediato la publicaci&#xF3;n del acuerdo en el Diario Oficial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  a. Reempl&#xE1;zase el n&#xFA;mero 7&#xBA; de las Normas sobre Transmisi&#xF3;n de Programas Culturales por el texto que a continuaci&#xF3;n se indica: &quot;De lunes a domingo, ambos d&#xED;as inclusive, el horario de alta audiencia ser&#xE1; el comprendido entre las 18:30 Horas y las 00:00 Horas&quot;. </div><div class=\"p\">&nbsp; &nbsp;  b. Reempl&#xE1;zase el n&#xFA;mero 8&#xBA; de las Normas sobre Transmisi&#xF3;n de Programas Culturales por el texto que a continuaci&#xF3;n se indica: &quot;De lunes a domingo, ambos d&#xED;as inclusive, las restantes horas obligatorias de programaci&#xF3;n cultural deber&#xE1;n transmitirse entre las 09:00 Horas y las 18:30 Horas<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1077266&amp;idParte=9596844&amp;idVersion=2015-05-13\">RECTIFICACI&#xD3;N 732<br>D.O. 13.05.2015</a></span>&quot;. </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  El Consejo autoriz&#xF3; al Presidente para ordenar de inmediato la publicaci&#xF3;n del acuerdo en el Diario Oficial.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1077266,
+      "fecha": "2015-05-13"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-08-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9822714,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Apru&#xE9;base el programa de expropiaci&#xF3;n de 38 inmuebles de distintos propietarios aparentes, conforme a los roles se&#xF1;alados en los considerandos del presente decreto, todos los cuales corresponden a la comuna y Regi&#xF3;n de Valpara&#xED;so, de una superficie total 7.459,36 metros cuadrados, destinados al proyecto de vialidad urbana denominado &quot;Mejoramiento y Prolongaci&#xF3;n Avenida Alessandri, Tramo B + R&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Valpara&#xED;so, Regi&#xF3;n de Valpara&#xED;so, si lo hubiere.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Apru&#xE9;base el programa de expropiaci&#xF3;n de 38 inmuebles de distintos propietarios aparentes, conforme a los roles se&#xF1;alados en los considerandos del presente decreto, todos los cuales corresponden a la comuna y Regi&#xF3;n de Valpara&#xED;so, de una superficie total 7.459,36 metros cuadrados, destinados al proyecto de vialidad urbana denominado &quot;Mejoramiento y Prolongaci&#xF3;n Avenida Alemania<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1106389&amp;idParte=9824410&amp;idVersion=2017-08-14\">Decreto 103 EXENTO,<br>VIVIENDA<br>D.O. 14.08.2017</a></span>, Tramo B + R&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Valpara&#xED;so, Regi&#xF3;n de Valpara&#xED;so, si lo hubiere.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1106389,
+      "fecha": "2017-08-14"
+    }
+  }
+]

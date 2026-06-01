@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-08-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949211,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- A contar del 1&#xB0; de mayo de 1991, los buses, taxibuses y minibuses, de 12 o m&#xE1;s asientos, incluido el del conductor, para realizar servicios de transporte remunerado de pasajeros, en la provincia de Santiago y las comunas de San Bernardo y Puente Alto de las provincias de Maipo y Cordillera, respectivamente, deber&#xE1;n tener una antig&#xFC;edad inferior o igual a 18 a&#xF1;os.</div><div class=\"p\">&nbsp; &nbsp; Para estos efectos, se calcular&#xE1; la antig&#xFC;edad restando al a&#xF1;o en que se realiza el c&#xF3;mputo el a&#xF1;o de modelo del veh&#xED;culo correspondiente.</div><div class=\"p\">&nbsp; &nbsp; 2.- A contar del 1&#xB0; de mayo de 1992, las plantas revisoras de buses y taxibuses habilitadas para tal efecto en el &#xE1;rea del n&#xFA;mero 1.-, no podr&#xE1;n otorgar certificados de revisi&#xF3;n t&#xE9;cnica a buses y taxibuses cuyo a&#xF1;o de modelo sea de una antig&#xFC;edad mayor a 18 a&#xF1;os.</div><div class=\"p\">&nbsp; &nbsp; 3.- Por modelo o a&#xF1;o de modelo de los veh&#xED;culos se entiende el a&#xF1;o de su fabricaci&#xF3;n, anotado en el Registro Nacional de Veh&#xED;culos Motorizados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- A contar del 1&#xB0; de mayo de 1992, los buses,<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O.21.08.1991</span> taxibuses y minibuses, de 12 o m&#xE1;s asientos, incluido el del conductor, para realizar servicios de transporte remunerado de pasajeros, en la provincia de Santiago y<div class=\"n rnp\" id=\"rnp5\"><a href=\"#np5\">NOTA 2:</a></div> las comunas de San Bernardo y Puente Alto de las provincias de Maipo y Cordillera, respectivamente, deber&#xE1;n tener una antig&#xFC;edad inferior a 18 a&#xF1;os.<span class=\"n\" id=\"n_1\">RES 92, TRANSPORTES<br>D.O.04.12.1991</span></div><div class=\"p\">&nbsp; &nbsp; Para estos efectos, se calcular&#xE1; la antig&#xFC;edad restando al a&#xF1;o en que se realiza el c&#xF3;mputo el a&#xF1;o de modelo del veh&#xED;culo correspondiente.</div><div class=\"p\">&nbsp; &nbsp; 2.- A contar del 1&#xB0; de mayo de 1992, las plantas<span class=\"n\" id=\"n_2\">RES 35, TRANSPORTES<br>ART UNICO<br>D.O.10.06.1992</span> revisoras de buses y taxibuses habilitadas para tal efecto en el &#xE1;rea del n&#xFA;mero 1.-, no podr&#xE1;n otorgar certificados de revisi&#xF3;n t&#xE9;cnica a buses y taxibuses<div class=\"n rnp\" id=\"rnp4\"><a href=\"#np4\">NOTA 1:</a></div> cuyo a&#xF1;o de modelo sea de una antig&#xFC;edad mayor o igual<span class=\"n\" id=\"n_3\">RES 92, TRANSPORTES<br>D.O.04.12.1991</span> a 18 a&#xF1;os.</div><div class=\"p\">&nbsp; &nbsp; 3.- Por modelo o a&#xF1;o de modelo de los veh&#xED;culos se entiende el a&#xF1;o de su fabricaci&#xF3;n, anotado en el Registro Nacional de Veh&#xED;culos Motorizados.</div><br><div class=\"np\" id=\"np4\"><a href=\"#rnp4\">NOTA 1:</a> <br>&nbsp; &nbsp;  El Art&#xED;culo &#xDA;nico de la RES 35 de Transportes, prorrog&#xF3; hasta el 1&#xB0; de Septiembre de 1992 la aplicaci&#xF3;n del N&#xB0;2 de la presente Resoluci&#xF3;n.<br></div><div class=\"np\" id=\"np5\"><a href=\"#rnp5\">NOTA 2:</a> <br>&nbsp; &nbsp;  La RES 49 de Transportes, publicada en el D.Oficial de 17.07.1997, aclara respecto a qu&#xE9; vehiculos est&#xE1; referida la antig&#xFC;edad que en esta resoluci&#xF3;n se se&#xF1;ala.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

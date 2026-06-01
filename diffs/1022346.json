@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-02-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9116607,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo vig&#xE9;simo.- Antes del 30 de septiembre del 2011, el Presidente de la Rep&#xFA;blica enviar&#xE1; al Congreso Nacional uno o m&#xE1;s proyectos de ley por medio de los cuales se aborde la institucionalidad de la educaci&#xF3;n municipal. Asimismo, antes del 1 de marzo de 2012, el Presidente de la Rep&#xFA;blica enviar&#xE1; uno o m&#xE1;s proyectos de ley que modernicen la carrera docente.&quot;.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo vig&#xE9;simo.- Antes del 30 de noviembre<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1030293&amp;idParte=9188579&amp;idVersion=2011-09-30\">Ley 20541<br>Art. UNICO<br>D.O. 30.09.2011</a></span> del 2011, el Presidente de la Rep&#xFA;blica enviar&#xE1; al Congreso Nacional uno o m&#xE1;s proyectos de ley por medio de los cuales se aborde la institucionalidad de la educaci&#xF3;n municipal. Asimismo, antes del 1 de marzo de 2012, el Presidente de la Rep&#xFA;blica enviar&#xE1; uno o m&#xE1;s proyectos de ley que modernicen la carrera docente.&quot;.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1030293,
+      "fecha": "2011-09-30"
+    }
+  }
+]

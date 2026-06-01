@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-09-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-08-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7260392,
+          "old": "<div><div class=\"p\">AUTORIZA A DON HONORIO GARCES VERGARA PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON HONORIO GARCES VERGARA PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

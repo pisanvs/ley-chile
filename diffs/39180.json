@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-08-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8299702,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; PROHIBE CIRCULACION A VEHICULOS DE LOCOMOCION COLECTIVA QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 633 exenta.- Santiago, 14 de Agosto 1991.- Visto: Lo dispuesto por los art&#xED;culos N&#xB0;s. 113 y 118 de la ley N&#xB0; 18.290; el Art. 9&#xB0; de la ley 19.040; el D.S. 145 de 1991, del Ministerio de Transportes y Telecomunicaciones; la resoluci&#xF3;n N&#xB0; 59 de 1985, del mismo Ministerio, y el art&#xED;culo 1&#xB0; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, y</div><div class=\"p\">&nbsp; &nbsp; Considerando: Los altos &#xED;ndices de contaminaci&#xF3;n registrados por el Servicio de Salud Ambiente de la Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; PROHIBE CIRCULACION A VEHICULOS DE LOCOMOCION COLECTIVA QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 633 exenta.- Santiago, 14 de Agosto 1991.- Visto: Lo dispuesto por los art&#xED;culos N&#xB0;s. 113 y 118 de la ley N&#xB0; 18.290; el Art. 9&#xB0; de la ley 19.040; el D.S. 145 de 1991, del Ministerio de Transportes y Telecomunicaciones; la resoluci&#xF3;n N&#xB0; 59 de 1985, del mismo Ministerio, y el art&#xED;culo 1&#xB0; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, y</div><div class=\"p\">&nbsp; &nbsp; Considerando: Los altos &#xED;ndices de contaminaci&#xF3;n registrados por el Servicio de Salud Ambiente de la Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

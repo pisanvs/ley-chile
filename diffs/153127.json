@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-09-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6225198,
+          "old": "<div><div class=\"p\">AUTORIZA A BIO INGENIERIA SOCIEDAD LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A BIO INGENIERIA SOCIEDAD LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fecha": "1977-08-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-03-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9036597,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; COMPLEMENTA NORMAS DE LA LEY N&#xB0; 12.927 Y DISPOSICIONES LEGALES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.877.- Santiago, 12 de Agosto de 1977.- Visto: lo dispuesto en los decretos leyes N&#xB0;s 1 y 128, de 1973; 527 y 788, de 1974, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- La conveniencia de adecuar las normas sobre Seguridad del Estado a la realidad que actualmente vive el pa&#xED;s, sin perjuicio de perfeccionar los instrumentos jur&#xED;dicos que permitan otorgar eficacia a las situaciones de emergencia,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado, en el ejercicio de la Potestad Constituyente, dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DECRETO LEY N&#xB0; 1.877, DE 1977 Complementa disposiciones de la ley 12.927, sobre Seguridad del Estado</div><div class=\"p\">&nbsp; &nbsp; MINISTERIO DEL INTERIOR</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el &quot;Diario Oficial&quot; N&#xB0; 29.836, de 13 de agosto de 1977)</div><div class=\"p\">&nbsp; &nbsp; NUM. 1877.- Santiago, 12 de agosto de 1977.- Visto: lo dispuesto en los decretos leyes 1 y 128, de 1973; 527 y 788, de 1974,</div><div class=\"p\">&nbsp; &nbsp; Considerando: 1&#xB0; La conveniencia de adecuar las normas sobre Seguridad del Estado, a la realidad que actualmente vive el pa&#xED;s, sin perjuicio de perfeccionar los instrumentos jur&#xED;dicos que permitan otorgar eficacia a las situaciones de emergencia,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado, en el ejercicio de la Potestad Constituyente, dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; DECRETO LEY:</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1981-03-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9036598,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo primero.- Por la declaraci&#xF3;n del Estado de Emergencia, que regula la Ley de Seguridad del Estado, el Presidente de la Rep&#xFA;blica tendr&#xE1; la facultad de arrestar a personas hasta por el plazo de cinco d&#xED;as en sus propias casas o en lugares que no sean c&#xE1;rceles. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0; Por la declaraci&#xF3;n del Estado de Emergencia que regula la Ley de Seguridad del Estado, el Presidente de la Rep&#xFA;blica tendr&#xE1; la facultad de arrestar a personas hasta por el plazo de cinco d&#xED;as en sus propias casas o en lugares que no sean c&#xE1;rceles.</div><div class=\"p\">&nbsp; &nbsp; El plazo establecido en el inciso anterior podr&#xE1;<span class=\"n\" id=\"n_0\">DL 3451 1980<br>ART UNICO</span> prolongarse hasta veinte d&#xED;as, cuando se investiguen delitos contra la seguridad del Estado de los cuales resultare la muerte, lesiones o secuestro de personas.</div><div class=\"p\">&nbsp; &nbsp; Esta facultad ser&#xE1; ejercida por medio de decreto<span class=\"n\" id=\"n_1\">DL 3168 1980<br>ART 1&#xB0;</span> supremo que firmar&#xE1; el Ministro del Interior, con la f&#xF3;rmula: &quot;Por orden del Presidente de la Rep&#xFA;blica&quot;.</div><br></div>"
+        },
+        {
+          "part_id": 9036599,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo.- Las referencias al Estado de Sitio contenidas en los decretos leyes N&#xB0;s 81 y 198, de 1973, y 1.009, art&#xED;culo 1&#xB0;, decl&#xE1;rase que deben asimismo entenderse aplicables al Estado de Emergencia, regulado por la ley N&#xB0; 12.927, de 1958.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Las referencias al Estado de Sitio contenidas en los decretos leyes 81 y 198, de 1973, y 1.009, art&#xED;culo 1&#xB0; decl&#xE1;rase que deben asimismo entenderse aplicables al Estado de Emergencia, regulado por la ley 12.927, de 1958 y a la disposici&#xF3;n vig&#xE9;sima<span class=\"n\" id=\"n_2\">DL 3645 1981<br>ART UNICO</span> transitoria de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile que regir&#xE1; a partir del d&#xED;a 11 de marzo de 1981.</div><br></div>"
+        },
+        {
+          "part_id": 9036600,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea de Chile.- CESAR MENDOZA DURAN, General, General Director de Carabineros.- C&#xE9;sar R. Benavides Escobar, General de Divisi&#xF3;n, Ministro del Interior.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo para su conocimiento.- Victor Barahona Bustos, Comandante de Escuadrilla J. Secretario de Legislaci&#xF3;n de la Junta de Gobierno subrogante. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.-</div><div class=\"p\">C&#xE9;sar R. Benavides.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

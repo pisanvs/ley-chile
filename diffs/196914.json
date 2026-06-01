@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-04-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-07-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6377496,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Adjud&#xED;canse los siguientes montos por concepto de aporte suplementario por costo de capital adicional, en el marco del Cuarto Concurso P&#xFA;blico (N&#xBA; 1/2001) sobre proyectos de infraestructura, a los siguientes establecimientos educacionales:</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 18.03.2002, P&#xC1;GINA 4. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Adjud&#xED;canse los siguientes montos por concepto de aporte suplementario por costo de capital adicional, en el marco del Cuarto Concurso P&#xFA;blico (N&#xBA; 1/2001) sobre proyectos de infraestructura, a los siguientes establecimientos educacionales:</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 18.03.2002, P&#xC1;GINA 4.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; de la RES 7667 Exenta, Educaci&#xF3;n, publicada el 11.07.2002, rectific&#xF3; el presente cuadro en la forma que se&#xF1;ala la citada norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

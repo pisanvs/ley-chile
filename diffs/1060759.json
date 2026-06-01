@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-04-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-04-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9426818,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Se&#xF1;&#xE1;lase a las Regiones de Arica y Parinacota y de Tarapac&#xE1;, como afectadas por la cat&#xE1;strofe derivada del sismo con caracter&#xED;sticas de terremoto ocurrido en dichas Regiones en el d&#xED;a de 1 de abril del presente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Se&#xF1;&#xE1;lase a las <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> Regiones de Arica y Parinacota y de Tarapac&#xE1;, como afectadas por la cat&#xE1;strofe derivada del sismo con caracter&#xED;sticas de terremoto ocurrido en dichas Regiones en el d&#xED;a de 1 de abril del presente.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto 376, Interior, publicado el 11.04.2015, extendi&#xF3; la vigencia de todas las medidas de excepci&#xF3;n adoptadas o que se adopten al margen de las normas legales y reglamentarias vigentes para ello, hasta el 1&#xBA; de abril de 2016.</div></div>"
+        }
+      ]
+    }
+  }
+]

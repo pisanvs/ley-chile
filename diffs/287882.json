@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2009-03-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-03-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8694726,
+          "old": "<div><div class=\"p\">ASIGNA A DON JORGE ALEJANDRO LUCO MORENO EN CARGO QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 656.- Santiago, 25 de febrero de 2009.- Vistos: El Art. 5&#xBA; del D.F.L. N&#xBA; 1 de 1994, del Ministerio de Hacienda, sobre Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;as; el D.H. N&#xBA;1.257 de 2002; el art&#xED;culo 21&#xBA; N&#xBA; 1 de la ley N&#xBA; 19.738, y la resoluci&#xF3;n N&#xBA; 1.600 de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">ASIGNA A DON JORGE ALEJANDRO LUCO MORENO EN CARGO QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 656.- Santiago, 25 de febrero de 2009.- Vistos: El Art. 5&#xBA; del D.F.L. N&#xBA; 1 de 1994, del Ministerio de Hacienda, sobre Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;as; el D.H. N&#xBA;1.257 de 2002; el art&#xED;culo 21&#xBA; N&#xBA; 1 de la ley N&#xBA; 19.738, y la resoluci&#xF3;n N&#xBA; 1.600 de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>"
+        },
+        {
+          "part_id": 8694727,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  As&#xED;gnase al siguiente funcionario, a contar de la fecha que se indica, para desempe&#xF1;ar la funci&#xF3;n que se se&#xF1;ala:</div><br><div class=\"p\">Nombre: Jorge Alejandro Luco Moreno RUT: 7.384.112-7 Ubicaci&#xF3;n: Duod&#xE9;cima Regi&#xF3;n - Regional de Punta Arenas Calidad Jur&#xED;dica: Planta Estamento: Directivo Cargo: Director Regional Tesorero Fecha Inicio: 02/03/2009 Funci&#xF3;n: Director Regional Tesorero.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  As&#xED;gnase al siguiente funcionario, a contar de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> la fecha que se indica, para desempe&#xF1;ar la funci&#xF3;n que se se&#xF1;ala:</div><br><div class=\"p\">Nombre: Jorge Alejandro Luco Moreno</div><div class=\"p\">RUT: 7.384.112-7</div><div class=\"p\">Ubicaci&#xF3;n: Duod&#xE9;cima Regi&#xF3;n - Regional de Punta Arenas</div><div class=\"p\">Calidad Jur&#xED;dica: Planta</div><div class=\"p\">Estamento: Directivo</div><div class=\"p\">Cargo: Director Regional Tesorero</div><div class=\"p\">Fecha Inicio: 02/03/2009</div><div class=\"p\">Funci&#xF3;n: Director Regional Tesorero.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 893, Hacienda, publicada el 25.03.2009, modifica la presente norma, en el sentido de que al funcionario indicado, se le asigna la funci&#xF3;n de Director Regional Tesorero de Punta Arenas a contar del 01.03.2009.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

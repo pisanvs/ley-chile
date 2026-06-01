@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-09-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6514616,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese el &#xE1;rea de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos denominada &#xD1;ague Sector B, en la IV Regi&#xF3;n, en un &#xE1;rea inscrita por la figura irregular y sus v&#xE9;rtices, cuyas coordenadas geogr&#xE1;ficas son las siguientes:</div><div class=\"p\">(CARTA IGM N&#xBA; 3145-7310, 1&#xAA; ED. 1967, ESC. 1:50.000) Puntos&nbsp; &nbsp; Latitud&nbsp; &nbsp; &nbsp; &nbsp; Longitud</div><div class=\"p\">A&nbsp; &nbsp; &nbsp; &nbsp; 31&#xB0;51&apos;39,22&quot;&nbsp; &nbsp; 71&#xB0;32&apos;03,83&quot;</div><div class=\"p\">B&nbsp; &nbsp; &nbsp; &nbsp; 31&#xB0;51&apos;39,22&quot;&nbsp; &nbsp; 71&#xB0;32&apos;27,05&quot;</div><div class=\"p\">C&nbsp; &nbsp; &nbsp; &nbsp; 31&#xB0;52&apos;12,15&quot;&nbsp; &nbsp; 71&#xB0;32&apos;27,05&quot;</div><div class=\"p\">D&nbsp; &nbsp; &nbsp; &nbsp; 31&#xB0;52&apos;12,15&quot;&nbsp; &nbsp; 71&#xB0;32&apos;03,83&quot;</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese el &#xE1;rea de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos denominada &#xD1;ague Sector B, en la IV Regi&#xF3;n, en un &#xE1;rea inscrita por la figura irregular y sus v&#xE9;rtices, cuyas coordenadas geogr&#xE1;ficas son las siguientes:</div><div class=\"p\">(CARTA IGM N&#xBA; 3145-7130, 1&#xAA; ED. 1967, ESC. 1:50.000)<span class=\"n\" id=\"n_0\">DTO 1029 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 05.09.2005</span></div><div class=\"p\">Puntos&nbsp; &nbsp; &nbsp;  Latitud&nbsp; &nbsp; &nbsp; &nbsp;  Longitud</div><div class=\"p\">&nbsp; A&nbsp; &nbsp; &nbsp; &nbsp; 31&#xB0;51&apos;39,22&quot;&nbsp; &nbsp; 71&#xB0;32&apos;03,83&quot;</div><div class=\"p\">&nbsp; B&nbsp; &nbsp; &nbsp; &nbsp; 31&#xB0;51&apos;39,22&quot;&nbsp; &nbsp; 71&#xB0;32&apos;27,05&quot;</div><div class=\"p\">&nbsp; C&nbsp; &nbsp; &nbsp; &nbsp; 31&#xB0;52&apos;12,15&quot;&nbsp; &nbsp; 71&#xB0;32&apos;27,05&quot;</div><div class=\"p\">&nbsp; D&nbsp; &nbsp; &nbsp; &nbsp; 31&#xB0;52&apos;12,15&quot;&nbsp; &nbsp; 71&#xB0;32&apos;03,83&quot;</div><br></div>"
+        }
+      ]
+    }
+  }
+]

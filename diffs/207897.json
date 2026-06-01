@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-05-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8368648,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: La referida Comisi&#xF3;n estar&#xE1; integrada por las siguientes personas:</div><br><div class=\"p\">a.&nbsp;  Luis Bates Hidalgo, quien la presidir&#xE1;</div><div class=\"p\">b.&nbsp;  Angel Flisfich Fern&#xE1;ndez</div><div class=\"p\">c.&nbsp;  Francisco Fern&#xE1;ndez Fredes</div><div class=\"p\">d.&nbsp;  Alberto Arenas De Mesa</div><div class=\"p\">e.&nbsp;  Gonzalo S&#xE1;nchez Garc&#xED;a Huidobro</div><div class=\"p\">f.&nbsp;  Jos&#xE9; Zalaquett Daher</div><div class=\"p\">g.&nbsp;  Mar&#xED;a Luisa Brahm Barril</div><div class=\"p\">h.&nbsp;  Salvador Vald&#xE9;s Prieto</div><div class=\"p\">i.&nbsp;  Eugenio Guzm&#xE1;n Astete</div><div class=\"p\">j.&nbsp;  Francisco Javier Cox Irarr&#xE1;zaval</div><div class=\"p\">k.&nbsp;  Patricio Zapata Larra&#xED;n</div><br><div class=\"p\">&nbsp; &nbsp;  Las personas antes designadas no podr&#xE1;n ser reemplazadas en caso de ausencia o impedimento en el ejercicio de sus funciones, salvo expresa designaci&#xF3;n por medio de la dictaci&#xF3;n del Decreto Supremo respectivo.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: La referida Comisi&#xF3;n estar&#xE1; integrada por las siguientes personas:</div><div class=\"p\">a.&nbsp;  Luis Bates Hidalgo, quien la presidir&#xE1;</div><div class=\"p\">b.&nbsp;  Angel Flisfich Fern&#xE1;ndez</div><div class=\"p\">c.&nbsp;  Francisco Fern&#xE1;ndez Fredes</div><div class=\"p\">d.&nbsp;  Alberto Arenas De Mesa</div><div class=\"p\">e.&nbsp;  Gonzalo S&#xE1;nchez Garc&#xED;a Huidobro</div><div class=\"p\">f.&nbsp;  Jos&#xE9; Zalaquett Daher</div><div class=\"p\">g.&nbsp;  Angela Vivanco Mart&#xED;nez<span class=\"n\" id=\"n_0\">DTO 335, INTERIOR<br>Art. &#xFA;nico<br>D.O. 09.05.2003</span></div><div class=\"p\">h.&nbsp;  Salvador Vald&#xE9;s Prieto</div><div class=\"p\">i.&nbsp;  Eugenio Guzm&#xE1;n Astete</div><div class=\"p\">j.&nbsp;  Francisco Javier Cox Irarr&#xE1;zaval</div><div class=\"p\">k.&nbsp;  Patricio Zapata Larra&#xED;n</div><div class=\"p\">&nbsp; &nbsp; Las personas antes designadas no podr&#xE1;n ser</div><div class=\"p\">reemplazadas en caso de ausencia o impedimento</div><div class=\"p\">en el ejercicio de sus funciones, salvo expresa</div><div class=\"p\">designaci&#xF3;n por medio de la dictaci&#xF3;n del Decreto</div><div class=\"p\">Supremo respectivo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2014-03-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9422855,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- El monto del aporte familiar permanente se reajustar&#xE1; el 1 de marzo de cada a&#xF1;o, en el 100% de la variaci&#xF3;n que haya experimentado el &#xCD;ndice de Precios al Consumidor determinada por el Instituto Nacional de Estad&#xED;sticas o el organismo que lo reemplace, entre el 1 de enero y el 31 de diciembre del a&#xF1;o calendario anterior al pago del aporte familiar a que se refiere esta ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- El monto del aporte familiar permanente se reajustar&#xE1; el 1 de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1127552&amp;idParte=9986712&amp;idVersion=2019-01-10\">Ley 21127<br>Art. &#xDA;NICO N&#xB0; 1<br>D.O. 10.01.2019</a></span>febrero de cada a&#xF1;o, en el 100% de la variaci&#xF3;n que haya experimentado el &#xCD;ndice de Precios al Consumidor determinada por el Instituto Nacional de Estad&#xED;sticas o el organismo que lo reemplace, entre el 1 de enero y el 31 de diciembre del a&#xF1;o calendario anterior al pago del aporte familiar a que se refiere esta ley.</div><br></div>"
+        },
+        {
+          "part_id": 9422856,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- El aporte familiar establecido en esta ley ser&#xE1; de cargo fiscal y su pago se efectuar&#xE1; por el Instituto de Previsi&#xF3;n Social, en una sola cuota, durante el mes de marzo de cada a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, trat&#xE1;ndose del personal de las instituciones p&#xFA;blicas centralizadas y descentralizadas, con excepci&#xF3;n de aquellas a que se refiere el inciso cuarto del <a href=\"https://www.leychile.cl/Navegar?idNorma=4824&amp;idParte=8557449&amp;idVersion=\">art&#xED;culo 32</a> del <a href=\"https://www.leychile.cl/Navegar?idNorma=4824&amp;idParte=0&amp;idVersion=\">decreto con fuerza de ley N&#xBA; 150, de 1981, del Ministerio del Trabajo y Previsi&#xF3;n Social</a>, que en su calidad de empleadores participen en la administraci&#xF3;n del sistema de asignaci&#xF3;n familiar, el pago del aporte familiar permanente lo efectuar&#xE1;n directamente a su personal, o a quien corresponda, de conformidad con lo dispuesto por la Superintendencia de Seguridad Social. El pago se realizar&#xE1; conjuntamente con la remuneraci&#xF3;n correspondiente al mes de marzo de cada a&#xF1;o, recuperando los montos involucrados a trav&#xE9;s del mismo procedimiento establecido en el art&#xED;culo 32 del aludido decreto con fuerza de ley N&#xBA; 150, para el caso de las asignaciones familiares.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.- El <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1127552&amp;idParte=9986712&amp;idVersion=2019-01-10\">Ley 21127<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 10.01.2019</a></span>aporte familiar establecido en esta ley ser&#xE1; de cargo fiscal y su pago se efectuar&#xE1; por el Instituto de Previsi&#xF3;n Social, en una sola cuota. Sin perjuicio de lo se&#xF1;alado en el inciso primero del art&#xED;culo 1, el pago se podr&#xE1; efectuar desde el d&#xED;a 15 de febrero de cada a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, trat&#xE1;ndose del personal de las instituciones p&#xFA;blicas centralizadas y descentralizadas, con excepci&#xF3;n de aquellas a que se refiere el inciso cuarto del art&#xED;culo 32 del decreto con fuerza de ley N&#xBA; 150, de 1981, del Ministerio del Trabajo y Previsi&#xF3;n Social, que en su calidad de empleadores participen en la administraci&#xF3;n del sistema de asignaci&#xF3;n familiar, el pago del aporte familiar permanente lo efectuar&#xE1;n directamente a su personal, o a quien corresponda, de conformidad con lo dispuesto por la Superintendencia de Seguridad Social. El pago se realizar&#xE1; conjuntamente con la remuneraci&#xF3;n correspondiente al mes de marzo de cada a&#xF1;o, recuperando los montos involucrados a trav&#xE9;s del mismo procedimiento establecido en el art&#xED;culo 32 del aludido decreto con fuerza de ley N&#xBA; 150, para el caso de las asignaciones familiares.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1127552,
+      "fecha": "2019-01-10"
+    }
+  }
+]

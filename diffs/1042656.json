@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2012-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-08-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9287085,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jase, entre los d&#xED;as 6 y 21 de agosto de 2012, un nuevo aval&#xFA;o por el gramo de oro de 18 ktes., utilizado en las Unidades de Cr&#xE9;dito en el c&#xE1;lculo de los pr&#xE9;stamos con garant&#xED;a prendaria del rubro Alhajas, conforme a la siguiente tabla:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/27569.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2. T&#xE9;ngase presente que ser&#xE1; responsabilidad de los Administradores/as la difusi&#xF3;n de lo resuelto en los numerales precedentes entre el personal a su cargo, como as&#xED; tambi&#xE9;n ser&#xE1; responsabilidad del Subdepartamento de Inform&#xE1;tica realizar los ajustes que correspondan al programa OCP, para la adecuada aplicaci&#xF3;n de las instrucciones impartidas, debiendo considerar fundamentalmente que el alza en cuesti&#xF3;n es una medida transitoria que ser&#xE1; aplicada durante el per&#xED;odo estipulado en el resuelvo que precede. Por consiguiente, al t&#xE9;rmino de dicho per&#xED;odo, los valores del recuadro m&#xE1;s arriba inserto, deber&#xE1;n ser mantenidos, excepto en lo que corresponde al gramo de oro 18 ktes., cuyo valor de pr&#xE9;stamo debe volver a $6.000, con un aval&#xFA;o de $10.000.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese en el Diario Oficial en conformidad a lo dispuesto en el art&#xED;culo 48 letra a) de la ley 19.880 sobre Procedimientos Administrativos, siendo responsabilidad del Departamento Administrativo el dar cumplimiento a esta obligaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jase, entre los d&#xED;as 6 y 21 de agosto de 2012, un nuevo <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>aval&#xFA;o por el gramo de oro de 18 ktes., utilizado en las Unidades de Cr&#xE9;dito en el c&#xE1;lculo de los pr&#xE9;stamos con garant&#xED;a prendaria del rubro Alhajas, conforme a la siguiente tabla:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/27569.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2. T&#xE9;ngase presente que ser&#xE1; responsabilidad de los Administradores/as la difusi&#xF3;n de lo resuelto en los numerales precedentes entre el personal a su cargo, como as&#xED; tambi&#xE9;n ser&#xE1; responsabilidad del Subdepartamento de Inform&#xE1;tica realizar los ajustes que correspondan al programa OCP, para la adecuada aplicaci&#xF3;n de las instrucciones impartidas, debiendo considerar fundamentalmente que el alza en cuesti&#xF3;n es una medida transitoria que ser&#xE1; aplicada durante el per&#xED;odo estipulado en el resuelvo que precede. Por consiguiente, al t&#xE9;rmino de dicho per&#xED;odo, los valores del recuadro m&#xE1;s arriba inserto, deber&#xE1;n ser mantenidos, excepto en lo que corresponde al gramo de oro 18 ktes., cuyo valor de pr&#xE9;stamo debe volver a $6.000, con un aval&#xFA;o de $10.000.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese en el Diario Oficial en conformidad a lo dispuesto en el art&#xED;culo 48 letra a) de la ley 19.880 sobre Procedimientos Administrativos, siendo responsabilidad del Departamento Administrativo el dar cumplimiento a esta obligaci&#xF3;n.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero 1 de la Resoluci&#xF3;n 544 Exenta, Direcci&#xF3;n General del Cr&#xE9;dito Prendario, publicada el 24.08.2012 modifica la presente norma en el sentido de prorrogar, entre los d&#xED;as 22 al 28 de agosto de 2012, un nuevo aval&#xFA;o por el gramo de oro de 18 ktes., utilizado en las Unidades de Cr&#xE9;dito en el c&#xE1;lculo de los pr&#xE9;stamos con garant&#xED;a prendaria del rubro Alhajas, conforme a lo que en ella se se&#xF1;ala.</div></div>"
+        }
+      ]
+    }
+  }
+]

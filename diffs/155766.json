@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-11-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-02-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7261330,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA FAMSO S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA FAMSO S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

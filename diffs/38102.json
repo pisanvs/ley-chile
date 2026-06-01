@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "1996-04-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-08-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8773915,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Modif&#xED;case la Resoluci&#xF3;n Exenta N&#xB0; 133 de 22 de julio de 1986, de esta Secretar&#xED;a de Estado, en el sentido de designar como representante del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n ante la Comisi&#xF3;n creada por el Art&#xED;culo 11&#xB0; de la Ley N&#xB0; 18.525, de 1986, encargada de investigar la existencia de distorsiones en el precio de las mercader&#xED;as importadas, al Sr. Roberto Paiva Reinero, en lugar del Sr. Lee Ward Cantwell.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- El representante antes mencionado ser&#xE1; subrogando por do&#xF1;a Luc&#xED;a Cangas Le&#xF3;n en virtud de la designaci&#xF3;n correspondiente, efectuada en la Resoluci&#xF3;n Exenta N&#xB0; 79, de esta Secretar&#xED;a de Estado, de fecha 6 de agosto de 1992.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Modif&#xED;case la Resoluci&#xF3;n Exenta N&#xB0; 133 de 22 de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> julio de 1986, de esta Secretar&#xED;a de Estado, en el sentido de designar como representante del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n ante la Comisi&#xF3;n creada por el Art&#xED;culo 11&#xB0; de la Ley N&#xB0; 18.525, de 1986, encargada de investigar la existencia de distorsiones en el precio de las mercader&#xED;as importadas, al Sr. Roberto Paiva Reinero, en lugar del Sr. Lee Ward Cantwell.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- El representante antes mencionado ser&#xE1; subrogando por do&#xF1;a Luc&#xED;a Cangas Le&#xF3;n en virtud de la designaci&#xF3;n correspondiente, efectuada en la Resoluci&#xF3;n Exenta N&#xB0; 79, de esta Secretar&#xED;a de Estado, de fecha 6 de agosto de 1992.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 105 exenta, Econom&#xED;a, publicada el 17.08.2001, modific&#xF3; la presente norma, en el sentido de designar como nuevo representante del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n ante la comisi&#xF3;n que indica al Sr. Enrique Sep&#xFA;lveda Rodr&#xED;guez.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-11-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8773915,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Modif&#xED;case la Resoluci&#xF3;n Exenta N&#xB0; 133 de 22 de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> julio de 1986, de esta Secretar&#xED;a de Estado, en el sentido de designar como representante del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n ante la Comisi&#xF3;n creada por el Art&#xED;culo 11&#xB0; de la Ley N&#xB0; 18.525, de 1986, encargada de investigar la existencia de distorsiones en el precio de las mercader&#xED;as importadas, al Sr. Roberto Paiva Reinero, en lugar del Sr. Lee Ward Cantwell.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- El representante antes mencionado ser&#xE1; subrogando por do&#xF1;a Luc&#xED;a Cangas Le&#xF3;n en virtud de la designaci&#xF3;n correspondiente, efectuada en la Resoluci&#xF3;n Exenta N&#xB0; 79, de esta Secretar&#xED;a de Estado, de fecha 6 de agosto de 1992.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 105 exenta, Econom&#xED;a, publicada el 17.08.2001, modific&#xF3; la presente norma, en el sentido de designar como nuevo representante del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n ante la comisi&#xF3;n que indica al Sr. Enrique Sep&#xFA;lveda Rodr&#xED;guez.<br></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Modif&#xED;case la Resoluci&#xF3;n Exenta N&#xB0; 133 de 22 de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> julio de 1986, de esta Secretar&#xED;a de Estado, en el sentido de designar como representante del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n ante la Comisi&#xF3;n creada por el Art&#xED;culo 11&#xB0; de la Ley N&#xB0; 18.525, de 1986, encargada de investigar la existencia de distorsiones en el precio de las mercader&#xED;as importadas, al Sr. Roberto Paiva Reinero, en lugar del Sr. Lee Ward Cantwell.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- El representante antes mencionado ser&#xE1; subrogando por do&#xF1;a Luc&#xED;a Cangas Le&#xF3;n en virtud de la designaci&#xF3;n correspondiente, efectuada en la Resoluci&#xF3;n Exenta N&#xB0; 79, de esta Secretar&#xED;a de Estado, de fecha 6 de agosto de 1992.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 83, Econom&#xED;a, publicada el 06.11.2003, modifica la presente norma, s&#xF3;lo en el sentido de designar como representante del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n ante la Comisi&#xF3;n creada por el art&#xED;culo 11&#xBA; de la ley N&#xBA; 18.525, encargada de investigar la existencia de distorsiones en el precio de las mercader&#xED;as importadas, a la Sra. Ana Mar&#xED;a Vallina Hern&#xE1;ndez, en lugar del se&#xF1;or Enrique Sep&#xFA;lveda Rodr&#xED;guez.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2009-08-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

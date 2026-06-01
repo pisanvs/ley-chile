@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-04-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-10-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201598,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA NORMAS DE INGRESO MATERIAL BIOLOGICO ESTABLECIDAS POR RESOLUCION N&#xB0; 1.465 DE 1981 Santiago, 2 de Abril de 1992.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 521 exenta.- Visto: Lo dispuesto en el DL N&#xB0; 3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola, las Resoluciones N&#xB0;s. 39, 350 y 1.465 de 1981 expedidas por el Servicio Agr&#xED;cola y Ganadero y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; -Que el Servicio est&#xE1; facultado para establecer normas y requisitos que regulen el ingreso de organismos vivos para el control biol&#xF3;gico de plagas.</div><div class=\"p\">&nbsp; &nbsp; -Que existen plagas cuarentenarias que es necesario evitar su ingreso, para proteger el patrimonio silvoagr&#xED;cola nacional.</div><div class=\"p\">&nbsp; &nbsp; -Que es necesario que las cuarentenas de post-entrada de agentes de control biol&#xF3;gico sean ejecutadas por Institutos de Investigaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA NORMAS DE INGRESO MATERIAL BIOLOGICO ESTABLECIDAS POR RESOLUCION N&#xB0; 1.465 DE 1981 </div><div class=\"p\">&nbsp; &nbsp; Santiago, 2 de Abril de 1992.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 521 exenta.- Visto: Lo dispuesto en el DL N&#xB0; 3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola, las Resoluciones N&#xB0;s. 39, 350 y 1.465 de 1981 expedidas por el Servicio Agr&#xED;cola y Ganadero y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; -Que el Servicio est&#xE1; facultado para establecer normas y requisitos que regulen el ingreso de organismos vivos para el control biol&#xF3;gico de plagas.</div><div class=\"p\">&nbsp; &nbsp; -Que existen plagas cuarentenarias que es necesario evitar su ingreso, para proteger el patrimonio silvoagr&#xED;cola nacional.</div><div class=\"p\">&nbsp; &nbsp; -Que es necesario que las cuarentenas de post-entrada de agentes de control biol&#xF3;gico sean ejecutadas por Institutos de Investigaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

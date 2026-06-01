@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-05-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-08-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6093617,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 59, DE 1989 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 59, DE 1989</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

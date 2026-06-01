@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-09-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-04-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8273263,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA CIRCULACION DE VEHICULO QUE INDICA EN TERMINOS QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; Santiago, 12 de Septiembre de 1994.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 646 exento.- Visto: El oficio N&#xB0; 4.845 de 23.05.94, del Sr. Director del Servicio Electoral; lo dispuesto en los art&#xED;culos 1&#xB0; y 3&#xB0; del Decreto Ley N&#xB0; 799 de 1974 y sus modificaciones; en el D.S. N&#xB0; 654 de 1994, de Interior, y en la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, y</div><div class=\"p\">&nbsp; &nbsp; Considerando que el veh&#xED;culo a que se refiere la solicitud es el medio de transporte con que cuenta el Servicio mencionado para atender las necesidades propias de su funci&#xF3;n en la Direcci&#xF3;n Regional Coyhaique, y que los fundamentos de la solicitud son atendibles, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA CIRCULACION DE VEHICULO QUE INDICA EN TERMINOS QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; Santiago, 12 de Septiembre de 1994.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 646 exento.- Visto: El oficio N&#xB0; 4.845 de 23.05.94, del Sr. Director del Servicio Electoral; lo dispuesto en los art&#xED;culos 1&#xB0; y 3&#xB0; del Decreto Ley N&#xB0; 799 de 1974 y sus modificaciones; en el D.S. N&#xB0; 654 de 1994, de Interior, y en la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, y</div><div class=\"p\">&nbsp; &nbsp; Considerando que el veh&#xED;culo a que se refiere la solicitud es el medio de transporte con que cuenta el Servicio mencionado para atender las necesidades propias de su funci&#xF3;n en la Direcci&#xF3;n Regional Coyhaique, y que los fundamentos de la solicitud son atendibles, Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2022-02-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-03-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10312575,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Recon&#xF3;zcase, en el marco del &quot;Convenio de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Grados Acad&#xE9;micos de Educaci&#xF3;n Superior entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica del Ecuador&quot;, suscrito el 15 de octubre de 2015, los t&#xED;tulos de grado obtenidos en las universidades ecuatorianas que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/144513.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/144514.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/144515.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Recon&#xF3;zcase, en el marco del &quot;Convenio de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Grados Acad&#xE9;micos de Educaci&#xF3;n Superior entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica del Ecuador&quot;, suscrito el 15 de octubre de 2015, los t&#xED;tulos de grado obtenidos en las universidades ecuatorianas que se indican a continuaci&#xF3;n:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/144513.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/144514.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/144515.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo de la Resoluci&#xF3;n 1629 Exenta, Educaci&#xF3;n, publicada el 17.03.2022, dispone rectificar el N&#xB0; 24 del listado contenido en el art&#xED;culo primero de la presente norma, en la parte que dice &quot;930505334&quot;, debiendo decir &quot;0930505334&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

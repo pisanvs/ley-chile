@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-08-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-09-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7350936,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP exento N&#xBA; 344, de 29 de junio de 2007, se expropiaron los lotes de terrenos N&#xBA;s. 49 y 50, superficies 1.677 y 370 m&#xB2;, rol de Aval&#xFA;o 171-25, comuna de Curarrehue, para la obra &quot;Mejoramiento Ruta 199 - CH, Curarrehue - Paso Mamuil Malal, Sector Curarrehue - Puesco. Km. 116,88000 a Km. 136,76000, Tramo II Km. 124,38000 a Km. 130,34000&quot;, IX Regi&#xF3;n y se acord&#xF3; el valor de la indemnizaci&#xF3;n con su propietario, ascendente a la cantidad de $3.855.278.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP exento N&#xBA; 344, de 29 de junio de 2007, se expropiaron los lotes de terrenos N&#xBA;s. 49 y 50, superficies 1.677 y 370 m&#xB2;, rol de Aval&#xFA;o 171-25, comuna de Curarrehue, para la obra &quot;Mejoramiento Ruta 199 - CH, Curarrehue - Paso Mamuil Malal, Sector Curarrehue - Puesco. Km. 116,88000 a Km. 136,76000, Tramo II Km. 124,38000 a Km. 130,34000&quot;, IX Regi&#xF3;n y se acord&#xF3; el valor de la indemnizaci&#xF3;n con su propietario, ascendente a la cantidad de $1.917.980.<span class=\"n\" id=\"n_0\">AVI S/N,<br>OBRAS PUBLICAS<br>D.O. 01.09.2007</span> </div></div>"
+        }
+      ]
+    }
+  }
+]

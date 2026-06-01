@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-06-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-03-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320321,
+          "old": "<div><div class=\"p\">APRUEBA DISOLUCION DE COOPERATIVA DE VIVIENDA Y SERVICIOS HABITACIONALES OBREROS VIA SUR LIMITADA, DE SANTIAGO (Resoluci&#xF3;n)</div><br><div class=\"p\">N&#xFA;m. 22.- Santiago, 14 de Febrero de 1989.- Visto: Lo dispuesto en los art&#xED;culos 50 y 132 del decreto supremo No. 502, de 1978, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; en el art&#xED;culo 413, del C&#xF3;digo de Comercio, en la Ley No. 16.436; en el decreto supremo No. 505, de 1966, de este Ministerio, en la resoluci&#xF3;n No. 1-767, de 1982, del Departamento de Cooperativas de la Subsecretar&#xED;a de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, y en la resoluci&#xF3;n No. 600, de 1977, de la Controlar&#xED;a General de la Rep&#xFA;blica. Considerando:</div><div class=\"p\">Que la Cooperativa de Vivienda y Servicios Habitacionales Obreros V&#xED;a Sur Limitada, de Santiago, fue autorizada por decreto No. 101 de 22 de Enero de 1970, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, publicado en el Diario Oficial de 11 de Febrero de 1970.</div><div class=\"p\">Que la mencionada entidad acord&#xF3; su disoluci&#xF3;n en Junta General Extraordinaria de Socios celebrada el 22 de Enero de 1989, seg&#xFA;n consta del acta reducida a escritura p&#xFA;blica con fecha 25 de Enero de 1989, ante el Notario P&#xFA;blico de Santiago don Samuel Klecky Rapaport, la que se entiende formar parte de la presente resoluci&#xF3;n.</div><br><div class=\"p\">Resuelvo:</div><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA DISOLUCION DE COOPERATIVA DE VIVIENDA Y SERVICIOS HABITACIONALES OBREROS VIA SUR LIMITADA, DE SANTIAGO (Resoluci&#xF3;n)</div><br><div class=\"p\">N&#xFA;m. 22.- Santiago, 14 de Febrero de 1989.- Visto: Lo dispuesto en los art&#xED;culos 50 y 132 del decreto supremo No. 502, de 1978, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; en el art&#xED;culo 413, del C&#xF3;digo de Comercio, en la Ley No. 16.436; en el decreto supremo No. 505, de 1966, de este Ministerio, en la resoluci&#xF3;n No. 1-767, de 1982, del Departamento de Cooperativas de la Subsecretar&#xED;a de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, y en la resoluci&#xF3;n No. 600, de 1977, de la Controlar&#xED;a General de la Rep&#xFA;blica. Considerando:</div><div class=\"p\">Que la Cooperativa de Vivienda y Servicios Habitacionales Obreros V&#xED;a Sur Limitada, de Santiago, fue autorizada por decreto No. 101 de 22 de Enero de 1970, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, publicado en el Diario Oficial de 11 de Febrero de 1970.</div><div class=\"p\">Que la mencionada entidad acord&#xF3; su disoluci&#xF3;n en Junta General Extraordinaria de Socios celebrada el 22 de Enero de 1989, seg&#xFA;n consta del acta reducida a escritura p&#xFA;blica con fecha 25 de Enero de 1989, ante el Notario P&#xFA;blico de Santiago don Samuel Klecky Rapaport, la que se entiende formar parte de la presente resoluci&#xF3;n.</div><br><div class=\"p\">Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

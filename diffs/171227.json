@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-08-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6283028,
+          "old": "<div><div class=\"p\">DESIGNA MIEMBRO DE LA TERCERA COMISION LEGISLATIVA AL CORONEL DE CARABINEROS SE&#xD1;OR RAMON RIVAS MU&#xD1;OZ </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 110 Exenta.- Santiago, 29 de julio de 1987.- Visto: Lo dispuesto en los art&#xED;culos 5&#xB0;, 7&#xB0; y 12 de la ley No. 17.983, de 28 de marzo de 1981,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA MIEMBRO DE LA TERCERA COMISION LEGISLATIVA AL CORONEL DE CARABINEROS SE&#xD1;OR RAMON RIVAS MU&#xD1;OZ </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 110 Exenta.- Santiago, 29 de julio de 1987.- Visto: Lo dispuesto en los art&#xED;culos 5&#xB0;, 7&#xB0; y 12 de la ley No. 17.983, de 28 de marzo de 1981,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

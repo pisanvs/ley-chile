@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-03-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-05-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6519561,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese para la pesquer&#xED;a artesanal del recurso Loco Concholepas concholepas de la XII Regi&#xF3;n, una cuota total de extracci&#xF3;n ascendente a 537.000 unidades, la que regir&#xE1; para el a&#xF1;o 2005. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese para la pesquer&#xED;a artesanal del recurso Loco Concholepas concholepas de la<span class=\"n\" id=\"n_0\">DTO 626 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 14.05.2005</span> XII Regi&#xF3;n, una cuota total de extracci&#xF3;n ascendente a 411.000 unidades, la que regir&#xE1; para el a&#xF1;o 2005.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

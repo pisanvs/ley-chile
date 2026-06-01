@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1963-09-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8461461,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 72&#xB0;.- El empleado de Aduana que sea declarado reo de cualquier clase de crimen o simple delito, quedar&#xE1;, por este solo hecho, suspendido de sus funciones desde la fecha del auto respectivo, debiendo el juez de la causa dirigir oficio para estos efectos a la Superintendencia de Aduanas y a la Contralor&#xED;a General de la Rep&#xFA;blica.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 72&#xB0;.- El empleado de Aduana que sea declarado reo de cualquier clase de crimen o simple delito,<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> quedar&#xE1;, por este solo hecho, suspendido de sus funciones desde la fecha del auto respectivo, debiendo el juez de la causa dirigir oficio para estos efectos a la Superintendencia de Aduanas y a la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

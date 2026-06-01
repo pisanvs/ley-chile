@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2004-09-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-05-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8659846,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2. Indap llamar&#xE1; a licitaciones para la administraci&#xF3;n de los recursos a que se refiere el art&#xED;culo precedente, las que podr&#xE1;n ser privadas, siempre que en la resoluci&#xF3;n respectiva se establezca el fundamento para que opere dicha modalidad. Podr&#xE1;n participar en tales licitaciones las instituciones financieras que se encuentren fiscalizadas y supervisadas por la Superintendencia de Bancos e Instituciones Financieras incluido el Banco del Estado de Chile y las Cooperativas de Ahorro y Cr&#xE9;dito.</div><div class=\"p\">&nbsp; &nbsp;  Se establecer&#xE1;n bases especiales diferenciadas para las instituciones financieras bancarias y para las cooperativas de ahorro y cr&#xE9;dito.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2. Indap llamar&#xE1; a licitaciones para la administraci&#xF3;n de los recursos a que se refiere el art&#xED;culo precedente, las que podr&#xE1;n ser privadas, siempre que en la resoluci&#xF3;n respectiva se establezca el fundamento para que opere dicha modalidad. Podr&#xE1;n participar en tales licitaciones las instituciones financieras que se encuentren fiscalizadas y supervisadas por la Superintendencia de Bancos e Instituciones Financieras incluido el Banco del Estado de Chile y las Cooperativas de Ahorro y Cr&#xE9;dito.</div><div class=\"p\">&nbsp; &nbsp;  Se podr&#xE1;n establecer bases especiales conjuntas o<span class=\"n\" id=\"n_0\">DTO 24, AGRICULTURA<br>N&#xBA; 1<br>D.O. 25.05.2005</span> diferenciadas para las instituciones financieras bancarias y para las cooperativas de ahorro y cr&#xE9;dito.</div><br></div>"
+        },
+        {
+          "part_id": 8659864,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 12. Podr&#xE1;n optar a cr&#xE9;ditos bajo este Programa aquellas personas que re&#xFA;nen las caracter&#xED;sticas de Peque&#xF1;o Productor Agr&#xED;cola.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 12. Podr&#xE1;n optar a cr&#xE9;dito bajo este<span class=\"n\" id=\"n_1\">DTO 24, AGRICULTURA<br>N&#xBA; 2<br>D.O. 25.05.2005</span> Programa aquellas personas que re&#xFA;nen las caracter&#xED;sticas de Peque&#xF1;o Productor Agr&#xED;cola y las organizaciones integradas mayoritariamente por &#xE9;stos.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

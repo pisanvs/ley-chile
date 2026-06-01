@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-10-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9591495,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">1.&nbsp;  Apru&#xE9;bese la siguiente n&#xF3;mina de circulaciones viales de la localidad de Baquedano y Sierra Gorda, cuyas declaratorias de utilidad p&#xFA;blica se dejan sin efecto:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48738.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">2.&nbsp;  Ord&#xE9;nese a la Secretar&#xED;a Comunal de Planificaci&#xF3;n SECPLA, la asignaci&#xF3;n de las nuevas normas urban&#xED;sticas aplicables a los terrenos que habiendo quedado desafectados, carezcan de ellas, conforme al procedimiento se&#xF1;alado en el art&#xED;culo transitorio de la ley 20.791.</div><div class=\"p\">3.&nbsp;  Comun&#xED;quese a la Secretaria Municipal, Secretaria Comunal de Planificaci&#xF3;n SECPLA, Finanzas, Control y a la Direcci&#xF3;n de Desarrollo Urbano de la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo.</div><div class=\"p\">4.&nbsp;  Publ&#xED;quese el presente decreto en el Diario Oficial y en la p&#xE1;gina web municipal www.municipalidadsierragorda.cl.</div><div class=\"p\">5.&nbsp;  Arch&#xED;vese el presente documento para posterior control de la Oficina Regional de la Contralor&#xED;a General de la Rep&#xFA;blica.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">1.&nbsp;  Apru&#xE9;bese la siguiente n&#xF3;mina de circulaciones viales de la localidad de Baquedano y Sierra Gorda, cuyas declaratorias de utilidad p&#xFA;blica se dejan sin efecto:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48738.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">2.&nbsp;  Ord&#xE9;nese a la Secretar&#xED;a Comunal de Planificaci&#xF3;n SECPLA, la asignaci&#xF3;n de las nuevas normas urban&#xED;sticas aplicables a los terrenos que habiendo quedado desafectados, carezcan de ellas, conforme al procedimiento se&#xF1;alado en el art&#xED;culo transitorio de la ley 20.791.</div><div class=\"p\">3.&nbsp;  Comun&#xED;quese a la Secretaria Municipal, Secretaria Comunal de Planificaci&#xF3;n SECPLA, Finanzas, Control y a la Direcci&#xF3;n de Desarrollo Urbano de la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo.</div><div class=\"p\">4.&nbsp;  Publ&#xED;quese el presente decreto en el Diario Oficial y en la p&#xE1;gina web municipal www.municipalidadsierragorda.cl.</div><div class=\"p\">5.&nbsp;  Arch&#xED;vese el presente documento para posterior control de la Oficina Regional de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; del Decreto 1164 Exento, M. de Sierra Gorda, publicado el 16.10.2015, modifica la presente norma en el sentido de rectificar su numeral 3 de la n&#xF3;mina de circulaciones viales, Calle Caracoles.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2021-12-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-01-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10296283,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Des&#xED;gnanse como Jefes de la Defensa Nacional, en las zonas se&#xF1;aladas en el art&#xED;culo anterior, a los miembros de las Fuerzas Armadas que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  PROVINCIAS DE BIOB&#xCD;O Y ARAUCO, REGI&#xD3;N DEL BIOB&#xCD;O:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Instituci&#xF3;n: Armada</div><div class=\"p\">&nbsp; &nbsp;  Grado: Contraalmirante</div><div class=\"p\">&nbsp; &nbsp;  Apellidos: Z&#xFA;&#xF1;iga Alvayay</div><div class=\"p\">&nbsp; &nbsp;  Nombre: Juan Pablo</div><div class=\"p\">&nbsp; &nbsp;  RUN: 10.383.906-8</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  PROVINCIAS DE CAUT&#xCD;N Y MALLECO, REGI&#xD3;N DE LA ARAUCAN&#xCD;A:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Instituci&#xF3;n: Ej&#xE9;rcito</div><div class=\"p\">&nbsp; &nbsp;  Grado: General de Brigada</div><div class=\"p\">&nbsp; &nbsp;  Apellidos: Cuellar Loyola</div><div class=\"p\">&nbsp; &nbsp;  Nombre: Luis</div><div class=\"p\">&nbsp; &nbsp;  RUN: 11.565.532-9</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Des&#xED;gnanse como Jefes de la Defensa Nacional, en las zonas se&#xF1;aladas en el art&#xED;culo anterior, a los miembros de las Fuerzas Armadas que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  PROVINCIAS DE BIOB&#xCD;O Y ARAUCO, REGI&#xD3;N DEL BIOB&#xCD;O:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Instituci&#xF3;n: Armada</div><div class=\"p\">&nbsp; &nbsp;  Grado: Contraalmirante</div><div class=\"p\">&nbsp; &nbsp;  Apellidos: Z&#xFA;&#xF1;iga Alvayay</div><div class=\"p\">&nbsp; &nbsp;  Nombre: Juan Pablo</div><div class=\"p\">&nbsp; &nbsp;  RUN: 10.383.906-8</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  PROVINCIAS DE CAUT&#xCD;N Y MALLECO, REGI&#xD3;N DE LA ARAUCAN&#xCD;A:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Instituci&#xF3;n: Ej&#xE9;rcito</div><div class=\"p\">&nbsp; &nbsp;  Grado: General de Brigada</div><div class=\"p\">&nbsp; &nbsp;  Apellidos: Cuellar Loyola</div><div class=\"p\">&nbsp; &nbsp;  Nombre: Luis</div><div class=\"p\">&nbsp; &nbsp;  RUN: 11.565.532-9</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo del Decreto 1, Interior, publicado el 08.01.2022, renueva por un per&#xED;odo adicional de 15 d&#xED;as las designaciones de los Jefes de la Defensa Nacional en las provincias de Biob&#xED;o y Arauco, en la Regi&#xF3;n del Biob&#xED;o, y en las provincias de Caut&#xED;n y Malleco, en la Regi&#xF3;n de la Araucan&#xED;a, a los miembros de las Fuerzas Armadas individualizados en el presente art&#xED;culo.</div></div>"
+        }
+      ]
+    }
+  }
+]

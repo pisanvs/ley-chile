@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-09-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8734307,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo transitorio.-&nbsp; Lo dispuesto en el nuevo art&#xED;culo 4.1.6. de la Ordenanza General de Urbanismo y Construcciones incorporado por el presente decreto, comenzar&#xE1; a regir una vez transcurridos 180 d&#xED;as desde la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo transitorio.-&nbsp; Lo dispuesto en el nuevo art&#xED;culo 4.1.6. de la Ordenanza General de Urbanismo y Construcciones incorporado por el presente decreto, comenzar&#xE1; a regir una vez transcurridos 265 d&#xED;as desde<span class=\"n\" id=\"n_0\">DTO 8, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 01.03.2005</span> la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

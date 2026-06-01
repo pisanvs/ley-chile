@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2012-03-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-02-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9243701,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase a las comunas de La Ligua, Cabildo y Petorca, todas de la provincia de Petorca, de la Regi&#xF3;n de Valpara&#xED;so, a contar de esta fecha, como afectadas por la cat&#xE1;strofe derivada de la prolongada sequ&#xED;a que ha asolado a dichas zonas.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase a las comunas de La Ligua, Cabildo y Petorca, todas de la provincia de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Petorca, de la Regi&#xF3;n de Valpara&#xED;so, a contar de esta fecha, como afectadas por la cat&#xE1;strofe derivada de la prolongada sequ&#xED;a que ha asolado a dichas zonas.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto 133, Interior, publicado el 25.02.2013, extiende por un plazo de doce meses la vigencia de las medidas de excepci&#xF3;n para hacer frente a la emergencia surgida con motivo de la intensa y prolongada sequ&#xED;a que ha asolado a todas las comunas de la provincia de Petorca, de la Regi&#xF3;n de Valpara&#xED;so, las que fueron declaradas como zonas afectadas por la cat&#xE1;strofe por la presente norma. La vigencia de la extensi&#xF3;n dispuesta se iniciar&#xE1; a partir del vencimiento del plazo de doce meses contados desde el 28 de febrero de 2012, esto es, a contar desde el 28 de febrero de 2013, por lo que todas las medidas de excepci&#xF3;n adoptadas o que se adopten con ocasi&#xF3;n de la emergencia continuar&#xE1;n vigentes y podr&#xE1;n ser aplicadas hasta el 28 de febrero de 2014.</div></div>"
+        }
+      ]
+    }
+  }
+]

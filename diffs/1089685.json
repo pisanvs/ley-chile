@@ -1,0 +1,51 @@
+[
+  {
+    "fecha": "2016-04-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-06-16",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9698103,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Del&#xE9;guese en do&#xF1;a Andrea D&#xED;az Aranda, funcionaria a contrata asimilada a grado 4 EUS, del estamento profesional de esta Subsecretar&#xED;a, las facultades de notificar y firmar el primer y segundo Informe de Desempe&#xF1;o y la Precalificaci&#xF3;n de los funcionarios de la Unidad Funcional de Tecnolog&#xED;a y Desarrollo de esta Subsecretar&#xED;a, autorizar cometidos funcionarios, permisos facultativos, feriado legal, y las solicitudes de horas extraordinarias del personal de dicha Unidad: preparar y presentar el presupuesto de dicha dependencia, y solicitar a la Subsecretar&#xED;a la contrataci&#xF3;n de personal.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Derogado<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1091638&amp;idParte=9708621&amp;idVersion=2016-06-16\">Resoluci&#xF3;n 1830 EXENTA,<br>ECONOM&#xCD;A<br>Art. SEGUNDO<br>D.O. 16.06.2016</a></span>.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2017-02-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9698102,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Del&#xE9;guese en do&#xF1;a Alejandra Dagnino Elissetche, funcionaria titular, grado 4&#xBA; EUS, del estamento directivo de la Subsecretar&#xED;a de Econom&#xED;a y Empresas de Menor Tama&#xF1;o, la facultad de suscribir los certificados a que alude la ley N&#xBA; 20.659, y su reglamento mediante firma electr&#xF3;nica.</div><div class=\"p\">&nbsp; &nbsp;  En caso de ausencia o impedimento de la se&#xF1;ora Dagnino Elissetche, ejercer&#xE1; las funciones indicadas en el p&#xE1;rrafo anterior do&#xF1;a Andrea D&#xED;az Aranda, funcionaria a contrata asimilada a grado 4 EUS del estamento profesional de esta Subsecretar&#xED;a.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Del&#xE9;guese en do&#xF1;a Alejandra Dagnino Elissetche, funcionaria titular, grado 4&#xBA; EUS, del estamento directivo de la Subsecretar&#xED;a de Econom&#xED;a y Empresas de Menor Tama&#xF1;o, la facultad de suscribir los certificados a que alude la ley N&#xBA; 20.659, y su reglamento mediante firma electr&#xF3;nica.</div><div class=\"p\">&nbsp; &nbsp;  En caso de ausencia o impedimento de la se&#xF1;ora Dagnino Elissetche, ejercer&#xE1; las funciones<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1100643&amp;idParte=9778064&amp;idVersion=2017-03-01\">Resoluci&#xF3;n 535 EXENTA,<br>ECONOM&#xCD;A<br>Art. PRIMERO<br>D.O. 01.03.2017</a></span> indicadas en el p&#xE1;rrafo anterior do&#xF1;a Mar&#xED;a Luisa L&#xF3;pez Osorio, funcionaria titular, grado 4&#xB0;, EUS, del estamento directivo de esta Subsecretar&#xED;a.</div><br></div>"
+        },
+        {
+          "part_id": 9698103,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Derogado<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1091638&amp;idParte=9708621&amp;idVersion=2016-06-16\">Resoluci&#xF3;n 1830 EXENTA,<br>ECONOM&#xCD;A<br>Art. SEGUNDO<br>D.O. 16.06.2016</a></span>.</div><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Del&#xE9;guese en do&#xF1;a Mar&#xED;a Luisa L&#xF3;pez Osorio, funcionaria titular, grado<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1100643&amp;idParte=9778065&amp;idVersion=2017-03-01\">Resoluci&#xF3;n 535 EXENTA,<br>ECONOM&#xCD;A<br>Art. SEGUNDO<br>D.O. 01.03.2017</a></span> 4&#xB0;, EUS, del estamento directivo de esta Subsecretar&#xED;a, las facultades de notificar y firmar el primer y segundo Informe de Desempe&#xF1;o y la Precalificaci&#xF3;n de los funcionarios de la Unidad Funcional de Tecnolog&#xED;a y Desarrollo de esta Subsecretar&#xED;a, autorizar cometidos funcionarios, permisos facultativos, feriado legal, y las solicitudes de horas extraordinarias del personal de dicha Unidad; preparar y presentar el presupuesto de dicha dependencia, y solicitar a la Subsecretar&#xED;a la contrataci&#xF3;n de personal.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

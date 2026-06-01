@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-06-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-07-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9361569,
+          "old": "<div><br><div class=\"p\">LEY N&#xDA;M. 20.682</div><br><div class=\"p\">MODIFICA LA LEY N&#xB0; 18.700, ORG&#xC1;NICA CONSTITUCIONAL DE VOTACIONES POPULARES Y ESCRUTINIOS, ESTABLECIENDO LA FACULTAD DE EXCUSARSE DE LA OBLIGACI&#xD3;N DE SER VOCAL DE MESA PARA LAS MUJERES EN ESTADO DE EMBARAZO Y PUERPERIO</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente que el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente proyecto de ley originado en una moci&#xF3;n de los Diputados se&#xF1;ores Pedro Araya Guerrero, Alberto Cardemil Herrera, Joaqu&#xED;n Godoy Ib&#xE1;&#xF1;ez, Patricio Melero Abaroa, Ren&#xE9; Saffirio Espinoza y de las Diputadas se&#xF1;oras Mar&#xED;a Jos&#xE9; Hoffmann Opazo, Denise Pascal Allende, Mar&#xED;a Antonieta Saa D&#xED;az y Alejandra Sep&#xFA;lveda Orbenes.</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div></div>",
+          "new": "<div><br><div class=\"p\">LEY N&#xDA;M. 20.682</div><br><div class=\"p\">MODIFICA LA LEY N&#xB0; 18.700, ORG&#xC1;NICA CONSTITUCIONAL DE VOTACIONES POPULARES Y ESCRUTINIOS, ESTABLECIENDO LA FACULTAD DE EXCUSARSE DE LA OBLIGACI&#xD3;N DE SER VOCAL DE MESA PARA LAS MUJERES EN ESTADO DE EMBARAZO Y PUERPERIO</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente que el H. Congreso ha dado su aprobaci&#xF3;n al siguiente proyecto de ley originado en una Moci&#xF3;n de los Diputados se&#xF1;ores <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053010&amp;idParte=9365842&amp;idVersion=2013-07-20\">Resoluci&#xF3;n 22,<br>SEC. GRAL. PRES.<br>Art. &#xDA;NICO<br>D.O. 20.07.2013</a></span>Issa Kort Garriga, Pedro Araya Guerrero, Alberto Cardemil Herrera, Joaqu&#xED;n Godoy Ib&#xE1;&#xF1;ez, Patricio Melero Abaroa, Ren&#xE9; Saffirio Espinoza y de las Diputadas se&#xF1;oras Mar&#xED;a Jos&#xE9; Hoffmann Opazo, Denise Pascal Allende, Mar&#xED;a Antonieta Saa D&#xED;az y Alejandra Sep&#xFA;lveda Orbenes.</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1053010,
+      "fecha": "2013-07-20"
+    }
+  }
+]

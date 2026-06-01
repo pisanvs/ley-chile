@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-09-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-10-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676992,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; LIMITA TIEMPO Y FIJA TARIFA DE ESTACIONAMIENTO DE VEHICULOS EN LUGARES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 109.- Providencia, 30 de agosto de 1996.- Vistos: La Ordenanza Municipal sobre &quot;Estacionamientos Controlados por Parqu&#xED;metros&quot;, aprobada con el N&#xB0; 108 de 23 de agosto de 1996, y considerando las facultades que me otorgan los art&#xED;culos 49, 55 y 56 de la Ley N&#xB0; 18.695, Org&#xE1;nica Constitucional de Municipalidades.</div><div class=\"p\">&nbsp; &nbsp; Considerando: La necesidad de precisar los sectores de la Comuna que estar&#xE1;n afectos a las normas sobre &quot;Estacionamientos Controlados por Parqu&#xED;metros&quot; y de fijar la tarifa del estacionamiento, seg&#xFA;n el tiempo utilizado.</div><div class=\"p\">&nbsp; &nbsp; O r d e n a n z a:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; LIMITA TIEMPO Y FIJA TARIFA DE ESTACIONAMIENTO DE VEHICULOS EN LUGARES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 109.- Providencia, 30 de agosto de 1996.- Vistos: La Ordenanza Municipal sobre &quot;Estacionamientos Controlados por Parqu&#xED;metros&quot;, aprobada con el N&#xB0; 108 de 23 de agosto de 1996, y considerando las facultades que me otorgan los art&#xED;culos 49, 55 y 56 de la Ley N&#xB0; 18.695, Org&#xE1;nica Constitucional de Municipalidades.</div><div class=\"p\">&nbsp; &nbsp; Considerando: La necesidad de precisar los sectores de la Comuna que estar&#xE1;n afectos a las normas sobre &quot;Estacionamientos Controlados por Parqu&#xED;metros&quot; y de fijar la tarifa del estacionamiento, seg&#xFA;n el tiempo utilizado.</div><div class=\"p\">&nbsp; &nbsp; O r d e n a n z a:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1976-08-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-08-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8257427,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El porcentaje de la utilidad l&#xED;quida que fije el Reglamento ingresar&#xE1; al Presupuesto de la IV Regi&#xF3;n y se destinar&#xE1; a financiar los proyectos de desarrollo en la misma regi&#xF3;n. El remanente de dicha utilidad ser&#xE1; la retribuci&#xF3;n que se pague al concesionario.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El porcentaje de la utilidad de<span class=\"n\" id=\"n_0\">LEY 19236<br>Art. 21<br>D.O. 21.08.1993</span> explotaci&#xF3;n del casino o cualquier forma de retribuci&#xF3;n que el concesionario se obligue a pagar, constituir&#xE1;n ingresos propios de la Municipalidad de Coquimbo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-02-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-06-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6268206,
+          "old": "<div><br><div class=\"p\">EXTRACTO DE DECRETO SUPREMO EXENTO DE EDUCACION N&#xB0; 164 DE 14 DE SEPTIEMBRE DE 1984</div><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO SUPREMO EXENTO DE EDUCACION N&#xB0; 164 DE 14 DE SEPTIEMBRE DE 1984</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

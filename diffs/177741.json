@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2000-11-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6308341,
+          "old": "<div><div class=\"p\">DESIGNA DIRECTOR DEL SERVICIO DE SALUD VALDIVIA AL DR. RENE GUZMAN SERANI</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xFA;m. 569.- Santiago, 26 de julio de 2000.- Visto: Lo dispuesto en los art&#xED;culos 4&#xBA; inciso primero, 7&#xBA; letra c), 14&#xBA;, 81&#xBA; letra e) y 82&#xBA; incisos segundo y tercero de la&nbsp; ley N&#xBA; 18.834; 29&#xBA; del decreto ley N&#xBA; 2.763 de 1979 y teniendo presente las facultades que me confiere el art&#xED;culo 32 N&#xBA; 12 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA DIRECTOR DEL SERVICIO DE SALUD VALDIVIA AL DR. RENE GUZMAN SERANI</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xFA;m. 569.- Santiago, 26 de julio de 2000.- Visto: Lo dispuesto en los art&#xED;culos 4&#xBA; inciso primero, 7&#xBA; letra c), 14&#xBA;, 81&#xBA; letra e) y 82&#xBA; incisos segundo y tercero de la&nbsp; ley N&#xBA; 18.834; 29&#xBA; del decreto ley N&#xBA; 2.763 de 1979 y teniendo presente las facultades que me confiere el art&#xED;culo 32 N&#xBA; 12 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; D e c r e t o:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 6308342,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; 1.- Des&#xED;gnase al Dr. Ren&#xE9; Guzm&#xE1;n Serani, RUN 2.495.667-9, en el cargo de Director del Servicio de Salud Valdivia, grado 2&#xBA; EUS, 40% de asignaci&#xF3;n de responsabilidad superior, m&#xE1;s la asignaci&#xF3;n profesional correspondiente, de acuerdo al Art. 19&#xBA; de la ley N&#xBA; 19.185, en calidad de titular, a contar del 27 de julio de 2000.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 2.- El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza y por razones impostergables de buen servicio, la persona en referencia asumir&#xE1; en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 3.- D&#xE9;jase establecido que con esta designaci&#xF3;n, el Dr. Guzm&#xE1;n Serani conservar&#xE1; el cargo de M&#xE9;dico Cirujano 44 horas semanales, que sirve en calidad de titular en el mismo Servicio de Salud y opta por dichas remuneraciones.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 4.- Imp&#xFA;tese el gasto correspondiente a los Item 21-01-001, 21-02-002 y 21-02-006 del Presupuesto del Servicio de Salud Talcahuano.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; 1.- Des&#xED;gnase al Dr. Ren&#xE9; Guzm&#xE1;n Serani, RUN 2.495.667-9, en el cargo de Director del Servicio de Salud Valdivia, grado 2&#xBA; EUS, 40% de asignaci&#xF3;n de responsabilidad superior, m&#xE1;s la asignaci&#xF3;n profesional correspondiente, de acuerdo al Art. 19&#xBA; de la ley N&#xBA; 19.185, en calidad de titular, a contar del 27 de julio de 2000.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 2.- El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza y por razones impostergables de buen servicio, la persona en referencia asumir&#xE1; en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 3.- D&#xE9;jase establecido que con esta designaci&#xF3;n, el Dr. Guzm&#xE1;n Serani conservar&#xE1; el cargo de M&#xE9;dico Cirujano 44 horas semanales, que sirve en calidad de titular en el mismo Servicio de Salud y opta por dichas remuneraciones.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 4.- Imp&#xFA;tese el gasto correspondiente a los Item 21-01-001, 21-02-002 y 21-02-006 del Presupuesto del Servicio de Salud Talcahuano.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 755, Salud, publicado el 14.03.2001, aclar&#xF3; la presente norma en el sentido de dejar establecido que los gastos que la designaci&#xF3;n origina son de cargo del Servicio de Salud Valdivia, no como aqu&#xED; se indica.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

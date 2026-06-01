@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-03-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-09-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7285461,
+          "old": "<div><div class=\"p\">AUTORIZA A DON EUGENIO RAUL YOKOTA BEURET PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON EUGENIO RAUL YOKOTA BEURET PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

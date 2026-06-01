@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1986-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6212117,
+          "old": null,
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 105, DE 1984</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 266.- Santiago, 28 de Noviembre de 1986.- Visto: Lo dispuesto en el art&#xED;culo 10&#xBA; de la Ley N&#xBA; 17.286, la Ley N&#xBA; 16.640 y la resoluci&#xF3;n N&#xBA; 105 de 21 de Septiembre de 1984 del Servicio Agr&#xED;cola y Ganadero.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

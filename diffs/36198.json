@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-06-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8295618,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDAD PESQUERA EN LA UNIDAD DE PESQUERIA DEL ARTICULO 1&#xB0; LETRA E) DEL D.S. N&#xB0; 354, DE 1993</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.091.- Valpara&#xED;so, 11 de Junio de 1996.- Visto: Lo solicitado por Pesca Chile S.A.; lo informado por la Divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a en Memoranda N&#xB0; 74 y N&#xB0; 75, de 7 de marzo de 1996; lo dispuesto en el D.F.L. N&#xB0; 5, de 1983; el D.S. N&#xB0; 354, de 1993, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Ley N&#xB0; 18.892 y sus modificaciones, cuyo texto refundido fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Resoluci&#xF3;n N&#xB0; 1.828, de 1995, de esta Subsecretar&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDAD PESQUERA EN LA UNIDAD DE PESQUERIA DEL ARTICULO 1&#xB0; LETRA E) DEL D.S. N&#xB0; 354, DE 1993</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.091.- Valpara&#xED;so, 11 de Junio de 1996.- Visto: Lo solicitado por Pesca Chile S.A.; lo informado por la Divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a en Memoranda N&#xB0; 74 y N&#xB0; 75, de 7 de marzo de 1996; lo dispuesto en el D.F.L. N&#xB0; 5, de 1983; el D.S. N&#xB0; 354, de 1993, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Ley N&#xB0; 18.892 y sus modificaciones, cuyo texto refundido fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Resoluci&#xF3;n N&#xB0; 1.828, de 1995, de esta Subsecretar&#xED;a.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

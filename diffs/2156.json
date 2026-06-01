@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-02-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676910,
+          "old": "<div><div class=\"p\">APRUEBA ORDENANZA LOCAL SOBRE PERMISOS, CONCESIONES Y SERVICIOS</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m 47.- Portezuelo, 9 de Febrero de 1994.- Vistos: La necesidad de regularizar los cobros sobre Derechos Municipales; el acuerdo del Concejo Comunal en Sesi&#xF3;n Ordinaria N&#xB0; 62, de fecha 9 de Febrero de 1994; lo dispuesto en el D.L. N&#xB0; 3.063, &quot;Rentas Municipales&quot; y las atribuciones que me confiere la Ley N&#xB0; 18.695, &quot;Org&#xE1;nica Constitucional de Municipalidades&quot;, con sus modificaciones posteriores.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA ORDENANZA LOCAL SOBRE PERMISOS, CONCESIONES Y SERVICIOS</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m 47.- Portezuelo, 9 de Febrero de 1994.- Vistos: La necesidad de regularizar los cobros sobre Derechos Municipales; el acuerdo del Concejo Comunal en Sesi&#xF3;n Ordinaria N&#xB0; 62, de fecha 9 de Febrero de 1994; lo dispuesto en el D.L. N&#xB0; 3.063, &quot;Rentas Municipales&quot; y las atribuciones que me confiere la Ley N&#xB0; 18.695, &quot;Org&#xE1;nica Constitucional de Municipalidades&quot;, con sus modificaciones posteriores.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

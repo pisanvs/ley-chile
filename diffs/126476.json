@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1998-10-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-07-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6137056,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Cr&#xE9;ase un Programa Especial de Becas de Perfeccionamiento, para los profesionales se&#xF1;alados en las letras a) y b) del art&#xED;culo 5&#xB0; de la ley N&#xBA; 19.378, que se desempe&#xF1;en en los establecimientos indicados en el Art.</div><div class=\"p\">2&#xB0; de dicho cuerpo legal.</div><br></div>",
+          "new": "<div><br><div class=\"p\">Art&#xED;culo primero: Cr&#xE9;ase un Programa Especial de<span class=\"n\" id=\"n_0\">RES 257, SALUD<br>Art.&#xFA;nico, N&#xBA;2<br>D.O. 28.07.1999</span> Becas de Capacitaci&#xF3;n y Perfeccionamiento para el personal se&#xF1;alado en el art&#xED;culo 5&#xBA; de la ley N&#xBA; 19.378, que se desempe&#xF1;e en los establecimientos indicados en el art&#xED;culo 2&#xBA; de dicho cuerpo legal.</div><br></div>"
+        },
+        {
+          "part_id": 6137061,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo sexto: Las modalidades de perfeccionamiento ser&#xE1;n las siguientes:</div><br><div class=\"p\">a)&nbsp;  Pasant&#xED;as.</div><div class=\"p\">&nbsp; &nbsp;  Se entender&#xE1; por &apos;&apos;pasant&#xED;a&apos;&apos;, la modalidad de perfeccionamiento consistente en una estad&#xED;a breve en uno o m&#xE1;s centros de perfeccionamiento, nacionales o extranjeros, por un lapso m&#xE1;ximo de dos meses, destinada a conocer experiencias de atenci&#xF3;n de salud y gesti&#xF3;n de atenci&#xF3;n primaria, caracterizadas por su &#xED;ndole innovadora, transdisciplinaria y orientadas, preferentemente, en el enfoque de salud familiar.</div><div class=\"p\">&nbsp; &nbsp;  Por regla general, las pasant&#xED;as estar&#xE1;n destinadas a equipos multidisciplinarios; no obstante ello, se podr&#xE1;n conceder cupos individuales o para grupos de pares.</div><div class=\"p\">&nbsp; &nbsp;  Durante el primer a&#xF1;o de ejecuci&#xF3;n del Programa se priorizar&#xE1; el otorgamiento de becas para realizar pasant&#xED;as, en un n&#xFA;mero m&#xE1;ximo de doscientos (200) cupos, cuyo costo, incluidos los gastos de administraci&#xF3;n, no podr&#xE1; exceder la suma de cuatrocientos veinte millones de pesos ($420.000.000.-).</div><br><div class=\"p\">b)&nbsp;  Diplomados.</div><br><div class=\"p\">&nbsp; &nbsp;  Se entender&#xE1; por &apos;&apos;diplomado&apos;&apos;, la modalidad de perfeccionamiento en uno o m&#xE1;s centros de perfeccionamiento, nacionales o extranjeros, consistente en cursos te&#xF3;rico-pr&#xE1;cticos, en &#xE1;mbitos prioritarios para la atenci&#xF3;n de salud y la gesti&#xF3;n de la atenci&#xF3;n primaria de salud en Chile, de una duraci&#xF3;n m&#xE1;xima de seis meses.</div><br><div class=\"p\">&nbsp; &nbsp;  Los becarios participantes en ambas modalidades de perfeccionamiento recibir&#xE1;n un certificado otorgado por la entidad ejecutora.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo sexto: Las modalidades de perfeccionamiento ser&#xE1;n las siguientes: a)&nbsp;  Pasant&#xED;as.</div><div class=\"p\">&nbsp; &nbsp;  Se entender&#xE1; por &apos;&apos;pasant&#xED;a&apos;&apos;, la modalidad de</div><div class=\"p\">perfeccionamiento consistente en una estad&#xED;a breve en uno o</div><div class=\"p\">m&#xE1;s centros de perfeccionamiento, nacionales o extranjeros,</div><div class=\"p\">por un lapso m&#xE1;ximo de dos meses, destinada a conocer</div><div class=\"p\">experiencias de atenci&#xF3;n de salud y gesti&#xF3;n de atenci&#xF3;n</div><div class=\"p\">primaria, caracterizadas por su &#xED;ndole innovadora,</div><div class=\"p\">transdisciplinaria y orientadas, preferentemente, en el</div><div class=\"p\">enfoque de salud familiar.</div><div class=\"p\">&nbsp; &nbsp;  Por regla general, las pasant&#xED;as estar&#xE1;n destinadas a</div><div class=\"p\">equipos multidisciplinarios; no obstante ello,</div><div class=\"p\">se podr&#xE1;n conceder cupos individuales o</div><div class=\"p\">para grupos de pares.</div><div class=\"p\">&nbsp; &nbsp;  Durante la ejecuci&#xF3;n del Programa se priorizar&#xE1;<span class=\"n\" id=\"n_1\">RES 257, SALUD<br>Art. &#xFA;nico, N&#xBA;3<br>D.O. 28.07.1999</span></div><div class=\"p\">el otorgamiento de becas para realizar pasant&#xED;as, en un</div><div class=\"p\">n&#xFA;mero m&#xE1;ximo de doscientos cincuenta (250) cupos, cuyo</div><div class=\"p\">costo, incluidos los gastos de administraci&#xF3;n, no podr&#xE1;</div><div class=\"p\">exceder la suma de seiscientos cincuenta y tres millones</div><div class=\"p\">novecientos cuarenta mil pesos (653.940.000).</div><div class=\"p\">b)&nbsp;  Diplomados.</div><div class=\"p\"> Se entender&#xE1; por &apos;&apos;diplomado&apos;&apos;, la modalidad de perfeccionamiento en uno o m&#xE1;s centros de perfeccionamiento, nacionales o extranjeros, consistente en cursos te&#xF3;rico-pr&#xE1;cticos, en &#xE1;mbitos prioritarios para la atenci&#xF3;n de salud y la gesti&#xF3;n de la atenci&#xF3;n primaria de salud en Chile, de una duraci&#xF3;n m&#xE1;xima de seis meses. Los becarios participantes en ambas modalidades de perfeccionamiento recibir&#xE1;n un certificado otorgado por la entidad ejecutora. </div></div>"
+        },
+        {
+          "part_id": 6137071,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo d&#xE9;cimo sexto: El gasto que demande la aplicaci&#xF3;n y ejecuci&#xF3;n de la presente resoluci&#xF3;n se financiar&#xE1; con cargo al &#xED;tem 22 - 17 - 017 - 07 &apos;&apos;Capacitaci&#xF3;n de Atenci&#xF3;n Primaria&apos;&apos; del presupuesto de los Servicios de Salud.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo d&#xE9;cimo sexto: El gasto que demande la<span class=\"n\" id=\"n_2\">RES-257, SALUD<br>Art. &#xFA;nico, N&#xBA;4<br>D.O. 28.07.1999</span> aplicaci&#xF3;n y ejecuci&#xF3;n de la presente resoluci&#xF3;n se financiar&#xE1; con cargo al &#xED;tem 25 - 33 - 298 - 04, del presupuesto de los Servicios de Salud.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

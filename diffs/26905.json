@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1955-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5970350,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11.&#xB0; Para ser miembro del Consejo General se requiere:</div><div class=\"p\">&nbsp; &nbsp; a) Estar en posesi&#xF3;n del t&#xED;tulo de m&#xE9;dico veterinario durante diez a&#xF1;os, por lo menos, y con sus cuotas al d&#xED;a;</div><div class=\"p\">&nbsp; &nbsp; b) Estar inscrito en los Registros del Colegio;</div><div class=\"p\">&nbsp; &nbsp; c) No haber sido objeto de medidas disciplinarias del Consejo durante los &#xFA;ltimos dos a&#xF1;os, y d) No haber sido condenado ni estar encargado reo por cr&#xED;menes o simples delitos comunes que merezcan pena aflictiva.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11.&#xB0; Para ser miembro del Consejo General se requiere:</div><div class=\"p\">&nbsp; &nbsp; a) Estar en posesi&#xF3;n del t&#xED;tulo de m&#xE9;dico veterinario durante diez a&#xF1;os, por lo menos, y con sus cuotas al d&#xED;a;</div><div class=\"p\">&nbsp; &nbsp; b) Estar inscrito en los Registros del Colegio;</div><div class=\"p\">&nbsp; &nbsp; c) No haber sido objeto de medidas disciplinarias del Consejo durante los &#xFA;ltimos dos a&#xF1;os, y</div><div class=\"p\">&nbsp; &nbsp; d) No haber sido condenado ni estar encargado reo<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> por cr&#xED;menes o simples delitos comunes que merezcan pena aflictiva.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>"
+        },
+        {
+          "part_id": 5970385,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 41.&#xB0; Encargado reo un infractor de la presente ley, por alguno de los delitos contemplados en este T&#xED;tulo, se decretar&#xE1; la clausura provisional de su oficina o del local en que ejerciere sus actividades. Condenado por sentencia ejecutoriada, la clausura ser&#xE1; definitiva.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 41.&#xB0; Encargado reo un infractor de la<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> presente ley, por alguno de los delitos contemplados en este T&#xED;tulo, se decretar&#xE1; la clausura provisional de su oficina o del local en que ejerciere sus actividades. Condenado por sentencia ejecutoriada, la clausura ser&#xE1; definitiva.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>"
+        },
+        {
+          "part_id": 5970386,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 42&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_0\">DL 3454 1980<br>ART 13&#xB0;</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 42&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_2\">DL 3454 1980<br>ART 13&#xB0;</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

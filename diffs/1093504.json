@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9721786,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base la selecci&#xF3;n de los 5 proyectos de las copropiedades que se indican a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59834.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Apru&#xE9;base la n&#xF3;mina de los postulantes pertenecientes a los proyectos seleccionados, conforme a las tablas que se indican a continuaci&#xF3;n, seg&#xFA;n el c&#xF3;digo de cada grupo:</div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59835.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- Instr&#xFA;yese a Serviu Regi&#xF3;n del Biob&#xED;o para que, a lo menos mediante un aviso, publicado en un peri&#xF3;dico de circulaci&#xF3;n regional, ponga en conocimiento de los postulantes el lugar y la fecha en que ser&#xE1;n publicadas las n&#xF3;minas de los postulantes seleccionados y los respectivos proyectos, las que deber&#xE1;n contener a lo menos, el T&#xED;tulo del cual se trate, el nombre del grupo y el nombre de cada postulante con su respectiva C&#xE9;dula Nacional de Identidad, el nombre del proyecto y el puntaje obtenido por el grupo o persona.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base la selecci&#xF3;n de los 5 proyectos de las copropiedades que se indican a continuaci&#xF3;n:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59834.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Apru&#xE9;base la n&#xF3;mina de los postulantes pertenecientes a los proyectos seleccionados, conforme a las tablas que se indican a continuaci&#xF3;n, seg&#xFA;n el c&#xF3;digo de cada grupo:</div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59835.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- Instr&#xFA;yese a Serviu Regi&#xF3;n del Biob&#xED;o para que, a lo menos mediante un aviso, publicado en un peri&#xF3;dico de circulaci&#xF3;n regional, ponga en conocimiento de los postulantes el lugar y la fecha en que ser&#xE1;n publicadas las n&#xF3;minas de los postulantes seleccionados y los respectivos proyectos, las que deber&#xE1;n contener a lo menos, el T&#xED;tulo del cual se trate, el nombre del grupo y el nombre de cada postulante con su respectiva C&#xE9;dula Nacional de Identidad, el nombre del proyecto y el puntaje obtenido por el grupo o persona.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 de la Resoluci&#xF3;n 1236 Exenta, Vivienda, publicada el 30.09.2016, rectifica la presente norma en el sentido de modificar la tabla inserta en su resuelvo 1 letra a), en la fila correspondiente a Hualp&#xE9;n, Condominio O-P-Q, en la columna que dice UF T&#xED;tulo II, debe decir 2.975 U.F.</div></div>"
+        }
+      ]
+    }
+  }
+]

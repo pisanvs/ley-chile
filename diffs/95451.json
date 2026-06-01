@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-08-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9050029,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xB0; 3.430, DE 1988 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xB0; 3.430, DE 1988 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

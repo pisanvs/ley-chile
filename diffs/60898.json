@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1997-02-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-11-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938367,
+          "old": "<div><br><div class=\"p\">DECLARA INSTITUCION OFICIAL DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 22 de enero de 1997.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 27.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1. del D.S. N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; las facultades que me otorga el D.L. N&#xBA; 1.305 de 1976, y la Resoluci&#xF3;n N&#xBA; 317 (V. y U.), de 1995, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DECLARA INSTITUCION OFICIAL DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 22 de enero de 1997.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 27.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1. del D.S. N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; las facultades que me otorga el D.L. N&#xBA; 1.305 de 1976, y la Resoluci&#xF3;n N&#xBA; 317 (V. y U.), de 1995, dicto la siguiente </div><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8938368,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Decl&#xE1;rase Instituci&#xF3;n Oficial de Control T&#xE9;cnico de Calidad de los Materiales y Elementos Industriales para la Construcci&#xF3;n, al Laboratorio Corthorn Quality (Chile) S.A., con domicilio en calle Gabriel Toro N&#xBA; 196 de la ciudad de Talcahuano, en las siguientes &#xE1;reas y especialidades:</div><br><div class=\"p\">Areas&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Especialidad</div><br><div class=\"p\">Maderas&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - Madera Preservada</div><div class=\"p\">Soldaduras</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Tendr&#xE1; la calidad de responsable de la Instituci&#xF3;n el Sr. Ra&#xFA;l Corthorn Jara, Ingeniero Civil y de las distintas &#xE1;reas los siguientes profesionales:</div><br><div class=\"p\">Area&nbsp; &nbsp; &nbsp; &nbsp; Profesional&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Profesi&#xF3;n</div><br><div class=\"p\">Maderas&nbsp; &nbsp;  Claudia V. Pe&#xF1;a Jara&nbsp; &nbsp; &nbsp; Ingeniero de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ejecuci&#xF3;n en</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Maderas.</div><div class=\"p\">Soldaduras&nbsp; Ra&#xFA;l Corthorn Jara&nbsp; &nbsp; &nbsp; &nbsp; Ingeniero Civil.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Decl&#xE1;rase Instituci&#xF3;n Oficial de Control T&#xE9;cnico de Calidad de los Materiales y Elementos Industriales para la Construcci&#xF3;n, al Laboratorio Corthorn Quality (Chile) S.A., con domicilio en calle Gabriel Toro N&#xBA; 196 de la ciudad de Talcahuano, en las siguientes &#xE1;reas y especialidades:</div><br><div class=\"p\">Areas&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Especialidad</div><br><div class=\"p\">Maderas&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - Madera Preservada</div><div class=\"p\">Soldaduras</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Tendr&#xE1; la calidad de responsable de la Instituci&#xF3;n el Sr. Ra&#xFA;l Corthorn Jara, Ingeniero Civil y de las distintas &#xE1;reas los siguientes profesionales:</div><br><div class=\"p\">Area&nbsp; &nbsp; &nbsp; &nbsp; Profesional&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Profesi&#xF3;n</div><br><div class=\"p\">Maderas&nbsp; &nbsp;  Claudia V. Pe&#xF1;a Jara&nbsp; &nbsp; &nbsp; Ingeniero de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ejecuci&#xF3;n en</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Maderas.</div><div class=\"p\">Soldaduras&nbsp; Ra&#xFA;l Corthorn Jara&nbsp; &nbsp; &nbsp; &nbsp; Ingeniero Civil.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 592, Vivienda, publicada el 22.11.2004, modific&#xF3; la presente norma en el sentido de reemplazar a do&#xF1;a Claudia Pe&#xF1;a Jara por do&#xF1;a Jacquelin Alarc&#xF3;n Riquelme como profesional responsable del &#xE1;rea madera.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

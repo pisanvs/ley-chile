@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-06-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8341308,
+          "old": "<div><div class=\"p\">AUTORIZA A DON RENE ZU&#xD1;IGA NAHUELQUIN PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON RENE ZU&#xD1;IGA NAHUELQUIN PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

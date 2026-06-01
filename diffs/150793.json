@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1954-02-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-06-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9090343,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO SOBRE AGUAS MINERALES</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2,075.- Santiago, 17 de Diciembre de 1953.- Vista la facultad que me confiere el N.o 2 del art&#xED;culo 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado y lo dispuesto en el C&#xF3;digo Sanitario</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO SOBRE AGUAS MINERALES</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2,075.- Santiago, 17 de Diciembre de 1953.- Vista la facultad que me confiere el N.o 2 del art&#xED;culo 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado y lo dispuesto en el C&#xF3;digo Sanitario</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

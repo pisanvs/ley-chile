@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-04-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-12-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10116425,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- Autor&#xED;zase al Ministro de Hacienda para que, mediante uno o m&#xE1;s decretos expedidos bajo la f&#xF3;rmula &quot;Por orden del Presidente de la Rep&#xFA;blica&quot;, efect&#xFA;e el aporte dispuesto en el literal a) del numeral 3) del art&#xED;culo primero de esta ley. El mencionado aporte se podr&#xE1; enterar en una o m&#xE1;s transferencias hasta en un plazo m&#xE1;ximo de 36 meses contados desde la entrada en vigencia de esta ley. Dichas transferencias se financiar&#xE1;n con la venta de activos del Tesoro P&#xFA;blico, incluidos en estos los provenientes del Fondo de Estabilizaci&#xF3;n Econ&#xF3;mica y Social. </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- Autor&#xED;zase al Ministro de Hacienda para que, mediante uno o m&#xE1;s decretos expedidos bajo la f&#xF3;rmula &quot;Por orden del Presidente de la Rep&#xFA;blica&quot;, efect&#xFA;e el aporte dispuesto en el literal a) del numeral 3) del art&#xED;culo primero de esta ley. El mencionado aporte se podr&#xE1; enterar en una o m&#xE1;s transferencias hasta en un plazo m&#xE1;ximo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1185643&amp;idParte=10384499&amp;idVersion=2022-12-03\">Ley 21514<br>Art. 3<br>D.O. 03.12.2022</a></span>de cuarenta y ocho meses contados desde la entrada en vigencia de la ley que modifica el Fondo de Garant&#xED;a para Peque&#xF1;os y Medianos Empresarios y permite flexibilizar convenios de pago por impuestos adeudados, para apoyar la reactivaci&#xF3;n de la econom&#xED;a. Dichas transferencias se financiar&#xE1;n con la venta de activos del Tesoro P&#xFA;blico, incluidos en estos los provenientes del Fondo de Estabilizaci&#xF3;n Econ&#xF3;mica y Social. </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1185643,
+      "fecha": "2022-12-03"
+    }
+  }
+]

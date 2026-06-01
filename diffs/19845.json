@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-10-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-10-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8923504,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ASIGNA A FUNCIONARIOS QUE INDICA VEHICULOS QUE SE&#xD1;ALA, AUTORIZA CIRCULACION EN DIAS Y HORAS INHABILES Y EXIME DE OBLIGACION DE LLEVAR DISTINTIVO ESTATAL Santiago, 24 de agosto de 1995.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 37 exento.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ASIGNA A FUNCIONARIOS QUE INDICA VEHICULOS QUE SE&#xD1;ALA, AUTORIZA CIRCULACION EN DIAS Y HORAS INHABILES Y EXIME DE OBLIGACION DE LLEVAR DISTINTIVO ESTATAL Santiago, 24 de agosto de 1995.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 37 exento.-</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

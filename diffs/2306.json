@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-05-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-11-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5852040,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA ADELANTO DE VIGENCIA DEL REAVALUO DE BIENES RAICES NO AGRICOLAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 167.- Canela, mayo 17 de 1996.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; Y teniendo presente el Art. 2&#xB0; de la Ley N&#xB0; 19.380, publicada en el Diario Oficial del 31 de marzo de 1996.</div><div class=\"p\">&nbsp; &nbsp; El acuerdo del Concejo Municipal adoptado en el Acta N&#xB0; 168 del 14 de mayo de 1996.</div><div class=\"p\">&nbsp; &nbsp; Y en uso de las facultades que me confieren los art&#xED;culos 5&#xB0;, 10, 13, 49 y 56 de la Ley N&#xB0; 18.695, Org&#xE1;nica Constitucional de Municipalidades.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA ADELANTO DE VIGENCIA DEL REAVALUO DE BIENES RAICES NO AGRICOLAS</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 167.- Canela, mayo 17 de 1996.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; Y teniendo presente el Art. 2&#xB0; de la Ley N&#xB0; 19.380, publicada en el Diario Oficial del 31 de marzo de 1996.</div><div class=\"p\">&nbsp; &nbsp; El acuerdo del Concejo Municipal adoptado en el Acta N&#xB0; 168 del 14 de mayo de 1996.</div><div class=\"p\">&nbsp; &nbsp; Y en uso de las facultades que me confieren los art&#xED;culos 5&#xB0;, 10, 13, 49 y 56 de la Ley N&#xB0; 18.695, Org&#xE1;nica Constitucional de Municipalidades.</div><br><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

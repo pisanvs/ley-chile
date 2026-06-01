@@ -1,0 +1,16 @@
+[
+  {
+    "fecha": "1982-09-21",
+    "tipo_version_s": "Última Versión",
+    "diff": null
+  },
+  {
+    "fecha": "1982-09-21",
+    "tipo_version_s": "Texto Original",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

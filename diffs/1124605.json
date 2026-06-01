@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-10-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-03-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9958612,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados por calle Balmaceda, de la comuna de Buin, en los tramos y per&#xED;odos que se indican en el siguiente cuadro:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/84986.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Podr&#xE1;n circular excepcionalmente en los tramos se&#xF1;alados, los veh&#xED;culos de emergencia, los destinados a cumplir funciones en las obras relacionadas con el proyecto mencionado y, aquellos veh&#xED;culos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicados en dicho tramo.</div><div class=\"p\">&nbsp; &nbsp;  3.- Dese cumplimiento a todas las medidas de seguridad y condicionantes establecidas en el Ord. SM/AGD N&#xBA; 8.470, de 3 de octubre de 2018, el que se entiende formar parte integrante del presente instrumento</div><div class=\"p\">&nbsp; &nbsp;  4.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N&#xBA; 1, de 2007, citado en Vistos.</div><div class=\"p\">&nbsp; &nbsp;  5.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de su publicaci&#xF3;n en el Diario Oficial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados por calle Balmaceda, de la comuna de Buin, en los tramos y per&#xED;odos que se indican en el siguiente cuadro:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/84986.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Podr&#xE1;n circular excepcionalmente en los tramos se&#xF1;alados, los veh&#xED;culos de emergencia, los destinados a cumplir funciones en las obras relacionadas con el proyecto mencionado y, aquellos veh&#xED;culos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicados en dicho tramo.</div><div class=\"p\">&nbsp; &nbsp;  3.- Dese cumplimiento a todas las medidas de seguridad y condicionantes establecidas en el Ord. SM/AGD N&#xBA; 8.470, de 3 de octubre de 2018, el que se entiende formar parte integrante del presente instrumento</div><div class=\"p\">&nbsp; &nbsp;  4.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N&#xBA; 1, de 2007, citado en Vistos.</div><div class=\"p\">&nbsp; &nbsp;  5.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de su publicaci&#xF3;n en el Diario Oficial.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1694 Exenta, Transportes, publicada el 18.03.2019, modifica el cuadro inserto en el resuelvo 1 de la presente norma, en el sentido de reemplazar la frase &quot;4 de marzo de 2019&quot; por: &quot;15 de marzo de 2019&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

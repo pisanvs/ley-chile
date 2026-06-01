@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1999-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-05-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7255747,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- El Consejo Econ&#xF3;mico y Social estar&#xE1; integrado por el Alcalde, por derecho propio, y por 24 miembros titulares y 5 miembros suplentes por cada estamento, durar&#xE1;n cuatro a&#xF1;os en sus cargos y se elegir&#xE1;n en conformidad a las normas, proporciones y procedimientos que se establecen en los art&#xED;culos siguientes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- El Consejo Econ&#xF3;mico y Social estar&#xE1;<span class=\"n\" id=\"n_0\">DTO 965,<br>M. DE LA FLORIDA<br>N&#xBA; 1<br>D.O. 13.05.2000</span> integrado por el Alcalde, por derecho propio, por 25 miembros titulares y por 25 miembros suplentes, durar&#xE1;n cuatro a&#xF1;os en sus cargos y se elegir&#xE1;n en conformidad a las normas, proporciones y procedimientos que se establecen en los art&#xED;culos siguientes.</div><br></div>"
+        },
+        {
+          "part_id": 7255751,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Ser&#xE1;n aplicables a los miembros del Consejo Econ&#xF3;mico y Social Comunal las mismas causales de inhabilidad e incompatibilidad establecidas para los miembros del Concejo Municipal en los art&#xED;culos 64&#xBA; y 65&#xBA; letra b) de la ley.</div><div class=\"p\">Asimismo, el cargo de consejero, ser&#xE1; incompatible con los cargos de consejero regional, concejal y consejero provincial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Ser&#xE1;n aplicables a los miembros del Consejo Econ&#xF3;mico y Social Comunal las mismas causales de inhabilidad e incompatibilidad establecidas para los miembros del Concejo Municipal en los art&#xED;culos 64&#xBA; y 65&#xBA; letra b) de la ley. Asimismo, el cargo de consejero, ser&#xE1; incompatible con los cargos de consejero regional, concejal y consejero provincial. No podr&#xE1;n ser consejeros aquellos dirigentes de<span class=\"n\" id=\"n_1\">DTO 965,<br>M. DE LA FLORIDA<br>N&#xBA; 2<br>D.O. 13.05.2000</span> organizaciones comunitarias que no han dado cumplimiento al art&#xED;culo 19 de la ley N&#xBA; 19.418, sobre Juntas de Vecinos y dem&#xE1;s organizaciones comunitarias. </div></div>"
+        }
+      ]
+    }
+  }
+]

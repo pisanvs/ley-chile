@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-01-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-06-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6146539,
+          "old": "<div><div class=\"p\">DESIGNA ABOGADO PARA LAS COMUNAS DE LA XI REGION </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.632.- Santiago, 16 de diciembre de 1998.- Vistos: el art&#xED;culo 2&#xBA;, N&#xBA;2, letra d) del D.F.L. N&#xBA;1, de 1994, del Ministerio de Hacienda, Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;as, modificado por el art&#xED;culo 8&#xBA;, letra b) de la ley N&#xBA;19.506, el art&#xED;culo 5&#xBA; letras g) y m) de este mismo D.F.L., los art&#xED;culos 55&#xBA; letras e) y f), 73&#xBA; y siguientes del Estatuto Administrativo, el T&#xED;tulo V del Libro III del decreto ley N&#xBA; 830, de 1974, sobre C&#xF3;digo Tributario y la resoluci&#xF3;n N&#xBA;520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA ABOGADO PARA LAS COMUNAS DE LA XI REGION </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.632.- Santiago, 16 de diciembre de 1998.- Vistos: el art&#xED;culo 2&#xBA;, N&#xBA;2, letra d) del D.F.L. N&#xBA;1, de 1994, del Ministerio de Hacienda, Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;as, modificado por el art&#xED;culo 8&#xBA;, letra b) de la ley N&#xBA;19.506, el art&#xED;culo 5&#xBA; letras g) y m) de este mismo D.F.L., los art&#xED;culos 55&#xBA; letras e) y f), 73&#xBA; y siguientes del Estatuto Administrativo, el T&#xED;tulo V del Libro III del decreto ley N&#xBA; 830, de 1974, sobre C&#xF3;digo Tributario y la resoluci&#xF3;n N&#xBA;520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

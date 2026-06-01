@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1972-12-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1973-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9059231,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14.- La prohibici&#xF3;n contenida en el art&#xED;culo 316 del C&#xF3;digo Org&#xE1;nico de Tribunales se aplicar&#xE1; a todos los empleados a que se refiere la presente ley.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, respecto de los actuales empleados, la prohibici&#xF3;n contenida en el inciso anterior regir&#xE1; a contar del 1&#xB0; de enero de 1978.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14.- La prohibici&#xF3;n contenida en el art&#xED;culo 316 del C&#xF3;digo Org&#xE1;nico de Tribunales se aplicar&#xE1; a todos los empleados a que se refiere la presente ley.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, respecto de los actuales empleados, la prohibici&#xF3;n contenida en el inciso anterior regir&#xE1; a contar del 1&#xB0; de Enero de 1975.<span class=\"n\" id=\"n_0\">DL 169, JUSTICIA<br>Art. 3&#xBA;<br>D.O. 06.12.1973</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

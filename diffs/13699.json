@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-06-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-01-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8263072,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA CIRCULACION DE VEHICULO QUE INDICA Y EXIME USO DISCO DISTINTIVO</div><div class=\"p\">&nbsp; &nbsp; Santiago, 7 de Junio de 1991.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 483.- Visto: Lo establecido en los art&#xED;culos 2&#xB0; y 3&#xB0; del Decreto Ley N&#xB0; 799, de 1974, modificado por el D.F.L. N&#xB0; 12-2.345, de 1979, y lo solicitado en Ordinario N&#xB0; 216, de 10 de Mayo de 1991, del Gobernador Provincial de Coyhaique, y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente: Que atendidas las funciones de variada &#xED;ndole que deben desempe&#xF1;arse por la Gobernaci&#xF3;n Provincial de Coyhaique, dentro del territorio de su jurisdicci&#xF3;n, hacen necesario que el veh&#xED;culo asignado a esta Entidad pueda mantener en funcionamiento los d&#xED;as s&#xE1;bados en la tarde, domingos y festivos,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO QUE INDICA Y EXIME USO DISCO DISTINTIVO</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 7 de Junio de 1991.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 483.- Visto: Lo establecido en los art&#xED;culos 2&#xB0; y 3&#xB0; del Decreto Ley N&#xB0; 799, de 1974, modificado por el D.F.L. N&#xB0; 12-2.345, de 1979, y lo solicitado en Ordinario N&#xB0; 216, de 10 de Mayo de 1991, del Gobernador Provincial de Coyhaique, y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente: Que atendidas las funciones de variada &#xED;ndole que deben desempe&#xF1;arse por la Gobernaci&#xF3;n Provincial de Coyhaique, dentro del territorio de su jurisdicci&#xF3;n, hacen necesario que el veh&#xED;culo asignado a esta Entidad pueda mantener en funcionamiento los d&#xED;as s&#xE1;bados en la tarde, domingos y festivos,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

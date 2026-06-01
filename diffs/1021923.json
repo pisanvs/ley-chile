@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2011-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-01-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9097818,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese una veda extractiva para los recursos Osti&#xF3;n del sur Chlamys vitrea y Osti&#xF3;n patag&#xF3;nico Chlamys patagonica en el &#xE1;rea mar&#xED;tima de la XII Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena por el per&#xED;odo de 4 a&#xF1;os, contados desde el 13 de enero de 2011 inclusive.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese una veda extractiva<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> para los recursos Osti&#xF3;n del sur Chlamys vitrea y Osti&#xF3;n patag&#xF3;nico Chlamys patagonica en el &#xE1;rea mar&#xED;tima de la XII Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena por el per&#xED;odo de 4 a&#xF1;os, contados desde el 13 de enero de 2011 inclusive.</div><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 98 Exento, Econom&#xED;a, publicado el 28.01.2012, ordena suspender la vigencia de veda extractiva para recursos Osti&#xF3;n del sur y Osti&#xF3;n patag&#xF3;nico, establecida mediante la presente norma, entre el 1 de febrero de 2012 y el 2 de marzo de 2012, ambas fechas inclusive, en las &#xE1;reas indicadas en el citado decreto extractado.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9097818,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese una veda extractiva<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> para los recursos Osti&#xF3;n del sur Chlamys vitrea y Osti&#xF3;n patag&#xF3;nico Chlamys patagonica en el &#xE1;rea mar&#xED;tima de la XII Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena por el per&#xED;odo de 4 a&#xF1;os, contados desde el 13 de enero de 2011 inclusive.</div><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 98 Exento, Econom&#xED;a, publicado el 28.01.2012, ordena suspender la vigencia de veda extractiva para recursos Osti&#xF3;n del sur y Osti&#xF3;n patag&#xF3;nico, establecida mediante la presente norma, entre el 1 de febrero de 2012 y el 2 de marzo de 2012, ambas fechas inclusive, en las &#xE1;reas indicadas en el citado decreto extractado.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese una veda extractiva<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; para los recursos Osti&#xF3;n del sur Chlamys vitrea y Osti&#xF3;n patag&#xF3;nico <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 2</a></div>Chlamys patagonica en el &#xE1;rea mar&#xED;tima de la XII Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena por el per&#xED;odo de 4 a&#xF1;os, contados desde el 13 de enero de 2011 inclusive.</div><div class=\"p\"> </div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 98 Exento, Econom&#xED;a, publicado el 28.01.2012, ordena suspender la vigencia de veda extractiva para recursos Osti&#xF3;n del sur y Osti&#xF3;n patag&#xF3;nico, establecida mediante la presente norma, entre el 1 de febrero de 2012 y el 2 de marzo de 2012, ambas fechas inclusive, en las &#xE1;reas indicadas en el citado decreto extractado.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 151 Exento, Econom&#xED;a, publicado el 04.02.2013, suspende la vigencia de veda extractiva para recursos Osti&#xF3;n del sur y Osti&#xF3;n patag&#xF3;nico, entre los d&#xED;as 5 de febrero y el 15 de marzo de cada a&#xF1;o, ambas fechas inclusive, en el &#xE1;rea mar&#xED;tima de la XII Regi&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

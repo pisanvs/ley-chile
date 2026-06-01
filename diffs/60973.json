@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-02-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7204328,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero: F&#xED;jase como los siguientes los precios de paridad de los combustibles derivados del petr&#xF3;leo que indica.</div><br><div class=\"p\">&nbsp; &nbsp;  Precios de Paridad</div><br><div class=\"p\">&nbsp; &nbsp;  Combustibles&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; US$/M3</div><br><div class=\"p\">&nbsp; &nbsp;  Gasolina Automotriz&nbsp; &nbsp; &nbsp; &nbsp;  220.68</div><div class=\"p\">&nbsp; &nbsp;  Kerosene Dom&#xE9;stico&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 222.27</div><div class=\"p\">&nbsp; &nbsp;  Petr&#xF3;leo Diesel 2D&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 209.36</div><div class=\"p\">&nbsp; &nbsp;  Petr&#xF3;leo Combustible N&#xBA; 6&nbsp;  114.12</div><div class=\"p\">&nbsp; &nbsp;  Petr&#xF3;leo Combustible N&#xBA; 5&nbsp;  141.74</div><div class=\"p\">&nbsp; &nbsp;  IFO 180&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  128.41</div><div class=\"p\">&nbsp; &nbsp;  Gas Licuado&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  168.76</div><br><div class=\"p\">&nbsp; &nbsp;  Este precio entrar&#xE1; en vigencia el d&#xED;a 17 de febrero de 1997.</div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

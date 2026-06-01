@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-10-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6113807,
+          "old": "<div><div class=\"p\">DESIGNA TERCER SUBROGANTE DE JEFE DIVISION FISCALIZACION (Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Concepci&#xF3;n, 17 de Febrero de 1989.- Hoy se ha resuelto lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.500 exenta.- Vistos: Las necesidades de esta Direcci&#xF3;n Regional, lo dispuesto en los Art. 6&#xB0;, letra B) No. 7 del C&#xF3;digo Tributario, 19&#xB0;, letras c) y d) del DL No. 7 de 1980, Ley Org&#xE1;nica del SII, Resoluci&#xF3;n No. 600, de la Contralor&#xED;a General de la Rep&#xFA;blica, seg&#xFA;n texto refundido y actualizado por Resoluci&#xF3;n No. 1.050 y Resoluci&#xF3;n No. 064 de 1986 sobre delegaci&#xF3;n de facultades, y Considerando: 1.- Que por necesidades del Servicio hay que nombrar un Tercer Subrogante del Jefe de la Divisi&#xF3;n de Fiscalizaci&#xF3;n de esta Regional,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA TERCER SUBROGANTE DE JEFE DIVISION FISCALIZACION </div><div class=\"p\">&nbsp; &nbsp;  Concepci&#xF3;n, 17 de Febrero de 1989.- Hoy se ha resuelto lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.500 exenta.- Vistos: Las necesidades de esta Direcci&#xF3;n Regional, lo dispuesto en los Art. 6&#xB0;, letra B) No. 7 del C&#xF3;digo Tributario, 19&#xB0;, letras c) y d) del DL No. 7 de 1980, Ley Org&#xE1;nica del SII, Resoluci&#xF3;n No. 600, de la Contralor&#xED;a General de la Rep&#xFA;blica, seg&#xFA;n texto refundido y actualizado por Resoluci&#xF3;n No. 1.050 y Resoluci&#xF3;n No. 064 de 1986 sobre delegaci&#xF3;n de facultades, y Considerando: 1.- Que por necesidades del Servicio hay que nombrar un Tercer Subrogante del Jefe de la Divisi&#xF3;n de Fiscalizaci&#xF3;n de esta Regional,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

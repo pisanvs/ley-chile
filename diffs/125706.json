@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-10-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9050475,
+          "old": "<div><div class=\"p\">AUTORIZA A DON BRANKO VALVIC VALVIC PARA INICIAR ACTIVIDADES PESQUERAS. DEJA SIN EFECTO RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON BRANKO VALVIC VALVIC PARA INICIAR ACTIVIDADES PESQUERAS. DEJA SIN EFECTO RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

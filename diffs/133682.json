@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "1999-03-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6159799,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Se except&#xFA;a de lo dispuesto en el art&#xED;culo 4&#xBA; del decreto supremo N&#xBA; 40, de 1996, de Educaci&#xF3;n, el programa correspondiente al Subsector Idioma Extranjero-Ingl&#xE9;s, pues la aplicaci&#xF3;n obligatoria de &#xE9;ste, en los cursos de 5&#xBA; y 6&#xBA; a&#xF1;o b&#xE1;sico (NB.3 y NB.4), se iniciar&#xE1; a partir del a&#xF1;o 2.001.</div><div class=\"p\">Los Sostenedores de Establecimientos Educacionales cuando, de acuerdo con el informe del Director , no les sea posible contar con personal docente id&#xF3;neo suficiente para impartir el programa del Subsector Idioma Extranjero-Ingl&#xE9;s, en los cursos de 5&#xBA; y 6&#xBA; a&#xF1;o b&#xE1;sico (NB.3 y NB.4), en sus establecimientos educacionales, podr&#xE1;n optar por una de las siguientes alternativas; mientras la aplicaci&#xF3;n de dicho programa no sea obligatoria:</div><br><br><div class=\"p\">a)&nbsp;  Impartirlo con un n&#xFA;mero menor de clases semanales que la dispuesta en el plan de estudio y redistribuir las horas restantes en otros Subsectores de Aprendizaje; o b)&nbsp;  Redistribuir el total de las horas de clases del Subsector Idioma Extranjero Ingl&#xE9;s en los otros Subsectores del plan de estudio (Matriz Curricular B&#xE1;sica).</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Se except&#xFA;a de lo dispuesto en el art&#xED;culo 4&#xBA; del decreto supremo N&#xBA; 40, de 1996, de Educaci&#xF3;n, el programa correspondiente al Subsector Idioma Extranjero-Ingl&#xE9;s, pues la aplicaci&#xF3;n obligatoria de &#xE9;ste, en los cursos de 5&#xBA; y 6&#xBA; a&#xF1;o b&#xE1;sico (NB.3 y NB.4), se iniciar&#xE1; a partir del a&#xF1;o 2003 en los<span class=\"n\" id=\"n_0\">DTO 633,<br><br>Art. &#xFA;nico<br>D.O. 10.01.2001</span> EDUCACION establecimientos educacionales urbanos y a partir del a&#xF1;o 2005 en los establecimientos educacionales rurales.</div><div class=\"p\">Los Sostenedores de Establecimientos Educacionales cuando, de acuerdo con el informe del Director , no les sea posible contar con personal docente id&#xF3;neo suficiente para impartir el programa del Subsector Idioma Extranjero-Ingl&#xE9;s, en los cursos de 5&#xBA; y 6&#xBA; a&#xF1;o b&#xE1;sico (NB.3 y NB.4), en sus establecimientos educacionales, podr&#xE1;n optar por una de las siguientes alternativas; mientras la aplicaci&#xF3;n de dicho programa no sea obligatoria:</div><br><br><div class=\"p\">a)&nbsp;  Impartirlo con un n&#xFA;mero menor de clases semanales que la dispuesta en el plan de estudio y redistribuir las horas restantes en otros Subsectores de Aprendizaje; o</div><div class=\"p\">b)&nbsp;  Redistribuir el total de las horas de clases del Subsector Idioma Extranjero Ingl&#xE9;s en los otros Subsectores del plan de estudio (Matriz Curricular B&#xE1;sica).</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-04-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6159799,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Se except&#xFA;a de lo dispuesto en el art&#xED;culo 4&#xBA; del decreto supremo N&#xBA; 40, de 1996, de Educaci&#xF3;n, el programa correspondiente al Subsector Idioma Extranjero-Ingl&#xE9;s, pues la aplicaci&#xF3;n obligatoria de &#xE9;ste, en los cursos de 5&#xBA; y 6&#xBA; a&#xF1;o b&#xE1;sico (NB.3 y NB.4), se iniciar&#xE1; a partir del a&#xF1;o 2003 en los<span class=\"n\" id=\"n_0\">DTO 633,<br><br>Art. &#xFA;nico<br>D.O. 10.01.2001</span> EDUCACION establecimientos educacionales urbanos y a partir del a&#xF1;o 2005 en los establecimientos educacionales rurales.</div><div class=\"p\">Los Sostenedores de Establecimientos Educacionales cuando, de acuerdo con el informe del Director , no les sea posible contar con personal docente id&#xF3;neo suficiente para impartir el programa del Subsector Idioma Extranjero-Ingl&#xE9;s, en los cursos de 5&#xBA; y 6&#xBA; a&#xF1;o b&#xE1;sico (NB.3 y NB.4), en sus establecimientos educacionales, podr&#xE1;n optar por una de las siguientes alternativas; mientras la aplicaci&#xF3;n de dicho programa no sea obligatoria:</div><br><br><div class=\"p\">a)&nbsp;  Impartirlo con un n&#xFA;mero menor de clases semanales que la dispuesta en el plan de estudio y redistribuir las horas restantes en otros Subsectores de Aprendizaje; o</div><div class=\"p\">b)&nbsp;  Redistribuir el total de las horas de clases del Subsector Idioma Extranjero Ingl&#xE9;s en los otros Subsectores del plan de estudio (Matriz Curricular B&#xE1;sica).</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Se except&#xFA;a de lo dispuesto en el art&#xED;culo 4&#xBA; del decreto supremo N&#xBA; 40, de 1996, de Educaci&#xF3;n, el programa correspondiente al Subsector Idioma Extranjero-Ingl&#xE9;s, pues la aplicaci&#xF3;n obligatoria de &#xE9;ste, en los cursos de 5&#xBA; y 6&#xBA; a&#xF1;o b&#xE1;sico (NB.3 y NB.4), se iniciar&#xE1; a partir del a&#xF1;o 2003 en los<span class=\"n\" id=\"n_0\">DTO 633,EDUCACION<br>Art. &#xFA;nico<br>D.O. 10.01.2001</span> establecimientos educacionales urbanos y a partir del a&#xF1;o 2005 en los establecimientos educacionales rurales.</div><div class=\"p\">&nbsp; &nbsp;  Los Sostenedores de Establecimientos Educacionales cuando, de acuerdo con el informe del Director , no les sea posible contar con personal docente id&#xF3;neo suficiente para impartir el programa del Subsector Idioma Extranjero-Ingl&#xE9;s, en los cursos de 5&#xBA; y 6&#xBA; a&#xF1;o b&#xE1;sico (NB.3 y NB.4), en sus establecimientos educacionales, podr&#xE1;n optar por una de las siguientes alternativas; mientras la aplicaci&#xF3;n de dicho programa no sea obligatoria:</div><div class=\"p\">a)&nbsp;  Impartirlo con un n&#xFA;mero menor de clases semanales que la dispuesta en el plan de estudio y redistribuir las horas restantes en otros Subsectores de Aprendizaje; o</div><div class=\"p\">b)&nbsp;  Redistribuir el total de las horas de clases del Subsector Idioma Extranjero Ingl&#xE9;s en los otros Subsectores del plan de estudio (Matriz Curricular B&#xE1;sica).</div><div class=\"p\">&nbsp; &nbsp;  Asimismo en los cursos de 7&#xBA; y 8&#xBA; a&#xF1;o, la<span class=\"n\" id=\"n_1\">DTO 64, EDUCACION<br>Art. &#xFA;nico<br>D.O. 02.04.2002</span> aplicaci&#xF3;n obligatoria del Subsector Idioma Extranjero-Ingl&#xE9;s se iniciar&#xE1; en el a&#xF1;o 2004 y 2006 respectivamente.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2005-10-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

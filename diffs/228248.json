@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-07-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-08-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7313363,
+          "old": "<div><div class=\"p\">TRASPASA A LOS MINISTERIOS DE OBRAS PUBLICAS Y DE TRANSPORTES Y TELECOMUNICACIONES, LAS FUNCIONES DE LOS SERVICIOS PUBLICOS QUE SE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  D.F.L N&#xBA; 25.- Santiago, 16 de junio de 2004.- Visto: lo dispuesto en el art&#xED;culo 61 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica y la facultad que me ha conferido el art&#xED;culo decimonoveno transitorio de la ley N&#xBA; 19.882, dicto el siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto con fuerza de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">TRASPASA A LOS MINISTERIOS DE OBRAS PUBLICAS Y DE TRANSPORTES Y TELECOMUNICACIONES, LAS FUNCIONES DE LOS SERVICIOS PUBLICOS QUE SE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  D.F.L N&#xBA; 25.- Santiago, 16 de junio de 2004.- Visto: lo dispuesto en el art&#xED;culo 61 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica y la facultad que me ha conferido el art&#xED;culo decimonoveno transitorio de la ley N&#xBA; 19.882, dicto el siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto con fuerza de ley:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

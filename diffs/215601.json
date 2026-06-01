@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1973-12-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-02-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004611,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Decl&#xE1;rase disuelta la Comisi&#xF3;n Organizada de la 61&#xAA; Conferencia Interparlamentaria que debi&#xF3; celebrarse en Chile entre los d&#xED;as 2 y 13 de Octubre del presente a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  Sin embargo, el Presidente de dicha Comisi&#xF3;n continuar&#xE1; en sus funciones con el objeto de finiquitar las diligencias iniciadas, realizar los pagos insolutos, dar cumplimiento o poner t&#xE9;rmino a los contratos pendientes, procurar la devoluci&#xF3;n de las maquinarias, enseres, elementos y valores a sus due&#xF1;os.</div><div class=\"p\">&nbsp; &nbsp;  Se le autoriza asimismo para efectuar la reexportaci&#xF3;n a Holanda de los equipos para un canal de traducci&#xF3;n simult&#xE1;nea y el abono de su valor l&#xED;quido al donante (grupo Interparlamentario de Kuwait) en el plazo que se requiera para este fin.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Decl&#xE1;rase disuelta la Comisi&#xF3;n Organizada de la 61&#xAA; Conferencia Interparlamentaria que debi&#xF3; celebrarse en Chile entre los d&#xED;as 2 y 13 de Octubre del presente a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  Sin embargo, el Presidente de dicha Comisi&#xF3;n continuar&#xE1; en sus funciones con el objeto de finiquitar las diligencias iniciadas, realizar los pagos insolutos, dar cumplimiento o poner t&#xE9;rmino a los contratos pendientes, procurar la devoluci&#xF3;n de las maquinarias, enseres, elementos y valores a sus due&#xF1;os.</div><div class=\"p\">&nbsp; &nbsp;  Se le autoriza asimismo para efectuar la reexportaci&#xF3;n a Holanda de los equipos para un canal de traducci&#xF3;n simult&#xE1;nea y el abono de su valor l&#xED;quido al donante (grupo Interparlamentario de Kuwait) en el plazo que se requiera para este fin. Las mercanc&#xED;as<span class=\"n\" id=\"n_0\">DL 318, HACIENDA<br>Art. 4&#xB0;<br>D.O. 19.02.1974</span> que a&#xFA;n se encuentren bajo la potestad de la Aduana, al reexportarse estar&#xE1;n exentas de derechos, impuestos, tasa de almacenaje u otros grav&#xE1;menes que las afecten.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

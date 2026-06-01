@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-11-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9031395,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio. El Administrador del Sistema podr&#xE1; autorizar la utilizaci&#xF3;n provisoria de dispositivos no certificados que hayan sido instalados en las embarcaciones de la acuicultura con anterioridad a la publicaci&#xF3;n del presente decreto en el Diario Oficial, siempre que sean compatibles con la Estaci&#xF3;n Fiscalizadora.</div><div class=\"p\">&nbsp; &nbsp;  Los armadores de las naves a que se refiere el inciso anterior deber&#xE1;n informar dicha situaci&#xF3;n al Administrador del Sistema en un plazo de 15 d&#xED;as desde la publicaci&#xF3;n del presente decreto en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, los armadores de las embarcaciones de la acuicultura que se encuentren en la hip&#xF3;tesis del inciso primero, tendr&#xE1;n un plazo de 6 meses desde la publicaci&#xF3;n del presente decreto en el Diario Oficial, para obtener la certificaci&#xF3;n del dispositivo a que se refiere el art&#xED;culo 6&#xBA; letra b).</div><div class=\"p\">&nbsp; &nbsp;  Transcurrido este plazo, ninguna de esas naves podr&#xE1; utilizar dispositivos no certificados por el Administrador del Sistema.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1080189&amp;idParte=9626103&amp;idVersion=2015-08-05\">Decreto 170<br>Art. 2<br>D.O. 05.08.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo transitorio. Eliminado</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1080189,
+      "fecha": "2015-08-05"
+    }
+  }
+]

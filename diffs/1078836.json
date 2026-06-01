@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2016-06-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-07-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9616147,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Las &quot;microempresas&quot; y &quot;peque&#xF1;as empresas&quot; definidas en Ley 20.416 que Fija Normas Especiales para las Empresas de Menor Tama&#xF1;o, dispondr&#xE1;n de un plazo de 36 meses contado desde la fecha de entrada en vigencia del presente decreto, para cumplir con la obligaci&#xF3;n de rotular el descriptor &quot;ALTO EN&quot; establecida en el art&#xED;culo 120 bis.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Las &quot;microempresas&quot; y &quot;peque&#xF1;as empresas&quot; definidas en Ley 20.416 que Fija Normas Especiales para las Empresas de Menor Tama&#xF1;o, dispondr&#xE1;n de un plazo de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1133453&amp;idParte=10035504&amp;idVersion=2019-07-05\">Decreto 20, SALUD<br>Art. 1, 1)<br>D.O. 05.07.2019</a></span>72 y 36 meses respectivamente contado desde la fecha de entrada en vigencia del presente decreto, para cumplir con la obligaci&#xF3;n de rotular el descriptor &quot;ALTO EN&quot; establecida en el art&#xED;culo 120 bis.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-07-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9616147,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Las &quot;microempresas&quot; y &quot;peque&#xF1;as empresas&quot; definidas en Ley 20.416 que Fija Normas Especiales para las Empresas de Menor Tama&#xF1;o, dispondr&#xE1;n de un plazo de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1133453&amp;idParte=10035504&amp;idVersion=2019-07-05\">Decreto 20, SALUD<br>Art. 1, 1)<br>D.O. 05.07.2019</a></span>72 y 36 meses respectivamente contado desde la fecha de entrada en vigencia del presente decreto, para cumplir con la obligaci&#xF3;n de rotular el descriptor &quot;ALTO EN&quot; establecida en el art&#xED;culo 120 bis.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Las &quot;microempresas&quot; y &quot;peque&#xF1;as empresas&quot; definidas en Ley 20.416 que Fija Normas Especiales para las Empresas de Menor Tama&#xF1;o, dispondr&#xE1;n de un plazo de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1178515&amp;idParte=10348328&amp;idVersion=2022-07-14\">Decreto 63,<br>SALUD<br>Art. 1&#xB0; N&#xB0; 1)<br>D.O. 14.07.2022</a></span>120 y 36 meses respectivamente contado desde la fecha de entrada en vigencia del presente decreto, para cumplir con la obligaci&#xF3;n de rotular el descriptor &quot;ALTO EN&quot; establecida en el art&#xED;culo 120 bis.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1178515,
+      "fecha": "2022-07-14"
+    }
+  }
+]

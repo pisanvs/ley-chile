@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2017-12-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-02-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9865370,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;quese la <a href=\"https://www.leychile.cl/Navegar?idNorma=1106842&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xB0; 9.865 (V. y U.), de 2017</a>, y sus modificaciones, en el sentido de reemplazar en su resuelvo 15. el guarismo &quot;45.000&quot; por &quot;44.824&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2. Apru&#xE9;bese la n&#xF3;mina de los proyectos postulantes para la adquisici&#xF3;n de viviendas, seleccionados y aprobados por el acta indicada en el visto e), n&#xF3;mina que se entender&#xE1; formar parte integrante de esta resoluci&#xF3;n y f&#xED;jese el n&#xFA;mero de seleccionados por regi&#xF3;n seg&#xFA;n la siguiente tabla:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74105.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  3. F&#xED;jase el monto de recursos comprometidos que se destinar&#xE1;n al financiamiento del subsidio directo para la atenci&#xF3;n de los postulantes seleccionados, seg&#xFA;n se indica en la siguiente tabla:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74106.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  4. Los recursos para el financiamiento del subsidio directo, destinados a la atenci&#xF3;n de los seleccionados a que se refiere el n&#xFA;mero 2. de esta resoluci&#xF3;n, se imputar&#xE1;n a los recursos autorizados en el a&#xF1;o 2017 para el DS N&#xB0; 1 (V. y U.), de 2011.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;quese la resoluci&#xF3;n exenta N&#xB0; 9.865 (V. y U.), de 2017, y sus modificaciones, en el sentido de reemplazar en su resuelvo 15. el guarismo &quot;45.000&quot; por &quot;44.824&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2. Apru&#xE9;bese la n&#xF3;mina de los proyectos postulantes para la adquisici&#xF3;n de viviendas, seleccionados y aprobados por el acta indicada en el visto e), n&#xF3;mina que se entender&#xE1; formar parte integrante de esta resoluci&#xF3;n y f&#xED;jese el n&#xFA;mero de seleccionados por regi&#xF3;n seg&#xFA;n la siguiente tabla:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74105.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  3. F&#xED;jase el monto de recursos comprometidos que se destinar&#xE1;n al financiamiento del subsidio directo para la atenci&#xF3;n de los postulantes seleccionados, seg&#xFA;n se indica en la siguiente tabla:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1114783&amp;idParte=9883424&amp;idVersion=2018-02-08\">Resoluci&#xF3;n 610 EXENTA,<br>VIVIENDA<br>N&#xB0; 2, 2.1<br>D.O. 08.02.2018</a></span></div><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/75983.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/75984.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  4. Los recursos para el financiamiento del subsidio directo, destinados a la atenci&#xF3;n de los seleccionados a que se refiere el n&#xFA;mero 2. de esta resoluci&#xF3;n, se imputar&#xE1;n a los recursos autorizados en el a&#xF1;o 2017 para el DS N&#xB0; 1 (V. y U.), de 2011.</div><br><br></div>"
+        },
+        {
+          "part_id": 9865372,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  N&#xD3;MINA DE PROYECTOS SELECCIONADOS LLAMADO A CONCURSO EN CONDICIONES ESPECIALES, EFECTUADO POR LA RESOLUCI&#xD3;N N&#xB0; 9.865 EXENTA, DE 2017, PARA EL PROGRAMA DE SUBSIDIO DS N&#xB0; 1, DE 2011</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74107.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  N&#xD3;MINA DE PROYECTOS SELECCIONADOS LLAMADO A CONCURSO EN CONDICIONES ESPECIALES, EFECTUADO POR LA RESOLUCI&#xD3;N N&#xB0; 9.865 EXENTA, DE 2017, PARA EL PROGRAMA DE SUBSIDIO DS N&#xB0; 1, DE 2011</div><div class=\"p\">&nbsp;  <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1114783&amp;idParte=9883424&amp;idVersion=2018-02-08\">Resoluci&#xF3;n 610 EXENTA,<br>VIVIENDA<br>N&#xB0; 2, 2.2<br>D.O. 08.02.2018</a></span>&nbsp; </div><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/75985.jpg\">.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1114783,
+      "fecha": "2018-02-08"
+    }
+  }
+]

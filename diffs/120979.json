@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1998-07-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-12-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8642222,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12: El Comit&#xE9; Permanente de Asuntos Generales deber&#xE1; estar integrado, a lo menos, por:</div><br><br><div class=\"p\">a)&nbsp;  El Director de la Direcci&#xF3;n de Pol&#xED;tica Especial del Ministerio de Relaciones Exteriores.</div><div class=\"p\">b)&nbsp;  Un representante del Intendente de la Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena.</div><div class=\"p\">c)&nbsp;  Un representante de la Direcci&#xF3;n Nacional de Fronteras y L&#xED;mites del Estado.</div><div class=\"p\">d)&nbsp;  Un representante del Instituto Ant&#xE1;rtico Chileno.</div><div class=\"p\">e)&nbsp;  Un representante del Jefe del Estado Mayor de la Defensa Nacional.</div><div class=\"p\">f)&nbsp;  Un representante del Ej&#xE9;rcito.</div><div class=\"p\">g)&nbsp;  Un representante de la Armada.</div><div class=\"p\">h)&nbsp;  Un representante de la Fuerza A&#xE9;rea.</div><div class=\"p\">i)&nbsp;  Un representante de la Comisi&#xF3;n Nacional del Medio Ambiente.</div><br><div class=\"p\">&nbsp; &nbsp;  El Consejo designar&#xE1; de entre los integrantes de este Comit&#xE9;, aquellos que asumir&#xE1;n las funciones de Presidente y Secretario Ejecutivo, respectivamente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12: El Comit&#xE9; Permanente de Asuntos Generales deber&#xE1; estar integrado, a lo menos, por:</div><br><br><div class=\"p\">a)&nbsp;  El Director General de Pol&#xED;tica Exterior del<span class=\"n\" id=\"n_0\">DTO 309,<br>R. EXTERIORES<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 06.12.2006</span></div><div class=\"p\">&nbsp; &nbsp;  Ministerio de Relaciones Exteriores o un</div><div class=\"p\">&nbsp; &nbsp;  representante designado por &#xE9;ste.</div><div class=\"p\">b)&nbsp;  Un representante del Intendente de la Regi&#xF3;n de</div><div class=\"p\">&nbsp; &nbsp;  Magallanes y Ant&#xE1;rtica Chilena.</div><div class=\"p\">c)&nbsp;  Un representante de la Direcci&#xF3;n Nacional de Fronteras</div><div class=\"p\">&nbsp; &nbsp;  y L&#xED;mites del Estado.</div><div class=\"p\">d)&nbsp;  Un representante del Instituto Ant&#xE1;rtico Chileno.</div><div class=\"p\">e)&nbsp;  Un representante del Jefe del Estado Mayor de la</div><div class=\"p\">&nbsp; &nbsp;  Defensa Nacional.</div><div class=\"p\">f)&nbsp;  Un representante del Ej&#xE9;rcito.</div><div class=\"p\">g)&nbsp;  Un representante de la Armada.</div><div class=\"p\">h)&nbsp;  Un representante de la Fuerza A&#xE9;rea.</div><div class=\"p\">i)&nbsp;  Un representante de la Comisi&#xF3;n Nacional del Medio</div><div class=\"p\">&nbsp; &nbsp;  Ambiente.</div><div class=\"p\">j)&nbsp;  Un representante del Gobernador de la Provincia<span class=\"n\" id=\"n_1\">DTO 309,<br>R. EXTERIORES<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 06.12.2006</span></div><div class=\"p\">&nbsp; &nbsp;  Ant&#xE1;rtica Chilena.</div><div class=\"p\">&nbsp; &nbsp;  El Consejo designar&#xE1; de entre los integrantes de</div><div class=\"p\">este Comit&#xE9;, aquellos que asumir&#xE1;n las funciones de</div><div class=\"p\">Presidente y Secretario Ejecutivo, respectivamente.</div><br></div>"
+        },
+        {
+          "part_id": 8642224,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14: El Comit&#xE9; Permanente de Asuntos Financieros deber&#xE1; estar integrado, a lo menos, por:</div><br><br><div class=\"p\">a)&nbsp;  El Director del Instituto Ant&#xE1;rtico Chileno.</div><div class=\"p\">b)&nbsp;  Un representante de la Direcci&#xF3;n de Pol&#xED;tica Especial del Ministerio de Relaciones Exteriores.</div><div class=\"p\">c)&nbsp;  Un representante del Jefe del Estado Mayor de la Defensa Nacional.</div><div class=\"p\">d)&nbsp;  Un representante del Ej&#xE9;rcito.</div><div class=\"p\">e)&nbsp;  Un representante de la Armada.</div><div class=\"p\">f)&nbsp;  Un representante de la Fuerza A&#xE9;rea.</div><div class=\"p\">g)&nbsp;  Un representante del Ministerio de Hacienda.</div><div class=\"p\">h)&nbsp;  Un representante del Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  El Consejo designar&#xE1; de entre los integrantes de este Comit&#xE9;, aquellos que asumir&#xE1;n las funciones de Presidente y Secretario Ejecutivo, respectivamente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14: El Comit&#xE9; Permanente de Asuntos Financieros deber&#xE1; estar integrado, a lo menos, por:</div><br><br><div class=\"p\">a)&nbsp;  El Director General de Pol&#xED;tica Exterior del<span class=\"n\" id=\"n_2\">DTO 309,<br>R. EXTERIORES<br>Art. &#xFA;nico N&#xBA; 2<br>D.O. 06.12.2006</span></div><div class=\"p\">&nbsp; &nbsp;  Ministerio de Relaciones Exteriores o un</div><div class=\"p\">&nbsp; &nbsp;  representante designado por &#xE9;ste.</div><div class=\"p\">b)&nbsp;  Un representante del Instituto Ant&#xE1;rtico</div><div class=\"p\">&nbsp; &nbsp;  Chileno.</div><div class=\"p\">c)&nbsp;  Un representante del Jefe del Estado Mayor de</div><div class=\"p\">&nbsp; &nbsp;  la Defensa Nacional.</div><div class=\"p\">d)&nbsp;  Un representante del Ej&#xE9;rcito.</div><div class=\"p\">e)&nbsp;  Un representante de la Armada.</div><div class=\"p\">f)&nbsp;  Un representante de la Fuerza A&#xE9;rea.</div><div class=\"p\">g)&nbsp;  Un representante del Ministerio de Hacienda.</div><div class=\"p\">h)&nbsp;  Un representante del Ministerio de Planificaci&#xF3;n y</div><div class=\"p\">&nbsp; &nbsp;  Cooperaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  El Consejo designar&#xE1; de entre los integrantes de este Comit&#xE9;, aquellos que asumir&#xE1;n las funciones de Presidente y Secretario Ejecutivo, respectivamente.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2020-11-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

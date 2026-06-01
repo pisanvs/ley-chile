@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-12-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201198,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA TRAZADO PARA LA CIRCULACION DE SERVICIOS RURALES AL INTERIOR DE LA ZONA URBANA DE LA COMUNA DE CONCEPCION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 179 exenta.- Concepci&#xF3;n, 30 de Diciembre de 1993.- Visto: Lo dispuesto en el art&#xED;culo N&#xB0; 53&#xB0; del D.S. N&#xB0; 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; el Ord. N&#xB0; 2.350 de fecha 05.11.93 del Sr. Alcalde de la I. Municipalidad de Concepci&#xF3;n y los oficios N&#xB0; 1.728 de fecha 08.08.93 y N&#xB0; 2.045 de fecha 26.10.93, ambos de la IV Zona de Carabineros de Chile, Prefectura de Concepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA TRAZADO PARA LA CIRCULACION DE SERVICIOS RURALES AL INTERIOR DE LA ZONA URBANA DE LA COMUNA DE CONCEPCION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 179 exenta.- Concepci&#xF3;n, 30 de Diciembre de 1993.- Visto: Lo dispuesto en el art&#xED;culo N&#xB0; 53&#xB0; del D.S. N&#xB0; 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; el Ord. N&#xB0; 2.350 de fecha 05.11.93 del Sr. Alcalde de la I. Municipalidad de Concepci&#xF3;n y los oficios N&#xB0; 1.728 de fecha 08.08.93 y N&#xB0; 2.045 de fecha 26.10.93, ambos de la IV Zona de Carabineros de Chile, Prefectura de Concepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

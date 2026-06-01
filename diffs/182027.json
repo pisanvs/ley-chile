@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "2001-02-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-02-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6323296,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- La Comisi&#xF3;n Verdad y Nuevo Trato estar&#xE1; integrada por las siguientes personas:</div><br><div class=\"p\">1.&nbsp;  Patricio Aylwin Az&#xF3;car, quien la presidir&#xE1; 2.&nbsp;  Antonio Alcafuz Canquil</div><div class=\"p\">3.&nbsp;  Jos&#xE9; Bengoa Cabello</div><div class=\"p\">4.&nbsp;  Sandra Berna Mart&#xED;nez</div><div class=\"p\">5.&nbsp;  Juan Claro Gonz&#xE1;lez</div><div class=\"p\">6.&nbsp;  Obispo Sergio Contreras Navia</div><div class=\"p\">7.&nbsp;  Enrique Correa R&#xED;os</div><div class=\"p\">8.&nbsp;  Armando De Ram&#xF3;n Folch</div><div class=\"p\">9.&nbsp;  Alberto Hotus Ch&#xE1;vez</div><div class=\"p\">10.&nbsp; Francisco Huenchumilla Jaramillo</div><div class=\"p\">11.&nbsp; Auc&#xE1;n Huilcam&#xE1;n Paill&#xE1;n</div><div class=\"p\">12.&nbsp; Carlos Inquiltupa Tito</div><div class=\"p\">13.&nbsp; Felipe Larra&#xED;n Bascu&#xF1;&#xE1;n</div><div class=\"p\">14.&nbsp; Jos&#xE9; Llancap&#xE1;n Calfucura</div><div class=\"p\">15.&nbsp; Adolfo Millabur &#xD1;ancuil</div><div class=\"p\">16.&nbsp; Jos&#xE9; Santos Millao Palacios</div><div class=\"p\">17.&nbsp; Sonia Montesinos Aguirre</div><div class=\"p\">18.&nbsp; Samuel Palma Manr&#xED;quez</div><div class=\"p\">19.&nbsp; Carlos Pe&#xF1;a Gonz&#xE1;lez</div><div class=\"p\">20.&nbsp; Ivonne Quispe Osorio</div><div class=\"p\">21.&nbsp; Galvarino Raiman Huilcam&#xE1;n</div><div class=\"p\">22.&nbsp; Ricardo Rivadeneira Monreal</div><br><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, la Comisi&#xF3;n podr&#xE1; invitar a funcionarios de la Administraci&#xF3;n del Estado, as&#xED; como a representantes de organizaciones del sector privado o a personas destacadas, si lo estimare necesario para su buen funcionamiento.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- La Comisi&#xF3;n Verdad y Nuevo Trato estar&#xE1; integrada por las siguientes personas:</div><br><div class=\"p\">1.&nbsp;  Patricio Aylwin Az&#xF3;car, quien la presidir&#xE1;</div><div class=\"p\">2.&nbsp;  Antonio Alcafuz Canquil</div><div class=\"p\">3.&nbsp;  Jos&#xE9; Bengoa Cabello</div><div class=\"p\">4.&nbsp;  Sandra Berna Mart&#xED;nez</div><div class=\"p\">5.&nbsp;  Juan Claro Gonz&#xE1;lez</div><div class=\"p\">6.&nbsp;  Obispo Sergio Contreras Navia</div><div class=\"p\">7.&nbsp;  Enrique Correa R&#xED;os</div><div class=\"p\">8.&nbsp;  Armando De Ram&#xF3;n Folch</div><div class=\"p\">9.&nbsp;  Alberto Hotus Ch&#xE1;vez</div><div class=\"p\">10.&nbsp; Francisco Huenchumilla Jaramillo</div><div class=\"p\">11.&nbsp; Auc&#xE1;n Huilcam&#xE1;n Paill&#xE1;n</div><div class=\"p\">12.&nbsp; Carlos Inquiltupa Tito</div><div class=\"p\">13.&nbsp; Felipe Larra&#xED;n Bascu&#xF1;&#xE1;n</div><div class=\"p\">14.&nbsp; Jos&#xE9; Llancap&#xE1;n Calfucura</div><div class=\"p\">15.&nbsp; Adolfo Millabur &#xD1;ancuil</div><div class=\"p\">16.&nbsp; Jos&#xE9; Santos Millao Palacios</div><div class=\"p\">17.&nbsp; Sonia Montesinos Aguirre</div><div class=\"p\">18.&nbsp; Samuel Palma Manr&#xED;quez</div><div class=\"p\">19.&nbsp; Carlos Pe&#xF1;a Gonz&#xE1;lez</div><div class=\"p\">20.&nbsp; Ivonne Quispe Osorio</div><div class=\"p\">21.&nbsp; Galvarino Raiman Huilcam&#xE1;n</div><div class=\"p\">22.&nbsp; Ricardo Rivadeneira Monreal</div><div class=\"p\">23.&nbsp; V&#xED;ctor Salvador Canuillan Coli&#xF1;ir<span class=\"n\" id=\"n_0\">DTO 247,<br>PLANIFICACION<br>B)<br>D.O. 26.02.2003</span></div><div class=\"p\">24.&nbsp; Jos&#xE9; Quidel Lincoleo</div><div class=\"p\">25.&nbsp; Rosamel Enrique Millaman Reinao</div><br><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, la Comisi&#xF3;n podr&#xE1; invitar a funcionarios de la Administraci&#xF3;n del Estado, as&#xED; como a representantes de organizaciones del sector privado o a personas destacadas, si lo estimare necesario para su buen funcionamiento.</div><br></div>"
+        },
+        {
+          "part_id": 6323301,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- La Comisi&#xF3;n informar&#xE1; peri&#xF3;dicamente al Presidente de la Rep&#xFA;blica, a trav&#xE9;s del Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n, sobre el estado de avance de sus funciones, debiendo evacuar el informe final en el plazo m&#xE1;ximo de dos a&#xF1;os.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- La Comisi&#xF3;n informar&#xE1; peri&#xF3;dicamente al Presidente de la Rep&#xFA;blica, a trav&#xE9;s del Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n, sobre el estado de avance de sus funciones, teniendo como plazo para<span class=\"n\" id=\"n_1\">DTO 247,<br>PLANIFICACION<br>A)<br>D.O. 26.02.2003</span> evacuar el informe final hasta el 30 de junio del a&#xF1;o 2003. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-09-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6323301,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- La Comisi&#xF3;n informar&#xE1; peri&#xF3;dicamente al Presidente de la Rep&#xFA;blica, a trav&#xE9;s del Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n, sobre el estado de avance de sus funciones, teniendo como plazo para<span class=\"n\" id=\"n_1\">DTO 247,<br>PLANIFICACION<br>A)<br>D.O. 26.02.2003</span> evacuar el informe final hasta el 30 de junio del a&#xF1;o 2003. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- La Comisi&#xF3;n informar&#xE1; peri&#xF3;dicamente al Presidente de la Rep&#xFA;blica, a trav&#xE9;s del Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n, sobre el estado de avance de sus funciones, teniendo como plazo para evacuar el informe final hasta el 31 de octubre del<span class=\"n\" id=\"n_1\">DTO 84,<br>PLANIFICACION<br>D.O. 03.09.2003</span> a&#xF1;o 2003.</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:</a></div></div><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 84, Planificaci&#xF3;n, publicado el 03.0.2003, modific&#xF3; el DTO 247, Planificaci&#xF3;n, publicado el 26.02.2003, modificatorio de &#xE9;ste art&#xED;culo, la que ha incorporada al presente texto actualizado.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

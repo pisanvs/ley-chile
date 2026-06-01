@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-12-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-07-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10078516,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Apru&#xE9;bese el texto refundido y sistematizado de la Norma T&#xE9;cnica de Calidad de Servicio para Sistemas de Distribuci&#xF3;n, de conformidad al proceso normativo iniciado mediante resoluci&#xF3;n exenta CNE N&#xBA; 233, de 29 de marzo de 2019, cuyo texto forma parte integrante de la misma.</div><div class=\"p\">&nbsp; &nbsp;  El texto refundido y sistematizado de la Norma T&#xE9;cnica de Calidad de Servicio para Sistemas de Distribuci&#xF3;n, deber&#xE1; estar disponible a m&#xE1;s tardar el d&#xED;a h&#xE1;bil siguiente a la publicaci&#xF3;n de la presente resoluci&#xF3;n exenta en el Diario Oficial, en forma permanente y gratuita para todos los interesados en formato Acrobat (*.pdf), en el sitio web de la Comisi&#xF3;n Nacional de Energ&#xED;a www.cne.cl.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Apru&#xE9;bese<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> el texto refundido y sistematizado de la Norma T&#xE9;cnica de Calidad de Servicio para Sistemas de Distribuci&#xF3;n, de conformidad al proceso normativo iniciado mediante resoluci&#xF3;n exenta CNE N&#xBA; 233, de 29 de marzo de 2019, cuyo texto forma parte integrante de la misma.</div><div class=\"p\">&nbsp; &nbsp;  El texto refundido y sistematizado de la Norma T&#xE9;cnica de Calidad de Servicio para Sistemas de Distribuci&#xF3;n, deber&#xE1; estar disponible a m&#xE1;s tardar el d&#xED;a h&#xE1;bil siguiente a la publicaci&#xF3;n de la presente resoluci&#xF3;n exenta en el Diario Oficial, en forma permanente y gratuita para todos los interesados en formato Acrobat (*.pdf), en el sitio web de la Comisi&#xF3;n Nacional de Energ&#xED;a www.cne.cl.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 527 Exenta, Energ&#xED;a, publicada el 18.07.2022, dispone modificar el art&#xED;culo 7-7 transitorio de la presente norma, que fija el texto refundido y sistematizado de la Norma T&#xE9;cnica de Calidad de Servicio para Sistemas de Distribuci&#xF3;n. Sin embargo, la citada Norma T&#xE9;cnica ha sido publicada en el sitio web de la Comisi&#xF3;n Nacional de Energ&#xED;a, no siendo posible crear el texto actualizado.</div></div>"
+        }
+      ]
+    }
+  }
+]

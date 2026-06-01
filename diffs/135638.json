@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-04-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6166067,
+          "old": "<div><div class=\"p\">DECLARA NORMAS OFICIALES DE LA REPUBLICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 414.- Santiago, 9 de marzo de 1999.- Vistos: Estos antecedentes, oficio del Instituto Nacional de Normalizaci&#xF3;n Ref.: 14994-300 de 3 de febrero de 1999, oficio de la Direcci&#xF3;n General de Obras P&#xFA;blicas N&#xBA;440 de 4 de marzo de 1999, y lo dispuesto en el decreto supremo del Ministerio del Interior N&#xBA; 654 de 1994, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA NORMAS OFICIALES DE LA REPUBLICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 414.- Santiago, 9 de marzo de 1999.- Vistos: Estos antecedentes, oficio del Instituto Nacional de Normalizaci&#xF3;n Ref.: 14994-300 de 3 de febrero de 1999, oficio de la Direcci&#xF3;n General de Obras P&#xFA;blicas N&#xBA;440 de 4 de marzo de 1999, y lo dispuesto en el decreto supremo del Ministerio del Interior N&#xBA; 654 de 1994, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-03-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-12-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8647750,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- La modificaci&#xF3;n introducida al art&#xED;culo 142 del C&#xF3;digo de Miner&#xED;a por el n&#xFA;mero 1 del art&#xED;culo &#xFA;nico de la presente ley, se aplicar&#xE1; hasta el pago correspondiente al per&#xED;odo anual que comienza el primero de marzo del a&#xF1;o 2008, incluido &#xE9;ste.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- DEROGADO<span class=\"n\" id=\"n_0\">LEY 20228<br>Art. &#xFA;nico<br>D.O. 13.12.2007</span> </div><div class=\"p\">&nbsp; &nbsp; </div></div>"
+        }
+      ]
+    }
+  }
+]

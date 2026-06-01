@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1991-10-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8957634,
+          "old": "<div><div class=\"p\">DESIGNASE COMO RECEPTORES JUDICIALES A LOS FUNCIONARIOS QUE INDICA</div><br><div class=\"p\">N&#xFA;m. 247.- Santiago, 30 de Septiembre de 1991.- Vistos: Lo dispuesto en el art&#xED;culo 11 del decreto ley No. 2.974 de 1979.</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><br><div class=\"p\">DESIGNASE COMO RECEPTORES JUDICIALES A LOS FUNCIONARIOS QUE</div><div class=\"p\">INDICA</div><br><div class=\"p\">N&#xFA;m. 247.- Santiago, 30 de Septiembre de 1991.- Vistos: Lo dispuesto en el art&#xED;culo 11 del decreto ley No. 2.974 de 1979.</div><br><div class=\"p\">Resuelvo:</div><br></div>"
+        },
+        {
+          "part_id": 8957635,
+          "old": "<div><div class=\"p\">Des&#xED;gnase como Receptores Judiciales para que permanentemente practiquen las actuaciones inherentes a ese cargo en los juicios que se tramitan ante los Juzgados de Polic&#xED;a Local, en conformidad a las disposiciones del decreto ley citado en la D&#xE9;cima Regi&#xF3;n, a los siguientes funcionarios:</div><div class=\"p\">- Claudio Albornoz N&#xFA;&#xF1;ez</div><div class=\"p\">- V&#xED;ctor Benavente Fuentealba</div><div class=\"p\">- Carlos Novoa Mu&#xF1;oz</div><div class=\"p\">- Carlos Turra Guti&#xE9;rrez</div><div class=\"p\">- Angel Valles Espinoza</div><div class=\"p\">- H&#xE9;ctor Aedo Gonz&#xE1;lez</div><br></div>",
+          "new": "<div><div class=\"p\">Des&#xED;gnase como Receptores Judiciales para que permanentemente practiquen las actuaciones inherentes a ese cargo en los juicios que se tramitan ante los Juzgados de Polic&#xED;a Local, en conformidad a las disposiciones del decreto ley citado en la D&#xE9;cima Regi&#xF3;n, a los siguientes funcionarios:</div><div class=\"p\">- Claudio Albornoz N&#xFA;&#xF1;ez</div><div class=\"p\">- V&#xED;ctor Benavente Fuentealba</div><div class=\"p\">- Carlos Novoa Mu&#xF1;oz</div><div class=\"p\">- Carlos Turra Guti&#xE9;rrez</div><div class=\"p\">- ELIMINADO<span class=\"n\" id=\"n_0\">RES 250<br>AGRICULTURA<br>D.O. 23.09.1999</span></div><div class=\"p\">- H&#xE9;ctor Aedo Gonz&#xE1;lez</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2016-01-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-03-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9667662,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Para la determinaci&#xF3;n de alumnos preferentes el Ministerio de Educaci&#xF3;n considerar&#xE1; la caracterizaci&#xF3;n socioecon&#xF3;mica que realice el Ministerio de Desarrollo Social, de las familias pertenecientes al 80% m&#xE1;s vulnerable del total nacional.</div><br><div class=\"p\">&nbsp; &nbsp;  El Ministerio de Educaci&#xF3;n utilizar&#xE1;, para la determinaci&#xF3;n de los alumnos preferentes del a&#xF1;o escolar siguiente, la informaci&#xF3;n entregada por el Ministerio de Desarrollo Social en octubre de cada a&#xF1;o.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Para la determinaci&#xF3;n de alumnos preferentes el Ministerio de Educaci&#xF3;n considerar&#xE1; la caracterizaci&#xF3;n socioecon&#xF3;mica que realice el Ministerio de Desarrollo Social, de las familias pertenecientes al 80% m&#xE1;s vulnerable del total nacional.</div><br><br><br><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1140665&amp;idParte=10090693&amp;idVersion=2020-01-03\">Decreto 135, EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0; 1<br>D.O. 03.01.2020</a></span></div><br></div>"
+        },
+        {
+          "part_id": 9667663,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: La calidad de alumno preferente para el a&#xF1;o escolar siguiente, ser&#xE1; determinada a m&#xE1;s tardar en el mes de julio de cada a&#xF1;o por el Ministerio de Educaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  La determinaci&#xF3;n de la calidad de alumno preferente, as&#xED; como la p&#xE9;rdida de la misma, ser&#xE1; informada a m&#xE1;s tardar en el mes de agosto por el medio que el Ministerio de Educaci&#xF3;n determine, siempre que se cumpla con el objetivo de informar directamente a los alumnos, sus madres, padres y/o apoderados.</div><br><div class=\"p\">&nbsp; &nbsp;  Asimismo, el Ministerio de Educaci&#xF3;n informar&#xE1; al sostenedor los alumnos preferentes con que cuenta su establecimiento educacional, resguardando la debida privacidad de los datos personales de dichos alumnos.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: La <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1140665&amp;idParte=10090693&amp;idVersion=2020-01-03\">Decreto 135, EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 03.01.2020</a></span>calidad de alumno preferente ser&#xE1; determinada a m&#xE1;s tardar el 31 de julio de cada a&#xF1;o por el Ministerio de Educaci&#xF3;n, con la informaci&#xF3;n proporcionada por el Ministerio de Desarrollo Social, comunic&#xE1;ndose dicha calidad o su p&#xE9;rdida en los t&#xE9;rminos del art&#xED;culo 5&#xBA;, incisos primero y segundo, del decreto N&#xBA; 235, de 2008, del Ministerio de Educaci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-08-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-02-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9239339,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio &#xFA;nico: Sin perjuicio de lo se&#xF1;alado<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1037572&amp;idParte=9239322&amp;idVersion=2012-02-29\">Decreto 10, AGRICULTURA<br>N&#xB0; 1<br>D.O. 29.02.2012</a></span> en el n&#xFA;mero 4 del decreto N&#xBA;41 de 28 de julio de 2011, del Ministerio da Agricultura, los concursos p&#xFA;blicos y asignaciones directas, correspondientes a los a&#xF1;os 2009 a 2011, ser&#xE1;n bonificados conforme a las tablas de valores fijadas por los decretos N&#xBA; 88 de 23 de octubre de 2008 y N&#xBA; 41 de 8 de mayo de 2009, ambos del Ministerio de Agricultura, respectivamente.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1037572,
+      "fecha": "2012-02-29"
+    }
+  }
+]

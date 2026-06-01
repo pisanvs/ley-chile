@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-06-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9286571,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11 Bis.- El instrumento t&#xE9;cnico de focalizaci&#xF3;n<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1042525&amp;idParte=9286568&amp;idVersion=2012-08-02\">Decreto 101, TRABAJO<br>D.O. 02.08.2012</a></span> que utilizar&#xE1; el SENCE para determinar si el trabajador integra un grupo familiar perteneciente al 40% m&#xE1;s pobre de la poblaci&#xF3;n ser&#xE1; la Ficha de Protecci&#xF3;n Social, que establece el decreto supremo N&#xB0; 291, de 2006, del Ministerio de Planificaci&#xF3;n, o el instrumento que la reemplace.</div><div class=\"p\">&nbsp; &nbsp;  Para determinar que el trabajador cumple con dicho requisito, el SENCE deber&#xE1; verificar que el trabajador, a la fecha de presentaci&#xF3;n de la solicitud, tenga un puntaje igual o inferior a 11.734 puntos en la referida Ficha o el puntaje que lo reemplace, el que deber&#xE1; ser establecido mediante decreto del Ministerio de Planificaci&#xF3;n, suscrito tambi&#xE9;n por el Ministerio de Hacienda.</div><div class=\"p\">&nbsp; &nbsp;  En la aplicaci&#xF3;n de la Ficha de Protecci&#xF3;n Social, o el instrumento que la reemplace, no se considerar&#xE1; el subsidio al empleo que se encuentre percibiendo el trabajador.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1042525,
+      "fecha": "2012-08-02"
+    }
+  }
+]

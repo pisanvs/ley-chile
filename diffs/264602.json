@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1980-08-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1980-10-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8844723,
+          "old": null,
+          "new": "<div><div class=\"p\">FIJA TEXTO REFUNDIDO Y ACTUALIZADO DE LA RESOLUCION N&#xBA; 600, DE 1977, SOBRE EXENCION DE TOMA DE RAZON </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 31 de Julio de 1980.- Con esta fecha se ha resuelto lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.050.- Teniendo presente:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que la resoluci&#xF3;n N&#xBA; 600, de 1977, sobre Exenci&#xF3;n de Toma de Raz&#xF3;n, ha experimentado numerosas modificaciones, que regir&#xE1;n a contar del 1&#xBA; de Octubre de este a&#xF1;o;</div><div class=\"p\">&nbsp; &nbsp;  2.- Que lo anterior hace necesario actualizar el texto de la referida resoluci&#xF3;n, y</div><div class=\"p\">&nbsp; &nbsp;  3.- Que al fijar el texto refundido resulta conveniente hacer adecuaciones y cambios de orden formal, especialmente en lo que respecta a denominaciones y orden num&#xE9;rico de las materias, </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente texto actualizado de la resoluci&#xF3;n N&#xBA; 600, de 1977, sobre Exenci&#xF3;n de Toma de Raz&#xF3;n.</div><br><br><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

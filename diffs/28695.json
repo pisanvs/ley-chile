@@ -1,0 +1,92 @@
+[
+  {
+    "fecha": "1968-08-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1969-12-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8986524,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- El personal de los Juzgados que se elevan de categor&#xED;a en el art&#xED;culo 3&#xB0;, continuar&#xE1; desempe&#xF1;&#xE1;ndose en ellos sin necesidad de nuevo nombramiento. Sin embargo, aquellos funcionarios o empleados que no re&#xFA;nan los requisitos legales establecidos para ser designados en los cargos respectivos, en las categor&#xED;as que les corresponden con motivo de la elevaci&#xF3;n a mayor cuant&#xED;a de dichos juzgados, continuar&#xE1;n ocupando sus actuales categor&#xED;as en el Escalaf&#xF3;n Judicial y sus actuales categor&#xED;as o grados en las escalas de sueldos.</div><div class=\"p\">&nbsp; &nbsp; No obstante, si dentro del t&#xE9;rmino de dos a&#xF1;os contados desde la fecha de vigencia de la presente ley, reunieren tales requisitos, pasar&#xE1;n a ocupar las nuevas categor&#xED;as y grados que corresponden a los respectivos cargos, a contar del mes siguiente a aquel en que los re&#xFA;nan.</div><div class=\"p\">&nbsp; &nbsp; En caso contrario deber&#xE1;n ser trasladados a cargos de igual jerarqu&#xED;a de aquellos que ocupaban con anterioridad a la vigencia de esta ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- DEROGADO<span class=\"n\" id=\"n_0\">LEY 17272<br>Art. 50<br>D.O. 31.12.1969</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1971-12-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8986509,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;- Trasl&#xE1;danse el Segundo Juzgado del Trabajo de Valpara&#xED;so y el Sexto Juzgado del Trabajo de Santiago a la comuna de Vi&#xF1;a del Mar y al departamento Presidente Aguirre Cerda, respectivamente.</div><div class=\"p\">&nbsp; &nbsp; El Segundo Juzgado del Trabajo de Valpara&#xED;so pasar&#xE1; a denominarse Juzgado del Trabajo de Vi&#xF1;a del Mar y su territorio jurisdiccional ser&#xE1; la comuna subdelegaci&#xF3;n del mismo nombre.</div><div class=\"p\">&nbsp; &nbsp; El Sexto Juzgado del Trabajo de Santiago pasar&#xE1; a denominarse Juzgado del Trabajo del departamento Presidente Aguirre Cerda y tendr&#xE1; su asiento en la comuna de San Miguel.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xBA;.- Trasl&#xE1;dase el Sexto Juzgado del<span class=\"n\" id=\"n_0\">LEY 17574<br>Art. 15<br>D.O. 15.12.1971</span> Trabajo de Santiago al departamento Presidente Aguirre Cerda.</div><div class=\"p\">&nbsp; &nbsp; El Sexto Juzgado del Trabajo de Santiago pasar&#xE1; a denominarse Juzgado del Trabajo del departamento Presidente Aguirre Cerda y tendr&#xE1; su asiento en la comuna de San Miguel.</div><br></div>"
+        },
+        {
+          "part_id": 8986524,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- DEROGADO<span class=\"n\" id=\"n_0\">LEY 17272<br>Art. 50<br>D.O. 31.12.1969</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- DEROGADO<span class=\"n\" id=\"n_1\">LEY 17272<br>Art. 50<br>D.O. 31.12.1969</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1972-03-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8986514,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12.- Agr&#xE9;gase al art&#xED;culo 14&#xB0; de la Ley N&#xB0; 16.272 sobre Timbres, Estampillas y Papel Sellado, el siguiente inciso:</div><div class=\"p\">&nbsp; &nbsp; &quot;Sin perjuicio del impuesto establecido en el N&#xB0; 4 del art&#xED;culo 1&#xB0;, y en el inciso primero cuando proceda, los contratos de compraventa a plazo de cosas muebles que se celebren en conformidad a la Ley N&#xB0; 4.702, deber&#xE1;n extenderse en papel sellado de E&#xB0; 5 siempre que el valor de la cosa vendida exceda de un sueldo vital mensual, escala A, del Departamento de Santiago.&quot;. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12.- Agr&#xE9;gase al art&#xED;culo 14&#xB0; de la Ley N&#xB0;<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> 16.272 sobre Timbres, Estampillas y Papel Sellado, el siguiente inciso:</div><div class=\"p\">&nbsp; &nbsp; &quot;Sin perjuicio del impuesto establecido en el N&#xB0; 4 del art&#xED;culo 1&#xB0;, y en el inciso primero cuando proceda, los contratos de compraventa a plazo de cosas muebles que se celebren en conformidad a la Ley N&#xB0; 4.702, deber&#xE1;n extenderse en papel sellado de E&#xB0; 5 siempre que el valor de la cosa vendida exceda de un sueldo vital mensual, escala A, del Departamento de Santiago.&quot;.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  EL art&#xED;culo 6&#xBA; de la LEY 17629, publicada el 06.03.1972, aument&#xF3; en cinco escudos el impuesto establecido en el presente art&#xED;culo.<br></div></div>"
+        },
+        {
+          "part_id": 8986524,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- DEROGADO<span class=\"n\" id=\"n_1\">LEY 17272<br>Art. 50<br>D.O. 31.12.1969</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- DEROGADO<span class=\"n\" id=\"n_2\">LEY 17272<br>Art. 50<br>D.O. 31.12.1969</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1974-06-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8986506,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;- Cr&#xE9;anse, a contar de la misma fecha se&#xF1;alada en el art&#xED;culo anterior, en los departamentos que se indican a continuaci&#xF3;n, los siguientes Juzgados de Letras de Mayor Cuant&#xED;a:</div><div class=\"p\">&nbsp; &nbsp; ARICA: un tercer Juzgado;</div><div class=\"p\">&nbsp; &nbsp; LA SERENA: un segundo Juzgado;</div><div class=\"p\">&nbsp; &nbsp; VALPARAISO: un Juzgado del Crimen con asiento en la ciudad de Vi&#xF1;a del Mar;</div><div class=\"p\">&nbsp; &nbsp; SANTIAGO: dos Juzgados Civiles, que se denominar&#xE1;n sexto y s&#xE9;ptimo Juzgados, y dos Juzgados del Crimen que se denominar&#xE1;n octavo y noveno Juzgados;</div><div class=\"p\">&nbsp; &nbsp; PRESIDENTE AGUIRRE CERDA: un cuarto Juzgado del Crimen;</div><div class=\"p\">&nbsp; &nbsp; CONCEPCION: un cuarto Juzgado;</div><div class=\"p\">&nbsp; &nbsp; LLANQUIHUE: un segundo Juzgado, y MAGALLANES: un segundo Juzgado.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;- Cr&#xE9;anse, a contar de la misma fecha<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> se&#xF1;alada en el art&#xED;culo anterior, en los departamentos que se indican a continuaci&#xF3;n, los siguientes Juzgados de Letras de Mayor Cuant&#xED;a:</div><div class=\"p\">&nbsp; &nbsp; ARICA: un tercer Juzgado;</div><div class=\"p\">&nbsp; &nbsp; LA SERENA: un segundo Juzgado;</div><div class=\"p\">&nbsp; &nbsp; VALPARAISO: un Juzgado del Crimen con asiento en la ciudad de Vi&#xF1;a del Mar;</div><div class=\"p\">&nbsp; &nbsp; SANTIAGO: dos Juzgados Civiles, que se denominar&#xE1;n sexto y s&#xE9;ptimo Juzgados, y dos Juzgados del Crimen que se denominar&#xE1;n octavo y noveno Juzgados;</div><div class=\"p\">&nbsp; &nbsp; PRESIDENTE AGUIRRE CERDA: un cuarto Juzgado del Crimen;</div><div class=\"p\">&nbsp; &nbsp; CONCEPCION: un cuarto Juzgado;</div><div class=\"p\">&nbsp; &nbsp;  LLANQUIHUE: un segundo Juzgado, y</div><div class=\"p\">&nbsp; &nbsp; MAGALLANES: un segundo Juzgado.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico del DL 508, Justicia, publicado el 12.06.1974, ampli&#xF3; la planta de los tribunales creados por el presente art&#xED;culo y aument&#xF3; su personal en la forma que en &#xE9;l se indica, con las ubicaciones en la Escala Unica de Sueldos del Poder Judicial.<br></div></div>"
+        },
+        {
+          "part_id": 8986509,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xBA;.- Trasl&#xE1;dase el Sexto Juzgado del<span class=\"n\" id=\"n_0\">LEY 17574<br>Art. 15<br>D.O. 15.12.1971</span> Trabajo de Santiago al departamento Presidente Aguirre Cerda.</div><div class=\"p\">&nbsp; &nbsp; El Sexto Juzgado del Trabajo de Santiago pasar&#xE1; a denominarse Juzgado del Trabajo del departamento Presidente Aguirre Cerda y tendr&#xE1; su asiento en la comuna de San Miguel.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xBA;.- Trasl&#xE1;dase el Sexto Juzgado del<span class=\"n\" id=\"n_1\">LEY 17574<br>Art. 15<br>D.O. 15.12.1971</span> Trabajo de Santiago al departamento Presidente Aguirre Cerda.</div><div class=\"p\">&nbsp; &nbsp; El Sexto Juzgado del Trabajo de Santiago pasar&#xE1; a denominarse Juzgado del Trabajo del departamento Presidente Aguirre Cerda y tendr&#xE1; su asiento en la comuna de San Miguel.</div><br></div>"
+        },
+        {
+          "part_id": 8986514,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12.- Agr&#xE9;gase al art&#xED;culo 14&#xB0; de la Ley N&#xB0;<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> 16.272 sobre Timbres, Estampillas y Papel Sellado, el siguiente inciso:</div><div class=\"p\">&nbsp; &nbsp; &quot;Sin perjuicio del impuesto establecido en el N&#xB0; 4 del art&#xED;culo 1&#xB0;, y en el inciso primero cuando proceda, los contratos de compraventa a plazo de cosas muebles que se celebren en conformidad a la Ley N&#xB0; 4.702, deber&#xE1;n extenderse en papel sellado de E&#xB0; 5 siempre que el valor de la cosa vendida exceda de un sueldo vital mensual, escala A, del Departamento de Santiago.&quot;.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  EL art&#xED;culo 6&#xBA; de la LEY 17629, publicada el 06.03.1972, aument&#xF3; en cinco escudos el impuesto establecido en el presente art&#xED;culo.<br></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12.- Agr&#xE9;gase al art&#xED;culo 14&#xB0; de la Ley N&#xB0;<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:</a></div> 16.272 sobre Timbres, Estampillas y Papel Sellado, el siguiente inciso:</div><div class=\"p\">&nbsp; &nbsp; &quot;Sin perjuicio del impuesto establecido en el N&#xB0; 4 del art&#xED;culo 1&#xB0;, y en el inciso primero cuando proceda, los contratos de compraventa a plazo de cosas muebles que se celebren en conformidad a la Ley N&#xB0; 4.702, deber&#xE1;n extenderse en papel sellado de E&#xB0; 5 siempre que el valor de la cosa vendida exceda de un sueldo vital mensual, escala A, del Departamento de Santiago.&quot;.</div><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:</a> <br>&nbsp; &nbsp;  EL art&#xED;culo 6&#xBA; de la LEY 17629, publicada el 06.03.1972, aument&#xF3; en cinco escudos el impuesto establecido en el presente art&#xED;culo.<br></div></div>"
+        },
+        {
+          "part_id": 8986524,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- DEROGADO<span class=\"n\" id=\"n_2\">LEY 17272<br>Art. 50<br>D.O. 31.12.1969</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- DEROGADO<span class=\"n\" id=\"n_3\">LEY 17272<br>Art. 50<br>D.O. 31.12.1969</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

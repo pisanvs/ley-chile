@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-01-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6327115,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA AZAPA LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA AZAPA LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE SE&#xD1;ALA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

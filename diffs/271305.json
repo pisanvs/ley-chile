@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-12-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7370264,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Conc&#xE9;dese personalidad jur&#xED;dica a la entidad denominada &quot;Organizaci&#xF3;n No Gubernamental de Desarrollo Centro de Desarrollo Humano Carel&quot;, que podr&#xE1; usar tambi&#xE9;n el nombre de &quot;O.N.G. Carel&quot;, con domicilio en la provincia del B&#xED;o B&#xED;o, Octava Regi&#xF3;n del B&#xED;o B&#xED;o.</div><div class=\"p\">&nbsp; &nbsp;  2.- Apru&#xE9;banse los estatutos por los cuales se ha de regir la citada entidad, en los t&#xE9;rminos que da testimonio el instrumento protocolizado bajo el N&#xBA; 62, con fecha 24 de marzo de 2008, ante el Notario P&#xFA;blico de Concepci&#xF3;n, don Jorge Condeza Vaccaro.</div><div class=\"p\">&nbsp; &nbsp;  3.- Rem&#xED;tase copia del presente decreto al Ministerio de Planificaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Conc&#xE9;dese personalidad jur&#xED;dica a la entidad</div><div class=\"p\">denominada &quot;Organizaci&#xF3;n No Gubernamental de Desarrollo Centro de Desarrollo Humano Carel&quot;, que podr&#xE1; usar tambi&#xE9;n el nombre de &quot;O.N.G. Carel&quot;, con domicilio en la provincia del B&#xED;o B&#xED;o, Octava Regi&#xF3;n del B&#xED;o B&#xED;o.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp;  2.- Apru&#xE9;banse los estatutos por los cuales se ha de regir la citada entidad, en los t&#xE9;rminos que da testimonio el instrumento protocolizado bajo el N&#xBA; 62, con fecha 24 de marzo de 2008, ante el Notario P&#xFA;blico de Concepci&#xF3;n, don Jorge Condeza Vaccaro.</div><div class=\"p\">&nbsp; &nbsp;  3.- Rem&#xED;tase copia del presente decreto al Ministerio de Planificaci&#xF3;n.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 3324, Justicia, publicado el 26.12.2008, aclara la presente norma en el sentido que su domicilio corresponde a la Provincia de Concepci&#xF3;n, Octava Regi&#xF3;n del B&#xED;o B&#xED;o, y no a la que se indica.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

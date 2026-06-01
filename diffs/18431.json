@@ -1,0 +1,84 @@
+[
+  {
+    "fecha": "1994-12-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-01-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8952321,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Se entender&#xE1; por Auxiliar Param&#xE9;dico de Odontolog&#xED;a al personal de apoyo y colaboraci&#xF3;n del profesional Cirujano Dentista, capacitado a trav&#xE9;s de un curso de formaci&#xF3;n normado por el Ministerio de Salud, para desempe&#xF1;arse en el campo odontol&#xF3;gico en actividades de fomento, prevenci&#xF3;n, recuperaci&#xF3;n y rehabilitaci&#xF3;n de la salud, bajo la supervisi&#xF3;n y control de dicho profesional.</div><div class=\"p\">&nbsp; &nbsp; En su desempe&#xF1;o laboral, sus funciones ser&#xE1;n las siguientes:</div><br><div class=\"p\">&nbsp; &nbsp; 1.- Desempe&#xF1;ar funciones de colaboraci&#xF3;n directa con el profesional odont&#xF3;logo en acciones de fomento y promoci&#xF3;n de la Salud Bucal, contribuyendo en las labores de educaci&#xF3;n individual y colectiva.</div><br><div class=\"p\">&nbsp; &nbsp; 2.- Recepcionar, orientar y preparar an&#xED;micamente al paciente para la atenci&#xF3;n odontol&#xF3;gica; preparar y aislar el campo operatorio; despu&#xE9;s de la atenci&#xF3;n, reforzar indicaciones dadas por el odont&#xF3;logo al paciente.</div><br><div class=\"p\">&nbsp; &nbsp; 3.- Colaborar con el odont&#xF3;logo en la aplicaci&#xF3;n de t&#xE9;cnicas espec&#xED;ficas de prevenci&#xF3;n tales como: detecci&#xF3;n de placa bacteriana, profilaxis, ense&#xF1;anza de t&#xE9;cnicas de higiene bucal, aplicaci&#xF3;n de sellantes y aplicaci&#xF3;n de fl&#xFA;or t&#xF3;pico individual y colectivo.</div><br><div class=\"p\">&nbsp; &nbsp; 4.- Formar parte del equipo de salud odontol&#xF3;gico, colaborando en la atenci&#xF3;n odontol&#xF3;gica simplificada, y proporcionando atenci&#xF3;n de primeros auxilios, de acuerdo a la emergencia que se presente.</div><br><div class=\"p\">&nbsp; &nbsp; 5.- Estar a cargo de la preparaci&#xF3;n y mantenci&#xF3;n de la cl&#xED;nica y/o pabell&#xF3;n quir&#xFA;rgico, de arsenalear y de preparar los materiales a utilizar durante la atenci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp; 6.- Lavar y esterilizar el instrumental utilizado, desechar residuos de materia org&#xE1;nica y de materiales t&#xF3;xicos y no t&#xF3;xicos, de acuerdo a normas y procedimientos establecidos.</div><br><div class=\"p\">&nbsp; &nbsp; 7.- Aplicar y cumplir normas de prevenci&#xF3;n y control de las infecciones intrahospitalarias.</div><br><div class=\"p\">&nbsp; &nbsp; 8.- Desempe&#xF1;ar labores de auxiliar en el gabinete de rayos X; toma de radiograf&#xED;as retroalveolares, revelado y montaje de radiograf&#xED;as.</div><br><div class=\"p\">&nbsp; &nbsp; 9.- Efectuar toma de impresiones primarias para modelos de estudio de pr&#xF3;tesis y ortodoncia.</div><br><div class=\"p\">&nbsp; &nbsp; 10.- Realizar la mantenci&#xF3;n de equipos e instrumental odontol&#xF3;gico en las distintas especialidades.</div><br><div class=\"p\">&nbsp; &nbsp; 11.- Estar a cargo de los aspectos administrativos b&#xE1;sicos en la cl&#xED;nica dental: registros, inventarios, stock, citaciones, comunicaci&#xF3;n con laboratorios, etc.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xBA;: Auxiliar param&#xE9;dico de odontolog&#xED;a<span class=\"n\" id=\"n_0\">DTO 283, SALUD<br>N&#xBA; 1<br>D.O. 10.01.2002</span> es el personal habilitado para desempe&#xF1;arse como auxiliar de los profesionales odont&#xF3;logos en las labores propias de su quehacer, efectuando, bajo su control y supervisi&#xF3;n directa, las actividades precisas que &#xE9;stos les encomienden. En ning&#xFA;n caso podr&#xE1;n realizar acciones de diagn&#xF3;stico, indicaci&#xF3;n de tratamiento o evaluaci&#xF3;n de pacientes. Solamente podr&#xE1;n ejercer como tales quienes cuenten con t&#xED;tulo respectivo obtenido en conformidad a lo dispuesto en el art&#xED;culo 6&#xBA; y siguientes de este reglamento.</div><div class=\"p\">&nbsp; &nbsp; En su desempe&#xF1;o laboral sus funciones ser&#xE1;n las siguientes:</div><div class=\"p\">&nbsp; &nbsp; 1.- Realizar funciones de colaboraci&#xF3;n directa con el profesional odont&#xF3;logo en acciones de fomento y promoci&#xF3;n de la salud bucal, contribuyendo en las labores de educaci&#xF3;n individual y colectiva.</div><div class=\"p\">&nbsp; &nbsp; 2.- Recibir, orientar y preparar an&#xED;micamente al paciente para la atenci&#xF3;n odontol&#xF3;gica; preparar y aislar el campo operatorio; despu&#xE9;s de la atenci&#xF3;n, reforzar indicaciones dadas por el odont&#xF3;logo al paciente.</div><div class=\"p\">&nbsp; &nbsp; 3.- A indicaci&#xF3;n del odont&#xF3;logo, realizar actividades de detecci&#xF3;n de placa bacteriana, ense&#xF1;anza de t&#xE9;cnicas de higiene bucal, aplicaci&#xF3;n de fl&#xFA;or t&#xF3;pico, aplicaci&#xF3;n de sellantes, pulido coronario y destartraje supragingival.</div><div class=\"p\">&nbsp; &nbsp; 4.- Formar parte del equipo de salud odontol&#xF3;gico, colaborando en la atenci&#xF3;n odontol&#xF3;gica simplificada y apoyando al odont&#xF3;logo en t&#xE9;cnicas de primeros auxilios, de acuerdo a la emergencia que se presente.</div><div class=\"p\">&nbsp; &nbsp; 5.- Estar a cargo de la preparaci&#xF3;n y mantenci&#xF3;n de la cl&#xED;nica y/o pabell&#xF3;n quir&#xFA;rgico, de arsenalear y de preparar los materiales a utilizar durante la atenci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 6.- Lavar y esterilizar el instrumental utilizado, desechar residuos de materia org&#xE1;nica y de materiales t&#xF3;xicos y no t&#xF3;xicos, de acuerdo con las normas y procedimientos establecidos.</div><div class=\"p\">&nbsp; &nbsp; 7.- Aplicar y cumplir normas de prevenci&#xF3;n y control de las infecciones intrahospitalarias.</div><div class=\"p\">&nbsp; &nbsp; 8.- Desempe&#xF1;ar labores de auxiliar en el gabinete de rayos X; toma de radiograf&#xED;as retroalveolares y bitewing, revelado y montaje de radiograf&#xED;as.</div><div class=\"p\">&nbsp; &nbsp; 9.- Efectuar toma de impresiones primarias para modelos de estudio de pr&#xF3;tesis y ortodoncia.</div><div class=\"p\">&nbsp; &nbsp; 10.- Realizar la mantenci&#xF3;n de equipos e instrumental odontol&#xF3;gico en las distintas especialidades.</div><div class=\"p\">&nbsp; &nbsp; 11.- Colaborar en los aspectos administrativos b&#xE1;sicos en la cl&#xED;nica dental: registros, inventarios, existencias, citaciones, comunicaci&#xF3;n con laboratorios, etc.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-03-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9340175,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1049662&amp;idParte=9340026&amp;idVersion=2013-03-26\">Decreto 25,<br>SALUD<br>Art. PRIMERO<br>D.O. 26.03.2013</a></span>&#xA0;</div></div>"
+        },
+        {
+          "part_id": 9340176,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1049662&amp;idParte=9340026&amp;idVersion=2013-03-26\">Decreto 25,<br>SALUD<br>Art. PRIMERO<br>D.O. 26.03.2013</a></span>&nbsp; &nbsp;  Art&#xED;culo 1&#xBA; Transitorio.- Quienes actualmente desempe&#xF1;an funciones de auxiliar de los profesionales odont&#xF3;logos en los t&#xE9;rminos se&#xF1;alados en el art&#xED;culo 4&#xBA;, y lo hayan hecho durante 3 a&#xF1;os continuos o discontinuos, sin cumplir con el requisito establecido en el art&#xED;culo 6&#xBA;, podr&#xE1;n obtener su autorizaci&#xF3;n para ejercer como Auxiliar Param&#xE9;dico de Odontolog&#xED;a, previa rendici&#xF3;n y aprobaci&#xF3;n de un examen de competencias ante la Autoridad Sanitaria respectiva, seg&#xFA;n pauta de evaluaci&#xF3;n definida por el Ministerio de Salud, siempre que acrediten el cumplimiento de los siguientes requisitos:</div><br><div class=\"p\">-&nbsp; &nbsp; Licencia de Ense&#xF1;anza Media acad&#xE9;mica o laboral.</div><br><div class=\"p\">-&nbsp; &nbsp; Certificado de idoneidad y evaluaci&#xF3;n favorable del desempe&#xF1;o, otorgado por el profesional odont&#xF3;logo a quien le conste el ejercicio de estas funciones por un per&#xED;odo de al menos 6 meses, a fin de acreditar el tiempo requerido precedentemente.</div><br></div>"
+        },
+        {
+          "part_id": 9340177,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1049662&amp;idParte=9340026&amp;idVersion=2013-03-26\">Decreto 25,<br>SALUD<br>Art. PRIMERO<br>D.O. 26.03.2013</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; Transitorio.- El Personal de Enfermer&#xED;a regido por el decreto ley N&#xBA; 2.147, de 1978 y el decreto supremo N&#xBA; 261, de 1978, del Ministerio de Salud, o quienes posean t&#xED;tulos de T&#xE9;cnico de Nivel Superior de Enfermer&#xED;a o T&#xE9;cnico de Nivel Medio de Atenci&#xF3;n de Enfermer&#xED;a y que actualmente desempe&#xF1;en funciones de auxiliar de los profesionales odont&#xF3;logos en los t&#xE9;rminos se&#xF1;alados en el art&#xED;culo 4&#xBA;, y lo hayan hecho durante 3 a&#xF1;os, continuos o discontinuos, podr&#xE1;n requerir la certificaci&#xF3;n para ejercer como Auxiliar Param&#xE9;dico de Odontolog&#xED;a ante la Autoridad Regional Ministerial de Salud respectiva, siempre que acrediten el cumplimiento del siguiente requisito:</div><br><div class=\"p\">-&nbsp; &nbsp; Certificado de idoneidad y evaluaci&#xF3;n del desempe&#xF1;o, otorgado por el profesional odont&#xF3;logo a quien le conste el ejercicio de estas funciones por un per&#xED;odo de al menos 6 meses, a fin de acreditar el tiempo requerido precedentemente</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1049662,
+      "fecha": "2013-03-26"
+    }
+  },
+  {
+    "fecha": "2013-12-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9395070,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; transitorio: Durante <span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1057679&amp;idParte=9395063&amp;idVersion=2013-12-31\">Decreto 59, SALUD<br>Art. N&#xB0; 2<br>D.O. 31.12.2013</a></span>el plazo de dos a&#xF1;os, contados desde la entrada en vigencia de esta norma, las personas que se han desempe&#xF1;ado, en forma continua o discontinua, durante tres a&#xF1;os en labores de apoyo en el &#xE1;rea de farmacia, alimentaci&#xF3;n, radiolog&#xED;a, laboratorio o banco de sangre, sin contar con t&#xED;tulo habilitante otorgado por una entidad de educaci&#xF3;n o conforme al art&#xED;culo 6&#xBA; de este reglamento, podr&#xE1;n obtener autorizaci&#xF3;n para ejercer como auxiliar param&#xE9;dico en su respectiva &#xE1;rea de desempe&#xF1;o, previa aprobaci&#xF3;n de un examen de competencia rendido ante la Autoridad Sanitaria, el cual se ce&#xF1;ir&#xE1; a la pauta de evaluaci&#xF3;n que establezca el Ministerio de Salud, y la presentaci&#xF3;n de los siguientes documentos:</div><br><div class=\"p\">&nbsp; &nbsp;  - Licencia de Ense&#xF1;anza Media acad&#xE9;mica o laboral.</div><div class=\"p\">&nbsp; &nbsp;  - Certificado de evaluaci&#xF3;n y desempe&#xF1;o favorable, otorgado por el Director T&#xE9;cnico del establecimiento en que trabaja, o jefe de servicio respectivo a quien le conste el ejercicio de dichas funciones durante, al menos, seis meses.</div><div class=\"p\">&nbsp; &nbsp;  - Certificados de capacitaci&#xF3;n en el &#xE1;mbito de su desempe&#xF1;o, si los tuviere.</div></div>"
+        },
+        {
+          "part_id": 9395071,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA; transitorio: <span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1057679&amp;idParte=9395063&amp;idVersion=2013-12-31\">Decreto 59, SALUD<br>Art. N&#xB0; 2<br>D.O. 31.12.2013</a></span>Durante el per&#xED;odo se&#xF1;alado en el art&#xED;culo anterior, el personal que tuviere un t&#xED;tulo de t&#xE9;cnico de nivel superior en enfermer&#xED;a, de t&#xE9;cnico de nivel medio en atenci&#xF3;n de enfermer&#xED;a o certificado de competencia como auxiliar param&#xE9;dico de enfermer&#xED;a otorgado por la Autoridad Sanitaria, que desempe&#xF1;e funciones de auxiliar param&#xE9;dico en el &#xE1;rea de farmacia, alimentaci&#xF3;n, radiolog&#xED;a, laboratorio o banco de sangre, podr&#xE1; obtener el certificado de competencia conferido por la Autoridad Sanitaria para ejercer como auxiliar param&#xE9;dico en el &#xE1;rea respectiva. Para ello deber&#xE1; acreditar su desempe&#xF1;o en esa calidad durante un lapso de tres a&#xF1;os continuos o discontinuos, presentar un certificado de idoneidad y evaluaci&#xF3;n de desempe&#xF1;o otorgado por el Director T&#xE9;cnico del establecimiento en que trabaja o del jefe de servicio respectivo a quien le conste el ejercicio de dichas funciones durante, al menos, seis meses y certificados de capacitaci&#xF3;n en el &#xE1;mbito de su desempe&#xF1;o, si los tuviere.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1057679,
+      "fecha": "2013-12-31"
+    }
+  },
+  {
+    "fecha": "2017-01-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

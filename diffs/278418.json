@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1961-09-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-10-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7378909,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Los objetivos de desarrollo,<span class=\"n\" id=\"n_0\">DTO 1269, JUSTICIA<br>D.O. 22.10.1977</span> orientaci&#xF3;n y programaci&#xF3;n se&#xF1;alados en el art&#xED;culo 1&#xBA;, se har&#xE1;n extensivos a los Jardines Infantiles y Salas Cunas que funcionen en cualquier establecimiento de Gendarmer&#xED;a de Chile, para la atenci&#xF3;n, tanto de los hijos de reclusos como de los de funcionarios del Servicio.</div><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

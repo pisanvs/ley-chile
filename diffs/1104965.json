@@ -1,0 +1,65 @@
+[
+  {
+    "fecha": "2017-07-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-02-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9812426,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo : Autor&#xED;zase la circulaci&#xF3;n en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, a los veh&#xED;culos tomados en arriendo y asignados al uso de la Fiscal&#xED;a Regional y Fiscal&#xED;as Locales de la Regi&#xF3;n de Arica y Parinacota, que se individualizan:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Fiscal&#xED;a Local de Putre:</div><br><div class=\"p\">&nbsp; &nbsp;  Veh&#xED;culo&nbsp; &nbsp; &nbsp; &nbsp; Camioneta</div><div class=\"p\">&nbsp; &nbsp;  Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Chevrolet</div><div class=\"p\">&nbsp; &nbsp;  Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D Max Dcab 4x4 2.5</div><div class=\"p\">&nbsp; &nbsp;  A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2017</div><div class=\"p\">&nbsp; &nbsp;  Motor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PY5030</div><div class=\"p\">&nbsp; &nbsp;  Chasis&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MPATFS86JHT004664</div><div class=\"p\">&nbsp; &nbsp;  Color&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Blanco</div><div class=\"p\">&nbsp; &nbsp;  I.N.R.V.M.&nbsp; &nbsp; &nbsp; JPSS.99-0</div><div class=\"p\">&nbsp; &nbsp;  Patente&nbsp; &nbsp; &nbsp; &nbsp;  JPSS-99</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Fiscal&#xED;a Local de Arica:</div><br><div class=\"p\">&nbsp; &nbsp;  Veh&#xED;culo&nbsp; &nbsp; &nbsp; &nbsp; Camioneta</div><div class=\"p\">&nbsp; &nbsp;  Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Mitsubishi</div><div class=\"p\">&nbsp; &nbsp;  Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; L200 Katana CR 2.4</div><div class=\"p\">&nbsp; &nbsp;  A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2017</div><div class=\"p\">&nbsp; &nbsp;  Motor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  4N15 UBJ1310</div><div class=\"p\">&nbsp; &nbsp;  Chasis&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MMBJJKK10HH012687</div><div class=\"p\">&nbsp; &nbsp;  Color&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Blanco Fairy</div><div class=\"p\">&nbsp; &nbsp;  I.N.R.V.M.&nbsp; &nbsp; &nbsp; JLDT.11-4</div><div class=\"p\">&nbsp; &nbsp;  Patente&nbsp; &nbsp; &nbsp; &nbsp;  JLDT-11</div><br><div class=\"p\">3.- Fiscal&#xED;a Regional de Arica y Parinacota, Unidad de Administraci&#xF3;n y Finanzas:</div><br><div class=\"p\">&nbsp; &nbsp; Veh&#xED;culo Camioneta</div><div class=\"p\">&nbsp; &nbsp; Marca Mitsubishi</div><div class=\"p\">&nbsp; &nbsp; Modelo L200 Katana CR 2.4</div><div class=\"p\">&nbsp; &nbsp; A&#xF1;o 2017</div><div class=\"p\">&nbsp; &nbsp; Motor 4N15 UBJ1312</div><div class=\"p\">&nbsp; &nbsp; Chasis MMBJJKK10HH012614</div><div class=\"p\">&nbsp; &nbsp; Color Blanco Fairy</div><div class=\"p\">&nbsp; &nbsp; I.N.R.V.M. JLDV.44-7</div><div class=\"p\">&nbsp; &nbsp; Patente JLDV-44</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo : Derogado.</div><br><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1155538&amp;idParte=10199246&amp;idVersion=2021-02-04\">Decreto 1689 EXENTO, <br>INTERIOR<br>Art. segundo<br>D.O. 04.02.2021</a></span></div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1155538,
+      "fecha": "2021-02-04"
+    }
+  },
+  {
+    "fecha": "2021-04-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9812426,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo : Derogado.</div><br><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1155538&amp;idParte=10199246&amp;idVersion=2021-02-04\">Decreto 1689 EXENTO, <br>INTERIOR<br>Art. segundo<br>D.O. 04.02.2021</a></span></div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo : Derogado.</div><br><br><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div></div><br><br><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1155538&amp;idParte=10199246&amp;idVersion=2021-02-04\">Decreto 1689 EXENTO, <br>INTERIOR<br>Art. segundo<br>D.O. 04.02.2021</a></span></div><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  El Art&#xED;culo Segundo del Decreto 369 Exento, Interior, publicado el 13.04.2021, deja sin efecto la presente norma en lo referente a las autorizaciones para circulaci&#xF3;n en horario inh&#xE1;bil, dispuestas mediante el presente art&#xED;culo, en lo que se refiere a las autorizaciones para los veh&#xED;culos asignados al uso de la Fiscal&#xED;a de la Regi&#xF3;n de Arica y Parinacota.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2026-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9812425,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero : Autor&#xED;zase la circulaci&#xF3;n en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, exento del uso de disco fiscal, al veh&#xED;culo asignado al uso del Fiscal Regional de la Regi&#xF3;n de Antofagasta, que se individualiza:</div><br><div class=\"p\">&nbsp; &nbsp;  Veh&#xED;culo&nbsp; &nbsp; &nbsp; &nbsp; Station Wagon</div><div class=\"p\">&nbsp; &nbsp;  Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Hyundai</div><div class=\"p\">&nbsp; &nbsp;  Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Santa Fe GLS 2.4</div><div class=\"p\">&nbsp; &nbsp;  A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2017</div><div class=\"p\">&nbsp; &nbsp;  Motor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  G4KEHA920152</div><div class=\"p\">&nbsp; &nbsp;  Chasis&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; KMHSU81CDHU768186</div><div class=\"p\">&nbsp; &nbsp;  Color Plateado&nbsp; Plata Titanio</div><div class=\"p\">&nbsp; &nbsp;  I.N.R.V.M.&nbsp; &nbsp; &nbsp; JKFF.46-8</div><div class=\"p\">&nbsp; &nbsp;  Patente&nbsp; &nbsp; &nbsp; &nbsp;  JKFF-46 </div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero : <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1220926&amp;idParte=10581204&amp;idVersion=2026-01-30\">Decreto 1029 EXENTO,<br>INTERIOR<br>Art. segundo<br>D.O. 30.01.2026</a></span>Derogado. </div><br></div>"
+        },
+        {
+          "part_id": 9812426,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo : Derogado.</div><br><br><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div></div><br><br><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1155538&amp;idParte=10199246&amp;idVersion=2021-02-04\">Decreto 1689 EXENTO, <br>INTERIOR<br>Art. segundo<br>D.O. 04.02.2021</a></span></div><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  El Art&#xED;culo Segundo del Decreto 369 Exento, Interior, publicado el 13.04.2021, deja sin efecto la presente norma en lo referente a las autorizaciones para circulaci&#xF3;n en horario inh&#xE1;bil, dispuestas mediante el presente art&#xED;culo, en lo que se refiere a las autorizaciones para los veh&#xED;culos asignados al uso de la Fiscal&#xED;a de la Regi&#xF3;n de Arica y Parinacota.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo : Derogado.</div><br><br><div class=\"p\"><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA</a></div></div><br><br><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1155538&amp;idParte=10199246&amp;idVersion=2021-02-04\">Decreto 1689 EXENTO, <br>INTERIOR<br>Art. segundo<br>D.O. 04.02.2021</a></span></div><br><br><br><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  El Art&#xED;culo Segundo del Decreto 369 Exento, Interior, publicado el 13.04.2021, deja sin efecto la presente norma en lo referente a las autorizaciones para circulaci&#xF3;n en horario inh&#xE1;bil, dispuestas mediante el presente art&#xED;culo, en lo que se refiere a las autorizaciones para los veh&#xED;culos asignados al uso de la Fiscal&#xED;a de la Regi&#xF3;n de Arica y Parinacota.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1220926,
+      "fecha": "2026-01-30"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-08-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-06-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9940564,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Recon&#xF3;zcase, en el marco del &quot;Convenio de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Grados Acad&#xE9;micos de Educaci&#xF3;n Superior entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica del Ecuador&quot;, suscrito el 15 de octubre de 2015, los t&#xED;tulos de grado obtenidos en las universidades ecuatorianas que se indican a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/82728.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/82729.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/82730.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/82731.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/82732.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/82733.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Recon&#xF3;zcase, en el marco del &quot;Convenio de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Grados Acad&#xE9;micos de Educaci&#xF3;n Superior entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica del Ecuador&quot;, suscrito el 15 de octubre de 2015, los t&#xED;tulos de grado obtenidos en las universidades ecuatorianas que se indican a continuaci&#xF3;n:</div><div class=\"p\"> <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/82728.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/82729.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/82730.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/82731.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/82732.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/82733.jpg\">.</div><br><br><br><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo tercero de la Resoluci&#xF3;n 2748 Exenta, Educaci&#xF3;n, publicada el 08.06.2019, rectifica en el numero 4 del cuadro inserto en la presente norma los apellidos&nbsp; &quot;Valerezo Chicaiza&quot; por &quot;Valarezo Chicaiza&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

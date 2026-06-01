@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-02-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8426899,
+          "old": "<div><div class=\"p\">ESTABLECE EL PRESUPUESTO PARA LA APLICACION DEL SEGURO SOCIAL CONTRA RIESGOS DE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES PARA EL A&#xD1;O 2002</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 57.- Santiago, 30 de noviembre de 2001.- Vistos: Lo dispuesto en la ley N&#xBA; 16.744, sobre seguro social contra riesgos de accidentes del trabajo y enfermedades profesionales, especialmente en sus art&#xED;culos 14, 15, 19, 20, 21, 24, 72 y 1&#xBA; transitorio; en los art&#xED;culos 25 y 1&#xBA; transitorio del D.L. N&#xBA; 3.501, de 1980; en el art&#xED;culo 30 de la ley N&#xBA; 16.395; en la ley N&#xBA; 18.689; y en el D.S. N&#xBA; , de 2001, del Ministerio Secretar&#xED;a General de la Presidencia, y</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente:</div><br><div class=\"p\">&nbsp; &nbsp;  Las disposiciones del Reglamento General de dicha ley, aprobado por D.S. N&#xBA; 101, de 1968, del Ministerio del Trabajo y Previsi&#xF3;n Social, particularmente las consignadas en los art&#xED;culos 25, 36, 37, 39, 40, 41, 42, y 43 y el art&#xED;culo 5&#xBA; del D.S. N&#xBA; 313, de 1972, del Ministerio del Trabajo y Previsi&#xF3;n Social.</div><br><div class=\"p\">&nbsp; &nbsp;  Los antecedentes proporcionados por la Superintendencia de Seguridad Social en su Oficio N&#xBA; 45.264, de 30 de noviembre de 2001,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE EL PRESUPUESTO PARA LA APLICACION DEL SEGURO SOCIAL CONTRA RIESGOS DE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES PARA EL A&#xD1;O 2002 N&#xFA;m. 57.- Santiago, 30 de noviembre de 2001.- Vistos: Lo dispuesto en la ley N&#xBA; 16.744, sobre seguro social contra riesgos de accidentes del trabajo y enfermedades profesionales, especialmente en sus art&#xED;culos 14, 15, 19, 20, 21, 24, 72 y 1&#xBA; transitorio; en los art&#xED;culos 25 y 1&#xBA; transitorio del D.L. N&#xBA; 3.501, de 1980; en el art&#xED;culo 30 de la ley N&#xBA; 16.395; en la ley N&#xBA; 18.689; y en el D.S. N&#xBA; 19, de 2001, del<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 16.02.2002</span> Ministerio Secretar&#xED;a General de la Presidencia, y Teniendo presente: Las disposiciones del Reglamento General de dicha ley, aprobado por D.S. N&#xBA; 101, de 1968, del Ministerio del Trabajo y Previsi&#xF3;n Social, particularmente las consignadas en los art&#xED;culos 25, 36, 37, 39, 40, 41, 42, y 43 y el art&#xED;culo 5&#xBA; del D.S. N&#xBA; 313, de 1972, del Ministerio del Trabajo y Previsi&#xF3;n Social. Los antecedentes proporcionados por la Superintendencia de Seguridad Social en su Oficio N&#xBA; 45.264, de 30 de noviembre de 2001, D e c r e t o: </div></div>"
+        }
+      ]
+    }
+  }
+]

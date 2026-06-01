@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1996-07-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-10-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10063773,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; bis.- No <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1137867&amp;idParte=10063764&amp;idVersion=2019-10-21\">Decreto 200 EXENTO, <br>ECONOMIA<br>D.O. 21.10.2019</a></span>obstante lo establecido en los art&#xED;culos anteriores, durante el per&#xED;odo de veda biol&#xF3;gica, autor&#xED;zase el desembarque del recurso Merluza del sur (Merluccius australis), en calidad de fauna acompa&#xF1;ante, en la pesca industrial dirigida otros recursos, en un porcentaje m&#xE1;ximo de un 4% medido en peso, en relaci&#xF3;n a la captura total, con un l&#xED;mite de 10 toneladas de Merluza del sur por viaje de pesca.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, durante la vigencia de la veda s&#xF3;lo se podr&#xE1; extraer un m&#xE1;ximo de 30 toneladas totales por la flota industrial.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1137867,
+      "fecha": "2019-10-21"
+    }
+  }
+]

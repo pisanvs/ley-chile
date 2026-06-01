@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "2017-01-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-03-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9764641,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Ampl&#xED;ese a todas las comunas de la Regi&#xF3;n del Maule la declaraci&#xF3;n de zona afectada por cat&#xE1;strofe por incendios, en los mismos t&#xE9;rminos establecidos en el decreto N&#xBA; 83, de fecha 20 de enero de 2017, del Ministerio del Interior y Seguridad P&#xFA;blica.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Ampl&#xED;ese a <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>todas las comunas de la Regi&#xF3;n del Maule la declaraci&#xF3;n de zona afectada por cat&#xE1;strofe por incendios, en los mismos t&#xE9;rminos establecidos en el decreto N&#xBA; 83, de fecha 20 de enero de 2017, del Ministerio del Interior y Seguridad P&#xFA;blica.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xDA;nico del Decreto 125, Interior, publicado el 22.03.2018, modifica la presente norma en el sentido de extender, por el lapso de seis meses contados desde el 23 de enero de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe, a la comuna de Constituci&#xF3;n, provincia de Talca, Regi&#xF3;n del Maule.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-08-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9764641,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Ampl&#xED;ese a <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>todas las comunas de la Regi&#xF3;n del Maule la declaraci&#xF3;n de zona afectada por cat&#xE1;strofe por incendios, en los mismos t&#xE9;rminos establecidos en el decreto N&#xBA; 83, de fecha 20 de enero de 2017, del Ministerio del Interior y Seguridad P&#xFA;blica.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xDA;nico del Decreto 125, Interior, publicado el 22.03.2018, modifica la presente norma en el sentido de extender, por el lapso de seis meses contados desde el 23 de enero de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe, a la comuna de Constituci&#xF3;n, provincia de Talca, Regi&#xF3;n del Maule.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Ampl&#xED;ese a <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>todas las comunas de la <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>Regi&#xF3;n del Maule la declaraci&#xF3;n de zona afectada por cat&#xE1;strofe por incendios, en los mismos t&#xE9;rminos establecidos en el decreto N&#xBA; 83, de fecha 20 de enero de 2017, del Ministerio del Interior y Seguridad P&#xFA;blica.</div><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xDA;nico del Decreto 125, Interior, publicado el 22.03.2018, modifica la presente norma en el sentido de extender, por el lapso de seis meses contados desde el 23 de enero de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe, a la comuna de Constituci&#xF3;n, provincia de Talca, Regi&#xF3;n del Maule.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xDA;nico del Decreto 972, Interior, publicado el 18.08.2018, modifica la presente norma en el sentido de extender, por el lapso de seis meses contados desde el 23 de julio de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe, a la comuna de Constituci&#xF3;n, provincia de Talca, Regi&#xF3;n del Maule.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9764641,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Ampl&#xED;ese a <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>todas las comunas de la <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>Regi&#xF3;n del Maule la declaraci&#xF3;n de zona afectada por cat&#xE1;strofe por incendios, en los mismos t&#xE9;rminos establecidos en el decreto N&#xBA; 83, de fecha 20 de enero de 2017, del Ministerio del Interior y Seguridad P&#xFA;blica.</div><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xDA;nico del Decreto 125, Interior, publicado el 22.03.2018, modifica la presente norma en el sentido de extender, por el lapso de seis meses contados desde el 23 de enero de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe, a la comuna de Constituci&#xF3;n, provincia de Talca, Regi&#xF3;n del Maule.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xDA;nico del Decreto 972, Interior, publicado el 18.08.2018, modifica la presente norma en el sentido de extender, por el lapso de seis meses contados desde el 23 de julio de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe, a la comuna de Constituci&#xF3;n, provincia de Talca, Regi&#xF3;n del Maule.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Ampl&#xED;ese a <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>todas las comunas de la <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>Regi&#xF3;n del Maule la declaraci&#xF3;n de zona afectada por cat&#xE1;strofe por incendios, en los mismos t&#xE9;rminos <div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div>establecidos en el decreto N&#xBA; 83, de fecha 20 de enero de 2017, del Ministerio del Interior y Seguridad P&#xFA;blica.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xDA;nico del Decreto 125, Interior, publicado el 22.03.2018, modifica la presente norma en el sentido de extender, por el lapso de seis meses contados desde el 23 de enero de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe, a la comuna de Constituci&#xF3;n, provincia de Talca, Regi&#xF3;n del Maule.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xDA;nico del Decreto 972, Interior, publicado el 18.08.2018, modifica la presente norma en el sentido de extender, por el lapso de seis meses contados desde el 23 de julio de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe, a la comuna de Constituci&#xF3;n, provincia de Talca, Regi&#xF3;n del Maule.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto N&#xB0; 4, Vivienda, Publicado el 13.02.2019, prorroga por dos a&#xF1;os la vigencia de las disposiciones contenidas en el art&#xED;culo 116 bis D) del DFL N&#xBA; 458 (V. y U.), de 1975, Ley General de Urbanismo y Construcciones, en la Regi&#xF3;n del Maule, declarada zona afectada por cat&#xE1;strofe por la presente norma, en lo que resultare pertinente, a contar del vencimiento del plazo de dos a&#xF1;os contados desde la publicaci&#xF3;n del presente decreto.</div></div>"
+        }
+      ]
+    }
+  }
+]

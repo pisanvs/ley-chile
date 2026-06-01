@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-08-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-02-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7260220,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION No. 624, DE 1985 </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION No. 624, DE 1985</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

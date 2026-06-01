@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1963-11-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1984-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7275564,
+          "old": "<div><div class=\"p\">DEROGA EL DECRETO NUMERO 511, DE 1957, DEL MINISTERIO DE SALUD PUBLICA Y PREVISION SOCIAL, Y APRUEBA EL REGLAMENTO DE CALDERAS Y GENERADORES A VAPOR.</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 24 de Octubre de 1963.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 190.- Visto: el oficio N.o 17.419, de 1.o de Octubre del presente a&#xF1;o, del Servicio Nacional de Salud y dem&#xE1;s antecedentes adjuntos; lo dispuesto en el C&#xF3;digo Sanitario y en la ley N.o 10.383 y la facultad que me confiere el N.o 2 del Art. 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o.- Der&#xF3;gase el decreto N.o 511, de 10 de Mayo de 1957, del Ministerio de Salud P&#xFA;blica y Previsi&#xF3;n Social y sus modificaciones posteriores.</div><div class=\"p\">&nbsp; &nbsp;  2.o.- Apru&#xE9;base el siguiente reglamento de calderas y generadores a vapor:</div><br></div>",
+          "new": "<div><br><div class=\"p\">DEROGA EL DECRETO NUMERO 511, DE 1957, DEL MINISTERIO DE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> SALUD PUBLICA Y PREVISION SOCIAL, Y APRUEBA EL REGLAMENTO DE CALDERAS Y GENERADORES A VAPOR.</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 24 de Octubre de 1963.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 190.- Visto: el oficio N.o 17.419, de 1.o de Octubre del presente a&#xF1;o, del Servicio Nacional de Salud y dem&#xE1;s antecedentes adjuntos; lo dispuesto en el C&#xF3;digo Sanitario y en la ley N.o 10.383 y la facultad que me confiere el N.o 2 del Art. 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  1.o.- Der&#xF3;gase el decreto N.o 511, de 10 de Mayo de 1957, del Ministerio de Salud P&#xFA;blica y Previsi&#xF3;n Social y sus modificaciones posteriores.</div><div class=\"p\">&nbsp; &nbsp;  2.o.- Apru&#xE9;base el siguiente reglamento de calderas y generadores a vapor:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 49 del DTO 48, Salud P&#xFA;blica, publicado el 12.05.1984, derog&#xF3; la presente norma desde la fecha de entrada en vigencia de ella, esto es 180 d&#xED;as despu&#xE9;s de su publicaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

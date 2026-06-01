@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-07-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-11-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8964036,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Una vez iniciada la producci&#xF3;n de petr&#xF3;leo en el Area de Contrato, el Contratista comenzar&#xE1; a percibir del Estado una retribuci&#xF3;n mensual por sus servicios, la que ser&#xE1; pagadera en petr&#xF3;leo, y no podr&#xE1; ser superior a un setenta por ciento de la producci&#xF3;n de petr&#xF3;leo del Area de Contrato que est&#xE9; disponible en el punto de medici&#xF3;n final y entrega a que se refiere el art&#xED;culo 12&#xBA; de este decreto. Esta retribuci&#xF3;n ser&#xE1; determinada en funci&#xF3;n de la producci&#xF3;n de cada yacimiento y de una tarifa por el transporte que efect&#xFA;e el Contratista del petr&#xF3;leo que mantendr&#xE1; en su poder el Estado, hasta el mencionado punto de medici&#xF3;n final y entrega.</div><div class=\"p\">&nbsp; &nbsp;  En el caso del gas, se pagar&#xE1; una retribuci&#xF3;n mensual al Contratista si hubiere acuerdo de las partes para su comercializaci&#xF3;n. En tal caso la retribuci&#xF3;n ser&#xE1; pagadera en d&#xF3;lares de los Estados Unidos de Am&#xE9;rica, y no podr&#xE1; ser superior a un sesenta por ciento del valor del gas del Area de Contrato que est&#xE9; disponible para su comercializaci&#xF3;n en el punto de entrega y medici&#xF3;n final que se establezca en el Contrato, valorado en dicho punto al precio que acuerden las partes.</div><div class=\"p\">&nbsp; &nbsp;  En caso de producirse modificaciones a la legislaci&#xF3;n y reglamentaci&#xF3;n impositiva aduanera que signifiquen para el contratista un beneficio o un detrimento econ&#xF3;mico, el Estado y el Contratista podr&#xE1;n acordar una renegociaci&#xF3;n de la retribuci&#xF3;n que tenga por objeto mantener la condici&#xF3;n econ&#xF3;mica del Contratista previa a dichas modificaciones. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Una vez iniciada la producci&#xF3;n de petr&#xF3;leo en el Area de Contrato, el Contratista comenzar&#xE1; a percibir del Estado una retribuci&#xF3;n mensual por sus servicios, la que ser&#xE1; pagadera en petr&#xF3;leo, y no podr&#xE1; ser superior a un setenta por ciento de la producci&#xF3;n de petr&#xF3;leo del Area de Contrato que est&#xE9; disponible en el punto de medici&#xF3;n final y entrega a que se refiere el art&#xED;culo 12&#xBA; de este decreto. Esta retribuci&#xF3;n ser&#xE1; determinada en funci&#xF3;n de la producci&#xF3;n de cada yacimiento y de una tarifa por el transporte que efect&#xFA;e el Contratista del petr&#xF3;leo que mantendr&#xE1; en su poder el Estado, hasta el mencionado punto de medici&#xF3;n final y entrega. En el caso del gas, se pagar&#xE1; una retribuci&#xF3;n mensual al Contratista si hubiere acuerdo de las partes para su comercializaci&#xF3;n. En tal caso la retribuci&#xF3;n ser&#xE1; pagadera en d&#xF3;lares de los Estados Unidos de Am&#xE9;rica, y no podr&#xE1; ser superior a un sesenta por ciento del valor del gas del Area de Contrato que est&#xE9; disponible para su comercializaci&#xF3;n en el punto de entrega y medici&#xF3;n final que se establezca en el Contrato, valorado en dicho punto al precio que acuerden las partes. INCISO SUPRIMIDO<span class=\"n\" id=\"n_0\">DTO 131, MINERIA<br>Art. 1&#xB0;<br>D.O. 26.11.1988</span> </div></div>"
+        }
+      ]
+    }
+  }
+]

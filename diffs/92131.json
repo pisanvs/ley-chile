@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8321277,
+          "old": "<div><div class=\"p\">AUTORIZA DON HORACIO GRIFFERO MONTALBA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA DON HORACIO GRIFFERO MONTALBA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

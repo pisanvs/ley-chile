@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-04-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7292633,
+          "old": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE CENTRO DE FORMACION TECNICA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3 exento.- Santiago, 7 Enero de 1982.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el Centro de Formaci&#xF3;n T&#xE9;cnica &quot;Escuela de Administraci&#xF3;n&quot;, ex Instituto de Estudios Polit&#xE9;cnicos de Temuco, ha solicitado se autorice su funcionamiento por este Ministerio.</div><div class=\"p\">&nbsp; &nbsp;  Que formuladas las observaciones &#xE9;stas han sido subsanadas en tiempo y forma,</div><br><div class=\"p\">&nbsp; &nbsp;  Visto:</div><br><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en el Decreto Ley N&#xB0; 3.541 de 1980;</div><div class=\"p\">D.F.L. N&#xB0; 5 y N&#xB0; 24 de 1981, y en el art&#xED;culo 32, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE CENTRO DE FORMACION TECNICA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3 exento.- Santiago, 7 Enero de 1982.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el Centro de Formaci&#xF3;n T&#xE9;cnica &quot;Escuela de Administraci&#xF3;n&quot;, ex Instituto de Estudios Polit&#xE9;cnicos de Temuco, ha solicitado se autorice su funcionamiento por este Ministerio.</div><div class=\"p\">&nbsp; &nbsp;  Que formuladas las observaciones &#xE9;stas han sido subsanadas en tiempo y forma,</div><br><div class=\"p\">&nbsp; &nbsp;  Visto:</div><br><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en el Decreto Ley N&#xB0; 3.541 de 1980;</div><div class=\"p\">D.F.L. N&#xB0; 5 y N&#xB0; 24 de 1981, y en el art&#xED;culo 32, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

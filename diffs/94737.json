@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-06-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-06-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9001586,
+          "old": "<div><div class=\"p\">Art&#xED;culo 1&#xB0;: Autor&#xED;zase el funcionamiento al Centro de Formaci&#xF3;n T&#xE9;cnica Instituto del Mar Almirante Carlos Condell de Iquique, organizado por la Fundaci&#xF3;n Almirante Carlos Condell (Personalidad Jur&#xED;dica Decreto Supremo No. 385 de 1984 del Ministerio de Justicia), cuyo fin es la docencia a nivel t&#xE9;cnico, para egresados de ense&#xF1;anza media en el &#xE1;rea agropecuaria.</div><br></div>",
+          "new": "<div><div class=\"p\"> Art&#xED;culo primero: Autor&#xED;zase el funcionamiento del<span class=\"n\" id=\"n_0\">DTO 481, EXENTO<br>EDUCACION<br>D.O. 27.06.1997</span> Centro de Formaci&#xF3;n T&#xE9;cnica que se indica, organizado por la persona jur&#xED;dica que se se&#xF1;ala, cuyo fin es la docencia a nivel t&#xE9;cnico para egresados de ense&#xF1;anza media:</div><div class=\"p\"> Nombre de la Instituci&#xF3;n : Centro de Formaci&#xF3;n T&#xE9;cnica</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Almirante Carlos Condell.</div><div class=\"p\">Domicilio&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Iquique.</div><div class=\"p\">Organizador&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Sociedad Centro de Formaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  T&#xE9;cnica Almirante Carlos</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Condell Limitada o C.F.T.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Carlos Condell Ltda.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

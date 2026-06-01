@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-07-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-07-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9047133,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Decl&#xE1;rase de utilidad p&#xFA;blica y autor&#xED;zase la expropiaci&#xF3;n de los bienes y derechos de cualquier naturaleza, que sean necesarios para que la Corporaci&#xF3;n Nacional del Cobre de Chile construya un sistema de disposici&#xF3;n de relaves provenientes de la explotaci&#xF3;n del Mineral El Salvador, ubicado en la provincia de Cha&#xF1;aral, Tercera Regi&#xF3;n de Atacama, sea que la conducci&#xF3;n de esos relaves se valga de cauces naturales, artificiales o de ambos, o bien, requiera efectuar la modificaci&#xF3;n o desv&#xED;o de esos cauces y con ello se afecten derechos de particulares.</div><div class=\"p\">&nbsp; &nbsp; Las expropiaciones se har&#xE1;n efectiva a trav&#xE9;s del Ministerio de Miner&#xED;a, mediante la expedici&#xF3;n de uno o m&#xE1;s decretos supremos y se llevar&#xE1; a efecto para y con cargo a la Corporaci&#xF3;n Nacional del Cobre de Chile. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Decl&#xE1;rase de utilidad p&#xFA;blica y autor&#xED;zase la expropiaci&#xF3;n de los bienes y derechos de cualquier naturaleza, que sean necesarios para que la Corporaci&#xF3;n Nacional del Cobre de Chile construya un sistema de disposici&#xF3;n de relaves provenientes de la explotaci&#xF3;n del Mineral El Salvador, ubicado en la provincia de Cha&#xF1;aral, Tercera Regi&#xF3;n de Atacama, sea que la conducci&#xF3;n de esos relaves se valga de cauces naturales, artificiales o de ambos, o bien, requiera efectuar la modificaci&#xF3;n o desv&#xED;o de esos cauces y con ello se afecten derechos de particulares.</div><div class=\"p\">&nbsp; &nbsp; Las expropiaciones se har&#xE1;n efectivas a trav&#xE9;s del<span class=\"n\" id=\"n_0\">RECT.<br>D. OFICIAL<br>14-JULIO-89</span> Ministerio de Miner&#xED;a, mediante la expedici&#xF3;n de uno o m&#xE1;s decretos supremos y se llevar&#xE1; a efecto para y con cargo a la Corporaci&#xF3;n Nacional del Cobre de Chile</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-01-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10087711,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;zcase como dotaci&#xF3;n m&#xE1;xima de Ingreso de alumnos a primer a&#xF1;o de formaci&#xF3;n para el curso de Oficiales Policiales Profesionales de L&#xED;nea, en la Escuela de Investigaciones Policiales, de la Polic&#xED;a de Investigaciones de Chile, para el a&#xF1;o 2020, la cantidad de hasta ciento quince (115) aspirantes.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;zcase como dotaci&#xF3;n m&#xE1;xima de Ingreso de alumnos a primer a&#xF1;o de formaci&#xF3;n para el curso de Oficiales Policiales Profesionales de L&#xED;nea, en la Escuela de Investigaciones Policiales, de la Polic&#xED;a de Investigaciones de Chile, para el a&#xF1;o 2020, la cantidad de hasta ci<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>ento quince (115) aspirantes.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 62, Interior, publicado el 25.01.2021, modifica la presente norma en el sentido de aumentar la dotaci&#xF3;n en 65 alumnos, ascendiendo a un total de 180 vacantes de aspirantes de primer a&#xF1;o a la Escuela de Investigaciones Policiales &quot;Arturo Alessandri Palma&quot;, de la Polic&#xED;a de Investigaciones de Chile.</div></div>"
+        }
+      ]
+    }
+  }
+]

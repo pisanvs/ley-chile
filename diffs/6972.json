@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1979-05-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1980-09-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9036892,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- Autor&#xED;zase al Comandante en Jefe de la Fuerza A&#xE9;rea de Chile para que directamente o por la autoridad institucional que &#xE9;l designe, proceda a donar a la Instituci&#xF3;n &quot;Confederate Air Force&quot;, de Houston, Texas, Estados Unidos de Norteam&#xE9;rica, todo o parte del siguiente material: Avi&#xF3;n modelo C, tipo B-26, N&#xB0; 842, serie N&#xB0; 43-22728, con su inventario completo, de acuerdo al D.I.N. 210; dado de baja por resoluci&#xF3;n N&#xB0; E 283, de 31 de Enero de 1973.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0; Autor&#xED;zase al Comandante en Jefe de la Fuerza A&#xE9;rea de Chile para que directamente o por la autoridad institucional que &#xE9;l designe, proceda a donar a la Instituci&#xF3;n &quot;Confederate Air Force&quot;, de Houston, Texas, Estados Unidos de Norteam&#xE9;rica, todo o parte del<span class=\"n\" id=\"n_0\">DL 3447,1980</span> siguiente material:</div><div class=\"p\">&nbsp; &nbsp; Avi&#xF3;n modelo C, tipo B-26, N&#xB0; 846, serie N&#xB0;<span class=\"n\" id=\"n_1\">ART 3&#xB0;</span> 44-35937, con su inventario completo, de acuerdo al D.I.N. 210; dado de baja por resoluci&#xF3;n N&#xB0; E 283, de 31 de enero de 1973.</div><br></div>"
+        },
+        {
+          "part_id": 9036893,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- La presente donaci&#xF3;n estar&#xE1; exenta del tr&#xE1;mite de insinuaci&#xF3;n y de todo impuesto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; La presente donaci&#xF3;n estar&#xE1; exenta del tr&#xE1;mite de insinuaci&#xF3;n y de todo impuesto.</div><br></div>"
+        },
+        {
+          "part_id": 9036894,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en el Bolet&#xED;n Oficial de la Fuerza A&#xE9;rea de Chile y en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea.- Ra&#xFA;l Benavides Escobar, Teniente General, Ministro de Defensa Nacional.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Enzo di Nocera Garc&#xED;a, Coronel de Aviaci&#xF3;n (A), Subsecretario de Aviaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en el Bolet&#xED;n Oficial de la Fuerza A&#xE9;rea de Chile y en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- CESAR MENDOZA DURAN.- FERNANDO MATTHEI AUBEL.-</div><div class=\"p\">Ra&#xFA;l Benavides.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

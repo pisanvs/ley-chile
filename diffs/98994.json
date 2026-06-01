@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-05-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-04-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6110680,
+          "old": "<div><div class=\"p\">DESIGNA INTEGRANTE DE COMISION&nbsp; RESOLUTIVA A PERSONA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 136 exento.- Santiago, 6 de mayo de 1998.- Vistos: Lo dispuesto en la letra c) del art&#xED;culo 16&#xBA;, del decreto ley N&#xBA;211, de 1973; y el decreto exento de Hacienda N&#xBA;52, de 1996, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA INTEGRANTE DE COMISION&nbsp; RESOLUTIVA A PERSONA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 136 exento.- Santiago, 6 de mayo de 1998.- Vistos: Lo dispuesto en la letra c) del art&#xED;culo 16&#xBA;, del decreto ley N&#xBA;211, de 1973; y el decreto exento de Hacienda N&#xBA;52, de 1996, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

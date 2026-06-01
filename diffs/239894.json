@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2005-07-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-07-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7321535,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 1.201 EXENTA, DE 2005 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 1.201 EXENTA, DE 2005 </div><br></div>"
+        },
+        {
+          "part_id": 7321536,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n exenta N&#xBA; 1.201, de 24 de junio de 2005, del Servicio Nacional de Capacitaci&#xF3;n y Empleo, deja sin efecto la cancelaci&#xF3;n de inscripci&#xF3;n en el Registro Nacional del organismo t&#xE9;cnico de capacitaci&#xF3;n &quot;Centro Internacional Personalizado de Extensi&#xF3;n Cultural S.A.&quot; RUT. 96.716.470-4, contenida en resoluci&#xF3;n exenta N&#xBA; 01056, de 3 de marzo de 1995. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n exenta N&#xBA; 1.201, de 24 de junio de 2005, del Servicio Nacional de Capacitaci&#xF3;n y Empleo, se cancela la autorizaci&#xF3;n otorgada al organismo t&#xE9;cnico<span class=\"n\" id=\"n_0\">AVI S/N,<br>S. NAC. DE CAP.<br>D.O. 11.07.2005</span> de capacitaci&#xF3;n &quot;Centro Internacional Personalizado de Extensi&#xF3;n Cultural S.A.&quot; (CIPEC S.A.), RUT N&#xBA; 96.716.470-4, cancel&#xE1;ndose su inscripci&#xF3;n en el Registro Nacional correspondiente, atendido lo dispuesto en la letra a) del art&#xED;culo 77 de la ley N&#xBA; 19.518.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

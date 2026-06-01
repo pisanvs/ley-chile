@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-03-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6255644,
+          "old": "<div><div class=\"p\">EXTRACTOS DE RESOLUCIONES N&#xB0;s. 192 EXENTA, DE 1999, Y 21 EXENTA, DE 2000 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTOS DE RESOLUCIONES N&#xB0;s. 192 EXENTA, DE 1999, Y 21 EXENTA, DE 2000</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1992-08-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-11-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8946370,
+          "old": "<div><div class=\"p\">Art&#xED;culo 1&#xB0;.- Decl&#xE1;rase en R&#xE9;gimen de Pesquer&#xED;as en Desarrollo Incipiente a la Unidad de Pesquer&#xED;a de la especie bacalao de profundidad, (Dissostichus eleginoides), en el &#xE1;rea comprendida entre los paralelos 47&#xB0; L.S. y 57&#xB0; L.S., desde el l&#xED;mite este fijado por las l&#xED;neas de base rectas hasta el l&#xED;mite correspondiente a la l&#xED;nea paralela imaginaria trazada a una distancia de 70 millas marinas medidas desde las l&#xED;neas de base rectas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Decl&#xE1;rase en R&#xE9;gimen de Pesquer&#xED;as en Desarrollo Incipiente a la Unidad de Pesquer&#xED;a de la especie bacalao de profundidad, (Dissostichus eleginoides), en el &#xE1;rea de las aguas jurisdiccionales mar&#xED;timas nacionales<span class=\"n\" id=\"n_0\">DTO 519, ECONOMIA<br><br>D.O. 30.11.2000</span> comprendida entre los paralelos 47&#xB0; L.S. y 57&#xB0; L.S., desde Art. 1&#xBA; el l&#xED;mite fijado por las l&#xED;neas de base rectas hasta la l&#xED;nea imaginaria trazada a una distancia de 70 millas marinas. Quedar&#xE1;n excluidas de la unidad de pesquer&#xED;a, las aguas comprendidas entre la Boca Occidental (cerrada por los puntos N&#xBA; 31 y N&#xBA; 56 de las l&#xED;neas de base rectas) y la Boca Oriental del Estrecho de Magallanes (cerrada por el l&#xED;mite internacional mar&#xED;timo entre Chile y Argentina). </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2001-09-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8946370,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Decl&#xE1;rase en R&#xE9;gimen de Pesquer&#xED;as en Desarrollo Incipiente a la Unidad de Pesquer&#xED;a de la especie bacalao de profundidad, (Dissostichus eleginoides), en el &#xE1;rea de las aguas jurisdiccionales mar&#xED;timas nacionales<span class=\"n\" id=\"n_0\">DTO 519, ECONOMIA<br><br>D.O. 30.11.2000</span> comprendida entre los paralelos 47&#xB0; L.S. y 57&#xB0; L.S., desde Art. 1&#xBA; el l&#xED;mite fijado por las l&#xED;neas de base rectas hasta la l&#xED;nea imaginaria trazada a una distancia de 70 millas marinas. Quedar&#xE1;n excluidas de la unidad de pesquer&#xED;a, las aguas comprendidas entre la Boca Occidental (cerrada por los puntos N&#xBA; 31 y N&#xBA; 56 de las l&#xED;neas de base rectas) y la Boca Oriental del Estrecho de Magallanes (cerrada por el l&#xED;mite internacional mar&#xED;timo entre Chile y Argentina). </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Decl&#xE1;rase en R&#xE9;gimen de Pesquer&#xED;as en Desarrollo Incipiente a la Unidad de Pesquer&#xED;a de la especie bacalao de profundidad, (Dissostichus eleginoides), en el &#xE1;rea de las aguas jurisdiccionales<span class=\"n\" id=\"n_0\">DTO 322, ECONOMIA<br>Art. 1<br>D.O. 20.09.2001</span> mar&#xED;timas nacionales comprendida entre el paralelo 47&#xBA; L.S. y el l&#xED;mite sur de la Zona Econ&#xF3;mica Exclusiva en la XII Regi&#xF3;n, exclu&#xED;das las correspondientes aguas interiores. Quedar&#xE1;n excluidas de la unidad de pesquer&#xED;a, las aguas comprendidas entre la Boca Occidental (cerrada por los puntos N&#xBA; 31 y N&#xBA; 56 de las l&#xED;neas de base rectas) y la Boca Oriental del Estrecho de Magallanes (cerrada por el l&#xED;mite internacional mar&#xED;timo entre Chile y Argentina). </div></div>"
+        }
+      ]
+    }
+  }
+]

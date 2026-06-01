@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-02-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6103497,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xBA;. 363, DE 1990 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xBA;. 363, DE 1990</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

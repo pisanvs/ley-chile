@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-10-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-12-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8299553,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA REALIZACION DE RIFA A CONFERENCIA &quot;SAN VICENTE DE PAUL&quot;, DE IQUIQUE</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 450 exenta.- Iquique, 4 de Agosto de 1995.- Vistos: Lo solicitado por la Conferencia &quot;San Vicente de Paul&quot; sostenedora del ex Hogar de Ancianos &quot;Padre Machado&quot;, en carta de fecha, 20.07.95; lo dispuesto en los Decretos del Interior N&#xB0; 955, de 03.06.74; N&#xB0; 1.309, de 12.08.74, modificatorio del anterior; y N&#xB0; 969, de 29.07.75; el DFL N&#xB0; 22, de 1959, Ley de R&#xE9;gimen Interior; la Resoluci&#xF3;n N&#xB0; 55, de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica y en uso de las facultades que me confiere el Art. 5&#xB0; del D.L. 575, de 1974, R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA REALIZACION DE RIFA A CONFERENCIA &quot;SAN VICENTE DE PAUL&quot;, DE IQUIQUE</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 450 exenta.- Iquique, 4 de Agosto de 1995.- Vistos: Lo solicitado por la Conferencia &quot;San Vicente de Paul&quot; sostenedora del ex Hogar de Ancianos &quot;Padre Machado&quot;, en carta de fecha, 20.07.95; lo dispuesto en los Decretos del Interior N&#xB0; 955, de 03.06.74; N&#xB0; 1.309, de 12.08.74, modificatorio del anterior; y N&#xB0; 969, de 29.07.75; el DFL N&#xB0; 22, de 1959, Ley de R&#xE9;gimen Interior; la Resoluci&#xF3;n N&#xB0; 55, de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica y en uso de las facultades que me confiere el Art. 5&#xB0; del D.L. 575, de 1974, R e s u e l v o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

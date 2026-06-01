@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-11-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-04-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7287573,
+          "old": "<div><div class=\"p\">AUTORIZA A VEHICULOS DEL SERVICIO NACIONAL DE ADUANAS PARA CIRCULAR EN DIAS QUE INDICA QUE INDICA Y LOS EXCEPTUA DE LLEVAR DISCO DISTINTIVO ESTATAL</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 355.- Santiago, 2 de agosto de 2001.- Vistos: estos antecedentes, el decreto ley N&#xBA; 799, de 1974, la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica; el decreto supremo de Interior N&#xBA; 654, de 17 de mayo de 1994; los oficios Ords. N&#xBA;s. 1.649, de 10.02.2001 y 7.224 de 23 de julio de 2001, del Servicio Nacional de Aduanas, y,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, en atenci&#xF3;n a los requerimientos del uso para lo cual son asignados, es necesario exceptuar a los veh&#xED;culos del Servicio Nacional de Aduanas de llevar pintado el distintivo estatal y autorizarlos para circular los d&#xED;as s&#xE1;bado en la tarde, domingo y festivos, por razones inherentes a los cometidos que llevar&#xE1;n a efecto, tales como:</div><br><div class=\"p\">-&nbsp; &nbsp; Traslado de funcionarios a las aduanas</div><div class=\"p\">&nbsp; &nbsp;  fronterizas, aeropuerto, etc.</div><div class=\"p\">-&nbsp; &nbsp; Inspecciones y fiscalizaciones ordenadas por la Jefatura.</div><div class=\"p\">-&nbsp; &nbsp; Vigilancia y fiscalizaci&#xF3;n del paso de mercanc&#xED;as por las costas, fronteras y aeropuertos de la Rep&#xFA;blica, contribuyendo a combatir con m&#xE1;s eficiencia el comercio de narc&#xF3;ticos y estupefacientes a nivel mundial, en colaboraci&#xF3;n con las Instituciones Policiales,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A VEHICULOS DEL SERVICIO NACIONAL DE ADUANAS PARA CIRCULAR EN DIAS QUE INDICA QUE INDICA Y LOS EXCEPTUA DE LLEVAR DISCO DISTINTIVO ESTATAL</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 355.- Santiago, 2 de agosto de 2001.- Vistos: estos antecedentes, el decreto ley N&#xBA; 799, de 1974, la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica; el decreto supremo de Interior N&#xBA; 654, de 17 de mayo de 1994; los oficios Ords. N&#xBA;s. 1.649, de 10.02.2001 y 7.224 de 23 de julio de 2001, del Servicio Nacional de Aduanas, y,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, en atenci&#xF3;n a los requerimientos del uso para lo cual son asignados, es necesario exceptuar a los veh&#xED;culos del Servicio Nacional de Aduanas de llevar pintado el distintivo estatal y autorizarlos para circular los d&#xED;as s&#xE1;bado en la tarde, domingo y festivos, por razones inherentes a los cometidos que llevar&#xE1;n a efecto, tales como:</div><br><div class=\"p\">-&nbsp; &nbsp; Traslado de funcionarios a las aduanas</div><div class=\"p\">&nbsp; &nbsp;  fronterizas, aeropuerto, etc.</div><div class=\"p\">-&nbsp; &nbsp; Inspecciones y fiscalizaciones ordenadas por la Jefatura.</div><div class=\"p\">-&nbsp; &nbsp; Vigilancia y fiscalizaci&#xF3;n del paso de mercanc&#xED;as por las costas, fronteras y aeropuertos de la Rep&#xFA;blica, contribuyendo a combatir con m&#xE1;s eficiencia el comercio de narc&#xF3;ticos y estupefacientes a nivel mundial, en colaboraci&#xF3;n con las Instituciones Policiales,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

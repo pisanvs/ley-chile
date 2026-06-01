@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-06-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-08-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10339929,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;.- El plazo de construcci&#xF3;n de las obras, desde el inicio de los trabajos hasta la terminaci&#xF3;n total de las obras ser&#xE1; de 8 meses. El plazo de 8 meses comenzar&#xE1; a transcurrir cumplidos 90 d&#xED;as h&#xE1;biles desde la reducci&#xF3;n a escritura p&#xFA;blica del presente decreto, sin perjuicio que los trabajos podr&#xE1;n iniciarse con anterioridad a dicha fecha, en el evento de contar con todas las autorizaciones y derechos que habiliten para ello. Los plazos para la iniciaci&#xF3;n de los trabajos y su terminaci&#xF3;n por etapas y secciones son los siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149556.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;.- El<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1206060&amp;idParte=10513656&amp;idVersion=2024-08-22\">Decreto 153 EXENTO,<br>ENERG&#xCD;A<br>1&#xB0;<br>D.O. 22.08.2024</a></span> plazo de construcci&#xF3;n de las obras, desde el inicio de los trabajos hasta la terminaci&#xF3;n total de las obras ser&#xE1; de 35 meses. El plazo de 35 meses comenzar&#xE1; a transcurrir cumplidos 90 d&#xED;as h&#xE1;biles desde la reducci&#xF3;n a escritura p&#xFA;blica del presente decreto, sin perjuicio que los trabajos podr&#xED;an iniciarse con anterioridad a dicha fecha, en el evento de contar con todas las autorizaciones y derechos que habiliten para ello. Los plazos para la iniciaci&#xF3;n de los trabajos y su terminaci&#xF3;n por etapas y secciones son los siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/186273.jpg\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1206060,
+      "fecha": "2024-08-22"
+    }
+  }
+]

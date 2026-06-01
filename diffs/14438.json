@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-07-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5917224,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA A LA ENTIDAD DENOMINADA &quot;IGLESIA MESIANICA MUNDIAL, SEKAI KYUSEI KYO, DEL JAPON PARA AMERICA LATINA&quot;, PARA DESARROLLAR ACTIVIDADES EN EL PAIS Santiago, 26 de mayo de 1993.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; Num. 585.- Vistos: estos antecedentes, lo dispuesto en el art&#xED;culo 32, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; en el Decreto Supremo de Justicia N&#xB0; 924, de 1981; en el art&#xED;culo 34 del Decreto Reglamentario N&#xB0; 110, publicado en el Diario Oficial de 20 de marzo de 1979 y lo informado por el Sr. Intendente de la Regi&#xF3;n Metropolitana, por el Sr. Subsecretario de Relaciones Exteriores y por el Consejo de Defensa del Estado, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA ENTIDAD DENOMINADA &quot;IGLESIA MESIANICA MUNDIAL, SEKAI KYUSEI KYO, DEL JAPON PARA AMERICA LATINA&quot;, PARA DESARROLLAR ACTIVIDADES EN EL PAIS </div><div class=\"p\">&nbsp; &nbsp; Santiago, 26 de mayo de 1993.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; Num. 585.- Vistos: estos antecedentes, lo dispuesto en el art&#xED;culo 32, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; en el Decreto Supremo de Justicia N&#xB0; 924, de 1981; en el art&#xED;culo 34 del Decreto Reglamentario N&#xB0; 110, publicado en el Diario Oficial de 20 de marzo de 1979 y lo informado por el Sr. Intendente de la Regi&#xF3;n Metropolitana, por el Sr. Subsecretario de Relaciones Exteriores y por el Consejo de Defensa del Estado, </div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-05-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-10-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7241326,
+          "old": "<div><div class=\"p\">COMPLEMENTA RESOLUCION No. 266, DE 1986</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 19 de Abril de 1989.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 103.- Visto: El DS No. 62 (V. y U.), de 1984, que reglamenta el sistema de postulaci&#xF3;n, asignaci&#xF3;n y venta de viviendas destinadas a atender situaciones de marginalidad habitacional, y en especial lo dispuesto en su art&#xED;culo 21 letra b); el T&#xED;tulo II del DS No. 92 (V. y U.), de 1984, que regula el sistema especial de Subsidio Habitacional dirigido a la atenci&#xF3;n de situaciones de extrema marginalidad habitacional urbana, y en especial lo dispuesto en su art&#xED;culo 43; las resoluciones No. 255 y No. 256, de 1984, y la resoluci&#xF3;n No. 266, de 1986, todas de Vivienda y Urbanismo, que fijaron el l&#xED;mite m&#xE1;ximo del Subsidio Habitacional contemplado en los decretos antes mencionados, para las regiones XI y XII, y Considerando:</div><div class=\"p\">&nbsp; &nbsp;  a) Que los mayores costos de construcci&#xF3;n en algunas localidades, justifican que los beneficiarios concurran a financiamiento de la vivienda con un mayor aporte, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA RESOLUCION No. 266, DE 1986</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 19 de Abril de 1989.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 103.- Visto: El DS No. 62 (V. y U.), de 1984, que reglamenta el sistema de postulaci&#xF3;n, asignaci&#xF3;n y venta de viviendas destinadas a atender situaciones de marginalidad habitacional, y en especial lo dispuesto en su art&#xED;culo 21 letra b); el T&#xED;tulo II del DS No. 92 (V. y U.), de 1984, que regula el sistema especial de Subsidio Habitacional dirigido a la atenci&#xF3;n de situaciones de extrema marginalidad habitacional urbana, y en especial lo dispuesto en su art&#xED;culo 43; las resoluciones No. 255 y No. 256, de 1984, y la resoluci&#xF3;n No. 266, de 1986, todas de Vivienda y Urbanismo, que fijaron el l&#xED;mite m&#xE1;ximo del Subsidio Habitacional contemplado en los decretos antes mencionados, para las regiones XI y XII, y Considerando:</div><div class=\"p\">&nbsp; &nbsp;  a) Que los mayores costos de construcci&#xF3;n en algunas localidades, justifican que los beneficiarios concurran a financiamiento de la vivienda con un mayor aporte, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

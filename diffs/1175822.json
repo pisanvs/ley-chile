@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-05-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10332375,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;bese proyecto &quot;Enmienda al Plan Regulador, localidad de Horc&#xF3;n, comuna de Puchuncav&#xED;&quot;, desarrollado y gestionado por la Municipalidad de Puchuncav&#xED; a trav&#xE9;s de la Secretar&#xED;a Comunal de Planificaci&#xF3;n, comprendiendo la localidad urbana de Horc&#xF3;n y modificando una fracci&#xF3;n de zona Z4 a Z4a, de los terrenos en que se emplazar&#xE1; el proyecto de viviendas sociales Comit&#xE9; Santa Ana I, aumentando en un 30% su ocupaci&#xF3;n de suelo.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en el Diario Oficial de la Rep&#xFA;blica de Chile el presente decreto alcaldicio y la ordenanza local de proyecto &quot;Enmienda al Plan Regulador, localidad de Horc&#xF3;n, comuna de Puchuncav&#xED;&quot;.</div><div class=\"p\">&nbsp; &nbsp;  3.- Adj&#xFA;ntese la presente modificaci&#xF3;n del plano PRCP N&#xBA; 3, la ordenanza local y la memoria explicativa de la presente enmienda, al Plan Regulador Comunal de Puchuncav&#xED;, aprobado mediante decreto alcaldicio N&#xBA; 1.576, de fecha 28.08.2009.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;bese proyecto &quot;Enmienda al Plan Regulador, localidad de Horc&#xF3;n, comuna de Puchuncav&#xED;&quot;, desarrollado y gestionado por la Municipalidad de Puchuncav&#xED; a trav&#xE9;s de la Secretar&#xED;a Comunal de Planificaci&#xF3;n, comprendiendo la localidad urbana de Horc&#xF3;n y modificando una fracci&#xF3;n de zona Z4 a Z4a, de los terrenos en que se emplazar&#xE1; el proyecto de viviendas sociales Comit&#xE9; Santa Ana I, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187394&amp;idParte=10394882&amp;idVersion=2023-01-06\">Decreto 1465,<br>M. DE PUCHUNCAVI<br>N&#xB0; 1<br>D.O. 06.01.2023</a></span>incrementando en un 20% la densidad.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en el Diario Oficial de la Rep&#xFA;blica de Chile el presente decreto alcaldicio y la ordenanza local de proyecto &quot;Enmienda al Plan Regulador, localidad de Horc&#xF3;n, comuna de Puchuncav&#xED;&quot;.</div><div class=\"p\">&nbsp; &nbsp;  3.- Adj&#xFA;ntese la presente modificaci&#xF3;n del plano PRCP N&#xBA; 3, la ordenanza local y la memoria explicativa de la presente enmienda, al Plan Regulador Comunal de Puchuncav&#xED;, aprobado mediante decreto alcaldicio N&#xBA; 1.576, de fecha 28.08.2009.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1187394,
+      "fecha": "2023-01-06"
+    }
+  }
+]

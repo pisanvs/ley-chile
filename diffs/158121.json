@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-05-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-12-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6240886,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 150, DE 1986 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 150, DE 1986 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

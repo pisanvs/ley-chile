@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-09-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-07-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8429889,
+          "old": "<div><div class=\"p\">ESTABLECE PROCEDIMIENTO PARA EXIMIR DEL CONTROL DE CALIDAD A REALIZAR EN CHILE DE PRODUCTOS COSMETICOS IMPORTADOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 7.270 exenta.- Santiago, 25 de agosto de 2005.- Vistos estos antecedentes, lo dispuesto en el art&#xED;culo 56 del Reglamento del Sistema Nacional de Control de Cosm&#xE9;ticos; decreto supremo 239 de 2002, que permite eximir del control de calidad en Chile a los productos importados, validando el control de calidad efectuado en el pa&#xED;s de origen,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: La necesidad de implementar un procedimiento &#xE1;gil y expedito, sin perjuicio de la facultad que tiene el Instituto de Salud P&#xFA;blica de realizar un control en el mercado de productos cosm&#xE9;ticos de acuerdo a lo se&#xF1;alado en el t&#xED;tulo V, art&#xED;culo 50&#xBA;, letra e) del DS 239/02.</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Las disposiciones de los art&#xED;culos 94 y 102 del C&#xF3;digo Sanitario, del Reglamento del Sistema Nacional de Control de Cosm&#xE9;ticos DS 239 de 2002, del Ministerio de Salud, y en uso de las facultades que me confiere la letra b) del art&#xED;culo 39 del decreto ley N&#xBA; 2.763 de 1979, dicto la siguiente, </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE PROCEDIMIENTO PARA EXIMIR DEL CONTROL DE CALIDAD A REALIZAR EN CHILE DE PRODUCTOS COSMETICOS IMPORTADOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 7.270 exenta.- Santiago, 25 de agosto de 2005.- Vistos estos antecedentes, lo dispuesto en el art&#xED;culo 56 del Reglamento del Sistema Nacional de Control de Cosm&#xE9;ticos; decreto supremo 239 de 2002, que permite eximir del control de calidad en Chile a los productos importados, validando el control de calidad efectuado en el pa&#xED;s de origen,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: La necesidad de implementar un procedimiento &#xE1;gil y expedito, sin perjuicio de la facultad que tiene el Instituto de Salud P&#xFA;blica de realizar un control en el mercado de productos cosm&#xE9;ticos de acuerdo a lo se&#xF1;alado en el t&#xED;tulo V, art&#xED;culo 50&#xBA;, letra e) del DS 239/02.</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Las disposiciones de los art&#xED;culos 94 y 102 del C&#xF3;digo Sanitario, del Reglamento del Sistema Nacional de Control de Cosm&#xE9;ticos DS 239 de 2002, del Ministerio de Salud, y en uso de las facultades que me confiere la letra b) del art&#xED;culo 39 del decreto ley N&#xBA; 2.763 de 1979, dicto la siguiente, </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

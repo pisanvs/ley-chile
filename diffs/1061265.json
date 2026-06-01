@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2014-04-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-08-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9430226,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: El Consejo ser&#xE1; presidido por la Ministra Secretaria General de la Presidencia y estar&#xE1; integrado por los siguientes ministros:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1) La Ministra de Desarrollo Social.</div><div class=\"p\">&nbsp; &nbsp;  2) El Ministro de Justicia.</div><div class=\"p\">&nbsp; &nbsp;  3) El Ministro de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4) La Ministra de Salud.</div><div class=\"p\">&nbsp; &nbsp;  5) El Ministro de Hacienda, y</div><div class=\"p\">&nbsp; &nbsp;  6) La Ministra Directora del Servicio Nacional de la Mujer.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, participar&#xE1;n como invitados permanentes del Consejo la Subsecretaria del Ministerio Secretar&#xED;a General de la Presidencia; el Subsecretario de Vivienda y Urbanismo; la Subsecretaria del Deporte; el Director de Presupuestos y el Director del Servicio Nacional de Menores.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, el Consejo podr&#xE1; invitar a participar en una o m&#xE1;s sesiones, a otros funcionarios de la Administraci&#xF3;n del Estado, u otras autoridades p&#xFA;blicas, as&#xED; como a personalidades de reconocida competencia en los &#xE1;mbitos pol&#xED;tico, social, cient&#xED;fico o acad&#xE9;mico, funcionarios p&#xFA;blicos de alto nivel, expertos o personas, nacionales o extranjeras, vinculados al cuidado y protecci&#xF3;n de los ni&#xF1;os, ni&#xF1;as y adolescentes.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1065726&amp;idParte=9499619&amp;idVersion=2014-08-25\">Decreto 90,<br>SEC, GRAL. PRES.<br>Art. &#xDA;NICO<br>D.O. 25.08.2014</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Cuarto: El Consejo ser&#xE1; presidido por la Ministra Secretaria General de la Presidencia y estar&#xE1; integrado por los siguientes ministros:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1) El Ministro de Hacienda,</div><div class=\"p\">&nbsp; &nbsp;  2) La Ministra de Desarrollo Social,</div><div class=\"p\">&nbsp; &nbsp;  3) El Ministro de Educaci&#xF3;n,</div><div class=\"p\">&nbsp; &nbsp;  4) El Ministro de Justicia,</div><div class=\"p\">&nbsp; &nbsp;  5) La Ministra del Trabajo y Previsi&#xF3;n Social,</div><div class=\"p\">&nbsp; &nbsp;  6) La Ministra de Salud,</div><div class=\"p\">&nbsp; &nbsp;  7) La Ministra Directora del Servicio Nacional de la Mujer, y</div><div class=\"p\">&nbsp; &nbsp;  8) La Ministra Presidenta del Consejo Nacional de la Cultura y las Artes.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, participar&#xE1;n como invitados permanentes del Consejo, la Subsecretaria del Ministerio Secretar&#xED;a General de la Presidencia; el Subsecretario de Vivienda y Urbanismo; la Subsecretaria del Deporte; el Director de Presupuestos y el Director del Servicio Nacional de Menores.</div><div class=\"p\">&nbsp; &nbsp;  Se invitar&#xE1; a participar como invitados permanentes a los Presidentes de la Comisi&#xF3;n de Constituci&#xF3;n, Legislaci&#xF3;n, Justicia y Reglamento del Senado y de la Comisi&#xF3;n de Constituci&#xF3;n, Legislaci&#xF3;n y Justicia de la C&#xE1;mara de Diputados, as&#xED; como al Presidente de la Corte Suprema y al Fiscal Nacional del Ministerio P&#xFA;blico, pudiendo estos dos &#xFA;ltimos designar un representante.</div><div class=\"p\">&nbsp; &nbsp;  El Consejo invitar&#xE1; a sus sesiones en forma permanente a dos representantes de organizaciones de la sociedad civil vinculadas a la defensa y/o promoci&#xF3;n de los derechos de los ni&#xF1;os, ni&#xF1;as y adolescentes. Estos representantes ser&#xE1;n elegidos por las propias organizaciones. Se considerar&#xE1; para estos efectos a organizaciones que cuenten con personalidad jur&#xED;dica sin fines de lucro con a lo menos 5 a&#xF1;os de antig&#xFC;edad, que en sus estatutos contemplen dentro de sus objetivos la defensa y/o promoci&#xF3;n de los derechos de la infancia y adolescencia y que acrediten experiencia en este &#xE1;mbito de a lo menos 3 a&#xF1;os.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, el Consejo podr&#xE1; invitar a participar a otros funcionarios de la Administraci&#xF3;n del Estado, u otras autoridades p&#xFA;blicas, as&#xED; como a personalidades de reconocida competencia en los &#xE1;mbitos pol&#xED;tico, social, cient&#xED;fico o acad&#xE9;mico, funcionarios p&#xFA;blicos de alto nivel, expertos o personas, nacionales o extranjeras, vinculados al cuidado y protecci&#xF3;n de los ni&#xF1;os, ni&#xF1;as y adolescentes. As&#xED; tambi&#xE9;n, y seg&#xFA;n las materias que se conozcan en sus sesiones, podr&#xE1; invitar a los Presidentes de otras Comisiones del Senado y la C&#xE1;mara, distintas a las mencionadas anteriormente.</div><div class=\"p\">&nbsp; &nbsp;  Todos los invitados al Consejo tendr&#xE1;n derecho a voz, pudiendo hacer las sugerencias que estimen pertinentes y formular las observaciones y proposiciones a los programas y proyectos del Consejo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1065726,
+      "fecha": "2014-08-25"
+    }
+  },
+  {
+    "fecha": "2019-05-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

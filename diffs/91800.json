@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-04-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-07-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320742,
+          "old": "<div><br><div class=\"p\">AUTORIZA A SOCIEDAD COMERCIAL E INDUSTRIAL NANAIMO LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">AUTORIZA A SOCIEDAD COMERCIAL E INDUSTRIAL NANAIMO LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS</div><br></div>"
+        }
+      ]
+    }
+  }
+]

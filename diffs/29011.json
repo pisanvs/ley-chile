@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1971-05-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5981685,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Reempl&#xE1;zase el art&#xED;culo 3&#xB0; de la ley N&#xB0; 16.720, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 3&#xB0;.- A partir de 1970, inclusive, la Polla Chilena de Beneficencia realizar&#xE1; un sorteo anual ordinario, libre de todo impuesto, gravamen o derecho fiscal o municipal, a beneficio del Banco Nacional de Sangre y del Centro de Investigaciones Hematol&#xF3;gicas &quot;Rodolfo Virchow&quot;</div><div class=\"p\">&nbsp; &nbsp; El producto de este sorteo deber&#xE1; ser entregado, dentro del plazo de diez d&#xED;as, contados desde la fecha de su realizaci&#xF3;n, al Servicio Nacional de Salud, que lo distribuir&#xE1; totalmente y por partes iguales entre las dos instituciones mencionadas en el inciso anterior.&quot;. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Der<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=6915&amp;idParte=8912345&amp;idVersion=1978-12-29\">Decreto Ley 2413, HACIENDA<br>Art. 4<br>D.O. 29.12.1978</a></span>ogado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1998-03-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-02-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6105760,
+          "old": "<div><div class=\"p\">COMPLEMENTA DECRETO N&#xBA; 218, DE 1996, QUE ESTABLECE ORDEN DE SUBROGANCIA DEL DIRECTOR EJECUTIVO DE CONAMA</div><div class=\"p\"> Santiago, 16 de febrero de 1998.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m.&nbsp;  43.-&nbsp; Vistos:&nbsp; El art&#xED;culo&nbsp; 75&#xBA;&nbsp; de&nbsp; la&nbsp; ley N&#xBA; 18.834 de 1989, la ley 19.300 y, en virtud de las facultades que me confiere el art&#xED;culo 108, del decreto 654/94, modificado por decreto 976/95 del Ministerio del Interior, y</div><div class=\"p\"> Considerando: Que, en ausencia temporal del Director Ejecutivo de la Comisi&#xF3;n Nacional del Medio Ambiente, se hace necesario establecer el Orden de Subrogancia de los funcionarios que lo reemplazar&#xE1;n en sus funciones, de acuerdo a lo dispuesto en la ley N&#xBA; 19.300, sobre Bases Generales del Medio Ambiente.</div><div class=\"p\"> D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA DECRETO N&#xBA; 218, DE 1996, QUE ESTABLECE ORDEN DE SUBROGANCIA DEL DIRECTOR EJECUTIVO DE CONAMA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de febrero de 1998.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 43.- Vistos: El art&#xED;culo 75&#xBA; de la ley N&#xBA; 18.834 de 1989, la ley 19.300 y, en virtud de las facultades que me confiere el art&#xED;culo 108, del decreto 654/94, modificado por decreto 976/95 del Ministerio del Interior, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, en ausencia temporal del Director Ejecutivo de la Comisi&#xF3;n Nacional del Medio Ambiente, se hace necesario establecer el Orden de Subrogancia de los funcionarios que lo reemplazar&#xE1;n en sus funciones, de acuerdo a lo dispuesto en la ley N&#xBA; 19.300, sobre Bases Generales del Medio Ambiente.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2004-04-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6105760,
+          "old": "<div><div class=\"p\">COMPLEMENTA DECRETO N&#xBA; 218, DE 1996, QUE ESTABLECE ORDEN DE SUBROGANCIA DEL DIRECTOR EJECUTIVO DE CONAMA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de febrero de 1998.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 43.- Vistos: El art&#xED;culo 75&#xBA; de la ley N&#xBA; 18.834 de 1989, la ley 19.300 y, en virtud de las facultades que me confiere el art&#xED;culo 108, del decreto 654/94, modificado por decreto 976/95 del Ministerio del Interior, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, en ausencia temporal del Director Ejecutivo de la Comisi&#xF3;n Nacional del Medio Ambiente, se hace necesario establecer el Orden de Subrogancia de los funcionarios que lo reemplazar&#xE1;n en sus funciones, de acuerdo a lo dispuesto en la ley N&#xBA; 19.300, sobre Bases Generales del Medio Ambiente.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA DECRETO N&#xBA; 218, DE 1996, QUE ESTABLECE ORDEN DE SUBROGANCIA DEL DIRECTOR EJECUTIVO DE CONAMA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de febrero de 1998.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 43.- Vistos: El art&#xED;culo 75&#xBA; de la ley N&#xBA; 18.834 de 1989, la ley 19.300 y, en virtud de las facultades que me confiere el art&#xED;culo 108, del decreto 654/94, modificado por decreto 976/95 del Ministerio del Interior, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, en ausencia temporal del Director Ejecutivo de la Comisi&#xF3;n Nacional del Medio Ambiente, se hace necesario establecer el Orden de Subrogancia de los funcionarios que lo reemplazar&#xE1;n en sus funciones, de acuerdo a lo dispuesto en la ley N&#xBA; 19.300, sobre Bases Generales del Medio Ambiente.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

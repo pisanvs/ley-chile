@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-01-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-04-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7321255,
+          "old": "<div><div class=\"p\">COMPLEMENTA DECRETO SUPREMO N&#xBA; 169, DE 1975</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de Noviembre de 1976.- El Presidente de la Rep&#xFA;blica ha decretado hoy lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.365.- Visto estos antecedentes; lo dispuesto en el art&#xED;culo 1&#xBA; del decreto ley N&#xBA; 937, del Ministerio del Interior; el decreto supremo N&#xBA; 169, de 1975; lo informado por la Direcci&#xF3;n de Tierras y Bienes Nacionales y por la Asesor&#xED;a de Abogados en oficios adjuntos,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA DECRETO SUPREMO N&#xBA; 169, DE 1975</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de Noviembre de 1976.- El Presidente de la Rep&#xFA;blica ha decretado hoy lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.365.- Visto estos antecedentes; lo dispuesto en el art&#xED;culo 1&#xBA; del decreto ley N&#xBA; 937, del Ministerio del Interior; el decreto supremo N&#xBA; 169, de 1975; lo informado por la Direcci&#xF3;n de Tierras y Bienes Nacionales y por la Asesor&#xED;a de Abogados en oficios adjuntos,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

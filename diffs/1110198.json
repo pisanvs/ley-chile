@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2017-11-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-10-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9846235,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Modif&#xED;canse las resoluciones <a href=\"https://www.leychile.cl/Navegar?idNorma=1070804&amp;idParte=&amp;idVersion=\">4.368</a>, <a href=\"https://www.leychile.cl/Navegar?idNorma=1076017&amp;idParte=&amp;idVersion=\">1.412</a> y <a href=\"https://www.leychile.cl/Navegar?idNorma=1092722&amp;idParte=&amp;idVersion=\">5.361</a>, citadas en Vistos, s&#xF3;lo en cuanto a los descansos sanitarios coordinados fijados por los referidos actos administrativos y en los t&#xE9;rminos que se indica en el siguiente cuadro:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/71906.jpg\">.</div><br><br><br><br><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Modif&#xED;canse las resoluciones 4.368, 1.412 y 5.361, citadas en Vistos, s&#xF3;lo en cuanto a los descansos sanitarios coordinados fijados por los referidos actos administrativos y en los t&#xE9;rminos que se indica en el siguiente cuadro:</div><br><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/71906.jpg\">.</div><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 4266 Exenta, Econom&#xED;a, publicada el 12.10.2018, modifica el cuadro inserto en el presente art&#xED;culo en el sentido de reemplazar el periodo de descanso sanitario coordinado de las agrupaciones de concesiones de acuicultura de salm&#xF3;nidos del n&#xFA;mero 55 de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

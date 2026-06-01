@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-08-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-01-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8299780,
+          "old": "<div><div class=\"p\">DEROGA RESOLUCION QUE SE&#xD1;ALA Y DELEGA FACULTADES QUE INDICA EN EL JEFE DEL DEPARTAMENTO DE FISCALIZACION Y EN LOS DIRECTORES REGIONALES DEL TRABAJO</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 845 exenta.- Santiago, 5 de agosto de 1996.- Vistos: Lo dispuesto en el art&#xED;culo 5&#xB0; letra d) del D.F.L. N&#xB0; 2, de 30 de mayo de 1967, Org&#xE1;nico de la Direcci&#xF3;n del Trabajo, en la Resoluci&#xF3;n N&#xB0; 55, de 31 de enero de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, y en los art&#xED;culos 481 y 482 del C&#xF3;digo del Trabajo,</div><div class=\"p\">&nbsp; &nbsp; Considerando: La conveniencia de descentralizar las funciones administrativas y resolutivas del Servicio, a objeto de agilizar y optimizar su funcionamiento, </div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DEROGA RESOLUCION QUE SE&#xD1;ALA Y DELEGA FACULTADES QUE INDICA EN EL JEFE DEL DEPARTAMENTO DE FISCALIZACION Y EN LOS DIRECTORES REGIONALES DEL TRABAJO</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 845 exenta.- Santiago, 5 de agosto de 1996.- Vistos: Lo dispuesto en el art&#xED;culo 5&#xB0; letra d) del D.F.L. N&#xB0; 2, de 30 de mayo de 1967, Org&#xE1;nico de la Direcci&#xF3;n del Trabajo, en la Resoluci&#xF3;n N&#xB0; 55, de 31 de enero de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, y en los art&#xED;culos 481 y 482 del C&#xF3;digo del Trabajo,</div><div class=\"p\">&nbsp; &nbsp; Considerando: La conveniencia de descentralizar las funciones administrativas y resolutivas del Servicio, a objeto de agilizar y optimizar su funcionamiento, </div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

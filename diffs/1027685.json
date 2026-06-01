@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-07-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-10-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9158240,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. As&#xED;gnanse nuevas normas urban&#xED;sticas a los terrenos cuyas declaratorias de utilidad p&#xFA;blica caducaron, correspondientes a tramos de 3 v&#xED;as colectoras, contenidas en el Cap&#xED;tulo V, art&#xED;culo 47 de la Ordenanza del Plan Regulador Comunal de Vitacura, asimil&#xE1;ndolas a la zona predominante de las adyacentes al terreno, individualizadas en la tabla incluida a continuaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. Tabla de asignaci&#xF3;n de nuevas normas urban&#xED;sticas a las declaratorias de utilidad p&#xFA;blica caducadas:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/19323.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese el presente decreto en el Diario Oficial, junto a la Tabla de declaratorias de utilidad p&#xFA;blica caducadas, aprobada por el informe t&#xE9;cnico del punto 17 de los Vistos, de conformidad a lo dispuesto en el art&#xED;culo 59&#xB0; de la Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp;  4. Arch&#xED;vese el presente decreto y su publicaci&#xF3;n, en el Conservador de Bienes Ra&#xED;ces de Santiago, en la Divisi&#xF3;n de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, en la Secretar&#xED;a Regional de ese mismo Ministerio y en la Municipalidad de Vitacura.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. As&#xED;gnanse nuevas normas urban&#xED;sticas a los terrenos cuyas declaratorias de utilidad p&#xFA;blica caducaron, correspondientes a tramos de 3 v&#xED;as colectoras, contenidas en el Cap&#xED;tulo V, art&#xED;culo 47 de la Ordenanza del Plan Regulador Comunal de Vitacura, asimil&#xE1;ndolas a la zona predominante de las adyacentes al terreno, individualizadas en la tabla incluida a continuaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. Tabla <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1030799&amp;idParte=9192197&amp;idVersion=2011-10-07\">Rectificaci&#xF3;n 177<br>D.O. 07.10.2011</a></span>de asignaci&#xF3;n de nuevas normas urban&#xED;sticas a las declaratorias de utilidad p&#xFA;blica caducadas:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/21145.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese el presente decreto en el Diario Oficial, junto a la Tabla de declaratorias de utilidad p&#xFA;blica caducadas, aprobada por el informe t&#xE9;cnico del punto 17 de los Vistos, de conformidad a lo dispuesto en el art&#xED;culo 59&#xB0; de la Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp;  4. Arch&#xED;vese el presente decreto y su publicaci&#xF3;n, en el Conservador de Bienes Ra&#xED;ces de Santiago, en la Divisi&#xF3;n de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, en la Secretar&#xED;a Regional de ese mismo Ministerio y en la Municipalidad de Vitacura.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1030799,
+      "fecha": "2011-10-07"
+    }
+  }
+]

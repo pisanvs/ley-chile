@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1967-07-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-01-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8857906,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; REFORMA AGRARIA Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente:</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  REFORMA AGRARIA</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente:</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 40, letra a) de la LEY 18755, publicada el 07.01.1989, derog&#xF3; esta norma. Por su parte art&#xED;culo 4&#xBA; transitorio dispuso que el Servicio de Tesorer&#xED;as continuar&#xE1; emitiendo los Bonos de la Reforma Agraria que sean necesarios para pagar las indemnizaciones que se encontraren pendientes por las expropiaciones efectuadas en virtud de las leyes 15020 y 16640, conforme a las normas contenidas en este &#xFA;ltimo texto legal, las que mantendr&#xE1;n su vigencia para este solo efecto.<br>&nbsp; &nbsp;  Se faculta al Presidente de la Rep&#xFA;blica para autorizar la emisi&#xF3;n de los Bonos de la Reforma Agraria que sean necesarios para dar cumplimiento a lo establecido en el art&#xED;culo 4&#xBA; transitorio de la ley derogatoria. Asimismo, la derogaci&#xF3;n de la Ley 16640 no afectar&#xE1; la vigencia, caracter&#xED;sticas y aplicaci&#xF3;n de los Bonos de la Reforma Agraria emitidos.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

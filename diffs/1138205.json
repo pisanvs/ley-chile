@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-11-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-02-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10065817,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Por decreto exento de la Ilustre Municipalidad de Pichilemu N&#xBA; 2.852, de fecha 4 de octubre de 2019, y en base a las facultades otorgadas por la Ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades y sus modificaciones, ley N&#xBA; 18.883, decreto ley N&#xBA; 2.186 del a&#xF1;o 1978, decretos alcaldicios N&#xBA; 2.497 de fecha 6 de diciembre de 2016 y N&#xBA; 3.046 de fecha 21 de diciembre de 2018, DFL N&#xBA; 228-19.321 del 16.09.94, art&#xED;culo N&#xBA; 59 de la Ley General de Urbanismo y Construcciones que establece cu&#xE1;les son los terrenos afectos a utilidad p&#xFA;blica por los Planes Reguladores, Plan Regulador Comunal de Pichilemu, publicado con fecha 26 de febrero de 2005, ley 20.791 que reactiv&#xF3; la vigencia de las fajas afectas a utilidad p&#xFA;blica de los Planes Reguladores y Acuerdos del Honorable Concejo Municipal de fechas 15 de enero y 20 de agosto de 2019, se aprueba el inicio del Estudio de Expropiaci&#xF3;n de Calle Nueva N&#xBA;18 establecida en el Plan Regulador Comunal de Pichilemu, sobre una porci&#xF3;n de los inmuebles Roles de Aval&#xFA;o Fiscal 1129-490 y 1129-587.- </div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Por decreto exento de la Ilustre Municipalidad de Pichilemu N&#xBA; 2.852, de fecha 4 de octubre de 2019, y en base a las facultades otorgadas por la Ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades y sus modificaciones, ley N&#xBA; 18.883, decreto ley N&#xBA; 2.186 del a&#xF1;o 1978, decretos alcaldicios N&#xBA; 2.497 de fecha 6 de diciembre de 2016 y N&#xBA; 3.046 de fecha 21 de diciembre de 2018, DFL N&#xBA; 228-19.321 del 16.09.94, art&#xED;culo N&#xBA; 59 de la Ley General de Urbanismo y Construcciones que establece cu&#xE1;les son los terrenos afectos a utilidad p&#xFA;blica por los Planes Reguladores, Plan Regulador Comunal de Pichilemu, publicado con fecha 26 de febrero de 2005, ley 20.791 que reactiv&#xF3; la vigencia de las fajas afectas a utilidad p&#xFA;blica de los Planes Reguladores y Acuerdos del Honorable Concejo Municipal de fechas 15 de enero y 20 de agosto de 2019, se aprueba el inicio del Estudio de Expropiaci&#xF3;n de Calle Nueva N&#xBA;18 establecida en el Plan Regulador Comunal de Pichilemu, sobre una porci&#xF3;n de los inmuebles Roles de Aval&#xFA;o Fiscal 1129-490 y 1129<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1142444&amp;idParte=10101302&amp;idVersion=2020-02-15\">Decreto 3308 EXENTO,<br>M. DE PICHILEMU<br>Art.<br>D.O. 15.02.2020</a></span>-507.- </div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1142444,
+      "fecha": "2020-02-15"
+    }
+  }
+]

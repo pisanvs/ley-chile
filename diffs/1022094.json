@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-10-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9100435,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 3.231 de 31.12.2010, Serviu VI Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, orden&#xF3; expropiaci&#xF3;n total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Aval&#xFA;o N&#xBA;s. 11.330-085; 11.331-133; 11.332-038; 11.329-057; 11.352-040; 11.352-032 y 11.398-027, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Pol&#xED;gono conforme al Plano del Departamento T&#xE9;cnico del Serviu, de aparente dominio de Sergio Iturriaga Carrasco y Otros; Norma Elena Rojas San Mart&#xED;n; Cristian Eugenio Seura Vera; Luis Alfredo Fuenzalida Mart&#xED;nez, Patricio Guillermo L&#xF3;pez Espinoza; Javier David Colines Colines; Miguel &#xC1;ngel Quijanes Verdejo, en el Conjunto Habitacional Villa Cordillera, comuna Rancagua, conforme al Art. 51, ley 16.391 y DL. 2.186. Comisi&#xF3;n Tasadora, peritos Jorge Rosales, Carlos Henr&#xED;quez y Manuel San Mart&#xED;n, Constructor Civil, Arquitecto y Constructor Civil, respectivamente, seg&#xFA;n Informe de fecha diciembre de 2010, monto provisional para: Sergio Iturriaga Carrasco y Otros $5.215.462.-; Norma Elena Rojas San Mart&#xED;n $5.299.425.-, Cristian Eugenio Seura Vera $5.328.167.-; Luis Alfredo Fuenzalida Mart&#xED;nez $5.360.131.-; Patricio Guillermo L&#xF3;pez Espinoza $5.390.897.-; Javier David Colines Colines $5.390.897.-; Miguel &#xC1;ngel Quijanes Verdejo $5.402.378.-, cuyo pago se realizar&#xE1; mediante dep&#xF3;sito en Cuenta Corriente del Tribunal correspondiente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 3.231 de 31.12.2010, Serviu VI Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, orden&#xF3; expropiaci&#xF3;n total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Aval&#xFA;o N&#xBA;s. 11.330-085; 11.331-133; 11.332-038; 11.329-057; 11.352-040; 11.352-032 y 11.398-027, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Pol&#xED;gono conforme al Plano del Departamento T&#xE9;cnico del Serviu, de aparente dominio de Sergio Iturriaga Carrasco y Otros; Norma Elena Rojas San Mart&#xED;n; Cristian Eugenio Seura Vera; Luis Alfredo Fuenzalida Mart&#xED;nez, Patricio Guillermo L&#xF3;pez Espinoza; Javier David Colines Colines; Miguel &#xC1;ngel Quijanes Verdejo, en el Conjunto Habitacional Villa Cordillera, comuna Rancagua, conforme al Art. 51, ley 16.391 y DL. 2.186. Comisi&#xF3;n Tasadora, peritos Jorge Rosales, Carlos Henr&#xED;quez y Manuel San Mart&#xED;n, Constructor Civil, Arquitecto y Constructor Civil, respectivamente, seg&#xFA;n Informe de fecha diciembre de 2010, monto provisional para: Sergio Iturriaga Carrasco y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1030969&amp;idParte=9195008&amp;idVersion=2011-10-15\">Aviso S/N, VIVIENDA<br>N&#xBA; 2.-<br>D.O. 15.10.2011</a></span>Otros $5.215.364.-; Norma Elena Rojas San Mart&#xED;n $5.299.425.-, Cristian Eugenio Seura Vera $5.328.167.-; Luis Alfredo Fuenzalida Mart&#xED;nez $5.360.131.-; Patricio Guillermo L&#xF3;pez Espinoza $5.390.897.-; Javier David Colines Colines $5.390.897.-; Miguel &#xC1;ngel Quijanes Verdejo $5.402.378.-, cuyo pago se realizar&#xE1; mediante dep&#xF3;sito en Cuenta Corriente del Tribunal correspondiente. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1030969,
+      "fecha": "2011-10-15"
+    }
+  }
+]

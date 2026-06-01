@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-12-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-04-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9072935,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Modif&#xED;quese la <a href=\"https://www.leychile.cl/Navegar?idNorma=146292&amp;idParte=0&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 1.498, de 1999</a>, de la Subsecretar&#xED;a de Telecomunicaciones, en el sentido de que la banda de frecuencias regulada por la referida resoluci&#xF3;n tambi&#xE9;n podr&#xE1; ser empleada para suministrar servicio p&#xFA;blico de telefon&#xED;a m&#xF3;vil. Las concesionarias de servicio p&#xFA;blico telef&#xF3;nico local inal&#xE1;mbrico en la banda de frecuencias 3.400 - 3.600 MHz interesadas en suministrar el citado servicio m&#xF3;vil, deber&#xE1;n solicitar las respectivas concesiones sobre la misma banda de frecuencias autorizada.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Modif&#xED;quese la resoluci&#xF3;n exenta N&#xB0; 1.498, de 1999, de la<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1191162&amp;idParte=10422839&amp;idVersion=2023-04-12\">Resoluci&#xF3;n 770 EXENTA,<br>TRANSPORTES<br>Art. segundo<br>D.O. 12.04.2023</a></span> Subsecretar&#xED;a de Telecomunicaciones, en el sentido de que la banda de frecuencias regulada por la referida resoluci&#xF3;n tambi&#xE9;n podr&#xE1; ser empleada para suministrar servicio p&#xFA;blico de telecomunicaciones, pudiendo ofrecer prestaciones espec&#xED;ficas fijas o m&#xF3;viles. Las concesionarias de servicio p&#xFA;blico telef&#xF3;nico local inal&#xE1;mbrico en la banda de frecuencias 3.400 - 3.600 MHz interesadas en suministrar otras prestaciones espec&#xED;ficas, deber&#xE1;n solicitar las respectivas concesiones sobre la misma banda de frecuencias autorizada.</div><div class=\"p\">&nbsp; &nbsp;  2. Las nuevas prestaciones espec&#xED;ficas necesitar&#xE1;n la correspondiente autorizaci&#xF3;n; esta autorizaci&#xF3;n no podr&#xE1; otorgarse en caso que se generen distorsiones a la competencia en los mercados afectados, manteniendo en todo caso el equilibrio econ&#xF3;mico financiero de los t&#xED;tulos habilitantes, con el objeto de resguardar el uso efectivo y eficiente del espectro radioel&#xE9;ctrico, pudiendo la autoridad establecer condiciones para su autorizaci&#xF3;n.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1191162,
+      "fecha": "2023-04-12"
+    }
+  }
+]

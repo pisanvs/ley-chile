@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1970-06-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1972-04-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6347657,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA PAGO DE ASIGNACION DE RESPONSABILIDAD A QUE SE REFIERE EL ART. 71&#xBA; DE LA LEY N&#xB0; 15.840, MODIFICADO POR EL ART. 62&#xBA; DE LA LEY N&#xB0; 17.073</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 10 de Abril de 1970.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 305.- Vistos lo dispuesto en el art&#xED;culo 71&#xBA; de la ley N&#xB0; 15.840, modificado por el art&#xED;culo 62&#xBA; de la ley N&#xB0; 17.073 y la facultad que me otorga el art&#xED;culo 72&#xBA; N&#xB0; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente reglamento para el pago de asignaci&#xF3;n de responsabilidad que se consulta en el art&#xED;culo 71&#xBA; de la ley N&#xB0; 15.840, modificado por el art&#xED;culo 62&#xBA; de la ley N&#xB0; 17.073, correspondiente al personal de la Direcci&#xF3;n General de Obras P&#xFA;blicas y Servicios dependientes.</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA PAGO DE ASIGNACION DE RESPONSABILIDAD A QUE SE REFIERE EL ART. 71&#xBA; DE LA LEY N&#xB0; 15.840, MODIFICADO POR EL ART. 62&#xBA; DE LA LEY N&#xB0; 17.073</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 10 de Abril de 1970.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 305.- Vistos lo dispuesto en el art&#xED;culo 71&#xBA; de la ley N&#xB0; 15.840, modificado por el art&#xED;culo 62&#xBA; de la ley N&#xB0; 17.073 y la facultad que me otorga el art&#xED;culo 72&#xBA; N&#xB0; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente reglamento para el pago de asignaci&#xF3;n de responsabilidad que se consulta en el art&#xED;culo 71&#xBA; de la ley N&#xB0; 15.840, modificado por el art&#xED;culo 62&#xBA; de la ley N&#xB0; 17.073, correspondiente al personal de la Direcci&#xF3;n General de Obras P&#xFA;blicas y Servicios dependientes.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

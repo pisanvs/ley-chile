@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-08-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-03-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7349025,
+          "old": "<div><div class=\"p\">COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 49 exenta.- Santiago, 25 de julio de 2007.- Vistos: El decreto con fuerza de ley n&#xFA;mero 10 de 1981 y el art&#xED;culo n&#xFA;mero 5 del decreto n&#xFA;mero 642 de 2004, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de fijar tarifas a las prestaciones postales no se&#xF1;aladas en el citado decreto de Telecomunicaciones; el acuerdo n&#xFA;mero 63/2007 del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Duod&#xE9;cima Ordinaria de fecha 28 de junio de 2007; la resoluci&#xF3;n n&#xFA;mero 520 de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las facultades que me confieren la resoluci&#xF3;n n&#xFA;mero 1 del 2002, y la resoluci&#xF3;n exenta n&#xFA;mero 15 del 2006, ambas de la Empresa de Correos de Chile, dicto lo siguiente, </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 49 exenta.- Santiago, 25 de julio de 2007.- Vistos: El decreto con fuerza de ley n&#xFA;mero 10 de 1981 y el art&#xED;culo n&#xFA;mero 5 del decreto n&#xFA;mero 642 de 2004, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de fijar tarifas a las prestaciones postales no se&#xF1;aladas en el citado decreto de Telecomunicaciones; el acuerdo n&#xFA;mero 63/2007 del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Duod&#xE9;cima Ordinaria de fecha 28 de junio de 2007; la resoluci&#xF3;n n&#xFA;mero 520 de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las facultades que me confieren la resoluci&#xF3;n n&#xFA;mero 1 del 2002, y la resoluci&#xF3;n exenta n&#xFA;mero 15 del 2006, ambas de la Empresa de Correos de Chile, dicto lo siguiente, </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 2 de la Resoluci&#xF3;n 25 Exenta, Empresa de Correos, publicada el 05.03.2012, deroga, en lo pertinente, la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

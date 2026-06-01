@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-08-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-09-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9173993,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- F&#xED;jase la siguiente planta de personal del Servicio Nacional para la Prevenci&#xF3;n y Rehabilitaci&#xF3;n del Consumo de Drogas y Alcohol:</div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/20460.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- F&#xED;jase la siguiente <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>planta de personal del Servicio Nacional para la Prevenci&#xF3;n y Rehabilitaci&#xF3;n del Consumo de Drogas y Alcohol:</div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/20460.jpg\"></div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los art&#xED;culos primero y segundo del Decreto con Fuerza de Lay 22, Hacienda, publicado el 14.09.2018, modifican la presente norma en el sentido de crear un cargo de Director Regional, grado 4&#xB0;, afecto al Sistema de Alta Direcci&#xF3;n P&#xFA;blica, segundo nivel jer&#xE1;rquico, en la planta de Directivos del Servicio Nacional para la Prevenci&#xF3;n y Rehabilitaci&#xF3;n del Consumo de Drogas y Alcohol, incrementando la respectiva dotaci&#xF3;n m&#xE1;xima de personal en el mismo n&#xFA;mero de cargos.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "2003-11-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-12-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7305355,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  CONTRALORIA GENERAL DE LA REPUBLICA<span class=\"n\" id=\"n_0\">ALC 33701,<br>CONTRALORIA<br>D.O. 03.12.2003</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DIVISION DE CONTABILIDAD</div><br><div class=\"p\">&nbsp; &nbsp;  Cursa con alcances resoluci&#xF3;n N&#xBA; 1.397 de 2003, del Ministerio de Defensa Nacional, Subsecretar&#xED;a de Marina</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 33.701.- Santiago, 7 de agosto de 2003.</div><div class=\"p\">&nbsp; &nbsp;  La Contralor&#xED;a General ha dado curso al documento del ep&#xED;grafe, que otorga la concesi&#xF3;n de acuicultura sobre porci&#xF3;n de agua y fondo de mar que singulariza, en Golfo Corcovado, sector Norte de Bah&#xED;a Corcovado, comuna de Chait&#xE9;n, X Regi&#xF3;n, pero cumple con hacer presente que la referencia a la provincia de Chilo&#xE9; contenida en el N&#xBA; 1 del instrumento en estudio, debe entenderse efectuada a la provincia de Palena, en conformidad con lo establecido en el DFL N&#xBA; 3 (18.715) de 1989, del Ministerio del Interior, Subsecretar&#xED;a de Desarrollo Regional y Administrativo.</div><div class=\"p\">&nbsp; &nbsp;  Por otra parte, de acuerdo con los antecedentes acompa&#xF1;ados, corresponde se&#xF1;alar que el V&#xE9;rtice D debe decir Long. 72&#xB0;54&apos;05,90&quot; W. y no como se consigna en el p&#xE1;rrafo 2.</div><div class=\"p\">&nbsp; &nbsp;  Con los alcances que anteceden se ha tomado raz&#xF3;n del acto administrativo de la suma.</div><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a Ud.- Por orden del Contralor General de la Rep&#xFA;blica, Jefe Sub Divisi&#xF3;n, Cr&#xE9;dito P&#xFA;blico y Bienes Nacionales.</div><div class=\"p\"> Al se&#xF1;or</div><div class=\"p\"> Subsecretario de Marina</div><div class=\"p\"> Presente</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7305352,
+          "old": "<div><div class=\"p\">OTORGA CONCESION DE ACUICULTURA </div></div>",
+          "new": "<div><div class=\"p\">OTORGA CONCESION DE ACUICULTURA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

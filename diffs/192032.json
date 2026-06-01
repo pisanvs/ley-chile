@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8471785,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD INDUSTRIAL PESQUERA TALA Y CIA LTDA. PARA DESARROLLA ACTIVIDADES PESQUERAS </div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD INDUSTRIAL PESQUERA TALA Y CIA LTDA. PARA DESARROLLA ACTIVIDADES PESQUERAS </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

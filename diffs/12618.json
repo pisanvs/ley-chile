@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "1990-05-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-07-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040237,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: En caso alguno la Comisi&#xF3;n podr&#xE1; asumir funciones jurisdiccionales propias de los Tribunales de Justicia ni interferir en procesos pendientes ante ellos. No podr&#xE1;, en consecuencia, pronunciarse sobre la responsabilidad que con arreglo a las leyes pudiera caber a personas individuales por los hechos de que haya tomado conocimiento.</div><div class=\"p\">&nbsp; &nbsp; Si en el ejercicio de sus funciones la Comisi&#xF3;n recibe antecedentes sobre hechos que revistan caracteres de delito, los pondr&#xE1; sin m&#xE1;s tr&#xE1;mite a disposici&#xF3;n del Tribunal que corresponda.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: En caso alguno la Comisi&#xF3;n podr&#xE1; asumir funciones jurisdiccionales propias de los Tribunales de Justicia ni interferir en procesos pendientes ante ellos. No podr&#xE1;, en consecuencia, pronunciarse sobre la responsabilidad que con arreglo a las leyes pudiera caber a personas individuales por los hechos de que haya tomado conocimiento.</div><div class=\"p\">&nbsp; &nbsp; Si en el ejercicio de sus funciones la Comisi&#xF3;n recibe antecedentes sobre hechos que revistan caracteres de delito, los pondr&#xE1; sin m&#xE1;s tr&#xE1;mite a disposici&#xF3;n del Tribunal que corresponda.</div><br><br></div>"
+        },
+        {
+          "part_id": 9040238,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo tercero: La Comisi&#xF3;n estar&#xE1; integrada por las siguientes personas:</div><div class=\"p\"> - Don Ra&#xFA;l Rettig Guissen,&nbsp; que la presidir&#xE1;.</div><div class=\"p\"> - Don Jaime Castillo Velasco</div><div class=\"p\"> - Don Jos&#xE9; Luis Cea Ega&#xF1;a</div><div class=\"p\"> - Do&#xF1;a M&#xF3;nica Jim&#xE9;nez de la Jara</div><div class=\"p\"> - Don Ricardo Mart&#xED;n D&#xED;az</div><div class=\"p\"> - Do&#xF1;a Laura Novoa V&#xE1;squez</div><div class=\"p\"> - Don Gonzalo Vial Correa</div><div class=\"p\"> - Don Jos&#xE9; Zalaquett Daher</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo tercero: La Comisi&#xF3;n estar&#xE1; integrada por las siguientes personas:</div><div class=\"p\"> - Don Ra&#xFA;l Rettig Guissen,&nbsp; que la presidir&#xE1;.</div><div class=\"p\"> - Don Jaime Castillo Velasco</div><div class=\"p\"> - Don Jos&#xE9; Luis Cea Ega&#xF1;a</div><div class=\"p\"> - Do&#xF1;a M&#xF3;nica Jim&#xE9;nez de la Jara</div><div class=\"p\"> - Don Ricardo Mart&#xED;n D&#xED;az</div><div class=\"p\"> - Do&#xF1;a Laura Novoa V&#xE1;squez</div><div class=\"p\"> - Don Gonzalo Vial Correa</div><div class=\"p\"> - Don Jos&#xE9; Zalaquett Daher.</div><br></div>"
+        },
+        {
+          "part_id": 9040240,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo quinto: La Comisi&#xF3;n tendr&#xE1; un plazo de seis meses para cumplir su cometido. Si dentro de ese lapso no alcanzara a hacerlo podr&#xE1; prorrogar ese plazo mediante resoluci&#xF3;n fundada por un m&#xE1;ximo de tres meses m&#xE1;s.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo quinto: La Comisi&#xF3;n tendr&#xE1; un plazo de seis meses para cumplir su cometido. Si dentro de ese lapso no alcanzara a hacerlo podr&#xE1; prorrogar ese plazo mediante resoluci&#xF3;n fundada por un m&#xE1;ximo de tres meses m&#xE1;s.</div><br><br></div>"
+        },
+        {
+          "part_id": 9040241,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo sexto: Ser&#xE1; Secretario de la Comisi&#xF3;n don Jorge Correa Sutil. Ser&#xE1;n funciones del Secretario, organizar y dirigir la Secretar&#xED;a con el personal necesario para el cumplimiento de su cometido y desempe&#xF1;ar las dem&#xE1;s funciones que le encomiende la Comisi&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo sexto: Ser&#xE1; Secretario de la Comisi&#xF3;n don Jorge Correa Sutil. Ser&#xE1;n funciones del Secretario, organizar y dirigir la Secretar&#xED;a con el personal necesario para el cumplimiento de su cometido y desempe&#xF1;ar las dem&#xE1;s funciones que le encomiende la Comisi&#xF3;n.</div><br><br></div>"
+        },
+        {
+          "part_id": 9040242,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo s&#xE9;ptimo: La Comisi&#xF3;n dictar&#xE1; su propio reglamento interno para regular su funcionamiento. Las actuaciones de la Comisi&#xF3;n se realizar&#xE1;n en forma reservada.</div><div class=\"p\">&nbsp; &nbsp; El reglamento determinar&#xE1; las actuaciones que la Comisi&#xF3;n podr&#xE1; delegar en uno o m&#xE1;s de sus miembros, o en el Secretario.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo s&#xE9;ptimo: La Comisi&#xF3;n dictar&#xE1; su propio reglamento interno para regular su funcionamiento. Las actuaciones de la Comisi&#xF3;n se realizar&#xE1;n en forma reservada.</div><div class=\"p\">&nbsp; &nbsp; El reglamento determinar&#xE1; las actuaciones que la Comisi&#xF3;n podr&#xE1; delegar en uno o m&#xE1;s de sus miembros, o en el Secretario.</div><br><br></div>"
+        },
+        {
+          "part_id": 9040243,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo octavo: De oficio o a petici&#xF3;n de parte, la Comisi&#xF3;n podr&#xE1; tomar medidas para guardar la identidad de quienes le proporcionen informaci&#xF3;n o colaboren en sus tareas.</div><div class=\"p\">&nbsp; &nbsp; Las autoridades y servicios de la Administraci&#xF3;n del Estado deber&#xE1;n prestar a la Comisi&#xF3;n, dentro del &#xE1;mbito de sus respectivas atribuciones, toda la colaboraci&#xF3;n que ella les solicite, poner a su disposici&#xF3;n los documentos que les requiera y facilitar su acceso a los lugares que ella estime necesario visitar.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo octavo: De oficio o a petici&#xF3;n de parte, la Comisi&#xF3;n podr&#xE1; tomar medidas para guardar la identidad de quienes le proporcionen informaci&#xF3;n o colaboren en sus tareas.</div><div class=\"p\">&nbsp; &nbsp; Las autoridades y servicios de la Administraci&#xF3;n del Estado deber&#xE1;n prestar a la Comisi&#xF3;n, dentro del &#xE1;mbito de sus respectivas atribuciones, toda la colaboraci&#xF3;n que ella les solicite, poner a su disposici&#xF3;n los documentos que les requiera y facilitar su acceso a los lugares que ella estime necesario visitar.</div><br><br></div>"
+        },
+        {
+          "part_id": 9040244,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo noveno: Los miembros de la Comisi&#xF3;n desempe&#xF1;ar&#xE1;n sus funciones ad honorem. El Secretario y el personal de secretar&#xED;a ser&#xE1;n remunerados como funcionarios a contrata. El Ministerio de Justicia otorgar&#xE1; el apoyo t&#xE9;cnico y administrativo que sea necesario.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo noveno: Los miembros de la Comisi&#xF3;n desempe&#xF1;ar&#xE1;n sus funciones ad honorem. El Secretario y el personal de secretar&#xED;a ser&#xE1;n remunerados como funcionarios a contrata o a honorarios. El Ministerio<span class=\"n\" id=\"n_0\">DTO 504, INTERIOR<br>D.O. 16.07.1990</span> de Justicia otorgar&#xE1; el apoyo t&#xE9;cnico y administrativo que sea necesario.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

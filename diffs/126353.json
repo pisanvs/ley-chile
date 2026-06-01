@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-08-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-10-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8336153,
+          "old": "<div><div class=\"p\">AUTORIZA A LA EMPRESA PESQUERA PACTO S.A.&nbsp; PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA EMPRESA PESQUERA PACTO S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DENIEGA AUTORIZACION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

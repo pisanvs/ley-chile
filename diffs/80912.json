@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-10-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-04-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8311578,
+          "old": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULOS QUE INDICA, A EMPRESA DE SERVICIOS SANITARIOS DEL LIBERTADOR</div><br><div class=\"p\">N&#xFA;m. 360.- Santiago, 02 de Septiembre de 1991.- Visto: Art&#xED;culos 1&#xB0; y 3&#xB0; del Decreto Ley No. 799 de 1974, modificado por el DFL No. 12-2.345 de 1979, del Ministerio del Interior; Circular No. 9.277 de 1975 y Resoluciones No.</div><div class=\"p\">s. 600 de 1977 y 1050 de 1980, todos de la Contralor&#xED;a General de la Rep&#xFA;blica; lo solicitado por la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n en su Oficio Ord. No. 06580 de 1991 y antecedentes que se acompa&#xF1;an.</div><div class=\"p\">Considerando: Que, la Subgerencia de Empresas de Servicios Sanitarios, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, ha solicitado la autorizaci&#xF3;n para que los veh&#xED;culos del Servicio Sanitario del Libertador S.A., puedan circular los d&#xED;as s&#xE1;bados en la tarde, domingos y festivos y en horarios nocturnos, en cumplimiento de sus labores propias, tales como servicios de emergencia, con el correspondiente disco distintivo, con excepci&#xF3;n del asignado a la Gerencia General, por razones de representatividad.</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULOS QUE INDICA, A EMPRESA DE SERVICIOS SANITARIOS DEL LIBERTADOR</div><br><div class=\"p\">N&#xFA;m. 360.- Santiago, 02 de Septiembre de 1991.- Visto: Art&#xED;culos 1&#xB0; y 3&#xB0; del Decreto Ley No. 799 de 1974, modificado por el DFL No. 12-2.345 de 1979, del Ministerio del Interior; Circular No. 9.277 de 1975 y Resoluciones No.</div><div class=\"p\">s. 600 de 1977 y 1050 de 1980, todos de la Contralor&#xED;a General de la Rep&#xFA;blica; lo solicitado por la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n en su Oficio Ord. No. 06580 de 1991 y antecedentes que se acompa&#xF1;an.</div><div class=\"p\">Considerando: Que, la Subgerencia de Empresas de Servicios Sanitarios, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, ha solicitado la autorizaci&#xF3;n para que los veh&#xED;culos del Servicio Sanitario del Libertador S.A., puedan circular los d&#xED;as s&#xE1;bados en la tarde, domingos y festivos y en horarios nocturnos, en cumplimiento de sus labores propias, tales como servicios de emergencia, con el correspondiente disco distintivo, con excepci&#xF3;n del asignado a la Gerencia General, por razones de representatividad.</div><br><div class=\"p\">Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

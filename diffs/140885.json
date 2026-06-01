@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-08-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8348210,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 1.494, de 4 de agosto de 1999, de esta Subsecretar&#xED;a, autor&#xED;zase a la UNIVERSIDAD CATOLICA DE VALPARAISO, para efectuar una pesca de investigaci&#xF3;n de conformidad con los t&#xE9;rminos t&#xE9;cnicos de referencia del Proyecto FIP N&#xBA; 99-09, denominado &apos;&apos;Evaluaci&#xF3;n directa de Langostino amarillo entre la III y VIII Regiones, 1999&apos;&apos;, elaborados por la Universidad Cat&#xF3;lica de Valpara&#xED;so y aprobados por el Consejo de Investigaci&#xF3;n Pesquera y por esta Subsecretar&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  El objetivo principal es estimar mediante evaluaci&#xF3;n directa, y con el m&#xE9;todo de &#xE1;rea barrida, la biomasa y abundancia de Langostino amarillo presente entre la III y VIII regiones.</div><div class=\"p\">En cumplimiento del objetivo descrito, la peticionaria podr&#xE1; capturar el recurso Langostino amarillo, utilizando redes de arrastre de fondo de tipo langostinera/camaronera, debiendo devolver al mar toda la captura. Se podr&#xE1; colectar, en cada lance de pesca, una muestra de 16 kilos de Langostino amarillo, la que ser&#xE1; transportada a los laboratorios de la solicitante para an&#xE1;lisis. Para estos efectos, en cada viaje de pesca se podr&#xE1; desembarcar un m&#xE1;ximo de 30 muestras de Langostino amarillo y 10 kilos de fauna acompa&#xF1;ante. Podr&#xE1; operarse con la nave &apos;&apos;Tiber&#xED;ades&apos;&apos;, cuyas caracter&#xED;sticas son las siguientes: Armador: Universidad Cat&#xF3;lica de Valpara&#xED;so; Matr&#xED;cula: 1740 Valpara&#xED;so; Arte de pesca: Arrastre.</div><div class=\"p\">&nbsp; &nbsp;  La pesca de investigaci&#xF3;n se extender&#xE1; entre la fecha de la presente resoluci&#xF3;n y octubre de 1999, en toda el &#xE1;rea comprendida entre la III y VIII Regiones. La Universidad designa como persona responsable al Rector, don Alfonso Muga Naredo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 1.494, de 4 de agosto de 1999, de esta Subsecretar&#xED;a, autor&#xED;zase a la UNIVERSIDAD CATOLICA DE VALPARAISO, para efectuar una pesca de investigaci&#xF3;n de conformidad con los t&#xE9;rminos t&#xE9;cnicos de referencia del Proyecto FIP N&#xBA; 99-09, denominado &apos;&apos;Evaluaci&#xF3;n directa de Langostino amarillo entre la III y VIII Regiones, 1999&apos;&apos;, elaborados por la Universidad Cat&#xF3;lica de Valpara&#xED;so y aprobados por el Consejo de Investigaci&#xF3;n Pesquera y por esta Subsecretar&#xED;a. El objetivo principal es estimar mediante evaluaci&#xF3;n directa, y con el m&#xE9;todo de &#xE1;rea barrida, la biomasa y abundancia de Langostino amarillo presente entre la III y VIII regiones. En cumplimiento del objetivo descrito, la peticionaria podr&#xE1; capturar el recurso Langostino amarillo, utilizando redes de arrastre de fondo de tipo langostinera/camaronera, debiendo devolver al mar toda la captura. Se podr&#xE1; colectar, en cada lance de pesca, una muestra de 16 kilos de Langostino amarillo, la que ser&#xE1; transportada a los laboratorios de la solicitante para an&#xE1;lisis. Para estos efectos, en cada viaje de pesca se podr&#xE1; desembarcar un m&#xE1;ximo de 30 muestras de Langostino amarillo y 10 kilos de fauna acompa&#xF1;ante. Podr&#xE1; operarse con la nave &apos;&apos;Tiber&#xED;ades&apos;&apos;, cuyas caracter&#xED;sticas son las siguientes: Armador: Universidad Cat&#xF3;lica de Valpara&#xED;so; Matr&#xED;cula: 1740 Valpara&#xED;so; Arte de pesca: Arrastre, por lance de pesca<span class=\"n\" id=\"n_0\">RES 1626, ECONOMIA<br>D.O. 02.09.1999</span> La pesca de investigaci&#xF3;n se extender&#xE1; entre la fecha de la presente resoluci&#xF3;n y octubre de 1999, en toda el &#xE1;rea comprendida entre la III y VIII Regiones. La Universidad designa como persona responsable al Rector, don Alfonso Muga Naredo. </div></div>"
+        }
+      ]
+    }
+  }
+]

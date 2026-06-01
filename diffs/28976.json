@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1970-12-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-12-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9079620,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Establ&#xE9;cense en favor del Servicio de Seguro Social los siguientes recursos:</div><div class=\"p\">&nbsp; &nbsp; a) Una imposici&#xF3;n mensual del 15% de la renta personal declarada, de cargo de los imponentes;</div><div class=\"p\">&nbsp; &nbsp; b) Los mayores ingresos que se obtengan con motivo de la modificaci&#xF3;n que se establece en el art&#xED;culo 16 de esta ley, y</div><div class=\"p\">&nbsp; &nbsp; c) Un impuesto del 10% sobre el valor de los precios de venta a los suplementeros de los peri&#xF3;dicos y revistas extranjeras, excluidas las cient&#xED;ficas y t&#xE9;cnicas, de cargo de las empresas importadoras o agentes.</div><div class=\"p\">&nbsp; &nbsp; Las tasas de los impuestos de la letra c) de este art&#xED;culo y del nuevo inciso del art&#xED;culo 16 bis de la ley N&#xB0; 12.120, agregado por esta ley, podr&#xE1;n reducirse o elevarse, proporcionalmente, para cada ejercicio si se comprueba a trav&#xE9;s del Registro Permanente de Suplementeros que el n&#xFA;mero de suplementeros asegurados es inferior o superior a diez mil, respectivamente. Esta modificaci&#xF3;n se har&#xE1; por el Presidente de la Rep&#xFA;blica, previo informe de la Superintendencia de Seguridad Social.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Establ&#xE9;cense en favor del Servicio de Seguro Social los siguientes recursos:</div><div class=\"p\">&nbsp; &nbsp; a) Una imposici&#xF3;n mensual del 15% de la renta personal declarada, de cargo de los imponentes;</div><div class=\"p\">&nbsp; &nbsp; b) Los mayores ingresos que se obtengan con motivo de la modificaci&#xF3;n que se establece en el art&#xED;culo 16 de esta ley, y</div><div class=\"p\">&nbsp; &nbsp; c) Un impuesto del 10% sobre el valor de los precios<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> de venta a los suplementeros de los peri&#xF3;dicos y revistas extranjeras, excluidas las cient&#xED;ficas y t&#xE9;cnicas, de cargo de las empresas importadoras o agentes.</div><div class=\"p\">&nbsp; &nbsp; Las tasas de los impuestos de la letra c) de este art&#xED;culo y del nuevo inciso del art&#xED;culo 16 bis de la ley N&#xB0; 12.120, agregado por esta ley, podr&#xE1;n reducirse o elevarse, proporcionalmente, para cada ejercicio si se comprueba a trav&#xE9;s del Registro Permanente de Suplementeros que el n&#xFA;mero de suplementeros asegurados es inferior o superior a diez mil, respectivamente. Esta modificaci&#xF3;n se har&#xE1; por el Presidente de la Rep&#xFA;blica, previo informe de la Superintendencia de Seguridad Social.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El N&#xBA; 10 del art&#xED;culo 1&#xBA;, del DL 829, Hacienda, publicado el 31.12.1974, derog&#xF3; el impuesto contemplado en esta letra. El art&#xED;culo 2&#xBA; dispuso que dicha derogaci&#xF3;n regir&#xE1; a partir del 1&#xBA; de marzo de 1975.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9079624,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Los suplementeros asegurados del Servicio de Seguro Social en virtud de la presente ley, gozar&#xE1;n del beneficio de la asignaci&#xF3;n familiar en iguales condiciones que los dem&#xE1;s asegurados afectos al Fondo de Asignaci&#xF3;n Familiar, la que ser&#xE1; pagada directamente por el Servicio.</div><div class=\"p\">&nbsp; &nbsp; No obstante lo establecido en el inciso anterior, el Servicio de Seguro Social podr&#xE1; delegar el pago de este beneficio, en casos excepcionales, de acuerdo con las modalidades que establezca su reglamento.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Los suplementeros asegurados del Servicio de Seguro Social en virtud de la presente ley, gozar&#xE1;n del beneficio de la asignaci&#xF3;n familiar en iguales condiciones que los dem&#xE1;s asegurados afectos al Fondo de Asignaci&#xF3;n Familiar, en conformidad<span class=\"n\" id=\"n_1\">LEY 19785<br>Art. 5&#xBA;<br>D.O. 14.02.2002</span> con lo dispuesto en el art&#xED;culo 31 del decreto con fuerza de ley N&#xBA; 150, de 1981, del Ministerio del Trabajo y Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp; No obstante lo establecido en el inciso anterior, el Servicio de Seguro Social podr&#xE1; delegar el pago de este beneficio, en casos excepcionales, de acuerdo con las modalidades que establezca su reglamento.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

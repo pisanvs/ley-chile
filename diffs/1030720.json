@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2012-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-04-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9190900,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Disposici&#xF3;n Primera. Esta norma entrar&#xE1; en vigencia a contar del 01 de enero del 2012.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, si a la fecha se&#xF1;alada en el inciso precedente existieren equipos terminales bloqueados en stock en los puntos de venta que utilizan las concesionarias, se deber&#xE1;n adoptar las medidas necesarias, tendientes a hacer efectivo lo dispuesto en el art&#xED;culo 1&#xB0; de esta resoluci&#xF3;n, como por ejemplo, indicar claramente en la caja o envoltorio del equipo terminal la condici&#xF3;n de &quot;bloqueado&quot; y habilitar un procedimiento de desbloqueo expedito y sin costo. El ofrecimiento a usuarios y suscriptores de terminales en estas condiciones no podr&#xE1; superar el 28 de febrero del 2012.</div><div class=\"p\">&nbsp; &nbsp;  En el caso descrito en el inciso anterior, el desbloqueo de los equipos terminales ser&#xE1; de responsabilidad de la concesionaria, directamente o a trav&#xE9;s de las empresas que los comercializan.</div><div class=\"p\">&nbsp; &nbsp;  En caso que el usuario o suscriptor optara por cambiar de concesionaria que presta el servicio portando su n&#xFA;mero telef&#xF3;nico o cambi&#xE1;ndose s&#xF3;lo con su equipo terminal, el desbloqueo tambi&#xE9;n podr&#xE1; ser realizado por la proveedora receptora, a requerimiento del usuario.</div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, las concesionarias adoptar&#xE1;n las medidas pertinentes a fin de que el usuario o suscriptor que efect&#xFA;e un cambio de operador, pueda remover o eliminar cualquier limitaci&#xF3;n o personalizaciones que se hayan impuesto en el tel&#xE9;fono por la concesionaria donante. El desbloqueo deber&#xE1; producirse dentro de las 24 horas a contar del referido requerimiento y deber&#xE1; permitir utilizar el equipo en otras redes distintas de las de la donante.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos del cumplimiento de lo dispuesto en el inciso segundo de este art&#xED;culo, la concesionaria donante deber&#xE1; realizar todas las gestiones tendientes a que la receptora cuente con la informaci&#xF3;n que resulte necesaria, respetando en todo momento la normativa sobre tratamiento de datos personales vigente, Ley N&#xB0; 19.628 y dem&#xE1;s legislaci&#xF3;n aplicable.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Disposici&#xF3;n Primera. Esta norma entrar&#xE1; en vigencia a contar del 01 de enero del 2012.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, si a la fecha se&#xF1;alada en el inciso precedente existieren equipos terminales bloqueados en stock en los puntos de venta que utilizan las concesionarias, se deber&#xE1;n adoptar las medidas necesarias, tendientes a hacer efectivo lo dispuesto en el art&#xED;culo 1&#xB0; de esta resoluci&#xF3;n, como por ejemplo, indicar claramente en la caja o envoltorio del equipo terminal la condici&#xF3;n de &quot;bloqueado&quot; y habilitar un procedimiento de desbloqueo expedito y sin costo. El ofrecimiento a usuarios y suscriptores de terminales en estas condiciones no podr&#xE1; superar el 1<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1038874&amp;idParte=9248199&amp;idVersion=2012-04-11\">Resoluci&#xF3;n 1781 EXENTA,<br>TRANSPORTES<br>D.O. 11.04.2012</a></span>5 de mayo de 2012.</div><div class=\"p\">&nbsp; &nbsp;  En el caso descrito en el inciso anterior, el desbloqueo de los equipos terminales ser&#xE1; de responsabilidad de la concesionaria, directamente o a trav&#xE9;s de las empresas que los comercializan.</div><div class=\"p\">&nbsp; &nbsp;  En caso que el usuario o suscriptor optara por cambiar de concesionaria que presta el servicio portando su n&#xFA;mero telef&#xF3;nico o cambi&#xE1;ndose s&#xF3;lo con su equipo terminal, el desbloqueo tambi&#xE9;n podr&#xE1; ser realizado por la proveedora receptora, a requerimiento del usuario.</div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, las concesionarias adoptar&#xE1;n las medidas pertinentes a fin de que el usuario o suscriptor que efect&#xFA;e un cambio de operador, pueda remover o eliminar cualquier limitaci&#xF3;n o personalizaciones que se hayan impuesto en el tel&#xE9;fono por la concesionaria donante. El desbloqueo deber&#xE1; producirse dentro de las 24 horas a contar del referido requerimiento y deber&#xE1; permitir utilizar el equipo en otras redes distintas de las de la donante.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos del cumplimiento de lo dispuesto en el inciso segundo de este art&#xED;culo, la concesionaria donante deber&#xE1; realizar todas las gestiones tendientes a que la receptora cuente con la informaci&#xF3;n que resulte necesaria, respetando en todo momento la normativa sobre tratamiento de datos personales vigente, Ley N&#xB0; 19.628 y dem&#xE1;s legislaci&#xF3;n aplicable.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1038874,
+      "fecha": "2012-04-11"
+    }
+  },
+  {
+    "fecha": "2013-05-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

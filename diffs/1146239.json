@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-06-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-08-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10126218,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Determ&#xED;nase para el a&#xF1;o 2021 los siguientes alumnos en calidad de prioritarios, para todas las regiones del pa&#xED;s, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n escolar preferencial, de acuerdo a lo dispuesto en el art&#xED;culo 2&#xB0; de la ley N&#xB0; 20.248 y que se encuentran individualizados en el listado contenido en el archivo del CD folio N&#xB0; 01/2021 - Alumnos Prioritarios con firma electr&#xF3;nica avanzada de la Coordinadora Nacional de Tecnolog&#xED;a del Ministerio de Educaci&#xF3;n, que se acompa&#xF1;a en el anexo y que se forma parte integrante de la presente resoluci&#xF3;n. </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1148575&amp;idParte=10152504&amp;idVersion=2020-08-20\">Resoluci&#xF3;n 3376 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2<br>D.O. 20.08.2020</a></span>Determ&#xED;nase para el a&#xF1;o 2021, los siguientes alumnos en calidad de prioritarios, para todas las regiones del pa&#xED;s, que ser&#xE1;n beneficiarios de la Subvenci&#xF3;n Escolar Preferencial, de acuerdo con lo dispuesto en el art&#xED;culo 2&#xB0; de la ley N&#xB0; 20.248, y que se encuentran individualizados en los listados contenidos en los archivos de los CDs. Folios N&#xB0; 01/2021-Alumnos Prioritarios y N&#xB0; 03/2021 Acoge, ambos con firma electr&#xF3;nica avanzada de la Coordinadora Nacional de Tecnolog&#xED;a de la Divisi&#xF3;n de Planificaci&#xF3;n y Presupuesto, del Ministerio de Educaci&#xF3;n, que se acompa&#xF1;an en el anexo y que forman parte integrante de la presente resoluci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1148575,
+      "fecha": "2020-08-20"
+    }
+  }
+]

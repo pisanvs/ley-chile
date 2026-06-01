@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1986-08-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-04-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9001256,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Al personal de Gente de Mar al que le<span class=\"n\" id=\"n_0\">Ley 18697<br>Art. &#xFA;nico</span> falte s&#xF3;lo el requisito de tiempo en el grado para ascender, le servir&#xE1;n de abono por una sola vez y en cualquiera de los grados, hasta dos a&#xF1;os de los cinco que haya permanecido en los grados de Marinero 2&#xB0; y Marinero 1&#xB0; o Soldado 2&#xB0; (IM) y Soldado 1&#xB0; (IM), en su caso.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9001251,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culos Transitorios (Arts. 1-3) Art&#xED;culo 1&#xB0;.- El personal del Cuadro Permanente y de Gente de Mar no podr&#xE1; percibir, como consecuencia de la aplicaci&#xF3;n de esta ley, una renta inferior a aquella que estuviere gozando a la fecha de su entrada en vigencia, debiendo manten&#xE9;rsele dicha renta si as&#xED; ocurriere.</div><div class=\"p\">&nbsp; &nbsp; Las diferencias que se produzcan por tal motivo ser&#xE1;n pagadas por planilla suplementaria, las que ser&#xE1;n reajustables e imponibles en los mismos porcentajes y proporci&#xF3;n en que lo sean las remuneraciones y se absorber&#xE1;n a medida de los ascensos o entrada al goce de sueldos superiores de este personal.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culos Transitorios {Arts. 1-4} Art&#xED;culo 1&#xB0;.- El personal del Cuadro Permanente y de Gente de Mar no podr&#xE1; percibir, como consecuencia de la aplicaci&#xF3;n de esta ley, una renta inferior a aquella que estuviere gozando a la fecha de su entrada en vigencia, debiendo manten&#xE9;rsele dicha renta si as&#xED; ocurriere.</div><div class=\"p\">&nbsp; &nbsp; Las diferencias que se produzcan por tal motivo ser&#xE1;n pagadas por planilla suplementaria, las que ser&#xE1;n reajustables e imponibles en los mismos porcentajes y proporci&#xF3;n en que lo sean las remuneraciones y se absorber&#xE1;n a medida de los ascensos o entrada al goce de sueldos superiores de este personal.</div></div>"
+        }
+      ]
+    }
+  }
+]

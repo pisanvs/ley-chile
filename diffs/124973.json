@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-09-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7239883,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- A contar del 1&#xBA; de enero de 1999, s&#xF3;lo se permitir&#xE1; el ingreso al per&#xED;metro de restricci&#xF3;n a los veh&#xED;culos que realizan el servicio de carga y descarga y que cumplan con los siguientes requisitos respecto a emisiones certificadas:</div><br><div class=\"p\">-&nbsp; &nbsp; Veh&#xED;culos livianos, corresponde a aquellos cuyo peso bruto sea menor a 2.700 Kgs., que cumplan con el D.S. N&#xBA; 211, de 1991, del Ministerio de Transportes.</div><div class=\"p\">-&nbsp; &nbsp; Veh&#xED;culos medianos, comprende a aquellos cuyo peso bruto sea mayor o igual a 2.700 Kgs. y menor a 3.860 Kgs., que cumplan con el D.S. N&#xBA; 54, de 1994, del Ministerio de Transportes.</div><div class=\"p\">-&nbsp; &nbsp; Camiones y otros, comprende a aquellos camiones simples, sin acoplado de 2 ejes, que cumplen con el D.S.</div><div class=\"p\">N&#xBA; 55, de 1994, del Ministerio de Transportes.</div><br><div class=\"p\">&nbsp; &nbsp;  Todos los veh&#xED;culos correspondientes a estas categor&#xED;as deber&#xE1;n exhibir el respectivo sello verde adherido a sus parabrisas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- A contar del 1&#xBA; de enero de 1999, s&#xF3;lo se permitir&#xE1; el ingreso al per&#xED;metro de restricci&#xF3;n a los veh&#xED;culos que realizan el servicio de carga y descarga y que cumplan con los siguientes requisitos respecto a emisiones certificadas: -&nbsp; &nbsp; Veh&#xED;culos livianos, corresponde a aquellos cuyo</div><div class=\"p\">peso bruto sea menor a 2.700 Kgs., que cumplan con el</div><div class=\"p\">D.S. N&#xBA; 211, de 1991, del Ministerio de Transportes.</div><div class=\"p\">-&nbsp; &nbsp; Veh&#xED;culos medianos, comprende a aquellos cuyo peso</div><div class=\"p\">bruto sea mayor o igual a 2.700 Kgs. y menor a 3.860</div><div class=\"p\">Kgs., que cumplan con el D.S. N&#xBA; 54, de 1994, del</div><div class=\"p\">Ministerio de Transportes.</div><div class=\"p\">-&nbsp; &nbsp; Camiones y otros, comprende a aquellos camiones</div><div class=\"p\">simples, sin acoplado de 2 ejes, que cumplen con el D.S.</div><div class=\"p\">N&#xBA; 55, de 1994, del Ministerio de Transportes.</div><div class=\"p\"> Todos los veh&#xED;culos correspondientes a estas categor&#xED;as deber&#xE1;n exhibir el respectivo sello verde adherido a sus parabrisas. A contar del 1&#xBA; de septiembre del a&#xF1;o 2000, se<span class=\"n\" id=\"n_0\">DTO 526<br>M. DE SANTIAGO<br>N&#xBA; 1<br>D.O. 01.08.2000</span> proh&#xED;be en las v&#xED;as de la comuna de Santiago el estacionamiento de toda clase de camiones y/o carros de arrastre, salvo expresa autorizaci&#xF3;n por parte del Municipio. </div></div>"
+        }
+      ]
+    }
+  }
+]

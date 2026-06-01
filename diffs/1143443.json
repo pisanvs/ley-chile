@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2020-03-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-05-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10108492,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: El presente decreto entrar&#xE1; en vigencia desde su publicaci&#xF3;n en el Diario Oficial, no obstante, las municipalidades contar&#xE1;n con un plazo de 30 d&#xED;as corridos, contados desde la publicaci&#xF3;n, para la implementaci&#xF3;n de las modificaciones relativas al examen de conocimientos pr&#xE1;cticos para optar a licencia de conductor no profesional Clase B.</div><div class=\"p\">&nbsp; &nbsp;  Las modificaciones relativas a los ex&#xE1;menes te&#xF3;ricos que deber&#xE1;n rendir los postulantes a conductor de la licencia no profesional Clase C, para la conducci&#xF3;n de triciclos motorizados de carga, entrar&#xE1;n en vigencia en un plazo de 60 d&#xED;as corridos, contados desde la publicaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Las municipalidades, dentro de un plazo de 180 d&#xED;as corridos, deber&#xE1;n implementar las modificaciones al examen de conocimientos pr&#xE1;cticos para postulantes a licencia de conductor no profesional Clase C y para postulantes a licencia de conductor no profesional Clase C restringida para la conducci&#xF3;n de triciclos motorizados de carga.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: El presente decreto entrar&#xE1; en vigencia desde su publicaci&#xF3;n en el Diario Oficial, no obstante, las municipalidades contar&#xE1;n con un plazo de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1145060&amp;idParte=10119266&amp;idVersion=2020-05-11\">Decreto 26, TRANSPORTES<br>Art. &#xDA;NICO a), b) y c)<br>D.O. 11.05.2020</a></span>120 d&#xED;as corridos, contados desde la publicaci&#xF3;n, para la implementaci&#xF3;n de las modificaciones relativas al examen de conocimientos pr&#xE1;cticos para optar a licencia de conductor no profesional Clase B.</div><div class=\"p\">&nbsp; &nbsp;  Las modificaciones relativas a los ex&#xE1;menes te&#xF3;ricos que deber&#xE1;n rendir los postulantes a conductor de la licencia no profesional Clase C, para la conducci&#xF3;n de triciclos motorizados de carga, entrar&#xE1;n en vigencia en un plazo de 150 d&#xED;as corridos, contados desde la publicaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Las municipalidades, dentro de un plazo de 270 d&#xED;as corridos, deber&#xE1;n implementar las modificaciones al examen de conocimientos pr&#xE1;cticos para postulantes a licencia de conductor no profesional Clase C y para postulantes a licencia de conductor no profesional Clase C restringida para la conducci&#xF3;n de triciclos motorizados de carga.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        },
+        {
+          "part_id": 10108493,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: La nueva exigencia establecida en la letra c) del art&#xED;culo 12 del decreto supremo N&#xBA;170, de 1985, del Ministerio de Transportes y Telecomunicaciones, s&#xF3;lo ser&#xE1; exigible a los nuevos funcionarios municipales que sean habilitados para evaluar ex&#xE1;menes pr&#xE1;cticos de conducci&#xF3;n, a partir de 30 d&#xED;as corridos contados desde la fecha de publicaci&#xF3;n del presente decreto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: La nueva exigencia establecida en la letra c) del art&#xED;culo 12 del decreto supremo N&#xBA;170, de 1985, del Ministerio de Transportes y Telecomunicaciones, s&#xF3;lo ser&#xE1; exigible a los nuevos funcionarios municipales que sean habilitados para evaluar ex&#xE1;menes pr&#xE1;cticos de conducci&#xF3;n, a partir de <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1145060&amp;idParte=10119266&amp;idVersion=2020-05-11\">Decreto 26, TRANSPORTES<br>Art. &#xDA;NICO d)<br>D.O. 11.05.2020</a></span>120 d&#xED;as corridos contados desde la fecha de publicaci&#xF3;n del presente decreto.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1145060,
+      "fecha": "2020-05-11"
+    }
+  }
+]

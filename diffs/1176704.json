@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-05-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-11-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10337719,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case la resoluci&#xF3;n exenta N&#xB0; 183, de 16 de marzo de 2021, de este origen, en el sentido de incorporar en su resuelvo primero, a continuaci&#xF3;n de la letra i), en calidad de sujeto pasivo de la ley N&#xB0; 20.730, que Regula el Lobby y las gestiones que representen Intereses particulares ante autoridades y funcionarios, lo siguiente: j) Asesor Macroecon&#xF3;mico de la Subsecretar&#xED;a de Hacienda.</div><div class=\"p\">&nbsp; &nbsp;  2. Disp&#xF3;ngase que, por razones impostergables de buen servicio, la incorporaci&#xF3;n del Asesor Macroecon&#xF3;mico de la Subsecretar&#xED;a de Hacienda como sujeto pasivo de la ley N&#xB0; 20.730, que Regula el Lobby y las gestiones que representen intereses particulares ante autoridades y funcionarios, producir&#xE1; sus efectos a contar de la fecha de la presente resoluci&#xF3;n exenta.</div><div class=\"p\">&nbsp; &nbsp;  3. Reg&#xED;strese en los Registros de Agenda P&#xFA;blica se&#xF1;alados en la Ley de Lobby, la informaci&#xF3;n pertinente al sujeto pasivo establecido en el resuelvo primero.</div><div class=\"p\">&nbsp; &nbsp;  4. D&#xE9;jase establecido que en todo lo no modificado se mantiene vigente la resoluci&#xF3;n exenta N&#xB0; 183, de 16 de marzo de 2021, de este origen.</div><div class=\"p\">&nbsp; &nbsp;  5. Publ&#xED;quese el presente acto administrativo en el Diario Oficial, en conformidad al art&#xED;culo 48 letra b) de la ley N&#xB0; 19.880, que Establece bases de los procedimientos administrativos que rigen los actos de los &#xF3;rganos de la Administraci&#xF3;n del Estado, y publ&#xED;quese en los sitios electr&#xF3;nicos indicados en el art&#xED;culo 9&#xB0; de la ley N&#xB0; 20.730.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case la resoluci&#xF3;n exenta N&#xB0; 183, de 16 de marzo de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1184370&amp;idParte=10379670&amp;idVersion=2022-11-16\">Resoluci&#xF3;n 600 EXENTA,<br>HACIENDA<br>N&#xB0; 4<br>D.O. 16.11.2022</a></span>2022, de este origen, en el sentido de incorporar en su resuelvo primero, a continuaci&#xF3;n de la letra i), en calidad de sujeto pasivo de la ley N&#xB0; 20.730, que Regula el Lobby y las gestiones que representen Intereses particulares ante autoridades y funcionarios, lo siguiente: j) Asesor Macroecon&#xF3;mico de la Subsecretar&#xED;a de Hacienda.</div><div class=\"p\">&nbsp; &nbsp;  2. Disp&#xF3;ngase que, por razones impostergables de buen servicio, la incorporaci&#xF3;n del Asesor Macroecon&#xF3;mico de la Subsecretar&#xED;a de Hacienda como sujeto pasivo de la ley N&#xB0; 20.730, que Regula el Lobby y las gestiones que representen intereses particulares ante autoridades y funcionarios, producir&#xE1; sus efectos a contar de la fecha de la presente resoluci&#xF3;n exenta.</div><div class=\"p\">&nbsp; &nbsp;  3. Reg&#xED;strese en los Registros de Agenda P&#xFA;blica se&#xF1;alados en la Ley de Lobby, la informaci&#xF3;n pertinente al sujeto pasivo establecido en el resuelvo primero.</div><div class=\"p\">&nbsp; &nbsp;  4. D&#xE9;jase establecido que en todo lo no modificado se mantiene vigente la resoluci&#xF3;n exenta N&#xB0; 183, de 16 de marzo de 2021, de este origen.</div><div class=\"p\">&nbsp; &nbsp;  5. Publ&#xED;quese el presente acto administrativo en el Diario Oficial, en conformidad al art&#xED;culo 48 letra b) de la ley N&#xB0; 19.880, que Establece bases de los procedimientos administrativos que rigen los actos de los &#xF3;rganos de la Administraci&#xF3;n del Estado, y publ&#xED;quese en los sitios electr&#xF3;nicos indicados en el art&#xED;culo 9&#xB0; de la ley N&#xB0; 20.730.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1184370,
+      "fecha": "2022-11-16"
+    }
+  }
+]

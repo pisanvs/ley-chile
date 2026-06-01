@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1966-03-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-07-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004889,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.o- Modif&#xED;case el inciso segundo del art&#xED;culo 2&#xBA; de la ley N&#xBA; 13.925 en la siguiente forma:</div><div class=\"p\">&nbsp; &nbsp;  Reempl&#xE1;zase a continuaci&#xF3;n de las palabras &quot;El Tabo&quot; la conjunci&#xF3;n &quot;y&quot; por una coma (,)e interc&#xE1;lase a continuaci&#xF3;n de &quot;Cartagena&quot; y antes de la forma verbal &quot;aum&#xE9;ntase&quot; la expresi&#xF3;n &quot;San Antonio y Navidad&quot;, y Reempl&#xE1;zase la expresi&#xF3;n &quot;cien pesos&quot; por &quot;un escudo&quot;.&quot; </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.o- DEROGADO<span class=\"n\" id=\"n_0\">DL 567, HACIENDA<br>Art. 1&#xBA;<br>D.O. 20.07.1974</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

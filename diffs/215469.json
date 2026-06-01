@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-06-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-09-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6442360,
+          "old": "<div><div class=\"p\">DEROGA DECRETO No. 79, DE 1984 Y SUS MODIFICACIONES, Y DESIGNA SUBROGANTES DE LA SUBSECRETARIA DE VIVIENDA Y URBANISMO</div><div class=\"p\">&nbsp; &nbsp;  Santiago, 11 de Abril de 1990.- Hoy se decret&#xF3; lo que Sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 44.- Visto: El D.S. No. 79 (V. y U.) de 1984 y sus modificaciones lo dispuesto en los art&#xED;culos 75&#xB0; y siguientes de la Ley No. 18.834, de 1989,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DEROGA DECRETO No. 79, DE 1984 Y SUS MODIFICACIONES, Y DESIGNA SUBROGANTES DE LA SUBSECRETARIA DE VIVIENDA Y URBANISMO</div><div class=\"p\">&nbsp; &nbsp;  Santiago, 11 de Abril de 1990.- Hoy se decret&#xF3; lo que Sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 44.- Visto: El D.S. No. 79 (V. y U.) de 1984 y sus modificaciones lo dispuesto en los art&#xED;culos 75&#xB0; y siguientes de la Ley No. 18.834, de 1989,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

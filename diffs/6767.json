@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-09-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-12-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8991117,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE UN SORTEO DE LA POLLA CHILENA DE BENEFICENCIA EN BENEFICIO DE LAS INSTITUCIONES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.880.- Santiago, 17 de Agosto de 1977.- Visto: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527 de 1974, y 991, de 1976,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">ESTABLECE UN SORTEO DE LA POLLA CHILENA DE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> BENEFICENCIA EN BENEFICIO DE LAS INSTITUCIONES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.880.- Santiago, 17 de Agosto de 1977.- Visto: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527 de 1974, y 991, de 1976,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 4&#xB0; del DL 2413, Hacienda, publicado el 29.12.1978, derog&#xF3; el presente decreto ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

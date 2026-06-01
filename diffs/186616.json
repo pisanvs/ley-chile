@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-06-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-11-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8647864,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24.- Las referencias que las leyes hacen a los delitos de fraude y contrabando descritos en el art&#xED;culo 168 de la Ordenanza de Aduanas se entender&#xE1;n hechas al delito de contrabando que contemplar&#xE1; ese cuerpo legal en virtud de las modificaciones previstas en el art&#xED;culo 10, letra f), de esta ley.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24.- Las referencias que las leyes hacen a los delitos de fraude y contrabando descritos en el art&#xED;culo 168 de la Ordenanza de Aduanas se entender&#xE1;n hechas al delito de contrabando que contemplar&#xE1; ese cuerpo legal en virtud de las modificaciones previstas en el art&#xED;culo 10, letra e), de esta ley.<span class=\"n\" id=\"n_0\">LEY 19912<br>Art. 23<br>D.O. 04.11.2003</span></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 23 de la LEY 19912, publicada el 04.11.2003, dispone que la referencia a la letra f) del art&#xED;culo 10 que hace el presente art&#xED;culo, se entiende que es a la letra &quot;e)&quot;, la cual se ha incorporado al presente texto actualizado.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

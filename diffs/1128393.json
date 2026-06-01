@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-02-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9996120,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1. Sanci&#xF3;nase inclusi&#xF3;n en n&#xF3;mina para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elecci&#xF3;n de Vivienda, a personas no damnificadas en el Conjunto Habitacional Cerro Tarapac&#xE1; Etapa I Pampa Perdiz de la comuna de Alto Hospicio, conforme a las facultades establecidas en la resoluci&#xF3;n exenta N&#xB0; 3.974 (V. y U.), de fecha 22 de junio de 2018, a los beneficiarios que se individualizan a continuaci&#xF3;n:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/88978.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. Sanci&#xF3;nase inclusi&#xF3;n en n&#xF3;mina para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elecci&#xF3;n de Vivienda, a personas no damnificadas en el Conjunto Habitacional Cerro Tarapac&#xE1; Etapa I Pampa Perdiz de la comuna de Alto Hospicio, conforme a las facultades establecidas en la resoluci&#xF3;n exenta N&#xB0; 3.974 (V. y U.), de fecha 22 de junio de 2018, a los beneficiarios que se individualizan a continuaci&#xF3;n:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/88978.jpg\">.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; E l numeral 1&#xB0; de la Resoluci&#xF3;n 47 Exenta, Vivienda. publicada el 07.02.1019, modifica la presente norma en el sentido de rectificar donde dice: Jaqueline S&#xE1;nchez Fuentes, debe decir: Jacqueline S&#xE1;nchez Fuentes.</div></div>"
+        }
+      ]
+    }
+  }
+]

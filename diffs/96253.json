@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-02-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-08-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8327139,
+          "old": "<div><div class=\"p\">MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE SARDINA ESPA&#xD1;OLA Y ANCHOVETA, DEL ARTICULO 1&#xBA;, LETRAS&nbsp; A) Y B) RESPECTIVAMENTE DEL D.S. N&#xBA; 354, DE 1993</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m.&nbsp; 156.- Valpara&#xED;so, 30 de enero de 1998.- Visto: Lo informado por la Divisi&#xF3;n de Desarrollo Pesquero, de esta Subsecretar&#xED;a, en Memorandum N&#xBA; 63 de fecha 26 de enero de 1998; el D.F.L. N&#xBA; 5 de 1983; la Resoluci&#xF3;n N&#xBA; 1.853, de 1997, de esta Subsecretar&#xED;a; la Ley N&#xBA; 18.892 sobre Pesca y Acuicultura, cuyo texto refundido, coordinado y sistematizado fue fijado por D.S. N&#xBA; 430 de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE SARDINA ESPA&#xD1;OLA Y ANCHOVETA, DEL ARTICULO 1&#xBA;, LETRAS&nbsp; A) Y B) RESPECTIVAMENTE DEL D.S. N&#xBA; 354, DE 1993</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m.&nbsp; 156.- Valpara&#xED;so, 30 de enero de 1998.- Visto: Lo informado por la Divisi&#xF3;n de Desarrollo Pesquero, de esta Subsecretar&#xED;a, en Memorandum N&#xBA; 63 de fecha 26 de enero de 1998; el D.F.L. N&#xBA; 5 de 1983; la Resoluci&#xF3;n N&#xBA; 1.853, de 1997, de esta Subsecretar&#xED;a; la Ley N&#xBA; 18.892 sobre Pesca y Acuicultura, cuyo texto refundido, coordinado y sistematizado fue fijado por D.S. N&#xBA; 430 de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

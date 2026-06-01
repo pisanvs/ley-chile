@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-11-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-12-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8439190,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Modif&#xED;quese el numeral 2&#xB0; letras A) y B), de</div><div class=\"p\">la Resoluci&#xF3;n Exenta N&#xB0; 413 y sus modificaciones</div><div class=\"p\">posteriores, todas de 2008 y de esta Subsecretar&#xED;a, que</div><div class=\"p\">estableci&#xF3; la distribuci&#xF3;n de la fracci&#xF3;n artesanal de</div><div class=\"p\">pesquer&#xED;a de Anchoveta Engraulis ringens y Sardina com&#xFA;n</div><div class=\"p\">Clupea bentincki en la VIII Regi&#xF3;n, sometidas al R&#xE9;gimen</div><div class=\"p\">Artesanal de Extracci&#xF3;n por unidad de asignaci&#xF3;n organizaciones de pescadores artesanales o unidad de asignaci&#xF3;n individual, en el sentido de modificar la asignaci&#xF3;n para el recurso Anchoveta de las embarcaciones artesanales &apos;Don Boris&apos; (RPA 923213) y &apos;Don Pascual&apos; (RPA 6578), ambas del Sindicato de Armadores y Pescadores Artesanales Afines, SARPE, Registro Sindical &#xDA;nico 08.05.0398, de acuerdo a lo siguiente:</div><br><div class=\"p\">A) Pesquer&#xED;a artesanal de Anchoveta</div><br><div class=\"p\">Sindicato de Independiente de Armadores y Pescadores Artesanales Afines, SARPE, Registro Sindical &#xDA;nico 08.05.0398</div><br><div class=\"p\">RPA&nbsp; &nbsp;  Embarcaci&#xF3;n&nbsp; &nbsp; Enero-&nbsp;  Septiembre-</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Agosto&nbsp; &nbsp; Diciembre&nbsp;  Total</div><br><div class=\"p\">6578&nbsp; &nbsp; DON PASCUAL&nbsp;  1.438,79&nbsp; &nbsp; &nbsp;  1&nbsp; &nbsp; &nbsp; 1.439,79</div><div class=\"p\">923213&nbsp; DON BORIS&nbsp; &nbsp; &nbsp;  473,21&nbsp; &nbsp; &nbsp;  2&nbsp; &nbsp; &nbsp; &nbsp; 439,21</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Modif&#xED;quese el numeral 2&#xB0; letras A) y B), de</div><div class=\"p\">la Resoluci&#xF3;n Exenta N&#xB0; 413 y sus modificaciones</div><div class=\"p\">posteriores, todas de 2008 y de esta Subsecretar&#xED;a, que</div><div class=\"p\">estableci&#xF3; la distribuci&#xF3;n de la fracci&#xF3;n artesanal de</div><div class=\"p\">pesquer&#xED;a de Anchoveta Engraulis ringens y Sardina com&#xFA;n</div><div class=\"p\">Clupea bentincki en la VIII Regi&#xF3;n, sometidas al R&#xE9;gimen</div><div class=\"p\">Artesanal de Extracci&#xF3;n por unidad de asignaci&#xF3;n organizaciones de pescadores artesanales o unidad de asignaci&#xF3;n individual, en el sentido de modificar la asignaci&#xF3;n para el recurso Anchoveta de las embarcaciones artesanales .Don Boris. (RPA 923213) y .Don Pascual. (RPA 6578), ambas del Sindicato de Armadores y Pescadores Artesanales Afines, SARPE, Registro Sindical &#xDA;nico 08.05.0398, de acuerdo a lo siguiente:</div><br><div class=\"p\">A) Pesquer&#xED;a artesanal de Anchoveta</div><br><div class=\"p\">Sindicato de Independiente de Armadores y Pescadores Artesanales Afines, SARPE, Registro Sindical &#xDA;nico 08.05.0398</div><br><div class=\"p\">RPA&nbsp; &nbsp;  Embarcaci&#xF3;n&nbsp; &nbsp; Enero-&nbsp;  Septiembre-</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Agosto&nbsp; &nbsp; Diciembre&nbsp;  Total</div><br><div class=\"p\">6578&nbsp; &nbsp; DON PASCUAL&nbsp;  1.438,79&nbsp; &nbsp; &nbsp;  1&nbsp; &nbsp; &nbsp; 1.439,79</div><div class=\"p\">923213&nbsp; DON BORIS&nbsp; &nbsp; &nbsp;  437,21&nbsp; &nbsp; &nbsp;  2&nbsp; &nbsp; &nbsp; &nbsp; 439,21<span class=\"n\" id=\"n_0\">RES 3061 EXENTA,<br>ECONOMIA<br>N&#xBA; 1<br>D.O. 02.12.2008</span></div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

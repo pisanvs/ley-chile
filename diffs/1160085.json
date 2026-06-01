@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2021-05-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-06-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10229106,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Establ&#xE9;zcase el calendario del per&#xED;odo ordinario y extraordinario de inscripci&#xF3;n para la rendici&#xF3;n de las pruebas de transici&#xF3;n a la educaci&#xF3;n superior, correspondientes al proceso de admisi&#xF3;n 2022, seg&#xFA;n se indica a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/126698.jpg\"></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Establ&#xE9;zcase el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>calendario del per&#xED;odo ordinario y extraordinario de inscripci&#xF3;n para la rendici&#xF3;n de las pruebas de transici&#xF3;n a la educaci&#xF3;n superior, correspondientes al proceso de admisi&#xF3;n 2022, seg&#xFA;n se indica a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/126698.jpg\"></div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 3524 Exenta, Educaci&#xF3;n, publicada el 30.06.2021, modifica la presente norma en el sentido de establecer que la fecha de inicio de la etapa ordinaria de inscripci&#xF3;n para la rendici&#xF3;n de las pruebas de transici&#xF3;n a la educaci&#xF3;n superior correspondiente al proceso de admisi&#xF3;n 2022, ser&#xE1; el 22 de junio de 2021.</div></div>"
+        }
+      ]
+    }
+  }
+]

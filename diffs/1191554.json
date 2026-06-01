@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2023-04-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-07-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10426161,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- La adecuaci&#xF3;n de la jornada laboral diaria, a fin de cumplir con los nuevos l&#xED;mites de horas semanales establecidos en el C&#xF3;digo del Trabajo y en el art&#xED;culo primero transitorio de la presente ley, deber&#xE1; efectuarse de com&#xFA;n acuerdo entre las partes o a trav&#xE9;s de las organizaciones sindicales en representaci&#xF3;n de sus afiliados y afiliadas. A falta de dicho acuerdo, el empleador o empleadora deber&#xE1; efectuar la adecuaci&#xF3;n de la jornada reduciendo su t&#xE9;rmino en forma proporcional entre los distintos d&#xED;as de trabajo, considerando para ello la distribuci&#xF3;n semanal de la jornada.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- La adecuaci&#xF3;n de la jornada laboral diaria, a fin de cumplir con los nuevos l&#xED;mites de horas semanales establecidos en el C&#xF3;digo del Trabajo y en el art&#xED;culo primero transitorio de la presente ley, deber&#xE1; efectuarse de com&#xFA;n acuerdo entre las partes o a trav&#xE9;s de las organizaciones sindicales en representaci&#xF3;n de sus afiliados y afiliadas. A falta de dicho acuerdo, el empleador o empleadora deber&#xE1; efectuar la adecuaci&#xF3;n de la jornada reduciendo su t&#xE9;rmino <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>en forma proporcional entre los distintos d&#xED;as de trabajo, considerando para ello la distribuci&#xF3;n semanal de la jornada.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 24 de la Ley 21755, publicada el 11.07.2025, declara que la expresi&#xF3;n &quot;en forma proporcional&quot;, debe entenderse en el sentido que, a fin de cumplir gradualmente con los nuevos l&#xED;mites de la jornada de cuarenta horas semanales establecida en el C&#xF3;digo del Trabajo, en ausencia de acuerdo entre las partes o las organizaciones sindicales sobre la distribuci&#xF3;n de dicha reducci&#xF3;n, en aquellas jornadas que, previo a la entrada en vigencia de la ley N&#xB0; 21.561, ten&#xED;an una extensi&#xF3;n de cuarenta y cinco horas semanales, las cinco horas de rebaja necesarias para alcanzar la jornada de cuarenta horas deben distribuirse proporcionalmente en cada d&#xED;a de la jornada semanal de cinco o seis d&#xED;as establecida en el contrato de trabajo, se reducir&#xE1;n en una hora o cincuenta minutos de la jornada diaria, seg&#xFA;n corresponda, respecto del d&#xED;a que determine el empleador y se respetar&#xE1; para ello la oportunidad establecida en el art&#xED;culo primero transitorio de la referida ley.</div></div>"
+        }
+      ]
+    }
+  }
+]

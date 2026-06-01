@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-03-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8299429,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE ESPECIFICACION TECNICA E.T. SEC C.5/89 PARA LA INSPECCION PERIODICA Y REPARACION DE ESTANQUES PARA GLP</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 323 exenta.- Santiago, 5 de Marzo de 1993.-</div><div class=\"p\">&nbsp; &nbsp; Visto:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Lo dispuesto en el art&#xED;culo 1&#xB0;, Cap&#xED;tulo II, punto 2.1 del Decreto de Econom&#xED;a N&#xB0; 29 de 1986.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Las facultades que me confiere el art&#xED;culo 3&#xB0; N&#xB0; 14 de la Ley N&#xB0; 18.410, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- La conformidad otorgada por el Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n seg&#xFA;n oficio N&#xB0; 2.453 del 25-04-91, y</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Lo informado por el Departamento de Ingenier&#xED;a de Combustibles seg&#xFA;n Memorando N&#xB0; DIC-199 de fecha 18-11-92.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE ESPECIFICACION TECNICA E.T. SEC C.5/89 PARA LA INSPECCION PERIODICA Y REPARACION DE ESTANQUES PARA GLP</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 323 exenta.- Santiago, 5 de Marzo de 1993.-</div><div class=\"p\">&nbsp; &nbsp; Visto:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Lo dispuesto en el art&#xED;culo 1&#xB0;, Cap&#xED;tulo II, punto 2.1 del Decreto de Econom&#xED;a N&#xB0; 29 de 1986.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Las facultades que me confiere el art&#xED;culo 3&#xB0; N&#xB0; 14 de la Ley N&#xB0; 18.410, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- La conformidad otorgada por el Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n seg&#xFA;n oficio N&#xB0; 2.453 del 25-04-91, y</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Lo informado por el Departamento de Ingenier&#xED;a de Combustibles seg&#xFA;n Memorando N&#xB0; DIC-199 de fecha 18-11-92.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

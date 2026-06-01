@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-08-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-09-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9626071,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Ac&#xF3;gese la solicitud de modificaci&#xF3;n del plazo de entrega de la declaraci&#xF3;n de desembarque artesanal, establecido en el art&#xED;culo 4&#xBA; letra b) numeral 2, del decreto supremo N&#xBA; 129 del a&#xF1;o 2013, en el sentido de aplazar la entrega de &#xE9;sta, a m&#xE1;s tardar el d&#xED;a 12 del mes siguiente de ocurrido el desembarque, s&#xF3;lo para aquellas embarcaciones de una eslora inferior a 12 metros que presenten desembarques de recursos no sometidos a la medida de administraci&#xF3;n de cuota, en las caletas que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51330.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Ac&#xF3;gese la solicitud de modificaci&#xF3;n del plazo de entrega de la declaraci&#xF3;n de desembarque artesanal, establecido en el art&#xED;culo 4&#xBA; letra b) numeral 2, del decreto supremo N&#xBA; 129 del a&#xF1;o 2013, en el sentido de aplazar la entrega de &#xE9;sta, a m&#xE1;s tardar el d&#xED;a 12 del mes siguiente de ocurrido el desembarque, s&#xF3;lo para aquellas embarcaciones de una eslora inferior a 12 metros que presenten desembarques de recursos no sometidos a la medida de administraci&#xF3;n de cuota, en las caletas que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51330.jpg\">.</div><div class=\"p\">&nbsp; <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1081129&amp;idParte=9633387&amp;idVersion=2015-09-02\">Resoluci&#xF3;n 7454 EXENTA, <br>ECONOM&#xCD;A<br>D.O. 02.09.2015</a></span>&nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51946.jpg\">.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1081129,
+      "fecha": "2015-09-02"
+    }
+  }
+]

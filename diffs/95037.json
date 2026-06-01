@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-09-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8924956,
+          "old": "<div><div class=\"p\">1.- Ac&#xE9;ptase a contar del 2 de mayo de 1991, la renuncia voluntaria presentada por don Sim&#xF3;n Gonz&#xE1;lez de Groote, al cargo de S&#xED;ndico Privado de Quiebras, para la IV y VIII Regiones.</div><br><div class=\"p\">2.- Excl&#xFA;yase de la Tercera n&#xF3;mina Nacional de S&#xED;ndicos fijada por Decreto N&#xBA;1071, de 10 de noviembre de 1983, a don Sim&#xF3;n Gonz&#xE1;lez de Groote, por haber renunciado voluntariamente a su cargo.</div><br></div>",
+          "new": "<div><div class=\"p\">1.- Ac&#xE9;ptase a contar del 2 de mayo de 1991, la renuncia</div><div class=\"p\">voluntaria presentada por don Sim&#xF3;n Gonz&#xE1;lez de Groote,</div><div class=\"p\">al cargo de S&#xED;ndico Privado de Quiebras, para la IX y<span class=\"n\" id=\"n_0\">DTO 904, JUSTICIA<br>D.O. 10.09.1991</span></div><div class=\"p\">VIII Regiones.</div><div class=\"p\"> 2.- Excl&#xFA;yase de la Tercera n&#xF3;mina Nacional de S&#xED;ndicos</div><div class=\"p\">fijada por Decreto N&#xBA;1071, de 10 de noviembre de 1983, a don</div><div class=\"p\">Sim&#xF3;n Gonz&#xE1;lez de Groote, por haber renunciado</div><div class=\"p\">voluntariamente a su cargo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

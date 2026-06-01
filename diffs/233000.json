@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-11-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7316410,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xBA; 1.960 DE 1982 QUE APRUEBA PLAN Y PROGRAMA DE ESTUDIOS A CENTRO DE FORMACION TECNICA QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xBA; 1.960 DE 1982 QUE APRUEBA PLAN Y PROGRAMA DE ESTUDIOS A CENTRO DE FORMACION TECNICA QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

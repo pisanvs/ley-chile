@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2014-05-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-06-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9440824,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: F&#xED;jase, a contar de esta fecha, en caso de ausencia o impedimento del titular, el siguiente orden de subrogaci&#xF3;n del cargo de Subsecretaria/o de Econom&#xED;a y Empresas de Menor Tama&#xF1;o:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Ana Isabel Vargas Valenzuela, RUT N&#xBA; 12.725.337-4, Jefa de Divisi&#xF3;n, grado 4&#xBA; de la EUR de la Planta de Directivos del Ministerio de Econom&#xED;a, Fomento y Turismo.</div><div class=\"p\">&nbsp; &nbsp;  2.- Pamela Arellano P&#xE9;rez, RUT N&#xBA; 12.935.989-7, Jefa de Divisi&#xF3;n, grado 5&#xBA; de la EUR de la Planta de Directivos del Ministerio de Econom&#xED;a, Fomento y Turismo.</div><div class=\"p\">&nbsp; &nbsp;  2.- Juan del Tr&#xE1;nsito Daza Lizana, RUT N&#xBA; 12.904.608-2, Secretario Regional Ministerial, grado 5 de la EUR de la Planta de Directivos del Ministerio de Econom&#xED;a, Fomento y Turismo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: F&#xED;jase, a contar de esta fecha, en caso de ausencia o impedimento del titular, el siguiente orden de subrogaci&#xF3;n del cargo de Subsecretaria/o de Econom&#xED;a y Empresas de Menor Tama&#xF1;o:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Ana Isabel Vargas Valenzuela, RUT N&#xBA; 12.725.337-4, Jefa de Divisi&#xF3;n, grado 4&#xBA; de la EUR de la Planta de Directivos del Ministerio de Econom&#xED;a, Fomento y Turismo.</div><div class=\"p\">&nbsp; &nbsp;  2.- Mar&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1078326&amp;idParte=9608680&amp;idVersion=2015-06-12\">Decreto 410 EXENTO,<br>ECONOM&#xCD;A<br>Art. PRIMERO<br>D.O. 12.06.2015</a></span>Alejandra Dagnino Elissetche, RUN. N&#xBA; 8.701.042-2, grado 4&#xBA; de la EUR de la Planta de Directivos del Ministerio de Econom&#xED;a, Fomento y Turismo.</div><div class=\"p\">&nbsp; &nbsp;  3.- Jos&#xE9; Fernando Soto Castillo, RUN. N&#xBA; 9.408.331-1, Secretario Regional Ministerial de Econom&#xED;a, Fomento y Turismo de la Regi&#xF3;n Metropolitana, grado 5&#xBA; de la EUS de la Planta de Directivos del Ministerio de Econom&#xED;a, Fomento y Turismo.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1078326,
+      "fecha": "2015-06-12"
+    }
+  },
+  {
+    "fecha": "2016-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

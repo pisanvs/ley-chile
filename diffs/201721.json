@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-08-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-04-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7293669,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 184 EXENTO, DE 2002 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 184 EXENTO, DE 2002</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

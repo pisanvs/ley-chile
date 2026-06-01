@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-06-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8341760,
+          "old": "<div><div class=\"p\">ESTABLECE CONDICIONES PARA IMPORTACION DE OVAS DE SALMONIDEOS, COMPLEMENTARIAS DE LAS ESTABLECIDAS EN EL ARTICULO 2&#xB0; DEL DECRETO DE ECONOMIA No. 162, DE 1985 </div></div>",
+          "new": "<div><div class=\"p\">ESTABLECE CONDICIONES PARA IMPORTACION DE OVAS DE SALMONIDEOS, COMPLEMENTARIAS DE LAS ESTABLECIDAS EN EL ARTICULO 2&#xB0; DEL DECRETO DE ECONOMIA No. 162, DE 1985 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

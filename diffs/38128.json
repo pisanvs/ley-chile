@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-11-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-10-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6020110,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DETERMINA RADIO URBANO DE CIUDAD DE LINARES PARA EFECTOS DE LOCOMOCION COLECTIVA URBANA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 53 exenta.- Talca, 26 de Septiembre de 1994.- Visto: El art&#xED;culo 6&#xB0; letra a), del D.S. N&#xB0; 212/92 y sus modificaciones, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DETERMINA RADIO URBANO DE CIUDAD DE LINARES PARA EFECTOS DE LOCOMOCION COLECTIVA URBANA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 53 exenta.- Talca, 26 de Septiembre de 1994.- Visto: El art&#xED;culo 6&#xB0; letra a), del D.S. N&#xB0; 212/92 y sus modificaciones, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

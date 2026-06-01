@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-04-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8314913,
+          "old": "<div><br><div class=\"p\">AUTORIZA A SOCIEDAD CHA&#xD1;AR S.A. DE INVERSIONES PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD CHA&#xD1;AR S.A. DE INVERSIONES PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

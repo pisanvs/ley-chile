@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-07-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-07-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9712405,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Por Decreto MOP (Exento) N&#xBA; 301, de 20 de junio de 2016, y de conformidad a la facultad otorgada en el art&#xED;culo 3&#xBA; letra a), 10&#xBA; letra c), 14&#xBA; letra e) y 105 del DFL MOP N&#xBA; 850 de 1997, que fij&#xF3; el texto actualizado de la Ley N&#xBA; 15.840 y el DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 40, superficie 361 M2, Rol de Aval&#xFA;o N&#xBA; 136-200, Comuna de Mostazal, para la obra: CONCESI&#xD3;N INTERNACIONAL RUTA 5 TRAMO: SANTIAGO - TALCA, SECTOR TERCERAS PISTAS TRAMO III KM. 58.240,00 - KM. 69.000,00, COMUNA DE MOSTAZAL, PROVINCIA DE CACHAPOAL, VI REGI&#xD3;N DEL LIB. GRAL. B. O&apos; HIGGINS, La Comisi&#xF3;n de Peritos integrada por ANDR&#xC9;S RAINER SCHULZ VILLANUEVA, RAYEN ALEJANDRA GUZM&#xC1;N THEODULOZ y SERGIO ALEJANDRO AYALA ESPINOZA, fij&#xF3; el valor de tasaci&#xF3;n con fecha 28 de agosto de 2015, acord&#xE1;ndose la indemnizaci&#xF3;n con sus propietarias MAR&#xCD;A TERESA AR&#xC1;NGUIZ Y OTRA, en la cantidad de $8.049.915.- suma que se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Por Decreto MOP (Exento) N&#xBA; 301, de 20 de junio de 2016, y de conformidad a la facultad otorgada en el art&#xED;culo 3&#xBA; letra a), 10&#xBA; letra c), 14&#xBA; letra e) y 105 del DFL MOP N&#xBA; 850 de 1997, que fij&#xF3; el texto actualizado de la Ley N&#xBA; 15.840 y el DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 40, superficie 361 M2, Rol de Aval&#xFA;o N&#xBA; 136-200, Comuna de Mostazal, para la obra: CONCESI&#xD3;N INTERNACIONAL RUTA 5 TRAMO: SANTIAGO - TALCA, SECTOR TERCERAS PISTAS TRAMO III KM. 58.240,00 - KM. 69.000,00, COMUNA DE MOSTAZAL, PROVINCIA DE CACHAPOAL, VI REGI&#xD3;N DEL LIB. GRAL. B. O&apos; HIGGINS, La Comisi&#xF3;n de Peritos integrada por ANDR&#xC9;S RAINER SCHULZ VILLANUEVA, RAYEN ALEJANDRA GUZM&#xC1;N THEODULOZ y SERGIO ALEJANDRO AYALA ESPINOZA, fij&#xF3; el valor de tasaci&#xF3;n con fecha 28 de agosto de 2015, acord&#xE1;ndose la indemnizaci&#xF3;n con sus propietarias <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1092556&amp;idParte=9715240&amp;idVersion=2016-07-15\">Aviso S/N,<br>OBRAS P&#xDA;BLICAS<br>D.O. 15.07.2016</a></span>MAR&#xCD;A TERESA HIDALGO AR&#xC1;NGUIZ Y OTRAS, en la cantidad de $8.049.915.- suma que se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1092556,
+      "fecha": "2016-07-15"
+    }
+  }
+]

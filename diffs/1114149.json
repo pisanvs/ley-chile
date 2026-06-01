@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2018-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-09-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9879024,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case la identificaci&#xF3;n y longitud del camino C-489, Cruce C-485 (Juntas del Carmen) - San F&#xE9;lix - El Corral - Los Colorados, individualizado en la resoluci&#xF3;n DV (exenta) N&#xB0; 32, del 5 de enero de 2017, quedando identificado de la siguiente manera:</div><br><div class=\"p\"> ROL&nbsp; &nbsp; &nbsp; &nbsp;  NOMBRE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LONGITUD&nbsp; &nbsp;  ROL&nbsp; &nbsp; &nbsp;  KM&nbsp; &nbsp; &nbsp;  ROL&nbsp; &nbsp;  KM</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  (KM)&nbsp; &nbsp; &nbsp; INICIO&nbsp;  INICIO&nbsp;  T&#xC9;RMINO&nbsp; T&#xC9;RMINO</div><br><div class=\"p\">C-489&nbsp; Cruce C-485 (Juntas del</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  Carmen) - San F&#xE9;lix&nbsp; &nbsp; &nbsp; &nbsp; 35,07&nbsp; &nbsp; &nbsp;  C-485&nbsp;  44,36&nbsp; &nbsp;  C-489&nbsp;  35,07</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  - El Corral</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. Der&#xF3;gase el Rol C-583 asignado al camino Cruce C-489 - El Corral - Cruce C-489 individualizado en la resoluci&#xF3;n DV (exenta) N&#xB0; 32, del 5 de enero de 2017, y cuyo inicio se encontraba en el km 54,43 del camino C-489, individualizado en la misma resoluci&#xF3;n y modificado en el numeral precedente.</div><div class=\"p\">&nbsp; &nbsp;  3. Excl&#xFA;yase de esta asignaci&#xF3;n de roles y nombres a todos aquellos caminos o tramos de caminos incluidos en el punto N&#xB0; 1 de esta resoluci&#xF3;n, que se encuentren dentro de los l&#xED;mites urbanos vigentes declarados por los instrumentos de planificaci&#xF3;n territorial que corresponda y que no hayan sido declarados como camino p&#xFA;blico en zona urbana, de acuerdo a lo estipulado en el Art. N&#xB0; 24 del DFL MOP N&#xB0; 850, de 1997.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case la identificaci&#xF3;n y longitud del camino C-489, Cruce C-485 (Juntas del Carmen) - San F&#xE9;lix - El Corral - Los Colorados, individualizado en la resoluci&#xF3;n DV (exenta) N&#xB0; 32, del 5 de enero de 2017, quedando identificado de la siguiente manera<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/153163.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. Der&#xF3;gase el Rol C-583 asignado al camino Cruce C-489 - El Corral - Cruce C-489 individualizado en la resoluci&#xF3;n DV (exenta) N&#xB0; 32, del 5 de enero de 2017, y cuyo inicio se encontraba en el km 54,43 del camino C-489, individualizado en la misma resoluci&#xF3;n y modificado en el numeral precedente.</div><div class=\"p\">&nbsp; &nbsp;  3. Excl&#xFA;yase de esta asignaci&#xF3;n de roles y nombres a todos aquellos caminos o tramos de caminos incluidos en el punto N&#xB0; 1 de esta resoluci&#xF3;n, que se encuentren dentro de los l&#xED;mites urbanos vigentes declarados por los instrumentos de planificaci&#xF3;n territorial que corresponda y que no hayan sido declarados como camino p&#xFA;blico en zona urbana, de acuerdo a lo estipulado en el Art. N&#xB0; 24 del DFL MOP N&#xB0; 850, de 1997.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 2192 EXENTA, Obras P&#xFA;blicas, publicada el 02.09.2022, complementa la presente resoluci&#xF3;n, asignando Rol al camino p&#xFA;blico por presunci&#xF3;n Cruce 31 CH - Cerro Capis, de la Provincia de Copiap&#xF3;, quedando individualizado como indica la citada norma.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-12-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-05-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7218172,
+          "old": "<div><div class=\"p\">APRUEBA REFORMAS DE ESTATUTOS A &quot;FUNDACION LUTERANA EN CHILE&quot;, DE VALDIVIA</div><br><div class=\"p\">Santiago, 30 de Abril de 1990.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">N&#xFA;m. 670.- Vistos: Estos antecedentes, lo dispuesto en el Decreto Supremo No. 110, Reglamento sobre Concesi&#xF3;n de Personalidad Jur&#xED;dica, publicado en el Diario Oficial de 20 de marzo de 1979, y lo informado por el se&#xF1;or Gobernador Provincial de Valdivia y por el Consejo de Defensa del Estado,</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\"> APRUEBA REFORMAS DE ESTATUTOS A &quot;FUNDACION LUTERANA EN<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">CHILE&quot;, DE VALDIVIA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 30 de Abril de 1990.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 670.- Vistos: Estos antecedentes, lo dispuesto en el Decreto Supremo No. 110, Reglamento sobre Concesi&#xF3;n de Personalidad Jur&#xED;dica, publicado en el Diario Oficial de 20 de marzo de 1979, y lo informado por el se&#xF1;or Gobernador Provincial de Valdivia y por el Consejo de Defensa del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 684, Justicia, publicado el 22.08.2000 rectific&#xF3; el presente decreto en el sentido de se&#xF1;alar que el verdadero nombre de la entidad es &quot;Fundaci&#xF3;n Luterana de Chile&quot;.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

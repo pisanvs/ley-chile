@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1968-10-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1968-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8893078,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o.- Los pilotos de la L&#xED;nea A&#xE9;rea Nacional de Chile, acogidos a retiro absoluto bajo el r&#xE9;gimen del DFL. N.o 209, de 1953, que hubieren dejado el servicio en forma no voluntaria y se encuentren desempe&#xF1;ando labores de pilotos en la L&#xED;nea A&#xE9;rea Nacional a honorarios, podr&#xE1;n reincorporarse a la planta de la Empresa mencionada.</div><div class=\"p\">&nbsp; &nbsp;  Esta reincorporaci&#xF3;n s&#xF3;lo proceder&#xE1; en favor de los ex pilotos que hubieren reclamado judicial o administrativamente la indemnizaci&#xF3;n a que se refiere el art&#xED;culo 58.o de la ley N.o 7.295.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o.- Los pilotos de la L&#xED;nea A&#xE9;rea Nacional de Chile, acogidos a retiro absoluto bajo el r&#xE9;gimen del DFL. N.o 209, de 1953, que hubieren dejado el servicio en forma no voluntaria y se encuentren desempe&#xF1;ando labores de pilotos en la L&#xED;nea A&#xE9;rea Nacional a honorarios, podr&#xE1;n reincorporarse a la planta de la Empresa mencionada. Esta reincorporaci&#xF3;n s&#xF3;lo proceder&#xE1; en favor de los ex pilotos que hubieren reclamado judicial o administrativamente la indemnizaci&#xF3;n a que se refiere el art&#xED;culo 58.o de la ley N.o 7.295. En el caso de los ex pilotos que no hubieren<span class=\"n\" id=\"n_0\">LEY 17074<br>Art. 13<br>D.O. 31.12.1968</span> reclamado judicial o administrativamente la indemnizaci&#xF3;n a que se refiere el art&#xED;culo 58 de la ley n&#xFA;mero 7.295, se faculta, por una sola vez, al Vicepresidente Ejecutivo de la L&#xED;nea A&#xE9;rea Nacional para reincorporarlos a la planta en los casos en que las necesidades del Servicio lo hicieren necesario. </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-05-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7151777,
+          "old": "<div><br><div class=\"p\">REGLAMENTO SOBRE CENTROS DE PADRES Y APODERADOS O CENTROS DE PADRES DE FAMILIA, DE ESTABLECIMIENTOS EDUCACIONALES DE ENSE&#xD1;ANZA PRE-B&#xC1;SICA, GENERAL B&#xC1;SICA, ESPECIAL Y MEDIA, FISCAL, MUNICIPAL Y PARTICULAR </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 632.- Santiago, 20 de Febrero de 1982.- Visto: lo dispuesto en los art&#xED;culos 1&#xB0;, 19&#xB0; N&#xB0;s. 10 y 11 y 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, de 1980 y en la Ley N&#xB0; 18.057, de 1981.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTO SOBRE CENTROS DE PADRES Y APODERADOS O CENTROS DE PADRES DE FAMILIA, DE ESTABLECIMIENTOS EDUCACIONALES DE ENSE&#xD1;ANZA PRE-B&#xC1;SICA, GENERAL B&#xC1;SICA, ESPECIAL Y MEDIA, FISCAL, MUNICIPAL Y PARTICULAR </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 632.- Santiago, 20 de Febrero de 1982.- Visto: lo dispuesto en los art&#xED;culos 1&#xB0;, 19&#xB0; N&#xB0;s. 10 y 11 y 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, de 1980 y en la Ley N&#xB0; 18.057, de 1981.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

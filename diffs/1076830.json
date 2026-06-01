@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2015-04-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-07-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9592385,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jase, a contar de esta fecha, el siguiente orden de subrogaci&#xF3;n para el cargo de Secretario Abogado del Consejo de Calificaci&#xF3;n Cinematogr&#xE1;fica, en el caso que el o la titular de &#xE9;ste no se encuentre desempe&#xF1;ando esa funci&#xF3;n efectivamente, en el siguiente orden de precedencia:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  A. Magdalena Sof&#xED;a Fern&#xE1;ndez Bola&#xF1;os, abogada, contrata Grado 7&#xBA; de la EUS, de la Subsecretar&#xED;a de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  B. Mar&#xED;a Ver&#xF3;nica Le&#xF3;n Bravo, abogada, contrata Grado 6&#xBA; de la EUS, de la Subsecretar&#xED;a de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Por razones impostergables de buen servicio se har&#xE1; efectiva esta subrogaci&#xF3;n en forma inmediata, sin esperar su total tramitaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. D&#xE9;jase sin efecto la <a href=\"https://www.leychile.cl/Navegar?idNorma=1065141&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 4.463, de 9 de julio de 2014, del Ministerio de Educaci&#xF3;n</a>.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jase, a contar de esta fecha, el siguiente orden de subrogaci&#xF3;n para el cargo de Secretario Abogado del Consejo de Calificaci&#xF3;n Cinematogr&#xE1;fica, en el caso que el o la titular de &#xE9;ste no se encuentre desempe&#xF1;ando esa funci&#xF3;n efectivamente, en el siguiente orden de precedencia:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  A. Magdalena Sof&#xED;a Fern&#xE1;ndez Bola&#xF1;os, abogada, contrata Grado 7&#xBA; de la EUS, de la Subsecretar&#xED;a de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  B) MAR&#xCD;A <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1105006&amp;idParte=9812572&amp;idVersion=2017-07-10\">Resoluci&#xF3;n 3265 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 10.07.2017</a></span>JES&#xDA;S SAN MART&#xCD;N RODR&#xCD;GUEZ, abogada, contrata grado 7&#xB0; de la EUS, de la Subsecretar&#xED;a de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Por razones impostergables de buen servicio se har&#xE1; efectiva esta subrogaci&#xF3;n en forma inmediata, sin esperar su total tramitaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. D&#xE9;jase sin efecto la resoluci&#xF3;n exenta N&#xBA; 4.463, de 9 de julio de 2014, del Ministerio de Educaci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1105006,
+      "fecha": "2017-07-10"
+    }
+  },
+  {
+    "fecha": "2017-11-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9592385,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jase, a contar de esta fecha, el siguiente orden de subrogaci&#xF3;n para el cargo de Secretario Abogado del Consejo de Calificaci&#xF3;n Cinematogr&#xE1;fica, en el caso que el o la titular de &#xE9;ste no se encuentre desempe&#xF1;ando esa funci&#xF3;n efectivamente, en el siguiente orden de precedencia:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  A. Magdalena Sof&#xED;a Fern&#xE1;ndez Bola&#xF1;os, abogada, contrata Grado 7&#xBA; de la EUS, de la Subsecretar&#xED;a de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  B) MAR&#xCD;A <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1105006&amp;idParte=9812572&amp;idVersion=2017-07-10\">Resoluci&#xF3;n 3265 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 10.07.2017</a></span>JES&#xDA;S SAN MART&#xCD;N RODR&#xCD;GUEZ, abogada, contrata grado 7&#xB0; de la EUS, de la Subsecretar&#xED;a de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Por razones impostergables de buen servicio se har&#xE1; efectiva esta subrogaci&#xF3;n en forma inmediata, sin esperar su total tramitaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. D&#xE9;jase sin efecto la resoluci&#xF3;n exenta N&#xBA; 4.463, de 9 de julio de 2014, del Ministerio de Educaci&#xF3;n.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jase, a contar de esta fecha, el siguiente orden de subrogaci&#xF3;n para el cargo de Secretario Abogado del Consejo de Calificaci&#xF3;n Cinematogr&#xE1;fica, en el caso que el o la titular de &#xE9;ste no se encuentre desempe&#xF1;ando esa funci&#xF3;n efectivamente, en el siguiente orden de precedencia:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  A. Magdalena Sof&#xED;a Fern&#xE1;ndez Bola&#xF1;os, abogada, contrata Grado 7&#xBA; de la EUS, de la Subsecretar&#xED;a de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  B) MAR&#xCD;A <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1105006&amp;idParte=9812572&amp;idVersion=2017-07-10\">Resoluci&#xF3;n 3265 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 10.07.2017</a></span>JES&#xDA;S SAN MART&#xCD;N RODR&#xCD;GUEZ, abogada, contrata grado 7&#xB0; de la EUS, de la Subsecretar&#xED;a de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  C) Carolina <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1110321&amp;idParte=9847305&amp;idVersion=2017-11-09\">Resoluci&#xF3;n 5852 EXENTA, <br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 09.11.2017</a></span>Andrea Rojas Caro, abogada, contrata grado 6&#xBA; de la EUS, de la Subsecretar&#xED;a de Educaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Por razones impostergables de buen servicio se har&#xE1; efectiva esta subrogaci&#xF3;n en forma inmediata, sin esperar su total tramitaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. D&#xE9;jase sin efecto la resoluci&#xF3;n exenta N&#xBA; 4.463, de 9 de julio de 2014, del Ministerio de Educaci&#xF3;n.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1110321,
+      "fecha": "2017-11-09"
+    }
+  }
+]

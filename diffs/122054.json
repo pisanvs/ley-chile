@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-07-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-04-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8602425,
+          "old": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A SUPERMERCADO LAS BRISAS TEMUCO LTDA.</div><br><br></div>",
+          "new": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A SUPERMERCADO LAS BRISAS TEMUCO LTDA.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

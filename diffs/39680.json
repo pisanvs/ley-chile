@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-08-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-03-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7202137,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE REQUISITOS DE INTERNACION PARA PRODUCTOS VEGETALES CON FINES DE INDUSTRIALIZACION, MEDICINAL, COSMETOLOGIA Y ENOLOGICO</div><div class=\"p\">&nbsp; &nbsp; Santiago, 16 de Agosto de 1991.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.289 exenta.- Visto: El decreto ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, las resoluciones N&#xB0; 350 de fecha 10 de febrero de 1981 y N&#xB0; 30 de fecha 25 de marzo de 1981, expedidas por el Director Ejecutivo del Servicio Agr&#xED;cola y Ganadero e Informes T&#xE9;cnicos del Depto. Diagn&#xF3;stico y Vigilancia.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; - Que constituye responsabilidad del Servicio Agr&#xED;cola y Ganadero impedir el ingreso de plagas y enfermedades for&#xE1;neas al territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; - Que existen productos vegetales de diferente &#xED;ndole que constituyen en alguna medida riesgos fitosanitarios para su internaci&#xF3;n y que es necesario regular, como son productos industrializados de usos medicinal, cosmetol&#xF3;gico y enol&#xF3;gico.</div><div class=\"p\">&nbsp; &nbsp; - Que para este prop&#xF3;sito, el Servicio est&#xE1; facultado para establecer las regulaciones fitosanitarias que resguardan el patrimonio nacional en estas internaciones.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE REQUISITOS DE INTERNACION PARA PRODUCTOS VEGETALES CON FINES DE INDUSTRIALIZACION, MEDICINAL, COSMETOLOGIA Y ENOLOGICO</div><div class=\"p\">&nbsp; &nbsp; Santiago, 16 de Agosto de 1991.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.289 exenta.- Visto: El decreto ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, las resoluciones N&#xB0; 350 de fecha 10 de febrero de 1981 y N&#xB0; 30 de fecha 25 de marzo de 1981, expedidas por el Director Ejecutivo del Servicio Agr&#xED;cola y Ganadero e Informes T&#xE9;cnicos del Depto. Diagn&#xF3;stico y Vigilancia.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; - Que constituye responsabilidad del Servicio Agr&#xED;cola y Ganadero impedir el ingreso de plagas y enfermedades for&#xE1;neas al territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; - Que existen productos vegetales de diferente &#xED;ndole que constituyen en alguna medida riesgos fitosanitarios para su internaci&#xF3;n y que es necesario regular, como son productos industrializados de usos medicinal, cosmetol&#xF3;gico y enol&#xF3;gico.</div><div class=\"p\">&nbsp; &nbsp; - Que para este prop&#xF3;sito, el Servicio est&#xE1; facultado para establecer las regulaciones fitosanitarias que resguardan el patrimonio nacional en estas internaciones.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

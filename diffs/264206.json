@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1964-11-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1973-07-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8745025,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.o- El Consejo de la Caja ser&#xE1; integrado adem&#xE1;s, por dos Consejeros obreros de la Empresa designados por el Presidente de la Rep&#xFA;blica, de dos ternas formadas por imponentes con m&#xE1;s de tres a&#xF1;os de servicios y elegidas en votaci&#xF3;n directa por los imponentes activos y pasivos del Departamento.</div><div class=\"p\">&nbsp; &nbsp;  El Consejo podr&#xE1; sesionar con el qu&#xF3;rum de cinco de sus miembros o de seis, en los casos en que los estatutos vigentes exijan un qu&#xF3;rum especial. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.o- El Consejo de la Caja ser&#xE1; integrado,<span class=\"n\" id=\"n_0\">DTO 79, TRABAJO<br>N&#xBA; 1<br>D.O. 18.07.1973</span> adem&#xE1;s, por dos consejeros obreros de la Empresa, designados por el Presidente de la Rep&#xFA;blica, de dos ternas formadas por imponentes con m&#xE1;s de tres a&#xF1;os de servicios y elegidos en votaci&#xF3;n directa por los imponentes activos del Departamento, y por un pensionado mayor de 18 a&#xF1;os del mismo, designado en igual forma, de una terna elegida en votaci&#xF3;n directa por los imponentes pasivos del Departamento que cumplan el requisito de la edad indicada.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

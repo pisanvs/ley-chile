@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-10-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7292083,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 425 EXENTO, DE 2002 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 425 EXENTO, DE 2002</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

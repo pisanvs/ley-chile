@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-12-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9216633,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Por Decreto M.O.P. (Exento) N&#xBA;4014, de 24 de noviembre de 2011, y en base a la facultad otorgada por el articulo 105 del D.F.L. M.O.P. N&#xBA;850 de 1997, que fij&#xF3; el texto actualizado de la Ley N&#xBA;15.840, se expropi&#xF3; el lote de terreno N&#xBA;14-1, para la obra: CONCESION RUTA 5 NORTE TRAMO: VALLENAR - CALDERA. SECTOR: VALLENAR - INICIO BY-PASS A COPIAPO. KM. 665.000,00 AL KM. 783.402,00, Provincia de Copiap&#xF3;, que figura a nombre de INVERSIONES AMX DE CHILE S A, rol de aval&#xFA;o 516-4, Comuna de Copiap&#xF3;, Regi&#xF3;n de Atacama, superficie 6.826 m2. La Comisi&#xF3;n de Peritos el 27 de septiembre de 2011, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $614.340.-. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el articulo 7&#xB0; del Decreto Ley N&#xBA;2186, de 1978. </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Por Decreto M.O.P. (Exento) N&#xBA;4014, de 24 de noviembre de 2011, y en base a la facultad otorgada por el articulo 105 del D.F.L. M.O.P. N&#xBA;850 de 1997, que fij&#xF3; el texto actualizado de la Ley N&#xBA;15.840, se expropi&#xF3; el lote de terreno N&#xBA;14-1, para la obra: CONCESION RUTA 5 NORTE TRAMO: VALLENAR - CALDERA. SECTOR: VALLENAR - INICIO BY-PASS A COPIAPO. KM. 665.000,00 AL KM. 783.402,00, Provincia de Copiap&#xF3;, que figura a nombre de INVERSIONES AMX DE CHILE S A, rol de aval&#xFA;o 516-4, Comuna de Copiap&#xF3;, Regi&#xF3;n de Atacama, superficie 6.826 m2. La Comisi&#xF3;n de Peritos el 27 de septiembre de 2011, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $614.340.- La comisi&#xF3;n de peritos encargada de tasar el lote N&#xBA; 14-1 d<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1035760&amp;idParte=9222928&amp;idVersion=2012-01-02\">Aviso S/N, OBRAS<br>D.O. 02.01.2012</a></span>e la obra: CONCESION RUTA 5 NORTE TRAMO: VALLENAR - CALDERA. SECTOR: VALLENAR - INICIO BY-PASS A COPIAP&#xD3;. KM. 665.000,00 AL KM. 783.402,00 la integraron los se&#xF1;ores Miguel Juan Fern&#xE1;ndez C&#xE1;diz, Ver&#xF3;nica Paz Olivier Valdebenito y &#xC1;ngel Mauricio C&#xE1;ceres Barra. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el articulo 7&#xB0; del Decreto Ley N&#xBA;2186, de 1978. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1035760,
+      "fecha": "2012-01-02"
+    }
+  }
+]

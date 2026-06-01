@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-03-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-10-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6022639,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DELEGA EN DIRECTOR GENERAL ADMINISTRATIVO FACULTAD QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 464 exenta.- Santiago, 21 de marzo de 1995.- Vistos: La Ley N&#xB0; 16.436, art&#xED;culos 1&#xB0;, 11, N&#xB0;s 5 y 7; los art&#xED;culos N&#xB0;s 21 y 43 de la Ley N&#xB0; 18.575, el DFL N&#xB0; 161 de 1978, del Ministerio de Relaciones Exteriores, art&#xED;culos 8 y 34; la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, art&#xED;culo 1&#xB0; N&#xB0; 17, y las necesidades del servicio,</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">DELEGA EN DIRECTOR GENERAL ADMINISTRATIVO FACULTAD QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 464 exenta.- Santiago, 21 de marzo de 1995.- Vistos: La Ley N&#xB0; 16.436, art&#xED;culos 1&#xB0;, 11, N&#xB0;s 5 y 7; los art&#xED;culos N&#xB0;s 21 y 43 de la Ley N&#xB0; 18.575, el DFL N&#xB0; 161 de 1978, del Ministerio de Relaciones Exteriores, art&#xED;culos 8 y 34; la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, art&#xED;culo 1&#xB0; N&#xB0; 17, y las necesidades del servicio,</div><br><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

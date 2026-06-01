@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-11-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-06-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8335242,
+          "old": "<div><br><div class=\"p\">AUTORIZA A SOCIEDAD DE PRODUCTOS DEL MAR QUIHUAMAR S.A. PARA INICIAR ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD DE PRODUCTOS DEL MAR QUIHUAMAR S.A. PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

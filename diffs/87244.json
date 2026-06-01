@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-12-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7221969,
+          "old": "<div><div class=\"p\">APRUEBA MODIFICACIONES Y COMPLEMENTACIONES DE LA ORDENANZA N&#xBA; 8, DE 1997, SOBRE COBRO DE DERECHOS POR SERVICIOS DOMICILIARIOS DE RETIRO DE BASURA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.181.- Panquehue, 19 de diciembre de 1997.- Vistos: Lo establecido en los art&#xED;culos 6&#xBA; y siguientes de la Ley de Rentas Municipales D.L. 3.063 de 1979, cuyo texto refundido ha sido fijado por Decreto Supremo N&#xBA; 2.385, de 1996, de Interior, la Ordenanza N&#xBA; 8, de 1997, sobre cobro de derechos por servicios domiciliarios de extracci&#xF3;n de basura y exenciones total o parcial; y teniendo presente las facultades que me otorga el art&#xED;culo 5&#xBA; letra b de la ley N&#xBA; 18.695 Org&#xE1;nica Constitucional de Municipalidades y sus modificaciones; el Decreto N&#xBA; 314 del 9 de diciembre de 1996 que nombra Alcalde.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Los memorandos N&#xBA; 254 de fecha 23.10.97 y 274 de fecha 24.11.97 de Jefe Departamento Administraci&#xF3;n y Finanzas, los que indican nuevos cobros Derechos de Aseo 1998.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Los acuerdos del Concejo Municipal en actas N&#xBA; 052 de fecha 01.12.97 y 053 de fecha 02.12.97.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA MODIFICACIONES Y COMPLEMENTACIONES DE LA ORDENANZA N&#xBA; 8, DE 1997, SOBRE COBRO DE DERECHOS POR SERVICIOS DOMICILIARIOS DE RETIRO DE BASURA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.181.- Panquehue, 19 de diciembre de 1997.- Vistos: Lo establecido en los art&#xED;culos 6&#xBA; y siguientes de la Ley de Rentas Municipales D.L. 3.063 de 1979, cuyo texto refundido ha sido fijado por Decreto Supremo N&#xBA; 2.385, de 1996, de Interior, la Ordenanza N&#xBA; 8, de 1997, sobre cobro de derechos por servicios domiciliarios de extracci&#xF3;n de basura y exenciones total o parcial; y teniendo presente las facultades que me otorga el art&#xED;culo 5&#xBA; letra b de la ley N&#xBA; 18.695 Org&#xE1;nica Constitucional de Municipalidades y sus modificaciones; el Decreto N&#xBA; 314 del 9 de diciembre de 1996 que nombra Alcalde.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Los memorandos N&#xBA; 254 de fecha 23.10.97 y 274 de fecha 24.11.97 de Jefe Departamento Administraci&#xF3;n y Finanzas, los que indican nuevos cobros Derechos de Aseo 1998.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Los acuerdos del Concejo Municipal en actas N&#xBA; 052 de fecha 01.12.97 y 053 de fecha 02.12.97.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

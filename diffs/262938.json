@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2007-07-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-10-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7348418,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 52 EXENTA, DE 2007 </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 52 EXENTA, DE 2007</div><br><br><br></div>"
+        },
+        {
+          "part_id": 7348419,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n exenta N&#xBA; 101, de 18 de junio de 2007, que modific&#xF3; resoluci&#xF3;n exenta N&#xBA; 52, de 19 de abril de 2007, ambas de la Secretar&#xED;a Regional Ministerial de la VIII Regi&#xF3;n del B&#xED;o B&#xED;o, en el siguiente tenor: reempl&#xE1;zase de la resoluci&#xF3;n exenta N&#xBA; 52 de 19 de abril de 2007, la expresi&#xF3;n &quot;19 de junio de 2007&quot; por &quot;20 de agosto de 2007&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n exenta N&#xBA; 101, de 18 de junio de 2007, que modific&#xF3; resoluci&#xF3;n exenta N&#xBA; 52, de 19 de abril de 2007, ambas de la Secretar&#xED;a Regional Ministerial de la VIII Regi&#xF3;n del B&#xED;o B&#xED;o, en el siguiente tenor: reempl&#xE1;zase de la resoluci&#xF3;n exenta N&#xBA; 52 de 19 de abril de 2007, la expresi&#xF3;n &quot;19 de junio de 2007&quot; por &quot;21 de<span class=\"n\" id=\"n_0\">RES 159 EXENTA,<br>TRANSPORTES<br>D.O. 26.10.2007</span> septiembre de 2007&quot;.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

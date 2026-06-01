@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-12-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6263837,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xB0; 1.588, DE 1984 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xB0; 1.588, DE 1984 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

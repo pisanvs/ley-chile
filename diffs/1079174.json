@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-07-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-08-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9619793,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el Arsenal Farmacol&#xF3;gico B&#xE1;sico para los Establecimientos de Atenci&#xF3;n Primaria de Salud ubicados en el territorio de competencia del Servicio de Salud Arica; documento que consta de diecisiete (17) p&#xE1;ginas y que forma parte de la presente resoluci&#xF3;n, para todos los efectos que deriven de su aplicaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- D&#xE9;jase constancia que el Arsenal que se aprueba por la presente resoluci&#xF3;n reemplazar&#xE1; &#xED;ntegramente, desde la fecha de su publicaci&#xF3;n en el Diario Oficial, a aqu&#xE9;l que fuera aprobado por <a href=\"https://www.leychile.cl/Navegar?idNorma=1042038&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 177, de 17 de abril de 2012</a>, de la SEREMI de Salud Regi&#xF3;n de Arica y Parinacota.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Efect&#xFA;ese por el Servicio solicitante a su costa la publicaci&#xF3;n en el Diario Oficial del texto &#xED;ntegro del Arsenal Farmacol&#xF3;gico que se aprueba por la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- Notif&#xED;quese la presente resoluci&#xF3;n a la Directora (T y P) del Servicio de Salud Arica, Dra. Mar&#xED;a Ver&#xF3;nica Silva Latorre, antes individualizada, por funcionarios de Asesor&#xED;a de Farmacia de esta SEREMI de Salud.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el Arsenal Farmacol&#xF3;gico B&#xE1;sico para los Establecimientos de Atenci&#xF3;n Primaria de Salud ubicados en el territorio de competencia del Servicio de Salud Arica; documento que consta de diecisiete (17) p&#xE1;ginas y que forma parte de la presente resoluci&#xF3;n, para todos los efectos que deriven de su aplicaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- D&#xE9;jase <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>constancia que el Arsenal que se aprueba por la presente resoluci&#xF3;n reemplazar&#xE1; &#xED;ntegramente, desde la fecha de su publicaci&#xF3;n en el Diario Oficial, a aqu&#xE9;l que fuera aprobado por resoluci&#xF3;n exenta N&#xBA; 177, de 17 de abril de 2012, de la SEREMI de Salud Regi&#xF3;n de Arica y Parinacota.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Efect&#xFA;ese por el Servicio solicitante a su costa la publicaci&#xF3;n en el Diario Oficial del texto &#xED;ntegro del Arsenal Farmacol&#xF3;gico que se aprueba por la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- Notif&#xED;quese la presente resoluci&#xF3;n a la Directora (T y P) del Servicio de Salud Arica, Dra. Mar&#xED;a Ver&#xF3;nica Silva Latorre, antes individualizada, por funcionarios de Asesor&#xED;a de Farmacia de esta SEREMI de Salud.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 2 de la Resoluci&#xF3;n 485 Exenta, Salud, publicada el 22.08.2017, modifica la presente norma, en el sentido de reemplazar &#xED;ntegramente desde la fecha de su publicaci&#xF3;n en el sitio web de la Seremi de Salud, el Arsenal Farmacol&#xF3;gico B&#xE1;sico para los Establecimientos de Atenci&#xF3;n Primaria de Salud ubicados en el territorio de competencia del Servicio de Salud Arica.</div></div>"
+        }
+      ]
+    }
+  }
+]

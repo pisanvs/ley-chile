@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2006-06-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-07-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6576254,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- D&#xE9;jase sin efecto, a contar del 1&#xBA; de junio de 2006, el decreto N&#xBA; 65 de fecha 28 de febrero de 2005, del Ministerio Secretar&#xED;a General de la Presidencia.</div><div class=\"p\">&nbsp; &nbsp;  2.- Establ&#xE9;cese, a contar del 1&#xBA; de junio de 2006, el siguiente orden de subrogancia de la Directora Ejecutiva de la Comisi&#xF3;n Nacional del Medio Ambiente:</div><div class=\"p\">&nbsp; &nbsp;  a) Primer subrogante Sr. Rodrigo Alejandro Guzm&#xE1;n Rosen, RUT N&#xBA; 10.220.631-2, Jefe de Divisi&#xF3;n, Titular de Planta, grado 3 E.U.S.</div><div class=\"p\">&nbsp; &nbsp;  b) Segundo subrogante Sr. Ra&#xFA;l Eduardo Arteaga Montesinos, RUT N&#xBA; 7.149.610-4, Jefe de Divisi&#xF3;n, Titular de Planta, grado 3 E.U.S.</div><br></div>"
+        },
+        {
+          "part_id": 6576255,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, comun&#xED;quese, publ&#xED;quese y arch&#xED;vese este decreto con los antecedentes que correspondan para un control posterior de la Contralor&#xED;a General de la Rep&#xFA;blica.- Por orden de la Presidenta de la Rep&#xFA;blica, Paulina Veloso Valenzuela, Ministra Secretar&#xED;a General de la Presidencia.</div><div class=\"p\">&nbsp; &nbsp;  Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Edgardo Riveros Mar&#xED;n, Subsecretario General de la Presidencia.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

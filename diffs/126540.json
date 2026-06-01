@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1971-09-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-09-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8858549,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO DE INSTALACIONES ELECTRICAS </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 3 de Septiembre de 1971.- S.E. el Vicepresidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.280.- Visto lo informado por la Superintendencia de Servicios El&#xE9;ctricos, de Gas y de Telecomunicaciones y en uso de la facultad que me confiere el N&#xBA; 2&#xBA; del art&#xED;culo 72&#xBA; de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento de Instalaciones El&#xE9;ctricas:</div><br></div>",
+          "new": "<div><div class=\"p\"> APRUEBA REGLAMENTO DE INSTALACIONES ELECTRICAS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 3 de Septiembre de 1971.- S.E. el Vicepresidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.280.- Visto lo informado por la Superintendencia de Servicios El&#xE9;ctricos, de Gas y de Telecomunicaciones y en uso de la facultad que me confiere el N&#xBA; 2&#xBA; del art&#xED;culo 72&#xBA; de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento de Instalaciones El&#xE9;ctricas:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

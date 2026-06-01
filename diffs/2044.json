@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-06-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5851026,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; POSTERGA PLAZO DE OTORGAMIENTO DE PERMISOS DE SUBDIVISION, LOTEO O URBANIZACION PREDIAL Y DE CONSTRUCCION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 9/1.060.- Vitacura, 30 de Julio de 1993.- Vistos y teniendo presente: El Ord. Alcaldicio N&#xB0; 9/295 de 05 de Julio de 1993 mediante el cual se solicita la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones al Seremi de Vivienda y Urbanismo para el Sector Jard&#xED;n del Este; El Ord. N&#xB0; 2.076 del Secretario Ministerial Metropolitano, de fecha 26 de Julio de 1993, que acoge la solicitud de postergaci&#xF3;n referida.</div><div class=\"p\">&nbsp; &nbsp; Lo dispuesto en el art&#xED;culo 117 de la Ley General de Urbanismo y Construcci&#xF3;n, y en uso de las facultades que me otorga la Ley N&#xB0; 18.695 Org&#xE1;nica Constitucional de Municipalidades cuyo texto refundido fue fijado por D.S. del Ministerio del Interior de fecha 26 de Agosto de 1992.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; POSTERGA PLAZO DE OTORGAMIENTO DE PERMISOS DE SUBDIVISION, LOTEO O URBANIZACION PREDIAL Y DE CONSTRUCCION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 9/1.060.- Vitacura, 30 de Julio de 1993.- Vistos y teniendo presente: El Ord. Alcaldicio N&#xB0; 9/295 de 05 de Julio de 1993 mediante el cual se solicita la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones al Seremi de Vivienda y Urbanismo para el Sector Jard&#xED;n del Este; El Ord. N&#xB0; 2.076 del Secretario Ministerial Metropolitano, de fecha 26 de Julio de 1993, que acoge la solicitud de postergaci&#xF3;n referida.</div><div class=\"p\">&nbsp; &nbsp; Lo dispuesto en el art&#xED;culo 117 de la Ley General de Urbanismo y Construcci&#xF3;n, y en uso de las facultades que me otorga la Ley N&#xB0; 18.695 Org&#xE1;nica Constitucional de Municipalidades cuyo texto refundido fue fijado por D.S. del Ministerio del Interior de fecha 26 de Agosto de 1992.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-10-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6404414,
+          "old": "<div><div class=\"p\">EXTRACTO </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

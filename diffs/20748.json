@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-08-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-10-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7161250,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO N&#xB0; 232 EXENTO, DE 1996 </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO N&#xB0; 232 EXENTO, DE 1996 </div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

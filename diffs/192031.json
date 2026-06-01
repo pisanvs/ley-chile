@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-07-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7287791,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;RODOLFO ROJAS Y COMPA&#xD1;IA LIMITADA&quot; PARA DESARROLLAR ACTIVADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;RODOLFO ROJAS Y COMPA&#xD1;IA LIMITADA&quot; PARA DESARROLLAR ACTIVADES PESQUERAS </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

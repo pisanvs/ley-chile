@@ -1,0 +1,56 @@
+[
+  {
+    "fecha": "1975-12-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-12-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9036215,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;- Los Subjefes de las Oficinas de Registro Civil, los de las Oficinas fusionadas y los Oficiales Civiles Adjuntos que deban desempe&#xF1;ar turnos durante los d&#xED;as S&#xE1;bados, tendr&#xE1;n las mismas atribuciones que el Jefe titular de la respectiva Oficina y se entender&#xE1; que subrogar&#xE1;n a &#xE9;ste durante todo ese d&#xED;a, para los efectos de atender defunciones y cursar pases de sepultaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;- Los Subjefes de las Oficinas de<span class=\"n\" id=\"n_0\">DL 1682<br>1977,<br>ART. 8&#xB0;</span> Registro Civil, los de las Oficinas fusionadas y los Oficiales Civiles Adjuntos que deban desempe&#xF1;ar turnos durante los d&#xED;as s&#xE1;bados, tendr&#xE1;n las mismas atribuciones que el Jefe titular de la respectiva Oficina y se entender&#xE1; que subrogan a &#xE9;ste durante ese d&#xED;a, para todos los efectos legales.</div><br></div>"
+        },
+        {
+          "part_id": 9036218,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;- Los precios de las fotocopias y fotograf&#xED;as que otorga el Servicio de Registro Civil e Identificaci&#xF3;n, y los precios de los formularios que utilice el mismo, se reajustar&#xE1;n semestralmente.</div><div class=\"p\">&nbsp; &nbsp; Por decreto supremo de Justicia de determinar&#xE1;n los formularios sujetos a precios y el monto de &#xE9;stos, y el de las fotocopias y fotograf&#xED;as sobre los cuales se aplicar&#xE1; el reajuste indicado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;- Los precios de las fotocopias y fotograf&#xED;as que otorga el Servicio de Registro Civil e Identificaci&#xF3;n, y los precios de los formularios que utilice el mismo, se reajustar&#xE1;n seg&#xFA;n lo dispuesto en<span class=\"n\" id=\"n_1\">LEY 18899<br>ART 57&#xB0;</span> el N&#xB0; 7 del decreto con fuerza de ley N&#xB0; 1.282, de 1975, modificado por el art&#xED;culo 9&#xB0; de la ley N&#xB0; 18.091.</div><div class=\"p\">&nbsp; &nbsp; Por decreto supremo de Justicia de determinar&#xE1;n los formularios sujetos a precios y el monto de &#xE9;stos, y el de las fotocopias y fotograf&#xED;as sobre los cuales se aplicar&#xE1; el reajuste indicado.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-04-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9036212,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- Las c&#xE9;dulas de indentidad que se otorguen a los chilenos con posterioridad a la fecha en que &#xE9;stos hayan cumplido los cincuenta a&#xF1;os, tendr&#xE1;n vigencia indefinida.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1050184&amp;idParte=9348430&amp;idVersion=2013-04-27\">Ley 20669<br>Art. 5<br>D.O. 27.04.2013</a></span>&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;- Derogado.</div></div>"
+        },
+        {
+          "part_id": 9036215,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;- Los Subjefes de las Oficinas de<span class=\"n\" id=\"n_0\">DL 1682<br>1977,<br>ART. 8&#xB0;</span> Registro Civil, los de las Oficinas fusionadas y los Oficiales Civiles Adjuntos que deban desempe&#xF1;ar turnos durante los d&#xED;as s&#xE1;bados, tendr&#xE1;n las mismas atribuciones que el Jefe titular de la respectiva Oficina y se entender&#xE1; que subrogan a &#xE9;ste durante ese d&#xED;a, para todos los efectos legales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;- Los Subjefes de las Oficinas de<span class=\"n\" id=\"n_1\">DL 1682<br>1977,<br>ART. 8&#xB0;</span> Registro Civil, los de las Oficinas fusionadas y los Oficiales Civiles Adjuntos que deban desempe&#xF1;ar turnos durante los d&#xED;as s&#xE1;bados, tendr&#xE1;n las mismas atribuciones que el Jefe titular de la respectiva Oficina y se entender&#xE1; que subrogan a &#xE9;ste durante ese d&#xED;a, para todos los efectos legales.</div><br></div>"
+        },
+        {
+          "part_id": 9036218,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;- Los precios de las fotocopias y fotograf&#xED;as que otorga el Servicio de Registro Civil e Identificaci&#xF3;n, y los precios de los formularios que utilice el mismo, se reajustar&#xE1;n seg&#xFA;n lo dispuesto en<span class=\"n\" id=\"n_1\">LEY 18899<br>ART 57&#xB0;</span> el N&#xB0; 7 del decreto con fuerza de ley N&#xB0; 1.282, de 1975, modificado por el art&#xED;culo 9&#xB0; de la ley N&#xB0; 18.091.</div><div class=\"p\">&nbsp; &nbsp; Por decreto supremo de Justicia de determinar&#xE1;n los formularios sujetos a precios y el monto de &#xE9;stos, y el de las fotocopias y fotograf&#xED;as sobre los cuales se aplicar&#xE1; el reajuste indicado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;- Los precios de las fotocopias y fotograf&#xED;as que otorga el Servicio de Registro Civil e Identificaci&#xF3;n, y los precios de los formularios que utilice el mismo, se reajustar&#xE1;n seg&#xFA;n lo dispuesto en<span class=\"n\" id=\"n_2\">LEY 18899<br>ART 57&#xB0;</span> el N&#xB0; 7 del decreto con fuerza de ley N&#xB0; 1.282, de 1975, modificado por el art&#xED;culo 9&#xB0; de la ley N&#xB0; 18.091.</div><div class=\"p\">&nbsp; &nbsp; Por decreto supremo de Justicia de determinar&#xE1;n los formularios sujetos a precios y el monto de &#xE9;stos, y el de las fotocopias y fotograf&#xED;as sobre los cuales se aplicar&#xE1; el reajuste indicado.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1050184,
+      "fecha": "2013-04-27"
+    }
+  }
+]

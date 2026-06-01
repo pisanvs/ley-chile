@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-11-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-01-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8631154,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 354, DE 1993</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 354, DE 1993</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

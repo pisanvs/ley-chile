@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-10-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-11-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6444302,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Lim&#xED;tase a los postulantes de las comunas que a continuaci&#xF3;n se indican de la Regi&#xF3;n Metropolitana, la participaci&#xF3;n en el proceso de selecci&#xF3;n para la asignaci&#xF3;n de Viviendas Sociales Din&#xE1;micas sin Deuda, que se se&#xF1;alan:</div><br><div class=\"p\">&nbsp; &nbsp;  49 Viviendas de la comuna de Buin para postulantes residentes en la comuna de Buin.</div><div class=\"p\">&nbsp; &nbsp;  30 Viviendas de la comuna de Melipilla para postulantes residentes en la comuna de Melipilla.</div><div class=\"p\">&nbsp; &nbsp;  76 Viviendas de la comuna de Paine para postulantes residentes en la comuna de Paine.</div><div class=\"p\">&nbsp; &nbsp;  132 Viviendas de la comuna de San Bernardo para postulantes residentes en la comuna de San Bernardo.</div><div class=\"p\">&nbsp; &nbsp;  60 Viviendas de la comuna de Lampa para postulantes residentes en la comuna de Lampa.</div><br><div class=\"p\">&nbsp; &nbsp;  El resto de las viviendas se destinar&#xE1;n a postulantes residentes en cualquier comuna de la Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp;  Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n de la presente resoluci&#xF3;n en el plazo de cinco d&#xED;as.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Lim&#xED;tase a los postulantes de las comunas que a<span class=\"n\" id=\"n_0\">RES 713, VIVIENDA<br>D.O. 21.11.2003</span> continuaci&#xF3;n se indican de la Regi&#xF3;n Metropolitana, la participaci&#xF3;n en el proceso de selecci&#xF3;n para la asignaci&#xF3;n de Viviendas Sociales Din&#xE1;micas sin Deuda, que se se&#xF1;alan:</div><br><div class=\"p\">113&nbsp; Viviendas de la comuna de Bu&#xED;n para postulantes residentes en la comuna de Bu&#xED;n.</div><br><div class=\"p\">47&nbsp;  Viviendas de la comuna de Melipilla para postulantes residentes en la comuna de Melipilla.</div><br><div class=\"p\">177&nbsp; Viviendas de la comuna de Paine para postulantes residentes en la comuna de Paine.</div><br><div class=\"p\">132&nbsp; Viviendas de la comuna de San Bernardo para postulantes residentes en la comuna de San Bernardo.</div><br><div class=\"p\">94&nbsp; Viviendas de la comuna de Lampa para postulantes residentes en la comuna de Lampa.</div><br><div class=\"p\">&nbsp; &nbsp;  Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n de la presente resoluci&#xF3;n en el plazo de cinco d&#xED;as.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

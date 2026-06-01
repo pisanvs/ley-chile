@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8954242,
+          "old": "<div><div class=\"p\">Del&#xE9;gase en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo, la facultad de firmar, por orden del Ministro de Vivienda y Urbanismo, en los t&#xE9;rminos del inciso tercero del art&#xED;culo 43 de la Ley No. 18.575 las resoluciones que dispongan rectificaciones a las n&#xF3;minas de postulantes seleccionados con el subsidio habitacional, y a los certificados de subsidio respectivos, correspondientes tanto al Sistema General Unificado como al Sistema de Atenci&#xF3;n al Sector Rural, reglamentados por los Decretos Supremos No. 44, de 1988 y No. 167, de 1986, ambos de Vivienda y Urbanismo, en lo relativo a errores de transcripci&#xF3;n o dignaci&#xF3;n en los nombres o apellidos de los beneficiarios o en su c&#xE9;dula de identidad.</div><br><div class=\"p\">Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&nbsp; tomar raz&#xF3;n de la presente resoluci&#xF3;n en el plazo de cinco d&#xED;as.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Del&#xE9;gase en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo, la facultad de firmar, por orden del Ministro de Vivienda y Urbanismo, en los t&#xE9;rminos del inciso tercero del art&#xED;culo 43 de la Ley No. 18.575 las resoluciones que dispongan rectificaciones a las n&#xF3;minas de postulantes seleccionados con el subsidio habitacional, y a los certificados de subsidio respectivos, correspondientes tanto al Sistema General Unificado como al Sistema de Atenci&#xF3;n al Sector Rural, reglamentados por los<span class=\"n\" id=\"n_0\">RES 28, VIVIENDA<br>D.O. 06.02.2003</span> decretos supremos N&#xBA;44, de 1988; N&#xBA; 167, de 1986 y N&#xBA;117, de 2002, todos ellos de Vivienda y Urbanismo, en lo relativo a errores de transcripci&#xF3;n o dignaci&#xF3;n en los nombres o apellidos de los beneficiarios o en su c&#xE9;dula de identidad. Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir tomar raz&#xF3;n de la presente resoluci&#xF3;n en el plazo de cinco d&#xED;as. </div></div>"
+        }
+      ]
+    }
+  }
+]

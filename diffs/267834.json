@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-12-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-11-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7360540,
+          "old": "<div><div class=\"p\">DELEGA EN EL JEFE DEL DEPARTAMENTO SUBDIRECCI&#xD3;N JUR&#xCD;DICA ATRIBUCI&#xD3;N QUE INDICA Y DEROGA RESOLUCI&#xD3;N N&#xBA;272 EXENTA, DEL 23 DE ENERO DE 1990 </div></div>",
+          "new": "<div><div class=\"p\">DELEGA EN EL JEFE DEL DEPARTAMENTO SUBDIRECCI&#xD3;N JUR&#xCD;DICA ATRIBUCI&#xD3;N QUE INDICA Y DEROGA RESOLUCI&#xD3;N N&#xBA;272 EXENTA, DEL 23 DE ENERO DE 1990</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

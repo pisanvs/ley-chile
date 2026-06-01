@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-07-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6119440,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DESIGNA A ERNESTO BEHNKE GUTIERREZ COMO MIEMBRO DE LA COMISION NACIONAL DE TRASPLANTE DE ORGANOS </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 634 exento.- Santiago, 7 de julio de 1998.- Visto: Lo dispuesto en el N&#xBA; 98 del decreto supremo N&#xBA; 654 de 1994, del Ministerio del Interior; en el T&#xED;tulo V, art&#xED;culo 16, de la ley N&#xBA; 19.451 que establece normas sobre trasplante y donaci&#xF3;n de &#xF3;rganos; en el T&#xED;tulo VII, art&#xED;culos 31, 32 y 37 del Reglamento de la Ley N&#xBA; 19.451, aprobado mediante el decreto supremo N&#xBA; 656 de 1996, publicado en el Diario Oficial del 17 de diciembre de 1997.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que D. Ernesto Behnke Guti&#xE9;rrez actualmente se desempe&#xF1;a como Director del Servicio de Salud Metropolitano Sur-Oriente.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DESIGNA A ERNESTO BEHNKE GUTIERREZ COMO MIEMBRO DE LA COMISION NACIONAL DE TRASPLANTE DE ORGANOS </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 634 exento.- Santiago, 7 de julio de 1998.- Visto: Lo dispuesto en el N&#xBA; 98 del decreto supremo N&#xBA; 654 de 1994, del Ministerio del Interior; en el T&#xED;tulo V, art&#xED;culo 16, de la ley N&#xBA; 19.451 que establece normas sobre trasplante y donaci&#xF3;n de &#xF3;rganos; en el T&#xED;tulo VII, art&#xED;culos 31, 32 y 37 del Reglamento de la Ley N&#xBA; 19.451, aprobado mediante el decreto supremo N&#xBA; 656 de 1996, publicado en el Diario Oficial del 17 de diciembre de 1997.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que D. Ernesto Behnke Guti&#xE9;rrez actualmente se desempe&#xF1;a como Director del Servicio de Salud Metropolitano Sur-Oriente.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

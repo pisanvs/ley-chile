@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "2003-06-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7300944,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Las becas que se otorguen tendr&#xE1;n por objeto cubrir total o parcialmente el valor de la matr&#xED;cula correspondiente. Para estos efectos se entiende por &quot;matr&#xED;cula &quot; o&nbsp; &quot;arancel de matr&#xED;cula &quot; el valor anual de la carrera de que se trate en la instituci&#xF3;n de educaci&#xF3;n superior donde estudie el becario, cualquiera sea la denominaci&#xF3;n que en ellas se le d&#xE9;.</div><div class=\"p\">&nbsp; &nbsp;  Las becas se otorgar&#xE1;n por un a&#xF1;o acad&#xE9;mico. Tendr&#xE1;n un monto m&#xED;nimo equivalente al 30% del arancel de matr&#xED;cula respectivo y podr&#xE1;n cubrir hasta el 100%.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Las becas que se otorguen tendr&#xE1;n por objeto cubrir total o parcialmente el valor de la matr&#xED;cula correspondiente. <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1019224&amp;idParte=9055793&amp;idVersion=2010-11-11\">Decreto 1732 EXENTO,<br>M. DE TRAIGU&#xC9;N<br>N&#xBA; 1 a.<br>D.O. 11.11.2010</a></span>Para estos efectos se entiende por &quot;matr&#xED;cula &quot; o&nbsp; &quot;arancel de matr&#xED;cula &quot; el valor mensual entre marzo y diciembre de cada a&#xF1;o de que se trate en la instituci&#xF3;n de educaci&#xF3;n superior donde estudie el becario, cualquiera sea la denominaci&#xF3;n que en ellas se le d&#xE9;.</div><div class=\"p\">&nbsp; &nbsp;  Las becas <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1019224&amp;idParte=9055793&amp;idVersion=2010-11-11\">Decreto 1732 EXENTO,<br>M. DE TRAIGU&#xC9;N<br>N&#xBA; 1 b.<br>D.O. 11.11.2010</a></span>se otorgar&#xE1;n por un a&#xF1;o acad&#xE9;mico. Tendr&#xE1;n un monto establecido anualmente por el Concejo Municipal.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 7300947,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Por motivos fundados, el Concejo Municipal podr&#xE1; acordar asignar algunas o todas las becas de un a&#xF1;o calendario para determinadas instituciones de educaci&#xF3;n superior.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1019224&amp;idParte=9055793&amp;idVersion=2010-11-11\">Decreto 1732 EXENTO,<br>M. DE TRAIGU&#xC9;N<br>N&#xBA; 1 c.<br>D.O. 11.11.2010</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- SUPRIMIDO</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 7300949,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- La postulaci&#xF3;n a las becas deber&#xE1; hacerse entre las fechas que cada a&#xF1;o determine el Concejo Municipal, previo llamado hecho por el Municipio. </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1019224&amp;idParte=9055793&amp;idVersion=2010-11-11\">Decreto 1732 EXENTO,<br>M. DE TRAIGU&#xC9;N<br>N&#xBA; 1 d.<br>D.O. 11.11.2010</a></span>&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- La postulaci&#xF3;n a las becas deber&#xE1; hacerse entre las fechas que cada a&#xF1;o determine el Concejo Municipal, previo llamado hecho por el Municipio, mediante una Ficha de Postulaci&#xF3;n, en la que deber&#xE1;n anexar una carta solicitud dirigida al Alcalde de la Comuna. </div><br></div>"
+        },
+        {
+          "part_id": 7300955,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA;.- La beca se har&#xE1; efectiva directamente en la instituci&#xF3;n de educaci&#xF3;n superior elegida por el alumno, previa comprobaci&#xF3;n de su admisi&#xF3;n en dicha entidad y del pago mensual de su parte del arancel de matr&#xED;cula, si correspondiere.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1019224&amp;idParte=9055793&amp;idVersion=2010-11-11\">Decreto 1732 EXENTO,<br>M. DE TRAIGU&#xC9;N<br>N&#xBA; 1 e.<br>D.O. 11.11.2010</a></span>&nbsp; &nbsp;  Art&#xED;culo 13&#xBA;.- El pago de la beca se har&#xE1; efectivo a nombre del alumno(a) previa comprobaci&#xF3;n de haber cancelado el arancel correspondiente al mes anterior.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; En el caso que el alumno beneficiario no rinda alguno de los cheques entregados mensualmente, no podr&#xE1; postular a Beca Municipal en el a&#xF1;o calendario siguiente. Podr&#xE1; postular a Beca Municipal el a&#xF1;o subsiguiente, siempre que reintegre los dineros entregados y no rendidos&quot;.</div><br></div>"
+        },
+        {
+          "part_id": 7300958,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Articulo 16&#xBA;.- Aquellos alumnos que, habiendo obtenido una de estas becas, decidan cambiarse de instituci&#xF3;n o carrera, podr&#xE1;n optar por segunda vez a alguna de ellas, siempre que cumplan con todos los requisitos establecidos en la presente Ordenanza.</div><div class=\"p\">El alumno que curse simult&#xE1;neamente dos o m&#xE1;s carreras s&#xF3;lo podr&#xE1; optar al beneficio de la beca en una de ellas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Articulo 16&#xBA;.- Aquellos alumnos que, habiendo obtenido una de estas becas, decidan cambiarse de instituci&#xF3;n o carrera, podr&#xE1;n optar por segunda vez a alguna de ellas, siempre que cumplan con todos los requisitos establecidos en la presente Ordenanza.</div><div class=\"p\">&nbsp; &nbsp;  El alumno que curse simult&#xE1;neamente dos o m&#xE1;s carreras s&#xF3;lo podr&#xE1; optar al beneficio de la beca en una de ellas. </div><div class=\"p\">&nbsp; &nbsp;  El <span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1019224&amp;idParte=9055793&amp;idVersion=2010-11-11\">Decreto 1732 EXENTO,<br>M. DE TRAIGU&#xC9;N<br>N&#xBA; 1 f.<br>D.O. 11.11.2010</a></span>alumno becario que se cambie de Instituci&#xF3;n Superior, manteniendo la misma carrera, podr&#xE1; conservar la Beca en los t&#xE9;rminos aprobados por la Ordenanza Municipal.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

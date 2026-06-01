@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-10-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5845626,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; COORDINA LA ACTUACION DE AMBOS SERVICIOS FRENTE A FACULTAD ENTREGADA POR LA LEY 19.398 ART. 5&#xB0; LETRA F), AL TESORERO GENERAL DE LA REPUBLICA PARA CONDONAR TOTAL O PARCIALMENTE LOS INTERESES Y SANCIONES POR LA MORA EN EL PAGO DE LOS IMPUESTOS SUJETOS A COBRANZA </div></div>",
+          "new": "<div><div class=\"p\">COORDINA LA ACTUACION DE AMBOS SERVICIOS FRENTE A FACULTAD ENTREGADA POR LA LEY 19.398 ART. 5&#xB0; LETRA F), AL TESORERO GENERAL DE LA REPUBLICA PARA CONDONAR TOTAL O PARCIALMENTE LOS INTERESES Y SANCIONES POR LA MORA EN EL PAGO DE LOS IMPUESTOS SUJETOS A COBRANZA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

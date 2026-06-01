@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-05-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-08-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8969088,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO EXENTO N&#xB0; 395, DE 1990 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO EXENTO N&#xB0; 395, DE 1990 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

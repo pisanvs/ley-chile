@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9055067,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: F&#xED;jase para el a&#xF1;o 2011 el calendario nacional de examinaci&#xF3;n del programa especial de nivelaci&#xF3;n b&#xE1;sica y media de adultos, para los niveles de Educaci&#xF3;n B&#xE1;sica y Educaci&#xF3;n Media, de acuerdo al siguiente cuadro:</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/14333.jpg\"></div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: F&#xED;jase para el a&#xF1;o 2011<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1028749&amp;idParte=9168514&amp;idVersion=2011-08-18\">Resoluci&#xF3;n 4440 EXENTA,<br>EDUCACI&#xD3;N<br>Art. UNICO<br>D.O. 18.08.2011</a></span> el calendario nacional de examinaci&#xF3;n del programa especial de nivelaci&#xF3;n b&#xE1;sica y media de adultos, para los niveles de Educaci&#xF3;n B&#xE1;sica y Educaci&#xF3;n Media, de acuerdo al siguiente cuadro:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/20172.jpg\"></div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1028749,
+      "fecha": "2011-08-18"
+    }
+  }
+]

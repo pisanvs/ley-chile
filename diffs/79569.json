@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "1992-03-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-11-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7214576,
+          "old": "<div><div class=\"p\">Por Decreto Exento No. 228 de fecha 05 de agosto de 1991 del Ministerio de Educaci&#xF3;n, se ampli&#xF3; el Decreto Exento de Educaci&#xF3;n No. 29 de 1983, correspondiente al Centro de Formaci&#xF3;n T&#xE9;cnica Instituto de Massachussets, en el sentido de incluir la Sede N&#xB0;2 de Linares a contar del a&#xF1;o 1991,la que podr&#xE1; impartir las siguientes carreras:</div><div class=\"p\">- Secretariado Ejecutivo Computacional menci&#xF3;n Jur&#xED;dica o Relaciones P&#xFA;blicas.</div><div class=\"p\">- T&#xE9;cnico en Construcci&#xF3;n.</div><div class=\"p\">- T&#xE9;cnico en Auditor&#xED;a con menci&#xF3;n en Computaci&#xF3;n.</div><div class=\"p\">- Programaci&#xF3;n Computacional menci&#xF3;n An&#xE1;lisis de Sistemas. Por este mismo cuerpo legal, se aprobaron los planes y programas de estudios al centro mencionado, de las carreras y t&#xED;tulos t&#xE9;cnicos de nivel superior que se indican, para ser impartidas a contar del a&#xF1;o 1991, en las siguientes sedes:</div><div class=\"p\">A - Sede Central - Talca; Sede No. 1 - Curic&#xF3;; Sede No. 2 - Linares.</div><div class=\"p\">Carrera: Administraci&#xF3;n Agr&#xED;cola menci&#xF3;n Fruticultura</div><div class=\"p\">T&#xED;tulo: T&#xE9;cnico en Administraci&#xF3;n Agr&#xED;cola, o T&#xE9;cnico en</div><div class=\"p\">Administraci&#xF3;n Agr&#xED;cola menci&#xF3;n Fruticultura</div><div class=\"p\">B - Sede Central - Talca y Sede No. 2 - Linares</div><div class=\"p\">Carrera: Ventas, Promoci&#xF3;n y Supervisi&#xF3;n de Ventas</div><div class=\"p\">T&#xED;tulo: T&#xE9;cnico en Ventas, Promoci&#xF3;n y Supervisi&#xF3;n de Ventas.</div><div class=\"p\">Asimismo, se aprobaron las modificaciones introducidas al plan y programas de estudio de la carrera de Secretariado Ejecutivo menci&#xF3;n Equipos Computacionales, que fuera aprobada por Resoluci&#xF3;n Exenta No. 519 de 1985, para aplicarse a contar del a&#xF1;o 1991, con la siguiente denominaci&#xF3;n:</div><div class=\"p\">Carrera: Secretariado Ejecutivo Computacional menci&#xF3;n Jur&#xED;dica o Relaciones P&#xFA;blicas</div><div class=\"p\">Titulo: Secretario (a) Ejecutivo (a) Computacional, o Secretario (a) Ejecutivo (a) Computacional menci&#xF3;n Jur&#xED;dica o Relaciones P&#xFA;blicas.</div><br></div>",
+          "new": "<div><div class=\"p\">Por Decreto Exento No. 228 de fecha 05 de agosto de 1991 del Ministerio de Educaci&#xF3;n, se ampli&#xF3; el Decreto Exento de Educaci&#xF3;n No. 29 de 1983, correspondiente al Centro de Formaci&#xF3;n T&#xE9;cnica Instituto de Massachussets, en el sentido de incluir la Sede N&#xB0;2 de Linares a contar del a&#xF1;o 1991,la que podr&#xE1; impartir las siguientes carreras:</div><div class=\"p\">- El<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1138584&amp;idParte=10067974&amp;idVersion=2019-11-13\">Decreto 1256 EXENTO, <br>EDUCACI&#xD3;N<br>Art. 2<br>D.O. 13.11.2019</a></span>iminada.</div><div class=\"p\">- T&#xE9;cnico en Construcci&#xF3;n.</div><div class=\"p\">- T&#xE9;cnico en Auditor&#xED;a con menci&#xF3;n en Computaci&#xF3;n.</div><div class=\"p\">- Programaci&#xF3;n Computacional menci&#xF3;n An&#xE1;lisis de Sistemas. Por este mismo cuerpo legal, se aprobaron los planes y programas de estudios al centro mencionado, de las carreras y t&#xED;tulos t&#xE9;cnicos de nivel superior que se indican, para ser impartidas a contar del a&#xF1;o 1991, en las siguientes sedes:</div><div class=\"p\">A - Sede Central - Talca; Sede No. 1 - Curic&#xF3;; Sede No. 2 - Linares.</div><div class=\"p\">Carrera: Administraci&#xF3;n Agr&#xED;cola menci&#xF3;n Fruticultura</div><div class=\"p\">T&#xED;tulo: T&#xE9;cnico en Administraci&#xF3;n Agr&#xED;cola, o T&#xE9;cnico en</div><div class=\"p\">Administraci&#xF3;n Agr&#xED;cola menci&#xF3;n Fruticultura</div><div class=\"p\">B - Sede Central - Talca y Sede No. 2 - Linares</div><div class=\"p\">Carrera: Ventas, Promoci&#xF3;n y Supervisi&#xF3;n de Ventas</div><div class=\"p\">T&#xED;tulo: T&#xE9;cnico en Ventas, Promoci&#xF3;n y Supervisi&#xF3;n de Ventas.</div><div class=\"p\">Asimismo, se aprobaron las modificaciones introducidas al plan y programas de estudio de la carrera de Secretariado Ejecutivo menci&#xF3;n Equipos Computacionales, que fuera aprobada por Resoluci&#xF3;n Exenta No. 519 de 1985, para aplicarse a contar del a&#xF1;o 1991, con la siguiente denominaci&#xF3;n:</div><div class=\"p\">Carrera: Secretariado Ejecutivo Computacional menci&#xF3;n Jur&#xED;dica o Relaciones P&#xFA;blicas</div><div class=\"p\">Titulo: Secretario (a) Ejecutivo (a) Computacional, o Secretario (a) Ejecutivo (a) Computacional menci&#xF3;n Jur&#xED;dica o Relaciones P&#xFA;blicas.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1138584,
+      "fecha": "2019-11-13"
+    }
+  },
+  {
+    "fecha": "2024-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

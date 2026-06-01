@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-04-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-11-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8372632,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Autor&#xED;zase la circulaci&#xF3;n en los mismos t&#xE9;rminos que los indicados en el art&#xED;culo anterior exento adem&#xE1;s del uso del Disco Fiscal correspondiente al veh&#xED;culo que se se&#xF1;ala, asignado al desempe&#xF1;o del Sr. Gobernador Provincial de Choapa, conforme lo dispuesto por los art&#xED;culos 1&#xBA; y 3&#xBA; del referido decreto ley.</div><br><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp; &nbsp;  :&nbsp; Autom&#xF3;vil</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Hyundai</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; Elantra XD 1.8 GLS</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; 2002</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Azul</div><div class=\"p\">N&#xBA; Motor&nbsp; &nbsp; &nbsp;  :&nbsp; G4GB1966174</div><div class=\"p\">N&#xBA; Chassis&nbsp; &nbsp;  :&nbsp; KMHDN41CP1U131210</div><div class=\"p\">I.R.V.M.&nbsp; &nbsp; &nbsp;  :&nbsp; VC-9958-9</div><div class=\"p\">Placa Fiscal&nbsp;  :&nbsp; VC-9958-9</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Autor&#xED;zase la circulaci&#xF3;n en los mismos t&#xE9;rminos que los indicados en el art&#xED;culo anterior exento adem&#xE1;s del uso del Disco Fiscal correspondiente al veh&#xED;culo que se se&#xF1;ala, asignado al desempe&#xF1;o del Sr. Gobernador Provincial de Choapa, conforme lo dispuesto por los art&#xED;culos 1&#xBA; y 3&#xBA; del referido decreto ley.</div><br><div class=\"p\">&nbsp; &nbsp;  Veh&#xED;culo&nbsp; &nbsp;  :&nbsp; Autom&#xF3;vil<span class=\"n\" id=\"n_0\">DTO 2060 EXENTO,<br>INTERIOR<br>Art. &#xFA;nico<br>D.O. 24.11.2006</span></div><div class=\"p\">&nbsp; &nbsp;  Marca&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Hyundai</div><div class=\"p\">&nbsp; &nbsp;  Modelo&nbsp; &nbsp; &nbsp;  :&nbsp; Elantra FL GLS 1.8 cc.</div><div class=\"p\">&nbsp; &nbsp;  A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; 2006</div><div class=\"p\">&nbsp; &nbsp;  Color&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Plateado</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; motor&nbsp; &nbsp;  :&nbsp; G4GB6594103</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; chassis&nbsp;  :&nbsp; KMHDN41CP6U337684</div><div class=\"p\">&nbsp; &nbsp;  I.R.N.V.M.&nbsp;  :&nbsp; WR.3418-6</div><div class=\"p\">&nbsp; &nbsp;  Placa fiscal :&nbsp; WR.3418-6</div><br></div>"
+        }
+      ]
+    }
+  }
+]

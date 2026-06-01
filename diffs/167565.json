@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-10-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-06-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7268686,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION No. 877, DE 1986 </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION No. 877, DE 1986</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "2000-03-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-09-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6251783,
+          "old": "<div><div class=\"p\">OTORGA RECONOCIMIENTO OFICIAL A ESCUELA DE CONDUCTORES PROFESIONALES SERPRODE</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 71 exenta.- Talca, 10 de marzo de 2000.- Visto: Lo dispuesto en el art&#xED;culo 31 D de la ley N&#xBA; 18.290; el art&#xED;culo 6&#xBA; del DS&nbsp; N&#xBA; 251, de 6 de noviembre de 1998, del Ministerio de Transportes y Telecomunicaciones, que establece el Reglamento para las Escuelas de Conductores Profesionales; la resoluci&#xF3;n N&#xBA; 249, de 19 de diciembre de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la solicitud de Serprode del 7 de diciembre de 1999, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtenci&#xF3;n de licencia profesional clase A-1;</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que corresponde a esta Secretar&#xED;a Regional Ministerial emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle un reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los art&#xED;culos 31 A, 31 B, y 31 C de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">OTORGA RECONOCIMIENTO OFICIAL A ESCUELA DE CONDUCTORES PROFESIONALES SERPRODE</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 71 exenta.- Talca, 10 de marzo de 2000.- Visto: Lo dispuesto en el art&#xED;culo 31 D de la ley N&#xBA; 18.290; el art&#xED;culo 6&#xBA; del DS&nbsp; N&#xBA; 251, de 6 de noviembre de 1998, del Ministerio de Transportes y Telecomunicaciones, que establece el Reglamento para las Escuelas de Conductores Profesionales; la resoluci&#xF3;n N&#xBA; 249, de 19 de diciembre de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la solicitud de Serprode del 7 de diciembre de 1999, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtenci&#xF3;n de licencia profesional clase A-1;</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que corresponde a esta Secretar&#xED;a Regional Ministerial emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle un reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los art&#xED;culos 31 A, 31 B, y 31 C de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        },
+        {
+          "part_id": 6251784,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Ot&#xF3;rgase reconocimiento oficial a la Escuela de Conductores Profesionales denominada Serprode, representada por don Luis Aliaga Castro para impartir los cursos conducentes a la obtenci&#xF3;n de licencia profesional Clase A 1, en la sede ubicada en calle 5 Sur N&#xBA; 2115, comuna de Talca, VII Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en extracto por el interesado en el Diario Oficial.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Ot&#xF3;rgase reconocimiento oficial a la Escuela de<span class=\"n\" id=\"n_0\">RES 219 EXENTA,<br>TRANSPORTES<br>N&#xBA;1<br>D.O. 23.09.2000</span> Conductores Profesionales denominada Serprode, representada por don Luis Aliaga Castro para impartir los cursos conducentes a la obtenci&#xF3;n de licencia profesional Clase A1, A2, A3 Y A4, en la sede ubicada en calle 5 Sur N&#xBA; 2115, comuna de Talca, VII Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en extracto por el interesado en el Diario Oficial.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2001-08-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6251783,
+          "old": "<div><div class=\"p\">OTORGA RECONOCIMIENTO OFICIAL A ESCUELA DE CONDUCTORES PROFESIONALES SERPRODE</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 71 exenta.- Talca, 10 de marzo de 2000.- Visto: Lo dispuesto en el art&#xED;culo 31 D de la ley N&#xBA; 18.290; el art&#xED;culo 6&#xBA; del DS&nbsp; N&#xBA; 251, de 6 de noviembre de 1998, del Ministerio de Transportes y Telecomunicaciones, que establece el Reglamento para las Escuelas de Conductores Profesionales; la resoluci&#xF3;n N&#xBA; 249, de 19 de diciembre de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la solicitud de Serprode del 7 de diciembre de 1999, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtenci&#xF3;n de licencia profesional clase A-1;</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que corresponde a esta Secretar&#xED;a Regional Ministerial emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle un reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los art&#xED;culos 31 A, 31 B, y 31 C de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">OTORGA RECONOCIMIENTO OFICIAL A ESCUELA DE CONDUCTORES PROFESIONALES SERPRODE</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 71 exenta.- Talca, 10 de marzo de 2000.- Visto: Lo dispuesto en el art&#xED;culo 31 D de la ley N&#xBA; 18.290; el art&#xED;culo 6&#xBA; del DS&nbsp; N&#xBA; 251, de 6 de noviembre de 1998, del Ministerio de Transportes y Telecomunicaciones, que establece el Reglamento para las Escuelas de Conductores Profesionales; la resoluci&#xF3;n N&#xBA; 249, de 19 de diciembre de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la solicitud de Serprode del 7 de diciembre de 1999, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtenci&#xF3;n de licencia profesional clase A-1;</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que corresponde a esta Secretar&#xED;a Regional Ministerial emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle un reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los art&#xED;culos 31 A, 31 B, y 31 C de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

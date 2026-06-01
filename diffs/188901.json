@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1986-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-04-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6347571,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;CACERES Y SCHULZ LTDA.&quot;, &quot;CASCHMAR LTDA.&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;CACERES Y SCHULZ LTDA.&quot;, &quot;CASCHMAR LTDA.&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS </div><br></div>"
+        },
+        {
+          "part_id": 6347572,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n No. 219 de 10 de Marzo de 1986 de la Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, se autoriza a la Sociedad &quot;C&#xE1;ceres y Shulz Ltda.&quot; &quot;Caschmar Limitada&quot;, domiciliaria en Ancud para instalar y operar un cultivo de alga Gracilaria sp., en una superficie de 89.220 m2, ubicada en Canal Caul&#xED;n, Comuna de Ancud, Provincia de Chilo&#xE9;, X Regi&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n No. 219 de 10 de Marzo de 1986 de la Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, se autoriza a la Sociedad &quot;C&#xE1;ceres y Schulz Ltda.&quot; &quot;Caschmar Limitada&quot;,<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 04.04.1986</span> domiciliaria en Ancud para instalar y operar un cultivo de alga Gracilaria sp., en una superficie de 89.220 m2, ubicada en Canal Caul&#xED;n, Comuna de Ancud, Provincia de Chilo&#xE9;, X Regi&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

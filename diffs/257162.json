@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-03-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7335359,
+          "old": "<div><div class=\"p\">DETERMINA TARIFA DE ASEO PARA EL A&#xD1;O 2007</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 4.729.- La Serena, 27 de diciembre de 2006.- Vistos: Acuerdo de Sesi&#xF3;n Ordinaria N&#xBA; 643 de fecha 13 de diciembre de 2006; lo dispuesto en el art&#xED;culo 9&#xBA; de la Ley N&#xBA;3.063, sobre rentas municipales; en el Art&#xED;culo 21&#xBA; de la Ordenanza Comunal sobre Derechos Municipales por permisos, concesiones y servicios, aprobada por decreto N&#xBA;3.851/06; en las facultades que me confiere la Ley N&#xBA;18.695, Org&#xE1;nica Constitucional de Municipales y las facultades propias de mi cargo,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DETERMINA TARIFA DE ASEO PARA EL A&#xD1;O 2007</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 4.724.- La Serena, 26 de diciembre de 2006.-<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 29.03.2007</span> Vistos: Acuerdo de Sesi&#xF3;n Ordinaria N&#xBA; 643 de fecha 13 de diciembre de 2006; lo dispuesto en el art&#xED;culo 9&#xBA; de la Ley N&#xBA;3.063, sobre rentas municipales; en el Art&#xED;culo 21&#xBA; de la Ordenanza Comunal sobre Derechos Municipales por permisos, concesiones y servicios, aprobada por decreto N&#xBA;3.851/06; en las facultades que me confiere la Ley N&#xBA;18.695, Org&#xE1;nica Constitucional de Municipales y las facultades propias de mi cargo,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>"
+        }
+      ]
+    }
+  }
+]

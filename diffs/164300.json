@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-02-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6261131,
+          "old": "<div><br><div class=\"p\">DETERMINA CARACTER DE INGRESOS PROPIOS DEL SERVICIO NACIONAL DE ADUANAS LOS QUE OBTENGA POR VENTA DE INFORMACION ESTADISTICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 30.- Santiago, 09 de Enero de 1986.- Vistos: El Art&#xED;culo 32, No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, el art&#xED;culo No. 30 del DL No. 1.263 de 1975, el Art&#xED;culo 16 del DL No. 3.001 de 1979 y el Art&#xED;culo 25 de la Ley No. 18.482,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DETERMINA CARACTER DE INGRESOS PROPIOS DEL SERVICIO NACIONAL DE ADUANAS LOS QUE OBTENGA POR VENTA DE INFORMACION ESTADISTICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 30.- Santiago, 09 de Enero de 1986.- Vistos: El Art&#xED;culo 32, No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, el art&#xED;culo No. 30 del DL No.</div><div class=\"p\">1.263 de 1975, el Art&#xED;culo 16 del DL No. 3.001 de 1979 y el Art&#xED;culo 25 de la Ley No. 18.482,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

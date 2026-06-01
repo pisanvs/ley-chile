@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2016-05-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-03-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9700811,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cense como pistas de uso exclusivo para los veh&#xED;culos Taxi Colectivo del Transporte P&#xFA;blico Menor y para bicicletas el uso de una Ciclov&#xED;a, en los tramos y espacios de la calzada de la comuna de La Serena, que se indican en el siguiente cuadro:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57719.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Se dar&#xE1; inicio al funcionamiento de las v&#xED;as exclusivas, una vez terminada la instalaci&#xF3;n de la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N&#xB0; 1, de 2007, citado en Vistos.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Establ&#xE9;zcanse como pistas <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1190601&amp;idParte=10417173&amp;idVersion=2023-03-24\">Resoluci&#xF3;n 134 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 24.03.2023</a></span>de uso exclusivo para los veh&#xED;culos Taxi Colectivo del Transporte P&#xFA;blico Menor, para bicicletas el uso de una ciclov&#xED;a y para veh&#xED;culos inscritos como transporte escolar de hasta un peso vehicular bruto de 3.860 kilos, en los tramos y espacios de la calzada de la comuna de La Serena, que se indican en el siguiente cuadro:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/164288.jpg\">&nbsp; &nbsp;  </div><br><div class=\"p\">&nbsp; &nbsp;  2.- Se dar&#xE1; inicio al funcionamiento de las v&#xED;as exclusivas, una vez terminada la instalaci&#xF3;n de la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N&#xB0; 1, de 2007, citado en Vistos.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-08-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9700811,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Establ&#xE9;zcanse como pistas <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1190601&amp;idParte=10417173&amp;idVersion=2023-03-24\">Resoluci&#xF3;n 134 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 24.03.2023</a></span>de uso exclusivo para los veh&#xED;culos Taxi Colectivo del Transporte P&#xFA;blico Menor, para bicicletas el uso de una ciclov&#xED;a y para veh&#xED;culos inscritos como transporte escolar de hasta un peso vehicular bruto de 3.860 kilos, en los tramos y espacios de la calzada de la comuna de La Serena, que se indican en el siguiente cuadro:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/164288.jpg\">&nbsp; &nbsp;  </div><br><div class=\"p\">&nbsp; &nbsp;  2.- Se dar&#xE1; inicio al funcionamiento de las v&#xED;as exclusivas, una vez terminada la instalaci&#xF3;n de la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N&#xB0; 1, de 2007, citado en Vistos.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Esta<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1194931&amp;idParte=10447251&amp;idVersion=2023-08-08\">Resoluci&#xF3;n 511 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 08.08.2023</a></span>bl&#xE9;zcanse como pistas de uso exclusivo para los veh&#xED;culos Taxi Colectivo del Transporte P&#xFA;blico Menor, para bicicletas el uso de una Ciclov&#xED;a, para veh&#xED;culos inscritos como transporte escolar de hasta un peso vehicular bruto de 3.860 kilos, y para taxis b&#xE1;sicos en cualquiera de sus modalidades o submodalidades, en los tramos y espacios de la calzada de la comuna de La Serena, que se indican en el siguiente cuadro:</div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/169008.jpg\">.&nbsp; &nbsp; &nbsp; &nbsp;  </div><br><div class=\"p\">&nbsp; &nbsp;  2.- Se dar&#xE1; inicio al funcionamiento de las v&#xED;as exclusivas, una vez terminada la instalaci&#xF3;n de la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N&#xB0; 1, de 2007, citado en Vistos.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1194931,
+      "fecha": "2023-08-08"
+    }
+  }
+]

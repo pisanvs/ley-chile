@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-06-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8323455,
+          "old": "<div><div class=\"p\">AUTORIZA A &quot;CULTIVOS MARINOS PLAYA GRANDE LIMITADA&quot; PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A &quot;CULTIVOS MARINOS PLAYA GRANDE LIMITADA&quot; PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

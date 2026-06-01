@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2018-11-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-02-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9969109,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: F&#xED;jase, el siguiente orden de subrogaci&#xF3;n, para el cargo de Secretario Regional Ministerial de Econom&#xED;a, Fomento y Turismo de la Regi&#xF3;n de la Araucan&#xED;a:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.- Don Patrick Lewis Dungan Alvear, RUT N&#xB0; 8.519.999-4, Secretario Regional Ministerial, de la Planta de Directivos, de la Secretar&#xED;a y Administraci&#xF3;n General del Ministerio de Hacienda, grado 4&#xB0; de la Escala &#xDA;nica de Sueldos, destinado en la Regi&#xF3;n de la Araucan&#xED;a.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: F&#xED;jase, el siguiente orden de subrogaci&#xF3;n, para el cargo de Secretario Regional Ministerial de Econom&#xED;a, Fomento y Turismo de la Regi&#xF3;n de la Araucan&#xED;a:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.- Don Patrick Lewis Dungan Alvear, RUT N&#xB0; 8.519.999-4, Secretario Regional Ministerial, de la Planta de Directivos, de la Secretar&#xED;a y Administraci&#xF3;n General del Ministerio de Hacienda, grado 4&#xB0; de la Escala &#xDA;nica de Sueldos, destinado en la Regi&#xF3;n de la Araucan&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  2.- Don <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1129262&amp;idParte=10003330&amp;idVersion=2019-02-26\">Decreto 545 EXENTO,<br>ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 26.02.2019</a></span>Rodrigo Arturo Carrasco Junge, c&#xE9;dula de identidad N&#xBA; 10.335.723-3, Secretario Regional Ministerial de Desarrollo Social de la Araucan&#xED;a, grado 4&#xBA;, EUS.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1129262,
+      "fecha": "2019-02-26"
+    }
+  },
+  {
+    "fecha": "2021-02-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

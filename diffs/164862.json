@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-10-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7267241,
+          "old": "<div><div class=\"p\">AUTORIZA A LA &quot;EMPRESA PESQUERA BRAVAMAR Y COMPA&#xD1;IA LIMITADA&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA &quot;EMPRESA PESQUERA BRAVAMAR Y COMPA&#xD1;IA LIMITADA&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-10-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-11-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8351007,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Modif&#xED;case el art&#xED;culo 1&#xBA; N&#xBA; 2 del decreto exento N&#xBA; 597 de 1998, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, en el sentido de se&#xF1;alar que la cuota de Merluza del sur (Merluccius australis), reservada para la pesca artesanal en el &#xE1;rea de pesca denominada Aguas Interiores Sur, correspondiente al per&#xED;odo octubre-diciembre de 1999, se fraccionar&#xE1; de la siguiente manera: Octubre: 80 toneladas; noviembre: 80 toneladas y diciembre: 96 toneladas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Modif&#xED;case el art&#xED;culo 1&#xBA; N&#xBA; 2 del decreto exento N&#xBA; 597 de 1998, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, en el sentido de se&#xF1;alar que la cuota de Merluza del sur (Merluccius australis), reservada para la pesca artesanal en el &#xE1;rea de pesca denominada Aguas Interiores Sur, correspondiente al per&#xED;odo noviembre-diciembre<span class=\"n\" id=\"n_0\">DTO 404 EXENTO<br>ECONOMIA<br>Art. Unico<br>D.O. 04.11.1999</span> de 1999, se fraccionar&#xE1; de la siguiente manera: noviembre: 150 toneladas y diciembre: 6 toneladas. </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-11-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-03-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8694693,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Modif&#xED;case el art&#xED;culo tercero del decreto exento N&#xBA; 623/2006 de Econom&#xED;a, en atenci&#xF3;n a lo expuesto en la parte considerativa del presente decreto, de la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  As&#xED;gnase para uso de la Vicepresidencia Ejecutiva de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n -CORFO- el veh&#xED;culo que se se&#xF1;ala a continuaci&#xF3;n, autoriz&#xE1;ndolo para circular en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos exento del uso de disco fiscal distintivo, a que se refiere el art&#xED;culo 3&#xBA; del DL. N&#xBA; 799 de 1974 y sin restricci&#xF3;n de horarios, el que podr&#xE1; ser estacionado en los domicilios particulares que se se&#xF1;alan:</div><br><div class=\"p\">&nbsp; &nbsp;  Tipo de Veh&#xED;culo, Autom&#xF3;vil, Marca: Chevrolet, Modelo Optra II LS NB 1.8 AT AC, N&#xBA; Motor F 18 D 3033200K, N&#xBA; Chasis KL1JJ52B47K558467, Color Beige-Malange, a&#xF1;o 2007, Placa &#xFA;nica: SW-6836-7.</div><br><div class=\"p\">&nbsp; &nbsp;  ESTACIONAMIENTOS AUTORIZADOS:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Garc&#xED;a Moreno N&#xBA; 1244, Comuna de Nu&#xF1;oa, domicilio particular del Sr. Vicepresidente Ejecutivo de CORFO.</div><div class=\"p\">&nbsp; &nbsp;  b) Raquel N&#xBA; 59, comuna de San Joaqu&#xED;n, domicilio particular del Conductor Titular del Vicepresidente Ejecutivo de CORFO.</div><div class=\"p\">&nbsp; &nbsp;  c) Santa Elisa N&#xBA; 3441, Comuna de San Joaqu&#xED;n, domicilio particular del Conductor de Reemplazo del Vicepresidente Ejecutivo de CORFO.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Modif&#xED;case el art&#xED;culo tercero del decreto exento N&#xBA; 623/2006 de Econom&#xED;a, en atenci&#xF3;n a lo expuesto en la parte considerativa del presente decreto, de la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  As&#xED;gnase para el uso de la Vicepresidencia<span class=\"n\" id=\"n_0\">DTO 345 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 26.03.2009</span> Ejecutiva de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n (CORFO) los veh&#xED;culos que a continuaci&#xF3;n se se&#xF1;alan, autoriz&#xE1;ndoles para circular en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, exentos del uso del disco fiscal distintivo a que se refiere el art&#xED;culo 3&#xBA; del decreto ley N&#xBA; 799, de 1974, y sin restricci&#xF3;n de horarios, los que podr&#xE1;n ser estacionados en los domicilios particulares que se se&#xF1;alan:</div><br><div class=\"p\">&nbsp; &nbsp;  Tipo de Veh&#xED;culo: Autom&#xF3;vil, marca: Subaru, modelo: Legacy 2.0R 4D AT AWD UQ, N&#xBA; motor: D614662, N&#xBA; chasis: G053177, color: Plateado Acero Met&#xE1;lico, a&#xF1;o: 2009, Placa Unica: BRYJ.73-7.</div><br><br><div class=\"p\">&nbsp; &nbsp;  ESTACIONAMIENTOS AUTORIZADOS:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Garc&#xED;a Moreno N&#xBA; 1244, Comuna de Nu&#xF1;oa, domicilio particular del Sr. Vicepresidente Ejecutivo de CORFO.</div><div class=\"p\">&nbsp; &nbsp;  b) Raquel N&#xBA; 59, comuna de San Joaqu&#xED;n, domicilio particular del Conductor Titular del Vicepresidente Ejecutivo de CORFO.</div><div class=\"p\">&nbsp; &nbsp;  c) Santa Elisa N&#xBA; 3441, Comuna de San Joaqu&#xED;n, domicilio particular del Conductor de Reemplazo del Vicepresidente Ejecutivo de CORFO.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

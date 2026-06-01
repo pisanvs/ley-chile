@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1967-11-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1969-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9794861,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o- Las industrias a que se refiere el ac&#xE1;pite 2.5 del <a href=\"https://www.leychile.cl/Navegar?idNorma=18893&amp;idParte=8997797&amp;idVersion=\">art&#xED;culo 2.o</a> del <a href=\"https://www.leychile.cl/Navegar?idNorma=18893&amp;idParte=&amp;idVersion=\">decreto N.o 2.198, de 1966</a>, modificado por el decreto N.o 841, de 1967, ambos del Ministerio de Hacienda, exceptuadas las industrias de fabricaci&#xF3;n o armadur&#xED;a de veh&#xED;culos motorizados, podr&#xE1; importar sus conjuntos, partes y piezas de los productos comprendidos en las Partidas 85.08 y 85.09 del Arancel Aduanero vigente, necesarios para su producci&#xF3;n, gozando de las rebajas de derechos, impuestos y dem&#xE1;s grav&#xE1;menes que se perciben por intermedio de las Aduanas, que se consideren en los decretos antes indicados para la importaci&#xF3;n de m&#xE1;quinas, equinos y dem&#xE1;s elementos, en relaci&#xF3;n con las zonas del pa&#xED;s en que se desarrollen sus actividades.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o- Las industrias a que se refiere el ac&#xE1;pite 2.5 del art&#xED;culo 2.o del decreto N.o 2.198, de 1966, modificado por el decreto N.o 841, de 1967, ambos del Ministerio de Hacienda, exceptuadas las industrias de fabricaci&#xF3;n o armadur&#xED;a de veh&#xED;culos motorizados, podr&#xE1; importar sus conjuntos, partes y piezas de los productos comprendidos en las Partidas 85.08 y 85.09 del Arancel Aduanero vigente, necesarios para su producci&#xF3;n, gozando de las rebajas de derechos, impuestos y dem&#xE1;s grav&#xE1;menes que se perciben por intermedio de las Aduanas, que se consideren en los decretos antes indicados para la importaci&#xF3;n de m&#xE1;quinas, equinos y dem&#xE1;s elementos, en relaci&#xF3;n con las zonas del pa&#xED;s en que se desarrollen sus actividades.</div><div class=\"p\">&nbsp; &nbsp;  Igualmente, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1102111&amp;idParte=9794878&amp;idVersion=1969-05-05\">Decreto 760, HACIENDA<br>D.O. 05.05.1969</a></span>gozar&#xE1;n de estas mismas franquicias las importaciones de las materias primas y/o componentes intermedios necesarios para fabricar los conjuntos, partes y piezas se&#xF1;aladas en el inciso anterior, cuando las industrias, adelantando la programaci&#xF3;n a que se refiere el Art. 2&#xB0; del presente decreto, decidan reemplazar la importaci&#xF3;n de un conjunto, parte o pieza para su fabricaci&#xF3;n local, y siempre que, a juicio del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n y de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, dichas materias primas no se fabriquen en el pa&#xED;s o si se fabrican no cumplan las exigencias t&#xE9;cnicas necesarias. Asimismo, el tratamiento arancelario citado, ser&#xE1; s&#xF3;lo aplicable a las mercanc&#xED;as amparadas en el r&#xE9;gimen de Almac&#xE9;n Particular. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1102111,
+      "fecha": "1969-05-05"
+    }
+  }
+]

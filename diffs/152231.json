@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-03-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9051384,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;EXPORTADORA Y COMERCIAL DESHIDRO LTDA.&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;EXPORTADORA Y COMERCIAL DESHIDRO LTDA.&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS </div><br></div>"
+        }
+      ]
+    }
+  }
+]

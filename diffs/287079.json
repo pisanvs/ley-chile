@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "2009-02-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-03-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7435294,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  A C T A N&#xBA; 26-2009</div><br><div class=\"p\">&nbsp; &nbsp;  En Santiago, a treinta de enero de dos mil nueve, se reuni&#xF3; el Tribunal Pleno bajo la Presidencia de su titular, don Urbano Mar&#xED;n Vallejo, y con la asistencia de los Ministros se&#xF1;ores Oyarz&#xFA;n, Rodr&#xED;guez, Ballesteros y Mu&#xF1;oz, se&#xF1;ora Herreros, se&#xF1;ores Dolmestch, Vald&#xE9;s, Carre&#xF1;o y Pierry, se&#xF1;oras P&#xE9;rez y Araneda, se&#xF1;ores K&#xFC;nsem&#xFC;ller, Brito y Silva, y del Ministro Suplente se&#xF1;or Torres.</div><br><div class=\"p\">SOBRE TRAMITACI&#xD3;N DE EXHORTOS</div><br><div class=\"p\">MODIFICACI&#xD3;N DE ACTAS N&#xB0; 90-2007 Y N&#xB0; 212-2007</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo en consideraci&#xF3;n la necesidad de establecer procedimientos uniformes y plazos razonables para la tramitaci&#xF3;n y derivaci&#xF3;n de las actuaciones y diligencias propias de la tramitaci&#xF3;n de exhortos en la Regi&#xF3;n Metropolitana y en uso de las facultades que a este Tribunal concede el art&#xED;culo 96 N&#xB0; 4 del C&#xF3;digo Org&#xE1;nico de Tribunales, se resuelve introducir las siguientes modificaciones a los acuerdos contenidos en las Actas N&#xB0; 90-2007 y N&#xB0; 212-2007.</div><br><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

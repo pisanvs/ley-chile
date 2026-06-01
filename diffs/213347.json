@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-01-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-07-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8535373,
+          "old": "<div><div class=\"p\">AUTORIZA A DON MANUEL R. BARRIENTOS SANCHEZ PARA DESARROLLAR ACTIVIDADES PESQUERAS QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON MANUEL R. BARRIENTOS SANCHEZ PARA DESARROLLAR ACTIVIDADES PESQUERAS QUE SE&#xD1;ALA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

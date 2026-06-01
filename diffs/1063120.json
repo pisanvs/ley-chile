@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-06-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-08-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9478523,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 133, de 29 de mayo de 2014 y conforme lo dispuesto en la Ley N&#xBA; 20.267, que Crea el Sistema Nacional de Certificaci&#xF3;n de Competencias Laborales y Perfecciona el Estatuto de Capacitaci&#xF3;n y Empleo y en el decreto supremo N&#xBA; 29, de 2011, del Ministerio del Trabajo y Previsi&#xF3;n Social, se acredita a Xitla Ltda., RUT N&#xBA; 76.850.850-K, como Centro de Evaluaci&#xF3;n y Certificaci&#xF3;n de Competencias Laborales, en el Sector Educaci&#xF3;n, Subsector Asistentes de la Educaci&#xF3;n, en el perfil de Inspector Instituci&#xF3;n Educacional. La acreditaci&#xF3;n se otorga por un plazo de tres a&#xF1;os contados desde el 29 de mayo de 2014, fecha en la que el Centro fue notificado personalmente de la resoluci&#xF3;n ya referida.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 133, de 29 de mayo de 2014 y conforme lo dispuesto en la Ley N&#xBA; 20.267, que Crea el Sistema Nacional de Certificaci&#xF3;n de Competencias Laborales y Perfecciona el Estatuto de Capacitaci&#xF3;n y Empleo y en el decreto supremo N&#xBA; 29, de 2011, del Ministerio del Trabajo y Previsi&#xF3;n Social, se acredita a Xitla Ltda., RUT N&#xBA; 76.850.850-K, como Centro de Evaluaci&#xF3;n y Certificaci&#xF3;n de Competencias Laborales, en el Sector <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1065704&amp;idParte=9499424&amp;idVersion=2014-08-22\">Aviso S/N,<br>TRABAJO<br>D.O. 22.08.2014</a></span>Turismo, subsector Alojamiento, en los perfiles de Botones, Mucama y Gobernanta; en el subsector de Gastronom&#xED;a, en los perfiles de Ayudante de Cocina, Copero (Steward), Maestro de Cocina, Garz&#xF3;n y Bodeguero; en el Subsector de Actividades de Asistencia a Turistas, en el perfil de Gu&#xED;a Tur&#xED;stico General.. La acreditaci&#xF3;n se otorga por un plazo de tres a&#xF1;os contados desde el 29 de mayo de 2014, fecha en la que el Centro fue notificado personalmente de la resoluci&#xF3;n ya referida.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1065704,
+      "fecha": "2014-08-22"
+    }
+  }
+]

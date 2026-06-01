@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-03-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6010446,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; PROHIBE APOSAMIENTO DE MARISCOS MOLUSCOS BIVALVOS Y DEL RECURSO LOCO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 441.- Puerto Montt, 27 de marzo de 1996.- Vistos: La necesidad de complementar la Resoluci&#xF3;n Sanitaria N&#xB0; 430, del 25.03.96 de esta Direcci&#xF3;n, en cuanto a disponer la prohibici&#xF3;n de aposamiento de moluscos bivalvos y Locos, provenientes de la XI Regi&#xF3;n, en las aguas jurisdiccionales de este Servicio de Salud;</div><div class=\"p\">&nbsp; &nbsp; Teniendo Presente: lo dispuesto en el D.L. 2.763/79, D.S. 42/86, D.S. 92/90 y lo previsto en los contenidos 3, 108 y siguientes del C&#xF3;digo Sanitario y Art&#xED;culos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos, aprobados por D.S. 60/82 del Ministerio de Salud, dicto la siguiente:</div><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; PROHIBE APOSAMIENTO DE MARISCOS MOLUSCOS BIVALVOS Y DEL RECURSO LOCO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 441.- Puerto Montt, 27 de marzo de 1996.- Vistos: La necesidad de complementar la Resoluci&#xF3;n Sanitaria N&#xB0; 430, del 25.03.96 de esta Direcci&#xF3;n, en cuanto a disponer la prohibici&#xF3;n de aposamiento de moluscos bivalvos y Locos, provenientes de la XI Regi&#xF3;n, en las aguas jurisdiccionales de este Servicio de Salud;</div><div class=\"p\">&nbsp; &nbsp; Teniendo Presente: lo dispuesto en el D.L. 2.763/79, D.S. 42/86, D.S. 92/90 y lo previsto en los contenidos 3, 108 y siguientes del C&#xF3;digo Sanitario y Art&#xED;culos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos, aprobados por D.S. 60/82 del Ministerio de Salud, dicto la siguiente:</div><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-01-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-11-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8852637,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ENCOMIENDA FUNCION DE COORDINACION AL MINISTRO QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; Santiago, 23 de Enero de 1992.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 48.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; La necesidad de asegurar la unidad de acci&#xF3;n y perfeccionar la eficiencia y eficacia de las tareas atingentes a la Seguridad P&#xFA;blica y Seguridad Ciudadana.</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente lo dispuesto en los art&#xED;culos 24, 32 N&#xB0; 8 y 33 inciso tercero de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica y art&#xED;culo 10&#xB0; inciso 7&#xB0; de la Ley 10.336</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ENCOMIENDA FUNCION DE COORDINACION AL MINISTRO QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 23 de Enero de 1992.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 48.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; La necesidad de asegurar la unidad de acci&#xF3;n y perfeccionar la eficiencia y eficacia de las tareas atingentes a la Seguridad P&#xFA;blica y Seguridad Ciudadana.</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente lo dispuesto en los art&#xED;culos 24, 32 N&#xB0; 8 y 33 inciso tercero de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica y art&#xED;culo 10&#xB0; inciso 7&#xB0; de la Ley 10.336</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

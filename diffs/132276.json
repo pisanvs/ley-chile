@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-06-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-07-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8341413,
+          "old": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1; A PESQUERA CONSTANTINO S.A. PARA INICIAR ACTIVIDADES </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1; A PESQUERA CONSTANTINO S.A. PARA INICIAR ACTIVIDADES</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-08-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-05-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8329863,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO N&#xBA; 112, DE 1984</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 243.- Santiago, 30 de Julio de 1986.- Visto: El informe de la Subsecretar&#xED;a de Pesca; lo dispuesto en el DFL N&#xBA; 5, de 1983; en el decreto N&#xBA; 112, de 1984, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la actividad alguera en las Regiones X y XI ha tenido un fuerte incremento debido al excesivo aumento del n&#xFA;mero de extractores,</div><div class=\"p\">&nbsp; &nbsp;  Que es necesario readecuar la norma vigente para evitar un deterioro mayor de las praderas por la intensidad y concentraci&#xF3;n del esfuerzo pesquero.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO N&#xBA; 112, DE 1984</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 243.- Santiago, 30 de Julio de 1986.- Visto: El informe de la Subsecretar&#xED;a de Pesca; lo dispuesto en el DFL N&#xBA; 5, de 1983; en el decreto N&#xBA; 112, de 1984, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la actividad alguera en las Regiones X y XI ha tenido un fuerte incremento debido al excesivo aumento del n&#xFA;mero de extractores,</div><div class=\"p\">&nbsp; &nbsp;  Que es necesario readecuar la norma vigente para evitar un deterioro mayor de las praderas por la intensidad y concentraci&#xF3;n del esfuerzo pesquero.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

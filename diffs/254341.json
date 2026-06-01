@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-10-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-11-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8663021,
+          "old": "<div><div class=\"p\">APRUEBA EL FORMULARIO DECLARACION DE MONEDA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 5.180 exenta.- Valpara&#xED;so, 11 de octubre de 2006.- Vistos: El art&#xED;culo 4&#xB0; de la ley N&#xB0; 19.913, modificado por la ley N&#xB0; 20.119, publicada en el Diario Oficial de fecha 31.08.2006.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la ley N&#xB0; 20.119, complement&#xF3; el art&#xED;culo 4&#xB0; de la ley N&#xB0; 19.913 en el sentido de exigir tambi&#xE9;n una declaraci&#xF3;n de todo aquel que porte o transporte moneda en efectivo o instrumentos negociables al portador, desde el pa&#xED;s hacia el exterior, por un monto que exceda los 10.000 d&#xF3;lares de los Estados Unidos de Am&#xE9;rica o su equivalente en otras monedas, debiendo informarlo al Servicio Nacional de Aduanas a la salida del pa&#xED;s, para ser remitida a la Unidad de An&#xE1;lisis Financiero; Que para dar cumplimiento a esta disposici&#xF3;n legal, se hace necesario establecer un formulario destinado al efecto; y</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Estos antecedentes, lo dispuesto en los art&#xED;culos 4&#xB0;, 7&#xB0; y 8&#xB0; del D.F.L. N&#xB0; 329/79, del Ministerio de Hacienda, Ley Org&#xE1;nica del Servicio Nacional de Aduanas, y en el art&#xED;culo 4&#xB0; de la ley N&#xB0; 19.913, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA EL FORMULARIO DECLARACION DE MONEDA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 5.180 exenta.- Valpara&#xED;so, 11 de octubre de 2006.- Vistos: El art&#xED;culo 4&#xB0; de la ley N&#xB0; 19.913, modificado por la ley N&#xB0; 20.119, publicada en el Diario Oficial de fecha 31.08.2006.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la ley N&#xB0; 20.119, complement&#xF3; el art&#xED;culo 4&#xB0; de la ley N&#xB0; 19.913 en el sentido de exigir tambi&#xE9;n una declaraci&#xF3;n de todo aquel que porte o transporte moneda en efectivo o instrumentos negociables al portador, desde el pa&#xED;s hacia el exterior, por un monto que exceda los 10.000 d&#xF3;lares de los Estados Unidos de Am&#xE9;rica o su equivalente en otras monedas, debiendo informarlo al Servicio Nacional de Aduanas a la salida del pa&#xED;s, para ser remitida a la Unidad de An&#xE1;lisis Financiero; Que para dar cumplimiento a esta disposici&#xF3;n legal, se hace necesario establecer un formulario destinado al efecto; y</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Estos antecedentes, lo dispuesto en los art&#xED;culos 4&#xB0;, 7&#xB0; y 8&#xB0; del D.F.L. N&#xB0; 329/79, del Ministerio de Hacienda, Ley Org&#xE1;nica del Servicio Nacional de Aduanas, y en el art&#xED;culo 4&#xB0; de la ley N&#xB0; 19.913, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

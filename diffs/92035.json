@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8321086,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD COMERCIAL E INDUSTRIAL AGROMAR LIMITADA PARA AMPLIAR ACTIVIDADES PESOUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD COMERCIAL E INDUSTRIAL AGROMAR LIMITADA PARA AMPLIAR ACTIVIDADES PESOUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

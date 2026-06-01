@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-04-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-10-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7315503,
+          "old": "<div><div class=\"p\">DETERMINA PROCEDIMIENTO PARA EFECTUAR LAS INSPECCIONES Y CONTROLES SANITARIOS A LOS CAMELIDOS SUDAMERICANOS DESTINADOS A LA EXPORTACION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 557 exenta.- Santiago, 13 de Abril de 1989.- Vistos: Lo establecido en los art&#xED;culos 1; 2; 3, letra j); 6 y 7, letra r), de la Ley No. 18.755; lo dispuesto en el D.F.L. RRA. No. 16, de 19 de febrero de 1963, Sobre Sanidad y Protecci&#xF3;n Animal; lo indicado en los decretos supremos N&#xB0;s. 59 y 60, de 17 y 18 de junio de 1985, ambos del Ministerio de Agricultura; lo se&#xF1;alado en la resoluci&#xF3;n No. 1.050, de 31 de julio de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica, que fij&#xF3; el texto refundido y actualizado de la resoluci&#xF3;n del mismo origen No. 600, de 14 de julio de 1977; y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Que las exportaciones de cam&#xE9;lidos requieren cumplir las exigencias sanitarias que establezcan los pa&#xED;ses de destino, debiendo el Servicio Agr&#xED;cola y Ganadero verificar el cumplimiento de las mismas; y 2&#xB0;.- Que es necesario uniformar un procedimiento para dar cumplimiento a las inspecciones sanitarias que con tal objeto deba efectuar el referido Servicios </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DETERMINA PROCEDIMIENTO PARA EFECTUAR LAS INSPECCIONES Y CONTROLES SANITARIOS A LOS CAMELIDOS SUDAMERICANOS DESTINADOS A LA EXPORTACION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 557 exenta.- Santiago, 13 de Abril de 1989.- Vistos: Lo establecido en los art&#xED;culos 1; 2; 3, letra j); 6 y 7, letra r), de la Ley No. 18.755; lo dispuesto en el D.F.L. RRA. No. 16, de 19 de febrero de 1963, Sobre Sanidad y Protecci&#xF3;n Animal; lo indicado en los decretos supremos N&#xB0;s. 59 y 60, de 17 y 18 de junio de 1985, ambos del Ministerio de Agricultura; lo se&#xF1;alado en la resoluci&#xF3;n No. 1.050, de 31 de julio de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica, que fij&#xF3; el texto refundido y actualizado de la resoluci&#xF3;n del mismo origen No. 600, de 14 de julio de 1977; y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Que las exportaciones de cam&#xE9;lidos requieren cumplir las exigencias sanitarias que establezcan los pa&#xED;ses de destino, debiendo el Servicio Agr&#xED;cola y Ganadero verificar el cumplimiento de las mismas; y 2&#xB0;.- Que es necesario uniformar un procedimiento para dar cumplimiento a las inspecciones sanitarias que con tal objeto deba efectuar el referido Servicios </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "2015-01-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-06-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9547312,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Los importadores, distribuidores, primer vendedor u otro, en adelante &quot;el solicitante&quot;, deber&#xE1; presentar la solicitud de acreditaci&#xF3;n ante el Ministerio de Transportes y Telecomunicaciones, espec&#xED;ficamente en el Centro de Control y Certificaci&#xF3;n Vehicular, en adelante &quot;el Centro&quot;, conforme al formato que se se&#xF1;ala en el Anexo A de la presente resoluci&#xF3;n.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Los importadores, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1160917&amp;idParte=10241623&amp;idVersion=2021-06-10\">Resoluci&#xF3;n 2848 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico a)<br>D.O. 10.06.2021</a></span>distribuidores, primer vendedor u otro, en adelante &quot;el solicitante&quot;, deber&#xE1; presentar una solicitud de acreditaci&#xF3;n ante el Ministerio de Transportes y Telecomunicaciones, espec&#xED;ficamente en el Centro de Control y Certificaci&#xF3;n Vehicular, en adelante &quot;el Centro&quot;, mediante la plataforma electr&#xF3;nica de tr&#xE1;mites de la Subsecretar&#xED;a de Transportes disponible en el portal web https://www.mtt.gob.cl/portaldetramites, o presencialmente utilizando para ello el formato que se se&#xF1;ala en el Anexo A de la presente resoluci&#xF3;n, y que podr&#xE1; ser descargado de dicho portal. A la solicitud deber&#xE1;n acompa&#xF1;arse los antecedentes se&#xF1;alados en el Anexo B de la presente resoluci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9547313,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: El Centro comunicar&#xE1; en un plazo de 10 d&#xED;as h&#xE1;biles, contados desde la solicitud, la fecha en la cual el solicitante deber&#xE1; presentar el sistema o asiento de seguridad para ni&#xF1;os en las instalaciones del Centro, para proceder a la verificaci&#xF3;n f&#xED;sica de sus caracter&#xED;sticas y especificaciones t&#xE9;cnicas.</div><div class=\"p\">&nbsp; &nbsp;  A m&#xE1;s tardar, 5 d&#xED;as h&#xE1;biles antes de la fecha programada para la presentaci&#xF3;n del sistema o asiento de seguridad para ni&#xF1;os a que se refiere el inciso anterior, el solicitante deber&#xE1; proporcionar al Centro los antecedentes que se indican en el Anexo B de la presente resoluci&#xF3;n.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: El Centro comunicar&#xE1; en un plazo de 10 d&#xED;as h&#xE1;biles, contados desde la solicitud, la fecha en la cual el solicitante deber&#xE1; presentar el sistema o asiento de seguridad para ni&#xF1;os en las <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1160917&amp;idParte=10241623&amp;idVersion=2021-06-10\">Resoluci&#xF3;n 2848 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico b)<br>D.O. 10.06.2021</a></span>instalaciones del Centro, para proceder a la verificaci&#xF3;n f&#xED;sica de sus caracter&#xED;sticas y especificaciones t&#xE9;cnicas.</div><br></div>"
+        },
+        {
+          "part_id": 9547317,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: El horario de recepci&#xF3;n de la solicitud y antecedentes en el Centro, ser&#xE1; en d&#xED;as h&#xE1;biles, de lunes a viernes, de 9:00 a 14:00 horas, en sus dependencias, ubicadas en Vicente Reyes N&#xBA;198, comuna de Maip&#xFA;, ciudad de Santiago, Chile.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: El horario de recepci&#xF3;n<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1160917&amp;idParte=10241623&amp;idVersion=2021-06-10\">Resoluci&#xF3;n 2848 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico c)<br>D.O. 10.06.2021</a></span> de solicitudes presenciales, y antecedentes o elementos relacionados, ser&#xE1; de 9:00 a 14:00 horas, de lunes a viernes (en d&#xED;as h&#xE1;biles), en las dependencias ubicadas en calle Vicente Reyes N&#xBA; 198, comuna de Maip&#xFA;, ciudad de Santiago, Chile.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1160917,
+      "fecha": "2021-06-10"
+    }
+  }
+]

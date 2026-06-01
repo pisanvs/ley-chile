@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-07-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8542598,
+          "old": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A EDUARDO ITURRIETA E HIJOS LIMITADA</div><br><br></div>",
+          "new": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A EDUARDO ITURRIETA E HIJOS LIMITADA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

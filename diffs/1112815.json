@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9868245,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Identif&#xED;case la siguiente obra espec&#xED;fica, de naturaleza p&#xFA;blica, que puede financiarse con donaciones susceptibles de acogerse a los beneficios tributarios a que se refiere la ley N&#xBA; 20.444:</div><br><div class=\"p\">Nombre de&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Titular de&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Valor de </div><div class=\"p\">la Obra&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  la Obra&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  la Obra</div><br><div class=\"p\">Construcci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Servicio de&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  $952.000.000.-</div><div class=\"p\">Centro de Salud&nbsp; &nbsp; &nbsp;  Salud Maule</div><div class=\"p\">Familiar Santa Olga&nbsp;  Rut N&#xBA; 61.606.900-4</div></div>",
+          "new": "<div><div class=\"p\"> <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1127425&amp;idParte=9985923&amp;idVersion=2019-01-05\">Decreto 398 EXENTO,<br>HACIENDA<br>a) y b)<br>D.O. 05.01.2019</a></span></div><div class=\"p\">&nbsp; &nbsp;  1.- Identif&#xED;case la siguiente obra espec&#xED;fica, de naturaleza p&#xFA;blica, que puede financiarse con donaciones susceptibles de acogerse a los beneficios tributarios a que se refiere la ley N&#xBA; 20.444:</div><br><div class=\"p\">Nombre de&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Titular de&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Valor de </div><div class=\"p\">la Obra&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  la Obra&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  la Obra</div><br><div class=\"p\">Construcci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Servicio de&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  $398.650.000.-</div><div class=\"p\">Posta de Salud&nbsp; &nbsp; &nbsp;  Salud Maule</div><div class=\"p\">Rural Santa Olga&nbsp;  Rut N&#xBA; 61.606.900-4</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Cel&#xE9;brese para la ejecuci&#xF3;n de la obra <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1127425&amp;idParte=9985923&amp;idVersion=2019-01-05\">Decreto 398 EXENTO,<br>HACIENDA<br>c)<br>D.O. 05.01.2019</a></span>un convenio de ejecuci&#xF3;n, en los t&#xE9;rminos dispuestos en el art&#xED;culo 8&#xB0; bis de la Ley N&#xBA; 20.444, entre la Subsecretar&#xED;a correspondiente del Ministerio de Salud y el donante.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1127425,
+      "fecha": "2019-01-05"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2001-11-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-12-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6818480,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Autor&#xED;zase a la Universidad de Chile, por el plazo de 18 meses a contar desde la fecha de vigencia de la presente ley, para contratar uno o m&#xE1;s empr&#xE9;stitos en el pa&#xED;s o en el exterior, hasta por la cantidad total de US$20 millones o su equivalente en otras monedas extranjeras o en moneda nacional, con el objeto de financiar la construcci&#xF3;n del Parque Cient&#xED;fico-Tecnol&#xF3;gico de la Universidad de Chile, en el sector de Laguna Car&#xE9;n, en la Regi&#xF3;n Metropolitana.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Autor&#xED;zase a la Universidad de Chile, por el plazo de 18 meses a contar desde la fecha de vigencia de la presente ley, para contratar uno o m&#xE1;s empr&#xE9;stitos en el pa&#xED;s o en el exterior, hasta por la cantidad total de US$20 millones o su equivalente en otras monedas extranjeras o en moneda nacional, con el objeto de financiar la construcci&#xF3;n del Parque Cient&#xED;fico-Tecnol&#xF3;gico de la Universidad de Chile, en el sector de Laguna Car&#xE9;n, en la Regi&#xF3;n Metropolitana. El vencimiento del o los empr&#xE9;stitos que se<span class=\"n\" id=\"n_0\">LEY 19847<br>Art. 3&#xBA;<br>D.O. 19.12.2002</span> contraten, podr&#xE1; ser superior a seis a&#xF1;os. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-10-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6818480,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Autor&#xED;zase a la Universidad de Chile, por el plazo de 18 meses a contar desde la fecha de vigencia de la presente ley, para contratar uno o m&#xE1;s empr&#xE9;stitos en el pa&#xED;s o en el exterior, hasta por la cantidad total de US$20 millones o su equivalente en otras monedas extranjeras o en moneda nacional, con el objeto de financiar la construcci&#xF3;n del Parque Cient&#xED;fico-Tecnol&#xF3;gico de la Universidad de Chile, en el sector de Laguna Car&#xE9;n, en la Regi&#xF3;n Metropolitana. El vencimiento del o los empr&#xE9;stitos que se<span class=\"n\" id=\"n_0\">LEY 19847<br>Art. 3&#xBA;<br>D.O. 19.12.2002</span> contraten, podr&#xE1; ser superior a seis a&#xF1;os. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Autor&#xED;zase a la Universidad de Chile, por el plazo de 36 meses a contar desde la fecha<span class=\"n\" id=\"n_0\">LEY 19908<br>Art. 4&#xBA; N&#xBA; 1<br>D.O. 03.10.2003</span> de vigencia de la presente ley, para contratar uno o m&#xE1;s empr&#xE9;stitos en el pa&#xED;s o en el exterior, hasta por la cantidad total de US$20 millones o su equivalente en otras monedas extranjeras o en moneda nacional, con el objeto de financiar la construcci&#xF3;n del Parque Cient&#xED;fico-Tecnol&#xF3;gico de la Universidad de Chile, en el sector de Laguna Car&#xE9;n, en la Regi&#xF3;n Metropolitana. El vencimiento del o los empr&#xE9;stitos o cr&#xE9;ditos que<span class=\"n\" id=\"n_1\">LEY 19908<br>Art. 4&#xBA; N&#xBA; 2<br>D.O. 03.10.2003</span> se contraten, podr&#xE1; ser superior a seis a&#xF1;os. </div></div>"
+        }
+      ]
+    }
+  }
+]

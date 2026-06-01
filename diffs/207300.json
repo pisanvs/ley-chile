@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-06-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6412556,
+          "old": "<div><div class=\"p\">DESIGNA SECRETARIO ABOGADO DEL CONSEJO DE CALIFICACION CINEMATOGRAFICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 567 exenta.- Santiago, 9 de enero de 2003.-</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, de acuerdo con lo dispuesto en el inciso final del art&#xED;culo 4&#xBA; de la ley N&#xBA; 19.846 sobre Calificaci&#xF3;n de la Producci&#xF3;n Cinematogr&#xE1;fica, procede que el Subsecretario de Educaci&#xF3;n designe al Secretario Abogado del mencionado Consejo.</div><div class=\"p\">&nbsp; &nbsp;  Que, corresponder&#xE1; al Secretario Abogado cumplir las funciones que le ha atribuido la ley N&#xBA; 19.846, las que le asigne el respectivo Reglamento y el Consejo de Calificaci&#xF3;n Cinematogr&#xE1;fica, y</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en las leyes N&#xBA;s. 18.956 y 19.846; y resoluci&#xF3;n N&#xBA; 520 de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA SECRETARIO ABOGADO DEL CONSEJO DE CALIFICACION CINEMATOGRAFICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 567 exenta.- Santiago, 9 de enero de 2003.-</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, de acuerdo con lo dispuesto en el inciso final del art&#xED;culo 4&#xBA; de la ley N&#xBA; 19.846 sobre Calificaci&#xF3;n de la Producci&#xF3;n Cinematogr&#xE1;fica, procede que el Subsecretario de Educaci&#xF3;n designe al Secretario Abogado del mencionado Consejo.</div><div class=\"p\">&nbsp; &nbsp;  Que, corresponder&#xE1; al Secretario Abogado cumplir las funciones que le ha atribuido la ley N&#xBA; 19.846, las que le asigne el respectivo Reglamento y el Consejo de Calificaci&#xF3;n Cinematogr&#xE1;fica, y</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en las leyes N&#xBA;s. 18.956 y 19.846; y resoluci&#xF3;n N&#xBA; 520 de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

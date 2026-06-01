@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-05-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-09-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9444799,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- As&#xED;gnese los veh&#xED;culos utilizados por el Ministerio Secretar&#xED;a General de Gobierno, des&#xED;gnese conductores y fija lugar de estacionamiento, en la forma que a continuaci&#xF3;n se se&#xF1;ala para el cumplimiento de las funciones propias e inherentes al Servicio:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/39750.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Los conductores de los veh&#xED;culos, se&#xF1;alados en el punto anterior de la presente resoluci&#xF3;n, deber&#xE1;n rendir cauci&#xF3;n a la que se refiere al art&#xED;culo 7&#xBA; del decreto de ley N&#xBA; 799, citado. Asimismo, la Divisi&#xF3;n de Administraci&#xF3;n y Finanzas a trav&#xE9;s del Departamento de Administraci&#xF3;n, deber&#xE1; mantener una n&#xF3;mina actualizada de los conductores designados para la conducci&#xF3;n de los veh&#xED;culos indicados precedentemente, y de sus domicilios particulares.</div><div class=\"p\">&nbsp; &nbsp;  3.- Disp&#xF3;nese que los veh&#xED;culos antes indicados podr&#xE1;n, por motivos fundados, ser conducidos indistintamente por cualquier conductor autorizado por el Ministerio Secretar&#xED;a General de Gobierno, debiendo &#xE9;stos ser guardados al t&#xE9;rmino de la jornada diaria en aquellos estacionamientos dispuestos por esta Secretar&#xED;a de Estado, salvo las excepciones autorizadas y debidamente justificadas.</div><div class=\"p\">&nbsp; &nbsp;  4.- D&#xE9;jese sin efecto la resoluci&#xF3;n exenta N&#xBA; 272/908 de fecha 20 de agosto de 2012, la que asignaba veh&#xED;culos, designaba choferes y fijaba lugares de estacionamiento.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- As&#xED;gnese los veh&#xED;culos utilizados por el Ministerio Secretar&#xED;a General de Gobierno, des&#xED;gnese conductores y fija lugar de estacionamiento, en la forma que a continuaci&#xF3;n se se&#xF1;ala para el cumplimiento de las funciones propias e inherentes al Servicio:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/39750.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Los conductores de los veh&#xED;culos, se&#xF1;alados en el punto anterior de la presente resoluci&#xF3;n, deber&#xE1;n rendir cauci&#xF3;n a la que se refiere al art&#xED;culo 7&#xBA; del decreto de ley N&#xBA; 799, citado. Asimismo, la Divisi&#xF3;n de Administraci&#xF3;n y Finanzas a trav&#xE9;s del Departamento de Administraci&#xF3;n, deber&#xE1; mantener una n&#xF3;mina actualizada de los conductores designados para la conducci&#xF3;n de los veh&#xED;culos indicados precedentemente, y de sus domicilios particulares.</div><div class=\"p\">&nbsp; &nbsp;  3.- Disp&#xF3;nese que los veh&#xED;culos antes indicados podr&#xE1;n, por motivos fundados, ser conducidos indistintamente por cualquier conductor autorizado por el Ministerio Secretar&#xED;a General de Gobierno, debiendo &#xE9;stos ser guardados al t&#xE9;rmino de la jornada diaria en aquellos estacionamientos dispuestos por esta Secretar&#xED;a de Estado, salvo las excepciones autorizadas y debidamente justificadas.</div><div class=\"p\">&nbsp; &nbsp;  4.- D&#xE9;jese sin efecto la resoluci&#xF3;n exenta N&#xBA; 272/908 de fecha 20 de agosto de 2012, la que asignaba veh&#xED;culos, designaba choferes y fijaba lugares de estacionamiento.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los numerales 1 y 3 de la Resoluci&#xF3;n 1295 Exenta, Secretar&#xED;a General de Gobierno, publicada el 26.09.2014, modifican la presente norma en el sentido de indicar que los veh&#xED;culos que se se&#xF1;alan podr&#xE1;n ser guardados en los lugares distintos a los indicados.</div></div>"
+        }
+      ]
+    }
+  }
+]

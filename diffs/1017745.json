@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-10-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-10-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9015895,
+          "old": "<div><br><div class=\"p\">DISPONE SUBROGACI&#xD3;N COMO VICEPRESIDENTE DE LA REP&#xDA;BLICA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 21 de septiembre de 2010.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 761.- Visto: Lo dispuesto en los art&#xED;culos 29&#xBA; y 32&#xBA;, N&#xBA; 6 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile y teniendo presente que me ausentar&#xE9; del territorio nacional el d&#xED;a 21 de septiembre de 2020 para viajar a la ciudad de Nueva York, debido a que participar&#xE9; en la Reuni&#xF3;n del 65&#xBA; Per&#xED;odo de Sesiones de la Asamblea de las Naciones Unidas, el d&#xED;a 23 de septiembre de 2010 viajar&#xE9; a Los &#xC1;ngeles, con motivo de realizar una visita de trabajo y adem&#xE1;s una visita a la Planta Geom&#xE9;trica de Coso, finalmente, el d&#xED;a 24 de septiembre de 2010, me trasladar&#xE9; a la ciudad de San Francisco, para asistir a una visita de trabajo, para luego retornar a Chile el d&#xED;a 26 de septiembre de 2010,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div></div>",
+          "new": "<div><br><div class=\"p\">DISPONE SUBROGACI&#xD3;N COMO VICEPRESIDENTE DE LA REP&#xDA;BLICA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 21 de septiembre de 2010.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 761.- Visto: Lo dispuesto en los art&#xED;culos 29&#xBA; y 32&#xBA;, N&#xBA; 6 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile y teniendo presente que me ausentar&#xE9; <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1017812&amp;idParte=9017326&amp;idVersion=2010-10-15\">Rectificaci&#xF3;n 141,<br>INTERIOR<br>D.O. 15.10.2010</a></span>del territorio nacional el d&#xED;a 21 de septiembre de 2010 para viajar a la ciudad de Nueva York, debido a que participar&#xE9; en la Reuni&#xF3;n del 65&#xBA; Per&#xED;odo de Sesiones de la Asamblea de las Naciones Unidas, el d&#xED;a 23 de septiembre de 2010 viajar&#xE9; a Los &#xC1;ngeles, con motivo de realizar una visita de trabajo y adem&#xE1;s una visita a la Planta Geom&#xE9;trica de Coso, finalmente, el d&#xED;a 24 de septiembre de 2010, me trasladar&#xE9; a la ciudad de San Francisco, para asistir a una visita de trabajo, para luego retornar a Chile el d&#xED;a 26 de septiembre de 2010,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1017812,
+      "fecha": "2010-10-15"
+    }
+  }
+]

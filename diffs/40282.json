@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-11-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8950322,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE REQUISITOS PARA LA INSTALACION Y FUNCIONAMIENTO DE LOS DEPOSITOS DE PRODUCTOS FARMACEUTICOS DE USO VETERINARIO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.997 exenta.- Santiago, 25 de octubre de 1995.- Vistos: Las disposiciones contenidas en el art&#xED;culo 3&#xB0; letra &#xF1;) y art&#xED;culos 41&#xB0; y 42&#xB0; de la Ley N&#xB0; 18.755, modificada por la Ley N&#xB0; 19.283; el Reglamento del Sistema Nacional de Control de Productos Farmac&#xE9;uticos de Uso Veterinario, aprobado por el Decreto Supremo N&#xB0; 139, de 7 de junio de 1995, del Ministerio de Agricultura, y las facultades que me confiere la resoluci&#xF3;n N&#xB0; 1.268, de 7 de junio de 1994.</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que seg&#xFA;n lo dispuesto en las Normas legales y Reglamentos se&#xF1;alados en los vistos, corresponde al Servicio Agr&#xED;cola y Ganadero velar por el cumplimiento de las Normas Legales y Reglamentarias sobre los productos farmac&#xE9;uticos de uso exclusivamente veterinario.</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE REQUISITOS PARA LA INSTALACION Y FUNCIONAMIENTO DE LOS DEPOSITOS DE PRODUCTOS FARMACEUTICOS DE USO VETERINARIO</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.997 exenta.- Santiago, 25 de octubre de 1995.- Vistos: Las disposiciones contenidas en el art&#xED;culo 3&#xB0; letra &#xF1;) y art&#xED;culos 41&#xB0; y 42&#xB0; de la Ley N&#xB0; 18.755, modificada por la Ley N&#xB0; 19.283; el Reglamento del Sistema Nacional de Control de Productos Farmac&#xE9;uticos de Uso Veterinario, aprobado por el Decreto Supremo N&#xB0; 139, de 7 de junio de 1995, del Ministerio de Agricultura, y las facultades que me confiere la resoluci&#xF3;n N&#xB0; 1.268, de 7 de junio de 1994.</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que seg&#xFA;n lo dispuesto en las Normas legales y Reglamentos se&#xF1;alados en los vistos, corresponde al Servicio Agr&#xED;cola y Ganadero velar por el cumplimiento de las Normas Legales y Reglamentarias sobre los productos farmac&#xE9;uticos de uso exclusivamente veterinario.</div><br><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

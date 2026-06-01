@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7247363,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xBA; 248, DE 1986 </div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xBA; 248, DE 1986 </div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

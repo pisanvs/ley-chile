@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-05-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9585840,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Se autoriza a las Municipalidades de Cha&#xF1;aral, Diego de Almagro, Caldera, Copiap&#xF3;, Tierra Amarilla, Alto del Carmen, Freirina, Huasco, Vallenar, todas de la Regi&#xF3;n de Atacama, y las Municipalidades de Antofagasta y Tal-Tal, ambas de la Regi&#xF3;n de Antofagasta, para que prorroguen, hasta el 30 de abril de este a&#xF1;o, el pago de la renovaci&#xF3;n del permiso de circulaci&#xF3;n correspondiente al a&#xF1;o 2015 para todos los veh&#xED;culos comprendidos en el n&#xFA;mero 1, del art&#xED;culo 15, del D.L. N&#xBA;3.063, sobre Rentas Municipales.</div><div class=\"p\">&nbsp; &nbsp;  La medida dispuesta solo beneficiar&#xE1; a las personas naturales y jur&#xED;dicas que tengan su domicilio en las comunas se&#xF1;aladas en el p&#xE1;rrafo anterior.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Se autoriza a las Municipalidades de Cha&#xF1;aral, Diego de Almagro, Caldera, Copiap&#xF3;, Tierra Amarilla, Alto del Carmen, Freirina, Huasco, Vallenar, todas de la Regi&#xF3;n de Atacama, y las Municipalidades de Antofagasta y Tal-Tal, ambas de la Regi&#xF3;n de Antofagasta, para que <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> prorroguen, hasta el 30 de abril de este a&#xF1;o, el pago de la renovaci&#xF3;n del permiso de circulaci&#xF3;n correspondiente al a&#xF1;o 2015 para todos los veh&#xED;culos comprendidos en el n&#xFA;mero 1, del art&#xED;culo 15, del D.L. N&#xBA;3.063, sobre Rentas Municipales.</div><div class=\"p\">&nbsp; &nbsp;  La medida dispuesta solo beneficiar&#xE1; a las personas naturales y jur&#xED;dicas que tengan su domicilio en las comunas se&#xF1;aladas en el p&#xE1;rrafo anterior.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El Art&#xED;culo Primero del decreto 532, Interior, publicado el 30.05.2015. modifica la presente norma en el sentido de prorrogar hasta el 30 de junio de 2015 respecto de las municipalidades de Cha&#xF1;aral, Diego de Almagro, Caldera, Copiap&#xF3;, Tierra Amarilla, Alto del Carmen, Freirina, Huasco, Vallenar, todas de la Regi&#xF3;n de Atacama, el pago de la renovaci&#xF3;n del permiso de circulaci&#xF3;n correspondiente al a&#xF1;o 2015 para todos los veh&#xED;culos comprendidos en el n&#xFA;mero 1, del art&#xED;culo 15, del D.L. N&#xBA;3.063, sobre Rentas Municipales.</div></div>"
+        }
+      ]
+    }
+  }
+]

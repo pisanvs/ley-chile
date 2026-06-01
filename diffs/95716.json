@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8833764,
+          "old": "<div><div class=\"p\">MODIFICA ORDENANZA LOCAL, SOBRE DERECHOS MUNICIPALES POR CONCESIONES, PERMISOS Y SERVICIOS</div><br><div class=\"p\">N&#xFA;m. 200 exento.- Galvarino, 28.12.89.- Vistos: Estos antecedentes:</div><div class=\"p\">- Lo dispuesto en el art&#xED;culo 42 y 43 del decreto ley No.</div><div class=\"p\">3.063 de 1979, sobre Rentas Municipales:</div><div class=\"p\">- Decretos exentos No. 119 del 31.12.86 No. 146 del 31.12.87 y No. 21.12.88, todos de la I. Municipalidad de Galvarino - El acuerdo otorgado por el Codeco de Galvarino en sesi&#xF3;n ordinaria No. 21 de fecha 27.12.89;</div><div class=\"p\">- Las facultades que me confiere la Ley 18.695 de 1988, Ley Org&#xE1;nica Constitucional de Municipalidades.</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA ORDENANZA LOCAL, SOBRE DERECHOS MUNICIPALES POR CONCESIONES, PERMISOS Y SERVICIOS</div><br><div class=\"p\">N&#xFA;m. 200 exento.- Galvarino, 28.12.89.- Vistos: Estos antecedentes:</div><div class=\"p\">- Lo dispuesto en el art&#xED;culo 42 y 43 del decreto ley No.</div><div class=\"p\">3.063 de 1979, sobre Rentas Municipales:</div><div class=\"p\">- Decretos exentos No. 119 del 31.12.86 No. 146 del 31.12.87 y No. 21.12.88, todos de la I. Municipalidad de Galvarino - El acuerdo otorgado por el Codeco de Galvarino en sesi&#xF3;n ordinaria No. 21 de fecha 27.12.89;</div><div class=\"p\">- Las facultades que me confiere la Ley 18.695 de 1988, Ley Org&#xE1;nica Constitucional de Municipalidades.</div><br><div class=\"p\">Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-11-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8335239,
+          "old": "<div><div class=\"p\">&nbsp; AUTORIZA A PESQUERA CALDEMAR LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS.DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; AUTORIZA A PESQUERA CALDEMAR LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS.DENIEGA AUTORIZACION QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

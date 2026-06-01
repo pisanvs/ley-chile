@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2013-04-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-05-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9348593,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Prorr&#xF3;gase por un a&#xF1;o el plazo fijado por la <a href=\"https://www.leychile.cl/Navegar?idNorma=1039675&amp;idParte=&amp;idVersion=\">RE N&#xBA; 955</a>, citada en Visto, publicada en el Diario Oficial con fecha 5 de mayo de 2012.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Prorr&#xF3;gase por un a&#xF1;o <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; el plazo fijado por la RE N&#xBA; 955, citada en Visto, publicada en el Diario Oficial con fecha 5 de mayo de 2012.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo primero de la Resoluci&#xF3;n 1171 Exenta, Econom&#xED;a, publicado el 06.05.2014, prorrog&#xF3; por un a&#xF1;o lo dispuesto en el articulo primero de la presente norma.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9348593,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Prorr&#xF3;gase por un a&#xF1;o <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; el plazo fijado por la RE N&#xBA; 955, citada en Visto, publicada en el Diario Oficial con fecha 5 de mayo de 2012.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo primero de la Resoluci&#xF3;n 1171 Exenta, Econom&#xED;a, publicado el 06.05.2014, prorrog&#xF3; por un a&#xF1;o lo dispuesto en el articulo primero de la presente norma.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Prorr&#xF3;gase por un a&#xF1;o <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; el plazo <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>fijado por la RE N&#xBA; 955, citada en Visto, publicada en el Diario Oficial con fecha 5 de mayo de 2012.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo primero de la Resoluci&#xF3;n 1171 Exenta, Econom&#xED;a, publicado el 06.05.2014, prorrog&#xF3; por un a&#xF1;o lo dispuesto en el articulo primero de la presente norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo Primero de la Resoluci&#xF3;n 2207 Exenta, Econom&#xED;a, publicada el 05.05.2015, prorrogo por un a&#xF1;o lo dispuesto en el art&#xED;culo primero de la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

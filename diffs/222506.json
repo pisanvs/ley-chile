@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-03-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-12-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8659553,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Los terminales que cuenten con autorizaci&#xF3;n vigente a la fecha de publicaci&#xF3;n del presente decreto, deber&#xE1;n cumplir con las exigencias conforme a las cuales se otorg&#xF3; dicha autorizaci&#xF3;n y se considerar&#xE1;n para todos los efectos como Terminales de Veh&#xED;culos. En todo caso, los responsables de los servicios que operan en dichos terminales podr&#xE1;n solicitar al Ministerio que introduzca las modificaciones que correspondan en la resoluci&#xF3;n de autorizaci&#xF3;n respectiva, en cuyo caso ser&#xE1;n aplicables las disposiciones contenidas en la normativa vigente.</div><div class=\"p\">&nbsp; &nbsp;  De igual modo, cualquier modificaci&#xF3;n a las caracter&#xED;sticas referidas en el inciso primero del art&#xED;culo 45&#xBA; bis A, deber&#xE1; contar con la autorizaci&#xF3;n previa del Ministerio. Para otorgar dicha autorizaci&#xF3;n el terminal deber&#xE1; ajustarse a la normativa vigente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Los terminales que cuenten con autorizaci&#xF3;n vigente a la fecha de publicaci&#xF3;n del presente decreto, deber&#xE1;n cumplir con las exigencias conforme a las cuales se otorg&#xF3; dicha autorizaci&#xF3;n y se considerar&#xE1;n para todos los efectos como Terminales de Veh&#xED;culos. En todo caso, los responsables de los servicios que operan en dichos terminales podr&#xE1;n solicitar al Ministerio que introduzca las modificaciones que correspondan en la resoluci&#xF3;n de autorizaci&#xF3;n respectiva, en cuyo caso ser&#xE1;n aplicables las disposiciones contenidas en la normativa vigente.</div><div class=\"p\">&nbsp; &nbsp;  De igual modo, cualquier modificaci&#xF3;n a las caracter&#xED;sticas referidas en el inciso primero del art&#xED;culo 45&#xBA; bis A, deber&#xE1; contar con la autorizaci&#xF3;n previa del Ministerio. Para otorgar dicha autorizaci&#xF3;n el terminal deber&#xE1; ajustarse a la normativa vigente.</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en este art&#xED;culo se aplicar&#xE1;<span class=\"n\" id=\"n_0\">DTO 113, TRANSPORTES<br>Art. Tercero<br>D.O. 28.12.2004</span> tambi&#xE9;n a aquellos terminales que, acogi&#xE9;ndose a las disposiciones anteriores a la presente modificaci&#xF3;n, al encontrarse pendiente su autorizaci&#xF3;n de funcionamiento, ella se obtenga con posterioridad a la fecha de publicaci&#xF3;n del presente decreto.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

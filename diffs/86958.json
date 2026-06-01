@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-10-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-11-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6074756,
+          "old": "<div><div class=\"p\">1.- Decl&#xE1;rase Oficial e Internacional la VII Feria Internacional del Aire y del Espacio (FIDAE&apos;92) que, organizada por la Fuerzas A&#xE9;rea de Chile, se realizar&#xE1; entre los d&#xED;as 8 al 15 de Marzo de 1992.</div><div class=\"p\">2.- Habil&#xED;tase como Recinto Ferial para el funcionamiento de la mencionada Feria, la Base A&#xE9;rea &quot;Los Cerrillos&quot;.</div><div class=\"p\">3.- La Feria exposici&#xF3;n se&#xF1;alada gozar&#xE1; de las franquicias contempladas en la Ley N&#xBA;18.612.</div><br></div>",
+          "new": "<div><div class=\"p\">1.- Decl&#xE1;rase Oficial e Internacional la VII Feria Internacional del Aire y del Espacio (FIDAE&apos;92) que, organizada por la Fuerza A&#xE9;rea de Chile, se realizar&#xE1;<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 14.11.1991</span> entre los d&#xED;as 8 al 15 de Marzo de 1992. 2.- Habil&#xED;tase como Recinto Ferial para el funcionamiento de la mencionada Feria, la Base A&#xE9;rea &quot;Los Cerrillos&quot;. 3.- La Feria exposici&#xF3;n se&#xF1;alada gozar&#xE1; de las franquicias contempladas en la Ley N&#xBA;18.612. </div></div>"
+        }
+      ]
+    }
+  }
+]

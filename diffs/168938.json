@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-04-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6276115,
+          "old": "<div><div class=\"p\">ELIMINA PUNTOS 4 Y 5 DE RESOLUCION N&#xBA;439, DE 2000 </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 805.- Puerto Montt, 9 de mayo de 2000.- Vistos estos antecedentes: La necesidad de modificar la resoluci&#xF3;n sanitaria N&#xBA;439 del 06/04/2000 en los puntos 4.- y 5.- debido a la disminuci&#xF3;n de la extracci&#xF3;n y comercializaci&#xF3;n de mariscos bivalvos, por t&#xE9;rmino de la Semana Santa, manteniendo los controles y muestreos para evitar el riesgo de consumo de productos contaminados con el fen&#xF3;meno de Marea Roja;</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: lo dispuesto en el decreto ley N&#xBA;2.763/79, decreto supremo N&#xBA;42/86, Org&#xE1;nico de los Servicios de Salud, decreto supremo N&#xBA;207/2000 del Ministerio de Salud, y lo previsto en los art&#xED;culos 3, 108, y siguientes del C&#xF3;digo Sanitario y art&#xED;culos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos aprobado por decreto supremo N&#xBA;977 de 1996, del Ministerio de Salud, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">ELIMINA PUNTOS 4 Y 5 DE RESOLUCION N&#xBA;439, DE 2000 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 805.- Puerto Montt, 9 de mayo de 2000.- Vistos estos antecedentes: La necesidad de modificar la resoluci&#xF3;n sanitaria N&#xBA;439 del 06/04/2000 en los puntos 4.- y 5.- debido a la disminuci&#xF3;n de la extracci&#xF3;n y comercializaci&#xF3;n de mariscos bivalvos, por t&#xE9;rmino de la Semana Santa, manteniendo los controles y muestreos para evitar el riesgo de consumo de productos contaminados con el fen&#xF3;meno de Marea Roja;</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: lo dispuesto en el decreto ley N&#xBA;2.763/79, decreto supremo N&#xBA;42/86, Org&#xE1;nico de los Servicios de Salud, decreto supremo N&#xBA;207/2000 del Ministerio de Salud, y lo previsto en los art&#xED;culos 3, 108, y siguientes del C&#xF3;digo Sanitario y art&#xED;culos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos aprobado por decreto supremo N&#xBA;977 de 1996, del Ministerio de Salud, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

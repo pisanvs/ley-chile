@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2001-08-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6347795,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- La Junta Calificadora deber&#xE1; constituirse el d&#xED;a 14 de septiembre o el d&#xED;a siguiente h&#xE1;bil si aquel no lo fuere, correspondiendo a los funcionarios que deban actuar como presidentes, convocarlas a sesi&#xF3;n para la fecha indicada. No obstante, para la citaci&#xF3;n no ser&#xE1; necesaria una resoluci&#xF3;n, entendi&#xE9;ndose practicada por el s&#xF3;lo m&#xE9;rito del presente reglamento. La Junta iniciar&#xE1; el proceso calificatorio el d&#xED;a siguiente h&#xE1;bil al de su constituci&#xF3;n. Terminadas las calificaciones, &#xE9;stas deben estar en poder del secretario para su notificaci&#xF3;n, antes del 15 de octubre de cada a&#xF1;o. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- La Junta Calificadora deber&#xE1; constituirse el d&#xED;a 14 de septiembre o el d&#xED;a siguiente h&#xE1;bil si aquel no lo fuere, correspondiendo a los funcionarios que deban actuar como presidentes, convocarlas a sesi&#xF3;n para la fecha indicada. No obstante, para la citaci&#xF3;n no ser&#xE1; necesaria una resoluci&#xF3;n, entendi&#xE9;ndose practicada por el s&#xF3;lo m&#xE9;rito del presente reglamento. La Junta iniciar&#xE1; el proceso calificatorio el d&#xED;a siguiente h&#xE1;bil al de su constituci&#xF3;n. Terminadas las calificaciones, &#xE9;stas deben estar en poder del secretario para su<span class=\"n\" id=\"n_0\">DTO 1146,<br>HACIENDA<br>N&#xBA;1<br>D.O. 28.01.2004</span> notificaci&#xF3;n, a m&#xE1;s tardar el 31 de octubre de cada a&#xF1;o. </div></div>"
+        },
+        {
+          "part_id": 6347799,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- En todo lo no previsto en este presente reglamento ser&#xE1; aplicable lo dispuesto en el Reglamento General de Calificaciones de Sector P&#xFA;blico aprobado por Decreto Supremo N&#xBA; 1.825, de 1998, del Ministerio del Interior.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- En todo lo no previsto en este presente reglamento ser&#xE1; aplicable lo dispuesto en el Reglamento General de Calificaciones de Sector P&#xFA;blico aprobado por Decreto Supremo N&#xBA; 1.825, de 1998, del Ministerio del Interior, con excepci&#xF3;n de la notificaci&#xF3;n<span class=\"n\" id=\"n_1\">DTO 1146,<br>HACIENDA<br>N&#xBA;2<br>D.O. 28.01.2004</span> del Primer Informe de Desempe&#xF1;o, la que deber&#xE1; efectuarse dentro de los 40 d&#xED;as siguientes al 31 de enero de cada a&#xF1;o. </div></div>"
+        }
+      ]
+    }
+  }
+]

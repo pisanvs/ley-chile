@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-01-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-01-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6365100,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Certifico: Que por resoluci&#xF3;n exenta N&#xBA; 434 de 28 de diciembre de 2001, se aprob&#xF3; la modificaci&#xF3;n de los estatutos de la sociedad an&#xF3;nima &quot;Compa&#xF1;&#xED;a de Seguros Generales Las Am&#xE9;ricas S.A.&quot;, acordada en Junta Extraordinaria de Accionistas de 21 de diciembre de 2001, cuya acta consta de la escritura p&#xFA;blica de 21 de diciembre de 2001 otorgada ante el Notario de Santiago don Patricio Raby Benavente. La reforma de estatutos consiste en aumentar el capital de $5.743.203.023.- dividido en 3.756.504 acciones nominativas, de una misma serie, sin valor nominal a $11.297.763.568.- dividido en 7.366.754 acciones nominativas, de una misma serie, sin valor nominal, dentro del plazo de tres a&#xF1;os contado desde el 21 de diciembre de 2001.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Certifico: Que por resoluci&#xF3;n exenta N&#xBA; 434 de 28 de diciembre de 2001, se aprobaron la modificaci&#xF3;n de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 15.01.2002</span> los estatutos de la sociedad an&#xF3;nima &quot;Compa&#xF1;&#xED;a de Seguros Generales Las Am&#xE9;ricas S.A.&quot;, acordada en Junta Extraordinaria de Accionistas de 21 de diciembre de 2001, cuya acta consta de la escritura p&#xFA;blica de 21 de diciembre de 2001 otorgada ante el Notario de Santiago don Patricio Raby Benavente. La reforma de estatutos consiste en aumentar el capital de $5.743.203.023.- dividido en 3.756.504 acciones nominativas, de una misma serie, sin valor nominal a $11.297.763.568.- dividido en 7.366.754 acciones nominativas, de una misma serie, sin valor nominal, dentro del plazo de tres a&#xF1;os contado desde el 21 de diciembre de 2001. </div></div>"
+        }
+      ]
+    }
+  }
+]

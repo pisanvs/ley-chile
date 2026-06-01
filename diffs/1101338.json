@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2017-03-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-04-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9784409,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  En virtud de lo dispuesto en la resoluci&#xF3;n N&#xBA; Ex. 48, de 28-04-2006 del Director del Servicio de Impuestos Internos, el suscrito ha dictado la resoluci&#xF3;n N&#xBA; Ex. 136 de 21-03-2017, delegando en los funcionarios indicados en lo resolutivo la facultad de autorizar a contribuyentes que lo soliciten, el pago diferido de los impuestos de la Ley de la Renta A&#xF1;o Tributario 2016 y deroga la <a href=\"https://www.leychile.cl/Navegar?idNorma=1089288&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n N&#xBA; Ex. 281 de fecha 21-03-2016</a>.</div><div class=\"p\">&nbsp; &nbsp;  El texto &#xED;ntegro de esta resoluci&#xF3;n se ha publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl).- </div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  En virtud de lo dispuesto en la resoluci&#xF3;n N&#xBA; Ex. 48, de 28-04-2006 del Director del Servicio de Impuestos Internos, el suscrito ha dictado la resoluci&#xF3;n N&#xBA; Ex. 136 de 21-03-2017, delegando en los funcionarios indicados en lo resolutivo la facultad de autorizar a contribuyentes que lo soliciten, el pago diferido de los impuestos de la Ley de la Renta A&#xF1;o Tri<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1102024&amp;idParte=9789334&amp;idVersion=2017-04-18\">Resoluci&#xF3;n 188 EXENTA, HACIENDA<br>D.O. 18.04.2017</a></span>butario 2017 y deroga la resoluci&#xF3;n N&#xBA; Ex. 281 de fecha 21-03-2016.</div><div class=\"p\">&nbsp; &nbsp;  El texto &#xED;ntegro de esta resoluci&#xF3;n se ha publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl).- </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1102024,
+      "fecha": "2017-04-18"
+    }
+  },
+  {
+    "fecha": "2018-04-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

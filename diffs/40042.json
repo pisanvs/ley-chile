@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-06-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6025686,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; RESTRINGE AREA DONDE SE DECLARA CONTROL OBLIGATORIO DE LA PLAGA DEL BROTE DEL PINO (RHYACIONIA BUOLIANA SCHIFF)</div><div class=\"p\">&nbsp; &nbsp; Santiago, 04 de Diciembre de 1991.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.007 exenta.- Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola, la Ley N&#xB0; 18.775 de 1989 y la Resoluci&#xF3;n N&#xB0; 1.169 de 1990 del Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que la plaga forestal &quot;polilla del brote del pino&quot; (Rhyacionia buoliana, Schiff) se distribuye actualmente en las Regiones IX y X y algunas comunas del sur de la VIII Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que en dicha &#xE1;rea de ocurrencia se ha implementado un programa de control biol&#xF3;gico de la plaga, el que no requiere la implementaci&#xF3;n de otras regulaciones sanitarias en dichas regiones.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que para el &#xE9;xito de dicho programa de control, es preciso adoptar ciertas medidas cuarentenarias tendientes a retardar el avance de esta plaga y su colonizaci&#xF3;n hacia el norte, a objeto de permitir que el control biol&#xF3;gico se masifique adecuadamente.</div><div class=\"p\">&nbsp; &nbsp; 4.- Que el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las regulaciones cuarentenarias vegetales que estime conveniente, para el control de plagas y enfermedades forestales,</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">RESTRINGE AREA DONDE SE DECLARA CONTROL OBLIGATORIO DE LA PLAGA DEL BROTE DEL PINO (RHYACIONIA BUOLIANA SCHIFF)</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 4 de Diciembre de 1991.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.007 exenta.- Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola, la Ley N&#xB0; 18.775 de 1989 y la Resoluci&#xF3;n N&#xB0; 1.169 de 1990 del Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que la plaga forestal &quot;polilla del brote del pino&quot; (Rhyacionia buoliana, Schiff) se distribuye actualmente en las Regiones IX y X y algunas comunas del sur de la VIII Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que en dicha &#xE1;rea de ocurrencia se ha implementado un programa de control biol&#xF3;gico de la plaga, el que no requiere la implementaci&#xF3;n de otras regulaciones sanitarias en dichas regiones.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que para el &#xE9;xito de dicho programa de control, es preciso adoptar ciertas medidas cuarentenarias tendientes a retardar el avance de esta plaga y su colonizaci&#xF3;n hacia el norte, a objeto de permitir que el control biol&#xF3;gico se masifique adecuadamente.</div><div class=\"p\">&nbsp; &nbsp; 4.- Que el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las regulaciones cuarentenarias vegetales que estime conveniente, para el control de plagas y enfermedades forestales, </div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

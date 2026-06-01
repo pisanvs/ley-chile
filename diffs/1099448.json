@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2017-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-12-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9764105,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Los establecimientos de educaci&#xF3;n parvularia financiados mediante transferencia de fondos de la Junta Nacional de Jardines Infantiles tendr&#xE1;n un receso o suspensi&#xF3;n de actividades regulares durante todo el mes de febrero de cada a&#xF1;o, incluyendo las actividades de sus trabajadores y trabajadoras, quienes har&#xE1;n uso de su feriado legal durante dicho receso y, en lo que exceda a &#xE9;ste, gozar&#xE1;n de un permiso especial remunerado. Este receso tambi&#xE9;n se har&#xE1; efectivo durante una semana en el mes de julio de cada a&#xF1;o, de acuerdo a la resoluci&#xF3;n que para dichos efectos deber&#xE1; dictar la Junta Nacional de Jardines Infantiles. Lo anterior, sin perjuicio que durante estos per&#xED;odos de receso o suspensi&#xF3;n de actividades regulares, se implementen en dichos establecimientos programas estivales o invernales espec&#xED;ficos para atender al p&#xE1;rvulo, seg&#xFA;n fuesen las necesidades de la comunidad, con personal contratado especialmente para dichos efectos, lo que ser&#xE1; exclusivamente de cargo y costo de sus sostenedores.&quot;.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Los establecimientos de educaci&#xF3;n parvularia financiados mediante transferencia de fondos de la Junta Nacional de Jardines Infantiles tendr&#xE1;n un receso o suspensi&#xF3;n de actividades regulares durante todo el mes de febrero de cada a&#xF1;o, incluyendo las actividades de sus trabajadores y trabajadoras, quienes har&#xE1;n uso de su feriado legal durante dicho receso y, en lo que exceda a &#xE9;ste, gozar&#xE1;n de un permiso especial remunerado. Este receso tambi&#xE9;n se har&#xE1; efectivo durante dos <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187103&amp;idParte=10391831&amp;idVersion=2022-12-28\">Ley 21526<br>Art. 61<br>D.O. 28.12.2022</a></span>semanas en el mes de julio de cada a&#xF1;o, de acuerdo a la resoluci&#xF3;n que para dichos efectos deber&#xE1; dictar la Junta Nacional de Jardines Infantiles. Lo anterior, sin perjuicio que durante estos per&#xED;odos de receso o suspensi&#xF3;n de actividades regulares, se implementen en dichos establecimientos programas estivales o invernales espec&#xED;ficos para atender al p&#xE1;rvulo, seg&#xFA;n fuesen las necesidades de la comunidad, con personal contratado especialmente para dichos efectos, lo que ser&#xE1; exclusivamente de cargo y costo de sus sostenedores.&quot;.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1187103,
+      "fecha": "2022-12-28"
+    }
+  },
+  {
+    "fecha": "2023-12-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9764105,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Los establecimientos de educaci&#xF3;n parvularia financiados mediante transferencia de fondos de la Junta Nacional de Jardines Infantiles tendr&#xE1;n un receso o suspensi&#xF3;n de actividades regulares durante todo el mes de febrero de cada a&#xF1;o, incluyendo las actividades de sus trabajadores y trabajadoras, quienes har&#xE1;n uso de su feriado legal durante dicho receso y, en lo que exceda a &#xE9;ste, gozar&#xE1;n de un permiso especial remunerado. Este receso tambi&#xE9;n se har&#xE1; efectivo durante dos <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187103&amp;idParte=10391831&amp;idVersion=2022-12-28\">Ley 21526<br>Art. 61<br>D.O. 28.12.2022</a></span>semanas en el mes de julio de cada a&#xF1;o, de acuerdo a la resoluci&#xF3;n que para dichos efectos deber&#xE1; dictar la Junta Nacional de Jardines Infantiles. Lo anterior, sin perjuicio que durante estos per&#xED;odos de receso o suspensi&#xF3;n de actividades regulares, se implementen en dichos establecimientos programas estivales o invernales espec&#xED;ficos para atender al p&#xE1;rvulo, seg&#xFA;n fuesen las necesidades de la comunidad, con personal contratado especialmente para dichos efectos, lo que ser&#xE1; exclusivamente de cargo y costo de sus sostenedores.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Los establecimientos de educaci&#xF3;n parvularia financiados mediante transferencia de fondos de la Junta Nacional de Jardines Infantiles tendr&#xE1;n un receso o suspensi&#xF3;n de actividades regulares durante todo el mes de febrero de cada a&#xF1;o, incluyendo las actividades de sus trabajadores y trabajadoras, quienes har&#xE1;n uso de su feriado legal durante dicho receso y, en lo que exceda a &#xE9;ste, gozar&#xE1;n de un permiso especial remunerado. Este receso tambi&#xE9;n se har&#xE1; efectivo durante dos <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187103&amp;idParte=10391831&amp;idVersion=2022-12-28\">Ley 21526<br>Art. 61<br>D.O. 28.12.2022</a></span>semanas en el periodo <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1199483&amp;idParte=10481263&amp;idVersion=2023-12-23\">Ley 21647<br>Art. 107<br>D.O. 23.12.2023</a></span>invernal de cada a&#xF1;o, de acuerdo a la resoluci&#xF3;n que para dichos efectos deber&#xE1; dictar la Junta Nacional de Jardines Infantiles. Lo anterior, sin perjuicio que durante estos per&#xED;odos de receso o suspensi&#xF3;n de actividades regulares, se implementen en dichos establecimientos programas estivales o invernales espec&#xED;ficos para atender al p&#xE1;rvulo, seg&#xFA;n fuesen las necesidades de la comunidad, con personal contratado especialmente para dichos efectos, lo que ser&#xE1; exclusivamente de cargo y costo de sus sostenedores.&quot;.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1199483,
+      "fecha": "2023-12-23"
+    }
+  }
+]

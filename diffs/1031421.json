@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-10-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-10-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9196051,
+          "old": "<div><br><div class=\"p\">MODIFICA LA ORDENANZA DE PARTICIPACI&#xD3;N CIUDADANA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 113.- Providencia, 12 de octubre de 2011.- Vistos: Lo dispuesto en los art&#xED;culos 1 y 107 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; y, teniendo presente las facultades que me otorgan los art&#xED;culos 63 letra n), 65 letras k) y m), 79 letra b) y 93 y siguientes de la ley N&#xBA; 18.695, de 1988, Org&#xE1;nica Constitucional de Municipalidades, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que mediante decreto alcaldicio ex. N&#xB0; 374, de 29 de febrero de 2008, se fij&#xF3; el texto refundido y sistematizado de la Ordenanza N&#xBA; 8, de 29 de octubre de 1999, &quot;Ordenanza de Participaci&#xF3;n Ciudadana de la Comuna de Providencia&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2.- El informe N&#xBA; 685, de 1 de julio de 2011, del Director Jur&#xED;dico.</div><div class=\"p\">&nbsp; &nbsp;  3.- El memor&#xE1;ndum N&#xBA; 13.556, de 6 de julio de 2011, del Director de Control.</div><div class=\"p\">&nbsp; &nbsp;  4.- El acuerdo N&#xBA; 117 adoptado en la sesi&#xF3;n ordinaria N&#xBA; 121, de 7 de octubre de 2011, del Concejo Municipal.</div><br><div class=\"p\">&nbsp; &nbsp;  Ordenanza:</div></div>",
+          "new": "<div><br><div class=\"p\">MODIFICA LA ORDENANZA DE PARTICIPACI&#xD3;N CIUDADANA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 113.- Providencia, 12 de octubre de 2011.- Vistos: Lo dispuesto en los art&#xED;culos 1 y 107 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; y, teniendo presente las facultades que me otorgan los art&#xED;culos 63 letra n), 65 letras k) y m), 79 letra b) y 93 y siguientes de la ley N&#xBA; 18.695, de 1988, Org&#xE1;nica Constitucional de Municipalidades, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que mediante decreto alcaldicio ex. N&#xB0; 374, de 29 de febrero de 2008, se fij&#xF3; el texto refundido y sistematizado de la Ordenanza N&#xBA; 8, de 29 de octubre de 1999, &quot;Ordenanza de Participaci&#xF3;n Ciudadana de la Comuna de Providencia&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2.- El informe N&#xBA; 685, de 1 de julio de 2011, del Director Jur&#xED;dico.</div><div class=\"p\">&nbsp; &nbsp;  3.- El memor&#xE1;ndum N&#xBA; 13.556, de 6 de julio de 2011, del Director de Control.</div><div class=\"p\">&nbsp; &nbsp;  4.- El acuerdo N&#xBA; 717<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1031580&amp;idParte=9198793&amp;idVersion=2011-10-25\">Ordenanza 114,<br>M. DE PROVIDENCIA<br>D.O. 25.10.2011</a></span> adoptado en la sesi&#xF3;n ordinaria N&#xBA; 121, de 7 de octubre de 2011, del Concejo Municipal.</div><br><div class=\"p\">&nbsp; &nbsp;  Ordenanza:</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1031580,
+      "fecha": "2011-10-25"
+    }
+  }
+]

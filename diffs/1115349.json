@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-02-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-03-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10111395,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero <span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1143906&amp;idParte=10111198&amp;idVersion=2020-03-31\">Decreto 24, ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 31.03.2020</a></span>transitorio: A contar de la entrada en vigencia del presente reglamento, los servicios t&#xE9;cnicos dispondr&#xE1;n de seis meses para dar cumplimiento a la certificaci&#xF3;n establecida en el art&#xED;culo 25.</div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1143906,
+      "fecha": "2020-03-31"
+    }
+  }
+]

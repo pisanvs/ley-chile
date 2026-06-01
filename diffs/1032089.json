@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-11-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-02-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9201732,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Ampl&#xED;ase el plazo otorgado mediante <a href=\"https://www.leychile.cl/Navegar?idNorma=255042&amp;idParte=0&amp;idVersion=\">decreto exento N&#xB0; 1.617, de 18 de octubre de 2006, del Ministro de Educaci&#xF3;n</a>, para la extracci&#xF3;n desde el territorio nacional de la Campana del Crucero Ligero Dresden, con el objeto de poder ser exhibida en el Museo Hist&#xF3;rico Militar de la ciudad de Dresden de la Rep&#xFA;blica Federal Alemana, desde octubre de 2011 hasta octubre de 2021.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Ampl&#xED;ase el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>plazo otorgado mediante decreto exento N&#xB0; 1.617, de 18 de octubre de 2006, del Ministro de Educaci&#xF3;n, para la extracci&#xF3;n desde el territorio nacional de la Campana del Crucero Ligero Dresden, con el objeto de poder ser exhibida en el Museo Hist&#xF3;rico Militar de la ciudad de Dresden de la Rep&#xFA;blica Federal Alemana, desde octubre de 2011 hasta octubre de 2021.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico del Decreto 12 Exento, Culturas, publicado el 10.02.2022, ampl&#xED;a el plazo otorgado mediante la presente norma, autorizado por el Decreto 1617 Exento, Educaci&#xF3;n, publicado el 13.11.2006, para la extracci&#xF3;n desde el territorio nacional de la Campana del Crucero Ligero Dresden hasta abril de 2022.</div></div>"
+        }
+      ]
+    }
+  }
+]

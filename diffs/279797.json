@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-10-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-09-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6662466,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese una veda extractiva para el recurso pulpo del sur Enteroctopus megalocyathus, en el &#xE1;rea mar&#xED;tima de la X Regi&#xF3;n, por un per&#xED;odo de 3 a&#xF1;os contados desde el d&#xED;a siguiente al de la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese una veda extractiva para el recurso pulpo del sur Enteroctopus megalocyathus, en<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> el &#xE1;rea mar&#xED;tima de la X Regi&#xF3;n, por un per&#xED;odo de 3 a&#xF1;os contados desde el d&#xED;a siguiente al de la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 808 Exento, econom&#xED;a, publicado el 12.09.2011, modifica la presente norma en el sentido de suspender vigencia veda extractiva para recurso pulpo, en el &#xE1;rea mar&#xED;tima comprendida entre el paralelo 42&#xBA; 11&apos; Latitud S, y el l&#xED;mite sur de la X Regi&#xF3;n de Los Lagos, asimismo, f&#xED;jase para a&#xF1;o 2011 cuota anual de captura de 87 toneladas del recurso pulpo, a ser extra&#xED;das en el &#xE1;rea mar&#xED;tima indicada.</div></div>"
+        }
+      ]
+    }
+  }
+]

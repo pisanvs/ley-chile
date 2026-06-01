@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1979-07-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-12-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8762078,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- Los servicios de verificaci&#xF3;n y certificaci&#xF3;n de calidad de productos de exportaci&#xF3;n podr&#xE1;n ser prestados tanto por entidades del sector p&#xFA;blico como por personas jur&#xED;dicas o naturales del sector privado, en la forma y condiciones que acuerden con los interesados.</div><div class=\"p\">&nbsp; &nbsp; No obstante lo anterior, los controles sanitarios y los fitosanitarios y zoosanitarios se efectuar&#xE1;n solo bajo la responsabilidad de los Ministerios de Salud o de Agricultura, seg&#xFA;n corresponda.</div><div class=\"p\">&nbsp; &nbsp; Un reglamento establecer&#xE1; normas sobre autorizaci&#xF3;n de existencia, registro y funcionamiento de las entidades particulares que ejerzan las actividades del inciso primero y sobre los requisitos m&#xED;nimos cuyo cumplimiento debe exigirse para que &#xE9;stas puedan otorgar los certificados de calidad.</div><div class=\"p\">&nbsp; &nbsp; El registro a que se refiere el inciso anterior ser&#xE1; llevado por el Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Los organismos del sector p&#xFA;blico que cumplan estas funciones podr&#xE1;n cobrar tarifas por sus servicios, las que ser&#xE1;n fijadas por decreto supremo, y los ingresos que obtengan constituir&#xE1;n fondos propios de la respectiva instituci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- Los servicios de verificaci&#xF3;n y certificaci&#xF3;n de calidad de productos de exportaci&#xF3;n podr&#xE1;n ser prestados tanto por entidades del sector p&#xFA;blico como por personas jur&#xED;dicas o naturales del sector privado, en la forma y condiciones que acuerden con los interesados.</div><div class=\"p\">&nbsp; &nbsp;  No obstante lo anterior, los controles sanitarios,<span class=\"n\" id=\"n_0\">Ley 18.768<br>Art. 41 bis</span> fitosanitarios y zoosanitarios se efectuar&#xE1;n s&#xF3;lo bajo la responsabilidad de los Ministerios de Salud, de Agricultura, a trav&#xE9;s del Servicio Agr&#xED;cola y Ganadero, o de Econom&#xED;a, Fomento y Reconstruccio&#xF3;n, a trav&#xE9;s del Servicio Nacional de Pesca, seg&#xFA;n corresponda.</div><div class=\"p\">&nbsp; &nbsp; Un reglamento establecer&#xE1; normas sobre autorizaci&#xF3;n de existencia, registro y funcionamiento de las entidades particulares que ejerzan las actividades del inciso primero y sobre los requisitos m&#xED;nimos cuyo cumplimiento debe exigirse para que &#xE9;stas puedan otorgar los certificados de calidad.</div><div class=\"p\">&nbsp; &nbsp; El registro a que se refiere el inciso anterior ser&#xE1; llevado por el Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Los organismos del sector p&#xFA;blico que cumplan estas funciones podr&#xE1;n cobrar tarifas por sus servicios, las que ser&#xE1;n fijadas por decreto supremo, y los ingresos que obtengan constituir&#xE1;n fondos propios de la respectiva instituci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1998-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

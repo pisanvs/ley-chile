@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-04-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320469,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA GUANAYE LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA GUANAYE LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

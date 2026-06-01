@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-05-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-05-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9140357,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quese el numeral 1&#xBA; de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1022729&amp;idParte=0&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 301 de 2011</a>, modificada mediante resoluci&#xF3;n exenta N&#xBA; 655 de 2011, ambas de esta Subsecretar&#xED;a, que distribuy&#xF3; para el a&#xF1;o 2011 la fracci&#xF3;n artesanal de pesquer&#xED;a de Anchoveta, Sardina com&#xFA;n y Jurel en la X Regi&#xF3;n, sometida al R&#xE9;gimen Artesanal de Extracci&#xF3;n por unidad de asignaci&#xF3;n organizaciones de pescadores artesanales, en el sentido de aclarar el &#xE1;rea mar&#xED;tima en que se pueden realizar las actividades pesqueras extractivas autorizadas, agregando el siguiente inciso final:</div><br><div class=\"p\">&nbsp; &nbsp;  &quot;Las capturas autorizadas podr&#xE1;n ser extra&#xED;das y desembarcadas, en conformidad con lo dispuesto en el art&#xED;culo 14 de la ley N&#xBA; 20.714, modificado por la ley N&#xBA; 20.479, en las &#xE1;reas mar&#xED;timas de la XIV Regi&#xF3;n de Los R&#xED;os y la X Regi&#xF3;n de Los Lagos, ambas inclusive.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quese el numeral 1&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 301 de 2011, modificada mediante resoluci&#xF3;n exenta N&#xBA; 655 de 2011, ambas de esta Subsecretar&#xED;a, que distribuy&#xF3; para el a&#xF1;o 2011 la fracci&#xF3;n artesanal de pesquer&#xED;a de Anchoveta, Sardina com&#xFA;n y Jurel en la X Regi&#xF3;n, sometida al R&#xE9;gimen Artesanal de Extracci&#xF3;n por unidad de asignaci&#xF3;n organizaciones de pescadores artesanales, en el sentido de aclarar el &#xE1;rea mar&#xED;tima en que se pueden realizar las actividades pesqueras extractivas autorizadas, agregando el siguiente inciso final:</div><br><div class=\"p\">&nbsp; &nbsp;  &quot;Las capturas autorizadas <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1025375&amp;idParte=9141250&amp;idVersion=2011-05-16\">Resoluci&#xF3;n 1204 EXENTA,<br>ECONOM&#xCD;A<br>N&#xBA; 1<br>D.O. 16.05.2011</a></span>podr&#xE1;n ser extra&#xED;das y desembarcadas, en conformidad con lo dispuesto en el art&#xED;culo 14 de la ley N&#xBA; 20.174, modificado por la ley N&#xBA; 20.479, en las &#xE1;reas mar&#xED;timas de la XIV Regi&#xF3;n de Los R&#xED;os y la X Regi&#xF3;n de Los Lagos, ambas inclusive.&quot;.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1025375,
+      "fecha": "2011-05-16"
+    }
+  }
+]

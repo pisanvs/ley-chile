@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-07-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-04-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8326528,
+          "old": "<div><br><div class=\"p\">AUTORIZA A PROCESADORA DE ALIMENTOS LLAU-LLAU LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PROCESADORA DE ALIMENTOS LLAU-LLAU LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

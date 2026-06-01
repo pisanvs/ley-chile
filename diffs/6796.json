@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1977-12-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-05-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8991138,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;- Las comisiones de servicio al extranjero, que no irroguen gasto fiscal distinto del proveniente de seguir el funcionario ganando las remuneraciones correspondientes a su cargo, por tratarse de becas o tener financiamiento particular, se dispondr&#xE1;n por decreto del Ministerio respectivo, dictado con la formula &quot;por orden del Presidente de la Rep&#xFA;blica&quot;, y la firma del Ministtro de Relaciones Exteriores, sin que sea necesaria, respecto de estas comisiones, la firma del Ministro de Hacienda. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;- Las comisiones de servicio al extranjero, que no irroguen gasto p&#xFA;blico distinto<span class=\"n\" id=\"n_0\">DL 2223, HACIENDA<br>Art. 23<br>D.O. 25.05.1978</span> del proveniente de seguir el funcionario ganando las remuneraciones correspondientes a su cargo, por tratarse de becas o tener financiamiento particular, se dispondr&#xE1;n por decreto del Ministerio respectivo, dictado con la formula &quot;por orden del Presidente de la Rep&#xFA;blica&quot;, y la firma del Ministtro de Relaciones Exteriores, sin que sea necesaria, respecto de estas comisiones, la firma del Ministro de Hacienda.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1978-10-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8991132,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- Autor&#xED;zase al Presidente de la Rep&#xFA;blica para que, por decreto supremo del Ministerio de Hacienda, pueda otorgar la garant&#xED;a del Estado, hasta por la cantidad de US$ 600.000.000 a las obligaciones que en moneda extranjera contraigan los servicios, instituciones y empresas del Sector P&#xFA;blico, centralizados o descentralizados, las entidades enumeradas en el art&#xED;culo 1&#xB0; transitorio del DL. 1.263, de 1975, y las entidades del sector privado en que el Estado o los servicios, instituciones o empresas del Sector P&#xFA;blico tengan un aporte de capital superior al 50% del capital social.</div><div class=\"p\">&nbsp; &nbsp; Para los efectos de computar el monto m&#xE1;ximo establecido en el inciso primero, se deducir&#xE1;n de las cauciones otorgadas las cantidades correspondientes a las amortizaciones efectuadas por los deudores directos de los cr&#xE9;ditos que dieron origen a las cauciones. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- DEROGADO<span class=\"n\" id=\"n_0\">DL 2341, HACIENDA<br>Art. 7&#xBA;<br>D.O. 07.10.1978</span>&nbsp; <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; El inciso 2&#xBA; del Art. 7&#xBA; del DL 2341, dispuso que no obstante la derogaci&#xF3;n precedente, el Presidente de la Rep&#xFA;blica podr&#xE1; otorgar la garant&#xED;a del Estado que se haya solicitado respecto de los cr&#xE9;ditos en actual tramitaci&#xF3;n, a los cuales se haya otorgado la autorizaci&#xF3;n para contratar a que se refiere la letra b) del art&#xED;culo 10 del decreto supremo N&#xBA; 742, de Hacienda, de 1976.<br></div></div>"
+        },
+        {
+          "part_id": 8991138,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;- Las comisiones de servicio al extranjero, que no irroguen gasto p&#xFA;blico distinto<span class=\"n\" id=\"n_0\">DL 2223, HACIENDA<br>Art. 23<br>D.O. 25.05.1978</span> del proveniente de seguir el funcionario ganando las remuneraciones correspondientes a su cargo, por tratarse de becas o tener financiamiento particular, se dispondr&#xE1;n por decreto del Ministerio respectivo, dictado con la formula &quot;por orden del Presidente de la Rep&#xFA;blica&quot;, y la firma del Ministtro de Relaciones Exteriores, sin que sea necesaria, respecto de estas comisiones, la firma del Ministro de Hacienda.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;- Las comisiones de servicio al extranjero, que no irroguen gasto p&#xFA;blico distinto<span class=\"n\" id=\"n_2\">DL 2223, HACIENDA<br>Art. 23<br>D.O. 25.05.1978</span> del proveniente de seguir el funcionario ganando las remuneraciones correspondientes a su cargo, por tratarse de becas o tener financiamiento particular, se dispondr&#xE1;n por decreto del Ministerio respectivo, dictado con la formula &quot;por orden del Presidente de la Rep&#xFA;blica&quot;, y la firma del Ministtro de Relaciones Exteriores, sin que sea necesaria, respecto de estas comisiones, la firma del Ministro de Hacienda.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

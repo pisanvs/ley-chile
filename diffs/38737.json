@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-02-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-02-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201403,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE REQUISITOS FITOSANITARIOS PARA LA INTERNACION DE SEMILLAS FORESTALES DE CONIFERAS Santiago, 22 de Febrero de 1993.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 299 exenta.- Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola, las resoluciones N&#xB0; 39, N&#xB0; 350, N&#xB0; 1.144 de 1981, y N&#xB0; 2.012 de 1987, todas del Servicio Agr&#xED;cola y Ganadero, y la Hoja de Env&#xED;o N&#xB0; 09/1993 del Departamento de Diagn&#xF3;stico y Vigilancia Agr&#xED;cola y Forestal.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que constituye responsabilidad del Servicio Agr&#xED;cola y Ganadero impedir el ingreso de plagas de los vegetales al territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que existen plagas forestales de las semillas de las con&#xED;feras, actualmente ausentes del territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que la dispersi&#xF3;n de dichas plagas ocurre preferentemente a trav&#xE9;s del intercambio de las semillas de con&#xED;feras.</div><div class=\"p\">&nbsp; &nbsp; 4.- Que para este prop&#xF3;sito el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las regulaciones cuarentenarias, que resguarden el patrimonio fitosanitario forestal del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE REQUISITOS FITOSANITARIOS PARA LA INTERNACION DE SEMILLAS FORESTALES DE CONIFERAS </div><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de Febrero de 1993.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 299 exenta.- Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola, las resoluciones N&#xB0; 39, N&#xB0; 350, N&#xB0; 1.144 de 1981, y N&#xB0; 2.012 de 1987, todas del Servicio Agr&#xED;cola y Ganadero, y la Hoja de Env&#xED;o N&#xB0; 09/1993 del Departamento de Diagn&#xF3;stico y Vigilancia Agr&#xED;cola y Forestal.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que constituye responsabilidad del Servicio Agr&#xED;cola y Ganadero impedir el ingreso de plagas de los vegetales al territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que existen plagas forestales de las semillas de las con&#xED;feras, actualmente ausentes del territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que la dispersi&#xF3;n de dichas plagas ocurre preferentemente a trav&#xE9;s del intercambio de las semillas de con&#xED;feras.</div><div class=\"p\">&nbsp; &nbsp; 4.- Que para este prop&#xF3;sito el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las regulaciones cuarentenarias, que resguarden el patrimonio fitosanitario forestal del pa&#xED;s.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

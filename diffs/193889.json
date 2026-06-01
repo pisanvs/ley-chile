@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-05-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-10-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7289048,
+          "old": "<div><div class=\"p\">INSTITUYE PREMIOS DE RECONOCIMIENTO A MEJORES PROYECTOS HABITACIONALES DE CARACTER SOCIAL Y APRUEBA LAS BASES RESPECTIVAS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 10 de Abril de 1989.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 41.- Visto: Lo dispuesto en las letras b) y d) del art&#xED;culo 8&#xBA; del DL No. 1.305, de 1976; la Ley N&quot; 16.391, y en especial lo previsto en su art&#xED;culo 2&#xBA; N&#xBA;s. 9 y 1 I y en su art&#xED;culo 21 inciso cuarto, la facultad que me confiere el n&#xFA;mero 8&#xBA; del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile y, </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Que es funci&#xF3;n del Ministerio de Vivienda y Urbanismo fomentar la investigaci&#xF3;n cient&#xED;fica y el perfeccionamiento profesional y laboral en materia de viviendas;</div><div class=\"p\">&nbsp; &nbsp;  b) Que se ha estimado de toda Conveniencia emprender acciones dirigidas a estimular a los profesionales proyectistas que se hayan destacado por su creatividad y/o porque hayan realizado aportes de inter&#xE9;s en sus respectivas especialidades, a trav&#xE9;s de los proyectos habitacionales de car&#xE1;cter social impulsados por el Supremo Gobierno por intermedio de las Instituciones del Sector Vivienda;</div><div class=\"p\">&nbsp; &nbsp;  c) Que para estos efectos el Ministerio de Vivienda y Urbanismo realizar&#xE1; peri&#xF3;dicamente selecciones a nivel nacional, destinadas a otorgar un reconocimiento a los mejores proyectos habitacionales contratados por los Servicios de Vivienda y Urbanizaci&#xF3;n o por Entidades Organizadoras de Programas Especies de Viviendas; y d) Las Bases preparadas al efecto, que regulan, entre otros aspectos, el proceso de selecci&#xF3;n de los proyectos, sistemas de premiaci&#xF3;n, integraci&#xF3;n de los jurados,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">INSTITUYE PREMIOS DE RECONOCIMIENTO A MEJORES PROYECTOS HABITACIONALES DE CARACTER SOCIAL Y APRUEBA LAS BASES RESPECTIVAS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 10 de Abril de 1989.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 41.- Visto: Lo dispuesto en las letras b) y d) del art&#xED;culo 8&#xBA; del DL No. 1.305, de 1976; la Ley N&quot; 16.391, y en especial lo previsto en su art&#xED;culo 2&#xBA; N&#xBA;s. 9 y 1 I y en su art&#xED;culo 21 inciso cuarto, la facultad que me confiere el n&#xFA;mero 8&#xBA; del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile y, </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Que es funci&#xF3;n del Ministerio de Vivienda y Urbanismo fomentar la investigaci&#xF3;n cient&#xED;fica y el perfeccionamiento profesional y laboral en materia de viviendas;</div><div class=\"p\">&nbsp; &nbsp;  b) Que se ha estimado de toda Conveniencia emprender acciones dirigidas a estimular a los profesionales proyectistas que se hayan destacado por su creatividad y/o porque hayan realizado aportes de inter&#xE9;s en sus respectivas especialidades, a trav&#xE9;s de los proyectos habitacionales de car&#xE1;cter social impulsados por el Supremo Gobierno por intermedio de las Instituciones del Sector Vivienda;</div><div class=\"p\">&nbsp; &nbsp;  c) Que para estos efectos el Ministerio de Vivienda y Urbanismo realizar&#xE1; peri&#xF3;dicamente selecciones a nivel nacional, destinadas a otorgar un reconocimiento a los mejores proyectos habitacionales contratados por los Servicios de Vivienda y Urbanizaci&#xF3;n o por Entidades Organizadoras de Programas Especies de Viviendas; y d) Las Bases preparadas al efecto, que regulan, entre otros aspectos, el proceso de selecci&#xF3;n de los proyectos, sistemas de premiaci&#xF3;n, integraci&#xF3;n de los jurados,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

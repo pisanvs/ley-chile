@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-11-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6162265,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xBA; 2.707 DE 1985 </div><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xBA; 2.707 DE 1985 </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

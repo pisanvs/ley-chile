@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-10-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-11-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9377436,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  F&#xED;janse las siguientes fechas que determinan el per&#xED;odo de presentaci&#xF3;n de las solicitudes para el otorgamiento del subsidio contemplado en el art&#xED;culo 4&#xBA; letra a) de la ley N&#xBA; 20.378 para el proceso 2013-2014:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Fecha de inicio per&#xED;odo de postulaci&#xF3;n&nbsp; &nbsp; 21 de octubre de 2013</div><div class=\"p\">&nbsp; &nbsp;  Fecha de t&#xE9;rmino per&#xED;odo de postulaci&#xF3;n&nbsp;  27 de diciembre de 2013.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  F&#xED;janse las siguientes fechas que determinan el per&#xED;odo de presentaci&#xF3;n de las solicitudes para el otorgamiento del subsidio contemplado en el art&#xED;culo 4&#xBA; letra a) de la ley N&#xBA; 20.378 para el proceso 2013-2014:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Fecha de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1055960&amp;idParte=9383150&amp;idVersion=2013-11-11\">Resoluci&#xF3;n 2056 EXENTA,<br>TRANSPORTES<br>D.O. 11.11.2013</a></span>inicio per&#xED;odo de postulaci&#xF3;n&nbsp; &nbsp; 18 de noviembre de 2013</div><div class=\"p\">&nbsp; &nbsp;  Fecha de t&#xE9;rmino per&#xED;odo de postulaci&#xF3;n&nbsp;  24 de enero de 2014.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1055960,
+      "fecha": "2013-11-11"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "2011-03-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-09-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9123314,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0; Complem&#xE9;ntese la informaci&#xF3;n de la asignaci&#xF3;n de los c&#xF3;digos IDO/IDD de las resoluciones del literal f) de los vistos, agregando el tipo de autorizaci&#xF3;n vigente para cada concesionaria seg&#xFA;n se establece en la siguiente tabla:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/17068.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; Complem&#xE9;ntese la informaci&#xF3;n de la asignaci&#xF3;n de los c&#xF3;digos IDO/IDD de las resoluciones del literal f) de los vistos, agregando el&nbsp; tipo de autorizaci&#xF3;n vigente para cada concesionaria seg&#xFA;n se establece en la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"> <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/17068.jpg\"></div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 3&#xBA; de la Resoluci&#xF3;n 5081 exenta, Transportes, publicada el 24.09.2011, modific&#xF3; el presente cuadro en el sentido de cambiar la raz&#xF3;n social de la concesionaria Interexport Telecomunicaciones y Servicios S.A., por la de Mobilink S.A. manteni&#xE9;ndose el mismo c&#xF3;digo de asignaci&#xF3;n IDO/IDD (218).</div></div>"
+        },
+        {
+          "part_id": 9123315,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0; As&#xED;gnense los nuevos c&#xF3;digos IDO/IDD a las concesionarias que se indica en la siguiente tabla:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/17069.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; Art&#xED;culo 2&#xB0; As&#xED;gnense <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> los nuevos&nbsp; c&#xF3;digos IDO/IDD a las concesionarias que se indica en la siguiente tabla:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/17069.jpg\"></div><br><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; de la Resoluci&#xF3;n 5081 exenta, Transportes, publicada el 24.09.2011, modific&#xF3; el presente cuadro en el sentido de asignar los siguientes nuevos c&#xF3;digos IDO/IDD a las concesionarias Netline Telef&#xF3;nica Ltda. c&#xF3;digo 349; Netlatin S.A. c&#xF3;digo 350; Compa&#xF1;&#xED;a Chilena de Comunicaciones Parallel S.A. c&#xF3;digo 351; Claro Comunicaciones S.A. c&#xF3;digo 352.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 2&#xBA; de la Resoluci&#xF3;n 5081 exenta, Transportes, publicada el 24.09.2011, elimin&#xF3; del cuadro los c&#xF3;digos IDO/IDD 229 y 233 de las concesionarias Inversiones Toro Bayo S.A. y Vector S.A. respectivamente.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-12-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9123315,
+          "old": "<div><div class=\"p\">&nbsp; Art&#xED;culo 2&#xB0; As&#xED;gnense <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> los nuevos&nbsp; c&#xF3;digos IDO/IDD a las concesionarias que se indica en la siguiente tabla:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/17069.jpg\"></div><br><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; de la Resoluci&#xF3;n 5081 exenta, Transportes, publicada el 24.09.2011, modific&#xF3; el presente cuadro en el sentido de asignar los siguientes nuevos c&#xF3;digos IDO/IDD a las concesionarias Netline Telef&#xF3;nica Ltda. c&#xF3;digo 349; Netlatin S.A. c&#xF3;digo 350; Compa&#xF1;&#xED;a Chilena de Comunicaciones Parallel S.A. c&#xF3;digo 351; Claro Comunicaciones S.A. c&#xF3;digo 352.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 2&#xBA; de la Resoluci&#xF3;n 5081 exenta, Transportes, publicada el 24.09.2011, elimin&#xF3; del cuadro los c&#xF3;digos IDO/IDD 229 y 233 de las concesionarias Inversiones Toro Bayo S.A. y Vector S.A. respectivamente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0; As&#xED;gnense <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> los nuevos&nbsp; c&#xF3;digos IDO/IDD a las concesionarias que se indica en la siguiente tabla:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div></div><br><div class=\"p\"><div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA 3</a></div></div><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/17069.jpg\"> </div><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; de la Resoluci&#xF3;n 5081 exenta, Transportes, publicada el 24.09.2011, modific&#xF3; el presente cuadro en el sentido de asignar los siguientes nuevos c&#xF3;digos IDO/IDD a las concesionarias Netline Telef&#xF3;nica Ltda. c&#xF3;digo 349; Netlatin S.A. c&#xF3;digo 350; Compa&#xF1;&#xED;a Chilena de Comunicaciones Parallel S.A. c&#xF3;digo 351; Claro Comunicaciones S.A. c&#xF3;digo 352.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 2&#xBA; de la Resoluci&#xF3;n 5081 exenta, Transportes, publicada el 24.09.2011, elimin&#xF3; del cuadro los c&#xF3;digos IDO/IDD 229 y 233 de las concesionarias Inversiones Toro Bayo S.A. y Vector S.A. respectivamente.</div><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA 3</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; de la Resoluci&#xF3;n 7077 Exenta, Transportes, publicada el 23.12.2011, asigna nuevos c&#xF3;digos IDO/IDD 236 y 237 a las concesionarias TRIBE MOBILE CHILE SPA y OPS INGENER&#xCD;A LTDA respectivamente, para servicio p&#xFA;blico telef&#xF3;nico m&#xF3;vil.</div></div>"
+        }
+      ]
+    }
+  }
+]

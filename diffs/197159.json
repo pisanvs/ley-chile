@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2002-04-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-01-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8734265,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA; transitorio.- El procedimiento de aprobaci&#xF3;n de los Planes Reguladores Comunales, de sus modificaciones y enmiendas, reglamentado en la Ordenanza General de Urbanismo y Construcciones, modificado por el art&#xED;culo &#xFA;nico del presente decreto, regir&#xE1; para dichos Instrumentos de Planificaci&#xF3;n Territorial que inicien su proceso de aprobaci&#xF3;n a partir de la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  No obstante lo anterior, respecto de los Planes Reguladores Comunales o sus modificaciones que a la fecha de publicaci&#xF3;n de este decreto estuvieren en tramitaci&#xF3;n, una vez concluido el proceso de exposici&#xF3;n al p&#xFA;blico, incorporaci&#xF3;n de las indicaciones, resuelta la evaluaci&#xF3;n de impacto ambiental correspondiente y enviado a la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo para el informe t&#xE9;cnico de rigor, dicha Secretar&#xED;a Ministerial, dentro del plazo de sesenta d&#xED;as contado desde su recepci&#xF3;n, revisar&#xE1; el proyecto y emitir&#xE1; su informe aplic&#xE1;ndose en adelante el procedimiento establecido en los incisos s&#xE9;ptimo y siguientes del art&#xED;culo 2.1.11. de la Ordenanza General de Urbanismo y Construcciones, en su texto reemplazado por el n&#xFA;mero 3 del art&#xED;culo &#xFA;nico del presente decreto. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA; transitorio.- El procedimiento de aprobaci&#xF3;n de los Planes Reguladores Comunales, de sus modificaciones y enmiendas, reglamentado en la Ordenanza General de Urbanismo y Construcciones, modificado por el art&#xED;culo &#xFA;nico del presente decreto, regir&#xE1; para dichos Instrumentos de Planificaci&#xF3;n Territorial que inicien su proceso de aprobaci&#xF3;n a partir de la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial. No obstante lo anterior, respecto de los Planes Reguladores Comunales o sus modificaciones que<span class=\"n\" id=\"n_0\">DTO 177, VIVIENDA<br>Art. 2&#xBA; N&#xBA; 1<br>D.O. 25.01.2003</span> hubieren sido elaborados conforme a las disposiciones de la Ordenanza General de Urbanismo y Construcciones modificada por el DS N&#xBA; 75 (V. y U.), de 2001, y que a la fecha de publicaci&#xF3;n de este decreto hubieren iniciado su proceso de aprobaci&#xF3;n. Una vez concluido el proceso de exposici&#xF3;n al p&#xFA;blico, incorporaci&#xF3;n de las indicaciones, resuelta la evaluaci&#xF3;n de impacto ambiental correspondiente y enviado a la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo para el informe t&#xE9;cnico de rigor, dicha Secretar&#xED;a Ministerial, dentro del plazo de sesenta d&#xED;as contado desde su recepci&#xF3;n, revisar&#xE1; el proyecto y emitir&#xE1; su informe aplic&#xE1;ndose en adelante el procedimiento establecido en los incisos s&#xE9;ptimo y siguientes del art&#xED;culo 2.1.11. de la Ordenanza General de Urbanismo y Construcciones, en su texto reemplazado por el n&#xFA;mero 3 del art&#xED;culo &#xFA;nico del presente decreto. </div></div>"
+        },
+        {
+          "part_id": 8734266,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; transitorio.- Durante el plazo de seis meses, contado desde la fecha de publicaci&#xF3;n del presente decreto, las Municipalidades podr&#xE1;n continuar aplicando las disposiciones sobre clases de equipamiento contempladas en sus respectivos Planes Reguladores Comunales o Seccionales, aun cuando &#xE9;stas no coincidan o se contrapongan con las establecidas en el art&#xED;culo 2.1.33. de la Ordenanza General de Urbanismo y Construcciones, en su texto modificado por el D.S. N&#xBA; 75 (V. y U.), de 2001.</div><div class=\"p\">&nbsp; &nbsp;  Las Municipalidades que en el mismo plazo se&#xF1;alado en el inciso anterior adecuaren sus Planes Reguladores Comunales o Seccionales en lo referente a clases de equipamiento, a las normas del precepto de la Ordenanza General de Urbanismo y Construcciones citado en el inciso precedente, podr&#xE1;n utilizar al efecto el procedimiento establecido en el art&#xED;culo 2.1.13. de dicha Ordenanza General, en su texto modificado por el n&#xFA;mero 4 del art&#xED;culo &#xFA;nico del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  Vencido el plazo se&#xF1;alado en los incisos precedentes, las Municipalidades deber&#xE1;n aplicar las normas sobre clases de equipamiento contenidas en el art&#xED;culo 2.1.33. de la Ordenanza General de Urbanismo y Construcciones, en su texto modificado por el D.S. N&#xBA; 75 (V. y U.), de 2001, acorde a lo dispuesto en el inciso segundo del art&#xED;culo 2.1.1. de la misma Ordenanza General.</div><div class=\"p\">&nbsp; &nbsp;  Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; transitorio.- DEROGADO<span class=\"n\" id=\"n_1\">DTO 177, VIVIENDA<br>Art. 2&#xBA; N&#xBA; 2<br>D.O. 25.01.2003</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

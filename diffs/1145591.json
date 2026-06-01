@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-05-22",
+    "tipo_version_s": "Única",
+    "diff": null
+  },
+  {
+    "fecha": "2027-04-01",
+    "tipo_version_s": "Con Vigencia Diferida por Fecha",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10122814,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case la <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=204353&amp;idVersion=2020-05-22\">resoluci&#xF3;n N&#xB0; 3.418, de 2002</a>, de este Servicio, la que &quot;Dispone requisitos de importaci&#xF3;n para estructuras subterr&#xE1;neas de reproducci&#xF3;n vegetativa de especies ornamentales y deroga resoluciones que indica&apos;&apos;, en el sentido de eliminar en la tabla del resuelvo N&#xB0; 4, en la especie &quot;Gladiolus spp. (excepto Gladiolus segetum)&quot; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  &quot;La partida se encuentra libre de Uromyces transversalis.&quot;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Modif&#xED;case la <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1039629&amp;idVersion=2020-05-22\">resoluci&#xF3;n N&#xB0; 2.312, de 2012</a>, que &quot;Establece requisitos fitosanitarios de importaci&#xF3;n para varetas de Eucalyptus dunnii, procedentes de Uruguay&quot;, en el sentido de reemplazar en el resuelvo N&#xB0; 1, punto 1.2 por la siguiente frase:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  &quot;El env&#xED;o ha sido sometido a un tratamiento de inmersi&#xF3;n con insecticidas para el control de Ctenarytaina spatulata (Hem.: syllidae), el que debe estar se&#xF1;alado en la secci&#xF3;n correspondiente a tratamiento del Certificado Fitosanitario, indicando el producto y dosis utilizadas&quot;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  3. Esta resoluci&#xF3;n entrar&#xE1; en vigencia al momento de su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Eliminado.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1214856&amp;idParte=10554501&amp;idVersion=2026-04-01\">Resoluci&#xF3;n 5042 EXENTA,<br>AGRICULTURA<br>N&#xB0; 4<br>D.O. 11.07.2025</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Modif&#xED;case la <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1039629&amp;idVersion=2020-05-22\">resoluci&#xF3;n N&#xB0; 2.312, de 2012</a>, que &quot;Establece requisitos fitosanitarios de importaci&#xF3;n para varetas de Eucalyptus dunnii, procedentes de Uruguay&quot;, en el sentido de reemplazar en el resuelvo N&#xB0; 1, punto 1.2 por la siguiente frase:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  &quot;El env&#xED;o ha sido sometido a un tratamiento de inmersi&#xF3;n con insecticidas para el control de Ctenarytaina spatulata (Hem.: syllidae), el que debe estar se&#xF1;alado en la secci&#xF3;n correspondiente a tratamiento del Certificado Fitosanitario, indicando el producto y dosis utilizadas&quot;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  3. Esta resoluci&#xF3;n entrar&#xE1; en vigencia al momento de su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    }
+  }
+]

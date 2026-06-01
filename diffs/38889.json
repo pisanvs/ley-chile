@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-10-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6022340,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA RESOLUCION N&#xB0; 1.497, DE 1994</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 414 exenta.- Santiago, 15 de febrero de 1996.- Vistos: Lo informado por el Director del Departamento de Protecci&#xF3;n Pecuaria en su Hoja de Env&#xED;o N&#xB0; 1.137, de 14 de diciembre de 1995; la resoluci&#xF3;n N&#xB0; 1.497, de 4 de julio de 1994; lo dispuesto en el Decreto Supremo N&#xB0; 307, de 1979, del Ministerio de Agricultura; la Ley N&#xB0; 18.755 y sus modificaciones.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que por resoluci&#xF3;n N&#xB0; 1.497, citada en los vistos, el Director Nacional del Servicio Agr&#xED;cola y Ganadero, prohibi&#xF3; la importaci&#xF3;n, fabricaci&#xF3;n, distribuci&#xF3;n y venta de alimentos y suplementos para la alimentaci&#xF3;n animal que contengan sustancias Beta-Adren&#xE9;rgicas.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que con el fin de permitir una eficaz fiscalizaci&#xF3;n a lo establecido en la resoluci&#xF3;n N&#xB0; 1.497, ya citada, seg&#xFA;n las facultades otorgadas por el Decreto N&#xB0; 307, ya se&#xF1;alado en los vistos.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA RESOLUCION N&#xB0; 1.497, DE 1994</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 414 exenta.- Santiago, 15 de febrero de 1996.- Vistos: Lo informado por el Director del Departamento de Protecci&#xF3;n Pecuaria en su Hoja de Env&#xED;o N&#xB0; 1.137, de 14 de diciembre de 1995; la resoluci&#xF3;n N&#xB0; 1.497, de 4 de julio de 1994; lo dispuesto en el Decreto Supremo N&#xB0; 307, de 1979, del Ministerio de Agricultura; la Ley N&#xB0; 18.755 y sus modificaciones.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que por resoluci&#xF3;n N&#xB0; 1.497, citada en los vistos, el Director Nacional del Servicio Agr&#xED;cola y Ganadero, prohibi&#xF3; la importaci&#xF3;n, fabricaci&#xF3;n, distribuci&#xF3;n y venta de alimentos y suplementos para la alimentaci&#xF3;n animal que contengan sustancias Beta-Adren&#xE9;rgicas.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que con el fin de permitir una eficaz fiscalizaci&#xF3;n a lo establecido en la resoluci&#xF3;n N&#xB0; 1.497, ya citada, seg&#xFA;n las facultades otorgadas por el Decreto N&#xB0; 307, ya se&#xF1;alado en los vistos.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

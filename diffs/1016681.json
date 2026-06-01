@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2010-08-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-10-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8971898,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; N&#xF3;mbranse, a contar desde esta fecha, integrantes de designaci&#xF3;n del Ministro de Hacienda en el Consejo Directivo del Comit&#xE9; Innova Chile, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, en calidad de titulares, a las siguientes personas:</div><br><div class=\"p\">- Don Ram&#xF3;n Delpiano Ruiz-Tagle, RUT N&#xBA; 14.119.654-5.</div><div class=\"p\">- Don Ignacio Briones Rojas, RUT N&#xBA; 12.232.813-9.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; N&#xF3;mbranse, a contar desde esta fecha, integrantes de designaci&#xF3;n del Ministro de Hacienda en el Consejo Directivo del Comit&#xE9; Innova Chile, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, en calidad de primer y segundo suplente, respectivamente, de los titulares individualizados en el numeral anterior, a las siguientes personas:</div><br><div class=\"p\">- Don Cristi&#xE1;n Valenzuela Bustos, RUT N&#xBA; 14.122.397-9.</div><div class=\"p\">- Do&#xF1;a Carolina Fuenzalida Merino, RUT N&#xBA; 9.272.485-9.</div><br><div class=\"p\">&nbsp; &nbsp;  Por razones impostergables de buen servicio, las personas designadas asumir&#xE1;n sus funciones en la fecha se&#xF1;alada, sin esperar la total tramitaci&#xF3;n de la presente resoluci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xBA; D&#xE9;jase sin efecto la <a href=\"https://www.leychile.cl/Navegar?idNorma=1015762&amp;idParte=0&amp;idVersion=\">Resoluci&#xF3;n de Hacienda N&#xBA; 67, de 2010</a>.</div><br></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; N&#xF3;mbranse, a contar desde esta fecha, integrantes de designaci&#xF3;n del Ministro de Hacienda en el Consejo Directivo del Comit&#xE9; Innova Chile, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, en calidad de titulares, a las siguientes personas:</div><br><div class=\"p\">- Don Ram&#xF3;n Delpiano Ruiz-Tagle, RUT N&#xBA; 14.119.654-5.</div><div class=\"p\">- Don Rodrigo<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1054662&amp;idParte=9376061&amp;idVersion=2013-10-02\">Resoluci&#xF3;n 382,<br>HACIENDA<br>N&#xBA; 1<br>D.O. 02.10.2013</a></span> Andr&#xE9;s Cerda Norambuena, RUT N&#xBA; 12.454.621-4.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; N&#xF3;mbranse, a contar desde esta fecha, integrantes de designaci&#xF3;n del Ministro de Hacienda en el Consejo Directivo del Comit&#xE9; Innova Chile, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, en calidad de primer y segundo suplente, respectivamente, de los titulares individualizados en el numeral anterior, a las siguientes personas:</div><br><div class=\"p\">- Don Cristi&#xE1;n Valenzuela Bustos, RUT N&#xBA; 14.122.397-9.</div><div class=\"p\">- Do&#xF1;a Carolina Fuenzalida Merino, RUT N&#xBA; 9.272.485-9.</div><br><div class=\"p\">&nbsp; &nbsp;  Por razones impostergables de buen servicio, las personas designadas asumir&#xE1;n sus funciones en la fecha se&#xF1;alada, sin esperar la total tramitaci&#xF3;n de la presente resoluci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xBA; D&#xE9;jase sin efecto la Resoluci&#xF3;n de Hacienda N&#xBA; 67, de 2010.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1054662,
+      "fecha": "2013-10-02"
+    }
+  },
+  {
+    "fecha": "2014-05-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

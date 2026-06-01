@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-11-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6026383,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE REGIMEN DE CUARENTENA A LOS PRODUCTOS DE INTERNACION QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; Santiago, 24 de Octubre de 1995.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.967 exenta.- Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, las Resoluciones N&#xB0; 350 y N&#xB0; 39 de 1981 expedidas por el Servicio Agr&#xED;cola y Ganadero y la Hoja de Env&#xED;o N&#xB0; 442 y 449 de 1995 del Sub-Depto. Vigilancia Fitosanitaria.</div><div class=\"p\">&nbsp; &nbsp; C o n s i d e r a n d o:</div><div class=\"p\">&nbsp; &nbsp; - Que constituye responsabilidad del Servicio, evitar el ingreso y la dispersi&#xF3;n de plagas cuarentenarias al pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; - Que la detecci&#xF3;n de plagas no siempre pueden lograrse a trav&#xE9;s del examen visual de los productos.</div><div class=\"p\">&nbsp; &nbsp; - Que para este prop&#xF3;sito el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las regulaciones cuarentenarias que estime conveniente para el resguardo del patrimonio fitosanitario agr&#xED;cola del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE REGIMEN DE CUARENTENA A LOS PRODUCTOS DE INTERNACION QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; Santiago, 24 de Octubre de 1995.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.967 exenta.- Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, las Resoluciones N&#xB0; 350 y N&#xB0; 39 de 1981 expedidas por el Servicio Agr&#xED;cola y Ganadero y la Hoja de Env&#xED;o N&#xB0; 442 y 449 de 1995 del Sub-Depto. Vigilancia Fitosanitaria.</div><div class=\"p\">&nbsp; &nbsp; C o n s i d e r a n d o:</div><div class=\"p\">&nbsp; &nbsp; - Que constituye responsabilidad del Servicio, evitar el ingreso y la dispersi&#xF3;n de plagas cuarentenarias al pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; - Que la detecci&#xF3;n de plagas no siempre pueden lograrse a trav&#xE9;s del examen visual de los productos.</div><div class=\"p\">&nbsp; &nbsp; - Que para este prop&#xF3;sito el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las regulaciones cuarentenarias que estime conveniente para el resguardo del patrimonio fitosanitario agr&#xED;cola del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

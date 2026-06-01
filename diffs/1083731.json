@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-01-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9647980,
+          "old": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados en la Ruta 5 Sur (Autopista Central), en ambos sentidos de tr&#xE1;nsito, entre kil&#xF3;metro 27,3 (sector Los Naranjos) y kil&#xF3;metro 29 (sector El Recurso), entre las 14:00 y las 14:30 horas, los d&#xED;as 8, 15, 22 y 29 de noviembre de 2015 y los d&#xED;as 6 y 13 de diciembre del presente a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  2.- Podr&#xE1;n ingresar excepcionalmente en el tramo y horario se&#xF1;alado, los veh&#xED;culos de emergencia y los destinados a cumplir funciones en las obras relacionadas con el proyecto &quot;Construcci&#xF3;n Nuevo Puente Maipo&quot;.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados en la Ruta 5 Sur (Autopista Central), en ambos sentidos de tr&#xE1;nsito, entre kil&#xF3;metro 27,3 (sector Los Naranjos) y kil&#xF3;metro 29 (sector El Recurso), entre las 14:00 y las 14:30 horas, los d&#xED;as <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1086197&amp;idParte=9664143&amp;idVersion=2016-01-07\">Resoluci&#xF3;n 6314 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 07.01.2016</a></span>8, 15, 22 y 29 de noviembre de 2015, los d&#xED;as 6, 13 y 30 de diciembre de 2015, los d&#xED;as 10, 12, 19 y 24 de enero de 2016 y, el 7 de febrero de 2016.</div><div class=\"p\">&nbsp; &nbsp;  2.- Podr&#xE1;n ingresar excepcionalmente en el tramo y horario se&#xF1;alado, los veh&#xED;culos de emergencia y los destinados a cumplir funciones en las obras relacionadas con el proyecto &quot;Construcci&#xF3;n Nuevo Puente Maipo&quot;.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1086197,
+      "fecha": "2016-01-07"
+    }
+  }
+]

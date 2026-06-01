@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-07-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8339244,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD CONSERVERA COQUIMBO LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DEROGA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD CONSERVERA COQUIMBO LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DEROGA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

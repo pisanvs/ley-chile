@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-02-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8321677,
+          "old": "<div><div class=\"p\">AUTORIZA A DON LUIS HUMBERTO OJEDA ALMONACID PARA INICIAR ACTIVIDADES PESQUERAS. CADUCA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON LUIS HUMBERTO OJEDA ALMONACID PARA INICIAR ACTIVIDADES PESQUERAS. CADUCA RESOLUCION QUE INDICA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1975-09-26",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1976-01-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8996118,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MINISTERIO DEL INTERIOR APRUEBA REGLAMENTO SOBRE EL FUNCIONAMIENTO Y ADMINISTRACION DEL FONDO DE SOLIDARIDAD NACIONAL Y DE LOS RECURSOS QUE LO COMPONEN</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el &quot;Diario Oficial&quot; N&#xB0; 29.263, de 25 de septiembre de 1975).</div><div class=\"p\">&nbsp; &nbsp; Santiago, 1&#xB0; de Septiembre de 1975.- El Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.088.- Vistos: la facultad que me confiere el N&#xB0; 2 del art&#xED;culo 72 de la Constituci&#xF3;n Pol&#xED;tica, y lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973; 527, de 1974, y el art&#xED;culo 5&#xB0; del decreto ley N&#xB0; 1.080, de 25 de Junio &#xFA;ltimo,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; 1.- Apru&#xE9;base el siguiente Reglamento sobre el funcionamiento y administraci&#xF3;n del Fondo de Solidaridad Nacional y de los recursos que lo componen, creado por el decreto ley N&#xB0; 1.080, de 25 de Junio de 1975. </div></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

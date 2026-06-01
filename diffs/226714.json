@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-06-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-10-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6484449,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Incorp&#xF3;ranse al Sistema de Alta Direcci&#xF3;n P&#xFA;blica, conforme a lo establecido en la ley 19.882, los Servicios Regionales y Metropolitanos de Vivienda y Urbanizaci&#xF3;n, y el Ministerio de Vivienda y Urbanismo a trav&#xE9;s de sus Secretarias Regionales Ministeriales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Incorp&#xF3;ranse al Sistema de Alta Direcci&#xF3;n P&#xFA;blica, conforme a lo establecido en la ley<span class=\"n\" id=\"n_0\">DTO 762, HACIENDA<br>Art. &#xFA;nico<br>D.O. 19.10.2004</span> 19.882, los Servicios Regionales y Metropolitanos de</div><div class=\"p\">Vivienda y Urbanizaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

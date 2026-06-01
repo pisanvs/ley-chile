@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-07-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-11-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6041915,
+          "old": "<div><div class=\"p\">RECTIFICA RESOLUCION&nbsp; N&#xBA; 1.810, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.093 exenta.- Santiago 18 de julio de 1997.- Vistos: La resoluci&#xF3;n N&#xBA; 1.810, de 25 de junio de 1997, de la Direcci&#xF3;n Nacional del Servicio Agr&#xED;cola y Ganadero, la Ley N&#xBA; 18.755.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que con fecha 1 de julio de 1997, se public&#xF3; en el Diario Oficial la resoluci&#xF3;n N&#xBA; 1.810, ya citada en los vistos, que establece requisitos de internaci&#xF3;n para semillas de prunus spp. y deroga la resoluci&#xF3;n N&#xBA; 1.068, de 6 de julio de 1989, del Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp;  2.- Que por error en el punto 4&#xBA; de la resoluci&#xF3;n N&#xBA; 1.810, se cita la resoluci&#xF3;n N&#xBA; 1.086, debiendo decir N&#xBA; 1.068.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">RECTIFICA RESOLUCION&nbsp; N&#xBA; 1.810, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.093 exenta.- Santiago 18 de julio de 1997.- Vistos: La resoluci&#xF3;n N&#xBA; 1.810, de 25 de junio de 1997, de la Direcci&#xF3;n Nacional del Servicio Agr&#xED;cola y Ganadero, la Ley N&#xBA; 18.755.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que con fecha 1 de julio de 1997, se public&#xF3; en el Diario Oficial la resoluci&#xF3;n N&#xBA; 1.810, ya citada en los vistos, que establece requisitos de internaci&#xF3;n para semillas de prunus spp. y deroga la resoluci&#xF3;n N&#xBA; 1.068, de 6 de julio de 1989, del Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp;  2.- Que por error en el punto 4&#xBA; de la resoluci&#xF3;n N&#xBA; 1.810, se cita la resoluci&#xF3;n N&#xBA; 1.086, debiendo decir N&#xBA; 1.068.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

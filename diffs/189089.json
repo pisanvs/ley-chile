@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-09-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-05-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7414263,
+          "old": "<div><div class=\"p\">DEJA SIN EFECTO DECRETOS ALCALDICIOS QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.241.- Bulnes, 10 de agosto de 2001.- Vistos:</div><div class=\"p\">1.- Lo dispuesto en el Art. 130 y N&#xBA; 9 transitorio del DFL N&#xBA; 458 de 1975 y sus modificaciones, el Art. 43 del D.L. N&#xBA; 3.063, Ley de Rentas Municipales y sus modificaciones las facultades que me confiere la ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades y sus modificaciones; lo se&#xF1;alado en el decreto alcaldicio N&#xBA; 530 de 1993, sobre derechos municipales, por concesiones, permisos, servicios y otros;</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  a.- La necesidad de actualizar la Ordenanza Local sobre Derechos Municipales por concesiones, permisos o servicios y otros, mencionados en los vistos, a objeto de adecuarla a la realidad de la comuna, y;</div><div class=\"p\">&nbsp; &nbsp;  b.- El acuerdo prestado por el Concejo Municipal en Sesi&#xF3;n Extraordinaria N&#xBA; 22 de fecha 22 de junio de 2001 y N&#xBA; 26 de fecha 10 de julio de 2001.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">DEJA SIN EFECTO DECRETOS ALCALDICIOS QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.241.- Bulnes, 10 de agosto de 2001.- Vistos:</div><div class=\"p\">1.- Lo dispuesto en el Art. 130 y N&#xBA; 9 transitorio del DFL N&#xBA; 458 de 1975 y sus modificaciones, el Art. 43 del D.L. N&#xBA; 3.063, Ley de Rentas Municipales y sus modificaciones las facultades que me confiere la ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades y sus modificaciones; lo se&#xF1;alado en el decreto alcaldicio N&#xBA; 530 de 1993, sobre derechos municipales, por concesiones, permisos, servicios y otros;</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  a.- La necesidad de actualizar la Ordenanza Local sobre Derechos Municipales por concesiones, permisos o servicios y otros, mencionados en los vistos, a objeto de adecuarla a la realidad de la comuna, y;</div><div class=\"p\">&nbsp; &nbsp;  b.- El acuerdo prestado por el Concejo Municipal en Sesi&#xF3;n Extraordinaria N&#xBA; 22 de fecha 22 de junio de 2001 y N&#xBA; 26 de fecha 10 de julio de 2001.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-03-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-06-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9416258,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- D&#xED;ctese el congelamiento, postergaci&#xF3;n por un plazo de 3 meses, de Permisos de Edificaci&#xF3;n, Subdivisi&#xF3;n, Loteo o Urbanizaci&#xF3;n Predial y de Construcciones en virtud del Art. 117 de la Ley General de Urbanismo y Construcciones en el sector de Punta de Lobos, por motivos de la modificaci&#xF3;n del Plan Regulador de Pichilemu y por las razones que se pretenden resguardar las nuevas condicionantes que intervienen en el territorio seg&#xFA;n el siguiente detalle:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  ZONAS QUE COMPRENDE DICHA PARALIZACI&#xD3;N:</div><div class=\"p\">&nbsp; &nbsp;  P2_ Zona de Protecci&#xF3;n2</div><div class=\"p\">&nbsp; &nbsp;  Protecci&#xF3;n por inter&#xE9;s y/o valor paisaj&#xED;stico.</div><div class=\"p\">&nbsp; &nbsp;  E_ Zona &#xC1;rea Verde</div><div class=\"p\">&nbsp; &nbsp;  A6_ Zona Residencial Mixta-6</div><div class=\"p\">&nbsp; &nbsp;  A7_ Zona Residencial Mixta-7</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  &#xC1;REA TOTAL DE PARALIZACI&#xD3;N: 125.04ha aproximadamente</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- D&#xED;ctese el congelamiento, <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> postergaci&#xF3;n por un plazo de 3 meses, de Permisos de Edificaci&#xF3;n, Subdivisi&#xF3;n, Loteo o Urbanizaci&#xF3;n Predial y de Construcciones en virtud del Art. 117 de la Ley General de Urbanismo y Construcciones en el sector de Punta de Lobos, por motivos de la modificaci&#xF3;n del Plan Regulador de Pichilemu y por las razones que se pretenden resguardar las nuevas condicionantes que intervienen en el territorio seg&#xFA;n el siguiente detalle:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  ZONAS QUE COMPRENDE DICHA PARALIZACI&#xD3;N:</div><div class=\"p\">&nbsp; &nbsp;  P2_ Zona de Protecci&#xF3;n2</div><div class=\"p\">&nbsp; &nbsp;  Protecci&#xF3;n por inter&#xE9;s y/o valor paisaj&#xED;stico.</div><div class=\"p\">&nbsp; &nbsp;  E_ Zona &#xC1;rea Verde</div><div class=\"p\">&nbsp; &nbsp;  A6_ Zona Residencial Mixta-6</div><div class=\"p\">&nbsp; &nbsp;  A7_ Zona Residencial Mixta-7</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  &#xC1;REA TOTAL DE PARALIZACI&#xD3;N: 125.04ha aproximadamente</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xBA; del Decreto 2068 Exento, Municipalidad de Pichilemu, publicada el 12.06.2014, modifica la presente norma en el sentido de prorrogar con plazo adicional de 3 meses el plazo inicial de Congelamiento, Postergaci&#xF3;n de Permisos de Edificaci&#xF3;n, Subdivisi&#xF3;n, Loteo o Urbanizaci&#xF3;n Predial y de Construcciones en virtud del Art. 117&#xBA; de la Ley General de Urbanismo y Construcciones en el sector de Punta de Lobos.</div></div>"
+        }
+      ]
+    }
+  }
+]

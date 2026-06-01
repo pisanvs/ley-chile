@@ -1,0 +1,57 @@
+[
+  {
+    "fecha": "2000-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-02-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6314392,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Para los efectos de lograr una efectiva fiscalizaci&#xF3;n de la cuota global anual de captura establecida en el presente decreto, los armadores pesqueros industriales deber&#xE1;n efectuar capturas en una sola unidad de pesquer&#xED;a, debiendo recalar y efectuar la declaraci&#xF3;n de capturas correspondientes antes de zarpar a otra unidad de pesquer&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, los armadores pesqueros industriales deber&#xE1;n comunicar, al Servicio Nacional de Pesca, previo a cada zarpe, el recurso objetivo al que dirigir&#xE1;n sus actividades extractivas, debiendo durante todo el viaje de pesca capturar exclusivamente al recurso informado previamente. No obstante lo anterior, la nave podr&#xE1; reorientar sus actividades extractivas durante el viaje de pesca, por una &#xFA;nica vez, a otros recursos autorizados, previa comunicaci&#xF3;n al organismo antes se&#xF1;alado, debiendo igualmente mantener la exclusividad del viaje de pesca.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- DEROGADO<span class=\"n\" id=\"n_0\">DTO 106 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 10.02.2001</span></div><br></div>"
+        },
+        {
+          "part_id": 6314393,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- El Servicio Nacional de Pesca podr&#xE1; mediante Resoluci&#xF3;n establecer medidas y procedimientos para lograr una efectiva fiscalizaci&#xF3;n, tales como fijar horarios de desembarque, solicitar informaci&#xF3;n de la actividad pesquera a las plantas de transformaci&#xF3;n, naves pesqueras u otros agentes del sector, en los periodos y fechas que indique, y efectuar los controles que sean necesarios para lograr un efectivo cumplimiento de las disposiciones del presente decreto.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- DEROGADO<span class=\"n\" id=\"n_1\">DTO 106 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 10.02.2001</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2001-06-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6314388,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase en las unidades de pesquer&#xED;a que se indica, las siguientes cuotas globales anuales de captura de Congrio dorado (Genypterus blacodes) para el a&#xF1;o 2001:</div><br><div class=\"p\">1) 2.400 toneladas, para la unidad de pesquer&#xED;a norte definida por las &#xE1;reas de pesca que a continuaci&#xF3;n se indican, de las cuales 1554 toneladas estar&#xE1;n reservadas para fauna acompa&#xF1;ante.</div><br><div class=\"p\">&nbsp; &nbsp;  La cuota remanente de 846 toneladas ser&#xE1; dividida en 564 toneladas para los barcos hieleros y 282 toneladas para las naves que califiquen como barcos f&#xE1;brica.</div><br><div class=\"p\">&nbsp; &nbsp;  a) Entre los paralelos 41&#xBA;28,6&apos; L.S. y 47&#xBA; L.S., desde las l&#xED;neas de base rectas y hasta el l&#xED;mite oeste correspondiente a la l&#xED;nea paralela imaginaria trazada a una distancia de 60 millas marinas.</div><br><div class=\"p\">&nbsp; &nbsp;  b) El &#xE1;rea de pesca comprendida entre las l&#xED;neas de base rectas y una l&#xED;nea imaginaria que une los Puntos Cabo Quil&#xE1;n (43&#xBA;16,5&apos; L.S. y 74&#xBA;26,8&apos; L.O.) en la Isla Grande de Chilo&#xE9; y el Islote Occidental de la Isla Menchuam (45&#xBA;37,7&apos; L.S. y 74&#xBA;56,8&apos; L.O.), entre los paralelos 43&#xBA;44,17&apos; L.S. y 45&#xBA;37,7&apos; L.S.</div><br><div class=\"p\">2) 1.600 toneladas, para la unidad de pesquer&#xED;a sur, definida por el &#xE1;rea de pesca comprendida entre los paralelos 47&#xBA; L.S. y 57&#xBA; L.S., desde las l&#xED;neas de base rectas y hasta el l&#xED;mite correspondiente a la l&#xED;nea paralela imaginaria trazada a una distancia de 80 millas marinas, de las cuales 874 toneladas estar&#xE1;n reservadas para fauna acompa&#xF1;ante.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase en las unidades de pesquer&#xED;a<span class=\"n\" id=\"n_0\">DTO 278 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 06.06.2001</span> que se indica, las siguientes cuotas globales anuales de captura de Congrio dorado (Genypterus blacodes) para el a&#xF1;o 2001.</div><div class=\"p\">1)&nbsp;  2.400 toneladas para la unidad de pesquer&#xED;a norte definida por las &#xE1;reas de pesca que a continuaci&#xF3;n se indican, de las cuales 359 toneladas estar&#xE1;n reservadas para fauna acompa&#xF1;ante.</div><div class=\"p\">&nbsp; &nbsp;  La cuota remanente de 2041 toneladas ser&#xE1; dividida en 1361 toneladas para los barcos hieleros y 680 toneladas para las naves que califiquen como barcos f&#xE1;brica.</div><div class=\"p\">&nbsp; &nbsp;  a) Entre los paralelos 41&#xB0;28,6&apos; L.S. y 47&#xB0; L.S.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; desde las l&#xED;neas de base rectas y hasta el l&#xED;mite oeste correspondiente a la l&#xED;nea paralela imaginaria trazada a una distacia de 60 millas marinas.</div><div class=\"p\">&nbsp; &nbsp;  b) El &#xE1;rea de pesca comprendida entre las l&#xED;neas de base rectas y una l&#xED;nea imaginaria que une los Puntos Cabo Quil&#xE1;n (43&#xB0;16,5&apos; L.S. y 74&#xB0;26,8&apos; L.O.) en la Isla Grande de Chilo&#xE9; y el Islote Occidental de la Isla Menchuam (45&#xB0;37,7&apos; L.S.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; y 74&#xB0;56,8&apos; L.O.), entre los paralelos 43&#xB0;44&apos;17&quot; L.S. y 45&#xB0;37,7&apos; L.S.</div><div class=\"p\">2)&nbsp;  1.600 toneladas, para la unidad de pesquer&#xED;a sur, definida por el &#xE1;rea de pesca comprendida entre los paralelos 47&#xB0; L.S. y 57&#xB0;L.S., desde las l&#xED;neas de base rectas y hasta el l&#xED;mite correspondiente a la l&#xED;nea paralela imaginaria trazada a una distancia de 80 millas marinas, de las cuales 290 toneladas estar&#xE1;n reservadas para fauna acompa&#xF1;ante.</div><br></div>"
+        },
+        {
+          "part_id": 6314390,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- La cuota autorizada de Congrio dorado en calidad de fauna acompa&#xF1;ante se extraer&#xE1;, en la pesca dirigida al recurso que se indica, de la manera siguiente.</div><br><div class=\"p\">1) Unidad de pesquer&#xED;a norte: 1.554 toneladas de Congrio dorado, fraccionadas:</div><br><div class=\"p\">&nbsp; &nbsp;  a) En la captura dirigida al recurso Merluza del sur por barcos hieleros, 15% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 828 toneladas de Congrio dorado.</div><br><div class=\"p\">&nbsp; &nbsp;  b) En la captura dirigida al recurso Merluza del sur por barcos f&#xE1;brica, 15% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 414 toneladas de Congrio dorado.</div><br><div class=\"p\">&nbsp; &nbsp;  c) En la captura dirigida al recurso Merluza de cola, 1% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 290 toneladas de Congrio dorado.</div><br><div class=\"p\">&nbsp; &nbsp;  d) En la captura dirigida al recurso Merluza de tres aletas, 1% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 22 toneladas de Congrio dorado.</div><br><div class=\"p\">2) Unidad de pesquer&#xED;a sur: 874 toneladas de Congrio dorado, fraccionadas:</div><br><div class=\"p\">&nbsp; &nbsp;  a) En la captura dirigida al recurso Merluza del sur, 10% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 562 toneladas de Congrio dorado.</div><br><div class=\"p\">&nbsp; &nbsp;  b) En la captura dirigida al recurso Merluza de cola, 10% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 290 toneladas de Congrio dorado.</div><br><div class=\"p\">&nbsp; &nbsp;  c) En la captura dirigida al recurso Merluza de tres aletas, 1% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 22 toneladas de Congrio dorado.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.- La cuota autorizada de Congrio<span class=\"n\" id=\"n_1\">DTO 278 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 06.06.2001</span> dorado en calidad de fauna acompa&#xF1;ante se extraer&#xE1;, en la pesca dirigida al recurso que se indica, de la manera siguiente.</div><br><div class=\"p\">1)&nbsp;  Unidad de pesquer&#xED;a norte: 359 toneladas de Congrio dorado, fraccionadas:</div><br><div class=\"p\">&nbsp; &nbsp;  a) En la captura dirigida al recurso Merluza del sur por barcos hieleros, 15% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 207 toneladas de Congrio dorado.</div><div class=\"p\">&nbsp; &nbsp;  b) En la captura dirigida al recurso Merluza del sur por barcos f&#xE1;brica, 15% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 104 toneladas de Congrio dorado.</div><div class=\"p\">&nbsp; &nbsp;  c) En la captura dirigida al recurso Merluza de cola, 1% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 48 toneladas de Congrio dorado.</div><div class=\"p\">2)&nbsp;  Unidad de pesquer&#xED;a sur: 290 toneladas de Congrio dorado, fraccionadas:</div><br><div class=\"p\">&nbsp; &nbsp;  a) En la captura dirigida al recurso Merluza del sur, 15% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 211 toneladas de Congrio dorado.</div><div class=\"p\">&nbsp; &nbsp;  b) En la captura dirigida al recurso Merluza de cola, 1% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 24 toneladas de Congrio dorado.</div><div class=\"p\">&nbsp; &nbsp;  c) En la captura dirigida al recurso Merluza de tres aletas, 1% medido en peso, por viaje de pesca, con un l&#xED;mite m&#xE1;ximo anual de 55 toneladas de Congrio dorado.</div><br></div>"
+        },
+        {
+          "part_id": 6314392,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- DEROGADO<span class=\"n\" id=\"n_0\">DTO 106 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 10.02.2001</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- DEROGADO<span class=\"n\" id=\"n_2\">DTO 106 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 10.02.2001</span></div><br></div>"
+        },
+        {
+          "part_id": 6314393,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- DEROGADO<span class=\"n\" id=\"n_1\">DTO 106 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 10.02.2001</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- DEROGADO<span class=\"n\" id=\"n_3\">DTO 106 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 10.02.2001</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

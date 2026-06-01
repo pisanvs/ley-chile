@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1989-01-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-01-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1990-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8762615,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Los contribuyentes que opten por ingresar al r&#xE9;gimen del art&#xED;culo 14&#xB0; bis de la Ley sobre Impuesto a la Renta y que tengan rentas acumuladas respecto de las cuales se haya pagado el impuesto de primera categor&#xED;a, tendr&#xE1;n derecho a un cr&#xE9;dito equivalente al monto del impuesto pagado que podr&#xE1;n imputar debidamente reajustado considerando el porcentaje de variaci&#xF3;n del &#xED;ndice de precios al consumidor determinado entre el mes anterior al del pago y el mes anterior al de la imputaci&#xF3;n, a los impuestos anuales de primera categor&#xED;a que deban pagar por los retiros que se efect&#xFA;en. Para estos efectos, deber&#xE1;n presentar una declaraci&#xF3;n jurada al Servicio de Impuestos Internos, dentro del plazo de ciento ochenta d&#xED;as de ingresar al sistema, incluyendo los datos que este Servicio requiera para una mayor informaci&#xF3;n y control sobre la materia.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Los contribuyentes que opten por ingresar al r&#xE9;gimen del art&#xED;culo 14&#xB0; bis de la Ley sobre Impuesto a la Renta y que tengan rentas acumuladas respecto de las cuales se haya pagado el impuesto de primera categor&#xED;a, tendr&#xE1;n derecho a un cr&#xE9;dito equivalente al monto del impuesto pagado que podr&#xE1;n imputar debidamente reajustado considerando el porcentaje de variaci&#xF3;n del &#xED;ndice de precios al consumidor determinado entre el mes anterior al del pago y el mes anterior al de la imputaci&#xF3;n, a los impuestos anuales de primera categor&#xED;a que deban pagar por los retiros que se efect&#xFA;en. Para estos efectos, deber&#xE1;n presentar una declaraci&#xF3;n jurada al Servicio de Impuestos Internos, dentro del plazo de ciento ochenta d&#xED;as de ingresar al sistema, incluyendo los datos que este Servicio requiera para una mayor informaci&#xF3;n y control sobre la materia.</div><br></div>"
+        },
+        {
+          "part_id": 8762617,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Los contribuyentes obligados a declarar el impuesto de primera categor&#xED;a de la Ley de la Renta a base de renta efectiva, seg&#xFA;n contabilidad completa, que tengan al 31 de diciembre de 1988, utilidades tributables originadas a contar del 1&#xB0; de enero de 1984, por las cuales tributaron de acuerdo con las normas de dicha categor&#xED;a que se modifican, tendr&#xE1;n derecho a imputar este impuesto, en la parte que corresponda, al que se determine anualmente por los retiros y distribuciones que se efect&#xFA;en en virtud de lo dispuesto en el nuevo Art&#xED;culo 20&#xB0; bis. Igualmente les ser&#xE1; aplicable, respecto de las mismas utilidades, lo dispuesto en la &#xFA;ltima parte del inciso segundo, n&#xFA;mero 3&#xB0; del art&#xED;culo 31&#xB0; de la Ley de la Renta que se deroga por el n&#xFA;mero 6 del Art&#xED;culo 1&#xB0; de esta ley. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 2&#xB0;.- Los contribuyentes que declaren sus<span class=\"n\" id=\"n_0\">LEY 18897<br>ART 3&#xB0;</span> impuestos a la renta acogidos a las normas del art&#xED;culo 20 bis de la Ley sobre Impuesto a la Renta, tendr&#xE1;n<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1.-</a></div> derecho a un cr&#xE9;dito equivalente al 10% calculado sobre las rentas o cantidades que tributaron con el impuesto de primera categor&#xED;a, originadas a contar del 1&#xB0; de enero de 1984 y hasta el 31 de diciembre de 1988 y que no se han distribuido o retirado a esa fecha. Dicho cr&#xE9;dito se podr&#xE1; recuperar del impuesto a la renta que corresponda pagar desde el a&#xF1;o tributario 1990, imput&#xE1;ndolo al impuesto anual de primera categor&#xED;a, reajustando previamente el cr&#xE9;dito se&#xF1;alado en la forma prevista en el N&#xB0; 1, inciso primero, del art&#xED;culo 41 de la Ley de la Renta.&nbsp; Los referidos contribuyentes que tengan p&#xE9;rdida en la determinaci&#xF3;n de la renta l&#xED;quida de primera categor&#xED;a, podr&#xE1;n recuperar como pago provisional del &#xFA;ltimo mes del ejercicio, del cr&#xE9;dito a que tengan derecho, la cantidad equivalente al 10% de la citada p&#xE9;rdida.</div><div class=\"p\">&nbsp; &nbsp; Para acogerse a lo dispuesto en el inciso anterior, deber&#xE1; registrarse en la declaraci&#xF3;n anual del impuesto de primera categor&#xED;a que se presente a contar del a&#xF1;o tributario 1990, el saldo del cr&#xE9;dito a que se tenga derecho, deduciendo incluso el monto que se hubiere recuperado en el mismo ejercicio.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1.-</a> <br>&nbsp; &nbsp;  La modificaci&#xF3;n introducida por el art&#xED;culo 3&#xB0; de la Ley N&#xB0; 18.897, rige, seg&#xFA;n lo dispone su art&#xED;culo 2&#xB0;, desde el a&#xF1;o tributario 1990.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-01-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-11-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6028841,
+          "old": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO QUE INDICA Y LO EXIME DE OBLIGACION QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 23 exento.- Santiago, 22 de octubre de 1996.- Vistos: Las necesidades del Servicio; el Art&#xED;culo 10&#xBA; del Decreto Ley N&#xBA; 799 de 1974, modificado por el D.F.L. N&#xBA; 9.277 de 1975, la Resoluci&#xF3;n N&#xBA; 55 de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica, el Decreto Supremo del Ministerio del Interior N&#xBA; 654 de 1994, la Providencia N&#xBA; 852 del Jefe Div. de Adm. y Secretar&#xED;a General&nbsp; OO.PP., el Oficio N&#xBA; 90/825 del Se&#xF1;or Ministro del Interior.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, por las propias de las funciones que debe desempe&#xF1;ar el Sr. Secretario Regional Ministerial de Obras P&#xFA;blicas, de la Regi&#xF3;n Metropolitana, como son las Inspecciones y Recepci&#xF3;n de Obras, Visitas Inspectivas de los trabajos que realizan los Servicios Operativos dependientes de la &quot;Seremi&quot;, as&#xED; como tambi&#xE9;n las Obras encomendadas a terceros inauguraciones de las mismas con Autoridades del Nivel Central y de la Regi&#xF3;n, reuniones de Coordinaci&#xF3;n para promover la divulgaci&#xF3;n e intercambio de informaci&#xF3;n relacionada con la Secretar&#xED;a a su cargo y otros, obligaciones que en ocasiones le exigen desplazarse en los d&#xED;as que m&#xE1;s abajo se indican.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO QUE INDICA Y LO EXIME DE OBLIGACION QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 23 exento.- Santiago, 22 de octubre de 1996.- Vistos: Las necesidades del Servicio; el Art&#xED;culo 10&#xBA; del Decreto Ley N&#xBA; 799 de 1974, modificado por el D.F.L. N&#xBA; 9.277 de 1975, la Resoluci&#xF3;n N&#xBA; 55 de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica, el Decreto Supremo del Ministerio del Interior N&#xBA; 654 de 1994, la Providencia N&#xBA; 852 del Jefe Div. de Adm. y Secretar&#xED;a General&nbsp; OO.PP., el Oficio N&#xBA; 90/825 del Se&#xF1;or Ministro del Interior.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, por las propias de las funciones que debe desempe&#xF1;ar el Sr. Secretario Regional Ministerial de Obras P&#xFA;blicas, de la Regi&#xF3;n Metropolitana, como son las Inspecciones y Recepci&#xF3;n de Obras, Visitas Inspectivas de los trabajos que realizan los Servicios Operativos dependientes de la &quot;Seremi&quot;, as&#xED; como tambi&#xE9;n las Obras encomendadas a terceros inauguraciones de las mismas con Autoridades del Nivel Central y de la Regi&#xF3;n, reuniones de Coordinaci&#xF3;n para promover la divulgaci&#xF3;n e intercambio de informaci&#xF3;n relacionada con la Secretar&#xED;a a su cargo y otros, obligaciones que en ocasiones le exigen desplazarse en los d&#xED;as que m&#xE1;s abajo se indican.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

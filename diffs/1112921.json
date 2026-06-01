@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-12-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9869023,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- Los propietarios de establecimientos regidos por el <a href=\"https://www.leychile.cl/Navegar?idNorma=127911&amp;idParte=&amp;idVersion=\">decreto con fuerza de ley N&#xB0; 2, de 1998, del Ministerio de Educaci&#xF3;n</a>, o de establecimientos de educaci&#xF3;n parvularia financiados con aportes regulares del Estado para su operaci&#xF3;n y funcionamiento, que no cuenten con permiso de edificaci&#xF3;n o que, contando con permiso de edificaci&#xF3;n, no han obtenido la recepci&#xF3;n definitiva, emplazados en &#xE1;reas urbanas o rurales, podr&#xE1;n, hasta el 31 de diciembre de 2019, obtener los permisos de edificaci&#xF3;n y de recepci&#xF3;n simult&#xE1;nea, siempre que los establecimientos y/o sus ampliaciones cumplan los siguientes requisitos:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Haber sido construidos antes de la publicaci&#xF3;n de esta ley.</div><div class=\"p\">&nbsp; &nbsp;  2. No estar emplazados en &#xE1;reas de riesgo o protecci&#xF3;n, en terrenos afectos a declaratoria de utilidad p&#xFA;blica o en bienes nacionales de uso p&#xFA;blico establecidos en los instrumentos de planificaci&#xF3;n territorial.</div><div class=\"p\">&nbsp; &nbsp;  3. No tener, a la fecha de ingreso de la solicitud de regularizaci&#xF3;n, reclamaciones escritas pendientes por incumplimiento de normas urban&#xED;sticas ante la direcci&#xF3;n de obras municipales o el juzgado de polic&#xED;a local respectivo.</div><div class=\"p\">&nbsp; &nbsp;  4. Cumplir con las normas de habitabilidad, accesibilidad universal, estabilidad y seguridad establecidas en la Ordenanza General de Urbanismo y Construcciones, contenida en el decreto supremo N&#xB0; 47, de 1992, del Ministerio de Vivienda y Urbanismo, y con aquellas aplicables a las instalaciones de electricidad, agua potable, alcantarillado y gas que correspondan.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- Los propietarios de establecimientos regidos por el decreto con fuerza de ley N&#xB0; 2, de 1998, del Ministerio de Educaci&#xF3;n, o de establecimientos de educaci&#xF3;n parvularia financiados con aportes regulares del Estado para su operaci&#xF3;n y funcionamiento, que no cuenten con permiso de edificaci&#xF3;n o que, contando con permiso de edificaci&#xF3;n, no han obtenido la recepci&#xF3;n definitiva, emplazados en &#xE1;reas urbanas o rurales, podr&#xE1;n, hasta el 31 d<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1140300&amp;idParte=10084678&amp;idVersion=2019-12-21\">Ley 21196<br>Art. 43<br>D.O. 21.12.2019</a></span>e marzo de 2022, obtener los permisos de edificaci&#xF3;n y de recepci&#xF3;n simult&#xE1;nea, siempre que los establecimientos y/o sus ampliaciones cumplan los siguientes requisitos:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Haber sido construidos antes de la publicaci&#xF3;n de esta ley.</div><div class=\"p\">&nbsp; &nbsp;  2. No estar emplazados en &#xE1;reas de riesgo o protecci&#xF3;n, en terrenos afectos a declaratoria de utilidad p&#xFA;blica o en bienes nacionales de uso p&#xFA;blico establecidos en los instrumentos de planificaci&#xF3;n territorial.</div><div class=\"p\">&nbsp; &nbsp;  3. No tener, a la fecha de ingreso de la solicitud de regularizaci&#xF3;n, reclamaciones escritas pendientes por incumplimiento de normas urban&#xED;sticas ante la direcci&#xF3;n de obras municipales o el juzgado de polic&#xED;a local respectivo.</div><div class=\"p\">&nbsp; &nbsp;  4. Cumplir con las normas de habitabilidad, accesibilidad universal, estabilidad y seguridad establecidas en la Ordenanza General de Urbanismo y Construcciones, contenida en el decreto supremo N&#xB0; 47, de 1992, del Ministerio de Vivienda y Urbanismo, y con aquellas aplicables a las instalaciones de electricidad, agua potable, alcantarillado y gas que correspondan.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1140300,
+      "fecha": "2019-12-21"
+    }
+  }
+]

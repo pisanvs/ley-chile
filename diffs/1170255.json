@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2021-12-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-03-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10294770,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;gase el plazo para la declaraci&#xF3;n completa de bodegas de vino, vides y/o parronales y su ubicaci&#xF3;n geoespacial al Servicio Agr&#xED;cola y Ganadero establecida en la <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1154270&amp;idVersion=2021-12-21\">resoluci&#xF3;n exenta N&#xBA; 8.875 de 2020, del Servicio Agr&#xED;cola y Ganadero</a>, por un per&#xED;odo adicional de 365 d&#xED;as, a contar del 31 de diciembre de 2021.</div><div class=\"p\">&nbsp; &nbsp;  2. El no cumplimiento de lo establecido en la presente resoluci&#xF3;n estar&#xE1; afecto a las sanciones dispuestas por la legislaci&#xF3;n vigente.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;gase el plazo para la declaraci&#xF3;n completa de bodegas de vino, vides y/o parronales y su ubicaci&#xF3;n geoespacial al Servicio Agr&#xED;cola y Ganadero establecida en la resoluci&#xF3;n exenta N&#xBA; 8.875 de 2020, del Servicio Agr&#xED;cola y Ganadero, por un per&#xED;odo adicional de 365 d&#xED;as, a <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>contar del 31 de diciembre de 2021.</div><div class=\"p\">&nbsp; &nbsp;  2. El no cumplimiento de lo establecido en la presente resoluci&#xF3;n estar&#xE1; afecto a las sanciones dispuestas por la legislaci&#xF3;n vigente.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1146 Exenta, Agricultura, publicada el 07.03.2023, prorroga el plazo para la declaraci&#xF3;n completa de vides y/o parronales y su ubicaci&#xF3;n geoespacial al Servicio Agr&#xED;cola y Ganadero establecida en la presente norma, por un plazo adicional de 365 d&#xED;as, a contar del 31 de diciembre de 2022.</div></div>"
+        }
+      ]
+    }
+  }
+]

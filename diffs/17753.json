@@ -1,0 +1,87 @@
+[
+  {
+    "fecha": "1985-12-21",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1989-07-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8972564,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; CAPITULO I:</div><div class=\"p\">&nbsp; &nbsp; Disposiciones Generales.</div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Los establecimientos educacionales declarados cooperadores de la funci&#xF3;n educacional del Estado que impartan cursos gratuitos de educaci&#xF3;n fundamental de capacitaci&#xF3;n t&#xE9;cnico-profesional, tendr&#xE1;n derecho a percibir una subvenci&#xF3;n por alumno cuyos requisitos, modalidad, montos y exigencias se determinan en este reglamento.</div><div class=\"p\">&nbsp; &nbsp; Las Municipalidades ser&#xE1;n quienes preferentemente, en calidad de sostenedores podr&#xE1;n asumir ante el Estado la responsabilidad de crear, sostener y administrar estos programas.</div><br><br></div>"
+        },
+        {
+          "part_id": 8972565,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Se entiende por Educaci&#xF3;n Fundamental a la modalidad educativa transitoria destinada a apoyar a personas de sectores marginados en el orden cultural, social y econ&#xF3;mico en la adquisici&#xF3;n y desarrollo de conductas b&#xE1;sicas de car&#xE1;cter &#xE9;tico, social, laboral y de cultura general, en procura de alcanzar su desarrollo integral.</div><br></div>"
+        },
+        {
+          "part_id": 8972566,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- La Educaci&#xF3;n Fundamental tiene por finalidades espec&#xED;ficas:</div><div class=\"p\">&nbsp; &nbsp; a) Promover el desarrollo socio-econ&#xF3;mico de los habitantes, de acuerdo con las caracter&#xED;sticas de la localidad o zona;</div><div class=\"p\">&nbsp; &nbsp; b) Elevar el nivel sanitario general de la poblaci&#xF3;n y de los hogares;</div><div class=\"p\">&nbsp; &nbsp; c) Propender a la difusi&#xF3;n de conocimientos b&#xE1;sicos indispensables para que los habitantes puedan asimilar los progresos cient&#xED;ficos, t&#xE9;cnicos y sociales, y d) Contribuir a formar en la poblaci&#xF3;n ideales, actitudes, h&#xE1;bitos y destrezas que le permitan conservar la salud, aprovechar los recursos naturales, desarrollar nuevas t&#xE9;cnicas de producci&#xF3;n, mejorar la vida familiar, fortalecer la vida c&#xED;vica y aprovechar el tiempo libre en una sana recreaci&#xF3;n, en suma, elevar el est&#xE1;ndar de vida.</div><br></div>"
+        },
+        {
+          "part_id": 8972567,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- El horario semanal de cada programa ser&#xE1; de nueve clases. Estas podr&#xE1;n ser distribuidas durante la semana seg&#xFA;n la disponibilidad de tiempo del grupo atendido.</div><div class=\"p\">&nbsp; &nbsp; No obstante, cuando las condiciones clim&#xE1;ticas o laborales lo exijan, el horario semanal se&#xF1;alado podr&#xE1; aumentarse excepcionalmente hasta en un 100%, previo aviso a la Direcci&#xF3;n Provincial de Educaci&#xF3;n respectiva.</div><br><br></div>"
+        },
+        {
+          "part_id": 8972568,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 15&#xB0;.- La Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n podr&#xE1; aceptar o rechazar, de acuerdo con los antecedentes proporcionados por las instituciones un programa de Educaci&#xF3;n Fundamental entre cuyos alumnos participantes hayan adultos &quot;en proceso&quot; que constituyan el 50% o m&#xE1;s del total de inscritos en ese programa. </div></div>"
+        },
+        {
+          "part_id": 8972569,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 28&#xB0;.- Para los programas de Educaci&#xF3;n Fundamental el valor de la subvenci&#xF3;n por clase efectivamente realizada ser&#xE1; de 0,00475 U.T.M. por alumno participante. El c&#xE1;lculo del pago mensual por curso se har&#xE1; multiplicando el valor antes se&#xF1;alado por el n&#xFA;mero de clases realizadas en el mes y por el n&#xFA;mero de alumnos que constituyen la asistencia mensual. </div></div>"
+        },
+        {
+          "part_id": 8972570,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 29&#xB0;.- Para proceder al pago de la subvenci&#xF3;n de los programas de Educaci&#xF3;n Fundamental el establecimiento deber&#xE1; enviar mensualmente, dentro de los primeros cinco d&#xED;as de cada mes, a la Direcci&#xF3;n Provincial de Educaci&#xF3;n respectiva un bolet&#xED;n estad&#xED;stico que contenga la siguiente informaci&#xF3;n referida al mes anterior:</div><div class=\"p\">&nbsp; &nbsp; a) Identificaci&#xF3;n del o de los programas que se ejecutan, indicando adem&#xE1;s el n&#xFA;mero de resoluci&#xF3;n que autoriza su ejecuci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; b) Estad&#xED;stica de asistencia diaria de cada programa.</div><div class=\"p\">&nbsp; &nbsp; c) N&#xFA;mero de clases efectivamente realizadas diariamente en cada programas </div></div>"
+        },
+        {
+          "part_id": 8972571,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 30&#xB0;.- Respecto de materias relacionadas con la subvenci&#xF3;n, tales como: procedimiento de cobro y pago, documentaci&#xF3;n reglamentaria a llevar; como asimismo, las infracciones y sanciones, la inspecci&#xF3;n y control; las donaciones y otras no contempladas en el presente reglamento regir&#xE1; supletoriamente el decreto supremo de Educaci&#xF3;n N&#xB0; 8.144, de 25 de Septiembre de 1980.</div><br></div>"
+        },
+        {
+          "part_id": 8972572,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 32&#xB0;.- Ser&#xE1; de responsabilidad de la Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n que corresponda coordinarse con la Intendencia Regional o con el organismo que ella determine, para evaluar anualmente los resultados educacionales y sociales obtenidos a trav&#xE9;s de esta modalidad de educaci&#xF3;n. </div></div>"
+        },
+        {
+          "part_id": 8972573,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULOS TRANSITORIOS</div><br><div class=\"p\">&nbsp; &nbsp; 1&#xB0; Los establecimientos educacionales que impart&#xED;an cursos de Educaci&#xF3;n Fundamental, cuyos planes y programas fueron aprobados oficialmente por el Ministerio de Educaci&#xF3;n y se reg&#xED;an por el decreto supremo de Educaci&#xF3;n N&#xB0; 2.488/1981, y que no fueron afectados por las normas establecidas en el decreto supremo de Educaci&#xF3;n N&#xB0; 1.810/1982, podr&#xE1;n continuar funcionando durante el a&#xF1;o 1984 y rigi&#xE9;ndose por el citado decreto s&#xF3;lo para los efectos de egresar a los alumnos de Educaci&#xF3;n Fundamental cuyos cursos finalizan durante el a&#xF1;o 1984. No podr&#xE1;n iniciar nuevos cursos aunque tengan planes y programas aprobados con anterioridad.</div><br><br></div>"
+        },
+        {
+          "part_id": 8972574,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 2&#xB0; Establ&#xE9;cese un presupuesto de M$ 34.794 para este programa durante el a&#xF1;o lectivo 1984.</div><br><br></div>"
+        },
+        {
+          "part_id": 8972575,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 3&#xB0; Los sostenedores que deseen desarrollar programas de Educaci&#xF3;n Fundamental durante el a&#xF1;o 1984, deber&#xE1;n presentar la documentaci&#xF3;n indicada en el art&#xED;culo 12&#xB0; del presente decreto en la Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n respectiva, la que deber&#xE1; remitirlo a la Direcci&#xF3;n de Educaci&#xF3;n Primaria y Normal, antes del 30 de Abril de ese a&#xF1;o.</div><br><br></div>"
+        },
+        {
+          "part_id": 8972576,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; An&#xF3;tese, t&#xF3;mese raz&#xF3;n, publ&#xED;quese e ins&#xE9;rtese en la Recopilaci&#xF3;n de Leyes y Reglamentos de la Contralor&#xED;a General de la Rep&#xFA;blica.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- Horacio Ar&#xE1;nguiz Donoso, Ministro de Educaci&#xF3;n P&#xFA;blica.- Carlos C&#xE1;ceres Contreras, Ministro de Hacienda.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a usted para su conocimiento.- Saluda a usted.- Juan Enrique Froemel Andrade, Capit&#xE1;n de Fragata, Subsecretario de Educaci&#xF3;n P&#xFA;blica. </div></div>"
+        },
+        {
+          "part_id": 8972577,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; CONTRALORIA GENERAL DE LA REPUBLICA Divisi&#xF3;n Jur&#xED;dica Cursa con alcance decreto N&#xB0; 1.413, de 1983 del Ministerio de Educaci&#xF3;n P&#xFA;blica</div><div class=\"p\">&nbsp; &nbsp; N&#xB0; 9.296.- Santiago, 12 de Abril de 1984.</div><div class=\"p\">&nbsp; &nbsp; La Contralor&#xED;a General ha dado curso al decreto del ep&#xED;grafe, que aprueba el reglamento del art&#xED;culo 4&#xB0; del decreto ley N&#xB0; 3.476, de 1980, sobre educaci&#xF3;n fundamental de capacitaci&#xF3;n t&#xE9;cnico-profesional, pero cumple con hacer presente en relaci&#xF3;n con lo establecido en el art&#xED;culo 33, que entiende que las situaciones no previstas en el reglamento o en la normativa supletoria ser&#xE1;n resueltas por el Secretario Regional Ministerial de Educaci&#xF3;n en la medida que aquellas incidan en materias propias de la competencia de esa autoridad regional.</div><div class=\"p\">&nbsp; &nbsp; Con el alcance que antecede se ha tomado raz&#xF3;n del documento de la suma.</div><div class=\"p\">&nbsp; &nbsp; Dios guarde a US.- Osvaldo Iturriaga Ruiz, Contralor General.</div><div class=\"p\">&nbsp; &nbsp; Al Se&#xF1;or Ministro de Educaci&#xF3;n P&#xFA;blica Presente </div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

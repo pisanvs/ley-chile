@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-08-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8993640,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTA OTORGAMIENTO DE SUBSIDIO HABITACIONAL CON CARGO A FONDOS DE REINVERSION PROVENIENTES DEL IMPUESTO HABITACIONAL</div><div class=\"p\">&nbsp; &nbsp; Santiago, 20 de Diciembre de 1983.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 216.- Visto: Lo dispuesto en el D.L. N&#xB0; 1.519, de 1976; Ley N&#xB0; 18.185; inciso segundo del art&#xED;culo 1&#xB0; de la Ley N&#xB0; 18.206, y la facultad que me confiere el N&#xB0; 8 del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento para el otorgamiento de subsidio habitacional con cargo a fondos de reinversi&#xF3;n provenientes del Impuesto Habitacional: </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTA OTORGAMIENTO DE SUBSIDIO HABITACIONAL CON CARGO A FONDOS DE REINVERSION PROVENIENTES DEL IMPUESTO HABITACIONAL</div><div class=\"p\">&nbsp; &nbsp; Santiago, 20 de Diciembre de 1983.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 216.- Visto: Lo dispuesto en el D.L. N&#xB0; 1.519, de 1976; Ley N&#xB0; 18.185; inciso segundo del art&#xED;culo 1&#xB0; de la Ley N&#xB0; 18.206, y la facultad que me confiere el N&#xB0; 8 del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento para el otorgamiento de subsidio habitacional con cargo a fondos de reinversi&#xF3;n provenientes del Impuesto Habitacional:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

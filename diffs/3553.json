@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1963-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1971-03-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8253031,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o- Modif&#xED;case el art&#xED;culo &#xFA;nico del decreto con fuerza de ley N.o 12, publicado en el &quot;Diario Oficial&quot; de 27 de Marzo de 1953, en la siguiente forma:</div><div class=\"p\">&nbsp; &nbsp; a) Reempl&#xE1;zase la oraci&#xF3;n final &quot;y por el espacio de diez a&#xF1;os, del impuesto sobre contribuciones de bienes ra&#xED;ces&quot;, por el siguiente: &quot;hasta el 31 de Diciembre de 1970, y siempre que su dominio se conserve en los adjudicatarios o en alguno de sus herederos ind&#xED;genas, del pago de contribuciones fiscales y municipales&quot;.</div><div class=\"p\">&nbsp; &nbsp; b) Agr&#xE9;ganse los incisos que enseguida se mencionan:</div><div class=\"p\">&nbsp; &nbsp; Igualmente, y hasta la misma fecha, los adjudicatarios estar&#xE1;n exentos del impuesto global complementario en cuanto afecte las rentas provenientes de la propiedad que les hubiere correspondido en la divisi&#xF3;n de la comunidad. Los herederos ind&#xED;genas del adjudicatario tendr&#xE1;n este mismo derecho hasta el vencimiento del plazo mencionado.</div><div class=\"p\">&nbsp; &nbsp; La calidad de ind&#xED;genas se acreditar&#xE1; con certificado expedido por la respectiva Oficina de la Direcci&#xF3;n de Asuntos Ind&#xED;genas.</div><div class=\"p\">&nbsp; &nbsp; La exenci&#xF3;n podr&#xE1; declararse a requerimiento del interesado o de cualquiera otra persona, Instituci&#xF3;n o Servicio que act&#xFA;e en su nombre.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o- Modif&#xED;case el art&#xED;culo &#xFA;nico del decreto con fuerza de ley N.o 12, publicado en el &quot;Diario Oficial&quot; de 27 de Marzo de 1953, en la siguiente forma:</div><div class=\"p\">&nbsp; &nbsp; a) Reempl&#xE1;zase la oraci&#xF3;n final &quot;y por el espacio de diez a&#xF1;os, del impuesto sobre contribuciones de bienes ra&#xED;ces&quot;, por el siguiente: &quot;hasta el 31 de Diciembre de 1980, y siempre que su dominio se conserve en los<span class=\"n\" id=\"n_0\">LEY 17416<br>Art. 112<br>D.O. 09.03.1971</span> adjudicatarios o en alguno de sus herederos ind&#xED;genas, del pago de contribuciones fiscales y municipales&quot;.</div><div class=\"p\">&nbsp; &nbsp;  b) Agr&#xE9;ganse los incisos que enseguida se mencionan:</div><div class=\"p\">&nbsp; &nbsp; Igualmente, y hasta la misma fecha, los adjudicatarios estar&#xE1;n exentos del impuesto global complementario en cuanto afecte las rentas provenientes de la propiedad que les hubiere correspondido en la divisi&#xF3;n de la comunidad. Los herederos ind&#xED;genas del adjudicatario tendr&#xE1;n este mismo derecho hasta el vencimiento del plazo mencionado.</div><div class=\"p\">&nbsp; &nbsp; La calidad de ind&#xED;genas se acreditar&#xE1; con certificado expedido por la respectiva Oficina de la Direcci&#xF3;n de Asuntos Ind&#xED;genas.</div><div class=\"p\">&nbsp; &nbsp; La exenci&#xF3;n podr&#xE1; declararse a requerimiento del interesado o de cualquiera otra persona, Instituci&#xF3;n o Servicio que act&#xFA;e en su nombre.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

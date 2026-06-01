@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-03-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-04-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6468889,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA; 87, de 2 de febrero de 2004, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y del DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; para la obra Proyecto L&#xED;nea 4, Sector: Rotonda Grecia - La Cisterna, Regi&#xF3;n Metropolitana, el lote de terreno N&#xBA; 215L4, que figura a nombre de Reserva Serviu Lo Hermida III, rol de aval&#xFA;o 7832-1, comuna de Pe&#xF1;alol&#xE9;n, superficie 774 m&#xB2;. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Ram&#xF3;n Enrique Domingo Labarca, Ricardo Antonio Strickler Arellano y Joaqu&#xED;n Guillermo Enrique Eyzaguirre Edwards fij&#xF3;, con fecha 19 de enero de 2004, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $28.444.100 para el lote N&#xBA; 215L4. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA; 87, de 2 de febrero de 2004, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y del DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; para la obra Proyecto L&#xED;nea 4, Sector: Rotonda Grecia - La Cisterna, Regi&#xF3;n Metropolitana, el lote de terreno N&#xBA; 215L4, que figura a nombre de I. Municipalidad de Pe&#xF1;alol&#xE9;n, rol de aval&#xFA;o<span class=\"n\" id=\"n_0\">DTO 211, OBRAS<br>D.O. 15.04.2004</span> 7832-1, comuna de Pe&#xF1;alol&#xE9;n, superficie 774 m&#xB2;. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Ram&#xF3;n Enrique Domingo Labarca, Ricardo Antonio Strickler Arellano y Joaqu&#xED;n Guillermo Enrique Eyzaguirre Edwards fij&#xF3;, con fecha 19 de enero de 2004, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $28.444.100 para el lote N&#xBA; 215L4. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.-</div><br></div>"
+        }
+      ]
+    }
+  }
+]

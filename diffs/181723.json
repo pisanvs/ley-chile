@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-02-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-09-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8365683,
+          "old": "<div><div class=\"p\">AMPLIA DECRETO N&#xBA; 672 EXENTO, DE 2000</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, enero 29 de 2001.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 180 exento.- Visto: El oficio Ord. N&#xBA; 004, de 3 de enero de 2001 del Sr. Gobernador Provincial de Linares; el oficio ordinario N&#xBA; 993/192 del Alcalde de la I. Municipalidad de Retiro, de 12 de diciembre de 2000; el decreto exento N&#xBA; 672 de 5 de mayo de 2000, del Ministerio del Interior; lo dispuesto en el decreto ley N&#xBA; 799, de 1974 y sus modificaciones; el decreto supremo N&#xBA; 654, de 1994, de Interior, y en la resoluci&#xF3;n N&#xBA; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que por las funciones propias de su cargo, el&nbsp; Sr. Alcalde de la I. Municipalidad de Retiro ha requerido el uso privativo del m&#xF3;vil mencionado.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">AMPLIA DECRETO N&#xBA; 672 EXENTO, DE 2000</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, enero 29 de 2001.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 180 exento.- Visto: El oficio Ord. N&#xBA; 004, de 3 de enero de 2001 del Sr. Gobernador Provincial de Linares; el oficio ordinario N&#xBA; 993/192 del Alcalde de la I. Municipalidad de Retiro, de 12 de diciembre de 2000; el decreto exento N&#xBA; 672 de 5 de mayo de 2000, del Ministerio del Interior; lo dispuesto en el decreto ley N&#xBA; 799, de 1974 y sus modificaciones; el decreto supremo N&#xBA; 654, de 1994, de Interior, y en la resoluci&#xF3;n N&#xBA; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que por las funciones propias de su cargo, el&nbsp; Sr. Alcalde de la I. Municipalidad de Retiro ha requerido el uso privativo del m&#xF3;vil mencionado.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

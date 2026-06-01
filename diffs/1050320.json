@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2013-04-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-02-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9345690,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.1 Zonas de las &#xC1;reas Urbanas</div><div class=\"p\">&nbsp; &nbsp;  El &#xC1;rea Urbana de la comuna de Coronel se divide en las siguientes zonas:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/32271.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  Las normas espec&#xED;ficas para las zonas indicadas en el cuadro anterior se establecen en los art&#xED;culos siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/32272.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/32273.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/32274.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/32275.jpg\">.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.1 Zonas de las &#xC1;reas Urbanas</div><div class=\"p\">&nbsp; &nbsp;  El &#xC1;rea Urbana de la comuna de Coronel se divide en las siguientes zonas:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/32271.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  Las normas espec&#xED;ficas para las zonas indicadas en el cuadro anterior se establecen en los art&#xED;culos siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/32272.jpg\">.</div><br><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/32273.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/32274.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/32275.jpg\">.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 1270, Municipalidad de Coronel, publicado el 27.02.2016, modifica el art&#xED;culo 4.1 de la presente norma, en el sentido de agregar al final del cuadro de Normas de Subdivisi&#xF3;n y Edificaci&#xF3;n correspondiente a la zona ZU-8, el cuadro que el citado Decreto indica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2016-12-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9755138,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.3.<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1098035&amp;idParte=9755130&amp;idVersion=2016-12-16\">Decreto 16, <br>M. DE CORONEL<br>Art. PRIMERO N&#xB0; 1<br>D.O. 16.12.2016</a></span></div><div class=\"p\">&nbsp; &nbsp;  En predios que enfrenten a la vialidad colectora denominada &quot;Carlos Prats&quot;, en el tramo comprendido entre &quot;Nodo Los Laboreos y Pedro Aguirre Cerda&quot;, se acepta el emplazamiento de Equipamiento de Escala Mayor.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1098035,
+      "fecha": "2016-12-16"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "2002-07-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8554270,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 1&#xBA;. Los Inspectores de Gas que a la fecha cuenten con la autorizaci&#xF3;n de esta Superintendencia y que deseen seguir desempe&#xF1;&#xE1;ndose como tales, deber&#xE1;n :</div><br><div class=\"p\">a)&nbsp; &nbsp; Constituirse como Entidades de Certificaci&#xF3;n de Instalaciones Interiores de Gas de conformidad a lo dispuesto en el n&#xFA;mero 3.3.2 de la presente resoluci&#xF3;n, en un plazo de 90 d&#xED;as contado desde su fecha de publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Con todo, dispondr&#xE1;n de un plazo de seis meses para iniciar el proceso de acreditaci&#xF3;n ante el Sistema Nacional de Acreditaci&#xF3;n, contemplado en el p&#xE1;rrafo 3.3.2.c), y de doce&nbsp; meses para obtener dicha acreditaci&#xF3;n, a contar de la misma fecha. Las anteriores circunstancias deber&#xE1;n ser acreditadas ante la Superintendencia; o</div><div class=\"p\">b)&nbsp; &nbsp; Desempe&#xF1;arse como Inspectores de Gas en calidad de dependientes de una Entidad de Certificaci&#xF3;n de Instalaciones Interiores de Gas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. DEROGADO<span class=\"n\" id=\"n_0\">RES 1852 EXENTA,<br>ECONOMIA<br>VII<br>D.O. 20.11.2002</span> </div></div>"
+        },
+        {
+          "part_id": 8554272,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 2&#xBA;. Durante los primeros doce meses contados desde la publicaci&#xF3;n de la presente resoluci&#xF3;n en el Diario Oficial, la certificaci&#xF3;n e inspecci&#xF3;n de instalaciones interiores de gas, la adquisici&#xF3;n de sellos, y en general, el Procedimiento de Certificaci&#xF3;n e Inspecci&#xF3;n Peri&#xF3;dica de Instalaciones de Gas, reglamentado en la presente resoluci&#xF3;n, podr&#xE1; ser realizado por Inspectores que cumplan con los requisitos establecidos en la letra a) del art&#xED;culo anterior y por las Entidades de Certificaci&#xF3;n de Instalaciones Interiores de Gas que hayan sido autorizadas por esta Superintendencia.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;. DEROGADO<span class=\"n\" id=\"n_1\">RES 1852 EXENTA,<br>ECONOMIA<br>VII<br>D.O. 20.11.2002</span></div><br></div>"
+        },
+        {
+          "part_id": 8554273,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 3&#xBA;. Los sellos que identifiquen el resultado de la certificaci&#xF3;n o inspecci&#xF3;n realizada, que hubieren sido adquiridos con anterioridad a la fecha de publicaci&#xF3;n en el Diario Oficial de la presente resoluci&#xF3;n, podr&#xE1;n ser :</div><br><div class=\"p\">a)&nbsp; &nbsp; Utilizados, s&#xF3;lo dentro de los 90 d&#xED;as siguientes a dicha fecha; o</div><div class=\"p\">b)&nbsp; &nbsp; Devueltos a esta Superintendencia, s&#xF3;lo a contar del d&#xED;a 31 y hasta el d&#xED;a 120 de dicha fecha, cuyo costo ser&#xE1; abonado a la adquisici&#xF3;n de nuevos sellos, de acuerdo a las instrucciones que &#xE9;sta impartir&#xE1;.</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Dichos sellos que a contar de los 121 d&#xED;as de dicha fecha, no hayan sido utilizados o devueltos, quedar&#xE1;n invalidados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;. DEROGADO<span class=\"n\" id=\"n_2\">RES 1852 EXENTA,<br>ECONOMIA<br>VII<br>D.O. 20.11.2002</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8349659,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION No. 643, DE 1985 </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION No. 643, DE 1985</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

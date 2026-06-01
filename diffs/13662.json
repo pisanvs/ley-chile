@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1995-01-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-09-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7149262,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- La Comisi&#xF3;n estar&#xE1; integrada por las siguientes personas:</div><div class=\"p\">&nbsp; &nbsp; 1. El Ministro de Defensa Nacional, quien la presidir&#xE1;.</div><div class=\"p\">&nbsp; &nbsp; 2. El Subsecretario de Marina.</div><div class=\"p\">&nbsp; &nbsp; 3. Un representante de la Subsecretar&#xED;a de Desarrollo Regional y Administrativo del Ministerio del Interior.</div><div class=\"p\">&nbsp; &nbsp; 4. Un representante de la Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 5. Un representante del Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 6. Un representante del Ministerio de Obras P&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp; 7. Un representante del Ministerio de Vivienda y Urbanismo.</div><div class=\"p\">&nbsp; &nbsp; 8. Un representante del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; 9. Un representante del Ministerio de Bienes Nacionales.</div><div class=\"p\">&nbsp; &nbsp; 10. Un representante de la Armada de Chile.</div><div class=\"p\">&nbsp; &nbsp; 11. Un representante del Servicio Nacional de Turismo, y</div><div class=\"p\">&nbsp; &nbsp; 12. Un representante de la Comisi&#xF3;n Nacional del Medio Ambiente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- La Comisi&#xF3;n estar&#xE1; integrada por las siguientes personas:</div><div class=\"p\">&nbsp; &nbsp; 1. El Ministro de Defensa Nacional, quien la presidir&#xE1;.</div><div class=\"p\">&nbsp; &nbsp; 2. El Subsecretario de Marina.</div><div class=\"p\">&nbsp; &nbsp; 3. Un representante de la Subsecretar&#xED;a de Desarrollo Regional y Administrativo del Ministerio del Interior.</div><div class=\"p\">&nbsp; &nbsp; 4. Un representante de la Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 5. Un representante del Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 6. Un representante del Ministerio de Obras P&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp; 7. Un representante del Ministerio de Vivienda y Urbanismo.</div><div class=\"p\">&nbsp; &nbsp; 8. Un representante del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; 9. Un representante del Ministerio de Bienes Nacionales.</div><div class=\"p\">&nbsp; &nbsp; 10. Un<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1216773&amp;idParte=10562336&amp;idVersion=2025-09-17\">Decreto 152,<br>DEFENSA<br>Art. &#xFA;nico<br>D.O. 17.09.2025</a></span> representante del Ministerio de Energ&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; 11. Un representante de la Armada de Chile.</div><div class=\"p\">&nbsp; &nbsp; 12. Un representante del Servicio Nacional de Turismo, y</div><div class=\"p\">&nbsp; &nbsp; 13. Un representante de la Comisi&#xF3;n Nacional del Medio Ambiente.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1216773,
+      "fecha": "2025-09-17"
+    }
+  }
+]

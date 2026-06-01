@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7160895,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xB0; 164, DE 1993</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xB0; 164, DE 1993</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-12-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-03-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201965,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; NORMA SOBRE OBLIGATORIEDAD DE PORTAR CERTIFICADO DE INSCRIPCION QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 975 exenta.- Santiago, 16 de Diciembre de 1992.- Visto: El D.L. N&#xB0; 557 de 1974; las leyes N&#xB0;s.</div><div class=\"p\">18.059, 18.290, 18.696, 19.040; lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; y lo establecido por el D.S. 212 de 1992, del Ministerio de Transportes y Telecomunicaciones;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">NORMA SOBRE OBLIGATORIEDAD DE PORTAR CERTIFICADO DE INSCRIPCION QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 975 exenta.- Santiago, 16 de Diciembre de 1992.- Visto: El D.L. N&#xB0; 557 de 1974; las leyes N&#xB0;s.</div><div class=\"p\">18.059, 18.290, 18.696, 19.040; lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; y lo establecido por el D.S. 212 de 1992, del Ministerio de Transportes y Telecomunicaciones;</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-08-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-12-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5999983,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA ORDENANZA SOBRE RUIDOS MOLESTOS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 107.- Providencia, 14 de agosto de 1996.- Vistos: Lo dispuesto por los art&#xED;culos 4 letra b), 5 letra d), 10, 56 letra i), 58 letra j) y 69 letra b) de la Ley N&#xB0; 18.695 de 1988, Org&#xE1;nica Constitucional de Municipalidades, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que mediante Ordenanza N&#xB0; 677, de 18 de junio de 1982, se fij&#xF3; la Ordenanza sobre Ruidos Molestos en la comuna de Providencia.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que dicha Ordenanza ha sido modificada por las Ordenanzas N&#xB0; 28, de 12 de mayo de 1989, N&#xB0; 26, de 8 de mayo de 1992, y N&#xB0; 58, de 10 de noviembre de 1993.</div><div class=\"p\">&nbsp; &nbsp; 3.- El Memor&#xE1;ndum N&#xB0; 308, de 28 de mayo de 1996, de la Directora de Desarrollo Comunitario.</div><div class=\"p\">&nbsp; &nbsp; 4.- El Oficio N&#xB0; 238, de 11 de julio de 1996, del Director Jur&#xED;dico.</div><div class=\"p\">&nbsp; &nbsp; 5.- El Acuerdo N&#xB0; 689, tomado en Sesi&#xF3;n Ordinaria N&#xB0; 178, de 6 de agosto de 1996, del Concejo Municipal.</div><div class=\"p\">&nbsp; &nbsp; O r d e n a n z a:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA ORDENANZA SOBRE RUIDOS MOLESTOS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 107.- Providencia, 14 de agosto de 1996.- Vistos: Lo dispuesto por los art&#xED;culos 4 letra b), 5 letra d), 10, 56 letra i), 58 letra j) y 69 letra b) de la Ley N&#xB0; 18.695 de 1988, Org&#xE1;nica Constitucional de Municipalidades, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que mediante Ordenanza N&#xB0; 677, de 18 de junio de 1982, se fij&#xF3; la Ordenanza sobre Ruidos Molestos en la comuna de Providencia.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que dicha Ordenanza ha sido modificada por las Ordenanzas N&#xB0; 28, de 12 de mayo de 1989, N&#xB0; 26, de 8 de mayo de 1992, y N&#xB0; 58, de 10 de noviembre de 1993.</div><div class=\"p\">&nbsp; &nbsp; 3.- El Memor&#xE1;ndum N&#xB0; 308, de 28 de mayo de 1996, de la Directora de Desarrollo Comunitario.</div><div class=\"p\">&nbsp; &nbsp; 4.- El Oficio N&#xB0; 238, de 11 de julio de 1996, del Director Jur&#xED;dico.</div><div class=\"p\">&nbsp; &nbsp; 5.- El Acuerdo N&#xB0; 689, tomado en Sesi&#xF3;n Ordinaria N&#xB0; 178, de 6 de agosto de 1996, del Concejo Municipal.</div><div class=\"p\">&nbsp; &nbsp; O r d e n a n z a:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-11-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10067321,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaciones para el a&#xF1;o 2019 en la Regi&#xF3;n del Biob&#xED;o, para la adquisici&#xF3;n 84 lotes en la comuna de Concepci&#xF3;n, por un total de 14.552 m&#xB2;, la que es necesaria para la ejecuci&#xF3;n del proyecto &quot;Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepci&#xF3;n&quot;, comuna de Concepci&#xF3;n, C&#xF3;digo BIP 30126886-0, cuyas caracter&#xED;sticas se detallan a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/99987.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Concepci&#xF3;n.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaciones para el a&#xF1;o 2019 en la Regi&#xF3;n del Biob&#xED;o, para la adquisici&#xF3;n 84 lotes en la comuna de Concepci&#xF3;n, por un total de 14.552 m&#xB2;, la que es necesaria para la ejecuci&#xF3;n del proyecto &quot;Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada, Concepci&#xF3;n&quot;, comuna de Concepci&#xF3;n, C&#xF3;digo BIP 30126886-0, cuyas caracter&#xED;sticas se detallan a continuaci<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/99987.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Concepci&#xF3;n.</div><div class=\"p\"> </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; del Decreto 68 Exento, Vivienda, publicado el 06.12.2022, modifica la presente norma que aprob&#xF3; el Programa de expropiaciones para el a&#xF1;o 2019 en la Regi&#xF3;n del Biob&#xED;o, para la adquisici&#xF3;n de los lotes necesarios para la ejecuci&#xF3;n del proyecto &quot;Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepci&#xF3;n&quot;, comuna de Concepci&#xF3;n, en el sentido de reemplazar la l&#xED;nea N&#xB0; 57 del cuadro inserto en su resuelvo 1&#xB0;, por el que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

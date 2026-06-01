@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-01-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-10-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8592263,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA EL FUNCIONAMIENTO DEL INSTITUTO PROFESIONAL &quot;DEL PACIFICO&quot;</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 10 Exento.- Santiago.- 18 de enero de 1982.- Considerando: Que, el Supremo Gobierno ha determinado que la educaci&#xF3;n superior sea impartida a trav&#xE9;s de varias instancias como una medida para lograr que todos, de acuerdo a sus capacidades tengan acceso a ella;</div><div class=\"p\">&nbsp; &nbsp; Que, una de estas instancias la constituyen los Institutos Profesionales;</div><div class=\"p\">&nbsp; &nbsp; Que, el Instituto Profesional &quot;Del Pac&#xED;fico&quot; ha solicitado se autorice su funcionamiento y no habi&#xE9;ndose formulado observaciones;</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.541 de 1980, D.F.L. N&#xB0; 5 de 1981; y en el art&#xED;culo 32, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA EL FUNCIONAMIENTO DEL INSTITUTO PROFESIONAL &quot;DEL PACIFICO&quot;</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 10 Exento.- Santiago.- 18 de enero de 1982.- Considerando: Que, el Supremo Gobierno ha determinado que la educaci&#xF3;n superior sea impartida a trav&#xE9;s de varias instancias como una medida para lograr que todos, de acuerdo a sus capacidades tengan acceso a ella;</div><div class=\"p\">&nbsp; &nbsp; Que, una de estas instancias la constituyen los Institutos Profesionales;</div><div class=\"p\">&nbsp; &nbsp; Que, el Instituto Profesional &quot;Del Pac&#xED;fico&quot; ha solicitado se autorice su funcionamiento y no habi&#xE9;ndose formulado observaciones;</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.541 de 1980, D.F.L. N&#xB0; 5 de 1981; y en el art&#xED;culo 32, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, </div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

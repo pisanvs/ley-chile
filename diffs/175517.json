@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-09-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6300781,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;3.093, de 31 de julio de 2000, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y del DFL MOP N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s 25, 26 y 28, para la obra: &apos;&apos;Concesi&#xF3;n Internacional Interconexi&#xF3;n Vial Santiago - Valpara&#xED;so - Vi&#xF1;a del Mar. Enlace Zapata Oriente Km. 52.158,10 a Km. 53.460,00&apos;&apos;, Regi&#xF3;n Metropolitana, que figuran a nombre de Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, rol de aval&#xFA;o 107-9, comuna de Curacav&#xED;, superficies de 1.186 m2, 497 m2 y 412 m2, respectivamente. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Jorge Antonio Catal&#xE1;n Cordero, Carmen Pilar R&#xED;os Marcuello y Mario Bochetti Ojeda, fij&#xF3; con fecha 22 de mayo de 2000, el valor provisional de la indemnizaci&#xF3;n en las cantidades de $3.143.400.- para el lote N&#xBA; 25; $1.045.250.- para el lote N&#xBA; 26 y $572.000.- para el lote N&#xBA; 28. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA;2.186, de 1978.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;3.093, de 31 de julio de 2000, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y del DFL MOP N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s 25, 26 y 28, para la obra: &quot;Concesi&#xF3;n Internacional Interconexi&#xF3;n Vial Santiago - Valpara&#xED;so - Vi&#xF1;a del Mar. Enlace Zapata Oriente Km. 52.158,10 a Km. 53.460,00&quot;, Regi&#xF3;n Metropolitana, que figuran a nombre de Corporaci&#xF3;n de Fomento de la Produc., rol de aval&#xFA;o<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 02.10.2000</span> 107-9, comuna de Curacav&#xED;, superficies de 1.186 m2, 497 m2 y 412 m2, respectivamente. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Jorge Antonio Catal&#xE1;n Cordero, Carmen Pilar R&#xED;os Marcuello y Mario Bochetti Ojeda, fij&#xF3; con fecha 22 de mayo de 2000, el valor provisional de la indemnizaci&#xF3;n en las cantidades de $3.143.400.- para el lote N&#xBA; 25; $1.045.250.- para el lote N&#xBA; 26 y $572.000.- para el lote N&#xBA; 28. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA;2.186, de 1978.- </div></div>"
+        }
+      ]
+    }
+  }
+]

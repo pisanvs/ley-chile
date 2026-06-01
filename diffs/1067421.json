@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-10-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9510804,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 4.595, de fecha 16 de septiembre de 2014, se orden&#xF3; la expropiaci&#xF3;n total, conforme a las normas del decreto ley N&#xBA; 2.186 de 1978, del denominado Lote N&#xBA; 26, correspondiente al inmueble ubicado en V Mackenna 3137, Rol de Aval&#xFA;o N&#xBA; 701-9, de la Comuna de San Joaqu&#xED;n, Regi&#xF3;n Metropolitana, de aparente dominio de Inversiones Oruna S A, con una superficie aproximada de 375,00 metros cuadrados. Dicha expropiaci&#xF3;n resulta necesaria para la ejecuci&#xF3;n del Proyecto &quot;Construcci&#xF3;n Corredor de Transporte P&#xFA;blico Vicu&#xF1;a Mackenna Norte&quot;. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Douglas Herrera Flores, Constructor Civil; Teresa Sancho Pernas, Arquitecto; y Gast&#xF3;n Bravo Hurtado, Ingeniero Civil, mediante Informe de fecha 25 de diciembre de 2013, fij&#xF3; la indemnizaci&#xF3;n provisional por causa de la referida expropiaci&#xF3;n en la suma de $146.810.540, que se pagar&#xE1; al contado. La presente publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186 de 1978.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 4.595, de fecha 16 de septiembre de 2014, se orden&#xF3; la expropiaci&#xF3;n total, conforme a las normas del decreto ley N&#xBA; 2.186 de 1978, del denominado Lote N&#xBA; 26, correspondiente al inmueble ubicado en V Mackenna 3137, Rol de Aval&#xFA;o N&#xBA; 701-9, de la Comuna de San Joaqu&#xED;n, Regi&#xF3;n Metropolitana, de aparente dominio de Inversiones Oruna S A, con una superficie aproximada de 375,00 metros cuadrados. Dicha expropiaci&#xF3;n resulta necesaria para la ejecuci&#xF3;n del Proyecto &quot;Construcci&#xF3;n Corredor de Transporte P&#xFA;blico Vicu&#xF1;a Mackenna Norte&quot;. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Douglas Herrera Flores, Constructor Civil; Teresa Sancho Pernas, Arquitecto; y Gast&#xF3;n Bravo Hurtado, Ingeniero Civil, mediante Informe de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1068970&amp;idParte=9523334&amp;idVersion=2014-11-03\">Aviso S/N,<br>VIVIENDA<br>D.O. 03.11.2014</a></span>fecha 12 de septiembre del a&#xF1;o 2014, fij&#xF3; la indemnizaci&#xF3;n provisional por causa de la referida expropiaci&#xF3;n en la suma de $146.810.540, que se pagar&#xE1; al contado. La presente publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186 de 1978.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1068970,
+      "fecha": "2014-11-03"
+    }
+  }
+]

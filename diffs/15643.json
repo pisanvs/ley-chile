@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-10-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-04-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040952,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA NUEVO ARANCEL DE HONORARIOS POR PERICIAS MEDICO LEGALES </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA NUEVO ARANCEL DE HONORARIOS POR PERICIAS MEDICO LEGALES </div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 6&#xB0; del DTO 168, Justicia, publicado el 07.04.1998, derog&#xF3; el presente decreto fijando un nuevo arancel.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

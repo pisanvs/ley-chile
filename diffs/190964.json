@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-10-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-09-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6354803,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 26 EXENTA, DE 2000</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 232 exenta.- Iquique, 2 de agosto de 2001.- Visto: El art&#xED;culo 45 del decreto supremo N&#xBA; 212 de 1992, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la resoluci&#xF3;n exenta N&#xBA; 26, de esta Secretar&#xED;a Regional Ministerial, de 28 de enero de 2000, publicada en el Diario Oficial con fecha 11 de febrero de 2000, </div><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 26 EXENTA, DE 2000</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 232 exenta.- Iquique, 2 de agosto de 2001.- Visto: El art&#xED;culo 45 del decreto supremo N&#xBA; 212 de 1992, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la resoluci&#xF3;n exenta N&#xBA; 26, de esta Secretar&#xED;a Regional Ministerial, de 28 de enero de 2000, publicada en el Diario Oficial con fecha 11 de febrero de 2000, </div><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

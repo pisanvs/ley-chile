@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-09-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-05-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6255190,
+          "old": "<div><div class=\"p\">ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO A LA COMPA&#xD1;IA CHILENA DE GENERACION ELECTRICA S.A. CHILECTRA GENERACION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 252.- Santiago, 12 Ago. 1985.- Visto: El D.L.</div><div class=\"p\">No. 799 de 1974, modificado por el DFL No. 12-2.345 de 1979, Circular No. 9.277 de 1975, de la Contralor&#xED;a General de la Rep&#xFA;blica; lo solicitado por la Compa&#xF1;&#xED;a Chilena de Generaci&#xF3;n El&#xE9;ctrica S.A., en su Oficio Ord. 01836 de 30 de Julio de 1985,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, con el objeto de prestar los servicios de utilidad que realiza en forma ininterrumpida, la Compa&#xF1;&#xED;a Chilena de Generaci&#xF3;n El&#xE9;ctrica S.A., ha solicitado la asignaci&#xF3;n de un veh&#xED;culo, autoriz&#xE1;ndolo para circular provisto del correspondiente disco distintivo,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO A LA COMPA&#xD1;IA CHILENA DE GENERACION ELECTRICA S.A. CHILECTRA GENERACION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 252.- Santiago, 12 Ago. 1985.- Visto: El D.L.</div><div class=\"p\">No. 799 de 1974, modificado por el DFL No. 12-2.345 de 1979, Circular No. 9.277 de 1975, de la Contralor&#xED;a General de la Rep&#xFA;blica; lo solicitado por la Compa&#xF1;&#xED;a Chilena de Generaci&#xF3;n El&#xE9;ctrica S.A., en su Oficio Ord. 01836 de 30 de Julio de 1985,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, con el objeto de prestar los servicios de utilidad que realiza en forma ininterrumpida, la Compa&#xF1;&#xED;a Chilena de Generaci&#xF3;n El&#xE9;ctrica S.A., ha solicitado la asignaci&#xF3;n de un veh&#xED;culo, autoriz&#xE1;ndolo para circular provisto del correspondiente disco distintivo,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-11-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-07-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9647555,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Cr&#xE9;ase un juzgado de letras de familia, garant&#xED;a y del trabajo, con asiento en la comuna de Alto Hospicio, con competencia sobre la misma comuna.</div><div class=\"p\">&nbsp; &nbsp;  Este tribunal tendr&#xE1; la siguiente planta de personal: tres jueces, un administrador, un jefe de unidad, un consejero t&#xE9;cnico, dos administrativos jefe, cinco administrativos 1&#xBA;, tres administrativos 2&#xBA;, dos administrativos 3&#xBA; y cuatro auxiliares.</div><div class=\"p\">&nbsp; &nbsp;  Dicho tribunal contar&#xE1; con un comit&#xE9; de jueces y su respectivo juez presidente, y le ser&#xE1;n aplicables, en tanto fueren compatibles, las disposiciones contenidas en los art&#xED;culos 22, 23 y 24 del C&#xF3;digo Org&#xE1;nico de Tribunales. En cuanto a su estructura administrativa, se estar&#xE1; a lo dispuesto en el art&#xED;culo 27 qu&#xE1;ter del mismo C&#xF3;digo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Cr&#xE9;ase un juzgado de letras de familia, garant&#xED;a y del trabajo, con asiento en la comuna de Alto Hospicio, con competencia sobre la misma comuna.</div><div class=\"p\">&nbsp; &nbsp;  Este <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1104917&amp;idParte=9812184&amp;idVersion=2017-07-07\">Ley 21017<br>Art. 5 N&#xB0; 1<br>D.O. 07.07.2017</a></span>tribunal tendr&#xE1; la siguiente planta de personal: cuatro jueces, un administrador, dos jefes de unidad, un consejero t&#xE9;cnico, tres administrativos jefe, seis administrativos 1&#xBA;, cuatro administrativos 2&#xBA;, tres administrativos 3&#xBA; y cuatro auxiliares.</div><div class=\"p\">&nbsp; &nbsp;  Dicho tribunal contar&#xE1; con un comit&#xE9; de jueces y su respectivo juez presidente, y le ser&#xE1;n aplicables, en tanto fueren compatibles, las disposiciones contenidas en los art&#xED;culos 22, 23 y 24 del C&#xF3;digo Org&#xE1;nico de Tribunales. En <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1104917&amp;idParte=9812184&amp;idVersion=2017-07-07\">Ley 21017<br>Art. 5 N&#xB0; 2<br>D.O. 07.07.2017</a></span>cuanto a los grados de las plantas de personal y la estructura administrativa del tribunal, se estar&#xE1; a lo dispuesto en los art&#xED;culos 27 bis y 27 qu&#xE1;ter del mismo C&#xF3;digo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

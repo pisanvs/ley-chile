@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2006-09-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-06-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7332390,
+          "old": "<div><div class=\"p\">FORMALIZA FIJACION DE TARIFAS POSTALES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 29 exenta.- Santiago, 5 de septiembre de 2006.- Vistos: El DFL N&#xBA; 10, de 1981, y el decreto supremo N&#xBA; 642, de 2004, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la resoluci&#xF3;n exenta N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica; los Acuerdos del Directorio de la Empresa N&#xBA; 116/2006 y 120/2006, y en uso de las atribuciones que me confiere la resoluci&#xF3;n N&#xBA; 1, de 2002, de la Empresa de Correos de Chile, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">FORMALIZA FIJACION DE TARIFAS POSTALES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 29 exenta.- Santiago, 5 de septiembre de 2006.- Vistos: El DFL N&#xBA; 10, de 1981, y el decreto supremo N&#xBA; 642, de 2004, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la resoluci&#xF3;n exenta N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica; los Acuerdos del Directorio de la Empresa N&#xBA; 116/2006 y 120/2006, y en uso de las atribuciones que me confiere la resoluci&#xF3;n N&#xBA; 1, de 2002, de la Empresa de Correos de Chile, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2008-02-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

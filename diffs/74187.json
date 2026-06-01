@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-07-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-09-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949647,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Decl&#xE1;rase &quot;fuente curativa&quot; el agua mineral proveniente de la fuente denominada &quot;Mauco 2&quot;, que surge en los terrenos de la sociedad Mauco S.A., en el Valle Los Naranjos, comuna de Curacav&#xED;, Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; F&#xED;jase a dicha fuente un per&#xED;metro de protecci&#xF3;n de 9.425 metros, conformado por un c&#xED;rculo alrededor de ella de 1.500 metros de radio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Decl&#xE1;rase &quot;fuente curativa&quot; el agua mineral</div><div class=\"p\">proveniente de la fuente denominada &quot;Origen 1&quot;, que<span class=\"n\" id=\"n_0\">DTO 770 EXENTO,<br>SALUD<br>N&#xBA; 1<br>D.O. 03.09.2003</span></div><div class=\"p\">surge en los terrenos de la sociedad Origen S.A., en</div><div class=\"p\">el Valle Los Naranjos, comuna de Curacav&#xED;, Regi&#xF3;n</div><div class=\"p\">Metropolitana.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; F&#xED;jase a dicha fuente un per&#xED;metro de protecci&#xF3;n</div><div class=\"p\">de 9.425 metros, conformado por un c&#xED;rculo alrededor de</div><div class=\"p\">ella de 1.500 metros de radio.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

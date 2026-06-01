@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-03-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-06-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10109327,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Post&#xE9;rgase selectivamente por un per&#xED;odo de tres meses, a partir de la publicaci&#xF3;n de este decreto alcaldicio en el Diario Oficial, los permisos de: loteo, urbanizaci&#xF3;n y de edificaci&#xF3;n de obra nueva y/o ampliaciones, que se encuentren comprendidas en la l&#xE1;mina 1 de 1, denominada &quot;Postergaci&#xF3;n de Permisos de Forma Selectiva en Conformidad al Art&#xED;culo 117 del DFL 458/75 Ley General de Urbanismo y Construcci&#xF3;n&quot;, bajo los par&#xE1;metros y &#xE1;reas indicadas en el punto 3 de los considerandos, conforme a lo dispuesto en los art&#xED;culos 117&#xBA; de la Ley General de Urbanismo y Construcciones y 1.4.18 de la Ordenanza General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Post&#xE9;rgase selectivamente por un per&#xED;odo de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>tres meses, a partir de la publicaci&#xF3;n de este decreto alcaldicio en el Diario Oficial, los permisos de: loteo, urbanizaci&#xF3;n y de edificaci&#xF3;n de obra nueva y/o ampliaciones, que se encuentren comprendidas en la l&#xE1;mina 1 de 1, denominada &quot;Postergaci&#xF3;n de Permisos de Forma Selectiva en Conformidad al Art&#xED;culo 117 del DFL 458/75 Ley General de Urbanismo y Construcci&#xF3;n&quot;, bajo los par&#xE1;metros y &#xE1;reas indicadas en el punto 3 de los considerandos, conforme a lo dispuesto en los art&#xED;culos 117&#xBA; de la Ley General de Urbanismo y Construcciones y 1.4.18 de la Ordenanza General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1078 Exenta, Vivienda, publicada el 11.06.2020 dispone prorrogar por un plazo de 9 (nueve) meses, a contar del plazo de expiraci&#xF3;n de la postergaci&#xF3;n de permisos dispuesto originalmente por la presente norma, la postergaci&#xF3;n selectiva de los permisos de loteo, urbanizaci&#xF3;n y edificaci&#xF3;n de obra nueva y/o ampliaciones, en pol&#xED;gono caracterizado por puntos georreferenciados especificados en el considerando 3 de la citada Resoluci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

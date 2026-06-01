@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1997-01-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-01-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1998-07-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8669776,
+          "old": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.065.- Santiago, 12 de diciembre de 1996.- Vistos: Estos antecedentes, el Oficio N&#xBA; 2.014 de fecha 13 de diciembre de 1996, de la Direcci&#xF3;n General de Obras P&#xFA;blicas, dependiente de esta Secretar&#xED;a de Estado, y lo dispuesto en el Decreto Supremo Ministerio del Interior N&#xBA; 654 de 1994.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.065.- Santiago, 12 de diciembre de 1996.</div><div class=\"p\">- Vistos: Estos antecedentes, el Oficio N&#xBA; 2.014 de fecha 13 de diciembre de 1996, de la Direcci&#xF3;n General de Obras P&#xFA;blicas, dependiente de esta Secretar&#xED;a de Estado, y lo dispuesto en el Decreto Supremo Ministerio del Interior N&#xBA; 654 de 1994.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 609, Obras P&#xFA;blicas, publicado el 20.07.1998, derog&#xF3; el presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-04-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6329936,
+          "old": "<div><div class=\"p\">FIJA MEDIDAS APLICABLES A VEHICULOS DE SERVICIO DE LOCOMOCION COLECTIVA URBANA DE LA CIUDAD DE LINARES </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 45 exenta.- Talca, 28 de marzo de 2001.- Visto: Las facultades que me confiere el D.S. N&#xBA; 1/94, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA MEDIDAS APLICABLES A VEHICULOS DE SERVICIO DE LOCOMOCION COLECTIVA URBANA DE LA CIUDAD DE LINARES </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 45 exenta.- Talca, 28 de marzo de 2001.- Visto: Las facultades que me confiere el D.S. N&#xBA; 1/94, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

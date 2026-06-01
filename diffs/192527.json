@@ -1,0 +1,33 @@
+[
+  {
+    "fecha": "2001-12-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-08-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6361233,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;: En todo lo no previsto en el presente<span class=\"n\" id=\"n_2\">DTO 494, JUSTICIA<br>N&#xBA; 2<br>D.O. 28.08.2004</span> Reglamento, ser&#xE1; aplicable lo dispuesto en el Reglamento General de Calificaciones del sector p&#xFA;blico aprobado por decreto supremo N&#xBA; 1.825, de 1998, del Ministerio del Interior.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6361225,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Los funcionarios del Servicio de Registro Civil e Identificaci&#xF3;n ser&#xE1;n ubicados en las listas de calificaciones de acuerdo a los siguientes rangos de puntajes obtenidos en la calificaci&#xF3;n.</div><br><br><div class=\"p\">Lista N&#xBA; 1: Distinci&#xF3;n, de&nbsp; &nbsp;  40.00 a 50.00 puntos</div><div class=\"p\">Lista N&#xBA; 2: Buena, de&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 25.00 a 39.99 puntos</div><div class=\"p\">Lista N&#xBA; 3: Condicional, de&nbsp; &nbsp; 10.00 a 24.99 puntos</div><div class=\"p\">Lista N&#xBA; 4: Eliminaci&#xF3;n, de&nbsp; &nbsp; 1.00 a 9.99 puntos</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Los funcionarios del Servicio de Registro Civil e Identificaci&#xF3;n ser&#xE1;n ubicados en las listas de calificaciones de acuerdo a los siguientes rangos de puntajes obtenidos en la calificaci&#xF3;n.</div><div class=\"p\"> LISTA N&#xBA;1: Distinci&#xF3;n,&nbsp; &nbsp;  de 43,00 a 50,00 puntos<span class=\"n\" id=\"n_0\">DTO 494, JUSTICIA<br>N&#xBA; 1<br>D.O. 28.08.2004</span></div><div class=\"p\">LISTA N&#xBA;2: Buena,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; de 30,00 a 42,99 puntos</div><div class=\"p\">LISTA N&#xBA;3: Condicional,&nbsp; &nbsp; de 19,00 a 29,99 puntos</div><div class=\"p\">LISTA N&#xBA;4: Eliminaci&#xF3;n,&nbsp; &nbsp; de 10,00 a 18,99 puntos</div><br></div>"
+        },
+        {
+          "part_id": 6361230,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: En todo lo no previsto en el presente Reglamento, ser&#xE1; aplicable lo dispuesto en el Reglamento General de Calificaciones del sector p&#xFA;blico aprobado por decreto supremo N&#xBA; 1.825, de 1998, del Ministerio del Interior.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: Existir&#xE1; una Junta Calificadora<span class=\"n\" id=\"n_1\">DTO 494, JUSTICIA<br>N&#xBA; 2<br>D.O. 28.08.2004</span> Central y una Junta Calificadora Regional Metropolitana. Esta &#xFA;ltima, har&#xE1; las calificaciones de los funcionarios de la Direcci&#xF3;n Regional Metropolitana, y la primera, de aquellos que desempe&#xF1;&#xE1;ndose en la Regi&#xF3;n Metropolitana, no pertenezcan a esa Direcci&#xF3;n Regional.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

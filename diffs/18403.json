@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-07-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-07-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949079,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo tercero: Fac&#xFA;ltase a do&#xF1;a Carmen Rosa Roa Briones, madre de los menores, para cobrar las pensiones en su representaci&#xF3;n hasta que los beneficiarios cumplan 18 a&#xF1;os de edad.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo tercero: Fac&#xFA;ltase a do&#xF1;a Carmen Rosa Roa<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Briones, madre de los menores, para cobrar las pensiones en su representaci&#xF3;n hasta que los beneficiarios cumplan 18 a&#xF1;os de edad.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 445, Interior, publicado el 04.07.2003, dej&#xF3; sin efecto la facultad de do&#xF1;a Carmen Rosa Roa Briones para cobrar las pensiones, la que es conferida a do&#xF1;a Paola Andrea S&#xE1;ez Roa, hermana de las beneficiarias.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

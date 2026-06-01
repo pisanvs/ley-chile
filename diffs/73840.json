@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1997-06-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-07-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6040234,
+          "old": null,
+          "new": "<div><div class=\"p\">ACUERDO ADOPTADO POR EL CONSEJO DEL BANCO&nbsp; CENTRAL&nbsp; DE</div><div class=\"p\">CHILE&nbsp; EN&nbsp; SU&nbsp; SESION N&#xBA; 609</div><br><div class=\"p\">&nbsp; &nbsp;  Certifico que el Consejo del Banco Central de Chile en su Sesi&#xF3;n N&#xBA; 609, celebrada el 19 de junio de 1997, adopt&#xF3; el siguiente Acuerdo:</div><br><div class=\"p\">609-05-970619 - Modifica Compendio de Normas Financieras.</div><br><div class=\"p\">Se acord&#xF3; efectuar las siguientes modificaciones en el Compendio de Normas Financieras:</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

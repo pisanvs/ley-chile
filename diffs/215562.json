@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-03-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-11-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004600,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Autor&#xED;zase al Sporting Club de Valpara&#xED;so y al Club H&#xED;pico de la Sociedad Rural de Magallanes para efectuar por una sola vez una reuni&#xF3;n extraordinaria de carreras en d&#xED;a no festivo, durante el a&#xF1;o 1974, cuyo producto l&#xED;quido se entregar&#xE1; directamente a la Fundaci&#xF3;n Ropero del Pueblo. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Autor&#xED;zase al Sporting Club de Valpara&#xED;so y al Club H&#xED;pico de la Sociedad Rural de Magallanes para efectuar una vez al a&#xF1;o vez una reuni&#xF3;n extraordinaria de carreras en d&#xED;a no festivo, cuyo producto l&#xED;quido se entregar&#xE1; directamente a la Fundaci&#xF3;n Ropero del Pueblo.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

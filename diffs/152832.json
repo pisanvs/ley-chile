@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-09-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-05-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7259648,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD COMERCIAL IMPORTADORA, EXPORTADORA LTDA., PARA AMPLIAR ACTIVIDADES PESQUERAS DE TRANSFORMACION </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD COMERCIAL IMPORTADORA, EXPORTADORA LTDA., PARA AMPLIAR ACTIVIDADES PESQUERAS DE TRANSFORMACION </div><br></div>"
+        }
+      ]
+    }
+  }
+]

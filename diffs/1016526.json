@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2010-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-12-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8969777,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Supr&#xED;mese, a contar del d&#xED;a 2 de agosto de 2010, la Oficina de Registro Civil e Identificaci&#xF3;n de Mantilhue y la Circunscripci&#xF3;n de Registro Civil del mismo nombre, ambas situadas en la comuna de R&#xED;o Bueno, Provincia del Ranco, Regi&#xF3;n de Los R&#xED;os.</div><div class=\"p\">&nbsp; &nbsp;  2.- Efect&#xFA;ese el traslado de los registros, documentos y dem&#xE1;s antecedentes de la Oficina que se suprime, a la Oficina de Registro Civil e Identificaci&#xF3;n de R&#xED;o Bueno.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Supr&#xED;mese, a contar del d&#xED;a 2 de agosto de 2010, la Oficina de Registro Civil e Identificaci&#xF3;n de Mantilhue y la Circunscripci&#xF3;n de Registro Civil <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> del mismo nombre, ambas situadas en la comuna de R&#xED;o Bueno, Provincia del Ranco, Regi&#xF3;n de Los R&#xED;os.</div><div class=\"p\">&nbsp; &nbsp;  2.- Efect&#xFA;ese el traslado de los registros, documentos y dem&#xE1;s antecedentes de la Oficina que se suprime, a la Oficina de Registro Civil e Identificaci&#xF3;n de R&#xED;o Bueno.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 4367 Exenta, Justicia, publicada el 02.12.2010 modifica la presente resoluci&#xF3;n, en el sentido de incorporar que la Oficina de Mantilhue y la Circunscripci&#xF3;n del mismo nombre, a contar del d&#xED;a 2 de agosto de 2010, se anexa a la Circunscripci&#xF3;n de la Oficina de Registro Civil e Identificaci&#xF3;n de R&#xED;o Bueno, encontr&#xE1;ndose esta &#xFA;ltima con competencia para realizar todas las actuaciones y requerimientos de los usuarios de aquella localidad.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-06-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8969777,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Supr&#xED;mese, a contar del d&#xED;a 2 de agosto de 2010, la Oficina de Registro Civil e Identificaci&#xF3;n de Mantilhue y la Circunscripci&#xF3;n de Registro Civil <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> del mismo nombre, ambas situadas en la comuna de R&#xED;o Bueno, Provincia del Ranco, Regi&#xF3;n de Los R&#xED;os.</div><div class=\"p\">&nbsp; &nbsp;  2.- Efect&#xFA;ese el traslado de los registros, documentos y dem&#xE1;s antecedentes de la Oficina que se suprime, a la Oficina de Registro Civil e Identificaci&#xF3;n de R&#xED;o Bueno.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 4367 Exenta, Justicia, publicada el 02.12.2010 modifica la presente resoluci&#xF3;n, en el sentido de incorporar que la Oficina de Mantilhue y la Circunscripci&#xF3;n del mismo nombre, a contar del d&#xED;a 2 de agosto de 2010, se anexa a la Circunscripci&#xF3;n de la Oficina de Registro Civil e Identificaci&#xF3;n de R&#xED;o Bueno, encontr&#xE1;ndose esta &#xFA;ltima con competencia para realizar todas las actuaciones y requerimientos de los usuarios de aquella localidad.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Supr&#xED;mese, a contar del d&#xED;a<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> 2 de agosto de 2010, la Oficina de Registro Civil e Identificaci&#xF3;n de Mantilhue y la <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>Circunscripci&#xF3;n de Registro Civil&nbsp; del mismo nombre, ambas situadas en la comuna de R&#xED;o Bueno, Provincia del Ranco, Regi&#xF3;n de Los R&#xED;os.</div><div class=\"p\">&nbsp; &nbsp;  2.- Efect&#xFA;ese el traslado de los registros, documentos y dem&#xE1;s antecedentes de la Oficina que se suprime, a la Oficina de Registro Civil e Identificaci&#xF3;n de R&#xED;o Bueno.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 4367 Exenta, Justicia, publicada el 02.12.2010 modifica la presente resoluci&#xF3;n, en el sentido de incorporar que la Oficina de Mantilhue y la Circunscripci&#xF3;n del mismo nombre, a contar del d&#xED;a 2 de agosto de 2010, se anexa a la Circunscripci&#xF3;n de la Oficina de Registro Civil e Identificaci&#xF3;n de R&#xED;o Bueno, encontr&#xE1;ndose esta &#xFA;ltima con competencia para realizar todas las actuaciones y requerimientos de los usuarios de aquella localidad.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 1228 Exenta, Justicia, publicada el 25.06.2011, modifica la presente Resoluci&#xF3;n, en el sentido de incorporar y anexar el territorio jurisdiccional de la Oficina de Mantilhue y la Circunscripci&#xF3;n del mismo nombre, a contar del d&#xED;a 2 de agosto de 2010, a la Circunscripci&#xF3;n de la Oficina de Registro Civil e Identificaci&#xF3;n de R&#xED;o Bueno encontr&#xE1;ndose esta &#xFA;ltima con competencia para realizar todas las actuaciones y requerimientos de los usuarios de aquella localidad.</div></div>"
+        }
+      ]
+    }
+  }
+]

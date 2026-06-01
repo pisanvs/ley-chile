@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1963-01-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9000622,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; REAJUSTA LOS SUELDOS Y SALARIOS DE LOS EMPLEADOS Y OBREROS DEL SECTOR PRIVADO</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; REAJUSTA LOS SUELDOS Y SALARIOS DE LOS EMPLEADOS Y OBREROS DEL SECTOR PRIVADO</div><br><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9000626,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;- Decl&#xE1;rase que los sueldos m&#xED;nimos de los periodistas colegiados creados por la ley N&#xB0; 14.837, deben regir desde la fecha de su fijaci&#xF3;n por las respectivas Comisiones Provinciales Mixtas de Sueldos. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;- DEROGADO<span class=\"n\" id=\"n_0\">LEY 18018<br>Art. 2&#xBA; f)<br>D.O. 14.08.1981</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

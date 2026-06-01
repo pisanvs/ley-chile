@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2021-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2026-03-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10277846,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.- Autor&#xED;zase al Ministro de Hacienda para que, mediante uno o m&#xE1;s decretos expedidos bajo la f&#xF3;rmula &quot;Por orden del Presidente de la Rep&#xFA;blica&quot;, efect&#xFA;e hasta el 31 de diciembre de 2025 aportes extraordinarios de capital al Banco por un monto total de hasta mil quinientos millones de d&#xF3;lares, moneda de los Estados Unidos de Am&#xE9;rica, o su equivalente en moneda nacional, con el objeto de dar cumplimiento a las exigencias de capital regulatorio establecidas por la legislaci&#xF3;n bancaria. Los desembolsos se efectuar&#xE1;n previo requerimiento del Banco e informe favorable de la Comisi&#xF3;n, siendo financiados con cargo a activos disponibles en el Tesoro P&#xFA;blico, dentro de los cuales se incluyen los recursos provenientes del Fondo de Estabilizaci&#xF3;n Econ&#xF3;mica y Social.</div><div class=\"p\">&nbsp; &nbsp;  Hasta el a&#xF1;o 2026, a m&#xE1;s tardar el 31 de marzo de cada a&#xF1;o el Banco deber&#xE1; informar la evoluci&#xF3;n de su capital a la Comisi&#xF3;n de Hacienda de la C&#xE1;mara de Diputados y a la Comisi&#xF3;n de Hacienda del Senado.&quot;.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.- Autor&#xED;zase al Ministro de Hacienda para que, mediante uno o m&#xE1;s decretos expedidos bajo la f&#xF3;rmula &quot;Por orden del Presidente de la Rep&#xFA;blica&quot;, efect&#xFA;e hasta el 31 de diciembre de 2026<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1221118&amp;idParte=10582359&amp;idVersion=2026-02-05\">Ley 21806<br>Art&#xED;culo 106 N&#xB0; 1<br>D.O. 05.02.2026</a></span> aportes extraordinarios de capital al Banco por un monto total de hasta mil quinientos millones de d&#xF3;lares, moneda de los Estados Unidos de Am&#xE9;rica, o su equivalente en moneda nacional, con el objeto de dar cumplimiento a las exigencias de capital regulatorio establecidas por la legislaci&#xF3;n bancaria. Los desembolsos se efectuar&#xE1;n previo requerimiento del Banco e informe favorable de la Comisi&#xF3;n, siendo financiados con cargo a activos disponibles en el Tesoro P&#xFA;blico, dentro de los cuales se incluyen los recursos provenientes del Fondo de Estabilizaci&#xF3;n Econ&#xF3;mica y Social.</div><div class=\"p\">&nbsp; &nbsp;  Hasta el a&#xF1;o 2027<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1221118&amp;idParte=10582359&amp;idVersion=2026-02-05\">Ley 21806<br>Art&#xED;culo 106 N&#xB0; 2<br>D.O. 05.02.2026</a></span>, a m&#xE1;s tardar el 31 de marzo de cada a&#xF1;o el Banco deber&#xE1; informar la evoluci&#xF3;n de su capital a la Comisi&#xF3;n de Hacienda de la C&#xE1;mara de Diputados y a la Comisi&#xF3;n de Hacienda del Senado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

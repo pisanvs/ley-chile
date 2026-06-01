@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2001-01-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-08-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8647131,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- En caso de demolici&#xF3;n de edificaciones que tuvieren aislante de fibras de asbesto friable que pudieran provocar dispersi&#xF3;n de fibras de asbesto, la empresa encargada de ello deber&#xE1; contar con autorizaci&#xF3;n expresa para esa obra del Servicio de Salud competente, en la que se establezcan las medidas que deber&#xE1;n adoptarse para proteger la salud de los trabajadores y de la poblaci&#xF3;n aleda&#xF1;a. Este mismo procedimiento deber&#xE1; seguirse si durante el curso de una demolici&#xF3;n se encuentra el se&#xF1;alado material de asbesto, del que no se hubiere tenido conocimiento con anterioridad al inicio de las obras.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1004912&amp;idParte=8765452&amp;idVersion=2009-08-08\">Decreto 17, SALUD<br>D.O. 08.08.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- Las actividades relacionadas con edificaciones, equipos, instalaciones o maquinarias que tuvieren aislante de fibras de asbesto friable, tales como demolici&#xF3;n, desmantelamiento o modificaci&#xF3;n de &#xE9;stos, requerir&#xE1;n de autorizaci&#xF3;n previa de la autoridad sanitaria competente. Para su obtenci&#xF3;n el due&#xF1;o de las edificaciones, maquinarias, equipos o instalaciones deber&#xE1; presentar un plan de trabajo en el que se prevean las medidas que se adoptar&#xE1;n para proteger la salud de los trabajadores y de la poblaci&#xF3;n aleda&#xF1;a.</div><br><div class=\"p\">&nbsp; &nbsp;  Deber&#xE1; siempre solicitarse la autorizaci&#xF3;n se&#xF1;alada, si durante el desarrollo de alguna de las actividades referidas se encuentra asbesto friable del que no se hubiere tenido conocimiento al inicio de las obras, paralizando las mismas hasta la obtenci&#xF3;n de dicho permiso.</div><br><div class=\"p\">&nbsp; &nbsp;  En el evento que el asbesto presente en las actividades sea no friable, se deber&#xE1; notificar a la autoridad sanitaria competente la realizaci&#xF3;n de la actividad, en forma previa a su inicio o tan pronto se encuentre el producto y acompa&#xF1;ar el plan de trabajo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1004912,
+      "fecha": "2009-08-08"
+    }
+  },
+  {
+    "fecha": "2022-12-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8647131,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1004912&amp;idParte=8765452&amp;idVersion=2009-08-08\">Decreto 17, SALUD<br>D.O. 08.08.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- Las actividades relacionadas con edificaciones, equipos, instalaciones o maquinarias que tuvieren aislante de fibras de asbesto friable, tales como demolici&#xF3;n, desmantelamiento o modificaci&#xF3;n de &#xE9;stos, requerir&#xE1;n de autorizaci&#xF3;n previa de la autoridad sanitaria competente. Para su obtenci&#xF3;n el due&#xF1;o de las edificaciones, maquinarias, equipos o instalaciones deber&#xE1; presentar un plan de trabajo en el que se prevean las medidas que se adoptar&#xE1;n para proteger la salud de los trabajadores y de la poblaci&#xF3;n aleda&#xF1;a.</div><br><div class=\"p\">&nbsp; &nbsp;  Deber&#xE1; siempre solicitarse la autorizaci&#xF3;n se&#xF1;alada, si durante el desarrollo de alguna de las actividades referidas se encuentra asbesto friable del que no se hubiere tenido conocimiento al inicio de las obras, paralizando las mismas hasta la obtenci&#xF3;n de dicho permiso.</div><br><div class=\"p\">&nbsp; &nbsp;  En el evento que el asbesto presente en las actividades sea no friable, se deber&#xE1; notificar a la autoridad sanitaria competente la realizaci&#xF3;n de la actividad, en forma previa a su inicio o tan pronto se encuentre el producto y acompa&#xF1;ar el plan de trabajo.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1004912&amp;idParte=8765452&amp;idVersion=2009-08-08\">Decreto 17, SALUD<br>D.O. 08.08.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- Las actividades de demolici&#xF3;n, desmantelamiento o modificaci&#xF3;n relacionadas con edificaciones, equipos, instalaciones o maquinarias que <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1183745&amp;idParte=10376499&amp;idVersion=2022-11-03\">Decreto 71, SALUD<br>Art. &#xFA;nico<br>D.O. 03.11.2022</a></span>tuvieran fibras de asbesto friable, requerir&#xE1;n de autorizaci&#xF3;n previa de la autoridad sanitaria correspondiente. Para su obtenci&#xF3;n el due&#xF1;o de las edificaciones, maquinarias, equipos o instalaciones deber&#xE1; presentar un plan de trabajo en el que se prevean las medidas que se adoptar&#xE1;n para proteger la salud de los trabajadores y de la poblaci&#xF3;n aleda&#xF1;a.</div><br><div class=\"p\">&nbsp; &nbsp;  Deber&#xE1; siempre solicitarse la autorizaci&#xF3;n se&#xF1;alada, si durante el desarrollo de alguna de las actividades referidas se encuentra asbesto friable del que no se hubiere tenido conocimiento al inicio de las obras, paralizando las mismas hasta la obtenci&#xF3;n de dicho permiso.</div><br><div class=\"p\">&nbsp; &nbsp;  En el evento que el asbesto presente en las actividades sea no friable, se deber&#xE1; notificar a la autoridad sanitaria competente la realizaci&#xF3;n de la actividad, en forma previa a su inicio o tan pronto se encuentre el producto y acompa&#xF1;ar el plan de trabajo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

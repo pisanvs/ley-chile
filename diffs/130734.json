@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1988-09-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-10-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6150935,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; ACUERDO ADOPTADO POR EL COMITE EJECUTIVO DEL BANCO CENTRAL DE CHILE EN SU SESION No. 1.890 </div><div class=\"p\">&nbsp; &nbsp;  Certifico que el Comit&#xE9; Ejecutivo de este Banco Central de Chile en su Sesi&#xF3;n No. 1.890, celebrada el 29 de septiembre de 1988, adopt&#xF3; el siguiente acuerdo: </div></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-11-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-08-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5844590,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A EMASIL S.A.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A EMASIL S.A.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

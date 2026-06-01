@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-11-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-02-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7266801,
+          "old": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA GALILEA LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA GALILEA LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

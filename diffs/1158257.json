@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-04-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-05-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10216761,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base, la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados, en la Avenida del Mar en las v&#xED;as, d&#xED;as y horarios que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/124045.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Quedar&#xE1;n exceptuados de la prohibici&#xF3;n, los veh&#xED;culos de emergencia, veh&#xED;culos fiscales y los veh&#xED;culos destinados para subsanar los efectos de la calamidad p&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  3.- Los veh&#xED;culos no contemplados en el resuelvo anterior, y que deban obligatoriamente utilizar las v&#xED;as referidas, con el &#xFA;nico objeto de ingresar o egresar desde sus lugares de residencia o estacionamiento, podr&#xE1;n hacerlo, sin embargo, estos veh&#xED;culos deber&#xE1;n abandonar las v&#xED;as de restricci&#xF3;n en el cruce m&#xE1;s pr&#xF3;ximo al lugar en que se ubique la respectiva residencia o establecimiento.</div><div class=\"p\">&nbsp; &nbsp;  4.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, ser&#xE1;n los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita.</div><div class=\"p\">&nbsp; &nbsp;  5.- Notif&#xED;quese la presente al Jefe de la Defensa Nacional de la Regi&#xF3;n de Coquimbo, para que se adopten las medidas contenidas en el Plan de Contingencia y Medidas de Descongestionamiento Vial para la Avenida del Mar.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base, la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados, en la Avenida del Mar en las v&#xED;as, d&#xED;as y horarios que se indican a continuaci&#xF3;n<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1159476&amp;idParte=10226016&amp;idVersion=2021-05-13\">Resoluci&#xF3;n 400 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 13.05.2021</a></span>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/125728.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Quedar&#xE1;n exceptuados de la prohibici&#xF3;n, los veh&#xED;culos de emergencia, veh&#xED;culos fiscales y los veh&#xED;culos destinados para subsanar los efectos de la calamidad p&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  3.- Los veh&#xED;culos no contemplados en el resuelvo anterior, y que deban obligatoriamente utilizar las v&#xED;as referidas, con el &#xFA;nico objeto de ingresar o egresar desde sus lugares de residencia o estacionamiento, podr&#xE1;n hacerlo, sin embargo, estos veh&#xED;culos deber&#xE1;n abandonar las v&#xED;as de restricci&#xF3;n en el cruce m&#xE1;s pr&#xF3;ximo al lugar en que se ubique la respectiva residencia o establecimiento.</div><div class=\"p\">&nbsp; &nbsp;  4.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, ser&#xE1;n los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita.</div><div class=\"p\">&nbsp; &nbsp;  5.- Notif&#xED;quese la presente al Jefe de la Defensa Nacional de la Regi&#xF3;n de Coquimbo, para que se adopten las medidas contenidas en el Plan de Contingencia y Medidas de Descongestionamiento Vial para la Avenida del Mar.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1159476,
+      "fecha": "2021-05-13"
+    }
+  }
+]

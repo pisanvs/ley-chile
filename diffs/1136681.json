@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-12-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10055758,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Primero: Des&#xED;gnase como Consejeros del Consejo del Fondo de Solidaridad e Inversi&#xF3;n Social, a las siguientes personas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a) Do&#xF1;a Isabel Cecilia Pla Jarufe, c&#xE9;dula de identidad N&#xBA; 7.178.871-7, Ministra del Ministerio de la Mujer y la Equidad de G&#xE9;nero, en su calidad de representante de un organismo del Estado que desarrolla actividades relacionadas con la mujer;</div><div class=\"p\">&nbsp; &nbsp;  b) Don Conrad Martin Von Igel Grisar, c&#xE9;dula de identidad N&#xBA; 9.982.071-3, Director Ejecutivo del Centro de Innovaci&#xF3;n UC, en su calidad de representante de una universidad reconocida por el Estado;</div><div class=\"p\">&nbsp; &nbsp;  c) Don Jos&#xE9; Manuel Antonio D&#xED;az Zavala, c&#xE9;dula de identidad N&#xBA; 9.880.962-7, Vicepresidente Nacional de la Central Unitaria de Trabajadores (CUT), en su calidad de representante de los trabajadores;</div><div class=\"p\">&nbsp; &nbsp;  d) Do&#xF1;a Mar&#xED;a Soledad Ovando Green, c&#xE9;dula de identidad N&#xBA; 10.243.837-K, Directora Ejecutiva de la Asociaci&#xF3;n de Emprendedores de Chile, en su calidad de representante del sector empresarial;</div><div class=\"p\">&nbsp; &nbsp;  e) Don Claudio Armando Mu&#xF1;oz Z&#xFA;&#xF1;iga, c&#xE9;dula de identidad N&#xBA; 9.618.122-1, Presidente del Instituto Chileno de Administraci&#xF3;n Racional de Empresas, Icare, en su calidad de representante de la sociedad civil.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Primero: Des&#xED;gnase como Consejeros del Consejo del Fondo de Solidaridad e <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Inversi&#xF3;n Social, a las siguientes personas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a) Do&#xF1;a Isabel Cecilia Pla Jarufe, c&#xE9;dula de identidad N&#xBA; 7.178.871-7, Ministra del Ministerio de la Mujer y la Equidad de G&#xE9;nero, en su calidad de representante de un organismo del Estado que desarrolla actividades relacionadas con la mujer;</div><div class=\"p\">&nbsp; &nbsp;  b) Don Conrad Martin Von Igel Grisar, c&#xE9;dula de identidad N&#xBA; 9.982.071-3, Director Ejecutivo del Centro de Innovaci&#xF3;n UC, en su calidad de representante de una universidad reconocida por el Estado;</div><div class=\"p\">&nbsp; &nbsp;  c) Don Jos&#xE9; Manuel Antonio D&#xED;az Zavala, c&#xE9;dula de identidad N&#xBA; 9.880.962-7, Vicepresidente Nacional de la Central Unitaria de Trabajadores (CUT), en su calidad de representante de los trabajadores;</div><div class=\"p\">&nbsp; &nbsp;  d) Do&#xF1;a Mar&#xED;a Soledad Ovando Green, c&#xE9;dula de identidad N&#xBA; 10.243.837-K, Directora Ejecutiva de la Asociaci&#xF3;n de Emprendedores de Chile, en su calidad de representante del sector empresarial;</div><div class=\"p\">&nbsp; &nbsp;  e) Don Claudio Armando Mu&#xF1;oz Z&#xFA;&#xF1;iga, c&#xE9;dula de identidad N&#xBA; 9.618.122-1, Presidente del Instituto Chileno de Administraci&#xF3;n Racional de Empresas, Icare, en su calidad de representante de la sociedad civil.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo cuarto del Decreto 27, Desarrollo Social, publicado el 13.12.2021, modifica la presente norma en el sentido de dejar sin efecto las designaciones de consejeros del Fondo de Solidaridad e Inversi&#xF3;n Social dispuestas en los literales a), b), d) y e); asimismo, el articulo primero design&#xF3; como Consejeros del Consejo del Fondo de Solidaridad e Inversi&#xF3;n Social a las personas que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

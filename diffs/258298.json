@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-02-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-09-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6961156,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;. El Fondo estar&#xE1; constituido y se incrementar&#xE1; con los siguientes recursos:</div><br><div class=\"p\">a)&nbsp;  con los que a la fecha de entrada en vigencia del presente decreto con fuerza de ley se encontraren depositados en las cuentas correspondientes a los Fondos se&#xF1;alados en el art&#xED;culo 1&#xB0;, que se refunden;</div><div class=\"p\">b)&nbsp;  con los &#xED;ntegros que procedan por la aplicaci&#xF3;n del art&#xED;culo segundo transitorio de la ley N&#xB0; 19.030;</div><div class=\"p\">c)&nbsp;  con un aporte anual equivalente al saldo que resulte de restar al super&#xE1;vit efectivo, el aporte a que se refiere la letra a) del art&#xED;culo 6&#xB0; y el aporte efectuado en uso de la facultad se&#xF1;alada en el art&#xED;culo 11, ambos de la ley N&#xB0; 20.128, siempre que dicho saldo sea positivo; y </div><div class=\"p\">d)&nbsp;  con otros aportes extraordinarios que sean dispuestos para el Fondo, mediante decreto del Ministerio de Hacienda, provenientes de la venta de activos o de emisiones de deuda; as&#xED; como los dem&#xE1;s recursos que autoricen otras leyes.</div><br><div class=\"p\">&nbsp; &nbsp;  Los recursos se&#xF1;alados en las letras anteriores ser&#xE1;n enterados mediante una o m&#xE1;s cuotas hasta completar el total del aporte.</div><br><div class=\"p\">&nbsp; &nbsp;  Los recursos del Fondo se mantendr&#xE1;n en una o m&#xE1;s cuentas especiales del Servicio de Tesorer&#xED;as.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;. El Fondo estar&#xE1; constituido y se incrementar&#xE1; con los siguientes recursos:</div><br><div class=\"p\">a)&nbsp;  con los que a la fecha de entrada en vigencia del presente decreto con fuerza de ley se encontraren depositados en las cuentas correspondientes a los Fondos se&#xF1;alados en el art&#xED;culo 1&#xB0;, que se refunden;</div><div class=\"p\">b)&nbsp;  con los &#xED;ntegros que procedan por la aplicaci&#xF3;n del art&#xED;culo segundo transitorio de la ley N&#xB0; 19.030;</div><div class=\"p\">c)&nbsp;  con un aporte anual equivalente al saldo que resulte de restar al super&#xE1;vit efectivo, el aporte a que se refiere la letra a) del art&#xED;culo 6&#xB0; y el aporte efectuado en uso de la facultad se&#xF1;alada en el art&#xED;culo 11, ambos de la ley N&#xB0; 20.128, siempre que dicho saldo sea positivo. C<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1205794&amp;idParte=10512679&amp;idVersion=2024-08-14\">Ley 21683<br>Art. 3<br>D.O. 14.08.2024</a></span>on todo, en aquellos casos en que el super&#xE1;vit efectivo sea menor al Balance Estructural, el aporte del saldo mencionado anteriormente ser&#xE1; meramente facultativo;</div><div class=\"p\">d)&nbsp;  con otros aportes extraordinarios que sean dispuestos para el Fondo, mediante decreto del Ministerio de Hacienda, provenientes de la venta de activos o de emisiones de deuda; as&#xED; como los dem&#xE1;s recursos que autoricen otras leyes.</div><br><div class=\"p\">&nbsp; &nbsp;  Los recursos se&#xF1;alados en las letras anteriores ser&#xE1;n enterados mediante una o m&#xE1;s cuotas hasta completar el total del aporte.</div><br><div class=\"p\">&nbsp; &nbsp;  Los recursos del Fondo se mantendr&#xE1;n en una o m&#xE1;s cuentas especiales del Servicio de Tesorer&#xED;as.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-08-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-11-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10044237,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Recon&#xF3;zcase para el a&#xF1;o 2019 los siguientes alumnos que asisten a establecimientos educacionales con programas de integraci&#xF3;n escolar, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n de educaci&#xF3;n especial diferencial y/o necesidades educativas especiales de car&#xE1;cter transitorio, de acuerdo a lo dispuesto en el art&#xED;culo 9&#xBA; del decreto con fuerza de ley N&#xBA; 2, de 1998, que no fueron contemplados inicialmente por razones imprevistas y que se encuentran individualizados en listado contenido en el archivo con firma electr&#xF3;nica avanzada del Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, denominado &quot;COMPLEMENTO_1&#xBA;_REX_PIE con firma&quot;, versi&#xF3;n documento Excel, contenido en el disco compacto (CD) &quot;COMPLEMENTA REX N&#xBA; 2.961, PIE 2019 EXP. N&#xBA; 29712/2019&quot;, que se acompa&#xF1;a en anexo y que forma parte integrante de la presente resoluci&#xF3;n, para todos los efectos legales.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Recon&#xF3;zcase para el a&#xF1;o 2019 los siguientes alumnos que asisten a establecimientos educacionales con programas de integraci&#xF3;n escolar, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n de educaci&#xF3;n especial diferencial y/o necesidades educativas especiales de car&#xE1;cter transitorio, de acuerdo a lo dispuesto en el art&#xED;culo 9&#xBA; del decreto con fuerza de ley N&#xBA; 2, de 1998, que no fueron contemplados inicialmente por razones imprevistas y que <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1138389&amp;idParte=10066977&amp;idVersion=2019-11-07\">Resoluci&#xF3;n 5389 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2<br>D.O. 07.11.2019</a></span>se encuentran individualizados en listado &quot;1&#xBA; REX POSTULADOS PER&#xCD;ODO REGULAR 2019&quot;, versi&#xF3;n documento Excel, contenido en el disco compacto (CD) &quot;1 REX POSTULADOS PIE EXP. N&#xBA; 25413/2019&quot; del Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General; en el listado contenido en el archivo con firma electr&#xF3;nica avanzada del Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, denominado &quot;COMPLEMENTO_1&#xBA;_REX_PIE con firma&quot;, versi&#xF3;n documento Excel, contenido en el disco compacto (CD) &quot;COMPLEMENTA REX N&#xBA; 2961, PIE 2019 EXP. N&#xBA; 29712/2019&quot; y en el listado contenido en el archivo, denominado &quot;Copia de Copia de 3REX_PIE rl&quot;, versi&#xF3;n documento Excel, contenido en el disco compacto (CD) &quot;Listado de estudiantes PIE Solicita complementar REX N&#xBA; 2961/2019 Exp. N&#xBA; 50010/2019 Divisi&#xF3;n de Educaci&#xF3;n General&quot;, con firma electr&#xF3;nica avanzada del Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General del Ministerio de Educaci&#xF3;n que se acompa&#xF1;a en anexo y que forma parte integrante de la presente resoluci&#xF3;n..</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1138389,
+      "fecha": "2019-11-07"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-06-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6038162,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Santiago, 22 de mayo de 1977.- Jaime P&#xE9;rez de Arce Araya, Subsecretario de Educaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Santiago, 22 de mayo de 1997.- Jaime P&#xE9;rez de Arce<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O.13.06.1997</span> Araya, Subsecretario de Educaci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

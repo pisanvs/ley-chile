@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-10-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8357388,
+          "old": "<div><div class=\"p\">AUTORIZA CLOTILDE GALLARDO Y COMPA&#xD1;IA LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA CLOTILDE GALLARDO Y COMPA&#xD1;IA LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

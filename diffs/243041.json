@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1969-01-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-10-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7324294,
+          "old": "<div><div class=\"p\">REGLAMENTO DE LICENCIAS MEDICAS POR ENFERMEDAD DEL PESONAL REGIDO POR EL ESTATUTO DE LA ADMINISTRACION CIVIL DEL ESTADO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 18 de Diciembre de 1968.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.127.- Visto: las sugerencias presentadas por la Comisi&#xF3;n Especial creada por decreto supremo N&#xBA; 821, de 1965, modificado por el N&#xBA; 1.766, de 1967, ambos del Ministerio del Interior; lo dispuesto en el art&#xED;culo 94&#xBA; del DFL. N&#xBA; 338, de 1960, modificado por el art&#xED;culo 13&#xBA; de la ley N&#xBA; 16.585, y en uso de la facultad que me confiere el N&#xBA; 2 del art&#xED;culo 72&#xBA; de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">REGLAMENTO DE LICENCIAS MEDICAS POR ENFERMEDAD DEL<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> PESONAL REGIDO POR EL ESTATUTO DE LA ADMINISTRACION CIVIL DEL ESTADO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 18 de Diciembre de 1968.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.127.- Visto: las sugerencias presentadas por la Comisi&#xF3;n Especial creada por decreto supremo N&#xBA; 821, de 1965, modificado por el N&#xBA; 1.766, de 1967, ambos del Ministerio del Interior; lo dispuesto en el art&#xED;culo 94&#xBA; del DFL. N&#xBA; 338, de 1960, modificado por el art&#xED;culo 13&#xBA; de la ley N&#xBA; 16.585, y en uso de la facultad que me confiere el N&#xBA; 2 del art&#xED;culo 72&#xBA; de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 51 del DTO 202, Salud, publicado el 13.10.1981, derog&#xF3; las disposiciones de la presente norma, en lo que fueren contrarias o incompatibles con las contenidas en la citada norma derogatoria.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

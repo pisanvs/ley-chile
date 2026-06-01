@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-05-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-06-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7300169,
+          "old": "<div><div class=\"p\">AUTORIZA A MARITIMA Y PESQUERA BLIBA SOCIEDAD ANONIMA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A MARITIMA Y PESQUERA BLIBA SOCIEDAD ANONIMA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

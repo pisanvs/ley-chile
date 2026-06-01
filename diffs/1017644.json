@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-10-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-06-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9015496,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Si las conductas tipificadas en la Ley N&#xBA; 18.314 o en otras leyes fueren ejecutadas por menores de dieciocho a&#xF1;os, por aplicaci&#xF3;n del principio de especialidad se aplicar&#xE1;n siempre el procedimiento y las rebajas de penas contemplados en la <a href=\"https://www.leychile.cl/Navegar?idNorma=244803&amp;idParte=&amp;idVersion=\">Ley N&#xBA; 20.084</a>, que establece un sistema de responsabilidad penal adolescente.</div><div class=\"p\">&nbsp; &nbsp;  Ser&#xE1; circunstancia agravante de los delitos contemplados en la Ley N&#xBA; 18.314 actuar con menores de dieciocho a&#xF1;os.&quot;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; DEROGA<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1026712&amp;idParte=9151351&amp;idVersion=2011-06-21\">Ley 20519<br>Art. Segundo<br>D.O. 21.06.2011</a></span>DO.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1026712,
+      "fecha": "2011-06-21"
+    }
+  }
+]

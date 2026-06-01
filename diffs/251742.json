@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-07-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-08-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6577645,
+          "old": "<div><div class=\"p\">REFORMA DE ESTATUTOS DEL PARTIDO NACIONAL </div></div>",
+          "new": "<div><br><div class=\"p\">REFORMA DE ESTATUTOS DEL PARTIDO RENOVACION NACIONAL<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 01.08.2006</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

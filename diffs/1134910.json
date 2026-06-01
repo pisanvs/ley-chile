@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-08-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10046391,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rganse en la Zona &quot;C&quot; del Plan Regulador Comunal de Santiago de 1990, Barrio Buzeta, vigente para la comuna de Cerrillos, por el plazo de tres meses, los Permisos de Edificaci&#xF3;n de proyectos con sistema de agrupaci&#xF3;n continua con edificaci&#xF3;n aislada por sobre la altura m&#xE1;xima de continuidad que, su Ocupaci&#xF3;n del Suelo sea superior al 60%, su altura de continuidad sea superior a 12 metros, sus rasantes sean superiores a 60&#xBA;, su estacionamiento para vivienda en Edificios Colectivos y/o acogidos a la Ley de Copropiedad Inmobiliaria, sea inferior a 2 por cada vivienda.</div><div class=\"p\">&nbsp; &nbsp;  2. La normativa de la Enmienda N&#xBA;1 en etapa de aprobaci&#xF3;n, que justifica este decreto alcaldicio de postergaci&#xF3;n de permisos de edificaci&#xF3;n, se enmarca dentro de los m&#xE1;rgenes normativos establecidos en los art&#xED;culos N&#xBA; 45 de la Ley General de Urbanismo y Construcciones y 2.1.11 y 2.1.13 de la Ordenanza General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp;  3. En caso de ser necesario, el citado plazo de tres meses podr&#xE1; ser prorrogado, de conformidad con lo dispuesto en el art&#xED;culo 117 de la Ley General de Urbanismo y Construcciones. La vigencia de la postergaci&#xF3;n y eventual pr&#xF3;rroga comenzar&#xE1;n desde la fecha de publicaci&#xF3;n en el Diario Oficial del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese el presente decreto alcaldicio, por una vez, en el Diario Oficial y en uno de los diarios de mayor circulaci&#xF3;n en la comuna y en la p&#xE1;gina web institucional.</div><div class=\"p\">&nbsp; &nbsp;  5. Inf&#xF3;rmese a la comunidad mediante exhibici&#xF3;n del presente decreto y plano respectivo, en dependencias de esta Municipalidad.</div><div class=\"p\">&nbsp; &nbsp;  6. El gasto que genere la ejecuci&#xF3;n del presente decreto deber&#xE1; imputarse a la cuenta 215.22.07.001. &quot;Servicios de Publicidad &quot;del presupuesto municipal.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rganse en la Zona &quot;C&quot; del Plan Regulador Comunal de Santiago de 1990, Barrio Buzeta, vigente para la comuna de Cerrillos, por el plazo de tres meses, los Permisos de Edificaci&#xF3;n de proyectos con sistema de agrupaci&#xF3;n continua con edificaci&#xF3;n aislada por sobre la altura m&#xE1;xima de continuidad que, su Ocupaci&#xF3;n del Suelo sea superior al 60%, su altura de continuidad sea superior a 12 metros, sus rasantes sean superiores a 60&#xBA;, su <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1138580&amp;idParte=10067915&amp;idVersion=2019-11-13\">Decreto 1240 EXENTO,<br>M. DE CERRILLOS<br>N&#xB0; 1<br>D.O. 13.11.2019</a></span>estacionamiento para vivienda en Edificios Colectivos y/o acogidos a la Ley de Copropiedad Inmobiliaria, sea inferior a uno (1) por cada dos (2) viviendas.</div><div class=\"p\">&nbsp; &nbsp;  2. La normativa de la Enmienda N&#xBA;1 en etapa de aprobaci&#xF3;n, que justifica este decreto alcaldicio de postergaci&#xF3;n de permisos de edificaci&#xF3;n, se enmarca dentro de los m&#xE1;rgenes normativos establecidos en los art&#xED;culos N&#xBA; 45 de la Ley General de Urbanismo y Construcciones y 2.1.11 y 2.1.13 de la Ordenanza General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp;  3. En caso de ser necesario, el citado plazo de tres meses podr&#xE1; ser prorrogado, de conformidad con lo dispuesto en el art&#xED;culo 117 de la Ley General de Urbanismo y Construcciones. La vigencia de la postergaci&#xF3;n y eventual pr&#xF3;rroga comenzar&#xE1;n desde la fecha de publicaci&#xF3;n en el Diario Oficial del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese el presente decreto alcaldicio, por una vez, en el Diario Oficial y en uno de los diarios de mayor circulaci&#xF3;n en la comuna y en la p&#xE1;gina web institucional.</div><div class=\"p\">&nbsp; &nbsp;  5. Inf&#xF3;rmese a la comunidad mediante exhibici&#xF3;n del presente decreto y plano respectivo, en dependencias de esta Municipalidad.</div><div class=\"p\">&nbsp; &nbsp;  6. El gasto que genere la ejecuci&#xF3;n del presente decreto deber&#xE1; imputarse a la cuenta 215.22.07.001. &quot;Servicios de Publicidad &quot;del presupuesto municipal.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1138580,
+      "fecha": "2019-11-13"
+    }
+  }
+]

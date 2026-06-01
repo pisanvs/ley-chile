@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-09-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8963258,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREA INSTITUTO PROFESIONAL DE CHILLAN</div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xB0; 15.- Santiago, 10 de Marzo de 1981.- Teniendo presente la proposici&#xF3;n formulada por el Sr. Rector de la Universidad de Chile, en conformidad con lo dispuesto en el art&#xED;culo &#xFA;nico del D.F.L. N&#xB0; 2, de 1980, y visto lo dispuesto en el decreto ley N&#xB0; 3.541, de 1980, y en el D.F.L. N&#xB0; 5 de 1981.</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">CREA INSTITUTO PROFESIONAL DE CHILLAN<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xB0; 15.- Santiago, 10 de Marzo de 1981.- Teniendo presente la proposici&#xF3;n formulada por el Sr. Rector de la Universidad de Chile, en conformidad con lo dispuesto en el art&#xED;culo &#xFA;nico del D.F.L. N&#xB0; 2, de 1980, y visto lo dispuesto en el decreto ley N&#xB0; 3.541, de 1980, y en el D.F.L. N&#xB0; 5 de 1981.</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 3&#xB0; de la LEY 18744, publicada el 29.08.1988, derog&#xF3; el presente decreto con fuerza de ley, y estableci&#xF3; que la Universidad del B&#xED;o-B&#xED;o, creada por la misma ley, ser&#xE1; la continuadora legal del Instituto Profesional de Chill&#xE1;n, en el dominio de todos sus bienes, derechos y obligaciones.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

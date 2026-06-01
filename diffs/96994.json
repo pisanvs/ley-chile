@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1998-03-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-05-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6104876,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5: El Consejo Administrativo sesionar&#xE1; ordinariamente, una vez al mes, en el d&#xED;a y hora que fijen sus miembros en la primera sesi&#xF3;n del a&#xF1;o y se citar&#xE1; por escrito por el Jefe de Servicio de Bienestar.</div><div class=\"p\">&nbsp; &nbsp;  Sesionar&#xE1; extraordinariamente cuando proceda en conformidad al Art&#xED;culo 23 del Reglamento General, y le ser&#xE1; aplicable la misma forma de citaci&#xF3;n indicada en el inciso precedente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5.- El Consejo Administrativo sesionar&#xE1;<span class=\"n\" id=\"n_0\">DTO 14, TRABAJO<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 23.05.2002</span> ordinariamente, una vez cada dos meses, en el d&#xED;a y hora que fijen sus miembros y se citar&#xE1; por escrito por el Jefe del Servicio de Bienestar.</div><div class=\"p\">&nbsp; &nbsp;  Sesionar&#xE1; extraordinariamente cuando proceda en conformidad al art&#xED;culo 23 del Reglamento General y le ser&#xE1; aplicable la misma forma de citaci&#xF3;n indicada en el inciso precedente.</div><br></div>"
+        },
+        {
+          "part_id": 6104880,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8: El Servicio podr&#xE1; otorgar beneficios de car&#xE1;cter m&#xE9;dico y odontol&#xF3;gico a sus afiliados y causantes de asignaci&#xF3;n familiar, en la medida que sus recursos lo permitan, por los siguientes conceptos:</div><div class=\"p\">&nbsp; &nbsp;  a) Consulta m&#xE9;dica, consulta m&#xE9;dica domiciliaria, interconsulta y junta m&#xE9;dica.</div><div class=\"p\">&nbsp; &nbsp;  b) Intervenciones quir&#xFA;rgicas, atenci&#xF3;n de anestesista y arsenalera;</div><div class=\"p\">&nbsp; &nbsp;  c) Hospitalizaciones;</div><div class=\"p\">&nbsp; &nbsp;  d) Ex&#xE1;menes de laboratorio, Rayos X, histopatol&#xF3;gicos y especializados de car&#xE1;cter m&#xE9;dico;</div><div class=\"p\">&nbsp; &nbsp;  e) Atenci&#xF3;n odontol&#xF3;gica;</div><div class=\"p\">&nbsp; &nbsp;  f) Medicamentos;</div><div class=\"p\">&nbsp; &nbsp;  g) Implantes;</div><div class=\"p\">&nbsp; &nbsp;  h) Marcapasos;</div><div class=\"p\">&nbsp; &nbsp;  i) Tratamientos m&#xE9;dicos especializados;</div><div class=\"p\">&nbsp; &nbsp;  j) Consulta y tratamientos especializados para la recuperaci&#xF3;n de la salud, efectuados por personal profesional o t&#xE9;cnico autorizado de colaboraci&#xF3;n m&#xE9;dica;</div><div class=\"p\">&nbsp; &nbsp;  k) Adquisici&#xF3;n de anteojos, lentes de contacto, aud&#xED;fonos y aparatos ortop&#xE9;dicos,</div><div class=\"p\">&nbsp; &nbsp;  l) Toma de muestra de ex&#xE1;menes a domicilio, m) Atenci&#xF3;n de urgencia, primeros auxilios y enfermer&#xED;a;</div><div class=\"p\">&nbsp; &nbsp;  n) Atenci&#xF3;n obst&#xE9;trica;</div><div class=\"p\">&nbsp; &nbsp;  o) Traslados de enfermos;</div><div class=\"p\">&nbsp; &nbsp;  p) Insumos necesarios para el otorgamiento de las prestaciones de las letras b), d), g), h), i), j) y m) precedentes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8: El Servicio podr&#xE1; otorgar beneficios de car&#xE1;cter m&#xE9;dico y odontol&#xF3;gico a sus afiliados y causantes de asignaci&#xF3;n familiar, en la medida que sus recursos lo permitan, por los siguientes conceptos: a) Consulta m&#xE9;dica, consulta m&#xE9;dica domiciliaria,</div><div class=\"p\">interconsulta y junta m&#xE9;dica.</div><div class=\"p\">&nbsp; &nbsp;  b) Intervenciones quir&#xFA;rgicas, atenci&#xF3;n de</div><div class=\"p\">anestesista y arsenalera;</div><div class=\"p\">&nbsp; &nbsp;  c) Hospitalizaciones;</div><div class=\"p\">&nbsp; &nbsp;  d) Ex&#xE1;menes de laboratorio, Rayos X,</div><div class=\"p\">histopatol&#xF3;gicos y especializados de car&#xE1;cter m&#xE9;dico;</div><div class=\"p\">&nbsp; &nbsp;  e) Atenci&#xF3;n odontol&#xF3;gica;</div><div class=\"p\">&nbsp; &nbsp;  f) Medicamentos;</div><div class=\"p\">&nbsp; &nbsp;  g) Implantes;</div><div class=\"p\">&nbsp; &nbsp;  h) Marcapasos;</div><div class=\"p\">&nbsp; &nbsp;  i) Tratamientos m&#xE9;dicos especializados;</div><div class=\"p\">&nbsp; &nbsp;  j) Consulta y tratamientos especializados para la</div><div class=\"p\">recuperaci&#xF3;n de la salud, efectuados por personal</div><div class=\"p\">profesional o t&#xE9;cnico autorizado de colaboraci&#xF3;n m&#xE9;dica;</div><div class=\"p\">&nbsp; &nbsp;  k) Adquisici&#xF3;n de anteojos, lentes de contacto,</div><div class=\"p\">aud&#xED;fonos y aparatos ortop&#xE9;dicos,</div><div class=\"p\">&nbsp; &nbsp;  l) Toma de muestra de ex&#xE1;menes a domicilio,</div><div class=\"p\">&nbsp; &nbsp;  m) Atenci&#xF3;n de urgencia, primeros auxilios y</div><div class=\"p\">enfermer&#xED;a;</div><div class=\"p\">&nbsp; &nbsp;  n) Atenci&#xF3;n obst&#xE9;trica;</div><div class=\"p\">&nbsp; &nbsp;  o) Traslados de enfermos;</div><div class=\"p\">&nbsp; &nbsp;  p) Insumos necesarios para el otorgamiento de las</div><div class=\"p\">prestaciones de las letras b), d), g), h), i), j) y m)</div><div class=\"p\">precedentes.</div><div class=\"p\">&nbsp; &nbsp;  El Servicio de Bienestar podr&#xE1; financiar<span class=\"n\" id=\"n_1\">DTO 14, TRABAJO<br>Art. &#xFA;nico N&#xBA;2<br>D.O. 23.05.2002</span> con cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias, y contratar seguros de vida para sus afiliados, seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

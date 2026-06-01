@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-08-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7275498,
+          "old": "<div><div class=\"p\">INFORMA SOBRE LAS COLOCACIONES Y DEMAS ACTIVOS DE LAS</div><div class=\"p\">INSTITUCIONES FISCALIZADAS, SU CLASIFICACION Y</div><div class=\"p\">EVALUACION&nbsp; CONFORME&nbsp; A&nbsp; SU&nbsp; GRADO&nbsp; DE&nbsp; RECUPERABILIDAD</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 105.-&nbsp; Santiago, x deagosto de 2000.- Visto: 1&#xBA;&nbsp; Lo dispuesto en el art&#xED;culo 14,&nbsp; inciso segundo, de la Ley General de Bancos, referente a la obligaci&#xF3;n de esta Superintendencia de dar&nbsp; a conocer al p&#xFA;blico informaci&#xF3;n sobre las colocaciones y dem&#xE1;s activos de las instituciones fiscalizadas, su clasificaci&#xF3;n y evaluaci&#xF3;n conforme a su grado de recuperabilidad.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">INFORMA SOBRE LAS COLOCACIONES Y DEMAS ACTIVOS DE LAS</div><div class=\"p\">INSTITUCIONES FISCALIZADAS, SU CLASIFICACION Y</div><div class=\"p\">EVALUACION&nbsp; CONFORME&nbsp; A&nbsp; SU&nbsp; GRADO&nbsp; DE&nbsp; RECUPERABILIDAD</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 105.-&nbsp; Santiago, 4 de agosto de 2000.- Visto:<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 08.08.2000</span></div><div class=\"p\">1&#xBA;&nbsp; Lo dispuesto en el art&#xED;culo 14,&nbsp; inciso segundo, de</div><div class=\"p\">la Ley General de Bancos, referente a la obligaci&#xF3;n de esta Superintendencia de dar&nbsp; a conocer al p&#xFA;blico informaci&#xF3;n sobre las colocaciones y dem&#xE1;s activos de las instituciones fiscalizadas, su clasificaci&#xF3;n y evaluaci&#xF3;n conforme a su grado de recuperabilidad.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>"
+        }
+      ]
+    }
+  }
+]

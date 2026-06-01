@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8334447,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JUAN CARLOS ETCHEGARAY OCA&#xD1;A PARA INICIAR ACTIVIDADES PESQUERAS. DECLARA CADUCIDAD DE RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JUAN CARLOS ETCHEGARAY OCA&#xD1;A PARA INICIAR ACTIVIDADES PESQUERAS. DECLARA CADUCIDAD DE RESOLUCION QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

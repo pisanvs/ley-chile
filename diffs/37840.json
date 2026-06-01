@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-04-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7200722,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AMPLIA HASTA EL 18 DE ABRIL DE 1993, CALENDARIO DE RESTRICCION VEHICULAR QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 6 exenta.- Santiago, 19 de Marzo de 1993.- Visto: Lo dispuesto por los art&#xED;culos N&#xB0;s. 113 y 118 de la ley N&#xB0; 18.290; la resoluci&#xF3;n N&#xB0;59 de 1985, del Ministerio de Transportes y Telecomunicaciones; y lo prescrito en el art&#xED;culo 1&#xB0; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Los &#xED;ndices de contaminaci&#xF3;n registrados por el Servicio de Salud del Ambiente de la Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- El exceso de buses de mayor antig&#xFC;edad que circulan por el per&#xED;metro exterior al &#xE1;rea de exclusi&#xF3;n de veh&#xED;culos no licitados.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- La necesidad de prevenir situaciones de deterioro del medio ambiente, tanto en lo referente a calidad de aire como otros efectos nocivos a la calidad del ambiente que provoca un n&#xFA;mero excesivo de buses y taxibuses,</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">AMPLIA HASTA EL 18 DE ABRIL DE 1993, CALENDARIO DE RESTRICCION VEHICULAR QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 6 exenta.- Santiago, 19 de Marzo de 1993.- Visto: Lo dispuesto por los art&#xED;culos N&#xB0;s. 113 y 118 de la ley N&#xB0; 18.290; la resoluci&#xF3;n N&#xB0;59 de 1985, del Ministerio de Transportes y Telecomunicaciones; y lo prescrito en el art&#xED;culo 1&#xB0; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; y</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Los &#xED;ndices de contaminaci&#xF3;n registrados por el Servicio de Salud del Ambiente de la Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- El exceso de buses de mayor antig&#xFC;edad que circulan por el per&#xED;metro exterior al &#xE1;rea de exclusi&#xF3;n de veh&#xED;culos no licitados.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- La necesidad de prevenir situaciones de deterioro del medio ambiente, tanto en lo referente a calidad de aire como otros efectos nocivos a la calidad del ambiente que provoca un n&#xFA;mero excesivo de buses y taxibuses,</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

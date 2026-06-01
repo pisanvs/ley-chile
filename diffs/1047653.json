@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-02-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9324149,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base el tr&#xE1;nsito de camiones con carga peligrosa y la circulaci&#xF3;n de veh&#xED;culos de carga de peso bruto vehicular igual o superior a 5.000 kilogramos, por la Ruta 5, en el tramo que se encuentra incluido dentro del radio urbano de la comuna de Pozo Almonte, quedando de la siguiente forma el circuito para camiones.</div><div class=\"p\">-&nbsp; &nbsp; Para camiones que acceden por el norte de la Ruta 5 - Ruta A 65 - Bypass - Ruta 5 al sur.</div><div class=\"p\">-&nbsp; &nbsp; Para camiones que acceden por el sur de la Ruta 5 - Bypass - Ruta A 65 al oriente o Ruta 5 al norte.</div><br><br><div class=\"p\">&nbsp; &nbsp;  2.- La Direcci&#xF3;n Regional de Vialidad de Tarapac&#xE1; deber&#xE1; instalar la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito que corresponda conforme al Manual de Se&#xF1;alizaci&#xF3;n del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, Inspectores Municipales e Inspectores del Ministerio de Transportes y Telecomunicaciones son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la ley N&#xB0;18.290.</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a contar de la publicaci&#xF3;n en el Diario Oficial.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base el tr&#xE1;nsito de camiones con carga peligrosa y la circulaci&#xF3;n de veh&#xED;culos de carga de peso bruto vehicular igual o superior a 5.000 kilogramos, por la Ruta 5, en el tramo que se encuentra incluido dentro del radio urbano de la comuna de Pozo Almonte, quedando de la siguiente forma el circuito para camiones.</div><div class=\"p\">-&nbsp; &nbsp; Para camiones que acceden por el norte de la Ruta 5 - Ruta A 65 - Bypass - Ruta 5 al sur.</div><div class=\"p\">-&nbsp; &nbsp; Para camiones que acceden por el sur de la Ruta 5 - Bypass - Ruta A 65 al oriente o Ruta 5 al norte.</div><div class=\"p\">-&nbsp; &nbsp; Quedan excluido de esta prohibici&#xF3;n los camiones que se utilicen para realizar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1115378&amp;idParte=9888970&amp;idVersion=2018-02-21\">Resoluci&#xF3;n 103 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 21.02.2018</a></span> mantenciones peri&#xF3;dicas y de emergencia de las instalaciones de la red de agua potable y alcantarillado de la Localidad de Pozo Almonte.</div><br><br><div class=\"p\">&nbsp; &nbsp;  2.- La Direcci&#xF3;n Regional de Vialidad de Tarapac&#xE1; deber&#xE1; instalar la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito que corresponda conforme al Manual de Se&#xF1;alizaci&#xF3;n del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, Inspectores Municipales e Inspectores del Ministerio de Transportes y Telecomunicaciones son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la ley N&#xB0;18.290.</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a contar de la publicaci&#xF3;n en el Diario Oficial.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1115378,
+      "fecha": "2018-02-21"
+    }
+  }
+]

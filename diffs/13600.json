@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-12-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7149028,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTA APLICACION DE LA LETRA D) DEL ARTICULO 41 DE LA LEY N&#xB0; 19.253</div><div class=\"p\">&nbsp; &nbsp; Santiago, 25 de Octubre de 1994.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 464.- Visto: Lo dispuesto en el art&#xED;culo 41 de la Ley N&#xB0; 19.253; y las normas contenidas en el n&#xFA;mero 8&#xB0; del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTA APLICACION DE LA LETRA D) DEL ARTICULO 41 DE LA LEY N&#xB0; 19.253</div><div class=\"p\">&nbsp; &nbsp; Santiago, 25 de Octubre de 1994.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 464.- Visto: Lo dispuesto en el art&#xED;culo 41 de la Ley N&#xB0; 19.253; y las normas contenidas en el n&#xFA;mero 8&#xB0; del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

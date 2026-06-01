@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-04-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-04-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7135450,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DEROGA DECRETO QUE INDICA, Y ESTABLECE ORDEN DE SUBROGACION EN EL CARGO DE SUBSECRETARIO DE PREVISION SOCIAL</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 67.- Santiago, marzo 18 de 1996.- Vistos: Lo dispuesto por los art&#xED;culos 13&#xB0;, 74&#xB0; y 75&#xB0; de la Ley N&#xB0; 18.834, sobre Estatuto Administrativo; lo se&#xF1;alado en los art&#xED;culos 28&#xB0;, 29&#xB0;, 42&#xB0; y 51&#xB0; de la Ley N&#xB0; 18.575, Org&#xE1;nica Constitucional de Bases de la Administraci&#xF3;n P&#xFA;blica; el art&#xED;culo 49&#xB0; de la Ley N&#xB0; 18.827; el D.F.L.</div><div class=\"p\">N&#xB0; 12, de 1990, del Ministerio del Trabajo y Previsi&#xF3;n Social, Subsecretar&#xED;a de Previsi&#xF3;n Social, el D.S. 654, de 1994, del Ministerio del Interior, y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que, por D.S. N&#xB0; 10, de 1991, se estableci&#xF3; el orden de subrogaci&#xF3;n en el cargo de Subsecretario de Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que, por razones de buen servicio es necesario establecer un nuevo orden de subrogancia del cargo de Subsecretario de Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DEROGA DECRETO QUE INDICA, Y ESTABLECE ORDEN DE SUBROGACION EN EL CARGO DE SUBSECRETARIO DE PREVISION SOCIAL</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 67.- Santiago, marzo 18 de 1996.- Vistos: Lo dispuesto por los art&#xED;culos 13&#xB0;, 74&#xB0; y 75&#xB0; de la Ley N&#xB0; 18.834, sobre Estatuto Administrativo; lo se&#xF1;alado en los art&#xED;culos 28&#xB0;, 29&#xB0;, 42&#xB0; y 51&#xB0; de la Ley N&#xB0; 18.575, Org&#xE1;nica Constitucional de Bases de la Administraci&#xF3;n P&#xFA;blica; el art&#xED;culo 49&#xB0; de la Ley N&#xB0; 18.827; el D.F.L.</div><div class=\"p\">N&#xB0; 12, de 1990, del Ministerio del Trabajo y Previsi&#xF3;n Social, Subsecretar&#xED;a de Previsi&#xF3;n Social, el D.S. 654, de 1994, del Ministerio del Interior, y</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que, por D.S. N&#xB0; 10, de 1991, se estableci&#xF3; el orden de subrogaci&#xF3;n en el cargo de Subsecretario de Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que, por razones de buen servicio es necesario establecer un nuevo orden de subrogancia del cargo de Subsecretario de Previsi&#xF3;n Social.</div><br><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

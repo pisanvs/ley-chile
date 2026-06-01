@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1980-08-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6426163,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JUAN EUGENIO CONTRERAS HERRERA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JUAN EUGENIO CONTRERAS HERRERA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

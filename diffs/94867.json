@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-02-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-06-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325444,
+          "old": "<div><div class=\"p\">AUTORIZA A DON RODRIGO ARTURO CORREA MIGUEL PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON RODRIGO ARTURO CORREA MIGUEL PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

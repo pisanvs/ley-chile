@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-06-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-06-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6115410,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Ot&#xF3;rgase autorizaci&#xF3;n de funcionamiento a la &apos;&apos;Sociedad de Gesti&#xF3;n de Derechos de Obras Audiovisuales y Teatrales de Chile&apos;&apos; (Gesatch), para realizar gesti&#xF3;n colectiva de los derechos de los autores y dem&#xE1;s titulares relativos a: 1) administraci&#xF3;n del derecho exclusivo de comunicaci&#xF3;n p&#xFA;blica, 2) administraci&#xF3;n de los derechos exclusivos de reproducci&#xF3;n y de distribuci&#xF3;n al p&#xFA;blico y, 3) administraci&#xF3;n de los derechos exclusivos de transformaci&#xF3;n o adaptaci&#xF3;n cinematogr&#xE1;fica o audiovisual; que se deriven de la explotaci&#xF3;n de las obras literarias y teatrales, comprendidas en &#xE9;stas las dram&#xE1;ticas, dram&#xE1;tico-musicales, coreogr&#xE1;ficas, pantom&#xED;micas, de teatro para t&#xED;teres y marionetas y, de las obras cinematogr&#xE1;ficas y audiovisuales, sean originales o derivadas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Ot&#xF3;rgase autorizaci&#xF3;n de funcionamiento a la &quot;Sociedad de Autores Nacionales<span class=\"n\" id=\"n_0\">RES 6628 EXENTA,<br>EDUCACION<br>Art. &#xFA;nico<br>D.O. 12.06.2003</span> de Teatro, Cine y Audiovisuales&quot; (ATN), para realizar gesti&#xF3;n colectiva de los derechos de los autores y dem&#xE1;s titulares relativos a: 1) administraci&#xF3;n del derecho exclusivo de comunicaci&#xF3;n p&#xFA;blica, 2) administraci&#xF3;n de los derechos exclusivos de reproducci&#xF3;n y de distribuci&#xF3;n al p&#xFA;blico y, 3) administraci&#xF3;n de los derechos exclusivos de transformaci&#xF3;n o adaptaci&#xF3;n cinematogr&#xE1;fica o audiovisual; que se deriven de la explotaci&#xF3;n de las obras literarias y teatrales, comprendidas en &#xE9;stas las dram&#xE1;ticas, dram&#xE1;tico-musicales, coreogr&#xE1;ficas, pantom&#xED;micas, de teatro para t&#xED;teres y marionetas y, de las obras cinematogr&#xE1;ficas y audiovisuales, sean originales o derivadas. </div></div>"
+        }
+      ]
+    }
+  }
+]

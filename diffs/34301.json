@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-04-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-07-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8291760,
+          "old": "<div><div class=\"p\">DECLARA AREAS APROPIADAS PARA EL EJERCICIO DE LA ACUICULTURA EN LA VII REGION</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 319.- Valpara&#xED;so, 22 de Marzo de 1995.- Vistos: Lo dispuesto en el art&#xED;culo 67&#xB0; de la Ley General de Pesca y Acuicultura N&#xB0; 18.892 y sus modificaciones; lo informado por la Intendencia de la VII Regi&#xF3;n; por la Direcci&#xF3;n General del Territorio Mar&#xED;timo y Marina Mercante; por el Servicio Nacional de Pesca; por la Direcci&#xF3;n Regional de Turismo VII Regi&#xF3;n; por las Municipalidades de: Constituci&#xF3;n y Curepto; por la Federaci&#xF3;n de Pescadores Artesanales de la VII Regi&#xF3;n y el Informe T&#xE9;cnico N&#xB0; 138 del 22 de Febrero de 1995 del Departamento de Acuicultura de la Subsecretar&#xED;a de Pesca.</div><br><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">DECLARA AREAS APROPIADAS PARA EL EJERCICIO DE LA ACUICULTURA EN LA VII REGION</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 319.- Valpara&#xED;so, 22 de Marzo de 1995.- Vistos: Lo dispuesto en el art&#xED;culo 67&#xB0; de la Ley General de Pesca y Acuicultura N&#xB0; 18.892 y sus modificaciones; lo informado por la Intendencia de la VII Regi&#xF3;n; por la Direcci&#xF3;n General del Territorio Mar&#xED;timo y Marina Mercante; por el Servicio Nacional de Pesca; por la Direcci&#xF3;n Regional de Turismo VII Regi&#xF3;n; por las Municipalidades de: Constituci&#xF3;n y Curepto; por la Federaci&#xF3;n de Pescadores Artesanales de la VII Regi&#xF3;n y el Informe T&#xE9;cnico N&#xB0; 138 del 22 de Febrero de 1995 del Departamento de Acuicultura de la Subsecretar&#xED;a de Pesca.</div><br><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

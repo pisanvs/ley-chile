@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-04-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8963829,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase el enriquecimiento de los siguientes productos, en la forma y dosis que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp;  La forma y dosis aprobada para el enriquecimiento por cada porci&#xF3;n de 30 gramos de Cereales para el desayuno Zucosos, Trix, Estrellitas, Milo, Chocapic y Gold de Nestl&#xE9; Chile S.A. es la siguiente:</div><br><br><div class=\"p\">Vitamina B1&nbsp; &nbsp; &nbsp; &nbsp; : como tal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  0,35 mg</div><div class=\"p\">Vitamina B2&nbsp; &nbsp; &nbsp; &nbsp; : como tal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  0,40 mg</div><div class=\"p\">Vitamina B6&nbsp; &nbsp; &nbsp; &nbsp; : como tal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  0,50 mg</div><div class=\"p\">Vitamina B12&nbsp; &nbsp; &nbsp;  : en su forma pura&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  0,25 ug</div><div class=\"p\">Vitamina C&nbsp; &nbsp; &nbsp; &nbsp;  : como Acido Asc&#xF3;rbico&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  15 mg</div><div class=\"p\">Niacina&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : como tal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4,5 mg</div><div class=\"p\">Acido F&#xF3;lico&nbsp; &nbsp; &nbsp;  : en su forma pura&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  50 ug</div><div class=\"p\">Hierro+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : hierro reducido&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  3,5 mg</div><div class=\"p\">Acido Pantot&#xE9;nico&nbsp; : como tal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1,5 mg.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase el enriquecimiento de los siguientes productos, en la forma y dosis que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp;  La forma y dosis aprobada para el enriquecimiento por cada porci&#xF3;n de 30 gramos de Cereales para el desayuno Zucosos, Trix, Estrellitas, Milo, Chocapic y Gold de Nestl&#xE9; Chile S.A. es la siguiente:</div><br><br><div class=\"p\">Vitamina B1&nbsp; &nbsp; &nbsp; &nbsp; : como tal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  0,35 mg</div><div class=\"p\">Vitamina B2&nbsp; &nbsp; &nbsp; &nbsp; : como tal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  0,40 mg</div><div class=\"p\">Vitamina B6&nbsp; &nbsp; &nbsp; &nbsp; : como tal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  0,50 mg</div><div class=\"p\">Vitamina B12&nbsp; &nbsp; &nbsp;  : en su forma pura&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  0,25 ug</div><div class=\"p\">Vitamina C&nbsp; &nbsp; &nbsp; &nbsp;  : como Acido Asc&#xF3;rbico&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  15 mg</div><div class=\"p\">Niacina&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : como tal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4,5 mg</div><div class=\"p\">Acido F&#xF3;lico&nbsp; &nbsp; &nbsp;  : en su forma pura&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  50 ug</div><div class=\"p\">Hierro+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : hierro reducido&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  3,5 mg</div><div class=\"p\">Acido Pantot&#xE9;nico&nbsp; : como tal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1,5 mg.</div><div class=\"p\">Zinc, &#xF3;xido de zinc:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2,25mg<span class=\"n\" id=\"n_0\">RES 591 EXENTA<br>SALUD<br>D.O. 13.04.1999</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

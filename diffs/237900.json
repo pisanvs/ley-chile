@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-07-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-07-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9008236,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Los alumnos que hubieren aprobado la o las Especialidades, los Ramos Complementarios y el 3er. nivel de Educaci&#xF3;n General B&#xE1;sica a Distancia, recibir&#xE1;n el t&#xED;tulo de Artesano en la o las Especialidades correspondientes, otorgado por el Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Los alumnos que hubieren aprobado la o las Especialidades, los Ramos Complementarios y el 3er. nivel de Educaci&#xF3;n General B&#xE1;sica a Distancia,<span class=\"n\" id=\"n_0\">DTO 7 EXENTO,<br>EDUCACION<br>Art. 1&#xBA; a)<br>D.O. 09.02.1984<br>DTO 112 EXENTO,<br>EDUCACION<br>Art. &#xFA;nico<br>D.O. 29.07.1989</span> recibir&#xE1;n el t&#xED;tulo de Maestro Artesano en la o las Especialidades correspondientes, otorgado por el Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, los alumnos que hubieren aprobado el Segundo Semestre de las Especialidades y de los Ramos Complementarios y el 3er. Nivel de Educaci&#xF3;n B&#xE1;sica a Distancia, recibir&#xE1;n el t&#xED;tulo de Artesano en la o las Especialidades correspondientes, otorgado por el Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

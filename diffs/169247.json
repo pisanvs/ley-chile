@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-11-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-11-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7270186,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

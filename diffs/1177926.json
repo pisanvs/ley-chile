@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-06-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10344989,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el 30 de septiembre de 2022, sin perjuicio de la facultad de poner t&#xE9;rmino anticipado si las condiciones sanitarias as&#xED; lo permiten o de prorrogarlo en caso de que estas no mejoren.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1182130&amp;idParte=10369550&amp;idVersion=2022-09-30\">Decreto 74,<br>SALUD<br>Art. 1&#xB0;<br>D.O. 30.09.2022</a></span>31 de marzo 2023, sin perjuicio de la facultad de poner t&#xE9;rmino anticipado si las condiciones sanitarias as&#xED; lo permiten o de prorrogarlo en caso de que estas no mejoren.&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1182130,
+      "fecha": "2022-09-30"
+    }
+  }
+]

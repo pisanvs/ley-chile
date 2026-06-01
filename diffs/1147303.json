@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-07-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-07-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10134615,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n exenta N&#xB0; 2.189, de fecha 30 de junio de 2020, del Director Nacional de Aduanas, se modifica Manual de Pagos con instrucciones sobre aplicaci&#xF3;n de preferencia para Pa&#xED;ses Menos Adelantados. Modifica el numeral 2 relativo a &quot;Procedimientos de Tramitaci&#xF3;n de las Devoluciones&quot;, del Cap&#xED;tulo IV del Manual de Pagos. Incorpora el Anexo N&#xB0; 1 &quot;Vigencia de la prueba de origen y plazo para solicitar la devoluci&#xF3;n de derechos&quot; al Cap&#xED;tulo IV del Manual de Pagos, adjunto a la presente resoluci&#xF3;n. Deroga la <a href=\"https://www.leychile.cl/navegar?idNorma=1058460&amp;idVersion=2020-07-08\">resoluci&#xF3;n N&#xB0; 14.229, de fecha 30.12.2013</a>, del Director Nacional de Aduanas.</div><div class=\"p\">&nbsp; &nbsp;  Las instrucciones dispuestas en la citada resoluci&#xF3;n comenzar&#xE1;n a regir el 4 de agosto del presente a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  El texto &#xED;ntegro de esta resoluci&#xF3;n se encuentra publicado en el sitio web del Servicio Nacional de Aduanas (www.aduana.cl).- </div><div class=\"p\">&nbsp; &nbsp;  </div><br><br></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n exenta N&#xB0; 2.189, de fecha 30 de junio de 2020, del Director Nacional de Aduanas, se modifica Manual de Pagos con instrucciones sobre aplicaci&#xF3;n de preferencia para Pa&#xED;ses Menos Adelantados. Modifica el numeral 2 relativo a &quot;Procedimientos de Tramitaci&#xF3;n de las Devoluciones&quot;, del Cap&#xED;tulo IV del Manual de Pagos. Incorpora el Anexo N&#xB0; 1 &quot;Vigencia de la prueba de origen y plazo para solicitar la devoluci&#xF3;n de derechos&quot; al Cap&#xED;tulo IV del Manual de Pagos, adjunto a la presente resoluci&#xF3;n. Deroga la resoluci&#xF3;n N&#xB0; 14.229, de fecha 30.12.2013, del Director Nacional de Aduanas.</div><div class=\"p\">&nbsp; &nbsp;  Las instrucciones dispuestas en la citada resoluci&#xF3;n comenzar&#xE1;n a regir el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1147769&amp;idParte=10139349&amp;idVersion=2020-07-25\">Resoluci&#xF3;n 2345 EXENTA, <br>HACIENDA<br>D.O. 25.07.2020</a></span>24 de agosto del presente a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  El texto &#xED;ntegro de esta resoluci&#xF3;n se encuentra publicado en el sitio web del Servicio Nacional de Aduanas (www.aduana.cl).- </div><div class=\"p\">&nbsp; &nbsp;  </div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1147769,
+      "fecha": "2020-07-25"
+    }
+  }
+]

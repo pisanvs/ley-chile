@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2016-04-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-07-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9696341,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: F&#xED;jase la siguiente planta de personal del Ministerio de Educaci&#xF3;n, Subsecretar&#xED;a de Educaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57186.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: F&#xED;jase<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> la siguiente planta de personal del<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> Ministerio de Educaci&#xF3;n, Subsecretar&#xED;a de Educaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57186.jpg\">.</div><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El articulo primero, N&#xB0; 1, del DFL 18, Hacienda, publicado el 09.07.2018, crea un cargo de Secretario Regional Ministerial de Educaci&#xF3;n, grado 4&#xB0;, en la planta de personal de Directivos de Exclusiva Confianza, del Ministerio de Educaci&#xF3;n.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El articulo primero, N&#xB0; 2, del DFL 18, Hacienda, publicado el 09.07.2018, crea tres cargos de Jefes de Departamentos, grado 8&#xB0;, en la planta de personal de Directivos afectos al art&#xED;culo 8&#xB0; del decreto con fuerza de ley N&#xB0; 29, de 2004, del Ministerio de Educaci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-12-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9696341,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: F&#xED;jase<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> la siguiente planta de personal del<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> Ministerio de Educaci&#xF3;n, Subsecretar&#xED;a de Educaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57186.jpg\">.</div><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El articulo primero, N&#xB0; 1, del DFL 18, Hacienda, publicado el 09.07.2018, crea un cargo de Secretario Regional Ministerial de Educaci&#xF3;n, grado 4&#xB0;, en la planta de personal de Directivos de Exclusiva Confianza, del Ministerio de Educaci&#xF3;n.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El articulo primero, N&#xB0; 2, del DFL 18, Hacienda, publicado el 09.07.2018, crea tres cargos de Jefes de Departamentos, grado 8&#xB0;, en la planta de personal de Directivos afectos al art&#xED;culo 8&#xB0; del decreto con fuerza de ley N&#xB0; 29, de 2004, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: F&#xED;jase<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> la siguiente planta de personal del<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> Ministerio de Educaci&#xF3;n, Subsecretar&#xED;a de Educaci&#xF3;n:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57186.jpg\">.</div><br><br><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El articulo primero, N&#xB0; 1, del DFL 18, Hacienda, publicado el 09.07.2018, crea un cargo de Secretario Regional Ministerial de Educaci&#xF3;n, grado 4&#xB0;, en la planta de personal de Directivos de Exclusiva Confianza, del Ministerio de Educaci&#xF3;n.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El articulo primero, N&#xB0; 2, del DFL 18, Hacienda, publicado el 09.07.2018, crea tres cargos de Jefes de Departamentos, grado 8&#xB0;, en la planta de personal de Directivos afectos al art&#xED;culo 8&#xB0; del decreto con fuerza de ley N&#xB0; 29, de 2004, del Ministerio de Educaci&#xF3;n.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 56 de la Ley 21526, publicada el 28.12.2022, crea dos cargos de Jefe/a Provinciales de Educaci&#xF3;n, grado 7&#xB0; E.U.S., en la planta de personal de Directivos de Exclusiva Confianza del Ministerio de Educaci&#xF3;n, Subsecretar&#xED;a de Educaci&#xF3;n, contenida en el presente art&#xED;culo.</div></div>"
+        }
+      ]
+    }
+  }
+]

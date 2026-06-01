@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "2007-01-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-10-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8788558,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1007019&amp;idParte=8788553&amp;idVersion=2009-10-09\">Decreto 1885 EXENTO,<br>M. DE SIERRA GORDA<br>N&#xB0; 4<br>D.O. 09.10.2009</a></span>cap&#xED;tulo VI</div><br></div>"
+        },
+        {
+          "part_id": 8788559,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1007019&amp;idParte=8788553&amp;idVersion=2009-10-09\">Decreto 1885 EXENTO,<br>M. DE SIERRA GORDA<br>N&#xB0; 4<br>D.O. 09.10.2009</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; art&#xED;culo transitorio: que los alumnos de ense&#xF1;anza superior podr&#xE1;n postular hasta el 30 de septiembre de 2009, por esta &#xFA;nica vez.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7335651,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xB0;: Las postulaciones a las becas ser&#xE1;n recibidas en la oficina de la Direcci&#xF3;n de Desarrollo Comunitario de la Municipalidad durante el mes de enero de cada a&#xF1;o, mediante el formulario de postulaci&#xF3;n y los documentos que se se&#xF1;alan a continuaci&#xF3;n:</div><br><div class=\"p\">-&nbsp; &nbsp; Certificado de nacimiento original.</div><div class=\"p\">-&nbsp; &nbsp; Fotocopia de la c&#xE9;dula de identidad por ambos lados.</div><div class=\"p\">-&nbsp; &nbsp; Comprobante de matr&#xED;cula y/o certificado de alumno regular.</div><div class=\"p\">-&nbsp; &nbsp; Concentraci&#xF3;n de notas y/o certificados de estudios del per&#xED;odo anterior a la postulaci&#xF3;n.</div><div class=\"p\">-&nbsp; &nbsp; Certificado de residencia extendido por la Junta de vecinos correspondiente a su domicilio.</div><div class=\"p\">-&nbsp; &nbsp; En el caso de los estudiantes de ense&#xF1;anza media, haber aprobado el curso anterior con a lo menos un promedio acad&#xE9;mico de 5.8.</div><div class=\"p\">-&nbsp; &nbsp; En el caso de los estudiantes de educaci&#xF3;n superior el m&#xED;nimo de promedio acad&#xE9;mico exigido ser&#xE1; de nota 5.0 anual y un 70% de las asignaturas cursadas en el a&#xF1;o aprobado, como m&#xED;nimo.</div><div class=\"p\">-&nbsp; &nbsp; Cumplir con el procedimiento de inscripci&#xF3;n y postulaci&#xF3;n a la Beca.</div><div class=\"p\">-&nbsp; &nbsp; No podr&#xE1;n postular alumnos que hayan obtenido un t&#xED;tulo de Educaci&#xF3;n Superior y que se encuentren cursando estudios de post grado.</div><div class=\"p\">-&nbsp; &nbsp; No podr&#xE1;n postular a la Beca los alumnos que hayan perdido el beneficio en el ciclo lectivo anterior a la convocatoria de inscripci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xB0;: Las postulaciones a las becas ser&#xE1;n recibidas en la oficina de la Direcci&#xF3;n de Desarrollo Comunitario de la Municipalidad <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1007019&amp;idParte=8788553&amp;idVersion=2009-10-09\">Decreto 1885 EXENTO,<br>M. DE SIERRA GORDA<br>N&#xB0; 1<br>D.O. 09.10.2009</a></span>hasta el 30 de abril de cada a&#xF1;o, adem&#xE1;s para los estudiantes de nivel superior en el segundo semestre hasta el 31 de agosto de cada a&#xF1;o, mediante el formulario de postulaci&#xF3;n y los documentos que se se&#xF1;alan a continuaci&#xF3;n:</div><br><div class=\"p\">-&nbsp; &nbsp; Certificado de nacimiento original.</div><div class=\"p\">-&nbsp; &nbsp; Fotocopia de la c&#xE9;dula de identidad por ambos lados.</div><div class=\"p\">-&nbsp; &nbsp; Comprobante de matr&#xED;cula y/o certificado de alumno regular.</div><div class=\"p\">-&nbsp; &nbsp; Concentraci&#xF3;n de notas y/o certificados de estudios del per&#xED;odo anterior a la postulaci&#xF3;n.</div><div class=\"p\">-&nbsp; &nbsp; Certificado de residencia extendido por la Junta de vecinos correspondiente a su domicilio.</div><div class=\"p\">-&nbsp; &nbsp; En el caso de los estudiantes de ense&#xF1;anza media, haber aprobado el curso anterior con a lo menos un promedio acad&#xE9;mico de 5.0.<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1007019&amp;idParte=8788553&amp;idVersion=2009-10-09\">Decreto 1885 EXENTO,<br>M. DE SIERRA GORDA<br>N&#xB0; 1<br>D.O. 09.10.2009</a></span></div><div class=\"p\">-&nbsp; &nbsp; En el caso de los estudiantes de educaci&#xF3;n superior el requisito exigido es acreditar al inicio de cada semestre su calidad de alumno regular mediante certificado emitido por las Universidades o Institutos Superiores a que pertenece.</div><div class=\"p\">-&nbsp; &nbsp; Cumplir con el procedimiento de inscripci&#xF3;n y postulaci&#xF3;n a la Beca.</div><div class=\"p\">-&nbsp; &nbsp; No podr&#xE1;n postular alumnos que hayan obtenido un t&#xED;tulo de Educaci&#xF3;n Superior y que se encuentren cursando estudios de post grado.</div><div class=\"p\">-&nbsp; &nbsp; No podr&#xE1;n postular a la Beca los alumnos que hayan perdido el beneficio en el ciclo lectivo anterior a la convocatoria de inscripci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1007019&amp;idParte=8788553&amp;idVersion=2009-10-09\">Decreto 1885 EXENTO,<br>M. DE SIERRA GORDA<br>N&#xB0; 1<br>D.O. 09.10.2009</a></span>En caso de fuerza mayor o caso fortuito debidamente acreditado el comit&#xE9; de evaluaci&#xF3;n de becas, podr&#xE1; reevaluar una postulaci&#xF3;n fuera de plazo.</div><br></div>"
+        },
+        {
+          "part_id": 7335661,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xB0;: Las becas se conceder&#xE1;n en estricto orden de prelaci&#xF3;n comenzando por los concursantes que tengan mayores calificaciones, decreciendo de manera directamente proporcional hasta extinguirse en el l&#xED;mite 5.80 para los estudiantes de ense&#xF1;anza media y en el l&#xED;mite 5,00 para los alumnos de educaci&#xF3;n superior, todo ello de acuerdo a la escala de m&#xE9;ritos establecida por el Comit&#xE9; de Becas.</div><div class=\"p\">&nbsp; &nbsp;  En cualquier caso el comit&#xE9; seleccionador no tendr&#xE1; atribuci&#xF3;n alguna para incorporar a los listados de alumnos seleccionados a quienes no cumplan con el requisito de la nota m&#xED;nima exigida.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xB0;: Las becas se conceder&#xE1;n en estricto orden de prelaci&#xF3;n comenzando por los concursantes que tengan mayores calificaciones, decreciendo de manera directamente proporcional hasta extinguirse en el l&#xED;mite 5.0 para los estudiantes de ense&#xF1;anza media y <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1007019&amp;idParte=8788553&amp;idVersion=2009-10-09\">Decreto 1885 EXENTO,<br>M. DE SIERRA GORDA<br>N&#xB0; 2<br>D.O. 09.10.2009</a></span>en el caso de los estudiantes de educaci&#xF3;n superior el requisito exigido es acreditar al inicio de cada semestre su calidad de alumno regular mediante certificado emitido por las Universidades o Institutos Superiores a que pertenece, todo ello de acuerdo a la escala de m&#xE9;ritos establecida por el Comit&#xE9; de Becas.</div><div class=\"p\">&nbsp; &nbsp;  En cualquier caso el comit&#xE9; seleccionador no tendr&#xE1; atribuci&#xF3;n alguna para incorporar a los listados de alumnos seleccionados a quienes no cumplan con el requisito de la nota m&#xED;nima exigida.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1007019,
+      "fecha": "2009-10-09"
+    }
+  }
+]

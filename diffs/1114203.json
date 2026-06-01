@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-10-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9879529,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Segundo: Modif&#xED;quese resoluci&#xF3;n exenta N&#xBA; 3.913, de fecha 15 de septiembre de 2016, espec&#xED;ficamente donde dice: &quot;Ejercer aquellas atribuciones contenidas en el art&#xED;culo 177 del C&#xF3;digo Sanitario y adoptar las medidas sanitarias de emergencia establecidas en el art&#xED;culo 178 del C&#xF3;digo Sanitario&quot;, debe decir: &quot;Ejercer aquellas atribuciones contenidas en el art&#xED;culo 177 del C&#xF3;digo Sanitario las que recaer&#xE1;n en forma exclusiva en el Jefe de Departamento de Acci&#xF3;n Sanitaria&quot;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Segundo: Modif&#xED;quese <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>resoluci&#xF3;n exenta N&#xBA; 3.913, de fecha 15 de septiembre de 2016, espec&#xED;ficamente donde dice: &quot;Ejercer aquellas atribuciones contenidas en el art&#xED;culo 177 del C&#xF3;digo Sanitario y adoptar las medidas sanitarias de emergencia establecidas en el art&#xED;culo 178 del C&#xF3;digo Sanitario&quot;, debe decir: &quot;Ejercer aquellas atribuciones contenidas en el art&#xED;culo 177 del C&#xF3;digo Sanitario las que recaer&#xE1;n en forma exclusiva en el Jefe de Departamento de Acci&#xF3;n Sanitaria&quot;.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 3146 Exenta, Salud, publicada 18.10.2019, modifica en su parte resolutiva en el punto segundo, la resoluci&#xF3;n exenta N&#xBA; 2.105, de fecha 14 de junio de 2017 y la presente norma, las cuales son parte integrante de la resoluci&#xF3;n exenta N&#xBA; 2.544, de fecha 15 de junio de 2016 de la forma que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "2017-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-12-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9764052,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Primero: Establ&#xE9;cese el siguiente orden de subrogaci&#xF3;n en el cargo de Secretario Regional Ministerial del Trabajo y Previsi&#xF3;n Social, en caso de ausencia temporal o impedimento transitorio de &#xE9;ste, en el orden de prelaci&#xF3;n que se indica:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1) Director(a) Regional del Trabajo</div><div class=\"p\">&nbsp; &nbsp;  2) Director(a) Regional del Servicio Nacional de Capacitaci&#xF3;n y Empleo</div><div class=\"p\">&nbsp; &nbsp;  3) Director(a) Regional del Instituto de Previsi&#xF3;n Social</div><div class=\"p\">&nbsp; &nbsp;  4) Director(a) Regional del Instituto de Seguridad Laboral</div><div class=\"p\">&nbsp; &nbsp;  5) Administradores(as) de las Unidades de Cr&#xE9;dito de la Direcci&#xF3;n General del Cr&#xE9;dito Prendario.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Primero: Establ&#xE9;cese el siguiente orden de subrogaci&#xF3;n en el cargo de Secretario Regional Ministerial del Trabajo y Previsi&#xF3;n Social, en caso de ausencia temporal o impedimento transitorio de &#xE9;ste, en el orden de prelaci&#xF3;n que se indica:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1) Director(a) Regional del Trabajo</div><div class=\"p\">&nbsp; &nbsp;  2) Director(a) Regional del Servicio Nacional de Capacitaci&#xF3;n y Empleo</div><div class=\"p\">&nbsp; &nbsp;  3) Director(a) Regional del Instituto de Previsi&#xF3;n Social</div><div class=\"p\">&nbsp; &nbsp;  4) Director(a) Regional del Instituto de Seguridad Laboral</div><div class=\"p\">&nbsp; &nbsp;  5) Administradores(as) de las Unidades de Cr&#xE9;dito de la Direcci&#xF3;n General del Cr&#xE9;dito Prendario.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo del Decreto 300 Exento, Trabajo, publicado el 11.12.2018, modifica la presente norma en el sentido que dispone orden de subrogaci&#xF3;n para los Secretarios Regionales Ministeriales del Trabajo y Previsi&#xF3;n Social, solo en lo correspondiente a los &#xF3;rdenes de subrogaci&#xF3;n de los cargos de Secretario/a Regional Ministerial del Trabajo y Previsi&#xF3;n Social de la Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo, de Magallanes y de la Ant&#xE1;rtica Chilena, de Tarapac&#xE1; y del Libertador General Bernardo O&apos;Higgins.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-04-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9764052,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Primero: Establ&#xE9;cese el siguiente orden de subrogaci&#xF3;n en el cargo de Secretario Regional Ministerial del Trabajo y Previsi&#xF3;n Social, en caso de ausencia temporal o impedimento transitorio de &#xE9;ste, en el orden de prelaci&#xF3;n que se indica:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1) Director(a) Regional del Trabajo</div><div class=\"p\">&nbsp; &nbsp;  2) Director(a) Regional del Servicio Nacional de Capacitaci&#xF3;n y Empleo</div><div class=\"p\">&nbsp; &nbsp;  3) Director(a) Regional del Instituto de Previsi&#xF3;n Social</div><div class=\"p\">&nbsp; &nbsp;  4) Director(a) Regional del Instituto de Seguridad Laboral</div><div class=\"p\">&nbsp; &nbsp;  5) Administradores(as) de las Unidades de Cr&#xE9;dito de la Direcci&#xF3;n General del Cr&#xE9;dito Prendario.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo del Decreto 300 Exento, Trabajo, publicado el 11.12.2018, modifica la presente norma en el sentido que dispone orden de subrogaci&#xF3;n para los Secretarios Regionales Ministeriales del Trabajo y Previsi&#xF3;n Social, solo en lo correspondiente a los &#xF3;rdenes de subrogaci&#xF3;n de los cargos de Secretario/a Regional Ministerial del Trabajo y Previsi&#xF3;n Social de la Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo, de Magallanes y de la Ant&#xE1;rtica Chilena, de Tarapac&#xE1; y del Libertador General Bernardo O&apos;Higgins.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Primero: Establ&#xE9;cese el siguiente orden de subrogaci&#xF3;n en el cargo de Secretario Regional Ministerial del Trabajo y Previsi&#xF3;n Social, en caso de ausencia temporal o impedimento transitorio de &#xE9;ste, en el orden de prelaci&#xF3;n que se indica:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1) Director(a) Regional del Trabajo</div><div class=\"p\">&nbsp; &nbsp;  2) Director(a) Regional del Servicio Nacional de Capacitaci&#xF3;n y Empleo</div><div class=\"p\">&nbsp; &nbsp;  3) Director(a) Regional del Instituto de Previsi&#xF3;n Social</div><div class=\"p\">&nbsp; &nbsp;  4) Director(a) Regional del Instituto de Seguridad Laboral</div><div class=\"p\">&nbsp; &nbsp;  5) Administradores(as) de las Unidades de Cr&#xE9;dito de la Direcci&#xF3;n General del Cr&#xE9;dito Prendario.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo del Decreto 300 Exento, Trabajo, publicado el 11.12.2018, modifica la presente norma en el sentido que dispone orden de subrogaci&#xF3;n para los Secretarios Regionales Ministeriales del Trabajo y Previsi&#xF3;n Social, solo en lo correspondiente a los &#xF3;rdenes de subrogaci&#xF3;n de los cargos de Secretario/a Regional Ministerial del Trabajo y Previsi&#xF3;n Social de la Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo, de Magallanes y de la Ant&#xE1;rtica Chilena, de Tarapac&#xE1; y del Libertador General Bernardo O&apos;Higgins.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp;  El art&#xED;culo segundo del Decreto 52 Exento, Trabajo, publicado el 11.04.2019, modifica la presente norma en el sentido que dispone orden de subrogaci&#xF3;n para los Secretarios Regionales Ministeriales del Trabajo y Previsi&#xF3;n Social, solo en lo correspondiente a los &#xF3;rdenes de subrogaci&#xF3;n de los cargos de Secretario/a Regional Ministerial del Trabajo y Previsi&#xF3;n Social de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-09-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

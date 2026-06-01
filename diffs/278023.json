@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2008-09-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6659892,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  T&#xCD;TULO I</div><br><div class=\"p\">&nbsp; &nbsp;  Objetivos del Servicio de Bienestar</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; T&#xCD;TULO I</div><div class=\"p\">&nbsp; &nbsp;  D<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1149673&amp;idParte=10160972&amp;idVersion=2020-09-21\">Decreto 247 EXENTO, <br>TRABAJO<br>Art. &#xDA;NICO <br>D.O. 21.09.2020</a></span>EL OBJETIVO Y FINES</div><br><br><br><br><br><br><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 6659897,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;: El Consejo Administrativo sesionar&#xE1; ordinariamente cada tres meses, en el d&#xED;a y hora que fijen sus miembros. Las citaciones de sus miembros para las sesiones ordinarias y para las extraordinarias las har&#xE1; por escrito el Presidente del Consejo Administrativo con una anticipaci&#xF3;n m&#xED;nima de cinco y dos d&#xED;as h&#xE1;biles, respectivamente. De las deliberaciones y acuerdos se dejar&#xE1; constancia en el Libro de Actas, que al efecto deber&#xE1; llevar el Secretario.</div><div class=\"p\">&nbsp; &nbsp;  Aprobada el acta anterior, ser&#xE1; firmada por el Presidente, el Secretario y los miembros presentes. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;: El <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1149673&amp;idParte=10160972&amp;idVersion=2020-09-21\">Decreto 247 EXENTO, <br>TRABAJO<br>Art. &#xDA;NICO N&#xB0; 1<br>D.O. 21.09.2020</a></span>Consejo celebrar&#xE1; una sesi&#xF3;n ordinaria cada dos meses en el d&#xED;a y fecha que fijen sus miembros. La citaci&#xF3;n la har&#xE1; por escrito el jefe del Servicio de Bienestar, con una anticipaci&#xF3;n m&#xED;nima de cinco d&#xED;as h&#xE1;biles, respectivamente. Las sesiones extraordinarias se efectuar&#xE1;n, cuando proceda conforme al art&#xED;culo 23&#xBA; del Reglamento General, y ser&#xE1;n citadas por escrito por el Presidente del Consejo, con una anticipaci&#xF3;n m&#xED;nima de 5 d&#xED;as h&#xE1;biles.</div><div class=\"p\">&nbsp; &nbsp;  Aprobada el acta anterior, ser&#xE1; firmada por el Presidente, el Secretario y los miembros presentes. </div><br></div>"
+        },
+        {
+          "part_id": 6659905,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xB0;: Para conceder un pr&#xE9;stamo, el Consejo Administrativo deber&#xE1; considerar especialmente, las posibilidades de recuperaci&#xF3;n de los dineros prestados. Adem&#xE1;s ser&#xE1; requisito indispensable la constituci&#xF3;n de la garant&#xED;a de dos codeudores solidarios que sean funcionarios de planta de la Instituci&#xF3;n; y su solvencia ser&#xE1; calificada por el Consejo Administrativo.</div><div class=\"p\">Para solicitar cualquier tipo de pr&#xE9;stamo, el afiliado deber&#xE1; tener por lo menos 6 meses de afiliaci&#xF3;n ininterrumpida al Servicio de Bienestar, con excepci&#xF3;n del pr&#xE9;stamo habitacional que requerir&#xE1; a lo menos un a&#xF1;o de afiliaci&#xF3;n ininterrumpida. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xB0;: Para <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1149673&amp;idParte=10160972&amp;idVersion=2020-09-21\">Decreto 247 EXENTO, <br>TRABAJO<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 21.09.2020</a></span>conceder un pr&#xE9;stamo, el Consejo Administrativo deber&#xE1; considerar especialmente la recuperaci&#xF3;n de los dineros prestados. Adem&#xE1;s, ser&#xE1; requisito indispensable la constituci&#xF3;n de la garant&#xED;a de dos deudores solidarios que sean funcionarios de planta o a contrata, con al menos cinco renovaciones; y su solvencia ser&#xE1; calificada por el Consejo Administrativo. </div><br></div>"
+        },
+        {
+          "part_id": 6659910,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xB0;: El Servicio de Bienestar podr&#xE1; celebrar y financiar la festividad de Navidad para sus afiliados y cargas familiares, siempre que sus recursos presupuestarios lo permitan.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xB0;: El Servicio de Bienestar podr&#xE1; celebrar y financiar la festividad de Navidad y <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1149673&amp;idParte=10160972&amp;idVersion=2020-09-21\">Decreto 247 EXENTO, <br>TRABAJO<br>Art. &#xDA;NICO N&#xB0; 3<br>D.O. 21.09.2020</a></span>Fiestas Patrias para sus afiliados y cargas familiares, siempre que sus recursos presupuestarios lo permitan.</div><div class=\"p\">&nbsp; &nbsp;  El Servicio de Bienestar podr&#xE1; entregar un &quot;Bono de Cumplea&#xF1;os&quot; a cada socio, siempre que sus recursos presupuestarios lo permitan.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1149673,
+      "fecha": "2020-09-21"
+    }
+  }
+]

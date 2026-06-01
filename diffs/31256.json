@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-02-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-07-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6000390,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA INSTITUCIONES OFICIALES DE CONTROL TECNICO DE MATERIALES Y ELEMENTOS PARA LA CONSTRUCCION Santiago, 20 de Enero de 1992.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 26.- Visto: Lo dispuesto en el inciso segundo del n&#xFA;mero 1 del art&#xED;culo 254 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n y las facultades que me otorga el D.L. N&#xB0; 1.305, de 1976, dicto la siguiente Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA INSTITUCIONES OFICIALES DE CONTROL TECNICO DE MATERIALES Y ELEMENTOS PARA LA CONSTRUCCION </div><div class=\"p\">&nbsp; &nbsp; Santiago, 20 de Enero de 1992.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 26.- Visto: Lo dispuesto en el inciso segundo del n&#xFA;mero 1 del art&#xED;culo 254 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n y las facultades que me otorga el D.L. N&#xB0; 1.305, de 1976, dicto la siguiente </div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

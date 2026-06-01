@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1970-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1971-09-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6486625,
+          "old": "<div><div class=\"p\">FIJA CARACTERISTICAS DE LOS BILLETES DE CINCUENTA Y DIEZ ESCUDOS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 5 de Febrero de 1970.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 344.- Vistos: la nota de fecha 23 de Enero del presente a&#xF1;o, del Banco Central de Chile, y lo dispuesto en el art&#xED;culo 51&#xBA; del DFL. N&#xBA; 247, de 1960, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA CARACTERISTICAS DE LOS BILLETES DE CINCUENTA Y DIEZ ESCUDOS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 5 de Febrero de 1970.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 344.- Vistos: la nota de fecha 23 de Enero del presente a&#xF1;o, del Banco Central de Chile, y lo dispuesto en el art&#xED;culo 51&#xBA; del DFL. N&#xBA; 247, de 1960, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

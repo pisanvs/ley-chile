@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-04-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8342177,
+          "old": "<div><br><div class=\"p\">AUTORIZA A SOCIEDAD VASQUEZ Y COMPA&#xD1;IA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA.</div><div class=\"p\">DEROGA RESOLUCIONES QUE SE&#xD1;ALA</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD VASQUEZ Y COMPA&#xD1;IA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA. DEROGA RESOLUCIONES QUE SE&#xD1;ALA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

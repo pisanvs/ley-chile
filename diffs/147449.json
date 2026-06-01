@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1999-11-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-04-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8353235,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Corresponder&#xE1; al Ministerio del Interior la implementaci&#xF3;n y puesta en marcha de la Red a que se refiere el art&#xED;culo anterior, como asimismo realizar todas las acciones necesarias para la coordinaci&#xF3;n, administraci&#xF3;n y supervisi&#xF3;n de la misma, la que con una cobertura nacional, integrar&#xE1; a su nodo central a todos los Ministerios y dem&#xE1;s organismos de la Administraci&#xF3;n centralizada y descentralizada del Estado, sin perjuicio de lo se&#xF1;alado en el art&#xED;culo cuarto.</div><div class=\"p\">Las funciones que asume el Ministerio del Interior por el presente decreto, ser&#xE1;n ejercidas por intermedio de la Divisi&#xF3;n Inform&#xE1;tica de su Servicio de Secretar&#xED;a y Administraci&#xF3;n General y le facultar&#xE1;n adem&#xE1;s para preparar y expedir todos los actos administrativos que demande el cumplimiento de los fines se&#xF1;alados.</div><div class=\"p\">&nbsp; &nbsp;  Por otra parte y para la adecuada ejecuci&#xF3;n de las funciones referidas, el Ministerio del Interior estar&#xE1; facultado para establecer normas y est&#xE1;ndares de conexi&#xF3;n, pol&#xED;ticas de seguridad f&#xED;sica, determinar costos de interconexi&#xF3;n y operacionales de acuerdo al uso de la misma, implementar servicios adicionales de car&#xE1;cter t&#xE9;cnico, y en general, disponer cualquier otra regulaci&#xF3;n necesaria para proveer un servicio oportuno y expedito de esta Red, todo lo cual ser&#xE1; de cumplimiento obligatorio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Corresponder&#xE1; al Ministerio del Interior la implementaci&#xF3;n y puesta en marcha de la Red a que se refiere el art&#xED;culo anterior, como asimismo realizar todas las acciones necesarias para la coordinaci&#xF3;n, administraci&#xF3;n y supervisi&#xF3;n de la misma, la que con una cobertura nacional, integrar&#xE1; a su nodo central a todos los Ministerios y dem&#xE1;s organismos de la Administraci&#xF3;n centralizada y descentralizada del Estado, sin perjuicio de lo se&#xF1;alado en el art&#xED;culo cuarto. Las funciones que asume el Ministerio del Interior por el presente decreto, ser&#xE1;n ejercidas por intermedio de la Divisi&#xF3;n Inform&#xE1;tica de su Servicio de Secretar&#xED;a y Administraci&#xF3;n General y le facultar&#xE1;n adem&#xE1;s para preparar y expedir todos los actos administrativos que demande el cumplimiento de los fines se&#xF1;alados. Por otra parte y para la adecuada ejecuci&#xF3;n de las funciones referidas, el Ministerio del Interior estar&#xE1; facultado para establecer normas y est&#xE1;ndares de conexi&#xF3;n, pol&#xED;ticas de seguridad f&#xED;sica, determinar costos de interconexi&#xF3;n y operacionales de acuerdo al uso de la misma, implementar servicios adicionales de car&#xE1;cter t&#xE9;cnico, y en general, disponer cualquier otra regulaci&#xF3;n necesaria para proveer un servicio oportuno y expedito de esta Red, todo lo cual ser&#xE1; de cumplimiento obligatorio. Fac&#xFA;ltase al Ministerio del Interior, para<span class=\"n\" id=\"n_0\">DTO 1299, INTERIOR<br>Art. s&#xE9;ptimo<br>D.O. 29.04.2005</span> publicar o difundir las normas oficiales de la Rep&#xFA;blica en materia de seguridad de la informaci&#xF3;n y establecer normas, est&#xE1;ndares y pol&#xED;ticas de seguridad l&#xF3;gica que en forma obligada deber&#xE1;n cumplir las instituciones p&#xFA;blicas que se incorporar&#xE1;n a la Red de Conectividad del Estado, estando adem&#xE1;s facultada dicha Cartera de Estado para solicitar consultas de car&#xE1;cter t&#xE9;cnico a cualquiera instituci&#xF3;n del Estado. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-04-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

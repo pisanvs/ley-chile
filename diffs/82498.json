@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-08-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-04-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8585720,
+          "old": "<div><br><div class=\"p\">AUTORIZA A CHISAL S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A CHISAL S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>"
+        }
+      ]
+    }
+  }
+]

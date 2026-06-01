@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-12-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-12-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7085616,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Primero: F&#xED;janse los siguientes derechos anuales de propaganda por los letreros camineros en la Ruta 68, que regir&#xE1;n para el a&#xF1;o 2000:</div><br><div class=\"p\">&nbsp; &nbsp;  a) De letreros no iluminados, la suma equivalente a 0,25 de la unidad tributaria mensual; y</div><br><div class=\"p\">&nbsp; &nbsp;  b) De letreros iluminados, la suma equivalente a 0,50 de la unidad tributaria mensual.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero: F&#xED;janse los siguientes derechos anuales<span class=\"n\" id=\"n_0\">ORZ 2,<br>M. DE CURACAVI<br>D.O. 28.12.1999</span> y por metro cuadrado de propaganda por los letreros camineros en la Ruta 68, que regir&#xE1;n para el a&#xF1;o 2000:</div><br><div class=\"p\">&nbsp; &nbsp;  a) De letreros no iluminados, la suma equivalente a 0,25 de la unidad tributaria mensual; y</div><br><div class=\"p\">&nbsp; &nbsp;  b) De letreros iluminados, la suma equivalente a 0,50 de la unidad tributaria mensual.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-12-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5895388,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA CIRCULACION DE VEHICULOS QUE INDICA EN DIAS SABADOS, DOMINGOS Y FESTIVOS, EXIMIENDOLOS DE OBLIGACION DE USO DE DISCO DISTINTIVO FISCAL Y PONE TERMINO A CONDICIONES USO EXCEPCIONAL PARA VEHICULO QUE SE&#xD1;ALA Santiago, 18 de Agosto de 1992.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 128.- Visto: el oficio N&#xB0; 155, de 13.05.92, de la Comisi&#xF3;n Chilena del Cobre; las disposiciones del Decreto Ley N&#xB0; 799, de 1974, modificado por el Decreto con Fuerza de Ley N&#xB0; 12-2.345, de 1979, y por la Ley N&#xB0; 18.267; la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; las atribuciones que le confiere al Presidente de la Rep&#xFA;blica el N&#xB0; 8 del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; el N&#xB0; 1 del art&#xED;culo 1&#xB0; del Decreto Supremo N&#xB0; 1.407, de 1991, del Interior, y</div><div class=\"p\">&nbsp; &nbsp; Considerando: las funciones que le corresponde desempe&#xF1;ar a la Comisi&#xF3;n Chilena del Cobre, en virtud de su Ley Org&#xE1;nica, en especial aquellas que dicen relaci&#xF3;n con las de fiscalizaci&#xF3;n que debe cumplir respecto a las empresas productoras de cobre y sus subproductos, como asimismo, en materia de inversi&#xF3;n extranjera, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA CIRCULACION DE VEHICULOS QUE INDICA EN DIAS SABADOS, DOMINGOS Y FESTIVOS, EXIMIENDOLOS DE OBLIGACION DE USO DE DISCO DISTINTIVO FISCAL Y PONE TERMINO A CONDICIONES USO EXCEPCIONAL PARA VEHICULO QUE SE&#xD1;ALA Santiago, 18 de Agosto de 1992.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 128.- Visto: el oficio N&#xB0; 155, de 13.05.92, de la Comisi&#xF3;n Chilena del Cobre; las disposiciones del Decreto Ley N&#xB0; 799, de 1974, modificado por el Decreto con Fuerza de Ley N&#xB0; 12-2.345, de 1979, y por la Ley N&#xB0; 18.267; la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; las atribuciones que le confiere al Presidente de la Rep&#xFA;blica el N&#xB0; 8 del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; el N&#xB0; 1 del art&#xED;culo 1&#xB0; del Decreto Supremo N&#xB0; 1.407, de 1991, del Interior, y</div><div class=\"p\">&nbsp; &nbsp; Considerando: las funciones que le corresponde desempe&#xF1;ar a la Comisi&#xF3;n Chilena del Cobre, en virtud de su Ley Org&#xE1;nica, en especial aquellas que dicen relaci&#xF3;n con las de fiscalizaci&#xF3;n que debe cumplir respecto a las empresas productoras de cobre y sus subproductos, como asimismo, en materia de inversi&#xF3;n extranjera, Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

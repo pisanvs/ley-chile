@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2014-11-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-11-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9526227,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;banse las n&#xF3;minas de damnificados seleccionados para la asignaci&#xF3;n del subsidio habitacional correspondiente al mes de octubre de 2014, para el llamado especial dispuesto por el resuelvo 1&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 3.134, de este Ministerio, de 2014, n&#xF3;minas que se entender&#xE1; forman parte integrante de esta resoluci&#xF3;n; y f&#xED;jase el n&#xFA;mero de damnificados con subsidios asignados por Regi&#xF3;n y modalidad de aplicaci&#xF3;n del subsidio, seg&#xFA;n se indica en la siguiente tabla:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/44841.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;- Fijase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio directo para la atenci&#xF3;n de los damnificados asignados con subsidio habitacional a que se refiere el n&#xFA;mero anterior, por Regi&#xF3;n y modalidad de aplicaci&#xF3;n del subsidio, seg&#xFA;n se indica en la siguiente tabla:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/44842.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;banse las n&#xF3;minas de damnificados seleccionados para la asignaci&#xF3;n del subsidio habitacional correspondiente al mes de octubre de 2014, para el llamado especial dispuesto por el resuelvo 1&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 3.134, de este Ministerio, de 2014, n&#xF3;minas que se entender&#xE1; forman parte integrante de esta resoluci&#xF3;n; y f&#xED;jase el n&#xFA;mero de damnificados con subsidios asignados por Regi&#xF3;n y modalidad de aplicaci&#xF3;n del subsidio, seg&#xFA;n se indica en la siguiente tabla:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1084094&amp;idParte=9649656&amp;idVersion=2015-11-17\">Resoluci&#xF3;n 8712 EXENTA,<br>VIVIENDA<br>N&#xB0; 2<br>D.O. 17.11.2015</a></span> </div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/53532.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;- Fijase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio directo para la atenci&#xF3;n de los damnificados asignados con subsidio habitacional a que se refiere el n&#xFA;mero anterior, por Regi&#xF3;n y modalidad de aplicaci&#xF3;n del subsidio, seg&#xFA;n se indica en la siguiente tabla:</div><br><br><br><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1084094&amp;idParte=9649656&amp;idVersion=2015-11-17\">Resoluci&#xF3;n 8712 EXENTA,<br>VIVIENDA<br>N&#xB0; 2<br>D.O. 17.11.2015</a></span>&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/53531.jpg\">.</div><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 9526229,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">SISTEMA INTEGRADO DE SUBSIDIO HABITACIONAL DECRETO N&#xBA; 1 (V. y U.), DE 2011 LLAMADO ESPECIAL DAMNIFICADOS POR SISMO 2014 MES DE OCTUBRE DE 2014</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/44843.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">SISTEMA INTEGRADO DE SUBSIDIO HABITACIONAL DECRETO N&#xBA; 1 (V. y U.), DE 2011 LLAMADO ESPECIAL DAMNIFICADOS POR SISMO 2014 MES DE OCTUBRE DE 2014 </div><div class=\"p\"><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA</a></div>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/44843.jpg\">.</div><br><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 8712 Exenta, Vivienda, publicado el 17.11.2015, modifica la presente norma en el sentido de de eliminar a la persona individualizada en la citada norma, de la n&#xF3;mina de postulantes seleccionados correspondiente a la Regi&#xF3;n de Tarapac&#xE1;, e incluirla en la n&#xF3;mina de beneficiarios de la Regi&#xF3;n de La Araucan&#xED;a.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1084094,
+      "fecha": "2015-11-17"
+    }
+  }
+]

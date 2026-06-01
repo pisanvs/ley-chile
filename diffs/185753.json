@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2001-05-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7283224,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;: Los derechos a que se refieren los art&#xED;culos anteriores corresponden a las extracciones usuales y ordinarias de desperdicios provenientes de los servicios dom&#xE9;sticos y de los barridos de casas, veredones y antejardines exteriores, f&#xE1;bricas o negocios, y comercio en general.</div><div class=\"p\">&nbsp; &nbsp;  Se entiende por extracci&#xF3;n usual ordinaria la que no sobrepasa un volumen de 200 litros (doscientos dec&#xED;metros c&#xFA;bicos) de desperdicios de promedio diario.</div><div class=\"p\">&nbsp; &nbsp;  Para la extracci&#xF3;n de escorias o residuos de restaurantes, f&#xE1;bricas o talleres u otros comercios, en que la extracci&#xF3;n de desperdicios exceda el volumen se&#xF1;alado en el inciso anterior y para otras clases de extracciones de basuras que no se encuentren comprendidas en el art&#xED;culo 7 del D.L. 3.063, se aplicar&#xE1; una tarifa especial extraordinaria cuyo monto se fijar&#xE1; de acuerdo al costo por litro de basura, determinado junto con la tarifa anual. La Direcci&#xF3;n de Aseo y Ornato en coordinaci&#xF3;n con la Direcci&#xF3;n de Administraci&#xF3;n y Finanzas, fijar&#xE1; la metodolog&#xED;a y procedimiento de cobro de este excedente.</div><div class=\"p\">&nbsp; &nbsp;  En todo caso las personas que se encuentren en la situaci&#xF3;n del inciso anterior, podr&#xE1;n optar por ejecutar por s&#xED; mismas o por medio de terceros la extracci&#xF3;n y el transporte de los desperdicios, para lo cual deber&#xE1;n requerir autorizaci&#xF3;n de operaci&#xF3;n a la Direcci&#xF3;n de Aseo y Ornato, en forma previa a su inicio.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;: Los derechos a que se refieren los art&#xED;culos anteriores corresponden a las extracciones usuales y ordinarias de desperdicios provenientes de los servicios dom&#xE9;sticos y de los barridos de casas, veredones y antejardines exteriores, f&#xE1;bricas o negocios, y comercio en general. Se entiende por extracci&#xF3;n usual ordinaria la que no sobrepasa un volumen de 60 litros (sesenta dec&#xED;metros<span class=\"n\" id=\"n_0\">ORZ 10,<br>M. DE PROVIDENCIA<br>N&#xBA; 1.1<br>D.O. 08.09.2001</span> c&#xFA;bicos) de desperdicios de promedio diario. Para la extracci&#xF3;n de escorias o residuos de restaurantes, f&#xE1;bricas o talleres u otros comercios, en que la extracci&#xF3;n de desperdicios exceda el volumen se&#xF1;alado en el inciso anterior y para otras clases de extracciones de basuras que no se encuentren comprendidas en el art&#xED;culo 7 del D.L. 3.063, se aplicar&#xE1; una tarifa especial extraordinaria cuyo monto se fijar&#xE1; de acuerdo al costo por litro de basura, determinado junto con la tarifa anual. La Direcci&#xF3;n de Aseo y Ornato en coordinaci&#xF3;n con la Direcci&#xF3;n de Administraci&#xF3;n y Finanzas, fijar&#xE1; la metodolog&#xED;a y procedimiento de cobro de este excedente. En todo caso las personas que se encuentren en la situaci&#xF3;n del inciso anterior, podr&#xE1;n optar por ejecutar por s&#xED; mismas o por medio de terceros la extracci&#xF3;n y el transporte de los desperdicios, para lo cual deber&#xE1;n requerir autorizaci&#xF3;n de operaci&#xF3;n a la Direcci&#xF3;n de Aseo y Ornato, en forma previa a su inicio. </div></div>"
+        },
+        {
+          "part_id": 7283225,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xBA;: Las iglesias, hospitales p&#xFA;blicos e instituciones de beneficencia exentas del pago de patente municipal, que tengan un volumen de desperdicios superior a 200 litros de promedio diario, pagar&#xE1;n un 1% de la tarifa de aseo ordinaria por el total del excedente de basura.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xBA;: Las iglesias, hospitales p&#xFA;blicos e instituciones de beneficencia exentas del pago de patente municipal, que tengan un volumen de desperdicios superior a 60 litros de promedio diario, pagar&#xE1;n un<span class=\"n\" id=\"n_1\">ORZ 10,<br>M. DE PROVIDENCIA<br>N&#xBA; 1.2<br>D.O. 08.09.2001</span> 1% de la tarifa de aseo ordinaria por el total del excedente de basura. </div></div>"
+        }
+      ]
+    }
+  }
+]

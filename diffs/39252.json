@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-07-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8640523,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0; Las frecuencias a utilizar para este servicio ser&#xE1;n las comprendidas en la banda 931,3 - 932,0 MHz, canalizadas a 25 KHz.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0; Las frecuencias a utilizar para<span class=\"n\" id=\"n_0\">RES 255 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 01.03.1999</span> este servicio ser&#xE1;n las comprendidas en las bandas 929,5-929,8 MHz y 931,3-932,0 MHz, canalizadas a 25 kHz. </div></div>"
+        }
+      ]
+    }
+  }
+]

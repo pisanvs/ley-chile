@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-11-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-04-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7270339,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA CALYPSO Y CIA. LTDA. PARA SUSTITUIR EMBARCACION QUE INDICA, DEROGA RESOLUCIONES QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA CALYPSO Y CIA. LTDA. PARA SUSTITUIR EMBARCACION QUE INDICA, DEROGA RESOLUCIONES QUE SE&#xD1;ALA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

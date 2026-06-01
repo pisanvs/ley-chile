@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-05-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-05-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6023347,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NIVELES MAXIMOS DE AFLATOXINAS EN INGREDIENTES Y EN ALIMENTOS PARA ANIMALES</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m.- 707 exenta.- Santiago, 14 de Mayo de 1991.- Vistos: Lo dispuesto en la Ley N&#xB0; 18.755, en el DFL.RRA.</div><div class=\"p\">N&#xB0; 16, de 1963, sobre Sanidad y Protecci&#xF3;n Animal; y el Decreto N&#xB0; 307, de 1979, de este Ministerio, y Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- El notable incremento de alimentos e ingredientes de uso animal con aflatoxinas que exceden los l&#xED;mites establecidos por el Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp; 2.- Lo establecido en el art&#xED;culo 2&#xB0; letra L y el art&#xED;culo 7&#xB0; ambos del Decreto 307 del 25 de Octubre de 1979.</div><div class=\"p\">&nbsp; &nbsp; 3.- La obligaci&#xF3;n de este Servicio de velar por la salud del patrimonio ganadero y av&#xED;cola del pa&#xED;s, Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NIVELES MAXIMOS DE AFLATOXINAS EN INGREDIENTES Y EN ALIMENTOS PARA ANIMALES</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m.- 707 exenta.- Santiago, 14 de Mayo de 1991.- Vistos: Lo dispuesto en la Ley N&#xB0; 18.755, en el DFL.RRA.</div><div class=\"p\">N&#xB0; 16, de 1963, sobre Sanidad y Protecci&#xF3;n Animal; y el Decreto N&#xB0; 307, de 1979, de este Ministerio, y Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- El notable incremento de alimentos e ingredientes de uso animal con aflatoxinas que exceden los l&#xED;mites establecidos por el Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp; 2.- Lo establecido en el art&#xED;culo 2&#xB0; letra L y el art&#xED;culo 7&#xB0; ambos del Decreto 307 del 25 de Octubre de 1979.</div><div class=\"p\">&nbsp; &nbsp; 3.- La obligaci&#xF3;n de este Servicio de velar por la salud del patrimonio ganadero y av&#xED;cola del pa&#xED;s, Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

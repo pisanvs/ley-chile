@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-07-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1980-01-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004635,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o- Modif&#xED;case el decreto N.o 193, de 23 de Marzo de 1963, del Ministerio de Relaciones Exteriores, en el sentido que dentro de la cuota establecida en el art&#xED;culo 1.o del presente decreto queda incluido la importaci&#xF3;n de un autom&#xF3;vil, cuyo valor no exceder&#xE1; de US$ 5.000, FOB.</div><div class=\"p\">&nbsp; &nbsp;  El presente decreto entrar&#xE1; en vigencia una vez publicado en el Diario Oficial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o- Modif&#xED;case el decreto N.o 193, de 23 de Marzo de 1963, del Ministerio de Relaciones Exteriores, en el sentido que dentro de la cuota establecida en el art&#xED;culo 1.o del presente decreto<span class=\"n\" id=\"n_0\">DTO 848, RELACIONES<br>Art. 2&#xB0;<br>D.O. 21.01.1980</span> queda incluido la importaci&#xF3;n de un autom&#xF3;vil. El presente decreto entrar&#xE1; en vigencia una vez publicado en el Diario Oficial.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

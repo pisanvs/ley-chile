@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2004-05-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-06-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6480346,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 477 EXENTA, DE 2004 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 477 EXENTA, DE 2004 </div><br></div>"
+        },
+        {
+          "part_id": 6480347,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Res. (E) N&#xBA; 334, de 14.05.2004, modific&#xF3;se Res. (E) N&#xBA; 334, de 12.04.04, reemplazando Resuelvo 5 por siguiente:</div><br><div class=\"p\">5.-&nbsp; Las ofertas para optar a los Subsidios</div><div class=\"p\">&nbsp; &nbsp;  Habitacionales correspondientes a Programas Privados-Vivienda Progresiva Primera Etapa, previa acreditaci&#xF3;n de la disponibilidad de terreno y el cumplimiento de los dem&#xE1;s requisitos de postulaci&#xF3;n, son las siguientes:</div><br><div class=\"p\">&nbsp;  Oferta&nbsp;  Localizaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Recursos disponibles</div><div class=\"p\">&nbsp; &nbsp; N&#xBA; 1&nbsp; &nbsp; Provincias de Valdivia,&nbsp; &nbsp; &nbsp; &nbsp; 22.810 UF</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Osorno y Llanquihue</div><div class=\"p\">&nbsp; &nbsp; N&#xBA; 2&nbsp; &nbsp; Provincia de Chilo&#xE9;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 66.408 UF</div><div class=\"p\">&nbsp; &nbsp; N&#xBA; 3&nbsp; &nbsp;  Provincia de Palena&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  10.496 UF</div><br><div class=\"p\">&nbsp; &nbsp;  Dem&#xE1;s estipulaciones resoluci&#xF3;n extractada.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Res. (E) N&#xBA; 477 de 14.05.04, modific&#xF3;se Res.<span class=\"n\" id=\"n_0\">AVI S/N, VIVIENDA<br>D.O. 02.06.2004</span> (E) N&#xBA; 334, de 12.04.04, reemplazando Resuelvo 5 por siguiente:</div><br><div class=\"p\">5.-&nbsp; Las ofertas para optar a los Subsidios Habitacionales correspondientes a Programas Privados-Vivienda Progresiva Primera Etapa, previa acreditaci&#xF3;n de la disponibilidad de terreno y el cumplimiento de los dem&#xE1;s requisitos de postulaci&#xF3;n, son las siguientes:</div><br><div class=\"p\">&nbsp;  Oferta&nbsp;  Localizaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Recursos disponibles</div><div class=\"p\">&nbsp; &nbsp; N&#xBA; 1&nbsp; &nbsp; Provincias de Valdivia,&nbsp; &nbsp; &nbsp; &nbsp; 22.810 UF</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Osorno y Llanquihue</div><div class=\"p\">&nbsp; &nbsp; N&#xBA; 2&nbsp; &nbsp; Provincia de Chilo&#xE9;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 66.408 UF</div><div class=\"p\">&nbsp; &nbsp; N&#xBA; 3&nbsp; &nbsp;  Provincia de Palena&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  10.496 UF</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Dem&#xE1;s estipulaciones resoluci&#xF3;n extractada.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

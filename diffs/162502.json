@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-10-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-03-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6255531,
+          "old": "<div><div class=\"p\">AUTORIZA A LA ILUSTRE MUNICIPALIDAD DE TIRUA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA ILUSTRE MUNICIPALIDAD DE TIRUA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

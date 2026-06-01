@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-12-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7263304,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 260, DE 1986 </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 260, DE 1986</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

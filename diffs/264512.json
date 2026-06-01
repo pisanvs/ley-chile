@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-09-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-11-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8417670,
+          "old": "<div><div class=\"p\">N&#xD3;MINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUER&#xCD;A JUREL III y IV REGIONES, INDIVIDUALIZADA EN EL DECRETO N&#xBA;608 DE 1997, DEL MINIS- TERIO DE ECONOM&#xCD;A, FOMENTO Y RECONSTRUCCI&#xD3;N </div></div>",
+          "new": "<div><div class=\"p\">N&#xD3;MINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUER&#xCD;A JUREL III y IV REGIONES, INDIVIDUALIZADA EN EL DECRETO N&#xBA;608 DE 1997, DEL MINIS- TERIO DE ECONOM&#xCD;A, FOMENTO Y RECONSTRUCCI&#xD3;N </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

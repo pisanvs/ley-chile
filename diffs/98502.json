@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-02-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8329508,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD AGRICOLA AGUAS BLANCAS LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD AGRICOLA AGUAS BLANCAS LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

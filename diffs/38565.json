@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-03-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201245,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA RESOLUCION N&#xB0; 478 EXENTA DE 1988 N&#xFA;m. 211 exenta.- Santiago, 10 de Marzo de 1994.- Visto: Lo dispuesto en el art&#xED;culo 38 del C&#xF3;digo Sanitario, en el decreto supremo N&#xB0; 466, de 1987, del Ministerio de Salud y la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, y teniendo presente lo dispuesto en los art&#xED;culos 4 y 6 del decreto ley N&#xB0; 2.763, de 1979,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 478 EXENTA DE 1988</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 211 exenta.- Santiago, 10 de Marzo de 1994.- Visto: Lo dispuesto en el art&#xED;culo 38 del C&#xF3;digo Sanitario, en el decreto supremo N&#xB0; 466, de 1987, del Ministerio de Salud y la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, y teniendo presente lo dispuesto en los art&#xED;culos 4 y 6 del decreto ley N&#xB0; 2.763, de 1979,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

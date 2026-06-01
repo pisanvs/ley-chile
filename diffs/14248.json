@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1974-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-10-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7150294,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Reempl&#xE1;zase el <a href=\"https://www.leychile.cl/Navegar?idNorma=1024470&amp;idParte=9133343&amp;idVersion=\">art&#xED;culo 12 del Reglamento Especial de Viviendas Econ&#xF3;micas</a> por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;En los edificios de departamentos se considerar&#xE1;n como espacios comunes las circulaciones horizontales y verticales (incluso ascensores), recintos de caldera, estanques y deartamentos del mayordomo no superior a 35 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp; En los departamentos superiores a 100 m2. la superficie m&#xE1;xima se calcular&#xE1; incluyendo el prorrateo proporcional de los espacios comunes.</div><div class=\"p\">&nbsp; &nbsp; En los departamentos inferiores a 100 m2., la superficie se calcular&#xE1; sin incluir los espacios comunes&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=254917&amp;idParte=7333807&amp;idVersion=1976-10-25\">Decreto 322, VIVIENDA<br>Art. 1<br>D.O. 25.10.1976</a></span>&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- DEROGADO.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 254917,
+      "fecha": "1976-10-25"
+    }
+  }
+]

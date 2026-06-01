@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1966-09-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1970-04-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6430582,
+          "old": "<div><div class=\"p\">DISTRIBUCION DEL PRODUCTO DE LAS APUESTAS QUE SE REALICEN EN LOS DIVERSOS HIPODROMOS DEL PAIS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 3 de Septiembre de 1966.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.995.- Vistos: la facultad que me concede&nbsp; el art&#xED;culo 126 de la ley N&#xB0; 16.464 de 25 de Abril de 1966 y lo informado por la Comisi&#xF3;n designada por decreto de Hacienda N&#xB0; 1.285, de 10 de Mayo de 1966,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\"> DISTRIBUCION DEL PRODUCTO DE LAS APUESTAS QUE SE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">REALICEN EN LOS DIVERSOS HIPODROMOS DEL PAIS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 3 de Septiembre de 1966.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.995.- Vistos: la facultad que me concede el art&#xED;culo 126 de la ley N&#xB0; 16.464 de 25 de Abril de 1966 y lo informado por la Comisi&#xF3;n designada por decreto de Hacienda N&#xB0; 1.285, de 10 de Mayo de 1966,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DFL 807, Hacienda, publicado el 17.04.1970, dictado en uso de la facultad concedida al Presidente de la Rep&#xFA;blica por el Art. 20 de la LEY 17280, publicada el 17.01.1970, fij&#xF3; normas sobre distribuci&#xF3;n del producto de las apuestas en modificaci&#xF3;n de las establecidas por la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

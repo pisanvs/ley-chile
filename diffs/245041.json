@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-12-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6552765,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA; 1.246, de 14 de noviembre de 2005, y en base a la facultad otorgada por el art&#xED;culo 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840, se expropi&#xF3; el lote de terreno N&#xBA; 24 para la obra: &quot;Ampliaci&#xF3;n, Reposici&#xF3;n, Pavimentaci&#xF3;n Ruta 5 Sur, Sector Acceso Norte a Temuco, Km. 0,50000 al Km. 8,66000&quot;, que figura a nombre de Fern&#xE1;ndez Diez Prim, Rol de aval&#xFA;o N&#xBA; 3281-85, comuna de Temuco, IX Regi&#xF3;n, superficie 1.092 m2. La Comisi&#xF3;n de Peritos fij&#xF3; el monto provisional de la indemnizaci&#xF3;n con fecha 29 de septiembre de 2004, complementada por acta de fecha 4 de julio de 2005, en la cantidad de $20.586.000 para el lote N&#xBA; 24. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA; 1.246, de 14 de noviembre de 2005, y en base a la facultad otorgada por el art&#xED;culo 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840, se expropi&#xF3; el lote de terreno N&#xBA; 24 para la obra: &quot;Ampliaci&#xF3;n, Reposici&#xF3;n, Pavimentaci&#xF3;n Ruta 5 Sur, Sector Acceso Norte a Temuco, Km. 0,50000 al Km. 8,66000&quot;, que figura a nombre de Fernnadez Diez Prim, Rol de aval&#xFA;o N&#xBA; 3281-85, comuna<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 02.01.2006</span> de Temuco, IX Regi&#xF3;n, superficie 1.092 m2. La Comisi&#xF3;n de Peritos fij&#xF3; el monto provisional de la indemnizaci&#xF3;n con fecha 29 de septiembre de 2004, complementada por acta de fecha 4 de julio de 2005, en la cantidad de $20.586.000 para el lote N&#xBA; 24. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

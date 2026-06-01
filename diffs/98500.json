@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-09-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8329505,
+          "old": "<div><div class=\"p\">AUTORIZA A DON VICENTE SAAVEDRA ALCAYAGA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON VICENTE SAAVEDRA ALCAYAGA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

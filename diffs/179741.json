@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-12-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8365044,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Recon&#xF3;cese, por gracia, a don Carlos Wenzel Melo, para todos los efectos legales, el tiempo servido entre el 8 de Junio de 1966 al 31 de Diciembre de 1968.</div><div class=\"p\">&nbsp; &nbsp;  La Caja de Previsi&#xF3;n Social de los Empleados Municipales de la Rep&#xFA;blica proceder&#xE1; a recibir las imposiciones por dicho per&#xED;odo, las que ser&#xE1;n de cargo del interesado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Recon&#xF3;cese, por gracia, a don Carlos Wenzel Melo, para todos los efectos legales, el tiempo servido entre el 8 de Junio de 1956 al 31 de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 07.12.1977</span> Diciembre de 1968. La Caja de Previsi&#xF3;n Social de los Empleados Municipales de la Rep&#xFA;blica proceder&#xE1; a recibir las imposiciones por dicho per&#xED;odo, las que ser&#xE1;n de cargo del interesado. </div></div>"
+        }
+      ]
+    }
+  }
+]

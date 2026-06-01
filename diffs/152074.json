@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-08-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8357228,
+          "old": "<div><div class=\"p\">AUTORIZA A SINDICATO DE TRABAJADORES INDEPENDIENTES CULTIVADORES Y EXPLOTADORES DE ALGAS &quot;LAS VEGAS&quot; DE CAULIN ALTO PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SINDICATO DE TRABAJADORES INDEPENDIENTES CULTIVADORES Y EXPLOTADORES DE ALGAS &quot;LAS VEGAS&quot; DE CAULIN ALTO PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

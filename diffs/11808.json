@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-06-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-12-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8261079,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA NOMINACION DE LOS MIEMBROS TITULARES Y SUPLENTES DEL CONSEJO NACIONAL DE PESCA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 272.- Santiago, 6 de mayo de 1996.</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; la Ley N&#xB0; 18.892 y sus modificaciones, cuyo texto refundido fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el D.S. N&#xB0; 548 de 1992, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la carta de la Asociaci&#xF3;n de Industriales Pesqueros Regi&#xF3;n del B&#xED;o B&#xED;o A.G. del 31 de octubre de 1995.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, en virtud de lo previsto en el art&#xED;culo 146 de la Ley General de Pesca y Acuicultura, los Consejos Nacionales de Pesca estar&#xE1;n integrados por los titulares de los cargos que se mencionan y por los representantes de las organizaciones y entidades que se se&#xF1;alan, correspondiendo al Presidente de la Rep&#xFA;blica oficializar la nominaci&#xF3;n definitiva de estos &#xFA;ltimos, tanto en calidad de titulares como suplentes.</div><div class=\"p\">&nbsp; &nbsp; Que, el art&#xED;culo N&#xB0; 4 del Reglamento para la elecci&#xF3;n de Consejeros del Consejo Nacional de Pesca establece la facultad y el procedimiento para proveer los cargos vacantes, tanto titulares como suplentes.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA NOMINACION DE LOS MIEMBROS TITULARES Y SUPLENTES DEL CONSEJO NACIONAL DE PESCA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 272.- Santiago, 6 de mayo de 1996.</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; la Ley N&#xB0; 18.892 y sus modificaciones, cuyo texto refundido fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el D.S. N&#xB0; 548 de 1992, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la carta de la Asociaci&#xF3;n de Industriales Pesqueros Regi&#xF3;n del B&#xED;o B&#xED;o A.G. del 31 de octubre de 1995.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, en virtud de lo previsto en el art&#xED;culo 146 de la Ley General de Pesca y Acuicultura, los Consejos Nacionales de Pesca estar&#xE1;n integrados por los titulares de los cargos que se mencionan y por los representantes de las organizaciones y entidades que se se&#xF1;alan, correspondiendo al Presidente de la Rep&#xFA;blica oficializar la nominaci&#xF3;n definitiva de estos &#xFA;ltimos, tanto en calidad de titulares como suplentes.</div><div class=\"p\">&nbsp; &nbsp; Que, el art&#xED;culo N&#xB0; 4 del Reglamento para la elecci&#xF3;n de Consejeros del Consejo Nacional de Pesca establece la facultad y el procedimiento para proveer los cargos vacantes, tanto titulares como suplentes.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

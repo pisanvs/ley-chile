@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-09-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-08-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313530,
+          "old": "<div><div class=\"p\">AUTORIZA A DON DIETHER CLAUDIO REUCK BRAVO PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON DIETHER CLAUDIO REUCK BRAVO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

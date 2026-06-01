@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8232656,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA LEY DE PRESUPUESTOS DEL SECTOR PUBLICO PARA EL A&#xD1;O 1997</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente que el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; P r o y e c t o d e l e y :</div><div class=\"p\">&nbsp; &nbsp; &quot;I.- CALCULOS DE INGRESOS Y ESTIMACIONES DE GASTOS </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  APRUEBA LEY DE PRESUPUESTOS DEL SECTOR PUBLICO PARA EL A&#xD1;O 1997</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente que el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; P r o y e c t o d e l e y :</div><div class=\"p\">&nbsp; &nbsp;  &quot;I.- CALCULOS DE INGRESOS Y ESTIMACIONES DE GASTOS&nbsp; <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El articulo 6&#xB0; la ley n&#xB0;19517 dispone la derogacion del primer p&#xE1;rrafo de la glosa 05 de la partida 09, cap&#xED;tulo 08, programa 01, de esta ley. Sin embargo,dicha derogaci&#xF3;n no es posible incluirla en el texto actualizado dado que el texto publicado de la Ley de Presupuesto no contiene todas las partidas y glosas que la componen.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

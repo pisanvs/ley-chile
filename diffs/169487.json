@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-05-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6277863,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quese la resoluci&#xF3;n exenta N&#xB0;199 de fecha 20.03.2000 de esta Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo Regi&#xF3;n del B&#xED;o B&#xED;o, en cuanto a la oferta N&#xB0;11, y s&#xF3;lo respecto del n&#xFA;mero de viviendas disponibles en dicha oferta, como se se&#xF1;ala a continuaci&#xF3;n:</div><div class=\"p\"> OFERTA&nbsp; N&#xB0;11:</div><div class=\"p\"> Programa de Vivienda B&#xE1;sica Serviu San Pedro de La Paz:</div><div class=\"p\"> N&#xFA;mero de viviendas:&nbsp; &nbsp;  147 departamentos.</div><div class=\"p\"> 2.- En todo aquello no modificado por la presente resoluci&#xF3;n exenta, rige &#xED;ntegramente lo dispuesto en la resoluci&#xF3;n exenta N&#xB0;199 de fecha 20.03.2000 de esta Seremi de Vivienda y Urbanismo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quese la resoluci&#xF3;n exenta N&#xB0;199 de fecha 20.03.2000 de esta Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo Regi&#xF3;n del B&#xED;o B&#xED;o, en cuanto a la oferta N&#xB0;11, y s&#xF3;lo respecto del n&#xFA;mero de viviendas disponibles en dicha oferta, como se se&#xF1;ala a continuaci&#xF3;n:</div><br><div class=\"p\">OFERTA&nbsp; N&#xB0;11:</div><br><div class=\"p\">Programa de Vivienda B&#xE1;sica Serviu San Pedro de La Paz:<span class=\"n\" id=\"n_0\">RES 362 EXENTA<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 13.06.2000</span></div><div class=\"p\">N&#xFA;mero de viviendas:&nbsp; &nbsp;  113 departamentos.</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; 2.- En todo aquello no modificado por la presente resoluci&#xF3;n exenta, rige &#xED;ntegramente lo dispuesto en la resoluci&#xF3;n exenta N&#xB0;199 de fecha 20.03.2000 de esta Seremi de Vivienda y Urbanismo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-11-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6401492,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Modificase el art&#xED;culo 1&#xBA; N&#xBA; 2 letra e) del decreto exento N&#xBA; 930 de 2001, modificado mediante decretos exentos N&#xBA; 262, N&#xBA; 427, N&#xBA; 476, N&#xBA; 595, N&#xBA; 702, N&#xBA; 746, N&#xBA; 796, N&#xBA; 801 y N&#xBA; 901, todos de 2002, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, en el sentido de disminuir en 469,44 toneladas mensuales la cuota de captura del recurso Merluza com&#xFA;n (Merluccius gayi) asignada a la Zona Norte de la VIII Regi&#xF3;n, para el per&#xED;odo noviembre-diciembre del presente a&#xF1;o, quedando una cuota autorizada para dicho periodo ascendente a 10 toneladas mensuales. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Modificase el art&#xED;culo 1&#xBA; N&#xBA; 2 letra e) del decreto exento N&#xBA; 930 de 2001, modificado mediante decretos exentos N&#xBA; 262, N&#xBA; 427, N&#xBA; 476, N&#xBA; 595, N&#xBA; 702, N&#xBA; 746, N&#xBA; 796, N&#xBA; 801 y N&#xBA; 901, todos de 2002, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, en el sentido de disminuir en 459,44<span class=\"n\" id=\"n_0\">DTO 964 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 19.11.2002</span> toneladas mensuales la cuota de captura del recurso Merluza com&#xFA;n (Merluccius gayi) asignada a la Zona Norte de la VIII Regi&#xF3;n, para el per&#xED;odo noviembre-diciembre del presente a&#xF1;o, quedando una cuota autorizada para dicho periodo ascendente a 10 toneladas mensuales. </div></div>"
+        }
+      ]
+    }
+  }
+]

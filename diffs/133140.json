@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-03-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6158138,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Certifico: Que por resoluci&#xF3;n N&#xBA; 27 de 22 de enero de 1998 esta Superintendencia de Valores y Seguros aprob&#xF3; una reforma de estatutos de la sociedad &apos;&apos;BCI Administradora de Fondos Mutuos S.A.&apos;&apos;, acordada en Junta Extraordinaria de Accionistas celebrada el 15 de diciembre de 1998 y reducida a escritura p&#xFA;blica el 11 de enero de 1999 en la Notar&#xED;a de Santiago de don Kamel Saquel Zaror.</div><div class=\"p\">Reforma consiste en reducir de siete a cinco el n&#xFA;mero de directores. Con motivo de dicha modificaci&#xF3;n se reform&#xF3; el texto del art&#xED;culo 6&#xBA; de los estatutos sociales. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Certifico: Que por resoluci&#xF3;n N&#xBA; 27 de 22 de enero deRECTIFICACION<span class=\"n\" id=\"n_0\"></span> 1999 esta Superintendencia de Valores y Seguros aprob&#xF3; una D.O. 10.03.1999 reforma de estatutos de la sociedad &apos;&apos;BCI Administradora de Fondos Mutuos S.A.&apos;&apos;, acordada en Junta Extraordinaria de Accionistas celebrada el 15 de diciembre de 1998 y reducida a escritura p&#xFA;blica el 11 de enero de 1999 en la Notar&#xED;a de Santiago de don Kamel Saquel Zaror.</div><div class=\"p\">Reforma consiste en reducir de siete a cinco el n&#xFA;mero de directores. Con motivo de dicha modificaci&#xF3;n se reform&#xF3; el texto del art&#xED;culo 6&#xBA; de los estatutos sociales.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

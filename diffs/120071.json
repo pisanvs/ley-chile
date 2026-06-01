@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1998-05-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-08-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6114866,
+          "old": "<div><div class=\"p\">EXEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A AUSTRALIS S.A.</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A AUSTRALIS S.A.</div><br></div>"
+        },
+        {
+          "part_id": 6114867,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  La V Direcci&#xF3;n Regional del Servicio de Impuestos Internos, por resoluci&#xF3;n Ex. N&#xBA; 5362 de 29.10.97, excepciona, a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n, a Australis S.A., Rut. 96.792.010-k, del r&#xE9;gimen de Cambio de Sujeto de I.V.A., establecido en la resoluci&#xF3;n ex. N&#xBA; 5362 de la Direcci&#xF3;n Nacional publicada en el Diario Oficial el d&#xED;a 04.11.97.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  La V Direcci&#xF3;n Regional del Servicio de Impuestos<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 12.08.1998</span> Internos, por resoluci&#xF3;n Ex. N&#xBA; 4 de 30.03.1998, excepciona, a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n, a Australis S.A., Rut. 96.792.010-k, del r&#xE9;gimen de Cambio de Sujeto de I.V.A., establecido en la resoluci&#xF3;n ex. N&#xBA; 3173 de la Direcci&#xF3;n Nacional publicada en el Diario Oficial el d&#xED;a 04.07.97. </div></div>"
+        }
+      ]
+    }
+  }
+]

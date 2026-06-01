@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1984-01-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-01-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9059286,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;ARTICULO 1&#xB0; Establ&#xE9;cese, por el a&#xF1;o 1984, un impuesto extraordinario, a beneficio fiscal, de 25% sobre el valor del impuesto anual por permiso de circulaci&#xF3;n de veh&#xED;culos a que se refiere la letra a) del art&#xED;culo 12&#xB0; del decreto ley 3.063, de 1979.</div><div class=\"p\">&nbsp; &nbsp; Este impuesto extraordinario deber&#xE1; pagarse conjuntamente con el permiso de circulaci&#xF3;n mencionado y se aplicar&#xE1;n a su respecto los mismos procedimientos de cobro, sanciones para los morosos y normas de fiscalizaci&#xF3;n de este &#xFA;ltimo. En todo caso, ning&#xFA;n veh&#xED;culo podr&#xE1; circular sin el comprobante de pago de este impuesto, sin perjuicio de lo dispuesto en el art&#xED;culo 14&#xB0; del decreto ley 3.063, de 1979. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0;. Establ&#xE9;cese, por el a&#xF1;o 1984, un<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp;  1</a></div> impuesto extraordinario, a beneficio fiscal, de 25% sobre el valor del impuesto anual por permiso de circulaci&#xF3;n de veh&#xED;culos a que se refiere la letra a) del art&#xED;culo 12&#xB0; del decreto ley 3.063, de 1979.</div><div class=\"p\">&nbsp; &nbsp; Este impuesto extraordinario deber&#xE1; pagarse conjuntamente con el permiso de circulaci&#xF3;n mencionado y se aplicar&#xE1;n a su respecto los mismos procedimientos de cobro, sanciones para los morosos y normas de fiscalizaci&#xF3;n de este &#xFA;ltimo. En todo caso, ning&#xFA;n veh&#xED;culo podr&#xE1; circular sin el comprobante de pago de este impuesto, sin perjuicio de lo dispuesto en el art&#xED;culo 14&#xB0; del decreto de ley 3.063, de 1979.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp;  1</a> <br>&nbsp; &nbsp;  El art. 37 de la Ley 18.382, prorrog&#xF3;, por el a&#xF1;o 1985, el impuesto extraordinario establecido en el art. 1&#xB0; de la Ley 18.277. Regir&#xE1;n respecto del impuesto prorrogado las mismas disposiciones establecidas en el inciso 2&#xB0; del art&#xED;culo 1&#xB0; de la presente ley.<br>&nbsp; &nbsp; El art. 2&#xB0; de la Ley 18.482, prorrog&#xF3;, por el a&#xF1;o 1986, el impuesto extraordinario establecido en el art. 1&#xB0; de la ley 18.277. Regir&#xE1;n respecto del impuesto prorrogado las mismas disposiciones establecidas en el inciso 2&#xB0; del art&#xED;culo 1&#xB0; de la presente ley.<br>&nbsp; &nbsp; El art&#xED;culo 5&#xB0; de la ley 18.591, prorrog&#xF3;, por el a&#xF1;o 1987, el impuesto extraordinario establecido en el art&#xED;culo 1&#xB0; de la presente ley. Regir&#xE1;n respecto del impuesto prorrogado las mismas disposicones establecidas en el inciso 2&#xB0; del art. 1&#xB0; de la ley 18.277, asimismo se aplicar&#xE1;n en cuanto a su pago las normas del art. 15 del DL 3.063, de 1979. Esta disposici&#xF3;n rige a contar del 1&#xB0; de enero de 1987. (Ley 18.591, art. 110).<br></div></div>"
+        },
+        {
+          "part_id": 9059287,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Prorr&#xF3;gase, hasta el 1&#xB0; de enero de 1985, la aplicaci&#xF3;n del seguro automotriz establecido por el decreto ley 3.252, de 1980, y por el decreto con fuerza de ley 151, de 1981, del Ministerio de Hacienda. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0;. Prorr&#xF3;gase, hasta el 1&#xB0; de enero de 1985, la aplicaci&#xF3;n del seguro automotriz establecido por el decreto ley 3.252. de 1980, y por el decreto con fuerza de ley 151, de 1981, del Ministerio de Hacienda. </div></div>"
+        },
+        {
+          "part_id": 9059288,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; JOSE T. MERINO CASTRO.- FERNANDO MATTHEI AUBEL.- CESAR MENDOZA DURAN.- CESAR RAUL BENAVIDES ESCOBAR.&quot;.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en se&#xF1;al de promulgaci&#xF3;n.</div><div class=\"p\">Ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n oficial de dicha Contralor&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Santiago, 30 de diciembre de 1983.- AUGUSTO PINOCHET UGARTE.- Carlos C&#xE1;ceres, Ministro de Hacienda. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; JOSE T. MERINO CASTRO.- FERNANDO MATTHEI AUBEL.- CESAR MENDOZA DURAN.- CESAR RAUL BENAVIDES ESCOBAR.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en se&#xF1;al de promulgaci&#xF3;n.</div><div class=\"p\">Ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n oficial de dicha Contralor&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Santiago, 30 de diciembre de 1983.- AUGUSTO PINOCHET UGARTE.- Carlos C&#xE1;ceres, Ministro de Hacienda. </div></div>"
+        }
+      ]
+    }
+  }
+]

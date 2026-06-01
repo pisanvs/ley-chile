@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-12-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8956572,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase para 1998, una cuota global anual de captura de Congrio dorado (Genypterus blacodes) de 300 toneladas para el &#xE1;rea de pesca denominada aguas interiores norte, comprendida entre los paralelos 41&#xB0;28,6&apos; L.S. y 47&#xB0; L.S., excluy&#xE9;ndose el &#xE1;rea de pesca de aguas interiores comprendida entre las l&#xED;neas de base rectas y una l&#xED;nea imaginaria que une los puntos Cabo Quil&#xE1;n (43&#xB0;16&apos;,5 L.S. y 74&#xB0;26&apos;,8 L.O.) y el Islote Occidental de la Isla Menchuam (45&#xB0;37&apos;,7 L.S. y 74&#xB0;56&apos;,8 L.O.), entre los paralelos 43&#xB0;44&apos;17&quot; L.S. y 47&#xB0; L.S. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase para 1998, una cuota global anual de captura de Congrio dorado (Genypterus blacodes)<span class=\"n\" id=\"n_0\">DTO 114 EXENTO<br>ECONOMIA<br>ART 1<br>D.O.31.01.1998</span> de 570 toneladas para el &#xE1;rea de pesca denominada aguas interiores norte, comprendida entre los paralelos 41&#xB0;28,6&apos; L.S. y 47&#xB0; L.S., excluy&#xE9;ndose el &#xE1;rea de pesca de aguas interiores comprendida entre las l&#xED;neas de base rectas y una l&#xED;nea imaginaria que une los puntos Cabo Quil&#xE1;n (43&#xB0;16&apos;,5 L.S. y 74&#xB0;26&apos;,8 L.O.) y el Islote Occidental de la Isla Menchuam (45&#xB0;37&apos;,7 L.S. y 74&#xB0;56&apos;,8 L.O.), entre los paralelos 43&#xB0;44&apos;17&quot; L.S. y 47&#xB0; L.S. </div></div>"
+        }
+      ]
+    }
+  }
+]

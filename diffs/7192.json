@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-01-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-07-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7131304,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA NO AFECTOS A LA LEY SOBRE IMPUESTO A LA RENTA INGRESOS QUE SE&#xD1;ALA. SANCIONA INFRACCIONES AL D.F.L. N&#xB0; 1.385 DE 1980</div><div class=\"p\">&nbsp; &nbsp; Santiago, 6 de Enero de 1981.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 3.606.- Vistos: lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973; 527, de 1974; 991, de 1976;</div><div class=\"p\">3.477, de 1980, y D.F.L. n&#xFA;mero 1.385, de 1980.</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; DECLARA NO AFECTOS A LA LEY SOBRE IMPUESTO A LA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> RENTA INGRESOS QUE SE&#xD1;ALA. SANCIONA INFRACCIONES AL D.F.L. N&#xB0; 1.385 DE 1980</div><div class=\"p\">&nbsp; &nbsp; Santiago, 6 de Enero de 1981.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 3.606.- Vistos: lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973; 527, de 1974; 991, de 1976; 3.477, de 1980, y D.F.L. n&#xFA;mero 1.385, de 1980.</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 43 de la LEY 20032, publicada el 25.07.2005, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "fecha": "1992-04-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-08-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5932121,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- La Secci&#xF3;n Nacional Chilena de la Convenci&#xF3;n para la Conservaci&#xF3;n de los Recursos Vivos Marinos Ant&#xE1;rticos (en adelante denominada la Convenci&#xF3;n) estar&#xE1; integrada por:</div><div class=\"p\">&nbsp; &nbsp; a) El Subsecretario de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, quien la presidir&#xE1;.</div><div class=\"p\">&nbsp; &nbsp; b) El Director de Pol&#xED;tica Especial del Ministerio de Relaciones Exteriores, quien subrogar&#xE1; al Presidente en su ausencia.</div><div class=\"p\">&nbsp; &nbsp; c) Un representante del Instituto Ant&#xE1;rtico Chileno.</div><div class=\"p\">&nbsp; &nbsp; d) Un representante de la Subsecretar&#xED;a de Pesca.</div><div class=\"p\">&nbsp; &nbsp; e) Un representante del Servicio Nacional de Pesca.</div><div class=\"p\">&nbsp; &nbsp; f) Un representante del Instituto de Fomento Pesquero.</div><div class=\"p\">&nbsp; &nbsp; g) Un representante del Consejo de Rectores de las Universidades Chilenas.</div><div class=\"p\">&nbsp; &nbsp; h) Un representante del Comit&#xE9; Ocenogr&#xE1;fico Nacional.</div><div class=\"p\">&nbsp; &nbsp; i) Un representante de la Armada Nacional.</div><div class=\"p\">&nbsp; &nbsp; j) Un representante del sector pequero Industrial, designado por el Subsecretario de Pesca.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- La Secci&#xF3;n Nacional Chilena de la Convenci&#xF3;n para la Conservaci&#xF3;n de los Recursos Vivos Marinos Ant&#xE1;rticos (en adelante denominada la Convenci&#xF3;n) estar&#xE1; integrada por:</div><div class=\"p\">&nbsp; &nbsp; a) El Subsecretario de Pesca del Ministerio de Econom&#xED;a, Fomento y Turismo, quien la presidir&#xE1;.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1106373&amp;idParte=9824352&amp;idVersion=2017-08-14\">Decreto 165, <br>RELACIONES EXTERIORES<br>Art. &#xDA;NICO N&#xB0; 1, 2 y 3<br>D.O. 14.08.2017</a></span></div><div class=\"p\">&nbsp; &nbsp; b) Un representante del Ministerio de Relaciones Exteriores, quien subrogar&#xE1; al Presidente en su ausencia.</div><div class=\"p\">&nbsp; &nbsp; c) Un representante del Ministerio del Medio Ambiente.</div><div class=\"p\">&nbsp; &nbsp; d) Un representante del Instituto Ant&#xE1;rtico Chileno.</div><div class=\"p\">&nbsp; &nbsp; e) Un representante de la Subsecretar&#xED;a de Pesca.</div><div class=\"p\">&nbsp; &nbsp; f) Un representante del Servicio Nacional de Pesca.</div><div class=\"p\">&nbsp; &nbsp; g) Un representante del Instituto de Fomento Pesquero.</div><div class=\"p\">&nbsp; &nbsp; h) Un representante del Consejo de Rectores de las Universidades Chilenas.</div><div class=\"p\">&nbsp; &nbsp; i) Un representante del Comit&#xE9; Ocenogr&#xE1;fico Nacional.</div><div class=\"p\">&nbsp; &nbsp; j) Un representante de la Armada Nacional.</div><div class=\"p\">&nbsp; &nbsp; k) Un representante del sector pequero Industrial, designado por el Subsecretario de Pesca.</div><br><br></div>"
+        },
+        {
+          "part_id": 5932124,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- La Secci&#xF3;n Nacional Chilena de la Convenci&#xF3;n tendr&#xE1; una Secretar&#xED;a Ejecutiva, radicada en la Direcci&#xF3;n de Pol&#xED;tica Especial del Ministerio de Relaciones Exteriores, la que estar&#xE1; a cargo del Director correspondiente.</div><div class=\"p\">&nbsp; &nbsp; Dicha Secretar&#xED;a tendr&#xE1; a su cargo los archivos de la Secci&#xF3;n Nacional Chilena de la Convenci&#xF3;n y tendr&#xE1; la responsabilidad de dar cumplimiento a sus resoluciones. Los gastos que pueda irrogar la Secretar&#xED;a ser&#xE1;n de cargo del Ministerio de Relaciones Exteriores, los que se imputar&#xE1;n al subt&#xED;tulo 22 del presupuesto de este Servicio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- La Secci&#xF3;n Nacional Chilena de la Convenci&#xF3;n tendr&#xE1;<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1106373&amp;idParte=9824352&amp;idVersion=2017-08-14\">Decreto 165,<br>RELACIONES EXTERIORES<br>Art. &#xDA;NICO N&#xB0; 4<br>D.O. 14.08.2017</a></span> una Secretar&#xED;a Ejecutiva, radicada en el Ministerio de Relaciones Exteriores, la que estar&#xE1; a cargo del Director de esta Secretar&#xED;a de Estado con competencia en materia ant&#xE1;rtica.</div><div class=\"p\">&nbsp; &nbsp;  Dicha Secretar&#xED;a tendr&#xE1; a su cargo los archivos de la Secci&#xF3;n Nacional Chilena de la Convenci&#xF3;n y tendr&#xE1; la responsabilidad de dar cumplimiento a sus resoluciones. Los gastos que pueda irrogar la Secretar&#xED;a ser&#xE1;n de cargo del Ministerio de Relaciones Exteriores, los que se imputar&#xE1;n al subt&#xED;tulo 22 del presupuesto de este Servicio.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1106373,
+      "fecha": "2017-08-14"
+    }
+  },
+  {
+    "fecha": "2023-10-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1970-07-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-07-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8762572,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13.- Habr&#xE1; en cada Casino autorizado que funcione en el territorio nacional un &quot;Fondo de Solidaridad&quot;, integrado por las propinas dadas por el p&#xFA;blico en las mesas de las Salas de Juego.</div><div class=\"p\">&nbsp; &nbsp; Dicho Fondo deber&#xE1; ser distribuido mensualmente entre todo el personal profesional de empleados que preste servicios en las respectivas Salas de Juego, de acuerdo a un Reglamento, en el cual s&#xF3;lo se tomar&#xE1; en cuenta, para esa distribuci&#xF3;n, la calificaci&#xF3;n y antig&#xFC;edad de dicho personal. Los ingresos provenientes del reparto de ese Fondo no constituir&#xE1;n remuneraciones ni renta de los beneficiarios para los efectos legales, ni estar&#xE1;n sujetos a gravamen o impuesto alguno. Corresponder&#xE1; a la respectiva Tesorer&#xED;a Comunal fiscalizar el ingreso de estos dineros y su distribuci&#xF3;n conforme al Reglamento mencionado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13.- Habr&#xE1; en cada Casino autorizado que funcione en el territorio nacional un &quot;Fondo de Solidaridad&quot;, integrado por las propinas dadas por el p&#xFA;blico en las mesas de las Salas de Juego.</div><div class=\"p\">&nbsp; &nbsp; Dicho Fondo deber&#xE1; ser distribuido mensualmente entre todo el personal profesional de empleados que preste servicios en las respectivas Salas de Juego, de acuerdo a un Reglamento, en el cual s&#xF3;lo se tomar&#xE1; en cuenta, para esa distribuci&#xF3;n, la calificaci&#xF3;n y antig&#xFC;edad de dicho personal. Los ingresos provenientes del reparto de ese Fondo no constituir&#xE1;n remuneraciones ni renta de los beneficiarios para los efectos legales, ni estar&#xE1;n sujetos a gravamen o impuesto alguno. Corresponder&#xE1; a la respectiva Tesorer&#xED;a Municipal<span class=\"n\" id=\"n_0\">LEY 19506<br>Art. 9<br>D.O. 30.07.1997</span> fiscalizar el ingreso de estos dineros y su distribuci&#xF3;n conforme al Reglamento mencionado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

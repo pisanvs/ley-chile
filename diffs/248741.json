@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-04-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-03-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6566361,
+          "old": "<div><div class=\"p\">CREASE EL SERVICIO POSTAL DENOMINADO ENCOMIENDA INTERNACIONAL REGISTRADA Y FIJA TARIFAS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 12 exenta.- Santiago, 29 Marzo 2006.- Vistos y considerando: El art&#xED;culo 2&#xB0; del D.F.L N&#xB0;10 de 1981 y el art&#xED;culo N&#xB0;5 del Decreto N&#xB0;642, de 2004, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; los art&#xED;culos N&#xB0;32, 73,74, 76 y 77 del Decreto N&#xB0;5.037 de 1960 y el Decreto N&#xB0;748 de 1962, ambos del Ministerio del Interior; el Acuerdo de Directorio N&#xB0;04 adoptado por el Directorio de la Empresa de Correos de Chile en Sesi&#xF3;n Primera Ordinaria, celebrada el 13 de enero de 2006; la Resoluci&#xF3;n N&#xB0;520 de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las facultades que me confiere la Resoluci&#xF3;n N&#xB0;1 de 2002 de la Empresa, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">CREASE EL SERVICIO POSTAL DENOMINADO ENCOMIENDA INTERNACIONAL REGISTRADA Y FIJA TARIFAS <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 12 exenta.- Santiago, 29 Marzo 2006.- Vistos y considerando: El art&#xED;culo 2&#xB0; del D.F.L N&#xB0;10 de 1981 y el art&#xED;culo N&#xB0;5 del Decreto N&#xB0;642, de 2004, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; los art&#xED;culos N&#xB0;32, 73,74, 76 y 77 del Decreto N&#xB0;5.037 de 1960 y el Decreto N&#xB0;748 de 1962, ambos del Ministerio del Interior; el Acuerdo de Directorio N&#xB0;04 adoptado por el Directorio de la Empresa de Correos de Chile en Sesi&#xF3;n Primera Ordinaria, celebrada el 13 de enero de 2006; la Resoluci&#xF3;n N&#xB0;520 de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las facultades que me confiere la Resoluci&#xF3;n N&#xB0;1 de 2002 de la Empresa, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 2 de la Resoluci&#xF3;n 25 Exenta, Empresa de Correos, publicada el 05.03.2012, deroga, en lo pertinente, la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

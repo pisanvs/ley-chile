@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2005-06-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-09-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6530809,
+          "old": "<div><div class=\"p\">DEJA SIN EFECTO CANCELACION DE INSCRIPCION </div></div>",
+          "new": "<div><div class=\"p\">DEJA SIN EFECTO CANCELACION DE INSCRIPCION</div><br><br></div>"
+        },
+        {
+          "part_id": 6530810,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n exenta N&#xBA; 1.153, de 16 de junio de 2005, del Servicio Nacional de Capacitaci&#xF3;n y Empleo, deja sin efecto la cancelaci&#xF3;n de inscripci&#xF3;n en el Registro Nacional del organismo t&#xE9;cnico de capacitaci&#xF3;n &quot;Corporaci&#xF3;n Internacional de Extensi&#xF3;n Cultura CIEC S.A.&quot; RUT. 96.667.500-4, contenida en resoluci&#xF3;n exenta de 2005.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n exenta N&#xBA; 1.153, de 16 de junio de 2005, del Servicio Nacional de Capacitaci&#xF3;n y Empleo, se cancela la autorizaci&#xF3;n otorgada al organismo t&#xE9;cnico<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 21.09.2005</span> de capacitaci&#xF3;n &quot;Ingenier&#xED;a de Software S.A.&quot; (Infoland Ingenier&#xED;a S.A.), RUT N&#xBA; 99.508.350-7, contenida en resoluci&#xF3;n exenta N&#xBA; 3.322, de 28 de marzo de 2003.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

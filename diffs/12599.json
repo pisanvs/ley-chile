@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1994-05-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-07-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5907917,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Cr&#xE9;ase en la Comuna de Santiago, Provincia de Santiago de la Regi&#xF3;n Metropolitana, una Unidad Penal que se denominar&#xE1; Unidad Especial de Alta Seguridad, cuya direcci&#xF3;n y administraci&#xF3;n corresponder&#xE1; al Servicio de Gendarmer&#xED;a de Chile en conformidad a la normativa legal vigente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Cr&#xE9;ase en la Comuna de Santiago, Provincia de Santiago de la Regi&#xF3;n Metropolitana, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1205205&amp;idParte=10509689&amp;idVersion=2024-07-25\">Decreto 90,<br>JUSTICIA<br>N&#xBA; 1<br>D.O. 25.07.2024</a></span>un establecimiento penitenciario especial, que se denominar&#xE1; Recinto Especial Penitenciario de Alta Seguridad, cuya direcci&#xF3;n y administraci&#xF3;n corresponder&#xE1; al Servicio de Gendarmer&#xED;a de Chile en conformidad a la normativa legal vigente.</div><br><br></div>"
+        },
+        {
+          "part_id": 5907918,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- La Unidad Penal que se crea, ser&#xE1; destinada preferentemente a los internos se&#xF1;alados en el art&#xED;culo 27 del Decreto Supremo N&#xB0; 1.771, de 1992, del Ministerio de Justicia que aprob&#xF3; el Reglamento de Establecimientos Penitenciarios.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1205205&amp;idParte=10509689&amp;idVersion=2024-07-25\">Decreto 90,<br>JUSTICIA<br>N&#xBA; 2<br>D.O. 25.07.2024</a></span>rt&#xED;culo 2&#xBA;.- El Recinto Especial Penitenciario de Alta Seguridad, ser&#xE1; destinado preferentemente a las personas privadas de libertad cuyas causas est&#xE9;n asociadas a su participaci&#xF3;n dentro de bandas delictuales identificadas con el crimen organizado de car&#xE1;cter nacional o internacional, y otros casos que requieren la aplicaci&#xF3;n de un r&#xE9;gimen interno con mayores condiciones de seguridad.</div><br><br></div>"
+        },
+        {
+          "part_id": 5907919,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Mediante Resoluci&#xF3;n fundada del Director Nacional de Gendarmer&#xED;a de Chile, se dispondr&#xE1; el traslado a la Unidad referida en el art&#xED;culo 1&#xB0; del presente Decreto, de las personas que tengan la calificaci&#xF3;n de peligrosidad extrema y que se encuentren actualmente privadas de la libertad en otras Unidades Penales del pa&#xED;s, recabando la autorizaci&#xF3;n del Juez de la causa que corresponda.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1205205&amp;idParte=10509689&amp;idVersion=2024-07-25\">Decreto 90,<br>JUSTICIA<br>N&#xBA; 3<br>D.O. 25.07.2024</a></span>&#xED;culo 3&#xBA;.- Mediante resoluci&#xF3;n fundada del Director Nacional de Gendarmer&#xED;a de Chile, se dispondr&#xE1; el ingreso o traslado al establecimiento referido en el art&#xED;culo 1&#xBA; del presente decreto, de las personas consignadas en el art&#xED;culo 2&#xBA;, recabando la autorizaci&#xF3;n del tribunal competente, cuando corresponda.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1205205,
+      "fecha": "2024-07-25"
+    }
+  }
+]

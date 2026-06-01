@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2017-07-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-10-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9815944,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  N&#xF3;mina de Personas Seleccionadas, Alternativa Individual para operaciones de Adquisici&#xF3;n de Vivienda Construida o Adscripci&#xF3;n a N&#xF3;mina de Oferta</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/68695.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  N&#xF3;mina de Personas Seleccionadas, Alternativa Individual para operaciones de Construcci&#xF3;n en Sitio Propio</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/68696.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  N&#xF3;mina de Personas Seleccionadas, Alternativa Individual para operaciones de Adquisici&#xF3;n de Vivienda Construida o <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Adscripci&#xF3;n a N&#xF3;mina de Oferta</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/68695.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  N&#xF3;mina de Personas Seleccionadas, Alternativa Individual para operaciones de Construcci&#xF3;n en Sitio Propio</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/68696.jpg\">.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 12189 Exenta, Vivienda, publicado el 21.10.2017, modifica la presente norma en el sentido de rectificar la n&#xF3;mina de Personas Seleccionadas, Alternativa Individual para operaciones de Adquisici&#xF3;n de Vivienda Construida o Adscripci&#xF3;n a N&#xF3;mina de Oferta, en el sentido de corregir la Regi&#xF3;n de aplicaci&#xF3;n del subsidio, como se indica en la citada norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

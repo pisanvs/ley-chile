@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-07-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6123660,
+          "old": "<div><br><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A FULLMARKETS.A.</div><br></div>",
+          "new": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A FULLMARKET S.A.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

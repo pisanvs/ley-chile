@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-12-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9655576,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Modif&#xED;quese la <a href=\"https://www.leychile.cl/Navegar?idNorma=185608&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 84, de 15 de mayo de 2001 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n</a>, actual Ministerio de Econom&#xED;a, Fomento y Turismo, en el sentido de designar a do&#xF1;a Ivette Alejandra Fern&#xE1;ndez Delgado, en car&#xE1;cter de representante titular y do&#xF1;a Mar&#xED;a Isabel M&#xE9;ndez Ferrada, en car&#xE1;cter de representante alterno del referido titular, ambos ante la Comisi&#xF3;n T&#xE9;cnica encargada de conocer las solicitudes de reconsideraci&#xF3;n de reintegro simplificado a los exportadores, en representaci&#xF3;n del Banco Central.</div><div class=\"p\">&nbsp; &nbsp;  Por razones de buen servicio las personas individualizadas en el art&#xED;culo primero de esta resoluci&#xF3;n, deber&#xE1;n asumir sus funciones desde la fecha del presente acto administrativo, sin esperar la total tramitaci&#xF3;n del mismo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Modif&#xED;quese la resoluci&#xF3;n exenta N&#xBA; 84, de 15 de mayo de 2001 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, actual Ministerio de Econom&#xED;a, Fomento y Turismo, en el sentido de designar a do&#xF1;a Ivette Alejandra Fern&#xE1;ndez Delgado, en car&#xE1;cter de representante titular y do&#xF1;a Mar&#xED;a Isabel M&#xE9;ndez Ferrada, en car&#xE1;cter de representante alterno del referido titular, ambos ante la <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Comisi&#xF3;n T&#xE9;cnica encargada de conocer las solicitudes de reconsideraci&#xF3;n de reintegro simplificado a los exportadores, en representaci&#xF3;n del Banco Central.</div><div class=\"p\">&nbsp; &nbsp;  Por razones de buen servicio las personas individualizadas en el art&#xED;culo primero de esta resoluci&#xF3;n, deber&#xE1;n asumir sus funciones desde la fecha del presente acto administrativo, sin esperar la total tramitaci&#xF3;n del mismo.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 17 Exenta, Econom&#xED;a, publicada el 06.02.2019, modifica la presente norma en el sentido de designar a do&#xF1;a Mar&#xED;a Pilar Pozo Fraile, en car&#xE1;cter de representante titular del Banco Central ante la Comisi&#xF3;n T&#xE9;cnica que contempla el art&#xED;culo 6&#xB0; de la ley N&#xB0; 18.480.</div></div>"
+        }
+      ]
+    }
+  }
+]

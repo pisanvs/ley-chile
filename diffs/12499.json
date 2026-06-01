@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-01-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-09-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9092961,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO SOBRE FUNCIONAMIENTO DE MATADEROS, CAMARAS FRIGORIFICAS Y CENTRALES DE DESPOSTE Y FIJA EQUIPAMIENTO MINIMO DE TALES ESTABLECIMIENTOS</div><div class=\"p\">&nbsp; &nbsp; Santiago, 1 de Diciembre de 1993.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 342.- Visto: lo establecido en el art&#xED;culo 2&#xB0; de la ley N&#xB0; 19.162 y lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, Decreto:</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO SOBRE FUNCIONAMIENTO DE MATADEROS, CAMARAS FRIGORIFICAS Y CENTRALES DE DESPOSTE Y FIJA EQUIPAMIENTO MINIMO DE TALES ESTABLECIMIENTOS</div><div class=\"p\">&nbsp; &nbsp; Santiago, 1 de Diciembre de 1993.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 342.- Visto: lo establecido en el art&#xED;culo 2&#xB0; de la ley N&#xB0; 19.162 y lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, Decreto:</div><br><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

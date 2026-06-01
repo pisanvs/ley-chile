@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-04-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6021023,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CERTIFICA CALIDAD DE AGENTE RETENEDOR DE ACUERDO CON LA RESOLUCION N&#xB0; 6.111 EXENTA, DE 1993</div><div class=\"p\">&nbsp; &nbsp; Santiago, 13 de enero de 1994.- Hoy se ha resuelto lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 150 exenta.- Vistos: El escrito de 07.01.93, presentado por don V&#xED;ctor Signorio Ferretti, en representaci&#xF3;n de Importadora Caf&#xE9; Do Brasil S.A.C.I., ambos con domicilio en Wescenlao S&#xE1;nchez N&#xB0; 060, comuna Estaci&#xF3;n Central, en el cual se solicita se certifique su calidad de agente retenedor, de acuerdo con la Res.-</div><div class=\"p\">N&#xB0; Ex.- N&#xB0; 6111, de 17.11.93, de este Servicio, publicada en el D.O. de 20.11.93.</div><div class=\"p\">&nbsp; &nbsp; Con lo relacionado, y Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Que, Los contribuyentes adquirentes de legumbres que sean retenedores en virtud de cumplir con la condici&#xF3;n de haber adquirido 500 toneladas m&#xE9;tricas o m&#xE1;s del producto, deben de solicitar a este Servicio les certifique su calidad de agente retenedor, de acuerdo con lo dispuesto en la Res.- N&#xB0; Ex.- 6111, de 1993 de este Servicio; publicada en el D.O de 20.11.93.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Que, en Informe N&#xB0; 04 de 05.01.93 emitido por el Depto. Regional de Fiscalizaci&#xF3;n, se certifica que el solicitante cumple con los requisitos establecidos en el dispositivo N&#xB0; 12 de la Resoluci&#xF3;n a que se refiere el considerando precedente;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- Que, de acuerdo con lo establecido en los considerandos anteriores, esta Direcci&#xF3;n Regional estima procedente la certificaci&#xF3;n de agente retenedor solicitada por el contribuyente,</div><div class=\"p\">&nbsp; &nbsp; Visto, adem&#xE1;s, lo dispuesto en el art&#xED;culo 6&#xB0;, letra B) N&#xB0; 5 del C&#xF3;digo Tributario,</div><div class=\"p\">&nbsp; &nbsp; Se resuelve:</div><br></div>",
+          "new": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DE ACUERDO CON LA RESOLUCION N&#xB0; 6.111 EXENTA, DE 1993</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 13 de enero de 1994.- Hoy se ha resuelto lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 150 exenta.- Vistos: El escrito de 07.01.93, presentado por don V&#xED;ctor Signorio Ferretti, en representaci&#xF3;n de Importadora Caf&#xE9; Do Brasil S.A.C.I., ambos con domicilio en Wescenlao S&#xE1;nchez N&#xB0; 060, comuna Estaci&#xF3;n Central, en el cual se solicita se certifique su calidad de agente retenedor, de acuerdo con la Res.-</div><div class=\"p\">N&#xB0; Ex.- N&#xB0; 6111, de 17.11.93, de este Servicio, publicada en el D.O. de 20.11.93.</div><div class=\"p\">&nbsp; &nbsp; Con lo relacionado, y</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Que, Los contribuyentes adquirentes de legumbres que sean retenedores en virtud de cumplir con la condici&#xF3;n de haber adquirido 500 toneladas m&#xE9;tricas o m&#xE1;s del producto, deben de solicitar a este Servicio les certifique su calidad de agente retenedor, de acuerdo con lo dispuesto en la Res.- N&#xB0; Ex.- 6111, de 1993 de este Servicio; publicada en el D.O de 20.11.93.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Que, en Informe N&#xB0; 04 de 05.01.93 emitido por el Depto. Regional de Fiscalizaci&#xF3;n, se certifica que el solicitante cumple con los requisitos establecidos en el dispositivo N&#xB0; 12 de la Resoluci&#xF3;n a que se refiere el considerando precedente;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- Que, de acuerdo con lo establecido en los considerandos anteriores, esta Direcci&#xF3;n Regional estima procedente la certificaci&#xF3;n de agente retenedor solicitada por el contribuyente,</div><div class=\"p\">&nbsp; &nbsp; Visto, adem&#xE1;s, lo dispuesto en el art&#xED;culo 6&#xB0;, letra B) N&#xB0; 5 del C&#xF3;digo Tributario,</div><br><div class=\"p\">&nbsp; &nbsp; Se resuelve:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

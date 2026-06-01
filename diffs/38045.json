@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7200892,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA PORCENTAJE DE COINCIDENCIA ENTRE UN TRAZADO TRONCAL Y EL CONJUNTO DE TRAZADOS DENOMINADOS VARIANTES N&#xFA;m. 037 exenta.- Antofagasta, 21 de Noviembre de 1991.- Vistos: El Decreto Supremo N&#xB0; 148 de 1991, P&#xE1;rrafo 5;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA PORCENTAJE DE COINCIDENCIA ENTRE UN TRAZADO TRONCAL Y EL CONJUNTO DE TRAZADOS DENOMINADOS VARIANTES N&#xFA;m. 037 exenta.- Antofagasta, 21 de Noviembre de 1991.- Vistos: El Decreto Supremo N&#xB0; 148 de 1991, P&#xE1;rrafo 5;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

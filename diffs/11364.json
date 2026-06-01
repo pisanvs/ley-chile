@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-08-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9039768,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- El territorio operacional de la Empresa comprende las &#xE1;reas urbanas de la Regi&#xF3;n de Valpara&#xED;so, que actualmente atiende, exceptuados los sectores entregados en concesi&#xF3;n a servicios particulares o municipales. Dicho territorio podr&#xE1; ampliarse de acuerdo con los planes de expansi&#xF3;n aprobados por el Ministerio de Obras P&#xFA;blicas, a proposici&#xF3;n de la Empresa.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- El territorio operacional de la<span class=\"n\" id=\"n_0\">DS 139 OOPP<br>1989, Art.<br>6&#xB0;</span> Empresa de Obras Sanitarias de la Va. Regi&#xF3;n comprende las &#xE1;reas urbanas de la Va. Regi&#xF3;n que actualmente atiende y los sectores rurales de esa Regi&#xF3;n comprendidos dentro de los actuales l&#xED;mites de atenci&#xF3;n de los Servicios de Agua Potable Rural traspasados a esa Empresa, exceptuados los sectores entregados en concesi&#xF3;n a servicios particulares o municipalidades.</div><div class=\"p\">&nbsp; &nbsp; El territorio operacional podr&#xE1; ampliarse de acuerdo a los planes de expansi&#xF3;n que apruebe el Ministerio de Obras P&#xFA;blicas a proposici&#xF3;n de la Empresa.</div><div class=\"p\">&nbsp; &nbsp; Se entiende por &#xE1;reas urbanas actualmente atendidas, aquellas que, seg&#xFA;n los planes ordinarios de expansi&#xF3;n de la Empresa, cuenten con matrices con capacidad disponible para alimentar y, en su caso, desaguar las redes de terrenos a urbanizar.</div><div class=\"p\">&nbsp; &nbsp; En dichos territorios operacionales los niveles de servicio, dotaciones y densidad respectivas ser&#xE1;n los actualmente existentes.</div><div class=\"p\">&nbsp; &nbsp; La Empresa de Obras Sanitarias de la Va. Regi&#xF3;n, dentro del plazo de ciento veinte d&#xED;as, contados desde la fecha de publicaci&#xF3;n de este Decreto, entregar&#xE1; a las respectivas Municipalidades los planos de las &#xE1;reas urbanas comprendidas en el territorio operacional, con indicaci&#xF3;n de los actuales niveles de servicio, dotaciones y densidades m&#xE1;ximas.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

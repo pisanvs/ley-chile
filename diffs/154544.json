@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-08-05",
+    "tipo_version_s": "Única",
+    "diff": null
+  },
+  {
+    "fecha": "2026-09-17",
+    "tipo_version_s": "Con Vigencia Diferida por Fecha",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6229298,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo lo.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile la norma t&#xE9;cnica que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp;  - NCh 1990 Of. 86 Maderas Tensiones admisibles para madera estructural.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo lo.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile la norma t&#xE9;cnica que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp;  - NCh 1990 Of. 86 Derogada<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1222321&amp;idParte=10587694&amp;idVersion=2026-03-16\">Decreto 13 EXENTO,<br>VIVIENDA<br>N&#xB0; 6<br>D.O. 16.03.2026</a></span>.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

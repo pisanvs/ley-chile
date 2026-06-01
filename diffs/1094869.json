@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2016-09-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-11-16",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10285120,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio. El <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1168366&amp;idParte=10285082&amp;idVersion=2021-11-16\">Decreto 47<br>Art. &#xFA;nico<br>D.O. 16.11.2021</a></span>primer proceso de revisi&#xF3;n de la Pol&#xED;tica Nacional de Seguridad y Salud en el Trabajo, que deb&#xED;a efectuarse conforme se se&#xF1;ala en el art&#xED;culo segundo de este decreto, deber&#xE1; iniciarse una vez transcurridos noventa d&#xED;as corridos, contados desde el cese de la vigencia del estado de excepci&#xF3;n constitucional de cat&#xE1;strofe, por calamidad p&#xFA;blica, en el territorio de Chile, declarado mediante decreto supremo N&#xBA; 104, de 2020, del Ministerio del Interior y Seguridad P&#xFA;blica, y sus respectivas pr&#xF3;rrogas.</div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1168366,
+      "fecha": "2021-11-16"
+    }
+  },
+  {
+    "fecha": "2024-05-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

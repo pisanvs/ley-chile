@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-03-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-07-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8827205,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR PARA LOS FUNCIONARIOS DE LA UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION Y DEROGA DECRETO QUE INDICA N&#xFA;m. 160.- Santiago, octubre 31 de 1995.- Vistos: los antecedentes adjuntos y lo dispuesto en el art&#xED;culo 134, de la Ley N&#xB0; 11.764, en el art&#xED;culo 24 de la Ley N&#xB0; 16.395, en el art&#xED;culo &#xFA;nico de la Ley N&#xB0; 17.538; en el D.S. N&#xB0; 28, de 1994, del Ministerio del Trabajo y Previsi&#xF3;n Social, y la facultad que me confiere el art&#xED;culo 32, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR PARA LOS FUNCIONARIOS DE LA UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION Y DEROGA DECRETO QUE INDICA </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 160.- Santiago, octubre 31 de 1995.- Vistos: los antecedentes adjuntos y lo dispuesto en el art&#xED;culo 134, de la Ley N&#xB0; 11.764, en el art&#xED;culo 24 de la Ley N&#xB0; 16.395, en el art&#xED;culo &#xFA;nico de la Ley N&#xB0; 17.538; en el D.S. N&#xB0; 28, de 1994, del Ministerio del Trabajo y Previsi&#xF3;n Social, y la facultad que me confiere el art&#xED;culo 32, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

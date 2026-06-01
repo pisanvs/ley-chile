@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1968-02-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-11-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7115023,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS SOBRE COOPERATIVAS CAMPESINAS Santiago, 18 de Enero de 1968.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 13.- Vistos: las facultades que me confiere el art&#xED;culo 192&#xB0;, de la ley N&#xB0; 16.640, vengo en dictar el siguiente:</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\"> ESTABLECE NORMAS SOBRE COOPERATIVAS CAMPESINAS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1:</a></div></div><div class=\"p\">&nbsp; &nbsp; Santiago, 18 de Enero de 1968.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 13.- Vistos: las facultades que me confiere el art&#xED;culo 192&#xB0;, de la ley N&#xB0; 16.640, vengo en dictar el siguiente:</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 138 del DTO 502, Econom&#xED;a, publicado el 09.11.1978, en su texto reemplazado por el N&#xBA; 148 del Art. 1&#xBA; de la LEY 19832, publicada el 04.11.2002, derog&#xF3; la presente norma a partir de 6 meses despu&#xE9;s de la publicaci&#xF3;n de la referida ley, de conformidad con lo dispuesto en el Art. 11 Transitorio, que su N&#xBA; 150 incorpora en el DTO 502.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 124 del DFL 5, Econom&#xED;a, publicado el 17.02.2004, cuyo texto fij&#xF3; el texto refundido de la Ley de Cooperativas, reiter&#xF3; la derogaci&#xF3;n del presente decreto con fuerza de ley. Su Art. 11 Transitorio determin&#xF3; que la fecha de inicio de vigencia de la LEY 19832, referida en la nota anterior, es el 4 de mayo de 2003.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-05-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7212197,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 808 EXENTO, DE 1997 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 808 EXENTO, DE 1997</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-06-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6026501,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DELEGA EN JEFES DE DEPARTAMENTOS PROVINCIALES DE EDUCACION LA FACULTAD DE ORDENAR COMETIDOS O DESIGNAR EN COMISIONES DE SERVICIO A FUNCIONARIOS DE SU DEPENDENCIA N&#xFA;m. 3.209 exenta.- Santiago, 20 de Agosto de 1993.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; La necesidad de contar con una administraci&#xF3;n m&#xE1;s &#xE1;gil y eficiente;</div><div class=\"p\">&nbsp; &nbsp; La necesidad de hacer m&#xE1;s expedito el despacho de la documentaci&#xF3;n correspondiente a esta Secretar&#xED;a de Estado; y,</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en las Leyes N&#xB0;s. 16.436, 16.840, 18.575, 18.834 y 18.956, y la Resoluci&#xF3;n N&#xB0; 55, de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica, Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DELEGA EN JEFES DE DEPARTAMENTOS PROVINCIALES DE EDUCACION LA FACULTAD DE ORDENAR COMETIDOS O DESIGNAR EN COMISIONES DE SERVICIO A FUNCIONARIOS DE SU DEPENDENCIA N&#xFA;m. 3.209 exenta.- Santiago, 20 de Agosto de 1993.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; La necesidad de contar con una administraci&#xF3;n m&#xE1;s &#xE1;gil y eficiente;</div><div class=\"p\">&nbsp; &nbsp; La necesidad de hacer m&#xE1;s expedito el despacho de la documentaci&#xF3;n correspondiente a esta Secretar&#xED;a de Estado; y,</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en las Leyes N&#xB0;s. 16.436, 16.840, 18.575, 18.834 y 18.956, y la Resoluci&#xF3;n N&#xB0; 55, de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica, Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

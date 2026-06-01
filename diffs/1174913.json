@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-04-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-04-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10327608,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, arch&#xED;vese, notif&#xED;quese y publ&#xED;quese en la p&#xE1;gina web del Ministerio de Educaci&#xF3;n y en el Diario Oficial con cargo al Ministerio de Educaci&#xF3;n.- M&#xF3;nica Figueroa Huencho, Subsecretaria de Educaci&#xF3;n Superior.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, arch&#xED;vese, notif&#xED;quese y publ&#xED;quese en la p&#xE1;gina web del Ministerio de Educaci&#xF3;n y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1175465&amp;idParte=10330067&amp;idVersion=2022-04-30\">Rectificaci&#xF3;n 2415<br>D.O. 30.04.2022</a></span>en el Diario Oficial con cargo al Ministerio de Educaci&#xF3;n. Ver&#xF3;nica Figueroa Huencho, Subsecretaria de Educaci&#xF3;n Superior.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1175465,
+      "fecha": "2022-04-30"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-07-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7299598,
+          "old": "<div><div class=\"p\">DESIGNA A DON OSCAR NAVIA MANCILLA COMO TESORERO PROVINCIAL DE LA TESORERIA PROVINCIAL DE SAN FELIPE </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 30 de abril de 2003.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 996.- Vistos. El Art. 5&#xBA; del D.F.L. N&#xBA; 1, de 1994, del Ministerio de Hacienda, sobre Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;as, el D.H. N&#xBA; 1.257, de 2002 y la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto la siguiente </div><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA A DON OSCAR NAVIA MANCILLA COMO TESORERO PROVINCIAL DE LA TESORERIA PROVINCIAL DE SAN FELIPE </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 30 de abril de 2003.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 996.- Vistos. El Art. 5&#xBA; del D.F.L. N&#xBA; 1, de 1994, del Ministerio de Hacienda, sobre Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;as, el D.H. N&#xBA; 1.257, de 2002 y la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto la siguiente </div><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

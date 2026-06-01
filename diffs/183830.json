@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2001-04-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-02-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8647768,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- El grado de &quot;Gran Oficial&quot; podr&#xE1; ser otorgado a los Subsecretarios de Estado, Vicepresidentes de C&#xE1;maras Legislativas, miembros de las Cortes Supremas de Justicia, Senadores, Generales de Divisi&#xF3;n y de Brigada, Vicealmirantes y Contraalmirantes de Armada, Generales de Aviaci&#xF3;n y de Brigada A&#xE9;rea, Generales Inspectores y Generales de Carabineros y dem&#xE1;s funcionarios que tengan un rango equivalente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- El grado de &quot;Gran Oficial&quot; podr&#xE1; ser otorgado a los Subsecretarios de Estado, Vicepresidentes de C&#xE1;maras Legislativas, miembros de las Cortes Supremas de Justicia, Senadores, Generales de Divisi&#xF3;n y de Brigada, Vicealmirantes y Contraalmirantes de Armada, Generales de Aviaci&#xF3;n y de Brigada A&#xE9;rea, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1099909&amp;idParte=9767747&amp;idVersion=2017-02-08\">Decreto 42, <br>RELACIONES EXTERIORES<br>Art. &#xDA;NICO N&#xB0; 1<br>D.O. 08.02.2017</a></span>y Generales de las Fuerzas de Orden y Seguridad y dem&#xE1;s funcionarios que tengan un rango equivalente.</div><br><br></div>"
+        },
+        {
+          "part_id": 8647769,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xBA;.- El grado de &quot;Comendador&quot; podr&#xE1; concederse a Encargados de Negocios, Ministros Consejeros y Consejeros de Embajadas, C&#xF3;nsules Generales, Diputados, Presidentes de Corporaciones Cient&#xED;ficas, miembros de Cortes de Apelaciones, Coroneles y Tenientes Coroneles de Ej&#xE9;rcito, Capitanes de Nav&#xED;o y de Fragata, Coroneles de Aviaci&#xF3;n y Comandantes de Grupo, Coroneles y Tenientes Coroneles de Carabineros.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xBA;.- El grado de &quot;Comendador&quot; podr&#xE1; concederse a Encargados de Negocios, Ministros Consejeros y Consejeros de Embajadas, C&#xF3;nsules Generales, Diputados, Presidentes de Corporaciones Cient&#xED;ficas, miembros de Cortes de Apelaciones, Coroneles y Tenientes Coroneles de Ej&#xE9;rcito, Capitanes de Nav&#xED;o y de Fragata, Coroneles de Aviaci&#xF3;n y Comandantes de Grupo, ofic<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1099909&amp;idParte=9767747&amp;idVersion=2017-02-08\">Decreto 42, <br>RELACIONES EXTERIORES<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 08.02.2017</a></span>iales superiores de las Fuerzas de Orden y Seguridad.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8647770,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16&#xBA;.- El grado de &quot;Oficial&quot; podr&#xE1; conferirse a Primeros Secretarios de Embajadas, C&#xF3;nsules Particulares, Mayores y Capitanes de Ej&#xE9;rcito, Capitanes de Corbeta y Tenientes Primeros de Marina, Comandantes de Escuadrilla y Capitanes de Bandada de Aviaci&#xF3;n y Mayores y Capitanes de Carabineros, Jueces de Letras, miembros de las Municipalidades y autoridades de igual categor&#xED;a.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16&#xBA;.- El grado de &quot;Oficial&quot; podr&#xE1; conferirse a Primeros Secretarios de Embajadas, C&#xF3;nsules Particulares, Mayores y Capitanes de Ej&#xE9;rcito, Capitanes de Corbeta y Tenientes Primeros de Marina, Comandantes de Escuadrilla y Capitanes de Bandada de Aviaci&#xF3;n y <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1099909&amp;idParte=9767747&amp;idVersion=2017-02-08\">Decreto 42, <br>RELACIONES EXTERIORES<br>Art. &#xDA;NICO N&#xB0; 3<br>D.O. 08.02.2017</a></span>oficiales superiores de las Fuerzas de Orden y Seguridad, Jueces de Letras, miembros de las Municipalidades y autoridades de igual categor&#xED;a.</div><br><br></div>"
+        },
+        {
+          "part_id": 8647771,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;.- El grado de &quot;Caballero&quot; podr&#xE1; otorgarse a Segundos y Terceros Secretarios de Embajadas, Agregados Civiles y Comerciales, Tenientes y Subtenientes de Ej&#xE9;rcito, Tenientes Segundos y Guardiamarinas de la Armada, Tenientes y Subtenientes de Aviaci&#xF3;n, Tenientes y Subtenientes de Carabineros, Vicec&#xF3;nsules, Cancilleres y dem&#xE1;s funcionarios que tengan un rango equivalente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;.- El grado de &quot;Caballero&quot; podr&#xE1; otorgarse a Segundos y Terceros Secretarios de Embajadas, Agregados Civiles y Comerciales, Tenientes y Subtenientes de Ej&#xE9;rcito, Tenientes Segundos y Guardiamarinas de la Armada, Tenientes y Subtenientes de Aviaci&#xF3;n, Tenientes y Subtenientes de las Fuerzas de Orden y Seguridad, Vicec&#xF3;nsules, Cancilleres y dem&#xE1;s funcionarios que tengan un rango equivalente.</div><br><br><br><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1099909&amp;idParte=9767747&amp;idVersion=2017-02-08\">Decreto 42, <br>RELACIONES EXTERIORES<br>Art. &#xDA;NICO N&#xB0; 4<br>D.O. 08.02.2017</a></span></div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1099909,
+      "fecha": "2017-02-08"
+    }
+  }
+]

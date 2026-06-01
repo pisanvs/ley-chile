@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1990-03-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8639533,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 26.- De las causas por infracci&#xF3;n a la presente ley, conocer&#xE1;n los Tribunales Militares, los que aplicar&#xE1;n las reglas de procedimiento se&#xF1;aladas en el Libro II o IV, del C&#xF3;digo de Justicia Militar, seg&#xFA;n corresponda.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 26.- De las causas por infracci&#xF3;n a la presente ley, conocer&#xE1;n los Tribunales Militares, los que aplicar&#xE1;n las <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1021613&amp;idParte=9089400&amp;idVersion=2010-12-30\">Ley 20477<br>Art. 7<br>D.O. 30.12.2010</a></span>reglas de procedimiento se&#xF1;aladas en el Libro II o IV, del C&#xF3;digo de Justicia Militar, seg&#xFA;n corresponda, a excepci&#xF3;n de los delitos cuyos imputados sean civiles.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1021613,
+      "fecha": "2010-12-30"
+    }
+  }
+]

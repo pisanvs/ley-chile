@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-03-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7205000,
+          "old": "<div><div class=\"p\">CREA PRODUCTOS INTRARREGIONALES PARA TODAS LAS REGIONES DEL PAIS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 496 exenta.- Santiago, 4 de marzo de 1997.- Vistos: El art&#xED;culo 2&#xBA; del D.F.L. N&#xBA; 10, de 1981, y el Decreto N&#xBA; 21 de 1997, ambos del Ministerio de Transportes y Telecomunicaciones; la evaluaci&#xF3;n de los Planes Pilotos en la Octava y D&#xE9;cima Regi&#xF3;n de los nuevos productos intrarregionales dispuestos por resoluciones exentas n&#xFA;meros 463 y 464, ambas de 1996; la necesidad de crear en car&#xE1;cter definitivo los se&#xF1;alados productos; los acuerdos del Directorio de la Empresa de Correos de Chile N&#xBA; 13, 23 y 24, los tres de 1996 y 14 de 1997; la Resoluci&#xF3;n N&#xBA; 520 de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica y las facultades que me confieren las resoluciones N&#xBA; 233 de 1994 y N&#xBA; 1.861 de 1995, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">CREA PRODUCTOS INTRARREGIONALES PARA TODAS LAS REGIONES DEL PAIS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 496 exenta.- Santiago, 4 de marzo de 1997.- Vistos: El art&#xED;culo 2&#xBA; del D.F.L. N&#xBA; 10, de 1981, y el Decreto N&#xBA; 21 de 1997, ambos del Ministerio de Transportes y Telecomunicaciones; la evaluaci&#xF3;n de los Planes Pilotos en la Octava y D&#xE9;cima Regi&#xF3;n de los nuevos productos intrarregionales dispuestos por resoluciones exentas n&#xFA;meros 463 y 464, ambas de 1996; la necesidad de crear en car&#xE1;cter definitivo los se&#xF1;alados productos; los acuerdos del Directorio de la Empresa de Correos de Chile N&#xBA; 13, 23 y 24, los tres de 1996 y 14 de 1997; la Resoluci&#xF3;n N&#xBA; 520 de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica y las facultades que me confieren las resoluciones N&#xBA; 233 de 1994 y N&#xBA; 1.861 de 1995, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

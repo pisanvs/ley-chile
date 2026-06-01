@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-04-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-03-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8341999,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION No. 183, DE 1987, QUE AUTORIZA A DON LUIS TORRES CARVAJAL PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO PARCIALMENTE RESOLUCION QUE INDICA</div><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION No. 183, DE 1987, QUE AUTORIZA A DON LUIS TORRES CARVAJAL PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO PARCIALMENTE RESOLUCION QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

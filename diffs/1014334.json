@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-06-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-09-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8931789,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Se descontar&#xE1; de las cuotas globales de captura de Anchoveta y Sardina com&#xFA;n que se establezcan para el a&#xF1;o 2011, las toneladas efectivamente extra&#xED;das con cargo a la reserva autorizada en el presente decreto.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1017246&amp;idParte=9006313&amp;idVersion=2010-09-21\">Decreto 1002 EXENTO,<br>ECONOMIA<br>Art. &#xDA;NICO<br>D.O. 21.09.2010</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- La reserva autorizada mediante el presente decreto se descontar&#xE1; de las cuotas globales anual de captura de Anchoveta y Sardina com&#xFA;n de la V a la X Regiones que se establezca para el a&#xF1;o 2011. Las toneladas de la reserva que no hayan sido extra&#xED;das durante el presente a&#xF1;o calendario, podr&#xE1;n ser extra&#xED;das durante el a&#xF1;o 2011.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1017246,
+      "fecha": "2010-09-21"
+    }
+  }
+]

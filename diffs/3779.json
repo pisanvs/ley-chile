@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-08-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5860153,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREA INSTITUTO PROFESIONAL DE SANTIAGO</div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xB0; 8.- Santiago, 3 de Marzo de 1981.- Teniendo presente la proposici&#xF3;n formulada por el se&#xF1;or Rector de la Universidad de Chile en conformidad con lo dispuesto en el Art&#xED;culo Unico del DFL. N&#xB0; 2, de 1980, y visto lo dispuesto en el decreto ley N&#xB0; 3.541, de 1980, y en el decreto con fuerza de ley N&#xB0; 5, de 1981.</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">CREA INSTITUTO PROFESIONAL DE SANTIAGO<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xB0; 8.- Santiago, 3 de Marzo de 1981.- Teniendo presente la proposici&#xF3;n formulada por el se&#xF1;or Rector de la Universidad de Chile en conformidad con lo dispuesto en el Art&#xED;culo Unico del DFL. N&#xB0; 2, de 1980, y visto lo dispuesto en el decreto ley N&#xB0; 3.541, de 1980, y en el decreto con fuerza de ley N&#xB0; 5, de 1981.</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 11 de la LEY 19239, publicada el 30.08.1993, suprimi&#xF3; el Instituto Profesional de Santiago creado por el presente decreto con fuerza de ley. Sus Arts. 3&#xB0; y 4&#xB0; establecen que la Universidad Tecnol&#xF3;gica Metropolitana, creada por la misma ley, ser&#xE1; su continuadora legal en sus bienes, derechos y obligaciones.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

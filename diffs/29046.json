@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1971-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-04-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8866101,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.- Dentro del plazo de un a&#xF1;o, contado desde la publicaci&#xF3;n de esta ley, la Corporaci&#xF3;n de Servicios Habitacionales otorgar&#xE1; t&#xED;tulo definitivo de dominio a los actuales ocupantes de las viviendas edificadas mediante el sistema de autoconstrucci&#xF3;n, incluidas las viviendas similares ubicadas en las provincias de Chilo&#xE9;, Aysen y Magallanes.</div><div class=\"p\">&nbsp; &nbsp; Las exigencias sobre urbanizaci&#xF3;n establecidas en las leyes vigentes no regir&#xE1;n para las citadas viviendas, las que deber&#xE1;n cumplir, no obstante, los requisitos de salubridad y urbanizaci&#xF3;n m&#xED;nima que se&#xF1;ale, en cada caso, la Corporaci&#xF3;n de Servicios Habitacionales. Los notarios y Conservadores de Bienes Ra&#xED;ces deber&#xE1;n autorizar las escrituras y practicar las inscripciones con el m&#xE9;rito del certificado que otorgue la Corporaci&#xF3;n de Servicios Habitacionales, sin que sea necesaria recepci&#xF3;n o autorizaci&#xF3;n municipal alguna.</div><div class=\"p\">&nbsp; &nbsp; El precio de venta ser&#xE1; igual al valor del costo de construcci&#xF3;n de las viviendas m&#xE1;s el valor correspondiente a los terrenos en que se han edificado, y se pagar&#xE1; en un plazo no inferior a veinte a&#xF1;os, con el inter&#xE9;s legal y sin reajuste de ninguna especie.</div><div class=\"p\">&nbsp; &nbsp; Las normas del presente art&#xED;culo ser&#xE1;n tambi&#xE9;n aplicables a las dem&#xE1;s viviendas de autoconstrucci&#xF3;n, cont&#xE1;ndose el plazo, en su caso desde la fecha de la respectiva entrega material de la vivienda al ocupante. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.- La Corporaci&#xF3;n de Servicios<span class=\"n\" id=\"n_0\">DL 949, Vivienda<br>Art. 1&#xBA; a)<br>D.O. 03.04.1975</span> Habitacionales otorgar&#xE1; t&#xED;tulo definitivo de dominio a los actuales ocupantes de las viviendas edificadas mediante el sistema de autoconstrucci&#xF3;n, incluidas las viviendas similares ubicadas en las provincias de Chilo&#xE9;, Aysen y Magallanes, siempre que dichas viviendas hubieren sido construidas con financiamiento y/o asesor&#xED;a t&#xE9;cnica de la Corporaci&#xF3;n de Servicios Habitacionales.</div><div class=\"p\">&nbsp; &nbsp; Las exigencias sobre urbanizaci&#xF3;n establecidas en las leyes vigentes no regir&#xE1;n para las citadas viviendas, las que deber&#xE1;n cumplir, no obstante, los requisitos de salubridad y urbanizaci&#xF3;n m&#xED;nima que se&#xF1;ale, en cada caso, la Corporaci&#xF3;n de Servicios Habitacionales. Los notarios y Conservadores de Bienes Ra&#xED;ces deber&#xE1;n autorizar las escrituras y practicar las inscripciones con el m&#xE9;rito del certificado que otorgue la Corporaci&#xF3;n de Servicios Habitacionales, sin que sea necesaria recepci&#xF3;n o autorizaci&#xF3;n municipal alguna.</div><div class=\"p\">&nbsp; &nbsp; El precio de venta ser&#xE1; igual al valor del costo de construcci&#xF3;n de las viviendas m&#xE1;s el valor correspondiente a los terrenos en que se han edificado, y se pagar&#xE1; en un plazo no inferior a veinte a&#xF1;os, con el inter&#xE9;s legal y sin reajuste de ninguna especie.</div><div class=\"p\">&nbsp; &nbsp; Las normas del presente art&#xED;culo ser&#xE1;n tambi&#xE9;n aplicables a las dem&#xE1;s viviendas de autoconstrucci&#xF3;n, cont&#xE1;ndose el plazo, en su caso desde la fecha de la respectiva entrega material de la vivienda al ocupante.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, cuando la construcci&#xF3;n de las<span class=\"n\" id=\"n_1\">DL 949, Vivienda<br>Art. 1&#xBA; b)<br>D.O. 03.04.1975</span> viviendas no se hubiere efectuado exclusivamente por el sistema de autoconstrucci&#xF3;n, la Corporaci&#xF3;n de Servicios Habitacionales podr&#xE1; fijar otro precio para su venta, debiendo en todo caso, considerar y ponderar el valor que representa el trabajo personal aportado por el respectivo ocupante.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

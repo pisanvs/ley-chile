@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-04-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-05-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7264807,
+          "old": "<div><div class=\"p\">AUTORIZA A DON SERGIO SANTA CRUZ GANDARILLAS PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DENIEGA PERMISO QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON SERGIO SANTA CRUZ GANDARILLAS PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DENIEGA PERMISO QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

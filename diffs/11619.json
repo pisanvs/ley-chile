@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1995-05-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8953927,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; Autor&#xED;zase la instalaci&#xF3;n de recintos ubicados fuera del per&#xED;metro de la Zona Franca de Iquique y dentro de la I Regi&#xF3;n para el establecimiento y explotaci&#xF3;n, bajo el r&#xE9;gimen de Zona Franca, de industrias destinadas a la fabricaci&#xF3;n de hormigones premezclados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; Autor&#xED;zase la instalaci&#xF3;n de recintos ubicados fuera del per&#xED;metro de la Zona Franca de Iquique y dentro de la I Regi&#xF3;n para el establecimiento y explotaci&#xF3;n, bajo el r&#xE9;gimen de Zona Franca, de industrias destinadas a la fabricaci&#xF3;n de hormigones premezclados, como asimismo, depositar, por cuenta propia<span class=\"n\" id=\"n_0\">DTO 1709, HACIENDA<br>letra A<br>D.O. 01.02.1999</span> o ajena, desempacar, empacar, envasar y comercializar el cemento.</div><br></div>"
+        },
+        {
+          "part_id": 8953928,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; La ubicaci&#xF3;n de los recintos remotos que por el presente decreto se autorizan deber&#xE1; quedar fijada a una distancia del per&#xED;metro de la Zona Franca que asegure la cesaci&#xF3;n de la molestia y riesgo de contaminaci&#xF3;n a las personas y bienes ajenos que pudiere generar la fabricaci&#xF3;n de hormigones premezclados y lo suficientemente pr&#xF3;ximos al puerto o aeropuerto como las circunstancias lo permitan y que asegure una f&#xE1;cil y expedita funci&#xF3;n por parte de la sociedad administradora de Zona Franca de Iquique y del Servicio Nacional de Aduanas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; La ubicaci&#xF3;n de los recintos remotos que por el presente decreto se autorizan deber&#xE1; quedar fijada a una distancia del per&#xED;metro de la Zona Franca que asegure la cesaci&#xF3;n de la molestia y riesgo de contaminaci&#xF3;n a las personas y bienes ajenos que pudiere generar la fabricaci&#xF3;n de hormigones premezclados, como<span class=\"n\" id=\"n_1\">DTO 1709, HACIENDA<br>letra B<br>D.O. 01.02.1999</span> asimismo, depositar, por cuenta propia o ajena, desempacar, empacar, envasar y comercializar el cemento y lo suficientemente pr&#xF3;ximos al puerto o aeropuerto como las circunstancias lo permitan y que asegure una f&#xE1;cil y expedita funci&#xF3;n por parte de la sociedad administradora de Zona Franca de Iquique y del Servicio Nacional de Aduanas.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

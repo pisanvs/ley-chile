@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-05-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9462941,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Proh&#xED;base el tr&#xE1;nsito de camiones en ambos sentidos, por la Ruta 16, en el tramo que une Iquique con Alto Hospicio, de lunes a viernes entre las 06:00 hrs a las 14:30 hrs y las 15:30 hrs y las 23:00 hrs. y s&#xE1;bado entre las 06:00 hrs. y las 14:30 hrs.</div><div class=\"p\">&nbsp; &nbsp;  De la presente restricci&#xF3;n se except&#xFA;an los camiones que trabajan para la Direcci&#xF3;n Regional de Vialidad, los camiones que trasladen desechos s&#xF3;lidos domiciliarios y los camiones que se encuentran trabajando para el abastecimiento producto de la emergencia, camiones de carrocer&#xED;a betoneros utilizados en obras de construcci&#xF3;n y camiones que se encuentren trabajando para superar la emergencia contratado por organismos p&#xFA;blicos, estos &#xFA;ltimos deber&#xE1;n portar el permiso entregado por la Instituci&#xF3;n P&#xFA;blica para el cual est&#xE1;n operando.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- La Direcci&#xF3;n Regional de Vialidad de Tarapac&#xE1;, deber&#xE1; instalar la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito que corresponda en ambos accesos al &#xE1;rea de restricci&#xF3;n de la Ruta 16, conforme al Manual de Se&#xF1;alizaci&#xF3;n del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Carabineros de Chile, Inspectores Municipales e Inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la ley N&#xBA; 18.290.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- D&#xE9;jase sin efecto la <a href=\"https://www.leychile.cl/Navegar?idNorma=1047966&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n Ex. N&#xBA; 917 del 12 de diciembre de 2012</a> y la resoluci&#xF3;n Ex. N&#xBA; 220 del 6 de abril de 2014, ambas de esta Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de Tarapac&#xE1;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Proh&#xED;base la circulaci&#xF3;n de camiones en sentido Alto Hospicio-Iquique<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1066396&amp;idParte=9505627&amp;idVersion=2014-09-13\">Resoluci&#xF3;n 498 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 13.09.2014</a></span> por la ruta 16 entre las 06:00-09:00 horas, los d&#xED;as lunes a viernes y en sentido Iquique-Alto Hospicio los d&#xED;as lunes a viernes entre las 06:00-09:00 horas, entre las 12:00-23:00 horas, y los s&#xE1;bados entre las 12:30-16:00 horas.</div><div class=\"p\">&nbsp; &nbsp;  De la presente restricci&#xF3;n se except&#xFA;an los camiones que trabajan para la Direcci&#xF3;n Regional de Vialidad, los camiones que trasladen desechos s&#xF3;lidos domiciliarios y los camiones que se encuentran trabajando para el abastecimiento producto de la emergencia, camiones de carrocer&#xED;a betoneros utilizados en obras de construcci&#xF3;n y camiones que se encuentren trabajando para superar la emergencia contratado por organismos p&#xFA;blicos, estos &#xFA;ltimos deber&#xE1;n portar el permiso entregado por la Instituci&#xF3;n P&#xFA;blica para el cual est&#xE1;n operando.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- La Direcci&#xF3;n Regional de Vialidad de Tarapac&#xE1;, deber&#xE1; instalar la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito que corresponda en ambos accesos al &#xE1;rea de restricci&#xF3;n de la Ruta 16, conforme al Manual de Se&#xF1;alizaci&#xF3;n del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Carabineros de Chile, Inspectores Municipales e Inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la ley N&#xBA; 18.290.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- D&#xE9;jase sin efecto la resoluci&#xF3;n Ex. N&#xBA; 917 del 12 de diciembre de 2012 y la resoluci&#xF3;n Ex. N&#xBA; 220 del 6 de abril de 2014, ambas de esta Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de Tarapac&#xE1;.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1066396,
+      "fecha": "2014-09-13"
+    }
+  }
+]

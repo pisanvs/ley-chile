@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1960-05-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1967-06-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7312998,
+          "old": "<div><div class=\"p\">APRUEBA LAS CARACTERISTICAS PARA EL BILLETE DE UN ESCUDO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3,686.- Santiago, 19 de Abril de 1960.- Vistos: la nota del Banco Central de Chile, de fecha 17 de Marzo del presente a&#xF1;o, y lo dispuesto en la ley N.o 13,305, y en el art&#xED;culo 51 del D.F.L. N.o 247, de 1960, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA LAS CARACTERISTICAS PARA EL BILLETE DE UN ESCUDO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3,686.- Santiago, 19 de Abril de 1960.- Vistos: la nota del Banco Central de Chile, de fecha 17 de Marzo del presente a&#xF1;o, y lo dispuesto en la ley N.o 13,305, y en el art&#xED;culo 51 del D.F.L. N.o 247, de 1960, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

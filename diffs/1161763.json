@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2021-06-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-06-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10245053,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2 Componentes</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  La presente ordenanza establece las normas urban&#xED;sticas que deber&#xE1;n cumplirse dentro del &#xE1;rea territorial del Plan Regulador Comunal de Sierra Gorda, conforme a lo dispuesto en este documento, graficado en los planos cuya nomenclatura se se&#xF1;ala en el cuadro 1 y explicado en Memoria Explicativa del Plan.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Cuadro 1 Nomenclatura de Planos</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/128083.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2 Componentes</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  La presente ordenanza establece <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>las normas urban&#xED;sticas que deber&#xE1;n cumplirse dentro del &#xE1;rea territorial del Plan Regulador Comunal de Sierra Gorda, conforme a lo dispuesto en este documento, graficado en los planos cuya nomenclatura se se&#xF1;ala en el cuadro 1 y explicado en Memoria Explicativa del Plan.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Cuadro 1 Nomenclatura de Planos</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/128083.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral I de la Resoluci&#xF3;n 334 Exenta, Vivienda, publicada el 24.06.2021, aprueba la interpretaci&#xF3;n de la zona AEC 1 del Plan Regulador Comunal de Sierra Gorda, el cual conforme al an&#xE1;lisis precedente, y en particular seg&#xFA;n lo dispuesto en el inciso 2&#xBA; del art&#xED;culo 2.1.3 de la OGUC, corresponde a un territorio con disposiciones transitorias con car&#xE1;cter supletorio sobre las materias propias del nivel intercomunal, por consiguiente es un &#xE1;rea de riesgo rural normada, donde se establecen los usos de suelo, para los efectos de la aplicaci&#xF3;n del art&#xED;culo 55 de la LGUC.</div></div>"
+        }
+      ]
+    }
+  }
+]

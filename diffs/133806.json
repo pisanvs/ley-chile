@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-01-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8342492,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 335, DE 1981 </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 335, DE 1981</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

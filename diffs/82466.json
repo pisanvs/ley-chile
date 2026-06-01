@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-08-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313743,
+          "old": "<div><div class=\"p\">AUTORIZA A GEORGE CHANG LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A GEORGE CHANG LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

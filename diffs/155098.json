@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-06-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-03-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8542662,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JUAN OJEDA AGUILA PARA DESARROLLAR ACTIVIDADES PESQUERAS QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JUAN OJEDA AGUILA PARA DESARROLLAR ACTIVIDADES PESQUERAS QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

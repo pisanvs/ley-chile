@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-09-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-11-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6016721,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DESIGNA A DON VICTOR HUGO ALVAREZ DIAZ COMO ABOGADO PROVINCIAL DE OSORNO</div><div class=\"p\">&nbsp; &nbsp; Santiago, 20 de agosto de 1996.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.437.- Vistos: el Art. 5&#xB0; letras d), e), g) y m) del D.F.L. N&#xB0; 1, de 1994, del Ministerio de Hacienda, sobre Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;as, el T&#xED;tulo V del Libro III del C&#xF3;digo Tributario y la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto la siguiente</div><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA A DON VICTOR HUGO ALVAREZ DIAZ COMO ABOGADO PROVINCIAL DE OSORNO</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 20 de agosto de 1996.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.437.- Vistos: el Art. 5&#xB0; letras d), e), g) y m) del D.F.L. N&#xB0; 1, de 1994, del Ministerio de Hacienda, sobre Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;as, el T&#xED;tulo V del Libro III del C&#xF3;digo Tributario y la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

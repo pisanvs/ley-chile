@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-06-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-04-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10340721,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Ot&#xF3;rgase concesi&#xF3;n de Servicio P&#xFA;blico de Transmisi&#xF3;n de Datos, a la empresa Redcall SpA, RUT N&#xBA;77.388.353-K, con domicilio en Dr. Manuel Barros Borgo&#xF1;o N&#xBA;71, Oficina 1105, comuna de Providencia, Regi&#xF3;n Metropolitana de Santiago, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;zase a la concesionaria a instalar, operar y explotar un Nodo de Datos, seg&#xFA;n se indica a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149632.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  El servicio se implementar&#xE1; mediante el uso de redes y servicios propios y/o terceros debidamente autorizados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. La Zona de servicio comprender&#xE1; todo el Territorio Nacional.</div><div class=\"p\">&nbsp; &nbsp;  3. Los plazos para el inicio y t&#xE9;rmino de obras e inicio de servicio, son los que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149633.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  4. El per&#xED;odo de vigencia de la presente concesi&#xF3;n ser&#xE1; de 30 a&#xF1;os, contados desde la publicaci&#xF3;n del presente decreto en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  5. Apru&#xE9;base el proyecto t&#xE9;cnico base de la solicitud presentada por la concesionaria, conforme a las disposiciones t&#xE9;cnico-legales que rigen el servicio de telecomunicaciones concedido. La documentaci&#xF3;n respectiva quedar&#xE1; archivada en la Subsecretar&#xED;a de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  6. Es obligaci&#xF3;n de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y t&#xE9;cnicas que regulan las telecomunicaciones, en lo que le sean aplicables.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Ot&#xF3;rgase concesi&#xF3;n de Servicio P&#xFA;blico de Transmisi&#xF3;n de Datos, a la empresa Redcall SpA, RUT N&#xBA;77.388.353-K, con domicilio en Dr. Manuel Barros Borgo&#xF1;o N&#xBA;71, Oficina 1105, comuna de Providencia, Regi&#xF3;n Metropolitana de Santiago, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;zase a la concesionaria a instalar, operar y explotar un Nodo de Datos, seg&#xFA;n se indica a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1212301&amp;idParte=10544189&amp;idVersion=2025-04-03\">Decreto 444 EXENTO,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 03.04.2025</a></span><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/193908.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  El servicio se implementar&#xE1; mediante el uso de redes y servicios propios y/o terceros debidamente autorizados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. La Zona de servicio comprender&#xE1; todo el Territorio Nacional.</div><div class=\"p\">&nbsp; &nbsp;  3. Los plazos para el inicio y t&#xE9;rmino de obras e inicio de servicio, son los que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149633.jpg\">4. El per&#xED;odo de vigencia de la presente concesi&#xF3;n ser&#xE1; de 30 a&#xF1;os, contados desde la publicaci&#xF3;n del presente decreto en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  5. Apru&#xE9;base el proyecto t&#xE9;cnico base de la solicitud presentada por la concesionaria, conforme a las disposiciones t&#xE9;cnico-legales que rigen el servicio de telecomunicaciones concedido. La documentaci&#xF3;n respectiva quedar&#xE1; archivada en la Subsecretar&#xED;a de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  6. Es obligaci&#xF3;n de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y t&#xE9;cnicas que regulan las telecomunicaciones, en lo que le sean aplicables.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1212301,
+      "fecha": "2025-04-03"
+    }
+  }
+]

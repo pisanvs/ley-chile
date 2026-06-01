@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1986-03-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-03-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6242381,
+          "old": "<div><div class=\"p\">AUTORIZA A DON PABLO BERNARDINO SUBIABRE SOTO PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON PABLO BERNARDINO SUBIABRE SOTO PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        },
+        {
+          "part_id": 6242382,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n No. 202, de 05 de Marzo de 1986, de la Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, se autoriza a don Pablo Bernardino Subiabre Soto, R.U.T. 3.179.173-1, domiciliado en calle Jim&#xE9;nez No. 320, Maull&#xED;n, para instalar y operar un establecimiento de cultivo de alga gracilaria sp. en el sector La Rampa, R&#xED;o Maull&#xED;n, Comuna de Maull&#xED;n, Provincia de Llanquihue, X Regi&#xF3;n, en un&nbsp; rea de 48.000 m2.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n No. 202, de 05 de Marzo de 1986, de la Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, se autoriza a don Pablo Bernardino Subiabre Soto, R.U.T. 3.179.173-1, domiciliado en calle Jim&#xE9;nez No. 320, Maull&#xED;n, para instalar y operar un establecimiento de cultivo de alga gracilaria sp. en el sector La Rampa, R&#xED;o Maull&#xED;n, Comuna de Maull&#xED;n, Provincia de Llanquihue, X Regi&#xF3;n, en un &#xE1;rea de 43.000 m2.<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 27.03.1986</span> </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1993-08-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

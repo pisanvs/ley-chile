@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-10-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-01-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10060006,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1) F&#xED;jense los siguientes porcentajes de participaci&#xF3;n en la &quot;numeraci&#xF3;n asignada&quot; para efectos del pago de la cuota que corresponda para financiar la inversi&#xF3;n inicial en la que incurri&#xF3; el Organismo Administrador de la Portabilidad (OAP), que cada concesionaria del servicio p&#xFA;blico telef&#xF3;nico y del mismo tipo debe aportar, de acuerdo al cuadro siguiente:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/98638.jpg\"></div><div class=\"p\"> </div><div class=\"p\">(*) Se han truncado los decimales de los valores de esta columna, y aproximado al entero inmediatamente superior.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1) F&#xED;jense los siguientes porcentajes de participaci&#xF3;n en la &quot;numeraci&#xF3;n asignada&quot; para efectos del pago de la cuota que corresponda para financiar la inversi&#xF3;n inicial en la que incurri&#xF3; el Organismo Administrador de la Portabilidad (OAP), que cada concesionaria del servicio p&#xFA;blico telef&#xF3;nico y del mismo tipo debe aportar, de acuerdo al cuadro <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1140751&amp;idParte=10091399&amp;idVersion=2020-01-07\">Resoluci&#xF3;n 2619 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 07.01.2020</a></span>siguiente:</div><br><br><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103020.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103021.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103022.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">(*) Se han truncado los decimales de los valores de esta columna, y aproximado al entero inmediatamente superior.</div><div class=\"p\"> </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1140751,
+      "fecha": "2020-01-07"
+    }
+  }
+]

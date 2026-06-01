@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-05-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040184,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS CONTABLES PARA LOS CONTRIBUYENTES QUE OPTEN POR DECLARAR LA RENTA EFECTIVA DE LA ACTIVIDAD AGRICOLA PARA LOS EFECTOS DE LEY SOBRE IMPUESTO A LA RENTA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 323.- Santiago, 30 de Abril de 1982.- Vistos: Lo dispuesto en el art&#xED;culo 10&#xB0; transitorio de la Ley N&#xB0; 18.110, de 1982, y en el N&#xB0; 8, del art&#xED;culo 32&#xB0;, de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento sobre Contabilidad Agr&#xED;cola aplicables en la determinaci&#xF3;n de la renta proveniente de la actividad agr&#xED;cola, para aquellos contribuyentes que de acuerdo con lo dispuesto en la letra b), del N&#xB0; 1, del art&#xED;culo 20&#xB0;, de la Ley sobre Impuesto a la Renta, opten por declarar sus rentas efectivas:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS CONTABLES PARA LOS CONTRIBUYENTES</div><div class=\"p\">QUE OPTEN POR DECLARAR LA RENTA EFECTIVA DE LA ACTIVIDAD</div><div class=\"p\">AGRICOLA PARA LOS EFECTOS DE LEY SOBRE IMPUESTO A LA</div><div class=\"p\">RENTA&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D E R O G A D O .-<span class=\"n\" id=\"n_0\">DS 1139<br>Hda.,1991<br>Art. 11</span></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 323.- Santiago, 30 de Abril de 1982.- Vistos: Lo dispuesto en el art&#xED;culo 10&#xB0; transitorio de la Ley N&#xB0; 18.110, de 1982, y en el N&#xB0; 8, del art&#xED;culo 32&#xB0;, de la<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div> Constituci&#xF3;n Pol&#xED;tica del Estado,<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 2</a></div></div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento sobre Contabilidad Agr&#xED;cola aplicables en la determinaci&#xF3;n de la renta proveniente de la actividad agr&#xED;cola, para aquellos contribuyentes que de acuerdo con lo dispuesto en la letra b), del N&#xB0; 1, del art&#xED;culo 20&#xB0;, de la Ley sobre Impuesto a la Renta, opten por declarar sus rentas efectivas:</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 11 del Decreto Supremo N&#xB0; 1.139, del Ministerio de Hacienda, publicado en el &quot;Diario Oficial&quot; de 5 de enero de 1991, derog&#xF3;, a contar del 1&#xB0; de enero de 1991, el presente Decreto Supremo. </div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El texto del este decreto supremo derogado se encuentra en una cinta de normas derogadas BDTO.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

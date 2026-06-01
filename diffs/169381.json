@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-01-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7270228,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xBA; 235, DE 1987</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xBA; 235, DE 1987</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

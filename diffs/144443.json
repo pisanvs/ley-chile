@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1987-09-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-05-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8974084,
+          "old": "<div><div class=\"p\">DESIGNA COMO RECEPTORES JUDICIALES A LOS FUNCIONARIOS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 84.- Santiago, 21 de Julio de 1987.- Vistos- Lo dispuesto en el Art. 11 del Decreto. Ley No.</div><div class=\"p\">2.974,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA COMO RECEPTORES JUDICIALES A LOS FUNCIONARIOS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 84.- Santiago, 21 de Julio de 1987.- Vistos- Lo dispuesto en el Art. 11 del Decreto. Ley No.</div><div class=\"p\">2.974,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        },
+        {
+          "part_id": 8974085,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase como Receptores Judiciales para que permanentemente practiquen las actuaciones inherentes a ese cargo en los juicios que se tramitan ante los Juzgados de Polic&#xED;a Local, en conformidad a las diposiciones del Decreto Ley No. 2.974, en las Regiones la y IIa., a los se&#xF1;ores: - Ledi Gonz&#xE1;lez Astorga - Guillermo Larra&#xED;n Valenzuela.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase como Receptores Judiciales para que permanentemente practiquen las actuaciones inherentes a ese cargo en los juicios que se tramitan ante los Juzgados de Polic&#xED;a Local, en conformidad a las diposiciones del Decreto Ley No. 2.974, en las Regiones la y IIa., a los se&#xF1;ores: - Ledi Gonz&#xE1;lez Astorga - ELIMINADO<span class=\"n\" id=\"n_0\">RES 78, AGRICULTURA<br>D.O. 06.05.2000</span> </div></div>"
+        }
+      ]
+    }
+  }
+]

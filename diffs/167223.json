@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-10-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7268482,
+          "old": "<div><div class=\"p\">DEJA SIN EFECTO PARCIALMENTE RESOLUCION No. 1.059, DE 1987, Y AUTORIZA A PESQUERA Y CONSERVERA TAMAI LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><br><div class=\"p\">DEJA SIN EFECTO PARCIALMENTE RESOLUCION No. 1.059, DE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> 1987, Y AUTORIZA A PESQUERA Y CONSERVERA TAMAI LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La presente norma fue derogada por la RES 2035, Econom&#xED;a, publicada el 05.10.2002. Posteriormente, la RES 2723, Econom&#xED;a, publicada el 28.11.2002, reiter&#xF3; la derogaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1959-12-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-11-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8823823,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA LA LEY ORGANICA DEL PRESUPUESTO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 47.- Santiago, 27 de Noviembre de 1959.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0; Que la legislaci&#xF3;n presupuestaria vigente data de 1929;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0; Que se ha registrado en los &#xFA;ltimos a&#xF1;os un notable progreso t&#xE9;cnico en materias presupuestarias;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0; Que es necesario que los presupuestos del sector p&#xFA;blico sean un elemento &#xFA;til para el an&#xE1;lisis econ&#xF3;mico;</div><div class=\"p\">&nbsp; &nbsp; 4&#xB0; Que el Presupuesto debe permitir la asignaci&#xF3;n &#xF3;ptima de los recursos p&#xFA;blicos, y</div><div class=\"p\">&nbsp; &nbsp; Vistas, las facultades que me otorga el art&#xED;culo 207, N&#xB0; 12 de la ley 13,305, de 6 de Abril de 1959, vengo en dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  MODIFICA LA LEY ORGANICA DEL PRESUPUESTO<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> N&#xFA;m. 47.- Santiago, 27 de Noviembre de 1959.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Que la legislaci&#xF3;n presupuestaria vigente data de 1929;</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; Que se ha registrado en los &#xFA;ltimos a&#xF1;os un notable progreso t&#xE9;cnico en materias presupuestarias;</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; Que es necesario que los presupuestos del sector p&#xFA;blico sean un elemento &#xFA;til para el an&#xE1;lisis econ&#xF3;mico;</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0; Que el Presupuesto debe permitir la asignaci&#xF3;n &#xF3;ptima de los recursos p&#xFA;blicos, y</div><div class=\"p\">&nbsp; &nbsp;  Vistas, las facultades que me otorga el art&#xED;culo 207, N&#xB0; 12 de la ley 13,305, de 6 de Abril de 1959, vengo en dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp;  Decreto con fuerza de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 73 del DL 1263, Hacienda, publicado el 28.11.1975, derog&#xF3; el presente decreto con fuerza de ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

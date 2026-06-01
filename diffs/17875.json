@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1968-08-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-09-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7156448,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTO DEL ALMACEN DE REZAGOS Y DEL REMATE, VENTA Y DESTRUCCION DE MERCANCIAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.460.- Santiago, 25 de Julio de 1968.- Visto el oficio N&#xB0;. 6.002, de 25 de Mayo de 1968, de la Superintendencia de Aduanas, y Teniendo presente lo dispuesto en el N&#xB0;. 2 del art&#xED;culo 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTO DEL ALMACEN DE REZAGOS Y DEL REMATE, VENTA Y DESTRUCCION DE MERCANCIAS</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.460.- Santiago, 25 de Julio de 1968.- Visto el oficio N&#xB0;. 6.002, de 25 de Mayo de 1968, de la Superintendencia de Aduanas, y Teniendo presente lo dispuesto en el N&#xB0;. 2 del art&#xED;culo 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

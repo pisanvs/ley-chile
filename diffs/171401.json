@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-09-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6283532,
+          "old": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE LA NORMA TECNICA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 30 de Agosto de 1977.- Hoy se decret&#xF3; lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 908.- Visto: el oficio N&#xBA; 375, de 18 de Agosto de 1977, de la Divisi&#xF3;n de Pol&#xED;tica Habitacional; el informe sobre la materia del Jefe del Departamento de Normalizaci&#xF3;n de la Divisi&#xF3;n de Pol&#xED;tica Habitacional; la proposici&#xF3;n del Instituto Nacional de Normalizaci&#xF3;n N&#xBA; 1.338-400, de 3 de Agosto de 1977, y sus informes anexos; el art&#xED;culo 13&#xBA;, letra c), del DL. n&#xFA;mero 1.305, de 1976, y el art&#xED;culo 3&#xBA;, incisos 5&#xBA; y 6&#xBA;, del DS. N&#xBA; 458 (V. y U.), de 18 de Diciembre de 1975, publicado en el Diario Oficial de 13 de Abril de 1976, Ley General de Urbanismo y Construcciones,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE LA NORMA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> TECNICA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 30 de Agosto de 1977.- Hoy se decret&#xF3; lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 908.- Visto: el oficio N&#xBA; 375, de 18 de Agosto de 1977, de la Divisi&#xF3;n de Pol&#xED;tica Habitacional; el informe sobre la materia del Jefe del Departamento de Normalizaci&#xF3;n de la Divisi&#xF3;n de Pol&#xED;tica Habitacional; la proposici&#xF3;n del Instituto Nacional de Normalizaci&#xF3;n N&#xBA; 1.338-400, de 3 de Agosto de 1977, y sus informes anexos; el art&#xED;culo 13&#xBA;, letra c), del DL. n&#xFA;mero 1.305, de 1976, y el art&#xED;culo 3&#xBA;, incisos 5&#xBA; y 6&#xBA;, del DS. N&#xBA; 458 (V. y U.), de 18 de Diciembre de 1975, publicado en el Diario Oficial de 13 de Abril de 1976, Ley General de Urbanismo y Construcciones,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 165, Vivienda, publicado el 06.06.2000, dej&#xF3; sin efecto la presente norma oficial.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

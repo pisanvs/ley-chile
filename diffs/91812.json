@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-06-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-11-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320763,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA QUEHUI LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA QUEHUI LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1998-04-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-08-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6108008,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: F&#xED;jase el siguiente arancel de honorarios para los informes elaborados en raz&#xF3;n de las pericias m&#xE9;dico legales que a continuaci&#xF3;n se indican:</div><br><br><div class=\"p\">a) Tanatol&#xF3;gicas o Autopsias: $11.543.-</div><div class=\"p\">b) Examenes Cl&#xED;nicos&nbsp; &nbsp; &nbsp; &nbsp; : $ 2.218.-</div><div class=\"p\">c) Examenes Psiqui&#xE1;tricos&nbsp;  : $ 5.543.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: F&#xED;jase el siguiente arancel de honorarios para los informes elaborados en raz&#xF3;n de las pericias m&#xE9;dico legales que a continuaci&#xF3;n se indican:</div><br><br><div class=\"p\">a) Tanatol&#xF3;gicas o Autopsias: $11.543.-</div><div class=\"p\">b) Examenes Cl&#xED;nicos&nbsp; &nbsp; &nbsp; &nbsp; : $ 2.218.-</div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1005228&amp;idParte=8772378&amp;idVersion=2009-08-21\">Decreto 575, JUSTICIA<br>Art. UNICO N&#xB0;1 y 2<br>D.O. 21.08.2009</a></span>c) Ex&#xE1;menes Psiqui&#xE1;tricos&nbsp;  : $158.848.-</div><div class=\"p\">d) Ex&#xE1;menes Psicol&#xF3;gicos&nbsp; &nbsp; : $102.081.-</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1005228,
+      "fecha": "2009-08-21"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-08-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7306165,
+          "old": "<div><div class=\"p\">APRUEBA BASES ADMINISTRATIVAS GENERALES DE LICITACION PUBLICA PARA LA ADQUISICION DE VIVIENDAS TERMINADAS PRECALIFICADAS, APLICABLES A LOS SERVICIOS DE VIVIENDA Y URBANIZACION, PARA OPERAR POR MANDATOS DE LOS COMITES HABITACIONALES COMUNALES</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 24 de Junio de 1977.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 622.- Visto: lo dispuesto en el art&#xED;culo 2&#xBA; de la ley N&#xBA; 16.391, y en el art&#xED;culo 5&#xBA; del DL. N&#xBA; 1.305, de 1976, y la facultad que me confiere el n&#xFA;mero 1.- del art&#xED;culo 10&#xBA; del DL. N&#xBA; 527, de 1974, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA BASES ADMINISTRATIVAS GENERALES DE LICITACION PUBLICA PARA LA ADQUISICION DE VIVIENDAS TERMINADAS PRECALIFICADAS, APLICABLES A LOS SERVICIOS DE VIVIENDA Y URBANIZACION, PARA OPERAR POR MANDATOS DE LOS COMITES HABITACIONALES COMUNALES</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 24 de Junio de 1977.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 622.- Visto: lo dispuesto en el art&#xED;culo 2&#xBA; de la ley N&#xBA; 16.391, y en el art&#xED;culo 5&#xBA; del DL. N&#xBA; 1.305, de 1976, y la facultad que me confiere el n&#xFA;mero 1.- del art&#xED;culo 10&#xBA; del DL. N&#xBA; 527, de 1974, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

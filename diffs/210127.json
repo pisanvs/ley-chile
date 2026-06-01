@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2003-05-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-04-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8368932,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Autor&#xED;zase erigir un monumento en la localidad de Isla Negra, en memoria de don Pablo Neruda, Premio Nobel de Literatura, 1971.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Autor&#xED;zase erigir un monumento en la localidad de Isla Negra o en su entorno, en memoria<span class=\"n\" id=\"n_0\">LEY 20177<br>Art. &#xFA;nico<br>D.O. 10.04.2007</span> de don Pablo Neruda, Premio Nobel de Literatura, 1971.</div><div class=\"p\"> </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2009-06-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8368938,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- El monumento deber&#xE1; erigirse en el plazo de cinco a&#xF1;os, contado desde la fecha de publicaci&#xF3;n de la presente ley. Si vencido dicho plazo no se hubiera ejecutado la obra, los recursos obtenidos hasta esa fecha, por concepto de erogaciones, ser&#xE1;n aplicados a los objetivos de beneficencia que la Comisi&#xF3;n establezca.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1003247&amp;idParte=8683757&amp;idVersion=2009-06-11\">Ley 20353<br>Art. UNICO<br>D.O. 11.06.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- El monumento deber&#xE1; erigirse en el plazo de ocho a&#xF1;os, contado desde la fecha de publicaci&#xF3;n de la presente ley. Si vencido dicho plazo no se hubiera ejecutado la obra, los recursos obtenidos hasta esa fecha, por concepto de erogaciones, ser&#xE1;n aplicados a los objetivos de beneficencia que la Comisi&#xF3;n establezca.&quot;.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1003247,
+      "fecha": "2009-06-11"
+    }
+  }
+]

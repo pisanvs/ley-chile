@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1972-12-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-05-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8839608,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO DE GRAVAMENES DE SERVICIOS ELECTRICOS, DE GAS Y DE TELECOMUNICACIONES</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 5 de Julio de 1972.- S. E. el Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.014.- Visto lo informado por la Superintendencia de Servicios El&#xE9;ctricos, de Gas y de Telecomunicaciones y en uso de las facultades que me confieren los art&#xED;culos 161 de la Ley General de Servicios El&#xE9;ctricos (DFL. N&#xBA; 4, de 1959); 50 y 61 de la Ley de Servicios de Gas (DFL. N&#xBA; 323, de 1931); 233 de la ley N&#xBA; 16.840; 5&#xBA; del DFL. N&#xBA; 11, de 1968, y 72 N&#xBA; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento de Grav&#xE1;menes de Servicios El&#xE9;ctricos, de Gas y de Telecomunicaciones: </div></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA REGLAMENTO DE GRAVAMENES DE SERVICIOS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> ELECTRICOS, DE GAS Y DE TELECOMUNICACIONES</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 5 de Julio de 1972.- S. E. el Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.014.- Visto lo informado por la Superintendencia de Servicios El&#xE9;ctricos, de Gas y de Telecomunicaciones y en uso de las facultades que me confieren los art&#xED;culos 161 de la Ley General de Servicios El&#xE9;ctricos (DFL. N&#xBA; 4, de 1959); 50 y 61 de la Ley de Servicios de Gas (DFL. N&#xBA; 323, de 1931); 233 de la ley N&#xBA; 16.840; 5&#xBA; del DFL. N&#xBA; 11, de 1968, y 72 N&#xBA; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento de Grav&#xE1;menes de Servicios El&#xE9;ctricos, de Gas y de Telecomunicaciones:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 60 del DTO 351, Interior, publicado el 31.05.1975 derog&#xF3; este Reglamento y sus modificaciones a contar de su fecha de vigencia, esto es desde el 1&#xBA; del mes siguiente al de su publicaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

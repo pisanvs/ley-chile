@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-06-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-10-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8922340,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Ac&#xE9;ptase la renuncia voluntaria presentada por do&#xF1;a Alejandra Carrera Yentzen, RUT: 9.778.359-4, al cargo Directivo, Titular, grado 4&#xBA; EUS., Secretaria Regional Ministerial de Educaci&#xF3;n, de la Regi&#xF3;n de Tarapac&#xE1;, a contar del 11 de marzo de 2010.</div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase establecido que la citada funcionaria no estuvo sometida a Sumario Administrativo ni Investigaci&#xF3;n Sumaria.</div><div class=\"p\">&nbsp; &nbsp;  3.- D&#xE9;jase establecido que la funcionaria antes mencionada reasumir&#xE1; a contar de la misma fecha la propiedad de su cargo Profesional, grado 12&#xBA; EUS., de acuerdo a lo dispuesto en el art&#xED;culo 87&#xBA; del DFL N&#xBA; 29 de 2005.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Ac&#xE9;ptase la renuncia voluntaria presentada por do&#xF1;a Alejandra Carrera Yentzen, RUT: 9.778.359-4, al cargo Directivo, Titular, grado 4&#xBA; EUS., Secretaria Regional Ministerial de Educaci&#xF3;n, de la Regi&#xF3;n de Tarapac&#xE1;, a contar del 11 de marzo de 2010.</div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase establecido que la citada funcionaria no estuvo sometida a Sumario Administrativo ni Investigaci&#xF3;n Sumaria.</div><div class=\"p\">&nbsp; &nbsp;  3.- D&#xE9;jase establecido que la funcionaria antes mencionada no asumi&#xF3; su cargo conservado <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1017572&amp;idParte=9013856&amp;idVersion=2010-10-05\">Decreto 366,<br>EDUCACI&#xD3;N<br>D.O. 05.10.2010</a></span>y present&#xF3; la renuncia voluntaria al cargo Titular, Profesional, grado 12&#xBA; EUS., a contar del 11 de marzo de 2010, seg&#xFA;n resoluci&#xF3;n N&#xBA;3 de fecha 17 de marzo de 2010, del Secretario Ministerial de Educaci&#xF3;n Subrogante, de la Regi&#xF3;n de Tarapac&#xE1;.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1017572,
+      "fecha": "2010-10-05"
+    }
+  }
+]

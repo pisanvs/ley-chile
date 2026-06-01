@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-09-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-10-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9373150,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jase entre los d&#xED;as 1 y 17 de septiembre de 2013, un nuevo aval&#xFA;o por el gramo de oro de 18 kilates, utilizado en las Unidades de Cr&#xE9;dito en el c&#xE1;lculo de los pr&#xE9;stamos con garant&#xED;a prendaria del rubro Alhajas, conforme a la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/34407.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. T&#xE9;ngase presente, que ser&#xE1; responsabilidad de los Administradores/as la difusi&#xF3;n de lo resuelto en los numerales precedentes entre el personal a su cargo, como as&#xED; tambi&#xE9;n ser&#xE1; responsabilidad del Subdepartamento de Inform&#xE1;tica realizar los ajustes que correspondan al programa OCP, para la adecuada aplicaci&#xF3;n de las instrucciones impartidas, debiendo considerar fundamentalmente que el alza en cuesti&#xF3;n es una medida transitoria que ser&#xE1; aplicada durante el per&#xED;odo estipulado en el resuelvo que precede. Por consiguiente, al t&#xE9;rmino de dicho per&#xED;odo, los valores retornaran a los montos que reg&#xED;an los aval&#xFA;os hasta el d&#xED;a anterior a la entrada en vigencia de aquellos determinados por el presente documento.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese en el Diario Oficial en conformidad a lo dispuesto en el art&#xED;culo 48 letra a) de la Ley 19.880 sobre Procedimientos Administrativos, siendo responsabilidad del Departamento Administrativo el dar cumplimiento a esta obligaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jase entre los d&#xED;as 1 y 17 de septiembre de 2013, un nuevo aval&#xFA;o por el gramo de oro de 18 kilates, utilizado en las Unidades de Cr&#xE9;dito en el c&#xE1;lculo de los pr&#xE9;stamos con garant&#xED;a prendaria del rubro Alhajas, conforme a la siguiente <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/34407.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. T&#xE9;ngase presente, que ser&#xE1; responsabilidad de los Administradores/as la difusi&#xF3;n de lo resuelto en los numerales precedentes entre el personal a su cargo, como as&#xED; tambi&#xE9;n ser&#xE1; responsabilidad del Subdepartamento de Inform&#xE1;tica realizar los ajustes que correspondan al programa OCP, para la adecuada aplicaci&#xF3;n de las instrucciones impartidas, debiendo considerar fundamentalmente que el alza en cuesti&#xF3;n es una medida transitoria que ser&#xE1; aplicada durante el per&#xED;odo estipulado en el resuelvo que precede. Por consiguiente, al t&#xE9;rmino de dicho per&#xED;odo, los valores retornaran a los montos que reg&#xED;an los aval&#xFA;os hasta el d&#xED;a anterior a la entrada en vigencia de aquellos determinados por el presente documento.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese en el Diario Oficial en conformidad a lo dispuesto en el art&#xED;culo 48 letra a) de la Ley 19.880 sobre Procedimientos Administrativos, siendo responsabilidad del Departamento Administrativo el dar cumplimiento a esta obligaci&#xF3;n.</div><br><div class=\"p\"> </div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero 1 de la Resoluci&#xF3;n 482 Exenta, Direcci&#xF3;n General de Cr&#xE9;dito Prendario, publicada el 01.10.2013 modifica la presente&nbsp; norma en lo que respecta al per&#xED;odo de vigencia del nuevo aval&#xFA;o por gramo de oro; es decir, $14.167 para un pr&#xE9;stamo de $8.500, conforme a lo siguiente:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <br>. Dice: entre los d&#xED;as 1 y 17 de septiembre de 2013, ambos incluidos.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <br>. Debe decir: entre los d&#xED;as 1 y 30 de septiembre de 2013, ambos incluidos.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6318357,
+          "old": "<div><div class=\"p\">ESTABLECE RUTEOS DE LLEGADAS Y SALIDAS PARA EMPRESAS DE BUSES QUE OPERAN EN RODOVIARIOS UBICADOS EN COMUNA DE ESTACION CENTRAL Y TERMINAL LOS HEROES DE COMUNA DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 34 exenta.- Santiago, 24 de enero de 2001.- Visto: lo dispuesto en el art&#xED;culo primero de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; ley 18.290 de Tr&#xE1;nsito y ley N&#xBA; 18.059; y los DS N&#xBA; 255/82 y 212/92 ambos del Ministerio de Transportes y Telecomunicaciones.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1) Los informes N&#xBA;s 135/186 de 18/01/2001; 2005/00023/2001 de 09/01/2001 y 43 ingresado a la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones el 22/01/2001, de la I. Municipalidad de Santiago, la I. Municipalidad de Estaci&#xF3;n Central y Carabineros de Chile, respectivamente.</div><br><div class=\"p\">&nbsp; &nbsp;  2) Que debido a la alta demanda de viajes que se produce especialmente en la temporada estival, y a pesar de existir en la actualidad un ruteo establecido para la llegada y salida de buses, se ha detectado congesti&#xF3;n y saturaci&#xF3;n de algunas v&#xED;as lo que hace necesario introducir las correcciones adecuadas a fin de superar los problemas planteados.</div><br><div class=\"p\">&nbsp; &nbsp;  3) Que por lo tanto resulta necesario, a fin de garantizar un adecuado ordenamiento de los flujos de buses que operan en los terminales San Borja, Alameda Tur Bus, Alameda Pullman Bus, Estaci&#xF3;n Central y Los H&#xE9;roes, asignar nuevos ruteos de salida y llegada en los recintos antes mencionados.</div><br><div class=\"p\">&nbsp; &nbsp;  4) Que la asignaci&#xF3;n de ruteos a que se hace alusi&#xF3;n en el considerando anterior, permitir&#xE1; optimizar la operatividad vial y las condiciones de tr&#xE1;nsito en torno a los mencionados terminales de buses.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE RUTEOS DE LLEGADAS Y SALIDAS PARA EMPRESAS DE BUSES QUE OPERAN EN RODOVIARIOS UBICADOS EN COMUNA DE ESTACION CENTRAL Y TERMINAL LOS HEROES DE COMUNA DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 34 exenta.- Santiago, 24 de enero de 2001.- Visto: lo dispuesto en el art&#xED;culo primero de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; ley 18.290 de Tr&#xE1;nsito y ley N&#xBA; 18.059; y los DS N&#xBA; 255/82 y 212/92 ambos del Ministerio de Transportes y Telecomunicaciones.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1) Los informes N&#xBA;s 135/186 de 18/01/2001; 2005/00023/2001 de 09/01/2001 y 43 ingresado a la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones el 22/01/2001, de la I. Municipalidad de Santiago, la I. Municipalidad de Estaci&#xF3;n Central y Carabineros de Chile, respectivamente.</div><br><div class=\"p\">&nbsp; &nbsp;  2) Que debido a la alta demanda de viajes que se produce especialmente en la temporada estival, y a pesar de existir en la actualidad un ruteo establecido para la llegada y salida de buses, se ha detectado congesti&#xF3;n y saturaci&#xF3;n de algunas v&#xED;as lo que hace necesario introducir las correcciones adecuadas a fin de superar los problemas planteados.</div><br><div class=\"p\">&nbsp; &nbsp;  3) Que por lo tanto resulta necesario, a fin de garantizar un adecuado ordenamiento de los flujos de buses que operan en los terminales San Borja, Alameda Tur Bus, Alameda Pullman Bus, Estaci&#xF3;n Central y Los H&#xE9;roes, asignar nuevos ruteos de salida y llegada en los recintos antes mencionados.</div><br><div class=\"p\">&nbsp; &nbsp;  4) Que la asignaci&#xF3;n de ruteos a que se hace alusi&#xF3;n en el considerando anterior, permitir&#xE1; optimizar la operatividad vial y las condiciones de tr&#xE1;nsito en torno a los mencionados terminales de buses.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-04-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6010614,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE EXIGENCIA DE ENVASADO EN ORIGEN E IDENTIFICACION DEL RECURSO LOCO PROVENIENTE DE LA XI REGION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 459.- Puerto Montt, 29 de marzo de 1996.- Vistos: La necesidad de uniformar y regular el transporte y desembarco del recurso Loco (Concholepas concholepas) dentro de la jurisdicci&#xF3;n del Servicio de Salud Llanquihue, Chilo&#xE9; y Palena, de poder controlar y fiscalizar el origen y procedencia de este recurso proveniente de zonas con el fen&#xF3;meno de Marea Roja, y lograr una adecuada identificaci&#xF3;n de cada partida analizada con el objeto de evitar el riesgo a la poblaci&#xF3;n de enfermar por intoxicaci&#xF3;n con Veneno Paral&#xED;tico de los Mariscos; Considerando: la actual forma de comercializaci&#xF3;n a granel de este recurso; y Teniendo Presente: lo dispuesto en la Resoluci&#xF3;n N&#xB0; 0430 del 25.03.96 y Resol. N&#xB0; 0441 del 27.03.96 de este Servicio de Salud Llanquihue, Chilo&#xE9; y Palena, Decreto Ley N&#xB0; 2763/79, Decreto Supremo N&#xB0; 42/86, Org&#xE1;nico de los Servicios de Salud, y lo previsto en el Art&#xED;culo 3, 108 y siguientes del C&#xF3;digo Sanitario y Art&#xED;culos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos aprobado por Decreto Supremo N&#xB0; 60/82 del Ministerio de Salud, dicto la siguiente:</div><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE EXIGENCIA DE ENVASADO EN ORIGEN E IDENTIFICACION DEL RECURSO LOCO PROVENIENTE DE LA XI REGION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 459.- Puerto Montt, 29 de marzo de 1996.- Vistos: La necesidad de uniformar y regular el transporte y desembarco del recurso Loco (Concholepas concholepas) dentro de la jurisdicci&#xF3;n del Servicio de Salud Llanquihue, Chilo&#xE9; y Palena, de poder controlar y fiscalizar el origen y procedencia de este recurso proveniente de zonas con el fen&#xF3;meno de Marea Roja, y lograr una adecuada identificaci&#xF3;n de cada partida analizada con el objeto de evitar el riesgo a la poblaci&#xF3;n de enfermar por intoxicaci&#xF3;n con Veneno Paral&#xED;tico de los Mariscos; Considerando: la actual forma de comercializaci&#xF3;n a granel de este recurso; y Teniendo Presente: lo dispuesto en la Resoluci&#xF3;n N&#xB0; 0430 del 25.03.96 y Resol. N&#xB0; 0441 del 27.03.96 de este Servicio de Salud Llanquihue, Chilo&#xE9; y Palena, Decreto Ley N&#xB0; 2763/79, Decreto Supremo N&#xB0; 42/86, Org&#xE1;nico de los Servicios de Salud, y lo previsto en el Art&#xED;culo 3, 108 y siguientes del C&#xF3;digo Sanitario y Art&#xED;culos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos aprobado por Decreto Supremo N&#xB0; 60/82 del Ministerio de Salud, dicto la siguiente:</div><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

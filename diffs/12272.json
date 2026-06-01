@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-02-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-11-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9028708,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTA EL PAGO DE LAS BONIFICACIONES ESTABLECIDAS EN EL DECRETO LEY N&#xB0; 701, DE 1974, SOBRE FOMENTO FORESTAL</div><div class=\"p\">&nbsp; &nbsp; Santiago, 3 de Noviembre de 1980.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 316.- Visto: Lo dispuesto en el art&#xED;culo 12 del decreto ley N&#xB0; 701. de 1974, y sus modificaciones posteriores, cuyo texto fue reemplazado por el art&#xED;culo primero del decreto ley n&#xFA;mero 2.565, de 21 de Marzo de 1979, publicado en el Diario Oficial de 3 de Abril del mismo a&#xF1;o; en los decretos leyes N.os 1 y 128, de 1973, y N.os 527 y 106, de 1974, y en el decreto con fuerza de ley N&#xB0; 294, de 1960, Org&#xE1;nico del Ministerio de Agricultura.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; REGLAMENTA EL PAGO DE LAS BONIFICACIONES ESTABLECIDAS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">EN EL DECRETO LEY N&#xB0; 701, DE 1974, SOBRE FOMENTO FORESTAL</div><div class=\"p\">&nbsp; &nbsp; Santiago, 3 de Noviembre de 1980.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 316.- Visto: Lo dispuesto en el art&#xED;culo 12 del decreto ley N&#xB0; 701. de 1974, y sus modificaciones posteriores, cuyo texto fue reemplazado por el art&#xED;culo primero del decreto ley n&#xFA;mero 2.565, de 21 de Marzo de 1979, publicado en el Diario Oficial de 3 de Abril del mismo a&#xF1;o; en los decretos leyes N.os 1 y 128, de 1973, y N.os 527 y 106, de 1974, y en el decreto con fuerza de ley N&#xB0; 294, de 1960, Org&#xE1;nico del Ministerio de Agricultura.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; EL presente decreto fue derogado por el art. 32 del DTO 192, Agricultura, publicado el 30.11.1998<br></div></div>"
+        }
+      ]
+    }
+  }
+]

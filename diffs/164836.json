@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1990-01-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-01-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6262775,
+          "old": "<div><div class=\"p\">EXTRACTO DE REFORMA DE ESTATUTOS DEL BANCO DEL DESARROLLO </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE REFORMA DE ESTATUTOS DEL BANCO DEL DESARROLLO</div><br><br></div>"
+        },
+        {
+          "part_id": 6262777,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Santiago, 10 de enero de 1989.- Guillermo Ram&#xED;rez Vilardell. Superintendente de Bancos e Instituciones Financieras.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 10 de enero de 1990.- Guillermo Ram&#xED;rez<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 24.01.1990</span> Vilardell. Superintendente de Bancos e Instituciones Financieras.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-11-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-12-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10177000,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Reempl&#xE1;zase, en el inciso final del resuelvo 4. de la <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1147965&amp;idVersion=2020-11-24\">resoluci&#xF3;n exenta N&#xBA; 1.140 (V. y U.), de fecha 27 de julio de 2020</a> y sus modificaciones, la fecha &quot;15 de noviembre de 2020&quot; por &quot;9 de diciembre de 2020&quot; y conval&#xED;dase lo actuado por los postulantes entre el d&#xED;a 16 de noviembre de 2020 y el d&#xED;a anterior a la publicaci&#xF3;n en el Diario Oficial de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. Establ&#xE9;cese que quienes no hayan alcanzado a finalizar su postulaci&#xF3;n en el sistema inform&#xE1;tico dispuesto para estos efectos, antes del d&#xED;a 24 de noviembre de 2020, debido a problemas asociados al funcionamiento de dicho sistema, debidamente registrados en el Sistema de Atenci&#xF3;n al Ciudadano CRM-SIAC, tendr&#xE1;n plazo para finalizarla hasta el d&#xED;a 9 de diciembre de 2020, en cuyo caso la plataforma permanecer&#xE1; disponible para esos efectos. Los dem&#xE1;s se entender&#xE1;n como desistidas.</div><div class=\"p\">&nbsp; &nbsp;  3. Establ&#xE9;cese que la resoluci&#xF3;n exenta N&#xBA; 1.140 (V. y U.), del a&#xF1;o 2020, se mantendr&#xE1; vigente en todo aquello que no ha sido modificado por la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Reempl&#xE1;zase, en el inciso final del resuelvo 4. de la resoluci&#xF3;n exenta N&#xBA; 1.140 (V. y U.), de fecha 27 de julio de 2020 y sus modificaciones, la fecha &quot;15 de noviembre de 2020&quot; por &quot;9 de diciembre de 2020&quot; y conval&#xED;dase lo actuado por los postulantes entre el d&#xED;a 16 de noviembre de 2020 y el d&#xED;a anterior a la publicaci&#xF3;n en el Diario Oficial de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. Establ&#xE9;cese que quienes no hayan alcanzado a finalizar su postulaci&#xF3;n en el sistema inform&#xE1;tico dispuesto para estos efectos, antes del d&#xED;a 24 de noviembre de 2020, debido a problemas asociados al funcionamiento de dicho sistema, debidamente registrados en el Sistema de Atenci&#xF3;n al Ciudadano CRM-SIAC, tendr&#xE1;n plazo para finalizarla hasta el d&#xED;a<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1153730&amp;idParte=10186606&amp;idVersion=2020-12-17\">Resoluci&#xF3;n 1785 EXENTA,<br>VIVIENDA<br>N&#xB0; 2<br>D.O. 17.12.2020</a></span> 17 de diciembre de 2020, en cuyo caso la plataforma permanecer&#xE1; disponible para esos efectos. Los dem&#xE1;s se entender&#xE1;n como desistidas.</div><div class=\"p\">&nbsp; &nbsp;  3. Establ&#xE9;cese que la resoluci&#xF3;n exenta N&#xBA; 1.140 (V. y U.), del a&#xF1;o 2020, se mantendr&#xE1; vigente en todo aquello que no ha sido modificado por la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1153730,
+      "fecha": "2020-12-17"
+    }
+  }
+]

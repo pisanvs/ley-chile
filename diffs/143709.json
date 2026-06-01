@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-03-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-05-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6192137,
+          "old": "<div><div class=\"p\">AUTORIZA A &quot;PESQUERA RICAJAN S.A.&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A &quot;PESQUERA RICAJAN S.A.&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

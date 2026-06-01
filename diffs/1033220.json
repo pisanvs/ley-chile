@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-11-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-12-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9208037,
+          "old": "<div><div class=\"p\"> .<img class=\"img-responsive\" src=\"Navegar/imagen/JPG/22312.jpg\">&#xA0;</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>.<img class=\"img-responsive\" src=\"Navegar/imagen/JPG/22312.jpg\">&#xA0;</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Aviso S/N, Municipalidad de Rancagua, publicado el 10.12.2011, modifica la presente norma en el sentido de complementarla en la forma que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

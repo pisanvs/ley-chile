@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-02-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-07-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8922706,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Segundo: Las pensiones de Gracia que se conceden a los menores, se pagar&#xE1;n hasta los 18 &#xF3; 23 a&#xF1;os de edad, siendo requisito indispensable para su cobro que al comienzo de cada a&#xF1;o lectivo, acrediten ser alumno regular de un plantel educacional.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Segundo: Las pensiones de Gracia que se<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> conceden a los menores, se pagar&#xE1;n hasta los 18 &#xF3; 23 a&#xF1;os de edad, siendo requisito indispensable para su cobro que al comienzo de cada a&#xF1;o lectivo, acrediten ser alumno regular de un plantel educacional.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 436, Interior, publicado el 04.07.2003, dej&#xF3; sin efecto el tope de 23 a&#xF1;os de edad respecto del beneficiario C&#xE9;sar Antonio Sep&#xFA;lveda Escobar, debiendo pagarse su pensi&#xF3;n hasta el mes de diciembre de 2005.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

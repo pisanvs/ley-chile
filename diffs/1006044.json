@@ -1,0 +1,74 @@
+[
+  {
+    "fecha": "2009-09-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-04-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8780565,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- Cr&#xE9;ase el subsistema de Protecci&#xF3;n Integral de la Infancia, denominado &quot;Chile Crece Contigo&quot;, cuyo objetivo es acompa&#xF1;ar el proceso de desarrollo de los ni&#xF1;os y ni&#xF1;as que se atiendan en el sistema p&#xFA;blico de salud, desde su primer control de gestaci&#xF3;n y hasta su ingreso al sistema escolar, en el primer nivel de transici&#xF3;n o su equivalente.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- Cr&#xE9;ase el subsistema de Protecci&#xF3;n Integral de la Infancia, denominado &quot;Chile Crece Contigo&quot;, cuyo objetivo es acompa&#xF1;ar el proceso de desarrollo de los ni&#xF1;os y ni&#xF1;as que se atiendan en el sistema p&#xFA;blico de salud, desde su primer control de gestaci&#xF3;n y hasta su ingreso al sistema escolar, en el primer nivel de transici&#xF3;n o su equivalente.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, el subsistema podr&#xE1; acompa&#xF1;ar el pro<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1117540&amp;idParte=9906313&amp;idVersion=2018-04-18\">Ley 21090<br>Art. 2 N&#xB0; 1<br>D.O. 18.04.2018</a></span>ceso de desarrollo de los ni&#xF1;os y ni&#xF1;as que se encuentren matriculados en los establecimientos educacionales p&#xFA;blicos hasta el primer ciclo de ense&#xF1;anza b&#xE1;sica, a trav&#xE9;s de los programas incorporados en la Ley de Presupuestos del Sector P&#xFA;blico de cada a&#xF1;o.</div><br><br></div>"
+        },
+        {
+          "part_id": 8780567,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- El programa eje del subsistema en referencia ser&#xE1; el de &quot;Apoyo al Desarrollo Biosicosocial&quot;, que consiste en el acompa&#xF1;amiento y seguimiento personalizado a la trayectoria del desarrollo de los infantes que cumplan los requisitos se&#xF1;alados en el art&#xED;culo 9&#xBA;, el que ser&#xE1; ejecutado por el Ministerio de Salud.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- El programa eje del subsistema en <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1117540&amp;idParte=9906313&amp;idVersion=2018-04-18\">Ley 21090<br>Art. 2 N&#xB0; 2<br>D.O. 18.04.2018</a></span>referencia ser&#xE1; el de &quot;Apoyo al Desarrollo Biosicosocial&quot;, que consiste en el acompa&#xF1;amiento y seguimiento personalizado a la trayectoria del desarrollo de los infantes que cumplan los requisitos se&#xF1;alados en el inciso primero del art&#xED;culo 9&#xBA;, el que ser&#xE1; ejecutado por el Ministerio de Salud.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1117540,
+      "fecha": "2018-04-18"
+    }
+  },
+  {
+    "fecha": "2019-05-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8780567,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- El programa eje del subsistema en <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1117540&amp;idParte=9906313&amp;idVersion=2018-04-18\">Ley 21090<br>Art. 2 N&#xB0; 2<br>D.O. 18.04.2018</a></span>referencia ser&#xE1; el de &quot;Apoyo al Desarrollo Biosicosocial&quot;, que consiste en el acompa&#xF1;amiento y seguimiento personalizado a la trayectoria del desarrollo de los infantes que cumplan los requisitos se&#xF1;alados en el inciso primero del art&#xED;culo 9&#xBA;, el que ser&#xE1; ejecutado por el Ministerio de Salud.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- El programa eje del subsistema en <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1117540&amp;idParte=9906313&amp;idVersion=2018-04-18\">Ley 21090<br>Art. 2 N&#xB0; 2<br>D.O. 18.04.2018</a></span>referencia ser&#xE1; el de &quot;Apoyo al Desarrollo Biosicosocial&quot;, que consiste en el acompa&#xF1;amiento y seguimiento personalizado a la trayectoria del desarrollo de los infantes que cumplan los requisitos se&#xF1;alados en el inciso primero del art&#xED;culo 9&#xBA;, el que ser&#xE1; ejecutado por el Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp;  Se <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1131064&amp;idParte=10019329&amp;idVersion=2019-05-02\">Ley 21155<br>Art. 8<br>D.O. 02.05.2019</a></span>dar&#xE1; especial relevancia al fomento, protecci&#xF3;n y apoyo intersectorial a la lactancia materna exclusiva, idealmente hasta los seis meses de edad de infantes lactantes, y su continuaci&#xF3;n a lo menos hasta los dos a&#xF1;os de edad complementada con otros alimentos. Se extiende la protecci&#xF3;n a los procesos de obtenci&#xF3;n de leche materna distintos del amamantamiento directo, especialmente en lo que respecta a la higiene, inocuidad y seguridad en su extracci&#xF3;n, manipulaci&#xF3;n, conservaci&#xF3;n y entrega a los lactantes. Se deber&#xE1;n coordinar las pol&#xED;ticas p&#xFA;blicas necesarias para tal efecto, con especial &#xE9;nfasis en las &#xE1;reas p&#xFA;blica y privada de educaci&#xF3;n y salud.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1131064,
+      "fecha": "2019-05-02"
+    }
+  },
+  {
+    "fecha": "2022-03-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8780565,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- Cr&#xE9;ase el subsistema de Protecci&#xF3;n Integral de la Infancia, denominado &quot;Chile Crece Contigo&quot;, cuyo objetivo es acompa&#xF1;ar el proceso de desarrollo de los ni&#xF1;os y ni&#xF1;as que se atiendan en el sistema p&#xFA;blico de salud, desde su primer control de gestaci&#xF3;n y hasta su ingreso al sistema escolar, en el primer nivel de transici&#xF3;n o su equivalente.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, el subsistema podr&#xE1; acompa&#xF1;ar el pro<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1117540&amp;idParte=9906313&amp;idVersion=2018-04-18\">Ley 21090<br>Art. 2 N&#xB0; 1<br>D.O. 18.04.2018</a></span>ceso de desarrollo de los ni&#xF1;os y ni&#xF1;as que se encuentren matriculados en los establecimientos educacionales p&#xFA;blicos hasta el primer ciclo de ense&#xF1;anza b&#xE1;sica, a trav&#xE9;s de los programas incorporados en la Ley de Presupuestos del Sector P&#xFA;blico de cada a&#xF1;o.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- Cr&#xE9;ase el subsistema de Protecci&#xF3;n Integral de la Infancia, denominado &quot;Chile Crece Contigo&quot;, cuyo objetivo es acompa&#xF1;ar el proceso de desarrollo de los ni&#xF1;os y ni&#xF1;as que se atiendan en el sistema p&#xFA;blico de salud, desde su primer control de gestaci&#xF3;n y<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1173643&amp;idParte=10317499&amp;idVersion=2022-03-15\">Ley 21430<br>Art. 85 N&#xBA; 1, 2<br>D.O. 15.03.2022</a></span> hasta que cumplan los 18 a&#xF1;os de edad.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, el subsistema podr&#xE1; acompa&#xF1;ar el pro<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1117540&amp;idParte=9906313&amp;idVersion=2018-04-18\">Ley 21090<br>Art. 2 N&#xB0; 1<br>D.O. 18.04.2018</a></span>ceso de desarrollo de los ni&#xF1;os y ni&#xF1;as que se encuentren matriculados en los establecimientos educacionales p&#xFA;blicos hasta que cumplan los 18 a&#xF1;os de edad, a trav&#xE9;s de los programas incorporados en la Ley de Presupuestos del Sector P&#xFA;blico de cada a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  El<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1173643&amp;idParte=10317499&amp;idVersion=2022-03-15\">Ley 21430<br>Art. 85 N&#xBA; 3<br>D.O. 15.03.2022</a></span> Subsistema tendr&#xE1; dentro de sus beneficiarios a los ni&#xF1;os, ni&#xF1;as y adolescentes, cuyo adulto significativo se encuentre privado de libertad. Tambi&#xE9;n ser&#xE1;n beneficiarios los cuidadores de aquellos ni&#xF1;os, ni&#xF1;as y adolescentes.</div><br><br></div>"
+        },
+        {
+          "part_id": 8780567,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- El programa eje del subsistema en <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1117540&amp;idParte=9906313&amp;idVersion=2018-04-18\">Ley 21090<br>Art. 2 N&#xB0; 2<br>D.O. 18.04.2018</a></span>referencia ser&#xE1; el de &quot;Apoyo al Desarrollo Biosicosocial&quot;, que consiste en el acompa&#xF1;amiento y seguimiento personalizado a la trayectoria del desarrollo de los infantes que cumplan los requisitos se&#xF1;alados en el inciso primero del art&#xED;culo 9&#xBA;, el que ser&#xE1; ejecutado por el Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp;  Se <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1131064&amp;idParte=10019329&amp;idVersion=2019-05-02\">Ley 21155<br>Art. 8<br>D.O. 02.05.2019</a></span>dar&#xE1; especial relevancia al fomento, protecci&#xF3;n y apoyo intersectorial a la lactancia materna exclusiva, idealmente hasta los seis meses de edad de infantes lactantes, y su continuaci&#xF3;n a lo menos hasta los dos a&#xF1;os de edad complementada con otros alimentos. Se extiende la protecci&#xF3;n a los procesos de obtenci&#xF3;n de leche materna distintos del amamantamiento directo, especialmente en lo que respecta a la higiene, inocuidad y seguridad en su extracci&#xF3;n, manipulaci&#xF3;n, conservaci&#xF3;n y entrega a los lactantes. Se deber&#xE1;n coordinar las pol&#xED;ticas p&#xFA;blicas necesarias para tal efecto, con especial &#xE9;nfasis en las &#xE1;reas p&#xFA;blica y privada de educaci&#xF3;n y salud.</div><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- El programa eje del subsistema en <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1117540&amp;idParte=9906313&amp;idVersion=2018-04-18\">Ley 21090<br>Art. 2 N&#xB0; 2<br>D.O. 18.04.2018</a></span>referencia ser&#xE1; el de &quot;Apoyo al Desarrollo Biosicosocial&quot;, que consiste en el acompa&#xF1;amiento y seguimiento personalizado a la trayectoria del desarrollo de los infantes que cumplan los requisitos se&#xF1;alados en el inciso primero del art&#xED;culo 9&#xBA;, el que ser&#xE1; ejecutado por el Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp;  Se <span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1131064&amp;idParte=10019329&amp;idVersion=2019-05-02\">Ley 21155<br>Art. 8<br>D.O. 02.05.2019</a></span>dar&#xE1; especial relevancia al fomento, protecci&#xF3;n y apoyo intersectorial a la lactancia materna exclusiva, idealmente hasta los seis meses de edad de infantes lactantes, y su continuaci&#xF3;n a lo menos hasta los dos a&#xF1;os de edad complementada con otros alimentos. Se extiende la protecci&#xF3;n a los procesos de obtenci&#xF3;n de leche materna distintos del amamantamiento directo, especialmente en lo que respecta a la higiene, inocuidad y seguridad en su extracci&#xF3;n, manipulaci&#xF3;n, conservaci&#xF3;n y entrega a los lactantes. Se deber&#xE1;n coordinar las pol&#xED;ticas p&#xFA;blicas necesarias para tal efecto, con especial &#xE9;nfasis en las &#xE1;reas p&#xFA;blica y privada de educaci&#xF3;n y salud.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1173643,
+      "fecha": "2022-03-15"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-12-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6359099,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA FRIOMAR LTDA. PARA REEMPLAZAR INSTALACIONES QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA FRIOMAR LTDA. PARA REEMPLAZAR INSTALACIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

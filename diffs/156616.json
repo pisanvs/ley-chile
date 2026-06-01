@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2000-02-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-12-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6236198,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Del&#xE9;gase en el Ministro de Bienes Nacionales la facultad de suscribir, bajo la f&#xF3;rmula &quot;Por Orden del Presidente de la Rep&#xFA;blica&quot;, los decretos supremos que autorizan el otorgamiento de T&#xED;tulos Gratuitos de Dominio, relativos a terrenos fiscales, urbanos o rurales, de la Isla de Pascua.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Se deja constancia que, por razones de buen servicio, la presente delegaci&#xF3;n regir&#xE1; a contar de la fecha del presente decreto.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Del&#xE9;gase en el Ministro de Bienes Nacionales<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> la facultad de suscribir, bajo la f&#xF3;rmula &quot;Por Orden del Presidente de la Rep&#xFA;blica&quot;, los decretos supremos que autorizan el otorgamiento de T&#xED;tulos Gratuitos de Dominio, relativos a terrenos fiscales, urbanos o rurales, de la Isla de Pascua.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Se deja constancia que, por razones de buen servicio, la presente delegaci&#xF3;n regir&#xE1; a contar de la fecha del presente decreto.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1 del DTO 217, Bienes Nacionales, publicado el 05.12.2001, deleg&#xF3; en los Secretarios Regionales Ministeriales de Bienes Nacionales de las regiones que se&#xF1;ala, la facultad de suscribir bajo la f&#xF3;rmula &quot;Por Orden del Presidente de la Rep&#xFA;blica&quot;, los actos administrativos que indica.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2010-06-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

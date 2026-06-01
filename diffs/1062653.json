@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-05-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-10-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9475550,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- La modificaci&#xF3;n de las plantas de los Tribunales Tributarios y Aduaneros dispuesta por la letra b) del n&#xFA;mero 1) del art&#xED;culo 1&#xBA; de la presente ley, respecto de los cargos que a la fecha de su publicaci&#xF3;n se encontraren siendo servidos, se producir&#xE1; una vez que el cargo respectivo quedare vacante por las causales legales correspondientes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Der<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1109562&amp;idParte=9842308&amp;idVersion=2017-10-20\">Ley 21039<br>Art. 4<br>D.O. 20.10.2017</a></span>ogado.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1109562,
+      "fecha": "2017-10-20"
+    }
+  }
+]

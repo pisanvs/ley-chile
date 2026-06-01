@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-11-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-12-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7256859,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quese la resoluci&#xF3;n exenta N&#xBA; 516 de fecha 12.07.99 de esta Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo en las siguientes ofertas, quedando en definitiva como se se&#xF1;ala a continuaci&#xF3;n:</div><br><div class=\"p\">Oferta N&#xBA; 1:</div><div class=\"p\">Programa de Vivienda B&#xE1;sica de Libre Elecci&#xF3;n Regional</div><br><div class=\"p\">Subsidios:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 752</div><div class=\"p\">Recursos disponibles:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 105.360 U.F.</div><br><div class=\"p\">Oferta N&#xBA; 2:</div><div class=\"p\">Programa de Vivienda B&#xE1;sica de</div><div class=\"p\">Libre Elecci&#xF3;n Provincia de Arauco</div><br><div class=\"p\">Subsidios:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  26</div><div class=\"p\">Recursos disponibles:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4.680 U.F.</div><br><div class=\"p\">Oferta N&#xBA; 3:</div><div class=\"p\">Programa de Vivienda Progresiva</div><div class=\"p\">Privada I Etapa Regional</div><br><div class=\"p\">Recursos disponibles:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  95.322 U.F.</div><br><div class=\"p\">Oferta N&#xBA; 5:</div><div class=\"p\">Programa de Vivienda Progresiva II Etapa</div><br><div class=\"p\">Recursos disponibles:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.400 U.F.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- En todo aquello no modificado por la presente resoluci&#xF3;n exenta se mantiene vigente la resoluci&#xF3;n exenta N&#xBA; 516 de fecha 12.07.99 de esta Seremi.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quese la resoluci&#xF3;n exenta N&#xBA; 516 de fecha 12.07.99 de esta Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo en las siguientes ofertas, quedando en definitiva como se se&#xF1;ala a continuaci&#xF3;n:</div><br><div class=\"p\">Oferta N&#xBA; 1:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">Programa de Vivienda B&#xE1;sica de Libre Elecci&#xF3;n Regional</div><br><div class=\"p\">Subsidios:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 752</div><div class=\"p\">Recursos disponibles:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 105.360 U.F.</div><br><div class=\"p\">Oferta N&#xBA; 2:</div><div class=\"p\">Programa de Vivienda B&#xE1;sica de Libre Elecci&#xF3;n Provincia de Arauco</div><br><div class=\"p\">Subsidios:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  26</div><div class=\"p\">Recursos disponibles:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4.680 U.F.</div><br><div class=\"p\">Oferta N&#xBA; 3:</div><div class=\"p\">Programa de Vivienda Progresiva Privada I Etapa Regional</div><br><div class=\"p\">Recursos disponibles:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  95.322 U.F.</div><br><div class=\"p\">Oferta N&#xBA; 5:</div><div class=\"p\">Programa de Vivienda Progresiva II Etapa</div><br><div class=\"p\">Recursos disponibles:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.400 U.F.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- En todo aquello no modificado por la presente resoluci&#xF3;n exenta se mantiene vigente la resoluci&#xF3;n exenta N&#xBA; 516 de fecha 12.07.99 de esta Seremi.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 918 Exenta, Vivienda, publicada el 16.12.1999 modific&#xF3; la RES 516 Exenta, Vivienda, modificaci&#xF3;n que se entiende incorporada en la presente resoluci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

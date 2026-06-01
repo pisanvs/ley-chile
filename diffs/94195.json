@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-07-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8324463,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD COMERCIAL PESQUERA ATLANTIDA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DECLARA CADUCIDAD DE RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD COMERCIAL PESQUERA ATLANTIDA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DECLARA CADUCIDAD DE RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

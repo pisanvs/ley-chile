@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1972-09-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-06-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8374998,
+          "old": "<div><div class=\"p\">APRUBA REGLAMENTO DE ESPECIALIDADES CON DERECHO A SOBRE SUELDO, PARA EL PERSONAL EN RETIRO Y SUS BENEFICIARIOS DE MONTEPIO DE CARABINEROS DE CHILE</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 30 de Agosto de 1972.- S.E. el Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.268.- Vistos estos antecedentes; el oficio N&#xBA; 24.432, de 18 de Agosto del a&#xF1;o en curso, de la Direcci&#xF3;n General de Carabineros, y teniendo presente lo dispuesto en los art&#xED;culos: 4&#xBA; de la ley N&#xBA; 17.700, de 1972; 48&#xBA; letras a), b) y c) del D.F.L. N&#xBA; 2, de 1968; decreto de Interior N&#xBA; 1.606, de 22 de Octubre de 1970, y en uso de la facultad que me confiere el N&#xBA; 2 del art&#xED;culo 72&#xBA; de la Constituci&#xF3;n Pol&#xED;tica del Estado, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento de Especialidades con derecho a sobresueldo, para el personal en retiro y sus beneficiarios de montep&#xED;o de Carabineros de Chile: </div></div>",
+          "new": "<div><div class=\"p\">APRUBA REGLAMENTO DE ESPECIALIDADES CON DERECHO A SOBRE SUELDO, PARA EL PERSONAL EN RETIRO Y SUS BENEFICIARIOS DE MONTEPIO DE CARABINEROS DE CHILE</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 30 de Agosto de 1972.- S.E. el Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.268.- Vistos estos antecedentes; el oficio N&#xBA; 24.432, de 18 de Agosto del a&#xF1;o en curso, de la Direcci&#xF3;n General de Carabineros, y teniendo presente lo dispuesto en los art&#xED;culos: 4&#xBA; de la ley N&#xBA; 17.700, de 1972; 48&#xBA; letras a), b) y c) del D.F.L. N&#xBA; 2, de 1968; decreto de Interior N&#xBA; 1.606, de 22 de Octubre de 1970, y en uso de la facultad que me confiere el N&#xBA; 2 del art&#xED;culo 72&#xBA; de la Constituci&#xF3;n Pol&#xED;tica del Estado, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento de Especialidades con derecho a sobresueldo, para el personal en retiro y sus beneficiarios de montep&#xED;o de Carabineros de Chile:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

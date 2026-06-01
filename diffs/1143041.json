@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10105362,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo transitorio.- Entrada en vigencia y aplicaci&#xF3;n de las normas que establecen el procedimiento administrativo electr&#xF3;nico a las solicitudes de concesiones mar&#xED;timas menores, destinaciones y dem&#xE1;s procedimientos regulados en el decreto supremo N&#xBA; 9 de 2018, del Ministerio de Defensa Nacional, Reglamento sobre Concesiones Mar&#xED;timas. Las normas de los nuevos numerales 18, 20, 21 y 22 del art&#xED;culo 1&#xBA;; art&#xED;culo 21 letras a), b), c), i), j); art&#xED;culo 24; art&#xED;culo 24 bis; art&#xED;culo 28, incisos segundo y tercero; art&#xED;culo 29; art&#xED;culo 30; art&#xED;culo 44; art&#xED;culo 45, incisos primero y tercero; art&#xED;culo 47; art&#xED;culo 48, inciso segundo; art&#xED;culo 50, letra a), p&#xE1;rrafo primero, letra b) y letra m); art&#xED;culo 51, letra a), p&#xE1;rrafo primero y letra h); art&#xED;culo 53, letra a), p&#xE1;rrafo primero y letra d); art&#xED;culo 56; art&#xED;culo 65; art&#xED;culo 66 letra h) e inciso final; art&#xED;culo 67; art&#xED;culo 68, incisos cuarto y quinto nuevo; art&#xED;culo 69, art&#xED;culo 81, inciso segundo; art&#xED;culo 95, inciso primero; art&#xED;culo 99, inciso primero; art&#xED;culo 104, inciso segundo; art&#xED;culo 107; art&#xED;culo 108 y art&#xED;culo 110, que establecen un procedimiento administrativo electr&#xF3;nico, entrar&#xE1;n en vigencia a contar del primer d&#xED;a del sexto mes siguiente al de su publicaci&#xF3;n en el Diario Oficial, fecha a partir de la cual se aplicar&#xE1;n a todas las solicitudes de otorgamiento, modificaci&#xF3;n, renovaci&#xF3;n, transferencia, arriendo o cesi&#xF3;n de uso de concesiones mar&#xED;timas menores, destinaciones mar&#xED;timas y dem&#xE1;s procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el Reglamento sobre Concesiones Mar&#xED;timas.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo transitorio.- Entrada en vigencia y aplicaci&#xF3;n de las normas que establecen el procedimiento administrativo electr&#xF3;nico a las solicitudes de concesiones mar&#xED;timas menores, destinaciones y dem&#xE1;s procedimientos regulados en el decreto supremo N&#xBA; 9 de 2018, del Ministerio de Defensa Nacional, Reglamento sobre Concesiones Mar&#xED;timas. Las normas de los nuevos numerales 18, 20, 21 y 22 del art&#xED;culo 1&#xBA;; art&#xED;culo 21 letras a), b), c), i), j); art&#xED;culo 24; art&#xED;culo 24 bis; art&#xED;culo 28, incisos segundo y tercero; art&#xED;culo 29; art&#xED;culo 30; art&#xED;culo 44; art&#xED;culo 45, incisos primero y tercero; art&#xED;culo 47; art&#xED;culo 48, inciso segundo; art&#xED;culo 50, letra a), p&#xE1;rrafo primero, letra b) y letra m); art&#xED;culo 51, letra a), p&#xE1;rrafo primero y letra h); art&#xED;culo 53, letra a), p&#xE1;rrafo primero y letra d); art&#xED;culo 56; art&#xED;culo 65; art&#xED;culo 66 letra h) e inciso final; art&#xED;culo 67; art&#xED;culo 68, incisos cuarto y quinto nuevo; art&#xED;culo 69, art&#xED;culo 81, inciso segundo; art&#xED;culo 95, inciso primero; art&#xED;culo 99, inciso primero; art&#xED;culo 104, inciso segundo; art&#xED;culo 107; art&#xED;culo 108 y art&#xED;culo 110, que establecen un procedimiento administrativo electr&#xF3;nico, entrar&#xE1;n en vigencia a contar del <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1148231&amp;idParte=10149250&amp;idVersion=2020-08-13\">Decreto 190, DEFENSA<br>Art. 2<br>D.O. 13.08.2020</a></span>30 de noviembre de 2020, fecha a partir de la cual se aplicar&#xE1;n a todas las solicitudes de otorgamiento, modificaci&#xF3;n, renovaci&#xF3;n, transferencia, arriendo o cesi&#xF3;n de uso de concesiones mar&#xED;timas menores, destinaciones mar&#xED;timas y dem&#xE1;s procedimientos administrativos que se tramiten de conformidad a las normas contenidas en el Reglamento sobre Concesiones Mar&#xED;timas.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1148231,
+      "fecha": "2020-08-13"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "1963-06-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1965-06-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9341894,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1049827&amp;idParte=9341691&amp;idVersion=1965-06-08\">Decreto 878, INTERIOR<br>D.O. 08.06.1965</a></span>&nbsp; &nbsp;  Art&#xED;culo 9.o- Las credenciales que el H. Senado y la H. C&#xE1;mara de Diputados otorguen a los Parlamentarios, contendr&#xE1;n la siguiente leyenda &quot;Los Carabineros de Chile dar&#xE1;n toda clase de facilidades al titular de la presente credencial para atravesar los cordones establecidos en lugares p&#xFA;blicos, entrar y permanecer en recintos cerrados por ellos. Su carruaje podr&#xE1; circular y estacionarse, de acuerdo con las necesidades del servicio, libremente.</div><br><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en el art&#xED;culo 7.o del presente decreto no ser&#xE1; aplicable al rompe-filas contenido en la credencial de los parlamentarios.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1049827,
+      "fecha": "1965-06-08"
+    }
+  },
+  {
+    "fecha": "2022-06-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

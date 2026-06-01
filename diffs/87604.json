@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1991-08-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8956626,
+          "old": "<div><div class=\"p\">DESIGNA COMO MINISTROS DE FE A FUNCIONARIOS QUE INDICA </div><div class=\"p\">N&#xFA;m. 167.- Santiago, 02 de Julio de 1991.- Vistos: Lo dispuesto en el art&#xED;culo 4&#xB0; del Decreto ley No. 2.974, de 1979,</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA COMO MINISTROS DE FE A FUNCIONARIOS QUE INDICA </div><div class=\"p\">N&#xFA;m. 167.- Santiago, 02 de Julio de 1991.- Vistos: Lo dispuesto en el art&#xED;culo 4&#xB0; del Decreto ley No. 2.974, de 1979,</div><br><div class=\"p\">Resuelvo:</div><br><br></div>"
+        },
+        {
+          "part_id": 8956627,
+          "old": "<div><div class=\"p\">Des&#xED;gnase como Ministros de Fe para actuar en las localidades ubicadas en la X Regi&#xF3;n, en que no hayan Notarios ni Oficiales del Registro Civil, a los siguientes funcionarios:</div><div class=\"p\">- Alad&#xED;n Barrientos</div><div class=\"p\">- H&#xE9;ctor Manuel Aedo Gonz&#xE1;lez</div><div class=\"p\">- Juan Orlando D&#xED;az Gallardo</div><div class=\"p\">- Augusto Berger Wartenberg</div><div class=\"p\">- Mart&#xED;n Ignacio Cox Fern&#xE1;ndez</div><div class=\"p\">- Rodrigo Eugenio Saini Ar&#xE9;valo</div><div class=\"p\">- Manuel Vivar Vivar Rub&#xE9;n</div><div class=\"p\">- Enrique Alarc&#xF3;n Cartes</div><div class=\"p\">- Gricerio Bastidas San Mart&#xED;n</div><div class=\"p\">- Ema Carrasco Lopetegui</div><div class=\"p\">- Franklin Freddy Linz Linz</div><div class=\"p\">- Jos&#xE9; Sixto Gallardo Bustos</div><div class=\"p\">- Carlos Turra Guti&#xE9;rrez,</div><br></div>",
+          "new": "<div><div class=\"p\">Des&#xED;gnase como Ministros de Fe para actuar en las localidades ubicadas en la X Regi&#xF3;n, en que no hayan Notarios ni Oficiales del Registro Civil, a los siguientes funcionarios:</div><div class=\"p\">- Alad&#xED;n Barrientos</div><div class=\"p\">- H&#xE9;ctor Manuel Aedo Gonz&#xE1;lez</div><div class=\"p\">- Juan Orlando D&#xED;az Gallardo</div><div class=\"p\">- Augusto Berger Wartenberg</div><div class=\"p\">- ELIMINADO<span class=\"n\" id=\"n_0\">RES 249, AGRICULTURA<br>D.O. 23.09.1999</span></div><div class=\"p\">- Rodrigo Eugenio Saini Ar&#xE9;valo</div><div class=\"p\">- Manuel Vivar Vivar Rub&#xE9;n</div><div class=\"p\">- Enrique Alarc&#xF3;n Cartes</div><div class=\"p\">- Gricerio Bastidas San Mart&#xED;n<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><div class=\"p\">- Ema Carrasco Lopetegui</div><div class=\"p\">- Franklin Freddy Linz Linz</div><div class=\"p\">- Jos&#xE9; Sixto Gallardo Bustos</div><div class=\"p\">- Carlos Turra Guti&#xE9;rrez,</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 14, Agricultura, publicada el 11.02.1995, elimin&#xF3; a don Gricerio Bastidas San Mart&#xED;n como Ministro de Fe.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

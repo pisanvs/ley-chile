@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-11-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-11-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9313995,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- &#xC9;poca de entrega de la informaci&#xF3;n. El Servicio de Impuestos internos deber&#xE1; proporcionar los datos para la validaci&#xF3;n de la informaci&#xF3;n por parte del Ministerio de Educaci&#xF3;n en el mes de agosto de cada a&#xF1;o. La informaci&#xF3;n que adjuntar&#xE1; el Servicio de Impuestos Internos para validar los antecedentes, corresponder&#xE1; a los del a&#xF1;o tributario anterior en que se formule la solicitud se&#xF1;alada en el art&#xED;culo anterior.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.-<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1152151&amp;idParte=10178495&amp;idVersion=2020-11-27\">Decreto 119,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 27.11.2020</a></span> &#xC9;poca de entrega de la informaci&#xF3;n. El Servicio de Impuestos Internos deber&#xE1; proporcionar los datos para la validaci&#xF3;n de la informaci&#xF3;n por parte del Ministerio de Educaci&#xF3;n en el mes de agosto de cada a&#xF1;o. La informaci&#xF3;n que adjuntar&#xE1; el Servicio de Impuestos Internos para validar los antecedentes, corresponder&#xE1; a los del a&#xF1;o tributario de la anualidad en que se formule la solicitud se&#xF1;alada en el art&#xED;culo anterior.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1152151,
+      "fecha": "2020-11-27"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-10-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-11-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7355938,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n afecta N&#xBA; 27 de 28 septiembre de 2007, tomada raz&#xF3;n el 5 octubre de 2007, Serviu Regi&#xF3;n de Atacama conforme DL 2.186 de 1978 y DS. N&#xBA;104 de V. y U. de 2007, orden&#xF3; expropiaci&#xF3;n parcial de inmueble Lote 5 ubicado en Los Carrera 2738, Copiap&#xF3;, rol de aval&#xFA;o N&#xBA;329-05, aparente dominio de Marco Polo Castro Vedia, para proyecto &quot;Mejoramiento Avenida Los Carrera, Copiap&#xF3;&quot; I Etapa. Comisi&#xF3;n tasadora, integrada por los arquitectos Eliana Pe&#xF1;aloza Herrero, Marcelo Diego Molina Ross y Mario Hern&#xE1;n Castillo Fuentes, seg&#xFA;n informe de 14 de septiembre de 2007, fij&#xF3; monto provisional indemnizaci&#xF3;n en $4.600.105 pagadera al contado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n afecta N&#xBA; 27 de 28 septiembre de 2007, tomada raz&#xF3;n el 5 octubre de 2007, Serviu Regi&#xF3;n de Atacama conforme DL 2.186 de 1978 y DS. N&#xBA;104 de V. y U. de 2007, orden&#xF3; expropiaci&#xF3;n parcial de inmueble Lote 5 ubicado en Los Carrera 2738, Copiap&#xF3;, rol de aval&#xFA;o N&#xBA;329-06, aparente dominio de Marco Polo Castro Vedia,<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 15.11.2007</span> para proyecto &quot;Mejoramiento Avenida Los Carrera, Copiap&#xF3;&quot; I Etapa. Comisi&#xF3;n tasadora, integrada por los arquitectos Eliana Pe&#xF1;aloza Herrero, Marcelo Diego Molina Ross y Mario Hern&#xE1;n Castillo Fuentes, seg&#xFA;n informe de 14 de septiembre de 2007, fij&#xF3; monto provisional indemnizaci&#xF3;n en $4.600.105 pagadera al contado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

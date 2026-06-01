@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1970-07-29",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1972-06-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7145625,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MINISTERIO DE SALUD PUBLICA REGLAMENTO DEL &quot;REGISTRO NACIONAL DE EMPLEADOS DE FARMACIA&quot;</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el &quot;Diario Oficial&quot; N&#xB0; 27.708, de 28 de julio de 1970)</div><div class=\"p\">&nbsp; &nbsp; Santiago, 18 de Mayo de 1970.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 359.- Visto lo dispuesto en la ley N&#xB0; 17.295, y en uso de la facultad que me concede el N&#xB0; 2 del art&#xED;culo 72&#xB0; de la Constituci&#xF3;n Pol&#xED;tica del Estado, Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente &quot;Reglamento del Registro Nacional de Empleados de Farmacia&quot;:</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

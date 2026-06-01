@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-03-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-08-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9681206,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA;.- En los casos de sismo o calamidad p&#xFA;blica, que d&#xE9; lugar a la declaraci&#xF3;n del estado de excepci&#xF3;n constitucional de cat&#xE1;strofe, se podr&#xE1; otorgar hasta un 100% de condonaci&#xF3;n de intereses y multas que accedan a impuestos y contribuciones de los contribuyentes o inmuebles situados en las zonas geogr&#xE1;ficas afectadas, mediante la dictaci&#xF3;n de una resoluci&#xF3;n de general aplicaci&#xF3;n, seg&#xFA;n los criterios que en ella se determinen por el Tesorero General de la Rep&#xFA;blica.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA;.- En los casos de sismo o calamidad p&#xFA;blica, que d&#xE9; lugar a la declaraci&#xF3;n<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1106398&amp;idParte=9824440&amp;idVersion=2017-08-16\">Resoluci&#xF3;n 1230 EXENTA,<br>HACIENDA<br>D.O. 16.08.2017</a></span> de zona de cat&#xE1;strofe o de zona afectada por cat&#xE1;strofe<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>, se podr&#xE1; otorgar hasta un 100% de condonaci&#xF3;n de intereses y multas que accedan a impuestos y contribuciones de los contribuyentes o inmuebles situados en las zonas geogr&#xE1;ficas afectadas, mediante la dictaci&#xF3;n de una resoluci&#xF3;n de general aplicaci&#xF3;n, seg&#xFA;n los criterios que en ella se determinen por el Tesorero General de la Rep&#xFA;blica.</div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 1230 Exenta, Hacienda, publicada el 16.08.2017, modifica el presente art&#xED;culo en el sentido de sustituir la frase &quot;que d&#xE9; lugar al estado de excepci&#xF3;n constitucional de cat&#xE1;strofe&quot;, sin embargo, en el texto dice &quot;que d&#xE9; lugar a la declaraci&#xF3;n del estado de excepci&#xF3;n constitucional de cat&#xE1;strofe&quot;, se efect&#xFA;a la modificaci&#xF3;n de todos modos de la manera indicada.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1106398,
+      "fecha": "2017-08-16"
+    }
+  }
+]

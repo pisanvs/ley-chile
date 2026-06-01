@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-10-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-04-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8334516,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA ATITLAN S.A.PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA. DECLARA CADUCIDAD DE RESOLUCIONES QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA ATITLAN S.A.PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA. DECLARA CADUCIDAD DE RESOLUCIONES QUE SE&#xD1;ALA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

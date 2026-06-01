@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-04-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7380217,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Los beneficiarios de pensi&#xF3;n b&#xE1;sica solidaria de invalidez carentes de recursos, causar&#xE1;n asignaci&#xF3;n por muerte en los t&#xE9;rminos establecidos en el decreto con fuerza de ley N&#xB0; 90, de 1979, del Ministerio del Trabajo y Previsi&#xF3;n Social, result&#xE1;ndoles aplicables para su calificaci&#xF3;n como tales, y para el acceso y pago de dicha asignaci&#xF3;n, las mismas normas legales y reglamentarias aplicables a los beneficiarios de pensi&#xF3;n b&#xE1;sica solidaria de vejez carentes de recursos. </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1082683&amp;idParte=9641708&amp;idVersion=2015-10-15\">Ley 20864<br>Art. 3<br>D.O. 15.10.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Derogado</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-11-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9748307,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: N&#xF3;mbrase desde el 26 de octubre de 2016, a don Antonio Esteban Leiva Rabael, RUT 13.096.398-6, abogado, Jefe de Divisi&#xF3;n Jur&#xED;dica del Senda, en calidad de subrogante en el cargo de Director Nacional del Servicio Nacional para la Prevenci&#xF3;n y Rehabilitaci&#xF3;n del Consumo de Drogas y Alcohol.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1101563&amp;idParte=9786256&amp;idVersion=2017-04-05\">Decreto 200, INTERIOR<br>Art. CUARTO<br>D.O. 05.04.2017</a></span>&nbsp; &nbsp;  Art&#xED;culo segundo: Derogado</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1101563,
+      "fecha": "2017-04-05"
+    }
+  }
+]

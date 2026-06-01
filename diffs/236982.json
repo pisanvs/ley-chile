@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1982-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-03-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6521748,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Cesar&#xE1; respecto de los Ministros la obligaci&#xF3;n de asistencia a las sesiones del Tribunal si se encontraren haciendo uso de permiso, licencia o feriado, concedidos en conformidad a las normas del presente Auto Acordado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Cesar&#xE1; respecto de los Ministros la obligaci&#xF3;n de asistencia a las sesiones del Tribunal si se encontraren haciendo uso de permiso, licencia o feriado, concedidos en conformidad a las normas del presente Auto Acordado.</div><div class=\"p\">&nbsp; &nbsp;  En <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1143646&amp;idParte=10109811&amp;idVersion=2020-03-21\">Auto Acordado S/N, <br>TRIBUNAL CONSTITUCIONAL<br>Art. PRIMERO<br>D.O. 21.03.2020</a></span>casos excepcionales debidamente calificados, la participaci&#xF3;n de los Ministros en ejercicio a la sesi&#xF3;n podr&#xE1; realizarse presencialmente o por v&#xED;a remota, tanto si la vista versa sobre cuestiones de admisi&#xF3;n a tr&#xE1;mite o de admisibilidad, como en los dem&#xE1;s casos. Tambi&#xE9;n podr&#xE1;n participar de manera remota el Secretario y el Relator, en el ejercicio de sus respectivas funciones en la vista de la causa.</div><div class=\"p\">&nbsp; &nbsp;  El Ministro que requiera participar por v&#xED;a remota as&#xED; lo comunicar&#xE1; al Presidente del Tribunal o de la Sala, seg&#xFA;n sea el caso, con suficiente antelaci&#xF3;n al inicio de la sesi&#xF3;n correspondiente.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1143646,
+      "fecha": "2020-03-21"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-09-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8939228,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Agr&#xE9;gase un nuevo inciso segundo al n&#xFA;mero 1&#xBA; del decreto supremo N&#xBA; 227, de 1994, del Ministerio de Transportes y Telecomunicaciones, del siguiente tenor:</div><div class=\"p\">&quot;La revisi&#xF3;n t&#xE9;cnica de los veh&#xED;culos del inciso anterior, cuando sean de modelos que hayan sido aprobados en el proceso de homologaci&#xF3;n a que se refiere el decreto supremo N&#xBA; 54-97, del Ministerio de Transportes y Telecomunicaciones, se har&#xE1; en el mes que corresponda seg&#xFA;n el &#xFA;ltimo d&#xED;gito de su placa patente, en un plazo no inferior a doce ni superior a veinticuatro meses contados desde el mes en que se expidi&#xF3; el Certificado de Homologaci&#xF3;n Individual a que se refiere el n&#xFA;mero 5&#xBA; de ese decreto. Durante este plazo, dicha revisi&#xF3;n t&#xE9;cnica ser&#xE1; sustituida por el Certificado aludido.&quot; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Agr&#xE9;gase un nuevo inciso segundo al n&#xFA;mero 1&#xBA; del decreto supremo N&#xBA; 227, de 1994, del Ministerio de Transportes y Telecomunicaciones, del siguiente tenor: &quot;La revisi&#xF3;n t&#xE9;cnica de los veh&#xED;culos del inciso anterior, cuando sean de modelos que hayan sido aprobados en el proceso de homologaci&#xF3;n a que se refiere el decreto supremo N&#xBA; 54-97, del Ministerio de Transportes y Telecomunicaciones, se har&#xE1; en el mes que corresponda seg&#xFA;n el &#xFA;ltimo d&#xED;gito de su placa patente, en un plazo no inferior a veinticuatro ni superior a<span class=\"n\" id=\"n_0\">DTO 160, TRANSPORTES<br>N&#xB0;9<br>D.O.04.09.1997</span> treinta y seis meses contados desde el mes en que se expidi&#xF3; el Certificado de Homologaci&#xF3;n Individual a que se refiere el n&#xFA;mero 5&#xBA; de ese decreto. Durante este plazo, dicha revisi&#xF3;n t&#xE9;cnica ser&#xE1; sustituida por el Certificado aludido.&quot; </div></div>"
+        }
+      ]
+    }
+  }
+]

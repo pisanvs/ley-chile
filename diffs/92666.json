@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8322181,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA BUENAVENTURA LIMITADA PARA INICIAR ACTIVIDADES </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA BUENAVENTURA LIMITADA PARA INICIAR ACTIVIDADES</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-11-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-11-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6548347,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Susp&#xE9;ndese por el plazo de cinco a&#xF1;os, contado desde la publicaci&#xF3;n de esta ley, la inscripci&#xF3;n de taxis, en cualquiera de sus modalidades, en el Registro Nacional de Servicios de Transporte de Pasajeros establecido en el art&#xED;culo 3&#xBA; de la ley N&#xBA; 18.696 y en el art&#xED;culo 10 de la ley N&#xBA; 19.040.</div><div class=\"p\">&nbsp; &nbsp;  Esta medida no afectar&#xE1; el derecho a solicitar el reemplazo o cambio de modalidad, de los taxis actualmente inscritos en el Registro mencionado, conforme a las normas establecidas por el Ministerio de Transportes y Telecomunicaciones.&quot;.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Susp&#xE9;ndese por el plazo de cinco a&#xF1;os, contado desde la publicaci&#xF3;n de esta ley, la inscripci&#xF3;n de taxis, en cualquiera de sus modalidades, en el Registro Nacional de Servicios de Transporte de Pasajeros establecido en el art&#xED;culo 3&#xBA; de la ley N&#xBA; 18.696 y en el art&#xED;culo 10 de la ley N&#xBA; 19.040.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  Esta medida no afectar&#xE1; el derecho a solicitar el reemplazo o cambio de modalidad, de los taxis actualmente inscritos en el Registro mencionado, conforme a las normas establecidas por el Ministerio de Transportes y Telecomunicaciones.&quot;.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico de la Ley N&#xBA; 20.474, publicada el 15.11.2010, prorroga por 5 a&#xF1;os el per&#xED;odo de vigencia de la presente Ley, a contar de su fecha de expiraci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1999-07-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6179416,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: El Ministerio de Salud podr&#xE1; otorgar la calidad de Miembro Honorario a quienes habiendo sido funcionarios o no del Sistema Nacional de Servicios de Salud se hayan destacado en la investigaci&#xF3;n cient&#xED;fica, en la capacitaci&#xF3;n en salud, en la pr&#xE1;ctica asistencial o en servicios especiales de salud a la poblaci&#xF3;n con notoria abnegaci&#xF3;n, esp&#xED;ritu de sacrificio, humanitarismo y especial colaboraci&#xF3;n, constituyendo un ejemplo digno de ser imitado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: El Ministerio de Salud podr&#xE1; otorgar la calidad de Miembro Honorario a quienes habiendo sido funcionarios o no del Sistema Nacional de Servicios de Salud se hayan destacado en la investigaci&#xF3;n cient&#xED;fica, en la capacitaci&#xF3;n en salud, en la pr&#xE1;ctica asistencial o en servicios especiales de salud a la poblaci&#xF3;n con notoria abnegaci&#xF3;n, esp&#xED;ritu de sacrificio, humanitarismo y especial colaboraci&#xF3;n, constituyendo un ejemplo digno de ser imitado. Este reconocimiento podr&#xE1;<span class=\"n\" id=\"n_0\">DTO 584, SALUD<br>Art. &#xFA;nico, N&#xBA;1<br>D.O. 12.10.2000<br>DTO 584, SALUD<br>Art. &#xFA;nico, N&#xBA;2<br>D.O. 12.10.2000</span> ser otorgado tambi&#xE9;n en forma p&#xF3;stuma. Asimismo, podr&#xE1; otorgar esta calidad a aquellos funcionarios que encontr&#xE1;ndose en actual desempe&#xF1;o en el Sistema Nacional de Servicios de Salud, han demostrado tener una destacada trayectoria en el o los cargos de car&#xE1;cter asistencial que les ha correspondido servir. </div></div>"
+        },
+        {
+          "part_id": 6179422,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: Las proposiciones para otorgar alguna de las distinciones a que se refiere el presente reglamento las presentar&#xE1;n al Ministerio de Salud los Secretarios Regionales Ministeriales de Salud, quienes en el mes de agosto de cada a&#xF1;o deber&#xE1;n informar y promover las postulaciones en los respectivos Servicios de Salud de su regi&#xF3;n y en los establecimientos asistenciales que de &#xE9;stos dependen.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: Las proposiciones para otorgar alguna de las distinciones a que se refiere el presente reglamento las presentar&#xE1;n al Ministerio de Salud los Secretarios Regionales Ministeriales de Salud, quienes en el mes de agosto de cada a&#xF1;o deber&#xE1;n informar y promover las postulaciones en los respectivos Servicios de Salud de su regi&#xF3;n y en los establecimientos asistenciales que de &#xE9;stos dependen. Asimismo, podr&#xE1;n presentar proposiciones el Ministro<span class=\"n\" id=\"n_1\">DTO 584, SALUD<br>Art. &#xFA;nico, N&#xBA;3<br>D.O. 12.10.2000</span> y el Subsecretario de Salud, para cualquiera de las distinciones contempladas, cuando hayan tenido conocimiento, sea personalmente o a trav&#xE9;s de terceros, especialmente de los participantes de la Comisi&#xF3;n a que aluden los art&#xED;culos siguientes, de personas o entidades cuyo actuar se enmarca dentro de los reconocimientos que otorga el presente reglamento. </div></div>"
+        }
+      ]
+    }
+  }
+]

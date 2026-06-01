@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-12-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8296875,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; OTORGA PERMISO EXTRAORDINARIO DE PESCA PARA LA UNIDAD DE PESQUERIA DEL RECURSO BACALAO DE PROFUNDIDAD N&#xFA;m. 1.324.- Valpara&#xED;so, 30 de Diciembre de 1992.- Visto: El Acta de Remate de la subasta de permisos extraordinarios de pesca del recurso Bacalao de Profundidad, de fecha 21 de diciembre de 1992; el comprobante de adjudicaci&#xF3;n del Lote N&#xB0; 8, otorgado por el Sr. Martillero P&#xFA;blico don Jaime Garnham Searle a Pesquera Marazul Ltda.; el formulario 10, folio 07, N&#xB0; 279020 del Servicio de Tesorer&#xED;a, que da cuenta del pago de la primera anualidad de permiso extraordinario de pesca de 2% subastado para la unidad de pesquer&#xED;a del recurso Bacalao de Profundidad; el D.F.L. N&#xB0; 5, de 1983; el D.S. N&#xB0; 430, de 1991, que es el texto, refundido, coordinado y sistematizado de la Ley N&#xB0; 18.892 y sus modificaciones contenidas en las Leyes N&#xB0; 19.079 y N&#xB0; 19.080; los D.S. N&#xB0; 328 y N&#xB0; 452, ambos de 1992, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Resoluci&#xF3;n N&#xB0; 1.184, de 1992, de esta Subsecretar&#xED;a;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">OTORGA PERMISO EXTRAORDINARIO DE PESCA PARA LA UNIDAD DE PESQUERIA DEL RECURSO BACALAO DE PROFUNDIDAD </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.324.- Valpara&#xED;so, 30 de Diciembre de 1992.- Visto: El Acta de Remate de la subasta de permisos extraordinarios de pesca del recurso Bacalao de Profundidad, de fecha 21 de diciembre de 1992; el comprobante de adjudicaci&#xF3;n del Lote N&#xB0; 8, otorgado por el Sr. Martillero P&#xFA;blico don Jaime Garnham Searle a Pesquera Marazul Ltda.; el formulario 10, folio 07, N&#xB0; 279020 del Servicio de Tesorer&#xED;a, que da cuenta del pago de la primera anualidad de permiso extraordinario de pesca de 2% subastado para la unidad de pesquer&#xED;a del recurso Bacalao de Profundidad; el D.F.L. N&#xB0; 5, de 1983; el D.S. N&#xB0; 430, de 1991, que es el texto, refundido, coordinado y sistematizado de la Ley N&#xB0; 18.892 y sus modificaciones contenidas en las Leyes N&#xB0; 19.079 y N&#xB0; 19.080; los D.S. N&#xB0; 328 y N&#xB0; 452, ambos de 1992, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Resoluci&#xF3;n N&#xB0; 1.184, de 1992, de esta Subsecretar&#xED;a;</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

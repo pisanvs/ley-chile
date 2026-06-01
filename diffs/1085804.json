@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2015-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-02-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9659548,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Autor&#xED;zase la circulaci&#xF3;n en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos a los veh&#xED;culos propiedad del Ministerio P&#xFA;blico que se individualizan, tomados en arrendamiento para su uso en fiscal&#xED;as en la Regi&#xF3;n de Los Lagos:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54307.jpg\">.</div><br><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Autor&#xED;zase la circulaci&#xF3;n en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos a los veh&#xED;culos propiedad del Ministerio P&#xFA;blico que se individualizan, tomados en arrendamiento para su uso en fiscal&#xED;as en la Regi&#xF3;n de Los Lagos:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54307.jpg\">.</div><br><br><br><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 422 Exenta, Interior, publicado el 24.02.2016, modifica la presente norma en el sentido de rectificar las placas patentes &#xFA;nicas se&#xF1;aladas en los numeral 11, se reemplaza la identificaci&#xF3;n HHVK.51-6 por HHVX.51-6, numeral 12, se reemplaza la identificaci&#xF3;n HHVK.55-9, por HHVX.55-9., numeral 13 se reemplaza la identificaci&#xF3;n HHVK.45-1, por HHVX.45-1.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-04-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

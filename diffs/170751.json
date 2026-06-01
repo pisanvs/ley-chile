@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2000-06-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-04-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6281512,
+          "old": "<div><div class=\"p\">FIJA FECHA DE INICIO DE FISCALIZACION QUE INDICA </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 73 exenta.- Antofagasta, 7 de junio de 2000.- Visto: lo dispuesto en la resoluci&#xF3;n exenta N&#xBA;871, de 2000, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA FECHA DE INICIO DE FISCALIZACION QUE INDICA </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 73 exenta.- Antofagasta, 7 de junio de 2000.- Visto: lo dispuesto en la resoluci&#xF3;n exenta N&#xBA;871, de 2000, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        },
+        {
+          "part_id": 6281513,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese, para la II Regi&#xF3;n de Antofagasta, el 28 de diciembre de 2000 como la fecha a contar de la cual se iniciar&#xE1; la fiscalizaci&#xF3;n del cumplimiento en la v&#xED;a p&#xFA;blica de la obligaci&#xF3;n de los taxis de portar las placas patente de color naranja o amarillo, seg&#xFA;n corresponda, de acuerdo a lo dispuesto en el art. 3&#xBA; del D.S. N&#xBA;53 de 1984, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese, para la II Regi&#xF3;n de Antofagasta, el<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> 28 de diciembre de 2000 como la fecha a contar de la cual se iniciar&#xE1; la fiscalizaci&#xF3;n del cumplimiento en la v&#xED;a p&#xFA;blica de la obligaci&#xF3;n de los taxis de portar las placas patente de color naranja o amarillo, seg&#xFA;n corresponda, de acuerdo a lo dispuesto en el art. 3&#xBA; del D.S. N&#xBA;53 de 1984, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 41 exenta, Transportes, publicada el 07.04.2001, modific&#xF3; la fecha a contar de la cual se iniciar&#xE1; la fiscalizaci&#xF3;n, para el 31 de mayo del 2001.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

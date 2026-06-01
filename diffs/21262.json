@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8969107,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  MODIFICA DECRETO N&#xB0; 754 DE 1994, QUE ASIGNO</div><div class=\"p\">VEHICULOS A AUTORIDADES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 444 exento.- Santiago, 27 de Julio de 1995.-</div><div class=\"p\">&nbsp; _____________________________________________________</div><div class=\"p\"> | NOTA: VER DIARIO OFICIAL N&#xB0; 35.265 DEL DIA VIERNES&nbsp; |</div><div class=\"p\"> |&nbsp; &nbsp; &nbsp;  08 DE SEPTIEMBRE DE 1995, PAGINA 9&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</div><div class=\"p\"> |_____________________________________________________|</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO N&#xB0; 754 DE 1994, QUE ASIGNO VEHICULOS A AUTORIDADES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 444 exento.- Santiago, 27 de Julio de 1995.-</div><div class=\"p\">&nbsp; _____________________________________________________</div><div class=\"p\"> | NOTA: VER DIARIO OFICIAL N&#xB0; 35.265 DEL DIA VIERNES&nbsp; |</div><div class=\"p\"> |&nbsp; &nbsp; &nbsp;  08 DE SEPTIEMBRE DE 1995, PAGINA 9&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</div><div class=\"p\"> |_____________________________________________________|</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-02-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9514006,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.- Prorr&#xF3;guese el plazo de vigencia de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1063047&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 252 de fecha 20 de mayo de 2014, de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n de Los Lagos</a>, hasta el d&#xED;a 28 de febrero de 2015 inclusive.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.- Prorr&#xF3;guese <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>el plazo de vigencia de la resoluci&#xF3;n exenta N&#xBA; 252 de fecha 20 de mayo de 2014, de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n de Los Lagos, hasta el d&#xED;a 28 de febrero de 2015 inclusive.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  La Resoluci&#xF3;n 113 Exenta, Transportes, publicada el 23.02.2015, modifica la presente norma en el sentido de extender la autorizaci&#xF3;n de cierre parcial de v&#xED;as hasta el 31 de mayo de 2015.</div></div>"
+        }
+      ]
+    }
+  }
+]

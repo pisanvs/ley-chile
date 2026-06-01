@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-05-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6490956,
+          "old": "<div><div class=\"p\">APRUEBA &quot;ORDENANZA PARA LA COBRANZA DE CONTRIBUCIONES, PATENTES, PERMISOS Y DERECHOS MUNICIPALES MOROSOS&quot; </div><div class=\"p\">&nbsp; &nbsp;  Villa Alemana, 22 de julio de 2004.- Con esta fecha el Sr. Alcalde ha emitido el siguiente decreto:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 974.- Vistos:</div><div class=\"p\">&nbsp; &nbsp;  El informe N&#xBA; 50 de fecha 16 de julio del 2004, del Director del Departamento Jur&#xED;dico, se&#xF1;or Miguel Olivares G&#xF3;mez;</div><div class=\"p\">&nbsp; &nbsp;  La letra b), art&#xED;culo 13 de la ley 15.231 sobre Organizaci&#xF3;n y Atribuciones de los Juzgados de Polic&#xED;a Local, los art&#xED;culos 47 y 48 del decreto ley 3.063 de 1979 Ley de Rentas Municipales, cuyo texto refundido y sistematizado fue aprobado por decreto supremo N&#xBA; 2.385, publicado en el Diario Oficial del 20 de noviembre de 1996; y</div><div class=\"p\">&nbsp; &nbsp;  El Certificado del Secretario Municipal (S) N&#xBA; 612 de fecha 16 de julio del 2004, en que consta la aprobaci&#xF3;n del concejo municipal y considerando que es necesario actualizar las normas para la cobranza de contribuciones, patentes, permisos y derechos que se encuentren morosos.</div><div class=\"p\">&nbsp; &nbsp;  Las facultades que me otorgan los art&#xED;culos 5 letra c), d) y h) de la ley 18.695, Org&#xE1;nica Constitucional de Municipalidades, cuyo texto refundido fue fijado por el DFL 1-19.704, publicado en el Diario Oficial de fecha 3 de mayo 2002.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la siguiente &quot;Ordenanza para la Cobranza de Contribuciones, Patentes, Permisos y Derechos Municipales Morosos&quot; </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA &quot;ORDENANZA PARA LA COBRANZA DE CONTRIBUCIONES, PATENTES, PERMISOS Y DERECHOS MUNICIPALES MOROSOS&quot; </div><div class=\"p\">&nbsp; &nbsp;  Villa Alemana, 22 de julio de 2004.- Con esta fecha el Sr. Alcalde ha emitido el siguiente decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 974.- Vistos:</div><br><div class=\"p\">&nbsp; &nbsp;  El informe N&#xBA; 50 de fecha 16 de julio del 2004, del Director del Departamento Jur&#xED;dico, se&#xF1;or Miguel Olivares G&#xF3;mez;</div><div class=\"p\">&nbsp; &nbsp;  La letra b), art&#xED;culo 13 de la ley 15.231 sobre Organizaci&#xF3;n y Atribuciones de los Juzgados de Polic&#xED;a Local, los art&#xED;culos 47 y 48 del decreto ley 3.063 de 1979 Ley de Rentas Municipales, cuyo texto refundido y sistematizado fue aprobado por decreto supremo N&#xBA; 2.385, publicado en el Diario Oficial del 20 de noviembre de 1996; y</div><div class=\"p\">&nbsp; &nbsp;  El Certificado del Secretario Municipal (S) N&#xBA; 612 de fecha 16 de julio del 2004, en que consta la aprobaci&#xF3;n del concejo municipal y considerando que es necesario actualizar las normas para la cobranza de contribuciones, patentes, permisos y derechos que se encuentren morosos.</div><div class=\"p\">&nbsp; &nbsp;  Las facultades que me otorgan los art&#xED;culos 5 letra c), d) y h) de la ley 18.695, Org&#xE1;nica Constitucional de Municipalidades, cuyo texto refundido fue fijado por el DFL 1-19.704, publicado en el Diario Oficial de fecha 3 de mayo 2002.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la siguiente &quot;Ordenanza para la Cobranza de Contribuciones, Patentes, Permisos y Derechos Municipales Morosos&quot;</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

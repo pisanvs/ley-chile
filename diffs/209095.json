@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1997-10-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-04-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8925462,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;: El Servicio podr&#xE1; celebrar a trav&#xE9;s de la autoridad superior de la Instituci&#xF3;n, convenios con empresas, con el fin de obtener ventas al contado o a cr&#xE9;dito, de toda clase de bienes, mercader&#xED;as o servicios para satisfacer las necesidades personales de los afiliados y de sus cargas familiares. Asimismo el Servicio podr&#xE1; celebrar convenios con Profesionales e Instituciones del &#xE1;rea de Salud u otras entidades, con el prop&#xF3;sito de mejorar el nivel de atenci&#xF3;n y servicios que entregue a sus afiliados.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;: El Servicio podr&#xE1; celebrar a trav&#xE9;s de la autoridad superior de la Instituci&#xF3;n, convenios con empresas, con el fin de obtener ventas al contado o a cr&#xE9;dito, de toda clase de bienes, mercader&#xED;as o servicios para satisfacer las necesidades personales de los afiliados y de sus cargas familiares. Asimismo el Servicio podr&#xE1; celebrar convenios con Profesionales e Instituciones del &#xE1;rea de Salud u otras entidades, con el prop&#xF3;sito de mejorar el nivel de atenci&#xF3;n y servicios que entregue a sus afiliados. El Bienestar podr&#xE1; financiar con cargo a sus<span class=\"n\" id=\"n_0\">DTO 75, TRABAJO<br>Art. &#xFA;nico<br>D.O. 07.04.2003</span> propios recursos, de acuerdo con sus disponibilidades presupuestarias, y contratar seguros de vida para sus afiliados y seguros de salud para solventar los gastos de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-09-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

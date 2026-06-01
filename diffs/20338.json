@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-07-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-08-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8950614,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0; Bis: Se except&#xFA;a de lo establecido en<span class=\"n\" id=\"n_0\">DTO 143 EXENTO<br>ECONOMIA<br>Art. 1&#xBA;<br>D.O. 04.08.1995</span> los art&#xED;culos precedentes, la captura de Anchoveta y Sardina destinada a la elaboraci&#xF3;n de productos de consumo humano directo y a carnada.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

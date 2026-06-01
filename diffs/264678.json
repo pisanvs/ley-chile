@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2007-09-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7353332,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13.- Para el otorgamiento del beneficio, los Municipios deber&#xE1;n considerar el nivel socioecon&#xF3;mico de cada solicitante de acuerdo con la informaci&#xF3;n contenida en la Ficha de Protecci&#xF3;n Social a que se refiere el Decreto Supremo N&#xB0; 291, de 2006, del Ministerio de Planificaci&#xF3;n, o el instrumento que la reemplace.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1085916&amp;idParte=9660524&amp;idVersion=2015-12-31\">Decreto 55<br>Art. 1<br>D.O. 31.12.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo 13.- Para el otorgamiento del beneficio, los Municipios deber&#xE1;n considerar el nivel socioecon&#xF3;mico de cada solicitante de acuerdo con la informaci&#xF3;n que se obtenga por aplicaci&#xF3;n del instrumento de caracterizaci&#xF3;n socioecon&#xF3;mica a que se refiere el art&#xED;culo 5&#xBA; de la ley N&#xBA; 20.379.</div><br></div>"
+        },
+        {
+          "part_id": 7353333,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14.- Tendr&#xE1;n derecho al subsidio familiar quienes, adem&#xE1;s de reunir los requisitos establecidos en la Ley N&#xB0; 18.020, hubieren obtenido un puntaje igual o inferior a 11.734 puntos por aplicaci&#xF3;n de la Ficha referida en el art&#xED;culo precedente.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1085916&amp;idParte=9660524&amp;idVersion=2015-12-31\">Decreto 55<br>Art. 1<br>D.O. 31.12.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo 14.- Tendr&#xE1;n derecho al subsidio familiar quienes, adem&#xE1;s de reunir los requisitos establecidos en la ley N&#xBA; 18.020, hubieren obtenido un puntaje o indicador igual o inferior al que sea equivalente con el 60% socioecon&#xF3;micamente m&#xE1;s vulnerable de la poblaci&#xF3;n nacional de conformidad a la informaci&#xF3;n que se desprenda del Instrumento de Caracterizaci&#xF3;n Socioecon&#xF3;mica a que se refiere el art&#xED;culo 5&#xBA; de la ley N&#xBA; 20.379.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

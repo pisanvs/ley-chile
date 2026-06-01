@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-07-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8326815,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JORGE RODRIGUEZ GARRIDO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JORGE RODRIGUEZ GARRIDO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

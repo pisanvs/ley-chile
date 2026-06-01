@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-05-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-07-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8353351,
+          "old": "<div><br><div class=\"p\">AUTORIZA A DON GODOFREDO ENRIQUE RODRIGUEZ CARDENAS PARA INICIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON GODOFREDO ENRIQUE RODRIGUEZ CARDENAS PARA INICIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

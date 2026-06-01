@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-06-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-12-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6510414,
+          "old": "<div><div class=\"p\">DISPONE REQUISITOS DE INGRESO PARA POLEN DE IMPORTACION </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 20 de Junio de 1990.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m 937 exenta.- Visto: Lo dispuesto en el decreto ley No. 3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola las resoluciones No. 350 de 1981; 39 de 1981, y los informes t&#xE9;cnicos sobre esta materia, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que el polen es un producto capaz de transportar plagas de la agricultura.</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario establecer los requisitos de importaci&#xF3;n necesarios de cumplir para autorizar su ingreso al pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp;  - Que el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para regular la importaci&#xF3;n de estos productos.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DISPONE REQUISITOS DE INGRESO PARA POLEN DE IMPORTACION </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 20 de Junio de 1990.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m 937 exenta.- Visto: Lo dispuesto en el decreto ley No. 3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola las resoluciones No. 350 de 1981; 39 de 1981, y los informes t&#xE9;cnicos sobre esta materia, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que el polen es un producto capaz de transportar plagas de la agricultura.</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario establecer los requisitos de importaci&#xF3;n necesarios de cumplir para autorizar su ingreso al pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp;  - Que el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para regular la importaci&#xF3;n de estos productos.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

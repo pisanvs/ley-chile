@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-10-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-06-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8322097,
+          "old": "<div><br><div class=\"p\">AUTORIZA A PRODUCTORA DE AGAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS.</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PRODUCTORA DE AGAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

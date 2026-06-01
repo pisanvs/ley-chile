@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1998-06-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-06-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6116863,
+          "old": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTES RETENEDORES DEL IVA </div><br></div>",
+          "new": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTES RETENEDORES DEL IVA </div><br><br></div>"
+        },
+        {
+          "part_id": 6116864,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  La IX Direcci&#xF3;n Regional del SII, por resoluci&#xF3;n DRE09.00 N&#xBA; Ex 212, de fecha 22 de junio de 1998, otorga, a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n a Leonardo Garc&#xED;a Sabugal, Rut. N&#xBA;2.143.828-5, la calidad de Agente Retenedor del Impuesto al Valor Agregado del cambio de sujeto en las operaciones de ganado vivo, establecido en la resoluci&#xF3;n N&#xBA; Ex. 2.379/98 de la Direcci&#xF3;n Nacional, publicado en el Diario Oficial del d&#xED;a 24/04/98.- </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  La IX Direcci&#xF3;n Regional del SII, por resoluci&#xF3;n DRE09.00 N&#xBA; Ex 212, de fecha 22 de junio de 1998, otorga, a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n a Leonardo Garc&#xED;a Sabugal, Rut. N&#xBA;2.143.028-5, la calidad de Agente Retenedor del<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 13.06.2002</span> Impuesto al Valor Agregado del cambio de sujeto en las operaciones de ganado vivo, establecido en la resoluci&#xF3;n N&#xBA; Ex. 2.379/98 de la Direcci&#xF3;n Nacional, publicado en el Diario Oficial del d&#xED;a 24/04/98.- </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

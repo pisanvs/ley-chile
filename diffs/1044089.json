@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2012-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-02-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9297936,
+          "old": "<div><div class=\"p\">.<img class=\"img-responsive\" src=\"Navegar/imagen/JPG/28405.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">.</div><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp;  </div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/28405.jpg\">.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 202 Exenta, Secretar&#xED;a General de Gobierno, publicada el 19.02.2013, modifica el cuadro inserto en la presente norma de la manera siguiente:<br>- El numeral I. ordena eliminar a la organizaci&#xF3;n adjudicada N&#xBA; 35, &quot;Club Deportivo Hermandad 47&quot;, cuyo monto de adjudicaci&#xF3;n correspond&#xED;a a $800.000 (ochocientos mil pesos), puesto que no dio cumplimiento a los requisitos dispuestos en las bases administrativas y t&#xE9;cnicas que rigen el concurso y, consecuentemente con lo anterior, no se realiz&#xF3; la transferencia efectiva de los recursos adjudicados, y<br>- El numeral II. dispone eliminar a la organizaci&#xF3;n adjudicada N&#xBA; 39, &quot;Club Deportivo El Bosque&quot;, cuyo monto de adjudicaci&#xF3;n correspond&#xED;a a $1.300.000 (un mill&#xF3;n trescientos mil pesos), puesto que no dio cumplimiento a los requisitos dispuestos en las bases administrativas y t&#xE9;cnicas que rigen el concurso y, consecuentemente con lo anterior, no se realiz&#xF3; la transferencia efectiva de los recursos adjudicados.</div></div>"
+        }
+      ]
+    }
+  }
+]

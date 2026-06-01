@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-10-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8431952,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 2.582/04</div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 736 exenta.- Valpara&#xED;so, 23 de marzo de 2007.- Visto: El D.S. N&#xBA; 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; las resoluciones exentas N&#xBA; 440/03 y Res. Ex. N&#xBA; 2.582/04, N&#xBA; 375/05 y N&#xBA; 1.196/05, de esta Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones; el oficio N&#xBA; 2.121 de 14/12/2006, de la I. Municipalidad de San Felipe, y lo informado por Carabineros de Chile mediante Of. N&#xBA; 326 de 15/02/2007;</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 2.582/04</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 736 exenta.- Valpara&#xED;so, 23 de marzo de 2007.- Visto: El D.S. N&#xBA; 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; las resoluciones exentas N&#xBA; 440/03 y Res. Ex. N&#xBA; 2.582/04, N&#xBA; 375/05 y N&#xBA; 1.196/05, de esta Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones; el oficio N&#xBA; 2.121 de 14/12/2006, de la I. Municipalidad de San Felipe, y lo informado por Carabineros de Chile mediante Of. N&#xBA; 326 de 15/02/2007;</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

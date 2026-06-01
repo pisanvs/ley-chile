@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-01-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6690564,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Quedan exentos autom&#xE1;ticamente del pago de derechos de aseo los usuarios cuya vivienda o unidad habitacional tenga un aval&#xFA;o fiscal igual o inferior a veinticinco unidades tributarias mensuales.</div><div class=\"p\">&nbsp; &nbsp;  Quedan exentos del pago de extracci&#xF3;n de basura domiciliaria las personas de escasos recursos, cuyo puntaje en la ficha CAS II sea de 315 a 450 puntos.</div><div class=\"p\">&nbsp; &nbsp;  La Direcci&#xF3;n de Desarrollo Comunitario atender&#xE1; las solicitudes de exenci&#xF3;n del pago y dictar&#xE1; el decreto exento correspondiente de los usuarios que resulten beneficiados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Quedan exentos autom&#xE1;ticamente del pago de derecho<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>s de aseo los usuarios cuya vivienda o unidad habitacional tenga un aval&#xFA;o fiscal igual o inferior a veinticinco unidades tributarias mensuales.</div><div class=\"p\">&nbsp; &nbsp;  Quedan exentos del pago de extracci&#xF3;n de basura domiciliaria las personas de escasos recursos, cuyo puntaje en la ficha CAS II sea de 315 a 450 puntos.</div><div class=\"p\">&nbsp; &nbsp;  La Direcci&#xF3;n de Desarrollo Comunitario atender&#xE1; las solicitudes de exenci&#xF3;n del pago y dictar&#xE1; el decreto exento correspondiente de los usuarios que resulten beneficiados.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La letra b), del N&#xB0; 2 del art&#xED;culo 4&#xB0; de la Ley 20033, modifica el Art. 7&#xB0;&nbsp; del Decreto Ley 3.063, de 1979, sobre Rentas Municipales, cuyo texto refundido y sistematizado fue fijado mediante decreto supremo N&#xB0; 2.385, de 1996, del Ministerio del Interior, sustituyendo el guarismo &quot;25&quot; por &quot;225&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

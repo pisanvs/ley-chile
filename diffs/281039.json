@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2008-11-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-07-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8133391,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: La supervigilancia de la asignaci&#xF3;n y uso de los recursos destinados a la beca corresponder&#xE1; a la Unidad de Curr&#xED;culum y Evaluaci&#xF3;n del Ministerio de Educaci&#xF3;n, que designar&#xE1; a un funcionario de su dependencia para que desempe&#xF1;e el cargo de Coordinador del Programa, correspondi&#xE9;ndole a &#xE9;ste, entre otras funciones, difundir las bases de postulaci&#xF3;n de las becas, recibir las postulaciones, coordinar todos los tr&#xE1;mites inherentes a los distintos procesos, y la administraci&#xF3;n y control de todos los beneficios que la beca importe.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: La supervigilancia de la asignaci&#xF3;n y uso de los recursos destinados a la beca corresponder&#xE1; <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1015533&amp;idParte=8947729&amp;idVersion=2010-07-20\">Decreto 258, EDUCACION<br>Art. UNICO<br>D.O. 20.07.2010</a></span>al Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General del Ministerio de Educaci&#xF3;n, que designar&#xE1; a un funcionario de su dependencia para que desempe&#xF1;e el cargo de Coordinador del Programa, correspondi&#xE9;ndole a &#xE9;ste, entre otras funciones, difundir las bases de postulaci&#xF3;n de las becas, recibir las postulaciones, coordinar todos los tr&#xE1;mites inherentes a los distintos procesos, y la administraci&#xF3;n y control de todos los beneficios que la beca importe.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1015533,
+      "fecha": "2010-07-20"
+    }
+  }
+]

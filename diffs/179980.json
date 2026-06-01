@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-01-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-11-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6315743,
+          "old": "<div><div class=\"p\">DECLARA INSTITUCION OFICIAL DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION A LA DIRECCION DE EXTENSION EN CONSTRUCCION (DECON), DE LA ESCUELA DE CONSTRUCCION CIVIL DE LA PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 889.- Santiago, 10 de octubre de 2000.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1. del DS N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; las facultades que me otorga el DL N&#xBA; 1.305 de 1976 y la resoluci&#xF3;n N&#xBA; 397 (V. y U.), de 1995, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA INSTITUCION OFICIAL DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION A LA DIRECCION DE EXTENSION EN CONSTRUCCION (DECON), DE LA ESCUELA DE CONSTRUCCION CIVIL DE LA PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 889.- Santiago, 10 de octubre de 2000.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1. del DS N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; las facultades que me otorga el DL N&#xBA; 1.305 de 1976 y la resoluci&#xF3;n N&#xBA; 397 (V. y U.), de 1995, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

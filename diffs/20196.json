@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8271861,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ASIGNA VEHICULO QUE INDICA Y EXIME DE USO DISCO FISCAL</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 108 exento.- Santiago, 3 de Diciembre de 1992.- Visto: Lo dispuesto en los art&#xED;culos N&#xB0;s 3&#xB0; inciso final y 6&#xB0; del DL. N&#xB0; 799 de 1974, modificado por el DFL. N&#xB0; 12-2.345 de 1974; Decretos N&#xB0;s 1.407 de 1991 y 45 de 1992, ambos del Interior; Circular N&#xB0; 9.277 de 1975 y Resoluci&#xF3;n N&#xB0; 55 de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica; Ord. N&#xB0; 327 de 1992, Seremi de la I Regi&#xF3;n, y antecedentes que se acompa&#xF1;an.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ASIGNA VEHICULO QUE INDICA Y EXIME DE USO DISCO FISCAL </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 108 exento.- Santiago, 3 de Diciembre de 1992.- Visto: Lo dispuesto en los art&#xED;culos N&#xB0;s 3&#xB0; inciso final y 6&#xB0; del DL. N&#xB0; 799 de 1974, modificado por el DFL. N&#xB0; 12-2.345 de 1974; Decretos N&#xB0;s 1.407 de 1991 y 45 de 1992, ambos del Interior; Circular N&#xB0; 9.277 de 1975 y Resoluci&#xF3;n N&#xB0; 55 de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica; Ord. N&#xB0; 327 de 1992, Seremi de la I Regi&#xF3;n, y antecedentes que se acompa&#xF1;an.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

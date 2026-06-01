@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2005-10-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-09-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6542827,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Cr&#xE9;ase el Programa de Bioseguridad para Recintos Feriales, en adelante &quot;el Programa&quot;, que estar&#xE1;</div><div class=\"p\">compuesto de los siguientes documentos, que son parte integrante de la presente resoluci&#xF3;n:</div><br><div class=\"p\">a.&nbsp;  Manual de procedimientos N&#xBA; 1 &quot;Procedimientos de Bioseguridad para Recintos Feriales BIOSIF/MP1&quot;, el cual describe los procedimientos oficiales por los cuales se deber&#xE1; regir un recinto ferial para su funcionamiento.</div><div class=\"p\">b.&nbsp;  Manual de procedimientos N&#xBA; 2 &quot;Procedimientos de Trazabilidad para Recintos Feriales BIOSIF/MP2&quot;, el cual est&#xE1; orientado a dar garant&#xED;as adicionales para la trazabilidad individual de todo animal.</div><div class=\"p\">c.&nbsp;  Instructivo t&#xE9;cnico N&#xBA; 1 &quot;Requisitos de Infraestructura para Recintos Feriales BIOSIF/IT1&quot;, el cual indica la infraestructura m&#xED;nima con que debe contar un recinto ferial para su funcionamiento.</div><div class=\"p\">d.&nbsp;  Instructivo t&#xE9;cnico N&#xBA; 2 &quot;Procedimientos de limpieza y desinfecci&#xF3;n para Recintos Feriales BIOSIF/IT2&quot;, el cual describe el procedimiento de lavado y desinfecci&#xF3;n en recintos feriales.</div><div class=\"p\">e.&nbsp;  Pauta de evaluaci&#xF3;n &quot;Evaluaci&#xF3;n de infraestructura y condiciones de limpieza para recintos feriales BIOSIF/PE&quot;, la cual verifica el cumplimiento de todos los documentos que conforman el Programa.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Los recintos feriales tendr&#xE1;n un plazo de 6 meses, una vez entrada en vigencia la presente resoluci&#xF3;n, para dar cumplimiento a los requerimientos establecidos en el Programa.</div><div class=\"p\">&nbsp; &nbsp;  3.- Se except&#xFA;a de lo anterior el documento &quot;Procedimiento de Trazabilidad para Recintos Feriales&quot;, el cual es voluntaria su aplicaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4.- Los m&#xE9;dicos veterinarios que trabajen en recintos feriales, deber&#xE1;n cumplir con las obligaciones que se les establecen en el Programa, que es parte integrante de esta resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  5.- Del&#xE9;gase en los Directores Regionales la facultad para aprobar la instalaci&#xF3;n y funcionamiento de los recintos feriales de acuerdo a lo establecido en el Programa de Bioseguridad para Recintos Feriales BIOSIF/MP1 aprobado por la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  6.- Del&#xE9;gase en los Directores Regionales la facultad para habilitar a los recintos feriales que cumplan con los requisitos de trazabilidad de animales identificados individualmente de acuerdo a lo establecido en el Programa de Bioseguridad para Recintos Feriales BIOSIF/MP2 aprobado por la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  7.- D&#xE9;jase constancia que los documentos que respaldan el Programa Bioseguridad para Recintos Feriales, se encuentran disponibles en la p&#xE1;gina web del Servicio Agr&#xED;cola y Ganadero, www.sag.gob.cl. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Cr&#xE9;ase el Programa de Bioseguridad para Recintos Feriales, en adelante &quot;el Programa&quot;, que estar&#xE1;</div><div class=\"p\">compuesto de los siguientes documentos, que son parte integrante de la presente resoluci&#xF3;n:</div><br><div class=\"p\">a.&nbsp;  Manual de procedimientos N&#xBA; 1 &quot;Procedimientos de Bioseguridad para Recintos Feriales BIOSIF/MP1&quot;, el cual describe los procedimientos oficiales por los cuales se deber&#xE1; regir un recinto ferial para su funcionamiento.</div><div class=\"p\">b.&nbsp;  ELIMINA<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1054050&amp;idParte=9373564&amp;idVersion=2013-09-06\">Resoluci&#xF3;n 5222 EXENTA,<br>AGRICULTURA<br>N&#xBA; 1 a)<br>D.O. 06.09.2013</a></span>DO.</div><div class=\"p\">c.&nbsp;  Instructivo t&#xE9;cnico N&#xBA; 1 &quot;Requisitos de Infraestructura para Recintos Feriales BIOSIF/IT1&quot;, el cual indica la infraestructura m&#xED;nima con que debe contar un recinto ferial para su funcionamiento.</div><div class=\"p\">d.&nbsp;  Instructivo t&#xE9;cnico N&#xBA; 2 &quot;Procedimientos de limpieza y desinfecci&#xF3;n para Recintos Feriales BIOSIF/IT2&quot;, el cual describe el procedimiento de lavado y desinfecci&#xF3;n en recintos feriales.</div><div class=\"p\">e.&nbsp;  Pauta de evaluaci&#xF3;n &quot;Evaluaci&#xF3;n de infraestructura y condiciones de limpieza para recintos feriales BIOSIF/PE&quot;, la cual verifica el cumplimiento de todos los documentos que conforman el Programa.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Los recintos feriales tendr&#xE1;n un plazo de 6 meses, una vez entrada en vigencia la presente resoluci&#xF3;n, para dar cumplimiento a los requerimientos establecidos en el Programa.</div><div class=\"p\">&nbsp; &nbsp;  3.- ELIMI<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1054050&amp;idParte=9373564&amp;idVersion=2013-09-06\">Resoluci&#xF3;n 5222 EXENTA,<br>AGRICULTURA<br>N&#xBA; 1 b)<br>D.O. 06.09.2013</a></span>NADO.</div><div class=\"p\">&nbsp; &nbsp;  4.- Los m&#xE9;dicos veterinarios que trabajen en recintos feriales, deber&#xE1;n cumplir con las obligaciones que se les establecen en el Programa, que es parte integrante de esta resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  5.- Del&#xE9;gase en los Directores Regionales la facultad para aprobar la instalaci&#xF3;n y funcionamiento de los recintos feriales de acuerdo a lo establecido en el Programa de Bioseguridad para Recintos Feriales BIOSIF/MP1 aprobado por la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  6.- ELIMI<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1054050&amp;idParte=9373564&amp;idVersion=2013-09-06\">Resoluci&#xF3;n 5222 EXENTA,<br>AGRICULTURA<br>N&#xBA; 1 b)<br>D.O. 06.09.2013</a></span>NADO.</div><div class=\"p\">&nbsp; &nbsp;  7.- D&#xE9;jase constancia que los documentos que respaldan el Programa Bioseguridad para Recintos Feriales, se encuentran disponibles en la p&#xE1;gina web del Servicio Agr&#xED;cola y Ganadero, www.sag.gob.cl. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1054050,
+      "fecha": "2013-09-06"
+    }
+  },
+  {
+    "fecha": "2014-03-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

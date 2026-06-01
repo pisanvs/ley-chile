@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1976-12-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-09-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9295262,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;-&nbsp; F&#xED;janse l&#xED;mites urbanos a la localidad de &quot;Nueva Tolt&#xE9;n&quot;, comuna de Tolt&#xE9;n, provincia de Caut&#xED;n, seg&#xFA;n plano confeccionado por la Divisi&#xF3;n de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, de acuerdo a la siguiente descripci&#xF3;n de puntos y tramos:</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/28209.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;-&nbsp; F&#xED;janse l&#xED;mites <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>urbanos a la localidad de &quot;Nueva Tolt&#xE9;n&quot;, comuna de Tolt&#xE9;n, provincia de Caut&#xED;n, seg&#xFA;n plano confeccionado por la Divisi&#xF3;n de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, de acuerdo a la siguiente descripci&#xF3;n de puntos y tramos:</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/28209.jpg\"></div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo 3&#xBA; del Decreto 7, Vivienda, publicado el 08.09.2012, modifica el presente decreto en el sentido de derogar el l&#xED;mite urbano de la localidad de Queule y fija el nuevo l&#xED;mite urbano, definido en el proyecto parcial del Plan Regulador Comunal de Tolt&#xE9;n, para las localidades de Queule y Villa O&apos;Higgins.</div></div>"
+        }
+      ]
+    }
+  }
+]

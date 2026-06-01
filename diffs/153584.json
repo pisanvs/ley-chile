@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-08-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-07-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6226431,
+          "old": "<div><div class=\"p\">AUTORIZA AL SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES Y OTROS PRODUCTOS DEL MAR PIEDRA BLANCA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA AL SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES Y OTROS PRODUCTOS DEL MAR PIEDRA BLANCA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div><br></div>"
+        }
+      ]
+    }
+  }
+]

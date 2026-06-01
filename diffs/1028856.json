@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-08-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9169818,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18: La composici&#xF3;n y funcionamiento del Consejo se determinar&#xE1; mediante resoluci&#xF3;n posterior del Jefe de Servicio, cuya dictaci&#xF3;n no deber&#xE1; exceder de los 90 d&#xED;as a contar de la vigencia de este acto administrativo. Dicha resoluci&#xF3;n establecer&#xE1; los representantes que lo integrar&#xE1;n, su composici&#xF3;n y funciones, pudiendo adoptar la modalidad de funcionamiento por &#xE1;reas o sectores para una mejor participaci&#xF3;n. AGCI tomar&#xE1; las medidas necesarias para apoyar la constituci&#xF3;n del Consejo, y facilitar&#xE1; las instalaciones y recursos para su debido funcionamiento.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18: La composici&#xF3;n y funcionamiento del Consejo se determinar&#xE1; mediante resoluci&#xF3;n posterior del Jefe de Servicio, cuya dictaci&#xF3;n no deber&#xE1; exceder de los 90 <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> d&#xED;as a contar de la vigencia de este acto administrativo. Dicha resoluci&#xF3;n establecer&#xE1; los representantes que lo integrar&#xE1;n, su composici&#xF3;n y funciones, pudiendo adoptar la modalidad de funcionamiento por &#xE1;reas o sectores para una mejor participaci&#xF3;n. AGCI tomar&#xE1; las medidas necesarias para apoyar la constituci&#xF3;n del Consejo, y facilitar&#xE1; las instalaciones y recursos para su debido funcionamiento.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1 de la Resoluci&#xF3;n 1061 Exenta, Relaciones Exteriores, publicada el 09.01.2011, modifica la presente norma, en el sentido de prorrogar el plazo de 90 d&#xED;as h&#xE1;biles, que establece la norma de aplicaci&#xF3;n general sobre modalidades de participaci&#xF3;n ciudadana en la Agencia de Cooperaci&#xF3;n Internacional de Chile.</div></div>"
+        }
+      ]
+    }
+  }
+]

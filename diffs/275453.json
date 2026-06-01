@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-08-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-12-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6656491,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Apru&#xE9;base la n&#xF3;mina de postulantes seleccionados para el otorgamiento de Subsidio Habitacional Rural, correspondiente al proceso de selecci&#xF3;n del mes de junio de 2008, de acuerdo a lo establecido por la resoluci&#xF3;n exenta N&#xBA; 92 (V. y U.), de 2008, n&#xF3;mina que se adjunta y se entender&#xE1; formar parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Los recursos dispuestos para la asignaci&#xF3;n de subsidio a los postulantes, se detallan en el siguiente cuadro, por regi&#xF3;n del pa&#xED;s:</div><br><div class=\"p\">NOTA: VER DIARIO OFICIAL DE 07.08.2008, PAGINA 7 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Apru&#xE9;base la n&#xF3;mina de postulantes seleccionados para el otorgamiento de Subsidio Habitacional Rural, correspondiente al proceso de selecci&#xF3;n del mes de junio de 2008, de acuerdo a lo establecido por la resoluci&#xF3;n exenta N&#xBA; 92 (V. y U.), de 2008, n&#xF3;mina que se adjunta y se entender&#xE1; formar parte integrante de la presente resoluci&#xF3;n.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  Los recursos dispuestos para la asignaci&#xF3;n de subsidio a los postulantes, se detallan en el siguiente cuadro, por regi&#xF3;n del pa&#xED;s:</div><br><div class=\"p\">NOTA: VER DIARIO OFICIAL DE 07.08.2008, PAGINA 7</div><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 7938 Exenta, Vivienda, publicada el 03.12.2010, modifica la n&#xF3;mina de postulantes seleccionados para el otorgamiento de Subsidio Habitacional Rural, aprobada por la presente norma, en el sentido de reemplazar las filas correspondientes a los beneficiarios identificados con los RUT &quot;10.271.921-2&quot;, &quot;7.266.836-7&quot; y &quot;7.619.198-0&quot;, pertenecientes a la comuna de Alhu&#xE9;, Regi&#xF3;n Metropolitana, por las que la propia norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

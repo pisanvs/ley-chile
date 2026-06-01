@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-07-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-06-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6258027,
+          "old": "<div><div class=\"p\">DISPONE CONTROL INTEGRADO PLAGA NEMATODO DORADO PROVINCIA PETORCA, V REGION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 5 de Julio de 1985.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  No. 832 exenta.- Visto: El decreto ley No. 3.557, de 1980, sobre protecci&#xF3;n agr&#xED;cola; la Res. No. 2.383, de 1981 que establece el control obligatorio de la plaga &quot;nem&#xE1;todo dorado de la papa&quot;, y,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que es necesario intensificar el control de &quot;nem&#xE1;todo dorado&quot; debido a la dispersi&#xF3;n de este pat&#xF3;geno a la Comuna de Nogales, V Regi&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario mantener la plaga confinada a los sectores actualmente infestados, protegiendo con ello las principales zonas productoras de este tub&#xE9;rculo;</div><div class=\"p\">&nbsp; &nbsp;  - Que los niveles poblacionales de la plaga hacen necesario intensificar la acci&#xF3;n del Servicio;</div><div class=\"p\">&nbsp; &nbsp;  - Que los niveles poblacionales pueden regularse mediante el uso de t&#xE9;cnicas de &quot;control integrado&quot;;</div><div class=\"p\">&nbsp; &nbsp;  - Que la provincia de Petorca tiene condiciones especiales de clima para la producci&#xF3;n de papa temprana, primor o pelona;</div><div class=\"p\">&nbsp; &nbsp;  - Que el Servicio est&#xE1; facultado para normar sobre aspectos fitosanitarios;</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DISPONE CONTROL INTEGRADO PLAGA NEMATODO DORADO PROVINCIA PETORCA, V REGION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 5 de Julio de 1985.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  No. 832 exenta.- Visto: El decreto ley No. 3.557, de 1980, sobre protecci&#xF3;n agr&#xED;cola; la Res. No. 2.383, de 1981 que establece el control obligatorio de la plaga &quot;nem&#xE1;todo dorado de la papa&quot;, y,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que es necesario intensificar el control de &quot;nem&#xE1;todo dorado&quot; debido a la dispersi&#xF3;n de este pat&#xF3;geno a la Comuna de Nogales, V Regi&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario mantener la plaga confinada a los sectores actualmente infestados, protegiendo con ello las principales zonas productoras de este tub&#xE9;rculo;</div><div class=\"p\">&nbsp; &nbsp;  - Que los niveles poblacionales de la plaga hacen necesario intensificar la acci&#xF3;n del Servicio;</div><div class=\"p\">&nbsp; &nbsp;  - Que los niveles poblacionales pueden regularse mediante el uso de t&#xE9;cnicas de &quot;control integrado&quot;;</div><div class=\"p\">&nbsp; &nbsp;  - Que la provincia de Petorca tiene condiciones especiales de clima para la producci&#xF3;n de papa temprana, primor o pelona;</div><div class=\"p\">&nbsp; &nbsp;  - Que el Servicio est&#xE1; facultado para normar sobre aspectos fitosanitarios;</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

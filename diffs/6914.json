@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1978-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8816764,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Las cuentas y registros individuales que deban llevar las instituciones de previsi&#xF3;n se actualizar&#xE1;n de acuerdo a los procedimientos que fije la Superintendencia de Seguridad Social,</div><div class=\"p\">&nbsp; &nbsp;  Dichas cuentas y registros s&#xF3;lo contendr&#xE1;n los datos que determine la Superintendencia, la que podr&#xE1; disponer la omisi&#xF3;n de todos aquellos que presumiblemente no influyan en la determinaci&#xF3;n del monto de los beneficios.</div><div class=\"p\">&nbsp; &nbsp;  Para la recuperaci&#xF3;n de las cuentas y registros individuales que se refieran a las afiliaciones producidas hasta el 31 de Diciembre de 1978, podr&#xE1;n establecerse procedimientos simplificados y selectivos de revisi&#xF3;n de antecedentes y de anotaci&#xF3;n de la informaci&#xF3;n obtenida de ellos.</div><div class=\"p\">&nbsp; &nbsp;  Los per&#xED;odos de afiliaci&#xF3;n que se determinen de acuerdo a lo dispuesto en el inciso anterior no podr&#xE1;n ser objetados salvo que el interesado solicite fundadamente su revisi&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Las cuentas y registros individuales que deban llevar las instituciones de previsi&#xF3;n se actualizar&#xE1;n de acuerdo a los procedimientos que fije la Superintendencia de Seguridad Social,</div><div class=\"p\">&nbsp; &nbsp;  Dichas cuentas y registros s&#xF3;lo contendr&#xE1;n los datos que determine la Superintendencia, la que podr&#xE1; disponer la omisi&#xF3;n de todos aquellos que presumiblemente no influyan en la determinaci&#xF3;n del monto de los beneficios.</div><div class=\"p\">&nbsp; &nbsp;  Para la recuperaci&#xF3;n de las cuentas y registros individuales que se refieran a las afiliaciones producidas hasta el 31 de Diciembre de 1981, podr&#xE1;n<span class=\"n\" id=\"n_0\">DL 3537, TRABAJO<br>Art. 8&#xBA;<br>D.O. 22.01.1981</span> establecerse procedimientos simplificados y selectivos de revisi&#xF3;n de antecedentes y de anotaci&#xF3;n de la informaci&#xF3;n obtenida de ellos.</div><div class=\"p\">&nbsp; &nbsp;  Los per&#xED;odos de afiliaci&#xF3;n que se determinen de acuerdo a lo dispuesto en el inciso anterior no podr&#xE1;n ser objetados salvo que el interesado solicite fundadamente su revisi&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

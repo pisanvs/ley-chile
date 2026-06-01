@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1964-04-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6420738,
+          "old": "<div><div class=\"p\">APRUEBA PLANO REGULADOR DE CORONEL Y LOTA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 7 de Marzo de 1964.- S.E. decret&#xF3; hoy lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 555.- Vistos estos antecedentes, lo acordado por la Honorable Junta de Planeamiento y Coordinaci&#xF3;n de Obras P&#xFA;blicas, en sesi&#xF3;n de 13 de Enero de 1964, lo establecido en el art&#xED;culo 124&#xBA; de la ley N&#xBA; 14.171 y lo informado por la Direcci&#xF3;n de Arquitectura en oficio N&#xBA; 613, de 28 de Febrero del a&#xF1;o anteriormente indicado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA PLANO REGULADOR DE CORONEL Y LOTA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 7 de Marzo de 1964.- S.E. decret&#xF3; hoy lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 555.- Vistos estos antecedentes, lo acordado por la Honorable Junta de Planeamiento y Coordinaci&#xF3;n de Obras P&#xFA;blicas, en sesi&#xF3;n de 13 de Enero de 1964, lo establecido en el art&#xED;culo 124&#xBA; de la ley N&#xBA; 14.171 y lo informado por la Direcci&#xF3;n de Arquitectura en oficio N&#xBA; 613, de 28 de Febrero del a&#xF1;o anteriormente indicado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 171, Gobierno Regional Regi&#xF3;n del B&#xED;o B&#xED;o, publicada el 28.01.2003, que aprueba el Plan Regulador Intercomunal de Concepci&#xF3;n, reemplaza la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

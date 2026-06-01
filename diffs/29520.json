@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-02-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8696429,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Los imponentes independientes y voluntarios afiliados a cualquiera de las instituciones de previsi&#xF3;n fiscalizadas por la Superintendencia de Seguridad Social, deber&#xE1;n efectuar sus cotizaciones sobre el monto de la renta que declaren.</div><div class=\"p\">&nbsp; &nbsp; En ning&#xFA;n caso, la renta declarada por estos imponentes podr&#xE1; ser inferior a un ingreso m&#xED;nimo mensual, ni superior a sesenta Unidades de Fomento. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Los imponentes independientes y voluntarios afiliados a cualquiera de las instituciones de previsi&#xF3;n fiscalizadas por la Superintendencia de Seguridad Social, deber&#xE1;n efectuar sus cotizaciones sobre el monto de la renta que declaren.</div><div class=\"p\">&nbsp; &nbsp; En ning&#xFA;n caso, la renta declarada por estos imponentes podr&#xE1; ser inferior a un ingreso m&#xED;nimo mensual, ni superior a sesenta Unidades de Fomento.</div><div class=\"p\">&nbsp; &nbsp; Con todo, la primera renta que declaren los<span class=\"n\" id=\"n_0\">LEY 18899<br>Art. 52</span> imponentes voluntarios en calidad de tales, no podr&#xE1; exceder a la &#xFA;ltima remuneraci&#xF3;n imponible sobre la que hubieren cotizado como imponentes obligados.</div><div class=\"p\">&nbsp; &nbsp; Adem&#xE1;s, a los imponentes voluntarios que antes lo fueron como obligados en el r&#xE9;gimen previsional de empleado p&#xFA;blico de la ex-Caja Nacional de Empleados P&#xFA;blicos y Periodistas, les resultar&#xE1; aplicable lo se&#xF1;alado en los art&#xED;culos 15 y 16 de la ley N&#xB0; 18.675.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

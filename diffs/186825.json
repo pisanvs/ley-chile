@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-06-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-07-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6339838,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Cr&#xE9;ase en las circunscripciones de Puente Alto, Maip&#xFA;, Maip&#xFA; Poniente, Providencia, Apoquindo y San Bernardo, una Junta Inscriptora de car&#xE1;cter temporal, con sede en cada una de las circunscripciones se&#xF1;aladas, a partir del 16 de julio y hasta el 11 de agosto de 2001, cierre del per&#xED;odo extraordinario de inscripciones electorales. Estas Juntas tendr&#xE1;n id&#xE9;ntico territorio jurisdiccional a las ya existentes.</div><div class=\"p\">&nbsp; &nbsp;  2.- Las Juntas que se crean atender&#xE1;n la inscripci&#xF3;n en los Registros Electorales de Mujeres, mientras que las de Varones lo ser&#xE1;n por las Juntas Inscriptoras permanentes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Cr&#xE9;ase en las circunscripciones de Puente Alto,</div><div class=\"p\">Maip&#xFA;, Maip&#xFA; Poniente, Providencia, Apoquindo y San</div><div class=\"p\">Bernardo, una Junta Inscriptora de car&#xE1;cter temporal,</div><div class=\"p\">con sede en cada una de las circunscripciones se&#xF1;aladas,</div><div class=\"p\">a partir del 16 de julio y hasta el 17 de agosto de<span class=\"n\" id=\"n_0\">RES 396,<br>SERV. ELECTORAL<br>N&#xBA; 1<br>D.O. 30.07.2001</span></div><div class=\"p\">2001, cierre del per&#xED;odo extraordinario de inscripciones</div><div class=\"p\">electorales. Estas Juntas tendr&#xE1;n id&#xE9;ntico territorio</div><div class=\"p\">jurisdiccional a las ya existentes.</div><div class=\"p\">&nbsp; &nbsp;  2.- Las Juntas que se crean atender&#xE1;n la</div><div class=\"p\">inscripci&#xF3;n en los Registros Electorales de Mujeres,</div><div class=\"p\">mientras que las de Varones lo ser&#xE1;n por las Juntas</div><div class=\"p\">Inscriptoras permanentes.</div><div class=\"p\"> </div></div>"
+        }
+      ]
+    }
+  }
+]

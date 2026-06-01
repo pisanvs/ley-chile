@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-05-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-03-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6423349,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO N&#xBA;428, DE 1978</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 86.- Santiago, 26 de marzo de 2003.- Vistos: La Constituci&#xF3;n Pol&#xED;tica del Estado; el DFL N&#xBA;161 de 1978, del Ministerio de Relaciones Exteriores; los decretos supremos N&#xBA;s 428 de 1978, 1.072 de 1980, 700 de 1982, y 509 de 1990, de esta Secretar&#xED;a de Estado y las necesidades del servicio.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO N&#xBA;428, DE 1978</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 86.- Santiago, 26 de marzo de 2003.- Vistos: La Constituci&#xF3;n Pol&#xED;tica del Estado; el DFL N&#xBA;161 de 1978, del Ministerio de Relaciones Exteriores; los decretos supremos N&#xBA;s 428 de 1978, 1.072 de 1980, 700 de 1982, y 509 de 1990, de esta Secretar&#xED;a de Estado y las necesidades del servicio.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

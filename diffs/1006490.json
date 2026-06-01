@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-10-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8785490,
+          "old": "<div><br><div class=\"p\">&nbsp; .&nbsp;  </div><div class=\"p\">&nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/483.jpg\"></div><div class=\"p\">.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; .&nbsp;  </div><div class=\"p\">&nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/483.jpg\"></div><br><div class=\"p\">&nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/584.jpg\"></div><br><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1007199&amp;idParte=8790256&amp;idVersion=2009-10-16\">Resoluci&#xF3;n 21144,<br>SERVICIO ELECTORAL<br>D.O. 16.10.2009</a></span></div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1007199,
+      "fecha": "2009-10-16"
+    }
+  }
+]

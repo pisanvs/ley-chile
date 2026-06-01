@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-09-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9176974,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaci&#xF3;n en la Regi&#xF3;n del Biob&#xED;o para la adquisici&#xF3;n de terrenos destinados al proyecto C&#xF3;digo BIP 30107190-0, &quot;Construcci&#xF3;n Parque de Mitigaci&#xF3;n de Dichato, Tom&#xE9;&quot;, de la comuna de Tom&#xE9;, recomendado favorablemente por el Ministerio de Planificaci&#xF3;n, para el proceso presupuestario 2011, a desarrollarse desde el sector de Litril, por el poniente de Dichato, hasta la desembocadura del estero del mismo nombre, por el nororiente, en una extensi&#xF3;n aproximada de 1.300 metros de largo y 20 metros de ancho entre Litril y Las Lilas y en una extensi&#xF3;n de 250 metros de largo por 105 metros de ancho, entre calle Las Lilas y el acceso a Villarrica, en el sector de la desembocadura del estero, conforme plano de expropiaciones Versi&#xF3;n Preliminar, Proyecto Parque Mitigaci&#xF3;n de Dichato, de junio de 201, confeccionado por Serviu VIII Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Superficie inmueble a expropiar: 31.217,87 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Concepci&#xF3;n, si lo hubiere.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaci&#xF3;n en la Regi&#xF3;n <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>del Biob&#xED;o para la adquisici&#xF3;n de terrenos destinados al proyecto C&#xF3;digo BIP 30107190-0, &quot;Construcci&#xF3;n Parque de Mitigaci&#xF3;n de Dichato, Tom&#xE9;&quot;, de la comuna de Tom&#xE9;, recomendado favorablemente por el Ministerio de Planificaci&#xF3;n, para el proceso presupuestario 2011, a desarrollarse desde el sector de Litril, por el poniente de Dichato, hasta la desembocadura del estero del mismo nombre, por el nororiente, en una extensi&#xF3;n aproximada de 1.300 metros de largo y 20 metros de ancho entre Litril y Las Lilas y en una extensi&#xF3;n de 250 metros de largo por 105 metros de ancho, entre calle Las Lilas y el acceso a Villarrica, en el sector de la desembocadura del estero, conforme plano de expropiaciones Versi&#xF3;n Preliminar, Proyecto Parque Mitigaci&#xF3;n de Dichato, de junio de 201, confeccionado por Serviu VIII Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Superficie inmueble a expropiar: 31.217,87 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Concepci&#xF3;n, si lo hubiere.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 del Decreto 2 Exento, Vivienda, publicado el 18.01.2013, complement&#xF3; la presente norma, en el sentido de incorporar dentro del programa de expropiaciones en el aprobado en la Regi&#xF3;n del Biob&#xED;o, la adquisici&#xF3;n de parte del Lote 20 ubicado en calle Ismael Vergara S/N&#xBA;, comuna de Tom&#xE9;, signado con el Rol de Aval&#xFA;o 90633-1, de propiedad de la Empresa de Ferrocarriles del Estado, para ser destinado a dar continuidad a la ejecuci&#xF3;n del proyecto C&#xF3;digo BIP 30107190-0, &quot;Construcci&#xF3;n Parque de Mitigaci&#xF3;n de Dichato, Tom&#xE9;&quot;, de la comuna de Tom&#xE9;, que se enmarca dentro del Plan de Reconstrucci&#xF3;n del Borde Costero (PBC), para el proceso presupuestario 2013, conforme Plano de Expropiaciones Versi&#xF3;n B, Proyecto Parque de Mitigaci&#xF3;n de Dichato Sector Dichato - comuna de Tom&#xE9;, de noviembre de 2012, confeccionado por Serviu VIII Regi&#xF3;n, la superficie del inmueble a expropiar es: 2.118,06 metros cuadrados.</div></div>"
+        }
+      ]
+    }
+  }
+]

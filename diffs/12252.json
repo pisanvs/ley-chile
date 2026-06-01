@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-03-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-05-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8261368,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA CIRCULACION DE VEHICULO QUE INDICA DEL INSTITUTO FORESTAL</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 314.- Santiago, 26 de Julio de 1991.- Visto: Art&#xED;culos 1&#xB0; y 3&#xB0; del Decreto Ley N&#xB0; 799 de 1974, modificado por el DFL N&#xB0; 12-2.345 de 1979, del Ministerio del Interior; Circular N&#xB0; 9.277 de 1975, y Resoluciones N&#xB0;s. 600 de 1977 y 1.050 de 1980, todas de la Contralor&#xED;a General de la Rep&#xFA;blica, Oficio Ord. N&#xB0; 04966 de 1991, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, y antecedentes que se acompa&#xF1;an.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, el Instituto Forestal, filial de CORFO, ha adquirido un veh&#xED;culo para que se asigne al Director de ese Instituto, y que adem&#xE1;s &#xE9;ste pueda circular los d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin la obligaci&#xF3;n de usar el disco distintivo, por razones de representatividad.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA CIRCULACION DE VEHICULO QUE INDICA DEL INSTITUTO FORESTAL</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 314.- Santiago, 26 de Julio de 1991.- Visto: Art&#xED;culos 1&#xB0; y 3&#xB0; del Decreto Ley N&#xB0; 799 de 1974, modificado por el DFL N&#xB0; 12-2.345 de 1979, del Ministerio del Interior; Circular N&#xB0; 9.277 de 1975, y Resoluciones N&#xB0;s. 600 de 1977 y 1.050 de 1980, todas de la Contralor&#xED;a General de la Rep&#xFA;blica, Oficio Ord. N&#xB0; 04966 de 1991, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, y antecedentes que se acompa&#xF1;an.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, el Instituto Forestal, filial de CORFO, ha adquirido un veh&#xED;culo para que se asigne al Director de ese Instituto, y que adem&#xE1;s &#xE9;ste pueda circular los d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin la obligaci&#xF3;n de usar el disco distintivo, por razones de representatividad.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

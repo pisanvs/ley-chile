@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9647983,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;quese, el <a href=\"https://www.leychile.cl/Navegar?idNorma=1008294&amp;idParte=8807124&amp;idVersion=\">art&#xED;culo 24</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1008294&amp;idParte=&amp;idVersion=\">Ordenanza Municipal sobre derechos municipales por concesiones, permisos y servicios</a>, en el sentido de incorporar el numeral 11, el cual tendr&#xE1; el siguiente texto:</div><div class=\"p\">&nbsp; &nbsp;  &quot;11.- Por el servicio de dep&#xF3;sito de residuos s&#xF3;lidos domiciliarios u otros permitidos, en Relleno Sanitario de dominio o administraci&#xF3;n de la Municipalidad de Arauco, previo convenio, se pagar&#xE1; la suma de 1 UTM por tonelada.&quot;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese, el presente decreto en el Diario Oficial y en la p&#xE1;gina web de la Municipalidad.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;quese, el art&#xED;culo 24 de la Ordenanza Municipal sobre derechos municipales por concesiones, permisos y servicios, en el sentido de incorporar el numeral 11, el cual tendr&#xE1; el siguiente texto:</div><div class=\"p\">&nbsp; &nbsp;  &quot;11.- Por el servicio de dep&#xF3;sito de residuos s&#xF3;lidos domiciliarios u otros permitidos, en Relleno Sanitario de dominio o administraci&#xF3;n de la Municipalidad de Arauco, previo convenio, se pagar&#xE1; la suma de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1085928&amp;idParte=9660753&amp;idVersion=2015-12-31\">Decreto 4596,<br>M. DE ARAUCO<br>N&#xB0; 1<br>D.O. 31.12.2015</a></span>0,5 UTM por tonelada.&quot;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese, el presente decreto en el Diario Oficial y en la p&#xE1;gina web de la Municipalidad.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1085928,
+      "fecha": "2015-12-31"
+    }
+  }
+]

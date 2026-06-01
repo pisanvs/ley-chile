@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-09-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6065748,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 48, DE 1990 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 48, DE 1990</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

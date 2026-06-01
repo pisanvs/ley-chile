@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1976-01-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-06-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8257368,
+          "old": "<div><div class=\"p\">Art&#xED;culo 1&#xB0;- La ciudad de Cha&#xF1;aral continuar&#xE1; como capital de la provincia del mismo nombre, mientras no se logre la implementaci&#xF3;n necesaria para establecer la nueva capital provincial en Pueblo Hundido, antes del a&#xF1;o 1985.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;- DEROGADO<span class=\"n\" id=\"n_0\">LEY 18715<br>Art. 2&#xBA;<br>D.O. 13.06.1988</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

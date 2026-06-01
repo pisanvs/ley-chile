@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1976-08-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1983-03-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6348339,
+          "old": "<div><div class=\"p\">DEROGA DECRETO N&#xB0; 125, DE 1973, Y APRUEBA NUEVO REGLAMENTO SOBRE ADQUISICIONES DE BIENES MUEBLES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 6 de Agosto de 1976.- El Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 810.- Vistos: lo dispuesto en los art&#xED;culos 9&#xBA;, 11&#xBA;, letra j); 20&#xBA;, letra g); 21&#xBA;, letra j); 42&#xBA; y 54&#xBA; de la ley N&#xB0; 15.840, y 72, N&#xB0; 2, de la Constituci&#xF3;n Pol&#xED;tica del Estado; el oficio de la Direcci&#xF3;n General de Obras P&#xFA;blicas N&#xB0; 754, de 27 de Julio de 1976, sobre adquisiciones de Bienes Muebles, y lo informado por la Contralor&#xED;a General de la Rep&#xFA;blica en su oficio n&#xFA;mero 47.660, de 14 de Julio de 1976,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DEROGA DECRETO N&#xB0; 125, DE 1973, Y APRUEBA NUEVO REGLAMENTO SOBRE ADQUISICIONES DE BIENES MUEBLES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 6 de Agosto de 1976.- El Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 810.- Vistos: lo dispuesto en los art&#xED;culos 9&#xBA;, 11&#xBA;, letra j); 20&#xBA;, letra g); 21&#xBA;, letra j); 42&#xBA; y 54&#xBA; de la ley N&#xB0; 15.840, y 72, N&#xB0; 2, de la Constituci&#xF3;n Pol&#xED;tica del Estado; el oficio de la Direcci&#xF3;n General de Obras P&#xFA;blicas N&#xB0; 754, de 27 de Julio de 1976, sobre adquisiciones de Bienes Muebles, y lo informado por la Contralor&#xED;a General de la Rep&#xFA;blica en su oficio n&#xFA;mero 47.660, de 14 de Julio de 1976,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

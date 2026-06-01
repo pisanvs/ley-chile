@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-06-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-06-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8845578,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Lo dispuesto en el art&#xED;culo 1&#xB0; de<span class=\"n\" id=\"n_0\">LEY 18521<br>Art. &#xFA;nico<br>D.O. 14.06.1986</span> esta ley regir&#xE1; tambi&#xE9;n respecto de los funcionarios de la Superintendencia de Seguridad Social, de la Superintendencia de Administradoras de Fondos de Pensiones y del Instituto de Normalizaci&#xF3;n Previsional que sean designados para desempe&#xF1;ar funciones en dos o m&#xE1;s de estos organismos.</div><div class=\"p\">&nbsp; &nbsp; Dichos funcionarios depender&#xE1;n de los superiores jer&#xE1;rquicos de los organismos en que sean nombrados, seg&#xFA;n corresponda a las materias de su competencia, y la remuneraci&#xF3;n ser&#xE1; pagada por el organismo que se establezca en el decreto o resoluci&#xF3;n de nombramiento.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

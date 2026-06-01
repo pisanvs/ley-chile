@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-03-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-06-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9412365,
+          "old": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  I. Decl&#xE1;rese el congelamiento, por un per&#xED;odo de tres meses y bajo las condiciones que establece el art&#xED;culo N&#xBA; 117 de la Ley General de Urbanismo y Construcciones, del &#xE1;rea comprendida dentro del pol&#xED;gono descrito como: A-B-C-D-E-F-G-H-A, graficado en la Plancheta adjunta a este decreto, y que pasa a formar parte integrante del mismo.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  II.- Instr&#xFA;yase a la Direcci&#xF3;n de Relaciones P&#xFA;blicas y Comunicaciones, que efect&#xFA;e la publicaci&#xF3;n, en el Diario Oficial y en el diario &quot;El Rancag&#xFC;ino&quot;, del texto &#xED;ntegro del presente decreto exento, incluido el Plano referencial expresado en Plancheta que forma parte del presente decreto alcaldicio.</div><div class=\"p\">&nbsp; &nbsp;  III.- F&#xED;jase como el inicio de vigencia del per&#xED;odo de congelamiento decretado en esta resoluci&#xF3;n, la fecha de publicaci&#xF3;n en el Diario Oficial del presente decreto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  I. Decl&#xE1;rese el congelamiento, por un per&#xED;odo <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de tres meses y bajo las condiciones que establece el art&#xED;culo N&#xBA; 117 de la Ley General de Urbanismo y Construcciones, del &#xE1;rea comprendida dentro del pol&#xED;gono descrito como: A-B-C-D-E-F-G-H-A, graficado en la Plancheta adjunta a este decreto, y que pasa a formar parte integrante del mismo.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  II.- Instr&#xFA;yase a la Direcci&#xF3;n de Relaciones P&#xFA;blicas y Comunicaciones, que efect&#xFA;e la publicaci&#xF3;n, en el Diario Oficial y en el diario &quot;El Rancag&#xFC;ino&quot;, del texto &#xED;ntegro del presente decreto exento, incluido el Plano referencial expresado en Plancheta que forma parte del presente decreto alcaldicio.</div><div class=\"p\">&nbsp; &nbsp;  III.- F&#xED;jase como el inicio de vigencia del per&#xED;odo de congelamiento decretado en esta resoluci&#xF3;n, la fecha de publicaci&#xF3;n en el Diario Oficial del presente decreto.</div><br><div class=\"p\">&nbsp; &nbsp;  </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral I del Decreto 2223 Exento, Municipalidad de Rancagua, publicada el 23.06.2014, modifica la presente norma en el sentido de prorrogar con plazo adicional de 3 meses el plazo inicial de Congelamiento, y bajo las condiciones que establece el art&#xED;culo N&#xBA; 117 de la Ley General de Urbanismo y Construcciones, del &#xE1;rea comprendida dentro del pol&#xED;gono descrito como A-B-C-D-E-F-G-H-A.</div></div>"
+        }
+      ]
+    }
+  }
+]

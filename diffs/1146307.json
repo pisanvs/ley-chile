@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-06-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-07-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10126595,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Apru&#xE9;base el programa de expropiaci&#xF3;n de los inmuebles necesarios para ejecutar el Programa &quot;Mejoramiento Costero Re&#xF1;aca-Conc&#xF3;n, Etapa 1, comuna de Conc&#xF3;n&quot; c&#xF3;digo BIP 40013279-0, en la Regi&#xF3;n de Valpara&#xED;so, seg&#xFA;n el plano de Expropiaci&#xF3;n &quot;DSR-P N&#xBA; 12.624, l&#xE1;minas N&#xBA; 9 a N&#xBA; 16&quot;, de fecha julio de 2019, elaborado por el Serviu Regi&#xF3;n de Valpara&#xED;so, cuyos datos se especifican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/109521.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada a expropiar: 2.901,37 m&#xB2; (dos mil novecientos uno coma treinta y siete metros cuadrados).</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;. El presente decreto ser&#xE1; publicado en el Diario Oficial y en un peri&#xF3;dico de la provincia de Valpara&#xED;so, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Apru&#xE9;base el programa de expropiaci&#xF3;n de los inmuebles necesarios para ejecutar el Programa &quot;Mejoramiento Costero Re&#xF1;aca-Conc&#xF3;n, Etapa 1, comuna de Conc&#xF3;n&quot; c&#xF3;digo BIP 40013279-0, en la Regi&#xF3;n de Valpara&#xED;so, seg&#xFA;n el plano de Expropiaci&#xF3;n &quot;DSR-P N&#xBA; 12.624, l&#xE1;minas N&#xBA; 9 a N&#xBA; 16&quot;, de fecha julio de 2019, elaborado por el Serviu Regi&#xF3;n de Valpara&#xED;so, cuyos datos se especifican a continuaci&#xF3;<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/109521.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada a expropiar: 2.901,37 m&#xB2; (dos mil novecientos uno coma treinta y siete metros cuadrados).</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Reempl&#xE1;zase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1163062&amp;idParte=10255538&amp;idVersion=2021-07-29\">Decreto 35 EXENTO,<br>VIVIENDA<br>N&#xB0; 1 b)<br>D.O. 29.07.2021</a></span>la superficie total aproximada a expropiar, que figura a continuaci&#xF3;n de la tabla del resuelvo 1&#xBA;, sustituy&#xE9;ndose la cantidad de &quot;2.901,37 m&#xB2; (dos mil novecientos uno coma treinta y siete metros cuadrados)&quot;, por &quot;2.941,27 m&#xB2; (dos mil novecientos cuarenta y uno coma veintisiete metros cuadrados).&quot;</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;. El presente decreto ser&#xE1; publicado en el Diario Oficial y en un peri&#xF3;dico de la provincia de Valpara&#xED;so, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; del Decreto 35 Exento, Vivienda, publicado el 29.07.2021 dispone incorporar a la tabla inserta en el resuelvo 1 de la presente norma el Lote 19-A de la manera que el citado Decreto singulariza.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1163062,
+      "fecha": "2021-07-29"
+    }
+  }
+]

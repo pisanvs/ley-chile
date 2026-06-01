@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-12-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5844362,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A CENTRO TECNOLOGICO DE PRODUCCION MADERERA S.A. </div></div>",
+          "new": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A CENTRO TECNOLOGICO DE PRODUCCION MADERERA S.A.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

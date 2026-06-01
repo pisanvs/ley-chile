@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-06-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-07-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6284271,
+          "old": "<div><div class=\"p\">APRUEBA FORMULAS TARIFARIAS DE LOS SERVICIOS DE PRODUCCION Y DISTRIBUCION DE AGUA POTABLE Y RECOLECCION Y DISPOSICION DE AGUAS SERVIDAS PARA EL SECTOR SAN CARLOS DE APOQUINDO Y OTROS DE LA COMUNA DE LAS CONDES REGION METROPOLITANA, EMPRESA AGUAS CORDILLERA S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 203.- Santiago, 3 de mayo de 2000.- Visto: Lo dispuesto en los art&#xED;culos 15&#xBA; y 21&#xBA; del decreto con fuerza de ley N&#xBA; 382 de 1988; en el art&#xED;culo 23&#xBA; del decreto MOP N&#xBA; 121 de 1991; el decreto con fuerza de ley N&#xBA; 70 de 1988 del Ministerio de Obras P&#xFA;blicas y sus modificaciones contenidas en la ley N&#xBA; 19.549; el decreto supremo N&#xBA; 453 del 12 de diciembre de 1989 modificado por decreto supremo N&#xBA; 109 del 10 de marzo de 1998 y el decreto supremo N&#xBA; 182 del 31 de marzo de 1995 ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el art&#xED;culo 10&#xBA; de la ley N&#xBA; 10.336, la ley N&#xBA; 18.902, el art&#xED;culo N&#xBA; 33B del decreto con fuerza de ley N&#xBA; 382 de 1988, el Estudio Tarifario realizado por la Superintendencia de Servicios Sanitarios y el fallo de la comisi&#xF3;n de expertos.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA FORMULAS TARIFARIAS DE LOS SERVICIOS DE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> PRODUCCION Y DISTRIBUCION DE AGUA POTABLE Y RECOLECCION Y DISPOSICION DE AGUAS SERVIDAS PARA EL SECTOR SAN CARLOS DE APOQUINDO Y OTROS DE LA COMUNA DE LAS CONDES REGION METROPOLITANA, EMPRESA AGUAS CORDILLERA S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 203.- Santiago, 3 de mayo de 2000.- Visto: Lo dispuesto en los art&#xED;culos 15&#xBA; y 21&#xBA; del decreto con fuerza de ley N&#xBA; 382 de 1988; en el art&#xED;culo 23&#xBA; del decreto MOP N&#xBA; 121 de 1991; el decreto con fuerza de ley N&#xBA; 70 de 1988 del Ministerio de Obras P&#xFA;blicas y sus modificaciones contenidas en la ley N&#xBA; 19.549; el decreto supremo N&#xBA; 453 del 12 de diciembre de 1989 modificado por decreto supremo N&#xBA; 109 del 10 de marzo de 1998 y el decreto supremo N&#xBA; 182 del 31 de marzo de 1995 ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el art&#xED;culo 10&#xBA; de la ley N&#xBA; 10.336, la ley N&#xBA; 18.902, el art&#xED;culo N&#xBA; 33B del decreto con fuerza de ley N&#xBA; 382 de 1988, el Estudio Tarifario realizado por la Superintendencia de Servicios Sanitarios y el fallo de la comisi&#xF3;n de expertos.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 10 del DTO 179, Econom&#xED;a, publicado el 05.07.2005, deja sin efecto la presente norma, a partir del 30 de junio de 2005.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

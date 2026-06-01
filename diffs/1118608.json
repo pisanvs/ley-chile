@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-05-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-09-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9914183,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Modif&#xED;case la <a href=\"https://www.leychile.cl/Navegar?idNorma=1102465&amp;idParte=9795211&amp;idVersion=\">resoluci&#xF3;n 1.666</a>, citada en Vistos, en el siguiente sentido: al cuerpo de agua Lago Riesco le corresponde el per&#xED;odo de descanso comprendido entre el 15 de agosto al 15 de septiembre de cada a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; En lo no modificado por la presente resoluci&#xF3;n, permanece vigente lo dispuesto en la resoluci&#xF3;n exenta n&#xFA;mero 3.128, citada en Vistos.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; Los titulares de los centros de cultivo que no den cumplimiento a los per&#xED;odos de descanso fijados en la presente resoluci&#xF3;n ser&#xE1;n sancionados de conformidad con lo dispuesto en el art&#xED;culo 118 ter de la Ley General de Pesca y Acuicultura, citada en Vistos.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0; La presente resoluci&#xF3;n podr&#xE1; ser impugnada por la interposici&#xF3;n de los recursos de reposici&#xF3;n y jer&#xE1;rquico contemplados en el art&#xED;culo 59 de la ley N&#xBA; 19.880, ante este mismo Servicio y dentro del plazo de 5 d&#xED;as h&#xE1;biles contados desde la respectiva notificaci&#xF3;n, sin perjuicio de la aclaraci&#xF3;n del acto dispuesta en el art&#xED;culo 62 del citado cuerpo legal y de las dem&#xE1;s acciones y recursos que procedan de conformidad con la normativa vigente.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Modif&#xED;case la resoluci&#xF3;n 1.666, citada en Vistos, en el siguiente sentido: <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1122869&amp;idParte=9947710&amp;idVersion=2018-09-06\">Resoluci&#xF3;n 3508 EXENTA,<br>ECONOM&#xCD;A<br>N&#xB0; 1<br>D.O. 06.09.2018</a></span>al cuerpo de agua Lago Riesco le corresponde el per&#xED;odo de descanso comprendido entre el 15 de septiembre al 15 de octubre de cada a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; En lo no modificado por la presente resoluci&#xF3;n, permanece vigente lo dispuesto en la resoluci&#xF3;n exenta n&#xFA;mero 3.128, citada en Vistos.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; Los titulares de los centros de cultivo que no den cumplimiento a los per&#xED;odos de descanso fijados en la presente resoluci&#xF3;n ser&#xE1;n sancionados de conformidad con lo dispuesto en el art&#xED;culo 118 ter de la Ley General de Pesca y Acuicultura, citada en Vistos.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0; La presente resoluci&#xF3;n podr&#xE1; ser impugnada por la interposici&#xF3;n de los recursos de reposici&#xF3;n y jer&#xE1;rquico contemplados en el art&#xED;culo 59 de la ley N&#xBA; 19.880, ante este mismo Servicio y dentro del plazo de 5 d&#xED;as h&#xE1;biles contados desde la respectiva notificaci&#xF3;n, sin perjuicio de la aclaraci&#xF3;n del acto dispuesta en el art&#xED;culo 62 del citado cuerpo legal y de las dem&#xE1;s acciones y recursos que procedan de conformidad con la normativa vigente.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1122869,
+      "fecha": "2018-09-06"
+    }
+  }
+]

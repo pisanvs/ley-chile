@@ -1,0 +1,33 @@
+[
+  {
+    "fecha": "1996-07-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8938315,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Modif&#xED;case la Resoluci&#xF3;n N&#xB0; 1.831 de 1995, de esta Subsecretar&#xED;a, que fij&#xF3; la n&#xF3;mina de armadores y embarcaciones habilitados para operar en la unidad de pesquer&#xED;a de jurel, Trachurus murphyi, V a IX Regiones, se&#xF1;alada en el art&#xED;culo primero letra d) del D.S. N&#xB0; 354, de 1993, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, en el &#xE1;rea de su respectiva autorizaci&#xF3;n, en el sentido de incorporar en el numeral 1 lo siguiente: &quot;Pesquera Coloso S.A.: &quot;Aventurero&quot;. </div></div>"
+        },
+        {
+          "part_id": 8938316,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; An&#xF3;tese, notif&#xED;quese y publ&#xED;quese por cuenta de esta Subsecretar&#xED;a.- Patricio Bernal Ponce, Subsecretario de Pesca.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Bernab&#xE9; Vilaxa Zuleta, Jefe Administrativo.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938314,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE JUREL, DEL ARTICULO 1&#xB0; LETRA D) DEL DECRETO N&#xB0; 354, DE 1993 N&#xFA;m. 1.152.- Valpara&#xED;so, 20 de Junio de 1996.- Visto: Lo solicitado por Pesquera Coloso S.A.; lo informado por la Divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a en Memor&#xE1;ndum N&#xB0; 143 del 24 de abril de 1996, el D.F.L. N&#xB0; 5 de 1983; la Resoluci&#xF3;n N&#xB0; 1.831 de 1995, de esta Subsecretar&#xED;a; la Ley N&#xB0; 18.892 y sus modificaciones;</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE JUREL, DEL ARTICULO 1&#xB0; LETRA D) DEL DECRETO N&#xB0; 354, DE 1993 N&#xFA;m. 1.152.- Valpara&#xED;so, 20 de Junio de 1996.- Visto: Lo solicitado por Pesquera Coloso S.A.; lo informado por la Divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a en Memor&#xE1;ndum N&#xB0; 143 del 24 de abril de 1996, el D.F.L. N&#xB0; 5 de 1983; la Resoluci&#xF3;n N&#xB0; 1.831 de 1995, de esta Subsecretar&#xED;a; la Ley N&#xB0; 18.892 y sus modificaciones;</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br></div>"
+        }
+      ]
+    }
+  }
+]

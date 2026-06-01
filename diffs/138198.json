@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-06-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-02-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6174643,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  EXTRACTO DE RESOLUCION N&#xBA; 4.066, DE 1999 </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  EXTRACTO DE RESOLUCION N&#xBA; 4.066, DE 1999 </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

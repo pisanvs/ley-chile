@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2007-08-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-10-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7349924,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Art&#xED;culo 1&#xBA;.- Autor&#xED;zase la circulaci&#xF3;n de los veh&#xED;culos que se indican, los d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, pertenecientes a la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica (Conicyt) previa coordinaci&#xF3;n, supervisi&#xF3;n y autorizaci&#xF3;n de la autoridad de Conicyt:</div><br><div class=\"p\">a)&nbsp;  Veh&#xED;culo&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Camioneta</div><div class=\"p\">&nbsp; &nbsp;  Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; Nissan</div><div class=\"p\">&nbsp; &nbsp;  Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Terrano Pick Up 2.5</div><div class=\"p\">&nbsp; &nbsp;  A&#xF1;o Fabricaci&#xF3;n :&nbsp; 2007</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; Motor&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; YD25226540A</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; Chassis&nbsp; &nbsp; &nbsp; :&nbsp; JN1CPGD22Z0744774</div><div class=\"p\">&nbsp; &nbsp;  R.N.V.M.&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; ZW 7448-8</div><br><div class=\"p\">b)&nbsp;  Veh&#xED;culo&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Mini Bus</div><div class=\"p\">&nbsp; &nbsp;  Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; Ford</div><div class=\"p\">&nbsp; &nbsp;  Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; E-350; 5.8; AT</div><div class=\"p\">&nbsp; &nbsp;  A&#xF1;o Fabricaci&#xF3;n :&nbsp; 1993</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; Motor&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; 77137</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; Chassis&nbsp; &nbsp; &nbsp; :&nbsp; 1FBJS31H9PHB77137</div><div class=\"p\">&nbsp; &nbsp;  R.N.V.M.&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; UN 8352-5</div><br><div class=\"p\">&nbsp; &nbsp;  2.- El Departamento de Administraci&#xF3;n y Finanzas de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica (Conicyt), deber&#xE1; coordinar, supervisar y autorizar el uso y disposici&#xF3;n de los veh&#xED;culos se&#xF1;alados precedentemente manteniendo una n&#xF3;mina actualizada de los choferes designados para la conducci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Art&#xED;culo 1&#xBA;.- Autor&#xED;zase la circulaci&#xF3;n de los veh&#xED;culos que se indican, los d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, pertenecientes a la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica (Conicyt) previa coordinaci&#xF3;n, supervisi&#xF3;n y autorizaci&#xF3;n de la autoridad de Conicyt:</div><br><div class=\"p\">a)&nbsp;  Veh&#xED;culo&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Camioneta</div><div class=\"p\">&nbsp; &nbsp;  Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; Nissan</div><div class=\"p\">&nbsp; &nbsp;  Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Terrano Pick Up 2.5</div><div class=\"p\">&nbsp; &nbsp;  A&#xF1;o Fabricaci&#xF3;n :&nbsp; 2007</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; Motor&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; YD25226540A</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; Chassis&nbsp; &nbsp; &nbsp; :&nbsp; JN1CPGD22Z0744774</div><div class=\"p\">&nbsp; &nbsp;  R.N.V.M.&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; ZW 7448-8</div><br><div class=\"p\">b)&nbsp;  Veh&#xED;culo&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Minib&#xFA;s<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1007363&amp;idParte=8791123&amp;idVersion=2009-10-22\">Decreto 1800 EXENTO,<br>EDUCACION<br>N&#xB0; 1<br>D.O. 22.10.2009</a></span></div><div class=\"p\">&nbsp; &nbsp;  Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; Hyundai</div><div class=\"p\">&nbsp; &nbsp;  Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; New H-1 MB GLS 2.5 4x2</div><div class=\"p\">&nbsp; &nbsp;  A&#xF1;o fabricaci&#xF3;n :&nbsp; 2009</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA;motor&nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; D2BH9003799</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA;chasis&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; KMJWAH7HP9U143589</div><div class=\"p\">&nbsp; &nbsp;  R.N.V.M.&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; BWKL.49-5</div><br><div class=\"p\">&nbsp; &nbsp;  2.- El Departamento de Administraci&#xF3;n y Finanzas de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica (Conicyt), deber&#xE1; coordinar, supervisar y autorizar el uso y disposici&#xF3;n de los veh&#xED;culos se&#xF1;alados precedentemente manteniendo una n&#xF3;mina actualizada de los choferes designados para la conducci&#xF3;n.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1007363,
+      "fecha": "2009-10-22"
+    }
+  }
+]

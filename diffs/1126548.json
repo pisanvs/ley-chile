@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-12-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9975868,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1: Des&#xED;gnase, como representante del Ministerio de Educaci&#xF3;n en el Directorio del Centro de Formaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n de Coquimbo, en calidad de suplente, a don Juan Ram&#xF3;n Cabezas Rodr&#xED;guez, RUN N&#xB0; 12.496.491-1, en su calidad de funcionario del Ministerio de Educaci&#xF3;n, por un per&#xED;odo de cuatro a&#xF1;os, pudiendo ser reelegido por el per&#xED;odo inmediatamente siguiente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1: Des&#xED;gnase, como representante del Ministerio de Educaci&#xF3;n en el Directorio del Centro<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1127185&amp;idParte=9983534&amp;idVersion=2018-12-28\">Decreto 1055 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 28.12.2018</a></span> de Formaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n de la Araucan&#xED;a, en calidad de suplente, a don Juan Ram&#xF3;n Cabezas Rodr&#xED;guez, RUN N&#xB0; 12.496.491-1, en su calidad de funcionario del Ministerio de Educaci&#xF3;n, por un per&#xED;odo de cuatro a&#xF1;os, pudiendo ser reelegido por el per&#xED;odo inmediatamente siguiente.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1127185,
+      "fecha": "2018-12-28"
+    }
+  }
+]

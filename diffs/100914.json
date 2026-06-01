@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-03-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8330952,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD PESQUERA BRAC S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD PESQUERA BRAC S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

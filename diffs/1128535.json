@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-02-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9997345,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero : Decl&#xE1;rase estado de excepci&#xF3;n constitucional de cat&#xE1;strofe en las comunas de Mariquina y Panguipulli, por un plazo de 30 d&#xED;as desde la publicaci&#xF3;n del presente decreto en el Diario Oficial, de conformidad a lo dispuesto en el <a href=\"https://www.leychile.cl/Navegar?idNorma=29824&amp;idParte=8285738&amp;idVersion=\">art&#xED;culo 8&#xBA;</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=29824&amp;idParte=&amp;idVersion=\">ley N&#xBA; 18.415</a>.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero : Decl&#xE1;rase estado de excepci&#xF3;n constitucional de cat&#xE1;strofe en las comunas de Mariquina y Panguipulli, por un plazo <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>de 30 d&#xED;as desde la publicaci&#xF3;n del presente decreto en el Diario Oficial, de conformidad a lo dispuesto en el art&#xED;culo 8&#xBA; de la ley N&#xBA; 18.415.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo primero del Decreto 120, Interior, publicado el 08.03.2019, prorroga el estado de excepci&#xF3;n constitucional de cat&#xE1;strofe, por calamidad p&#xFA;blica, declarado en las comunas de Mariquina y Panguipulli, correspondientes a la Regi&#xF3;n de Los R&#xED;os,, mediante la presente norma, por un plazo adicional de 30 d&#xED;as, a contar del vencimiento del per&#xED;odo previsto en dicho acto administrativo. Por su parte, el Art&#xED;culo segundo de la citada norma, renueva, por el mismo per&#xED;odo, la designaci&#xF3;n como Jefe de la Defensa Nacional en las comunas de Mariquina y Panguipulli, correspondientes a la Regi&#xF3;n de Los R&#xED;os, del General de Brigada del Ej&#xE9;rcito, se&#xF1;or Joaqu&#xED;n Morales Burotto, con las mismas facultades que se establecieron en el decreto supremo N&#xBA; 69 de 2019, del Ministerio del Interior y Seguridad P&#xFA;blica.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

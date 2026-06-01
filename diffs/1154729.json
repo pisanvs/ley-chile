@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-01-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-05-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10192946,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Determ&#xED;nase el n&#xFA;mero m&#xE1;ximo de cupos a pagar por regi&#xF3;n, en el marco de la ejecuci&#xF3;n del Programa Pago de Cuidadores de Personas con Discapacidad, seg&#xFA;n los recursos considerados en la <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1153629\">Ley N&#xB0; 21.289</a>, de Presupuestos del Sector P&#xFA;blico correspondiente al a&#xF1;o 2021, Partida 21, Cap&#xED;tulo 01, Programa 01, Subt&#xED;tulo 24, &#xCD;tem 03, Asignaci&#xF3;n 352, en la forma que a continuaci&#xF3;n se indica:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/118459.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; D&#xE9;jase Constancia que el monto m&#xE1;ximo del estipendio para el a&#xF1;o 2021 ser&#xE1; de $29.682 (veintinueve mil seiscientos ochenta y dos pesos), seg&#xFA;n lo dispuesto en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1094601&amp;idParte=9728283&amp;idVersion=\">art&#xED;culo 7&#xB0; del decreto supremo N&#xB0; 28, de 2016</a>, del entonces Ministerio de Desarrollo Social, que aprueba reglamento para la Ejecuci&#xF3;n de la Asignaci&#xF3;n Programa Pago Cuidadores de Personas con Discapacidad.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; Los subsidios se pagar&#xE1;n con cargo a los recursos consultados en la Partida 21, Cap&#xED;tulo 01, Programa 01, Subt&#xED;tulo 24, &#xCD;tem 03, Asignaci&#xF3;n 352, Glosas 14 y 21 de la ley N&#xB0; 21.289, de Presupuestos del Sector P&#xFA;blico del a&#xF1;o 2021.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0; Rem&#xED;tase copia digital del presente acto administrativo a la Divisi&#xF3;n de Promoci&#xF3;n y Protecci&#xF3;n Social, a la Divisi&#xF3;n de Administraci&#xF3;n y Finanzas, ambas de esta Subsecretar&#xED;a; a la Fiscal&#xED;a; a todas las Secretar&#xED;as Regionales Ministeriales de Desarrollo Social y Familia y a la Oficina de Partes.</div><div class=\"p\">&nbsp; &nbsp;  5&#xB0; Incorp&#xF3;rese por Oficina de Partes copia digital de la presente resoluci&#xF3;n en el sistema de gesti&#xF3;n documental del Ministerio de Desarrollo Social y Familia denominado Socialdoc.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Determ&#xED;nase el n&#xFA;mero m&#xE1;ximo de cupos a pagar por regi&#xF3;n, en el marco de la ejecuci&#xF3;n del Programa Pago de Cuidadores de Personas con Discapacidad, seg&#xFA;n los recursos considerados en la Ley N&#xB0; 21.289, de Presupuestos del Sector P&#xFA;blico correspondiente al a&#xF1;o 2021, Partida 21, Cap&#xED;tulo 01, Programa 01, Subt&#xED;tulo 24, &#xCD;tem 03, Asignaci&#xF3;n 352, en la forma que a continuaci&#xF3;n se indica:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/118459.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; D&#xE9;jase Constancia que el monto m&#xE1;ximo del estipendio para el a&#xF1;o 2021 ser&#xE1; de $<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1159983&amp;idParte=10228391&amp;idVersion=2021-05-20\">Resoluci&#xF3;n 344 EXENTA, <br>DESARROLLO<br>Art. primero<br>D.O. 20.05.2021</a></span>29.692 (veintinueve mil seiscientos noventa y dos pesos), seg&#xFA;n lo dispuesto en el art&#xED;culo 7&#xB0; del decreto supremo N&#xB0; 28, de 2016, del entonces Ministerio de Desarrollo Social, que aprueba reglamento para la Ejecuci&#xF3;n de la Asignaci&#xF3;n Programa Pago Cuidadores de Personas con Discapacidad.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; Los subsidios se pagar&#xE1;n con cargo a los recursos consultados en la Partida 21, Cap&#xED;tulo 01, Programa 01, Subt&#xED;tulo 24, &#xCD;tem 03, Asignaci&#xF3;n 352, Glosas 14 y 21 de la ley N&#xB0; 21.289, de Presupuestos del Sector P&#xFA;blico del a&#xF1;o 2021.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0; Rem&#xED;tase copia digital del presente acto administrativo a la Divisi&#xF3;n de Promoci&#xF3;n y Protecci&#xF3;n Social, a la Divisi&#xF3;n de Administraci&#xF3;n y Finanzas, ambas de esta Subsecretar&#xED;a; a la Fiscal&#xED;a; a todas las Secretar&#xED;as Regionales Ministeriales de Desarrollo Social y Familia y a la Oficina de Partes.</div><div class=\"p\">&nbsp; &nbsp;  5&#xB0; Incorp&#xF3;rese por Oficina de Partes copia digital de la presente resoluci&#xF3;n en el sistema de gesti&#xF3;n documental del Ministerio de Desarrollo Social y Familia denominado Socialdoc.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1159983,
+      "fecha": "2021-05-20"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-05-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-07-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7342903,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 572 EXENTA, DE 2007</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 927 exenta.- Santiago, 14 de mayo de 2007.- Visto: La ley N&#xBA; 18.059, los art&#xED;culos 113 y 118 de la ley N&#xBA; 18.290, de Tr&#xE1;nsito, el decreto supremo N&#xBA; 83/85 y sus modificaciones, del Ministerio de Transportes y Telecomunicaciones, relativo a Redes Viales B&#xE1;sicas; la resoluci&#xF3;n exenta N&#xBA; 347/87, y las resoluciones N&#xBA; 59/85 y 39/92, todas de la misma Secretar&#xED;a de Estado antes mencionada; la resoluci&#xF3;n exenta N&#xBA; 572, de 15 de marzo de 2007, de esta Secretar&#xED;a Regional Ministerial, y la dem&#xE1;s normativa vigente que resulte aplicable.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que mediante resoluci&#xF3;n exenta N&#xBA; 572, de 2007, ya citada en el Visto, se dispuso el cierre del tr&#xE1;nsito en Carmen y Sierra Bella, en tramo comprendido desde calles Maule y Placer, con ocasi&#xF3;n de trabajos del &quot;Corredor de Transporte P&#xFA;blico Avenida Las Industrias&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2.- Que, resulta necesario, para el adecuado desarrollo de la obra, extender el tramo mencionado.</div><div class=\"p\">&nbsp; &nbsp;  3.- Que, en consecuencia, existe una causa justificada en los t&#xE9;rminos del art&#xED;culo 118 de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 572 EXENTA, DE 2007</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 927 exenta.- Santiago, 14 de mayo de 2007.- Visto: La ley N&#xBA; 18.059, los art&#xED;culos 113 y 118 de la ley N&#xBA; 18.290, de Tr&#xE1;nsito, el decreto supremo N&#xBA; 83/85 y sus modificaciones, del Ministerio de Transportes y Telecomunicaciones, relativo a Redes Viales B&#xE1;sicas; la resoluci&#xF3;n exenta N&#xBA; 347/87, y las resoluciones N&#xBA; 59/85 y 39/92, todas de la misma Secretar&#xED;a de Estado antes mencionada; la resoluci&#xF3;n exenta N&#xBA; 572, de 15 de marzo de 2007, de esta Secretar&#xED;a Regional Ministerial, y la dem&#xE1;s normativa vigente que resulte aplicable.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que mediante resoluci&#xF3;n exenta N&#xBA; 572, de 2007, ya citada en el Visto, se dispuso el cierre del tr&#xE1;nsito en Carmen y Sierra Bella, en tramo comprendido desde calles Maule y Placer, con ocasi&#xF3;n de trabajos del &quot;Corredor de Transporte P&#xFA;blico Avenida Las Industrias&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2.- Que, resulta necesario, para el adecuado desarrollo de la obra, extender el tramo mencionado.</div><div class=\"p\">&nbsp; &nbsp;  3.- Que, en consecuencia, existe una causa justificada en los t&#xE9;rminos del art&#xED;culo 118 de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

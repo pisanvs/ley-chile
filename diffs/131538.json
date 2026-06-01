@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-02-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-12-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8642576,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA; Lo dispuesto en la presente resoluci&#xF3;n<span class=\"n\" id=\"n_0\">RES 1641 EXENTA,</span> no ser&#xE1; obligatorio en aquellos casos en que el&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TRANSPORTES concesionario respectivo aplique a sus usuarios<span class=\"n\" id=\"n_1\">D.O. 26.12.2006</span> modalidades de cobro totalmente independientes de la duraci&#xF3;n de las comunicaciones, tales como, tarifa plana, tarifa variable por n&#xFA;mero de comunicaciones, o tarifa asociada a suministro de capacidad.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

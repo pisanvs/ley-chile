@@ -1,0 +1,157 @@
+[
+  {
+    "fecha": "1974-07-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-04-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8256353,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- Para el Gobierno y la Administraci&#xF3;n Interiores del Estado, el territorio de la Rep&#xFA;blica se dividir&#xE1; en regiones y las regiones en provincias. Para los efectos de la Administraci&#xF3;n Local, las provincias se dividir&#xE1;n en comunas.</div><div class=\"p\">&nbsp; &nbsp; Sin perjuicio de lo anterior, podr&#xE1;n establecerse Areas Metropolitanas, de acuerdo con lo previsto en el art&#xED;culo 21.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;: Para el Gobierno y la Administraci&#xF3;n Interiores del Estado, el territorio de la Rep&#xFA;blica se dividir&#xE1; en regiones y las regiones en provincias. Para los efectos de la Administraci&#xF3;n Local, las provincias se dividir&#xE1;n en comunas.</div><div class=\"p\">&nbsp; &nbsp; Sin perjuicio de lo anterior, podr&#xE1;n establecerse Areas Metropolitanas, de acuerdo con lo previsto en el art&#xED;culo 21.</div><br></div>"
+        },
+        {
+          "part_id": 8256354,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.- La creaci&#xF3;n, modificaci&#xF3;n y supresi&#xF3;n de las regiones, provincias y comunas, ser&#xE1; materia de ley.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; La creaci&#xF3;n, modificaci&#xF3;n y suspresi&#xF3;n de las regiones, provincias y comunas, ser&#xE1; materia de ley.</div><br></div>"
+        },
+        {
+          "part_id": 8256355,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;- La ley, al determinar las regiones, deber&#xE1; propender a que cada una de ellas constituya una unidad territorial debidamente organizada que contemple todos los aspectos propios de una pol&#xED;tica de desarrollo econ&#xF3;mico, cultural, social y de seguridad nacional. Al efecto, deber&#xE1; considerar:</div><div class=\"p\">&nbsp; &nbsp; a) Un adecuado grado de descentralizaci&#xF3;n o desconcentraci&#xF3;n que tienda a facilitar el progreso de la Regi&#xF3;n dentro del proceso de desarrollo nacional;</div><div class=\"p\">&nbsp; &nbsp; b) Una efectiva coordinaci&#xF3;n de los diferentes organismos de los sectores p&#xFA;blicos y privados;</div><div class=\"p\">&nbsp; &nbsp; c) Una verdadera participaci&#xF3;n de las diversas formas de organizaci&#xF3;n de la poblaci&#xF3;n dentro de una estructura econ&#xF3;mico-social que asegure las iniciativas creadoras de sus habitantes, y</div><div class=\"p\">&nbsp; &nbsp; d) La fijaci&#xF3;n de l&#xED;mites territoriales comunes para el conjunto de los servicios p&#xFA;blicos de la respectiva Regi&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0; La ley, al determinar las regiones, deber&#xE1; propender a que cada una de ellas constituya una unidad territorial debidamente organizada que contemple todos los aspectos propios de una pol&#xED;tica de desarrollo econ&#xF3;mico, cultural, social y de seguridad nacional. Al efecto, deber&#xE1; considerar:</div><div class=\"p\">&nbsp; &nbsp; a) Un adecuado grado de descentralizaci&#xF3;n o desconcentraci&#xF3;n que tienda a facilitar el progreso de la Regi&#xF3;n dentro del proceso de desarrollo nacional.</div><div class=\"p\">&nbsp; &nbsp; b) Una efectiva coordinaci&#xF3;n de los diferentes organismos de los sectores p&#xFA;blicos y privados;</div><div class=\"p\">&nbsp; &nbsp; c) Una verdadera participaci&#xF3;n de las diversas formas de organizaci&#xF3;n de la poblaci&#xF3;n dentro de una estructura econ&#xF3;mico-social que asegure las iniciativas creadoras de sus habitantes, y</div><div class=\"p\">&nbsp; &nbsp; d) La fijaci&#xF3;n de l&#xED;mites territoriales comunes para el conjunto de los servicios p&#xFA;blicos de la respectiva Regi&#xF3;n.</div></div>"
+        },
+        {
+          "part_id": 8256357,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;- El Gobierno y la Administraci&#xF3;n superiores de cada Regi&#xF3;n residen en un Intendente Regional, quien los ejercer&#xE1; con arreglo a las leyes y a las &#xF3;rdenes e instrucciones del Poder Ejecutivo, de quien es agente natural e inmediato en el territorio de su jurisdicci&#xF3;n, y permanecer&#xE1; en su cargo mientras cuente con la confianza del Jefe Supremo de la Naci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; La ciudad capital de la Regi&#xF3;n ser&#xE1; determinada por ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0; El Gobierno y la Administraci&#xF3;n superiores de cada Regi&#xF3;n residen en un Intendente Regional, quien los ejercer&#xE1; con arreglo a las leyes y a las &#xF3;rdenes e instrucciones del Poder Ejecutivo, de quien es agente natural e inmediato en el territorio de su jurisdicci&#xF3;n, y permanecer&#xE1; en su cargo mientras cuente con la confianza del Jefe Supremo de la Naci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; La ciudad capital de la Regi&#xF3;n ser&#xE1; determinada por ley.</div></div>"
+        },
+        {
+          "part_id": 8256358,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;- Corresponder&#xE1; al Intendente Regional formular y llevar a cabo las pol&#xED;ticas y planes de desarrollo regional de los organismos del Estado y promover la acci&#xF3;n del sector privado que favorezca ese desarrollo; aprobar el presupuesto regional y establecer prioridades en los programas y proyectos espec&#xED;ficos. La ley determinar&#xE1; la forma en que el Intendente Regional ejercer&#xE1; estas facultades y la superior direcci&#xF3;n que, para estos efectos, le corresponder&#xE1; sobre todos los servicios de la Administraci&#xF3;n del Estado de car&#xE1;cter civil existentes en la Regi&#xF3;n. Le corresponder&#xE1;, en todo caso, ejercer la supervigilancia y fiscalizaci&#xF3;n de los mismos servicios, y velar por su debida coordinaci&#xF3;n. Este precepto no se aplicar&#xE1; a la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; La ley determinar&#xE1; las dem&#xE1;s atribuciones del Intendente Regional.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0; Corresponder&#xE1; al Intendente Regional formular y llevar a cabo las pol&#xED;ticas y planes de desarrollo regional de los organismos del Estado y promover la acci&#xF3;n del sector privado que favorezca ese desarrollo; aprobar el presupuesto regional y establecer prioridades en los programas y proyectos espec&#xED;ficos. La ley determinar&#xE1; la forma en que el Intendente Regional ejercer&#xE1; estas facultades y la superior direcci&#xF3;n que, para estos efectos, le corresponder&#xE1; sobre todos los servicios de la Administraci&#xF3;n del Estado de car&#xE1;cter civil existentes en la Regi&#xF3;n. Le corresponder&#xE1;, en todo caso, ejercer la supervigilancia y fiscalizaci&#xF3;n de los mismos servicios, y velar por su debida coordinaci&#xF3;n. Este precepto no se aplicar&#xE1; a la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; La ley determinar&#xE1; las dem&#xE1;s atribuciones del Intendente Regional.</div></div>"
+        },
+        {
+          "part_id": 8256359,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;- El Intendente Regional, en los casos y formas que determine la ley, podr&#xE1; delegar facultades espec&#xED;ficas en otras autoridades de la Regi&#xF3;n para fines administrativos, de desarrollo y de coordinaci&#xF3;n de dos o m&#xE1;s provincias.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0; El Intendente Regional, en los casos y formas que determine la ley, podr&#xE1; delegar facultades espec&#xED;ficas en otras autoridades de la Regi&#xF3;n para fines administrativos, de desarrollo y de coordinaci&#xF3;n de dos o m&#xE1;s provincias.</div></div>"
+        },
+        {
+          "part_id": 8256360,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;- En cada Regi&#xF3;n habr&#xE1; un Consejo Regional de Desarrollo, presidido por el Intendente Regional, e integrado por los Gobernadores Provinciales de la Regi&#xF3;n y por representantes de las principales actividades, organismos e instituciones publicas y privadas del &#xE1;rea territorial correspondiente.</div><div class=\"p\">&nbsp; &nbsp; Las normas generales sobre organizaci&#xF3;n y funcionamiento de este Consejo ser&#xE1;n determinadas por ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0; DEROGADO.<span class=\"n\" id=\"n_0\">LEY 18.605<br>ART FINAL</span></div><br></div>"
+        },
+        {
+          "part_id": 8256361,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;- Al Consejo Regional de Desarrollo corresponder&#xE1; participar en el estudio y aprobaci&#xF3;n de las pol&#xED;ticas y planes de desarrollo de las respectivas Regiones y en la aprobaci&#xF3;n de los presupuestos regionales, en la forma que determine la ley. Actuar&#xE1; como &#xF3;rgano asesor del Intendente Regional y podr&#xE1; tener facultades decisorias, en los casos y forma que la ley establezca.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0; DEROGADO.-<span class=\"n\" id=\"n_1\">LEY 18.605<br>ART FINAL</span></div><br></div>"
+        },
+        {
+          "part_id": 8256362,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;- En cada Regi&#xF3;n habr&#xE1; una Secretar&#xED;a Regional de Planificaci&#xF3;n y Coordinaci&#xF3;n, integrada al sistema nacional de planificaci&#xF3;n, la que servir&#xE1; de organismo asesor y de secretar&#xED;a t&#xE9;cnica del Intendente Regional y del Consejo Regional de Desarrollo, con las facultades y deberes que se&#xF1;ale la ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0; En cada Regi&#xF3;n habr&#xE1; una Secretar&#xED;a Regional de Planificaci&#xF3;n y Coordinaci&#xF3;n, integrada al sistema nacional de planificaci&#xF3;n, la que servir&#xE1; de organismo asesor y de secretar&#xED;a del Intendente Regional y del Consejo Regional de Desarrollo, con las facultades y deberes que se&#xF1;ale la ley.</div></div>"
+        },
+        {
+          "part_id": 8256363,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;- La ley contemplar&#xE1; la desconcentraci&#xF3;n regional de los Ministerios y de los servicios p&#xFA;blicos y los procedimientos que permitan asegurar su debida coordinaci&#xF3;n y faciliten el ejercicio de las facultades de las autoridades regionales. Sin embargo, podr&#xE1; establecer excepciones a esta norma. Contemplar&#xE1;, asimismo, una participaci&#xF3;n efectiva de las regiones en la asignaci&#xF3;n de los recursos p&#xFA;blicos y las dotar&#xE1; de facultades suficientes para su administraci&#xF3;n financiera.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0; La ley contemplar&#xE1; la desconcentraci&#xF3;n regional de los Ministerios y de los servicios p&#xFA;blicos y los procedimientos que permitan asegurar su debida coordinaci&#xF3;n y faciliten el ejercicio de las facultades de las autoridades regionales. Sin embargo, podr&#xE1; establecer excepciones a esta norma.</div><div class=\"p\">&nbsp; &nbsp; Contemplar&#xE1;, asimismo, una participaci&#xF3;n efectiva de las regiones en la asignaci&#xF3;n de los recursos p&#xFA;blicos y las dotar&#xE1; de facultades suficientes para su administraci&#xF3;n financiera.</div></div>"
+        },
+        {
+          "part_id": 8256366,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12&#xB0;- Corresponder&#xE1; al Gobernador Provincial fiscalizar la ejecuci&#xF3;n de los planes, programas y proyectos de desarrollo de las provincias. Le corresponder&#xE1;, tambi&#xE9;n, la fiscalizaci&#xF3;n de los servicios p&#xFA;blicos de la provincia, velar por la debida coordinaci&#xF3;n de los mismos y concertar acciones con los municipios de la provincia o con otras instituciones p&#xFA;blicas o privadas.</div><div class=\"p\">&nbsp; &nbsp; La ley determinar&#xE1; las dem&#xE1;s atribuciones del Gobernador Provincial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12. Corresponder&#xE1; al Gobernador Provincial fiscalizar la ejecuci&#xF3;n de los planes, programas y proyectos de desarrollo de las provincias. Les corresponder&#xE1;, tambi&#xE9;n, la fiscalizaci&#xF3;n de los servicios p&#xFA;blicos de la provincia, velar por la debida coordinaci&#xF3;n de los mismos y concertar acciones con los municipios de la provincia o con otras instituciones p&#xFA;blicas o privada.</div><div class=\"p\">&nbsp; &nbsp; La ley determinar&#xE1; las dem&#xE1;s atribuciones del Gobernador Provincial.</div></div>"
+        },
+        {
+          "part_id": 8256367,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0;- Los Gobernadores Provinciales, en los casos y formas que determine la ley, podr&#xE1;n delegar facultades espec&#xED;ficas en otras autoridades de la provincia para el gobierno o administraci&#xF3;n de determinadas localidades por razones de aislamiento geogr&#xE1;fico o por otras circunstancias calificadas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13. Los Gobernadores Provinciales, en los casos y formas que determine la ley, podr&#xE1;n delegar facultades espec&#xED;ficas en otras autoridades de la provincia para el gobierno o administraci&#xF3;n de determinadas localidades por razones de aislamiento geogr&#xE1;fico o por otras circunstancias calificadas. </div></div>"
+        },
+        {
+          "part_id": 8256368,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14&#xB0;- La administraci&#xF3;n de los intereses locales en cada comuna o agrupaci&#xF3;n de comunas, ser&#xE1; de competencia de las municipalidades.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14. La administraci&#xF3;n de los intereses locales en cada comuna o agrupaci&#xF3;n de comunas, ser&#xE1; de competencia de las municipalidades.</div></div>"
+        },
+        {
+          "part_id": 8256370,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 15&#xB0;- Las municipalidades son instituciones de derecho p&#xFA;blico funci&#xF3;nal y territorialmente descentralizadas, cuyo cometido es dar satisfacci&#xF3;n a las necesidades de la comunidad local y, en especial, participar en la planificaci&#xF3;n y ejecuci&#xF3;n del desarrollo econ&#xF3;mico y social de la comuna o agrupaci&#xF3;n de comunas, sea actuando separadamente o coordinando su acci&#xF3;n con otros municipios o con los dem&#xE1;s servicios p&#xFA;blicos y organizaciones del sector privado.</div><div class=\"p\">&nbsp; &nbsp; Les corresponder&#xE1; privativamente:</div><div class=\"p\">&nbsp; &nbsp; a) Elaborar los planes de desarrollo local y fiscalizar su cumplimiento, en la forma que regule la ley;</div><div class=\"p\">&nbsp; &nbsp; b) Administrar los bienes nacionales de uso p&#xFA;blico de inter&#xE9;s local existentes en la comuna, seg&#xFA;n lo regule la ley, salvo en los casos en que &#xE9;sta, por razones de superior inter&#xE9;s nacional, disponga un r&#xE9;gimen diferente;</div><div class=\"p\">&nbsp; &nbsp; c) Aplicar las normas de transporte y tr&#xE1;nsito p&#xFA;blico dentro de la comuna, seg&#xFA;n lo regule la ley;</div><div class=\"p\">&nbsp; &nbsp; d) Cuidar del aseo y ornato de la comuna, y</div><div class=\"p\">&nbsp; &nbsp; e) Aplicar las normas de construcci&#xF3;n y urbanizaci&#xF3;n en la comuna, sin perjuicio de la supervigilancia que corresponda a otros organismos del Estado.</div><div class=\"p\">&nbsp; &nbsp; Las Municipalidades tendr&#xE1;n las dem&#xE1;s atribuciones que determine la ley.</div><div class=\"p\">&nbsp; &nbsp; El ejercicio de las facultades a que se refiere este art&#xED;culo deber&#xE1; ajustarse a los planes nacionales y regionales de desarrollo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 15. Las municipalidades son instituciones de derecho p&#xFA;blico funcional y territorialmente descentralizadas, cuyo cometido es dar satisfacci&#xF3;n a las necesidades de la comunidad local y, en especial, participar en la planificaci&#xF3;n y ejecuci&#xF3;n del desarrollo econ&#xF3;mico y social de la comuna o agrupaci&#xF3;n de comunas, sea actuando separadamente o coordinando su acci&#xF3;n con otros municipios o con los dem&#xE1;s servicios p&#xFA;blicos y organizaciones del sector privado.</div><div class=\"p\">&nbsp; &nbsp; Le corresponder&#xE1; privativamente:</div><div class=\"p\">&nbsp; &nbsp; a) Elaborar los planes de desarrollo local y fiscalizar su cumplimiento, en la forma que regule la ley;</div><div class=\"p\">&nbsp; &nbsp; b) Administrar los bienes nacionales de uso p&#xFA;blico de intrer&#xE9;s local existentes en la comuna, seg&#xFA;n lo regule la ley, salvo en los casos en que &#xE9;sta, por razones de superior inter&#xE9;s nacional, disponga un r&#xE9;gimen diferente;</div><div class=\"p\">&nbsp; &nbsp; c) Aplicar las normas de transporte y tr&#xE1;nsito p&#xFA;blico dentro de la comuna, seg&#xFA;n lo regule la ley;</div><div class=\"p\">&nbsp; &nbsp; d) Cuidar del aseo y ornato de la comuna, y</div><div class=\"p\">&nbsp; &nbsp; e) Aplicar las normas de construcci&#xF3;n y urbanizaci&#xF3;n en la comuna, sin perjuicio de la supervigilancia que corresponda a otros organismos del Estado.</div><div class=\"p\">&nbsp; &nbsp; Las Municipalidades tendr&#xE1;n las dem&#xE1;s atribuciones que determine la ley.</div><div class=\"p\">&nbsp; &nbsp; El ejercicio de las facultades a que se refiere este art&#xED;culo deber&#xE1; ajustarse a los planes nacionales y regionales de desarrollo.</div></div>"
+        },
+        {
+          "part_id": 8256371,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16&#xB0;- La autoridad superior de la Municipalidad es el Alcalde, quien ser&#xE1; designado por el Jefe Supremo de la Naci&#xF3;n, oyendo al Intendente Regional, y permanecer&#xE1; en el cargo mientras cuente con la confianza de aqu&#xE9;l.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16. La autoridad superior de la Municipalidad es el Alcalde, quien ser&#xE1; designado por el Jefe Supremo de la Naci&#xF3;n, oyendo al Intendente Regional, y permanecer&#xE1; en el cargo mientras cuente con la confianza de aqu&#xE9;l.</div></div>"
+        },
+        {
+          "part_id": 8256372,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 17&#xB0;- En cada Municipalidad habr&#xE1; un Consejo de Desarrollo Comunal, presidido por el Alcalde e integrado por jefes de oficinas municipales y por representantes de las principales actividades de la comuna. Las normas generales sobre funcionamiento de este Consejo ser&#xE1;n determinadas por ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 17. En cada Municipalidad habr&#xE1; un Consejo de Desarrollo Comunal, presidido por el Alcalde e integrado por jefes de oficinas municipales y por representantes de las principales actividades de la comuna. Las normas generales sobre funcionamiento de este Consejo ser&#xE1;n determinadas por ley.</div></div>"
+        },
+        {
+          "part_id": 8256373,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 18&#xB0;- Corresponder&#xE1; al Consejo de Desarrollo Comunal ejercer las atribuciones decisorias o consultivas que se&#xF1;ale la ley, y primordialmente, participar en la aprobaci&#xF3;n de las pol&#xED;ticas, planes y programas de desarrollo de la comuna.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 18. Corresponder&#xE1; al Consejo de Desarrollo Comunal ejercer las atribuciones decisorias o consultivas que se&#xF1;ale la ley, y, primordialmente, participar en la aprobaci&#xF3;n de las pol&#xED;ticas, planes y programas de desarrollo de la comuna.</div></div>"
+        },
+        {
+          "part_id": 8256374,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 19&#xB0;- Habr&#xE1; Oficinas Comunales de Planificaci&#xF3;n y Coordinaci&#xF3;n, integradas al sistema nacional de planificaci&#xF3;n, que servir&#xE1;n de organismos asesor y de secretar&#xED;a t&#xE9;cnica del Alcalde y del Consejo de Desarrollo Comunal. Estas oficinas podr&#xE1;n prestar asesor&#xED;a a una o varias Municipalidades y tendr&#xE1;n las atribuciones y deberes que establezca la ley. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 19. Habr&#xE1; Oficinas Comunales de Planificaci&#xF3;n y Coordinaci&#xF3;n, integradas al sistema nacional de planificaci&#xF3;n, que servir&#xE1;n de organismos asesor y de secretar&#xED;a t&#xE9;cnica del Alcalde y del Consejo de Desarrollo Comunal. Estas oficinas podr&#xE1;n prestar asesor&#xED;a a una o varias Municipalidades y tendr&#xE1;n las atribuciones y deberes que establezca la ley.</div></div>"
+        },
+        {
+          "part_id": 8256375,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 20&#xB0;- La ley asegurar&#xE1; una participaci&#xF3;n efectiva de las Municipalidades en los recursos p&#xFA;blicos y las dotar&#xE1; de facultades suficientes para su administraci&#xF3;n financiera.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 20. La ley asegurar&#xE1; una participaci&#xF3;n efectiva de las Municipalidades en los recursos p&#xFA;blicos y las dotar&#xE1; de facultades suficientes para su administraci&#xF3;n financiera.</div></div>"
+        },
+        {
+          "part_id": 8256376,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 21&#xB0;- La ley podr&#xE1; definir y fijar &#xE1;reas metropolitanas, y establecer para ellas reg&#xED;menes especiales de Gobierno y Administraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Estos reg&#xED;menes comprender&#xE1;n la planificaci&#xF3;n integral del desarrollo metropolitano y la coordinaci&#xF3;n de las inversiones y de los servicios estatales y municipales que existen en el &#xE1;rea.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 21. La ley podr&#xE1; definir y fijar &#xE1;reas metropolitanas, y establecer para ellas reg&#xED;menes especiales de Gobierno y Administraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Estos reg&#xED;menes comprender&#xE1;n la planificaci&#xF3;n integral del desarrollo metropolitano y la coordinaci&#xF3;n de las inversiones y de los servicios estatales y municipales que existan en el &#xE1;rea.</div></div>"
+        },
+        {
+          "part_id": 8256378,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 22.- La ley establecer&#xE1; las formas de organizaci&#xF3;n, atribuciones y funciones espec&#xED;ficas que corresponder&#xE1;n a la autoridad superior metropolitana, y deber&#xE1; considerar al efecto, una adecuada participaci&#xF3;n de las autoridades municipales respectivas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 22. La ley establecer&#xE1; las formas de organizaci&#xF3;n, atribuciones y funciones espec&#xED;ficas que corresponder&#xE1;n a la autoridad superior metropolitana, y deber&#xE1; considerar, al efecto, una adecuada participaci&#xF3;n de las autoridades municipales respectivas.</div></div>"
+        },
+        {
+          "part_id": 8256379,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 23&#xB0;- El Poder Ejecutivo tendr&#xE1; las facultades de supervigilancia que determine la ley, sobre todas las autoridades y organismos regionales, provinciales, comunales y metropolitanas, para asegurar el cumplimiento de las pol&#xED;ticas y planes de desarrollo nacional.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 23. El Poder Ejecutivo tendr&#xE1; las facultades de supervigilancia que determine la ley, sobre todas las autoridades y organismos regionales, provinciales, comunales y metropolitanas, para asegurar el cumplimiento de las pol&#xED;ticas y planes de desarrollo nacional.</div></div>"
+        },
+        {
+          "part_id": 8256381,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 24&#xB0;- La ley dictar&#xE1; las normas y determinar&#xE1; los organismos para resolver las cuestiones de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales, comunales y metropolitanas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 24. La ley dictar&#xE1; las normas y determinar&#xE1; los organismos para resolver las cuestiones de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales, comunales y metropolitanas.</div></div>"
+        },
+        {
+          "part_id": 8256382,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 25&#xB0;- El cargo titular de Intendente Regional es incompatible con el de Gobernador Provincial y con el de Alcalde.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 25. El cargo titular de Intendente Regional es incompatible con el de Gobernador Provincial y con el de Alcalde.</div></div>"
+        },
+        {
+          "part_id": 8256383,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 26&#xB0;- Cuando una o m&#xE1;s regiones del pa&#xED;s o parte de ellas deban quedar, de acuerdo con las normas jur&#xED;dicas de excepci&#xF3;n, bajo la dependencia inmediata de una autoridad militar, las respectivas autoridades administrativas civiles quedar&#xE1;n sujetas a dicha dependencia respecto del ejercicio de sus atribuciones propias en aquellas materias y en los casos y forma que la ley se&#xF1;ale como de la competencia de la autoridad militar.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 26. Cuando una o m&#xE1;s regiones del pa&#xED;s o parte de ellas deban quedar, de acuerdo con las normas jur&#xED;dicas de excepci&#xF3;n, bajo la dependencia inmediata de una autoridad militar, las respectivas autoridades administrativas civiles quedar&#xE1;n sujetas a dicha dependencia respecto del ejercicio de sus atribuciones propias en aquellas materias y en los casos y forma que la ley se&#xF1;ale como de la competencia de la autoridad militar.</div></div>"
+        },
+        {
+          "part_id": 8256384,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- El proceso de regionalizaci&#xF3;n del pa&#xED;s podr&#xE1; realizarse gradualmente. Para este efecto, las leyes, reglamentos e instrucciones confiar&#xE1;n a las nuevas autoridades y organismos regionales, provinciales, comunales y metropolitanas, las atribuciones de Gobierno y Administraci&#xF3;n previstas en el presente Estatuto, estableciendo la cesaci&#xF3;n o traspaso de las facultades que ejerzan en ese momento otras autoridades y organismos.</div><div class=\"p\">&nbsp; &nbsp; Mientras no se dicten las leyes previstas en este Estatuto, continuar&#xE1;n vigentes, en cuanto no sean modificadas espec&#xED;ficamente, la actual divisi&#xF3;n territorial del pa&#xED;s, su sistema de Gobierno y Administraci&#xF3;n interiores y la organizaci&#xF3;n y competencia territorial de los Tribunales de Justicia. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; El proceso de regionalizaci&#xF3;n del pa&#xED;s podr&#xE1; realizarse gradualmente. Para este efecto, las leyes, reglamentos e instrucciones confiar&#xE1;n a las nuevas autoridades y organismos regionales, provinciales, comunales y metropolitanas, las atribuciones de Gobierno y Administraci&#xF3;n previstas en el presente Estatuto, estableciendo la cesaci&#xF3;n o traspaso de las facultades que ejerzan en ese momento otra autoridades y organismos.</div><div class=\"p\">&nbsp; &nbsp; Mientras no se dicten las leyes previstas en este Estatuto, continuar&#xE1;n vigentes, en cuanto no sean modificadas espec&#xED;ficamente, la actual divisi&#xF3;n territorial del pa&#xED;s, su sistema de Gobierno y Administraci&#xF3;n interiores y la organizaci&#xF3;n y competencia territorial de los Tribunales de Justicia. </div></div>"
+        },
+        {
+          "part_id": 8256386,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- En las ciudades capitales de regiones que no entren a&#xFA;n en vigencia podr&#xE1;n nombrarse Gobernadores de departamento distintos a los Intendentes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; En las ciudades capitales de regiones que no entren a&#xFA;n en vigencia podr&#xE1;n nombrarse Gobernadores de departamento distintos a los Intendentes.</div></div>"
+        },
+        {
+          "part_id": 8256387,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Junta de Gobierno, Jefe Supremo de la Naci&#xF3;n.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea.- CESAR MENDOZA DURAN, General, General Director de Carabineros.- Oscar Bonilla Bradanovic, General de Divisi&#xF3;n, Ministro del Interior.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Enrique Montero Marx, Subsecretario del Interior. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a .- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Junta de Gobierno, Jefe Supremo de la Naci&#xF3;n.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea.- CESAR MENDOZA DURAN, General, Director de Carabineros.-Oscar Bonilla Bradanovic, General de Divisi&#xF3;n, Ministro del Interior.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

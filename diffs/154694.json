@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-09-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7260630,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD CHAPARRAL S.A. PARA CONTINUAR DESARROLLANDO ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD CHAPARRAL S.A. PARA CONTINUAR DESARROLLANDO ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

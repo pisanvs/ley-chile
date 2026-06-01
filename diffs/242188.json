@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2005-09-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-09-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6540682,
+          "old": "<div><div class=\"p\">INFORMA SOBRE LAS COLOCACIONES Y DEMAS ACTIVOS DE LAS INSTITUCIONES FISCALIZADAS, SU CLASIFICACION Y EVALUACION CONFORME A SU GRADO DE RECUPERABILIDAD </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 126.- Santiago, 14 de septiembre de 2005.- Visto: 1&#xBA; Lo dispuesto en el art&#xED;culo 14, inciso segundo, de la Ley General de Bancos, referente a la obligaci&#xF3;n de esta Superintendencia de dar a conocer al p&#xFA;blico informaci&#xF3;n sobre las colocaciones y dem&#xE1;s activos de las instituciones fiscalizadas, su clasificaci&#xF3;n y evaluaci&#xF3;n conforme a su grado de recuperabilidad.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">INFORMA SOBRE LAS COLOCACIONES Y DEMAS ACTIVOS DE LAS INSTITUCIONES FISCALIZADAS, SU CLASIFICACION Y EVALUACION CONFORME A SU GRADO DE RECUPERABILIDAD </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 126.- Santiago, 14 de septiembre de 2005.- Visto: 1&#xBA; Lo dispuesto en el art&#xED;culo 14, inciso segundo, de la Ley General de Bancos, referente a la obligaci&#xF3;n de esta Superintendencia de dar a conocer al p&#xFA;blico informaci&#xF3;n sobre las colocaciones y dem&#xE1;s activos de las instituciones fiscalizadas, su clasificaci&#xF3;n y evaluaci&#xF3;n conforme a su grado de recuperabilidad.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        },
+        {
+          "part_id": 6540684,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Gustavo Morales Arriagada</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Superintendente de Bancos e</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Instituciones Financieras</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Gustavo Arriagada Morales<span class=\"n\" id=\"n_0\">RECTIFICACION</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Superintendente de Bancos e&nbsp; &nbsp;  D.O. 22.09.2005</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Instituciones Financieras.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2021-10-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10277367,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaci&#xF3;n para el a&#xF1;o 2021 y siguientes, en la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, para la adquisici&#xF3;n de los lotes ubicados en la comuna de Rancagua, a ser destinados a la ejecuci&#xF3;n del proyecto &quot;Ampliaci&#xF3;n de Avenida Baquedano, Rancagua&quot;, C&#xF3;digo BIP N&#xBA; 30118748-0, seg&#xFA;n el plano &quot;Estudio de Ingenier&#xED;a de Detalles Ampliaci&#xF3;n Avenida Baquedano, comuna de Rancagua, L&#xE1;mina 1 de 1&quot;, a escala 1:500, de febrero de 2021, debidamente aprobados por el Servicio de Vivienda y Urbanizaci&#xF3;n de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, cuya finalidad es generar una conexi&#xF3;n expedita y de alto est&#xE1;ndar entre el sector poniente de la comuna de Rancagua y el centro de esta, mejorando el atravieso ferroviario existente, y que se singularizan a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/133499.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie aproximada inmuebles a expropiar: 1.476,91 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Cachapoal, si lo hubiere.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaci&#xF3;n para el a&#xF1;o 2021 y siguientes, en la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, para la adquisici&#xF3;n de los lotes ubicados en la comuna de Rancagua, a ser destinados a la ejecuci&#xF3;n del proyecto &quot;Ampliaci&#xF3;n de Avenida Baquedano, Rancagua&quot;, C&#xF3;digo BIP N&#xBA; 30118748-0, seg&#xFA;n el plano &quot;Estudio de Ingenier&#xED;a de Detalles Ampliaci&#xF3;n Avenida Baquedano, comuna de Rancagua, L&#xE1;mina 1 de 1&quot;, a escala 1:500, de febrero de 2021, debidamente aprobados por el Servicio de Vivienda y Urbanizaci&#xF3;n de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, cuya finalidad es generar una conexi&#xF3;n expedita y de alto est&#xE1;ndar entre el sector poniente de la comuna de Rancagua y el centro de esta, mejorando el atravieso ferroviario existente, y que se singularizan a continuaci&#xF3;na<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/133499.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie aproximada inmuebles a expropiar: 1.476,91 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Cachapoal, si lo hubiere.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Las letras a) y b) del numeral 1&#xB0; del Decreto 48 Exento, Vivienda, publicado el 19.12.2023, modifica y elimina lotes del programa de expropiaci&#xF3;n denominado &quot;Ampliaci&#xF3;n Avenida Baquedano&quot;, de la comuna de Rancagua, Regi&#xF3;n de O&apos;Higgins de la manera de que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

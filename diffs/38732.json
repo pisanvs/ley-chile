@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-12-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-03-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949446,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Modif&#xED;case la Resoluci&#xF3;n exenta N&#xB0; 281 del 25 de octubre de 1996 de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones V Regi&#xF3;n, en los siguientes t&#xE9;rminos:</div><div class=\"p\">&nbsp; &nbsp; 1.- Se establece el 15 de febrero de 1997, como fecha a contar de la cual se har&#xE1; exigible para las provincias de Valpara&#xED;so, Quillota, San Felipe, Los Andes y San Antonio de la V Regi&#xF3;n, la obligatoriedad de que los taxis colectivos de servicios rurales est&#xE9;n pintados de color amarillo, de acuerdo a lo indicado en el art&#xED;culo 76 del D.S. N&#xB0; 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><div class=\"p\">&nbsp; &nbsp; 2.- Para la provincia de Petorca de la V Regi&#xF3;n, la fecha de exigencia del color se&#xF1;alado en el numeral 1.- precedente, ser&#xE1; a contar del 15 de marzo de 1997. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Modif&#xED;case la Resoluci&#xF3;n exenta N&#xB0; 281 del 25 de octubre de 1996 de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones V Regi&#xF3;n, en los siguientes t&#xE9;rminos:</div><div class=\"p\">&nbsp; &nbsp; 1.- Se establece el 15 de febrero de 1997, como fecha a contar de la cual se har&#xE1; exigible para las provincias de Valpara&#xED;so, Quillota, San Felipe, Los Andes y San Antonio de la V Regi&#xF3;n, la obligatoriedad de que los taxis colectivos de servicios rurales est&#xE9;n pintados de color amarillo, de acuerdo a lo indicado en el art&#xED;culo 76 del D.S. N&#xB0; 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><div class=\"p\">&nbsp;  2.- Se establece el 15 de Octubre de 1997, como fecha&nbsp; RES 16<span class=\"n\" id=\"n_0\">EXENTA<br>TRANSPORTES<br>SEREMI V REG.<br>D.O.13.03.1997</span> a contar de la cual se har&#xE1; exigible para la provincia de Petorca de la V Regi&#xF3;n, la obligatoriedad que los taxis colectivos de servicios rurales est&#xE9;n pintados de color amarillo, de acuerdo a lo indicado en el art&#xED;culo 76 del D.S. N&#xB0; 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

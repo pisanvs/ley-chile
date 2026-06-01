@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-01-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6145571,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo noveno bis: El factor de las tasas para el<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> c&#xE1;lculo de las patentes comerciales de la comuna, ser&#xE1; el siguiente: dos y medio por mil del capital propio de cada contribuyente.</div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 2 del DTO 633, Municipalidad de Zapallar, publicado el 19.05.2001, dispuso que la presente modificaci&#xF3;n empezar&#xE1; a regir desde el a&#xF1;o calendario 2002. </div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-06-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5942381,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO N&#xB0; 178 EXENTO, DE 1994 </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO N&#xB0; 178 EXENTO, DE 1994 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

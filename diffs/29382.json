@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1973-06-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8571492,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 42.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que en el plazo de 120 d&#xED;as, contado desde la fecha de publicaci&#xF3;n de la presente ley, proceda a dictar un nuevo texto de la ley N&#xB0;. 12.120 sobre Impuesto a las Compraventas y Servicios, que contenga las modificaciones a dicha tributaci&#xF3;n vigente hasta la fecha de su dictaci&#xF3;n, sea que emanen de disposiciones legislativas o del ejercicio de facultades otorgadas al Presidente de la Rep&#xFA;blica en la presente ley o en leyes anteriores, como es el caso de las se&#xF1;aladas en el n&#xFA;mero 32 del art&#xED;culo 218 de la ley N&#xB0;.</div><div class=\"p\">16.840, y en el art&#xED;culo 97 de la ley N&#xB0;. 17.654.</div><div class=\"p\">&nbsp; &nbsp; En uso de esta facultad, el Presidente de la Rep&#xFA;blica podr&#xE1; actualizar referencias y citas legales, sistematizar y coordinar las disposiciones, titulaci&#xF3;n y articulado de la mencionada ley, e introducir las modificaciones que sean necesarias para crear un cuerpo legal org&#xE1;nico y sistematizado, con las solas excepciones de no poder alterar el hecho gravado, la base imponible, el sujeto del impuesto y las tasas del mismo, ni modificar las actuales exenciones.</div><div class=\"p\">&nbsp; &nbsp; Se declara que la incorporaci&#xF3;n a la Ley de Impuesto a las Compraventas y Servicios de las disposiciones contenidas en los decretos con fuerza de ley dictados en uso de la facultad contenida en el art&#xED;culo 97 de la ley N.o 17.654, no afecta el tratamiento tributario que en dichos decretos con fuerza de ley se establece respecto de los productos importados, los que se entender&#xE1;n vigentes a este respecto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 42.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que en el plazo de 120 d&#xED;as, contado desde la fecha de publicaci&#xF3;n de la presente ley, proceda a dictar un nuevo texto de la ley N&#xB0;. 12.120 sobre Impuesto a las Compraventas y Servicios, que contenga las modificaciones a dicha tributaci&#xF3;n vigente hasta la fecha de su dictaci&#xF3;n, sea que emanen de disposiciones legislativas o del ejercicio de facultades otorgadas al Presidente de la Rep&#xFA;blica en la presente ley o en leyes anteriores, como es el caso de las se&#xF1;aladas en el n&#xFA;mero 32 del art&#xED;culo 218 de la ley N&#xB0;. 16.840, y en el art&#xED;culo 97 de la ley N&#xB0;. 17.654.</div><div class=\"p\">&nbsp; &nbsp; En uso de esta facultad, el Presidente de la Rep&#xFA;blica podr&#xE1; actualizar referencias y citas legales, sistematizar y coordinar las disposiciones, titulaci&#xF3;n y articulado de la mencionada ley, e introducir las modificaciones que sean necesarias para crear un cuerpo legal org&#xE1;nico y sistematizado, con las solas excepciones de no poder alterar el hecho gravado, la base imponible, el sujeto del impuesto y las tasas del mismo, ni modificar las actuales exenciones.</div><div class=\"p\">&nbsp; &nbsp; INCISO TERCERO DEROGADO<span class=\"n\" id=\"n_0\">DL 292, HACIENDA<br>Art. 29 N&#xBA; 4<br>D.O. 30.01.1974</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

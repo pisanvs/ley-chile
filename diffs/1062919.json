@@ -1,0 +1,71 @@
+[
+  {
+    "fecha": "2014-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-02-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9477396,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.&nbsp; Susp&#xE9;ndese la aplicaci&#xF3;n de la prohibici&#xF3;n dispuesta mediante <a href=\"https://www.leychile.cl/Navegar?idNorma=1056491&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n del Servicio N&#xBA; 6.972 de 2013</a>, por un periodo de 6 meses.</div><div class=\"p\">&nbsp; &nbsp;  2.&nbsp; Proh&#xED;bese la aplicaci&#xF3;n y uso de sustancias anabolizantes con fines de promoci&#xF3;n del crecimiento en bovinos que se cr&#xED;an en la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1074661&amp;idParte=9562625&amp;idVersion=2015-02-11\">Resoluci&#xF3;n 661 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 11.02.2015</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Susp&#xE9;ndese la aplicaci&#xF3;n de la prohibici&#xF3;n dispuesta por la resoluci&#xF3;n N&#xBA; 6.972, de 2013, de este Servicio, hasta el 30 de septiembre de 2015.</div><div class=\"p\">&nbsp; &nbsp;  2.&nbsp; Proh&#xED;bese la aplicaci&#xF3;n y uso de sustancias anabolizantes con fines de promoci&#xF3;n del crecimiento en bovinos que se cr&#xED;an en la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-10-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9477396,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1074661&amp;idParte=9562625&amp;idVersion=2015-02-11\">Resoluci&#xF3;n 661 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 11.02.2015</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Susp&#xE9;ndese la aplicaci&#xF3;n de la prohibici&#xF3;n dispuesta por la resoluci&#xF3;n N&#xBA; 6.972, de 2013, de este Servicio, hasta el 30 de septiembre de 2015.</div><div class=\"p\">&nbsp; &nbsp;  2.&nbsp; Proh&#xED;bese la aplicaci&#xF3;n y uso de sustancias anabolizantes con fines de promoci&#xF3;n del crecimiento en bovinos que se cr&#xED;an en la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.&nbsp; Susp&#xE9;ndese la <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1083058&amp;idParte=9643475&amp;idVersion=2015-10-23\">Resoluci&#xF3;n 7787 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 23.10.2015</a></span>aplicaci&#xF3;n de la prohibici&#xF3;n dispuesta por la resoluci&#xF3;n N&#xBA; 6.972, de 2013, de este Servicio, hasta el 31 de marzo de 2016.</div><div class=\"p\">&nbsp; &nbsp;  2.&nbsp; Proh&#xED;bese la aplicaci&#xF3;n y uso de sustancias anabolizantes con fines de promoci&#xF3;n del crecimiento en bovinos que se cr&#xED;an en la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2016-07-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9477396,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.&nbsp; Susp&#xE9;ndese la <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1083058&amp;idParte=9643475&amp;idVersion=2015-10-23\">Resoluci&#xF3;n 7787 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 23.10.2015</a></span>aplicaci&#xF3;n de la prohibici&#xF3;n dispuesta por la resoluci&#xF3;n N&#xBA; 6.972, de 2013, de este Servicio, hasta el 31 de marzo de 2016.</div><div class=\"p\">&nbsp; &nbsp;  2.&nbsp; Proh&#xED;bese la aplicaci&#xF3;n y uso de sustancias anabolizantes con fines de promoci&#xF3;n del crecimiento en bovinos que se cr&#xED;an en la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.&nbsp; Susp&#xE9;ndese la aplicaci&#xF3;n de la prohibici&#xF3;n <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1092114&amp;idParte=9712732&amp;idVersion=2016-07-02\">Resoluci&#xF3;n 3367 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 02.07.2016</a></span>dispuesta por la resoluci&#xF3;n N&#xBA; 6.972, de 2013, de este Servicio, hasta el 31 de diciembre de 2016.</div><div class=\"p\">&nbsp; &nbsp;  2.&nbsp; Proh&#xED;bese la aplicaci&#xF3;n y uso de sustancias anabolizantes con fines de promoci&#xF3;n del crecimiento en bovinos que se cr&#xED;an en la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2016-07-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9477396,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.&nbsp; Susp&#xE9;ndese la aplicaci&#xF3;n de la prohibici&#xF3;n <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1092114&amp;idParte=9712732&amp;idVersion=2016-07-02\">Resoluci&#xF3;n 3367 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 02.07.2016</a></span>dispuesta por la resoluci&#xF3;n N&#xBA; 6.972, de 2013, de este Servicio, hasta el 31 de diciembre de 2016.</div><div class=\"p\">&nbsp; &nbsp;  2.&nbsp; Proh&#xED;bese la aplicaci&#xF3;n y uso de sustancias anabolizantes con fines de promoci&#xF3;n del crecimiento en bovinos que se cr&#xED;an en la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.&nbsp; Susp&#xE9;ndese la aplicaci&#xF3;n de la prohibici&#xF3;n<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1092498&amp;idParte=9714429&amp;idVersion=2016-07-12\">Resoluci&#xF3;n 3367 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 12.07.2016</a></span> dispuesta por la resoluci&#xF3;n N&#xBA; 6.972, de 2013, de este Servicio, hasta el 31 de diciembre de 2016.</div><div class=\"p\">&nbsp; &nbsp;  2.&nbsp; Proh&#xED;bese la aplicaci&#xF3;n y uso de sustancias anabolizantes con fines de promoci&#xF3;n del crecimiento en bovinos que se cr&#xED;an en la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1092498,
+      "fecha": "2016-07-12"
+    }
+  }
+]

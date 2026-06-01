@@ -1,0 +1,113 @@
+[
+  {
+    "fecha": "1974-03-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-06-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8989581,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 11&#xB0;.- DEROGADO<span class=\"n\" id=\"n_10\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989582,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 12&#xB0;.- DEROGADO<span class=\"n\" id=\"n_11\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989583,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; Art&#xED;culo 13&#xB0;.- DEROGADO<span class=\"n\" id=\"n_12\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989584,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 14&#xB0;.- DEROGADO<span class=\"n\" id=\"n_13\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989585,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 15&#xB0;.- DEROGADO<span class=\"n\" id=\"n_14\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989586,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 16&#xB0;.- DEROGADO<span class=\"n\" id=\"n_15\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8989569,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- El Departamento de Bienestar de Carabineros de Chile tendr&#xE1; un patrimonio de afectaci&#xF3;n fiscal formado por los siguientes rubros:</div><div class=\"p\">&nbsp; &nbsp; a) Fondos que se le asignen anualmente en la Ley de Presupuestos de la Naci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; b) Fondos que se le asignen en leyes especiales;</div><div class=\"p\">&nbsp; &nbsp; c) Fondos que provengan de los pagos efectuados por la Mutualidad al Departamento y Secciones de Bienestar, por concepto de prestaciones de servicios y/o venta de productos o bienes muebles de cualquier naturaleza;</div><div class=\"p\">&nbsp; &nbsp; d) Fondos que provengan del pago de servicios otorgados o prestados por el Departamento y/o Secciones de su dependencia;</div><div class=\"p\">&nbsp; &nbsp; e) Bienes o fondos que provengan de donaciones, legados o aportes que por cualquier concepto se le hagan para el cumplimiento de sus fines.</div><div class=\"p\">&nbsp; &nbsp; Las donaciones no estar&#xE1;n sujetas al tr&#xE1;mite de insinuaci&#xF3;n, cualquiera que sea su cuant&#xED;a o naturaleza;</div><div class=\"p\">&nbsp; &nbsp; f) Fondos que tengan su origen en la venta de bienes muebles y/o de productos de cualquier naturaleza, intereses y reajustes de dep&#xF3;sitos en Cuentas de Ahorros, Bonos de distinto tipo, Certificados de Ahorro Reajustables del Banco Central, valores hipotecarios reajustables, etc&#xE9;tera, precios y/o participaci&#xF3;n en concesiones y cobros de tarifas por servicios que no sean netamente policiales, y</div><div class=\"p\">&nbsp; &nbsp; g) Los fondos provenientes de las presentaciones que efect&#xFA;en el Orfe&#xF3;n Nacional, la Secci&#xF3;n Perros Policiales, Cuadro Verde u otros organismos de su dependencia de similares caracter&#xED;sticas, pasar&#xE1;n a incrementar el patrimonio del Departamento de Bienestar de Carabineros de Chile, para lo cual se le libera de la prohibici&#xF3;n que les impone el art&#xED;culo 9&#xB0; del decreto con fuerza de ley N&#xB0; 47, del a&#xF1;o 1959. Asimismo, los fondos obtenidos del pago de estacionamientos y enajenaci&#xF3;n de bienes obsoletos, ser&#xE1;n a beneficio del mismo Departamento de Bienestar.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- DEROGADO<span class=\"n\" id=\"n_0\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989570,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Con los fondos del patrimonio de afectaci&#xF3;n podr&#xE1;n adquirirse bienes muebles, inmuebles, productos o servicios. En la administraci&#xF3;n, manejos y disposici&#xF3;n de los fondos del patrimonio, y de los bienes y servicios que con dichos fondos se adquieren, el Departamento de Bienestar actuar&#xE1; como persona jur&#xED;dica representada por su Jefe, quien en dicha representaci&#xF3;n podr&#xE1; desempe&#xF1;arse en cualquier acto jur&#xED;dico o financiero tendiente a conseguir finalidades de bienestar social para el personal. En consecuencia, para los efectos se&#xF1;alados anteriormente, podr&#xE1; celebrar, por v&#xED;a de ejemplo, contratos de trabajo con empleados y obreros que depender&#xE1;n del Departamento de Bienestar, contratos de arrendamiento, de compraventa, mutuos, contratos de honorarios con profesionales, contratos de concesi&#xF3;n, adquisici&#xF3;n de bonos, contratos de ahorros y pr&#xE9;stamos, aceptar, endosar y cobrar documentos de cr&#xE9;ditos, letras y cheques, obligando en estos casos solamente el patrimonio de afectaci&#xF3;n fiscal.</div><div class=\"p\">&nbsp; &nbsp; La representaci&#xF3;n judicial del Departamento de Bienestar residir&#xE1; en el Jefe respectivo, quien podr&#xE1; actuar conforme al art&#xED;culo 7&#xB0; del C&#xF3;digo de Procedimiento Civil.</div><div class=\"p\">&nbsp; &nbsp; La representaci&#xF3;n que inviste el Jefe del Departamento de Bienestar, tanto judicial como extrajudicialmente, se limitar&#xE1; a lo que dice relaci&#xF3;n con la actividad espec&#xED;fica que desarrolla Bienestar en la consecuci&#xF3;n de sus fines, y puede ser delegada por el Jefe que la invista.</div><div class=\"p\">&nbsp; &nbsp; El Jefe del Departamento de Bienestar podr&#xE1; representar al personal en la adquisici&#xF3;n de bienes ra&#xED;ces por intermedio de Cooperativas, Asociaciones de Ahorros y Pr&#xE9;stamos o cualquiera otra organizaci&#xF3;n que permita cumplir con esta finalidad, para lo cual tendr&#xE1; las m&#xE1;s amplias facultades y expresamente las se&#xF1;aladas en el art&#xED;culo 7&#xB0; del C&#xF3;digo de Procedimiento Civil, en ambos incisos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 2&#xB0;.- DEROGADO<span class=\"n\" id=\"n_1\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989571,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Las adquisiciones y enajenaciones de los bienes muebles, productos o servicios mencionados anteriormente, se sujetar&#xE1;n a las normas del derecho com&#xFA;n.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, podr&#xE1;n aplicarse las disposicones que rigen las adquisiciones y/o enajenaciones de Carabineros de Chile en caso de estimarse necesario. En ambos casos, s&#xF3;lo se obligar&#xE1; al patrimonio de afectaci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 3&#xB0;.- DEROGADO<span class=\"n\" id=\"n_2\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989572,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- El Departamento de Bienestar de Carabineros de Chile se regir&#xE1; exclusivamente por las disposiciones del presente decreto ley y no quedar&#xE1; sujeto a la norma contenida en el art&#xED;culo 134 de la ley N&#xB0; 11.764, ni a ninguna otra sobre materia de bienestar. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- DEROGADO<span class=\"n\" id=\"n_3\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br></div>"
+        },
+        {
+          "part_id": 8989573,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- El presupuesto del Departamento de Bienestar de Carabineros de Chile se regir&#xE1; por el T&#xED;tulo 3&#xB0; del decreto con fuerza de ley N&#xB0; 47, del a&#xF1;o 1959.</div><div class=\"p\">&nbsp; &nbsp; Mientras se aprueba el presupuesto, el Departamento de Bienestar podr&#xE1; girar, por duod&#xE9;cimos mensuales, las sumas consultadas para el ejercicio respectivo. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 5&#xB0;.- DEROGADO<span class=\"n\" id=\"n_4\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989574,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- Autor&#xED;zase al Jefe del Departamento de Bienestar de Carabineros de Chile para abrir la respectiva cuenta Unica Fiscal Subsidiaria en la Oficina del Banco del Estado que corresponda, con los fondos que establece el art&#xED;culo 1&#xB0; de este decreto ley.</div><div class=\"p\">&nbsp; &nbsp; Las sumas no invertidas al 31 de Diciembre de cada a&#xF1;o, no pasar&#xE1;n a rentas generales de la Naci&#xF3;n y podr&#xE1;n ser invertidas al a&#xF1;o siguiente en los fines de bienestar social.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 6&#xB0;.- DEROGADO<span class=\"n\" id=\"n_5\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989575,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Los respectivos reglamentos institucionales aprobados por decreto supremo, mediante los cuales se rigen las secciones dependientes del Departamento de Bienestar de Carabineros de Chile: Secci&#xF3;n Bienestar, Poblaciones, Acci&#xF3;n Social, Servicio Religioso y Administraci&#xF3;n de Caja, se&#xF1;alar&#xE1;n las normas para dar cumplimiento al presente decreto ley. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 7&#xB0;.- DEROGADO<span class=\"n\" id=\"n_6\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989576,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- El Jefe del Departamento de Bienestar ejercer&#xE1; la administraci&#xF3;n y control de los bienes ra&#xED;ces y muebles adquiridos con fondos del patrimonio de afectaci&#xF3;n que se crea en el presente decreto ley. No podr&#xE1;n enajenarse los bienes ra&#xED;ces, salvo aquellos adquiridos con fondos del Departamento de Bienestar que no presten utilidad para los fines que motivaron su adquisici&#xF3;n, pero s&#xED; darse en arrendamiento, concesi&#xF3;n o uso, ingresando su producto al patrimonio de afectaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El Jefe del Departamento de Bienestar deber&#xE1; rendir fianza conforme a la ley N&#xB0; 10.336, Org&#xE1;nica de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 8&#xB0;.- DEROGADO<span class=\"n\" id=\"n_7\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989577,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- Los servicios que se prestan por el Departamento de Bienestar estar&#xE1;n liberados del impuesto de compraventa, cifra de negocios, a los servicios y rentas, estampillas y timbres.</div><div class=\"p\">&nbsp; &nbsp; Los edificios o bienes que sean ocupados directamente, o que sean dados en concesi&#xF3;n, estar&#xE1;n liberados del pago de contribuci&#xF3;n a los bienes ra&#xED;ces.</div><div class=\"p\">&nbsp; &nbsp; El Departamento de Bienestar en la adquisici&#xF3;n de bienes ra&#xED;ces, ventas, permutas, donaciones o cualquier otro acto o convenci&#xF3;n que sirva para transferir el dominio de bienes corporales inmuebles, estar&#xE1; exento del impuesto de transferencia.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; Art&#xED;culo 9&#xB0;.- DEROGADO<span class=\"n\" id=\"n_8\">LEY 18713<br>Art. 17<br>D.O. 04.06.1988</span> </div><br><br></div>"
+        },
+        {
+          "part_id": 8989578,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10.- Sin perjuicio de la fiscalizaci&#xF3;n que compete a la Contralor&#xED;a General de la Rep&#xFA;blica, en conformidad a lo establecido en el inciso segundo del art&#xED;culo 21 de la Constituci&#xF3;n Pol&#xED;tica del Estado, el Departamento de Bienestar de Carabineros de Chile estar&#xE1; sometido directamente a la fiscalizaci&#xF3;n y control de la instituci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 10&#xB0;.- DEROGADO<span class=\"n\" id=\"n_9\">LEY 18713<br>Art. 17</span> D.O. 04.06.1988</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1988-06-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8989579,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo transitorio.- Decl&#xE1;rase que los bienes y servicios pertenecientes al Departamento de Bienestar de Carabineros de Chile, ser&#xE1;n aquellos que dentro de noventa d&#xED;as, a contar de la publicaci&#xF3;n del presente decreto ley, sean asignados a su patrimonio de afectaci&#xF3;n, por decreto o resoluci&#xF3;n interna.&quot; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo transitorio.- Decl&#xE1;rase que los bienes y servicios pertenecientes al Departamento de Bienestar, de Carabineros de Chile, ser&#xE1;n aquellos que dentro de noventa d&#xED;as, a contar de la publicaci&#xF3;n del presente decreto ley, sean asignados a su patrimonio de afectaci&#xF3;n, por decreto o resoluci&#xF3;n interna. </div></div>"
+        }
+      ]
+    }
+  }
+]

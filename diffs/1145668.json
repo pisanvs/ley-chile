@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-05-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-10-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10123190,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: El Consejo Asesor estar&#xE1; integrado por los siguientes miembros titulares:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Eduardo Valenzuela Carvallo, RUN 7.025.960-5, quien lo presidir&#xE1;;</div><div class=\"p\">&nbsp; &nbsp;  b) Andrea Isabel Repetto Lisboa, RUN 8.795 355-6;</div><div class=\"p\">&nbsp; &nbsp;  c) Annie Dufey Dom&#xED;nguez, RUN 11.740.036-0;</div><div class=\"p\">&nbsp; &nbsp;  d) Harald Ricardo Beyer Burgos, RUN 8 .994 421-K;</div><div class=\"p\">&nbsp; &nbsp;  e) Luc&#xED;a Santa Cruz Sutil, RUN 7.117.816-1;</div><div class=\"p\">&nbsp; &nbsp;  f) Marcela Bravo Puldain, RUN 6.634.243-3;</div><div class=\"p\">&nbsp; &nbsp;  g) Pablo Alberto Gonz&#xE1;lez Soto, RUN 9.530.801-5;</div><div class=\"p\">&nbsp; &nbsp;  h) Raimundo Jos&#xE9; Frei Toledo, RUN 14.122.586-3;</div><div class=\"p\">&nbsp; &nbsp;  i) Roberto Gonz&#xE1;lez Guti&#xE9;rrez, RUN 10.396.183-1;</div><div class=\"p\">&nbsp; &nbsp;  j) Rodrigo Hern&#xE1;n Jord&#xE1;n Fuchs, RUN 8.012.632-8;</div><div class=\"p\">&nbsp; &nbsp;  k) Sebasti&#xE1;n Jos&#xE9; Bowen Carranza, RUN 14.122.952-4;</div><div class=\"p\">&nbsp; &nbsp;  l) Simone Cecchini, RUN 49.016.351-4, y</div><div class=\"p\">&nbsp; &nbsp;  m) Sylvia Eyzaguirre Tafra, RUN 9.910.669-7.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Los miembros del Consejo Asesor desempe&#xF1;ar&#xE1;n sus funciones ad honorem.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: El Consejo Asesor estar&#xE1; integrado por los siguientes miembros titulares:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Eduardo Valenzuela Carvallo, RUN 7.025.960-5, quien lo presidir&#xE1;;</div><div class=\"p\">&nbsp; &nbsp;  b) Andrea Isabel Repetto Lisboa, RUN 8.795 355-6;</div><div class=\"p\">&nbsp; &nbsp;  c) Annie Dufey Dom&#xED;nguez, RUN 11.740.036-0;</div><div class=\"p\">&nbsp; &nbsp;  d) Marcela <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1150989&amp;idParte=10170501&amp;idVersion=2020-10-28\">Decreto 6, <br>DESARROLLO SOCIAL<br>Art. primero a), b) y c)<br>D.O. 28.10.2020</a></span>Bravo Puldain, RUN 6.634.243-3;</div><div class=\"p\">&nbsp; &nbsp;  e) Pablo Alberto Gonz&#xE1;lez Soto, RUN 9.530.801-5;</div><div class=\"p\">&nbsp; &nbsp;  f) Raimundo Jos&#xE9; Frei Toledo, RUN 14.122.586-3;</div><div class=\"p\">&nbsp; &nbsp;  g) Roberto Gonz&#xE1;lez Guti&#xE9;rrez, RUN 10.396.183-1;</div><div class=\"p\">&nbsp; &nbsp;  h) Rodrigo Hern&#xE1;n Jord&#xE1;n Fuchs, RUN 8.012.632-8;</div><div class=\"p\">&nbsp; &nbsp;  i) Sebasti&#xE1;n Jos&#xE9; Bowen Carranza, RUN 14.122.952-4;</div><div class=\"p\">&nbsp; &nbsp;  j) Simone Cecchini, RUN 49.016.351-4, y</div><div class=\"p\">&nbsp; &nbsp;  k) Sylvia Eyzaguirre Tafra, RUN 9.910.669-7.</div><div class=\"p\">&nbsp; &nbsp;  l) Mar&#xED;a Victoria Paz Machuca, RUN 14.118.739-2.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Los miembros del Consejo Asesor desempe&#xF1;ar&#xE1;n sus funciones ad honorem.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1150989,
+      "fecha": "2020-10-28"
+    }
+  }
+]

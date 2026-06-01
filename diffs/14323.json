@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-10-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-04-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7150472,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; PONE FIN ANTICIPADAMENTE A CONVENIO QUE INDICA, POR LAS RAZONES QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 570.- Santiago, 25 de Agosto de 1993.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, por Decreto Supremo N&#xB0; 1413 de 1986, se aprob&#xF3; un convenio por el cual el Ministerio de Educaci&#xF3;n entreg&#xF3; en administraci&#xF3;n a la Corporaci&#xF3;n de Desarrollo Educacional Cient&#xED;fico y Tecnol&#xF3;gico, en virtud de las facultades otorgadas por el Decreto Ley N&#xB0; 3.166 de 1980, el Liceo Industrial A N&#xB0; 81 de Renca;</div><div class=\"p\">&nbsp; &nbsp; Que, se ha detectado que no hay vinculaci&#xF3;n entre la Corporaci&#xF3;n administradora y el sector productivo;</div><div class=\"p\">&nbsp; &nbsp; Que, adem&#xE1;s no se ha modernizado ni se han desarrollado las especialidades conforme a los requerimientos de la demanda laboral;</div><div class=\"p\">&nbsp; &nbsp; Que, en beneficio de los alumnos y personal comprometido en el proceso educativo, se ha adoptado la decisi&#xF3;n de pedir la devoluci&#xF3;n del Liceo Industrial A N&#xB0; 81 de Renca y poner t&#xE9;rmino al convenio respectivo;</div><div class=\"p\">y,</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.166, de 1980; Decreto Supremo de Educaci&#xF3;n N&#xB0; 5.077 de 1980, modificado por el Decreto Supremo de Educaci&#xF3;n N&#xB0; 13 de 1991; y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; PONE FIN ANTICIPADAMENTE A CONVENIO QUE INDICA, POR LAS RAZONES QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 570.- Santiago, 25 de Agosto de 1993.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, por Decreto Supremo N&#xB0; 1413 de 1986, se aprob&#xF3; un convenio por el cual el Ministerio de Educaci&#xF3;n entreg&#xF3; en administraci&#xF3;n a la Corporaci&#xF3;n de Desarrollo Educacional Cient&#xED;fico y Tecnol&#xF3;gico, en virtud de las facultades otorgadas por el Decreto Ley N&#xB0; 3.166 de 1980, el Liceo Industrial A N&#xB0; 81 de Renca;</div><div class=\"p\">&nbsp; &nbsp; Que, se ha detectado que no hay vinculaci&#xF3;n entre la Corporaci&#xF3;n administradora y el sector productivo;</div><div class=\"p\">&nbsp; &nbsp; Que, adem&#xE1;s no se ha modernizado ni se han desarrollado las especialidades conforme a los requerimientos de la demanda laboral;</div><div class=\"p\">&nbsp; &nbsp; Que, en beneficio de los alumnos y personal comprometido en el proceso educativo, se ha adoptado la decisi&#xF3;n de pedir la devoluci&#xF3;n del Liceo Industrial A N&#xB0; 81 de Renca y poner t&#xE9;rmino al convenio respectivo;</div><div class=\"p\">y,</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.166, de 1980; Decreto Supremo de Educaci&#xF3;n N&#xB0; 5.077 de 1980, modificado por el Decreto Supremo de Educaci&#xF3;n N&#xB0; 13 de 1991; y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

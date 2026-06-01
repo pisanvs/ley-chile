@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1976-07-20",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1989-01-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8994765,
+          "old": null,
+          "new": "<div><div class=\"p\"> Art&#xED;culo 9&#xB0;.- DEROGADO<span class=\"n\" id=\"n_5\">DTO 473, ECONOMIA<br>Art. 1&#xBA; N&#xBA; 2<br>D.O. 23.01.1989</span> </div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

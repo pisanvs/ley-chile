@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-09-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-05-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9016912,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCIONES QUE INDICA. DEROGA RESOLUCION QUE SE&#xD1;ALA</div><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCIONES QUE INDICA. DEROGA RESOLUCION QUE SE&#xD1;ALA</div><div class=\"p\">(Extracto)</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

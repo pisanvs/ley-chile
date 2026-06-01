@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7317210,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15: Con excepci&#xF3;n de aquellos avisos que deban ser exhibidos por exigencia legal y avisos temporales de productos propios del local, toda propaganda que se realice en la v&#xED;a p&#xFA;blica o que sea vista desde la misma, pagar&#xE1; los siguientes derechos municipales:</div><br><div class=\"p\">a.&nbsp;  Letreros, carteles o avisos luminosos, por M2 o fracci&#xF3;n ocupado, valor anual : 20% UTM</div><div class=\"p\">b.&nbsp;  Letreros, carteles o avisos NO luminosos, por M2 o fracci&#xF3;n ocupado, valor anual: 25% UTM</div><div class=\"p\">c.&nbsp;  Proyectores de avisos, semanal: 1 UTM.</div><div class=\"p\">d.&nbsp;  Papeleros y otros elementos del servicio p&#xFA;blico, anual por unidad M2: 10% UTM</div><div class=\"p\">e.&nbsp;  Hombre publicidad, semanal: 10% UTM</div><div class=\"p\">f.&nbsp;  Propagandas especiales no se&#xF1;aladas, por mes o fracci&#xF3;n:&nbsp;  1 UTM</div><div class=\"p\">g.&nbsp;  Letreros, carteles o avisos no luminosos, ubicados en interior de las estaciones, pasajes u otros lugares similares, que permanentemente usan luz artificial y no tengan luminosidad propia, por M2 o fracci&#xF3;n ocupado semestral: 1 UTM</div><div class=\"p\">h.&nbsp;  Letreros camineros y paletas publicitarias por M2, semestral: 1 UTM</div><div class=\"p\">i.&nbsp;  Parlantes, radiodifusi&#xF3;n o cualquier elemento reproductor o difusor de sonido al exterior estacionado o m&#xF3;vil, por d&#xED;a: 50% UTM</div><div class=\"p\">j.&nbsp;  Letreros a&#xE9;reos que floten en forma aerost&#xE1;tica, por semana o fracci&#xF3;n: 1 UTM</div><div class=\"p\">k.&nbsp;  Reparto de avisos sueltos, folletos o tarjetas impresas, por semana o fracci&#xF3;n: 50% UTM</div><div class=\"p\">l.&nbsp;  Lienzos de propaganda por semana o fracci&#xF3;n: 1 UTM</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15: Con excepci&#xF3;n de aquellos avisos que deban ser exhibidos por exigencia legal y avisos temporales de productos propios del local, toda propaganda que se realice en la v&#xED;a p&#xFA;blica o que sea vista desde la misma, pagar&#xE1; los siguientes derechos municipales:</div><br><div class=\"p\">a.&nbsp;  Letreros, carteles o avisos luminosos, por M2 o fracci&#xF3;n ocupado, valor semestral : 20% UTM<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 05.01.2005</span></div><div class=\"p\">b.&nbsp;  Letreros, carteles o avisos NO luminosos, por M2 o fracci&#xF3;n ocupado, valor semestral: 25% UTM</div><div class=\"p\">c.&nbsp;  Proyectores de avisos, semanal: 1 UTM.</div><div class=\"p\">d.&nbsp;  Papeleros y otros elementos del servicio p&#xFA;blico, anual por unidad M2: 10% UTM</div><div class=\"p\">e.&nbsp;  Hombre publicidad, semanal: 10% UTM</div><div class=\"p\">f.&nbsp;  Propagandas especiales no se&#xF1;aladas, por mes o fracci&#xF3;n:&nbsp;  1 UTM</div><div class=\"p\">g.&nbsp;  Letreros, carteles o avisos no luminosos, ubicados en interior de las estaciones, pasajes u otros lugares similares, que permanentemente usan luz artificial y no tengan luminosidad propia, por M2 o fracci&#xF3;n ocupado semestral: 1 UTM</div><div class=\"p\">h.&nbsp;  Letreros camineros y paletas publicitarias por M2, semestral: 1 UTM</div><div class=\"p\">i.&nbsp;  Parlantes, radiodifusi&#xF3;n o cualquier elemento reproductor o difusor de sonido al exterior estacionado o m&#xF3;vil, por d&#xED;a: 50% UTM</div><div class=\"p\">j.&nbsp;  Letreros a&#xE9;reos que floten en forma aerost&#xE1;tica, por semana o fracci&#xF3;n: 1 UTM</div><div class=\"p\">k.&nbsp;  Reparto de avisos sueltos, folletos o tarjetas impresas, por semana o fracci&#xF3;n: 50% UTM</div><div class=\"p\">l.&nbsp;  Lienzos de propaganda por semana o fracci&#xF3;n: 1 UTM</div><br></div>"
+        }
+      ]
+    }
+  }
+]

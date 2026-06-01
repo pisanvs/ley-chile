@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2007-08-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2026-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8663778,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 14&#xBA; Las Instituciones de las Fuerzas Armadas deber&#xE1;n informar al Ministerio de Defensa Nacional sobre el funcionamiento de las respectivas Oficinas, denuncias presentadas y datos estad&#xED;sticos, cada vez que le sea solicitado, a trav&#xE9;s de la respectiva Subsecretar&#xED;a. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 14&#xBA; Las Instituciones<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1221212&amp;idParte=10582595&amp;idVersion=2026-02-09\">Decreto 188,<br>DEFENSA<br>Art. &#xFA;nico<br>D.O. 09.02.2026</a></span> de las Fuerzas Armadas, deber&#xE1;n remitir mensualmente un informe a la o el Ministro de Defensa Nacional, en que se reporte estad&#xED;sticamente el n&#xFA;mero de peticiones, solicitudes y denuncias recibidas. En dicho informe se deber&#xE1; incorporar, asimismo, informaci&#xF3;n sobre el estado y plazo de tramitaci&#xF3;n de las respuestas reca&#xED;das sobre aquellos requerimientos.</div><div class=\"p\">&nbsp; &nbsp; Dicho informe contendr&#xE1;, a lo menos, una relaci&#xF3;n de todas las denuncias formuladas por los padres o apoderados de un soldado conscripto, referidas a tratamientos que contravengan la dignidad y honor de las personas, o que no se ajusten a la reglamentaci&#xF3;n vigente, con indicaci&#xF3;n de las acciones y medidas adoptadas en relaci&#xF3;n a los hechos que la fundamentan.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1221212,
+      "fecha": "2026-02-09"
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2002-08-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-09-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6394520,
+          "old": "<div><div class=\"p\">EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DE IVA A MARCELO RICARDO HOFFMANN KUNSTMANN </div></div>",
+          "new": "<div><div class=\"p\">EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DE IVA A MARCELO RICARDO HOFFMANN KUNSTMANN</div><br><br></div>"
+        },
+        {
+          "part_id": 6394521,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  La D&#xE9;cima Direcci&#xF3;n Regional Puerto Montt del Servicio de Impuestos Internos, por resoluci&#xF3;n N&#xBA; Ex.</div><div class=\"p\">6.021 de 20 de agosto de 2002, excepciona a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n y se mantendr&#xE1; vigente mientras se d&#xE9; cumplimiento a la res.</div><div class=\"p\">N&#xBA; Ex. 5.281 de 30.11.2000 de la Direcci&#xF3;n Nacional, a don(a) Marcelo Ricardo Hoffmann Kunstmann, RUT N&#xBA; 7.721.427-5, del r&#xE9;gimen de cambio de sujeto del Impuesto al Valor Agregado, en las ventas de trigo, establecido en la resoluci&#xF3;n N&#xBA; Ex. 5.281/2000 de la Direcci&#xF3;n Nacional. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus ventas de trigo.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  La D&#xE9;cima Direcci&#xF3;n Regional Puerto Montt del Servicio de Impuestos Internos, por resoluci&#xF3;n N&#xBA; Ex. 602 de 20 de agosto de 2002, excepciona a contar<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 17.09.2002</span> del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n y se mantendr&#xE1; vigente mientras se d&#xE9; cumplimiento a la res. N&#xBA; Ex. 5.281 de 30.11.2000 de la Direcci&#xF3;n Nacional, a don(a) Marcelo Ricardo Hoffmann Kunstmann, RUT N&#xBA; 7.721.427-5, del r&#xE9;gimen de cambio de sujeto del Impuesto al Valor Agregado, en las ventas de trigo, establecido en la resoluci&#xF3;n N&#xBA; Ex. 5.281/2000 de la Direcci&#xF3;n Nacional. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus ventas de trigo.- </div></div>"
+        }
+      ]
+    }
+  }
+]

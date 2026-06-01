@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1964-07-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1964-07-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9079680,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Supr&#xED;mese en el inciso segundo del art&#xED;culo 2.&#xBA; del decreto N.&#xBA; 163, de 7 de Abril de 1964, del Ministerio del Trabajo y Previsi&#xF3;n Social, publicado en el &quot;Diario Oficial&quot; de 25 de Abril de 1964, la frase &quot;en el momento de cumplir los requisitos para tener derecho a pensi&#xF3;n con sueldo base &#xED;ntegro.&quot; Agr&#xE9;gase en el mismo inciso, despu&#xE9;s de la frase &quot;escala a) del departamento de Santiago&quot; la siguiente:</div><div class=\"p\">&quot;vigente en el momento de pagarse la respectiva bonificaci&#xF3;n.&quot; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Supr&#xED;mese en el inciso segundo del art&#xED;culo 1.&#xBA; del decreto N.&#xBA; 163, de 7 de Abril de 1964,<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 30.07.1964</span> del Ministerio del Trabajo y Previsi&#xF3;n Social, publicado en el &quot;Diario Oficial&quot; de 25 de Abril de 1964, la frase &quot;en el momento de cumplir los requisitos para tener derecho a pensi&#xF3;n con sueldo base &#xED;ntegro.&quot; Agr&#xE9;gase en el mismo inciso, despu&#xE9;s de la frase &quot;escala a) del departamento de Santiago&quot; la siguiente: &quot;vigente en el momento de pagarse la respectiva bonificaci&#xF3;n.&quot; </div></div>"
+        }
+      ]
+    }
+  }
+]

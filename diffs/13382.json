@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-11-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-09-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040363,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 20&#xB0;.- El pago de los derechos, impuestos, tasas y grav&#xE1;menes que afecten a las mercanc&#xED;as, deber&#xE1; hacerse dentro del plazo de 5 d&#xED;as contados desde la fecha de notificaci&#xF3;n del Formulario de Importaci&#xF3;n V&#xED;a Postal y Pago Simult&#xE1;neo.</div><div class=\"p\">&nbsp; &nbsp; Para estos efectos la notificaci&#xF3;n se entender&#xE1; practicada una vez que el interesado recepcione el Aviso de Llegada. La fecha de recepci&#xF3;n depender&#xE1; de la ubicaci&#xF3;n del domicilio del importador respecto de la Secci&#xF3;n o Departamento Postal.</div><div class=\"p\">&nbsp; &nbsp; Una vez pagados los derechos, impuestos, tasas y grav&#xE1;menes a que se refiere el inciso 1&#xB0; como asimismo las tasas postales, el Servicio de Correos entregar&#xE1; las mercanc&#xED;as al importador, reteniendo una de las copias canceladas del Formulario de Importaci&#xF3;n V&#xED;a Postal y Pago Simult&#xE1;neo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 20&#xB0;.- El pago de los derechos, impuestos,<span class=\"n\" id=\"n_0\">DS 732,HDA.<br>1993, Art.<br>Unico</span> tasas y grav&#xE1;menes que afecten a las mercanc&#xED;as deber&#xE1; hacerse dentro del plazo a que se refiere el inciso primero del art&#xED;culo 123 de la Ordenanza de Aduanas, contado desde la fecha de notificaci&#xF3;n del Formulario de Importaci&#xF3;n V&#xED;a Postal y Pago Simult&#xE1;neo. Para estos efectos la notificaci&#xF3;n se entender&#xE1; practicada una vez que el interesado recepcione el Aviso de Llegada. La fecha de recepci&#xF3;n depender&#xE1; de la ubicaci&#xF3;n del domicilio del importador respecto de la Secci&#xF3;n o Departamento Postal. Una vez pagados los derechos, impuestos, tasas y grav&#xE1;menes a que se refiere el inciso 1&#xB0; como asimismo las tasas postales, el Servicio de Correos entregar&#xE1; las mercanc&#xED;as al importador, reteniendo una de las copias canceladas del Formulario de Importaci&#xF3;n V&#xED;a Postal y Pago Simult&#xE1;neo. </div></div>"
+        }
+      ]
+    }
+  }
+]

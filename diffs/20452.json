@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-09-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8272149,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ACLARA Y MODIFICA DECRETO EXENTO N&#xB0; 120, DE 1993 N&#xFA;m. 155 exento.- Santiago, 7 de Septiembre de 1993.- Vistos: Art&#xED;culos N&#xB0;s 1&#xB0; y 3&#xB0; del DL. N&#xB0; 799 de 1974, modificado por el DFL N&#xB0; 12-2.345 de 1979; Decreto N&#xB0; 45 de 1992, todos del Interior; Circular N&#xB0; 9.277 de 1975; Resoluci&#xF3;n N&#xB0; 55 de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica; Decreto Ex. N&#xB0; 120 de 1993, de Econom&#xED;a, y antecedentes que se acompa&#xF1;an,</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, es necesario aclarar el Decreto N&#xB0; 120 de 1993, con el fin de determinar que el veh&#xED;culo Jeep, A&#xF1;o 1993, que en &#xE9;l se se&#xF1;ala, se encuentra asignado para uso del Secretario Regional Ministerial de Econom&#xED;a de la XI Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Que, con ocasi&#xF3;n del nuevo nombramiento del Secretario Regional de la Regi&#xF3;n antes citada, se debe modificar el domicilio de estacionamiento de este veh&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ACLARA Y MODIFICA DECRETO EXENTO N&#xB0; 120, DE 1993 </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 155 exento.- Santiago, 7 de Septiembre de 1993.- Vistos: Art&#xED;culos N&#xB0;s 1&#xB0; y 3&#xB0; del DL. N&#xB0; 799 de 1974, modificado por el DFL N&#xB0; 12-2.345 de 1979; Decreto N&#xB0; 45 de 1992, todos del Interior; Circular N&#xB0; 9.277 de 1975; Resoluci&#xF3;n N&#xB0; 55 de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica; Decreto Ex. N&#xB0; 120 de 1993, de Econom&#xED;a, y antecedentes que se acompa&#xF1;an,</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, es necesario aclarar el Decreto N&#xB0; 120 de 1993, con el fin de determinar que el veh&#xED;culo Jeep, A&#xF1;o 1993, que en &#xE9;l se se&#xF1;ala, se encuentra asignado para uso del Secretario Regional Ministerial de Econom&#xED;a de la XI Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Que, con ocasi&#xF3;n del nuevo nombramiento del Secretario Regional de la Regi&#xF3;n antes citada, se debe modificar el domicilio de estacionamiento de este veh&#xED;culo.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

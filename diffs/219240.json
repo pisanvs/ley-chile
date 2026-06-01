@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-12-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6455338,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Reactual&#xED;zase en 3,4% la cantidad expresada en d&#xF3;lares de los Estados Unidos de Am&#xE9;rica, a que se refiere el art&#xED;culo 46&#xBA; de la Ley sobre Impuesto a las Ventas y Servicios, la que queda en el siguiente monto:</div><br><div class=\"p\">&nbsp; &nbsp;  De US$ 15.834,65.- queda en US$ 16.373,02.</div><div class=\"p\">&nbsp; &nbsp;  El presente decreto regir&#xE1; a contar del 1&#xBA; de enero del a&#xF1;o 2004.</div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

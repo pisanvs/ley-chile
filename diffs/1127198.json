@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2018-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9984273,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los cupos de ingreso al Sistema de Desarrollo Profesional Docente para profesionales de la educaci&#xF3;n que se desempe&#xF1;an en el sector particular subvencionado y de administraci&#xF3;n delegada en virtud del decreto ley N&#xBA; 3.166, de 1980, a los establecimientos educacionales individualizados en el anexo N&#xBA; 1, que se encuentra en un documento de formato port&#xE1;til, con firma electr&#xF3;nica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, almacenado en disco compacto individualizado como &quot;Exp-50.409_2018&quot; que se acompa&#xF1;a, el que para todos los efectos legales forma parte integrante de la presente resoluci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los cupos de ingreso al Sistema de Desarrollo Profesional Docente para profesionales de la educaci&#xF3;n que se desempe&#xF1;an en el sector particular subvencionado y de administraci&#xF3;n delegada en virtud del decreto ley N&#xBA; 3.166, de 1980, a los establecimientos educacionales individualizados en el anexo N&#xBA; 1, que se encuentra en un documento de formato port&#xE1;til, con firma electr&#xF3;nica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, almacenado en disco compacto individualizado como &quot;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1128562&amp;idParte=9997469&amp;idVersion=2019-02-06\">Resoluci&#xF3;n 672 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 06.02.2019</a></span>Exp-468_2019&quot; que se acompa&#xF1;a, el que para todos los efectos legales forma parte integrante de la presente resoluci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9984274,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: F&#xED;jase la lista de los establecimientos educacionales del sector particular subvencionado y de administraci&#xF3;n delegada en virtud del decreto ley N&#xBA; 3.166, de 1980, a cuyos sostenedores o administradores, habiendo postulado oportuna y legalmente a los cupos de ingreso al Sistema de Desarrollo Profesional Docente fijados por la resoluci&#xF3;n exenta N&#xBA; 2.328, de 2017, del Ministerio de Educaci&#xF3;n, no les fueron asignados cupos conforme el art&#xED;culo anterior, entendi&#xE9;ndose para todos los efectos legales que postulan para los cupos que por resoluci&#xF3;n de la Subsecretar&#xED;a de Educaci&#xF3;n se fijen para el a&#xF1;o 2019, encontr&#xE1;ndose individualizados en el anexo N&#xBA; 2 correspondiente a un documento de formato port&#xE1;til, con firma electr&#xF3;nica avanzada del Jefe del Centro, almacenado en disco compacto individualizado como &quot;Exp-50.409_2018&quot; que se acompa&#xF1;a, el que para todos los efectos legales forma parte integrante de la presente resoluci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: F&#xED;jase la lista de los establecimientos educacionales del sector particular subvencionado y de administraci&#xF3;n delegada en virtud del decreto ley N&#xBA; 3.166, de 1980, a cuyos sostenedores o administradores, habiendo postulado oportuna y legalmente a los cupos de ingreso al Sistema de Desarrollo Profesional Docente fijados por la resoluci&#xF3;n exenta N&#xBA; 2.328, de 2017, del Ministerio de Educaci&#xF3;n, no les fueron asignados cupos conforme el art&#xED;culo anterior, entendi&#xE9;ndose para todos los efectos legales que postulan para los cupos que por resoluci&#xF3;n de la Subsecretar&#xED;a de Educaci&#xF3;n se fijen para el a&#xF1;o 2019, encontr&#xE1;ndose individualizados en el anexo N&#xBA; 2 correspondiente a un documento de formato port&#xE1;til, con firma electr&#xF3;nica avanzada del Jefe del Centro, almacenado en disco compacto individualizado como &quot;<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1128562&amp;idParte=9997470&amp;idVersion=2019-02-06\">Resoluci&#xF3;n 672 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2<br>D.O. 06.02.2019</a></span>Exp-468_2019&quot; que se acompa&#xF1;a, el que para todos los efectos legales forma parte integrante de la presente resoluci&#xF3;n.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1128562,
+      "fecha": "2019-02-06"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7297110,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 21 EXENTO, DE 2003 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 21 EXENTO, DE 2003</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

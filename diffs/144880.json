@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8351160,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD DE EXPORTACIONES MULTIPLES LTDA.</div><div class=\"p\">&quot;MULTIEXPORT LTDA.&quot; PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD DE EXPORTACIONES MULTIPLES LTDA.</div><div class=\"p\">&quot;MULTIEXPORT LTDA.&quot; PARA AMPLIAR ACTIVIDADES PESQUERAS </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

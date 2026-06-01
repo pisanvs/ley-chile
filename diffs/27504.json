@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1986-05-24",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1994-04-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7175359,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1&#xB0;. Autor&#xED;zase la erecci&#xF3;n de un monumento ecuestre, en la capital de la Rep&#xFA;blica, por suscripci&#xF3;n nacional, a la memoria del General don Jos&#xE9; Miguel Carrera.</div><br></div>"
+        },
+        {
+          "part_id": 7175360,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;. F&#xE1;cultase al Presidente de la Rep&#xFA;blica para nombrar una Comisi&#xF3;n que establezca el lugar de su ubicaci&#xF3;n y todo lo concerniente a la presente ley. F&#xED;jase el d&#xED;a 5 de septiembre de cada<span class=\"n\" id=\"n_1\">DL 1778 de<br><br>ART UNICO</span> a&#xF1;o para efectuar la colecta nacional destinada a reunir 1977 los fondos necesarios para ejecutar la obra que se autoriza por esta ley.</div><div class=\"p\">&nbsp; &nbsp; El actual monumento a don Jos&#xE9; Miguel Carrera ser&#xE1; donado a la Municipalidad de Valdivia para colocarlo en la Plaza Pedro de Valdivia de aquella ciudad&quot;.</div><br></div>"
+        },
+        {
+          "part_id": 7175361,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;. Si al 15 de octubre de 1982 a&#xFA;n no se<span class=\"n\" id=\"n_2\">DL 2148 de<br>1978<br>ART UNICO</span> hubiere terminado la ejecuci&#xF3;n del monumento a la memoria del General Jos&#xE9; Miguel Carrera, por insuficiencia de los fondos reunidos en la colecta anual que autoriza la presente ley, una comisi&#xF3;n especial, integrada por los Ministros del Interior, que la presidir&#xE1;, y de Defensa Nacional, y por el presidente de la comisi&#xF3;n a que se refiere el art&#xED;culo 2&#xB0; de esta ley, determinar&#xE1; el monto de los recursos que falten para tal objeto y, en tal caso, el Ministro de Hacienda consultar&#xE1; en la Ley de Presupuestos de los a&#xF1;os 1983 y 1984, en el Presupuesto del Ministerio del Interior, los recursos necesarios para concluir la obra antes del 15 de octubre de 1985, imput&#xE1;ndose el gasto a los mayores ingresos que arroje la recaudaci&#xF3;n de Impuestos.</div><br></div>"
+        },
+        {
+          "part_id": 7175362,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, prom&#xFA;lguese y ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, tres de octubre de mil novecientos cincuenta y nueve.- JORGE ALESSANDRI RODRIGUEZ.- Francisco Cereceda.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-02-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-05-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7282039,
+          "old": "<div><div class=\"p\">AUTORIZA A AGUAS CLARAS S.A. PARA AMPLIAR ACTIVIDADES PESOUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A AGUAS CLARAS S.A. PARA AMPLIAR ACTIVIDADES PESOUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

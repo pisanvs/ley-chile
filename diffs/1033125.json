@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-11-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-10-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9207120,
+          "old": "<div><br><div class=\"p\">APRUEBA NORMA T&#xC9;CNICA N&#xBA; 125 DENOMINADA &quot;PROTOCOLO SOBRE NORMAS M&#xCD;NIMAS PARA EL DESARROLLO DE PROGRAMAS DE VIGILANCIA DE LA P&#xC9;RDIDA AUDITIVA POR EXPOSICI&#xD3;N A RUIDO EN LOS LUGARES DE TRABAJO&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.029 exento.- Santiago, 11 de noviembre de 2011.- Visto: Lo dispuesto en el art&#xED;culo 4&#xBA; N&#xBA; 2 y 7&#xBA; del Libro I del decreto con fuerza de ley N&#xBA; 1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley N&#xBA; 2.763, de 1979, y de las leyes 18.469 y 18.933; en la <a href=\"https://www.leychile.cl/Navegar?idNorma=28650&amp;idParte=0&amp;idVersion=\">ley 16.744</a> sobre Accidentes del Trabajo y Enfermedades Profesionales, y teniendo presentes las facultades concedidas en el decreto supremo N&#xBA; 28, de 2009, del Ministerio de Salud, dicto el siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA NORMA T&#xC9;CNICA N&#xBA; 125 DENOMINADA &quot;PROTOCOLO SOBRE NORMAS M&#xCD;NIMAS PARA EL DESARROLLO DE PROGRAMAS DE VIGILANCIA DE LA P&#xC9;RDIDA AUDITIVA POR EXPOSICI&#xD3;N A RUIDO EN LOS LUGARES DE TRABAJO<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.029 exento.- Santiago, 11 de noviembre de 2011.- Visto: Lo dispuesto en el art&#xED;culo 4&#xBA; N&#xBA; 2 y 7&#xBA; del Libro I del decreto con fuerza de ley N&#xBA; 1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley N&#xBA; 2.763, de 1979, y de las leyes 18.469 y 18.933; en la ley 16.744 sobre Accidentes del Trabajo y Enfermedades Profesionales, y teniendo presentes las facultades concedidas en el decreto supremo N&#xBA; 28, de 2009, del Ministerio de Salud, dicto el siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 2&#xB0;, del Decreto 1052 Exento, Salud, promulgado el 14.10.2013, deja sin efecto el Protocolo sobre Normas M&#xED;nimas para el desarrollo de Programas de Vigilancia de la P&#xE9;rdida Auditiva por exposici&#xF3;n a ruido en los lugares de trabajo&quot;, aprobado por la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

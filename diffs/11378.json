@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "1992-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-07-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9030113,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;: Los veh&#xED;culos inscritos en servicios urbanos que se destinen a servicios especiales que deban prestarse fuera del radio urbano y que tengan una antig&#xFC;edad superior a 10 a&#xF1;os, deber&#xE1;n contar con certificado de revisi&#xF3;n t&#xE9;cnica extendido con no m&#xE1;s de 90 d&#xED;as de antelaci&#xF3;n a la fecha en que se efect&#xFA;e el viaje especial.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;: DEROGADO<span class=\"n\" id=\"n_0\">DTO 97, TRANSPORTES<br>N&#xBA; a)<br>D.O. 08.07.1993</span></div><br></div>"
+        },
+        {
+          "part_id": 9030116,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;: Los buses y minibuses inscritos en servicios de locomoci&#xF3;n colectiva urbana con que se efect&#xFA;en servicios especiales no podr&#xE1;n transportar carga sobre el techo o en parrillas exteriores ubicadas sobre &#xE9;ste.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;: Los buses y minibuses inscritos en<span class=\"n\" id=\"n_1\">DTO 97, TRANSPORTES<br>N&#xBA; 1 b)<br>D.O. 08.07.1993</span> servicios de locomoci&#xF3;n colectiva urbana con que se efect&#xFA;en servicios especiales podr&#xE1;n transportar equipaje sobre el techo, siempre que cuenten con una parrilla porta-equipajes adecuadamente fijada al veh&#xED;culo; dicha parrilla porta-equipajes podr&#xE1; estar dotada con una escalerilla de acceso, cuya ubicaci&#xF3;n no deber&#xE1; interferir con las salidas de emergencia.</div><div class=\"p\">&nbsp; &nbsp; La carga deber&#xE1; cubrirse completamente con una lona impermeable para la protecci&#xF3;n de los equipajes y deber&#xE1; estar firmemente amarrada a la parrilla porta-equipajes.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1993-07-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2023-05-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

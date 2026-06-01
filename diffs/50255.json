@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-01-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-06-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8946813,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Reempl&#xE1;zase en el Art&#xED;culo 4&#xBA;, secci&#xF3;n IV, &quot;Cuadro de Atribuci&#xF3;n de Bandas de Frecuencias&quot; del Plan General de Uso del Espectro Radioel&#xE9;ctrico, aprobado por Decreto Supremo N&#xBA; 15, de 1983, del Ministerio de Transportes y Telecomunicaciones, la atribuci&#xF3;n de la banda 890 - 903 MHz, por la siguiente:</div><br><br><div class=\"p\">&quot;890 - 903&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fijo - M&#xF3;vil</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Radiolocal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (58)&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Reempl&#xE1;zase en el Art&#xED;culo 4&#xBA;, secci&#xF3;n</div><div class=\"p\">IV, &quot;Cuadro de Atribuci&#xF3;n de Bandas de Frecuencias&quot; del Plan General de Uso del Espectro Radioel&#xE9;ctrico, aprobado por Decreto Supremo N&#xBA; 15, de 1983, del Ministerio de Transportes y Telecomunicaciones, la atribuci&#xF3;n de la banda 890 - 903 MHz, por la siguiente:</div><br><br><div class=\"p\">&quot;890 - 903&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  FIJO M&#xD3;VIL,<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O.19.03.1997</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Radiolocalizaci&#xF3;n (58)&quot;.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

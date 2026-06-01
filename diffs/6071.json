@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-04-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-08-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8825776,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA LA PLANTA DEL PERSONAL DE LA EMPRESA PORTUARIA DE CHILE PARA EL A&#xD1;O 1974; FACULTA AL DIRECTOR PARA SIMPLIFICAR EL SISTEMA REMUNERACIONAL DE LOS TRABAJADORES DE DICHO ORGANISMO AUTONOMO DEL ESTADO Y PARA REGLAMENTAR SUS DERECHOS Y OBLIGACIONES</div><div class=\"p\">&nbsp; &nbsp; Santiago, 23 de Marzo de 1973.- La Junta de Gobierno de la Rep&#xFA;blica de Chile dict&#xF3; hoy lo siguiente:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 423.- Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;- Que es necesario fijar la Planta del Personal de la Empresa Portuaria de Chile para el a&#xF1;o 1974, en concordancia con lo establecido en el N&#xB0; 1 del D.L. N&#xB0; 249, del presente a&#xF1;o;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;- Que, por otra parte, el complejo sistema de remuneraciones del personal de dicho Organismo Aut&#xF3;nomo del Estado hace indispensable simplificarlo, adecu&#xE1;ndolo a la naturaleza de los servicios que presta la Empresa de modo que existan estipendios para los trabajadores que constituyan un real y directo incentivo a las labores que realizan y jerarquizando los niveles de ingreso de acuerdo a los trabajos que ejecutan mejorando los de aquellos que han experimentado deterioro;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;- Que, por &#xFA;ltimo, el r&#xE9;gimen jur&#xED;dico laboral del personal de la Empresa, por la naturaleza especial del Servicio, es conveniente regularlo de modo que los trabajadores puedan ejercer en forma expedita sus derechos y que las obligaciones correspondientes sean cumplidas disciplinada y eficientemente.</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno ha acordado dictar el siguiente Decreto Ley:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA LA PLANTA DEL PERSONAL DE LA EMPRESA PORTUARIA DE CHILE PARA EL A&#xD1;O 1974; FACULTA AL DIRECTOR PARA SIMPLIFICAR EL SISTEMA REMUNERACIONAL DE LOS TRABAJADORES DE DICHO ORGANISMO AUTONOMO DEL ESTADO Y PARA REGLAMENTAR SUS DERECHOS Y OBLIGACIONES</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 23 de Marzo de 1973.- La Junta de Gobierno de la Rep&#xFA;blica de Chile dict&#xF3; hoy lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 423.- Teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;- Que es necesario fijar la Planta del Personal de la Empresa Portuaria de Chile para el a&#xF1;o 1974, en concordancia con lo establecido en el N&#xB0; 1 del D.L. N&#xB0; 249, del presente a&#xF1;o;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;- Que, por otra parte, el complejo sistema de remuneraciones del personal de dicho Organismo Aut&#xF3;nomo del Estado hace indispensable simplificarlo, adecu&#xE1;ndolo a la naturaleza de los servicios que presta la Empresa de modo que existan estipendios para los trabajadores que constituyan un real y directo incentivo a las labores que realizan y jerarquizando los niveles de ingreso de acuerdo a los trabajos que ejecutan mejorando los de aquellos que han experimentado deterioro;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;- Que, por &#xFA;ltimo, el r&#xE9;gimen jur&#xED;dico laboral del personal de la Empresa, por la naturaleza especial del Servicio, es conveniente regularlo de modo que los trabajadores puedan ejercer en forma expedita sus derechos y que las obligaciones correspondientes sean cumplidas disciplinada y eficientemente.</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno ha acordado dictar el siguiente </div><div class=\"p\">&nbsp; &nbsp; Decreto Ley:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

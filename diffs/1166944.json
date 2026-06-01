@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-10-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-10-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10278667,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  En cumplimiento de lo dispuesto en el art&#xED;culo 7 de la ley N&#xBA; 18.010, que &quot;Establece Normas para las Operaciones de Cr&#xE9;dito y otras Obligaciones de Dinero que Indica&quot;, esta Comisi&#xF3;n informa:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Que la tasa de inter&#xE9;s corriente para operaciones no reajustables en moneda nacional determinada para el per&#xED;odo mensual que se inici&#xF3; el 14 de octubre de 2021, fue de 5,98% anual para operaciones de 90 d&#xED;as o m&#xE1;s, superiores al equivalente de 5.000 unidades de fomento.</div><div class=\"p\">&nbsp; &nbsp;  Que el Banco Central de Chile, por medio de oficio N&#xBA; 10/258, de fecha 20 de octubre de 2021, ha puesto en conocimiento de esta Comisi&#xF3;n que efectu&#xF3; el d&#xED;a 19 de octubre de 2021 una licitaci&#xF3;n de un bono BTP a 10 a&#xF1;os. El resultado de lo anterior fue un monto adjudicado de $140.000 millones con una tasa de adjudicaci&#xF3;n de 6,48%, superior a la vigente para estas operaciones.</div><div class=\"p\">&nbsp; &nbsp;  Por consiguiente, y conforme a lo dispuesto en el art&#xED;culo 7 de la ley N&#xBA; 18.010, a contar del 19 de octubre de 2021, la tasa de inter&#xE9;s corriente para operaciones no reajustables en moneda nacional de 90 d&#xED;as o m&#xE1;s, superiores al equivalente de 5.000 unidades de fomento, determinadas en el Certificado N&#xBA; 10/2021, de esta Comisi&#xF3;n, publicado en el Diario Oficial de 14 de octubre de 2021, se entiende reemplazada por la de 6,48%.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, y como consecuencia de lo anterior, a contar del 19 de octubre de 2021 y hasta el d&#xED;a anterior a la pr&#xF3;xima publicaci&#xF3;n, la tasa de inter&#xE9;s m&#xE1;xima convencional para las operaciones indicadas, es de 9,72%.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  En cumplimiento de lo dispuesto en el art&#xED;culo 7 de la ley N&#xBA; 18.010, que &quot;Establece Normas para las Operaciones de Cr&#xE9;dito y otras Obligaciones de Dinero que Indica&quot;, esta Comisi&#xF3;n informa:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Que <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1167107&amp;idParte=10279347&amp;idVersion=2021-10-28\">Certificado 10b,<br>HACIENDA<br>D.O. 28.10.2021</a></span>la tasa de inter&#xE9;s corriente para operaciones no reajustables en moneda nacional determinada para el per&#xED;odo mensual que se inici&#xF3; el 14 de octubre de 2021, fue de 3,98% anual para operaciones de 90 d&#xED;as o m&#xE1;s, superiores al equivalente de 5.000 unidades de fomento.</div><div class=\"p\">&nbsp; &nbsp;  Que el Banco Central de Chile, por medio de oficio N&#xBA; 10/258, de fecha 20 de octubre de 2021, ha puesto en conocimiento de esta Comisi&#xF3;n que efectu&#xF3; el d&#xED;a 19 de octubre de 2021 una licitaci&#xF3;n de un bono BTP a 10 a&#xF1;os. El resultado de lo anterior fue un monto adjudicado de $140.000 millones con una tasa de adjudicaci&#xF3;n de 6,48%, superior a la vigente para estas operaciones.</div><div class=\"p\">&nbsp; &nbsp;  Por consiguiente, y conforme a lo dispuesto en el art&#xED;culo 7 de la ley N&#xBA; 18.010, a contar del 19 de octubre de 2021, la tasa de inter&#xE9;s corriente para operaciones no reajustables en moneda nacional de 90 d&#xED;as o m&#xE1;s, superiores al equivalente de 5.000 unidades de fomento, determinadas en el Certificado N&#xBA; 10/2021, de esta Comisi&#xF3;n, publicado en el Diario Oficial de 14 de octubre de 2021, se entiende reemplazada por la de 6,48%.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, y como consecuencia de lo anterior, a contar del 19 de octubre de 2021 y hasta el d&#xED;a anterior a la pr&#xF3;xima publicaci&#xF3;n, la tasa de inter&#xE9;s m&#xE1;xima convencional para las operaciones indicadas, es de 9,72%.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1167107,
+      "fecha": "2021-10-28"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "fecha": "2008-06-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-07-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8191003,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Para los efectos de la implantaci&#xF3;n<span class=\"n\" id=\"n_0\">AVI S/N,<br>DIR. TRABAJO<br>D.O. 03.07.2008</span> de las normas de control que establece esta resoluci&#xF3;n, y de la fiscalizaci&#xF3;n de su cumplimiento, constituyen lugares de trabajo, de acuerdo a lo establecido en el inciso 2&#xBA; del art&#xED;culo 31 del D.F.L. N&#xBA; 2, de 1967, del Ministerio del Trabajo y Previsi&#xF3;n Social, el bus, su recorrido o tramo concesionado, cabezales o dep&#xF3;sitos y las oficinas o locales en que funcione la administraci&#xF3;n de la concesionaria, cuando, en materias laborales, hubiere sido autorizada su centralizaci&#xF3;n.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8191004,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9.- La contravenci&#xF3;n de las normas<span class=\"n\" id=\"n_2\">AVI S/N,<br>DIR. TRABAJO<br>D.O. 03.07.2008</span> establecidas por la presente resoluci&#xF3;n constituir&#xE1; infracci&#xF3;n a lo dispuesto en el art&#xED;culo 33 del C&#xF3;digo del Trabajo. Dicha infracci&#xF3;n se sancionar&#xE1; en conformidad a lo previsto en el art&#xED;culo 477 del mismo cuerpo legal.</div><div class=\"p\">&nbsp; &nbsp;  Lo anterior es sin perjuicio de las sanciones que eventualmente procediere aplicar por infracci&#xF3;n de otras normas del referido C&#xF3;digo o del D.F.L. N&#xBA; 2, de 1967, del Ministerio del Trabajo y Previsi&#xF3;n Social.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8191005,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10.- Der&#xF3;gase la aplicaci&#xF3;n de la<span class=\"n\" id=\"n_3\">AVI S/N,<br>DIR. TRABAJO<br>D.O. 03.07.2008</span> resoluci&#xF3;n exenta N&#xBA; 1.719, de 28 de septiembre de 1990, s&#xF3;lo en la Regi&#xF3;n Metropolitana y respecto de los trabajadores que se desempe&#xF1;an a bordo de buses que conforman el Plan Transantiago.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8191006,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- La presente resoluci&#xF3;n regir&#xE1; desde<span class=\"n\" id=\"n_4\">AVI S/N,<br>DIR. TRABAJO<br>D.O. 03.07.2008</span> el d&#xED;a 1&#xBA; del mes subsiguiente al de su publicaci&#xF3;n en el Diario Oficial.</div><br><br><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": 8190994,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- Para los efectos de la aplicaci&#xF3;n del sistema de control de las horas de trabajo establecido en la presente resoluci&#xF3;n, la jornada de trabajo se iniciar&#xE1; con el registro en la respectiva planilla de Ruta de la hora de presentaci&#xF3;n del conductor en el lugar que la concesionaria determine y concluir&#xE1; con el registro de la &quot;Hora de T&#xE9;rmino&quot;, la que no siempre es coincidente con el horario de su &#xFA;ltima &quot;llegada&quot;.</div><div class=\"p\">&nbsp; &nbsp;  La concesionaria, a trav&#xE9;s de dicha planilla de Ruta, deber&#xE1; comunicar al conductor, con la debida anticipaci&#xF3;n, a m&#xE1;s tardar al t&#xE9;rmino de la jornada del &#xFA;ltimo d&#xED;a laboral de la semana inmediatamente anterior, el o los ciclos que deber&#xE1; cumplir, indicando d&#xED;a y hora de presentaci&#xF3;n en el terminal, a efectos de iniciar, una vez cumplido el descanso semanal, una nueva distribuci&#xF3;n del o los ciclos de la jornada de trabajo de la semana que le sigue.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 8190995,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10.- La contravenci&#xF3;n de las normas establecidas por la presente resoluci&#xF3;n constituir&#xE1; infracci&#xF3;n a lo dispuesto en el art&#xED;culo 33 del C&#xF3;digo del Trabajo. Dicha infracci&#xF3;n se sancionar&#xE1; en conformidad a lo previsto en el art&#xED;culo 477 del mismo cuerpo legal.</div><div class=\"p\">&nbsp; &nbsp;  Lo anterior es sin perjuicio de las sanciones que eventualmente procediere aplicar por infracci&#xF3;n de otras normas del referido C&#xF3;digo o del D.F.L. N&#xBA; 2, de 1967, del Ministerio del Trabajo y Previsi&#xF3;n Social.</div><br><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8190997,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- Der&#xF3;gase la aplicaci&#xF3;n de la resoluci&#xF3;n exenta N&#xBA; 1.719, de 28 de septiembre de 1990, s&#xF3;lo en la Regi&#xF3;n Metropolitana y respecto de los trabajadores que se desempe&#xF1;an a bordo de buses que conforman el Plan Transantiago.</div><br><br></div>",
+          "new": null
+        }
+      ],
+      "changed": [
+        {
+          "part_id": 8190993,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- Para los efectos de la implantaci&#xF3;n de las normas de control que establece esta resoluci&#xF3;n, y de la fiscalizaci&#xF3;n de su cumplimiento, constituyen lugares de trabajo, de acuerdo a lo establecido en el inciso 2&#xBA; del art&#xED;culo 31 del D.F.L. N&#xBA; 2, de 1967, del Ministerio del Trabajo y Previsi&#xF3;n Social, el bus, su recorrido o tramo concesionado, cabezales o dep&#xF3;sitos y las oficinas o locales en que funcione la administraci&#xF3;n de la concesionaria, cuando, en materias laborales, hubiere sido autorizada su centralizaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- Para los efectos de la aplicaci&#xF3;n del<span class=\"n\" id=\"n_1\">AVI S/N,<br>DIR. TRABAJO<br>D.O. 03.07.2008</span> sistema de control de las horas de trabajo establecido en la presente resoluci&#xF3;n, la jornada de trabajo se iniciar&#xE1; con el registro en la respectiva planilla de Ruta de la hora de presentaci&#xF3;n del conductor en el lugar que la concesionaria determine y concluir&#xE1; con el registro de la &quot;Hora de T&#xE9;rmino&quot;, la que no siempre es coincidente con el horario de su &#xFA;ltima &quot;llegada&quot;.</div><div class=\"p\">&nbsp; &nbsp;  La concesionaria, a trav&#xE9;s de dicha planilla de Ruta, deber&#xE1; comunicar al conductor, con la debida anticipaci&#xF3;n, a m&#xE1;s tardar al t&#xE9;rmino de la jornada del &#xFA;ltimo d&#xED;a laboral de la semana inmediatamente anterior, el o los ciclos que deber&#xE1; cumplir, indicando d&#xED;a y hora de presentaci&#xF3;n en el terminal, a efectos de iniciar, una vez cumplido el descanso semanal, una nueva distribuci&#xF3;n del o los ciclos de la jornada de trabajo de la semana que le sigue.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

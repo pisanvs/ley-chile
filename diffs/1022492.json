@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-03-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9106134,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero: Ot&#xF3;rguese a la empresa Hot Rock Chile S.A., RUT 76.023.678-0, por el plazo de dos a&#xF1;os contados desde la publicaci&#xF3;n del presente decreto en el Diario Oficial, la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica sobre el &#xE1;rea denominada &quot;San Guillermo&quot;, ubicada en la comuna de Santa B&#xE1;rbara, provincia del Biob&#xED;o, Regi&#xF3;n del Biob&#xED;o, sobre una superficie total de 11.000 hect&#xE1;reas, cuyas coordenadas UTM de los v&#xE9;rtices limitantes referidas al Datum Provisional Sudamericano La Canoa &#x2013; 1956, Elipsoide de Referencia Internacional de 1924, Huso 19 Sur, expresadas en metros, son las siguientes</div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/16116.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero: Ot&#xF3;rguese a la <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>empresa Hot Rock Chile S.A., RUT 76.023.678-0, por el plazo de dos a&#xF1;os contados desde la publicaci&#xF3;n del presente decreto en el Diario Oficial, la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica sobre el &#xE1;rea denominada &quot;San Guillermo&quot;, ubicada en la comuna de Santa B&#xE1;rbara, provincia del Biob&#xED;o, Regi&#xF3;n del Biob&#xED;o, sobre una superficie total de 11.000 hect&#xE1;reas, cuyas coordenadas UTM de los v&#xE9;rtices limitantes referidas al Datum Provisional Sudamericano La Canoa &#x2013; 1956, Elipsoide de Referencia Internacional de 1924, Huso 19 Sur, expresadas en metros, son las siguientes</div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/16116.jpg\"></div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Numeral I del Decreto 80 Exento, Energ&#xED;a, publicado el 26.03.2014, viene a modificar la presente norma en el sentido de dar cuenta del cambio de nombre de la sociedad titular de la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica, la que ha pasado a denominarse &quot;EDC Energ&#xED;a Verde Chile S.A.&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

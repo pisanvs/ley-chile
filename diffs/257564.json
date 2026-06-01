@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1960-08-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1964-11-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7335684,
+          "old": "<div><div class=\"p\">REGLAMENTA EL ESTABLECIMIENTO DE INDUSTRIAS PESQUERAS EN EL PAIS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 597.- Santiago, 11 de Agosto de 1960.- Vistos: lo dispuesto en el n&#xFA;mero 16 del art&#xED;culo 2.o del decreto con fuerza de ley 294, de 1960; las disposiciones contenidas en los decretos con fuerza de ley N.os 301 y 340, ambos de 6 de Abril de 1960; lo manifestado por la ex Direcci&#xF3;n General de Producci&#xF3;n Agraria y Pesquera en sus oficios N.os 422 y 544, de 6 y 16 de Febrero del presente a&#xF1;o, respectivamente; el oficio N.o 25.717, de 9 de Mayo del a&#xF1;o en curso, de la Contralor&#xED;a General de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que por decreto supremo N.o 94, de 22 de Enero de 1958, expedido por el Ministerio de Agricultura, se reglament&#xF3; el establecimiento de industrias pesqueras en el pa&#xED;s, y</div><div class=\"p\">&nbsp; &nbsp;  Que dicha reglamentaci&#xF3;n no indic&#xF3; las exigencias m&#xED;nimas que deben cumplir las personas que deseen iniciar actividades industriales pesqueras en el territorio nacional, omisi&#xF3;n que es necesario subsanar, dictando un nuevo reglamento,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento para el establecimiento de industrias pesqueras en el pa&#xED;s: </div></div>",
+          "new": "<div><div class=\"p\">REGLAMENTA EL ESTABLECIMIENTO DE INDUSTRIAS PESQUERAS EN EL PAIS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 597.- Santiago, 11 de Agosto de 1960.- Vistos: lo dispuesto en el n&#xFA;mero 16 del art&#xED;culo 2.o del decreto con fuerza de ley 294, de 1960; las disposiciones contenidas en los decretos con fuerza de ley N.os 301 y 340, ambos de 6 de Abril de 1960; lo manifestado por la ex Direcci&#xF3;n General de Producci&#xF3;n Agraria y Pesquera en sus oficios N.os 422 y 544, de 6 y 16 de Febrero del presente a&#xF1;o, respectivamente; el oficio N.o 25.717, de 9 de Mayo del a&#xF1;o en curso, de la Contralor&#xED;a General de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que por decreto supremo N.o 94, de 22 de Enero de 1958, expedido por el Ministerio de Agricultura, se reglament&#xF3; el establecimiento de industrias pesqueras en el pa&#xED;s, y</div><div class=\"p\">&nbsp; &nbsp;  Que dicha reglamentaci&#xF3;n no indic&#xF3; las exigencias m&#xED;nimas que deben cumplir las personas que deseen iniciar actividades industriales pesqueras en el territorio nacional, omisi&#xF3;n que es necesario subsanar, dictando un nuevo reglamento,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento para el establecimiento de industrias pesqueras en el pa&#xED;s:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

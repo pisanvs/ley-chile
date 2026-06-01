@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8548852,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El personal que resulte encasillado mantendr&#xE1; el nivel de sus remuneraciones y, si se produjeran diferencias, &#xE9;stas se pagar&#xE1;n por planilla suplementaria, la que ser&#xE1; imponible en la misma proporci&#xF3;n en que lo sean las remuneraciones que sirven de base para calcularlas. Esta planilla suplementaria se absorber&#xE1; por los incrementos que el funcionario experimente en sus relaciones permanentes, excepto los derivados de los reajustes generales que se concedan al sector p&#xFA;blico.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Asimismo, este personal conservar&#xE1; el n&#xFA;mero de bienios que estuviere percibiendo, como tambi&#xE9;n el tiempo computable para el caso de uno nuevo y mantendr&#xE1; el derecho a jubilar en los t&#xE9;rminos previstos en el art&#xED;culo 132 del decreto con fuerza de ley N&#xBA; 338, de 1960, en relaci&#xF3;n con lo establecido en los art&#xED;culos 14 y 15 transitorios de la ley N&#xBA; 18.834, ni les afectar&#xE1; en el derecho conferido por el art&#xED;culo 2&#xBA; transitorio de la ley N&#xBA; 18.972, a quien corresponda.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El personal que resulte encasillado mantendr&#xE1; el nivel de sus remuneraciones y, si se produjeran diferencias, &#xE9;stas se pagar&#xE1;n por planilla suplementaria, la que ser&#xE1; imponible en la misma proporci&#xF3;n en que lo sean las remuneraciones que sirven de base para calcularlas. Esta planilla suplementaria se absorber&#xE1; por los incrementos que el funcionario experimente en sus remuneraciones permanentes, excepto los<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 27.05.1999</span> derivados de los reajustes generales que se concedan al sector p&#xFA;blico. Asimismo, este personal conservar&#xE1; el n&#xFA;mero de bienios que estuviere percibiendo, como tambi&#xE9;n el tiempo computable para el caso de uno nuevo y mantendr&#xE1; el derecho a jubilar en los t&#xE9;rminos previstos en el art&#xED;culo 132 del decreto con fuerza de ley N&#xBA; 338, de 1960, en relaci&#xF3;n con lo establecido en los art&#xED;culos 14 y 15 transitorios de la ley N&#xBA; 18.834, ni les afectar&#xE1; en el derecho conferido por el art&#xED;culo 2&#xBA; transitorio de la ley N&#xBA; 18.972, a quien corresponda. </div></div>"
+        }
+      ]
+    }
+  }
+]

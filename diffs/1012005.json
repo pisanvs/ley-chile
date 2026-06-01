@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-03-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-04-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8906367,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1012300&amp;idParte=8906131&amp;idVersion=2010-04-08\">Aviso S/N<br>D.O. 08.04.2010</a></span>&nbsp; &nbsp;  CONTRALOR&#xCD;A GENERAL DE LA REP&#xDA;BLICA</div><div class=\"p\">&nbsp; &nbsp;  Divisi&#xF3;n Jur&#xED;dica</div><br><div class=\"p\">Cursa con alcance la resoluci&#xF3;n N&#xBA; 163, de 2010, del Ministerio de Defensa Nacional, Subsecretar&#xED;a de Marina</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 11.024.- Santiago, 26 de febrero de 2010.</div><div class=\"p\">&nbsp; &nbsp;  Esta Contralor&#xED;a General ha dado curso al documento singularizado en el ep&#xED;grafe, que otorga la concesi&#xF3;n de acuicultura de porci&#xF3;n de agua y fondo de mar que indica, por cuanto se ajusta a derecho.</div><div class=\"p\">&nbsp; &nbsp;  No obstante lo anterior, es preciso se&#xF1;alar que las coordenadas geogr&#xE1;ficas indicadas en la parte final del N&#xBA; 2 resolutivo est&#xE1;n referidas a la carta SHOA N&#xBA; 8.500, lo que se ha omitido indicar en el instrumento en estudio.</div><div class=\"p\">Con el alcance que antecede se ha tomado raz&#xF3;n de la resoluci&#xF3;n del rubro.</div><br><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a Ud., Sonia Doren Lois, Contralor General de la Rep&#xFA;blica Subrogante.</div><br><div class=\"p\">A la se&#xF1;ora</div><div class=\"p\">Subsecretaria de Marina</div><div class=\"p\">Presente</div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1012300,
+      "fecha": "2010-04-08"
+    }
+  }
+]

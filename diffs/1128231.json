@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-01-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-03-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9992643,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Recon&#xF3;zcase, en el marco del &quot;Convenio de reconocimiento mutuo de t&#xED;tulos profesionales y grados acad&#xE9;micos de educaci&#xF3;n superior entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica del Ecuador&quot;, suscrito el 15 de octubre de 2015, los t&#xED;tulos de grado obtenidos en las universidades ecuatorianas que se indican a continuaci&#xF3;n:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/88653.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/88654.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Recon&#xF3;zcase, en el marco del &quot;Convenio de reconocimiento mutuo de t&#xED;tulos profesionales y grados acad&#xE9;micos de educaci&#xF3;n superior entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica del Ecuador&quot;, suscrito el 15 de octubre de 2015, los t&#xED;tulos de grado obtenidos en las universidades ecuatorianas que se indican a continuaci&#xF3;n:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/88653.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/88654.jpg\">.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo de la Resoluci&#xF3;n 1618 Exenta, Educaci&#xF3;n, publicada el 21.03.2019, rectifica el N&#xB0; 9 del listado, en la parte que dice &quot;Montesdeoca Ya&#xF1;ez&quot;, debiera decir &quot;Montesdeoca Yanez&quot;.&nbsp; &nbsp; &nbsp; </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1986-12-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-02-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1990-02-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9025439,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Cr&#xE9;ase en la planta de la Secretar&#xED;a y Administraci&#xF3;n General del Ministerio del Interior, fijada por el decreto con fuerza de ley N&#xB0; 1-18.035, de 1981, de ese Ministerio, el cargo de Abogado Procurador General, asimilado al grado 3&#xB0;, Directivo Superior, Nivel II, de la Escala Unica de Sueldos, al que le corresponder&#xE1; ejercer las funciones que se se&#xF1;alan en el art&#xED;culo 10 de la ley N&#xB0; 18.314.</div><div class=\"p\">&nbsp; &nbsp; El mayor gasto originado por la creaci&#xF3;n del cargo de Abogado Procurador General, se imputar&#xE1; al &#xED;tem 05-01-01-21 de la Secretar&#xED;a y Administraci&#xF3;n General del Ministerio del Interior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 1&#xB0;.- DEROGADO.-<span class=\"n\" id=\"n_0\">LEY 18925<br>ART 1&#xB0;</span></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  La derogaci&#xF3;n al art&#xED;culo 1&#xB0; de la presente ley, efectuada por el art&#xED;culo 1&#xB0; de la Ley N&#xB0; 18925, rige, seg&#xFA;n lo dispone su art&#xED;culo 4&#xB0;, a contar del 1&#xB0; de marzo de 1990.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

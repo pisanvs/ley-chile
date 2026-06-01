@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "2015-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-04-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9587542,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1076026&amp;idParte=9587541&amp;idVersion=2015-04-07\">Aviso S/N, TRABAJO<br>D.O. 07.04.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- La constituci&#xF3;n y funcionamiento de los Comit&#xE9;s Paritarios de Higiene y Seguridad de Faena Portuaria, se regir&#xE1;n por las normas contenidas en el DS N&#xBA; 54, de 1969, del Ministerio del Trabajo y Previsi&#xF3;n Social, salvo respecto de aquellas materias reguladas expresamente en el presente reglamento:</div><br></div>"
+        },
+        {
+          "part_id": 9587543,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1076026&amp;idParte=9587541&amp;idVersion=2015-04-07\">Aviso S/N, TRABAJO<br>D.O. 07.04.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos de este reglamento se entender&#xE1; por:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a) Entidad empleadora o empresa de muellaje, aquella que tiene por objeto efectuar la movilizaci&#xF3;n de la carga entre la nave y los recintos portuarios a los medios de transporte terrestre y viceversa, y para cuya operaci&#xF3;n emplea a trabajadores portuarios permanentes y/o eventuales.</div><div class=\"p\">&nbsp; &nbsp;  b) Trabajador portuario, aquel trabajador que cumple funciones de carga y/o descarga de mercanc&#xED;as entre la nave o artefacto naval y los recintos portuarios a los medios de transporte terrestre y viceversa, como asimismo, los que laboran en faenas que aparezcan directa e inseparablemente relacionadas con las anteriores, tales como la movilizaci&#xF3;n que se inicia y termina al interior de los aludidos recintos, la que se efect&#xFA;a para el acopio o almacenaje de la descarga dentro de ellos, la que tiene lugar desde los recintos portuarios a la nave o artefacto naval y viceversa.</div><div class=\"p\">&nbsp; &nbsp;  c) Trabajador portuario eventual, aquel trabajador que presta servicios en virtud de un contrato de trabajo, cuya duraci&#xF3;n no sea superior a veinte d&#xED;as.</div><div class=\"p\">&nbsp; &nbsp;  d) Trabajador portuario permanente, aquel trabajador que presta servicios en virtud de un contrato de trabajo, regido por las reglas generales de la legislaci&#xF3;n laboral.</div><div class=\"p\">&nbsp; &nbsp;  e) Puerto, terminal o recinto portuario, aquel espacio terrestre legalmente determinado, delimitado y divisible, sea operativa o geogr&#xE1;ficamente, que comprende los muelles, frentes de atraque y terrenos e infraestructura, donde se efect&#xFA;an labores de movilizaci&#xF3;n y almacenamiento de carga y descarga de naves y artefactos navales, y dem&#xE1;s faenas o funciones propias de la actividad portuaria.</div><div class=\"p\">&nbsp; &nbsp;  f) Frente de atraque, aquella infraestructura de un puerto que corresponde a un m&#xF3;dulo operacionalmente independiente con uno o varios sitios y sus correspondientes &#xE1;reas de respaldo, cuya finalidad es el atraque de buques, esencialmente para operaciones de transferencia de carga o descarga de mercader&#xED;as u otras actividades de naturaleza portuaria.</div><div class=\"p\">&nbsp; &nbsp;  g) Faena portuaria, aquella actividad que tenga por objeto efectuar la carga y descarga entre la nave, puerto, terminal, recinto portuario o frente de atraque, y los medios de transportes, y viceversa, sea que &#xE9;stos se ejecuten por trabajadores portuarios permanentes y/o eventuales.</div><br><br></div>"
+        },
+        {
+          "part_id": 9587544,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1076026&amp;idParte=9587541&amp;idVersion=2015-04-07\">Aviso S/N, TRABAJO<br>D.O. 07.04.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;.- Para los fines del presente reglamento, se considerar&#xE1;n Comit&#xE9;s Paritarios de Higiene y Seguridad de Faena Portuaria a los siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Comit&#xE9;s Paritarios de Higiene y Seguridad de Faena Portuaria de Empresas de Muellaje o Comit&#xE9;s Paritarios de Empresas de Muellaje: aquellos que la empresa de muellaje respectiva se encuentra obligada a constituir en cada puerto, terminal o frente de atraque en que presten regularmente servicios, siempre que, sumados los trabajadores permanentes y eventuales de la misma entidad empleadora, trabajen habitualmente m&#xE1;s de 25 personas, conforme al promedio mensual del a&#xF1;o calendario anterior.</div><div class=\"p\">&nbsp; &nbsp;  b) Comit&#xE9;s Paritarios de Higiene y Seguridad de Faena Portuaria de dos o m&#xE1;s Empresas de Muellaje o Comit&#xE9;s Paritarios de Puerto: aquellos que deben constituirse cuando en un mismo puerto presten servicios dos o m&#xE1;s entidades empleadoras de las se&#xF1;aladas en el art&#xED;culo 136 del C&#xF3;digo del Trabajo, cuando en su conjunto ocupen m&#xE1;s de 25 trabajadores, conforme al promedio mensual del a&#xF1;o calendario anterior.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1076026,
+      "fecha": "2015-04-07"
+    }
+  }
+]

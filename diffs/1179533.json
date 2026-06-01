@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2022-08-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10353258,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;quese el &#xE1;rea reglamentada por Lobesia botrana en la Regi&#xF3;n de Atacama, comuna de Vallenar, dispuesta mediante <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1170715&amp;idVersion=2022-08-02\">resoluci&#xF3;n exenta N&#xBA; 579 del 27 de diciembre 2021</a>, se&#xF1;alado en el resuelvo N&#xBA; 1, para suprimir y erradicar la plaga en el &#xE1;rea definida por el siguiente pol&#xED;gono:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/152106.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. Apl&#xED;quense las medidas fitosanitarias, establecidas en la resoluci&#xF3;n N&#xBA; 5.916 de 21 de octubre de 2016, y sus posteriores modificaciones del Director Nacional del Servicio Agr&#xED;cola y Ganadero, en forma inmediata en las &#xE1;reas definidas en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. Las transgresiones o incumplimientos de las medidas que se disponen, ser&#xE1;n sancionadas de acuerdo a lo dispuesto en el decreto ley N&#xBA; 3.557 de 1980 sobre protecci&#xF3;n agr&#xED;cola, y por la ley N&#xBA; 18.755, org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;quese el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&#xE1;rea reglamentada por Lobesia botrana en la Regi&#xF3;n de Atacama, comuna de Vallenar, dispuesta mediante resoluci&#xF3;n exenta N&#xBA; 579 del 27 de diciembre 2021, se&#xF1;alado en el resuelvo N&#xBA; 1, para suprimir y erradicar la plaga en el &#xE1;rea definida por el siguiente pol&#xED;gono:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/152106.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. Apl&#xED;quense las medidas fitosanitarias, establecidas en la resoluci&#xF3;n N&#xBA; 5.916 de 21 de octubre de 2016, y sus posteriores modificaciones del Director Nacional del Servicio Agr&#xED;cola y Ganadero, en forma inmediata en las &#xE1;reas definidas en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. Las transgresiones o incumplimientos de las medidas que se disponen, ser&#xE1;n sancionadas de acuerdo a lo dispuesto en el decreto ley N&#xBA; 3.557 de 1980 sobre protecci&#xF3;n agr&#xED;cola, y por la ley N&#xBA; 18.755, org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1 de la Resoluci&#xF3;n 947 Exenta, Agricultura, publicada el 19.12.2023, dispone modificar el &#xE1;rea reglamentada por Lobesia botrana en la Regi&#xF3;n de Atacama, comuna de Vallenar, dispuesta mediante la presente resoluci&#xF3;n, para suprimir y erradicar la plaga en el &#xE1;rea definida en el pol&#xED;gono que indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

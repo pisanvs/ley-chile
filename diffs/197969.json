@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2002-05-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-06-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8367516,
+          "old": "<div><div class=\"p\">AUTORIZA A &quot;CORPORACION COMUNIDAD LA ROCA&quot; PARA REALIZAR COLECTA PUBLICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 386 exenta.- Valpara&#xED;so, 2.mayo.2002.- Vistos: La solicitud presentada por la &quot;Corporaci&#xF3;n Comunidad La Roca&quot;, el Decreto Reglamentario N&#xBA; 955 de 1974, modificado por el D.S. N&#xBA; 1.309 del mismo a&#xF1;o, D.S., N&#xBA; 969 de 1975, todos del Ministerio del Interior, art&#xED;culo 2&#xBA; letra O) de la Ley 19.175 y Resoluci&#xF3;n N&#xBA; 520/96 de la Contralor&#xED;a General de la Rep&#xFA;blica;</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A &quot;CORPORACION COMUNIDAD LA ROCA&quot; PARA REALIZAR COLECTA PUBLICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 386 exenta.- Valpara&#xED;so, 2.mayo.2002.- Vistos: La solicitud presentada por la &quot;Corporaci&#xF3;n Comunidad La Roca&quot;, el Decreto Reglamentario N&#xBA; 955 de 1974, modificado por el D.S. N&#xBA; 1.309 del mismo a&#xF1;o, D.S., N&#xBA; 969 de 1975, todos del Ministerio del Interior, art&#xED;culo 2&#xBA; letra O) de la Ley 19.175 y Resoluci&#xF3;n N&#xBA; 520/96 de la Contralor&#xED;a General de la Rep&#xFA;blica;</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        },
+        {
+          "part_id": 8367517,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase a la &quot;Corporaci&#xF3;n Comunidad La Roca&quot; para realizar una colecta p&#xFA;blica a nivel regional, el d&#xED;a 4 de Junio del 2002.</div><div class=\"p\">&nbsp; &nbsp;  2.- Las utilidades producto de esta colecta deber&#xE1;n ser destinadas en beneficio directo de los j&#xF3;venes que se encuentran en proceso de rehabilitaci&#xF3;n para dejar las drogas y/o alcohol.</div><div class=\"p\">&nbsp; &nbsp;  3.- Las erogaciones s&#xF3;lo podr&#xE1;n recibirse en alcanc&#xED;as numeradas y controladas por la Intendencia, Gobernaci&#xF3;n Provincial o por las personas que sean designadas para que representen a dichas autoridades.</div><div class=\"p\">&nbsp; &nbsp;  4.- La instituci&#xF3;n objeto de la presente autorizaci&#xF3;n deber&#xE1; acreditar la publicaci&#xF3;n de la presente resoluci&#xF3;n en el Diario Oficial con anterioridad a la fecha de la colecta, y remitir a esta Intendencia, dentro de los sesenta d&#xED;as siguientes a dicha fecha, un informe detallado del monto de lo recaudado y de su inversi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  5.- El incumplimiento a lo dispuesto en el Reglamento sobre realizaci&#xF3;n de colectas, D.S. 955 (l) de 1974 y de sus modificaciones, ser&#xE1; causal suficiente para denegar, a la persona jur&#xED;dica infractora, en el futuro, otra autorizaci&#xF3;n similar, sin perjuicio de la responsabilidad civil y penal en que pudiera incurrir. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase a la &quot;Corporaci&#xF3;n Comunidad La Roca&quot;<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> para realizar una colecta p&#xFA;blica a nivel regional, el d&#xED;a 25 de Junio del 2002.<span class=\"n\" id=\"n_0\">RES 564 EXENTA,<br>INTERIOR<br>N&#xBA; 2<br>D.O. 18.06.2002</span></div><div class=\"p\">&nbsp; &nbsp;  2.- Las utilidades producto de esta colecta deber&#xE1;n ser destinadas en beneficio directo de los j&#xF3;venes que se encuentran en proceso de rehabilitaci&#xF3;n para dejar las drogas y/o alcohol.</div><div class=\"p\">&nbsp; &nbsp;  3.- Las erogaciones s&#xF3;lo podr&#xE1;n recibirse en alcanc&#xED;as numeradas y controladas por la Intendencia, Gobernaci&#xF3;n Provincial o por las personas que sean designadas para que representen a dichas autoridades.</div><div class=\"p\">&nbsp; &nbsp;  4.- La instituci&#xF3;n objeto de la presente autorizaci&#xF3;n deber&#xE1; acreditar la publicaci&#xF3;n de la presente resoluci&#xF3;n en el Diario Oficial con anterioridad a la fecha de la colecta, y remitir a esta Intendencia, dentro de los sesenta d&#xED;as siguientes a dicha fecha, un informe detallado del monto de lo recaudado y de su inversi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  5.- El incumplimiento a lo dispuesto en el Reglamento sobre realizaci&#xF3;n de colectas, D.S. 955 (l) de 1974 y de sus modificaciones, ser&#xE1; causal suficiente para denegar, a la persona jur&#xED;dica infractora, en el futuro, otra autorizaci&#xF3;n similar, sin perjuicio de la responsabilidad civil y penal en que pudiera incurrir.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1 de la RES 564 exenta, Interior, publicada el 18.06.2002, deja sin efecto lo dispuesto en el N&#xBA; 1 de la presente norma, estableciendo en su numeral 2&#xBA; una nueva fecha para la realizaci&#xF3;n de la colecta p&#xFA;blica a nivel regional.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

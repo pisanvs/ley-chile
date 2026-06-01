@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1964-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-06-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8766986,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CONCEDE AL PERSONAL MEDICO Y PARAMEDICO QUE INDICA EL DERECHO A DISFRUTAR DEL FERIADO LEGAL QUE SE&#xD1;ALA Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente.</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  CONCEDE AL PERSONAL MEDICO Y PARAMEDICO QUE INDICA</div><div class=\"p\"> EL DERECHO A DISFRUTAR DEL FERIADO LEGAL QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente.</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 2&#xB0; de la LEY 18123, publicada el 18.06.1982, derog&#xF3; esta ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

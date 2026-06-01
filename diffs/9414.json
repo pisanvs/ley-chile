@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-05-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8942385,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA DECRETO N&#xB0; 153, DE 1988</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 110.- Santiago, 1&#xB0; de Abril de 1991.- Visto: Lo dispuesto en el D.L. N&#xB0; 799, de 1974, en su art&#xED;culo 3&#xB0;, modificado por el D.F.L. N&#xB0; 12-2.345, de 1979, del Ministerio del Interior; Circular N&#xB0; 9.277 de 1975, de la Contralor&#xED;a General de la Rep&#xFA;blica; lo dispuesto en el D.L. N&#xB0; 2.442, de 1978; el decreto de Econom&#xED;a N&#xB0; 153, de 28 de Abril de 1988, lo solicitado por el Servicio Nacional de Pesca, mediante Ordinario N&#xB0; 3.946, de 21.11.90.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, por decreto de Econom&#xED;a N&#xB0; 153, de 1988, se asign&#xF3; al Sr. Director Nacional de Pesca, para el Cumplimiento de las labores propias de su cargo el uso privativo del veh&#xED;culo Peugeot 505 GTX, a&#xF1;o 1988, N&#xB0; de motor 001995, N&#xB0; chassis 16127 - 228, autoriz&#xE1;ndolo para circular en d&#xED;as inh&#xE1;biles, exento de la obligaci&#xF3;n de llevar el disco distintivo fiscal.</div><div class=\"p\">&nbsp; &nbsp; Que, en atenci&#xF3;n a que el veh&#xED;culo antes citado, fue dado de baja, el Servicio nacional de Pesca, solicita la modificaci&#xF3;n del decreto N&#xB0; 153, de 1988, asignando en su reemplazo otro con las mismas franquicias de circulaci&#xF3;n y exenci&#xF3;n de llevar disco que el anterior, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA DECRETO N&#xB0; 153, DE 1988</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 110.- Santiago, 1&#xB0; de Abril de 1991.- Visto: Lo dispuesto en el D.L. N&#xB0; 799, de 1974, en su art&#xED;culo 3&#xB0;, modificado por el D.F.L. N&#xB0; 12-2.345, de 1979, del Ministerio del Interior; Circular N&#xB0; 9.277 de 1975, de la Contralor&#xED;a General de la Rep&#xFA;blica; lo dispuesto en el D.L. N&#xB0; 2.442, de 1978; el decreto de Econom&#xED;a N&#xB0; 153, de 28 de Abril de 1988, lo solicitado por el Servicio Nacional de Pesca, mediante Ordinario N&#xB0; 3.946, de 21.11.90.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, por decreto de Econom&#xED;a N&#xB0; 153, de 1988, se asign&#xF3; al Sr. Director Nacional de Pesca, para el Cumplimiento de las labores propias de su cargo el uso privativo del veh&#xED;culo Peugeot 505 GTX, a&#xF1;o 1988, N&#xB0; de motor 001995, N&#xB0; chassis 16127 - 228, autoriz&#xE1;ndolo para circular en d&#xED;as inh&#xE1;biles, exento de la obligaci&#xF3;n de llevar el disco distintivo fiscal.</div><div class=\"p\">&nbsp; &nbsp; Que, en atenci&#xF3;n a que el veh&#xED;culo antes citado, fue dado de baja, el Servicio nacional de Pesca, solicita la modificaci&#xF3;n del decreto N&#xB0; 153, de 1988, asignando en su reemplazo otro con las mismas franquicias de circulaci&#xF3;n y exenci&#xF3;n de llevar disco que el anterior, </div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

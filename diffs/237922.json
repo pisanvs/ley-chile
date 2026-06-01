@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2005-05-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-05-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6526027,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 1.383, de esta Subsecretar&#xED;a,</div><div class=\"p\">modif&#xED;case el numeral 4&#xBA; de la resoluci&#xF3;n N&#xBA; 3.729 de</div><div class=\"p\">2004, modificada mediante resoluciones N&#xBA; 181, N&#xBA; 861 y</div><div class=\"p\">N&#xBA; 1.062, todas de 2005, todas de la Subsecretar&#xED;a de</div><div class=\"p\">Pesca, que autoriz&#xF3; a la UNIVERSIDAD DE VALPARAISO para</div><div class=\"p\">efectuar una pesca de investigaci&#xF3;n de conformidad con</div><div class=\"p\">los T&#xE9;rminos T&#xE9;cnicos de Referencia del proyecto</div><div class=\"p\">denominado &quot;Administraci&#xF3;n de un sistema de control de</div><div class=\"p\">esfuerzo y desembarque de capturas en la pesquer&#xED;a</div><div class=\"p\">artesanal de merluza del sur de la XI Regi&#xF3;n&quot;, en el sentido de incorporar el siguiente numeral 19 bis:</div><br><div class=\"p\">&nbsp; &nbsp;  &quot;19 bis.- En el evento que la consultora autorizada para efectuar la presente pesca de investigaci&#xF3;n, por cualquier circunstancia no proceda a efectuar la acreditaci&#xF3;n de capturas conforme lo se&#xF1;alado en la presente resoluci&#xF3;n, la funci&#xF3;n de control y fiscalizaci&#xF3;n de los desembarques de merluza del sur ser&#xE1; realizada por el Servicio Nacional de Pesca en el o los puertos que el mencionado organismo fiscalizador autorice en la X Regi&#xF3;n de Los Lagos y con los procedimientos que establezca a estos efectos&quot;. </div></div>"
+        },
+        {
+          "part_id": 6526028,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Valpara&#xED;so, 5 de mayo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-12-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-08-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9075725,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1&#xB0;.- Autor&#xED;zase a la Direcci&#xF3;n de Vialidad del Ministerio de Obras P&#xFA;blicas para invertir hasta la suma equivalente en moneda nacional de nueve millones de d&#xF3;lares de los Estados Unidos de Am&#xE9;rica, en la adquisici&#xF3;n de la maquinaria que la referida Direcci&#xF3;n, mediante resoluci&#xF3;n fundada, se&#xF1;ale como necesaria para la complementaci&#xF3;n adecuada de la conservaci&#xF3;n de la red vial comunal de la VIII Regi&#xF3;n del B&#xED;o-B&#xED;o, IX Regi&#xF3;n de La Araucan&#xED;a y X Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp; Esta maquinaria se destinar&#xE1; en partes iguales a las respectivas Direcciones Regionales de Vialidad. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1&#xB0;.- Autor&#xED;zase a la Direcci&#xF3;n de Vialidad<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> del Ministerio de Obras P&#xFA;blicas para invertir hasta la suma equivalente en moneda nacional de nueve millones de d&#xF3;lares de los Estados Unidos de Am&#xE9;rica, en la adquisici&#xF3;n de la maquinaria que la referida Direcci&#xF3;n, mediante resoluci&#xF3;n fundada, se&#xF1;ale como necesaria para la complementaci&#xF3;n adecuada de la conservaci&#xF3;n de la red vial comunal de la VIII Regi&#xF3;n del B&#xED;o-B&#xED;o, IX Regi&#xF3;n de La Araucan&#xED;a y X Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp; Esta maquinaria se destinar&#xE1; en partes iguales a las respectivas Direcciones Regionales de Vialidad.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  Ver el Decreto Supremo N&#xB0; 214, del Ministerio de Obras P&#xFA;blicas, publicado en el &quot;Diario Oficial&quot; de 25 de Agosto de 1994, que aprueba el Reglamento de la presente ley, y en especial, su art&#xED;culo 8&#xB0;.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

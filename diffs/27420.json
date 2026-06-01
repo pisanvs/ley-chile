@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1959-06-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1966-02-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8999952,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA A LOS MINISTROS DE ESTADO PARA FIRMAR POR EL PRESIDENTE DE LA REPUBLICA LOS DECRETOS QUE SE&#xD1;ALA Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">AUTORIZA A LOS MINISTROS DE ESTADO PARA FIRMAR POR<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> EL PRESIDENTE DE LA REPUBLICA LOS DECRETOS QUE SE&#xD1;ALA Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 11 de la LEY 16436, publicada el 24.02.1966, dispuso la derogaci&#xF3;n de la presente norma a medida que se dicten, mediante decreto supremo, las autorizaciones para que los funcionarios puedan hacer uso de las facultades que les confiere la ley referida, en conformidad con su Art. 4&#xBA;. </div></div>"
+        }
+      ]
+    }
+  }
+]

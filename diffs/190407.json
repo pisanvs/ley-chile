@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-10-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1985-03-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6352671,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA LOA SUR S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA LOA SUR S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS QUE SE&#xD1;ALA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

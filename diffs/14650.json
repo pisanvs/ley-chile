@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1993-10-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-10-21",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1995-10-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040690,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Instit&#xFA;yese el d&#xED;a 1&#xB0; de Octubre como &quot;D&#xED;a de los Trabajadores de la Educaci&#xF3;n&quot;. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Instit&#xFA;yese el d&#xED;a 1&#xB0; de Octubre como &quot;D&#xED;a de los Trabajadores de la Educaci&#xF3;n&quot;. Las celebraciones pertinentes, podr&#xE1;n realizarse<span class=\"n\" id=\"n_0\">DS 673,Educ.<br>1995, Art.<br>&#xFA;nico</span> en otra fecha por razones de servicio fundadas, calificadas por el Subsecretario de Educaci&#xF3;n, respecto del nivel central y por los Secretarios Regionales Ministeriales de Educaci&#xF3;n respecto del nivel regional. </div></div>"
+        }
+      ]
+    }
+  }
+]

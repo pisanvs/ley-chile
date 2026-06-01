@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-06-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8822720,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DICTA ORDENANZA LOCAL SOBRE DERECHOS MUNICIPALES POR CONCESIONES, PERMISOS O SERVICIOS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 16/93.- Colina, 8 de Enero de 1993.- Vistos: Lo dispuesto en el Art&#xED;culo 43 y dem&#xE1;s pertinentes del D.L.</div><div class=\"p\">3.063 de 1979, sobre Rentas Municipales. La necesidad de regular los Derechos Municipales por concesiones, permisos o servicios, y lo dispuesto en la Ley General de Urbanismo y Construcciones, la Sesi&#xF3;n Extraordinaria N&#xB0; 8 de fecha 13 de Enero de 1993, del Concejo de Colina y las facultades que me confiere la Ley N&#xB0; 18.695, Org&#xE1;nica Constitucional de Municipalidades, cuyo texto refundido fue fijado por el Decreto Supremo 662 del Ministerio del Interior, publicado en el Diario Oficial del 27 de Agosto de 1992,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; D&#xED;ctase la siguiente &quot;Ordenanza local sobre derechos municipales por concesiones, permisos o servicios&quot;, la cual regir&#xE1; a contar de la fecha de su publicaci&#xF3;n en el Diario Oficial.</div><br></div>",
+          "new": "<div><div class=\"p\">DICTA ORDENANZA LOCAL SOBRE DERECHOS MUNICIPALES POR CONCESIONES, PERMISOS O SERVICIOS</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 16/93.- Colina, 18 de Enero de 1993.-<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 17.06.1993</span></div><div class=\"p\">Vistos: Lo dispuesto en el Art&#xED;culo 43 y dem&#xE1;s pertinentes del D.L. 3.063 de 1979, sobre Rentas Municipales. La necesidad de regular los Derechos Municipales por concesiones, permisos o servicios, y lo dispuesto en la Ley General de Urbanismo y Construcciones, la Sesi&#xF3;n Extraordinaria N&#xB0; 8 de fecha 13 de Enero de 1993, del Concejo de Colina y las facultades que me confiere la Ley N&#xB0; 18.695, Org&#xE1;nica Constitucional de Municipalidades, cuyo texto refundido fue fijado por el Decreto Supremo 662 del Ministerio del Interior, publicado en el Diario Oficial del 27 de Agosto de 1992,</div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><div class=\"p\">&nbsp; &nbsp; D&#xED;ctase la siguiente &quot;Ordenanza local sobre derechos municipales por concesiones, permisos o servicios&quot;, la cual regir&#xE1; a contar de la fecha de su publicaci&#xF3;n en el Diario Oficial.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313686,
+          "old": "<div><div class=\"p\">AUTORIZA A DONA VERONICA CECILIA NOVA DURAN PARA INICIAR ACTIVIDADES PESQUERAS.CADUCA RESOLUCION QUE INDICA </div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DONA VERONICA CECILIA NOVA DURAN PARA INICIAR ACTIVIDADES PESQUERAS.CADUCA RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

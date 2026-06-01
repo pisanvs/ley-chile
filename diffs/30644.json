@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-01-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8232491,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0; transitorio.- Las concesiones de radiodifusi&#xF3;n otorgadas con anterioridad a la vigencia de la ley N&#xB0; 18.168 y que tengan vencimiento con posterioridad a la publicaci&#xF3;n de la presente ley, se entender&#xE1;n autom&#xE1;ticamente renovadas a partir de su vencimiento por el lapso que falte para completar diez a&#xF1;os contados desde la fecha de publicaci&#xF3;n de la presente ley.&quot;</div><div class=\"p\">&nbsp; &nbsp; Habi&#xE9;ndose cumplido con lo establecido en el N&#xB0; 1&#xB0; del Art&#xED;culo 82 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto prom&#xFA;lguese y ll&#xE9;vese a efecto como Ley de la Rep&#xFA;blica.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0; transitorio.- Las concesiones de<span class=\"n\" id=\"n_0\">LEY 19493<br>ART. 2<br>D.O.05.02.1997</span> radiodifusi&#xF3;n sonora vigentes al 20 de enero de 1994 se renovar&#xE1;n autom&#xE1;ticamente, por el solo ministerio de la ley y sin necesidad de declaraci&#xF3;n alguna, a partir de su vencimiento, por el lapso que les falte para completar diez a&#xF1;os, contado desde la fecha de publicaci&#xF3;n de la presente ley. </div></div>"
+        }
+      ]
+    }
+  }
+]

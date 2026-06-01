@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7226238,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 2.424, DE 1989 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 2.424, DE 1989 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

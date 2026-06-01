@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-02-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-05-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325415,
+          "old": "<div><div class=\"p\">AUTORIZA A COMERCIAL COMTESA LIMITADA PARA DESARROLLAR ACTIVIDADES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMERCIAL COMTESA LIMITADA PARA DESARROLLAR ACTIVIDADES QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

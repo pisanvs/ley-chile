@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-05-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9441951,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese como fecha y condiciones de cumplimiento de la exigencia contenida en el art&#xED;culo 45&#xBA; del decreto supremo N&#xBA; 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, para los servicios inscritos en el Registro Nacional de Servicios de Transportes de Pasajeros el d&#xED;a 30 de enero del a&#xF1;o 2019.</div><div class=\"p\">&nbsp; &nbsp;  2. Los terminales ser&#xE1;n del tipo &quot;terminal de veh&#xED;culos&quot;, se&#xF1;alado en el art&#xED;culo 45&#xBA; bis, del decreto supremo N&#xBA; 212, de 1992, citado, y reglamentado respecto de su construcci&#xF3;n en el decreto supremo N&#xBA; 47, de 1992, del Ministerio de Vivienda y Urbanismo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese como fecha y condiciones de cumplimiento de la exigencia contenida en el art&#xED;culo 45&#xBA; del decreto supremo N&#xBA; 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, para los servicios de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1064179&amp;idParte=9486547&amp;idVersion=2014-07-09\">Resoluci&#xF3;n 136 EXENTA,<br>TRANSPORTES<br>D.O. 09.07.2014</a></span>taxis colectivos inscritos en el Registro Nacional de Servicios de Transportes de Pasajeros el d&#xED;a 30 de enero del a&#xF1;o 2019.</div><div class=\"p\">&nbsp; &nbsp;  2. Los terminales ser&#xE1;n del tipo &quot;terminal de veh&#xED;culos&quot;, se&#xF1;alado en el art&#xED;culo 45&#xBA; bis, del decreto supremo N&#xBA; 212, de 1992, citado, y reglamentado respecto de su construcci&#xF3;n en el decreto supremo N&#xBA; 47, de 1992, del Ministerio de Vivienda y Urbanismo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1064179,
+      "fecha": "2014-07-09"
+    }
+  }
+]

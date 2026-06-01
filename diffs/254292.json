@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-10-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-10-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6586481,
+          "old": "<div><div class=\"p\">FIJA NOMINA DE ESPECIES HIDROBIOLOGICAS VIVAS DE IMPORTACION AUTORIZADA. DEJA SIN EFECTO RESOLUCIONES QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.687 exenta.- Valpara&#xED;so, 15 de septiembre de 2006.- Visto: Lo informado por el Departamento de Acuicultura de esta Subsecretar&#xED;a en Informe T&#xE9;cnico (D.AC.) N&#xBA; 895 de fecha 14 de septiembre de 2006; lo dispuesto en el D.F.L. N&#xBA; 5, de 1983; los D.S. N&#xBA; 730 de 1995 y N&#xBA; 96, de 1996 y el decreto exento N&#xBA; 626 de 2001, todos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; las resoluciones N&#xBA; 3.277 de 2005 y N&#xB0; 1.043 de 2006, ambas de esta Subsecretar&#xED;a; la Ley General de Pesca y Acuicultura N&#xBA; 18.892 y sus modificaciones, cuyo texto refundido, coordinado y sistematizado fue fijado por el D.S. N&#xBA; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA NOMINA DE ESPECIES HIDROBIOLOGICAS VIVAS DE IMPORTACION AUTORIZADA. DEJA SIN EFECTO RESOLUCIONES QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.687 exenta.- Valpara&#xED;so, 15 de septiembre de 2006.- Visto: Lo informado por el Departamento de Acuicultura de esta Subsecretar&#xED;a en Informe T&#xE9;cnico (D.AC.) N&#xBA; 895 de fecha 14 de septiembre de 2006; lo dispuesto en el D.F.L. N&#xBA; 5, de 1983; los D.S. N&#xBA; 730 de 1995 y N&#xBA; 96, de 1996 y el decreto exento N&#xBA; 626 de 2001, todos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; las resoluciones N&#xBA; 3.277 de 2005 y N&#xB0; 1.043 de 2006, ambas de esta Subsecretar&#xED;a; la Ley General de Pesca y Acuicultura N&#xBA; 18.892 y sus modificaciones, cuyo texto refundido, coordinado y sistematizado fue fijado por el D.S. N&#xBA; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

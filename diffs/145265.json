@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1984-08-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002551,
+          "old": "<div><div class=\"p\">DESIGNA COMO RECEPTOR JUDICIAL EN LA X REGION A DON OSVALDO MU&#xD1;OZ ALTAMIRANO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 111.- Santiago, 13 de Julio de 1984.- Vistos: Lo dispuesto en el art&#xED;culo 11 del decreto ley N&#xBA; 2.974, de 1979,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA COMO RECEPTOR JUDICIAL EN LA X REGION A DON OSVALDO MU&#xD1;OZ ALTAMIRANO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 111.- Santiago, 13 de Julio de 1984.- Vistos: Lo dispuesto en el art&#xED;culo 11 del decreto ley N&#xBA; 2.974, de 1979,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        },
+        {
+          "part_id": 9002552,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Se designa como Receptor Judicial para que permanentemente practique las actuaciones inherentes a ese cargo en los juicios que se tramitan ante los Juzgados de Polic&#xED;a Local, en conformidad a las disposiciones del decreto ley citado, en la X Regi&#xF3;n, al se&#xF1;or:</div><div class=\"p\">&nbsp; &nbsp;  Osvaldo Mu&#xF1;oz Altamirano, Oficial Administrativo, Grado 15 EUS, Rol&#xED;n 561.060-6, con residencia en Puerto Montt.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Se designa como Receptor Judicial para que permanentemente practique las actuaciones inherentes a ese cargo en los juicios que se tramitan ante los Juzgados de Polic&#xED;a Local, en conformidad a las disposiciones del decreto ley citado, en la X Regi&#xF3;n, al se&#xF1;or:</div><div class=\"p\">&nbsp; &nbsp;  Osvaldo Mu&#xF1;oz Altamirano, Oficial Administrativo,<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Grado 15 EUS, Rol&#xED;n 561.060-6, con residencia en Puerto Montt.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 252, Agricultura, publicada el 23.09.1999 modific&#xF3; la presente resoluci&#xF3;n en el sentido de eliminar al Sr. Osvaldo Mu&#xF1;oz Altamirano como Receptor Judicial.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

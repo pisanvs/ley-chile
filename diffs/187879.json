@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-07-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-08-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6343599,
+          "old": "<div><div class=\"p\">ESTABLECE LA &quot;COMISION EVALUADORA ESPECIAL&quot; PREVISTA EN EL NUMERO 5&#xBA; DE LA RESOLUCION N&#xBA; 948 EXENTA, DE 1998 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 246 exenta.- Santiago, 16 de julio de 2001.- Visto: Lo dispuesto en el punto 2.5.6 de las Bases de Licitaci&#xF3;n, modificaciones, aclaraciones y respuestas a las consultas formuladas a las Bases del proceso de licitaci&#xF3;n denominado Licitaci&#xF3;n de V&#xED;as 1998, aprobadas por resoluci&#xF3;n N&#xBA; 1/98, 6/98 y 7/98 respectivamente, todas del Ministerio de Transportes y Telecomunicaciones y lo dispuesto por resoluci&#xF3;n exenta N&#xBA; 223/2001 que fij&#xF3; el segundo per&#xED;odo de capacitaci&#xF3;n, en el marco de programas anuales de capacitaci&#xF3;n obligatoria para el personal de conducci&#xF3;n de veh&#xED;culos que presten servicios urbanos de transporte p&#xFA;blico remunerado de pasajeros, mediante buses de Santiago, la resoluci&#xF3;n exenta N&#xBA; 224/2001 que aprob&#xF3; el referido programa de estudios y su anexo; todas de esta Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, dentro del marco regulatorio del programa obligatorio de capacitaci&#xF3;n para el personal de conducci&#xF3;n de los servicios licitados de transporte p&#xFA;blico y remunerado de pasajeros, y con la finalidad de evaluar el nivel de cumplimiento de los objetivos propuestos en el plan, se ha previsto el establecimiento de una &quot;Comisi&#xF3;n Evaluadora Especial&quot; que proceder&#xE1; al examen tanto de los conductores que hubieran efectuado el respectivo curso como de las entidades encargadas de impartir &#xE9;stos.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE LA &quot;COMISION EVALUADORA ESPECIAL&quot; PREVISTA EN EL NUMERO 5&#xBA; DE LA RESOLUCION N&#xBA; 948 EXENTA, DE 1998 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 246 exenta.- Santiago, 16 de julio de 2001.- Visto: Lo dispuesto en el punto 2.5.6 de las Bases de Licitaci&#xF3;n, modificaciones, aclaraciones y respuestas a las consultas formuladas a las Bases del proceso de licitaci&#xF3;n denominado Licitaci&#xF3;n de V&#xED;as 1998, aprobadas por resoluci&#xF3;n N&#xBA; 1/98, 6/98 y 7/98 respectivamente, todas del Ministerio de Transportes y Telecomunicaciones y lo dispuesto por resoluci&#xF3;n exenta N&#xBA; 223/2001 que fij&#xF3; el segundo per&#xED;odo de capacitaci&#xF3;n, en el marco de programas anuales de capacitaci&#xF3;n obligatoria para el personal de conducci&#xF3;n de veh&#xED;culos que presten servicios urbanos de transporte p&#xFA;blico remunerado de pasajeros, mediante buses de Santiago, la resoluci&#xF3;n exenta N&#xBA; 224/2001 que aprob&#xF3; el referido programa de estudios y su anexo; todas de esta Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, dentro del marco regulatorio del programa obligatorio de capacitaci&#xF3;n para el personal de conducci&#xF3;n de los servicios licitados de transporte p&#xFA;blico y remunerado de pasajeros, y con la finalidad de evaluar el nivel de cumplimiento de los objetivos propuestos en el plan, se ha previsto el establecimiento de una &quot;Comisi&#xF3;n Evaluadora Especial&quot; que proceder&#xE1; al examen tanto de los conductores que hubieran efectuado el respectivo curso como de las entidades encargadas de impartir &#xE9;stos.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

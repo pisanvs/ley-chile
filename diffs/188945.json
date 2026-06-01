@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-03-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-10-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6347709,
+          "old": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA LA APROBADA POR EL INSTITUTO NACIONAL DE NORMALIZACION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 56.- Santiago, 21 de Febrero de 1986.- Visto: El oficio No. 6.958-400, de 10 de octubre de 1984, del Instituto Nacional de Normalizaci&#xF3;n; el oficio No. 392, de 20 de enero de 1986, de la Superintendencia de Electricidad y Combustibles; la Ley No. 18.410; lo dispuesto en el DFL No. 1, de 1978, del Ministerio de Miner&#xED;a; en el art&#xED;culo 20&#xB0; del decreto ley No. 3.001, de 1979; y la facultad que me concede el art&#xED;culo 32&#xB0;, No. 8, de la Constituci&#xF3;n Pol&#xED;tica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA LA APROBADA POR EL INSTITUTO NACIONAL DE NORMALIZACION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 56.- Santiago, 21 de Febrero de 1986.- Visto: El oficio No. 6.958-400, de 10 de octubre de 1984, del Instituto Nacional de Normalizaci&#xF3;n; el oficio No. 392, de 20 de enero de 1986, de la Superintendencia de Electricidad y Combustibles; la Ley No. 18.410; lo dispuesto en el DFL No. 1, de 1978, del Ministerio de Miner&#xED;a; en el art&#xED;culo 20&#xB0; del decreto ley No. 3.001, de 1979; y la facultad que me concede el art&#xED;culo 32&#xB0;, No. 8, de la Constituci&#xF3;n Pol&#xED;tica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

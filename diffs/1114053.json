@@ -1,0 +1,56 @@
+[
+  {
+    "fecha": "2018-01-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-07-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9878671,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Modif&#xED;case la <a href=\"https://www.leychile.cl/Navegar?idNorma=1093256&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xB0; 3.724, de 2016</a>, que Asigna Tramos para la Transici&#xF3;n al Sistema de Desarrollo Profesional Docente, de conformidad al p&#xE1;rrafo 2&#xB0; transitorio de la ley N&#xB0; 20.903, de los profesionales de la educaci&#xF3;n que indica, y se&#xF1;ala los bienios correspondientes, en el siguiente sentido: Incorp&#xF3;rase al listado de los profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en el documento de formato port&#xE1;til (PDF), a que hace referencia el art&#xED;culo primero precedente, en la p&#xE1;gina 1 del archivo, bajo el t&#xED;tulo &quot;Modif&#xED;case la resoluci&#xF3;n exenta N&#xB0; 3.724, de 2016, de la Subsecretar&#xED;a de Educaci&#xF3;n&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1214802&amp;idParte=10554280&amp;idVersion=2025-07-09\">Resoluci&#xF3;n 8294 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 09.07.2025</a></span>Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1214802,
+      "fecha": "2025-07-09"
+    }
+  },
+  {
+    "fecha": "2025-09-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9878672,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Modif&#xED;case la <a href=\"https://www.leychile.cl/Navegar?idNorma=1104666&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xB0; 3.263, de 2017</a>, que Asigna Tramos para los Profesionales de la Educaci&#xF3;n que indica y se&#xF1;ala los bienios correspondientes, en el siguiente sentido:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a) Incorp&#xF3;rase al listado los siguientes profesionales de la educaci&#xF3;n, que se encuentran individualizados en el documento de formato port&#xE1;til (PDF), a que hace referencia el art&#xED;culo primero precedente, entre las p&#xE1;ginas 2 y 8 ambas inclusive, del archivo, bajo el t&#xED;tulo &quot;Modif&#xED;case la resoluci&#xF3;n exenta N&#xB0; 3.263, de 2017, de la Subsecretar&#xED;a de Educaci&#xF3;n agreg&#xE1;ndose lo siguiente.&quot;.</div><div class=\"p\">&nbsp; &nbsp;  b) Reemplace los siguientes profesionales de la educaci&#xF3;n que se encuentran individualizados en el documento de formato port&#xE1;til (PDF), a que hace referencia el art&#xED;culo primero precedente, en la p&#xE1;gina 9 del archivo, bajo el t&#xED;tulo &quot;Modif&#xED;case la resoluci&#xF3;n exenta N&#xB0; 3.263, de 2017, de la Subsecretar&#xED;a de Educaci&#xF3;n en el siguiente sentido.&quot;.</div><div class=\"p\">&nbsp; &nbsp;  c) Elim&#xED;nase del listado los profesionales de la educaci&#xF3;n, individualizados en el documento de formato port&#xE1;til (PDF), a que hace referencia el art&#xED;culo primero precedente, en la p&#xE1;gina 10 del archivo bajo el t&#xED;tulo &quot;Modif&#xED;case la resoluci&#xF3;n exenta N&#xB0; 3.263, de 2017, de la Subsecretar&#xED;a de Educaci&#xF3;n elimin&#xE1;ndose lo siguiente.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1216894&amp;idParte=10562783&amp;idVersion=2025-09-25\">Resoluci&#xF3;n 10526 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 25.09.2025</a></span>Derogado.</div><br></div>"
+        },
+        {
+          "part_id": 9878674,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: Elim&#xED;nase del listado de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1108122&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xB0; 5.076, de 2017</a>, que Asigna tramos para la transici&#xF3;n de desarrollo profesional docente, de conformidad al p&#xE1;rrafo 2&#xB0; transitorio de la ley N&#xB0; 20.903, a los Jefes de Departamentos de Administraci&#xF3;n de Educaci&#xF3;n Municipal y Directores de Educaci&#xF3;n Municipal, y se&#xF1;ala los bienios que corresponda, el profesional de la educaci&#xF3;n que se encuentre individualizado en el documento de formato port&#xE1;til (PDF), a que hace referencia el art&#xED;culo primero precedente, en la p&#xE1;gina 15 del archivo bajo el t&#xED;tulo &quot;Modif&#xED;case la resoluci&#xF3;n exenta N&#xB0; 5.076, de 2017, de la Subsecretar&#xED;a de Educaci&#xF3;n elimin&#xE1;ndose lo siguiente:&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto.- <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1216895&amp;idParte=10562768&amp;idVersion=2025-09-25\">Resoluci&#xF3;n 10617 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 25.09.2025</a></span>Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": [
+      {
+        "idNorma": 1216894,
+        "fecha": "2025-09-25"
+      },
+      {
+        "idNorma": 1216895,
+        "fecha": "2025-09-25"
+      }
+    ]
+  }
+]

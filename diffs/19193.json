@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-01-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-10-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938573,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Rosa Ulloa Ulloa, madre del beneficiario, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Rosa Ulloa Ulloa,<span class=\"n\" id=\"n_0\">DTO 2093, INTERIOR<br>D.O. 16.10.1997</span> madre del beneficiario, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 2093, de Interior 1997, deja sin efecto la facultad&nbsp; concedida a do&#xF1;a Rosa Ulloa Ulloa, para cobrar la pensi&#xF3;n a que se refiere el art&#xED;culo 1&#xB0;.y designa&nbsp; a do&#xF1;a Rosa In&#xE9;s Alvarez Ulloa.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

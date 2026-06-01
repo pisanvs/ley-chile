@@ -1,0 +1,61 @@
+[
+  {
+    "fecha": "2010-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-03-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9090932,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las cuotas globales anuales de captura de las unidades de pesquer&#xED;a de la V a la X Regiones ascender&#xE1;n a 80.000 toneladas de Anchoveta Engraulis ringens y 605.000 toneladas de Sardina com&#xFA;n Clupea bentincki, fraccionadas de la siguiente manera:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/15510.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las cuotas globales anuales de captura de las unidades<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de pesquer&#xED;a de la V a la X Regiones ascender&#xE1;n a 80.000 toneladas de Anchoveta Engraulis ringens y 605.000 toneladas de Sardina com&#xFA;n Clupea bentincki, fraccionadas de la siguiente manera:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/15510.jpg\"></div><br><div class=\"p\">&nbsp; </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 266 exento, Econom&#xED;a, publicado el 25.03.2011, modifica el presente art&#xED;culo, en el sentido de se&#xF1;alar, que la cuota global anual de captura de la unidad de pesquer&#xED;a de Sardina com&#xFA;n Clupea bentincki de la V a la X Regi&#xF3;n, a&#xF1;o 2011, ascender&#xE1; a 1.100.000 toneladas, fraccionadas de la manera que en ella se indica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-08-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9090930,
+          "old": "<div><br><div class=\"p\">Art&#xED;culo 3&#xBA;.- La cuota global anual de captura de las unidades de pesquer&#xED;a de Anchoveta Engraulis ringens y Sardina espa&#xF1;ola Sardinops sagax de la XV, I y II Regiones ascender&#xE1; a 1.016.000 toneladas, fraccionadas de la siguiente manera:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/15508.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- La cuota global anual de captura de las unidades de pesquer&#xED;a de Anchoveta Engraulis ringens y Sardina espa&#xF1;ola Sardinops sagax de la XV, I y II Regiones ascender&#xE1; a 1.016.000 toneladas, fraccionadas de la siguiente manera: </div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA 1</a></div></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/15508.jpg\"></div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xDA;nico del Decreto 740 Exento, Econom&#xED;a, publicado el 17.08.2011, modifica el presente art&#xED;culo, en el sentido de se&#xF1;alar que la cuota global anual de captura de la unidad de pesquer&#xED;a de Anchoveta Engraulis ringens y Sardina espa&#xF1;ola Sardinops sagax de la XV, I y II Regiones, a&#xF1;o 2011, ascender&#xE1; a 1.358.000 toneladas, fraccionadas de la manera que en ella se indica.</div></div>"
+        },
+        {
+          "part_id": 9090932,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las cuotas globales anuales de captura de las unidades<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de pesquer&#xED;a de la V a la X Regiones ascender&#xE1;n a 80.000 toneladas de Anchoveta Engraulis ringens y 605.000 toneladas de Sardina com&#xFA;n Clupea bentincki, fraccionadas de la siguiente manera:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/15510.jpg\"></div><br><div class=\"p\">&nbsp; </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 266 exento, Econom&#xED;a, publicado el 25.03.2011, modifica el presente art&#xED;culo, en el sentido de se&#xF1;alar, que la cuota global anual de captura de la unidad de pesquer&#xED;a de Sardina com&#xFA;n Clupea bentincki de la V a la X Regi&#xF3;n, a&#xF1;o 2011, ascender&#xE1; a 1.100.000 toneladas, fraccionadas de la manera que en ella se indica.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las cuotas globales anuales de captura de las unidades<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div> de pesquer&#xED;a de la V a la X Regiones ascender&#xE1;n a 80.000 toneladas de Anchoveta Engraulis ringens y 605.000 toneladas de Sardina com&#xFA;n Clupea bentincki, fraccionadas de la siguiente manera:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/15510.jpg\"></div><br><div class=\"p\">&nbsp; </div><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 266 exento, Econom&#xED;a, publicado el 25.03.2011, modifica el presente art&#xED;culo, en el sentido de se&#xF1;alar, que la cuota global anual de captura de la unidad de pesquer&#xED;a de Sardina com&#xFA;n Clupea bentincki de la V a la X Regi&#xF3;n, a&#xF1;o 2011, ascender&#xE1; a 1.100.000 toneladas, fraccionadas de la manera que en ella se indica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9090936,
+          "old": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- La cuota global anual de captura de la unidad de pesquer&#xED;a de Merluza com&#xFA;n (Merluccius gayi), a ser extra&#xED;da en el &#xE1;rea mar&#xED;tima comprendida entre la IV Regi&#xF3;n y el paralelo 41&#xBA;28,6&apos; L.S., ascender&#xE1; a 48.000 toneladas, fraccionadas de la siguiente manera:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/15514.jpg\"></div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  La fracci&#xF3;n artesanal de la cuota global anual de captura de Merluza com&#xFA;n antes autorizada podr&#xE1; ser reasignada durante el segundo semestre en una o m&#xE1;s regiones o &#xE1;reas. La reasignaci&#xF3;n no podr&#xE1; exceder de un 50% de los remanentes no capturados durante el primer semestre.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- La cuota global anual de captura de la unidad de pesquer&#xED;a de Merluza com&#xFA;n (Merluccius gayi), a ser extra&#xED;da en el &#xE1;rea mar&#xED;tima comprendida entre la IV Regi&#xF3;n y el paralelo 41&#xBA;28,6&apos; L.S., ascender&#xE1; a 48.000 toneladas, fraccionadas de la siguiente manera:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/15514.jpg\"></div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  La fracci&#xF3;n artesanal de la cuota global anual<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1030711&amp;idParte=9190841&amp;idVersion=2011-10-04\">Decreto 890 EXENTO,<br>ECONOM&#xCD;A<br>D.O. 04.10.2011</a></span> de captura de Merluza com&#xFA;n antes autorizada podr&#xE1; ser reasignada durante el segundo semestre en una o m&#xE1;s regiones o &#xE1;reas sometidas al R&#xE9;gimen Artesanal de Extracci&#xF3;n. La reasignaci&#xF3;n podr&#xE1; comprender la totalidad (100%) de los remanentes no capturados durante el primer semestre.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1030711,
+      "fecha": "2011-10-04"
+    }
+  }
+]

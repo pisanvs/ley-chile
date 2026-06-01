@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-05-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9450006,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1062228&amp;idParte=9449907&amp;idVersion=2014-05-12\">Aviso S/N, EDUCACI&#xD3;N<br>D.O. 12.05.2014</a></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CONTRALOR&#xCD;A GENERAL DE LA REP&#xDA;BLICA</div><div class=\"p\">&nbsp; &nbsp;  Divisi&#xF3;n Jur&#xED;dica</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Cursa con alcances decreto N&#xBA; 120, de 2014, del Ministerio de Educaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 30.451.- Santiago, 30 de abril de 2014.</div><div class=\"p\">&nbsp; &nbsp;  Esta Entidad de Control ha dado curso al documento del rubro, mediante el cual se aprueba la modificaci&#xF3;n de convenio y su anexo, celebrado entre esa Cartera de Estado y la Universidad Tecnol&#xF3;gica Metropolitana, relativo a la administraci&#xF3;n del &quot;Liceo Comercial Instituto Superior de Comercio de Chile&quot; ex&nbsp; &quot;Liceo Comercial Osvaldo El&#xED;as Param&quot; (ex A-99), de la comuna de San Miguel, en virtud del decreto ley N&#xBA; 3.166, de 1980, por encontrarse ajustado a derecho, pero cumple con hacer presente, en relaci&#xF3;n a lo consignado en sus cl&#xE1;usulas segunda y vig&#xE9;simo quinta, que atendida la naturaleza p&#xFA;blica de las partes intervinientes, dicho acuerdo de voluntades comenzar&#xE1; a regir a contar de la total tramitaci&#xF3;n del &#xFA;ltimo acto administrativo que lo sancione.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, de los antecedentes tenidos a la vista se desprende que el n&#xFA;mero de alumnos(as) a que se refiere la estipulaci&#xF3;n tercera del instrumento en estudio, corresponde a la matr&#xED;cula de los a&#xF1;os 1991, 1996 y 2013, y no como ah&#xED; se indica.</div><div class=\"p\">&nbsp; &nbsp;  Luego, en relaci&#xF3;n a la individualizaci&#xF3;n de los terrenos en que se encuentra el mencionado establecimiento educacional, contenida en la cl&#xE1;usula quinta del se&#xF1;alado convenio, cabe precisar que aquel a que alude su literal c) es el ubicado en calle &#xC1;lvarez de Toledo N&#xBA; 1036, tal como lo consigna la copia de la inscripci&#xF3;n en el Registro de Propiedad del Conservador de Bienes Ra&#xED;ces de San Miguel que se acompa&#xF1;a.</div><div class=\"p\">&nbsp; &nbsp;  Por &#xFA;ltimo, se hace presente que, conforme al texto del acuerdo de voluntades en estudio, esta Contralor&#xED;a General entiende que la remisi&#xF3;n hecha en el p&#xE1;rrafo cuarto de la antedicha estipulaci&#xF3;n es a su disposici&#xF3;n vig&#xE9;simo quinta, sobre vigencia y t&#xE9;rmino anticipado.</div><div class=\"p\">&nbsp; &nbsp;  Con los alcances que anteceden, se ha tomado raz&#xF3;n del instrumento del ep&#xED;grafe.</div><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a Ud., Patricia Arriagada Villouta, Contralor General de la Rep&#xFA;blica Subrogante.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Al se&#xF1;or</div><div class=\"p\">&nbsp; &nbsp;  Ministro de Educaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  Presente.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1062228,
+      "fecha": "2014-05-12"
+    }
+  }
+]

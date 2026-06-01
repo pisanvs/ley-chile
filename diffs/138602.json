@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-07-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-08-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8346260,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese a partir de la fecha de publicaci&#xF3;n del presente decreto, una veda biol&#xF3;gica para el recurso Erizo (Loxechinus albus) en el &#xE1;rea mar&#xED;tima de la XII Regi&#xF3;n, la que regir&#xE1; entre el 15 de agosto de cada a&#xF1;o y el 15 de marzo del a&#xF1;o siguiente, ambas fechas inclusive. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese a partir de la fecha de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA </a></div> publicaci&#xF3;n del presente decreto, una veda biol&#xF3;gica para el recurso Erizo (Loxechinus albus) en el &#xE1;rea mar&#xED;tima de la XII Regi&#xF3;n, la que regir&#xE1; entre el 15 de agosto de cada a&#xF1;o y el 15 de marzo del a&#xF1;o siguiente, ambas fechas inclusive. </div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA </a> <br>&nbsp; &nbsp; &nbsp;  El Art&#xED;culo 1&#xBA; del Decreto 742 Exento, Econom&#xED;a, publicado el 19.08.2011 modifica la presente norma en el sentido de indicar que el inicio de la veda biol&#xF3;gica para el recurso Erizo Loxechinus albus en el &#xE1;rea mar&#xED;tima de la XII Regi&#xF3;n, comenzar&#xE1; a regir el 1&#xBA; de septiembre de cada a&#xF1;o calendario, inclusive.</div></div>"
+        }
+      ]
+    }
+  }
+]

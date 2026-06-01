@@ -1,0 +1,39 @@
+[
+  {
+    "fecha": "2021-12-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10288770,
+          "old": null,
+          "new": "<div><br><div class=\"p\">EXTRACTO</div></div>"
+        },
+        {
+          "part_id": 10288772,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Fiscal&#xED;a MOP.</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": [
+        {
+          "part_id": 10288771,
+          "old": "<div><br><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Por Decreto MOP. (Exento) N&#xB0;1082, de 08 de noviembre de 2021, y en base a la facultad otorgada por el art&#xED;culo 3&#xB0; letra a), 10&#xB0; letra c), 14&#xB0; letra e) y 105&#xB0; del DFL. MOP. N&#xB0;850 de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley N&#xB0;15.840 y del DFL. MOP. N&#xB0;206 de 1960, se expropiaron los lotes de terreno N&#xB0;s.34 y 35, para la obra: CONCESI&#xD3;N VIAL MEJORAMIENTO RUTA G-21 SECTOR 1 SUBSECTOR 1A RUTA G-21: AV. DEL MONTE - CORRAL QUEMADO, que figuran a nombre de KREUTZBERGER KELLENDONK CLAUDIO ERW y LA MANCHA S A, roles de aval&#xFA;o 3018-40 y 3018-41, Comuna de LO BARNECHEA, REGION METROPOLITANA DE SANTIAGO, superficies 147 y 74 m2 respectivamente. La Comisi&#xF3;n de Peritos nombrada por Resoluci&#xF3;n Expropiaciones Fiscal&#xED;a (Exenta) N&#xB0;282, de 12 de agosto de 2021, integrada por SERGIO JEREMIAS ORDENES SALINAS, JACQUELINE PAOLA DELGADO FONSECA y OMAR IGNACIO G&#xD3;MEZ FIGUEROA, mediante informe de tasaci&#xF3;n de 22 de septiembre de 2021, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $7.722.000 para el lote N&#xB0;34, y $9.932.800 para el lote N&#xB0;35. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xB0; del Decreto Ley N&#xB0;2186, de 1978. </div></div>",
+          "new": "<div><br><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Por Decreto MOP. (Exento) N&#xB0;1082, de 08 de noviembre de 2021, y en base a la facultad otorgada por el art&#xED;culo 3&#xB0; letra a), 10&#xB0; letra c), 14&#xB0; letra e) y 105&#xB0; del DFL. MOP. N&#xB0;850 de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley N&#xB0;15.840 y del DFL. MOP. N&#xB0;206 de 1960, se expropiaron los lotes de terreno N&#xB0;s.34 y 35, para la obra: CONCESI&#xD3;N VIAL MEJORAMIENTO RUTA G-21 SECTOR 1 SUBSECTOR 1A RUTA G-21: AV. DEL MONTE - CORRAL QUEMADO, que figuran a nombre de KREUTZBERGER KELLENDONK CLAUDIO ERW y LA MANCHA S A, roles de aval&#xFA;o 3018-40 y 3018-41, Comuna de LO BARNECHEA, REGION METROPOLITANA DE SANTIAGO, superficies 147 y 74 m2 respectivamente. La Comisi&#xF3;n de Peritos nombrada por Resoluci&#xF3;n Expropiaciones Fiscal&#xED;a (Exenta) N&#xB0;282, de 12 de agosto de 2021, integrada por SERGIO JEREMIAS ORDENES SALINAS, JACQUELINE PAOLA DELGADO FONSECA y OMAR IGNACIO G&#xD3;MEZ FIGUEROA, mediante informe de tasaci&#xF3;n de 22 de septiembre de 2021, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $7.722.000 para el lote N&#xB0;34, y $9.932.800 para el lote N&#xB0;35. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xB0; del Decreto Ley N&#xB0;2186, de 1978. </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

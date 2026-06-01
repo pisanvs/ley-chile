@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-02-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-12-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6020658,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS PARA EL TRANSPORTE DE CAMELIDOS SUDAMERICANOS AL SUR DE LA I Y II REGIONES</div><div class=\"p\">&nbsp; &nbsp; (Resoluci&#xF3;n)</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 107.- Santiago, 17 de Enero de 1991.- Vistos: Las facultades conferidas por la Ley N&#xB0; 18.755, el RRA.</div><div class=\"p\">N&#xB0; 16 de 1963.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; -Que existe inter&#xE9;s por repoblar con cam&#xE9;lidos sudamericanos la zona central, sur y austral del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; -Que para estos efectos, los animales ser&#xE1;n trasladados a zonas libres de determinadas enfermedades o zonas que est&#xE1;n bajo proyectos espec&#xED;ficos de control o erradicaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; -Que es funci&#xF3;n del Servicio Agr&#xED;cola y Ganadero, prevenir la difusi&#xF3;n de enfermedades de los animales y adoptar las medidas para tal efecto.</div><div class=\"p\">&nbsp; &nbsp; -Que para prevenir la difusi&#xF3;n de las enfermedades que pudieran portar estos animales, se hace necesario someter a los cam&#xE9;lidos que se transporten desde la I y II Regi&#xF3;n al resto del territorio, a un examen cl&#xED;nico y serol&#xF3;gico.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS PARA EL TRANSPORTE DE CAMELIDOS SUDAMERICANOS AL SUR DE LA I Y II REGIONES</div><div class=\"p\">&nbsp; &nbsp; (Resoluci&#xF3;n)</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 107.- Santiago, 17 de Enero de 1991.- Vistos: Las facultades conferidas por la Ley N&#xB0; 18.755, el RRA.</div><div class=\"p\">N&#xB0; 16 de 1963.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; -Que existe inter&#xE9;s por repoblar con cam&#xE9;lidos sudamericanos la zona central, sur y austral del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; -Que para estos efectos, los animales ser&#xE1;n trasladados a zonas libres de determinadas enfermedades o zonas que est&#xE1;n bajo proyectos espec&#xED;ficos de control o erradicaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; -Que es funci&#xF3;n del Servicio Agr&#xED;cola y Ganadero, prevenir la difusi&#xF3;n de enfermedades de los animales y adoptar las medidas para tal efecto.</div><div class=\"p\">&nbsp; &nbsp; -Que para prevenir la difusi&#xF3;n de las enfermedades que pudieran portar estos animales, se hace necesario someter a los cam&#xE9;lidos que se transporten desde la I y II Regi&#xF3;n al resto del territorio, a un examen cl&#xED;nico y serol&#xF3;gico.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

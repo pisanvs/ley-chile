@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-09-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6274016,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD MATILDE LOPEZ MU&#xD1;OZ Y CIA. PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD MATILDE LOPEZ MU&#xD1;OZ Y CIA. PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

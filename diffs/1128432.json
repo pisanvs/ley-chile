@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-02-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-05-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9996984,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Las especialidades t&#xE9;cnico-profesionales reconocidas oficialmente con anterioridad a la entrada en vigencia del presente Decreto, tendr&#xE1;n un plazo de 4 a&#xF1;os contados desde dicha fecha, para dar cumplimiento a los requisitos establecidos en este Decreto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Las especialidades t&#xE9;cnico-profesionales reconocidas oficialmente con anterioridad a la entrada en vigencia del presente Decreto, tendr&#xE1;n un plazo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1192001&amp;idParte=10429902&amp;idVersion=2023-05-11\">Decreto 19, EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 11.05.2023</a></span>de 7 a&#xF1;os contados desde dicha fecha, para dar cumplimiento a los requisitos establecidos en este Decreto.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1192001,
+      "fecha": "2023-05-11"
+    }
+  }
+]

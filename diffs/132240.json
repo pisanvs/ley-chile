@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-06-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-05-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8341371,
+          "old": "<div><div class=\"p\">AUTORIZA A DON VICTOR EDUARDO DELGADO VIELMAS PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON VICTOR EDUARDO DELGADO VIELMAS PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

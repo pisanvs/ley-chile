@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-04-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7265424,
+          "old": "<div><div class=\"p\">AUTORIZA A DON SERGIO MERINO PE&#xD1;AILILLO PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON SERGIO MERINO PE&#xD1;AILILLO PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

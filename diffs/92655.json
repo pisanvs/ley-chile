@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8322154,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD EXPORTADORA E IMPORTADORA DE PRODUCTOS DEL MAR, GILBERTO ARANCIBIA Y HNO. LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD EXPORTADORA E IMPORTADORA DE PRODUCTOS DEL MAR, GILBERTO ARANCIBIA Y HNO. LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

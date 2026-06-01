@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2008-08-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-02-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6658342,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Monumento Hist&#xF3;rico el edificio de la Cooperativa El&#xE9;ctrica de Chill&#xE1;n - Copelec-, ubicado en calle Maip&#xF3;n N&#xBA;1079, de la comuna de Chill&#xE1;n, provincia de &#xD1;uble, VIII Regi&#xF3;n del B&#xED;o-B&#xED;o.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida tiene una superficie aproximada de 1.822,48 m&#xB2;, delimitada por el pol&#xED;gono A - B - C - D - E - F - A, como se se&#xF1;ala en el plano adjunto, que forma parte del presente decreto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Monumento Hist&#xF3;rico el edificio de la Cooperativa El&#xE9;ctrica de Chill&#xE1;n - Copelec-, ubicado en calle Maip&#xF3;n N&#xBA;1079, de la comuna de Chill&#xE1;n, provincia de &#xD1;uble, VIII Regi&#xF3;n del B&#xED;o-B&#xED;o.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida tiene<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1023325&amp;idParte=9116130&amp;idVersion=2011-02-26\">DTO 55, EDUCACION<br>Art. UNICO<br>D.O. 26.02.2011</a></span> una superficie aproximada de 1.022,40 mts.&#xB2;, seg&#xFA;n se delimita por el pol&#xED;gono A-B-C-D-A del plano adjunto, que forma parte del presente decreto.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1023325,
+      "fecha": "2011-02-26"
+    }
+  }
+]

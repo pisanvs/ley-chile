@@ -1,0 +1,72 @@
+[
+  {
+    "fecha": "1981-07-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-07-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845584,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Respecto de las infracciones administrativas a que se refiere el art&#xED;culo 3&#xB0;, se aplicar&#xE1;n las mismas disposiciones del T&#xED;tulo VI de la ley n&#xFA;mero 12.927, en lo pertinente. Con todo, regir&#xE1; siempre para aqu&#xE9;llas lo prevenido en el art&#xED;culo 30. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  ARTICULO 5&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_0\">LEY 18150<br>Art. &#xFA;nico b)<br><br>D.O. 30.07.1982</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1991-02-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845580,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- El que quebrantare o infringiere las medidas adoptadas por el Presidente de la Rep&#xFA;blica, en uso de las facultades que le confiere la disposici&#xF3;n vig&#xE9;simocuarta transitoria de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, ser&#xE1; castigado con las penas que, para cada caso, se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; 1.- El arrestado de acuerdo con lo dispuesto en la letra a) y el obligado a permanecer en una localidad urbana del territorio nacional en conformidad con la letra d), con la pena de prisi&#xF3;n en su grado medio a presidio menor en su grado m&#xED;nimo.</div><div class=\"p\">&nbsp; &nbsp; 2.- Los que se reunieren contraviniendo la restricci&#xF3;n que se hubiere decretado en uso de la facultad concedida por la letra b), con las penas de prisi&#xF3;n en su grado medio a presidio menor en su grado m&#xED;nimo o relegaci&#xF3;n menor en sus grados m&#xED;nimo a medio.</div><div class=\"p\">&nbsp; &nbsp; 3.- El que ingresare al territorio nacional contraviniendo la prohibici&#xF3;n de ingreso a &#xE9;l o la expulsi&#xF3;n que se hubiere decretado en su contra en uso de la facultad de la letra c), con las penas de presidio menor en su grado medio o extra&#xF1;amiento menor en sus grados medio a m&#xE1;ximo.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0;&nbsp; DEROGADO.-<span class=\"n\" id=\"n_0\">LEY 19048<br>Art. 1&#xB0;<br>D.O. 13.02.1991</span></div><br></div>"
+        },
+        {
+          "part_id": 8845581,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Los que quebrantaren o infringieren las medidas decretadas en virtud de la facultad conferida por el art&#xED;culo 41, n&#xFA;mero 4, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, ser&#xE1;n sancionados con la pena de presidio o relegaci&#xF3;n menor en sus grados m&#xED;nimo a m&#xE1;ximo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Los que quebrantaren o infringieren las medidas decretadas en virtud de la facultad conferida por el art&#xED;culo 41&#xB0;, N&#xB0; 4, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, ser&#xE1;n sancionados<span class=\"n\" id=\"n_1\">LEY 19048<br>Art. 1&#xB0;<br>D.O. 13.02.1991</span> con la pena de presidio o relegaci&#xF3;n menor en sus grados m&#xED;nimo a medio.</div><br></div>"
+        },
+        {
+          "part_id": 8845582,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Si las medidas infringidas se refieren a la libertad de informaci&#xF3;n, adoptadas en virtud sea de las facultades conferidas por el art&#xED;culo 41, N&#xB0; 4, como por la disposici&#xF3;n vig&#xE9;simocuarta transitoria, letra b), de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, se aplicar&#xE1; una multa, a beneficio fiscal, de 10 a 100 unidades tributarias anuales, de la cual responder&#xE1;n solidariamente el propietario del respectivo medio de comunicaci&#xF3;n y su director responsable o, en su caso, los que fundaren, editaren o hicieren circular nuevas publicaciones contraviniendo la restricci&#xF3;n impuesta.</div><div class=\"p\">&nbsp; &nbsp; El que habiendo sido sancionado por cualquiera de las infracciones indicadas en este art&#xED;culo, realizare nuevamente alguna de ellas, se le aplicar&#xE1; el doble de la multa se&#xF1;alada en el inciso anterior.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0;&nbsp; DEROGADO.-<span class=\"n\" id=\"n_2\">LEY 19048<br>Art. 1&#xB0;<br>D.O. 13.02.1991</span></div><br></div>"
+        },
+        {
+          "part_id": 8845584,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  ARTICULO 5&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_0\">LEY 18150<br>Art. &#xFA;nico b)<br><br>D.O. 30.07.1982</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  ARTICULO 5&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_3\">LEY 18150<br>Art. &#xFA;nico b)<br><br>D.O. 30.07.1982</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1991-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845583,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Los procesos criminales relativos a los delitos penados en esta ley, se sujetar&#xE1;n a las disposiciones del T&#xED;tulo VI de la ley N&#xB0; 12.927, sobre Seguridad del Estado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 4&#xB0; Los procesos criminales relativos a los delitos penados en esta ley, se sujetar&#xE1;n a las disposiciones del T&#xED;tulo VI de la ley 12.927 sobre Seguridad del Estado.</div><br></div>"
+        },
+        {
+          "part_id": 8845585,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FERNANDO MATTHEI AUBEL, General de Aire, Comandante en Jefe de la Fuerza A&#xE9;rea, Miembro de la Junta de Gobierno.- CESAR MENDOZA DURAN, General Director de Carabineros, Miembro de la Junta de Gobierno.- CESAR RAUL BENAVIDES ESCOBAR, Teniente General de Ej&#xE9;rcito, Miembro de la Junta de Gobierno.- RAUL LOPEZ SILVA, Vicealmirante, Comandante en Jefe de la Armada y Miembro de la Junta de Gobierno subrogante.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en se&#xF1;al de promulgaci&#xF3;n.</div><div class=\"p\">Ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Santiago, catorce de Julio de mil novecientos ochenta y uno.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- Sergio Fern&#xE1;ndez Fern&#xE1;ndez, Ministro del Interior.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Enrique Montero Marx, General de Brigada A&#xE9;rea (J), Ministro Subsecretario del Interior. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n oficial de dicha Contralor&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; FERNANDO MATTHEI AUBEL, General de Aire, Comandante en Jefe de la Fuerza A&#xE9;rea, Miembro de la Junta de Gobierno.- CESAR MENDOZA DURAN, General Director de Carabineros, Miembro de la Junta de Gobierno.- CESAR RAUL BENAVIDES ESCOBAR, Teniente General de Ej&#xE9;rcito, Miembro de la Junta de Gobierno.- RAUL LOPEZ SILVA, Vicealmirante, Comandante en Jefe de la Armada y Miembro de la Junta de Gobierno subrogante.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en se&#xF1;al de promulgaci&#xF3;n.</div><div class=\"p\">Ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Santiago, catorce de Julio de mil novecientos ochenta y uno.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- Sergio Fern&#xE1;ndez Fern&#xE1;ndez, Ministro del Interior.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Enrique Montero Marx, General de Brigada A&#xE9;rea (J), Ministro Subsecretario del Interior.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

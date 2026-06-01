@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-10-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-06-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8937716,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;: Declar&#xE1;nse Normas Oficiales de la Rep&#xFA;blica de Chile, las siguientes:</div><div class=\"p\"> NCh - ISO 9000 - 1&nbsp; Normas de gesti&#xF3;n de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  calidad y de aseguramiento de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  calidad - Parte 1: Gu&#xED;a para la</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  selecci&#xF3;n y uso.</div><div class=\"p\"> NCh - ISO 9004 - 1&nbsp; Gesti&#xF3;n de calidad y</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  elementos del sistema de calidad</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Parte 1: Gu&#xED;as.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;: Declar&#xE1;nse Normas Oficiales de la Rep&#xFA;blica de Chile, las siguientes:</div><div class=\"p\"> NCh - ISO 9000 - 1&nbsp; NORMA ANULADA<span class=\"n\" id=\"n_0\">RES 366 EXENTA,</span></div><div class=\"p\"> NCh - ISO 9004 - 1&nbsp; Gesti&#xF3;n de calidad y&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ECONOMIA</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  elementos del sistema de calidad&nbsp; &nbsp; &nbsp; Art. 1&#xBA;</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Parte 1: Gu&#xED;as.<span class=\"n\" id=\"n_1\">D.O. 16.06.2007</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

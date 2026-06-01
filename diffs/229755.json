@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "2004-09-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-11-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6494945,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- La subvenci&#xF3;n que regula el presente decreto incluir&#xE1; el monto a que asciendan los intereses penales devengados hasta la fecha en que &#xE9;sta se haga efectiva, aplic&#xE1;ndose al pago de esos intereses, extingui&#xE9;ndose autom&#xE1;ticamente la deuda generada por este concepto.</div><div class=\"p\">&nbsp; &nbsp;  Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- La subvenci&#xF3;n que regula el presente decreto incluir&#xE1; el monto a que asciendan los intereses penales devengados hasta la fecha en que &#xE9;sta se haga efectiva, aplic&#xE1;ndose al pago de esos intereses, extingui&#xE9;ndose autom&#xE1;ticamente la deuda generada por este concepto.</div><div class=\"p\">&nbsp; &nbsp;  Si al momento de celebrar el convenio, la deuda se<span class=\"n\" id=\"n_0\">DTO 131, VIVIENDA<br>Art. Tercero<br>D.O. 15.11.2004</span> encontraba en cobranza judicial, la subvenci&#xF3;n que regula el presente decreto incluir&#xE1; tambi&#xE9;n el monto a que asciendan las costas procesales y personales devengadas en el juicio, aplic&#xE1;ndose al pago de &#xE9;stas y extingui&#xE9;ndose autom&#xE1;ticamente la deuda generada por este concepto.</div><div class=\"p\">&nbsp; &nbsp;  Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2005-06-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6494943,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Los deudores de los Serviu, de a lo menos, 60 a&#xF1;os de edad las mujeres y de 65 a&#xF1;os de edad los hombres, o que cumplan dicha edad en el curso del a&#xF1;o 2005, cuyas obligaciones provengan de la adquisici&#xF3;n de una vivienda social, que se encuentren al d&#xED;a o que tengan hasta 12 dividendos en mora, que suscriban hasta el 30 de diciembre de 2005 un convenio con el Serviu respectivo oblig&#xE1;ndose a pagar, al contado, la suma de 25 Unidades de Fomento, renunciando a todo otro beneficio establecido para los deudores habitacionales de los Serviu, obtendr&#xE1;n una subvenci&#xF3;n de un monto equivalente al saldo insoluto de su deuda, la que se abonar&#xE1; al pago de &#xE9;sta, extingui&#xE9;ndola autom&#xE1;ticamente.</div><div class=\"p\">&nbsp; &nbsp;  Los deudores a que se refiere el inciso anterior que no se encuentren en condiciones de pagar las 25 Unidades de Fomento al contado, podr&#xE1;n acogerse a la subvenci&#xF3;n establecida en dicho inciso, siempre que paguen 30 Unidades de Fomento en 24 cuotas iguales y sucesivas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Los deudores de los Serviu, de a lo menos, 60 a&#xF1;os de edad las mujeres y de 65 a&#xF1;os de edad los hombres, o que cumplan dicha edad en el curso del a&#xF1;o 2005, cuyas obligaciones provengan de la adquisici&#xF3;n<span class=\"n\" id=\"n_0\">DTO 96, VIVIENDA<br>Art. 16 N&#xBA; 1<br>D.O. 09.06.2005</span> de una vivienda econ&#xF3;mica de un valor que no exceda de 550 unidades de fomento, que se encuentren al d&#xED;a o que tengan hasta 12 dividendos en mora, que suscriban hasta el 30 de diciembre de 2005 un convenio con el Serviu respectivo oblig&#xE1;ndose a pagar, al contado, la suma de 25 Unidades de Fomento, renunciando a todo otro beneficio establecido para los deudores habitacionales de los Serviu, obtendr&#xE1;n una subvenci&#xF3;n de un monto equivalente al saldo insoluto de su deuda, la que se abonar&#xE1; al pago de &#xE9;sta, extingui&#xE9;ndola autom&#xE1;ticamente. Para determinar el valor de la vivienda se estar&#xE1; al<span class=\"n\" id=\"n_1\">DTO 96, VIVIENDA<br>Art. 16 N&#xBA; 2<br>D.O. 09.06.2005<br>DTO 96, VIVIENDA<br>Art. 16 N&#xBA; 3<br>D.O. 09.06.2005</span> precio estipulado en la escritura de compraventa o al aval&#xFA;o fiscal vigente a la fecha del convenio.</div><div class=\"p\">&nbsp; &nbsp;  Los deudores a que se refiere el inciso anterior que no se encuentren en condiciones de pagar las 25 unidades de fomento al contado, podr&#xE1;n acogerse a la subvenci&#xF3;n establecida en dicho inciso, siempre que paguen 30 unidades de fomento en 30 cuotas iguales y sucesivas.</div><br></div>"
+        },
+        {
+          "part_id": 6494945,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- La subvenci&#xF3;n que regula el presente decreto incluir&#xE1; el monto a que asciendan los intereses penales devengados hasta la fecha en que &#xE9;sta se haga efectiva, aplic&#xE1;ndose al pago de esos intereses, extingui&#xE9;ndose autom&#xE1;ticamente la deuda generada por este concepto.</div><div class=\"p\">&nbsp; &nbsp;  Si al momento de celebrar el convenio, la deuda se<span class=\"n\" id=\"n_0\">DTO 131, VIVIENDA<br>Art. Tercero<br>D.O. 15.11.2004</span> encontraba en cobranza judicial, la subvenci&#xF3;n que regula el presente decreto incluir&#xE1; tambi&#xE9;n el monto a que asciendan las costas procesales y personales devengadas en el juicio, aplic&#xE1;ndose al pago de &#xE9;stas y extingui&#xE9;ndose autom&#xE1;ticamente la deuda generada por este concepto.</div><div class=\"p\">&nbsp; &nbsp;  Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- La subvenci&#xF3;n que regula el presente decreto incluir&#xE1; el monto a que asciendan los intereses penales devengados hasta la fecha en que &#xE9;sta se haga efectiva, aplic&#xE1;ndose al pago de esos intereses, extingui&#xE9;ndose autom&#xE1;ticamente la deuda generada por este concepto.</div><div class=\"p\">&nbsp; &nbsp;  Si al momento de celebrar el convenio, la deuda se<span class=\"n\" id=\"n_2\">DTO 131, VIVIENDA<br>Art. Tercero<br>D.O. 15.11.2004</span> encontraba en cobranza judicial, la subvenci&#xF3;n que regula el presente decreto incluir&#xE1; tambi&#xE9;n el monto a que asciendan las costas procesales y personales devengadas en el juicio, aplic&#xE1;ndose al pago de &#xE9;stas y extingui&#xE9;ndose autom&#xE1;ticamente la deuda generada por este concepto.</div><div class=\"p\">&nbsp; &nbsp;  Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

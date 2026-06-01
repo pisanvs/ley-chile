@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-09-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9628229,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1080419&amp;idParte=9628215&amp;idVersion=2015-08-14\">Decreto 8998,<br>M. DE VI&#xD1;A DEL MAR<br>N&#xB0; I<br>D.O. 14.08.2015</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xBA;: &quot;El cumplimiento de los preceptos de esta Ordenanza ser&#xE1; vigilado y fiscalizado por los inspectores municipales y por los agentes del Cuerpo de Carabineros de Chile.</div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1080419,
+      "fecha": "2015-08-14"
+    }
+  }
+]

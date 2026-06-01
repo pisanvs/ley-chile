@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-12-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-10-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7111613,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA ORDENANZA SOBRE CIERRE DE CALLES Y PASAJES Conchal&#xED;, 20 de noviembre de 1996.- La Alcald&#xED;a decret&#xF3; hoy:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 762 exento.- Vistos: el Decreto Exento N&#xB0; 287, de 24.08.95 que aprob&#xF3; la Ordenanza Local Sobre Cierre de Calles y Pasajes; el Memo N&#xB0; 396, de 12.11.96, de la Direcci&#xF3;n de Asesor&#xED;a Jur&#xED;dica; Acuerdos adoptados en Sesiones de Concejo Municipal celebradas el 02 y 09 de octubre de 1996; y Teniendo Presente las facultades y atribuciones que me confiere la Ley N&#xB0; 18.695, Org&#xE1;nica Constitucional de Municipalidades,</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA ORDENANZA SOBRE CIERRE DE CALLES Y PASAJES </div><div class=\"p\">&nbsp; &nbsp; Conchal&#xED;, 20 de noviembre de 1996.- La Alcald&#xED;a decret&#xF3; hoy:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 762 exento.- Vistos: el Decreto Exento N&#xB0; 287, de 24.08.95 que aprob&#xF3; la Ordenanza Local Sobre Cierre de Calles y Pasajes; el Memo N&#xB0; 396, de 12.11.96, de la Direcci&#xF3;n de Asesor&#xED;a Jur&#xED;dica; Acuerdos adoptados en Sesiones de Concejo Municipal celebradas el 02 y 09 de octubre de 1996; y Teniendo Presente las facultades y atribuciones que me confiere la Ley N&#xB0; 18.695, Org&#xE1;nica Constitucional de Municipalidades,</div><br><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

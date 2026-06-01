@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1996-01-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8941565,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Segundo Transitorio: Durante el a&#xF1;o<span class=\"n\" id=\"n_1\">DTO 164, EDUCACION<br>Art. &#xFA;nico<br>D.O. 19.03.1996</span> 1996, la aplicaci&#xF3;n del programa de extensi&#xF3;n horaria se iniciar&#xE1; el 1&#xB0; de abril.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8941563,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Transitorio: Los plazos de postulaci&#xF3;n y de comunicaci&#xF3;n de resultados para aquellos establecimientos que sean seleccionados para el a&#xF1;o 1996 ser&#xE1;n de 30 y 60 d&#xED;as respectivamente, contados desde la entrada en vigencia del presente decreto.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Primero Transitorio: Los plazos de<span class=\"n\" id=\"n_0\">DTO 164, EDUCACION<br>Art. &#xFA;nico<br>D.O. 19.03.1996</span> postulaci&#xF3;n y de comunicaci&#xF3;n de resultados para aquellos establecimientos que sean seleccionados para el a&#xF1;o 1996, ser&#xE1;n el 15 y el 31 de marzo respectivamente.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

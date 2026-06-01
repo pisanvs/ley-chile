@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-04-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003330,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;- De los recursos recaudados y que se recauden durante el a&#xF1;o 1975 por cobro de peaje, 1a Direcci&#xF3;n General de Obras P&#xFA;blicas deber&#xE1; entregar al Ministerio de la Vivienda y Urbanismo los ingresos correspondientes al peaje de los d&#xED;as S&#xE1;bados, Domingos y festivos, hasta enterar la cantidad de E&#xB0; 10.000 millones, destinados a financiar programas de viviendas adecuadas para los sectores m&#xE1;s necesitadas.</div><div class=\"p\">&nbsp; &nbsp;  E1 Ministerio de la Vivienda y Urbanismo depositar&#xE1; dichos fondos en cuenta bancaria subsidiaria de la Unica Fiscal sobre la cual girar&#xE1; el Director General de Planificaci&#xF3;n y Presupuestos para los fines del presente decreto ley. Por resoluci&#xF3;n del Director General dichos fondos se podr&#xE1;n distribuir entre las Instituciones se&#xF1;aladas en el art&#xED;culo 5&#xB0; de la ley No 16.391, debiendo destinar hasta la suma de E&#xB0; 1.000 millones a la Oficina Nacional de Emergencia del Ministerio del Interior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;- De los recursos recaudados y que se recauden durante el a&#xF1;o 1975 por cobro de peaje, 1a Direcci&#xF3;n General de Obras P&#xFA;blicas deber&#xE1; entregar al Ministerio de la Vivienda y Urbanismo los ingresos correspondientes al peaje de los d&#xED;as S&#xE1;bados, Domingos y festivos, hasta enterar la cantidad de E&#xB0; 10.000 millones, destinados a financiar programas de viviendas adecuadas para los sectores m&#xE1;s necesitadas.</div><div class=\"p\">&nbsp; &nbsp;  E1 Ministerio de la Vivienda y Urbanismo depositar&#xE1; dichos fondos en cuenta bancaria subsidiaria de la Unica Fiscal sobre la cual girar&#xE1; el Director General de Planificaci&#xF3;n y Presupuestos para los fines del presente decreto ley. Por resoluci&#xF3;n del Director General dichos fondos se podr&#xE1;n distribuir entre las Instituciones se&#xF1;aladas en el art&#xED;culo 5&#xB0; de la ley No 16.391, debiendo destinar hasta la suma de E&#xB0; 1.000 millones a<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> la Oficina Nacional de Emergencia del Ministerio del<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1:</a></div> Interior.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico del DL 1143, Hacienda, publicado el 20.08.1975, modific&#xF3; el presente art&#xED;culo en el sentido que el Ministerio de la Vivienda y Urbanismo deber&#xE1; destinar a la Oficina Nacional de Emergencia hasta la suma de E&#xB0; 2.000 millones, en vez de E&#xB0; 1.000 millones como se establec&#xED;a originalmente.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico del DL 1197, Interior, publicado el 03.11.1975, modific&#xF3; el presente art&#xED;culo en el sentido que el Ministerio de la Vivienda y Urbanismo deber&#xE1; destinar a la Oficina Nacional de Emergencia hasta la suma de tres millones de pesos.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

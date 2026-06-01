@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-05-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-04-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9137883,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Tercero: El plazo m&#xE1;ximo de duraci&#xF3;n de la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica reca&#xED;da sobre el &#xE1;rea denominada &quot;Paniri&quot;, ser&#xE1; de dos a&#xF1;os contados desde la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial, conforme a lo dispuesto en el art&#xED;culo 21 de la ley N&#xBA; 19.657. La mencionada publicaci&#xF3;n ser&#xE1; de cargo de la concesionaria, de acuerdo a lo dispuesto en el inciso segundo del art&#xED;culo 43 del Reglamento para la aplicaci&#xF3;n de la ley N&#xBA; 19.657.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Tercero: El plazo m&#xE1;ximo de duraci&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica reca&#xED;da sobre el &#xE1;rea denominada &quot;Paniri&quot;, ser&#xE1; de dos a&#xF1;os contados desde la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial, conforme a lo dispuesto en el art&#xED;culo 21 de la ley N&#xBA; 19.657. La mencionada publicaci&#xF3;n ser&#xE1; de cargo de la concesionaria, de acuerdo a lo dispuesto en el inciso segundo del art&#xED;culo 43 del Reglamento para la aplicaci&#xF3;n de la ley N&#xBA; 19.657.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 96 Exento, Energ&#xED;a, publicado el 03.04.2013, ordena prorrogar por un per&#xED;odo de dos a&#xF1;os contados desde el t&#xE9;rmino del per&#xED;odo original de exploraci&#xF3;n, esto es, el d&#xED;a 6 de mayo de 2013, de la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica denominada &quot;Paniri&quot;, de la empresa Energ&#xED;a Andina S.A., otorgada mediante la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1976-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-03-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8256942,
+          "old": "<div><div class=\"p\">ESTABLECE NORMAS PARA LA TRAMITACION DE DECRETOS LEYES</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 991.- Santiago, 17 de Abril de 1975.- Visto: lo dispuesto en los decretos leyes N&#xB0;s. 1, 27 y 128, de 1973, y en el art&#xED;culo 6&#xB0;. del decreto ley N&#xB0;. 527, de 1974, y</div><br><div class=\"p\">&nbsp; &nbsp; Teniendo presente la necesidad de establecer los &#xF3;rganos de trabajo y los procedimientos de que se servir&#xE1; el Gobierno para ejercer las Potestades Constituyente y Legislativa;</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno acuerda dictar el siguiente </div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE NORMAS PARA LA TRAMITACION DE DECRETOS LEYES</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 991.- Santiago, 17 de Abril de 1975.- Visto: lo dispuesto en los decretos leyes N&#xB0;s. 1, 27 y 128, de 1973, y en el art&#xED;culo 6&#xB0;. del decreto ley N&#xB0;. 527, de 1974, y</div><br><div class=\"p\">&nbsp; &nbsp; Teniendo presente la necesidad de establecer los &#xF3;rganos de trabajo y los procedimientos de que se servir&#xE1; el Gobierno para ejercer las Potestades Constituyente y Legislativa;</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno acuerda dictar el siguiente </div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

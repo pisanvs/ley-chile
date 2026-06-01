@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-04-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-12-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8952494,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE QUE EMPRESAS PODRAN RETENER EL IVA A LOS PEQUE&#xD1;OS PRODUCTORES AGRICOLAS DE LA LEY 19.034 DE 1991 </div></div>",
+          "new": "<div><div class=\"p\">ESTABLECE QUE EMPRESAS PODRAN RETENER EL IVA A LOS PEQUE&#xD1;OS PRODUCTORES AGRICOLAS DE LA LEY 19.034 DE 1991</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

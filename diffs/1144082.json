@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2020-04-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-08-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10113004,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1. Fac&#xFA;ltese a las cooperativas de ahorro y cr&#xE9;dito fiscalizadas por el Departamento de Cooperativas a refinanciar con sus socios, hasta tres cuotas en el pago de los cr&#xE9;ditos cursados, en el evento de verificarse los siguientes requisitos copulativos:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Socios que hayan sido contactados por la cooperativa o &#xE9;stos tomado contacto con la respectiva entidad, con la finalidad de proceder al refinanciamiento de un cr&#xE9;dito vigente; y</div><div class=\"p\">&nbsp; &nbsp;  b) Que presentaren atrasos en el cumplimiento de sus obligaciones, encontr&#xE1;ndose estas vencidas por un plazo inferior a 30 d&#xED;as corridos contados desde la publicaci&#xF3;n de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1. Fac&#xFA;ltese a las cooperativas de ahorro y cr&#xE9;dito fiscalizadas por el Departamento de Cooperativas a refinanciar con sus socios, hasta tres cuotas en el pago de los cr&#xE9;ditos cursados, en el evento de verificarse los siguientes requisitos copulativos:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Socios que hayan sido contactados por la cooperativa o &#xE9;stos tomado contacto con la respectiva entidad, con la finalidad de proceder al refinanciamiento de un cr&#xE9;dito vigente; y</div><div class=\"p\">&nbsp; &nbsp;  b) Que presentaren atrasos en el cumplimiento de sus obligaciones, encontr&#xE1;ndose estas vencidas por un plazo inferior a <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>30 d&#xED;as corridos contados desde la publicaci&#xF3;n de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; de la Resoluci&#xF3;n 870 Exenta, Econom&#xED;a, publicada el 19.08.2020, aclara y complementa el plazo establecido en la letra b) del art&#xED;culo 1 de la presente norma, en el sentido de establecer que la facultad otorgada a las cooperativas de ahorro y cr&#xE9;dito fiscalizadas por el Departamento de Cooperativas para refinanciar con sus socios el pago de los cr&#xE9;ditos cursados, se aplica respecto de las obligaciones que hubiesen vencido dentro del mes anterior a la publicaci&#xF3;n de la presente Resoluci&#xF3;n, esto es, desde el 6 de marzo de 2020.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-01-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-03-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-05-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8474300,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Modif&#xED;case el art&#xED;culo 1&#xBA; del decreto exento N&#xBA; 1.446, de 2007, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, modific&#xE1;ndose el inciso segundo e intercal&#xE1;ndose un nuevo inciso tercero, de la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  &quot;As&#xED;gnase para el uso de la Vicepresidencia Ejecutiva de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n (CORFO) los veh&#xED;culos que a continuaci&#xF3;n se se&#xF1;alan, autoriz&#xE1;ndoles para circular en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, exentos del uso del disco fiscal distintivo a que se refiere el art&#xED;culo 3&#xBA; del decreto ley N&#xBA; 799, de 1974, y sin restricci&#xF3;n de horarios, los que podr&#xE1;n ser estacionados en los domicilios particulares que se se&#xF1;alan:</div><br><div class=\"p\">&nbsp; &nbsp;  Tipo de Veh&#xED;culo: Autom&#xF3;vil, marca: Subaru, modelo: Legacy 2.0R 4D AT AWD UQ, N&#xBA; motor: D614662, N&#xBA; chasis: G053177, color: Plateado Acero Met&#xE1;lico, a&#xF1;o: 2009, Placa Unica: BRYJ.73-7&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Modif&#xED;case el art&#xED;culo 1&#xBA; del decreto exento N&#xBA; 1.446, de 2007, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, modific&#xE1;ndose el inciso segundo e intercal&#xE1;ndose un nuevo inciso tercero, de la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  &quot;As&#xED;gnase para el uso de la Vicepresidencia Ejecutiva de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n (CORFO) los veh&#xED;culos que a continuaci&#xF3;n se se&#xF1;alan, autoriz&#xE1;ndoles para circular en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, exentos del uso del disco fiscal distintivo a que se refiere el art&#xED;culo 3&#xBA; del decreto ley N&#xBA; 799, de 1974, y sin restricci&#xF3;n de horarios, los que podr&#xE1;n ser estacionados en los domicilios particulares que se se&#xF1;alan:</div><br><div class=\"p\">&nbsp; &nbsp;  Tipo de Veh&#xED;culo: Autom&#xF3;vil, marca: Subaru, modelo: Legacy 2.0R 4D AT AWD UQ, N&#xBA; motor: D614662, N&#xBA; chasis: G053177, color: Plateado Acero Met&#xE1;lico, a&#xF1;o: 2009, Placa Unica: BRYJ.73-7&quot;.</div><br><div class=\"p\">&nbsp; &nbsp;  El veh&#xED;culo antes individualizado podr&#xE1; ser<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1002228&amp;idParte=8603485&amp;idVersion=2009-05-15\">Decreto 638 EXENTO,<br>ECONOMIA<br>Art. UNICO<br>D.O. 15.05.2009</a></span> estacionado en el domicilio particular del Vicepresidente Ejecutivo de CORFO, ubicado en Garc&#xED;a Moreno N&#xB0; 1244, comuna de &#xD1;u&#xF1;oa y en el domicilio del conductor, ubicado en Raquel N&#xB0; 59, comuna de San Joaqu&#xED;n.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1002228,
+      "fecha": "2009-05-15"
+    }
+  }
+]

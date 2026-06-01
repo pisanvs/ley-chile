@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "2001-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8763363,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1004817&amp;idParte=8763360&amp;idVersion=2009-08-05\">Ordenanza 83,<br>M. DE PROVIDENCIA<br>N&#xBA; 1.2<br>D.O. 05.08.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo N&#xBA; 15: Corresponder&#xE1; al Departamento de Rentas Municipales dependiente de la Direcci&#xF3;n de Administraci&#xF3;n y Finanzas y a la Direcci&#xF3;n de Protecci&#xF3;n Civil y Seguridad Vecinal supervigilar el cumplimiento de esta Ordenanza y el cuidado y mantenci&#xF3;n del Bien Nacional de Uso P&#xFA;blico autorizado a ocupar.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6348745,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: El permiso lo otorgar&#xE1; el Alcalde, mediante decreto alcaldicio, previo informe de la Direcci&#xF3;n de Obras Municipales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: El permiso lo otorgar&#xE1; el Alcalde, mediante decreto alcaldicio, previo informe de la Direcci&#xF3;n de Obras Municipales.</div><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1004817&amp;idParte=8763360&amp;idVersion=2009-08-05\">Ordenanza 83,<br>M. DE PROVIDENCIA<br>N&#xBA; 1.1<br>D.O. 05.08.2009</a></span>El decreto alcaldicio ser&#xE1; notificado al beneficiario por el Departamento de Rentas dependiente de la Direcci&#xF3;n de Administraci&#xF3;n y Finanzas. En este caso se levantar&#xE1; acta del estado del Bien Nacional de Uso P&#xFA;blico que se autoriza ocupar, debiendo firmar el acta el beneficiario en se&#xF1;al de conocimiento y de aceptaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1004817,
+      "fecha": "2009-08-05"
+    }
+  }
+]

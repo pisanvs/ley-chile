@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-02-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-01-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7308728,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 26 EXENTA, DE 2004 </div><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 26 EXENTA, DE 2004 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

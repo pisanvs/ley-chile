@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-08-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-06-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6297395,
+          "old": "<div><div class=\"p\">AUTORIZA A VEHICULO QUE INDICA PARA CIRCULAR EN DIAS SABADO, DOMINGO Y FESTIVOS, EXIMIENDOLO DE LA OBLIGACION DE LLEVAR DISCO FISCAL</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 28 de julio de 2000.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 152 exento.- Visto: Lo dispuesto en el DL N&#xBA; 799 de 1979, modificado por la ley N&#xBA; 18.267 de 1983, y por el DFL N&#xBA; 12-2345, de 1979 de Interior, el DS N&#xBA; 654, de 1994, del Ministerio del Interior; las instrucciones impartidas por la Contralor&#xED;a General de la Rep&#xFA;blica en el oficio circular N&#xBA; 35.593 de 1995, sobre uso y circulaci&#xF3;n de veh&#xED;culos estatales; el memor&#xE1;ndum N&#xBA; 54, del Jefe Secci&#xF3;n Administraci&#xF3;n del Serviu III Regi&#xF3;n y el ord. N&#xBA; 2.119 del Director Serviu III Regi&#xF3;n, ambos del 23-06-2000; y,</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que la gesti&#xF3;n del Director del Serviu III Regi&#xF3;n, a requerimiento de la Intendencia, se prolonga m&#xE1;s all&#xE1; de la jornada ordinaria de trabajo, incluidos s&#xE1;bado, domingo y festivos; como asimismo que en raz&#xF3;n a las labores permanentes de fiscalizaci&#xF3;n y control que debe desempe&#xF1;ar, es necesario que el veh&#xED;culo asignado a dicho Serviu, que se singulariza, pueda circular sin las restricciones y desprovisto del disco distintivo a que se refieren los art&#xED;culos 1&#xBA; y 3&#xBA; del DL N&#xBA; 799 de 1974.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A VEHICULO QUE INDICA PARA CIRCULAR EN DIAS SABADO, DOMINGO Y FESTIVOS, EXIMIENDOLO DE LA OBLIGACION DE LLEVAR DISCO FISCAL</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 28 de julio de 2000.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 152 exento.- Visto: Lo dispuesto en el DL N&#xBA; 799 de 1979, modificado por la ley N&#xBA; 18.267 de 1983, y por el DFL N&#xBA; 12-2345, de 1979 de Interior, el DS N&#xBA; 654, de 1994, del Ministerio del Interior; las instrucciones impartidas por la Contralor&#xED;a General de la Rep&#xFA;blica en el oficio circular N&#xBA; 35.593 de 1995, sobre uso y circulaci&#xF3;n de veh&#xED;culos estatales; el memor&#xE1;ndum N&#xBA; 54, del Jefe Secci&#xF3;n Administraci&#xF3;n del Serviu III Regi&#xF3;n y el ord. N&#xBA; 2.119 del Director Serviu III Regi&#xF3;n, ambos del 23-06-2000; y,</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que la gesti&#xF3;n del Director del Serviu III Regi&#xF3;n, a requerimiento de la Intendencia, se prolonga m&#xE1;s all&#xE1; de la jornada ordinaria de trabajo, incluidos s&#xE1;bado, domingo y festivos; como asimismo que en raz&#xF3;n a las labores permanentes de fiscalizaci&#xF3;n y control que debe desempe&#xF1;ar, es necesario que el veh&#xED;culo asignado a dicho Serviu, que se singulariza, pueda circular sin las restricciones y desprovisto del disco distintivo a que se refieren los art&#xED;culos 1&#xBA; y 3&#xBA; del DL N&#xBA; 799 de 1974.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

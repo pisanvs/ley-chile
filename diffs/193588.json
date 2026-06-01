@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-02-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-12-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6365349,
+          "old": "<div><div class=\"p\">AUTORIZA SUBDIVISION DEL PREDIO DE LA SOCIEDAD INMOBILIARIA AUTODROMO Y CAMPO DE DEPORTES LAS VIZCACHAS LTDA. Y C. P. A., UBICADO EN LA COMUNA DE PUENTE ALTO DEL DEPARTAMENTO DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 13 de Enero de 1975.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 25.- Vistos: el oficio N&#xB0; 1.416, de 19 de Diciembre de 1974, de la Direcci&#xF3;n de Planificaci&#xF3;n del Desarrollo Urbano; el oficio N&#xB0; 1.475, de 18 de Noviembre de 1974, del Ministerio de Agricultura; el D.S. (V. y U.) N&#xB0; 319, de 1974; lo dispuesto en el art&#xED;culo 166&#xB0; de la ley N&#xB0; 16.640; lo prescrito en el art&#xED;culo 6&#xB0; de la ley N&#xB0; 16.465, y 1os dem&#xE1;s antecedentes que se acompa&#xF1;an;</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA SUBDIVISION DEL PREDIO DE LA SOCIEDAD INMOBILIARIA AUTODROMO Y CAMPO DE DEPORTES LAS VIZCACHAS LTDA. Y C. P. A., UBICADO EN LA COMUNA DE PUENTE ALTO DEL DEPARTAMENTO DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 13 de Enero de 1975.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 25.- Vistos: el oficio N&#xB0; 1.416, de 19 de Diciembre de 1974, de la Direcci&#xF3;n de Planificaci&#xF3;n del Desarrollo Urbano; el oficio N&#xB0; 1.475, de 18 de Noviembre de 1974, del Ministerio de Agricultura; el D.S. (V. y U.) N&#xB0; 319, de 1974; lo dispuesto en el art&#xED;culo 166&#xB0; de la ley N&#xB0; 16.640; lo prescrito en el art&#xED;culo 6&#xB0; de la ley N&#xB0; 16.465, y 1os dem&#xE1;s antecedentes que se acompa&#xF1;an;</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

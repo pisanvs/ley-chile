@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1999-05-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-06-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8344426,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Conc&#xE9;dese por gracia, a cada una de las siguientes personas: Manuel Jos&#xE9; Luna Mu&#xF1;oz, RUT.</div><div class=\"p\">5.078.244-1; Alejandra Emma Merino Ojeda, RUT.</div><div class=\"p\">7.471.255-K; Raquel de los Santos Vergara Ordenes, RUT.</div><div class=\"p\">2.357.036-K; una pensi&#xF3;n equivalente al 75% de un ingreso m&#xED;nimo mensual.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Conc&#xE9;dese por gracia, a cada una de las siguientes personas: Manuel Jos&#xE9; Luna Mu&#xF1;oz, RUT. 5.078.244-1; Emma Isabel Ojeda Moyano , RUT.<span class=\"n\" id=\"n_0\">DTO 3101, INTERIOR<br>D.O. 11.06.1999</span> 7.471.255-K; Raquel de los Santos Vergara Ordenes, RUT. 2.357.036-K; una pensi&#xF3;n equivalente al 75% de un ingreso m&#xED;nimo mensual. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-01-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8344429,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo s&#xE9;ptimo: Fac&#xFA;ltase, en el caso del menor Julio Ernesto Cabrera L&#xF3;pez, a do&#xF1;a Noem&#xED; Lucrecia L&#xF3;pez Segovia, RUT. 10.391.779-4, madre del beneficiario; en el caso del menor Javier Ignacio Contreras Olivares, a do&#xF1;a Mar&#xED;a Isabel Olivares Galaz, RUT. 10.091.196-5, madre del beneficiario; en el caso de la menor Mar&#xED;a Constanza Contreras Su&#xE1;rez, a do&#xF1;a Sabina Su&#xE1;rez Silva, RUT. 2.058.337-1, madre de la beneficiaria; en el caso del menor Pablo Andr&#xE9;s Fern&#xE1;ndez Baquedano, a do&#xF1;a Macarena Valeska Baquedano Jones, RUT. 12.603.554-3, madre del beneficiario; en el caso del menor Marcos Antonio Gajardo Cornejo, a do&#xF1;a Elisa Blanca Rosa Ram&#xED;rez Mora, RUT. 2.743.780-K, en el caso de Juan de Matta Gonz&#xE1;lez Fuentes, a don Jos&#xE9; Juvenal Gonz&#xE1;lez Fuentes, RUT. 8.100.233-9, hermano del beneficiario; en el caso de Alejandra Emma Merino Ojeda, a do&#xF1;a Olga Isabel Ojeda Moyano, RUT. 5.527.017-1, madre de la beneficiaria; en el caso de la menor Fernanda Paulette Salinas Corval&#xE1;n, a do&#xF1;a Gabriela Idalides Corval&#xE1;n Torres, RUT.8.481.038-K, madre de la beneficiaria; en el caso de Pedro Javier Moraga Vega, a do&#xF1;a Ana Luisa Vega Calder&#xF3;n, RUT. 4.779.120-0, madre del beneficiario; en el caso de Carlos Daniel Eduardo Vega Ib&#xE1;&#xF1;ez, a do&#xF1;a Mar&#xED;a Eugenia Bahamondes Barahona, RUT. 5.858.542-4, c&#xF3;nyuge del beneficiario; en el caso de los menores Dami&#xE1;n Eduardo, Brenda Victoria, Rub&#xE9;n Marcos y Pablo Ariel Vel&#xE1;squez L&#xF3;pez, a do&#xF1;a Margarita del Carmen L&#xF3;pez Ortiz, RUT. 8.522.398-4, madre de los beneficiarios, para cobrar la pensi&#xF3;n en su representaci&#xF3;n. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo s&#xE9;ptimo: Fac&#xFA;ltase, en el caso del menor<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> Julio Ernesto Cabrera L&#xF3;pez, a do&#xF1;a Noem&#xED; Lucrecia L&#xF3;pez Segovia, RUT. 10.391.779-4, madre del beneficiario; en el caso del menor Javier Ignacio Contreras Olivares, a do&#xF1;a Mar&#xED;a Isabel Olivares Galaz, RUT. 10.091.196-5, madre del beneficiario; en el caso de la menor Mar&#xED;a Constanza Contreras Su&#xE1;rez, a do&#xF1;a Sabina Su&#xE1;rez Silva, RUT. 2.058.337-1, madre de la beneficiaria; en el caso del menor Pablo Andr&#xE9;s Fern&#xE1;ndez Baquedano, a do&#xF1;a Macarena Valeska Baquedano Jones, RUT. 12.603.554-3, madre del beneficiario; en el caso del menor Marcos Antonio Gajardo Cornejo, a do&#xF1;a Elisa Blanca Rosa Ram&#xED;rez Mora, RUT. 2.743.780-K, en el caso de Juan de Matta Gonz&#xE1;lez Fuentes, a don Jos&#xE9; Juvenal Gonz&#xE1;lez Fuentes, RUT. 8.100.233-9, hermano del beneficiario; en el caso de Alejandra Emma Merino Ojeda, a do&#xF1;a Olga Isabel Ojeda Moyano, RUT. 5.527.017-1, madre de la beneficiaria; en el caso de la menor Fernanda Paulette Salinas Corval&#xE1;n, a do&#xF1;a Gabriela Idalides Corval&#xE1;n Torres, RUT.8.481.038-K, madre de la beneficiaria; en el caso de Pedro Javier Moraga Vega, a do&#xF1;a Ana Luisa Vega Calder&#xF3;n, RUT. 4.779.120-0, madre del beneficiario; en el caso de Carlos Daniel Eduardo Vega Ib&#xE1;&#xF1;ez, a do&#xF1;a Mar&#xED;a Eugenia Bahamondes Barahona, RUT. 5.858.542-4, c&#xF3;nyuge del beneficiario; en el caso de los menores Dami&#xE1;n Eduardo, Brenda Victoria, Rub&#xE9;n Marcos y Pablo Ariel Vel&#xE1;squez L&#xF3;pez, a do&#xF1;a Margarita del Carmen L&#xF3;pez Ortiz, RUT. 8.522.398-4, madre de los beneficiarios, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 695, Interior, publicado el 23.01.2003, deja sin efecto la facultad de do&#xF1;a Ema Isabel Ojeda Moyano para cobrar la Pensi&#xF3;n de Gracia de do&#xF1;a Alejandra Emma Merino Ojeda, facult&#xE1;ndose en lo sucesivo al Director del Instituto Psiqui&#xE1;trico &quot;Dr. Jos&#xE9; Horwitz Barak&quot; para cobrar dicha pensi&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

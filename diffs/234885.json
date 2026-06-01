@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "2005-01-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6513886,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; CONTRALORIA GENERAL DE LA REPUBLICA<span class=\"n\" id=\"n_0\">ALC 59236,<br>CONTRALORIA GRAL.<br>D.O. 31.01.2005</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Divisi&#xF3;n de Contabilidad</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Cursa con alcance resoluci&#xF3;n N&#xBA;1.653, de 2004, del Ministerio de Defensa Nacional, Subsecretar&#xED;a de Marina</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 59.236.- Santiago, 30 de noviembre de 2004.- La Contralor&#xED;a General ha dado curso al documento del ep&#xED;grafe, que otorga la concesi&#xF3;n de acuicultura de porci&#xF3;n de agua y fondo de mar que singulariza, en Canal King, comuna de Cisnes, provincia de Ays&#xE9;n, XI Regi&#xF3;n, pero cumple con hacer presente, de acuerdo con los antecedentes acompa&#xF1;ados, que la referencia contenida en el N&#xBA;2 de la resoluci&#xF3;n en examen, a las coordenadas longitud 74&#xBA;04&apos;53,35&quot; W y 74&#xBA;03&apos;39,49&quot; W. debe entenderse efectuada a las coordenadas Longitud 74&#xBA;04&apos;39,35&quot; W y 74&#xBA;03&apos;49,00&quot; W., correspondientes a los v&#xE9;rtices D y E.</div><div class=\"p\">&nbsp; &nbsp;  Con el alcance que antecede se ha tomado raz&#xF3;n del acto administrativo de la suma.</div><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a Ud.- Por orden del Contralor General de la Rep&#xFA;blica, Jefe Sub Divisi&#xF3;n, Cr&#xE9;dito P&#xFA;blico y Bienes Nacionales.</div><br><div class=\"p\"> Al se&#xF1;or</div><div class=\"p\"> Subsecretario de Marina</div><div class=\"p\"> Presente</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6513883,
+          "old": "<div><div class=\"p\">OTORGA CONCESION DE ACUICULTURA </div></div>",
+          "new": "<div><div class=\"p\">OTORGA CONCESION DE ACUICULTURA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

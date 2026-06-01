@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-01-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7153102,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA REGLAMENTO SOBRE INGRESO AL PAIS DE AERONAVES CIVILES EXTRANJERAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 743.- Santiago, 9 de Diciembre de 1991.- Vistos: la facultad que me confiere el art&#xED;culo 32 N&#xB0; 6 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; lo establecido en el art&#xED;culo 5&#xB0; de la Convenci&#xF3;n de Aviaci&#xF3;n Civil Internacional; y</div><div class=\"p\">&nbsp; &nbsp; Considerando: lo propuesto por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil, en Oficio Secreto N&#xB0; 04/2/1/44 de 14. OCT.991:</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA REGLAMENTO SOBRE INGRESO AL PAIS DE AERONAVES CIVILES EXTRANJERAS N&#xFA;m. 743.- Santiago, 9 de Diciembre de 1991.- Vistos: la facultad que me confiere el art&#xED;culo 32 N&#xB0; 8<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 28.01.1992</span> de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; lo establecido en el art&#xED;culo 5&#xB0; de la Convenci&#xF3;n de Aviaci&#xF3;n Civil Internacional; y Considerando: lo propuesto por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil, en Oficio Secreto N&#xB0; 04/2/1/44 de 14. OCT.991: Decreto: </div></div>"
+        }
+      ]
+    }
+  }
+]

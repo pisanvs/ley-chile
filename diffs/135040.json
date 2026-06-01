@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-04-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6164208,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 8 bis: El Servicio de Bienestar podr&#xE1;<span class=\"n\" id=\"n_0\">DTO 86, TRABAJO<br>Art. &#xFA;nico<br>D.O. 28.01.2005</span> financiar con cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias, y contratar seguros de vida para sus afiliados, seguros de salud, o complementos en cualquier forma para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros o los complementos de salud.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

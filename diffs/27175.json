@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1957-10-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1983-10-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7174704,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Fija normas para el pago de patentes mineras; aclara el art&#xED;culo 115&#xB0; del C&#xF3;digo de Miner&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Fija normas para el pago de patentes mineras; aclara<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> el art&#xED;culo 115&#xB0; del C&#xF3;digo de Miner&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de Ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 2 del art&#xED;culo 244 de la LEY 18248, publicada en el Diario Oficial del 14.10.1983, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

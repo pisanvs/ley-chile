@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-04-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-05-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8372624,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Autor&#xED;zase la circulaci&#xF3;n en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos al veh&#xED;culo propiedad del Servicio Electoral que a continuaci&#xF3;n se individualiza, de acuerdo a lo se&#xF1;alado en el art&#xED;culo 1&#xBA; del DL 799, de 1974.</div><br><div class=\"p\">Veh&#xED;culo&nbsp;  :&nbsp; &nbsp; Camioneta</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; :&nbsp; &nbsp; Nissan</div><div class=\"p\">Modelo&nbsp; &nbsp;  :&nbsp; &nbsp; D21 2.4 doble cabina 4x2</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; :&nbsp; &nbsp; Verde oscuro met&#xE1;lico</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp; 2005</div><div class=\"p\">N&#xBA; Motor&nbsp;  :&nbsp; &nbsp; KA24237900A</div><div class=\"p\">N&#xBA; Chassis :&nbsp; &nbsp; 3N6CD13Y9ZK950174</div><div class=\"p\">I.R.N.V.M. :&nbsp; &nbsp; YE.3236-3</div><div class=\"p\">Placa Unica :&nbsp; &nbsp; YE.3236-3</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Autor&#xED;zase la circulaci&#xF3;n en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos al veh&#xED;culo propiedad del Servicio Electoral que a continuaci&#xF3;n se individualiza, de acuerdo a lo se&#xF1;alado en el art&#xED;culo 1&#xBA; del DL 799, de 1974.</div><br><div class=\"p\">Veh&#xED;culo&nbsp;  :&nbsp; &nbsp; Camioneta<span class=\"n\" id=\"n_0\">RES 1686 EXENTA,<br>INTERIOR<br>Art. primero B)<br>D.O. 03.05.2005</span></div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; :&nbsp; &nbsp; Nissan</div><div class=\"p\">Modelo&nbsp; &nbsp;  :&nbsp; &nbsp; D21 doble cabina 4x4</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; :&nbsp; &nbsp; Verde oscuro met&#xE1;lico</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp; 2005</div><div class=\"p\">N&#xBA; Motor&nbsp;  :&nbsp; &nbsp; KA24237900A</div><div class=\"p\">N&#xBA; Chassis :&nbsp; &nbsp; 3N6CD13Y9ZK950174</div><div class=\"p\">I.R.N.V.M. :&nbsp; &nbsp; YE.3236-3</div><div class=\"p\">Placa Unica :&nbsp; &nbsp; YE.3236-3</div><br></div>"
+        }
+      ]
+    }
+  }
+]

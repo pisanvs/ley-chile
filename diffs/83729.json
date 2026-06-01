@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8315485,
+          "old": "<div><div class=\"p\">AUTORIZA A UNIVERSIDAD AUSTRAL DE CHILE PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A UNIVERSIDAD AUSTRAL DE CHILE PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

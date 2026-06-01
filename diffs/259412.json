@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-03-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8498552,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que, dentro del plazo de tres meses contado desde la publicaci&#xF3;n de esta ley, mediante un decreto con fuerza de ley expedido a trav&#xE9;s del Ministerio Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica, el que deber&#xE1; ser suscrito tambi&#xE9;n por el Ministro de Hacienda, cree hasta cinco cargos en la planta de personal de la Comisi&#xF3;n Nacional del Medio Ambiente fijada por el art&#xED;culo 88 de la Ley N&#xBA; 19.300.</div><br><div class=\"p\">&nbsp; &nbsp;  El mayor gasto fiscal que se derive de la creaci&#xF3;n de los cargos antedichos, considerando su efecto a&#xF1;o completo, no podr&#xE1; exceder de la cantidad de $88.205 miles.</div><br><div class=\"p\">&nbsp; &nbsp;  Increm&#xE9;ntase la dotaci&#xF3;n m&#xE1;xima de personal de la Comisi&#xF3;n Nacional del Medio Ambiente, en tantos cupos como sea el n&#xFA;mero de cargos que se creen en el ejercicio de la presente facultad.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que, dentro del plazo de doce meses<span class=\"n\" id=\"n_0\">LEY 20233<br>Art. 41<br>D.O. 06.12.2007</span> contado desde la publicaci&#xF3;n de esta ley, mediante un decreto con fuerza de ley expedido a trav&#xE9;s del Ministerio Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica, el que deber&#xE1; ser suscrito tambi&#xE9;n por el Ministro de Hacienda, cree hasta cinco cargos en la planta de personal de la Comisi&#xF3;n Nacional del Medio Ambiente fijada por el art&#xED;culo 88 de la Ley N&#xBA; 19.300.</div><br><div class=\"p\">&nbsp; &nbsp;  El mayor gasto fiscal que se derive de la creaci&#xF3;n de los cargos antedichos, considerando su efecto a&#xF1;o completo, no podr&#xE1; exceder de la cantidad de $88.205 miles.</div><br><div class=\"p\">&nbsp; &nbsp;  Increm&#xE9;ntase la dotaci&#xF3;n m&#xE1;xima de personal de la Comisi&#xF3;n Nacional del Medio Ambiente, en tantos cupos como sea el n&#xFA;mero de cargos que se creen en el ejercicio de la presente facultad.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

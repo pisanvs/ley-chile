@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1998-10-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-12-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8336204,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA; bis: Establ&#xE9;cese para la Direcci&#xF3;n de<span class=\"n\" id=\"n_0\">DTO 674,<br>OBRAS PUBLICAS<br>Art. &#xFA;nico<br>D.O. 02.12.2005</span> Vialidad, la Junta Calificadora Regional de la Regi&#xF3;n Metropolitana de Santiago y 12 Juntas Calificadoras Regionales correspondientes a las Regiones de Tarapac&#xE1;, Antofagasta, Atacama, Coquimbo, Valpara&#xED;so, Libertador Bernardo O&apos;Higgins, Maule, B&#xED;o B&#xED;o, la Araucan&#xED;a, Los Lagos, Ays&#xE9;n, y Magallanes, las que calificar&#xE1;n al personal con desempe&#xF1;o en las respectivas Direcciones Regionales del Servicio, y una Junta Calificadora Central que evaluar&#xE1; al resto del personal y a los integrantes de las Juntas Calificadoras Regionales.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2018-08-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

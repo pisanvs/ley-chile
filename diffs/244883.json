@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2005-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8662065,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14: Las Empresas podr&#xE1;n efectuar observaciones a las Bases preliminares dentro de los quince d&#xED;as siguientes a la fecha de recibidas.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n acoger&#xE1; o rechazar&#xE1; fundadamente las observaciones de las Empresas y comunicar&#xE1; las Bases Definitivas, las que en todo caso deber&#xE1;n ser aprobadas por &#xE9;sta antes de once meses del t&#xE9;rmino de vigencia de los precios vigentes, haci&#xE9;ndolas p&#xFA;blicas a trav&#xE9;s del sitio de dominio electr&#xF3;nico de la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  En caso de mantener discrepancias respecto de las Bases definitivas, las Empresas deber&#xE1;n presentarlas en el plazo de 5 d&#xED;as al Panel de Expertos, el que deber&#xE1; resolver en un plazo m&#xE1;ximo de 15 d&#xED;as.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14: Las Empresas podr&#xE1;n efectuar observaciones a las Bases preliminares dentro de los quince d&#xED;as siguientes a la fecha de recibidas.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n acoger&#xE1; o rechazar&#xE1; fundadamente las observaciones de las Empresas y comunicar&#xE1; las Bases Definitivas, las que en todo caso deber&#xE1;n ser aprobadas por &#xE9;sta antes de once meses del t&#xE9;rmino de vigencia de los precios vigentes, haci&#xE9;ndolas p&#xFA;blicas a trav&#xE9;s del sitio de dominio electr&#xF3;nico de la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Si se mantuviesen controversias, las Empresas podr&#xE1;n presentar sus discrepancias al Panel<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1113260&amp;idParte=9872470&amp;idVersion=2018-01-05\">Decreto 44, ENERG&#xCD;A<br>Art. TERCERO N&#xB0; 1<br>D.O. 05.01.2018</a></span> de Expertos, dentro de los 10 d&#xED;as siguientes contados desde la recepci&#xF3;n de las bases t&#xE9;cnicas definitivas, debiendo el Panel de Expertos emitir su dictamen dentro de los 30 d&#xED;as siguientes contados desde la celebraci&#xF3;n de la audiencia se&#xF1;alada en el art&#xED;culo 211&#xBA; de la Ley.</div><br></div>"
+        },
+        {
+          "part_id": 8662103,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 43: Recibidos los Estudios, la Comisi&#xF3;n dispondr&#xE1; de un plazo de tres meses para remitir a las Empresas un informe t&#xE9;cnico que contenga las observaciones y correcciones al Estudio y las f&#xF3;rmulas tarifarias respectivas. Durante todo el per&#xED;odo se&#xF1;alado, la Consultora seleccionada deber&#xE1; estar disponible para atender las consultas de la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Las Empresas dispondr&#xE1;n de quince d&#xED;as para formalizar su acuerdo o desacuerdo con la Comisi&#xF3;n. En caso de no alcanzar acuerdo, la Comisi&#xF3;n enviar&#xE1; los antecedentes al panel de expertos, el que resolver&#xE1; en el plazo de quince d&#xED;as.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 43: Recibidos los Estudios, la Comisi&#xF3;n dispondr&#xE1; de un plazo de tres meses para remitir a las Empresas un informe t&#xE9;cnico que contenga las observaciones y correcciones al Estudio y las f&#xF3;rmulas tarifarias respectivas. Durante todo el per&#xED;odo se&#xF1;alado, la Consultora seleccionada deber&#xE1; estar disponible para atender las consultas de la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Las Empresas dispondr&#xE1;n de quince d&#xED;as para formalizar su acuerdo o desacuerdo con la Comisi&#xF3;n. En caso de no alcanzar acuerdo, la Comisi&#xF3;n enviar&#xE1; los antecedentes al panel de expertos, el que resolver&#xE1; en el plazo de quince d&#xED;as contado desde la celebraci&#xF3;n de la audiencia re<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1113260&amp;idParte=9872470&amp;idVersion=2018-01-05\">Decreto 44, ENERG&#xCD;A<br>Art. TERCERO N&#xB0; 2<br>D.O. 05.01.2018</a></span>ferida en el art&#xED;culo 211&#xBA; de la Ley.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1113260,
+      "fecha": "2018-01-05"
+    }
+  }
+]

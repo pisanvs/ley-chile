@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10127396,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 30.- Sociedades de apoyo al giro. Las sociedades de apoyo al giro reguladas en el P&#xE1;rrafo 2 del T&#xED;tulo IX del decreto con fuerza de ley N&#xBA; 3, de 1997, del Ministerio de Hacienda, que fija texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican, podr&#xE1;n prestar servicios a cualquier proveedor en relaci&#xF3;n con la portabilidad financiera y la operatividad de esta ley. Las sociedades de apoyo al giro que provean los mencionados servicios deber&#xE1;n establecer condiciones y exigencias objetivas y no discriminatorias de contrataci&#xF3;n, sin que puedan establecer diferencias en relaci&#xF3;n al volumen de operaciones.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 30.- Sociedades de apoyo al giro. Las sociedades de apoyo al giro reguladas en el P&#xE1;rrafo 2 del T&#xED;tulo IX del decreto con fuerza de ley N&#xBA; 3, de 1997, del Ministerio de Hacienda, que fija texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican, podr&#xE1;n prestar servicios a cualquier proveedor en relaci&#xF3;n con la portabilidad financiera y la operatividad de esta ley. Las sociedades de apoyo al giro que provean los mencionados servicios deber&#xE1;n establecer condiciones y exigencias objetivas y no discriminatorias de contrataci&#xF3;n, sin que puedan establecer diferencias en relaci&#xF3;n al volumen de operaciones.</div><div class=\"p\">&nbsp; &nbsp;  Las <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187323&amp;idParte=10393560&amp;idVersion=2023-02-03\">Ley 21521<br>Art. 39<br>D.O. 04.01.2023</a></span>comunicaciones entre proveedores mencionadas en el inciso anterior deber&#xE1;n realizarse a trav&#xE9;s de las interfaces de acceso remoto y automatizado de que dispongan los proveedores involucrados en un proceso de portabilidad financiera, una vez que los referidos proveedores tengan calidad de participantes en el Sistema de Finanzas Abiertas contemplado en el t&#xED;tulo III de la Ley que promueve la competencia e inclusi&#xF3;n financiera a trav&#xE9;s de la innovaci&#xF3;n y tecnolog&#xED;a en la prestaci&#xF3;n de servicios financieros, Ley Fintec.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1187323,
+      "fecha": "2023-02-03"
+    }
+  }
+]

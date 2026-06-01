@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-10-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-10-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9194116,
+          "old": "<div><br><div class=\"p\">MODIFICA ORDENANZA N&#xBA; 22, DE 2001, SOBRE DERECHOS MUNICIPALES</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 109.- Providencia, 7 de octubre de 2011.- Vistos: Lo dispuesto por el decreto ley N&#xBA;3.063 de 1979, Ley de Rentas Municipales; y teniendo presente las facultades que me confieren los art&#xED;culos 5 letra d), 12, 63 letra i), 65 letra j) y 79 letra b) de la ley N&#xBA;18.695, de 1988, Org&#xE1;nica Constitucional de Municipalidades, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que mediante decreto alcaldicio Ex. N&#xBA;2.361 de 20 de diciembre de 2010, se fij&#xF3; el texto refundido y sistematizado de la Ordenanza N&#xBA; 22 de 28 de diciembre de 2001 y sus modificaciones &quot;Ordenanza Local sobre Derechos Municipales&quot; que regir&#xE1; para el a&#xF1;o 2011, modificada por Ordenanza N&#xBA;101 de 19 de abril, Ordenanza N&#xBA;102 de 17 de mayo, Ordenanza N&#xBA;103 de 28 de julio y N&#xBA;106 de 15 de septiembre, todas de 2011.</div><div class=\"p\">&nbsp; &nbsp;  2.- La necesidad de modificar la citada Ordenanza, agregando o modificando los derechos all&#xED; establecidos.</div><div class=\"p\">&nbsp; &nbsp;  3.- Los memor&#xE1;ndum N&#xBA;15.321, de 29 de julio, N&#xBA;15.424, de 3 de agosto y N&#xBA;17.548, de 6 de septiembre, todos de 2011, de la Directora de Desarrollo Comunitario y N&#xBA;16.154, de 12 de agosto de 2011, del Director de Desarrollo Comunitario (S).</div><div class=\"p\">&nbsp; &nbsp;  4.- Los memor&#xE1;ndum N&#xBA;15.379, de 3 de agosto y N&#xBA;15.468, de 4 de agosto, ambos de 2011, del Director de Obras.</div><div class=\"p\">&nbsp; &nbsp;  5.- El memor&#xE1;ndum N&#xBA;18.013, de 12 de septiembre de 2011, del Director de Control.</div><div class=\"p\">&nbsp; &nbsp;  6.- El Informe N&#xBA;934, de 13 de septiembre de 2011, del Director Jur&#xED;dico.</div><div class=\"p\">&nbsp; &nbsp;  7.- El memor&#xE1;ndum N&#xBA; 18.703, de 23 de septiembre de 2011, de la Administradora Municipal.</div><div class=\"p\">&nbsp; &nbsp;  8.- El Acuerdo N&#xBA;116 adoptado en Sesi&#xF3;n Ordinaria N&#xBA;121, de 7 de octubre de 2011, del Concejo Municipal.</div><br><div class=\"p\">&nbsp; &nbsp;  Ordenanza:</div></div>",
+          "new": "<div><br><div class=\"p\">MODIFICA ORDENANZA N&#xBA; 22, DE 2001, SOBRE DERECHOS MUNICIPALES</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 109.- Providencia, 7 de octubre de 2011.- Vistos: Lo dispuesto por el decreto ley N&#xBA;3.063 de 1979, Ley de Rentas Municipales; y teniendo presente las facultades que me confieren los art&#xED;culos 5 letra d), 12, 63 letra i), 65 letra j) y 79 letra b) de la ley N&#xBA;18.695, de 1988, Org&#xE1;nica Constitucional de Municipalidades, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que mediante decreto alcaldicio Ex. N&#xBA;2.361 de 20 de diciembre de 2010, se fij&#xF3; el texto refundido y sistematizado de la Ordenanza N&#xBA; 22 de 28 de diciembre de 2001 y sus modificaciones &quot;Ordenanza Local sobre Derechos Municipales&quot; que regir&#xE1; para el a&#xF1;o 2011, modificada por Ordenanza N&#xBA;101 de 19 de abril, Ordenanza N&#xBA;102 de 17 de mayo, Ordenanza N&#xBA;103 de 28 de julio y N&#xBA;106 de 15 de septiembre, todas de 2011.</div><div class=\"p\">&nbsp; &nbsp;  2.- La necesidad de modificar la citada Ordenanza, agregando o modificando los derechos all&#xED; establecidos.</div><div class=\"p\">&nbsp; &nbsp;  3.- Los memor&#xE1;ndum N&#xBA;15.321, de 29 de julio, N&#xBA;15.424, de 3 de agosto y N&#xBA;17.548, de 6 de septiembre, todos de 2011, de la Directora de Desarrollo Comunitario y N&#xBA;16.154, de 12 de agosto de 2011, del Director de Desarrollo Comunitario (S).</div><div class=\"p\">&nbsp; &nbsp;  4.- Los memor&#xE1;ndum N&#xBA;15.379, de 3 de agosto y N&#xBA;15.468, de 4 de agosto, ambos de 2011, del Director de Obras.</div><div class=\"p\">&nbsp; &nbsp;  5.- El memor&#xE1;ndum N&#xBA;18.013, de 12 de septiembre de 2011, del Director de Control.</div><div class=\"p\">&nbsp; &nbsp;  6.- El Informe N&#xBA;934, de 13 de septiembre de 2011, del Director Jur&#xED;dico.</div><div class=\"p\">&nbsp; &nbsp;  7.- El memor&#xE1;ndum N&#xBA; 18.703, de 23 de septiembre de 2011, de la Administradora Municipal.</div><div class=\"p\">&nbsp; &nbsp;  8.- El Acuerdo N&#xBA; 716<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1031580&amp;idParte=9198793&amp;idVersion=2011-10-25\">Ordenanza 114,<br>M. DE PROVIDENCIA<br>D.O. 25.10.2011</a></span> adoptado en Sesi&#xF3;n Ordinaria N&#xBA;121, de 7 de octubre de 2011, del Concejo Municipal.</div><br><div class=\"p\">&nbsp; &nbsp;  Ordenanza:</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1031580,
+      "fecha": "2011-10-25"
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "fecha": "1993-03-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-06-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9073570,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9 BIS: A partir de la publicaci&#xF3;n de esta<span class=\"n\" id=\"n_0\">DTO 333 A EXENTO,<br>M. DE CONSTITUCION<br>Art. &#xFA;nico, N&#xBA; 2<br>D.O. 17.06.1996</span> Ordenanza en el Diario Oficial, no se autorizar&#xE1; la instalaci&#xF3;n de nuevos puestos de artesan&#xED;a, feria, bazar o paqueter&#xED;a y no se otorgar&#xE1;n nuevos permisos para tal efecto</div><br></div>"
+        },
+        {
+          "part_id": 9073571,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA; transitorio: Para los efectos de esta<span class=\"n\" id=\"n_1\">DTO 333 A EXENTO,<br>M. DE CONSTITUCION<br>Art. &#xFA;nico, N&#xBA; 14<br>D.O. 17.06.1996</span> ordenanza se entender&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  a) Como Comerciantes de Ferias Libres, aquellos autorizados por la Municipalidad para ofrecer sus productos en calles o parajes p&#xFA;blicos destinados a tal efecto y que, en el caso de la presente ordenanza, corresponde a calle Infante entre Blanco y Freire.</div><div class=\"p\">&nbsp; &nbsp;  b) Como Comerciantes estacionados, aquellos que comercian en mercader&#xED;as de poco valor y que tienen asiento fijo autorizado por la Municipalidad en calles y lugares de uso p&#xFA;blico.</div><br></div>"
+        },
+        {
+          "part_id": 9073572,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culos Transitorios</div><br></div>"
+        },
+        {
+          "part_id": 9073573,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; transitorio: Los comerciantes<span class=\"n\" id=\"n_2\">DTO 333 A EXENTO,<br>M. DE CONSTITUCION<br>Art. &#xFA;nico, N&#xBA; 15<br>D.O. 17.06.1996</span> instalados en calle Infante entre calles Freire y O&#xF1;ederra, deber&#xE1;n trasladarse dentro del plazo de 15 d&#xED;as a contar de la fecha de la publicaci&#xF3;n de estas modificaciones, a los espacios que se creen o queden disponibles del mismo rubro en calle Infante entre calles Blanco y Freire</div><br></div>"
+        },
+        {
+          "part_id": 9073574,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; transitorio: Der&#xF3;guese la Ordenanza<span class=\"n\" id=\"n_3\">DTO 333 A EXENTO,<br>M. DE CONSTITUCION<br>Art. &#xFA;nico, N&#xBA; 16<br>D.O. 17.06.1996</span> Municipal de Ferias Libres y de Chacareros aprobada mediante Decreto Alcaldicio 288/A del 10 de Septiembre de 1991 dictada por la Ilustre Municipalidad de Constituci&#xF3;n.</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": 9073565,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culos Transitorios {ARTS. 47-49} Art&#xED;culo 47: Comerciantes de Ferias Libres autorizados por la I. Municipalidad respectiva, para ofrecer sus productos en calles o parajes p&#xFA;blicos, destinados a ella.</div><div class=\"p\">&nbsp; &nbsp; Se ha destinado para ello en el presente documento en caso de la calle Infante entre Blanco y O&#xF1;ederra.</div><div class=\"p\">&nbsp; &nbsp; Comerciantes estacionados: son aquellos que comercian en mercader&#xED;as de poco valor y que tienen asiento fijo autorizado por la Municipalidad respectiva, en calles y lugares de uso p&#xFA;blico.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 9073566,
+          "old": "<div><div class=\"p\">&nbsp;  Art&#xED;culos Transitorios </div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 9073567,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 48: Los derechos aplicables son: Los comerciantes de Ferias Libres, comerciantes estacionados en la v&#xED;a p&#xFA;blica, pagar&#xE1;n derecho municipal de acuerdo a lo estipulado en la Ordenanza Municipal vigente que regula este tipo de actividades.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 9073568,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 49: Der&#xF3;guese la Ordenanza Municipal de Ferias Libres y de Chacareros aprobada mediante Decreto Alcaldicio 288/A del 10 de Septiembre de 1991 dictada por la Ilustre Municipalidad de Constituci&#xF3;n. </div></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

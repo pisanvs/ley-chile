@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-02-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8932233,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA PLANES Y PROGRAMAS DE ESTUDIO PARA ATENDER NI&#xD1;OS CON TRASTORNOS DE LA COMUNICACION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 86 exento.- Santiago, 5 de Marzo de 1990.- Visto: Lo dispuesto en los decretos supremos de Educaci&#xF3;n N&#xB0;s. 2.039 y 9.555, ambos de 1980; Resoluci&#xF3;n N&#xB0; 1.050, de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA PLANES Y PROGRAMAS DE ESTUDIO PARA ATENDER NI&#xD1;OS CON TRASTORNOS DE LA COMUNICACIO<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>N</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 86 exento.- Santiago, 5 de Marzo de 1990.- Visto: Lo dispuesto en los decretos supremos de Educaci&#xF3;n N&#xB0;s. 2.039 y 9.555, ambos de 1980; Resoluci&#xF3;n N&#xB0; 1.050, de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, </div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo 5 del Decreto 83 Exento, Educaci&#xF3;n, publicado el 05.02.2015, dispone que la presente norma, continuar&#xE1; vigente s&#xF3;lo en lo que se establece para el ciclo o nivel de formaci&#xF3;n laboral y hasta la total tramitaci&#xF3;n del acto administrativo que apruebe los criterios y orientaciones de adecuaci&#xF3;n curricular para la educaci&#xF3;n media.</div></div>"
+        }
+      ]
+    }
+  }
+]

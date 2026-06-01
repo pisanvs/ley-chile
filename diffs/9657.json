@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-08-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5895095,
+          "old": "<div><div class=\"p\">CREA COMISION ASESORA Y COORDINADORA PARA LA SEQUIA </div><div class=\"p\">&nbsp; &nbsp; Santiago, 20 Agosto de 1990.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 125.- Visto: lo dispuesto en el decreto con fuerza de ley N&#xB0; 294, de 1960, Org&#xE1;nico del Ministerio de Agricultura; en el Art&#xED;culo 32&#xB0;, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que es un hecho p&#xFA;blico y notorio la sequ&#xED;a que est&#xE1; afectando a una parte importante del territorio nacional, con el consiguiente perjuicio a la actividad agr&#xED;cola y ganadera,</div><div class=\"p\">&nbsp; &nbsp; Que el Ministerio de Agricultura tiene, entre sus funciones primordiales, las de obtener el aumento de la producci&#xF3;n nacional; la conservaci&#xF3;n, protecci&#xF3;n y acrecentamiento de los recursos naturales renovables y el mejoramiento de las condiciones de nutrici&#xF3;n del pueblo, y</div><div class=\"p\">&nbsp; &nbsp; Que el estado actual de sequ&#xED;a requiere medidas urgentes, que deben adoptarse en forma coordinada, a fin de paliar en forma eficiente sus efectos,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>",
+          "new": "<div><div class=\"p\">CREA COMISION ASESORA Y COORDINADORA PARA LA SEQUIA </div><div class=\"p\">&nbsp; &nbsp; Santiago, 20 Agosto de 1990.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 125.- Visto: lo dispuesto en el decreto con fuerza de ley N&#xB0; 294, de 1960, Org&#xE1;nico del Ministerio de Agricultura; en el Art&#xED;culo 32&#xB0;, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que es un hecho p&#xFA;blico y notorio la sequ&#xED;a que est&#xE1; afectando a una parte importante del territorio nacional, con el consiguiente perjuicio a la actividad agr&#xED;cola y ganadera,</div><div class=\"p\">&nbsp; &nbsp; Que el Ministerio de Agricultura tiene, entre sus funciones primordiales, las de obtener el aumento de la producci&#xF3;n nacional; la conservaci&#xF3;n, protecci&#xF3;n y acrecentamiento de los recursos naturales renovables y el mejoramiento de las condiciones de nutrici&#xF3;n del pueblo, y</div><div class=\"p\">&nbsp; &nbsp; Que el estado actual de sequ&#xED;a requiere medidas urgentes, que deben adoptarse en forma coordinada, a fin de paliar en forma eficiente sus efectos,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

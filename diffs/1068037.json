@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2014-10-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-12-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9516007,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Del&#xE9;gase en el Director General Administrativo del Ministerio de Relaciones Exteriores, y en quien lo subrogue legalmente, las siguientes facultades:</div><div class=\"p\">&nbsp; &nbsp;  a) Suscribir los contratos o convenios de prestaci&#xF3;n de servicios a honorarios con personas naturales, sus modificaciones y finiquitos, que sean pertinentes, en los siguientes casos: i) Que se paguen por mensualidades, cuando ninguna de estas exceda de 75 unidades tributarias mensuales. ii) A suma alzada o cualquier otra modalidad de pago, cuyo monto total no exceda de 150 unidades tributarias mensuales.</div><div class=\"p\">&nbsp; &nbsp;  b) Autentificar, en car&#xE1;cter de Ministro de fe, las Declaraciones de Intereses del personal dependiente de la Subsecretar&#xED;a de Relaciones Exteriores.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Del&#xE9;gase en el Director General Administrativo del Ministerio de Relaciones Exteriores, y en quien lo subrogue legalmente, las siguientes facultades:</div><div class=\"p\">&nbsp; &nbsp;  a) Suscribir los contratos o convenios de prestaci&#xF3;n de servicios a honorarios con personas naturales, sus modificaciones y finiquitos, que sean pertinentes, en los siguientes casos: i) Que se paguen por mensualidades, cuando ninguna de estas exceda de 75 unidades tributarias mensuales. ii) A suma alzada o cualquier otra modalidad de pago, cuyo monto total no exceda de 150 unidades tributarias mensuales.</div><div class=\"p\">&nbsp; &nbsp;  b) Derogado<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1097715&amp;idParte=9752867&amp;idVersion=2016-12-13\">Resoluci&#xF3;n 3115 EXENTA,<br>RELACIONES EXTERIORES<br>N&#xB0; 1<br>D.O. 13.12.2016</a></span>.</div><br><br><br><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1097715,
+      "fecha": "2016-12-13"
+    }
+  },
+  {
+    "fecha": "2018-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

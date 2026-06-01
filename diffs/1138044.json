@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-10-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-10-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10064993,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Conc&#xE9;dese de oficio una ampliaci&#xF3;n de los plazos fatales, asociados a procedimientos administrativos llevados adelante ante este Servicio que venzan el d&#xED;a lunes 21 o martes 22 de octubre de 2019, de dos d&#xED;as h&#xE1;biles adicionales, esto es, hasta el d&#xED;a mi&#xE9;rcoles 23 de octubre y jueves 24 de octubre, respectivamente, conforme lo dispuesto en el art&#xED;culo 26&#xBA; de la ley N&#xBA; 19.880, de 2003, que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los &#xD3;rganos de la Administraci&#xF3;n del Estado.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Conc&#xE9;dese de oficio una ampliaci&#xF3;n de los plazos fatales, asociados a procedimientos administrativos llevados adelante ante este Servicio que venzan el d&#xED;a lunes 21 o martes 22 de octubre de 2019, de dos d&#xED;as h&#xE1;biles adicionales, esto es, hasta el d&#xED;a mi&#xE9;rcoles 23 de octubre y jueves 24 de octubre, respectivamente, conforme lo dispuesto en el art&#xED;culo 26&#xBA; de la ley N&#xBA; 19.880, de 2003, que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los &#xD3;rganos de la Administraci&#xF3;n del Estado.</div><div class=\"p\">&nbsp; &nbsp;  Se <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1138090&amp;idParte=10065059&amp;idVersion=2019-10-26\">Resoluci&#xF3;n 346 EXENTA,<br>ECONOMIA<br>Art. primero<br>D.O. 26.10.2019</a></span>agrega que todos los plazos fatales vigentes de la totalidad de las solicitudes administrativas seguidas ante este Instituto, que venzan los d&#xED;as mi&#xE9;rcoles 23, jueves 24 y viernes 25 de octubre de 2019, se ampl&#xED;an en tres d&#xED;as h&#xE1;biles adicionales, conforme lo dispuesto en el art&#xED;culo 26&#xBA; de la ley N&#xBA; 19.880, de 2003, que establece Bases de los Procedimientos Administrativos que rigen los actos de los &#xD3;rganos de la Administraci&#xF3;n del Estado.</div><div class=\"p\">&nbsp; &nbsp;  Se deja constancia que la ampliaci&#xF3;n adicional del inciso anterior, tambi&#xE9;n rige para los plazos ya ampliados por aplicaci&#xF3;n del art&#xED;culo primero original de la resoluci&#xF3;n exenta N&#xBA; 335, de 2019, que por este acto se modifica. De esta manera y a modo ejemplar, los plazos que venc&#xED;an el lunes 21 y martes 22 y que pasaron a vencer el 23 y 24 de octubre, ahora vencer&#xE1;n el 28 y 29 de octubre, respectivamente.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1138090,
+      "fecha": "2019-10-26"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-09-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-10-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8853003,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTO PARA LA APLICACION DE LAS NORMAS SOBRE REGULARIZACION DE LA POSESION DE LA PEQUE&#xD1;A PROPIEDAD RAIZ Y CONSTITUCION DEL DOMINIO SOBRE ELLA</div><div class=\"p\">&nbsp; &nbsp; Santiago, 1&#xB0;. de Agosto de 1979.- El Presidente de la Rep&#xFA;blica ha decretado hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 562.- Vistos: lo dispuesto en los art&#xED;culos 14&#xB0;., inciso final, y 32&#xB0;., inciso 2&#xB0;. del D.L. 2.695, de 1979; teniendo presente que es necesario se&#xF1;alar la forma y modalidades como se proceder&#xE1; a aplicar las normas contenidas en el decreto ley citado, relativas a la regularizaci&#xF3;n de la peque&#xF1;a propiedad ra&#xED;z y constituci&#xF3;n del dominio sobre ella, por intermedio de la Direcci&#xF3;n de Tierras y Bienes Nacionales y en conformidad a lo dispuesto en el art&#xED;culo 72&#xB0;., N&#xB0;. 2&#xB0;., de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  REGLAMENTO PARA LA APLICACION DE LAS NORMAS SOBRE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">REGULARIZACION DE LA POSESION DE LA PEQUE&#xD1;A PROPIEDAD</div><div class=\"p\">RAIZ Y CONSTITUCION DEL DOMINIO SOBRE ELLA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 1&#xB0;. de Agosto de 1979.- El Presidente de la Rep&#xFA;blica ha decretado hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 562.- Vistos: lo dispuesto en los art&#xED;culos 14&#xB0;., inciso final, y 32&#xB0;., inciso 2&#xB0;. del D.L. 2.695, de 1979; teniendo presente que es necesario se&#xF1;alar la forma y modalidades como se proceder&#xE1; a aplicar las normas contenidas en el decreto ley citado, relativas a la regularizaci&#xF3;n de la peque&#xF1;a propiedad ra&#xED;z y constituci&#xF3;n del dominio sobre ella, por intermedio de la Direcci&#xF3;n de Tierras y Bienes Nacionales y en conformidad a lo dispuesto en el art&#xED;culo 72&#xB0;., N&#xB0;. 2&#xB0;., de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 24 del DTO 541, Bienes Nacionales, publicado en el D.O. del 17.10.1996 derog&#xF3; el presente decreto. </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-10-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-08-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6260903,
+          "old": "<div><div class=\"p\">EXTRACTO DE LA RESOLUCION EXENTA N&#xBA; 950 DE 07 DE MAYO DE 1985 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE LA RESOLUCION EXENTA N&#xBA; 950 DE 07 DE MAYO DE 1985</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

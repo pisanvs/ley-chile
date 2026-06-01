@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1984-08-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1984-08-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9037384,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- Para el personal en retiro y sus beneficiarios de montep&#xED;o, con derecho al beneficio del art&#xED;culo 4&#xB0; de la Ley N&#xB0; 17.700 y sus modificaciones deber&#xE1; certificarse si al momento del t&#xE9;rmino de sus actividades profesionales ten&#xED;a vigente el t&#xED;tulo o especialidad o la habr&#xED;a tenido al amparo de la actual reglamentaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Trat&#xE1;ndose de las especialidades que se obtienen por permanencia, deber&#xE1; certificarse, adem&#xE1;s del tiempo durante el cual se desempe&#xF1;aron en las Reparticiones o Unidades que dan derecho al beneficio, el grado jer&#xE1;rquico y/o econ&#xF3;mico, en su caso, que ten&#xED;a al momento de cesar sus funciones en ellas.</div><div class=\"p\">&nbsp; &nbsp; En caso del personal en retiro cuyo t&#xED;tulo caduc&#xF3; mientras se encontraba en servicio activo, deber&#xE1; certificarse el grado jer&#xE1;rquico y/o econ&#xF3;mico, en su caso, en el cual perdi&#xF3; este requisito y las causales de su caducidad.</div><div class=\"p\">&nbsp; &nbsp; Para el personal que se encuentre en los casos de los incisos anteriores, el beneficio ser&#xE1; determinado de acuerdo a lo que dispone el art&#xED;culo 50&#xB0;, del texto refundido del decreto con fuerza de ley N&#xB0; 2 (I), de 1968, y para establecer el grado del mayor sueldo y trienios u otros beneficios a que tenga derecho, </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- Para el personal en retiro y sus beneficiarios de montep&#xED;o, con derecho al beneficio del art&#xED;culo 4&#xB0; de la Ley N&#xB0; 17.700 y sus modificaciones deber&#xE1; certificarse si al momento del t&#xE9;rmino de sus actividades profesionales ten&#xED;a vigente el t&#xED;tulo o especialidad o la habr&#xED;a tenido al amparo de la actual reglamentaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Trat&#xE1;ndose de las especialidades que se obtienen por permanencia, deber&#xE1; certificarse, adem&#xE1;s del tiempo durante el cual se desempe&#xF1;aron en las Reparticiones o Unidades que dan derecho al beneficio, el grado jer&#xE1;rquico y/o econ&#xF3;mico, en su caso, que ten&#xED;a al momento de cesar sus funciones en ellas.</div><div class=\"p\">&nbsp; &nbsp; En caso del personal en retiro cuyo t&#xED;tulo caduc&#xF3; mientras se encontraba en servicio activo, deber&#xE1; certificarse el grado jer&#xE1;rquico y/o econ&#xF3;mico, en su caso, en el cual perdi&#xF3; este requisito y las causales de su caducidad.</div><div class=\"p\">&nbsp; &nbsp; Para el personal que se encuentre en los casos de los incisos anteriores, el beneficio ser&#xE1; determinado de acuerdo a lo que dispone el art&#xED;culo 50&#xB0;, del texto refundido del decreto con fuerza de ley N&#xB0; 2 (I), de 1968, y para establecer el grado del mayor sueldo y<span class=\"n\" id=\"n_0\">RECTIFICADO<br>D. OFICIAL<br>18-AGO-1984</span> trienios u otros beneficios a que tenga derecho, se estar&#xE1; a las normas vigentes al 1&#xB0; de Enero de 1978.</div><br></div>"
+        },
+        {
+          "part_id": 9037385,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- El personal se&#xF1;alado en el art&#xED;culo 1&#xB0; del presente reglamento y sus beneficiarios de montep&#xED;o, deber&#xE1;n presentar ante el Departamento de Previsi&#xF3;n Social de la Subsecretar&#xED;a de Investigaciones, una solicitud para el reconocimiento de los derechos que confiere el art&#xED;culo 4&#xB0; de la Ley N&#xB0; 17.700, y sus modificaciones.</div><div class=\"p\">&nbsp; &nbsp; El Departamento de Previsi&#xF3;n Social, solicitar&#xE1;, cuando lo estime procedente, del Departamento del Personal de la Direcci&#xF3;n General de Investigaciones o de otras reparticiones, la certificaci&#xF3;n de aquellos antecedentes que estime convenientes.</div><div class=\"p\">&nbsp; &nbsp; se estar&#xE1; a las normas vigentes al 1&#xB0; de Enero de 1978.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- El personal se&#xF1;alado en el art&#xED;culo 1&#xB0; del presente reglamento y sus beneficiarios de montep&#xED;o, deber&#xE1;n presentar ante el Departamento de Previsi&#xF3;n Social de la Subsecretar&#xED;a de Investigaciones, una solicitud para el reconocimiento de los derechos que confiere el art&#xED;culo 4&#xB0; de la Ley N&#xB0; 17.700, y sus modificaciones.</div><div class=\"p\">&nbsp; &nbsp; El Departamento de Previsi&#xF3;n Social, solicitar&#xE1;, cuando lo estime procedente, del Departamento del Personal de la Direcci&#xF3;n General de Investigaciones o de<span class=\"n\" id=\"n_1\">RECTIFICADO<br>D. OFICIAL<br>18-AGO-1984</span> otras reparticiones, la certificaci&#xF3;n de aquellos antecedentes que estime convenientes.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

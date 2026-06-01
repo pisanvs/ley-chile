@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1971-02-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1971-08-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8843167,
+          "old": "<div><div class=\"p\">REGLAMENTO PARA LA APLICACION DE LA LEY N&#xBA; 17.277 SOBRE FONDO DE CONSTRUCCIONES DE JUSTICIA</div><br><div class=\"p\">&nbsp; &nbsp;  SANTIAGO, 13 de Enero de 1971.- HOY SE DECRETO LO QUE SIGUE:</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 100.- VISTOS, lo dispuesto en el art&#xED;culo 5&#xBA; de la Ley N&#xBA; 17.277, sobre Fondo de Construcciones de Justicia,</div><br><div class=\"p\">&nbsp; &nbsp;  DECRETO:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento para la aplicaci&#xF3;n de la Ley N&#xBA; 17.277, sobre Fondo de Construcciones de Justicia:</div><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTO PARA LA APLICACION DE LA LEY N&#xBA; 17.277 SOBRE FONDO DE CONSTRUCCIONES DE JUSTICIA</div><br><div class=\"p\">&nbsp; &nbsp;  SANTIAGO, 13 de Enero de 1971.- HOY SE DECRETO LO QUE SIGUE:</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 100.- VISTOS, lo dispuesto en el art&#xED;culo 5&#xBA; de la Ley N&#xBA; 17.277, sobre Fondo de Construcciones de Justicia,</div><br><div class=\"p\">&nbsp; &nbsp;  DECRETO:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento para la aplicaci&#xF3;n de la Ley N&#xBA; 17.277, sobre Fondo de Construcciones de Justicia:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

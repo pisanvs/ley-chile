@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-08-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2026-01-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10047266,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase como Zona de Inter&#xE9;s Tur&#xED;stico (ZOIT) &quot;Destino Torres del Paine&quot; al territorio conformado por las comunas de Puerto Natales y Torres del Paine, cuyos l&#xED;mites est&#xE1;n determinados por los puntos y v&#xE9;rtices que delimitan el pol&#xED;gono de la ZOIT, seg&#xFA;n detalle contenido en anexo N&#xB0; 1, denominado &quot;Coordenadas ZOIT Destino Torres del Paine&quot;.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Decl&#xE1;rase como Zona de Inter&#xE9;s Tur&#xED;stico (ZOIT) &quot;Destino Torres del Paine&quot; al territorio conformado por las comunas de Puerto Natales y Torres del Paine, cuyos l&#xED;mites est&#xE1;n determinados por los puntos y v&#xE9;rtices que delimitan el pol&#xED;gono de la ZOIT, seg&#xFA;n detalle contenido en anexo N&#xB0; 1, denominado &quot;Coordenadas ZOIT Destino Torres del Paine&quot;.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto 202600008 Exento, Econom&#xED;a, publicado el 23.01.2026, modifica el nombre de la Zona de Int&#xE9;res Tur&#xED;stico denominada &quot;Torres del Paine&quot;, declarada mediante el presente decreto, prorrogada por el decreto 202400035 exento, Econom&#xED;a, publicado el 15.03.2024, por &quot;Natales-Torres del Paine&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

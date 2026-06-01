@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-08-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-10-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8987620,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DICTA NORMAS SOBRE EL DERECHO DE APROVECHAMIENTO Santiago, 24 de Julio de 1979.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xB0; 1-2.603.- Vistos: Lo dispuesto en el D.L.</div><div class=\"p\">N&#xB0; 527, de 1974, art&#xED;culo 5&#xB0; transitorio, de la ley N&#xB0; 16.640, y en virtud de la facultad que me confiere el art&#xED;culo 2&#xB0; del D.L. N&#xB0; 2.603, de 1979, y teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que es necesario dictar normas objetivas, que permitan establecer el sistema, por medio del cual se podr&#xE1; enajenar y dar en garant&#xED;a los derechos de aprovechamiento, mientras se dicta el texto definitivo del C&#xF3;digo de Aguas.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que sin perjuicio de lo expuesto, precedentemente, es de urgencia dictar disposiciones transitorias que permitan facilitar el tr&#xE1;mite de la inscripci&#xF3;n de los derechos de aprovechamiento, cuando &#xE9;ste requisito no se ha cumplido con anterioridad, como asimismo, facilitar la regularizaci&#xF3;n de los derechos de aprovechamiento de los adquirentes de predios expropiados por la Corporaci&#xF3;n de la Reforma Agraria y reglamentar las limitaciones que para la enajenaci&#xF3;n de sus derechos de aprovechamiento, deben tener los propietarios de predios r&#xFA;sticos de peque&#xF1;a superficie.</div><div class=\"p\">&nbsp; &nbsp; Vengo en dictar el siguiente decreto con fuerza de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DICTA NORMAS SOBRE EL DERECHO DE APROVECHAMIENTO </div><div class=\"p\">&nbsp; &nbsp; Santiago, 24 de Julio de 1979.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xB0; 1-2.603.- Vistos: Lo dispuesto en el D.L.</div><div class=\"p\">N&#xB0; 527, de 1974, art&#xED;culo 5&#xB0; transitorio, de la ley N&#xB0; 16.640, y en virtud de la facultad que me confiere el art&#xED;culo 2&#xB0; del D.L. N&#xB0; 2.603, de 1979, y teniendo presente:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que es necesario dictar normas objetivas, que permitan establecer el sistema, por medio del cual se podr&#xE1; enajenar y dar en garant&#xED;a los derechos de aprovechamiento, mientras se dicta el texto definitivo del C&#xF3;digo de Aguas.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que sin perjuicio de lo expuesto, precedentemente, es de urgencia dictar disposiciones transitorias que permitan facilitar el tr&#xE1;mite de la inscripci&#xF3;n de los derechos de aprovechamiento, cuando &#xE9;ste requisito no se ha cumplido con anterioridad, como asimismo, facilitar la regularizaci&#xF3;n de los derechos de aprovechamiento de los adquirentes de predios expropiados por la Corporaci&#xF3;n de la Reforma Agraria y reglamentar las limitaciones que para la enajenaci&#xF3;n de sus derechos de aprovechamiento, deben tener los propietarios de predios r&#xFA;sticos de peque&#xF1;a superficie.</div><div class=\"p\">&nbsp; &nbsp; Vengo en dictar el siguiente decreto con fuerza de ley:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

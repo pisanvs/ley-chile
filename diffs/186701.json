@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8366357,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- El veh&#xED;culo se&#xF1;alado con el numeral 1) del art&#xED;culo anterior, podr&#xE1; guardarse en el inmueble correspondiente al n&#xFA;mero 0810 de calle Inglaterra, ciudad de Temuco, adopt&#xE1;ndose por su responsable los resguardos correspondientes.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- El veh&#xED;culo se&#xF1;alado con el<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> numeral 1) del art&#xED;culo anterior, podr&#xE1; guardarse en el inmueble correspondiente al n&#xFA;mero 0810 de calle Inglaterra, ciudad de Temuco, adopt&#xE1;ndose por su responsable los resguardos correspondientes.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. segundo del DTO 1219 exento, Interior, publicado el 19.12.2002, modifica el presente art&#xED;culo, en el sentido que el veh&#xED;culo placa patente UL-9525-1, podr&#xE1; ser guardado en el inmueble correspondiente al N&#xBA; 167 de calle Francia de la ciudad de Temuco, a partir de la fecha del presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

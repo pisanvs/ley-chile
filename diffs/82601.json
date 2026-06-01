@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-07-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313913,
+          "old": "<div><div class=\"p\">AUTORIZA AL SINDICATO DE TRABAJADORES INDEPENDIENTES, BUZOS MARISCADORES, CULTIVADORES Y EXPLOTADORES DE ALGAS Y RAMOS CONEXOS &quot;LOS CHONOS&quot; DE GUABUN PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><br><div class=\"p\">AUTORIZA AL SINDICATO DE TRABAJADORES INDEPENDIENTES, BUZOS MARISCADORES, CULTIVADORES Y EXPLOTADORES DE ALGAS Y RAMOS CONEXOS &quot;LOS CHONOS&quot; DE GUABUN PARA INICIAR ACTIVIDADES PESQUERAS</div><br></div>"
+        }
+      ]
+    }
+  }
+]

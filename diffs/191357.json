@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-02-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7287207,
+          "old": "<div><div class=\"p\">APRUEBA ARANCELES DE ACCIONES DE PROTECCION DE LA SALUD QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 982 exenta.- Santiago, 31 de Julio de 1986.- Visto: Estos antecedentes, lo propuesto por los Directores de los Servicios de Salud y del Instituto de Salud P&#xFA;blica de Chile, lo establecido en el C&#xF3;digo Sanitario en sus art&#xED;culos 9&#xB0; letra f), 112 y 129, en el Decreto Ley No. 2.147 de 1978, en el Decreto con Fuerza de Ley No. 90 de 1977, del Ministerio de Hacienda; lo dispuesto en los Decretos Supremos N&#xB0;s. 68 de 1927, 829 de 1931, 839 de 1940, 723 de 1955, 39 de 1966, 951 de 1968, 160 de 1977, 261 de 1978, 88 de 1980, 161 de 1982, 334 de 1983, 466 de 1984, 4 de 1985, en el art&#xED;culo 14 letra j) del Decreto Supremo No. 281, de 1980, Reglamento Org&#xE1;nico de los Servicios de Salud, y en el art&#xED;culo 10 letra g) del Decreto Supremo No. 79 de 1980, Reglamento del Instituto de Salud P&#xFA;blica de Chile, todos del Ministerio de Salud, en la Resoluci&#xF3;n No.</div><div class=\"p\">1.050 de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica, y teniendo presente las facultades que me confiere el Decreto Ley No. 2.763, de 1979, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA ARANCELES DE ACCIONES DE PROTECCION DE LA SALUD QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 982 exenta.- Santiago, 31 de Julio de 1986.- Visto: Estos antecedentes, lo propuesto por los Directores de los Servicios de Salud y del Instituto de Salud P&#xFA;blica de Chile, lo establecido en el C&#xF3;digo Sanitario en sus art&#xED;culos 9&#xB0; letra f), 112 y 129, en el Decreto Ley No. 2.147 de 1978, en el Decreto con Fuerza de Ley No. 90 de 1977, del Ministerio de Hacienda; lo dispuesto en los Decretos Supremos N&#xB0;s. 68 de 1927, 829 de 1931, 839 de 1940, 723 de 1955, 39 de 1966, 951 de 1968, 160 de 1977, 261 de 1978, 88 de 1980, 161 de 1982, 334 de 1983, 466 de 1984, 4 de 1985, en el art&#xED;culo 14 letra j) del Decreto Supremo No. 281, de 1980, Reglamento Org&#xE1;nico de los Servicios de Salud, y en el art&#xED;culo 10 letra g) del Decreto Supremo No. 79 de 1980, Reglamento del Instituto de Salud P&#xFA;blica de Chile, todos del Ministerio de Salud, en la Resoluci&#xF3;n No.</div><div class=\"p\">1.050 de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica, y teniendo presente las facultades que me confiere el Decreto Ley No. 2.763, de 1979, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

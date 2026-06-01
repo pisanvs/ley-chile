@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-04-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9211211,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Modif&#xED;case el art&#xED;culo 1 del <a href=\"https://www.leychile.cl/Navegar?idNorma=120986&amp;idParte=0&amp;idVersion=\">decreto supremo N&#xBA; 44, de 1998, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes</a>, que fija la delimitaci&#xF3;n del recinto portuario del puerto Talcahuano/San Vicente, en la siguiente forma:</div><br><div class=\"p\">a)&nbsp;  Sustit&#xFA;yese el inciso primero por el siguiente: &quot;Establ&#xE9;cese como recinto portuario de la Empresa Portuaria Talcahuano San Vicente, las &#xE1;reas mar&#xED;timas y terrestres comprendidas dentro de los pol&#xED;gonos identificados por los siguientes deslindes, seg&#xFA;n se indica en planos N&#xBA; SVE-TC-9816, de la Empresa Portuaria de Chile, protocolizado con fecha 11 de marzo de 1998 bajo el N&#xBA; 921 en la notar&#xED;a de Valpara&#xED;so de don Alfonso D&#xED;az S., y N&#xBA; TAL-RP-01-2010, de la Empresa Portuaria Talcahuano San Vicente, protocolizado con fecha 9 de diciembre de 2010 bajo el N&#xBA; 424, repertorio 2409/10, en la Notar&#xED;a de Talcahuano de don Gast&#xF3;n Ariel Santib&#xE1;&#xF1;ez Torres&quot;.</div><div class=\"p\">b)&nbsp;  Sustit&#xFA;yese el texto contenido entre los t&#xED;tulos &quot;Puerto de Talcahuano&quot; y &quot;Puerto de San Vicente&quot; por el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/22583.jpg\"></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Modif&#xED;case el art&#xED;culo 1 del decreto supremo N&#xBA; 44, de 1998, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, que fija la delimitaci&#xF3;n del recinto portuario del puerto Talcahuano/San Vicente, en la siguiente forma:</div><br><div class=\"p\">a)&nbsp;  Sustit&#xFA;yese el inciso primero por el siguiente: &quot;Establ&#xE9;cese como recinto portuario de la Empresa Portuaria Talcahuano San Vicente, las &#xE1;reas mar&#xED;timas y terrestres comprendidas dentro de los pol&#xED;gonos identificados por los siguientes deslindes, seg&#xFA;n se indica en planos N&#xBA; SVE-TC-9816, de la Empresa Portuaria de Chile, protocolizado con fecha 11 de marzo de 1998 bajo el N&#xBA; 921 en la notar&#xED;a de Valpara&#xED;so de don Alfonso D&#xED;az S., y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1050314&amp;idParte=9345149&amp;idVersion=2013-04-22\">Decreto 165, TRANSPORTES<br>Art. 1 N&#xB0; 1<br>D.O. 22.04.2013</a></span>N&#xBA; TAL-RP-01-2012, de la Empresa Portuaria Talcahuano San Vicente, protocolizado con fecha 26 de enero de 2012, bajo el N&#xBA; 33, repertorio 203/2012, en la Notar&#xED;a de Talcahuano de don Gast&#xF3;n Ariel Santib&#xE1;&#xF1;ez Torres&quot;.</div><div class=\"p\">b)&nbsp;  Sustit&#xFA;yese el texto contenido entre los t&#xED;tulos &quot;Puerto de Talcahuano&quot; y &quot;Puerto de San Vicente&quot; por el siguiente:<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/22583.jpg\"></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 2 del Decreto 165, Transportes, publicado el 22.04.2013, reemplaza diversos puntos de la letra b) de la presente norma.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1050314,
+      "fecha": "2013-04-22"
+    }
+  }
+]

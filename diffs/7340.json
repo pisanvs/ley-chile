@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-09-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5883258,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DE COORDINACION DE LA OPERACION INTERCONECTADA DE CENTRALES GENERADORAS Y LINEAS DE TRANSPORTE</div><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de Enero de 1985.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 6.- Visto: El decreto con fuerza de ley N&#xB0; 1, de 1982, del Ministerio de Miner&#xED;a; lo informado por la Comisi&#xF3;n Nacional de Energ&#xED;a y la facultad que me concede el art&#xED;culo 32&#xB0; N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento de coordinaci&#xF3;n de la operaci&#xF3;n interconectada de centrales generadoras y l&#xED;neas de transporte, de la Ley General de Servicios El&#xE9;ctricos, para las instalaciones que se indican. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DE COORDINACION DE LA OPERACI&#xD3;N<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> INTERCONECTADA DE CENTRALES GENERADORAS Y LINEAS DE TRANSPORTE</div><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de Enero de 1985.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 6.- Visto: El decreto con fuerza de ley N&#xB0; 1, de 1982, del Ministerio de Miner&#xED;a; lo informado por la Comisi&#xF3;n Nacional de Energ&#xED;a y la facultad que me concede el art&#xED;culo 32&#xB0; N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento de coordinaci&#xF3;n de la operaci&#xF3;n interconectada de centrales generadoras y l&#xED;neas de transporte, de la Ley General de Servicios El&#xE9;ctricos, para las instalaciones que se indican.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 327, Miner&#xED;a, publicado el 10.09.1998, derog&#xF3; el presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

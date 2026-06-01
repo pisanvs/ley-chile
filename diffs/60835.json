@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-12-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-01-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9047813,
+          "old": "<div><div class=\"p\">MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDADES PESQUERAS EN UNIDAD DE PESQUERIA DE CAMARON NAILON DEL ARTICULO 1&#xBA; DEL DECRETO N&#xBA; 611, DE 1995</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.056.- Valpara&#xED;so, 9 de diciembre de 1996.- Visto: Lo solicitado por Pesquera Concepci&#xF3;n Limitada; lo informado por la Divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a en Memoranda N&#xBA; 283 y N&#xBA; 309, de 7 de agosto y 10 de septiembre de 1996; lo dispuesto en el D.F.L. N&#xBA; 5, de 1983; el D.S. N&#xBA; 611, de 1995, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Ley N&#xBA; 18.892 y sus modificaciones, cuyo texto refundido fue fijado por el D.S. N&#xBA; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Resoluci&#xF3;n N&#xBA; 1.010, de 1996, de esta Subsecretar&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDADES PESQUERAS EN UNIDAD DE PESQUERIA DE CAMARON NAILON DEL ARTICULO 1&#xBA; DEL DECRETO N&#xBA; 611, DE 1995</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.056.- Valpara&#xED;so, 9 de diciembre de 1996.- Visto: Lo solicitado por Pesquera Concepci&#xF3;n Limitada; lo informado por la Divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a en Memoranda N&#xBA; 283 y N&#xBA; 309, de 7 de agosto y 10 de septiembre de 1996; lo dispuesto en el D.F.L. N&#xBA; 5, de 1983; el D.S. N&#xBA; 611, de 1995, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Ley N&#xBA; 18.892 y sus modificaciones, cuyo texto refundido fue fijado por el D.S. N&#xBA; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Resoluci&#xF3;n N&#xBA; 1.010, de 1996, de esta Subsecretar&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

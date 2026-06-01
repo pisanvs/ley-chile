@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-12-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7269066,
+          "old": "<div><div class=\"p\">AUTORIZA A FAROS PESCA DE CHILE COMPA&#xD1;IA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS Y MODIFICA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A FAROS PESCA DE CHILE COMPA&#xD1;IA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS Y MODIFICA RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

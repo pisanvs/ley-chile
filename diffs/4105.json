@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-06-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5861846,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA ESTATUTO ORGANICO DE LA ACADEMIA SUPERIOR DE CIENCIAS PEDAGOGICAS DE SANTIAGO</div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xB0; 27.- Santiago, 1&#xB0; de Junio de 1981.- Visto, lo dispuesto en el Decreto Ley N&#xB0; 3541 de 1980, en el D.F.L. N&#xB0; 5 de 1981, y en el D.F.L. N&#xB0; 7 de 1981, del Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><div class=\"p\">&nbsp; &nbsp; Estatuto Org&#xE1;nico de la Academia Superior de Ciencias Pedag&#xF3;gicas de Santiago.</div><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA ESTATUTO ORGANICO DE LA ACADEMIA SUPERIOR<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> DE CIENCIAS PEDAGOGICAS DE SANTIAGO</div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xB0; 27.- Santiago, 1&#xB0; de Junio de 1981.- Visto, lo dispuesto en el Decreto Ley N&#xB0; 3541 de 1980, en el D.F.L. N&#xB0; 5 de 1981, y en el D.F.L. N&#xB0; 7 de 1981, del Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><div class=\"p\">&nbsp; &nbsp; Estatuto Org&#xE1;nico de la Academia Superior de Ciencias Pedag&#xF3;gicas de Santiago.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  La disposici&#xF3;n cuarta transitoria del DFL 162, Educaci&#xF3;n, publicado el 05.04.1982, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-11-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8323512,
+          "old": "<div><div class=\"p\">AUTORIZA A GENELMAR LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A GENELMAR LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

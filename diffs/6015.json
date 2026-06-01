@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-03-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-12-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8844852,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;- Decl&#xE1;rase subsistente lo establecido en el art&#xED;culo 135, letra g), inciso 6&#xB0; del DFL. N&#xB0; 1, de 1968, y sus modificaciones posteriores; acl&#xE1;rase que la norma anterior beneficia igualmente a Carabineros de Chile, en conformidad a lo se&#xF1;alado en el art&#xED;culo 63 del DFL. N&#xB0; 2 de 1968; y establ&#xE9;cese, adem&#xE1;s, que el derecho prescrito en dicho inciso ser&#xE1; igualmente aplicable al personal regido por los decretos con fuerza de ley mencionados, que regrese desde las zonas de tratamiento aduanero especial y desde la Ant&#xE1;rtica. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;- Decl&#xE1;rase subsistente lo establecido<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> en el art&#xED;culo 135, letra g), inciso 6&#xB0; del DFL. N&#xB0; 1, de 1968, y sus modificaciones posteriores; acl&#xE1;rase que la norma anterior beneficia igualmente a Carabineros de Chile, en conformidad a lo se&#xF1;alado en el art&#xED;culo 63 del DFL. N&#xB0; 2 de 1968; y establ&#xE9;cese, adem&#xE1;s, que el derecho prescrito en dicho inciso ser&#xE1; igualmente aplicable al personal regido por los decretos con fuerza de ley mencionados, que regrese desde las zonas de tratamiento aduanero especial y desde la Ant&#xE1;rtica.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 65 del DL 3063, Interior, publicado el 29.12.1979, declara que el presente art&#xED;culo mantiene su vigencia.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

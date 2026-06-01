@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2007-05-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8375733,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Autor&#xED;zase erigir un monumento, en la comuna de Providencia, en memoria de don Hern&#xE1;n Briones Gorostiaga.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.-<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1043668&amp;idParte=9295391&amp;idVersion=2012-09-13\">Ley 20621<br>Art. &#xDA;NICO<br>D.O. 13.09.2012</a></span> Autor&#xED;zase erigir un monumento, en la comuna de Las Condes, en memoria de don Hern&#xE1;n Briones Gorostiaga.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1043668,
+      "fecha": "2012-09-13"
+    }
+  }
+]

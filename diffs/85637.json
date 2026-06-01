@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-11-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6070850,
+          "old": "<div><div class=\"p\">AUTORIZA A LA ENTIDAD DENOMINADA &quot;CASA CHILE - SOLIDARIDAD Y DESARROLLO&quot; PARA DESARROLLAR ACTIVIDADES EN EL PAIS</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 24 de agosto de 1992.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.056.- Vistos: estos antecedentes, lo dispuesto en el art&#xED;culo 32, No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; en el decreto supremo de Justicia No. 924, de 1981, en el art&#xED;culo 34 del Decreto Reglamentario No. 110, publicado en el Diario Oficial de 20 de marzo de 1979 y lo informado por el Sr. Gobernador Provincial de Valpara&#xED;so, por el Sr. Subsecretario de Educaci&#xF3;n, por el Sr. Subsecretario de Relaciones Exteriores, por la Sra. Directora Nacional del Servicio Nacional de Menores y por el Consejo de Defensa del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>",
+          "new": "<div><br><div class=\"p\"> AUTORIZA A LA ENTIDAD DENOMINADA &quot;CASA CHILE -<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"> SOLIDARIDAD Y DESARROLLO&quot; PARA DESARROLLAR</div><div class=\"p\">ACTIVIDADES EN EL PAIS</div><div class=\"p\">&nbsp; &nbsp;  Santiago, 24 de agosto de 1992.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.056.- Vistos: estos antecedentes, lo dispuesto en el art&#xED;culo 32, No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; en el decreto supremo de Justicia No. 924, de 1981, en el art&#xED;culo 34 del Decreto Reglamentario No. 110, publicado en el Diario Oficial de 20 de marzo de 1979 y lo informado por el Sr. Gobernador Provincial de Valpara&#xED;so, por el Sr. Subsecretario de Educaci&#xF3;n, por el Sr. Subsecretario de Relaciones Exteriores, por la Sra. Directora Nacional del Servicio Nacional de Menores y por el Consejo de Defensa del Estado,</div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Dto 930, Justicia, publicado el 14.11.2002, modifica la presente norma en la forma que indica.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

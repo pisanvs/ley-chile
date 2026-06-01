@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1997-09-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-10-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8954577,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16&#xBA;: La Municipalidad directamente o a trav&#xE9;s de un contratista efectuar&#xE1; las extracciones usuales y ordinarias de desperdicios provenientes de los servicios dom&#xE9;sticos y de los barridos de casas, f&#xE1;bricas o negocios. Se entiende por extracci&#xF3;n usual y ordinaria la que no sobrepasa un volumen de 200 litros de desperdicios de promedio diario.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16&#xBA;: La Municipalidad directamente o a trav&#xE9;s de un contratista efectuar&#xE1; las extracciones usuales y ordinarias de desperdicios provenientes de los servicios dom&#xE9;sticos y de los barridos de casas, f&#xE1;bricas o negocios. Se entiende por extracci&#xF3;n usual y ordinaria la que no sobrepasa un volumen de 60<span class=\"n\" id=\"n_0\">ORZ 13,<br>M. DE PROVIDENCIA<br>N&#xBA; 1.1<br>D.O. 26.10.2001</span> litros de desperdicios de promedio diario. </div></div>"
+        },
+        {
+          "part_id": 8954579,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;: La Municipalidad podr&#xE1;, previa solicitud y pago adicional de este servicio por parte de los interesados, efectuar la extracci&#xF3;n de escorias, escombros o residuos de f&#xE1;bricas o talleres y extracci&#xF3;n de desperdicios que exceda el volumen de 200 litros de promedio diario.</div><br><div class=\"p\">&nbsp; &nbsp;  Los residuos industriales putrescibles, cuya recolecci&#xF3;n por el servicio municipal correspondiente no sea sanitariamente objetable, deber&#xE1;n ser retirados desde el interior de los locales en que se producen. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;: La Municipalidad podr&#xE1;, previa solicitud y pago adicional de este servicio por parte de los interesados, efectuar la extracci&#xF3;n de escorias, escombros o residuos de f&#xE1;bricas o talleres y extracci&#xF3;n de desperdicios que exceda el volumen de 60 litros de<span class=\"n\" id=\"n_1\">ORZ 13,<br>M. DE PROVIDENCIA<br>N&#xBA; 1.2<br>D.O. 26.10.2001</span> promedio diario. Los residuos industriales putrescibles, cuya recolecci&#xF3;n por el servicio municipal correspondiente no sea sanitariamente objetable, deber&#xE1;n ser retirados desde el interior de los locales en que se producen. </div></div>"
+        },
+        {
+          "part_id": 8954580,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xBA;: La Municipalidad no retirar&#xE1; los siguientes tipos de desechos dentro de su recolecci&#xF3;n ordinaria de basuras:</div><br><div class=\"p\">a)&nbsp;  Escombros.</div><br><div class=\"p\">b)&nbsp;  Restos de jardiner&#xED;a y poda de &#xE1;rboles, salvo que se trate de peque&#xF1;as cantidades y no produzcan da&#xF1;os al sistema de compactaci&#xF3;n del cami&#xF3;n.</div><br><div class=\"p\">c)&nbsp;  Enseres del hogar o restos de los mismos.</div><br><div class=\"p\">d)&nbsp;  Los residuos comerciales e industriales que excedan de 200 litros, salvo en el caso se&#xF1;alado en el art&#xED;culo 17.</div><br><div class=\"p\">e)&nbsp;  Residuos de cualquier tipo, que por su tama&#xF1;o o calidad puedan da&#xF1;ar los equipos compactadores de los veh&#xED;culos de recogida.</div><br><div class=\"p\">f)&nbsp;  Los desperdicios hospitalarios provenientes de la atenci&#xF3;n de enfermos en hospitales, cl&#xED;nicas y establecimientos semejantes (vendas, algodones, gasas, etc.), como asimismo los resultantes de trabajos de laboratorios biol&#xF3;gicos y otros de &#xED;ndole an&#xE1;loga (animales muertos, v&#xED;sceras, etc.).</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xBA;: La Municipalidad no retirar&#xE1; los siguientes tipos de desechos dentro de su recolecci&#xF3;n ordinaria de basuras:</div><div class=\"p\">a)&nbsp;  Escombros.</div><div class=\"p\">b)&nbsp;  Restos de jardiner&#xED;a y poda de &#xE1;rboles, salvo que se trate de peque&#xF1;as cantidades y no produzcan da&#xF1;os al sistema de compactaci&#xF3;n del cami&#xF3;n.</div><div class=\"p\"> c)&nbsp;  Enseres del hogar o restos de los mismos.</div><div class=\"p\"> d)&nbsp;  Los residuos comerciales e industriales que excedan</div><div class=\"p\">&nbsp; &nbsp;  de 60 litros, salvo en el caso se&#xF1;alado en el&nbsp; &nbsp; &nbsp; &nbsp;  ORZ 13,</div><div class=\"p\">&nbsp; &nbsp;  art&#xED;culo 17.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; M. DE PROVIDENCIA</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  N&#xBA; 1.3</div><div class=\"p\">e)&nbsp;  Residuos de cualquier tipo, que por su tama&#xF1;o o<span class=\"n\" id=\"n_2\">D.O. 26.10.2001</span></div><div class=\"p\">&nbsp; &nbsp;  calidad puedan da&#xF1;ar los equipos compactadores de los veh&#xED;culos de recogida.</div><div class=\"p\"> f)&nbsp;  Los desperdicios hospitalarios provenientes de la atenci&#xF3;n de enfermos en hospitales, cl&#xED;nicas y establecimientos semejantes (vendas, algodones, gasas, etc.), como asimismo los resultantes de trabajos de laboratorios biol&#xF3;gicos y otros de &#xED;ndole an&#xE1;loga (animales muertos, v&#xED;sceras, etc.).</div><br></div>"
+        }
+      ]
+    }
+  }
+]

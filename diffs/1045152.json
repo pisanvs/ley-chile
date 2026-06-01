@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2012-10-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9309718,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  F&#xED;janse las siguientes fechas que determinan el per&#xED;odo de presentaci&#xF3;n de las solicitudes para el otorgamiento del subsidio contemplado en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1005871&amp;idParte=8778284&amp;idVersion=\">art&#xED;culo 4&#xB0;</a> letra a) de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1005871&amp;idParte=0&amp;idVersion=\">ley N&#xBA; 20.378</a> para el proceso 2012-2013:</div><br><div class=\"p\">&nbsp; &nbsp;  Fecha de inicio per&#xED;odo&nbsp;  29 de octubre</div><div class=\"p\">&nbsp; &nbsp;  de postulaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  de 2012</div><br><div class=\"p\">&nbsp; &nbsp;  Fecha de t&#xE9;rmino per&#xED;odo&nbsp; 21 de diciembre</div><div class=\"p\">&nbsp; &nbsp;  de postulaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  de 2012</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  F&#xED;janse las siguientes fechas que determinan el per&#xED;odo de presentaci&#xF3;n de las solicitudes para el otorgamiento del subsidio contemplado en el art&#xED;culo 4&#xB0; letra a) de la ley N&#xBA; 20.378 para el proceso 2012-2013:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  Fecha de inicio per&#xED;odo&nbsp;  29 de octubre</div><div class=\"p\">&nbsp; &nbsp;  de postulaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  de 2012</div><br><div class=\"p\">&nbsp; &nbsp;  Fecha de t&#xE9;rmino per&#xED;odo&nbsp; 21 de diciembre</div><div class=\"p\">&nbsp; &nbsp;  de postulaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  de 2012</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 2815 Exenta, Transportes, publicada el 10.01.2013, prorroga el periodo de presentaci&#xF3;n de las solicitudes para el otorgamiento del subsidio para el proceso 2012-2013 en los t&#xE9;rminos se&#xF1;alado en la presente norma, hasta el d&#xED;a viernes 11 de enero del a&#xF1;o 2013.</div></div>"
+        }
+      ]
+    }
+  }
+]

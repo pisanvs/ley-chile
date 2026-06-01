@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-06-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-07-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8934175,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Modif&#xED;case, a partir del 17 de junio de 2010, la estructura tarifaria contenida en la tabla de tarifas de servicios puros consignada en el literal a) del Resuelvo 1&#xB0; de la <a href=\"https://www.leychile.cl/Navegar?idNorma=287116&amp;idParte=0&amp;idVersion=\">resoluci&#xF3;n N&#xB0; 35, de 2009</a>, de este Ministerio, para el sistema de transporte p&#xFA;blico de la Provincia de Santiago y las comunas de San Bernardo y Puente Alto, de acuerdo a lo que se expresa a continuaci&#xF3;n:</div><br><div class=\"p\">Tarifa Metro Valle&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Taa + $20&nbsp;  </div><div class=\"p\">Tarifa Metro Per&#xED;odo Punta&nbsp;  Taa + $80&nbsp;  </div><br><div class=\"p\">&nbsp; &nbsp;  2&#xB0; Instr&#xFA;yase al Administrador Financiero de Transantiago S.A., implementar la modificaci&#xF3;n a la estructura tarifaria ordenada en la presente resoluci&#xF3;n, a partir del 17 de junio de 2010.</div><br></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Modif&#xED;case, a partir del 17 de junio de 2010, la estructura tarifaria contenida en la tabla de tarifas de servicios puros consignada en el literal a) del Resuelvo 1&#xB0; de la <a href=\"https://www.leychile.cl/Navegar?idNorma=287116&amp;idParte=0&amp;idVersion=\">resoluci&#xF3;n N&#xB0; 35, de 2009</a>, de este Ministerio, para el sistema de transporte p&#xFA;blico de la Provincia de Santiago y las comunas de San Bernardo y Puente Alto, de acuerdo a lo que se expresa a continuaci&#xF3;n:</div><br><div class=\"p\">Tarifa Metro Valle&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Taa + $20&nbsp;  </div><div class=\"p\">Tarifa Metro Per&#xED;odo Punta&nbsp;  Taa + $80</div><br><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1015213&amp;idParte=8945702&amp;idVersion=2010-07-13\">Resoluci&#xF3;n 1866 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1 a)<br>D.O. 13.07.2010</a></span>Reempl&#xE1;zase el actual inciso tercero del literal b) de la resoluci&#xF3;n N&#xB0; 35, de 2009, del Ministerio de Transportes y Telecomunicaciones por el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Si el usuario durante las etapas del viaje lo realiza a trav&#xE9;s de diferentes combinaciones de servicios, siempre deber&#xE1; pagar la diferencia por el mayor valor de la tarifa del modo utilizado.&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  Reempl&#xE1;zase <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1015213&amp;idParte=8945702&amp;idVersion=2010-07-13\">Resoluci&#xF3;n 1866 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1 b)<br>D.O. 13.07.2010</a></span>la frase &quot;$130 (ciento treinta pesos)&quot; del inciso primero, primera l&#xED;nea, del literal c) del Resuelvo N&#xB0; 1 de la resoluci&#xF3;n N&#xB0; 35, de 2009, del Ministerio de Transportes y Telecomunicaciones, por la siguiente frase:</div><div class=\"p\">&nbsp; &nbsp;  &quot;La tarifa Metro pensionado corresponder&#xE1; a la Tarifa Escolar Superior y Media Metro Per&#xED;odo Punta, Baja y Valle.&quot;&nbsp; </div><br><div class=\"p\">&nbsp; &nbsp;  2&#xB0; Instr&#xFA;yase al Administrador Financiero de Transantiago S.A., implementar la modificaci&#xF3;n a la estructura tarifaria ordenada en la presente resoluci&#xF3;n, a partir del 17 de junio de 2010.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1015213,
+      "fecha": "2010-07-13"
+    }
+  }
+]

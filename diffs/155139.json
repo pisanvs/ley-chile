@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-09-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-11-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6231314,
+          "old": "<div><br><div class=\"p\">AUTORIZA A COMPA&#xD1;IA NAVIERA TAURO LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1;IA NAVIERA TAURO LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

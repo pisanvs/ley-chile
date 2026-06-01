@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-05-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7231571,
+          "old": "<div><div class=\"p\">ESTABLECE ORDEN DE SUBROGACION DEL DIRECTOR DEL SERVICIO NACIONAL DE CAPACITACION Y EMPLEO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 10.- Santiago, 16 de enero de 1998.- Visto: Lo dispuesto en el art&#xED;culo 7&#xBA;, letra b) de la ley N&#xBA; 18.834; art&#xED;culo 87 de la ley N&#xBA; 19.518, sobre Estatuto de Capacitaci&#xF3;n y Empleo y art&#xED;culo primero N&#xBA; 108 del decreto supremo N&#xBA; 654 de 1994, del Ministerio del Interior.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE ORDEN DE SUBROGACION DEL DIRECTOR DEL SERVICIO NACIONAL DE CAPACITACION Y EMPLEO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 10.- Santiago, 16 de enero de 1998.- Visto: Lo dispuesto en el art&#xED;culo 7&#xBA;, letra b) de la ley N&#xBA; 18.834; art&#xED;culo 87 de la ley N&#xBA; 19.518, sobre Estatuto de Capacitaci&#xF3;n y Empleo y art&#xED;culo primero N&#xBA; 108 del decreto supremo N&#xBA; 654 de 1994, del Ministerio del Interior.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

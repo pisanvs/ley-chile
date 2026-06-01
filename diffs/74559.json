@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-07-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-10-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6042122,
+          "old": "<div><div class=\"p\">APRUEBA ORDENANZA DE ASIGNACION Y OPERACION DE ESTACIONAMIENTOS RESERVADOS PARA TAXIS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.586.- Las Condes, 23 de julio de 1997.- Vistos y Teniendo Presente: El inter&#xE9;s de mejorar el nivel del servicio de taxis a los usuarios; lo dispuesto en los art&#xED;culos 3&#xBA;, 4&#xBA; y 164&#xBA; de la Ley N&#xBA; 18.290, Ley de Tr&#xE1;nsito, y 3&#xBA; del D.S. N&#xBA; 83 de Transportes de 1985; los Dict&#xE1;menes N&#xBA; 21.184/86, 30.049/95, 25.950/95&nbsp; y 13.975/95 de Contralor&#xED;a General de la Rep&#xFA;blica; los Acuerdos N&#xBA; 39 y N&#xBA; 51 de la 222&#xAA; y 227&#xAA; Sesiones Ordinarias del Concejo Municipal de fechas 10 de Junio y 15 de Julio ambas de 1997; lo dispuesto en los art&#xED;culos 3&#xBA; letra a), 4&#xBA; letra h), 5&#xBA; letra d), 10, 58, letra j) y 69 letra b) del D.S. N&#xBA; 662/1992 del Ministerio del Interior que fija el texto refundido de la Ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades, y en uso de las facultades que me confieren los art&#xED;culos 49 y 56 del citado cuerpo legal,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la siguiente &quot;ORDENANZA DE ASIGNACION Y OPERACION DE ESTACIONAMIENTOS RESERVADOS PARA TAXIS&quot;: </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA ORDENANZA DE ASIGNACION Y OPERACION DE ESTACIONAMIENTOS RESERVADOS PARA TAXIS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.586.- Las Condes, 23 de julio de 1997.- Vistos y Teniendo Presente: El inter&#xE9;s de mejorar el nivel del servicio de taxis a los usuarios; lo dispuesto en los art&#xED;culos 3&#xBA;, 4&#xBA; y 164&#xBA; de la Ley N&#xBA; 18.290, Ley de Tr&#xE1;nsito, y 3&#xBA; del D.S. N&#xBA; 83 de Transportes de 1985; los Dict&#xE1;menes N&#xBA; 21.184/86, 30.049/95, 25.950/95&nbsp; y 13.975/95 de Contralor&#xED;a General de la Rep&#xFA;blica; los Acuerdos N&#xBA; 39 y N&#xBA; 51 de la 222&#xAA; y 227&#xAA; Sesiones Ordinarias del Concejo Municipal de fechas 10 de Junio y 15 de Julio ambas de 1997; lo dispuesto en los art&#xED;culos 3&#xBA; letra a), 4&#xBA; letra h), 5&#xBA; letra d), 10, 58, letra j) y 69 letra b) del D.S. N&#xBA; 662/1992 del Ministerio del Interior que fija el texto refundido de la Ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades, y en uso de las facultades que me confieren los art&#xED;culos 49 y 56 del citado cuerpo legal,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la siguiente &quot;ORDENANZA DE ASIGNACION Y OPERACION DE ESTACIONAMIENTOS RESERVADOS PARA TAXIS&quot;:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "fecha": "1998-09-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8492129,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Los funcionarios ser&#xE1;n ubicados en las listas de calificaciones de acuerdo con el siguiente puntaje:</div><br><div class=\"p\">LISTA N&#xBA; 1:&nbsp;  De Distinci&#xF3;n: desde 80 a 100 puntos. LISTA N&#xBA; 2:&nbsp;  Buena: desde 50 a 79 puntos.</div><div class=\"p\">LISTA N&#xBA; 3:&nbsp;  Condicional: desde 30 a 49 puntos. LISTA N&#xBA; 4:&nbsp;  De Eliminaci&#xF3;n: desde 10 a 29 puntos. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Los funcionarios ser&#xE1;n ubicados en las listas de calificaciones de acuerdo con el siguiente puntaje:</div><br><div class=\"p\">LISTA N&#xBA; 1:&nbsp;  De Distinci&#xF3;n:&nbsp; desde 80,00 a 100 puntos.<span class=\"n\" id=\"n_0\">DTO 751, EDUCACION<br>Art. Unico<br>D.O. 19.02.1999</span></div><div class=\"p\">LISTA N&#xBA; 2:&nbsp;  Buena:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; desde 50,00 a 79,99 puntos.</div><div class=\"p\">LISTA N&#xBA; 3:&nbsp;  Condicional:&nbsp; &nbsp; desde 30,00 a 49,99 puntos.</div><div class=\"p\">LISTA N&#xBA; 4:&nbsp;  De Eliminaci&#xF3;n: desde 10,00 a 29,99 puntos.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2001-04-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8492134,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: El presente decreto regir&#xE1; a contar<span class=\"n\" id=\"n_4\">DTO 91, EDUCACION<br>Art. &#xFA;nico b)<br>D.O. 19.04.2001</span> del per&#xED;odo calificatorio 1998 - 1999.</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp5\"><a href=\"#np5\">NOTA:</a></div></div><br><br><div class=\"np\" id=\"np5\"><a href=\"#rnp5\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; Por disposici&#xF3;n de la Contralor&#xED;a General de la Rep&#xFA;blica, la presente modificaci&#xF3;n rige desde el per&#xED;odo de calificaci&#xF3;n que se inicia el 1&#xBA; de septiembre de 2001, pues de lo contrario tendr&#xED;a efecto retroactivo.<br></div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8492129,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Los funcionarios ser&#xE1;n ubicados en las listas de calificaciones de acuerdo con el siguiente puntaje:</div><br><div class=\"p\">LISTA N&#xBA; 1:&nbsp;  De Distinci&#xF3;n:&nbsp; desde 80,00 a 100 puntos.<span class=\"n\" id=\"n_0\">DTO 751, EDUCACION<br>Art. Unico<br>D.O. 19.02.1999</span></div><div class=\"p\">LISTA N&#xBA; 2:&nbsp;  Buena:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; desde 50,00 a 79,99 puntos.</div><div class=\"p\">LISTA N&#xBA; 3:&nbsp;  Condicional:&nbsp; &nbsp; desde 30,00 a 49,99 puntos.</div><div class=\"p\">LISTA N&#xBA; 4:&nbsp;  De Eliminaci&#xF3;n: desde 10,00 a 29,99 puntos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Los funcionarios ser&#xE1;n ubicados en las listas de calificaciones de acuerdo con el siguiente puntaje:</div><br><div class=\"p\">Lista N&#xBA; 1&nbsp;  de distinci&#xF3;n&nbsp;  desde 81.00 a 100&nbsp;  puntos<span class=\"n\" id=\"n_0\">DTO 91, EDUCACION<br>Art. &#xFA;nico a)<br>D.O. 19.04.2001</span></div><div class=\"p\">Lista N&#xBA; 2&nbsp;  buena&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  desde 46.00 a 80.99 puntos</div><div class=\"p\">Lista N&#xBA; 3&nbsp;  condicional&nbsp; &nbsp;  desde 30.00 a 45.99 puntos</div><div class=\"p\">Lista N&#xBA; 4&nbsp;  de eliminaci&#xF3;n&nbsp; desde 10.00 a 29.99 puntos<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; Por disposici&#xF3;n de la Contralor&#xED;a General de la Rep&#xFA;blica, la presente modificaci&#xF3;n rige desde el per&#xED;odo de calificaci&#xF3;n que se inicia el 1&#xBA; de septiembre de 2001, pues de lo contrario tendr&#xED;a efecto retroactivo.<br></div></div>"
+        },
+        {
+          "part_id": 8492132,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;: El presente decreto regir&#xE1; a contar del per&#xED;odo calificatorio 1998 - 1999.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;: Los funcionarios precalificadores<span class=\"n\" id=\"n_2\">DTO 91, EDUCACION<br>Art. &#xFA;nico b)<br>D.O. 19.04.2001</span> con el objeto de cumplir con su obligaci&#xF3;n principal, conservando la debida garant&#xED;a de los derechos funcionarios, deber&#xE1;n emitir dos informes de desempe&#xF1;o<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:</a></div> del personal de su dependencia, en el respectivo per&#xED;odo de calificaciones, el primer per&#xED;odo que comprender&#xE1; desde el 1&#xBA; de septiembre hasta el 28 de febrero, y el segundo per&#xED;odo considerando el desempe&#xF1;o del funcionario desde el 1&#xBA; de marzo hasta el 30 de junio.</div><br><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; Por disposici&#xF3;n de la Contralor&#xED;a General de la Rep&#xFA;blica, la presente modificaci&#xF3;n rige desde el per&#xED;odo de calificaci&#xF3;n que se inicia el 1&#xBA; de septiembre de 2001, pues de lo contrario tendr&#xED;a efecto retroactivo. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2005-06-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8492134,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: El presente decreto regir&#xE1; a contar<span class=\"n\" id=\"n_4\">DTO 91, EDUCACION<br>Art. &#xFA;nico b)<br>D.O. 19.04.2001</span> del per&#xED;odo calificatorio 1998 - 1999.</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp5\"><a href=\"#np5\">NOTA:</a></div></div><br><br><div class=\"np\" id=\"np5\"><a href=\"#rnp5\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; Por disposici&#xF3;n de la Contralor&#xED;a General de la Rep&#xFA;blica, la presente modificaci&#xF3;n rige desde el per&#xED;odo de calificaci&#xF3;n que se inicia el 1&#xBA; de septiembre de 2001, pues de lo contrario tendr&#xED;a efecto retroactivo.<br></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7: Cr&#xE9;ase una Junta Calificadora Regional<span class=\"n\" id=\"n_4\">DTO 77, EDUCACION<br>Art. &#xFA;nico<br>D.O. 18.06.2005</span> Metropolitana para efectuar la evaluaci&#xF3;n del personal de la Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n de la Regi&#xF3;n Metropolitana<div class=\"n rnp\" id=\"rnp5\"><a href=\"#np5\">NOTA:</a></div></div><br><br><div class=\"np\" id=\"np5\"><a href=\"#rnp5\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. Transitorio del DTO 77, Educaci&#xF3;n, publicado el 18.06.2005, establece que la Junta Calificadora que se crea por el presente art&#xED;culo entrar&#xE1; en funcionamiento para el proceso calificatorio correspondiente al periodo septiembre 2004 y agosto 2005, y se constituir&#xE1; el 21 de septiembre de 2005.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-01-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

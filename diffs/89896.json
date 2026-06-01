@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-01-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-11-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7224545,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 1.202 EXENTO, DE 1997 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 1.202 EXENTO, DE 1997 </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

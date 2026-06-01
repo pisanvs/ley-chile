@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048270,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA CALDERA S.A. PARA AMPLIAR ACTIVIDADES </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA CALDERA S.A. PARA AMPLIAR ACTIVIDADES</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

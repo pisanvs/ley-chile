@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1964-09-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1967-04-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004900,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.o- El producto del o los pr&#xE9;stamos a que se refiere el art&#xED;culo 1.o ser&#xE1; destinado por la Municipalidad de Calbuco a efectuar aportes para concurrir al financiamiento, hasta por la cantidad de doscientos mil escudos, de la construcci&#xF3;n de un puente que unir&#xE1; la ciudad de Calbuco con el continente sobre el canal de Caica&#xE9;n, sumas que se depositar&#xE1;n en la Tesorer&#xED;a Comunal de Calbuco y sobre las cuales podr&#xE1; girar el Ministerio de Obras P&#xFA;blicas con el objeto indicado.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.o- El producto del o los pr&#xE9;stamos a<span class=\"n\" id=\"n_0\">LEY 16623<br>Art. 17<br>D.O. 25.04.1967</span> que se refiere el art&#xED;culo 1&#xB0; ser&#xE1; destinado por la Municipalidad de Calbuco a obras de adelanto local, como pavimentaci&#xF3;n, alcantarillado y apertura de nuevas v&#xED;as de acceso. Estos fondos se depositar&#xE1;n en la Tesorer&#xED;a Comunal de Calbuco y sobre ellos podr&#xE1; girar el Alcalde, previo acuerdo de los dos tercios de los Regidores en ejercicio.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1970-11-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004901,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.o- Para atender el servicio del o los pr&#xE9;stamos autorizados por esta ley y hasta la total cancelaci&#xF3;n de los mismos, se establece el pago de derechos de peaje por los veh&#xED;culos motorizados que transiten a trav&#xE9;s del puente a que se refiere el art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp;  El Presidente de la Rep&#xFA;blica queda facultado para poner en vigencia el cobro de estos derechos una vez que el puente entre en servicio y fijar&#xE1; las tarifas correspondientes, a propuesta de la Municipalidad de Calbuco, o sin ella, si requerida por escrito para formularla no lo hiciere dentro del plazo de sesenta d&#xED;as. En igual forma podr&#xE1;n modificarse anualmente dichas tarifas para ajustarlas al servicio de los pr&#xE9;stamos contratados.</div><div class=\"p\">&nbsp; &nbsp;  La recaudaci&#xF3;n de estos derechos la har&#xE1; la Municipalidad de Calbuco con medios y recursos propios. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.o- Para atender el servicio del o los<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> pr&#xE9;stamos autorizados por esta ley y hasta la total cancelaci&#xF3;n de los mismos, se establece el pago de derechos de peaje por los veh&#xED;culos motorizados que transiten a trav&#xE9;s del puente a que se refiere el art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp;  El Presidente de la Rep&#xFA;blica queda facultado para poner en vigencia el cobro de estos derechos una vez que el puente entre en servicio y fijar&#xE1; las tarifas correspondientes, a propuesta de la Municipalidad de Calbuco, o sin ella, si requerida por escrito para formularla no lo hiciere dentro del plazo de sesenta d&#xED;as. En igual forma podr&#xE1;n modificarse anualmente dichas tarifas para ajustarlas al servicio de los pr&#xE9;stamos contratados.</div><div class=\"p\">&nbsp; &nbsp;  La recaudaci&#xF3;n de estos derechos la har&#xE1; la Municipalidad de Calbuco con medios y recursos propios.</div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 49 de la LEY 17382, publicada el 06.11.1970, prorrog&#xF3; el pago de derecho de peaje establecido por el presente art&#xED;culo por el t&#xE9;rmino de diez a&#xF1;os, contados desde la fecha de su publicaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

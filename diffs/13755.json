@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-05-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-05-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9010882,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Un ejemplar de dicho texto, autorizado por las firmas del Presidente de la Rep&#xFA;blica y del Ministro de Justicia, se depositar&#xE1; en esta Secretaria de Estado y otro en la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Este texto se tendr&#xE1; por el aut&#xE9;ntico del C&#xF3;digo Org&#xE1;nico de Tribunales y al &#xE9;l deber&#xE1;n conformarse las dem&#xE1;s ediciones y publicaciones que del expresado C&#xF3;digo se hagan.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Un ejemplar de dicho texto, autorizado por las firmas del Presidente de la Rep&#xFA;blica y del Ministro de Justicia, se depositar&#xE1; en esta Secretaria de Estado y otro en la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Este texto se tendr&#xE1; por el aut&#xE9;ntico del C&#xF3;digo Org&#xE1;nico de Tribunales y a &#xE9;l deber&#xE1;n conformarse las<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 31.05.1988</span> dem&#xE1;s ediciones y publicaciones que del expresado C&#xF3;digo se hagan.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

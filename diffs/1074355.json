@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9566653,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1074826&amp;idParte=9566579&amp;idVersion=2015-02-14\">Aviso S/N,<br>TRANSPORTES<br>D.O. 14.02.2015</a></span>&nbsp; &nbsp;  CONTRALOR&#xCD;A GENERAL DE LA REP&#xDA;BLICA</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; Divisi&#xF3;n de Infraestructura y Regulaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Subdivisi&#xF3;n Jur&#xED;dica</div><br><div class=\"p\">&nbsp; &nbsp;  Cursa con alcances el decreto N&#xB0; 194, de 2014, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xB0; 100.616.- Santiago, 26 de diciembre de 2014.</div><div class=\"p\">&nbsp; &nbsp;  La Contralor&#xED;a General ha dado curso al documento del rubro, que otorga una concesi&#xF3;n de radiodifusi&#xF3;n sonora en frecuencia modulada para la localidad de Hualqui, pero cumple con hacer presente que de conformidad con los antecedentes adjuntos, la raz&#xF3;n social de la concesionaria es &quot;Sociedad de Comunicaci&#xF3;n Medio a Medio Limitada&quot;, y que el memor&#xE1;ndum N&#xB0; 56/C, de la Subsecretar&#xED;a de Telecomunicaciones, es de fecha 1 de julio de 2013, y no como se indica en el decreto en an&#xE1;lisis.</div><div class=\"p\">Saluda atentamente a Ud., por orden del Contralor General de la Rep&#xFA;blica, Jefe Subdivisi&#xF3;n Jur&#xED;dica, Divisi&#xF3;n de Infraestructura y Regulaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Al se&#xF1;or</div><div class=\"p\">&nbsp; &nbsp;  Ministro de Transportes y Telecomunicaciones</div><div class=\"p\">&nbsp; &nbsp;  Presente.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1074826,
+      "fecha": "2015-02-14"
+    }
+  }
+]

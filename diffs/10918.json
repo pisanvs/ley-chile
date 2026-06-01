@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-01-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-04-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938128,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El Comit&#xE9; estar&#xE1; integrado por las siguientes personas:</div><div class=\"p\">&nbsp; &nbsp; 1.- Marta Larraechea Bol&#xED;var, Se&#xF1;ora del Presidente de la Rep&#xFA;blica, quien lo presidir&#xE1;;</div><div class=\"p\">&nbsp; 2.-&nbsp; Luis Orlandini Molina</div><div class=\"p\">&nbsp; 3.-&nbsp; Enrique Silva Cimma</div><div class=\"p\">&nbsp; 4.-&nbsp; Juana Silva Opazo</div><div class=\"p\">&nbsp; 5.-&nbsp; Eliana Brofman Weinstein</div><div class=\"p\">&nbsp; 6.-&nbsp; Luc&#xED;a Fern&#xE1;ndez Braccesi</div><div class=\"p\">&nbsp; 7.-&nbsp; Carmen Barros Lezaeta</div><div class=\"p\">&nbsp; 8.-&nbsp; Oscar Dom&#xED;nguez Correa</div><div class=\"p\">&nbsp; 9.-&nbsp; Mario Ibacache Jiles</div><div class=\"p\"> 10.-&nbsp; Jorge Arriagada C&#xE1;ceres.</div><div class=\"p\">&nbsp; &nbsp; Sin perjuicio de lo anterior, el Comit&#xE9; podr&#xE1; invitar a funcionarios de la Administraci&#xF3;n del Estado as&#xED; como a representantes del sector privado, si lo estimare conveniente para su buen funcionamiento.</div><div class=\"p\">&nbsp; &nbsp; Los miembros del Comit&#xE9; desempe&#xF1;ar&#xE1;n sus funciones ad-honorem.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El Comit&#xE9; estar&#xE1; integrado por las siguientes personas:</div><div class=\"p\"> 1.-&nbsp; Luisa Dur&#xE1;n de la Fuente, Se&#xF1;ora del Presidente<span class=\"n\" id=\"n_0\">DTO 38,<br>SEC. GENERAL<br>PRESIDENCIA<br>D.O. 03.04.2000</span> de la Rep&#xFA;blica, quien lo presidir&#xE1;;</div><div class=\"p\">&nbsp; 2.-&nbsp; Luis Orlandini Molina</div><div class=\"p\">&nbsp; 3.-&nbsp; Enrique Silva Cimma</div><div class=\"p\">&nbsp; 4.-&nbsp; Juana Silva Opazo</div><div class=\"p\">&nbsp; 5.-&nbsp; Eliana Brofman Weinstein</div><div class=\"p\">&nbsp; 6.-&nbsp; Luc&#xED;a Fern&#xE1;ndez Braccesi</div><div class=\"p\">&nbsp; 7.-&nbsp; Carmen Barros Lezaeta</div><div class=\"p\">&nbsp; 8.-&nbsp; Oscar Dom&#xED;nguez Correa</div><div class=\"p\">&nbsp; 9.-&nbsp; Mario Ibacache Jiles</div><div class=\"p\"> 10.-&nbsp; Jorge Arriagada C&#xE1;ceres.</div><div class=\"p\">&nbsp; &nbsp; Sin perjuicio de lo anterior, el Comit&#xE9; podr&#xE1; invitar a funcionarios de la Administraci&#xF3;n del Estado as&#xED; como a representantes del sector privado, si lo estimare conveniente para su buen funcionamiento.</div><div class=\"p\">&nbsp; &nbsp; Los miembros del Comit&#xE9; desempe&#xF1;ar&#xE1;n sus funciones ad-honorem.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-02-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-03-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8328053,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Ana Mar&#xED;a Pizarro Campillay, Rut. 9.918.058-7, madre del menor, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Ana Mar&#xED;a<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Pizarro Campillay, Rut. 9.918.058-7, madre del menor, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 1416, Interior, publicado el 13.03.2004, Deja sin efecto la facultad de do&#xF1;a Ana Mar&#xED;a Pizarro Campillay, RUT 9.918.058-7 y se&#xF1;ala que la pensi&#xF3;n de gracia otorgada a don Byron Esteban Palma Pizarro, RUT 15.361.052-5, ser&#xE1; cobrada por &#xE9;l mismo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

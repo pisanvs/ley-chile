@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-02-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9668549,
+          "old": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1 &#xBA;. &#xC1;mbito de aplicaci&#xF3;n. Las disposiciones del presente reglamento se aplicar&#xE1;n a las actividades de acuicultura que se realicen en las &#xE1;reas de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos, establecidas de conformidad con el art&#xED;culo 55 A de la Ley General de Pesca y Acuicultura.</div><div class=\"p\">&nbsp; &nbsp;  Las organizaciones de pescadores artesanales legalmente constituidas que sean titulares de &#xE1;reas de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos en virtud de la celebraci&#xF3;n de un convenio de uso con el Servicio Nacional de Pesca y Acuicultura, podr&#xE1;n realizar en ellas actividades de acuicultura, someti&#xE9;ndose a las normas de la Ley General de Pesca y Acuicultura, a lo dispuesto en el presente Reglamento y en lo que corresponda, a los DS N&#xBA; 355 de 1995 y sus modificaciones, Reglamento de &#xC1;reas de Manejo y Explotaci&#xF3;n de Recursos Bent&#xF3;nicos y N&#xBA; 319 de 2001, y sus modificaciones, Reglamento de Medidas de Protecci&#xF3;n, Control y Erradicaci&#xF3;n de Enfermedades de Alto Riesgo para las Especies Hidrobiol&#xF3;gicas, ambos del actual Ministerio de Econom&#xED;a, Fomento y Turismo. Adem&#xE1;s deber&#xE1;n someterse, en la forma prevista en el presente reglamento, a lo dispuesto en el DS N&#xBA; 320 de 2001, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, Reglamento Ambiental para la Acuicultura, y cuando corresponda, al sistema de evaluaci&#xF3;n de impacto ambiental.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1 &#xBA;. &#xC1;mbito de aplicaci&#xF3;n. Las disposiciones del presente reglamento se aplicar&#xE1;n a las actividades de acuicultura que se realicen en las &#xE1;reas de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos, establecidas de conformidad con el art&#xED;culo 55 A de la Ley General de Pesca y Acuicultura.</div><div class=\"p\">&nbsp; &nbsp;  Las organizaciones de pescadores artesanales legalmente constituidas que sean titulares de &#xE1;reas de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos en virtud de la celebraci&#xF3;n de un convenio de uso con el Servicio Nacional de Pesca y Acuicultura, podr&#xE1;n realizar en ellas actividades de acuicultura, someti&#xE9;ndose a las normas de la Ley General de Pesca y Acuicultura, a lo dispuesto en el presente Reglamento y en lo que corresponda, a los DS N&#xBA; 355 de 1995 y sus modificaciones, Reglamento de &#xC1;reas de Manejo y Explotaci&#xF3;n de Recursos Bent&#xF3;nicos y N&#xBA; 319 de 2001, y sus modificaciones, Reglamento de Medidas de Protecci&#xF3;n, Control y Erradicaci&#xF3;n de Enfermedades de Alto Riesgo para las Especies Hidrobiol&#xF3;gicas, ambos del actual Ministerio de Econom&#xED;a, Fomento y Turismo. Adem&#xE1;s deber&#xE1;n someterse, en la forma prevista en el presente reglamento, a lo dispuesto en el DS N&#xBA; 320 de 2001, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, Reglamento Ambiental para la Acuicultura, y cuando corresponda, al sistema de evaluaci&#xF3;n de impacto ambiental.</div><div class=\"p\">&nbsp; &nbsp;  La <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1173027&amp;idParte=10313595&amp;idVersion=2022-02-24\">Decreto 45, ECONOM&#xCD;A<br>Art. quinto<br>D.O. 24.02.2022</a></span>acuicultura de peque&#xF1;a escala no quedar&#xE1; sometida a las disposiciones del presente reglamento, y se regir&#xE1; por las disposiciones especiales que para dicha actividad se dicten.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1173027,
+      "fecha": "2022-02-24"
+    }
+  }
+]

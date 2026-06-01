@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-02-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8932299,
+          "old": "<div><div class=\"p\">OFICIALIZA NOMINACION DE LOS MIEMBROS QUE INDICA DEL CONSEJO ZONAL DE PESCA DE LA I Y II REGIONES</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 681.- Santiago, 24 de Diciembre de 1992.- Visto: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; la Ley General de Pesca y Acuicultura N&#xB0; 18.892 y sus modificaciones contenidas en las leyes N&#xB0; 19.079 y N&#xB0; 19.080 cuyo texto refundido, coordinado y sistematizado fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el D.S. N&#xB0; 453, de 1992, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; los Informes de C&#xF3;mputos de la Comisi&#xF3;n Asesora del Subsecretario de Pesca creada por la Resoluci&#xF3;n N&#xB0; 1087, de 1992, de dicho Servicio, as&#xED; como los oficios N&#xB0; 2808 del Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n y N&#xB0;s. 6180 y 6653 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, todos de 1992, y la Ley N&#xB0; 10.336.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que en virtud de lo previsto en el art&#xED;culo 152 de la Ley General de Pesca y Acuicultura, los Consejos Zonales de Pesca est&#xE1;n integrados por los titulares de los cargos que se mencionan y por los representantes de las organizaciones y entidades que se se&#xF1;alan, correspondiendo al Presidente de la Rep&#xFA;blica oficializar la nominaci&#xF3;n definitiva de estos &#xFA;ltimos, tanto en calidad de titulares como suplentes.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">OFICIALIZA NOMINACION DE LOS MIEMBROS QUE INDICA DEL CONSEJO ZONAL DE PESCA DE LA I Y II REGIONES</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 681.- Santiago, 24 de Diciembre de 1992.- Visto: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; la Ley General de Pesca y Acuicultura N&#xB0; 18.892 y sus modificaciones contenidas en las leyes N&#xB0; 19.079 y N&#xB0; 19.080 cuyo texto refundido, coordinado y sistematizado fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el D.S. N&#xB0; 453, de 1992, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; los Informes de C&#xF3;mputos de la Comisi&#xF3;n Asesora del Subsecretario de Pesca creada por la Resoluci&#xF3;n N&#xB0; 1087, de 1992, de dicho Servicio, as&#xED; como los oficios N&#xB0; 2808 del Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n y N&#xB0;s. 6180 y 6653 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, todos de 1992, y la Ley N&#xB0; 10.336.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que en virtud de lo previsto en el art&#xED;culo 152 de la Ley General de Pesca y Acuicultura, los Consejos Zonales de Pesca est&#xE1;n integrados por los titulares de los cargos que se mencionan y por los representantes de las organizaciones y entidades que se se&#xF1;alan, correspondiendo al Presidente de la Rep&#xFA;blica oficializar la nominaci&#xF3;n definitiva de estos &#xFA;ltimos, tanto en calidad de titulares como suplentes.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

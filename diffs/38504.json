@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1995-07-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-09-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8924049,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio: A contar del 30 de<span class=\"n\" id=\"n_0\">RES 3980 EXENTA,<br>TRANSPORTES<br>N&#xBA; 2<br>D.O. 30.09.2005</span> septiembre de 2005 y hasta el 30 de noviembre de 2005, en el horario comprendido entre las 10:00 y las 17:00 hrs. y de 21:00 a 06:00 hrs. del d&#xED;a siguiente, los buses que cumplan con lo dispuesto en el art&#xED;culo 2 bis del DS N&#xBA; 122, de 1991, del Ministerio de Transportes y Telecomunicaciones y que aun no se encontraren inscritos en el Registro Nacional de Servicios de Transporte P&#xFA;blico de Pasajeros, podr&#xE1;n, sin efectuar transporte p&#xFA;blico de pasajeros, circular por la Avenida Grecia, entre las calles Crescente Err&#xE1;zuriz y Doctor Johow. Para la correcta identificaci&#xF3;n de los mismos, &#xE9;stos deber&#xE1;n indicar en el letrero frontal superior de recorrido que les corresponda tener la siguiente leyenda: &quot;En Prueba&quot;.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2008-06-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8924046,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE VIA EXCLUSIVA PARA LOS SERVICIOS DE TRANSPORTE PUBLICO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 182 exenta.- Santiago, 19 de julio de 1995.- Vistos: Lo dispuesto por los art&#xED;culos 90&#xB0;, 101&#xB0; y 113&#xB0; de la Ley N&#xB0; 18.290; el Decreto N&#xB0; 69/93 del Ministerio de Transportes y Telecomunicaciones, el punto 2.3.12 de las Bases de Licitaci&#xF3;n P&#xFA;blica para la Prestaci&#xF3;n de Servicios de Transporte P&#xFA;blico Remunerado de Pasajeros Mediante Buses, Taxibuses y Trolebuses en el Centro de la Ciudad de Santiago (C&#xE9;ntrica I) y su Licitaci&#xF3;n Complementaria y lo dispuesto en el punto 2.3.8 de las Bases de Licitaci&#xF3;n P&#xFA;blica para la Presentaci&#xF3;n de Propuestas de la Licitaci&#xF3;n P&#xFA;blica para la Prestaci&#xF3;n de Servicios de Transporte P&#xFA;blico Urbano, Remunerado de Pasajeros Mediante Buses, en V&#xED;as C&#xE9;ntricas de la Ciudad de Santiago (C&#xE9;ntrica II) y de las Bases de Licitaci&#xF3;n P&#xFA;blica para la Presentaci&#xF3;n de Propuesta de la Licitaci&#xF3;n P&#xFA;blica para la Prestaci&#xF3;n de Servicios de Transporte P&#xFA;blico Urbano, Remunerado de Pasajeros Mediante Buses, en V&#xED;as C&#xE9;ntricas de la Ciudad de Santiago (C&#xE9;ntrica III), y lo dispuesto en punto 2.3.7 de las Bases de Licitaci&#xF3;n para la Presentaci&#xF3;n de Propuestas de la Licitaci&#xF3;n P&#xFA;blica para la Prestaci&#xF3;n de Servicios de Transporte P&#xFA;blico Urbano, Remunerado de Pasajeros Mediante Buses, en V&#xED;as de la Ciudad de Santiago (Perif&#xE9;rica), y su Licitaci&#xF3;n Complementaria, aprobadas por resoluciones N&#xB0;s 809/91, 38/92, 4/94, 73/94, 65/93, 69/94, respectivamente.</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que con el objeto de disminuir la congesti&#xF3;n y concentraci&#xF3;n de fuentes m&#xF3;viles contaminantes, conjuntamente con establecer un sistema m&#xE1;s seguro y ordenado de acceso a los veh&#xED;culos de transporte p&#xFA;blico de pasajeros por parte de los usuarios, el Ministerio de Transportes y Telecomunicaciones, haciendo uso de sus facultades, ha determinado la necesidad de establecer una V&#xED;a Exclusiva en Avenida Grecia entre las calles Crescente Err&#xE1;zuriz y Doctor Johow, por lo que los buses que presten servicios de locomoci&#xF3;n colectiva y cuyos recorridos circulen por dicha v&#xED;a, deber&#xE1;n efectuar sus detenciones en las Paradas que se indican m&#xE1;s adelante.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE VIA EXCLUSIVA PARA LOS SERVICIOS DE TRANSPORTE PUBLICO</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 182 exenta.- Santiago, 19 de julio de 1995.- Vistos: Lo dispuesto por los art&#xED;culos 90&#xB0;, 101&#xB0; y 113&#xB0; de la Ley N&#xB0; 18.290; el Decreto N&#xB0; 69/93 del Ministerio de Transportes y Telecomunicaciones, el punto 2.3.12 de las Bases de Licitaci&#xF3;n P&#xFA;blica para la Prestaci&#xF3;n de Servicios de Transporte P&#xFA;blico Remunerado de Pasajeros Mediante Buses, Taxibuses y Trolebuses en el Centro de la Ciudad de Santiago (C&#xE9;ntrica I) y su Licitaci&#xF3;n Complementaria y lo dispuesto en el punto 2.3.8 de las Bases de Licitaci&#xF3;n P&#xFA;blica para la Presentaci&#xF3;n de Propuestas de la Licitaci&#xF3;n P&#xFA;blica para la Prestaci&#xF3;n de Servicios de Transporte P&#xFA;blico Urbano, Remunerado de Pasajeros Mediante Buses, en V&#xED;as C&#xE9;ntricas de la Ciudad de Santiago (C&#xE9;ntrica II) y de las Bases de Licitaci&#xF3;n P&#xFA;blica para la Presentaci&#xF3;n de Propuesta de la Licitaci&#xF3;n P&#xFA;blica para la Prestaci&#xF3;n de Servicios de Transporte P&#xFA;blico Urbano, Remunerado de Pasajeros Mediante Buses, en V&#xED;as C&#xE9;ntricas de la Ciudad de Santiago (C&#xE9;ntrica III), y lo dispuesto en punto 2.3.7 de las Bases de Licitaci&#xF3;n para la Presentaci&#xF3;n de Propuestas de la Licitaci&#xF3;n P&#xFA;blica para la Prestaci&#xF3;n de Servicios de Transporte P&#xFA;blico Urbano, Remunerado de Pasajeros Mediante Buses, en V&#xED;as de la Ciudad de Santiago (Perif&#xE9;rica), y su Licitaci&#xF3;n Complementaria, aprobadas por resoluciones N&#xB0;s 809/91, 38/92, 4/94, 73/94, 65/93, 69/94, respectivamente.</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que con el objeto de disminuir la congesti&#xF3;n y concentraci&#xF3;n de fuentes m&#xF3;viles contaminantes, conjuntamente con establecer un sistema m&#xE1;s seguro y ordenado de acceso a los veh&#xED;culos de transporte p&#xFA;blico de pasajeros por parte de los usuarios, el Ministerio de Transportes y Telecomunicaciones, haciendo uso de sus facultades, ha determinado la necesidad de establecer una V&#xED;a Exclusiva en Avenida Grecia entre las calles Crescente Err&#xE1;zuriz y Doctor Johow, por lo que los buses que presten servicios de locomoci&#xF3;n colectiva y cuyos recorridos circulen por dicha v&#xED;a, deber&#xE1;n efectuar sus detenciones en las Paradas que se indican m&#xE1;s adelante.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

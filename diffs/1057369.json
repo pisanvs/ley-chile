@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9392917,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA; 2316, de 29 de noviembre de 2013, y en base a la facultad otorgada por los art&#xED;culos 3&#xBA; letra a), 14 letra e) y 105 del D.F.L. M.O.P. N&#xBA;850, de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley N&#xBA;15.840 y del DFL. MOP. N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s. 151, 152, 153, 154 y 155, para la obra: &quot;CONSTRUCCI&#xD3;N EMBALSE PUNILLA, REGI&#xD3;N DEL BIOB&#xCD;O&quot;, que figuran a nombre de BUSTOS VILLA JUAN CARLOS, NAVARRETE CONCHA JOSE RODOMILIO, BUSTOS VILLA JUAN CARLOS y CONCHA SANDOVAL JUANA DE DIOS roles de aval&#xFA;o 59-125, 59-123, 59-125 y 59-109, Comuna de SAN FABI&#xC1;N, VIII Regi&#xF3;n del B&#xED;o B&#xED;o, superficies 702.400 m2, 10.000 m2, 28.070 m2, 17.500 m2 y 150.000 m2. respectivamente. La Comisi&#xF3;n de Peritos integrada por ANDR&#xC9;S ECHEVERR&#xCD;A CAMPO, JUAN ANDR&#xC9;S TEPPER LAVANDEROS y ANDR&#xC9;S AN&#xCD;BAL RISSO CAAMA&#xD1;O, mediante informe de tasaci&#xF3;n de 04 de diciembre de 2013, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $585.783.000.-, para el lote N&#xBA;151, $9.216.000.-, para el lote N&#xBA;152, $9.707.838.-, para el lote N&#xBA;153, $51.829.500.- para el lote N&#xBA;154 y $120.232.000.- para el lote N&#xBA;155. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1057715&amp;idParte=9395539&amp;idVersion=2014-01-02\">Aviso S/N,<br>OBRAS P&#xDA;BLICAS<br>D.O. 02.01.2014</a></span>&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA; 2316 de 9 de diciembre de 2013, y en base a la facultad otorgada por los art&#xED;culos 3&#xBA; letra a), 14 letra e) y 105 del D.F.L. M.O.P. N&#xBA;850, de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley N&#xBA;15.840 y del DFL. MOP. N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s. 151, 152, 153, 154 y 155, para la obra: &quot;CONSTRUCCI&#xD3;N EMBALSE PUNILLA, REGI&#xD3;N DEL BIOB&#xCD;O&quot;, que figuran a nombre de BUSTOS VILLA JUAN CARLOS, NAVARRETE CONCHA JOSE RODOMILIO, BUSTOS VILLA JUAN CARLOS y CONCHA SANDOVAL JUANA DE DIOS roles de aval&#xFA;o 59-125, 59-123, 59-125 y 59-109, Comuna de SAN FABI&#xC1;N, VIII Regi&#xF3;n del B&#xED;o B&#xED;o, superficies 702.400 m2, 10.000 m2, 28.070 m2, 17.500 m2 y 150.000 m2. respectivamente. La Comisi&#xF3;n de Peritos integrada por ANDR&#xC9;S ECHEVERR&#xCD;A CAMPO, JUAN ANDR&#xC9;S TEPPER LAVANDEROS y ANDR&#xC9;S AN&#xCD;BAL RISSO CAAMA&#xD1;O, mediante informe de tasaci&#xF3;n de 04 de diciembre de 2013, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $585.783.000.-, para el lote N&#xBA;151, $9.216.000.-, para el lote N&#xBA;152, $9.707.838.-, para el lote N&#xBA;153, $51.829.500.- para el lote N&#xBA;154 y $120.232.000.- para el lote N&#xBA;155. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1057715,
+      "fecha": "2014-01-02"
+    }
+  }
+]

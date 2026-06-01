@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-10-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10170892,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;base el Programa de Expropiaciones en la Regi&#xF3;n de Los Lagos, para la adquisici&#xF3;n de los lotes ubicados en la comuna de Quell&#xF3;n, destinados a la implementaci&#xF3;n del proyecto &quot;Obras Complementarias Normalizaci&#xF3;n Hospital de Quell&#xF3;n, Provincia de Chilo&#xE9;&quot;, en la referida comuna de Quell&#xF3;n, de la Regi&#xF3;n de Los Lagos, C&#xF3;digo BIP N&#xB0; 30083335, seg&#xFA;n Plano de Expropiaciones, L&#xE1;minas Nos 1 y 2, elaborado a escala 1/750, el 10 de marzo de 2020 por el Serviu de la Regi&#xF3;n de Los Lagos, que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/114684.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada de inmuebles a expropiar: 875,24 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese el presente decreto en el Diario Oficial y en un peri&#xF3;dico de la provincia de Chilo&#xE9;, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;base el Programa de Expropiaciones en la Regi&#xF3;n de Los Lagos, para la adquisici&#xF3;n de los lotes ubicados en la comuna de Quell&#xF3;n, destinados a la implementaci&#xF3;n del proyecto &quot;Obras Complementarias Normalizaci&#xF3;n Hospital de Quell&#xF3;n, Provincia de Chilo&#xE9;&quot;, en la referida comuna de Quell&#xF3;n, de la Regi&#xF3;n de Los Lagos, C&#xF3;digo BIP N&#xB0; 30083335, seg&#xFA;n Plano de Expropiaciones, L&#xE1;minas Nos 1 y 2, elaborado a escala 1/750, el 10 de marzo de 2020 por el Serviu de la Regi&#xF3;n de Los Lagos, que se indican a continuaci&#xF3;<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/114684.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada de inmuebles a expropiar: 1.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1196457&amp;idParte=10461138&amp;idVersion=2023-09-30\">Decreto 30 EXENTO,<br>VIVIENDA<br>N&#xB0; 2<br>D.O. 30.09.2023</a></span>206,24 m&#xB2; (mil doscientos seis coma veinticuatro metros cuadrados).</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese el presente decreto en el Diario Oficial y en un peri&#xF3;dico de la provincia de Chilo&#xE9;, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 30 Exento, Vivienda, publicado el 30.09.2023, complementa la presente norma en el sentido de incorporar el inmueble cuyos datos se especifican en la citada norma.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1196457,
+      "fecha": "2023-09-30"
+    }
+  }
+]

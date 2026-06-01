@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-03-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-03-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7231944,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.-&nbsp; Las Oficiales de Fila del Escalaf&#xF3;n Femenino de Orden y Seguridad en servicio activo a la fecha de vigencia de este Decreto con Fuerza de Ley, ingresadas con anterioridad al a&#xF1;o 1973, podr&#xE1;n impetrar la diferencia de porcentaje del sobresuelo que actualmente perciben por cualquiera de las especialidades previstas en el art&#xED;culo 48&#xBA; del Estatuto, con aqu&#xE9;l al que alude la nueva letra a) de este mismo art&#xED;culo, siempre que por resoluci&#xF3;n de la Direcci&#xF3;n del Personal se acredite el cumplimiento de los requisitos reglamentarios para postular al Instituto Superior de Ciencias Policiales, en caso de haber podido hacerlo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.-&nbsp; Las Oficiales de Fila del Escalaf&#xF3;n Femenino de Orden y Seguridad en servicio activo a la fecha de vigencia de este Decreto con Fuerza de Ley, ingresadas con anterioridad al a&#xF1;o 1973, podr&#xE1;n impetrar la diferencia de porcentaje del sobresueldo que<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 23.03.1998</span> actualmente perciben por cualquiera de las especialidades previstas en el art&#xED;culo 48&#xBA; del Estatuto, con aqu&#xE9;l al que alude la nueva letra a) de este mismo art&#xED;culo, siempre que por resoluci&#xF3;n de la Direcci&#xF3;n del Personal se acredite el cumplimiento de los requisitos reglamentarios para postular al Instituto Superior de Ciencias Policiales, en caso de haber podido hacerlo. </div></div>"
+        }
+      ]
+    }
+  }
+]

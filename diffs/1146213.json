@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-06-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10125948,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;guese hasta el 15 de junio de 2020, a las 14:00 horas, el plazo establecido en el <a href=\"https://www.leychile.cl/navegar?idNorma=1144766&amp;idVersion=2020-06-04\">decreto de Alcald&#xED;a N&#xBA; 2.606, de fecha 15 de abril de 2020</a>, para reclamar y retirar los veh&#xED;culos que se encuentran en el recinto municipal de bodegaje, ubicado en Pedro Polanco N&#xBA; 698, ciudad y comuna de La Ligua, e individualizados en el listado que a continuaci&#xF3;n se indica, so pena de ser declarados en abandono y rematados en p&#xFA;blica subasta.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/109425.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese el presente decreto en un diario de la comuna o de la capital de la provincia o de la capital de la regi&#xF3;n, en cumplimiento de lo dispuesto en el art&#xED;culo 629 del C&#xF3;digo Civil.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese el presente decreto en el Diario Oficial, en cumplimiento de lo dispuesto en los art&#xED;culos 45 y 48 de la ley N&#xBA; 19.880.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;guese <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>hasta el 15 de junio de 2020, a las 14:00 horas, el plazo establecido en el decreto de Alcald&#xED;a N&#xBA; 2.606, de fecha 15 de abril de 2020, para reclamar y retirar los veh&#xED;culos que se encuentran en el recinto municipal de bodegaje, ubicado en Pedro Polanco N&#xBA; 698, ciudad y comuna de La Ligua, e individualizados en el listado que a continuaci&#xF3;n se indica, so pena de ser declarados en abandono y rematados en p&#xFA;blica subasta.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/109425.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese el presente decreto en un diario de la comuna o de la capital de la provincia o de la capital de la regi&#xF3;n, en cumplimiento de lo dispuesto en el art&#xED;culo 629 del C&#xF3;digo Civil.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese el presente decreto en el Diario Oficial, en cumplimiento de lo dispuesto en los art&#xED;culos 45 y 48 de la ley N&#xBA; 19.880.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 3125, Municipalidad de la Ligua, publicado el 02.07.2020, ordena prorrogar hasta el 15 de julio de 2020, a las 14:00 horas, el plazo establecido en la presente norma, para reclamar y retirar los veh&#xED;culos que se encuentran en el recinto municipal de bodegaje, ubicado en Pedro Polanco N&#xBA; 698, ciudad y comuna de La Ligua, individualizados en el listado que indica la citada norma, so pena de ser declarados en abandono y rematados en p&#xFA;blica subasta. </div></div>"
+        }
+      ]
+    }
+  }
+]

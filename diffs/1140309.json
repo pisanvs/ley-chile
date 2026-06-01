@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-01-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10084011,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- De acuerdo a las modificaciones introducidas por las leyes indicadas en los vistos, la Planta de la Municipalidad de Chill&#xE1;n es la siguiente:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/101799.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/101800.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/101801.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  TOTAL CARGOS 247</div><div class=\"p\">&nbsp; &nbsp;  M&#xE1;s 44 hrs/s. profesionales Ley N&#xB0; 15.076.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- De acuerdo a las modificaciones introducidas por las leyes indicadas en los vistos, la Planta de la Municipalidad de Chill&#xE1;n es la siguiente:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/101799.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/101800.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/101801.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  TOTAL CARGOS 247</div><div class=\"p\">&nbsp; &nbsp;  M&#xE1;s 44 hrs/s. profesionales Ley N&#xB0; 15.076.</div><div class=\"p\"> </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La rectificaci&#xF3;n de la Municipalidad de Chill&#xE1;n, publicada el 17.01.2020, modifica la presente norma en el sentido de corregir el error en la planta de profesionales que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

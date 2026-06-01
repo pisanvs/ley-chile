@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-12-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-06-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949042,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Ot&#xF3;rgase el Premio Nacional de Ciencias Aplicadas y Tecnol&#xF3;gicas 1996, por acuerdo del Jurado al se&#xF1;or Julio Meneghello Rivera.</div><div class=\"p\">&nbsp; &nbsp; 2.- P&#xE1;guese al Sr. Julio Meneghello Rivera, la suma de $9.736.000.- (nueve millones setecientos treinta y seis mil pesos), por concepto de &quot;Premio Nacional de Ciencias Aplicadas y Tecnol&#xF3;gicas 1996&quot;.</div><div class=\"p\">&nbsp; &nbsp; 3.- El gasto que demanda el pago de este Premio Nacional, se imputar&#xE1; al Subt&#xED;tulo 25 &quot;Transferencias Corrientes&quot;, Item 31 &quot;Transferencias al Sector Privado&quot;, Asignaci&#xF3;n 008 &quot;Premios Nacionales y Premio Luis Cruz Mart&#xED;nez&quot; del Presupuesto de la Subsecretar&#xED;a de Educaci&#xF3;n del Ministerio de Educaci&#xF3;n,</div><div class=\"p\">09.01.01.25.31.008.</div><div class=\"p\">&nbsp; &nbsp; 4.- El Sr. Julio Meneghello Rivera tiene derecho a percibir la Pensi&#xF3;n Vitalicia a que se refiere el Art&#xED;culo 17 N&#xB0; 3 de la Ley N&#xB0; 19.169, de 1992. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Ot&#xF3;rgase el Premio Nacional de Ciencias Aplicadas y Tecnol&#xF3;gicas 1996, por acuerdo del Jurado al se&#xF1;or Julio Meneghello Rivera. 2.- P&#xE1;guese al Sr. Julio Meneghello Rivera, la suma de $9.777.738.- (nueve millones setecientos setenta y<span class=\"n\" id=\"n_0\">DTO 209, EDUCACION<br>N&#xB0; 1<br>D.O. 18.06.1998</span> siete mil setecientos treinta y ocho pesos), por concepto de &quot;Premio Nacional de Ciencias Aplicadas y Tecnol&#xF3;gicas 1996&quot;. 3.- El gasto que demanda el pago de este Premio Nacional, se imputar&#xE1; al Subt&#xED;tulo 25 &quot;Transferencias Corrientes&quot;, Item 31 &quot;Transferencias al Sector Privado&quot;, Asignaci&#xF3;n 008 &quot;Premios Nacionales y Premio Luis Cruz Mart&#xED;nez&quot; del Presupuesto de la Subsecretar&#xED;a de Educaci&#xF3;n del Ministerio de Educaci&#xF3;n, 09.01.01.25.31.008. 4.- El Sr. Julio Meneghello Rivera tiene derecho a percibir la Pensi&#xF3;n Vitalicia a que se refiere el Art&#xED;culo 17 N&#xB0; 3 de la Ley N&#xB0; 19.169, de 1992. </div></div>"
+        }
+      ]
+    }
+  }
+]

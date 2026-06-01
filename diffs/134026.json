@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-04-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-05-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8342641,
+          "old": "<div><div class=\"p\">DEROGA RESOLUCION No. 252, DE 1987 Y FIJA TARIFAS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 421.- Valpara&#xED;so, 18 de Abril de 1988.- Vistos: Lo dispuesto en el inciso tercero del Art. No. 56 del DS (TT y TT) No. 198/81; las facultades delegadas por Resoluci&#xF3;n No. 509 de 31.12.85, T.R.C. el 03.01.86, del Director de la Empresa, la necesidad del Servicio por la mercanc&#xED;a que dado su naturaleza crea dificultades su dep&#xF3;sito en los 2&#xB0; niveles, y en virtud de las atribuciones que me han sido conferidas en mi calidad de Administrador del Puerto de Valpara&#xED;so, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">DEROGA RESOLUCION No. 252, DE 1987 Y FIJA TARIFAS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 421.- Valpara&#xED;so, 18 de Abril de 1988.- Vistos: Lo dispuesto en el inciso tercero del Art. No. 56 del DS (TT y TT) No. 198/81; las facultades delegadas por Resoluci&#xF3;n No. 509 de 31.12.85, T.R.C. el 03.01.86, del Director de la Empresa, la necesidad del Servicio por la mercanc&#xED;a que dado su naturaleza crea dificultades su dep&#xF3;sito en los 2&#xB0; niveles, y en virtud de las atribuciones que me han sido conferidas en mi calidad de Administrador del Puerto de Valpara&#xED;so, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

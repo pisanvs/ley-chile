@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-04-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9573985,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 523 de 23 de febrero de 2015 de esta Subsecretar&#xED;a, as&#xED;gnase un total de 1.286,5 toneladas del recurso Jurel, correspondiente a la reserva de cuota de imprevistos, individualizada en el numeral 1.- de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1074236&amp;idParte=0&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 116 de 2015</a>, de esta Subsecretar&#xED;a, a la cuota objetivo artesanal de la III Regi&#xF3;n de Atacama.</div><div class=\"p\">&nbsp; &nbsp;  El texto &#xED;ntegro de la presente resoluci&#xF3;n extractada se publicar&#xE1; en los sitios de dominio electr&#xF3;nico de la Subsecretar&#xED;a de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 523 de 23 de febrero de 2015 de esta Subsecretar&#xED;a, as&#xED;gnase un total de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> 1.286,5 toneladas del recurso Jurel, correspondiente a la reserva de cuota de imprevistos, individualizada en el numeral 1.- de la resoluci&#xF3;n exenta N&#xBA; 116 de 2015, de esta Subsecretar&#xED;a, a la cuota objetivo artesanal de la III Regi&#xF3;n de Atacama.</div><div class=\"p\">&nbsp; &nbsp;  El texto &#xED;ntegro de la presente resoluci&#xF3;n extractada se publicar&#xE1; en los sitios de dominio electr&#xF3;nico de la Subsecretar&#xED;a de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 de la Resoluci&#xF3;n 1001 Exenta, Econom&#xED;a, publicada el 23.04.2015, modifica la presente norma, en el sentido de reemplazar el guarismos indicado para el caso de la III Regi&#xF3;n de Atacama, de &quot;1286,5&quot; por &quot;1.485&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

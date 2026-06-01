@@ -1,0 +1,47 @@
+[
+  {
+    "fecha": "2004-01-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-08-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6458709,
+          "old": "<div><div class=\"p\">CONSTITUYE COMISION EVALUADORA QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">CONSTITUYE COMISION EVALUADORA QUE INDICA</div><br><br></div>"
+        },
+        {
+          "part_id": 6458710,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 57, de 7 de enero de 2004,</div><div class=\"p\">de esta Subsecretar&#xED;a, constit&#xFA;yase Comisi&#xF3;n Evaluadora</div><div class=\"p\">asesora del Subsecretario de Pesca establecida en el</div><div class=\"p\">art&#xED;culo 24 del D.S. N&#xBA; 85 de 2003, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnanse como integrantes a los siguientes funcionarios de la Subsecretar&#xED;a de Pesca: a) Jessica Cecilia Fuentes Olmos, RUT N&#xBA; 10.414.228-1; b) Leonardo Angelo Sasso Barros, RUT N&#xBA; 7.564.538-4; y c) Max Enrique Montoya Bing, RUT N&#xBA; 9.570.328-3.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Por resoluci&#xF3;n exenta N&#xBA; 57, de 7 de enero de 2004, de esta Subsecretar&#xED;a, constit&#xFA;yase Comisi&#xF3;n Evaluadora asesora del Subsecretario de Pesca establecida en el art&#xED;culo 24 del D.S. N&#xBA; 85 de 2003, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnanse como integrantes a los siguientes funcionarios de la Subsecretar&#xED;a de Pesca: a) Jessica Cecilia Fuentes Olmos, RUT N&#xBA; 10.414.228-1; b) Leonardo<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Angelo Sasso Barros, RUT N&#xBA; 7.564.538-4; y c) Max Enrique Montoya Bing, RUT N&#xBA; 9.570.328-3.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La Res 2071 Exenta, Econom&#xED;a, publicada el 10.08. 2004, modifica la presente norma en el sentido de designar a do&#xF1;a Catalina Graciela Gallardo Salce, funcionaria de la Division Jur&#xED;dica, Rut N&#xBA; 9.928.204-5, grado 6&#xBA; de la E.U.S; como integrante de la Comisi&#xF3;n Evaluadora asesora del Subsecretario de pesca, en reemplazo de do&#xF1;a Jessica Cecilia Fuentes Olmos.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2004-09-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6458709,
+          "old": "<div><div class=\"p\">CONSTITUYE COMISION EVALUADORA QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">CONSTITUYE COMISION EVALUADORA QUE INDICA</div><br><br><br></div>"
+        },
+        {
+          "part_id": 6458710,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Por resoluci&#xF3;n exenta N&#xBA; 57, de 7 de enero de 2004, de esta Subsecretar&#xED;a, constit&#xFA;yase Comisi&#xF3;n Evaluadora asesora del Subsecretario de Pesca establecida en el art&#xED;culo 24 del D.S. N&#xBA; 85 de 2003, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnanse como integrantes a los siguientes funcionarios de la Subsecretar&#xED;a de Pesca: a) Jessica Cecilia Fuentes Olmos, RUT N&#xBA; 10.414.228-1; b) Leonardo<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Angelo Sasso Barros, RUT N&#xBA; 7.564.538-4; y c) Max Enrique Montoya Bing, RUT N&#xBA; 9.570.328-3.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La Res 2071 Exenta, Econom&#xED;a, publicada el 10.08. 2004, modifica la presente norma en el sentido de designar a do&#xF1;a Catalina Graciela Gallardo Salce, funcionaria de la Division Jur&#xED;dica, Rut N&#xBA; 9.928.204-5, grado 6&#xBA; de la E.U.S; como integrante de la Comisi&#xF3;n Evaluadora asesora del Subsecretario de pesca, en reemplazo de do&#xF1;a Jessica Cecilia Fuentes Olmos.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Por resoluci&#xF3;n exenta N&#xBA; 57, de 7 de enero de 2004, de esta Subsecretar&#xED;a, constit&#xFA;yase Comisi&#xF3;n Evaluadora asesora del Subsecretario de Pesca establecida en el art&#xED;culo 24 del D.S. N&#xBA; 85 de 2003, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnanse como integrantes a los siguientes funcionarios de la Subsecretar&#xED;a de Pesca: a) Jessica Cecilia Fuentes Olmos, RUT N&#xBA; 10.414.228-1; b) Leonardo<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Angelo Sasso Barros, RUT N&#xBA; 7.564.538-4; y c) Max<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1:</a></div> Enrique Montoya Bing, RUT N&#xBA; 9.570.328-3.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La Res 2071 Exenta, Econom&#xED;a, publicada el 10.08. 2004, modifica la presente norma en el sentido de designar a do&#xF1;a Catalina Graciela Gallardo Salce, funcionaria de la Division Jur&#xED;dica, Rut N&#xBA; 9.928.204-5, grado 6&#xBA; de la E.U.S; como integrante de la Comisi&#xF3;n Evaluadora asesora del Subsecretario de pesca, en reemplazo de do&#xF1;a Jessica Cecilia Fuentes Olmos.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp; &nbsp; La RES 2624 Exenta, Econom&#xED;a, publicada el 23.09.2004, modifica la presente norma, en el sentido de designar a do&#xF1;a Jessica Cecilia Fuentes Olmos, Jefe de Divisi&#xF3;n Jur&#xED;dica, RUT N&#xBA; 10.414.228-1, Grado 2&#xBA; de la E.U.S., como integrante de la citada Comisi&#xF3;n en reemplazo de do&#xF1;a Catalina Graciela Gallardo Salce, funcionaria de la Divisi&#xF3;n Jur&#xED;dica, RUT N&#xBA; 9.928.204-5, Grado 6&#xBA; de la E.U.S.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

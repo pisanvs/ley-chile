@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-09-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9015017,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREASE INSTITUTO PROFESIONAL DE VALDIVIA</div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xB0; 18.- Santiago, 10 de Marzo de 1981.- Teniendo presente la proposici&#xF3;n formulada por el Sr. Rector de la Universidad T&#xE9;cnica del Estado, en conformidad con lo dispuesto en el art&#xED;culo &#xFA;nico del D.F.L. N&#xB0; 2, de 1980, y visto lo dispuesto en el D.L. N&#xB0; 3.541, de 1980, y en el D.F.L. N&#xB0; 1 de 1981.</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; CREASE INSTITUTO PROFESIONAL DE VALDIVIA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xB0; 18.- Santiago, 10 de Marzo de 1981.- Teniendo presente la proposici&#xF3;n formulada por el Sr. Rector de la Universidad T&#xE9;cnica del Estado, en conformidad con lo dispuesto en el art&#xED;culo &#xFA;nico del D.F.L. N&#xB0; 2, de 1980, y visto lo dispuesto en el D.L. N&#xB0; 3.541, de 1980, y en el D.F.L. N&#xB0; 1 de 1981.</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  Los art&#xED;culos 9&#xBA; y 10&#xBA; de la LEY 18744, publicada el 29.08.1988, facultaron al Instituto Profesional de Valdivia para integrarse con la Universidad de Valdivia, dentro del plazo de 180 d&#xED;as desde su publicaci&#xF3;n. Terminado el proceso de integraci&#xF3;n deber&#xE1; dictarse, y publicarse en el &quot;Diario Oficial&quot;, una resoluci&#xF3;n que as&#xED; lo acredite, suscrita por ambos rectores. Desde la fecha de dicha resoluci&#xF3;n quedar&#xE1; derogado el presente decreto con fuerza de ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

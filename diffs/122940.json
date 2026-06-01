@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-01-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-11-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8602428,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  DESIGNA PERSONAS QUE SE&#xD1;ALA EN CARGOS QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 6 de Enero de 1984.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 25 exenta.- Vistos: Lo dispuesto en el Art.</div><div class=\"p\">5&#xBA;, letras e) y g) del DFL. N&#xBA; 5, del Ministerio de Hacienda, publicado en el Diario Oficial de 2 de Julio de 1963, sobre Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;as; el Art. 1&#xBA;, letra e) del DFL. N&#xBA; 178, del Ministerio de Hacienda, publicado en el&nbsp; Diario Oficial de 6 de Noviembre de 1981; las resoluciones externas N&#xBA;s. 108, 109 y 110 de 1983, de este Servicio y dando cumplimiento a&nbsp; lo dispuesto en los Arts. 168, y 186 del DFL. N&#xBA; 830, de 1974, sobre C&#xF3;digo Tributario, </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  DESIGNA PERSONAS QUE SE&#xD1;ALA EN CARGOS QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 6 de Enero de 1984.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 25 exenta.- Vistos: Lo dispuesto en el Art.</div><div class=\"p\">5&#xBA;, letras e) y g) del DFL. N&#xBA; 5, del Ministerio de Hacienda, publicado en el Diario Oficial de 2 de Julio de 1963, sobre Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;as; el Art. 1&#xBA;, letra e) del DFL. N&#xBA; 178, del Ministerio de Hacienda, publicado en el&nbsp; Diario Oficial de 6 de Noviembre de 1981; las resoluciones externas N&#xBA;s. 108, 109 y 110 de 1983, de este Servicio y dando cumplimiento a&nbsp; lo dispuesto en los Arts. 168, y 186 del DFL. N&#xBA; 830, de 1974, sobre C&#xF3;digo Tributario, </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

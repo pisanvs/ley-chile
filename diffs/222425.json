@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-03-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-04-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6468876,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION EXENTA N&#xBA; 98/2001</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 124 exenta.- Santiago, 10 de marzo de 2004.- Visto: Lo dispuesto en el art&#xED;culo 1&#xBA; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, art&#xED;culo 3&#xBA; de la Ley N&#xBA; 18.575 de Bases Generales de la Administraci&#xF3;n del Estado, la Ley N&#xBA; 18.059; los art&#xED;culos 113 y 118 de la Ley N&#xBA; 18.290, de Tr&#xE1;nsito; el decreto supremo N&#xBA; 83/85, del Ministerio de Transportes y Telecomunicaciones; la resoluci&#xF3;n N&#xBA; 59/85 de la misma Secretar&#xED;a de Estado, la resoluci&#xF3;n exenta N&#xBA; 98, de 30 de marzo de 2001, modificada por las resoluciones exentas N&#xBA; 109/2001, 228/2002 y 113/2003, todas de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n Metropolitana,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Que las diversas obras de infraestructura en actual ejecuci&#xF3;n, tanto las realizadas por el Metro S.A. como las efectuadas por las concesionarias de autopistas, est&#xE1;n provocado una ostensible disminuci&#xF3;n en la capacidad vial de la ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2. Que para ampliar la capacidad vial de la ciudad de Santiago, reducida considerablemente por el impacto de las obras de infraestructura en actual ejecuci&#xF3;n, resulta necesario dejar sin efecto algunas de las restricciones que afectan la circulaci&#xF3;n del transporte privado de personas,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION EXENTA N&#xBA; 98/2001</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 124 exenta.- Santiago, 10 de marzo de 2004.- Visto: Lo dispuesto en el art&#xED;culo 1&#xBA; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, art&#xED;culo 3&#xBA; de la Ley N&#xBA; 18.575 de Bases Generales de la Administraci&#xF3;n del Estado, la Ley N&#xBA; 18.059; los art&#xED;culos 113 y 118 de la Ley N&#xBA; 18.290, de Tr&#xE1;nsito; el decreto supremo N&#xBA; 83/85, del Ministerio de Transportes y Telecomunicaciones; la resoluci&#xF3;n N&#xBA; 59/85 de la misma Secretar&#xED;a de Estado, la resoluci&#xF3;n exenta N&#xBA; 98, de 30 de marzo de 2001, modificada por las resoluciones exentas N&#xBA; 109/2001, 228/2002 y 113/2003, todas de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n Metropolitana,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Que las diversas obras de infraestructura en actual ejecuci&#xF3;n, tanto las realizadas por el Metro S.A. como las efectuadas por las concesionarias de autopistas, est&#xE1;n provocado una ostensible disminuci&#xF3;n en la capacidad vial de la ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2. Que para ampliar la capacidad vial de la ciudad de Santiago, reducida considerablemente por el impacto de las obras de infraestructura en actual ejecuci&#xF3;n, resulta necesario dejar sin efecto algunas de las restricciones que afectan la circulaci&#xF3;n del transporte privado de personas,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

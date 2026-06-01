@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1971-12-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-05-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9083276,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA ESTATUTO ORGANICO UNIVERSIDAD TECNICA DEL ESTADO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.- Santiago, 16 de Diciembre de 1971.- Vistos: las facultades que me confiere la ley n&#xFA;mero 17.578; el proyecto de Estatuto de la Universidad T&#xE9;cnica del Estado aprobado por el Consejo Universitario y las modificaciones introducidas por el Parlamento Nacional conforme se establece en la ley citada, dicto el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><div class=\"p\">&nbsp; &nbsp; ESTATUTO ORGANICO DE LA UNIVERSIDAD TECNICA DEL ESTADO </div></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA ESTATUTO ORGANICO UNIVERSIDAD TECNICA DEL<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> ESTADO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.- Santiago, 16 de Diciembre de 1971.- Vistos: las facultades que me confiere la ley n&#xFA;mero 17.578; el proyecto de Estatuto de la Universidad T&#xE9;cnica del Estado aprobado por el Consejo Universitario y las modificaciones introducidas por el Parlamento Nacional conforme se establece en la ley citada, dicto el siguiente Decreto con fuerza de ley:</div><div class=\"p\">ESTATUTO ORGANICO DE LA UNIVERSIDAD TECNICA DEL ESTADO</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 49 del DFL 149, Educaci&#xF3;n, publicado el 07.05.1982, derog&#xF3; el presente decreto con fuerza de ley, sin perjuicio de mantener la vigencia de los reglamentos universitarios dictados bajo su vigencia, en lo que no fueran contrarios a la nueva norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

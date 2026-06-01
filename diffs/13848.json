@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-01-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-10-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8948845,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art. 5&#xB0; Dentro del radio urbano, las construcciones de viviendas o de edificios de altura y de cualquier otro estilo, s&#xF3;lo podr&#xE1;n trabajar de lunes a viernes de 08:00 a 20:00 horas durante los meses de enero y febrero. De marzo a diciembre de cada a&#xF1;o, no hay restricci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art. 5&#xB0; Dentro del radio urbano, las construcciones de viviendas o de edificios de altura y de cualquier otro estilo, s&#xF3;lo podr&#xE1;n trabajar de lunes a viernes(d&#xED;as<span class=\"n\" id=\"n_0\">DTO 1800,<br>MUNICIPALIDAD DE<br>ALGARROROBO<br>D.O.06.10.2003</span> h&#xE1;biles) de 08:00 a 20:00 horas durante los meses de enero y febrero. De marzo a diciembre de cada a&#xF1;o, no hay restricci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-04-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-01-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8989615,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.o- Decl&#xE1;rase que el inmueble ubicado en calle Rom&#xE1;n D&#xED;az N.o 157, adquirido con fondos fiscales por el Consejo Nacional de Deportes para la Comisi&#xF3;n Organizadora de los VII Juegos Panamericanos, e inscrito en el Registro de Propiedades&nbsp; del Conservador de Bienes Ra&#xED;ces, de 1972, a fs. 452, N.o 617, es de dominio fiscal.</div><div class=\"p\">&nbsp; &nbsp;  El Conservador de Bienes Ra&#xED;ces de Santiago cancelar&#xE1; la inscripci&#xF3;n citada debiendo practicar una nueva inscripci&#xF3;n a nombre del Fisco, Ministerio de Defensa Nacional, para la Direcci&#xF3;n General de Deportes y Recreaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.o- Decl&#xE1;rase que el inmueble ubicado en calle Rom&#xE1;n D&#xED;az N.o 157, adquirido con fondos fiscales por el Consejo Nacional de Deportes para la Comisi&#xF3;n Organizadora de los VII Juegos Panamericanos, e inscrito en el Registro de Propiedades&nbsp; del Conservador de Bienes Ra&#xED;ces, de 1973, a fs. 452, N.o 617, es de dominio<span class=\"n\" id=\"n_0\">DL 847, DEFENSA<br>Art. &#xFA;nico<br>D.O. 15.01.1975</span> fiscal.</div><div class=\"p\">&nbsp; &nbsp;  El Conservador de Bienes Ra&#xED;ces de Santiago cancelar&#xE1; la inscripci&#xF3;n citada debiendo practicar una nueva inscripci&#xF3;n a nombre del Fisco, Ministerio de Defensa Nacional, para la Direcci&#xF3;n General de Deportes y Recreaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-10-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-07-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6197699,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: N&#xF3;mbrase los siguientes integrantes de la Comisi&#xF3;n de Evaluaci&#xF3;n de Calidad de Programas de Postgrado de Universidades Aut&#xF3;nomas:</div><br><br><div class=\"p\">a) Sr. Mauricio Sarraz&#xED;n Arellano, Presidente de Conicyt;</div><div class=\"p\">b) Sr. Ricardo Ffrench-Davis y Sr. Eduardo Bustos Obreg&#xF3;n, acad&#xE9;micos designados por el Ministro de Educaci&#xF3;n;</div><div class=\"p\">c) Sr. Sergio Marshall Gonz&#xE1;lez, Sr. Jos&#xE9; S&#xE1;nchez Henr&#xED;quez y Sr. Germ&#xE1;n Ferrando Ratto, todos nombrados por el Consejo de Rectores de Universidades Chilenas;</div><div class=\"p\">d) Sr. Ra&#xFA;l Allard Neumann, Jefe Divisi&#xF3;n de Educaci&#xF3;n Superior del Ministerio de Educaci&#xF3;n, quien actuar&#xE1; por s&#xED; o representado por el Sr. Ricardo Reich Albertz, Coordinador General del Programa Mecesup;</div><div class=\"p\">e) Sr. Eugenio C&#xE1;ceres Contreras, designado por el Consejo Superior de Ciencias del Fondecyt;</div><div class=\"p\">f) Sr. Alejandro Buschman Rubio, nombrado por el Consejo Superior de Desarrollo Tecnol&#xF3;gico del Fondecyt;</div><div class=\"p\">g) Sr. Francisco Rothammer Engel, Vicepresidente Academia de Ciencias del Instituto de Chile, designado por esta misma;</div><div class=\"p\">h) Sra. Mar&#xED;a Teresa Ruiz, integrante de la Comisi&#xF3;n de Evaluaci&#xF3;n de Calidad de Programas de Pregrado de Instituciones Aut&#xF3;nomas de Educaci&#xF3;n Superior, nombrada por la Comisi&#xF3;n Nacional de Acreditaci&#xF3;n de Programas de Pregrado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: N&#xF3;mbrase los siguientes integrantes de la Comisi&#xF3;n de Evaluaci&#xF3;n de Calidad de Programas de Postgrado de Universidades Aut&#xF3;nomas: a) Sr. Mauricio Sarraz&#xED;n Arellano, Presidente de</div><div class=\"p\">Conicyt;</div><div class=\"p\">b) Sr. Ricardo Ren&#xE9; Rosas D&#xED;az y Sr. Eduardo Bustos<span class=\"n\" id=\"n_0\">DTO 267 EXENTO<br>EDUCACION<br>ART. UNICO<br>D.O. 29.07.2000</span></div><div class=\"p\">Obreg&#xF3;n, acad&#xE9;micos designados por el Ministro de</div><div class=\"p\">Educaci&#xF3;n;</div><div class=\"p\">c) Sr. Sergio Marshall Gonz&#xE1;lez, Sr. Jos&#xE9; S&#xE1;nchez</div><div class=\"p\">Henr&#xED;quez y Sr. Germ&#xE1;n Ferrando Ratto, todos nombrados</div><div class=\"p\">por el Consejo de Rectores de Universidades Chilenas;</div><div class=\"p\">d) Sr. Ra&#xFA;l Allard Neumann, Jefe Divisi&#xF3;n de Educaci&#xF3;n</div><div class=\"p\">Superior del Ministerio de Educaci&#xF3;n, quien actuar&#xE1; por</div><div class=\"p\">s&#xED; o representado por el Sr. Ricardo Reich Albertz,</div><div class=\"p\">Coordinador General del Programa Mecesup;</div><div class=\"p\">e) Sr. Eugenio C&#xE1;ceres Contreras, designado por el</div><div class=\"p\">Consejo Superior de Ciencias del Fondecyt;</div><div class=\"p\">f) Sr. Alejandro Buschman Rubio, nombrado por el Consejo</div><div class=\"p\">Superior de Desarrollo Tecnol&#xF3;gico del Fondecyt;</div><div class=\"p\">g) Sr. Francisco Rothammer Engel, Vicepresidente</div><div class=\"p\">Academia de Ciencias del Instituto de Chile, designado</div><div class=\"p\">por esta misma;</div><div class=\"p\">h) Sra. Mar&#xED;a Teresa Ruiz, integrante de la Comisi&#xF3;n de</div><div class=\"p\">Evaluaci&#xF3;n de Calidad de Programas de Pregrado de</div><div class=\"p\">Instituciones Aut&#xF3;nomas de Educaci&#xF3;n Superior, nombrada</div><div class=\"p\">por la Comisi&#xF3;n Nacional de Acreditaci&#xF3;n de Programas de</div><div class=\"p\">Pregrado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

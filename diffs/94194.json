@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8324460,
+          "old": "<div><div class=\"p\">AUTORIZA A DON LUIS ALBERTO MU&#xD1;OZ ALUN PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON LUIS ALBERTO MU&#xD1;OZ ALUN PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

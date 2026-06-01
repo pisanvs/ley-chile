@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-05-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-03-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8318044,
+          "old": "<div><div class=\"p\">FIJA ORDEN DE SUBROGACION VICEPRESIDENTE EJECUTIVO CORPORACION DE FOMENTO DE LA PRODUCCION Y DEROGA DECRETO QUE INDICA</div><br><div class=\"p\">N&#xFA;m. 179.- Santiago, 3 de Abril de 1992.- Visto: La facultad que me confiere la letra a) del art&#xED;culo 75 del Estatuto Administrativo aprobado por la Ley N&#xBA;18.834.</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA ORDEN DE SUBROGACION VICEPRESIDENTE EJECUTIVO CORPORACION DE FOMENTO DE LA PRODUCCION Y DEROGA DECRETO QUE INDICA</div><br><div class=\"p\">N&#xFA;m. 179.- Santiago, 3 de Abril de 1992.- Visto: La facultad que me confiere la letra a) del art&#xED;culo 75 del Estatuto Administrativo aprobado por la Ley N&#xBA;18.834.</div><br><div class=\"p\">Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

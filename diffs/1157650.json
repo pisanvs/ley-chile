@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2021-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-10-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10213418,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Ampl&#xED;ase el plazo para la renovaci&#xF3;n anual hasta el 30 de septiembre de 2021, para la totalidad de los usuarios de la ley inscritos en los registros nacionales de esta Direcci&#xF3;n General de Movilizaci&#xF3;n Nacional, cuyo t&#xE9;rmino de vigencia se verifique desde el 2 de marzo del a&#xF1;o 2020 y que, en atenci&#xF3;n a la situaci&#xF3;n sanitaria que afecta a nivel mundial, se encuentran imposibilitados o han tenido dificultades para efectuar los tr&#xE1;mites correspondientes.</div><div class=\"p\">&nbsp; &nbsp;  2. En el mismo sentido, todas aquellas actuaciones (inscripciones, permisos, renovaciones, acreditaciones. etc.) no contempladas en el N&#xB0; 1 del &quot;Resuelvo&quot;, otorgadas en virtud de la ley N&#xB0; 17.798, sobre Control de Armas, se entender&#xE1;n incluidas a este nuevo plazo otorgado.</div><div class=\"p\">&nbsp; &nbsp;  3. Asimismo, la vigencia de los documentos y ex&#xE1;menes requeridos para la inscripci&#xF3;n de un arma de fuego, emitidos desde el 2 de marzo de 2020, tendr&#xE1;n aquella que naturalmente les corresponde, extendi&#xE9;ndose en los casos que superen dicha vigencia, hasta el 30 de septiembre de 2021.</div><div class=\"p\">&nbsp; &nbsp;  4. Las Autoridades Fiscalizadoras que presenten situaciones de usuarios en las condiciones indicadas, deber&#xE1;n comunicar v&#xED;a mensaje Outlook a la secci&#xF3;n correspondiente del Departamento de Control de. Armas y Explosivos, quienes realizar&#xE1;n las gestiones necesarias para su soluci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Ampl&#xED;ase el plazo para la renovaci&#xF3;n anual hasta el 30 de septiembre de 2021, para la totalidad de los usuarios de la ley inscritos en los registros nacionales de esta Direcci&#xF3;n General de Movilizaci&#xF3;n Nacional, cuyo t&#xE9;rmino de vigencia se verifique desde el 2 de marzo del a&#xF1;o 2020 y que, en atenci&#xF3;n a la situaci&#xF3;n sanitaria que afecta a nivel mundial, se encuentran imposibilitados o han tenido dificultades para efectuar los tr&#xE1;mites correspondientes.</div><div class=\"p\">&nbsp; &nbsp;  2. En el mismo sentido, todas aquellas actuaciones (inscripciones, permisos, renovaciones, acreditaciones. etc.) no contempladas en el N&#xB0; 1 del &quot;Resuelvo&quot;, otorgadas en virtud de la ley N&#xB0; 17.798, sobre Control de Armas, se entender&#xE1;n incluidas a este nuevo plazo otorgado.</div><div class=\"p\">&nbsp; &nbsp;  3. Asimismo, la vigencia de los documentos y ex&#xE1;menes requeridos para la inscripci&#xF3;n de un arma de fuego, emitidos desde el 2 de marzo de 2020, tendr&#xE1;n aquella que naturalmente les corresponde, extendi&#xE9;ndose en los casos que superen dicha <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>vigencia, hasta el 30 de septiembre de 2021.</div><div class=\"p\">&nbsp; &nbsp;  4. Las Autoridades Fiscalizadoras que presenten situaciones de usuarios en las condiciones indicadas, deber&#xE1;n comunicar v&#xED;a mensaje Outlook a la secci&#xF3;n correspondiente del Departamento de Control de. Armas y Explosivos, quienes realizar&#xE1;n las gestiones necesarias para su soluci&#xF3;n.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 2614 Exenta, Defensa, publicada el 18.10.2021, modifica la presente norma en el sentido de ampliar el plazo hasta el 30 de diciembre de 2021 s&#xF3;lo para las inscripciones, transferencias y la renovaci&#xF3;n de acreditaciones de armas de fuego, emitidos desde el 2 de enero de 2021, en cuanto a la vigencia de los documentos y ex&#xE1;menes requeridos para dichas actuaciones, los que tendr&#xE1;n aquella que naturalmente les corresponde, y que deben ser presentados en las Autoridades Fiscalizadoras que gestionan la atenci&#xF3;n de p&#xFA;blico v&#xED;a online y telef&#xF3;nica. </div></div>"
+        }
+      ]
+    }
+  }
+]

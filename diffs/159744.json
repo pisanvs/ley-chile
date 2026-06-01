@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-05-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-07-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6246343,
+          "old": "<div><div class=\"p\">ESTABLECE PERIODO DE VEDA PARA LA PESQUERIA DE LANGOSTINO EN EL AREA Y DURANTE EL PERIODO QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 74.- Santiago, 11 de Marzo de 1986.- Visto: El informe de la Subsecretar&#xED;a de Pesca; lo dispuesto en el DFL. No. 34 de 1931 que legisla sobre la industria pesquera y sus derivados, cuyo texto refundido coordinado y sistematizado fue fijado por el DFL. No. 5, de 1983, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que los antecedentes t&#xE9;cnicos disponibles permiten concluir que la pesquer&#xED;a de langostino se mantiene en estado de deterioro,</div><div class=\"p\">&nbsp; &nbsp;  Que lo anterior. hace necesario que para determinar la conveniencia de adoptar medidas de manejo en esta pesquer&#xED;a se requiere contar con antecedentes fidedignos y actualizados,</div><div class=\"p\">&nbsp; &nbsp;  Que, para este efecto, la Subsecretar&#xED;a de Pesca ha contemplado realizar un crucero de evaluaci&#xF3;n entre los meses de Abril y Mayo,</div><div class=\"p\">&nbsp; &nbsp;  Que los resultados de este crucero permitir&#xE1;n resolver acerca de la conveniencia de establecer una cuota de captura permisible para esta pesquer&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  Que, en consecuencia, procede mantener en veda esta pesquer&#xED;a,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE PERIODO DE VEDA PARA LA PESQUERIA DE LANGOSTINO EN EL AREA Y DURANTE EL PERIODO QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 74.- Santiago, 11 de Marzo de 1986.- Visto: El informe de la Subsecretar&#xED;a de Pesca; lo dispuesto en el DFL. No. 34 de 1931 que legisla sobre la industria pesquera y sus derivados, cuyo texto refundido coordinado y sistematizado fue fijado por el DFL. No. 5, de 1983, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que los antecedentes t&#xE9;cnicos disponibles permiten concluir que la pesquer&#xED;a de langostino se mantiene en estado de deterioro,</div><div class=\"p\">&nbsp; &nbsp;  Que lo anterior. hace necesario que para determinar la conveniencia de adoptar medidas de manejo en esta pesquer&#xED;a se requiere contar con antecedentes fidedignos y actualizados,</div><div class=\"p\">&nbsp; &nbsp;  Que, para este efecto, la Subsecretar&#xED;a de Pesca ha contemplado realizar un crucero de evaluaci&#xF3;n entre los meses de Abril y Mayo,</div><div class=\"p\">&nbsp; &nbsp;  Que los resultados de este crucero permitir&#xE1;n resolver acerca de la conveniencia de establecer una cuota de captura permisible para esta pesquer&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  Que, en consecuencia, procede mantener en veda esta pesquer&#xED;a,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

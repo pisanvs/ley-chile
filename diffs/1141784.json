@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-03-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10096820,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase a los sectores de Cerro Rocuant, Ramaditas y San Roque de la comuna de Valpara&#xED;so como zona afectada por la cat&#xE1;strofe, derivada de los incendios forestales que los afectaron con fecha 24 de diciembre del a&#xF1;o 2019.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase a los sectores de Cerro Rocuant, Ramaditas y San Roque de la comuna de Valpara&#xED;so como zona afectada por la cat&#xE1;strofe, derivada de los incendios forestales que los afectaron con f<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>echa 24 de diciembre del a&#xF1;o 2019.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 650, Interior, publicado el 22.03.2021, modifica la presente norma en el sentido de extender por un plazo de 12 meses, contados desde el 24 de diciembre de 2020, la declaraci&#xF3;n de zona afectada por cat&#xE1;strofe a los sectores de Cerro Rocuant, Ramaditas y San Roque, de la comuna de Valpara&#xED;so, formulada en la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

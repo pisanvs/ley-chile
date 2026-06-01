@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2014-12-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-09-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9536378,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Modif&#xED;quese el <a href=\"https://www.leychile.cl/Navegar?idNorma=1067229&amp;idParte=9509425&amp;idVersion=\">art&#xED;culo quinto</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1067229&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n N&#xBA; 2.191, de 2014, de la Subsecretar&#xED;a de Econom&#xED;a y Empresas de Menor Tama&#xF1;o</a>, incorporando el siguiente inciso: &quot;En ausencia o impedimento del Secretario Regional Ministerial de Econom&#xED;a de la Regi&#xF3;n Metropolitana, del&#xE9;gase en la Jefa de la Divisi&#xF3;n Jur&#xED;dica y en la Jefa de la Divisi&#xF3;n de Pol&#xED;tica Comercial e Industrial, ambas de la Subsecretar&#xED;a de Econom&#xED;a y Empresas de Menor Tama&#xF1;o, sucesivamente, la facultad referida en el art&#xED;culo 5&#xBA; de la ley N&#xBA; 19.896, de visar los decretos o resoluciones que aprueben la contrataci&#xF3;n de personales naturales a honorarios en los &#xF3;rganos y servicios p&#xFA;blicos incluidos en la Ley de Presupuestos y a las contrataciones en el mismo servicio con aplicaci&#xF3;n de lo dispuesto en la letra d) del art&#xED;culo 81 de la ley N&#xBA; 18.834. La referida facultad deber&#xE1; ser ejercida bajo la f&#xF3;rmula &quot;Por orden de la Subsecretaria&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Derogado<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1107703&amp;idParte=9832223&amp;idVersion=2017-09-08\">Resoluci&#xF3;n 2925 EXENTA,<br>ECONOM&#xCD;A<br>Art. segundo<br>D.O. 08.09.2017</a></span>.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1107703,
+      "fecha": "2017-09-08"
+    }
+  },
+  {
+    "fecha": "2018-06-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

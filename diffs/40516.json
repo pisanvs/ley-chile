@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-12-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-10-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8932453,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 5.178 EXENTA, DE 1995 </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 5.766 exenta.- Santiago, 1&#xB0; de diciembre de 1995.- Vistos: Las facultades que me confieren los art&#xED;culos 6&#xB0;, letra A, N&#xB0; 1 y 30, del C&#xF3;digo Tributario, y lo dispuesto en el Decreto Supremo de Hacienda N&#xB0; 255, de 1979, cuyo texto fue sustituido por el Decreto Supremo de Hacienda N&#xB0; 668, publicado en el Diario Oficial de 1&#xB0;.10.81, y modificado por el Decreto Supremo de Hacienda N&#xB0; 481, publicado en el Diario Oficial del 7.9.91, y en el Decreto Supremo de Hacienda N&#xB0; 291, publicado en el Diario Oficial de 31.03.76, cuyo texto fue sustituido por el Decreto Supremo de Hacienda N&#xB0; 910, publicado en el Diario Oficial de 7.12.78; y lo prescrito en la letra d) del art&#xED;culo transitorio de la Ley N&#xB0; 19.398, de 4.8.95, y</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que por razones de buen servicio se hace conveniente modificar la Resoluci&#xF3;n N&#xB0; Ex. 5.178, de 31 de octubre de 1995, publicada en el Diario Oficial de 3 de noviembre de 1995,</div><br><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 5.178 EXENTA, DE 1995 </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 5.766 exenta.- Santiago, 1&#xB0; de diciembre de 1995.- Vistos: Las facultades que me confieren los art&#xED;culos 6&#xB0;, letra A, N&#xB0; 1 y 30, del C&#xF3;digo Tributario, y lo dispuesto en el Decreto Supremo de Hacienda N&#xB0; 255, de 1979, cuyo texto fue sustituido por el Decreto Supremo de Hacienda N&#xB0; 668, publicado en el Diario Oficial de 1&#xB0;.10.81, y modificado por el Decreto Supremo de Hacienda N&#xB0; 481, publicado en el Diario Oficial del 7.9.91, y en el Decreto Supremo de Hacienda N&#xB0; 291, publicado en el Diario Oficial de 31.03.76, cuyo texto fue sustituido por el Decreto Supremo de Hacienda N&#xB0; 910, publicado en el Diario Oficial de 7.12.78; y lo prescrito en la letra d) del art&#xED;culo transitorio de la Ley N&#xB0; 19.398, de 4.8.95, y</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que por razones de buen servicio se hace conveniente modificar la Resoluci&#xF3;n N&#xB0; Ex. 5.178, de 31 de octubre de 1995, publicada en el Diario Oficial de 3 de noviembre de 1995,</div><br><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8956286,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;case el Decreto exento de Hacienda N&#xBA; 46, de 1997, en el sentido que la Primera Exposici&#xF3;n Internacional de Tecnolog&#xED;a de Informaci&#xF3;n, Infotech Windows World&apos;97, organizada por la Sociedad Nacional de Agricultura, se llevar&#xE1; a efecto en el recinto ferial Centroriente-Fisa, entre los d&#xED;as 4 y 6 de junio de 1997, ambas fechas inclusive, y no entre los d&#xED;as 27 y 29 de mayo de 1997, como se indica en el Decreto exento de Hacienda N&#xBA; 46, de 1997.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;case el Decreto exento de Hacienda N&#xBA; 46, de 1997, en el sentido que la Primera Exposici&#xF3;n Internacional de Tecnolog&#xED;a de Informaci&#xF3;n, Infotech Windows World&apos;97, organizada por la Sociedad Nacional de Agricultura, se llevar&#xE1; a efecto en el recinto ferial Centroriente-Fisa, entre los d&#xED;as 6 y 8 de agosto de<span class=\"n\" id=\"n_0\">DTO 212 EXENTO<br>HACIENDA<br>N&#xB0;1<br>D.O.09.08.1997</span> 1997, ambas fechas inclusive, y no entre los d&#xED;as 27 y 29 de mayo de 1997, como se indica en el Decreto exento de Hacienda N&#xBA; 46, de 1997. </div></div>"
+        }
+      ]
+    }
+  }
+]

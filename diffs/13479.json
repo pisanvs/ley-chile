@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-01-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5912919,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DETERMINA ORDEN DE SUBROGACION PARA EL DESEMPE&#xD1;O DEL CARGO DE DIRECTOR EJECUTIVO DEL FOSIS</div><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de Diciembre de 1995.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 448.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; - Lo dispuesto en el T&#xED;tulo II de la Ley N&#xB0; 18.989;</div><div class=\"p\">&nbsp; &nbsp; - Lo establecido en los art&#xED;culos 73 y siguientes de la Ley N&#xB0; 18.834, particularmente en su art&#xED;culo 75;</div><div class=\"p\">&nbsp; &nbsp; - Lo prescrito en la Resoluci&#xF3;n N&#xB0; 55 de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica;</div><div class=\"p\">&nbsp; &nbsp; - Lo establecido en el Decreto de Interior N&#xB0; 654 de 1994, modificado por el Decreto de Interior N&#xB0; 976 de 1995;</div><div class=\"p\">&nbsp; &nbsp; Considerando: - Lo resuelto por el Consejo del Fondo de Solidaridad e Inversi&#xF3;n Social (FOSIS), en las sesiones ordinarias N&#xB0;s quincuag&#xE9;sima cuarta y sexag&#xE9;sima tercera, de fechas 13 de Julio de 1994 y 10 de Noviembre de 1995, respectivamente.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DETERMINA ORDEN DE SUBROGACION PARA EL DESEMPE&#xD1;O DEL CARGO DE DIRECTOR EJECUTIVO DEL FOSIS</div><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de Diciembre de 1995.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 448.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; - Lo dispuesto en el T&#xED;tulo II de la Ley N&#xB0; 18.989;</div><div class=\"p\">&nbsp; &nbsp; - Lo establecido en los art&#xED;culos 73 y siguientes de la Ley N&#xB0; 18.834, particularmente en su art&#xED;culo 75;</div><div class=\"p\">&nbsp; &nbsp; - Lo prescrito en la Resoluci&#xF3;n N&#xB0; 55 de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica;</div><div class=\"p\">&nbsp; &nbsp; - Lo establecido en el Decreto de Interior N&#xB0; 654 de 1994, modificado por el Decreto de Interior N&#xB0; 976 de 1995;</div><div class=\"p\">&nbsp; &nbsp; Considerando: - Lo resuelto por el Consejo del Fondo de Solidaridad e Inversi&#xF3;n Social (FOSIS), en las sesiones ordinarias N&#xB0;s quincuag&#xE9;sima cuarta y sexag&#xE9;sima tercera, de fechas 13 de Julio de 1994 y 10 de Noviembre de 1995, respectivamente.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

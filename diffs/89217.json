@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-07-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-08-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7223935,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION. No. 1.465 DE 1981 Y ESTABLECE REGULACIONES PARA LA INTERNACION DE ESTACAS DE POPULUS SPP </div><div class=\"p\">Santiago, 27 de Junio de 1990.- Hoy se resolvi&#xF3; lo que Sigue:</div><div class=\"p\">N&#xFA;m. 969 exenta.- Visto: Lo dispuesto en el Decreto Ley No.</div><div class=\"p\">3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola; la Resoluci&#xF3;n No. 39 de 1981, que delega facultades al Director de Divisi&#xF3;n Protecci&#xF3;n Agr&#xED;cola del Servicio Agr&#xED;cola y Ganadero; la Resoluci&#xF3;n No. 350 de 1981 que establece normas para el ingreso de mercader&#xED;as peligrosas y la Resoluci&#xF3;n No. 1.465 de 1981 que prohibe la internaci&#xF3;n de mercader&#xED;as peligrosas para los vegetales que se indican, todas del Servicio Agr&#xED;cola y Ganadero.</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">1.- Que se ha desarrollado cultivares de Populus spp de alta productividad, con favorables expectativas de establecimiento en el pa&#xED;s.</div><div class=\"p\">2.- Que existen m&#xE9;todos de propagaci&#xF3;n de Populus spp y de control de plagas, que permiten la obtenci&#xF3;n de material vegetal de reproducci&#xF3;n en condiciones fitosanitarias apropiadas para su multiplicaci&#xF3;n.</div><div class=\"p\">3.- Que constituye responsabilidad del Servicio Agr&#xED;cola y Ganadero impedir el ingreso de plagas forestales al territorio nacional.</div><div class=\"p\">4.- Que para este prop&#xF3;sito el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las regulaciones cuarentenarias que resguardan el patrimonio fitosanitario forestal del pa&#xED;s.</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION. No. 1.465 DE 1981 Y ESTABLECE REGULACIONES PARA LA INTERNACION DE ESTACAS DE POPULUS SPP </div><div class=\"p\">Santiago, 27 de Junio de 1990.- Hoy se resolvi&#xF3; lo que Sigue:</div><div class=\"p\">N&#xFA;m. 969 exenta.- Visto: Lo dispuesto en el Decreto Ley No.</div><div class=\"p\">3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola; la Resoluci&#xF3;n No. 39 de 1981, que delega facultades al Director de Divisi&#xF3;n Protecci&#xF3;n Agr&#xED;cola del Servicio Agr&#xED;cola y Ganadero; la Resoluci&#xF3;n No. 350 de 1981 que establece normas para el ingreso de mercader&#xED;as peligrosas y la Resoluci&#xF3;n No. 1.465 de 1981 que prohibe la internaci&#xF3;n de mercader&#xED;as peligrosas para los vegetales que se indican, todas del Servicio Agr&#xED;cola y Ganadero.</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">1.- Que se ha desarrollado cultivares de Populus spp de alta productividad, con favorables expectativas de establecimiento en el pa&#xED;s.</div><div class=\"p\">2.- Que existen m&#xE9;todos de propagaci&#xF3;n de Populus spp y de control de plagas, que permiten la obtenci&#xF3;n de material vegetal de reproducci&#xF3;n en condiciones fitosanitarias apropiadas para su multiplicaci&#xF3;n.</div><div class=\"p\">3.- Que constituye responsabilidad del Servicio Agr&#xED;cola y Ganadero impedir el ingreso de plagas forestales al territorio nacional.</div><div class=\"p\">4.- Que para este prop&#xF3;sito el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las regulaciones cuarentenarias que resguardan el patrimonio fitosanitario forestal del pa&#xED;s.</div><br><div class=\"p\">Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

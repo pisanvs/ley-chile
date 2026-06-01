@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8321710,
+          "old": "<div><div class=\"p\">AUTORIZA AL SINDICATO DE TRABAJADORES INDEPENDIENTES, PRODUCTORES, EXPLOTADORES DE ALGAS Y CAMPESINOS &quot;CAULIN BAJO&quot; PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA AL SINDICATO DE TRABAJADORES INDEPENDIENTES, PRODUCTORES, EXPLOTADORES DE ALGAS Y CAMPESINOS &quot;CAULIN BAJO&quot; PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

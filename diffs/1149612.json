@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-09-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-11-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10159484,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;cese, la postergaci&#xF3;n hasta por el plazo de tres meses de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, de acuerdo al art&#xED;culo 117 de la Ley General de Urbanismo y Construcciones en las zonas: ZH-1 sector poniente de Ten Ten, ZEQ sector Ten Ten, y ZI sectores de Ten Ten y Llau Llao, por el inicio de los estudios para la Enmienda del Plan Regulador Comunal de la comuna de Castro, en lo referido espec&#xED;ficamente a localizaci&#xF3;n del Uso de Suelo Equipamiento, de clase Comercio en escalas Menor, Mediano y Mayor en los barrios o sectores indicados, y disposiciones varias relativas a las condiciones de edificaci&#xF3;n y urbanizaci&#xF3;n dentro de los m&#xE1;rgenes que establezca la Ley y Ordenanza General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp;  2. La postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, en las zonas se&#xF1;aladas, se har&#xE1; efectiva por un plazo de tres (3) meses a partir de la publicaci&#xF3;n en el Diario Oficial del presente decreto alcaldicio.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;cese, la postergaci&#xF3;n hasta por el plazo de tres meses<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, de acuerdo al art&#xED;culo 117 de la Ley General de Urbanismo y Construcciones en las zonas: ZH-1 sector poniente de Ten Ten, ZEQ sector Ten Ten, y ZI sectores de Ten Ten y Llau Llao, por el inicio de los estudios para la Enmienda del Plan Regulador Comunal de la comuna de Castro, en lo referido espec&#xED;ficamente a localizaci&#xF3;n del Uso de Suelo Equipamiento, de clase Comercio en escalas Menor, Mediano y Mayor en los barrios o sectores indicados, y disposiciones varias relativas a las condiciones de edificaci&#xF3;n y urbanizaci&#xF3;n dentro de los m&#xE1;rgenes que establezca la Ley y Ordenanza General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp;  2. La postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, en las zonas se&#xF1;aladas, se har&#xE1; efectiva por un plazo de tres (3) meses a partir de la publicaci&#xF3;n en el Diario Oficial del presente decreto alcaldicio.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El resuelvo n&#xFA;mero 1 de la Resoluci&#xF3;n 770 Exenta, Vivienda, publicada el 26.11.2020, prorroga por un plazo de 9 meses la postergaci&#xF3;n de los permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, dispuesto originalmente el presente decreto alcaldicio, en las Zonas ZH1, ZEQ y ZI, del Plan Regulador de Castro, a contar del plazo de expiraci&#xF3;n de la postergaci&#xF3;n de permisos vigente.</div></div>"
+        }
+      ]
+    }
+  }
+]

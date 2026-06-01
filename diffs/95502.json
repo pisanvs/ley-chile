@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-09-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-06-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8326257,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JORGE DE JESUS ARANGUIZ TORO PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JORGE DE JESUS ARANGUIZ TORO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

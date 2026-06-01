@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1992-05-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-02-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6075752,
+          "old": "<div><div class=\"p\">APRUEBA PLANO QUE DETERMINA ZONA DE PROTECCION PARA LOS AERODROMOS EL &quot;BOSQUE&quot; Y LOS &quot;CERRILLOS&quot; DE LA REGION METROPOLITANA</div><br><div class=\"p\">Santiago, 16 de Marzo de 1992.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">N&#xFA;m. 146.- Vistos:</div><div class=\"p\"> a) Lo dispuesto en los Art. 3&#xBA; letra h) y 5&#xBA; de la Ley No.</div><div class=\"p\">16.752 de 1968;</div><div class=\"p\"> b) Lo dispuesto en los Art. 14&#xBA;, 15&#xBA; y 16&#xBA; del C&#xF3;digo Aeron&#xE1;utico, aprobado por la Ley No. 18.916 de 1990;</div><div class=\"p\"> c) El Plano de Protecci&#xF3;n de los Aer&#xF3;dromos &quot;El Bosque&quot; y &quot;Los Cerrillos&quot; No. PP-91-01, confeccionado por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil, y</div><div class=\"p\"> d) Lo dispuesto en el Art. 32&#xBA; No. 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, y Considerando: lo solicitado por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil en oficio (O) No. 05/0/170/805 de 28.02.92,</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\"> APRUEBA PLANO QUE DETERMINA ZONA DE PROTECCION PARA LOS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"> AERODROMOS EL &quot;BOSQUE&quot; Y LOS &quot;CERRILLOS&quot; DE LA REGION</div><div class=\"p\">METROPOLITANA</div><br><div class=\"p\">Santiago, 16 de Marzo de 1992.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 146.- Vistos:</div><div class=\"p\"> a) Lo dispuesto en los Art. 3&#xBA; letra h) y 5&#xBA; de la Ley No. 16.752 de 1968;</div><div class=\"p\"> b) Lo dispuesto en los Art. 14&#xBA;, 15&#xBA; y 16&#xBA; del C&#xF3;digo Aeron&#xE1;utico, aprobado por la Ley No. 18.916 de 1990;</div><div class=\"p\"> c) El Plano de Protecci&#xF3;n de los Aer&#xF3;dromos &quot;El Bosque&quot; y &quot;Los Cerrillos&quot; No. PP-91-01, confeccionado por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil, y</div><div class=\"p\"> d) Lo dispuesto en el Art. 32&#xBA; No. 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, y</div><div class=\"p\"> Considerando: lo solicitado por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil en oficio (O) No. 05/0/170/805 de 28.02.92,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 9, Defensa Nacional, publicado el 24.02.2006, modifica la presente norma en el sentido de derogar, a partir del 15 de febrero del presente a&#xF1;o, la zona de Protecci&#xF3;n del Aer&#xF3;dromo Los Cerrillos y sus radioayudas, establecida en el presente decreto. El N&#xBA; 2 del referido DTO 9 dej&#xF3; no obstante vigente la zona de Protecci&#xF3;n para el aer&#xF3;dromo de El Bosque, que por este mismo decreto se establece.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2017-06-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-01-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7270869,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A CECILIA LUZ DEL CARMEN ARAYA ARAYA PARA DESARROLLAR ACTIVlDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A CECILIA LUZ DEL CARMEN ARAYA ARAYA PARA DESARROLLAR ACTIVlDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2013-02-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-08-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9333449,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Ampl&#xED;ese la declaraci&#xF3;n de zonas afectadas por la cat&#xE1;strofe contenida en el art&#xED;culo primero del <a href=\"https://www.leychile.cl/Navegar?idNorma=1043086&amp;idParte=&amp;idVersion=\">decreto supremo N&#xBA; 856, de 6 de agosto de 2012, del Ministerio del Interior y Seguridad P&#xFA;blica</a>, y a contar de la misma fecha all&#xED; se&#xF1;alada, a la comuna de Los Vilos de la provincia de Choapa y a las comunas de Paihuano, Vicu&#xF1;a, Coquimbo y La Serena, de la provincia de Elqui, todas de la Regi&#xF3;n de Coquimbo.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Ampl&#xED;ese la declaraci&#xF3;n de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> zonas afectadas por la cat&#xE1;strofe contenida en el art&#xED;culo primero del decreto supremo N&#xBA; 856, de 6 de agosto de 2012, del Ministerio del Interior y Seguridad P&#xFA;blica, y a contar de la misma fecha all&#xED; se&#xF1;alada, a la comuna de Los Vilos de la provincia de Choapa y a las comunas de Paihuano, Vicu&#xF1;a, Coquimbo y La Serena, de la provincia de Elqui, todas de la Regi&#xF3;n de Coquimbo.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo Primero del Decreto 675, Interior, publicado el 22.08.2013, modifica el art&#xED;culo primero de la presente norma, en el sentido de extender por el lapso de doce meses, contados desde el 6 de agosto de 2013, el plazo de vigencia de la declaraci&#xF3;n como zonas afectadas por la cat&#xE1;strofe.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-09-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9333449,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Ampl&#xED;ese la declaraci&#xF3;n de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> zonas afectadas por la cat&#xE1;strofe contenida en el art&#xED;culo primero del decreto supremo N&#xBA; 856, de 6 de agosto de 2012, del Ministerio del Interior y Seguridad P&#xFA;blica, y a contar de la misma fecha all&#xED; se&#xF1;alada, a la comuna de Los Vilos de la provincia de Choapa y a las comunas de Paihuano, Vicu&#xF1;a, Coquimbo y La Serena, de la provincia de Elqui, todas de la Regi&#xF3;n de Coquimbo.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo Primero del Decreto 675, Interior, publicado el 22.08.2013, modifica el art&#xED;culo primero de la presente norma, en el sentido de extender por el lapso de doce meses, contados desde el 6 de agosto de 2013, el plazo de vigencia de la declaraci&#xF3;n como zonas afectadas por la cat&#xE1;strofe.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Ampl&#xED;ese la declaraci&#xF3;n de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> zonas <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>afectadas por la cat&#xE1;strofe contenida en el art&#xED;culo primero del decreto supremo N&#xBA; 856, de 6 de agosto de 2012, del Ministerio del Interior y Seguridad P&#xFA;blica, y a contar de la misma fecha all&#xED; se&#xF1;alada, a la comuna de Los Vilos de la provincia de Choapa y a las comunas de Paihuano, Vicu&#xF1;a, Coquimbo y La Serena, de la provincia de Elqui, todas de la Regi&#xF3;n de Coquimbo.</div><div class=\"p\">&nbsp; &nbsp;  </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo Primero del Decreto 675, Interior, publicado el 22.08.2013, modifica el art&#xED;culo primero de la presente norma, en el sentido de extender por el lapso de doce meses, contados desde el 6 de agosto de 2013, el plazo de vigencia de la declaraci&#xF3;n como zonas afectadas por la cat&#xE1;strofe.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo Tercero del Decreto 1422, Interior, publicado el 16.09.2014, modifica el art&#xED;culo primero de la presente norma, en el sentido de extender por el lapso de doce meses, contados desde el 6 de agosto de 2014, el plazo de vigencia de la declaraci&#xF3;n como zonas afectadas por la cat&#xE1;strofe.</div></div>"
+        }
+      ]
+    }
+  }
+]

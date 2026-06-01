@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-04-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-12-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10215933,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Apru&#xE9;base el siguiente programa de expropiaci&#xF3;n para el a&#xF1;o 2021, en la Regi&#xF3;n de &#xD1;uble, para la adquisici&#xF3;n de los siguientes lotes ubicados en la comuna de Chill&#xE1;n, a ser destinados a la ejecuci&#xF3;n del proyecto &quot;Mejoramiento Diego Portales - Francisco Ram&#xED;rez, Chill&#xE1;n&quot;, que mejorar&#xE1;n la capacidad vial de la calle Diego Portales y la Avenida Francisco Ram&#xED;rez, y que se singularizan a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/123839.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie aproximada inmuebles a expropiar: 2.660,08 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Diguill&#xED;n, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Apru&#xE9;base el siguiente programa de expropiaci&#xF3;n para el a&#xF1;o 2021, en la Regi&#xF3;n de &#xD1;uble, para la adquisici&#xF3;n de los siguientes lotes ubicados en la comuna de Chill&#xE1;n, a ser destinados a la ejecuci&#xF3;n del proyecto &quot;Mejoramiento Diego Portales - Francisco Ram&#xED;rez, Chill&#xE1;n&quot;, que mejorar&#xE1;n la capacidad vial de la calle Diego Portales y la Avenida Francisco Ram&#xED;rez, y que se singularizan a continuaci&#xF3;n<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/123839.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie aproximada inmuebles a expropiar: <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187145&amp;idParte=10392028&amp;idVersion=2022-12-29\">Decreto 80 EXENTO,<br>VIVIENDA<br>N&#xBA; 2<br>D.O. 29.12.2022</a></span>3.098,29 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Diguill&#xED;n, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1 del Decreto 80 Exento, Vivienda, publicado el 29.12.2022, complementa el programa de expropiaciones de terrenos destinados a la implementaci&#xF3;n del proyecto denominado &quot;Mejoramiento Diego Portales-Francisco Ram&#xED;rez, Chill&#xE1;n&quot;, en la comuna de Chill&#xE1;n, de la Regi&#xF3;n de &#xD1;uble, aprobado mediante el presente decreto, en el sentido de incorporar el inmueble cuyos datos se especifican en la tabla inserta en la citada norma.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1187145,
+      "fecha": "2022-12-29"
+    }
+  }
+]

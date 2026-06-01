@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-11-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-10-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10066733,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Trasp&#xE1;sense, a contar del 1 de marzo de 2018, desde la Municipalidad de Andacollo al Servicio Local de Educaci&#xF3;n P&#xFA;blica de Puerto Cordillera, a los/as siguientes profesionales de la educaci&#xF3;n regidos por el DFL N&#xBA; 1, de 1996, del Ministerio de Educaci&#xF3;n, que desempe&#xF1;an en el indicado municipio, cargos directivos o t&#xE9;cnicos pedag&#xF3;gicos, de conformidad a la siguiente individualizaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/99733.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. T&#xE9;ngase presente que el personal traspasado por este acto, continuar&#xE1; desempe&#xF1;&#xE1;ndose en el Servicio Local de Puerto Cordillera, bajo las normas del DFL N&#xBA; 1, de 1996, del Ministerio de Educaci&#xF3;n. Luego, el uso de las facultades se&#xF1;aladas en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1111237&amp;idParte=9853125&amp;idVersion=\">art&#xED;culo trig&#xE9;simo noveno transitorio</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1111237&amp;idParte=&amp;idVersion=\">ley N&#xBA; 21.040</a>, no podr&#xE1; tener como consecuencia ni podr&#xE1;n ser considerados como causal de t&#xE9;rmino de servicios, supresi&#xF3;n de cargos, cese de funciones o t&#xE9;rmino de la relaci&#xF3;n laboral del personal traspasado. Del mismo modo, no podr&#xE1; significar disminuci&#xF3;n de remuneraciones, modificaci&#xF3;n de los derechos estatutarios y previsionales del personal traspasado. Tampoco importar&#xE1; cambio de la residencia habitual de los funcionarios fuera de la Regi&#xF3;n en que est&#xE9;n prestando servicios, a menos que se lleve a cabo con su consentimiento.</div><div class=\"p\">&nbsp; &nbsp;  De esta manera, cualquier diferencia de remuneraciones se pagar&#xE1; mediante una planilla suplementaria.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Trasp&#xE1;sense, a contar del 1 de marzo de 2018, desde la Municipalidad de Andacollo al Servicio Local de Educaci&#xF3;n P&#xFA;blica de Puerto Cordillera, a los/as siguientes profesionales de la educaci&#xF3;n regidos por el DFL N&#xBA; 1, de 1996, del Ministerio de Educaci&#xF3;n, que desempe&#xF1;an en el indicado municipio, cargos directivos o t&#xE9;cnicos pedag&#xF3;gicos, de conformidad a la siguiente individualizaci&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/99733.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. T&#xE9;ngase presente que el personal traspasado por este acto, continuar&#xE1; desempe&#xF1;&#xE1;ndose en el Servicio Local de Puerto Cordillera, bajo las normas del DFL N&#xBA; 1, de 1996, del Ministerio de Educaci&#xF3;n. Luego, el uso de las facultades se&#xF1;aladas en el art&#xED;culo trig&#xE9;simo noveno transitorio de la ley N&#xBA; 21.040, no podr&#xE1; tener como consecuencia ni podr&#xE1;n ser considerados como causal de t&#xE9;rmino de servicios, supresi&#xF3;n de cargos, cese de funciones o t&#xE9;rmino de la relaci&#xF3;n laboral del personal traspasado. Del mismo modo, no podr&#xE1; significar disminuci&#xF3;n de remuneraciones, modificaci&#xF3;n de los derechos estatutarios y previsionales del personal traspasado. Tampoco importar&#xE1; cambio de la residencia habitual de los funcionarios fuera de la Regi&#xF3;n en que est&#xE9;n prestando servicios, a menos que se lleve a cabo con su consentimiento.</div><div class=\"p\">&nbsp; &nbsp;  De esta manera, cualquier diferencia de remuneraciones se pagar&#xE1; mediante una planilla suplementaria.</div><div class=\"p\"> </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 2 del Decreto 1231 Exento, Educaci&#xF3;n, publicado el 16.10.2021, modifica la presente norma en el sentido de eliminar el traspaso de don Renato Galleguillos Osorio.</div></div>"
+        }
+      ]
+    }
+  }
+]

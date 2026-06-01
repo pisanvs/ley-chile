@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-04-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6248702,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA GUIMAR SOCIEDAD ANONIMA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA GUIMAR SOCIEDAD ANONIMA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

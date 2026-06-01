@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2000-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-04-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6259357,
+          "old": "<div><div class=\"p\">APRUEBA ANTEPROYECTO DE NORMA DE CALIDAD PARA LA PROTECCION DE LAS AGUAS CONTINENTALES SUPERFICIALES Y LO SOMETE A CONSULTA </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA ANTEPROYECTO DE NORMA DE CALIDAD PARA LA PROTECCION DE LAS AGUAS CONTINENTALES SUPERFICIALES Y LO SOMETE A CONSULTA</div><br><br></div>"
+        },
+        {
+          "part_id": 6259359,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, t&#xF3;mese raz&#xF3;n, publ&#xED;quese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la Rep&#xFA;blica.- Jos&#xE9; Miguel Insulza Salinas, Ministro Secretario General de la Presidencia.- Alex Figueroa Mu&#xF1;oz, Ministro de Salud.</div><div class=\"p\">&nbsp; &nbsp;  Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Eduardo Dockendorff Vallejos, Subsecretario General de la Presidencia de la Rep&#xFA;blica. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Director Ejecutivo.<span class=\"n\" id=\"n_2\">RECTIFICACION<br>D.O. 12.04.2000</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

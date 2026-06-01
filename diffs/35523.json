@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7197347,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DEROGA PUNTO QUE INDICA, DE RESOLUCION QUE SE&#xD1;ALA N&#xFA;m. 758.- Valpara&#xED;so, Agosto 4 de 1993.- Visto: Lo dispuesto en la resoluci&#xF3;n N&#xB0; 0134, de 04.02.93, de esta Administraci&#xF3;n de Puerto que establece cargas de retiro forzoso; y que hoy en la actualidad el Puerto de Valpara&#xED;so tiene como cargas bases los autom&#xF3;viles y &#xE9;stos representan ingresos continuos para el Puerto, y como una forma de incentivar su operaci&#xF3;n por este Terminal; lo dispuesto en el Art. 34, de la Resoluci&#xF3;n N&#xB0; 21 de fecha 18.01.91, que establece el Reglamento para los Servicios que presta la Empresa; y en virtud de las atribuciones que me han sido conferidas en mi calidad de Administrador del Puerto, dicto la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">DEROGA PUNTO QUE INDICA, DE RESOLUCION QUE SE&#xD1;ALA </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 758.- Valpara&#xED;so, Agosto 4 de 1993.- Visto: Lo dispuesto en la resoluci&#xF3;n N&#xB0; 0134, de 04.02.93, de esta Administraci&#xF3;n de Puerto que establece cargas de retiro forzoso; y que hoy en la actualidad el Puerto de Valpara&#xED;so tiene como cargas bases los autom&#xF3;viles y &#xE9;stos representan ingresos continuos para el Puerto, y como una forma de incentivar su operaci&#xF3;n por este Terminal; lo dispuesto en el Art. 34, de la Resoluci&#xF3;n N&#xB0; 21 de fecha 18.01.91, que establece el Reglamento para los Servicios que presta la Empresa; y en virtud de las atribuciones que me han sido conferidas en mi calidad de Administrador del Puerto, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

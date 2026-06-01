@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-02-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9864575,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Selecci&#xF3;nase a los siguientes condominios como beneficiarios del Programa de Protecci&#xF3;n al Patrimonio Familiar en su l&#xED;nea destinada a la atenci&#xF3;n de Condominios de Viviendas Sociales regulado por la resoluci&#xF3;n exenta N&#xBA; 1.538/2017 (V. y U.), y sus modificaciones, que a continuaci&#xF3;n se detallan:</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74005.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Selecci&#xF3;nase a los siguientes condominios como beneficiarios del Programa de Protecci&#xF3;n al Patrimonio Familiar en su l&#xED;nea destinada a la atenci&#xF3;n de Condominios de Viviendas Sociales regulado por la resoluci&#xF3;n exenta N&#xBA; 1.538/2017 (V. y U.), y sus modificaciones, que a continuaci&#xF3;n se detallan:</div><div class=\"p\">&nbsp;  <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1115554&amp;idParte=9890016&amp;idVersion=2018-02-23\">Resoluci&#xF3;n 88 EXENTA,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 23.02.2018</a></span> </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/77240.jpg\">.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1115554,
+      "fecha": "2018-02-23"
+    }
+  }
+]

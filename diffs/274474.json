@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2008-07-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-06-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7375920,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Para la importaci&#xF3;n de ovas salm&#xF3;nidas provenientes de pa&#xED;ses cuya Autoridad Oficial reconocida no cuente con un programa de vigilancia epidemiol&#xF3;gica oficial para la Enfermedad del P&#xE1;ncreas en los t&#xE9;rminos dispuestos en el art&#xED;culo 11&#xBA;, numeral 1&#xBA; del decreto exento N&#xBA; 626, de 2001, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, deber&#xE1; acreditarse por dicha autoridad la condici&#xF3;n de libre mediante la realizaci&#xF3;n de un screening individual a los padres de las ovas destinadas en Chile.</div><div class=\"p\">&nbsp; &nbsp;  El screening a los padres deber&#xE1; efectuarse mediante la t&#xE9;cnica de PCR- Real Time en coraz&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Las ovas originadas en reproductores en los cuales se detecte positividad al agente causal de la Enfermedad del P&#xE1;ncreas, no podr&#xE1;n ser destinadas a Chile, as&#xED; como tampoco aquellas que hayan compartido incubador con las que desciendan de un reproductor positivo.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo dispuesto en los incisos precedentes, los pa&#xED;ses cuya Autoridad Oficial se encuentre reconocida, podr&#xE1;n optar por la certificaci&#xF3;n de pa&#xED;s, zonas o centros de cultivo libres de la Enfermedad del P&#xE1;ncreas en base a un programa de vigilancia epidemiol&#xF3;gica oficial, el cual deber&#xE1; ser evaluado y reconocido previamente por el Servicio Nacional de Pesca.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1014503&amp;idParte=8933974&amp;idVersion=2010-06-14\">Resoluci&#xF3;n 873,<br>ECONOMIA<br>Art. PRIMERO<br>D.O. 14.06.2010</a></span>&nbsp; &nbsp;  Art&#xED;culo segundo: DEROGADO.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1014503,
+      "fecha": "2010-06-14"
+    }
+  },
+  {
+    "fecha": "2010-11-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

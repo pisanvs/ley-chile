@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2017-08-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-10-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9822847,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Determ&#xED;nense para el a&#xF1;o 2018 los siguientes alumnos y alumnas en calidad de prioritarios, para todas las regiones del pa&#xED;s, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n escolar preferencial, de acuerdo a lo dispuesto en el <a href=\"https://www.leychile.cl/Navegar?idNorma=269001&amp;idParte=8021285&amp;idVersion=\">art&#xED;culo 2&#xBA;</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=269001&amp;idParte=0&amp;idVersion=\">ley N&#xBA; 20.248</a>, y que se encuentran individualizados en el listado contenido en el archivo con firma electr&#xF3;nica avanzada del CD folio N&#xBA; 01/2018, refrendado por el Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, que se acompa&#xF1;a en anexo y que forma parte integrante de la presente resoluci&#xF3;n, para todos los efectos legales.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Determ&#xED;nese para el a&#xF1;o 2018 los siguientes alumnos y alumnas en calidad de prioritarios,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1108875&amp;idParte=9839667&amp;idVersion=2017-10-11\">Resoluci&#xF3;n 5461 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2<br>D.O. 11.10.2017</a></span> para todas las regiones del pa&#xED;s, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n escolar preferencial, de acuerdo a lo dispuesto en el art&#xED;culo 2&#xBA; de la ley N&#xBA; 20.248, y que se encuentran individualizados en los listados contenidos en los archivos con firma electr&#xF3;nica avanzada de los CDs. folios Nos 1/2018 y 2/2018, refrendado por el Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, que se acompa&#xF1;an en anexo y que forman parte integrante de la presente resoluci&#xF3;n, para todos los efectos legales.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1108875,
+      "fecha": "2017-10-11"
+    }
+  },
+  {
+    "fecha": "2018-03-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9822847,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Determ&#xED;nese para el a&#xF1;o 2018 los siguientes alumnos y alumnas en calidad de prioritarios,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1108875&amp;idParte=9839667&amp;idVersion=2017-10-11\">Resoluci&#xF3;n 5461 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2<br>D.O. 11.10.2017</a></span> para todas las regiones del pa&#xED;s, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n escolar preferencial, de acuerdo a lo dispuesto en el art&#xED;culo 2&#xBA; de la ley N&#xBA; 20.248, y que se encuentran individualizados en los listados contenidos en los archivos con firma electr&#xF3;nica avanzada de los CDs. folios Nos 1/2018 y 2/2018, refrendado por el Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, que se acompa&#xF1;an en anexo y que forman parte integrante de la presente resoluci&#xF3;n, para todos los efectos legales.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Determ&#xED;nese para el a&#xF1;o 2018 los siguientes alumnos y alumnas en calidad de prioritarios,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1108875&amp;idParte=9839667&amp;idVersion=2017-10-11\">Resoluci&#xF3;n 5461 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2<br>D.O. 11.10.2017</a></span> para todas las regiones del pa&#xED;s, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n escolar preferencial, de acuerdo a lo dispuesto en el art&#xED;culo 2&#xBA; de la ley N&#xBA; 20.248, y que se encuentran individualizados en los listados contenidos en los archivos con firma electr&#xF3;nica avanzada de los CDs. <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1116040&amp;idParte=9893713&amp;idVersion=2018-03-13\">Resoluci&#xF3;n 1135 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2<br>D.O. 13.03.2018</a></span>Folios N&#xBA;s. 01/2018, 02/2018 y 03/2018, refrendados por el Jefe de la Divisi&#xF3;n de General, que se acompa&#xF1;an en anexo y que forman parte integrante de la presente resoluci&#xF3;n, para todos los efectos legales.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1116040,
+      "fecha": "2018-03-13"
+    }
+  }
+]

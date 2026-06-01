@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1972-05-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-06-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8890514,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; LIBERA DE DERECHOS ARANCELARIOS Y GRAVAMENES QUE INDICA A IMPORTACION DE MINERALES Y ABONOS QUE SE&#xD1;ALA, QUE EFECTUE EL BANCO DEL ESTADO DE CHILE</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\"> LIBERA DE DERECHOS ARANCELARIOS Y GRAVAMENES QUE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">INDICA A IMPORTACION DE MINERALES Y ABONOS QUE</div><div class=\"p\">SE&#xD1;ALA, QUE EFECTUE EL BANCO DEL ESTADO DE CHILE</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 1&#xBA; del DL 1482, Hacienda, publicado el 04.06.1976, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

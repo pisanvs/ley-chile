@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-07-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9492848,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  I. Apl&#xED;quese el d&#xED;a viernes 25 de julio de 2014, las medidas sanitarias extraordinarias para la ciudad de Osorno, establecidas por Resoluci&#xF3;n Sanitaria N&#xBA; 611 de fecha 19 de mayo de 2014, modificada por la Resoluci&#xF3;n Sanitaria N&#xBA; 797, de fecha 9 de julio de 2014, por existir superaci&#xF3;n en los niveles de emisi&#xF3;n MP 2.5, constituyendo un episodio de Pre-Emergencia Ambiental.</div><div class=\"p\">&nbsp; &nbsp;  II. Publ&#xED;quese la presente Resoluci&#xF3;n Sanitaria en el Diario Oficial, y en la p&#xE1;gina web de esta Autoridad Sanitaria.</div><div class=\"p\">&nbsp; &nbsp;  III. Las medidas sanitarias decretadas en la presente Resoluci&#xF3;n Sanitaria, ser&#xE1;n fiscalizadas por personal inspectivo de esta Autoridad Sanitaria, aplic&#xE1;ndose el procedimiento de sanci&#xF3;n establecido en el Libro D&#xE9;cimo del C&#xF3;digo Sanitario.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  I. Apl&#xED;quese el d&#xED;a viernes <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> 25 de julio de 2014, las medidas sanitarias extraordinarias para la ciudad de Osorno, establecidas por Resoluci&#xF3;n Sanitaria N&#xBA; 611 de fecha 19 de mayo de 2014, modificada por la Resoluci&#xF3;n Sanitaria N&#xBA; 797, de fecha 9 de julio de 2014, por existir superaci&#xF3;n en los niveles de emisi&#xF3;n MP 2.5, constituyendo un episodio de Pre-Emergencia Ambiental.</div><div class=\"p\">&nbsp; &nbsp;  II. Publ&#xED;quese la presente Resoluci&#xF3;n Sanitaria en el Diario Oficial, y en la p&#xE1;gina web de esta Autoridad Sanitaria.</div><div class=\"p\">&nbsp; &nbsp;  III. Las medidas sanitarias decretadas en la presente Resoluci&#xF3;n Sanitaria, ser&#xE1;n fiscalizadas por personal inspectivo de esta Autoridad Sanitaria, aplic&#xE1;ndose el procedimiento de sanci&#xF3;n establecido en el Libro D&#xE9;cimo del C&#xF3;digo Sanitario.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Numeral I de la Resoluci&#xF3;n 827 Exenta, Salud, publicada el 05.08.2014, modifica la presente norma en el sentido de poner t&#xE9;rmino anticipado a las medidas sanitarias de pre-emergencia aplicadas para el d&#xED;a de hoy viernes 25 de julio de 2014, por encontrase los niveles de MP 2.5 dentro de los l&#xED;mites permisibles en la normativa ambiental.</div></div>"
+        }
+      ]
+    }
+  }
+]

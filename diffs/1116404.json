@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-03-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9897312,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Exti&#xE9;ndase por el lapso de seis meses, contados desde el 23 de enero de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe, a la comuna de Constituci&#xF3;n, provincia de Talca, Regi&#xF3;n del Maule, establecida mediante los decretos supremos <a href=\"https://www.leychile.cl/Navegar?idNorma=1099559&amp;idParte=&amp;idVersion=\">N&#xBA; 96</a> y <a href=\"https://www.leychile.cl/Navegar?idNorma=1111337&amp;idParte=&amp;idVersion=\">N&#xBA; 1.122</a>, de 2017, para la aplicaci&#xF3;n de las medidas de excepci&#xF3;n establecidas en la ley N&#xBA; 16.282, as&#xED; como de aquellas adoptadas y dispuestas por la autoridad bajo el imperio de dicha ley hasta esta fecha, para hacer frente a la emergencia surgida con motivo de los incendios forestales de enero y febrero de 2017.</div><div class=\"p\">&nbsp; &nbsp;  Se deja establecido que el Intendente Regional del Maule continuar&#xE1; actuando como autoridad responsable de la coordinaci&#xF3;n y ejecuci&#xF3;n de los programas y acciones que el Gobierno ha determinado para la zona afectada, con las mismas facultades otorgadas por los decretos supremos N&#xBA; 83, N&#xBA; 87 y N&#xBA; 96 y N&#xBA; 1.122, de 2017, pudiendo delegar la ejecuci&#xF3;n y coordinaci&#xF3;n de estas tareas, tanto a nivel comunal como provincial, en otra u otras autoridades regionales, provinciales o locales que determine.</div><div class=\"p\">&nbsp; &nbsp;  Ello, sin perjuicio de las tareas que se ha encomendado, o que se encomienden realizar, a los distintos &#xF3;rganos de la Administraci&#xF3;n del Estado, o que corresponda a &#xE9;stos de conformidad con la ley.</div><br><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Exti&#xE9;ndase por el lapso de seis meses, <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>contados desde el 23 de enero de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe, a la comuna de Constituci&#xF3;n, provincia de Talca, Regi&#xF3;n del Maule, establecida mediante los decretos supremos N&#xBA; 96 y N&#xBA; 1.122, de 2017, para la aplicaci&#xF3;n de las medidas de excepci&#xF3;n establecidas en la ley N&#xBA; 16.282, as&#xED; como de aquellas adoptadas y dispuestas por la autoridad bajo el imperio de dicha ley hasta esta fecha, para hacer frente a la emergencia surgida con motivo de los incendios forestales de enero y febrero de 2017.</div><div class=\"p\">&nbsp; &nbsp;  Se deja establecido que el Intendente Regional del Maule continuar&#xE1; actuando como autoridad responsable de la coordinaci&#xF3;n y ejecuci&#xF3;n de los programas y acciones que el Gobierno ha determinado para la zona afectada, con las mismas facultades otorgadas por los decretos supremos N&#xBA; 83, N&#xBA; 87 y N&#xBA; 96 y N&#xBA; 1.122, de 2017, pudiendo delegar la ejecuci&#xF3;n y coordinaci&#xF3;n de estas tareas, tanto a nivel comunal como provincial, en otra u otras autoridades regionales, provinciales o locales que determine.</div><div class=\"p\">&nbsp; &nbsp;  Ello, sin perjuicio de las tareas que se ha encomendado, o que se encomienden realizar, a los distintos &#xF3;rganos de la Administraci&#xF3;n del Estado, o que corresponda a &#xE9;stos de conformidad con la ley.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xDA;nico del Decreto 972, Interior, publicado el 18.08.2018, modifica la presente norma en el sentido de extender, por el lapso de seis meses contados desde el 23 de julio de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por la cat&#xE1;strofe, a la comuna de Constituci&#xF3;n, provincia de Talca, Regi&#xF3;n del Maule.</div></div>"
+        }
+      ]
+    }
+  }
+]

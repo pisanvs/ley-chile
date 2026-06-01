@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1960-10-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1963-10-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9005178,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Autor&#xED;zase a la Municipalidad de La Granja para contratar directamente con el Banco del Estado de Chile u otra instituci&#xF3;n de cr&#xE9;dito uno o m&#xE1;s pr&#xE9;stamos que produzcan hasta la suma de cincuenta mil escudos (E&#xBA; 50.000) a un inter&#xE9;s no superior al bancario corriente y con una amortizaci&#xF3;n que extinga la deuda en el plazo m&#xE1;ximo de cinco a&#xF1;os.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Autor&#xED;zase a la Municipalidad de La Granja para contratar directamente con el Banco del Estado de Chile u otra instituci&#xF3;n de cr&#xE9;dito uno o m&#xE1;s pr&#xE9;stamos que produzcan hasta la suma de cien mil<span class=\"n\" id=\"n_0\">LEY 15269<br>Art. &#xFA;nico<br>D.O. 01.10.1963</span> escudos (E&#xBA; 100.000.-) a un inter&#xE9;s no superior al bancario corriente y con una amortizaci&#xF3;n que extinga la deuda en el plazo m&#xE1;ximo de cinco a&#xF1;os.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

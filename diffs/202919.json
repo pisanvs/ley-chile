@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-08-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7294277,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA; bis: El Bienestar podr&#xE1; financiar con<span class=\"n\" id=\"n_0\">DTO 39, TRABAJO<br>Art. &#xFA;nico<br>D.O. 27.08.2007</span> cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias, la contrataci&#xF3;n de seguros de vida para sus afiliados y seguros de salud, para solventar gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

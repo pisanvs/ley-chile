@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8014630,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile, las siguientes normas chilenas con su respectivo c&#xF3;digo y t&#xED;tulo de identificaci&#xF3;n:</div><br><br><div class=\"p\"> NCh1569.Of2000&nbsp; Cebollas de Guarda. Requisitos.</div><div class=\"p\">NCh2493.Of2000&nbsp; Bananos. Requisitos.</div><div class=\"p\">NCh2528.Of2000&nbsp; Leche - Determinaci&#xF3;n de penicilina y antibi&#xF3;ticos &#xDF; lact&#xE1;micos-M&#xE9;todo SNAP.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile, las siguientes normas chilenas con su respectivo c&#xF3;digo y t&#xED;tulo de identificaci&#xF3;n:</div><br><br><div class=\"p\">NCh1569.Of2000&nbsp; DEROGADA<span class=\"n\" id=\"n_0\">DTO 155 EXENTO,<br>ARICULTURA<br>Art. 6&#xBA;<br>D.O. 12.08.2000</span></div><div class=\"p\">NCh2493.Of2000&nbsp; Bananos. Requisitos.</div><div class=\"p\">NCh2528.Of2000&nbsp; Leche - Determinaci&#xF3;n de penicilina y</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; antibi&#xF3;ticos &#xDF; lact&#xE1;micos-M&#xE9;todo SNAP.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1967-07-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1969-08-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7334494,
+          "old": "<div><div class=\"p\">MODIFICA LA PARTE RESOLUTIVA DEL DECRETO SUPREMO N&#xBA; 80, DE 1965, QUE CREO EL PARQUE NACIONAL DE TURISMO &quot;ALBERTO M. DE AGOSTINI&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 2 de Junio de 1967.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 330.- Visto: lo informado por la Direcci&#xF3;n de Agricultura y Pesca, en su oficio N.o 1.079, de 6 de Abril &#xFA;ltimo; el decreto supremo N.o 80, de 22 de Enero de 1965, expedido por esta Secretar&#xED;a de Estado; el decreto supremo N.o 4.363, de 30 de Junio de 1931, del Ministerio de Tierras y Colonizaci&#xF3;n, que contiene el texto refundido de la Ley de Bosques; los D.F.L. N.os 294, de 5 de Abril y 301, de 6 de Abril, ambos de 1960, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, por decreto N.o 80, ya citado, se cre&#xF3; el Parque Nacional de Turismo &quot;Alberto M. de Agostini&quot;, en una extensi&#xF3;n de m&#xE1;s o menos 480.000 hect&#xE1;reas de terrenos fiscales situados en la comuna de Porvenir, con los deslindes all&#xED; se&#xF1;alados;</div><div class=\"p\">&nbsp; &nbsp;  Que, la Corporaci&#xF3;n de Magallanes ha manifestado la conveniencia de ampliar la extensi&#xF3;n de dicho Parque, hacia otros terrenos fiscales correspondientes al Plano N.o 3, de Tierra del Fuego;</div><div class=\"p\">&nbsp; &nbsp;  Que, de acuerdo con los informes t&#xE9;cnicos emitidos por el Servicio Forestal de este Ministerio, puede llevarse a efecto la ampliaci&#xF3;n a los lotes N.os 11 y 12, del mencionado Plano N.o 3,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA LA PARTE RESOLUTIVA DEL DECRETO SUPREMO N&#xBA; 80, DE 1965, QUE CREO EL PARQUE NACIONAL DE TURISMO &quot;ALBERTO M. DE AGOSTINI&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 2 de Junio de 1967.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 330.- Visto: lo informado por la Direcci&#xF3;n de Agricultura y Pesca, en su oficio N.o 1.079, de 6 de Abril &#xFA;ltimo; el decreto supremo N.o 80, de 22 de Enero de 1965, expedido por esta Secretar&#xED;a de Estado; el decreto supremo N.o 4.363, de 30 de Junio de 1931, del Ministerio de Tierras y Colonizaci&#xF3;n, que contiene el texto refundido de la Ley de Bosques; los D.F.L. N.os 294, de 5 de Abril y 301, de 6 de Abril, ambos de 1960, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, por decreto N.o 80, ya citado, se cre&#xF3; el Parque Nacional de Turismo &quot;Alberto M. de Agostini&quot;, en una extensi&#xF3;n de m&#xE1;s o menos 480.000 hect&#xE1;reas de terrenos fiscales situados en la comuna de Porvenir, con los deslindes all&#xED; se&#xF1;alados;</div><div class=\"p\">&nbsp; &nbsp;  Que, la Corporaci&#xF3;n de Magallanes ha manifestado la conveniencia de ampliar la extensi&#xF3;n de dicho Parque, hacia otros terrenos fiscales correspondientes al Plano N.o 3, de Tierra del Fuego;</div><div class=\"p\">&nbsp; &nbsp;  Que, de acuerdo con los informes t&#xE9;cnicos emitidos por el Servicio Forestal de este Ministerio, puede llevarse a efecto la ampliaci&#xF3;n a los lotes N.os 11 y 12, del mencionado Plano N.o 3,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

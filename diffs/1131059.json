@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-04-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-06-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10019030,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  I.- Apru&#xE9;bese la n&#xF3;mina de postulantes beneficiados, conforme a resoluci&#xF3;n exenta N&#xB0; 1.356, de fecha 27 de febrero de 2018, mediante la cual se otorga subsidio del programa Fondo Solidario de Elecci&#xF3;n de Vivienda, conforme al art&#xED;culo 27 del <a href=\"https://www.leychile.cl/Navegar?idNorma=1039424&amp;idParte=&amp;idVersion=\">DS 49 (V. y U.), de 2011</a>, a integrantes del proyecto habitacional conjunto habitacional Jorge Alessandri de la comuna de Antofagasta, Regi&#xF3;n de Antofagasta.</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/91833.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  II.- Ex&#xED;mase a los beneficiarios nominados en el presente acto administrativo de los siguientes requisitos:</div><br><div class=\"p\">&nbsp; &nbsp;  i.) Ahorro, establecido en los art&#xED;culos 3, letra c), 37, 38 y 39 del DS 49 (V. y U.), de 2011. </div><div class=\"p\">&nbsp; &nbsp;  ii.) La acreditaci&#xF3;n del instrumento de caracterizaci&#xF3;n socioecon&#xF3;mica establecida en el art&#xED;culo 3 letra g) DS 49 (V. y U.), de 2011.</div><div class=\"p\">&nbsp; &nbsp;  iii.) De los impedimentos establecidos en el art&#xED;culo 4 del DS 49 (V. y U.), de 2011. </div><div class=\"p\">&nbsp; &nbsp;  iv.) De los impedimentos establecidos en el art&#xED;culo 4 letras a), c) y g) del DS 49 (V. y U.), de 2011.</div><br><div class=\"p\">&nbsp; &nbsp;  II.- Publ&#xED;quese el presente acto administrativo en el Diario Oficial, sin perjuicio de la difusi&#xF3;n de la n&#xF3;mina por parte de Serviu Antofagasta, a trav&#xE9;s de peri&#xF3;dico de circulaci&#xF3;n regional u otro medio de comunicaci&#xF3;n p&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  III. - Notif&#xED;quese el presente acto administrativo a la Divisi&#xF3;n de Pol&#xED;tica Habitacional del Minvu.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  I.- Apru&#xE9;bese la n&#xF3;mina de postulantes beneficiados, conforme a resoluci&#xF3;n exenta N&#xB0; 1.356, de fecha 27 de febrero de 2018, mediante la cual se otorga subsidio del programa Fondo Solidario de Elecci&#xF3;n de Vivienda, conforme al art&#xED;culo 27 del DS 49 (V. y U.), de 2011, a integrantes del proyecto habitacional conjunto habitacional Jorge Alessandri de la comuna de Antofagasta, Regi&#xF3;n de Antofagasta.</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/91833.jpg\">.</div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1132802&amp;idParte=10031155&amp;idVersion=2019-06-18\">Resoluci&#xF3;n 329 EXENTA, <br>VIVIENDA<br>N&#xB0; I<br>D.O. 18.06.2019</a></span></div><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/93751.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  II.- Ex&#xED;mase a los beneficiarios nominados en el presente acto administrativo de los siguientes requisitos:</div><br><div class=\"p\">&nbsp; &nbsp;  i.) Ahorro, establecido en los art&#xED;culos 3, letra c), 37, 38 y 39 del DS 49 (V. y U.), de 2011. </div><div class=\"p\">&nbsp; &nbsp;  ii.) La acreditaci&#xF3;n del instrumento de caracterizaci&#xF3;n socioecon&#xF3;mica establecida en el art&#xED;culo 3 letra g) DS 49 (V. y U.), de 2011.</div><div class=\"p\">&nbsp; &nbsp;  iii.) De los impedimentos establecidos en el art&#xED;culo 4 del DS 49 (V. y U.), de 2011. </div><div class=\"p\">&nbsp; &nbsp;  iv.) De los impedimentos establecidos en el art&#xED;culo 4 letras a), c) y g) del DS 49 (V. y U.), de 2011.</div><br><div class=\"p\">&nbsp; &nbsp;  II.- Publ&#xED;quese el presente acto administrativo en el Diario Oficial, sin perjuicio de la difusi&#xF3;n de la n&#xF3;mina por parte de Serviu Antofagasta, a trav&#xE9;s de peri&#xF3;dico de circulaci&#xF3;n regional u otro medio de comunicaci&#xF3;n p&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  III. - Notif&#xED;quese el presente acto administrativo a la Divisi&#xF3;n de Pol&#xED;tica Habitacional del Minvu.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1132802,
+      "fecha": "2019-06-18"
+    }
+  }
+]

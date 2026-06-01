@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1987-06-20",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1987-11-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8998053,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Universidad Universidad de Chile</div><div class=\"p\">&nbsp; &nbsp; (A&#xF1;o 1984)</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el &quot;Diario Oficial&quot; N&#xB0; 32.065, de 8 de enero de 1985).</div><div class=\"p\">&nbsp; &nbsp; REGLAMENTO PARA LA DISTRIBUCION DE DERECHOS CONEXOS N&#xFA;m. 4.764.- Santiago, 19 de Diciembre de 1984.- Con esta fecha, la Rector&#xED;a de la Universidad de Chile ha expresado el siguiente decreto:</div><div class=\"p\">&nbsp; &nbsp; Vistos: lo dispuesto en los art&#xED;culos 65, 67, 70, 91 y siguientes de la Ley N&#xB0; 17.336; en el D.F.L. N&#xB0; 153, de 1981, del Ministerio de Educaci&#xF3;n P&#xFA;blica; D.S. N&#xB0; 65, de 1983, del mismo Ministerio; en el D.U. N&#xB0; 489, de 1983; los acuerdos adoptados por la Comisi&#xF3;n Permanente del Peque&#xF1;o Derecho de Autor en sesiones de 12 de Enero, 26 de Abril, 17 de Mayo, 24 de Mayo, 20 de Septiembre y 13 de Diciembre de 1984, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Que el art&#xED;culo 67, de la Ley N&#xB0; 17.336, sobre Propiedad Intelectual, establece la obligaci&#xF3;n de pago de los derechos conexos a los artistas, int&#xE9;rpretes y ejecutantes, por el uso p&#xFA;blico, con fines de lucro, de sus interpretaciones fijadas en un fonograma o reproducci&#xF3;n de &#xE9;ste.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Que la distribuci&#xF3;n de los derechos conexos se encuentra solo parcialmente considerada por el D.U. N&#xB0; 1.480, de 1977, complementario del D.U. N&#xB0; 2.620, de 1953, sobre Distribuci&#xF3;n del Peque&#xF1;o Derecho de Autor.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- Que es necesario que el Departamento del Peque&#xF1;o Derecho de Autor efect&#xFA;e la pronta distribuci&#xF3;n de los derechos conexos cobrados hasta la fecha y determine las fuentes de informaci&#xF3;n que servir&#xE1;n para hacerlo, como asimismo las formalidades que exigir&#xE1; a los titulares de estos derechos para pag&#xE1;rselo, Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento para la distribuci&#xF3;n de los derechos conexos.</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

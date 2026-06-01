@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-12-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1984-05-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6426328,
+          "old": "<div><div class=\"p\">AUTORIZA A FERNANDEZ, GARDA Y SOLAR LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A FERNANDEZ, GARDA Y SOLAR LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

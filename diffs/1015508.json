@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-07-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-03-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8947722,
+          "old": "<div><br><div class=\"p\">En el concurso p&#xFA;blico del Primer Cuatrimestre de 2009, se ha asignado a SOCIEDAD RADIODIFUSORA Y PERIOD&#xCD;STICA DEL MAULE LIMITADA, RU.N 79.613.150-0, una concesi&#xF3;n de Radiodifusi&#xF3;n Sonora en Frecuencia Modulada para la localidad de Talca. VII Regi&#xF3;n, con las caracter&#xED;sticas t&#xE9;cnicas siguientes: Potencia 1.000 W; frecuencia 100,7 MHz; estudio ubicado en Isidoro Del Solar N&#xBA; 285, Esquina 4 poniente. Talca, VII Regi&#xF3;n, coordenadas geogr&#xE1;ficas 35&#xBA; 25&apos; 08&apos;&apos; Latitud Sur. 71&#xBA; 40&apos; 05&apos;&apos; Longitud Oeste (Datum PSAD56); planta transmisora y sistema radiante ubicados en Alto Cerro la Virgen, Talca. VII Regi&#xF3;n, coordenadas geogr&#xE1;ficas 35&#xBA; 24&apos; 59&apos;&apos; Latitud Sur. 71&#xB0; 42&apos; 04&apos;&apos; Longitud Oeste (D&#xE1;tum PSAD56); sistema radiante omnidireccional, polarizaci&#xF3;n circular, arreglo de 4 antenas tipo anillo terminado en barras, ganancia m&#xE1;xima de 3,0 dBd y altura del centro de radiaci&#xF3;n de 37.50 m; perdidas en cables, conectores y otros de 4.38 dB.</div><br><div class=\"p\">El radioenlace estudio-planta ser&#xE1; de 5 dBd de ganancia y l0 Watts de potencia.</div><br><div class=\"p\">Dado que la asignataria es la actual concesionaria, no se especifican los plazos de inicio y termino de construcci&#xF3;n de las obras e inicio de servicio.</div><br><div class=\"p\">La presente publicaci&#xF3;n se hace de acuerdo a lo dispuesto en el articulo 13A de la Ley N&#xB0; 18.168 General de Telecomunicaciones, a objeto que quien tenga inter&#xE9;s en ello pueda reclamar de la Resoluci&#xF3;n Exenta del Ministerio de Transportes y Telecomunicaciones, que se extracta, que asign&#xF3; la concesi&#xF3;n, dentro del plazo de (l0) d&#xED;as h&#xE1;biles, contados desde la presente publicaci&#xF3;n. La reclamaci&#xF3;n deber&#xE1; presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">En el concurso p&#xFA;blico del Primer Cuatrimestre de 2009, se ha asignado a SOCIEDAD RADIODIFUSORA Y PERIOD&#xCD;STICA DEL MAULE LIMITADA, RU.N 79.613.150-0, una concesi&#xF3;n de Radiodifusi&#xF3;n Sonora en Frecuencia Modulada para la localidad de Talca. VII Regi&#xF3;n, con las caracter&#xED;sticas t&#xE9;cnicas siguientes: Potencia 1.000 W; frecuencia 100,7 MHz; estudio ubicado en Isidoro Del Solar N&#xBA; 285, Esquina 4 poniente. Talca, VII Regi&#xF3;n, coordenadas geogr&#xE1;ficas 35&#xBA; 25&apos; 08&apos;&apos; Latitud Sur. 71&#xBA; 40&apos; 05&apos;&apos; Longitud Oeste (Datum PSAD56); planta transmisora y sistema radiante ubicados en Alto Cerro la Virgen, Talca. VII Regi&#xF3;n, coordenadas geogr&#xE1;ficas 35&#xBA; 24&apos; 59&apos;&apos; Latitud Sur. 71&#xB0; 42&apos; 04&apos;&apos; Longitud Oeste (D&#xE1;tum PSAD56); sistema radiante omnidireccional, polarizaci&#xF3;n circular, arreglo de 4 antenas tipo anillo terminado en barras, ganancia m&#xE1;xima de 3,0 dBd y altura del centro de radiaci&#xF3;n de 37.50 m; perdidas en cables, conectores y otros de 4.38 dB.</div><br><div class=\"p\">El radioenlace estudio-planta ser&#xE1; de 5 dBd de ganancia y l<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1023728&amp;idParte=9122081&amp;idVersion=2011-03-15\">Aviso S/N,<br>TRANSPORTES<br>D.O. 15.03.2011</a></span> Watts de potencia.</div><br><div class=\"p\">Dado que la asignataria es la actual concesionaria, no se especifican los plazos de inicio y termino de construcci&#xF3;n de las obras e inicio de servicio.</div><br><div class=\"p\">La presente publicaci&#xF3;n se hace de acuerdo a lo dispuesto en el articulo 13A de la Ley N&#xB0; 18.168 General de Telecomunicaciones, a objeto que quien tenga inter&#xE9;s en ello pueda reclamar de la Resoluci&#xF3;n Exenta del Ministerio de Transportes y Telecomunicaciones, que se extracta, que asign&#xF3; la concesi&#xF3;n, dentro del plazo de (l0) d&#xED;as h&#xE1;biles, contados desde la presente publicaci&#xF3;n. La reclamaci&#xF3;n deber&#xE1; presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1023728,
+      "fecha": "2011-03-15"
+    }
+  }
+]

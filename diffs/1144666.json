@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-04-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-07-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10116856,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Ampl&#xED;ase el plazo para la renovaci&#xF3;n anual hasta 01.Jun.2020 para la totalidad de los usuarios de la ley inscritos en los registros nacionales de esta Direcci&#xF3;n General de Movilizaci&#xF3;n Nacional, y que tienen fecha de vigencia durante estos meses, y que por alguna situaci&#xF3;n se encuentran imposibilitados para efectuar este tr&#xE1;mite.</div><div class=\"p\">&nbsp; &nbsp;  2. Las autoridades fiscalizadoras que presenten situaciones de usuarios en esta condici&#xF3;n, deber&#xE1;n comunicar v&#xED;a mensaje Outlook a la Secci&#xF3;n correspondiente, del Departamento de Control de Armas y Explosivos, quienes realizar&#xE1;n las gestiones necesarias para su soluci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Ampl&#xED;ase el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>plazo para la renovaci&#xF3;n anual hasta 01.Jun.2020 para la totalidad de los usuarios de la ley inscritos en los registros nacionales de esta Direcci&#xF3;n General de Movilizaci&#xF3;n Nacional, y que tienen fecha de vigencia durante estos meses, y que por alguna situaci&#xF3;n se encuentran imposibilitados para efectuar este tr&#xE1;mite.</div><div class=\"p\">&nbsp; &nbsp;  2. Las autoridades fiscalizadoras que presenten situaciones de usuarios en esta condici&#xF3;n, deber&#xE1;n comunicar v&#xED;a mensaje Outlook a la Secci&#xF3;n correspondiente, del Departamento de Control de Armas y Explosivos, quienes realizar&#xE1;n las gestiones necesarias para su soluci&#xF3;n.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1868 Exenta, Defensa, publicada el 15.07.2020, ampl&#xED;a el plazo para la renovaci&#xF3;n anual de la totalidad de los usuarios referidos en el numeral 1 de la presente norma hasta el 01 de septiembre de 2020.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2018-07-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-03-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9930448,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- De la Meta de D&#xE9;ficit Estructural.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  La situaci&#xF3;n de d&#xE9;ficit estructural que enfrenta esta Administraci&#xF3;n como punto de partida, y el mandato para la implementaci&#xF3;n del Programa de Gobierno, nos plantea como meta reducir el d&#xE9;ficit estructural en aproximadamente un quinto de punto porcentual del Producto Interno Bruto cada a&#xF1;o, comenzando con un d&#xE9;ficit estructural de 1,8% del PIB en 2018, para llegar a un d&#xE9;ficit estructural del 1% del Producto Interno Bruto el a&#xF1;o 2022.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- De <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1143862&amp;idParte=10111122&amp;idVersion=2020-03-30\">Decreto 253, HACIENDA<br>Art. &#xDA;NICO<br>D.O. 30.03.2020</a></span>la Meta de D&#xE9;ficit Estructural. La meta fiscal de la presente administraci&#xF3;n ser&#xE1;, a partir del a&#xF1;o 2020 y hasta el a&#xF1;o 2022, reducir el d&#xE9;ficit estructural en aproximadamente 1,2% Producto Interno Bruto (PIB), comenzando con un d&#xE9;ficit estructural de 3,2% del PIB en 2020, pasando a un d&#xE9;ficit estructural de 2,5% del PIB en 2021, para llegar a un d&#xE9;ficit estructural de 2,0% del PIB el a&#xF1;o 2022.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2020-10-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9930448,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- De <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1143862&amp;idParte=10111122&amp;idVersion=2020-03-30\">Decreto 253, HACIENDA<br>Art. &#xDA;NICO<br>D.O. 30.03.2020</a></span>la Meta de D&#xE9;ficit Estructural. La meta fiscal de la presente administraci&#xF3;n ser&#xE1;, a partir del a&#xF1;o 2020 y hasta el a&#xF1;o 2022, reducir el d&#xE9;ficit estructural en aproximadamente 1,2% Producto Interno Bruto (PIB), comenzando con un d&#xE9;ficit estructural de 3,2% del PIB en 2020, pasando a un d&#xE9;ficit estructural de 2,5% del PIB en 2021, para llegar a un d&#xE9;ficit estructural de 2,0% del PIB el a&#xF1;o 2022.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- De la Meta de D&#xE9;ficit Estructural<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1151003&amp;idParte=10170759&amp;idVersion=2020-10-29\">Decreto 1579, HACIENDA<br>Art. N&#xB0; 1<br>D.O. 29.10.2020</a></span>.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  La meta fiscal de la presente administraci&#xF3;n ser&#xE1; alcanzar un d&#xE9;ficit estructural de 3,9% del PIB en el a&#xF1;o 2022, comenzando con un d&#xE9;ficit estructural de 3,2% del PIB en el a&#xF1;o 2020, y un d&#xE9;ficit estructural de 4,7% del PIB para el a&#xF1;o 2021.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1151003,
+      "fecha": "2020-10-29"
+    }
+  }
+]

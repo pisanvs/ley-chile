@@ -1,0 +1,60 @@
+[
+  {
+    "fecha": "2005-11-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-11-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7325519,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Cr&#xE9;ase el Registro Nacional de Revisores Independientes de Obras de Edificaci&#xF3;n de conformidad con el art&#xED;culo 116 Bis del decreto con fuerza de ley N&#xB0; 458, del Ministerio de Vivienda y Urbanismo, de 1975, Ley General de Urbanismo y Construcciones.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Cr&#xE9;ase el Registro Nacional de Revisores Independientes <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1055816&amp;idParte=9382468&amp;idVersion=2013-11-05\">Ley 20703<br>Art. QUINTO N&#xBA; 1<br>D.O. 05.11.2013</a></span>Obras de Construcci&#xF3;n de conformidad con el art&#xED;culo 116 Bis del decreto con fuerza de ley N&#xB0; 458, del Ministerio de Vivienda y Urbanismo, de 1975, Ley General de Urbanismo y Construcciones.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 7325526,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Los revisores independientes no podr&#xE1;n revisar proyectos u obras en que tengan conflictos de inter&#xE9;s. Se entender&#xE1; que existen tales conflictos trat&#xE1;ndose, por ejemplo, de proyectos u obras:</div><br><div class=\"p\">a)&nbsp;  Emplazados en predios que pertenezcan en dominio al revisor o a sus parientes hasta el 4&#xBA; grado de consanguinidad o 2&#xBA; de afinidad;</div><div class=\"p\">b)&nbsp;  Emplazados en predios que pertenezcan en dominio a una sociedad de personas de la cual el revisor sea socio o a una persona jur&#xED;dica en que &#xE9;ste sea socio, director, administrador o con quien tenga un v&#xED;nculo laboral, y</div><div class=\"p\">c)&nbsp;  En que el revisor, o alguno de sus parientes hasta el 4&#xBA; grado de consanguinidad o 2&#xBA; de afinidad, intervenga como proyectista o constructor.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Los revisores independientes no podr&#xE1;n revisar proyectos u obras en que tengan conflictos de inter&#xE9;s. Se entender&#xE1; que existen tales conflictos trat&#xE1;ndose, por ejemplo, de proyectos u obras:</div><br><div class=\"p\">a)&nbsp;  Emplazados en predios que pertenezcan en dominio al revisor o a sus parientes hasta el 4&#xBA; grado de consanguinidad o 2&#xBA; de afinidad;</div><div class=\"p\">b)&nbsp;  Emplazados en predios que pertenezcan en dominio a una sociedad de personas de la cual el revisor sea socio o a una persona jur&#xED;dica en que &#xE9;ste sea socio, director, administrador o una con quien tenga dependencia<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1055816&amp;idParte=9382468&amp;idVersion=2013-11-05\">Ley 20703<br>Art. QUINTO N&#xBA; 2<br>D.O. 05.11.2013</a></span> econ&#xF3;mica o un v&#xED;nculo laboral, y</div><div class=\"p\">c)&nbsp;  En que el revisor, o alguno de sus parientes hasta el 4&#xBA; grado de consanguinidad o 2&#xBA; de afinidad, intervenga como proyectista o constructor.</div><br><br></div>"
+        },
+        {
+          "part_id": 7325535,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13.- La resoluci&#xF3;n que ponga fin al procedimiento sancionatorio ser&#xE1; fundada y resolver&#xE1; todas las cuestiones planteadas, pronunci&#xE1;ndose sobre cada una de las alegaciones y defensas del imputado, debiendo declarar la sanci&#xF3;n que impone al infractor o su absoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  La resoluci&#xF3;n final deber&#xE1; dictarse dentro de los 30 d&#xED;as siguientes a aqu&#xE9;l en que se haya evacuado la &#xFA;ltima diligencia ordenada en el expediente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13.- La resoluci&#xF3;n que ponga fin al procedimiento sancionatorio ser&#xE1; fundada y resolver&#xE1; todas las cuestiones planteadas, pronunci&#xE1;ndose sobre cada una de las alegaciones y defensas del imputado, debiendo declarar la sanci&#xF3;n que impone al infractor o su absoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  La resoluci&#xF3;n final deber&#xE1; dictarse dentro de los 30 d&#xED;as siguientes a aqu&#xE9;l en que se haya evacuado la &#xFA;ltima diligencia ordenada en el expediente.</div><div class=\"p\">&nbsp; &nbsp;  Las san<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1055816&amp;idParte=9382468&amp;idVersion=2013-11-05\">Ley 20703<br>Art. QUINTO N&#xBA; 3<br>D.O. 05.11.2013</a></span>ciones se anotar&#xE1;n en el Registro. </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1055816,
+      "fecha": "2013-11-05"
+    }
+  },
+  {
+    "fecha": "2025-01-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7325536,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14.- Los actos administrativos que se originen en este procedimiento no podr&#xE1;n reclamarse mediante los recursos que contempla la ley N&#xB0; 19.880, de Bases de los Procedimientos Administrativos.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, contra la resoluci&#xF3;n que ponga fin al procedimiento sancionatorio proceder&#xE1; el recurso de apelaci&#xF3;n ante la Comisi&#xF3;n de Apelaciones del Registro, en adelante la Comisi&#xF3;n, debiendo interponerse dentro de los 30 d&#xED;as siguientes a su notificaci&#xF3;n. Dicho recurso de apelaci&#xF3;n no tendr&#xE1; efectos suspensivos a menos que as&#xED; lo resuelva expresamente la Comisi&#xF3;n, a petici&#xF3;n fundada del interesado.</div><div class=\"p\">&nbsp; &nbsp;  Las resoluciones de la Comisi&#xF3;n ser&#xE1;n inapelables, sin perjuicio de las dem&#xE1;s acciones y recursos que procedan.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14.- <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1208743&amp;idParte=10525208&amp;idVersion=2025-01-14\">Ley 21718<br>Art. 4 N&#xB0; 1<br>D.O. 29.11.2024</a></span>La resoluci&#xF3;n que ponga fin al procedimiento sancionatorio podr&#xE1; reclamarse mediante el procedimiento establecido en el p&#xE1;rrafo 2&#xB0; del cap&#xED;tulo IV de la ley N&#xB0; 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los &#xD3;rganos de la Administraci&#xF3;n del Estado.</div><br></div>"
+        },
+        {
+          "part_id": 7325537,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15.- La Comisi&#xF3;n estar&#xE1; integrada por:</div><div class=\"p\">a)&nbsp;  Dos funcionarios del Ministerio de Vivienda y Urbanismo, uno de los cuales la presidir&#xE1;.</div><div class=\"p\">b)&nbsp;  Un representante del Colegio de Arquitectos de Chile A.G.</div><div class=\"p\">c)&nbsp;  Un representante del Colegio de Ingenieros A.G.</div><div class=\"p\">d)&nbsp;  Un representante del Colegio de Constructores Civiles de Chile A.G.</div><br><div class=\"p\">&nbsp; &nbsp;  Los miembros titulares de la Comisi&#xF3;n y sus suplentes ser&#xE1;n designados por los respectivos organismos.</div><div class=\"p\">&nbsp; &nbsp;  La constituci&#xF3;n de esta Comisi&#xF3;n se formalizar&#xE1; mediante una resoluci&#xF3;n del Subsecretario de Vivienda y Urbanismo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo <span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1208743&amp;idParte=10525208&amp;idVersion=2025-01-14\">Ley 21718<br>Art. 4 N&#xB0; 2<br>D.O. 29.11.2024</a></span>15.- Eliminado.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1208743,
+      "fecha": "2025-01-14"
+    }
+  }
+]

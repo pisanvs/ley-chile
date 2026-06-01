@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-01-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-02-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8355879,
+          "old": "<div><div class=\"p\">ESTABLECE DISPOSICION PARA LA COMERCIALIZACION DE BALASTO PARA LAMPARA TUBULAR FLUORESCENTE</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.024 exenta.- Santiago, 30 de diciembre de 1999.- Visto:</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Lo establecido en el DFL N&#xBA; 1, de 1982;</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;. Las facultades que confieren a esta Superintendencia la ley N&#xBA; 18.410 de 1985; modificada por ley N&#xBA; 19.613, de 1999;</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;. Lo dispuesto en el decreto N&#xBA; 399, de 1985, modificado por el decreto N&#xBA; 152, de 1988, ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;. La resoluci&#xF3;n exenta N&#xBA; 426, del 16.06.98, de la Superintendencia de Electricidad y Combustibles;</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA;. La resoluci&#xF3;n exenta N&#xBA; 89, del 23.12.98, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  6&#xBA;. La resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: La necesidad de precisar el &#xE1;mbito de aplicaci&#xF3;n de la resoluci&#xF3;n exenta N&#xBA; 89, que establece que el producto &apos;&apos;Balasto independiente para l&#xE1;mpara tubular fluorescente de iluminaci&#xF3;n general, con c&#xE1;todo precalentado, que funciona con partidor, sin protecci&#xF3;n t&#xE9;rmica, para 20 W y 40 W y tensi&#xF3;n de hasta 250V 50 Hz.&apos;&apos;, debe contar con certificado de aprobaci&#xF3;n para su comercializaci&#xF3;n en el pa&#xED;s y debido a que este producto constituye un componente m&#xE1;s, dentro de otros, de equipos de iluminaci&#xF3;n que se comercializan como conjunto, pero que no se encuentran sujetos a certificaci&#xF3;n obligatoria.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE DISPOSICION PARA LA COMERCIALIZACION DE BALASTO PARA LAMPARA TUBULAR FLUORESCENTE</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.024 exenta.- Santiago, 30 de diciembre de 1999.- Visto:</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Lo establecido en el DFL N&#xBA; 1, de 1982;</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;. Las facultades que confieren a esta Superintendencia la ley N&#xBA; 18.410 de 1985; modificada por ley N&#xBA; 19.613, de 1999;</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;. Lo dispuesto en el decreto N&#xBA; 399, de 1985, modificado por el decreto N&#xBA; 152, de 1988, ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;. La resoluci&#xF3;n exenta N&#xBA; 426, del 16.06.98, de la Superintendencia de Electricidad y Combustibles;</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA;. La resoluci&#xF3;n exenta N&#xBA; 89, del 23.12.98, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  6&#xBA;. La resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: La necesidad de precisar el &#xE1;mbito de aplicaci&#xF3;n de la resoluci&#xF3;n exenta N&#xBA; 89, que establece que el producto &apos;&apos;Balasto independiente para l&#xE1;mpara tubular fluorescente de iluminaci&#xF3;n general, con c&#xE1;todo precalentado, que funciona con partidor, sin protecci&#xF3;n t&#xE9;rmica, para 20 W y 40 W y tensi&#xF3;n de hasta 250V 50 Hz.&apos;&apos;, debe contar con certificado de aprobaci&#xF3;n para su comercializaci&#xF3;n en el pa&#xED;s y debido a que este producto constituye un componente m&#xE1;s, dentro de otros, de equipos de iluminaci&#xF3;n que se comercializan como conjunto, pero que no se encuentran sujetos a certificaci&#xF3;n obligatoria.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

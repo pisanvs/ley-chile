@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8300858,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Ser&#xE1;n aplicables a las administradoras todas las normas contenidas en los T&#xED;tulos III y IV del decreto ley N&#xBA; 3.538, de 1980.</div><div class=\"p\">&nbsp; &nbsp;  En caso de aplicarse por la Superintendencia la sanci&#xF3;n de revocaci&#xF3;n de la autorizaci&#xF3;n de existencia, las operaciones que se hubieren efectuado por parte de la administradora ser&#xE1;n liquidadas por un liquidador o un s&#xED;ndico de quiebras designado por el Superintendente en conformidad a lo dispuesto en el P&#xE1;rrafo 4&#xBA; del T&#xED;tulo IV del decreto con fuerza de ley N&#xBA; 251, de 1931.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Ser&#xE1;n aplicables a las administradoras todas las normas contenidas en los T&#xED;tulos III y IV del decreto ley N&#xBA; 3.538, de 1980.</div><div class=\"p\">&nbsp; &nbsp;  En caso de aplicarse por la Superintendencia la sanci&#xF3;n de revocaci&#xF3;n de la autorizaci&#xF3;n de existencia, las operaciones que se hubieren efectuado por parte de la administradora ser&#xE1;n liquidadas por un liquidador<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1058072&amp;idParte=9399119&amp;idVersion=2014-01-09\">Ley 20720<br>Art. 380<br>D.O. 09.01.2014</a></span> designado por el Superintendente en conformidad a lo dispuesto en el P&#xE1;rrafo 4&#xBA; del T&#xED;tulo IV del decreto con fuerza de ley N&#xBA; 251, de 1931.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

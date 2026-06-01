@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-11-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8659089,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- La Comisi&#xF3;n ser&#xE1; presidida por el Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, y estar&#xE1; integrada adem&#xE1;s por los siguientes miembros:</div><br><div class=\"p\">a)&nbsp;  El Subsecretario de Pesca.</div><div class=\"p\">b)&nbsp;  Un representante del Ministerio de Salud.</div><div class=\"p\">c)&nbsp;  Un representante del Ministerio de Relaciones Exteriores.</div><div class=\"p\">d)&nbsp;  Un representante de la Subsecretar&#xED;a de Marina.</div><div class=\"p\">e)&nbsp;  Un representante de la Subsecretar&#xED;a de Desarrollo Regional.</div><div class=\"p\">f)&nbsp;  Un representante del Servicio Nacional de Pesca.</div><div class=\"p\">g)&nbsp;  Un representante de la Comisi&#xF3;n Nacional del Medio Ambiente.</div><div class=\"p\">h)&nbsp;  Un representante de la Direcci&#xF3;n General de Territorio Mar&#xED;timo y Marina Mercante.</div><div class=\"p\">i)&nbsp;  Un representante de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n, Ciencia y Tecnolog&#xED;a.</div><div class=\"p\">j)&nbsp;  Un representante de la Corporaci&#xF3;n de Fomento para la Producci&#xF3;n.</div><div class=\"p\">k)&nbsp;  Un representante del Instituto de Fomento Pesquero.</div><div class=\"p\">l)&nbsp;  Un investigador nombrado por el Presidente de la Rep&#xFA;blica a proposici&#xF3;n del Consejo de Rectores.</div><div class=\"p\">m)&nbsp;  Seis miembros provenientes de las asociaciones de productores de especies acu&#xE1;ticas cultivadas legalmente constituidas, designados por el Presidente de la Rep&#xFA;blica, a propuesta del Subsecretario de Pesca.</div><br><div class=\"p\">&nbsp; &nbsp;  Los integrantes de la Comisi&#xF3;n desempe&#xF1;ar&#xE1;n sus funciones ad hon&#xF3;rem.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- La Comisi&#xF3;n ser&#xE1; presidida por el Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, y estar&#xE1; integrada adem&#xE1;s por los siguientes miembros:</div><br><div class=\"p\">a)&nbsp;  El Subsecretario de Pesca.</div><div class=\"p\">b)&nbsp;  Un representante del Ministerio de Salud.</div><div class=\"p\">c)&nbsp;  Un representante del Ministerio de Relaciones Exteriores.</div><div class=\"p\">d)&nbsp;  Un representante de la Subsecretar&#xED;a de Marina.</div><div class=\"p\">e)&nbsp;  Un representante de la Subsecretar&#xED;a de Desarrollo Regional.</div><div class=\"p\">f)&nbsp;  Un representante del Servicio Nacional de Pesca.</div><div class=\"p\">g)&nbsp;  Un representante de la Comisi&#xF3;n Nacional del Medio Ambiente.</div><div class=\"p\">h)&nbsp;  Un representante de la Direcci&#xF3;n General de Territorio Mar&#xED;timo y Marina Mercante.</div><div class=\"p\">i)&nbsp;  Un representante de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n, Ciencia y Tecnolog&#xED;a.</div><div class=\"p\">j)&nbsp;  Un representante de la Corporaci&#xF3;n de Fomento para la Producci&#xF3;n.</div><div class=\"p\">k)&nbsp;  Un representante del Instituto de Fomento Pesquero.</div><div class=\"p\">l)&nbsp;  Un investigador nombrado por el Presidente de la Rep&#xFA;blica a proposici&#xF3;n del Consejo de Rectores.</div><div class=\"p\">m)&nbsp;  Siete miembros provenientes de las asociaciones de<span class=\"n\" id=\"n_0\">DTO 216,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 20.01.2004</span> productores de especies acu&#xE1;ticas cultivadas legalmente constituidas, designados por el Presidente de la Rep&#xFA;blica, a propuesta del Subsecretario de Pesca.</div><br><div class=\"p\">&nbsp; &nbsp;  Los integrantes de la Comisi&#xF3;n desempe&#xF1;ar&#xE1;n sus funciones ad hon&#xF3;rem.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

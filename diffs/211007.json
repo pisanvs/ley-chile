@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-08-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6426169,
+          "old": "<div><div class=\"p\">AUTORIZA AL SR. JUAN EDUARDO CORREA LARRAIN PARA INICIAR ACTIVIDADES PESQUERAS QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA AL SR. JUAN EDUARDO CORREA LARRAIN PARA INICIAR ACTIVIDADES PESQUERAS QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

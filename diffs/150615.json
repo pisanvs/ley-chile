@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-06-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8355775,
+          "old": "<div><div class=\"p\">AUTORIZA A OLIVARES S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS. DEROGA AUTORIZACION QUE INDICA Y CADUCA RESOLUCIONES No. 20, DE 1986 Y No. 282, DE 1987 </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A OLIVARES S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS. DEROGA AUTORIZACION QUE INDICA Y CADUCA RESOLUCIONES No. 20, DE 1986 Y No. 282, DE 1987 </div><br></div>"
+        }
+      ]
+    }
+  }
+]

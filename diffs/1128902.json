@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2019-02-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-09-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10000717,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Segundo. Los territorios rezagados contenidos en los decretos Nos 1.116 de 2014, 1.459 de 2014, 1.929 de 2015 y 1.490 de 2016, todos del Ministerio del Interior y Seguridad P&#xFA;blica, se considerar&#xE1;n incorporados a esta Pol&#xED;tica Nacional, por lo que se les aplicar&#xE1;n las normas de este Reglamento, especialmente en lo relacionado a la elaboraci&#xF3;n y evaluaci&#xF3;n de los Planes de Desarrollo, establecidas en los art&#xED;culos 9&#xB0; y 13&#xB0;, as&#xED; como el egreso de la categor&#xED;a de Zona Rezagada establecido en el art&#xED;culo 14&#xB0;.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, la cartera de iniciativas que hayan sido presentadas por los territorios rezagados a los que se refiere el inciso anterior, no podr&#xE1;n superar un periodo de ejecuci&#xF3;n de ocho a&#xF1;os, contados desde la fecha de su respectiva declaraci&#xF3;n, debiendo ajustar la cartera de iniciativas correspondiente para tales efectos.</div></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Segundo. Los territorios rezagados contenidos en los decretos Nos 1.116 de 2014, 1.459 de 2014, 1.929 de 2015 y 1.490 de 2016, todos del Ministerio del Interior y Seguridad P&#xFA;blica, se considerar&#xE1;n incorporados a esta Pol&#xED;tica Nacional, por lo que se les aplicar&#xE1;n las normas de este Reglamento, especialmente en lo relacionado a la elaboraci&#xF3;n y evaluaci&#xF3;n de los Planes de Desarrollo, establecidas en los art&#xED;culos 9&#xB0; y 13&#xB0;, as&#xED; como el egreso de la categor&#xED;a de Zona Rezagada establecido en el art&#xED;culo 14&#xB0;.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, la cartera de iniciativas que hayan sido presentadas por los territorios rezagados a los que se refiere el inciso anterior, no podr&#xE1;n superar un periodo de ejecuci&#xF3;n de ocho a&#xF1;os, contados desde la fecha de su respectiva declaraci&#xF3;n, debiendo ajustar la cartera de iniciativas correspondiente para tales efectos.</div><div class=\"p\">&nbsp; &nbsp;  Sin<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1181803&amp;idParte=10367658&amp;idVersion=2022-09-22\">Decreto 225,<br>INTERIOR<br>Art. 1&#xB0;<br>D.O. 22.09.2022</a></span> perjuicio de lo anterior, las carteras de iniciativas que forman parte de los planes vigentes de las regiones de Coquimbo, del Maule y del Biob&#xED;o tendr&#xE1;n un plazo de ejecuci&#xF3;n que no podr&#xE1; exceder de diez a&#xF1;os. Igual regla se aplicar&#xE1; a las comunas que pertenec&#xED;an al Plan de Desarrollo para Territorios Rezagados de la Regi&#xF3;n del Biob&#xED;o y que pasaron a formar parte de la Regi&#xF3;n del &#xD1;uble.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1181803,
+      "fecha": "2022-09-22"
+    }
+  },
+  {
+    "fecha": "2023-09-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

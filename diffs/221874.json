@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2004-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-01-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6467025,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1. Todo el personal de conducci&#xF3;n, en la jornada</div><div class=\"p\">laboral, de los servicios de taxis colectivos que</div><div class=\"p\">utilizan las v&#xED;as de la ciudad de Concepci&#xF3;n deber&#xE1;n</div><div class=\"p\">usar uniforme seg&#xFA;n las caracter&#xED;sticas que se</div><div class=\"p\">indicar&#xE1;n.</div><div class=\"p\">&nbsp; &nbsp;  2. Las caracter&#xED;sticas de los uniformes ser&#xE1;n las</div><div class=\"p\">siguientes:</div><br><div class=\"p\">a.&nbsp;  Pantal&#xF3;n de tela o jeans de color azul oscuro.</div><div class=\"p\">b.&nbsp;  Camisa de color celeste.</div><div class=\"p\">c.&nbsp;  Corbata de color azul.</div><br><div class=\"p\">&nbsp; &nbsp;  3. El costo del uniforme no podr&#xE1; traspasarse al conductor y ser&#xE1; de exclusiva responsabilidad del Representante Legal del Servicio respectivo velar que esta obligaci&#xF3;n se cumpla. La cantidad m&#xED;nima de tenidas de vestir por conductor ser&#xE1;n tres, a fin de velar por la adecuada presentaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4. En el per&#xED;odo comprendido entre el 01 de octubre al 01 de marzo de cada a&#xF1;o, los conductores podr&#xE1;n hacer uso de camisa manga corta y se permitir&#xE1; no usar la corbata.</div><div class=\"p\">&nbsp; &nbsp;  5. En el per&#xED;odo comprendido entre el 01 de marzo al 30 de septiembre de cada a&#xF1;o, deber&#xE1; adicionarse al vestuario la entrega de un chaleco y adem&#xE1;s una chaqueta o cortaviento de color azul oscuro.</div><div class=\"p\">&nbsp; &nbsp;  6. A los conductores de sexo femenino, la prenda de vestir camisa ser&#xE1; reemplazada por una blusa y la corbata por una cinta de los mismos colores indicados anteriormente.</div><div class=\"p\">&nbsp; &nbsp;  7. La empresa responsable del servicio deber&#xE1; velar por el cumplimiento de lo dispuesto en esta resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  8. La presente resoluci&#xF3;n entrar&#xE1; en vigencia a contar del d&#xE9;cimo quinto d&#xED;a corrido de su publicaci&#xF3;n en el Diario Oficial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. Todo el personal de conducci&#xF3;n, en la jornada laboral, de los servicios de taxis colectivos que</div><div class=\"p\">utilizan las v&#xED;as de la ciudad de Concepci&#xF3;n deber&#xE1;n usar uniforme seg&#xFA;n las caracter&#xED;sticas que se indicar&#xE1;n.</div><div class=\"p\">&nbsp; &nbsp;  2. Las caracter&#xED;sticas de los uniformes ser&#xE1;n las siguientes:</div><br><div class=\"p\">a.&nbsp;  Pantal&#xF3;n de tela o jeans de color azul oscuro.</div><div class=\"p\">b.&nbsp;  C<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1010354&amp;idParte=8847396&amp;idVersion=2010-01-21\">Resoluci&#xF3;n 345 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1 a) y b)<br>D.O. 21.01.2010</a></span>amisa de color celeste o polera de color celeste con cuello, tipo piqu&#xE9;.</div><div class=\"p\">c.&nbsp;  ELIMINADA.</div><br><br><div class=\"p\">&nbsp; &nbsp;  3. El costo del uniforme no podr&#xE1; traspasarse al conductor y ser&#xE1; de exclusiva responsabilidad del Representante Legal del Servicio respectivo velar que esta obligaci&#xF3;n se cumpla. La cantidad m&#xED;nima de tenidas de vestir por conductor ser&#xE1;n tres, a fin de velar por la adecuada presentaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4. E<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1010354&amp;idParte=8847396&amp;idVersion=2010-01-21\">Resoluci&#xF3;n 345 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1 c)<br>D.O. 21.01.2010</a></span>n el per&#xED;odo comprendido entre el entre el 1 de septiembre al 15 de marzo, los conductores podr&#xE1;n hacer uso de camisa manga corta.</div><div class=\"p\">&nbsp; &nbsp;  5. En el per&#xED;odo comprendido entre el 01 de marzo al 30 de septiembre de cada a&#xF1;o, deber&#xE1; adicionarse al vestuario la entrega de un chaleco y adem&#xE1;s una ch<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1010354&amp;idParte=8847396&amp;idVersion=2010-01-21\">Resoluci&#xF3;n 345 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1 d) y e)<br>D.O. 21.01.2010</a></span>aqueta o cortaviento o polar de color azul oscuro.</div><div class=\"p\">&nbsp; &nbsp;  6. A los conductores de sexo femenino, la prenda de vestir camisa ser&#xE1; reemplazada por una blusa.</div><div class=\"p\">&nbsp; &nbsp;  7. La empresa responsable del servicio deber&#xE1; velar por el cumplimiento de lo dispuesto en esta resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  8. La presente resoluci&#xF3;n entrar&#xE1; en vigencia a contar del d&#xE9;cimo quinto d&#xED;a corrido de su publicaci&#xF3;n en el Diario Oficial.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1010354,
+      "fecha": "2010-01-21"
+    }
+  }
+]

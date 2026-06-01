@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "2000-05-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-02-21",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6275891,
+          "old": "<div><div class=\"p\">DECLARA CAMINO NACIONAL AL TRAZADO DE LA RUTA 9 EN LA CIUDAD DE PUNTA ARENAS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 940.- Santiago, 30 de marzo de 2000.- Vistos: El DFL MOP N&#xBA;850, de 1997, que fija el texto refundido, coordinado y sistematizado de la ley N&#xBA;15.840, Org&#xE1;nica del Ministerio de Obras P&#xFA;blicas y del DFL N&#xBA;206, de 1960, Ley de Caminos; el decreto MOP N&#xBA;556 de 1969, que establece normas para la numeraci&#xF3;n de caminos.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que el decreto MOP N&#xBA;399 de 1994, declar&#xF3; camino p&#xFA;blico a las v&#xED;as urbanas que all&#xED; se se&#xF1;alan, en la XII Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena.</div><div class=\"p\">&nbsp; &nbsp;  Que es necesario declarar Camino Nacional dicha ruta que corresponde a la Ruta 9, originalmente establecida por el decreto MOP N&#xBA;556 de 1969.</div><div class=\"p\">&nbsp; &nbsp;  Que es necesario confirmar el rol de la Ruta 9.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA CAMINO NACIONAL AL TRAZADO DE LA RUTA 9 EN LA CIUDAD DE PUNTA ARENAS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 940.- Santiago, 30 de marzo de 2000.- Vistos: El DFL MOP N&#xBA;850, de 1997, que fija el texto refundido, coordinado y sistematizado de la ley N&#xBA;15.840, Org&#xE1;nica del Ministerio de Obras P&#xFA;blicas y del DFL N&#xBA;206, de 1960, Ley de Caminos; el decreto MOP N&#xBA;556 de 1969, que establece normas para la numeraci&#xF3;n de caminos.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que el decreto MOP N&#xBA;399 de 1994, declar&#xF3; camino p&#xFA;blico a las v&#xED;as urbanas que all&#xED; se se&#xF1;alan, en la XII Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena.</div><div class=\"p\">&nbsp; &nbsp;  Que es necesario declarar Camino Nacional dicha ruta que corresponde a la Ruta 9, originalmente establecida por el decreto MOP N&#xBA;556 de 1969.</div><div class=\"p\">&nbsp; &nbsp;  Que es necesario confirmar el rol de la Ruta 9.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>"
+        },
+        {
+          "part_id": 6275892,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Decl&#xE1;rase Camino Nacional al camino p&#xFA;blico que se indica a continuaci&#xF3;n que forma parte de la Ruta 9, Paso Baguales-Puerto Natales-Punta Arenas-Fuerte Bulnes-San Juan, en su paso por ciudad de Punta Arenas, y que ocupa las siguientes v&#xED;as:</div><br><div class=\"p\">-&nbsp; &nbsp; La Avenida Presidente Carlos Ib&#xE1;&#xF1;ez del Campo en toda su extensi&#xF3;n, incluyendo la intersecci&#xF3;n con la Avenida Bulnes.</div><div class=\"p\">-&nbsp; &nbsp; La proyectada Avenida Gabriel Gonz&#xE1;lez Videla, desde la intersecci&#xF3;n con la Avenida Presidente Carlos Ib&#xE1;&#xF1;ez del Campo y Avenida Bulnes, hasta el R&#xED;o de las Minas.</div><div class=\"p\">-&nbsp; &nbsp; La proyectada Avenida Costanera del Estrecho, desde el R&#xED;o de las Minas hasta la Avenida Independencia.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Conf&#xED;rmase&nbsp; el Rol N&#xBA;9 a la Ruta Paso Baguales-Puerto Natales-Punta Arenas-Fuerte Bulnes-San Juan.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Decl&#xE1;rase Camino Nacional al camino p&#xFA;blico que se indica a continuaci&#xF3;n que forma parte de la Ruta 9, Paso Baguales-Puerto Natales-Punta Arenas-Fuerte Bulnes-San Juan, en su paso por ciudad de Punta Arenas, y que ocupa las siguientes v&#xED;as:</div><br><div class=\"p\">-&nbsp; &nbsp; La Avenida Presidente Carlos Ib&#xE1;&#xF1;ez del Campo en toda su extensi&#xF3;n, incluyendo la intersecci&#xF3;n con la Avenida Bulnes.<span class=\"n\" id=\"n_0\">DTO 35, OBRAS<br>N&#xBA;1, 1.2<br>D.O. 21.02.2006</span></div><div class=\"p\">-&nbsp; &nbsp; ELIMINADO</div><div class=\"p\">-&nbsp; &nbsp; ELIMINADO</div><div class=\"p\">&nbsp; &nbsp;  2.- Conf&#xED;rmase el Rol N&#xBA;9 a la Ruta Paso Baguales-Puerto Natales-Punta Arenas-Fuerte Bulnes-San Juan.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6275892,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Decl&#xE1;rase Camino Nacional al camino p&#xFA;blico que se indica a continuaci&#xF3;n que forma parte de la Ruta 9, Paso Baguales-Puerto Natales-Punta Arenas-Fuerte Bulnes-San Juan, en su paso por ciudad de Punta Arenas, y que ocupa las siguientes v&#xED;as:</div><br><div class=\"p\">-&nbsp; &nbsp; La Avenida Presidente Carlos Ib&#xE1;&#xF1;ez del Campo en toda su extensi&#xF3;n, incluyendo la intersecci&#xF3;n con la Avenida Bulnes.<span class=\"n\" id=\"n_0\">DTO 35, OBRAS<br>N&#xBA;1, 1.2<br>D.O. 21.02.2006</span></div><div class=\"p\">-&nbsp; &nbsp; ELIMINADO</div><div class=\"p\">-&nbsp; &nbsp; ELIMINADO</div><div class=\"p\">&nbsp; &nbsp;  2.- Conf&#xED;rmase el Rol N&#xBA;9 a la Ruta Paso Baguales-Puerto Natales-Punta Arenas-Fuerte Bulnes-San Juan.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- DEROGA<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1048206&amp;idParte=9328559&amp;idVersion=2013-01-18\">Decreto 3263 EXENTO,<br>OBRAS P&#xDA;BLICAS<br>N&#xBA; 1<br>D.O. 18.01.2013</a></span>DO.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Conf&#xED;rmase el Rol N&#xBA;9 a la Ruta Paso Baguales-Puerto Natales-Punta Arenas-Fuerte Bulnes-San Juan.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1048206,
+      "fecha": "2013-01-18"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8368656,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Agr&#xE9;gase como letra f) al art&#xED;culo segundo del decreto supremo N&#xBA; 3.875 citado, lo siguiente: &quot;En conformidad a los criterios se&#xF1;alados, para el a&#xF1;o 2003 han sido seleccionadas para la ejecuci&#xF3;n del &quot;Fondo Nacional Concursable de Proyectos para el Programa de Comuna Segura, Compromiso Cien&quot; las siguientes comunas: Copiap&#xF3;, Ovalle, Valpara&#xED;so, San Pedro de la Paz, Coronel, Valdivia, Santiago, La Pintana, San Bernardo, Renca, Lo Espejo, El Bosque, Calama, San Antonio, Linares, Talca, Talcahuano, Melipilla, Cerro Navia, San Miguel, San Ram&#xF3;n, Estaci&#xF3;n Central, Pudahuel, Macul, Arica, Iquique, Coquimbo, Vi&#xF1;a del Mar, Concepci&#xF3;n, Temuco, Osorno, Lo Prado, La Granja, Maip&#xFA;, Colina, Huechuraba, Recoleta, Pe&#xF1;alol&#xE9;n, La Florida y Puente Alto. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Agr&#xE9;gase como letra f) al art&#xED;culo segundo del decreto supremo N&#xBA; 3.875 citado, lo siguiente: &quot;En conformidad a los criterios se&#xF1;alados,<span class=\"n\" id=\"n_0\">DTO 720, INTERIOR<br>Art. primero<br>D.O. 18.08.2003</span> para el a&#xF1;o 2003 han sido seleccionados para la ejecuci&#xF3;n del &quot;Fondo Nacional Concursable de Proyectos para el Programa de Comuna Segura, Compromiso Cien&quot; las siguientes comunas: Copiap&#xF3;, Ovalle, Valpara&#xED;so, San Pedro de la Paz, Coronel, Valdivia, Santiago, La Pintana, San Bernardo, Renca, Lo Espejo, El Bosque, Calama, San Antonio, Linares, Talca, Talcahuano, Melipilla, Cerro Navia, San Miguel, San Ram&#xF3;n, Estaci&#xF3;n Central, Pudahuel, Macul, Arica, Antofagasta, Coquimbo, Vi&#xF1;a del Mar, Concepci&#xF3;n, Temuco, Osorno, Lo Prado, La Granja, Maip&#xFA;, Colina, Huechuraba, Recoleta, Pe&#xF1;alol&#xE9;n, La Florida y Puente Alto. </div></div>"
+        }
+      ]
+    }
+  }
+]

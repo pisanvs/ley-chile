@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8266101,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; OFICIALIZA NOMINACION DE MIEMBROS DEL CONSEJO NACIONAL DE PESCA QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 913.- Santiago, 18 de diciembre de 1996.- Visto: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; el D.F.L. N&#xB0; 5, de 1983; la Ley N&#xB0; 18.892 y sus modificaciones cuyo texto refundido fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; los D.S. N&#xB0; 334, de 1992 y N&#xB0; 831, de 1996, ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el Oficio Gab.Pres. (R) N&#xB0; 1661, de fecha 9 de diciembre de 1996, del Presidente de la Rep&#xFA;blica a S.E. el se&#xF1;or Presidente del H. Senado; el Oficio N&#xB0; 10.580 de fecha 17 de diciembre de 1996 de la Presidencia del Senado a S.E. el Presidente de la Rep&#xFA;blica; la Ley N&#xB0; 10.336.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que el art&#xED;culo 146 de la Ley General de Pesca y Acuicultura dispone que el Presidente de la Rep&#xFA;blica deber&#xE1; oficializar la nominaci&#xF3;n definitiva de los miembros titulares y suplentes del Consejo Nacional de Pesca.</div><div class=\"p\">&nbsp; &nbsp; Que mediante D.S. N&#xB0; 831, de 1996, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, se oficializ&#xF3; dicha nominaci&#xF3;n, con excepci&#xF3;n de los consejeros se&#xF1;alados en el inciso 2&#xB0; N&#xB0; 4 del art&#xED;culo 146 de la Ley N&#xB0; 18.892, citada en Visto.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">OFICIALIZA NOMINACION DE MIEMBROS DEL CONSEJO NACIONAL DE PESCA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 913.- Santiago, 18 de diciembre de 1996.- Visto: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; el D.F.L. N&#xB0; 5, de 1983; la Ley N&#xB0; 18.892 y sus modificaciones cuyo texto refundido fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; los D.S. N&#xB0; 334, de 1992 y N&#xB0; 831, de 1996, ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el Oficio Gab.Pres. (R) N&#xB0; 1661, de fecha 9 de diciembre de 1996, del Presidente de la Rep&#xFA;blica a S.E. el se&#xF1;or Presidente del H. Senado; el Oficio N&#xB0; 10.580 de fecha 17 de diciembre de 1996 de la Presidencia del Senado a S.E. el Presidente de la Rep&#xFA;blica; la Ley N&#xB0; 10.336.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que el art&#xED;culo 146 de la Ley General de Pesca y Acuicultura dispone que el Presidente de la Rep&#xFA;blica deber&#xE1; oficializar la nominaci&#xF3;n definitiva de los miembros titulares y suplentes del Consejo Nacional de Pesca.</div><div class=\"p\">&nbsp; &nbsp; Que mediante D.S. N&#xB0; 831, de 1996, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, se oficializ&#xF3; dicha nominaci&#xF3;n, con excepci&#xF3;n de los consejeros se&#xF1;alados en el inciso 2&#xB0; N&#xB0; 4 del art&#xED;culo 146 de la Ley N&#xB0; 18.892, citada en Visto.</div><br><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

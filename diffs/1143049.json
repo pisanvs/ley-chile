@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-12-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10105429,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1) Prorr&#xF3;gase, a partir del 08.03.2020, por 9 meses o hasta la fecha de entrada en vigencia de la modificaci&#xF3;n del Plan Regulador Comunal de Hualp&#xE9;n en tr&#xE1;mite, siempre que no exceda de dicho lapso, el plazo de postergaci&#xF3;n de los permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, dispuesto por el <a href=\"https://www.leychile.cl/Navegar?idNorma=1139610&amp;idParte=&amp;idVersion=\">decreto alcaldicio N&#xBA; 1.418</a>, de la Municipalidad de Hualp&#xE9;n, del 21.10.2019, publicado en el Diario Oficial el 07.12.2019, respecto de las zonas singularizadas en el considerando N&#xBA; 3 del presente acto administrativo.</div><div class=\"p\">&nbsp; &nbsp;  2) Publ&#xED;quese el presente acto administrativo en el Diario Oficial y en el &quot;Diario Concepci&#xF3;n&quot;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1) Prorr&#xF3;gase, a partir del 08.03.2020, por 9 meses o hasta <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>la fecha de entrada en vigencia de la modificaci&#xF3;n del Plan Regulador Comunal de Hualp&#xE9;n en tr&#xE1;mite, siempre que no exceda de dicho lapso, el plazo de postergaci&#xF3;n de los permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, dispuesto por el decreto alcaldicio N&#xBA; 1.418, de la Municipalidad de Hualp&#xE9;n, del 21.10.2019, publicado en el Diario Oficial el 07.12.2019, respecto de las zonas singularizadas en el considerando N&#xBA; 3 del presente acto administrativo.</div><div class=\"p\">&nbsp; &nbsp;  2) Publ&#xED;quese el presente acto administrativo en el Diario Oficial y en el &quot;Diario Concepci&#xF3;n&quot;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 de la resoluci&#xF3;n 797 exenta, Vivienda, publicada el 07.12.2020, dispone el aumento, a partir del 09.12.2020, por 4 meses o hasta la fecha de entrada en vigencia del Plan Regulador Comunal de Hualp&#xE9;n en tr&#xE1;mite, siempre que no exceda de dicho lapso, de la pr&#xF3;rroga dispuesta por la presente resoluci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

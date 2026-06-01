@@ -1,0 +1,50 @@
+[
+  {
+    "fecha": "1996-03-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-01-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8948734,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;: El Bienestar podr&#xE1; otorgar los beneficios m&#xE9;dicos que establece el art&#xED;culo 15&#xB0; del Reglamento General, en la medida que sus recursos lo permitan, a los afiliados y sus cargas familiares. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;: El Bienestar podr&#xE1; otorgar los beneficios m&#xE9;dicos que establece el art&#xED;culo 15&#xB0; del Reglamento General, en la medida que sus recursos lo permitan, a los afiliados y sus cargas familiares.</div><div class=\"p\">&nbsp; &nbsp; El Bienestar podr&#xE1; financiar con cargo a sus<span class=\"n\" id=\"n_0\">DTO 65, TRABAJO<br>Art. &#xFA;nico<br>D.O. 11.01.2003</span> propios recursos, de acuerdo con sus disponibilidades presupuestarias, y contratar seguros de vida para sus afiliados, seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dicho seguro.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2017-12-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8948736,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;: Asimismo, el Bienestar podr&#xE1; otorgar las siguientes ayudas, dependiendo de sus disponibilidades presupuestarias, por las causales y de acuerdo a las modalidades que a continuaci&#xF3;n se indican:</div><div class=\"p\">&nbsp; &nbsp; a).- Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la ayuda se pagar&#xE1; a cada uno de ellos en forma independiente;</div><div class=\"p\">&nbsp; &nbsp; b).- Nacimiento: Cuando el afiliado compruebe con el instrumento p&#xFA;blico correspondiente, el nacimiento de un hijo suyo.</div><div class=\"p\">&nbsp; &nbsp; Si ambos padres fueran afiliados, el beneficio lo percibir&#xE1; la madre. En caso de nacimientos m&#xFA;ltiples, se otorgar&#xE1;n tantas ayudas como hijos nazcan;</div><div class=\"p\">&nbsp; &nbsp; c).- Fallecimiento: Se conceder&#xE1; una ayuda por el fallecimiento del afiliado y sus cargas familiares reconocidas incluido el mortinato, a partir del 5&#xB0; mes de gestaci&#xF3;n, y el fallecimiento del hijo reci&#xE9;n nacido que no hubiera sido a&#xFA;n reconocido como carga familiar.</div><div class=\"p\">&nbsp; &nbsp; En caso de fallecimiento del afiliado, esta ayuda se otorgar&#xE1; en el siguiente orden de precedencia:</div><div class=\"p\">&nbsp; &nbsp; 1).- A la persona designada expresamente para tales efectos por el afiliado;</div><div class=\"p\">&nbsp; &nbsp; 2).- Al c&#xF3;nyuge sobreviviente;</div><div class=\"p\">&nbsp; &nbsp; 3).- A los hijos leg&#xED;timos;</div><div class=\"p\">&nbsp; &nbsp; 4).- A los hijos naturales;</div><div class=\"p\">&nbsp; &nbsp; 5).- A los padres leg&#xED;timos;</div><div class=\"p\">&nbsp; &nbsp; 6).- A la persona que acredite haber efectuado los gastos del funeral.</div><div class=\"p\">&nbsp; &nbsp; Tambi&#xE9;n se otorgar&#xE1; una ayuda para adquisici&#xF3;n de nicho-b&#xF3;veda al funcionario afiliado que careciera de &#xE9;l y a sus cargas familiares reconocidas;</div><div class=\"p\">&nbsp; &nbsp; d).- Educaci&#xF3;n: El Bienestar conceder&#xE1; una asignaci&#xF3;n de escolaridad siempre que las disponibilidades presupuestarias lo permitan, una vez al a&#xF1;o, al afiliado y cargas que estudien regularmente en alg&#xFA;n establecimiento educacional del Estado o reconocido por &#xE9;ste;</div><div class=\"p\">&nbsp; &nbsp; e).- Becas Estudiantiles: Para cursar Ense&#xF1;anza Superior a los afiliados y a sus cargas familiares reconocidas;</div><div class=\"p\">&nbsp; &nbsp; f).- Incendio: Cuando el afiliado haya sufrido un grave perjuicio en su vivienda o haya perdido parte importante de los enseres que le guarnecen a causa de dicho siniestro, seg&#xFA;n calificaci&#xF3;n del Consejo Administrativo;</div><div class=\"p\">&nbsp; &nbsp; g).- Cat&#xE1;strofe: Que afecte a los enseres y/o vivienda del afiliado como consecuencia de terremoto, inundaciones u otras cat&#xE1;strofes y cuya gravedad sea verificada y cuantificada por el Consejo Administrativo;</div><div class=\"p\">&nbsp; &nbsp; h).- Ayuda M&#xE9;dica: En caso de enfermedad grave y tratamiento m&#xE9;dico prolongado de alto costo, calificado como tales por el Consejo Administrativo, se podr&#xE1; otorgar una ayuda econ&#xF3;mica complementaria de las prestaciones contempladas en el art&#xED;culo 9&#xB0;, e i).- Desgravamen: Al fallecimiento de un afiliado se entender&#xE1;n condonadas autom&#xE1;ticamente las deudas que tuviere pendientes con el Bienestar por concepto de pr&#xE9;stamos que &#xE9;ste le hubiere otorgado.</div><div class=\"p\">&nbsp; &nbsp; El monto de las ayudas a que se refiere este art&#xED;culo ser&#xE1; fijado por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Bienestar, no pudiendo exceder de dos ingresos m&#xED;nimos mensuales por ayuda.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;: Asimismo, el Bienestar podr&#xE1; otorgar las siguientes ayudas, dependiendo de sus disponibilidades presupuestarias, por las causales y de acuerdo a las modalidades que a continuaci&#xF3;n se indican:</div><div class=\"p\">&nbsp; &nbsp; a).- Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la ayuda se pagar&#xE1; a cada uno de ellos en forma independiente;</div><div class=\"p\">&nbsp; &nbsp; b).- Nacimiento: Cuando el afiliado compruebe con el instrumento p&#xFA;blico correspondiente, el nacimiento de un hijo suyo.</div><div class=\"p\">&nbsp; &nbsp; Si ambos padres fueran afiliados, el beneficio lo percibir&#xE1; la madre. En caso de nacimientos m&#xFA;ltiples, se otorgar&#xE1;n tantas ayudas como hijos nazcan;</div><div class=\"p\">&nbsp; &nbsp; c).- Fallecimiento: Se conceder&#xE1; una ayuda por el fallecimiento del afiliado y sus cargas familiares reconocidas incluido el mortinato, a partir del 5&#xB0; mes de gestaci&#xF3;n, y el fallecimiento del hijo reci&#xE9;n nacido que no hubiera sido a&#xFA;n reconocido como carga familiar.</div><div class=\"p\">&nbsp; &nbsp; En caso de fallecimiento del afiliado, esta ayuda se otorgar&#xE1; en el siguiente orden de precedencia:</div><div class=\"p\">&nbsp; &nbsp; 1).- A la persona designada expresamente para tales efectos por el afiliado;</div><div class=\"p\">&nbsp; &nbsp; 2).- Al c&#xF3;nyuge sobreviviente;</div><div class=\"p\">&nbsp; &nbsp; 3).- A los hijos leg&#xED;timos;</div><div class=\"p\">&nbsp; &nbsp; 4).- A los hijos naturales;</div><div class=\"p\">&nbsp; &nbsp; 5).- A los padres leg&#xED;timos;</div><div class=\"p\">&nbsp; &nbsp; 6).- A la persona que acredite haber efectuado los gastos del funeral.</div><div class=\"p\">&nbsp; &nbsp; Tambi&#xE9;n se otorgar&#xE1; una ayuda para adquisici&#xF3;n de nicho-b&#xF3;veda al funcionario afiliado que careciera de &#xE9;l y a sus cargas familiares reconocidas;</div><div class=\"p\">&nbsp; &nbsp; d).- Educaci&#xF3;n: El Bienestar conceder&#xE1; una asignaci&#xF3;n de escolaridad siempre que las disponibilidades presupuestarias lo permitan, una vez al a&#xF1;o, al afiliado y cargas que estudien regularmente en alg&#xFA;n establecimiento educacional del Estado o reconocido por &#xE9;ste;</div><div class=\"p\">&nbsp; &nbsp; e).- Becas Estudiantiles: Para cursar Ense&#xF1;anza Superior a los afiliados y a sus cargas familiares reconocidas;</div><div class=\"p\">&nbsp; &nbsp; f).- Incendio: Cuando el afiliado haya sufrido un grave perjuicio en su vivienda o haya perdido parte importante de los enseres que le guarnecen a causa de dicho siniestro, seg&#xFA;n calificaci&#xF3;n del Consejo Administrativo;</div><div class=\"p\">&nbsp; &nbsp; g).- Cat&#xE1;strofe: Que afecte a los enseres y/o vivienda del afiliado como consecuencia de terremoto, inundaciones u otras cat&#xE1;strofes y cuya gravedad sea verificada y cuantificada por el Consejo Administrativo;</div><div class=\"p\">&nbsp; &nbsp; h).- Ayuda M&#xE9;dica: En caso de enfermedad grave y tratamiento m&#xE9;dico prolongado de alto costo, calificado como tales por el Consejo Administrativo, se podr&#xE1; otorgar una ayuda econ&#xF3;mica complementaria de las prestaciones contempladas en el art&#xED;culo 9&#xB0;, e i).- Desgravamen: Al fallecimiento de un afiliado se entender&#xE1;n condonadas autom&#xE1;ticamente las deudas que tuviere pendientes con el Bienestar por concepto de pr&#xE9;stamos que &#xE9;ste le hubiere otorgado.</div><div class=\"p\">&nbsp; &nbsp; J)&nbsp;  Acuerdo <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1112357&amp;idParte=9865339&amp;idVersion=2017-12-14\">Decreto 204 EXENTO,<br>TRABAJO<br>Art. &#xDA;NICO<br>D.O. 14.12.2017</a></span>de Uni&#xF3;n Civil: Se conceder&#xE1; una ayuda a los afiliados que celebren el acuerdo de uni&#xF3;n civil. Si ambos estuvieren afiliados al servicio, cada uno de ellos tendr&#xE1; derecho a este beneficio.</div><div class=\"p\">&nbsp; &nbsp; El monto de las ayudas a que se refiere este art&#xED;culo ser&#xE1; fijado por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Bienestar, no pudiendo exceder de dos ingresos m&#xED;nimos mensuales por ayuda.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1112357,
+      "fecha": "2017-12-14"
+    }
+  },
+  {
+    "fecha": "2025-10-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

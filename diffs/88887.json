@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-01-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-10-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6080910,
+          "old": "<div><div class=\"p\">ESTABLECE OBLIGACION DE REMITIR EN CINTAS MAGNETICAS LA INFORMACION QUE DEBEN PROPORCIONAR LAS ADMINISTRADORAS DE FONDOS MUTUOS CONFORME AL ART. 19 DEL DL No. 1.328, DE 1976 </div><div class=\"p\">Santiago, 18 de Enero de 1991.- Hoy se ha resuelto lo que sigue:</div><div class=\"p\">N&#xFA;m. 344 exenta.- Vistos: Las facultades contempladas en el art&#xED;culo 6&#xB0; letra A), No. 1, del C&#xF3;digo Tributario, contenido en el art&#xED;culo 1&#xB0; del Decreto Ley No. 830, de 1974, y</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">1&#xB0;.- Que el art&#xED;culo 19 del Decreto Ley No. 1.328, de 1976, establece la obligaci&#xF3;n de las Administradoras de Fondos Mutuos de remitir al Servicio de Impuestos Internos, antes del 31 de marzo de cada a&#xF1;o, la n&#xF3;mina de inversiones y rescates realizados por los part&#xED;cipes de los fondos durante el a&#xF1;o calendario anterior, y</div><div class=\"p\">2&#xB0;.- Que con el objeto de uniformar y simplificar el procedimiento operacional, se estima necesario establecer la forma y modo en que la informaci&#xF3;n debe remitirse por las Administradoras de Fondos Mutuos,</div><br><div class=\"p\">Se Resuelve:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE OBLIGACION DE REMITIR EN CINTAS MAGNETICAS LA INFORMACION QUE DEBEN PROPORCIONAR LAS ADMINISTRADORAS DE FONDOS MUTUOS CONFORME AL ART. 19 DEL DL No. 1.328, DE 1976 </div><div class=\"p\">Santiago, 18 de Enero de 1991.- Hoy se ha resuelto lo que sigue:</div><div class=\"p\">N&#xFA;m. 344 exenta.- Vistos: Las facultades contempladas en el art&#xED;culo 6&#xB0; letra A), No. 1, del C&#xF3;digo Tributario, contenido en el art&#xED;culo 1&#xB0; del Decreto Ley No. 830, de 1974, y</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">1&#xB0;.- Que el art&#xED;culo 19 del Decreto Ley No. 1.328, de 1976, establece la obligaci&#xF3;n de las Administradoras de Fondos Mutuos de remitir al Servicio de Impuestos Internos, antes del 31 de marzo de cada a&#xF1;o, la n&#xF3;mina de inversiones y rescates realizados por los part&#xED;cipes de los fondos durante el a&#xF1;o calendario anterior, y</div><div class=\"p\">2&#xB0;.- Que con el objeto de uniformar y simplificar el procedimiento operacional, se estima necesario establecer la forma y modo en que la informaci&#xF3;n debe remitirse por las Administradoras de Fondos Mutuos,</div><br><div class=\"p\">Se Resuelve:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

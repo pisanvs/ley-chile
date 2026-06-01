@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-11-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7299617,
+          "old": "<div><div class=\"p\">AUTORIZA A DON OSCAR RAUL HUMBERTO ASTORGA VIGNOLA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON OSCAR RAUL HUMBERTO ASTORGA VIGNOLA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

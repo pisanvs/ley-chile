@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-10-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9047081,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS SOBRE LOS EFECTOS DE LAS SENTENCIAS DEL TRIBUNAL CONSTITUCIONAL EN LAS MATERIAS QUE INDICA La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente:</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS SOBRE LOS EFECTOS DE LAS SENTENCIAS DEL TRIBUNAL CONSTITUCIONAL EN LAS MATERIAS QUE INDICA D E R O G A D A.-<span class=\"n\" id=\"n_0\">LEY 19048<br>Art. 1&#xB0;</span></div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente:</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 1&#xB0; de la Ley N&#xB0; 19.048, publicada en el &quot;Diario Oficial&quot; de 13 de febrero de 1991, derog&#xF3; la presente ley.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El texto de esta ley derogada se encuentra en una cinta de normas derogadas BDTO.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

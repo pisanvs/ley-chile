@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-03-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-10-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7281719,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 8.614 EXENTA, DE 2000 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 8.614 EXENTA, DE 2000 </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

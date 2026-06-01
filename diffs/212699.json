@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2003-07-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-11-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6432435,
+          "old": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A DON JORGE ALBERTO ASPILLAGA FUENZALIDA </div></div>",
+          "new": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A DON JORGE ALBERTO ASPILLAGA FUENZALIDA</div><br><br></div>"
+        },
+        {
+          "part_id": 6432436,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; La D&#xE9;cima Direcci&#xF3;n Regional Puerto Montt del Servicio de Impuestos Internos, por resoluci&#xF3;n N&#xBA; Ex. 361 de fecha 19 de mayo de 2003, otorga, a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n, a don Jorge Alberto Aspillaga Fuenzalida, RUT N&#xBA; 3.424.808-6, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las operaciones de ganado vivo, establecido en la resoluci&#xF3;n N&#xBA; Ex. 3.721/2000 de la Direcci&#xF3;n Nacional, publicada en el Diario Oficial del d&#xED;a 01.08.2000.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  La D&#xE9;cima Direcci&#xF3;n Regional Puerto Montt del Servicio de Impuestos Internos, por resoluci&#xF3;n N&#xBA; Ex. 361 de fecha 19 de mayo de 2003, otorga, a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n, a don Jorge Alberto Aspillaga Fuenzalida, RUT N&#xBA; 3.424.803-6,<span class=\"n\" id=\"n_0\">CER 31,<br>HACIENDA<br>D.O. 12.11.2003</span> la calidad de Agente Retenedor del Impuesto al Valor Agregado en las operaciones de ganado vivo, establecido en la resoluci&#xF3;n N&#xBA; Ex. 3.721/2000 de la Direcci&#xF3;n Nacional, publicada en el Diario Oficial del d&#xED;a 01.08.2000.- </div></div>"
+        }
+      ]
+    }
+  }
+]

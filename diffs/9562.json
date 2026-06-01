@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1994-04-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-02-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1996-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9039049,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;: F&#xED;jase, a contar desde esta fecha, el siguiente orden de subrogancia para el cargo de Subsecretario de Educaci&#xF3;n, en caso de que &#xE9;ste no est&#xE9; desempe&#xF1;ando efectivamente el cargo, y en este orden:</div><div class=\"p\"> 1&#xB0;.- Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General;</div><div class=\"p\"> 2&#xB0;.- Jefe de la Divisi&#xF3;n de Educaci&#xF3;n Superior;</div><div class=\"p\"> 3&#xB0;.- Jefe de la Divisi&#xF3;n de Planificaci&#xF3;n y Presupuestos;</div><div class=\"p\"> 4&#xB0;.- Jefe de la Divisi&#xF3;n de Extensi&#xF3;n Cultural. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;: F&#xED;jase, a contar desde esta fecha, el siguiente orden de subrogancia para el cargo de Subsecretario de Educaci&#xF3;n, en caso de que &#xE9;ste no est&#xE9; desempe&#xF1;ando efectivamente el cargo, y en este orden:</div><div class=\"p\">&nbsp; 1&#xB0;.- Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General;</div><div class=\"p\">&nbsp; 2&#xB0;.- Jefe de la Divisi&#xF3;n de Educaci&#xF3;n Superior;</div><div class=\"p\"> 3&#xB0;.- Jefe de la Divisi&#xF3;n de Planificaci&#xF3;n y Presupuestos;</div><div class=\"p\">&nbsp; 4&#xB0;.- Jefe de la Divisi&#xF3;n de Extensi&#xF3;n Cultural.</div><div class=\"p\">&nbsp; 5&#xB0;.- Jefe del Departamento Jur&#xED;dico.<span class=\"n\" id=\"n_0\">DS 55 Ex.<br>EDUC.,1996<br>Art. 1&#xB0;</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

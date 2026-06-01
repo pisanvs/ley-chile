@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-08-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-06-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8471100,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA SAN JOSE DE COQUIMBO S.A. PARA INICIAR ACTIVIDADES PESQUERAS Y DEROGA PARCIALMENTE DECRETO No. 629, DE 1976, DEL MINISTERIO DE AGRICULTURA Y RESOLUCIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA SAN JOSE DE COQUIMBO S.A. PARA INICIAR ACTIVIDADES PESQUERAS Y DEROGA PARCIALMENTE DECRETO No. 629, DE 1976, DEL MINISTERIO DE AGRICULTURA Y RESOLUCIONES QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

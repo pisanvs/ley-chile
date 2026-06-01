@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-02-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-02-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6389605,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xB0; 3.023, DE 1988 </div><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xB0; 3.023, DE 1988 </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

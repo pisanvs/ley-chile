@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-05-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-02-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8517769,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- A partir del 1 de febrero de 1998, los valores de las horas se&#xF1;aladas en el art&#xED;culo anterior, vigentes al 31 de enero de 1998, aumentar&#xE1;n en $236.- y $249.-, respectivamente, incremento que operar&#xE1; independientemente de los reajustes generales de remuneraciones que se establezcan para el sector p&#xFA;blico o de los aumentos que experimente la unidad de subvenci&#xF3;n educacional (USE) en virtud de leyes especiales.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

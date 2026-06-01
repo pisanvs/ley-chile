@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-11-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-09-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8335119,
+          "old": "<div><div class=\"p\">&nbsp; AUTORIZA A PESQUERA LANGEVELD LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; AUTORIZA A PESQUERA LANGEVELD LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-02-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-02-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201162,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 147 exenta.- Santiago, febrero 02 de 1994.- Vistos: El D.F.L. N&#xB0; 10, de 1981, y el art&#xED;culo N&#xB0; 5 del Decreto N&#xB0; 43 de 1994, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de fijar tarifas a las prestaciones postales complementarias; la Resoluci&#xF3;n Exenta N&#xB0; 74 de 1993 y sus modificaciones, todas de esta Empresa de Correos de Chile; y Acuerdo N&#xB0; 82/93 del 30 de diciembre de 1993, del Directorio de la Empresa; la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y, en uso de las atribuciones que me confieren las Resoluciones N&#xB0; 453 de 1985 y N&#xB0; 33 de 1993, ambas de la Empresa de Correos de Chile, vengo en dictar la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Resuluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 147 exenta.- Santiago, febrero 02 de 1994.- Vistos: El D.F.L. N&#xB0; 10, de 1981, y el art&#xED;culo N&#xB0; 5 del Decreto N&#xB0; 43 de 1994, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de fijar tarifas a las prestaciones postales complementarias; la Resoluci&#xF3;n Exenta N&#xB0; 74 de 1993 y sus modificaciones, todas de esta Empresa de Correos de Chile; y Acuerdo N&#xB0; 82/93 del 30 de diciembre de 1993, del Directorio de la Empresa; la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y, en uso de las atribuciones que me confieren las Resoluciones N&#xB0; 453 de 1985 y N&#xB0; 33 de 1993, ambas de la Empresa de Correos de Chile, vengo en dictar la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Resuluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

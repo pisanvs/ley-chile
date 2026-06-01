@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-07-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8263809,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA USO PRIVATIVO&apos; DE VEHICULO QUE INDICA Santiago, 27 de Junio de 1991.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 556.- Visto: Lo solicitado por el Sr. Alcalde de la I. Municipalidad de Las Condes en Oficio Alcaldicio N&#xB0; 10/695, 24 de Abril de 1991; lo previsto en el art&#xED;culo 2&#xB0; del Decreto Ley N&#xB0; 799, de 1974, y lo instruido en Oficio Circular N&#xB0; 9.277, de 06 de Febrero de 1975, de la Contralor&#xED;a General de la Rep&#xFA;blica, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA USO PRIVATIVO&apos; DE VEHICULO QUE INDICA </div><div class=\"p\">&nbsp; &nbsp; Santiago, 27 de Junio de 1991.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 556.- Visto: Lo solicitado por el Sr. Alcalde de la I. Municipalidad de Las Condes en Oficio Alcaldicio N&#xB0; 10/695, 24 de Abril de 1991; lo previsto en el art&#xED;culo 2&#xB0; del Decreto Ley N&#xB0; 799, de 1974, y lo instruido en Oficio Circular N&#xB0; 9.277, de 06 de Febrero de 1975, de la Contralor&#xED;a General de la Rep&#xFA;blica, </div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

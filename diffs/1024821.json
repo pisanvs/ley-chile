@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-04-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-04-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9135257,
+          "old": "<div><div class=\"p\">LEY N&#xDA;M. 20.503</div><br><div class=\"p\">REFORMA CONSTITUCIONAL RELATIVO A LA SUPERVIGILANCIA Y CONTROL DE ARMAS</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente que el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente proyecto de ley, iniciado en una Moci&#xF3;n de la Diputada se&#xF1;ora Soledad Alvear Valenzuela y se&#xF1;ores Jorge Pizarro Soto y Hosa&#xED;n Sabag Castillo.</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de Reforma Constitucional:</div></div>",
+          "new": "<div><div class=\"p\">LEY N&#xDA;M. 20.503</div><br><div class=\"p\">REFORMA CONSTITUCIONAL RELATIVO A LA SUPERVIGILANCIA Y CONTROL DE ARMAS</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente que el H. Congreso ha dado su aprobaci&#xF3;n<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1024871&amp;idParte=9135657&amp;idVersion=2011-04-29\">Resoluci&#xF3;n 34, SEC.GRAL.PRES.<br>Art. UNICO<br>D.O. 29.04.2011</a></span> a la siguiente reforma constitucional, iniciada en una Moci&#xF3;n de los Honorables Senadores se&#xF1;ora Soledad Alvear Valenzuela y se&#xF1;ores Jorge Pizarro Soto y Hosa&#xED;n Sabag Castillo.</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de Reforma Constitucional:</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1024871,
+      "fecha": "2011-04-29"
+    }
+  }
+]

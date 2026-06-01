@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-09-02",
+    "tipo_version_s": "Única",
+    "diff": null
+  },
+  {
+    "fecha": "2026-09-17",
+    "tipo_version_s": "Con Vigencia Diferida por Fecha",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6149104,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile, las normas t&#xE9;cnicas que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  a) NCh 1980 Of. 88 Acondicionamiento t&#xE9;rmico - Aislaci&#xF3;n t&#xE9;rmica - Determinaci&#xF3;n de la ocurrencia de condensaciones intersticiales.</div><div class=\"p\">&nbsp; &nbsp;  b) Modificaci&#xF3;n que se incorpora a la norma NCh 1989 Of. 86 Madera - Agrupamiento de especies madereras seg&#xFA;n su resistencia - Procedimiento, declarada Norma Oficial de la Rep&#xFA;blica por DS No. 212, (V. y U.), de 1986.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- A contar de la fecha de publicaci&#xF3;n del presente decreto, la norma individualizada en la letra b) del n&#xFA;mero anterior se denominar&#xE1; como sigue:</div><div class=\"p\">&nbsp; &nbsp;  NCh 1989 Of 86 Madera Agrupamiento de especies madereras seg&#xFA;n su resistencia Procedimiento.</div><div class=\"p\">&nbsp; &nbsp;  Modificada en 1988.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xB0;.- Corresponder&#xE1; al expresado Instituto Nacional de Normalizaci&#xF3;n publicar una minuta del presente decreto en el Diario Oficial y el texto &#xED;ntegro de estas normas en documentos oficiales del mencionado Instituto.</div><br><div class=\"p\">&nbsp; &nbsp;  4&#xB0;.- El Instituto Nacional de Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de estas normas debidamente certificada su conformidad con el texto oficial, a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionar&#xE1; gratuitamente el mismo n&#xFA;mero de ejemplares al Ministerio que las declara normas oficiales de la Rep&#xFA;blica. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile, las normas t&#xE9;cnicas que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  a) NCh 1980 Of. 88 Acondicionamiento t&#xE9;rmico - Aislaci&#xF3;n t&#xE9;rmica - Determinaci&#xF3;n de la ocurrencia de condensaciones intersticiales.</div><div class=\"p\">&nbsp; &nbsp;  b) Modificaci&#xF3;n que se incorpora a la norma NCh 1989 Of. 86 Derogada<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1222321&amp;idParte=10587694&amp;idVersion=2026-03-16\">Decreto 13 EXENTO,<br>VIVIENDA<br>N&#xB0; 5<br>D.O. 16.03.2026</a></span>. </div><br><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- A contar de la fecha de publicaci&#xF3;n del presente decreto, la norma individualizada en la letra b) del n&#xFA;mero anterior se denominar&#xE1; como sigue:</div><div class=\"p\">&nbsp; &nbsp;  NCh 1989 Of 86 Madera Agrupamiento de especies madereras seg&#xFA;n su resistencia Procedimiento.</div><div class=\"p\">&nbsp; &nbsp;  Modificada en 1988.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xB0;.- Corresponder&#xE1; al expresado Instituto Nacional de Normalizaci&#xF3;n publicar una minuta del presente decreto en el Diario Oficial y el texto &#xED;ntegro de estas normas en documentos oficiales del mencionado Instituto.</div><br><div class=\"p\">&nbsp; &nbsp;  4&#xB0;.- El Instituto Nacional de Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de estas normas debidamente certificada su conformidad con el texto oficial, a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionar&#xE1; gratuitamente el mismo n&#xFA;mero de ejemplares al Ministerio que las declara normas oficiales de la Rep&#xFA;blica. </div></div>"
+        }
+      ]
+    }
+  }
+]

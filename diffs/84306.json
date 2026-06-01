@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-01-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-10-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316075,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA EDEN LIMITADA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA EDEN LIMITADA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

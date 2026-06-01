@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-09-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-05-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6205517,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Octavo: Toda infracci&#xF3;n a las normas del presente decreto se sancionar&#xE1; por el Servicio Agr&#xED;cola y Ganadero con una multa de hasta 3 sueldos vitales anuales de la Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp;  En caso de reincidencia dentro de dos a&#xF1;os se aplicar&#xE1; la multa antes se&#xF1;alada. Asimismo, el Servicio Agr&#xED;cola y Ganadero podr&#xE1; disponer que los pies o individuos de la especie ilegalmente explotada, comercializada o transportada, o de sus productos, y de los medios o elementos que hubieren servido para efectuar la corta o explotaci&#xF3;n sean trasladados a sus dep&#xF3;sitos o al lugar que el Director Ejecutivo designe.</div><div class=\"p\">&nbsp; &nbsp;  Las sanciones se&#xF1;aladas en el presente decreto se impondr&#xE1;n en conformidad al procedimiento establecido en los art&#xED;culos 236 y siguientes de la ley N&#xBA; 16.640. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Octavo: Las infracciones al presente decreto se<span class=\"n\" id=\"n_0\">DTO 161 EXENTO,<br>AGRICULTURA<br>Art. &#xFA;nico<br>D.O. 08.05.2003</span> sancionar&#xE1;n con las penas y conforme al procedimiento establecido en el decreto ley N&#xBA; 701, de 1974, y en sus reglamentos complementarios.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

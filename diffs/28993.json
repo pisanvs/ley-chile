@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1971-02-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-01-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5981614,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico.- En los juicios especiales del contrato de arrendamiento o de comodato precario, el Juez de la causa podr&#xE1;, de oficio o a petici&#xF3;n de parte, suspender por resoluci&#xF3;n fundada y hasta por un a&#xF1;o, el lanzamiento, cuando &#xE9;ste pueda causar un manifiesto y grave problema social.</div><div class=\"p\">&nbsp; &nbsp; Para resolver, el Juez requerir&#xE1; informe a la Direcci&#xF3;n de Asistencia Social, la que deber&#xE1; evacuarlo dentro del plazo de diez d&#xED;as. En aquellos departamentos en que no existiere representaci&#xF3;n de la Direcci&#xF3;n de Asistencia Social, el informe deber&#xE1; evacuarlo la Asistente Social del Servicio Nacional de Salud o de otra representaci&#xF3;n p&#xFA;blica que el Intendente o Gobernador designe.</div><div class=\"p\">&nbsp; &nbsp; El Juez deber&#xE1; pronunciarse dentro del t&#xE9;rmino de treinta d&#xED;as, contado desde la presentaci&#xF3;n de la solicitud respectiva, aun cuando no se haya evacuado el informe antes se&#xF1;alado, y su resoluci&#xF3;n ser&#xE1; inapelable.</div><div class=\"p\">&nbsp; &nbsp; La forma oportuna y diligente en que se cumpla el cometido a que se refiere el inciso segundo, o su incumplimiento, ser&#xE1; apreciada especialmente para la calificaci&#xF3;n funcionaria de la Asistente Social a quien se hubiere confiado. En caso de incumplimiento el Juez podr&#xE1;, adem&#xE1;s, hacer uso de las facultades que le otorga el art&#xED;culo 238 del C&#xF3;digo de Procedimiento Civil.&quot;. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- DEROGAD<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=29526&amp;idParte=7180827&amp;idVersion=1982-01-29\">LEY 18101<br>Art. 26<br>D.O. 29.01.1982</a></span>O.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 29526,
+      "fecha": "1982-01-29"
+    }
+  }
+]

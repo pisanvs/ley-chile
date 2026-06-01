@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-02-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6055752,
+          "old": "<div><div class=\"p\">AUTORIZA EXCEPCIONARSE DEL CAMBIO DE SUJETO DEL IVA A COMERCIAL, INDUSTRIAL Y AGRICOLA COINAGRA S.A.</div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">N&#xFA;m. 648.- Talca, 30 de Enero de 1992.- Vistos: La solicitud de fecha 07 de Enero de 1992, presentada por el contribuyente individualizado anteriormente, por la que pide excepcionarse del cambio de sujeto del IVA, dispuesto en la Resoluci&#xF3;n N&#xBA; Ex. 3381, de 05.11.91, responsabiliz&#xE1;ndose del cumplimiento tributario respectivo el informe favorable del Depto. Regional de Fiscalizaci&#xF3;n N&#xBA; 5 del 22.01.92 que rola en autos.</div><div class=\"p\">Las disposiciones legales y reglamentarias e instrucciones vigentes sobre la materia y las facultades establecidas en el art&#xED;culo 6&#xB0;, letra B), N&#xBA; 5, del C&#xF3;digo Tributario, y el uso de las facultades delegadas en el N&#xBA; 8 de la Resoluci&#xF3;n N&#xBA; Ex. 3381 de 1991.</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">1&#xB0;) Que, en el presente caso, los argumentos, fundamentaciones y antecedentes proporcionados por el interesado en su solicitud, han sido estimados atendibles por esta Direcci&#xF3;n Regional y adem&#xE1;s cumple los requisitos y exigencias se&#xF1;alados en el N&#xBA; 2, de la Resoluci&#xF3;n N&#xBA; Ex. 2301, de la Direcci&#xF3;n Regional, publicada en el Diario Oficial de 20 de Octubre de 1986;</div><br><div class=\"p\">Se Resuelve:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA EXCEPCIONARSE DEL CAMBIO DE SUJETO DEL IVA A COMERCIAL, INDUSTRIAL Y AGRICOLA COINAGRA S.A.</div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">N&#xFA;m. 648.- Talca, 30 de Enero de 1992.- Vistos: La solicitud de fecha 07 de Enero de 1992, presentada por el contribuyente individualizado anteriormente, por la que pide excepcionarse del cambio de sujeto del IVA, dispuesto en la Resoluci&#xF3;n N&#xBA; Ex. 3381, de 05.11.91, responsabiliz&#xE1;ndose del cumplimiento tributario respectivo el informe favorable del Depto. Regional de Fiscalizaci&#xF3;n N&#xBA; 5 del 22.01.92 que rola en autos.</div><div class=\"p\">Las disposiciones legales y reglamentarias e instrucciones vigentes sobre la materia y las facultades establecidas en el art&#xED;culo 6&#xB0;, letra B), N&#xBA; 5, del C&#xF3;digo Tributario, y el uso de las facultades delegadas en el N&#xBA; 8 de la Resoluci&#xF3;n N&#xBA; Ex. 3381 de 1991.</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">1&#xB0;) Que, en el presente caso, los argumentos, fundamentaciones y antecedentes proporcionados por el interesado en su solicitud, han sido estimados atendibles por esta Direcci&#xF3;n Regional y adem&#xE1;s cumple los requisitos y exigencias se&#xF1;alados en el N&#xBA; 2, de la Resoluci&#xF3;n N&#xBA; Ex. 2301, de la Direcci&#xF3;n Regional, publicada en el Diario Oficial de 20 de Octubre de 1986;</div><br><div class=\"p\">Se Resuelve:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

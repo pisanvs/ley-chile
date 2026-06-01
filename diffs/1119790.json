@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-06-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-08-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9923730,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnese a contar del 12 de marzo de 2018, a don Gerardo Sanz de Undurraga, c&#xE9;dula de identidad n&#xFA;mero 17.083.680-4, funcionario a contrata, asimilado a grado 2&#xB0; EUS, en su calidad de Jefe de Gabinete del Subsecretario de Econom&#xED;a y Empresas de Menor Tama&#xF1;o las siguientes facultades directivas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Realizar, notificar y firmar el primer y segundo Informe de Desempe&#xF1;o y la Precalificaci&#xF3;n de los funcionarios que dependan directamente del Subsecretario de Econom&#xED;a y Empresas de Menor Tama&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  2. Autorizar sus cometidos funcionarios, permisos facultativos, feriado legal, programaci&#xF3;n y confirmaci&#xF3;n de horas extraordinarias de los funcionarios que dependan directamente del Subsecretario de Econom&#xED;a y Empresas de Menor Tama&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  3. Firmar la solicitud de contrataci&#xF3;n de personal que se desempe&#xF1;ar&#xE1; bajo dependencia directa del Subsecretario de Econom&#xED;a y Empresas de Menor Tama&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  4. Aprobar la adquisici&#xF3;n de bienes y la contrataci&#xF3;n de servicios contratados por esta Subsecretar&#xED;a, incluyendo los informes correspondientes a las consultor&#xED;as, previo visto bueno de la Contraparte T&#xE9;cnica, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  5. Autorizar los cometidos funcionarios que no cumplan con el plazo de tramitaci&#xF3;n establecido en el Oficio Presidencial N&#xBA; 2, sobre austeridad y eficiencia en el uso de los recursos p&#xFA;blicos, de fecha 4 de abril de 2018.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnese a contar del 12 de marzo de 2018, a don Gerardo Sanz de Undurraga, c&#xE9;dula de identidad n&#xFA;mero 17.083.680-4, funcionario a contrata, asimilado a grado 2&#xB0; EUS, en su calidad de Jefe de Gabinete del Subsecretario de Econom&#xED;a y Empresas de Menor Tama&#xF1;o las siguientes facultades directivas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Realizar, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1123881&amp;idParte=9954862&amp;idVersion=2018-10-12\">Resoluci&#xF3;n 2956 EXENTA,<br>ECONOM&#xCD;A<br>Art. primero<br>D.O. 12.10.2018</a></span>notificar y firmar el primer y segundo Informe de Desempe&#xF1;o y la Precalificaci&#xF3;n de los funcionarios que dependan directamente del Subsecretario de Econom&#xED;a y Empresas de Menor Tama&#xF1;o y de los funcionarios de la Unidad de Auditor&#xED;a Interna y Unidad de Control de Gesti&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. Autorizar sus cometidos funcionarios, permisos facultativos, feriado legal, programaci&#xF3;n y confirmaci&#xF3;n de horas extraordinarias de los funcionarios que dependan directamente del Subsecretario de Econom&#xED;a y Empresas de Menor Tama&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  3. Firmar la solicitud de contrataci&#xF3;n de personal que se desempe&#xF1;ar&#xE1; bajo dependencia directa del Subsecretario de Econom&#xED;a y Empresas de Menor Tama&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  4. Aprobar la adquisici&#xF3;n de bienes y la contrataci&#xF3;n de servicios contratados por esta Subsecretar&#xED;a, incluyendo los informes correspondientes a las consultor&#xED;as, previo visto bueno de la Contraparte T&#xE9;cnica, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  5. Autorizar los cometidos funcionarios que no cumplan con el plazo de tramitaci&#xF3;n establecido en el Oficio Presidencial N&#xBA; 2, sobre austeridad y eficiencia en el uso de los recursos p&#xFA;blicos, de fecha 4 de abril de 2018.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

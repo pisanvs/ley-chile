@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-03-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-10-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10316668,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base la circulaci&#xF3;n de veh&#xED;culos destinados a la carga, de m&#xE1;s de dos ejes, en Av. Calera de Tango (ruta G 34 Nos Malloco), entre Camino Lonqu&#xE9;n (Ruta G30) y Camino Catemito-Alfonso Ruiz Tagle, entre las 7:00 y las 9:00 horas y entre las 17:30 y las 20:00 horas.</div><div class=\"p\">&nbsp; &nbsp;  2.- Se excluir&#xE1;n de la aplicaci&#xF3;n de la referida prohibici&#xF3;n, los siguientes veh&#xED;culos:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Veh&#xED;culos de emergencia.</div><div class=\"p\">&nbsp; &nbsp;  b) Veh&#xED;culos cuyo origen o destino comprenda faenas y/o establecimientos situados dentro del tramo de la prohibici&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  c) Veh&#xED;culos destinados o autorizados exclusivamente por el municipio para realizar labores de aseo de bienes nacionales de uso p&#xFA;blico y/o extracci&#xF3;n y transporte de residuos s&#xF3;lidos domiciliarios.</div><div class=\"p\">&nbsp; &nbsp;  d) Camiones tipo aljibe.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  3.- La Direcci&#xF3;n Regional de Vialidad del Ministerio de Obras P&#xFA;blicas dispondr&#xE1; de las se&#xF1;alizaciones informativas y de tr&#xE1;nsito respectivas.</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente medida ser&#xE1; monitoreada en forma peri&#xF3;dica para evaluar, en conjunto con la antes referida Direcci&#xF3;n Regional y el municipio respectivo, su continuidad y/o mejora.</div><div class=\"p\">&nbsp; &nbsp;  5.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N&#xB0;1, de 2007, citado en Vistos.</div><div class=\"p\">&nbsp; &nbsp;  6.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia desde la fecha de su publicaci&#xF3;n en el Diario Oficial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base la circulaci&#xF3;n de veh&#xED;culos destinados a la carga, de m&#xE1;s de dos ejes, en Av. Calera de Tango (ruta G 34 Nos Malloco), entre Camino Lonqu&#xE9;n (Ruta G30) y Camino Catemito-Alfonso Ruiz Tagle, entre las 7:00 y las 9:00 horas y entre las 17:30 y las 20:00 horas.</div><div class=\"p\">&nbsp; &nbsp;  2.- Se excluir&#xE1;n de la aplicaci&#xF3;n de la referida prohibici&#xF3;n, los siguientes veh&#xED;culos:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Veh&#xED;culos de emergencia.</div><div class=\"p\">&nbsp; &nbsp;  b) Veh&#xED;culos cuyo origen o destino comprenda faenas y/o establecimientos situados dentro del tramo de la prohibici&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  c) Veh&#xED;culos destinados o autorizados exclusivamente por el municipio para realizar labores de aseo de bienes nacionales de uso p&#xFA;blico y/o extracci&#xF3;n y transporte de residuos s&#xF3;lidos domiciliarios.</div><div class=\"p\">&nbsp; &nbsp;  d) Camiones tipo aljibe.</div><div class=\"p\">&nbsp; &nbsp;  e)<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1207711&amp;idParte=10521135&amp;idVersion=2024-10-24\">Resoluci&#xF3;n 4892 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 24.10.2024</a></span> Veh&#xED;culos de responsabilidad de residentes.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  3.- La Direcci&#xF3;n Regional de Vialidad del Ministerio de Obras P&#xFA;blicas dispondr&#xE1; de las se&#xF1;alizaciones informativas y de tr&#xE1;nsito respectivas.</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente medida ser&#xE1; monitoreada en forma peri&#xF3;dica para evaluar, en conjunto con la antes referida Direcci&#xF3;n Regional y el municipio respectivo, su continuidad y/o mejora.</div><div class=\"p\">&nbsp; &nbsp;  5.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N&#xB0;1, de 2007, citado en Vistos.</div><div class=\"p\">&nbsp; &nbsp;  6.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia desde la fecha de su publicaci&#xF3;n en el Diario Oficial.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1207711,
+      "fecha": "2024-10-24"
+    }
+  }
+]

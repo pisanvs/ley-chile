@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1997-05-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-05-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7206518,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Primero:&nbsp; Autor&#xED;zase la caza de liebre europea (Lepus capensis), en la Regi&#xF3;n de Ays&#xE9;n, y la caza de liebre europea (Lepus capensis) y conejo europeo (Oryctolagus cuniculus) en la XII Regi&#xF3;n, en y desde caminos p&#xFA;blicos.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1001782&amp;idParte=8586429&amp;idVersion=2009-05-04\">Resolucion 2254 EXENTA,<br>ARGRICULTURA<br>D.O. 04.05.2009</a></span>&nbsp; &nbsp;  Primero:&nbsp; Autor&#xED;zase la caza de liebre europea (Lepus capensis), en la Regi&#xF3;n de Ays&#xE9;n del Gral. Carlos Ib&#xE1;&#xF1;ez del Campo, y la caza de liebre europea (Lepus capensis) y conejo europeo (Oryctolagus cuniculus) en la Regi&#xF3;n de Magallanes y la Ant&#xE1;rtica Chilena, con fines de control poblacional, en y desde caminos p&#xFA;blicos, excepto en el camino o Ruta X 83, R&#xED;o Chacabuco Paso Roballos, ubicado en la Provincia Capit&#xE1;n Prat, Regi&#xF3;n de Ays&#xE9;n del Gral. Carlos Ib&#xE1;&#xF1;ez del Campo, desde el cruce con Carretera Austral o Ruta 7, Entrada Baker, Paso Roballos (Frontera).</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1001782,
+      "fecha": "2009-05-04"
+    }
+  }
+]

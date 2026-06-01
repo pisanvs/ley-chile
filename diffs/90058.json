@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-06-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-05-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7224685,
+          "old": "<div><div class=\"p\">COMPLEMENTA RESOLUCION No.985 DEL 30.07.88 SOBRE INTERNACION EN TRANSITO DE PRODUCTOS VEGETALES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 15 de Mayo de 1990.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 727 exenta.- Visto: El Decreto Ley No.3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, publicado en el Diario Oficial del 09.02.81, lo dispuesto en la Resoluci&#xF3;n No.350 de 10.02.81 y No.985 expedidas por el Servicio Agr&#xED;cola y Ganadero y,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que el ingreso en tr&#xE1;nsito por territorio nacional de mercader&#xED;as peligrosas para los vegetales de origen extranjero destinadas a un tercer pa&#xED;s, representa un alto riesgo de contaminaci&#xF3;n para la agricultura nacional;</div><div class=\"p\">&nbsp; &nbsp;  - Que los productos en tr&#xE1;nsito pueden movilizar plagas agr&#xED;colas de car&#xE1;cter cuarentenario para el pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp;  - Que las mercader&#xED;as que ingresan bajo este r&#xE9;gimen, no est&#xE1;n sujetas a inspecci&#xF3;n fitosanitaria, por lo que es necesario proteger las zonas productoras de cualquier accidente producido en el camino utilizado o durante su almacenaje a la espera de embarque en puerto chileno.</div><div class=\"p\">&nbsp; &nbsp;  - Que el Servicio Agr&#xED;cola y Ganadero debe establecer las condiciones tendientes a proteger la agricultura nacional.</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario complementar las regulaciones para especies que en esa Resoluci&#xF3;n no se mencionan.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA RESOLUCION No.985 DEL 30.07.88 SOBRE INTERNACION EN TRANSITO DE PRODUCTOS VEGETALES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 15 de Mayo de 1990.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 727 exenta.- Visto: El Decreto Ley No.3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, publicado en el Diario Oficial del 09.02.81, lo dispuesto en la Resoluci&#xF3;n No.350 de 10.02.81 y No.985 expedidas por el Servicio Agr&#xED;cola y Ganadero y,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que el ingreso en tr&#xE1;nsito por territorio nacional de mercader&#xED;as peligrosas para los vegetales de origen extranjero destinadas a un tercer pa&#xED;s, representa un alto riesgo de contaminaci&#xF3;n para la agricultura nacional;</div><div class=\"p\">&nbsp; &nbsp;  - Que los productos en tr&#xE1;nsito pueden movilizar plagas agr&#xED;colas de car&#xE1;cter cuarentenario para el pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp;  - Que las mercader&#xED;as que ingresan bajo este r&#xE9;gimen, no est&#xE1;n sujetas a inspecci&#xF3;n fitosanitaria, por lo que es necesario proteger las zonas productoras de cualquier accidente producido en el camino utilizado o durante su almacenaje a la espera de embarque en puerto chileno.</div><div class=\"p\">&nbsp; &nbsp;  - Que el Servicio Agr&#xED;cola y Ganadero debe establecer las condiciones tendientes a proteger la agricultura nacional.</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario complementar las regulaciones para especies que en esa Resoluci&#xF3;n no se mencionan.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

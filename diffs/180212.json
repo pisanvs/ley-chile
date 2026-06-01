@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-02-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6316481,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;4.23, de 27 de septiembre de 2000 y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y DFL MOP N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s 121-B y 122 para la obra: &apos;&apos;CONCESION INTERNACIONAL RUTA 5; TRAMO COLLIPULLI-TEMUCO&apos;&apos;; KM. 656,05000 A KM 657,40000 Novena Regi&#xF3;n, que figuran a nombre de Canseco Burgos H&#xE9;tor, rol de aval&#xFA;o 570-2, comuna de Lautaro, superficies de 12.860 m2 y 7.180 m2, respectivamente. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores, Luis Javier Donoso Moreno, Carlos Gerardo Fuentes Concha y Patricio Fernando Casagrande Ulloa, fij&#xF3; con fecha 29 de octubre de 1999, el valor provisional de la indemnizaci&#xF3;n en las cantidades de $122.108.500.- para el lote N&#xB0; 121-B y $46.872.500.- para el lote N&#xB0; 122. La indemnizaci&#xF3;n de pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto Ley N&#xBA;2186, de 1978.-</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;4.223, de 27 de septiembre de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 01.02.2001</span></div><div class=\"p\">2000 y en base a la facultad otorgada por los</div><div class=\"p\">art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y DFL MOP N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s 121-B y 122 para la obra: &quot;CONCESION INTERNACIONAL RUTA 5; TRAMO COLLIPULLI-TEMUCO&quot;; KM. 656,05000 A KM 657,40000 Novena Regi&#xF3;n, que figuran a nombre de Canseco Burgos H&#xE9;tor, rol de aval&#xFA;o 570-2, comuna de Lautaro, superficies de 12.860 m2 y 7.180 m2, respectivamente. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores, Luis Javier Donoso Moreno, Carlos Gerardo Fuentes Concha y Patricio Fernando Casagrande Ulloa, fij&#xF3; con fecha 29 de octubre de 1999, el valor provisional de la indemnizaci&#xF3;n en las cantidades de $122.108.500.- para el lote N&#xB0; 121-B y $46.872.500.- para el lote N&#xB0; 122. La indemnizaci&#xF3;n de pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto Ley N&#xBA;2186, de 1978.-</div><br></div>"
+        }
+      ]
+    }
+  }
+]

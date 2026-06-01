@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-05-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-12-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10019478,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Publicaci&#xF3;n decreto supremo 503, de 21 de diciembre de 2019, Ministerio de Defensa Nacional, Subsecretar&#xED;a para las Fuerzas Armadas, otorga Concesi&#xF3;n Mar&#xED;tima Menor sobre sector playa, porci&#xF3;n agua y uso de mejora fiscal en Caleta Hornillos, Bah&#xED;a de Laguna Verde, comuna de Valpara&#xED;so, Provincia y Regi&#xF3;n de Valpara&#xED;so. Concesi&#xF3;n otorgada al Cuerpo Voluntarios de los Botes Salvavidas de Valpara&#xED;so, RUT 7.009.040-K, ello por C.P. (V) Ordinario N&#xBA; 12.210/136 de fecha 13 de marzo a&#xF1;o 2019. Ubicaci&#xF3;n se&#xF1;alada en plano 444-18-S visado por Autoridad Mar&#xED;tima Rol aval&#xFA;o 9325-3 Terreno Playa. Fojas 6205 vuelta N&#xBA; 6778 a&#xF1;o 1972 Conservador de Bienes Ra&#xED;ces de Valpara&#xED;so, superficie 1751,938 metros cuadrados. Coordenadas geogr&#xE1;ficas: Latitud S 33&#xBA;06&apos;14,89&quot;; Longitud W 71&#xBA;41&apos;18,03&quot;. Porci&#xF3;n Agua: Latitud S 33&#xBA;06&apos;11,42&quot;; Longitud W 71&#xBA;41&apos;18,57&quot;. Lugar se destinar&#xE1; a casa refugio adiestramiento voluntario y apoyo log&#xED;stico estando ya construido 90,75 metros cuadrados alba&#xF1;iler&#xED;a, muros, pozos de agua y alcantarillado. Antecedentes se encuentran a disposici&#xF3;n del p&#xFA;blico en Capitan&#xED;a de Puerto de Valpara&#xED;so y el presente extracto ha sido visado por dicha capitan&#xED;a de puerto.- </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Publicaci&#xF3;n decreto supremo 503, de 21 de diciembre de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1139262&amp;idParte=10075322&amp;idVersion=2019-12-02\">Aviso S/N<br>DEFENSA<br>D.O. 02.12.2019</a></span>2018, Ministerio de Defensa Nacional, Subsecretar&#xED;a para las Fuerzas Armadas, otorga Concesi&#xF3;n Mar&#xED;tima Menor sobre sector playa, porci&#xF3;n agua y uso de mejora fiscal en Caleta Hornillos, Bah&#xED;a de Laguna Verde, comuna de Valpara&#xED;so, Provincia y Regi&#xF3;n de Valpara&#xED;so. Concesi&#xF3;n otorgada al Cuerpo Voluntarios de los Botes Salvavidas de Valpara&#xED;so, RUT 70.009.040-K, ello por C.P. (V) Ordinario N&#xBA; 12.210/136 de fecha 13 de marzo a&#xF1;o 2019. Ubicaci&#xF3;n se&#xF1;alada en plano 444-18-S visado por Autoridad Mar&#xED;tima Rol aval&#xFA;o 9325-3 Terreno Playa. Fojas 6205 vuelta N&#xBA; 6778 a&#xF1;o 1972 Conservador de Bienes Ra&#xED;ces de Valpara&#xED;so, superficie 1751,938 metros cuadrados. Coordenadas geogr&#xE1;ficas: Latitud S 33&#xBA;06&apos;14,89&quot;; Longitud W 71&#xBA;41&apos;18,03&quot;. Porci&#xF3;n Agua: Latitud S 33&#xBA;06&apos;11,42&quot;; Longitud W 71&#xBA;41&apos;18,57&quot;. Lugar se destinar&#xE1; a casa refugio adiestramiento voluntario y apoyo log&#xED;stico estando ya construido 90,75 metros cuadrados alba&#xF1;iler&#xED;a, muros, pozos de agua y alcantarillado. Antecedentes se encuentran a disposici&#xF3;n del p&#xFA;blico en Capitan&#xED;a de Puerto de Valpara&#xED;so y el presente extracto ha sido visado por dicha capitan&#xED;a de puerto.- </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1139262,
+      "fecha": "2019-12-02"
+    }
+  }
+]

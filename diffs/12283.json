@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-08-24",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1979-08-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8994060,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; An&#xF3;tese, t&#xF3;mese raz&#xF3;n, comun&#xED;quese y publ&#xED;quese.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- Jos&#xE9; Luis Toro Hevia, Ministro de Agricultura subrogante.- Hern&#xE1;n Cubillos Sallato, Ministro de Relaciones Exteriores.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Iv&#xE1;n Zegers Fuenzalida, Jefe Administrativo.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

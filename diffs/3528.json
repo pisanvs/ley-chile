@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-04-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-11-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8534068,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ADECUA PLANTAS Y ESCALAFONES DEL MINISTERIO DE VIVIENDA Y URBANISMO Y SUBPLANTA DEL PERSONAL EN COMISION DE SERVICIOS EN LA JUNTA NACIONAL DE JARDINES INFANTILES</div><div class=\"p\">&nbsp; &nbsp; Santiago, 21 de Marzo de 1990.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xFA;m. 2.- Vistos: Las facultades que me confieren los art&#xED;culos 1&#xB0;, 2&#xB0; y 13&#xB0; transitorios y art&#xED;culo 7&#xB0; de la Ley N&#xB0; 18.834, que aprob&#xF3; el Estatuto Administrativo,</div><div class=\"p\">&nbsp; &nbsp; dicto el siguiente Decreto con fuerza de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  ADECUA PLANTAS Y ESCALAFONES DEL MINISTERIO DE</div><div class=\"p\">VIVIENDA Y URBANISMO Y SUBPLANTA DEL PERSONAL EN</div><div class=\"p\">COMISION DE SERVICIOS EN LA JUNTA NACIONAL DE JARDINES</div><div class=\"p\">INFANTILES</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  DEROGADO.-<span class=\"n\" id=\"n_0\">LEY 19179<br>Art. 14</span></div><div class=\"p\">&nbsp; &nbsp; Santiago, 21 de Marzo de 1990.- Hoy se decret&#xF3; lo que sigue:<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div></div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xFA;m. 2.- Vistos: Las facultades que me<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 2</a></div> confieren los art&#xED;culos 1&#xB0;, 2&#xB0; y 13&#xB0; transitorios y<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:&nbsp; 3</a></div> art&#xED;culo 7&#xB0; de la Ley N&#xB0; 18.834, que aprob&#xF3; el Estatuto Administrativo,</div><div class=\"p\">&nbsp; &nbsp; dicto el siguiente Decreto con fuerza de ley:</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 2&#xB0; de la Ley N&#xB0; 19.179, publicada en el &quot;Diario Oficial&quot; de 26 de noviembre de 1992, sustituy&#xF3;, a contar del 1&#xB0; de enero de 1992, la Planta Nacional de Cargos del personal del Ministerio de Vivienda y Urbanismo, sus Secretar&#xED;as Ministeriales y los Servicios Regionales y Metropolitano de Vivienda y Urbanizaci&#xF3;n, fijada por el DFL N&#xB0; 2, de 1990, del Ministerio de Vivienda y Urbanismo.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El art&#xED;culo 14 de la Ley N&#xB0; 19.179, publicada en el &quot;Diario Oficial&quot; de 26 de noviembre de 1992, derog&#xF3; el presente decreto con fuerza de ley.<br></div><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:&nbsp; 3</a> <br>&nbsp; &nbsp;  El texto de este decreto con fuerza de ley derogado, se encuentra en una cinta de normas derogadas BDTO.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

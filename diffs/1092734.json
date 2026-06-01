@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-07-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-03-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9716646,
+          "old": "<div><br><div class=\"p\">SUBSIDIO HABITACIONAL EXTRAORDINARIO PARA PROYECTOS DE INTEGRACI&#xD3;N SOCIAL N&#xD3;MINA DE SELECCIONADOS PARA EL SUBSIDIO DS 116 (V. y U.) DE 2014</div><div class=\"p\">&nbsp; &nbsp;  C&#xD3;DIGO DE PROYECTO: 116444</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59295.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">SUBSIDIO HABITACIONAL EXTRAORDINARIO PARA PROYECTOS DE INTEGRACI&#xD3;N SOCIAL N&#xD3;MINA DE SELECCIONADOS PARA EL SUBSIDIO DS 116 (V. y U.) DE 2014</div><div class=\"p\"> <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp; C&#xD3;DIGO DE PROYECTO: 116444</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59295.jpg\"></div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 629 Exenta, Vivienda, publicada el 11.03.2017 modifica la presente norma, en el sentido de aceptar la renuncia del proyecto &quot;Altos del Valle V, 2 Etapa&quot; de la comuna de Vallenar, a los siguientes beneficiarios: Ana Plaza Plaza; Diana Delgado Moyano; Diego &#xC1;lvarez Cavieres; Eduardo Fritis Munizaga; Juan Martinez Canio; Manuel Barraza Aranda y Rodrigo Bustamante Nu&#xF1;ez, quienes fueron seleccionados en el llamado a presentaci&#xF3;n de proyectos habitacionales, para el subsidio habitacional extraordinario para proyectos de integraci&#xF3;n social otorgado en virtud del Decreto 116, Vivienda, publicado el 07.02.2015.</div></div>"
+        }
+      ]
+    }
+  }
+]

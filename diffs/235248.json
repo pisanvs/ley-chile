@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6515105,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xB0;.- Prorr&#xF3;gase la vigencia de los aval&#xFA;os de los bienes ra&#xED;ces no agr&#xED;colas de todo el pa&#xED;s vigentes al 31 de diciembre del a&#xF1;o 2004, hasta el 31 de diciembre del a&#xF1;o 2005; y f&#xED;jase la entrada en vigencia del reaval&#xFA;o de los bienes ra&#xED;ces no agr&#xED;colas a contar del 1 de enero del a&#xF1;o 2006.</div><div class=\"p\">&nbsp; &nbsp;  Los aval&#xFA;os se&#xF1;alados en el inciso anterior, considerando las modificaciones a que se refiere la ley N&#xB0; 17.235, sobre Impuesto Territorial, ocurridas hasta la respectiva entrada en vigencia del reaval&#xFA;o, se reajustar&#xE1;n, a contar del 1 de enero del 2006, en la forma prevista en el art&#xED;culo 9&#xB0; de la citada ley.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xB0;.- Prorr&#xF3;gase la vigencia de los aval&#xFA;os de los bienes ra&#xED;ces no agr&#xED;colas de todo el pa&#xED;s vigentes al 31 de diciembre del a&#xF1;o 2004, hasta el 31 de diciembre del a&#xF1;o 2005; y f&#xED;jase la entrada en vigencia del reaval&#xFA;o de los bienes ra&#xED;ces no agr&#xED;colas a contar del 1 de enero del a&#xF1;o 2006.</div><div class=\"p\">&nbsp; &nbsp;  INCISO SUPRIMIDO<span class=\"n\" id=\"n_0\">LEY 20033<br>Art. 13&#xBA;<br>D.O. 01.07.2005</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

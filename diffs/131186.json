@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1999-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-07-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8340332,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Autor&#xED;zase a Metrain S.A., RUT 78.470.400-9, ubicado en calle V&#xED;a Norte N&#xBA; 050, comuna de Quilicura, Santiago, representado legalmente por el Sr. Iv&#xE1;n Carbullanca N&#xFA;&#xF1;ez, c&#xE9;dula de identidad N&#xBA; 7.198.221-1, del mismo domicilio, como Organismo T&#xE9;cnico de inspecci&#xF3;n peri&#xF3;dica y reparaci&#xF3;n de cilindros para GLP en servicio;</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; La presente autorizaci&#xF3;n ser&#xE1; v&#xE1;lida para ejercer con la infraestructura f&#xED;sica y humana evaluadas por SEC, en la direcci&#xF3;n individualizada anteriormente y sujeta al estricto cumplimiento de las disposiciones legales, reglamentarias y normativas vigentes, especialmente lo prescrito en la norma chilena NCh 957/85, &apos;&apos;Cilindros port&#xE1;tiles soldados para gases licuados de petr&#xF3;leo-Inspecci&#xF3;n peri&#xF3;dica y reparaci&#xF3;n&apos;&apos;, el decreto supremo N&#xBA; 381/90 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n &apos;&apos;Requisitos m&#xED;nimos que deben cumplir los Organismos T&#xE9;cnicos de inspecci&#xF3;n peri&#xF3;dica y reparaci&#xF3;n de cilindros para GLP en servicio, y el oficio circular de SEC N&#xBA; 5897/93, que &apos;&apos;Establece obligaciones a profesionales de organismos t&#xE9;cnicos&apos;&apos;.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; La presente autorizaci&#xF3;n no ser&#xE1; v&#xE1;lida para inspeccionar y/o reparar cilindros que haya fabricado, importado y comercializado Metrain S.A.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; La presente resoluci&#xF3;n exenta entrar&#xE1; en vigencia a contar de su publicaci&#xF3;n en el Diario Oficial por cuenta de Metrain S.A.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Autor&#xED;zase a Metrain S.A., RUT 78.470.400-9, ubicado en calle V&#xED;a Norte N&#xBA; 050, comuna de Quilicura, Santiago, representado legalmente por el Sr. Iv&#xE1;n Carbullanca N&#xFA;&#xF1;ez, c&#xE9;dula de identidad N&#xBA; 7.198.221-1, del mismo domicilio, como Organismo T&#xE9;cnico de inspecci&#xF3;n peri&#xF3;dica y reparaci&#xF3;n de cilindros para GLP en servicio;</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; La presente autorizaci&#xF3;n ser&#xE1; v&#xE1;lida para ejercer con la infraestructura f&#xED;sica y humana evaluadas por SEC, en la direcci&#xF3;n individualizada anteriormente y sujeta al estricto cumplimiento de las disposiciones legales, reglamentarias y normativas vigentes, especialmente lo prescrito en la norma chilena NCh 957/85, &apos;&apos;Cilindros port&#xE1;tiles soldados para gases licuados de petr&#xF3;leo-Inspecci&#xF3;n peri&#xF3;dica y reparaci&#xF3;n&apos;&apos;, el decreto supremo N&#xBA; 381/90 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n &apos;&apos;Requisitos m&#xED;nimos que deben cumplir los Organismos T&#xE9;cnicos de inspecci&#xF3;n peri&#xF3;dica y reparaci&#xF3;n de cilindros para GLP en servicio, y el oficio circular de SEC N&#xBA; 5897/93, que &apos;&apos;Establece obligaciones a profesionales de organismos t&#xE9;cnicos&apos;&apos;.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; ELIM<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1041608&amp;idParte=9272258&amp;idVersion=2012-07-07\">Resoluci&#xF3;n 940 EXENTA, ENERG&#xCD;A<br>N&#xBA; 1<br>D.O. 07.07.2012</a></span>INADO.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; La presente resoluci&#xF3;n exenta entrar&#xE1; en vigencia a contar de su publicaci&#xF3;n en el Diario Oficial por cuenta de Metrain S.A.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1041608,
+      "fecha": "2012-07-07"
+    }
+  }
+]

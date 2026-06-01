@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-01-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8349753,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD &quot;ROBINSON CRUSOE INDUSTRIAL Y COMERCIAL LTDA.&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD &quot;ROBINSON CRUSOE INDUSTRIAL Y COMERCIAL LTDA.&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

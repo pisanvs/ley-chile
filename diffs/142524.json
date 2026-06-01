@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-04-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7253110,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 32, DE 1987</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 32, DE 1987</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-02-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9523855,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. P&#xF3;nese t&#xE9;rmino a contar del 11 de julio de 2014, al orden de subrogancia del cargo de Secretario Regional Ministerial de Salud de la Regi&#xF3;n de Tarapac&#xE1;, dispuesto por <a href=\"https://www.leychile.cl/Navegar?idNorma=1038682&amp;idParte=0&amp;idVersion=\">decreto exento N&#xBA; 116 del 23 de marzo de 2012, del Ministerio de Salud</a>.</div><div class=\"p\">&nbsp; &nbsp;  2. Establece el siguiente orden de Subrogancia a contar del 11 de julio de 2014, del cargo de Secretario Regional Ministerial de Salud de la Regi&#xF3;n de Tarapac&#xE1;, en caso de ausencia o impedimento de su titular:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primer Orden de Subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Dolores Romero Rodr&#xED;guez, C&#xE9;dula de Identidad N&#xBA; 7.792.338-1, Profesional, Contrata, grado 5&#xBA; EUS (con facultades directivas).</div><div class=\"p\">&nbsp; &nbsp;  Segundo Orden de Subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Mario Dastres Malbran, C&#xE9;dula de Identidad N&#xBA; 4.329.483-0, M&#xE9;dico, Titular, 44 Hrs.</div><div class=\"p\">&nbsp; &nbsp;  Tercer Orden de Subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Rub&#xE9;n Rojo Henr&#xED;quez, C&#xE9;dula de Identidad N&#xBA; 8.785.509-0, Directivo, Titular, grado 5&#xBA; EUS.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  3. Decl&#xE1;rese que el Subrogante del Secretario Regional Ministerial de Salud de la Regi&#xF3;n de Tarapac&#xE1; asumir&#xE1; sus funciones, a contar de la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. P&#xF3;nese t&#xE9;rmino a contar del 11 de julio de 2014, al orden de subrogancia del cargo de Secretario Regional Ministerial de Salud de la Regi&#xF3;n de Tarapac&#xE1;, dispuesto por decreto exento N&#xBA; 116 del 23 de marzo de 2012, del Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp;  2. Establece el siguiente orden de Subrogancia a contar del 11 de julio de 2014, del cargo de Secretario Regional Ministerial de Salud de la Regi&#xF3;n de Tarapac&#xE1;, en caso de ausencia o impedimento de su titular:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primer <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1116047&amp;idParte=9893783&amp;idVersion=2018-03-13\">Decreto 23 EXENTO,<br>SALUD<br>N&#xB0; 1<br>D.O. 13.03.2018</a></span>orden de subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Dolores Romero Rodr&#xED;guez, RUN: 7.792.338-1, Profesional, contrata, grado 5&#xBA; EUS (con facultades directivas).</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Segundo orden de subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Mario Dastres Malbran, RUN: 4.329.483-0, M&#xE9;dico, titular, 44 hrs.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tercer orden de subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Rub&#xE9;n Rojo Henr&#xED;quez, RUN: 8.785.509-0, Directivo, titular, grado 5&#xBA; EUS.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Cuarto orden de subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Mara Liliana Carrillo P&#xE9;rez, RUN: 14.623.048-2, Profesional, contrata, grado 5&#xBA; EUS (con facultades directivas).</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  3. Decl&#xE1;rese que el Subrogante del Secretario Regional Ministerial de Salud de la Regi&#xF3;n de Tarapac&#xE1; asumir&#xE1; sus funciones, a contar de la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

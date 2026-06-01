@@ -1,0 +1,47 @@
+[
+  {
+    "fecha": "1999-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-05-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6209663,
+          "old": "<div><div class=\"p\">OTORGA RECONOCIMIENTO OFICIAL A ESCUELA DE CONDUCTORES PROFESIONALES ICASA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 693 exenta.- Concepci&#xF3;n, 24 de noviembre de 1999.- Visto: Lo dispuesto en el art&#xED;culo 31 D de la ley N&#xBA; 18.290; el art&#xED;culo 6&#xBA; del D.S. N&#xBA; 251, de 6 de noviembre de 1998, del Ministerio de Transportes y Telecomunicaciones, que establece el Reglamento para las Escuelas de Conductores Profesionales; la resoluci&#xF3;n N&#xBA; 249, de 19 de diciembre de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la solicitud de Icasa, de 27 de septiembre de 1999, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtenci&#xF3;n de licencia profesional clase A-1; A-2 y A-3.</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que corresponde a esta Secretar&#xED;a Regional Ministerial emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle un reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los art&#xED;culos 31 A, 31 B y 31 C de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">OTORGA RECONOCIMIENTO OFICIAL A ESCUELA DE CONDUCTORES PROFESIONALES ICASA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 693 exenta.- Concepci&#xF3;n, 24 de noviembre de 1999.- Visto: Lo dispuesto en el art&#xED;culo 31 D de la ley N&#xBA; 18.290; el art&#xED;culo 6&#xBA; del D.S. N&#xBA; 251, de 6 de noviembre de 1998, del Ministerio de Transportes y Telecomunicaciones, que establece el Reglamento para las Escuelas de Conductores Profesionales; la resoluci&#xF3;n N&#xBA; 249, de 19 de diciembre de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la solicitud de Icasa, de 27 de septiembre de 1999, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtenci&#xF3;n de licencia profesional clase A-1; A-2 y A-3.</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que corresponde a esta Secretar&#xED;a Regional Ministerial emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle un reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los art&#xED;culos 31 A, 31 B y 31 C de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 6209664,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Ot&#xF3;rgase reconocimiento oficial a la Escuela de Conductores Profesionales denominada Icasa, representada por don Juan Carlos Mu&#xF1;oz Oruex para impartir los cursos conducentes a la obtenci&#xF3;n de licencia profesional A 1, en la sede ubicada en calle San Pablo N&#xBA; 200, comuna de Los Angeles, VIII Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en extracto por el interesado en el Diario Oficial.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Ot&#xF3;rgase reconocimiento oficial a la Escuela de<span class=\"n\" id=\"n_0\">RES 217 EXENTA<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 03.05.2000</span> Conductores Profesionales denominada Icasa, representada por don Juan Carlos Mu&#xF1;oz Oruex para impartir los cursos conducentes a la obtenci&#xF3;n de licencia profesional A 1, A2 y A3 en la sede ubicada en Av. Gabriela Mistral 505, comuna de Los Angeles, VIII Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en extracto por el interesado en el Diario Oficial.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2000-05-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6209663,
+          "old": "<div><div class=\"p\">OTORGA RECONOCIMIENTO OFICIAL A ESCUELA DE CONDUCTORES PROFESIONALES ICASA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 693 exenta.- Concepci&#xF3;n, 24 de noviembre de 1999.- Visto: Lo dispuesto en el art&#xED;culo 31 D de la ley N&#xBA; 18.290; el art&#xED;culo 6&#xBA; del D.S. N&#xBA; 251, de 6 de noviembre de 1998, del Ministerio de Transportes y Telecomunicaciones, que establece el Reglamento para las Escuelas de Conductores Profesionales; la resoluci&#xF3;n N&#xBA; 249, de 19 de diciembre de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la solicitud de Icasa, de 27 de septiembre de 1999, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtenci&#xF3;n de licencia profesional clase A-1; A-2 y A-3.</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que corresponde a esta Secretar&#xED;a Regional Ministerial emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle un reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los art&#xED;culos 31 A, 31 B y 31 C de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">OTORGA RECONOCIMIENTO OFICIAL A ESCUELA DE CONDUCTORES PROFESIONALES ICASA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 693 exenta.- Concepci&#xF3;n, 24 de noviembre de 1999.- Visto: Lo dispuesto en el art&#xED;culo 31 D de la ley N&#xBA; 18.290; el art&#xED;culo 6&#xBA; del D.S. N&#xBA; 251, de 6 de noviembre de 1998, del Ministerio de Transportes y Telecomunicaciones, que establece el Reglamento para las Escuelas de Conductores Profesionales; la resoluci&#xF3;n N&#xBA; 249, de 19 de diciembre de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la solicitud de Icasa, de 27 de septiembre de 1999, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtenci&#xF3;n de licencia profesional clase A-1; A-2 y A-3.</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que corresponde a esta Secretar&#xED;a Regional Ministerial emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle un reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los art&#xED;culos 31 A, 31 B y 31 C de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        },
+        {
+          "part_id": 6209664,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Ot&#xF3;rgase reconocimiento oficial a la Escuela de<span class=\"n\" id=\"n_0\">RES 217 EXENTA<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 03.05.2000</span> Conductores Profesionales denominada Icasa, representada por don Juan Carlos Mu&#xF1;oz Oruex para impartir los cursos conducentes a la obtenci&#xF3;n de licencia profesional A 1, A2 y A3 en la sede ubicada en Av. Gabriela Mistral 505, comuna de Los Angeles, VIII Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en extracto por el interesado en el Diario Oficial.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Ot&#xF3;rgase reconocimiento oficial a la Escuela de<span class=\"n\" id=\"n_0\">RES 217 EXENTA<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 03.05.2000</span> Conductores Profesionales denominada Icasa, representada por don Juan Carlos Mu&#xF1;oz Oruex para impartir los cursos conducentes a la obtenci&#xF3;n de licencia profesional A 1, A2 y A3 en la sede ubicada en Av. Gabriela Mistral 505,<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> comuna de Los Angeles, VIII Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en extracto por el interesado en el Diario Oficial.</div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 229 Exenta, Transportes, publicada el 19.05.2000, modifica la presente norma, en el sentido de ampliar el reconocimiento que en ella se establece.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

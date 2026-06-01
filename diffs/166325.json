@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-04-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6267651,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  N&#xF3;mbrase, a contar del 11 de marzo de 2000, a don Mario Marcel Cullel, RUT N&#xBA;7.012.402-5, como Director de Presupuestos, grado 1&#xBA; B de la Escala Unica de Sueldos, quien por razones impostergables de buen servicio deber&#xE1; asumir de inmediato sus funciones, sin esperar la total tramitaci&#xF3;n del presente decreto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  N&#xF3;mbrase, a contar del 11 de marzo de 2000, a don Mario Marcel Cullell, RUT N&#xBA;7.012.402-5, como<span class=\"n\" id=\"n_0\">DTO 858, HACIENDA<br>D.O. 24.11.2001</span> Director de Presupuestos, grado 1&#xBA; B de la Escala Unica de Sueldos, quien por razones impostergables de buen servicio deber&#xE1; asumir de inmediato sus funciones, sin esperar la total tramitaci&#xF3;n del presente decreto. </div></div>"
+        }
+      ]
+    }
+  }
+]

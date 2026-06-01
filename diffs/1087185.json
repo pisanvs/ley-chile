@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-02-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9669719,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados, desde el 1 de febrero de 2016 y hasta el 1 de agosto de 2016, por la calzada oriente de la Ruta 5 Norte, entre los km 14.4 y 17.4, en las comunas de Quilicura y Lampa.</div><div class=\"p\">&nbsp; &nbsp;  Podr&#xE1;n ingresar excepcionalmente en el tramo y horario se&#xF1;alado, los veh&#xED;culos de emergencia y los destinados a cumplir funciones en las obras relacionadas con el proyecto &quot;Conversi&#xF3;n Est&#xE1;ndar Urbano del Acceso a Santiago Ruta 5 Norte, Regi&#xF3;n Metropolitana, Concesi&#xF3;n Tramo Santiago - Los Vilos&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2.- Dese cumplimiento a todas las medidas de seguridad y condicionantes establecidas en el Ord. SM/AGD N&#xBA; 448, de 20 de enero de 2016, el que se entiende formar parte integrante del presente instrumento.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N&#xBA; 1, de 2007, citado en vistos.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados, desde el 1 de febrero de 2016 y hasta el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1093899&amp;idParte=9723431&amp;idVersion=2016-08-18\">Resoluci&#xF3;n 4057 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 18.08.2016</a></span>30 de agosto de 2016, por la calzada oriente de la Ruta 5 Norte, entre los km 14.4 y 17.4, en las comunas de Quilicura y Lampa.</div><div class=\"p\">&nbsp; &nbsp;  Podr&#xE1;n ingresar excepcionalmente en el tramo y horario se&#xF1;alado, los veh&#xED;culos de emergencia y los destinados a cumplir funciones en las obras relacionadas con el proyecto &quot;Conversi&#xF3;n Est&#xE1;ndar Urbano del Acceso a Santiago Ruta 5 Norte, Regi&#xF3;n Metropolitana, Concesi&#xF3;n Tramo Santiago - Los Vilos&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2.- Dese cumplimiento a todas las medidas de seguridad y condicionantes establecidas en el Ord. SM/AGD N&#xBA; 448, de 20 de enero de 2016, el que se entiende formar parte integrante del presente instrumento.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N&#xBA; 1, de 2007, citado en vistos.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1093899,
+      "fecha": "2016-08-18"
+    }
+  }
+]

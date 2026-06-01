@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-01-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8392999,
+          "old": "<div><div class=\"p\">ESTABLECE NORMAS TECNICO ADMINISTRATIVAS PARA LA APLICACION DEL ARANCEL DEL REGIMEN DE PRESTACIONES DE SALUD DE LA LEY N&#xBA; 18.469 EN LA MODALIDAD INSTITUCIONAL </div><div class=\"p\">&nbsp; &nbsp;  (Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 7 exenta.- Santiago, 9 de Enero de 1998.- Visto: Lo establecido en&nbsp; el art&#xED;culo 4&#xBA;, letra b) de la Ley&nbsp; N&#xBA; 18.469 y en el inciso segundo del art&#xED;culo 6&#xBA; del Decreto Ley N&#xBA; 2.763 de 1979; lo dispuesto en la Resoluci&#xF3;n N&#xBA; 5 del 9 de enero de 1998 de los Ministerios de Salud y de Hacienda, que aprob&#xF3; el Arancel del R&#xE9;gimen de Prestaciones de Salud, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><br><div class=\"p\"> ESTABLECE NORMAS TECNICO ADMINISTRATIVAS PARA LA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"> APLICACION DEL ARANCEL DEL REGIMEN DE PRESTACIONES DE</div><div class=\"p\"> SALUD DE LA LEY N&#xBA; 18.469 EN LA MODALIDAD INSTITUCIONAL</div><br><div class=\"p\">&nbsp; &nbsp;  (Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 7 exenta.- Santiago, 9 de Enero de 1998.- Visto: Lo establecido en&nbsp; el art&#xED;culo 4&#xBA;, letra b) de la Ley&nbsp; N&#xBA; 18.469 y en el inciso segundo del art&#xED;culo 6&#xBA; del Decreto Ley N&#xBA; 2.763 de 1979; lo dispuesto en la Resoluci&#xF3;n N&#xBA; 5 del 9 de enero de 1998 de los Ministerios de Salud y de Hacienda, que aprob&#xF3; el Arancel del R&#xE9;gimen de Prestaciones de Salud, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 178 EXENTA, Salud, publicada el 08.02.1999 derog&#xF3; la presente resoluci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

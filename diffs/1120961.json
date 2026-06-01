@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-07-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-10-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9935274,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;bese la &quot;Enmienda Zona Z3 del Plano Regulador Comunal El Tabo para el Lote A-1 Avenida Las Salinas, Las Cruces&quot;. En conformidad al Art. 45 inciso segundo numeral 3 de la Ley General de Urbanismo y Construcciones y a lo indicado en el inciso cuarto del Art. 2.1.13 de la Ordenanza General de Urbanismo y Construcciones (OGUC) en lo referido a la letra a) que indica:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Incrementar o disminuir hasta en un 20% la altura y la densidad.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. Dicha enmienda ser&#xE1; parte integrante del Plano Regulador y su Ordenanza.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese en Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  4. Arch&#xED;vese CBR respectivo.</div><div class=\"p\">&nbsp; &nbsp;  5. Env&#xED;ese copia oficial.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1123644&amp;idParte=9953320&amp;idVersion=2018-10-08\">Decreto 2303,<br>M. DEL TABO<br>N&#xB0; 1<br>D.O. 08.10.2018</a></span> Apru&#xE9;bese la Enmienda Zona Z3, del Plan Regulador Comunal El Tabo, calle Pedro Pablo Gonz&#xE1;lez N&#xBA; 792, Las Cruces. En conformidad al Art. 45 inciso segundo numeral 3 de la Ley General de Urbanismo y Construcciones y a lo indicado en el inciso cuarto del Art. 2.1.13 de la Ordenanza General de Urbanismo y Construcciones (OGUC) en lo referido a la letra a) que indica: Incrementar o disminuir hasta en un 20% la altura y la densidad.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. Dicha enmienda ser&#xE1; parte integrante del Plano Regulador y su Ordenanza.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese en Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  4. Arch&#xED;vese CBR respectivo.</div><div class=\"p\">&nbsp; &nbsp;  5. Env&#xED;ese copia oficial.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1123644,
+      "fecha": "2018-10-08"
+    }
+  }
+]

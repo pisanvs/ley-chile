@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-07-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6242625,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;RUBIO Y MANRIQUEZ LIMITADA&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS, DEJA SIN EFECTO AUTORIZACION QUE INDICA, DECLARA CADUCIDAD DE RESOLUCION Y DENIEGA PERMISO QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;RUBIO Y MANRIQUEZ LIMITADA&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS, DEJA SIN EFECTO AUTORIZACION QUE INDICA, DECLARA CADUCIDAD DE RESOLUCION Y DENIEGA PERMISO QUE SE&#xD1;ALA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

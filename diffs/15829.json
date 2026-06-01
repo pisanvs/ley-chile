@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-04-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8923343,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo.- La Pensi&#xF3;n de Gracia que se concede a la menor, se pagar&#xE1; hasta que &#xE9;sta cumpla 18 o 23 a&#xF1;os de edad, siendo requisito indispensable para su cobro que al comienzo de cada a&#xF1;o lectivo acredite ser alumna regular de un plantel educacional.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo.- La Pensi&#xF3;n de Gracia que se<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> concede a la menor, se pagar&#xE1; hasta que &#xE9;sta cumpla 18 o 23 a&#xF1;os de edad, siendo requisito indispensable para su cobro que al comienzo de cada a&#xF1;o lectivo acredite ser alumna regular de un plantel educacional. </div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 178, Interior, publicada el 24.04.2003, dej&#xF3; sin efecto el tope de edad de 23 a&#xF1;os establecido en la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

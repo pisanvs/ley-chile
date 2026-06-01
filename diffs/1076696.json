@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-04-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-07-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9591964,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Considerando que las declaratorias de utilidad p&#xFA;blica, destinadas a circulaciones, parques y plazas, incluidos sus ensanches, contenidas en el Plan Regulador de La Serena, se encuentran vigentes, y en virtud del art&#xED;culo transitorio de la ley N&#xBA; 20.791, Apru&#xE9;bese la Desafectaci&#xF3;n de las Declaratorias de Utilidad P&#xFA;blica de la siguiente N&#xF3;mina, correspondiente a:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">.&nbsp; &nbsp; PRC La Serena, resoluci&#xF3;n N&#xBA; 9, D.O. 30 de diciembre de 1992.</div><div class=\"p\">.&nbsp; &nbsp; Modificado por resoluci&#xF3;n N&#xBA; 85, D.O. 29 de septiembre de 1994 (Sector Serena Norte).</div><div class=\"p\">.&nbsp; &nbsp; Modificado por resoluci&#xF3;n N&#xBA; 68, D.O. 3 de agosto de 1995 (Sector Puerta del Mar).</div><div class=\"p\">.&nbsp; &nbsp; PRC La Serena, resoluci&#xF3;n N&#xBA; 498, D.O. 5 de agosto de 2004.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48800.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese el presente decreto alcaldicio en el Diario Oficial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Considerando que las declaratorias de utilidad p&#xFA;blica, destinadas a circulaciones, parques y plazas, incluidos sus ensanches, contenidas en el Plan Regulador de La Serena, se encuentran vigentes, y en virtud del art&#xED;culo transitorio de la ley N&#xBA; 20.791, Apru&#xE9;bese la Desafectaci&#xF3;n de las Declaratorias de Utilidad P&#xFA;blica de la siguiente N&#xF3;mina, correspondiente a:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">.&nbsp; &nbsp; PRC La Serena, resoluci&#xF3;n N&#xBA; 9, D.O. 30 de diciembre de 1992.</div><div class=\"p\">.&nbsp; &nbsp; Modificado por resoluci&#xF3;n N&#xBA; 85, D.O. 29 de septiembre de 1994 (Sector Serena Norte).</div><div class=\"p\">.&nbsp; &nbsp; Modificado por resoluci&#xF3;n N&#xBA; 68, D.O. 3 de agosto de 1995 (Sector Puerta del Mar).</div><div class=\"p\">.&nbsp; &nbsp; PRC La Serena, resoluci&#xF3;n N&#xBA; 498, D.O. 5 de agosto de 2004.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48800.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese el presente decreto alcaldicio en el Diario Oficial.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; del decreto 1828, Municipalidad de La Serena, publicado el 27.07.2015, modifica la presente norma en el sentido de rectificar parcialmente la n&#xF3;mina que aprueba la desafectaci&#xF3;n de las declaratorias de utilidad p&#xFA;blica, de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

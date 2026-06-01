@@ -1,0 +1,190 @@
+[
+  {
+    "fecha": "1995-02-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-02-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1996-02-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040013,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Los valores que pagar&#xE1;n los extranjeros por las actuaciones administrativas correspondientes a la concesi&#xF3;n, cambio o pr&#xF3;rroga de las visaciones de residentes, en sus distintas modalidades, ser&#xE1;n equivalentes a los montos que establece el Arancel Consular de Chile, concordantes con aquellos que consulten los Acuerdos de Visaci&#xF3;n de Pasaportes suscritos por nuestro pa&#xED;s, y, en general, se aplicar&#xE1; el principio de reciprocidad para su determinaci&#xF3;n, cuando corresponda. Dichos valores se pagar&#xE1;n en moneda nacional, calcul&#xE1;ndose su monto y reajustabilidad, de acuerdo con el tipo de cambio de corredores que el Banco Central de Chile establece para el d&#xF3;lar.</div><div class=\"p\">&nbsp; &nbsp; El Ministerio del Interior determinar&#xE1; los valores se&#xF1;alados en el inciso anterior, mediante la fijaci&#xF3;n de una Tabla de Valores, la que cada vez que se dicte o sea readecuada conforme a las condiciones prescritas precedentemente, se deber&#xE1; poner en conocimiento de la Contralor&#xED;a General de la Rep&#xFA;blica. En todo caso, los valores que deber&#xE1;n pagar los extranjeros, corresponder&#xE1;n a aquellos vigentes a la fecha de aprobaci&#xF3;n de la solicitud respectiva.</div><div class=\"p\">&nbsp; &nbsp; Con excepci&#xF3;n de aquellos casos en que, conforme a los procedimientos establecidos en los dos incisos precedentes, las respectivas visaciones est&#xE9;n exentas del pago de derechos, pagar&#xE1;n un derecho equivalente a quince d&#xF3;lares de los Estados Unidos de Am&#xE9;rica las visaciones otorgadas a los siguientes extranjeros:</div><br><div class=\"p\"> a)&nbsp; El hijo de chileno.</div><div class=\"p\"> b)&nbsp; El c&#xF3;nyuge de chileno y los hijos de aqu&#xE9;l.</div><div class=\"p\"> c)&nbsp; Los padres de chileno y el padre o madre extranjeros de aquellas personas que se encuentren dando cumplimiento al per&#xED;odo de avecindamiento contemplado en el N&#xB0; 3 del art&#xED;culo 10 de la Constituci&#xF3;n Pol&#xED;tica.</div><div class=\"p\"> d)&nbsp; Aquellos beneficiarios de visaciones de</div><div class=\"p\">&nbsp; &nbsp;  residencia en la condici&#xF3;n de dependientes.</div><div class=\"p\"> e)&nbsp; El hijo de extranjeros transe&#xFA;ntes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Los valores que pagar&#xE1;n los extranjeros por las actuaciones administrativas correspondientes a la concesi&#xF3;n, cambio o pr&#xF3;rroga de las visaciones de residentes, en sus distintas modalidades, ser&#xE1;n equivalentes a los montos que establece el Arancel Consular de Chile, concordantes con aquellos que consulten los Acuerdos de Visaci&#xF3;n de Pasaportes suscritos por nuestro pa&#xED;s, y, en general, se aplicar&#xE1; el principio de reciprocidad para su determinaci&#xF3;n, cuando corresponda. Dichos valores se<span class=\"n\" id=\"n_0\">DS 749,INT.<br>1995, Art.<br>&#xFA;nico</span> pagar&#xE1;n en moneda nacional conforme al tipo de cambio establecido para el d&#xF3;lar norteamericano, que publique el Banco Central de Chile de acuerdo con el inciso segundo del art&#xED;culo 44 de la Ley N&#xB0; 18.840, para el pen&#xFA;ltimo d&#xED;a h&#xE1;bil del mes calendario inmediatamente anterior a aquel en que se devenguen las referidas tasas o derechos.</div><br><div class=\"p\">&nbsp; &nbsp; El Ministerio del Interior determinar&#xE1; los valores se&#xF1;alados en el inciso anterior, mediante la fijaci&#xF3;n de una Tabla de Valores, la que cada vez que se dicte o sea readecuada conforme a las condiciones prescritas precedentemente, se deber&#xE1; poner en conocimiento de la Contralor&#xED;a General de la Rep&#xFA;blica. En todo caso, los valores que deber&#xE1;n pagar los extranjeros, corresponder&#xE1;n a aquellos vigentes a la fecha de aprobaci&#xF3;n de la solicitud respectiva.</div><div class=\"p\">&nbsp; &nbsp; Con excepci&#xF3;n de aquellos casos en que, conforme a los procedimientos establecidos en los dos incisos precedentes, las respectivas visaciones est&#xE9;n exentas del pago de derechos, pagar&#xE1;n un derecho equivalente a quince d&#xF3;lares de los Estados Unidos de Am&#xE9;rica las visaciones otorgadas a los siguientes extranjeros: a)&nbsp; El hijo de chileno. b)&nbsp; El c&#xF3;nyuge de chileno y los hijos de aqu&#xE9;l. c)&nbsp; Los padres de chileno y el padre o madre extranjeros de aquellas personas que se encuentren dando cumplimiento al per&#xED;odo de avecindamiento contemplado en el N&#xB0; 3 del art&#xED;culo 10 de la Constituci&#xF3;n Pol&#xED;tica. d)&nbsp; Aquellos beneficiarios de visaciones de residencia en la condici&#xF3;n de dependientes. e)&nbsp; El hijo de extranjeros transe&#xFA;ntes. </div><br></div>"
+        },
+        {
+          "part_id": 9040014,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El valor que pagar&#xE1;n los extranjero por las actuaciones correspondientes a la pr&#xF3;rroga del permiso de turismo, ser&#xE1; igual para todos ellos y equivalente, en moneda nacional a la suma de 8 d&#xF3;lares de los Estados Unidos de Am&#xE9;rica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El valor que pagar&#xE1;n los extranjeros<span class=\"n\" id=\"n_1\">DS 168,INT.<br>1996, Art.<br>&#xFA;nico</span> por las actuaciones correspondientes a la pr&#xF3;rroga del permiso de turismo, ser&#xE1; igual para todos ellos y equivalente, en moneda nacional, a la suma de 100 d&#xF3;lares de los Estados Unidos de Am&#xE9;rica. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1998-12-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040020,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- Todas las solicitudes de visaci&#xF3;n de residencia, cambio y pr&#xF3;rrogas de las mismas, en sus distintas modalidades, que formulen los extranjeros en Chile, con excepci&#xF3;n de las de Asilo Pol&#xED;tico o Refugiado, ser&#xE1;n objeto de pronunciamiento previo del Jefe del Departamento de Extranjer&#xED;a y Migraci&#xF3;n del Ministerio del Interior.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- DEROGADO<span class=\"n\" id=\"n_2\">DTO 2082, INTERIOR<br>Art. Unico<br>D.O. 18.12.1998</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2005-05-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040019,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- El permiso de permanencia definitiva se otorgar&#xE1; previo pago de un derecho igual al 11% de un ingreso m&#xED;nimo. Quedan exceptuados del pago de este derecho los inmigrantes, los menores de 18 a&#xF1;os de edad y el c&#xF3;nyuge de chileno que sean beneficiados con el permiso se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp; Los derechos que fija este art&#xED;culo se pagar&#xE1;n conforme al procedimiento establecido en el art&#xED;culo 6&#xB0; del presente decreto.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: El permiso de permanencia definitiva<span class=\"n\" id=\"n_2\">DTO 1254, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 10.05.2005</span> se otorgar&#xE1; previo pago de un derecho igual al 40% de un ingreso m&#xED;nimo. Quedan exceptuados del pago de este derecho los menores de 18 a&#xF1;os de edad y el c&#xF3;nyuge de chileno que sean beneficiados con el permiso se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp;  Los derechos que fija este art&#xED;culo se pagar&#xE1;n conforme al procedimiento establecido en el art&#xED;culo 6&#xBA; del presente decreto.</div><br></div>"
+        },
+        {
+          "part_id": 9040020,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- DEROGADO<span class=\"n\" id=\"n_2\">DTO 2082, INTERIOR<br>Art. Unico<br>D.O. 18.12.1998</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- DEROGADO<span class=\"n\" id=\"n_3\">DTO 2082, INTERIOR<br>Art. Unico<br>D.O. 18.12.1998</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-03-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9578827,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 2<br>D.O. 07.03.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo 2 bis.- Estar&#xE1; exenta del pago de derechos, la visa otorgada conforme a lo dispuesto en el art&#xED;culo 33 bis del decreto ley N&#xBA; 1.094.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040013,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Los valores que pagar&#xE1;n los extranjeros por las actuaciones administrativas correspondientes a la concesi&#xF3;n, cambio o pr&#xF3;rroga de las visaciones de residentes, en sus distintas modalidades, ser&#xE1;n equivalentes a los montos que establece el Arancel Consular de Chile, concordantes con aquellos que consulten los Acuerdos de Visaci&#xF3;n de Pasaportes suscritos por nuestro pa&#xED;s, y, en general, se aplicar&#xE1; el principio de reciprocidad para su determinaci&#xF3;n, cuando corresponda. Dichos valores se<span class=\"n\" id=\"n_0\">DS 749,INT.<br>1995, Art.<br>&#xFA;nico</span> pagar&#xE1;n en moneda nacional conforme al tipo de cambio establecido para el d&#xF3;lar norteamericano, que publique el Banco Central de Chile de acuerdo con el inciso segundo del art&#xED;culo 44 de la Ley N&#xB0; 18.840, para el pen&#xFA;ltimo d&#xED;a h&#xE1;bil del mes calendario inmediatamente anterior a aquel en que se devenguen las referidas tasas o derechos.</div><br><div class=\"p\">&nbsp; &nbsp; El Ministerio del Interior determinar&#xE1; los valores se&#xF1;alados en el inciso anterior, mediante la fijaci&#xF3;n de una Tabla de Valores, la que cada vez que se dicte o sea readecuada conforme a las condiciones prescritas precedentemente, se deber&#xE1; poner en conocimiento de la Contralor&#xED;a General de la Rep&#xFA;blica. En todo caso, los valores que deber&#xE1;n pagar los extranjeros, corresponder&#xE1;n a aquellos vigentes a la fecha de aprobaci&#xF3;n de la solicitud respectiva.</div><div class=\"p\">&nbsp; &nbsp; Con excepci&#xF3;n de aquellos casos en que, conforme a los procedimientos establecidos en los dos incisos precedentes, las respectivas visaciones est&#xE9;n exentas del pago de derechos, pagar&#xE1;n un derecho equivalente a quince d&#xF3;lares de los Estados Unidos de Am&#xE9;rica las visaciones otorgadas a los siguientes extranjeros: a)&nbsp; El hijo de chileno. b)&nbsp; El c&#xF3;nyuge de chileno y los hijos de aqu&#xE9;l. c)&nbsp; Los padres de chileno y el padre o madre extranjeros de aquellas personas que se encuentren dando cumplimiento al per&#xED;odo de avecindamiento contemplado en el N&#xB0; 3 del art&#xED;culo 10 de la Constituci&#xF3;n Pol&#xED;tica. d)&nbsp; Aquellos beneficiarios de visaciones de residencia en la condici&#xF3;n de dependientes. e)&nbsp; El hijo de extranjeros transe&#xFA;ntes. </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Los valores que pagar&#xE1;n los extranjeros por las actuaciones administrativas correspondientes a la concesi&#xF3;n, cambio o pr&#xF3;rroga de las visaciones de residentes, en sus distintas modalidades, ser&#xE1;n equivalentes a los montos que establece el Arancel Consular de Chile, concordantes con aquellos que consulten los Acuerdos de Visaci&#xF3;n de Pasaportes suscritos por nuestro pa&#xED;s, y, en general, se aplicar&#xE1; el principio de reciprocidad para su determinaci&#xF3;n, cuando corresponda. Dichos valores se<span class=\"n\" id=\"n_0\">DS 749,INT.<br>1995, Art.<br>&#xFA;nico</span> pagar&#xE1;n en moneda nacional conforme al tipo de cambio establecido para el d&#xF3;lar norteamericano, que publique el Banco Central de Chile de acuerdo con el inciso segundo del art&#xED;culo 44 de la Ley N&#xB0; 18.840, para el pen&#xFA;ltimo d&#xED;a h&#xE1;bil del mes calendario inmediatamente anterior a aquel en que se devenguen las referidas tasas o derechos.</div><br><div class=\"p\">&nbsp; &nbsp; El Ministerio del Interior determinar&#xE1; los valores se&#xF1;alados en el inciso anterior, mediante la fijaci&#xF3;n de una Tabla de Valores, la que cada vez que se dicte o sea readecuada conforme a las condiciones prescritas precedentemente, se deber&#xE1; poner en conocimiento de la Contralor&#xED;a General de la Rep&#xFA;blica. En todo caso, los valores que deber&#xE1;n pagar los extranjeros, corresponder&#xE1;n a aquellos vigentes a la fecha de aprobaci&#xF3;n de la solicitud respectiva.</div><div class=\"p\">&nbsp; &nbsp; Con excepci&#xF3;n de aquellos casos en que, conforme a los procedimientos establecidos en los dos incisos precedentes, las respectivas visaciones est&#xE9;n exentas del pago de derechos, pagar&#xE1;n un derecho equivalente a quince d&#xF3;lares de los Estados Unidos de Am&#xE9;rica las visaciones otorgadas a los siguientes extranjeros: a)&nbsp; El hijo de chileno. b)&nbsp; El c&#xF3;nyuge de chileno y los hijos de aqu&#xE9;l. c)&nbsp; Los padr<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 1 a)<br>D.O. 07.03.2015</a></span>es de chileno. d)&nbsp; Aquellos beneficiarios de visaciones de residencia en la condici&#xF3;n de dependientes. e)&nbsp; El hijo de extranjeros transe&#xFA;ntes. <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 1 b)<br>D.O. 07.03.2015</a></span>f) Los menores de 18 a&#xF1;os a la fecha de la solicitud de la visaci&#xF3;n de residencia.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9040014,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El valor que pagar&#xE1;n los extranjeros<span class=\"n\" id=\"n_1\">DS 168,INT.<br>1996, Art.<br>&#xFA;nico</span> por las actuaciones correspondientes a la pr&#xF3;rroga del permiso de turismo, ser&#xE1; igual para todos ellos y equivalente, en moneda nacional, a la suma de 100 d&#xF3;lares de los Estados Unidos de Am&#xE9;rica. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El valor que pagar&#xE1;n los extranjeros<span class=\"n\" id=\"n_4\">DS 168,INT.<br>1996, Art.<br>&#xFA;nico</span> por las actuaciones correspondientes a la pr&#xF3;rroga del permiso de turismo, ser&#xE1; igual para todos ellos y equivalente, en moneda nacional, a la suma de 100 d&#xF3;lares de los Estados Unidos de Am&#xE9;rica. </div></div>"
+        },
+        {
+          "part_id": 9040015,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Los extranjeros que hayan ingresado en la calidad de turistas y sean autorizados para trabajar, pagar&#xE1;n los valores correspondientes a la visaci&#xF3;n de residente sujeto a contrato, con un recargo del 50% de su monto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Los extranjeros que hayan ingresado en la calidad de turistas y sean autorizados para trabajar, pagar&#xE1;n los valores correspondientes a la visaci&#xF3;n de residente sujeto a contrato, con un recargo del 50% de su monto.</div><div class=\"p\">&nbsp; &nbsp;  La <span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 3<br>D.O. 07.03.2015</a></span>autorizaci&#xF3;n de trabajo se&#xF1;alada podr&#xE1; concederse gratuitamente y prescindirse de la presentaci&#xF3;n del contrato escrito, cuando se cumplan los requisitos establecidos en el art&#xED;culo 42 del decreto supremo N&#xBA; 597 de 1984 o se trate de deportistas que re&#xFA;nan tales requisitos.</div><br><br></div>"
+        },
+        {
+          "part_id": 9040019,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: El permiso de permanencia definitiva<span class=\"n\" id=\"n_2\">DTO 1254, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 10.05.2005</span> se otorgar&#xE1; previo pago de un derecho igual al 40% de un ingreso m&#xED;nimo. Quedan exceptuados del pago de este derecho los menores de 18 a&#xF1;os de edad y el c&#xF3;nyuge de chileno que sean beneficiados con el permiso se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp;  Los derechos que fija este art&#xED;culo se pagar&#xE1;n conforme al procedimiento establecido en el art&#xED;culo 6&#xBA; del presente decreto.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: El permiso de permanencia definitiva<span class=\"n\" id=\"n_6\">DTO 1254, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 10.05.2005</span> se otorgar&#xE1; previo pago de un derecho igual al 40% de un ingreso m&#xED;nimo. Quedan exceptuados del pago de este derecho los menores de 18 a&#xF1;os de edad y el c&#xF3;nyuge de chileno que sean beneficiados con el permiso se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp;  Los derechos que fija este art&#xED;culo se pagar&#xE1;n conforme al procedimiento establecido en el art&#xED;culo 6&#xBA; del presente decreto.</div><br></div>"
+        },
+        {
+          "part_id": 9040020,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- DEROGADO<span class=\"n\" id=\"n_3\">DTO 2082, INTERIOR<br>Art. Unico<br>D.O. 18.12.1998</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- DEROGADO<span class=\"n\" id=\"n_7\">DTO 2082, INTERIOR<br>Art. Unico<br>D.O. 18.12.1998</span></div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1075316,
+      "fecha": "2015-03-07"
+    }
+  },
+  {
+    "fecha": "2017-08-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040013,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Los valores que pagar&#xE1;n los extranjeros por las actuaciones administrativas correspondientes a la concesi&#xF3;n, cambio o pr&#xF3;rroga de las visaciones de residentes, en sus distintas modalidades, ser&#xE1;n equivalentes a los montos que establece el Arancel Consular de Chile, concordantes con aquellos que consulten los Acuerdos de Visaci&#xF3;n de Pasaportes suscritos por nuestro pa&#xED;s, y, en general, se aplicar&#xE1; el principio de reciprocidad para su determinaci&#xF3;n, cuando corresponda. Dichos valores se<span class=\"n\" id=\"n_0\">DS 749,INT.<br>1995, Art.<br>&#xFA;nico</span> pagar&#xE1;n en moneda nacional conforme al tipo de cambio establecido para el d&#xF3;lar norteamericano, que publique el Banco Central de Chile de acuerdo con el inciso segundo del art&#xED;culo 44 de la Ley N&#xB0; 18.840, para el pen&#xFA;ltimo d&#xED;a h&#xE1;bil del mes calendario inmediatamente anterior a aquel en que se devenguen las referidas tasas o derechos.</div><br><div class=\"p\">&nbsp; &nbsp; El Ministerio del Interior determinar&#xE1; los valores se&#xF1;alados en el inciso anterior, mediante la fijaci&#xF3;n de una Tabla de Valores, la que cada vez que se dicte o sea readecuada conforme a las condiciones prescritas precedentemente, se deber&#xE1; poner en conocimiento de la Contralor&#xED;a General de la Rep&#xFA;blica. En todo caso, los valores que deber&#xE1;n pagar los extranjeros, corresponder&#xE1;n a aquellos vigentes a la fecha de aprobaci&#xF3;n de la solicitud respectiva.</div><div class=\"p\">&nbsp; &nbsp; Con excepci&#xF3;n de aquellos casos en que, conforme a los procedimientos establecidos en los dos incisos precedentes, las respectivas visaciones est&#xE9;n exentas del pago de derechos, pagar&#xE1;n un derecho equivalente a quince d&#xF3;lares de los Estados Unidos de Am&#xE9;rica las visaciones otorgadas a los siguientes extranjeros: a)&nbsp; El hijo de chileno. b)&nbsp; El c&#xF3;nyuge de chileno y los hijos de aqu&#xE9;l. c)&nbsp; Los padr<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 1 a)<br>D.O. 07.03.2015</a></span>es de chileno. d)&nbsp; Aquellos beneficiarios de visaciones de residencia en la condici&#xF3;n de dependientes. e)&nbsp; El hijo de extranjeros transe&#xFA;ntes. <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 1 b)<br>D.O. 07.03.2015</a></span>f) Los menores de 18 a&#xF1;os a la fecha de la solicitud de la visaci&#xF3;n de residencia.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Los valores que pagar&#xE1;n los extranjeros por las actuaciones administrativas correspondientes a la concesi&#xF3;n, cambio o pr&#xF3;rroga de las visaciones de residentes, en sus distintas modalidades, ser&#xE1;n equivalentes a los montos que establece el Arancel Consular de Chile, concordantes con aquellos que consulten los Acuerdos de Visaci&#xF3;n de Pasaportes suscritos por nuestro pa&#xED;s, y, en general, se aplicar&#xE1; el principio de reciprocidad para su determinaci&#xF3;n, cuando corresponda. Dichos valores se<span class=\"n\" id=\"n_0\">DS 749,INT.<br>1995, Art.<br>&#xFA;nico</span> pagar&#xE1;n en moneda nacional conforme al tipo de cambio establecido para el d&#xF3;lar norteamericano, que publique el Banco Central de Chile de acuerdo con el inciso segundo del art&#xED;culo 44 de la Ley N&#xB0; 18.840, para el pen&#xFA;ltimo d&#xED;a h&#xE1;bil del mes calendario inmediatamente anterior a aquel en que se devenguen las referidas tasas o derechos.</div><br><div class=\"p\">&nbsp; &nbsp; El Ministerio del Interior determinar&#xE1; los valores se&#xF1;alados en el inciso anterior, mediante la fijaci&#xF3;n de una Tabla de Valores, la que cada vez que se dicte o sea readecuada conforme a las condiciones prescritas precedentemente, se deber&#xE1; poner en conocimiento de la Contralor&#xED;a General de la Rep&#xFA;blica. En todo caso, los valores que deber&#xE1;n pagar los extranjeros, corresponder&#xE1;n a aquellos vigentes a la fecha de aprobaci&#xF3;n de la solicitud respectiva.</div><div class=\"p\">&nbsp; &nbsp; Con excepci&#xF3;n de aquellos casos en que, conforme a los procedimientos establecidos en los dos incisos precedentes, las respectivas visaciones est&#xE9;n exentas del pago de derechos, pagar&#xE1;n un derecho equivalente a quince d&#xF3;lares de los Estados Unidos de Am&#xE9;rica las visaciones otorgadas a los siguientes extranjeros: </div><div class=\"p\">a)&nbsp; El hijo de chileno. </div><div class=\"p\">b)&nbsp; El c&#xF3;nyuge de chileno y los hijos de aqu&#xE9;l. </div><div class=\"p\">c) <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 1 a)<br>D.O. 07.03.2015</a></span> Los padres de chileno. </div><div class=\"p\">d)&nbsp; Aquellos beneficiarios de visaciones de residencia en la condici&#xF3;n de dependientes. </div><div class=\"p\">e)&nbsp; El hijo de extranjeros transe&#xFA;<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 1 b)<br>D.O. 07.03.2015</a></span>ntes. </div><div class=\"p\">f)&nbsp; Su<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1106757&amp;idParte=9826017&amp;idVersion=2017-08-19\">Decreto 1020, INTERIOR<br>Art. &#xDA;NICO N&#xB0; 1<br>D.O. 19.08.2017</a></span>primido.</div><br><div class=\"p\">&nbsp; &nbsp;  No <span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1106757&amp;idParte=9826017&amp;idVersion=2017-08-19\">Decreto 1020, INTERIOR<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 19.08.2017</a></span>obstante lo anterior, las ni&#xF1;as, ni&#xF1;os y adolescentes, se encontrar&#xE1;n exentos del pago de derechos en cualquier caso y circunstancia.</div><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 9040014,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El valor que pagar&#xE1;n los extranjeros<span class=\"n\" id=\"n_4\">DS 168,INT.<br>1996, Art.<br>&#xFA;nico</span> por las actuaciones correspondientes a la pr&#xF3;rroga del permiso de turismo, ser&#xE1; igual para todos ellos y equivalente, en moneda nacional, a la suma de 100 d&#xF3;lares de los Estados Unidos de Am&#xE9;rica. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El valor que pagar&#xE1;n los extranjeros<span class=\"n\" id=\"n_6\">DS 168,INT.<br>1996, Art.<br>&#xFA;nico</span> por las actuaciones correspondientes a la pr&#xF3;rroga del permiso de turismo, ser&#xE1; igual para todos ellos y equivalente, en moneda nacional, a la suma de 100 d&#xF3;lares de los Estados Unidos de Am&#xE9;rica. </div></div>"
+        },
+        {
+          "part_id": 9040015,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Los extranjeros que hayan ingresado en la calidad de turistas y sean autorizados para trabajar, pagar&#xE1;n los valores correspondientes a la visaci&#xF3;n de residente sujeto a contrato, con un recargo del 50% de su monto.</div><div class=\"p\">&nbsp; &nbsp;  La <span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 3<br>D.O. 07.03.2015</a></span>autorizaci&#xF3;n de trabajo se&#xF1;alada podr&#xE1; concederse gratuitamente y prescindirse de la presentaci&#xF3;n del contrato escrito, cuando se cumplan los requisitos establecidos en el art&#xED;culo 42 del decreto supremo N&#xBA; 597 de 1984 o se trate de deportistas que re&#xFA;nan tales requisitos.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Los extranjeros que hayan ingresado en la calidad de turistas y sean autorizados para trabajar, pagar&#xE1;n los valores correspondientes a la visaci&#xF3;n de residente sujeto a contrato, con un recargo del 50% de su monto.</div><div class=\"p\">&nbsp; &nbsp;  La <span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 3<br>D.O. 07.03.2015</a></span>autorizaci&#xF3;n de trabajo se&#xF1;alada podr&#xE1; concederse gratuitamente y prescindirse de la presentaci&#xF3;n del contrato escrito, cuando se cumplan los requisitos establecidos en el art&#xED;culo 42 del decreto supremo N&#xBA; 597 de 1984 o se trate de deportistas que re&#xFA;nan tales requisitos.</div><br><br></div>"
+        },
+        {
+          "part_id": 9040019,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: El permiso de permanencia definitiva<span class=\"n\" id=\"n_6\">DTO 1254, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 10.05.2005</span> se otorgar&#xE1; previo pago de un derecho igual al 40% de un ingreso m&#xED;nimo. Quedan exceptuados del pago de este derecho los menores de 18 a&#xF1;os de edad y el c&#xF3;nyuge de chileno que sean beneficiados con el permiso se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp;  Los derechos que fija este art&#xED;culo se pagar&#xE1;n conforme al procedimiento establecido en el art&#xED;culo 6&#xBA; del presente decreto.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: El permiso de permanencia definitiva<span class=\"n\" id=\"n_8\">DTO 1254, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 10.05.2005</span> se otorgar&#xE1; previo pago de un derecho igual al 40% de un ingreso m&#xED;nimo. Quedan exceptuados del pago de este derecho los menores de 18 a&#xF1;os de edad y el c&#xF3;nyuge de chileno que sean beneficiados con el permiso se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp;  Los derechos que fija este art&#xED;culo se pagar&#xE1;n conforme al procedimiento establecido en el art&#xED;culo 6&#xBA; del presente decreto.</div><br></div>"
+        },
+        {
+          "part_id": 9040020,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- DEROGADO<span class=\"n\" id=\"n_7\">DTO 2082, INTERIOR<br>Art. Unico<br>D.O. 18.12.1998</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- DEROGADO<span class=\"n\" id=\"n_9\">DTO 2082, INTERIOR<br>Art. Unico<br>D.O. 18.12.1998</span></div><br></div>"
+        },
+        {
+          "part_id": 9578827,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 2<br>D.O. 07.03.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo 2 bis.- Estar&#xE1; exenta del pago de derechos, la visa otorgada conforme a lo dispuesto en el art&#xED;culo 33 bis del decreto ley N&#xBA; 1.094.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 2<br>D.O. 07.03.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo 2 bis.- Estar&#xE1; exenta del pago de derechos, la visa otorgada conforme a lo dispuesto en el art&#xED;culo 33 bis del decreto ley N&#xBA; 1.094.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1106757,
+      "fecha": "2017-08-19"
+    }
+  },
+  {
+    "fecha": "2020-10-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040014,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El valor que pagar&#xE1;n los extranjeros<span class=\"n\" id=\"n_6\">DS 168,INT.<br>1996, Art.<br>&#xFA;nico</span> por las actuaciones correspondientes a la pr&#xF3;rroga del permiso de turismo, ser&#xE1; igual para todos ellos y equivalente, en moneda nacional, a la suma de 100 d&#xF3;lares de los Estados Unidos de Am&#xE9;rica. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El valor que <div class=\"n rnp\" id=\"rnp7\"><a href=\"#np7\">NOTA</a></div>pagar&#xE1;n los extranjeros por las actuaciones correspondientes a la pr&#xF3;rroga del permiso <span class=\"n\" id=\"n_6\">DS 168,INT.<br>1996, Art.<br>&#xFA;nico</span>de turismo, ser&#xE1; igual para todos ellos y equivalente, en moneda nacional, a la suma de 100 d&#xF3;lares de los Estados Unidos de Am&#xE9;rica. </div><br><br><br><div class=\"np\" id=\"np7\"><a href=\"#rnp7\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 281, Interior, publicado el 03.10.2020, indica que desde la publicaci&#xF3;n de la citada norma y mientras se mantenga el estado de excepci&#xF3;n constitucional de cat&#xE1;strofe por calamidad p&#xFA;blica en el territorio de Chile, dispuesto mediante decreto supremo N&#xB0; 104, de 2020, del Ministerio del Interior y Seguridad P&#xFA;blica, y sus eventuales pr&#xF3;rrogas, el valor que pagar&#xE1;n los extranjeros por las actuaciones correspondientes a la pr&#xF3;rroga del permiso de turismo a que se refiere la presente norma, ser&#xE1; igual para todos ellos y equivalente, en moneda nacional, a la suma de 1 d&#xF3;lar de los Estados Unidos de Am&#xE9;rica.</div></div>"
+        },
+        {
+          "part_id": 9040015,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Los extranjeros que hayan ingresado en la calidad de turistas y sean autorizados para trabajar, pagar&#xE1;n los valores correspondientes a la visaci&#xF3;n de residente sujeto a contrato, con un recargo del 50% de su monto.</div><div class=\"p\">&nbsp; &nbsp;  La <span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 3<br>D.O. 07.03.2015</a></span>autorizaci&#xF3;n de trabajo se&#xF1;alada podr&#xE1; concederse gratuitamente y prescindirse de la presentaci&#xF3;n del contrato escrito, cuando se cumplan los requisitos establecidos en el art&#xED;culo 42 del decreto supremo N&#xBA; 597 de 1984 o se trate de deportistas que re&#xFA;nan tales requisitos.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Los extranjeros que hayan ingresado en la calidad de turistas y sean autorizados para trabajar, pagar&#xE1;n los valores correspondientes a la visaci&#xF3;n de residente sujeto a contrato, con un recargo del 50% de su monto.</div><div class=\"p\">&nbsp; &nbsp;  La <span class=\"n\" id=\"n_8\"><a href=\"navegar?idNorma=1075316&amp;idParte=9578313&amp;idVersion=2015-03-07\">Decreto 1930, INTERIOR<br>Art. SEGUNDO N&#xB0; 3<br>D.O. 07.03.2015</a></span>autorizaci&#xF3;n de trabajo se&#xF1;alada podr&#xE1; concederse gratuitamente y prescindirse de la presentaci&#xF3;n del contrato escrito, cuando se cumplan los requisitos establecidos en el art&#xED;culo 42 del decreto supremo N&#xBA; 597 de 1984 o se trate de deportistas que re&#xFA;nan tales requisitos.</div><br><br></div>"
+        },
+        {
+          "part_id": 9040019,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: El permiso de permanencia definitiva<span class=\"n\" id=\"n_8\">DTO 1254, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 10.05.2005</span> se otorgar&#xE1; previo pago de un derecho igual al 40% de un ingreso m&#xED;nimo. Quedan exceptuados del pago de este derecho los menores de 18 a&#xF1;os de edad y el c&#xF3;nyuge de chileno que sean beneficiados con el permiso se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp;  Los derechos que fija este art&#xED;culo se pagar&#xE1;n conforme al procedimiento establecido en el art&#xED;culo 6&#xBA; del presente decreto.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: El permiso de permanencia definitiva<span class=\"n\" id=\"n_9\">DTO 1254, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 10.05.2005</span> se otorgar&#xE1; previo pago de un derecho igual al 40% de un ingreso m&#xED;nimo. Quedan exceptuados del pago de este derecho los menores de 18 a&#xF1;os de edad y el c&#xF3;nyuge de chileno que sean beneficiados con el permiso se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp;  Los derechos que fija este art&#xED;culo se pagar&#xE1;n conforme al procedimiento establecido en el art&#xED;culo 6&#xBA; del presente decreto.</div><br></div>"
+        },
+        {
+          "part_id": 9040020,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- DEROGADO<span class=\"n\" id=\"n_9\">DTO 2082, INTERIOR<br>Art. Unico<br>D.O. 18.12.1998</span></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- DEROGADO<span class=\"n\" id=\"n_10\">DTO 2082, INTERIOR<br>Art. Unico<br>D.O. 18.12.1998</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

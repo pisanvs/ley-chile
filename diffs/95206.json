@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-12-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7229373,
+          "old": "<div><div class=\"p\">MODIFICA ORDENANZA QUE INDICA</div><br><div class=\"p\">N&#xFA;m. 1.271.- Santiago, 15 de noviembre de 1989.</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA ORDENANZA QUE INDICA</div><br><div class=\"p\">N&#xFA;m. 1.271.- Santiago, 15 de noviembre de 1989.</div><br><div class=\"p\">Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

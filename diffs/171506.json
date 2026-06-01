@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-06-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6283957,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22 bis: No se exigir&#xE1;n las superficies<span class=\"n\" id=\"n_0\">DTO 3834<br>M. DE ARICA<br>D.O. 28.10.2000</span> m&#xED;nimas se&#xF1;aladas en las letras a.1) y a.3) del art&#xED;culo anterior, a aquellos locales que soliciten patentes de alcoholes y se encuentren ubicados dentro de centros de abastos, mercados y otros establecimientos de este tipo, a escala comunal o vecinal correspondiente a lo establecido en el plano regulador.</div><div class=\"p\">&nbsp; &nbsp;  En estos casos, la superficie m&#xED;nima ser&#xE1; de 70 mt2 para las patentes se&#xF1;aladas en las letras a.1 y a.3.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

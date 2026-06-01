@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2003-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-03-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8535400,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- La autoridad aduanera podr&#xE1; disponer de oficio la suspensi&#xF3;n del despacho de mercanc&#xED;a, cuando del simple examen de la misma resultare evidente que se trata de mercanc&#xED;a de marca registrada falsificada o de mercanc&#xED;a que infringe el derecho de autor. En estos casos, la aduana deber&#xE1; informar al titular del derecho, si estuviere identificado, la posible infracci&#xF3;n, a objeto de que &#xE9;ste ejerza el derecho a solicitar la suspensi&#xF3;n y los derechos que le correspondan de conformidad a las normas precedentes y en especial, a objeto de que proporcione informaci&#xF3;n acerca de la autenticidad de las mercanc&#xED;as. La Aduana deber&#xE1;, adem&#xE1;s, efectuar la denuncia, en conformidad a la ley.</div><div class=\"p\">&nbsp; &nbsp;  La suspensi&#xF3;n del despacho que disponga la aduana en conformidad a este art&#xED;culo tendr&#xE1; un plazo m&#xE1;ximo de 5 d&#xED;as h&#xE1;biles, transcurrido el cual, si no se recibiere notificaci&#xF3;n ordenando la mantenci&#xF3;n de la suspensi&#xF3;n, se proceder&#xE1; al despacho de la mercanc&#xED;a de conformidad con el art&#xED;culo 11. La aduana respectiva designar&#xE1; como depositario de la mercanc&#xED;a al due&#xF1;o, importador, consignatario, almacenista o a un tercero, bajo las responsabilidades referidas en el art&#xED;culo 12, o la pondr&#xE1; a disposici&#xF3;n del tribunal competente, seg&#xFA;n corresponda.</div><div class=\"p\">&nbsp; &nbsp;  En todo caso, la aduana respectiva siempre podr&#xE1; tomar una muestra representativa de la mercanc&#xED;a, para su examen o para ponerla a disposici&#xF3;n del tribunal competente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- La autoridad aduanera podr&#xE1; disponer de oficio la suspensi&#xF3;n del despacho de mercanc&#xED;a, cuando del simple examen de la misma resultare evidente que se trata de mercanc&#xED;a de marca registrada falsificada o de mercanc&#xED;a que infringe el derecho de autor. En estos casos, la aduana deber&#xE1; informar al titular del derecho, si estuviere identificado, la posible infracci&#xF3;n, a objeto de que &#xE9;ste ejerza el derecho a solicitar la suspensi&#xF3;n y los derechos que le correspondan de conformidad a las normas precedentes y en especial, a objeto de que proporcione informaci&#xF3;n acerca de la autenticidad de las mercanc&#xED;as. La Aduana deber&#xE1;, adem&#xE1;s, efectuar la denuncia, en conformidad a la ley.</div><div class=\"p\">&nbsp; &nbsp;  La suspensi&#xF3;n del despacho que disponga la aduana en conformidad a este art&#xED;culo tendr&#xE1; un plazo m&#xE1;ximo de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1100901&amp;idParte=9779551&amp;idVersion=2017-03-13\">Ley 20997<br>Art. 4<br>D.O. 13.03.2017</a></span>diez d&#xED;as h&#xE1;biles, transcurrido el cual, si no se recibiere notificaci&#xF3;n ordenando la mantenci&#xF3;n de la suspensi&#xF3;n, se proceder&#xE1; al despacho de la mercanc&#xED;a de conformidad con el art&#xED;culo 11. La aduana respectiva designar&#xE1; como depositario de la mercanc&#xED;a al due&#xF1;o, importador, consignatario, almacenista o a un tercero, bajo las responsabilidades referidas en el art&#xED;culo 12, o la pondr&#xE1; a disposici&#xF3;n del tribunal competente, seg&#xFA;n corresponda.</div><div class=\"p\">&nbsp; &nbsp;  En todo caso, la aduana respectiva siempre podr&#xE1; tomar una muestra representativa de la mercanc&#xED;a, para su examen o para ponerla a disposici&#xF3;n del tribunal competente.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1100901,
+      "fecha": "2017-03-13"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "2009-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-02-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6954717,
+          "old": null,
+          "new": "<div><div class=\"p\">REGLAMENTO DE LAS TASAS ACTIVAS BANCARIAS EN D&#xD3;LARES DE LOS ESTADOS UNIDOS DE AM&#xC9;RICA</div><br><div class=\"p\">&nbsp; &nbsp;  Reglamento de las Tasas Activas Bancarias en D&#xF3;lares de los Estados Unidos de Am&#xE9;rica (TADO) fue acordado en sesi&#xF3;n de Directorio de la Asociaci&#xF3;n de Bancos e Instituciones Financieras de Chile A.G., el d&#xED;a 9 de enero de 2009, y protocolizado con fecha 23 de enero de 2009, ante el Notario P&#xFA;blico de Santiago, don Ra&#xFA;l Undurraga Laso, seg&#xFA;n repertorio N&#xBA; 448-2009.</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

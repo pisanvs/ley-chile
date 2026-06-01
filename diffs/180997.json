@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-02-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6319261,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile, las siguientes normas Chilenas con sus respectivos c&#xF3;digos y t&#xED;tulos de identificaci&#xF3;n:</div><br><div class=\"p\">NCh440/1.Of2000&nbsp; &nbsp;  : Construcci&#xF3;n-Elevadores-Requisitos</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; de seguridad e instalaci&#xF3;n-Parte 1:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ascensores y montacargas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; el&#xE9;ctricos.</div><div class=\"p\">NCh2564/.Of2000&nbsp; &nbsp;  : Desratizaci&#xF3;n de la red de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; alcantarillado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile, las siguientes normas Chilenas con sus respectivos c&#xF3;digos y t&#xED;tulos de identificaci&#xF3;n:</div><br><div class=\"p\">NCh440/1.Of2000&nbsp; &nbsp;  : Dero<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1094100&amp;idParte=9725383&amp;idVersion=2016-08-30\">Decreto 585 EXENTO,<br>OBRAS P&#xDA;BLICAS<br>Art. 2<br>D.O. 30.08.2016</a></span>gado.</div><div class=\"p\">NCh2564/.Of2000&nbsp; &nbsp;  : Desratizaci&#xF3;n de la red de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; alcantarillado.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

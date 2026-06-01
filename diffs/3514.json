@@ -1,0 +1,50 @@
+[
+  {
+    "fecha": "1986-05-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-04-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1994-04-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9032044,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; TITULO IV</div><div class=\"p\">&nbsp; &nbsp; De la Junta Directiva</div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0;.- La Junta Directiva es el m&#xE1;ximo organismo colegiado de la Universidad.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; TITULO IV (ARTS. 11-21)</div><div class=\"p\">&nbsp; &nbsp; De la Junta Directiva</div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0;.- La Junta Directiva es el m&#xE1;ximo organismo colegiado de la Universidad.</div><br></div>"
+        },
+        {
+          "part_id": 9032066,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 33&#xB0;.- El Rector es nombrado por el Presidente de la Rep&#xFA;blica de una terna que le propondr&#xE1; la Junta Directiva, permanecer&#xE1; cuatro a&#xF1;os en su cargo y podr&#xE1; ser propuesto y nombrado para los per&#xED;odos siguientes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 33&#xB0;.- El organismo colegiado superior de la<span class=\"n\" id=\"n_0\">LEY 19305,<br>Art. &#xFA;nico</span> universidad convocar&#xE1; a elecciones de rector, las que se realizar&#xE1;n de conformidad con el siguiente procedimiento:</div><div class=\"p\">&nbsp; &nbsp; En la elecci&#xF3;n de rector participar&#xE1;n los acad&#xE9;micos pertenecientes a las tres m&#xE1;s altas jerarqu&#xED;as de la universidad que tengan, a lo menos un a&#xF1;o de antig&#xFC;edad en la misma. Con todo, el organismos colegiado superior respectivo, con el voto conforme de la mayor&#xED;a de sus miembros en ejercicio, podr&#xE1; permitir la participaci&#xF3;n de los acad&#xE9;micos pertenecientes a otras jerarqu&#xED;as, siempre que tengan la calidad de profesor y cumplan con el requisito de antig&#xFC;edad antes se&#xF1;alado. El voto de los acad&#xE9;micos ser&#xE1; personal, secreto e informado y podr&#xE1; ser ponderado, de acuerdo con el reglamento que dicte el organismo colegiado superior de la universidad, atendidas su jerarqu&#xED;a y jornada.</div><div class=\"p\">&nbsp; &nbsp; Para ser candidato a rector se requerir&#xE1; estar en posesi&#xF3;n de un t&#xED;tulo profesional universitario por un per&#xED;odo no inferior a cinco a&#xF1;os y acreditar experiencia acad&#xE9;mica de, a lo menos, tres a&#xF1;os y experiencia en labores directivas por igual plazo o por un per&#xED;odo m&#xED;nimo de tres a&#xF1;os en cargos acad&#xE9;micos que impliquen el desarrollo de funciones de direcci&#xF3;n. S&#xF3;lo ser&#xE1; &#xFA;til como experiencia acad&#xE9;mica la adquirida mediante el ejercicio de funciones en alguna universidad del Estado o que cuente con reconocimiento oficial.</div><div class=\"p\">&nbsp; &nbsp; El candidato a rector ser&#xE1; elegido en votaci&#xF3;n<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div> directa y por mayor&#xED;a absoluta de los votos v&#xE1;lidamente emitidos. La elecci&#xF3;n se realizar&#xE1;, en la forma que determine el reglamento, a lo menos treinta d&#xED;as antes de aquel en que deba cesar en el cargo el que est&#xE9; en funciones. Si a la elecci&#xF3;n de rector se presentaren m&#xE1;s de dos candidatos y ninguno de ellos obtuviere m&#xE1;s de la mitad de los sufragios v&#xE1;lidamente emitidos, se proceder&#xE1; a una nueva elecci&#xF3;n, la que se circunscribir&#xE1; a los dos candidatos que hubieren obtenido las m&#xE1;s altas mayor&#xED;as relativas.</div><div class=\"p\">&nbsp; &nbsp; El rector ser&#xE1; nombrado por el Presidente de la Rep&#xFA;blica, mediante decreto supremo del Ministerio de Educaci&#xF3;n. Durar&#xE1; cuatro a&#xF1;os en sus funciones y podr&#xE1; ser reelegido.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El Art&#xED;culo transitorio de la Ley N&#xB0; 19.305, publicada en el &quot;Diario Oficial&quot; de 23 de Abril de 1994, dispuso que para la primera elecci&#xF3;n de rector que se realice en conformidad a esa ley, el reglamento a que se refiere el inciso cuarto del nuevo texto establecido en el art&#xED;culo &#xFA;nico, deber&#xE1; ponerse en conocimiento de la comunidad universitaria a lo menos con treinta d&#xED;as de anticipaci&#xF3;n a la realizaci&#xF3;n de aqu&#xE9;lla.<br></div></div>"
+        },
+        {
+          "part_id": 9032092,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; TITULO X</div><div class=\"p\">&nbsp; &nbsp; De la Interpretaci&#xF3;n del Estatuto</div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 59&#xB0;.- En caso de dudas sobre el correcto sentido de una disposici&#xF3;n de este Estatuto, la junta Directiva por mayor&#xED;a de sus miembros en ejercicio, interpretar&#xE1; dicha disposici&#xF3;n a petici&#xF3;n del Rector, sin perjuicio de la facultad que, conforme a la leyes, le corresponde a la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; TITULO X (ART. 59)</div><div class=\"p\">&nbsp; &nbsp; De la Interpretaci&#xF3;n del Estatuto</div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 59&#xB0;.- En caso de dudas sobre el correcto sentido de una disposici&#xF3;n de este Estatuto, la junta Directiva por mayor&#xED;a de sus miembros en ejercicio, interpretar&#xE1; dicha disposici&#xF3;n a petici&#xF3;n del Rector, sin perjuicio de la facultad que, conforme a la leyes, le corresponde a la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-01-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

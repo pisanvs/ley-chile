@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-06-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-07-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9812346,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1104959&amp;idParte=9812343&amp;idVersion=2017-07-08\">Aviso S/N,<br>DEFENSA<br>D.O. 08.07.2017</a></span></div><br><div class=\"p\">CONTRALOR&#xCD;A GENERAL DE LA REP&#xDA;BLICA</div><div class=\"p\">Divisi&#xF3;n de Infraestructura y Regulaci&#xF3;n</div><br><div class=\"p\">&nbsp; &nbsp;  Cursa con alcance el decreto N&#xB0; 217, de 2017, del Ministerio de Defensa Nacional, Subsecretar&#xED;a para las Fuerzas Armadas</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xB0; 21.291.- Santiago, 12 de junio de 2017.</div><br><div class=\"p\">&nbsp; &nbsp;  La Contralor&#xED;a General ha dado curso al instrumento del rubro, que aprueba el Plano PP-16-01, que determina la Zona de Protecci&#xF3;n del Aer&#xF3;dromo &quot;El Bosque&quot;, ubicado en la comuna de igual denominaci&#xF3;n, confeccionado por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil -que hab&#xED;a sido sancionado anteriormente por los decretos Nos 414 y 592, ambos de 2016, de esa cartera ministerial, los que fueron representados por los oficios N os 70.673 y 94.040, de igual anualidad, de este origen, respectivamente-, por cuanto se han corregido suficientemente los reparos formulados en este &#xFA;ltimo documento.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, cabe precisar que, acorde con lo graficado en el plano de que se trata, los arcos para definir el &#xC1;REA &quot;d&quot; se trazan a partir del punto medio de los extremos de la franja de pista -esto es, desde la intersecci&#xF3;n de los extremos de dicha franja con la proyecci&#xF3;n del eje de la misma-, y no &quot;desde los extremos de la franja de pista&quot;, como prev&#xE9; la letra C, del n&#xFA;mero 2, del acto en examen.</div><br><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a Ud., Jorge Berm&#xFA;dez Soto, Contralor General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Al se&#xF1;or </div><div class=\"p\">&nbsp; &nbsp;  Ministro de Defensa Nacional </div><div class=\"p\">&nbsp; &nbsp;  Presente.</div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1104959,
+      "fecha": "2017-07-08"
+    }
+  }
+]

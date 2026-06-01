@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-08-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-02-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6148395,
+          "old": "<div><div class=\"p\">DECLARA INSTITUCIONES OFICIALES DE CONTROL TECNICO DE MATERIALES Y ELEMENTOS PAPA LA CONSTRUCCION</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de Agosto de 1988.- Hoy se resolvi&#xF3; lo que sigue</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 298.- Visto: Lo dispuesto en el inciso segundo del n&#xFA;mero 1 del articulo 254 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n y las facultades que me otorga el DL No. 1.305, de 1976, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA INSTITUCIONES OFICIALES DE CONTROL TECNICO DE MATERIALES Y ELEMENTOS PAPA LA CONSTRUCCION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de Agosto de 1988.- Hoy se resolvi&#xF3; lo que sigue</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 298.- Visto: Lo dispuesto en el inciso segundo del n&#xFA;mero 1 del articulo 254 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n y las facultades que me otorga el DL No. 1.305, de 1976, dicto la siguiente </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-08-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-06-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7244076,
+          "old": "<div><div class=\"p\">APRUEBA PLAN DE ESTUDIO FLEXIBLE MINIMO PARA LA EDUCACION MEDIA TECNICO - PROFESIONAL</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 130 exento.- Santiago, 20.07.88.-</div><div class=\"p\">Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que los planes y programas de estudio se deben ajustar a los criterios de flexibilidad, pertinencia y relevancia curricular que propicia el Ministerio de Educaci&#xF3;n P&#xFA;blica;</div><div class=\"p\">&nbsp; &nbsp;  Que para la definici&#xF3;n de un plan y programa de estudio de especialidades t&#xE9;cnico - profesionales, es necesario desarrollar un proceso cient&#xED;fico de planeamiento curricular sobre la base de estudios e investigaciones de contexto, cuya informaci&#xF3;n evaluada adecuadamente pueda facilitar la toma de decisiones educacionales en estas materias;</div><div class=\"p\">&nbsp; &nbsp;  Que los establecimientos de educaci&#xF3;n media t&#xE9;cnico - profesional han venido aplicando sus propios proyectos educativos sobre la base de un marco curricular que orienta al planeamiento y las decisiones sobre planes y programas de estudio dise&#xF1;ado para el segundo cielo de la modalidad; y</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el DFL No. 7.912 de 1927; DS de Educaci&#xF3;n No. 2.039 de 1980; resoluci&#xF3;n No. 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica y en los art&#xED;culos 32 No. 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto </div></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA PLAN DE ESTUDIO FLEXIBLE MINIMO PARA LA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> EDUCACION MEDIA TECNICO - PROFESIONAL</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 130 exento.- Santiago, 20.07.88.-</div><div class=\"p\">Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que los planes y programas de estudio se deben ajustar a los criterios de flexibilidad, pertinencia y relevancia curricular que propicia el Ministerio de Educaci&#xF3;n P&#xFA;blica;</div><div class=\"p\">&nbsp; &nbsp;  Que para la definici&#xF3;n de un plan y programa de estudio de especialidades t&#xE9;cnico - profesionales, es necesario desarrollar un proceso cient&#xED;fico de planeamiento curricular sobre la base de estudios e investigaciones de contexto, cuya informaci&#xF3;n evaluada adecuadamente pueda facilitar la toma de decisiones educacionales en estas materias;</div><div class=\"p\">&nbsp; &nbsp;  Que los establecimientos de educaci&#xF3;n media t&#xE9;cnico - profesional han venido aplicando sus propios proyectos educativos sobre la base de un marco curricular que orienta al planeamiento y las decisiones sobre planes y programas de estudio dise&#xF1;ado para el segundo cielo de la modalidad; y</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el DFL No. 7.912 de 1927; DS de Educaci&#xF3;n No. 2.039 de 1980; resoluci&#xF3;n No. 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica y en los art&#xED;culos 32 No. 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto </div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El Art. 12 del DTO 220, Educaci&#xF3;n, publicado el 04.06.1998, derog&#xF3; el presente decreto conforme a la siguiente gradualidad:<br>&nbsp; &nbsp; A&#xF1;o escolar 1999: 1er. a&#xF1;o<br>&nbsp; &nbsp; A&#xF1;o escolar 2000: 2do. a&#xF1;o<br>&nbsp; &nbsp; A&#xF1;o escolar 2001: 3er. a&#xF1;o<br>&nbsp; &nbsp; A&#xF1;o escolar 2002: 4to. a&#xF1;o<br></div></div>"
+        }
+      ]
+    }
+  }
+]

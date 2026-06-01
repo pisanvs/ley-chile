@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1988-07-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-12-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1988-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8751743,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El patrimonio a que se refiere el art&#xED;culo anterior, ser&#xE1; administrado por el Comandante del Comando de Industria Militar e Ingenier&#xED;a, quien tendr&#xE1; su representaci&#xF3;n judicial y extrajudicial.</div><div class=\"p\">&nbsp; &nbsp; En ejercicio de las facultades de administraci&#xF3;n se&#xF1;aladas en el inciso anterior, dicho Comandante podr&#xE1; celebrar toda clase de actos y contratos, adquirir y enajenar todo tipo de bienes, muebles e inmuebles, inclu&#xED;dos valores mobiliarios. En el caso de suscribir acciones, podr&#xE1;, por s&#xED; o por delegados, ejercer todos los derechos que al Fisco correspondan en tal virtud. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El patrimonio a que se refiere el art&#xED;culo anterior, ser&#xE1; administrado por el Comandante del Comando de Industria Militar e Ingenier&#xED;a, quien tendr&#xE1; su representaci&#xF3;n judicial y extrajudicial.</div><div class=\"p\">&nbsp; &nbsp; En ejercicio de las facultades de administraci&#xF3;n se&#xF1;aladas en el inciso anterior, dicho Comandante podr&#xE1; celebrar toda clase de actos y contratos, adquirir y enajenar todo tipo de bienes, muebles e inmuebles, inclu&#xED;dos valores mobiliarios. En el caso de suscribir acciones, podr&#xE1;, por s&#xED; o por delegados, ejercer todos los derechos que al Fisco correspondan en tal virtud.</div><div class=\"p\">&nbsp; &nbsp; Dentro del margen de los recursos presupuestarios<span class=\"n\" id=\"n_0\">LEY 18768<br>Art. 82</span> correspondientes, podr&#xE1;, contratar personal sobre la base de honorarios o de acuerdo con las normas del C&#xF3;digo del Trabajo y legislaci&#xF3;n complementaria.</div><div class=\"p\">&nbsp; &nbsp; En el orden judicial, el Comandante contar&#xE1; con todas las atribuciones contempladas en ambos incisos del art&#xED;culo 7&#xB0; del C&#xF3;digo de Procedimiento Civil.</div><div class=\"p\">&nbsp; &nbsp; El Comandante podr&#xE1; delegar, parcialmente, las facultades mencionadas en los incisos anteriores en autoridades del Comando de Industria Militar e Ingenier&#xED;a o de las dem&#xE1;s Reparticiones se&#xF1;aladas en el art&#xED;culo 1&#xB0;.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

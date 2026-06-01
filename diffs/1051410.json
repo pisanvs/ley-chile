@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-05-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-05-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9355895,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Esta ley tiene por objeto promover h&#xE1;bitos y estilos de vida saludables para mejorar la calidad de vida y el bienestar de las personas.</div><div class=\"p\">&nbsp; &nbsp;  Para efectos de esta ley, se entender&#xE1; por h&#xE1;bitos y estilos de vida saludables, aquellos que propenden y promueven una alimentaci&#xF3;n saludable, el desarrollo de actividad f&#xED;sica, la vida familiar y las actividades al aire libre, como tambi&#xE9;n aquellas conductas y acciones que tengan por finalidad contribuir a prevenir, disminuir o revertir los factores y conductas de riesgo asociados a las enfermedades no transmisibles.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Esta ley tiene por objeto promover h&#xE1;bitos y estilos de vida saludables para mejorar la calidad de vida y el bienestar de las personas.</div><div class=\"p\">&nbsp; &nbsp;  Para efectos de esta ley, se entender&#xE1; por h&#xE1;bitos y estilos de vida saludables, aquellos que propenden y promueven una alimentaci&#xF3;n saludable, el desarrollo de actividad f&#xED;sica, la vida familiar y las actividades al aire libre, como tambi&#xE9;n aquellas conductas y acciones que tengan por finalidad contribuir a prevenir, disminuir o revertir los factores y conductas de riesgo asociados a las enfermedades no transmisibles.</div><div class=\"p\">&nbsp; &nbsp;  Para <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1131064&amp;idParte=10019328&amp;idVersion=2019-05-02\">Ley 21155<br>Art. 7<br>D.O. 02.05.2019</a></span>todos los efectos se entender&#xE1; que la lactancia con leche materna o lactancia materna es el medio &#xF3;ptimo e ideal para asegurar la alimentaci&#xF3;n saludable de lactantes, hasta los seis meses de manera exclusiva y hasta los dos a&#xF1;os de edad en forma complementaria, y constituye la forma m&#xE1;s eficiente de protecci&#xF3;n integral de la salud de madres e infantes lactantes.</div><div class=\"p\">&nbsp; &nbsp;  El Estado y la sociedad civil promover&#xE1;n, proteger&#xE1;n y apoyar&#xE1;n la lactancia materna de conformidad con lo dispuesto en el inciso anterior.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1131064,
+      "fecha": "2019-05-02"
+    }
+  }
+]

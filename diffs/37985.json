@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-07-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-07-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7200835,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE RADIO URBANO PARA SERVICIO DE LOCOMOCION COLECTIVA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 27/94 exenta.- Iquique, 13 de julio de 1994.</div><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE RADIO URBANO PARA SERVICIO DE LOCOMOCION COLECTIVA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 27/94 exenta.- Iquique, 13 de julio de 1994.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

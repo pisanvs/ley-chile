@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-06-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8900656,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo octavo.- A los funcionarios de las Plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes que sean encasillados en ellas conforme lo establecido en el art&#xED;culo segundo transitorio de esta ley, se les exigir&#xE1;n los ex&#xE1;menes habilitantes para el ascenso establecidos en el art&#xED;culo 17 del Estatuto del Personal, s&#xF3;lo a contar del d&#xED;a siguiente del cumplimiento del plazo se&#xF1;alado en el inciso primero del art&#xED;culo tercero transitorio de esta ley.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1078863&amp;idParte=9616304&amp;idVersion=2015-06-27\">Ley 20849<br>Art. 3<br>D.O. 27.06.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo octavo.-&nbsp; Derogado</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1078863,
+      "fecha": "2015-06-27"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-09-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9702635,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cese, como derecho antidumping provisional, una sobretasa arancelaria ad val&#xF3;rem de 13,1% a las importaciones de barras de acero para hormig&#xF3;n con muescas, cordones, surcos o relieves originarias de M&#xE9;xico, que deben cumplir con la Norma Chilena NCh204 Of.2006, clasificadas en los c&#xF3;digos arancelarios 7213.1000, 7214.2000, 7227.9000 y 7228.3000 del Sistema Armonizado Chileno.</div><div class=\"p\">&nbsp; &nbsp;  2.- El derecho antidumping provisional que se establece mediante el presente decreto, en conformidad con lo dispuesto en el art&#xED;culo 62 del decreto supremo N&#xBA; 1.314 del Ministerio de Hacienda, de 2012, regir&#xE1; desde su publicaci&#xF3;n en el Diario Oficial y hasta la publicaci&#xF3;n en &#xE9;ste de la decisi&#xF3;n que resuelva la aplicaci&#xF3;n o no de medidas definitivas. En todo caso, su duraci&#xF3;n no podr&#xE1; exceder del t&#xE9;rmino de cuatro meses.</div><div class=\"p\">&nbsp; &nbsp;  3.- Corresponder&#xE1; al Servicio Nacional de Aduanas adoptar las medidas conducentes a controlar la correcta aplicaci&#xF3;n de la medida antidumping establecida en el presente decreto.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cese, como derecho antidumping provisional, una sobretasa arancelaria ad val&#xF3;rem <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>de 13,1% a las importaciones de barras de acero para hormig&#xF3;n con muescas, cordones, surcos o relieves originarias de M&#xE9;xico, que deben cumplir con la Norma Chilena NCh204 Of.2006, clasificadas en los c&#xF3;digos arancelarios 7213.1000, 7214.2000, 7227.9000 y 7228.3000 del Sistema Armonizado Chileno.</div><div class=\"p\">&nbsp; &nbsp;  2.- El derecho antidumping provisional que se establece mediante el presente decreto, en conformidad con lo dispuesto en el art&#xED;culo 62 del decreto supremo N&#xBA; 1.314 del Ministerio de Hacienda, de 2012, regir&#xE1; desde su publicaci&#xF3;n en el Diario Oficial y hasta la publicaci&#xF3;n en &#xE9;ste de la decisi&#xF3;n que resuelva la aplicaci&#xF3;n o no de medidas definitivas. En todo caso, su duraci&#xF3;n no podr&#xE1; exceder del t&#xE9;rmino de cuatro meses.</div><div class=\"p\">&nbsp; &nbsp;  3.- Corresponder&#xE1; al Servicio Nacional de Aduanas adoptar las medidas conducentes a controlar la correcta aplicaci&#xF3;n de la medida antidumping establecida en el presente decreto.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los numerales 1 y 2 del Decreto 308 Exento, Hacienda, publicado el 17.09.2016, modifican la presente norma en el sentido de establecer como modificaci&#xF3;n al derecho antidumping provisional establecido en la presente norma, una sobretasa arancelaria ad val&#xF3;rem de 11,01% a las importaciones de barras de acero para hormig&#xF3;n con muescas, cordones, surcos o relieves originarias de M&#xE9;xico, que deben cumplir con la Norma Chilena NCh204 Of.2006, clasificadas en los c&#xF3;digos arancelarios 7213.1000, 7214.2000, 7227.9000 y 7228.3000 del Sistema Armonizado Chileno, regir&#xE1; desde su publicaci&#xF3;n de la presente norma y hasta un plazo de dos meses.</div></div>"
+        }
+      ]
+    }
+  }
+]

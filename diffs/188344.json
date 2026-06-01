@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-08-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6345241,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;base el Programa de Estudios de la Carrera de &quot;T&#xE9;cnico de Nivel Superior en Electricidad Industrial&quot;, impartida por el Centro de Estudios Navieros, de Concepci&#xF3;n, para el efecto que sus titulados puedan obtener la licencia de instalador el&#xE9;ctrico clase C.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Esta Superintendencia efectuar&#xE1; visitas inspectivas peri&#xF3;dicas al establecimiento educacional que imparte dicha carrera, para fiscalizar el cumplimiento del programa aprobado, registrando dicha inspecci&#xF3;n en un libro de visitas, foliado y con copia, el cual deber&#xE1; estar a disposici&#xF3;n de los funcionarios de SEC.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Para la obtenci&#xF3;n de licencia de instalador el&#xE9;ctrico en la clase se&#xF1;alada, por parte de los interesados, el Centro de Estudios Navieros de Concepci&#xF3;n deber&#xE1; acreditar y dejar establecido en los certificados de t&#xED;tulo que emita, que el t&#xED;tulo se obtuvo en conformidad al plan y programa de estudios aprobado por la resoluci&#xF3;n exenta N&#xBA;42, de fecha 16.03.99, de la Subsecretar&#xED;a de Educaci&#xF3;n P&#xFA;blica, Regi&#xF3;n del B&#xED;o B&#xED;o.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; La presente resoluci&#xF3;n entrar&#xE1; en vigencia a contar de la fecha de publicaci&#xF3;n en el Diario Oficial, por cuenta del interesado, y mantendr&#xE1; su validez mientras el programa aprobado no sea modificado. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;base el Programa de Estudios de la</div><div class=\"p\">Carrera de &quot;T&#xE9;cnico de Nivel Superior en Electricidad</div><div class=\"p\">Industrial&quot;, impartida por el Centro de Estudios</div><div class=\"p\">Navieros, de Concepci&#xF3;n, para el efecto que sus</div><div class=\"p\">titulados puedan obtener la licencia de instalador</div><div class=\"p\">el&#xE9;ctrico clase C.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Esta Superintendencia efectuar&#xE1; visitas</div><div class=\"p\">inspectivas peri&#xF3;dicas al establecimiento educacional</div><div class=\"p\">que imparte dicha carrera, para fiscalizar el</div><div class=\"p\">cumplimiento del programa aprobado, registrando dicha</div><div class=\"p\">inspecci&#xF3;n en un libro de visitas, foliado y con copia,</div><div class=\"p\">el cual deber&#xE1; estar a disposici&#xF3;n de los funcionarios</div><div class=\"p\">de SEC.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Para la obtenci&#xF3;n de licencia de instalador</div><div class=\"p\">el&#xE9;ctrico en la clase se&#xF1;alada, por parte de los</div><div class=\"p\">interesados, el Centro de Estudios Navieros de</div><div class=\"p\">Concepci&#xF3;n deber&#xE1; acreditar y dejar establecido en</div><div class=\"p\">los certificados de t&#xED;tulo que emita, que el<span class=\"n\" id=\"n_0\">RES 1126 EXENTA,<br>ECONOMIA<br>N&#xBA; 1<br>D.O. 13.09.2001</span></div><div class=\"p\">t&#xED;tulo se obtuvo en conformidad al plan y programa de</div><div class=\"p\">estudios aprobados por el decreto exento N&#xBA; 857, de</div><div class=\"p\">fecha 08.08.97, del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; La presente resoluci&#xF3;n entrar&#xE1; en vigencia a</div><div class=\"p\">contar de la fecha de publicaci&#xF3;n en el Diario Oficial,</div><div class=\"p\">por cuenta del interesado, y mantendr&#xE1; su validez</div><div class=\"p\">mientras el programa aprobado no sea modificado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

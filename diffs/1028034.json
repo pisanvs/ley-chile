@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-07-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-04-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9160487,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Des&#xED;gnase a don Rodrigo Manuel Rojo Sariego, R.U.T. N&#xBA; 13.892.511-0, representante subrogante del representante titular del Ministro de Hacienda ante la Comisi&#xF3;n creada por el art&#xED;culo 9 de la ley N&#xBA; 18.525, encargada de investigar la existencia de distorsiones en el precio de las mercanc&#xED;as importadas.</div><div class=\"p\">&nbsp; &nbsp;  Por razones de buen servicio la designaci&#xF3;n del se&#xF1;or Rojo Sariego, regir&#xE1; a contar desde esta fecha sin esperar la total tramitaci&#xF3;n de la presente resoluci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;. D&#xE9;janse sin efecto las designaciones efectuadas por el numeral 2&#xBA; de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1006453&amp;idParte=0&amp;idVersion=\">resoluci&#xF3;n exenta de Hacienda N&#xBA; 1.241, de 2009</a>.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Des&#xED;gnase a don Rodrigo Manuel Rojo Sariego, R.U.T. N&#xBA; 13.892.511-0, representant<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>e subrogante del representante titular del Ministro de Hacienda ante la Comisi&#xF3;n creada por el art&#xED;culo 9 de la ley N&#xBA; 18.525, encargada de investigar la existencia de distorsiones en el precio de las mercanc&#xED;as importadas.</div><div class=\"p\">&nbsp; &nbsp;  Por razones de buen servicio la designaci&#xF3;n del se&#xF1;or Rojo Sariego, regir&#xE1; a contar desde esta fecha sin esperar la total tramitaci&#xF3;n de la presente resoluci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;. D&#xE9;janse sin efecto las designaciones efectuadas por el numeral 2&#xBA; de la resoluci&#xF3;n exenta de Hacienda N&#xBA; 1.241, de 2009.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 2 de la Resoluci&#xF3;n 172, Hacienda, publicada el 08.04.2015, deja sin efecto la designaci&#xF3;n efectuada por el numeral primero de la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

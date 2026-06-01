@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-12-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-06-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9318064,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Autor&#xED;zase la puesta en marcha del examen te&#xF3;rico informatizado para postulantes a licencias de conductor implementado en los Gabinetes T&#xE9;cnicos de las Municipalidades de Frutillar y Entre Lagos.</div><div class=\"p\">&nbsp; &nbsp;  Las Municipalidades de Frutillar y Entre Lagos deber&#xE1;n aplicar el examen te&#xF3;rico informatizado a los postulantes a licencia que corresponda. En caso contrario se suspender&#xE1; la autorizaci&#xF3;n para otorgar licencias de acuerdo al art&#xED;culo 9&#xBA; de la Ley de Tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  Dentro de los cinco primeros d&#xED;as de los meses de enero y julio de cada a&#xF1;o, los municipios deber&#xE1;n proporcionar a la Subsecretar&#xED;a de Transportes, por medios electr&#xF3;nicos, informaci&#xF3;n estad&#xED;stica sobre la cantidad de ex&#xE1;menes te&#xF3;ricos informatizados rendidos y anulados durante el semestre inmediatamente anterior, diferenciados por clase de licencia.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Autor&#xED;zase la puesta en marcha del examen te&#xF3;rico informatizado para postulantes a licencias de conductor implementado en los Gabinetes T&#xE9;cnicos de las Municipalidades de Frutillar y de Puyehue<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1052231&amp;idParte=9361591&amp;idVersion=2013-06-27\">Resoluci&#xF3;n 287 EXENTA,<br>TRANSPORTES<br>D.O. 27.06.2013</a></span>.</div><div class=\"p\">&nbsp; &nbsp;  Las Municipalidades de Frutillar y de Puyehue deber&#xE1;n aplicar el examen te&#xF3;rico informatizado a los postulantes a licencia que corresponda. En caso contrario se suspender&#xE1; la autorizaci&#xF3;n para otorgar licencias de acuerdo al art&#xED;culo 9&#xBA; de la Ley de Tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  Dentro de los cinco primeros d&#xED;as de los meses de enero y julio de cada a&#xF1;o, los municipios deber&#xE1;n proporcionar a la Subsecretar&#xED;a de Transportes, por medios electr&#xF3;nicos, informaci&#xF3;n estad&#xED;stica sobre la cantidad de ex&#xE1;menes te&#xF3;ricos informatizados rendidos y anulados durante el semestre inmediatamente anterior, diferenciados por clase de licencia.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1052231,
+      "fecha": "2013-06-27"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fecha": "2000-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6304059,
+          "old": "<div><div class=\"p\">FIJA FECHA DE CUMPLIMIENTO ART. 45&#xBA; DECRETO N&#xBA; 212,&nbsp; de 1992</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 282 exenta.- Copiap&#xF3;, 11 de agosto de 2000.- Vistos; El Art. 45&#xBA; del decreto supremo N&#xBA; 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA FECHA DE CUMPLIMIENTO ART. 45&#xBA; DECRETO N&#xBA; 212, DE 1992</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 282 exenta.- Copiap&#xF3;, 11 de agosto de 2000.- Vistos; El Art. 45&#xBA; del decreto supremo N&#xBA; 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        },
+        {
+          "part_id": 6304060,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- F&#xED;jase la fecha de cumplimiento del Art. 45&#xBA; del decreto supremo N&#xBA; 212/92 de este Ministerio, relacionado con la exigencia de contar con un terminal para los servicios de transporte p&#xFA;blico urbano de la comuna de Copiap&#xF3;, III Regi&#xF3;n de Atacama, como se indica a continuaci&#xF3;n:</div><br><div class=\"p\">a)&nbsp;  Para los servicios que se inscriban al 15 de agosto de 2000, en el Registro Nacional de Servicios de Transporte de la III Regi&#xF3;n, el 15 de agosto del 2001.</div><br><div class=\"p\">b)&nbsp;  Para los servicios que se inscriban con posterioridad al 15 de agosto de 2000 en el Registro Nacional de Servicios de Transporte de la III Regi&#xF3;n, al momento de inscribirse.</div><br><div class=\"p\">c)&nbsp;  No obstante lo se&#xF1;alado en las letras precedentes, todos los servicios urbanos de la ciudad mencionada, deber&#xE1;n en el intertanto iniciar y finalizar sus servicios desde recintos habilitados fuera de la v&#xED;a p&#xFA;blica, y que cuenten con una superficie m&#xED;nima de 150 metros cuadrados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- F&#xED;jase la fecha de cumplimiento del Art. 45&#xBA; del decreto supremo N&#xBA; 212/92 de este Ministerio, relacionado con la exigencia de contar con un terminal para los servicios de transporte p&#xFA;blico urbano de la comuna de Copiap&#xF3;, III Regi&#xF3;n de Atacama, como se indica a continuaci&#xF3;n: a) Para los servicios inscritos al 15 de agosto<span class=\"n\" id=\"n_0\">RES 310 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 20.09.2001</span></div><div class=\"p\">&nbsp;  de 2000, en el Registro Nacional de Servicios de</div><div class=\"p\">&nbsp;  Transporte P&#xFA;blico de Pasajeros de la III Regi&#xF3;n,</div><div class=\"p\">&nbsp;  el 15 de agosto del 2002.</div><br><div class=\"p\">b) Para los servicios que se inscriban con</div><div class=\"p\">&nbsp;  posterioridad al 15 de agosto de 2000 en el Registro</div><div class=\"p\">&nbsp;  Nacional de Servicios de Transporte de la III Regi&#xF3;n,</div><div class=\"p\">&nbsp;  al momento de inscribirse.</div><br><div class=\"p\">c) No obstante lo se&#xF1;alado en las letras precedentes,</div><div class=\"p\">&nbsp;  todos los servicios urbanos de la ciudad mencionada,</div><div class=\"p\">&nbsp;  deber&#xE1;n en el intertanto iniciar y finalizar sus</div><div class=\"p\">&nbsp;  servicios desde recintos habilitados fuera de la v&#xED;a</div><div class=\"p\">&nbsp;  p&#xFA;blica, y que cuenten con una superficie m&#xED;nima de</div><div class=\"p\">&nbsp;  150 metros cuadrados.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6304059,
+          "old": "<div><div class=\"p\">FIJA FECHA DE CUMPLIMIENTO ART. 45&#xBA; DECRETO N&#xBA; 212, DE 1992</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 282 exenta.- Copiap&#xF3;, 11 de agosto de 2000.- Vistos; El Art. 45&#xBA; del decreto supremo N&#xBA; 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">FIJA FECHA DE CUMPLIMIENTO ART. 45&#xBA; DECRETO N&#xBA; 212, DE 1992</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 282 exenta.- Copiap&#xF3;, 11 de agosto de 2000.- Vistos; El Art. 45&#xBA; del decreto supremo N&#xBA; 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 6304060,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- F&#xED;jase la fecha de cumplimiento del Art. 45&#xBA; del decreto supremo N&#xBA; 212/92 de este Ministerio, relacionado con la exigencia de contar con un terminal para los servicios de transporte p&#xFA;blico urbano de la comuna de Copiap&#xF3;, III Regi&#xF3;n de Atacama, como se indica a continuaci&#xF3;n: a) Para los servicios inscritos al 15 de agosto<span class=\"n\" id=\"n_0\">RES 310 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 20.09.2001</span></div><div class=\"p\">&nbsp;  de 2000, en el Registro Nacional de Servicios de</div><div class=\"p\">&nbsp;  Transporte P&#xFA;blico de Pasajeros de la III Regi&#xF3;n,</div><div class=\"p\">&nbsp;  el 15 de agosto del 2002.</div><br><div class=\"p\">b) Para los servicios que se inscriban con</div><div class=\"p\">&nbsp;  posterioridad al 15 de agosto de 2000 en el Registro</div><div class=\"p\">&nbsp;  Nacional de Servicios de Transporte de la III Regi&#xF3;n,</div><div class=\"p\">&nbsp;  al momento de inscribirse.</div><br><div class=\"p\">c) No obstante lo se&#xF1;alado en las letras precedentes,</div><div class=\"p\">&nbsp;  todos los servicios urbanos de la ciudad mencionada,</div><div class=\"p\">&nbsp;  deber&#xE1;n en el intertanto iniciar y finalizar sus</div><div class=\"p\">&nbsp;  servicios desde recintos habilitados fuera de la v&#xED;a</div><div class=\"p\">&nbsp;  p&#xFA;blica, y que cuenten con una superficie m&#xED;nima de</div><div class=\"p\">&nbsp;  150 metros cuadrados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- F&#xED;jase la fecha de cumplimiento del Art. 45&#xBA; del decreto supremo N&#xBA; 212/92 de este Ministerio, relacionado con la exigencia de contar con un terminal para los servicios de transporte p&#xFA;blico urbano de la comuna de Copiap&#xF3;, III Regi&#xF3;n de Atacama, como se indica a continuaci&#xF3;n: a) Para los servicios inscritos al 15 de agosto</div><div class=\"p\">&nbsp;  de 2000, en el Registro Nacional de Servicios de</div><div class=\"p\">&nbsp;  Transporte P&#xFA;blico de Pasajeros de la III Regi&#xF3;n,</div><div class=\"p\">&nbsp;  el 15 de agosto del 2004.<span class=\"n\" id=\"n_0\">RES 185 EXENTA,<br>D.O. 13.08.2002</span></div><div class=\"p\">b) Para los servicios que se inscriban con</div><div class=\"p\">&nbsp;  posterioridad al 15 de agosto de 2000 en el Registro</div><div class=\"p\">&nbsp;  Nacional de Servicios de Transporte de la III Regi&#xF3;n,</div><div class=\"p\">&nbsp;  al momento de inscribirse.</div><br><div class=\"p\">c) No obstante lo se&#xF1;alado en las letras precedentes,</div><div class=\"p\">&nbsp;  todos los servicios urbanos de la ciudad mencionada,</div><div class=\"p\">&nbsp;  deber&#xE1;n en el intertanto iniciar y finalizar sus</div><div class=\"p\">&nbsp;  servicios desde recintos habilitados fuera de la v&#xED;a</div><div class=\"p\">&nbsp;  p&#xFA;blica, y que cuenten con una superficie m&#xED;nima de</div><div class=\"p\">&nbsp;  150 metros cuadrados.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

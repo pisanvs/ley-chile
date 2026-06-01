@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-10-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-11-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10061868,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xB0; 2.955, de 26 de septiembre de 2019, el Serviu Regi&#xF3;n de Los Lagos orden&#xF3; expropiaci&#xF3;n lote terreno N&#xB0; 111 para la ejecuci&#xF3;n Proyecto &quot;Mejoramiento Avenida Presidente Ib&#xE1;&#xF1;ez de la ciudad de Puerto Montt&quot;, Provincia de Llanquihue, Regi&#xF3;n de Los Lagos, que figura a nombre de Soc. Inmob. Austral Ltda., rol de aval&#xFA;o seg&#xFA;n SII N&#xB0; 246-4, comuna de Puerto Montt, superficie 690,84 metros cuadrados. La comisi&#xF3;n de peritos integrada por los Sres. Leopoldo Schumacher G., Enrique Hoelck A. y Ra&#xFA;l Palma L., designados por resoluci&#xF3;n exenta N&#xB0; 1.046 de 5 de abril de 2019, fij&#xF3; con fecha 29 de abril de 2019 el valor provisional de la indemnizaci&#xF3;n en la suma de $152.451.100. La indemnizaci&#xF3;n provisional se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a conforme a lo dispuesto en el art&#xED;culo 7&#xB0; del decreto ley N&#xB0; 2.186.- </div></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xB0; 2.955, de 26 de septiembre de 2019, el Serviu Regi&#xF3;n de Los Lagos orden&#xF3; expropiaci&#xF3;n lote terreno N&#xB0; 111 para la ejecuci&#xF3;n Proyecto &quot;Mejoramiento Avenida Presidente Ib&#xE1;&#xF1;ez de la ciudad de Puerto Montt&quot;, Provincia de Llanquihue, Regi&#xF3;n de Los Lagos, que figura a nombre de Soc. Inmob. Austral Ltda., rol de aval&#xFA;o seg&#xFA;n SII N&#xB0; 246-4, comuna de Puerto Montt, superficie 690,84 metros cuadrados. La comisi&#xF3;n de peritos integrada por los Sres. Leopoldo Schumacher G., Enrique Hoelck A. y Ra&#xFA;l Palma L., designados por resoluci&#xF3;n exenta N&#xB0; 1.046 de 5 de abril de 2019, fij&#xF3; con fecha 29 de abril de 2019 el valor provisional de la indemnizaci&#xF3;n en la suma de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1138679&amp;idParte=10068324&amp;idVersion=2019-11-15\">Aviso S/N, VIVIENDA<br>D.O. 15.11.2019</a></span>$475.914.500. La indemnizaci&#xF3;n provisional se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a conforme a lo dispuesto en el art&#xED;culo 7&#xB0; del decreto ley N&#xB0; 2.186.- </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1138679,
+      "fecha": "2019-11-15"
+    }
+  }
+]

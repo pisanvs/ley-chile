@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-05-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1985-04-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6321209,
+          "old": "<div><div class=\"p\">REGLAMENTO DE PROCEDIMIENTOS ADMINISTRATIVOS Y DE ATENCION DE PACIENTES PRIVADOS EN LOS ESTABLECIMIENTOS DE LOS SERVICIOS DE SALUD</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de Marzo de 1981.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 79.- Visto: La necesidad de ordenar la atenci&#xF3;n de las distintas clases de pacientes en los establecimientos de los Servicios de Salud, tanto para asegurar la que deben obtener sus beneficiarios legales, cuanto para regular las que pueden recibir otros enfermos, todo ello, en armon&#xED;a con las bases de la pol&#xED;tica de salud del Gobierno y los principios del desarrollo econ&#xF3;mico y social del pa&#xED;s; lo dispuesto en la ley 10.383, ley 16.781, decreto ley 2575, decreto ley 2763, el D.F.L. N&#xBA; 01/81 del Ministerio de Salud; y en el art&#xED;culo 32&#xBA; N&#xBA; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTO DE PROCEDIMIENTOS ADMINISTRATIVOS Y DE ATENCION DE PACIENTES PRIVADOS EN LOS ESTABLECIMIENTOS DE LOS SERVICIOS DE SALUD</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de Marzo de 1981.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 79.- Visto: La necesidad de ordenar la atenci&#xF3;n de las distintas clases de pacientes en los establecimientos de los Servicios de Salud, tanto para asegurar la que deben obtener sus beneficiarios legales, cuanto para regular las que pueden recibir otros enfermos, todo ello, en armon&#xED;a con las bases de la pol&#xED;tica de salud del Gobierno y los principios del desarrollo econ&#xF3;mico y social del pa&#xED;s; lo dispuesto en la ley 10.383, ley 16.781, decreto ley 2575, decreto ley 2763, el D.F.L. N&#xBA; 01/81 del Ministerio de Salud; y en el art&#xED;culo 32&#xBA; N&#xBA; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

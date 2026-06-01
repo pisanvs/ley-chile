@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-03-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-10-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8586186,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;: El criterio de calificaci&#xF3;n del ruido en relaci&#xF3;n con la reacci&#xF3;n de la comunidad ser&#xE1; el de la Norma Chilena Oficial N.Ch. 1619 declarada Oficial de la Rep&#xFA;blica de Chile, por decreto supremo N&#xBA; 253 del 10 de agosto de 1970 del Ministerio de Salud P&#xFA;blica.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14.- La <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1018280&amp;idParte=9019141&amp;idVersion=2010-10-18\">Ordenanza 94,<br>M. DE PROVIDENCIA<br>N&#xBA; 1<br>D.O. 18.10.2010</a></span>norma de emisi&#xF3;n de ruidos molestos generados por fuentes fijas ser&#xE1; la establecida en el Decreto Supremo N&#xBA;146 de 1997 del Ministerio Secretar&#xED;a General de la Presidencia o la que en el futuro la reemplace.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1018280,
+      "fecha": "2010-10-18"
+    }
+  }
+]

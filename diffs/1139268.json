@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10074882,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n exenta N&#xB0; 2.565, de 20 de noviembre de 2019, Serviu Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, orden&#xF3; la expropiaci&#xF3;n de veinticinco inmuebles ubicados en la comuna de Rancagua, cuyo rol de aval&#xFA;o, aparente propietario y superficie a expropiar, se indica en el siguiente cuadro:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/100953.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  Conforme al Plano aprobado por el Serviu VI Regi&#xF3;n para el Proyecto &quot;Ampliaci&#xF3;n Avenida Baquedano&quot;, en la comuna de Rancagua, los inmuebles se encuentran inscritos en el Registro de Propiedad del Conservador de Bienes Ra&#xED;ces de Rancagua. La Comisi&#xF3;n Tasadora, integrada por Edmundo G&#xF3;mez Lagos, Constructor Civil; Lorena Gajardo Alarc&#xF3;n, Ingeniero Constructor; Andr&#xE9;s Tobar Beluz&#xE1;n, Arquitecto, seg&#xFA;n Informe de tasaci&#xF3;n de fecha 6 de noviembre de 2019, fij&#xF3; el siguiente monto provisional de indemnizaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/100952.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  El pago se realizar&#xE1; consignando en el tribunal correspondiente los montos debidamente reajustados conforme al Art. 5&#xB0; del DL 2.186.- </div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n exenta N&#xB0; 2.565, de 20 de noviembre de 2019, Serviu Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, orden&#xF3; la expropiaci&#xF3;n de veinticinco inmuebles ubicados en la comuna de Rancagua, cuyo rol de aval&#xFA;o, aparente propietario y superficie a expropiar, se indica en el siguiente cuadro<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/100953.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  Conforme al Plano aprobado por el Serviu VI Regi&#xF3;n para el Proyecto &quot;Ampliaci&#xF3;n Avenida Baquedano&quot;, en la comuna de Rancagua, los inmuebles se encuentran inscritos en el Registro de Propiedad del Conservador de Bienes Ra&#xED;ces de Rancagua. La Comisi&#xF3;n Tasadora, integrada por Edmundo G&#xF3;mez Lagos, Constructor Civil; Lorena Gajardo Alarc&#xF3;n, Ingeniero Constructor; Andr&#xE9;s Tobar Beluz&#xE1;n, Arquitecto, seg&#xFA;n Informe de tasaci&#xF3;n de fecha 6 de noviembre de 2019, fij&#xF3; el siguiente monto provisional de indemnizaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/100952.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  El pago se realizar&#xE1; consignando en el tribunal correspondiente los montos debidamente reajustados conforme al Art. 5&#xB0; del DL 2.186.- </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  La Resoluci&#xF3;n 215 Exenta, Vivienda, publicada el 02.08.2021, rectifica la presente norma en el sentido de excluir la expropiaci&#xF3;n del inmueble de aparente dominio de Reginato Yarza, Alejandro y otros, ubicado en Avenida Baquedano N&#xB0; 840, comuna de Rancagua, rol de aval&#xFA;o 603-20, individualizado como el lote 93 en plano de expropiaciones del proyecto &quot;Ampliaci&#xF3;n Avenida Baquedano&quot; en la comuna de Rancagua, quedando de esta manera sin efecto la expropiaci&#xF3;n dispuesta en la presente resoluci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

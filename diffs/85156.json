@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-10-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-12-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6069732,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 86 DE 1992 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 86 DE 1992</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

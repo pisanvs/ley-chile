@@ -1,0 +1,86 @@
+[
+  {
+    "fecha": "1978-10-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-07-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8642617,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22&#xBA;- Los Jefes de Servicios podr&#xE1;n excluir los bienes muebles utilizables que no requieran para sus necesidades, solicitando a la Direcci&#xF3;n Regional de Tierras y Bienes Nacionales la autorizaci&#xF3;n para la baja con enajenaci&#xF3;n de estos bienes. Esta Direcci&#xF3;n se pronunciar&#xE1; autorizando la baja solicitada o sugiriendo la entidad que necesitare los bienes, en cuyo caso el Servicio deber&#xE1; proceder al correspondiente traslado. Si no se pronunciare dentro del plazo de 45 d&#xED;as, contado desde la fecha de la recepci&#xF3;n de la solicitud, se entender&#xE1; que la Direcci&#xF3;n Regional autoriza la baja.</div><div class=\"p\">&nbsp; &nbsp;  Dentro del plazo de 10 d&#xED;as, contado desde la recepci&#xF3;n de la autorizaci&#xF3;n otorgada por la Direcci&#xF3;n Regional mencionada o del vencimiento del plazo de 45 d&#xED;as a que se refiere el inciso anterior, el Jefe del Servicio deber&#xE1; proceder a dictar la resoluci&#xF3;n de traslado o de baja con enajenaci&#xF3;n, seg&#xFA;n proceda.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22.- <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span>Derogado.</div></div>"
+        },
+        {
+          "part_id": 8642618,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  TITULO IV</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; De la disposici&#xF3;n de Bienes Muebles Fiscales</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  TITULO IV <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span>De la disposici&#xF3;n de Bienes Muebles Fiscales.- Derogado.</div></div>"
+        },
+        {
+          "part_id": 8642619,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23&#xBA;- La enajenaci&#xF3;n se realizar&#xE1; a trav&#xE9;s de la Direcci&#xF3;n de Aprovisionamiento del Estado, de acuerdo a las normas legales y reglamentarias vigentes.</div><div class=\"p\">&nbsp; &nbsp;  No obstante, en las regiones la referida Direcci&#xF3;n podr&#xE1; encomendar la enajenaci&#xF3;n de los muebles a la Direcci&#xF3;n Regional de Tierras y Bienes Nacionales respectiva.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23.-<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span> Derogado.</div></div>"
+        },
+        {
+          "part_id": 8642620,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24&#xBA;- Los bienes muebles deteriorados o destruidos que no se puedan reparar y los que ofrecidos en remate no se hubieren enajenado por no existir inter&#xE9;s en adquirirlos podr&#xE1;n ser dados de baja sin enajenaci&#xF3;n, mediante resoluci&#xF3;n del Servicio respectivo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24.<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span>- Derogado.</div></div>"
+        },
+        {
+          "part_id": 8642621,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 25&#xBA;- Las especies a que se refiere el art&#xED;culo anterior o los residuos de ellas podr&#xE1;n ser donados a otras instituciones del Estado, entidades gremiales, Juntas de Vecinos, Centros de Madres o a cualquiera otra entidad similar que, sin &#xE1;nimo de lucro, persiga fines de inter&#xE9;s social. En casos calificados los bienes mencionados podr&#xE1;n ser donados a pobladores y campesinos.</div><div class=\"p\">&nbsp; &nbsp;  Estas donaciones se perfeccionar&#xE1;n mediante un Acta de Entrega y Aceptaci&#xF3;n, suscrita por el Jefe de la Unidad Operativa o el encargado del Inventario y la persona o entidad favorecida con ella. La especie deber&#xE1; ser claramente individualizada en dicha Acta.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, las especies dadas en baja sin enajenaci&#xF3;n podr&#xE1;n permanecer en el Servicio que dict&#xF3; la resoluci&#xF3;n con el objeto de que sirvan como elemento de reparaci&#xF3;n de otras especies muebles inventariadas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 25<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span>.- Derogado.</div></div>"
+        },
+        {
+          "part_id": 8642622,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 26&#xBA;- En el evento de no aplicarse el art&#xED;culo anterior la especie debe ser destruida debiendo levantarse un Acta al efecto, suscrita por el Jefe de la Unidad Operativa o el encargado del Inventario, visada por la autoridad regional que determine el Jefe del Servicio.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 26.<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span>- Derogado.</div></div>"
+        },
+        {
+          "part_id": 8642623,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 27&#xBA;- Las bajas sin enajenaci&#xF3;n de bienes muebles fiscales ordenadas en los decretos o resoluciones que ponen t&#xE9;rmino a sumarios administrativos por p&#xE9;rdidas, robos, incendios, etc., deben ser comunicadas al encargado del Inventario. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 27<span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span>.- Derogado.</div></div>"
+        },
+        {
+          "part_id": 8642624,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 28&#xBA;- Los bienes muebles fiscales adquiridos por herencia se someter&#xE1;n, en cuanto a su liquidaci&#xF3;n, a las normas del D. S. N&#xBA; 625, del Ministerio de Tierras y Colonizaci&#xF3;n, de 17 de Febrero de 1978.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 28.<span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span>- Derogado.</div></div>"
+        },
+        {
+          "part_id": 8642625,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 29&#xBA;- No se aplicar&#xE1;n las disposiciones de este T&#xED;tulo a los veh&#xED;culos motorizados, a los cuales se les continuar&#xE1; aplicando las disposiciones legales vigentes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 29.<span class=\"n\" id=\"n_8\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span>- Derogado.</div></div>"
+        },
+        {
+          "part_id": 8642626,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 30&#xBA;- La disposici&#xF3;n del material de desecho de los Servicios de la Administraci&#xF3;n del Estado se someter&#xE1; a las disposiciones siguientes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 30.<span class=\"n\" id=\"n_10\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span>- Derogado.</div></div>"
+        },
+        {
+          "part_id": 8642627,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  TITULO V</div><br><div class=\"p\">&nbsp; &nbsp;  Reglas especiales relativas al material de desecho</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  TITULO V Reglas especiales relativas al material de desecho<span class=\"n\" id=\"n_9\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span>.- Derogado.</div></div>"
+        },
+        {
+          "part_id": 8642628,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 31&#xBA;- Para estos efectos se considerar&#xE1; de desecho aquel material que ha perdido las condiciones que lo hac&#xED;an &#xFA;til o aprovechable para el Servicio respectivo. Podr&#xE1;n tener esta condici&#xF3;n, por ejemplo, el papel, la cartulina, el cart&#xF3;n, las tarjetas perforadas, los archivos, las cintas magn&#xE9;ticas, el celuloide y cualquier otro elemento en desuso o no aprovechable.</div><div class=\"p\">&nbsp; &nbsp;  En caso de duda, la Direcci&#xF3;n de Tierras y Bienes Nacionales determinar&#xE1; si un material re&#xFA;ne las condiciones antes mencionadas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 31.- <span class=\"n\" id=\"n_11\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span>Derogado.</div></div>"
+        },
+        {
+          "part_id": 8642629,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 32&#xBA;- El Director Regional de Tierras y Bienes Nacionales respectivo podr&#xE1;, en representaci&#xF3;n del Fisco, enajenar el material de desecho de los Servicios mediante subasta p&#xFA;blica o propuesta p&#xFA;blica o privada, fijando en cada caso las modalidades o condiciones que estime m&#xE1;s favorables al inter&#xE9;s fiscal. En casos calificados, la Direcci&#xF3;n Regional podr&#xE1; autorizar la venta directa del material de desecho.</div><div class=\"p\">&nbsp; &nbsp;  El Director Regional de Tierras y Bienes Nacionales podr&#xE1;, igualmente, autorizar a los Servicios para que dispongan directamente las ventas a que se refiere el inciso anterior, en la forma y condiciones que se se&#xF1;alen en la respectiva resoluci&#xF3;n, u ordenar su destrucci&#xF3;n o incineraci&#xF3;n, si procediere.</div><div class=\"p\">&nbsp; &nbsp;  En todo caso, corresponder&#xE1; a la Direcci&#xF3;n Regional respectiva controlar el cumplimiento estricto de las obligaciones impuestas a los particulares en los respectivos contratos y evitar que se produzcan irregularidades en la entrega del material de desecho. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 32.- <span class=\"n\" id=\"n_12\"><a href=\"navegar?idNorma=1214891&amp;idParte=10554618&amp;idVersion=2025-07-12\">Decreto 662,<br>Art. segundo<br>D.O. 12.07.2025</a></span>Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1214891,
+      "fecha": "2025-07-12"
+    }
+  }
+]

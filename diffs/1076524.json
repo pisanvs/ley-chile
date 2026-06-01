@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2015-04-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-04-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9590892,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- La Agencia de Cooperaci&#xF3;n Internacional de Chile dar&#xE1; anualmente cuenta a la ciudadan&#xED;a de la gesti&#xF3;n de sus pol&#xED;ticas, planes, programas, acciones y de su ejecuci&#xF3;n presupuestaria, que se llevar&#xE1; a efecto entre el mes marzo y antes del 15 de abril del a&#xF1;o siguiente.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1088973&amp;idParte=9691785&amp;idVersion=2016-04-04\">Resoluci&#xF3;n 139 EXENTA,<br>RELACIONES EXTERIORES<br>N&#xB0; 1<br>D.O. 04.04.2016</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- la Agencia de Cooperaci&#xF3;n Internacional de Chile dar&#xE1; anualmente cuenta a la ciudadan&#xED;a de la gesti&#xF3;n de sus pol&#xED;ticas, planes, programas, acciones y de su ejecuci&#xF3;n presupuestaria, entre el mes marzo y el 30 de abril del a&#xF1;o siguiente.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1088973,
+      "fecha": "2016-04-04"
+    }
+  },
+  {
+    "fecha": "2025-01-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-07-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-10-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9623232,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rguese por tres (3) meses, a partir de la publicaci&#xF3;n de este decreto en el Diario Oficial, los permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones al pol&#xED;gono P-Q-R-S-P de 10.35 ha, graficado en el plano A.U. 02/2015, conforme a lo dispuesto en los art&#xED;culos 117&#xBA; de la Ley General de Urbanismo y Construcciones y 1.4.18&#xBA; de la Ordenanza General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp;  2. Inf&#xF3;rmese a la comunidad con la exhibici&#xF3;n en el mural de acceso de Edificio Municipal, en mes&#xF3;n de Atenci&#xF3;n de Direcci&#xF3;n de Obras Municipales el presente decreto y el plano que forma parte de &#xE9;l.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rguese por tres (3) meses, a partir<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de la publicaci&#xF3;n de este decreto en el Diario Oficial, los permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones al pol&#xED;gono P-Q-R-S-P de 10.35 ha, graficado en el plano A.U. 02/2015, conforme a lo dispuesto en los art&#xED;culos 117&#xBA; de la Ley General de Urbanismo y Construcciones y 1.4.18&#xBA; de la Ordenanza General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp;  2. Inf&#xF3;rmese a la comunidad con la exhibici&#xF3;n en el mural de acceso de Edificio Municipal, en mes&#xF3;n de Atenci&#xF3;n de Direcci&#xF3;n de Obras Municipales el presente decreto y el plano que forma parte de &#xE9;l.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n Exenta 2829, Vivienda, publicada el 21.10.2015, modifica la presente norma en el sentido de prorrogar la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteos, urbanizaci&#xF3;n predial y de construcciones, por un plazo de tres (3) meses, a contar del plazo de expiraci&#xF3;n de la postergaci&#xF3;n de permisos vigente, la medida de postergaci&#xF3;n de permisos cuyo plazo de vigencia se prorroga, afectar&#xE1; el pol&#xED;gono N&#xBA; 2, de v&#xE9;rtices P-Q-R-S-P de 10.35 ha, graficado en el plano elaborado por Asesor&#xED;a Urbana 02/2015.</div></div>"
+        }
+      ]
+    }
+  }
+]

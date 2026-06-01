@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8323741,
+          "old": "<div><div class=\"p\">AUTORIZA A DON RONALD SANTOS CORI PARA INICIAR ACTIVIDADES PESOUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON RONALD SANTOS CORI PARA INICIAR ACTIVIDADES PESOUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

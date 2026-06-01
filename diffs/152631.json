@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-10-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8357702,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 352, DE 1986 </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 352, DE 1986</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

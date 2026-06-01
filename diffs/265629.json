@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1970-01-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9006158,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;1&#xB0; Decl&#xE1;rase Normas Oficiales de la Rep&#xFA;blica de Chile las siguientes normas t&#xE9;cnicas aprobadas por el Consejo del Instituto Nacional de Investigaciones Tecnol&#xF3;gicas y Normalizaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  NCh 495. Of. 69, Papeles y Cartones. Expresi&#xF3;n de dimensiones y sentido de fabricaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  NCh496. Of69, Papel. Papel en bobinas y resmas. Dimensiones.</div><div class=\"p\">&nbsp; &nbsp;  NCh586. Of69, Vidrio. Art&#xED;culos en general. Determinaci&#xF3;n del peso.</div><div class=\"p\">&nbsp; &nbsp;  NCh5888. Of69, Vidrio Envases. Determinaci&#xF3;n del color por comparaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  NCh589. Of69. Vidrio Envases. Comprobaci&#xF3;n de las dimensiones.</div><div class=\"p\">&nbsp; &nbsp;  NCh736.&nbsp; Of 69, Papel. Series auxiliares de formatos finales.</div><div class=\"p\">&nbsp; &nbsp;  NCh737. Of69, Papel. Aplicaci&#xF3;n de los formatos finales de la serie A.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;- Corresponder&#xE1; al expresado Instituto Nacional de Investigaciones Tecnol&#xF3;gicas y Normalizaci&#xF3;n, publicar una minuta del presente decreto en el Diario Oficial y el texto &#xED;ntegro de estas normas en la Revista Chilena de Racionalizaci&#xF3;n, &#xF3;rgano oficial del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;- El Instituto de Investigaciones Tecnol&#xF3;gicas y Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de dichas normas, debidamente certificada su conformidad con el texto oficial a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s proporcionarlas gratuitamente a los organismos fiscales y semifiscales que tengan relaci&#xF3;n con las materias de que tratan.&quot; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;1&#xB0; Decl&#xE1;rase Normas Oficiales de la Rep&#xFA;blica de Chile las siguientes normas t&#xE9;cnicas aprobadas por el Consejo del Instituto Nacional de Investigaciones Tecnol&#xF3;gicas y Normalizaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  NCh 495. Of. 69, ANULADA<span class=\"n\" id=\"n_0\">RES 650 EXENTA,<br>ECONOMIA<br>Art. 2&#xBA;<br>D.O. 04.10.2007</span> NCh496. Of69, Papel. Papel en bobinas y resmas. Dimensiones. NCh586. Of69, Vidrio. Art&#xED;culos en general. Determinaci&#xF3;n del peso.</div><div class=\"p\">&nbsp; &nbsp;  NCh5888. Of69, Vidrio Envases. Determinaci&#xF3;n del color por comparaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  NCh589. Of69. Vidrio Envases. Comprobaci&#xF3;n de las dimensiones.</div><div class=\"p\">&nbsp; &nbsp;  NCh736.&nbsp; Of 69, Papel. Series auxiliares de formatos finales.</div><div class=\"p\">&nbsp; &nbsp;  NCh737. Of69, Papel. Aplicaci&#xF3;n de los formatos finales de la serie A.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;- Corresponder&#xE1; al expresado Instituto Nacional de Investigaciones Tecnol&#xF3;gicas y Normalizaci&#xF3;n, publicar una minuta del presente decreto en el Diario Oficial y el texto &#xED;ntegro de estas normas en la Revista Chilena de Racionalizaci&#xF3;n, &#xF3;rgano oficial del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;- El Instituto de Investigaciones Tecnol&#xF3;gicas y Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de dichas normas, debidamente certificada su conformidad con el texto oficial a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s proporcionarlas gratuitamente a los organismos fiscales y semifiscales que tengan relaci&#xF3;n con las materias de que tratan.&quot;</div><br></div>"
+        }
+      ]
+    }
+  }
+]

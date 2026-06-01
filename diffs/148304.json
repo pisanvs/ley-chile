@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-05-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-05-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8353793,
+          "old": "<div><div class=\"p\">AUTORIZA A FELIU, CHEN Y CIA. LTDA. PARA INICIAR ACTIVIDADES PESQUERAS DE TRANSFORMACION </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A FELIU, CHEN Y CIA. LTDA. PARA INICIAR ACTIVIDADES PESQUERAS DE TRANSFORMACION</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

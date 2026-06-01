@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-08-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-10-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9720790,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: F&#xED;jase arancel regulado, para cada una de las carreras que se indican, de acuerdo al <a href=\"https://www.leychile.cl/Navegar?idNorma=1091159&amp;idParte=0&amp;idVersion=\">decreto N&#xBA; 75, de 2016, del Ministerio de Educaci&#xF3;n</a>, en el marco de la asignaci&#xF3;n presupuestaria financiamiento del acceso gratuito a las instituciones de educaci&#xF3;n superior 2016:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59664.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59665.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59666.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59667.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59668.jpg\">.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: F&#xED;jase arancel regulado, para cada una de las carreras que se indican, de acuerdo al decreto N&#xBA; 75, de 2016, del Ministerio de Educaci&#xF3;n, en el marco de la asignaci&#xF3;n presupuestaria financiamiento del acceso gratuito a las instituciones de educaci&#xF3;n superior 2016:</div><br><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59664.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59665.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59666.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59667.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59668.jpg\">.</div><br><br><br><br><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1096103&amp;idParte=9743254&amp;idVersion=2016-10-29\">Decreto 1237 EXENTO<br>Art. SEGUNDO<br>D.O. 29.10.2016</a></span></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/61574.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/61576.jpg\"></div><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo Primero del Decreto 1237 Exento, Educaci&#xF3;n, publicado el 29.10.2016, rectifica las im&#xE1;genes insertas en el presente articulo de la manera que la citada norma indica. </div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1096103,
+      "fecha": "2016-10-29"
+    }
+  }
+]

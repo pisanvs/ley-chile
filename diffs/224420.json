@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1976-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-02-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8801995,
+          "old": "<div><div class=\"p\">APRUEBA CONVENIO DE DOBLE TRIBUTACION AEREA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.331.- Santiago, 20 de Enero de 1976.- Vistos: lo dispuesto en los decretos leyes N.os 1, 128, 247 y 527, la Honorable Junta de Gobierno ha acordado dictar el siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto ley:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA CONVENIO DE DOBLE TRIBUTACION AEREA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.331.- Santiago, 20 de Enero de 1976.- Vistos: lo dispuesto en los decretos leyes N.os 1, 128, 247 y 527, la Honorable Junta de Gobierno ha acordado dictar el siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto ley:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8801996,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Apru&#xE9;base el Convenio de Doble Tributaci&#xF3;n A&#xE9;rea negociado bajo el r&#xE9;gimen de reciprocidad, entre los Gobiernos de Chile y los Estados Unidos de Am&#xE9;rica, y acordado por el intercambio de notas reversales N.o 365, de 29 de Diciembre de 1975, de la Embajada de los Estados Unidos de Am&#xE9;rica en Santiago, y N.o 23.745, de 31 de Diciembre de 1975, del Ministerio de Relaciones Exteriores.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Apru&#xE9;base el Convenio de Doble Tributaci&#xF3;n A&#xE9;rea negociado bajo el r&#xE9;gimen de reciprocidad, entre los Gobiernos de Chile y los Estados Unidos de Am&#xE9;rica, y acordado por el intercambio de notas reversales N.o 385, de 29 de Diciembre de 1975,<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 11.02.1976</span> de la Embajada de los Estados Unidos de Am&#xE9;rica en Santiago, y N.o 23.745, de 31 de Diciembre de 1975, del Ministerio de Relaciones Exteriores.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

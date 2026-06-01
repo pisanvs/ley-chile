@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-03-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-10-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10004478,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quese la <a href=\"https://www.leychile.cl/Navegar?idNorma=1021416&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xB0; 1.099 de fecha 6 de diciembre de 2010</a>, la Direcci&#xF3;n Regional del Servicio: &quot;Establece el &#xC1;rea Reglamentada por Polilla del Racimo de la Vid (Lobesia botrana) en los lugares que se indica&quot;, procediendo a la modificaci&#xF3;n del pol&#xED;gono al tenor del siguiente detalle:</div><div class=\"p\">&nbsp; &nbsp;  El Pol&#xED;gono involucra parcialmente a la zona urbana de la comuna de Copiap&#xF3; y est&#xE1; establecido por 65 v&#xE9;rtices, incluyendo las siguientes coordenadas UTM se&#xF1;aladas a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/90291.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/90292.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- Apl&#xED;quese las medidas dispuestas en la resoluci&#xF3;n exenta N&#xB0; 5.916 del Director Nacional del Servicio de fecha 21 de octubre de 2016, modificada por resoluci&#xF3;n exenta N&#xB0; 3.213 de 25 de mayo 2017 en el &#xE1;rea reglamentada precedentemente se&#xF1;alada.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quese la resoluci&#xF3;n exenta N&#xB0; 1.099 de fecha 6 de diciembre de 2010, la Direcci&#xF3;n Regional del Servicio: &quot;Establece el &#xC1;rea Reglamentada por Polilla del Racimo de la Vid (Lobesia botrana) en los lugares que se indica&quot;, procediendo a la modificaci&#xF3;n del pol&#xED;gono al tenor del siguiente detalle:</div><div class=\"p\">&nbsp; &nbsp;  El Pol&#xED;gono involucra parcialmente a la zona urbana de la comuna de Copiap&#xF3; y est&#xE1; establecido por 65 v&#xE9;rtices, incluyendo las siguientes coordenadas UTM se&#xF1;aladas a cont<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1150392&amp;idParte=10164998&amp;idVersion=2020-10-07\">Resoluci&#xF3;n 417 EXENTA, <br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 07.10.2020</a></span>inuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/113871.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- Apl&#xED;quese las medidas dispuestas en la resoluci&#xF3;n exenta N&#xB0; 5.916 del Director Nacional del Servicio de fecha 21 de octubre de 2016, modificada por resoluci&#xF3;n exenta N&#xB0; 3.213 de 25 de mayo 2017 en el &#xE1;rea reglamentada precedentemente se&#xF1;alada.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1150392,
+      "fecha": "2020-10-07"
+    }
+  }
+]

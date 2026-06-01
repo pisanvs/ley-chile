@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-10-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-12-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7268255,
+          "old": "<div><div class=\"p\">AUTORIZA A FAROS PESCA DE CHILE COMPA&#xD1;IA LIMITADA, PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A FAROS PESCA DE CHILE COMPA&#xD1;IA LIMITADA, PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

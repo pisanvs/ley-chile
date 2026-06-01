@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8357596,
+          "old": "<div><div class=\"p\">Extractos de Resoluciones </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTOS DE RESOLUCIONES</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

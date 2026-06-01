@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-09-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-10-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9633439,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Adjud&#xED;canse a los proyectos locales y regionales que se individualizan, con el detalle de las organizaciones y los recursos que a continuaci&#xF3;n se se&#xF1;alan, correspondientes al &quot;Fondo de Fortalecimiento de las Organizaciones de Inter&#xE9;s P&#xFA;blico, a&#xF1;o 2015&quot; de la Regi&#xF3;n de Valpara&#xED;so:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51938.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Imp&#xFA;tase el gasto al Subt&#xED;tulo 24, &#xCD;tem 3, Asignaci&#xF3;n 318, &quot;Fondo de Fortalecimiento de Organizaciones y Asociaciones de Inter&#xE9;s P&#xFA;blico (Ley N&#xBA; 20.500)&quot;, del presupuesto vigente de este Ministerio.</div><div class=\"p\">&nbsp; &nbsp;  3.- Publ&#xED;quese el listado de los proyectos adjudicados con las sumas a ellos asignadas, en el sitio web www.fondodefortalecimiento.gob.cl.</div><div class=\"p\">&nbsp; &nbsp;  4.- Notif&#xED;quese a las organizaciones adjudicadas para que concurran a la suscripci&#xF3;n del respectivo convenio de ejecuci&#xF3;n del proyecto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Adjud&#xED;canse a los proyectos locales y regionales que se individualizan, con el detalle de las organizaciones y los recursos que a continuaci&#xF3;n se se&#xF1;alan, correspondientes al &quot;Fondo de Fortalecimiento de las Organizaciones de Inter&#xE9;s P&#xFA;blico, a&#xF1;o 2015&quot; de la Regi&#xF3;n de Valpara&#xED;so: <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51938.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Imp&#xFA;tase el gasto al Subt&#xED;tulo 24, &#xCD;tem 3, Asignaci&#xF3;n 318, &quot;Fondo de Fortalecimiento de Organizaciones y Asociaciones de Inter&#xE9;s P&#xFA;blico (Ley N&#xBA; 20.500)&quot;, del presupuesto vigente de este Ministerio.</div><div class=\"p\">&nbsp; &nbsp;  3.- Publ&#xED;quese el listado de los proyectos adjudicados con las sumas a ellos asignadas, en el sitio web www.fondodefortalecimiento.gob.cl.</div><div class=\"p\">&nbsp; &nbsp;  4.- Notif&#xED;quese a las organizaciones adjudicadas para que concurran a la suscripci&#xF3;n del respectivo convenio de ejecuci&#xF3;n del proyecto.</div><br><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  La Resoluci&#xF3;n 1372 Exenta, Secretaria General de Gobierno, publicada el 13.10.2015, modifica la presente norma en el sentido de dejar sin efecto la adjudicacion de la Regi&#xF3;n de Valpara&#xED;so, Organizaci&#xF3;n Junta de Vecinos Villa Los Aramos, proyecto Capacitaci&#xF3;n y desarrollo de derechos ciudadanos y mejor convivencia social, por un monto de $2.000.000.</div></div>"
+        }
+      ]
+    }
+  }
+]

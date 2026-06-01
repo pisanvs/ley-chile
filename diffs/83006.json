@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-06-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-04-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8314568,
+          "old": "<div><div class=\"p\">AUTORIZA A DON HANS ROBERT LUDWIC LAIMBOCK LUEBERT PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON HANS ROBERT LUDWIC LAIMBOCK LUEBERT PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

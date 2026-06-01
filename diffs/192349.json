@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6360686,
+          "old": "<div><div class=\"p\">DECLARA INSTITUCION OFICIAL DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION A &quot;MECANICA DE SUELOS TECNOLAB LIMITADA&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 5 de noviembre de 2001.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 788.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1 del D.S. N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; las facultades que me otorga el D.L. N&#xBA; 1.305 de 1976 y la resoluci&#xF3;n N&#xBA; 389 (V. y U.), dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DECLARA INSTITUCION OFICIAL DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION A &quot;MECANICA DE SUELOS TECNOLAB LIMITADA&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 5 de noviembre de 2001.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 788.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1 del D.S. N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; las facultades que me otorga el D.L. N&#xBA; 1.305 de 1976 y la resoluci&#xF3;n N&#xBA; 389 (V. y U.), dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

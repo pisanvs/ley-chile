@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-02-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8858797,
+          "old": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xBA; 417 EXENTA, DE 2010. FIJA TIEMPOS EST&#xC1;NDARES PARA ACTIVIDADES RELACIONADAS CON EL PROGRAMA DE PLANTELES ANIMALES BAJO CERTIFICACI&#xD3;N OFICIAL (PROGRAMA PABCO), Y DEROGA RESOLUCI&#xD3;N N&#xBA; 4.783 EXENTA, DE 2005</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.361.- Vistos: La hoja env&#xED;o N&#xBA; 1.146, de 2009, de la Divisi&#xF3;n Planificaci&#xF3;n y Desarrollo Estrat&#xE9;gico; las hojas de env&#xED;o N&#xBA; 966, de 2009, y N&#xBA; 599, de 2008, de la Divisi&#xF3;n de Protecci&#xF3;n Pecuaria; lo establecido en la ley N&#xBA; 18.755, modificada por la ley N&#xBA; 19.283; el decreto supremo N&#xBA; 72, de 30 de septiembre de 2009, del Ministerio de Agricultura; la resoluci&#xF3;n N&#xBA; 1.600, de 30 de octubre de 2008, que fija normas sobre exenci&#xF3;n del tr&#xE1;mite de toma de raz&#xF3;n, de la Contralor&#xED;a General de la Rep&#xFA;blica y las facultades que invisto como Director Nacional de la Instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: 1.- La necesidad de actualizar los tiempos est&#xE1;ndares para las actividades que realice el Servicio Agr&#xED;cola y Ganadero, relacionadas con el Programa de Planteles Animales Bajo Certificaci&#xF3;n Oficial (Programa PABCO).</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xBA; 417 EXENTA, DE 2010. FIJA TIEMPOS EST&#xC1;NDARES PARA ACTIVIDADES RELACIONADAS CON EL PROGRAMA DE PLANTELES ANIMALES BAJO CERTIFICACI&#xD3;N OFICIAL (PROGRAMA PABCO), Y DEROGA RESOLUCI&#xD3;N N&#xBA; 4.783 EXENTA, DE 2005</div><br><div class=\"p\">&nbsp; &nbsp;  N<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1010964&amp;idParte=8870504&amp;idVersion=2010-02-12\">Rectificaci&#xF3;n 82<br>D.O. 12.02.2010</a></span>&#xFA;m. 417 exenta.- Vistos: La hoja env&#xED;o N&#xBA; 1.146, de 2009, de la Divisi&#xF3;n Planificaci&#xF3;n y Desarrollo Estrat&#xE9;gico; las hojas de env&#xED;o N&#xBA; 966, de 2009, y N&#xBA; 599, de 2008, de la Divisi&#xF3;n de Protecci&#xF3;n Pecuaria; lo establecido en la ley N&#xBA; 18.755, modificada por la ley N&#xBA; 19.283; el decreto supremo N&#xBA; 72, de 30 de septiembre de 2009, del Ministerio de Agricultura; la resoluci&#xF3;n N&#xBA; 1.600, de 30 de octubre de 2008, que fija normas sobre exenci&#xF3;n del tr&#xE1;mite de toma de raz&#xF3;n, de la Contralor&#xED;a General de la Rep&#xFA;blica y las facultades que invisto como Director Nacional de la Instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: 1.- La necesidad de actualizar los tiempos est&#xE1;ndares para las actividades que realice el Servicio Agr&#xED;cola y Ganadero, relacionadas con el Programa de Planteles Animales Bajo Certificaci&#xF3;n Oficial (Programa PABCO).</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1010964,
+      "fecha": "2010-02-12"
+    }
+  }
+]

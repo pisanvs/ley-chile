@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-06-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6339076,
+          "old": "<div><div class=\"p\">AGREGA VIAS URBANAS A DECLARACION DE CAMINOS PUBLICOS DE LA IX REGION DE LA ARAUCANIA SEGUN DECRETO N&#xBA; 267, DE 1986</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 777.- Santiago, 17 de mayo de 2001.- Vistos: Estos antecedentes, lo dispuesto en el art&#xED;culo 24&#xBA; del DFL N&#xBA; 850 MOP del 12/09/97, que fija el texto refundido, coordinado y sistematizado de la ley 15.840 y del DFL N&#xBA; 206 de 1960; y el n&#xFA;mero I del punto IV del decreto supremo N&#xBA; 19 Minsegpres del 22/01/01.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, es necesario definir cu&#xE1;les ser&#xE1;n las calles o avenidas que ser&#xE1;n administradas por la Direcci&#xF3;n de Vialidad del Ministerio de Obras P&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp;  Que, dentro del marco anterior es preciso modificar lo establecido en el DS&nbsp; N&#xBA; 267 del 13/10/86, para dar continuidad a la Ruta S-30-40 en la ciudad de Temuco, tomando en cuenta que esta ruta forma parte de la Red Vial Estructurante de la IX Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Que, el art&#xED;culo 24&#xBA; del DFL N&#xBA; 850 MOP del 12/09/97, que fija el texto refundido, coordinado y sistematizado de la ley 15.840 y del DFL N&#xBA; 206 de 1960, permite declarar caminos p&#xFA;blicos a las calles o avenidas que unan caminos p&#xFA;blicos.</div><div class=\"p\">&nbsp; &nbsp;  Que, el n&#xFA;mero I del punto IV del decreto supremo N&#xBA; 19 Minsegpres del 22/01/01, faculta al Ministro de Obras P&#xFA;blicas para firmar por orden del Presidente de la Rep&#xFA;blica esta declaratoria.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">AGREGA VIAS URBANAS A DECLARACION DE CAMINOS PUBLICOS DE LA IX REGION DE LA ARAUCANIA SEGUN DECRETO N&#xBA; 267, DE 1986</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 777.- Santiago, 17 de mayo de 2001.- Vistos: Estos antecedentes, lo dispuesto en el art&#xED;culo 24&#xBA; del DFL N&#xBA; 850 MOP del 12/09/97, que fija el texto refundido, coordinado y sistematizado de la ley 15.840 y del DFL N&#xBA; 206 de 1960; y el n&#xFA;mero I del punto IV del decreto supremo N&#xBA; 19 Minsegpres del 22/01/01.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, es necesario definir cu&#xE1;les ser&#xE1;n las calles o avenidas que ser&#xE1;n administradas por la Direcci&#xF3;n de Vialidad del Ministerio de Obras P&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp;  Que, dentro del marco anterior es preciso modificar lo establecido en el DS&nbsp; N&#xBA; 267 del 13/10/86, para dar continuidad a la Ruta S-30-40 en la ciudad de Temuco, tomando en cuenta que esta ruta forma parte de la Red Vial Estructurante de la IX Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Que, el art&#xED;culo 24&#xBA; del DFL N&#xBA; 850 MOP del 12/09/97, que fija el texto refundido, coordinado y sistematizado de la ley 15.840 y del DFL N&#xBA; 206 de 1960, permite declarar caminos p&#xFA;blicos a las calles o avenidas que unan caminos p&#xFA;blicos.</div><div class=\"p\">&nbsp; &nbsp;  Que, el n&#xFA;mero I del punto IV del decreto supremo N&#xBA; 19 Minsegpres del 22/01/01, faculta al Ministro de Obras P&#xFA;blicas para firmar por orden del Presidente de la Rep&#xFA;blica esta declaratoria.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

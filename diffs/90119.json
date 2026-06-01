@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-10-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7224706,
+          "old": "<div><div class=\"p\">APRUEBA REFORMAS DE ESTATUTOS A &quot;DEMOS UNA OPORTUNIDAD AL MENOR&quot;, DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de diciembre de 1997.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.167.- Vistos: estos antecedentes, lo dispuesto en el decreto supremo N&#xBA; 110, Reglamento sobre Concesi&#xF3;n de Personalidad Jur&#xED;dica, publicado en el Diario Oficial de 20 de marzo de 1979 y lo informado por el Sr. Intendente de la Regi&#xF3;n Metropolitana de Santiago y por el Consejo de Defensa del Estado.</div><br><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\"> APRUEBA REFORMAS DE ESTATUTOS A &quot;DEMOS UNA OPORTUNIDAD<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">AL MENOR&quot;, DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de diciembre de 1997.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.167.- Vistos: estos antecedentes, lo dispuesto en el decreto supremo N&#xBA; 110, Reglamento sobre Concesi&#xF3;n de Personalidad Jur&#xED;dica, publicado en el Diario Oficial de 20 de marzo de 1979 y lo informado por el Sr. Intendente de la Regi&#xF3;n Metropolitana de Santiago y por el Consejo de Defensa del Estado.</div><br><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El numeral 1&#xBA; del DTO 823, Justicia, publicado el 09.10.2002, rectific&#xF3; el presente decreto, en el sentido de establecer que la instituci&#xF3;n a la cual alude esta norma, podr&#xE1; utilizar adem&#xE1;s el nombre &quot;Cr&#xE9;dito al Menor&quot;.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

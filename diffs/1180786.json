@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-09-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-02-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10361686,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Des&#xED;gnase en calidad de representante del Ministerio de Econom&#xED;a, Fomento y Turismo ante la Comisi&#xF3;n T&#xE9;cnica contemplada en el <a href=\"https://www.leychile.cl/Navegar?idNorma=30024&amp;idParte=8638547&amp;idVersion=\">art&#xED;culo 4&#xB0;</a> de la l<a href=\"https://www.leychile.cl/Navegar?idNorma=30024&amp;idParte=&amp;idVersion=\">ey N&#xB0; 18.634</a>, a don Jorge Soto Solar, RUT N&#xB0; 8.777.190-3, funcionario de la Divisi&#xF3;n Pol&#xED;tica Comercial e Industrial, de la Subsecretar&#xED;a de Econom&#xED;a y Empresas de Menor Tama&#xF1;o, correo electr&#xF3;nico: jsoto@economia.cl.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Des&#xED;gnase en calidad de representante del Ministerio de Econom&#xED;a, Fomento y Turismo ante la Comisi&#xF3;n T&#xE9;cnica contemplada en el art&#xED;culo 4&#xB0; de la ley N&#xB0; 18.634, a don Jorge Soto Solar, RUT N&#xB0; 8.777.190-3, funcionario de la Divisi&#xF3;n Pol&#xED;tica Comercial e Industrial, de la Subsecretar&#xED;a de Econom&#xED;a y Empresas de Menor Tama&#xF1;o, correo electr&#xF3;nico: jsoto@economia.cl, y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1188555&amp;idParte=10404216&amp;idVersion=2023-02-02\">Resoluci&#xF3;n 202300007 EXENTA,<br>ECONOM&#xCD;A<br>Art. primero<br>D.O. 02.02.2023</a></span>en caso de ausencia o impedimento del titular, des&#xED;gnase en calidad de representante suplente a don Nicol&#xE1;s Lillo Bustos, Jefe de la Divisi&#xF3;n de Pol&#xED;tica Comercial e Industrial de la Subsecretar&#xED;a de Econom&#xED;a y Empresas de Menor Tama&#xF1;o, correo electr&#xF3;nico nlillob@economia.cl.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1188555,
+      "fecha": "2023-02-02"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-03-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-05-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6418073,
+          "old": "<div><div class=\"p\">COMPLEMENTA DECRETO N&#xBA; 335, DE 2000</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 16.- Santiago, 20 de febrero de 2003.- Vistos: Las necesidades de Servicios.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que es imprescindible, establecer normas para la subrogaci&#xF3;n del cargo, respecto de la Subsecretar&#xED;a de Bienes Nacionales, atendida la naturaleza de la funci&#xF3;n ejercida por esta autoridad;</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Lo dispuesto en el art&#xED;culo 75&#xBA;, letra a) de la ley N&#xBA; 18.834, de 1989, Estatuto Administrativo; y el D.S. N&#xBA; 19, del Ministerio Secretar&#xED;a General de la Presidencia.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA DECRETO N&#xBA; 335, DE 2000</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 16.- Santiago, 20 de febrero de 2003.- Vistos: Las necesidades de Servicios.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que es imprescindible, establecer normas para la subrogaci&#xF3;n del cargo, respecto de la Subsecretar&#xED;a de Bienes Nacionales, atendida la naturaleza de la funci&#xF3;n ejercida por esta autoridad;</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Lo dispuesto en el art&#xED;culo 75&#xBA;, letra a) de la ley N&#xBA; 18.834, de 1989, Estatuto Administrativo; y el D.S. N&#xBA; 19, del Ministerio Secretar&#xED;a General de la Presidencia.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

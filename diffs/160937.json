@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-03-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-09-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7265209,
+          "old": "<div><div class=\"p\">DESIGNA A LA UNIVERSIDAD DE CHILE ORGANISMO NACIONAL DEL CONVENIO REGIONAL DE CONVALIDACION DE ESTUDIOS, TITULOS Y DIPLOMAS DE EDUCACION SUPERIOR EN AMERICA LATINA Y EL CARIBE</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 12.- Santiago, 07 de Enero de 1985.- Visto: Lo dispuesto en la letra a) del art&#xED;culo 8&#xB0; del Convenio Regional de Convalidaci&#xF3;n de Estudios, T&#xED;tulos y Diplomas de Educaci&#xF3;n Superior en Am&#xE9;rica Latina y El Caribe, suscrito con fecha 19 de Julio de 1974, en la Conferencia Internacional de Estados celebrada en Ciudad de M&#xE9;xico, promulgado por decreto supremo N&#xB0; 149, de 1976, del Ministerio de Relaciones Exteriores y publicado en el Diario Oficial N&#xB0; 29.448, de 06 de Mayo de 1976; y en el art&#xED;culo 32, N&#xB0; 17 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA A LA UNIVERSIDAD DE CHILE ORGANISMO NACIONAL DEL CONVENIO REGIONAL DE CONVALIDACION DE ESTUDIOS, TITULOS Y DIPLOMAS DE EDUCACION SUPERIOR EN AMERICA LATINA Y EL CARIBE</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 12.- Santiago, 07 de Enero de 1985.- Visto: Lo dispuesto en la letra a) del art&#xED;culo 8&#xB0; del Convenio Regional de Convalidaci&#xF3;n de Estudios, T&#xED;tulos y Diplomas de Educaci&#xF3;n Superior en Am&#xE9;rica Latina y El Caribe, suscrito con fecha 19 de Julio de 1974, en la Conferencia Internacional de Estados celebrada en Ciudad de M&#xE9;xico, promulgado por decreto supremo N&#xB0; 149, de 1976, del Ministerio de Relaciones Exteriores y publicado en el Diario Oficial N&#xB0; 29.448, de 06 de Mayo de 1976; y en el art&#xED;culo 32, N&#xB0; 17 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

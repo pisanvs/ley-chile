@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "2008-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-04-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6915857,
+          "old": "<div><div class=\"p\">CREA Y REGLAMENTA EL SERVICIO POSTAL DENOMINADO &quot;SERVICIO COURIER DE CORREOSCHILE&quot; Y LOS SERVICIOS POSTALES ADICIONALES DE &quot;COURIER NACIONAL 11 AM&quot; Y &quot;COURIER NACIONAL CON PAGO EN DESTINO Y EMBALAJE&quot;</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 89 exenta.- Santiago, 26 de diciembre de 2008.- Vistos y Considerando: El art&#xED;culo 2&#xBA; del D.F.L. N&#xBA; 10, de 1981, y el art&#xED;culo 5&#xBA; del decreto N&#xBA; 642, de 2004, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; el decreto N&#xBA; 5.037, de 1960, y el decreto N&#xBA; 748, de 1962, ambos del Ministerio del Interior; el acuerdo N&#xBA; 105/2008, del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Vig&#xE9;sima Segunda Ordinaria, de fecha 11 de diciembre de 2008; la resoluci&#xF3;n N&#xBA; 1.600, de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica, y en uso de las facultades que me confiere la resoluci&#xF3;n N&#xBA; 1, de 2002, de la Empresa de Correos de Chile, y la resoluci&#xF3;n exenta N&#xBA; 62, de 2008, dicto la siguiente, </div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div></div>",
+          "new": "<div><div class=\"p\">CREA Y REGLAMENTA EL SERVICIO POSTAL DENOMINADO &quot;SERVICIO COURIER DE CORREOSCHILE&quot; Y LOS SERVICIOS POSTALES ADICIONALES DE &quot;COURIER NACIONAL 11 AM&quot; Y &quot;COURIER NACIONAL CON PAGO EN DESTINO Y EMBALAJE&quot; <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 89 exenta.- Santiago, 26 de diciembre de 2008.- Vistos y Considerando: El art&#xED;culo 2&#xBA; del D.F.L. N&#xBA; 10, de 1981, y el art&#xED;culo 5&#xBA; del decreto N&#xBA; 642, de 2004, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; el decreto N&#xBA; 5.037, de 1960, y el decreto N&#xBA; 748, de 1962, ambos del Ministerio del Interior; el acuerdo N&#xBA; 105/2008, del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Vig&#xE9;sima Segunda Ordinaria, de fecha 11 de diciembre de 2008; la resoluci&#xF3;n N&#xBA; 1.600, de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica, y en uso de las facultades que me confiere la resoluci&#xF3;n N&#xBA; 1, de 2002, de la Empresa de Correos de Chile, y la resoluci&#xF3;n exenta N&#xBA; 62, de 2008, dicto la siguiente, </div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 13 exenta, Transportes, publicada el 09.04.2011 modifica la presente norma en su numeral 1 de la manera que en ella se indica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-08-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6915857,
+          "old": "<div><div class=\"p\">CREA Y REGLAMENTA EL SERVICIO POSTAL DENOMINADO &quot;SERVICIO COURIER DE CORREOSCHILE&quot; Y LOS SERVICIOS POSTALES ADICIONALES DE &quot;COURIER NACIONAL 11 AM&quot; Y &quot;COURIER NACIONAL CON PAGO EN DESTINO Y EMBALAJE&quot; <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 89 exenta.- Santiago, 26 de diciembre de 2008.- Vistos y Considerando: El art&#xED;culo 2&#xBA; del D.F.L. N&#xBA; 10, de 1981, y el art&#xED;culo 5&#xBA; del decreto N&#xBA; 642, de 2004, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; el decreto N&#xBA; 5.037, de 1960, y el decreto N&#xBA; 748, de 1962, ambos del Ministerio del Interior; el acuerdo N&#xBA; 105/2008, del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Vig&#xE9;sima Segunda Ordinaria, de fecha 11 de diciembre de 2008; la resoluci&#xF3;n N&#xBA; 1.600, de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica, y en uso de las facultades que me confiere la resoluci&#xF3;n N&#xBA; 1, de 2002, de la Empresa de Correos de Chile, y la resoluci&#xF3;n exenta N&#xBA; 62, de 2008, dicto la siguiente, </div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 13 exenta, Transportes, publicada el 09.04.2011 modifica la presente norma en su numeral 1 de la manera que en ella se indica.</div></div>",
+          "new": "<div><div class=\"p\">CREA Y REGLAMENTA EL SERVICIO POSTAL DENOMINADO &quot;SERVICIO COURIER DE CORREOSCHILE&quot; Y LOS SERVICIOS POSTALES ADICIONALES DE &quot;COURIER NACIONAL 11 AM&quot; Y &quot;COURIER NACIONAL CON PAGO EN DESTINO Y EMBALAJE&quot; <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 89 exenta.- Santiago, 26 de diciembre de 2008.-<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA 3</a></div> Vistos y Considerando: El art&#xED;culo 2&#xBA; del D.F.L. N&#xBA; 10, de 1981, y el art&#xED;culo 5&#xBA; del decreto N&#xBA; 642, de 2004, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; el decreto N&#xBA; 5.037, de 1960, y el decreto N&#xBA; 748, de 1962, ambos del Ministerio del Interior; el acuerdo N&#xBA; 105/2008, del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Vig&#xE9;sima Segunda Ordinaria, de fecha 11 de diciembre de 2008; la resoluci&#xF3;n N&#xBA; 1.600, de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica, y en uso de las facultades que me confiere la resoluci&#xF3;n N&#xBA; 1, de 2002, de la Empresa de Correos de Chile, y la resoluci&#xF3;n exenta N&#xBA; 62, de 2008, dicto la siguiente, </div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 13 exenta, Transportes, publicada el 09.04.2011 modifica la presente norma en su numeral 1 de la manera que en ella se indica.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero II de la Resoluci&#xF3;n 58 exenta, Empresa de Correos, publicada el 20.08.2011 modifica la presente norma en el sentido que en ella se indica.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El numeral I de la Resoluci&#xF3;n 105 Exenta, Empresa de Correos, publicada el 04.01.2016, deja sin efecto parcialmente la presente norma en el sentido de suprimir el servicio postal Courier Nacional de CorreosChile documentos y reemplazarlo por el servicio postal Documento Express.</div><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA 3</a> <br>&nbsp; &nbsp; &nbsp; El numeral I de la Resoluci&#xF3;n 108 Exenta, Empresa de Correos, publicada el 04.01.2016, deja sin efecto parcialmente la presente norma en el sentido de suprimir el servicio postal Courier Nacional de Correos Chile paqueter&#xED;a y reemplazarlo por el servicio postal &quot;Paquete Express Domicilio&quot;.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2016-01-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

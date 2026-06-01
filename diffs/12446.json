@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-10-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-12-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9063680,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO SOBRE CASAS DE REPOSO, ASILOS Y OTROS ESTABLECIMIENTOS SIMILARES</div><div class=\"p\">&nbsp; &nbsp; Santiago, 6 de Septiembre de 1983.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 334.- Visto: Lo dispuesto en los decretos supremos N&#xB0;s 161, de 6 de Agosto de 1982 y 194, de 10 de Agosto de 1978, ambos del Ministerio de Salud y en los art&#xED;culos 2&#xB0;, 9&#xB0;, letra c) y 129, del decreto con fuerza de ley N&#xB0; 725, de 1968, que aprob&#xF3; el C&#xF3;digo Sanitario y las facultades que me confiere el art&#xED;culo 32, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento sobre hogares de ancianos, casas de reposo, asilos, hospicios y otros establecimientos similares.</div><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA REGLAMENTO SOBRE CASAS DE REPOSO, ASILOS Y<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">OTROS ESTABLECIMIENTOS SIMILARES</div><div class=\"p\">&nbsp; &nbsp; Santiago, 6 de Septiembre de 1983.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 334.- Visto: Lo dispuesto en los decretos supremos N&#xB0;s 161, de 6 de Agosto de 1982 y 194, de 10 de Agosto de 1978, ambos del Ministerio de Salud y en los art&#xED;culos 2&#xB0;, 9&#xB0;, letra c) y 129, del decreto con fuerza de ley N&#xB0; 725, de 1968, que aprob&#xF3; el C&#xF3;digo Sanitario y las facultades que me confiere el art&#xED;culo 32, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento sobre hogares de ancianos, casas de reposo, asilos, hospicios y otros establecimientos similares.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 14 del DTO 2601, Salud, publicado el 09.12.1994, dispuso la derogaci&#xF3;n de las normas del presente decreto en lo referente a los establecimientos de larga estad&#xED;a para adultos mayores.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

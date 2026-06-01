@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-04-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-04-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10114759,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Exti&#xE9;ndase por un nuevo lapso de 7 d&#xED;as, contados desde el vencimiento del plazo indicado en el <a href=\"https://www.leychile.cl/navegar?idNorma=1144180&amp;idVersion=2020-04-15\">decreto supremo N&#xB0; 180, de 2020, del Ministerio del Interior y Seguridad P&#xFA;blica</a>, la medida dispuesta en el inciso primero del art&#xED;culo primero del <a href=\"https://www.leychile.cl/navegar?idNorma=1143540&amp;idVersion=2020-04-15\">decreto supremo N&#xB0; 102, de 2020, del Ministerio del Interior y Seguridad P&#xFA;blica</a>. Lo anterior, sin perjuicio que &#xE9;ste pueda ser modificado, en atenci&#xF3;n a la evoluci&#xF3;n que experimente el brote de Covid-19, en el territorio nacional. </div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Exti&#xE9;ndase por un nuevo lapso de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>7 d&#xED;as, contados desde el vencimiento del plazo indicado en el decreto supremo N&#xB0; 180, de 2020, del Ministerio del Interior y Seguridad P&#xFA;blica, la medida dispuesta en el inciso primero del art&#xED;culo primero del decreto supremo N&#xB0; 102, de 2020, del Ministerio del Interior y Seguridad P&#xFA;blica. Lo anterior, sin perjuicio que &#xE9;ste pueda ser modificado, en atenci&#xF3;n a la evoluci&#xF3;n que experimente el brote de Covid-19, en el territorio nacional. </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 186, Interior, publicado el 23.04.2020, modifica la presente norma en el sentido de extender el plazo por un lapso de 7 d&#xED;as, contados desde el vencimiento indicado en la presente norma. Lo anterior, sin perjuicio que &#xE9;ste pueda ser modificado, en atenci&#xF3;n a la evoluci&#xF3;n que experimente el brote de Covid-19 en el territorio nacional.</div></div>"
+        }
+      ]
+    }
+  }
+]

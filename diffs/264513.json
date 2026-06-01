@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-09-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-11-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8417673,
+          "old": "<div><div class=\"p\">N&#xD3;MINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LAS UNIDADES DE PESQUER&#xCD;A DE ANCHOVETA Y SARDINA COM&#xDA;N V A X REGIONES, INDIVIDUALIZADAS EN EL AR-T&#xCD;CULO 1&#xBA; LETRAS A) Y B) DEL DECRETO N&#xBA;409 DE 2000, DEL MINISTERIO DE ECONOM&#xCD;A, FOMENTO Y RECONSTRUCCI&#xD3;N </div></div>",
+          "new": "<div><div class=\"p\">N&#xD3;MINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LAS UNIDADES DE PESQUER&#xCD;A DE ANCHOVETA Y SARDINA COM&#xDA;N V A X REGIONES, INDIVIDUALIZADAS EN EL AR-T&#xCD;CULO 1&#xBA; LETRAS A) Y B) DEL DECRETO N&#xBA;409 DE 2000, DEL MINISTERIO DE ECONOM&#xCD;A, FOMENTO Y RECONSTRUCCI&#xD3;N</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

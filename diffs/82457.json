@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-12-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7217424,
+          "old": "<div><div class=\"p\">AMPLIA AUTORIZACION DE FUNCIONAMIENTO DEL INSTITUTO PROFESIONAL ESCUELA SUPERIOR DE COMERCIO EXTERIOR - ESCE </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 200 exento.- Santiago, 7 de Agosto de 1990.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que, el Instituto Profesional ESCE fue autorizado para funcionar por Decreto Exento No. 50 de 1989 del Ministerio de Educaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  Que, el representante legal de la Sociedad &quot;Escuela Superior de Comercio Exterior Limitada&quot;, organizadora del Instituto Profesional ESCE, ha solicitado a este Ministerio con fecha 29 de diciembre de 1989, impartir docencia en carreras profesionales en la sede que mantiene en la ciudad de La Serena;</div><div class=\"p\">&nbsp; &nbsp;  Que, de acuerdo a la Ley No. 18.962, aquellas instituciones de educaci&#xF3;n superior creadas y organizadas antes del 10 de marzo de 1990 en virtud del D.F.L. No. 5 de 1981 y que opten por continuar bajo el mecanismo de la examinaci&#xF3;n, continuar&#xE1;n rigi&#xE9;ndose por las exigencias del D.F.L. que aprobaron su creaci&#xF3;n (art&#xED;culo 2&#xB0; transitorio, inciso 1&#xB0; y art&#xED;culo 81&#xB0; y 82&#xB0;);</div><div class=\"p\">&nbsp; &nbsp;  Que, presentados los antecedentes &#xE9;stos han sido aprobados en tiempo y forma a trav&#xE9;s de simples oficios;</div><div class=\"p\">&nbsp; &nbsp;  Que, es necesario regularizar dicha situaci&#xF3;n mediante un acto administrativo oficial.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el D.S. No. 9.555 de 1980, D.S. No. 2.039 de 1980, D.F.L. No. 5 de 1981, la Ley No. 18.962 de 1990, todos del Ministerio de Educaci&#xF3;n y la Resoluci&#xF3;n No. 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>",
+          "new": "<div><div class=\"p\">AMPLIA AUTORIZACION DE FUNCIONAMIENTO DEL INSTITUTO PROFESIONAL ESCUELA SUPERIOR DE COMERCIO EXTERIOR - ESCE </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 200 exento.- Santiago, 7 de Agosto de 1990.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que, el Instituto Profesional ESCE fue autorizado para funcionar por Decreto Exento No. 50 de 1989 del Ministerio de Educaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  Que, el representante legal de la Sociedad &quot;Escuela Superior de Comercio Exterior Limitada&quot;, organizadora del Instituto Profesional ESCE, ha solicitado a este Ministerio con fecha 29 de diciembre de 1989, impartir docencia en carreras profesionales en la sede que mantiene en la ciudad de La Serena;</div><div class=\"p\">&nbsp; &nbsp;  Que, de acuerdo a la Ley No. 18.962, aquellas instituciones de educaci&#xF3;n superior creadas y organizadas antes del 10 de marzo de 1990 en virtud del D.F.L. No. 5 de 1981 y que opten por continuar bajo el mecanismo de la examinaci&#xF3;n, continuar&#xE1;n rigi&#xE9;ndose por las exigencias del D.F.L. que aprobaron su creaci&#xF3;n (art&#xED;culo 2&#xB0; transitorio, inciso 1&#xB0; y art&#xED;culo 81&#xB0; y 82&#xB0;);</div><div class=\"p\">&nbsp; &nbsp;  Que, presentados los antecedentes &#xE9;stos han sido aprobados en tiempo y forma a trav&#xE9;s de simples oficios;</div><div class=\"p\">&nbsp; &nbsp;  Que, es necesario regularizar dicha situaci&#xF3;n mediante un acto administrativo oficial.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el D.S. No. 9.555 de 1980, D.S. No. 2.039 de 1980, D.F.L. No. 5 de 1981, la Ley No. 18.962 de 1990, todos del Ministerio de Educaci&#xF3;n y la Resoluci&#xF3;n No. 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

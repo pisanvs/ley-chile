@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-03-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8732072,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTA LA APLICACION DE LA LEY N&#xB0; 18.803 N&#xFA;m. 21.- Santiago, 16 de Enero de 1990.- Visto: Lo dispuesto en el art&#xED;culo 32, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica y en la Ley N&#xB0; 18.303, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTA LA APLICACION DE LA LEY N&#xB0; 18.803 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 21.- Santiago, 16 de Enero de 1990.- Visto: Lo dispuesto en el art&#xED;culo 32, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica y en la Le<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 03.03.1990</span>y N&#xB0; 18.803,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

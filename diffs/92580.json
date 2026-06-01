@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-07-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8322010,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JORGE MAURICIO OLIVARES TlRADO PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JORGE MAURICIO OLIVARES TIRADO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

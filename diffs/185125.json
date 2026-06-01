@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1957-11-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6334349,
+          "old": "<div><div class=\"p\">CREA LA FUNDACI&#xD3;N DE CONMEMORACI&#xD3;N HIST&#xD3;RICA BERNARDO O&apos;HIGGINS</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">CREA LA FUNDACI&#xD3;N DE CONMEMORACI&#xD3;N HIST&#xD3;RICA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> BERNARDO O&apos;HIGGINS</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 1&#xB0; de la LEY 19723, publicada el 11.05.2001, derog&#xF3; esta ley y declar&#xF3; disuelta la Fundaci&#xF3;n de Conmemoraci&#xF3;n Hist&#xF3;rica Bernardo O&apos;Higgins, traspasando su patrimonio a la I. Municipalidad de Chill&#xE1;n Viejo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

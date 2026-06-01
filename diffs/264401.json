@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-09-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-09-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7352613,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  En la edici&#xF3;n del Diario Oficial N&#xBA; 38.854 de 3 de septiembre de 2007, se public&#xF3; Sentencia, con la aclaraci&#xF3;n que se hace a continuaci&#xF3;n: tanto en la p&#xE1;gina uno, perteneciente al Sumario, como en la p&#xE1;gina setenta y nueve, segunda columna, donde dice &quot;... Tribunal Constitucional. AUTOACORDADO. Santiago, treinta y uno de agosto de dos mil siete. Vistos: ...&quot; debe decir &quot;... Sentencia dictada por el Tribunal Constitucional, reca&#xED;da en el Rol 783-07, sobre acci&#xF3;n de inconstitucionalidad en contra del Auto Acordado Relativo al Procedimiento a Utilizarse para ser Efectiva la Responsabilidad Disciplinaria de los Funcionarios y Empleados Judiciales, dictado el 13 de octubre de 1995 por la Corte de Apelaciones de Santiago y publicado en el Diario Oficial de 17 de noviembre de 1995. ...&quot;. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  En la edici&#xF3;n del Diario Oficial N&#xBA; 38.854 de 3 de septiembre de 2007, se public&#xF3; Sentencia, con la aclaraci&#xF3;n que se hace a continuaci&#xF3;n: tanto en la p&#xE1;gina uno, perteneciente al Sumario, como en la p&#xE1;gina setenta y nueve, segunda columna, donde dice &quot;... Tribunal Constitucional. AUTOACORDADO. Santiago, treinta y uno de agosto de dos mil siete. Vistos: ...&quot; debe decir &quot;... Sentencia dictada por el Tribunal Constitucional, reca&#xED;da en el Rol 783-07, sobre acci&#xF3;n de inconstitucionalidad en contra del Auto Acordado Relativo al Procedimiento a Utilizarse para hacer<span class=\"n\" id=\"n_0\">AVI S/N,<br>TR. CONSTITUCIONAL<br>D.O. 06.09.2007</span> Efectiva la Responsabilidad Disciplinaria de los Funcionarios y Empleados Judiciales, dictado el 13 de octubre de 1995 por la Corte de Apelaciones de Santiago y publicado en el Diario Oficial de 17 de noviembre de 1995. ...&quot;.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

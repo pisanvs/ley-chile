@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10187408,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: Notif&#xED;quese, mediante publicaci&#xF3;n en el Diario Oficial, la presente resoluci&#xF3;n, toda vez que afecta a un n&#xFA;mero indeterminado de personas, y la n&#xF3;mina de los expedientes y piezas de expedientes afectados que se mencionan en el listado de especies siniestradas, informaci&#xF3;n a la que se podr&#xE1; acceder en el siguiente link: https://www.inapi.cl/transparencia/2020/20201215/Listado_ Especies_siniestradas_2020.pdf, sin perjuicio de las medidas de conservaci&#xF3;n en el tiempo, por parte de Inapi de dicha informaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: Notif&#xED;quese, mediante publicaci&#xF3;n en el Diario Oficial, la presente resoluci&#xF3;n, toda vez que afecta a un n&#xFA;mero indeterminado de personas, y la n&#xF3;mina de los expedientes y piezas de expedientes afectados que se mencionan en el listado de especies siniestradas, informaci&#xF3;n a la que se podr&#xE1; acceder en el siguiente link: https://www.inapi.cl/transparencia/2020/20201215/Listado_Especies_siniestradas_2020.pdf<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1154079&amp;idParte=10189124&amp;idVersion=2020-12-31\">Rectificaci&#xF3;n 2235<br>D.O. 31.12.2020</a></span>, sin perjuicio de las medidas de conservaci&#xF3;n en el tiempo, por parte de Inapi de dicha informaci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1154079,
+      "fecha": "2020-12-31"
+    }
+  }
+]

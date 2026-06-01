@@ -1,0 +1,50 @@
+[
+  {
+    "fecha": "2019-12-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-11-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10377954,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1184027&amp;idParte=10377944&amp;idVersion=2022-11-09\">Decreto 145,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 09.11.2022</a></span>rt&#xED;culo cuarto transitorio: Los resultados de las evaluaciones Simce de 2022 no ser&#xE1;n utilizados para efectos de lo establecido en el art&#xED;culo 11 del presente reglamento, consider&#xE1;ndose que no hubo niveles medidos para dicho a&#xF1;o.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1184027,
+      "fecha": "2022-11-09"
+    }
+  },
+  {
+    "fecha": "2025-07-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10081997,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: En el mes de octubre de cada a&#xF1;o la Subsecretar&#xED;a de Educaci&#xF3;n dictar&#xE1; una resoluci&#xF3;n que determinar&#xE1; a los asistentes de la educaci&#xF3;n beneficiarios, de conformidad con lo establecido en la ley y el presente reglamento.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  La resoluci&#xF3;n contendr&#xE1; la n&#xF3;mina de todos los asistentes de la educaci&#xF3;n a quienes se les conceder&#xE1; el bono, consignando respecto de cada uno de ellos:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a) La jornada laboral reportada por sus empleadores para efectos del art&#xED;culo 3&#xBA; anterior.</div><br><div class=\"p\">&nbsp; &nbsp;  b) El porcentaje de cumplimiento global del &quot;indicador general de evaluaci&#xF3;n&quot; para cada asistente de la educaci&#xF3;n beneficiario, por cada empleador.</div><div class=\"p\">&nbsp; &nbsp;  c) El porcentaje de cumplimiento de cada una de las cuatro variables que integran el componente variable del bono, por cada empleador.</div><div class=\"p\">&nbsp; &nbsp;  d) El monto que tiene derecho a percibir, considerando el componente fijo y variable, por cada empleador, al que preste servicios.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Este acto administrativo ser&#xE1; impugnable por los interesados mediante el recurso de reposici&#xF3;n, dentro de los 5 d&#xED;as siguientes a su notificaci&#xF3;n, de conformidad a las reglas generales consignadas en la ley N&#xBA; 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los &#xF3;rganos de la Administraci&#xF3;n del Estado.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: En el mes de octubre de cada a&#xF1;o la Subsecretar&#xED;a de Educaci&#xF3;n dictar&#xE1; una resoluci&#xF3;n que determinar&#xE1; a los asistentes de la educaci&#xF3;n beneficiarios, de conformidad con lo establecido en la ley y el presente reglamento.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  La resoluci&#xF3;n contendr&#xE1; la n&#xF3;mina de todos los asistentes de la educaci&#xF3;n a quienes se les conceder&#xE1; el bono, consignando respecto de cada uno de ellos:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a) La jornada laboral reportada por sus empleadores para efectos del art&#xED;culo 3&#xBA; anterior.</div><br><div class=\"p\">&nbsp; &nbsp;  b) El porcentaje de cumplimiento global del &quot;indicador general de evaluaci&#xF3;n&quot; para cada asistente de la educaci&#xF3;n beneficiario, por cada empleador.</div><div class=\"p\">&nbsp; &nbsp;  c) El porcentaje de cumplimiento de cada una de las cuatro variables que integran el componente variable del bono, por cada empleador.</div><div class=\"p\">&nbsp; &nbsp;  d) El monto que tiene derecho a percibir, considerando el componente fijo y variable, por cada empleador, al que preste servicios.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Este acto administrativo ser&#xE1; impugnable por los interesados<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1215072&amp;idParte=10555302&amp;idVersion=2025-07-21\">Decreto 118,<br>EDUCACI&#xD3;N<br>Art. &#xFA;nico<br>D.O. 21.07.2025</a></span> mediante el recurso de reposici&#xF3;n dentro de los 5 d&#xED;as siguientes de su publicaci&#xF3;n en el Diario Oficial. Asimismo, la resoluci&#xF3;n indicada se publicar&#xE1; en el sitio web www.comunidadescolar.cl o aquel que se determine para estos efectos. Sin perjuicio de lo anterior, y dentro del mismo plazo, los sostenedores podr&#xE1;n corregir, enmendar o actualizar la informaci&#xF3;n reportada en el Sistema de Informaci&#xF3;n General de Estudiantes (SIGE) o aquel que el Ministerio de Educaci&#xF3;n disponga al efecto, para la determinaci&#xF3;n de beneficiarios y el c&#xE1;lculo del bono de desempe&#xF1;o laboral.</div><div class=\"p\"> </div><br></div>"
+        },
+        {
+          "part_id": 10377954,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1184027&amp;idParte=10377944&amp;idVersion=2022-11-09\">Decreto 145,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 09.11.2022</a></span>rt&#xED;culo cuarto transitorio: Los resultados de las evaluaciones Simce de 2022 no ser&#xE1;n utilizados para efectos de lo establecido en el art&#xED;culo 11 del presente reglamento, consider&#xE1;ndose que no hubo niveles medidos para dicho a&#xF1;o.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1184027&amp;idParte=10377944&amp;idVersion=2022-11-09\">Decreto 145,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 09.11.2022</a></span>rt&#xED;culo cuarto transitorio: Los resultados de las evaluaciones Simce de 2022 no ser&#xE1;n utilizados para efectos de lo establecido en el art&#xED;culo 11 del presente reglamento, consider&#xE1;ndose que no hubo niveles medidos para dicho a&#xF1;o.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1215072,
+      "fecha": "2025-07-21"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1981-01-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7156872,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 19 - A la Secci&#xF3;n Registro de Personas Jur&#xED;dicas le corresponder&#xE1;n las siguientes funciones:</div><div class=\"p\">&nbsp; &nbsp; a) Mantener actualizado el registro de personas jur&#xED;dicas;</div><div class=\"p\">&nbsp; &nbsp; b) Extender los certificados de vigencia que se soliciten por las corporaciones y fundaciones de derecho privado regidas por el T&#xED;tulo XXXIII del Libro I del C&#xF3;digo Civil;</div><div class=\"p\">&nbsp; &nbsp; c) Preparar informes sobre la materia;</div><div class=\"p\">&nbsp; &nbsp; d) Efectuar en el Registro las dem&#xE1;s anotaciones que procedieren en conformidad con las disposiciones legales o reglamentarias vigentes, y</div><div class=\"p\">&nbsp; &nbsp; e) Cumplir las dem&#xE1;s funciones que se le encomienden.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 19 - A la Secci&#xF3;n Registro de Personas Jur&#xED;dicas le corresponder&#xE1;n las siguientes funciones:</div><div class=\"p\">&nbsp; &nbsp; a) Mantener actualizado el registro de personas jur&#xED;dicas;</div><div class=\"p\">&nbsp; &nbsp; b) Extender los certificados de vigencia que se soliciten por las corporaciones y fundaciones de derecho privado regidas por el T&#xED;tulo XXXIII del Libro I del C&#xF3;digo Civil.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; No obstante, los certificados emitidos en regiones<span class=\"n\" id=\"n_1\">DTO 615, JUSTICIA<br>ART UNICO<br>D.O.23.08.1997</span> ser&#xE1;n suscritos por los respectivos Secretarios Regionales Ministeriales de Justicia;</div><div class=\"p\">&nbsp; &nbsp; c) Preparar informes sobre la materia;</div><div class=\"p\">&nbsp; &nbsp; d) Efectuar en el Registro las dem&#xE1;s anotaciones que procedieren en conformidad con las disposiciones legales o reglamentarias vigentes, y</div><div class=\"p\">&nbsp; &nbsp; e) Cumplir las dem&#xE1;s funciones que se le encomienden.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-10-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

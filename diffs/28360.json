@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1965-06-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8861807,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El c&#xE1;lculo y pago del beneficio del feriado contemplado en el C&#xF3;digo del Trabajo que corresponda a los obreros mar&#xED;timos de bah&#xED;a y de los que trabajen en empresas de navegaci&#xF3;n fluvial o lacustre; de los empleados de bah&#xED;a, tanto mar&#xED;timos como terrestres y para los que trabajan en empresas de navegaci&#xF3;n fluvial y lacustre; y para los hombres de mar, sean &#xE9;stos oficiales o tripulantes, se har&#xE1; sobre la base del total de las remuneraciones imponibles en el respectivo instituto de previsi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Los obreros y empleados aludidos en el inciso anterior que se rijan por sistemas convencionales de feriado, o de vacaciones anuales pagadas, podr&#xE1;n optar entre &#xE9;stos y el r&#xE9;gimen legal modificado en la forma que establece este art&#xED;culo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;- DEROGADO<span class=\"n\" id=\"n_0\">LEY 18032<br>ART 7&#xB0; a)</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

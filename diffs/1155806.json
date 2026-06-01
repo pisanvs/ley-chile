@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-02-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-05-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10204074,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Disp&#xF3;ngase a contar del 01.Ene.2021, el cese de la Direcci&#xF3;n de Inteligencia del Ej&#xE9;rcito, dispuesto en el art&#xED;culo 3&#xB0; del decreto supremo (MDN) N&#xB0; 1.266, de fecha 26.Dic.1984.</div><div class=\"p\">&nbsp; &nbsp;  2.- Las funciones y referencias que, en disposiciones legales o reglamentarias que, actualmente se hacen a la Direcci&#xF3;n de Inteligencia del Ej&#xE9;rcito o a su Director, se entender&#xE1;n radicadas en la Brigada de Inteligencia del Ej&#xE9;rcito y en su Comandante.</div><div class=\"p\">&nbsp; &nbsp;  3.- Cr&#xE9;ase, a contar del 01.Ene.2021, la Direcci&#xF3;n de Planificaci&#xF3;n de Informaciones del Ej&#xE9;rcito (Diplinte).</div><div class=\"p\">&nbsp; &nbsp;  4.- Modif&#xED;case el decreto supremo (MDN) N&#xB0; 1.266, de fecha 26.Dic.1984, en el sentido de incorporar en su art&#xED;culo 3&#xB0;, a la Direcci&#xF3;n de Planificaci&#xF3;n de Informaciones del Ej&#xE9;rcito, como unidad dependiente del Estado Mayor General del Ej&#xE9;rcito,</div><div class=\"p\">&nbsp; &nbsp;  5.- Reempl&#xE1;cese el art&#xED;culo 6&#xB0; del decreto supremo (MDN) N&#xB0; 1.266, de fecha 26.Dic.1984, por el siguiente: &quot;Corresponder&#xE1; a la Direcci&#xF3;n de Planificaci&#xF3;n de Informaciones del Ej&#xE9;rcito, planificar y coordinar las actividades ejecutivas que realizan las unidades de inteligencia del Ej&#xE9;rcito para proporcionar conocimiento &#xFA;til a la toma de decisiones y detectar, contrarrestar y neutralizar, dentro y fuera del pa&#xED;s, las actividades que puedan afectar a la Defensa Nacional y los Intereses Nacionales.&quot;.</div><div class=\"p\">&nbsp; &nbsp;  6.- Fac&#xFA;ltese al Comandante en Jefe del Ej&#xE9;rcito para establecer, mediante documentos ejecutivos internos, la org&#xE1;nica y misiones de detalle de la unidad que se crea, y emitir las disposiciones necesarias para dar cumplimiento al presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  7.- Lo establecido en el presente decreto supremo no afectar&#xE1; las plantas autorizadas del Ej&#xE9;rcito y no irrogar&#xE1; mayores gastos.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Disp&#xF3;ngase a contar del 01.Ene.2021, el cese de la Direcci&#xF3;n de Inteligencia del Ej&#xE9;rcito, dispuesto en el art&#xED;culo 3&#xB0; del decreto supremo (MDN) N&#xB0; 1.266, de fecha 26.Dic.1984.</div><div class=\"p\">&nbsp; &nbsp;  2.- Las funciones y referencias que, en disposiciones legales o reglamentarias que, actualmente se hacen a la Direcci&#xF3;n de Inteligencia del Ej&#xE9;rcito o a su Director, se entender&#xE1;n radicadas en la Brigada de Inteligencia del Ej&#xE9;rcito y en su Comandante.</div><div class=\"p\">&nbsp; &nbsp;  3.- <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1159463&amp;idParte=10225960&amp;idVersion=2021-05-13\">Resoluci&#xF3;n 1779 EXENTA,<br>DEFENSA<br>D.O. 13.05.2021</a></span>Cr&#xE9;ase, a contar del 01.Ene.2021, la Direcci&#xF3;n de Planificaci&#xF3;n de Informaciones del Ej&#xE9;rcito (Dipline).</div><div class=\"p\">&nbsp; &nbsp;  4.- Modif&#xED;case el decreto supremo (MDN) N&#xB0; 1.266, de fecha 26.Dic.1984, en el sentido de incorporar en su art&#xED;culo 3&#xB0;, a la Direcci&#xF3;n de Planificaci&#xF3;n de Informaciones del Ej&#xE9;rcito, como unidad dependiente del Estado Mayor General del Ej&#xE9;rcito,</div><div class=\"p\">&nbsp; &nbsp;  5.- Reempl&#xE1;cese el art&#xED;culo 6&#xB0; del decreto supremo (MDN) N&#xB0; 1.266, de fecha 26.Dic.1984, por el siguiente: &quot;Corresponder&#xE1; a la Direcci&#xF3;n de Planificaci&#xF3;n de Informaciones del Ej&#xE9;rcito, planificar y coordinar las actividades ejecutivas que realizan las unidades de inteligencia del Ej&#xE9;rcito para proporcionar conocimiento &#xFA;til a la toma de decisiones y detectar, contrarrestar y neutralizar, dentro y fuera del pa&#xED;s, las actividades que puedan afectar a la Defensa Nacional y los Intereses Nacionales.&quot;.</div><div class=\"p\">&nbsp; &nbsp;  6.- Fac&#xFA;ltese al Comandante en Jefe del Ej&#xE9;rcito para establecer, mediante documentos ejecutivos internos, la org&#xE1;nica y misiones de detalle de la unidad que se crea, y emitir las disposiciones necesarias para dar cumplimiento al presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  7.- Lo establecido en el presente decreto supremo no afectar&#xE1; las plantas autorizadas del Ej&#xE9;rcito y no irrogar&#xE1; mayores gastos.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1159463,
+      "fecha": "2021-05-13"
+    }
+  }
+]

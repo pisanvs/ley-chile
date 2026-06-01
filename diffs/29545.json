@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1982-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-02-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845587,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Autor&#xED;zase al Presidente de la Rep&#xFA;blica para que dentro del plazo de un a&#xF1;o, disponga la transferencia a t&#xED;tulo gratuito a las municipalidades en cuyos territorios estuviesen ubicados, de los bienes muebles e inmuebles de propiedad de Fondo del Abastecimiento y Equipamiento Comunitario, creado por decreto ley N&#xB0; 1.126, de 1975, y el ingreso a Rentas Generales de la Naci&#xF3;n de los dineros provenientes de dicho Fondo.</div><div class=\"p\">&nbsp; &nbsp; Para el cumplimiento de lo dispuesto en el inciso anterior, el Director Nacional de Industria y Comercio deber&#xE1; efectuar los correspondientes giros y las transferencias respectivas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Autor&#xED;zase al Presidente de la<span class=\"n\" id=\"n_0\">LEY 18959<br>Art. 19&#xB0;</span> Rep&#xFA;blica para que, en el plazo de tres meses y mediante uno o m&#xE1;s decretos, disponga la liquidaci&#xF3;n de los bienes muebles e inmuebles del Fondo de Abastecimiento y Equipamiento Comunitario. Para tal efecto, deber&#xE1; enajenar estos bienes a trav&#xE9;s del Ministerio de Bienes Nacionales. Los recursos monetarios de dichos fondos y los provenientes de la enajenaci&#xF3;n precedente, ingresar&#xE1;n a rentas generales de la naci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 8845588,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.&#xB0;- Los alcaldes podr&#xE1;n entregar en concesi&#xF3;n, los locales comerciales, autoservicios, bodegas y dem&#xE1;s bienes adquiridos, construidos, habilitados o instalados con recursos del Fondo, a aquellas personas que puedan proporcionar un eficiente abastecimiento de productos esenciales de uso o consumo habitual en campamentos, poblaciones y, en general, en aquellos sectores m&#xE1;s necesitados de la poblaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; La concesi&#xF3;n de los bienes mencionados en el inciso anterior no podr&#xE1; exceder del plazo de cinco a&#xF1;os. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.&#xB0;- DEROGADO.-<span class=\"n\" id=\"n_1\">LEY 18899<br>Art. 28 b)</span></div><br></div>"
+        },
+        {
+          "part_id": 8845590,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo transitorio.- Los contratos celebrados por el Director Nacional de Industria y Comercio en uso de las facultades concedidas por el art&#xED;culo 7&#xB0; del decreto ley N&#xB0; 1.126, de 1975, continuar&#xE1;n vigentes en las condiciones y por los plazos estipulados.</div><div class=\"p\">&nbsp; &nbsp; En tanto no se efect&#xFA;e la transferencia a que se refiere el art&#xED;culo 1&#xB0; de la presente ley, los derechos y obligaciones que emanen de los contratos a que se refiere el inciso anterior y que correspondan al Director Nacional de Industria y Comercio, continuar&#xE1;n ejerci&#xE9;ndose por esta autoridad.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo transitorio.- Sin perjuicio de la<span class=\"n\" id=\"n_2\">LEY 18899<br>Art. 28 c)</span> derogaci&#xF3;n dispuesta en el art&#xED;culo 3&#xB0; el Director Nacional de Industria y Comercio, ha tenido a contar de la fecha de publicaci&#xF3;n de la Ley N&#xB0; 18.121 y hasta el 26 de diciembre de 1989, las mismas atribuciones que el art&#xED;culo 4&#xB0; del decreto ley N&#xB0; 1.126, de 1975, confiri&#xF3; a la Comisi&#xF3;n Administradora del Fondo de Abastecimiento y Equipamiento Comunitario, sujeto a la obligaci&#xF3;n de rendir cuenta en su oportunidad.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

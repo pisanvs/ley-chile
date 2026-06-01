@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1968-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8912596,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Autor&#xED;zase al Presidente de la Rep&#xFA;blica para liberar de los dep&#xF3;sitos que deben hacerse en el Banco Central de Chile y de todo o parte de los derechos de internaci&#xF3;n, de almacenaje, de los impuestos establecidos en el decreto de Hacienda N&#xBA; 2.772, de 18 de Agosto de 1943 y sus modificaciones posteriores y, en general, de todo impuesto o contribuci&#xF3;n que se perciba por intermedio de las Aduanas, a los motores e implementos de trabajo destinados a embarcaciones fleteras menores, como, asimismo, de los impuestos de desembarque y adicional establecidos en los art&#xED;culos 131.o y 132.o de la ley No. 13.305 y de los derechos consulares que gravan los conocimientos y facturas.</div><div class=\"p\">&nbsp; &nbsp;  El beneficio establecido en el inciso anterior podr&#xE1; ejercerse s&#xF3;lo respecto de un motor y de un implemento o repuesto de cada especie por cada embarcaci&#xF3;n fletera menor que se acredite poseer, de acuerdo al art&#xED;culo siguiente.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- DEROGADO<span class=\"n\" id=\"n_0\">DFL-1, HACIENDA<br>Art. 1&#xBA; N&#xBA;1<br>D.O. 05.05.1979</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

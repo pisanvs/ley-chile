@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "2011-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-03-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9127256,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;c<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1023903&amp;idParte=9127234&amp;idVersion=2011-03-22\">Decreto 400 EXENTO<br>M. DE PEDRO AGUIRRE CERDA <br>N&#xBA; 1<br>D.O. 22.03.2011</a></span>ulos Transitorios</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 9127257,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.&nbsp;  Excepcionalmente<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1023903&amp;idParte=9127234&amp;idVersion=2011-03-22\">Decreto 400 EXENTO,<br>M. PEDRO AGUIRRE CERDA<br>N&#xBA; 1<br>D.O. 22.03.2011</a></span>, durante el a&#xF1;o 2011, la tarifa anual por extracci&#xF3;n de basura podr&#xE1; pagarse en cuatro cuotas, con vencimiento los d&#xED;as 31 de julio, 31 de agosto, 31 de octubre y 30 de noviembre.</div></div>"
+        },
+        {
+          "part_id": 9127258,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  2.&nbsp;  F&#xED;jase<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1023903&amp;idParte=9127234&amp;idVersion=2011-03-22\">Decreto 400 EXENTO,<br>M. DE PEDRO AGUIRRE CERDA<br>N&#xBA; 1<br>D.O. 22.03.2011</a></span>, como fecha l&#xED;mite para solicitar exenciones totales o parciales por todo el a&#xF1;o 2011, el d&#xED;a 15 de mayo del mismo a&#xF1;o.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1023903,
+      "fecha": "2011-03-22"
+    }
+  }
+]

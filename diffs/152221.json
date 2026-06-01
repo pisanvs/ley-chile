@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "1979-03-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-07-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002676,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TITULO IV</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Del financiamiento</div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xBA;.-&nbsp; El Servicio de Bienestar se financiar&#xE1; con los siguientes ingresos:</div><br><br><div class=\"p\">a) Con un aporte institucional autorizado en el Pre-</div><div class=\"p\">&nbsp;  supuesto de la Direcci&#xF3;n de Industria y Comercio para el Servicio de Bienestar, equivalente al m&#xE1;-</div><div class=\"p\">&nbsp;  ximo que permitan las disposiciones legales vigentes;</div><div class=\"p\">b) Con una cuota de incorporaci&#xF3;n que deber&#xE1; pagar cada afiliado al Servicio por una sola vez, equi-</div><div class=\"p\">&nbsp;  valente al 3% de su remuneraci&#xF3;n mensual imponible o de la pensi&#xF3;n, en su caso;</div><div class=\"p\">c) Con un aporte de cargo del afiliado equivalente al 2% de sus remuneraciones mensuales imponibles;</div><div class=\"p\">d) Con el aporte del 2% mensual sobre las pensiones de los afiliados jubilados, m&#xE1;s el aporte institu-</div><div class=\"p\">&nbsp;  cional correspondiente, que ser&#xE1; tambi&#xE9;n de su cargo;</div><div class=\"p\">e) Con las donaciones y otros ingresos que se perciban a cualquier t&#xED;tulo; y</div><div class=\"p\">f) Con los intereses de los pr&#xE9;stamos y dem&#xE1;s entradas que se obtengan con motivo de sus actividades.</div><br><div class=\"p\">&nbsp; &nbsp;  Los fondos del Servicio de Bienestar deben depositarse en una cuenta subsidiaria de la Cuenta Unica Fiscal, en el Banco del Estado de Chile, y contra ella s&#xF3;lo podr&#xE1;n girar, conjuntamente, el Jefe del Servicio de Bienestar y el Contador del mismo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TITULO IV</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Del financiamiento</div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xBA;.-&nbsp; El Servicio de Bienestar se financiar&#xE1; con los siguientes ingresos:</div><br><br><div class=\"p\">a) Con un aporte institucional autorizado en el Pre-</div><div class=\"p\">&nbsp;  supuesto de la Direcci&#xF3;n de Industria y Comercio para el Servicio de Bienestar, equivalente al m&#xE1;-</div><div class=\"p\">&nbsp;  ximo que permitan las disposiciones legales vigentes;</div><div class=\"p\">b) Con una cuota de incorporaci&#xF3;n que deber&#xE1; pagar cada afiliado al Servicio por una sola vez, equi-</div><div class=\"p\">&nbsp;  valente al 3% de su remuneraci&#xF3;n mensual imponible o de la pensi&#xF3;n, en su caso;</div><div class=\"p\">c) Con un aporte de cargo del afiliado equivalente al 3% de sus remuneraciones mensuales imponibles;<span class=\"n\" id=\"n_0\">DTO 63, TRABAJO<br>D.O. 12.07.1979</span></div><div class=\"p\">d) Con el aporte del 2% mensual sobre las pensiones de los afiliados jubilados, m&#xE1;s el aporte institu-</div><div class=\"p\">&nbsp;  cional correspondiente, que ser&#xE1; tambi&#xE9;n de su cargo;</div><div class=\"p\">e) Con las donaciones y otros ingresos que se perciban a cualquier t&#xED;tulo; y</div><div class=\"p\">f) Con los intereses de los pr&#xE9;stamos y dem&#xE1;s entradas que se obtengan con motivo de sus actividades.</div><br><div class=\"p\">&nbsp; &nbsp;  Los fondos del Servicio de Bienestar deben depositarse en una cuenta subsidiaria de la Cuenta Unica Fiscal, en el Banco del Estado de Chile, y contra ella s&#xF3;lo podr&#xE1;n girar, conjuntamente, el Jefe del Servicio de Bienestar y el Contador del mismo.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1980-11-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9002690,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22&#xB0; bis.- El Servicio de Bienestar podr&#xE1;<span class=\"n\" id=\"n_1\">DTO 94, TRABAJO<br>D.O. 24.11.1980</span> efectuar actividades que tengan por objeto el esparcimiento y/o el desarrollo f&#xED;sico, social y cultural de sus afiliados y cargas familiares, pudiendo adquirir para ello bienes tales como regalos de Navidad, elementos deportivos y dem&#xE1;s que fueren necesarios para la realizaci&#xF3;n de dichas actividades&quot;.</div><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1996-01-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002661,
+          "old": "<div><div class=\"p\">APRUEBA EL REGLAMENTO DEL SERVICIO DE BIENESTAR DEL PERSONAL DE LA DIRECCION DE INDUSTRIA Y COMERCIO </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 28 de Diciembre de 1978.-&nbsp; Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 123.-&nbsp; Vistos: los antecedentes adjuntos, lo dispuesto en el decreto supremo N&#xBA; 722, de 1955, del ex Ministerio de Salud P&#xFA;blica y Previsi&#xF3;n Social; los decretos leyes N.os 1 y 128, de 1973, y el decreto ley N&#xBA; 527, de 1974,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento del Servicio de Bienestar del Personal de la Direcci&#xF3;n de Industria y Comercio:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA EL REGLAMENTO DEL SERVICIO DE BIENESTAR DEL PERSONAL DE LA DIRECCION DE INDUSTRIA Y COMERCIO </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 28 de Diciembre de 1978.-&nbsp; Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 123.- Vistos: los antecedentes adjuntos, lo dispuesto en el decreto supremo N&#xBA; 722, de 1955, del ex Ministerio de Salud P&#xFA;blica y Previsi&#xF3;n Social; los decretos leyes N.os 1 y 128, de 1973, y el decreto ley N&#xBA; 527, de 1974,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento del Servicio de Bienestar del Personal de la Direcci&#xF3;n de Industria y Comercio:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

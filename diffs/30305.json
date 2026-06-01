@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-01-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8286661,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DICTA NORMAS SOBRE PROPIEDAD INDUSTRIAL La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  DICTA NORMAS SOBRE PROPIEDAD INDUSTRIAL</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 73 de la LEY 19039, publicada el 25.01.1991, deroga el presente texto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

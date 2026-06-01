@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "1994-12-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-02-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7200619,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- La Primera Declaraci&#xF3;n de Emisiones deber&#xE1; presentarse dentro de los 60 d&#xED;as siguientes a la publicaci&#xF3;n de la presente resoluci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- La Primera Declaraci&#xF3;n de Emisiones<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> deber&#xE1; presentarse dentro de los 60 d&#xED;as siguientes a la publicaci&#xF3;n de la presente resoluci&#xF3;n.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 1871, Salud, publicada el 11.02.1995, prorrog&#xF3; el plazo establecido en este art&#xED;culo hasta el 24 de Marzo de 1995.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2012-01-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7200613,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Para los efectos de la presentaci&#xF3;n de la Declaraci&#xF3;n, el Servicio pondr&#xE1; a disposici&#xF3;n de los interesados un formulario, que podr&#xE1; ser retirado en las dependencias del Servicio.</div><div class=\"p\">&nbsp; &nbsp; El documento Declaraci&#xF3;n de Emisiones deber&#xE1; presentarse en original y una copia. Se mantendr&#xE1; en poder del Servicio el original, en tanto la copia se entregar&#xE1; timbrada al titular de la fuente declarada. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- La Declaraci&#xF3;n <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1036662&amp;idParte=9229247&amp;idVersion=2012-01-23\">Resoluci&#xF3;n 2662, SALUD<br>N&#xBA; 11<br>D.O. 23.01.2012</a></span>de Emisiones deber&#xE1; presentarse mediante formularios electr&#xF3;nicos ubicados en el sitio web del Ministerio de Salud o en el dominio www.declaracionemision.cl, correspondiente al mismo Sistema de Declaraci&#xF3;n de Emisiones de Fuentes Fijas utilizado para declarar las emisiones de contaminantes atmosf&#xE9;ricos solicitado por el decreto supremo N&#xBA; 138 de 2005, del Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, la Secretar&#xED;a Regional Ministerial de Salud de la Regi&#xF3;n Metropolitana, podr&#xE1; autorizar, cuando los antecedentes lo justifiquen, el uso de otro tipo de formulario. </div><br></div>"
+        },
+        {
+          "part_id": 7200619,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- La Primera Declaraci&#xF3;n de Emisiones<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> deber&#xE1; presentarse dentro de los 60 d&#xED;as siguientes a la publicaci&#xF3;n de la presente resoluci&#xF3;n.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 1871, Salud, publicada el 11.02.1995, prorrog&#xF3; el plazo establecido en este art&#xED;culo hasta el 24 de Marzo de 1995.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- La Primera Declaraci&#xF3;n de Emisiones<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> deber&#xE1; presentarse dentro de los 60 d&#xED;as siguientes a la publicaci&#xF3;n de la presente resoluci&#xF3;n.</div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 1871, Salud, publicada el 11.02.1995, prorrog&#xF3; el plazo establecido en este art&#xED;culo hasta el 24 de Marzo de 1995.<br></div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1036662,
+      "fecha": "2012-01-23"
+    }
+  }
+]

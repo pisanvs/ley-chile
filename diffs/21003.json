@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-05-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8952349,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Hist&#xF3;rico la casa y el parque de la &quot;Quinta Las Rosas de Maip&#xFA;&quot;, ubicados en la comuna de Maip&#xFA;, Regi&#xF3;n Metropolitana, con una superficie de 5,44 hect&#xE1;reas y que se encuentra incluida en los siguientes deslindes, cuyo plano se adjunta, al Norte, por el Zanj&#xF3;n de la Aguada; al Oriente, con la Av. Pajaritos; al Sur, con el Camino de La Farfana; y al Poniente, con una l&#xED;nea que une las letras D. (La Farfana) y E (Zanj&#xF3;n de la Aguada), del pol&#xED;gono A, B, C, D y E del citado plano.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Hist&#xF3;rico la<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> casa y el parque de la &quot;Quinta Las Rosas de Maip&#xFA;&quot;, ubicados en la comuna de Maip&#xFA;, Regi&#xF3;n Metropolitana, con una superficie de 5,44 hect&#xE1;reas y que se encuentra incluida en los siguientes deslindes, cuyo plano se adjunta, al Norte, por el Zanj&#xF3;n de la Aguada; al Oriente, con la Av. Pajaritos; al Sur, con el Camino de La Farfana; y al Poniente, con una l&#xED;nea que une las letras D. (La Farfana) y E (Zanj&#xF3;n de la Aguada), del pol&#xED;gono A, B, C, D y E del citado plano. </div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico del DTO 415 Exento, Educaci&#xF3;n, publicado el 09.05.2005, modifica la presente norma, en el sentido de desafectar parte del &#xE1;rea protegida, quedando como l&#xED;mites del Monumento Hist&#xF3;rico los que la citada norma indica.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

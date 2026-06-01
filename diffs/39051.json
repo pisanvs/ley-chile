@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-04-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201577,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; COMPLEMENTA RESOLUCION N&#xB0; 1.213 EXENTA, DE 1992 N&#xFA;m. 501 exenta.- Santiago, 19 de abril de 1994.- Visto: El Decreto Ley N&#xB0; 2.136 de 1978 en su texto fijado por el art&#xED;culo 83 de la Ley N&#xB0; 18.768.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; COMPLEMENTA RESOLUCION N&#xB0; 1.213 EXENTA, DE 1992 N&#xFA;m. 501 exenta.- Santiago, 19 de abril de 1994.- Visto: El Decreto Ley N&#xB0; 2.136 de 1978 en su texto fijado por el art&#xED;culo 83 de la Ley N&#xB0; 18.768.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

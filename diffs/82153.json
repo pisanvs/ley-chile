@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-09-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313344,
+          "old": "<div><div class=\"p\">AUTORIZA A PRODUCTORA DE ALIMENTOS ARTVICK LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PRODUCTORA DE ALIMENTOS ARTVICK LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

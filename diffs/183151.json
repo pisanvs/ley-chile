@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-02-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6327498,
+          "old": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE LA NORMA TECNICA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 12 de Enero de 1989.- Hoy se decret&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 6.- Visto: El oficio ordinario N&#xBA; 756, de 16 de Diciembre de 1988, del Jefe de la Divisi&#xF3;n T&#xE9;cnica de Estudio y Fomento Habitacional; la proposici&#xF3;n del Instituci&#xF3;n Nacional de Normalizaci&#xF3;n, contenida en oficio No. 8514-400, de 14 de Noviembre de 1988; el oficio ordinario No. 7.649, de 29 de Noviembre de 1988, del Sr. Subsecretario de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el art&#xED;culo 13&#xBA; letra c) del D.L. N&#xBA; 1.305, de 1976, y los incisos quinto y sexto del art&#xED;culo 3&#xBA; del D.S. N&#xBA; 458, (V. y U.), de 1975, Ley General de Urbanismo y Construcciones,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE LA NORMA TECNICA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 12 de Enero de 1989.- Hoy se decret&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 6.- Visto: El oficio ordinario N&#xBA; 756, de 16 de Diciembre de 1988, del Jefe de la Divisi&#xF3;n T&#xE9;cnica de Estudio y Fomento Habitacional; la proposici&#xF3;n del Instituci&#xF3;n Nacional de Normalizaci&#xF3;n, contenida en oficio No. 8514-400, de 14 de Noviembre de 1988; el oficio ordinario No. 7.649, de 29 de Noviembre de 1988, del Sr. Subsecretario de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el art&#xED;culo 13&#xBA; letra c) del D.L. N&#xBA; 1.305, de 1976, y los incisos quinto y sexto del art&#xED;culo 3&#xBA; del D.S. N&#xBA; 458, (V. y U.), de 1975, Ley General de Urbanismo y Construcciones,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

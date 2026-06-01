@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-03-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-09-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6520253,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico</div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo N&#xBA;1: D&#xE9;jase establecido que por esta &#xFA;nica vez a las instituciones a las cuales se le otorg&#xF3; transferencia de fondos durante el a&#xF1;o 2004 y que no rindieron en la fecha prevista en la ordenanza N&#xBA;01/2004, se les ampl&#xED;a el plazo para efectuar este tr&#xE1;mite hasta el &#xFA;ltimo d&#xED;a h&#xE1;bil del mes de marzo de 2005, conforme lo dispone la ordenanza N&#xBA;01/2005 Art. 1 N&#xBA;4,</div><div class=\"p\">&nbsp; &nbsp;  Las instituciones que no den cumplimiento de dicho tr&#xE1;mite quedar&#xE1;n eliminadas de los Registros de Personas Jur&#xED;dicas Receptoras de Fondos P&#xFA;blicos dispuesto en la ley N&#xBA;19.862.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico</div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo N&#xBA;1: D&#xE9;jase establecido que por esta &#xFA;nica<span class=\"n\" id=\"n_0\">ORZ 5,<br>M. DE ANTOFAGASTA<br>Art. 2&#xBA;<br>D.O. 20.09.2005</span> vez a las Instituciones a las cuales se les otorg&#xF3; transferencia de fondos durante el a&#xF1;o 2004 y que no rindieron en las fechas previstas en la ordenanza N&#xBA; 001/2004, modificada por las ordenanzas N&#xBA;s. 01/2005, 02/2005 y 03/2005, se les ampl&#xED;a el plazo para efectuar este tr&#xE1;mite hasta el &#xFA;ltimo d&#xED;a de h&#xE1;bil del mes de septiembre de 2005, conforme lo dispone el art&#xED;culo 1, N&#xBA; 4, de la ordenanza N&#xBA; 01/2005.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-12-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7293027,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO ALCALDICIO N&#xBA; 1319, DE 1988 </div><div class=\"p\">&nbsp; &nbsp;  Num.152-Santiago, 21 de febrero de 1989.</div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;case el decreto Secci&#xF3;n 2da N&#xBA; 1319, de fecha 6 de diciembre de 1988, por el que se aprob&#xF3; la &quot;la Ordenanza para el Uso de Sitios no Edificados y Recintos como Playas de Estacionamientos&quot; en el sentido de que:</div><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO ALCALDICIO N&#xBA; 1319, DE 1988 </div><div class=\"p\">&nbsp; &nbsp;  Num.152- Santiago, 21 de febrero de 1989.</div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;case el decreto Secci&#xF3;n 2da N&#xBA; 1319, de fecha 6 de diciembre de 1988, por el que se aprob&#xF3; la &quot;la Ordenanza para el Uso de Sitios no Edificados y Recintos como Playas de Estacionamientos&quot; en el sentido de que:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-01-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-03-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6558612,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Adjud&#xED;canse los siguientes montos por concepto de aporte suplementario por costo de capital adicional, en el marco del Octavo Concurso P&#xFA;blico (N&#xB0;1/2004) sobre proyectos de infraestructura, para los siguientes establecimientos educacionales:</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 23.01.2006, P&#xC1;GINA 8.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Adjud&#xED;canse los siguientes montos por concepto de aporte suplementario por costo de capital adicional, en el marco del Octavo Concurso P&#xFA;blico (N&#xB0;1/2004) sobre proyectos de infraestructura, para los siguientes establecimientos educacionales:</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 23.01.2006, P&#xC1;GINA 8.</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br> El art&#xED;culo 1&#xBA; de la Resoluci&#xF3;n 1486 Exenta, Educaci&#xF3;n, publicada el 30.03.2009, modifica el listado de establecimientos educacionales de la siguiente manera:<br><br>&nbsp; &nbsp;  En la fila referente al establecimiento educacional denominado &quot;Colegio Adventista de Iquique&quot;, en su &#xFA;ltima columna referida a Adjudicado UTM, donde dice &quot;13.456&quot;, debe decir &quot;12.729&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

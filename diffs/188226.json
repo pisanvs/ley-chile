@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-08-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-10-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6344760,
+          "old": "<div><div class=\"p\">OTORGA A CHILQUINTA S.A. CONCESION DEFINITIVA PARA ESTABLECER LINEA DE TRANSPORTE DE ENERGIA ELECTRICA EN LA V REGION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 456.- Santiago, 6 de septiembre de 2000.- Visto: Estos antecedentes y lo dispuesto en los art&#xED;culos 11&#xBA; y 28&#xBA; del D.F.L. N&#xBA; 1, de 1982, del Ministerio de Miner&#xED;a, y en la ley N&#xBA; 18.410.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">OTORGA A CHILQUINTA S.A. CONCESION DEFINITIVA PARA ESTABLECER LINEA DE TRANSPORTE DE ENERGIA ELECTRICA EN LA V REGION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 456.- Santiago, 6 de septiembre de 2000.- Visto: Estos antecedentes y lo dispuesto en los art&#xED;culos 11&#xBA; y 28&#xBA; del D.F.L. N&#xBA; 1, de 1982, del Ministerio de Miner&#xED;a, y en la ley N&#xBA; 18.410.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

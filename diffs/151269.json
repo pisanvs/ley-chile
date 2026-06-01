@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-01-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7258793,
+          "old": "<div><div class=\"p\">APRUEBA MODIFICACIONES A LA POLIZA No. 581 SOBRE SEGURO OBLIGATORIO DE ACCIDENTES PERSONALES CAUSADOS POR VEHICULOS MOTORIZADOS</div><br><div class=\"p\">Circular No. 762</div><br><div class=\"p\">Para todas las entidades aseguradoras del primer grupo </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA MODIFICACIONES A LA POLIZA No. 581 SOBRE SEGURO OBLIGATORIO DE ACCIDENTES PERSONALES CAUSADOS POR VEHICULOS MOTORIZADOS</div><br><div class=\"p\">Circular No. 762</div><br><div class=\"p\">Para todas las entidades aseguradoras del primer grupo </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

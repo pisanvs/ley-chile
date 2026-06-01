@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2022-06-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-07-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10341052,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12.- Planes de Acci&#xF3;n Comunal de Cambio Clim&#xE1;tico. Las municipalidades deber&#xE1;n elaborar planes de acci&#xF3;n comunal de cambio clim&#xE1;tico, los que ser&#xE1;n consistentes con las directrices generales establecidas en la Estrategia Clim&#xE1;tica de Largo Plazo y en los planes de acci&#xF3;n regional de cambio clim&#xE1;tico.&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Los planes de acci&#xF3;n comunal de cambio clim&#xE1;tico contendr&#xE1;n, al menos:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Caracterizaci&#xF3;n de la vulnerabilidad al cambio clim&#xE1;tico y potenciales impactos en la comuna;</div><div class=\"p\">&nbsp; &nbsp;  b) Medidas de mitigaci&#xF3;n, adaptaci&#xF3;n a nivel comunal y relativas a los medios de implementaci&#xF3;n, incluyendo la identificaci&#xF3;n de sus fuentes de financiamiento a nivel comunal;</div><div class=\"p\">&nbsp; &nbsp;  c) Descripci&#xF3;n detallada de las medidas que consideran, con indicaci&#xF3;n de plazos de implementaci&#xF3;n y asignaci&#xF3;n de responsabilidades, y</div><div class=\"p\">&nbsp; &nbsp;  d) Indicadores de monitoreo, reporte y verificaci&#xF3;n de cumplimiento de las medidas del plan, conforme a la Estrategia Clim&#xE1;tica de Largo Plazo.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  El no cumplimiento de lo dispuesto en este art&#xED;culo por parte de los respectivos alcaldes, en el plazo de tres a&#xF1;os contados desde la publicaci&#xF3;n de esta ley, se sancionar&#xE1; con multa correspondiente a una remuneraci&#xF3;n mensual del respectivo alcalde.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12.- Planes de Acci&#xF3;n Comunal de Cambio Clim&#xE1;tico. Las municipalidades deber&#xE1;n elaborar planes de acci&#xF3;n comunal de cambio clim&#xE1;tico, los que ser&#xE1;n consistentes con las directrices generales establecidas en la Estrategia Clim&#xE1;tica de Largo Plazo y en los planes de acci&#xF3;n regional de cambio clim&#xE1;tico.&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Los planes de acci&#xF3;n comunal de cambio clim&#xE1;tico contendr&#xE1;n, al menos:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Caracterizaci&#xF3;n de la vulnerabilidad al cambio clim&#xE1;tico y potenciales impactos en la comuna;</div><div class=\"p\">&nbsp; &nbsp;  b) Medidas de mitigaci&#xF3;n, adaptaci&#xF3;n a nivel comunal y relativas a los medios de implementaci&#xF3;n, incluyendo la identificaci&#xF3;n de sus fuentes de financiamiento a nivel comunal;</div><div class=\"p\">&nbsp; &nbsp;  c) Descripci&#xF3;n detallada de las medidas que consideran, con indicaci&#xF3;n de plazos de implementaci&#xF3;n y asignaci&#xF3;n de responsabilidades, y</div><div class=\"p\">&nbsp; &nbsp;  d) Indicadores de monitoreo, reporte y verificaci&#xF3;n de cumplimiento de las medidas del plan, conforme a la Estrategia Clim&#xE1;tica de Largo Plazo.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  El no cumplimiento de lo dispuesto en este art&#xED;culo por parte de los respectivos alcaldes, en el plazo de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1214890&amp;idParte=10554644&amp;idVersion=2025-07-11\">Ley 21755<br>Art. 6 N&#xBA; 1<br>D.O. 11.07.2025</a></span>cuatro a&#xF1;os contados desde la publicaci&#xF3;n de esta ley, se sancionar&#xE1; con multa correspondiente a una remuneraci&#xF3;n mensual del respectivo alcalde.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        },
+        {
+          "part_id": 10341112,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- La Estrategia Clim&#xE1;tica de Largo Plazo presentada ante la Convenci&#xF3;n Marco de Naciones Unidas sobre el Cambio Clim&#xE1;tico el 3 de noviembre del a&#xF1;o 2021 mantendr&#xE1; su vigencia para todos los efectos legales y deber&#xE1; ser actualizada en el a&#xF1;o 2030, de conformidad a esta ley. Por su parte, los Planes de Acci&#xF3;n Regional sobre Cambio Clim&#xE1;tico que se encuentran en elaboraci&#xF3;n a la fecha de publicaci&#xF3;n de esta ley, se entender&#xE1; que cumplen con lo dispuesto en el art&#xED;culo 11 y se actualizar&#xE1;n al a&#xF1;o 2025.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- La Estrategia Clim&#xE1;tica de Largo Plazo presentada ante la Convenci&#xF3;n Marco de Naciones Unidas sobre el Cambio Clim&#xE1;tico el 3 de noviembre del a&#xF1;o 2021 mantendr&#xE1; su vigencia para todos los efectos legales y deber&#xE1; ser actualizada en el a&#xF1;o 2030, de conformidad a esta ley. Por su parte, los Planes de Acci&#xF3;n Regional sobre Cambio Clim&#xE1;tico que se encuentran en elaboraci&#xF3;n a la fecha de publicaci&#xF3;n de esta ley, se entender&#xE1; que cumplen con lo dispuesto en el art&#xED;culo 11<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1214890&amp;idParte=10554644&amp;idVersion=2025-07-11\">Ley 21755<br>Art. 6 N&#xBA; 2<br>D.O. 11.07.2025</a></span>.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1214890,
+      "fecha": "2025-07-11"
+    }
+  }
+]

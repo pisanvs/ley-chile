@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-04-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-02-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7194974,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA Y COMPLEMENTA LO ESTABLECIDO EN LA RESOLUCION N&#xB0; 153 DE 1995</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 125.- Coyhaique, 21 de Marzo de 1995. Vistos estos antecedentes: Resoluci&#xF3;n N&#xB0; 153 del 13 de Marzo de 1995, del Director del Servicio de Salud Ays&#xE9;n; Resoluci&#xF3;n N&#xB0; 0392 del 16 de Marzo de 1995, del Director del Servicio de Salud Llanquihue, Chilo&#xE9; y Palena; Protocolo de An&#xE1;lisis del Laboratorio de Marea Roja del Servicio de Salud Ays&#xE9;n, que arrojaron resultados negativos al Veneno Paralizante de los Mariscos (VPM); lo informado por el Departamento Programas Sobre el Ambiente; teniendo presente lo dispuesto en el C&#xF3;digo Sanitario, Reglamento Sanitario de los Alimentos, Decreto Supremo N&#xB0; 42/86 del Ministerio de Salud; Resoluci&#xF3;n N&#xB0; 55/92 de la Contralor&#xED;a General de la Rep&#xFA;blica, y en uso de las facultades que me confiere el Decreto Ley N&#xB0; 2763/79,</div><div class=\"p\">&nbsp; &nbsp; dict&#xF3; la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA Y COMPLEMENTA LO ESTABLECIDO EN LA RESOLUCION N&#xB0; 153 DE 1995</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 125.- Coyhaique, 21 de Marzo de 1995. Vistos estos antecedentes: Resoluci&#xF3;n N&#xB0; 153 del 13 de Marzo de 1995, del Director del Servicio de Salud Ays&#xE9;n; Resoluci&#xF3;n N&#xB0; 0392 del 16 de Marzo de 1995, del Director del Servicio de Salud Llanquihue, Chilo&#xE9; y Palena; Protocolo de An&#xE1;lisis del Laboratorio de Marea Roja del Servicio de Salud Ays&#xE9;n, que arrojaron resultados negativos al Veneno Paralizante de los Mariscos (VPM); lo informado por el Departamento Programas Sobre el Ambiente; teniendo presente lo dispuesto en el C&#xF3;digo Sanitario, Reglamento Sanitario de los Alimentos, Decreto Supremo N&#xB0; 42/86 del Ministerio de Salud; Resoluci&#xF3;n N&#xB0; 55/92 de la Contralor&#xED;a General de la Rep&#xFA;blica, y en uso de las facultades que me confiere el Decreto Ley N&#xB0; 2763/79,</div><div class=\"p\">&nbsp; &nbsp; dict&#xF3; la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

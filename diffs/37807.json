@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-07-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6019195,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA ANTIG&#xDC;EDAD MAXIMA PARA LA INCORPORACION DE BUSES A LOS SERVICIOS DE LOCOMOCION COLECTIVA URBANA EN LA COMUNA DE SAN FERNANDO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2 exenta.- Rancagua, 21 de Junio de 1994.- Visto: La facultad delegada en los Secretarios Regionales Ministeriales de Transportes y Telecomunicaciones por el Art. 1&#xB0; del Decreto Supremo N&#xB0; 1 de 1994.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo </div></div>",
+          "new": "<div><div class=\"p\">FIJA ANTIG&#xDC;EDAD MAXIMA PARA LA INCORPORACION DE BUSES A LOS SERVICIOS DE LOCOMOCION COLECTIVA URBANA EN LA COMUNA DE SAN FERNANDO</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2 exenta.- Rancagua, 21 de Junio de 1994.- Visto: La facultad delegada en los Secretarios Regionales Ministeriales de Transportes y Telecomunicaciones por el Art. 1&#xB0; del Decreto Supremo N&#xB0; 1 de 1994.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

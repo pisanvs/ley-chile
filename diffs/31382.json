@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-10-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-03-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7193130,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE REGLAMENTO PARA LOS SERVICIOS PRESTADOS A LA CARGA EN TRANSITO DESDE/HACIA BOLIVIA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 265.- Valpara&#xED;so, 25 de Septiembre de 1991.- Vistos: La resoluci&#xF3;n N&#xB0; 14, del 12 de Enero de 1988, publicada en el Diario Oficial del 21.01.88, las recomendaciones de la Delegaci&#xF3;n que represent&#xF3; a la Empresa Portuaria de Chile en las Reuniones T&#xE9;cnicas celebradas durante los d&#xED;as 24, 25, 26 y 27 de Septiembre de 1990, en la ciudad de Arica, y los d&#xED;as 8, 9, 10, 11 y 12 de Abril de 1991, en la ciudad de Santa Cruz de la Sierra, Bolivia, entre la Empresa Portuaria de Chile y la Administraci&#xF3;n Aut&#xF3;noma de Almacenes Aduaneros de Bolivia; la facultad que me otorga el Art.</div><div class=\"p\">13&#xB0; N&#xB0; 20 del D.F.L. N&#xB0; 290, de 1960, sobre ley org&#xE1;nica de la Empresa Portuaria de Chile, cuyo texto refundido, coordinado y sistematizado fue fijado por D.S. (TT. y TT.) N&#xB0; 91, de 1978; la resoluci&#xF3;n N&#xB0; 210, de 21.06.90, T.R.C. el 04.07.90, que establece el orden de subrogancia del Director, dicto la siguiente</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><br><div class=\"p\">ESTABLECE REGLAMENTO PARA LOS SERVICIOS PRESTADOS A<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> LA CARGA EN TRANSITO DESDE/HACIA BOLIVIA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 265.- Valpara&#xED;so, 25 de Septiembre de 1991.- Vistos: La resoluci&#xF3;n N&#xB0; 14, del 12 de Enero de 1988, publicada en el Diario Oficial del 21.01.88, las recomendaciones de la Delegaci&#xF3;n que represent&#xF3; a la Empresa Portuaria de Chile en las Reuniones T&#xE9;cnicas celebradas durante los d&#xED;as 24, 25, 26 y 27 de Septiembre de 1990, en la ciudad de Arica, y los d&#xED;as 8, 9, 10, 11 y 12 de Abril de 1991, en la ciudad de Santa Cruz de la Sierra, Bolivia, entre la Empresa Portuaria de Chile y la Administraci&#xF3;n Aut&#xF3;noma de Almacenes Aduaneros de Bolivia; la facultad que me otorga el Art. 13&#xB0; N&#xB0; 20 del D.F.L. N&#xB0; 290, de 1960, sobre ley org&#xE1;nica de la Empresa Portuaria de Chile, cuyo texto refundido, coordinado y sistematizado fue fijado por D.S. (TT. y TT.) N&#xB0; 91, de 1978; la resoluci&#xF3;n N&#xB0; 210, de 21.06.90, T.R.C. el 04.07.90, que establece el orden de subrogancia del Director, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El N&#xBA; 4 de la RES 14, Transportes, publicada el 27.03.1993, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-03-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-05-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8352218,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A CECILIA MARGARITA POZO MIBANDA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A CECILIA MARGARITA POZO MIBANDA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

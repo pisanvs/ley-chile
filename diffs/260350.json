@@ -1,0 +1,91 @@
+[
+  {
+    "fecha": "2007-04-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-01-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9329680,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1048396&amp;idParte=9329674&amp;idVersion=2013-01-25\">Decreto 2, MEDIO AMBIENTE<br>Art. &#xDA;NICO N&#xB0; 1<br>D.O. 25.01.2013</a></span>&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; Bis: A contar de 6 meses de publicado en el Diario Oficial el DS N&#xBA; 2 de 26 de enero de 2012, del Ministerio del Medio Ambiente, los l&#xED;mites m&#xE1;ximos permitidos en la Regi&#xF3;n Metropolitana, ser&#xE1;n los siguientes:</div><br><div class=\"p\">&nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/30422.jpg\"></div><div class=\"p\">&nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/30423.jpg\"></div><div class=\"p\">&nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/30424.jpg\"></div><br><br></div>"
+        },
+        {
+          "part_id": 9329681,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1048396&amp;idParte=9329674&amp;idVersion=2013-01-25\">Decreto 2, MEDIO AMBIENTE<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 25.01.2013</a></span>&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; Ter: A contar de 6 meses de publicado en el Diario Oficial el DS N&#xBA; 2 de 26 de enero de 2012, del Ministerio del Medio Ambiente, los l&#xED;mites m&#xE1;ximos permitidos en la Regi&#xF3;n Metropolitana, para los veh&#xED;culos cuyos datos de marca y modelo no se encuentren en la n&#xF3;mina con los datos de la Inercia Equivalente por marca y modelo para la correcta aplicaci&#xF3;n de la norma, establecida por el Ministerio de Transportes y Telecomunicaciones, ser&#xE1;n los siguientes:</div><br><div class=\"p\">&nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/30425.jpg\"></div><br><br></div>"
+        },
+        {
+          "part_id": 9329682,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1048396&amp;idParte=9329674&amp;idVersion=2013-01-25\">Decreto 2, MEDIO AMBIENTE<br>Art. &#xDA;NICO N&#xB0; 3<br>D.O. 25.01.2013</a></span>&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; Qu&#xE1;ter: Cuando entren en operaci&#xF3;n las concesiones de Plantas de Revisi&#xF3;n T&#xE9;cnica en la Regi&#xF3;n Metropolitana posteriores a la publicaci&#xF3;n en el Diario Oficial del DS N&#xBA; 2 de 26 de enero de 2012, del Ministerio del Medio Ambiente o a m&#xE1;s tardar el d&#xED;a 1&#xBA; de abril de 2015, los l&#xED;mites m&#xE1;ximos permitidos en la Regi&#xF3;n Metropolitana, ser&#xE1;n los siguientes:</div><br><div class=\"p\">&nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/30426.jpg\"></div><div class=\"p\">&nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/30427.jpg\"></div><div class=\"p\">&nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/30428.jpg\"></div><br><br></div>"
+        },
+        {
+          "part_id": 9329683,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1048396&amp;idParte=9329674&amp;idVersion=2013-01-25\">Decreto 2, MEDIO AMBIENTE<br>Art. &#xDA;NICO N&#xB0; 4<br>D.O. 25.01.2013</a></span>&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; Quinquies.- Cuando entren en operaci&#xF3;n las concesiones de Plantas de Revisi&#xF3;n T&#xE9;cnica en la Regi&#xF3;n Metropolitana posteriores a la publicaci&#xF3;n en el Diario Oficial del DS N&#xBA; 2 de 26 de enero de 2012, del Ministerio del Medio Ambiente o a m&#xE1;s tardar el d&#xED;a 1&#xBA; de abril de 2015, los l&#xED;mites m&#xE1;ximos permitidos en la Regi&#xF3;n Metropolitana, de los veh&#xED;culos cuyos datos de marca y modelo no se encuentren en la n&#xF3;mina con los datos de la Inercia Equivalente por marca y modelo para la correcta aplicaci&#xF3;n de la norma, establecida por el Ministerio de Transportes y Telecomunicaciones, ser&#xE1;n los siguientes:</div><br><div class=\"p\">&nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/30429.jpg\"></div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8663536,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- El procedimiento de prueba consiste en la medici&#xF3;n de las concentraciones de CO, HC y NO emitidos por el tubo de escape de los veh&#xED;culos en los Modos 5015 y 2525.</div><br><div class=\"p\">&nbsp; &nbsp;  Para efectuar la medici&#xF3;n en cada Modo se colocar&#xE1; al veh&#xED;culo sobre un dinam&#xF3;metro de chasis y se aplicar&#xE1; una potencia constante de ensayo operando el veh&#xED;culo a velocidad constante.</div><br><div class=\"p\">&nbsp; &nbsp;  Para el Modo 5015, la velocidad de ensayo ser&#xE1; de 24 km/hr (o 15 millas por hora) y la potencia de ensayo, en Horse Power (HP), se calcular&#xE1; a partir de la Inercia Equivalente (IE) del veh&#xED;culo como:</div><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 24.04.2007, PAGINA 5 Para el Modo 2525, la velocidad de ensayo ser&#xE1; de 40 km/hr (o 25 millas por hora) y la potencia de ensayo, en HP, se calcular&#xE1; a partir de la Inercia Equivalente del veh&#xED;culo como:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; VER DIARIO OFICIAL DE 24.04.2007, PAGINA 5</div><br><div class=\"p\">&nbsp; &nbsp;  Ambas potencias de ensayo se aplicar&#xE1;n al veh&#xED;culo mediante un dinam&#xF3;metro de chasis, en cada modo de medici&#xF3;n, a la velocidad correspondiente al modo. Se analizar&#xE1;n las muestras de las emisiones para los tres contaminantes regulados, las que se comparar&#xE1;n con los l&#xED;mites establecidos en el art&#xED;culo 5&#xBA; de este decreto.</div><br><div class=\"p\">&nbsp; &nbsp;  En el caso de requerirse la aplicaci&#xF3;n de la Tabla N&#xBA; 6 se utilizar&#xE1;n las siguientes potencias de ensayo:</div><br><br><div class=\"p\">&nbsp; &nbsp; &nbsp; VER DIARIO OFICIAL DE 24.04.2007, P&#xC1;GINA 5.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- El procedimiento de prueba consiste en la medici&#xF3;n de las concentraciones de CO, HC y NO emitidos por el tubo de escape de los veh&#xED;culos en los Modos 5015 y 2525.</div><br><div class=\"p\">&nbsp; &nbsp;  Para efectuar la medici&#xF3;n en cada Modo se colocar&#xE1; al veh&#xED;culo sobre un dinam&#xF3;metro de chasis y se aplicar&#xE1; una potencia constante de ensayo operando el veh&#xED;culo a velocidad constante.</div><br><div class=\"p\">&nbsp; &nbsp;  Para el Modo 5015, la velocidad de ensayo ser&#xE1; de 24 km/hr (o 15 millas por hora) y la potencia de ensayo, en Horse Power (HP), se calcular&#xE1; a partir de la Inercia Equivalente (IE) del veh&#xED;culo como:</div><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 24.04.2007, PAGINA 5 </div><br><div class=\"p\">&nbsp; &nbsp;  Para el Modo 2525, la velocidad de ensayo ser&#xE1; de 40 km/hr (o 25 millas por hora) y la potencia de ensayo, en HP, se calcular&#xE1; a partir de la Inercia Equivalente del veh&#xED;culo como:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; VER DIARIO OFICIAL DE 24.04.2007, PAGINA 5</div><br><div class=\"p\">&nbsp; &nbsp;  Ambas potencias de ensayo se aplicar&#xE1;n al veh&#xED;culo mediante un dinam&#xF3;metro de chasis, en cada modo de medici&#xF3;n, a la velocidad correspondiente al modo. Se analizar&#xE1;n las muestras de las emisiones para los tres contaminantes regulados, las que se comparar&#xE1;n con los l&#xED;mites establecidos en el art&#xED;culo 5&#xBA; de este decreto.</div><br><div class=\"p\">&nbsp; &nbsp;  En el caso de requerirse la aplicaci&#xF3;n de la Tabla N&#xBA; 6 se utilizar&#xE1;n las siguientes potencias de ensayo:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp4\"><a href=\"#np4\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; VER DIARIO OFICIAL DE 24.04.2007, P&#xC1;GINA 5.</div><br><br><br><div class=\"np\" id=\"np4\"><a href=\"#rnp4\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 5 del Decreto 2, Medio Ambiente, publicado el 25.01.2013, modifica el presente art&#xED;culo en el sentido de reemplazar en su inciso sexto las expresiones &quot;Tabla 7&quot; por &quot;Tabla 15&quot;, sin embargo no ha sido posible efectuar dicha actualizaci&#xF3;n en el texto por no coincidir la referida referencia.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1048396,
+      "fecha": "2013-01-25"
+    }
+  },
+  {
+    "fecha": "2017-11-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9855242,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0; sexies.- A contar de 12 meses de publicado en el Diario Oficial el DS N&#xB0;31, de 2016, del Ministerio del Medio Ambiente,<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1111283&amp;idParte=9855119&amp;idVersion=2017-11-24\">Decreto 31,<br>MEDIO AMBIENTE<br>Art. 137<br>D.O. 24.11.2017</a></span> los l&#xED;mites m&#xE1;ximos de emisi&#xF3;n permitidos en la Regi&#xF3;n Metropolitana de Santiago, ser&#xE1;n los siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  Tabla 15: L&#xED;mites de emisi&#xF3;n veh&#xED;culos livianos de pasajeros con sello verde o sello amarillo</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/72879.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  Tabla 16: L&#xED;mites de emisi&#xF3;n veh&#xED;culos comerciales livianos y medianos a&#xF1;o 1999 y posteriores con sello verde o sello amarillo</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/72880.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  Tabla 17: L&#xED;mites de emisi&#xF3;n veh&#xED;culos comerciales livianos y medianos a&#xF1;o 1998 y anteriores con sello verde</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/72881.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  Para la correcta aplicaci&#xF3;n de la norma, los veh&#xED;culos cuya marca y modelo no se encuentren en la n&#xF3;mina con los datos de la Inercia Equivalente por marca y modelo establecida por el Ministerio de Transportes y Telecomunicaciones, deber&#xE1;n cumplir los l&#xED;mites siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  Tabla 18: L&#xED;mites de emisi&#xF3;n por cilindrada.</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/72882.jpg\">.&nbsp; &nbsp;  </div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8663536,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- El procedimiento de prueba consiste en la medici&#xF3;n de las concentraciones de CO, HC y NO emitidos por el tubo de escape de los veh&#xED;culos en los Modos 5015 y 2525.</div><br><div class=\"p\">&nbsp; &nbsp;  Para efectuar la medici&#xF3;n en cada Modo se colocar&#xE1; al veh&#xED;culo sobre un dinam&#xF3;metro de chasis y se aplicar&#xE1; una potencia constante de ensayo operando el veh&#xED;culo a velocidad constante.</div><br><div class=\"p\">&nbsp; &nbsp;  Para el Modo 5015, la velocidad de ensayo ser&#xE1; de 24 km/hr (o 15 millas por hora) y la potencia de ensayo, en Horse Power (HP), se calcular&#xE1; a partir de la Inercia Equivalente (IE) del veh&#xED;culo como:</div><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 24.04.2007, PAGINA 5 </div><br><div class=\"p\">&nbsp; &nbsp;  Para el Modo 2525, la velocidad de ensayo ser&#xE1; de 40 km/hr (o 25 millas por hora) y la potencia de ensayo, en HP, se calcular&#xE1; a partir de la Inercia Equivalente del veh&#xED;culo como:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; VER DIARIO OFICIAL DE 24.04.2007, PAGINA 5</div><br><div class=\"p\">&nbsp; &nbsp;  Ambas potencias de ensayo se aplicar&#xE1;n al veh&#xED;culo mediante un dinam&#xF3;metro de chasis, en cada modo de medici&#xF3;n, a la velocidad correspondiente al modo. Se analizar&#xE1;n las muestras de las emisiones para los tres contaminantes regulados, las que se comparar&#xE1;n con los l&#xED;mites establecidos en el art&#xED;culo 5&#xBA; de este decreto.</div><br><div class=\"p\">&nbsp; &nbsp;  En el caso de requerirse la aplicaci&#xF3;n de la Tabla N&#xBA; 6 se utilizar&#xE1;n las siguientes potencias de ensayo:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp4\"><a href=\"#np4\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; VER DIARIO OFICIAL DE 24.04.2007, P&#xC1;GINA 5.</div><br><br><br><div class=\"np\" id=\"np4\"><a href=\"#rnp4\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 5 del Decreto 2, Medio Ambiente, publicado el 25.01.2013, modifica el presente art&#xED;culo en el sentido de reemplazar en su inciso sexto las expresiones &quot;Tabla 7&quot; por &quot;Tabla 15&quot;, sin embargo no ha sido posible efectuar dicha actualizaci&#xF3;n en el texto por no coincidir la referida referencia.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.- El procedimiento de prueba consiste en la medici&#xF3;n de las concentraciones de CO, HC y NO emitidos por el tubo de escape de los veh&#xED;culos en los Modos 5015 y 2525.</div><br><div class=\"p\">&nbsp; &nbsp;  Para efectuar la medici&#xF3;n en cada Modo se colocar&#xE1; al veh&#xED;culo sobre un dinam&#xF3;metro de chasis y se aplicar&#xE1; una potencia constante de ensayo operando el veh&#xED;culo a velocidad constante.</div><br><div class=\"p\">&nbsp; &nbsp;  Para el Modo 5015, la velocidad de ensayo ser&#xE1; de 24 km/hr (o 15 millas por hora) y la potencia de ensayo, en Horse Power (HP), se calcular&#xE1; a partir de la Inercia Equivalente (IE) del veh&#xED;culo como:</div><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 24.04.2007, PAGINA 5 </div><br><div class=\"p\">&nbsp; &nbsp;  Para el Modo 2525, la velocidad de ensayo ser&#xE1; de 40 km/hr (o 25 millas por hora) y la potencia de ensayo, en HP, se calcular&#xE1; a partir de la Inercia Equivalente del veh&#xED;culo como:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; VER DIARIO OFICIAL DE 24.04.2007, PAGINA 5</div><br><div class=\"p\">&nbsp; &nbsp;  Ambas potencias de ensayo se aplicar&#xE1;n al veh&#xED;culo mediante un dinam&#xF3;metro de chasis, en cada modo de medici&#xF3;n, a la velocidad correspondiente al modo. Se analizar&#xE1;n las muestras de las emisiones para los tres contaminantes regulados, las que se comparar&#xE1;n con los l&#xED;mites establecidos en el art&#xED;culo 5&#xBA; de este decreto.</div><br><div class=\"p\">&nbsp; &nbsp;  En el caso de requerirse la aplicaci&#xF3;n de la Tabla N&#xBA; 6 se utilizar&#xE1;n las siguientes potencias de ensayo:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp5\"><a href=\"#np5\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; VER DIARIO OFICIAL DE 24.04.2007, P&#xC1;GINA 5.</div><br><br><br><div class=\"np\" id=\"np5\"><a href=\"#rnp5\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 5 del Decreto 2, Medio Ambiente, publicado el 25.01.2013, modifica el presente art&#xED;culo en el sentido de reemplazar en su inciso sexto las expresiones &quot;Tabla 7&quot; por &quot;Tabla 15&quot;, sin embargo no ha sido posible efectuar dicha actualizaci&#xF3;n en el texto por no coincidir la referida referencia.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1111283,
+      "fecha": "2017-11-24"
+    }
+  },
+  {
+    "fecha": "2018-03-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8663543,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10.- La presente norma de emisi&#xF3;n entrar&#xE1; en vigencia en la Regi&#xF3;n Metropolitana, a partir del d&#xED;a 1&#xBA; de septiembre de 2007.</div><br><div class=\"p\">&nbsp; &nbsp;  En las Regiones V, VI, VIII y IX la presente norma entrar&#xE1; en vigencia doce meses despu&#xE9;s que las plantas de revisi&#xF3;n t&#xE9;cnica que operen en las regiones respectivas cuenten con los equipos necesarios para controlar dicha norma. Cada una de las respectivas Secretar&#xED;as Regionales Ministeriales de Transportes y Telecomunicaciones dictar&#xE1; una resoluci&#xF3;n en que dejar&#xE1; constancia del cumplimiento de la condici&#xF3;n mencionada y expresar&#xE1; la fecha en que se cumpla el plazo aludido. Dicha resoluci&#xF3;n deber&#xE1; publicarse en el Diario Oficial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10.- La presente norma de emisi&#xF3;n entrar&#xE1; en vigencia en la Regi&#xF3;n Metropolitana, a partir del d&#xED;a 1&#xBA; de septiembre de 2007.</div><br><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1116018&amp;idParte=9893489&amp;idVersion=2018-03-12\">Decreto 35, MEDIO AMBIENTE<br>Art. &#xFA;nico<br>D.O. 12.03.2018</a></span>En las regiones V, VI VIII y IX , los l&#xED;mites de emisi&#xF3;n descritos en el art&#xED;culo 5&#xB0; del presente decreto, ser&#xE1;n exigibles en la medici&#xF3;n de emisiones contaminantes efectuada en las Plantas Revisoras de las concesiones, cuyas Bases de Licitaci&#xF3;n contemplen entre sus requerimientos, disponer del equipo e instrumentos necesarios para realizar dicha medici&#xF3;n, a contar de la fecha en que inicien su operaci&#xF3;n, total o parcialmente la totalidad de las concesiones licitadas en la regi&#xF3;n de que se trate.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1116018,
+      "fecha": "2018-03-12"
+    }
+  }
+]

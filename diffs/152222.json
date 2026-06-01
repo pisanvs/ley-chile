@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-03-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8572722,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD LEONEL POLGATTI Y CIA.</div><div class=\"p\">LTDA. PARA INICIAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD LEONEL POLGATTI Y CIA. LTDA. PARA INICIAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCION QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

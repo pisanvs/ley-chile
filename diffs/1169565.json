@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2021-12-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-04-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10291061,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9: Normas Urban&#xED;sticas por Zona del &#xC1;rea Urbana</div><div class=\"p\">&nbsp; &nbsp;  Los tipos de uso, clases, y actividades no mencionadas como permitidas en la zonificaci&#xF3;n del Plan, se entender&#xE1;n como prohibidas.</div><div class=\"p\">&nbsp; &nbsp;  Los usos de suelo, condiciones de subdivisi&#xF3;n predial y edificaci&#xF3;n para las zonas indicadas en la zonificaci&#xF3;n, son los que se establecen a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/136072.jpg\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/136073.jpg\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/136074.jpg\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/136075.jpg\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/136076.jpg\"></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/136077.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9: Normas Urban&#xED;sticas por Zona del &#xC1;rea Urbana</div><div class=\"p\">&nbsp; &nbsp;  Los tipos de uso, clases, y actividades no mencionadas como permitidas en la zonificaci&#xF3;n del Plan, se entender&#xE1;n como prohibidas.</div><div class=\"p\">&nbsp; &nbsp;  Los usos de suelo, condiciones de subdivisi&#xF3;n predial y edificaci&#xF3;n para las zonas indicadas en la zonificaci&#xF3;n, son los que se establecen a continuaci&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/136072.jpg\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/136073.jpg\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/136074.jpg\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/136075.jpg\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/136076.jpg\"></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/136077.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El numeral primero del Decreto 428, Municipalidad de Pencahue, publicado el 19.04.2024, modifica la presente norma en el sentido de enmendar la altura altura m&#xE1;xima de construcciones en la zona ZE2, pasando de una altura m&#xE1;xima de 9 metros a 10.8 metros de altura, modificando el presente art&#xED;culo de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

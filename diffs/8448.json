@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1987-09-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-03-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9007062,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Para los efectos de este Reglamento se entender&#xE1; por Mercado Primario Formal aquel en que los compradores y el emisor participan en la determinaci&#xF3;n de los precios de los instrumentos ofrecidos al p&#xFA;blico por primera vez, por intermedio de un agente de valores que act&#xFA;a por cuenta del emisor, empleando para ello procedimientos previamente determinados y conocidos e informaci&#xF3;n p&#xFA;blica conocida, tendientes a garantizar las transparencia de la transacciones que se efect&#xFA;an en &#xE9;l.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Para los efectos de este Reglamento se entender&#xE1; por Mercado Primario Formal aquel en que los compradores y el emisor participan en la determinaci&#xF3;n de los precios de los instrumentos ofrecidos al p&#xFA;blico<span class=\"n\" id=\"n_0\">DS. 12,<br>PREVISION,<br>1988,<br>ART. UNICO,<br>N&#xB0; 1.</span> por primera vez, empleando para ello procedimientos previamente determinados y conocidos e informaci&#xF3;n p&#xFA;blica conocida, tendientes a garantizar la transparencia de las transacciones que se efect&#xFA;an en &#xE9;l.</div><br></div>"
+        },
+        {
+          "part_id": 9007067,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- El agente de valores deber&#xE1; invitar al menos a todos los inversionistas institucionales a un remate del instrumento en cuesti&#xF3;n, a realizarse dentro de un plazo, a contar de la fecha de la invitaci&#xF3;n que no podr&#xE1; ser inferior a 10 ni superior a 15 d&#xED;as. Se entender&#xE1; por inversionistas institucionales a los Fondos de Pensiones, Compa&#xF1;&#xED;as de Seguros, Fondos Mutuos, Agentes de Valores y Bancos e Instituciones Financieras. La invitaci&#xF3;n deber&#xE1; especificar el precio m&#xED;nimo del instrumento, la existencia y volumen de lotes m&#xED;nimos y deber&#xE1; incluir el prospecto de la emisi&#xF3;n. Copia de la invitaci&#xF3;n se deber&#xE1; enviar a la Superintendencia de Administradoras de Fondos de Pensiones y se deber&#xE1; publicar en un diario de circulaci&#xF3;n nacional.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- El responsable de la colocaci&#xF3;n deber&#xE1; <span class=\"n\" id=\"n_1\">DS. 12, <br>PREVISION,<br>1988,<br>ART. UNICO,<br>N&#xB0; 2.</span></div><div class=\"p\">invitar al menos a todos los inversionistas institucionales a un remate del instrumento en cuesti&#xF3;n, a realizarse dentro de un plazo, a contar de la fecha de la invitaci&#xF3;n, que no podr&#xE1; ser inferior a 10 ni superior a 15 d&#xED;as. Se entender&#xE1; por inversionistas institucionales a los Fondos de Pensiones, Compa&#xF1;&#xED;as de Seguros, Fondos Mutuos, Agentes de Valores y Bancos e Instituciones Financieras. La invitaci&#xF3;n deber&#xE1; especificar el precio m&#xED;nimo del instrumento, la existencia y volumen de lotes m&#xED;nimos y deber&#xE1; incluir el prospecto de la emisi&#xF3;n. Copia de la invitaci&#xF3;n se deber&#xE1; enviar a la Superintendencia de Administradoras de Fondos de Pensiones y se deber&#xE1; publicar en un diario de circulaci&#xF3;n nacional.</div><br></div>"
+        },
+        {
+          "part_id": 9007068,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Las ofertas de compras que hagan los Fondos de Pensiones ser&#xE1;n exigibles s&#xF3;lo si como resultado del remate, un 40% de la emisi&#xF3;n es adquirida por al menos 4 inversionistas no relacionados entre s&#xED;, en cuyo caso ninguno podr&#xE1; adquirir m&#xE1;s del 10% de dicho instrumento. Los Fondos de Pensiones cuyas Administradoras sean relacionadas con el emisor o el agente de valores, s&#xF3;lo podr&#xE1;n participar en el remate si van sindicados con al menos dos inversionistas institucionales, no relacionados con el emisor o el agente de valores. En este caso el Fondo respectivo no podr&#xE1; postular a un porcentaje superior al tercio de la sindicaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Las ofertas de compras que hagan los Fondos de Pensiones ser&#xE1;n exigibles s&#xF3;lo si como resultado del remate, un 40% de la emisi&#xF3;n es adquirida por al menos 4 inversionistas no relacionados entre s&#xED;,<span class=\"n\" id=\"n_2\">DS. 12,<br>PREVISION,<br>1988,<br>ART. UNICO,<br>N&#xB0; 2.<br>DS. 12<br>PREVISION,<br>1988,<br>ART. UNICO,<br>N&#xB0; 2.</span> en cuyo caso ninguno podr&#xE1; adquirir m&#xE1;s del 10% de dicho instrumento. Los Fondos de Pensiones cuyas Administradoras sean relacionadas con el emisor o el responsable de la colocaci&#xF3;n, s&#xF3;lo podr&#xE1;n participar en el remate si van sindicados con al menos dos inversionistas institucionales, no relacionados con el emisor o el responsable de la colocaci&#xF3;n. En este caso el Fondo respectivo no podr&#xE1; postular a un porcentaje superior al tercio de la sindicaci&#xF3;n.</div></div>"
+        },
+        {
+          "part_id": 9007071,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- El resultado del remate deber&#xE1; ser siempre p&#xFA;blico. El agente de valores deber&#xE1; publicar el resultado mencionado en un diario de circulaci&#xF3;n nacional, y enviar copia de dicha publicaci&#xF3;n a la Superintendencia de Administradoras de Fondos de Pensiones dentro del plazo de 30 d&#xED;as contado desde la fecha del remate.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- En resultado del remate deber&#xE1; ser<span class=\"n\" id=\"n_3\">DS. 12,<br>PREVISION,<br>1988,<br>ART. UNICO,<br>N&#xB0; 2.</span> siempre p&#xFA;blico. El responsable de la colocaci&#xF3;n deber&#xE1; publicar el resultado mencionado en un diario de circulaci&#xF3;n macional, y enviar copia de dicha publicaci&#xF3;n a la Superintendencia de Administradoras de Fondos de Pensiones dentro del plazo de 30 d&#xED;as contado desde la fecha del remate.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-07-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6162271,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xBA; 1.132, DE 1986 </div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xBA; 1.132, DE 1986 </div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

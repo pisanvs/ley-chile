@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-02-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-07-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7289791,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA; transitorio.- En las operaciones de<span class=\"n\" id=\"n_0\">DTO 130, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 26.07.2002</span> compraventa de Viviendas Sociales Din&#xE1;micas sin Deuda que se asignen a Postulantes en Condici&#xF3;n Extrema, seleccionados conforme a llamados cuyo cierre de Registro se efect&#xFA;e durante el plazo de 12 meses contados a partir de la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial, para la determinaci&#xF3;n del subsidio que corresponda otorgar conforme al inciso segundo de la letra b) del art&#xED;culo 21 del D.S. N&#xBA; 62 (V. y U.), de 1984, no se aplicar&#xE1; la diferenciaci&#xF3;n en cuanto a los montos que dicho precepto autoriza destinar al financiamiento del precio de construcci&#xF3;n de la vivienda y al del precio del terreno y su urbanizaci&#xF3;n, cuando corresponda.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

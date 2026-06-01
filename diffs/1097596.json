@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-07-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9751516,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero: Conc&#xE9;danse los cupos para el a&#xF1;o 2016 de la ley N&#xBA; 20.948 a los funcionarios que se individualizan a continuaci&#xF3;n:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/62459.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/62460.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/62461.jpg\">.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero: Conc&#xE9;danse los cupos para el a&#xF1;o 2016 de la ley N&#xBA; 20.948 a los funcionarios que se individualizan a continuaci&#xF3;n:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/62459.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/62460.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/62461.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los resuelvos primero, segundo, y tercero de la Resoluci&#xF3;n 355 Exenta, Hacienda, publicada el 13.07.2017, modifican la presente norma en el sentido de incorporar y rechazar beneficiarios de cupos de la ley 20948, de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

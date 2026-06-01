@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-12-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8549002,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JUAN JESUS GONZALEZ JEFFS PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JUAN JESUS GONZALEZ JEFFS PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

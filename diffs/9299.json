@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1984-07-01",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1987-04-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8992661,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MINISTERIO DE LA VIVIENDA Y URBANISMO DECRETO N&#xB0; 104, DE 25 DE JUNIO DE 1984 REGLAMENTA SISTEMA DE REGULARIZACION Y REPROGRAMACION DE DEUDAS QUE INDICA Y DE SUBVENCIONES QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el &quot;Diario Oficial&quot; N&#xB0; 31.910, de 30 de junio de 1984)</div><div class=\"p\">&nbsp; &nbsp; NUM. 104.- Santiago, 25 de junio de 1984.- Visto: El decreto ley 539, de 1974, y en especial lo dispuesto en su art&#xED;culo 17&#xB0;; el decreto ley 1.506, de 1976; el decreto ley 1.305, de 1976; el decreto supremo 355 (V. Y U.), de 1976; el art&#xED;culo 16&#xB0; bis del decreto supremo 268 (V.y U.), de 1975, agregado por decreto supremo 578 (V. y U.), de 1978; el art&#xED;culo 1&#xB0; de la ley 14.140, reemplazado por la ley 17.227; la ley 18.092, y en especial su T&#xED;tulo II; el art&#xED;culo 21&#xB0; inciso 4&#xB0; de la ley 16.391, y las facultades que me confiere el N&#xB0; 8 del art&#xED;culo 32&#xB0; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; DECRETO:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento del sistema de regularizaci&#xF3;n y reprogramaci&#xF3;n de deudas y del sistema de subvenciones, que aplicar&#xE1;n los Servicios de Vivienda y Urbanizaci&#xF3;n:</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

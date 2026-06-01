@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2014-06-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-06-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9477904,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Modif&#xED;case el <a href=\"https://www.leychile.cl/Navegar?idNorma=1060269&amp;idParte=&amp;idVersion=\">decreto exento N&#xBA; 169, de 10 de marzo de 2014, del Ministerio de Educaci&#xF3;n</a>, en la forma que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp;  a) En el <a href=\"https://www.leychile.cl/Navegar?idNorma=1060269&amp;idParte=9418444&amp;idVersion=\">art&#xED;culo 1&#xBA;</a> n&#xFA;mero 4, que modific&#xF3; el <a href=\"https://www.leychile.cl/Navegar?idNorma=1028020&amp;idParte=&amp;idVersion=\">decreto exento N&#xBA; 1.358, de 2011</a>, sustit&#xFA;yese el <a href=\"https://www.leychile.cl/Navegar?idNorma=1028020&amp;idParte=9160312&amp;idVersion=\">art&#xED;culo 5&#xBA;</a> por el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 5&#xBA;: Los planes de estudios deber&#xE1;n ser implementados a partir del a&#xF1;o escolar 2017 para el 1&#xBA; a&#xF1;o de educaci&#xF3;n media, y a partir del a&#xF1;o escolar 2018 para el 2&#xBA; a&#xF1;o de educaci&#xF3;n media&quot;.</div><div class=\"p\">&nbsp; &nbsp;  b) En el <a href=\"https://www.leychile.cl/Navegar?idNorma=1060269&amp;idParte=9418445&amp;idVersion=\">art&#xED;culo 2&#xBA;</a>, que modific&#xF3; el <a href=\"https://www.leychile.cl/Navegar?idNorma=1028021&amp;idParte=&amp;idVersion=\">decreto exento N&#xBA; 1.363, de 2011, del Ministerio de Educaci&#xF3;n</a>:</div><div class=\"p\">&nbsp; &nbsp;  - Reempl&#xE1;zase en el n&#xFA;mero 3, que introduce en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1028021&amp;idParte=9160442&amp;idVersion=\">art&#xED;culo 3&#xBA;</a> los siguientes incisos segundo y tercero, y cuarto nuevos, el guarismo &quot;2015&quot; por el guarismo &quot;2016&quot;.</div><div class=\"p\">&nbsp; &nbsp;  - Sustit&#xFA;yese en el n&#xFA;mero 4, que reemplaza el <a href=\"https://www.leychile.cl/Navegar?idNorma=1028021&amp;idParte=9160444&amp;idVersion=\">art&#xED;culo 5&#xBA;</a>, en ambos incisos, los guarismos &quot;2015&quot; por &quot;2016&quot;.</div><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Modif&#xED;case el decreto exento N&#xBA;<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> 169, de 10 de marzo de 2014, del Ministerio de Educaci&#xF3;n, en la forma que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp;  a) En el art&#xED;culo 1&#xBA; n&#xFA;mero 4, que modific&#xF3; el decreto exento N&#xBA; 1.358, de 2011, sustit&#xFA;yese el art&#xED;culo 5&#xBA; por el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 5&#xBA;: Los planes de estudios deber&#xE1;n ser implementados a partir del a&#xF1;o escolar 2017 para el 1&#xBA; a&#xF1;o de educaci&#xF3;n media, y a partir del a&#xF1;o escolar 2018 para el 2&#xBA; a&#xF1;o de educaci&#xF3;n media&quot;.</div><div class=\"p\">&nbsp; &nbsp;  b) En el art&#xED;culo 2&#xBA;, que modific&#xF3; el decreto exento N&#xBA; 1.363, de 2011, del Ministerio de Educaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  - Reempl&#xE1;zase en el n&#xFA;mero 3, que introduce en el art&#xED;culo 3&#xBA; los siguientes incisos segundo y tercero, y cuarto nuevos, el guarismo &quot;2015&quot; por el guarismo &quot;2016&quot;.</div><div class=\"p\">&nbsp; &nbsp;  - Sustit&#xFA;yese en el n&#xFA;mero 4, que reemplaza el art&#xED;culo 5&#xBA;, en ambos incisos, los guarismos &quot;2015&quot; por &quot;2016&quot;.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo 4 del Decreto 628 Exento, Educaci&#xF3;n, publicado el 25.06.2016, modifica la presente norma en el sentido de derogar las disposiciones relativas a los programas de estudio para 7&#xB0; y 8&#xB0; a&#xF1;o de Educaci&#xF3;n B&#xE1;sica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2016-11-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

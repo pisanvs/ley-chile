@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-02-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8111775,
+          "old": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A DON ALEJANDRO SANCHEZ FREZ </div></div>",
+          "new": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A DON ALEJANDRO SANCHEZ FREZ</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

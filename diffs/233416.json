@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-12-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-07-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8048027,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Modif&#xED;case el Recinto Portuario del Puerto de Valpara&#xED;so, establecido en el decreto supremo N&#xBA; 133 del Ministerio de Transportes y Telecomunicaciones, de 9 de octubre de 2003, y graficado en el Plano VAP-0-0333 de la Empresa Portuaria Valpara&#xED;so, el que se reemplaza por el Recinto Portuario graficado en el Plano VAP-0-0419-02 de junio de 2004 de la Empresa Portuaria Valpara&#xED;so, el que ha sido protocolizado con fecha 21 de junio de 2004 ante el Notario de Valpara&#xED;so don Marcos Andr&#xE9;s D&#xED;az Le&#xF3;n y que forma parte integrante del presente decreto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Modif&#xED;case el Recinto Portuario del Puerto de Valpara&#xED;so, establecido en el decreto supremo N&#xBA; 133 del Ministerio de Transportes y Telecomunicaciones, de 9 de octubre de 2003, y graficado en el Plano VAP-0-0333 de la Empresa Portuaria Valpara&#xED;so, el que se reemplaza por el Recinto Portuario graficado en el Plano VAP-0-0419-02 de junio de 2004<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> de la Empresa Portuaria Valpara&#xED;so, el que ha sido protocolizado con fecha 21 de junio de 2004 ante el Notario de Valpara&#xED;so don Marcos Andr&#xE9;s D&#xED;az Le&#xF3;n y que forma parte integrante del presente decreto. </div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 93, Transportes, publicado el 08.07.2006, modific&#xF3; el Recinto Portuario del Puerto de Valpara&#xED;so demarcado por el Plano que se se&#xF1;ala en la presente norma, el que se reemplaza por el graficado en el Plano VAP-0-0601-02, protocolizado el 16 de febrero de 2006 ante el Notario de Valpara&#xED;so don Marcos Andr&#xE9;s D&#xED;az Le&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

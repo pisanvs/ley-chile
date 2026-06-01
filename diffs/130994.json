@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-09-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-11-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6151714,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; EXTRACTO DE RESOLUCION</div><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

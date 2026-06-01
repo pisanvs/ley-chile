@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-12-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8765252,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Instit&#xFA;yese el 10 de agosto de cada a&#xF1;o como el &quot;D&#xED;a del Minero&quot;.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Instit&#xFA;yese el 10 de agosto de cada a&#xF1;o como el &quot;D&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1209591&amp;idParte=10529592&amp;idVersion=2024-12-23\">Ley 21714<br>Art. 6<br>D.O. 23.12.2024</a></span>del Minero y la Minera&quot;.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1209591,
+      "fecha": "2024-12-23"
+    }
+  }
+]

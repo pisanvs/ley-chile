@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-01-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8349883,
+          "old": "<div><div class=\"p\">AUTORIZA A DON FRANCISCO GUSTAVO BURGOS BURGOS PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON FRANCISCO GUSTAVO BURGOS BURGOS PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

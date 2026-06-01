@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-04-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9405637,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- PLAZO. Los destinatarios de la presente resoluci&#xF3;n tendr&#xE1;n un plazo de 30 d&#xED;as h&#xE1;biles, contados desde su publicaci&#xF3;n en Diario Oficial, para contestar el formulario electr&#xF3;nico.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- PLAZO. Los destinatarios de la presente resoluci&#xF3;n tendr&#xE1;n un plazo de 30 d&#xED;as h&#xE1;biles<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>, contados desde su publicaci&#xF3;n en Diario Oficial, para contestar el formulario electr&#xF3;nico.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo Quinto de la Resoluci&#xF3;n 163 Exenta, Medio Ambiente, publicada el 07.04.2014, prorroga el plazo de 30 d&#xED;as h&#xE1;biles se&#xF1;alado en la presente norma, extendi&#xE9;ndose hasta el 30 de abril de 2014.</div></div>"
+        }
+      ]
+    }
+  }
+]

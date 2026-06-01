@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1994-01-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-07-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9041401,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: El representante del Ministro del Interior que presida la Comisi&#xF3;n Especial a que se refiere el art&#xED;culo 7&#xB0; de la Ley N&#xB0; 18.056, coordinar&#xE1;, asimismo, el funcionamiento de las Comisiones Regionales que se designen en conformidad con el art&#xED;culo primero precedente.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: El Coordinador Nacional del<span class=\"n\" id=\"n_0\">DS 754, Int.<br>1994, art.2&#xB0;</span> Programa, por resoluci&#xF3;n exenta del Subsecretario del Interior, podr&#xE1; ser designado para coordinar y dirigir el funcionamiento de las Comisiones Regionales que el Presidente de la Rep&#xFA;blica designe en uso de la facultad que le confiere el inciso 2&#xB0; del art&#xED;culo 11 de la Ley N&#xB0; 19.234.</div><br></div>"
+        },
+        {
+          "part_id": 9041403,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo cuarto: Introd&#xFA;cense las siguientes modificaciones al Decreto Supremo N&#xB0; 1928, de 1981, de Interior:</div><div class=\"p\"> 1.- Sustit&#xFA;yese la letra a) del art&#xED;culo segundo por la siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;a) Seis representantes del Ministro del Interior, uno de los cuales la presidir&#xE1;.&quot;.</div><div class=\"p\"> 2.- Sustit&#xFA;yese el inciso segundo del art&#xED;culo segundo por el siguiente: &quot;La Comisi&#xF3;n sesionar&#xE1; con cinco de sus miembros, a lo menos.&quot;.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: DEROGADO.-<span class=\"n\" id=\"n_1\">DS 754, Int.<br>1994 art.3&#xB0;</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

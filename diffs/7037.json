@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1980-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-10-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9036987,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA EL TEXTO DE LA LEY ORGANICA DE LA SINDICATURA NACIONAL DE QUIEBRAS</div><div class=\"p\">&nbsp; &nbsp; Santiago, 20 de Noviembre de 1979.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.963.- Visto: Lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><div class=\"p\">&nbsp; &nbsp; LEY ORGANICA DE LA SINDICATURA NACIONAL DE QUIEBRAS </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; D.L. 2963, MINISTERIO DE JUSTICIA</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el Diario Oficial N&#xB0; 20.560, de 10 de Enero de 1980)</div><div class=\"p\">&nbsp; &nbsp; FIJA EL TEXTO DE LA LEY ORGANICA DE LA SINDICATURA NACIONAL DE QUIEBRAS</div><div class=\"p\">&nbsp; &nbsp; Santiago, 20 de Noviembre de 1979.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.963.- Visto: Lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><div class=\"p\">&nbsp; &nbsp; LEY ORGANICA DE LA SINDICATURA NACIONAL DE QUIEBRAS</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  La Ley 18.175, fij&#xF3; el nuevo texto de la ley de Quiebras y en su art&#xED;culo 4&#xB0; transitorio dispuso:<br>&quot;Decl&#xE1;rase en extinci&#xF3;n la Sindicatura Nacional de Quiebras, la que se entender&#xE1; subsistente para el solo efecto de lo preceptuado en los art&#xED;culos 1&#xB0;, 2&#xB0; y 3&#xB0; transitorios&quot;. El art&#xED;culo 5&#xB0; transitorio dice que los derechos y obligaciones de la Sindicatura Nacional de Quiebras, se traspasar&#xE1;n, por el ministerio de la ley, a la Fiscal&#xED;a Nacional de Quiebras, transcurrido un a&#xF1;o desde la vigencia de la citada ley 18.175.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

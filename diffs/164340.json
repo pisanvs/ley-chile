@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-04-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-12-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7266956,
+          "old": "<div><div class=\"p\">ARANCEL DE LOS CONSERVADORES DE BIENES RAICES Y DE COMERCIO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 27 de Marzo de 1985.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  No. 542 exento.- Vistos: El art&#xED;culo 32 No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; lo dispuesto en el art&#xED;culo 54&#xB0; de la Ley No. 16.250, de 21 de Abril de 1965, modificado por el art&#xED;culo 4&#xB0; de la Ley No.</div><div class=\"p\">17.570, de 02 de Diciembre de 1971, y el art&#xED;culo 9&#xB0; de la Ley No. 18.018, de 14 de Agosto de 1981, en concordancia con el decreto ley No. 2.876, de 23 de Noviembre de 1979, respecto de los receptores judiciales; lo establecido en el art&#xED;culo 3&#xB0; de la Ley No. 18.018, de 14 de Agosto de 1981; lo dictaminado por la Contralor&#xED;a General de la Rep&#xFA;blica en oficio No. 19298, publicado en el Diario Oficial de 12 de Junio de 1981, y lo informado por la Excma. Corte Suprema, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ARANCEL DE LOS CONSERVADORES DE BIENES RAICES Y DE COMERCIO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 27 de Marzo de 1985.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  No. 542 exento.- Vistos: El art&#xED;culo 32 No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; lo dispuesto en el art&#xED;culo 54&#xB0; de la Ley No. 16.250, de 21 de Abril de 1965, modificado por el art&#xED;culo 4&#xB0; de la Ley No.</div><div class=\"p\">17.570, de 02 de Diciembre de 1971, y el art&#xED;culo 9&#xB0; de la Ley No. 18.018, de 14 de Agosto de 1981, en concordancia con el decreto ley No. 2.876, de 23 de Noviembre de 1979, respecto de los receptores judiciales; lo establecido en el art&#xED;culo 3&#xB0; de la Ley No. 18.018, de 14 de Agosto de 1981; lo dictaminado por la Contralor&#xED;a General de la Rep&#xFA;blica en oficio No. 19298, publicado en el Diario Oficial de 12 de Junio de 1981, y lo informado por la Excma. Corte Suprema, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

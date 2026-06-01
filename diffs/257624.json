@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-09-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9005656,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- Los productos inmunol&#xF3;gicos, tales como vacunas, bacterinas, sueros, ant&#xED;genos y al&#xE9;rgenos, empleados en el combate y erradicaci&#xF3;n de las enfermedades infecciosas que atacan a los animales y aves, deber&#xE1;n cumplir con los siguientes requisitos generales:</div><div class=\"p\">&nbsp; &nbsp;  A) Deber&#xE1;n contar con la potencia necesaria para conferir a los animales y aves, la protecci&#xF3;n que, para cada caso, establezcan las normas internacionales de control que adopte el Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp;  B) Deber&#xE1;n ser inocuos y seguros; esto es, que administrados en la forma recomendada por el laboratorio productor, no produzcan da&#xF1;o a los animales y aves.</div><div class=\"p\">&nbsp; &nbsp;  C) No podr&#xE1;n contener elementos biol&#xF3;gicos, vivos o muertos, distintos a los microorganismos declarados en la f&#xF3;rmula del producto.</div><div class=\"p\">&nbsp; &nbsp;  D) Su venta y empleo se deber&#xE1; realizar, solamente dentro del per&#xED;odo de eficacia del producto, para cuyo efecto se indicar&#xE1;, en la etiqueta, la fecha de su expiraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  E) Deber&#xE1;n expenderse en envases herm&#xE9;ticos, fabricados con un material que permita la protecci&#xF3;n y preservaci&#xF3;n de las condiciones naturales del producto.</div><div class=\"p\">&nbsp; &nbsp;  F) Deber&#xE1;n mantenerse a una temperatura de refrigeraci&#xF3;n que podr&#xE1; fluctuar entre 2 y 8 grados Celsius sobre cero, no pudiendo ser congelados por motivo alguno.</div><div class=\"p\">&nbsp; &nbsp;  G) Los productos a virus vivo, tanto de uso animal como av&#xED;cola, deber&#xE1;n ser liofilizados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- Los productos inmunol&#xF3;gicos, tales como vacunas, bacterinas, sueros, ant&#xED;genos y al&#xE9;rgenos, empleados en el combate y erradicaci&#xF3;n de las enfermedades infecciosas que atacan a los animales y aves, deber&#xE1;n cumplir con los siguientes requisitos generales:</div><div class=\"p\">&nbsp; &nbsp;  A) Deber&#xE1;n contar con la potencia necesaria para conferir a los animales y aves, la protecci&#xF3;n que, para cada caso, establezcan las normas internacionales de control que adopte el Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp;  B) Deber&#xE1;n ser inocuos y seguros; esto es, que administrados en la forma recomendada por el laboratorio productor, no produzcan da&#xF1;o a los animales y aves.</div><div class=\"p\">&nbsp; &nbsp;  C) No podr&#xE1;n contener elementos biol&#xF3;gicos, vivos o muertos, distintos a los microorganismos declarados en la f&#xF3;rmula del producto.</div><div class=\"p\">&nbsp; &nbsp;  D) Su venta y empleo se deber&#xE1; realizar, solamente dentro del per&#xED;odo de eficacia del producto, para cuyo efecto se indicar&#xE1;, en la etiqueta, la fecha de su expiraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  E) Deber&#xE1;n expenderse en envases herm&#xE9;ticos, fabricados con un material que permita la protecci&#xF3;n y preservaci&#xF3;n de las condiciones naturales del producto.</div><div class=\"p\">&nbsp; &nbsp;  F) Deber&#xE1;n mantenerse a una temperatura de refrigeraci&#xF3;n que podr&#xE1; fluctuar entre 2 y 8 grados Celsius sobre cero, no pudiendo ser congelados por motivo alguno.</div><div class=\"p\">&nbsp; &nbsp;  G) Los productos a virus vivos, tanto de uso<span class=\"n\" id=\"n_0\">DTO 115, AGRICULTURA<br>D.O. 07.09.1989</span> animal como av&#xED;cola, deber&#xE1;n ser liofilizados o congelados en nitr&#xF3;geno l&#xED;quido.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

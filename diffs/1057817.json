@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-01-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-01-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9395557,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n exenta N&#xBA; 5.888, 5 de diciembre de 2013, Serviu Regi&#xF3;n del Biob&#xED;o orden&#xF3; expropiaci&#xF3;n total de terreno y total de la edificaci&#xF3;n del inmueble ubicado en 21 de Mayo 2729 (Lote 30), de la comuna de Concepci&#xF3;n, Rol de aval&#xFA;o N&#xBA; 986-16 de esa comuna, de aparente dominio de Fern&#xE1;ndez Saavedra Mar&#xED;a Teresa De. El inmueble afecto a expropiaci&#xF3;n tiene una superficie de 117,27 m2 de terreno y 101,00 m2 de edificaci&#xF3;n, m&#xE1;s obras complementarias y especies vegetales, cuyos linderos particulares del Lote 30 se encuentran enmarcados en el pol&#xED;gono A-B-C-D-E-A del plano S8R-29.331-1, para la ejecuci&#xF3;n Programa &quot;Construcci&#xF3;n Corredor Transporte P&#xFA;blico 21 de Mayo: Alessandri-Vicu&#xF1;a Mackenna&quot;. Conforme art&#xED;culo 51 ley 16.391 y DL 2.186. Comisi&#xF3;n Peritos integrada por el ingeniero civil Orlando Javier Paredes V&#xE1;squez, la constructora civil Roxana Cecilia Abarz&#xFA;a Gajardo y la arquitecta Consuelo Loreto Zuloaga Sanhueza, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional, por concepto de terreno, edificaci&#xF3;n, m&#xE1;s obras complementarias y especies vegetales, en la suma de $45.568.969.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n exenta N&#xBA; 5.888, 5 de diciembre de 2013, Serviu Regi&#xF3;n del Biob&#xED;o orden&#xF3; expropiaci&#xF3;n total de terreno y total de la edificaci&#xF3;n del inmueble ubicado en 21 de Mayo 2729 (Lote 30), de la comuna de Concepci&#xF3;n, Rol de aval&#xFA;o N&#xBA; 989-16<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1058245&amp;idParte=9399878&amp;idVersion=2014-01-15\">Rectificaci&#xF3;n 372<br>D.O. 15.01.2014</a></span> de esa comuna, de aparente dominio de Fern&#xE1;ndez Saavedra Mar&#xED;a Teresa De. El inmueble afecto a expropiaci&#xF3;n tiene una superficie de 117,27 m2 de terreno y 101,00 m2 de edificaci&#xF3;n, m&#xE1;s obras complementarias y especies vegetales, cuyos linderos particulares del Lote 30 se encuentran enmarcados en el pol&#xED;gono A-B-C-D-E-A del plano S8R-29.331-1, para la ejecuci&#xF3;n Programa &quot;Construcci&#xF3;n Corredor Transporte P&#xFA;blico 21 de Mayo: Alessandri-Vicu&#xF1;a Mackenna&quot;. Conforme art&#xED;culo 51 ley 16.391 y DL 2.186. Comisi&#xF3;n Peritos integrada por el ingeniero civil Orlando Javier Paredes V&#xE1;squez, la constructora civil Roxana Cecilia Abarz&#xFA;a Gajardo y la arquitecta Consuelo Loreto Zuloaga Sanhueza, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional, por concepto de terreno, edificaci&#xF3;n, m&#xE1;s obras complementarias y especies vegetales, en la suma de $45.568.969.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1058245,
+      "fecha": "2014-01-15"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-12-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-08-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7269027,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;MORELIA REYES Y CIA.</div><div class=\"p\">LTDA.&quot; PARA INICIAR ACTIVIDADES PESQUERAS.</div><div class=\"p\">DEJA SIN EFECTO RESOLUCIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;MORELIA REYES Y CIA.</div><div class=\"p\">LTDA.&quot; PARA INICIAR ACTIVIDADES PESQUERAS.</div><div class=\"p\">DEJA SIN EFECTO RESOLUCIONES QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-05-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8348557,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA DON JESUS LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA DON JESUS LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

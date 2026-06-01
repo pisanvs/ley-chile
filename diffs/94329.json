@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-12-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8324725,
+          "old": "<div><div class=\"p\">AUTORIZA AL SINDICATO DE TRABAJADORES INDEPENDIENTES PRODUCTORES Y RECOLECTORES DE ALGAS &quot;EL DIQUE&quot; DE HUITE DE LA COMUNA DE QUEMCHI PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA AL SINDICATO DE TRABAJADORES INDEPENDIENTES PRODUCTORES Y RECOLECTORES DE ALGAS &quot;EL DIQUE&quot; DE HUITE DE LA COMUNA DE QUEMCHI PARA INICIAR ACTIVIDADES PESQUERAS </div><br></div>"
+        }
+      ]
+    }
+  }
+]

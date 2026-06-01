@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-12-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9753191,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- N&#xF3;mbrase por un per&#xED;odo de dos a&#xF1;os en calidad de miembros integrantes del Consejo Consultivo del Ministerio del Medio Ambiente:</div><div class=\"p\"> </div><div class=\"p\">1. En representaci&#xF3;n de los cient&#xED;ficos:</div><div class=\"p\"> </div><div class=\"p\">1) Rolando Chamy Maggi, RUT N&#xBA; 5.251.507-6.</div><div class=\"p\">2) Patricio Winckler Grez, RUT N&#xBA; 12.622.887-2.</div><div class=\"p\"> </div><div class=\"p\">2. En representaci&#xF3;n de los Centros Acad&#xE9;micos Independientes, que estudian o se ocupan de materias medio ambientales:</div><div class=\"p\"> </div><div class=\"p\">3) Jonathan Richard Barton, RUT N&#xBA; 21.234.773-6.</div><div class=\"p\"> </div><div class=\"p\">3. En representaci&#xF3;n del empresariado:</div><div class=\"p\"> </div><div class=\"p\">4) Felipe Sandoval Precht, RUT N&#xBA; 7.673.035-0.</div><div class=\"p\">5) Jorge C&#xE1;ceres Tonacca, RUT N&#xBA; 11.635.747-K.</div><div class=\"p\"> </div><div class=\"p\">4. En representaci&#xF3;n de los trabajadores:</div><div class=\"p\"> </div><div class=\"p\">6) Jos&#xE9; Alejandro Ruminado Cancino, RUT N&#xB0; 11.395.502-3.</div><div class=\"p\"> </div><div class=\"p\">5. En representaci&#xF3;n de S.E. el Presidente de la Rep&#xFA;blica:</div><div class=\"p\"> </div><div class=\"p\">7) Guillermo Espinoza Gonz&#xE1;lez, RUT N&#xBA; 7.239.946-3.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- N&#xF3;mbrase <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>por un per&#xED;odo de dos a&#xF1;os en calidad de miembros integrantes del Consejo Consultivo del Ministerio del Medio Ambiente:</div><div class=\"p\"> </div><div class=\"p\">1. En representaci&#xF3;n de los cient&#xED;ficos:</div><div class=\"p\"> </div><div class=\"p\">1) Rolando Chamy Maggi, RUT N&#xBA; 5.251.507-6.</div><div class=\"p\">2) Patricio Winckler Grez, RUT N&#xBA; 12.622.887-2.</div><div class=\"p\"> </div><div class=\"p\">2. En representaci&#xF3;n de los Centros Acad&#xE9;micos Independientes, que estudian o se ocupan de materias medio ambientales:</div><div class=\"p\"> </div><div class=\"p\">3) Jonathan Richard Barton, RUT N&#xBA; 21.234.773-6.</div><div class=\"p\"> </div><div class=\"p\">3. En representaci&#xF3;n del empresariado:</div><div class=\"p\"> </div><div class=\"p\">4) Felipe Sandoval Precht, RUT N&#xBA; 7.673.035-0.</div><div class=\"p\">5) Jorge C&#xE1;ceres Tonacca, RUT N&#xBA; 11.635.747-K.</div><div class=\"p\"> </div><div class=\"p\">4. En representaci&#xF3;n de los trabajadores:</div><div class=\"p\"> </div><div class=\"p\">6) Jos&#xE9; Alejandro Ruminado Cancino, RUT N&#xB0; 11.395.502-3.</div><div class=\"p\"> </div><div class=\"p\">5. En representaci&#xF3;n de S.E. el Presidente de la Rep&#xFA;blica:</div><div class=\"p\"> </div><div class=\"p\">7) Guillermo Espinoza Gonz&#xE1;lez, RUT N&#xBA; 7.239.946-3.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; del Decreto 37, Medio Ambiente, publicado el 30.01.2017, modifica la presente norma en el sentido de complementar los integrantes del Consejo Consultivo del Ministerio del Medio Ambiente para el periodo 2016-2018 de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

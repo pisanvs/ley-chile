@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7321347,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 462 EXENTO, DE 2005 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 462 EXENTO, DE 2005</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

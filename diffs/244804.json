@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-04-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6551835,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase la siguiente n&#xF3;mina parcial de miembros para integrar el Consejo Nacional de Pesca, por haber sido nominados por el Presidente de la Rep&#xFA;blica con acuerdo del Senado:</div><br><div class=\"p\">1. Se&#xF1;or Andr&#xE9;s Ignacio Couve Rioseco</div><div class=\"p\">&nbsp;  Ingeniero Pesquero RUN: 4.557.095-9 Profesional Universitario relacionado con las Ciencias del Mar.</div><div class=\"p\">2. Se&#xF1;or Roberto Cabezas Bello</div><div class=\"p\">&nbsp;  Ingeniero Pesquero RUN: 4.583.382-8 Profesional Universitario relacionado con las Ciencias del Mar.</div><div class=\"p\">3. Se&#xF1;ora Mar&#xED;a Beatriz Corbo Atria</div><div class=\"p\">&nbsp;  Abogado RUN: 7.250.051-2</div><div class=\"p\">4. Se&#xF1;or Carlos Roberto Hern&#xE1;ndez Salas</div><div class=\"p\">&nbsp;  Abogado RUN: 9.482.515-6 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase la siguiente n&#xF3;mina parcial de miembros para integrar el Consejo Nacional de Pesca, por haber sido nominados por el Presidente de la Rep&#xFA;blica con acuerdo del Senado:</div><br><div class=\"p\">1. Se&#xF1;or Andr&#xE9;s Ignacio Couve Rioseco</div><div class=\"p\">&nbsp;  Ingeniero Pesquero</div><div class=\"p\">&nbsp;  RUN: 4.557.095-9</div><div class=\"p\">&nbsp;  Profesional Universitario relacionado con las</div><div class=\"p\">&nbsp;  Ciencias del Mar.</div><div class=\"p\">2. Se&#xF1;or Roberto Cabezas Bello</div><div class=\"p\">&nbsp;  Ingeniero Pesquero</div><div class=\"p\">&nbsp;  RUN: 4.583.382-8</div><div class=\"p\">&nbsp;  Profesional Universitario relacionado con las</div><div class=\"p\">&nbsp;  Ciencias del Mar.</div><div class=\"p\">3. Se&#xF1;ora Mar&#xED;a Beatriz Corbo Atria</div><div class=\"p\">&nbsp;  Abogado</div><div class=\"p\">&nbsp;  RUN: 7.250.051-2</div><div class=\"p\">4. ELIMINADO<span class=\"n\" id=\"n_0\">DTO 78, ECONOMIA<br>Art. 2&#xBA;<br>D.O. 11.04.2006</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

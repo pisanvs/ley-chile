@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1989-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-10-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8963843,
+          "old": "<div><div class=\"p\">PROHIBE EL USO DE PRODUCTOS TIREOSTATICOS, ESTROGENICOS, ANDROGENICOS Y GESTAGENOS EN EL GANADO OVINO DE EXPORTACION, EN LAS REGIONES XI Y XII</div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 758 exenta.- Santiago. 10 de Mayo de 1989.- Visto: Lo dispuesto en Directiva del Consejo de Comunidades Econ&#xF3;micas Europeas No. 85/649/CEE del 31 de Diciembre de 1985, Memor&#xE1;ndum remitido por telexfacs&#xED;mil de la Delegaci&#xF3;n de Chile ante la C.EE., del 09 de Marzo de 1989, lo dispuesto en la Ley 18.756, Org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que, algunos pa&#xED;ses han prohibido de comercio de productos c&#xE1;rneos provenientes de animales los que se les hay suministrado sustancias de efecto tireost&#xE1;tleo estr&#xF3;geno, andr&#xF3;geno o gest&#xE1;geno, lo que constituye una traba sanitaria a la exportaci&#xF3;n de productos c&#xE1;rneos ovinos chilenos a tales pa&#xED;ses. en especial a los que conforman la Comunidad Econ&#xF3;mica Europea.</div><div class=\"p\">a.- Que, la letra i), del art&#xED;culo 3&#xB0; de la Ley No. 18.755 establece, para el cumplimiento de su objeto, que corresponder&#xE1; al Servicio Agr&#xED;cola y Ganadero propender a la eliminaci&#xF3;n de trabas sanitarias que impongan los pa&#xED;ses o mercados externos para la comercializaci&#xF3;n de los productos silvoagropecuarios chilenos, cuando tales trabas, a juicio del Servicio, afecten al inter&#xE9;s nacional.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">PROHIBE EL USO DE PRODUCTOS TIREOSTATICOS, ESTROGENICOS, ANDROGENICOS Y GESTAGENOS EN EL GANADO OVINO DE EXPORTACION, EN LAS REGIONES XI Y XII</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 758 exenta.- Santiago. 10 de Mayo de 1989.- Visto: Lo dispuesto en Directiva del Consejo de Comunidades Econ&#xF3;micas Europeas No. 85/649/CEE del 31 de Diciembre de 1985, Memor&#xE1;ndum remitido por telexfacs&#xED;mil de la Delegaci&#xF3;n de Chile ante la C.EE., del 09 de Marzo de 1989, lo dispuesto en la Ley 18.756, Org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que, algunos pa&#xED;ses han prohibido de comercio de productos c&#xE1;rneos provenientes de animales los que se les hay suministrado sustancias de efecto tireost&#xE1;tleo estr&#xF3;geno, andr&#xF3;geno o gest&#xE1;geno, lo que constituye una traba sanitaria a la exportaci&#xF3;n de productos c&#xE1;rneos ovinos chilenos a tales pa&#xED;ses. en especial a los que conforman la Comunidad Econ&#xF3;mica Europea.</div><div class=\"p\">a.- Que, la letra i), del art&#xED;culo 3&#xB0; de la Ley No.</div><div class=\"p\">18.755 establece, para el cumplimiento de su objeto, que corresponder&#xE1; al Servicio Agr&#xED;cola y Ganadero propender a la eliminaci&#xF3;n de trabas sanitarias que impongan los pa&#xED;ses o mercados externos para la comercializaci&#xF3;n de los productos silvoagropecuarios chilenos, cuando tales trabas, a juicio del Servicio, afecten al inter&#xE9;s nacional.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        },
+        {
+          "part_id": 8963844,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; 1- Proh&#xED;bese en las Regiones XI y XII, la aplicaci&#xF3;n de productos de acci&#xF3;n tireost&#xE1;tica, estrog&#xE9;nica, androg&#xE9;nica y gest&#xE1;gena, en ovinos de exportaci&#xF3;n a los paises que as&#xED; lo exijan</div><div class=\"p\">&nbsp; &nbsp;  2.- La Divisi&#xF3;n de Protecci&#xF3;n Pecuaria del Servicio Agr&#xED;cola y Ganadero, establecer&#xE1; el sistema que permita el control de lo antes dispuesto.</div><div class=\"p\">&nbsp; &nbsp;  3.- Las Direcciones Regionales que corresponde de este Servicio, fiscalizar&#xE1;n el cumplimiento de estas normas, pudiendo suspender, mediante resoluci&#xF3;n fundada y por el periodo que proceda, la exportaci&#xF3;n de los productos c&#xE1;rneos ovinos provenientes de planteles que hayan incurrido en infracci&#xF3;n a lo se&#xF1;alado en la presente resoluci&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.-&nbsp; Proh&#xED;bese la aplicaci&#xF3;n de productos de acci&#xF3;n<span class=\"n\" id=\"n_0\">RES 5671 EXENTA,<br>AGRICULTURA<br>D.O. 31.10.2005</span> tireost&#xE1;tica, estrog&#xE9;nica, androg&#xE9;nica y gest&#xE1;gena, en todos los animales que se cr&#xED;an en la XII Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- La Divisi&#xF3;n de Protecci&#xF3;n Pecuaria del Servicio Agr&#xED;cola y Ganadero, establecer&#xE1; el sistema que permita el control de lo antes dispuesto.</div><div class=\"p\">&nbsp; &nbsp;  3.- Las Direcciones Regionales que corresponde de este Servicio, fiscalizar&#xE1;n el cumplimiento de estas normas, pudiendo suspender, mediante resoluci&#xF3;n fundada y por el periodo que proceda, la exportaci&#xF3;n de los productos c&#xE1;rneos ovinos provenientes de planteles que hayan incurrido en infracci&#xF3;n a lo se&#xF1;alado en la presente resoluci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

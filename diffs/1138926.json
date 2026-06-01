@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-11-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-01-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10069375,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Establ&#xE9;zcase a contar de esta fecha, el siguiente orden de subrogaci&#xF3;n para el cargo de Director Ejecutivo del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Chinchorro, para el caso que el titular del mismo no se encuentre desempe&#xF1;ando dichas funciones efectivamente, en el siguiente orden de precedencia:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Jefe de Administraci&#xF3;n y Finanzas, grado 5, del segundo nivel jer&#xE1;rquico.</div><div class=\"p\">&nbsp; &nbsp;  2.- Jefe de Apoyo T&#xE9;cnico Pedag&#xF3;gico, grado 5, del segundo nivel jer&#xE1;rquico.</div><div class=\"p\">&nbsp; &nbsp;  3.- Jefe de Planificaci&#xF3;n y Control de Gesti&#xF3;n, grado 5, del segundo nivel jer&#xE1;rquico.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo ter<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1155017&amp;idParte=10195886&amp;idVersion=2021-01-25\">Decreto 11 EXENTO,<br>EDUCACI&#xD3;N<br>Art. segundo<br>D.O. 25.01.2021</a></span>cero: Derogado.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1155017,
+      "fecha": "2021-01-25"
+    }
+  }
+]

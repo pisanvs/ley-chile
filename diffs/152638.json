@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-07-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6223740,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 1.074, DE 1986 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 1.074, DE 1986 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

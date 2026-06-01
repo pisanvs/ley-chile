@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-04-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-04-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7246933,
+          "old": "<div><div class=\"p\">MODIFICA ASIGNACION Y AUTORIZACION DE VEHICULOS DISPUESTAS POR DECRETOS N&#xB0;s 187, DE 1981 Y 663, DE 1987 </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 12 de Febrero de 1988.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 30.- Visto: Estos antecedentes; los decretos supremos N&#xB0;s.: 187, de fecha 02 de Julio de 1981 y 663 de fecha 06 de Noviembre de 1987, del Ministerio de Salud; lo dispuesto en el decreto ley No. 799, de 1974, modificado por el decreto con fuerza de ley No. 12-2.345 de 1979, del Ministerio del Interior: las instrucciones impartidas por la Contralor&#xED;a General de la Rep&#xFA;blica en Oficio No. 9277, de 1975; el Oficio No. 1.345/1.293 del Ministerio de Hacienda; las facultades que me confiere el art&#xED;culo 32, No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, y</div><div class=\"p\">&nbsp; &nbsp;  Considerando: la necesidad de modificar los decretos supremos N&#xB0;s.: 187, de 1981 y 663, de 1987, de este Ministerio, que autorizan la circulaci&#xF3;n en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, desprovistos del correspondiente disco distintivo a los autom&#xF3;viles marca Galant, a&#xF1;o 1977; Datsun, a&#xF1;o 1980 y Mazda, Sedan, a&#xF1;o 1978, asignados al Sr. Ministro, Sr. Subsecretario y Sr. Jefe de Gabinete, respectivamente, de este Ministerio, por cuanto &#xE9;stos han sido reemplazados por nuevos veh&#xED;culos,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA ASIGNACION Y AUTORIZACION DE VEHICULOS DISPUESTAS POR DECRETOS N&#xB0;s 187, DE 1981 Y 663, DE 1987 </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 12 de Febrero de 1988.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 30.- Visto: Estos antecedentes; los decretos supremos N&#xB0;s.: 187, de fecha 02 de Julio de 1981 y 663 de fecha 06 de Noviembre de 1987, del Ministerio de Salud; lo dispuesto en el decreto ley No. 799, de 1974, modificado por el decreto con fuerza de ley No. 12-2.345 de 1979, del Ministerio del Interior: las instrucciones impartidas por la Contralor&#xED;a General de la Rep&#xFA;blica en Oficio No. 9277, de 1975; el Oficio No. 1.345/1.293 del Ministerio de Hacienda; las facultades que me confiere el art&#xED;culo 32, No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, y</div><div class=\"p\">&nbsp; &nbsp;  Considerando: la necesidad de modificar los decretos supremos N&#xB0;s.: 187, de 1981 y 663, de 1987, de este Ministerio, que autorizan la circulaci&#xF3;n en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, desprovistos del correspondiente disco distintivo a los autom&#xF3;viles marca Galant, a&#xF1;o 1977; Datsun, a&#xF1;o 1980 y Mazda, Sedan, a&#xF1;o 1978, asignados al Sr. Ministro, Sr. Subsecretario y Sr. Jefe de Gabinete, respectivamente, de este Ministerio, por cuanto &#xE9;stos han sido reemplazados por nuevos veh&#xED;culos,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

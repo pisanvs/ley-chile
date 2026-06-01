@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2010-01-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-11-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845817,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- La distribuci&#xF3;n de la fracci&#xF3;n artesanal de la pesquer&#xED;a artesanal Merluza com&#xFA;n Merluccius gayi de la IV, V, VI, VII y VIII Regiones, correspondiente al periodo enero-diciembre de 2010, expresadas en toneladas, se efectuar&#xE1; conforme las &#xE1;reas establecidas en el R&#xE9;gimen Artesanal de Extracci&#xF3;n, de la siguiente manera:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/10418.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2.- Las fracciones mensuales asignadas a cada &#xE1;rea se regir&#xE1;n por las siguientes reglas:</div><br><div class=\"p\">a)&nbsp;  En el caso que la fracci&#xF3;n semestral sea extra&#xED;da antes del per&#xED;odo autorizado se deber&#xE1;n suspender las actividades extractivas sobre merluza com&#xFA;n.</div><div class=\"p\">b)&nbsp;  Las fechas de suspensi&#xF3;n de las faenas de captura ser&#xE1;n determinadas por el Servicio Nacional de Pesca e informadas oportunamente a los interesados.</div><div class=\"p\">c)&nbsp;  Los excesos en la extracci&#xF3;n de la fracci&#xF3;n autorizada, se descontar&#xE1;n de la fracci&#xF3;n autorizada para el periodo siguiente. Los remanentes no capturados acrecer&#xE1;n a la fracci&#xF3;n autorizada para el per&#xED;odo siguiente.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- La distribuci&#xF3;n de la fracci&#xF3;n <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> artesanal de la pesquer&#xED;a artesanal Merluza com&#xFA;n Merluccius gayi de la IV, V, VI, VII y VIII Regiones, correspondiente al periodo enero-diciembre de 2010, expresadas en toneladas, se efectuar&#xE1; conforme las &#xE1;reas establecidas en el R&#xE9;gimen Artesanal de Extracci&#xF3;n, de la siguiente manera:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/10418.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2.- Las fracciones mensuales asignadas a cada &#xE1;rea se regir&#xE1;n por las siguientes reglas:</div><br><div class=\"p\">a)&nbsp;  En el caso que la fracci&#xF3;n semestral sea extra&#xED;da antes del per&#xED;odo autorizado se deber&#xE1;n suspender las actividades extractivas sobre merluza com&#xFA;n.</div><div class=\"p\">b)&nbsp;  Las fechas de suspensi&#xF3;n de las faenas de captura ser&#xE1;n determinadas por el Servicio Nacional de Pesca e informadas oportunamente a los interesados.</div><div class=\"p\">c)&nbsp;  Los excesos en la extracci&#xF3;n de la fracci&#xF3;n autorizada, se descontar&#xE1;n de la fracci&#xF3;n autorizada para el periodo siguiente. Los remanentes no capturados acrecer&#xE1;n a la fracci&#xF3;n autorizada para el per&#xED;odo siguiente.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n Exenta N&#xBA; 3.505, Econom&#xED;a, publicada el 25.11.2010 modifica el numeral 1&#xBA; de la presente resoluci&#xF3;n, en el sentido de disminuir en 500 toneladas de Merluza com&#xFA;n la asignaci&#xF3;n del &#xC1;rea Centro de la V Regi&#xF3;n e incrementar en la misma cantidad la asignaci&#xF3;n de &#xC1;rea Norte 2 de la VII Regi&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

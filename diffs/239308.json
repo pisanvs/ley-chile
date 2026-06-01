@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-06-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-07-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6530224,
+          "old": "<div><div class=\"p\">DELEGA ATRIBUCIONES QUE INDICA EN EL DIRECTOR ADMINISTRATIVO NACIONAL, EN EL JEFE DEL DEPARTAMENTO DE ADMINISTRACION Y FINANZAS Y EN EL JEFE DE RECURSOS HUMANOS Y DESARROLLO ORGANIZACIONAL</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.449 exenta.- Santiago, 13 de junio de 2005.- Vistos: Lo dispuesto en la ley N&#xBA; 19.718; en el art&#xED;culo 41 del D.F.L. N&#xBA; 1/19.653; la ley 19.886; el decreto supremo de Hacienda N&#xBA; 1.312 de 1999, el decreto supremo de Hacienda N&#xBA; 826 de 2002; lo establecido en el art&#xED;culo 48 de la ley N&#xBA; 19.880; lo expresado en la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica y sus modificaciones, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que la delegaci&#xF3;n de facultades es una instituci&#xF3;n establecida para permitir un funcionamiento eficiente y eficaz de la Administraci&#xF3;n del Estado.</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario agilizar los procedimientos administrativos internos de la Defensor&#xED;a Nacional.</div><div class=\"p\">&nbsp; &nbsp;  - Lo dispuesto en la resoluci&#xF3;n exenta N&#xBA; 2.710, del 30 de diciembre de 2004, que aprueba el Modelo de Gesti&#xF3;n Integral de Administraci&#xF3;n (GIA) en su versi&#xF3;n 2.0 actualizada al 31/12/2004,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DELEGA ATRIBUCIONES QUE INDICA EN EL DIRECTOR ADMINISTRATIVO NACIONAL, EN EL JEFE DEL DEPARTAMENTO DE ADMINISTRACION Y FINANZAS Y EN EL JEFE DE RECURSOS HUMANOS Y DESARROLLO ORGANIZACIONAL</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.449 exenta.- Santiago, 13 de junio de 2005.- Vistos: Lo dispuesto en la ley N&#xBA; 19.718; en el art&#xED;culo 41 del D.F.L. N&#xBA; 1/19.653; la ley 19.886; el decreto supremo de Hacienda N&#xBA; 1.312 de 1999, el decreto supremo de Hacienda N&#xBA; 826 de 2002; lo establecido en el art&#xED;culo 48 de la ley N&#xBA; 19.880; lo expresado en la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica y sus modificaciones, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que la delegaci&#xF3;n de facultades es una instituci&#xF3;n establecida para permitir un funcionamiento eficiente y eficaz de la Administraci&#xF3;n del Estado.</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario agilizar los procedimientos administrativos internos de la Defensor&#xED;a Nacional.</div><div class=\"p\">&nbsp; &nbsp;  - Lo dispuesto en la resoluci&#xF3;n exenta N&#xBA; 2.710, del 30 de diciembre de 2004, que aprueba el Modelo de Gesti&#xF3;n Integral de Administraci&#xF3;n (GIA) en su versi&#xF3;n 2.0 actualizada al 31/12/2004,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

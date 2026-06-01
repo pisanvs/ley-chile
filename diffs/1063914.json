@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-07-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9485413,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Apru&#xE9;base como oficial el texto de la vig&#xE9;simo primera edici&#xF3;n del <a href=\"https://www.leychile.cl/Navegar?idNorma=207436&amp;idParte=0&amp;idVersion=\">C&#xF3;digo del Trabajo</a>, actualizado a esta fecha por la Editorial Jur&#xED;dica de Chile.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Apru&#xE9;base como oficial el texto de la <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1064496&amp;idParte=9489160&amp;idVersion=2014-07-17\">Decreto 1439 EXENTO,<br>JUSTICIA<br>Art. 1&#xBA;<br>D.O. 17.07.2014</a></span>d&#xE9;cimo s&#xE9;ptima edici&#xF3;n del C&#xF3;digo del Trabajo, actualizado a esta fecha por la Editorial Jur&#xED;dica de Chile.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1064496,
+      "fecha": "2014-07-17"
+    }
+  }
+]

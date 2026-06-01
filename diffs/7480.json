@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-03-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5883821,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO SOBRE PATROCINIO OFICIAL DEL GOBIERNO DE CHILE A LOS EVENTOS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 7 de Enero de 1985.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 12.- Visto: la necesidad de reglamentar el otorgamiento del auspicio o patrocinio oficial del Gobierno para los congresos cient&#xED;ficos, cursos, seminarios y otros eventos de la misma naturaleza que se realicen en materias comprendidas en el campo de la salud; lo dispuesto en el decreto ley N&#xB0; 2.763, de 1979, y teniendo presente las facultades que me confiere el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA REGLAMENTO SOBRE PATROCINIO OFICIAL DEL<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> GOBIERNO DE CHILE A LOS EVENTOS QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; Santiago, 7 de Enero de 1985.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 12.- Visto: la necesidad de reglamentar el otorgamiento del auspicio o patrocinio oficial del Gobierno para los congresos cient&#xED;ficos, cursos, seminarios y otros eventos de la misma naturaleza que se realicen en materias comprendidas en el campo de la salud; lo dispuesto en el decreto ley N&#xB0; 2.763, de 1979, y teniendo presente las facultades que me confiere el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La presente norma fue derogada por el art. 8 del DTO 214, Salud, D.O. 13.09.2001. Sin embargo, dicha publicaci&#xF3;n se&#xF1;ala en forma err&#xF3;nea su fecha de promulgaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

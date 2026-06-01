@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1995-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-06-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8952453,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Que la n&#xF3;mina de armadores y embarcaciones que cumplen con los requisitos legales para operar en la unidad de pesquer&#xED;a de Congrio dorado (Genypterus blacodes), en el &#xE1;rea de pesca comprendida entre los paralelos 41&#xB0; 28,6&apos; L.S. y 47&#xB0; 00&apos; L.S., en el litoral se&#xF1;alado en las respectivas autorizaciones, al 30 de junio de 1995, es la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Pesquera Alba S.A.: Gualas; Soc. Daerim Fishery Co. Ltd.: Jin Yang 1; Empresa de Desarrollo Pesquero S.A.: Unionsur, Unzen; Pesquera Friosur S.A.: Friosur II, Friosur III, Friosur VI, Friosur VII, Friosur VIII; Pesquera Huilca S.A.: San Rafael; Pesca Chile S.A.: Betanzos, Boston Beverly, Boston Blenheim, Chomapi Maru, Cote Saint Jacques, Faro de H&#xE9;rcules, Puerto Ballena, Puyuhuapi; Pesca Cisne S.A.: Cisne Blanco.</div><div class=\"p\">&nbsp; &nbsp; 2.- D&#xE9;janse sin efecto las Resoluciones N&#xB0; 840 de 1994, N&#xB0; 468 de 1995 y sus modificaciones, todas de esta Subsecretar&#xED;a, dictadas de conformidad con lo dispuesto en el art&#xED;culo 22 del D.S. N&#xB0; 430 de 1991 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, en relaci&#xF3;n con la unidad de pesquer&#xED;a de congrio dorado, &#xE1;rea norte, en virtud del texto de la presente resoluci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Que la n&#xF3;mina de armadores y embarcaciones que cumplen con los requisitos legales para operar en la unidad de pesquer&#xED;a de Congrio dorado (Genypterus blacodes), en el &#xE1;rea de pesca comprendida entre los paralelos 41&#xB0; 28,6&apos; L.S. y 47&#xB0; 00&apos; L.S., en el litoral se&#xF1;alado en las respectivas autorizaciones, al 30 de junio de 1995, es la siguiente: Pesquera Alba S.A.: Gualas; Soc. Daerim Fishery Co. Ltd.: Jin Yang 1; Empresa de Desarrollo Pesquero S.A.: Unionsur, Unzen; Pesquera Friosur S.A.: Friosur II, Friosur III, Friosur VI, Friosur VII, Friosur VIII; Pesquera Huilca S.A.: San Rafael; Pesca Chile S.A.: Betanzos, Boston Beverly, Boston Blenheim, Chomapi Maru, Cote Saint Jacques, Faro de H&#xE9;rcules, Puerto Ballena, Puyuhuapi, Tuamapu; Pesca Cisne S.A.: Cisne Blanco.<span class=\"n\" id=\"n_0\">RES 1090, ECONOMIA<br>N&#xBA; 1<br>D.O. 18.06.1996</span> 2.- D&#xE9;janse sin efecto las Resoluciones N&#xB0; 840 de 1994, N&#xB0; 468 de 1995 y sus modificaciones, todas de esta Subsecretar&#xED;a, dictadas de conformidad con lo dispuesto en el art&#xED;culo 22 del D.S. N&#xB0; 430 de 1991 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, en relaci&#xF3;n con la unidad de pesquer&#xED;a de congrio dorado, &#xE1;rea norte, en virtud del texto de la presente resoluci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1996-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

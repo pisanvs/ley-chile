@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-07-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-05-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7244316,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO No. 118 EXENTO, DE 1988 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO No. 118 EXENTO, DE 1988</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

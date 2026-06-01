@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-06-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7264934,
+          "old": "<div><div class=\"p\">AUTORIZA A DON LUIS ESBERTO ANDRADE PINTO PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON LUIS ESBERTO ANDRADE PINTO PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

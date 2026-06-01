@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-10-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9558554,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Lev&#xE1;ntese el &#xC1;rea Reglamentada por Polilla del Racimo de la Vid (Lobesia botrana) en la comuna de Llay - Llay, Sector Desarrollo Agrario, Provincia de San Felipe, Regi&#xF3;n de Valpara&#xED;so, seg&#xFA;n las coordenadas que a continuaci&#xF3;n se detallan:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"> <img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/47351.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jese sin efecto la <a href=\"https://www.leychile.cl/Navegar?idNorma=1042061&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 1.260, de fecha 29 de junio de 2012</a>, de la Direcci&#xF3;n Regional del Servicio Agr&#xED;cola y Ganadero, Regi&#xF3;n de Valpara&#xED;so, que estableci&#xF3; las Regulaciones Cuarentenarias y el &#xC1;rea Reglamentada en la comuna de Llay-Llay, Provincia de San Felipe, Regi&#xF3;n de Valpara&#xED;so.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Lev&#xE1;ntese el &#xC1;rea Reglamentada por Polilla del Racimo de la Vid (Lobesia botrana) en la comuna de Llay - Llay, Sector Desarrollo Agrario, Provincia de San Felipe, Regi&#xF3;n de Valpara&#xED;so, seg&#xFA;n las coordenadas que a continuaci&#xF3;n se detallan:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"> <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/47351.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jese sin efecto la <a href=\"https://www.leychile.cl/Navegar?idNorma=1042061&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 1.260, de fecha 29 de junio de 2012</a>, de la Direcci&#xF3;n Regional del Servicio Agr&#xED;cola y Ganadero, Regi&#xF3;n de Valpara&#xED;so, que estableci&#xF3; las Regulaciones Cuarentenarias y el &#xC1;rea Reglamentada en la comuna de Llay-Llay, Provincia de San Felipe, Regi&#xF3;n de Valpara&#xED;so.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

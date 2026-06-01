@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "1981-11-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-01-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2022-02-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10308739,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Podr&#xE1;n <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1172503&amp;idParte=10308717&amp;idVersion=2022-02-11\">Ley 21424<br>Art. &#xFA;nico<br>D.O. 11.02.2022</a></span>invocar la causal contenida en la letra b) del art&#xED;culo 2&#xBA;, durante el a&#xF1;o 2022, los menores de edad o las personas hasta los 24 a&#xF1;os de edad si se mantienen como estudiantes regulares, en cualquier nivel, en instituciones o establecimientos educacionales reconocidos por el Estado, cuyos cuidadores legales hayan fallecido por causa del COVID-19, a contar de marzo de 2020, de acuerdo a la forma y condiciones que establezca un decreto del Ministerio del Interior y Seguridad P&#xFA;blica, suscrito adem&#xE1;s por los Ministerios de Hacienda, de Desarrollo Social y Familia y de Salud.</div><div class=\"p\">&nbsp; &nbsp;  El otorgamiento de este beneficio no ser&#xE1; incompatible con ning&#xFA;n otro beneficio o prestaci&#xF3;n de seguridad social.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1172503,
+      "fecha": "2022-02-11"
+    }
+  }
+]

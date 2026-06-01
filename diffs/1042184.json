@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2012-07-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-08-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9283488,
+          "old": "<div><br><div class=\"p\">DICTA NORMAS SOBRE CLASIFICACI&#xD3;N DE CARTERA, PROVISIONES Y CASTIGOS DE LAS COOPERATIVAS DE AHORRO Y CR&#xC9;DITO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.692 exenta.- Santiago, 23 de julio de 2012.- Visto: Lo dispuesto en el art&#xED;culo 108, inciso primero e inciso tercero, letras a) y d), de la Ley General de Cooperativas, cuyo texto refundido, coordinado y sistematizado, fue fijado en el decreto con fuerza de ley N&#xBA; 5, del a&#xF1;o 2003, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; y en la resoluci&#xF3;n N&#xBA; 1.600, del a&#xF1;o 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica de Chile.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Lo dispuesto en el Compendio de Normas Financieras del Banco Central para las empresas cooperativas de ahorro y cr&#xE9;dito, espec&#xED;ficamente en su Cap&#xED;tulo III C.2-1.</div><div class=\"p\">&nbsp; &nbsp;  2.- La conveniencia que las cooperativas de ahorro y cr&#xE9;dito mantengan permanentemente evaluada la totalidad de su cartera de colocaciones, con la finalidad de disminuir los riesgos de irrecuperabilidad de los cr&#xE9;ditos concedidos.</div><div class=\"p\">&nbsp; &nbsp;  3.- El inter&#xE9;s del Departamento de Cooperativas de resguardar la situaci&#xF3;n patrimonial de las cooperativas de ahorro y cr&#xE9;dito.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div></div>",
+          "new": "<div><br><div class=\"p\">DICTA NORMAS SOBRE CLASIFICACI&#xD3;N DE CARTERA, PROVISIONES Y CASTIGOS DE LAS COOPERATIVAS DE AHORRO Y CR&#xC9;DITO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.692 exenta.- Santiago, 23 de julio de 2012.- Visto: Lo dispuesto en el art&#xED;culo 108, inciso primero e inciso tercero, letras a) y d), de la Ley General de Cooperativas, cuyo texto refundido, coordinado y sistematizado, fue fijado en el decreto con fuerza de ley N&#xBA; 5, del a&#xF1;o 2003, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; y en la resoluci&#xF3;n N&#xBA; 1.600, del a&#xF1;o 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica de Chile.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Lo dispuesto en el Compendio de Normas Financieras del Banco Central para las empresas cooperativas de ahorro y cr&#xE9;dito, espec&#xED;ficamente en su Cap&#xED;tulo III C.2-1.</div><div class=\"p\">&nbsp; &nbsp;  2.- La conveniencia que las cooperativas de ahorro y cr&#xE9;dito mantengan permanentemente evaluada la totalidad de su cartera de colocaciones, con la finalidad de disminuir los riesgos de irrecuperabilidad de los cr&#xE9;ditos concedidos.</div><div class=\"p\">&nbsp; &nbsp;  3.- El inter&#xE9;s del Departamento de Cooperativas de resguardar la situaci&#xF3;n patrimonial de las cooperativas de ahorro y cr&#xE9;dito.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 2047 Exenta, Econom&#xED;a, publicada el 29.08.2012, modifica la presente norma en el sentido de prorrogar el plazo para que las cooperativas de ahorro y cr&#xE9;dito den cumplimiento a las disposiciones contenidas en la presente norma, hasta el 31.12.2012</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-04-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6367833,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 911 EXENTO, DE 2001</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 911 EXENTO, DE 2001</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

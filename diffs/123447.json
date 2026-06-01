@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-08-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8333513,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Atendido lo previsto en el art&#xED;culo 19 de la ley N&#xBA;16.282, lo dispuesto en el presente decreto regir&#xE1; para las postulaciones que se efect&#xFA;en hasta el 14 de octubre de 1998.</div><br><div class=\"p\">&nbsp; &nbsp;  Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Atendido lo previsto en el art&#xED;culo 19 de la ley N&#xBA;16.282, lo dispuesto en el presente decreto regir&#xE1; para las postulaciones que se efect&#xFA;en hasta el 14 de octubre de 1999.<span class=\"n\" id=\"n_0\">DTO 181, VIVIENDA<br>Art. Unico<br>D.O. 30.12.1998</span> Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as. </div></div>"
+        }
+      ]
+    }
+  }
+]

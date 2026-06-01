@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1987-04-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-06-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8972847,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Los excesos de inversi&#xF3;n del Fondo de Pensiones se clasificar&#xE1;n, atendiendo do a si el incumplimiento de l&#xED;mites o requisitos afecta a todos los Fondos de Pensiones o a alguno de ellos en particular; o si se debe a una variaci&#xF3;n en la calificaci&#xF3;n que practique la Comisi&#xF3;n Clasificadora de Riesgo o a la disminuci&#xF3;n de un l&#xED;mite de monto fijo o porcentual; o a la magnitud del incumplimiento, a su transitoriedad o permanencia; o atendiendo a sus causas y, en este &#xFA;ltimo caso, a si el incumplimiento se debe a conductas del emisor, en dos grupos:</div><div class=\"p\">&nbsp; &nbsp;  a) Excesos de inversi&#xF3;n que sean iguales o superiores al uno por ciento del valor del Fondo de Pensiones, en los que los instrumentos representativos de dichos excesos no puedan ser adquiridos por el resto de los Fondos de Pensiones, sin que &#xE9;stos excedan sus respectivos l&#xED;mites de inversi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  b) Excesos de inversi&#xF3;n que no cumplan con las caracter&#xED;sticas se&#xF1;aladas en la letra precedente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Los excesos de inversi&#xF3;n del Fondo de Pensiones se clasificar&#xE1;n, atendiendo do a si el incumplimiento de l&#xED;mites o requisitos afecta a todos los Fondos de Pensiones o a alguno de ellos en particular; o si se debe a una variaci&#xF3;n en la calificaci&#xF3;n que practique la Comisi&#xF3;n Clasificadora de Riesgo o a la disminuci&#xF3;n de un l&#xED;mite de monto fijo o porcentual; o a la magnitud del incumplimiento, a su transitoriedad o permanencia; o atendiendo a sus causas y, en este &#xFA;ltimo caso, a si el incumplimiento se debe a conductas del emisor, en dos grupos: a) Excesos de inversi&#xF3;n que se produzcan por una<span class=\"n\" id=\"n_0\">DTO 24, TRABAJO<br>N&#xB0; 1<br>D.O. 15.06.1990</span> variaci&#xF3;n en la clasificaci&#xF3;n que practique la Comisi&#xF3;n Clasificadora de Riesgo, por la disminuci&#xF3;n de un l&#xED;mite de monto fijo o porcentual, por la variaci&#xF3;n de un factor de concentraci&#xF3;n o por cualquier otra causa ajena a la Administradora que afecte a las inversiones realizadas con los recursos del Fondo de Pensiones, y b) Excesos de inversi&#xF3;n que no cumplan con las caracter&#xED;sticas se&#xF1;aladas en la letra precedente. </div></div>"
+        },
+        {
+          "part_id": 8972848,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;.- Los excesos de inversi&#xF3;n se&#xF1;alados en la letra a) del art&#xED;culo precedente, podr&#xE1;n mantenerse hasta por un plazo de tres a&#xF1;os, contado desde el momento en que se produzcan.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;.- Los excesos de inversi&#xF3;n se&#xF1;alados<span class=\"n\" id=\"n_1\">DTO 24, TRABAJO<br>N&#xB0; 2<br>D.O. 15.06.1990</span> en la letra a) del art&#xED;culo 3&#xBA; que en conjunto no superen el tres por ciento del valor del Fondo de Pensiones, podr&#xE1;n mantenerse hasta el momento en que la Administradora obtenga la m&#xE1;xima recuperaci&#xF3;n de los recursos invertidos. Los excesos que superen el tres por ciento del fondo de pensiones deber&#xE1;n eliminarse dentro de los doce meses siguientes de producidos, debiendo la Administradora seleccionar libremente los instrumentos que enajenar&#xE1;.</div><br></div>"
+        },
+        {
+          "part_id": 8972849,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;.- Los excesos de inversi&#xF3;n se&#xF1;alados en la letra b) del art&#xED;culo tercero, podr&#xE1;n ser mantenidos hasta por un plazo de dos a&#xF1;os, contado desde el momento en que se produzcan.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;.- Los excesos de inversi&#xF3;n se&#xF1;alados<span class=\"n\" id=\"n_2\">DTO 24, TRABAJO<br>N&#xB0; 3<br>D.O. 15.06.1990</span> en la letra b) del art&#xED;culo 3&#xBA; que no representen m&#xE1;s del 0.1% del Fondo de Pensiones podr&#xE1;n mantenerse hasta por un plazo de tres meses. Los excesos que representen m&#xE1;s de un 0.1% del Fondo de Pensiones y hasta el 0.5%, podr&#xE1;n mantenerse por un plazo de seis meses. Finalmente, los excesos que representen m&#xE1;s del 0.5% del Fondo de Pensiones podr&#xE1;n mantenerse por un plazo de doce meses.</div><br></div>"
+        },
+        {
+          "part_id": 8972850,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Una vez cumplidos los plazos a que se refieren los art&#xED;culos 4 y 5 del presente Reglamento, el exceso de inversi&#xF3;n que mantenga el Fondo de Pensiones deber&#xE1; ser valorado en cero. No obstante lo anterior, a partir del sexto mes anterior a la fecha de cumplimiento de los plazos establecidos, deber&#xE1; efectuarse una provisi&#xF3;n equivalente a tantos sextos del exceso de inversi&#xF3;n como n&#xFA;mero de meses transcurran hasta el vencimiento del plazo.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Si una vez transcurridos los plazos<span class=\"n\" id=\"n_3\">DTO 24, TRABAJO<br>N&#xB0; 4<br>D.O. 15.06.1990</span> a que se refieren los art&#xED;culos 4&#xBA; y 5&#xBA;, a&#xFA;n se mantuviere un exceso de inversi&#xF3;n, la Administradora estar&#xE1; obligada a enviar a la Superintendencia de Administradoras de Fondos de Pensiones, dentro de los 3 d&#xED;as siguientes, una n&#xF3;mina de los instrumentos representativos de dichos excesos, los cuales deber&#xE1;n ser vendidos en remates, sin l&#xED;mite de precios, en el mercado secundario formal dentro de un plazo de quince d&#xED;as contado desde el citado env&#xED;o.</div><div class=\"p\">&nbsp; &nbsp;  Trat&#xE1;ndose de los excesos de inversi&#xF3;n de la letra a) del art&#xED;culo 3&#xBA;, la n&#xF3;mina deber&#xE1; contener los instrumentos que la Administradora libremente seleccione.</div><div class=\"p\">&nbsp; &nbsp;  Una vez recibida la n&#xF3;mina, la Superintendencia de Administradoras de Fondos de Pensiones aplicar&#xE1; las multas que procedan, sin perjuicio de las que hubiere aplicado cuando se produjo el exceso de inversi&#xF3;n, en consideraci&#xF3;n a la gravedad de la falta cometida.</div><br></div>"
+        },
+        {
+          "part_id": 8972851,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xB0;.- En el evento de que la Administradora mantuviere un exceso de inversi&#xF3;n en el Fondo de Pensiones, valorado en cero, deber&#xE1; enviar a la Superintendencia de Administradoras de Fondos de Pensiones, dentro de los cinco d&#xED;as h&#xE1;biles posteriores a las fechas de cumplimiento de los plazos a que se refieren los art&#xED;culos 4&#xB0; y 5&#xB0; del presente Reglamento, una n&#xF3;mina de los instrumentos representativos de dichos excesos que detalle las caracter&#xED;sticas de cada uno de ellos.</div><div class=\"p\">&nbsp; &nbsp;  Dentro de los seis meses siguientes al vencimiento del plazo indicado en el inciso precedente, los instrumentos identificados por la Administradora deber&#xE1;n ser vendidos en remates, sin l&#xED;mite de precio, en el mercado secundario formal, debiendo estar enajenados en los tres primeros meses, instrumentos que representen, a lo menos, un tercio del exceso de inversi&#xF3;n. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xB0;.- DEROGADO<span class=\"n\" id=\"n_4\">DTO 24, TRABAJO<br>N&#xB0; 5<br>D.O. 15.06.1990</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-06-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8341380,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA ANDROS S.A. PARA AMPLIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA ANDROS S.A. PARA AMPLIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

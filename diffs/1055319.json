@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-04-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-04-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9379564,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- Los operadores de calderas y autoclaves que, a la fecha de publicaci&#xF3;n de este Reglamento, cuenten con certificado de competencia podr&#xE1;n continuar ejerciendo esa funci&#xF3;n hasta la fecha de vencimiento que indica su respectivo certificado. Los operadores que cuenten con certificado de competencia indefinido, deber&#xE1;n renovar su certificado en un plazo no superior a un a&#xF1;o contado desde la entrada en vigencia del presente reglamento. Igualmente, quienes, a esa fecha, est&#xE9;n habilitados para efectuar las revisiones, a que se refiere el art&#xED;culo 73 del reglamento, podr&#xE1;n continuar haci&#xE9;ndolo aun cuando no tengan la experiencia exigida en esa norma, durante el plazo de tres a&#xF1;os contados desde la vigencia de este reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Los certificados de revisi&#xF3;n y prueba de las calderas de calefacci&#xF3;n y agua caliente registradas por las Secretar&#xED;as Regionales Ministeriales de Salud, continuar&#xE1;n vigentes hasta que se venza el plazo de su vigencia. Aquellas calderas registradas que no se ajusten al presente reglamento en aspectos que no resulte posible modificar por sus caracter&#xED;sticas o emplazamiento estructural podr&#xE1;n continuar funcionando durante su vida &#xFA;til.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.- Los operadores de calderas y autoclaves que, a la fecha de publicaci&#xF3;n de este Reglamento, cuenten con certificado de competencia podr&#xE1;n continuar ejerciendo esa funci&#xF3;n hasta la fecha de vencimiento que indica su respectivo certificado. Los operadores que cuenten con certificado de competencia indefinido, deber&#xE1;n renovar su certificado en un plazo no superior a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1101490&amp;idParte=9785847&amp;idVersion=2017-04-03\">Decreto 49, SALUD<br>N&#xB0; 1<br>D.O. 03.04.2017</a></span>cuatro a&#xF1;os contado desde la entrada en vigencia del presente reglamento. Igualmente, quienes, a esa fecha, est&#xE9;n habilitados para efectuar las revisiones, a que se refiere el art&#xED;culo 73 del reglamento, podr&#xE1;n continuar haci&#xE9;ndolo aun cuando no tengan la experiencia exigida en esa norma, durante el plazo de tres a&#xF1;os contados desde la vigencia de este reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Los certificados de revisi&#xF3;n y prueba de las calderas de calefacci&#xF3;n y agua caliente registradas por las Secretar&#xED;as Regionales Ministeriales de Salud, continuar&#xE1;n vigentes hasta que se venza el plazo de su vigencia. Aquellas calderas registradas que no se ajusten al presente reglamento en aspectos que no resulte posible modificar por sus caracter&#xED;sticas o emplazamiento estructural podr&#xE1;n continuar funcionando durante su vida &#xFA;til.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1101490,
+      "fecha": "2017-04-03"
+    }
+  }
+]

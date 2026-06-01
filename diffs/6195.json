@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-07-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-03-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8256339,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREA EL MINISTERIO DE COORDINACION ECONOMICA N&#xFA;m. 558.- Santiago, 8 de Julio de 1974.- Visto, lo dispuesto en los decretos leyes N&#xB0;.s. 1 y 128, de 1973, 527, de 1974, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; a) La necesidad de establecer una autoridad con facultades para coordinar la acci&#xF3;n de los Ministerios y dem&#xE1;s instituciones del Estado encargadas de dar aplicaci&#xF3;n, en sus correspondientes esferas de competencia, a los Planes, Programas y Pol&#xED;ticas que el Gobierno establece en materia econ&#xF3;mica;</div><div class=\"p\">&nbsp; &nbsp; b) Que siendo igualmente forzoso que esta coordinaci&#xF3;n se traduzca en acciones inmediatas y arm&#xF3;nicas en todos los sectores y organismos comprometidos, dirigida por una Secretar&#xED;a de Estado de car&#xE1;cter eminentemente t&#xE9;cnico, dotada de una estructura adecuada a los objetivos que se persiguen,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno acuerda dictar el siguiente Decreto ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">CREA EL MINISTERIO DE COORDINACION ECONOMICA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 558.- Santiago, 8 de Julio de 1974.- Visto, lo dispuesto en los decretos leyes N&#xB0;.s. 1 y 128, de 1973, 527, de 1974, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; a) La necesidad de establecer una autoridad con facultades para coordinar la acci&#xF3;n de los Ministerios y dem&#xE1;s instituciones del Estado encargadas de dar aplicaci&#xF3;n, en sus correspondientes esferas de competencia, a los Planes, Programas y Pol&#xED;ticas que el Gobierno establece en materia econ&#xF3;mica;</div><div class=\"p\">&nbsp; &nbsp; b) Que siendo igualmente forzoso que esta coordinaci&#xF3;n se traduzca en acciones inmediatas y arm&#xF3;nicas en todos los sectores y organismos comprometidos, dirigida por una Secretar&#xED;a de Estado de car&#xE1;cter eminentemente t&#xE9;cnico, dotada de una estructura adecuada a los objetivos que se persiguen,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno acuerda dictar el siguiente Decreto ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 5&#xB0; del DL 1370, Interior, publicado el 16.03.1976, derog&#xF3; el presente decreto ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

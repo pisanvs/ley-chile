@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-07-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-08-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10250292,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Apru&#xE9;base la Nueva Norma T&#xE9;cnica N&#xB0; 213, del Ministerio de Salud, denominada &quot;Programas Alimentarios&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; D&#xE9;jase constancia, de que la nueva Norma T&#xE9;cnica que se aprueba por este acto administrativo, consta de 59 (cincuenta y nueve) p&#xE1;ginas, la que se adjunta al presente decreto, formando parte integrante de la misma para todos los efectos legales.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; D&#xE9;jase establecido que la nueva Norma T&#xE9;cnica que se aprueba a trav&#xE9;s del presente decreto, comenzar&#xE1; a regir despu&#xE9;s de 6 meses contados desde la publicaci&#xF3;n de este.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0; D&#xE9;jase establecido que la referida Norma T&#xE9;cnica se mantendr&#xE1; en la Divisi&#xF3;n de Pol&#xED;ticas P&#xFA;blicas Saludables y Promoci&#xF3;n, de la Subsecretar&#xED;a de Salud P&#xFA;blica, quienes deber&#xE1;n realizar la oportuna publicaci&#xF3;n y actualizaci&#xF3;n en la p&#xE1;gina web del Ministerio de Salud (www.minsal.cl), debiendo velar por la estricta concordancia entre las copias y reproducciones que se emitan con el texto original aprobado.</div><div class=\"p\">&nbsp; &nbsp;  5&#xB0; D&#xE9;jase sin efecto la Norma T&#xE9;cnica N&#xB0; 168, denominada &quot;Programas Alimentarios&quot;, aprobada por decreto exento N&#xB0; 132, de 12 de mayo de 2016, del Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp;  6&#xB0; Rem&#xED;tase copia de la nueva Norma T&#xE9;cnica que por este acto se aprueba, a la Central de Abastecimiento del Sistema Nacional de Abastecimiento del Sistema Nacional de Servicios de Salud, a las Seremis de Salud del Pa&#xED;s y a los Servicios de Salud del Pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Apru&#xE9;base la Nueva Norma T&#xE9;cnica N&#xB0; 213, del Ministerio de Salud, denominada &quot;Programas Alimentarios&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; D&#xE9;jase constancia, de que la nueva Norma T&#xE9;cnica que se aprueba por este acto administrativo, consta de 59 (cincuenta y nueve) p&#xE1;ginas, la que se adjunta al presente decreto, formando parte integrante de la misma para todos los efectos legales.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; D&#xE9;jase establecido que la nueva Norma T&#xE9;cnica que se aprueba a trav&#xE9;s del presente decreto, comenzar&#xE1; a regir despu&#xE9;s de 6 meses contados desde la publicaci&#xF3;n de este.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0; D&#xE9;jase establecido que la referida Norma T&#xE9;cnica se mantendr&#xE1; en la Divisi&#xF3;n de Pol&#xED;ticas P&#xFA;blicas Saludables y Promoci&#xF3;n, de la Subsecretar&#xED;a de Salud P&#xFA;blica, quienes deber&#xE1;n realizar la oportuna publicaci&#xF3;n y actualizaci&#xF3;n en la p&#xE1;gina web del Ministerio de Salud (www.minsal.cl), debiendo velar por la estricta concordancia entre las copias y reproducciones que se emitan con el texto original aprobado.</div><div class=\"p\">&nbsp; &nbsp;  5&#xB0; D&#xE9;jase sin efecto la Norma T&#xE9;cnica N&#xB0; <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1164215&amp;idParte=10263365&amp;idVersion=2021-08-27\">Resoluci&#xF3;n 818 EXENTA,<br>SALUD<br>D.O. 27.08.2021</a></span>186, denominada &quot;Programas Alimentarios&quot;, aprobada por decreto exento N&#xB0; 132, de 12 de mayo de 2016, del Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp;  6&#xB0; Rem&#xED;tase copia de la nueva Norma T&#xE9;cnica que por este acto se aprueba, a la Central de Abastecimiento del Sistema Nacional de Abastecimiento del Sistema Nacional de Servicios de Salud, a las Seremis de Salud del Pa&#xED;s y a los Servicios de Salud del Pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1164215,
+      "fecha": "2021-08-27"
+    }
+  }
+]

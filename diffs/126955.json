@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-11-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6138527,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Fac&#xFA;ltase al Ministro de Vivienda y Urbanismo, por el plazo de un a&#xF1;o contado a partir de la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial, para que en casos calificados, a requerimiento del Serviu respectivo, mediante resoluciones fundadas, otorgue por una sola vez un plazo adicional al de la vigencia de los Certificados de Subsidio Habitacional para Vivienda Social a que se refiere el T&#xED;tulo VIII del D.S. N&#xBA;62 (V. y U.), de 1984, o al de 90 d&#xED;as, en su caso, o al plazo de vigencia prorrogado de acuerdo a lo dispuesto en el D.S. N&#xBA;29 (V. y U.), de 1997, o de acuerdo al inciso final del art&#xED;culo 22 del D.S. N&#xBA;44 (V. y U.), de 1988, en relaci&#xF3;n a lo dispuesto en el art&#xED;culo 49 del D.S. N&#xBA;62 (V. y U.), de 1984. El plazo adicional que se podr&#xE1; otorgar no exceder&#xE1; de 180 d&#xED;as. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Fac&#xFA;ltase al Ministro de Vivienda y Urbanismo, por el plazo de un a&#xF1;o contado a partir de la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial, para que en casos calificados, a requerimiento del Serviu respectivo, mediante resoluciones fundadas, otorgue por una sola vez un plazo adicional al de la vigencia de los Certificados de Subsidio Habitacional para Vivienda Social a que se refiere el T&#xED;tulo VIII del D.S. N&#xBA;62 (V. y U.), de 1984, o al de 90 d&#xED;as, en su caso, o al plazo de vigencia prorrogado de acuerdo a lo dispuesto en el D.S. N&#xBA;29 (V. y U.), de 1997, o de acuerdo al inciso final del art&#xED;culo 22 del D.S. N&#xBA;44 (V. y U.), de 1988, en relaci&#xF3;n a lo dispuesto en el art&#xED;culo 49 del D.S. N&#xBA;62 (V. y U.), de 1984. El plazo adicional que se podr&#xE1; otorgar no exceder&#xE1; de 180 d&#xED;as, contados a partir de la fecha de la resoluci&#xF3;n que otorgue DTO 95, VIVIENDA<span class=\"n\" id=\"n_0\"><br>Art. Unico<br>D.O. 25.09.1999</span> el respectivo plazo adicional. </div></div>"
+        }
+      ]
+    }
+  }
+]

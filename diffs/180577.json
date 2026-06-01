@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "2001-01-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-03-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7279317,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22 bis: La Secretar&#xED;a Regional Ministerial<span class=\"n\" id=\"n_1\">DTO 265, TRABAJO<br>Art. 11&#xBA; b)<br>D.O. 15.03.2002</span> de Educaci&#xF3;n podr&#xE1; revocar la inscripci&#xF3;n en el Registro Regional de Entidades Ejecutoras, cuando la instituci&#xF3;n dejare de cumplir con cualquiera de las exigencias consideradas para su autorizaci&#xF3;n, calificadas por la respectiva Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n. Asimismo, en el caso de los cursos de niveles b&#xE1;sicos y medios para trabajadores, la citada Secretar&#xED;a Regional podr&#xE1; revocar la autorizaci&#xF3;n si la instituci&#xF3;n no obtiene una aprobaci&#xF3;n anual de a lo menos un 60% de los alumnos que presente al examen de evaluaci&#xF3;n establecido en los art&#xED;culos 9&#xBA;, 10&#xBA;, 11&#xBA; y 12&#xBA; del presente decreto.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7279293,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xB0;: Los alumnos que no alcancen el nivel de logro establecido quedar&#xE1;n con su situaci&#xF3;n En Proceso y tendr&#xE1;n derecho a rendir evaluaciones especiales s&#xF3;lo en aquellas &#xE1;reas en las cuales no hayan alcanzado el nivel de dominio requerido.</div><div class=\"p\">&nbsp; &nbsp;  Estos alumnos tendr&#xE1;n derecho a dos evaluaciones especiales dentro de un lapso no superior a 90 d&#xED;as h&#xE1;biles, una vez finalizado el proceso de evaluaci&#xF3;n. Las fechas de estas evaluaciones se llevar&#xE1;n a efecto seg&#xFA;n lo dispuesto en el art&#xED;culo 14&#xB0; del presente decreto.</div><div class=\"p\">Estas evaluaciones incorporar&#xE1;n solamente aquellas &#xE1;reas cuyos objetivos no fueron logrados en la evaluaci&#xF3;n anterior.</div><div class=\"p\">&nbsp; &nbsp;  Los procesos pendientes ser&#xE1;n de responsabilidad de las entidades p&#xFA;blicas o privadas participantes. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xB0;: Los alumnos que no alcancen el nivel de logro establecido quedar&#xE1;n con su situaci&#xF3;n En Proceso y tendr&#xE1;n derecho a rendir evaluaciones especiales s&#xF3;lo en aquellas &#xE1;reas en las cuales no hayan alcanzado el nivel de dominio requerido. Estos alumnos tendr&#xE1;n derecho a una evaluaci&#xF3;n<span class=\"n\" id=\"n_0\">DTO 265, TRABAJO<br>Art. 11&#xBA; a)<br>D.O. 15.03.2002</span> especial dentro de un lapso no superior a 90 d&#xED;as h&#xE1;biles una vez finalizado el proceso de evaluaci&#xF3;n. La fecha de esta evaluaci&#xF3;n se determinar&#xE1; seg&#xFA;n lo dispuesto en el art&#xED;culo 14 del presente decreto. Esta evaluaci&#xF3;n incorporar&#xE1; solamente aquellas &#xE1;reas cuyos objetivos no fueron logrados en la evaluaci&#xF3;n anterior. Los procesos pendientes ser&#xE1;n de responsabilidad de las entidades p&#xFA;blicas o privadas participantes. </div></div>"
+        }
+      ]
+    }
+  }
+]

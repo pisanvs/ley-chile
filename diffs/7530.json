@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "1984-10-22",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1990-03-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8991422,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0; Establ&#xE9;cese como obligatoria en los establecimientos educacionales que impartan Educaci&#xF3;n Parvularia (2&#xB0; Nivel de Transici&#xF3;n), General B&#xE1;sica y Media, la ense&#xF1;anza de las normas, pr&#xE1;cticas y principios que regulan la prevencion de riesgos de accidentes y la formaci&#xF3;n de conciencia y h&#xE1;bitos de seguridad en general.</div><br></div>"
+        },
+        {
+          "part_id": 8991423,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Los contenidos se&#xF1;alados en el art&#xED;culo anterior, deber&#xE1;n tratarse por las Educadoras de P&#xE1;rvulos en Educaci&#xF3;n Parvularia, por los Profesores de Curso en la Educaci&#xF3;n General B&#xE1;sica, y por los profesores jefes y los profesores de Ciencias Sociales en la Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp; La supervisi&#xF3;n de la ense&#xF1;anza de estos contenidos estar&#xE1; a cargo de las Direcciones Provinciales de Educaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 8991424,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; Las Direcciones Provinciales de Educaci&#xF3;n deber&#xE1;n impartir las instrucciones para la organizaci&#xF3;n, desarrollo y evaluaci&#xF3;n de las actividades educativas a que se refiere el art&#xED;culo 1&#xB0; del presente decreto.</div><br></div>"
+        },
+        {
+          "part_id": 8991425,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 4&#xB0; Los Directores Provinciales de Educaci&#xF3;n, y los directores de establecimientos educacionales adoptar&#xE1;n las medidas que estimen convenientes para facilitar al personal que atiende estas actividades educativas, la instrucci&#xF3;n y preparaci&#xF3;n necesarias para el desempe&#xF1;o de sus funciones.</div><br></div>"
+        },
+        {
+          "part_id": 8991426,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 5&#xB0; Los Directores Provinciales de Educaci&#xF3;n, enviar&#xE1;n anualmente a la Comisi&#xF3;n Nacional Permanente de Seguridad Escolar del Ministerio de Educaci&#xF3;n P&#xFA;blica, una evaluaci&#xF3;n de la aplicaci&#xF3;n del presente decreto, y los datos estad&#xED;sticos de las &quot;Brigadas Escolares de Seguridad&quot;.</div><br></div>"
+        },
+        {
+          "part_id": 8991427,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 6&#xB0; Recon&#xF3;cese como organismo cooperador del Ministerio de Educaci&#xF3;n P&#xFA;blica, en todo aquello que se refiera a materias de seguridad, al Consejo Nacional de Seguridad, corporaci&#xF3;n privada con personalidad jur&#xED;dica otorgada por decreto supremo de Justicia N&#xB0; 1.352, de 3 de marzo de 1959.</div><div class=\"p\">&nbsp; &nbsp; Asimismo, recon&#xF3;cese esta misma calidad - en las<span class=\"n\" id=\"n_0\">DS. 94, EX.<br>EDUCACION,<br>1984,<br>ART. UNICO.</span> Materias de su competencia - a la Asociaci&#xF3;n Chilena de Seguridad, Corporaci&#xF3;n de Derecho Privado, sin fines de lucro, Mutualidad de Empleadores de la Ley N&#xB0; 16.744, con personalidad jur&#xED;dica otorgado por decreto supremo de Justicia N&#xB0; 3.209 de 26 de Junio de 1958 y publicado en el Diario Oficial del 12 de Julio del mismo a&#xF1;o; al<span class=\"n\" id=\"n_1\">DS.176, EX.<br>EDUCACION,<br>1984,<br>ART. UNICO.</span> Instituto de Seguridad del Trabajo, con personalidad jur&#xED;dica otorgada por decreto N&#xB0; 5.112 de 2 de Octubre de 1958 del Ministerio de Justicia y publicado en el Diario Oficial de 17 de Octubre de 1958; y a la Mutual de Seguridad de la C&#xE1;mara Chilena de la Construcci&#xF3;n, con personalidad jur&#xED;dica otorgada por decreto N&#xB0; 3.026 de 18 de Octubre de 1963 del Ministerio de Justicia y publicado en el Diario Oficial del 2 de Noviembre de 1963.</div><br></div>"
+        },
+        {
+          "part_id": 8991428,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; An&#xF3;tese, publ&#xED;quese e ins&#xE9;rtese en la Recopilaci&#xF3;n oficial de la Contralor&#xED;a General de la Rep&#xFA;blica.- Por orden del Presidente de la Rep&#xFA;blica.- Horacio Ar&#xE1;nguiz, Ministro de Educaci&#xF3;n P&#xFA;blica.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

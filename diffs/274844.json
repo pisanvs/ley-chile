@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2008-07-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-03-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6655228,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Autor&#xED;zase circular en d&#xED;as s&#xE1;bado en la tarde, domingo y festivos, al Station Wagon marca Suzuki, modelo Gran Nomade 2.0 GLX, tracci&#xF3;n 4x4, patente BLVF.51-2, color plata, a&#xF1;o 2008, motor J20A-576066, chasis JS3TD54V094100949, que forma parte de la dotaci&#xF3;n de veh&#xED;culos de la Superintendencia de Servicios Sanitarios, para labores de fiscalizaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Autor&#xED;zase circular en d&#xED;as s&#xE1;bado en la tarde, domingo y festivos, al Station Wagon marca Suzuki, modelo Gran Nomade 2.0 GLX, tracci&#xF3;n 4x4, patente BLVF.52-0, color plata, a&#xF1;o 2008, motor J20A-576929, chasis JS3TD54V494100985, que forma parte de la dotaci&#xF3;n de veh&#xED;culos de la Superintendencia de Servicios Sanitarios, para labores de fiscalizaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Autor&#xED;zase circular en d&#xED;as s&#xE1;bado en la tarde, domingo y festivos, al Station Wagon marca Suzuki, modelo Gran Nomade 2.0 GLX, tracci&#xF3;n 4x4, patente BLVF.51-2, color plata, a&#xF1;o 2008, motor J20A-576066, chasis JS3TD54V094100949, que forma parte de la dotaci&#xF3;n de veh&#xED;culos de la Superintendencia de Servicios Sanitarios, para labores de fiscalizaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  DEROGADO.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1038238&amp;idParte=9243649&amp;idVersion=2012-03-22\">Decreto 4606, OBRAS PUBLICAS<br>Art. 1<br>D.O. 22.03.2012</a></span></div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1038238,
+      "fecha": "2012-03-22"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-02-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10111742,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Prorr&#xF3;gase por un a&#xF1;o la vigencia de todas las licencias de conducir cuyo control corresponda realizar durante el a&#xF1;o 2020. Sus titulares podr&#xE1;n realizar el tr&#xE1;mite de renovaci&#xF3;n hasta el d&#xED;a y mes se&#xF1;alado en la licencia vigente, del a&#xF1;o 2021.&quot;. </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Prorr&#xF3;gase <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>por un a&#xF1;o la vigencia de todas las licencias de conducir cuyo control corresponda realizar durante el a&#xF1;o 2020. Sus titulares podr&#xE1;n realizar el tr&#xE1;mite de renovaci&#xF3;n hasta el d&#xED;a y mes se&#xF1;alado en la licencia vigente, del a&#xF1;o 2021.&quot;. </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico de la Ley 21313, publicada el 18.02.2021, prorroga por un a&#xF1;o la vigencia de la presente norma, aplic&#xE1;ndose tambi&#xE9;n a todas las licencias de conducir cuyo control corresponda realizar durante el a&#xF1;o 2021, los beneficiarios podr&#xE1;n realizar el tr&#xE1;mite de renovaci&#xF3;n hasta el d&#xED;a y mes se&#xF1;alado en la licencia vigente, del a&#xF1;o 2022.</div></div>"
+        }
+      ]
+    }
+  }
+]

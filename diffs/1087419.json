@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-02-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-01-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9675034,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la concesi&#xF3;n de Servicio Intermedio de Telecomunicaciones, que &#xFA;nicamente provea infraestructura f&#xED;sica para telecomunicaciones, cuyo titular es la empresa Torres Unidas Chile SpA, RUT N&#xBA; 76.178.461-7, con domicilio en Avenida Apoquindo N&#xBA; 2827, Oficina 702, comuna de Las Condes, Regi&#xF3;n Metropolitana, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes.</div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;zase a la concesionaria para modificar su concesi&#xF3;n, individualizada en la letra e) de los Vistos, en el sentido de incorporar infraestructura f&#xED;sica ya autorizada, conforme a los decretos que se detallan en el siguiente cuadro:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/55611.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Las caracter&#xED;sticas t&#xE9;cnicas de las instalaciones corresponden a torres soportes de antenas y sistemas radiantes conforme ya fueron autorizados. Dado que las mismas ya se encuentran instaladas no existen plazos involucrados.</div><div class=\"p\">&nbsp; &nbsp;  2. Apru&#xE9;base el proyecto t&#xE9;cnico base de la solicitud presentado por la concesionaria, conforme a las disposiciones t&#xE9;cnico legales que rigen el servicio de telecomunicaciones concedido. La documentaci&#xF3;n respectiva quedar&#xE1; archivada en la Subsecretar&#xED;a de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  3. Es obligaci&#xF3;n de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y t&#xE9;cnicas que regulan las telecomunicaciones, en lo que le sean aplicables.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la concesi&#xF3;n de Servicio Intermedio de Telecomunicaciones, que &#xFA;nicamente provea infraestructura f&#xED;sica para telecomunicaciones, cuyo titular es la empresa Torres Unidas Chile SpA, RUT N&#xBA; 76.178.461-7, con domicilio en Avenida Apoquindo N&#xBA; 2827, Oficina 702, comuna de Las Condes, Regi&#xF3;n Metropolitana, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes.</div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;zase a la concesionaria para modificar su concesi&#xF3;n, individualizada en la letra e) de los Vistos, en el sentido de incorporar infraestructura f&#xED;sica ya autorizada, conforme a los decretos que se detallan en el siguiente cuadro:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/55611.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Las caracter&#xED;sticas t&#xE9;cnicas de las instalaciones corresponden a torres soportes de antenas y sistemas radiantes conforme ya fueron autorizados. Dado que las mismas ya se encuentran instaladas no existen plazos involucrados.</div><div class=\"p\">&nbsp; &nbsp;  2. Apru&#xE9;base el proyecto t&#xE9;cnico base de la solicitud presentado por la concesionaria, conforme a las disposiciones t&#xE9;cnico legales que rigen el servicio de telecomunicaciones concedido. La documentaci&#xF3;n respectiva quedar&#xE1; archivada en la Subsecretar&#xED;a de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  3. Es obligaci&#xF3;n de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y t&#xE9;cnicas que regulan las telecomunicaciones, en lo que le sean aplicables.</div><div class=\"p\"> </div><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 918 Exento, Transportes, publicado el 17.01.2018, dispone corregir la numeraci&#xF3;n de la direcci&#xF3;n de una (1) estaci&#xF3;n base, autorizada por la presente norma, por evidente error tipogr&#xE1;fico, sustituyendo el n&#xFA;mero 184 por 148.</div></div>"
+        }
+      ]
+    }
+  }
+]

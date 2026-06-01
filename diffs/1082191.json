@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2015-09-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-04-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9638812,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Establ&#xE9;zcase, como sujetos pasivos de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1030861&amp;idParte=0&amp;idVersion=\">ley N&#xBA; 20.730</a> que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, a los siguientes funcionarios de la Subsecretar&#xED;a de Servicios Sociales:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  A) Jefe/a de Divisi&#xF3;n de Promoci&#xF3;n y Protecci&#xF3;n Social</div><div class=\"p\">&nbsp; &nbsp;  B) Jefe/a de Divisi&#xF3;n de Administraci&#xF3;n y Finanzas</div><div class=\"p\">&nbsp; &nbsp;  C) Jefe/a de Divisi&#xF3;n de Focalizaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  D) Jefe/a de Secretar&#xED;a de Elige Vivir Sano</div><div class=\"p\">&nbsp; &nbsp;  E) Asesor (a) Especial para Asuntos Ind&#xED;genas</div><div class=\"p\">&nbsp; &nbsp;  F) Jefe/a del Departamento de Administraci&#xF3;n Interna</div><div class=\"p\">&nbsp; &nbsp;  G) Jefes/as o Coordinadores/as Administrativos Regionales</div><div class=\"p\">&nbsp; &nbsp;  H) Coordinador/a de Inversiones Regionales</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Reg&#xED;strese, a contar de la total tramitaci&#xF3;n de la presente resoluci&#xF3;n, en los registros de agenda p&#xFA;blica se&#xF1;alados en la ley del Lobby, la informaci&#xF3;n pertinente a los sujetos pasivos establecidos a trav&#xE9;s de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Publ&#xED;quese, el presente acto en el Diario Oficial de la Rep&#xFA;blica, en conformidad al Art&#xED;culo 48 letra b) de la ley N&#xBA; 19.880, que establece Bases de los procedimientos Administrativos que rigen a los actos de los &#xD3;rganos de la Administraci&#xF3;n del Estado; publ&#xED;quese en el sitio electr&#xF3;nico de Transparencia Activa de la Subsecretar&#xED;a de Servicios Sociales, conforme al art&#xED;culo 4&#xBA; inciso segundo de la Ley del Lobby.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; Rem&#xED;tase copia del presente acto a la Divisi&#xF3;n de Administraci&#xF3;n y Finanzas, a la Divisi&#xF3;n de Focalizaci&#xF3;n, a la Divisi&#xF3;n de Promoci&#xF3;n y Protecci&#xF3;n Social, a la Secretar&#xED;a de Elige Vivir Sano, a el/la Asesor(a) Especial para Asuntos Ind&#xED;genas, al Departamento de Administraci&#xF3;n Interna,&nbsp; a las Serem&#xED;as Regionales de Desarrollo Social y a la Oficina de Partes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Establ&#xE9;zcase, como sujetos pasivos de la ley N&#xBA; 20.730 que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, a los siguientes funcionarios de la Subsecretar&#xED;a de Servicios Sociales:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  A) Jefe/a de Divisi&#xF3;n de Promoci&#xF3;n y Protecci&#xF3;n Social</div><div class=\"p\">&nbsp; &nbsp;  B) Jefe/a de Divisi&#xF3;n de Administraci&#xF3;n y Finanzas</div><div class=\"p\">&nbsp; &nbsp;  C) Jefe/a de Divisi&#xF3;n de Focalizaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  D) Jefe/a de Secretar&#xED;a de Elige Vivir Sano</div><div class=\"p\">&nbsp; &nbsp;  E) Asesor (a) Especial para Asuntos Ind&#xED;genas</div><div class=\"p\">&nbsp; &nbsp;  F) Jefe/a del Departamento de Administraci&#xF3;n Interna</div><div class=\"p\">&nbsp; &nbsp;  G) Jefes/as o Coordinadores/as Administrativos Regionales</div><div class=\"p\">&nbsp; &nbsp;  H) Coordinador/a de Inversiones Regionales</div><div class=\"p\">&nbsp; &nbsp;  I) Jefe/a de Departamento Regional<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1102080&amp;idParte=9789528&amp;idVersion=2017-04-20\">Resoluci&#xF3;n 262 EXENTA,<br>DESARROLLO<br>N&#xB0; 1<br>D.O. 20.04.2017</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Reg&#xED;strese, a contar de la total tramitaci&#xF3;n de la presente resoluci&#xF3;n, en los registros de agenda p&#xFA;blica se&#xF1;alados en la ley del Lobby, la informaci&#xF3;n pertinente a los sujetos pasivos establecidos a trav&#xE9;s de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Publ&#xED;quese, el presente acto en el Diario Oficial de la Rep&#xFA;blica, en conformidad al Art&#xED;culo 48 letra b) de la ley N&#xBA; 19.880, que establece Bases de los procedimientos Administrativos que rigen a los actos de los &#xD3;rganos de la Administraci&#xF3;n del Estado; publ&#xED;quese en el sitio electr&#xF3;nico de Transparencia Activa de la Subsecretar&#xED;a de Servicios Sociales, conforme al art&#xED;culo 4&#xBA; inciso segundo de la Ley del Lobby.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; Rem&#xED;tase copia del presente acto a la Divisi&#xF3;n de Administraci&#xF3;n y Finanzas, a la Divisi&#xF3;n de Focalizaci&#xF3;n, a la Divisi&#xF3;n de Promoci&#xF3;n y Protecci&#xF3;n Social, a la Secretar&#xED;a de Elige Vivir Sano, a el/la Asesor(a) Especial para Asuntos Ind&#xED;genas, al Departamento de Administraci&#xF3;n Interna,&nbsp; a las Serem&#xED;as Regionales de Desarrollo Social y a la Oficina de Partes.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1102080,
+      "fecha": "2017-04-20"
+    }
+  },
+  {
+    "fecha": "2024-04-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

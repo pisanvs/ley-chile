@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-06-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7260611,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA MARIA AMALIA S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCION QUE INDICA</div><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA MARIA AMALIA S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

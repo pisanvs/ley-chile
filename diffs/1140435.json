@@ -1,0 +1,104 @@
+[
+  {
+    "fecha": "2020-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-12-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10086155,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;: El informe financiero ser&#xE1; entregado al Comit&#xE9; de Pares Evaluadores durante la reuni&#xF3;n preparatoria, como insumo para la visita de evaluaci&#xF3;n externa. Asimismo, dicho informe ser&#xE1; enviado para efectos de conocimiento a la instituci&#xF3;n evaluada, la semana previa a la referida visita.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;: <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1152508&amp;idParte=10180471&amp;idVersion=2020-12-02\">Resoluci&#xF3;n 217 EXENTA,<br>C.N.ACREDITACI&#xD3;N<br>Art. primero<br>D.O. 02.12.2020</a></span>El informe financiero ser&#xE1; entregado al Comit&#xE9; de Pares Evaluadores durante la reuni&#xF3;n preparatoria, como insumo para la visita de evaluaci&#xF3;n externa. Asimismo, dicho informe ser&#xE1; enviado para efectos de conocimiento a la instituci&#xF3;n evaluada, tan pronto est&#xE9; disponible.</div><div class=\"p\"> </div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1152508,
+      "fecha": "2020-12-02"
+    }
+  },
+  {
+    "fecha": "2021-02-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10198525,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23&#xB0; bis: <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1155453&amp;idParte=10198491&amp;idVersion=2021-02-03\">Resoluci&#xF3;n 230 EXENTA,<br>C.N. ACREDITACI&#xD3;N<br>Art. PRIMERO<br>D.O. 03.02.2021</a></span>Para el caso que la Instituci&#xF3;n haya presentado un recurso de reposici&#xF3;n en contra de la decisi&#xF3;n de acreditaci&#xF3;n, previo al pronunciamiento de la Comisi&#xF3;n y con el prop&#xF3;sito que la Instituci&#xF3;n sea o&#xED;da, podr&#xE1; asistir en representaci&#xF3;n de aqu&#xE9;lla el Rector o la Rectora, o la m&#xE1;xima autoridad ejecutiva institucional, o quien subrogue, conforme a las instrucciones dictadas por la CNA para tal efecto.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n escuchar&#xE1; a la Instituci&#xF3;n al inicio de la respectiva sesi&#xF3;n, antes de la relaci&#xF3;n del respectivo recurso de reposici&#xF3;n por la Secretar&#xED;a Ejecutiva.</div><div class=\"p\">&nbsp; &nbsp;  En caso de inasistencia, la Comisi&#xF3;n continuar&#xE1; con su an&#xE1;lisis, lo que quedar&#xE1; consignado en el acta de la respectiva sesi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Finalmente, el Pleno de la Comisi&#xF3;n, basado en la ponderaci&#xF3;n de la totalidad de los antecedentes, emitir&#xE1; la decisi&#xF3;n correspondiente.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10086166,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xBA;: El Informe de Autoevaluaci&#xF3;n (junto con sus antecedentes), el Informe de Evaluaci&#xF3;n Externa, el Informe Financiero, las Observaciones de la Instituci&#xF3;n, y otros antecedentes que sean utilizados para corroborar, verificar o complementar la informaci&#xF3;n proporcionada por la instituci&#xF3;n, ingresar&#xE1;n a sesi&#xF3;n del Pleno de la Comisi&#xF3;n. El Presidente del Comit&#xE9; de pares efectuar&#xE1; una relator&#xED;a en base a los antecedentes mencionados, refiri&#xE9;ndose en particular a las &#xE1;reas en que la instituci&#xF3;n se somete a proceso.</div><div class=\"p\">&nbsp; &nbsp;  Finalmente, el Pleno de la Comisi&#xF3;n, basado en la ponderaci&#xF3;n de la totalidad de los antecedentes, emitir&#xE1; el juicio de acreditaci&#xF3;n correspondiente.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xB0;: El <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1155453&amp;idParte=10198491&amp;idVersion=2021-02-03\">Resoluci&#xF3;n 230 EXENTA,<br>C.N. ACREDITACI&#xD3;N<br>Art. PRIMERO<br>D.O. 03.02.2021</a></span>Informe de Autoevaluaci&#xF3;n (junto con sus antecedentes), el Informe de Evaluaci&#xF3;n Externa, el Informe Financiero, las Observaciones de la Instituci&#xF3;n, y otros antecedentes que sean utilizados para corroborar, verificar o complementar la informaci&#xF3;n proporcionada por la instituci&#xF3;n, ingresar&#xE1;n a sesi&#xF3;n del Pleno de la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Previo al pronunciamiento de la Comisi&#xF3;n, y con el prop&#xF3;sito que la Instituci&#xF3;n sea o&#xED;da, podr&#xE1; asistir a la respectiva sesi&#xF3;n, en representaci&#xF3;n de aqu&#xE9;lla, el Rector o la Rectora, o la m&#xE1;xima autoridad ejecutiva institucional, o quien subrogue, conforme a las instrucciones dictadas por la CNA para tal efecto.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n escuchar&#xE1; a la Instituci&#xF3;n al inicio de la sesi&#xF3;n, antes de la relator&#xED;a del Presidente del Comit&#xE9; de Pares Evaluadores. En caso de inasistencia, la Comisi&#xF3;n continuar&#xE1; con su an&#xE1;lisis, lo que quedar&#xE1; consignado en el acta de la respectiva sesi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Luego, el Presidente del Comit&#xE9; de pares efectuar&#xE1; una relator&#xED;a en base a los antecedentes mencionados, refiri&#xE9;ndose en particular a las &#xE1;reas en que la instituci&#xF3;n se somete a proceso.</div><div class=\"p\">&nbsp; &nbsp;  Finalmente, el Pleno de la Comisi&#xF3;n, basado en la ponderaci&#xF3;n de la totalidad de los antecedentes, emitir&#xE1; el juicio de acreditaci&#xF3;n correspondiente.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-08-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10086166,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xB0;: El <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1155453&amp;idParte=10198491&amp;idVersion=2021-02-03\">Resoluci&#xF3;n 230 EXENTA,<br>C.N. ACREDITACI&#xD3;N<br>Art. PRIMERO<br>D.O. 03.02.2021</a></span>Informe de Autoevaluaci&#xF3;n (junto con sus antecedentes), el Informe de Evaluaci&#xF3;n Externa, el Informe Financiero, las Observaciones de la Instituci&#xF3;n, y otros antecedentes que sean utilizados para corroborar, verificar o complementar la informaci&#xF3;n proporcionada por la instituci&#xF3;n, ingresar&#xE1;n a sesi&#xF3;n del Pleno de la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Previo al pronunciamiento de la Comisi&#xF3;n, y con el prop&#xF3;sito que la Instituci&#xF3;n sea o&#xED;da, podr&#xE1; asistir a la respectiva sesi&#xF3;n, en representaci&#xF3;n de aqu&#xE9;lla, el Rector o la Rectora, o la m&#xE1;xima autoridad ejecutiva institucional, o quien subrogue, conforme a las instrucciones dictadas por la CNA para tal efecto.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n escuchar&#xE1; a la Instituci&#xF3;n al inicio de la sesi&#xF3;n, antes de la relator&#xED;a del Presidente del Comit&#xE9; de Pares Evaluadores. En caso de inasistencia, la Comisi&#xF3;n continuar&#xE1; con su an&#xE1;lisis, lo que quedar&#xE1; consignado en el acta de la respectiva sesi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Luego, el Presidente del Comit&#xE9; de pares efectuar&#xE1; una relator&#xED;a en base a los antecedentes mencionados, refiri&#xE9;ndose en particular a las &#xE1;reas en que la instituci&#xF3;n se somete a proceso.</div><div class=\"p\">&nbsp; &nbsp;  Finalmente, el Pleno de la Comisi&#xF3;n, basado en la ponderaci&#xF3;n de la totalidad de los antecedentes, emitir&#xE1; el juicio de acreditaci&#xF3;n correspondiente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1163408&amp;idParte=10257174&amp;idVersion=2021-08-06\">Resoluci&#xF3;n 244 EXENTA,<br>C.N.ACREDITACI&#xD3;N<br>Art. segundo<br>D.O. 06.08.2021</a></span> 18&#xBA;: El Informe de Autoevaluaci&#xF3;n (junto con sus antecedentes), el Informe de Evaluaci&#xF3;n Externa, el Informe Financiero, las Observaciones de la Instituci&#xF3;n, y otros antecedentes que sean utilizados para corroborar, verificar o complementar la informaci&#xF3;n proporcionada por la instituci&#xF3;n, ingresar&#xE1;n a sesi&#xF3;n del Pleno de la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Previo al pronunciamiento de la Comisi&#xF3;n, y con el prop&#xF3;sito que la Instituci&#xF3;n sea o&#xED;da, podr&#xE1; asistir a la respectiva sesi&#xF3;n, en representaci&#xF3;n de aqu&#xE9;lla, el Rector o la Rectora o la m&#xE1;xima autoridad ejecutiva institucional unipersonal, o quien subrogue de acuerdo con lo establecido en sus estatutos, conforme a las instrucciones dictadas por la CNA para tal efecto.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n escuchar&#xE1; a la Instituci&#xF3;n al inicio de la sesi&#xF3;n, antes de la relator&#xED;a del Presidente del Comit&#xE9; de Pares Evaluadores. En caso de inasistencia, la Comisi&#xF3;n continuar&#xE1; con su an&#xE1;lisis, lo que quedar&#xE1; consignado en el acta de la respectiva sesi&#xF3;n y en la correspondiente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Luego, el Presidente del Comit&#xE9; de pares efectuar&#xE1; una relator&#xED;a en base a los antecedentes mencionados, refiri&#xE9;ndose en particular a las &#xE1;reas en que la instituci&#xF3;n se somete a proceso.</div><div class=\"p\">&nbsp; &nbsp;  Finalmente, el Pleno de la Comisi&#xF3;n, basado en la ponderaci&#xF3;n de la totalidad de los antecedentes, emitir&#xE1; el juicio de acreditaci&#xF3;n correspondiente.</div><br><br></div>"
+        },
+        {
+          "part_id": 10198525,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23&#xB0; bis: <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1155453&amp;idParte=10198491&amp;idVersion=2021-02-03\">Resoluci&#xF3;n 230 EXENTA,<br>C.N. ACREDITACI&#xD3;N<br>Art. PRIMERO<br>D.O. 03.02.2021</a></span>Para el caso que la Instituci&#xF3;n haya presentado un recurso de reposici&#xF3;n en contra de la decisi&#xF3;n de acreditaci&#xF3;n, previo al pronunciamiento de la Comisi&#xF3;n y con el prop&#xF3;sito que la Instituci&#xF3;n sea o&#xED;da, podr&#xE1; asistir en representaci&#xF3;n de aqu&#xE9;lla el Rector o la Rectora, o la m&#xE1;xima autoridad ejecutiva institucional, o quien subrogue, conforme a las instrucciones dictadas por la CNA para tal efecto.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n escuchar&#xE1; a la Instituci&#xF3;n al inicio de la respectiva sesi&#xF3;n, antes de la relaci&#xF3;n del respectivo recurso de reposici&#xF3;n por la Secretar&#xED;a Ejecutiva.</div><div class=\"p\">&nbsp; &nbsp;  En caso de inasistencia, la Comisi&#xF3;n continuar&#xE1; con su an&#xE1;lisis, lo que quedar&#xE1; consignado en el acta de la respectiva sesi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Finalmente, el Pleno de la Comisi&#xF3;n, basado en la ponderaci&#xF3;n de la totalidad de los antecedentes, emitir&#xE1; la decisi&#xF3;n correspondiente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1163408&amp;idParte=10257174&amp;idVersion=2021-08-06\">Resoluci&#xF3;n 244 EXENTA,<br>C.N.ACREDITACI&#xD3;N<br>Art. segundo<br>D.O. 06.08.2021</a></span> 23&#xBA; bis: Para el caso que la Instituci&#xF3;n haya presentado un recurso de reposici&#xF3;n en contra de la decisi&#xF3;n de acreditaci&#xF3;n, previo al pronunciamiento de la Comisi&#xF3;n y con el prop&#xF3;sito que la Instituci&#xF3;n sea o&#xED;da, podr&#xE1; asistir en representaci&#xF3;n de aqu&#xE9;lla el Rector o la Rectora o la m&#xE1;xima autoridad ejecutiva institucional unipersonal, o quien subrogue de acuerdo con lo establecido en sus estatutos, conforme a las instrucciones dictadas por la CNA para tal efecto.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n escuchar&#xE1; a la Instituci&#xF3;n al inicio de la respectiva sesi&#xF3;n, antes de la relaci&#xF3;n del respectivo recurso de reposici&#xF3;n por la Secretar&#xED;a Ejecutiva.</div><div class=\"p\">&nbsp; &nbsp;  En caso de inasistencia, la Comisi&#xF3;n continuar&#xE1; con su an&#xE1;lisis, lo que quedar&#xE1; consignado en el acta de la respectiva sesi&#xF3;n y en la correspondiente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Finalmente, el Pleno de la Comisi&#xF3;n, basado en la ponderaci&#xF3;n de la totalidad de los antecedentes, emitir&#xE1; la decisi&#xF3;n correspondiente.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1163408,
+      "fecha": "2021-08-06"
+    }
+  },
+  {
+    "fecha": "2022-12-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10086170,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22&#xBA;: Acorde al art&#xED;culo 59 de la ley 19.880, y a las instrucciones dictadas por la CNA al efecto, la instituci&#xF3;n podr&#xE1; interponer un recurso de reposici&#xF3;n respecto de la decisi&#xF3;n de acreditaci&#xF3;n, en el plazo de 5 (cinco) d&#xED;as h&#xE1;biles contados desde la notificaci&#xF3;n de la resoluci&#xF3;n que contenga dicha decisi&#xF3;n. La Comisi&#xF3;n dispondr&#xE1; de un plazo de 30 (treinta) d&#xED;as h&#xE1;biles para pronunciarse sobre la reposici&#xF3;n.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1186715&amp;idParte=10389249&amp;idVersion=2022-12-20\">Resoluci&#xF3;n 302 EXENTA,<br>C.N.ACREDITACI&#xD3;N<br>Art. primero<br>D.O. 20.12.2022</a></span> 22&#xB0;: Conforme a las instrucciones dictadas por la CNA al efecto, la instituci&#xF3;n podr&#xE1; interponer un recurso de reposici&#xF3;n respecto de la decisi&#xF3;n de acreditaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Para lo anterior, la instituci&#xF3;n en el plazo de 5 (cinco) d&#xED;as h&#xE1;biles contados desde la notificaci&#xF3;n de la resoluci&#xF3;n que contenga dicha decisi&#xF3;n, deber&#xE1; realizar una presentaci&#xF3;n denominada &quot;presentaci&#xF3;n del recurso de reposici&#xF3;n&quot;.</div><div class=\"p\">&nbsp; &nbsp;  Luego, habi&#xE9;ndose interpuesto dentro de ese plazo la aludida presentaci&#xF3;n y siendo declarada admisible a tramitaci&#xF3;n por la CNA, la instituci&#xF3;n contar&#xE1; con un plazo de 10 (diez) d&#xED;as h&#xE1;biles adicionales para exponer y acompa&#xF1;ar los antecedentes que fundamenten el recurso de reposici&#xF3;n, denominada &quot;complemento del recurso de reposici&#xF3;n&quot;.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n dispondr&#xE1; de un plazo de 30 (treinta) d&#xED;as h&#xE1;biles para pronunciarse sobre la reposici&#xF3;n, contados desde la presentaci&#xF3;n de la argumentaci&#xF3;n complementaria.</div><br><br></div>"
+        },
+        {
+          "part_id": 10198525,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1163408&amp;idParte=10257174&amp;idVersion=2021-08-06\">Resoluci&#xF3;n 244 EXENTA,<br>C.N.ACREDITACI&#xD3;N<br>Art. segundo<br>D.O. 06.08.2021</a></span> 23&#xBA; bis: Para el caso que la Instituci&#xF3;n haya presentado un recurso de reposici&#xF3;n en contra de la decisi&#xF3;n de acreditaci&#xF3;n, previo al pronunciamiento de la Comisi&#xF3;n y con el prop&#xF3;sito que la Instituci&#xF3;n sea o&#xED;da, podr&#xE1; asistir en representaci&#xF3;n de aqu&#xE9;lla el Rector o la Rectora o la m&#xE1;xima autoridad ejecutiva institucional unipersonal, o quien subrogue de acuerdo con lo establecido en sus estatutos, conforme a las instrucciones dictadas por la CNA para tal efecto.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n escuchar&#xE1; a la Instituci&#xF3;n al inicio de la respectiva sesi&#xF3;n, antes de la relaci&#xF3;n del respectivo recurso de reposici&#xF3;n por la Secretar&#xED;a Ejecutiva.</div><div class=\"p\">&nbsp; &nbsp;  En caso de inasistencia, la Comisi&#xF3;n continuar&#xE1; con su an&#xE1;lisis, lo que quedar&#xE1; consignado en el acta de la respectiva sesi&#xF3;n y en la correspondiente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Finalmente, el Pleno de la Comisi&#xF3;n, basado en la ponderaci&#xF3;n de la totalidad de los antecedentes, emitir&#xE1; la decisi&#xF3;n correspondiente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1163408&amp;idParte=10257174&amp;idVersion=2021-08-06\">Resoluci&#xF3;n 244 EXENTA,<br>C.N.ACREDITACI&#xD3;N<br>Art. segundo<br>D.O. 06.08.2021</a></span> 23&#xBA; bis: Para el caso que la Instituci&#xF3;n haya presentado un recurso de reposici&#xF3;n en contra de la decisi&#xF3;n de acreditaci&#xF3;n, previo al pronunciamiento de la Comisi&#xF3;n y con el prop&#xF3;sito que la Instituci&#xF3;n sea o&#xED;da, podr&#xE1; asistir en representaci&#xF3;n de aqu&#xE9;lla el Rector o la Rectora o la m&#xE1;xima autoridad ejecutiva institucional unipersonal, o quien subrogue de acuerdo con lo establecido en sus estatutos, conforme a las instrucciones dictadas por la CNA para tal efecto.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n escuchar&#xE1; a la Instituci&#xF3;n al inicio de la respectiva sesi&#xF3;n, antes de la relaci&#xF3;n del respectivo recurso de reposici&#xF3;n por la Secretar&#xED;a Ejecutiva.</div><div class=\"p\">&nbsp; &nbsp;  En caso de inasistencia, la Comisi&#xF3;n continuar&#xE1; con su an&#xE1;lisis, lo que quedar&#xE1; consignado en el acta de la respectiva sesi&#xF3;n y en la correspondiente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Finalmente, el Pleno de la Comisi&#xF3;n, basado en la ponderaci&#xF3;n de la totalidad de los antecedentes, emitir&#xE1; la decisi&#xF3;n correspondiente.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1186715,
+      "fecha": "2022-12-20"
+    }
+  },
+  {
+    "fecha": "2023-10-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

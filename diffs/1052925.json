@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-07-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2026-03-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9365426,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Zona T&#xED;pica a &quot;Las Casas del Ferrocarril de Antofagasta&quot;, ubicadas en la comuna, provincia y Regi&#xF3;n de Antofagasta.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida de los dos pol&#xED;gonos de la Zona T&#xED;pica tiene una superficie aproximada total de 9.050,80 mts.2, donde el pol&#xED;gono 1 consta de 2.830,14 mts.2 y el pol&#xED;gono 2 consta de 6.220,66 mts.2, como se grafica en el plano adjunto, que forma parte del presente decreto y cuyos l&#xED;mites son los siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/33680.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Zona T&#xED;pica a &quot;Las Casas del Ferrocarril de Antofagasta&quot;, ubicadas en la comuna, provincia y Regi&#xF3;n de Antofagasta.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida de los dos pol&#xED;gonos de la Zona T&#xED;pica tiene una superficie aproximada total de 9.050,80 mts.2, donde el pol&#xED;gono 1 consta de 2.830,14 mts.2 y el pol&#xED;gono 2 consta de 6.220,66 mts.2, como se grafica en el plano adjunto, que forma parte del presente decreto y cuyos l&#xED;mites son los siguientes:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/33680.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los art&#xED;culos primero y segundo del Decreto 50 Exento, Educaci&#xF3;n, publicado el 27.03.2026, disponen modificar la presente norma en el sentido de ampliar la zona de protecci&#xF3;n del pol&#xED;gono 1, conformando un &#xE1;rea protegida total de 2.874 m&#xB2; y asimismo, corregir la zona de protecci&#xF3;n del pol&#xED;gono 2, conformando un &#xE1;rea protegida total de 6.594 m&#xB2;, en los t&#xE9;rminos que indica el citado Decreto.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-10-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949781,
+          "old": "<div><div class=\"p\">Art&#xED;culo 8&#xB0;.- Para los efectos de la implantaci&#xF3;n de las normas de control que establece esta resoluci&#xF3;n y de la fiscalizaci&#xF3;n de su cumplimiento, constituyen lugares de trabajo, de acuerdo a lo establecido en el inciso 2&#xB0; del art&#xED;culo 31 del DFL No. 2, de 1967, del Ministerio del Trabajo y Previsi&#xF3;n Social, el recorrido de la respectiva l&#xED;nea o variante, sus garitas o terminales y las oficinas o locales en que funcione la administraci&#xF3;n de la misma cuando, en materias laborales, hubiere sido centralizada por los empleadores.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- Para los efectos de la implantaci&#xF3;n de<span class=\"n\" id=\"n_0\">RES 25, TRABAJO<br>N&#xB0; 1)<br>D.O. 28.01.1993</span> las normas de control que establece esta resoluci&#xF3;n y de conformidad a lo dispuesto en el art&#xED;culo 31 del D.F.L. N&#xB0; 2, de 1967, del Ministerio del Trabajo y Previsi&#xF3;n<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> Social, constituyen establecimientos y faenas los lugares , oficinas o locales en que los empleadores realizan actos o labores de administraci&#xF3;n de la actividad, sea que act&#xFA;en por s&#xED;, por otras personas o por sus organizaciones.</div><div class=\"p\">&nbsp; &nbsp; En caso que una l&#xED;nea o variante tenga dependencias u oficinas de administraci&#xF3;n, deber&#xE1; mantener all&#xED; la documentaci&#xF3;n laboral relacionada con el control de la jornada y horario de trabajo y con el c&#xE1;lculo de las remuneraciones y beneficios conexos, documentaci&#xF3;n de deber&#xE1; ser presentada a los funcionarios del Trabajo por las personas u organizaciones que realicen actos de administraci&#xF3;n por cuenta o encargo de los empresarios o empleadores respectivos.</div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El n&#xFA;mero 2) de la RES 25 dispuso que la modificaci&#xF3;n introducida regir&#xE1; desde el d&#xED;a 1&#xB0; del mes siguiente al de su publicaci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

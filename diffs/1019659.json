@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1971-09-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9059861,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  - Desde esta fecha, constituir&#xE1;n las Normas T&#xE9;cnicas en las materias correspondientes, los textos de los decretos que han sido derogados por el decreto de Interior N.o 1.280, arriba mencionado, y que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  - Decreto N&#xB0; 3.219, de Diciembre de 1926, que aprob&#xF3; el Reglamento de Medidores.</div><div class=\"p\">&nbsp; &nbsp;  - Decreto N&#xB0; 1.669, del 11 de Mayo de 1931, que aprob&#xF3; el Reglamento de </div><div class=\"p\">Instalaciones Interiores.</div><div class=\"p\">&nbsp; &nbsp;  - Decreto N.o 4.188, del 22 de Septiembre de 1955, que aprob&#xF3; el Reglamento de Instalaciones El&#xE9;ctricas de Corrientes Fuertes.</div><div class=\"p\">&nbsp; &nbsp;  - <a href=\"https://www.leychile.cl/Navegar?idNorma=1019658&amp;idParte=0&amp;idVersion=\">Decreto N.o 1.261, del 25 de Abril de 1957</a>, que aprob&#xF3; el Reglamento de Cruces y Paralelismos de L&#xED;neas El&#xE9;ctricas.</div><br></div>",
+          "new": "<div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  - Desde esta fecha, constituir&#xE1;n las Normas T&#xE9;cnicas en las materias correspondientes, los textos de los decretos que han sido derogados por el decreto de Interior N.o 1.280, arriba mencionado, y que se indican a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  - Decreto N&#xB0; 3.219, de Diciembre de 1926, que aprob&#xF3; el Reglamento de Medidores.</div><div class=\"p\">&nbsp; &nbsp;  - Decreto N&#xB0; 1.669, del 11 de Mayo de 1931, que aprob&#xF3; el Reglamento de Instalaciones Interiores.</div><div class=\"p\">&nbsp; &nbsp;  - Decreto N.o 4.188, del 22 de Septiembre de 1955, que aprob&#xF3; el Reglamento de Instalaciones El&#xE9;ctricas de Corrientes Fuertes.</div><div class=\"p\">&nbsp; &nbsp;  - Decreto N.o 1.261, del 25 de Abril de 1957, que aprob&#xF3; el Reglamento de Cruces y Paralelismos de L&#xED;neas El&#xE9;ctricas.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La resoluci&#xF3;n 33277 Exenta, Energ&#xED;a, publicada el 17.09.2020, deroga las normas t&#xE9;cnicas NSEG 5 E.n. 71, Electricidad. Instalaciones el&#xE9;ctricas de corrientes fuertes, y NSEG 6 E.n. 71, Electricidad. Cruces y paralelismos de l&#xED;neas el&#xE9;ctricas, las que hab&#xED;an sido declaradas mediante la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

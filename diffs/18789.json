@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-10-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8952334,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Des&#xED;gnase al Dr. Julio Montt Vidal, RUN.</div><div class=\"p\">6.996.660-8, en el cargo de Director del Servicio de</div><div class=\"p\">Salud Metropolitano Oriente, grado 2&#xB0; EUS., 40% de</div><div class=\"p\">asignaci&#xF3;n de responsabilidad superior, m&#xE1;s la</div><div class=\"p\">asignaci&#xF3;n profesional correspondiente de acuerdo al</div><div class=\"p\">Art. 19&#xB0; de la Ley N&#xB0; 19.185, en calidad de titular, a contar 1&#xB0; de Octubre de 1995.</div><div class=\"p\">&nbsp; &nbsp; 2.- El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza y por razones impostergables de buen servicio, la persona en referencia asumir&#xE1; en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp; 3.- Con la presente designaci&#xF3;n el Dr. Montt Vidal conserva el cargo de M&#xE9;dico Cirujano 22-28 horas, que sirve en calidad de titular en el Servicio de Salud Magallanes.</div><div class=\"p\">&nbsp; &nbsp; 4.- Imp&#xFA;tese el gasto correspondiente a los Item 21-01-001, 21-02-002 y 21-02-006 del Presupuesto del Servicio de Salud Metropolitano Oriente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Des&#xED;gnase al Dr. Julio Montt Vidal, RUN. 6.996.660-8, en el cargo de Director del Servicio de Salud Metropolitano Oriente, grado 2&#xB0; EUS., 40% de asignaci&#xF3;n de responsabilidad superior, m&#xE1;s la asignaci&#xF3;n profesional correspondiente de acuerdo al Art. 19&#xB0; de la Ley N&#xB0; 19.185, en calidad de titular, a contar 1&#xB0; de Octubre de 1995.</div><div class=\"p\">&nbsp; &nbsp; 2.- El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza y por razones impostergables de buen servicio, la persona en referencia asumir&#xE1; en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp; 3.- Con la presente designaci&#xF3;n el Dr. Montt Vidal<span class=\"n\" id=\"n_0\">DTO 352, SALUD<br>D.O.29.08.1997</span> conserva el cargo de M&#xE9;dico Cirujano 22-28 horas, que sirve en calidad de titular en el Servicio de Salud<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> Magallanes.</div><div class=\"p\">&nbsp; &nbsp; 4.- Imp&#xFA;tese el gasto correspondiente a los Item 21-01-001, 21-02-002 y 21-02-006 del Presupuesto del Servicio de Salud Metropolitano Oriente.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 352, de Salud, modifica a contar del 1 de Junio el presente Decreto en el sentido de dejar establecido que el Doctor adem&#xE1;s de conservar el cargo de M&#xE9;dico Cirujano 22-28 horas que sirve en el Servicio de Salud Magallanes, opta por las remuneraciones de dicho cargo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

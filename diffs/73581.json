@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-06-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8952665,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Digna Antonia Sep&#xFA;lveda Rioseco, madre del beneficiario, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Digna Antonia Sep&#xFA;lveda Rioseco, madre del beneficiario, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><div class=\"p\">&nbsp; &nbsp;  El DTO 1267, Interior, publicado el 12.01.2004, deja sin efecto la facultad concedida a do&#xF1;a Digna Sepulveda Rioseco por este art&#xED;culo y dispone que la pensi&#xF3;n ser&#xE1; cobrada por el beneficiario.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

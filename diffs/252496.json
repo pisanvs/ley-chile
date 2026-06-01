@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-02-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-10-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7331857,
+          "old": "<div><div class=\"p\">MODIFICA REGLAMENTO DE LA LEY DE PESCA Y ESTABLECE VEDA DE TAMA&#xD1;O, EXTRACCION Y COMERCIALIZACION DE OSTRAS </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 13 de Enero de 1977.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 20.- Vistos: lo informado por el Servicio Agr&#xED;cola y Ganadero en su oficio N&#xBA; 84, de fecha 5-1-77; lo dispuesto en el DFL. N&#xBA; 34, de 1931, Ley de Pesca; en el decreto supremo N&#xBA; 1.584, de 1934, del ex Ministerio de Fomento, que aprob&#xF3; el Reglamento de dicha ley y sus modificaciones posteriores; los decretos supremos N&#xBA;s. 603, de 1953; 181, de 1954, y 114, de 1970; el DFL. N&#xBA; 294, de 1960, y los decretos leyes N&#xBA;s. 1, de 1973, y 527 y 806, de 1974, y 1.028, de 1975, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que por decretos supremos N&#xBA;s. 603, de 1953; 181, de 1954, y 114, de 1970, se establecieron las vedas de tama&#xF1;o, extracci&#xF3;n y comercializaci&#xF3;n del molusco denominado ostra (ostrea chilensis).</div><div class=\"p\">&nbsp; &nbsp;  Que los estudios biol&#xF3;gicos realizados, especialmente en establecimientos de cultivo de ostras, permiten ampliar el per&#xED;odo de extracci&#xF3;n y comercializaci&#xF3;n de estas especies y fijar un nuevo tama&#xF1;o m&#xED;nimo de extracci&#xF3;n,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA REGLAMENTO DE LA LEY DE PESCA Y ESTABLECE VEDA DE TAMA&#xD1;O, EXTRACCION Y COMERCIALIZACION DE OSTRAS </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 13 de Enero de 1977.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 20.- Vistos: lo informado por el Servicio Agr&#xED;cola y Ganadero en su oficio N&#xBA; 84, de fecha 5-1-77; lo dispuesto en el DFL. N&#xBA; 34, de 1931, Ley de Pesca; en el decreto supremo N&#xBA; 1.584, de 1934, del ex Ministerio de Fomento, que aprob&#xF3; el Reglamento de dicha ley y sus modificaciones posteriores; los decretos supremos N&#xBA;s. 603, de 1953; 181, de 1954, y 114, de 1970; el DFL. N&#xBA; 294, de 1960, y los decretos leyes N&#xBA;s. 1, de 1973, y 527 y 806, de 1974, y 1.028, de 1975, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que por decretos supremos N&#xBA;s. 603, de 1953; 181, de 1954, y 114, de 1970, se establecieron las vedas de tama&#xF1;o, extracci&#xF3;n y comercializaci&#xF3;n del molusco denominado ostra (ostrea chilensis).</div><div class=\"p\">&nbsp; &nbsp;  Que los estudios biol&#xF3;gicos realizados, especialmente en establecimientos de cultivo de ostras, permiten ampliar el per&#xED;odo de extracci&#xF3;n y comercializaci&#xF3;n de estas especies y fijar un nuevo tama&#xF1;o m&#xED;nimo de extracci&#xF3;n,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

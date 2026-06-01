@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-04-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10111736,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Exti&#xE9;ndase por un lapso de 7 d&#xED;as, contados desde el vencimiento del plazo indicado en el inciso final del <a href=\"https://www.leychile.cl/Navegar?idNorma=1143540&amp;idParte=10109045&amp;idVersion=2020-04-01\">art&#xED;culo primero</a> del <a href=\"https://www.leychile.cl/Navegar?idNorma=1143540&amp;idVersion=2020-04-01\">decreto supremo N&#xBA; 102, de 2020, del Ministerio del Interior y Seguridad P&#xFA;blica</a>, la medida dispuesta en el inciso primero de dicho art&#xED;culo. Lo anterior, sin perjuicio que &#xE9;ste pueda ser modificado, en atenci&#xF3;n a la evoluci&#xF3;n que experimente el brote de Covid-19, en el territorio nacional.</div><br><br></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Exti&#xE9;ndase por un <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>lapso de 7 d&#xED;as, contados desde el vencimiento del plazo indicado en el inciso final del art&#xED;culo primero del decreto supremo N&#xBA; 102, de 2020, del Ministerio del Interior y Seguridad P&#xFA;blica, la medida dispuesta en el inciso primero de dicho art&#xED;culo. Lo anterior, sin perjuicio que &#xE9;ste pueda ser modificado, en atenci&#xF3;n a la evoluci&#xF3;n que experimente el brote de Covid-19, en el territorio nacional.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 180, Interior, publicado el 08.04.2020, modifica la presente norma en el sentido de extender por un lapso de 7 d&#xED;as, contados desde el vencimiento del plazo indicado en el presente art&#xED;culo. Lo anterior, sin perjuicio que &#xE9;ste pueda ser modificado, en atenci&#xF3;n a la evoluci&#xF3;n que experimente el brote de Covid-19, en el territorio nacional.</div></div>"
+        }
+      ]
+    }
+  }
+]

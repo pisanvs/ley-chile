@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-06-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-02-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9611052,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Del&#xE9;gase en el Subsecretario de Pesca y Acuicultura, en su calidad de Presidente del Consejo de Investigaci&#xF3;n Pesquera y de Acuicultura, la facultad de:</div><div class=\"p\">&nbsp; &nbsp;  1. Licitar, adjudicar, adquirir, contratar y suscribir contratos de investigaci&#xF3;n aprobados por el Consejo de Investigaci&#xF3;n Pesquera y de Acuicultura, de acuerdo a los mecanismos establecidos en la ley N&#xBA;19.886, y dictar los respectivos actos aprobatorios,</div><div class=\"p\">&nbsp; &nbsp;  2. Suscribir y aprobar los contratos de evaluadores externos de proyectos licitados por el Consejo de Investigaci&#xF3;n Pesquera y de Acuicultura.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Del&#xE9;gase en el Subsecretario de Pesca y Acuicultura, en su calidad de Presidente del Consejo de Investigaci&#xF3;n Pesquera y de Acuicultura, la facultad de:</div><div class=\"p\">&nbsp; &nbsp;  1. Licitar, adjudicar, adquirir, contratar y suscribir contratos de investigaci&#xF3;n aprobados por el Consejo de Investigaci&#xF3;n Pesquera y de Acuicultura, de acuerdo a los mecanismos establecidos en la ley N&#xBA;19.886, y dictar los respectivos actos aprobatorios,</div><div class=\"p\">&nbsp; &nbsp;  2. Suscribir y aprobar los contratos de evaluadores externos de proyectos licitados por el Consejo de Investigaci&#xF3;n Pesquera y de Acuicultura.</div><div class=\"p\">&nbsp; &nbsp;  3. Dictar, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1115507&amp;idParte=9889290&amp;idVersion=2018-02-22\">Decreto 127, ECONOM&#xCD;A<br>Art. 2<br>D.O. 22.02.2018</a></span>modificar y derogar bases administrativas tipo y contratos tipo, en conformidad a lo dispuesto en la resoluci&#xF3;n N&#xBA; 1.600, de 2008, de Contralor&#xED;a General de la Rep&#xFA;blica, y sus modificaciones.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1115507,
+      "fecha": "2018-02-22"
+    }
+  }
+]

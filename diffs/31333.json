@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-07-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-11-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6000591,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA EXISTENCIA Y APRUEBA ESTATUTOS A &quot;LE MANS DESARROLLO COMPA&#xD1;IA DE SEGUROS DE VIDA S.A.&quot; </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA EXISTENCIA Y APRUEBA ESTATUTOS A &quot;LE MANS DESARROLLO COMPA&#xD1;IA DE SEGUROS DE VIDA S.A.&quot; </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

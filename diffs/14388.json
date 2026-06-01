@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "1992-02-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-07-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7150583,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1. Establ&#xE9;cese el reglamento de funcionamiento interno del Consejo Asesor del Servicio Nacional de la Mujer:</div><div class=\"p\">&nbsp; &nbsp; a) Los integrantes del Consejo ser&#xE1;n designados por el Presidente de la Rep&#xFA;blica y permanecer&#xE1;n en sus cargos mientras cuenten con su confianza.</div><div class=\"p\">&nbsp; &nbsp; b) Los integrantes del Consejo desempe&#xF1;ar&#xE1;n sus funciones sin percibir por ello remuneraci&#xF3;n alguna.</div><div class=\"p\">&nbsp; &nbsp; c) Las sesiones del Consejo se realizar&#xE1;n el primer lunes de cada mes y requerir&#xE1;n un qu&#xF3;rum para sesionar del cincuenta por ciento de sus miembros para en primera citaci&#xF3;n, y de los presentes en segunda citaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; d) Oficinar&#xE1; como Secretario de Actas el Fiscal del Servicio Nacional de la Mujer. De estas actas se llevar&#xE1; un registro y una s&#xED;ntesis de los acuerdos y materias m&#xE1;s relevantes se remitir&#xE1; anualmente al Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; e) Extraordinariamente y en materias calificadas como de alta relevancia por el Director del Servicio, se emitir&#xE1; informe al Presidente de la Rep&#xFA;blica sobre asuntos tratados en el Consejo y que ameriten su pronto reconocimiento.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1. Establ&#xE9;cese el reglamento de funcionamiento interno del Consejo Asesor del Servicio Nacional de la Mujer:</div><div class=\"p\">&nbsp; &nbsp; a) Los integrantes del Consejo ser&#xE1;n designados por el Presidente de la Rep&#xFA;blica y permanecer&#xE1;n en sus cargos mientras cuenten con su confianza.</div><div class=\"p\">&nbsp; &nbsp; b) Los integrantes del Consejo desempe&#xF1;ar&#xE1;n sus funciones sin percibir por ello remuneraci&#xF3;n alguna.</div><div class=\"p\">&nbsp; &nbsp; c) Las sesiones del Consejo se realizar&#xE1;n una vez al mes<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=11001&amp;idParte=7141491&amp;idVersion=1994-07-23\">DTO 209, PLANIFICACI&#xD3;N<br>N&#xB0; 1<br>D.O. 23.07.1994</a></span> y requerir&#xE1;n un qu&#xF3;rum para sesionar del cincuenta por ciento de sus miembros para en primera citaci&#xF3;n, y de los presentes en segunda citaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; d) Oficinar&#xE1; como Secretario de Actas el funcionario<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=11001&amp;idParte=7141491&amp;idVersion=1994-07-23\">DTO 209, PLANIFICACI&#xD3;N<br>N&#xB0; 2<br>D.O. 23.07.1994</a></span> del Servicio Nacional de la Mujer, que la Directora determine. De estas actas se llevar&#xE1; un registro y una s&#xED;ntesis de los acuerdos y materias m&#xE1;s relevantes se remitir&#xE1; anualmente al Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; e) Extraordinariamente y en materias calificadas como de alta relevancia por el Director del Servicio, se emitir&#xE1; informe al Presidente de la Rep&#xFA;blica sobre asuntos tratados en el Consejo y que ameriten su pronto reconocimiento.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 11001,
+      "fecha": "1994-07-23"
+    }
+  },
+  {
+    "fecha": "2012-01-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7150583,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1. Establ&#xE9;cese el reglamento de funcionamiento interno del Consejo Asesor del Servicio Nacional de la Mujer:</div><div class=\"p\">&nbsp; &nbsp; a) Los integrantes del Consejo ser&#xE1;n designados por el Presidente de la Rep&#xFA;blica y permanecer&#xE1;n en sus cargos mientras cuenten con su confianza.</div><div class=\"p\">&nbsp; &nbsp; b) Los integrantes del Consejo desempe&#xF1;ar&#xE1;n sus funciones sin percibir por ello remuneraci&#xF3;n alguna.</div><div class=\"p\">&nbsp; &nbsp; c) Las sesiones del Consejo se realizar&#xE1;n una vez al mes<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=11001&amp;idParte=7141491&amp;idVersion=1994-07-23\">DTO 209, PLANIFICACI&#xD3;N<br>N&#xB0; 1<br>D.O. 23.07.1994</a></span> y requerir&#xE1;n un qu&#xF3;rum para sesionar del cincuenta por ciento de sus miembros para en primera citaci&#xF3;n, y de los presentes en segunda citaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; d) Oficinar&#xE1; como Secretario de Actas el funcionario<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=11001&amp;idParte=7141491&amp;idVersion=1994-07-23\">DTO 209, PLANIFICACI&#xD3;N<br>N&#xB0; 2<br>D.O. 23.07.1994</a></span> del Servicio Nacional de la Mujer, que la Directora determine. De estas actas se llevar&#xE1; un registro y una s&#xED;ntesis de los acuerdos y materias m&#xE1;s relevantes se remitir&#xE1; anualmente al Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; e) Extraordinariamente y en materias calificadas como de alta relevancia por el Director del Servicio, se emitir&#xE1; informe al Presidente de la Rep&#xFA;blica sobre asuntos tratados en el Consejo y que ameriten su pronto reconocimiento.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1. Establ&#xE9;cese el reglamento de funcionamiento interno del Consejo Asesor del Servicio Nacional de la Mujer:</div><div class=\"p\">&nbsp; &nbsp; a) Los integrantes del Consejo ser&#xE1;n designados por el Presidente de la Rep&#xFA;blica y permanecer&#xE1;n en sus cargos mientras cuenten con su confianza.</div><div class=\"p\">&nbsp; &nbsp; b) Los integrantes del Consejo desempe&#xF1;ar&#xE1;n sus funciones sin percibir por ello remuneraci&#xF3;n alguna.</div><div class=\"p\">&nbsp; &nbsp; c) La sesiones del Consejo se realizar&#xE1;n trimestralmente<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1036760&amp;idParte=9229911&amp;idVersion=2012-01-27\">Decreto 82, PLANIFICACI&#xD3;N<br>N&#xB0; 1<br>D.O. 27.01.2012</a></span> y requerir&#xE1;n un qu&#xF3;rum para sesionar del cincuenta por ciento de sus miembros en primera citaci&#xF3;n, y de los presentes en segunda citaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; d) Oficinar&#xE1; como Secretario de Actas el funcionario<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=11001&amp;idParte=7141491&amp;idVersion=1994-07-23\">DTO 209, PLANIFICACI&#xD3;N<br>N&#xB0; 2<br>D.O. 23.07.1994</a></span> del Servicio Nacional de la Mujer, que la Directora determine. De estas actas se llevar&#xE1; un registro y una s&#xED;ntesis de los acuerdos y materias m&#xE1;s relevantes se remitir&#xE1; anualmente al Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; e) Extraordinariamente y en materias calificadas como de alta relevancia por el Director del Servicio, se emitir&#xE1; informe al Presidente de la Rep&#xFA;blica sobre asuntos tratados en el Consejo y que ameriten su pronto reconocimiento.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1036760,
+      "fecha": "2012-01-27"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-09-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320638,
+          "old": "<div><div class=\"p\">AUTORIZA A COOPERATIVA DE PESCADORES MAULLIN LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COOPERATIVA DE PESCADORES MAULLIN LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

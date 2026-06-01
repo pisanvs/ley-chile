@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-12-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-04-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7223471,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION No. 6 DE 1989</div><br><div class=\"p\">N&#xFA;m. 7.- Santiago, 6 de Diciembre de 1990.- Vistos: Lo dispuesto en el art&#xED;culo 4&#xB0;, inciso noveno y und&#xE9;cimo del DL No. 3.059, de 1979, modificado por la Ley No. 18.454, de 1985, de Fomento a la Marina Mercante y los art&#xED;culos 24, 27, 28 Y 29 del DS No. 24 (T. Y T.), de 1986, reglamentario de la indicada ley, y</div><br><div class=\"p\">Considerando</div><br><div class=\"p\">Que por Resoluci&#xF3;n No. 6 de 12 de Diciembre de 1989, se excluy&#xF3; a las naves de bandera argentina y a las fletadas u operadas por empresas navieras de Argentina, del transporte de carga general de importaci&#xF3;n, procedente de terceros pa&#xED;ses, con destino a Chile.</div><br><div class=\"p\">Que la Comisi&#xF3;n del Art. 4&#xB0; del DL No. 3059/79, en Reuni&#xF3;n Ordinaria celebrada con fecha 21 de Septiembre de 1990, acord&#xF3; aceptar la proposici&#xF3;n que la delegaci&#xF3;n chilena dej&#xF3; establecida en el Acta de la Segunda Reuni&#xF3;n de Autoridades de Transporte Mar&#xED;timo de Chile y Argentina, efectuada en Buenos Aires los d&#xED;as 16 y 17 de Enero de 1990, en el sentido de modificar la indicada Resoluci&#xF3;n No. 6, con el objeto de facilitar y permitir que las navieras de ambos pa&#xED;ses, que celebren acuerdos o convenios para el transporte de cargas, puedan operar en tr&#xE1;ficos desde terceros pa&#xED;ses sin que les sea aplicable la exclusi&#xF3;n establecida en la Resoluci&#xF3;n se&#xF1;alada, y</div><br><div class=\"p\">Los antecedentes expuestos y en cumplimiento de lo acordado por la Comisi&#xF3;n,</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION No. 6 DE 1989</div><br><div class=\"p\">N&#xFA;m. 7.- Santiago, 6 de Diciembre de 1990.- Vistos: Lo dispuesto en el art&#xED;culo 4&#xB0;, inciso noveno y und&#xE9;cimo del DL No. 3.059, de 1979, modificado por la Ley No. 18.454, de 1985, de Fomento a la Marina Mercante y los art&#xED;culos 24, 27, 28 Y 29 del DS No. 24 (T. Y T.), de 1986, reglamentario de la indicada ley, y</div><br><div class=\"p\">Considerando</div><br><div class=\"p\">Que por Resoluci&#xF3;n No. 6 de 12 de Diciembre de 1989, se excluy&#xF3; a las naves de bandera argentina y a las fletadas u operadas por empresas navieras de Argentina, del transporte de carga general de importaci&#xF3;n, procedente de terceros pa&#xED;ses, con destino a Chile.</div><br><div class=\"p\">Que la Comisi&#xF3;n del Art. 4&#xB0; del DL No. 3059/79, en Reuni&#xF3;n Ordinaria celebrada con fecha 21 de Septiembre de 1990, acord&#xF3; aceptar la proposici&#xF3;n que la delegaci&#xF3;n chilena dej&#xF3; establecida en el Acta de la Segunda Reuni&#xF3;n de Autoridades de Transporte Mar&#xED;timo de Chile y Argentina, efectuada en Buenos Aires los d&#xED;as 16 y 17 de Enero de 1990, en el sentido de modificar la indicada Resoluci&#xF3;n No. 6, con el objeto de facilitar y permitir que las navieras de ambos pa&#xED;ses, que celebren acuerdos o convenios para el transporte de cargas, puedan operar en tr&#xE1;ficos desde terceros pa&#xED;ses sin que les sea aplicable la exclusi&#xF3;n establecida en la Resoluci&#xF3;n se&#xF1;alada, y</div><br><div class=\"p\">Los antecedentes expuestos y en cumplimiento de lo acordado por la Comisi&#xF3;n,</div><br><div class=\"p\">Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

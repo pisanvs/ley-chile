@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-01-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-02-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9878713,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Las exenciones de toma de raz&#xF3;n aludidas en los dos art&#xED;culos precedentes regir&#xE1;n desde el 1&#xBA; de febrero de 2018 al 1&#xBA; de febrero de 2019, ambas fechas inclusive.</div><div class=\"p\"> </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Las exenciones<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de toma de raz&#xF3;n aludidas en los dos art&#xED;culos precedentes regir&#xE1;n desde el 1&#xBA; de febrero de 2018 al 1&#xBA; de febrero de 2019, ambas fechas inclusive.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br> El art&#xED;culo 1&#xB0; de la Resoluci&#xF3;n N&#xB0; 4, Contralor&#xED;a, publicada el 11.02.2019, establece la pr&#xF3;rroga de la vigencia de la presente resoluci&#xF3;n, en cuanto a la exenci&#xF3;n de toma de raz&#xF3;n de las resoluciones y decretos se&#xF1;alados en su art&#xED;culo 1&#xB0; y 2&#xB0;, a contar del 1 de febrero de 2019 y hasta el 1 de febrero de 2020, ambas fechas inclusive.</div></div>"
+        }
+      ]
+    }
+  }
+]

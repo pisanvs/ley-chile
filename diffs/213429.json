@@ -1,0 +1,89 @@
+[
+  {
+    "fecha": "2003-08-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-02-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8427944,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;. Se declara &quot;Area Libre&quot; de las plagas cuarentenarias Globodera rostochiensis, Globodera pallida, Thecaphora solani (Angiosorus solani) y Ralstonia solanacearum (raza 3, biovar 2) a la provincia de Arauco, VIII Regi&#xF3;n y la IX, X y XI regiones inclusive.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;. Se declara Area Libre de las plagas<span class=\"n\" id=\"n_0\">RES 890 EXENTA,<br>AGRICULTURA<br>N&#xBA; 1 a)<br>D.O. 27.02.2006</span> cuarentenarias Globodera rostochiensis, Globodera pallida, Thecaphora solani (Angiosorus solani), Ralstonia solanacearum (raza 3, biovar 2) y Orobanche ramosa a la Provincia de Arauco - VIII Regi&#xF3;n y a las IX, X, XI y XII regiones inclusive.</div><br></div>"
+        },
+        {
+          "part_id": 8427953,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;. No se autoriza el tr&#xE1;nsito de papa por el Area Libre, tanto procedente del extranjero, como de las regiones I a la VIII (excepto Provincia de Arauco) y procedente de la XII Regi&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;. DEROGADO<span class=\"n\" id=\"n_1\">RES 890 EXENTA,<br>AGRICULTURA<br>N&#xBA; 1 b)<br>D.O. 27.02.2006</span> </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2008-05-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8427944,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;. Se declara Area Libre de las plagas<span class=\"n\" id=\"n_0\">RES 890 EXENTA,<br>AGRICULTURA<br>N&#xBA; 1 a)<br>D.O. 27.02.2006</span> cuarentenarias Globodera rostochiensis, Globodera pallida, Thecaphora solani (Angiosorus solani), Ralstonia solanacearum (raza 3, biovar 2) y Orobanche ramosa a la Provincia de Arauco - VIII Regi&#xF3;n y a las IX, X, XI y XII regiones inclusive.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=271072&amp;idParte=8435998&amp;idVersion=2008-05-12\">RES 2238 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1 a)<br>D.O. 12.05.2008</a></span>&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;. Se declara &#xC1;rea Libre de las plagas cuarentenarias de Globodera rostochiensis y Globodera pallida; Thecaphora solani y Ralstonia solanacearum (raza 3, biovar 2), a la Provincia de Arauco - Regi&#xF3;n del B&#xED;o-B&#xED;o, Regiones de la Araucan&#xED;a, de Los R&#xED;os, de Los Lagos, de Ais&#xE9;n del Gral. Carlos Ib&#xE1;&#xF1;ez del Campo y de Magallanes y Ant&#xE1;rtica Chilena inclusive.</div></div>"
+        },
+        {
+          "part_id": 8427950,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;. La fiscalizaci&#xF3;n del cumplimiento de esta resoluci&#xF3;n la efectuar&#xE1; el Servicio en los Controles Fitosanitarios establecidos en la Ruta 160, 180 y Ruta 5 Sur, sin perjuicio de las inspecciones que se realicen en estaciones de ferrocarriles, puertos, aeropuertos y rodoviarios, y en los controles fitosanitarios temporales que el Servicio establezca en la ubicaci&#xF3;n y &#xE9;poca que considere necesario. Dicha fiscalizaci&#xF3;n incluir&#xE1; adem&#xE1;s predios y bodegas de agricultores.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=271072&amp;idParte=8435998&amp;idVersion=2008-05-12\">RES 2238 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1 b)<br>D.O. 12.05.2008</a></span>&nbsp; &nbsp;  Art&#xED;culo 8&#xB0;. La fiscalizaci&#xF3;n del cumplimiento de esta resoluci&#xF3;n la efectuar&#xE1; el SAG en los Controles Fitosanitarios M&#xF3;viles Temporales que pudiere establecer, en la ubicaci&#xF3;n y &#xE9;poca que considere necesario, en las distintas rutas que comprende el &#xC1;rea Libre, lo cual estar&#xE1; condicionado a la presi&#xF3;n de ingreso de papas desde la zona norte, sin perjuicio de las inspecciones que se realicen en estaciones de ferrocarriles, puertos, aeropuertos y rodoviarios. Dicha fiscalizaci&#xF3;n incluir&#xE1; adem&#xE1;s predios y bodegas de agricultores.</div></div>"
+        },
+        {
+          "part_id": 8427951,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;. Los Controles Fitosanitarios establecidos corresponden a:</div><br><div class=\"p\">*&nbsp; &nbsp; Control Fitosanitario Laraquete, km. 51, Ruta 160, Provincia de Arauco, VIII Regi&#xF3;n.</div><div class=\"p\">*&nbsp; &nbsp; Control Fitosanitario Renaico, km. 37, Ruta 180, Provincia de Malleco, IX Regi&#xF3;n.</div><div class=\"p\">*&nbsp; &nbsp; Control Fitosanitario San Carlos de Pur&#xE9;n, km. 523, Ruta 5 sur, Provincia de B&#xED;o-B&#xED;o, VIII Regi&#xF3;n.</div><div class=\"p\">*&nbsp; &nbsp; Puerto de Punta Arenas y Puerto de Puerto Natales, y Control Fronterizo Integraci&#xF3;n Austral, XII Regi&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Los transportistas que trasladen al sur productos afectos a esta resoluci&#xF3;n, deber&#xE1;n detenerse en los Controles Fitosanitarios establecidos, presentar y solicitar el visado de la Gu&#xED;a de Libre Tr&#xE1;nsito o Gu&#xED;a de Despacho; seg&#xFA;n corresponda, dando las facilidades para la inspecci&#xF3;n y verificaci&#xF3;n de las mismas.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=271072&amp;idParte=8435998&amp;idVersion=2008-05-12\">RES 2238 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1 c)<br>D.O. 12.05.2008</a></span>&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;. Dentro del &#xC1;rea Libre, en coordinaci&#xF3;n con Carabineros de Chile, se realizar&#xE1;n controles carreteros al transporte de carga, para lo cual se realizar&#xE1; la fiscalizaci&#xF3;n en peajes, recintos de servicios (zonas de descanso, zona de pesajes u otros) u otras &#xE1;reas que el SAG estime conveniente.</div><div class=\"p\">&nbsp; &nbsp;  Los transportistas que ingresen al &#xC1;rea Libre productos afectos a esta resoluci&#xF3;n, deber&#xE1;n detenerse en dichos Controles Fitosanitarios M&#xF3;viles Temporales, presentar y solicitar el visado de la Gu&#xED;a de Libre Tr&#xE1;nsito o Gu&#xED;a de Despacho, seg&#xFA;n corresponda, dando las facilidades para la inspecci&#xF3;n y verificaci&#xF3;n de las mismas.</div><div class=\"p\">&nbsp; &nbsp;  En caso de que el transportista no sea fiscalizado en alguno de estos Controles Fitosanitarios M&#xF3;viles Temporales, &#xE9;ste deber&#xE1; acercarse a la Oficina SAG m&#xE1;s cercana al lugar del primer destino de la carga una vez ingresado al &#xC1;rea Libre, a modo que un inspector verifique la documentaci&#xF3;n y el estado de los sellos.</div></div>"
+        },
+        {
+          "part_id": 8427953,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;. DEROGADO<span class=\"n\" id=\"n_1\">RES 890 EXENTA,<br>AGRICULTURA<br>N&#xBA; 1 b)<br>D.O. 27.02.2006</span> </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;. DEROGADO<span class=\"n\" id=\"n_3\">RES 890 EXENTA,<br>AGRICULTURA<br>N&#xBA; 1 b)<br>D.O. 27.02.2006</span> </div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 271072,
+      "fecha": "2008-05-12"
+    }
+  },
+  {
+    "fecha": "2009-10-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8427944,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=271072&amp;idParte=8435998&amp;idVersion=2008-05-12\">RES 2238 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1 a)<br>D.O. 12.05.2008</a></span>&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;. Se declara &#xC1;rea Libre de las plagas cuarentenarias de Globodera rostochiensis y Globodera pallida; Thecaphora solani y Ralstonia solanacearum (raza 3, biovar 2), a la Provincia de Arauco - Regi&#xF3;n del B&#xED;o-B&#xED;o, Regiones de la Araucan&#xED;a, de Los R&#xED;os, de Los Lagos, de Ais&#xE9;n del Gral. Carlos Ib&#xE1;&#xF1;ez del Campo y de Magallanes y Ant&#xE1;rtica Chilena inclusive.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1006869&amp;idParte=8787577&amp;idVersion=2009-10-03\">Resoluci&#xF3;n 5169 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 03.10.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;. Se declara &#xC1;rea Libre de Globodera rostochiensis, Globodera pallida, Thecaphora solani y Ralstonia solanacearum (raza 3, biovar 2), al territorio continental de la Provincia de Arauco - Regi&#xF3;n VIII del B&#xED;o-B&#xED;o, Regi&#xF3;n IX de la Araucan&#xED;a, Regi&#xF3;n XIV de Los R&#xED;os, Regi&#xF3;n X de Los Lagos, Regi&#xF3;n XI de Ays&#xE9;n del Gral. Carlos Ib&#xE1;&#xF1;ez del Campo y Regi&#xF3;n XII de Magallanes y de la Ant&#xE1;rtica Chilena.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1006869,
+      "fecha": "2009-10-03"
+    }
+  },
+  {
+    "fecha": "2016-07-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

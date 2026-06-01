@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2004-02-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-08-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6464690,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase a que servicios rurales de locomoci&#xF3;n colectiva de la X Regi&#xF3;n de Los Lagos, prestados con buses de una capacidad igual o superior a 30 asientos, cuyos recorridos sean de una longitud de m&#xE1;s de 50 Km., puedan transportar hasta un m&#xE1;ximo de 20 pasajeros de pie.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Der&#xF3;gase la resoluci&#xF3;n exenta N&#xBA; 40 de 1993, de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la X Regi&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Dej<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1148851&amp;idParte=10154401&amp;idVersion=2020-08-31\">Resoluci&#xF3;n 497 EXENTA,<br>TRANSPORTES<br>D.O. 31.08.2020</a></span>a sin Efecto.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Der&#xF3;gase la resoluci&#xF3;n exenta N&#xBA; 40 de 1993, de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la X Regi&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1148851,
+      "fecha": "2020-08-31"
+    }
+  }
+]

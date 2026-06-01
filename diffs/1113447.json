@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-02-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9873718,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- D&#xE9;jense sin efecto, por los motivos anteriormente citados, las adjudicaciones correspondientes a las organizaciones singularizadas a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/75037.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- Readjud&#xED;quense los recursos disponibles a las siguientes Organizaciones:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/75038.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  3.- Imp&#xFA;tase el gasto de los proyectos restantes al Subt&#xED;tulo 24, &#xCD;tem 03, Asignaci&#xF3;n 318, &quot;Fondo de Fortalecimiento de Organizaciones y Asociaciones de Inter&#xE9;s P&#xFA;blico (Ley 20.500)&quot;, del presupuesto vigente de este Ministerio.</div><div class=\"p\">&nbsp; &nbsp;  4.- Publ&#xED;quese el listado de los proyectos adjudicados con las sumas a ellos asignadas en la p&#xE1;gina web www.fondodefortalecimiento.gob.cl.</div><div class=\"p\">&nbsp; &nbsp;  5.- Notif&#xED;quese a las organizaciones adjudicadas para que concurran a la suscripci&#xF3;n del respectivo convenio de adjudicaci&#xF3;n del proyecto.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- D&#xE9;jense sin efecto, por los motivos anteriormente citados, las adjudicaciones correspondientes a las organizaciones singularizadas a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/75037.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- Readjud&#xED;quense los recursos disponibles a las siguientes Organizaciones:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/75038.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  3.- Imp&#xFA;tase el gasto de los proyectos restantes al Subt&#xED;tulo 24, &#xCD;tem 03, Asignaci&#xF3;n 318, &quot;Fondo de Fortalecimiento de Organizaciones y Asociaciones de Inter&#xE9;s P&#xFA;blico (Ley 20.500)&quot;, del presupuesto vigente de este Ministerio.</div><div class=\"p\">&nbsp; &nbsp;  4.- Publ&#xED;quese el listado de los proyectos adjudicados con las sumas a ellos asignadas en la p&#xE1;gina web www.fondodefortalecimiento.gob.cl.</div><div class=\"p\">&nbsp; &nbsp;  5.- Notif&#xED;quese a las organizaciones adjudicadas para que concurran a la suscripci&#xF3;n del respectivo convenio de adjudicaci&#xF3;n del proyecto.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 258 Exenta, publicada el 21.02.2018, modifica la presente norma, en el sentido de dejar sin efecto la adjudicaci&#xF3;n hecha a la Organizaci&#xF3;n Unidad Vecinal 11 Uni&#xF3;n Besa, RUT 75.935.220-3.</div></div>"
+        }
+      ]
+    }
+  }
+]

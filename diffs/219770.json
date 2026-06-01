@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2004-01-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6457555,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: El Premio al M&#xE9;rito Funcionario se otorgar&#xE1; anualmente, en la segunda semana del mes de diciembre y consistir&#xE1; en un diploma firmado por el Ministro de Educaci&#xF3;n, el Subsecretario de Educaci&#xF3;n y el Presidente de la Asociaci&#xF3;n Nacional de Funcionarios del Ministerio de Educaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1047833&amp;idParte=9324940&amp;idVersion=2013-01-05\">Decreto 277,<br>EDUCACI&#xD3;N<br>Art. PRIMERO<br>D.O. 05.01.2013</a></span>&nbsp; &nbsp;  Art&#xED;culo segundo: El Premio al M&#xE9;rito Funcionario se otorgar&#xE1; anualmente, y consistir&#xE1; en un diploma firmado por el Ministro de Educaci&#xF3;n, el Subsecretario de Educaci&#xF3;n y el Presidente de la Asociaci&#xF3;n Nacional de Funcionarios del Ministerio de Educaci&#xF3;n.</div><br><br></div>"
+        },
+        {
+          "part_id": 6457557,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: La postulaci&#xF3;n al presente Premio podr&#xE1; presentarla cualquier persona de las se&#xF1;aladas en el art&#xED;culo primero o instituci&#xF3;n vinculada a la Educaci&#xF3;n o a la Cultura entre los meses de septiembre y octubre de cada a&#xF1;o.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: La postulaci&#xF3;n al presente Premio podr&#xE1; presentarla cualquier persona de las se&#xF1;aladas en el art&#xED;culo primero o instituci&#xF3;n vinculada a la Educaci&#xF3;n o a la Cultura, en los pla<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1047833&amp;idParte=9324941&amp;idVersion=2013-01-05\">Decreto 277,<br>EDUCACI&#xD3;N<br>Art. SEGUNDO<br>D.O. 05.01.2013</a></span>zos establecidos en la convocatoria respectiva.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1047833,
+      "fecha": "2013-01-05"
+    }
+  }
+]

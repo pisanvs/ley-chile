@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1995-10-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-09-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8272334,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Decl&#xE1;ranse normas oficiales de la Rep&#xFA;blica de Chile las siguientes:</div><div class=\"p\">&nbsp; &nbsp; NCh 2265 Gas natural comprimido - Inspecci&#xF3;n peri&#xF3;dica de cilindros de acero sin costura para uso en veh&#xED;culos motorizados.</div><div class=\"p\">&nbsp; &nbsp; NCh 2293 Artefactos para calefacci&#xF3;n local, que usan combustibles gaseosos - Estufas conectadas con circuito abierto de combusti&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Decl&#xE1;ranse normas oficiales de la Rep&#xFA;blica de Chile las siguientes:</div><div class=\"p\">&nbsp; &nbsp; NCh 2265 Gas natural comprimido - Inspecci&#xF3;n peri&#xF3;dica de cilindros de acero sin costura para uso en veh&#xED;culos motorizados.</div><div class=\"p\">&nbsp; &nbsp; NCh 2293 ANULA Y<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1005607&amp;idParte=8775805&amp;idVersion=2009-09-02\">Resolucion 1535 EXENTO,<br>ECONOMIA<br>Art. 2<br>D.O. 02.09.2009</a></span> REEMPLAZA.</div><br><br><br><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1005607,
+      "fecha": "2009-09-02"
+    }
+  }
+]

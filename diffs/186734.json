@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-06-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-01-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6339796,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 217 EXENTO, DE 2001 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 217 EXENTO, DE 2001</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

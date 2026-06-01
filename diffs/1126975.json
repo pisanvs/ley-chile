@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-12-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9981069,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Incorp&#xF3;rase en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1093256&amp;idParte=9720142&amp;idVersion=\">art&#xED;culo primero</a> de la resoluci&#xF3;n exenta N&#xBA; 3.724, de 2016, del Ministerio de Educaci&#xF3;n, que asigna tramos para la transici&#xF3;n al Sistema de Desarrollo Profesional Docente, de conformidad al p&#xE1;rrafo 2&#xBA; transitorio de la ley N&#xBA; 20.903, de los profesionales de la educaci&#xF3;n que indica, y se&#xF1;ala bienios que corresponda, al profesional de la educaci&#xF3;n individualizado en el documento de formato port&#xE1;til bajo el t&#xED;tulo &quot;NicanorBurgos&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1214802&amp;idParte=10554280&amp;idVersion=2025-07-09\">Resoluci&#xF3;n 8294 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 09.07.2025</a></span>Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1214802,
+      "fecha": "2025-07-09"
+    }
+  }
+]

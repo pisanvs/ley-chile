@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1978-12-13",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1989-04-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7132800,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DECRETO N&#xB0; 29, DE 1976 HACIENDA Aprueba el Reglamento del Sistema de Pron&#xF3;sticos Deportivos, establecido por el decreto ley 1.298, de 1975</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el &quot;Diario Oficial&quot; N&#xB0; 29.373, de 5 de febrero de 1976)</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 29.- Santiago, 14 de enero de 1976.- Vistos: lo dispuesto en el decreto ley 1.298, de 1975,</div><div class=\"p\">&nbsp; &nbsp; DECRETO:</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

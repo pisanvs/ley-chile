@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938181,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; El l&#xED;mite del 10% del capital pagado y reservas para los cr&#xE9;ditos, en moneda nacional o extranjera, que pueden conceder los bancos para el financiamiento de obras p&#xFA;blicas fiscales ejecutados por el sistema de concesi&#xF3;n contemplado en el Decreto con Fuerza de Ley N&#xB0; 164, de 1991, del Ministerio de Obras P&#xFA;blicas, siempre que en la respectiva operaci&#xF3;n de cr&#xE9;dito concurran dos o m&#xE1;s bancos o sociedades financieras que hayan suscrito un convenio de cr&#xE9;dito con el constructor o concesionario del proyecto, proceder&#xE1; siempre que se cumpla con las siguientes exigencias:</div><div class=\"p\">&nbsp; &nbsp; a) Las empresas constructoras o concesionarias del proyecto deber&#xE1;n estar ubicadas en una de las dos mejores clasificaciones de sujetos de cr&#xE9;dito de los bancos que otorgan el financiamiento o calificar para alguna de ellas;</div><div class=\"p\">&nbsp; &nbsp; b) Las empresas constructoras o concesionarias, para la fase de explotaci&#xF3;n del proyecto de infraestructura, deber&#xE1;n contar, para precaver la recuperaci&#xF3;n del cr&#xE9;dito para el banco prestamista, con ingresos m&#xED;nimos garantizados por el Estado o un seguro de car&#xE1;cter privado que garantice dichos ingresos, los que se constituir&#xE1;n en garant&#xED;a total o parcial de su obligaci&#xF3;n ante la respectiva entidad crediticia.</div><div class=\"p\">&nbsp; &nbsp; c) Las empresas constructoras o concesionarias del proyecto deber&#xE1;n tener un capital no inferior al que se exige a las empresas registradas en el Ministerio de Obras P&#xFA;blicas en la m&#xE1;s alta categor&#xED;a, de acuerdo a los art&#xED;culos 11 y siguientes del D.S. N&#xB0; 15, del M.O.P., de 1992.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; El l&#xED;mite del 15% del capital pagado y reservas para<span class=\"n\" id=\"n_0\">DTO 1410, HACIENDA<br>letra a)<br>D.O.07.02.1997</span> los cr&#xE9;ditos, en moneda nacional o extranjera, que pueden conceder los bancos para el financiamiento de obras p&#xFA;blicas fiscales ejecutados por el sistema de concesi&#xF3;n contemplado en el Decreto con Fuerza de Ley N&#xB0; 164, de 1991, del Ministerio de Obras P&#xFA;blicas, siempre que dichos cr&#xE9;ditos est&#xE9;n garantizados con la prenda<span class=\"n\" id=\"n_1\">DTO 1410, HACIENDA<br>letra b)<br>D.O.07.02.1997</span> especial de concesi&#xF3;n de obra contemplada en el referido cuerpo legal, o que en la respectiva operaci&#xF3;n de cr&#xE9;dito concurran dos o m&#xE1;s bancos o sociedades financieras que hayan suscrito un convenio de cr&#xE9;dito con el constructor o concesionario del proyecto, proceder&#xE1; siempre que se cumpla con las siguientes exigencias:</div><div class=\"p\">&nbsp; &nbsp; a) Las empresas constructoras o concesionarias del proyecto deber&#xE1;n estar ubicadas en una de las dos mejores clasificaciones de sujetos de cr&#xE9;dito de los bancos que otorgan el financiamiento o calificar para alguna de ellas;</div><div class=\"p\">&nbsp; &nbsp; b) Las empresas constructoras o concesionarias, para la fase de explotaci&#xF3;n del proyecto de infraestructura, deber&#xE1;n contar, para precaver la recuperaci&#xF3;n del cr&#xE9;dito para el banco prestamista, con ingresos m&#xED;nimos garantizados por el Estado o un seguro de car&#xE1;cter privado que garantice dichos ingresos, los que se constituir&#xE1;n en garant&#xED;a total o parcial de su obligaci&#xF3;n ante la respectiva entidad crediticia.</div><div class=\"p\">&nbsp; &nbsp; c) Las empresas constructoras o concesionarias del proyecto deber&#xE1;n tener un capital no inferior al que se exige a las empresas registradas en el Ministerio de Obras P&#xFA;blicas en la m&#xE1;s alta categor&#xED;a, de acuerdo a los art&#xED;culos 11 y siguientes del D.S. N&#xB0; 15, del M.O.P., de 1992.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

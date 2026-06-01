@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-02-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-07-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6369348,
+          "old": "<div><div class=\"p\">NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA JUREL DEL ARTICULO 1&#xBA; DEL D.S. N&#xBA; 545 DE 1998, DEL MINISTERIO DE ECONOMIA, FOMENTO Y RECONSTRUCCI&#xD3;N. DEJA SIN EFECTO RESOLUCION QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA JUREL DEL ARTICULO 1&#xBA; DEL D.S. N&#xBA; 545 DE 1998, DEL MINISTERIO DE ECONOMIA, FOMENTO Y RECONSTRUCCI&#xD3;N. DEJA SIN EFECTO RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949586,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Confi&#xE9;rese el Patrocinio del Gobierno y decl&#xE1;rase Internacional la Exposici&#xF3;n Internacional de Soluciones T&#xE9;cnicas para el Medio Ambiente, Expoambienta&apos;97, organizada por la Sociedad Nacional de Agricultura -Federaci&#xF3;n Gremial- que se llevar&#xE1; a efecto en Santiago, entre los d&#xED;as 30 de septiembre y 4 de octubre de 1997, ambas fechas inclusive.</div><div class=\"p\">&nbsp; &nbsp;  2.- Habil&#xED;tase como Recinto Ferial en Santiago, para el desarrollo de la Exposici&#xF3;n a que se refiere este decreto, el denominado Centroriente Fisa, ubicado en Avenida Las Condes N&#xBA; 13451, comuna de Las Condes, cuyos deslindes son:</div><div class=\"p\">&nbsp; &nbsp;  a) Un lote de terreno de una parte del inmueble denominado Tercera Hijuela Sierra Bella de la Hacienda Las Condes, que deslinda: Al Norte, en cuarenta y siete metros con Avenida Las Condes; Al Sur, en cuarenta y siete metros con resto de la propiedad del se&#xF1;or Magofke; Al Oriente, en setenta y siete coma treinta metros con propiedad del se&#xF1;or Magofke,&nbsp; y al Poniente, en ochenta y ocho coma sesenta metros con propiedad actual de Comercial y Financiera Aconcagua S.A.C.</div><div class=\"p\">&nbsp; &nbsp;  b) Propiedad de Avenida Las Condes n&#xFA;mero trece mil cuatrocientos cincuenta y uno, que deslinda: Al Norte, en ciento treinta y ocho metros con Avenida Las Condes, y en treinta y cuatro coma quince metros con terrenos de la Municipalidad de Las Condes; Al Sur, en ciento sesenta y dos coma sesenta metros en parte con lote diecis&#xE9;is y en parte con terreno de don Carlos Magofke; Al Oriente, en setenta y siete coma treinta metros con propiedad del se&#xF1;or Magofke, y al Poniente, en ciento uno coma cincuenta metros con Avenida Fern&#xE1;ndez Concha y en veinte metros con Consultorio M&#xE9;dico de la Municipalidad de Las&nbsp; Condes.</div><div class=\"p\">&nbsp; &nbsp;  c) Propiedad de Avenida Las Condes n&#xFA;mero trece mil cuatrocientos treinta y uno, que deslinda: Al Norte, en treinta y siete coma treinta metros con camino p&#xFA;blico de Santiago a Las Condes; Al Sur, en treinta y cinco metros con resto de la parcela trece; Al Oriente, treinta y siete coma ochenta metros con el resto de la parcela trece, y al Poniente, en cincuenta metros con camino de entrada a las casas de la antigua Hacienda Las Condes, hoy Avenida Fern&#xE1;ndez Concha.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Confi&#xE9;rese el Patrocinio del Gobierno y decl&#xE1;rase Internacional la Exposici&#xF3;n Internacional de Soluciones T&#xE9;cnicas para el Medio Ambiente, Expoambienta&apos;97, organizada por la Sociedad Nacional de Agricultura -Federaci&#xF3;n Gremial- que se llevar&#xE1; a efecto en Santiago, entre los d&#xED;as 30 de septiembre y 4 de octubre de 1997, ambas fechas inclusive.</div><div class=\"p\">&nbsp; &nbsp; 2.- Habil&#xED;tase como recinto Ferial en Santiago,<span class=\"n\" id=\"n_0\">DTO 211 EX, HACIENDA<br>D.O. 04.08.1997</span> para el desarrollo de la Feria a que se refiere este Decreto, el denominado Fisa-Maip&#xFA;, en la comuna de Maip&#xFA;, cuyos deslindes son:</div><br><br><div class=\"p\">Al Norte&nbsp; &nbsp;  : en 150 metros con Avenida 5 de Abril.</div><div class=\"p\">Al Sur&nbsp; &nbsp; &nbsp;  : en 693,3 metros con Camino a Melipilla.</div><div class=\"p\">Al Oriente&nbsp;  : en 607,7 metros con propiedad de General</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Motors de Chile Ltda.</div><div class=\"p\">Al Poniente&nbsp; : en 887,7 metros con propiedad de Industrias</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pizarre&#xF1;o S.A.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

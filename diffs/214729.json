@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-09-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-06-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6440056,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto exento N&#xBA; 558 de fecha 19 de agosto de 2003, se expropi&#xF3; el lote N&#xBA; 8, superficie de 1.403,46 m&#xB2;, Rol de Aval&#xFA;o N&#xBA; 8-5, comuna de Coltauco, para el proyecto &quot;Construcci&#xF3;n Lotes con Servicio Coltauco Centro II Etapa&quot;, propietarias do&#xF1;a Irene Carmen Irribarra Guajardo y do&#xF1;a Juana Isabel Irribarra Guajardo, ascendente a la suma de $9.212.490.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto exento N&#xBA; 558 de fecha 19 de agosto de 2003, se expropi&#xF3; el lote N&#xBA; 8, superficie de 4.309,00 m&#xB2;, DTO 337, Rol de Aval&#xFA;o N&#xBA; 8-5, comuna de Coltauco, para el proyecto M. DE COLTAUCO &quot;Construcci&#xF3;n Lotes con Servicio Coltauco Centro II&nbsp; &nbsp; &nbsp; &nbsp; D.O. 19.06.2004 Etapa&quot;, propietarias do&#xF1;a Irene Carmen Irribarra Guajardo y do&#xF1;a Juana Isabel Irribarra Guajardo, ascendente a la suma de $9.212.490.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

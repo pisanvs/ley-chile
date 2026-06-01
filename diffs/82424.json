@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-08-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313644,
+          "old": "<div><div class=\"p\">AUTORIZA A ALIMENTOS MULTIEXPORT S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A ALIMENTOS MULTIEXPORT S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

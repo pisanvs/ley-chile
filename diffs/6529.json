@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-11-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1985-12-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8257198,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NUEVO REGIMEN LEGAL PARA LA INDUSTRIA AUTOMOTRIZ</div><div class=\"p\">&nbsp; &nbsp; Santiago, 28 de Octubre de 1975.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.239.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- La necesidad de racionalizar en el pa&#xED;s la instalaci&#xF3;n de empresas terminales automotrices destinadas a la fabricaci&#xF3;n de autom&#xF3;viles, camiones y sus respectivos derivados, como asimismo la producci&#xF3;n de piezas, partes y conjuntos automotrices de la industria auxiliar proceedora o de las propias empresas terminales;</div><div class=\"p\">&nbsp; &nbsp; 2.- La urgencia que reviste el desenvolvimiento de la industria automotriz nacional para alcanzar niveles de eficiencia y tecnolog&#xED;a, lo que requiere de una econom&#xED;a de escala para lograr precios razonables para el consumo interno y posibilidades para competir en el mercado internacional.</div><div class=\"p\">&nbsp; &nbsp; Vistos: lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973; 527 y 536, de 1974</div><div class=\"p\">&nbsp; &nbsp; la Excma. Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">ESTABLECE NUEVO REGIMEN LEGAL PARA LA INDUSTRIA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> AUTOMOTRIZ</div><div class=\"p\">&nbsp; &nbsp; Santiago, 28 de Octubre de 1975.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.239.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- La necesidad de racionalizar en el pa&#xED;s la instalaci&#xF3;n de empresas terminales automotrices destinadas a la fabricaci&#xF3;n de autom&#xF3;viles, camiones y sus respectivos derivados, como asimismo la producci&#xF3;n de piezas, partes y conjuntos automotrices de la industria auxiliar proceedora o de las propias empresas terminales;</div><div class=\"p\">&nbsp; &nbsp; 2.- La urgencia que reviste el desenvolvimiento de la industria automotriz nacional para alcanzar niveles de eficiencia y tecnolog&#xED;a, lo que requiere de una econom&#xED;a de escala para lograr precios razonables para el consumo interno y posibilidades para competir en el mercado internacional.</div><div class=\"p\">&nbsp; &nbsp; Vistos: lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973; 527 y 536, de 1974</div><div class=\"p\">&nbsp; &nbsp; la Excma. Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 20 de la LEY 18483, publicada el 28.12.1985, derog&#xF3; a contar del 1&#xBA; de enero de 1986, este decreto ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

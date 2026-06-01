@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1978-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-02-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7337380,
+          "old": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE LA NORMA QUE INDICA Y DEJA SIN EFECTO NORMAS QUE SE&#xD1;ALA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 10 de Enero de 1978.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 29.- Visto: el oficio N&#xBA; 545, de 14 de Diciembre de 1977, de la Divisi&#xF3;n de Pol&#xED;tica Habitacional; el informe sobre la materia del Jefe del Departamento de Normalizaci&#xF3;n de la misma Divisi&#xF3;n; la proposici&#xF3;n de fecha 17 de Noviembre de 1977, del Instituto Nacional de Normalizaci&#xF3;n, y sus informes anexos; el art&#xED;culo 13&#xBA;, letra c), del D.L. N&#xBA; 1.305, de 1976, y el art&#xED;culo 3&#xBA;, incisos 5&#xBA; y 6&#xBA; del D.S. n&#xFA;mero 458 (V. y U.), de 18 de Diciembre de 1975, publicado en el Diario Oficial de 13 de Abril de 1976, que contiene la Ley General de Urbanismo y Construcciones, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE LA NORMA QUE INDICA Y DEJA SIN EFECTO NORMAS QUE SE&#xD1;ALA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 10 de Enero de 1978.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 29.- Visto: el oficio N&#xBA; 545, de 14 de Diciembre de 1977, de la Divisi&#xF3;n de Pol&#xED;tica Habitacional; el informe sobre la materia del Jefe del Departamento de Normalizaci&#xF3;n de la misma Divisi&#xF3;n; la proposici&#xF3;n de fecha 17 de Noviembre de 1977, del Instituto Nacional de Normalizaci&#xF3;n, y sus informes anexos; el art&#xED;culo 13&#xBA;, letra c), del D.L. N&#xBA; 1.305, de 1976, y el art&#xED;culo 3&#xBA;, incisos 5&#xBA; y 6&#xBA; del D.S. n&#xFA;mero 458 (V. y U.), de 18 de Diciembre de 1975, publicado en el Diario Oficial de 13 de Abril de 1976, que contiene la Ley General de Urbanismo y Construcciones, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

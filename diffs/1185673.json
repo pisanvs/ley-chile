@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2022-12-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10384544,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base el programa de expropiaciones para la ejecuci&#xF3;n del Proyecto &quot;Mejoramiento Avenida Alonso de Ercilla&quot;, Rengo, para el a&#xF1;o 2022 y siguientes, c&#xF3;digo BIP 30091584-0, seg&#xFA;n lo detallado en el considerando 1. de este decreto y planos de expropiaciones singularizados en el Visto e) y f), referido a los inmuebles que se indican a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/157118.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese el presente decreto en el Diario Oficial y en un peri&#xF3;dico de la provincia del Cachapoal, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base el programa de expropiaciones para la ejecuci&#xF3;n del Proyecto &quot;Mejoramiento Avenida Alonso de Ercilla&quot;, Rengo, para el a&#xF1;o 2022 y siguientes, c&#xF3;digo BIP 30091584-0, seg&#xFA;n lo detallado en el considerando 1. de este decreto y planos de expropiaciones singularizados en el Visto e) y f), referido a los inmuebles que se indican a <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/157118.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese el presente decreto en el Diario Oficial y en un peri&#xF3;dico de la provincia del Cachapoal, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; del Decreto 51 Exento, Vivienda, publicado el 03.01.2024, modifica la presente norma que aprueba el Programa de Expropiaciones de Terrenos destinados a la implementaci&#xF3;n del proyecto denominado &quot;Mejoramiento Avenida Alonso de Ercilla&quot;, de la comuna de Rengo, Regi&#xF3;n del Libertador Bernardo O&apos;Higgins, en el sentido de ampliarlo, incorporando un sexto lote en el cuadro contenido en su n&#xFA;mero 1, y reemplazando consecuentemente la fila de total, por las que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2011-06-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-10-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9149576,
+          "old": "<div><br><div class=\"p\">I.&nbsp;  Modif&#xED;case la <a href=\"https://www.leychile.cl/Navegar?idNorma=204353&amp;idParte=0&amp;idVersion=\">resoluci&#xF3;n N&#xBA; 3.418, de 2002</a>, que establece requisitos de internaci&#xF3;n para estructuras subterr&#xE1;neas de reproducci&#xF3;n vegetativa de especies ornamentales en lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Agr&#xE9;gase en el resuelvo n&#xFA;mero 4, para las especies Cyclamen spp. y Dahlia spp. la siguiente excepci&#xF3;n para la plaga Erwinia chrysanthemi: &quot;(excepto pv. dianthicola)&quot;.</div><br><div class=\"p\">II.&nbsp; Modif&#xED;case la <a href=\"https://www.leychile.cl/Navegar?idNorma=1003815&amp;idParte=0&amp;idVersion=\">resoluci&#xF3;n N&#xBA; 3.288, de 2009</a>, que establece requisitos fitosanitarios para la importaci&#xF3;n de plantas de Sansevieria spp. para propagaci&#xF3;n, procedentes de Costa Rica, en lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Agr&#xE9;gase en el resuelvo n&#xFA;mero 1.2, a continuaci&#xF3;n de la plaga Erwinia chrysanthemi, lo siguiente: &quot;(excepto pv. dianthicola)&quot;.</div><br></div>",
+          "new": "<div><br><div class=\"p\">I.&nbsp;  Modif&#xED;case la resoluci&#xF3;n N&#xBA; 3.418, de 2002, que establece requisitos de internaci&#xF3;n para estructuras subterr&#xE1;neas de reproducci&#xF3;n vegetativa de especies ornamentales en lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Agr&#xE9;gase en el resuelvo n&#xFA;mero 4, para las especies Cyclamen spp. y Dahlia spp. la siguiente excepci&#xF3;n para la plaga Erwinia chrysanthemi: &quot;(excepto pv. dianthicola)&quot;.</div><br><div class=\"p\">II. Eliminad<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1194189&amp;idParte=10443029&amp;idVersion=2023-10-15\">Resoluci&#xF3;n 4166 EXENTA,<br>AGRICULTURA<br>N&#xB0; 2<br>D.O. 14.07.2023</a></span>o.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1194189,
+      "fecha": "2023-10-15"
+    }
+  },
+  {
+    "fecha": "2027-04-01",
+    "tipo_version_s": "Con Vigencia Diferida por Fecha",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9149576,
+          "old": "<div><br><div class=\"p\">I.&nbsp;  Modif&#xED;case la resoluci&#xF3;n N&#xBA; 3.418, de 2002, que establece requisitos de internaci&#xF3;n para estructuras subterr&#xE1;neas de reproducci&#xF3;n vegetativa de especies ornamentales en lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Agr&#xE9;gase en el resuelvo n&#xFA;mero 4, para las especies Cyclamen spp. y Dahlia spp. la siguiente excepci&#xF3;n para la plaga Erwinia chrysanthemi: &quot;(excepto pv. dianthicola)&quot;.</div><br><div class=\"p\">II. Eliminad<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1194189&amp;idParte=10443029&amp;idVersion=2023-10-15\">Resoluci&#xF3;n 4166 EXENTA,<br>AGRICULTURA<br>N&#xB0; 2<br>D.O. 14.07.2023</a></span>o.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">I.&nbsp; Eliminado<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1214856&amp;idParte=10554501&amp;idVersion=2026-04-01\">Resoluci&#xF3;n 5042 EXENTA,<br>AGRICULTURA<br>N&#xB0; 2<br>D.O. 11.07.2025</a></span>.</div><br><div class=\"p\">II. Eliminado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-08-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320300,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MARIA MAGDALENA GONZALEZ OYARZUN PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MARIA MAGDALENA GONZALEZ OYARZUN PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "fecha": "2012-09-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-07-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9298898,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Instit&#xFA;yase desde el primer lunes de octubre de cada a&#xF1;o, y durante 7 d&#xED;as, la &quot;Semana de las Empresas de Menor Tama&#xF1;o.&quot;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Instit&#xFA;yase<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053088&amp;idParte=9366538&amp;idVersion=2013-07-24\">Decreto 56,<br>ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 24.07.2013</a></span> la primera semana de octubre de cada a&#xF1;o, como la &quot;Semana de las Empresas de Menor Tama&#xF1;o&quot;, la que podr&#xE1; incluir los &#xFA;ltimos d&#xED;as de septiembre para efectos de calcular su inicio.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-12-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9298898,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Instit&#xFA;yase<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053088&amp;idParte=9366538&amp;idVersion=2013-07-24\">Decreto 56,<br>ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 24.07.2013</a></span> la primera semana de octubre de cada a&#xF1;o, como la &quot;Semana de las Empresas de Menor Tama&#xF1;o&quot;, la que podr&#xE1; incluir los &#xFA;ltimos d&#xED;as de septiembre para efectos de calcular su inicio.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1072737&amp;idParte=9542181&amp;idVersion=2014-12-18\">Decreto 205, ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 18.12.2014</a></span>&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Instit&#xFA;yese durante el mes de octubre de cada a&#xF1;o la &quot;Semana de las Empresas de Menor Tama&#xF1;o&quot;, la que podr&#xE1; incluir los &#xFA;ltimos d&#xED;as de septiembre o comienzos de noviembre para efectos de su c&#xE1;lculo.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-12-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9298898,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1072737&amp;idParte=9542181&amp;idVersion=2014-12-18\">Decreto 205, ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 18.12.2014</a></span>&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Instit&#xFA;yese durante el mes de octubre de cada a&#xF1;o la &quot;Semana de las Empresas de Menor Tama&#xF1;o&quot;, la que podr&#xE1; incluir los &#xFA;ltimos d&#xED;as de septiembre o comienzos de noviembre para efectos de su c&#xE1;lculo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Instit&#xFA;yase durante los meses<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1127106&amp;idParte=9982645&amp;idVersion=2018-12-27\">Decreto 142, ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 27.12.2018</a></span> de octubre o noviembre de cada a&#xF1;o la &quot;Semana de las Empresas de Menor Tama&#xF1;o&quot;, la que podr&#xE1; incluir los &#xFA;ltimos d&#xED;as de septiembre para efectos de su c&#xE1;lculo.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1127106,
+      "fecha": "2018-12-27"
+    }
+  }
+]

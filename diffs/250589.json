@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1962-04-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-07-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9005218,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico. El&#xE9;vase en diez cent&#xE9;simos de escudo el valor de la entrada a las salas de juego y cabaret del Casino Municipal de Vi&#xF1;a del Mar.</div><div class=\"p\">&nbsp; &nbsp;  Este aumento de valor, que estar&#xE1; exento de todo impuesto, se destinar&#xE1; &#xED;ntegramente a incrementar el fondo de indemnizaci&#xF3;n por a&#xF1;os de servicios del personal de empleados y obreros del referido Casino. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- DEROGADO<span class=\"n\" id=\"n_0\">DL 567, HACIENDA<br>Art. 1&#xBA;<br>D.O. 20.07.1974</span>&nbsp; </div></div>"
+        }
+      ]
+    }
+  }
+]

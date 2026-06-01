@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-11-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-03-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9387451,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnase a contar de esta fecha, por razones impostergables de buen servicio, el siguiente orden de subrogaci&#xF3;n en el cargo de Director de la Divisi&#xF3;n de Organizaciones Sociales, en caso de ausencia del titular:</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Christian Schalper Schwencke, Director de la Divisi&#xF3;n de Administraci&#xF3;n y Finanzas, Directivo, Titular, grado 2 EUS.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Felipe Enrique Nazar Massuh, Jefe de la Unidad de Asesor&#xED;a Jur&#xED;dica, Directivo, Titular, grado 4 EUS.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Luis Andr&#xE9;s Venegas Rivas, Director de la Divisi&#xF3;n Secretar&#xED;a de Comunicaci&#xF3;n y Cultura, Directivo, Titular, grado 2 EUS.</div><div class=\"p\">&nbsp; &nbsp;  2.- Mant&#xE9;ngase vigente el <a href=\"https://www.leychile.cl/Navegar?idNorma=1041930&amp;idParte=0&amp;idVersion=\">decreto exento N&#xBA; 302, de 5 de julio de 2012, del Ministerio Secretar&#xED;a General de Gobierno</a>, en todo lo no modificado por el presente acto administrativo.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnase a contar de esta fecha, por razones impostergables de buen servicio, el siguiente orden de subrogaci&#xF3;n en el cargo de Director de la Divisi&#xF3;n de Organizaciones Sociales, en caso de ausencia del titular:</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Christian Schalper Schwencke, Director de la Divisi&#xF3;n de Administraci&#xF3;n y Finanzas, Directivo, Titular, grado 2 EUS.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Felipe Enrique Nazar Massuh, Jefe de la Unidad de Asesor&#xED;a Jur&#xED;dica, Directivo, Titular, grado 4 EUS.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Luis Andr&#xE9;s Venegas Rivas, Director de la Divisi&#xF3;n Secretar&#xED;a de Comunicaci&#xF3;n y Cultura, Directivo, Titular, grado 2 EUS.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0; Mar&#xED;a Paula Catal&#xE1;n Brangier, Jefe de la Unidad de Estudio y Desarrollo, Profesional, Grado 6 E.U.S.</div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1060080&amp;idParte=9412543&amp;idVersion=2014-03-06\">Decreto 39 EXENTO,<br>SEC. GRAL. GOB.<br>N&#xB0; 2<br>D.O. 06.03.2014</a></span></div><div class=\"p\">&nbsp; &nbsp;  2.- Mant&#xE9;ngase vigente el decreto exento N&#xBA; 302, de 5 de julio de 2012, del Ministerio Secretar&#xED;a General de Gobierno, en todo lo no modificado por el presente acto administrativo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1060080,
+      "fecha": "2014-03-06"
+    }
+  }
+]

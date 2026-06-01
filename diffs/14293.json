@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1964-12-31",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1976-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8974673,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Ministerio de Agricultura APRUEBA EL REGLAMENTO PARA LA APLICACION DE PESTICIDAS Y ESTABLECE LA CUANTIA DE LAS MULTAS QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el &quot;Diario Oficial&quot; N&#xB0; 26.027, de 30 de diciembre de 1964).</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 567. - Santiago, 27 de Octubre de 1964. - Vistos: Las disposiciones de la ley N.o 15.703, de 1.o de Octubre de 1964, sobre Pesticidas y la facultad que me confiere el art&#xED;culo 72.o, N.o 2, de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento para la aplicaci&#xF3;n de la ley N.o 15.703, sobre Pesticidas:</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

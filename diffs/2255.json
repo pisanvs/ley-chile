@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-12-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-10-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7402213,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA ORDENANZA N&#xB0; 108, de 1996</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 124.- Providencia, 29 de noviembre de 1996.- Vistos: Lo dispuesto por los art&#xED;culos 5 letra d), 10, 56 letra i), 58 letra j) y 69 letra b) de la Ley N&#xB0; 18.695 de 1988, Org&#xE1;nica Constitucional de Municipalidades, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que mediante Ordenanza N&#xB0; 108 de 23 de agosto de 1996, se aprob&#xF3; la Ordenanza sobre &quot;Estacionamientos Controlados por Parqu&#xED;metros&quot;.</div><div class=\"p\">&nbsp; &nbsp; 2.- El Memor&#xE1;ndum N&#xB0; 705 de 14 de noviembre de 1996, del Director de Tr&#xE1;nsito (S).</div><div class=\"p\">&nbsp; &nbsp; 3.- El Ord. N&#xB0; 426 sin fecha del Asesor Jur&#xED;dico (S).</div><div class=\"p\">&nbsp; &nbsp; 4.- El Acuerdo N&#xB0; 743 tomado en Sesi&#xF3;n Ordinaria N&#xB0; 194 de 26 de noviembre de 1996 del Concejo Municipal.</div><div class=\"p\">&nbsp; &nbsp; O r d e n a n z a:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA ORDENANZA N&#xB0; 108, de 1996</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 124.- Providencia, 29 de noviembre de 1996.- Vistos: Lo dispuesto por los art&#xED;culos 5 letra d), 10, 56 letra i), 58 letra j) y 69 letra b) de la Ley N&#xB0; 18.695 de 1988, Org&#xE1;nica Constitucional de Municipalidades, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que mediante Ordenanza N&#xB0; 108 de 23 de agosto de 1996, se aprob&#xF3; la Ordenanza sobre &quot;Estacionamientos Controlados por Parqu&#xED;metros&quot;.</div><div class=\"p\">&nbsp; &nbsp; 2.- El Memor&#xE1;ndum N&#xB0; 705 de 14 de noviembre de 1996, del Director de Tr&#xE1;nsito (S).</div><div class=\"p\">&nbsp; &nbsp; 3.- El Ord. N&#xB0; 426 sin fecha del Asesor Jur&#xED;dico (S).</div><div class=\"p\">&nbsp; &nbsp; 4.- El Acuerdo N&#xB0; 743 tomado en Sesi&#xF3;n Ordinaria N&#xB0; 194 de 26 de noviembre de 1996 del Concejo Municipal.</div><div class=\"p\">&nbsp; &nbsp; O r d e n a n z a:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

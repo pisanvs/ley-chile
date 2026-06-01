@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-07-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6057419,
+          "old": "<div><div class=\"p\">AUTORIZA CIRCULAR EL VEHICULO QUE INDICA EN DIAS SABADOS, DOMINGOS Y FESTIVOS, SIN LA OBLIGACION DE LLEVAR PINTADO EL DISCO DISTINTIVO ESTATAL</div><br><div class=\"p\">N&#xFA;m. 117.- Santiago, 03 de Junio de 1991.- Visto: Las necesidades del Servicio, el Decreto Ley No. 799 de 1974, modificado por el DFL No. 12-2345 de 1979 y el art&#xED;culo 14 de la Ley No. 18.267 de 1983, y Considerando: Que, mediante el Decreto Supremo No. 100 de fecha 13.06.83 se autoriz&#xF3; al autom&#xF3;vil de la Direcci&#xF3;n de Vialidad para circular los d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos, sin la obilgaci&#xF3;n de llevar pintado el disco distintivo estatal, en atenci&#xF3;n a las funciones propias del Director de Vialidad......</div><div class=\"p\">Que, es necesario dejar sin efecto el Decreto Supremo No. 100, mencionado, en consideraci&#xF3;n a que se reemplazar&#xE1; el autom&#xF3;vil autorizado.</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA CIRCULAR EL VEHICULO QUE INDICA EN DIAS SABADOS, DOMINGOS Y FESTIVOS, SIN LA OBLIGACION DE LLEVAR PINTADO EL DISCO DISTINTIVO ESTATAL</div><br><div class=\"p\">N&#xFA;m. 117.- Santiago, 03 de Junio de 1991.- Visto: Las necesidades del Servicio, el Decreto Ley No. 799 de 1974, modificado por el DFL No. 12-2345 de 1979 y el art&#xED;culo 14 de la Ley No. 18.267 de 1983, y Considerando: Que, mediante el Decreto Supremo No. 100 de fecha 13.06.83 se autoriz&#xF3; al autom&#xF3;vil de la Direcci&#xF3;n de Vialidad para circular los d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos, sin la obilgaci&#xF3;n de llevar pintado el disco distintivo estatal, en atenci&#xF3;n a las funciones propias del Director de Vialidad......</div><div class=\"p\">Que, es necesario dejar sin efecto el Decreto Supremo No. 100, mencionado, en consideraci&#xF3;n a que se reemplazar&#xE1; el autom&#xF3;vil autorizado.</div><br><div class=\"p\">Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

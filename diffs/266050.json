@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1956-05-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-07-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7357251,
+          "old": "<div><div class=\"p\">APRUEBA EL ESTATUTO DE LOS TRABAJADORES DEL COBRE </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 313.- Santiago, 30 de Abril de 1956.- Visto: estos antecedentes, el texto aprobado por la Comisi&#xF3;n Especial encargada de proponer el Estatuto de los Trabajadores del Cobre, y lo dispuesto en los art&#xED;culos 22.o&nbsp; de la ley 11,828, de 5 de Mayo de 1955, y &#xFA;nico de la ley 12,010, de 25 de Febrero de 1956,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  El siguiente ser&#xE1; el texto del Estatuto de los Trabajadores del Cobre:</div><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA EL ESTATUTO DE LOS TRABAJADORES DEL COBRE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1:</a></div></div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 313.- Santiago, 30 de Abril de 1956.- Visto:</div><div class=\"p\">estos antecedentes, el texto aprobado por la Comisi&#xF3;n Especial encargada de proponer el Estatuto de los Trabajadores del Cobre, y lo dispuesto en los art&#xED;culos 22.o&nbsp; de la ley 11,828, de 5 de Mayo de 1955, y &#xFA;nico de la ley 12,010, de 25 de Febrero de 1956,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  El siguiente ser&#xE1; el texto del Estatuto de los Trabajadores del Cobre:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; Ver el DTO 307, Trabajo, publicado el 27.07.1970, que fija el texto definitivo de la presente norma.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 10 del DL 2759, Trabajo, publicado el 06.07.1979, deroga la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

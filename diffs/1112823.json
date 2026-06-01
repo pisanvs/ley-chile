@@ -1,0 +1,61 @@
+[
+  {
+    "fecha": "2017-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-11-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9868419,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase la circulaci&#xF3;n en d&#xED;as s&#xE1;bado, domingo y festivos y sin sujeci&#xF3;n a jornada ordinaria de trabajo, de los veh&#xED;culos de propiedad del Instituto de Desarrollo Agropecuario que a continuaci&#xF3;n se indican, asignados a las Direcciones Regionales que m&#xE1;s adelante se detalla, para efectuar labores propias del servicio, a saber:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74509.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto el <a href=\"https://www.leychile.cl/Navegar?idNorma=1104858&amp;idParte=&amp;idVersion=\">decreto exento N&#xB0; 97, de 2017, del Ministerio de Agricultura</a>.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase la circulaci&#xF3;n en d&#xED;as s&#xE1;bado, domingo y festivos y sin sujeci&#xF3;n a jornada ordinaria de trabajo, de los veh&#xED;culos de propiedad del Instituto de Desarrollo Agropecuario que a continuaci&#xF3;n se indican, asignados a las Direcciones Regionales que m&#xE1;s adelante se detalla, para efectuar labores propias del servicio, a saber<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74509.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto el decreto exento N&#xB0; 97, de 2017, del Ministerio de Agricultura.</div><div class=\"p\"> </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp;  El art&#xED;culo primero del decreto 50, agricultura, publicado el 14.11.2014, modifican la presente norma en el sentido de sustituir los veh&#xED;culos signados los n&#xFA;meros 1, 15 y 16, por los que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-04-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9868419,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase la circulaci&#xF3;n en d&#xED;as s&#xE1;bado, domingo y festivos y sin sujeci&#xF3;n a jornada ordinaria de trabajo, de los veh&#xED;culos de propiedad del Instituto de Desarrollo Agropecuario que a continuaci&#xF3;n se indican, asignados a las Direcciones Regionales que m&#xE1;s adelante se detalla, para efectuar labores propias del servicio, a saber<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74509.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto el decreto exento N&#xB0; 97, de 2017, del Ministerio de Agricultura.</div><div class=\"p\"> </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp;  El art&#xED;culo primero del decreto 50, agricultura, publicado el 14.11.2014, modifican la presente norma en el sentido de sustituir los veh&#xED;culos signados los n&#xFA;meros 1, 15 y 16, por los que la citada norma indica.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase la circulaci&#xF3;n en d&#xED;as s&#xE1;bado, domingo y festivos y sin sujeci&#xF3;n a jornada ordinaria de trabajo, de los veh&#xED;culos de propiedad del Instituto de Desarrollo Agropecuario que a continuaci&#xF3;n se indican, asignados a las Direcciones Regionales que m&#xE1;s adelante se detalla, para efectuar labores propias del servicio, a saber<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74509.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto el decreto exento N&#xB0; 97, de 2017, del Ministerio de Agricultura.</div><div class=\"p\"> </div><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp;  El art&#xED;culo primero del decreto 50, agricultura, publicado el 14.11.2014, modifican la presente norma en el sentido de sustituir los veh&#xED;culos signados los n&#xFA;meros 1, 15 y 16, por los que la citada norma indica.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 10 Exento, Agricultura, publicado el 19.04.2021, modifica la presente norma en el sentido de dejar sin efecto la tabla contenida en el presente resuelvo en lo referido a los veh&#xED;culos signados en los n&#xFA;meros 8, 11 y 21, y reemplazarlos por los que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-12-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9868419,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase la circulaci&#xF3;n en d&#xED;as s&#xE1;bado, domingo y festivos y sin sujeci&#xF3;n a jornada ordinaria de trabajo, de los veh&#xED;culos de propiedad del Instituto de Desarrollo Agropecuario que a continuaci&#xF3;n se indican, asignados a las Direcciones Regionales que m&#xE1;s adelante se detalla, para efectuar labores propias del servicio, a saber<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74509.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto el decreto exento N&#xB0; 97, de 2017, del Ministerio de Agricultura.</div><div class=\"p\"> </div><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp;  El art&#xED;culo primero del decreto 50, agricultura, publicado el 14.11.2014, modifican la presente norma en el sentido de sustituir los veh&#xED;culos signados los n&#xFA;meros 1, 15 y 16, por los que la citada norma indica.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 10 Exento, Agricultura, publicado el 19.04.2021, modifica la presente norma en el sentido de dejar sin efecto la tabla contenida en el presente resuelvo en lo referido a los veh&#xED;culos signados en los n&#xFA;meros 8, 11 y 21, y reemplazarlos por los que la citada norma indica.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase la circulaci&#xF3;n en d&#xED;as s&#xE1;bado, domingo y festivos y sin sujeci&#xF3;n a jornada ordinaria de trabajo, de los veh&#xED;culos de propiedad del Instituto de Desarrollo Agropecuario que a continuaci&#xF3;n se indican, asignados a las Direcciones Regionales que m&#xE1;s adelante se detalla, para efectuar labores propias del servicio, a saber<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div>:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74509.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto el decreto exento N&#xB0; 97, de 2017, del Ministerio de Agricultura.</div><div class=\"p\"> </div><br><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp;  El art&#xED;culo primero del decreto 50, agricultura, publicado el 14.11.2014, modifican la presente norma en el sentido de sustituir los veh&#xED;culos signados los n&#xFA;meros 1, 15 y 16, por los que la citada norma indica.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 10 Exento, Agricultura, publicado el 19.04.2021, modifica la presente norma en el sentido de dejar sin efecto la tabla contenida en el presente resuelvo en lo referido a los veh&#xED;culos signados en los n&#xFA;meros 8, 11 y 21, y reemplazarlos por los que la citada norma indica.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El numeral 2&#xB0; del Decreto 65 Exento, Agricultura, publicado el 14.12.2021, que a su vez modifica el Decreto 10 Exento, Agricultura, publicado el 19.04.2021, dispone eliminar de la tabla el Veh&#xED;culo Placa Patente N&#xB0; LHTX-48-4, signado en el n&#xFA;mero 8 de la tabla de la presente norma. Sin embargo, se consigna que en la modificaci&#xF3;n de la citada norma se individualiza un Veh&#xED;culo Placa Patente N&#xB0; LHTZ-48-4.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-04-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

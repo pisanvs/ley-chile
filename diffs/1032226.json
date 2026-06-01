@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-11-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-07-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9202644,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Autor&#xED;zase a Servicios de Ingenier&#xED;a Sinco Ltda., RUT 78.355.760-6, representada legalmente por el Sr. Luis H&#xE9;ctor P&#xE9;rez, RUT 14.516.335-8, ubicada en Vergara N&#xBA; 1037, comuna de Conc&#xF3;n, Regi&#xF3;n de Valpara&#xED;so, como Organismo de Inspecci&#xF3;n y Laboratorio de Ensayo de estanques estacionarios para almacenamiento y tuber&#xED;as de proceso y transporte de GNL, utilizados en Plantas de GNL, de acuerdo a las actividades indicadas en la Tabla I y Tabla II, se&#xF1;aladas en el Considerando 1&#xBA; de la presente resoluci&#xF3;n, pudiendo con ello otorgar los correspondientes Informes y/o Certificados de Inspecci&#xF3;n o Ensayos.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El profesional habilitado para firmar los Informes y/o Certificados de Inspecci&#xF3;n o Ensayos correspondientes, y que cumple con los requisitos establecidos en la normativa legal vigente, es el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  . Luis H&#xE9;ctor P&#xE9;rez, RUT 14.516.335-8.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xBA; La presente autorizaci&#xF3;n s&#xF3;lo ser&#xE1; v&#xE1;lida para ejercer con la infraestructura f&#xED;sica y humana evaluada por esta Superintendencia, y sujeta al estricto cumplimiento de las disposiciones legales, reglamentarias y normativas vigentes, especialmente las citadas en los Vistos de la presente resoluci&#xF3;n exenta.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de la fecha de publicaci&#xF3;n en el Diario Oficial.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Autor&#xED;zase a Servicios de Ingenier&#xED;a Sinco Ltda., RUT 78.355.760-6, representad<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>a legalmente por el Sr. Luis H&#xE9;ctor P&#xE9;rez, RUT 14.516.335-8, ubicada en Vergara N&#xBA; 1037, comuna de Conc&#xF3;n, Regi&#xF3;n de Valpara&#xED;so, como Organismo de Inspecci&#xF3;n y Laboratorio de Ensayo de estanques estacionarios para almacenamiento y tuber&#xED;as de proceso y transporte de GNL, utilizados en Plantas de GNL, de acuerdo a las actividades indicadas en la Tabla I y Tabla II, se&#xF1;aladas en el Considerando 1&#xBA; de la presente resoluci&#xF3;n, pudiendo con ello otorgar los correspondientes Informes y/o Certificados de Inspecci&#xF3;n o Ensayos.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El profesional habilitado para firmar los Informes y/o Certificados de Inspecci&#xF3;n o Ensayos correspondientes, y que cumple con los requisitos establecidos en la normativa legal vigente, es el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  . Luis H&#xE9;ctor P&#xE9;rez, RUT 14.516.335-8.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xBA; La presente autorizaci&#xF3;n s&#xF3;lo ser&#xE1; v&#xE1;lida para ejercer con la infraestructura f&#xED;sica y humana evaluada por esta Superintendencia, y sujeta al estricto cumplimiento de las disposiciones legales, reglamentarias y normativas vigentes, especialmente las citadas en los Vistos de la presente resoluci&#xF3;n exenta.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de la fecha de publicaci&#xF3;n en el Diario Oficial.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 13494 Exenta, Energ&#xED;a, publicada el 05.07.2016, modifica la presente norma, en el sentido de autorizar a la Sra. Patricia Salvador P&#xE9;rez, RUT: 21.210.402-7, como profesional habilitada de Servicios de Ingenier&#xED;a Sinco Ltda., para firmar Informes y/o certificados de Inspecci&#xF3;n o Ensayos, en su actuar como Organismo de Inspecci&#xF3;n y Laboratorio de Ensayo de estanques estacionarios para almacenamiento y tuber&#xED;as de proceso y transporte de GNL, utilizados en Plantas de GNL.</div></div>"
+        }
+      ]
+    }
+  }
+]

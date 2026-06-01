@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-07-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7346949,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Dentro de los 12 meses siguientes a la publicaci&#xF3;n de la presente ley, los trabajadores perceptores del ingreso m&#xED;nimo mensual tendr&#xE1;n derecho a un curso de capacitaci&#xF3;n laboral. Los desembolsos que demande la referida actividad de capacitaci&#xF3;n podr&#xE1;n ser compensados por las empresas con las obligaciones tributarias que las afecten de conformidad a lo establecido en los art&#xED;culos 35 y siguientes de la ley N&#xB0; 19.518. Con todo, respecto de las empresas que no puedan impetrar la franquicia tributaria precedentemente aludida, el curso a que se refiere este art&#xED;culo podr&#xE1; financiarse con cargo al Fondo Nacional de Capacitaci&#xF3;n administrado por el Servicio Nacional de Capacitaci&#xF3;n y Empleo. Un decreto supremo expedido por el Ministerio del Trabajo y Previsi&#xF3;n Social, suscrito adem&#xE1;s por el Ministro de Hacienda, regular&#xE1; todas las condiciones necesarias para el otorgamiento del beneficio a que se refiere este art&#xED;culo.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Dentro de los 12 meses siguientes a la publicaci&#xF3;n del reglamento que regula las condiciones<span class=\"n\" id=\"n_0\">LEY 20233<br>Art. 33<br>D.O. 06.12.2007</span> para el otorgamiento del beneficio a que se refiere este art&#xED;culo, los trabajadores perceptores del ingreso m&#xED;nimo mensual tendr&#xE1;n derecho a un curso de capacitaci&#xF3;n laboral. Los desembolsos que demande la referida actividad de capacitaci&#xF3;n podr&#xE1;n ser compensados por las empresas con las obligaciones tributarias que las afecten de conformidad a lo establecido en los art&#xED;culos 35 y siguientes de la ley N&#xB0; 19.518. Con todo, respecto de las empresas que no puedan impetrar la franquicia tributaria precedentemente aludida, el curso a que se refiere este art&#xED;culo podr&#xE1; financiarse con cargo al Fondo Nacional de Capacitaci&#xF3;n administrado por el Servicio Nacional de Capacitaci&#xF3;n y Empleo. Un decreto supremo expedido por el Ministerio del Trabajo y Previsi&#xF3;n Social, suscrito adem&#xE1;s por el Ministro de Hacienda, regular&#xE1; todas las condiciones necesarias para el otorgamiento del beneficio a que se refiere este art&#xED;culo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

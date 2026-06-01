@@ -1,0 +1,54 @@
+[
+  {
+    "fecha": "2017-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-03-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9760375,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las Contralor&#xED;as Regionales Metropolitanas de Santiago tendr&#xE1;n las siguientes Unidades:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a.- Unidad Jur&#xED;dica.</div><div class=\"p\">&nbsp; &nbsp;  b.- Unidad Jur&#xED;dica de Infraestructura y Regulaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  c.- Unidad de Personal y Responsabilidad Administrativa.</div><div class=\"p\">&nbsp; &nbsp;  d.- Dos Unidades de Auditor&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  e.- Unidad de Atenci&#xF3;n y Denuncia Ciudadana.</div><div class=\"p\">&nbsp; &nbsp;  f.- Unidad de Auditor&#xED;a de Obras.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, formar&#xE1;n parte de las Contralor&#xED;as Regionales Metropolitanas, la Unidad T&#xE9;cnica de Control Externo, la Unidad de Apoyo al Cumplimiento, la Unidad de An&#xE1;lisis Contable y la Oficina de Partes, las que depender&#xE1;n directamente, en cada una de ellas, del respectivo Contralor Regional. Asimismo, contar&#xE1;n con un administrador regional y un coordinador inform&#xE1;tico.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las Contralor&#xED;as Regionales Metropolitanas de Santiago tendr&#xE1;n las siguientes Unidades:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a.- Unidad Jur&#xED;dica.</div><div class=\"p\">&nbsp; &nbsp;  b.- Unidad Jur&#xED;dica de Infraestructura y Regulaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  c.- Unidad de Personal y Responsabilidad Administrativa.</div><div class=\"p\">&nbsp; &nbsp;  d.- Tres <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1101376&amp;idParte=9784861&amp;idVersion=2017-03-29\">Resoluci&#xF3;n 13,<br>CONTRALOR&#xCD;A GRAL.<br>N&#xB0; 1<br>D.O. 29.03.2017</a></span>Unidades de Auditor&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  e.- Unidad de Atenci&#xF3;n y Denuncia Ciudadana.</div><div class=\"p\">&nbsp; &nbsp;  f.- Unidad de Auditor&#xED;a de Obras.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, formar&#xE1;n parte de las Contralor&#xED;as Regionales Metropolitanas, la Unidad T&#xE9;cnica de Control Externo, la Unidad de Apoyo al Cumplimiento, la Unidad de An&#xE1;lisis Contable y la Oficina de Partes, las que depender&#xE1;n directamente, en cada una de ellas, del respectivo Contralor Regional. Asimismo, contar&#xE1;n con un administrador regional y un coordinador inform&#xE1;tico.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1101376,
+      "fecha": "2017-03-29"
+    }
+  },
+  {
+    "fecha": "2018-01-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9760375,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las Contralor&#xED;as Regionales Metropolitanas de Santiago tendr&#xE1;n las siguientes Unidades:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a.- Unidad Jur&#xED;dica.</div><div class=\"p\">&nbsp; &nbsp;  b.- Unidad Jur&#xED;dica de Infraestructura y Regulaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  c.- Unidad de Personal y Responsabilidad Administrativa.</div><div class=\"p\">&nbsp; &nbsp;  d.- Tres <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1101376&amp;idParte=9784861&amp;idVersion=2017-03-29\">Resoluci&#xF3;n 13,<br>CONTRALOR&#xCD;A GRAL.<br>N&#xB0; 1<br>D.O. 29.03.2017</a></span>Unidades de Auditor&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  e.- Unidad de Atenci&#xF3;n y Denuncia Ciudadana.</div><div class=\"p\">&nbsp; &nbsp;  f.- Unidad de Auditor&#xED;a de Obras.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, formar&#xE1;n parte de las Contralor&#xED;as Regionales Metropolitanas, la Unidad T&#xE9;cnica de Control Externo, la Unidad de Apoyo al Cumplimiento, la Unidad de An&#xE1;lisis Contable y la Oficina de Partes, las que depender&#xE1;n directamente, en cada una de ellas, del respectivo Contralor Regional. Asimismo, contar&#xE1;n con un administrador regional y un coordinador inform&#xE1;tico.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las Contralor&#xED;as Regionales Metropolitanas de Santiago tendr&#xE1;n las siguientes Unidades:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a.- Unidad Jur&#xED;dica.</div><div class=\"p\">&nbsp; &nbsp;  b.- Unidad Jur&#xED;dica de Infraestructura y Regulaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  c.- Unidad de Personal y Responsabilidad Administrativa.</div><div class=\"p\">&nbsp; &nbsp;  d.- Tres <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1101376&amp;idParte=9784861&amp;idVersion=2017-03-29\">Resoluci&#xF3;n 13,<br>CONTRALOR&#xCD;A GRAL.<br>N&#xB0; 1<br>D.O. 29.03.2017</a></span>Unidades de Auditor&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  e.- Unidad de Atenci&#xF3;n y Denuncia Ciudadana.</div><div class=\"p\">&nbsp; &nbsp;  f.- Unidad de Auditor&#xED;a de Obras.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, formar&#xE1;n parte de las Contralor&#xED;as Regionales Metropolitanas, la Unidad T&#xE9;cnica de Control Externo, la Unidad de Apoyo al Cumplimiento, la Unidad de An&#xE1;lisis Contable y la Oficina de Partes, las que depender&#xE1;n directamente, en cada una de ellas, del respectivo Contralor Regional. Asimismo, contar&#xE1;n con un administrador regional y un coordinador inform&#xE1;tico.</div><div class=\"p\">&nbsp; &nbsp;  Cada <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1113970&amp;idParte=9878027&amp;idVersion=2018-01-23\">Resoluci&#xF3;n 60,<br>CONTRALOR&#xCD;A GENERAL DE LA REP&#xDA;BLICA<br>N&#xB0; 1<br>D.O. 23.01.2018</a></span>una de las unidades se&#xF1;aladas precedentemente se encontrar&#xE1; a cargo de un jefe. La Unidad Jur&#xED;dica contar&#xE1;, adem&#xE1;s, con un encargado de Control de Legalidad, y la Unidad de Personal y Responsabilidad Administrativa, por su parte, contar&#xE1; con un Encargado de Control de Legalidad y un Encargado de Registro.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1113970,
+      "fecha": "2018-01-23"
+    }
+  },
+  {
+    "fecha": "2025-05-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-04-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10056222,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- Para efectos de lo dispuesto en el art&#xED;culo 1 de esta ley, el traspaso de los saldos que corresponda efectuar al Fondo Plurianual para las Capacidades Estrat&#xE9;gicas de la Defensa y al Fondo de Contingencia Estrat&#xE9;gico deber&#xE1; materializarse dentro del plazo de cuarenta y ocho y de seis meses, respectivamente, contado desde la fecha de entrada en vigencia del art&#xED;culo 4 de esta ley, conforme a las instrucciones que impartan conjuntamente los Ministros de Defensa Nacional y de Hacienda.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- Para efectos de lo dispuesto en el art&#xED;culo 1 de esta ley, el traspaso de los saldos que corresponda efectuar al Fondo Plurianual para las Capacidades Estrat&#xE9;gicas de la Defensa y al Fondo de Contingencia Estrat&#xE9;gico deber&#xE1; materializarse dentro del plazo de cuarenta y ocho y de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1144002&amp;idParte=10112015&amp;idVersion=2020-04-02\">Ley 21225<br>Art. s&#xE9;ptimo<br>D.O. 02.04.2020</a></span>veinticuatro meses, respectivamente, contado desde la fecha de entrada en vigencia del art&#xED;culo 4 de esta ley, conforme a las instrucciones que impartan conjuntamente los Ministros de Defensa Nacional y de Hacienda.</div><div class=\"p\"> </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1144002,
+      "fecha": "2020-04-02"
+    }
+  }
+]

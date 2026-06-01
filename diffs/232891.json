@@ -1,0 +1,67 @@
+[
+  {
+    "fecha": "2004-11-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-08-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7316360,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Del&#xE9;gase en do&#xF1;a Francisca Javiera Estrada Quezada y, en caso de ausencia de &#xE9;sta, a don Miguel Edwards Gana, ambos abogados del Ministerio, la facultad de firmar, bajo la f&#xF3;rmula &quot;Por Orden del Ministro&quot;, los actos indicados en la resoluci&#xF3;n ministerial exenta N&#xBA; 45, de fecha 11 de junio de 2003, de este Ministerio, con respecto a las asociaciones de consumidores reguladas en los art&#xED;culos 5 y siguientes de la ley N&#xBA; 19.496.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Del&#xE9;gase en do&#xF1;a Francisca Javiera Estrada Quezada y, en caso de ausencia de &#xE9;sta, a don Juan Patricio Silva Pedreros, rol &#xFA;nico tributario<span class=\"n\" id=\"n_0\">RES 53 EXENTA,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 02.08.2005</span> N&#xBA; 12.026.697-7, ambos abogados del Ministerio, la facultad de firmar, bajo la f&#xF3;rmula &quot;Por Orden del Ministro&quot;, los actos indicados en la resoluci&#xF3;n ministerial exenta N&#xBA; 45, de fecha 11 de junio de 2003, de este Ministerio, con respecto a las asociaciones de consumidores reguladas en los art&#xED;culos 5 y siguientes de la ley N&#xBA; 19.496.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2006-10-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7316360,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Del&#xE9;gase en do&#xF1;a Francisca Javiera Estrada Quezada y, en caso de ausencia de &#xE9;sta, a don Juan Patricio Silva Pedreros, rol &#xFA;nico tributario<span class=\"n\" id=\"n_0\">RES 53 EXENTA,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 02.08.2005</span> N&#xBA; 12.026.697-7, ambos abogados del Ministerio, la facultad de firmar, bajo la f&#xF3;rmula &quot;Por Orden del Ministro&quot;, los actos indicados en la resoluci&#xF3;n ministerial exenta N&#xBA; 45, de fecha 11 de junio de 2003, de este Ministerio, con respecto a las asociaciones de consumidores reguladas en los art&#xED;culos 5 y siguientes de la ley N&#xBA; 19.496.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Del&#xE9;gase en do&#xF1;a Francisca Javiera Estrada Quezada y, en caso de ausencia de &#xE9;sta, a don Pamela Alejandra Barros Candia, rol &#xFA;nico tributario<span class=\"n\" id=\"n_0\">RES 49 EXENTA,<br>ECONOMIA<br>Art. 1&#xBA;<br>D.O. 13.10.2006</span> N&#xBA; 10.293.685-K, ambos abogados del Ministerio, la facultad de firmar, bajo la f&#xF3;rmula &quot;Por Orden del Ministro&quot;, los actos indicados en la resoluci&#xF3;n ministerial exenta N&#xBA; 45, de fecha 11 de junio de 2003, de este Ministerio, con respecto a las asociaciones de consumidores reguladas en los art&#xED;culos 5 y siguientes de la ley N&#xBA; 19.496.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2007-03-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7316360,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Del&#xE9;gase en do&#xF1;a Francisca Javiera Estrada Quezada y, en caso de ausencia de &#xE9;sta, a don Pamela Alejandra Barros Candia, rol &#xFA;nico tributario<span class=\"n\" id=\"n_0\">RES 49 EXENTA,<br>ECONOMIA<br>Art. 1&#xBA;<br>D.O. 13.10.2006</span> N&#xBA; 10.293.685-K, ambos abogados del Ministerio, la facultad de firmar, bajo la f&#xF3;rmula &quot;Por Orden del Ministro&quot;, los actos indicados en la resoluci&#xF3;n ministerial exenta N&#xBA; 45, de fecha 11 de junio de 2003, de este Ministerio, con respecto a las asociaciones de consumidores reguladas en los art&#xED;culos 5 y siguientes de la ley N&#xBA; 19.496.</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Del&#xE9;gase en do&#xF1;a Francisca Javiera Estrada Quezada y, en caso de ausencia de &#xE9;sta, a don<span class=\"n\" id=\"n_0\">RES 10 EXENTA,<br>ECONOMIA<br>Art. 1&#xBA;<br>D.O. 07.03.2007</span> do&#xF1;a Pamela Alejandra Barros Candia y a don Luis Alberto Hevia Boisen, en ese orden., ambos abogados del Ministerio, la facultad de firmar, bajo la f&#xF3;rmula &quot;Por Orden del Ministro&quot;, los actos indicados en la resoluci&#xF3;n ministerial exenta N&#xBA; 45, de fecha 11 de junio de 2003, de este Ministerio, con respecto a las asociaciones de consumidores reguladas en los art&#xED;culos 5 y siguientes de la ley N&#xBA; 19.496.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2007-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7316359,
+          "old": "<div><div class=\"p\">DELEGA FACULTAD DE FIRMA EN MATERIAS QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 72 exenta.- Santiago, 16 de noviembre de 2004.- Visto: Las facultades que me confieren los art&#xED;culos 5&#xBA; y 41 de la Ley Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado en el decreto con fuerza de ley N&#xBA; 1/19.653, de 2000, del Ministerio Secretar&#xED;a General de la Presidencia; la ley N&#xBA; 19.496; la resoluci&#xF3;n ministerial exenta N&#xBA; 45, de 11 de junio de 2003, de este Ministerio, y la resoluci&#xF3;n N&#xBA; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DELEGA FACULTAD DE FIRMA EN MATERIAS QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 72 exenta.- Santiago, 16 de noviembre de 2004.- Visto: Las facultades que me confieren los art&#xED;culos 5&#xBA; y 41 de la Ley Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado en el decreto con fuerza de ley N&#xBA; 1/19.653, de 2000, del Ministerio Secretar&#xED;a General de la Presidencia; la ley N&#xBA; 19.496; la resoluci&#xF3;n ministerial exenta N&#xBA; 45, de 11 de junio de 2003, de este Ministerio, y la resoluci&#xF3;n N&#xBA; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

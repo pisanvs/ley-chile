@@ -1,0 +1,54 @@
+[
+  {
+    "fecha": "2014-03-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-09-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9417856,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">I.-&nbsp; Disp&#xF3;nese el siguiente modelo de c&#xE1;lculo, aplicable para la determinaci&#xF3;n de la renta en los tr&#xE1;mites de concesiones mar&#xED;timas.</div><br><div class=\"p\">&nbsp; &nbsp;  El presente modelo se aplicar&#xE1; sobre la base de los criterios, variables y ponderaciones que a continuaci&#xF3;n se se&#xF1;alan:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38510.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">II.- Disp&#xF3;nese, en relaci&#xF3;n al c&#xE1;lculo de renta referido a las renovaciones de concesiones mar&#xED;timas, en el evento en que producto de la aplicaci&#xF3;n de este nuevo modelo el porcentaje de renta resultante exceda al doble de aquel fijado en el acto cuya renovaci&#xF3;n se solicita, por esta &#xFA;nica renovaci&#xF3;n y s&#xF3;lo durante los primeros cinco a&#xF1;os, se aplicar&#xE1; el porcentaje de renta que resulte de la aplicaci&#xF3;n del modelo reducido a la mitad. Transcurrido dicho plazo, se aplicar&#xE1; la renta resultante del modelo en su totalidad.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">I.-&nbsp; Disp&#xF3;nese el siguiente modelo de c&#xE1;lculo, aplicable para la determinaci&#xF3;n de la renta en los tr&#xE1;mites de concesiones mar&#xED;timas.</div><br><div class=\"p\">&nbsp; &nbsp;  El presente modelo se aplicar&#xE1; sobre la base de los criterios, variables y ponderaciones que a continuaci&#xF3;n se se&#xF1;alan:<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38510.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  La sumatoria de las ponderaciones de cada uno de los criterios antes indicados<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1067263&amp;idParte=9509079&amp;idVersion=2014-09-29\">Resoluci&#xF3;n 7301 EXENTA,<br>DEFENSA<br>N&#xB0; 2<br>D.O. 29.09.2014</a></span> dar&#xE1; como resultado un factor, que determinar&#xE1; el porcentaje de renta a pagar, conforme a la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/43262.jpg\"></div><div class=\"p\">II.- Disp&#xF3;nese, en relaci&#xF3;n al c&#xE1;lculo de renta referido a las renovaciones de concesiones mar&#xED;timas, en el evento en que producto de la aplicaci&#xF3;n de este nuevo modelo el porcentaje de renta resultante exceda al doble de aquel fijado en el acto cuya renovaci&#xF3;n se solicita, por esta &#xFA;nica renovaci&#xF3;n y s&#xF3;lo durante los primeros cinco a&#xF1;os, se aplicar&#xE1; el porcentaje de renta que resulte de la aplicaci&#xF3;n del modelo reducido a la mitad. Transcurrido dicho plazo, se aplicar&#xE1; la renta resultante del modelo en su totalidad.</div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 7301 Exenta, Defensa Nacional, publicada el 29.09.2014, modifica la tabla inserta en el punto 4 del numeral I de la presente norma, en el sentido de reemplazar donde dice: Tasa de pobreza comunal por: Tasa de pobreza comunal Alta 1 Media 2 Baja 3.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1067263,
+      "fecha": "2014-09-29"
+    }
+  },
+  {
+    "fecha": "2017-12-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9417856,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">I.-&nbsp; Disp&#xF3;nese el siguiente modelo de c&#xE1;lculo, aplicable para la determinaci&#xF3;n de la renta en los tr&#xE1;mites de concesiones mar&#xED;timas.</div><br><div class=\"p\">&nbsp; &nbsp;  El presente modelo se aplicar&#xE1; sobre la base de los criterios, variables y ponderaciones que a continuaci&#xF3;n se se&#xF1;alan:<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38510.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  La sumatoria de las ponderaciones de cada uno de los criterios antes indicados<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1067263&amp;idParte=9509079&amp;idVersion=2014-09-29\">Resoluci&#xF3;n 7301 EXENTA,<br>DEFENSA<br>N&#xB0; 2<br>D.O. 29.09.2014</a></span> dar&#xE1; como resultado un factor, que determinar&#xE1; el porcentaje de renta a pagar, conforme a la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/43262.jpg\"></div><div class=\"p\">II.- Disp&#xF3;nese, en relaci&#xF3;n al c&#xE1;lculo de renta referido a las renovaciones de concesiones mar&#xED;timas, en el evento en que producto de la aplicaci&#xF3;n de este nuevo modelo el porcentaje de renta resultante exceda al doble de aquel fijado en el acto cuya renovaci&#xF3;n se solicita, por esta &#xFA;nica renovaci&#xF3;n y s&#xF3;lo durante los primeros cinco a&#xF1;os, se aplicar&#xE1; el porcentaje de renta que resulte de la aplicaci&#xF3;n del modelo reducido a la mitad. Transcurrido dicho plazo, se aplicar&#xE1; la renta resultante del modelo en su totalidad.</div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 7301 Exenta, Defensa Nacional, publicada el 29.09.2014, modifica la tabla inserta en el punto 4 del numeral I de la presente norma, en el sentido de reemplazar donde dice: Tasa de pobreza comunal por: Tasa de pobreza comunal Alta 1 Media 2 Baja 3.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">I.&nbsp;  Disp&#xF3;nese el siguiente modelo de c&#xE1;lculo, aplicable para la determinaci&#xF3;n de la renta en los tr&#xE1;mites de concesiones mar&#xED;timas.</div><br><div class=\"p\">&nbsp; &nbsp;  El presente modelo se aplicar&#xE1; sobre la base de los criterios, variables y ponderaciones que a continuaci&#xF3;n se se&#xF1;alan:<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38510.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  La sumatoria de las ponderaciones de cada uno de los criterios antes indicados<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1067263&amp;idParte=9509079&amp;idVersion=2014-09-29\">Resoluci&#xF3;n 7301 EXENTA,<br>DEFENSA<br>N&#xB0; 2<br>D.O. 29.09.2014</a></span> dar&#xE1; como resultado un factor, que determinar&#xE1; el porcentaje de renta a pagar, conforme a la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/43262.jpg\"></div><br><div class=\"p\">II.&nbsp; Disp&#xF3;nese, en relaci&#xF3;n al c&#xE1;lculo <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1113017&amp;idParte=9870514&amp;idVersion=2017-12-30\">Resoluci&#xF3;n 8197 EXENTA,<br>DEFENSA<br>N&#xB0; 1<br>D.O. 30.12.2017</a></span>de renta referido a las renovaciones de concesiones mar&#xED;timas, en el evento que producto de la aplicaci&#xF3;n de este nuevo modelo el porcentaje de renta resultante exceda al doble de aquel fijado en el acto cuya renovaci&#xF3;n se solicita o que producto de la multiplicaci&#xF3;n del porcentaje de renta por el valor de tasaci&#xF3;n de los terrenos aumente a m&#xE1;s del doble el valor de la renta por metro cuadrado de concesi&#xF3;n mar&#xED;tima, que por esta &#xFA;nica renovaci&#xF3;n se aplicar&#xE1; el porcentaje de renta que resulte de la aplicaci&#xF3;n del modelo del numeral precedente, reducido a la mitad</div><br><div class=\"p\">III. En el caso de personas jur&#xED;dicas con<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1113017&amp;idParte=9870514&amp;idVersion=2017-12-30\">Resoluci&#xF3;n 8197 EXENTA,<br>DEFENSA<br>N&#xB0; 2<br>D.O. 30.12.2017</a></span> fines de lucro que se clasifiquen en microempresas, peque&#xF1;as empresas o medianas empresas, de acuerdo a lo establecido en la ley N&#xB0; 20.416, el porcentaje de renta resultante de lo establecido en el numeral I se disminuir&#xE1; en un tercio, un cuarto o un quinto respectivamente.</div><div class=\"p\">&nbsp; &nbsp;  Las personas jur&#xED;dicas sin fines de lucro que acrediten recibir subsidios o aportes directos del Estado o se comprometan con un plan de actividades en beneficio de la comunidad que cuente con la opini&#xF3;n favorable del respectivo consejo comunal de organizaciones de la sociedad civil, contemplado en la ley N&#xB0; 20.500, deber&#xE1;n pagar la renta establecida en el numeral I de esta resoluci&#xF3;n reducida a la mitad.</div><div class=\"p\">&nbsp; &nbsp;  Estos beneficios ser&#xE1;n incompatibles con lo dispuesto en el numeral II de la presente resoluci&#xF3;n y no podr&#xE1;n significar un pago inferior al se&#xF1;alado en el decreto con fuerza de ley N&#xB0; 340, de 1960, sobre concesiones mar&#xED;timas.</div><br><br><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 7301 Exenta, Defensa Nacional, publicada el 29.09.2014, modifica la tabla inserta en el punto 4 del numeral I de la presente norma, en el sentido de reemplazar donde dice: Tasa de pobreza comunal por: Tasa de pobreza comunal Alta 1 Media 2 Baja 3.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1113017,
+      "fecha": "2017-12-30"
+    }
+  },
+  {
+    "fecha": "2018-11-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

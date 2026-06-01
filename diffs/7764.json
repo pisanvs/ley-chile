@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-04-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5885055,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE, LA NORMA TECNICA QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; Santiago, 20 de Marzo de 1995.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 26.- Visto: Lo solicitado por el Instituto Nacional de Normalizaci&#xF3;n, por Carta N&#xB0; 11063-400, de 3 de Enero de 1995; el Oficio Ord. N&#xB0; 906, de 21 de Febrero de 1995, del Sr. Subsecretario de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el art&#xED;culo 13&#xB0;, letra c), del D.L. N&#xB0; 1.305, de 1976, y el art&#xED;culo 3&#xB0;, incisos quinto y sexto del D.F.L. N&#xB0; 458 (V. y U.), de 1975, publicado en el Diario Oficial de 13 de Abril de 1976, Ley General de Urbanismo y Construcciones,</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE, LA NORMA TECNICA QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; Santiago, 20 de Marzo de 1995.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 26.- Visto: Lo solicitado por el Instituto Nacional de Normalizaci&#xF3;n, por Carta N&#xB0; 11063-400, de 3 de Enero de 1995; el Oficio Ord. N&#xB0; 906, de 21 de Febrero de 1995, del Sr. Subsecretario de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el art&#xED;culo 13&#xB0;, letra c), del D.L. N&#xB0; 1.305, de 1976, y el art&#xED;culo 3&#xB0;, incisos quinto y sexto del D.F.L. N&#xB0; 458 (V. y U.), de 1975, publicado en el Diario Oficial de 13 de Abril de 1976, Ley General de Urbanismo y Construcciones,</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

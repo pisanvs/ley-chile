@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-01-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-08-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8855574,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Autor&#xED;zase a que el veh&#xED;culo indicado pueda guardarse excepcionalmente en el domicilio del se&#xF1;or Gobernador, ubicado en calle Valenzuela Llanos N&#xBA; 8728, comuna de La Reina.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1016147&amp;idParte=8963124&amp;idVersion=2010-08-12\">Decreto 2334 EXENTO,<br>INTERIOR<br>Art. PRIMERO<br>D.O. 12.08.2010</a></span>&nbsp; &nbsp;  Art&#xED;culo segundo: Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1016147,
+      "fecha": "2010-08-12"
+    }
+  }
+]

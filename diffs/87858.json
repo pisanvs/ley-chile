@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-03-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8958972,
+          "old": "<div><div class=\"p\">ESTABLECE LA OBLIGACION DE DECLARAR AL SERVICIO AGRICOLA Y GANADERO LA EXISTENCIA Y COSECHA DE VINOS Y CHICHA A GRANEL (Resoluci&#xF3;n)</div><br><div class=\"p\">N&#xFA;m. 365 exenta.- Santiago, 13 de Marzo de 1991.- Vistos: Los antecedentes del caso; lo dispuesto en la letra a) del art&#xED;culo 3&#xB0; de la Ley No. 18.755, en relaci&#xF3;n con el art&#xED;culo 2&#xB0; de esa misma ley; la Ley No. 18.455, que fija normas sobre producci&#xF3;n, elaboraci&#xF3;n y comercializaci&#xF3;n de alcoholes et&#xED;licos, bebidas alcoh&#xF3;licas y vinagres; la resoluci&#xF3;n No. 138, de 1986, de la Direcci&#xF3;n Ejecutiva del Servicio Agr&#xED;cola y Ganadero; y Considerando: Que para asegurar el cumplimiento de lo dispuesto en la letra a) del art&#xED;culo 4&#xB0; de la Ley No.</div><div class=\"p\">18.455, es necesario contar con los antecedentes de cosecha y existencia de vinos y chichas a granel.</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE LA OBLIGACION DE DECLARAR AL SERVICIO AGRICOLA Y GANADERO LA EXISTENCIA Y COSECHA DE VINOS Y CHICHA A GRANEL </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 365 exenta.- Santiago, 13 de Marzo de 1991.- Vistos: Los antecedentes del caso; lo dispuesto en la letra a) del art&#xED;culo 3&#xB0; de la Ley No. 18.755, en relaci&#xF3;n con el art&#xED;culo 2&#xB0; de esa misma ley; la Ley No. 18.455, que fija normas sobre producci&#xF3;n, elaboraci&#xF3;n y comercializaci&#xF3;n de alcoholes et&#xED;licos, bebidas alcoh&#xF3;licas y vinagres; la resoluci&#xF3;n No. 138, de 1986, de la Direcci&#xF3;n Ejecutiva del Servicio Agr&#xED;cola y Ganadero; y</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que para asegurar el cumplimiento de lo dispuesto en la letra a) del art&#xED;culo 4&#xB0; de la Ley No.</div><div class=\"p\">18.455, es necesario contar con los antecedentes de cosecha y existencia de vinos y chichas a granel.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6426187,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA GUANAYE S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA GUANAYE S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

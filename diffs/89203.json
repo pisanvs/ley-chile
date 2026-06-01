@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-08-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-04-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9001394,
+          "old": "<div><div class=\"p\">Des&#xED;gnase, como Receptor Judicial para que permanentemente practique las actuaciones inherentes a ese cargo en los juicios que se tramitan ante los Juzgados de Polic&#xED;a Local, en conformidad a las disposiciones del Decreto Ley No.</div><div class=\"p\">2.974, en la VIII Regi&#xF3;n, Area de Concepci&#xF3;n, al se&#xF1;or Juan Villa Baglietto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase, como Receptor Judicial para que permanentemente practique las actuaciones inherentes a ese cargo en los juicios que se tramitan ante los Juzgados de Polic&#xED;a Local, en conformidad a las disposiciones del Decreto Ley No. 2.974, en la VIII Regi&#xF3;n, Area de Concepci&#xF3;n, al se&#xF1;or Juan Villa<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Baglietto.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES RES 70, Agricultura, publicada el 30.04.2005, elimin&#xF3; a don Juan Villa Baglietto como Receptor Judicial.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

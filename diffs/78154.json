@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-07-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-05-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949723,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Segundo: La pensi&#xF3;n de Gracia que se concede al menor Cristi&#xE1;n Alejandro Herrera Contreras, se pagar&#xE1; hasta que el beneficiario cumpla 18 &#xF3; 23 a&#xF1;os de edad, siendo requisito indispensable para su cobro que al comienzo de cada a&#xF1;o lectivo, acredite ser alumno regular de un plantel educacional.</div><div class=\"p\">&nbsp; &nbsp;  Fac&#xFA;ltase a do&#xF1;a Marina Machuca Gonz&#xE1;lez, abuela del menor, para cobrar la pensi&#xF3;n en su representaci&#xF3;n, hasta que el beneficiario cumpla 18 a&#xF1;os de edad.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Segundo: La pensi&#xF3;n de Gracia que se concede al menor Cristi&#xE1;n Alejandro Herrera Contreras, se pagar&#xE1; hasta que el beneficiario cumpla 18 &#xF3; 23 a&#xF1;os de edad, siendo requisito indispensable para su cobro que al comienzo de cada a&#xF1;o lectivo, acredite ser alumno regular de un plantel educacional.</div><div class=\"p\">&nbsp; &nbsp;  Fac&#xFA;ltase a do&#xF1;a Marina Machuca Gonz&#xE1;lez, abuela<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> del menor, para cobrar la pensi&#xF3;n en su representaci&#xF3;n, hasta que el beneficiario cumpla 18 a&#xF1;os de edad.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 1972, Interior, publicado el 25.05.1996 y rectificado en el D.O. de 31.05.1996, modific&#xF3; el presente art&#xED;culo en el sentido de facultar a do&#xF1;a Jacqueline Enriqueta Contreras Machuca, madre del menor, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

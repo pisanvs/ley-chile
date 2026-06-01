@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-06-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-02-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8355950,
+          "old": "<div><div class=\"p\">AUTORIZA A DON FLORENCIO BAHAMONDES VERGARA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON FLORENCIO BAHAMONDES VERGARA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

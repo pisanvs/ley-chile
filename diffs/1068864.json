@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-01-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9522919,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Autor&#xED;zase, a contar de la entrada en vigencia del art&#xED;culo siguiente y hasta el 28 de febrero de 2018, al Ministro de Hacienda para que, mediante uno o m&#xE1;s decretos expedidos bajo la f&#xF3;rmula &quot;Por Orden del Presidente de la Rep&#xFA;blica&quot;, efect&#xFA;e aportes extraordinarios de capital por un monto de hasta 3.000.000.000 de d&#xF3;lares, moneda de los Estados Unidos de Am&#xE9;rica, a la Corporaci&#xF3;n Nacional del Cobre de Chile, en una o m&#xE1;s transferencias, las que se financiar&#xE1;n con activos financieros disponibles en el Tesoro P&#xFA;blico, sean estos en moneda nacional o en moneda extranjera.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Autor&#xED;zase, a contar de la entrada en vigencia del art&#xED;culo siguiente y hasta el 28 de febrero de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1099447&amp;idParte=9764102&amp;idVersion=2017-01-27\">Ley 20989<br>Art. 4<br>D.O. 27.01.2017</a></span>2019, al Ministro de Hacienda para que, mediante uno o m&#xE1;s decretos expedidos bajo la f&#xF3;rmula &quot;Por Orden del Presidente de la Rep&#xFA;blica&quot;, efect&#xFA;e aportes extraordinarios de capital por un monto de hasta 3.000.000.000 de d&#xF3;lares, moneda de los Estados Unidos de Am&#xE9;rica, a la Corporaci&#xF3;n Nacional del Cobre de Chile, en una o m&#xE1;s transferencias, las que se financiar&#xE1;n con activos financieros disponibles en el Tesoro P&#xFA;blico, sean estos en moneda nacional o en moneda extranjera.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1099447,
+      "fecha": "2017-01-27"
+    }
+  }
+]

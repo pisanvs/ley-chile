@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-11-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-08-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9651715,
+          "old": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;banse los protocolos de an&#xE1;lisis y/o ensayos de seguridad que a continuaci&#xF3;n se indican, para la certificaci&#xF3;n de los productos el&#xE9;ctricos que se se&#xF1;alan en la Tabla siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/53704.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El texto &#xED;ntegro de los protocolos individualizados en el Resuelvo 1&#xBA; de la presente resoluci&#xF3;n, se encuentran en esta Superintendencia a disposici&#xF3;n de los interesados y pueden ser consultados en el sitio web www.sec.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Los fabricantes nacionales, importadores y comercializadores de los productos el&#xE9;ctricos se&#xF1;alados en la Tabla del Resuelvo 1&#xBA; de la presente resoluci&#xF3;n; previo a su comercializaci&#xF3;n en el pa&#xED;s, deber&#xE1;n contar con los respectivos certificados de aprobaci&#xF3;n de seguridad, a partir del 01.06.2017, seg&#xFA;n los protocolos indicados en dicha Tabla.</div><div class=\"p\">&nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;banse los protocolos de an&#xE1;lisis y/o ensayos de seguridad que a continuaci&#xF3;n se indican, para la certificaci&#xF3;n de los productos el&#xE9;ctricos que se se&#xF1;alan en la Tabla siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/53704.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El texto &#xED;ntegro de los protocolos individualizados en el Resuelvo 1&#xBA; de la presente resoluci&#xF3;n, se encuentran en esta Superintendencia a disposici&#xF3;n de los interesados y pueden ser consultados en el sitio web www.sec.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Los fabricantes nacionales, importadores y comercializadores de los productos el&#xE9;ctricos se&#xF1;alados en la Tabla del Resuelvo 1&#xBA; de la presente resoluci&#xF3;n; previo a su comercializaci&#xF3;n en el pa&#xED;s, deber&#xE1;n contar con los respectivos certificados de aprobaci&#xF3;n de seguridad, a <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>partir del 01.06.2017, seg&#xFA;n los protocolos indicados en dicha Tabla.</div><br><br><div class=\"p\">&nbsp; &nbsp; </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 19220 Exenta, Energ&#xED;a, publicada el 23.08.2017, modifica las fechas de aplicaci&#xF3;n para el 01.07.2018 del protocolo PE N&#xB0; 3/12 y para el 01.11.2018 del protocolo PE N&#xB0; 3/13, establecidos en la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

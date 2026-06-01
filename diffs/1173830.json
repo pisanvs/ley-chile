@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-03-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-04-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10318340,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23&#xB0;. El Servicio de Bienestar podr&#xE1;, adem&#xE1;s, administrar sala cuna, jard&#xED;n infantil, club escolar, casa de hu&#xE9;spedes, de veraneo u otras instalaciones que le sean asignadas para el uso exclusivo de sus beneficiarios, quedando expresamente excluida de dicha facultad la de contratar personal, la que corresponder&#xE1; a la respectiva Instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23&#xB0;. <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1212610&amp;idParte=10545392&amp;idVersion=2025-04-17\">Decreto 57 EXENTO,<br>TRABAJO<br>Art. &#xDA;NICO<br>D.O. 17.04.2025</a></span>El Servicio de Bienestar podr&#xE1;, adem&#xE1;s, administrar sala cuna, jard&#xED;n infantil, club escolar, casa de hu&#xE9;spedes, de veraneo u otros bienes muebles o inmuebles para el uso exclusivo de sus beneficiarios, quedando expresamente excluida de dicha facultad la de contratar personal, la que corresponder&#xE1; a la respectiva Instituci&#xF3;n.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1212610,
+      "fecha": "2025-04-17"
+    }
+  }
+]

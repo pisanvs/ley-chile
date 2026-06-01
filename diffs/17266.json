@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-11-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-03-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5928688,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DEROGA DECRETO NUMERO 256, DE 1987</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.219.- Santiago, 4 de Octubre de 1993.- Vistos: El art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; el art&#xED;culo 97 del DFL N&#xB0; 33 de 1979, de RR.EE; los Decretos Supremos del Ministerio de Relaciones Exteriores N&#xB0; 428, de 1978; N&#xB0;524, de 1982 y N&#xB0; 256, de 1987; el art&#xED;culo 1&#xB0;, N&#xB0;25 del Decreto Supremo del Ministerio del Interior N&#xB0; 1.407, de 1992, y las necesidades del servicio,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DEROGA DECRETO NUMERO 256, DE 1987</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.219.- Santiago, 4 de Octubre de 1993.- Vistos: El art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; el art&#xED;culo 97 del DFL N&#xB0; 33 de 1979, de RR.EE; los Decretos Supremos del Ministerio de Relaciones Exteriores N&#xB0; 428, de 1978; N&#xB0;524, de 1982 y N&#xB0; 256, de 1987; el art&#xED;culo 1&#xB0;, N&#xB0;25 del Decreto Supremo del Ministerio del Interior N&#xB0; 1.407, de 1992, y las necesidades del servicio,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

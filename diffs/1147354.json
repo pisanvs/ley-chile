@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-07-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10134996,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Der&#xF3;gase resuelvo 3 de la <a href=\"https://www.leychile.cl/navegar?idNorma=1147209&amp;idVersion=2020-07-09\">resoluci&#xF3;n N&#xB0; 2.987, de fecha 30 de abril de 2020</a>, que fija exigencias sanitarias para la internaci&#xF3;n a Chile de bovinos aptos para la reproducci&#xF3;n de la Direcci&#xF3;n Nacional del Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp;  2. Post&#xE9;rgase la entrada en vigencia de la resoluci&#xF3;n N&#xB0; 2.987, de 2020, ya individualizada, por un periodo de 12 meses a contar de la publicaci&#xF3;n de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. Esta medida deber&#xE1; ser evaluada en consideraci&#xF3;n a la evoluci&#xF3;n de las condiciones de emergencia del pa&#xED;s que restringe la adecuada implementaci&#xF3;n de resoluci&#xF3;n 2.987 de 2020.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Der&#xF3;gase resuelvo 3 de la resoluci&#xF3;n N&#xB0; 2.987, de fecha 30 de abril de 2020, que fija exigencias sanitarias para la internaci&#xF3;n a Chile de bovinos aptos para la reproducci&#xF3;n de la Direcci&#xF3;n Nacional del Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp;  2. De<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1151255&amp;idParte=10171778&amp;idVersion=2020-11-03\">Resoluci&#xF3;n 6663 EXENTA,<br>AGRICULTURA<br>N&#xB0; 2<br>D.O. 03.11.2020</a></span>rogada.</div><div class=\"p\">&nbsp; &nbsp;  3. Esta medida deber&#xE1; ser evaluada en consideraci&#xF3;n a la evoluci&#xF3;n de las condiciones de emergencia del pa&#xED;s que restringe la adecuada implementaci&#xF3;n de resoluci&#xF3;n 2.987 de 2020.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1151255,
+      "fecha": "2020-11-03"
+    }
+  }
+]

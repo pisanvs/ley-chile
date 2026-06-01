@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2000-06-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-11-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6280257,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Establ&#xE9;cese como D&#xED;a del Patrimonio Cultural de Chile, el &#xFA;ltimo domingo del mes de mayo de cada a&#xF1;o.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Establ&#xE9;cese como <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>D&#xED;a del Patrimonio Cultural de Chile, el &#xFA;ltimo domingo del mes de mayo de cada a&#xF1;o.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico del Decreto 28, Culturas, publicado el 04.11.2021, modifica la presente norma en el sentido de establecer como &quot;D&#xED;as del Patrimonio Cultural de Chile&quot;, los &#xFA;ltimos d&#xED;as s&#xE1;bado y domingo del mes de mayo de cada a&#xF1;o.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-10-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6280257,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Establ&#xE9;cese como <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>D&#xED;a del Patrimonio Cultural de Chile, el &#xFA;ltimo domingo del mes de mayo de cada a&#xF1;o.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico del Decreto 28, Culturas, publicado el 04.11.2021, modifica la presente norma en el sentido de establecer como &quot;D&#xED;as del Patrimonio Cultural de Chile&quot;, los &#xFA;ltimos d&#xED;as s&#xE1;bado y domingo del mes de mayo de cada a&#xF1;o.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1217931&amp;idParte=10567586&amp;idVersion=2025-10-28\">Decreto 36,<br>CULTURAS<br>Art. primero<br>D.O. 28.10.2025</a></span>Establ&#xE9;zcase como D&#xED;a del Patrimonio Cultural de Chile, el &#xFA;ltimo s&#xE1;bado del mes de enero y los &#xFA;ltimos d&#xED;as s&#xE1;bado y domingo del mes de mayo de cada a&#xF1;o.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1217931,
+      "fecha": "2025-10-28"
+    }
+  }
+]

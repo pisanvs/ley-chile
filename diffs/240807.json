@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-08-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-06-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6535486,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- Todo parque o reserva contar&#xE1; con un Plan General de Administraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El Plan ser&#xE1; elaborado por el Servicio y la Subsecretar&#xED;a, con consulta a los organismos p&#xFA;blicos que correspondan, dentro del plazo de un a&#xF1;o contado desde la fecha de la declaraci&#xF3;n del parque o reserva. Para la elaboraci&#xF3;n del Plan se considerar&#xE1; la participaci&#xF3;n de las instituciones locales, comunales o regionales que se estimen pertinentes.</div><div class=\"p\">&nbsp; &nbsp;  La propuesta elaborada se publicar&#xE1; en extracto, por una sola vez en un diario de circulaci&#xF3;n regional, y adem&#xE1;s por un per&#xED;odo de 30 d&#xED;as en las p&#xE1;ginas Web de la Subsecretar&#xED;a y del Servicio y en los dem&#xE1;s medios que se estimen pertinentes, para conocimiento y observaciones que pueda efectuar la comunidad en general.</div><div class=\"p\">&nbsp; &nbsp;  Una vez elaborado el Plan, &#xE9;ste deber&#xE1; someterse al Sistema de Evaluaci&#xF3;n de Impacto Ambiental, de conformidad con lo dispuesto en el art&#xED;culo 10 letra p) de la Ley N&#xBA; 19.300, sobre Bases del Medio Ambiente.</div><div class=\"p\">&nbsp; &nbsp;  El Plan definitivo ser&#xE1; aprobado mediante decreto supremo del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, previa consulta a los Consejos Zonales de Pesca respectivos. Dicha resoluci&#xF3;n se publicar&#xE1; en la p&#xE1;gina web de la Subsecretar&#xED;a y del Servicio y en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  La modificaci&#xF3;n del Plan se sujetar&#xE1; al procedimiento indicado en el presente art&#xED;culo, sin perjuicio de lo dispuesto en el literal b) del art&#xED;culo 10&#xBA;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- Todo parque o reserva contar&#xE1; con un Plan General de Administraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El Plan ser&#xE1; elaborado por el Servicio y la Subsecretar&#xED;a, con consulta a los organismos p&#xFA;blicos que correspondan, dentro del plazo de un a&#xF1;o contado desde la fecha de la declaraci&#xF3;n del parque o reserva. Para la elaboraci&#xF3;n del Plan se considerar&#xE1; la participaci&#xF3;n de las instituciones locales, comunales o regionales que se estimen pertinentes.</div><div class=\"p\">&nbsp; &nbsp; La propuesta elaborada de esta forma deber&#xE1; ser<span class=\"n\" id=\"n_0\">DTO 117, ECONOMIA<br>Art. &#xFA;nico a)<br>D.O. 21.06.2006</span> publicada en extracto, por una sola vez en un diario de circulaci&#xF3;n regional, y adem&#xE1;s por un per&#xED;odo de un mes en las p&#xE1;ginas Web de la Subsecretar&#xED;a y del Servicio y en los dem&#xE1;s medios que se estimen pertinente, para conocimiento y observaciones que pueda efectuar la comunidad en general dentro del plazo antes indicado.</div><div class=\"p\">&nbsp; &nbsp;  Una vez elaborado el Plan, &#xE9;ste deber&#xE1; someterse al Sistema de Evaluaci&#xF3;n de Impacto Ambiental, de conformidad con lo dispuesto en el art&#xED;culo 10 letra p) de la Ley N&#xBA; 19.300, sobre Bases del Medio Ambiente.</div><div class=\"p\">&nbsp; &nbsp;  El Plan definitivo ser&#xE1; aprobado mediante decreto supremo del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, previa consulta a los Consejos Zonales de Pesca respectivos. Dicha decreto se publicar&#xE1; en<span class=\"n\" id=\"n_1\">DTO 117, ECONOMIA<br>Art. &#xFA;nico b)<br>D.O. 21.07.2006</span> la p&#xE1;gina web de la Subsecretar&#xED;a y del Servicio y en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  La modificaci&#xF3;n del Plan se sujetar&#xE1; al procedimiento indicado en el presente art&#xED;culo, sin perjuicio de lo dispuesto en el literal b) del art&#xED;culo 10&#xBA;.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

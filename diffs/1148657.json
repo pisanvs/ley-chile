@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-10-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10153236,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Decl&#xE1;rase obligatoria la vacunaci&#xF3;n contra la influenza equina en los equinos que se trasladan o movilizan por fines deportivos, crianzas, reproductivos, competencias o eventos de exhibici&#xF3;n dentro del territorio nacional.</div><div class=\"p\">&nbsp; &nbsp;  2. En el caso de equinos del estrato de crianza o en aquellos equinos adultos con protocolos de vacunaci&#xF3;n descontinuada, en un plazo inferior a un a&#xF1;o de la &#xFA;ltima vacunaci&#xF3;n, se debe administrar una dosis de vacuna de refuerzo (booster) 14 d&#xED;as previo a su movimiento o traslado.</div><div class=\"p\">&nbsp; &nbsp;  3. Todos los equinos que nunca han sido vacunados o cuya vacunaci&#xF3;n ha sido descontinuada por un plazo de un a&#xF1;o o m&#xE1;s, se les debe administrar una dosis inicial de vacuna (primo vacunaci&#xF3;n) y luego una segunda dosis de refuerzo (booster) a los 21 d&#xED;as de la primera dosis.</div><div class=\"p\">&nbsp; &nbsp;  4. Las vacunas contra influenza equina que se importen o produzcan en el pa&#xED;s, deber&#xE1;n estar registradas o autorizadas con el informe favorable del Servicio Agr&#xED;cola y Ganadero y cumplir los requisitos que fije la respectiva resoluci&#xF3;n de este Servicio, de acuerdo a la normativa vigente en la materia.</div><div class=\"p\">&nbsp; &nbsp;  5. Para efectos de movimiento animal, el per&#xED;odo de vigencia de la vacunaci&#xF3;n ser&#xE1; de 6 meses posterior a su aplicaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  6. Esta resoluci&#xF3;n se har&#xE1; efectiva a partir del 31 de octubre de 2020.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Decl&#xE1;rase obligatoria la vacunaci&#xF3;n contra la influenza equina en los equinos que se trasladan o movilizan por fines deportivos, crianzas, reproductivos, competencias o eventos de exhibici&#xF3;n dentro del territorio nacional.</div><div class=\"p\">&nbsp; &nbsp;  2. En el caso de equinos del estrato de crianza o en aquellos equinos adultos con protocolos de vacunaci&#xF3;n descontinuada, en un plazo inferior a un a&#xF1;o de la &#xFA;ltima vacunaci&#xF3;n, se debe administrar una dosis de vacuna de refuerzo (booster) 14 d&#xED;as previo a su movimiento o traslado.</div><div class=\"p\">&nbsp; &nbsp;  3. Todos los equinos que nunca han sido vacunados o cuya vacunaci&#xF3;n ha sido descontinuada por un plazo de un a&#xF1;o o m&#xE1;s, se les debe administrar una dosis inicial de vacuna (primo vacunaci&#xF3;n) y luego una segunda dosis de refuerzo (booster) a los 21 d&#xED;as de la primera dosis.</div><div class=\"p\">&nbsp; &nbsp;  4. Las vacunas contra influenza equina que se importen o produzcan en el pa&#xED;s, deber&#xE1;n estar registradas o autorizadas con el informe favorable del Servicio Agr&#xED;cola y Ganadero y cumplir los requisitos que fije la respectiva resoluci&#xF3;n de este Servicio, de acuerdo a la normativa vigente en la materia.</div><div class=\"p\">&nbsp; &nbsp;  5. <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1185718&amp;idParte=10384800&amp;idVersion=2022-12-06\">Resoluci&#xF3;n 6553 EXENTA,<br>AGRICULTURA<br>D.O. 06.12.2022</a></span>Para efectos de movimiento animal, el per&#xED;odo de vigencia de la vacunaci&#xF3;n en animales adultos, corresponder&#xE1; a lo se&#xF1;alado en el rotulado gr&#xE1;fico del producto registrado ante el SAG.</div><div class=\"p\">&nbsp; &nbsp;  6. Esta resoluci&#xF3;n se har&#xE1; efectiva a partir del 31 de octubre de 2020.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1185718,
+      "fecha": "2022-12-06"
+    }
+  }
+]

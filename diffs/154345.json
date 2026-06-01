@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-09-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-09-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7260413,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION No. 191, DE 1986 </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION No. 191, DE 1986</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

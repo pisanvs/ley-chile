@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1997-05-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-11-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6035731,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Zona T&#xED;pica la Poblaci&#xF3;n Le&#xF3;n XIII, seg&#xFA;n pol&#xED;gono A, B, C, D, E, F, G, H, I, J, K, L, A, como consta del plano que se adjunta y que forma parte del presente decreto y Monumento Hist&#xF3;rico la Iglesia Epifan&#xED;a del Se&#xF1;or, ubicada en calle Bellavista N&#xBA; 430, 470, 488, 496 y 498, ambos de la comuna de Providencia, provincia de Santiago, Regi&#xF3;n Metropolitana.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Zona T&#xED;pica la Poblaci&#xF3;n Le&#xF3;n XIII, seg&#xFA;n pol&#xED;gono A, B, C, D, E, F, G, H, I, J, K, L, A, como consta del plano que se adjunta y que forma parte del presente decreto y Monumento Hist&#xF3;rico la Iglesia Epifan&#xED;a del Se&#xF1;or, ubicada en calle Bellavista N&#xBA; 430, 470, 488, 496 y 498, ambos de la comuna de Providencia, provincia de Santiago, Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp;  F&#xED;jense <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1056418&amp;idParte=9386508&amp;idVersion=2013-11-19\">Decreto 534, EDUCACI&#xD3;N<br>Art. 1&#xBA;<br>D.O. 19.11.2013</a></span>como l&#xED;mites de la &quot;Zona T&#xED;pica Le&#xF3;n XIII&quot;, ubicada en la comuna de Providencia, provincia de Santiago, Regi&#xF3;n Metropolitana como a continuaci&#xF3;n se indica:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/35754.jpg\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea del pol&#xED;gono de protecci&#xF3;n tiene una superficie aproximada de 44.769,20 mts.2, seg&#xFA;n se delimita por el pol&#xED;gono del plano adjunto A-B-C-D-E-F-G-H-I-J-K-L-A, que forma parte del presente decreto</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1056418,
+      "fecha": "2013-11-19"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2021-03-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-09-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10212057,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Des&#xED;gnase a contar del 1 de agosto de 2020 y por un plazo de cuatro a&#xF1;os a los siguientes integrantes del Consejo Asesor Ministerial creado por decreto N&#xBA; 2, de 2020, del Ministerio de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Sylvia Eyzaguirre Tafra</div><div class=\"p\">&nbsp; &nbsp;  2.- Andr&#xE9;s Jord&#xE1;n Colzani</div><div class=\"p\">&nbsp; &nbsp;  3.- James McPhee Torres</div><div class=\"p\">&nbsp; &nbsp;  4.- Chantal Signorio Larzabal.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Des&#xED;gnase a contar del 1 de agosto de 2020 y por un plazo de cuatro a&#xF1;os a los siguientes integrantes del Consejo Asesor Ministerial creado por decreto N&#xBA; 2, de 2020, del Ministerio de Ciencia, Tecnolog&#xED;a, Conocimiento e Innovaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Sylvia Eyzaguirre Tafra</div><div class=\"p\">&nbsp; &nbsp;  2.- Andr&#xE9;s Jord&#xE1;n Colzani</div><div class=\"p\">&nbsp; &nbsp;  3.- James McPhee Torres</div><div class=\"p\">&nbsp; &nbsp;  4.- C<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>hantal Signorio Larzabal.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo del Decreto 20, Ciencia, publicado el 29.09.2023, modifica el art&#xED;culo primero del presente decreto, en el sentido de designar en reemplazo de la consejera Chantal Signorio Larzabal y por el periodo que resta para cumplir sus funciones a do&#xF1;a Marisol Yazm&#xED;n Ximena Facuse Mu&#xF1;oz.</div></div>"
+        }
+      ]
+    }
+  }
+]

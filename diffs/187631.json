@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2001-07-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-07-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7284318,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21.- F&#xED;janse las siguientes plantas de personal:</div><br><div class=\"p\">a)&nbsp;  Planta directiva de exclusiva confianza</div><br><div class=\"p\">&nbsp; &nbsp;  Nivel&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Cargo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  N&#xFA;mero de cargos</div><br><div class=\"p\">&nbsp; &nbsp;  Primer Nivel&nbsp; &nbsp; Director&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1</div><div class=\"p\">&nbsp; &nbsp;  Segundo Nivel&nbsp;  Directivos&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3</div><div class=\"p\">&nbsp; &nbsp;  Tercer Nivel&nbsp; &nbsp; Jefe de Departamento&nbsp; 4</div><br><div class=\"p\">b)&nbsp;  De profesionales funcionarios afectos a las leyes N&#xBA; 15.076 y N&#xBA; 19.664: 1.232 horas semanales.</div><br><div class=\"p\">&nbsp; &nbsp;  El remanente de horas se proveer&#xE1; mediante empleos a contrata, sin que les sea aplicable la norma del inciso 2&#xBA; del art&#xED;culo 9&#xBA; de la ley N&#xBA; 18.834.</div><div class=\"p\">&nbsp; &nbsp;  Los empleos a contrata del personal afecto a la ley 18.834, se proveer&#xE1;n mediante concurso.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21.- F&#xED;janse las siguientes plantas de personal:</div><br><div class=\"p\">a)&nbsp;  Planta directiva de exclusiva confianza</div><br><div class=\"p\">&nbsp; &nbsp;  Nivel&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Cargo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  N&#xFA;mero de cargos</div><br><div class=\"p\">&nbsp; &nbsp;  Primer Nivel&nbsp; &nbsp; Director&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1</div><div class=\"p\">&nbsp; &nbsp;  Segundo Nivel&nbsp;  Directivos&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3</div><div class=\"p\">&nbsp; &nbsp;  Tercer Nivel&nbsp; &nbsp; Jefe de Departamento&nbsp; 4</div><br><div class=\"p\">b)&nbsp;  De profesionales funcionarios afectos a las leyes N&#xBA; 15.076 y N&#xBA; 19.664: 1.232 horas semanales.</div><br><div class=\"p\">&nbsp; &nbsp;  El remanente de horas se proveer&#xE1; mediante empleos a contrata, sin que les sea aplicable la norma del inciso 2&#xBA; del art&#xED;culo 9&#xBA; de la ley N&#xBA; 18.834.</div><div class=\"p\">&nbsp; &nbsp;  Los empleos a contrata del personal afecto a la ley 18.834, se proveer&#xE1;n mediante concurso, a<span class=\"n\" id=\"n_0\">LEY 20270<br>Art. 3&#xBA;<br>D.O. 02.07.2008</span> excepci&#xF3;n de los contratos por reemplazos originados en causas legales, los que podr&#xE1;n ser provistos mediante un proceso de selecci&#xF3;n.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-12-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7284318,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21.- F&#xED;janse las siguientes plantas de personal:</div><br><div class=\"p\">a)&nbsp;  Planta directiva de exclusiva confianza</div><br><div class=\"p\">&nbsp; &nbsp;  Nivel&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Cargo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  N&#xFA;mero de cargos</div><br><div class=\"p\">&nbsp; &nbsp;  Primer Nivel&nbsp; &nbsp; Director&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1</div><div class=\"p\">&nbsp; &nbsp;  Segundo Nivel&nbsp;  Directivos&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3</div><div class=\"p\">&nbsp; &nbsp;  Tercer Nivel&nbsp; &nbsp; Jefe de Departamento&nbsp; 4</div><br><div class=\"p\">b)&nbsp;  De profesionales funcionarios afectos a las leyes N&#xBA; 15.076 y N&#xBA; 19.664: 1.232 horas semanales.</div><br><div class=\"p\">&nbsp; &nbsp;  El remanente de horas se proveer&#xE1; mediante empleos a contrata, sin que les sea aplicable la norma del inciso 2&#xBA; del art&#xED;culo 9&#xBA; de la ley N&#xBA; 18.834.</div><div class=\"p\">&nbsp; &nbsp;  Los empleos a contrata del personal afecto a la ley 18.834, se proveer&#xE1;n mediante concurso, a<span class=\"n\" id=\"n_0\">LEY 20270<br>Art. 3&#xBA;<br>D.O. 02.07.2008</span> excepci&#xF3;n de los contratos por reemplazos originados en causas legales, los que podr&#xE1;n ser provistos mediante un proceso de selecci&#xF3;n.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21.- F&#xED;janse las siguientes plantas de personal:</div><br><div class=\"p\">a)&nbsp;  Planta directiva de exclusiva confianza</div><br><div class=\"p\">&nbsp; &nbsp;  Nivel&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Cargo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  N&#xFA;mero de cargos</div><br><div class=\"p\">&nbsp; &nbsp;  Primer Nivel&nbsp; &nbsp; Director&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1</div><div class=\"p\">&nbsp; &nbsp;  Segundo Nivel&nbsp;  Directivos&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3</div><div class=\"p\">&nbsp; &nbsp;  Tercer Nivel&nbsp; &nbsp; Jefe de Departamento&nbsp; 4</div><br><div class=\"p\">b)&nbsp;  De profesionales funcionarios afectos a las leyes N&#xBA; 15.076 y N&#xBA; 19.664: 1.232 horas semanales.</div><br><div class=\"p\">&nbsp; &nbsp;  El remanente de horas se proveer&#xE1; mediante empleos a contrata, sin que les sea aplicable la norma del inciso 2&#xBA; del art&#xED;culo 9&#xBA; de la ley N&#xBA; 18.834.</div><div class=\"p\">&nbsp; &nbsp;  Los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1170283&amp;idParte=10295502&amp;idVersion=2021-12-22\">Ley 21405<br>Art. 68<br>D.O. 22.12.2021</a></span>empleos a contrata del personal afecto a la ley N&#xB0;18.834, se proveer&#xE1;n mediante procesos de selecci&#xF3;n. Los contratos por reemplazos originados en causas legales, podr&#xE1;n ser provistos mediante procesos de selecci&#xF3;n internos o abiertos, indistintamente.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1170283,
+      "fecha": "2021-12-22"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-04-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-08-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9591601,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente Plan de Expropiaciones en la Regi&#xF3;n del Biob&#xED;o, para la ejecuci&#xF3;n del Proyecto &quot; Construcci&#xF3;n Costanera Mar, San Pedro de la Paz&quot;, C&#xF3;digo BlP 30282328-0, recomendado favorablemente por el Ministerio de Desarrollo Social para el proceso presupuestario 2015, Plan que se singulariza a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48749.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie aproximada inmueble a expropiar: 174.376,97 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Concepci&#xF3;n, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- A contar de la referida publicaci&#xF3;n, el Programa de Expropiaciones que por este acto se aprueba tendr&#xE1; una vigencia de dos a&#xF1;os.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente Plan de Expropiaciones en la Regi&#xF3;n del Biob&#xED;o, para la ejecuci&#xF3;n del Proyecto &quot; Construcci&#xF3;n Costanera Mar, San Pedro de la Paz&quot;, C&#xF3;digo BlP 30282328-0, recomendado favorablemente por el Ministerio de Desarrollo Social para el proceso presupuestario 2015, Plan que se singulariza a continuaci&#xF3;n:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48749.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie aproximada inmueble a expropiar: 174.376,97 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Concepci&#xF3;n, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- A contar de la referida publicaci&#xF3;n, el Programa de Expropiaciones que por este acto se aprueba tendr&#xE1; una vigencia de dos a&#xF1;os.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; del Decreto 175 Exento, Vivienda, publicado el 21.08.2015, modifica la presente norma en el sentido de agregar los siguientes inmuebles y superficies a expropiar, para la ejecuci&#xF3;n del referido proyecto, C&#xF3;digo BIP 30282328-0, recomendado favorablemente por el Ministerio de Desarrollo Social para el Proceso Presupuestario 2015.</div></div>"
+        }
+      ]
+    }
+  }
+]

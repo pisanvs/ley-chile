@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-01-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8315996,
+          "old": "<div><div class=\"p\">AUTORIZA A DON MANUEL MARTINEZ CORTES PARA INICIAR ACTIVIDADES PESQUERAS, DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON MANUEL MARTINEZ CORTES PARA INICIAR ACTIVIDADES PESQUERAS, DENIEGA AUTORIZACION QUE INDICA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

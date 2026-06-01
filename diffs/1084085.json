@@ -1,0 +1,40 @@
+[
+  {
+    "fecha": "2015-11-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-03-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9649595,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 43.- Las calderas nuevas, con una potencia t&#xE9;rmica nominal menor a 75 kWt, deber&#xE1;n cumplir con el l&#xED;mite m&#xE1;ximo de emisi&#xF3;n de material particulado y eficiencia que se indican en la Tabla siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/78336.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Las calderas nuevas deber&#xE1;n cumplir con las exigencias establecidas en la presente disposici&#xF3;n, desde la fecha de inicio de su operaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Para acreditar el cumplimiento de la presente disposici&#xF3;n, el propietario de la caldera deber&#xE1; presentar a la Superintendencia del Medio Ambiente, por &#xFA;nica vez, al momento de realizar su registro, un certificado de origen del fabricante, que indique que la caldera cumple con lo exigido en la tabla N&#xBA; 24.</div><div class=\"p\">&nbsp; &nbsp;  Se eximen de presentar dicho certificado las calderas nuevas que usan exclusivamente y en forma permanente un combustible gaseoso.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 43.- Las calderas nuevas, con una potencia t&#xE9;rmica nominal menor a 75 kWt, deber&#xE1;n cumplir con el l&#xED;mite m&#xE1;ximo de emisi&#xF3;n de material particulado y eficiencia que se indican en la Tabla siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/53516.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Las calderas nuevas deber&#xE1;n cumplir con las exigencias establecidas en la presente disposici&#xF3;n, desde la fecha de inicio de su operaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Para <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1115999&amp;idParte=9893432&amp;idVersion=2018-03-10\">Decreto 26, MEDIO AMBIENTE<br>Art. &#xDA;NICO, PRIMERO<br>D.O. 10.03.2018</a></span>acreditar el cumplimiento de la presente disposici&#xF3;n, el propietario de la caldera deber&#xE1; presentar a la Superintendencia del Medio Ambiente, por &#xFA;nica vez, un certificado de origen del fabricante, que indique que la caldera cumple con lo exigido en la Tabla N&#xB0; 24. La Superintendencia del Medio Ambiente certificar&#xE1; si se da cumplimiento a tales exigencias. El titular de la caldera deber&#xE1; acompa&#xF1;ar el certificado mencionado al momento de registrarse en el registro aludido en el art&#xED;culo 44 de este decreto, si se tratase de una caldera de uso residencial o bien deber&#xE1; acompa&#xF1;arlo al momento de registrarse en el registro regulado por el art&#xED;culo 3&#xB0; del DS N&#xB0; 10, de 2012, del Ministerio de Salud, seg&#xFA;n correspondiere.</div><div class=\"p\">&nbsp; &nbsp;  Se eximen de presentar dicho certificado las calderas nuevas que usan exclusivamente y en forma permanente un combustible gaseoso.</div><br></div>"
+        },
+        {
+          "part_id": 9649596,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 44.- La Superintendencia del Medio Ambiente conformar&#xE1; un registro de calderas de uso residencial, que servir&#xE1; para mejorar las herramientas de gesti&#xF3;n ambiental, tales como el inventario de emisiones de la zona saturada. Para lo anterior, los propietarios de toda caldera nueva o existente, que utilicen biomasa como combustible para fines de calefacci&#xF3;n y de uso residencial en una vivienda, que est&#xE1;n fuera del &#xE1;mbito de aplicaci&#xF3;n del decreto supremo N&#xBA; 10 del 2013, &quot;Reglamento de Calderas, Autoclaves y Equipos que utilizan Vapor de Agua&quot; del Ministerio de Salud, deber&#xE1;n entregar a la Superintendencia del Medio Ambiente la siguiente informaci&#xF3;n: horas de operaci&#xF3;n en el a&#xF1;o, consumo y tipo de combustible, y una copia de la ficha t&#xE9;cnica que acompa&#xF1;a la caldera.</div><div class=\"p\">&nbsp; &nbsp;  La Superintendencia del Medio Ambiente establecer&#xE1; en el plazo de tres meses, contados desde la publicaci&#xF3;n en el Diario Oficial del presente Decreto, la resoluci&#xF3;n que informar&#xE1; sobre el procedimiento, plazos y condiciones para registrar la caldera. La Superintendencia del Medio Ambiente generar&#xE1; un reporte anual, que enviar&#xE1; a la SEREMI del Medio Ambiente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 44.- La <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1115999&amp;idParte=9893432&amp;idVersion=2018-03-10\">Decreto 26, MEDIO AMBIENTE<br>Art. &#xDA;NICO, SEGUNDO<br>D.O. 10.03.2018</a></span>Secretar&#xED;a Regional Ministerial del Medio Ambiente conformar&#xE1; un registro de calderas de uso residencial, que servir&#xE1; para mejorar las herramientas de gesti&#xF3;n ambiental, tales como el inventario de emisiones de la zona saturada. Para lo anterior, los propietarios de toda caldera nueva o existente, que utilicen biomasa como combustible para fines de calefacci&#xF3;n y de uso residencial en una vivienda, que est&#xE1;n fuera del &#xE1;mbito de aplicaci&#xF3;n del decreto supremo N&#xBA; 10 del 2013, &quot;Reglamento de Calderas, Autoclaves y Equipos que utilizan Vapor de Agua&quot; del Ministerio de Salud, deber&#xE1;n entregar a la Superintendencia del Medio Ambiente la siguiente informaci&#xF3;n: horas de operaci&#xF3;n en el a&#xF1;o, consumo y tipo de combustible, y una copia de la ficha t&#xE9;cnica que acompa&#xF1;a la caldera.</div><div class=\"p\">&nbsp; &nbsp;  La <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1115999&amp;idParte=9893432&amp;idVersion=2018-03-10\">Decreto 26, MEDIO AMBIENTE<br>Art. &#xDA;NICO, TERCERO<br>D.O. 10.03.2018</a></span>Secretar&#xED;a Regional Ministerial del Medio Ambiente dispondr&#xE1; de un plazo de tres meses contados desde la publicaci&#xF3;n en el Diario Oficial del DS N&#xB0; 26 de 13 de junio de 2017, del Ministerio del Medio Ambiente, para dictar la resoluci&#xF3;n que informar&#xE1; sobre el procedimiento, plazos y condiciones para registrar la caldera.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1115999,
+      "fecha": "2018-03-10"
+    }
+  },
+  {
+    "fecha": "2025-03-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

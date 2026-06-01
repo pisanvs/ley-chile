@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-08-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-05-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6344308,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;E. SCHNEIDER TRADING CHILE LTDA.&quot; PARA AMPLIAR SUS ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;E. SCHNEIDER TRADING CHILE LTDA.&quot; PARA AMPLIAR SUS ACTIVIDADES PESQUERAS </div><br></div>"
+        }
+      ]
+    }
+  }
+]

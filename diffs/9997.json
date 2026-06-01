@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-08-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7139224,
+          "old": "<div><div class=\"p\">REGULA EL FUNCIONAMIENTO DE SERVICIOS DE LOCOMOCION COLECTIVA EN AREA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 145.- Santiago, 19 de Julio de 1991.- Visto: Lo dispuesto por los art&#xED;culos 1&#xBA; y 19n&#xFA;meros 8, 21 y 24 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; 56, 88, 89 y 118 de la ley No. 18.290 y 3&#xBA; inciso primero de la ley No. 18.696, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que la protecci&#xF3;n del medio ambiente en la ciudad de Santiago se ha transformado en una finalidad prioritaria en beneficio del bienestar y salubridad general de sus habitantes;</div><div class=\"p\">&nbsp; &nbsp;  2.- Que uno de los principales agentes contaminantes son los veh&#xED;culos con motor diesel como los de locomoci&#xF3;n colectiva de pasajeros, especialmente en las zonas de mayor congesti&#xF3;n en que el esfuerzo mec&#xE1;nico a que se somete a los veh&#xED;culos exacerba el mal que se trata de precaver;</div><div class=\"p\">&nbsp; &nbsp;  3.- Que se hace necesario reforzar y dar car&#xE1;cter m&#xE1;s permanente a las medidas de restricci&#xF3;n vehicular que se han tomado hasta la fecha, especialmente respecto de los veh&#xED;culos m&#xE1;s antiguos y, entre ellos, privilegiar a los de mayor capacidad de transporte considerando el menor espacio vial requerido por ellos en relaci&#xF3;n al n&#xFA;mero de pasajeros transportado.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">REGULA EL FUNCIONAMIENTO DE SERVICIOS DE LOCOMOCION<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">COLECTIVA EN AREA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 145.- Santiago, 19 de Julio de 1991.- Visto: Lo dispuesto por los art&#xED;culos 1&#xBA; y 19n&#xFA;meros 8, 21 y 24 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; 56, 88, 89 y 118 de la ley No. 18.290 y 3&#xBA; inciso primero de la ley No. 18.696, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que la protecci&#xF3;n del medio ambiente en la ciudad de Santiago se ha transformado en una finalidad prioritaria en beneficio del bienestar y salubridad general de sus habitantes;</div><div class=\"p\">&nbsp; &nbsp;  2.- Que uno de los principales agentes contaminantes son los veh&#xED;culos con motor diesel como los de locomoci&#xF3;n colectiva de pasajeros, especialmente en las zonas de mayor congesti&#xF3;n en que el esfuerzo mec&#xE1;nico a que se somete a los veh&#xED;culos exacerba el mal que se trata de precaver;</div><div class=\"p\">&nbsp; &nbsp;  3.- Que se hace necesario reforzar y dar car&#xE1;cter m&#xE1;s permanente a las medidas de restricci&#xF3;n vehicular que se han tomado hasta la fecha, especialmente respecto de los veh&#xED;culos m&#xE1;s antiguos y, entre ellos, privilegiar a los de mayor capacidad de transporte considerando el menor espacio vial requerido por ellos en relaci&#xF3;n al n&#xFA;mero de pasajeros transportado.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 214, Transportes, publicado el 20.11.1992, derog&#xF3; el presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-12-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8335161,
+          "old": "<div><div class=\"p\">AUTORIZA A DON SERGIO ANDRES GUARACHE FARIAS PARA INICIAR ACTIVIDADES PESQUERAS, DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON SERGIO ANDRES GUARACHE FARIAS PARA INICIAR ACTIVIDADES PESQUERAS, DENIEGA AUTORIZACION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

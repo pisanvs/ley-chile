@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-01-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9544791,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Aprueba la 8a n&#xF3;mina de Beneficiarios del Llamado, para el desarrollo de proyectos del programa &quot;Acondicionamiento T&#xE9;rmico del Pol&#xED;gono Javiera Carrera&quot;, mes de octubre 2014, los cuales se detallan a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  2.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/46334.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese en un peri&#xF3;dico de circulaci&#xF3;n regional un aviso que indique el lugar y fecha en que ser&#xE1;n publicadas las n&#xF3;minas de los postulantes seleccionados y los respectivos proyectos, conforme al resuelvo 1 de esta resoluci&#xF3;n, el nombre de cada postulante con su respectiva cedula de identidad.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Aprueba la 8a n&#xF3;mina de Beneficiarios del Llamado, para el desarrollo de proyectos del programa &quot;Acondicionamiento T&#xE9;rmico del Pol&#xED;gono Javiera Carrera&quot;, mes de octubre 2014, los cuales se detallan a continuaci&#xF3;n:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/46334.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese en un peri&#xF3;dico de circulaci&#xF3;n regional un aviso que indique el lugar y fecha en que ser&#xE1;n publicadas las n&#xF3;minas de los postulantes seleccionados y los respectivos proyectos, conforme al resuelvo 1 de esta resoluci&#xF3;n, el nombre de cada postulante con su respectiva cedula de identidad.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 26, Vivienda, publicado el 23.01.2015, modifica la presente norma en el sentido de reemplazar a la Empresa Constructora Servisan y Entidad Patrocinante Rucahue, por la Empresa Constructora Magapa y Entidad Patrocinante Interviva, de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

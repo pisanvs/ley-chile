@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2010-03-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-03-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8950478,
+          "old": null,
+          "new": "<div><br><div class=\"p\">DECRETO N&#xDA;MERO 153 EXENTO.- RENUEVA CONCESI&#xD3;N DE RADIODIFUSI&#xD3;N SONORA EN M&#xCD;NIMA COBERTURA PARA LA COMUNA DE CARAHUE.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

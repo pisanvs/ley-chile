@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-08-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002369,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1_: Autor&#xED;zase el funcionamiento al Centro de Formaci&#xF3;n T&#xE9;cnica Instituto John F. Kennedy, Centro de Capacitaci&#xF3;n V Regi&#xF3;n de Vi&#xF1;a del Mar, con sedes en Santiago y Rancagua, organizado por la Sociedad Instituto John F. Kennedy, Centro de Capacitaci&#xF3;n Quinta Regi&#xF3;n Limitada, cuyo fin es la docencia a nivel t&#xE9;cnico, para egresados de ense&#xF1;anza media, en las&nbsp; reas de administraci&#xF3;n y comercio, agropecuaria, arte y arquitectura, tecnolog&#xED;as, educaci&#xF3;n y ciencias sociales.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1_: Autor&#xED;zase el funcionamiento al Centro<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> de Formaci&#xF3;n T&#xE9;cnica Instituto John F. Kennedy, Centro de Capacitaci&#xF3;n V Regi&#xF3;n de Vi&#xF1;a del Mar, con sedes en Santiago y Rancagua, organizado por la Sociedad Instituto John F. Kennedy, Centro de Capacitaci&#xF3;n Quinta Regi&#xF3;n Limitada, cuyo fin es la docencia a nivel t&#xE9;cnico, para egresados de ense&#xF1;anza media, en las &#xE1;reas de administraci&#xF3;n y comercio, agropecuaria, arte y arquitectura, tecnolog&#xED;as, educaci&#xF3;n y ciencias sociales.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 456 Exento, Educaci&#xF3;n, publicado el 16.08.2004, modifica el presente art&#xED;culo, en el sentido de incorporar el nuevo local de funcionamiento:<br> Casa Central&nbsp; &nbsp;  : Vergara N&#xBA; 167 - Santiago<br> Local&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Vergara N&#xBA; 148 - Santiago (destinado<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; a ampliar las dependencias de la<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; instituci&#xF3;n para la realizaci&#xF3;n de<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; actividades de docencia<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; correspondientes a las carreras<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; actualmente aprobadas para la Casa<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Central).<br></div></div>"
+        }
+      ]
+    }
+  }
+]

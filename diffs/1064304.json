@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-07-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-02-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9487342,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Monumento Hist&#xF3;rico al &quot;Paso San Carlos&quot; ubicado en la comuna de Cochrane, provincia de Capit&#xE1;n Prat, Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida tiene una superficie aproximada de 3.764.588,65 mts. 2, como se grafica en el pol&#xED;gono con las letras A-B-C-D-E-A, del plano adjunto, que forma parte del presente decreto y cuyos l&#xED;mites son los siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/41243.jpg\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/41244.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Monumento Hist&#xF3;rico al &quot;Paso San Carlos&quot; ubicado en la comuna de Cochrane, provincia de Capit&#xE1;n Prat, Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida tiene una superficie aproximada de <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>3.764.588,65 mts. 2, como se grafica en el pol&#xED;gono con las letras A-B-C-D-E-A, del plano adjunto, que forma parte del presente decreto y cuyos l&#xED;mites son los siguientes:</div><br><div class=\"p\"> <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1129252&amp;idParte=10003248&amp;idVersion=2019-02-25\">Decreto 7. CULTURA<br>Art. 1<br>D.O. 25.02.2019</a></span>&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/89996.jpg\">.&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; del decreto 7, Cultura, publicado el 25.02.2019, modifica la presente norma en el sentido de indicar que el nuevo sitio abarca una superficie total de 5.123.849 metros cuadrados (512,38 hect&#xE1;reas), como se grafica en el plano N&#xB0; 006-2018. </div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1129252,
+      "fecha": "2019-02-25"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1999-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6214997,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1. Proh&#xED;bese el ingreso y circulaci&#xF3;n de los veh&#xED;culos inscritos en el Registro Nacional de Transporte de Pasajeros que presten servicios especiales en conformidad al aludido D.S. 237/92, por las calles que se encuentran comprendidas al interior del &#xE1;rea circunscrita por las siguientes v&#xED;as, todas pertenecientes a la comuna de Estaci&#xF3;n Central:</div><br><div class=\"p\">General Vel&#xE1;squez, Avda. Portales, Matucana, Alameda Bernardo O&apos;Higgins, Exposici&#xF3;n, 5 de Abril, hasta Avda. General Vel&#xE1;squez.</div><br><div class=\"p\">&nbsp; &nbsp;  2. Of&#xED;ciese al Departamento de Fiscalizaci&#xF3;n del Ministerio de Transportes y Telecomunicaciones, a la Direcci&#xF3;n de Tr&#xE1;nsito de la Municipalidad de Estaci&#xF3;n Central y a Carabineros de Chile a fin de que se adopten las medidas y se efect&#xFA;en los controles necesarios para dar eficaz cumplimiento al presente acto administrativo. Sin perjuicio de la publicaci&#xF3;n del presente acto administrativo &#xE9;ste comenzar&#xE1; a producir efectos desde la fecha de su dictaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. Der&#xF3;gase la resoluci&#xF3;n exenta N&#xBA; 1 de fecha 14 de enero de 1998, de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n Metropolitana. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. Proh&#xED;bese el ingreso y circulaci&#xF3;n de los veh&#xED;culos inscritos en el Registro Nacional de Transporte de Pasajeros que presten servicios especiales en conformidad al aludido D.S. 237/92, por las calles que se encuentran comprendidas al interior del &#xE1;rea circunscrita por las siguientes v&#xED;as, todas pertenecientes a la comuna de Estaci&#xF3;n Central:</div><br><div class=\"p\">&nbsp; &nbsp;  Av. Nueva Imperial, Av. Portales, Av. Matucana, Av. Libertador<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1037005&amp;idParte=9235462&amp;idVersion=2012-02-06\">Resoluci&#xF3;n 481 EXENTA,<br>TRANSPORTES<br>D.O. 06.02.2012</a></span> Bernardo O&apos;Higgins, Av. Exposici&#xF3;n, calle Arica, Av. 5 de Abril, calle General Amengual, calle Blanco Garc&#xE9;s hasta Nueva Imperial.</div><br><div class=\"p\">&nbsp; &nbsp;  2. Of&#xED;ciese al Departamento de Fiscalizaci&#xF3;n del Ministerio de Transportes y Telecomunicaciones, a la Direcci&#xF3;n de Tr&#xE1;nsito de la Municipalidad de Estaci&#xF3;n Central y a Carabineros de Chile a fin de que se adopten las medidas y se efect&#xFA;en los controles necesarios para dar eficaz cumplimiento al presente acto administrativo. Sin perjuicio de la publicaci&#xF3;n del presente acto administrativo &#xE9;ste comenzar&#xE1; a producir efectos desde la fecha de su dictaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. Der&#xF3;gase la resoluci&#xF3;n exenta N&#xBA; 1 de fecha 14 de enero de 1998, de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n Metropolitana. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1037005,
+      "fecha": "2012-02-06"
+    }
+  }
+]

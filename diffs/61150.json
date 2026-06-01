@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1983-04-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9047829,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- No obstante, se permitir&#xE1; la extracci&#xF3;n de sardina espa&#xF1;ola y jurel, de un tama&#xF1;o inferior al establecido en el art&#xED;culo precedente, s&#xF3;lo en los casos en que aparezcan como fauna acompa&#xF1;ante, en las capturas de otros recursos, en un porcentaje que no podr&#xE1; exceder del 20% en peso del desembarque total de la captura principal.</div><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- No obstante, se permitir&#xE1; la<span class=\"n\" id=\"n_0\">DTO 34, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 04.04.1983</span> extracci&#xF3;n, transporte, tenencia y elaboraci&#xF3;n de sardina espa&#xF1;ola y jurel, de un tama&#xF1;o inferior al establecido en el art&#xED;culo precedente, hasta un porcentaje no superior al 20% en peso de cada desembarque o de existencia en planta de elaboraci&#xF3;n o medios de transporte.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

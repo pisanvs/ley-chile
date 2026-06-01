@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1971-08-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-05-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8436579,
+          "old": "<div><div class=\"p\">CONCEDE PERSONALIDAD JURIDICA Y APRUEBA LOS ESTATUTOS A LA CORPORACION DENOMINADA &apos;AGRUPACION DE OBREROS MUNICIPALES JUBILADOS Y MONTEPIADAS DE SANTIAGO&apos;, CON DOMICILIO EN SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  SANTIAGO, 26 de julio de 1971.- hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 986.- Vistos estos antecedentes, lo dispuesto en el Decreto Reglamentario N&#xBA; 1540, publicado en el Diario Oficial de 18 de junio de 1966, y con lo informado por el Consejo de Defensa del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  DECRETO:</div><br></div>",
+          "new": "<div><div class=\"p\">CONCEDE PERSONALIDAD JURIDICA Y APRUEBA LOS ESTATUTOS A LA CORPORACION DENOMINADA &quot;AGRUPACION DE OBREROS MUNICIPALES JUBILADOS Y MONTEPIADAS DE SANTIAGO&quot;, CON DOMICILIO EN SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  SANTIAGO, 26 de julio de 1971.- hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 986.- Vistos estos antecedentes, lo dispuesto en el Decreto Reglamentario N&#xBA; 1540, publicado en el Diario Oficial de 18 de junio de 1966, y con lo informado por el Consejo de Defensa del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  DECRETO:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

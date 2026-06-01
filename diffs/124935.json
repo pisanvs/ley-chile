@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-12-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-02-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8335038,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA LAGO RI&#xD1;IHUE S.A. PARA CONTINUAR DESARROLLANDO ACTIVIDADES. MODIFICA RESOLUCION QUE INDICA. AMPLIA ACTIVIDADES QUE SE&#xD1;ALA. DENIEGA AUTORIZACION QUE MENCIONA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA LAGO RI&#xD1;IHUE S.A. PARA CONTINUAR DESARROLLANDO ACTIVIDADES. MODIFICA RESOLUCION QUE INDICA. AMPLIA ACTIVIDADES QUE SE&#xD1;ALA. DENIEGA AUTORIZACION QUE MENCIONA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-01-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-03-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9398053,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Decl&#xE1;rase Internacional la Feria &quot;Expo Hospital 2014&quot;, IV muestra internacional de tecnolog&#xED;as, productos y servicios para hospitales y cl&#xED;nicas, organizada por FISA S.A., RUT N&#xBA;96.955.780-0, que se llevar&#xE1; a efecto desde el 24 al 26 de julio de 2014.</div><div class=\"p\">&nbsp; &nbsp;  2.- Habil&#xED;tase como Recinto Ferial para la mencionada Feria, el Centro de Convenciones Espacio Riesco, ubicado en Avenida El Salto N&#xBA;5000, comuna de Huechuraba, Regi&#xF3;n Metropolitana, cuyos deslindes son los siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">- Al Norte, con parcelas 4 y 5 del Fundo El Salto.</div><div class=\"p\">- Al Sur, con parcelas 1, 2 y 7 del Fundo El Salto.</div><div class=\"p\">- Al Oriente, con Avenida El Salto.</div><div class=\"p\">- Al Poniente, con parcela 7 del Fundo El Salto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Decl&#xE1;rase Internacional la Feria &quot;Expo Hospital 2014&quot;, IV muestra internacional de tecnolog&#xED;as, productos y servicios para hospitales y cl&#xED;nicas, organizada por FISA S.A., RUT N&#xBA;96.955.780-0, que se llevar&#xE1; a efecto desde el 24 <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> al 26 de julio de 2014.</div><div class=\"p\">&nbsp; &nbsp;  2.- Habil&#xED;tase como Recinto Ferial para la mencionada Feria, el Centro de Convenciones Espacio Riesco, ubicado en Avenida El Salto N&#xBA;5000, comuna de Huechuraba, Regi&#xF3;n Metropolitana, cuyos deslindes son los siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">- Al Norte, con parcelas 4 y 5 del Fundo El Salto.</div><div class=\"p\">- Al Sur, con parcelas 1, 2 y 7 del Fundo El Salto.</div><div class=\"p\">- Al Oriente, con Avenida El Salto.</div><div class=\"p\">- Al Poniente, con parcela 7 del Fundo El Salto.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El Decreto 59 Exento, Hacienda, publicado el 29.03.2014, modifica la presente norma en el sentido que la feria &quot;Expo Hospital 2014&quot; se llevar&#xE1; a efecto desde el d&#xED;a 23 al 25 de julio de 2014.</div></div>"
+        }
+      ]
+    }
+  }
+]

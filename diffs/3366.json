@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1967-09-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-06-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8987584,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7.- La Oficina de Planificaci&#xF3;n y Presupuesto estar&#xE1; a cargo de un funcionario denominado Director de Planificaci&#xF3;n y Presupuesto, el que ser&#xE1; de la exclusiva confianza del Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Ser&#xE1;n, tambi&#xE9;n, de la exclusiva confianza del Presidente de la Rep&#xFA;blica los Planificadores de esa misma Oficina.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7.- La Oficina de Planificaci&#xF3;n y Presupuesto estar&#xE1; a cargo de un funcionario denominado Director de Planificaci&#xF3;n y Presupuesto, el que ser&#xE1; de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> la exclusiva confianza del Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Ser&#xE1;n, tambi&#xE9;n, de la exclusiva confianza del Presidente de la Rep&#xFA;blica los Planificadores de esa misma Oficina.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 1&#xB0; del DL 1065, Hacienda, publicado el 14.06.1975, suprimi&#xF3; el cargo de Director de Planificaci&#xF3;n y Presupuesto a que se refiere esta disposici&#xF3;n, creando el de Director de Finanzas, Control y Presupuestos Previsionales, con la dependencia y facultades indicados en su Art. 2&#xB0;.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

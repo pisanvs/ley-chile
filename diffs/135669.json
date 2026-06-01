@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-03-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-12-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002366,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.-&nbsp; Los recursos adicionales que ingresen a rentas generales de la Naci&#xF3;n tanto por impuestos a la renta y habitacional como por excedentes de las empresas p&#xFA;blicas y que provienen de las empresas de la Gran Miner&#xED;a del Cobre, generados porque el precio de venta de la libra de cobre sea superior al &quot;precio de referencia&quot;, deber&#xE1;n depositarse en una cuenta especial del Servicio de Tesorer&#xED;a y deber&#xE1;n destinarse al pago del servicio de la deuda de cargo del Tesorero P&#xFA;blico o a otros fines que por ley se disponga.&quot;</div><div class=\"p\">&nbsp; &nbsp;  El &quot;precio de referencia&quot; de la libra de cobre, ser&#xE1; fijado por decreto supremo expedido a trav&#xE9;s del Ministerio de Hacienda.&nbsp; Igual procedimiento se utilizar&#xE1; para la autorizaci&#xF3;n de los traspasos de los recursos destinados al fin se&#xF1;alado en el inciso anterior.</div><div class=\"p\">&nbsp; &nbsp;  El decreto supremo que fije el &quot;precio de referencia&quot; deber&#xE1; dictarse en el mes de Octubre del a&#xF1;o anterior al a&#xF1;o en que va a regir.</div><div class=\"p\">&nbsp; &nbsp;  Para fijar dicho precio, se tomar&#xE1; en consideraci&#xF3;n el promedio de los seis a&#xF1;os inmediatamente anteriores del precio &quot;spot&quot; de la Bolsa de Metales de Londres, ajustado de acuerdo al &#xED;ndice de Precios al por mayor de Estados Unidos de Am&#xE9;rica, expresado en centavos de d&#xF3;lar por libra, correspondiente a moneda del &#xFA;ltimo mes que se incluye en el c&#xE1;lculo.&nbsp; Respecto del a&#xF1;o inmediatamente anterior, solamente se considerar&#xE1; el promedio de los meses de Enero a Agosto.</div><div class=\"p\">&nbsp; &nbsp;  El &quot;precio de referencia&quot; ser&#xE1; fijado anualmente y no podr&#xE1; ser superior al que resulte de las bases establecidas en el inciso anterior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Los recursos adicionales que ingresen a rentas generales de la Naci&#xF3;n tanto por impuestos a la renta y habitacional como por excedentes de las empresas p&#xFA;blicas y que provienen de las empresas de la Gran Miner&#xED;a del Cobre, generados porque el precio de venta de la libra de cobre sea superior al &quot;precio de referencia&quot;, deber&#xE1;n depositarse en una cuenta especial del Servicio de Tesorer&#xED;a y deber&#xE1;n destinarse a<span class=\"n\" id=\"n_0\">LEY 18768<br>Art. 69 bis<br>D.O. 29.12.1988</span> amortizaciones extraordinarias de la deuda p&#xFA;blica fiscal. El &quot;precio de referencia&quot; de la libra de cobre, ser&#xE1; fijado por decreto supremo expedido a trav&#xE9;s del Ministerio de Hacienda.&nbsp; Igual procedimiento se utilizar&#xE1; para la autorizaci&#xF3;n de los traspasos de los recursos destinados al fin se&#xF1;alado en el inciso anterior. El decreto supremo que fije el &quot;precio de referencia&quot; deber&#xE1; dictarse en el mes de Octubre del a&#xF1;o anterior al a&#xF1;o en que va a regir. Para fijar dicho precio, se tomar&#xE1; en consideraci&#xF3;n el promedio de los seis a&#xF1;os inmediatamente anteriores del precio &quot;spot&quot; de la Bolsa de Metales de Londres, ajustado de acuerdo al &#xED;ndice de Precios al por mayor de Estados Unidos de Am&#xE9;rica, expresado en centavos de d&#xF3;lar por libra, correspondiente a moneda del &#xFA;ltimo mes que se incluye en el c&#xE1;lculo.&nbsp; Respecto del a&#xF1;o inmediatamente anterior, solamente se considerar&#xE1; el promedio de los meses de Enero a Agosto. El &quot;precio de referencia&quot; ser&#xE1; fijado anualmente y no podr&#xE1; ser superior al que resulte de las bases establecidas en el inciso anterior. </div></div>"
+        }
+      ]
+    }
+  }
+]

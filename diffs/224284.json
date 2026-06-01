@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-04-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-03-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7310897,
+          "old": "<div><div class=\"p\">ESTABLECE NUEVO ORDEN DE SUBROGANCIA PARA EL DIRECTOR EJECUTIVO DE LA COMISION NACIONAL DEL MEDIO AMBIENTE </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 94 exento.- Santiago, 29 de marzo de 2004.- Vistos: El art&#xED;culo 75 de la ley N&#xBA; 18.834 Estatuto Administrativo; la ley N&#xBA; 19.300, sobre Bases Generales del Medio Ambiente, y el decreto supremo N&#xBA; 19, de 2001, del Ministerio Secretar&#xED;a General de la Presidencia, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE NUEVO ORDEN DE SUBROGANCIA PARA EL DIRECTOR EJECUTIVO DE LA COMISION NACIONAL DEL MEDIO AMBIENTE </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 94 exento.- Santiago, 29 de marzo de 2004.- Vistos: El art&#xED;culo 75 de la ley N&#xBA; 18.834 Estatuto Administrativo; la ley N&#xBA; 19.300, sobre Bases Generales del Medio Ambiente, y el decreto supremo N&#xBA; 19, de 2001, del Ministerio Secretar&#xED;a General de la Presidencia, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

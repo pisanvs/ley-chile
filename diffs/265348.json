@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-10-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-07-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6745197,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo N&#xBA; 28: Se proh&#xED;be en el radio urbano<span class=\"n\" id=\"n_0\">DTO 1300,<br>M. DE PE&#xD1;ALOLEN<br>N&#xBA; 1<br>D.O. 14.07.2008</span> de la comuna, mantener aves de corral, establos, lecher&#xED;as, perreras, caballerizas, gallineros, conejeras, chancheras o panales de abejas, sin la autorizaci&#xF3;n de la Secretar&#xED;a Regional Ministerial de Salud de la Regi&#xF3;n Metropolitana y Servicio Agr&#xED;cola y Ganadero, cuando corresponda.</div><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

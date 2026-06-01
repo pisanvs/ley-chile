@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-02-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7195047,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE CARGAS DE RETIRO FORZOSO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 134.- Valpara&#xED;so, 4 de Febrero de 1993.- Vistos: Lo dispuesto en las resoluciones N&#xB0;s. 0528, de 24.06.91 y 0875, de 06.09.91, ambas de esta Administraci&#xF3;n de Puerto, que disponen n&#xF3;mina de mercanc&#xED;as que deben ser embarcadas o desembarcadas en forma directa, por cuento su naturaleza o caracter&#xED;sticas, peso, volumen, dimensiones causan trastornos en los flujos de transferencias de carga o en el almacenamiento; la conveniencia de definir con mayor precisi&#xF3;n las mercanc&#xED;as afectadas; lo dispuesto en el Art. 34, de la resoluci&#xF3;n N&#xB0; 21, de fecha 18.01.91, que establece el Reglamento para los servicios que presta la Empresa; y en virtud de las atribuciones que me han sido conferidas en mi calidad de Administrador del Puerto dicto la siguiente</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE CARGAS DE RETIRO FORZOSO</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 134.- Valpara&#xED;so, 4 de Febrero de 1993.- Vistos: Lo dispuesto en las resoluciones N&#xB0;s. 0528, de 24.06.91 y 0875, de 06.09.91, ambas de esta Administraci&#xF3;n de Puerto, que disponen n&#xF3;mina de mercanc&#xED;as que deben ser embarcadas o desembarcadas en forma directa, por cuento su naturaleza o caracter&#xED;sticas, peso, volumen, dimensiones causan trastornos en los flujos de transferencias de carga o en el almacenamiento; la conveniencia de definir con mayor precisi&#xF3;n las mercanc&#xED;as afectadas; lo dispuesto en el Art. 34, de la resoluci&#xF3;n N&#xB0; 21, de fecha 18.01.91, que establece el Reglamento para los servicios que presta la Empresa; y en virtud de las atribuciones que me han sido conferidas en mi calidad de Administrador del Puerto dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

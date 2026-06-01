@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1963-08-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1972-01-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8701736,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5.o- Sin perjuicio de lo dispuesto en el art&#xED;culo 21.o de la ley n&#xFA;mero 11.622, de 25 de Septiembre de 1954, el arrendador o subarrendador deber&#xE1; exigir al arrendatario o subarrendatario, antes de entregarle el inmueble materia del contrato, que deposite en el Banco del Estado de Chile, en cuotas de ahorro para la vivienda, una suma de dinero equivalente al monto de la renta de un per&#xED;odo mensual respectivo arrendamiento o subarrendamiento, siempre que la renta fijada en estos contratos sea superior a veinte escudos mensuales. El dep&#xF3;sito de garant&#xED;a deber&#xE1; hacerse a nombre del arrendador y s&#xF3;lo &#xE9;ste podr&#xE1;, al t&#xE9;rmino del contrato, solicitar de la Corporaci&#xF3;n de la Vivienda, sin forma de juicio, la devoluci&#xF3;n de las cuotas de ahorro depositadas a su nombre, cuotas de ahorro que se le restituir&#xE1;n en dinero efectivo seg&#xFA;n el valor que tengan a dicha fecha.</div><div class=\"p\">&nbsp; &nbsp;  Para aprobar la terminaci&#xF3;n del contrato ser&#xE1; suficiente la declaraci&#xF3;n escrita del arrendatario, o un certificado de la Comisar&#xED;a de Carabineros respectiva que acredite la desocupaci&#xF3;n de la casa arrendada, o una sentencia judicial que d&#xE9; constancia de la terminaci&#xF3;n del contrato. El arrendador deber&#xE1; entregar &#xED;ntegra al arrendatario la suma recibida de la Corporaci&#xF3;n de la Vivienda, sin perjuicio de las deducciones que corresponda hacer por perjuicios, cuentas impagas o rentas insolutas, de acuerdo a los t&#xE9;rminos del contrato de arrendamiento.</div><div class=\"p\">&nbsp; &nbsp;  El Banco del Estado de Chile deber&#xE1; contabilizar en una cuenta especial &quot;Cuenta de Arrendamiento&quot;, las cuotas de ahorro depositadas como garant&#xED;a de contratos de arrendamiento, separadamente del resto de las cuotas de ahorro.</div><div class=\"p\">&nbsp; &nbsp;  La devoluci&#xF3;n de las cuotas de ahorro a que se refieren los incisos precedentes, tendr&#xE1; lugar considerando el valor provisional de &#xE9;stas al momento de la devoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Ser&#xE1;n aplicables a las cuotas de ahorro de que se trata en el presente art&#xED;culo, todas las disposiciones legales y reglamentarias vigentes relativas a las mismas, en lo que no se contrapongan a lo dispuesto en esta ley.</div><div class=\"p\">&nbsp; &nbsp;  Si el arrendador o subarrendador entrega la propiedad sin cumplir con lo dispuesto en el inciso segundo, incurrir&#xE1; en una multa equivalente al 10% de la garant&#xED;a, por cada mes de atraso en la constituci&#xF3;n del dep&#xF3;sito, contado desde la entrega de la propiedad, multa que ser&#xE1; a beneficio de la Corporaci&#xF3;n de la Vivienda.</div><div class=\"p\">&nbsp; &nbsp;  La Corporaci&#xF3;n de la Vivienda podr&#xE1; demandar ejecutivamente al arrendador o subarrendador, o a quien los represente, la constituci&#xF3;n del dep&#xF3;sito de garant&#xED;a y el pago de las multas que correspondan, bast&#xE1;ndole como t&#xED;tulo para la ejecuci&#xF3;n un certificado del Banco del Estado, que acredite no haberse efectuado el dep&#xF3;sito de garant&#xED;a correspondiente ni haberse acreditado que la garant&#xED;a se haya otorgado en forma nominal.</div><div class=\"p\">&nbsp; &nbsp;  En caso que al constituir el dep&#xF3;sito de garant&#xED;a no resultare un n&#xFA;mero entero de &quot;cuotas de ahorro&quot; se aproximar&#xE1; al n&#xFA;mero&nbsp; entero superior m&#xE1;s pr&#xF3;ximo. Esta garant&#xED;a reemplazar&#xE1; a la establecida en el art&#xED;culo 21.o de la ley N.o 11.622.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5.o- DEROGADO<span class=\"n\" id=\"n_0\">LEY 17600<br>Art. 38<br>D.O. 17.01.1972</span> </div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1976-08-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8701738,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.o- Las Compa&#xF1;&#xED;as de Seguros y los Bancos Particulares deber&#xE1;n invertir anualmente en la adquisici&#xF3;n en cuotas de ahorro de la CORVI, una suma equivalente al 5% de sus utilidades imponibles para los efectos de la 3a. Categor&#xED;a de la Ley de Renta. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.o- DEROGADO<span class=\"n\" id=\"n_1\">DL 1519, VIVIENDA<br>Art. 19<br>D.O. 03.08.1976</span> </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

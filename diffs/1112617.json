@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2017-12-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-01-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9867004,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rese la comuna de Chait&#xE9;n, de la Regi&#xF3;n de Los Lagos, como zona afectada por cat&#xE1;strofe, derivada de las intensas precipitaciones que han azotado a dicho sector y provocado una remoci&#xF3;n de masa en el sector de Villa Santa Luc&#xED;a con las consecuencias que se han expresado en la parte considerativa del presente acto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rese la comuna de Chait&#xE9;n, de la Regi&#xF3;n de Los Lagos, como <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>zona afectada por cat&#xE1;strofe, derivada de las intensas precipitaciones que han azotado a dicho sector y provocado una remoci&#xF3;n de masa en el sector de Villa Santa Luc&#xED;a con las consecuencias que se han expresado en la parte considerativa del presente acto.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico del Decreto 1518, Interior, publicado el 23.01.2019, modifica la presente norma en el sentido de extender por el lapso de doce meses, contados desde el 16 de diciembre de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por cat&#xE1;strofe, a la comuna de Chait&#xE9;n, de la Regi&#xF3;n de Los Lagos, para la aplicaci&#xF3;n de las medidas de excepci&#xF3;n establecidas en la ley N&#xB0; 16.282, as&#xED; como de aquellas adoptadas y dispuestas por la autoridad bajo el imperio de dicha ley hasta esta fecha, para hacer frente a la emergencia surgida con motivo de evento geol&#xF3;gico de remoci&#xF3;n en masa.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-12-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9867004,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rese la comuna de Chait&#xE9;n, de la Regi&#xF3;n de Los Lagos, como <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>zona afectada por cat&#xE1;strofe, derivada de las intensas precipitaciones que han azotado a dicho sector y provocado una remoci&#xF3;n de masa en el sector de Villa Santa Luc&#xED;a con las consecuencias que se han expresado en la parte considerativa del presente acto.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico del Decreto 1518, Interior, publicado el 23.01.2019, modifica la presente norma en el sentido de extender por el lapso de doce meses, contados desde el 16 de diciembre de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por cat&#xE1;strofe, a la comuna de Chait&#xE9;n, de la Regi&#xF3;n de Los Lagos, para la aplicaci&#xF3;n de las medidas de excepci&#xF3;n establecidas en la ley N&#xB0; 16.282, as&#xED; como de aquellas adoptadas y dispuestas por la autoridad bajo el imperio de dicha ley hasta esta fecha, para hacer frente a la emergencia surgida con motivo de evento geol&#xF3;gico de remoci&#xF3;n en masa.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rese la comuna de Chait&#xE9;n, de la Regi&#xF3;n de Los Lagos, como <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>zona afectada por cat&#xE1;strofe, <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>derivada de las intensas precipitaciones que han azotado a dicho sector y provocado una remoci&#xF3;n de masa en el sector <div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div>de Villa Santa Luc&#xED;a con las consecuencias que se han expresado en la parte considerativa del presente acto.</div><br><br><br><br><br><br><br><br><br><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico del Decreto 1518, Interior, publicado el 23.01.2019, modifica la presente norma en el sentido de extender por el lapso de doce meses, contados desde el 16 de diciembre de 2018, el plazo de vigencia de la declaraci&#xF3;n como zona afectada por cat&#xE1;strofe, a la comuna de Chait&#xE9;n, de la Regi&#xF3;n de Los Lagos, para la aplicaci&#xF3;n de las medidas de excepci&#xF3;n establecidas en la ley N&#xB0; 16.282, as&#xED; como de aquellas adoptadas y dispuestas por la autoridad bajo el imperio de dicha ley hasta esta fecha, para hacer frente a la emergencia surgida con motivo de evento geol&#xF3;gico de remoci&#xF3;n en masa.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico del Decreto 38, Interior, publicado el 26.12.2019, modifica la presente norma en el sentido de prorrogar por dos a&#xF1;os la vigencia de las disposiciones contenidas en el art&#xED;culo 116 bis D) del DFL N&#xBA; 458 (V. y U.), de 1975, Ley General de Urbanismo y Construcciones, para la comuna de Chait&#xE9;n, declarada como zona afectada por cat&#xE1;strofe por el presente decreto, en lo que resultare pertinente, a contar del vencimiento del plazo de dos a&#xF1;os desde la publicaci&#xF3;n de este decreto.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 37, Interior, publicado el 26.12.2019, modifica la presente norma en el sentido de prorrogar por dos a&#xF1;os contados desde el vencimiento del plazo a que se refiere el art&#xED;culo 27 del T&#xED;tulo I de la ley N&#xBA; 16.282, el que a su vez debe contarse desde la declaraci&#xF3;n de cat&#xE1;strofe, para que la Municipalidad de Chait&#xE9;n pueda solicitar al Ministerio de Vivienda y Urbanismo la aprobaci&#xF3;n de los planes o modificaciones a que alude dicho art&#xED;culo en la zona declarada como afectada por cat&#xE1;strofe .</div></div>"
+        }
+      ]
+    }
+  }
+]

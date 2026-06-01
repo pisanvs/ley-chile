@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-12-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5945444,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO N&#xB0; 601 EXENTO, DE 1995 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xB0; 601 EXENTO, DE 1995</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1973-03-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-11-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845514,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- El Servicio Nacional de Salud deber&#xE1;, por esta &#xFA;nica vez, incorporar a la planta permanente de los mismos establecimientos en que se encuentren ejerciendo, a todos los Cirujanos Dentistas contratados en cargos cl&#xED;nicos, sin necesidad de llamado a concurso y siempre que est&#xE9;n calificados en lista de m&#xE9;ritos y existan las vacantes respectivas.</div><div class=\"p\">&nbsp; &nbsp; Se except&#xFA;an de esta incorporaci&#xF3;n a los Dentistas contratados bajo el sistema de Dentistas Generales de Zona y aquellos cuyos contratos est&#xE9;n respaldados por cargos de Dentista Jefe de Servicio y Dentista Inspector Zonal.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- DEROGADO<span class=\"n\" id=\"n_0\">DL 721, SALUD<br>Art. 1&#xBA;<br>D.O. 02.11.1974</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

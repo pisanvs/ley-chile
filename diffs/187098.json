@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8537735,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA VI&#xD1;A DEL MAR LTDA., PARA DESARROLLAR ACTIVIDADES PESQUERAS QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA VI&#xD1;A DEL MAR LTDA., PARA DESARROLLAR ACTIVIDADES PESQUERAS QUE SE&#xD1;ALA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-01-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-09-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7306745,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo N&#xBA; 1.- Proc&#xE9;dase, a contar de esta fecha, por parte de la Direcci&#xF3;n de Administraci&#xF3;n y Finanzas Municipales a la apertura del Registro de Personas Jur&#xED;dicas Receptoras de Fondos P&#xFA;blicos, que existir&#xE1; en la Ilustre Municipalidad de Caldera.</div><div class=\"p\">&nbsp; &nbsp;  Para estos efectos, se entender&#xE1; por transferencia de fondos p&#xFA;blicos, las subvenciones a Personas Jur&#xED;dicas, sin prestaci&#xF3;n rec&#xED;proca en bienes o servicios y todo subsidio que por cualquier motivo otorgue la I. Municipalidad de Caldera para financiamiento de actividades espec&#xED;ficas o programas especiales y los gastos inherentes o asociados a la realizaci&#xF3;n de &#xE9;stos.</div><div class=\"p\">&nbsp; &nbsp;  Las Personas Jur&#xED;dicas que postulen a obtener fondos o subvenciones municipales deber&#xE1;n estar inscritas en el citado registro con anterioridad a su solicitud, conforme a lo dispuesto en la ley N&#xBA; 19.862 y su reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, deber&#xE1;n incorporarse al registro aquellas personas jur&#xED;dicas que efect&#xFA;en donaciones a la Ilustre Municipalidad de Caldera, sujetas a alg&#xFA;n beneficio tributario.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo N&#xBA; 1.- Proc&#xE9;dase, a contar de esta fecha, por parte de la Direcci&#xF3;n de Administraci&#xF3;n y Finanzas Municipales a la apertura del Registro de Personas Jur&#xED;dicas Receptoras de Fondos P&#xFA;blicos, que existir&#xE1; en la Ilustre Municipalidad de Caldera.</div><div class=\"p\">&nbsp; &nbsp;  Para estos efectos, se entender&#xE1; por transferencia de fondos p&#xFA;blicos, las subvenciones a Personas Jur&#xED;dicas, sin prestaci&#xF3;n rec&#xED;proca en bienes o servicios y todo subsidio que por cualquier motivo otorgue la I. Municipalidad de Caldera para financiamiento de actividades espec&#xED;ficas o programas especiales y los gastos inherentes o asociados a la realizaci&#xF3;n de &#xE9;stos.</div><div class=\"p\">&nbsp; &nbsp;  Las Personas Jur&#xED;dicas que postulen a obtener fondos o subvenciones municipales deber&#xE1;n estar inscritas en el citado registro con anterioridad a su solicitud, conforme a lo dispuesto en la ley N&#xBA; 19.862 y su reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de que adem&#xE1;s, cuando corresponda,<span class=\"n\" id=\"n_0\">DTO 1499, CALDERA<br>N&#xBA; 2<br>D.O. 20.09.2004</span> deban cumplir con los requisitos exigidos en las bases Administrativas respectivas.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, deber&#xE1;n incorpora se al registro aquellas personas jur&#xED;dicas que efect&#xFA;en donaciones a la Ilustre Municipalidad de Caldera, sujetas a alg&#xFA;n beneficio tributario.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

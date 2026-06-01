@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-08-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8318623,
+          "old": "<div><div class=\"p\">ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO QUE INDICA </div><div class=\"p\">N&#xFA;m. 52 exento.- Santiago, 07 de Agosto de 1992.- Visto: Lo dispuesto en los art&#xED;culos No. s 1&#xB0; y 3&#xB0; del DL No. 799 de 1974, modificado por el DFL No. 12-2.345 de 1974; Decretos N&#xBA;.s 1.407 de 1991 y 45 de 1992, ambos del Interior; Circular No. 9.277 de 1975 y Resoluci&#xF3;n No. 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; Memor&#xE1;ndum s/n de fecha 30 de Julio de 1992, del Gabinete del Sr. Ministro de Econom&#xED;a, y antecedentes que se acompa&#xF1;an.</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO QUE INDICA </div><div class=\"p\">N&#xFA;m. 52 exento.- Santiago, 07 de Agosto de 1992.- Visto: Lo dispuesto en los art&#xED;culos No. s 1&#xB0; y 3&#xB0; del DL No. 799 de 1974, modificado por el DFL No. 12-2.345 de 1974; Decretos N&#xBA;.s 1.407 de 1991 y 45 de 1992, ambos del Interior; Circular No. 9.277 de 1975 y Resoluci&#xF3;n No. 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; Memor&#xE1;ndum s/n de fecha 30 de Julio de 1992, del Gabinete del Sr. Ministro de Econom&#xED;a, y antecedentes que se acompa&#xF1;an.</div><br><div class=\"p\">Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-12-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-11-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6452432,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; 1&#xBA;.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile, la cual reviste car&#xE1;cter de obligatoria, la norma t&#xE9;cnica que a continuaci&#xF3;n se indica:</div><div class=\"p\">NCh 2745. Of. 2003&nbsp; &nbsp; An&#xE1;lisis y dise&#xF1;o de edificios con</div><div class=\"p\">aislaci&#xF3;n s&#xED;smica.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Corresponder&#xE1; al Instituto Nacional de Normalizaci&#xF3;n publicar una minuta del presente decreto en el Diario Oficial y su texto &#xED;ntegro en documentos oficiales del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- El Instituto Nacional de Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de esta norma, debidamente certificada su conformidad con el texto oficial, a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionar el mismo n&#xFA;mero de ejemplares al Ministerio de Vivienda y Urbanismo, que la declara Norma Oficial de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; 1&#xBA;.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile, la cual reviste car&#xE1;cter de obligatoria, la norma t&#xE9;cnica que a continuaci&#xF3;n se indica:</div><div class=\"p\">NCh 2745. Of. 2003&nbsp; &nbsp; An&#xE1;lisis y dise&#xF1;o de edificios con<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">aislaci&#xF3;n s&#xED;smica.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Corresponder&#xE1; al Instituto Nacional de Normalizaci&#xF3;n publicar una minuta del presente decreto en el Diario Oficial y su texto &#xED;ntegro en documentos oficiales del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- El Instituto Nacional de Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de esta norma, debidamente certificada su conformidad con el texto oficial, a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionar el mismo n&#xFA;mero de ejemplares al Ministerio de Vivienda y Urbanismo, que la declara Norma Oficial de la Rep&#xFA;blica.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; letra d) del decreto 257 Exento, Vivienda, publicado el 19.11.2015, modifica la presente norma en el sentido de reemplazar la norma t&#xE9;cnica NCh2745.Of2003, por la norma t&#xE9;cnica NCh2745:2013.</div></div>"
+        }
+      ]
+    }
+  }
+]

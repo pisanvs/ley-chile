@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-06-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8317650,
+          "old": "<div><div class=\"p\">AUTORIZA A DON SERGIO AUGUSTO PRADO CARRASCO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON SERGIO AUGUSTO PRADO CARRASCO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

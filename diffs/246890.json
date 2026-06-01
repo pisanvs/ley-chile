@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2006-02-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-06-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6559643,
+          "old": "<div><div class=\"p\">DERECHOS DE AGUA EN COMUNA DE CABILDO </div></div>",
+          "new": "<div><div class=\"p\">DERECHOS DE AGUA EN COMUNA DE CABILDO</div><br><br><br></div>"
+        },
+        {
+          "part_id": 6559644,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Servicio Agr&#xED;cola y Ganadero mediante resoluci&#xF3;n exenta N&#xBA;218 del 16 de enero de 2005, conforme art&#xED;culo 5&#xBA; transitorio C&#xF3;digo Aguas, aprob&#xF3; estudio de regularizaci&#xF3;n de derechos de aprovechamiento de aguas del predio &quot;Hijuela Numero Uno de Alicahue o Hijuela Paihuen de Alicahue&quot;, de la comuna de Cabildo, provincia de Petorca, V Regi&#xF3;n, que consisten en los recursos extra&#xED;dos de 16 pozos noria. Dichos derechos son consuntivos, de ejercicio permanente y continuo. Publicaci&#xF3;n hecha conforme art&#xED;culo 13&#xBA; ley N&#xBA;18.377.- </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Servicio Agr&#xED;cola y Ganadero mediante resoluci&#xF3;n exenta N&#xBA;218 del 16 de enero de 2006, conforme art&#xED;culo<span class=\"n\" id=\"n_0\">AVI S/N,<br>AGRICULTURA<br>D.O. 15.06.2006</span> 5&#xBA; transitorio C&#xF3;digo Aguas, aprob&#xF3; estudio de regularizaci&#xF3;n de derechos de aprovechamiento de aguas del predio &quot;Hijuela Numero Uno de Alicahue o Hijuela Paihuen de Alicahue&quot;, de la comuna de Cabildo, provincia de Petorca, V Regi&#xF3;n, que consisten en los recursos extra&#xED;dos de 16 pozos noria. Dichos derechos son consuntivos, de ejercicio permanente y continuo. Publicaci&#xF3;n hecha conforme art&#xED;culo 13&#xBA; ley N&#xBA;18.377.-</div><br></div>"
+        }
+      ]
+    }
+  }
+]

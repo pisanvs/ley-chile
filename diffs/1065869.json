@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-08-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-06-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9500222,
+          "old": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase la circulaci&#xF3;n en d&#xED;as y horas inh&#xE1;biles y en d&#xED;as s&#xE1;bados, domingos y festivos, sin sujeci&#xF3;n a jornada ordinaria de trabajo, del veh&#xED;culo que a continuaci&#xF3;n se indica, utilizado por la Direcci&#xF3;n Nacional del Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Modelo&nbsp;  : Station Wagon Hyundai New Tucson GL 2.0</div><div class=\"p\">&nbsp; &nbsp;  A&#xF1;o&nbsp; &nbsp; &nbsp; : 2013</div><div class=\"p\">&nbsp; &nbsp;  Motor&nbsp; &nbsp; : D4HADU781928</div><div class=\"p\">&nbsp; &nbsp;  Chassis&nbsp; : KMHJT81VCDU731086</div><div class=\"p\">&nbsp; &nbsp;  Color&nbsp; &nbsp; : Negro</div><div class=\"p\">&nbsp; &nbsp;  Patente&nbsp; : FWST 82-9</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Ex&#xED;mase del uso del disco distintivo estatal establecido en el inciso 1&#xBA; del art&#xED;culo 3&#xBA; del decreto ley N&#xBA;799, de 1974, del Ministerio del Interior, al veh&#xED;culo Station Wagon Hyundai New Tucson GL 2.0, Placa Patente N&#xBA; FWST 82-9, arrendado por el Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp;  3. Autor&#xED;zase para que el veh&#xED;culo antes se&#xF1;alado sea guardado, de manera excepcional y en casos debidamente informados y calificados por el Director Nacional del Servicio Agr&#xED;cola y Ganadero, en el domicilio particular del funcionario V&#xED;ctor Eduardo Far&#xED;as Cavieres, quien tiene a su cargo la conducci&#xF3;n habitual del mismo, ubicado en Alfredo Rosende N&#xBA; 974, comuna de Recoleta.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase la circulaci&#xF3;n en d&#xED;as y horas inh&#xE1;biles y en d&#xED;as s&#xE1;bados, domingos y festivos, sin sujeci&#xF3;n a jornada ordinaria de trabajo, del veh&#xED;culo que a continuaci&#xF3;n se indica, utilizado por la Direcci&#xF3;n Nacional del Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Modelo&nbsp;  : Station Wagon Hyundai New Tucson GL 2.0</div><div class=\"p\">&nbsp; &nbsp;  A&#xF1;o&nbsp; &nbsp; &nbsp; : 2013</div><div class=\"p\">&nbsp; &nbsp;  Motor&nbsp; &nbsp; : D4HADU781928</div><div class=\"p\">&nbsp; &nbsp;  Chassis&nbsp; : KMHJT81VCDU731086</div><div class=\"p\">&nbsp; &nbsp;  Color&nbsp; &nbsp; : Negro</div><div class=\"p\">&nbsp; &nbsp;  Patente&nbsp; : FWST 82-9</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Ex&#xED;mase del uso del disco distintivo estatal establecido en el inciso 1&#xBA; del art&#xED;culo 3&#xBA; del decreto ley N&#xBA;799, de 1974, del Ministerio del Interior, al veh&#xED;culo Station Wagon Hyundai New Tucson GL 2.0, Placa Patente N&#xBA; FWST 82-9, arrendado por el Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp;  3.- Autor&#xED;zase<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1078292&amp;idParte=9606540&amp;idVersion=2015-06-10\">Decreto 82 EXENTO,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 10.06.2015</a></span> para que el veh&#xED;culo antes se&#xF1;alado sea guardado, de manera excepcional y en casos debidamente informados y calificados por el Director Nacional del Servicio Agr&#xED;cola y Ganadero, en el domicilio particular del funcionario Manuel Moreno Ja&#xF1;a, quien tiene a su cargo la conducci&#xF3;n habitual del mismo, ubicado en calle 9 de Julio N&#xBA; 5989, Block 33, Departamento 20, Comuna de Lo Prado.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1078292,
+      "fecha": "2015-06-10"
+    }
+  }
+]

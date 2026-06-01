@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1972-08-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7179378,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10.- Una vez efectuada la elecci&#xF3;n de los consejeros se comunicar&#xE1; por escrito esta designaci&#xF3;n al Jefe del Sevicio, instituciones o empresas donde se desempe&#xF1;e cada uno de ellos.</div><div class=\"p\">&nbsp; &nbsp; Por el hecho de ser elegido consejero gozar&#xE1; de los siguientes derechos:</div><div class=\"p\">&nbsp; &nbsp; 1.- Aquellos consejeros que se desempe&#xF1;en en el sector p&#xFA;blico, no podr&#xE1;n ser removidos de sus cargos funcionarios o empleos sino por la aplicaci&#xF3;n de una medida disciplinaria impuesta como consecuencia de un sumario previo y encontr&#xE1;ndose debidamente tramitado por la Contralor&#xED;a General de la Rep&#xFA;blica el decreto o resoluci&#xF3;n correspondiente.</div><div class=\"p\">&nbsp; &nbsp; Esta disposici&#xF3;n no regir&#xE1; respecto de los cargos de la exclusiva confianza del Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; En el caso de los que se desempe&#xF1;en en el sector privado ser&#xE1; aplicable el art&#xED;culo 10 de la ley N&#xB0; 16.455.</div><div class=\"p\">&nbsp; &nbsp; Esta inamovilidad se entender&#xE1; prorrogada hasta seis meses despu&#xE9;s de haber dejado el cargo de consejero. siempre que la cesaci&#xF3;n en &#xE9;l no se deba a censura u otra medida disciplinaria aplicada por el Colegio.</div><div class=\"p\">&nbsp; &nbsp; 2.- El tiempo que ocupen de sus respectivas jornadas de trabajo en el desempe&#xF1;o de estas labores, ser&#xE1; considerado como efectivamente trabajado para todos los efectos legales. Las calificaciones funcionarias o laborales de los consejeros, cuando procedan, no ser&#xE1;n afectadas por ese desempe&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; 3.- No podr&#xE1;n ser trasladados de localidad o de la funci&#xF3;n que desempe&#xF1;en sin su aceptaci&#xF3;n por escrito. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10.- DEROGADO<span class=\"n\" id=\"n_0\">LEY 18018<br>ART. 5<br>D.O. 14.08.1981</span> </div><br></div>"
+        },
+        {
+          "part_id": 7179401,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 31.- A partir de la vigencia de la presente ley, en los cargos de Jefatura de los Departamentos y Servicios de Bienestar Social de los organismos fiscales, semifiscales o de administraci&#xF3;n aut&#xF3;noma, municipales y particulares, s&#xF3;lo podr&#xE1; designarse a los profesioanles que poseen el t&#xED;tulo de Asistente Social. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 31.- DEROGADO<span class=\"n\" id=\"n_1\">LEY 18018<br>ART. 5<br>D.O. 14.08.1981</span> </div><br><br><br></div>"
+        },
+        {
+          "part_id": 7179403,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 33.- Los asistentes sociales, no podr&#xE1;n tener una jornada de trabajo superior a 33 horas semanales.</div><div class=\"p\">&nbsp; &nbsp; Esta jornada ser&#xE1; compatible con un m&#xE1;ximo de 15 horas semanales en otras instituciones, servicios o empresas, previa autorizaci&#xF3;n del Consejo Regional respectivo.</div><div class=\"p\">&nbsp; &nbsp; El reglamento establecer&#xE1; las normas de control de esta obligaci&#xF3;n y las multas en caso de omisi&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 33.- DEROGADO<span class=\"n\" id=\"n_2\">LEY 18018<br>ART. 5<br>D.O. 14.08.1981</span> </div><br></div>"
+        }
+      ]
+    }
+  }
+]

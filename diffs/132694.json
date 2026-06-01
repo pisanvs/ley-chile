@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-04-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-10-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8341828,
+          "old": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1;IA PESQUERA CAMANCHACA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA (Extracto)</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1;IA PESQUERA CAMANCHACA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA (Extracto)</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

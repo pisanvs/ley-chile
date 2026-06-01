@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-11-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-08-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6233232,
+          "old": "<div><div class=\"p\">AUTORIZA A DON RENE MAURICIO CURAZ FERNANDEZ PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON RENE MAURICIO CURAZ FERNANDEZ PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

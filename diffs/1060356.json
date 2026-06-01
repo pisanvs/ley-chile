@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-03-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-04-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9419605,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jase, a contar del lunes 24 de marzo de 2014 y hasta el viernes 11 de abril, un nuevo aval&#xFA;o por el gramo de metales nobles utilizado por las Unidades de Cr&#xE9;dito en el c&#xE1;lculo de los pr&#xE9;stamos con garant&#xED;a prendaria del rubro Alhajas, conforme a la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38735.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.&nbsp; T&#xE9;ngase presente que ser&#xE1; responsabilidad de los Administradores/as de las Unidades de Cr&#xE9;dito la difusi&#xF3;n de lo resuelto en los numerales precedentes entre el personal a su cargo, como as&#xED; tambi&#xE9;n ser&#xE1; responsabilidad del Subdepartamento de Inform&#xE1;tica realizar, en las fechas indicadas en el numeral precedente, los ajustes que correspondan al programa OCP para la adecuada aplicaci&#xF3;n de las instrucciones impartidas en el presente documento, en especial volver al t&#xE9;rmino del per&#xED;odo de promoci&#xF3;n a los valores fijados por <a href=\"https://www.leychile.cl/Navegar?idNorma=1058345&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n N&#xBA; 9, de 9 de enero de 2014</a>.</div><div class=\"p\">&nbsp; &nbsp;  3.&nbsp; Publ&#xED;quese en el Diario Oficial en conformidad a lo dispuesto en el art&#xED;culo 48 letra a) de la ley 19.880 sobre procedimientos administrativos, siendo responsabilidad del Departamento Administrativo el dar cumplimiento a esta obligaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1061021&amp;idParte=9428635&amp;idVersion=2014-04-09\">Resoluci&#xF3;n 161 EXENTA,<br>DIR. CR&#xC9;DITO PRENDARIO<br>N&#xBA; 1<br>D.O. 09.04.2014</a></span>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jase, a contar del lunes 24 de marzo de 2014 y hasta el lunes 21 de abril de 2014, un nuevo aval&#xFA;o por el gramo de metales nobles utilizado por las Unidades de Cr&#xE9;dito en el c&#xE1;lculo de los pr&#xE9;stamos con garant&#xED;a prendaria del rubro Alhajas, conforme a la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38735.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.&nbsp; T&#xE9;ngase presente que ser&#xE1; responsabilidad de los Administradores/as de las Unidades de Cr&#xE9;dito la difusi&#xF3;n de lo resuelto en los numerales precedentes entre el personal a su cargo, como as&#xED; tambi&#xE9;n ser&#xE1; responsabilidad del Subdepartamento de Inform&#xE1;tica realizar, en las fechas indicadas en el numeral precedente, los ajustes que correspondan al programa OCP para la adecuada aplicaci&#xF3;n de las instrucciones impartidas en el presente documento, en especial volver al t&#xE9;rmino del per&#xED;odo de promoci&#xF3;n a los valores fijados por resoluci&#xF3;n N&#xBA; 9, de 9 de enero de 2014.</div><div class=\"p\">&nbsp; &nbsp;  3.&nbsp; Publ&#xED;quese en el Diario Oficial en conformidad a lo dispuesto en el art&#xED;culo 48 letra a) de la ley 19.880 sobre procedimientos administrativos, siendo responsabilidad del Departamento Administrativo el dar cumplimiento a esta obligaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1061021,
+      "fecha": "2014-04-09"
+    }
+  }
+]

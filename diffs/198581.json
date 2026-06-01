@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-05-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8526767,
+          "old": "<div><div class=\"p\">ESTABLECE MEDIDAS EXTRAORDINARIAS PARA REGULAR LA EXPLOTACION DE RECURSO DENOMINADO LOCO</div><br><div class=\"p\">&nbsp; &nbsp;  No. 262.- Santiago, 19 Ago. 1985. Visto: el informe de la Subsecretaria de Pesca; lo dispuesto en el DFL No.</div><div class=\"p\">34, de 1931 cuyo texto refundido, coordinado y sistematizado fue fijado por el DFL No. 5, de 1983, en el Decreto Supremo No. 9 de 1085, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; en la ley No.</div><div class=\"p\">10.336, y</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que las medidas vigentes para regular la explotaci&#xF3;n del recurso denominado &quot;loco&quot;, desde la IV Regi&#xF3;n al Sur, son a&#xFA;n insuficientes para lograr una recuperaci&#xF3;n de esta especie,</div><div class=\"p\">&nbsp; &nbsp;  Que las informaciones existentes sobre el estado actual de este recurso hacen necesario adoptar medidas extraordinarias que permitan regular su explotaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE MEDIDAS EXTRAORDINARIAS PARA REGULAR LA EXPLOTACION DE RECURSO DENOMINADO LOCO</div><br><div class=\"p\">&nbsp; &nbsp;  No. 262.- Santiago, 19 Ago. 1985. Visto: el informe de la Subsecretaria de Pesca; lo dispuesto en el DFL No.</div><div class=\"p\">34, de 1931 cuyo texto refundido, coordinado y sistematizado fue fijado por el DFL No. 5, de 1983, en el Decreto Supremo No. 9 de 1085, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; en la ley No.</div><div class=\"p\">10.336, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que las medidas vigentes para regular la explotaci&#xF3;n del recurso denominado &quot;loco&quot;, desde la IV Regi&#xF3;n al Sur, son a&#xFA;n insuficientes para lograr una recuperaci&#xF3;n de esta especie,</div><div class=\"p\">&nbsp; &nbsp;  Que las informaciones existentes sobre el estado actual de este recurso hacen necesario adoptar medidas extraordinarias que permitan regular su explotaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1973-08-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-04-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9059246,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1&#xB0;.- Val&#xED;danse, para todos los efectos legales, los actos ejecutados en ejercicio de los derechos que habr&#xED;an conferido los preceptos que, consignados como art&#xED;culos 16 y 17, figuraron en la publicaci&#xF3;n de la ley N&#xB0; 17.590.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &quot;ARTICULO 1&#xB0; Val&#xED;danse, para todos los efectos legales, los actos ejecutados en ejercicio de los derechos que habr&#xED;an conferido los preceptos que, consignados como art&#xED;culos 16&#xB0; y 17&#xB0;, figuraron en la publicaci&#xF3;n de la ley 17.590.</div><br></div>"
+        },
+        {
+          "part_id": 9059247,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Los personales sujetos a la ley n&#xFA;mero 15.076 y los funcionarios del Servicio Nacional de Salud, que trabejen en Servicios de Asistencia P&#xFA;blica y Maternidades sujetos al sistema de guardias nocturnas, tendr&#xE1;n, para todos los efectos previsionales, una bonificaci&#xF3;n de un a&#xF1;o por cada cinco a&#xF1;os de servicios.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; Los personales sujetos a la ley 15.076,<span class=\"n\" id=\"n_0\">DL 2177,<br>1978,<br>Art. 2&#xB0;</span> y los funcionarios del Servicio Nacional de Salud que trabajen o hayan trabajado en Servicios de Urgencia y Maternidades sujetos al sistema de guardias nocturnos, tendr&#xE1;n, para todos los efectos previsionales, una bonificaci&#xF3;n de un a&#xF1;o por cada cinco a&#xF1;os de servicios. Lo dispuesto precedentemente no dar&#xE1; derecho a reliquidar las pensiones de jubilaci&#xF3;n ya concedidas.</div><div class=\"p\">&nbsp; &nbsp; Para impetrar el beneficio a que se refiere el inciso anterior, se considerar&#xE1; el desempe&#xF1;o total prestado en Servicios de Urgencia y Maternidades, sea como titular, interino, suplente o a contrata.</div><div class=\"p\">&nbsp; &nbsp; No se aplicar&#xE1; a los profesionales funcionarios que se acojan a esta disposici&#xF3;n lo establecido en el inciso quinto del art&#xED;culo 32&#xB0; de la ley 15.076.</div><br></div>"
+        },
+        {
+          "part_id": 9059248,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto publ&#xED;quese y ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; SANTIAGO, 17 de Agosto de mil novecientos setenta y tres.- SALVADOR ALLENDE G.- SERGIO INSUNZA BARRIOS.</div><div class=\"p\">&nbsp; &nbsp; Lo digo a U. para su conocimiento.- Dios guarde a U.- In&#xE9;s Vargas D., Subsecretario de Justicia. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, publ&#xED;quese y ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, diecisiete de agosto de mil novecientos setenta y tres.- SALVADOR ALLENDE GOSSENS.- Sergio Insunza.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

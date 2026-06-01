@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-06-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-10-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8355763,
+          "old": "<div><div class=\"p\">AUTORIZA A CORPORACION MUNICIPAL DE CURACO DE VELEZ PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A CORPORACION MUNICIPAL DE CURACO DE VELEZ PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

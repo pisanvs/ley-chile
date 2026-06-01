@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-09-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-04-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8326604,
+          "old": "<div><br><div class=\"p\">AUTORIZA A DON CARLOS OTEY AMPUERO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON CARLOS OTEY AMPUERO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

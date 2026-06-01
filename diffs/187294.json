@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-07-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-04-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6341435,
+          "old": "<div><div class=\"p\">DESIGNACION ANTE EL BANCO INTERAMERICANO DE DESARROLLO Y CORPORACION INTERAMERICANA DE INVERSIONES</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 484.- Santiago, 23 de mayo de 2001.- Vistos: Los decretos supremos de Hacienda N&#xBA;s. 837, de 2000, y 213, de 2001, y el art&#xED;culo 32&#xBA;, n&#xFA;mero 10, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DESIGNACION ANTE EL BANCO INTERAMERICANO DE DESARROLLO Y CORPORACION INTERAMERICANA DE INVERSIONES</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 484.- Santiago, 23 de mayo de 2001.- Vistos: Los decretos supremos de Hacienda N&#xBA;s. 837, de 2000, y 213, de 2001, y el art&#xED;culo 32&#xBA;, n&#xFA;mero 10, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

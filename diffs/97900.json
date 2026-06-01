@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-04-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-10-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6107607,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  art&#xED;culo 7 bis: El Bienestar podr&#xE1; financiar con<span class=\"n\" id=\"n_0\">DTO 28, TRABAJO<br>D.O. 14.10.2003</span> cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias, y contratar seguros de vida para sus afiliados, seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

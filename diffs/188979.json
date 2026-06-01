@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2001-08-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-08-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6347836,
+          "old": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DE IVA A ACUICOLA AGUAS AUSTRALES S.A.</div><br></div>",
+          "new": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DE IVA A ACUICOLA AGUAS AUSTRALES S.A.</div><br><br></div>"
+        },
+        {
+          "part_id": 6347837,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  La D&#xE9;cima Direcci&#xF3;n Regional Puerto Montt, del Servicio de Impuestos Internos, por resoluci&#xF3;n N&#xBA; Ex 455 de fecha 3 de julio de 2001 otorga, a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n al contribuyente Acu&#xED;cola Aguas Australes S.A., RUT. N&#xBA; 96.948.060-3, la calidad de agente retenedor del Impuesto al Valor Agregado en las adquisiciones de Especies Hidrobiol&#xF3;gicas, establecido en la resoluci&#xF3;n N&#xBA; Ex 3.311 de 30.06.2000 de la Direcci&#xF3;n Nacional, publicada en el Diario Oficial del d&#xED;a 03.07.2000.- </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  La D&#xE9;cima Direcci&#xF3;n Regional Puerto Montt, del Servicio de Impuestos Internos, por resoluci&#xF3;n N&#xBA; Ex 455 de fecha 13 de julio de 2001 otorga, a contar del<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 31.08.2001</span> 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n al contribuyente Acu&#xED;cola Aguas Australes S.A., RUT. N&#xBA; 96.948.060-3, la calidad de agente retenedor del Impuesto al Valor Agregado en las adquisiciones de Especies Hidrobiol&#xF3;gicas, establecido en la resoluci&#xF3;n N&#xBA; Ex 3.311 de 30.06.2000 de la Direcci&#xF3;n Nacional, publicada en el Diario Oficial del d&#xED;a 03.07.2000.- </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1963-03-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-01-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9069153,
+          "old": "<div><div class=\"p\">DECLARA DE UTILIDAD PUBLICA Y AUTORIZA LA EXPROPIACION DE LOS PREDIOS QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 31 de Enero de 1963.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N.o R. R. A. 9.- Visto lo dispuesto en los art&#xED;culos 28, 30, 31, 51 y 53 de la ley N.o 15.020, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">DECLARA DE UTILIDAD PUBLICA Y AUTORIZA LA EXPROPIACION<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> DE LOS PREDIOS QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 31 de Enero de 1963.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N.o R. R. A. 9.- Visto lo dispuesto en los art&#xED;culos 28, 30, 31, 51 y 53 de la ley N.o 15.020,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La letra b) del Art. 40 de la LEY 18755, publicada el 07.01.1989, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

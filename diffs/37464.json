@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1995-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-06-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949412,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- Que la n&#xF3;mina de armadores y embarcaciones que cumplen con los requisitos legales para operar en la unidad de pesquer&#xED;a de Merluza com&#xFA;n Merluccius gayi, en el litoral comprendido entre la IV Regi&#xF3;n y el paralelo 41&#xB0; 28,6&apos; L.S., en el &#xE1;rea se&#xF1;alada en sus respectivas autorizaciones, al 30 de junio de 1995, es la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Soc. Pesquera Artisa Ltda.: Chechita, Vi&#xF1;a del Mar; Soc. Pesquera B&#xED;o B&#xED;o Ltda.: Biomar III, Biomar IV, Biomar V; C&#xED;a. Pesquera Cabo Austral S.A.: Gendarme I; Pesquera Confisch S.A.: Sunnan I, Sunnan II, Sunnan III, Sunnan IV; Soc. Exportadora y Comercial Deshidro Ltda.: Berta; Pesquera el Golfo S.A.: Crist&#xF3;bal Col&#xF3;n, Mait&#xE9;n, Pelagos II, Pelikan, Polaris, Saint John; Exosur S.A.: Le Crabe Tambour; Mario Figueroa Inostroza: Pac&#xED;fico I; Pesquera Friosur S.A.: Friosur II, Friosur VI, Friosur VII, Friosur VIII; Marcelino Gonz&#xE1;lez Hern&#xE1;ndez (sucesi&#xF3;n).: Leucot&#xF3;n, Pesur I; Inversiones Delfines S.A. Cerrada.: Marlin; Pesquera Isolmar S.A.: Puma I; Pesca Chile S.A.: Cote Saint Jacques; Soc. Pesca Marina Ltda.: Polux; Pesquera San Sebasti&#xE1;n S.A.: Arteta, Llolleo; Pesquera Santa Luc&#xED;a S.A.: Albatros II, Bonn, Toekan; Universidad Cat&#xF3;lica de Valpara&#xED;so: Tiber&#xED;ades; Isabel Ruth V&#xE1;squez Navarro: Chonos 73, Nacho Fuentes.</div><div class=\"p\">&nbsp; &nbsp; 2.- Decl&#xE1;rase asimismo, que la nave hundida con autorizaci&#xF3;n vigente al 30 de junio de 1995 es la siguiente: Luis Arturo Quintanilla Valenzuela.: Horizonte I.</div><div class=\"p\">&nbsp; &nbsp; 3.- D&#xE9;janse sin efecto las Resoluciones N&#xB0; 836 de 1994, N&#xB0; 465 de 1995 y sus modificaciones, todas de esta Subsecretar&#xED;a, dictadas de conformidad con lo dispuesto en el art&#xED;culo 22 del D.S. N&#xB0; 430 de 1991 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, en relaci&#xF3;n con la unidad de pesquer&#xED;a de merluza com&#xFA;n, en virtud del texto de la presente resoluci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Que la n&#xF3;mina de armadores y embarcaciones que cumplen con los requisitos legales para operar en la unidad de pesquer&#xED;a de Merluza com&#xFA;n Merluccius gayi, en el litoral comprendido entre la IV Regi&#xF3;n y el paralelo 41&#xB0; 28,6&apos; L.S., en el &#xE1;rea se&#xF1;alada en sus respectivas autorizaciones, al 30 de junio de 1995, es la siguiente: Soc. Pesquera Artisa Ltda.: Chechita, Vi&#xF1;a del Mar; Soc. Pesquera B&#xED;o B&#xED;o Ltda.: Biomar III, Biomar IV, Biomar V; C&#xED;a. Pesquera Cabo Austral S.A.: Gendarme I; Pesquera Confisch S.A.: Sunnan I, Sunnan II, Sunnan III, Sunnan IV; Soc. Exportadora y Comercial Deshidro Ltda.: Berta; Pesquera el Golfo S.A.: Crist&#xF3;bal Col&#xF3;n, Mait&#xE9;n, Pelagos II, Pelikan, Polaris, Saint John; Exosur S.A.: Le Crabe Tambour; Mario Figueroa Inostroza: Pac&#xED;fico I; Pesquera Friosur S.A.: Friosur II, Friosur VI, Friosur VII, Friosur VIII; Marcelino Gonz&#xE1;lez Hern&#xE1;ndez (sucesi&#xF3;n).: Leucot&#xF3;n, Pesur I; Inversiones Delfines S.A. Cerrada.: Marlin; Pesquera Isolmar S.A.: Puma I; Pesca Chile S.A.: Cote Saint Jacques, Boston Blenheim,<span class=\"n\" id=\"n_0\">RES 1091, ECONOMIA<br>N&#xBA; 1<br>D.O. 18.06.1996</span> Boston Beverly; Soc. Pesca Marina Ltda.: Polux; Pesquera San Sebasti&#xE1;n S.A.: Arteta, Llolleo; Pesquera Santa Luc&#xED;a S.A.: Albatros II, Bonn, Toekan; Universidad Cat&#xF3;lica de Valpara&#xED;so: Tiber&#xED;ades; Isabel Ruth V&#xE1;squez Navarro: Chonos 73, Nacho Fuentes. 2.- Decl&#xE1;rase asimismo, que la nave hundida con autorizaci&#xF3;n vigente al 30 de junio de 1995 es la siguiente: Luis Arturo Quintanilla Valenzuela.: Horizonte I. 3.- D&#xE9;janse sin efecto las Resoluciones N&#xB0; 836 de 1994, N&#xB0; 465 de 1995 y sus modificaciones, todas de esta Subsecretar&#xED;a, dictadas de conformidad con lo dispuesto en el art&#xED;culo 22 del D.S. N&#xB0; 430 de 1991 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, en relaci&#xF3;n con la unidad de pesquer&#xED;a de merluza com&#xFA;n, en virtud del texto de la presente resoluci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1996-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

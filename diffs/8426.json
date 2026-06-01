@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-10-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8951846,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Los fondos del Servicio ser&#xE1;n depositados en cuentas corrientes bancarias y contra ellas podr&#xE1;n girar conjuntamente el jefe del Servicio y el jefe del Departamento Administrativo.</div><div class=\"p\">&nbsp; &nbsp; En caso de ausencia o impedimento de los giradores mencionados en el inciso primero, &#xE9;stos ser&#xE1;n reemplazados por el Abogado del Honorable Consejo a que se refiere el art&#xED;culo 10 del DFL. N&#xB0; 353, y el funcionario designado como Contador del mismo. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Los fondos del Servicio ser&#xE1;n depositados en cuentas corrientes bancarias y contra ellas podr&#xE1;n girar conjuntamente el jefe del Servicio y el jefe del Departamento Administrativo.</div><div class=\"p\">&nbsp; &nbsp; En caso de ausencia o impedimento de los giradores<span class=\"n\" id=\"n_0\">DTO 69, TRABAJO<br>D.O. 24.10.1998</span> mencionados en el inciso primero, &#xE9;stos ser&#xE1;n reemplazados por quien la Direcci&#xF3;n designe como primero y segundo reemplazante mediante resoluci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

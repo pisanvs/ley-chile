@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-02-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-05-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7289684,
+          "old": "<div><div class=\"p\">DECLARA CADUCIDAD PARCIAL DE RESOLUCIONES QUE INDICA </div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA CADUCIDAD PARCIAL DE RESOLUCIONES QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

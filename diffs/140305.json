@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-05-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-10-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7251336,
+          "old": "<div><div class=\"p\">RECONOCESE CAPITAL INMOVILIZADO DEL FERROCARRIL DE ANTOFAGASTA A BOLIVIA, AL 31 DE DICIEMBRE DE 1987 (Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 14.- Santiago, 31 de Marzo de 1988.- Visto: El oficio No. 5.300/88/069 del Ferrocarril de Antofagasta a Bolivia; el Memor&#xE1;ndum No. 32 de 09 de marzo de 1988 del Departamento Transporte Terrestre; lo dispuesto en los art&#xED;culos 76 y 100 No. 4 de la Ley General de Ferrocarriles; el art&#xED;culo 1&#xB0; de la Ley No. 16.436 de 1966 y los Decretos Leyes No. 557 de 1974 y No. 1.762 de 1978, y la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">RECONOCESE CAPITAL INMOVILIZADO DEL FERROCARRIL DE ANTOFAGASTA A BOLIVIA, AL 31 DE DICIEMBRE DE 1987 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 14.- Santiago, 31 de Marzo de 1988.- Visto: El oficio No. 5.300/88/069 del Ferrocarril de Antofagasta a Bolivia; el Memor&#xE1;ndum No. 32 de 09 de marzo de 1988 del Departamento Transporte Terrestre; lo dispuesto en los art&#xED;culos 76 y 100 No. 4 de la Ley General de Ferrocarriles; el art&#xED;culo 1&#xB0; de la Ley No. 16.436 de 1966 y los Decretos Leyes No. 557 de 1974 y No. 1.762 de 1978, y la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

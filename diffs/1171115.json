@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-06-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10300125,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Cr&#xE9;ase una Mesa T&#xE9;cnica para efectos de dar cumplimiento a lo dispuesto en la Glosa 34, de la Partida 16, Cap&#xED;tulo 10, Programa 01, de la Ley de Presupuestos del Sector P&#xFA;blico, a&#xF1;o 2021.</div><div class=\"p\">&nbsp; &nbsp;  2. La Mesa T&#xE9;cnica que se crea por el presente decreto, tendr&#xE1; una composici&#xF3;n interministerial y ser&#xE1; la encargada de elaborar un proyecto de ley que fortalezca el v&#xED;nculo del Hospital Cl&#xED;nico de la Universidad de Chile con el Sistema Nacional de Servicios de Salud, integr&#xE1;ndolo en una mayor medida a la red p&#xFA;blica de salud, y permitiendo una relaci&#xF3;n sin&#xE9;rgica entre el Hospital y el Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp;  3. La Mesa T&#xE9;cnica estar&#xE1; integrada por representantes de las siguientes instituciones:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/137803.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  4. La Mesa T&#xE9;cnica definir&#xE1; las acciones y normas que le permitir&#xE1;n funcionar de manera flexible y eficaz.</div><div class=\"p\">&nbsp; &nbsp;  5. Las instituciones que integran la Mesa T&#xE9;cnica y sus funcionarios(as) colaborar&#xE1;n en el cumplimiento del objetivo previsto en el numeral 2 del presente decreto.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Cr&#xE9;ase una Mesa T&#xE9;cnica para efectos de dar cumplimiento a lo dispuesto en la Glosa 34, de la Partida 16, Cap&#xED;tulo 10, Programa 01, de la Ley de Presupuestos del Sector P&#xFA;blico, a&#xF1;o 2021.</div><div class=\"p\">&nbsp; &nbsp;  2. La Mesa T&#xE9;cnica que se crea por el presente decreto, tendr&#xE1; una composici&#xF3;n interministerial y ser&#xE1; la encargada de elaborar un proyecto de ley que fortalezca el v&#xED;nculo del Hospital Cl&#xED;nico de la Universidad de Chile con el Sistema Nacional de Servicios de Salud, integr&#xE1;ndolo en una mayor medida a la red p&#xFA;blica de salud, y permitiendo una relaci&#xF3;n sin&#xE9;rgica entre el Hospital y el Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp;  3. La Mesa T&#xE9;cnica estar&#xE1; integrada por representantes de las siguientes institucione<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1176909&amp;idParte=10338854&amp;idVersion=2022-06-02\">Decreto 53 EXENTO,<br>SALUD<br>N&#xB0; 1<br>D.O. 02.06.2022</a></span>s:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149375.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149374.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  4. La Mesa T&#xE9;cnica definir&#xE1; las acciones y normas que le permitir&#xE1;n funcionar de manera flexible y eficaz.</div><div class=\"p\">&nbsp; &nbsp;  5. Las instituciones que integran la Mesa T&#xE9;cnica y sus funcionarios(as) colaborar&#xE1;n en el cumplimiento del objetivo previsto en el numeral 2 del presente decreto.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1176909,
+      "fecha": "2022-06-02"
+    }
+  }
+]

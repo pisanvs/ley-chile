@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2014-10-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-03-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9524048,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO I</div><br><div class=\"p\">&nbsp; &nbsp;  Cuentas Provisorias</div><div class=\"p\"> </div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO I Cuentas Provisorias.- <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1212048&amp;idParte=10542800&amp;idVersion=2025-03-25\">Resoluci&#xF3;n 13003 EXENTA,<br>ECONOM&#xCD;A<br>Art. V<br>D.O. 25.03.2025</a></span>Derogado.</div></div>"
+        },
+        {
+          "part_id": 9524049,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Oportunidad. Las cuentas provisorias deber&#xE1;n rendirse mensualmente ante la junta de acreedores, debiendo publicarse en el Boletin Concursal, dentro del plazo de 2 d&#xED;as seg&#xFA;n lo establecido en los art&#xED;culos 6&#xBA;, 47&#xBA; y siguientes de la Ley.</div><div class=\"p\">&nbsp; &nbsp;  Dentro del mismo plazo, las cuentas provisorias se deber&#xE1;n agregar al expediente del Procedimiento Concursal de Liquidaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.-<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1212048&amp;idParte=10542800&amp;idVersion=2025-03-25\">Resoluci&#xF3;n 13003 EXENTA,<br>ECONOM&#xCD;A<br>Art. V<br>D.O. 25.03.2025</a></span> Derogado.</div></div>"
+        },
+        {
+          "part_id": 9524050,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;. Forma de las cuentas provisorias. Las cuentas provisorias se confeccionar&#xE1;n de acuerdo a las normas contables vigentes, deber&#xE1;n adem&#xE1;s adecuarse a las normas sobre aspectos contables y financieros de la administraci&#xF3;n concursal que al efecto dicte la Superintendencia.</div><div class=\"p\">&nbsp; &nbsp;  Las cuentas deber&#xE1;n contemplar todo el movimiento del Procedimiento Concursal de Liquidaci&#xF3;n a la fecha de su corte contable, incluyendo un desglose detallado de los ingresos y gastos realizados durante el &#xFA;ltimo mes.</div><div class=\"p\">&nbsp; &nbsp;  Los saldos informados en las cuentas provisorias deber&#xE1;n concordar con los registros contables y sus respectivos respaldos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.- <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1212048&amp;idParte=10542800&amp;idVersion=2025-03-25\">Resoluci&#xF3;n 13003 EXENTA,<br>ECONOM&#xCD;A<br>Art. V<br>D.O. 25.03.2025</a></span>Derogado.</div></div>"
+        },
+        {
+          "part_id": 9524051,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;. Publicaci&#xF3;n de las cuentas provisorias en el Bolet&#xED;n Concursal. La publicaci&#xF3;n de las cuentas provisorias en el Bolet&#xED;n Concursal deber&#xE1; efectuarla el Liquidador, en conformidad a las reglas contenidas en la Norma de Car&#xE1;cter General N&#xBA; 3 de esta Superintendencia.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, el Liquidador deber&#xE1; ingresar la informaci&#xF3;n contenida en las cuentas provisorias a trav&#xE9;s de su perfil en la Plataforma Electr&#xF3;nica de esta Superintendencia, en formato Excel.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.- <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1212048&amp;idParte=10542800&amp;idVersion=2025-03-25\">Resoluci&#xF3;n 13003 EXENTA,<br>ECONOM&#xCD;A<br>Art. V<br>D.O. 25.03.2025</a></span>Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1212048,
+      "fecha": "2025-03-25"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-09-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-10-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10054538,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n Ex. N&#xBA; 2.932 de fecha 06/09/2019, conforme al art&#xED;culo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto &quot;Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte&quot;, Serviu Regi&#xF3;n de la Araucan&#xED;a orden&#xF3; la expropiaci&#xF3;n del inmueble denominado Lote N&#xBA; 194-0, consistente en &quot;Lote 1-3 de una superficie de 539,85 metros cuadrados, resultante de la subdivisi&#xF3;n del lote 1 de 4.720 metros cuadrados y &#xE9;ste a su vez del denominado lote N&#xBA; 6, camino Chol Chol de la comuna de Temuco&quot;, Rol de aval&#xFA;o 05034-00022, comuna de Temuco. La superficie a expropiar aproximada es de 51,48 metros cuadrados, de aparente dominio de Industria y Comercio Buen Asenso Ltda. Comisi&#xF3;n de Peritos designada al efecto, fij&#xF3; monto de Indemnizaci&#xF3;n Provisional en $7.201.850, seg&#xFA;n Informe N&#xBA; 194-0 de fecha 04/09/2019, pagadero Contado.- </div></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n Ex. N&#xBA; 2.933<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1137645&amp;idParte=10061992&amp;idVersion=2019-10-15\">Aviso S/N<br>D.O. 15.10.2019</a></span> de fecha 06/09/2019, conforme al art&#xED;culo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto &quot;Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte&quot;, Serviu Regi&#xF3;n de la Araucan&#xED;a orden&#xF3; la expropiaci&#xF3;n del inmueble denominado Lote N&#xBA; 194-0, consistente en &quot;Lote 1-3 de una superficie de 539,85 metros cuadrados, resultante de la subdivisi&#xF3;n del lote 1 de 4.720 metros cuadrados y &#xE9;ste a su vez del denominado lote N&#xBA; 6, camino Chol Chol de la comuna de Temuco&quot;, Rol de aval&#xFA;o 05034-00022, comuna de Temuco. La superficie a expropiar aproximada es de 51,48 metros cuadrados, de aparente dominio de Industria y Comercio Buen Asenso Ltda. Comisi&#xF3;n de Peritos designada al efecto, fij&#xF3; monto de Indemnizaci&#xF3;n Provisional en $7.201.850, seg&#xFA;n Informe N&#xBA; 194-0 de fecha 04/09/2019, pagadero Contado.- </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1137645,
+      "fecha": "2019-10-15"
+    }
+  }
+]

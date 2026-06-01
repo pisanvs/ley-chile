@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-05-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-09-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9476724,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Sexto: La presente resoluci&#xF3;n entrar&#xE1; en vigencia sin esperar su publicaci&#xF3;n en el Diario Oficial, en raz&#xF3;n de la urgencia requerida para adoptar las medidas necesarias a fin de hacer frente a los episodios de pre-emergencia y emergencia ambiental. Dicha vigencia se extender&#xE1; hasta el 31 de agosto de 2014, sin perjuicio de la facultad de poner t&#xE9;rmino anticipado a las condiciones sanitarias si as&#xED; lo permiten.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Sexto: La presente resoluci&#xF3;n entrar&#xE1; en vigencia sin esperar su publicaci&#xF3;n en el Diario Oficial, en raz&#xF3;n de la urgencia requerida para adoptar las medidas necesarias a fin de hacer frente a los episodios de pre-emergencia y emergencia ambiental. Dicha vigencia se extender&#xE1; hasta el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> 31 de agosto de 2014, sin perjuicio de la facultad de poner t&#xE9;rmino anticipado a las condiciones sanitarias si as&#xED; lo permiten.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 7857 Exenta, Salud, publicada el 24.09.2014, modifica la presenta norma en el sentido de prorrogar hasta el pr&#xF3;ximo 30 de septiembre la vigencia de la alerta sanitaria declarada y de las facultades extraordinarias conferidas.</div></div>"
+        }
+      ]
+    }
+  }
+]

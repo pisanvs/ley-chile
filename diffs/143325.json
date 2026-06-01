@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-01-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-04-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8350000,
+          "old": "<div><div class=\"p\">AUTORIZA A DON LUIS EVARISTO ROA MORALES PARA DESARROLLAR ACTIVIDADES PESQUERAS Y CADUCA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON LUIS EVARISTO ROA MORALES PARA DESARROLLAR ACTIVIDADES PESQUERAS Y CADUCA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8342085,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA AGUAMAR S.A. PARA INICIAR ACTIVIDADES PESQUERAS</div><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA AGUAMAR S.A. PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

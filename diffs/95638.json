@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-09-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-06-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8326456,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A CARMEN ROSA ALVAREZ CHACANO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A CARMEN ROSA ALVAREZ CHACANO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

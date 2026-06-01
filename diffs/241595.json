@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-09-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-08-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7322744,
+          "old": "<div><div class=\"p\">ESTABLECE MEDIDAS DE REGULACION PARA LAS ARTES DE PESCA QUE SE UTILICEN EN LA CAPTURA DE MERLUZA COMUN, EN LA ZONA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 238.- Santiago, 24 de Agosto de 1982.- Visto: Lo informado por la Subsecretar&#xED;a de Pesca; lo dispuesto en el decreto con fuerza de ley N&#xBA; 34, de 1931, modificado por la Ley N&#xBA; 18.129, de 1982; en el decreto ley N&#xBA; 2.442, de 1978, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que los estudios efectuados respecto al recurso denominado merluza com&#xFA;n (Merluccius gayi G) determinan que los cambios producidos en la abundancia relativa tienen relaci&#xF3;n directa con la disminuci&#xF3;n progresiva de los reclutamientos de juveniles al stock,</div><br><div class=\"p\">&nbsp; &nbsp;  Que los resultados de estos estudios hacen recomendable, adem&#xE1;s de fijar una cuota de captura, adoptar medidas de selectividad en las artes de pesca que se utilizan en esta pesquer&#xED;a,</div><br><div class=\"p\">&nbsp; &nbsp;  Que la aplicaci&#xF3;n de esta medida tiene por objeto favorecer el reclutamiento a trav&#xE9;s de la protecci&#xF3;n de los individuos de mayor potencial reproductivo, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE MEDIDAS DE REGULACION PARA LAS ARTES DE PESCA QUE SE UTILICEN EN LA CAPTURA DE MERLUZA COMUN, EN LA ZONA QUE INDIC<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>A</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 238.- Santiago, 24 de Agosto de 1982.- Visto: Lo informado por la Subsecretar&#xED;a de Pesca; lo dispuesto en el decreto con fuerza de ley N&#xBA; 34, de 1931, modificado por la Ley N&#xBA; 18.129, de 1982; en el decreto ley N&#xBA; 2.442, de 1978, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que los estudios efectuados respecto al recurso denominado merluza com&#xFA;n (Merluccius gayi G) determinan que los cambios producidos en la abundancia relativa tienen relaci&#xF3;n directa con la disminuci&#xF3;n progresiva de los reclutamientos de juveniles al stock,</div><br><div class=\"p\">&nbsp; &nbsp;  Que los resultados de estos estudios hacen recomendable, adem&#xE1;s de fijar una cuota de captura, adoptar medidas de selectividad en las artes de pesca que se utilizan en esta pesquer&#xED;a,</div><br><div class=\"p\">&nbsp; &nbsp;  Que la aplicaci&#xF3;n de esta medida tiene por objeto favorecer el reclutamiento a trav&#xE9;s de la protecci&#xF3;n de los individuos de mayor potencial reproductivo, </div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Numeral 6 de la Resoluci&#xF3;n 2808 Exenta, Econom&#xED;a, publicada el 31.08.2005, dispone que a partir del 15 de septiembre del a&#xF1;o 2005, quedar&#xE1; sin efecto la regulaci&#xF3;n de las artes de pesca contenida en el presente decreto.</div></div>"
+        }
+      ]
+    }
+  }
+]

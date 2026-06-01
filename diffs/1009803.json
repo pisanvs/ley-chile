@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2009-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-06-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8817466,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;bense los siguientes factores de evaluaci&#xF3;n y sus ponderaciones que emplear&#xE1; el Jurado Regional en el proceso de calificaci&#xF3;n de los proyectos de construcci&#xF3;n presentados a concurso p&#xFA;blico del programa habitacional &quot;Fondo Solidario de Vivienda&quot;, que se aplicar&#xE1;n en la Regi&#xF3;n Metropolitana durante el a&#xF1;o 2010:</div><br><div class=\"p\">&nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/10235.jpg\"></div><br><div class=\"p\">*&nbsp; &nbsp; El puntaje m&#xE1;ximo por concepto de d&#xE9;ficit habitacional comunal se otorgar&#xE1; a los proyectos localizados en las comunas con mayor d&#xE9;ficit que se presenten en cada sesi&#xF3;n del jurado regional.</div><br><div class=\"p\">&nbsp; &nbsp;  Los factores especiales de los postulantes se regir&#xE1;n por lo que indica el siguiente cuadro:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/10236.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;bense los siguientes factores de evaluaci&#xF3;n y sus ponderaciones que emplear&#xE1; el Jurado Regional en el proceso de calificaci&#xF3;n de los proyectos de construcci&#xF3;n presentados a concurso p&#xFA;blico del programa habitacional &quot;Fondo Solidario de Vivienda&quot;, que se aplicar&#xE1;n en la Regi&#xF3;n Metropolitana durante el a&#xF1;o 2010:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/10235.jpg\"></div><br><div class=\"p\">*&nbsp; &nbsp; El puntaje m&#xE1;ximo por concepto de d&#xE9;ficit habitacional comunal se otorgar&#xE1; a los proyectos localizados en las comunas con mayor d&#xE9;ficit que se presenten en cada sesi&#xF3;n del jurado regional.</div><br><div class=\"p\">&nbsp; &nbsp;  Los factores especiales de los postulantes se regir&#xE1;n por lo que indica el siguiente cuadro:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/10236.jpg\"></div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 1036 Exenta, Vivienda, publicada 14.06.2010, modifica la presente norma en el sentido de reemplazar los factores de evaluaci&#xF3;n y sus ponderaciones del Jurado Regional para la calificaci&#xF3;n de proyectos de construcci&#xF3;n presentados al Fondo Solidario de Vivienda durante el a&#xF1;o 2010 en la R.M.</div></div>"
+        }
+      ]
+    }
+  }
+]

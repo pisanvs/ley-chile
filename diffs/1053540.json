@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-11-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9369322,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rganse, por un plazo de tres (3) meses, a contar de la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial, los permisos de construcci&#xF3;n en los pol&#xED;gonos A, B y C del Plano de Postergaci&#xF3;n de Permisos, asociada a la modificaci&#xF3;n del Plan Regulador &quot;Modificaci&#xF3;n a zonas Z13A y Z14A sector nororiente de San Joaqu&#xED;n&quot;, elaborado por la Asesor&#xED;a Urbana de la Municipalidad de San Joaqu&#xED;n, que forma parte integrante de este decreto, en los siguientes casos:</div><br><div class=\"p\">a)&nbsp;  Para las edificaciones de todo tipo de m&#xE1;s de 2 pisos en el pol&#xED;gono A.</div><div class=\"p\">b)&nbsp;  Para las edificaciones de m&#xE1;s de 12 pisos, en casos de edificaci&#xF3;n aislada y de 3 pisos en caso de edificaci&#xF3;n pareada y continua, en el pol&#xED;gono B.</div><div class=\"p\">c)&nbsp;  Para las edificaciones de m&#xE1;s de 20 pisos en casos de edificaci&#xF3;n aislada y de 3 pisos en caso de edificaci&#xF3;n pareada y continua, en el pol&#xED;gono C.</div><br><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese en el Diario Oficial el presente decreto.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rganse, por un plazo <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de tres (3) meses, a contar de la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial, los permisos de construcci&#xF3;n en los pol&#xED;gonos A, B y C del Plano de Postergaci&#xF3;n de Permisos, asociada a la modificaci&#xF3;n del Plan Regulador &quot;Modificaci&#xF3;n a zonas Z13A y Z14A sector nororiente de San Joaqu&#xED;n&quot;, elaborado por la Asesor&#xED;a Urbana de la Municipalidad de San Joaqu&#xED;n, que forma parte integrante de este decreto, en los siguientes casos:</div><br><div class=\"p\">a)&nbsp;  Para las edificaciones de todo tipo de m&#xE1;s de 2 pisos en el pol&#xED;gono A.</div><div class=\"p\">b)&nbsp;  Para las edificaciones de m&#xE1;s de 12 pisos, en casos de edificaci&#xF3;n aislada y de 3 pisos en caso de edificaci&#xF3;n pareada y continua, en el pol&#xED;gono B.</div><div class=\"p\">c)&nbsp;  Para las edificaciones de m&#xE1;s de 20 pisos en casos de edificaci&#xF3;n aislada y de 3 pisos en caso de edificaci&#xF3;n pareada y continua, en el pol&#xED;gono C.</div><br><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese en el Diario Oficial el presente decreto.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Numeral 1&#xBA; de la Resoluci&#xF3;n 2641 Exenta, Vivienda, publicado el 11.11.2013, modifica la presente norma en el sentido de prorrogar por un plazo de cuatro meses, la postergaci&#xF3;n de los permisos de construcciones, en el sector nororiente de la comuna de San Joaqu&#xED;n, de acuerdo a lo graficado en el &quot;Plano de Postergaci&#xF3;n de Permisos de Edificaci&#xF3;n Asociada a Modificaci&#xF3;n del Plan Regulador Comunal &quot;Modificaci&#xF3;n Zonas Z13-A y Z14-A Sector Nororiente de San Joaqu&#xED;n&quot;, de fecha junio 2013.</div></div>"
+        }
+      ]
+    }
+  }
+]

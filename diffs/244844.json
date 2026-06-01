@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-12-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-07-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8518773,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Durante el a&#xF1;o 2005, de acuerdo a las disponibilidades presupuestarias, podr&#xE1;n asignarse los subsidios correspondientes a este Programa sin necesidad de efectuar llamados a postulaci&#xF3;n, a quienes se hayan inscrito en el Registro regulado por el D.S. N&#xBA; 62 (V. y U.), de 1984, optando por este Programa y re&#xFA;nan los requisitos exigidos en los art&#xED;culos 4&#xB0;, 5&#xB0;, 6&#xBA; y 7&#xBA; del Reglamento que se aprueba por el presente decreto. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Durante los a&#xF1;os 2005, 2006 y 2007,<span class=\"n\" id=\"n_0\">DTO 152, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 31.07.2006</span> de acuerdo a las disponibilidades presupuestarias, podr&#xE1;n asignarse los subsidios correspondientes a este Programa sin necesidad de efectuar llamados a postulaci&#xF3;n, a quienes se hayan inscrito en el Registro regulado por el D.S. N&#xBA; 62 (V. y U.), de 1984, optando por este Programa y re&#xFA;nan los requisitos exigidos en los art&#xED;culos 4&#xB0;, 5&#xB0;, 6&#xBA; y 7&#xBA; del Reglamento que se aprueba por el presente decreto.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

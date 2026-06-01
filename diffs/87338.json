@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-06-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-11-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8318421,
+          "old": "<div><div class=\"p\">ESTABLECE NOMINA DE ESPECIES HIDROBIOLOGICAS VIVAS DE IMPORTACION AUTORIZADA</div><br><div class=\"p\">N&#xFA;m. 531.- Valpara&#xED;so, 05 de Junio de 1992.- Visto: Lo informado por el Departamento de Estudios de esta Subsecretar&#xED;a en Memor&#xE1;ndum No. 178 de 14 de noviembre de 1991 y lo dispuesto en la Ley No. 18.892 y sus modificaciones contenidas en las Leyes No. 19.079 y 19.080 cuyo texto refundido, coordinado y sistematizado fue fijado por el DS No. 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE NOMINA DE ESPECIES HIDROBIOLOGICAS VIVAS DE IMPORTACION AUTORIZADA</div><br><div class=\"p\">N&#xFA;m. 531.- Valpara&#xED;so, 05 de Junio de 1992.- Visto: Lo informado por el Departamento de Estudios de esta Subsecretar&#xED;a en Memor&#xE1;ndum No. 178 de 14 de noviembre de 1991 y lo dispuesto en la Ley No. 18.892 y sus modificaciones contenidas en las Leyes No. 19.079 y 19.080 cuyo texto refundido, coordinado y sistematizado fue fijado por el DS No. 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-03-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-08-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9784444,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio: Las derogaciones dispuestas en los numerales 13, 14 b y 15 del art&#xED;culo &#xFA;nico del presente decreto regir&#xE1;n, a partir de la entrada en vigencia del reglamento que regule el T&#xED;tulo II del decreto con fuerza de ley N&#xBA; 1 de 1996, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio: Las derogaciones dispuestas en los numerales 13, 14 b <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1122109&amp;idParte=9942948&amp;idVersion=2018-08-20\">Decreto 243, EDUCACI&#xD3;N<br>Art. cuarto<br>D.O. 20.08.2018</a></span>y c,&nbsp; y 15 del art&#xED;culo &#xFA;nico del presente decreto regir&#xE1;n, a partir de la entrada en vigencia del reglamento que regule el T&#xED;tulo II del decreto con fuerza de ley N&#xBA; 1 de 1996, del Ministerio de Educaci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1122109,
+      "fecha": "2018-08-20"
+    }
+  }
+]

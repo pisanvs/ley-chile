@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-08-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-11-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8311138,
+          "old": "<div><div class=\"p\">OTORGA A COMPA&#xD1;IA MINERA LOS PELAMBRES LTDA. CONCESION DEFINITIVA PARA ESTABLECER LINEA 1x 110 kV ILLAPEL - EL CHACAY</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m.182.- Santiago, 17 de Mayo de 1991.- Visto: Estos antecedentes y lo dispuesto en los art&#xED;culos 11&#xBA; y 28&#xBA; del D.F.L No.1, de 1982, del Ministerio de Miner&#xED;a, y en la Ley No.18.410.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\"> OTORGA A COMPA&#xD1;IA MINERA LOS PELAMBRES LTDA. CONCESION<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"> DEFINITIVA PARA ESTABLECER LINEA 1x 110 kV ILLAPEL - EL</div><div class=\"p\">CHACAY</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m.182.- Santiago, 17 de Mayo de 1991.- Visto: Estos antecedentes y lo dispuesto en los art&#xED;culos 11&#xBA; y 28&#xBA; del D.F.L No.1, de 1982, del Ministerio de Miner&#xED;a, y en la Ley No.18.410.</div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 1&#xBA; del DTO 127, Econom&#xED;a, publicado el 07.11.2002, modific&#xF3; la presente norma, en el sentido que Compa&#xF1;&#xED;a Minera Los Pelambres Limitada, hoy denominada Constructora El Chacay Limitada, podr&#xE1; destinar la l&#xED;nea de transporte de energ&#xED;a el&#xE9;ctrica de 1x110 kV Illapel - El Chacay, ubicada en la Regi&#xF3;n de Coquimbo, provincia de Choapa, comunas de Illapel y Salamanca, a prestar servicio de transporte de energ&#xED;a el&#xE9;ctrica, sujeto en todo a las disposiciones contenidas en el DFL N&#xBA; 1, de 1982, del Ministerio de Miner&#xED;a.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

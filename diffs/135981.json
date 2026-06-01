@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1980-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-03-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8972789,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;- El personal de planta de las Instituciones de la Defensa Nacional a que se refiere el art&#xED;culo 4&#xBA; del DFL. N&#xBA; 1 (G) de 1968, el personal de planta de Carabineros de Chile a que se refiere el art&#xED;culo 11 del DFL. N&#xBA; 2 (I) de 1968 y el personal de planta de Investigaciones, similar al de Carabineros, que cese en sus empleos durante el a&#xF1;o 1980, por decisi&#xF3;n de la autoridad respectiva, por causales que no les sean imputables y no cumpla con los requisitos para obtener pensi&#xF3;n de retiro, tendr&#xE1; derecho a gozar de una indemnizaci&#xF3;n equivalente a seis meses del total de las remuneraciones devengadas en el &#xFA;ltimo mes en que prest&#xF3; servicios. Dicha indemnizaci&#xF3;n no ser&#xE1; imponible, no constituir&#xE1; renta para ning&#xFA;n efecto legal y, ser&#xE1; pagada de una sola vez.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;- El personal de planta de las<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Instituciones de la Defensa Nacional a que se refiere el art&#xED;culo 4&#xBA; del DFL. N&#xBA; 1 (G) de 1968, el personal de planta de Carabineros de Chile a que se refiere el art&#xED;culo 11 del DFL. N&#xBA; 2 (I) de 1968 y el personal de planta de Investigaciones, similar al de Carabineros, que cese en sus empleos durante el a&#xF1;o 1980, por decisi&#xF3;n de la autoridad respectiva, por causales que no les sean imputables y no cumpla con los requisitos para obtener pensi&#xF3;n de retiro, tendr&#xE1; derecho a gozar de una indemnizaci&#xF3;n equivalente a seis meses del total de las remuneraciones devengadas en el &#xFA;ltimo mes en que prest&#xF3; servicios. Dicha indemnizaci&#xF3;n no ser&#xE1; imponible, no constituir&#xE1; renta para ning&#xFA;n efecto legal y, ser&#xE1; pagada de una sola vez.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 1&#xB0; del DL 3658, Defensa, publicado el 28.03.1981, renov&#xF3; hasta el 31 de Diciembre de 1981 la vigencia de este decreto ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

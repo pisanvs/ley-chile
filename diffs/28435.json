@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1965-12-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-10-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8727756,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA NORMAS PARA LA COLOCACION EN EL PUBLICO DE ACCIONES, PROMESAS DE ACCIONES, BONOS, DEBENTURES, PLANES DE AHORRO, CUOTAS DE SOCIEDADES Y TODA CLASE DE TITULOS O VALORES DIVERSOS DE INVERSION Y FIJA NUEVA PLANTA DEL PERSONAL QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">FIJA NORMAS PARA LA COLOCACION EN EL PUBLICO DE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> ACCIONES, PROMESAS DE ACCIONES, BONOS, DEBENTURES,</div><div class=\"p\">PLANES DE AHORRO, CUOTAS DE SOCIEDADES Y TODA CLASE DE</div><div class=\"p\">TITULOS O VALORES DIVERSOS DE INVERSION Y FIJA NUEVA</div><div class=\"p\">PLANTA DEL PERSONAL QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; El Art. 70 de la LEY 18045, publicada el 22.10.1981, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

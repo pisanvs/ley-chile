@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1972-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8791282,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5.- DEROGADO<span class=\"n\" id=\"n_0\">DL 826<br>Art. 58<br>D.O. 31.12.1974</span></div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

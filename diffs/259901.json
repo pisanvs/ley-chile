@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2007-04-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-04-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8431750,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero: F&#xED;jase el siguiente texto y apru&#xE9;base el siguiente &apos;REGLAMENTO PARA LA APROBACION DE PROYECTOS DE DISE&#xD1;O, CONSTRUCCION, OPERACION Y CIERRE DE LOS DEPOSITOS DE RELAVES&apos;:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero: F&#xED;jase <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>el siguiente texto y apru&#xE9;base el siguiente &apos;REGLAMENTO PARA LA APROBACION DE PROYECTOS DE DISE&#xD1;O, CONSTRUCCION, OPERACION Y CIERRE DE LOS DEPOSITOS DE RELAVES&apos;:</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1295 Exenta, Miner&#xED;a, publicada el 17.04.2021, amplia la consulta ciudadana a la modificaci&#xF3;n a la presente norma que aprueba el reglamento para la aprobaci&#xF3;n de proyectos de dise&#xF1;o, construcci&#xF3;n, operaci&#xF3;n y cierre de los dep&#xF3;sitos de relaves, por un plazo de 15 d&#xED;as.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2024-08-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8431750,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero: F&#xED;jase <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>el siguiente texto y apru&#xE9;base el siguiente &apos;REGLAMENTO PARA LA APROBACION DE PROYECTOS DE DISE&#xD1;O, CONSTRUCCION, OPERACION Y CIERRE DE LOS DEPOSITOS DE RELAVES&apos;:</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1295 Exenta, Miner&#xED;a, publicada el 17.04.2021, amplia la consulta ciudadana a la modificaci&#xF3;n a la presente norma que aprueba el reglamento para la aprobaci&#xF3;n de proyectos de dise&#xF1;o, construcci&#xF3;n, operaci&#xF3;n y cierre de los dep&#xF3;sitos de relaves, por un plazo de 15 d&#xED;as.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero: F&#xED;jase <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>el siguiente texto y apru&#xE9;base el siguiente &apos;REGLAMENTO PARA LA APROBACION DE PROYECTOS DE <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>DISE&#xD1;O, CONSTRUCCION, OPERACION Y CIERRE DE LOS DEPOSITOS DE RELAVES&apos;:</div><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1295 Exenta, Miner&#xED;a, publicada el 17.04.2021, amplia la consulta ciudadana a la modificaci&#xF3;n a la presente norma que aprueba el reglamento para la aprobaci&#xF3;n de proyectos de dise&#xF1;o, construcci&#xF3;n, operaci&#xF3;n y cierre de los dep&#xF3;sitos de relaves, por un plazo de 15 d&#xED;as.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1990 Exenta, Miner&#xED;a, publicada el 12.08.2024, amplia el plazo de la Consulta Ciudadana sobre la propuesta de nuevo reglamento que regula el dise&#xF1;o, construcci&#xF3;n y operaci&#xF3;n de los proyectos de relaves, que reemplazar&#xE1; la presente norma, hasta el d&#xED;a 22 de agosto de 2024.</div></div>"
+        }
+      ]
+    }
+  }
+]

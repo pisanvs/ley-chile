@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-07-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10134692,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Segundo: D&#xE9;jase establecido que la Municipalidad de Curarrehue deber&#xE1; implementar todas las medidas conducentes a asegurar que la salud de la poblaci&#xF3;n de la comuna de Curarrehue no se vea afectada por la situaci&#xF3;n sanitaria descrita precedentemente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Segundo:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1148865&amp;idParte=10155105&amp;idVersion=2020-09-01\">Resoluci&#xF3;n 4280 EXENTA,<br>SALUD<br>Art. primero<br>D.O. 01.09.2020</a></span> D&#xE9;jase establecido que la Municipalidad de Curarrehue, deber&#xE1; implementar todas las medidas sanitarias de mitigaci&#xF3;n conducentes a asegurar que la salud de la poblaci&#xF3;n de la comuna de Curarrehue, ante un eventual colapso y mal funcionamiento del sistema de alcantarillado de la referida comuna.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1148865,
+      "fecha": "2020-09-01"
+    }
+  }
+]

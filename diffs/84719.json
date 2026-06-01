@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-06-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7219806,
+          "old": "<div><br><div class=\"p\">AMPLIA AUTORIZACION DE FUNCIONAMIENTO INSTITUTO PROFESIONAL</div><div class=\"p\">DE LOS LAGOS ESCUELA DE ADMINISTRACION</div><br><div class=\"p\">N&#xFA;m. 7 exento.- Santiago 09 de Enero de 1990.- Considerando: Que, el Instituto Profesional de Los Lagos, Escuela de Administraci&#xF3;n, autorizado a funcionar por Decreto Exento No. 198 de 1988, ha presentado antecedentes ante este Ministerio, solicitando autorizaci&#xF3;n de funcionamiento para una nueva sede e impartir carreras en nuevas &#xE1;reas; Que, la revisi&#xF3;n se ha efectuado en conformidad con los presupuestos legales vigentes;</div><div class=\"p\">Visto: Lo dispuesto en el DL No. 3541 de 1980; DFL N&#xB0; 5 de 1981 y Decreto Exento No. 198 de 1988.</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">AMPLIA AUTORIZACION DE FUNCIONAMIENTO INSTITUTO PROFESIONAL</div><div class=\"p\">DE LOS LAGOS ESCUELA DE ADMINISTRACION</div><br><div class=\"p\"> N&#xFA;m. 7 exento.- Santiago 09 de Enero de 1990.- Considerando:</div><div class=\"p\">Que, el Instituto Profesional de Los Lagos, Escuela de Administraci&#xF3;n, autorizado a funcionar por Decreto Exento No. 198 de 1988, ha presentado antecedentes ante este Ministerio, solicitando autorizaci&#xF3;n de funcionamiento para una nueva sede e impartir carreras en nuevas &#xE1;reas; Que, la revisi&#xF3;n se ha efectuado en conformidad con los presupuestos legales vigentes;</div><div class=\"p\">Visto: Lo dispuesto en el DL No. 3541 de 1980; DFL N&#xB0; 5 de 1981 y Decreto Exento No. 198 de 1988.</div><br><div class=\"p\">Decreto:</div><br></div>"
+        }
+      ]
+    }
+  }
+]

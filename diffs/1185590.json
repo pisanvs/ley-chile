@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-01-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10384314,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Reempl&#xE1;cese el resuelvo N&#xB0; 1 de la resoluci&#xF3;n exenta N&#xB0; 566, cuadro de fechas 8.07.2022, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/156923.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- En todo lo dem&#xE1;s no modificado, mant&#xE9;ngase inalterable la Res. exenta N&#xB0; 481, de fecha 14.06.2022, que llama a postulaci&#xF3;n a proyectos del Cap. III del DS N&#xB0; 27 (V. y U.), de 2016.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Reempl&#xE1;cese el resuelvo N&#xB0; 1 de la resoluci&#xF3;n exenta N&#xB0; 566, cuadro de fechas 8.07.2022, por el siguient<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187911&amp;idParte=10399089&amp;idVersion=2023-01-17\">Resoluci&#xF3;n 1779,<br>VIVIENDA<br>N&#xB0; 2<br>D.O. 17.01.2023</a></span>e:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/159485.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- En todo lo dem&#xE1;s no modificado, mant&#xE9;ngase inalterable la Res. exenta N&#xB0; 481, de fecha 14.06.2022, que llama a postulaci&#xF3;n a proyectos del Cap. III del DS N&#xB0; 27 (V. y U.), de 2016.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1187911,
+      "fecha": "2023-01-17"
+    }
+  }
+]

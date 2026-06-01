@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2017-11-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-02-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9846403,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rguese por un plazo de 3 meses a contar de la publicaci&#xF3;n del presente decreto de los permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcci&#xF3;n en pol&#xED;gono A-B-C-D-E-F-G-H-I-J-K-L, seg&#xFA;n plano PRCA-MPCC1.</div><div class=\"p\">&nbsp; &nbsp;  2. Inf&#xF3;rmese a la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcci&#xF3;n en pol&#xED;gono A-B-C-D-E-F-G-H-I-J-K-L, seg&#xFA;n plano PRCA-MPCC1.</div><div class=\"p\">&nbsp; &nbsp;  3. Inf&#xF3;rmese a la comunidad mediante la exhibici&#xF3;n del presente decreto y plano respectivo en dependencias de la Secplac municipal.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese por una vez el presente decreto en el Diario Oficial y en un diario de circulaci&#xF3;n comunal.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rguese por un plazo de 3 <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>meses a contar de la publicaci&#xF3;n del presente decreto de los permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcci&#xF3;n en pol&#xED;gono A-B-C-D-E-F-G-H-I-J-K-L, seg&#xFA;n plano PRCA-MPCC1.</div><div class=\"p\">&nbsp; &nbsp;  2. Inf&#xF3;rmese a la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcci&#xF3;n en pol&#xED;gono A-B-C-D-E-F-G-H-I-J-K-L, seg&#xFA;n plano PRCA-MPCC1.</div><div class=\"p\">&nbsp; &nbsp;  3. Inf&#xF3;rmese a la comunidad mediante la exhibici&#xF3;n del presente decreto y plano respectivo en dependencias de la Secplac municipal.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese por una vez el presente decreto en el Diario Oficial y en un diario de circulaci&#xF3;n comunal.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 199 Exenta, Vivienda, publicada el 06.02.2018, dispone prorrogar por un plazo de 3 (tres) meses, la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcci&#xF3;n en pol&#xED;gono A-B-C-D-E-F-G-H-I-J-K-L, seg&#xFA;n plano PRCA-MPCC1,&nbsp; a contar del plazo de expiraci&#xF3;n de la postergaci&#xF3;n de permisos originalmente ordenada por la presente norma.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-05-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9846403,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rguese por un plazo de 3 <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>meses a contar de la publicaci&#xF3;n del presente decreto de los permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcci&#xF3;n en pol&#xED;gono A-B-C-D-E-F-G-H-I-J-K-L, seg&#xFA;n plano PRCA-MPCC1.</div><div class=\"p\">&nbsp; &nbsp;  2. Inf&#xF3;rmese a la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcci&#xF3;n en pol&#xED;gono A-B-C-D-E-F-G-H-I-J-K-L, seg&#xFA;n plano PRCA-MPCC1.</div><div class=\"p\">&nbsp; &nbsp;  3. Inf&#xF3;rmese a la comunidad mediante la exhibici&#xF3;n del presente decreto y plano respectivo en dependencias de la Secplac municipal.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese por una vez el presente decreto en el Diario Oficial y en un diario de circulaci&#xF3;n comunal.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 199 Exenta, Vivienda, publicada el 06.02.2018, dispone prorrogar por un plazo de 3 (tres) meses, la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcci&#xF3;n en pol&#xED;gono A-B-C-D-E-F-G-H-I-J-K-L, seg&#xFA;n plano PRCA-MPCC1,&nbsp; a contar del plazo de expiraci&#xF3;n de la postergaci&#xF3;n de permisos originalmente ordenada por la presente norma.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rguese por un plazo de 3 <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>mese s a contar de la<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> publicaci&#xF3;n del presente decreto de los permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcci&#xF3;n en pol&#xED;gono A-B-C-D-E-F-G-H-I-J-K-L, seg&#xFA;n plano PRCA-MPCC1.</div><div class=\"p\">&nbsp; &nbsp;  2. Inf&#xF3;rmese a la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismola postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcci&#xF3;n en pol&#xED;gono A-B-C-D-E-F-G-H-I-J-K-L, seg&#xFA;n plano PRCA-MPCC1.</div><div class=\"p\">&nbsp; &nbsp;  3. Inf&#xF3;rmese a la comunidad mediante la exhibici&#xF3;n del presente decreto y plano respectivo en dependencias de la Secplac municipal.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese por una vez el presente decreto en el Diario Oficial y en un diario de circulaci&#xF3;n comunal.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 199 Exenta, Vivienda, publicada el 06.02.2018, dispone prorrogar por un plazo de 3 (tres) meses, la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcci&#xF3;n en pol&#xED;gono A-B-C-D-E-F-G-H-I-J-K-L, seg&#xFA;n plano PRCA-MPCC1, a contar del plazo de expiraci&#xF3;n de la postergaci&#xF3;n de permisos originalmente ordenada por la presente norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1231 Exenta, Vivienda, publicada el 08.05.2018, dispone prorrogar por un plazo de 3 (tres) meses la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcci&#xF3;n en pol&#xED;gono A-B-C-D-E-F-G-H-I-J-K-L, seg&#xFA;n plano PRCA-MPCC1, a contar de la expiraci&#xF3;n de la primera pr&#xF3;rroga de la postergaci&#xF3;n de permisos vigente, dispuesta por resoluci&#xF3;n exenta N&#xBA; 199, referida en la nota anterior.</div></div>"
+        }
+      ]
+    }
+  }
+]

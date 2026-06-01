@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-10-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1984-05-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7268569,
+          "old": "<div><div class=\"p\">APRUEBA EL REGLAMENTO DE AUTORIZACION DE LICENCIAS MEDICAS POR LOS SERVICIOS DE SALUD DEL DECRETO LEY NUMERO 2.763, DE 1979</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 21 de Julio de 1981.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 202.- Visto: Estos antecedentes; lo dispuesto en la letra b) del art&#xED;culo 4&#xB0; del decreto ley N&#xB0; 2.763, de 1979; en el art&#xED;culo 15&#xB0; del decreto con fuerza de ley N&#xB0; 3, de 1981, de Salud, y el art&#xED;culo 32&#xB0;, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica del Estado, y</div><div class=\"p\">&nbsp; &nbsp;  Considerando: La necesidad de uniformar el procedimiento a que deben ajustarse los Servicios de Salud, en la autorizaci&#xF3;n de las licencias m&#xE9;dicas de los trabajadores de los sectores p&#xFA;blicos, privado e independiente, para dar mayor eficiencia y agilidad en el otorgamiento de los beneficios correspondientes y que para ello es conveniente refundir y modificar diversas disposiciones reglamentarias actualmente vigentes en la materia, adecu&#xE1;ndolas a la estructura del Sistema Nacional de Servicios de Salud.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA EL REGLAMENTO DE AUTORIZACION DE LICENCIAS MEDICAS POR LOS SERVICIOS DE SALUD DEL DECRETO LEY NUMERO 2.763, DE 1979</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 21 de Julio de 1981.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 202.- Visto: Estos antecedentes; lo dispuesto en la letra b) del art&#xED;culo 4&#xB0; del decreto ley N&#xB0; 2.763, de 1979; en el art&#xED;culo 15&#xB0; del decreto con fuerza de ley N&#xB0; 3, de 1981, de Salud, y el art&#xED;culo 32&#xB0;, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica del Estado, y</div><div class=\"p\">&nbsp; &nbsp;  Considerando: La necesidad de uniformar el procedimiento a que deben ajustarse los Servicios de Salud, en la autorizaci&#xF3;n de las licencias m&#xE9;dicas de los trabajadores de los sectores p&#xFA;blicos, privado e independiente, para dar mayor eficiencia y agilidad en el otorgamiento de los beneficios correspondientes y que para ello es conveniente refundir y modificar diversas disposiciones reglamentarias actualmente vigentes en la materia, adecu&#xE1;ndolas a la estructura del Sistema Nacional de Servicios de Salud.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

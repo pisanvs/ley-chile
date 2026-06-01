@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-05-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8430777,
+          "old": "<div><div class=\"p\">SE&#xD1;ALA MATERIAS DELEGADAS POR EL SR. DIRECTOR DEL INSTITUTO ANTARTICO CHILENO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 91 exenta.- Punta Arenas, 18 de enero de 2006.- Vistos:</div><br><div class=\"p\">a)&nbsp;  Lo dispuesto en el DFL N&#xBA;82, de 1979, del Ministerio de Relaciones Exteriores; los art&#xED;culos 5 y 43 de la ley N&#xBA;18.575, Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado;</div><div class=\"p\">&nbsp; &nbsp;  el art&#xED;culo 48 de la ley N&#xBA;19.880, de Bases de los Procedimientos Administrativos que rigen los Actos de los &#xF3;rganos de la Administraci&#xF3;n del Estado; la resoluci&#xF3;n N&#xBA;520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica y sus modificaciones.</div><div class=\"p\">b)&nbsp;  Considerando que la delegaci&#xF3;n de facultades permite un funcionamiento eficaz y eficiente de la Administraci&#xF3;n del Estado y las necesidades del Servicio,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">SE&#xD1;ALA MATERIAS DELEGADAS POR EL SR. DIRECTOR DEL INSTITUTO ANTARTICO CHILENO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 91 exenta.- Punta Arenas, 18 de enero de 2006.- Vistos:</div><br><div class=\"p\">a)&nbsp;  Lo dispuesto en el DFL N&#xBA;82, de 1979, del Ministerio de Relaciones Exteriores; los art&#xED;culos 5 y 43 de la ley N&#xBA;18.575, Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado;</div><div class=\"p\">&nbsp; &nbsp;  el art&#xED;culo 48 de la ley N&#xBA;19.880, de Bases de los Procedimientos Administrativos que rigen los Actos de los &#xF3;rganos de la Administraci&#xF3;n del Estado; la resoluci&#xF3;n N&#xBA;520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica y sus modificaciones.</div><div class=\"p\">b)&nbsp;  Considerando que la delegaci&#xF3;n de facultades permite un funcionamiento eficaz y eficiente de la Administraci&#xF3;n del Estado y las necesidades del Servicio,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

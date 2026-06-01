@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2011-02-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-08-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9114593,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase para el a&#xF1;o 2011 una cuota anual de captura de 14.500 toneladas del recurso Erizo Loxechinus albus, a ser extra&#xED;das en el &#xE1;rea mar&#xED;tima de la X Regi&#xF3;n de Los Lagos y XI Regi&#xF3;n de Ays&#xE9;n.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase para el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> a&#xF1;o 2011 una cuota anual de captura de 14.500 toneladas del recurso Erizo Loxechinus albus, a ser extra&#xED;das en el &#xE1;rea mar&#xED;tima de la X Regi&#xF3;n de Los Lagos y XI Regi&#xF3;n de Ays&#xE9;n.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo N&#xBA; 1 del Decreto 739 exento, Econom&#xED;a, publicado el 13.08.2011, modifica la presente norma, en el sentido de incrementar en 3.500 toneladas la cuota anual de captura antes se&#xF1;alada, la que se distribuir&#xE1; geogr&#xE1;ficamente de la siguiente forma:<br><br>-&nbsp; &nbsp; 420 toneladas, a ser extra&#xED;das en el &#xE1;rea mar&#xED;tima de la X Regi&#xF3;n comprendida al norte de las Islas Chauques (paralelo 42&#xBA;14&apos;39&quot; L.S.).<br>-&nbsp; &nbsp; 1.580 toneladas, a ser extra&#xED;das en la zona contigua de la XI Regi&#xF3;n por parte de buzos de la X Regi&#xF3;n autorizados a operar en este sector, de conformidad con lo establecido en la resoluci&#xF3;n exenta N&#xBA; 193, de 2011, de la Subsecretar&#xED;a de Pesca.<br>-&nbsp; &nbsp; 1.500 toneladas para ser extra&#xED;das en el &#xE1;rea mar&#xED;tima de la XI Regi&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-10-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9114593,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase para el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> a&#xF1;o 2011 una cuota anual de captura de 14.500 toneladas del recurso Erizo Loxechinus albus, a ser extra&#xED;das en el &#xE1;rea mar&#xED;tima de la X Regi&#xF3;n de Los Lagos y XI Regi&#xF3;n de Ays&#xE9;n.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo N&#xBA; 1 del Decreto 739 exento, Econom&#xED;a, publicado el 13.08.2011, modifica la presente norma, en el sentido de incrementar en 3.500 toneladas la cuota anual de captura antes se&#xF1;alada, la que se distribuir&#xE1; geogr&#xE1;ficamente de la siguiente forma:<br><br>-&nbsp; &nbsp; 420 toneladas, a ser extra&#xED;das en el &#xE1;rea mar&#xED;tima de la X Regi&#xF3;n comprendida al norte de las Islas Chauques (paralelo 42&#xBA;14&apos;39&quot; L.S.).<br>-&nbsp; &nbsp; 1.580 toneladas, a ser extra&#xED;das en la zona contigua de la XI Regi&#xF3;n por parte de buzos de la X Regi&#xF3;n autorizados a operar en este sector, de conformidad con lo establecido en la resoluci&#xF3;n exenta N&#xBA; 193, de 2011, de la Subsecretar&#xED;a de Pesca.<br>-&nbsp; &nbsp; 1.500 toneladas para ser extra&#xED;das en el &#xE1;rea mar&#xED;tima de la XI Regi&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase para el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> a&#xF1;o 2011 una cuota anual de captura de 14.500 toneladas del recurso Erizo Loxechinus albus, a ser extra&#xED;das<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> en el &#xE1;rea mar&#xED;tima de la X Regi&#xF3;n de Los Lagos y XI Regi&#xF3;n de Ays&#xE9;n.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo N&#xBA; 1 del Decreto 739 exento, Econom&#xED;a, publicado el 13.08.2011, modifica la presente norma, en el sentido de incrementar en 3.500 toneladas la cuota anual de captura antes se&#xF1;alada, la que se distribuir&#xE1; geogr&#xE1;ficamente de la siguiente forma:<br><br>-&nbsp; &nbsp; 420 toneladas, a ser extra&#xED;das en el &#xE1;rea mar&#xED;tima de la X Regi&#xF3;n comprendida al norte de las Islas Chauques (paralelo 42&#xBA;14&apos;39&quot; L.S.).<br>-&nbsp; &nbsp; 1.580 toneladas, a ser extra&#xED;das en la zona contigua de la XI Regi&#xF3;n por parte de buzos de la X Regi&#xF3;n autorizados a operar en este sector, de conformidad con lo establecido en la resoluci&#xF3;n exenta N&#xBA; 193, de 2011, de la Subsecretar&#xED;a de Pesca.<br>-&nbsp; &nbsp; 1.500 toneladas para ser extra&#xED;das en el &#xE1;rea mar&#xED;tima de la XI Regi&#xF3;n.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 909 Exento, Econom&#xED;a, publicado el 13.10.2011, modifica la presente norma, en el sentido de reemplazar la distribuci&#xF3;n de la cuota anual de captura de erizo en los t&#xE9;rminos indicados en el citado Decreto.</div></div>"
+        }
+      ]
+    }
+  }
+]

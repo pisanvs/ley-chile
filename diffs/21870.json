@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5946406,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA CIRCULACION EN DIAS Y HORAS NO HABILES Y SIN DISCO DISTINTIVO A VEHICULO QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA CIRCULACION EN DIAS Y HORAS NO HABILES Y SIN DISCO DISTINTIVO A VEHICULO QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

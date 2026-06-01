@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-10-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9100396,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 3.128 de 29.12.2010, Serviu VI Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, orden&#xF3; expropiaci&#xF3;n total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, roles de aval&#xFA;o N&#xBA;s. 11.338-044; 11.338-053; 11.338-037; 11.336-044; 11.334-046; 11.331-056; 11.331-033, y 11.339-028, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Pol&#xED;gono conforme al Plano del Departamento T&#xE9;cnico del Serviu, de aparente dominio de Silvia Sandra Varela Moreno; Carlos Hern&#xE1;n Zambrano Mu&#xF1;oz; Mirlene Nazarett Caro Rodr&#xED;guez; Elsa Jeannette Hellman Godoy y Otros; Mario Eduardo Duarte Contreras; Luis Adolfo Carrasco Reyes; Francisco Soto Troncoso y Otros, y Marco Antonio Pozo Bustamante, en el Conjunto Habitacional Villa Cordillera comuna Rancagua, conforme al Art. 51, Ley 16.391 y DL 2.186. Comisi&#xF3;n Tasadora, peritos Jorge Rosales, Carlos Henr&#xED;quez y Manuel San Mart&#xED;n, Constructor Civil, Arquitecto y Constructor Civil, respectivamente, seg&#xFA;n Informe de fecha diciembre de 2010, monto provisional para: Silvia Sandra Varela Moreno $4.273.842.-; Carlos Hern&#xE1;n Zambrano Mu&#xF1;oz $4.273.842.-; Mirlene Nazarett Caro Rodr&#xED;guez $4.273.842.-; Elsa Jeannette Hellman Godoy y Otros $4.278.391.-; Mario Eduardo Duarte Contreras $4.278.641.-; Luis Adolfo Carrasco Reyes $4.295.232.-; Francisco Soto Troncoso y Otros $4.295.232.- y Marco Antonio Pozo Bustamante $4.341.391.-, cuyo pago se realizar&#xE1; mediante dep&#xF3;sito en Cuenta Corriente del Tribunal correspondiente.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 3.128 de 29.12.2010, Serviu VI Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, orden&#xF3; expropiaci&#xF3;n total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, roles de aval&#xFA;o N&#xBA;s. 11.338-044; 11.338-053; 11.338-037; 11.336-044; 11.334-046; 11.331-056; 11.331-033, y 11.339-028, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Pol&#xED;gono conforme al Plano del Departamento T&#xE9;cnico del Serviu, de aparente dominio de Silvia Sandra Varela Moreno; Carlos Hern&#xE1;n Zambrano Mu&#xF1;oz; Mirlene Nazarett Caro Rodr&#xED;guez; Elsa Jeannette Hellman Godoy y Otros; Mario Eduardo Duarte Contreras; Luis Adolfo Carrasco Reyes; Francisco Soto Troncoso y Otros, y Marco Antonio Pozo Bustamante, en el Conjunto Habitacional Villa Cordillera comuna Rancagua, conforme al Art. 51, Ley 16.391 y DL 2.186. Comisi&#xF3;n Tasadora, peritos Jorge Rosales, Carlos Henr&#xED;quez y Manuel San Mart&#xED;n, Constructor Civil, Arquitecto y Constructor Civil, respectivamente, seg&#xFA;n Informe de fecha diciembre de 2010, monto provisional para: Silvia Sandra Varela Moreno $4.273.842.-; Carlos Hern&#xE1;n Zambrano Mu&#xF1;oz $4.273.842.-; Mirlene Nazarett Caro Rodr&#xED;guez $4.273.842.-; Elsa Jeannette Hellman Godoy y Otros $4.278.391.-; Mario Eduardo Duarte Contreras $4.278.641.-; Luis Adolfo Carrasco Reyes $4.295.232.-; Francisco Soto Troncoso y Otros $4.295.232.- y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1030969&amp;idParte=9195008&amp;idVersion=2011-10-15\">Aviso S/N, VIVIENDA<br>N&#xBA; 4.-<br>D.O. 15.10.2011</a></span>Marco Antonio Pozo Bustamante $4.341.447.-, cuyo pago se realizar&#xE1; mediante dep&#xF3;sito en Cuenta Corriente del Tribunal correspondiente.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1030969,
+      "fecha": "2011-10-15"
+    }
+  }
+]

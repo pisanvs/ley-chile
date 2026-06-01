@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-04-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7284135,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- Direcci&#xF3;n de Obras Civiles.- La Direcci&#xF3;n de Obras Civiles estar&#xE1; a encargada de todo lo relacionado con los estudios, ejecuci&#xF3;n, conservaci&#xF3;n y equipamiento de las obras civiles previas, fundamentales o complementarias, en lo que respecta a la red de transporte independiente y a la vialidad urbana complementaria, tales como t&#xFA;neles, pasos, viaductos, puentes, estaciones, talleres, plantas, edificios, obras de arte, obras viales, modificaci&#xF3;n y cambios de servicios sanitarios y otros, drenajes, canales, desv&#xED;os de tr&#xE1;nsito, terminaciones, obras provisorias, movimiento de tierras, reforestaci&#xF3;n y dem&#xE1;s obras civiles relacionadas con los objetivos de la Direcci&#xF3;n General.</div><div class=\"p\">&nbsp; &nbsp;  Le corresponder&#xE1; adem&#xE1;s, en coordinaci&#xF3;n con los organismos pertinentes, estudiar y proponer al Director General las normas y regulaciones para el mejor aprovechamiento de la infraestructura de la red de transporte independiente y de la red vial complementaria, como igualmente verificar su fiel y eficaz cumplimiento.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- Direcci&#xF3;n de Obras Civiles.- La<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Direcci&#xF3;n de Obras Civiles estar&#xE1; a encargada de todo lo relacionado con los estudios, ejecuci&#xF3;n, conservaci&#xF3;n y equipamiento de las obras civiles previas, fundamentales o complementarias, en lo que respecta a la red de transporte independiente y a la vialidad urbana complementaria, tales como t&#xFA;neles, pasos, viaductos, puentes, estaciones, talleres, plantas, edificios, obras de arte, obras viales, modificaci&#xF3;n y cambios de servicios sanitarios y otros, drenajes, canales, desv&#xED;os de tr&#xE1;nsito, terminaciones, obras provisorias, movimiento de tierras, reforestaci&#xF3;n y dem&#xE1;s obras civiles relacionadas con los objetivos de la Direcci&#xF3;n General.</div><div class=\"p\">&nbsp; &nbsp;  Le corresponder&#xE1; adem&#xE1;s, en coordinaci&#xF3;n con los organismos pertinentes, estudiar y proponer al Director General las normas y regulaciones para el mejor aprovechamiento de la infraestructura de la red de transporte independiente y de la red vial complementaria, como igualmente verificar su fiel y eficaz cumplimiento.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 1&#xBA; del DTO 205, Obras P&#xFA;blicas, publicado el 27.04.1976, modific&#xF3; la presente norma en el sentido de establecer que las funciones, atribuciones y obligaciones actualmente radicadas en la Direcci&#xF3;n de Obras Civiles de la Direcci&#xF3;n General de Metro, referentes a Vialidad Urbana, ser&#xE1;n ejercidas por la Direcci&#xF3;n de Vialidad de la Direcci&#xF3;n General de Obras P&#xFA;blicas, en la forma que se se&#xF1;ala en el referido decreto modificatorio.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

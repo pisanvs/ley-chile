@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325242,
+          "old": "<div><br><div class=\"p\">AUTORIZA A DON HERNAN ANSELMO CABALLERO CANCINO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON HERNAN ANSELMO CABALLERO CANCINO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

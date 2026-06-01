@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-02-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-09-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7269823,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JUAN SEGUNDO MU&#xD1;OZ ALARCON PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JUAN SEGUNDO MU&#xD1;OZ ALARCON PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

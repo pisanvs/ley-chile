@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-05-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-04-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6209693,
+          "old": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 674, DE 1987 </div></div>",
+          "new": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 674, DE 1987 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

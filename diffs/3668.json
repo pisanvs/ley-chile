@@ -1,0 +1,66 @@
+[
+  {
+    "fecha": "1981-02-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-01-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7114397,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero Transitorio: Durante el plazo de cinco a&#xF1;os contados desde la fecha de publicaci&#xF3;n de la presente ley para que los nuevos Institutos Profesionales puedan funcionar como tales, ser&#xE1; necesario, previa a la solicitud a que se refiere, el articulo 89 de esta ley, contar con la autorizaci&#xF3;n del Ministerio del Interior el que s&#xF3;lo podr&#xE1; otorgarla cuando a su juicio no se atente o no pudiere atentarse con su establecimiento en contra del orden p&#xFA;blico o de la seguridad nacional. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Primero Transitorio: Durante el plazo de<span class=\"n\" id=\"n_1\">LEY 18484<br>Art. &#xFA;nico<br>D.O. 02.01.1986</span> siete a&#xF1;os contados desde la fecha de publicaci&#xF3;n de la presente ley para que los nuevos Institutos Profesionales puedan funcionar como tales, ser&#xE1; necesario, previa a la solicitud a que se refiere el art&#xED;culo 8&#xB0; de esta ley, contar con la autorizaci&#xF3;n del Ministerio del Interior el que s&#xF3;lo podr&#xE1; otorgarla cuando a su juicio no se atente o no pudiere atentarse con su establecimiento en contra del orden p&#xFA;blico o de la seguridad nacional.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1996-11-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7114380,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: Corresponde a estos organismos otorgar toda clase de t&#xED;tulos profesionales con excepci&#xF3;n de aquellos respecto de los cuales la ley requiera haber obtenido previamente el grado de Licenciado en una disciplina determinada.</div><div class=\"p\">&nbsp; &nbsp; Podr&#xE1;n, adem&#xE1;s, otorgar t&#xED;tulos t&#xE9;cnicos dentro del &#xE1;rea o &#xE1;mbito de las profesiones respecto de las cuales otorguen t&#xED;tulos profesionales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: Corresponde a estos organismos<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 2</a></div> otorgar toda clase de t&#xED;tulos profesionales con excepci&#xF3;n de aquellos respecto de los cuales la ley requiera haber obtenido previamente el grado de Licenciado en una disciplina determinada.</div><div class=\"p\">&nbsp; &nbsp; Podr&#xE1;n, adem&#xE1;s, otorgar t&#xED;tulos t&#xE9;cnicos dentro del &#xE1;rea o &#xE1;mbito de las profesiones respecto de las cuales otorguen t&#xED;tulos profesionales.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El Decreto 225 exento, de 1983, Min. de Educaci&#xF3;n, dispone que los Institutos Profesionales que tengan alumnos provenientes de cursos impartidos por estas instituciones, antes de su autorizaci&#xF3;n de funcionamiento como tales, podr&#xE1;n validar los estudios para el r&#xE9;gimen de la evaluaci&#xF3;n y titulaci&#xF3;n que actualmente los rige, cuando cumplan algunas de las condiciones estipuladas en el mencionado Decreto.<br></div></div>"
+        },
+        {
+          "part_id": 7114397,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Primero Transitorio: Durante el plazo de<span class=\"n\" id=\"n_1\">LEY 18484<br>Art. &#xFA;nico<br>D.O. 02.01.1986</span> siete a&#xF1;os contados desde la fecha de publicaci&#xF3;n de la presente ley para que los nuevos Institutos Profesionales puedan funcionar como tales, ser&#xE1; necesario, previa a la solicitud a que se refiere el art&#xED;culo 8&#xB0; de esta ley, contar con la autorizaci&#xF3;n del Ministerio del Interior el que s&#xF3;lo podr&#xE1; otorgarla cuando a su juicio no se atente o no pudiere atentarse con su establecimiento en contra del orden p&#xFA;blico o de la seguridad nacional.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Primero Transitorio: Durante el plazo de<span class=\"n\" id=\"n_2\">LEY 18484<br>Art. &#xFA;nico<br>D.O. 02.01.1986</span> siete a&#xF1;os contados desde la fecha de publicaci&#xF3;n de la presente ley para que los nuevos Institutos Profesionales puedan funcionar como tales, ser&#xE1; necesario, previa a la solicitud a que se refiere el art&#xED;culo 8&#xB0; de esta ley, contar con la autorizaci&#xF3;n del Ministerio del Interior el que s&#xF3;lo podr&#xE1; otorgarla cuando a su juicio no se atente o no pudiere atentarse con su establecimiento en contra del orden p&#xFA;blico o de la seguridad nacional.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-06-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7114384,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo sexto: Cualquiera persona natural o jur&#xED;dica podr&#xE1; crear Institutos Profesionales de conformidad con las normas de esta ley.</div><div class=\"p\">&nbsp; &nbsp; Para tal efecto los organizadores deber&#xE1;n dictar el reglamento por el que habr&#xE1; de regirse el Instituto Profesional. El reglamento deber&#xE1; contener, en todo caso, disposiciones que establezcan la forma de administraci&#xF3;n del organismo, excluy&#xE9;ndose necesariamente la participaci&#xF3;n con derecho a voto de los alumnos y funcionarios administrativos, no directivos, en los &#xF3;rganos encargados de su direcci&#xF3;n, como asimismo en la elecci&#xF3;n de sus autoridades. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo sexto: Cualquiera persona natural o jur&#xED;dica podr&#xE1; crear Institutos Profesionales de conformidad con las normas de esta ley.</div><div class=\"p\">&nbsp; &nbsp; Para tal efecto los organizadores deber&#xE1;n dictar el reglamento por el que habr&#xE1; de regirse el Instituto Profesional. El reglamento deber&#xE1; contener, en todo caso, disposiciones que establezcan la forma de administraci&#xF3;n del organismo<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1078579&amp;idParte=9610993&amp;idVersion=2015-06-18\">Ley 20843<br>Art. 3 Nos. 1 y 2<br>D.O. 18.06.2015</a></span>.</div><div class=\"p\">&nbsp; &nbsp; En caso alguno los estatutos, normativa interna o cualquier acto o contrato entre los institutos profesionales y sus estudiantes o personal docente y no docente podr&#xE1;n contener disposiciones que proh&#xED;ban, limiten u obstaculicen la libre organizaci&#xF3;n de &#xE9;stos.</div><br></div>"
+        },
+        {
+          "part_id": 7114397,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Primero Transitorio: Durante el plazo de<span class=\"n\" id=\"n_2\">LEY 18484<br>Art. &#xFA;nico<br>D.O. 02.01.1986</span> siete a&#xF1;os contados desde la fecha de publicaci&#xF3;n de la presente ley para que los nuevos Institutos Profesionales puedan funcionar como tales, ser&#xE1; necesario, previa a la solicitud a que se refiere el art&#xED;culo 8&#xB0; de esta ley, contar con la autorizaci&#xF3;n del Ministerio del Interior el que s&#xF3;lo podr&#xE1; otorgarla cuando a su juicio no se atente o no pudiere atentarse con su establecimiento en contra del orden p&#xFA;blico o de la seguridad nacional.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo Primero Transitorio: Durante el plazo de<span class=\"n\" id=\"n_3\">LEY 18484<br>Art. &#xFA;nico<br>D.O. 02.01.1986</span> siete a&#xF1;os contados desde la fecha de publicaci&#xF3;n de la presente ley para que los nuevos Institutos Profesionales puedan funcionar como tales, ser&#xE1; necesario, previa a la solicitud a que se refiere el art&#xED;culo 8&#xB0; de esta ley, contar con la autorizaci&#xF3;n del Ministerio del Interior el que s&#xF3;lo podr&#xE1; otorgarla cuando a su juicio no se atente o no pudiere atentarse con su establecimiento en contra del orden p&#xFA;blico o de la seguridad nacional.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1078579,
+      "fecha": "2015-06-18"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-12-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-03-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8853105,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO DE ESTABLECIMIENTOS DE LARGA ESTADIA PARA ADULTOS MAYORES</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 5 de Octubre de 1994.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m 2.601.- Visto: lo dispuesto en los art&#xED;culos 2&#xB0;, 9&#xB0; letra C) y 129 del C&#xF3;digo Sanitario, aprobado por decreto con fuerza de ley N&#xB0; 725 de 1967, del Ministerio de Salud; en el art&#xED;culo 2&#xB0; del decreto N&#xB0; 161 de 1982 del Ministerio de Salud y en el decreto N&#xB0; 194 de 1978, de esta misma Secretar&#xED;a de Estado; en el decreto ley N&#xB0; 2763 de 1979 y teniendo presente las facultades que me confieren los art&#xED;culos 24 y 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado, y</div><div class=\"p\">&nbsp; &nbsp; Considerando: La necesidad de contar con normativa actualizada que regule adecuadamente los establecimientos de larga estad&#xED;a de adultos mayores, considerando las necesidades espec&#xED;ficas de estas personas y los nuevos conocimientos que se poseen en el campo de la geriatr&#xED;a.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento de Establecimientos de Larga Estad&#xED;a para Adultos Mayores:</div><br><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO DE ESTABLECIMIENTOS DE LARGA ESTADIA PARA ADULTOS MAYORES</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 5 de Octubre de 1994.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m 2.601.- Visto: lo dispuesto en los art&#xED;culos 2&#xB0;, 9&#xB0; letra C) y 129 del C&#xF3;digo Sanitario, aprobado por decreto con fuerza de ley N&#xB0; 725 de 1967, del Ministerio de Salud; en el art&#xED;culo 2&#xB0; del decreto N&#xB0; 161 de 1982 del Ministerio de Salud y en el decreto N&#xB0; 194 de 1978, de esta misma Secretar&#xED;a de Estado; en el decreto ley N&#xB0; 2763 de 1979 y teniendo presente las facultades que me confieren los art&#xED;culos 24 y 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado, y</div><div class=\"p\">&nbsp; &nbsp; Considerando: La necesidad de contar con normativa actualizada que regule adecuadamente los establecimientos de larga estad&#xED;a de adultos mayores, considerando las necesidades espec&#xED;ficas de estas personas y los nuevos conocimientos que se poseen en el campo de la geriatr&#xED;a.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento de Establecimientos de Larga Estad&#xED;a para Adultos Mayores:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

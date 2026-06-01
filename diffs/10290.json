@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1969-03-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-10-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9077941,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA TEXTO SISTEMATIZADO DEL CODIGO DE AGUAS SANTIAGO, 15 de Enero de 1969.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N.o 162.- TENIENDO PRESENTE:</div><div class=\"p\">&nbsp; &nbsp; QUE es de manifiesta utilidad reunir en un solo cuerpo la mayor&#xED;a de las disposiciones legales sobre aguas contenidas en el C&#xF3;digo de Aguas, en la Ley N.o 9.909 y 16.640.</div><div class=\"p\">&nbsp; &nbsp; QUE ello no significa que las normas no incorporadas al presente texto carezcan de vigencia;</div><div class=\"p\">&nbsp; &nbsp; QUE es de buen orden administrativo y de conveniencia pr&#xE1;ctica, se&#xF1;alar la correspondencia de la nueva numeraci&#xF3;n del articulado del C&#xF3;digo con la anterior, como asimismo hacer menci&#xF3;n, mediante notas, del origen de los art&#xED;culos incorporados y que forman parte de las leyes ya mencionadas y que se coordinan en el presente texto, que constituir&#xE1; el C&#xF3;digo de Aguas, y Vista la facultad que me otorga el art&#xED;culo 130 de la Ley N.o 16.640, de 28 de Julio de 1967,</div><div class=\"p\">&nbsp; &nbsp; DECRETO:</div><div class=\"p\">&nbsp; &nbsp; F&#xED;jase el siguiente texto sistematizado del C&#xF3;digo de Aguas que coordina sus disposiciones con las pertinentes de las Leyes N.os. 9.909 y 16.640.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA TEXTO SISTEMATIZADO DEL CODIGO DE AGUAS</div><br><div class=\"p\">&nbsp; &nbsp; SANTIAGO, 15 de Enero de 1969.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp; N.o 162.- TENIENDO PRESENTE:</div><br><div class=\"p\">&nbsp; &nbsp; QUE es de manifiesta utilidad reunir en un solo cuerpo la mayor&#xED;a de las disposiciones legales sobre aguas contenidas en el C&#xF3;digo de Aguas, en la Ley N.o 9.909 y 16.640.</div><div class=\"p\">&nbsp; &nbsp; QUE ello no significa que las normas no incorporadas al presente texto carezcan de vigencia;</div><div class=\"p\">&nbsp; &nbsp; QUE es de buen orden administrativo y de conveniencia pr&#xE1;ctica, se&#xF1;alar la correspondencia de la nueva numeraci&#xF3;n del articulado del C&#xF3;digo con la anterior, como asimismo hacer menci&#xF3;n, mediante notas, del origen de los art&#xED;culos incorporados y que forman parte de las leyes ya mencionadas y que se coordinan en el presente texto, que constituir&#xE1; el C&#xF3;digo de Aguas, y</div><div class=\"p\">&nbsp; &nbsp; Vista la facultad que me otorga el art&#xED;culo 130 de la Ley N.o 16.640, de 28 de Julio de 1967,</div><br><div class=\"p\">&nbsp; &nbsp; DECRETO:</div><br><div class=\"p\">&nbsp; &nbsp; F&#xED;jase el siguiente texto sistematizado del C&#xF3;digo de Aguas que coordina sus disposiciones con las pertinentes de las Leyes N.os. 9.909 y 16.640.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

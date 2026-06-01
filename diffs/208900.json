@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-04-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6696187,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.- Certifico que Comercial Hual S.A., Rut.</div><div class=\"p\">96.956.050-1, cumple los requisitos dispuestos en la resoluci&#xF3;n exenta N&#xBA; 7 del 28.01.2003, y que en consecuencia tiene la calidad de agente retenedor de Impuesto al Valor Agregado en las Compras de Chatarra, que efect&#xFA;e a contar del d&#xED;a 1&#xBA; del mes siguiente a la fecha de la publicaci&#xF3;n del presente certificado en el Diario Oficial.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.- Certifico que Comercial Hual S.A., Rut. 96.956.080-1, cumple los requisitos dispuestos en la<span class=\"n\" id=\"n_0\">AVI S/N, HACIENDA<br>D.O. 14.04.2003</span> resoluci&#xF3;n exenta N&#xBA; 7 del 28.01.2003, y que en consecuencia tiene la calidad de agente retenedor de Impuesto al Valor Agregado en las Compras de Chatarra, que efect&#xFA;e a contar del d&#xED;a 1&#xBA; del mes siguiente a la fecha de la publicaci&#xF3;n del presente certificado en el Diario Oficial.- </div></div>"
+        }
+      ]
+    }
+  }
+]

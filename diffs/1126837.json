@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-12-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-02-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9978636,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: Determ&#xED;nanse para el a&#xF1;o 2019 los siguientes alumnos en calidad de preferentes, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n escolar preferencial, de acuerdo a lo dispuesto en el art&#xED;culo <a href=\"https://www.leychile.cl/Navegar?idNorma=269001&amp;idParte=9605540&amp;idVersion=\">2&#xB0; bis</a> y <a href=\"https://www.leychile.cl/Navegar?idNorma=269001&amp;idParte=9605541&amp;idVersion=\">14 bis</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=269001&amp;idParte=&amp;idVersion=\">ley N&#xB0; 20.248</a> y que se encuentran individualizados en el listado contenido en el archivo con firma electr&#xF3;nica avanzada del Coordinador Nacional de Tecnolog&#xED;a y del Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, del CD folio N&#xB0; 01/2019, y que se acompa&#xF1;a en el anexo, que forma parte integrante de la presente resoluci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: Determ&#xED;nase para el a&#xF1;o 2019 los sigui<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1142021&amp;idParte=10098350&amp;idVersion=2020-02-05\">Resoluci&#xF3;n 568 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 3<br>D.O. 05.02.2020</a></span>entes alumnos en calidad de preferentes, que ser&#xE1;n beneficiarios de la Subvenci&#xF3;n Escolar Preferencial, de acuerdo a lo dispuesto en el art&#xED;culo 2&#xB0; bis y 14 bis de la ley N&#xB0; 20.248, y que se encuentran individualizados en el listado contenido en archivos excel denominado &quot;Modificaci&#xF3;n Dic 2019. Preferentes 2019 20181026_142156_Fea&quot; contenido en el disco compacto que cuenta con firma electr&#xF3;nica avanzada del Jefe de la Divisi&#xF3;n de Planificaci&#xF3;n y Presupuesto, que se acompa&#xF1;an en el anexo y que forman parte integrante de la presente resoluci&#xF3;n, para todos los efectos legales.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1142021,
+      "fecha": "2020-02-05"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5944518,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREA COMITES DE PROTECCION DE LOS ESCOLARES N&#xFA;m. 431 Exento.- Santiago, 16 de Agosto de 1993.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, la protecci&#xF3;n y defensa de los estudiantes es deber de la comunidad nacional y en particular de la comunidad escolar a la que pertenecen;</div><div class=\"p\">&nbsp; &nbsp; Que, en los sectores aleda&#xF1;os de algunos establecimientos educacionales existen factores de riesgo que ponen en peligro la integridad ps&#xED;quica y f&#xED;sica de los educandos;</div><div class=\"p\">&nbsp; &nbsp; Que, dentro de la comunidad educativa existen organizaciones tales como: Consejo de Profesores, Centros de Padres y Apoderados, Centro de Alumnos, que deben actuar coordinadamente en la adopci&#xF3;n de medidas tendientes a la protecci&#xF3;n y defensa de sus alumnos; y, Visto: Lo dispuesto en las leyes N&#xB0;s. 18.956 y 18.962; Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; CREA COMITES DE PROTECCION DE LOS ESCOLARES N&#xFA;m. 431 Exento.- Santiago, 16 de Agosto de 1993.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, la protecci&#xF3;n y defensa de los estudiantes es deber de la comunidad nacional y en particular de la comunidad escolar a la que pertenecen;</div><div class=\"p\">&nbsp; &nbsp; Que, en los sectores aleda&#xF1;os de algunos establecimientos educacionales existen factores de riesgo que ponen en peligro la integridad ps&#xED;quica y f&#xED;sica de los educandos;</div><div class=\"p\">&nbsp; &nbsp; Que, dentro de la comunidad educativa existen organizaciones tales como: Consejo de Profesores, Centros de Padres y Apoderados, Centro de Alumnos, que deben actuar coordinadamente en la adopci&#xF3;n de medidas tendientes a la protecci&#xF3;n y defensa de sus alumnos; y, Visto: Lo dispuesto en las leyes N&#xB0;s. 18.956 y 18.962; Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-04-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5923060,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA CONVENIO EN VIRTUD DEL CUAL EL MINISTERIO DE EDUCACION ENTREGA A LA FUNDACION PARA LA PROMOCION DE LA EDUCACION Y LA CULTURA, LA ADMINISTRACION DEL LICEO INDUSTRIAL A N&#xB0; 81 DE RENCA, DE ACUERDO AL DECRETO LEY N&#xB0; 3.166 DE 1980.</div><div class=\"p\">&nbsp; &nbsp; SANTIAGO, 03.DIC.1993</div><div class=\"p\">&nbsp; &nbsp; N&#xB0; 838 CONSIDERANDO:</div><div class=\"p\">&nbsp; &nbsp; Que, el Supremo Gobierno ha estimado como una pol&#xED;tica prioritaria el mejoramiento cualitativo de la educaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; Que, en este contexto para lograr este prop&#xF3;sito respecto de la educaci&#xF3;n t&#xE9;cnico-profesional, es conveniente aprovechar la cooperaci&#xF3;n de entidades sin fines de lucro, que est&#xE9;n vinculadas al sector productivo que requieren para su formaci&#xF3;n los t&#xE9;cnicos del nivel medio, vinculando de esta manera el respectivo establecimiento educacional e incorporando a ellos la tecnolog&#xED;a adecuada a las especialidades y a la demanda ocupacional;</div><div class=\"p\">&nbsp; &nbsp; Que, producto de una evaluaci&#xF3;n del sistema y acuerdos con los sectores involucrados, empresarios y trabajadores, se han elaborado los t&#xE9;rminos del convenio que se suscribe entre las partes; y</div><div class=\"p\">&nbsp; &nbsp; VISTO:</div><div class=\"p\">&nbsp; &nbsp; Lo dispuesto en el Decreto Ley N&#xB0; 3.166, de 1980; Decretos Supremos de Educaci&#xF3;n N&#xB0;s. 5.077 de 1980 y 13 de 1991; y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, DECRETO:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA CONVENIO EN VIRTUD DEL CUAL EL MINISTERIO DE EDUCACION ENTREGA A LA FUNDACION PARA LA PROMOCION DE LA EDUCACION Y LA CULTURA, LA ADMINISTRACION DEL LICEO INDUSTRIAL A N&#xB0; 81 DE RENCA, DE ACUERDO AL DECRETO LEY N&#xB0; 3.166 DE 1980.</div><div class=\"p\">&nbsp; &nbsp; SANTIAGO, 03.DIC.1993</div><div class=\"p\">&nbsp; &nbsp; N&#xB0; 838 CONSIDERANDO:</div><div class=\"p\">&nbsp; &nbsp; Que, el Supremo Gobierno ha estimado como una pol&#xED;tica prioritaria el mejoramiento cualitativo de la educaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; Que, en este contexto para lograr este prop&#xF3;sito respecto de la educaci&#xF3;n t&#xE9;cnico-profesional, es conveniente aprovechar la cooperaci&#xF3;n de entidades sin fines de lucro, que est&#xE9;n vinculadas al sector productivo que requieren para su formaci&#xF3;n los t&#xE9;cnicos del nivel medio, vinculando de esta manera el respectivo establecimiento educacional e incorporando a ellos la tecnolog&#xED;a adecuada a las especialidades y a la demanda ocupacional;</div><div class=\"p\">&nbsp; &nbsp; Que, producto de una evaluaci&#xF3;n del sistema y acuerdos con los sectores involucrados, empresarios y trabajadores, se han elaborado los t&#xE9;rminos del convenio que se suscribe entre las partes; y</div><div class=\"p\">&nbsp; &nbsp; VISTO:</div><div class=\"p\">&nbsp; &nbsp; Lo dispuesto en el Decreto Ley N&#xB0; 3.166, de 1980; Decretos Supremos de Educaci&#xF3;n N&#xB0;s. 5.077 de 1980 y 13 de 1991; y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, DECRETO:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

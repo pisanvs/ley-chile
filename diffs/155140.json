@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-09-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-12-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7261005,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MORELIA DEL TRANSITO REYES HERNANDEZ PARA TRASLADAR PLANTA ELABORADORA DE RECURSOS HIDROBIOLOGICOS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A MORELIA DEL TRANSITO REYES HERNANDEZ PARA TRASLADAR PLANTA ELABORADORA DE RECURSOS HIDROBIOLOGICOS </div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-07-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-03-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9365517,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase la extracci&#xF3;n desde el territorio nacional a contar de julio de 2013 y hasta diciembre de 2013, de treinta y seis grabados de Nemesio Ant&#xFA;nez que se indican a continuaci&#xF3;n, de propiedad del Museo Nacional de Bellas Artes, para ser exhibidos en Colombia del 18 de julio al 30 de agosto de 2013, en Costa Rica del 2 de septiembre al 31 de octubre de 2013 y en Nicaragua del 30 de octubre al 18 de diciembre de 2013.</div><div class=\"p\">&nbsp; &nbsp;  Las treinta y seis obras del artista cuya salida se autoriza y que conformar&#xE1;n la exposici&#xF3;n chilena son las siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/33743.jpg\">. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase la extracci&#xF3;n desde el territorio nacional a contar de julio de 2013 y hasta diciembre de 2013,<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de treinta y seis grabados de Nemesio Ant&#xFA;nez que se indican a continuaci&#xF3;n, de propiedad del Museo Nacional de Bellas Artes, para ser exhibidos en Colombia del 18 de julio al 30 de agosto de 2013, en Costa Rica del 2 de septiembre al 31 de octubre de 2013 y en Nicaragua del 30 de octubre al 18 de diciembre de 2013.</div><div class=\"p\">&nbsp; &nbsp;  Las treinta y seis obras del artista cuya salida se autoriza y que conformar&#xE1;n la exposici&#xF3;n chilena son las siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/33743.jpg\">. </div><br><br><br><br><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 161 Exento, Educaci&#xF3;n, publicado 14.03.2014, ampl&#xED;a el plazo, a contar de diciembre de 2013 y hasta julio de 2014, para la extracci&#xF3;n desde el territorio nacional de treinta y seis grabados de Nemesio Ant&#xFA;nez, de propiedad del Museo Nacional de Bellas Artes, para ser exhibidos en Ecuador, de febrero a abril de 2014, y en Argentina de mayo a julio de 2014.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-03-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6694649,
+          "old": "<div><div class=\"p\">SE&#xD1;ALA TARIFAS DE SERVICIOS POSTALES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 31 exenta.- Vistos: El DFL N&#xBA; 10, de 1981 y el decreto N&#xBA; 615, de 2001, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones y en especial lo dispuesto en el N&#xBA; 2 del mencionado decreto N&#xBA; 615; la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las atribuciones que me confieren la resoluci&#xF3;n N&#xBA; 5, de 2000 y la resoluci&#xF3;n exenta N&#xBA; 20 de 2001, ambas de la Empresa de Correos de Chile, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">SE&#xD1;ALA TARIFAS DE SERVICIOS POSTALES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 31 exenta.- Vistos: El DFL N&#xBA; 10, de 1981 y el decreto N&#xBA; 615, de 2001, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones y en especial lo dispuesto en el N&#xBA; 2 del mencionado decreto N&#xBA; 615; la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las atribuciones que me confieren la resoluci&#xF3;n N&#xBA; 5, de 2000 y la resoluci&#xF3;n exenta N&#xBA; 20 de 2001, ambas de la Empresa de Correos de Chile, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

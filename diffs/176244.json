@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-02-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-09-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6303072,
+          "old": "<div><div class=\"p\">EXPORTADORES QUE SOLICITAN ACOGERSE AL SISTEMA DE RECUPERACION DEL I.V.A., ESTABLECIDO EN EL ARTICULO 36 DEL DECRETO LEY No. 825, DE 1974</div><br><div class=\"p\">Circular N&#xB0; 8 </div></div>",
+          "new": "<div><div class=\"p\">EXPORTADORES QUE SOLICITAN ACOGERSE AL SISTEMA DE RECUPERACION DEL I.V.A., ESTABLECIDO EN EL ARTICULO 36 DEL DECRETO LEY No. 825, DE 1974</div><br><div class=\"p\">Circular N&#xB0; 8</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

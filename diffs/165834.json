@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-12-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-06-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6265846,
+          "old": "<div><div class=\"p\">DISPONE MEDIDAS DE CONTROL PARA NEMATODO DORADO EN PROVINCIA DE HUASCO, III REGION</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 27 de Noviembre de 1985.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m 1.515 exenta.- Visto: Lo dispuesto en el Decreto Ley No. 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola; lo dispuesto en la Resoluci&#xF3;n No. 2.383 de 1981, que establece el control obligatorio en todo el pa&#xED;s, de la plaga denominada &quot;nem&#xE1;todo dorado&quot;; el Informe Fitosanitario No. 2.456 de 1985, emitido por el Departamento de Laboratorios de la Divisi&#xF3;n de Protecci&#xF3;n Agr&#xED;cola; las facultades que invisto como Director Ejecutivo, y,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><div class=\"p\">&nbsp; &nbsp;  - Que el &quot;nem&#xE1;todo dorado de la papa&quot; se dispersa a trav&#xE9;s del uso de semilla proveniente de terrenos infestados;</div><div class=\"p\">&nbsp; &nbsp;  - Que se ha detectado la ocurrencia de esta plaga en la provincia de Huasco, de la III Regi&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario impedir la dispersi&#xF3;n de la plaga y evitar el aumento de la infestaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  - Que los niveles poblacionales detectados hacen necesario usar la t&#xE9;cnica de &quot;control integrado&quot;;</div><div class=\"p\">&nbsp; &nbsp;  - Que el Servicio est&#xE1; facultado para normar sobre esta materia,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DISPONE MEDIDAS DE CONTROL PARA NEMATODO DORADO EN PROVINCIA DE HUASCO, III REGION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 27 de Noviembre de 1985.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m 1.515 exenta.- Visto: Lo dispuesto en el Decreto Ley No. 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola; lo dispuesto en la Resoluci&#xF3;n No. 2.383 de 1981, que establece el control obligatorio en todo el pa&#xED;s, de la plaga denominada &quot;nem&#xE1;todo dorado&quot;; el Informe Fitosanitario No. 2.456 de 1985, emitido por el Departamento de Laboratorios de la Divisi&#xF3;n de Protecci&#xF3;n Agr&#xED;cola; las facultades que invisto como Director Ejecutivo, y,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que el &quot;nem&#xE1;todo dorado de la papa&quot; se dispersa a trav&#xE9;s del uso de semilla proveniente de terrenos infestados;</div><div class=\"p\">&nbsp; &nbsp;  - Que se ha detectado la ocurrencia de esta plaga en la provincia de Huasco, de la III Regi&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario impedir la dispersi&#xF3;n de la plaga y evitar el aumento de la infestaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  - Que los niveles poblacionales detectados hacen necesario usar la t&#xE9;cnica de &quot;control integrado&quot;;</div><div class=\"p\">&nbsp; &nbsp;  - Que el Servicio est&#xE1; facultado para normar sobre esta materia,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

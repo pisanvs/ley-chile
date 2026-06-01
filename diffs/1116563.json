@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-03-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-05-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9900766,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xB0;.- El plazo de construcci&#xF3;n desde el inicio de los trabajos hasta la terminaci&#xF3;n total de las obras ser&#xE1; de dieciocho meses, inici&#xE1;ndose el c&#xF3;mputo de &#xE9;ste despu&#xE9;s de doce meses desde la fecha de reducci&#xF3;n a escritura p&#xFA;blica del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  Los plazos de las obras por etapas y secciones, se detallan a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/78430.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xB0;.- El plazo de construcci&#xF3;n<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1213094&amp;idParte=10547230&amp;idVersion=2025-05-07\">Decreto 95 EXENTO,<br>ENERG&#xCD;A<br>N&#xB0; 1<br>D.O. 07.05.2025</a></span> desde el inicio de los trabajos hasta la terminaci&#xF3;n total de las obras ser&#xE1; de dieciocho meses, inici&#xE1;ndose el c&#xF3;mputo de este despu&#xE9;s de 103 (ciento tres) meses desde la fecha de reducci&#xF3;n a escritura del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  Los plazos de las obras por etapas y secciones, se detallan a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/78430.jpg\">.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1213094,
+      "fecha": "2025-05-07"
+    }
+  }
+]

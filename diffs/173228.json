@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-07-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-05-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6292903,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA;204 EXENTO, DE 2000 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA;204 EXENTO, DE 2000</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

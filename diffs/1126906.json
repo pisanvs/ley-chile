@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-12-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2026-05-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9981494,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA; .- F&#xED;janse las siguientes plantas de personal del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Gabriela Mistral que comprende las comunas de Macul, San Joaqu&#xED;n y La Granja:</div><br><div class=\"p\">&nbsp; &nbsp;  A) PLANTA DE DIRECTIVOS</div><br><div class=\"p\">&nbsp; &nbsp;  1. Primer Nivel Jer&#xE1;rquico, T&#xED;tulo VI de la ley N&#xBA; 19.882.</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86922.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2. Segundo Nivel Jer&#xE1;rquico, T&#xED;tulo VI de la ley N&#xBA; 19.882.</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86923.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  3. Directivos afectos al art&#xED;culo 8&#xBA; del decreto con fuerza de ley N&#xBA; 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la Ley N&#xBA; 18.834, sobre Estatuto Administrativo.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86924.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  B) PLANTA DE PROFESIONALES</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86925.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  C) PLANTA DE T&#xC9;CNICOS</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86926.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  D) PLANTA DE ADMINISTRATIVOS</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86927.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  E) PLANTA DE AUXILIARES</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86928.jpg\">.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA; .- F&#xED;janse las siguientes plantas de personal del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Gabriela Mistral que comprende las comunas de Macul, San Joaqu&#xED;n y La Granja:</div><br><div class=\"p\">&nbsp; &nbsp;  A) PLANTA DE DIRECTIVOS</div><br><div class=\"p\">&nbsp; &nbsp;  1. Primer Nivel Jer&#xE1;rquico, T&#xED;tulo VI de la ley N&#xBA; 19.882.</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86922.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2. Segundo Nivel Jer&#xE1;rquico, T&#xED;tulo VI de la ley N&#xBA; 19.882<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>.</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86923.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  3. Directivos afectos al art&#xED;culo 8&#xBA; del decreto con fuerza de ley N&#xBA; 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la Ley N&#xBA; 18.834, sobre Estatuto Administrativo.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86924.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  B) PLANTA DE PROFESIONALES</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86925.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  C) PLANTA DE T&#xC9;CNICOS</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86926.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  D) PLANTA DE ADMINISTRATIVOS</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86927.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  E) PLANTA DE AUXILIARES</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86928.jpg\">.</div><div class=\"p\"> </div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo octavo transitorio de la ley 21819, publicada el 25.05.2026, dispone crear en la planta de Directivos, Segundo Nivel Jer&#xE1;rquico, T&#xED;tulo VI de la ley N&#xB0; 19.882, que regula nueva pol&#xED;tica de personal a los funcionarios p&#xFA;blicos que indica, un cargo de Jefe de Infraestructura, Mantenci&#xF3;n y Equipamiento, Grado 6 de la EUS, en el Servicio Local de Educaci&#xF3;n P&#xFA;blica de Gabriela Mistral, cuya planta fue fijada por la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

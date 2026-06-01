@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8416985,
+          "old": "<div><div class=\"p\">ESTABLECE NUEVA POLITICA DE CONDONACION DE INTERESES Y SANCIONES PECUNIARIAS QUE SE IMPONGAN POR INFRACCIONES A LAS OBLIGACIONES TRIBUTARIAS CONTEMPLADAS EN EL ARTICULO 97 N&#xBA; 1 INCISO 1&#xBA;, N&#xBA; 2 Y N&#xBA; 11 DEL CODIGO TRIBUTARIO Y CONDONACION EN EL CASO DE DEUDAS POR CONCEPTO DE IMPUESTO TERRITORIAL</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 80.- Santiago, 8 de noviembre de 2001.</div><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE NUEVA POLITICA DE CONDONACION DE INTERESES Y SANCIONES PECUNIARIAS QUE SE IMPONGAN POR INFRACCIONES A LAS OBLIGACIONES TRIBUTARIAS CONTEMPLADAS EN EL ARTICULO 97 N&#xBA; 1 INCISO 1&#xBA;, N&#xBA; 2 Y N&#xBA; 11 DEL CODIGO TRIBUTARIO Y CONDONACION EN EL CASO DE DEUDAS POR CONCEPTO DE IMPUESTO TERRITORIAL</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 80.- Santiago, 8 de noviembre de 2001.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

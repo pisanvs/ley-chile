@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-10-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-10-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6544675,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- En consecuencia con lo se&#xF1;alado en el art&#xED;culo precedente, establ&#xE9;cese a contar de la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial y hasta el 1&#xBA; de diciembre de 2005, una sobretasa arancelaria ad-valorem de 0% hasta por la cantidad importada que alcance a 1.944 toneladas, a la importaci&#xF3;n de harina de trigo, clasificada en el c&#xF3;digo arancelario 1101.0000 del Arancel Aduanero Nacional, excepto la harina de trigo referida en el art&#xED;culo anterior, manteni&#xE9;ndose en lo restante la medida actualmente vigente para las importaciones del producto indicado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- En consecuencia con lo se&#xF1;alado en el art&#xED;culo precedente, establ&#xE9;cese a contar de la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial y hasta el 10 de diciembre de 2005, una sobretasa<span class=\"n\" id=\"n_0\">DTO 726 EXENTO,<br>HACIENDA<br>D.O. 26.10.2005</span> arancelaria ad-valorem de 0% hasta por la cantidad importada que alcance a 1.944 toneladas, a la importaci&#xF3;n de harina de trigo, clasificada en el c&#xF3;digo arancelario 1101.0000 del Arancel Aduanero Nacional, excepto la harina de trigo referida en el art&#xED;culo anterior, manteni&#xE9;ndose en lo restante la medida actualmente vigente para las importaciones del producto indicado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

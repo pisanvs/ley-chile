@@ -1,0 +1,196 @@
+[
+  {
+    "fecha": "2016-01-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-05-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9667396,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9 ZU - CV: Zona de Centro C&#xED;vico</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54884.jpg\">.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO,<br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9 ZU - CV: Zona de Centro C&#xED;vico</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67202.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\"> </div><br></div>"
+        },
+        {
+          "part_id": 9667397,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10 ZU - 1: Zona Urbana Mixta 1</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54885.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10 ZU - 1: Zona Urbana Mixta 1</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67203.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667398,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11 ZU - 2: Zona Urbana Mixta 2</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54886.jpg\">.</div><div class=\"p\">&nbsp; </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11 ZU - 2: Zona Urbana Mixta 2</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67204.jpg\">.</div><div class=\"p\">&nbsp; </div><br></div>"
+        },
+        {
+          "part_id": 9667399,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12 ZU - 3: Zona Urbana Mixta 3</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54887.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12 ZU - 3: Zona Urbana Mixta 3</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67205.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667400,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13 ZU - 4: Zona Urbana Residencial 4</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54888.jpg\">.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13 ZU - 4: Zona Urbana Residencial 4</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67206.jpg\">.</div><div class=\"p\"> </div><br></div>"
+        },
+        {
+          "part_id": 9667401,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14 ZU - 5: Zona Urbana Residencial 5</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54889.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14 ZU - 5: Zona Urbana Residencial 5</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67207.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667402,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15 ZU - 6: Zona Urbana Residencial 6</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54890.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15 ZU - 6: Zona Urbana Residencial 6</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67208.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667403,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16 ZU - 7: Zona Urbana Residencial 7</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54891.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16 ZU - 7: Zona Urbana Residencial 7</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67209.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667404,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17 ZU - 8: Zona Urbana Residencial 8</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54892.jpg\">.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_8\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17 ZU - 8: Zona Urbana Residencial 8</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67210.jpg\">.</div><div class=\"p\"> </div><br></div>"
+        },
+        {
+          "part_id": 9667407,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20 ZIE - 1: Zona Industrial 1 Inofensiva</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54893.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_9\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20 ZIE - 1: Zona Industrial 1 Inofensiva</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67211.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667408,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21 ZIE - 2: Zona Industrial 2 Molesta</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54894.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_10\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21 ZIE - 2: Zona Industrial 2 Molesta</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67212.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667410,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23 Zona Especial Deportivo - Recreacional ZE - 1</div><div class=\"p\">&nbsp; &nbsp;  i) Condiciones de edificaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  . Uso de Suelo Permitido: Equipamiento Clase Deporte; Equipamiento Clase Servicios: profesionales y artesanales.</div><div class=\"p\">&nbsp; &nbsp;  . Uso de Suelo Prohibido: Todos los no indicados como permitidos.</div><div class=\"p\">&nbsp; &nbsp;  . Coeficiente de ocupaci&#xF3;n de suelo: 0,6</div><div class=\"p\">&nbsp; &nbsp;  . Coeficiente de constructibilidad: 1</div><div class=\"p\">&nbsp; &nbsp;  . Sistema agrupamiento: Aislado</div><div class=\"p\">&nbsp; &nbsp;  . Altura m&#xE1;xima de edificaci&#xF3;n: 14 m / 4 pisos</div><div class=\"p\">&nbsp; &nbsp;  . Antejard&#xED;n: 3 metros</div><div class=\"p\">&nbsp; &nbsp;  . Adosamiento: No se permite.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_11\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23 Zona Especial Deportivo - Recreacional ZE - 1</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67213.jpg\">.</div><br><div class=\"p\"> </div><br></div>"
+        },
+        {
+          "part_id": 9667411,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24 Zona Especial Equipamiento Exclusivo ZE - 2</div><div class=\"p\">&nbsp; &nbsp;  i) Condiciones de subdivisi&#xF3;n predial y de edificaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  . Uso de Suelo Permitido: Equipamiento en todas sus clases.</div><div class=\"p\">&nbsp; &nbsp;  . Uso de Suelo Prohibido: Todos los no indicados como permitidos.</div><div class=\"p\">&nbsp; &nbsp;  . Subdivisi&#xF3;n predial m&#xED;nima: 1.000 m2.</div><div class=\"p\">&nbsp; &nbsp;  . Coeficiente de ocupaci&#xF3;n de suelo: 0,7</div><div class=\"p\">&nbsp; &nbsp;  . Coeficiente de constructibilidad: 2</div><div class=\"p\">&nbsp; &nbsp;  . Sistema agrupamiento: Aislado</div><div class=\"p\">&nbsp; &nbsp;  . Altura m&#xE1;xima de edificaci&#xF3;n: 14 m / 4 pisos</div><div class=\"p\">&nbsp; &nbsp;  . Antejard&#xED;n: 3 metros</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  ii) Intensidad de Ocupaci&#xF3;n de Suelo.</div><div class=\"p\">&nbsp; &nbsp;  No exigible.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_12\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24 Zona Especial Equipamiento Exclusivo ZE - 2</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67214.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667412,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 25 Zona Especial de Resguardo Ferroviario ZE - 3</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  i) Uso de suelo Permitido:</div><div class=\"p\">&nbsp; &nbsp;  Equipamiento: Cultura, Esparcimiento</div><div class=\"p\">&nbsp; &nbsp;  Infraestructura: Transporte e instalaciones ferroviarias.</div><div class=\"p\">&nbsp; &nbsp;  &#xC1;rea Verde: Parques y Plazas.</div><div class=\"p\">&nbsp; &nbsp;  Espacio P&#xFA;blico: Sistema vial, plazas y plazoletas.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  ii) Condiciones de Subdivisi&#xF3;n y Edificaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  . Coeficiente de ocupaci&#xF3;n de suelo: 0,2</div><div class=\"p\">&nbsp; &nbsp;  . Coeficiente de constructibilidad: 2</div><div class=\"p\">&nbsp; &nbsp;  . Sistema agrupamiento: Aislado</div><div class=\"p\">&nbsp; &nbsp;  . Altura m&#xE1;xima de edificaci&#xF3;n: 14 m / 4 pisos</div><div class=\"p\">&nbsp; &nbsp;  . Antejard&#xED;n: 3 metros</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_13\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 25 Zona Especial de Resguardo Ferroviario ZE - 3</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67215.jpg\">.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1103195,
+      "fecha": "2017-05-24"
+    }
+  },
+  {
+    "fecha": "2025-05-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10547884,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 27 bis ZVN-HU, Zona de Valor Natural<span class=\"n\" id=\"n_17\"><a href=\"navegar?idNorma=1213211&amp;idParte=10547849&amp;idVersion=2025-05-13\">Decreto 1146,<br>M. DE TALAGANTE<br>Art. tercero<br>D.O. 13.05.2025</a></span> Humedal Urbano R&#xED;o Mapocho</div><div class=\"p\">&nbsp; &nbsp;  Corresponde al &#xC1;rea de Protecci&#xF3;n de Recursos de Valor Natural, Zona de Protecci&#xF3;n Legal declarada en conformidad con la resoluci&#xF3;n exenta N&#xB0; 1.452, del Ministerio del Medio Ambiente, de fecha 21 de diciembre de 2021, publicada el 12 de enero de 2022.</div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Las condiciones para otorgarse los permisos de urbanizaci&#xF3;n o construcci&#xF3;n son:</div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  (1) Uso de suelo permitido:</div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  &#xC1;reas Verdes: Parques Comunales e Intercomunales.</div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Uso de suelo prohibido:</div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Todos los no indicados como permitidos.</div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  (2) Condiciones de subdivisi&#xF3;n y edificaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  Superficie Predial&nbsp; &nbsp; &nbsp;  : 40.000 metros&#xB2;</div><div class=\"p\">&nbsp; &nbsp;  M&#xED;nima</div><div class=\"p\">&nbsp; &nbsp;  Coeficiente de Ocupaci&#xF3;n : 0,001</div><div class=\"p\">&nbsp; &nbsp;  de suelo</div><div class=\"p\">&nbsp; &nbsp;  Coeficiente de&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : 0,001</div><div class=\"p\">&nbsp; &nbsp;  Constructibilidad</div><div class=\"p\">&nbsp; &nbsp;  Sistema de Agrupamiento&nbsp; : Aislado</div><div class=\"p\">&nbsp; &nbsp;  Altura M&#xE1;xima de&nbsp; &nbsp; &nbsp; &nbsp;  : 3.5 metros</div><div class=\"p\">&nbsp; &nbsp;  Edificaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  Antejard&#xED;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : 10.00 metros.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9667384,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2 Disposiciones legales</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  En concordancia con lo dispuesto en el art&#xED;culo 42&#xBA; de la LGUC y art&#xED;culo 2.1.10 de la OGUC, el Plan se compone de los siguientes documentos: Memoria Explicativa; Ordenanza Local; Planos de: Zonificaci&#xF3;n de Uso de Suelo, Espacios P&#xFA;blicos, Vialidad y &#xC1;reas Verdes, Restricciones; Estudios de: Capacidad Vial, Factibilidad de Servicios Sanitarios e Infraestructura, Equipamiento Comunal, Riesgos y Protecci&#xF3;n Ambiental. Para los efectos de su aplicaci&#xF3;n, todos los antecedentes anteriormente nombrados forman un solo cuerpo legal.</div><div class=\"p\">&nbsp; &nbsp;  En el Cuadro 1 se se&#xF1;ala la nomenclatura de los planos que componen el Plan. En ellos se encuentran graficados los l&#xED;mites urbanos que son descritos en el art&#xED;culo 3.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Cuadro 1: Nomenclatura de Plano</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54901.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2 Disposiciones legales</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  En concordancia con lo dispuesto en el art&#xED;culo 42&#xBA; de la LGUC y art&#xED;culo 2.1.10 de la OGUC, el Plan se compone de los siguientes documentos: Memoria Explicativa; Ordenanza Local; Planos de: Zonificaci&#xF3;n de Uso de Suelo, Espacios P&#xFA;blicos, Vialidad y &#xC1;reas Verdes, Restricciones; Estudios de: Capacidad Vial, Factibilidad de Servicios Sanitarios e Infraestructura, Equipamiento Comunal, Riesgos y Protecci&#xF3;n Ambiental. Para los efectos de su aplicaci&#xF3;n, todos los antecedentes anteriormente nombrados forman un solo cuerpo legal.</div><div class=\"p\">&nbsp; &nbsp;  En el Cuadro 1 se se&#xF1;ala la nomenclatura de los planos que componen el Plan. En ellos se encuentran graficados los l&#xED;mites urbanos que son descritos en el art&#xED;culo 3.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Cuadro 1: Nomenclatura de Plano<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1213211&amp;idParte=10547848&amp;idVersion=2025-05-13\">Decreto 1146,<br>M. DE TALAGANTE<br>Art. segundo<br>D.O. 13.05.2025</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/195232.jpg\"></div><br></div>"
+        },
+        {
+          "part_id": 9667394,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7 Materias que contiene</div><div class=\"p\">&nbsp; &nbsp;  Las disposiciones del presente T&#xED;tulo se refieren a zonificaci&#xF3;n, caracter&#xED;sticas de morfolog&#xED;a urbana y dem&#xE1;s condiciones t&#xE9;cnico-urban&#xED;sticas para la edificaci&#xF3;n, regir&#xE1;n de acuerdo a los planos de zonificaci&#xF3;n del &#xC1;rea Urbana de la comuna de Talagante, escala 1:5.000; PRC Talagante - ZUS - 01 a 02 y PRC Lonqu&#xE9;n - ZUS - 01 y PRC Talagante Oriente - ZUS - 01.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7 Materias que contiene</div><div class=\"p\">&nbsp; &nbsp;  Las disposiciones del presente T&#xED;tulo se refieren a zonificaci&#xF3;n, caracter&#xED;sticas de morfolog&#xED;a urbana y dem&#xE1;s condiciones t&#xE9;cnico-urban&#xED;sticas para la edificaci&#xF3;n, regir&#xE1;n de acuerdo a los planos de zonificaci&#xF3;n del &#xC1;rea Urbana de la comuna de Talagante, escala 1:5.000; PRC Talagante - ZUS - 01 a 02&nbsp; y MPRC TALAGANTE - 3 - ZUS<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1213211&amp;idParte=10547848&amp;idVersion=2025-05-13\">Decreto 1146,<br>M. DE TALAGANTE<br>Art. segundo<br>D.O. 13.05.2025</a></span> y PRC Lonqu&#xE9;n - ZUS - 01 y PRC Talagante Oriente - ZUS - 01.</div></div>"
+        },
+        {
+          "part_id": 9667395,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8</div><div class=\"p\">&nbsp; &nbsp;  El &#xC1;rea Urbana de la Comuna de Talagante se divide en las siguientes zonas:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Cuadro 5: Nomenclatura de zonas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54883.jpg\">.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8</div><div class=\"p\">&nbsp; &nbsp;  El &#xC1;rea Urbana de la Comuna de Talagante se divide en las siguientes zonas:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Cuadro 5: Nomenclatura de zonas<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1213211&amp;idParte=10547848&amp;idVersion=2025-05-13\">Decreto 1146,<br>M. DE TALAGANTE<br>Art. segundo<br>D.O. 13.05.2025</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/195232.jpg\"></div><div class=\"p\"> </div></div>"
+        },
+        {
+          "part_id": 9667396,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO,<br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9 ZU - CV: Zona de Centro C&#xED;vico</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67202.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO,<br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9 ZU - CV: Zona de Centro C&#xED;vico</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67202.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\"> </div><br></div>"
+        },
+        {
+          "part_id": 9667397,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10 ZU - 1: Zona Urbana Mixta 1</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67203.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10 ZU - 1: Zona Urbana Mixta 1</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67203.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667398,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11 ZU - 2: Zona Urbana Mixta 2</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67204.jpg\">.</div><div class=\"p\">&nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11 ZU - 2: Zona Urbana Mixta 2</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67204.jpg\">.</div><div class=\"p\">&nbsp; </div><br></div>"
+        },
+        {
+          "part_id": 9667399,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12 ZU - 3: Zona Urbana Mixta 3</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67205.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12 ZU - 3: Zona Urbana Mixta 3</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67205.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667400,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13 ZU - 4: Zona Urbana Residencial 4</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67206.jpg\">.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13 ZU - 4: Zona Urbana Residencial 4</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67206.jpg\">.</div><div class=\"p\"> </div><br></div>"
+        },
+        {
+          "part_id": 9667401,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14 ZU - 5: Zona Urbana Residencial 5</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67207.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_8\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14 ZU - 5: Zona Urbana Residencial 5</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67207.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667402,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15 ZU - 6: Zona Urbana Residencial 6</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67208.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_9\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15 ZU - 6: Zona Urbana Residencial 6</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67208.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667403,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16 ZU - 7: Zona Urbana Residencial 7</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67209.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_10\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16 ZU - 7: Zona Urbana Residencial 7</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67209.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667404,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_8\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17 ZU - 8: Zona Urbana Residencial 8</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67210.jpg\">.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_11\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17 ZU - 8: Zona Urbana Residencial 8</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67210.jpg\">.</div><div class=\"p\"> </div><br></div>"
+        },
+        {
+          "part_id": 9667407,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_9\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20 ZIE - 1: Zona Industrial 1 Inofensiva</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67211.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_12\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20 ZIE - 1: Zona Industrial 1 Inofensiva</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67211.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667408,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_10\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21 ZIE - 2: Zona Industrial 2 Molesta</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67212.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_13\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21 ZIE - 2: Zona Industrial 2 Molesta</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67212.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667410,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_11\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23 Zona Especial Deportivo - Recreacional ZE - 1</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67213.jpg\">.</div><br><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_14\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23 Zona Especial Deportivo - Recreacional ZE - 1</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67213.jpg\">.</div><br><div class=\"p\"> </div><br></div>"
+        },
+        {
+          "part_id": 9667411,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_12\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24 Zona Especial Equipamiento Exclusivo ZE - 2</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67214.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_15\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24 Zona Especial Equipamiento Exclusivo ZE - 2</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67214.jpg\">.</div><br><br></div>"
+        },
+        {
+          "part_id": 9667412,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_13\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 25 Zona Especial de Resguardo Ferroviario ZE - 3</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67215.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_16\"><a href=\"navegar?idNorma=1103195&amp;idParte=9798872&amp;idVersion=2017-05-24\">Decreto 2225 EXENTO, <br>MUNICIPALIDAD DE TALAGANTE<br>Art. SEGUNDO<br>D.O. 24.05.2017</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 25 Zona Especial de Resguardo Ferroviario ZE - 3</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/67215.jpg\">.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1213211,
+      "fecha": "2025-05-13"
+    }
+  }
+]

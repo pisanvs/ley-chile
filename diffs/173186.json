@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-01-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-02-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6292744,
+          "old": "<div><div class=\"p\">MODIFICA ORDENANZA MUNICIPAL SOBRE DERECHOS POR CONCESIONES, PERMISOS Y SERVICIOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 6 exento.- Curaco de V&#xE9;lez, 08 de enero de 1988.- Vistos: El Art. 43 y dem&#xE1;s pertinentes del DL N&#xBA; 3.036/79, el Decreto Municipal Exento N&#xBA; 5 de 1986 y las facultades que me confiere el DL N&#xBA; 1.289, Ley Org&#xE1;nica de Municipios y Administraci&#xF3;n Comunal.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA ORDENANZA MUNICIPAL SOBRE DERECHOS POR CONCESIONES, PERMISOS Y SERVICIOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 6 exento.- Curaco de V&#xE9;lez, 08 de enero de 1988.- Vistos: El Art. 43 y dem&#xE1;s pertinentes del DL N&#xBA; 3.036/79, el Decreto Municipal Exento N&#xBA; 5 de 1986 y las facultades que me confiere el DL N&#xBA; 1.289, Ley Org&#xE1;nica de Municipios y Administraci&#xF3;n Comunal.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

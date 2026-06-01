@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-07-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-08-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6244466,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JUAN BAUTISTA MALDONADO MALDONADO PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JUAN BAUTISTA MALDONADO MALDONADO PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

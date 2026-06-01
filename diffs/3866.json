@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-11-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-12-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7114933,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA LA LEY ORGANICA DEL SERVICIO DE IMPUESTOS INTERNOS</div><div class=\"p\">&nbsp; &nbsp; D.F.L. N&#xFA;m. 11.- Santiago 7 de Agosto de 1991.- Visto: Las facultades que me confiere el art&#xED;culo 9&#xB0; de la Ley N&#xB0; 19.041 para modificar el Estatuto Org&#xE1;nico del Servicio de Impuestos Internos, dicto el siguiente:</div><div class=\"p\">&nbsp; &nbsp; Decreto con Fuerza Ley:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA LA LEY ORGANICA DEL SERVICIO DE IMPUESTOS INTERNOS</div><div class=\"p\">&nbsp; &nbsp;  D.F.L. N&#xFA;m. 11.- Santiago 7 de Agosto de 1991.-<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 09.12.1991</span></div><div class=\"p\">Visto: Las facultades que me confiere el art&#xED;culo 9&#xB0; de la Ley N&#xB0; 19.041 para modificar el Estatuto Org&#xE1;nico del Servicio de Impuestos Internos, dicto el siguiente: Decreto con Fuerza Ley:</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-02-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9665956,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 7816, de fecha 28 de diciembre de 2015, se orden&#xF3; la expropiaci&#xF3;n total, conforme a las normas del decreto ley N&#xBA; 2.186 de 1978, del denominado Lote N&#xBA; L - 2, correspondiente al inmueble ubicado en Cam. Longitudinal a ST 2, Rol de Aval&#xFA;o N&#xBA; 450-27, de la Comuna de Buin, Regi&#xF3;n Metropolitana, de aparente dominio de Christen Lesing Robert Peck, con una superficie aproximada de 2528, metros cuadrados. Dicha expropiaci&#xF3;n resulta necesaria para la ejecuci&#xF3;n del Proyecto &quot;Construcci&#xF3;n Servicio Pasajeros Rancagua Express&quot;. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Ingrid Von Osten Y&#xE1;&#xF1;ez, Ingeniero Civil; Gabriel Pantoja Rivera, Ingeniero Agr&#xF3;nomo y Karine Acevedo Hinojosa, Constructor Civil, mediante Informe de fecha 16 de diciembre de 2015, fij&#xF3; la indemnizaci&#xF3;n provisional por causa de la referida expropiaci&#xF3;n en la suma de $135.712.000, que se pagar&#xE1; al contado. La presente publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186 de 1978. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1115098&amp;idParte=9887014&amp;idVersion=2018-02-15\">Rectificaci&#xF3;n 1494<br>D.O. 15.02.2018</a></span>exenta N&#xB0; 8.041, de fecha 29 de diciembre de 2015, se orden&#xF3; la expropiaci&#xF3;n total, conforme a las normas del decreto ley N&#xBA; 2.186 de 1978, del denominado Lote N&#xBA; L - 2, correspondiente al inmueble ubicado en Cam. Longitudinal a ST 2, Rol de Aval&#xFA;o N&#xBA; 450-27, de la Comuna de Buin, Regi&#xF3;n Metropolitana, de aparente dominio de Christen Lesing Robert Peck, con una superficie aproximada de 2528, metros cuadrados. Dicha expropiaci&#xF3;n resulta necesaria para la ejecuci&#xF3;n del Proyecto &quot;Construcci&#xF3;n Servicio Pasajeros Rancagua Express&quot;. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Ingrid Von Osten Y&#xE1;&#xF1;ez, Ingeniero Civil; Gabriel Pantoja Rivera, Ingeniero Agr&#xF3;nomo y Karine Acevedo Hinojosa, Constructor Civil, mediante Informe de fecha 16 de diciembre de 2015, fij&#xF3; la indemnizaci&#xF3;n provisional por causa de la referida expropiaci&#xF3;n en la suma de $135.712.000, que se pagar&#xE1; al contado. La presente publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186 de 1978. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1115098,
+      "fecha": "2018-02-15"
+    }
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "fecha": "1952-03-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1956-08-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9142846,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo l&#xB0;.- Decl&#xE1;ranse exentos del pago de impuesto a la renta de cuarta categor&#xED;a del impuesto adicional a la renta y del impuesto complementario, a la peque&#xF1;a miner&#xED;a y a sus establecimientos de beneficio.</div><div class=\"p\">&nbsp; &nbsp;  Se entiende por peque&#xF1;a miner&#xED;a la actividad productora que se realiza en minas cuyos due&#xF1;os sean personas naturales o sociedades mineras, siempre que el capital de dichas sociedades no fuere superior a cinco millones de pesos y no est&#xE9;n afectas a lo dispuesto en el decreto con fuerza de ley N&#xB0; 251, de 20 de Mayo de 1931, sobre Compa&#xF1;&#xED;as de Seguros, Bolsas de Comercio y Sociedades An&#xF3;nimas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo l&#xB0;.- Decl&#xE1;ranse exentos del pago de impuesto a la renta de cuarta categor&#xED;a del impuesto adicional a la renta y del impuesto complementario, a la peque&#xF1;a miner&#xED;a y a sus establecimientos de beneficio.</div><div class=\"p\">&nbsp; &nbsp;  Se entiende por peque&#xF1;a miner&#xED;a la actividad productora que se reali<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=27030&amp;idParte=8784748&amp;idVersion=1956-08-18\">LEY 12084<br>Art. 46<br>D.O. 18.08.1956</a></span>za en minas cuyos due&#xF1;os sean personas naturales o sociedades mineras, siempre que el capital de dichas sociedades no fuere superior a quince millones de pesos y no est&#xE9;n afectas a lo dispuesto en el decreto con fuerza de ley N&#xB0; 251, de 20 de Mayo de 1931, sobre Compa&#xF1;&#xED;as de Seguros, Bolsas de Comercio y Sociedades An&#xF3;nimas.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 27030,
+      "fecha": "1956-08-18"
+    }
+  },
+  {
+    "fecha": "1976-12-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9142846,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo l&#xB0;.- Decl&#xE1;ranse exentos del pago de impuesto a la renta de cuarta categor&#xED;a del impuesto adicional a la renta y del impuesto complementario, a la peque&#xF1;a miner&#xED;a y a sus establecimientos de beneficio.</div><div class=\"p\">&nbsp; &nbsp;  Se entiende por peque&#xF1;a miner&#xED;a la actividad productora que se reali<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=27030&amp;idParte=8784748&amp;idVersion=1956-08-18\">LEY 12084<br>Art. 46<br>D.O. 18.08.1956</a></span>za en minas cuyos due&#xF1;os sean personas naturales o sociedades mineras, siempre que el capital de dichas sociedades no fuere superior a quince millones de pesos y no est&#xE9;n afectas a lo dispuesto en el decreto con fuerza de ley N&#xB0; 251, de 20 de Mayo de 1931, sobre Compa&#xF1;&#xED;as de Seguros, Bolsas de Comercio y Sociedades An&#xF3;nimas.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=6680&amp;idParte=8758185&amp;idVersion=1976-12-03\">DL 1604, HACIENDA<br>Art. 9<br>D.O. 03.12.1976</a></span>&nbsp; &nbsp;  Art&#xED;culo l&#xB0;.- INCISO DEROGADO.</div><div class=\"p\">&nbsp; &nbsp;  Se entiende por peque&#xF1;a miner&#xED;a la actividad productora que se realiza en minas cuyos due&#xF1;os sean personas naturales o sociedades mineras, siempre que el capital de dichas<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=27030&amp;idParte=8784748&amp;idVersion=1956-08-18\">LEY 12084<br>Art. 46<br>D.O. 18.08.1956</a></span> sociedades no fuere superior a quince millones de pesos y no est&#xE9;n afectas a lo dispuesto en el decreto con fuerza de ley N&#xB0; 251, de 20 de Mayo de 1931, sobre Compa&#xF1;&#xED;as de Seguros, Bolsas de Comercio y Sociedades An&#xF3;nimas.</div><br><br></div>"
+        },
+        {
+          "part_id": 9142847,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Para la determinaci&#xF3;n de las rentas afectas al impuesto global complementario de los contribuyentes a que se refiere el art&#xED;culo anterior, se deducir&#xE1;n las que el contribuyente obtenga de las actividades exentas de los impuestos a que se refiere el mismo art&#xED;culo.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=6680&amp;idParte=8758185&amp;idVersion=1976-12-03\">DL 1604, HACIENDA<br>Art. 9<br>D.O. 03.12.1976</a></span>&nbsp; &nbsp;  Art&#xED;culo 2.- DEROGADO.</div><br><br></div>"
+        },
+        {
+          "part_id": 9142848,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- En sustituci&#xF3;n de los impuestos que se se&#xF1;alan en el art&#xED;culo l&#xB0; los contribuyentes a que el mismo art&#xED;culo se refiere pagar&#xE1;n un impuesto de 1 1/2% sobre el precio de venta de los minerales o productos procedentes de sus pertenencias o establecimientos y que ser&#xE1; descontado por los compradores de minerales en la correspondiente planilla de liquidaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=6680&amp;idParte=8758185&amp;idVersion=1976-12-03\">DL 1604, HACIENDA<br>Art. 9<br>D.O. 03.12.1976</a></span>&nbsp; &nbsp;  Art&#xED;culo 3.- DEROGADO.</div><br><br></div>"
+        },
+        {
+          "part_id": 9142849,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;.- Los compradores de minerales depositar&#xE1;n en la Tesorer&#xED;a Comunal que corresponda, dentro de los primeros diez d&#xED;as de cada mes, los valores recaudados en el mes anterior por concepto del impuesto a que se refiere el art&#xED;culo anterior y ser&#xE1;n directamente responsables de la omisi&#xF3;n o diferencia que se establezcan por los servicios competentes.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=6680&amp;idParte=8758185&amp;idVersion=1976-12-03\">DL 1604, HACIENDA<br>Art. 9<br>D.O. 03.12.1976</a></span>&nbsp; &nbsp;  Art&#xED;culo 4.- DEROGADO.</div><br><br></div>"
+        },
+        {
+          "part_id": 9142850,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;.- Las disposiciones da esta ley no regir&#xE1;n para las sociedades y compa&#xF1;&#xED;as mineras constituidas en Chile que tengan sus explotaciones mineras y establecimientos de beneficio fuera del pa&#xED;s.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=6680&amp;idParte=8758185&amp;idVersion=1976-12-03\">DL 1604, HACIENDA<br>Art. 9<br>D.O. 03.12.1976</a></span>&nbsp; &nbsp;  Art&#xED;culo 5.- DEROGADO.</div><br><br></div>"
+        },
+        {
+          "part_id": 9142851,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- La Direcci&#xF3;n General de Impuestos Internos confeccionar&#xE1;, en conformidad a lo dispuesto en el reglamento que dicte el Presidente de la Rep&#xFA;blica, un rol de las personas que queden afectas a las disposiciones de la presente ley.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=6680&amp;idParte=8758185&amp;idVersion=1976-12-03\">DL 1604, HACIENDA<br>Art. 9<br>D.O. 03.12.1976</a></span>&nbsp; &nbsp;  Art&#xED;culo 6.- DEROGADO.</div><br><br></div>"
+        },
+        {
+          "part_id": 9142852,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xB0;.- Decl&#xE1;rase que el uso y goce que corresponde a la Sociedad Nacional de Miner&#xED;a sobre el inmueble ubicado en Santiago, calle Moneda N&#xB0; 759, de propiedad fiscal, quedar&#xE1; exento de los impuestos fiscales que gravan los bienes ra&#xED;ces.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=6680&amp;idParte=8758185&amp;idVersion=1976-12-03\">DL 1604, HACIENDA<br>Art. 9<br>D.O. 03.12.1976</a></span>&nbsp; &nbsp;  Art&#xED;culo 7.- DEROGADO.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 6680,
+      "fecha": "1976-12-03"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-02-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8326622,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

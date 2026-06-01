@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2005-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-12-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8812437,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1008730&amp;idParte=8812409&amp;idVersion=2009-12-04\">Ordenanza 441,<br>M. DE IQUIQUE<br>N&#xBA; 1<br>D.O. 04.12.2009</a></span>&nbsp; &nbsp;  T&#xCD;TULO VII</div><br><div class=\"p\">&nbsp; &nbsp;  DEL HORARIO DE FUNCIONAMIENTO DEL VERTEDERO MUNICIPAL O RELLENO SANITARIO</div><br><br></div>"
+        },
+        {
+          "part_id": 8812438,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1008730&amp;idParte=8812409&amp;idVersion=2009-12-04\">Ordenanza 441,<br>M. DE IQUIQUE<br>N&#xBA; 1<br>D.O. 04.12.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo 48: El horario de atenci&#xF3;n a p&#xFA;blico del Vertedero Municipal o Relleno Sanitario s&#xF3;lo ser&#xE1; entre las 22:00 horas y las 15:00 horas del d&#xED;a siguiente, en d&#xED;as h&#xE1;biles administrativos.</div><br><div class=\"p\">&nbsp; &nbsp;  No habr&#xE1; atenci&#xF3;n a p&#xFA;blico entre las 15:01 horas de los d&#xED;as s&#xE1;bado, y hasta las 21:59 horas de los d&#xED;as domingo.</div><br><div class=\"p\">&nbsp; &nbsp;  No habr&#xE1; excepciones al horario establecido en la presente norma, salvo que existieran razones de fuerza mayor o caso fortuito, y esta situaci&#xF3;n lo probare el solicitante documentadamente, lo que ser&#xE1; evaluado por el Director de Aseo y Ornato, previo informe favorable de la unidad de Medio Ambiente del municipio.</div><br><div class=\"p\">&nbsp; &nbsp;  Se presumir&#xE1; falta de probidad administrativa de los funcionarios que autoricen el ingreso de veh&#xED;culos o personas al vertedero o relleno sanitario fuera del horario establecido en la presente ordenanza, salvo cuando exista orden de autoridad competente, y con conocimiento de causa.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1008730,
+      "fecha": "2009-12-04"
+    }
+  }
+]

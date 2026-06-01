@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-05-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-09-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6003200,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; RECONOCE CAPITAL INMOVILIZADO DEL FERROCARRIL DE ANTOFAGASTA A BOLIVIA AL 31 DE DICIEMBRE DE 1995 N&#xFA;m. 18.- Santiago, 20 de marzo de 1996.- Visto: El oficio 5300/96/051, de 20 de febrero de 1996, del Ferrocarril de Antofagasta a Bolivia; lo dispuesto en los art&#xED;culos 76 y 100 N&#xB0; 4 de la Ley General de Ferrocarriles, y el art&#xED;culo 1&#xB0; de la Ley N&#xB0; 16.436, R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; RECONOCE CAPITAL INMOVILIZADO DEL FERROCARRIL DE ANTOFAGASTA A BOLIVIA AL 31 DE DICIEMBRE DE 1995 N&#xFA;m. 18.- Santiago, 20 de marzo de 1996.- Visto: El oficio 5300/96/051, de 20 de febrero de 1996, del Ferrocarril de Antofagasta a Bolivia; lo dispuesto en los art&#xED;culos 76 y 100 N&#xB0; 4 de la Ley General de Ferrocarriles, y el art&#xED;culo 1&#xB0; de la Ley N&#xB0; 16.436, R e s u e l v o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

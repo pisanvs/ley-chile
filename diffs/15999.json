@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-09-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-06-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7153646,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA CONVENIO DE DELEGACION DE FUNCIONES DEL SERVICIO NACIONAL DE ADUANAS AL SERVICIO DE IMPUESTOS INTERNOS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 864.- Santiago, 1&#xB0; de Septiembre de 1993.- Vistos: Lo dispuesto en el art&#xED;culo 35&#xB0; de la ley N&#xB0; 18.575, Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado, y</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que los jefes superiores de los Servicios Nacional de Aduanas y de Impuestos Internos, suscribieron un Convenio en cuya virtud el primero de los nombrados delegados en el segundo las funciones de efectuar el control aduanero en Tierra del Fuego, del ingreso a la zona preferencial establecida en la Ley N&#xB0; 19.149, de mercanc&#xED;as nacionales y nacionalizadas exentas del Impuesto a las Ventas y Servicios establecido en el D.L. N&#xB0; 825, de 1974,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA CONVENIO DE DELEGACION DE FUNCIONES DEL SERVICIO NACIONAL DE ADUANAS AL SERVICIO DE IMPUESTOS INTERNOS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 864.- Santiago, 1&#xB0; de Septiembre de 1993.- Vistos: Lo dispuesto en el art&#xED;culo 35&#xB0; de la ley N&#xB0; 18.575, Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado, y</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que los jefes superiores de los Servicios Nacional de Aduanas y de Impuestos Internos, suscribieron un Convenio en cuya virtud el primero de los nombrados delegados en el segundo las funciones de efectuar el control aduanero en Tierra del Fuego, del ingreso a la zona preferencial establecida en la Ley N&#xB0; 19.149, de mercanc&#xED;as nacionales y nacionalizadas exentas del Impuesto a las Ventas y Servicios establecido en el D.L. N&#xB0; 825, de 1974,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

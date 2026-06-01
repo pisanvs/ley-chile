@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9035696,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; PROHIBE EL INGRESO DE PERSONAS AL TERRITORIO NACIONAL EN LOS CASOS QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 604.- Santiago, 9 de Agosto de 1974.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que uno de los postulados esenciales de la acci&#xF3;n restauradora que se ha impuesto la Junta de Gobierno es la preservaci&#xF3;n y acentuaci&#xF3;n de la chilenidad, la devoci&#xF3;n a la Patria, a sus emblemas sacros y a sus tradiciones historicas;</div><div class=\"p\">&nbsp; &nbsp; 2.- Que toda persona extranjera o chilena, que desde el exterior deshonre, difame o desprestigie vilmente al pa&#xED;s, a su Gobierno y su pueblo, est&#xE1; atentando gravemente contra los intereses esenciales del Estado y, en el caso de los chilenos, renegando de su patria;</div><div class=\"p\">&nbsp; &nbsp; 3.- Que esta cobarde actitud, adem&#xE1;s, crea un ambiente internacional hostil al Gobierno y pueblo de Chile, favoreciendo acciones de agresi&#xF3;n que elementos fanatizados y extremistas cometen contra altos representantes del pa&#xED;s en el extranjero;</div><div class=\"p\">&nbsp; &nbsp; 4.- Que, frente a tales acontecimientos, en resguardo y protecci&#xF3;n de la integridad de los valores supremos y permanentes de la comunidad chilena y del honor nacional comprometido, constituye una imperiosa necesidad evitar el ingreso al pa&#xED;s de tales personas, y Visto: lo dispuesto en los decretos leyes Nos 1y 128, de 1973, y 527, de 1974,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno ha acordado dictar el siguiente Decreto ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; PROHIBE EL INGRESO DE PERSONAS AL TERRITORIO NACIONAL EN LOS CASOS QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D E R O G A D O.-<span class=\"n\" id=\"n_0\">LEY 19047<br>Art. 8&#xB0;</span></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 604.- Santiago, 9 de Agosto de 1974.- Considerando:<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div></div><div class=\"p\">&nbsp; &nbsp; 1.- Que uno de los postulados esenciales de la<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 2</a></div> acci&#xF3;n restauradora que se ha impuesto la Junta de Gobierno es la preservaci&#xF3;n y acentuaci&#xF3;n de la chilenidad, la devoci&#xF3;n a la Patria, a sus emblemas sacros y a sus tradiciones historicas;</div><div class=\"p\">&nbsp; &nbsp; 2.- Que toda persona extranjera o chilena, que desde el exterior deshonre, difame o desprestigie vilmente al pa&#xED;s, a su Gobierno y su pueblo, est&#xE1; atentando gravemente contra los intereses esenciales del Estado y, en el caso de los chilenos, renegando de su patria;</div><div class=\"p\">&nbsp; &nbsp; 3.- Que esta cobarde actitud, adem&#xE1;s, crea un ambiente internacional hostil al Gobierno y pueblo de Chile, favoreciendo acciones de agresi&#xF3;n que elementos fanatizados y extremistas cometen contra altos representantes del pa&#xED;s en el extranjero;</div><div class=\"p\">&nbsp; &nbsp; 4.- Que, frente a tales acontecimientos, en resguardo y protecci&#xF3;n de la integridad de los valores supremos y permanentes de la comunidad chilena y del honor nacional comprometido, constituye una imperiosa necesidad evitar el ingreso al pa&#xED;s de tales personas, y Visto: lo dispuesto en los decretos leyes Nos 1y 128, de 1973, y 527, de 1974,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno ha acordado dictar el siguiente Decreto ley:</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 8&#xB0; de la Ley N&#xB0; 19.047, publicada en el &quot;Diario Oficial&quot; de 14 de febrero de 1991, derog&#xF3; el presente decreto ley.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El texto de este decreto ley derogado se encuentra en una cinta de normas derogadas BDTO.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-03-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8472118,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22&#xBA;: Las instituciones con rendiciones pendientes ser&#xE1;n eliminadas del Registro de Personas Jur&#xED;dicas Receptoras de Subvenciones.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22&#xBA;: Las instituciones con rendiciones<span class=\"n\" id=\"n_0\">DTO 669,<br>M. DE PUNTA ARENAS<br>N&#xBA; 1<br>D.O. 14.03.2009</span> pendientes, rechazadas total o parcialmente, o que no hayan enterado los dineros no rendidos en arcas municipales, por subvenciones municipales otorgadas, no ser&#xE1;n beneficiadas con la aprobaci&#xF3;n de nuevas subvenciones hasta que no den cumplimiento a la entrega de las rendiciones faltantes.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

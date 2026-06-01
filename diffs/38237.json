@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1995-09-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-06-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8953697,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Def&#xED;nese como radio urbano de la ciudad de Temuco, que regir&#xE1; exclusivamente para los servicios urbanos de locomoci&#xF3;n colectiva que se realizan en la Comuna de Temuco, los l&#xED;mites comprendidos al interior de una l&#xED;nea recta imaginaria, trazada entre los v&#xE9;rtices &quot;A&quot;, &quot;B&quot;, &quot;C&quot;, &quot;D&quot;, &quot;E&quot;, &quot;F&quot; y &quot;A&quot;, de las coordenadas geogr&#xE1;ficas siguientes:</div><div class=\"p\">&nbsp; &nbsp; V&#xE9;rtice &quot;A&quot; al Nor-Oriente de la ciudad de Temuco, latitud 38&#xB0;41&apos;66&quot; S. y longitud 72&#xB0;20&apos;40&quot; W, correspondiente a la estaci&#xF3;n de FF.CC. de la localidad de General L&#xF3;pez.</div><div class=\"p\">&nbsp; &nbsp; V&#xE9;rtice &quot;B&quot; al Sur-Oriente de la ciudad de Temuco, latitud 38&#xB0;52&apos;30&quot; S. y longitud 72&#xB0;22&apos;50&quot; W, correspondiente a la intersecci&#xF3;n de la ruta S-51 y el camino Vecinal de acceso a la villa rural San Ram&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; V&#xE9;rtice &quot;C&quot; al Sur de la ciudad de Temuco latitud 38&#xB0;52&apos;30&quot; S. y longitud 72&#xB0;36&apos;40&quot; W, correspondiente a la estaci&#xF3;n de FF.CC. de la localidad de Quepe.</div><div class=\"p\">&nbsp; &nbsp; V&#xE9;rtice &quot;D&quot; al Sur-Poniente de la ciudad de Temuco, latitud 38&#xB0;46&apos;10&quot; S. y longitud 72&#xB0;47&apos;40&quot; W, correspondiente a la intersecci&#xF3;n de la Ruta S-30 y el camino vecinal de acceso a la Reducci&#xF3;n Ind&#xED;gena Rengalil.</div><div class=\"p\">&nbsp; &nbsp; V&#xE9;rtice &quot;E&quot; al Nor-Poniente de la ciudad de Temuco, latitud 38&#xB0;41&apos;40&quot; S. y longitud 72&#xB0;38&apos;40&quot; W, correspondiente a la intersecci&#xF3;n de la Ruta S-20, con el camino a la villa rural La Serena.</div><div class=\"p\">&nbsp; &nbsp; V&#xE9;rtice &quot;F&quot; al Norte de la ciudad de Temuco, latitud 38&#xB0;40&apos;40&quot; S. y longitud 72&#xB0;29&apos;40&quot; W, correspondiente a la estaci&#xF3;n de FF.CC. de la localidad de Caj&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- La presente Resoluci&#xF3;n entrar&#xE1; en vigencia a contar de su publicaci&#xF3;n en el Diario Oficial. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Def&#xED;nese como radio urbano de la ciudad de Temuco, que regir&#xE1; exclusivamente para los servicios urbanos de locomoci&#xF3;n colectiva que se realizan en la Comuna de Temuco, los l&#xED;mites comprendidos al interior de una l&#xED;nea recta imaginaria, trazada entre los v&#xE9;rtices &quot;A&quot;, &quot;B&quot;, &quot;C&quot;, &quot;D&quot;, &quot;E&quot;, &quot;F&quot; y &quot;A&quot;, de las coordenadas geogr&#xE1;ficas siguientes: V&#xE9;rtice &quot;A&quot; al Nor-Oriente de la ciudad de Temuco, latitud 38&#xB0;41&apos;66&quot; S. y longitud 72&#xB0;20&apos;40&quot; W, correspondiente a la estaci&#xF3;n de FF.CC. de la localidad de General L&#xF3;pez. V&#xE9;rtice &quot;B&quot; al Sur-Oriente de la ciudad de Temuco, latitud 38&#xB0;52&apos;30&quot; S. y longitud 72&#xB0;22&apos;50&quot; W, correspondiente a la intersecci&#xF3;n de la ruta S-51 y el camino Vecinal de acceso a la villa rural San Ram&#xF3;n. V&#xE9;rtice &quot;C&quot; al Sur de la ciudad de Temuco latitud 38&#xB0;52&apos;30&quot; S. y longitud 72&#xB0;36&apos;40&quot; W, correspondiente a la estaci&#xF3;n de FF.CC. de la localidad de Quepe. V&#xE9;rtice &quot;D&quot; al Sur-Poniente de la ciudad de Temuco, latitud 38&#xB0;46&apos;10&quot; S. y longitud 72&#xB0;47&apos;40&quot; W, correspondiente a la intersecci&#xF3;n de la Ruta S-30 y el camino vecinal de acceso a la Reducci&#xF3;n Ind&#xED;gena Rengalil. V&#xE9;rtice &apos;&apos;E&apos;&apos; al Nor-Poniente de la ciudad de<span class=\"n\" id=\"n_0\">RES 119 EXENTA<br>TRANSPORTES<br>D.O 09.06.1998</span> Temuco, latitud 38&#xB0;39&apos;30&quot; S. y longitud 72&#xB0;43&apos;10&quot; W., correspondiente a la Escuela Bolleco por la Ruta S-20. V&#xE9;rtice &apos;&apos;F&apos;&apos; al Norte de la ciudad de Temuco,<span class=\"n\" id=\"n_1\">RES 119 EXENTA<br>TRANSPORTES<br>D.O.09.06.1998</span> latitud 38&#xB0;40&apos;10&quot; S. y longitud 72&#xB0;29&apos;10&quot; W., correspondiente al Colegio Instituto Claret por la Ruta 5 Norte. 2&#xB0;.- La presente Resoluci&#xF3;n entrar&#xE1; en vigencia a contar de su publicaci&#xF3;n en el Diario Oficial. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

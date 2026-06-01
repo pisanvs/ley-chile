@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-03-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8323124,
+          "old": "<div><div class=\"p\">AUTORIZA AL SINDICATO DE TRABAJADORES INDEPENDIENTES RECOLECTORES DE ALGAS CAIPULLI PARA INICIAR ACTIVIDADES PESQUERAS. DEJA SIN EFECTO RESOLUCION QUE INDICA </div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA AL SINDICATO DE TRABAJADORES INDEPENDIENTES RECOLECTORES DE ALGAS CAIPULLI PARA INICIAR ACTIVIDADES PESQUERAS. DEJA SIN EFECTO RESOLUCION QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-02-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-02-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9888999,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Extracto de resoluci&#xF3;n exenta del Servicio de Impuestos Internos N&#xBA; 12, de 15 de febrero de 2018, que:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Reemplaza certificados y oficio contenidos en el Anexo de la referida Circular y pone a disposici&#xF3;n su consulta en la p&#xE1;gina www.sii.cl.</div><div class=\"p\">&nbsp; &nbsp;  El texto &#xED;ntegro de esta Circular est&#xE1; publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, adem&#xE1;s, aparecer&#xE1; en el Bolet&#xED;n del SII del mes de febrero de 2018.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Extracto <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1115678&amp;idParte=9891221&amp;idVersion=2018-02-28\">Rectificaci&#xF3;n 1514<br>D.O. 28.02.2018</a></span>de circular del Servicio de Impuestos Internos N&#xB0; 12, de 15 de febrero de 2018, que:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Reemplaza certificados y oficio contenidos en el Anexo de la referida Circular y pone a disposici&#xF3;n su consulta en la p&#xE1;gina www.sii.cl.</div><div class=\"p\">&nbsp; &nbsp;  El texto &#xED;ntegro de esta Circular est&#xE1; publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, adem&#xE1;s, aparecer&#xE1; en el Bolet&#xED;n del SII del mes de febrero de 2018.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1115678,
+      "fecha": "2018-02-28"
+    }
+  }
+]

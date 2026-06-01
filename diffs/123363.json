@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8333384,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Fac&#xFA;ltase a don An&#xED;bal Enrique Maldonado Collao, Rut. 11.163.758-K, padre de las menores, para cobrar las pensiones en su representaci&#xF3;n hasta que las beneficiarias cumplan 18 a&#xF1;os de edad.</div><br><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente decreto supremo, se imputar&#xE1; al item &apos;&apos;Jubilaciones, Pensiones y Montep&#xED;os&apos;&apos;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Fac&#xFA;ltase a don An&#xED;bal Enrique<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Maldonado Collao, Rut. 11.163.758-K, padre de las menores, para cobrar las pensiones en su representaci&#xF3;n hasta que las beneficiarias cumplan 18 a&#xF1;os de edad.</div><br><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente decreto supremo, se imputar&#xE1; al item &apos;&apos;Jubilaciones, Pensiones y Montep&#xED;os&apos;&apos;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 3745, Interior, publicado el 12.01.2001 modific&#xF3; el presente decreto en el sentido de dejar sin efecto la facultad otorgada a don An&#xED;bal Enrique Maldonado Collao, y facultar a do&#xF1;a Ana Ruth Burgos Garc&#xE9;s para cobrar la pensi&#xF3;n por gracia de las menores Judithza Valesca, Camila Paz y Katerine Andrea Maldonado Burgos.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-07-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-11-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7160499,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO NUMERO 100 EXENTO, DE 1994 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO NUMERO 100 EXENTO, DE 1994 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

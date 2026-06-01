@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1997-01-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-01-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7203847,
+          "old": null,
+          "new": "<div><div class=\"p\">APRUEBA ARANCEL DEL REGIMEN DE PRESTACIONES DE SALUD DE LA</div><div class=\"p\">LEY N&#xBA; 18.469</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m.&nbsp; 128 exenta.- Santiago, 20 de enero de 1997-&nbsp; Visto: Lo propuesto por el Director del Fondo Nacional de Salud, en Oficio&nbsp; Reservado&nbsp; N&#xBA; 1 A / N&#xBA; 007 del 16 de enero de 1997, lo establecido en el art&#xED;culo N&#xBA; 28 de la Ley N&#xBA; 18.469 y lo dispuesto por dicha normativa para la determinaci&#xF3;n del valor de las prestaciones del R&#xE9;gimen de Salud que se otorguen por la Modalidad de Atenci&#xF3;n Institucional y de Libre Elecci&#xF3;n que ella regula; lo dispuesto en el art&#xED;culo 4&#xBA; letra b) del Decreto Ley N&#xBA; 2.763, de 1979, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

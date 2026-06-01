@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-01-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-07-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8329481,
+          "old": "<div><div class=\"p\">AUTORIZA A CIA. PESQUERA CAMANCHACA S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A CIA. PESQUERA CAMANCHACA S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

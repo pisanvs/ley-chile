@@ -1,0 +1,62 @@
+[
+  {
+    "fecha": "2013-05-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-04-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2016-04-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9698487,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1089737&amp;idParte=9698363&amp;idVersion=2016-04-25\">Auto Acordado S/N,<br>TRIB. CALIFICADOR DE ELECCIONES<br>Art. II d)<br>D.O. 23.04.2016</a></span></div><div class=\"p\">&nbsp; &nbsp;  P&#xE1;rrafo 4&#xB0; Recursos</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 9698488,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1089737&amp;idParte=9698363&amp;idVersion=2016-04-25\">Auto Acordado S/N,<br>TRIB. CALIFICADOR DE ELECCIONES<br>Art. II d)<br>D.O. 23.04.2016</a></span></div><div class=\"p\">&nbsp; &nbsp;  7&#xB0; Recursos. En contra de la resoluci&#xF3;n que declare inadmisible la solicitud de rectificaci&#xF3;n de escrutinios o reclamaci&#xF3;n de nulidad, de la que la acoja a tramitaci&#xF3;n, de la sentencia definitiva que resuelva la solicitud de rectificaci&#xF3;n de escrutinio o reclamaci&#xF3;n de nulidad, del escrutinio general, de la sentencia de calificaci&#xF3;n y acta de proclamaci&#xF3;n, o respecto de cualquier otra resoluci&#xF3;n que dicte el Tribunal, no proceder&#xE1; recurso alguno, sin perjuicio que, de oficio o a petici&#xF3;n de parte, dentro de quinto d&#xED;a, el Tribunal modifique lo resuelto por haber incurrido en un error de hecho.</div><div class=\"p\">&nbsp; &nbsp;  Las <span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1089737&amp;idParte=9698363&amp;idVersion=2016-04-25\">Auto Acordado S/N,<br>TRIB. CALIFICADOR DE ELECCIONES<br>Art. II e)<br>D.O. 23.04.2016</a></span>apelaciones en contra de resoluciones de los Tribunales Electorales Regionales pronunciadas con motivo de las declaraciones de candidaturas para elecciones primarias de Alcalde, de las solicitudes de nulidad o rectificaci&#xF3;n de escrutinio, de conformidad con lo dispuesto en la Ley N&#xB0; 20.640, ser&#xE1;n interpuestas para ante el Tribunal Calificador de Elecciones.</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": 9350008,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  7&#xB0; Recursos. En contra de la resoluci&#xF3;n que declare inadmisible la solicitud de rectificaci&#xF3;n de escrutinios o reclamaci&#xF3;n de nulidad, de la que la acoja a tramitaci&#xF3;n, de la sentencia definitiva que resuelva la solicitud de rectificaci&#xF3;n de escrutinio o reclamaci&#xF3;n de nulidad, del escrutinio general, de la sentencia de calificaci&#xF3;n y acta de proclamaci&#xF3;n, o respecto de cualquier otra resoluci&#xF3;n que dicte el Tribunal, no proceder&#xE1; recurso alguno, sin perjuicio que, de oficio o a petici&#xF3;n de parte, dentro de quinto d&#xED;a, el Tribunal modifique lo resuelto por haber incurrido en un error de hecho.</div></div>",
+          "new": null
+        }
+      ],
+      "changed": [
+        {
+          "part_id": 9349996,
+          "old": "<div><br><div class=\"p\">AUTO ACORDADO DEL TRIBUNAL CALIFICADOR DE ELECCIONES QUE REGULA LA TRAMITACI&#xD3;N Y LOS PROCEDIMIENTOS DERIVADOS DE LA PUBLICACI&#xD3;N DE LA LEY N&#xB0; 20.640 QUE &quot;ESTABLECE EL SISTEMA DE ELECCIONES PRIMARIAS PARA LA NOMINACI&#xD3;N DE CANDIDATOS PARA PRESIDENTE DE LA REP&#xDA;BLICA, PARLAMENTARIOS Y ALCALDES&quot;, EN EL MARCO DE LAS ELECCIONES PRESIDENCIALES Y PARLAMENTARIAS</div><br><div class=\"p\">&nbsp; &nbsp;  En Santiago, a treinta de abril de dos mil trece, siendo las 17:00 horas, se reuni&#xF3; extraordinariamente el Tribunal Calificador de Elecciones bajo la presidencia del Ministro don Patricio Vald&#xE9;s Aldunate, y con la asistencia de los se&#xF1;ores Ministros don Carlos K&#xFC;nsem&#xFC;ller Loebenfelder, don Haroldo Brito Cruz, don Juan Eduardo Fuentes Belmar y don Mario R&#xED;os Santander. Actu&#xF3; la Secretaria Relatora do&#xF1;a Carmen Gloria Valladares Moyano.</div><div class=\"p\">&nbsp; &nbsp;  Conforme a las facultades conferidas por el art&#xED;culo 12 de la Ley N&#xB0; 18.460, Org&#xE1;nica Constitucional sobre el Tribunal Calificador de Elecciones, que establece la facultad para reglamentar el procedimiento para la tramitaci&#xF3;n de las causas y asuntos que se sustancien ante el Tribunal Calificador de Elecciones, asegurando en todo caso un racional y justo proceso, y atendida la necesidad de regular los procedimientos que son de competencia de este Tribunal conforme a la <a href=\"https://www.leychile.cl/Navegar?idNorma=1046533&amp;idParte=0&amp;idVersion=\">Ley N&#xBA; 20.640</a>, Org&#xE1;nica Constitucional sobre &quot;El Sistema de Elecciones Primarias para la Nominaci&#xF3;n de Candidatos a Presidente de la Rep&#xFA;blica, Parlamentarios y Alcaldes&quot;, se acord&#xF3; dictar el siguiente Auto</div><br><div class=\"p\">&nbsp; &nbsp;  Acordado:</div></div>",
+          "new": "<div><br><div class=\"p\">AUTO ACORDADO DEL TRIBUNAL CALIFICADOR DE ELECCIONES QUE REGULA LA TRAMITACI&#xD3;N Y LOS PROCEDIMIENTOS DERIVADOS DE LA PUBLICACI&#xD3;N DE LA LEY N&#xB0; 20.640 QUE &quot;ESTABLECE EL SISTEMA DE ELECCIONES PRIMARIAS PARA LA NOMINACI&#xD3;N DE CANDIDATOS PARA PRESIDENTE DE LA REP&#xDA;BLICA, PARLAMENTARIOS Y ALCALDES&quot;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1089737&amp;idParte=9698363&amp;idVersion=2016-04-25\">Auto Acordado S/N,<br>TRIB. CALIFICADOR DE ELECCIONES<br>Art. II a)<br>D.O. 23.04.2016</a></span></div><br><div class=\"p\">&nbsp; &nbsp;  En Santiago, a treinta de abril de dos mil trece, siendo las 17:00 horas, se reuni&#xF3; extraordinariamente el Tribunal Calificador de Elecciones bajo la presidencia del Ministro don Patricio Vald&#xE9;s Aldunate, y con la asistencia de los se&#xF1;ores Ministros don Carlos K&#xFC;nsem&#xFC;ller Loebenfelder, don Haroldo Brito Cruz, don Juan Eduardo Fuentes Belmar y don Mario R&#xED;os Santander. Actu&#xF3; la Secretaria Relatora do&#xF1;a Carmen Gloria Valladares Moyano.</div><div class=\"p\">&nbsp; &nbsp;  Conforme a las facultades conferidas por art&#xED;culo <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1089737&amp;idParte=9698363&amp;idVersion=2016-04-25\">Auto Acordado S/N,<br>TRIB. CALIFICADOR DE ELECCIONES<br>Art. II b)<br>D.O. 23.04.2016</a></span>96 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, y art&#xED;culo 9&#xB0;, letra f) y el art&#xED;culo 12 de la Ley N&#xB0; 18.460, Org&#xE1;nica Constitucional sobre el Tribunal Calificador de Elecciones, que establece la facultad para reglamentar el procedimiento para la tramitaci&#xF3;n de las causas y asuntos que se sustancien ante el Tribunal Calificador de Elecciones, asegurando en todo caso un racional y justo proceso, y atendida la necesidad de regular los procedimientos que son de competencia de este Tribunal conforme a la Ley N&#xBA; 20.640, Org&#xE1;nica Constitucional sobre &quot;El Sistema de Elecciones Primarias para la Nominaci&#xF3;n de Candidatos a Presidente de la Rep&#xFA;blica, Parlamentarios y Alcaldes&quot;, se acord&#xF3; dictar el siguiente Auto</div><br><div class=\"p\">&nbsp; &nbsp;  Acordado:</div></div>"
+        },
+        {
+          "part_id": 9349998,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Interposici&#xF3;n de la reclamaci&#xF3;n. Las reclamaciones contra la resoluci&#xF3;n del Director del Servicio Electoral que acepta o rechaza una candidatura a elecci&#xF3;n primaria deber&#xE1;n interponerse ante este Tribunal Calificador de Elecciones.</div><div class=\"p\">&nbsp; &nbsp;  Las reclamaciones o impugnaciones deber&#xE1;n interponerse por los partidos pol&#xED;ticos, debidamente representados y deber&#xE1;n deducirse dentro de los cinco d&#xED;as corridos siguientes a la fecha de publicaci&#xF3;n de la resoluci&#xF3;n del Director del Servicio Electoral que acepte o rechace la declaraci&#xF3;n de candidatura de que se trate.</div><div class=\"p\">&nbsp; &nbsp;  En todo lo no regulado por este n&#xFA;mero se aplicar&#xE1;n las disposiciones contenidas en los n&#xFA;meros 49 a 52 del Auto Acordado que fija el Texto Refundido, coordinado, sistematizado y actualizado de los Autos Acordados sobre funcionamiento y tramitaci&#xF3;n de las causas y asuntos que deben sustanciarse ante el Tribunal Calificador de Elecciones, publicado en el Diario Oficial el 20 de abril de 2012.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Interposici&#xF3;n de la reclamaci&#xF3;n. Las reclamaciones contra la resoluci&#xF3;n del Director del Servicio Electoral que acepta o rechaza una candidatura a elecci&#xF3;n primaria deber&#xE1;n interponerse ante este Tribunal Calificador de Elecciones. En <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1089737&amp;idParte=9698363&amp;idVersion=2016-04-25\">Auto Acordado S/N,<br>TRIB. CALIFICADOR DE ELECCIONES<br>Art. II c)<br>D.O. 23.04.2016</a></span>el caso de las candidaturas a elecci&#xF3;n primaria para Alcalde, &#xE9;stas deber&#xE1;n interponerse ante el Tribunal Electoral Regional que corresponda.</div><div class=\"p\">&nbsp; &nbsp;  Las reclamaciones o impugnaciones deber&#xE1;n interponerse por los partidos pol&#xED;ticos, debidamente representados y deber&#xE1;n deducirse dentro de los cinco d&#xED;as corridos siguientes a la fecha de publicaci&#xF3;n de la resoluci&#xF3;n del Director del Servicio Electoral que acepte o rechace la declaraci&#xF3;n de candidatura de que se trate.</div><div class=\"p\">&nbsp; &nbsp;  En todo lo no regulado por este n&#xFA;mero, <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1089737&amp;idParte=9698363&amp;idVersion=2016-04-25\">Auto Acordado S/N,<br>TRIB. CALIFICADOR DE ELECCIONES<br>Art. II c)<br>D.O. 23.04.2016</a></span>en relaci&#xF3;n a las candidaturas para elecci&#xF3;n primaria de Presidente de la Rep&#xFA;blica y de Parlamentarios, se aplicar&#xE1;n las disposiciones contenidas en los n&#xFA;meros 49 a 52 del Auto Acordado que fija el Texto Refundido, coordinado, sistematizado y actualizado de los Autos Acordados sobre funcionamiento y tramitaci&#xF3;n de las causas y asuntos que deben sustanciarse ante el Tribunal Calificador de Elecciones, publicado en el Diario Oficial el 20 de abril de 2012.</div><br></div>"
+        },
+        {
+          "part_id": 9350010,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  8&#xB0; Aplicaci&#xF3;n. Este Auto Acordado tendr&#xE1; aplicaci&#xF3;n en las elecciones primarias de candidatos a los cargos de Diputados, Senadores y Presidente de la Rep&#xFA;blica.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  8&#xB0; Aplicaci&#xF3;n. Este Auto Acordado tendr&#xE1; aplicaci&#xF3;n en las elecciones primarias de candidatos a los cargos de Diputados, Senadores y Presidente de la Rep&#xFA;blica y Al<span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1089737&amp;idParte=9698363&amp;idVersion=2016-04-25\">Auto Acordado S/N,<br>TRIB. CALIFICADOR DE ELECCIONES<br>Art. II f)<br>D.O. 23.04.2016</a></span>caldes.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1089737,
+      "fecha": "2016-04-25"
+    }
+  }
+]

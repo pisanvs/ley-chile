@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1995-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-03-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8268563,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;: La notificaci&#xF3;n del decreto supremo antes referido, la har&#xE1; Carabineros de Chile de acuerdo con el procedimiento se&#xF1;alado en el inciso 2&#xB0; del art&#xED;culo 3&#xB0; de la Ley N&#xB0; 19.303, levantando el acta correspondiente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;: La <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1116274&amp;idParte=9895280&amp;idVersion=2018-03-17\">Decreto 867, INTERIOR<br>Art. segundo<br>D.O. 17.03.2018</a></span>notificaci&#xF3;n del decreto supremo antes referido, se realizar&#xE1; por conducto de la Intendencia Regional respectiva.</div><br><br></div>"
+        },
+        {
+          "part_id": 8268566,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;: Las medidas de seguridad que decidan adoptar las entidades obligadas, ser&#xE1;n presentadas a las Prefecturas de Carabineros o a la autoridad institucional comprendida en el art&#xED;culo 13 de la Ley N&#xB0; 19.303 y contendr&#xE1;n la informaci&#xF3;n necesaria dispuesta por la autoridad policial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;: Las medidas de seguridad que decidan adoptar las entidades obligadas, ser&#xE1;n presentadas a las Prefecturas de Carabineros o a la autoridad institucional comprendida en el art&#xED;culo 13 de la Ley N&#xB0; 19.303 y contendr&#xE1;n la informaci&#xF3;n necesaria dispuesta por la autoridad policial.</div><div class=\"p\">&nbsp; &nbsp;  Las <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1116274&amp;idParte=9895281&amp;idVersion=2018-03-17\">Decreto 867, INTERIOR<br>Art. tercero<br>D.O. 17.03.2018</a></span>medidas de seguridad presentadas, ser&#xE1;n objeto de revisi&#xF3;n y comprobaci&#xF3;n por parte de Carabineros de Chile o de la autoridad que corresponda de conformidad al art&#xED;culo 13 de la ley N&#xB0; 19.303, quienes emitir&#xE1;n la opini&#xF3;n que al respecto le merezcan. En el evento que la opini&#xF3;n de Carabineros de Chile o de la autoridad que corresponda, sea desfavorable, las medidas de seguridad propuestas ser&#xE1;n devueltas a la entidad obligada, con las observaciones que le merecieron, para que en el plazo de 30 d&#xED;as proceda a su correcci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1116274,
+      "fecha": "2018-03-17"
+    }
+  }
+]

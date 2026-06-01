@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-01-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7223524,
+          "old": "<div><div class=\"p\">COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA </div><div class=\"p\">N&#xFA;m. 150 exenta.- Santiago Febrero 21de 1991.- Vistos: El DFL No. 10/81 y el art&#xED;culo No. 5 del Decreto No. 29 de 1991, ambos del Ministerio de Transportes y Telecomunicaciones Subsecretar&#xED;a de Telecomunicaciones; la necesidad de fijar tarifas a las prestaciones postales complementarias; las Resoluciones Exentas N&#xB0;s. 2041 de 1987 y Sus modificaciones posteriores y 1094, de 1987, modificada por la 678, de 1989, todas de la Empresa el Acuerdo de Directorio No. 133/90 del 05 de diciembre de 1990; la Resoluci&#xF3;n No. 1050 de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica y en uso de las atribuciones que me confiere la Resoluci&#xF3;n No. 453 de 1985 de la Empresa de Correos de Chile vengo en dictar la siguiente:</div><br><div class=\"p\">Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA </div><div class=\"p\">N&#xFA;m. 150 exenta.- Santiago Febrero 21de 1991.- Vistos: El DFL No. 10/81 y el art&#xED;culo No. 5 del Decreto No. 29 de 1991, ambos del Ministerio de Transportes y Telecomunicaciones Subsecretar&#xED;a de Telecomunicaciones; la necesidad de fijar tarifas a las prestaciones postales complementarias; las Resoluciones Exentas N&#xB0;s. 2041 de 1987 y Sus modificaciones posteriores y 1094, de 1987, modificada por la 678, de 1989, todas de la Empresa el Acuerdo de Directorio No. 133/90 del 05 de diciembre de 1990; la Resoluci&#xF3;n No. 1050 de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica y en uso de las atribuciones que me confiere la Resoluci&#xF3;n No. 453 de 1985 de la Empresa de Correos de Chile vengo en dictar la siguiente:</div><br><div class=\"p\">Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

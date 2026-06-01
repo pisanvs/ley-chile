@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1962-11-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-12-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9000572,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE QUE LA POLLA CHILENA DE BENEFICENCIA PONDRA A DISPOSICION DE LAS INSTITUCIONES QUE INDICA LAS CANTIDADES QUE SE&#xD1;ALA.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">ESTABLECE QUE LA POLLA CHILENA DE BENEFICENCIA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> PONDRA A DISPOSICION DE LAS INSTITUCIONES QUE INDICA LAS CANTIDADES QUE SE&#xD1;ALA.</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 4&#xB0; del DL 2413, Hacienda, publicado el 29.12.1978, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

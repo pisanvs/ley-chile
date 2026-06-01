@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8315602,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JOSE ESTEBAN SCHWERTER A&#xD1;AZCO PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JOSE ESTEBAN SCHWERTER A&#xD1;AZCO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-07-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-05-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9489063,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 33&#xBA;</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  En caso que un puesto de trabajo cambiase su denominaci&#xF3;n o &#xE1;rea de trabajo, o bien que el empleador cambiase su raz&#xF3;n social, se podr&#xE1; solicitar una regularizaci&#xF3;n de este puesto de trabajo respecto del que fue calificado como trabajo pesado, en la medida que las condiciones de trabajo no hayan variado respecto de aquellas existentes al momento de la calificaci&#xF3;n original.</div><div class=\"p\">&nbsp; &nbsp;  La solicitud de Regularizaci&#xF3;n deber&#xE1; consignar, la siguiente informaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) N&#xFA;mero de requerimiento e individualizaci&#xF3;n del puesto de trabajo calificado: Denominaci&#xF3;n seg&#xFA;n contrato, &#xE1;rea de trabajo y empleador.</div><div class=\"p\">&nbsp; &nbsp;  b) Identificaci&#xF3;n del puesto de trabajo a regularizar: Denominaci&#xF3;n seg&#xFA;n contrato y &#xE1;rea de trabajo.</div><div class=\"p\">&nbsp; &nbsp;  c) Identificaci&#xF3;n de las partes requirentes: empleador y trabajador (o sindicato o delegado del personal) Nombre, RUT y domicilio.</div><div class=\"p\">&nbsp; &nbsp;  d) Fundamentos de la regularizaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  La regularizaci&#xF3;n podr&#xE1; efectuarse dentro de los 5 a&#xF1;os siguientes a la respectiva calificaci&#xF3;n. En caso contrario, se deber&#xE1; presentar un nuevo requerimiento de calificaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 33&#xBA;</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  En caso que un puesto de trabajo cambiase su denominaci&#xF3;n o &#xE1;rea de trabajo, o bien que el empleador cambiase su raz&#xF3;n social, se podr&#xE1; solicitar una regularizaci&#xF3;n de este puesto de trabajo respecto del que fue calificado como trabajo pesado, en la medida que las condiciones de trabajo no hayan variado respecto de aquellas existentes al momento de la calificaci&#xF3;n original.</div><div class=\"p\">&nbsp; &nbsp;  La solicitud de Regularizaci&#xF3;n deber&#xE1; consignar, la siguiente informaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) N&#xFA;mero de requerimiento e individualizaci&#xF3;n del puesto de trabajo calificado: Denominaci&#xF3;n seg&#xFA;n contrato, &#xE1;rea de trabajo y empleador.</div><div class=\"p\">&nbsp; &nbsp;  b) Identificaci&#xF3;n del puesto de trabajo a regularizar: Denominaci&#xF3;n seg&#xFA;n contrato y &#xE1;rea de trabajo.</div><div class=\"p\">&nbsp; &nbsp;  c) Identificaci&#xF3;n de las partes requirentes: empleador y trabajador (o sindicato o delegado del personal) Nombre, RUT y domicilio.</div><div class=\"p\">&nbsp; &nbsp;  d) Fundamentos de la regularizaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Inciso Dero<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1090546&amp;idParte=9702460&amp;idVersion=2016-05-18\">Resoluci&#xF3;n 1059 EXENTA,<br>TRABAJO<br>N&#xB0; 1<br>D.O. 18.05.2016</a></span>gado.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1090546,
+      "fecha": "2016-05-18"
+    }
+  }
+]

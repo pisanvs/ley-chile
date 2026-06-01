@@ -1,0 +1,71 @@
+[
+  {
+    "fecha": "1954-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1956-06-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9054941,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Lib&#xE9;rase a la Universidad de Chile, a las Universidades Cat&#xF3;lica de Santiago y Valpara&#xED;so, a la Universidad de Concepci&#xF3;n, a la Universidad T&#xE9;cnica del Estado y a la Universidad T&#xE9;cnica Santa Mar&#xED;a, del pago de los derechos, impuestos y tasas que se perciben por las aduanas y que afecten a los aparatos, maquinarias, &#xFA;tiles de laboratorio, texto de estudio y, en general, a todo el material y a los diversos elementos que sea necesario importar para el desarrollo exclusivo de las actividades docentes y de investigaci&#xF3;n cient&#xED;fica y t&#xE9;cnica de dichas Universidades.</div><div class=\"p\">&nbsp; &nbsp;  Si dentro del plazo de diez a&#xF1;os contados desde la internaci&#xF3;n se enajenaren a cualquier t&#xED;tulo las especies a que se refiere el inciso anterior, o se les diere un destino distinto del se&#xF1;alado, deber&#xE1;n integrarse en arcas fiscales los derechos, impuestos y grav&#xE1;menes de cuyo pago esta ley libera, quedando solidariamente responsables de ello las personas o entidades que intervengan en los actos o contratos respectivos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Lib&#xE9;rase a la Universidad de Chile, a las Universidades Cat&#xF3;lica de Santiago y Valpara&#xED;so, a la Universidad de Concepci&#xF3;n, a la Universidad T&#xE9;cnica del Estado, a la Universidad T&#xE9;cnica Santa Mar&#xED;a y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=26994&amp;idParte=5970772&amp;idVersion=1956-06-19\">LEY 12032<br>Art. UNICO<br>D.O. 19.06.1956</a></span>a la Universidad Austral de Chile, del pago de los derechos, impuestos y tasas que se perciben por las aduanas y que afecten a los aparatos, maquinarias, &#xFA;tiles de laboratorio, texto de estudio y, en general, a todo el material y a los diversos elementos que sea necesario importar para el desarrollo exclusivo de las actividades docentes y de investigaci&#xF3;n cient&#xED;fica y t&#xE9;cnica de dichas Universidades.</div><div class=\"p\">&nbsp; &nbsp;  Si dentro del plazo de diez a&#xF1;os contados desde la internaci&#xF3;n se enajenaren a cualquier t&#xED;tulo las especies a que se refiere el inciso anterior, o se les diere un destino distinto del se&#xF1;alado, deber&#xE1;n integrarse en arcas fiscales los derechos, impuestos y grav&#xE1;menes de cuyo pago esta ley libera, quedando solidariamente responsables de ello las personas o entidades que intervengan en los actos o contratos respectivos.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1957-10-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9054941,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Lib&#xE9;rase a la Universidad de Chile, a las Universidades Cat&#xF3;lica de Santiago y Valpara&#xED;so, a la Universidad de Concepci&#xF3;n, a la Universidad T&#xE9;cnica del Estado, a la Universidad T&#xE9;cnica Santa Mar&#xED;a y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=26994&amp;idParte=5970772&amp;idVersion=1956-06-19\">LEY 12032<br>Art. UNICO<br>D.O. 19.06.1956</a></span>a la Universidad Austral de Chile, del pago de los derechos, impuestos y tasas que se perciben por las aduanas y que afecten a los aparatos, maquinarias, &#xFA;tiles de laboratorio, texto de estudio y, en general, a todo el material y a los diversos elementos que sea necesario importar para el desarrollo exclusivo de las actividades docentes y de investigaci&#xF3;n cient&#xED;fica y t&#xE9;cnica de dichas Universidades.</div><div class=\"p\">&nbsp; &nbsp;  Si dentro del plazo de diez a&#xF1;os contados desde la internaci&#xF3;n se enajenaren a cualquier t&#xED;tulo las especies a que se refiere el inciso anterior, o se les diere un destino distinto del se&#xF1;alado, deber&#xE1;n integrarse en arcas fiscales los derechos, impuestos y grav&#xE1;menes de cuyo pago esta ley libera, quedando solidariamente responsables de ello las personas o entidades que intervengan en los actos o contratos respectivos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Lib&#xE9;rase a la Universidad de Chile, a las Universidades Cat&#xF3;lica de Santiago y Valpara&#xED;so, a la Universidad de Concepci&#xF3;n, a la Universidad T&#xE9;cnica del Estado, a la Universidad T&#xE9;cnica Santa Mar&#xED;a y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=26994&amp;idParte=5970772&amp;idVersion=1956-06-19\">LEY 12032<br>Art. UNICO<br>D.O. 19.06.1956</a></span>a la Universidad Austral de Chile, del pago de los derechos, impuestos y tasas que se perciben por las aduanas y cons<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1172989&amp;idParte=10312664&amp;idVersion=1957-10-31\">Ley 12654<br>Art. UNICO<br>D.O. 31.10.1957</a></span>ulares y que afecten a los aparatos, maquinarias, &#xFA;tiles de laboratorio, texto de estudio y, en general, a todo el material y a los diversos elementos que sea necesario importar para el desarrollo exclusivo de las actividades docentes y de investigaci&#xF3;n cient&#xED;fica y t&#xE9;cnica de dichas Universidades.</div><div class=\"p\">&nbsp; &nbsp;  Si dentro del plazo de diez a&#xF1;os contados desde la internaci&#xF3;n se enajenaren a cualquier t&#xED;tulo las especies a que se refiere el inciso anterior, o se les diere un destino distinto del se&#xF1;alado, deber&#xE1;n integrarse en arcas fiscales los derechos, impuestos y grav&#xE1;menes de cuyo pago esta ley libera, quedando solidariamente responsables de ello las personas o entidades que intervengan en los actos o contratos respectivos.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1966-01-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9054941,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Lib&#xE9;rase a la Universidad de Chile, a las Universidades Cat&#xF3;lica de Santiago y Valpara&#xED;so, a la Universidad de Concepci&#xF3;n, a la Universidad T&#xE9;cnica del Estado, a la Universidad T&#xE9;cnica Santa Mar&#xED;a y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=26994&amp;idParte=5970772&amp;idVersion=1956-06-19\">LEY 12032<br>Art. UNICO<br>D.O. 19.06.1956</a></span>a la Universidad Austral de Chile, del pago de los derechos, impuestos y tasas que se perciben por las aduanas y cons<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1172989&amp;idParte=10312664&amp;idVersion=1957-10-31\">Ley 12654<br>Art. UNICO<br>D.O. 31.10.1957</a></span>ulares y que afecten a los aparatos, maquinarias, &#xFA;tiles de laboratorio, texto de estudio y, en general, a todo el material y a los diversos elementos que sea necesario importar para el desarrollo exclusivo de las actividades docentes y de investigaci&#xF3;n cient&#xED;fica y t&#xE9;cnica de dichas Universidades.</div><div class=\"p\">&nbsp; &nbsp;  Si dentro del plazo de diez a&#xF1;os contados desde la internaci&#xF3;n se enajenaren a cualquier t&#xED;tulo las especies a que se refiere el inciso anterior, o se les diere un destino distinto del se&#xF1;alado, deber&#xE1;n integrarse en arcas fiscales los derechos, impuestos y grav&#xE1;menes de cuyo pago esta ley libera, quedando solidariamente responsables de ello las personas o entidades que intervengan en los actos o contratos respectivos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Lib&#xE9;rase a la Universidad de Chile, a las Universidades Cat&#xF3;lica de Santiago y Valpara&#xED;so, a la Universidad de Concepci&#xF3;n, a la Universidad T&#xE9;cnica del Estado, Universidad <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=28447&amp;idParte=5977667&amp;idVersion=1966-01-11\">LEY 16412<br>Art. 2<br>D.O. 11.01.1966</a></span>del Norte, Universidad Austral, a la Universidad T&#xE9;cnica Santa Mar&#xED;a y <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=26994&amp;idParte=5970772&amp;idVersion=1956-06-19\">LEY 12032<br>Art. UNICO<br>D.O. 19.06.1956</a></span>a la Universidad Austral de Chile, del pago de los derechos, impuestos y tasas que se perciben por las aduanas y consulares y que afecten a los aparatos, maquinarias, &#xFA;tiles de laboratorio, texto de <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1172989&amp;idParte=10312664&amp;idVersion=1957-10-31\">Ley 12654<br>Art. UNICO<br>D.O. 31.10.1957</a></span>estudio y, en general, a todo el material y a los diversos elementos que sea necesario importar para el desarrollo exclusivo de las actividades docentes y de investigaci&#xF3;n cient&#xED;fica y t&#xE9;cnica de dichas Universidades.</div><div class=\"p\">&nbsp; &nbsp;  Si dentro del plazo de diez a&#xF1;os contados desde la internaci&#xF3;n se enajenaren a cualquier t&#xED;tulo las especies a que se refiere el inciso anterior, o se les diere un destino distinto del se&#xF1;alado, deber&#xE1;n integrarse en arcas fiscales los derechos, impuestos y grav&#xE1;menes de cuyo pago esta ley libera, quedando solidariamente responsables de ello las personas o entidades que intervengan en los actos o contratos respectivos.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1979-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9054941,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Lib&#xE9;rase a la Universidad de Chile, a las Universidades Cat&#xF3;lica de Santiago y Valpara&#xED;so, a la Universidad de Concepci&#xF3;n, a la Universidad T&#xE9;cnica del Estado, Universidad <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=28447&amp;idParte=5977667&amp;idVersion=1966-01-11\">LEY 16412<br>Art. 2<br>D.O. 11.01.1966</a></span>del Norte, Universidad Austral, a la Universidad T&#xE9;cnica Santa Mar&#xED;a y <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=26994&amp;idParte=5970772&amp;idVersion=1956-06-19\">LEY 12032<br>Art. UNICO<br>D.O. 19.06.1956</a></span>a la Universidad Austral de Chile, del pago de los derechos, impuestos y tasas que se perciben por las aduanas y consulares y que afecten a los aparatos, maquinarias, &#xFA;tiles de laboratorio, texto de <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1172989&amp;idParte=10312664&amp;idVersion=1957-10-31\">Ley 12654<br>Art. UNICO<br>D.O. 31.10.1957</a></span>estudio y, en general, a todo el material y a los diversos elementos que sea necesario importar para el desarrollo exclusivo de las actividades docentes y de investigaci&#xF3;n cient&#xED;fica y t&#xE9;cnica de dichas Universidades.</div><div class=\"p\">&nbsp; &nbsp;  Si dentro del plazo de diez a&#xF1;os contados desde la internaci&#xF3;n se enajenaren a cualquier t&#xED;tulo las especies a que se refiere el inciso anterior, o se les diere un destino distinto del se&#xF1;alado, deber&#xE1;n integrarse en arcas fiscales los derechos, impuestos y grav&#xE1;menes de cuyo pago esta ley libera, quedando solidariamente responsables de ello las personas o entidades que intervengan en los actos o contratos respectivos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- DEROGADO</div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=3384&amp;idParte=8890120&amp;idVersion=1979-05-05\">DFL 1<br>Art. 3, N&#xB0; 1<br>D.O. 05.05.1979</a></span></div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 3384,
+      "fecha": "1979-05-05"
+    }
+  }
+]

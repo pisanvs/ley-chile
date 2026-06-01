@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-11-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7161795,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO EXENTO N&#xB0; 403, DE 1992 </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO EXENTO N&#xB0; 403, DE 1992 </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

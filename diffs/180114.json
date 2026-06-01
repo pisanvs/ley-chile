@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2001-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6316157,
+          "old": "<div><div class=\"p\">DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA </div><br></div>"
+        },
+        {
+          "part_id": 6316158,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n 283, 5 diciembre 2000, Serviu Regi&#xF3;n del B&#xED;o B&#xED;o orden&#xF3; expropiaci&#xF3;n parcial inmueble ubicado en L&#xED;nea Ferrea s/n&#xBA;, Rol de Aval&#xFA;o N&#xBA;2720-002, comuna Chiguayante, superficie 2.523,20 m2. de terreno, dentro pol&#xED;gono y linderos se&#xF1;alados plano expropiaci&#xF3;n 2720-002, de aparente dominio de Dar&#xED;o Pulgar Arriagada, para ejecuci&#xF3;n programa &apos;&apos;Mejoramiento Vial Eje O&apos;Higgins de Chiguayante&apos;&apos;, conforme art&#xED;culo 51 Ley 16.391 y D.L. N&#xBA;2.186. Comisi&#xF3;n Peritos, integrada por don Pedro Tagle Mart&#xED;nez, arquitecto; don Aris Sergio Dr&#xE1;pela Alvarez, ingeniero civil, y don Luis Abarz&#xFA;a Ceballos, constructor civil, seg&#xFA;n informe de fecha 19 de octubre de 2000, fij&#xF3; monto provisional indemnizaci&#xF3;n en $40.971.200.-, pagadera de contado.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n 283, 5 diciembre 2000, Serviu Regi&#xF3;n del B&#xED;o B&#xED;o orden&#xF3; expropiaci&#xF3;n parcial inmueble ubicado en L&#xED;nea Ferrea s/n&#xBA;, Rol de Aval&#xFA;o N&#xBA;2720-002, comuna Chiguayante, superficie 2.523,20 m2. de terreno, dentro pol&#xED;gono y linderos se&#xF1;alados plano expropiaci&#xF3;n 2720-002, de aparente dominio de Dar&#xED;o Pulgar Arriagada, para ejecuci&#xF3;n programa &apos;&apos;Mejoramiento Vial Eje O&apos;Higgins de Chiguayante&apos;&apos;, conforme art&#xED;culo 51 Ley 16.391 y D.L. N&#xBA;2.186. Comisi&#xF3;n Peritos, integrada por don Pedro Tagle Mart&#xED;nez, arquitecto; don Aris Sergio Dr&#xE1;pela Alvarez, ingeniero civil, y don Luis Abarz&#xFA;a Ceballos, constructor civil, seg&#xFA;n informe de fecha 19 de octubre de 2000, fij&#xF3; monto provisional indemnizaci&#xF3;n en $40. 791.200.-, pagadera de contado.-<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 01.03.20001</span> </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2020-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-10-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10066623,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO IV</div><div class=\"p\">&nbsp; &nbsp;  De los Derechos Relacionados por Ejercicio Transitorio de Actividades Lucrativas</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1207729&amp;idParte=10521156&amp;idVersion=2024-10-25\">Decreto 921 EXENTO,<br>M. DE TORTEL<br>N&#xB0;s 1 y 2<br>D.O. 25.10.2024</a></span> T&#xCD;TULO IV</div><div class=\"p\">&nbsp; &nbsp;  De los Derechos Relacionados por Ejercicio Transitorio de Actividades Lucrativas</div><br></div>"
+        },
+        {
+          "part_id": 10066624,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.-&nbsp; El otorgamiento de permisos para el ejercicio transitorio de actividades lucrativas, pagar&#xE1;n los siguientes derechos:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Comerciantes ambulantes a domicilio:</div><br><div class=\"p\">&nbsp; &nbsp;  Diario 50% UTM.</div><br><div class=\"p\">&nbsp; &nbsp;  b) Actividades comerciales ejercidas en la v&#xED;a p&#xFA;blica y excepcionalmente las ejercidas en casas particulares hasta regularizar Patente Comercial respectiva:</div><br><div class=\"p\">&nbsp; &nbsp;  Mensual 1 UTM.</div><br><div class=\"p\">&nbsp; &nbsp;  c) Fondas, Ramadas y Cociner&#xED;as para Fiestas Patrias con ventas de bebidas alcoh&#xF3;licas:</div><br><div class=\"p\">&nbsp; &nbsp;  Diario 1 UTM.</div><br><div class=\"p\">&nbsp; &nbsp;  d) Beneficios bailables, torneos y otros sin venta de bebidas alcoh&#xF3;licas:</div><br><div class=\"p\">&nbsp; &nbsp;  Diario 50% UTM.</div><br><div class=\"p\">&nbsp; &nbsp;  e) Beneficios bailables, y otros sin venta de bebidas alcoh&#xF3;licas:</div><br><div class=\"p\">&nbsp; &nbsp;  Diario 35% UTM.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1207729&amp;idParte=10521156&amp;idVersion=2024-10-25\">Decreto 921 EXENTO,<br>M. DE TORTEL<br>N&#xB0;s 1 y 2<br>D.O. 25.10.2024</a></span>Art&#xED;culo 6.- El otorgamiento de permisos para el ejercicio transitorio de actividades lucrativas, pagar&#xE1;n los siguientes derechos municipales:</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/188319.jpg\"></div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/188320.jpg\"></div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/188321.jpg\"></div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1207729,
+      "fecha": "2024-10-25"
+    }
+  }
+]

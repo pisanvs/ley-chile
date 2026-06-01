@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-06-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-10-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8937721,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Prorr&#xF3;gase, la vigencia de la resoluci&#xF3;n exenta N&#xB0; 758, de 1995, del Ministerio de Salud, que determina r&#xE9;gimen de control aplicable a productos que indica, respecto de aquellos productores e importadores que se encuentran en la situaci&#xF3;n descrita en su n&#xFA;mero 4&#xB0;, siempre que al 20 de septiembre de 1996 hayan presentado ante el Instituto de Salud P&#xFA;blica, la solicitud de registro sanitario respecto de los productos a los cuales es aplicable dicha resoluci&#xF3;n, mientras tal registro es otorgado o denegado por ese Instituto. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Prorr&#xF3;gase, la vigencia de la resoluci&#xF3;n exenta N&#xB0; 758, de 1995, del Ministerio de Salud, que determina r&#xE9;gimen de control aplicable a productos que indica, respecto de aquellos productores e importadores que se encuentran en la situaci&#xF3;n descrita en su n&#xFA;mero 4&#xB0;, siempre que a la fecha de vigencia del Decreto Supremo<span class=\"n\" id=\"n_0\">RES 1399 EXENTA,<br>SALUD<br>D.O. 02.10.1996</span> N&#xB0; 977 de 1996, de esta misma Secretar&#xED;a de Estado, que aprueba el Reglamento Sanitario de los Alimentos, actualmente en tramitaci&#xF3;n hayan presentado ante el Instituto de Salud P&#xFA;blica, la solicitud de registro sanitario respecto de los productos a los cuales es aplicable dicha resoluci&#xF3;n, mientras tal registro otorgado o denegado por ese Instituto. </div></div>"
+        }
+      ]
+    }
+  }
+]

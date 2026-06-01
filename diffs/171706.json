@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-07-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7271392,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  F&#xED;jase la siguiente Distribuci&#xF3;n Provincial de Recursos en Unidades de Fomento (U.F.), de los recursos asignados a la VIII Regi&#xF3;n del B&#xED;o B&#xED;o por resoluci&#xF3;n exenta N&#xBA; 1.107 de fecha 27.04.2000 del Sr. Ministro de Vivienda y Urbanismo, en el Primer Llamado a&#xF1;o 2000 del Sistema de Subsidio Habitacional para la atenci&#xF3;n del Sector Rural en las distintas modalidades de postulaci&#xF3;n del Sistema, conforme al siguiente desglose por T&#xED;tulo:</div><br><br><div class=\"p\">Provincia&nbsp; T&#xED;tulo I&nbsp; T&#xED;tulo II&nbsp; T&#xED;tulo III&nbsp; Total&nbsp;  %</div><br><div class=\"p\">Concepci&#xF3;n&nbsp; 8.970&nbsp; &nbsp;  10.781&nbsp; &nbsp; &nbsp;  0&nbsp; &nbsp; &nbsp; 19.751&nbsp;  8,62%</div><div class=\"p\">&#xD1;uble&nbsp; &nbsp; &nbsp; 53.820&nbsp; &nbsp;  48.991&nbsp; &nbsp;  770&nbsp; &nbsp;  103.581&nbsp; 45,24%</div><div class=\"p\">B&#xED;o B&#xED;o&nbsp; &nbsp; 33.800&nbsp; &nbsp;  20.724&nbsp;  1.260&nbsp; &nbsp; &nbsp; 55.784&nbsp; 24,36%</div><div class=\"p\">Arauco&nbsp; &nbsp;  33.410&nbsp; &nbsp;  15.004&nbsp;  1.470&nbsp; &nbsp; &nbsp; 49.884&nbsp; 21,78%</div><br><div class=\"p\">Total&nbsp; &nbsp;  130.000&nbsp; &nbsp;  95.500&nbsp;  3.500&nbsp; &nbsp; &nbsp; 182.400&nbsp;  100%</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  F&#xED;jase la siguiente Distribuci&#xF3;n Provincial de Recursos en Unidades de Fomento (U.F.), de los recursos asignados a la VIII Regi&#xF3;n del B&#xED;o B&#xED;o por resoluci&#xF3;n exenta N&#xBA; 1.107 de fecha 27.04.2000 del Sr. Ministro de Vivienda y Urbanismo, en el Primer Llamado a&#xF1;o 2000 del Sistema de Subsidio Habitacional para la atenci&#xF3;n del Sector Rural en las distintas modalidades de postulaci&#xF3;n del Sistema, conforme al siguiente desglose por T&#xED;tulo:</div><br><br><div class=\"p\">Provincia&nbsp; T&#xED;tulo I&nbsp; T&#xED;tulo II&nbsp; T&#xED;tulo III&nbsp; Total&nbsp;  %</div><br><div class=\"p\">Concepci&#xF3;n&nbsp; 8.970&nbsp; &nbsp;  10.781&nbsp; &nbsp; &nbsp;  0&nbsp; &nbsp; &nbsp; 19.751&nbsp;  8,62%</div><div class=\"p\">&#xD1;uble&nbsp; &nbsp; &nbsp; 53.820&nbsp; &nbsp;  48.991&nbsp; &nbsp;  770&nbsp; &nbsp;  103.581&nbsp; 45,24%</div><div class=\"p\">B&#xED;o B&#xED;o&nbsp; &nbsp; 33.800&nbsp; &nbsp;  20.724&nbsp;  1.260&nbsp; &nbsp; &nbsp; 55.784&nbsp; 24,36%</div><div class=\"p\">Arauco&nbsp; &nbsp;  33.410&nbsp; &nbsp;  15.004&nbsp;  1.470&nbsp; &nbsp; &nbsp; 49.884&nbsp; 21,78%</div><br><div class=\"p\">Total&nbsp; &nbsp;  130.000&nbsp; &nbsp;  95.500&nbsp;  3.500&nbsp; &nbsp;  229.000&nbsp;  100%<span class=\"n\" id=\"n_1\">RES 514 EXENTA<br>VIVIENDA<br>N&#xBA;2<br>D.O. 02.08.2000</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

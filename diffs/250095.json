@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-06-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-06-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6571490,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP (exento) N&#xBA; 180, de 28 de abril de 2006, y en base a la facultad otorgada por el art&#xED;culo 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840, se expropiaron los lotes de terreno N&#xBA; 1-4-A y 15, para la obra: Camino Quilicura-Lampa, km. 0.000 a km. 18.183,44, que figuran a nombre de Far&#xED;as Miranda Isa&#xED;as Segundo, rol de aval&#xFA;o 764-109, comuna de Lampa, Regi&#xF3;n Metropolitana, superficies 255 y 1.800 m&#xB2;, respectivamente. La Comisi&#xF3;n de Peritos fij&#xF3; con fecha 4 de enero de 1994 el monto de la indemnizaci&#xF3;n provisional en la cantidad de $900.000.- lote N&#xBA; 15 y con fecha 21 de octubre de 1996 en la cantidad de $510.000.- lote N&#xBA; 14-A. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP (exento) N&#xBA; 180, de 28 de abril de 2006, y en base a la facultad otorgada por el art&#xED;culo 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840, se expropiaron los lotes de terreno N&#xBA; 14-A y 15, para la obra: Camino<span class=\"n\" id=\"n_0\">AVI S/N,<br>OBRAS PUBLICAS<br>D.O. 15.06.2006</span> Quilicura-Lampa, km. 0.000 a km. 18.183,44, que figuran a nombre de Far&#xED;as Miranda Isa&#xED;as Segundo, rol de aval&#xFA;o 764-109, comuna de Lampa, Regi&#xF3;n Metropolitana, superficies 255 y 1.800 m&#xB2;, respectivamente. La Comisi&#xF3;n de Peritos fij&#xF3; con fecha 4 de enero de 1994 el monto de la indemnizaci&#xF3;n provisional en la cantidad de $900.000.- lote N&#xBA; 15 y con fecha 21 de octubre de 1996 en la cantidad de $510.000.- lote N&#xBA; 14-A. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

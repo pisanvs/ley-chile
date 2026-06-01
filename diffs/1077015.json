@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-05-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-04-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9593201,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- El: Director Nacional del Servicio Agr&#xED;cola y Ganadero realizar&#xE1; anualmente un proceso de Cuenta P&#xFA;blica Participativa, de forma presencial, con el objetivo de informar a la ciudadan&#xED;a sobre la gesti&#xF3;n realizada y recoger opiniones, comentarios, inquietudes y sugerencias sobre la misma, promoviendo el control ciudadano y la corresponsabilidad social. Este proceso se efectuar&#xE1; de forma desconcentrada, coordinado por el Ministerio de Agricultura a trav&#xE9;s de las Secretar&#xED;as Regionales Ministeriales respectivas, durante el primer semestre del a&#xF1;o siguiente al que se dar&#xE1; cuenta en el proceso.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- El <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1130388&amp;idParte=10014034&amp;idVersion=2019-04-09\">Resoluci&#xF3;n 2172 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 09.04.2019</a></span>Director Nacional del Servicio Agr&#xED;cola y Ganadero realizar&#xE1; anualmente un proceso de Cuenta P&#xFA;blica Participativa, de forma presencial o virtual, con el objetivo de informar a la ciudadan&#xED;a sobre la gesti&#xF3;n realizada y recoger opiniones, comentarios, inquietudes y sugerencias sobre la misma, promoviendo el control ciudadano y la corresponsabilidad social.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1130388,
+      "fecha": "2019-04-09"
+    }
+  }
+]

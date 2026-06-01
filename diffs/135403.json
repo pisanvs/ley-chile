@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-03-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8344046,
+          "old": "<div><br><div class=\"p\">AUTORIZA A CONSERVERA TRANS ANTARTIC LIMITADA, PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A CONSERVERA TRANS ANTARTIC LIMITADA, PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

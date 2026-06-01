@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-03-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-09-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8542677,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD PESQUERA LANGEVELD LTDA., PARA AMPLIAR SUS ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD PESQUERA LANGEVELD LTDA., PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

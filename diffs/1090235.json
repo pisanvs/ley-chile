@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-05-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-09-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9700829,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el programa de expropiaciones de los lotes que se individualizan, emplazados en la comuna de Rancagua en el marco del proyecto &quot;Mejoramiento Eje Vial Avenida Kennedy &#x2013; Espa&#xF1;a - San Mart&#xED;n, Tramo 4, Rancagua&quot;, que se indican a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57722.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Cachapoal.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el programa de expropiaciones de los <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>lotes que se individualizan, emplazados en la comuna de Rancagua en el marco del proyecto &quot;Mejoramiento Eje Vial Avenida Kennedy &#x2013; Espa&#xF1;a - San Mart&#xED;n, Tramo 4, Rancagua&quot;, que se indican a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57722.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Cachapoal.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; del Decreto 50 Exento, Vivienda, publicado el 10.09.2018, complementa la presente norma en el sentido de incorporar a dicho programa de expropiaciones el inmueble que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1966-09-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1968-05-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003151,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;.- Cr&#xE9;ase una Comisi&#xF3;n Especial para la administraci&#xF3;n del empr&#xE9;stito del plan de saneamiento de los sectores populares de los barrios altos de las ciudades de Valpara&#xED;so y Vi&#xF1;a del Mar, que estar&#xE1; integrada por las siguientes personas:</div><div class=\"p\">&nbsp; &nbsp;  a) El Alcalde de la Municipalidad de Valpara&#xED;so, que la presidir&#xE1;;</div><div class=\"p\">&nbsp; &nbsp;  b) El Alcalde de la Municipalidad de Vi&#xF1;a del Mar;</div><div class=\"p\">&nbsp; &nbsp;  c) Dos regidores designados por cada una de las Municipalidades de Valpara&#xED;so y Vi&#xF1;a del Mar;</div><div class=\"p\">&nbsp; &nbsp;  d) El Gerente de la Empresa Municipal de Desag&#xFC;es de Valpara&#xED;so y Vi&#xF1;a del Mar;</div><div class=\"p\">&nbsp; &nbsp;  e) El Director de Obras Sanitarias, quien podr&#xE1; delegar sus atribuciones en el Delegado Provincial de Obras Sanitarias;</div><div class=\"p\">&nbsp; &nbsp;  f) El Ingeniero Jefe Zonal de la Direcci&#xF3;n de Obras P&#xFA;blicas;</div><div class=\"p\">&nbsp; &nbsp;  g) Cuatro representantes de las Juntas de Vecinos: tres por las de la comuna de Valpara&#xED;so y uno por las Juntas de Vecinos de Vi&#xF1;a del Mar, y</div><div class=\"p\">&nbsp; &nbsp;  h) Dos Ingenieros Civiles, designados por el Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Esta Comisi&#xF3;n tendr&#xE1; personalidad jur&#xED;dica y podr&#xE1;, en consecuencia, celebrar actos y contratos y ser representada judicial y extrajudicialmente. Su representante legal ser&#xE1; su Presidente y funcionar&#xE1; con la asistencia de la mayor&#xED;a absoluta de sus miembros. El Presidente de la Rep&#xFA;blica dictar&#xE1; el Reglamento que determine las atribuciones de la Comisi&#xF3;n, de su Presidente y del Secretario que se designe. El Reglamento determinar&#xE1;, tambi&#xE9;n, la forma en que ser&#xE1;n elegidos los cuatro representantes de las Juntas de Vecinos. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;.- Cr&#xE9;ase una Comisi&#xF3;n Especial para la administraci&#xF3;n del empr&#xE9;stito del plan de saneamiento de los sectores populares de los barrios altos de las ciudades de Valpara&#xED;so y Vi&#xF1;a del Mar, que estar&#xE1; integrada por las siguientes personas:</div><div class=\"p\">&nbsp; &nbsp;  a) El Alcalde de la Municipalidad de Valpara&#xED;so, que la presidir&#xE1;;</div><div class=\"p\">&nbsp; &nbsp;  b) El Alcalde de la Municipalidad de Vi&#xF1;a del Mar;</div><div class=\"p\">&nbsp; &nbsp;  c) Dos regidores designados por cada una de las Municipalidades de Valpara&#xED;so y Vi&#xF1;a del Mar;</div><div class=\"p\">&nbsp; &nbsp;  d) El Gerente de la Empresa Municipal de Desag&#xFC;es de Valpara&#xED;so y Vi&#xF1;a del Mar;</div><div class=\"p\">&nbsp; &nbsp;  e) El Director de Obras Sanitarias, quien podr&#xE1; delegar sus atribuciones en el Delegado Provincial de Obras Sanitarias;</div><div class=\"p\">&nbsp; &nbsp;  f) El Ingeniero Jefe Zonal de la Direcci&#xF3;n de Obras P&#xFA;blicas;</div><div class=\"p\">&nbsp; &nbsp;  g) Cuatro representantes de las Juntas de Vecinos: tres por las de la comuna de Valpara&#xED;so y uno por las Juntas de Vecinos de Vi&#xF1;a del Mar, y</div><div class=\"p\">&nbsp; &nbsp;  h) Dos Arquitectos o Ingenieros Civiles, designados<span class=\"n\" id=\"n_0\">LEY 16826<br>Art. 7<br>D.O. 11.05.1968</span> por el Presidente de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Esta Comisi&#xF3;n tendr&#xE1; personalidad jur&#xED;dica y podr&#xE1;, en consecuencia, celebrar actos y contratos y ser representada judicial y extrajudicialmente. Su representante legal ser&#xE1; su Presidente y funcionar&#xE1; con la asistencia de la mayor&#xED;a absoluta de sus miembros. El Presidente de la Rep&#xFA;blica dictar&#xE1; el Reglamento que determine las atribuciones de la Comisi&#xF3;n, de su Presidente y del Secretario que se designe. El Reglamento determinar&#xE1;, tambi&#xE9;n, la forma en que ser&#xE1;n elegidos los cuatro representantes de las Juntas de Vecinos.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

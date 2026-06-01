@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-04-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320064,
+          "old": "<div><div class=\"p\">AUTORIZA A DON ALVARO MARIO GOMEZ BRAVO PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON ALVARO MARIO GOMEZ BRAVO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "2009-06-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8670225,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Dest&#xED;nense las frecuencias 173,025; 173,075 y 173,425 MHz para la operaci&#xF3;n de equipos de radiocomunicaci&#xF3;n del servicio m&#xF3;vil con fines de radiolocalizaci&#xF3;n de veh&#xED;culos robados e intercambio de informaci&#xF3;n con los mismos, que se autorice mediante el correspondiente permiso de servicio limitado de telecomunicaciones. Sin perjuicio de la utilizaci&#xF3;n de estas frecuencias, adem&#xE1;s, para ofrecer prestaciones de otra naturaleza, concernientes al resguardo y/o seguridad de las personas y bienes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Dest&#xED;nense las frecuencias <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1207331&amp;idParte=10519417&amp;idVersion=2024-10-10\">Resoluci&#xF3;n 1737 EXENTA,<br>TRANSPORTES <br>N&#xB0; 1<br>D.O. 10.10.2024</a></span>173,025 y 173,130 MHz para la operaci&#xF3;n de equipos de radiocomunicaci&#xF3;n del servicio m&#xF3;vil con fines de radiolocalizaci&#xF3;n de veh&#xED;culos robados e intercambio de informaci&#xF3;n con los mismos, que se autorice mediante el correspondiente permiso de servicio limitado de telecomunicaciones. Sin perjuicio de la utilizaci&#xF3;n de estas frecuencias, adem&#xE1;s, para ofrecer prestaciones de otra naturaleza, concernientes al resguardo y/o seguridad de las personas y bienes.</div></div>"
+        },
+        {
+          "part_id": 8670227,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- En una misma zona geogr&#xE1;fica el servicio podr&#xE1; ser suministrado hasta por 3 permisionarias. La zona de servicio de cada permiso podr&#xE1; abarcar todo el territorio nacional.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1207331&amp;idParte=10519417&amp;idVersion=2024-10-10\">Resoluci&#xF3;n 1737 EXENTA,<br>TRANSPORTES <br>N&#xB0; 2<br>D.O. 10.10.2024</a></span>En una misma zona geogr&#xE1;fica el servicio podr&#xE1; ser suministrado hasta por 2 permisionarias. La zona de servicio y dem&#xE1;s caracter&#xED;sticas t&#xE9;cnicas ser&#xE1;n definidas por las respectivas bases concursales.</div></div>"
+        },
+        {
+          "part_id": 8670229,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;.- Las emisiones deber&#xE1;n estar contenidas dentro del ancho de banda m&#xE1;ximo autorizado, 11 kHz, siendo obligaci&#xF3;n de la permisionaria tomar las medidas que corresponda para no causar interferencias.</div><div class=\"p\">&nbsp; &nbsp;  En caso de eventuales interferencias -entre equipos de radiocomunicaciones cuya operaci&#xF3;n se regula al amparo de la presente resoluci&#xF3;n- ocasionadas en los contornos de las zonas de servicio, las respectivas permisionarias deber&#xE1;n coordinarse, directamente entre ellas, para efectos de eliminarlas, informando de dicho resultado a la Subsecretar&#xED;a de Telecomunicaciones.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;.- Las emisiones deber&#xE1;n estar contenidas dentro del ancho de banda m&#xE1;ximo autorizado,<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1207331&amp;idParte=10519417&amp;idVersion=2024-10-10\">Resoluci&#xF3;n 1737 EXENTA,<br>TRANSPORTES <br>N&#xB0; 3<br>D.O. 10.10.2024</a></span> siendo obligaci&#xF3;n de la permisionaria tomar las medidas que corresponda para no causar interferencias.</div><div class=\"p\">&nbsp; &nbsp;  En caso de eventuales interferencias -entre equipos de radiocomunicaciones cuya operaci&#xF3;n se regula al amparo de la presente resoluci&#xF3;n- ocasionadas en los contornos de las zonas de servicio, las respectivas permisionarias deber&#xE1;n coordinarse, directamente entre ellas, para efectos de eliminarlas, informando de dicho resultado a la Subsecretar&#xED;a de Telecomunicaciones.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1207331,
+      "fecha": "2024-10-10"
+    }
+  }
+]

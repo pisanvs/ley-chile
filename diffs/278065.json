@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-09-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-08-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6660064,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase a contar de la fecha que se indica al siguiente abogado, para que ejerza la funci&#xF3;n de Abogado del Servicio de Tesorer&#xED;a con jurisdicci&#xF3;n en las localidades que se indican:</div><br><div class=\"p\">Nombre&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : Mar&#xED;a Loreto Moraga Pinda</div><div class=\"p\">Rut&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 11.790.132-7</div><div class=\"p\">Ubicaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; : Duod&#xE9;cima Regi&#xF3;n-Regional de Punta</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Arenas-Cobranza</div><div class=\"p\">Calidad Jur&#xED;dica : Contrata</div><div class=\"p\">Estamento&nbsp; &nbsp; &nbsp; &nbsp; : Profesional</div><div class=\"p\">Cargo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Profesional</div><div class=\"p\">Grado&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 11 E.U.</div><div class=\"p\">Funci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Abogado</div><div class=\"p\">Fecha de inicio&nbsp; : 01/09/2008</div><div class=\"p\">Jurisdicci&#xF3;n&nbsp; &nbsp;  : Todas las Comunas de la Duod&#xE9;cima</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Regi&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese la subrogancia rec&#xED;proca en caso de ausencia o impedimento, por cualquier causa, entre los Abogados del Servicio de Tesorer&#xED;a, dependientes de la Tesorer&#xED;a Regional de Punta Arenas.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase a contar de la fecha que se indica al siguiente abogado, para que ejerza la funci&#xF3;n de Abogado del Servicio de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Tesorer&#xED;a con jurisdicci&#xF3;n en las localidades que se indican:</div><br><div class=\"p\">Nombre&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : Mar&#xED;a Loreto Moraga Pinda</div><div class=\"p\">Rut&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 11.790.132-7</div><div class=\"p\">Ubicaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; : Duod&#xE9;cima Regi&#xF3;n-Regional de Punta</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Arenas-Cobranza</div><div class=\"p\">Calidad Jur&#xED;dica : Contrata</div><div class=\"p\">Estamento&nbsp; &nbsp; &nbsp; &nbsp; : Profesional</div><div class=\"p\">Cargo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Profesional</div><div class=\"p\">Grado&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 11 E.U.</div><div class=\"p\">Funci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Abogado</div><div class=\"p\">Fecha de inicio&nbsp; : 01/09/2008</div><div class=\"p\">Jurisdicci&#xF3;n&nbsp; &nbsp;  : Todas las Comunas de la Duod&#xE9;cima</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Regi&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese la subrogancia rec&#xED;proca en caso de ausencia o impedimento, por cualquier causa, entre los Abogados del Servicio de Tesorer&#xED;a, dependientes de la Tesorer&#xED;a Regional de Punta Arenas.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 2861, Hacienda, publicada el 10.08.2012, complementa la presente resoluci&#xF3;n en lo referente a su jurisdicci&#xF3;n, ejerciendo la funci&#xF3;n de Abogado del Servicio de Tesorer&#xED;as, do&#xF1;a Mar&#xED;a Loreto Moraga Pinda, en las localidades de la Und&#xE9;cima Regi&#xF3;n entre las fechas que en ella se se&#xF1;alan. Adem&#xE1;s establece la subrogancia rec&#xED;proca en caso de ausencia o impedimento, por cualquier causa, entre los Abogados del Servicio de Tesorer&#xED;as, dependientes de las Tesorer&#xED;as de la Und&#xE9;cima y Duod&#xE9;cima Regi&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

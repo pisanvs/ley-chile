@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-08-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-05-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9826192,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0; transitorio.- La primera aplicaci&#xF3;n del presente decreto ser&#xE1; excepcionalmente desde el 1 de diciembre del a&#xF1;o que entra en vigencia el presente Reglamento, al 30 de septiembre del a&#xF1;o siguiente, debiendo emitirse por &#xFA;nica vez una Calificaci&#xF3;n que contemple 10 meses de duraci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA; transitorio.- La <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1131434&amp;idParte=10022145&amp;idVersion=2019-05-14\">Decreto 84. SALUD<br>D.O. 14.05.2019</a></span>primera aplicaci&#xF3;n del presente decreto ser&#xE1; excepcionalmente desde el 1 de diciembre del a&#xF1;o que entre en vigencia el reglamento, al 31 de octubre del a&#xF1;o siguiente, debiendo emitirse una calificaci&#xF3;n que contempla 11 meses de duraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  De esta forma, la precalificaci&#xF3;n del primer per&#xED;odo se efectuar&#xE1; dentro de los 15 d&#xED;as h&#xE1;biles siguientes al vencimiento de los 11 meses y la Calificaci&#xF3;n se efectuar&#xE1; por las Juntas Calificadoras dentro de los 20 d&#xED;as h&#xE1;biles siguientes al vencimiento del per&#xED;odo de precalificaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, la segunda aplicaci&#xF3;n del presente decreto ser&#xE1; excepcionalmente desde el 1 de noviembre del a&#xF1;o siguiente al de publicaci&#xF3;n de este decreto al 30 de septiembre, debiendo emitirse por una calificaci&#xF3;n que contempla 11 meses de duraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Esta precalificaci&#xF3;n se efectuar&#xE1; dentro de los 15 d&#xED;as h&#xE1;biles siguientes al vencimiento de los 11 meses y la Calificaci&#xF3;n se efectuar&#xE1; por las Juntas Calificadoras dentro de los 20 d&#xED;as h&#xE1;biles siguientes al vencimiento del per&#xED;odo de precalificaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1131434,
+      "fecha": "2019-05-14"
+    }
+  }
+]

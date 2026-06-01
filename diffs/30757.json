@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1995-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2026-04-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7191504,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- La norma contemplada en el art&#xED;culo 495 bis del C&#xF3;digo Org&#xE1;nico de Tribunales no se aplicar&#xE1; a los auxiliares de la Administraci&#xF3;n de Justicia que se encuentren en servicio a la fecha de vigencia de esta ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3 (T).- <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1217156&amp;idParte=10564270&amp;idVersion=2026-04-02\">Ley 21772<br>Art. 3<br>D.O. 01.10.2025</a></span>Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1217156,
+      "fecha": "2026-04-02"
+    }
+  }
+]

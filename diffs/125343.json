@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1970-05-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1971-12-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7240269,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 29&#xBA;.- Lo dispuesto en el presente<span class=\"n\" id=\"n_0\">DTO 276, TRABAJO<br>N&#xBA; 1<br>D.O. 28.12.1971</span> reglamento debe entenderse sin perjuicio de las funciones y atribuciones que le corresponden a la Direcci&#xF3;n del Litoral <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>y de Marina Mercante, en conformidad con la legislaci&#xF3;n y reglamentaci&#xF3;n que la rige, las que ser&#xE1;n de aplicaci&#xF3;n preferente en caso de conflicto.</div><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art. 1&#xB0; del Decreto Ley 2837, Defensa Nacional, publicado el 30.08.1979, dispuso el reemplazo, en cualquier texto legal, de la denominaci&#xF3;n &quot;Direcci&#xF3;n del Litoral y de Marina Mercante&quot;, por &quot;Direcci&#xF3;n General del Territorio Mar&#xED;timo y de Marina Mercante&quot;.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

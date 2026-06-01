@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-12-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-01-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9075936,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 969 de fecha 22 de noviembre de 2010, del Serviu IV Regi&#xF3;n de Coquimbo, se orden&#xF3; expropiar, conforme al art&#xED;culo 51 ley 16.391 y DL 2186/78, el inmueble denominado Lote 63 de superficie aproximada de 1054,6 m2, Rol N&#xBA; 27-1, de aparente dominio de Alfonso Aranda Ca&#xF1;as y Otros; ubicado en la comuna de Coquimbo. Comisi&#xF3;n de peritos conformada por profesionales Mar&#xED;a Iris Marcich Moller, Alfredo Prieto Parra, y Luis Jeffery Mercado, seg&#xFA;n informe de 25 de agosto de 2010 fij&#xF3; indemnizaci&#xF3;n provisional en $20.365.000, pagadero al contado.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1022079&amp;idParte=9100363&amp;idVersion=2011-01-15\">Aviso S/N<br>VIVIENDA<br>D.O. 15.01.2011</a></span>&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 969 de fecha 22 de noviembre de 2010, del Serviu IV Regi&#xF3;n de Coquimbo, se orden&#xF3; expropiar, conforme al art&#xED;culo 51 ley 16.391 y DL 2186/78, el inmueble denominado Lote 63 de superficie aproximada de 264,07 m&#xB2;, Rol N&#xBA; 27-1, de aparente dominio de Alfonso Aranda Ca&#xF1;as y Otros; ubicado en la comuna de Coquimbo. Comisi&#xF3;n de peritos conformada por profesionales Mar&#xED;a Iris Marcich Moller, Alfredo Prieto Parra, y Luis Jeffery Mercado, seg&#xFA;n informe de 25 de agosto de 2010 fij&#xF3; indemnizaci&#xF3;n provisional en $20.365.000, pagadero al contado.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1022079,
+      "fecha": "2011-01-15"
+    }
+  }
+]

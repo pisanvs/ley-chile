@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-10-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8335544,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA HUALPEN S.A. PARA SUSTITUIR EMBARCACION QUE INDICA. DEROGA RESOLUCION QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA HUALPEN S.A. PARA SUSTITUIR EMBARCACION QUE INDICA. DEROGA RESOLUCION QUE SE&#xD1;ALA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

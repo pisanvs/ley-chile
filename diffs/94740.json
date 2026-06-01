@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-07-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325251,
+          "old": "<div><br><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA MAR PROFUNDO LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA MAR PROFUNDO LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

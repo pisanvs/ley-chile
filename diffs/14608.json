@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-06-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-04-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8264476,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ASIGNA VEHICULO QUE INDICA A PERSONA QUE SE&#xD1;ALA, AUTORIZA CIRCULACION EN DIAS INHABILES, EXIME OBLIGACION DE LLEVAR DISTINTIVO ESTATAL Y DEROGA DECRETOS N&#xB0;s.</div><div class=\"p\">1.444, DE 1991 Y 1.805, DE 1993</div><div class=\"p\">&nbsp; &nbsp; Santiago, 10 de Mayo de 1994.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 610.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ASIGNA VEHICULO QUE INDICA A PERSONA QUE SE&#xD1;ALA, AUTORIZA CIRCULACION EN DIAS INHABILES, EXIME OBLIGACION DE LLEVAR DISTINTIVO ESTATAL Y DEROGA DECRETOS N&#xB0;s.</div><div class=\"p\">1.444, DE 1991 Y 1.805, DE 1993</div><div class=\"p\">&nbsp; &nbsp; Santiago, 10 de Mayo de 1994.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 610.-</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

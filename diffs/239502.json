@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-06-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-08-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6530878,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 534 EXENTO, DE 2005 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 534 EXENTO, DE 2005</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

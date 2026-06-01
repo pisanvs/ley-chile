@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1989-07-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-12-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2008-10-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7145651,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO PARA LA OPERACION DE GLOBOS CAUTIVOS, COMETAS, COHETES NO TRIPULADOS Y VEHICULOS ULTRALIVIANOS</div><div class=\"p\">&nbsp; &nbsp; Santiago, 15 de Mayo de 1989.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 361.- Vistos: Lo dispuesto en el art&#xED;culo 32, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; y Considerando:</div><div class=\"p\">&nbsp; &nbsp; a) Que el reglamento para la operaci&#xF3;n de globos cautivos, cometas, cohetes no tripulados y globos libres, aprobado por Resoluci&#xF3;n N# 39 de la Direcci&#xF3;n General de Aeron&#xE1;utica Civil de 20.Feb.976, ha quedado desactualizada frente a la dictaci&#xF3;n del Reglamento del Aire aprobado por Decreto Supremo (Av.) N# 37 de fecha 13.Ene.988, se hace necesaria la dictaci&#xF3;n de un nuevo texto reglamentario cuyas normas guarden armon&#xED;a con la nueva reglamentaci&#xF3;n aprobada.</div><div class=\"p\">&nbsp; &nbsp; b) Que por otra parte es conveniente dictar normas m&#xED;nimas que regularicen la actividad de los veh&#xED;culos ultralivianos, lo que se justifica plenamente ante el aumento de estas pr&#xE1;cticas deportivas; y</div><div class=\"p\">&nbsp; &nbsp; c) Lo propuesto por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil en oficio ordinario N# 05/0/605/1330 de fecha 18.Abr.989,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA LA OPERACION DE GLOBOS CAUTIVOS, COMETAS, COHETES NO TRIPULADOS Y VEHICULOS ULTRALIVIANOS</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 15 de Mayo de 1989.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 361.- Vistos: Lo dispuesto en el art&#xED;culo 32, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; y Considerando:</div><div class=\"p\">&nbsp; &nbsp; a) Que el reglamento para la operaci&#xF3;n de globos cautivos, cometas, cohetes no tripulados y globos libres, aprobado por Resoluci&#xF3;n N# 39 de la Direcci&#xF3;n General de Aeron&#xE1;utica Civil de 20.Feb.976, ha quedado desactualizada frente a la dictaci&#xF3;n del Reglamento del Aire aprobado por Decreto Supremo (Av.) N# 37 de fecha 13.Ene.988, se hace necesaria la dictaci&#xF3;n de un nuevo texto reglamentario cuyas normas guarden armon&#xED;a con la nueva reglamentaci&#xF3;n aprobada.</div><div class=\"p\">&nbsp; &nbsp; b) Que por otra parte es conveniente dictar normas m&#xED;nimas que regularicen la actividad de los veh&#xED;culos ultralivianos, lo que se justifica plenamente ante el aumento de estas pr&#xE1;cticas deportivas; y</div><div class=\"p\">&nbsp; &nbsp; c) Lo propuesto por la Direcci&#xF3;n General de Aeron&#xE1;utica Civil en oficio ordinario N# 05/0/605/1330 de fecha 18.Abr.989,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8928278,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA RESOLUCION QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.846.- Valpara&#xED;so, 14 de Diciembre de 1995.- Visto: El D.F.L. N&#xB0; 5, de 1983; la Ley N&#xB0; 18.892 y sus modificaciones cuyo texto refundido fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Resoluci&#xF3;n N&#xB0; 1.557, de 1995, de esta Subsecretar&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA RESOLUCION QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.846.- Valpara&#xED;so, 14 de Diciembre de 1995.- Visto: El D.F.L. N&#xB0; 5, de 1983; la Ley N&#xB0; 18.892 y sus modificaciones cuyo texto refundido fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Resoluci&#xF3;n N&#xB0; 1.557, de 1995, de esta Subsecretar&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

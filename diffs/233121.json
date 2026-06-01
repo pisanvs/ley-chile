@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2004-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-12-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8660349,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 31.- Reempl&#xE1;zase la cantidad &quot;$4.365.000&quot; establecida en el art&#xED;culo 7&#xB0; transitorio de la ley N&#xB0; 19.863, las veces que se mencione, por &quot;$4.639.755&quot;, monto que se reajustar&#xE1; conforme a los reajustes generales de remuneraciones que se otorguen a los trabajadores del sector p&#xFA;blico con posterioridad al contenido en el art&#xED;culo 1&#xB0; de la presente ley. Del mismo modo, reempl&#xE1;zase la referida cantidad, la que se reajustar&#xE1; en lo sucesivo,&nbsp; en los decretos con fuerza de ley dictados en conformidad a la facultad del art&#xED;culo 7&#xB0; transitorio de la ley N&#xB0; 19.863. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 31.- Reempl&#xE1;zase la cantidad &quot;$4.365.000&quot; establecida en el art&#xED;culo 7&#xB0; transitorio de la ley N&#xB0; 19.863, las veces que se mencione, por &quot;$4.639.755&quot;, monto que se reajustar&#xE1; conforme a los reajustes generales de remuneraciones que se otorguen a los trabajadores del sector p&#xFA;blico con posterioridad al contenido en el art&#xED;culo 1&#xB0; de la presente ley. Del mismo modo, reempl&#xE1;zase la referida cantidad, la que se reajustar&#xE1; en lo sucesivo,&nbsp; en los decretos con fuerza de ley dictados en conformidad a la facultad del art&#xED;culo 7&#xB0; transitorio de la ley N&#xB0; 19.863. </div><div class=\"p\">&nbsp; &nbsp;  Con todo, a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1084822&amp;idParte=9653811&amp;idVersion=2015-12-02\">Ley 20883<br>Art. 53<br>D.O. 02.12.2015</a></span>partir del 1 de diciembre de 2015, las cantidades se&#xF1;aladas en el inciso anterior no podr&#xE1;n superar en cada a&#xF1;o calendario el monto promedio de las remuneraciones de car&#xE1;cter permanente que correspondan al subsecretario del ramo, respecto a quienes se les aplique lo dispuesto en dicho inciso.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1084822,
+      "fecha": "2015-12-02"
+    }
+  }
+]

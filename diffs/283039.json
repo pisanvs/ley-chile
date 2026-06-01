@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-12-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-01-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7381844,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0; transitorio.- Autor&#xED;zase al Presidente de la Rep&#xFA;blica para transferir a la empresa Casa de Moneda de Chile S.A. la suma necesaria para financiar el pago de bonificaciones y dem&#xE1;s gastos que pudiera irrogar la aplicaci&#xF3;n de la presente ley en el a&#xF1;o 2008 con cargo al &#xED;tem 50-01-</div><div class=\"p\">03-24-03.104 de la Partida Tesoro P&#xFA;blico de la Ley de Presupuestos vigente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0; transitorio.- Autor&#xED;zase al Presidente de la Rep&#xFA;blica para transferir a la empresa Casa de Moneda de Chile S.A. la suma necesaria para financiar el pago de bonificaciones y dem&#xE1;s gastos que pudiera irrogar la aplicaci&#xF3;n de la presente ley con cargo al &#xED;tem 50-01-03-24-03.104 de<span class=\"n\" id=\"n_0\">LEY 20329<br>Art. 2&#xBA;<br>D.O. 24.01.2009</span> la Partida Tesoro P&#xFA;blico de la Ley de Presupuestos vigente.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

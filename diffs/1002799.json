@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-01-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9328221,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero. En el<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1048137&amp;idParte=9328189&amp;idVersion=2013-01-16\">Decreto 1,<br>SALUD<br>D.O. 16.01.2013</a></span> examen tomado en el a&#xF1;o 2012, para todos los fines previstos en el art&#xED;culo 1&#xBA; de la ley 20.261 durante el a&#xF1;o 2013, se asignar&#xE1; a todos los m&#xE9;dicos que lo rindieron, y aprobaron la secci&#xF3;n pr&#xE1;ctica, un 51% en la secci&#xF3;n te&#xF3;rica, cualquiera haya sido o fuere la calificaci&#xF3;n que haya resultado o resultare a su respecto por efecto de la aplicaci&#xF3;n de las normas permanentes de este reglamento.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1048137,
+      "fecha": "2013-01-16"
+    }
+  }
+]

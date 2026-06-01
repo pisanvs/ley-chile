@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-05-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7251816,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION No. 2.329 DEL 13 DE MAYO DE 1988, QUE ESTABLECE LAS NORMAS PARA LA APLICACION DE LA LEY No. 18.708 DE 1988 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION No. 2.329 DEL 13 DE MAYO DE 1988, QUE ESTABLECE LAS NORMAS PARA LA APLICACION DE LA LEY No. 18.708 DE 1988</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

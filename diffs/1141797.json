@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-12-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10096993,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21&#xBA;: El Servicio de Bienestar, obtendr&#xE1; su financiamiento de acuerdo con lo siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Con una cuota de incorporaci&#xF3;n que deber&#xE1;n pagar, por una sola vez, de un 5% de su remuneraci&#xF3;n mensual imponible los afiliados/as o de su pensi&#xF3;n de jubilaci&#xF3;n. Este porcentaje ser&#xE1; definido anualmente por el Consejo Administrativo y podr&#xE1; ser cancelado en tres parcialidades.</div><div class=\"p\">&nbsp; &nbsp;  b) Los aportes que anualmente se consulten en el presupuesto del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Barrancas, con sujeci&#xF3;n a las normas legales y estatutarias vigentes.</div><div class=\"p\">&nbsp; &nbsp;  c) Con un aporte mensual de los afiliados/as, el que ser&#xE1; de un 4% de la remuneraci&#xF3;n imponible de los afiliados/as. En el caso de afiliado jubilado su aporte mensual ser&#xE1; del 2%.</div><div class=\"p\">&nbsp; &nbsp;  d) De los intereses que generen los pr&#xE9;stamos que el Servicio de Bienestar otorgue.</div><div class=\"p\">&nbsp; &nbsp;  e) De las comisiones que perciban en virtud de los convenios que el Servicio de Bienestar celebre con terceros para el otorgamiento de beneficios a los afiliados/as.</div><div class=\"p\">&nbsp; &nbsp;  f) De las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias en su favor.</div><div class=\"p\">&nbsp; &nbsp;  g) De los excedentes que genere la administraci&#xF3;n de los servicios dependientes, y</div><div class=\"p\">&nbsp; &nbsp;  h) De los dem&#xE1;s bienes o recursos que obtengan a cualquier t&#xED;tulo.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21&#xBA;: El Servicio de Bienestar, obtendr&#xE1; su financiamiento de acuerdo con lo siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Con una cuota de incorporaci&#xF3;n que deber&#xE1;n pagar, por una sola vez, de un 5% de su remuneraci&#xF3;n mensual imponible los afiliados/as o de su pensi&#xF3;n de jubilaci&#xF3;n. Este porcentaje ser&#xE1; definido anualmente por el Consejo Administrativo y podr&#xE1; ser cancelado en tres parcialidades.</div><div class=\"p\">&nbsp; &nbsp;  b) Los aportes que anualmente se consulten en el presupuesto del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Barrancas, con sujeci&#xF3;n a las normas legales y estatutarias vigentes.</div><div class=\"p\">&nbsp; &nbsp;  c) Con <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1170136&amp;idParte=10293659&amp;idVersion=2021-12-17\">Decreto 237 EXENTO,<br>TRABAJO<br>Art. &#xFA;nico<br>D.O. 17.12.2021</a></span>un aporte mensual de los afiliados/as, el que ser&#xE1; de hasta un 4% de la remuneraci&#xF3;n imponible de los afiliados/as. En el caso de afiliados/as jubilados/as, su aporte mensual ser&#xE1; de hasta un 3% de su jubilaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El porcentaje de descuento ser&#xE1; definido anualmente por el Consejo Administrativo, lo que ser&#xE1; informado a cada afiliado oportunamente.</div><div class=\"p\">&nbsp; &nbsp;  d) De los intereses que generen los pr&#xE9;stamos que el Servicio de Bienestar otorgue.</div><div class=\"p\">&nbsp; &nbsp;  e) De las comisiones que perciban en virtud de los convenios que el Servicio de Bienestar celebre con terceros para el otorgamiento de beneficios a los afiliados/as.</div><div class=\"p\">&nbsp; &nbsp;  f) De las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias en su favor.</div><div class=\"p\">&nbsp; &nbsp;  g) De los excedentes que genere la administraci&#xF3;n de los servicios dependientes, y</div><div class=\"p\">&nbsp; &nbsp;  h) De los dem&#xE1;s bienes o recursos que obtengan a cualquier t&#xED;tulo.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1170136,
+      "fecha": "2021-12-17"
+    }
+  }
+]

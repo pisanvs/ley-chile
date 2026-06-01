@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-11-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-12-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9648710,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la <a href=\"https://www.leychile.cl/Navegar?idNorma=211439&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 1.820 (V. y U.), de 2003</a>, en el sentido de agregar el siguiente <a href=\"https://www.leychile.cl/Navegar?idNorma=211439&amp;idParte=9648807&amp;idVersion=\">art&#xED;culo 12&#xBA; Transitorio</a>:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 12&#xBA; Transitorio: Las postulaciones de las comunas de Valpara&#xED;so, Vi&#xF1;a del Mar y Coquimbo, de las comunas que pertenecen a las Provincias de Choapa y Limar&#xED; y a la Regi&#xF3;n de Atacama y de toda otra comuna con decreto vigente del Ministerio del Interior y Seguridad P&#xFA;blica que la declare Zona Afectada por Cat&#xE1;strofe, que participen y resulten seleccionadas en el 25&#xBA; Proceso de Selecci&#xF3;n de Proyectos del Programa de Pavimentaci&#xF3;n Participativa, que realiza la respectiva Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo, quedan exentas de realizar aportes complementarios por obras anexas imprescindibles para la construcci&#xF3;n de las obras de pavimentaci&#xF3;n que incluyen sus respectivos proyectos, aprobados por el correspondiente Servicio de Vivienda y Urbanizaci&#xF3;n, en consideraci&#xF3;n a los decretos que se&#xF1;alan a dichas Comunas, Provincias y/o Regi&#xF3;n como Zona Afectada por Cat&#xE1;strofe&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la resoluci&#xF3;n exenta N&#xBA; 1.820 (V. y U.), de 2003, en el sentido de agregar el siguiente art&#xED;culo 11&#xBA; Transitorio:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1084839&amp;idParte=9653898&amp;idVersion=2015-12-02\">Resoluci&#xF3;n 9236 EXENTA,<br>VIVIENDA<br>D.O. 02.12.2015</a></span></div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 11&#xBA; Transitorio: Las postulaciones de las comunas de Valpara&#xED;so, Vi&#xF1;a del Mar y Coquimbo, de las comunas que pertenecen a las Provincias de Choapa y Limar&#xED; y a la Regi&#xF3;n de Atacama y de toda otra comuna con decreto vigente del Ministerio del Interior y Seguridad P&#xFA;blica que la declare Zona Afectada por Cat&#xE1;strofe, que participen y resulten seleccionadas en el 25&#xBA; Proceso de Selecci&#xF3;n de Proyectos del Programa de Pavimentaci&#xF3;n Participativa, que realiza la respectiva Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo, quedan exentas de realizar aportes complementarios por obras anexas imprescindibles para la construcci&#xF3;n de las obras de pavimentaci&#xF3;n que incluyen sus respectivos proyectos, aprobados por el correspondiente Servicio de Vivienda y Urbanizaci&#xF3;n, en consideraci&#xF3;n a los decretos que se&#xF1;alan a dichas Comunas, Provincias y/o Regi&#xF3;n como Zona Afectada por Cat&#xE1;strofe&quot;.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1084839,
+      "fecha": "2015-12-02"
+    }
+  }
+]

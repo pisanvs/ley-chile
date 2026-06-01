@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-06-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8341461,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA FAMSO S.A. PARA AMPLIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA FAMSO S.A. PARA AMPLIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

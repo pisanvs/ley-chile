@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2009-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-02-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8113588,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Dispone 703.653 UF para la selecci&#xF3;n de los subsidios a otorgar para la adquisici&#xF3;n de viviendas construidas en funci&#xF3;n de lo establecido en el Titulo XV del D.S N&#xBA; 174 (V. y U.), de 2005, destinado a familias del Cap&#xED;tulo Segundo del mencionado decreto.</div><div class=\"p\">&nbsp; &nbsp;  El n&#xFA;mero de seleccionados en el pa&#xED;s alcanzar&#xE1; hasta el n&#xFA;mero de subsidios susceptibles de financiar con los recursos previstos anteriormente. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Dispone 1.407.311 UF para la selecci&#xF3;n de los<span class=\"n\" id=\"n_0\">RES 874 EXENTA,<br>VIVIENDA<br>N&#xBA; 1<br>D.O. 18.02.2009</span> subsidios a otorgar para la adquisici&#xF3;n de viviendas construidas en funci&#xF3;n de lo establecido en el Titulo XV del D.S N&#xBA; 174 (V. y U.), de 2005, destinado a familias del Cap&#xED;tulo Segundo del mencionado decreto.</div><div class=\"p\">&nbsp; &nbsp;  El n&#xFA;mero de seleccionados en el pa&#xED;s alcanzar&#xE1; hasta el n&#xFA;mero de subsidios susceptibles de financiar con los recursos previstos anteriormente.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- Los recursos dispuestos por Regi&#xF3;n del<span class=\"n\" id=\"n_1\">RES 874 EXENTA,<br>VIVIENDA<br>N&#xBA; 2<br>D.O. 18.02.2009</span> pa&#xED;s para la selecci&#xF3;n de subsidios a otorgar para la adquisici&#xF3;n de viviendas construidas del fondo solidario de vivienda cap&#xED;tulo segundo establecido en el resuelvo n&#xFA;mero 1 de esta resoluci&#xF3;n, son los siguientes:</div><br><div class=\"p\">Regi&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Total UF</div><br><div class=\"p\">Arica Parinacota&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.480</div><div class=\"p\">Tarapac&#xE1;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 6.980</div><div class=\"p\">Antofagasta&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 85.205</div><div class=\"p\">Atacama&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 38.782</div><div class=\"p\">Coquimbo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  32.640</div><div class=\"p\">Valpara&#xED;so&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  68.800</div><div class=\"p\">L.B. O&apos;Higgins&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7.697</div><div class=\"p\">Maule&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  115.750</div><div class=\"p\">B&#xED;o B&#xED;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  162.805</div><div class=\"p\">Araucan&#xED;a&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 97.350</div><div class=\"p\">Los R&#xED;os&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  29.370</div><div class=\"p\">Los Lagos&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  131.585</div><div class=\"p\">Ays&#xE9;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  9.018</div><div class=\"p\">Magallanes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  38.625</div><div class=\"p\">Metropolitana&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  579.224</div><br><div class=\"p\">Total&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  1.407.311</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

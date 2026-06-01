@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8336077,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero: Autor&#xED;zase la circulaci&#xF3;n en d&#xED;as s&#xE1;bado&nbsp; en la tarde, domingo&nbsp; y festivos del veh&#xED;culo de la I. Municipalidad de Pemuco que a continuaci&#xF3;n se individualiza, el que adem&#xE1;s, quedar&#xE1; exento de la obligaci&#xF3;n de usar el disco fiscal a que se refiere el art&#xED;culo 3&#xBA; del decreto ley N&#xBA; 799, de 1974:</div><br><br><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp; &nbsp; : Camioneta</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp;  : Nissan</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; &nbsp; : Pick Up 2.4 D Cab.</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : 1997</div><div class=\"p\">N&#xBA; Motor&nbsp; &nbsp; &nbsp; : KA24803949</div><div class=\"p\">N&#xBA; Chassis&nbsp; &nbsp; : JN1CCUD21-ZO400165</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp;  : Rojo</div><div class=\"p\">I.R.N.V.M.&nbsp; &nbsp; : PZ 7576-0</div><div class=\"p\">Placa &#xFA;nica&nbsp;  : PZ 7576-0</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero: Autor&#xED;zase la circulaci&#xF3;n en d&#xED;as<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> s&#xE1;bado&nbsp; en la tarde, domingo&nbsp; y festivos del veh&#xED;culo de la I. Municipalidad de Pemuco que a continuaci&#xF3;n se individualiza, el que adem&#xE1;s, quedar&#xE1; exento de la obligaci&#xF3;n de usar el disco fiscal a que se refiere el art&#xED;culo 3&#xBA; del decreto ley N&#xBA; 799, de 1974:</div><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp; &nbsp; : Camioneta</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp;  : Nissan</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; &nbsp; : Pick Up 2.4 D Cab.</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : 1997</div><div class=\"p\">N&#xBA; Motor&nbsp; &nbsp; &nbsp; : KA24803949</div><div class=\"p\">N&#xBA; Chassis&nbsp; &nbsp; : JN1CCUD21-ZO400165</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp;  : Rojo</div><div class=\"p\">I.R.N.V.M.&nbsp; &nbsp; : PZ 7576-0</div><div class=\"p\">Placa &#xFA;nica&nbsp;  : PZ 7576-0</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo primero del DTO 332 Exento, INTERIOR, publicado el 03.03.1999, autoriz&#xF3; al Sr. Alcalde de la I. Municipalidad de Pemuco para usar privativamente en el desempe&#xF1;o de su cargo el veh&#xED;culo individualizado en el presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

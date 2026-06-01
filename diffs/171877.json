@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-07-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6285637,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Fac&#xFA;ltase al Ministro de Vivienda y Urbanismo, durante doce meses, para que, en casos calificados, a requerimiento del Serviu respectivo, disponga mediante resoluciones fundadas, la emisi&#xF3;n de nuevos Certificados de Subsidio Habitacional para la Atenci&#xF3;n del Sector Rural a que se refiere el D.S. N&#xBA; 167 (V. y U.), de 1986, con cargo a los recursos autorizados para el otorgamiento de certificados de subsidio conforme al art&#xED;culo 40 de la ley N&#xBA; 18.591, mediante resoluciones conjuntas de los Ministros de Vivienda y Urbanismo y de Hacienda, correspondientes al a&#xF1;o en que se resuelva dicha nueva emisi&#xF3;n, en favor de beneficiarios del Sistema de Subsidio Habitacional para la Atenci&#xF3;n del Sector Rural cuyos certificados de Subsidio Habitacional hayan vencido en una fecha posterior al 30 de junio de 1999 o se encuentren pr&#xF3;ximos a vencer y que la operaci&#xF3;n a la cual se aplicar&#xE1; dicho certificado de subsidio presente avances significativos.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Fac&#xFA;ltase al Ministro de<span class=\"n\" id=\"n_0\">DTO 113, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 22.09.2001</span> Vivienda y Urbanismo, durante dieciocho meses, para que, en casos calificados, a requerimiento del Serviu respectivo, disponga mediante resoluciones fundadas, la emisi&#xF3;n de nuevos Certificados de Subsidio Habitacional para la Atenci&#xF3;n del Sector Rural a que se refiere el D.S. N&#xBA; 167 (V. y U.), de 1986, con cargo a los recursos autorizados para el otorgamiento de certificados de subsidio conforme al art&#xED;culo 40 de la ley N&#xBA; 18.591, mediante resoluciones conjuntas de los Ministros de Vivienda y Urbanismo y de Hacienda, correspondientes al a&#xF1;o en que se resuelva dicha nueva emisi&#xF3;n, en favor de beneficiarios del Sistema de Subsidio Habitacional para la Atenci&#xF3;n del Sector Rural cuyos certificados de Subsidio Habitacional hayan vencido en una fecha posterior al 30 de junio de 1999 o se encuentren pr&#xF3;ximos a vencer y que la operaci&#xF3;n a la cual se aplicar&#xE1; dicho certificado de subsidio presente avances significativos.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

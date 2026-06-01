@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2009-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-08-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8566788,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Cualquiera de los c&#xF3;nyuges, sin importar el r&#xE9;gimen patrimonial del matrimonio, estar&#xE1; facultado para representar al c&#xF3;nyuge deudor en la ejecuci&#xF3;n de todos los actos y en la celebraci&#xF3;n de todos los contratos que procedan para renegociar, repactar o novar los cr&#xE9;ditos obtenidos para el financiamiento de las viviendas cuya adquisici&#xF3;n o construcci&#xF3;n haya sido financiada, en todo o en parte, por el Estado mediante sus programas habitacionales. Para estos efectos, no se requerir&#xE1; la comparecencia del otro c&#xF3;nyuge, ni su autorizaci&#xF3;n ni la de la justicia, para la constituci&#xF3;n, reserva o extinci&#xF3;n de hipotecas y grav&#xE1;menes destinados a caucionar las obligaciones que se convengan en virtud de la renegociaci&#xF3;n, repactaci&#xF3;n o novaci&#xF3;n.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Cualquiera de los c&#xF3;nyuges, sin importar el r&#xE9;gimen patrimonial del matrimonio, estar&#xE1; facultado para representar al c&#xF3;nyuge deudor en la ejecuci&#xF3;n de todos los actos y en la celebraci&#xF3;n de todos los contratos que procedan para renegociar, repactar o novar los cr&#xE9;ditos obtenidos para el financiamiento de las viviendas cuya adquisici&#xF3;n o construcci&#xF3;n haya sido financiada, en todo o en parte, por el Estado mediante sus programas habitacionales. Para estos efectos, no se requerir&#xE1; la comparecencia del otro c&#xF3;nyuge, ni su autorizaci&#xF3;n ni la de la justicia, para la constituci&#xF3;n, reserva o extinci&#xF3;n de hipotecas y grav&#xE1;menes destinados a caucionar las obligaciones que se convengan en virtud de la renegociaci&#xF3;n, repactaci&#xF3;n o novaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en el inciso anterior regir&#xE1; en todos aquellos <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053667&amp;idParte=9370548&amp;idVersion=2013-08-20\">Ley 20683<br>Art. &#xDA;NICO<br>D.O. 20.08.2013</a></span>casos en que el Estado o sus organismos otorguen beneficios a los deudores habitacionales. No se podr&#xE1;n establecer requisitos adicionales que impidan la obtenci&#xF3;n de tales beneficios, que no se refieran a la focalizaci&#xF3;n de los recursos.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-10-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8566788,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Cualquiera de los c&#xF3;nyuges, sin importar el r&#xE9;gimen patrimonial del matrimonio, estar&#xE1; facultado para representar al c&#xF3;nyuge deudor en la ejecuci&#xF3;n de todos los actos y en la celebraci&#xF3;n de todos los contratos que procedan para renegociar, repactar o novar los cr&#xE9;ditos obtenidos para el financiamiento de las viviendas cuya adquisici&#xF3;n o construcci&#xF3;n haya sido financiada, en todo o en parte, por el Estado mediante sus programas habitacionales. Para estos efectos, no se requerir&#xE1; la comparecencia del otro c&#xF3;nyuge, ni su autorizaci&#xF3;n ni la de la justicia, para la constituci&#xF3;n, reserva o extinci&#xF3;n de hipotecas y grav&#xE1;menes destinados a caucionar las obligaciones que se convengan en virtud de la renegociaci&#xF3;n, repactaci&#xF3;n o novaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en el inciso anterior regir&#xE1; en todos aquellos <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053667&amp;idParte=9370548&amp;idVersion=2013-08-20\">Ley 20683<br>Art. &#xDA;NICO<br>D.O. 20.08.2013</a></span>casos en que el Estado o sus organismos otorguen beneficios a los deudores habitacionales. No se podr&#xE1;n establecer requisitos adicionales que impidan la obtenci&#xF3;n de tales beneficios, que no se refieran a la focalizaci&#xF3;n de los recursos.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Cualquiera <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1075210&amp;idParte=9590404&amp;idVersion=2015-04-21\">Ley 20830<br>Art. 37<br>D.O. 21.04.2015</a></span>de los c&#xF3;nyuges o de los contrayentes de un acuerdo de uni&#xF3;n civil vigente, sin importar el r&#xE9;gimen patrimonial existente entre ellos, estar&#xE1; facultado para representar al c&#xF3;nyuge o conviviente civil deudor en la ejecuci&#xF3;n de todos los actos y en la celebraci&#xF3;n de todos los contratos que procedan para renegociar, repactar o novar los cr&#xE9;ditos obtenidos para el financiamiento de las viviendas cuya adquisici&#xF3;n o construcci&#xF3;n haya sido financiada, en todo o en parte, por el Estado mediante sus programas habitacionales. Para estos efectos, no se requerir&#xE1; la comparecencia del otro c&#xF3;nyuge o conviviente civil, ni su autorizaci&#xF3;n ni la de la justicia, para la constituci&#xF3;n, reserva o extinci&#xF3;n de hipotecas y grav&#xE1;menes destinados a caucionar las obligaciones que se convengan en virtud de la renegociaci&#xF3;n, repactaci&#xF3;n o novaci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

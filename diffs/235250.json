@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-05-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6515121,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Reaj&#xFA;stase el monto que se cobrar&#xE1; por la eliminaci&#xF3;n de cada una de las anotaciones de sentencias ejecutoriadas de condena por infracciones grav&#xED;simas o graves, contenidas en el Registro Nacional de Conductores de Veh&#xED;culos Motorizados, a cargo del Servicio de Registro Civil e Identificaci&#xF3;n, fij&#xE1;ndose su nuevo valor en $2.640.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Reaj&#xFA;stase el monto que se cobrar&#xE1; por la eliminaci&#xF3;n de cada una de las anotaciones de sentencias ejecutoriadas de condena por infracciones grav&#xED;simas o graves, contenidas en el Registro Nacional de Conductores de Veh&#xED;culos Motorizados, a cargo del Servicio de Registro Civil e Identificaci&#xF3;n, fij&#xE1;ndose<span class=\"n\" id=\"n_0\">DTO 1561 EXENTO,<br>JUSTICIA<br>Art. 3&#xBA;<br>D.O. 30.05.2006</span> su nuevo valor en $2.750.</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo 4 del DTO 1561 Exento, Justicia, publicado el 30.05.2006, dispone que los nuevos precios por las Actuaciones del Registro Civil e Identificaci&#xF3;n, regir&#xE1;n a partir del primero del mes siguiente a su publicaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

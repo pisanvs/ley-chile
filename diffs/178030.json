@@ -1,0 +1,51 @@
+[
+  {
+    "fecha": "2000-11-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-12-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6309253,
+          "old": "<div><div class=\"p\">FIJA FECHA DE EXIGENCIA DE TERMINALES PARA SERVICIOS DE LOCOMOCION COLECTIVA URBANA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 207 exenta.- La Serena, 9 de noviembre de 2000.- Visto: lo dispuesto en el art&#xED;culo 45&#xB0; del DS 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">FIJA FECHA DE EXIGENCIA DE TERMINALES PARA SERVICIOS DE LOCOMOCION COLECTIVA URBANA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 207 exenta.- La Serena, 9 de noviembre de 2000.- Visto: lo dispuesto en el art&#xED;culo 45&#xB0; del DS 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        },
+        {
+          "part_id": 6309254,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Los servicios de locomoci&#xF3;n colectiva urbana inscritos en el Registro de Servicios de Transporte de Pasajeros de la IV Regi&#xF3;n, deber&#xE1;n contar a lo menos con un terminal seg&#xFA;n las exigencias del art. 45&#xB0; del D.S. 212 de 1992, en la fecha que a continuaci&#xF3;n se indica para las ciudades que en cada caso se se&#xF1;ala:</div><br><div class=\"p\">a)&nbsp;  Conglomerado La Serena -&nbsp; &nbsp; : 1&#xB0; de enero de 2002,</div><div class=\"p\">y</div><div class=\"p\">&nbsp; &nbsp;  Coquimbo</div><br><div class=\"p\">b)&nbsp;  Ciudades de Ovalle e Illapel: 1&#xB0; de marzo de 2002.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Para el conglomerado y ciudades se&#xF1;aladas los servicios de locomoci&#xF3;n colectiva urbana que se inscriban en el Registro de Servicios de Transporte de Pasajeros a partir de la fecha de publicaci&#xF3;n de la presente resoluci&#xF3;n, deber&#xE1;n contar a lo menos con un terminal seg&#xFA;n las exigencias del art. 45&#xB0; del D.S. 212, de 1992.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Los servicios de locomoci&#xF3;n colectiva urbana inscritos en el Registro de Servicios de Transporte de Pasajeros de la IV Regi&#xF3;n, deber&#xE1;n contar a lo menos con un terminal seg&#xFA;n las exigencias del art. 45&#xBA; del D.S. 212 de 1992, en la fecha que a continuaci&#xF3;n se indica para las ciudades que en cada caso se se&#xF1;ala:</div><br><div class=\"p\">a) Conglomerado La Serena -&nbsp; &nbsp; : 1&#xBA; de junio de 2003,<span class=\"n\" id=\"n_0\">RES 272 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 29.12.2001</span></div><div class=\"p\">&nbsp;  y Coquimbo</div><div class=\"p\">b) Ciudades de Ovalle e Illapel: 1&#xBA; de septiembre</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  de 2003</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Para el conglomerado y ciudades se&#xF1;aladas los servicios de locomoci&#xF3;n colectiva urbana que se inscriban en el Registro de Servicios de Transporte de Pasajeros a partir de la fecha de publicaci&#xF3;n de la presente resoluci&#xF3;n, deber&#xE1;n contar a lo menos con un terminal seg&#xFA;n las exigencias del art. 45&#xBA; del D.S. 212, de 1992.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-06-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6309254,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Los servicios de locomoci&#xF3;n colectiva urbana inscritos en el Registro de Servicios de Transporte de Pasajeros de la IV Regi&#xF3;n, deber&#xE1;n contar a lo menos con un terminal seg&#xFA;n las exigencias del art. 45&#xBA; del D.S. 212 de 1992, en la fecha que a continuaci&#xF3;n se indica para las ciudades que en cada caso se se&#xF1;ala:</div><br><div class=\"p\">a) Conglomerado La Serena -&nbsp; &nbsp; : 1&#xBA; de junio de 2003,<span class=\"n\" id=\"n_0\">RES 272 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 29.12.2001</span></div><div class=\"p\">&nbsp;  y Coquimbo</div><div class=\"p\">b) Ciudades de Ovalle e Illapel: 1&#xBA; de septiembre</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  de 2003</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Para el conglomerado y ciudades se&#xF1;aladas los servicios de locomoci&#xF3;n colectiva urbana que se inscriban en el Registro de Servicios de Transporte de Pasajeros a partir de la fecha de publicaci&#xF3;n de la presente resoluci&#xF3;n, deber&#xE1;n contar a lo menos con un terminal seg&#xFA;n las exigencias del art. 45&#xBA; del D.S. 212, de 1992.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Los servicios de locomoci&#xF3;n colectiva urbana inscritos en el Registro de Servicios de Transporte de Pasajeros de la IV Regi&#xF3;n, deber&#xE1;n contar a lo menos con un terminal seg&#xFA;n las exigencias del art. 45&#xBA; del D.S. 212 de 1992, en la fecha que a continuaci&#xF3;n se indica para las ciudades que en cada caso se se&#xF1;ala:</div><br><div class=\"p\">a)&nbsp;  Conglomerado La Serena-Coquimbo: 1&#xBA; de enero de<span class=\"n\" id=\"n_0\">RES 79 EXENTA,<br>TRANSPORTES<br>D.O. 07.06.2003</span></div><div class=\"p\">&nbsp; &nbsp;  2005, y</div><div class=\"p\">b)&nbsp;  Ciudades de Ovalle e Illapel: 1&#xBA; de marzo de 2005.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Para el conglomerado y ciudades se&#xF1;aladas los servicios de locomoci&#xF3;n colectiva urbana que se inscriban en el Registro de Servicios de Transporte de Pasajeros a partir de la fecha de publicaci&#xF3;n de la presente resoluci&#xF3;n, deber&#xE1;n contar a lo menos con un terminal seg&#xFA;n las exigencias del art. 45&#xBA; del D.S. 212, de 1992.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-08-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6360976,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 1.094 EXENTA, DE 2001 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 1.094 EXENTA, DE 2001 </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

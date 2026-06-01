@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1964-04-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1970-08-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9223139,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Decl&#xE1;rase Reserva Forestal al conjunto de Islas denominadas &quot;Las Cinco Hermanas e Islote Bonito&quot;, ubicadas en el Estuario de Aysen, en la comuna y departamento de Aysen, de una superficie aproximada de 221 hect&#xE1;reas, Archipi&#xE9;lago que limita por el Norte, Sur Este y Oeste con el Oc&#xE9;ano Pac&#xED;fico.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- Decl&#xE1;rase Reserva Forestal al predio fiscal situado en el sector Sur de la Isla Ester, comuna, departamento y provincia de Aysen, de una superficie aproximada de 2.651 hect&#xE1;reas, cuyos deslindes son los siguientes:</div><div class=\"p\">&nbsp; &nbsp;  Norte: Terrenos ocupados por don Alfredo Wichmann Miranda, separados por Arroyo Norte, Laguna Graciela, continuando hasta encontrar el curso del Arroyo Chico; </div><div class=\"p\">&nbsp; &nbsp;  Este: Canal Davis; </div><div class=\"p\">&nbsp; &nbsp;  Sur: Canal Ferronave, y </div><div class=\"p\">&nbsp; &nbsp;  Oeste: Canal Ferronave. </div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;.- Las Reservas Forestales a que se refiere el presente decreto quedar&#xE1;n bajo la tuici&#xF3;n y administraci&#xF3;n de la Direcci&#xF3;n de Agricultura y Pesca, dependiente del Ministerio de Agricultura, facultades que ejercer&#xE1; a trav&#xE9;s de su Departamento Forestal.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Decl&#xE1;rase Reserva Forestal al conjunto de Islas denominadas &quot;Las Cinco<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> Hermanas e Islote Bonito&quot;, ubicadas en el Estuario de Aysen, en la comuna y departamento de Aysen, de una superficie aproximada de 221 hect&#xE1;reas, Archipi&#xE9;lago que limita por el Norte, Sur Este y Oeste con el Oc&#xE9;ano Pac&#xED;fico.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- Decl&#xE1;rase Reserva Forestal al predio fiscal situado en el sector Sur de la Isla Ester, comuna, departamento y provincia de Aysen, de una superficie aproximada de 2.651 hect&#xE1;reas, cuyos deslindes son los siguientes:</div><div class=\"p\">&nbsp; &nbsp;  Norte: Terrenos ocupados por don Alfredo Wichmann Miranda, separados por Arroyo Norte, Laguna Graciela, continuando hasta encontrar el curso del Arroyo Chico; </div><div class=\"p\">&nbsp; &nbsp;  Este: Canal Davis; </div><div class=\"p\">&nbsp; &nbsp;  Sur: Canal Ferronave, y </div><div class=\"p\">&nbsp; &nbsp;  Oeste: Canal Ferronave. </div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;.- Las Reservas Forestales a que se refiere el presente decreto quedar&#xE1;n bajo la tuici&#xF3;n y administraci&#xF3;n de la Direcci&#xF3;n de Agricultura y Pesca, dependiente del Ministerio de Agricultura, facultades que ejercer&#xE1; a trav&#xE9;s de su Departamento Forestal.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo Primero del Decreto 285, Agricultura, publicado el 20.08.1970, desafecta de su calidad de Reserva Forestal y declara Parque Nacional de Turismo, los terrenos fiscales denominados &quot;Cinco Hermanas&quot;, creada por la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

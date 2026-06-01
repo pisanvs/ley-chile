@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1980-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9021067,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Las remuneraciones del personal de las Universidades, incluido aquel afecto a la Ley n&#xFA;mero 15.076, ser&#xE1;n fijadas de acuerdo a las normas org&#xE1;nicas de cada una de ellas.</div><div class=\"p\">&nbsp; &nbsp;  En todo caso, cualquiera sea el sistema de remuneraciones que establezcan las Universidades, las remuneraciones no imponibles vigentes a la fecha de este decreto con fuerza de ley conservar&#xE1;n esa calidad. Estas remuneraciones no imponibles, que sean porcentajes de los sueldos bases, pasar&#xE1;n a ser imponibles en la parte en que se aumenten dichos porcentajes.</div><div class=\"p\">&nbsp; &nbsp;  Las remuneraciones que se establezcan en el futuro, distintas de las vigentes a esta fecha o que sustituyan a alguna de estas &#xFA;ltimas, ser&#xE1;n siempre imponibles, con la sola limitaci&#xF3;n del art&#xED;culo 25 de la Ley n&#xFA;mero 15.386.</div><div class=\"p\">&nbsp; &nbsp;  Los aumentos en el nivel de gastos que pudiere originarse por aplicaci&#xF3;n del presente decreto con fuerza de ley, deber&#xE1;n ser asumidos con los recursos propios de las Universidades y no dar&#xE1;n lugar, en consecuencia, a incrementos en el aporte fiscal a dichas instituciones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Las remuneraciones del personal de las Universidades, incluido aquel afecto a la Ley n&#xFA;mero 15.076, ser&#xE1;n fijadas de acuerdo a las normas org&#xE1;nicas de cada una de ellas.</div><div class=\"p\">&nbsp; &nbsp;  INCISO DEROGADO<span class=\"n\" id=\"n_0\">LEY 19200<br>Art. 8&#xB0;<br>D.O. 18.01.1993</span></div><div class=\"p\">&nbsp; &nbsp;  Las remuneraciones que se establezcan en el futuro, distintas de las vigentes a esta fecha o que sustituyan a alguna de estas &#xFA;ltimas, ser&#xE1;n siempre imponibles, con<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> la sola limitaci&#xF3;n del art&#xED;culo 25 de la Ley n&#xFA;mero 15.386.</div><div class=\"p\">&nbsp; &nbsp;  Los aumentos en el nivel de gastos que pudiere originarse por aplicaci&#xF3;n del presente decreto con fuerza de ley, deber&#xE1;n ser asumidos con los recursos propios de las Universidades y no dar&#xE1;n lugar, en consecuencia, a incrementos en el aporte fiscal a dichas instituciones.</div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 8&#xB0; de la LEY 19200, publicado el 18.01.1993, dispuso que la modificaci&#xF3;n introducida al presente art&#xED;culo rige a contar del primer d&#xED;a del mes subsiguiente al de su publicaci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

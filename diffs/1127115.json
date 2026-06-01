@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2018-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9982684,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- La inhabilitaci&#xF3;n para seguir operando en las redes m&#xF3;viles de todos los equipos no incluidos oportunamente en la base de datos centralizada, prevista en el Art&#xED;culo 3&#xBA; bis de la resoluci&#xF3;n exenta N&#xBA;1.463, de 2016, comenzar&#xE1; a aplicarse a partir del 8 de enero de 2019 en adelante.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- La inhabilitaci&#xF3;n <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1127531&amp;idParte=9986629&amp;idVersion=2019-01-09\">Resoluci&#xF3;n 17 EXENTA,<br>TRANSPORTES<br>Art. &#xDA;NICO<br>D.O. 09.01.2019</a></span>para seguir operando en las redes m&#xF3;viles de todos los equipos no incluidos oportunamente en la base de datos centralizada, prevista en el art&#xED;culo 3&#xBA; bis de la resoluci&#xF3;n exenta N&#xBA; 1.463, de 2016, comenzar&#xE1; a aplicarse a partir del 13 de marzo de 2019 en adelante.</div><br></div>"
+        },
+        {
+          "part_id": 9982685,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- Para efectos de lo previsto en el art&#xED;culo precedente, todos los IMEI registrados temporalmente entre el 10 de noviembre de 2018 y el 9 de diciembre de 2018, se considerar&#xE1;n como parte del tr&#xE1;fico hist&#xF3;rico, debiendo incorporarse a la base correspondiente. Por su parte, el registro temporal se deber&#xE1; iniciar desde cero a partir del 10 de diciembre de 2018.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- Para <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1127531&amp;idParte=9986629&amp;idVersion=2019-01-09\">Resoluci&#xF3;n 17 EXENTA,<br>TRANSPORTES<br>Art. &#xDA;NICO<br>D.O. 09.01.2019</a></span>efectos de lo previsto en el Art&#xED;culo precedente, todos los IMEI registrados temporalmente desde el 10 de noviembre de 2018 y hasta el 10 de febrero de 2019, se considerar&#xE1;n como parte del tr&#xE1;fico hist&#xF3;rico, debiendo incorporarse a la base correspondiente y suspendi&#xE9;ndose respecto de los mismos el env&#xED;o de los SMS a que se refiere el inciso segundo del Art&#xED;culo 3&#xBA; bis de la resoluci&#xF3;n exenta N&#xBA; 1.463, de 2016.</div><div class=\"p\">&nbsp; &nbsp;  Por su parte, el registro temporal se deber&#xE1; iniciar desde cero a partir del 11 de febrero de 2019, reanud&#xE1;ndose el env&#xED;o de los SMS a contar de esa fecha. Respecto de los equipos que se incorporen en dicho registro a partir del 11 de febrero de 2019, la inhabilitaci&#xF3;n que corresponda efectuar se ejecutar&#xE1; en los t&#xE9;rminos previstos en el art&#xED;culo 3&#xBA; bis, esto es, 30 d&#xED;as corridos a contar de su activaci&#xF3;n en las redes m&#xF3;viles.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1127531,
+      "fecha": "2019-01-09"
+    }
+  }
+]

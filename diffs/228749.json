@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-08-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-04-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8371336,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: El veh&#xED;culo se&#xF1;alado en el art&#xED;culo anterior, deber&#xE1; guardarse en el estacionamiento de Servicios P&#xFA;blicos de la Gobernaci&#xF3;n Provincial, calle Gamboa interior s/n de la comuna de Castro y, excepcionalmente, en el domicilio del se&#xF1;or Gobernador Provincial, sector rural Lajas Blancas, de la comuna de Ancud, adopt&#xE1;ndose por su responsable los resguardos correspondientes.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: El veh&#xED;culo se&#xF1;alado en el<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> art&#xED;culo anterior, deber&#xE1; guardarse en el estacionamiento de Servicios P&#xFA;blicos de la Gobernaci&#xF3;n Provincial, calle Gamboa interior s/n de la comuna de Castro y, excepcionalmente, en el domicilio del se&#xF1;or Gobernador Provincial, sector rural Lajas Blancas, de la comuna de Ancud, adopt&#xE1;ndose por su responsable los resguardos correspondientes.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del DTO 598 Exento, Interior, publicado el 28.04.2006, modifica la presente norma, en el sentido que el veh&#xED;culo placa patente XE-9667-K, deber&#xE1; guardarse en el estacionamiento de Servicios P&#xFA;blicos de la Gobernaci&#xF3;n Provincial de Chilo&#xE9;, calle Gamboa interior s/n, de la comuna de Castro y, excepcionalmente, en el domicilio de la se&#xF1;ora Gobernadora Provincial, calle Nerc&#xF3;n s/n, de la comuna de Castro, adopt&#xE1;ndose por su responsable los resguardos correspondientes.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-04-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-06-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5939518,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; HABILITA PUERTOS PARA EL TRANSITO DE MERCADERIAS VEGETALES POR TERRITORIO NACIONAL DESDE Y HACIA TERCEROS PAISES</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 14 exento.- Santiago, 14 de Marzo de 1995.- Visto: Lo dispuesto en el art&#xED;culo 4&#xB0; de la Ley N&#xB0; 18.755, de 1989, modificada por la Ley N&#xB0; 19.283, de 1994; el N&#xB0; 15 del art&#xED;culo 1&#xB0; del decreto N&#xB0; 186, de 1994, del Ministerio de Agricultura; y lo dispuesto en el art&#xED;culo 6&#xB0; de la Convenci&#xF3;n Internacional de Protecci&#xF3;n Fitosanitaria de la Organizaci&#xF3;n de las Naciones Unidas para la Alimentaci&#xF3;n, cuyo texto fue promulgado por decreto supremo N&#xB0; 843, de 1986, del Ministerio de Relaciones Exteriores, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que el ingreso en tr&#xE1;nsito por el territorio nacional de mercader&#xED;as vegetales extranjeras destinadas a terceros pa&#xED;ses, representa un riesgo potencial de introducci&#xF3;n de plagas.</div><div class=\"p\">&nbsp; &nbsp; Que las actuales definiciones de riesgo fitosanitario acordado en el &#xE1;mbito internacional, contemplan la elaboraci&#xF3;n de un an&#xE1;lisis de riesgo para cada plaga, debiendo considerarse en el intercambio comercial de productos vegetales, el concepto de riesgo m&#xED;nimo.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; HABILITA PUERTOS PARA EL TRANSITO DE MERCADERIAS VEGETALES POR TERRITORIO NACIONAL DESDE Y HACIA TERCEROS PAISES</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 14 exento.- Santiago, 14 de Marzo de 1995.- Visto: Lo dispuesto en el art&#xED;culo 4&#xB0; de la Ley N&#xB0; 18.755, de 1989, modificada por la Ley N&#xB0; 19.283, de 1994; el N&#xB0; 15 del art&#xED;culo 1&#xB0; del decreto N&#xB0; 186, de 1994, del Ministerio de Agricultura; y lo dispuesto en el art&#xED;culo 6&#xB0; de la Convenci&#xF3;n Internacional de Protecci&#xF3;n Fitosanitaria de la Organizaci&#xF3;n de las Naciones Unidas para la Alimentaci&#xF3;n, cuyo texto fue promulgado por decreto supremo N&#xB0; 843, de 1986, del Ministerio de Relaciones Exteriores, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que el ingreso en tr&#xE1;nsito por el territorio nacional de mercader&#xED;as vegetales extranjeras destinadas a terceros pa&#xED;ses, representa un riesgo potencial de introducci&#xF3;n de plagas.</div><div class=\"p\">&nbsp; &nbsp; Que las actuales definiciones de riesgo fitosanitario acordado en el &#xE1;mbito internacional, contemplan la elaboraci&#xF3;n de un an&#xE1;lisis de riesgo para cada plaga, debiendo considerarse en el intercambio comercial de productos vegetales, el concepto de riesgo m&#xED;nimo.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

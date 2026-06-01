@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-07-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8530708,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PLANTA PROCESADORA DE ALIMENTOS VELASQUEZ COQUIMBO LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCION N&#xB0; 521, DE 1984 </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PLANTA PROCESADORA DE ALIMENTOS VELASQUEZ COQUIMBO LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCION N&#xB0; 521, DE 1984</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-11-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8353583,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 1.416, DE 1999</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.301.- Valpara&#xED;so, 11 de noviembre de 1999.- Visto: Lo solicitado por Sociedad Pesquera Coloso S.A.; lo informado por la Divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a, en memor&#xE1;ndum N&#xBA; 558 de 19 de agosto de 1999; el DFL N&#xBA; 5 de 1983; la resoluci&#xF3;n N&#xBA; 1.416 de 1999, de esta Subsecretar&#xED;a; la ley N&#xBA; 18.892 sobre Pesca y Acuicultura, cuyo texto refundido, coordinado y sistematizado fue fijado por el DS N&#xBA; 430 de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n;</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 1.416, DE 1999</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.301.- Valpara&#xED;so, 11 de noviembre de 1999.- Visto: Lo solicitado por Sociedad Pesquera Coloso S.A.; lo informado por la Divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a, en memor&#xE1;ndum N&#xBA; 558 de 19 de agosto de 1999; el DFL N&#xBA; 5 de 1983; la resoluci&#xF3;n N&#xBA; 1.416 de 1999, de esta Subsecretar&#xED;a; la ley N&#xBA; 18.892 sobre Pesca y Acuicultura, cuyo texto refundido, coordinado y sistematizado fue fijado por el DS N&#xBA; 430 de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n;</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

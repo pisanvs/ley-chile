@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-05-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-02-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7146979,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Ser&#xE1;n causales de caducidad del subsidio la p&#xE9;rdida de los requisitos habilitantes establecidos en la letra a) del art&#xED;culo 20 de la Ley N&#xB0; 19.253 y el no uso de &#xE9;l dentro del plazo de 6 meses contado desde la fecha de su recepci&#xF3;n por parte del beneficiario.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Ser&#xE1;n causales de caducidad del subsidio la p&#xE9;rdida de los requisitos habilitantes establecidos en la letra a) del art&#xED;culo 20 de la Ley N&#xB0; 19.253 y el no uso de &#xE9;l dentro del plazo de 6 meses contado desde la fecha de su recepci&#xF3;n por parte del beneficiario.</div><div class=\"p\">&nbsp; &nbsp;  No obstante lo se&#xF1;alado en el inciso anterior<span class=\"n\" id=\"n_0\">DTO 174,<br>PLANIFICACION<br>Art. &#xFA;nico<br>D.O. 16.02.2005</span> respecto que el no uso del subsidio en el plazo de 6 meses, contado desde la fecha de su recepci&#xF3;n por parte del beneficiario, producir&#xE1; su caducidad, el Director Nacional de la Conadi, mediante resoluci&#xF3;n fundada y en casos calificados, podr&#xE1; prorrogar la vigencia del subsidio, hasta por un plazo adicional de 6 meses, contado desde la fecha de su caducidad.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-05-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-07-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6025836,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DESIGNA REPRESENTANTE QUE INDICA EN EL CONSEJO NACIONAL DEL LIBRO Y LA LECTURA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.161 exenta.- Santiago, 28 de Abril de 1994. </div></div>",
+          "new": "<div><div class=\"p\">DESIGNA REPRESENTANTE QUE INDICA EN EL CONSEJO NACIONAL DEL LIBRO Y LA LECTURA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.161 exenta.- Santiago, 28 de Abril de 1994.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-04-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-11-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938164,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo tercero: Fac&#xFA;ltase a do&#xF1;a Adriana del Carmen Aravena Aravena, madre de la beneficiaria, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Fac&#xFA;ltase a do&#xF1;a Adriana del<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Carmen Aravena Aravena, madre de la beneficiaria, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 6935, Interior, publicado el 25.11.1999, dej&#xF3; sin efecto la facultad de do&#xF1;a Adriana Aravena para cobrar pensi&#xF3;n de gracia por la menor Ana Cecilia, facultad que pasar&#xE1; a corresponderle al padre.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

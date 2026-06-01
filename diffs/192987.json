@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2001-12-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-11-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7288414,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Los funcionarios deber&#xE1;n ser objeto de una precalificaci&#xF3;n anual, realizada por su jefe directo, la que deber&#xE1; estar terminada al momento de iniciarse el proceso de calificaci&#xF3;n por la Junta Calificadora.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Los funcionarios deber&#xE1;n ser objeto de una precalificaci&#xF3;n anual, realizada por su jefe directo, la que deber&#xE1; estar terminada al momento de iniciarse el proceso de calificaci&#xF3;n por la Junta Calificadora.</div><div class=\"p\">&nbsp; &nbsp;  Los precalificadores deber&#xE1;n emitir s&#xF3;lo un informe<span class=\"n\" id=\"n_0\">DTO 188,<br>ECONOMIA<br>D.O. 13.11.2007</span> de desempe&#xF1;o anual, el que abarca el per&#xED;odo comprendido desde el 1&#xBA; de septiembre al 30 de junio, de cada per&#xED;odo a calificar.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-12-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

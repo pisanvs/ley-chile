@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-10-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6318946,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCIONES EXENTAS QUE INDICAN, QUE DELEGAN FACULTAD DE CITAR (ART. 63&#xBA;, INCISO 2&#xBA;, DEL CODIGO TRIBUTARIO) Y CONCEDER LAS PRORROGAS QUE SE SOLICITEN, EN LOS FUNCIONARIOS QUE SE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCIONES EXENTAS QUE INDICAN, QUE DELEGAN FACULTAD DE CITAR (ART. 63&#xBA;, INCISO 2&#xBA;, DEL CODIGO TRIBUTARIO) Y CONCEDER LAS PRORROGAS QUE SE SOLICITEN, EN LOS FUNCIONARIOS QUE SE SE&#xD1;ALA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

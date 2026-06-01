@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-07-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6293806,
+          "old": "<div><div class=\"p\">OTORGA AL SR. JOSE ARMANDO BORQUEZ CARDENAS, CONCESION DE ACUICULTURA DE PORCION DE AGUA Y FONDO DE MAR, EN LA COMUNA DE CISNES </div></div>",
+          "new": "<div><div class=\"p\">OTORGA AL SR. JOSE ARMANDO BORQUEZ CARDENAS, CONCESION DE ACUICULTURA DE PORCION DE AGUA Y FONDO DE MAR, EN LA COMUNA DE AYSEN.-<span class=\"n\" id=\"n_0\">RES 1767, DEFENSA<br>D.O. 07.03.2001</span> </div></div>"
+        }
+      ]
+    }
+  }
+]

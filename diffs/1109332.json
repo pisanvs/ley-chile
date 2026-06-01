@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-10-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-12-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9841475,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case la <a href=\"https://www.leychile.cl/Navegar?idNorma=1102923&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 293, de fecha 12.04.2017</a>, de esta Seremi, en el siguiente sentido:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.1. Reempl&#xE1;zase el resuelvo 1., por el siguiente:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;1. Ll&#xE1;mase a postulaci&#xF3;n regional, para el otorgamiento de subsidios del T&#xED;tulo II del Programa de Protecci&#xF3;n del Patrimonio Familiar, destinados al acondicionamiento t&#xE9;rmico de la vivienda, conforme a lo indicado en el art&#xED;culo 6 bis del DS N&#xBA; 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente proyectos, que cuenten con Certificado de Calificaci&#xF3;n hasta el &#xFA;ltimo d&#xED;a h&#xE1;bil de cada mes, a partir del mes de abril y hasta el mes de noviembre del a&#xF1;o 2017.&quot;.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.2. Reempl&#xE1;zase el resuelvo 3., por el siguiente:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;3. Los recursos asignados para la selecci&#xF3;n de los proyectos postulantes en este llamado corresponden a 32.000 UF.&quot;.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. Establ&#xE9;cese que la resoluci&#xF3;n exenta N&#xBA; 293, de 12.04.2017, de esta Seremi, se mantendr&#xE1; vigente en todo lo que no ha sido modificado por la presente resoluci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case la resoluci&#xF3;n exenta N&#xBA; 293, de fecha 12.04.2017, de esta Seremi, en el siguiente sentido:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.1. Reempl&#xE1;zase el resuelvo 1., por el siguiente:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;1. Ll&#xE1;mase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1112222&amp;idParte=9864340&amp;idVersion=2017-12-11\">Resoluci&#xF3;n 985 EXENTA, <br>VIVIENDA<br>N&#xB0; 1, 1.1<br>D.O. 11.12.2017</a></span>a postulaci&#xF3;n regional, para el otorgamiento de subsidios del T&#xED;tulo II del Programa de Protecci&#xF3;n del Patrimonio Familiar, destinados al acondicionamiento t&#xE9;rmico de la vivienda, conforme a lo indicado en el art&#xED;culo 6 bis del DS N&#xBA; 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente proyectos, que cuenten con Certificado de Calificaci&#xF3;n, a partir del mes de abril y hasta el d&#xED;a 13 de diciembre del a&#xF1;o 2017.&quot;.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.2. Reempl&#xE1;zase el resuelvo 3., por el siguiente:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  &quot;3. Los recursos asignados para la selecci&#xF3;n de los proyectos postulantes en este llamado corresponden a 32.000 UF.&quot;.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. Establ&#xE9;cese que la resoluci&#xF3;n exenta N&#xBA; 293, de 12.04.2017, de esta Seremi, se mantendr&#xE1; vigente en todo lo que no ha sido modificado por la presente resoluci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1112222,
+      "fecha": "2017-12-11"
+    }
+  }
+]

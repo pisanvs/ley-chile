@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-10-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-04-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6136733,
+          "old": "<div><div class=\"p\">DEROGA DECRETO N&#xBA; 297, DE 1998, Y MODIFICA DECRETO&nbsp; N&#xBA; 174, DE 1994, SOBRE CENTROS DE DIAGNOSTICOS Y MICROCENTROS O EQUIPOS DE APOYO SICOPEDAGOGICO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 440.- Santiago, 31 de agosto de 1998.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que, la modificaci&#xF3;n al decreto N&#xBA; 174 indicado en la suma, dispuesta por el decreto supremo N&#xBA; 297 de 1998, a&#xFA;n no se ha puesto en aplicaci&#xF3;n, por cuanto son diferentes las realidades existentes en las diversas regiones del pa&#xED;s, por lo que resulta inconveniente para algunas Secretar&#xED;as Ministeriales de Educaci&#xF3;n que la dependencia de los Centros de Diagn&#xF3;sticos y de los Microcentros se&#xF1;alados corresponda a los Departamentos Provinciales de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Que, por lo anterior se debe reconsiderar la medida dispuesta en el decreto aludido, en el sentido de posibilitar el cambio de dependencia seg&#xFA;n la realidad valorada por cada uno de los Secretarios Regionales Ministeriales de Educaci&#xF3;n, y, Visto: Lo dispuesto en los art&#xED;culos 32&#xBA; N&#xBA; 8 y 35&#xBA; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile de 1980; art&#xED;culos 19&#xBA; y 20&#xBA; de la ley 18.575, de 1986; art&#xED;culos 2&#xBA; letra d) y 4&#xBA; de la ley 18.956, de 1990; decreto supremo N&#xBA; 428 de Educaci&#xF3;n, de 1975, decreto supremo N&#xBA; 174 de Educaci&#xF3;n de 1994, decreto supremo N&#xBA; 297 de Educaci&#xF3;n de 1998 y la resoluci&#xF3;n N&#xBA; 55 de la Contralor&#xED;a General de la Rep&#xFA;blica, de 1992, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">DEROGA DECRETO N&#xBA; 297, DE 1998, Y MODIFICA DECRETO N&#xBA; 174, DE 1994, SOBRE CENTROS DE DIAGNOSTICOS Y MICROCENTROS O EQUIPOS DE APOYO SICOPEDAGOGICO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 440.- Santiago, 31 de agosto de 1998.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que, la modificaci&#xF3;n al decreto N&#xBA; 174 indicado en la suma, dispuesta por el decreto supremo N&#xBA; 297 de 1998, a&#xFA;n no se ha puesto en aplicaci&#xF3;n, por cuanto son diferentes las realidades existentes en las diversas regiones del pa&#xED;s, por lo que resulta inconveniente para algunas Secretar&#xED;as Ministeriales de Educaci&#xF3;n que la dependencia de los Centros de Diagn&#xF3;sticos y de los Microcentros se&#xF1;alados corresponda a los Departamentos Provinciales de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Que, por lo anterior se debe reconsiderar la medida dispuesta en el decreto aludido, en el sentido de posibilitar el cambio de dependencia seg&#xFA;n la realidad valorada por cada uno de los Secretarios Regionales Ministeriales de Educaci&#xF3;n, y, Visto: Lo dispuesto en los art&#xED;culos 32&#xBA; N&#xBA; 8 y 35&#xBA; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile de 1980; art&#xED;culos 19&#xBA; y 20&#xBA; de la ley 18.575, de 1986; art&#xED;culos 2&#xBA; letra d) y 4&#xBA; de la ley 18.956, de 1990; decreto supremo N&#xBA; 428 de Educaci&#xF3;n, de 1975, decreto supremo N&#xBA; 174 de Educaci&#xF3;n de 1994, decreto supremo N&#xBA; 297 de Educaci&#xF3;n de 1998 y la resoluci&#xF3;n N&#xBA; 55 de la Contralor&#xED;a General de la Rep&#xFA;blica, de 1992, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

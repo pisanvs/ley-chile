@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1971-09-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1971-10-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9006040,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo sexto.- El servicio de estos pr&#xE9;stamos se har&#xE1; en un plazo de doce meses, con los intereses y comisi&#xF3;n que se aplican a los pr&#xE9;stamos de auxilio otorgados por la Caja, regidos por el D.S. 516, de 13 de Julio de 1955, y su descuento se efectuar&#xE1; por planillas a contar del mes siguiente a su otorgamiento. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo sexto.- El servicio de estos pr&#xE9;stamos se har&#xE1; en un plazo de doce meses, con los intereses y comisi&#xF3;n que se aplican a los pr&#xE9;stamos de auxilio otorgados por la Caja, regidos por el D.S. 576 de 13 de<span class=\"n\" id=\"n_0\">DTO 240, TRABAJO<br>D.O. 22.10.1971</span> Julio, y su descuento se efectuar&#xE1; por planillas a contar del mes siguiente a su otorgamiento.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1985-05-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9006037,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- El H. Consejo de la Caja fijar&#xE1;, de acuerdo con las disponibilidades presupuestarias, el monto de los pr&#xE9;stamos que, en todo caso, no podr&#xE1; exceder de los dos sueldos vitales mensuales escala A) para el Departamento de Santiago. De acuerdo a las mismas disponibilidades, tambi&#xE9;n podr&#xE1; restringir a determinadas &#xE9;pocas la admisi&#xF3;n de solicitudes. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- El H. Consejo de la Caja fijar<span class=\"n\" id=\"n_0\">DTO 28, TRABAJO<br>Art. &#xFA;nico<br>D.O. 24.05.1985</span> el monto de los pr&#xE9;stamos de acuerdo con las disponibilidades presupuestarias, el que no podr&#xE1; exceder de un ingreso m&#xED;nimo. De igual manera, podr&#xE1; restringir a determinadas pocas la admisi&#xF3;n de solicitudes de acuerdo con dichas disponibilidades.</div><br></div>"
+        },
+        {
+          "part_id": 9006040,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo sexto.- El servicio de estos pr&#xE9;stamos se har&#xE1; en un plazo de doce meses, con los intereses y comisi&#xF3;n que se aplican a los pr&#xE9;stamos de auxilio otorgados por la Caja, regidos por el D.S. 576 de 13 de<span class=\"n\" id=\"n_0\">DTO 240, TRABAJO<br>D.O. 22.10.1971</span> Julio, y su descuento se efectuar&#xE1; por planillas a contar del mes siguiente a su otorgamiento.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo sexto.- El servicio de estos pr&#xE9;stamos se har&#xE1; en un plazo de doce meses, con los intereses y comisi&#xF3;n que se aplican a los pr&#xE9;stamos de auxilio otorgados por la Caja, regidos por el D.S. 576 de 13 de<span class=\"n\" id=\"n_1\">DTO 240, TRABAJO<br>D.O. 22.10.1971</span> Julio, y su descuento se efectuar&#xE1; por planillas a contar del mes siguiente a su otorgamiento.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

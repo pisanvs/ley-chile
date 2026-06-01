@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-10-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7267259,
+          "old": "<div><div class=\"p\">MODIFICA LA RESOLUCION 473, DE 05 DE AGOSTO DE 1985, DE LA SUBSECRETARIA DE PESCA Y DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA LA RESOLUCION 473, DE 05 DE AGOSTO DE 1985, DE LA SUBSECRETARIA DE PESCA Y DENIEGA AUTORIZACION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

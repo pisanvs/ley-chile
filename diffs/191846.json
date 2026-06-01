@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-11-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-07-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6358047,
+          "old": "<div><div class=\"p\">DESIGNA A DO&#xD1;A LINDA GEORGINA FUENTES VERGARA COMO ABOGADO DEL SERVICIO DE TESORERIAS PARA COBRANZA DE CHEQUES PROTESTADOS EN LA REGION METROPOLITANA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 2 de noviembre de 2001.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3.182.- Vistos: El art&#xED;culo 2&#xBA;, N&#xBA; 2, letra d) del D.F.L. N&#xBA; 1, de 1994, del Ministerio de Hacienda, Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;as, modificado por el art&#xED;culo 8&#xBA; letra b) de la ley N&#xBA; 19.506, el art&#xED;culo 5&#xBA; letras g) y m) de este mismo D.F.L.; los art&#xED;culos 55 letras e) y f), 73 y siguientes del Estatuto Administrativo; el t&#xED;tulo V del libro III del decreto ley N&#xBA; 830 de 1974, sobre C&#xF3;digo Tributario; la resoluci&#xF3;n N&#xBA; 520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica, y la resoluci&#xF3;n exenta N&#xBA; 3.401 de 24 de octubre de 2000, del Sr. Tesorero General de la Rep&#xFA;blica, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA A DO&#xD1;A LINDA GEORGINA FUENTES VERGARA COMO ABOGADO DEL SERVICIO DE TESORERIAS PARA COBRANZA DE CHEQUES PROTESTADOS EN LA REGION METROPOLITANA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 2 de noviembre de 2001.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3.182.- Vistos: El art&#xED;culo 2&#xBA;, N&#xBA; 2, letra d) del D.F.L. N&#xBA; 1, de 1994, del Ministerio de Hacienda, Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;as, modificado por el art&#xED;culo 8&#xBA; letra b) de la ley N&#xBA; 19.506, el art&#xED;culo 5&#xBA; letras g) y m) de este mismo D.F.L.; los art&#xED;culos 55 letras e) y f), 73 y siguientes del Estatuto Administrativo; el t&#xED;tulo V del libro III del decreto ley N&#xBA; 830 de 1974, sobre C&#xF3;digo Tributario; la resoluci&#xF3;n N&#xBA; 520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica, y la resoluci&#xF3;n exenta N&#xBA; 3.401 de 24 de octubre de 2000, del Sr. Tesorero General de la Rep&#xFA;blica, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

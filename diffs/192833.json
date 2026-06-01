@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-12-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6362139,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto exento MOP N&#xBA; 1.783, de 21 de noviembre de 2001, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del D.F.L. MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y D.F.L. MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 78-AB, N&#xBA; 78-AD, N&#xBA; 78-AL y N&#xBA; 78-Z para la obra: &quot;Red Vial Litoral Central. Sector 1: nuevo camino costero. Subtramo: Las Cruces - Algarrobo Km. 22.340,00 al Km. 23.400,00&quot;, Quinta Regi&#xF3;n, que figura a nombre de Almarza Alfaro Jos&#xE9;, rol de aval&#xFA;o 275-1, comuna de Algarrobo, superficie 508 m2, 359 m2, 724 m2 y 524 m2, respectivamente, La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Claudia Paola Arellano G&#xF3;mez, Mar&#xED;a Isabel R&#xED;os Marcuello y Patricio Fernando Casagrande Ulloa, fij&#xF3; con fecha 13 de julio de 2001, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $1.168.400, para el lote N&#xB0;78-AB, $937.700.- para el lote N&#xB0; 78-AD, $1.815.200.- para el lote N&#xB0; 78-AL y $1.346.200, para el lote N&#xB0;78-AZ. La indemnizaci&#xF3;n de pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto exento MOP N&#xBA; 1.783, de 21 de noviembre de 2001, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del D.F.L. MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y D.F.L. MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 78-AB, N&#xBA; 78-AD, N&#xBA; 78-AL y N&#xBA; 78-Z para la obra: &quot;Red Vial Litoral Central. Sector 1: nuevo camino costero. Subtramo: Las Cruces - Algarrobo Km. 22.340,00 al Km. 23.400,00&quot;, Quinta Regi&#xF3;n, que figura a nombre de Almarza Alfaro Jos&#xE9;, rol de aval&#xFA;o 275-1, comuna de Algarrobo, superficie 508 m2, 359 m2, 724 m2 y 524 m2, respectivamente, La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Claudia Paola Arellano G&#xF3;mez, Mar&#xED;a Isabel R&#xED;os Marcuello y Patricio Fernando Casagrande Ulloa, fij&#xF3; con fecha 13 de julio de 2001, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $1.168.400, para el lote N&#xB0;78-AB, $937.700.- para el lote N&#xB0; 78-AD, $1.815.200.- para el lote N&#xB0; 78-AL y $1.346.200, para el lote N&#xB0;78-Z. La<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 02.01.2002</span> indemnizaci&#xF3;n de pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.- </div></div>"
+        }
+      ]
+    }
+  }
+]

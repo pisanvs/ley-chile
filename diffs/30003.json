@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-06-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9047038,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- La exposici&#xF3;n &quot;Feria Internacional del Aire&quot; (F.I.D.A.) que peri&#xF3;dicamente organiza la Fuerza A&#xE9;rea de Chile, estar&#xE1; exenta de los impuestos fiscales y derechos municipales que afecten a los ingresos percibidos por concepto de:</div><div class=\"p\">&nbsp; &nbsp; 1.- Las entradas que se expendan para visitarla;</div><div class=\"p\">&nbsp; &nbsp; 2.- Los actos culturales que se realicen dentro de sus recintos, y</div><div class=\"p\">&nbsp; &nbsp; 3.- Los arriendos y subarriendos de espacios y locales ubicados dentro de los recintos donde la Feria Internacional del Aire se desarrolle.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- La exposici&#xF3;n &quot;Feria Internacional del Aire y del Espacio&quot; (F.I.D.A.E.) que peri&#xF3;dicamente<span class=\"n\" id=\"n_0\">LEY 18801<br>ART UNICO</span> organiza la Fuerza A&#xE9;rea de Chile, estar&#xE1; exenta de los impuestos fiscales y derechos municipales que afecten a los ingresos percibidos por concepto de:</div><div class=\"p\">&nbsp; &nbsp;  1.- Las entradas que se expendan para visitarla;</div><div class=\"p\">&nbsp; &nbsp; 2.- Los actos culturales que se realicen dentro de sus recintos, y</div><div class=\"p\">&nbsp; &nbsp; 3.- Los arriendos y subarriendos de espacios y locales ubicados dentro de los recintos donde la Feria Internacional del Aire se desarrolle.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

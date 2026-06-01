@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-07-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-08-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7221135,
+          "old": "<div><br><div class=\"p\"> MODIFICA RESOLUCION N&#xB0; 1465 DEL 29 DE JUNIO DE 1981 Y ESTABLECE REGULACIONES</div><div class=\"p\">PARA LA INTERNACION DE ESTACAS DE SALIX SPP</div><br><div class=\"p\">Santiago, 26 de Junio de 1992.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">N&#xFA;m. 1.142 exenta.- Visto: Lo dispuesto en el Decreto Ley No. 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, la Resoluci&#xF3;n No. 39 de 1981, que delega facultades al Director de Divisi&#xF3;n de Protecci&#xF3;n Agr&#xED;cola del Servicio Agr&#xED;cola y Ganadero, la Resoluci&#xF3;n No. 350 de 1981 que establece normas para el ingreso de mercader&#xED;as peligrosas y la Resoluci&#xF3;n No. 1465 de 1981 que proh&#xED;be la internaci&#xF3;n de mercader&#xED;as peligrosas para los vegetales que se indican, todas del Servicio Agr&#xED;cola y Ganadero.</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">1.- Que se han desarrollado cultivares de Salix spp., de alta productividad, con favorables expectativas de uso en el pa&#xED;s.</div><br><div class=\"p\">2.- Que existen m&#xE9;todos de propagaci&#xF3;n de Salix spp. y de control de plagas, que permiten la obtenci&#xF3;n de material vegetal de reproducci&#xF3;n en condiciones fitosanitarias apropiadas para su multiplicaci&#xF3;n.</div><br><div class=\"p\">3.- Que constituye responsabilidad del Servicio Agr&#xED;cola y Ganadero impedir el ingreso de plagas forestales al territorio nacional .</div><br><div class=\"p\">4.- Que para este prop&#xF3;sito, el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las regulaciones cuarentenarias que resguardan el patrimonio fitosanitario forestal del pa&#xED;s.</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 1465 DEL 29 DE JUNIO DE 1981 Y ESTABLECE REGULACIONES PARA LA INTERNACION DE ESTACAS DE SALIX SPP</div><br><br><div class=\"p\">Santiago, 26 de Junio de 1992.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">N&#xFA;m. 1.142 exenta.- Visto: Lo dispuesto en el Decreto Ley No. 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, la Resoluci&#xF3;n No. 39 de 1981, que delega facultades al Director de Divisi&#xF3;n de Protecci&#xF3;n Agr&#xED;cola del Servicio Agr&#xED;cola y Ganadero, la Resoluci&#xF3;n No. 350 de 1981 que establece normas para el ingreso de mercader&#xED;as peligrosas y la Resoluci&#xF3;n No. 1465 de 1981 que proh&#xED;be la internaci&#xF3;n de mercader&#xED;as peligrosas para los vegetales que se indican, todas del Servicio Agr&#xED;cola y Ganadero.</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">1.- Que se han desarrollado cultivares de Salix spp., de alta productividad, con favorables expectativas de uso en el pa&#xED;s.</div><div class=\"p\">2.- Que existen m&#xE9;todos de propagaci&#xF3;n de Salix spp. y de control de plagas, que permiten la obtenci&#xF3;n de material vegetal de reproducci&#xF3;n en condiciones fitosanitarias apropiadas para su multiplicaci&#xF3;n.</div><br><div class=\"p\">3.- Que constituye responsabilidad del Servicio Agr&#xED;cola y Ganadero impedir el ingreso de plagas forestales al territorio nacional .</div><br><div class=\"p\">4.- Que para este prop&#xF3;sito, el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las regulaciones cuarentenarias que resguardan el patrimonio fitosanitario forestal del pa&#xED;s.</div><br><div class=\"p\">Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

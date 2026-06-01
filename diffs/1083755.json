@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-11-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9648049,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">1.&nbsp;  Post&#xE9;rganse los permisos de construcci&#xF3;n para edificaciones, por un plazo de tres (3) meses, a contar de la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial, al interior de los pol&#xED;gono A, B, C, D, E, F, G, H e I, que figuran en el Plano de Postergaci&#xF3;n de Permisos asociada a la modificaci&#xF3;n y forma parte integrante de este decreto, lo cual se aplica en forma selectiva de acuerdo al siguiente detalle:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  . Pol&#xED;gonos A, B y C: Suspensi&#xF3;n de todos los permisos de edificaci&#xF3;n de m&#xE1;s de 28,0 mts u 8 pisos de altura para la edificaci&#xF3;n aislada y de m&#xE1;s de 7,0 mts o 2 pisos de altura para la edificaci&#xF3;n pareada y continua.</div><div class=\"p\">&nbsp; &nbsp;  . Pol&#xED;gono D, E: Suspensi&#xF3;n de todos los permisos de edificaci&#xF3;n de m&#xE1;s de 17,5 mts o 5 pisos de altura para la edificaci&#xF3;n aislada y de m&#xE1;s de 7,0 mts o 2 pisos de altura para la edificaci&#xF3;n pareada y continua.</div><div class=\"p\">&nbsp; &nbsp;  . Pol&#xED;gono F, G, H e I: Suspensi&#xF3;n de todos los permisos de edificaci&#xF3;n de m&#xE1;s de 56,0 m. o 16 pisos de altura para la edificaci&#xF3;n aislada y de m&#xE1;s de 10,5 mts o 3 pisos de altura para la edificaci&#xF3;n pareada y continua.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">2.&nbsp;  Publ&#xED;quese en el Diario Oficial el presente decreto.</div></div>",
+          "new": "<div><br><div class=\"p\">1.&nbsp;  Post&#xE9;rganse los permisos de construcci&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> para edificaciones, por un plazo de tres (3) meses, a contar de la fecha de publicaci&#xF3;n de este decreto en el Diario Oficial, al interior de los pol&#xED;gono A, B, C, D, E, F, G, H e I, que figuran en el Plano de Postergaci&#xF3;n de Permisos asociada a la modificaci&#xF3;n y forma parte integrante de este decreto, lo cual se aplica en forma selectiva de acuerdo al siguiente detalle:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  . Pol&#xED;gonos A, B y C: Suspensi&#xF3;n de todos los permisos de edificaci&#xF3;n de m&#xE1;s de 28,0 mts u 8 pisos de altura para la edificaci&#xF3;n aislada y de m&#xE1;s de 7,0 mts o 2 pisos de altura para la edificaci&#xF3;n pareada y continua.</div><div class=\"p\">&nbsp; &nbsp;  . Pol&#xED;gono D, E: Suspensi&#xF3;n de todos los permisos de edificaci&#xF3;n de m&#xE1;s de 17,5 mts o 5 pisos de altura para la edificaci&#xF3;n aislada y de m&#xE1;s de 7,0 mts o 2 pisos de altura para la edificaci&#xF3;n pareada y continua.</div><div class=\"p\">&nbsp; &nbsp;  . Pol&#xED;gono F, G, H e I: Suspensi&#xF3;n de todos los permisos de edificaci&#xF3;n de m&#xE1;s de 56,0 m. o 16 pisos de altura para la edificaci&#xF3;n aislada y de m&#xE1;s de 10,5 mts o 3 pisos de altura para la edificaci&#xF3;n pareada y continua.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">2.&nbsp;  Publ&#xED;quese en el Diario Oficial el presente decreto.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 de la Resoluci&#xF3;n 471 Exenta, Vivienda, publicada el 06.02.2016, prorroga por el plazo de cuatro meses la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, dispuesta por la presente norma, para el sector sur oriente del territorio de la comuna correspondiente a 9 pol&#xED;gonos identificados con letras correlativas desde la A hasta la I, que se emplazan desde Avenida Vicu&#xF1;a Mackenna hacia el poniente, entre Avenida Alcalde Carlos Valdovinos, por el norte, y Avenida Lo Ovalle, por el sur, de acuerdo a lo graficado en el &quot;Plano de Postergaci&#xF3;n de Permisos de Edificaci&#xF3;n Asociada a Modificaci&#xF3;n del Plan Regulador Comunal - Modificaci&#xF3;n Zonas Z13, Z13A, Z14 y Z14A&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

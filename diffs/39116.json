@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-10-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-10-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201619,
+          "old": "<div><div class=\"p\">APRUEBA ARANCEL DE PRESTACIONES DE SALUD AMBIENTAL </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 558 exenta.- Santiago, 30 de Septiembre de 1993.- Visto: Estos antecedentes; lo establecido en el art&#xED;culo 9&#xB0; letra f) del C&#xF3;digo Sanitario; en el art&#xED;culo 14 letra j) del decreto supremo N&#xB0; 42, de 1986, del Ministerio de Salud; en la resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; y teniendo presente las facultades que me otorga el decreto ley N&#xB0;2.763, de 1979, dicto la siguiente </div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA ARANCEL DE PRESTACIONES DE SALUD AMBIENTAL </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 558 exenta.- Santiago, 30 de Septiembre de 1993.- Visto: Estos antecedentes; lo establecido en el art&#xED;culo 9&#xB0; letra f) del C&#xF3;digo Sanitario; en el art&#xED;culo 14 letra j) del decreto supremo N&#xB0; 42, de 1986, del Ministerio de Salud; en la resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; y teniendo presente las facultades que me otorga el decreto ley N&#xB0;2.763, de 1979, dicto la siguiente </div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-11-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-06-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201019,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA FECHA DE CUMPLIMIENTO DEL ARTICULO N&#xB0; 45 DEL DECRETO N&#xB0; 212, DE 1992</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 75 exenta.- Coyhaique, 20 de Octubre de 1995.- Visto: El art&#xED;culo 45&#xB0; del Decreto Supremo N&#xB0; 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA FECHA DE CUMPLIMIENTO DEL ARTICULO N&#xB0; 45 DEL DECRETO N&#xB0; 212, DE 1992</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 75 exenta.- Coyhaique, 20 de Octubre de 1995.- Visto: El art&#xED;culo 45&#xB0; del Decreto Supremo N&#xB0; 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><div class=\"p\">&nbsp; &nbsp; R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-05-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-08-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6569850,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 5.257 DE 2005 QUE ESTABLECE REQUISITOS FITOSANITARIOS DE INGRESO PRODUCTOS DE ORIGEN VEGETAL DESECADOS DE ESPECIES Y ORIGENES QUE INDICA, PARA CONSUMO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 8 de mayo de 2006.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.033 exenta.- Vistos: Lo dispuesto en la Ley N&#xB0; 18.755, Org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero, modificada por la Ley N&#xB0; 19.283, el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, las Resoluciones del Servicio Agr&#xED;cola y Ganadero N&#xBA;s 3815 de 2003, 3801 de 1998, 521 de 2005, 5257 de 2005 y 133 de 2005, los Decretos de Agricultura N&#xBA;s 156 de 1998 y 92 de 1999, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Que es funci&#xF3;n del Servicio Agr&#xED;cola y Ganadero fijar los requisitos fitosanitarios de internaci&#xF3;n de todo material susceptible de transportar plagas.</div><div class=\"p\">&nbsp; &nbsp;  2. Que es necesario actualizar en forma peri&#xF3;dica los requisitos de ingreso de los art&#xED;culos reglamentados,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 5.257 DE 2005 QUE ESTABLECE REQUISITOS FITOSANITARIOS DE INGRESO PRODUCTOS DE ORIGEN VEGETAL DESECADOS DE ESPECIES Y ORIGENES QUE INDICA, PARA CONSUMO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 8 de mayo de 2006.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.033 exenta.- Vistos: Lo dispuesto en la Ley N&#xB0; 18.755, Org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero, modificada por la Ley N&#xB0; 19.283, el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, las Resoluciones del Servicio Agr&#xED;cola y Ganadero N&#xBA;s 3815 de 2003, 3801 de 1998, 521 de 2005, 5257 de 2005 y 133 de 2005, los Decretos de Agricultura N&#xBA;s 156 de 1998 y 92 de 1999, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Que es funci&#xF3;n del Servicio Agr&#xED;cola y Ganadero fijar los requisitos fitosanitarios de internaci&#xF3;n de todo material susceptible de transportar plagas.</div><div class=\"p\">&nbsp; &nbsp;  2. Que es necesario actualizar en forma peri&#xF3;dica los requisitos de ingreso de los art&#xED;culos reglamentados,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

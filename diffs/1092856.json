@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2016-07-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-12-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9717770,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero: Aprueba Actualizaci&#xF3;n de Instrucci&#xF3;n de Car&#xE1;cter General para la Autorizaci&#xF3;n de las Entidades T&#xE9;cnicas de Fiscalizaci&#xF3;n Ambiental, Bajo R&#xE9;gimen Normal, en el Componente Aire-Emisiones Atmosf&#xE9;ricas de Fuentes Fijas que establece los requisitos que deben cumplir las personas jur&#xED;dicas interesadas en ser autorizadas como entidades t&#xE9;cnicas de fiscalizaci&#xF3;n ambiental para las actividades de muestreo, medici&#xF3;n y/o an&#xE1;lisis, en dicho componente; para la renovaci&#xF3;n de la autorizaci&#xF3;n; para la ampliaci&#xF3;n de alcances por r&#xE9;gimen normal; y para el traspaso de las ETFA autorizadas bajo r&#xE9;gimen provisorio al r&#xE9;gimen normal, cuando corresponda; los que se encuentran contenidos en el documento t&#xE9;cnico denominado &quot;Requisitos para Autorizaci&#xF3;n Bajo R&#xE9;gimen Normal de Entidades T&#xE9;cnicas de Fiscalizaci&#xF3;n Ambiental (ETFA) ETFA-02-01 Aire V.02 Emisiones Atmosf&#xE9;ricas de Fuentes Fijas&quot;, cuyo texto &#xED;ntegro se acompa&#xF1;a a la presente resoluci&#xF3;n y forma parte integrante de la misma.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero: Aprueba Actualizaci&#xF3;n de Instrucci&#xF3;n de Car&#xE1;cter General para la Autorizaci&#xF3;n de las Entidades T&#xE9;cnicas de Fiscalizaci&#xF3;n Ambiental, Bajo R&#xE9;gimen Normal, en el Componente Aire-Emisiones Atmosf&#xE9;ricas de Fuentes Fijas que establece los requisitos que deben cumplir las personas jur&#xED;dicas interesadas en ser autorizadas como entidades t&#xE9;cnicas de fiscalizaci&#xF3;n ambiental para las actividades de muestreo, medici&#xF3;n y/o an&#xE1;lisis, en dicho componente; para la renovaci&#xF3;n de la autorizaci&#xF3;n; para la ampliaci&#xF3;n de alcances por r&#xE9;gimen normal; y para el traspaso de las ETFA autorizadas bajo r&#xE9;gimen provisorio al r&#xE9;gimen normal, cuando corresponda; los que se encuentran contenidos en el documento t&#xE9;cnico denominado &quot;Requisitos para Autorizaci&#xF3;n Bajo R&#xE9;gimen Normal de Entidades T&#xE9;cnicas de Fiscalizaci&#xF3;n Ambiental (ETFA) ETFA-02-01 Aire V.02 <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>Emisiones Atmosf&#xE9;ricas de Fuentes Fijas&quot;, cuyo texto &#xED;ntegro se acompa&#xF1;a a la presente resoluci&#xF3;n y forma parte integrante de la misma.</div><br><div class=\"p\"> </div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 1435 Exenta, Medio Ambiente, publicada el 11.12.2017, modifica el anexo N&#xB0; 2 mediante el cual se establecieron los m&#xE9;todos de muestreo, medici&#xF3;n y an&#xE1;lisis para las emisiones atmosf&#xE9;ricas de fuentes fijas. Sin embargo, no se ha podido realizar la actualizaci&#xF3;n por no encontrarse disponible sus texto.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

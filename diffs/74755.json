@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1997-08-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949659,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;: Los equipos de calefacci&#xF3;n a le&#xF1;a en general, no podr&#xE1;n funcionar en per&#xED;odos de pre-emergencia y emergencia decretadas por el Servicio de Salud Metropolitano del Ambiente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;: Ning&#xFA;n equipo de calefacci&#xF3;n que<span class=\"n\" id=\"n_0\">DTO 4362,<br>M. DE LAS CONDES<br>N&#xBA; 1<br>D.O. 08.11.2007</span> utilice combustibles s&#xF3;lidos, tales como le&#xF1;a, carb&#xF3;n o aserr&#xED;n podr&#xE1; funcionar en per&#xED;odos de alerta ambiental, pre-emergencia y/o emergencia ambiental decretadas por la Intendencia de la Regi&#xF3;n Metropolitana.</div><br></div>"
+        },
+        {
+          "part_id": 8949660,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;: Autor&#xED;zase el uso de los equipos de calefacci&#xF3;n con doble c&#xE1;mara de combusti&#xF3;n, entendi&#xE9;ndose por tales, aquellos calefactores que poseen dos o m&#xE1;s c&#xE1;maras de combusti&#xF3;n. Las c&#xE1;maras de combusti&#xF3;n son los compartimientos donde ocurre la quema de le&#xF1;a y/o los gases y resinas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;: Autor&#xED;zase el uso de los equipos de calefacci&#xF3;n con doble c&#xE1;mara de combusti&#xF3;n, entendi&#xE9;ndose por tales, aquellos calefactores que poseen dos o m&#xE1;s c&#xE1;maras de combusti&#xF3;n. Las c&#xE1;maras de combusti&#xF3;n son los compartimientos donde ocurre la quema de le&#xF1;a y/o los gases y resinas. No obstante lo<span class=\"n\" id=\"n_1\">DTO 4362,<br>M. DE LAS CONDES<br>N&#xBA; 1<br>D.O. 08.11.2007</span> indicado, estos equipos de calefacci&#xF3;n con c&#xE1;maras de doble combusti&#xF3;n no podr&#xE1;n funcionar en per&#xED;odos de alerta ambiental, pre-emergencia ambiental y/o emergencia ambiental.</div><br></div>"
+        },
+        {
+          "part_id": 8949664,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA;: Estos equipos de calefacci&#xF3;n, usar&#xE1;n como combustible, le&#xF1;a seca y no podr&#xE1;n usar otro combustible, como por ejemplo:</div><br><br><div class=\"p\">1.-&nbsp; Le&#xF1;a con un contenido de humedad superior al 25% (base seca).</div><div class=\"p\">2.-&nbsp; Le&#xF1;a artificial, como astillas de aserr&#xED;n o aglomeradas, papel aglomerado, chips, etc.</div><div class=\"p\">3.-&nbsp; Basura o desperdicios.</div><div class=\"p\">4.-&nbsp; Parafina, gasolina u otro compuesto inflamable. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA;: Estos equipos de calefacci&#xF3;n, usar&#xE1;n como combustible, le&#xF1;a seca y no podr&#xE1;n usar otro combustible, como por ejemplo:</div><br><br><div class=\"p\">1.-&nbsp; Le&#xF1;a con un contenido de humedad superior al 25% (base seca).</div><div class=\"p\">2.-&nbsp; Le&#xF1;a artificial, como astillas de aserr&#xED;n o aglomeradas, papel aglomerado, chips, etc.</div><div class=\"p\">3.-&nbsp; Basura o desperdicios.</div><div class=\"p\">4.-&nbsp; Parafina, gasolina u otro compuesto inflamable.</div><div class=\"p\">5.-&nbsp; Carb&#xF3;n.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  DTO 4362,</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  M. DE LAS CONDES</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  N&#xBA; 1</div><div class=\"p\"><span class=\"n\" id=\"n_2\">D.O. 08.11.2007</span></div><br></div>"
+        },
+        {
+          "part_id": 8949665,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;: Se adjunta a esta Ordenanza un listado de equipos de calefacci&#xF3;n que son aceptados para uso en esta comuna, que cumplen con las caracter&#xED;sticas t&#xE9;cnicas establecidas en esta Ordenanza y que fueron sometidos a prueba de laboratorio por la ex-Comisi&#xF3;n de Descontaminaci&#xF3;n de la Regi&#xF3;n Metropolitana, hoy Comisi&#xF3;n Nacional del Medio Ambiente (CONAMA).</div><div class=\"p\">&nbsp; &nbsp;  Este listado podr&#xE1; ser modificado por nuevas disposiciones emanadas de la Comisi&#xF3;n Nacional del Medio Ambiente y del Servicio de Salud Metropolitano del Ambiente, conforme a nuevos an&#xE1;lisis de laboratorio a que son sometidas las marcas, modelos y tipos de calefactores.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;: Se adjunta a esta Ordenanza un listado de equipos de calefacci&#xF3;n que son aceptados para uso en esta comuna, que cumplen con las caracter&#xED;sticas t&#xE9;cnicas establecidas en esta Ordenanza y que fueron sometidos a prueba de laboratorio por la ex-Comisi&#xF3;n de Descontaminaci&#xF3;n de la Regi&#xF3;n Metropolitana, hoy Comisi&#xF3;n Nacional del Medio Ambiente (CONAMA).<span class=\"n\" id=\"n_3\">DTO 4362,<br>M. DE LAS CONDES<br>N&#xBA; 1<br>D.O. 08.11.2007</span></div><div class=\"p\">&nbsp; &nbsp;  No obstante lo se&#xF1;alado, dichos equipos de calefacci&#xF3;n no podr&#xE1;n funcionar en per&#xED;odos de alerta ambiental, pre-emergencia ambiental y/o emergencia ambiental.</div><div class=\"p\">&nbsp; &nbsp;  Este listado podr&#xE1; ser modificado por nuevas disposiciones emanadas de la Comisi&#xF3;n Nacional del Medio Ambiente y del Servicio de Salud Metropolitano del Ambiente, conforme a nuevos an&#xE1;lisis de laboratorio a que son sometidas las marcas, modelos y tipos de calefactores.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

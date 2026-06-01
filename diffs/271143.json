@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-05-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8436041,
+          "old": "<div><div class=\"p\">ESTABLECE REGULACIONES CUARENTENARIAS PARA EL CONTROL Y ERRADICACI&#xD3;N DE LA MOSCA DEL MEDITERR&#xC1;NEO (Ceratitis capitata W.) EN LOS LUGARES QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 561 exenta.- Santiago, 5 de mayo de 2008.- Vistos: Lo dispuesto en el Decreto Ley N&#xB0; 3.557, de 1980, sobre Protecci&#xF3;n Agr&#xED;cola; la Ley N&#xB0; 18.755, Org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero, modificada por la Ley N&#xB0; 19.283 y sus modificaciones posteriores; la Resoluci&#xF3;n N&#xB0; 3.513 Exenta del SAG de 7 de diciembre de 1995, publicada en el Diario Oficial el 13 de diciembre del mismo a&#xF1;o,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Que, por Resoluci&#xF3;n Exenta N&#xB0; 3.513, citada en Vistos, se declar&#xF3; a Chile como pa&#xED;s libre de la plaga de los vegetales conocida como .Mosca del Mediterr&#xE1;neo.</div><div class=\"p\">(Ceratitis capitata Wied).</div><div class=\"p\">&nbsp; &nbsp;  2. Que, con fecha 2 de mayo de 2008, se ha detectado la presencia de 2 ejemplares (adultos) del insecto en el &#xE1;rea semiurbana de la comuna de Quilicura.</div><div class=\"p\">&nbsp; &nbsp;  3. Que en virtud de lo dispuesto en el N&#xB0; 3 de la Resoluci&#xF3;n N&#xB0; 3.513, el Servicio est&#xE1; facultado para adoptar las medidas fitosanitarias que sean necesarias para el control y erradicaci&#xF3;n de esta plaga.</div><div class=\"p\">&nbsp; &nbsp;  4. Que debe entenderse por &#xE1;rea reglamentada, aquella en la que plantas, productos vegetales y otros art&#xED;culos reglamentados, que ingresan a ella, se mueven dentro de ella y provienen de la misma, est&#xE1;n sujetas a medidas fitosanitarias.</div><div class=\"p\">&nbsp; &nbsp;  5. Que para el caso de la .Mosca del Mediterr&#xE1;neo.</div><div class=\"p\">(Ceratitis capitata Wied), dicha &#xE1;rea reglamentada corresponde a una superficie cubierta por un radio de 7,2 km. alrededor de las detecciones.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo :</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE REGULACIONES CUARENTENARIAS PARA EL CONTROL Y ERRADICACI&#xD3;N DE LA MOSCA DEL MEDITERR&#xC1;NEO (Ceratitis capitata W.) EN LOS LUGARES QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 561 exenta.- Santiago, 5 de mayo de 2008.- Vistos: Lo dispuesto en el Decreto Ley N&#xB0; 3.557, de 1980, sobre Protecci&#xF3;n Agr&#xED;cola; la Ley N&#xB0; 18.755, Org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero, modificada por la Ley N&#xB0; 19.283 y sus modificaciones posteriores; la Resoluci&#xF3;n N&#xB0; 3.513 Exenta del SAG de 7 de diciembre de 1995, publicada en el Diario Oficial el 13 de diciembre del mismo a&#xF1;o,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Que, por Resoluci&#xF3;n Exenta N&#xB0; 3.513, citada en Vistos, se declar&#xF3; a Chile como pa&#xED;s libre de la plaga de los vegetales conocida como .Mosca del Mediterr&#xE1;neo.</div><div class=\"p\">(Ceratitis capitata Wied).</div><div class=\"p\">&nbsp; &nbsp;  2. Que, con fecha 2 de mayo de 2008, se ha detectado la presencia de 2 ejemplares (adultos) del insecto en el &#xE1;rea semiurbana de la comuna de Quilicura.</div><div class=\"p\">&nbsp; &nbsp;  3. Que en virtud de lo dispuesto en el N&#xB0; 3 de la Resoluci&#xF3;n N&#xB0; 3.513, el Servicio est&#xE1; facultado para adoptar las medidas fitosanitarias que sean necesarias para el control y erradicaci&#xF3;n de esta plaga.</div><div class=\"p\">&nbsp; &nbsp;  4. Que debe entenderse por &#xE1;rea reglamentada, aquella en la que plantas, productos vegetales y otros art&#xED;culos reglamentados, que ingresan a ella, se mueven dentro de ella y provienen de la misma, est&#xE1;n sujetas a medidas fitosanitarias.</div><div class=\"p\">&nbsp; &nbsp;  5. Que para el caso de la .Mosca del Mediterr&#xE1;neo.</div><div class=\"p\">(Ceratitis capitata Wied), dicha &#xE1;rea reglamentada corresponde a una superficie cubierta por un radio de 7,2 km. alrededor de las detecciones.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo :</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

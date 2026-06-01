@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "2016-05-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-07-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9593534,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Para efectos de esta ley, y en el marco del pleno respeto de los derechos del ni&#xF1;o y la ni&#xF1;a en su primera infancia, establecidos en la Convenci&#xF3;n Internacional sobre los Derechos del Ni&#xF1;o y en otros pactos internacionales suscritos por Chile, se entender&#xE1; que son establecimientos de educaci&#xF3;n parvularia aquellos que, contando con autorizaci&#xF3;n para funcionar o con reconocimiento oficial, seg&#xFA;n corresponda, les imparten atenci&#xF3;n integral entre su nacimiento y la edad de ingreso a la educaci&#xF3;n b&#xE1;sica, favoreciendo de manera sistem&#xE1;tica, oportuna y pertinente su desarrollo integral, aprendizajes, conocimientos, habilidades y actitudes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Para efectos de esta ley, y en el marco del pleno respeto de los derechos del ni&#xF1;o y la ni&#xF1;a en su primera infancia, establecidos en la Convenci&#xF3;n Internacional sobre los Derechos del Ni&#xF1;o y en otros pactos internacionales suscritos por Chile, se entender&#xE1; que son establecimientos de educaci&#xF3;n parvularia aquellos que, contando con autorizaci&#xF3;n para funcionar o con reconocimiento oficial, seg&#xFA;n corresponda, les imparten atenci&#xF3;n integral entre su nacimiento y la edad de ingreso a la educaci&#xF3;n b&#xE1;sica, favoreciendo de manera sistem&#xE1;tica, oportuna y pertinente su desarrollo integral, aprendizajes, conocimientos, habilidades y actitudes.</div><div class=\"p\">&nbsp; &nbsp;  La <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1215055&amp;idParte=10555269&amp;idVersion=2025-07-18\">Ley 21753<br>Art. 4 N&#xB0; 1<br>D.O. 18.07.2025</a></span>Superintendencia de Educaci&#xF3;n tendr&#xE1; la facultad de identificar a los establecimientos de educaci&#xF3;n parvularia a los que refiere el presente art&#xED;culo.</div></div>"
+        },
+        {
+          "part_id": 9593540,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Los establecimientos que no cuenten con la autorizaci&#xF3;n a que se refiere esta ley, o con el reconocimiento oficial, seg&#xFA;n corresponda, no podr&#xE1;n funcionar ni publicitarse como tales o con denominaciones an&#xE1;logas, como salas cunas o jardines infantiles, ya sea a trav&#xE9;s de carteles, avisos, ilustraciones o propaganda en prensa o cualquier otro medio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Los establecimientos que no cuenten con la autorizaci&#xF3;n a que se refiere esta ley, o con el reconocimiento oficial, seg&#xFA;n corresponda, no podr&#xE1;n funcionar ni publicitarse como tales o con denominaciones an&#xE1;logas, como salas cunas o jardines infantiles, ya sea a trav&#xE9;s de carteles, avisos, ilustraciones o propaganda en prensa o cualquier otro medio.</div><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1215055&amp;idParte=10555269&amp;idVersion=2025-07-18\">Ley 21753<br>Art. 4 N&#xB0; 2<br>D.O. 18.07.2025</a></span>En el caso de que el establecimiento no cuente con alguna de las certificaciones se&#xF1;aladas en el inciso anterior, la Superintendencia de Educaci&#xF3;n dispondr&#xE1; inmediatamente su clausura.</div></div>"
+        },
+        {
+          "part_id": 9593557,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- Los establecimientos de educaci&#xF3;n parvularia que, con anterioridad a la entrada en vigencia de esta ley, se encuentren funcionando sin tener el reconocimiento oficial del Estado en los niveles parvularios que impartan, deber&#xE1;n obtener dicho reconocimiento o la autorizaci&#xF3;n de funcionamiento, seg&#xFA;n corresponda, al vencimiento del plazo contemplado en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1028635&amp;idParte=9173284&amp;idVersion=\">art&#xED;culo decimoquinto transitorio de la ley N&#xBA; 20.529</a>. Durante dicho per&#xED;odo estos establecimientos podr&#xE1;n seguir funcionando.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- Los establecimientos de educaci&#xF3;n parvularia que, con anterioridad a la entrada en vigencia de esta ley, se encuentren funcionando sin tener el reconocimiento oficial del Estado en los niveles parvularios que impartan, deber&#xE1;n obtener dicho reconocimiento o la autorizaci&#xF3;n de funcionamiento, seg&#xFA;n corresponda, al vencimiento del plazo contemplado en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1028635&amp;idParte=9173284&amp;idVersion=\">art&#xED;culo decimoquinto transitorio de la ley N&#xBA; 20.529</a>. Durante dicho per&#xED;odo estos establecimientos podr&#xE1;n seguir funcionando.</div><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1215055&amp;idParte=10555269&amp;idVersion=2025-07-18\">Ley 21753<br>Art. 4 N&#xB0; 3<br>D.O. 18.07.2025</a></span>Asimismo, si aquellos establecimientos que iniciaron su funcionamiento entre el 1 de enero de 2017 y el 31 de diciembre de 2024, sin contar con reconocimiento oficial o autorizaci&#xF3;n de funcionamiento, solicitan ser identificados como establecimientos de educaci&#xF3;n parvularia, conforme a lo establecido en el inciso segundo del art&#xED;culo 1&#xB0; y a las instrucciones que a este efecto imparta la Superintendencia de Educaci&#xF3;n, podr&#xE1;n seguir funcionando hasta el 31 de diciembre de 2027.</div><div class=\"p\">&nbsp; &nbsp; Vencido el plazo anterior solo podr&#xE1;n continuar funcionando si cuentan con reconocimiento oficial del Estado o autorizaci&#xF3;n de funcionamiento. En caso contrario, la Superintendencia de Educaci&#xF3;n dispondr&#xE1; su clausura inmediata, en los t&#xE9;rminos establecidos en el art&#xED;culo 16.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1215055,
+      "fecha": "2025-07-18"
+    }
+  }
+]

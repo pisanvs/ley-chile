@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-05-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6189550,
+          "old": "<div><div class=\"p\">ESTABLECE ANTECEDENTES PARA LABORATORIOS INTERESADOS EN SUSCRIBIR CONVENIOS DE ANALISIS CON EL SERVICIO AGRICOLA Y GANADERO</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 572 exenta.- Santiago, 12 de Mayo de 1987.-</div><div class=\"p\">&nbsp; &nbsp;  Vistos: El Decreto Supremo No. 138 del Ministerio de Agricultura, publica de en el Diario Oficial de 13 de Febrero de 1987; la ley 18.455, en especial sus art&#xED;culos 4, letra f) 9; 10; 11; 12 y 33; la ley 16.640 y las facultades legales que invisto como Director Ejecutivo de la Instituci&#xF3;n y</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que el Director Ejecutivo debe fijar los antecedentes que las personas jur&#xED;dicas interesadas deben proporcionar al Servicio para suscribir convenios de an&#xE1;lisis con laboratorios.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE ANTECEDENTES PARA LABORATORIOS INTERESADOS EN SUSCRIBIR CONVENIOS DE ANALISIS CON EL SERVICIO AGRICOLA Y GANADERO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 572 exenta.- Santiago, 12 de Mayo de 1987.-</div><div class=\"p\">&nbsp; &nbsp;  Vistos: El Decreto Supremo No. 138 del Ministerio de Agricultura, publica de en el Diario Oficial de 13 de Febrero de 1987; la ley 18.455, en especial sus art&#xED;culos 4, letra f) 9; 10; 11; 12 y 33; la ley 16.640 y las facultades legales que invisto como Director Ejecutivo de la Instituci&#xF3;n y</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que el Director Ejecutivo debe fijar los antecedentes que las personas jur&#xED;dicas interesadas deben proporcionar al Servicio para suscribir convenios de an&#xE1;lisis con laboratorios.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

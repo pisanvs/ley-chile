@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-06-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6126027,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xBA; 55, DE 1990</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xBA; 55, DE 1990</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

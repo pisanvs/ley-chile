@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-03-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8271450,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ASIGNA VEHICULO QUE INDICA Y EXIME DE USO DE DISCO FISCAL</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 37 exento.- Santiago, 3 de Marzo de 1993.-</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en los art&#xED;culos N&#xB0;s. 3&#xB0;, inciso final y 6&#xB0; del D.L. 779 de 1974; modificado por el DFL N&#xB0; 12-2345 de 1974; decretos N&#xB0;s. 1047 de 1991 y 45 de 1992, ambos del Interior; Circular N&#xB0; 9277 de 1975 y Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ASIGNA VEHICULO QUE INDICA Y EXIME DE USO DE DISCO FISCAL</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 37 exento.- Santiago, 3 de Marzo de 1993.-</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en los art&#xED;culos N&#xB0;s. 3&#xB0;, inciso final y 6&#xB0; del D.L. 779 de 1974; modificado por el DFL N&#xB0; 12-2345 de 1974; decretos N&#xB0;s. 1047 de 1991 y 45 de 1992, ambos del Interior; Circular N&#xB0; 9277 de 1975 y Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

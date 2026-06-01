@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-09-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10364508,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Inf&#xF3;rmese el otorgamiento del Premio Nacional de los Derechos Humanos 2022, por parte del Consejo del Instituto Nacional de Derechos Humanos, a Elizabeth Leonor Andrade Huaringa, RUT N&#xBA; 22.480.884-4.</div><div class=\"p\">&nbsp; &nbsp;  2. Determ&#xED;nase que el Servicio de Tesorer&#xED;as, conforme al programa de caja, cargar&#xE1; al &#xED;tem 50-01-03-24-03-133 del Tesoro P&#xFA;blico, la cantidad destinada al pago de la pensi&#xF3;n vitalicia se&#xF1;alada en la letra c) del Considerando 6&#xBA; de la presente resoluci&#xF3;n, a Elizabeth Leonor Andrade Huaringa RUT N&#xBA; 22.480.884-4, en su calidad de ganadora del Premio Nacional de Derechos Humanos 2022, de acuerdo con lo dispuesto en el art&#xED;culo 14 de la ley N&#xBA; 20.405.</div><div class=\"p\">&nbsp; &nbsp;  3. Imp&#xFA;tese la suma indicada en el considerando 6&#xBA; letra b), a la asignaci&#xF3;n 24.01.189 &quot;Premios Nacionales&quot;, del presupuesto vigente del INDH.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese la presente resoluci&#xF3;n para conocimiento e informaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Inf&#xF3;rmese el otorgamiento del Premio Nacional de los Derechos Humanos 2022, por parte del Consejo del Instituto Nacional de Derechos Humanos, a Elizabeth Leonor Andrade Huaringa, RUT N&#xBA; 22.480.884-4.</div><div class=\"p\">&nbsp; &nbsp;  2. Determ&#xED;nase que el Servicio de Tesorer&#xED;as, conforme al programa de caja, cargar&#xE1; al &#xED;tem 50-<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1188015&amp;idParte=10399501&amp;idVersion=2023-01-18\">Resoluci&#xF3;n 3 EXENTA, <br>INS. DERECHOS HUMANOS <br>N&#xB0; 1<br>D.O. 18.01.2023</a></span>01-03-23-01-001 del Tesoro P&#xFA;blico, la cantidad destinada al pago de la pensi&#xF3;n vitalicia se&#xF1;alada en la letra c) del Considerando 6&#xBA; de la presente resoluci&#xF3;n, a Elizabeth Leonor Andrade Huaringa RUT N&#xBA; 22.480.884-4, en su calidad de ganadora del Premio Nacional de Derechos Humanos 2022, de acuerdo con lo dispuesto en el art&#xED;culo 14 de la ley N&#xBA; 20.405.</div><div class=\"p\">&nbsp; &nbsp;  3. Imp&#xFA;tese la suma indicada en el considerando 6&#xBA; letra b), a la asignaci&#xF3;n 24.01.189 &quot;Premios Nacionales&quot;, del presupuesto vigente del INDH.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese la presente resoluci&#xF3;n para conocimiento e informaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1188015,
+      "fecha": "2023-01-18"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "fecha": "2014-03-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-06-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9412161,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9 ZU-C ZONA MIXTA C&#xCD;VICO COMERCIAL </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38275.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9 ZU-C ZONA MIXTA C&#xCD;VICO COMERCIAL </div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1176953&amp;idParte=10339105&amp;idVersion=2022-06-03\">Decreto 353 EXENTO,<br>M. CALLE LARGA<br>N&#xB0; 2<br>D.O. 03.06.2022</a></span>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149408.jpg\">.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9412163,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11 ZU-2: ZONA MIXTA RESIDENCIAL 2 </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38277.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11 ZU-2: ZONA MIXTA RESIDENCIAL 2 </div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1176953&amp;idParte=10339105&amp;idVersion=2022-06-03\">Decreto 353 EXENTO,<br>M. CALLE LARGA<br>N&#xB0; 2<br>D.O. 03.06.2022</a></span>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149409.jpg\">.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9412164,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12 ZU-2A: ZONA MIXTA RESIDENCIAL 2A</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38278.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12 ZU-2A: ZONA MIXTA RESIDENCIAL 2A</div><div class=\"p\"> <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1176953&amp;idParte=10339105&amp;idVersion=2022-06-03\">Decreto 353 EXENTO,<br>M. CALLE LARGA<br>N&#xB0; 2<br>D.O. 03.06.2022</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149410.jpg\">.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9412165,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13 ZU-3: ZONA MIXTA RESIDENCIAL 3</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38279.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13 ZU-3: ZONA MIXTA RESIDENCIAL 3</div><div class=\"p\">&nbsp; <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1176953&amp;idParte=10339105&amp;idVersion=2022-06-03\">Decreto 353 EXENTO,<br>M. CALLE LARGA<br>N&#xB0; 2<br>D.O. 03.06.2022</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149411.jpg\">.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9412166,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14 ZU-3A: ZONA MIXTA RESIDENCIAL 3A&nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38280.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14 ZU-3A: ZONA MIXTA RESIDENCIAL 3A&nbsp; <span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1176953&amp;idParte=10339105&amp;idVersion=2022-06-03\">Decreto 353 EXENTO,<br>M. CALLE LARGA<br>N&#xB0; 2<br>D.O. 03.06.2022</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149412.jpg\">.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9412167,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15 ZU-4: ZONA MIXTA RESIDENCIAL 4&nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38281.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15 ZU-4: ZONA MIXTA RESIDENCIAL 4&nbsp; </div><div class=\"p\"><span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1176953&amp;idParte=10339105&amp;idVersion=2022-06-03\">Decreto 353 EXENTO,<br>M. CALLE LARGA<br>N&#xB0; 2<br>D.O. 03.06.2022</a></span>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149413.jpg\">.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9412168,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16 ZU-5: ZONA MIXTA RESIDENCIAL 5&nbsp;  </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38282.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16 ZU-5: ZONA MIXTA RESIDENCIAL 5&nbsp;  <span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1176953&amp;idParte=10339105&amp;idVersion=2022-06-03\">Decreto 353 EXENTO,<br>M. CALLE LARGA<br>N&#xB0; 2<br>D.O. 03.06.2022</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149414.jpg\">.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9412169,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17 ZU-6: ZONA MIXTA RESIDENCIAL 6 </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38283.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17 ZU-6: ZONA MIXTA RESIDENCIAL 6 </div><div class=\"p\"> <span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1176953&amp;idParte=10339105&amp;idVersion=2022-06-03\">Decreto 353 EXENTO,<br>M. CALLE LARGA<br>N&#xB0; 2<br>D.O. 03.06.2022</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149415.jpg\">.</div><br><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1176953,
+      "fecha": "2022-06-03"
+    }
+  }
+]

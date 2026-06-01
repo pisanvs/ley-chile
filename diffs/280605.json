@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-03-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8694706,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Adjud&#xED;case y ot&#xF3;rgase la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica a la empresa Antofagasta Minerals S.A., de conformidad al art&#xED;culo 19 de la Ley N&#xB0;19.657, respecto del &#xE1;rea denominada &apos;Tinguiririca A&apos;, ubicada en la comuna de San Fernando, Provincia de Colchagua, Sexta Regi&#xF3;n del Libertador General Bernardo O&#xB4;Higgins, sobre una superficie de 50.400 H&#xE1;s., y cuyas coordenadas son:</div><br><div class=\"p\">&nbsp; &nbsp; V&#xE9;rtice&nbsp; &nbsp;  Norte&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Este</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; V1&nbsp; &nbsp; &nbsp; 6.158.000&nbsp; &nbsp; &nbsp; 357.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; V2&nbsp; &nbsp; &nbsp; 6.158.000&nbsp; &nbsp; &nbsp; 378.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; V3&nbsp; &nbsp; &nbsp; 6.134.000&nbsp; &nbsp; &nbsp; 378.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; V4&nbsp; &nbsp; &nbsp; 6.134.000&nbsp; &nbsp; &nbsp; 357.000</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Adjud&#xED;case y ot&#xF3;rgase la<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica a la empresa Antofagasta Minerals S.A., de conformidad al art&#xED;culo 19 de la Ley N&#xB0;19.657, respecto del &#xE1;rea denominada .Tinguiririca A., ubicada en la comuna de San Fernando, Provincia de Colchagua, Sexta Regi&#xF3;n del Libertador General Bernardo O.Higgins, sobre una superficie de 50.400 H&#xE1;s., y cuyas coordenadas son:</div><br><div class=\"p\">&nbsp; &nbsp; V&#xE9;rtice&nbsp; &nbsp;  Norte&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Este</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; V1&nbsp; &nbsp; &nbsp; 6.158.000&nbsp; &nbsp; &nbsp; 357.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; V2&nbsp; &nbsp; &nbsp; 6.158.000&nbsp; &nbsp; &nbsp; 378.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; V3&nbsp; &nbsp; &nbsp; 6.134.000&nbsp; &nbsp; &nbsp; 378.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; V4&nbsp; &nbsp; &nbsp; 6.134.000&nbsp; &nbsp; &nbsp; 357.000</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del DTO 40, Miner&#xED;a, publicado el 26.03.2009, modifica la presente norma, en el sentido de se&#xF1;alar que el nuevo concesionario de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica es la empresa Energ&#xED;a Andina S.A., de acuerdo a lo se&#xF1;alado en escritura p&#xFA;blica otorgada ante Notario P&#xFA;blico don Iv&#xE1;n Torrealba Acevedo, con fecha 20 de octubre de 2008, Repertorio N&#xBA; 13.843-08.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

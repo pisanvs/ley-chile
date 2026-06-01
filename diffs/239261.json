@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2005-06-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-03-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8653013,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- La biodisponibilidad diaria resultante del uso de los juguetes no debe exceder de:</div><br><div class=\"p\">-&nbsp;  0,2 &#xB5;g de antimonio</div><div class=\"p\">-&nbsp;  0,1 &#xB5;g de ars&#xE9;nico</div><div class=\"p\">-&nbsp;  25,0 &#xB5;g de bario</div><div class=\"p\">-&nbsp;  0,6 &#xB5;g de cadmio</div><div class=\"p\">-&nbsp;  0,3 &#xB5;g de cromo</div><div class=\"p\">-&nbsp;  0,7 &#xB5;g de plomo</div><div class=\"p\">-&nbsp;  0,5 &#xB5;g de mercurio</div><div class=\"p\">-&nbsp;  5,0 &#xB5;g de selenio</div><br><div class=\"p\">&nbsp; &nbsp;  La migraci&#xF3;n de dichas sustancias se medir&#xE1; conforme a los requisitos y m&#xE9;todos de ensayo establecidos en la norma NCh 1936 of 99 sobre Seguridad de los juguetes - Migraci&#xF3;n de ciertos elementos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- La biodisponibilidad diaria resultante del uso de los juguetes no debe exceder de:</div><br><div class=\"p\">-&nbsp;  0,2 &#xB5;g de antimonio</div><div class=\"p\">-&nbsp;  0,1 &#xB5;g de ars&#xE9;nico</div><div class=\"p\">-&nbsp;  25,0 &#xB5;g de bario</div><div class=\"p\">-&nbsp;  0,6 &#xB5;g de cadmio</div><div class=\"p\">-&nbsp;  0,3 &#xB5;g de cromo</div><div class=\"p\">-&nbsp;  0,7 &#xB5;g de plomo</div><div class=\"p\">-&nbsp;  0,5 &#xB5;g de mercurio</div><div class=\"p\">-&nbsp;  5,0 &#xB5;g de selenio</div><br><div class=\"p\">&nbsp; &nbsp;  La migraci&#xF3;n de dichas sustancias se medir&#xE1; conforme a los requisitos y m&#xE9;todos de ensayo establecidos en la norma NCh 1936 of 99 sobre Seguridad de los juguetes - Migraci&#xF3;n de ciertos elementos.</div><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1007350&amp;idParte=8791111&amp;idVersion=2009-10-22\">Decreto 47, SALUD<br>N&#xB0; 1 a)<br>D.O. 22.10.2009</a></span>Los juguetes que se importen al pa&#xED;s deber&#xE1;n venir acompa&#xF1;ados de una certificaci&#xF3;n del pa&#xED;s de origen, en la que conste que su contenido de los elementos qu&#xED;micos indicados en este art&#xED;culo no sobrepasan los l&#xED;mites de biodisponibilidad diaria que a cada uno de ellos se les fija. Dicho certificado debe sustentarse en el an&#xE1;lisis qu&#xED;mico de los productos.&quot;</div></div>"
+        },
+        {
+          "part_id": 8653015,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18.- Los solventes empleados en la fabricaci&#xF3;n de juguetes deber&#xE1;n ser removidos del producto terminado de modo que la concentraci&#xF3;n residual de &#xE9;stos no pueda afectar la salud de los ni&#xF1;os.</div><div class=\"p\">&nbsp; &nbsp;  Para el caso del tolueno, s&#xF3;lo se permitir&#xE1; &#xE9;ste como impureza residual en los juguetes en una concentraci&#xF3;n que no supere las 170 ppm (170 mg de tolueno por Kg de juguete), medido con el m&#xE9;todo anal&#xED;tico Head Space. Los juguetes que se importen al pa&#xED;s, deber&#xE1;n venir acompa&#xF1;ados de una certificaci&#xF3;n del pa&#xED;s de origen en la que conste que su contenido de tolueno no sobrepasa lo se&#xF1;alado en el presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  Dicho certificado puede consistir en un an&#xE1;lisis qu&#xED;mico o en una declaraci&#xF3;n por parte del fabricante.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1007350&amp;idParte=8791111&amp;idVersion=2009-10-22\">Decreto 47, SALUD<br>N&#xB0; 1 b)<br>D.O. 22.10.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo 18.- Los solventes empleados en la fabricaci&#xF3;n de juguetes deber&#xE1;n ser removidos del producto terminado de modo que la concentraci&#xF3;n residual de &#xE9;stos no pueda afectar la salud de los ni&#xF1;os.</div><div class=\"p\">&nbsp; &nbsp;  Para el caso del tolueno, s&#xF3;lo se permitir&#xE1; &#xE9;ste como impureza residual en los juguetes en una concentraci&#xF3;n que no supere las 170 ppm (170 mg de tolueno por Kg de juguete), medido con el m&#xE9;todo anal&#xED;tico Head Space. Los juguetes que se importen al pa&#xED;s, deber&#xE1;n venir acompa&#xF1;ados de una certificaci&#xF3;n del pa&#xED;s de origen en la que conste que su contenido de tolueno no sobrepasa lo se&#xF1;alado en el presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  Dicho certificado debe sustentarse en el an&#xE1;lisis qu&#xED;mico de los productos.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "2001-05-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-10-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8910426,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la resoluci&#xF3;n ministerial exenta N&#xBA; 40, de 13 de abril de 1992, de esta Secretar&#xED;a de Estado, en el sentido de designar a la se&#xF1;ora Gloria Pe&#xF1;a Tapia, como titular, y al se&#xF1;or Germ&#xE1;n Moya Rojas, como alterno, en representaci&#xF3;n del Banco Central en la Comisi&#xF3;n T&#xE9;cnica a que se refiere el art&#xED;culo 6&#xBA; de la ley 18.480.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>resoluci&#xF3;n ministerial exenta N&#xBA; 40, de 13 de abril de 1992, de esta Secretar&#xED;a de Estado, en el sentido de designar a la se&#xF1;ora Gloria Pe&#xF1;a Tapia, como titular, y al se&#xF1;or Germ&#xE1;n Moya Rojas, como alterno, en representaci&#xF3;n del Banco Central en la Comisi&#xF3;n T&#xE9;cnica a que se refiere el art&#xED;culo 6&#xBA; de la ley 18.480.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 173 Exenta, Econom&#xED;a, publicada el 08.10.2012 modifica la presente norma en el sentido de designar a don Juan Eduardo Chackiel Torres, como titular en la Comisi&#xF3;n T&#xE9;cnica a que se refiere el art&#xED;culo 6&#xBA; de la ley N&#xBA; 18.480, en representaci&#xF3;n del Banco Central.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-12-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8910426,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>resoluci&#xF3;n ministerial exenta N&#xBA; 40, de 13 de abril de 1992, de esta Secretar&#xED;a de Estado, en el sentido de designar a la se&#xF1;ora Gloria Pe&#xF1;a Tapia, como titular, y al se&#xF1;or Germ&#xE1;n Moya Rojas, como alterno, en representaci&#xF3;n del Banco Central en la Comisi&#xF3;n T&#xE9;cnica a que se refiere el art&#xED;culo 6&#xBA; de la ley 18.480.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 173 Exenta, Econom&#xED;a, publicada el 08.10.2012 modifica la presente norma en el sentido de designar a don Juan Eduardo Chackiel Torres, como titular en la Comisi&#xF3;n T&#xE9;cnica a que se refiere el art&#xED;culo 6&#xBA; de la ley N&#xBA; 18.480, en representaci&#xF3;n del Banco Central.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>resoluci&#xF3;n ministerial exenta N&#xBA; 40, de 13 de abril de 1992, de esta Secretar&#xED;a de Estado, en el <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>sentido de designar a la se&#xF1;ora Gloria Pe&#xF1;a Tapia, como titular, y al se&#xF1;or Germ&#xE1;n Moya Rojas, como alterno, en representaci&#xF3;n del Banco Central en la Comisi&#xF3;n T&#xE9;cnica a que se refiere el art&#xED;culo 6&#xBA; de la ley 18.480.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 173 Exenta, Econom&#xED;a, publicada el 08.10.2012 modifica la presente norma en el sentido de designar a don Juan Eduardo Chackiel Torres, como titular en la Comisi&#xF3;n T&#xE9;cnica a que se refiere el art&#xED;culo 6&#xBA; de la ley N&#xBA; 18.480, en representaci&#xF3;n del Banco Central.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xDA;nico de la Resoluci&#xF3;n 211 Exenta, Econom&#xED;a, publicada el 09.12.2015, modifica la presente norma en el sentido de designar a do&#xF1;a Ivette Alejandra Fern&#xE1;ndez Delgado, en car&#xE1;cter de representante titular y do&#xF1;a Mar&#xED;a Isabel M&#xE9;ndez Ferrada, en car&#xE1;cter de representante alterno del referido titular, ambos ante la Comisi&#xF3;n T&#xE9;cnica encargada de conocer las solicitudes de reconsideraci&#xF3;n de reintegro simplificado a los exportadores, en representaci&#xF3;n del Banco Central.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2017-07-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

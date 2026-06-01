@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1995-04-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-10-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8924041,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; F&#xED;jase el radio urbano de la ciudad de Santiago, entendi&#xE9;ndose comprendidas en &#xE9;ste las comunas que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; Quilicura, Pudahuel, Maip&#xFA;, San Bernardo, Puente Alto, La Florida, Pe&#xF1;alol&#xE9;n, La Reina, Las Condes, Lo Barnechea, Huechuraba, Conchal&#xED;, Renca, Independencia, Recoleta, Cerro Navia, Quinta Normal, Lo Prado, Estaci&#xF3;n Central, Santiago, Providencia, &#xD1;u&#xF1;oa, Macul, San Joaqu&#xED;n, San Miguel, Pedro Aguirre Cerda, Cerrillos, Lo Espejo, La Cisterna, San Ram&#xF3;n, La Granja, La Pintana, El Bosque y Vitacura.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; F&#xED;jase el radio urbano de la ciudad de Santiago, entendi&#xE9;ndose comprendidas en &#xE9;ste las comunas que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; Quilicura, Pudahuel, Maip&#xFA;, San Bernardo, Puente Alto, La Florida, Pe&#xF1;alol&#xE9;n, La Reina, Las Condes, Lo Barnechea, Huechuraba, Conchal&#xED;, Renca, Independencia, Recoleta, Cerro Navia, Quinta Normal, Lo Prado, Estaci&#xF3;n Central, Santiago, Providencia, &#xD1;u&#xF1;oa, Macul, San Joaqu&#xED;n, San Miguel, Pedro Aguirre Cerda, Cerrillos, Lo Espejo, La Cisterna, San Ram&#xF3;n, La Granja, La Pintana, El Bosque y Vitacura.</div><div class=\"p\">&nbsp; &nbsp; Para <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1197069&amp;idParte=10465008&amp;idVersion=2023-10-19\">Resoluci&#xF3;n 4128 EXENTA,<br>TRANSPORTES<br>D.O. 19.10.2023</a></span>efectos del Sistema de Transporte P&#xFA;blico de la provincia de Santiago y las comunas de San Bernardo y Puente Alto, el radio urbano aplicable comprender&#xE1; tambi&#xE9;n aquel establecido mediante resoluci&#xF3;n exenta N&#xB0; 3.963, de 2023, del Ministerio de Transportes y Telecomunicaciones, que determina un radio urbano espec&#xED;fico, seg&#xFA;n se indica, y sus modificaciones, o la resoluci&#xF3;n que en el futuro la reemplace.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1197069,
+      "fecha": "2023-10-19"
+    }
+  }
+]

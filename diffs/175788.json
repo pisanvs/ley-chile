@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-09-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-07-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6301608,
+          "old": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A CHILE CULTIVOS S.A.</div><br></div>",
+          "new": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A CHILE CULTIVOS S.A.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

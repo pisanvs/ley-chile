@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2010-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-06-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8890094,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  1. Rectif&#xED;quese el Llamado a concurso citado en la letra f) de los Vistos, en el sentido de excluir del presente concurso la comuna de San Bernardo, se&#xF1;alada en la letra a) de los Considerando.</div><div class=\"p\">&nbsp; &nbsp;  2. Rectif&#xED;quese la resoluci&#xF3;n exenta citada en la letra g) de los Vistos, en el sentido de excluir de la misma la localidad de San Ignacio y la frecuencia 100,1 MHz de la comuna de Coinco, se&#xF1;aladas en la letra b) de los Considerando, las que, en consecuencia, estar&#xE1;n disponibles en el concurso correspondiente al 1&#xBA; Cuatrimestre de 2010.</div><br></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>1. Rectif&#xED;quese el Llamado a concurso citado en la letra f) de los Vistos, en el sentido de excluir del presente concurso la comuna de San Bernardo, se&#xF1;alada en la letra a) de los Considerando.</div><div class=\"p\">&nbsp; &nbsp;  2. Rectif&#xED;quese la resoluci&#xF3;n exenta citada en la letra g) de los Vistos, en el sentido de excluir de la misma la localidad de San Ignacio y la frecuencia 100,1 MHz de la comuna de Coinco, se&#xF1;aladas en la letra b) de los Considerando, las que, en consecuencia, estar&#xE1;n disponibles en el concurso correspondiente al 1&#xBA; Cuatrimestre de 2010.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 3297 Exenta, Transportes, publicada el 24.06.2010, rectifica la presente norma en el sentido de de excluir del llamado a concurso p&#xFA;blico para el otorgamiento de concesiones de radiodifusi&#xF3;n sonora, correspondiente al primer cuatrimestre de 2010,las frecuencias correspondientes a solicitudes nuevas de concesiones de radiodifusi&#xF3;n sonora en frecuencia modulada, por no estar las mismas disponibles en el marco de dicho concurso, de acuerdo a lo establecido en sus Considerando.</div></div>"
+        }
+      ]
+    }
+  }
+]

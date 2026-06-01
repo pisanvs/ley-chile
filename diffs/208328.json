@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-03-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-04-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8368687,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Autor&#xED;zase al Sr. Gobernador Provincial de Valpara&#xED;so para usar privativamente en el desempe&#xF1;o de sus funciones el veh&#xED;culo individualizado en el art&#xED;culo anterior, el cual podr&#xE1; guardar en su domicilio particular adoptando los resguardos procedentes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Autor&#xED;zase al Sr. Gobernador Provincial de Valpara&#xED;so para usar privativamente en el desempe&#xF1;o de sus funciones el veh&#xED;culo individualizado en el art&#xED;culo anterior. El veh&#xED;culo se&#xF1;alado podr&#xE1;<span class=\"n\" id=\"n_0\">DTO 530 EXENTO,<br>INTERIOR<br>Art. &#xFA;nico<br>D.O. 24.04.2006</span> guardarse en el domicilio particular del Sr. Gobernador Provincial de Valpara&#xED;so, como tambi&#xE9;n en el domicilio del conductor de dicho servicio, ubicado en Poblaci&#xF3;n Villa Oriente, Pasaje Quell&#xF3;n, N&#xFA;mero 29, Sector Santa Julia, de Vi&#xF1;a del Mar, Provincia de Valpara&#xED;so, V Regi&#xF3;n, adopt&#xE1;ndose por sus responsables los resguardos correspondientes. </div></div>"
+        }
+      ]
+    }
+  }
+]

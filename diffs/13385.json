@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1991-12-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-12-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040376,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Instit&#xFA;yese el d&#xED;a 22 de Noviembre como D&#xED;a de la Educaci&#xF3;n Parvularia.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Instit&#xFA;yese el d&#xED;a 22 de Noviembre<span class=\"n\" id=\"n_0\">DTO 785, EDUCACION<br>Art. &#xFA;nico<br>D.O. 18.12.1993</span> como D&#xED;a de la Educaci&#xF3;n Parvularia y del Educador de P&#xE1;rvulos.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1993-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

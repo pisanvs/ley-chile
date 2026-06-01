@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-07-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8566580,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA SAN MIGUEL S.A. PARA SUSTITUIR EMBARCACIONES, QUE INDICA Y DEROGA RESOLUCIONES QUE SENALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA SAN MIGUEL S.A. PARA SUSTITUIR EMBARCACIONES, QUE INDICA Y DEROGA RESOLUCIONES QUE SENALA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-12-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-12-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9974595,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quese la <a href=\"https://www.leychile.cl/Navegar?idNorma=1109360&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 1.132/2017</a> citada en Vistos, en el sentido de prorrogar su vigencia hasta el d&#xED;a 30 de noviembre del a&#xF1;o 2019, sin perjuicio de que, en aquella fecha, este Director Regional puede determinar ampliaci&#xF3;n del plazo.</div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jese establecido, que en todo lo no modificado por el presente acto administrativo, rige plenamente la resoluci&#xF3;n exenta N&#xBA; 1.132/2017, publicada en el Diario Oficial con fecha 18 de octubre del a&#xF1;o 2017.</div><div class=\"p\">&nbsp; &nbsp;  3.- Incorp&#xF3;rese, dentro de las actividades a realizar por las &#xE1;reas regionales de Pesquer&#xED;as y de Gesti&#xF3;n de la Informaci&#xF3;n, Atenci&#xF3;n de Usuarios y Estad&#xED;sticas Sectoriales, una gesti&#xF3;n particular de acercamiento a la tecnolog&#xED;a y uso de las herramientas propias del Sistema de Trazabilidad, a objeto de propender por la disminuci&#xF3;n las brechas descritas en la parte considerativa.</div><div class=\"p\">&nbsp; &nbsp;  4.- Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial, considerando lo dispuesto en el art&#xED;culo 48 de la ley N&#xBA; 19.880, citada en Vistos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quese la resoluci&#xF3;n exenta N&#xBA; 1.132/2017 citada en Vistos, en el sentido de prorrogar su vigencia hasta el d&#xED;a 30 de noviembre del a&#xF1;o <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1139545&amp;idParte=10076230&amp;idVersion=2019-12-05\">Resoluci&#xF3;n 1934 EXENTA,<br>ECONOM&#xCD;A<br>N&#xB0; 1<br>D.O. 05.12.2019</a></span>2020, sin perjuicio de que, en aquella fecha, este Director Regional puede determinar ampliaci&#xF3;n del plazo.</div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jese establecido, que en todo lo no modificado por el presente acto administrativo, rige plenamente la resoluci&#xF3;n exenta N&#xBA; 1.132/2017, publicada en el Diario Oficial con fecha 18 de octubre del a&#xF1;o 2017.</div><div class=\"p\">&nbsp; &nbsp;  3.- Incorp&#xF3;rese, dentro de las actividades a realizar por las &#xE1;reas regionales de Pesquer&#xED;as y de Gesti&#xF3;n de la Informaci&#xF3;n, Atenci&#xF3;n de Usuarios y Estad&#xED;sticas Sectoriales, una gesti&#xF3;n particular de acercamiento a la tecnolog&#xED;a y uso de las herramientas propias del Sistema de Trazabilidad, a objeto de propender por la disminuci&#xF3;n las brechas descritas en la parte considerativa.</div><div class=\"p\">&nbsp; &nbsp;  4.- Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial, considerando lo dispuesto en el art&#xED;culo 48 de la ley N&#xBA; 19.880, citada en Vistos.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1139545,
+      "fecha": "2019-12-05"
+    }
+  }
+]

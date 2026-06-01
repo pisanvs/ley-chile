@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-04-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320457,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA COLOSO S.A. PARA AMPLIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE SE&#xD1;ALA.</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA COLOSO S.A. PARA AMPLIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE SE&#xD1;ALA.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

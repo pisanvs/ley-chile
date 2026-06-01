@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-04-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-12-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8352947,
+          "old": "<div><div class=\"p\">AUTORIZA A DON MARIO ACU&#xD1;A ME&#xD1;O PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON MARIO ACU&#xD1;A ME&#xD1;O PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2015-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-02-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9631336,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base la n&#xF3;mina de damnificados seleccionados para la asignaci&#xF3;n del subsidio habitacional regulado por el DS N&#xBA; 1 (V. y U.), de 2011, en la modalidad de adquisici&#xF3;n de viviendas correspondiente al mes de julio de 2015, para el llamado especial dispuesto por el resuelvo 1&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 2.822, de este Ministerio, de 2015, n&#xF3;mina que se entender&#xE1; forma parte integrante de esta resoluci&#xF3;n; y f&#xED;jase el n&#xFA;mero de subsidios asignados por regi&#xF3;n conforme se se&#xF1;ala en la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51795.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- F&#xED;jase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio directo para la atenci&#xF3;n de los damnificados asignados con subsidio habitacional a que se refiere el n&#xFA;mero anterior, por regi&#xF3;n seg&#xFA;n se se&#xF1;ala en la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51796.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base la n&#xF3;mina de damnificados seleccionados para la asignaci&#xF3;n del subsidio habitacional regulado por el DS N&#xBA; 1 (V. y U.), de 2011, en la modalidad de adquisici&#xF3;n de viviendas correspondiente al mes de julio de 2015, para el llamado especial dispuesto por el resuelvo 1&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 2.822, de este Ministerio, de 2015, n&#xF3;mina que se entender&#xE1; forma parte integrante de esta resoluci&#xF3;n; y f&#xED;jase el n&#xFA;mero de subsidios asignados por regi&#xF3;n conforme se se&#xF1;ala en la siguiente tabla:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1087699&amp;idParte=9677052&amp;idVersion=2016-02-18\">Resoluci&#xF3;n 1012 EXENTA,<br>VIVIENDA<br>N&#xB0; 3<br>D.O. 18.02.2016</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/55791.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- F&#xED;jase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio directo para la atenci&#xF3;n de los damnificados asignados con subsidio habitacional a que se refiere el n&#xFA;mero anterior, por regi&#xF3;n seg&#xFA;n se se&#xF1;ala en la siguiente tabla:</div><div class=\"p\">&nbsp;  <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1087699&amp;idParte=9677052&amp;idVersion=2016-02-18\">Resoluci&#xF3;n 1012 EXENTA,<br>VIVIENDA<br>N&#xB0; 3<br>D.O. 18.02.2016</a></span>&nbsp;  </div><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/55792.jpg\">.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1087699,
+      "fecha": "2016-02-18"
+    }
+  },
+  {
+    "fecha": "2016-03-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9631336,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base la n&#xF3;mina de damnificados seleccionados para la asignaci&#xF3;n del subsidio habitacional regulado por el DS N&#xBA; 1 (V. y U.), de 2011, en la modalidad de adquisici&#xF3;n de viviendas correspondiente al mes de julio de 2015, para el llamado especial dispuesto por el resuelvo 1&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 2.822, de este Ministerio, de 2015, n&#xF3;mina que se entender&#xE1; forma parte integrante de esta resoluci&#xF3;n; y f&#xED;jase el n&#xFA;mero de subsidios asignados por regi&#xF3;n conforme se se&#xF1;ala en la siguiente tabla:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1087699&amp;idParte=9677052&amp;idVersion=2016-02-18\">Resoluci&#xF3;n 1012 EXENTA,<br>VIVIENDA<br>N&#xB0; 3<br>D.O. 18.02.2016</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/55791.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- F&#xED;jase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio directo para la atenci&#xF3;n de los damnificados asignados con subsidio habitacional a que se refiere el n&#xFA;mero anterior, por regi&#xF3;n seg&#xFA;n se se&#xF1;ala en la siguiente tabla:</div><div class=\"p\">&nbsp;  <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1087699&amp;idParte=9677052&amp;idVersion=2016-02-18\">Resoluci&#xF3;n 1012 EXENTA,<br>VIVIENDA<br>N&#xB0; 3<br>D.O. 18.02.2016</a></span>&nbsp;  </div><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/55792.jpg\">.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base la n&#xF3;mina de damnificados seleccionados para la asignaci&#xF3;n del subsidio habitacional regulado por el DS N&#xBA; 1 (V. y U.), de 2011, en la modalidad de adquisici&#xF3;n de viviendas correspondiente al mes de julio de 2015, para el llamado especial dispuesto por el resuelvo 1&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 2.822, de este Ministerio, de 2015, n&#xF3;mina que se entender&#xE1; forma parte integrante de esta resoluci&#xF3;n; y f&#xED;jase el n&#xFA;mero de subsidios asignados por regi&#xF3;n conforme se se&#xF1;ala en la siguiente tabla:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1087699&amp;idParte=9677052&amp;idVersion=2016-02-18\">Resoluci&#xF3;n 1012 EXENTA,<br>VIVIENDA<br>N&#xB0; 3<br>D.O. 18.02.2016</a></span><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/55791.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- F&#xED;jase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio directo para la atenci&#xF3;n de los damnificados asignados con subsidio habitacional a que se refiere el n&#xFA;mero anterior, por regi&#xF3;n seg&#xFA;n se se&#xF1;ala en la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1087699&amp;idParte=9677052&amp;idVersion=2016-02-18\">Resoluci&#xF3;n 1012 EXENTA,<br>VIVIENDA<br>N&#xB0; 3<br>D.O. 18.02.2016</a></span>&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/55792.jpg\">.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 2&#xB0; de la Resoluci&#xF3;n 1824 Exenta, Vivienda, publicada el 29.03.2016, rectifica la regi&#xF3;n de preferencia consignada en los Certificados de Subsidio Habitacional Serie DS1T2 7-2015 NA00194, correspondiente a do&#xF1;a Lissette Alejandra Michea Vallejo, C&#xE9;dula de Identidad N&#xBA; 18.141.354-9 y Serie DS1T2 7-2015 NA00207, correspondiente a do&#xF1;a Daniela Nicole Jim&#xE9;nez Astorga, C&#xE9;dula de Identidad N&#xBA; 18.710.928-0, en el sentido de permitirles su aplicaci&#xF3;n en las Regiones de Coquimbo y Atacama, respectivamente.</div></div>"
+        }
+      ]
+    }
+  }
+]

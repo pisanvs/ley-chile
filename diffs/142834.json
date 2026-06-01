@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1999-09-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-11-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6189511,
+          "old": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DE IVA A PESQUERA LUIS ANDRADE S.A.</div><br><br></div>",
+          "new": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DE IVA A PESQUERA LUIS ANDRADE S.A.</div><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 6189512,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  La D&#xE9;cima Direcci&#xF3;n Regional Puerto Montt del Servicio de Impuestos Internos, por resoluci&#xF3;n N&#xBA; Ex. 503, de 20 de agosto de 1999, otorga, a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n y hasta el 31 de julio del a&#xF1;o 2000, a Pesquera Luis Andrade S.A., Rut N&#xBA;96.640.090-9, la calidad de agente retenedor del Impuesto al Valor Agregado en las operaciones de ganado vivo, establecido en la resoluci&#xF3;n N&#xBA; Ex. 5.088/99 de la Direcci&#xF3;n Nacional, publicada en el Diario Oficial del d&#xED;a 24.04.98.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  La D&#xE9;cima Direcci&#xF3;n Regional Puerto Montt del Servicio de Impuestos Internos, por resoluci&#xF3;n N&#xBA; Ex. 503, de 20 de agosto de 1999, otorga, a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n y hasta el 31 de julio del a&#xF1;o 2000, a Pesquera Luis Andrade S.A., Rut N&#xBA;96.640.090-0, la calidad de agente retenedor del<span class=\"n\" id=\"n_0\">RES 588 EXENTA<br>HACIENDA<br>D.O. 04.11.1999</span> Impuesto al Valor Agregado en las operaciones de ganado vivo, establecido en la resoluci&#xF3;n N&#xBA; Ex. 5.088/99 de la Direcci&#xF3;n Nacional, publicada en el Diario Oficial del d&#xED;a 24.04.98.- </div></div>"
+        }
+      ]
+    }
+  }
+]

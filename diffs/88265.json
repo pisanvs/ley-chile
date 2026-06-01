@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1990-10-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-02-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9001390,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: Esta facultad la aplicar&#xE1; el Ministerio de Educaci&#xF3;n, a trav&#xE9;s de los Secretarios Regionales Ministeriales de Educaci&#xF3;n, quienes deber&#xE1;n dictar la resoluci&#xF3;n respectiva, remitiendo copia a la Divisi&#xF3;n de Educaci&#xF3;n General.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: Esta facultad la aplicar&#xE1; el Ministerio de Educaci&#xF3;n, a trav&#xE9;s de los Secretarios Regionales Ministeriales de Educaci&#xF3;n, quienes deber&#xE1;n dictar la resoluci&#xF3;n respectiva, remitiendo copia a la Divisi&#xF3;n de Educaci&#xF3;n General. Asimismo aplicar&#xE1; esta facultad el Jefe de la<span class=\"n\" id=\"n_0\">DTO 776, EDUCACION<br>Art. &#xFA;nico<br>D.O. 06.02.1991</span> Divisi&#xF3;n de Educaci&#xF3;n General, cuando corresponda. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-10-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9001390,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: Esta facultad la aplicar&#xE1; el Ministerio de Educaci&#xF3;n, a trav&#xE9;s de los Secretarios Regionales Ministeriales de Educaci&#xF3;n, quienes deber&#xE1;n dictar la resoluci&#xF3;n respectiva, remitiendo copia a la Divisi&#xF3;n de Educaci&#xF3;n General. Asimismo aplicar&#xE1; esta facultad el Jefe de la<span class=\"n\" id=\"n_0\">DTO 776, EDUCACION<br>Art. &#xFA;nico<br>D.O. 06.02.1991</span> Divisi&#xF3;n de Educaci&#xF3;n General, cuando corresponda. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: Esta facultad la aplicar&#xE1; el Ministerio de Educaci&#xF3;n, a trav&#xE9;s de los Jefes de los<span class=\"n\" id=\"n_0\">DTO 307, EDUCACION<br>Art. &#xFA;nico<br>D.O. 16.10.2003</span> Departamentos Provinciales de Educaci&#xF3;n, quienes deber&#xE1;n dictar la resoluci&#xF3;n respectiva, remitiendo copia a la Divisi&#xF3;n de Educaci&#xF3;n General. Asimismo aplicar&#xE1; esta facultad el Jefe de la<span class=\"n\" id=\"n_1\">DTO 776, EDUCACION<br>Art. &#xFA;nico<br>D.O. 06.02.1991</span> Divisi&#xF3;n de Educaci&#xF3;n General, cuando corresponda. </div></div>"
+        }
+      ]
+    }
+  }
+]

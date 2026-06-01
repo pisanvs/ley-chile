@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-01-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-06-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9986594,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo sexto. Plazo. El t&#xE9;rmino para remitir los antecedentes requeridos por la presente instrucci&#xF3;n, es de 90 d&#xED;as h&#xE1;biles, contados desde de la publicaci&#xF3;n de la presente Instruccci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  En caso que los Planes de Prevenci&#xF3;n de Contingencias y/o de Emergencia sean actualizados y/o modificados, la versi&#xF3;n actualizada y/o modificada deber&#xE1; ser remitida a la Superintendencia del Medio Ambiente, dentro del plazo de 10 d&#xED;as h&#xE1;biles, a contar de la fecha de la actualizaci&#xF3;n o modificaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo sexto. Plazo. El t&#xE9;rmino para remitir los antecedentes<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> requeridos por la presente instrucci&#xF3;n, es de 90 d&#xED;as h&#xE1;biles, contados desde de la publicaci&#xF3;n de la presente Instruccci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  En caso que los Planes de Prevenci&#xF3;n de Contingencias y/o de Emergencia sean actualizados y/o modificados, la versi&#xF3;n actualizada y/o modificada deber&#xE1; ser remitida a la Superintendencia del Medio Ambiente, dentro del plazo de 10 d&#xED;as h&#xE1;biles, a contar de la fecha de la actualizaci&#xF3;n o modificaci&#xF3;n.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 760 Exenta, Medio Ambiente, publicada el 07.06.2019, dispone ampliar el plazo para remitir los antecedentes requeridos por la presente norma a 30 d&#xED;as h&#xE1;biles contados desde la publicaci&#xF3;n de la citada Resoluci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

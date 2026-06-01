@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2022-03-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10318251,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;. Decl&#xE1;rase como de desempe&#xF1;o de excelencia para los a&#xF1;os 2022 y 2023 y, en consecuencia, beneficiarios de la subvenci&#xF3;n establecida en el art&#xED;culo 15 de la ley N&#xB0; 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizan en el listado contenido en el archivo &quot;Listado EE Subvencionados seleccionados SNED 2022 - 2023&quot; con firma electr&#xF3;nica avanzada del CD con folio N&#xB0; 01/2022-2023, firmado por el Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, que se acompa&#xF1;a en anexo y que forma parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;. Decl&#xE1;rase como de desempe&#xF1;o de excelencia para los a&#xF1;os 2022 y 2023 y, en consecuencia, beneficiarios de la subvenci&#xF3;n establecida en el art&#xED;culo 15 de la ley N&#xB0; 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizan en los listados contenidos en los archivos <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1181265&amp;idParte=10364532&amp;idVersion=2022-09-13\">Resoluci&#xF3;n 4567 EXENTA, <br>EDUCACI&#xD3;N<br>Art. 2&#xB0; a)<br>D.O. 13.09.2022</a></span>con firma electr&#xF3;nica avanzada del CD con folio N&#xB0; 01/2022-2023 y del CD con folio N&#xB0; 02/2022-2023, ambos firmados por los jefes respectivos de la Divisi&#xF3;n de Educaci&#xF3;n General, que se acompa&#xF1;an en anexo y que forman parte integrante de la presente resoluci&#xF3;n.</div></div>"
+        },
+        {
+          "part_id": 10318256,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;. Por razones de econom&#xED;a, eficiencia y de buen servicio, el anexo que contiene la n&#xF3;mina de establecimientos educacionales subvencionados beneficiarios de la subvenci&#xF3;n por desempe&#xF1;o de excelencia ser&#xE1; distribuido en formato digital, por medio de una copia del CD a que refiere el art&#xED;culo 1&#xB0;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;. Por razones de econom&#xED;a, eficiencia y de buen servicio, el anexo que contiene la n&#xF3;mina de establecimientos educacionales subvencionados beneficiarios de la subvenci&#xF3;n por desempe&#xF1;o de excelencia ser&#xE1; distribuido en formato digital, por medio de una copia de<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1181265&amp;idParte=10364532&amp;idVersion=2022-09-13\">Resoluci&#xF3;n 4567 EXENTA, <br>EDUCACI&#xD3;N<br>Art. 2&#xB0; b)<br>D.O. 13.09.2022</a></span> los CD a los que se refiere el Art&#xED;culo 1&#xB0;.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1181265,
+      "fecha": "2022-09-13"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-08-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8348707,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO DE CERTIFICACION Y OTROS REQUISITOS SANITARIOS PARA LA IMPORTACION DE ESPECIES HIDROBIOLOGICAS. DEROGA DECRETOS EXENTOS N&#xBA; 75 DE 1996 Y N&#xBA; 480 DE&nbsp; 1998 Y DEJA SIN EFECTO D. N&#xBA; 237 DE 1999 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 325 exento.- Santiago, 18 de agosto de 1999.- Vistos: Lo informado por la Subsecretar&#xED;a de Pesca; lo dispuesto en el art&#xED;culo 32 N&#xBA; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; en el D.F.L. N&#xBA; 5 de 1983, y en el art&#xED;culo 11 de la Ley General de Pesca y Acuicultura N&#xBA; 18.892, cuyo texto refundido, coordinado y sistematizado fue fijado por D.S. N&#xBA; 430 de 1991; los decretos exentos N&#xBA; 75 de 1996 y N&#xBA; 480 de 1998, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que es un deber del Estado proteger el patrimonio sanitario del pa&#xED;s, para lo cual debe, entre otras medidas, prevenir la introducci&#xF3;n y/o propagaci&#xF3;n de enfermedades que puedan afectar a los recursos hidrobiol&#xF3;gicos.</div><br><div class=\"p\">&nbsp; &nbsp;  Que el cultivo y manejo de especies hidrobiol&#xF3;gicas en el pa&#xED;s, al igual que las enfermedades presentes tanto en Chile como en el extranjero, han experimentado un desarrollo que hace imprescindible actualizar los instrumentos de control que permitan cumplir con ese fin.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente reglamento de certificaci&#xF3;n y otros requisitos sanitarios para la importaci&#xF3;n de especies hidrobiol&#xF3;gicas:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO DE CERTIFICACION Y OTROS REQUISITOS SANITARIOS PARA LA IMPORTACION DE ESPECIES HIDROBIOLOGICAS. DEROGA DECRETOS EXENTOS N&#xBA; 75 DE 1996 Y N&#xBA; 480 DE 1998 Y DEJA SIN EFECTO D. N&#xBA; 237 DE 1999 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 325 exento.- Santiago, 18 de agosto de 1999.- Vistos: Lo informado por la Subsecretar&#xED;a de Pesca; lo dispuesto en el art&#xED;culo 32 N&#xBA; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; en el D.F.L. N&#xBA; 5 de 1983, y en el art&#xED;culo 11 de la Ley General de Pesca y Acuicultura N&#xBA; 18.892, cuyo texto refundido, coordinado y sistematizado fue fijado por D.S. N&#xBA; 430 de 1991; los decretos exentos N&#xBA; 75 de 1996 y N&#xBA; 480 de 1998, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que es un deber del Estado proteger el patrimonio sanitario del pa&#xED;s, para lo cual debe, entre otras medidas, prevenir la introducci&#xF3;n y/o propagaci&#xF3;n de enfermedades que puedan afectar a los recursos hidrobiol&#xF3;gicos.</div><br><div class=\"p\">&nbsp; &nbsp;  Que el cultivo y manejo de especies hidrobiol&#xF3;gicas en el pa&#xED;s, al igual que las enfermedades presentes tanto en Chile como en el extranjero, han experimentado un desarrollo que hace imprescindible actualizar los instrumentos de control que permitan cumplir con ese fin.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente reglamento de certificaci&#xF3;n y otros requisitos sanitarios para la importaci&#xF3;n de especies hidrobiol&#xF3;gicas:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

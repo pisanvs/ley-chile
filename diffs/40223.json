@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-05-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7202645,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DELEGA LA ATRIBUCION DE VISAR MEDIANTE RESOLUCION EXENTA LAS DONACIONES A QUE SE REFIERE EL ARTICULO 69 DE LA LEY N&#xB0; 18.681</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.628 exenta.- Santiago, 15 de Julio de 1993.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, es atribuci&#xF3;n del Ministerio de Educaci&#xF3;n visar, mediante resoluci&#xF3;n exenta, las donaciones efectuadas por los contribuyentes a las universidades e institutos profesionales estatales y particulares reconocidos por el Estado, seg&#xFA;n lo dispone el art&#xED;culo 69 de la Ley N&#xB0; 18.681 de 1987, reglamentado por el Decreto Supremo N&#xB0; 340 de 1988, conjunto de Hacienda y Educaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; Que, el Jefe Superior del Ministerio de Educaci&#xF3;n es el Ministro de Educaci&#xF3;n de conformidad a lo dispuesto en el art&#xED;culo 4&#xB0; de la Ley N&#xB0; 18.956, de 1990;</div><div class=\"p\">&nbsp; &nbsp; Que, es de conveniencia administrativa delegar la facultad del Ministro de Educaci&#xF3;n de visar dichas donaciones, mediante resoluci&#xF3;n exenta, en el Subsecretario de Educaci&#xF3;n; y,</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el art&#xED;culo 43 de la Ley N&#xB0; 18.575, de 1986; art&#xED;culo 69 de la Ley N&#xB0; 18.681, de 1987; Decreto Supremo N&#xB0; 340 de 1988, conjunto de Hacienda y Educaci&#xF3;n; art&#xED;culos 3&#xB0; letra b), 4&#xB0;, 5&#xB0; y 6&#xB0; de la Ley N&#xB0; 18.956, de 1990; y, Resoluci&#xF3;n N&#xB0; 55 de la Contralor&#xED;a General de la Rep&#xFA;blica, de 1992;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DELEGA LA ATRIBUCION DE VISAR MEDIANTE RESOLUCION EXENTA LAS DONACIONES A QUE SE REFIERE EL ARTICULO 69 DE LA LEY N&#xB0; 18.681</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.628 exenta.- Santiago, 15 de Julio de 1993.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, es atribuci&#xF3;n del Ministerio de Educaci&#xF3;n visar, mediante resoluci&#xF3;n exenta, las donaciones efectuadas por los contribuyentes a las universidades e institutos profesionales estatales y particulares reconocidos por el Estado, seg&#xFA;n lo dispone el art&#xED;culo 69 de la Ley N&#xB0; 18.681 de 1987, reglamentado por el Decreto Supremo N&#xB0; 340 de 1988, conjunto de Hacienda y Educaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; Que, el Jefe Superior del Ministerio de Educaci&#xF3;n es el Ministro de Educaci&#xF3;n de conformidad a lo dispuesto en el art&#xED;culo 4&#xB0; de la Ley N&#xB0; 18.956, de 1990;</div><div class=\"p\">&nbsp; &nbsp; Que, es de conveniencia administrativa delegar la facultad del Ministro de Educaci&#xF3;n de visar dichas donaciones, mediante resoluci&#xF3;n exenta, en el Subsecretario de Educaci&#xF3;n; y,</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el art&#xED;culo 43 de la Ley N&#xB0; 18.575, de 1986; art&#xED;culo 69 de la Ley N&#xB0; 18.681, de 1987; Decreto Supremo N&#xB0; 340 de 1988, conjunto de Hacienda y Educaci&#xF3;n; art&#xED;culos 3&#xB0; letra b), 4&#xB0;, 5&#xB0; y 6&#xB0; de la Ley N&#xB0; 18.956, de 1990; y, Resoluci&#xF3;n N&#xB0; 55 de la Contralor&#xED;a General de la Rep&#xFA;blica, de 1992;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

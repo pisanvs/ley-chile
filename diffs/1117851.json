@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-04-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-11-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9908455,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: Des&#xED;gnase, a contar de la fecha del presente decreto, a don Juan Eduardo Vargas Duhart, RUN N&#xBA; 12.797.816-6, Jefe de la Divisi&#xF3;n de Educaci&#xF3;n Superior del Ministerio de Educaci&#xF3;n, como representante del Ministro de Educaci&#xF3;n ante el Consejo de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: Derogad<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1125711&amp;idParte=9969665&amp;idVersion=2018-11-22\">Decreto 821 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 2<br>D.O. 22.11.2018</a></span>o.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1125711,
+      "fecha": "2018-11-22"
+    }
+  }
+]

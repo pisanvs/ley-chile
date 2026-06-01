@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1992-09-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8952920,
+          "old": "<div><div class=\"p\">FIJA RADIO URBANO QUE INDICA</div><br><div class=\"p\">N&#xFA;m.31 exenta.- Valpara&#xED;so, 28 de Agosto de 1992.- Visto: El decreto Supremo No.72, de 1991, del Ministerio de Transporte y Telecomunicaciones, Subsecretar&#xED;a de Transportes, </div><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA RADIO URBANO QUE INDICA</div><br><div class=\"p\">N&#xFA;m.31 exenta.- Valpara&#xED;so, 28 de Agosto de 1992.- Visto: El decreto Supremo No.72, de 1991, del Ministerio de Transporte y Telecomunicaciones, Subsecretar&#xED;a de Transportes, </div><div class=\"p\">Resuelvo:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8952921,
+          "old": "<div><div class=\"p\">Para estos efectos del D.S No.72, del 11 de Abril de 1991, Reglamento del Registro Nacional de Servicios de Transporte de Pasajeros, f&#xED;jase como radio urbano de conglomerado de ciudades constituido por Valpara&#xED;so, Vi&#xF1;a del mar, Quilpu&#xE9; y Villa Alemana, el comprendido dentro del per&#xED;metro que se&#xF1;ala a continuaci&#xF3;n:</div><br><div class=\"p\">Norte: Eje del R&#xED;o Aconcagua frente a la localidad de Conc&#xF3;n urbana e industrial, por Ruta 2A5 hasta la variante Torquemada.</div><br><div class=\"p\">Sur: Desde la localidad de Laguna Verde, Camino Laguna Verde, Camino La p&#xF3;lvora, Camino Viejo a Santiago hasta empalme con Ruta 68, Ruta 68, Placilla Oriente, Ruta 68, Ruta 66 hasta el cruce con el l&#xED;mite urbano Sur-Suroriente de Vi&#xF1;a del Mar, Sur del Estero Marga Marga, L&#xED;mite urbano Sur de Quilpu&#xE9; y Villa Alemana hasta el emplame en el sector de Pe&#xF1;ablanca con el camino troncal existente.</div><br><div class=\"p\">Este: Desde v&#xED;a Torquemada con cruce Ruta 2A5 al Sur hasta emplame con Ruta Internacional, Ruta internacional, acceso Re&#xF1;aca Alto, por per&#xED;metro de la Pob. Re&#xF1;aca Alto, por per&#xED;metro Pob. Loma Latorre, por per&#xED;metro Pob. Santa Julia, por per&#xED;metro de Pob. Villa Independencia, por per&#xED;metro Pob. El Olivar, por per&#xED;metro Pob. Vista Hermosa, l&#xED;mite Urbano Norte de Quilpu&#xE9; y Villa Alemana hasta empalme en el sector de Pe&#xF1;ablanca con el camino troncal existente.</div><br><div class=\"p\">Oeste: El Mar de Chile, desde la desembocadura del R&#xED;o Aconcagua hasta la localidad de Laguna Verde, inclusive. </div></div>",
+          "new": "<div><div class=\"p\">Para estos efectos del D.S No.72, del 11 de Abril de 1991, Reglamento del Registro Nacional de Servicios de Transporte de Pasajeros, f&#xED;jase como radio urbano de conglomerado de ciudades constituido por Valpara&#xED;so, Vi&#xF1;a del mar, Quilpu&#xE9; y Villa Alemana, el comprendido dentro del per&#xED;metro que se&#xF1;ala a continuaci&#xF3;n: Norte: Eje del R&#xED;o Aconcagua frente a la comuna de<span class=\"n\" id=\"n_0\">RES 1156 EXENTA,<br>TRANSPORTES<br>D.O. 02.08.2003</span> Con Con, urbana e industrial, hasta el l&#xED;mite comunal de Limache. Sur: Laguna Verde, camino Laguna Verde, l&#xED;mite sur de la zona urbana consolidada de Curauma, sector industrial de Placilla de Pe&#xF1;uelas, Tranque Las Cenizas, Ruta 68 con empalme Ruta V&#xED;a Las Palmas, l&#xED;mite urbano sur de la comuna de Quilpu&#xE9; y Villa Alemana. Este: L&#xED;mite intercomunal oriente de Con Con, Vi&#xF1;a del Mar, Quilpu&#xE9; y Villa Alemana con la comuna de Limache. Oeste: El Mar de Chile, desde la desembocadura del R&#xED;o Aconcagua hasta la localidad de Laguna Verde, inclusive. </div></div>"
+        }
+      ]
+    }
+  }
+]

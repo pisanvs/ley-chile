@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-07-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8332089,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Fac&#xFA;ltase a don H&#xE9;ctor Enrique Valdebenito del Pino, Rut. 1.891.554-5, apoderado de la beneficiaria, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente decreto supremo se imputar&#xE1; al &#xED;tem &apos;&apos;Jubilaciones, Pensiones y Montep&#xED;os&apos;&apos;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Fac&#xFA;ltase a don H&#xE9;ctor Enrique<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Valdebenito del Pino, Rut. 1.891.554-5, apoderado de la beneficiaria, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente decreto supremo se imputar&#xE1; al &#xED;tem &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 81, Interior, publicado el 05.04.2001, dej&#xF3; sin efecto esta facultad, otorg&#xE1;ndosela a don Julio C&#xE9;sar Castillo Moya, RUT 3.747.176-3.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

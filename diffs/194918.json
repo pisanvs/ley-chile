@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-02-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7430830,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Para los efectos del c&#xE1;lculo de las tasas de inter&#xE9;s se&#xF1;aladas en el inciso cuarto del art&#xED;culo 64 del decreto ley N&#xBA; 3.500, de 1980, aplicables durante los primeros doce meses de operaciones de los Fondos Tipo D, se utilizar&#xE1; la rentabilidad promedio del Fondo Tipo C de la Administradora respectiva, utilizada el a&#xF1;o anterior al inicio de las operaciones del Fondo Tipo D. Para los per&#xED;odos siguientes, se considerar&#xE1; adem&#xE1;s, en el c&#xE1;lculo de la rentabilidad promedio, la rentabilidad efectiva del Fondo Tipo D de que se trate.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xB0;: Para los efectos del c&#xE1;lculo de las<span class=\"n\" id=\"n_0\">LEY 19934<br>Art. 6&#xBA; Transitorio<br>D.O. 21.02.2004</span> tasas de inter&#xE9;s de descuento se&#xF1;aladas en el inciso cuarto del art&#xED;culo 64 del decreto ley N&#xBA; 3.500, de 1980, aplicables durante los primeros doce meses de<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> operaciones de los Fondos Tipo A, B y D, se utilizar&#xE1; la</div><div class=\"p\">rentabilidad promedio ponderada&nbsp; de todos los&nbsp; Fondos Tipo C del Sistema, obtenida el a&#xF1;o anterior al inicio de las operaciones de dichos tipos de Fondo. Para los per&#xED;odos siguientes, se considerar&#xE1; adem&#xE1;s, en el c&#xE1;lculo de la rentabilidad promedio, la rentabilidad efectiva del Sistema para cada uno de dichos tipos de Fondos.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; Transitorio de la LEY 19934, publicada 21.02.2004, dispone que las modificaciones al presente art&#xED;culo entrar&#xE1;n en vigencia ciento ochenta d&#xED;as despu&#xE9;s de su publicaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

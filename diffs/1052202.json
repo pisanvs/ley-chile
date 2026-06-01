@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-06-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-12-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9361503,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Des&#xED;gnanse, por el per&#xED;odo de cuatro a&#xF1;os a contar de esta fecha, como directores de la Corporaci&#xF3;n Nacional del Cobre de Chile (Codelco), en virtud de lo dispuesto en el Art. 8&#xB0;, letra c), del DL 1.350, de 1976, a los se&#xF1;ores Juan Gerardo Jofr&#xE9; Miranda, rol &#xFA;nico nacional n&#xFA;mero 5.672.444-3, y Radomiro Blas Tomic Err&#xE1;zuriz, rol &#xFA;nico nacional n&#xFA;mero 5.390.891-8.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Des&#xED;gnanse, por el per&#xED;odo de cuatro a&#xF1;os a contar de esta fecha, como directores de la<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> Corporaci&#xF3;n Nacional del Cobre de Chile (Codelco), en virtud de lo dispuesto en el Art. 8&#xB0;, letra c), del DL 1.350, de 1976, a los se&#xF1;ores Juan Gerardo Jofr&#xE9; Miranda, rol &#xFA;nico nacional n&#xFA;mero 5.672.444-3, y Radomiro Blas Tomic Err&#xE1;zuriz, rol &#xFA;nico nacional n&#xFA;mero 5.390.891-8.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto 56, Miner&#xED;a, publicado el 07.12.2017, modifica los art&#xED;culos primero y segundo de la presente norma&nbsp; el sentido de indicar que las designaciones decretadas de los se&#xF1;ores Juan Gerardo Jofr&#xE9; Miranda y Radomiro Blas Tomic Err&#xE1;zuriz, comenzaron a contar del d&#xED;a 11 de mayo de 2013.</div></div>"
+        }
+      ]
+    }
+  }
+]

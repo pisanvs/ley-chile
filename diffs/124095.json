@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1982-01-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-01-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9001914,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Cr&#xE9;ase una Comisi&#xF3;n Especial para asesorar al Presidente de la Rep&#xFA;blica en el estudio de las peticiones anteriores, integrada por:</div><div class=\"p\">&nbsp; &nbsp;  a) Un representante del Ministro del Interior, quien la presidir&#xE1;.</div><div class=\"p\">&nbsp; &nbsp;  b) Un representante del Ministro de Hacienda.</div><div class=\"p\">&nbsp; &nbsp;  c) Un representante del Ministro del Trabajo y Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp;  d) Un representante del Ministro Jefe del Estado Mayor Presidencial.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n sesionar&#xE1; con tres de sus miembros, a lo menos.</div><div class=\"p\">&nbsp; &nbsp;  A las sesiones asistir&#xE1; igualmente el Funcionario del Ministerio del Interior que se desempe&#xF1;e como Secretario de la Comisi&#xF3;n Especial, quien llevar&#xE1; la tramitaci&#xF3;n administrativa de las solicitudes y el acta de las reuniones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Cr&#xE9;ase una Comisi&#xF3;n Especial para asesorar al Presidente de la Rep&#xFA;blica en el estudio de las peticiones anteriores, integrada por:</div><div class=\"p\">&nbsp; &nbsp;  a)Seis representantes del Ministro del Interior, uno<span class=\"n\" id=\"n_0\">DTO 1795, INTERIOR<br>Art. cuarto N&#xB0; 1<br>D.O. 14.01.1994</span> de los cuales la presidir&#xE1;.</div><div class=\"p\">&nbsp; &nbsp;  b) Un representante del Ministro de Hacienda.</div><div class=\"p\">&nbsp; &nbsp;  c) Un representante del Ministro del Trabajo y<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:</a></div> Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp;  d) Un representante del Ministro Jefe del Estado Mayor Presidencial.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n sesionar&#xE1; con cinco de sus miembros, a<span class=\"n\" id=\"n_1\">DTO 1795, INTERIOR<br>Art. cuarto N&#xB0; 2<br>D.O. 14.01.1994</span> lo menos.</div><div class=\"p\">&nbsp; &nbsp;  A las sesiones asistir&#xE1; igualmente el Funcionario del Ministerio del Interior que se desempe&#xF1;e como Secretario de la Comisi&#xF3;n Especial, quien llevar&#xE1; la tramitaci&#xF3;n administrativa de las solicitudes y el acta de las reuniones.</div><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 754, Interior, publicado el 05.07.1994, modific&#xF3; la integraci&#xF3;n de la Comisi&#xF3;n creada por este art&#xED;culo, y derog&#xF3; el art&#xED;culo cuarto del DTO 1795 que introdujo las modificaciones incorporadas.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2001-04-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9001914,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Cr&#xE9;ase una Comisi&#xF3;n Especial para asesorar al Presidente de la Rep&#xFA;blica en el estudio de las peticiones anteriores, integrada por:</div><div class=\"p\">&nbsp; &nbsp;  a)Seis representantes del Ministro del Interior, uno<span class=\"n\" id=\"n_0\">DTO 1795, INTERIOR<br>Art. cuarto N&#xB0; 1<br>D.O. 14.01.1994</span> de los cuales la presidir&#xE1;.</div><div class=\"p\">&nbsp; &nbsp;  b) Un representante del Ministro de Hacienda.</div><div class=\"p\">&nbsp; &nbsp;  c) Un representante del Ministro del Trabajo y<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:</a></div> Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp;  d) Un representante del Ministro Jefe del Estado Mayor Presidencial.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n sesionar&#xE1; con cinco de sus miembros, a<span class=\"n\" id=\"n_1\">DTO 1795, INTERIOR<br>Art. cuarto N&#xB0; 2<br>D.O. 14.01.1994</span> lo menos.</div><div class=\"p\">&nbsp; &nbsp;  A las sesiones asistir&#xE1; igualmente el Funcionario del Ministerio del Interior que se desempe&#xF1;e como Secretario de la Comisi&#xF3;n Especial, quien llevar&#xE1; la tramitaci&#xF3;n administrativa de las solicitudes y el acta de las reuniones.</div><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 754, Interior, publicado el 05.07.1994, modific&#xF3; la integraci&#xF3;n de la Comisi&#xF3;n creada por este art&#xED;culo, y derog&#xF3; el art&#xED;culo cuarto del DTO 1795 que introdujo las modificaciones incorporadas.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Cr&#xE9;ase una Comisi&#xF3;n Especial para asesorar al Presidente de la Rep&#xFA;blica en el estudio de las peticiones anteriores, integrada por:</div><div class=\"p\">&nbsp; &nbsp;  a)Seis representantes del Ministro del Interior,<span class=\"n\" id=\"n_0\">DTO 1795, INTERIOR<br>Art. cuarto N&#xB0; 1<br>D.O. 14.01.1994</span> uno de los cuales la presidir&#xE1;. b) Un representante del Ministro de Hacienda. c) Un representante del Ministro del Trabajo y<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:</a></div> Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp;  d) Un representante del Ministro Jefe del Estado Mayor Presidencial.</div><div class=\"p\">&nbsp; &nbsp;  e) Un representante designado a propuesta del<span class=\"n\" id=\"n_1\">DTO 3473, INTERIOR<br>Art. &#xFA;nico<br>D.O. 19.04.2001<br>DTO 1795, INTERIOR<br>Art. cuarto N&#xB0; 2<br>D.O. 14.01.1994</span> o la c&#xF3;nyuge del Presidente de la Rep&#xFA;blica. La Comisi&#xF3;n sesionar&#xE1; con cinco de sus miembros, a lo menos. A las sesiones asistir&#xE1; igualmente el Funcionario del Ministerio del Interior que se desempe&#xF1;e como Secretario de la Comisi&#xF3;n Especial, quien llevar&#xE1; la tramitaci&#xF3;n administrativa de las solicitudes y el acta de las reuniones.</div><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 754, Interior, publicado el 05.07.1994, modific&#xF3; la integraci&#xF3;n de la Comisi&#xF3;n creada por este art&#xED;culo, y derog&#xF3; el art&#xED;culo cuarto del DTO 1795 que introdujo las modificaciones incorporadas. </div></div>"
+        }
+      ]
+    }
+  }
+]

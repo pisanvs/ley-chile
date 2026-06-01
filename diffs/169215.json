@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-05-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6276952,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA;119 EXENTA, DE 2000</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 521 exenta.- Santiago, 22 de mayo de 2000.- Visto: Lo dispuesto en el art&#xED;culo 76&#xB0;, del DS 212/92 del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que efectuada las evaluaciones de rigor, se ha podido establecer que el tiempo inicialmente considerado para la entrada en vigencia en la Regi&#xF3;n Metropolitana de la exigencia consistente en que todos los taxis colectivos rurales deban estar pintados de amarillo ha resultado insuficiente, debido especialmente al gran n&#xFA;mero de veh&#xED;culos involucrados as&#xED; como a las complejidades propias en la implementaci&#xF3;n por primera vez de una medida de estas caracter&#xED;sticas.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA;119 EXENTA, DE 2000</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 521 exenta.- Santiago, 22 de mayo de 2000.- Visto: Lo dispuesto en el art&#xED;culo 76&#xB0;, del DS 212/92 del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que efectuada las evaluaciones de rigor, se ha podido establecer que el tiempo inicialmente considerado para la entrada en vigencia en la Regi&#xF3;n Metropolitana de la exigencia consistente en que todos los taxis colectivos rurales deban estar pintados de amarillo ha resultado insuficiente, debido especialmente al gran n&#xFA;mero de veh&#xED;culos involucrados as&#xED; como a las complejidades propias en la implementaci&#xF3;n por primera vez de una medida de estas caracter&#xED;sticas.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

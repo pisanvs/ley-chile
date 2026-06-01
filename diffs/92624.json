@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-10-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8322073,
+          "old": "<div><div class=\"p\">AUTORIZA A COMPA&#xD1;IA PESQUERA SAN PEDRO S.A.C.I. PARA AMPLIAR ACTIVIDADES PESQUERAS. DECLARA CADUCIDAD DE RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><br><div class=\"p\">AUTORIZA A COMPA&#xD1;IA PESQUERA SAN PEDRO S.A.C.I. PARA AMPLIAR ACTIVIDADES PESQUERAS. DECLARA CADUCIDAD DE RESOLUCION QUE INDICA</div><br></div>"
+        }
+      ]
+    }
+  }
+]

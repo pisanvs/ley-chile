@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1998-02-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-03-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325852,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 53, de 19 de enero de 1998, de esta Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, ampl&#xED;ase por un a&#xF1;o, contado desde el 1&#xBA; de marzo de 1997, el plazo para reiniciar operaciones con la nave &quot;La Victoria&quot;, autorizada a SOCIEDAD PESQUERA BRAC S.A., en virtud de haberse acreditado una circunstancia de fuerza mayor. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 53, de 19 de enero de 1998, de esta Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, ampl&#xED;ase por un a&#xF1;o, contado desde el 13 de noviembre de 1997, el plazo para reiniciar<span class=\"n\" id=\"n_0\">RES 315, ECONOMIA<br>D.O. 23.03.1998</span> operaciones con la nave &quot;La Victoria&quot;, autorizada a SOCIEDAD PESQUERA BRAC S.A., en virtud de haberse acreditado una circunstancia de fuerza mayor. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2000-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1988-06-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-12-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002236,
+          "old": "<div><div class=\"p\">DESIGNA COMO RECEPTOR JUDICIAL A FUNCIONARIO QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 44.- Santiago, 28 de Abril de 1988.- Vistos: Lo dispuesto en el art&#xED;culo 11 del Decreto Ley No. 2.974 de 1979,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA COMO RECEPTOR JUDICIAL A FUNCIONARIO QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 44.- Santiago, 28 de Abril de 1988.- Vistos: Lo dispuesto en el art&#xED;culo 11 del Decreto Ley No. 2.974 de 1979,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9002237,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase como Receptor Judicial para que permanentemente practique las actuaciones inherentes a ese cargo en los juicios que se tramitan ante los Juzgados de Polic&#xED;a Local, en conformidad a las disposiciones del Decreto Ley citado, en la Novena Regi&#xF3;n, al se&#xF1;or:</div><div class=\"p\">&nbsp; &nbsp;  Sergio Reyes Tatin.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase como Receptor Judicial para que permanentemente practique las actuaciones inherentes a ese cargo en los juicios que se tramitan ante los Juzgados de Polic&#xED;a Local, en conformidad a las disposiciones del Decreto Ley citado, en la Novena Regi&#xF3;n, al se&#xF1;or: ELIMINADO.<span class=\"n\" id=\"n_0\">RES 490, AGRICULTURA<br>D.O. 15.12.2004</span> </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2005-04-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002237,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase como Receptor Judicial para que permanentemente practique las actuaciones inherentes a ese cargo en los juicios que se tramitan ante los Juzgados de Polic&#xED;a Local, en conformidad a las disposiciones del Decreto Ley citado, en la Novena Regi&#xF3;n, al se&#xF1;or: ELIMINADO.<span class=\"n\" id=\"n_0\">RES 490, AGRICULTURA<br>D.O. 15.12.2004</span> </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase como Receptor Judicial para que permanentemente practique las actuaciones inherentes a ese cargo en los juicios que se tramitan ante los Juzgados de Polic&#xED;a Local, en conformidad a las disposiciones del Decreto Ley citado, en la Novena Regi&#xF3;n, al se&#xF1;or:</div><div class=\"p\">&nbsp; &nbsp;  ELIMINADO.<span class=\"n\" id=\"n_0\">RES 490, AGRICULTURA<br>D.O. 15.12.2004</span></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 67, Agricultura, publicada el 30.04.2005, reitera la eliminaci&#xF3;n de don Sergio Tob&#xED;as Reyes, como Receptor Judicial de la IX Regi&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

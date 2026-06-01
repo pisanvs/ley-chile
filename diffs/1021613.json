@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-11-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9089394,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Restricci&#xF3;n de la competencia de los tribunales militares. En ning&#xFA;n caso, los civiles y los menores de edad estar&#xE1;n sujetos a la competencia de los tribunales militares. &#xC9;sta siempre se radicar&#xE1; en los tribunales ordinarios con competencia en materia penal.</div><div class=\"p\">&nbsp; &nbsp;  Para estos efectos, se entender&#xE1; que civil es una persona que no reviste la calidad de militar, de acuerdo al <a href=\"https://www.leychile.cl/Navegar?idNorma=18914&amp;idParte=8632569&amp;idVersion=\">art&#xED;culo 6&#xBA; del C&#xF3;digo de Justicia Militar</a>.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Restricci&#xF3;n de la competencia de los tribunales militares. En ning&#xFA;n caso, los civiles y los<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1096847&amp;idParte=9747822&amp;idVersion=2016-11-22\">Ley 20968<br>Art. 5<br>D.O. 22.11.2016</a></span> menores de edad, que revistan la calidad de v&#xED;ctimas o de imputados, estar&#xE1;n sujetos a la competencia de los tribunales militares. &#xC9;sta siempre se radicar&#xE1; en los tribunales ordinarios con competencia en materia penal.</div><div class=\"p\">&nbsp; &nbsp;  Para estos efectos, se entender&#xE1; que civil es una persona que no reviste la calidad de militar, de acuerdo al art&#xED;culo 6&#xBA; del C&#xF3;digo de Justicia Militar.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1096847,
+      "fecha": "2016-11-22"
+    }
+  }
+]

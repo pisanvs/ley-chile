@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-06-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6155584,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 692, DE 1988 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 692, DE 1988 </div><br></div>"
+        }
+      ]
+    }
+  }
+]

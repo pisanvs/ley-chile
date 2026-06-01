@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1968-11-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-10-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8955799,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1.o- En ning&#xFA;n caso la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n podr&#xE1; reajustar los cr&#xE9;ditos otorgados para compra de maquinaria agr&#xED;cola en m&#xE1;s de un 300% del valor original, incluido intereses, salvo los penales, cualquiera que sea su plazo.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1.o- DEROGADO<span class=\"n\" id=\"n_0\">DL 685, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 14.10.1974</span></div><br></div>"
+        },
+        {
+          "part_id": 8955800,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o- Los intereses y multas a que est&#xE9;n afectos los cr&#xE9;ditos otorgados por la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n no est&#xE1;n afectos a reajustes de ninguna naturaleza.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o- DEROGADO<span class=\"n\" id=\"n_1\">DL 685, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 14.10.1974</span></div><br></div>"
+        },
+        {
+          "part_id": 8955801,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3.o- Las liquidaciones de cr&#xE9;ditos agr&#xED;colas reajustables que efect&#xFA;a la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n con car&#xE1;cter de provisorias no podr&#xE1;n ser alteradas con la aplicaci&#xF3;n de un &#xED;ndice de reajuste superior al empleado en ellas.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3.o- DEROGADO<span class=\"n\" id=\"n_2\">DL 685, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 14.10.1974</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

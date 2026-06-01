@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1973-08-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1973-11-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845551,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3.&#xB0;- Los ingresos que las leyes destinan al financiamiento de la Junta de Adelanto de Arica, ser&#xE1;n depositados por el Tesorero Comunal de Arica tan pronto como se recauden, en una cuenta corriente subsidiaria de la Cuenta Unica Fiscal, contra la cual podr&#xE1; girar directamente la Junta de Adelanto de Arica.</div><div class=\"p\">&nbsp; &nbsp; Igual procedimiento se seguir&#xE1; respecto de los aportes que el Fisco deba efectuar a la Junta de Adelanto de Arica.</div><div class=\"p\">&nbsp; &nbsp; La Junta de Adelanto de Arica y el Banco del Estado de Chile, podr&#xE1;n convenir modalidades especiales para la utilizaci&#xF3;n de los recursos de la Junta, que sean depositados en la cuenta a que se refiere el inciso primero de este art&#xED;culo, especialmente en lo que dice relaci&#xF3;n con el pago de intereses sobre los saldos que se produzcan en ella, as&#xED; como el otorgamiento de cr&#xE9;ditos a favor de la Junta de Adelanto de Arica. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.&#xB0;- SUPRIMIDO<span class=\"n\" id=\"n_0\">DL 155, HACIENDA<br>Art. 6&#xBA;<br>D.O. 29.11.1973</span></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 6&#xBA; del DL 155, Hacienda, dispone que la derogaci&#xF3;n de este art&#xED;culo regir&#xE1; a contar del 1&#xB0; de enero de 1974.<br></div></div>"
+        },
+        {
+          "part_id": 8845552,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4.&#xB0;- Lo dispuesto en los art&#xED;culos anteriores ser&#xE1; aplicable, al igual que para la Junta de Adelanto de Arica, a la Corporaci&#xF3;n de Magallanes y dem&#xE1;s organismos p&#xFA;blicos de desarrollo regional.</div><div class=\"p\">&nbsp; &nbsp; Los Tesoreros provinciales o comunales ser&#xE1;n los responsables de depositar los recursos que correspondan a los organismos de desarrollo regional en sus respectivas cuentas corrientes tan pronto aqu&#xE9;llos se recauden.</div><div class=\"p\">&nbsp; &nbsp; La Contralor&#xED;a General de la Rep&#xFA;blica examinar&#xE1; y juzgar&#xE1; las cuentas de la Corporaci&#xF3;n de Magallanes, pero sus resoluciones no estar&#xE1;n sujetas al tr&#xE1;mite de toma de raz&#xF3;n por parte de aquella instituci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4.&#xB0;- Lo dispuesto en los art&#xED;culos anteriores ser&#xE1; aplicable, al igual que para la Junta de Adelanto de Arica, a la Corporaci&#xF3;n de Magallanes y dem&#xE1;s organismos p&#xFA;blicos de desarrollo regional.</div><div class=\"p\">&nbsp; &nbsp;  INCISO SUPRIMIDO<span class=\"n\" id=\"n_2\">DL 155, HACIENDA<br>Art. 6&#xBA;<br>D.O. 29.11.1974</span></div><div class=\"p\">&nbsp; &nbsp; La Contralor&#xED;a General de la Rep&#xFA;blica examinar&#xE1; y juzgar&#xE1; las cuentas de la Corporaci&#xF3;n de Magallanes, pero sus resoluciones no estar&#xE1;n sujetas al tr&#xE1;mite de<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:</a></div> toma de raz&#xF3;n por parte de aquella instituci&#xF3;n.</div><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 6&#xBA; del DL 155, Hacienda, dispone que la modificaci&#xF3;n de este art&#xED;culo regir&#xE1; a contar del 1&#xB0; de enero de 1974.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1974-04-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845559,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11.&#xB0;- El Ministerio de Tierras y Colonizaci&#xF3;n transferir&#xE1; al Sindicato Unico de Trabajadores de la Educaci&#xF3;n (SUTE), filial Arica, a t&#xED;tulo gratuito, los lotes n&#xFA;meros 1, 2 y 3 del Plano N.&#xB0; 1.454, con una superficie total aproximada de 5.413,40 metros cuadrados, con el objeto espec&#xED;fico de destinar este inmueble al cumplimiento de la ley N.&#xB0; 17.382, en lo referente a la construcci&#xF3;n de la Casa del Maestro y la Cultura y sus obras complementarias. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11.&#xB0;- DEROGADO<span class=\"n\" id=\"n_4\">DL 395, TIERRAS<br>Art. &#xFA;nico<br>D.O. 06.04.1974</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

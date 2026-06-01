@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1991-03-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-10-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1997-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8630335,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Los convenios que se celebren con personas jur&#xED;dicas, que involucren la prestaci&#xF3;n de servicios personales de los socios o de personas dependientes de la entidad contratante, sobre la base de honorarios, deber&#xE1;n cumplir los siguientes requisitos:</div><div class=\"p\">&nbsp; &nbsp; a) La prestaci&#xF3;n que se contrate debe ser indispensable para la ejecuci&#xF3;n eficiente de las funciones que son propias del organismo;</div><div class=\"p\">&nbsp; &nbsp; b) Que no pueda lograrse por medio de los recursos humanos propios de la instituci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; c) La entidad contratante deber&#xE1; contar con las disponibilidades presupuestarias suficientes para financiar el pago de los honorarios.</div><div class=\"p\">&nbsp; &nbsp; d) Las personas jur&#xED;dicas cuyos servicios se contraten, no podr&#xE1;n tener entre sus socios a uno o m&#xE1;s funcionarios pertenecientes a las entidades regidas por el decreto ley N&#xB0; 249, de 1974, cuya representaci&#xF3;n, en conjunto, sea superior al 50% del capital social, ni tener, entre sus trabajadores, a personas que sean a la vez funcionarios de las entidades antes indicadas;</div><div class=\"p\">&nbsp; &nbsp; e) Deber&#xE1; llamarse a cotizaciones privadas, a no menos de tres personas jur&#xED;dicas, para la adjudicaci&#xF3;n del contrato.</div><div class=\"p\">&nbsp; &nbsp; Los requisitos a que se refieren las letras d) y e) de este art&#xED;culo no ser&#xE1;n exigibles respecto de los convenios que involucren la prestaci&#xF3;n de servicios personales por entidades del sector p&#xFA;blico, incluidas las Universidades e Institutos Profesionales, estatales, o por Universidades e Institutos Profesionales, particulares reconocidos por el Estado.</div><div class=\"p\">&nbsp; &nbsp; Del cumplimiento de los requisitos deber&#xE1; dejarse constancia en el decreto supremo del Ministerio del ramo que apruebe el convenio y agregarse a sus antecedentes la documentaci&#xF3;n pertinente.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Los convenios que se celebren con personas jur&#xED;dicas, que involucren la prestaci&#xF3;n de servicios personales de los socios o de personas dependientes de la entidad contratante, sobre la base de honorarios, deber&#xE1;n cumplir los siguientes requisitos:</div><div class=\"p\">&nbsp; &nbsp; a) La prestaci&#xF3;n que se contrate debe ser indispensable para la ejecuci&#xF3;n eficiente de las funciones que son propias del organismo;</div><div class=\"p\">&nbsp; &nbsp; b) Que no pueda lograrse por medio de los recursos humanos propios de la instituci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; c) La entidad contratante deber&#xE1; contar con las disponibilidades presupuestarias suficientes para financiar el pago de los honorarios.</div><div class=\"p\">&nbsp; &nbsp; d) Las personas jur&#xED;dicas cuyos servicios se contraten, no podr&#xE1;n tener entre sus socios a uno o m&#xE1;s funcionarios pertenecientes a las entidades regidas por el decreto ley N&#xB0; 249, de 1974, cuya representaci&#xF3;n, en conjunto, sea superior al 50% del capital social, ni tener, entre sus trabajadores, a personas que sean a la vez funcionarios de las entidades antes indicadas;</div><div class=\"p\">&nbsp; &nbsp; e) Deber&#xE1; llamarse a cotizaciones privadas, a no menos de tres personas jur&#xED;dicas, para la adjudicaci&#xF3;n del contrato.</div><div class=\"p\">&nbsp; &nbsp; Los requisitos a que se refieren las letras d) y e)<span class=\"n\" id=\"n_0\">DTO.1570<br>HACIENDA<br>D.O.30.01.1997</span> de este art&#xED;culo no ser&#xE1;n exigibles respecto de los convenios que involucren la prestaci&#xF3;n de servicios personales por entidades del sector p&#xFA;blico, incluidas las Universidades e Institutos Profesionales, estatales, o por Universidades e Institutos Profesionales, particulares reconocidos por el Estado, o por organismos financieros multilaterales. Asimismo, en casos<span class=\"n\" id=\"n_1\">DS 975,HDA.<br>1992</span> calificados, se podr&#xE1; exceptuar del cumplimiento del requisito contemplado en la letra e), mediante decreto supremo fundado expedido a trav&#xE9;s del Ministerio de Hacienda, a los convenios de prestaci&#xF3;n de servicios que se celebren con personas jur&#xED;dicas extranjeras y que deban ejecutarse fuera del territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; Del cumplimiento de los requisitos deber&#xE1; dejarse constancia en el decreto supremo del Ministerio del ramo que apruebe el convenio y agregarse a sus antecedentes la documentaci&#xF3;n pertinente.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

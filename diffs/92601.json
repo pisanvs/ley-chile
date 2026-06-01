@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8322031,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A ISABEL RUTH VASQUEZ NAVARRO PARA AMPLIAR ACTIVIDADES PESQUERAS DENIEGA AUTORIZACIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A ISABEL RUTH VASQUEZ NAVARRO PARA AMPLIAR ACTIVIDADES PESQUERAS DENIEGA AUTORIZACIONES QUE INDICA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

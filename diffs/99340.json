@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1998-05-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7233094,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  F&#xED;janse para las ciudades que se indican, la fecha a contar de la cual los servicios de locomoci&#xF3;n colectiva urbana deber&#xE1;n iniciar y terminar sus recorridos desde un terminal, seg&#xFA;n las exigencias del art. 45&#xBA; del D.S.</div><div class=\"p\">N&#xBA;212/92:</div><br><br><div class=\"p\">a)&nbsp;  Talca, Curic&#xF3;, Linares, Cauquenes, Constituci&#xF3;n, San Javier: a contar del 30 de diciembre de 1999. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  F&#xED;janse para las ciudades que se indican, la fecha a contar de la cual los servicios de locomoci&#xF3;n colectiva urbana deber&#xE1;n iniciar y terminar sus recorridos desde un terminal, seg&#xFA;n las exigencias del art. 45&#xBA; del D.S.</div><div class=\"p\">N&#xBA;212/92:</div><div class=\"p\"> </div><div class=\"p\">a)&nbsp;  Talca, Curic&#xF3;, Linares, Cauquenes, Constituci&#xF3;n, San<span class=\"n\" id=\"n_0\">RES 418 EXENTA<br>TRANSPORTES<br>D.O. 06.01.2000</span></div><div class=\"p\">&nbsp; &nbsp;  Javier: a contar del 31 de diciembre de 2000.</div><div class=\"p\"> </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2000-11-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

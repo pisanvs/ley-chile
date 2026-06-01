@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-07-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8605610,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO EXENTO N&#xB0; 413, DE 1990 </div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO EXENTO N&#xB0; 413, DE 1990 </div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

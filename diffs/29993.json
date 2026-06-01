@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-03-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9047014,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; NORMAS ESPECIALES PARA PERSONAL DOCENTE QUE INDICA La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; LEY NUM. 18.602<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; NORMAS ESPECIALES PARA PERSONAL DOCENTE QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de ley</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El art&#xED;culo transitorio de la ley 18618, dispuso que las modificaciones que corresponda efectuar a las estipulaciones de los contratos individuales de trabajo para dar cumplimiento a lo dispuesto en la ley 18602, modificada por el art&#xED;culo 5&#xB0; de la ley 18618, deber&#xE1;n perfeccionarse dentro del plazo de 90 d&#xED;as contados desde su fecha de publicaci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

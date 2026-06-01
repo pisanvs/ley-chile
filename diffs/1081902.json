@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-03-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-11-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9637139,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Los establecimientos de radioterapia en funcionamiento que a la entrada en vigencia del presente reglamento no cumplan con todas las condiciones que en &#xE9;l se establecen, tendr&#xE1;n el plazo de 6 meses contados desde esa fecha para satisfacer tales requerimientos.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1096969&amp;idParte=9748926&amp;idVersion=2016-11-28\">Decreto 38, SALUD<br>N&#xB0; 1<br>D.O. 28.11.2016</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Los establecimientos de radioterapia en funcionamiento que a la entrada en vigencia del presente reglamento no cumplan con todas las condiciones que en &#xE9;l se establecen, tendr&#xE1;n el plazo de 24 meses contados desde esa fecha para satisfacer tales requerimientos.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1096969,
+      "fecha": "2016-11-28"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-10-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9100432,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 3.230 de 31.12.2010, Serviu VI Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, orden&#xF3; expropiaci&#xF3;n total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Aval&#xFA;o N&#xBA;s. 11.333-003; 11.331-144; 11.329-061; 11.394-055; 11.349-031; 11.349-037 y 11.330-062, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Pol&#xED;gono conforme al Plano del Departamento T&#xE9;cnico del Serviu, de aparente dominio de Marco Antonio L&#xF3;pez Reyes, Ren&#xE9; Galvarino Vidal Navarro; Inmobiliaria e Inversiones Padre P&#xED;o S.A.; Evelyn Romanet D&#xED;az Ugalde; H&#xE9;ctor Hern&#xE1;n Mar&#xED;n Jaramillo; Ramiro Fernando Maffei Oneto; Pedro Pablo Flores Castillo, en el Conjunto Habitacional Villa Cordillera, comuna Rancagua, conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisi&#xF3;n Tasadora, peritos Jorge Rosales, Carlos Henr&#xED;quez y Manuel San Mart&#xED;n, Constructor Civil, Arquitecto y Constructor Civil, respectivamente, seg&#xFA;n Informe de fecha diciembre de 2010, monto provisional para: Marco Antonio L&#xF3;pez Reyes $5.059.173.-; Ren&#xE9; Galvarino Vidal Navarro $5.062.394.-, Inmobiliaria e Inversiones Padre P&#xED;o S.A. $5.123.206.-; Evelyn Romanet D&#xED;az Ugalde $5.145.305.-; H&#xE9;ctor Hern&#xE1;n Mar&#xED;n Jaramillo $5.169.417.-; Ramiro Fernando Maffei Oneto $5.169.417.-; Pedro Pablo Flores Castillo $5.215.364.-, cuyo pago se realizar&#xE1; mediante dep&#xF3;sito en Cuenta Corriente del Tribunal correspondiente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 3.230 de 31.12.2010, Serviu VI Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, orden&#xF3; expropiaci&#xF3;n total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Aval&#xFA;o N&#xBA;s. 11.333-003; 11.331-144; 11.329-061; 11.394-055; 11.349-031; 11.349-037 y 11.330-062, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Pol&#xED;gono conforme al Plano del Departamento T&#xE9;cnico del Serviu, de aparente dominio de Marco Antonio L&#xF3;pez Reyes, Ren&#xE9; Galvarino Vidal Navarro; Inmobiliaria e Inversiones Padre P&#xED;o S.A.; Evelyn Romanet D&#xED;az Ugalde; H&#xE9;ctor Hern&#xE1;n Mar&#xED;n Jaramillo; Ramiro Fernando Maffei Oneto; Pedro Pablo Flores Castillo, en el Conjunto Habitacional Villa Cordillera, comuna Rancagua, conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisi&#xF3;n Tasadora, peritos Jorge Rosales, Carlos Henr&#xED;quez y Manuel San Mart&#xED;n, Constructor Civil, Arquitecto y Constructor Civil, respectivamente, seg&#xFA;n Informe de fecha diciembre de 2010, monto provisional para: Marco Antonio L&#xF3;pez Reyes $5.059.173.-; Ren&#xE9; Galvarino Vidal Navarro $5.062.394.-, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1030969&amp;idParte=9195008&amp;idVersion=2011-10-15\">Aviso S/N, VIVIENDA<br>N&#xBA; 5.-<br>D.O. 15.10.2011</a></span>Inmobiliaria e Inversiones Padre P&#xED;o S.A. $5.123.100.-; <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1030969&amp;idParte=9195008&amp;idVersion=2011-10-15\">Aviso S/N, VIVIENDA<br>N&#xBA; 3.-<br>D.O. 15.10.2011</a></span>Evelyn Romanet D&#xED;az Ugalde $5.145.237.-; H&#xE9;ctor Hern&#xE1;n Mar&#xED;n Jaramillo $5.169.417.-; Ramiro Fernando Maffei Oneto $5.169.417.-; Pedro Pablo Flores Castillo $5.215.364.-, cuyo pago se realizar&#xE1; mediante dep&#xF3;sito en Cuenta Corriente del Tribunal correspondiente.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1030969,
+      "fecha": "2011-10-15"
+    }
+  }
+]

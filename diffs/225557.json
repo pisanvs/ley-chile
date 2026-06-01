@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-07-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-11-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004676,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Autor&#xED;zase a Polla Chilena de Beneficencia para incluir en uno de los sorteos a efectuar en 1975, como premios especiales, una casa prefabricada de madera, marca Dele&#xF3;n, de 36 metros cuadrados y un autom&#xF3;vil Fiat 125 S, a&#xF1;o 1974, modelo de fabricaci&#xF3;n N.741336, motor N&#xBA; 685718, de propiedad del Comit&#xE9; Nacional de Navidad.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos previstos en el inciso anterior, Polla Chilena de Beneficencia aumentar&#xE1; su emisi&#xF3;n, a lo menos, en una cantidad igual al valor de los premios. Las utilidades obtenidas por esta mayor emisi&#xF3;n, estar&#xE1;n exentas de todo tipo de impuestos y ser&#xE1;n de beneficio exclusivo del Comit&#xE9; Nacional de Navidad. Asimismo, la transferencia de los bienes aludidos en el inciso precedente a quienes resulten favorecidos, estar&#xE1; exenta de impuestos, incluso los indicados en la Ley de Timbres, Estampillas y Papel Sellado.</div><div class=\"p\">&nbsp; &nbsp;  El remanente de premios especiales que se derivare de esta mayor emisi&#xF3;n, ser&#xE1; de beneficio exclusivo del Comit&#xE9; Nacional de Navidad.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Autor&#xED;zase a Polla Chilena de Beneficencia para incluir en uno de los sorteos a efectuar en 1975, como premios especiales, una casa prefabricada de madera, marca Dele&#xF3;n, de 36 metros cuadrados y un autom&#xF3;vil Fiat 125 S, a&#xF1;o 1974, modelo<span class=\"n\" id=\"n_0\">DL 1269, HACIENDA<br>Art. 3&#xB0;<br>D.O. 28.11.1975</span> de fabricaci&#xF3;n N.741336, motor N&#xBA; 685781, de propiedad del Comit&#xE9; Nacional de Navidad.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos previstos en el inciso anterior,<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div> Polla Chilena de Beneficencia aumentar&#xE1; su emisi&#xF3;n, a lo menos, en una cantidad igual al valor de los premios.</div><div class=\"p\">Las utilidades obtenidas por esta mayor emisi&#xF3;n, estar&#xE1;n exentas de todo tipo de impuestos y ser&#xE1;n de beneficio exclusivo del Comit&#xE9; Nacional de Navidad. Asimismo, la transferencia de los bienes aludidos en el inciso precedente a quienes resulten favorecidos, estar&#xE1; exenta de impuestos, incluso los indicados en la Ley de Timbres, Estampillas y Papel Sellado.</div><div class=\"p\">&nbsp; &nbsp;  El remanente de premios especiales que se derivare de esta mayor emisi&#xF3;n, ser&#xE1; de beneficio exclusivo del Comit&#xE9; Nacional de Navidad.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art. 3&#xB0; del DL 1269, Hacienda, publicado el 28.11.1975, dispuso que la modificaci&#xF3;n introducida al presente art&#xED;culo rige a contar del 25 de julio de 1975.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

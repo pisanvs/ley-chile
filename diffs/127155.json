@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-11-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6139245,
+          "old": "<div><div class=\"p\">FIJA PROCEDIMIENTO PARA APLICACION DEL PROGRAMA</div><div class=\"p\">PARTICIPATIVO DE ASISTENCIA FINANCIERA EN CONDOMINIOS DE</div><div class=\"p\">VIVIENDAS&nbsp; SOCIALES,&nbsp;  REGLAMENTADO POR DECRETO N&#xBA; 127,</div><div class=\"p\">DE 1998</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 6 de noviembre de 1998.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3.002 exenta.- Visto: El D.S. N&#xBA; 127 (V. y U.), de 1998, que Reglamenta Programa Participativo de Asistencia Financiera en Condominios de Viviendas Sociales, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA PROCEDIMIENTO PARA APLICACION DEL PROGRAMA PARTICIPATIVO DE ASISTENCIA FINANCIERA EN CONDOMINIOS DE VIVIENDAS SOCIALES, REGLAMENTADO POR DECRETO N&#xBA; 127, DE 1998</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 6 de noviembre de 1998.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3.002 exenta.- Visto: El D.S. N&#xBA; 127 (V. y U.), de 1998, que Reglamenta Programa Participativo de Asistencia Financiera en Condominios de Viviendas Sociales, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-01-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048006,
+          "old": "<div><div class=\"p\">COMPLEMENTA RESOLUCION N&#xBA; 478, DE 1986</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 375.-&nbsp; Valpara&#xED;so, 24 de Noviembre de 1988.- Vistos: La Resoluci&#xF3;n N&#xBA; 478, de fecha 22.12.86. T.R.C. el 29.12.86., modificada por la Resoluci&#xF3;n N&#xBA; 86, de fecha 16.03.88 T.R.C. el 25.03.88., ambas de la Empresa Portuaria de Chile, sobre mercanc&#xED;as peligrosas, publicadas en el Diario Oficial del 14.01.87&nbsp; y 31.03.88, respectivamente; la necesidad de complementar dicha Resoluci&#xF3;n, acorde al C&#xF3;digo Internacional de Mercanc&#xED;as Peligrosas, IMDG-IMO; lo previsto en el Art&#xED;culo 5&#xBA;, 12&#xBA; y 13&#xBA; N&#xBA; 20 del D.F.L. N&#xBA; 290, de 1960, cuyo texto refundido, coordinado y sistematizado fue fijado por D.S.(TT. Y TT.) N&#xBA; 91, DE 1978, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA RESOLUCION N&#xBA; 478, DE 1986</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 375.-&nbsp; Valpara&#xED;so, 24 de Noviembre de 1988.- Vistos: La Resoluci&#xF3;n N&#xBA; 478, de fecha 22.12.86. T.R.C. el 29.12.86., modificada por la Resoluci&#xF3;n N&#xBA; 86, de fecha 16.03.88 T.R.C. el 25.03.88., ambas de la Empresa Portuaria de Chile, sobre mercanc&#xED;as peligrosas, publicadas en el Diario Oficial del 14.01.87&nbsp; y 31.03.88, respectivamente; la necesidad de complementar dicha Resoluci&#xF3;n, acorde al C&#xF3;digo Internacional de Mercanc&#xED;as Peligrosas, IMDG-IMO; lo previsto en el Art&#xED;culo 5&#xBA;, 12&#xBA; y 13&#xBA; N&#xBA; 20 del D.F.L. N&#xBA; 290, de 1960, cuyo texto refundido, coordinado y sistematizado fue fijado por D.S.(TT. Y TT.) N&#xBA; 91, DE 1978, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "fecha": "1976-04-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1983-09-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8993996,
+          "old": null,
+          "new": "<div><div class=\"p\">FIJA LIMITES PERIFERICOS AL RECINTO DE LA ZONA FRANCA DE PUNTA ARENAS Y DELEGA EN EL INTENDENTE REGIONAL ATRIBUCIONES QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 275.- Santiago, 19 de Marzo de 1976.- Vistos: el oficio N&#xB0; 185, de fecha 13 de Marzo de 1976, de la Intendencia de la XII Regi&#xF3;n &quot;Magallanes y Ant&#xE1;rtica Chilena&quot;, y</div><div class=\"p\">&nbsp; &nbsp;  Considerando la necesidad de fijar los l&#xED;mites del &#xE1;rea a que se refiere el art&#xED;culo 2&#xBA;, letra a), del decreto ley N&#xB0; 1.055, de 1975, modificado por el decreto ley N&#xB0; 1.233, de 1975, y de la Zona Franca de Extensi&#xF3;n referida en el art&#xED;culo 16 del mismo cuerpo legal;</div><div class=\"p\">&nbsp; &nbsp;  Que a objeto de acelerar la puesta en marcha de la Zona Franca de Punta Arenas se advierte la conveniencia de delegar en la intendencia de la XII Regi&#xF3;n las facultades relacionadas con la concesi&#xF3;n, administraci&#xF3;n, supervigilancia y del establecimiento de normas de procedimientos internos de control y fiscalizaci&#xF3;n de dicha Zona Franca, y</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente lo establecido en los decretos leyes N&#xBA;s. 1.055 y 1.233, ambos de 1975,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8993997,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Articulo 1&#xBA;.- Fijanse los siguientes limites<span class=\"n\" id=\"n_0\">DTO 540, HACIENDA<br>Art. &#xFA;nico<br>D.O. 07.09.1983</span> perif&#xE9;ricos al recinto de la Zona Franca de Punta Arenas, de conformidad a lo graficado en el Plano N&#xBA; 83-1, denominado &quot;L&#xED;mites y Deslindes Recinto Zona Franca&quot;, confeccionado a escala 1:2000, por la Sociedad Administradora Zona Franca Punta Arenas, y que se considera parte integrante del presente decreto:</div><div class=\"p\">&nbsp; &nbsp;  Norte: En l&#xED;nea discontinua, en tramo F - G en 310,00 metros, con terrenos de la Fuerza Area de Chile, en tramo H - I en 22,00 metros, con Avenida Costanera, en tramo J - K en 690,00 metros, con terrenos de la Fuerza A&#xE9;rea de Chile y en tramo B - C en 60,00 metros, con terrenos destinados al Servicio de Aduanas;</div><div class=\"p\">&nbsp; &nbsp;  Sur: En l&#xED;nea discontinua, en tramo A - M en 957,00 metros con calle p&#xFA;blica y en tramo E - D en 60,00 metros, con terrenos destinados al Servicio de Aduanas;</div><div class=\"p\">&nbsp; &nbsp;  Oriente: En l&#xED;nea discontinua, en tramo M - L en 184,85 metros y en tramo L - K en 380,00 metros, en l&#xED;nea quebrada, con Avenida Costanera, y en tramo J - I en 387,00 metros con terrenos de la Fuerza A&#xE9;rea de Chile; y</div><div class=\"p\">&nbsp; &nbsp;  Poniente; En l&#xED;nea discontinua, en tramo A - B en 186,00 metros, con Avenida Bulnes, en tramo C - D en 30,00 metros, con terrenos destinados al Servicio de Aduanas, en tramo E - F en 214,00 metros, con Avenida Bulnes y en tramo G - H en 523,00 metros, con terrenos de la Fuerza A&#xE9;rea de Chile.</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1999-01-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8993998,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Del&#xE9;gase en el Intendente de la XII Regi&#xF3;n, en lo que respecta a la Zona Franca de Punta Arenas, las facultades que el decreto ley N&#xB0; 1.055 y sus modificaciones otorga a los Ministerios de Hacienda y de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n con relaci&#xF3;n a la concesi&#xF3;n, administraci&#xF3;n y supervigilancia de la Zona Franca a que se refiere el art&#xED;culo 2&#xBA;, letra a), del citado decreto ley. Del&#xE9;gase, asimismo, en dicho Intendente, la facultad de se&#xF1;alar los procedimientos Internos de control y fiscalizaci&#xF3;n que estime convenientes para cautelar el fiel cumplimiento de las reglas aplicables a la Zona Franca.</div><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2017-06-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8993997,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Articulo 1&#xBA;.- Fijanse los siguientes limites<span class=\"n\" id=\"n_0\">DTO 540, HACIENDA<br>Art. &#xFA;nico<br>D.O. 07.09.1983</span> perif&#xE9;ricos al recinto de la Zona Franca de Punta Arenas, de conformidad a lo graficado en el Plano N&#xBA; 83-1, denominado &quot;L&#xED;mites y Deslindes Recinto Zona Franca&quot;, confeccionado a escala 1:2000, por la Sociedad Administradora Zona Franca Punta Arenas, y que se considera parte integrante del presente decreto:</div><div class=\"p\">&nbsp; &nbsp;  Norte: En l&#xED;nea discontinua, en tramo F - G en 310,00 metros, con terrenos de la Fuerza Area de Chile, en tramo H - I en 22,00 metros, con Avenida Costanera, en tramo J - K en 690,00 metros, con terrenos de la Fuerza A&#xE9;rea de Chile y en tramo B - C en 60,00 metros, con terrenos destinados al Servicio de Aduanas;</div><div class=\"p\">&nbsp; &nbsp;  Sur: En l&#xED;nea discontinua, en tramo A - M en 957,00 metros con calle p&#xFA;blica y en tramo E - D en 60,00 metros, con terrenos destinados al Servicio de Aduanas;</div><div class=\"p\">&nbsp; &nbsp;  Oriente: En l&#xED;nea discontinua, en tramo M - L en 184,85 metros y en tramo L - K en 380,00 metros, en l&#xED;nea quebrada, con Avenida Costanera, y en tramo J - I en 387,00 metros con terrenos de la Fuerza A&#xE9;rea de Chile; y</div><div class=\"p\">&nbsp; &nbsp;  Poniente; En l&#xED;nea discontinua, en tramo A - B en 186,00 metros, con Avenida Bulnes, en tramo C - D en 30,00 metros, con terrenos destinados al Servicio de Aduanas, en tramo E - F en 214,00 metros, con Avenida Bulnes y en tramo G - H en 523,00 metros, con terrenos de la Fuerza A&#xE9;rea de Chile.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1104621&amp;idParte=9809643&amp;idVersion=2017-06-29\">Decreto 493, HACIENDA<br>D.O. 29.06.2017</a></span></div><div class=\"p\">&nbsp; &nbsp;  Articulo 1&#xBA;.- F&#xED;janse los siguientes l&#xED;mites perif&#xE9;ricos al recinto de la Zona Franca de Punta Arenas, de conformidad con lo graficado en el Plano N&#xB0;12101-1493-CU, de la Divisi&#xF3;n del Catastro Nacional de los Bienes del Estado, Ministerio de Bienes Nacionales, y que forma parte integrante del presente decreto:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Al Norte:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tramo F-G, con Villa Torres del Paine, separado por cerco en l&#xED;nea recta en 310,0 metros.</div><div class=\"p\">&nbsp; &nbsp;  Tramo H-I, I-a, a-d, d-J y K-L, con Propiedad Fiscal, Lote 5b1, Calle Nueva - Bien Nacional de Uso P&#xFA;blico, lotes 5b3, 5b6, 5b7, 5b8 y Avenida Costanera, separado por cerco en l&#xED;nea recta cada uno en una extensi&#xF3;n de 22,6; 133,0; 29,0; 196,1; 97,1; 97,1; 135,5 y 4,1 metros, respectivamente.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Al Sur:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tramos N-O, P-Q, y Q-A, con Propiedad Equipamiento Villa El Golf, parte calle Cha&#xF1;arcillo y Propiedad de la Universidad de Magallanes, separado por cerco en l&#xED;nea recta de 125,2; 225,5 y 609,5 metros, respectivamente.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Al Este:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tramo J-K, L-M, M-N, y O-P con Avenida Costanera y Equipamiento Villa El Golf, separado por cerco en parcialidades de 228,1; 248,4; 82,0 y 11,0 metros, respectivamente.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Al Oeste:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tramos A-B, B-E y E-F, con Avenida Bulnes, separado por cerco en l&#xED;nea recta de 199,6; 30,00 y 188,7 metros, respectivamente.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1104621,
+      "fecha": "2017-06-29"
+    }
+  },
+  {
+    "fecha": "2023-01-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8993996,
+          "old": "<div><div class=\"p\">FIJA LIMITES PERIFERICOS AL RECINTO DE LA ZONA FRANCA DE PUNTA ARENAS Y DELEGA EN EL INTENDENTE REGIONAL ATRIBUCIONES QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 275.- Santiago, 19 de Marzo de 1976.- Vistos: el oficio N&#xB0; 185, de fecha 13 de Marzo de 1976, de la Intendencia de la XII Regi&#xF3;n &quot;Magallanes y Ant&#xE1;rtica Chilena&quot;, y</div><div class=\"p\">&nbsp; &nbsp;  Considerando la necesidad de fijar los l&#xED;mites del &#xE1;rea a que se refiere el art&#xED;culo 2&#xBA;, letra a), del decreto ley N&#xB0; 1.055, de 1975, modificado por el decreto ley N&#xB0; 1.233, de 1975, y de la Zona Franca de Extensi&#xF3;n referida en el art&#xED;culo 16 del mismo cuerpo legal;</div><div class=\"p\">&nbsp; &nbsp;  Que a objeto de acelerar la puesta en marcha de la Zona Franca de Punta Arenas se advierte la conveniencia de delegar en la intendencia de la XII Regi&#xF3;n las facultades relacionadas con la concesi&#xF3;n, administraci&#xF3;n, supervigilancia y del establecimiento de normas de procedimientos internos de control y fiscalizaci&#xF3;n de dicha Zona Franca, y</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente lo establecido en los decretos leyes N&#xBA;s. 1.055 y 1.233, ambos de 1975,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">FIJA LIMITES PERIFERICOS AL RECINTO DE LA ZONA FRANCA DE PUNTA ARENAS Y DELEGA EN EL GOBERNADOR<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187777&amp;idParte=10397803&amp;idVersion=2023-01-13\">Decreto 2,<br>HACIENDA<br>N&#xB0; 2<br>D.O. 13.01.2023</a></span> REGIONAL ATRIBUCIONES QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 275.- Santiago, 19 de Marzo de 1976.- Vistos: el oficio N&#xB0; 185, de fecha 13 de Marzo de 1976, de la Intendencia de la XII Regi&#xF3;n &quot;Magallanes y Ant&#xE1;rtica Chilena&quot;, y</div><div class=\"p\">&nbsp; &nbsp;  Considerando la necesidad de fijar los l&#xED;mites del &#xE1;rea a que se refiere el art&#xED;culo 2&#xBA;, letra a), del decreto ley N&#xB0; 1.055, de 1975, modificado por el decreto ley N&#xB0; 1.233, de 1975, y de la Zona Franca de Extensi&#xF3;n referida en el art&#xED;culo 16 del mismo cuerpo legal;</div><div class=\"p\">&nbsp; &nbsp;  Que a objeto de acelerar la puesta en marcha de la Zona Franca de Punta Arenas se advierte la conveniencia de delegar <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1187777&amp;idParte=10397803&amp;idVersion=2023-01-13\">Decreto 2,<br>HACIENDA<br>N&#xB0; 3<br>D.O. 13.01.2023</a></span>en <div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA</a></div>el Gobierno Regional de Magallanes y de la Ant&#xE1;rtica Chilena las facultades relacionadas con la concesi&#xF3;n, administraci&#xF3;n, supervigilancia y del establecimiento de normas de procedimientos internos de control y fiscalizaci&#xF3;n de dicha Zona Franca, y</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente lo establecido en los decretos leyes N&#xBA;s. 1.055 y 1.233, ambos de 1975,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0;3 del Decreto 2, Hacienda, publicado el 13.01.2022, dispone reemplazar la menci&#xF3;n &quot;de la intendencia de la XII Regi&#xF3;n&quot; por &quot;del Gobierno Regional de Magallanes y de la Ant&#xE1;rtica Chilena&quot;, contenida en el p&#xE1;rrafo tercero de los vistos de la presente norma. Se ha efectuado la actualizaci&#xF3;n, sin embargo, precisamos que en el texto existente dec&#xED;a &quot;en la intendencia de la XII Regi&#xF3;n&quot; en vez de &quot;de la intendencia de la XII Regi&#xF3;n&quot;</div></div>"
+        },
+        {
+          "part_id": 8993997,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1104621&amp;idParte=9809643&amp;idVersion=2017-06-29\">Decreto 493, HACIENDA<br>D.O. 29.06.2017</a></span></div><div class=\"p\">&nbsp; &nbsp;  Articulo 1&#xBA;.- F&#xED;janse los siguientes l&#xED;mites perif&#xE9;ricos al recinto de la Zona Franca de Punta Arenas, de conformidad con lo graficado en el Plano N&#xB0;12101-1493-CU, de la Divisi&#xF3;n del Catastro Nacional de los Bienes del Estado, Ministerio de Bienes Nacionales, y que forma parte integrante del presente decreto:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Al Norte:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tramo F-G, con Villa Torres del Paine, separado por cerco en l&#xED;nea recta en 310,0 metros.</div><div class=\"p\">&nbsp; &nbsp;  Tramo H-I, I-a, a-d, d-J y K-L, con Propiedad Fiscal, Lote 5b1, Calle Nueva - Bien Nacional de Uso P&#xFA;blico, lotes 5b3, 5b6, 5b7, 5b8 y Avenida Costanera, separado por cerco en l&#xED;nea recta cada uno en una extensi&#xF3;n de 22,6; 133,0; 29,0; 196,1; 97,1; 97,1; 135,5 y 4,1 metros, respectivamente.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Al Sur:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tramos N-O, P-Q, y Q-A, con Propiedad Equipamiento Villa El Golf, parte calle Cha&#xF1;arcillo y Propiedad de la Universidad de Magallanes, separado por cerco en l&#xED;nea recta de 125,2; 225,5 y 609,5 metros, respectivamente.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Al Este:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tramo J-K, L-M, M-N, y O-P con Avenida Costanera y Equipamiento Villa El Golf, separado por cerco en parcialidades de 228,1; 248,4; 82,0 y 11,0 metros, respectivamente.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Al Oeste:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tramos A-B, B-E y E-F, con Avenida Bulnes, separado por cerco en l&#xED;nea recta de 199,6; 30,00 y 188,7 metros, respectivamente.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1104621&amp;idParte=9809643&amp;idVersion=2017-06-29\">Decreto 493, HACIENDA<br>D.O. 29.06.2017</a></span></div><div class=\"p\">&nbsp; &nbsp;  Articulo 1&#xBA;.- F&#xED;janse los siguientes l&#xED;mites perif&#xE9;ricos al recinto de la Zona Franca de Punta Arenas, de conformidad con lo graficado en el Plano N&#xB0;12101-1493-CU, de la Divisi&#xF3;n del Catastro Nacional de los Bienes del Estado, Ministerio de Bienes Nacionales, y que forma parte integrante del presente decreto:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Al Norte:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tramo F-G, con Villa Torres del Paine, separado por cerco en l&#xED;nea recta en 310,0 metros.</div><div class=\"p\">&nbsp; &nbsp;  Tramo H-I, I-a, a-d, d-J y K-L, con Propiedad Fiscal, Lote 5b1, Calle Nueva - Bien Nacional de Uso P&#xFA;blico, lotes 5b3, 5b6, 5b7, 5b8 y Avenida Costanera, separado por cerco en l&#xED;nea recta cada uno en una extensi&#xF3;n de 22,6; 133,0; 29,0; 196,1; 97,1; 97,1; 135,5 y 4,1 metros, respectivamente.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Al Sur:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tramos N-O, P-Q, y Q-A, con Propiedad Equipamiento Villa El Golf, parte calle Cha&#xF1;arcillo y Propiedad de la Universidad de Magallanes, separado por cerco en l&#xED;nea recta de 125,2; 225,5 y 609,5 metros, respectivamente.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Al Este:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tramo J-K, L-M, M-N, y O-P con Avenida Costanera y Equipamiento Villa El Golf, separado por cerco en parcialidades de 228,1; 248,4; 82,0 y 11,0 metros, respectivamente.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Al Oeste:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tramos A-B, B-E y E-F, con Avenida Bulnes, separado por cerco en l&#xED;nea recta de 199,6; 30,00 y 188,7 metros, respectivamente.</div><br><br></div>"
+        },
+        {
+          "part_id": 8993998,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Del&#xE9;gase en el Intendente de la XII Regi&#xF3;n, en lo que respecta a la Zona Franca de Punta Arenas, las facultades que el decreto ley N&#xB0; 1.055 y sus modificaciones otorga a los Ministerios de Hacienda y de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n con relaci&#xF3;n a la concesi&#xF3;n, administraci&#xF3;n y supervigilancia de la Zona Franca a que se refiere el art&#xED;culo 2&#xBA;, letra a), del citado decreto ley. Del&#xE9;gase, asimismo, en dicho Intendente, la facultad de se&#xF1;alar los procedimientos Internos de control y fiscalizaci&#xF3;n que estime convenientes para cautelar el fiel cumplimiento de las reglas aplicables a la Zona Franca.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1187777&amp;idParte=10397803&amp;idVersion=2023-01-13\">Decreto 2,<br>HACIENDA<br>N&#xB0; 1<br>D.O. 13.01.2023</a></span> 3&#xBA;.- Del&#xE9;gase en el Gobernador Regional de la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena, en lo que respecta a la Zona Franca de Punta Arenas, las facultades que el DFL N&#xB0; 2, de 2001, del Ministerio de Hacienda, que aprueba el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N&#xBA; 341, de 1977, del Ministerio de Hacienda, sobre zonas francas; otorga a los Ministerios de Hacienda y de Econom&#xED;a, Fomento y Turismo con relaci&#xF3;n a la concesi&#xF3;n, administraci&#xF3;n y supervigilancia de dicha Zona Franca. Del&#xE9;gase, asimismo, en dicho Gobernador Regional, la facultad de se&#xF1;alar los procedimientos Internos de control y fiscalizaci&#xF3;n que estime convenientes para cautelar el fiel cumplimiento de las reglas aplicables a la Zona Franca.</div><div class=\"p\">&nbsp; &nbsp;  </div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1187777,
+      "fecha": "2023-01-13"
+    }
+  }
+]

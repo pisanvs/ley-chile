@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6408704,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 44 EXENTA, DE 2002 </div><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 44 EXENTA, DE 2002 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

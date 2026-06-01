@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-05-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-06-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9142895,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;. Enti&#xE9;ndase que las facultades administrativas delegadas en los n&#xFA;meros 24, 25, 26 y 27 del art&#xED;culo 1&#xBA; de esta resoluci&#xF3;n son respecto del personal de la dependencia del territorio jurisdiccional del Jefe Regional de Subvenciones, comprendiendo la Unidad Regional de Subvenciones, las Unidades de Inspecci&#xF3;n Provincial y las Unidades Provinciales de Pago respectiva.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; Enti&#xE9;ndase que las facultades administrativas<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1026277&amp;idParte=9147924&amp;idVersion=2011-06-08\">Resoluci&#xF3;n 1666 EXENTA,<br>EDUCACI&#xD3;N<br>N&#xB0; 1<br>D.O. 08.06.2011</a></span> delegadas en los n&#xFA;meros 21, 22, 23 y 24 del art&#xED;culo 1&#xBA; de esta resoluci&#xF3;n, son respecto del personal de la dependencia del territorio jurisdiccional del Jefe Regional de Subvenciones, comprendiendo la Unidad Regional de Subvenciones, las Unidades de Inspecci&#xF3;n Provincial y las Unidades Provinciales de Pago respectiva.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1026277,
+      "fecha": "2011-06-08"
+    }
+  }
+]

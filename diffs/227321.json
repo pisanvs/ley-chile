@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1971-09-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1972-10-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6486632,
+          "old": "<div><div class=\"p\">DEROGA DECRETO N&#xBA; 344, DE 1970, Y APRUEBA EL ACUERDO DEL BANCO CENTRAL DE CHILE QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 28 de Julio de 1971.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.372.- Vistos: la nota de fecha 15 de Julio del presente a&#xF1;o, del Banco Central de Chile, y lo dispuesto en el art&#xED;culo 51&#xBA; del DFL. N&#xBA; 247, de 1960, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DEROGA DECRETO N&#xBA; 344, DE 1970, Y APRUEBA EL ACUERDO DEL BANCO CENTRAL DE CHILE QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 28 de Julio de 1971.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.372.- Vistos: la nota de fecha 15 de Julio del presente a&#xF1;o, del Banco Central de Chile, y lo dispuesto en el art&#xED;culo 51&#xBA; del DFL. N&#xBA; 247, de 1960, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

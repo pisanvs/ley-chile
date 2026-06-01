@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-10-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8856584,
+          "old": "<div><div class=\"p\">AUTORIZA A POLLA CHILENA DE BENEFICENCIA PARA ADMINISTRAR EL SORTEO DE NUMEROS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 846.- Santiago, 29 de Septiembre de 1989.- Vistos: Lo dispuesto en el Art&#xED;culo 90 de la Ley N&#xB0; 18.768; el D.F.L. de Hacienda N&#xB0; 120, de 1960; el D.L.</div><div class=\"p\">N&#xB0; 1.298 de 1975; lo propuesto por Polla Chilena de Beneficencia en su oficio Res. N&#xB0; 007, de 12 de Junio de 1989; y las facultades que me confiere el art&#xED;culo 32 N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, dicto el siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">AUTORIZA A POLLA CHILENA DE BENEFICENCIA PARA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> ADMINISTRAR EL SORTEO DE NUMEROS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 846.- Santiago, 29 de Septiembre de 1989.- Vistos: Lo dispuesto en el Art&#xED;culo 90 de la Ley N&#xB0; 18.768; el D.F.L. de Hacienda N&#xB0; 120, de 1960; el D.L.</div><div class=\"p\">N&#xB0; 1.298 de 1975; lo propuesto por Polla Chilena de Beneficencia en su oficio Res. N&#xB0; 007, de 12 de Junio de 1989; y las facultades que me confiere el art&#xED;culo 32 N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, dicto el siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico del DTO 1074, Hacienda, publicado el 30.12.1991, sustituy&#xF3; la presente norma </div></div>"
+        }
+      ]
+    }
+  }
+]

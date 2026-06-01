@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-02-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9997335,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase estado de excepci&#xF3;n constitucional de cat&#xE1;strofe en la Regi&#xF3;n del Biob&#xED;o, con excepci&#xF3;n de las comunas de Concepci&#xF3;n y Talcahuano, por un plazo de 30 d&#xED;as desde la publicaci&#xF3;n del presente decreto en el Diario Oficial, de conformidad a lo dispuesto en el <a href=\"https://www.leychile.cl/Navegar?idNorma=29824&amp;idParte=8285738&amp;idVersion=\">art&#xED;culo 8&#xBA;</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=29824&amp;idParte=&amp;idVersion=\">ley N&#xBA; 18.415</a>.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase estado de excepci&#xF3;n constitucional de cat&#xE1;strofe en la Regi&#xF3;n del Biob&#xED;o, con excepci&#xF3;n de las comunas de Concepci&#xF3;n y Talcahuano, por un <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>plazo de 30 d&#xED;as desde la publicaci&#xF3;n del presente decreto en el Diario Oficial, de conformidad a lo dispuesto en el art&#xED;culo 8&#xBA; de la ley N&#xBA; 18.415.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El Decreto 119 Exento, Interior, publicada el 08.03.2019, prorroga por un plazo adicional de 30 d&#xED;as contados desde el vencimiento del per&#xED;odo previsto en la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7283264,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD ANDRES DE LA VEGA PROESTAKIS LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD ANDRES DE LA VEGA PROESTAKIS LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div><br></div>"
+        }
+      ]
+    }
+  }
+]

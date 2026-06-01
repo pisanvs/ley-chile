@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2010-02-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-10-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8873285,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cese para la zona de vigilancia 2, comprendida, seg&#xFA;n lo dispone la resoluci&#xF3;n N&#xBA; 450 del Servicio Nacional de Pesca, de 23 de enero de 2009, entre el borde sur de la Regi&#xF3;n de Ays&#xE9;n por el norte hasta el extremo sur de la Regi&#xF3;n de Magallanes, que los centros de cultivo de salm&#xF3;nidos ubicados en un radio de 15 Kms. (8,09 millas n&#xE1;uticas) en torno a un centro de cultivo clasificado como sospechoso o en brote seg&#xFA;n lo establecido en la resoluci&#xF3;n N&#xBA; 2.638 del Servicio Nacional de Pesca, de 8 de octubre del 2008, deber&#xE1;n dar cumplimiento a las medidas que se disponen en los numerales siguientes.</div><div class=\"p\">&nbsp; &nbsp;  2.- A los centros de cultivo ubicados en el &#xE1;rea indicada, no podr&#xE1;n ingresar especies susceptibles al virus de la Anemia Infecciosa del Salm&#xF3;n, hasta una vez cumplido el descanso se&#xF1;alado en el numeral siguiente.</div><div class=\"p\">&nbsp; &nbsp;  3.- Los centros de cultivo ubicados en el &#xE1;rea indicada, deber&#xE1;n cumplir con un per&#xED;odo de descanso coordinado de 3 meses contado desde que se haya dado t&#xE9;rmino a la cosecha o a la eliminaci&#xF3;n de los peces del &#xFA;ltimo centro poblado ubicado dentro de dicha &#xE1;rea y retiradas todas sus redes y ejecutados los procedimientos de limpieza y desinfecci&#xF3;n en los t&#xE9;rminos requeridos por los Programas Sanitarios generales y espec&#xED;ficos correspondientes.</div><div class=\"p\">&nbsp; &nbsp;  4.- Las embarcaciones que operen en los centros de cultivo ubicados en el &#xE1;rea indicada, no podr&#xE1;n prestar servicios a centros que queden fuera de dicha &#xE1;rea.</div><div class=\"p\">&nbsp; &nbsp;  5.- Por disposici&#xF3;n del art&#xED;culo 86 de la Ley General de Pesca y Acuicultura, la infracci&#xF3;n de lo dispuesto en la presente resoluci&#xF3;n se sancionar&#xE1; conforme a las disposiciones del T&#xED;tulo IX de esa ley, en relaci&#xF3;n al art&#xED;culo 77 del Reglamento.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cese para la zona de vigilancia 2, <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> comprendida, seg&#xFA;n lo dispone la resoluci&#xF3;n N&#xBA; 450 del Servicio Nacional de Pesca, de 23 de enero de 2009, entre el borde sur de la Regi&#xF3;n de Ays&#xE9;n por el norte hasta el extremo sur de la Regi&#xF3;n de Magallanes, que los centros de cultivo de salm&#xF3;nidos ubicados en un radio de 15 Kms. (8,09 millas n&#xE1;uticas) en torno a un centro de cultivo clasificado como sospechoso o en brote seg&#xFA;n lo establecido en la resoluci&#xF3;n N&#xBA; 2.638 del Servicio Nacional de Pesca, de 8 de octubre del 2008, deber&#xE1;n dar cumplimiento a las medidas que se disponen en los numerales siguientes.</div><div class=\"p\">&nbsp; &nbsp;  2.- A los centros de cultivo ubicados en el &#xE1;rea indicada, no podr&#xE1;n ingresar especies susceptibles al virus de la Anemia Infecciosa del Salm&#xF3;n, hasta una vez cumplido el descanso se&#xF1;alado en el numeral siguiente.</div><div class=\"p\">&nbsp; &nbsp;  3.- Los centros de cultivo ubicados en el &#xE1;rea indicada, deber&#xE1;n cumplir con un per&#xED;odo de descanso coordinado de 3 meses contado desde que se haya dado t&#xE9;rmino a la cosecha o a la eliminaci&#xF3;n de los peces del &#xFA;ltimo centro poblado ubicado dentro de dicha &#xE1;rea y retiradas todas sus redes y ejecutados los procedimientos de limpieza y desinfecci&#xF3;n en los t&#xE9;rminos requeridos por los Programas Sanitarios generales y espec&#xED;ficos correspondientes.</div><div class=\"p\">&nbsp; &nbsp;  4.- Las embarcaciones que operen en los centros de cultivo ubicados en el &#xE1;rea indicada, no podr&#xE1;n prestar servicios a centros que queden fuera de dicha &#xE1;rea.</div><div class=\"p\">&nbsp; &nbsp;  5.- Por disposici&#xF3;n del art&#xED;culo 86 de la Ley General de Pesca y Acuicultura, la infracci&#xF3;n de lo dispuesto en la presente resoluci&#xF3;n se sancionar&#xE1; conforme a las disposiciones del T&#xED;tulo IX de esa ley, en relaci&#xF3;n al art&#xED;culo 77 del Reglamento.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 1739 Exenta, Econom&#xED;a, publicada el 26.10.2010, establece medidas sanitarias complementarias a las mencionadas en la presente norma, para ser aplicadas en la zona definida en el numeral 1&#xB0;.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2012-09-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

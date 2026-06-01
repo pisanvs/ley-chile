@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-12-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1984-02-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9329663,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;- Decl&#xE1;rase Zona T&#xED;pica y de Protecci&#xF3;n a los edificios ubicados a ambos costados de la calle Baquedano, entre la Plaza Arturo Prat y la calle Jos&#xE9; Joaqu&#xED;n P&#xE9;rez, incluyendo esta zona a las siguientes casas vecinas a dicha calle Baquedano: </div><div class=\"p\">&nbsp; &nbsp;  a) Las casas ubicadas en calle Gorostiaga esquina de Baquedano y signadas con los n&#xFA;meros 287, 279, 273, 251 y 237, de propiedad fiscal.</div><div class=\"p\">&nbsp; &nbsp;  b) Las casas ubicadas en calle Jos&#xE9; Joaqu&#xED;n P&#xE9;rez esquina con Baquedano y signadas con los n&#xFA;meros 330, de propiedad fiscal, y los n&#xFA;meros 360 y 390, de propiedad particular.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;- Decl&#xE1;rase Zona T&#xED;pica <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> y de Protecci&#xF3;n a los edificios ubicados a ambos costados de la calle Baquedano, entre la Plaza Arturo Prat y la calle Jos&#xE9; Joaqu&#xED;n P&#xE9;rez, incluyendo esta zona a las siguientes casas vecinas a dicha calle Baquedano: </div><div class=\"p\">&nbsp; &nbsp;  a) Las casas ubicadas en calle Gorostiaga esquina de Baquedano y signadas con los n&#xFA;meros 287, 279, 273, 251 y 237, de propiedad fiscal.</div><div class=\"p\">&nbsp; &nbsp;  b) Las casas ubicadas en calle Jos&#xE9; Joaqu&#xED;n P&#xE9;rez esquina con Baquedano y signadas con los n&#xFA;meros 330, de propiedad fiscal, y los n&#xFA;meros 360 y 390, de propiedad particular.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xDA;nico del Decreto 1293, Educaci&#xF3;n, publicado el 02.02.1984, modifica la presente norma en el sentido de ampliar la Zona T&#xED;pica y de Protecci&#xF3;n de la calle Baquedano, en la ciudad de Iquique, quedando configurada dicha Zona T&#xED;pica por todos los edificios en sus actuales l&#xED;mites catastrales que enfrentan la Plaza Prat, de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

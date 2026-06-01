@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-08-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5896261,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE ORDEN DE SUBROGACION DEL CARGO SUBSECRETARIO GENERAL DE LA PRESIDENCIA DE LA REPUBLICA Santiago, 31 de julio de 1995.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 142.- Visto: el art. 75 de la ley N&#xB0; 18.834; los dict&#xE1;menes N&#xB0;s 45.720/79, 21.864/90 y 23.397/93; la ley N&#xB0; 18.993; el N&#xB0; 108 del art&#xED;culo &#xFA;nico del D.S. (I) N&#xB0; 976 de 1995, de delegaci&#xF3;n de facultades; la resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y,</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que resulta necesario por razones de buen servicio, establecer el orden de subrogaci&#xF3;n del Subsecretario General de la Presidencia de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE ORDEN DE SUBROGACION DEL CARGO SUBSECRETARIO GENERAL DE LA PRESIDENCIA DE LA REPUBLICA Santiago, 31 de julio de 1995.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 142.- Visto: el art. 75 de la ley N&#xB0; 18.834; los dict&#xE1;menes N&#xB0;s 45.720/79, 21.864/90 y 23.397/93; la ley N&#xB0; 18.993; el N&#xB0; 108 del art&#xED;culo &#xFA;nico del D.S. (I) N&#xB0; 976 de 1995, de delegaci&#xF3;n de facultades; la resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y,</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que resulta necesario por razones de buen servicio, establecer el orden de subrogaci&#xF3;n del Subsecretario General de la Presidencia de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

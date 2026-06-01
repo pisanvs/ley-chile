@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-06-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8646453,
+          "old": "<div><div class=\"p\">FIJA NORMA DE EXAMENES PARA OPTAR A LICENCIAS DEL SERVICIO DE AFICIONADOS A LAS RADIOCOMUNICACIONES </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 4 de agosto de 2000.- Con esta fecha se ha resuelto lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 856 exenta.- Vistos:</div><br><div class=\"p\">a) El Decreto Ley N&#xBA; 1.762 de 1977;</div><div class=\"p\">b) La Ley N&#xBA; 18.168, General de Telecomunicaciones, en adelante la ley;</div><div class=\"p\">c) El decreto supremo N&#xB0; 372 de 1999, del Ministerio de Transportes y Telecomunicaciones, que aprueba Reglamento del Servicio de Aficionados a las Radiocomunicaciones;</div><div class=\"p\">d) Lo dispuesto en la Resoluci&#xF3;n N&#xB0; 55, de 1992, cuyo texto refundido, coordinado y sistematizado fue fijado por la Resoluci&#xF3;n N&#xB0; 520, de 1996, ambas de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: La nueva normativa que regula el servicio de aficionados a las radiocomunicaciones en caso de problemas en su funcionamiento; y, en uso de mis atribuciones legales, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l&nbsp; u c i &#xF3; n:</div><br><div class=\"p\">&nbsp; &nbsp;  F&#xED;jase la siguiente norma de ex&#xE1;menes para optar a licencias del servicio de aficionados a las radiocomunicaciones.</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA NORMA DE EXAMENES PARA OPTAR A LICENCIAS DEL SERVICIO DE AFICIONADOS A LAS RADIOCOMUNICACIONES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 4 de agosto de 2000.- Con esta fecha se ha resuelto lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 856 exenta.- Vistos:</div><br><div class=\"p\">a) El Decreto Ley N&#xBA; 1.762 de 1977;</div><div class=\"p\">b) La Ley N&#xBA; 18.168, General de Telecomunicaciones, en adelante la ley;</div><div class=\"p\">c) El decreto supremo N&#xB0; 372 de 1999, del Ministerio de Transportes y Telecomunicaciones, que aprueba Reglamento del Servicio de Aficionados a las Radiocomunicaciones;</div><div class=\"p\">d) Lo dispuesto en la Resoluci&#xF3;n N&#xB0; 55, de 1992, cuyo texto refundido, coordinado y sistematizado fue fijado por la Resoluci&#xF3;n N&#xB0; 520, de 1996, ambas de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: La nueva normativa que regula el servicio de aficionados a las radiocomunicaciones en caso de problemas en su funcionamiento; y, en uso de mis atribuciones legales, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><div class=\"p\">&nbsp; &nbsp;  F&#xED;jase la siguiente norma de ex&#xE1;menes para optar a licencias del servicio de aficionados a las radiocomunicaciones.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

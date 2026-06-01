@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-08-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-01-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7313715,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Lo dispuesto en las letras b) y c) del art&#xED;culo 1&#xBA; de esta ley, regir&#xE1; a contar del 1&#xBA; de enero del a&#xF1;o 2006.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Lo dispuesto en las letras c) y d)<span class=\"n\" id=\"n_0\">LEY 19997<br>Art. &#xFA;nico<br>D.O. 25.01.2005</span> del art&#xED;culo 1&#xBA; de esta ley, regir&#xE1; a contar del 1&#xBA; de enero del a&#xF1;o 2006.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

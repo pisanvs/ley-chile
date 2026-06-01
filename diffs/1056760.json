@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-03-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9388730,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA; 1989, de 18 de noviembre de 2013, y en base a la facultad otorgada por los art&#xED;culos 3&#xBA; letra a), 14 letra e) y 105 del D.F.L. M.O.P. N&#xBA;850, de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley N&#xBA;15.840 y del DFL. MOP. N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s. 18-E, 19-A, 19-B, 50 y 51, para la obra: &quot;Mejoramiento Ruta I-796, Cabrer&#xED;a - Auquinco&quot;, Provincia de Colchagua, Sexta Regi&#xF3;n&quot;, que figuran a nombre de VALENZUELA DIAZ IDILIA MERCEDES, PENA ZAMORANO HECTOR DOMINGO y AGRICOLA SANTA AMELIA DE AUQUINC, roles de aval&#xFA;o 38-123, 38-6 y 38-55, Comuna de CHEPICA, VI Regi&#xF3;n, superficies 16 m2, 16 m2, 48 m2, 1.117 m2 y 604 m2. respectivamente. La Comisi&#xF3;n de Peritos integrada por ROBERT HILLIARD JORQUERA, JOS&#xC9; LUIS PEZO SEGOVIA y SERGIO SHIPLEY RUBIO, mediante informe de tasaci&#xF3;n de 8 de abril de 2013, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $127.248.-, para el lote N&#xBA;18-E, $57.248.-, para el lote N&#xBA;19-A, $597.144.-, para el lote N&#xBA;19-B, $7.384.694.- para el lote N&#xBA;50 y $3.397.506.- para el lote N&#xBA;51. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA; 1989, de 18 de noviembre de 2013, y en base a la facultad otorgada por los art&#xED;culos 3&#xBA; letra a), 14 letra e) y 105 del D.F.L. M.O.P. N&#xBA;850, de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley N&#xBA;15.840 y del DFL. MOP. N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s. 18-E, 19-A, 19-B, 50 y 51<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>, para la obra: &quot;Mejoramiento Ruta I-796, Cabrer&#xED;a - Auquinco&quot;, Provincia de Colchagua, Sexta Regi&#xF3;n&quot;, que figuran a nombre de VALENZUELA DIAZ IDILIA MERCEDES, PENA ZAMORANO HECTOR DOMINGO y AGRICOLA SANTA AMELIA DE AUQUINC, roles de aval&#xFA;o 38-123, 38-6 y 38-55, Comuna de CHEPICA, VI Regi&#xF3;n, superficies 16 m2, 16 m2, 48 m2, 1.117 m2 y 604 m2. respectivamente. La Comisi&#xF3;n de Peritos integrada por ROBERT HILLIARD JORQUERA, JOS&#xC9; LUIS PEZO SEGOVIA y SERGIO SHIPLEY RUBIO, mediante informe de tasaci&#xF3;n de 8 de abril de 2013, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $127.248.-, para el lote N&#xBA;18-E, $57.248.-, para el lote N&#xBA;19-A, $597.144.-, para el lote N&#xBA;19-B, $7.384.694.- para el lote N&#xBA;50 y $3.397.506.- para el lote N&#xBA;51. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 69 Exento, Obras P&#xFA;blicas, publicado el 16.03.2015, desiste de la expropiaci&#xF3;n de los lotes N&#xB0; 50 y 51, ordenada por la presente norma, para la obra &quot;Mejoramiento Ruta I-796, Cabrer&#xED;a - Auquinco,&quot; debido a que fueron eliminados, seg&#xFA;n lo indica el citado Decreto. </div></div>"
+        }
+      ]
+    }
+  }
+]

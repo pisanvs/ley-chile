@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-07-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8264579,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA DECRETO N&#xB0; 441, DE 1990, QUE FIJA CUOTA DE CAPTURA DEL RECURSO MERLUZA COMUN EN AREA QUE INDICA N&#xFA;m. 624.- Santiago, 17 de Diciembre de 1991.- Visto: Lo informado por la Subsecretar&#xED;a de Pesca; el Art. 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; lo dispuesto en el DFL N&#xB0; 5, de 1983; la Ley N&#xB0; 18.892 y sus modificaciones contenidas en las Leyes N&#xB0; 19.079 y N&#xB0; 19.080; la Ley N&#xB0; 10.336; el DS N&#xB0; 441, de 1990, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que corresponde al Estado establecer medidas de administraci&#xF3;n tendientes a lograr una efectiva protecci&#xF3;n y un aprovechamiento integral de los recursos hidrobiol&#xF3;gicos.</div><div class=\"p\">&nbsp; &nbsp; Que de los antecedentes t&#xE9;cnicos disponibles resulta necesario regular la tasa de explotaci&#xF3;n del recurso Merluza com&#xFA;n (Merluccius gayi), en las &#xE1;reas indicadas en el Art. 1&#xB0; transitorio de la Ley N&#xB0; 18.892 inclusas las modificaciones introducidas por el Art&#xED;culo 1&#xB0; letra G de la Ley N&#xB0; 19.080 y considerando tambi&#xE9;n el &#xE1;rea de distribuci&#xF3;n de la pesca artesanal de esta especie.</div><div class=\"p\">&nbsp; &nbsp; Que el Art&#xED;culo Primero letra H, (Art&#xED;culo H.4) de la Ley 19.080, faculta al Ministerio para prescindir de las consultas, informes o aprobaciones de los Consejos de Pesca mientras &#xE9;stos no se hayan constituido, hecho que no ha ocurrido a esta fecha.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO N&#xB0; 441, DE 1990, QUE FIJA CUOTA DE CAPTURA DEL RECURSO MERLUZA COMUN EN AREA QUE INDICA </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 624.- Santiago, 17 de Diciembre de 1991.- Visto: Lo informado por la Subsecretar&#xED;a de Pesca; el Art. 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; lo dispuesto en el DFL N&#xB0; 5, de 1983; la Ley N&#xB0; 18.892 y sus modificaciones contenidas en las Leyes N&#xB0; 19.079 y N&#xB0; 19.080; la Ley N&#xB0; 10.336; el DS N&#xB0; 441, de 1990, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n;</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que corresponde al Estado establecer medidas de administraci&#xF3;n tendientes a lograr una efectiva protecci&#xF3;n y un aprovechamiento integral de los recursos hidrobiol&#xF3;gicos.</div><div class=\"p\">&nbsp; &nbsp; Que de los antecedentes t&#xE9;cnicos disponibles resulta necesario regular la tasa de explotaci&#xF3;n del recurso Merluza com&#xFA;n (Merluccius gayi), en las &#xE1;reas indicadas en el Art. 1&#xB0; transitorio de la Ley N&#xB0; 18.892 inclusas las modificaciones introducidas por el Art&#xED;culo 1&#xB0; letra G de la Ley N&#xB0; 19.080 y considerando tambi&#xE9;n el &#xE1;rea de distribuci&#xF3;n de la pesca artesanal de esta especie.</div><div class=\"p\">&nbsp; &nbsp; Que el Art&#xED;culo Primero letra H, (Art&#xED;culo H.4) de la Ley 19.080, faculta al Ministerio para prescindir de las consultas, informes o aprobaciones de los Consejos de Pesca mientras &#xE9;stos no se hayan constituido, hecho que no ha ocurrido a esta fecha.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

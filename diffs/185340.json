@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6335065,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n ministerial N&#xBA; 40, de fecha 23 de abril del a&#xF1;o 2001, se autoriz&#xF3; la existencia y aprob&#xF3; el estatuto de la Cooperativa de Vivienda y Servicios Habitacionales &quot;Angel Gabriel&quot; Limitada, en los t&#xE9;rminos que da testimonio la escritura p&#xFA;blica suscrita con fecha 12 de enero de 2001, ante el Notario Suplente de la Tercera Notar&#xED;a de la ciudad de Chill&#xE1;n, don Gustavo Tom&#xE1;s Baeriswyl Padilla, modificada por escritura p&#xFA;blica suscrita con fecha 21 de marzo de 2001, ante el Notario Titular de la misma Notar&#xED;a don Manuel Bravo Bravo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n ministerial N&#xBA; 40, de fecha 23 de abril del a&#xF1;o 2001, se autoriz&#xF3; la existencia y aprob&#xF3; el estatuto de la Cooperativa de Vivienda y Servicios Habitacionales &quot;Angel Gabriel&quot; Limitada, en los t&#xE9;rminos que da testimonio la escritura p&#xFA;blica suscrita con fecha 12 de febrero de 2001, ante el<span class=\"n\" id=\"n_0\">AVI S/N, HACIENDA<br>D.O. 04.02.2002</span> Notario Suplente de la Tercera Notar&#xED;a de la ciudad de Chill&#xE1;n, don Gustavo Tom&#xE1;s Baeriswyl Padilla, modificada por escritura p&#xFA;blica suscrita con fecha 21 de marzo de 2001, ante el Notario Titular de la misma Notar&#xED;a don Manuel Bravo Bravo. </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-09-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-04-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6128775,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Autor&#xED;zase la extracci&#xF3;n desde el territorio nacional de dos obras del pintor Roberto Matta &apos;&apos;El Ojo del Alma es una Estrella Roja&apos;&apos; (1972, Inventario N&#xBA; 815) y &apos;&apos;Mira la Lucha del Esfuerzo del Afuerino&apos;&apos; (1972, Inventario N&#xBA; 395) de propiedad del Museo Nacional de Bellas Artes de Santiago, para ser exhibidas en &apos;&apos;La Pedrera&apos;&apos;, Sala de Exposiciones de la Fundaci&#xF3;n Caixa de Catalunya, Barcelona, entre los d&#xED;as 21 de diciembre de 1998 y el 21 de marzo de 1999 y posteriormente en las Salas del Museo Nacional Centro de Arte Reina Sof&#xED;a, de Madrid, entre los meses de abril y julio de 1999.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Autor&#xED;zase la extracci&#xF3;n desde el<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> territorio nacional de dos obras del pintor Roberto Matta &apos;&apos;El Ojo del Alma es una Estrella Roja&apos;&apos; (1972, Inventario N&#xBA; 815) y &apos;&apos;Mira la Lucha del Esfuerzo del Afuerino&apos;&apos; (1972, Inventario N&#xBA; 395) de propiedad del Museo Nacional de Bellas Artes de Santiago, para ser exhibidas en &apos;&apos;La Pedrera&apos;&apos;, Sala de Exposiciones de la Fundaci&#xF3;n Caixa de Catalunya, Barcelona, entre los d&#xED;as 21 de diciembre de 1998 y el 21 de marzo de 1999 y posteriormente en las Salas del Museo Nacional Centro de Arte Reina Sof&#xED;a, de Madrid, entre los meses de abril y julio de 1999.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br> El art&#xED;culo 1&#xBA; del DTO 84 exento, Educaci&#xF3;n,&nbsp; publicado el 06.04.1999, modific&#xF3; el presente artt&#xED;culo en la forma que indica<br></div></div>"
+        }
+      ]
+    }
+  }
+]

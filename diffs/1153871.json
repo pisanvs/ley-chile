@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10187503,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: F&#xED;jase la lista de los establecimientos educacionales del sector particular subvencionado y regidos por el decreto ley N&#xBA; 3.166, de 1980, cuyos profesionales de la educaci&#xF3;n no han sido asignatarios de los cupos fijados por la resoluci&#xF3;n exenta N&#xBA; 2.348, de 2020, de la Subsecretar&#xED;a de Educaci&#xF3;n, entendi&#xE9;ndose en estos casos que los sostenedores o administradores postulan a los cupos correspondientes al a&#xF1;o 2021.</div><div class=\"p\">&nbsp; &nbsp;  El listado de los establecimientos educacionales no beneficiarios de un cupo se encuentra en el archivo denominado en el &quot;Pendientes_2020.&quot;, que est&#xE1; almacenado en el mismo pendrive o memoria USB port&#xE1;til indicada en el art&#xED;culo primero, que cuenta con la firma electr&#xF3;nica avanzada de la jefa del CPEIP, el que para todos los efectos legales forma parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: F&#xED;jase <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>la lista de los establecimientos educacionales del sector particular subvencionado y regidos por el decreto ley N&#xBA; 3.166, de 1980, cuyos profesionales de la educaci&#xF3;n no han sido asignatarios de los cupos fijados por la resoluci&#xF3;n exenta N&#xBA; 2.348, de 2020, de la Subsecretar&#xED;a de Educaci&#xF3;n, entendi&#xE9;ndose en estos casos que los sostenedores o administradores postulan a los cupos correspondientes al a&#xF1;o 2021.</div><div class=\"p\">&nbsp; &nbsp;  El listado de los establecimientos educacionales no beneficiarios de un cupo se encuentra en el archivo denominado en el &quot;Pendientes_2020.&quot;, que est&#xE1; almacenado en el mismo pendrive o memoria USB port&#xE1;til indicada en el art&#xED;culo primero, que cuenta con la firma electr&#xF3;nica avanzada de la jefa del CPEIP, el que para todos los efectos legales forma parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo tercero de la Resoluci&#xF3;n 6546 Exenta, Educaci&#xF3;n, publicada el 31.12.2021, modifica la presente norma en el sentido eliminar del listado contenido en la presente norma, a: 1) RBD N&#xBA; 25978 Centro Educacional de Adultos Ceduca de la comuna de Quilicura, 2) RBD N&#xBA; 31493 Escuela de P&#xE1;rvulos Mi Girasol de la comuna de Maip&#xFA; y 3) RBD N&#xBA; 11388 Colegio Creaci&#xF3;n de la comuna de Chill&#xE1;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

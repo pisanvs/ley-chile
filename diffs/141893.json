@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-08-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-10-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6186637,
+          "old": "<div><div class=\"p\">AUTORIZA A ESSO CHILE PETROLERA LTDA. PARA EXIMIRSE DE LOS REQUISITOS ESTABLECIDOS EN LA RESOLUCION N&#xBA; 1.661 EXENTA, DE 1985 </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A ESSO CHILE PETROLERA LTDA. PARA EXIMIRSE DE LOS REQUISITOS ESTABLECIDOS EN LA RESOLUCION N&#xBA; 1.661 EXENTA, DE 1985</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

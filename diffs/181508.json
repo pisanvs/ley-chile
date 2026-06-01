@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-11-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6321173,
+          "old": "<div><div class=\"p\">REGLAMENTO DE VISITAS DE ABOGADOS Y OTROS DEBIDAMENTE FACULTADOS A LOS ESTABLECIMIENTOS PENALES DEL PAIS </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 8 de Agosto de 1979.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.114.- Vistos: Lo dispuesto en el decreto ley N&#xBA; 527, de 1974; en los art&#xED;culos 294, del C&#xF3;digo de Procedimiento Penal; 40 y 41, de la ley N&#xBA; 4.409, y 55 y 57, decreto supremo n&#xFA;mero 805, de 1928, del Ministerio de Justicia, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  La necesidad de procurar las m&#xE1;s amplias garant&#xED;as y facilidades a los abogados que, en el ejercicio de su profesi&#xF3;n concurren a las c&#xE1;rceles, como igualmente a quienes, estando debidamente facultados por la ley, desempe&#xF1;an similares funciones en resguardo del derecho a la libertad provisional de los detenidos,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTO DE VISITAS DE ABOGADOS Y OTROS DEBIDAMENTE FACULTADOS A LOS ESTABLECIMIENTOS PENALES DEL PAIS </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 8 de Agosto de 1979.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.114.- Vistos: Lo dispuesto en el decreto ley N&#xBA; 527, de 1974; en los art&#xED;culos 294, del C&#xF3;digo de Procedimiento Penal; 40 y 41, de la ley N&#xBA; 4.409, y 55 y 57, decreto supremo n&#xFA;mero 805, de 1928, del Ministerio de Justicia, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  La necesidad de procurar las m&#xE1;s amplias garant&#xED;as y facilidades a los abogados que, en el ejercicio de su profesi&#xF3;n concurren a las c&#xE1;rceles, como igualmente a quienes, estando debidamente facultados por la ley, desempe&#xF1;an similares funciones en resguardo del derecho a la libertad provisional de los detenidos,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-09-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325931,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA RAPEL LTDA. PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA RAPEL LTDA. PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

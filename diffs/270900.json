@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-05-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-12-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7368796,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Decl&#xE1;rense Normas Oficiales de la Rep&#xFA;blica de Chile, las siguientes normas chilenas con sus respectivos c&#xF3;digos y t&#xED;tulo de identificaci&#xF3;n:</div><br><div class=\"p\">NCh173.Of2008&nbsp;  Madera - Terminolog&#xED;a general. NCh3140.Of2008&nbsp; Productos hidrobiol&#xF3;gicos -</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Determinaci&#xF3;n de ars&#xE9;nico mediante</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espectrofotometr&#xED;a de absorci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; at&#xF3;mica por generaci&#xF3;n de hidruro.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Decl&#xE1;rense Normas Oficiales de la Rep&#xFA;blica de Chile, las siguientes normas chilenas con sus respectivos c&#xF3;digos y t&#xED;tulo de identificaci&#xF3;n:</div><br><div class=\"p\">NCh173.Of2008&nbsp;  Madera - Terminolog&#xED;a general.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">NCh3140.Of2008&nbsp; Productos hidrobiol&#xF3;gicos -</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Determinaci&#xF3;n de ars&#xE9;nico mediante</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espectrofotometr&#xED;a de absorci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; at&#xF3;mica por generaci&#xF3;n de hidruro.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 202304081 Exenta, Econom&#xED;a, publicada el 21.12.2023, dispone dejar sin efecto parcialmente la presente norma, en el sentido de suprimir el reconocimiento como norma oficial de la Rep&#xFA;blica de Chile la &quot;NCh73.Of2008 Madera-Terminolog&#xED;a General&quot;. Sin embargo, precisamos que la norma establecida en esta Resoluci&#xF3;n es &quot;NCh173.Of2008&quot; y no &quot;NCh73.Of2008&quot; como en aquella se menciona.</div></div>"
+        }
+      ]
+    }
+  }
+]

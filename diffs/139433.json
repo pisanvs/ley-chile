@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1969-05-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1970-06-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9082475,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  2) Art&#xED;culo 1&#xBA;.- La modificaci&#xF3;n de los deslindes y</div><div class=\"p\">cabidas y clasificaci&#xF3;n de las tierras fiscales disponibles</div><div class=\"p\">en la provincia de Magallanes, para relotearlas en unidades</div><div class=\"p\">econ&#xF3;micas familiares de capacidad talajera no inferior a</div><div class=\"p\">1.000 ovejunos de esquila y su posterior asignaci&#xF3;n a</div><div class=\"p\">campesinos, se regir&#xE1; por las disposiciones que en los</div><div class=\"p\">art&#xED;culos siguientes se se&#xF1;alan.</div><div class=\"p\">&nbsp; &nbsp;  Se entender&#xE1;n por tierras fiscales disponibles aquellas que lo eran al momento de la dictaci&#xF3;n de la ley N&#xBA; 16.813 y las que adquieran tal calidad y condici&#xF3;n mientras dure la vigencia del art&#xED;culo 2&#xBA; transitorio de esa ley. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  2) Art&#xED;culo 1&#xBA;.- La modificaci&#xF3;n de los deslindes y cabidas y clasificaci&#xF3;n de las tierras fiscales disponibles en la provincia de Magallanes, para relotearlas en unidades econ&#xF3;micas familiares de capacidad talajera no inferior a 1.000 ovejunos de esquila y su posterior asignaci&#xF3;n a campesinos, se regir&#xE1; por las disposiciones que en los art&#xED;culos siguientes se se&#xF1;alan. Se entender&#xE1; por tierras fiscales disponibles<span class=\"n\" id=\"n_0\">DTO 775, TIERRAS<br>D.O. 23.06.1970</span> aquellas que lo eran al momento de la promulgaci&#xF3;n de la ley N&#xBA; 16.813 y las que con posterioridad recupere el Fisco por resoluci&#xF3;n de los contratos de compraventa, caducidad o vencimiento de los contratos de arrendamiento o por cualquier otra causa. </div></div>"
+        }
+      ]
+    }
+  }
+]

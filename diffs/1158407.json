@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2021-04-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10217165,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: F&#xED;janse las siguientes plantas de personal de la Defensor&#xED;a del Contribuyente, en adelante indistintamente denominada &quot;la Defensor&#xED;a&quot;, que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/124104.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/124105.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: F&#xED;janse las siguientes plantas de personal de la Defensor&#xED;a del Contribuyente, en adelante indistintamente denominada &quot;la Defensor&#xED;a&quot;, que se indican a continuaci&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/124104.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/124105.jpg\"></div><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 64 de la Ley 21724, publicada el 03.01.2025, transform&#xF3; en la planta de directivos de exclusiva confianza de la Defensor&#xED;a del Contribuyente, fijada por el art&#xED;culo 1&#xB0; del decreto con fuerza de ley N&#xB0; 1, de 2021, del Ministerio de Hacienda, un cargo de Jefe de Divisi&#xF3;n, grado 5&#xB0;, en un cargo de Jefe de Divisi&#xF3;n, grado 4&#xB0;.</div></div>"
+        }
+      ]
+    }
+  }
+]

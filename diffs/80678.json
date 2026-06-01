@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-08-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-08-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7215582,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 79, DE 1991 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO No. 79, DE 1991</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

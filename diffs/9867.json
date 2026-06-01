@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-06-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9039121,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Autor&#xED;zase la extracci&#xF3;n desde el territorio nacional en calidad de pr&#xE9;stamo, del Moai, ubicado en la ciudad de La Serena, para su exhibici&#xF3;n en la Exposici&#xF3;n &quot;La Terra dei Moai: dalla Polinesia all&apos;Isola di Pasqua&quot;, a realizarse en el Palacio Real de Mil&#xE1;n durante los meses de Marzo a Junio de 1995, organizada por el Municipio de Mil&#xE1;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Autor&#xED;zase la extracci&#xF3;n desde el<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp;  1.-</a></div> territorio nacional en calidad de pr&#xE9;stamo, del Moai, ubicado en la ciudad de La Serena, para su exhibici&#xF3;n en la Exposici&#xF3;n &quot;La Terra dei Moai: dalla Polinesia all&apos;Isola di Pasqua&quot;, a realizarse en el Palacio Real de Mil&#xE1;n durante los meses de Marzo a Junio de 1995, organizada por el Municipio de Mil&#xE1;n.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp;  1.-</a> <br>&nbsp; &nbsp;  El DS 899, de Educaci&#xF3;n de 1995, publicado en el Diario Oficial de 9 de enero de 1996, complement&#xF3; el presente decreto en el sentido de autorizar el traslado desde Mil&#xE1;n a Barcelona del Moai de la ciudad de La Serena, con el objeto de ser exhibido en la Exposici&#xF3;n &quot;Los Moai de Isla de Pascua&quot;, que se realiza en Barcelona entre setiembre y diciembre de 1995, organizada por la Fundaci&#xF3;n &quot;La Caixa&quot;.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

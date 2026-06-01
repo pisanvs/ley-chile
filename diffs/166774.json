@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-10-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-09-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8572761,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD PESQUERA ALGAZO LTDA., PARA DESARROLLAR ACTIVIDADES PESQUERAS, Y CADUCA RESOLUCIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD PESQUERA ALGAZO LTDA., PARA DESARROLLAR ACTIVIDADES PESQUERAS, Y CADUCA RESOLUCIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "fecha": "2002-04-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-01-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8911155,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13: El cliente del Servicio de Franqueo<span class=\"n\" id=\"n_2\">RES 93 EXENTA,<br>EMP. DE CORREOS<br>N&#xBA; 1 b)<br>D.O. 07.01.2009</span> Convenido estar&#xE1; siempre obligado a declarar el contenido fehaciente de aquellos env&#xED;os en que se requiera dicha declaraci&#xF3;n y en especial a dar cumplimiento a la reglamentaci&#xF3;n relativa a los contenidos de los env&#xED;os y en particular las prohibiciones a las que est&#xE1; sujeto el servicio postal y que se describen en la pagina Web de la Empresa de Correos de Chile: www.correos.cl.</div><br><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8911142,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Para acogerse al Servicio de Franqueo Convenido, las personas interesadas deber&#xE1;n ser clientes finales del servicio y suscribir un contrato en el cual se establecer&#xE1;n los derechos y obligaciones de las partes. Para acceder a este servicio el usuario deber&#xE1; imponer un m&#xED;nimo de 500 env&#xED;os mensuales. En un anexo del contrato se fijar&#xE1;n las condiciones de admisi&#xF3;n de los diferentes env&#xED;os, las que podr&#xE1;n ser modificadas de com&#xFA;n acuerdo por las partes. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2: Para acogerse al Servicio de Franqueo<span class=\"n\" id=\"n_0\">RES 93 EXENTA,<br>EMP. DE CORREOS<br>N&#xBA; 1 a)<br>D.O. 07.01.2009</span> Convenido las personas interesadas deber&#xE1;n ser clientes finales del servicio y suscribir un contrato en el cual se establecer&#xE1;n derechos y obligaciones de las partes. Para acceder a este servicio el usuario deber&#xE1; imponer un m&#xED;nimo de 500 env&#xED;os mensuales o mantener un promedio de facturaci&#xF3;n mensual equivalente al valor de imposici&#xF3;n de 500 cartas comerciales. Para estos efectos se considera la tarifa de la carta comercial vigente al d&#xED;a de la imposici&#xF3;n.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8911151,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;: A efectos de evitar diferencias en las condiciones que se otorgan a los clientes del Servicio de Franqueo Convenido, la Empresa de Correos de Chile s&#xF3;lo podr&#xE1; celebrar contratos de Franqueo Convenido en los t&#xE9;rminos se&#xF1;alados en este Reglamento y siguiendo el modelo de contrato aprobado.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11: La Empresa de Correos de Chile s&#xF3;lo<span class=\"n\" id=\"n_1\">RES 93 EXENTA,<br>EMP. DE CORREOS<br>N&#xBA; 1 a)<br>D.O. 07.01.2009</span> podr&#xE1; celebrar contratos de Franqueo Convenido en los t&#xE9;rminos se&#xF1;alados en este reglamento. El Gerente General podr&#xE1; celebrar los contratos de Servicio de Franqueo Convenido estableciendo los correspondientes derechos y obligaciones, con la sola limitaci&#xF3;n de resguardar el inter&#xE9;s de la Empresa y el acceso igualitario a las condiciones de venta por parte de los clientes.</div><br><div class=\"p\">&nbsp; &nbsp;  Asimismo y en aquellos casos en que la Empresa de Correos de Chile participe en procesos de licitaci&#xF3;n, la oferta de la Empresa de Correos de Chile se fijar&#xE1; conforme a la tarifa y descuentos vigentes al momento de presentarse la oferta, manteni&#xE9;ndose vigente durante el per&#xED;odo de duraci&#xF3;n del contrato que la Empresa de Correos de Chile se adjudique, e incorporando en la oferta el reajuste del IPC para cada a&#xF1;o de prestaci&#xF3;n de servicio.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-11-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8911146,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;: La Empresa de Correos de Chile, en resguardo de sus intereses, podr&#xE1; exigir al cliente la constituci&#xF3;n de una garant&#xED;a en un Pagar&#xE9; firmado ante Notario u otro documento, que a su juicio, garantice el fiel cumplimiento de las obligaciones contra&#xED;das, por el monto que se estipule en el contrato, la que deber&#xE1; ser entregada al momento de su suscripci&#xF3;n. Asimismo podr&#xE1; exigir su actualizaci&#xF3;n o renovaci&#xF3;n si fuere necesario.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;: ELIMINADO<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1032016&amp;idParte=9201377&amp;idVersion=2011-11-04\">Resoluci&#xF3;n 77 EXENTA,<br>EMP. DE CORREOS<br>N&#xB0; 1, 1<br>D.O. 04.11.2011</a></span>.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8911147,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: La Empresa de Correos de Chile podr&#xE1; hacer efectiva la garant&#xED;a despu&#xE9;s de 30 d&#xED;as corridos contados desde la fecha en que debi&#xF3; efectuarse el pago de los valores tarifarios adeudados, sin perjuicio del ejercicio de las acciones legales que procedan. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: ELIMINAD<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1032016&amp;idParte=9201377&amp;idVersion=2011-11-04\">Resoluci&#xF3;n 77 EXENTA,<br>EMP. DE CORREOS<br>N&#xB0; 1, 1<br>D.O. 04.11.2011</a></span>O.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8911148,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: En caso de incumplimiento por parte del cliente de las condiciones pactadas, la Empresa de Correos de Chile se reserva el derecho de suspender de inmediato el servicio y poner t&#xE9;rmino al respectivo contrato sin expresi&#xF3;n de causa ni derecho a indemnizaci&#xF3;n alguna.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: En caso de incumplimiento por parte del cliente de las condiciones pactadas, la Empresa de Correos de Chile se reserva el derecho de suspender de inmediato el servicio y poner t&#xE9;rmino al respectivo contrato.</div><br><br><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1032016&amp;idParte=9201377&amp;idVersion=2011-11-04\">Resoluci&#xF3;n 77 EXENTA,<br>EMP. DE CORREOS<br>N&#xB0; 1, 2<br>D.O. 04.11.2011</a></span></div><br></div>"
+        },
+        {
+          "part_id": 8911149,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;: La Empresa de Correos de Chile se reserva el derecho de denegar las solicitudes del servicio cuando las necesidades e intereses de la Empresa lo aconsejen, sin expresi&#xF3;n de causa. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;: La Empresa de Correos de Chile se reserva el derecho de denegar las solicitudes del servicio cuando las necesidades e intereses de la Empresa lo aconsejen. </div><br><div class=\"p\"><span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1032016&amp;idParte=9201377&amp;idVersion=2011-11-04\">Resoluci&#xF3;n 77 EXENTA,<br>EMP. DE CORREOS<br>N&#xB0; 1, 3<br>D.O. 04.11.2011</a></span></div><br></div>"
+        },
+        {
+          "part_id": 8911150,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA;: En el caso de t&#xE9;rmino de un contrato, la garant&#xED;a que se hubiere otorgado ser&#xE1; devuelta al cliente, previa liquidaci&#xF3;n y pago de lo eventualmente adeudado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA;: ELIMINA<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1032016&amp;idParte=9201377&amp;idVersion=2011-11-04\">Resoluci&#xF3;n 77 EXENTA,<br>EMP. DE CORREOS<br>N&#xB0; 1, 1<br>D.O. 04.11.2011</a></span>DO.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8911151,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11: La Empresa de Correos de Chile s&#xF3;lo<span class=\"n\" id=\"n_1\">RES 93 EXENTA,<br>EMP. DE CORREOS<br>N&#xBA; 1 a)<br>D.O. 07.01.2009</span> podr&#xE1; celebrar contratos de Franqueo Convenido en los t&#xE9;rminos se&#xF1;alados en este reglamento. El Gerente General podr&#xE1; celebrar los contratos de Servicio de Franqueo Convenido estableciendo los correspondientes derechos y obligaciones, con la sola limitaci&#xF3;n de resguardar el inter&#xE9;s de la Empresa y el acceso igualitario a las condiciones de venta por parte de los clientes.</div><br><div class=\"p\">&nbsp; &nbsp;  Asimismo y en aquellos casos en que la Empresa de Correos de Chile participe en procesos de licitaci&#xF3;n, la oferta de la Empresa de Correos de Chile se fijar&#xE1; conforme a la tarifa y descuentos vigentes al momento de presentarse la oferta, manteni&#xE9;ndose vigente durante el per&#xED;odo de duraci&#xF3;n del contrato que la Empresa de Correos de Chile se adjudique, e incorporando en la oferta el reajuste del IPC para cada a&#xF1;o de prestaci&#xF3;n de servicio.</div><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11: La Empresa de Correos de Chile s&#xF3;lo<span class=\"n\" id=\"n_6\">RES 93 EXENTA,<br>EMP. DE CORREOS<br>N&#xBA; 1 a)<br>D.O. 07.01.2009</span> podr&#xE1; celebrar contratos de Franqueo Convenido en los t&#xE9;rminos se&#xF1;alados en este reglamento. El Gerente General podr&#xE1; celebrar los contratos de Servicio de Franqueo Convenido estableciendo los correspondientes derechos y obligaciones, con la sola limitaci&#xF3;n de resguardar el inter&#xE9;s de la Empresa y el acceso igualitario a las condiciones de venta por parte de los clientes.</div><br><div class=\"p\">&nbsp; &nbsp;  Asimismo y en aquellos casos en que la Empresa de Correos de Chile participe en procesos de licitaci&#xF3;n, la oferta de la Empresa de Correos de Chile se fijar&#xE1; conforme a la tarifa y descuentos vigentes al momento de presentarse la oferta, manteni&#xE9;ndose vigente durante el per&#xED;odo de duraci&#xF3;n del contrato que la Empresa de Correos de Chile se adjudique, e incorporando en la oferta el reajuste del IPC para cada a&#xF1;o de prestaci&#xF3;n de servicio.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8911155,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13: El cliente del Servicio de Franqueo<span class=\"n\" id=\"n_2\">RES 93 EXENTA,<br>EMP. DE CORREOS<br>N&#xBA; 1 b)<br>D.O. 07.01.2009</span> Convenido estar&#xE1; siempre obligado a declarar el contenido fehaciente de aquellos env&#xED;os en que se requiera dicha declaraci&#xF3;n y en especial a dar cumplimiento a la reglamentaci&#xF3;n relativa a los contenidos de los env&#xED;os y en particular las prohibiciones a las que est&#xE1; sujeto el servicio postal y que se describen en la pagina Web de la Empresa de Correos de Chile: www.correos.cl.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13: El cliente se obliga a cumplir las disposiciones relativas a env&#xED;os peligrosos <span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1032016&amp;idParte=9201377&amp;idVersion=2011-11-04\">Resoluci&#xF3;n 77 EXENTA,<br>EMP. DE CORREOS<br>N&#xB0; 1, 4<br>D.O. 04.11.2011</a></span>establecidas en la ley, los convenios internacionales postales y la normativa general vigente, declarar fehacientemente el contenido de cada env&#xED;o postal, cuando ello proceda, y en general a dar fiel cumplimiento a las condiciones de cada servicio, las que se detallan en www.correos.cl.</div><br><br><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1032016,
+      "fecha": "2011-11-04"
+    }
+  },
+  {
+    "fecha": "2013-04-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8911155,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13: El cliente se obliga a cumplir las disposiciones relativas a env&#xED;os peligrosos <span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1032016&amp;idParte=9201377&amp;idVersion=2011-11-04\">Resoluci&#xF3;n 77 EXENTA,<br>EMP. DE CORREOS<br>N&#xB0; 1, 4<br>D.O. 04.11.2011</a></span>establecidas en la ley, los convenios internacionales postales y la normativa general vigente, declarar fehacientemente el contenido de cada env&#xED;o postal, cuando ello proceda, y en general a dar fiel cumplimiento a las condiciones de cada servicio, las que se detallan en www.correos.cl.</div><br><br><br><br><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1050423&amp;idParte=9347893&amp;idVersion=2013-04-26\">Resoluci&#xF3;n 36 EXENTA,<br>CORREOS<br>N&#xB0; I<br>D.O. 26.04.2013</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13: El Cliente se obliga a cumplir las disposiciones relativas a env&#xED;os peligrosos establecidas en la ley, los convenios internacionales postales y la normativa general vigente, declarar fehacientemente el contenido de cada env&#xED;o postal, cuando ello proceda, y en general a dar fiel cumplimiento a las condiciones generales y particulares de los servicios postales, las que se encuentran disponibles en la web www.correos.cl y/o en las sucursales de la Empresa de Correos de Chile.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1050423,
+      "fecha": "2013-04-26"
+    }
+  }
+]

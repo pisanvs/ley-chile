@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-01-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6314827,
+          "old": "<div><div class=\"p\">FIJA TARIFAS DE SERVICIOS POSTALES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 137 exenta.- Santiago, 27 de diciembre de 2000.- Vistos: El DFL N&#xBA;10, de 1981 y el decreto N&#xBA;69 de 2000, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones, y en especial lo dispuesto en el N&#xBA;2 del mencionado decreto N&#xBA;69; la resoluci&#xF3;n 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las atribuciones que me confieren la resoluci&#xF3;n N&#xBA;5, de 2000 y resoluci&#xF3;n exenta N&#xBA;100, de 2000, ambas de la Empresa de Correos de Chile, dicto lo siguiente:</div><br><br></div>",
+          "new": "<div><div class=\"p\">FIJA TARIFAS DE SERVICIOS POSTALES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 137 exenta.- Santiago, 27 de diciembre de 2000.- Vistos: El DFL N&#xBA;10, de 1981 y el decreto N&#xBA;69 de 2000, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones, y en especial lo dispuesto en el N&#xBA;2 del mencionado decreto N&#xBA;69; la resoluci&#xF3;n 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las atribuciones que me confieren la resoluci&#xF3;n N&#xBA;5, de 2000 y resoluci&#xF3;n exenta N&#xBA;100, de 2000, ambas de la Empresa de Correos de Chile, dicto lo siguiente:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

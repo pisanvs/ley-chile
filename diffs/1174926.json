@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2022-06-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-07-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10327978,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1: Se proh&#xED;be el riego de &#xE1;reas verdes y de &#xE1;rboles en el bien nacional de uso p&#xFA;blico, entre las 12:00 y las 18:00 horas.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: En <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1193972&amp;idParte=10441576&amp;idVersion=2023-07-04\">Decreto 1734,<br>M. DE LA GRANJA<br>D.O. 04.07.2023</a></span>temporada de altas temperaturas, se proh&#xED;be el riego de &#xE1;reas verdes y de &#xE1;rboles en el Bien Nacional de Uso P&#xFA;blico, entre las 12:00 y las 18:00 horas. En temporada de bajas temperaturas no habr&#xE1; restricci&#xF3;n horaria.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        },
+        {
+          "part_id": 10327980,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2: El servicio de riego municipal se realizar&#xE1; en los siguientes horarios:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Primer turno, desde las 18:00 a las 6:00 horas.</div><div class=\"p\">&nbsp; &nbsp;  b) Segundo turno, desde las 6:00 a 12:00 horas.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Se except&#xFA;a de esta disposici&#xF3;n el riego de especies vegetales juveniles, reci&#xE9;n plantadas, que requieran un riego constante, por lo que no tendr&#xE1;n restricci&#xF3;n horaria.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: El <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1193972&amp;idParte=10441576&amp;idVersion=2023-07-04\">Decreto 1734,<br>M. DE LA GRANJA<br>D.O. 04.07.2023</a></span>servicio de riego municipal se realizar&#xE1; en los siguientes horarios:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Temporada de altas temperaturas (enero-febrero-marzo-octubre-noviembre-diciembre)</div><div class=\"p\">&nbsp; &nbsp;  a) Primer turno, desde las 18:00 a las 06:00 horas.</div><div class=\"p\">&nbsp; &nbsp;  b) Segundo turno, desde las 06:00 a las 12:00 horas.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Se except&#xFA;a de esta disposici&#xF3;n el riego de especies vegetales juveniles, reci&#xE9;n plantadas, que requieran un riego constante, por lo que no tendr&#xE1;n restricci&#xF3;n horaria.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Temporada de bajas temperaturas (abril-mayo-junio-julio-agosto-septiembre)</div><div class=\"p\">&nbsp; &nbsp;  Sin restricci&#xF3;n horaria.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Cualquier solicitud para aumentar o disminuir el horario antes se&#xF1;alado, debe ser debidamente autorizado por la Direcci&#xF3;n de Medio Ambiente, Aseo y Ornato.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  * Cabe se&#xF1;alar, que los meses de baja y altas temperaturas pueden cambiar, conforme a la ocurrencia de fen&#xF3;menos clim&#xE1;ticos que afecten a la Regi&#xF3;n Metropolitana, generando condiciones extremas en cualquier mes del a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1193972,
+      "fecha": "2023-07-04"
+    }
+  }
+]

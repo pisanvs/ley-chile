@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-01-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-03-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9041016,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;: Establ&#xE9;cense los siguientes valores unitarios por alumno, de la subvenci&#xF3;n adicional que se pagar&#xE1; a los establecimientos educacionales del sector municipal y particular subvencionado para financiar el mayor gasto que represente la aplicaci&#xF3;n de la Ley N&#xB0; 19.278 para ambos sectores:</div><div class=\"p\"> - Educaci&#xF3;n Parvularia (2&#xB0; nivel de transici&#xF3;n), Educaci&#xF3;n B&#xE1;sica, Educaci&#xF3;n B&#xE1;sica de Adultos, Educaci&#xF3;n Media Human&#xED;stico-</div><div class=\"p\">&nbsp;  Cient&#xED;fica y T&#xE9;cnico-Profesional y Educaci&#xF3;n Media de Adultos Vespertina y Nocturna</div><div class=\"p\">&nbsp;  0,0693 USE - Educaci&#xF3;n B&#xE1;sica Especial Diferenciada</div><div class=\"p\">&nbsp;  0,2080 USE </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;: Establ&#xE9;cense los siguientes valores unitarios por alumno, de la subvenci&#xF3;n adicional que se pagar&#xE1; a los establecimientos educacionales del sector municipal y particular subvencionado para financiar el mayor gasto que represente la aplicaci&#xF3;n de la Ley N&#xB0; 19.278 para ambos sectores:</div><div class=\"p\"> - Educaci&#xF3;n Parvularia (2&#xB0; nivel de transici&#xF3;n), Educaci&#xF3;n B&#xE1;sica, Educaci&#xF3;n B&#xE1;sica de Adultos, Educaci&#xF3;n Media Human&#xED;stico- Cient&#xED;fica y T&#xE9;cnico-Profesional y Educaci&#xF3;n Media de Adultos Vespertina y Nocturna 0,0789 USE<span class=\"n\" id=\"n_0\">DS 84, EDUC.<br>1994, Art.1&#xB0;</span></div><div class=\"p\"> - Educaci&#xF3;n B&#xE1;sica Especial Diferenciada 0,2367 USE</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2009-06-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-04-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8666356,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero. Establ&#xE9;cense las siguientes Tasas que el INAPI cobrar&#xE1;, como Oficina Receptora, a los titulares de solicitudes internacionales PCT y los valores correspondientes a cada una de ellas, a saber:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Tasa de Transmisi&#xF3;n: 350 USD (trescientos cincuenta d&#xF3;lares de los Estados Unidos de Am&#xE9;rica) (*).</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;. Tasa de Entrega Tard&#xED;a de Traducci&#xF3;n: 25% de la Tasa de Presentaci&#xF3;n Internacional calculada de acuerdo a la Regla 12.3. e) del Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;. Tasa de Copia de documentos: $200 por hoja.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;. Tasa por Documento de Prioridad: $9.000 por certificaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA;. Tasa de Restauraci&#xF3;n del Derecho de Prioridad: 400 USD (cuatrocientos d&#xF3;lares de los Estados Unidos de Am&#xE9;rica) (*).</div><div class=\"p\">&nbsp; &nbsp;  6&#xBA; Tasa de Pago Tard&#xED;o de Tasas: Calculada de acuerdo a la Regla 16 bis 2. del Reglamento.</div><br><div class=\"p\">------------------------------------------------------</div><div class=\"p\">(*) El valor en pesos m/n, se calcula considerando el tipo de cambio del d&#xF3;lar americano, observado el d&#xED;a anterior a la fecha de pago.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero. Establ&#xE9;cense las siguientes Tasas que el INAPI cobrar&#xE1;, como Oficina Receptora, a los titulares de solicitudes internacionales PCT y los valores correspondientes a cada una de ellas, a saber:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Tasa de Transmisi&#xF3;n: US<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1024124&amp;idParte=9129658&amp;idVersion=2011-04-01\">Resoluci&#xF3;n 101 EXENTA,<br>I. PROPIEDAD INDUSTRIAL<br>Art. PRIMERO<br>D.O. 01.04.2011</a></span>D 130 (ciento treinta d&#xF3;lares de los Estados Unidos de Am&#xE9;rica) (*).</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;. Tasa de Entrega Tard&#xED;a de Traducci&#xF3;n: 25% de la Tasa de Presentaci&#xF3;n Internacional calculada de acuerdo a la Regla 12.3. e) del Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;. Tasa de Copia de documentos: $200 por hoja.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;. Tasa por Documento de Prioridad: $9.000 por certificaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA;. Tasa de Restauraci&#xF3;n del Derecho de Prioridad: 400 USD (cuatrocientos d&#xF3;lares de los Estados Unidos de Am&#xE9;rica) (*).</div><div class=\"p\">&nbsp; &nbsp;  6&#xBA; Tasa de Pago Tard&#xED;o de Tasas: Calculada de acuerdo a la Regla 16 bis 2. del Reglamento.</div><br><div class=\"p\">------------------------------------------------------</div><div class=\"p\">(*) El valor en pesos m/n, se calcula considerando el tipo de cambio del d&#xF3;lar americano, observado el d&#xED;a anterior a la fecha de pago.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1024124,
+      "fecha": "2011-04-01"
+    }
+  },
+  {
+    "fecha": "2020-04-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8666356,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero. Establ&#xE9;cense las siguientes Tasas que el INAPI cobrar&#xE1;, como Oficina Receptora, a los titulares de solicitudes internacionales PCT y los valores correspondientes a cada una de ellas, a saber:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Tasa de Transmisi&#xF3;n: US<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1024124&amp;idParte=9129658&amp;idVersion=2011-04-01\">Resoluci&#xF3;n 101 EXENTA,<br>I. PROPIEDAD INDUSTRIAL<br>Art. PRIMERO<br>D.O. 01.04.2011</a></span>D 130 (ciento treinta d&#xF3;lares de los Estados Unidos de Am&#xE9;rica) (*).</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;. Tasa de Entrega Tard&#xED;a de Traducci&#xF3;n: 25% de la Tasa de Presentaci&#xF3;n Internacional calculada de acuerdo a la Regla 12.3. e) del Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;. Tasa de Copia de documentos: $200 por hoja.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;. Tasa por Documento de Prioridad: $9.000 por certificaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA;. Tasa de Restauraci&#xF3;n del Derecho de Prioridad: 400 USD (cuatrocientos d&#xF3;lares de los Estados Unidos de Am&#xE9;rica) (*).</div><div class=\"p\">&nbsp; &nbsp;  6&#xBA; Tasa de Pago Tard&#xED;o de Tasas: Calculada de acuerdo a la Regla 16 bis 2. del Reglamento.</div><br><div class=\"p\">------------------------------------------------------</div><div class=\"p\">(*) El valor en pesos m/n, se calcula considerando el tipo de cambio del d&#xF3;lar americano, observado el d&#xED;a anterior a la fecha de pago.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero. Establ&#xE9;cense las siguientes Tasas que el INAPI cobrar&#xE1;, como Oficina Receptora, a los titulares de solicitudes internacionales <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>PCT y los valores correspondientes a cada una de ellas, a saber:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Tasa de Transmisi&#xF3;n: US<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1024124&amp;idParte=9129658&amp;idVersion=2011-04-01\">Resoluci&#xF3;n 101 EXENTA,<br>I. PROPIEDAD INDUSTRIAL<br>Art. PRIMERO<br>D.O. 01.04.2011</a></span>D 130 (ciento treinta d&#xF3;lares de los Estados Unidos de Am&#xE9;rica) (*).</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;. Tasa de Entrega Tard&#xED;a de Traducci&#xF3;n: 25% de la Tasa de Presentaci&#xF3;n Internacional calculada de acuerdo a la Regla 12.3. e) del Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;. Tasa de Copia de documentos: $200 por hoja.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;. Tasa por Documento de Prioridad: $9.000 por certificaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA;. Tasa de Restauraci&#xF3;n del Derecho de Prioridad: 400 USD (cuatrocientos d&#xF3;lares de los Estados Unidos de Am&#xE9;rica) (*).</div><div class=\"p\">&nbsp; &nbsp;  6&#xBA; Tasa de Pago Tard&#xED;o de Tasas: Calculada de acuerdo a la Regla 16 bis 2. del Reglamento.</div><br><div class=\"p\">------------------------------------------------------</div><div class=\"p\">(*) El valor en pesos m/n, se calcula considerando el tipo de cambio del d&#xF3;lar americano, observado el d&#xED;a anterior a la fecha de pago.</div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 356 Exenta, Econom&#xED;a, publicada el 29.04.2020, modifica la presente norma en el sentido de indicar que el valor en pesos chilenos de acuerdo al tipo de cambio d&#xF3;lar observado, para calcular el pago en pesos de las respectivas tasas, ser&#xE1; el del &#xFA;ltimo d&#xED;a h&#xE1;bil del mes anterior a la fecha del pago, de acuerdo a la informaci&#xF3;n publicada en informativo diario del Banco Central de Chile.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-07-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10036878,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese el orden de subrogaci&#xF3;n del cargo de Director Nacional de la Oficina de Estudios y Pol&#xED;ticas Agrarias, el que quedar&#xE1; como sigue:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;) Jefe del Departamento de An&#xE1;lisis de Mercado y Pol&#xED;tica Sectorial de Odepa. </div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;) Jefe del Departamento de Recursos Institucionales de Odepa. </div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;) Jefe del Departamento de Computaci&#xF3;n e Inform&#xE1;tica de Odepa.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  2. D&#xE9;jase sin efecto el decreto exento N&#xB0; 21, de 2016, del Ministerio de Agricultura. </div><div class=\"p\">&nbsp; &nbsp;  3. Env&#xED;ese una copia del presente decreto, a la Direcci&#xF3;n Nacional de Odepa, para su conocimiento.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Der<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1134628&amp;idParte=10043903&amp;idVersion=2019-08-05\">Decreto 70 EXENTO, <br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 05.08.2019</a></span>ogado.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  2. D&#xE9;jase sin efecto el decreto exento N&#xB0; 21, de 2016, del Ministerio de Agricultura. </div><div class=\"p\">&nbsp; &nbsp;  3. Env&#xED;ese una copia del presente decreto, a la Direcci&#xF3;n Nacional de Odepa, para su conocimiento.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1134628,
+      "fecha": "2019-08-05"
+    }
+  }
+]

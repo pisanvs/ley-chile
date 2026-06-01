@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2008-12-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7382386,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Conv&#xF3;case a una nueva elecci&#xF3;n de alcalde en las mesas n&#xFA;meros 1, 2, 4, 6, 10 y 12, todas de mu-jeres, de la comuna de Cholchol, para el d&#xED;a 18 de enero de 2008.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Conv&#xF3;case a una nueva elecci&#xF3;n de alcalde en las mesas n&#xFA;meros 1, 2, 4, 6, 10 y 12, todas de mujeres, de la comuna de Cholchol, para el d&#xED;a 18 de enero de 2009.<span class=\"n\" id=\"n_0\">RES 9513 EXENTA,<br>INTERIOR<br>Art. &#xFA;nico<br>D.O. 19.12.2008</span></div><br><br><br></div>"
+        },
+        {
+          "part_id": 7382388,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Las mesas receptoras de sufragios individualizadas en el art&#xED;culo primero deber&#xE1;n constituirse a las 14:00 horas del s&#xE1;bado 10 de enero de 2008.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Las mesas receptoras de sufragios individualizadas en el art&#xED;culo primero deber&#xE1;n constituirse a las 14:00 horas del s&#xE1;bado 10 de enero de 2009.<span class=\"n\" id=\"n_1\">RES 9513 EXENTA,<br>INTERIOR<br>Art. &#xFA;nico<br>D.O. 19.12.2008</span></div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

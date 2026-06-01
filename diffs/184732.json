@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-06-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-06-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7282673,
+          "old": "<div><div class=\"p\">APRUEBA TRANSFORMACION DE SOCIEDAD, AUTORIZANDO A LA NUEVA SOCIEDAD &quot;ALGAS MARINAS S. A.&quot; PARA DESARROLLAR ACTIVIDADES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA TRANSFORMACION DE SOCIEDAD, AUTORIZANDO A LA NUEVA SOCIEDAD &quot;ALGAS MARINAS S. A.&quot; PARA DESARROLLAR ACTIVIDADES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

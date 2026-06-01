@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1964-06-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9045205,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE QUE EL CONSEJO COORDINACION DE ADQUISICIONES Y ENAJENACIONES DE LAS FUERZAS ARMADAS TENDRA A SU CARGO LA SUPERINTENDENCIA DE TODO LO RELACIONADO CON LAS ADQUISICIONES Y ENAJENACIONES DE LOS SERVICIOS DE ABASTECIMIENTO DEL EJERCITO, ARMADA Y FUERZA AEREA Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente,</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  LEY NUM. 15.593</div><div class=\"p\">&nbsp;  DISPONE QUE EL CONSEJO COORDINADOR DE ADQUISICIONES</div><div class=\"p\">Y ENAJENACIONES DE LAS FUERZAS ARMADAS TENDRA A SU CARGO</div><div class=\"p\">LA SUPERINTENDENCIA DE TODO LO RELACIONADO CON LAS</div><div class=\"p\">ADQUISICIONES Y ENAJENACIONES DE LOS SERVICIOS DE</div><div class=\"p\">ABASTECIMIENTO DEL EJERCITO, ARMADA Y FUERZA AEREA</div><div class=\"p\">&nbsp; &nbsp; D E R O G A D A.-<span class=\"n\" id=\"n_0\">LEY 18928<br>ART 9&#xB0;</span></div><div class=\"p\">&nbsp; &nbsp;  MINISTERIO DE DEFENSA NACIONAL</div><div class=\"p\">&nbsp; &nbsp; Subsecretar&#xED;a de Guerra<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp;  1</a></div></div><div class=\"p\">&nbsp; &nbsp; (Publicada en el &quot;Diario Oficial&quot; N&#xB0; 25.871, de 22<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp;  2</a></div> de junio de 1964).</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp;  1</a> <br>&nbsp; &nbsp;  Esta ley fue derogada por el art&#xED;culo 9&#xB0; de la Ley N&#xB0; 18.928, publicada en el Diario Oficial de 13 de enero de 1990, que &quot;Fija Normas Sobre Adquisiciones y Enajenaciones de Bienes Corporales e Incorporales Muebles y Servicios de las Fuerzas Armadas&quot;.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp;  2</a> <br>&nbsp; &nbsp;  El texto de la presente ley se encuentra en una cinta de normas derogadas BDTA.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

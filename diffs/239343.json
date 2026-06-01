@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2005-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-06-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6530331,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION O-N&#xBA; 8.158, DE 2005 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION O-N&#xBA; 8.158, DE 2005</div><br><br></div>"
+        },
+        {
+          "part_id": 6530332,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n O-N&#xBA; 8.158 de 7 de 2005, el Director del Servicio Electoral dispuso la publicaci&#xF3;n de la siguiente n&#xF3;mina de candidatos, a fin de notificar a los respectivos administradores electorales de la aprobaci&#xF3;n de cuentas y/o de la autorizaci&#xF3;n o denegaci&#xF3;n de las solicitudes de reembolso, en cada caso:</div><br><br><div class=\"p\">NOTA: VER D.O. 21.06.2005, PAGINAS 4 Y 5</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n O-N&#xBA; 8.158 de 7 de junio de 2005,<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 25.06.2005</span> el Director del Servicio Electoral dispuso la publicaci&#xF3;n de la siguiente n&#xF3;mina de candidatos, a fin de notificar a los respectivos administradores electorales de la aprobaci&#xF3;n de cuentas y/o de la autorizaci&#xF3;n o denegaci&#xF3;n de las solicitudes de reembolso, en cada caso:</div><br><div class=\"p\">NOTA: VER D.O. 21.06.2005, PAGINAS 4 Y 5</div><br></div>"
+        }
+      ]
+    }
+  }
+]

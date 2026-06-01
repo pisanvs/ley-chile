@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-06-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6090032,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 1 341, DE 1989 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 1 341, DE 1989 </div><br></div>"
+        }
+      ]
+    }
+  }
+]

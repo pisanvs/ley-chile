@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-08-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-10-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9630423,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase a las comunas de Limache, San Felipe, Catemu, Quillota, Los Andes, San Esteban, Panquehue, Calle Larga y Llay Llay, de la Regi&#xF3;n de Valpara&#xED;so, a contar de esta fecha, como afectadas por la cat&#xE1;strofe derivada de la prolongada sequ&#xED;a que ha asolado a dichas zonas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase a las comunas <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>de Limache, San Felipe, Catemu, Quillota, Los Andes, San Esteban, Panquehue, Calle Larga y Llay Llay, de la Regi&#xF3;n de Valpara&#xED;so, a contar de esta fecha, como afectadas por la cat&#xE1;strofe derivada de la prolongada sequ&#xED;a que ha asolado a dichas zonas.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto 1776, Interior, publicado el 24.11.2014. modifica la presente norma en el sentido de extender por el lapso de doce meses, contados desde el 23 de junio de 2016, el plazo de vigencia de la declaraci&#xF3;n como zonas afectadas por la cat&#xE1;strofe de las comunas de Limache, San Felipe, Catemu, Quillota, Los Andes, San Esteban, Panquehue, Calle Larga y Llay Llay, todas de la Regi&#xF3;n de Valpara&#xED;so.</div></div>"
+        }
+      ]
+    }
+  }
+]

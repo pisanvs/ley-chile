@@ -1,0 +1,67 @@
+[
+  {
+    "fecha": "1955-12-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1956-08-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7174189,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1.&#xB0; Un Consejo General Provisorio deber&#xE1; dentro del plazo de seis meses:</div><div class=\"p\">&nbsp; &nbsp; 1.&#xB0; Formar el Registro Provisional del Registro de Constructores Civiles, y</div><div class=\"p\">&nbsp; &nbsp; 2.&#xB0; Organizar la elecci&#xF3;n y constituci&#xF3;n de los Consejos de acuerdo con las disposiciones de la presente ley y su reglamento.</div><div class=\"p\">&nbsp; &nbsp; Se desempe&#xF1;ar&#xE1; como tal un Consejo compuesto de trece miembros representantes de los siguientes organismos: tres de la Federaci&#xF3;n Nacional de Sindicatos de Constructores de Chile; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad de Chile; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad T&#xE9;cnica &quot;Federico Santa Mar&#xED;a&quot;, de Valpara&#xED;so; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad Cat&#xF3;lica de Chile; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad Cat&#xF3;lica de Valpara&#xED;so y dos de la Escuela de Constructores Civiles de la Universidad de Chile, quienes deber&#xE1;n ser profesores de la misma.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1.&#xB0; Un Consejo General Provisorio deber&#xE1;<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp;  1</a></div> dentro del plazo de seis meses:</div><div class=\"p\">&nbsp; &nbsp; 1.&#xB0; Formar el Registro Provisional del Registro de Constructores Civiles, y</div><div class=\"p\">&nbsp; &nbsp; 2.&#xB0; Organizar la elecci&#xF3;n y constituci&#xF3;n de los Consejos de acuerdo con las disposiciones de la presente ley y su reglamento.</div><div class=\"p\">&nbsp; &nbsp; Se desempe&#xF1;ar&#xE1; como tal un Consejo compuesto de trece miembros representantes de los siguientes organismos: tres de la Federaci&#xF3;n Nacional de Sindicatos de Constructores de Chile; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad de Chile; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad T&#xE9;cnica &quot;Federico Santa Mar&#xED;a&quot;, de Valpara&#xED;so; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad Cat&#xF3;lica de Chile; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad Cat&#xF3;lica de Valpara&#xED;so y dos de la Escuela de Constructores Civiles de la Universidad de Chile, quienes deber&#xE1;n ser profesores de la misma.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp;  1</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico de la ley 12.062 prorrog&#xF3; por seis meses el plazo a que se refiere este art&#xED;culo.<br></div></div>"
+        },
+        {
+          "part_id": 7174195,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0; transitorio. En tanto subsista la<span class=\"n\" id=\"n_1\">LEY 14839,<br>ART. 4&#xB0;</span> proporci&#xF3;n establecida en el inciso 2&#xB0; del art&#xED;culo anterior, los Consejos Provinciales deber&#xE1;n estar integrados por dos constructores civiles con t&#xED;tulo y por un constructor de aquellos a que se refieren los art&#xED;culos 2&#xB0; y 3&#xB0; transitorios. En Valpara&#xED;so y Concepci&#xF3;n la proporci&#xF3;n respectiva ser&#xE1; de tres y dos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0; transitorio. En tanto subsista la<span class=\"n\" id=\"n_2\">LEY 14839,<br>ART. 4&#xB0;</span> proporci&#xF3;n establecida en el inciso 2&#xB0; del art&#xED;culo anterior, los Consejos Provinciales deber&#xE1;n estar integrados por dos constructores civiles con t&#xED;tulo y por un constructor de aquellos a que se refieren los art&#xED;culos 2&#xB0; y 3&#xB0; transitorios. En Valpara&#xED;so y Concepci&#xF3;n la proporci&#xF3;n respectiva ser&#xE1; de tres y dos.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1995-09-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7174197,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 19.&#xB0; Son funciones y atribuciones de los miembros de este Colegio, sin perjuicio de las que puedan ejercer los Arquitectos e Ingenieros:</div><div class=\"p\">&nbsp; &nbsp; a) Construir, dirigir, fiscalizar y actuar de empresario en las construcciones de edificios, obras industriales, mar&#xED;timas, hidr&#xE1;ulicas, puentes, caminos, pavimentaci&#xF3;n, ferrocarriles y aeropuertos, conforme a los proyectos y c&#xE1;lculos ejecutados por los arquitectos o ingenieros, los que conservar&#xE1;n todas sus respectivas atribuciones;</div><div class=\"p\">&nbsp; &nbsp; b) Proyectar, ejecutar, dirigir y fiscalizar las instalaciones anexas o complementarias para las que est&#xE9;n autorizados por las leyes o reglamentos vigentes; realizar estudios de presupuestos y trabajos topogr&#xE1;ficos;</div><div class=\"p\">&nbsp; &nbsp; c) Servir de &#xE1;rbitro, asesor y consultor en asuntos propios de su profesi&#xF3;n, y</div><div class=\"p\">&nbsp; &nbsp; d) Desempe&#xF1;ar funciones docentes en materias propias de su especialidad.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2008-11-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7174183,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 20.&#xB0; No requerir&#xE1;n de los servicios de un<span class=\"n\" id=\"n_0\">LEY 14839,<br>ART. 3&#xB0;</span> Constructor Civil inscrito en el Colegio de Constructores Civiles de Chile, las obras menores que se construyan fuera del radio urbano de las ciudades y en las ciudades de menos de ocho mil habitantes y cuyo presupuesto definitivo sea inferior al valor equivalente a 50 sueldos vitales mensuales, fijados para los departamentos respectivos a la fecha en que se realicen dichas construcciones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 20. No requerir&#xE1;n de los servicios de un Constructor Civil inscrito en el Colegio de Constructores Civiles de Chile, las obras que se construyan cuyo presupuesto definitivo sea inferior al valor equivalente a 50 sueldos vitales mensuales, fijados para los departamentos respectivos a la fecha en que se realicen dichas construcciones.</div><br><br></div>"
+        },
+        {
+          "part_id": 7174189,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1.&#xB0; Un Consejo General Provisorio deber&#xE1;<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp;  1</a></div> dentro del plazo de seis meses:</div><div class=\"p\">&nbsp; &nbsp; 1.&#xB0; Formar el Registro Provisional del Registro de Constructores Civiles, y</div><div class=\"p\">&nbsp; &nbsp; 2.&#xB0; Organizar la elecci&#xF3;n y constituci&#xF3;n de los Consejos de acuerdo con las disposiciones de la presente ley y su reglamento.</div><div class=\"p\">&nbsp; &nbsp; Se desempe&#xF1;ar&#xE1; como tal un Consejo compuesto de trece miembros representantes de los siguientes organismos: tres de la Federaci&#xF3;n Nacional de Sindicatos de Constructores de Chile; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad de Chile; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad T&#xE9;cnica &quot;Federico Santa Mar&#xED;a&quot;, de Valpara&#xED;so; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad Cat&#xF3;lica de Chile; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad Cat&#xF3;lica de Valpara&#xED;so y dos de la Escuela de Constructores Civiles de la Universidad de Chile, quienes deber&#xE1;n ser profesores de la misma.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp;  1</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico de la ley 12.062 prorrog&#xF3; por seis meses el plazo a que se refiere este art&#xED;culo.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1.&#xB0; Un Consejo General Provisorio deber&#xE1;<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp;  1</a></div> dentro del plazo de seis meses:</div><div class=\"p\">&nbsp; &nbsp; 1.&#xB0; Formar el Registro Provisional del Registro de Constructores Civiles, y</div><div class=\"p\">&nbsp; &nbsp; 2.&#xB0; Organizar la elecci&#xF3;n y constituci&#xF3;n de los Consejos de acuerdo con las disposiciones de la presente ley y su reglamento.</div><div class=\"p\">&nbsp; &nbsp; Se desempe&#xF1;ar&#xE1; como tal un Consejo compuesto de trece miembros representantes de los siguientes organismos: tres de la Federaci&#xF3;n Nacional de Sindicatos de Constructores de Chile; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad de Chile; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad T&#xE9;cnica &quot;Federico Santa Mar&#xED;a&quot;, de Valpara&#xED;so; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad Cat&#xF3;lica de Chile; dos de la Asociaci&#xF3;n de Constructores Civiles de la Universidad Cat&#xF3;lica de Valpara&#xED;so y dos de la Escuela de Constructores Civiles de la Universidad de Chile, quienes deber&#xE1;n ser profesores de la misma.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp;  1</a> <br>&nbsp; &nbsp;  El art&#xED;culo &#xFA;nico de la ley 12.062 prorrog&#xF3; por seis meses el plazo a que se refiere este art&#xED;culo.<br></div></div>"
+        },
+        {
+          "part_id": 7174195,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0; transitorio. En tanto subsista la<span class=\"n\" id=\"n_2\">LEY 14839,<br>ART. 4&#xB0;</span> proporci&#xF3;n establecida en el inciso 2&#xB0; del art&#xED;culo anterior, los Consejos Provinciales deber&#xE1;n estar integrados por dos constructores civiles con t&#xED;tulo y por un constructor de aquellos a que se refieren los art&#xED;culos 2&#xB0; y 3&#xB0; transitorios. En Valpara&#xED;so y Concepci&#xF3;n la proporci&#xF3;n respectiva ser&#xE1; de tres y dos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0; transitorio. En tanto subsista la<span class=\"n\" id=\"n_1\">LEY 14839,<br>ART. 4&#xB0;</span> proporci&#xF3;n establecida en el inciso 2&#xB0; del art&#xED;culo anterior, los Consejos Provinciales deber&#xE1;n estar integrados por dos constructores civiles con t&#xED;tulo y por un constructor de aquellos a que se refieren los art&#xED;culos 2&#xB0; y 3&#xB0; transitorios. En Valpara&#xED;so y Concepci&#xF3;n la proporci&#xF3;n respectiva ser&#xE1; de tres y dos.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

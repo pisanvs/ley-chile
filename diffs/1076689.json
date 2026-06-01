@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-04-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-10-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9591924,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;base el procedimiento de excepci&#xF3;n, indicado en el Anexo N&#xBA;1 de la presente resoluci&#xF3;n, para la ejecuci&#xF3;n y energizaci&#xF3;n de las instalaciones interiores el&#xE9;ctricas de viviendas de uso habitacional nuevas de emergencia y viviendas de uso habitacional existentes da&#xF1;adas por la cat&#xE1;strofe que afect&#xF3; a la Regi&#xF3;n de Atacama.</div><div class=\"p\">&nbsp; &nbsp;  La aplicaci&#xF3;n de dicho procedimiento deber&#xE1; entenderse, sin perjuicio de que exista el respectivo contrato de suministro, debidamente firmado entre las partes, as&#xED; como tambi&#xE9;n las autorizaciones correspondientes para el uso de los terrenos de que se trate.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; La Superintendencia fiscalizar&#xE1; y supervisar&#xE1; el correcto y oportuno cumplimiento y aplicaci&#xF3;n del presente procedimiento.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Las disposiciones de la presente resoluci&#xF3;n entrar&#xE1;n en vigencia a partir del 13 de abril de 2015 y terminar&#xE1;n su vigencia el 31 de agosto de 2015.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; El procedimiento de excepci&#xF3;n para la ejecuci&#xF3;n y energizaci&#xF3;n de las instalaciones interiores el&#xE9;ctricas de viviendas nuevas de emergencia y viviendas existentes da&#xF1;adas por el aluvi&#xF3;n, se encontrar&#xE1; en esta Superintendencia a disposici&#xF3;n de los interesados y pueden ser consultados en el sitio web www.sec.cl.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;base el procedimiento de excepci&#xF3;n, indicado en el Anexo N&#xBA;1 de la presente resoluci&#xF3;n, para la ejecuci&#xF3;n y energizaci&#xF3;n de las instalaciones interiores el&#xE9;ctricas de viviendas de uso habitacional nuevas de emergencia y viviendas de uso habitacional existentes da&#xF1;adas por la cat&#xE1;strofe que afect&#xF3; a la Regi&#xF3;n de Atacama.</div><div class=\"p\">&nbsp; &nbsp;  La aplicaci&#xF3;n de dicho procedimiento deber&#xE1; entenderse, sin perjuicio de que exista el respectivo contrato de suministro, debidamente firmado entre las partes, as&#xED; como tambi&#xE9;n las autorizaciones correspondientes para el uso de los terrenos de que se trate.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; La Superintendencia fiscalizar&#xE1; y supervisar&#xE1; el correcto y oportuno cumplimiento y aplicaci&#xF3;n del presente procedimiento.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Las disposiciones de la presente resoluci&#xF3;n entrar&#xE1;n en vigencia a partir del 13 de abril de 2015 y terminar&#xE1;n su vigencia el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>31 de agosto de 2015.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; El procedimiento de excepci&#xF3;n para la ejecuci&#xF3;n y energizaci&#xF3;n de las instalaciones interiores el&#xE9;ctricas de viviendas nuevas de emergencia y viviendas existentes da&#xF1;adas por el aluvi&#xF3;n, se encontrar&#xE1; en esta Superintendencia a disposici&#xF3;n de los interesados y pueden ser consultados en el sitio web www.sec.cl.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 10101 Exenta, Energ&#xED;a, publicada el 06.10.2015, modifica la presente norma en el sentido de ampliar el plazo de vigencia hasta el 30 de noviembre de 2015.</div></div>"
+        }
+      ]
+    }
+  }
+]

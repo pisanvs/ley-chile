@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-10-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6306288,
+          "old": "<div><div class=\"p\">AUTO ACORDADO SOBRE CITACION, PROCESO DE&nbsp; RECLAMACIONES DE NULIDAD, SOLICITUDES DE RECTIFICACION, FORMACION DE ESCRUTINIO GENERAL, CALIFICACION Y PROCLAMACION DE CANDIDATOS ELECTOS CON MOTIVO DE LAS ELECCIONES MUNICIPALES</div><br><div class=\"p\">&nbsp; &nbsp;  En Santiago, a veinticinco de octubre del a&#xF1;o dos mil, siendo las trece horas, se reuni&#xF3; extraordinariamente este Segundo Tribunal Electoral de la Regi&#xF3;n Metropolitana, con la asistencia de su Presidente Titular, don Domingo Kokisch Mourgues y de los se&#xF1;ores Miembros Titulares, don Mario Correa Letelier y don Fernando Castro Alamos. Actu&#xF3; como ministro de fe don Mario Steffens Fortune, Secretario Relator.</div><div class=\"p\">&nbsp; &nbsp;  De conformidad con lo dispuesto en el Cap&#xED;tulo VIII de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, de la &apos;&apos;Justicia Electoral&apos;&apos;; las normas contenidas en el t&#xED;tulo V de la ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades y, en especial, la ley N&#xBA; 19.698, que la ha modificado con fecha 30 de septiembre de 2000;</div><div class=\"p\">t&#xED;tulos IV y V de la ley N&#xBA; 18.700, Org&#xE1;nica Constitucional sobre Votaciones Populares y Escrutinios; las facultades conferidas por el art&#xED;culo 34 de la ley N&#xBA; 18.593, sobre Tribunales Electorales Regionales, y teniendo presente la brevedad de los plazos entregados a la Justicia Electoral para cumplir con el mandato constitucional conferido en esta materia, se hace indispensable adoptar las medidas necesarias que permitan tramitar y dictar oportunamente las sentencias en las reclamaciones de nulidad, solicitudes de rectificaci&#xF3;n, formar el escrutinio general, calificar y proclamar a los candidatos que resulten definitivamente electos con motivo de las elecciones municipales, por lo que es importante reglamentar dicho procedimiento, y, en consecuencia, se acord&#xF3; dictar el siguiente Auto Acordado:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTO ACORDADO SOBRE CITACION, PROCESO DE&nbsp; RECLAMACIONES DE NULIDAD, SOLICITUDES DE RECTIFICACION, FORMACION DE ESCRUTINIO GENERAL, CALIFICACION Y PROCLAMACION DE CANDIDATOS ELECTOS CON MOTIVO DE LAS ELECCIONES MUNICIPALES</div><br><div class=\"p\">&nbsp; &nbsp;  En Santiago, a veinticinco de octubre del a&#xF1;o dos mil, siendo las trece horas, se reuni&#xF3; extraordinariamente este Segundo Tribunal Electoral de la Regi&#xF3;n Metropolitana, con la asistencia de su Presidente Titular, don Domingo Kokisch Mourgues y de los se&#xF1;ores Miembros Titulares, don Mario Correa Letelier y don Fernando Castro Alamos. Actu&#xF3; como ministro de fe don Mario Steffens Fortune, Secretario Relator.</div><div class=\"p\">&nbsp; &nbsp;  De conformidad con lo dispuesto en el Cap&#xED;tulo VIII de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, de la &apos;&apos;Justicia Electoral&apos;&apos;; las normas contenidas en el t&#xED;tulo V de la ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades y, en especial, la ley N&#xBA; 19.698, que la ha modificado con fecha 30 de septiembre de 2000;</div><div class=\"p\">t&#xED;tulos IV y V de la ley N&#xBA; 18.700, Org&#xE1;nica Constitucional sobre Votaciones Populares y Escrutinios; las facultades conferidas por el art&#xED;culo 34 de la ley N&#xBA; 18.593, sobre Tribunales Electorales Regionales, y teniendo presente la brevedad de los plazos entregados a la Justicia Electoral para cumplir con el mandato constitucional conferido en esta materia, se hace indispensable adoptar las medidas necesarias que permitan tramitar y dictar oportunamente las sentencias en las reclamaciones de nulidad, solicitudes de rectificaci&#xF3;n, formar el escrutinio general, calificar y proclamar a los candidatos que resulten definitivamente electos con motivo de las elecciones municipales, por lo que es importante reglamentar dicho procedimiento, y, en consecuencia, se acord&#xF3; dictar el siguiente Auto Acordado:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-12-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8263358,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA FORMULAS TARIFARIAS DE AGUA POTABLE Y ALCANTARILLADO DE AGUAS SERVIDAS PARA EL SECTOR PARQUE INDUSTRIAL CORONEL DE LA OCTAVA REGION-AGUACOR S.A.</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 513.- Santiago, 23 de Agosto de 1995.- Visto: Lo dispuesto en la ley N&#xB0; 18.902 de 1990; en el decreto con fuerza de ley N&#xB0; 70 de 1988, del Ministerio de Obras P&#xFA;blicas; en el decreto supremo N&#xB0; 453, de 1989, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, modificado por el Decreto Supremo N&#xB0; 182, de 1995, de dicho Ministerio, y el informe de la Superintendencia de Servicios Sanitarios.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o :</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA FORMULAS TARIFARIAS DE AGUA POTABLE Y ALCANTARILLADO DE AGUAS SERVIDAS PARA EL SECTOR PARQUE INDUSTRIAL CORONEL DE LA OCTAVA REGION-AGUACOR S.A.</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 513.- Santiago, 23 de Agosto de 1995.- Visto: Lo dispuesto en la ley N&#xB0; 18.902 de 1990; en el decreto con fuerza de ley N&#xB0; 70 de 1988, del Ministerio de Obras P&#xFA;blicas; en el decreto supremo N&#xB0; 453, de 1989, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, modificado por el Decreto Supremo N&#xB0; 182, de 1995, de dicho Ministerio, y el informe de la Superintendencia de Servicios Sanitarios.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o :</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

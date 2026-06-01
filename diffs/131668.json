@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-02-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6154004,
+          "old": "<div><div class=\"p\">COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 37 exenta.- Santiago, 4 de febrero de 1999.- Vistos el D.F.L. N&#xBA; 10 de 1981 y el art&#xED;culo 5&#xBA; del decreto N&#xBA; 91 de 1998 ambos del Ministerio de Transportes y Telecomunicaciones, la necesidad de fijar las nuevas tarifas de los Productos Intrarregionales, la resoluci&#xF3;n exenta N&#xBA; 1.437 de 1998, el acuerdo N&#xBA; 013/99 del Directorio de la Empresa de Correos de Chile, adoptado en la sesi&#xF3;n Segunda Extraordinaria del 12 de enero de 1999, la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica y en uso de las atribuciones que me confieren las resoluciones N&#xBA; 233 de 1994 y N&#xBA; 11 de 1996, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 37 exenta.- Santiago, 4 de febrero de 1999.- Vistos el D.F.L. N&#xBA; 10 de 1981 y el art&#xED;culo 5&#xBA; del decreto N&#xBA; 91 de 1998 ambos del Ministerio de Transportes y Telecomunicaciones, la necesidad de fijar las nuevas tarifas de los Productos Intrarregionales, la resoluci&#xF3;n exenta N&#xBA; 1.437 de 1998, el acuerdo N&#xBA; 013/99 del Directorio de la Empresa de Correos de Chile, adoptado en la sesi&#xF3;n Segunda Extraordinaria del 12 de enero de 1999, la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica y en uso de las atribuciones que me confieren las resoluciones N&#xBA; 233 de 1994 y N&#xBA; 11 de 1996, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-11-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9533954,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  I.-&nbsp; Post&#xE9;rgase por el plazo de tres meses el otorgamiento de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, en el pol&#xED;gono del Sector de Fundo Naval Las Salinas, Zona V11a graficado en el Plano A.A.P.P.S.F.N./01, elaborado por Asesor&#xED;a Urbana, que se entender&#xE1; formar parte integrante del presente decreto y que se describe a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/45280.jpg\">.&nbsp; &nbsp;  </div><br><div class=\"p\">&nbsp; &nbsp;  II.-&nbsp; Transcr&#xED;base a la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo Regi&#xF3;n de Valpara&#xED;so.</div><div class=\"p\">&nbsp; &nbsp;  III.- Notif&#xED;quese por el Secretario Municipal de conformidad a las normas vigentes y rem&#xED;tanse copias al Director de Obras Municipales y al Director del Departamento de Asesor&#xED;a Urbana.</div><div class=\"p\">&nbsp; &nbsp;  IV.-&nbsp; Publ&#xED;quese en el Diario Oficial.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  I.-&nbsp; Post&#xE9;rgase por el plazo de tres meses el otorgamiento de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, en el pol&#xED;gono del Sector de Fundo Naval Las Salinas, Zona V11a graficado en el Plano A.A.P.P.S.F.N./01, elaborado por Asesor&#xED;a Urbana, que se entender&#xE1; formar parte integrante del presente decreto y que se describe a continuaci&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/45280.jpg\">.&nbsp; &nbsp;  </div><br><div class=\"p\">&nbsp; &nbsp;  II.-&nbsp; Transcr&#xED;base a la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo Regi&#xF3;n de Valpara&#xED;so.</div><div class=\"p\">&nbsp; &nbsp;  III.- Notif&#xED;quese por el Secretario Municipal de conformidad a las normas vigentes y rem&#xED;tanse copias al Director de Obras Municipales y al Director del Departamento de Asesor&#xED;a Urbana.</div><div class=\"p\">&nbsp; &nbsp;  IV.-&nbsp; Publ&#xED;quese en el Diario Oficial.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 de la Resoluci&#xF3;n 144 Exenta, Vivienda, publicada el 09.02.2014, prorroga la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones por un plazo de nueve (9) meses, a contar del plazo de expiraci&#xF3;n de la postergaci&#xF3;n de permisos vigente, dispuesta por la presente norma y afectar&#xE1; el pol&#xED;gono del Sector de Fundo Naval Las Salinas, Zona V11a graficado en el Plano A.A.P.P.S.F.N./01.</div></div>"
+        }
+      ]
+    }
+  }
+]

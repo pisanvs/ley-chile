@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-01-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6077906,
+          "old": "<div><div class=\"p\">PROHIBE CIRCULACION DE VEHICULOS MOTORIZADOS QUE SE&#xD1;ALA </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">N&#xFA;m. 8 exenta.- La Serena, 18 de Enero de 1991.- Visto: Lo dispuesto por los art&#xED;culos No.s. 113 y 118 de la Ley No.</div><div class=\"p\">18.190; la Resoluci&#xF3;n No. 59 de 1985, del Ministerio de Transportes y Telecomunicaciones; y lo prescrito en el Art. 1 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; y </div><div class=\"p\">Considerando:</div><br><div class=\"p\">1 El estado de guerra que afecta el Golfo P&#xE9;rsico, que originar&#xE1; previsibles consecuencias de alteraci&#xF3;n econ&#xF3;mica en nuestro pa&#xED;s, en su calidad de dependiente de recursos energ&#xE9;ticos derivados del petr&#xF3;leo; lo que constituye una situaci&#xF3;n indudablemente asociada a la seguridad nacional.</div><div class=\"p\">2.- Que para evitar aspectos negativos, en el normal desarrollo del pa&#xED;s, con el objeto de dar protecci&#xF3;n a la poblaci&#xF3;n mediante un adecuado abastecimiento, es necesario hacer un esfuerzo de ahorro de combustibles y privilegiar el uso de los mismos por parte de los veh&#xED;culos de carga.</div><div class=\"p\">3.- Que lo anteriormente expuesto justifica, en forma temporal, la adopci&#xF3;n de medidas de restricci&#xF3;n.</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">PROHIBE CIRCULACION DE VEHICULOS MOTORIZADOS QUE SE&#xD1;ALA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 8 exenta.- La Serena, 18 de Enero de 1991.- Visto: Lo dispuesto por los art&#xED;culos No.s. 113 y 118 de la Ley No. 18.190; la Resoluci&#xF3;n No. 59 de 1985, del Ministerio de Transportes y Telecomunicaciones; y lo prescrito en el Art. 1 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1 El estado de guerra que afecta el Golfo P&#xE9;rsico, que originar&#xE1; previsibles consecuencias de alteraci&#xF3;n econ&#xF3;mica en nuestro pa&#xED;s, en su calidad de dependiente de recursos energ&#xE9;ticos derivados del petr&#xF3;leo; lo que constituye una situaci&#xF3;n indudablemente asociada a la seguridad nacional.</div><div class=\"p\">&nbsp; &nbsp;  2.- Que para evitar aspectos negativos, en el normal desarrollo del pa&#xED;s, con el objeto de dar protecci&#xF3;n a la poblaci&#xF3;n mediante un adecuado abastecimiento, es necesario hacer un esfuerzo de ahorro de combustibles y privilegiar el uso de los mismos por parte de los veh&#xED;culos de carga.</div><div class=\"p\">&nbsp; &nbsp;  3.- Que lo anteriormente expuesto justifica, en forma temporal, la adopci&#xF3;n de medidas de restricci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

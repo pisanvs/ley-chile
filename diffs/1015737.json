@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-07-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8953353,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. N&#xF3;mbrase, a contar de la fecha de esta resoluci&#xF3;n, como integrantes del Panel de Expertos, a los siguientes profesionales:</div><br><div class=\"p\">1)&nbsp;  Don Guillermo Espinoza Inhen, c&#xE9;dula nacional de identidad n&#xFA;mero 4.606.916-1, ingeniero civil, por un per&#xED;odo de 6 a&#xF1;os;</div><div class=\"p\">2)&nbsp;  Don Germ&#xE1;n Henr&#xED;quez V&#xE9;liz, c&#xE9;dula nacional de identidad n&#xFA;mero 5.313.367-3, ingeniero civil, por un per&#xED;odo de 6 a&#xF1;os;</div><div class=\"p\">3)&nbsp;  Don Rodrigo Iglesias Acu&#xF1;a, c&#xE9;dula nacional de identidad n&#xFA;mero 8.510.167-6, ingeniero civil, por un per&#xED;odo de 6 a&#xF1;os; y</div><div class=\"p\">4)&nbsp;  Don Enrique Sep&#xFA;lveda Rodr&#xED;guez, c&#xE9;dula nacional de identidad n&#xFA;mero 6.348.834-8, abogado, por un per&#xED;odo de 6 a&#xF1;os.</div><br><div class=\"p\">&nbsp; &nbsp;  2. N&#xF3;mbrase, en el cargo de Secretario Abogado del Panel de Expertos, a don Francisco Ag&#xFC;ero Vargas, c&#xE9;dula nacional de identidad n&#xFA;mero 10.978.603-9, abogado, por un per&#xED;odo de 6 a&#xF1;os.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. N&#xF3;mbrase, a contar de la fecha de esta resoluci&#xF3;n, como integrantes del Panel de Expertos, a los siguientes profesionales:</div><br><div class=\"p\">1)&nbsp;  Don Guillermo Espinosa<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1023875&amp;idParte=9126995&amp;idVersion=2011-03-19\">Resoluci&#xF3;n 432 EXENTA,<br>ENERGIA<br>Art. UNICO<br>D.O. 19.03.2011</a></span> Ihnen, c&#xE9;dula nacional de identidad n&#xFA;mero 4.606.916-1, ingeniero civil, por un per&#xED;odo de 6 a&#xF1;os;</div><div class=\"p\">2)&nbsp;  Don Germ&#xE1;n Henr&#xED;quez V&#xE9;liz, c&#xE9;dula nacional de identidad n&#xFA;mero 5.313.367-3, ingeniero civil, por un per&#xED;odo de 6 a&#xF1;os;</div><div class=\"p\">3)&nbsp;  Don Rodrigo Iglesias Acu&#xF1;a, c&#xE9;dula nacional de identidad n&#xFA;mero 8.510.167-6, ingeniero civil, por un per&#xED;odo de 6 a&#xF1;os; y</div><div class=\"p\">4)&nbsp;  Don Enrique Sep&#xFA;lveda Rodr&#xED;guez, c&#xE9;dula nacional de identidad n&#xFA;mero 6.348.834-8, abogado, por un per&#xED;odo de 6 a&#xF1;os.</div><br><div class=\"p\">&nbsp; &nbsp;  2. N&#xF3;mbrase, en el cargo de Secretario Abogado del Panel de Expertos, a don Francisco Ag&#xFC;ero Vargas, c&#xE9;dula nacional de identidad n&#xFA;mero 10.978.603-9, abogado, por un per&#xED;odo de 6 a&#xF1;os.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1023875,
+      "fecha": "2011-03-19"
+    }
+  }
+]

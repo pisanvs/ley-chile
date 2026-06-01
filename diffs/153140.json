@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6225237,
+          "old": "<div><div class=\"p\">AUTORIZA A DON OLIVIO ASIN SAYEG GOMEZ, PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON OLIVIO ASIN SAYEG GOMEZ, PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

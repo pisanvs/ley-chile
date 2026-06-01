@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-05-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8543759,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA Y CULTIVOS DE RECURSOS MARINOS LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS Y DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA Y CULTIVOS DE RECURSOS MARINOS LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS Y DENIEGA AUTORIZACION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

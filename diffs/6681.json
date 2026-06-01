@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1976-12-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-10-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8990997,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;.- Por decreto supremo del Ministerio de Hacienda, el que deber&#xE1; llevar tambi&#xE9;n la firma del Ministro de Obras P&#xFA;blicas, podr&#xE1; fijarse, anualmente, el monto m&#xE1;ximo de las obras, ampliaciones, reparaciones e instalaciones de cualquiera naturaleza que podr&#xE1;n contratar los servicios p&#xFA;blicos, directamente, sin intervenci&#xF3;n del Ministerio de Obras P&#xFA;blicas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;.- Por decreto supremo del Ministerio de Hacienda, el que deber&#xE1; llevar tambi&#xE9;n la firma del Ministro de Obras P&#xFA;blicas, podr&#xE1; fijarse y modificarse,<span class=\"n\" id=\"n_0\">DL 2879, HACIENDA<br>Art. 23<br>D.O. 17.10.1979</span> el monto m&#xE1;ximo de las obras, ampliaciones, reparaciones e instalaciones de cualquiera naturaleza que podr&#xE1;n contratar los servicios p&#xFA;blicos, directamente, sin intervenci&#xF3;n del Ministerio de Obras P&#xFA;blicas.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2016-02-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-08-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9678370,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: El veh&#xED;culo antes individualizado, ser&#xE1; conducido por los se&#xF1;ores Luis &#xC1;lvarez S&#xE1;nchez, C&#xE9;dula de Identidad N&#xBA;6.309.437-4 y Franz Castro Cabezas, C&#xE9;dula de Identidad N&#xBA;13.006.004-8, quienes deber&#xE1;n rendir cauci&#xF3;n, de acuerdo a lo establecido en el art&#xED;culo 7 del decreto ley N&#xBA;799 de 1974, del Ministerio del Interior.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Derogado<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1164016&amp;idParte=10262380&amp;idVersion=2021-08-20\">Resoluci&#xF3;n 202101631 EXENTA,<br>ECONOM&#xCD;A<br>Art. quinto<br>D.O. 20.08.2021</a></span>. </div><br><br><br></div>"
+        },
+        {
+          "part_id": 9678371,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: El veh&#xED;culo antes individualizado deber&#xE1; ser guardado en los siguientes recintos:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">1.&nbsp;  Estacionamiento institucional, ubicado en calle 7 de Junio N&#xBA;268, Edificio Mirablau, Arica.</div><div class=\"p\">2.&nbsp;  Domicilio del conductor Luis &#xC1;lvarez S&#xE1;nchez, ubicado en La Tranquera N&#xBA;2142, Conjunto Sobraya, Arica.</div><div class=\"p\">3.&nbsp;  Domicilio del conductor Franz Castro Cabezas, ubicado en El Quillay N&#xBA;2151, casa N&#xBA;3, Condominio Eterna Primavera, Arica.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Derogad<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1164016&amp;idParte=10262380&amp;idVersion=2021-08-20\">Resoluci&#xF3;n 202101631 EXENTA,<br>ECONOM&#xCD;A<br>Art. quinto<br>D.O. 20.08.2021</a></span>o.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1164016,
+      "fecha": "2021-08-20"
+    }
+  }
+]

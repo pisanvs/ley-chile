@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-02-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-07-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6489212,
+          "old": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE </div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 10.- Santiago, 18 de enero de 1996.- Visto: Lo dispuesto en el D.F.L. N&#xBA; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; el oficio N&#xBA; 11708-400 de 4 de enero de 1996, del Instituto Nacional de Normalizaci&#xF3;n y el Decreto Supremo N&#xBA; 654, de 1994, del Ministerio del Interior.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE </div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 10.- Santiago, 18 de enero de 1996.- Visto: Lo dispuesto en el D.F.L. N&#xBA; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; el oficio N&#xBA; 11708-400 de 4 de enero de 1996, del Instituto Nacional de Normalizaci&#xF3;n y el Decreto Supremo N&#xBA; 654, de 1994, del Ministerio del Interior.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

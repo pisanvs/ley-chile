@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-06-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-12-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6527445,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Prorr&#xF3;guese la vigencia de la prohibici&#xF3;n establecida mediante la Res. Ex. N&#xBA; 2179/03 de esta Secretar&#xED;a Regional Ministerial hasta el d&#xED;a 30 de noviembre del a&#xF1;o 2005.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Establ&#xE9;cese una nueva modalidad de calendario de restricci&#xF3;n vehicular, distinguiendo entre buses y taxis colectivos.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Modif&#xED;quese el calendario de Restricci&#xF3;n Vehicular establecido en el numeral 2&#xBA; de la Resoluci&#xF3;n Exenta N&#xBA; 2562/04 de esta Secretar&#xED;a Regional Ministerial, por los siguientes:</div><br><div class=\"p\">NOTA: VER D.O. 31.05.2005, PAGINA 5</div><br><div class=\"p\">&nbsp; &nbsp;  4&#xB0; La presente resoluci&#xF3;n entrar&#xE1; en vigencia el d&#xED;a mi&#xE9;rcoles 1 de junio del a&#xF1;o 2005. En todo lo dem&#xE1;s se mantienen vigentes las aludidas Resoluciones Exentas, se&#xF1;aladas en el Visto de la presente resoluci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Prorr&#xF3;guese la vigencia de la prohibici&#xF3;n establecida mediante la Res. Ex. N&#xBA; 2179/03 de esta Secretar&#xED;a Regional Ministerial hasta el d&#xED;a 30 de noviembre del a&#xF1;o 2005.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Establ&#xE9;cese una nueva modalidad de calendario de restricci&#xF3;n vehicular, distinguiendo entre buses y taxis colectivos.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Modif&#xED;quese el calendario de Restricci&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Vehicular establecido en el numeral 2&#xBA; de la Resoluci&#xF3;n Exenta N&#xBA; 2562/04 de esta Secretar&#xED;a Regional Ministerial, por los siguientes:</div><br><div class=\"p\">NOTA: VER D.O. 31.05.2005, PAGINA 5</div><br><div class=\"p\">&nbsp; &nbsp;  4&#xB0; La presente resoluci&#xF3;n entrar&#xE1; en vigencia el d&#xED;a mi&#xE9;rcoles 1 de junio del a&#xF1;o 2005. En todo lo dem&#xE1;s se mantienen vigentes las aludidas Resoluciones Exentas, se&#xF1;aladas en el Visto de la presente resoluci&#xF3;n.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 2757 Exenta, Transportes, publicada el 02.12.2005, modific&#xF3; el calendario de Restricci&#xF3;n Vehicular establecido en el presente n&#xFA;mero, por el que se se&#xF1;ala en la norma citada.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

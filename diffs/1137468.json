@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-10-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-10-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10061388,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Excl&#xFA;yanse del concurso p&#xFA;blico correspondiente al Tercer Cuatrimestre de 2019, en virtud de las disposiciones se&#xF1;aladas en los Considerandos, las frecuencias correspondientes a las concesiones de radiodifusi&#xF3;n sonora para las localidades y comunas que a continuaci&#xF3;n se indican:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  SOLICITUDES NUEVAS</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/98895.jpg\">.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Excl&#xFA;yanse del concurso p&#xFA;blico correspondiente al Tercer Cuatrimestre de 2019, en virtud de las disposiciones se&#xF1;aladas en los Considerandos, las frecuencias correspondientes a las concesiones de radiodifusi&#xF3;n sonora para las localidades y comunas que a continuaci&#xF3;n se indican:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  SOLICITUDES NUEVAS</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/98895.jpg\">.</div><div class=\"p\"> </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La rectificaci&#xF3;n de Transportes, publicada el 22.10.2019, modifica la presente norma en el sentido de eliminar en la tabla Solicitudes Nuevas, en la Regi&#xF3;n de Valpara&#xED;so: comuna de Quilpu&#xE9;., Regi&#xF3;n Metropolitana de Santiago: comuna de Lo Barnechea.</div></div>"
+        }
+      ]
+    }
+  }
+]

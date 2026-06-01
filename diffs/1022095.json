@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-10-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9100438,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 3.232 de 31.12.2010, Serviu VI Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, orden&#xF3; expropiaci&#xF3;n total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Aval&#xFA;o N&#xBA;s. 11.349-006; 11.349-029; 11.331-013; 11.330-020; 11.330-054, y 11.337-008, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Pol&#xED;gono conforme al Plano del Departamento T&#xE9;cnico del Serviu, de aparente dominio de Jorge Gabriel Bustos Novo; V&#xED;ctor Eugenio L&#xF3;pez Carrasco; Securitizadora Security GMA; Alejandra Antonieta Toledo Castro; Mar&#xED;a Cristina Cavieres S&#xE1;nchez; Edison Reinaldo Vidal Miranda, en el Conjunto Habitacional Villa Cordillera comuna Rancagua, conforme al Art. 51, Ley 16.391 y DL. 2.186. Comisi&#xF3;n Tasadora, peritos Jorge Rosales, Carlos Henr&#xED;quez y Manuel San Mart&#xED;n, Constructor Civil, Arquitecto y Constructor Civil, respectivamente, seg&#xFA;n Informe de fecha diciembre de 2010, monto provisional para: Jorge Gabriel Bustos Novo $5.408.545.-; V&#xED;ctor Eugenio L&#xF3;pez Carrasco $5.408.556.-; Securitizadora Security GMA $5.430.011.-; Alejandra Antonieta Toledo Castro $5.452.395.-; Mar&#xED;a Cristina Cavieres S&#xE1;chez $5.452.395.-; Edison Reinaldo Vidal Miranda $5.506.894.-, cuyo pago se realizar&#xE1; mediante dep&#xF3;sito en cuenta corriente del Tribunal correspondiente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 3.232 de 31.12.2010, Serviu VI Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, orden&#xF3; expropiaci&#xF3;n total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Aval&#xFA;o N&#xBA;s. 11.349-006; 11.349-029; 11.331-013; 11.330-020; 11.330-054, y 11.337-008, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Pol&#xED;gono conforme al Plano del Departamento T&#xE9;cnico del Serviu, de aparente dominio de Jorge Gabriel Bustos Novo; V&#xED;ctor Eugenio L&#xF3;pez Carrasco; Securitizadora Security GMA; Alejandra Antonieta Toledo Castro; Mar&#xED;a Cristina Cavieres S&#xE1;nchez; Edison Reinaldo Vidal Miranda, en el Conjunto Habitacional Villa Cordillera comuna Rancagua, conforme al Art. 51, Ley 16.391 y DL. 2.186. Comisi&#xF3;n Tasadora, peritos Jorge Rosales, Carlos Henr&#xED;quez y Manuel San Mart&#xED;n, Constructor Civil, Arquitecto y Constructor Civil, respectivamente, seg&#xFA;n Informe de fecha diciembre de 2010, monto provisional para: Jorge Gabriel Bustos Novo $5.408.545.-; V&#xED;ctor Eugenio L&#xF3;pez Carrasco $5.408.556.-; <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1030969&amp;idParte=9195008&amp;idVersion=2011-10-15\">Aviso S/N, VIVIENDA<br>N&#xBA; 7.-<br>D.O. 15.10.2011</a></span>Securitizadora Security GMA $5.430.099.-; Alejandra Antonieta Toledo Castro $5.452.395.-; Mar&#xED;a Cristina Cavieres S&#xE1;chez $5.452.395.-; Edison Reinaldo Vidal Miranda $5.506.894.-, cuyo pago se realizar&#xE1; mediante dep&#xF3;sito en cuenta corriente del Tribunal correspondiente. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1030969,
+      "fecha": "2011-10-15"
+    }
+  }
+]

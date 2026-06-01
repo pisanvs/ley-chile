@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6324196,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 1.492 EXENTA, DE 2000, QUE FIJA MENCIONES Y DATOS QUE DEBERAN CONTENER LAS SOLICITUDES DE INSCRIPCION PARA LLAMADOS A POSTULACION DEL SISTEMA GENERAL UNIFICADO DE SUBSIDIO HABITACIONAL</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 19 de febrero de 2001.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 389 exenta.- Visto: El D.S. N&#xBA; 44 (V. y U.), de 1988, y sus modificaciones, que reglamenta el Sistema General Unificado de Subsidio Habitacional; la resoluci&#xF3;n exenta N&#xBA; 1.492, de Vivienda y Urbanismo, de fecha 16 de junio de 2000, publicada en el Diario Oficial del 26 de junio de 2000; y,</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Las modificaciones introducidas al D.S. N&#xBA; 44 (V. y U.), de 1988, por el D.S. N&#xBA; 237 (V. y U.), de 2000, publicado en el Diario Oficial del 6 de octubre de 2000, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 1.492 EXENTA, DE 2000, QUE FIJA MENCIONES Y DATOS QUE DEBERAN CONTENER LAS SOLICITUDES DE INSCRIPCION PARA LLAMADOS A POSTULACION DEL SISTEMA GENERAL UNIFICADO DE SUBSIDIO HABITACIONAL</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 19 de febrero de 2001.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 389 exenta.- Visto: El D.S. N&#xBA; 44 (V. y U.), de 1988, y sus modificaciones, que reglamenta el Sistema General Unificado de Subsidio Habitacional; la resoluci&#xF3;n exenta N&#xBA; 1.492, de Vivienda y Urbanismo, de fecha 16 de junio de 2000, publicada en el Diario Oficial del 26 de junio de 2000; y,</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Las modificaciones introducidas al D.S. N&#xBA; 44 (V. y U.), de 1988, por el D.S. N&#xBA; 237 (V. y U.), de 2000, publicado en el Diario Oficial del 6 de octubre de 2000, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1971-10-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-05-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845251,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico.- La Caja de Previsi&#xF3;n de Empleados</div><div class=\"p\">Particulares destinar&#xE1; los excedentes producidos en el</div><div class=\"p\">Fondo de Cesant&#xED;a a que se refiere la ley N&#xB0; 7.295 y el</div><div class=\"p\">50% de los excedentes de los fondos consultados en el</div><div class=\"p\">art&#xED;culo 11 de la ley N&#xB0; 15.722 durante los a&#xF1;os 1969 y 1970, al financiamiento de las obras indicadas en el art&#xED;culo 101 de la ley N&#xB0; 16.735, modificado por el art&#xED;culo 97 de la ley N&#xB0; 16.840 y cuyo alcance fue precisado por el art&#xED;culo 10 de la ley N&#xB0; 17.213.</div><div class=\"p\">&nbsp; &nbsp; A iguales fines la Caja destinar&#xE1; a partir del 1&#xB0; de Enero de 1972, anualmente, el 1% de los recursos impositivos consultados en el Presupuesto Corriente de la instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Asimismo, esta instituci&#xF3;n destinar&#xE1; a id&#xE9;nticos fines, preferentemente a terminar las obras sociales de los empleados particulares en actual ejecuci&#xF3;n, los intereses que debieron haberse registrado en conformidad a lo dispuesto en el inciso final del art&#xED;culo 6 de la ley N&#xB0; 10.475 hasta el 5 de Octubre de 1970, y todos aquellos valores que figuran actualmente en el Pasivo de la instituci&#xF3;n sin cumplir alguna finalidad o haberla dejado de cumplir por causas diversas.</div><div class=\"p\">&nbsp; &nbsp; El Consejo Directivo de la Caja de Previsi&#xF3;n de Empleados Particulares destinar&#xE1; tambi&#xE9;n a los fines a que este art&#xED;culo se refiere, las sumas percibidas de sus deudores hipotecarios en su car&#xE1;cter de aseguradora de los riesgos de desgravamen e incendio, en aquellos casos en que los se&#xF1;alados rie sgos hayan sido cubiertos, posteriormente, por otras entidades aseguradoras.</div><div class=\"p\">&nbsp; &nbsp; El Presupuesto de la Caja de Previsi&#xF3;n de Empleados Particulares debe entenderse modificado para los efectos de esta ley, a contar desde la fecha de su publicaci&#xF3;n en el Diario Oficial.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &quot;ARTICULO UNICO La Caja de Previsi&#xF3;n de Empleados Particulares destinar&#xE1; los excedentes producidos en el Fondo de Cesant&#xED;a a que se refiere la ley 7.295 y el 50% de los excedentes de los fondos consultados en el art&#xED;culo 11&#xB0; de la ley 15.722, durante los a&#xF1;os 1969 y 1970, al financiamiento de las obras indicadas en el art&#xED;culo 101&#xB0; de la ley 16.735, modificado por el art&#xED;culo 97&#xB0; de la ley 16.840 y cuyo alcance fue precisado por el art&#xED;culo 10&#xB0; de la ley 17.213.</div><div class=\"p\">&nbsp; &nbsp; A iguales fines la Caja destinar&#xE1;, a partir del 1&#xB0;<span class=\"n\" id=\"n_0\">DL 2223 1978<br>ART 25</span> de enero de 1972, anualmente, hasta el 1% de los recursos impositivos consultados en el Presupuesto Corriente de la instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Asimismo, esta instituci&#xF3;n destinar&#xE1; a id&#xE9;nticos fines, preferentemente a terminar las obras sociales de los empleados particulares en actual ejecuci&#xF3;n, los intereses que debieron haberse registrado en conformidad a lo dispuesto en el inciso final del art&#xED;culo 6&#xB0; de la ley 10.475, hasta el 5 de octubre de 1970, y todos aquellos valores que figuran actualmente en el Pasivo de la instituci&#xF3;n sin cumplir alguna finalidad o haberla dejado de cumplir por causas diversas.</div><div class=\"p\">&nbsp; &nbsp; El Consejo Directivo de la Caja de Previsi&#xF3;n de Empleados Particulares destinar&#xE1; tambi&#xE9;n a los fines a que este art&#xED;culo se refiere, las sumas percibidas de sus deudores hipotecarios en su car&#xE1;cter de aseguradora de los riesgos de desgravamen e incendio, en aquellos casos en que los se&#xF1;alados riesgos hayan sido cubiertos, posteriormente, por otras entidades aseguradoras.</div><div class=\"p\">&nbsp; &nbsp; El Presupuesto de la Caja de Previsi&#xF3;n de Empleados Particulares debe entenderse modificado para los efectos de esta ley, a contar desde la fecha de su publicaci&#xF3;n en el &quot;Diario Oficial.&quot;.</div><br></div>"
+        },
+        {
+          "part_id": 8845252,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, prom&#xFA;lguese y ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, quince de Octubre de mil novecientos setenta y uno.- SALVADOR ALLENDE GOSSENS.- Jos&#xE9; Oyarce Jara.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a U. para su conocimiento.- Saluda a U.- Laureano Le&#xF3;n Morales, Subsecretario de Previsi&#xF3;n Social.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, prom&#xFA;lguese y ll&#xE9;vese a efecto como ley de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Santiago, quince de octubre de mil novecientos setenta y uno.- SALVADOR ALLENDE GOSSENS.- Jos&#xE9; Oyarce. </div></div>"
+        }
+      ]
+    }
+  }
+]

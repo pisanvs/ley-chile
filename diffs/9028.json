@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-06-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-06-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7137127,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE N&#xFA;m. 90.- Santiago, 19 de Mayo de 1993.</div><div class=\"p\">&nbsp; &nbsp; Visto: lo dispuesto en el D.F.L. N&#xB0; 279, de 1960; en el D.L. N&#xB0; 557, de 1974; en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; en el N&#xB0; 10 del art&#xED;culo 1&#xB0; del Decreto Supremo N&#xB0; 1.407, de 1991, del Ministerio del Interior y el Oficio N&#xB0; 10010-400, del 4 de marzo de 1993, del Instituto Nacional de Normalizaci&#xF3;n,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA DE CHILE </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 90.- Santiago, 19 de Mayo de 1993.</div><div class=\"p\">&nbsp; &nbsp; Visto: lo dispuesto en el D.F.L. N&#xB0; 279, de 1960; en el D.L. N&#xB0; 557, de 1974; en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; en el N&#xB0; 10 del art&#xED;culo 1&#xB0; del Decreto Supremo N&#xB0; 1.407, de 1991, del Ministerio del Interior y el Oficio N&#xB0; 10010-400, del 4 de marzo de 1993, del Instituto Nacional de Normalizaci&#xF3;n,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

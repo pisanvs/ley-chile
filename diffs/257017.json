@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2006-12-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-01-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8663112,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Transitorio 2.- Los laboratorios dispondr&#xE1;n de veinticuatro meses, desde la publicaci&#xF3;n en el Diario Oficial de la presente resoluci&#xF3;n, para cumplir con la exigencia contenida en el numeral 19 de la misma. En el tiempo intermedio, los laboratorios podr&#xE1;n seguir realizando la toma de muestra y su an&#xE1;lisis. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Transitorio 2.- Los laboratorios dispondr&#xE1;n de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> veinticuatro meses, desde la publicaci&#xF3;n en el Diario Oficial de la presente resoluci&#xF3;n, para cumplir con la exigencia contenida en el numeral 19 de la misma. En el tiempo intermedio, los laboratorios podr&#xE1;n seguir realizando la toma de muestra y su an&#xE1;lisis.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 3342 Exenta, Econom&#xED;a, publicada el 02.01.2009, modific&#xF3; la presente norma en el sentido de indicar que los laboratorios dispondr&#xE1;n hasta el 29 de junio de 2009 para cumplir con la exigencia contenida en el numeral 19, esto es, acreditarse ante el Instituto Nacional de Normalizaci&#xF3;n (INN) en sus sistemas de gesti&#xF3;n seg&#xFA;n la norma chilena NCh-ISO/IEC17025:2005(ES), o la que la reemplace.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2009-11-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-02-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-05-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6103917,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Fac&#xFA;ltase al Secretario Regional Ministerial de Vivienda y Urbanismo de la IV Regi&#xF3;n de Coquimbo para hacer extensiva hasta el nivel de localidades, la facultad que le otorga el inciso tercero del art&#xED;culo 6&#xBA; del D.S. N&#xBA; 167, (V. y U.), de 1986, para la distribuci&#xF3;n regional de los recursos de los llamados a postulaci&#xF3;n para la asignaci&#xF3;n del subsidio habitacional para la atenci&#xF3;n del sector rural regulado por el D.S. N&#xBA; 167, (V. y U.), de 1986, que se efect&#xFA;en durante el a&#xF1;o 1998. Las resoluciones respectivas se publicar&#xE1;n en un peri&#xF3;dico de circulaci&#xF3;n regional. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Fac&#xFA;ltase al Secretario Regional Ministerial de Vivienda y Urbanismo de la IV Regi&#xF3;n de Coquimbo para hacer extensiva hasta el nivel de localidades, la facultad que le otorga el inciso tercero del art&#xED;culo 6&#xBA; del D.S. N&#xBA; 167, (V. y U.), de 1986, para la distribuci&#xF3;n regional de los recursos de los llamados a postulaci&#xF3;n para la asignaci&#xF3;n del subsidio habitacional para la atenci&#xF3;n del sector rural regulado por el D.S. N&#xBA; 167, (V. y U.), de 1986, que se efect&#xFA;en durante los a&#xF1;os 1998 y 1999. Las resoluciones respectivas DTO 53, VIVIENDA<span class=\"n\" id=\"n_0\"><br>Art. 1&#xBA;<br>D.O. 14.05.1999</span> se publicar&#xE1;n en un peri&#xF3;dico de circulaci&#xF3;n regional. </div></div>"
+        }
+      ]
+    }
+  }
+]

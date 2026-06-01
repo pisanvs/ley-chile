@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2021-02-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-02-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10201062,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: F&#xED;jese, a contar de esta fecha, en caso de ausencia o impedimento de su titular, el siguiente orden de subrogaci&#xF3;n al cargo de Director Nacional del Servicio Nacional de Pesca y Acuicultura, el que ser&#xE1; ejercido por los funcionarios que se individualizan a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;. Do&#xF1;a Jessica Cecilia Fuentes Olmos, c&#xE9;dula de identidad N&#xB0; 10.414.228-1, Subdirectora Jur&#xED;dica, de la Planta Directiva del Servicio Nacional de Pesca y Acuicultura, grado 4&#xB0; de la EUS del segundo nivel jer&#xE1;rquico.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;. Don Fernando Antonio Naranjo Gatica, c&#xE9;dula de identidad N&#xB0; 8.918.093-7, Subdirector de Pesquer&#xED;as, de la Planta Directiva del Servicio Nacional de Pesca y Acuicultura, grado 4&#xB0; de la EUS del segundo nivel jer&#xE1;rquico.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;. Do&#xF1;a Ana Mar&#xED;a Urrutia Garay, c&#xE9;dula de identidad N&#xB0; 8.590.001-3, Subdirectora Administrativa, de la Planta Directiva del Servicio Nacional de Pesca y Acuicultura, grado 4&#xB0; de la EUS del segundo nivel jer&#xE1;rquico.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: F&#xED;jese, a contar de esta fecha, en caso de ausencia o impedimento de su titular, el siguiente orden de subrogaci&#xF3;n al cargo de Director Nacional del Servicio Nacional de Pesca y Acuicultura, el que ser&#xE1; ejercido por los funcionarios que se individualizan a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Don Esteban Alonso Donoso Abarca, c&#xE9;dula<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1172251&amp;idParte=10307136&amp;idVersion=2022-02-03\">Decreto 24 EXENTO,<br>ECONOM&#xCD;A<br>Art. primero<br>D.O. 03.02.2022</a></span> de identidad N&#xBA; 12.413.049-2, Subdirector Nacional, de la Planta Directiva del Servicio Nacional de Pesca y Acuicultura, grado 4&#xBA; de la EUS del segundo nivel jer&#xE1;rquico.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;. Don Fernando Antonio Naranjo Gatica, c&#xE9;dula de identidad N&#xB0; 8.918.093-7, Subdirector de Pesquer&#xED;as, de la Planta Directiva del Servicio Nacional de Pesca y Acuicultura, grado 4&#xB0; de la EUS del segundo nivel jer&#xE1;rquico.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;. Do&#xF1;a Ana Mar&#xED;a Urrutia Garay, c&#xE9;dula de identidad N&#xB0; 8.590.001-3, Subdirectora Administrativa, de la Planta Directiva del Servicio Nacional de Pesca y Acuicultura, grado 4&#xB0; de la EUS del segundo nivel jer&#xE1;rquico.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1172251,
+      "fecha": "2022-02-03"
+    }
+  },
+  {
+    "fecha": "2023-02-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

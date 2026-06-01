@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-11-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-02-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8643071,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 352 DE 1985 </div></div>",
+          "new": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 352 DE 1985<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 174 Exenta, Transportes, publicada el 10.02.2001 modific&#xF3; el punto 4 de Cap&#xED;tulo I de la presente resoluci&#xF3;n en el sentido que en dicha norma se indica, la cual no se ha podido realizar por haber sido publicada &#xE9;sta en extracto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

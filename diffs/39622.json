@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-05-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-12-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7202076,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE REQUISITOS DE INTERNACION PARA SEMILLAS DE ZANAHORIA Y CILANTRO Y DEROGA RESOLUCION NUMERO 2.151, DE 1987</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.221 exenta.- Santiago, 3 de mayo de 1996.- Vistos: Lo dispuesto en el Decreto Ley N&#xB0;3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola; las Resoluciones N&#xB0;s. 39 y 350 de 1981, 1.173 de 1996, expedidas por el Servicio Agr&#xED;cola y Ganadero; el Informe N&#xB0;698/85, del Subdepto. de Vigilancia Fitosanitaria del Departamento de Protecci&#xF3;n Agr&#xED;cola, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que es facultad del Servicio establecer las regulaciones fitosanitarias que deben cumplir los productos vegetales para su internaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que existen nuevos antecedentes sobre dispersi&#xF3;n de plagas en el pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que es necesario dejar sin efecto los requisitos establecidos en la resoluci&#xF3;n N&#xB0;2.151 de 1987.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE REQUISITOS DE INTERNACION PARA SEMILLAS DE ZANAHORIA Y CILANTRO Y DEROGA RESOLUCION NUMERO 2.151, DE 1987</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.221 exenta.- Santiago, 3 de mayo de 1996.- Vistos: Lo dispuesto en el Decreto Ley N&#xB0;3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola; las Resoluciones N&#xB0;s. 39 y 350 de 1981, 1.173 de 1996, expedidas por el Servicio Agr&#xED;cola y Ganadero; el Informe N&#xB0;698/85, del Subdepto. de Vigilancia Fitosanitaria del Departamento de Protecci&#xF3;n Agr&#xED;cola, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que es facultad del Servicio establecer las regulaciones fitosanitarias que deben cumplir los productos vegetales para su internaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que existen nuevos antecedentes sobre dispersi&#xF3;n de plagas en el pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que es necesario dejar sin efecto los requisitos establecidos en la resoluci&#xF3;n N&#xB0;2.151 de 1987.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

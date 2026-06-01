@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2009-06-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-08-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8715526,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; F&#xED;janse los valores que se indican, I.V.A. incluido, para las siguientes publicaciones, copias de bases de datos y otros documentos de la Subsecretar&#xED;a de Transportes:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/12542.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Para la conversi&#xF3;n a pesos de los valores expresados en UF se utilizar&#xE1; el valor registrado por &#xE9;sta el primer d&#xED;a del mes en que se efect&#xFA;e la venta.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Se deja sin efecto la resoluci&#xF3;n exenta N&#xBA;618, de 1998, de la Subsecretar&#xED;a de Transportes.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; F&#xED;janse los valores que se indican, I.V.A. incluido, para las siguientes publicaciones, copias de bases de datos y otros documentos de la Subsecretar&#xED;a de Transportes: <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/12542.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Para la conversi&#xF3;n a pesos de los valores expresados en UF se utilizar&#xE1; el valor registrado por &#xE9;sta el primer d&#xED;a del mes en que se efect&#xFA;e la venta.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Se deja sin efecto la resoluci&#xF3;n exenta N&#xBA;618, de 1998, de la Subsecretar&#xED;a de Transportes.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 562 Exenta, Transportes, publicada&nbsp; el 07.08.2010, suprime el literal a) del resuelvo 1&#xBA; de la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-04-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6020712,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA DESVIO QUE INDICA A LOS SERVICIOS DE LOCOMOCION COLECTIVA URBANA REALIZADA CON TAXIS COLECTIVOS EN LA CIUDAD DE TALCA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 112 exenta.- Talca, 24 de mayo de 1996.- Visto: Lo dispuesto en el art&#xED;culo N&#xB0; 49 del Decreto Supremo N&#xB0; 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA DESVIO QUE INDICA A LOS SERVICIOS DE LOCOMOCION COLECTIVA URBANA REALIZADA CON TAXIS COLECTIVOS EN LA CIUDAD DE TALCA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 112 exenta.- Talca, 24 de mayo de 1996.- Visto: Lo dispuesto en el art&#xED;culo N&#xB0; 49 del Decreto Supremo N&#xB0; 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

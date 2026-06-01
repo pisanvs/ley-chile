@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1967-10-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-12-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7340698,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO SOBRE POSTULACIONES A PRESTAMOS DE ADQUISICION, CONSTRUCCION O AMPLIACION DE SITIOS O VIVIENDAS, PARA LA CORPORACION DE SERVICIOS HABITACIONALES</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 26 de Septiembre de 1967.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 553.- Vistos: lo prescrito en los art&#xED;culos 21&#xBA; y 34&#xBA;, N&#xBA; 6&#xBA;, de la ley N&#xBA; 16.391 y 3&#xBA;, N&#xBA; 7&#xBA;, del decreto N&#xBA; 485, del 30 de Agosto de 1966, del Ministerio de la Vivienda y Urbanismo, y las facultades que me confiere el art&#xED;culo 72&#xBA;, N&#xBA; 2&#xBA;, de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base, para la Corporaci&#xF3;n de Servicios Habitacionales, el siguiente Reglamento sobre Postulaciones a Pr&#xE9;stamos para la Adquisici&#xF3;n, Construcci&#xF3;n o Ampliaci&#xF3;n de sitios o viviendas econ&#xF3;micas:</div><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA REGLAMENTO SOBRE POSTULACIONES A PRESTAMOS DE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> ADQUISICION, CONSTRUCCION O AMPLIACION DE SITIOS O VIVIENDAS, PARA LA CORPORACION DE SERVICIOS HABITACIONALES</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 26 de Septiembre de 1967.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 553.- Vistos: lo prescrito en los art&#xED;culos 21&#xBA; y 34&#xBA;, N&#xBA; 6&#xBA;, de la ley N&#xBA; 16.391 y 3&#xBA;, N&#xBA; 7&#xBA;, del decreto N&#xBA; 485, del 30 de Agosto de 1966, del Ministerio de la Vivienda y Urbanismo, y las facultades que me confiere el art&#xED;culo 72&#xBA;, N&#xBA; 2&#xBA;, de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base, para la Corporaci&#xF3;n de Servicios Habitacionales, el siguiente Reglamento sobre Postulaciones a Pr&#xE9;stamos para la Adquisici&#xF3;n, Construcci&#xF3;n o Ampliaci&#xF3;n de sitios o viviendas econ&#xF3;micas:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 28 del DTO 618, vivienda, publicado el 13.12.1974, deroga la presente norma, en todo aquello que sea contrario a lo dispuesto en el presente decreto derogatorio y sin perjuicio de lo que se dispone en los art&#xED;culos transitorios.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

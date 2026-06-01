@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7143904,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA CONCESION DE SERVICIO INTERMEDIO DE TELECOMUNICACIONES A CHILESAT S.A.</div><div class=\"p\">&nbsp; &nbsp; Santiago, 9 de Octubre de 1992.- Con esta fecha se ha decretado lo que sigue</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 287.- Vistos:</div><div class=\"p\">&nbsp; &nbsp; a) La Ley N&#xB0; 18.168 de 1982, y sus posteriores modificaciones, Ley General de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; b) El Decreto Ley N&#xB0; 1.762 de 1977.</div><div class=\"p\">&nbsp; &nbsp; c) El art&#xED;culo 1&#xB0; de la Ley N&#xB0; 16.436 de 1966.</div><div class=\"p\">&nbsp; &nbsp; d) El N&#xB0; 1 del art&#xED;culo 3&#xB0; p&#xE1;rrafo III de la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; e) El Decreto Supremo N&#xB0; 179 de 1988, del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; a) Lo solicitado por la interesada.</div><div class=\"p\">&nbsp; &nbsp; b) Lo propuesto por la Subsecretar&#xED;a de Telecomunicaciones por Oficio Ord. N&#xB0; 34.560 del 09.10.92.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA CONCESION DE SERVICIO INTERMEDIO DE TELECOMUNICACIONES A CHILESAT S.A.</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 9 de Octubre de 1992.- Con esta fecha se ha decretado lo que sigue</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 287.- Vistos:</div><br><div class=\"p\">&nbsp; &nbsp; a) La Ley N&#xB0; 18.168 de 1982, y sus posteriores modificaciones, Ley General de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; b) El Decreto Ley N&#xB0; 1.762 de 1977.</div><div class=\"p\">&nbsp; &nbsp; c) El art&#xED;culo 1&#xB0; de la Ley N&#xB0; 16.436 de 1966.</div><div class=\"p\">&nbsp; &nbsp; d) El N&#xB0; 1 del art&#xED;culo 3&#xB0; p&#xE1;rrafo III de la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; e) El Decreto Supremo N&#xB0; 179 de 1988, del Ministerio de Transportes y Telecomunicaciones.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; a) Lo solicitado por la interesada.</div><div class=\"p\">&nbsp; &nbsp; b) Lo propuesto por la Subsecretar&#xED;a de Telecomunicaciones por Oficio Ord. N&#xB0; 34.560 del 09.10.92.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

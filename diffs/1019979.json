@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2010-12-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-03-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9065918,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero: Adjud&#xED;quese y Ot&#xF3;rguese, de conformidad a la Ley N&#xB0;19.657, la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica del &#xE1;rea denominada Tuyajto 4, a la empresa Hot Rock Chile S.A., R.U.T. 76.023.678-0, ubicada en la comuna de San Pedro de Atacama, provincia de El Loa, Segunda Regi&#xF3;n de Antofagasta, cuya extensi&#xF3;n y coordenadas UTM referidas al Datum Provisional Sudamericano 1956, Elipsoide de Referencia Internacional de 1924, Huso 19 Sur, son las siguientes:</div><br><div class=\"p\">&quot;Tuyajto 4&quot;: 40.300 Hect&#xE1;reas</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/14848.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero: Adjud&#xED;quese <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>y Ot&#xF3;rguese, de conformidad a la Ley N&#xB0;19.657, la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica del &#xE1;rea denominada Tuyajto 4, a la empresa Hot Rock Chile S.A., R.U.T. 76.023.678-0, ubicada en la comuna de San Pedro de Atacama, provincia de El Loa, Segunda Regi&#xF3;n de Antofagasta, cuya extensi&#xF3;n y coordenadas UTM referidas al Datum Provisional Sudamericano 1956, Elipsoide de Referencia Internacional de 1924, Huso 19 Sur, son las siguientes:</div><br><div class=\"p\">&quot;Tuyajto 4&quot;: 40.300 Hect&#xE1;reas</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/14848.jpg\"></div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Numeral I del Decreto 80 Exento, Energ&#xED;a, publicado el 26.03.2014, viene a modificar la presente norma en el sentido de dar cuenta del cambio de nombre de la sociedad titular de la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica, la que ha pasado a denominarse &quot;EDC Energ&#xED;a Verde Chile S.A.&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

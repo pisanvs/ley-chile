@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-10-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-08-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9040924,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA EL REGLAMENTO DE LA LEY N&#xB0; 18.778 QUE ESTABLECE SUBSIDIO AL PAGO DE CONSUMO DE AGUA POTABLE Y SERVICIO DE ALCANTARILLADO DE AGUAS SERVIDAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 786.- Santiago, 31 de Agosto de 1989.- Visto: La ley N&#xB0; 18.778 y el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento para la aplicaci&#xF3;n de la Ley N&#xB0; 18.778:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA EL REGLAMENTO DE LA LEY N&#xB0; 18.778 QUE ESTABLECE SUBSIDIO AL PAGO DE CONSUMO DE AGUA POTABLE Y SERVICIO DE ALCANTARILLADO DE AGUAS SERVIDAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 786.- Santiago, 31 de Agosto de 1989.- Visto: La ley N&#xB0; 18.778 y el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento para la aplicaci&#xF3;n de la Ley N&#xB0; 18.778:</div></div>"
+        }
+      ]
+    }
+  }
+]

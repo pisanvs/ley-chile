@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-06-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8812711,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Autor&#xED;zase a circular en d&#xED;as s&#xE1;bado en la tarde, domingo y festivos, al autom&#xF3;vil de la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales del Ministerio de Relaciones Exteriores, que a continuaci&#xF3;n se singulariza, asignado al uso del se&#xF1;or Director General de Relaciones Econ&#xF3;micas Internacionales de la Canciller&#xED;a, don Carlos Furche G. o, en su defecto, al funcionario(a) que lo subrogue:</div><br><div class=\"p\">Autom&#xF3;vil&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Sed&#xE1;n</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Nissan</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; Teana 2.5 JL 801</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; 2009</div><div class=\"p\">Patente&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; CCRW-19</div><div class=\"p\">N&#xBA; de motor&nbsp; &nbsp; &nbsp; :&nbsp; VQ25389830A</div><div class=\"p\">N&#xBA; de chasis&nbsp; &nbsp;  :&nbsp; JN1BBUJ32Z0000815</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Blanco</div><div class=\"p\">N&#xBA; de inventario :&nbsp; 13722</div><div class=\"p\">Valor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; $14.611.115.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Autor&#xED;zase a dicho veh&#xED;culo a guardarse en recintos particulares, ser conducido por la autoridad a la cual est&#xE1; asignado y desplazarse en todo el territorio nacional.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Ex&#xED;mase al referido veh&#xED;culo de la obligaci&#xF3;n de portar disco fiscal, establecido en el art&#xED;culo 3&#xBA; del decreto ley N&#xBA; 799, de 1974.</div><br><div class=\"p\">&nbsp; &nbsp;  4&#xBA; Una copia del presente decreto deber&#xE1; mantenerse en el veh&#xED;culo, a fin de ser presentado a las autoridades cuando as&#xED; lo requieran.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  5&#xBA; La presente autorizaci&#xF3;n rige desde la fecha de publicaci&#xF3;n de este decreto.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Autor&#xED;zase a circular en d&#xED;as s&#xE1;bado en la tarde, domingo y festivos, al autom&#xF3;vil de la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales del Ministerio de Relaciones Exteriores, que a continuaci&#xF3;n se singulariza, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1014759&amp;idParte=8936481&amp;idVersion=2010-06-25\">Decreto 396 EXENTO,<br>R. EXTERIORES<br>N&#xB0; 1<br>D.O. 25.06.2010</a></span>asignado al uso del se&#xF1;or Director General de Relaciones Econ&#xF3;micas Internacionales del Ministerio de Relaciones Exteriores, don Jorge Bunster Betteley, o del funcionario(a) que legalmente lo subrogue u ocupe dicho cargo:</div><br><div class=\"p\">Autom&#xF3;vil&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Sed&#xE1;n</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Nissan</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; Teana 2.5 JL 801</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; 2009</div><div class=\"p\">Patente&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; CCRW-19</div><div class=\"p\">N&#xBA; de motor&nbsp; &nbsp; &nbsp; :&nbsp; VQ25389830A</div><div class=\"p\">N&#xBA; de chasis&nbsp; &nbsp;  :&nbsp; JN1BBUJ32Z0000815</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; Blanco</div><div class=\"p\">N&#xBA; de inventario :&nbsp; 13722</div><div class=\"p\">Valor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; $14.611.115.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Autor&#xED;zase a dicho veh&#xED;culo a guardarse en recintos particulares, ser conducido por la autoridad a la cual est&#xE1; asignado y desplazarse en todo el territorio nacional.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Ex&#xED;mase al referido veh&#xED;culo de la obligaci&#xF3;n de portar disco fiscal, establecido en el art&#xED;culo 3&#xBA; del decreto ley N&#xBA; 799, de 1974.</div><br><div class=\"p\">&nbsp; &nbsp;  4&#xBA; Una copia del presente decreto deber&#xE1; mantenerse en el veh&#xED;culo, a fin de ser presentado a las autoridades cuando as&#xED; lo requieran.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  5&#xBA; La presente autorizaci&#xF3;n rige desde la fecha de publicaci&#xF3;n de este decreto.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1014759,
+      "fecha": "2010-06-25"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1994-09-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8948807,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- La segunda revisi&#xF3;n t&#xE9;cnica de los veh&#xED;culos a que refiere el inciso segundo del art&#xED;culo 7&#xB0; del D.S.</div><div class=\"p\">N&#xB0; 156 de 1990, cuando &#xE9;stos son nuevos, se practicar&#xE1; en un plazo no inferior a 12 meses ni superior a 24 meses contado del mes en que se efectu&#xF3; la primera revisi&#xF3;n, en el mes que corresponda seg&#xFA;n el &#xFA;ltimo d&#xED;gito de la patente &#xFA;nica.</div><div class=\"p\">&nbsp; &nbsp; Para los efectos de este decreto se considerar&#xE1; que un veh&#xED;culo es nuevo, cuando su a&#xF1;o de fabricaci&#xF3;n sea igual o superior al a&#xF1;o en que se solicite su primera revisi&#xF3;n t&#xE9;cnica.</div><div class=\"p\">&nbsp; &nbsp; 2.- Der&#xF3;gase el Decreto Supremo N&#xB0; 169 de fecha 27 de Junio de 1994, del Ministerio de Transportes y Telecomunicaciones, sin publicar.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- La segunda revisi&#xF3;n t&#xE9;cnica de los veh&#xED;culos a que refiere el inciso segundo del art&#xED;culo 7&#xB0; del D.S. N&#xB0; 156 de 1990, cuando &#xE9;stos son nuevos, se practicar&#xE1; en un plazo no inferior a 12 meses ni superior a 24 meses contado del mes en que se efectu&#xF3; la primera revisi&#xF3;n, en el mes que corresponda seg&#xFA;n el &#xFA;ltimo d&#xED;gito de la patente &#xFA;nica.</div><div class=\"p\">&nbsp; &nbsp; La revisi&#xF3;n t&#xE9;cnica de los veh&#xED;culos del inciso<span class=\"n\" id=\"n_0\">DTO 141, TRANSPORTES<br>D.O.25.08.1997</span> anterior, cuando sean de modelos que hayan sido aprobados en el proceso de homologaci&#xF3;n a que se refiere el decreto supremo N&#xB0;54-97, del Ministerio de Transportes y Telecomunicaciones, se har&#xE1; en el mes que corresponda seg&#xFA;n el &#xFA;ltimo d&#xED;gito de su placa patente, en un plazo no inferior a doce ni superior a veinticuatro meses contados desde el mes en que se expidi&#xF3; el Certificado de Homologaci&#xF3;n Individual a que se refiere el n&#xFA;mero 5&#xB0; de ese decreto. Durante este plazo, dicha revisi&#xF3;n t&#xE9;cnica ser&#xE1; sustituida por el Certificado aludido. Para los efectos de este decreto se considerar&#xE1; que un veh&#xED;culo es nuevo, cuando su a&#xF1;o de fabricaci&#xF3;n sea igual o superior al a&#xF1;o en que se solicite su primera revisi&#xF3;n t&#xE9;cnica.</div><div class=\"p\">&nbsp; &nbsp; 2.- Der&#xF3;gase el Decreto Supremo N&#xB0; 169 de fecha 27 de Junio de 1994, del Ministerio de Transportes y Telecomunicaciones, sin publicar.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1997-09-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8948807,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- La segunda revisi&#xF3;n t&#xE9;cnica de los veh&#xED;culos a que refiere el inciso segundo del art&#xED;culo 7&#xB0; del D.S. N&#xB0; 156 de 1990, cuando &#xE9;stos son nuevos, se practicar&#xE1; en un plazo no inferior a 12 meses ni superior a 24 meses contado del mes en que se efectu&#xF3; la primera revisi&#xF3;n, en el mes que corresponda seg&#xFA;n el &#xFA;ltimo d&#xED;gito de la patente &#xFA;nica.</div><div class=\"p\">&nbsp; &nbsp; La revisi&#xF3;n t&#xE9;cnica de los veh&#xED;culos del inciso<span class=\"n\" id=\"n_0\">DTO 141, TRANSPORTES<br>D.O.25.08.1997</span> anterior, cuando sean de modelos que hayan sido aprobados en el proceso de homologaci&#xF3;n a que se refiere el decreto supremo N&#xB0;54-97, del Ministerio de Transportes y Telecomunicaciones, se har&#xE1; en el mes que corresponda seg&#xFA;n el &#xFA;ltimo d&#xED;gito de su placa patente, en un plazo no inferior a doce ni superior a veinticuatro meses contados desde el mes en que se expidi&#xF3; el Certificado de Homologaci&#xF3;n Individual a que se refiere el n&#xFA;mero 5&#xB0; de ese decreto. Durante este plazo, dicha revisi&#xF3;n t&#xE9;cnica ser&#xE1; sustituida por el Certificado aludido. Para los efectos de este decreto se considerar&#xE1; que un veh&#xED;culo es nuevo, cuando su a&#xF1;o de fabricaci&#xF3;n sea igual o superior al a&#xF1;o en que se solicite su primera revisi&#xF3;n t&#xE9;cnica.</div><div class=\"p\">&nbsp; &nbsp; 2.- Der&#xF3;gase el Decreto Supremo N&#xB0; 169 de fecha 27 de Junio de 1994, del Ministerio de Transportes y Telecomunicaciones, sin publicar.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- La segunda revisi&#xF3;n t&#xE9;cnica de los veh&#xED;culos a que refiere el inciso segundo del art&#xED;culo 7&#xB0; del D.S. N&#xB0; 156 de 1990, cuando &#xE9;stos son nuevos, se practicar&#xE1; en un plazo no inferior a 12 meses ni superior a 24 meses contado del mes en que se efectu&#xF3; la primera revisi&#xF3;n, en el mes que corresponda seg&#xFA;n el &#xFA;ltimo d&#xED;gito de la patente &#xFA;nica.</div><div class=\"p\">&nbsp; &nbsp; La revisi&#xF3;n t&#xE9;cnica de los veh&#xED;culos del inciso<span class=\"n\" id=\"n_0\">DTO 141, TRANSPORTES<br>D.O.25.08.1997</span> anterior, cuando sean de modelos que hayan sido aprobados en el proceso de homologaci&#xF3;n a que se refiere el decreto supremo N&#xB0;54-97, del Ministerio de Transportes y Telecomunicaciones, se har&#xE1; en el mes que corresponda seg&#xFA;n el &#xFA;ltimo d&#xED;gito de su placa patente, en un plazo no inferior veinticuatro a ni superior a treinta y seis<span class=\"n\" id=\"n_1\">DT0 160, TRANSPORTES<br>N&#xB0;9<br>D.O.04.05.1997</span> meses contados desde el mes en que se expidi&#xF3; el Certificado de Homologaci&#xF3;n Individual a que se refiere el n&#xFA;mero 5&#xB0; de ese decreto. Durante este plazo, dicha<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:</a></div> revisi&#xF3;n t&#xE9;cnica ser&#xE1; sustituida por el Certificado aludido.</div><div class=\"p\">Para los efectos de este decreto se considerar&#xE1; que un veh&#xED;culo es nuevo, cuando su a&#xF1;o de fabricaci&#xF3;n sea igual o superior al a&#xF1;o en que se solicite su primera revisi&#xF3;n t&#xE9;cnica.</div><div class=\"p\">&nbsp; &nbsp; 2.- Der&#xF3;gase el Decreto Supremo N&#xB0; 169 de fecha 27 de Junio de 1994, del Ministerio de Transportes y Telecomunicaciones, sin publicar.</div><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 160, de 1997, modifica el DTO 141 anterior modificaci&#xF3;n del presente decreto, raz&#xF3;n por la que se incluye expresamente en su texto actualizado.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1980-10-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7317710,
+          "old": "<div><div class=\"p\">AUTORIZA A LA ENTIDAD DENOMINADA &quot;INSTITUTO DE ASUNTOS CULTURALES&quot;, PARA DESARROLLAR ACTIVIDADES EN EL PAIS </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 4 de Septiembre de 1980.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.193.- Visto: estos antecedentes, lo dispuesto en el Decreto Ley N&#xBA; 527, de 1974; en el art&#xED;culo 34 del Decreto Supremo N&#xBA; 110, del Ministerio de Justicia, publicado en el Diario Oficial de 20 de Marzo de 1979 y lo informado por el Consejo de Defensa del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA ENTIDAD DENOMINADA &quot;INSTITUTO DE ASUNTOS CULTURALES&quot;, PARA DESARROLLAR ACTIVIDADES EN EL PAIS </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 4 de Septiembre de 1980.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.193.- Visto: estos antecedentes, lo dispuesto en el Decreto Ley N&#xBA; 527, de 1974; en el art&#xED;culo 34 del Decreto Supremo N&#xBA; 110, del Ministerio de Justicia, publicado en el Diario Oficial de 20 de Marzo de 1979 y lo informado por el Consejo de Defensa del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

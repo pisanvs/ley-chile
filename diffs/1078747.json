@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-06-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9613192,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Establ&#xE9;cense los siguientes est&#xE1;ndares de aprendizaje de 2&#xBA; a&#xF1;o medio en las asignaturas Matem&#xE1;tica y Lenguaje y Comunicaci&#xF3;n: Lectura, cuyo texto se contiene en el Anexo que se acompa&#xF1;a al presente decreto, que se entiende formar parte del mismo y que se publicar&#xE1; conjuntamente en el Diario Oficial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Establ&#xE9;cense <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>los siguientes est&#xE1;ndares de aprendizaje de 2&#xBA; a&#xF1;o medio en las asignaturas Matem&#xE1;tica y Lenguaje y Comunicaci&#xF3;n: Lectura, cuyo texto se contiene en el Anexo que se acompa&#xF1;a al presente decreto, que se entiende formar parte del mismo y que se publicar&#xE1; conjuntamente en el Diario Oficial.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del decreto 256, Educaci&#xF3;n, publicado el 08.11.2019, modifica la presente norma en el sentido de adecuar los est&#xE1;ndares de aprendizaje para 2&#xB0; medio en matem&#xE1;ticas y lectura, por los que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

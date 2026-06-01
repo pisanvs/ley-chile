@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-10-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048253,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD AGRICOLA INDUSTRIAL Y COMERCIAL PEREZ Y RAMIREZ LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD AGRICOLA INDUSTRIAL Y COMERCIAL PEREZ Y RAMIREZ LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

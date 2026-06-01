@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-04-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9863617,
+          "old": "<div><br><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.- El aguinaldo que otorga el art&#xED;culo anterior corresponder&#xE1;, asimismo, en los t&#xE9;rminos que establece dicha disposici&#xF3;n, a los trabajadores de las universidades que reciben aporte fiscal directo de acuerdo con el art&#xED;culo 2 del decreto con fuerza de ley N&#xBA; 4, de 1981, del Ministerio de Educaci&#xF3;n, y a los trabajadores de sectores de la Administraci&#xF3;n del Estado que hayan sido traspasados a las municipalidades, siempre que tengan alguna de dichas calidades a la fecha de publicaci&#xF3;n de esta ley.</div></div>",
+          "new": "<div><br><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.- El aguinaldo que otorga el art&#xED;culo anterior corresponder&#xE1;, asimismo, en los t&#xE9;rminos que establece dicha disposici&#xF3;n, a los trabajadores de las universidades que reciben aporte fiscal directo de acuerdo con el art&#xED;culo 2 del decreto con fuerza de ley N&#xBA; 4, de 1981, del Ministerio de Educaci&#xF3;n, y a los trabajadores de sectores de la Administraci&#xF3;n del Estado que hayan sido traspasados a las municipalidades, siempre que tengan alguna de dichas calidades a la fecha de publicaci&#xF3;n de esta ley; y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1130870&amp;idParte=10017647&amp;idVersion=2019-04-25\">Ley 21152<br>Art. 5<br>D.O. 25.04.2019</a></span>a los trabajadores de los Servicios Locales de Educaci&#xF3;n P&#xFA;blica, incluidos los profesionales de la educaci&#xF3;n y los asistentes de la educaci&#xF3;n que se desempe&#xF1;en en establecimientos educacionales de dependencia de dichos Servicios.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1130870,
+      "fecha": "2019-04-25"
+    }
+  }
+]

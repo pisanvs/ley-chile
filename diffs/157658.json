@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-05-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-01-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6239146,
+          "old": "<div><div class=\"p\">PROHIBE EL USO DE ARTES DE PESCA DE ARRASTRE Y DE CERCO EN LAS AREAS QUE INDICA Y DEROGA DECRETOS QUE SE&#xD1;ALA </div><div class=\"p\">&nbsp; &nbsp;  Num. 94. - Santiago, 11 de Abril de 1985. - Visto: El informe de la Subsecretar&#xED;a de Pesca; lo dispuesto en el decreto con fuerza de ley N&#xBA; 34, de 1931, que legisla sobre la industria pesquera y sus derivados, cuyo texto refundido, coordinado y sistematizado fue fijado por el DFL N&#xBA; 5, de 1983, en los decretos supremos N&#xBA; 329 de 1978, del Ministerio de Agricultura; y N&#xBA;s. 34, de 1979, 685, de 1980 y 160 de 1984 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que en virtud de lo dispuesto en los decretos en referencia, se dictaron normas para reglamentar el uso de artes de pesca de arrastre y de cerco en las &#xE1;reas costeras y en el litoral de algunas bah&#xED;as.</div><br><div class=\"p\">&nbsp; &nbsp;  Que antecedentes t&#xE9;cnicos disponibles, permiten concluir, que se ha producido, en zonas de baja batimetr&#xED;a, un deterioro de las poblaciones de especies bent&#xF3;nicas, demersales y pel&#xE1;gicas, existentes en la zona sublitoral costeras, ocasionado por alteraciones del habitat y capturas masivas de individuos juveniles.</div><br><div class=\"p\">&nbsp; &nbsp;  Que a fin de proteger estos recursos, se hace necesario readecuar algunas de las normas vigentes sobre utilizaci&#xF3;n de artes de pesca, de acuerdo a los requerimientos de cada zona y extender su &#xE1;mbito de aplicaci&#xF3;n hasta la X Regi&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Que es necesario adem&#xE1;s evitar las interferencias que se producen entre embarcaciones equipadas con diversas artes de pesca,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">PROHIBE EL USO DE ARTES DE PESCA DE ARRASTRE Y DE CERCO EN LAS AREAS QUE INDICA Y DEROGA DECRETOS QUE SE&#xD1;ALA </div><div class=\"p\">&nbsp; &nbsp;  Num. 94. - Santiago, 11 de Abril de 1985. - Visto: El informe de la Subsecretar&#xED;a de Pesca; lo dispuesto en el decreto con fuerza de ley N&#xBA; 34, de 1931, que legisla sobre la industria pesquera y sus derivados, cuyo texto refundido, coordinado y sistematizado fue fijado por el DFL N&#xBA; 5, de 1983, en los decretos supremos N&#xBA; 329 de 1978, del Ministerio de Agricultura; y N&#xBA;s. 34, de 1979, 685, de 1980 y 160 de 1984 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que en virtud de lo dispuesto en los decretos en referencia, se dictaron normas para reglamentar el uso de artes de pesca de arrastre y de cerco en las &#xE1;reas costeras y en el litoral de algunas bah&#xED;as.</div><br><div class=\"p\">&nbsp; &nbsp;  Que antecedentes t&#xE9;cnicos disponibles, permiten concluir, que se ha producido, en zonas de baja batimetr&#xED;a, un deterioro de las poblaciones de especies bent&#xF3;nicas, demersales y pel&#xE1;gicas, existentes en la zona sublitoral costeras, ocasionado por alteraciones del habitat y capturas masivas de individuos juveniles.</div><br><div class=\"p\">&nbsp; &nbsp;  Que a fin de proteger estos recursos, se hace necesario readecuar algunas de las normas vigentes sobre utilizaci&#xF3;n de artes de pesca, de acuerdo a los requerimientos de cada zona y extender su &#xE1;mbito de aplicaci&#xF3;n hasta la X Regi&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Que es necesario adem&#xE1;s evitar las interferencias que se producen entre embarcaciones equipadas con diversas artes de pesca,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

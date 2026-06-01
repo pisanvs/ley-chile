@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-09-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-05-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9635300,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Establ&#xE9;cese el primer per&#xED;odo de descanso sanitario coordinado para la agrupaci&#xF3;n de concesiones de acuicultura de salm&#xF3;nidos en la XII Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/52185.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Establ&#xE9;cese el primer per&#xED;odo de descanso sanitario coordinado para la agrupaci&#xF3;n de concesiones de acuicultura de salm&#xF3;nidos en la XII Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/52185.jpg\"></div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 3391 Exenta, Econom&#xED;a, publicada el 18.05.2016, modifica el cuadro inserto en el presente art&#xED;culo, en el sentido de reemplazar en la columna &quot;Primer descanso&quot;, la l&#xED;nea Enero-Marzo 2018, por Mayo - Julio 2017.</div></div>"
+        }
+      ]
+    }
+  }
+]

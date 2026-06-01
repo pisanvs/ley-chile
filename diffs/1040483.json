@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-05-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-06-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9261829,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  F&#xED;jense las siguientes agrupaciones de comunas con m&#xE1;s de 5.000 habitantes urbanos, en la Regi&#xF3;n Metropolitana, para la aplicaci&#xF3;n del subsidio diferenciado a la localizaci&#xF3;n para los proyectos habitacionales postulados al programa &quot;Fondo Solidario de Elecci&#xF3;n de Vivienda&quot; durante el a&#xF1;o 2012, de acuerdo a lo establecido en el &#xFA;ltimo inciso del art&#xED;culo 5&#xBA; del DS N&#xBA; 49 (V. y U.), de 2011.</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/26345.jpg\">.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  F&#xED;jense las siguientes agrupaciones de comunas con m&#xE1;s de 5.000 habitantes urbanos, en la Regi&#xF3;n Metropolitana, para la aplicaci&#xF3;n del subsidio diferenciado a la localizaci&#xF3;n para los proyectos habitacionales postulados al programa &quot;Fondo Solidario de Elecci&#xF3;n de Vivienda&quot; durante el a&#xF1;o 2012, de acuerdo a lo establecido en el &#xFA;ltimo inciso del art&#xED;culo 5&#xBA; del DS N&#xBA; 49 (V. y U.), de 2011.</div><br><div class=\"p\"> <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1040814&amp;idParte=9263760&amp;idVersion=2012-06-07\">Resoluci&#xF3;n 1013 EXENTA,<br>VIVIENDA<br>D.O. 07.06.2012</a></span>&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/26475.jpg\"></div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1040814,
+      "fecha": "2012-06-07"
+    }
+  }
+]

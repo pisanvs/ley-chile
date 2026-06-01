@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-08-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048700,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA, AUTORIZA A SOCIEDAD PESQUERA BIO BIO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA, AUTORIZA A SOCIEDAD PESQUERA BIO BIO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

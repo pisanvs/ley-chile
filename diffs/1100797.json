@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2017-03-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-11-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9778939,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base el Arsenal Farmacol&#xF3;gico B&#xE1;sico para los Establecimientos de la Red de Atenci&#xF3;n Primaria de Salud ubicados en el territorio de competencia del Servicio de Salud Metropolitano Norte; documento que consta de 10 (diez) p&#xE1;ginas y que forma parte de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase establecido que el arsenal farmacol&#xF3;gico que se aprueba por la presente resoluci&#xF3;n reemplaza &#xED;ntegramente, desde la fecha de su publicaci&#xF3;n en el Diario Oficial, a aquel aprobado por <a href=\"https://www.leychile.cl/Navegar?idNorma=1019805&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 56.895</a>, del 3 de noviembre de 2010, de la Secretar&#xED;a Regional Ministerial de Salud Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp;  3.- Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial, y en la p&#xE1;gina web de la Secretar&#xED;a Regional Ministerial de Salud de la Regi&#xF3;n Metropolitana. Asimismo, deber&#xE1; existir una copia del arsenal farmacol&#xF3;gico aprobado en la Direcci&#xF3;n del Servicio de Salud Metropolitano Norte y en cada uno de los Centros de Atenci&#xF3;n Primaria de Salud de su territorio.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Arsenal Farmacol&#xF3;gico B&#xE1;sico para los Establecimientos de la Red de Atenci&#xF3;n Primaria de Salud ubicados en el territorio de competencia del Servicio de Salud Metropolitano Norte; documento que consta de 10 (diez) p&#xE1;ginas y que forma parte de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase establecido que el arsenal farmacol&#xF3;gico que se aprueba por la presente resoluci&#xF3;n reemplaza &#xED;ntegramente, desde la fecha de su publicaci&#xF3;n en el Diario Oficial, a aquel aprobado por resoluci&#xF3;n exenta N&#xBA; 56.895, del 3 de noviembre de 2010, de la Secretar&#xED;a Regional Ministerial de Salud Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp;  3.- Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial, y en la p&#xE1;gina web de la Secretar&#xED;a Regional Ministerial de Salud de la Regi&#xF3;n Metropolitana. Asimismo, deber&#xE1; existir una copia del arsenal farmacol&#xF3;gico aprobado en la Direcci&#xF3;n del Servicio de Salud Metropolitano Norte y en cada uno de los Centros de Atenci&#xF3;n Primaria de Salud de su territorio.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 2&#xB0; de la Resoluci&#xF3;n 56304 Exenta, Salud, publicada el 29.11.2017, modifica la presente norma en el sentido reemplazar &#xED;ntegramente desde la fecha de su publicaci&#xF3;n el arsenal farmacol&#xF3;gico B&#xE1;sico para los Establecimientos de la Red de Atenci&#xF3;n Primaria de Salud. </div></div>"
+        }
+      ]
+    }
+  }
+]

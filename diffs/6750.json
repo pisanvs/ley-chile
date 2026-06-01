@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1977-06-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2026-02-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7127670,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 29&#xB0;.- Las mutualidades de empleadores a que se refiere la ley 16.744 y las dem&#xE1;s instituciones que mantengan hospitales podr&#xE1;n solicitar autorizaci&#xF3;n para extender la atenci&#xF3;n m&#xE9;dica que presten sus establecimientos cuando est&#xE9;n en condiciones para ello sin desmedro de las funciones y obligaciones que les encomienden o imponen la legislaci&#xF3;n que les es aplicable, sus reglamentos o estatutos.</div><div class=\"p\">&nbsp; &nbsp; La autorizaci&#xF3;n a que se refiere el inciso anterior ser&#xE1; solicitada al Ministerio del Trabajo y Previsi&#xF3;n Social en el caso de las mutualidades regidas por la ley 16.744 o al Ministerio del cual dependan o por medio del cual se relacionen con el Ejecutivo, en el caso de las dem&#xE1;s instituciones.</div><div class=\"p\">&nbsp; &nbsp; Por v&#xED;a reglamentaria se fijar&#xE1;n las condiciones para el otorgamiento de dicha autorizaci&#xF3;n y las modalidades que regular&#xE1;n los alcances de la ampliaci&#xF3;n de la atenci&#xF3;n m&#xE9;dica, as&#xED; como su duraci&#xF3;n, financiamiento y dem&#xE1;s aspectos necesarios para su aplicaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Las mutualidades de Empleadores de la ley N&#xB0; 16.744 y dem&#xE1;s instituciones referidas quedar&#xE1;n facultadas para celebrar los convenios que sean necesarios para la aplicaci&#xF3;n de lo dispuesto en los incisos anteriores. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 29&#xB0;.- Las mutualidades de empleadores a que se refiere la ley 16.744 y las dem&#xE1;s instituciones que mantengan hospitales podr&#xE1;n solicitar autorizaci&#xF3;n para extender la atenci&#xF3;n m&#xE9;dica que presten sus establecimientos cuando est&#xE9;n en condiciones para ello sin desmedro de las funciones y obligaciones que les encomienden o imponen la legislaci&#xF3;n que les es aplicable, sus reglamentos o estatutos.</div><div class=\"p\">&nbsp; &nbsp; La autorizaci&#xF3;n a que se refiere el presente<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1221118&amp;idParte=10582332&amp;idVersion=2026-02-05\">Ley 21806<br>Art. 79 N&#xB0; 1 a)<br>D.O. 05.02.2026</a></span> art&#xED;culo ser&#xE1; solicitada a la Superintendencia de Seguridad Social en el caso de las mutualidades regidas por la ley 16.744 o al Ministerio del cual dependan o por medio del cual se relacionen con el Ejecutivo, en el caso de las dem&#xE1;s instituciones. Trat&#xE1;ndose<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1221118&amp;idParte=10582332&amp;idVersion=2026-02-05\">Ley 21806<br>Art. 79 N&#xB0; 1 b)<br>D.O. 05.02.2026</a></span> de las referidas mutualidades, la Superintendencia de Seguridad Social deber&#xE1; pronunciarse respecto de su solicitud de autorizaci&#xF3;n, de manera fundada, dentro del plazo de sesenta d&#xED;as h&#xE1;biles. Transcurrido dicho plazo sin que la Superintendencia se pronuncie sobre dicha solicitud, se aplicar&#xE1; lo establecido en el art&#xED;culo 64 de la ley N&#xB0; 19.880.</div><div class=\"p\">&nbsp; &nbsp; Por v&#xED;a reglamentaria se fijar&#xE1;n las condiciones para el otorgamiento de la<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1221118&amp;idParte=10582332&amp;idVersion=2026-02-05\">Ley 21806<br>Art. 79 N&#xB0; 2<br>D.O. 05.02.2026</a></span> autorizaci&#xF3;n a que se refiere este art&#xED;culo y las modalidades que regular&#xE1;n los alcances de la ampliaci&#xF3;n de la atenci&#xF3;n m&#xE9;dica, as&#xED; como su duraci&#xF3;n, financiamiento y dem&#xE1;s aspectos necesarios para su aplicaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Las mutualidades de Empleadores de la ley N&#xB0; 16.744 y dem&#xE1;s instituciones referidas quedar&#xE1;n facultadas para celebrar los convenios que sean necesarios para la aplicaci&#xF3;n de lo dispuesto en los incisos anteriores. </div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1221118,
+      "fecha": "2026-02-05"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-10-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-07-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8046162,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;. Todo perro deber&#xE1; permanecer o circular con bozal y correa o cadena que los sujete a un collar que deber&#xE1; llevar obligatoriamente, o s&#xF3;lo con este &#xFA;ltimo, si el animal no es brav&#xED;o.</div><div class=\"p\">&nbsp; &nbsp;  En el collar del perro se deber&#xE1; indicar el n&#xFA;mero que le corresponde en el Libro Registro de Perros - que se crea por esta ordenanza -, que ser&#xE1; responsabilidad del Departamento de Inspecci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Es obligaci&#xF3;n de los amos, o tenedores, y de quienes alimenten o cobijen perros, retirar las deposiciones fecales de los espacios p&#xFA;blicos.</div><div class=\"p\">&nbsp; &nbsp;  Se proh&#xED;be la construcci&#xF3;n y/o instalaci&#xF3;n en las v&#xED;as o espacios p&#xFA;blicos de casetas o refugios para animales dom&#xE9;sticos, aun cuando no alteren el tr&#xE1;nsito vehicular o peatonal.</div><div class=\"p\">&nbsp; &nbsp;  Se proh&#xED;be abandonar animales dom&#xE9;sticos en cualquier lugar de la comuna, prohibici&#xF3;n que se extiende tambi&#xE9;n a los condominios que no est&#xE9;n cercados.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;. Todo perro deber&#xE1; permanecer o<span class=\"n\" id=\"n_0\">DTO 1126,<br>M. DE VILLA ALEMANA<br>N&#xBA; 1<br>D.O. 12.07.2008</span> circular con bozal y correa o cadena que los sujete a un collar que deber&#xE1; llevar obligatoriamente, o s&#xF3;lo con este &#xFA;ltimo, si el animal no es brav&#xED;o.</div><div class=\"p\">&nbsp; &nbsp;  En el collar del perro se deber&#xE1; indicar el n&#xFA;mero que le corresponde en el Libro Registro de Perros, -que se crea por esta ordenanza-, que ser&#xE1; responsabilidad del Departamento de Inspecci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Es obligaci&#xF3;n de los amos, o tenedores y de quienes alimenten o cobijen perros, retirar las deposiciones fecales de los espacios p&#xFA;blicos.</div><div class=\"p\">&nbsp; &nbsp;  Se proh&#xED;be la construcci&#xF3;n y/o instalaci&#xF3;n de casetas o refugios y/o alimentar animales en la v&#xED;a p&#xFA;blica o espacios p&#xFA;blicos, si lo hicieren, ser&#xE1;n considerados sus poseedores para todos los efectos de la presente ordenanza, aun cuando no alteren el tr&#xE1;nsito vehicular o peatonal. En el evento que dicha acci&#xF3;n se realice en el frontis de una vivienda, un edificio o un local comercial, se cursar&#xE1; una multa desde 3 U.T.M. al propietario, administrador o titular de la patente respectiva.</div><div class=\"p\">&nbsp; &nbsp;  Se proh&#xED;be abandonar animales dom&#xE9;sticos en cualquier lugar de la comuna, prohibici&#xF3;n que se extiende tambi&#xE9;n a los condominios que no est&#xE9;n cercados.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

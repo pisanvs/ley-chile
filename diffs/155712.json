@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1986-06-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-11-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6232919,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Proh&#xED;bese la extracci&#xF3;n, tenencia, posesi&#xF3;n, industrializaci&#xF3;n, comercializaci&#xF3;n y transporte del recurso denominado &quot;choro&quot; (Choromytilus chorus), durante el per&#xED;odo comprendido entre el 15 de septiembre y el 31 de diciembre de cada a&#xF1;o, ambas fechas inclusive.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Proh&#xED;bese la extracci&#xF3;n, tenencia, posesi&#xF3;n, industrializaci&#xF3;n, comercializaci&#xF3;n y transporte del recurso denominado &quot;choro&quot; (Choromytilus chorus), durante el per&#xED;odo comprendido entre el 15 de septiembre y el 31 de diciembre de cada a&#xF1;o, ambas fechas inclusive.</div><div class=\"p\">&nbsp; &nbsp; Para <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1151504&amp;idParte=10173913&amp;idVersion=2020-11-11\">Decreto 202000089 EXENTO,<br>ECONOM&#xCD;A<br>D.O. 11.11.2020</a></span>la Regi&#xF3;n de Los R&#xED;os, el per&#xED;odo de veda biol&#xF3;gica ser&#xE1; desde el d&#xED;a 1 de septiembre hasta el d&#xED;a 31 de octubre de cada a&#xF1;o, ambas fechas inclusive.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1151504,
+      "fecha": "2020-11-11"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-05-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-10-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6247013,
+          "old": "<div><div class=\"p\">CONVERSION DE DEUDAS DEL FISCO CON EL BANCO CENTRAL QUE SE SE&#xD1;ALAN</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 239.- Santiago, 21 de Marzo de 1986.- Vistos: El art. 32&#xB0; n&#xFA;mero 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, el DL No. 1.263 de 1975, Ley Org&#xE1;nica de Administraci&#xF3;n Financiera del Estado, el art&#xED;culo 26 del DL No. 3.001 de 13.12.79, los Decretos Supremos de Hacienda No. 357 de 18.05.82, y No. 358 de 18.05.82 y el DL 1.444 de 1976,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">CONVERSION DE DEUDAS DEL FISCO CON EL BANCO CENTRAL QUE SE SE&#xD1;ALAN</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 239.- Santiago, 21 de Marzo de 1986.- Vistos: El art. 32&#xB0; n&#xFA;mero 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, el DL No. 1.263 de 1975, Ley Org&#xE1;nica de Administraci&#xF3;n Financiera del Estado, el art&#xED;culo 26 del DL No. 3.001 de 13.12.79, los Decretos Supremos de Hacienda No. 357 de 18.05.82, y No. 358 de 18.05.82 y el DL 1.444 de 1976,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

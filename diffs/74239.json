@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-07-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-01-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8304579,
+          "old": "<div><div class=\"p\">NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE MERLUZA COMUN DEL ARTICULO 1&#xBA; LETRA E) DEL DECRETO N&#xBA; 354 DE 1993. DEJA SIN EFECTO RESOLUCIONES QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 936.- Valpara&#xED;so, 1 de julio de 1997.- Visto: Lo informado por la Divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a en Memor&#xE1;ndum N&#xBA; 309 de 10 de septiembre de 1996 y Memor&#xE1;ndum N&#xBA; 281 del 18 de junio de 1997; lo dispuesto en el D.F.L. N&#xBA; 5, de 1983; el D.S. N&#xBA; 354 de 1993, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el art&#xED;culo 22 del D.S. N&#xBA; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, que fij&#xF3; el texto refundido coordinado y sistematizado de la Ley 18.892 sobre Pesca y Acuicultura; la Resoluci&#xF3;n N&#xBA; 2197, de 1996, de esta Subsecretar&#xED;a,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE MERLUZA COMUN DEL ARTICULO 1&#xBA; LETRA E) DEL DECRETO N&#xBA; 354 DE 1993. DEJA SIN EFECTO RESOLUCIONES QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 936.- Valpara&#xED;so, 1 de julio de 1997.- Visto: Lo informado por la Divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a en Memor&#xE1;ndum N&#xBA; 309 de 10 de septiembre de 1996 y Memor&#xE1;ndum N&#xBA; 281 del 18 de junio de 1997; lo dispuesto en el D.F.L. N&#xBA; 5, de 1983; el D.S. N&#xBA; 354 de 1993, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el art&#xED;culo 22 del D.S. N&#xBA; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, que fij&#xF3; el texto refundido coordinado y sistematizado de la Ley 18.892 sobre Pesca y Acuicultura; la Resoluci&#xF3;n N&#xBA; 2197, de 1996, de esta Subsecretar&#xED;a,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

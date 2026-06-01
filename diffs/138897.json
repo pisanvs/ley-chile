@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-02-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-12-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8810502,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Los servicios fiscales e instituciones semifiscales podr&#xE1;n proporcionar, adem&#xE1;s, elementos de protecci&#xF3;n para el vestuario, consistente &#xFA;nicamente en guardapolvos u overoles y delantales uniformes, al personal de cualesquiera de sus escalafones, de acuerdo a la naturaleza de las funciones que les est&#xE9;n encomendadas y las necesidades del servicio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Los servicios fiscales e instituciones semifiscales podr&#xE1;n proporcionar, adem&#xE1;s, elementos de protecci&#xF3;n para el vestuario, consistente &#xFA;nicamente en guardapolvos u overoles y delantales uniformes, al personal de cualesquiera de sus escalafones, de acuerdo a la naturaleza de las funciones que les est&#xE9;n encomendadas y las necesidades del servicio, como<span class=\"n\" id=\"n_0\">LEY 19649<br>Art. 34<br>D.O. 02.12.1999</span> asimismo, vestuario uniforme a los funcionarios que cumplan labores administrativas y de secretar&#xED;a administrativa, siempre que las disponibilidades presupuestarias lo permitan.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

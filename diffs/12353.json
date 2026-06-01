@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1964-08-06",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1974-07-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8994207,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Ministerio del Trabajo y Previsi&#xF3;n Social Subsecretar&#xED;a del Trabajo DECRETO N&#xB0; 323, DE 23 DE JUNIO DE 1964 Aprueba el reglamento para la aplicaci&#xF3;n de los T&#xED;tulos I, II, III y VI del Libro III del C&#xF3;digo del Trabajo,</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el &quot;Diario Oficial&quot; N&#xB0; 25.908, de 5 de agosto de 1964)</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 323.- Santiago, 23 de junio de 1964.- Visto: lo informado por la Direcci&#xF3;n del Trabajo en su oficio 2.688, de 15 de mayo del a&#xF1;o en curso, y lo dispuesto en el art&#xED;culo 72&#xB0;, N&#xB0; 2, de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><div class=\"p\">&nbsp; &nbsp; DECRETO:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento para la aplicaci&#xF3;n de los T&#xED;tulos I, II, III y VI del Libro III del C&#xF3;digo del Trabajo:</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

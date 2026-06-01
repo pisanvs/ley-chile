@@ -1,0 +1,109 @@
+[
+  {
+    "fecha": "2002-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-09-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8648675,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las combinaciones de d&#xED;gitos destinadas a indicativos de portador (YZ) son las siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 81, 88.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las combinaciones de d&#xED;gitos destinadas a indicativos de portador (YZ) son las siguientes: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22,</div><div class=\"p\">23, 24, 25, 26, 27, 29, 50, 51, 52, 53, 54, 55, 56, 57,</div><div class=\"p\">58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,<span class=\"n\" id=\"n_0\">RES 1144 EXENTA,<br>TRANSPORTES<br>D.O. 09.09.2004</span></div><div class=\"p\">72, 73, 74, 75, 76, 77, 78, 79, 81, 88, 90, 91, 92, 93,</div><div class=\"p\">94, 99.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2006-06-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8648675,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las combinaciones de d&#xED;gitos destinadas a indicativos de portador (YZ) son las siguientes: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22,</div><div class=\"p\">23, 24, 25, 26, 27, 29, 50, 51, 52, 53, 54, 55, 56, 57,</div><div class=\"p\">58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,<span class=\"n\" id=\"n_0\">RES 1144 EXENTA,<br>TRANSPORTES<br>D.O. 09.09.2004</span></div><div class=\"p\">72, 73, 74, 75, 76, 77, 78, 79, 81, 88, 90, 91, 92, 93,</div><div class=\"p\">94, 99.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las combinaciones de d&#xED;gitos destinadas a indicativos de portador (YZ) son las siguientes: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22,</div><div class=\"p\">23, 24, 25, 26, 27, 29, 50, 51, 52, 53, 54, 55, 56, 57,</div><div class=\"p\">58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,</div><div class=\"p\">72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 84, 86 88,<span class=\"n\" id=\"n_0\">RES 686 EXENTA,<br>TRANSPORTES<br>D.O. 30.06.3006</span></div><div class=\"p\">90, 91, 92, 93, 94, 99.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2008-06-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8648675,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las combinaciones de d&#xED;gitos destinadas a indicativos de portador (YZ) son las siguientes: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22,</div><div class=\"p\">23, 24, 25, 26, 27, 29, 50, 51, 52, 53, 54, 55, 56, 57,</div><div class=\"p\">58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,</div><div class=\"p\">72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 84, 86 88,<span class=\"n\" id=\"n_0\">RES 686 EXENTA,<br>TRANSPORTES<br>D.O. 30.06.3006</span></div><div class=\"p\">90, 91, 92, 93, 94, 99.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las combinaciones de d&#xED;gitos destinadas a indicativos de portador (YZ) son las siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,<span class=\"n\" id=\"n_0\">RES 568 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 19.06.2008</span> 86, 87, 88, 89, 90, 91, 92, 93, 94, 99.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-05-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8648675,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las combinaciones de d&#xED;gitos destinadas a indicativos de portador (YZ) son las siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,<span class=\"n\" id=\"n_0\">RES 568 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 19.06.2008</span> 86, 87, 88, 89, 90, 91, 92, 93, 94, 99.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las combinaciones de d&#xED;gitos destinadas a indicativos de portador (YZ) son las siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 50, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1131714&amp;idParte=10024365&amp;idVersion=2019-05-20\">Resoluci&#xF3;n 976 EXENTA, <br>TRANSPORTES<br>Art. &#xDA;NICO<br>D.O. 20.05.2019</a></span>52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,<span class=\"n\" id=\"n_1\">RES 568 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 19.06.2008</span> 86, 87, 88, 89, 90, 91, 92, 93, 94, 99.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1131714,
+      "fecha": "2019-05-20"
+    }
+  },
+  {
+    "fecha": "2023-02-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8648675,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las combinaciones de d&#xED;gitos destinadas a indicativos de portador (YZ) son las siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 50, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1131714&amp;idParte=10024365&amp;idVersion=2019-05-20\">Resoluci&#xF3;n 976 EXENTA, <br>TRANSPORTES<br>Art. &#xDA;NICO<br>D.O. 20.05.2019</a></span>52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,<span class=\"n\" id=\"n_1\">RES 568 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 19.06.2008</span> 86, 87, 88, 89, 90, 91, 92, 93, 94, 99.</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las combinaciones de d&#xED;gitos destinadas a indicativos de portador (YZ) son las siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 50, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1131714&amp;idParte=10024365&amp;idVersion=2019-05-20\">Resoluci&#xF3;n 976 EXENTA, <br>TRANSPORTES<br>Art. &#xDA;NICO<br>D.O. 20.05.2019</a></span><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1189338&amp;idParte=10408486&amp;idVersion=2023-02-17\">Resoluci&#xF3;n 282 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 17.02.2023</a></span>53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 99.</div><br><div class=\"p\"><span class=\"n\" id=\"n_2\">RES 568 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 19.06.2008</span></div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1189338,
+      "fecha": "2023-02-17"
+    }
+  },
+  {
+    "fecha": "2025-03-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8648675,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las combinaciones de d&#xED;gitos destinadas a indicativos de portador (YZ) son las siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 50, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1131714&amp;idParte=10024365&amp;idVersion=2019-05-20\">Resoluci&#xF3;n 976 EXENTA, <br>TRANSPORTES<br>Art. &#xDA;NICO<br>D.O. 20.05.2019</a></span><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1189338&amp;idParte=10408486&amp;idVersion=2023-02-17\">Resoluci&#xF3;n 282 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 17.02.2023</a></span>53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 99.</div><br><div class=\"p\"><span class=\"n\" id=\"n_2\">RES 568 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 19.06.2008</span></div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las combinaciones de d&#xED;gitos destinadas a indicativos de portador (YZ) son las siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1211557&amp;idParte=10539390&amp;idVersion=2025-03-05\">Resoluci&#xF3;n 379 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 05.03.2025</a></span>23, 24, 25, 26, 27, 29, 50, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1131714&amp;idParte=10024365&amp;idVersion=2019-05-20\">Resoluci&#xF3;n 976 EXENTA, <br>TRANSPORTES<br>Art. &#xDA;NICO<br>D.O. 20.05.2019</a></span><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1189338&amp;idParte=10408486&amp;idVersion=2023-02-17\">Resoluci&#xF3;n 282 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 17.02.2023</a></span>53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, <span class=\"n\" id=\"n_2\">RES 568 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 19.06.2008</span>94, 99.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1211557,
+      "fecha": "2025-03-05"
+    }
+  }
+]

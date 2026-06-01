@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-08-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-02-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7259910,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA DEL NORTE S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA DEL NORTE S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

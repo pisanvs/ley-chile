@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-06-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8324939,
+          "old": "<div><br><div class=\"p\">AUTORIZA A DON FERNANDO VIAL CLARO PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON FERNANDO VIAL CLARO PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

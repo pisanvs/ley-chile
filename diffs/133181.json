@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-04-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8342097,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA GUIMAR SOCIEDAD ANONIMA PARA AMPLIAR ACTIVIDADES PESQUERAS. MODIFICA RESOLUCION QUE INDICA </div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA GUIMAR SOCIEDAD ANONIMA PARA AMPLIAR ACTIVIDADES PESQUERAS. MODIFICA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

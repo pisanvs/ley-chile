@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-07-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-04-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9623525,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base la n&#xF3;mina de damnificados seleccionados para la asignaci&#xF3;n del subsidio habitacional en la modalidad de adquisici&#xF3;n de viviendas correspondiente al mes de junio de 2015, para el llamado especial dispuesto por el resuelvo 1&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 3.593, de este Ministerio, de 2015, n&#xF3;mina que se entender&#xE1; forma parte integrante de esta resoluci&#xF3;n; y f&#xED;jase el n&#xFA;mero de subsidios asignados por Regi&#xF3;n conforme se se&#xF1;ala en la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/50876.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;- F&#xED;jase el monto de unidades de fomento comprometidas para el financiamiento del subsidio directo para la atenci&#xF3;n de los damnificados asignados con subsidio habitacional a que se refiere el n&#xFA;mero anterior, por Regi&#xF3;n seg&#xFA;n se se&#xF1;ala en la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/50877.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base la n&#xF3;mina de damnificados seleccionados para la asignaci&#xF3;n del subsidio habitacional en la modalidad de adquisici&#xF3;n de viviendas correspondiente al mes de junio de 2015, para el llamado especial dispuesto por el resuelvo 1&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 3.593, de este Ministerio, de 2015, n&#xF3;mina que se entender&#xE1; forma parte integrante de esta resoluci&#xF3;n; y f&#xED;jase el n&#xFA;mero de subsidios asignados por Regi&#xF3;n conforme se se&#xF1;ala en la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1089597&amp;idParte=9697699&amp;idVersion=2016-04-20\">Resoluci&#xF3;n 2275 EXENTA,<br>VIVIENDA<br>N&#xB0; 3<br>D.O. 20.04.2016</a></span></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/50876.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;- F&#xED;jase el monto de unidades de fomento comprometidas para el financiamiento del subsidio directo para la atenci&#xF3;n de los damnificados asignados con subsidio habitacional a que se refiere el n&#xFA;mero anterior, por Regi&#xF3;n seg&#xFA;n se se&#xF1;ala en la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57293.jpg\">.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1089597,
+      "fecha": "2016-04-20"
+    }
+  }
+]

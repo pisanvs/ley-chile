@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-05-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9442065,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Incorp&#xF3;rese al modelo obligatorio de &quot;LIBRETA DE REGISTRO DIARIO DE ASISTENCIA CONDUCTORES DE VEH&#xCD;CULOS DE CARGA INTERURBANOS&quot;, que se acompa&#xF1;a en <a href=\"https://www.leychile.cl/Navegar?idNorma=1007210&amp;idParte=8790254&amp;idVersion=\">anexo</a> a la <a href=\"https://www.leychile.cl/Navegar?idNorma=1007210&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 1.213, de 16-10-2009</a>, y que forma parte de la misma para todos los efectos legales, lo siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  - Una cuarta fila, que permita ingresar los tiempos que el trabajador dedique a las Tareas Auxiliares, seg&#xFA;n el formato que se presenta a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/39723.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Incorp&#xF3;rese al modelo obligatorio de &quot;LIBRETA DE REGISTRO DIARIO DE ASISTENCIA CONDUCTORES DE VEH&#xCD;CULOS DE CARGA INTERURBANOS&quot;, que se acompa&#xF1;a en anexo a la resoluci&#xF3;n exenta N&#xBA; 1.213, de 16-10-2009, y que forma parte de la misma para todos los efectos legales, lo siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  - Una cuarta <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> fila, que permita ingresar los tiempos que el trabajador dedique a las Tareas Auxiliares, seg&#xFA;n el formato que se presenta a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/39723.jpg\">.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; de la Resoluci&#xF3;n 953 Exenta, Direcci&#xF3;n del Trabajo, publicada el 02.07.2014, modifica la presente norma en el sentido de indicar que el 01.10.2014, es el plazo de ajuste, para hacer exigible la adecuaci&#xF3;n de los formatos de las libretas, incorpor&#xE1;ndoles una cuarta fila que permita ingresar los tiempos que el trabajador dedique a las tareas auxiliares.</div></div>"
+        }
+      ]
+    }
+  }
+]

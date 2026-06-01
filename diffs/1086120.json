@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-01-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-09-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9663735,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Monumento Hist&#xF3;rico a la &quot;Primera Comisar&#xED;a de Ancud&quot;, ubicada en la Plaza Centenario, de la comuna de Ancud, provincia de Chilo&#xE9;, Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida de la comisar&#xED;a tiene una superficie aproximada de 4.565,62 mts.2, como se grafica en el pol&#xED;gono con las letras A-B-C-D-A, del plano adjunto, que forma parte del presente decreto y cuyos l&#xED;mites son los siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54538.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Monumento Hist&#xF3;rico a la &quot;<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Primera Comisar&#xED;a de Ancud&quot;, ubicada en la Plaza Centenario, de la comuna de Ancud, provincia de Chilo&#xE9;, Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida de la comisar&#xED;a tiene una superficie aproximada de 4.565,62 mts.2, como se grafica en el pol&#xED;gono con las letras A-B-C-D-A, del plano adjunto, que forma parte del presente decreto y cuyos l&#xED;mites son los siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/54538.jpg\">.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto 36, Culturas, publicado el 13.09.2023, modifica la presente norma en el sentido de cambiar su denominaci&#xF3;n por el de Sitio de Memoria Primera Comisar&#xED;a de Ancud, comuna de Ancud, Regi&#xF3;n de Los Lagos e incorporar valores y atributos que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

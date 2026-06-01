@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-05-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8354111,
+          "old": "<div><br><div class=\"p\">AUTORIZA A DON VICTOR HUGO MUNZENMAYER CHAVEZ PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON VICTOR HUGO MUNZENMAYER CHAVEZ PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

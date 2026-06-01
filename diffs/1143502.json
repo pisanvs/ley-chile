@@ -1,0 +1,50 @@
+[
+  {
+    "fecha": "2020-03-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-05-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10118643,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0; bis. Regla para la remisi&#xF3;n del archivo, en<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1144965&amp;idParte=10118615&amp;idVersion=2020-05-07\">Resoluci&#xF3;n 1826 EXENTA,<br>CONTRALOR&#xCD;A GRAL<br>D.O. 07.05.2020</a></span> el caso de que su contenido sea reservado o secreto. Si el contenido del archivo digitalizado en formato .pdf a que se refiere el art&#xED;culo 1&#xB0; es reservado o secreto, deber&#xE1; ser remitido desde una casilla institucional a la direcci&#xF3;n documentosreservados@contraloria.cl.</div><div class=\"p\">&nbsp; &nbsp;  Si la solicitud de pronunciamiento jur&#xED;dico o el oficio que atiende un requerimiento de informe contiene informaci&#xF3;n reservada o secreta y, por razones fundadas, no puede ser remitida a la direcci&#xF3;n electr&#xF3;nica del inciso precedente, se podr&#xE1; entregar de manera excepcional a la Oficina de Partes de esta Contralor&#xED;a General, a trav&#xE9;s del ingreso ubicado en calle Amanda Labarca N&#xBA; 59, previa coordinaci&#xF3;n al correo dandreuc@contraloria.cl</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1144965,
+      "fecha": "2020-05-07"
+    }
+  },
+  {
+    "fecha": "2021-10-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10108871,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;. Medida especial para los actos administrativos exentos sujetos a registro. Los actos administrativos que, de conformidad con la resoluci&#xF3;n N&#xBA; 6, de 2019, de este origen, deben cumplir con el tr&#xE1;mite de registro en esta Contralor&#xED;a General, deber&#xE1;n ser custodiados por el ministro de fe del servicio respectivo hasta que estas medidas excepcionales sean dejadas sin efecto. Una vez ocurrido este &#xFA;ltimo, empezar&#xE1; a correr el plazo de 15 d&#xED;as h&#xE1;biles a que se refieren los art&#xED;culos 12, 13 y 14 de dicha resoluci&#xF3;n N&#xBA; 6.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;. Medida <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>especial para los actos administrativos exentos sujetos a registro. Los actos administrativos que, de conformidad con la resoluci&#xF3;n N&#xBA; 6, de 2019, de este origen, deben cumplir con el tr&#xE1;mite de registro en esta Contralor&#xED;a General, deber&#xE1;n ser custodiados por el ministro de fe del servicio respectivo hasta que estas medidas excepcionales sean dejadas sin efecto. Una vez ocurrido este &#xFA;ltimo, empezar&#xE1; a correr el plazo de 15 d&#xED;as h&#xE1;biles a que se refieren los art&#xED;culos 12, 13 y 14 de dicha resoluci&#xF3;n N&#xBA; 6.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; de la Resoluci&#xF3;n 3288 Exenta, Contraloria General, publicada el 25.10.2021, deja sin efecto las medidas dispuestas en la presente norma, asimismo la citada norma establece reglas para la remisi&#xF3;n de los actos administrativos exentos a que alude la presente norma.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-08-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

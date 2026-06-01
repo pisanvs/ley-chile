@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-07-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6342114,
+          "old": "<div><div class=\"p\">RECTIFICA DECRETO N&#xBA; 728, DE 2000, QUE APRUEBA LAS FORMULAS TARIFARIAS PARA LA EMPRESA DE SERVICIOS SANITARIOS DE LA ARAUCANIA S.A. (ESSAR S.A.)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 237.- Santiago, 15 de mayo de 2001.- Visto: Lo dispuesto en el decreto con fuerza de ley N&#xBA; 70 de 1988 del Ministerio de Obras P&#xFA;blicas y sus modificaciones contenidas en la ley N&#xBA; 19.549; el decreto supremo Minecon N&#xBA; 453 del 12 de diciembre de 1989, modificado por decreto N&#xBA; 109 del 10 de marzo de 1998, y el decreto supremo N&#xBA; 182 del 31 de marzo de 1995, todos ellos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, el art&#xED;culo 10&#xBA; de la ley N&#xBA; 10.366; la ley N&#xBA; 18.902, el estudio tarifario realizado por la Superintendencia de Servicios Sanitarios y el decreto supremo Minecon N&#xBA; 728/2000.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, en el D.S. Minecon N&#xBA; 728 del 14 de diciembre de 2000 que aprob&#xF3; las f&#xF3;rmulas tarifarias de la Empresa de Servicios Sanitarios de la Araucan&#xED;a S.A., se incurri&#xF3; en errores de hecho respecto de los valores por metro c&#xFA;bico de los aportes de financiamiento reembolsables por capacidad del sistema de producci&#xF3;n de agua potable sin fluoruraci&#xF3;n, y en el costo de la fluoruraci&#xF3;n en los distintos grupos de la empresa. Asimismo, deber&#xE1; corregirse el valor indicado para el costo de capacidad del sistema de disposici&#xF3;n de aguas servidas sin tratamiento as&#xED; como el monto se&#xF1;alado para el tratamiento de aguas servidas, correspondiente al grupo 1.</div><div class=\"p\">&nbsp; &nbsp;  Que, en estas circunstancias, se hace necesario rectificar en el decreto los referidos valores.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">RECTIFICA DECRETO N&#xBA; 728, DE 2000, QUE APRUEBA LAS FORMULAS TARIFARIAS PARA LA EMPRESA DE SERVICIOS SANITARIOS DE LA ARAUCANIA S.A. (ESSAR S.A.)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 237.- Santiago, 15 de mayo de 2001.- Visto: Lo dispuesto en el decreto con fuerza de ley N&#xBA; 70 de 1988 del Ministerio de Obras P&#xFA;blicas y sus modificaciones contenidas en la ley N&#xBA; 19.549; el decreto supremo Minecon N&#xBA; 453 del 12 de diciembre de 1989, modificado por decreto N&#xBA; 109 del 10 de marzo de 1998, y el decreto supremo N&#xBA; 182 del 31 de marzo de 1995, todos ellos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, el art&#xED;culo 10&#xBA; de la ley N&#xBA; 10.366; la ley N&#xBA; 18.902, el estudio tarifario realizado por la Superintendencia de Servicios Sanitarios y el decreto supremo Minecon N&#xBA; 728/2000.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, en el D.S. Minecon N&#xBA; 728 del 14 de diciembre de 2000 que aprob&#xF3; las f&#xF3;rmulas tarifarias de la Empresa de Servicios Sanitarios de la Araucan&#xED;a S.A., se incurri&#xF3; en errores de hecho respecto de los valores por metro c&#xFA;bico de los aportes de financiamiento reembolsables por capacidad del sistema de producci&#xF3;n de agua potable sin fluoruraci&#xF3;n, y en el costo de la fluoruraci&#xF3;n en los distintos grupos de la empresa. Asimismo, deber&#xE1; corregirse el valor indicado para el costo de capacidad del sistema de disposici&#xF3;n de aguas servidas sin tratamiento as&#xED; como el monto se&#xF1;alado para el tratamiento de aguas servidas, correspondiente al grupo 1.</div><div class=\"p\">&nbsp; &nbsp;  Que, en estas circunstancias, se hace necesario rectificar en el decreto los referidos valores.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

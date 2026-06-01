@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1999-11-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-01-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8352800,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Conc&#xE9;dese, por gracia, a cada una de las siguientes personas: Jorge Andr&#xE9;s Aguilera Barrientos, RUT 16.381.745-4; Lissette Valeska Aguilera Barrientos, RUT 18.046.227-9; Ren&#xE9; Torcuato Castillo Gallardo, RUT 1.745.615-6; Mar&#xED;a Elsa Lavoz M&#xE1;rquez, RUT 3.727.871-8; Manuel Antonio Donaire Santander, RUT 6.221.923-8; Lila Berta Gonz&#xE1;lez Salinas, RUT 14.430.999-5; Eugenia Elisa Mu&#xF1;oz Echeverr&#xED;a, RUT 4.093.326-3; Delia Abiud Reyes Salinas, RUT 9.392.813-K; Jaime Luis Silva Cepeda, RUT 9.907.186-8; una pensi&#xF3;n equivalente al 50% de un ingreso m&#xED;nimo mensual. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Conc&#xE9;dese, por gracia, a cada una de las siguientes personas: Jorge Andr&#xE9;s Aguilera Barrientos, RUT 16.381.745-4; Lissette Valeska Aguilera Barrientos, RUT 18.046.227-9; Ren&#xE9; Torcuato Castillo Gallardo, RUT 1.745.615-6; Mar&#xED;a Elsa Lavoz M&#xE1;rquez, RUT 3.727.871-8; Manuel Antonio Donaire Santander, RUT 6.221.923-8; Lila Berta Gonz&#xE1;lez Salinas, RUT 14.430.999-5; Eugenia Elisa Mu&#xF1;oz Echeverr&#xED;a, RUT 4.093.326-3; Delia Abiud Reyes Salinas, RUT 9.392.813-K; Jaime Luis Silva Cepeda, RUT 4.907.186-8; una pensi&#xF3;n<span class=\"n\" id=\"n_0\">DTO 7850, INTERIOR<br>D.O. 06.01.2000</span> equivalente al 50% de un ingreso m&#xED;nimo mensual. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-04-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8352802,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: Fac&#xFA;ltase, en el caso de los menores Jorge Andr&#xE9;s y Lissette Valeska Aguilera Barrientos, a do&#xF1;a Eudalia del Carmen Barrientos Manosalva, RUT 8.342.964-K, madre de los beneficiarios; en el caso del menor Mat&#xED;as Fabi&#xE1;n Baldevenito Lagos, a do&#xF1;a Lilian Haydee Lagos Vel&#xE1;squez, RUT 11.104.594-1, madre del beneficiario; en el caso de Manuel Antonio Donaire Santander, a do&#xF1;a Prosperina Ang&#xE9;lica Donaire Santander, RUT 5.270.434-0, hermana del beneficiario; en el caso de la menor Francisca Catalina Espinoza Basualto, a do&#xF1;a Mar&#xED;a Isabel Basualto Santa Cruz, RUT 7.571.583-8, madre de la beneficiaria; en el caso del menor Oscar Iv&#xE1;n Inostroza Cabrera, a do&#xF1;a Mar&#xED;a Mercedes Cabrera S&#xE1;nchez, RUT 11.279.658-4, madre del beneficiario, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: Fac&#xFA;ltase, en el caso de los<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> menores Jorge Andr&#xE9;s y Lissette Valeska Aguilera Barrientos, a do&#xF1;a Eudalia del Carmen Barrientos Manosalva, RUT 8.342.964-K, madre de los beneficiarios; en el caso del menor Mat&#xED;as Fabi&#xE1;n Baldevenito Lagos, a do&#xF1;a Lilian Haydee Lagos Vel&#xE1;squez, RUT 11.104.594-1, madre del beneficiario; en el caso de Manuel Antonio Donaire Santander, a do&#xF1;a Prosperina Ang&#xE9;lica Donaire Santander, RUT 5.270.434-0, hermana del beneficiario; en el caso de la menor Francisca Catalina Espinoza Basualto, a do&#xF1;a Mar&#xED;a Isabel Basualto Santa Cruz, RUT 7.571.583-8, madre de la beneficiaria; en el caso del menor Oscar Iv&#xE1;n Inostroza Cabrera, a do&#xF1;a Mar&#xED;a Mercedes Cabrera S&#xE1;nchez, RUT 11.279.658-4, madre del beneficiario, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 299, Interior, publicado el 24.04.2003, dej&#xF3; sin efecto la facultad concedida por este art&#xED;culo a do&#xF1;a Eudalia del Carmen Barrientos Manosalva y faculta a do&#xF1;a Ver&#xF3;nica Tatiana Aguilera Pe&#xF1;a, RUT 7.367.606-1, t&#xED;a del beneficiario, para cobrar la Pensi&#xF3;n de Gracia del menor Jorge Andr&#xE9;s Aguilera Barrientos, RUT 16.381.745-4.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-10-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8954184,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 8.- Las empresas de buses deber&#xE1;n efectuar la venta de pasajes en el Terminal.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 8.- Las empresas de buses podr&#xE1;n efectuar la<span class=\"n\" id=\"n_0\">DTO 85 EXENTO<br>M. de PICHILEMU<br>Art. &#xFA;nico 1)<br>D.O. 03.02.1999</span></div><div class=\"p\">venta de pasajes en el Terminal.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

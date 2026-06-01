@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-01-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325597,
+          "old": "<div><div class=\"p\">AUTORIZA A DON AUGUSTO ISAIS TRIVI&#xD1;O VERA PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON AUGUSTO ISAIS TRIVI&#xD1;O VERA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

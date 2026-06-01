@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-09-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-07-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313548,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA PRORROGA AUTORIZACION QUE SE&#xD1;ALA DENIEGA AUTORIZACION QUE MENCIONA </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION QUE INDICA PRORROGA AUTORIZACION QUE SE&#xD1;ALA DENIEGA AUTORIZACION QUE MENCIONA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

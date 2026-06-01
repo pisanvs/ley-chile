@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-01-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7262271,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD COMERCIAL MIRNA LY Y CIA. LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE SE&#xD1;ALA</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD COMERCIAL MIRNA LY Y CIA. LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE SE&#xD1;ALA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

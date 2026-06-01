@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2012-10-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-12-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9304615,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Se incorporar&#xE1;n en el Registro Artesanal los recursos Anchoveta y Sardina Com&#xFA;n a los armadores artesanales y sus embarcaciones, que tengan como caleta base la Isla Santa Mar&#xED;a, en la VIII Regi&#xF3;n del Biob&#xED;o, que hayan informado capturas de conformidad con el art&#xED;culo 63 de la Ley General de Pesca y Acuicultura al Servicio Nacional de Pesca durante el a&#xF1;o 2011, en el marco de Pesca de Investigaci&#xF3;n autorizadas por la Subsecretar&#xED;a de Pesca.</div><div class=\"p\">&nbsp; &nbsp;  Las inscripciones a que se refiere el inciso anterior se deber&#xE1;n realizar de oficio por el Servicio Nacional de Pesca dentro del plazo de un mes contado desde la fecha de publicaci&#xF3;n de la presente ley en el Diario Oficial.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Se incorporar&#xE1;n en el Registro Artesanal los recursos<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> Anchoveta y Sardina Com&#xFA;n a los armadores artesanales y sus embarcaciones, que tengan como caleta base la Isla Santa Mar&#xED;a, en la VIII Regi&#xF3;n del Biob&#xED;o, que hayan informado capturas de conformidad con el art&#xED;culo 63 de la Ley General de Pesca y Acuicultura al Servicio Nacional de Pesca durante el a&#xF1;o 2011, en el marco de Pesca de Investigaci&#xF3;n autorizadas por la Subsecretar&#xED;a de Pesca.</div><div class=\"p\">&nbsp; &nbsp;  Las inscripciones a que se refiere el inciso anterior se deber&#xE1;n realizar de oficio por el Servicio Nacional de Pesca dentro del plazo de un mes contado desde la fecha de publicaci&#xF3;n de la presente ley en el Diario Oficial.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 2586 Exenta, Econom&#xED;a, publicada el 11.12.2012, declara la inaplicabilidad del presente art&#xED;culo, por no cumplirse en la especie los requisitos exigidos por este precepto legal, siendo por tanto improcedente la incorporaci&#xF3;n de los citados recursos.</div></div>"
+        }
+      ]
+    }
+  }
+]

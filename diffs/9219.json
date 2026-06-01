@@ -1,0 +1,56 @@
+[
+  {
+    "fecha": "1993-03-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-12-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9020064,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- El Consejo de Investigaci&#xF3;n Pesquera, junto con establecer el Programa Anual de Investigaci&#xF3;n Pesquera y de Acuicultura, fijar&#xE1; las prioridades anuales de investigaci&#xF3;n, y el calendario de concursos p&#xFA;blicos a que se convocar&#xE1; para la materializaci&#xF3;n de los proyectos de investigaci&#xF3;n identificados para ejecuci&#xF3;n en el per&#xED;odo correspondiente.</div><div class=\"p\">&nbsp; &nbsp; Para este efecto, cada proyecto deber&#xE1; estar identificado t&#xE9;cnicamente, con sus correspondientes objetivos, t&#xE9;rminos b&#xE1;sicos de referencia, y la asignaci&#xF3;n de un presupuesto indicativo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- El Consejo de Investigaci&#xF3;n Pesquera, junto con establecer el Programa Anual de Investigaci&#xF3;n Pesquera y de Acuicultura, fijar&#xE1; las prioridades anuales de investigaci&#xF3;n, y el calendario de concursos p&#xFA;blicos a que se convocar&#xE1; para la materializaci&#xF3;n de los proyectos de investigaci&#xF3;n identificados para ejecuci&#xF3;n en el per&#xED;odo correspondiente.</div><div class=\"p\">&nbsp; &nbsp; Para este efecto, cada proyecto deber&#xE1; estar<span class=\"n\" id=\"n_0\">DTO 177, ECONOMIA<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 03.12.2003</span> identificado t&#xE9;cnicamente, con sus correspondientes objetivos, t&#xE9;rminos b&#xE1;sicos de referencia y dem&#xE1;s requisitos exigidos en las Bases Administrativas de los Concursos P&#xFA;blicos de Proyectos financiados por el Fondo de Investigaci&#xF3;n Pesquera.</div><br></div>"
+        },
+        {
+          "part_id": 9020065,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- La asignaci&#xF3;n de dichos proyectos deber&#xE1; ser objeto de concurso p&#xFA;blico, mediante la convocatoria a trav&#xE9;s de la publicaci&#xF3;n de un aviso por lo menos una vez en el Diario Oficial y dos veces en un peri&#xF3;dico de circulaci&#xF3;n nacional, separados estos &#xFA;ltimos por al menos 7 d&#xED;as uno de otro, en que solicite ofertas para su materializaci&#xF3;n, debiendo en el aviso indicarse el presupuesto indicativo asignado al proyecto y la fecha de cierre del concurso.</div><div class=\"p\">&nbsp; &nbsp; Las ofertas deber&#xE1;n presentarse separadamente distinguiendo la oferta t&#xE9;cnica de la oferta econ&#xF3;mica, las que deber&#xE1;n presentarse en sobres cerrados, dirigidos al se&#xF1;or Presidente del Consejo de Investigaci&#xF3;n Pesquera, en la fecha y lugar que se indique en la convocatoria.</div><div class=\"p\">&nbsp; &nbsp; El Consejo deber&#xE1; fijar por acuerdo del mismo un texto de Bases Administrativas de concurso que establezca las condiciones generales de participaci&#xF3;n en los mismos, sin perjuicio que respecto de uno o m&#xE1;s proyectos de investigaci&#xF3;n espec&#xED;ficos se fijen adem&#xE1;s Bases Especiales.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- La asignaci&#xF3;n de dichos proyectos<span class=\"n\" id=\"n_1\">DTO 177, ECONOMIA<br>Art. &#xFA;nico N&#xBA; 2<br>D.O. 03.12.2003</span> deber&#xE1; ser objeto de concurso p&#xFA;blico, mediante la convocatoria a trav&#xE9;s de una &#xFA;nica publicaci&#xF3;n de un aviso en un peri&#xF3;dico de circulaci&#xF3;n nacional, el cual deber&#xE1; contener las indicaciones se&#xF1;aladas en el numeral 3.2 de las Bases Administrativas de los Concursos P&#xFA;blicos de Proyectos financiados por el Fondo de Investigaci&#xF3;n Pesquera.</div><div class=\"p\">&nbsp; &nbsp; Las ofertas deber&#xE1;n presentarse separadamente distinguiendo la oferta t&#xE9;cnica de la oferta econ&#xF3;mica, las que deber&#xE1;n presentarse en sobres cerrados, dirigidos al se&#xF1;or Presidente del Consejo de Investigaci&#xF3;n Pesquera, en la fecha y lugar que se indique en la convocatoria.</div><div class=\"p\">&nbsp; &nbsp; El Consejo deber&#xE1; fijar por acuerdo del mismo un texto de Bases Administrativas de concurso que establezca las condiciones generales de participaci&#xF3;n en los mismos, sin perjuicio que respecto de uno o m&#xE1;s proyectos de investigaci&#xF3;n espec&#xED;ficos se fijen adem&#xE1;s Bases Especiales.</div><br></div>"
+        },
+        {
+          "part_id": 9020066,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- La evaluaci&#xF3;n t&#xE9;cnica y econ&#xF3;mica de las propuestas ser&#xE1; efectuada por el Consejo de Investigaci&#xF3;n Pesquera, siguiendo el procedimiento general que se indica:</div><div class=\"p\">&nbsp; &nbsp; 1. En primer lugar, se proceder&#xE1; a la evaluaci&#xF3;n de la oferta t&#xE9;cnica, en forma independiente de la oferta econ&#xF3;mica, para cuyo efecto el Consejo podr&#xE1; hacerse asesorar por evaluadores externos.</div><div class=\"p\">&nbsp; &nbsp; La evaluaci&#xF3;n t&#xE9;cnica de cada propuesta ser&#xE1; calificada de acuerdo a una escala de 0 a 100 puntos.</div><div class=\"p\">&nbsp; &nbsp; 2. Completada la evaluaci&#xF3;n t&#xE9;cnica, s&#xF3;lo seguir&#xE1;n en concurso las ofertas que tengan una puntuaci&#xF3;n igual o superior a 70 puntos.</div><div class=\"p\">&nbsp; &nbsp; 3. En segundo lugar, se proceder&#xE1; a evaluar la oferta econ&#xF3;mica, la que ser&#xE1; calificada de acuerdo al siguiente procedimiento:</div><div class=\"p\">&nbsp; &nbsp; a) Si la oferta econ&#xF3;mica es menor al presupuesto indicativo, se deber&#xE1; calcular la diferencia porcentual entre el valor de la oferta y el de dicho presupuesto.</div><div class=\"p\">&nbsp; &nbsp; A esta diferencia se le asignar&#xE1; una puntuaci&#xF3;n equivalente a ese porcentaje, la que no podr&#xE1; exceder a 30 puntos positivos correspondientes a una desviaci&#xF3;n del 30%.</div><div class=\"p\">&nbsp; &nbsp; b) Si la oferta econ&#xF3;mica es mayor al presupuesto indicativo, se deber&#xE1; calcular la diferencia procentual entre el valor de la oferta y el de dicho presupuesto.</div><div class=\"p\">&nbsp; &nbsp; A esta diferencia se le asignar&#xE1; una puntuaci&#xF3;n equivalente a ese porcentaje, la que no podr&#xE1; exceder a 30 puntos negativos correspondientes a una desviaci&#xF3;n del 30%.</div><div class=\"p\">&nbsp; &nbsp; 4. En tercer lugar, se deber&#xE1; calcular el puntaje final de cada proyecto, sumando el puntaje de la oferta t&#xE9;cnica y el de la econ&#xF3;mica.</div><div class=\"p\">&nbsp; &nbsp; 5. Una vez evaluadas todas las propuestas en igualdad de condiciones, aquellas provenientes de Instituciones que acrediten domicilio y el desarrollo de actividades en la regi&#xF3;n, y que participen en los concursos de investigaciones que se realicen en su zona, recibir&#xE1;n una ponderaci&#xF3;n adicional del 10% del puntaje total obtenido por el proyecto.</div><div class=\"p\">&nbsp; &nbsp; 6. El Consejo de Investigaci&#xF3;n, adjudicar&#xE1; el proyecto de entre las tres propuestas con mayor puntaje, para lo cual, previamente podr&#xE1; llamar a una entrevista a los oferentes en estricto orden de prelaci&#xF3;n, con el prop&#xF3;sito de solicitar las aclaraciones t&#xE9;cnicas y econ&#xF3;micas que correspondan.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- La evaluaci&#xF3;n t&#xE9;cnica y econ&#xF3;mica<span class=\"n\" id=\"n_2\">DTO 177, ECONOMIA<br>Art. &#xFA;nico N&#xBA; 3<br>D.O. 03.12.2003</span> de las propuestas ser&#xE1; efectuada por el Consejo de Investigaci&#xF3;n Pesquera, siguiendo el procedimiento general establecido en las Bases Administrativas de los Concursos P&#xFA;blicos de Proyectos financiados por el Fondo de Investigaci&#xF3;n Pesquera.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2006-11-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9020065,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- La asignaci&#xF3;n de dichos proyectos<span class=\"n\" id=\"n_1\">DTO 177, ECONOMIA<br>Art. &#xFA;nico N&#xBA; 2<br>D.O. 03.12.2003</span> deber&#xE1; ser objeto de concurso p&#xFA;blico, mediante la convocatoria a trav&#xE9;s de una &#xFA;nica publicaci&#xF3;n de un aviso en un peri&#xF3;dico de circulaci&#xF3;n nacional, el cual deber&#xE1; contener las indicaciones se&#xF1;aladas en el numeral 3.2 de las Bases Administrativas de los Concursos P&#xFA;blicos de Proyectos financiados por el Fondo de Investigaci&#xF3;n Pesquera.</div><div class=\"p\">&nbsp; &nbsp; Las ofertas deber&#xE1;n presentarse separadamente distinguiendo la oferta t&#xE9;cnica de la oferta econ&#xF3;mica, las que deber&#xE1;n presentarse en sobres cerrados, dirigidos al se&#xF1;or Presidente del Consejo de Investigaci&#xF3;n Pesquera, en la fecha y lugar que se indique en la convocatoria.</div><div class=\"p\">&nbsp; &nbsp; El Consejo deber&#xE1; fijar por acuerdo del mismo un texto de Bases Administrativas de concurso que establezca las condiciones generales de participaci&#xF3;n en los mismos, sin perjuicio que respecto de uno o m&#xE1;s proyectos de investigaci&#xF3;n espec&#xED;ficos se fijen adem&#xE1;s Bases Especiales.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- El Consejo deber&#xE1; fijar por acuerdo<span class=\"n\" id=\"n_1\">DTO 340, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 03.11.2006</span> del mismo un texto de Bases Administrativas de concurso que establezca las condiciones generales de participaci&#xF3;n en los mismos, sin perjuicio que respecto de uno o m&#xE1;s proyectos de investigaci&#xF3;n espec&#xED;ficos se fijen adem&#xE1;s Bases Especiales.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-02-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

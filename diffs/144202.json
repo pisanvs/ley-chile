@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-05-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-03-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7254019,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO DEL SERVICIO DE FRANQUEO CONVENIDO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 993 exenta.- Santiago, 26.05.87.- Vistos y Considerando: Los art&#xED;culos 9&#xB0;, letras f) y h), y 26 del DFL No. 10, de 1981, de Telecomunicaciones; el art&#xED;culo 58, letra c), del DFL No. 171, de 1960, de Interior, Ley Org&#xE1;nica del Servicio de Correos y Tel&#xE9;grafos la necesidad de reglamentar la forma y condiciones en que podr&#xE1; acordarse con los usuarios el pago en numerario de los valores tarifarios a que por su naturaleza y categor&#xED;a est&#xE9;n afectos los env&#xED;os postales que despachen; el acuerdo del Directorio de la Empresa de Correos de Chile No. 15/87, adoptado en sesi&#xF3;n tercera ordinaria, celebrada el 05 de marzo de 1987; la resoluci&#xF3;n No. 1050, de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica; y, las facultades que me confiere la resoluci&#xF3;n No. 453, de 1985, de la Empresa, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el Reglamento del Servicio de Franqueo Convenido que es del tenor siguiente:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO DEL SERVICIO DE FRANQUEO CONVENIDO </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 993 exenta.- Santiago, 26.05.87.- Vistos y Considerando: Los art&#xED;culos 9&#xB0;, letras f) y h), y 26 del DFL No. 10, de 1981, de Telecomunicaciones; el art&#xED;culo 58, letra c), del DFL No. 171, de 1960, de Interior, Ley Org&#xE1;nica del Servicio de Correos y Tel&#xE9;grafos la necesidad de reglamentar la forma y condiciones en que podr&#xE1; acordarse con los usuarios el pago en numerario de los valores tarifarios a que por su naturaleza y categor&#xED;a est&#xE9;n afectos los env&#xED;os postales que despachen; el acuerdo del Directorio de la Empresa de Correos de Chile No. 15/87, adoptado en sesi&#xF3;n tercera ordinaria, celebrada el 05 de marzo de 1987; la resoluci&#xF3;n No. 1050, de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica; y, las facultades que me confiere la resoluci&#xF3;n No. 453, de 1985, de la Empresa, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el Reglamento del Servicio de Franqueo Convenido que es del tenor siguiente:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

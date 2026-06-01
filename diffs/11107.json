@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-09-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-04-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9039659,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTA DFL. N&#xB0; 591, DE 1982</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 217.- Santiago, 25 de Mayo de 1983.- Vistos: Lo dispuesto en el art&#xED;culo 32&#xB0;, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, la Ley N&#xB0; 15.840 y sus modificaciones, y el DFL. 591 (MOP) de 1982, Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el adjunto Reglamento para la ejecuci&#xF3;n, reparaci&#xF3;n, conservaci&#xF3;n y explotaci&#xF3;n de obras p&#xFA;blicas fiscales por el sistema establecido en el Art. 52&#xB0; de la Ley N&#xB0; 15.840:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  REGLAMENTA DFL. N&#xB0; 591, DE 1982</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D E R O G A D O .-<span class=\"n\" id=\"n_0\">DS 240 OOPP<br>1992, Art.<br>70</span></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 217.- Santiago, 25 de Mayo de 1983.- Vistos: Lo dispuesto en el art&#xED;culo 32&#xB0;, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, la Ley N&#xB0; 15.840 y<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div> sus modificaciones, y el DFL. 591 (MOP) de 1982,<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 2</a></div> Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el adjunto Reglamento para la ejecuci&#xF3;n, reparaci&#xF3;n, conservaci&#xF3;n y explotaci&#xF3;n de obras p&#xFA;blicas fiscales por el sistema establecido en el Art. 52&#xB0; de la Ley N&#xB0; 15.840:</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 70 del Decreto Supremo N&#xB0; 240, de Obras P&#xFA;blicas, publicado en el &quot;Diario Oficial&quot; de 8 de abril de 1992, orden&#xF3; derogar el presente decreto supremo.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El texto de este Decreto Supremo derogado se encuentra en una cinta de normas derogadas BDTO.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

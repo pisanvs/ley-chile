@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-12-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8257839,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTA APLICACION DEL ARTICULO 13&#xB0;, DEL D.L. N&#xB0; 1.939, DE 1977</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.- Santiago, 10 de enero de 1996.- Vistos: El Art&#xED;culo 13&#xB0;, del D.L. N&#xB0; 1.939, de 1977 y lo dispuesto en el art&#xED;culo 32 N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica,</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; REGLAMENTA APLICACION DEL ARTICULO 13&#xB0;, DEL D.L. N&#xB0;<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> 1.939, DE 1977</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.- Santiago, 10 de enero de 1996.- Vistos: El Art&#xED;culo 13&#xB0;, del D.L. N&#xB0; 1.939, de 1977 y lo dispuesto en el art&#xED;culo 32 N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica,</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  En sentencia del 10 de diciembre de 1996 el Tribunal Constitucional declar&#xF3; la inconstitucionalidad del presente decreto. Por esta declaraci&#xF3;n queda &quot;sin efecto de pleno derecho&quot; en su integridad.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-04-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5942482,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DECRETO N&#xB0; 185 EXENTO, DE 1995 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DECRETO N&#xB0; 185 EXENTO, DE 1995</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

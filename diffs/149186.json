@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-05-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-09-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8354519,
+          "old": "<div><div class=\"p\">ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO QUE INDICA A EMPRESA ELECTRICA DE AYSEN S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 73.- Santiago, 17 de Marzo de 1987.- Visto: Art&#xED;culos 1&#xBA; y 3&#xB0; del DL 799 de 1974, modificado por el DFL No. 12-2.345 de 1970 del Ministerio del Interior; Circular No. 9.277 de 1975 y resoluciones 600 de 1977 y 1.050 de 1980, todos de la Contralor&#xED;a General de la Rep&#xFA;blica; Ordinarios N&#xBA;s 0139 y 0180 de 1987 de la Empresa El&#xE9;ctrica de Ays&#xE9;n S.A. que se acompa&#xF1;an:</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, la Empresa El&#xE9;ctrica de Ays&#xE9;n S.A., EDELAYSEN S.A., ha solicitado se asigne el veh&#xED;culo de su propiedad, Station Wagon, Peugeot, Patente BD. 5835-9, al Gerente de esa Empresa y se le autorice para circular s&#xE1;bados en la tarde, domingos y festivos, exento de la obligaci&#xF3;n de llevar el disco distintivo, atendida la responsabilidad y representatividad de la explotaci&#xF3;n del sistema el&#xE9;ctrico que el Gerente citado tiene en la XI Regi&#xF3;n del pa&#xED;s,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO QUE INDICA A EMPRESA ELECTRICA DE AYSEN S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 73.- Santiago, 17 de Marzo de 1987.- Visto: Art&#xED;culos 1&#xBA; y 3&#xB0; del DL 799 de 1974, modificado por el DFL No. 12-2.345 de 1970 del Ministerio del Interior; Circular No. 9.277 de 1975 y resoluciones 600 de 1977 y 1.050 de 1980, todos de la Contralor&#xED;a General de la Rep&#xFA;blica; Ordinarios N&#xBA;s 0139 y 0180 de 1987 de la Empresa El&#xE9;ctrica de Ays&#xE9;n S.A. que se acompa&#xF1;an:</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, la Empresa El&#xE9;ctrica de Ays&#xE9;n S.A., EDELAYSEN S.A., ha solicitado se asigne el veh&#xED;culo de su propiedad, Station Wagon, Peugeot, Patente BD. 5835-9, al Gerente de esa Empresa y se le autorice para circular s&#xE1;bados en la tarde, domingos y festivos, exento de la obligaci&#xF3;n de llevar el disco distintivo, atendida la responsabilidad y representatividad de la explotaci&#xF3;n del sistema el&#xE9;ctrico que el Gerente citado tiene en la XI Regi&#xF3;n del pa&#xED;s,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

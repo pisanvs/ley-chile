@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2007-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-02-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8375097,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Los propietarios de veh&#xED;culos deber&#xE1;n pagar el permiso de circulaci&#xF3;n, en la municipalidad en cuyo registro se encuentre inscrito el veh&#xED;culo, o en aquella a la que se solicite el traslado de la inscripci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Los veh&#xED;culos exentos de permisos en virtud del art&#xED;culo 20 del decreto ley N&#xBA; 3.063, de 1979, se inscribir&#xE1;n en el Registro Comunal de la Municipalidad que otorg&#xF3; el respectivo certificado de exenci&#xF3;n y el impuesto que grava el primer permiso de circulaci&#xF3;n se pagar&#xE1; a contar de la fecha del contrato o factura de venta a persona no beneficiada con exenci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Los propietarios de veh&#xED;culos deber&#xE1;n pagar el permiso de circulaci&#xF3;n, en la municipalidad en cuyo registro se encuentre inscrito el veh&#xED;culo, o en aquella a la que se solicite el traslado de la<span class=\"n\" id=\"n_0\">DTO 231, INTERIOR<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 11.02.2008</span> inscripci&#xF3;n, de conformidad con lo dispuesto en el art&#xED;culo siguiente.</div><div class=\"p\">&nbsp; &nbsp;  Los veh&#xED;culos exentos de permisos en virtud del art&#xED;culo 20 del decreto ley N&#xBA; 3.063, de 1979, se inscribir&#xE1;n en el Registro Comunal de la Municipalidad que otorg&#xF3; el respectivo certificado de exenci&#xF3;n y el impuesto que grava el primer permiso de circulaci&#xF3;n se pagar&#xE1; a contar de la fecha del contrato o factura de venta a persona no beneficiada con exenci&#xF3;n.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8375098,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Los propietarios de veh&#xED;culos que deseen pagar su permiso de circulaci&#xF3;n en un municipio distinto al que pertenece el Registro Comunal respectivo, podr&#xE1;n solicitarlo y realizar el pago, dentro de los plazos legales que correspondan al tipo o clase de veh&#xED;culo, debiendo acreditar el pago de los permisos de per&#xED;odos anteriores o pagarlos en el mismo acto, de acuerdo al art&#xED;culo 5&#xBA;. La municipalidad que reciba el pago, previamente inscribir&#xE1; en su Registro Comunal el veh&#xED;culo e informar&#xE1; de ello a la municipalidad de origen, dentro del plazo de 10 d&#xED;as de recibida la respectiva solicitud.</div><div class=\"p\">&nbsp; &nbsp;  Vencidos los plazos establecidos por la ley para pagar los permisos de circulaci&#xF3;n, sin que se hayan enterado en arcas municipales o no se haya enviado la informaci&#xF3;n se&#xF1;alada en el inciso anterior, las municipalidades en cuyos registros est&#xE9;n inscritos los veh&#xED;culos respectivos, ser&#xE1;n acreedoras de tales tributos.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Los propietarios de veh&#xED;culos<span class=\"n\" id=\"n_1\">DTO 231, INTERIOR<br>Art. &#xFA;nico N&#xBA; 2<br>D.O. 11.02.2008</span> que deseen pagar su permiso de circulaci&#xF3;n en una municipalidad distinta a la que pertenece el Registro Comunal respectivo, podr&#xE1;n solicitarlo y realizar el pago que corresponda al tipo o clase de veh&#xED;culo, debiendo acreditar el pago &#xED;ntegro del permiso del a&#xF1;o anterior o pagarlo en el mismo acto. La municipalidad previamente a recibir el pago, inscribir&#xE1; en su Registro Comunal el veh&#xED;culo, y lo comunicar&#xE1; a la municipalidad de origen, dentro de los primeros 15 d&#xED;as del mes siguiente de recibida la respectiva solicitud, comunicaci&#xF3;n que podr&#xE1; realizarse a trav&#xE9;s de medios electr&#xF3;nicos.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8375099,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- En el caso se&#xF1;alado en el inciso primero del art&#xED;culo anterior, cuando se adeude a la municipalidad de origen, en forma &#xED;ntegra o parcial, uno o m&#xE1;s per&#xED;odos de permisos de circulaci&#xF3;n, el monto total de lo adeudado incluidos intereses penales y dem&#xE1;s recargos legales, deber&#xE1; depositarse en una cuenta de fondos de terceros y remitirse a dicha municipalidad de origen, dentro de los diez primeros d&#xED;as del mes siguiente al de su ingreso, incluy&#xE9;ndose una n&#xF3;mina que indique: nombre y c&#xE9;dula de identidad del contribuyente, placa patente del veh&#xED;culo y per&#xED;odo o per&#xED;odos adeudados.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- En el caso se&#xF1;alado en el art&#xED;culo<span class=\"n\" id=\"n_2\">DTO 231, INTERIOR<br>Art. &#xFA;nico N&#xBA; 3<br>D.O. 11.02.2008</span> anterior, si se adeudare a la municipalidad de origen, en forma &#xED;ntegra o parcial, uno o m&#xE1;s per&#xED;odos de permisos de circulaci&#xF3;n, el monto total de lo recaudado por tal concepto, incluidos intereses penales y dem&#xE1;s recargos legales, deber&#xE1; ser depositado por la municipalidad que reciba el pago en una cuenta de fondos de terceros y remitirse a la municipalidad de origen, dentro de los quince primeros d&#xED;as del mes siguiente al de su ingreso, incluy&#xE9;ndose una n&#xF3;mina que indique: nombre y c&#xE9;dula de identidad del contribuyente, placa patente del veh&#xED;culo y per&#xED;odo o per&#xED;odos adeudados. La remisi&#xF3;n de los fondos y de las citadas n&#xF3;minas podr&#xE1; realizarse a trav&#xE9;s de medios electr&#xF3;nicos.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8375100,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- La municipalidad de origen, al momento de ser informada que el permiso de circulaci&#xF3;n de un veh&#xED;culo inscrito en su Registro Comunal fue pagado en otra municipalidad, dentro de los plazos legales, proceder&#xE1; a eliminar la inscripci&#xF3;n correspondiente de su registro.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- La municipalidad de origen, al momento de ser informada que el permiso de circulaci&#xF3;n de un veh&#xED;culo inscrito en su Registro Comunal fue pagado en otra municipalidad, e inscrito en &#xE9;sta,<span class=\"n\" id=\"n_3\">DTO 231, INTERIOR<br>Art. &#xFA;nico N&#xBA; 4<br>D.O. 11.02.2008</span> proceder&#xE1; a eliminar la inscripci&#xF3;n correspondiente de su registro.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

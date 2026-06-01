@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-09-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6069796,
+          "old": "<div><div class=\"p\">ORDENANZA SOBRE CARGA Y DESCARGA EN EL AREA CENTRICA DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 74.- Santiago, diciembre 23 de 1997.</div><br><br></div>",
+          "new": "<div><div class=\"p\">ORDENANZA SOBRE CARGA Y DESCARGA EN EL AREA CENTRICA DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 74.- Santiago, diciembre 23 de 1997.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-10-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8940876,
+          "old": "<div><br><div class=\"p\">APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DEL CONSEJO DE</div><div class=\"p\">DEFENSA DEL ESTADO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 18 de mayo de 1989.- Hoy se decret&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 74.- Visto: los antecedentes adjuntos, lo dispuesto en la Ley No. 11.764, art&#xED;culo No. 134; Ley No. 18.469 y DS No. 722, de 1955, del ex Ministerio de Salud P&#xFA;blica y Previsi&#xF3;n Social; y de acuerdo con la facultad que me confiere el art&#xED;culo 32, No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Der&#xF3;gase el Reglamento del Servicio de Bienestar del Personal del Consejo de Defensa del Estado, aprobado por Decreto No. 214, de 16 de octubre de 1970, del Ministerio del Trabajo y Previsi&#xF3;n Social, Subsecretar&#xED;a de Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp;  2.- Apru&#xE9;base el siguiente Reglamento del Servicio de Bienestar para el personal del Consejo de Defensa del Estado.</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DEL CONSEJO DE DEFENSA DEL ESTADO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 18 de mayo de 1989.- Hoy se decret&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 74.- Visto: los antecedentes adjuntos, lo dispuesto en la Ley No. 11.764, art&#xED;culo No. 134; Ley No. 18.469 y DS No. 722, de 1955, del ex Ministerio de Salud P&#xFA;blica y Previsi&#xF3;n Social; y de acuerdo con la facultad que me confiere el art&#xED;culo 32, No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Der&#xF3;gase el Reglamento del Servicio de Bienestar del Personal del Consejo de Defensa del Estado, aprobado por Decreto No. 214, de 16 de octubre de 1970, del Ministerio del Trabajo y Previsi&#xF3;n Social, Subsecretar&#xED;a de Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp;  2.- Apru&#xE9;base el siguiente Reglamento del Servicio de Bienestar para el personal del Consejo de Defensa del Estado.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

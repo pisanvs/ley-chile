@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1994-04-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-07-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9038444,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile, la siguiente:</div><div class=\"p\">NCh1061&nbsp; Cloro l&#xED;quido - Medidas de seguridad en</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  el transporte por ferrocarril, en</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  vagones-tanques, y en la carga, recepci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  y descarga de ellos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile, la siguiente:</div><div class=\"p\">NCh1061&nbsp; Cloro l&#xED;quido - Medidas de seguridad en</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; el transporte por ferrocarril, en</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; vagones-tanques, y en la carga, recepci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; y descarga de ellos.</div><br></div>"
+        },
+        {
+          "part_id": 9038445,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Con el presente decreto se anula y reemplaza la norma NCh1061. Of75, Cloro l&#xED;quido - Carga, recepci&#xF3;n y descarga - Condiciones de seguridad en los carros estanques de ferrocarril, declarada Oficial de la Rep&#xFA;blica, por Decreto N&#xB0;265, de fecha 14 de marzo de 1975, por el Ministerio de Obras P&#xFA;blicas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Con el presente Decreto se anulan y<span class=\"n\" id=\"n_0\">DS. N&#xB0;190<br>1994<br>Transportes<br>art. &#xFA;nico</span> reemplazan las normas NCh1061.Of75, Cloro l&#xED;quido - Carga, recepci&#xF3;n y descarga - Condiciones de seguridad en los carros estanques de ferrocarril y NCh1062.Of75, Cloro l&#xED;quido - Transporte por ferrocarril - Condiciones de seguridad en carros estanques, declaradas Oficiales de la Rep&#xFA;blica, por Decreto N&#xB0; 265, de fecha 14 de marzo de 1975, por el Ministerio de Obras P&#xFA;blicas.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

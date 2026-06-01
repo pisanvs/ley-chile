@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-09-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6303060,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 183 EXENTO, DE 2000 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 183 EXENTO, DE 2000</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

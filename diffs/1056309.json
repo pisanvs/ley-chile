@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-11-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-12-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9386014,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA;5.979, de fecha 6 de noviembre de 2013, se orden&#xF3; la expropiaci&#xF3;n, conforme a las normas del decreto ley N&#xBA; 2.186 de 1978, del denominado Lote N&#xBA;220, correspondiente al inmueble ubicado en Seraf&#xED;n Zamora 53 y Otras Direcciones, Roles de Aval&#xFA;o N&#xBA; 309-20 al 309-30, de la Comuna de La Florida, Regi&#xF3;n Metropolitana, de aparente dominio de Ubeda Neira Luz Mar&#xED;a y Otros Copropietarios, con una superficie aproximada de 11,9 metros cuadrados. Dicha expropiaci&#xF3;n resulta necesaria para la ejecuci&#xF3;n del Programa &quot;Construcci&#xF3;n Corredor de Transporte P&#xFA;blico Vicu&#xF1;a Mackenna Norte&quot;. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Carmen R&#xED;os Marcuello, ingeniero civil qu&#xED;mico; Claudia Marzullo Garc&#xED;a, arquitecto y Miguel Fern&#xE1;ndez C&#xE1;diz, constructor civil, mediante Informe de fecha 30 de octubre de 2013, fij&#xF3; la indemnizaci&#xF3;n provisional por causa de la referida expropiaci&#xF3;n en la suma de $12.312.500, que se pagar&#xE1; al contado. La presente publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186 de 1978.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1057383&amp;idParte=9392807&amp;idVersion=2013-12-16\">Aviso S/N,<br>VIVIENDA<br>D.O. 16.12.2013</a></span>&nbsp; N&#xBA; 5.979, de fecha 06 de noviembre de 2013, se orden&#xF3; la expropiaci&#xF3;n parcial conforme a las normas del decreto ley N&#xBA; 2.186 de 1978, del denominado Lote N&#xBA;220, correspondiente al inmueble ubicado en Seraf&#xED;n Zamora 53, Rol de Aval&#xFA;o N&#xBA; 309-20; S Zamora 57 C C La Florida, Rol de Aval&#xFA;o N&#xBA; 309-21; S Zamora 63 C C La Florida, Rol de Aval&#xFA;o N&#xBA; 309-22; S Zamora 65 C C La Florida, Rol de Aval&#xFA;o N&#xBA; 309-23; S Zamora 67 C La Florida, Rol de Aval&#xFA;o N&#xBA; 309-24; S Zamora 71, Rol de Aval&#xFA;o N&#xBA; 309-25; S Zamora 73, Rol de Aval&#xFA;o N&#xBA; 309-26; S Zamora 85, Rol de Aval&#xFA;o N&#xBA; 309-27; S Zamora 87, Rol de Aval&#xFA;o N&#xBA; 309-28; S Zamora 91, Rol de Aval&#xFA;o N&#xBA; 309-29; S Zamora 93 Rol de Aval&#xFA;o N&#xBA; 309-30, de la Comuna de La Florida, Regi&#xF3;n Metropolitana, de aparente dominio respectivamente de Ubeda Neira Luz Mar&#xED;a, Ripoll Leiva Edith Nativ y Otros, Ripoll Leiva Pedro Antonio, Ripoll Reyes Mauricio An y Otros, Ripoll Leiva Laura Elena y Otros, Ao Ieong Chan Kon Neng, Constructora Antuco Ltda, Arias Saavedra Gilda del C, Bruckner Berta, Lizana Ureta Luis, Soc Inmobiliaria Penafri SA, con una superficie aproximada de 11,9 metros cuadrados. Dicha expropiaci&#xF3;n resulta necesaria para la ejecuci&#xF3;n del Programa &quot;Construcci&#xF3;n Corredor de Transporte P&#xFA;blico Vicu&#xF1;a Mackenna Norte&quot;. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Carmen R&#xED;os Marcuello, Ingeniero Civil Qu&#xED;mico; Claudia Marzullo Garc&#xED;a, Arquitecto y Miguel Fern&#xE1;ndez C&#xE1;diz, Constructor civil, mediante Informe de fecha 30 de octubre de 2013, fij&#xF3; la indemnizaci&#xF3;n provisional por causa de la referida expropiaci&#xF3;n en la suma de $12.312.500, que se pagar&#xE1; al contado. La presente publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186 de 1978.</div><div class=\"p\"> </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1057383,
+      "fecha": "2013-12-16"
+    }
+  }
+]

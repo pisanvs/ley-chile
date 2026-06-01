@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-12-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9537145,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case el resuelvo 5. de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1068040&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 6.308 (V. y U.), de 2014</a>, en el sentido de sustituir en la tabla inserta en dicho resuelvo, la fila correspondiente a la 12 regi&#xF3;n, por la siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; <img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/45481.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Establ&#xE9;cese que la resoluci&#xF3;n exenta N&#xBA; 6.308 (V. y U.) de 2014, se mantendr&#xE1; vigente en todo aquello que no ha sido modificado por la presente resoluci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case el resuelvo 5. de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1068040&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 6.308 (V. y U.), de 2014</a>, en el sentido de sustituir en la tabla inserta en dicho resuelvo, la fila correspondiente a la 12 regi&#xF3;n, por la siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/45481.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Establ&#xE9;cese que la resoluci&#xF3;n exenta N&#xBA; 6.308 (V. y U.) de 2014, se mantendr&#xE1; vigente en todo aquello que no ha sido modificado por la presente resoluci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fecha": "2000-07-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7275246,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Las reclamaciones se interpondr&#xE1;n dentro del plazo establecido en el t&#xED;tulo IV de la ley N&#xBA; 18.700, Org&#xE1;nica Constitucional sobre Votaciones Populares y Escrutinios, ante el Juez del Crimen del territorio en que se hubieren cometido los hechos que sirven de fundamento a la reclamaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Las reclamaciones se interpondr&#xE1;n<span class=\"n\" id=\"n_0\">AA S/N,<br>TRIB. ELEC. REG.<br>N&#xBA;1<br>D.O. 20.10.2000</span> directamente ante este Tribunal Electoral, dentro de los seis d&#xED;as siguientes a la fecha de la respectiva elecci&#xF3;n, acompa&#xF1;&#xE1;ndose en el mismo acto los antecedentes en que se funde. </div></div>"
+        },
+        {
+          "part_id": 7275250,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- El Juez del Crimen proveer&#xE1; de inmediato la reclamaci&#xF3;n, le dar&#xE1; tramitaci&#xF3;n preferente y extraordinaria y recibir&#xE1; las informaciones y contrainformaciones conforme lo dispuesto en el art&#xED;culo 98 de la ley N&#xBA; 18.700, Org&#xE1;nica Constitucional sobre Votaciones Populares y Escrutinios.</div><div class=\"p\">&nbsp; &nbsp;  Recibidas las informaciones o contrainformaciones y, en todo caso, dentro del plazo fatal de quinto d&#xED;a contado desde la resoluci&#xF3;n que recaiga sobre la reclamaci&#xF3;n, la enviar&#xE1;, sin pronunciarse, por mano o por el medio m&#xE1;s urgente y seguro al Tribunal Electoral Regional.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Dentro del plazo de dos d&#xED;as, contado<span class=\"n\" id=\"n_1\">AA S/N,<br>TRIB. ELEC. REG.<br>N&#xBA;2<br>D.O. 20.10.2000</span> desde el respectivo reclamo, se rendir&#xE1;n ante el Tribunal las informaciones y contrainformaciones que se produzcan.</div><br></div>"
+        },
+        {
+          "part_id": 7275251,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- El Secretario-Relator comunicar&#xE1; oportunamente a todos los Jueces del Crimen de la Regi&#xF3;n el domicilio y tel&#xE9;fono de este Tribunal Electoral Regional.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, el Secretario-Relator adoptar&#xE1; todas las medidas administrativas necesarias, en coordinaci&#xF3;n con los Jueces del Crimen de la regi&#xF3;n, para la expedita remisi&#xF3;n de las reclamaciones.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, el Secretario-Relator dar&#xE1; cuenta inmediata al Tribunal del reclamo que haga cualquier elector, derivado de incumplimiento en el despacho de la reclamaci&#xF3;n en que haya incurrido el Juez del Crimen. El Tribunal adoptar&#xE1; las medidas necesarias para obtener el inmediato env&#xED;o de las reclamaciones y dar&#xE1; cuenta a la Corte Suprema.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xBA;.- El Tribunal Electoral pondr&#xE1; en<span class=\"n\" id=\"n_2\">AA S/N<br>TRIB. ELEC. REG.<br>N&#xBA;3<br>D.O. 20.10.2000</span> conocimiento del Juez del Crimen competente, aquellos hechos o circunstancias fundantes de la reclamaci&#xF3;n, que a su juicio revistieren las caracter&#xED;sticas de delito.</div><br></div>"
+        },
+        {
+          "part_id": 7275256,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;.- El Tribunal, en la apreciaci&#xF3;n de los hechos, proceder&#xE1; como jurado y sentenciar&#xE1; con arreglo a derecho.</div><div class=\"p\">&nbsp; &nbsp;  Atendida la necesidad de reducir los plazos establecidos para las actuaciones de la Justicia Electoral, y dar cumplimiento al cometido constitucional, la sentencia deber&#xE1; dictarse en el plazo m&#xE1;ximo de tres d&#xED;as contados desde la fecha de ingreso de la reclamaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;.- El Tribunal, en la apreciaci&#xF3;n de los hechos, proceder&#xE1; como jurado y sentenciar&#xE1; con arreglo a derecho. Atendida la necesidad de reducir los plazos establecidos para las actuaciones de la Justicia Electoral, y dar cumplimiento al cometido constitucional, la sentencia deber&#xE1; dictarse en el<span class=\"n\" id=\"n_3\">AA S/N<br>TRIB. ELEC. REG.<br>N&#xBA;4<br>D.O. 20.10.2000</span> plazo m&#xE1;ximo de quince d&#xED;as contados desde la fecha de la elecci&#xF3;n. </div></div>"
+        },
+        {
+          "part_id": 7275258,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA;.- En contra de la sentencia definitiva s&#xF3;lo proceder&#xE1; el recurso de apelaci&#xF3;n para ante el Tribunal Calificador de Elecciones, en el plazo y forma a que se refiere el art&#xED;culo 117 de la ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades y el Auto Acordado de dicho Tribunal sobre Tramitaci&#xF3;n y Fallo de los Recursos de Apelaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El Tribunal a quo, examinar&#xE1; la admisibilidad del recurso y, si procediera, lo conceder&#xE1; y elevar&#xE1;, de inmediato, para su conocimiento y resoluci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA;.- En contra de la sentencia definitiva s&#xF3;lo proceder&#xE1; el recurso de apelaci&#xF3;n para ante el Tribunal Calificador de Elecciones, el que deber&#xE1;<span class=\"n\" id=\"n_4\">AA S/N<br>TRIB. ELEC. REG.<br>N&#xBA;5<br>D.O. 20.10.2000</span> deducirse dentro del plazo de tercero d&#xED;a, contado desde la notificaci&#xF3;n practicada por el estado diario, y ser&#xE1; someramente fundado. El Tribunal a quo, examinar&#xE1; la admisibilidad del recurso y, si procediera, lo conceder&#xE1; y elevar&#xE1;, de inmediato, para su conocimiento y resoluci&#xF3;n. </div></div>"
+        },
+        {
+          "part_id": 7275268,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21&#xBA;.- Adem&#xE1;s, cuando procediere, se dar&#xE1; cuenta a la Corte de Apelaciones respectiva y a la Corte Suprema de los reclamos formulados en contra de los Jueces del Crimen que no hayan enviado oportunamente al Tribunal Electoral Regional las reclamaciones electorales.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 21&#xBA;.- ELIMINADO<span class=\"n\" id=\"n_5\">AA S/N<br>TRIB. ELEC. REG.<br>N&#xBA;6<br>D.O. 20.10.2000</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

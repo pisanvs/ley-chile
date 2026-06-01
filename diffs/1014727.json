@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2010-06-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-10-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8935287,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- La zona de concesi&#xF3;n ser&#xE1; la comprendida dentro de la poligonal que se describe a continuaci&#xF3;n, seg&#xFA;n las siguientes coordenadas UTM:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/12003.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- La zona de concesi&#xF3;n ser&#xE1; la comprendida dentro de la poligonal que se describe a continuaci&#xF3;n, seg&#xFA;n las siguientes coordenadas UTM:</div><br><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/12003.jpg\"></div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Por Rectificaci&#xF3;n de Diario Oficial del 16.10.2010, se reemplaza en la tabla contenida en este art&#xED;culo, la frase &quot;Nombre del proyecto, Electrificaci&#xF3;n Loteo Portal del Sur, Electrificaci&#xF3;n Loteo Portal del Sur, Portal del Estrecho II&quot;, por &quot;Nombre del proyecto, Electrificaci&#xF3;n Loteo Portal del Sur, Electrificaci&#xF3;n Loteo Portal del Estrecho, Portal del Estrecho II&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

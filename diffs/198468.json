@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-06-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8972946,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;.- Se usar&#xE1;n tarjetas de control que autorizar&#xE1;n el estacionamiento por media hora, una hora o m&#xE1;s, en los sectores se&#xF1;alados en el art&#xED;culo 2&#xB0; y tendr&#xE1;n un valor de venta al p&#xFA;blico IVA incluida de $ 10 la media hora y $ 20 la hora.</div><div class=\"p\">&nbsp; &nbsp;  Esta tarjeta deber&#xE1; ser colocada por el usuario en un lugar visible del veh&#xED;culo y deber&#xE1;n tener claramente marcado el d&#xED;a, hora y minutos en que se inicia el per&#xED;odo de estacionamiento.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;.- SISTEMA DE TARJETAS<span class=\"n\" id=\"n_0\">DTO 1139,<br>M. DE QUILOTA<br>D.O. 12.06.1992</span> El valor de venta al p&#xFA;blico, ser&#xE1; de $ 100.-</div><div class=\"p\">&nbsp; &nbsp;  por cada hora de estacionamiento.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

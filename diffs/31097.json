@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-12-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8923754,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ORDENANZA SOBRE LOCALES DE ENTRETENIMIENTOS ELECTRONICOS Y SIMILARES</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 67.- Santiago, diciembre 13 de 1995. </div></div>",
+          "new": "<div><div class=\"p\">ORDENANZA SOBRE LOCALES DE ENTRETENIMIENTOS ELECTRONICOS Y SIMILARES</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 67.- Santiago, diciembre 13 de 1995.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

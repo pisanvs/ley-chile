@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-05-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-07-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10119455,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cese que la remuneraci&#xF3;n mensual de los Directores de la Corporaci&#xF3;n Nacional del Cobre de Chile-Codelco ser&#xE1; la cantidad de $4.126.340 (cuatro millones ciento veintis&#xE9;is mil trescientos cuarenta pesos), por concepto de asistencia a las sesiones de Directorio. Para que proceda el pago de la remuneraci&#xF3;n se requerir&#xE1; la asistencia de al menos a una sesi&#xF3;n de Directorio por mes calendario.</div><div class=\"p\">&nbsp; &nbsp;  2.- Establ&#xE9;cese, para el Presidente del Directorio, una remuneraci&#xF3;n mensual &#xFA;nica de $8.752.678 (ocho millones doscientos cincuenta y dos mil seiscientos setenta y ocho pesos).</div><div class=\"p\">&nbsp; &nbsp;  3.- Determ&#xED;nase, adem&#xE1;s, que en el caso de los Directores que deban integrar el Comit&#xE9; de Directores, sea aquel a que se refiere el art&#xED;culo 50 bis) de la ley N&#xBA; 18.046 u otro distinto que establezcan los estatutos de Codelco, estos deber&#xE1;n recibir la suma &#xFA;nica adicional mensual de $1.375.445.- (un mill&#xF3;n trescientos setenta y cinco mil cuatrocientos cuarenta y cinco pesos) por su participaci&#xF3;n en ellos, cualquiera sea el n&#xFA;mero de los comit&#xE9;s en los que participen. Adicionalmente, quien presida el Comit&#xE9; de Directores deber&#xE1; recibir una remuneraci&#xF3;n &#xFA;nica mensual por concepto de participaci&#xF3;n en comit&#xE9;s en los que participen. Adicionalmente, quien presida el Comit&#xE9; de Directores deber&#xE1; recibir una remuneraci&#xF3;n &#xFA;nica mensual por concepto de participaci&#xF3;n en comit&#xE9;s de $2.750.893.- (dos millones setecientos cincuenta mil ochocientos noventa y tres pesos).</div><div class=\"p\">&nbsp; &nbsp;  4.- Determ&#xED;nase que las remuneraciones, establecidas en el presente decreto supremo, regir&#xE1;n por el plazo de dos a&#xF1;os, contados a partir del d&#xED;a 1 de marzo de 2020, y no ser&#xE1;n reajustadas durante dicho periodo.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cese que la remuneraci&#xF3;n mensual de los Directores de la Corporaci&#xF3;n Nacional del Cobre de Chile-Codelco ser&#xE1; la cantidad de $4.126.340 (cuatro millones ciento veintis&#xE9;is mil trescientos cuarenta pesos), por concepto de asistencia a las sesiones de Directorio. Para que proceda el pago de la remuneraci&#xF3;n se requerir&#xE1; la asistencia de al menos a una sesi&#xF3;n de Directorio por mes calendario.</div><div class=\"p\">&nbsp; &nbsp;  2.- Establ&#xE9;cese, para el Presidente del Directorio, una remuneraci&#xF3;n mensual &#xFA;nica de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1147744&amp;idParte=10138411&amp;idVersion=2020-07-24\">Rectificaci&#xF3;n 2195<br>D.O. 24.07.2020</a></span>$8.252.678 (ocho millones doscientos cincuenta y dos mil seiscientos setenta y ocho pesos).</div><div class=\"p\">&nbsp; &nbsp;  3.- Determ&#xED;nase, adem&#xE1;s, que en el caso de los Directores que deban integrar el Comit&#xE9; de Directores, sea aquel a que se refiere el art&#xED;culo 50 bis) de la ley N&#xBA; 18.046 u otro distinto que establezcan los estatutos de Codelco, estos deber&#xE1;n recibir la suma &#xFA;nica adicional mensual de $1.375.445.- (un mill&#xF3;n trescientos setenta y cinco mil cuatrocientos cuarenta y cinco pesos) por su participaci&#xF3;n en ellos, cualquiera sea el n&#xFA;mero de los comit&#xE9;s en los que participen. Adicionalmente, quien presida el Comit&#xE9; de Directores deber&#xE1; recibir una remuneraci&#xF3;n &#xFA;nica mensual por concepto de participaci&#xF3;n en comit&#xE9;s en los que participen. Adicionalmente, quien presida el Comit&#xE9; de Directores deber&#xE1; recibir una remuneraci&#xF3;n &#xFA;nica mensual por concepto de participaci&#xF3;n en comit&#xE9;s de $2.750.893.- (dos millones setecientos cincuenta mil ochocientos noventa y tres pesos).</div><div class=\"p\">&nbsp; &nbsp;  4.- Determ&#xED;nase que las remuneraciones, establecidas en el presente decreto supremo, regir&#xE1;n por el plazo de dos a&#xF1;os, contados a partir del d&#xED;a 1 de marzo de 2020, y no ser&#xE1;n reajustadas durante dicho periodo.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1147744,
+      "fecha": "2020-07-24"
+    }
+  }
+]

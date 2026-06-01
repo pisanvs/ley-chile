@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-09-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9633893,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaciones para el a&#xF1;o 2015 y siguientes, en la Regi&#xF3;n de Tarapac&#xE1; para la adquisici&#xF3;n de los inmuebles a ser destinados a la ejecuci&#xF3;n del proyecto &quot;Reconstrucci&#xF3;n Conjunto Habitacional San Lorenzo, comuna de Alto Hospicio&quot; y que se singularizan a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/52025.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie aproximada inmuebles a expropiar: 3.043,22 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Iquique, si lo hubiere.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaciones para el a&#xF1;o 2015 y siguientes, en la Regi&#xF3;n de Tarapac&#xE1; para la adquisici&#xF3;n de los inmuebles a ser destinados a la ejecuci&#xF3;n del proyecto &quot;Reconstrucci&#xF3;n Conjunto Habitacional San Lorenzo, comuna de Alto Hospicio&quot; y que se singularizan a continuaci&#xF3;n:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1083817&amp;idParte=9648759&amp;idVersion=2015-11-13\">Decreto 247 EXENTO,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 13.11.2015</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/53443.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie aproximada inmuebles a expropiar: 6.684,7 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Iquique, si lo hubiere.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1083817,
+      "fecha": "2015-11-13"
+    }
+  }
+]

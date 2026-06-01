@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-03-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8520504,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD EXPORTADORA E IMPORTADORA MARHESA LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD EXPORTADORA E IMPORTADORA MARHESA LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

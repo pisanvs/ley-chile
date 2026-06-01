@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "2015-12-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-01-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9652614,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 1.883/2015, de 13 de noviembre de 2015, Serviu Regi&#xF3;n de Arica y Parinacota conforme ley N&#xBA; 16.391, DL N&#xBA; 2.186/1978, DS N&#xBA; 355/1976 (V. y U.), decreto exento N&#xBA; 227/2015 (V. y U.), se dispuso la expropiaci&#xF3;n del Lote N&#xBA; 18, Rol de aval&#xFA;o N&#xBA; 95-11, ubicado en calle Arturo Prat n&#xFA;mero 540, comuna y provincia de Arica, con superficie de terreno de 6,30 metros cuadrados, y superficie edificada de 12,60 metros cuadrados individualizado en plano SVU 1630 de Serviu Regi&#xF3;n de Arica y Parinacota, de presunto dominio, seg&#xFA;n figura en el rol de aval&#xFA;o fiscal, de Elsa Worm Drago, para la ejecuci&#xF3;n del proyecto &quot;Normalizaci&#xF3;n y Mejoramiento Perfil Maip&#xFA; - 18 de Septiembre y Conexiones, Etapa II, Arica&quot;. La comisi&#xF3;n de peritos integrada por Sergio Carrasco Cruzat, Jorge Orlando V&#xE1;squez Morales y Mario Zamorano Villablanca, Arquitectos, seg&#xFA;n informe de 10 de diciembre de 2015, fij&#xF3; monto provisional de indemnizaci&#xF3;n en $4.047.800, reajustable seg&#xFA;n art&#xED;culo 5 del DL N&#xBA; 2.186, pagadera al contado.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 1.883/2015, de 13 de noviembre de 2015, Serviu Regi&#xF3;n de Arica y Parinacota conforme ley N&#xBA; 16.391, DL N&#xBA; 2.186/1978, DS N&#xBA; 355/1976 (V. y U.), decreto exento N&#xBA; 227/2015 (V. y U.), se dispuso la expropiaci&#xF3;n del Lote N&#xBA; 18, Rol de aval&#xFA;o N&#xBA; 95-11, ubicado en <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1086625&amp;idParte=9666274&amp;idVersion=2016-01-15\">Resoluci&#xF3;n 2037 EXENTA, <br>VIVIENDA<br>D.O. 15.01.2016</a></span> calle 18 de Septiembre 491, 493 y 495, comuna y provincia de Arica, con superficie de terreno de 6,30 metros cuadrados, y superficie edificada de 12,60 metros cuadrados individualizado en plano SVU 1630 de Serviu Regi&#xF3;n de Arica y Parinacota, de presunto dominio, seg&#xFA;n figura en el rol de aval&#xFA;o fiscal, de Elsa Worm Drago, para la ejecuci&#xF3;n del proyecto &quot;Normalizaci&#xF3;n y Mejoramiento Perfil Maip&#xFA; - 18 de Septiembre y Conexiones, Etapa II, Arica&quot;. La comisi&#xF3;n de peritos integrada por Sergio Carrasco Cruzat, Jorge Orlando V&#xE1;squez Morales y Mario Zamorano Villablanca, Arquitectos, seg&#xFA;n informe de 10 de <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1086624&amp;idParte=9666265&amp;idVersion=2016-01-15\">Aviso S/N, VIVIENDA<br>D.O. 15.01.2016</a></span>noviembre de 2015, fij&#xF3; monto provisional de indemnizaci&#xF3;n en $4.047.800, reajustable seg&#xFA;n art&#xED;culo 5 del DL N&#xBA; 2.186, pagadera al contado.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": [
+      {
+        "idNorma": 1086625,
+        "fecha": "2016-01-15"
+      },
+      {
+        "idNorma": 1086624,
+        "fecha": "2016-01-15"
+      }
+    ]
+  }
+]

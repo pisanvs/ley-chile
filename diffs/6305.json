@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-11-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9057220,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12&#xB0;- Fac&#xFA;ltase al Servicio de Tesorer&#xED;as para celebrar convenios de pago con los deudores de impuestos y contribuciones de cualquier naturaleza que se encuentren devengados a la fecha de publicaci&#xF3;n del presente decreto ley.</div><div class=\"p\">&nbsp; &nbsp; Los convenios deber&#xE1;n perfeccionarse dentro del plazo de 90 d&#xED;as, contado desde la fecha de vigencia de este decreto ley y no estar&#xE1;n sujetos a las limitaciones establecidas en el art&#xED;culo 192 del C&#xF3;digo Tributario.</div><div class=\"p\">&nbsp; &nbsp; El incumplimiento del convenio o la falta de pago de cualquier impuesto que deba ser cancelaci&#xF3;n con posterioridad a su celebraci&#xF3;n producir&#xE1; la caducidad de dicho convenio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12&#xB0;- Fac&#xFA;ltase al Servicio de Tesorer&#xED;as para celebrar convenios de pago con los deudores de impuestos y contribuciones de cualquier naturaleza que se encuentren devengados a la fecha de publicaci&#xF3;n del presente decreto ley.</div><div class=\"p\">&nbsp; &nbsp; Los convenios deber&#xE1;n perfeccionarse dentro del plazo de 90 d&#xED;as, contado desde la fecha de vigencia de este decreto ley y no estar&#xE1;n sujetos a las limitaciones establecidas en el art&#xED;culo 192 del C&#xF3;digo Tributario.</div><div class=\"p\">&nbsp; &nbsp; El incumplimiento del convenio o la falta de pago de cualquier impuesto que deba ser cancelado con posterioridad a su celebraci&#xF3;n producir&#xE1; la caducidad<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 04.11.1974</span> de dicho convenio.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

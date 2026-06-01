@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1980-02-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-02-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9037089,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- Sustit&#xFA;yese el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 2.327, de 1978, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 5&#xB0;- La capacitaci&#xF3;n pedag&#xF3;gica establecida en el inciso tercero del art&#xED;culo 11 y los requisitos de clasificaci&#xF3;n y de aprobaci&#xF3;n de cursos, realizaci&#xF3;n de investigaciones o de trabajos especiales para alcanzar ciertos grados, establecidos en las letras b) y c) del art&#xED;culo 16, ser&#xE1;n exigibles a contar del 1&#xB0; de Septiembre de 1981.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Sustit&#xFA;yese el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 2.327, de 1978, por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 5&#xB0;.- La capacitaci&#xF3;n pedag&#xF3;gica establecida en el inciso tercero del art&#xED;culo 11 y los requisitos de clasificaci&#xF3;n y de aprobaci&#xF3;n de cursos, realizaci&#xF3;n de investigaciones o de trabajos especiales para alcanzar ciertos grados, establecidos en las letras b) y c) del art&#xED;culo 16, ser&#xE1;n exigibles a contar del 1&#xB0; de Septiembre de 1981.&quot;.</div><br></div>"
+        },
+        {
+          "part_id": 9037090,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- D&#xE9;jase sin efecto legal el proceso de calificaci&#xF3;n realizado por el Ministerio de Educaci&#xF3;n P&#xFA;blica correspondiente al a&#xF1;o 1979.</div><div class=\"p\">&nbsp; &nbsp; Durante el a&#xF1;o 1980, se llevar&#xE1; a cabo el proceso de calificaciones en forma experimental y no tendr&#xE1; ning&#xFA;n efecto legal.</div><div class=\"p\">&nbsp; &nbsp; A partir del a&#xF1;o 1981 se aplicar&#xE1; el proceso de calificaciones en forma integral.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- D&#xE9;jase sin efecto legal el proceso de calificaci&#xF3;n realizado por el Ministerio de Educaci&#xF3;n P&#xFA;blica correspondiente al a&#xF1;o 1979.</div><div class=\"p\">&nbsp; &nbsp; Durante el a&#xF1;o 1980, se llevar&#xE1; a cabo el proceso de calificaciones en forma experimental y no tendr&#xE1; ning&#xFA;n efecto legal.</div><div class=\"p\">&nbsp; &nbsp; Inciso final.- Derogado.<span class=\"n\" id=\"n_0\">LEY 18103<br>ART UNICO</span></div><br></div>"
+        },
+        {
+          "part_id": 9037091,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea.- RAUL LOPEZ SILVA, Vicealmirante, Comandante en Jefe de la Armada subrogante.- Alfredo Prieto Bafalluy, Ministro de Educaci&#xF3;n P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud., para su conocimiento.- Saluda a usted.- Guillermo Carrasco Acu&#xF1;a, Coronel de Carabineros (R), Subsecretario de Educaci&#xF3;n P&#xFA;blica subrogante.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea.- RAUL LOPEZ SILVA, Vicealmirante, Comandante en Jefe de la Armada subrogante.- Alfredo Prieto Bafalluy, Ministro de Educaci&#xF3;n P&#xFA;blica.- </div></div>"
+        }
+      ]
+    }
+  }
+]

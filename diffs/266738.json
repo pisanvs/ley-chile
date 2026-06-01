@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-11-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-02-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7359057,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xBA; 7.135 EXENTA, DE 2007 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xBA; 7.135 EXENTA, DE 2007 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

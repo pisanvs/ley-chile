@@ -1,0 +1,159 @@
+[
+  {
+    "fecha": "2016-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-03-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9785550,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; bis: Apru&#xE9;banse los siguientes<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 a)<br>D.O. 31.03.2017</a></span> programas de estudio para 1&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las siguientes asignaturas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Lengua y Literatura.</div><div class=\"p\">&nbsp; &nbsp;  2. Idioma extranjero: Ingl&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  3. Matem&#xE1;tica.</div><div class=\"p\">&nbsp; &nbsp;  4. Historia, Geograf&#xED;a y Ciencias Sociales.</div><div class=\"p\">&nbsp; &nbsp;  5. Ciencias Naturales.</div><div class=\"p\">&nbsp; &nbsp;  6. Educaci&#xF3;n F&#xED;sica y Salud.</div><div class=\"p\">&nbsp; &nbsp;  7. Orientaci&#xF3;n.</div></div>"
+        },
+        {
+          "part_id": 9785551,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; ter: Apru&#xE9;banse los siguientes programas<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 b)<br>D.O. 31.03.2017</a></span> de estudio para 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las siguientes asignaturas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Idioma extranjero: Ingl&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  2. Matem&#xE1;tica.</div><div class=\"p\">&nbsp; &nbsp;  3. Historia, Geograf&#xED;a y Ciencias Sociales.</div><div class=\"p\">&nbsp; &nbsp;  4. Ciencias Naturales.</div><div class=\"p\">&nbsp; &nbsp;  5. Educaci&#xF3;n F&#xED;sica y Salud.</div><div class=\"p\">&nbsp; &nbsp;  6. Orientaci&#xF3;n.</div></div>"
+        },
+        {
+          "part_id": 9785552,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; bis: Decl&#xE1;rese oficial la versi&#xF3;n de<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 c)<br>D.O. 31.03.2017</a></span> los programas de estudio para 1&#xBA; y 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las asignaturas indicadas en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, que el Ministerio de Educaci&#xF3;n pondr&#xE1; a disposici&#xF3;n de todos los establecimientos educacionales, a trav&#xE9;s de su p&#xE1;gina web (www.mineduc.cl).</div></div>"
+        },
+        {
+          "part_id": 9785553,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; bis: Der&#xF3;ganse las disposiciones contenidas<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 f)<br>D.O. 31.03.2017</a></span> en los decretos exentos Nos 77, de 1999; 83, de 2000; 1.358, de 2011; 169, de 2014 y 2.398, de 2015, todos del Ministerio de Educaci&#xF3;n, relativas a los programas de estudio se&#xF1;alados en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, para 1&#xBA; y 2&#xBA; a&#xF1;o de educaci&#xF3;n media.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9745461,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: El plan de estudio para 1&#xB0; y 2 &#xB0; a&#xF1;o de Educaci&#xF3;n Media que se aprueba por este decreto, comenzar&#xE1; a regir para 1&#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2017 y para 2 &#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2018.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: El plan y los programas de estudio para 1&#xB0; y 2 &#xB0; a&#xF1;o de Educaci&#xF3;n Media que se aprueban<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 d) y e)<br>D.O. 31.03.2017</a></span> por este decreto, comenzar&#xE1;n a regir para 1&#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2017 y para 2 &#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2018.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1101447,
+      "fecha": "2017-03-31"
+    }
+  },
+  {
+    "fecha": "2017-07-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9745461,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: El plan y los programas de estudio para 1&#xB0; y 2 &#xB0; a&#xF1;o de Educaci&#xF3;n Media que se aprueban<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 d) y e)<br>D.O. 31.03.2017</a></span> por este decreto, comenzar&#xE1;n a regir para 1&#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2017 y para 2 &#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2018.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: El plan y los programas de estudio para 1&#xB0; y 2 &#xB0; a&#xF1;o de Educaci&#xF3;n Media que se aprueban<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 d) y e)<br>D.O. 31.03.2017</a></span> por este decreto, comenzar&#xE1;n a regir para 1&#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2017 y para 2 &#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2018.</div><br></div>"
+        },
+        {
+          "part_id": 9785550,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; bis: Apru&#xE9;banse los siguientes<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 a)<br>D.O. 31.03.2017</a></span> programas de estudio para 1&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las siguientes asignaturas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Lengua y Literatura.</div><div class=\"p\">&nbsp; &nbsp;  2. Idioma extranjero: Ingl&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  3. Matem&#xE1;tica.</div><div class=\"p\">&nbsp; &nbsp;  4. Historia, Geograf&#xED;a y Ciencias Sociales.</div><div class=\"p\">&nbsp; &nbsp;  5. Ciencias Naturales.</div><div class=\"p\">&nbsp; &nbsp;  6. Educaci&#xF3;n F&#xED;sica y Salud.</div><div class=\"p\">&nbsp; &nbsp;  7. Orientaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; bis: Apru&#xE9;banse los siguientes<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 a)<br>D.O. 31.03.2017</a></span> programas de estudio para 1&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las siguientes asignaturas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Lengua y Literatura.</div><div class=\"p\">&nbsp; &nbsp;  2. Idioma extranjero: Ingl&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  3. Matem&#xE1;tica.</div><div class=\"p\">&nbsp; &nbsp;  4. Historia, Geograf&#xED;a y Ciencias Sociales.</div><div class=\"p\">&nbsp; &nbsp;  5. Ciencias Naturales.</div><div class=\"p\">&nbsp; &nbsp;  6. Educaci&#xF3;n F&#xED;sica y Salud.</div><div class=\"p\">&nbsp; &nbsp;  7. Orientaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  8. Artes Visuales.</div><div class=\"p\">&nbsp; <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1105641&amp;idParte=9816224&amp;idVersion=2017-07-25\">Decreto 768 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 2<br>D.O. 25.07.2017</a></span>&nbsp;  9. M&#xFA;sica.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9785551,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; ter: Apru&#xE9;banse los siguientes programas<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 b)<br>D.O. 31.03.2017</a></span> de estudio para 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las siguientes asignaturas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Idioma extranjero: Ingl&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  2. Matem&#xE1;tica.</div><div class=\"p\">&nbsp; &nbsp;  3. Historia, Geograf&#xED;a y Ciencias Sociales.</div><div class=\"p\">&nbsp; &nbsp;  4. Ciencias Naturales.</div><div class=\"p\">&nbsp; &nbsp;  5. Educaci&#xF3;n F&#xED;sica y Salud.</div><div class=\"p\">&nbsp; &nbsp;  6. Orientaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; ter: Apru&#xE9;banse los siguientes programas<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 b)<br>D.O. 31.03.2017</a></span> de estudio para 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las siguientes asignaturas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Idioma extranjero: Ingl&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  2. Matem&#xE1;tica.</div><div class=\"p\">&nbsp; &nbsp;  3. Historia, Geograf&#xED;a y Ciencias Sociales.</div><div class=\"p\">&nbsp; &nbsp;  4. Ciencias Naturales.</div><div class=\"p\">&nbsp; &nbsp;  5. Educaci&#xF3;n F&#xED;sica y Salud.</div><div class=\"p\">&nbsp; &nbsp;  6. Orientaci&#xF3;n.</div></div>"
+        },
+        {
+          "part_id": 9785552,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; bis: Decl&#xE1;rese oficial la versi&#xF3;n de<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 c)<br>D.O. 31.03.2017</a></span> los programas de estudio para 1&#xBA; y 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las asignaturas indicadas en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, que el Ministerio de Educaci&#xF3;n pondr&#xE1; a disposici&#xF3;n de todos los establecimientos educacionales, a trav&#xE9;s de su p&#xE1;gina web (www.mineduc.cl).</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; bis: Decl&#xE1;rese oficial la versi&#xF3;n de<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 c)<br>D.O. 31.03.2017</a></span> los programas de estudio para 1&#xBA; y 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las asignaturas indicadas en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, que el Ministerio de Educaci&#xF3;n pondr&#xE1; a disposici&#xF3;n de todos los establecimientos educacionales, a trav&#xE9;s de su p&#xE1;gina web (www.mineduc.cl).</div></div>"
+        },
+        {
+          "part_id": 9785553,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; bis: Der&#xF3;ganse las disposiciones contenidas<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 f)<br>D.O. 31.03.2017</a></span> en los decretos exentos Nos 77, de 1999; 83, de 2000; 1.358, de 2011; 169, de 2014 y 2.398, de 2015, todos del Ministerio de Educaci&#xF3;n, relativas a los programas de estudio se&#xF1;alados en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, para 1&#xBA; y 2&#xBA; a&#xF1;o de educaci&#xF3;n media.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; bis: Der&#xF3;ganse las disposiciones contenidas<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 f)<br>D.O. 31.03.2017</a></span> en los decretos exentos Nos 77, de 1999; 83, de 2000; 1.358, de 2011; 169, de 2014 y 2.398, de 2015, todos del Ministerio de Educaci&#xF3;n, relativas a los programas de estudio se&#xF1;alados en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, para 1&#xBA; y 2&#xBA; a&#xF1;o de educaci&#xF3;n media.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1105641,
+      "fecha": "2017-07-25"
+    }
+  },
+  {
+    "fecha": "2018-01-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9745461,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: El plan y los programas de estudio para 1&#xB0; y 2 &#xB0; a&#xF1;o de Educaci&#xF3;n Media que se aprueban<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 d) y e)<br>D.O. 31.03.2017</a></span> por este decreto, comenzar&#xE1;n a regir para 1&#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2017 y para 2 &#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2018.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: El plan y los programas de estudio para 1&#xB0; y 2 &#xB0; a&#xF1;o de Educaci&#xF3;n Media que se aprueban<span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 d) y e)<br>D.O. 31.03.2017</a></span> por este decreto, comenzar&#xE1;n a regir para 1&#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2017 y para 2 &#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2018.</div><br></div>"
+        },
+        {
+          "part_id": 9785550,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; bis: Apru&#xE9;banse los siguientes<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 a)<br>D.O. 31.03.2017</a></span> programas de estudio para 1&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las siguientes asignaturas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Lengua y Literatura.</div><div class=\"p\">&nbsp; &nbsp;  2. Idioma extranjero: Ingl&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  3. Matem&#xE1;tica.</div><div class=\"p\">&nbsp; &nbsp;  4. Historia, Geograf&#xED;a y Ciencias Sociales.</div><div class=\"p\">&nbsp; &nbsp;  5. Ciencias Naturales.</div><div class=\"p\">&nbsp; &nbsp;  6. Educaci&#xF3;n F&#xED;sica y Salud.</div><div class=\"p\">&nbsp; &nbsp;  7. Orientaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  8. Artes Visuales.</div><div class=\"p\">&nbsp; <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1105641&amp;idParte=9816224&amp;idVersion=2017-07-25\">Decreto 768 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 2<br>D.O. 25.07.2017</a></span>&nbsp;  9. M&#xFA;sica.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; bis: Apru&#xE9;banse los siguientes<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 a)<br>D.O. 31.03.2017</a></span> programas de estudio para 1&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las siguientes asignaturas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Lengua y Literatura.</div><div class=\"p\">&nbsp; &nbsp;  2. Idioma extranjero: Ingl&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  3. Matem&#xE1;tica.</div><div class=\"p\">&nbsp; &nbsp;  4. Historia, Geograf&#xED;a y Ciencias Sociales.</div><div class=\"p\">&nbsp; &nbsp;  5. Ciencias Naturales.</div><div class=\"p\">&nbsp; &nbsp;  6. Educaci&#xF3;n F&#xED;sica y Salud.</div><div class=\"p\">&nbsp; &nbsp;  7. Orientaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  8. Artes Visuales.</div><div class=\"p\">&nbsp; &nbsp;  9<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1105641&amp;idParte=9816224&amp;idVersion=2017-07-25\">Decreto 768 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 2<br>D.O. 25.07.2017</a></span>. M&#xFA;sica.</div><div class=\"p\">&nbsp; &nbsp;  10. <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1113957&amp;idParte=9877847&amp;idVersion=2018-01-22\">Decreto 6 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 2 a)<br>D.O. 22.01.2018</a></span>Tecnolog&#xED;a.</div><br><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 9785551,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; ter: Apru&#xE9;banse los siguientes programas<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 b)<br>D.O. 31.03.2017</a></span> de estudio para 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las siguientes asignaturas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Idioma extranjero: Ingl&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  2. Matem&#xE1;tica.</div><div class=\"p\">&nbsp; &nbsp;  3. Historia, Geograf&#xED;a y Ciencias Sociales.</div><div class=\"p\">&nbsp; &nbsp;  4. Ciencias Naturales.</div><div class=\"p\">&nbsp; &nbsp;  5. Educaci&#xF3;n F&#xED;sica y Salud.</div><div class=\"p\">&nbsp; &nbsp;  6. Orientaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; ter: Apru&#xE9;banse los siguientes programas<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 b)<br>D.O. 31.03.2017</a></span> de estudio para 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las siguientes asignaturas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Idioma extranjero: Ingl&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  2. Matem&#xE1;tica.</div><div class=\"p\">&nbsp; &nbsp;  3. Historia, Geograf&#xED;a y Ciencias Sociales.</div><div class=\"p\">&nbsp; &nbsp;  4. Ciencias Naturales.</div><div class=\"p\">&nbsp; &nbsp;  5. Educaci&#xF3;n F&#xED;sica y Salud.</div><div class=\"p\">&nbsp; &nbsp;  6. Orientaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  7. Lengua y Li<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1113957&amp;idParte=9877847&amp;idVersion=2018-01-22\">Decreto 6 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 2 b)<br>D.O. 22.01.2018</a></span>teratura.</div><div class=\"p\">&nbsp; &nbsp;  8. Artes Visuales.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9785552,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; bis: Decl&#xE1;rese oficial la versi&#xF3;n de<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 c)<br>D.O. 31.03.2017</a></span> los programas de estudio para 1&#xBA; y 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las asignaturas indicadas en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, que el Ministerio de Educaci&#xF3;n pondr&#xE1; a disposici&#xF3;n de todos los establecimientos educacionales, a trav&#xE9;s de su p&#xE1;gina web (www.mineduc.cl).</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; bis: Decl&#xE1;rese oficial la versi&#xF3;n de<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 c)<br>D.O. 31.03.2017</a></span> los programas de estudio para 1&#xBA; y 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las asignaturas indicadas en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, que el Ministerio de Educaci&#xF3;n pondr&#xE1; a disposici&#xF3;n de todos los establecimientos educacionales, a trav&#xE9;s de su p&#xE1;gina web (www.mineduc.cl).</div></div>"
+        },
+        {
+          "part_id": 9785553,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; bis: Der&#xF3;ganse las disposiciones contenidas<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 f)<br>D.O. 31.03.2017</a></span> en los decretos exentos Nos 77, de 1999; 83, de 2000; 1.358, de 2011; 169, de 2014 y 2.398, de 2015, todos del Ministerio de Educaci&#xF3;n, relativas a los programas de estudio se&#xF1;alados en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, para 1&#xBA; y 2&#xBA; a&#xF1;o de educaci&#xF3;n media.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; bis: Der&#xF3;ganse las disposiciones contenidas<span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 f)<br>D.O. 31.03.2017</a></span> en los decretos exentos Nos 77, de 1999; 83, de 2000; 1.358, de 2011; 169, de 2014 y 2.398, de 2015, todos del Ministerio de Educaci&#xF3;n, relativas a los programas de estudio se&#xF1;alados en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, para 1&#xBA; y 2&#xBA; a&#xF1;o de educaci&#xF3;n media.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1113957,
+      "fecha": "2018-01-22"
+    }
+  },
+  {
+    "fecha": "2018-03-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9745461,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: El plan y los programas de estudio para 1&#xB0; y 2 &#xB0; a&#xF1;o de Educaci&#xF3;n Media que se aprueban<span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 d) y e)<br>D.O. 31.03.2017</a></span> por este decreto, comenzar&#xE1;n a regir para 1&#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2017 y para 2 &#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2018.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: El plan y los programas de estudio para 1&#xB0; y 2 &#xB0; a&#xF1;o de Educaci&#xF3;n Media que se aprueban<span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 d) y e)<br>D.O. 31.03.2017</a></span> por este decreto, comenzar&#xE1;n a regir para 1&#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2017 y para 2 &#xB0; a&#xF1;o medio a partir del a&#xF1;o escolar 2018.</div><br></div>"
+        },
+        {
+          "part_id": 9785551,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; ter: Apru&#xE9;banse los siguientes programas<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 b)<br>D.O. 31.03.2017</a></span> de estudio para 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las siguientes asignaturas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Idioma extranjero: Ingl&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  2. Matem&#xE1;tica.</div><div class=\"p\">&nbsp; &nbsp;  3. Historia, Geograf&#xED;a y Ciencias Sociales.</div><div class=\"p\">&nbsp; &nbsp;  4. Ciencias Naturales.</div><div class=\"p\">&nbsp; &nbsp;  5. Educaci&#xF3;n F&#xED;sica y Salud.</div><div class=\"p\">&nbsp; &nbsp;  6. Orientaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  7. Lengua y Li<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1113957&amp;idParte=9877847&amp;idVersion=2018-01-22\">Decreto 6 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 2 b)<br>D.O. 22.01.2018</a></span>teratura.</div><div class=\"p\">&nbsp; &nbsp;  8. Artes Visuales.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; ter: Apru&#xE9;banse los siguientes programas<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 b)<br>D.O. 31.03.2017</a></span> de estudio para 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las siguientes asignaturas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Idioma extranjero: Ingl&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  2. Matem&#xE1;tica.</div><div class=\"p\">&nbsp; &nbsp;  3. Historia, Geograf&#xED;a y Ciencias Sociales.</div><div class=\"p\">&nbsp; &nbsp;  4. <span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1113957&amp;idParte=9877847&amp;idVersion=2018-01-22\">Decreto 6 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 2 b)<br>D.O. 22.01.2018</a></span>Ciencias Naturales.</div><div class=\"p\">&nbsp; &nbsp;  5. Educaci&#xF3;n F&#xED;sica y Salud.</div><div class=\"p\">&nbsp; &nbsp;  6. Orientaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  7. Lengua y Literatura.</div><div class=\"p\">&nbsp; &nbsp;  8. Artes Visuales.</div><div class=\"p\">&nbsp; &nbsp;  9<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1116278&amp;idParte=9895009&amp;idVersion=2018-03-17\">Decreto 216 EXENTO, <br>EDUCACI&#xD3;N<br>Art. 2 b)<br>D.O. 17.03.2018</a></span>. M&#xFA;sica.</div><div class=\"p\">&nbsp; &nbsp;  10. Tecnolog&#xED;a.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 9785552,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; bis: Decl&#xE1;rese oficial la versi&#xF3;n de<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 c)<br>D.O. 31.03.2017</a></span> los programas de estudio para 1&#xBA; y 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las asignaturas indicadas en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, que el Ministerio de Educaci&#xF3;n pondr&#xE1; a disposici&#xF3;n de todos los establecimientos educacionales, a trav&#xE9;s de su p&#xE1;gina web (www.mineduc.cl).</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; bis: Decl&#xE1;rese oficial la versi&#xF3;n de<span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 c)<br>D.O. 31.03.2017</a></span> los programas de estudio para 1&#xBA; y 2&#xBA; a&#xF1;o de Educaci&#xF3;n Media, correspondientes a las asignaturas indicadas en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, que el Ministerio de Educaci&#xF3;n pondr&#xE1; a disposici&#xF3;n de todos los establecimientos educacionales, a trav&#xE9;s de su p&#xE1;gina web (www.mineduc.cl).</div></div>"
+        },
+        {
+          "part_id": 9785553,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; bis: Der&#xF3;ganse las disposiciones contenidas<span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 f)<br>D.O. 31.03.2017</a></span> en los decretos exentos Nos 77, de 1999; 83, de 2000; 1.358, de 2011; 169, de 2014 y 2.398, de 2015, todos del Ministerio de Educaci&#xF3;n, relativas a los programas de estudio se&#xF1;alados en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, para 1&#xBA; y 2&#xBA; a&#xF1;o de educaci&#xF3;n media.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; bis: Der&#xF3;ganse las disposiciones contenidas<span class=\"n\" id=\"n_8\"><a href=\"navegar?idNorma=1101447&amp;idParte=9785536&amp;idVersion=2017-03-31\">Decreto 312 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1 f)<br>D.O. 31.03.2017</a></span> en los decretos exentos Nos 77, de 1999; 83, de 2000; 1.358, de 2011; 169, de 2014 y 2.398, de 2015, todos del Ministerio de Educaci&#xF3;n, relativas a los programas de estudio se&#xF1;alados en los art&#xED;culos 2&#xBA; bis y 2&#xBA; ter del presente decreto, para 1&#xBA; y 2&#xBA; a&#xF1;o de educaci&#xF3;n media.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1116278,
+      "fecha": "2018-03-17"
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2008-01-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-02-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7362428,
+          "old": "<div><div class=\"p\">PROH&#xCD;BE CIRCULACI&#xD3;N DE VEH&#xCD;CULOS MOTORIZADOS EN TRAMO DE AV. 11 DE SEPTIEMBRE, ENTRE AV. MANUEL MONTT Y AV. ANTONIO VARAS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 153 exenta.- Santiago, 15 de enero de 2008.- Visto: La ley N&#xBA; 18.059, los art&#xED;culos 113 y 118 de la ley N&#xBA; 18.290, de Tr&#xE1;nsito; el decreto supremo N&#xBA; 83/85 y sus modificaciones, del Ministerio de Transportes y Telecomunicaciones, relativo a Redes Viales B&#xE1;sicas; la resoluci&#xF3;n exenta N&#xBA; 347/87, y las resoluciones N&#xBA; 59/85 y 39/92, todas de la misma Secretar&#xED;a de Estado antes mencionada, y la dem&#xE1;s normativa vigente que resulte aplicable.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que mediante ord. N&#xBA; 401, de 14 de enero de 2008, del Alcalde de la I. Municipalidad de Providencia, se ha solicitado autorizar el cierre de Av. 11 de Septiembre, entre Av. Manuel Montt y Av. Antonio Varas, con la finalidad de realizar obras de mejoramiento de pavimentos y modificaci&#xF3;n de servicios en el sector. Adem&#xE1;s, agrega la autoridad edilicia, que como la circulaci&#xF3;n del transporte p&#xFA;blico deber&#xE1; efectuarse por Av. Providencia, se adoptar&#xE1;n medidas en torno a la demarcaci&#xF3;n, se&#xF1;al&#xE9;tica y ancho de dicha v&#xED;a.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Que, en consecuencia, existe una causa justificada en los t&#xE9;rminos del art&#xED;culo 118 de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">PROH&#xCD;BE CIRCULACI&#xD3;N DE VEH&#xCD;CULOS MOTORIZADOS EN TRAMO DE AV. 11 DE SEPTIEMBRE, ENTRE AV. MANUEL MONTT Y AV. ANTONIO VARAS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 153 exenta.- Santiago, 15 de enero de 2008.- Visto: La ley N&#xBA; 18.059, los art&#xED;culos 113 y 118 de la ley N&#xBA; 18.290, de Tr&#xE1;nsito; el decreto supremo N&#xBA; 83/85 y sus modificaciones, del Ministerio de Transportes y Telecomunicaciones, relativo a Redes Viales B&#xE1;sicas; la resoluci&#xF3;n exenta N&#xBA; 347/87, y las resoluciones N&#xBA; 59/85 y 39/92, todas de la misma Secretar&#xED;a de Estado antes mencionada, y la dem&#xE1;s normativa vigente que resulte aplicable.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que mediante ord. N&#xBA; 401, de 14 de enero de 2008, del Alcalde de la I. Municipalidad de Providencia, se ha solicitado autorizar el cierre de Av. 11 de Septiembre, entre Av. Manuel Montt y Av. Antonio Varas, con la finalidad de realizar obras de mejoramiento de pavimentos y modificaci&#xF3;n de servicios en el sector. Adem&#xE1;s, agrega la autoridad edilicia, que como la circulaci&#xF3;n del transporte p&#xFA;blico deber&#xE1; efectuarse por Av. Providencia, se adoptar&#xE1;n medidas en torno a la demarcaci&#xF3;n, se&#xF1;al&#xE9;tica y ancho de dicha v&#xED;a.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Que, en consecuencia, existe una causa justificada en los t&#xE9;rminos del art&#xED;culo 118 de la ley N&#xBA; 18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 7362429,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;bese la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados por Av. 11 de Septiembre, entre Av. Manuel Montt y Av. Antonio Varas, de la comuna de Providencia, desde las 00:00 horas del d&#xED;a 16 de enero de 2008 y hasta el 31 de enero del mismo a&#xF1;o.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida procedentemente descrita, de conformidad a lo dispuesto en la ley N&#xBA; 18.290.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;bese la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados por Av. 11 de Septiembre, entre Av. Manuel Montt y Av. Antonio Varas, de la comuna de Providencia, desde las 00:00 horas del d&#xED;a 16 de enero de 2008 y hasta el 31 de enero del mismo a&#xF1;o.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  2.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida procedentemente descrita, de conformidad a lo dispuesto en la ley N&#xBA; 18.290.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 383 exenta, Transportes, publicada el 19.02.2008, prorrog&#xF3; el plazo de t&#xE9;rmino de la prohibici&#xF3;n de circulaci&#xF3;n establecida por la presente norma, hasta el d&#xED;a 29 de febrero de 2008.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

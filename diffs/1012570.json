@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-04-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-08-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8970492,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1016543&amp;idParte=8970488&amp;idVersion=2010-08-25\">Decreto 235, EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 25.08.2010</a></span>&nbsp; &nbsp;  Art&#xED;culo Transitorio.- Los alumnos diagnosticados con Trastorno Espec&#xED;fico del Lenguaje y que fueron matriculados en escuelas especiales de lenguaje con anterioridad de la entrada en vigencia del presente decreto, y que a esa fecha ten&#xED;an menos de 3 a&#xF1;os, podr&#xE1;n ser beneficiarios de la subvenci&#xF3;n de necesidades educativas especiales de car&#xE1;cter transitorio de que trata dicho decreto, hasta el t&#xE9;rmino del presente a&#xF1;o escolar.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1016543,
+      "fecha": "2010-08-25"
+    }
+  }
+]

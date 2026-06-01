@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1970-01-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1985-09-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004617,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;- Decl&#xE1;rase que la Asociaci&#xF3;n de Universidades para la Investigaci&#xF3;n en Astronom&#xED;a (AURA) est&#xE1; exenta de los impuestos a la renta y que los bienes ra&#xED;ces de su propiedad est&#xE1;n exentos de contribuciones territoriales.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;- Decl&#xE1;rase, asimismo, que las construcciones y obras que se ejecuten para dicha organizaci&#xF3;n estar&#xE1;n exentas de los siguientes impuestos:</div><div class=\"p\">&nbsp; &nbsp;  a) Del impuesto de compraventa por los materiales que se adquieran para la construcci&#xF3;n de su Observatorio, oficinas y dependencias, como tambi&#xE9;n por los muebles, m&#xE1;quinas y otros bienes que adquiera destinados al equipamiento y alhajamiento de las mencionadas construcciones.</div><div class=\"p\">&nbsp; &nbsp;  b) Del impuesto de cifra de negocios por las prestaciones de servicios que se hagan a dicha organizaci&#xF3;n con motivo de las construcciones mencionadas precedentemente.</div><div class=\"p\">&nbsp; &nbsp;  c) Del Impuesto de Timbres, Estampillas y Papel Sellado por los contratos que se celebren para las proyectadas obras, y</div><div class=\"p\">&nbsp; &nbsp;  d) De los impuestos y derechos municipales que afecten a las construcciones aludidas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;- Decl&#xE1;rase que la Asociaci&#xF3;n de Universidades para la Investigaci&#xF3;n en Astronom&#xED;a (AURA) est&#xE1; exenta de los impuestos a la renta y que los bienes ra&#xED;ces de su propiedad est&#xE1;n exentos de contribuciones territoriales.</div><div class=\"p\">&nbsp; &nbsp; 2&#xBA;.- Decl&#xE1;rase asimismo que la referida Asociaci&#xF3;n<span class=\"n\" id=\"n_0\">DTO 560, HACIENDA<br>Art. 1&#xBA; N&#xBA; 1<br>D.O. 09.09.1985</span> estar&#xE1; exenta del Impuesto establecido en el T&#xED;tulo II del decreto ley No. 825, de 1974, por las adquisiciones de bienes o utilizaci&#xF3;n de servicios destinados a la construcci&#xF3;n, equipamiento y alhajamiento de sus oficinas y dependencias en general, como tambi&#xE9;n por las adquisiciones de bienes o utilizaci&#xF3;n de servicios necesarios para la operaci&#xF3;n de sus observatorios.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, la Asociaci&#xF3;n podr&#xE1; solicitar la devoluci&#xF3;n del impuesto referido en aquellos casos en que no haga valer la exenci&#xF3;n concedida en este n&#xFA;mero. El gasto fiscal que represente la devoluci&#xF3;n se&#xF1;alada precedentemente se imputar&#xE1; al &#xED;tem 50-01-01-03-92.003 &quot;Devoluciones de I.V.A.&quot;, de la Ley de Presupuestos vigente.</div><div class=\"p\">&nbsp; &nbsp; 3&#xBA;.- Decl&#xE1;rase que la referida Asociaci&#xF3;n estar&#xE1;<span class=\"n\" id=\"n_1\">DTO 560, HACIENDA<br>Art. 1&#xBA; N&#xBA; 2<br>D.O. 09.09.1985</span> exenta de los impuestos y derechos municipales que afecten a las construcciones que realice para desarrollar sus actividades en el pa&#xED;s.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

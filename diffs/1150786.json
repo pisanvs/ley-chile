@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-11-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10168636,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente Programa de Expropiaci&#xF3;n para el a&#xF1;o 2019 y siguientes, en la Regi&#xF3;n de Los R&#xED;os, para la adquisici&#xF3;n del lote ubicado en la comuna de Valdivia, a ser destinado a la ejecuci&#xF3;n del proyecto &quot;Construcci&#xF3;n Proyecto Urbano Habitacional de Regeneraci&#xF3;n de &#xC1;reas Centrales - Valdivia&quot;, de la ciudad de Valdivia, seg&#xFA;n pol&#xED;gonos singularizados en el Plano de Expropiaci&#xF3;n Rol 180-23, L&#xE1;mina PEXP-01/01, elaborado a escala 1:500 por Serviu Regi&#xF3;n de Los R&#xED;os, de julio de 2020, y que se se&#xF1;ala a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/114441.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Superficie aproximada inmueble a expropiar: 2.139 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Valdivia, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente Programa de Expropiaci&#xF3;n para el a&#xF1;o <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1151350&amp;idParte=10172877&amp;idVersion=2020-11-05\">Decreto 53 EXENTO,<br>VIVIENDA<br>D.O. 05.11.2020</a></span>2020 y siguientes, en la Regi&#xF3;n de Los R&#xED;os, para la adquisici&#xF3;n del lote ubicado en la comuna de Valdivia, a ser destinado a la ejecuci&#xF3;n del proyecto &quot;Construcci&#xF3;n Proyecto Urbano Habitacional de Regeneraci&#xF3;n de &#xC1;reas Centrales - Valdivia&quot;, de la ciudad de Valdivia, seg&#xFA;n pol&#xED;gonos singularizados en el Plano de Expropiaci&#xF3;n Rol 180-23, L&#xE1;mina PEXP-01/01, elaborado a escala 1:500 por Serviu Regi&#xF3;n de Los R&#xED;os, de julio de 2020, y que se se&#xF1;ala a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/114441.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Superficie aproximada inmueble a expropiar: 2.139 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Valdivia, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1151350,
+      "fecha": "2020-11-05"
+    }
+  }
+]

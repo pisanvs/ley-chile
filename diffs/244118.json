@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2005-11-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8430035,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para la estimaci&#xF3;n de las emisiones proveniente de los rubros, actividades o tipo de fuentes se&#xF1;alados en el art&#xED;culo precedente, la autoridad sanitaria utilizar&#xE1; los factores de emisi&#xF3;n existentes, ya sea nacionales o internacionales, seg&#xFA;n corresponda para cada fuente. Para tales efectos, la informaci&#xF3;n sobre los procesos, niveles de producci&#xF3;n, tecnolog&#xED;as de abatimiento y cantidades y tipo de combustibles que empleen las fuentes sujetas a declaraci&#xF3;n, deber&#xE1; proporcionarse anualmente a la correspondiente Secretar&#xED;a Regional Ministerial de Salud en los formularios que &#xE9;sta proveer&#xE1; para ello.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para la estimaci&#xF3;n de las emisiones proveniente de los rubros, actividades o tipo de fuentes se&#xF1;alados en el art&#xED;culo precedente, la autoridad sanitaria utilizar&#xE1; los factores de emisi&#xF3;n existentes, ya sea nacionales o internacionales, seg&#xFA;n corresponda para cada fuente. Para tales efectos, la informaci&#xF3;n sobre los procesos, niveles de producci&#xF3;n, tecnolog&#xED;as de abatimiento y cantidades y tipo de combustibles que empleen las fuentes sujetas a declaraci&#xF3;n, deber&#xE1;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1022219&amp;idParte=9102007&amp;idVersion=2011-01-20\">Decreto 90,<br>SALUD<br>N&#xB0; 1<br>D.O. 20.01.2011</a></span> proporcionarse anualmente, antes del 1&#xBA; de mayo de cada a&#xF1;o, a trav&#xE9;s de la p&#xE1;gina web del Ministerio de Salud o del dominio www.declaracionemision.cl por medio del software dispuesto para tales efectos en ellas.</div><br><br></div>"
+        },
+        {
+          "part_id": 8430037,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- La informaci&#xF3;n entregada por los titulares de las fuentes a la autoridad sanitaria para que &#xE9;sta realice las estimaciones tendr&#xE1; el car&#xE1;cter de confidencial seg&#xFA;n corresponda conforme a la ley. De acuerdo con ello, los diagn&#xF3;sticos regionales sobre las emisiones de contaminantes atmosf&#xE9;ricos se generar&#xE1;n en forma innominada, sin la identificaci&#xF3;n de las fuentes, y en forma agregada por comuna, provincia o regi&#xF3;n, de manera de asegurar que se mantenga la confidencialidad de los datos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Las estimaciones<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1022219&amp;idParte=9102007&amp;idVersion=2011-01-20\">Decreto 90,<br>SALUD<br>N&#xB0; 2<br>D.O. 20.01.2011</a></span> de emisiones realizadas por el sector salud o por los titulares de las fuentes, previa validaci&#xF3;n de esta &#xFA;ltima por parte del Ministerio de Salud, tendr&#xE1; el car&#xE1;cter de p&#xFA;blica seg&#xFA;n corresponda conforme a la ley.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1022219,
+      "fecha": "2011-01-20"
+    }
+  }
+]

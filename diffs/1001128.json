@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-04-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2026-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8531610,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile las siguientes Normas Chilenas con su respectivo c&#xF3;digo y t&#xED;tulo de identificaci&#xF3;n:</div><br><div class=\"p\">NCh2011.Of2009&nbsp; &nbsp; Interruptores para instalaciones el&#xE9;ctricas fijas dom&#xE9;sticas y similares - Requisitos generales.</div><br><div class=\"p\">NCh2018/1.Of2009&nbsp; Tuber&#xED;as y accesorios para instalaciones de cables el&#xE9;ctricos - Parte I: Requisitos generales.</div><br><div class=\"p\">NCh2631/1.Of2009&nbsp; Incertidumbre - Parte 1: Gu&#xED;a para la expresi&#xF3;n de la incertidumbre de medida en la calibraci&#xF3;n.</div><br><div class=\"p\">NCh2797.Of2009&nbsp; &nbsp; Acuerdos de Producci&#xF3;n Limpia (APL) - Especificaciones.</div><br><div class=\"p\">NCh2807.Of2009&nbsp; &nbsp; Acuerdos de Producci&#xF3;n Limpia (APL) - Seguimiento y control, evaluaci&#xF3;n de la conformidad y certificaci&#xF3;n.</div><br><div class=\"p\">NCh2825.Of2009&nbsp; &nbsp; Acuerdos de Producci&#xF3;n Limpia (APL) - Requisitos para los auditores y procedimiento de la auditor&#xED;a de evaluaci&#xF3;n de la conformidad.</div><br><div class=\"p\">NCh3157.Of2009&nbsp; &nbsp; Envases - Marcas t&#xE1;ctiles de peligro - Requisitos.</div><br><div class=\"p\">NCh3179.Of2009&nbsp; &nbsp; Evaluaci&#xF3;n de la conformidad - Directrices para un sistema de certificaci&#xF3;n de tercera parte para productos.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile las siguientes Normas Chilenas con su respectivo c&#xF3;digo y t&#xED;tulo de identificaci&#xF3;n:</div><br><div class=\"p\">NCh2011.Of2009&nbsp; &nbsp; Interruptores para instalaciones el&#xE9;ctricas fijas dom&#xE9;sticas y similares - Requisitos generales.</div><br><div class=\"p\">NCh2018/1.Of2009&nbsp; Tuber&#xED;as y accesorios para instalaciones de cables el&#xE9;ctricos - Parte I: Requisitos generales.</div><br><div class=\"p\">NCh2631/1.Of2009&nbsp; Incertidumbre - Parte 1: Gu&#xED;a para la expresi&#xF3;n de la incertidumbre de medida en la calibraci&#xF3;n.</div><br><div class=\"p\">NCh2797.Of2009&nbsp; &nbsp; Anulada y reemplazada.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1221041&amp;idParte=10581664&amp;idVersion=2026-02-03\">Resoluci&#xF3;n 202600179 EXENTA,<br>ECONOM&#xCD;A<br>Art. segundo<br>D.O. 03.02.2026</a></span></div><br><div class=\"p\">NCh2807.Of2009&nbsp; &nbsp; Acuerdos de Producci&#xF3;n Limpia (APL) - Seguimiento y control, evaluaci&#xF3;n de la conformidad y certificaci&#xF3;n.</div><br><div class=\"p\">NCh2825.Of2009&nbsp; &nbsp; Anulada y reemplazada.<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1221041&amp;idParte=10581664&amp;idVersion=2026-02-03\">Resoluci&#xF3;n 202600179 EXENTA,<br>ECONOM&#xCD;A<br>Art. segundo<br>D.O. 03.02.2026</a></span></div><br><div class=\"p\">NCh3157.Of2009&nbsp; &nbsp; Envases - Marcas t&#xE1;ctiles de peligro - Requisitos.</div><br><div class=\"p\">NCh3179.Of2009&nbsp; &nbsp; Evaluaci&#xF3;n de la conformidad - Directrices para un sistema de certificaci&#xF3;n de tercera parte para productos.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1221041,
+      "fecha": "2026-02-03"
+    }
+  }
+]

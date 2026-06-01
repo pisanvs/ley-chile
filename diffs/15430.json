@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1994-07-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-02-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8265711,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;: Para el solo efecto de la asesor&#xED;a al Presidente de la Rep&#xFA;blica dispuesta por el art&#xED;culo 11 inciso 1&#xB0; de la Ley N&#xB0; 19.234, la Comisi&#xF3;n Especial, creada por el art&#xED;culo 2&#xB0; del Decreto Supremo N&#xB0; 1.928, de Interior, de 1981, se integrar&#xE1;, adem&#xE1;s, por el Coordinador Nacional del Programa de Reconocimiento al Exonerado Pol&#xED;tico del Ministerio del Interior y 4 representantes m&#xE1;s de esta Cartera de Estado, los que presididos por aqu&#xE9;l y mientras se mantenga el aludido Programa se abocar&#xE1;n exclusivamente a la funci&#xF3;n a la que se refiere la ley citada, debiendo sesionar con tres de sus miembros, a lo menos.</div><div class=\"p\">&nbsp; &nbsp; Los actuales miembros de la Comisi&#xF3;n Especial designados con anterioridad a la dictaci&#xF3;n del presente decreto, continuar&#xE1;n asesorando al Presidente de la Rep&#xFA;blica en el estudio de las solicitudes de las pensiones de gracia que se sometan a su consideraci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;: Para el solo efecto de la asesor&#xED;a al Presidente de la Rep&#xFA;blica dispuesta por el art&#xED;culo 11 inciso 1&#xB0; de la Ley N&#xB0; 19.234, la Comisi&#xF3;n Especial, creada por el art&#xED;culo 2&#xB0; del Decreto Supremo N&#xB0; 1.928, de Interior, de 1981, se integrar&#xE1;, adem&#xE1;s, por el Coordinador Nacional del Programa de Reconocimiento al Exonerado Pol&#xED;tico del Ministerio del Interior y 4 representantes m&#xE1;s de esta Cartera de Estado, los que presididos por aqu&#xE9;l y mientras se mantenga el aludido Programa se abocar&#xE1;n exclusivamente a la funci&#xF3;n a la que se refiere la ley citada, debiendo sesionar con tres de sus miembros, a lo menos.</div><div class=\"p\">&nbsp; &nbsp; Los actuales miembros de la Comisi&#xF3;n Especial designados con anterioridad a la dictaci&#xF3;n del presente decreto, continuar&#xE1;n asesorando al Presidente de la Rep&#xFA;blica en el estudio de las solicitudes de las pensiones de gracia que se sometan a su consideraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El Ministro del Interior y Seguridad P&#xFA;blica designar&#xE1;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1037405&amp;idParte=9237933&amp;idVersion=2012-02-18\">Decreto 716, INTERIOR<br>N&#xB0; 1<br>D.O. 18.02.2012</a></span> suplentes de los cuatro representantes de esta Cartera de Estado, a que se alude en el inciso primero del presente art&#xED;culo, quienes los reemplazar&#xE1;n en sus funciones con derecho a voz y voto, en aquellos casos en que falte el titular. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1037405,
+      "fecha": "2012-02-18"
+    }
+  }
+]

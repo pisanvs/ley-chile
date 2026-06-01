@@ -1,0 +1,50 @@
+[
+  {
+    "fecha": "2020-01-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-06-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10091148,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Determ&#xED;nase que en los casos de ausencia temporal o accidental del Contralor General ser&#xE1; subrogado por los siguientes funcionarios, en el orden que se indica:</div><br><div class=\"p\">N&#xBA;&nbsp; NOMBRE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  RUT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CARGO&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  GRADO</div><div class=\"p\">1&nbsp;  Vargas Zincke,&nbsp;  9.391.065-6&nbsp; &nbsp; Jefe de Divisi&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; 2&#xBA;</div><div class=\"p\">&nbsp; &nbsp; Osvaldo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  de Infraestructura </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; y Regulaci&#xF3;n</div><div class=\"p\">2&nbsp;  Orrego Ahumada,&nbsp; 12.850.284-K&nbsp;  Secretario General&nbsp; &nbsp; &nbsp; 2&#xBA;</div><div class=\"p\">&nbsp; &nbsp; Ver&#xF3;nica</div><br><div class=\"p\">3&nbsp;  Roa Moraga,&nbsp; &nbsp; &nbsp; 10.500.554-7&nbsp;  Fiscal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2&#xBA;</div><div class=\"p\">&nbsp; &nbsp; Doris</div><div class=\"p\">4&nbsp;  Frindt Rada,&nbsp; &nbsp;  7.006.487-1&nbsp; &nbsp; Jefe de Divisi&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; 2&#xBA;</div><div class=\"p\">&nbsp; &nbsp; Mar&#xED;a Soledad&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  de Contabilidad</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; y Finanzas P&#xFA;blicas</div><br><br><br><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto la resoluci&#xF3;n exenta N&#xBA; 4.150, de 2018, de esta Contralor&#xED;a General.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Determ&#xED;nase que en los casos de ausencia temporal o accidental del Contralor General ser&#xE1; subrogado por los siguientes funcionarios, en el orden que se <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1146304&amp;idParte=10126667&amp;idVersion=2020-06-08\">Resoluci&#xF3;n 2280 EXENTA,<br>CONTRALORIA GRAL.<br>D.O. 08.06.2020</a></span>indica:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/109559.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto la resoluci&#xF3;n exenta N&#xBA; 4.150, de 2018, de esta Contralor&#xED;a General.</div><div class=\"p\"> </div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-02-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10091148,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Determ&#xED;nase que en los casos de ausencia temporal o accidental del Contralor General ser&#xE1; subrogado por los siguientes funcionarios, en el orden que se <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1146304&amp;idParte=10126667&amp;idVersion=2020-06-08\">Resoluci&#xF3;n 2280 EXENTA,<br>CONTRALORIA GRAL.<br>D.O. 08.06.2020</a></span>indica:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/109559.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto la resoluci&#xF3;n exenta N&#xBA; 4.150, de 2018, de esta Contralor&#xED;a General.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Determ&#xED;nase que en los casos de ausencia temporal o accidental del Contralor General ser&#xE1; subrogado por los siguientes funcionarios, en el orden que se indic<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1155739&amp;idParte=10200970&amp;idVersion=2021-02-09\">Resoluci&#xF3;n 647 EXENTA,<br>CONTRALORIA GRAL.<br>D.O. 09.02.2021</a></span>a:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/119804.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto la resoluci&#xF3;n exenta N&#xBA; 4.150, de 2018, de esta Contralor&#xED;a General.</div><div class=\"p\"> </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1155739,
+      "fecha": "2021-02-09"
+    }
+  },
+  {
+    "fecha": "2024-11-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

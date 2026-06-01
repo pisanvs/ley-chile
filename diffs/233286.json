@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-01-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7316788,
+          "old": "<div><div class=\"p\">ESTABLECE OBLIGACION DEL FONDO MIXTO DE APOYO SOCIAL, DE INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS, LAS DONACIONES SOCIALES RECIBIDAS DE ACUERDO AL ARTICULO 1&#xBA; DE LA LEY 19.885 </div></div>",
+          "new": "<div><div class=\"p\">ESTABLECE OBLIGACION DEL FONDO MIXTO DE APOYO SOCIAL, DE INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS, LAS DONACIONES SOCIALES RECIBIDAS DE ACUERDO AL ARTICULO 1&#xBA; DE LA LEY 19.885</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

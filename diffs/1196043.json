@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2023-11-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2026-02-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10457966,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9.- Secretario o Secretaria T&#xE9;cnica de la Comisi&#xF3;n. El Secretario o la Secretaria T&#xE9;cnica de la Comisi&#xF3;n tendr&#xE1; la calidad de ministro de fe de sus actuaciones, deliberaciones y acuerdos, y efectuar&#xE1; las funciones que se indican en el inciso siguiente.</div><div class=\"p\">&nbsp; &nbsp;  Quien ejerza la Secretar&#xED;a T&#xE9;cnica de la Comisi&#xF3;n tendr&#xE1; las siguientes atribuciones:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Levantar, custodiar y publicar las actas de sus sesiones en el sitio web de la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. Asistir a quien ejerza la Presidencia de la Comisi&#xF3;n en el cumplimiento de sus funciones y atribuciones.</div><div class=\"p\">&nbsp; &nbsp;  3. Citar a las sesiones ordinarias y extraordinarias de la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4. Mantener actualizado el registro al que se refiere el art&#xED;culo 3 letra c).</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  La designaci&#xF3;n para el cargo de Secretario T&#xE9;cnico o Secretaria T&#xE9;cnica se realizar&#xE1;, previo concurso p&#xFA;blico, por los integrantes de la Comisi&#xF3;n mediante acuerdo que ser&#xE1; publicado en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9.- Secretario o Secretaria T&#xE9;cnica de la Comisi&#xF3;n. El Secretario o la Secretaria T&#xE9;cnica de la Comisi&#xF3;n tendr&#xE1; la calidad de ministro de fe de sus actuaciones, deliberaciones y acuerdos, y efectuar&#xE1; las funciones que se indican en el inciso siguiente.</div><div class=\"p\">&nbsp; &nbsp;  Quien ejerza la Secretar&#xED;a T&#xE9;cnica de la Comisi&#xF3;n tendr&#xE1; las siguientes atribuciones:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Levantar, custodiar y publicar las actas de sus sesiones en el sitio web de la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. Asistir a quien ejerza la Presidencia de la Comisi&#xF3;n en el cumplimiento de sus funciones y atribuciones.</div><div class=\"p\">&nbsp; &nbsp;  3. Citar a las sesiones ordinarias y extraordinarias de la Comisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4. Mantener actualizado el registro al que se refiere el art&#xED;culo 3 letra c).</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  La designaci&#xF3;n para el cargo de Secretario T&#xE9;cnico o Secretaria T&#xE9;cnica se realizar&#xE1;, previo concurso p&#xFA;blico, por los integrantes de la Comisi&#xF3;n mediante acuerdo que ser&#xE1; publicado en el Diario Oficial. <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1221118&amp;idParte=10582367&amp;idVersion=2026-02-05\">Ley 21806<br>Art&#xED;culo 114<br>D.O. 05.02.2026</a></span>Dicho cargo ser&#xE1; a contrata grado 7 de la Escala &#xDA;nica de Sueldos, correspondiente a la Subsecretar&#xED;a de Hacienda, considerando la asignaci&#xF3;n del art&#xED;culo 12 de la ley N&#xBA; 19.041.&nbsp;  </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1221118,
+      "fecha": "2026-02-05"
+    }
+  }
+]

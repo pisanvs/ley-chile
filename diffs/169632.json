@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-02-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1984-12-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6278458,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO SANITARIO DE CAMPING O CAMPAMENTOS DE TURISMO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 14 de Noviembre de 1978.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 298.- Vistos: estos antecedentes; lo dispuesto en la letra d) del Art. 77&#xBA; del C&#xF3;digo Sanitario, y teniendo presente la facultad que me confiere el N&#xBA; 2 del Art. 72&#xBA; de la Constituci&#xF3;n Pol&#xED;tica del Estado, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento Sanitario de Camping o Campamentos de Turismo, sin perjuicio de lo dispuesto en el decreto supremo N&#xBA; 55, de 1970, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO SANITARIO DE CAMPING O CAMPAMENTOS DE TURISMO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 14 de Noviembre de 1978.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 298.- Vistos: estos antecedentes; lo dispuesto en la letra d) del Art. 77&#xBA; del C&#xF3;digo Sanitario, y teniendo presente la facultad que me confiere el N&#xBA; 2 del Art. 72&#xBA; de la Constituci&#xF3;n Pol&#xED;tica del Estado, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento Sanitario de Camping o Campamentos de Turismo, sin perjuicio de lo dispuesto en el decreto supremo N&#xBA; 55, de 1970, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

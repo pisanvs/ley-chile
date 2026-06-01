@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-06-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-09-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9375526,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1054558&amp;idParte=9375519&amp;idVersion=2013-09-28\">AVISO S/N, TRANSPORTES<br>D.O. 28.09.2013</a></span>&nbsp; &nbsp;  CONTRALOR&#xCD;A GENERAL DE LA REP&#xDA;BLICA</div><div class=\"p\">&nbsp; &nbsp;  Divisi&#xF3;n de Infraestructura y Regulaci&#xF3;n Subdivisi&#xF3;n Jur&#xED;dica</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">Cursa con alcance el decreto N&#xBA; 278, de 2010, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 25.895.- Santiago, 29 de abril de 2013.</div><div class=\"p\">&nbsp; &nbsp;  La Contralor&#xED;a General ha tomado raz&#xF3;n del acto administrativo individualizado en el rubro, que renueva una concesi&#xF3;n de Servicio P&#xFA;blico de Radiocomunicaci&#xF3;n Buscapersona a la empresa &quot;Gente de Comunicaci&#xF3;n Limitada&quot; -que hab&#xED;a sido representado a trav&#xE9;s del oficio N&#xBA; 3.950, de 2011, de esta Entidad de Control-, teniendo presente lo se&#xF1;alado en los art&#xED;culos 8&#xBA;, inciso tercero, y 9&#xBA; bis de la Ley N&#xBA; 18.168, General de Telecomunicaciones en orden a que el plazo de 30 a&#xF1;os de las concesiones para servicios p&#xFA;blicos de telecomunicaciones es renovable por periodos iguales, a solicitud de parte interesada, y lo expresado, en lo pertinente, en el oficio N&#xBA; 661, de 21 de enero de 2013, de la Subsecretar&#xED;a de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a Ud.- Por orden del Contralor General de la Republica, Jefe Subdivisi&#xF3;n Jur&#xED;dica, Divisi&#xF3;n de Infraestructura y Regulaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Al se&#xF1;or</div><div class=\"p\">&nbsp; &nbsp;  Ministro de Transportes y Telecomunicaciones</div><div class=\"p\">&nbsp; &nbsp;  Presente.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1054558,
+      "fecha": "2013-09-28"
+    }
+  }
+]

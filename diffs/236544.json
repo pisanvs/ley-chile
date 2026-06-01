@@ -1,0 +1,47 @@
+[
+  {
+    "fecha": "1982-02-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-12-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004894,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 183 DE 18 ABRIL 1980</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 20.- Santiago, 26 de Enero de 1982.- Vistos: Lo dispuesto en el art. 11 del Decreto Ley 2974.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 183 DE 18 ABRIL 1980</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 20.- Santiago, 26 de Enero de 1982.- Vistos: Lo dispuesto en el art. 11 del Decreto Ley 2974.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        },
+        {
+          "part_id": 9004895,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la Resoluci&#xF3;n N&#xBA; 183 de 18 de Abril de 1980 que designa Receptores Judiciales a los funcionarios que indica en la forma siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  IX Regi&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  Se elimina a los funcionarios se&#xF1;ores:</div><br><div class=\"p\">&nbsp; &nbsp;  Enrique Vidal Sbinder, Juan Gatica Balboa, Juan Carlos Toloza Villagr&#xE1;n, Sergio Reyes Tat&#xED;n Miguel Parra Villagra, y Luis Arias Contreras.</div><br><div class=\"p\">&nbsp; &nbsp;  Se designa como Receptores Judiciales a los funcionarios se&#xF1;ores:</div><br><div class=\"p\">&nbsp; &nbsp;  It&#xE1;lo del Santo Wandersleben, Alfonso Llanquitruf Curil&#xE9;n, Felismer Burgos Insunza, Salustio &#xD1;ancufil Lonc&#xF3;n, Hip&#xF3;lito Huircap&#xE1;n Dumihual.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la Resoluci&#xF3;n N&#xBA; 183 de 18 de Abril de 1980 que designa Receptores Judiciales a los funcionarios que indica en la forma siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  IX Regi&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  Se elimina a los funcionarios se&#xF1;ores:</div><br><div class=\"p\">&nbsp; &nbsp;  Enrique Vidal Sbinder,</div><div class=\"p\">&nbsp; &nbsp;  Juan Gatica Balboa,</div><div class=\"p\">&nbsp; &nbsp;  Juan Carlos Toloza Villagr&#xE1;n,</div><div class=\"p\">&nbsp; &nbsp;  Sergio Reyes Tat&#xED;n</div><div class=\"p\">&nbsp; &nbsp;  Miguel Parra Villagra, y</div><div class=\"p\">&nbsp; &nbsp;  Luis Arias Contreras.</div><br><div class=\"p\">&nbsp; &nbsp;  Se designa como Receptores Judiciales a los funcionarios se&#xF1;ores:</div><br><div class=\"p\">&nbsp; &nbsp;  It&#xE1;lo del Santo Wandersleben,</div><div class=\"p\">&nbsp; &nbsp;  ELIMINADO,<span class=\"n\" id=\"n_0\">RES 20, AGRICULTURA<br>D.O. 15.12.2004</span></div><div class=\"p\">&nbsp; &nbsp;  Felismer Burgos Insunza,</div><div class=\"p\">&nbsp; &nbsp;  ELIMINADO,</div><div class=\"p\">&nbsp; &nbsp;  ELIMINADO.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2005-04-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004894,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 183 DE 18 ABRIL 1980</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 20.- Santiago, 26 de Enero de 1982.- Vistos: Lo dispuesto en el art. 11 del Decreto Ley 2974.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 183 DE 18 ABRIL 1980</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 20.- Santiago, 26 de Enero de 1982.- Vistos: Lo dispuesto en el art. 11 del Decreto Ley 2974.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9004895,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la Resoluci&#xF3;n N&#xBA; 183 de 18 de Abril de 1980 que designa Receptores Judiciales a los funcionarios que indica en la forma siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  IX Regi&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  Se elimina a los funcionarios se&#xF1;ores:</div><br><div class=\"p\">&nbsp; &nbsp;  Enrique Vidal Sbinder,</div><div class=\"p\">&nbsp; &nbsp;  Juan Gatica Balboa,</div><div class=\"p\">&nbsp; &nbsp;  Juan Carlos Toloza Villagr&#xE1;n,</div><div class=\"p\">&nbsp; &nbsp;  Sergio Reyes Tat&#xED;n</div><div class=\"p\">&nbsp; &nbsp;  Miguel Parra Villagra, y</div><div class=\"p\">&nbsp; &nbsp;  Luis Arias Contreras.</div><br><div class=\"p\">&nbsp; &nbsp;  Se designa como Receptores Judiciales a los funcionarios se&#xF1;ores:</div><br><div class=\"p\">&nbsp; &nbsp;  It&#xE1;lo del Santo Wandersleben,</div><div class=\"p\">&nbsp; &nbsp;  ELIMINADO,<span class=\"n\" id=\"n_0\">RES 20, AGRICULTURA<br>D.O. 15.12.2004</span></div><div class=\"p\">&nbsp; &nbsp;  Felismer Burgos Insunza,</div><div class=\"p\">&nbsp; &nbsp;  ELIMINADO,</div><div class=\"p\">&nbsp; &nbsp;  ELIMINADO.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la Resoluci&#xF3;n N&#xBA; 183 de 18 de Abril de 1980 que designa Receptores Judiciales a los funcionarios que indica en la forma siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  IX Regi&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  Se elimina a los funcionarios se&#xF1;ores:</div><br><div class=\"p\">&nbsp; &nbsp;  Enrique Vidal Sbinder,</div><div class=\"p\">&nbsp; &nbsp;  Juan Gatica Balboa,</div><div class=\"p\">&nbsp; &nbsp;  Juan Carlos Toloza Villagr&#xE1;n,</div><div class=\"p\">&nbsp; &nbsp;  Sergio Reyes Tat&#xED;n</div><div class=\"p\">&nbsp; &nbsp;  Miguel Parra Villagra, y</div><div class=\"p\">&nbsp; &nbsp;  Luis Arias Contreras.</div><br><div class=\"p\">&nbsp; &nbsp;  Se designa como Receptores Judiciales a los funcionarios se&#xF1;ores:</div><br><div class=\"p\">&nbsp; &nbsp;  It&#xE1;lo del Santo Wandersleben,</div><div class=\"p\">&nbsp; &nbsp;  ELIMINADO,<span class=\"n\" id=\"n_0\">RES 20, AGRICULTURA<br>D.O. 15.12.2004</span></div><div class=\"p\">&nbsp; &nbsp;  Felismer Burgos Insunza,</div><div class=\"p\">&nbsp; &nbsp;  ELIMINADO,<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp;  ELIMINADO.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 67, Agricultura, publicada el 30.04.2005, ordena eliminar a los s&#xF1;ores: Hip&#xF3;lito Huircap&#xE1;n Dumuihual, Alfonso Llanquitruf Curil&#xE9;n y Salustio Rub&#xE9;n &#xD1;ancufil Loncon, en su calidad de Receptor Judicial de la IX Regi&#xF3;n, la que hab&#xED;a sido realizada con anterioridad.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

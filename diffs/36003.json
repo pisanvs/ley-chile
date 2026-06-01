@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8295180,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE JUREL, DEL ARTICULO 1&#xB0; LETRA D) DEL DECRETO N&#xB0; 354, DE 1993 N&#xFA;m. 1.002.- Valpara&#xED;so, 23 de mayo de 1996.- Visto: Lo solicitado por pesquera Loa sur S.A.; lo informado por la divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a en Memoranda N&#xB0; 70 y N&#xB0; 85, de 6 y 15 de marzo de 1996, respectivamente; el D.F.L. N&#xB0; 5, de 1983; la Resoluci&#xF3;n N&#xB0; 1.831, de 1995, de esta Subsecretar&#xED;a; la ley N&#xB0; 18.892 y sus modificaciones;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA DESARROLLAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE JUREL, DEL ARTICULO 1&#xB0; LETRA D) DEL DECRETO N&#xB0; 354, DE 1993 </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.002.- Valpara&#xED;so, 23 de mayo de 1996.- Visto: Lo solicitado por pesquera Loa sur S.A.; lo informado por la divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a en Memoranda N&#xB0; 70 y N&#xB0; 85, de 6 y 15 de marzo de 1996, respectivamente; el D.F.L.</div><div class=\"p\">N&#xB0; 5, de 1983; la Resoluci&#xF3;n N&#xB0; 1.831, de 1995, de esta Subsecretar&#xED;a; la ley N&#xB0; 18.892 y sus modificaciones;</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

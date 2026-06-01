@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-09-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-10-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8783793,
+          "old": "<div><br><div class=\"p\">RECTIFICA RESOLUCI&#xD3;N (M) 185, DE 2009</div><br><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n (M) N&#xBA; 1.614, de 31 de julio de 2006, Subsecretar&#xED;a de Marina, Ministerio de Defensa Nacional, se resolvi&#xF3; lo siguiente:</div></div>",
+          "new": "<div><br><div class=\"p\">RECTIFICA RESOLUCI&#xD3;N (M) 185, DE 2009</div><br><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n (M) N&#xBA; 1.614, de 3<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1006837&amp;idParte=8786876&amp;idVersion=2009-10-02\">Aviso S/N, DEFENSA<br>D.O. 02.10.2009</a></span>1 de julio de 2009, Subsecretar&#xED;a de Marina, Ministerio de Defensa Nacional, se resolvi&#xF3; lo siguiente:</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1006837,
+      "fecha": "2009-10-02"
+    }
+  }
+]

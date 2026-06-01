@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-11-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8929687,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; YADRAN CISNES S.A., PESCA, AUTORIZACION </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; YADRAN CISNES S.A., PESCA, AUTORIZACION</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8323145,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- En el caso de que la cuota se&#xF1;alada sea extra&#xED;da antes del t&#xE9;rmino se&#xF1;alado en el art&#xED;culo 1&#xBA;, se deber&#xE1; suspender la actividad extractiva, entendi&#xE9;ndose que desde ese momento este recurso se encuentra en veda. El exceso en la extracci&#xF3;n de la cuota establecida para cada mes calendario se descontar&#xE1; de la cuota autorizada para el per&#xED;odo siguiente.</div><div class=\"p\">&nbsp; &nbsp;  La fecha de suspensi&#xF3;n de las faenas de captura ser&#xE1; determinada por el Servicio Nacional de Pesca e informada oportunamente a los interesados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- En el caso de que la cuota se&#xF1;alada sea extra&#xED;da antes del t&#xE9;rmino se&#xF1;alado en el art&#xED;culo 1&#xBA;, se deber&#xE1; suspender la actividad extractiva, entendi&#xE9;ndose que desde ese momento este recurso se encuentra en veda. El exceso en la extracci&#xF3;n de la cuota establecida para cada mes calendario se descontar&#xE1; de la cuota autorizada para el per&#xED;odo siguiente. En el caso que las cuotas establecidas para cada<span class=\"n\" id=\"n_0\">DTO 457 EXENTO<br>ECONOMIA<br>Art. 1&#xBA;<br>D.O. 10.10.1998</span> per&#xED;odo no sean extra&#xED;das totalmente dentro del plazo se&#xF1;alado, acrecer&#xE1;n a la establecida para el per&#xED;odo siguiente. La fecha de suspensi&#xF3;n de las faenas de captura ser&#xE1; determinada por el Servicio Nacional de Pesca e informada oportunamente a los interesados. </div></div>"
+        }
+      ]
+    }
+  }
+]

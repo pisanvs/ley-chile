@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7155979,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reactual&#xED;zanse en 0,84% las cantidades expresadas en d&#xF3;lares de los Estados Unidos de Am&#xE9;rica, a que se refieren los art&#xED;culos 43&#xB0; bis y 46&#xB0; de la Ley sobre Impuesto a las Ventas y Servicios, las que quedan en los siguientes montos:</div><div class=\"p\"> a) En el art&#xED;culo 43&#xB0; bis, la cantidad de US$ 7.169,73 queda en US$ 7.229,96.</div><div class=\"p\"> b) En el art&#xED;culo 46&#xB0; bis, la cantidad de US$ 9.559,63 queda en US$ 9.639,93.</div><div class=\"p\">&nbsp; &nbsp; El presente decreto regir&#xE1; a contar del 1&#xB0; de Enero de 1994.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

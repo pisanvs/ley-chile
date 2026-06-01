@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-03-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-01-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8989593,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- De los veh&#xED;culos a que se refiere<span class=\"n\" id=\"n_0\">DL 866, TRANSPORTES<br>Art. 1&#xBA;<br>D.O. 20.01.1975</span> el presente decreto ley, podr&#xE1;n ser destinados hasta veinte (20) buses a la Fuerza A&#xE9;rea de Chile. Esta instituci&#xF3;n estar&#xE1; exenta de cumplir las disposiciones del decreto supremo N&#xB0; 196, de 10 de Junio de 1974, y la asignaci&#xF3;n se har&#xE1; por el Ministerio de Transportes sin m&#xE1;s tr&#xE1;mite.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

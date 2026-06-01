@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-05-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-05-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6241756,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO No. 177, DE 1982</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 88.- Santiago, 01 de Abril de 1986.- Visto: Decreto Ley No. 799 de 1974, modificado por el DFL No.</div><div class=\"p\">12-2.345 de 1979 del Ministerio del Interior; Circular No.</div><div class=\"p\">9.277 de 1975, Resoluciones N&#xB0;s 600 de 1977 y 1.050 de 1980, todos de Contralor&#xED;a General de la Rep&#xFA;blica; Decreto de Econom&#xED;a No. 177 de 1982, y lo solicitado por la Compa&#xF1;&#xED;a Chilena de Generaci&#xF3;n El&#xE9;ctrica S.A., en sus Oficios N&#xB0;s 00788 y 00787 de 1986,</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, la Compa&#xF1;&#xED;a Chilena de Generaci&#xF3;n El&#xE9;ctrica S.A., Chilectra Generaci&#xF3;n, para poder prestar los servicios de utilidad p&#xFA;blica en forma interrumpida, solicita la modificaci&#xF3;n del Decreto de Econom&#xED;a No. 177 de 1982, reemplazando dos veh&#xED;culos autorizados en el decreto citado, y autorizar la libre circulaci&#xF3;n en los d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos para otros veh&#xED;culos de su propiedad,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO No. 177, DE 1982</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 88.- Santiago, 01 de Abril de 1986.- Visto: Decreto Ley No. 799 de 1974, modificado por el DFL No.</div><div class=\"p\">12-2.345 de 1979 del Ministerio del Interior; Circular No.</div><div class=\"p\">9.277 de 1975, Resoluciones N&#xB0;s 600 de 1977 y 1.050 de 1980, todos de Contralor&#xED;a General de la Rep&#xFA;blica; Decreto de Econom&#xED;a No. 177 de 1982, y lo solicitado por la Compa&#xF1;&#xED;a Chilena de Generaci&#xF3;n El&#xE9;ctrica S.A., en sus Oficios N&#xB0;s 00788 y 00787 de 1986,</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, la Compa&#xF1;&#xED;a Chilena de Generaci&#xF3;n El&#xE9;ctrica S.A., Chilectra Generaci&#xF3;n, para poder prestar los servicios de utilidad p&#xFA;blica en forma interrumpida, solicita la modificaci&#xF3;n del Decreto de Econom&#xED;a No. 177 de 1982, reemplazando dos veh&#xED;culos autorizados en el decreto citado, y autorizar la libre circulaci&#xF3;n en los d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos para otros veh&#xED;culos de su propiedad,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

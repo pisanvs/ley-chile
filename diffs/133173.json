@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-01-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8642580,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION No. 177 EXENTA, DE 1988 </div><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION No. 177 EXENTA, DE 1988 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

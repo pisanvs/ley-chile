@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2001-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-05-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8043104,
+          "old": "<div><div class=\"p\">APRUEBA MODIFICACION DE REGLAMENTO DEL SERVICIO DE BIENESTAR DE LA FISCALIA NACIONAL DE QUIEBRAS </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 64.- Santiago, 2 de octubre de 2000.- Vistos: lo dispuesto en las leyes N&#xBA;s. 11.764, art&#xED;culo 134;</div><div class=\"p\">16.395, art&#xED;culo 24; 17.538, art&#xED;culo &#xFA;nico; 18.469, decretos supremos N&#xBA;s. 28, de 1994 y 115, de 1995, ambos del Ministerio del Trabajo y Previsi&#xF3;n Social, y la facultad que me confiere el art&#xED;culo 32&#xBA;, N&#xBA; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA MODIFICACION DE REGLAMENTO DEL SERVICIO DE BIENESTAR DE LA SUPERINTENDENCIA DE QUIEBRAS<span class=\"n\" id=\"n_0\">LEY 19806<br>Art. 65<br>D.O. 31.05.2002</span> N&#xFA;m. 64.- Santiago, 2 de octubre de 2000.- Vistos: lo dispuesto en las leyes N&#xBA;s. 11.764, art&#xED;culo 134; 16.395, art&#xED;culo 24; 17.538, art&#xED;culo &#xFA;nico; 18.469, decretos supremos N&#xBA;s. 28, de 1994 y 115, de 1995, ambos del Ministerio del Trabajo y Previsi&#xF3;n Social, y la facultad que me confiere el art&#xED;culo 32&#xBA;, N&#xBA; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile. D e c r e t o: </div></div>"
+        },
+        {
+          "part_id": 8043105,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Modif&#xED;case el Reglamento del Servicio de Bienestar de la Fiscal&#xED;a Nacional de Quiebras, aprobado por DS N&#xBA; 115, de 1995, del Ministerio del Trabajo y Previsi&#xF3;n Social, Subsecretar&#xED;a de Previsi&#xF3;n Social, en la forma que se indica:</div><br><div class=\"p\">&nbsp; &nbsp;  1) En la letra a) y b) del art&#xED;culo 4&#xBA;, sustit&#xFA;yese la frase: &apos;&apos;una situaci&#xF3;n socioecon&#xF3;mica deficitaria calificada por un Asistente Social&apos;&apos;, por la siguiente:</div><div class=\"p\">&apos;&apos;una situaci&#xF3;n econ&#xF3;mica aflictiva calificada por el Consejo Administrativo o por quien &#xE9;ste designe&apos;&apos;;</div><div class=\"p\">&nbsp; &nbsp;  2) En la letra c) del art&#xED;culo 4&#xBA;, sustit&#xFA;yese la frase: &apos;&apos;en casos calificados por un Asistente Social&apos;&apos;, por la siguiente: &apos;&apos;en casos calificados por el Consejo Administrativo o por quien &#xE9;ste designe&apos;&apos;; y 3) En la letra c) del art&#xED;culo 5&#xBA;, sustit&#xFA;yese la frase: &apos;&apos;previo informe de un Asistente Social&apos;&apos;, por la siguiente: &apos;&apos;previa calificaci&#xF3;n del Consejo Administrativo o de quien &#xE9;ste designe&apos;&apos;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Modif&#xED;case el Reglamento del Servicio de Bienestar de la Superintendencia de<span class=\"n\" id=\"n_1\">LEY 19806<br>Art. 65<br>D.O. 31.05.2002</span> Quiebras, aprobado por DS N&#xBA; 115, de 1995, del Ministerio del Trabajo y Previsi&#xF3;n Social, Subsecretar&#xED;a de Previsi&#xF3;n Social, en la forma que se indica: 1) En la letra a) y b) del art&#xED;culo 4&#xBA;, sustit&#xFA;yese</div><div class=\"p\">la frase: &quot;una situaci&#xF3;n socioecon&#xF3;mica deficitaria</div><div class=\"p\">calificada por un Asistente Social&quot;, por la siguiente:</div><div class=\"p\">&quot;una situaci&#xF3;n econ&#xF3;mica aflictiva calificada por el</div><div class=\"p\">Consejo Administrativo o por quien &#xE9;ste designe&quot;;</div><div class=\"p\">&nbsp; &nbsp;  2) En la letra c) del art&#xED;culo 4&#xBA;, sustit&#xFA;yese la</div><div class=\"p\">frase: &quot;en casos calificados por un Asistente Social&quot;,</div><div class=\"p\">por la siguiente: &quot;en casos calificados por el Consejo</div><div class=\"p\">Administrativo o por quien &#xE9;ste designe&quot;; y</div><div class=\"p\">&nbsp; &nbsp;  3) En la letra c) del art&#xED;culo 5&#xBA;, sustit&#xFA;yese la</div><div class=\"p\">frase: &quot;previo informe de un Asistente Social&quot;, por la</div><div class=\"p\">siguiente: &quot;previa calificaci&#xF3;n del Consejo</div><div class=\"p\">Administrativo o de quien &#xE9;ste designe&quot;.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

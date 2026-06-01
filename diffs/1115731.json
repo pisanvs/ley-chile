@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-03-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9891800,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13.- El plazo de inicio de las obras se iniciar&#xE1; dentro de los 3 meses contados de la reducci&#xF3;n a escritura p&#xFA;blica del presente decreto de concesi&#xF3;n, previ&#xE9;ndose la terminaci&#xF3;n total de las obras, incluida una etapa de pruebas finales, dentro del plazo de 13 meses contados desde el inicio de las mismas, seg&#xFA;n las etapas que se indican a continuaci&#xF3;n:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/77534.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13.- El plazo de inicio<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de las obras se iniciar&#xE1; dentro de los 3 meses contados de la reducci&#xF3;n a escritura p&#xFA;blica del presente decreto de concesi&#xF3;n, previ&#xE9;ndose la terminaci&#xF3;n total de las obras, incluida una etapa de pruebas finales, dentro del plazo de 13 meses contados desde el inicio de las mismas, seg&#xFA;n las etapas que se indican a continuaci&#xF3;n:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/77534.jpg\">.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; del Decreto 8 Exento, Energ&#xED;a, publicado el 09.02.2023, ampl&#xED;a el plazo de inicio de construcci&#xF3;n de las obras a setenta y dos (72) meses, contados desde la reducci&#xF3;n a escritura p&#xFA;blica de la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

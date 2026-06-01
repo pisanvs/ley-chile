@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8454059,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- No obstante lo dispuesto en el art&#xED;culo anterior, los alcaldes, con acuerdo del concejo y mediante decreto publicado en el Diario Oficial, podr&#xE1;n adelantar la fecha de vigencia del reaval&#xFA;o a que se refiere el art&#xED;culo 1&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; El referido decreto deber&#xE1; ser publicado a m&#xE1;s tardar con 30 d&#xED;as de anticipaci&#xF3;n al semestre determinado para la entrada en vigencia del reaval&#xFA;o de la comuna respectiva.</div><div class=\"p\">&nbsp; &nbsp; A contar de la vigencia de cada uno de estos reaval&#xFA;os y hasta que entre a regir la pr&#xF3;xima retasaci&#xF3;n, que en virtud de lo dispuesto en el art&#xED;culo 2&#xB0; transitorio de esta ley debe practicar el Servicio de Impuestos Internos, la tasa del impuesto territorial ser&#xE1; de catorce coma veinticinco por mil para los bienes ra&#xED;ces no agr&#xED;colas, excepto para los destinados a la habitaci&#xF3;n con un aval&#xFA;o igual o menor a $25.000.000, caso en que esta tasa ser&#xE1; de un doce por mil. Asimismo, durante el mismo per&#xED;odo de vigencia, el aval&#xFA;o exento a que se refiere el inciso primero del art&#xED;culo 5&#xB0; del decreto ley N&#xB0; 1.754, de 1977, ser&#xE1; de $7.000.000.- </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- No obstante lo dispuesto en el art&#xED;culo anterior, los alcaldes, con acuerdo del concejo y mediante decreto publicado en el Diario Oficial, podr&#xE1;n adelantar la fecha de vigencia del reaval&#xFA;o a que se refiere el art&#xED;culo 1&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; El referido decreto deber&#xE1; ser publicado a m&#xE1;s tardar con 30 d&#xED;as de anticipaci&#xF3;n al semestre determinado para la entrada en vigencia del reaval&#xFA;o de la comuna respectiva.</div><div class=\"p\">&nbsp; &nbsp; A contar de la vigencia de cada uno de estos reaval&#xFA;os y hasta que entre a regir la pr&#xF3;xima retasaci&#xF3;n, que en virtud de lo dispuesto en el art&#xED;culo 2&#xB0; transitorio de esta ley debe practicar el Servicio de Impuestos Internos, la tasa del impuesto territorial ser&#xE1; de catorce por mil para los bienes ra&#xED;ces no<span class=\"n\" id=\"n_0\">LEY 19395<br>Art. &#xFA;nico<br>D.O. 17.07.1995</span> agr&#xED;colas, excepto para los destinados a la habitaci&#xF3;n con un aval&#xFA;o igual o menor a $25.000.000, caso en que esta tasa ser&#xE1; de un doce por mil. Asimismo,<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> durante el mismo per&#xED;odo de vigencia, el aval&#xFA;o exento a que se refiere el inciso primero del art&#xED;culo 5&#xB0; del decreto ley N&#xB0; 1.754, de 1977, ser&#xE1; de $7.000.000.-</div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico de la LEY 19395, publicada el 17.07.1995, establece a contar de la misma vigencia de la mencionada tasa, una sobretasa, a beneficio fiscal, de cero coma veinticinco por mil para los bienes ra&#xED;ces no agr&#xED;colas se&#xF1;alados en dicha disposici&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

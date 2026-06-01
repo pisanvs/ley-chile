@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-10-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-01-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6320437,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA INTERPESCA S.A. PARA PROSEGUIR CON LAS ACTIVIDADES PESQUERAS QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA INTERPESCA S.A. PARA PROSEGUIR CON LAS ACTIVIDADES PESQUERAS QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

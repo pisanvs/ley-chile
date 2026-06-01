@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2022-12-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-01-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10385963,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el programa de expropiaci&#xF3;n referente a los inmuebles, ubicado en la comuna de Copiap&#xF3;, Regi&#xF3;n de Atacama, de una superficie total de 3.445,86 metros cuadrados, el que se destinar&#xE1; al proyecto Parque Diagonal Entre Puentes, de la comuna de Copiap&#xF3;, los que se singularizan en el siguiente cuadro:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/157484.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Copiap&#xF3;, Regi&#xF3;n de Atacama, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el programa de expropiaci&#xF3;n referente a los inmuebles, ubicado en la comuna de Copiap&#xF3;, Regi&#xF3;n de Atacama, de una superficie total de 3.445,86 metros cuadrados, el que se destinar&#xE1; al proyecto Parque Diagonal Entre Puentes, de la comuna de Copiap&#xF3;, los que se singularizan en el siguiente cuadr<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1199777&amp;idParte=10483447&amp;idVersion=2024-01-03\">Decreto 52 EXENTO,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 03.01.2024</a></span>o:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/157484.jpg\"></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/176093.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Copiap&#xF3;, Regi&#xF3;n de Atacama, si lo hubiere.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1199777,
+      "fecha": "2024-01-03"
+    }
+  },
+  {
+    "fecha": "2024-12-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10385963,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el programa de expropiaci&#xF3;n referente a los inmuebles, ubicado en la comuna de Copiap&#xF3;, Regi&#xF3;n de Atacama, de una superficie total de 3.445,86 metros cuadrados, el que se destinar&#xE1; al proyecto Parque Diagonal Entre Puentes, de la comuna de Copiap&#xF3;, los que se singularizan en el siguiente cuadr<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1199777&amp;idParte=10483447&amp;idVersion=2024-01-03\">Decreto 52 EXENTO,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 03.01.2024</a></span>o:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/157484.jpg\"></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/176093.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Copiap&#xF3;, Regi&#xF3;n de Atacama, si lo hubiere.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el programa de expropiaci&#xF3;n referente a los inmuebles, ubicado en la comuna de Copiap&#xF3;, Regi&#xF3;n de Atacama, de una superficie total de 3.445,86 metros cuadrados, el que se destinar&#xE1; al proyecto Parque Diagonal Entre Puentes, de la comuna de Copiap&#xF3;, los que se singularizan en el siguiente cuadr<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1199777&amp;idParte=10483447&amp;idVersion=2024-01-03\">Decreto 52 EXENTO,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 03.01.2024</a></span>o:<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1209257&amp;idParte=10527346&amp;idVersion=2024-12-12\">Decreto 79 EXENTO,<br>VIVIENDA<br>Art.<br>D.O. 12.12.2024</a></span></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/157484.jpg\"></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/176093.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/189615.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Copiap&#xF3;, Regi&#xF3;n de Atacama, si lo hubiere.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1209257,
+      "fecha": "2024-12-12"
+    }
+  }
+]

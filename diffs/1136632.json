@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-09-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-03-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10055231,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xB0;.- El plazo para el inicio de las obras ser&#xE1; de 180 d&#xED;as despu&#xE9;s de haberse reducido a escritura p&#xFA;blica el presente decreto de concesi&#xF3;n el&#xE9;ctrica, y &#xE9;stas tendr&#xE1;n una duraci&#xF3;n estimada de 23 meses, seg&#xFA;n se muestra en el cronograma general del proyecto que se incluye a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/98025.jpg\">.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xB0;.-<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1190558&amp;idParte=10417051&amp;idVersion=2023-03-23\">Decreto 22 EXENTO,<br>ENERG&#xCD;A<br>N&#xBA; 1<br>D.O. 23.03.2023</a></span> El plazo de construcci&#xF3;n desde el inicio de los trabajos hasta la terminaci&#xF3;n de las obras ser&#xE1; de 23 meses, inici&#xE1;ndose el c&#xF3;mputo de &#xE9;ste a partir del mes 18 desde el otorgamiento de la Concesi&#xF3;n de Uso Oneroso del Parque Fotovoltaico Cielos de Tarapac&#xE1;, o o contar del d&#xED;a 1 de julio de 2024, lo que ocurra primero. </div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1190558,
+      "fecha": "2023-03-23"
+    }
+  }
+]

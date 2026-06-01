@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-12-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6507931,
+          "old": "<div><div class=\"p\">EXTRACTO DE&nbsp; RESOLUCION N&#xBA; 1.114 EXENTA DE 2004 </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n exenta N&#xBA; 1.114 de 09.11.2004 dispuso: </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE&nbsp; RESOLUCION N&#xBA; 1.114 EXENTA DE 2004 </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n exenta N&#xBA; 1.114 de 09.11.2004 dispuso:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

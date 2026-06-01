@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-10-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-08-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6352874,
+          "old": "<div><div class=\"p\">AUTORIZA EXENCION DEL USO DE DISTINTIVO FISCAL DE VEHICULO QUE INDICA, DEL INSTITUTO DE NORMALIZACION PREVISIONAL Y CIRCULACION EN DIAS SABADO, DOMINGO Y FESTIVOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 67 exento.- Santiago, 13 de agosto de 2001.- Vistos: El oficio ordinario N&#xBA; BS-376, de 2 de agosto de 2001, del Subdepartamento Bienes y Servicios del Instituto de Normalizaci&#xF3;n Previsional; lo dispuesto en los art&#xED;culos 1&#xBA;, 3&#xBA; y 6&#xBA;, del D.L. N&#xBA; 799, de 1974, D.S. N&#xBA; 1.407, de 1991, del Ministerio del Interior; la resoluci&#xF3;n N&#xBA; 520, de 1996, que fij&#xF3; el texto refundido de la resoluci&#xF3;n N&#xBA; 55 de 1992 y dictamen N&#xBA; 036329, emitidos por la Contralor&#xED;a General de la Rep&#xFA;blica y el D.S. N&#xBA; 19 de 2001, del Ministerio Secretar&#xED;a General de la Presidencia,</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que el Instituto de Normalizaci&#xF3;n Previsional&nbsp; necesita contar con un veh&#xED;culo para el Jefe de su Departamento Administraci&#xF3;n y Finanzas, eximido del uso del distintivo fiscal a que se refiere el inciso primero del art&#xED;culo 3&#xBA;, del D.L.</div><div class=\"p\">N&#xBA; 779, de 1974, que adem&#xE1;s, pueda circular los d&#xED;as s&#xE1;bado, domingo&nbsp; y festivos.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA EXENCION DEL USO DE DISTINTIVO FISCAL DE VEHICULO QUE INDICA, DEL INSTITUTO DE NORMALIZACION PREVISIONAL Y CIRCULACION EN DIAS SABADO, DOMINGO Y FESTIVOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 67 exento.- Santiago, 13 de agosto de 2001.- Vistos: El oficio ordinario N&#xBA; BS-376, de 2 de agosto de 2001, del Subdepartamento Bienes y Servicios del Instituto de Normalizaci&#xF3;n Previsional; lo dispuesto en los art&#xED;culos 1&#xBA;, 3&#xBA; y 6&#xBA;, del D.L. N&#xBA; 799, de 1974, D.S. N&#xBA; 1.407, de 1991, del Ministerio del Interior; la resoluci&#xF3;n N&#xBA; 520, de 1996, que fij&#xF3; el texto refundido de la resoluci&#xF3;n N&#xBA; 55 de 1992 y dictamen N&#xBA; 036329, emitidos por la Contralor&#xED;a General de la Rep&#xFA;blica y el D.S. N&#xBA; 19 de 2001, del Ministerio Secretar&#xED;a General de la Presidencia,</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que el Instituto de Normalizaci&#xF3;n Previsional&nbsp; necesita contar con un veh&#xED;culo para el Jefe de su Departamento Administraci&#xF3;n y Finanzas, eximido del uso del distintivo fiscal a que se refiere el inciso primero del art&#xED;culo 3&#xBA;, del D.L.</div><div class=\"p\">N&#xBA; 779, de 1974, que adem&#xE1;s, pueda circular los d&#xED;as s&#xE1;bado, domingo&nbsp; y festivos.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

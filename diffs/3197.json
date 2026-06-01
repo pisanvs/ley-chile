@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7111566,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA ORDENANZA SOBRE DERECHOS MUNICIPALES POR CONCESIONES, PERMISOS Y SERVICIOS</div><div class=\"p\">&nbsp; &nbsp; Pirque, Diciembre 26 de 1996.- La alcald&#xED;a decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 670 exento.- Visto:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0; La Ordenanza Local sobre Derechos Municipales por Concesiones, Permisos y Servicios, cuyo texto fue aprobado por Decreto Alcaldicio N&#xB0; 557, del 28 de diciembre de 1995.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0; Las necesidades de regular los derechos relativos a Concesiones y Permisos por Construcciones en Bienes Nacionales de Uso P&#xFA;blico.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0; Lo dispuesto en el D.L. N&#xB0; 3.063, Ley Rentas Municipales.</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente: Las facultades que me confiere la Ley N&#xB0; 18.695 &quot;Org&#xE1;nica Constitucional de Municipalidades&quot; y sus modificaciones.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA ORDENANZA SOBRE DERECHOS MUNICIPALES POR CONCESIONES, PERMISOS Y SERVICIOS</div><br><div class=\"p\">&nbsp; &nbsp; Pirque, Diciembre 26 de 1996.- La alcald&#xED;a decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 670 exento.- Visto:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0; La Ordenanza Local sobre Derechos Municipales por Concesiones, Permisos y Servicios, cuyo texto fue aprobado por Decreto Alcaldicio N&#xB0; 557, del 28 de diciembre de 1995.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0; Las necesidades de regular los derechos relativos a Concesiones y Permisos por Construcciones en Bienes Nacionales de Uso P&#xFA;blico.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0; Lo dispuesto en el D.L. N&#xB0; 3.063, Ley Rentas Municipales.</div><div class=\"p\">&nbsp; &nbsp; Teniendo presente: Las facultades que me confiere la Ley N&#xB0; 18.695 &quot;Org&#xE1;nica Constitucional de Municipalidades&quot; y sus modificaciones.</div><br><div class=\"p\">&nbsp; &nbsp; D e c r e t o</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

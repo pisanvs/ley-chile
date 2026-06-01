@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-06-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-03-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8668657,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico.- Cr&#xE9;ase la comuna de Padre Las Casas, Sede Padre Las Casas, en la Provincia de Caut&#xED;n, Regi&#xF3;n de la Araucan&#xED;a. Comprende la parte de la actual comuna de Temuco ubicada al sur del r&#xED;o Caut&#xED;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico.- Cr&#xE9;ase la comuna de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA </a></div> Padre Las Casas, Sede Padre Las Casas, en la Provincia de Caut&#xED;n, Regi&#xF3;n de la Araucan&#xED;a. Comprende la parte de la actual comuna de Temuco ubicada al sur del r&#xED;o Caut&#xED;n.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA </a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo 3&#xBA; de la Ley 20578, publicada el 24.03.2012, modifica el l&#xED;mite existente entre las comunas de Freire y Padre Las Casas, fijado para ellas en la presente norma, incorpor&#xE1;ndose a la comuna de Padre Las Casas el sector de la comuna de Freire ubicado al norte del siguiente l&#xED;mite: &quot;El estero Tumuntuco, desde su desembocadura en el r&#xED;o Huichahue hasta la desembocadura del estero Cumbli; y el estero Cumbli, desde su desembocadura en el estero Tumuntuco hasta el lindero oriente del predio rol 327-1 (1327-1).&quot;. </div></div>"
+        }
+      ]
+    }
+  }
+]

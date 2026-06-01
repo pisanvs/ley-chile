@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-11-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-12-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9312027,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n exenta N&#xBA; 4.921 de 7 de noviembre de 2012, Serviu Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, orden&#xF3; expropiaci&#xF3;n de parte de un inmueble ubicado en Membrillar N&#xBA; 55 A, de la comuna de Rancagua, Rol de aval&#xFA;o N&#xBA; 225-2, superficie aproximada a expropiar de 41,5 m&#xB2; de terreno, delimitada en pol&#xED;gono F-G-I-H-F, conforme a &quot;Proyecto Mejoramiento Red Vial Miguel Ram&#xED;rez - Camino Machal&#xED; Tramo Poniente&quot; comuna de Rancagua. De dominio de Instituto Secular Padres de Schoenstatt, inscrito a fojas 3141 N&#xBA; 6038 del Registro de Propiedad del Conservador de Bienes Ra&#xED;ces de Rancagua del a&#xF1;o 2012. Conforme al Art. 51, Ley 16.391 y DL 2.186. Comisi&#xF3;n Tasadora, peritos integrada por Carlos Henr&#xED;quez Dur&#xE1;n, Sergio Shipley Rubio y Edmundo G&#xF3;mez Lagos, arquitecto, ingeniero civil y constructor civil, respectivamente, seg&#xFA;n Informe de fecha noviembre de 2008 y cuyo monto provisional es de $52.278.000, cuyo pago se realizar&#xE1; mediante dep&#xF3;sito en cuenta corriente del Tribunal correspondiente.- </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n exenta N&#xBA; 4.921 de 7 de noviembre de 2012, Serviu Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, orden&#xF3; expropiaci&#xF3;n de parte de un inmueble ubicado en Membrillar N&#xBA; 55 A, de la comuna de Rancagua, Rol de aval&#xFA;o N&#xBA; 225-2, superficie aproximada a expropiar de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1046800&amp;idParte=9319572&amp;idVersion=2012-12-15\">Resoluci&#xF3;n 5191 EXENTA,<br>VIVIENDA<br>N&#xBA; 4<br>D.O. 15.12.2012</a></span>270 metros cuadrados de terreno, delimitada en pol&#xED;gono F-G-I-H-F, conforme a &quot;Proyecto Mejoramiento Red Vial Miguel Ram&#xED;rez - Camino Machal&#xED; Tramo Poniente&quot; comuna de Rancagua. De dominio de Instituto Secular Padres de Schoenstatt, inscrito a fojas 3141 N&#xBA; 6038 del Registro de Propiedad del Conservador de Bienes Ra&#xED;ces de Rancagua del a&#xF1;o 2012. Conforme al Art. 51, Ley 16.391 y DL 2.186. Comisi&#xF3;n Tasadora, peritos integrada por Carlos Henr&#xED;quez Dur&#xE1;n, Sergio Shipley Rubio y Edmundo G&#xF3;mez Lagos, arquitecto, ingeniero civil y constructor civil, respectivamente, seg&#xFA;n Informe de fecha noviembre de 2008 y cuyo monto provisional es de $52.278.000, cuyo pago se realizar&#xE1; mediante dep&#xF3;sito en cuenta corriente del Tribunal correspondiente.- </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1046800,
+      "fecha": "2012-12-15"
+    }
+  }
+]

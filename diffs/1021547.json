@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2010-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9086062,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Proh&#xED;bese la circulaci&#xF3;n de todo tipo de veh&#xED;culo motorizado entre los km 57 y 59 de la Ruta 1, desde el 19 de noviembre de 2010 hasta el 30 de diciembre de 2010.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Habil&#xED;tese un desv&#xED;o bidireccional paralelo a la Ruta 1. El acceso de Norte a Sur a Ruta B-240, ser&#xE1; por by pass ubicado en km 57 de Ruta 1, que dar&#xE1; acceso por pista que se habilitar&#xE1; en sector suroriente. El acceso a Ruta B-240 de sur a norte ser&#xE1; por pista provisoria que se habilitar&#xE1; en sector suroriente.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; El ejecutante de la obra deber&#xE1; adoptar todas las medidas que resulten necesarias, en coordinaci&#xF3;n con Carabineros de Chile y la Direcci&#xF3;n Regional de Vialidad, para llevar a buen t&#xE9;rmino el trabajo y asegurar la protecci&#xF3;n de los peatones, pasajeros, conductores y veh&#xED;culos, como tambi&#xE9;n difundir a la ciudadan&#xED;a oportunamente por los medios de comunicaci&#xF3;n, de la suspensi&#xF3;n de tr&#xE1;nsito vehicular.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; El incumplimiento de las medidas de mitigaci&#xF3;n, dispuestas por esta Secretar&#xED;a Regional Ministerial y la Direcci&#xF3;n Regional de Vialidad, podr&#xE1; dar lugar a dejar sin efecto lo resuelto mediante este acto administrativo.</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA; Por razones impostergables de buen servicio, la presente resoluci&#xF3;n se aplica desde su dictaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Proh&#xED;bese la circulaci&#xF3;n de todo tipo de veh&#xED;culo<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> motorizado entre los km 57 y 59 de la Ruta 1, desde el 19 de noviembre de 2010 hasta el 30 de diciembre de 2010.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Habil&#xED;tese un desv&#xED;o bidireccional paralelo a la Ruta 1. El acceso de Norte a Sur a Ruta B-240, ser&#xE1; por by pass ubicado en km 57 de Ruta 1, que dar&#xE1; acceso por pista que se habilitar&#xE1; en sector suroriente. El acceso a Ruta B-240 de sur a norte ser&#xE1; por pista provisoria que se habilitar&#xE1; en sector suroriente.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; El ejecutante de la obra deber&#xE1; adoptar todas las medidas que resulten necesarias, en coordinaci&#xF3;n con Carabineros de Chile y la Direcci&#xF3;n Regional de Vialidad, para llevar a buen t&#xE9;rmino el trabajo y asegurar la protecci&#xF3;n de los peatones, pasajeros, conductores y veh&#xED;culos, como tambi&#xE9;n difundir a la ciudadan&#xED;a oportunamente por los medios de comunicaci&#xF3;n, de la suspensi&#xF3;n de tr&#xE1;nsito vehicular.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; El incumplimiento de las medidas de mitigaci&#xF3;n, dispuestas por esta Secretar&#xED;a Regional Ministerial y la Direcci&#xF3;n Regional de Vialidad, podr&#xE1; dar lugar a dejar sin efecto lo resuelto mediante este acto administrativo.</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA; Por razones impostergables de buen servicio, la presente resoluci&#xF3;n se aplica desde su dictaci&#xF3;n.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 1 Exenta, Transportes, publicada el 17.01.2011, prorroga hasta el 15 de enero del presente, la vigencia de la prohibici&#xF3;n de circulaci&#xF3;n de veh&#xED;culos motorizados dispuesta en esta norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

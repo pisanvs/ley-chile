@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-08-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6503028,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 146 AFECTA, DE 2004 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 146 AFECTA, DE 2004 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-10-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-11-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8942493,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA DECRETO EXENTO N&#xB0; 209, DE 1994</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 208 exento.- Santiago, 17 de octubre de 1995.- Visto: Lo informado por el Departamento de Pesquer&#xED;as de la Subsecretar&#xED;a de Pesca en los Memoranda T&#xE9;cnicos N&#xB0; 161 y N&#xB0; 208, ambos de 1995; el art&#xED;culo 32 N&#xB0; 8 de la Contralor&#xED;a General de la Rep&#xFA;blica; el D.F.L. N&#xB0; 5, de 1983; la Ley N&#xB0; 18.892 y sus modificaciones, cuyo texto refundido fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; los D.S. N&#xB0; 445, de 1989, N&#xB0; 354, de 1993 y Decreto Exento N&#xB0; 209, de 1994, todos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; los D.S. N&#xB0; 654 y N&#xB0; 2.012, ambos de 1994, del Ministerio del Interior; la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y sus modificaciones; la comunicaci&#xF3;n previa al Consejo Zonal de Pesca de las X y XI Regiones.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA DECRETO EXENTO N&#xB0; 209, DE 1994</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 208 exento.- Santiago, 17 de octubre de 1995.- Visto: Lo informado por el Departamento de Pesquer&#xED;as de la Subsecretar&#xED;a de Pesca en los Memoranda T&#xE9;cnicos N&#xB0; 161 y N&#xB0; 208, ambos de 1995; el art&#xED;culo 32 N&#xB0; 8 de la Contralor&#xED;a General de la Rep&#xFA;blica; el D.F.L. N&#xB0; 5, de 1983; la Ley N&#xB0; 18.892 y sus modificaciones, cuyo texto refundido fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; los D.S. N&#xB0; 445, de 1989, N&#xB0; 354, de 1993 y Decreto Exento N&#xB0; 209, de 1994, todos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; los D.S. N&#xB0; 654 y N&#xB0; 2.012, ambos de 1994, del Ministerio del Interior; la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y sus modificaciones; la comunicaci&#xF3;n previa al Consejo Zonal de Pesca de las X y XI Regiones.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

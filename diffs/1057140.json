@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2014-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-02-21",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9408653,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero transitorio.- En <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1059655&amp;idParte=9408611&amp;idVersion=2014-02-21\">Decreto 57<br>Art. &#xDA;NICO b)<br>D.O. 21.02.2014</a></span>tanto no se definan en los planes de prevenci&#xF3;n y/o descontaminaci&#xF3;n las metodolog&#xED;as de pron&#xF3;stico de acuerdo al art&#xED;culo 5&#xBA; del presente decreto, se entender&#xE1; subsistente lo dispuesto en el art&#xED;culo 4&#xBA; del decreto N&#xBA;59 se&#xF1;alado.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9392836,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14.- Lo dispuesto en el presente decreto entrar&#xE1; en vigencia el d&#xED;a 1 de enero de 2014, fecha en que quedar&#xE1; sin efecto el <a href=\"https://www.leychile.cl/Navegar?idNorma=99434&amp;idParte=&amp;idVersion=\">DS N&#xBA; 59, de 1998, del Ministerio Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica</a>, que estableci&#xF3; la &quot;Norma de calidad primaria para material particulado respirable MP10, en especial de los valores que definen situaciones de emergencia&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14.- Lo dispuesto en el presente decreto entrar&#xE1; en vigencia el d&#xED;a 1 de enero de 2014, fecha en que quedar&#xE1; sin efecto el DS N&#xBA; 59, de 1998, del Ministerio Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica, que estableci&#xF3; la &quot;Norma de calidad primaria para material particulado respirable MP10, en especial de los valores que definen situaciones de emergencia&quot;.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1059655&amp;idParte=9408611&amp;idVersion=2014-02-21\">Decreto 57<br>Art. &#xDA;NICO a)<br>D.O. 21.02.2014</a></span> de lo anterior, las referencias hechas al decreto supremo N&#xBA;59, de 1998, del Ministerio Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica, en relaci&#xF3;n a la norma primaria de calidad ambiental para el contaminante denominado material particulado respirable PM10, como concentraci&#xF3;n de 24 horas, en decretos que declaran zonas saturadas o latentes, o que aprueban o modifican planes de prevenci&#xF3;n y/o de descontaminaci&#xF3;n, as&#xED; como en cualquier otro acto administrativo dictados con anterioridad a la publicaci&#xF3;n en el Diario Oficial del presente decreto, deben entenderse hechas al mismo en lo que corresponda. Para estos efectos y para los actos que se dicten a futuro en esta materia, se entender&#xE1; que la concentraci&#xF3;n a la que se refiere la letra a) del art&#xED;culo 2&#xBA; del presente decreto, es normalizada por presi&#xF3;n y temperatura.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1059655,
+      "fecha": "2014-02-21"
+    }
+  },
+  {
+    "fecha": "2015-10-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

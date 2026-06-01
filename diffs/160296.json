@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-03-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-09-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7264744,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Sobre los montos de subsidios por alumno, el n&#xFA;mero de beneficiarios y el aporte a establecimientos, la informaci&#xF3;n es la siguiente:</div><br><br><div class=\"p\">a) Subsidio arancel P.A.A.&nbsp; Hasta $17.000.- por alumno.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (hasta 14.500 alumnos aprox.)</div><br><div class=\"p\">b) Subsidio de salud&nbsp; &nbsp; &nbsp; &nbsp; I.- Hasta $50.000 por alumno</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (12.000 alumnos aprox.)</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; II.- Hasta $350.000 por</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; alumno para atenciones</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; excepcionales de mayor costo.</div><br><div class=\"p\">c) Subsidio en dinero&nbsp; &nbsp; &nbsp;  $200.000 por alumno</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (330 alumnos aprox.)</div><br><div class=\"p\">d) Premios&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $150.000 por alumno</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (10 alumnos por regi&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Sobre el monto de aporte a liceos, &#xE9;ste podr&#xE1; alcanzar un valor m&#xE1;ximo de $500.000.- (Quinientos mil pesos).</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Sobre los montos de subsidios por alumno, el n&#xFA;mero de beneficiarios y el aporte a establecimientos, la informaci&#xF3;n es la siguiente:</div><div class=\"p\">a) Subsidio arancel P.A.A.&nbsp; Hasta $17.000.- por alumno.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (hasta 14.500 alumnos aprox.)</div><br><div class=\"p\">b) Subsidio de salud&nbsp; &nbsp; &nbsp; &nbsp; I.- Hasta $50.000 por alumno</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (12.000 alumnos aprox.)</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; II.- Hasta $350.000 por</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; alumno para atenciones</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; excepcionales de mayor costo.</div><br><div class=\"p\">c) Subsidio en Dinero&nbsp; &nbsp; &nbsp;  $142.000 por alumno.<span class=\"n\" id=\"n_0\">DTO 310, EDUCACION<br>Art. &#xFA;nico<br>D.O. 08.09.2000</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (475 alumnos aprox.).</div><div class=\"p\">d) Premios&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $150.000 por alumno</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (10 alumnos por regi&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Sobre el monto de aporte a liceos, &#xE9;ste podr&#xE1; alcanzar un valor m&#xE1;ximo de $500.000.- (Quinientos mil pesos).</div><br></div>"
+        }
+      ]
+    }
+  }
+]

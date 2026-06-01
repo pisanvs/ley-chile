@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-03-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7195945,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DESIGNA ABOGADOS QUE INDICA Santiago, 8 de marzo de 1996.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 362.- Vistos: el Art. 5&#xB0; letras e), g) y m) del D.F.L. N&#xB0; 1, de 1994, del Ministerio de Hacienda, Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;a, el T&#xED;tulo V del Libro III del C&#xF3;digo Tributario, la Resoluci&#xF3;n Interna N&#xB0; 347, de 1996 y la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto la siguiente</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DESIGNA ABOGADOS QUE INDICA Santiago, 8 de marzo de 1996.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 362.- Vistos: el Art. 5&#xB0; letras e), g) y m) del D.F.L. N&#xB0; 1, de 1994, del Ministerio de Hacienda, Estatuto Org&#xE1;nico del Servicio de Tesorer&#xED;a, el T&#xED;tulo V del Libro III del C&#xF3;digo Tributario, la Resoluci&#xF3;n Interna N&#xB0; 347, de 1996 y la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto la siguiente</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

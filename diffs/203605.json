@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-10-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-11-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8554289,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0;782 EXENTA, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 142 exenta.- Santiago, 10 de octubre de 2002.- Vistos: El DFL N&#xB0;10, de 1981 y el art&#xED;culo N&#xB0;5 del Decreto N&#xB0;615, de 2001, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de modificar el servicio postal de encomienda expresa nacional y paqueter&#xED;a denominado &quot;Ultracom&quot;; el Acuerdo N&#xB0; 160/2002, del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n D&#xE9;cimo Tercera Ordinaria, del 10 de Octubre del 2002; la resoluci&#xF3;n N&#xB0;520/1996 de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las facultades que me confieren la Resoluci&#xF3;n N&#xB0;1 del 2002, y la Resoluci&#xF3;n Exenta N&#xB0;20 del 2001, de la Empresa de Correos de Chile, dicto lo siguiente, </div><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n :</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0;782 EXENTA, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 142 exenta.- Santiago, 10 de octubre de 2002.- Vistos: El DFL N&#xB0;10, de 1981 y el art&#xED;culo N&#xB0;5 del Decreto N&#xB0;615, de 2001, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de modificar el servicio postal de encomienda expresa nacional y paqueter&#xED;a denominado &quot;Ultracom&quot;; el Acuerdo N&#xB0; 160/2002, del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n D&#xE9;cimo Tercera Ordinaria, del 10 de Octubre del 2002; la resoluci&#xF3;n N&#xB0;520/1996 de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las facultades que me confieren la Resoluci&#xF3;n N&#xB0;1 del 2002, y la Resoluci&#xF3;n Exenta N&#xB0;20 del 2001, de la Empresa de Correos de Chile, dicto lo siguiente, </div><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n :</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

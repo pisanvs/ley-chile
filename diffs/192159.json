@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-11-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-11-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6359749,
+          "old": "<div><div class=\"p\">ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 695 exento.- Santiago, 9 de octubre de 2001.- Vistos: Art&#xED;culos N&#xBA;s 1&#xBA;, 3&#xBA; y 6&#xBA; del D.L. N&#xBA; 799 de 1974 y sus modificaciones; decreto N&#xBA; 19 de 2001, de la Secretar&#xED;a General de la Presidencia; circular N&#xBA; 35.593 de 1995 y resoluci&#xF3;n N&#xBA; 520 de 1996 y 117 de 2001, todas de la Contralor&#xED;a General de la Rep&#xFA;blica; oficio Segpres (DI.EJEC.) N&#xBA; 225 de 1994; memor&#xE1;ndum N&#xBA; 153 de 2001, del Gabinete del Sr. Subsecretario de Econom&#xED;a y antecedentes que se acompa&#xF1;an.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, para la Subsecretar&#xED;a de Econom&#xED;a, se hace necesario asignar para uso del Gabinete del Sr. Subsecretario de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, el veh&#xED;culo que se se&#xF1;ala m&#xE1;s adelante, autoriz&#xE1;ndolo para circular en d&#xED;as s&#xE1;bado, domingo y festivos, exento del uso del disco fiscal distintivo, sin restricci&#xF3;n de horarios y adem&#xE1;s para ser estacionado en forma eventual en el domicilio particular del chofer del veh&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp;  Que, el veh&#xED;culo antes citado ser&#xE1; destinado al traslado de los Asesores Directos del Sr. Ministro y Subsecretario, en actos oficiales, cometidos funcionales y seguimiento de las labores que realiza este Ministerio.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 695 exento.- Santiago, 9 de octubre de 2001.- Vistos: Art&#xED;culos N&#xBA;s 1&#xBA;, 3&#xBA; y 6&#xBA; del D.L. N&#xBA; 799 de 1974 y sus modificaciones; decreto N&#xBA; 19 de 2001, de la Secretar&#xED;a General de la Presidencia; circular N&#xBA; 35.593 de 1995 y resoluci&#xF3;n N&#xBA; 520 de 1996 y 117 de 2001, todas de la Contralor&#xED;a General de la Rep&#xFA;blica; oficio Segpres (DI.EJEC.) N&#xBA; 225 de 1994; memor&#xE1;ndum N&#xBA; 153 de 2001, del Gabinete del Sr. Subsecretario de Econom&#xED;a y antecedentes que se acompa&#xF1;an.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, para la Subsecretar&#xED;a de Econom&#xED;a, se hace necesario asignar para uso del Gabinete del Sr. Subsecretario de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, el veh&#xED;culo que se se&#xF1;ala m&#xE1;s adelante, autoriz&#xE1;ndolo para circular en d&#xED;as s&#xE1;bado, domingo y festivos, exento del uso del disco fiscal distintivo, sin restricci&#xF3;n de horarios y adem&#xE1;s para ser estacionado en forma eventual en el domicilio particular del chofer del veh&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp;  Que, el veh&#xED;culo antes citado ser&#xE1; destinado al traslado de los Asesores Directos del Sr. Ministro y Subsecretario, en actos oficiales, cometidos funcionales y seguimiento de las labores que realiza este Ministerio.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

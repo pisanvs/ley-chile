@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-08-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8313635,
+          "old": "<div><div class=\"p\">PRORROGA PLAZO QUE INDICA</div><br><br></div>",
+          "new": "<div><div class=\"p\">PRORROGA PLAZO QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

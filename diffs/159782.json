@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-04-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7264223,
+          "old": "<div><div class=\"p\">ESTABLECE MEDIDAS PARA REGULAR LA EXPLOTACION DEL RECURSO DENOMINADO &quot;LOCO&quot; Y DEROGA NORMAS QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 137.- Santiago, 22 de Abril de 1986.- Visto: El informe de la Subsecretar&#xED;a de Pesca; lo dispuesto en el DFL No. 5, de 1983; en el decreto 1.584, de 1934, del ex Ministerio de Fomento; en los decretos No. 337, de 1984 y 262, de 1985, ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; en la ley No. 10.336 y Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que antecedentes t&#xE9;cnicos disponibles demuestran la necesidad de ajustar la norma de manejo que regula la pesquer&#xED;a del recurso &quot;loco&quot;,</div><div class=\"p\">&nbsp; &nbsp;  Que para facilitar la aplicaci&#xF3;n de la referida norma se hace necesario refundirla en un solo texto reglamentario,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE MEDIDAS PARA REGULAR LA EXPLOTACION DEL RECURSO DENOMINADO &quot;LOCO&quot; Y DEROGA NORMAS QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 137.- Santiago, 22 de Abril de 1986.- Visto: El informe de la Subsecretar&#xED;a de Pesca; lo dispuesto en el DFL No. 5, de 1983; en el decreto 1.584, de 1934, del ex Ministerio de Fomento; en los decretos No. 337, de 1984 y 262, de 1985, ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; en la ley No. 10.336 y Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que antecedentes t&#xE9;cnicos disponibles demuestran la necesidad de ajustar la norma de manejo que regula la pesquer&#xED;a del recurso &quot;loco&quot;,</div><div class=\"p\">&nbsp; &nbsp;  Que para facilitar la aplicaci&#xF3;n de la referida norma se hace necesario refundirla en un solo texto reglamentario,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

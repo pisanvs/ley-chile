@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1980-03-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8964051,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Recon&#xF3;cese, por gracia, a don Ra&#xFA;l Montenegro Gamboa, para todos los efectos legales y en especial para su jubilaci&#xF3;n el per&#xED;odo comprendido entre el 1&#xB0; de Agosto y el 31 de Octubre de 1960.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Las imposiciones correspondientes a dichos per&#xED;odos ser&#xE1;n de cargo del interesado y la Caja de Previsi&#xF3;n de la Defensa Nacional proceder&#xE1; a recibirlas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Recon&#xF3;cese, por gracia, a don Ra&#xFA;l Montenegro Gamboa, para todos los efectos legales y en especial para su jubilaci&#xF3;n el per&#xED;odo comprendido entre el 1&#xB0; de Agosto y el 31 de Octubre de 1960.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp;  Las imposiciones correspondientes a dichos per&#xED;odos ser&#xE1;n de cargo del interesado y la Caja de Previsi&#xF3;n de la Defensa Nacional proceder&#xE1; a recibirlas.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico del DL 3592, Interior, publicado el 19.01.1981, modific&#xF3; el presente art&#xED;culo en el sentido de establecer que el per&#xED;odo a reconocer, para todos los efectos legales y en especial para la jubilaci&#xF3;n, es el comprendido entre el 1&#xBA; de Agosto de 1959 al 31 de Octubre de 1960.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

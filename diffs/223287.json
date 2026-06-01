@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-04-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-02-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6472088,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA;140 EXENTA, DE 2004 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA;140 EXENTA, DE 2004 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

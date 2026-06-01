@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-11-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-06-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8923238,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; F&#xED;jase en la Regi&#xF3;n Metropolitana la siguiente distribuci&#xF3;n de recursos para 660 subsidios habitacionales correspondientes a la primera etapa de viviendas progresivas en la modalidad Programa Privado, de un monto m&#xE1;ximo de 100 Unidades de Fomento cada uno:</div><div class=\"p\">&nbsp; &nbsp; Regi&#xF3;n Metropolitana Para atender a postulaci&#xF3;n individual, 10 Subsidios.</div><div class=\"p\">&nbsp; &nbsp; Para atender a postulaci&#xF3;n colectiva, 650 Subsidios Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n de la presente resoluci&#xF3;n en el plazo de cinco d&#xED;as.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; F&#xED;jase en la Regi&#xF3;n Metropolitana la siguiente distribuci&#xF3;n de recursos para 660 subsidios habitacionales correspondientes a la primera etapa de viviendas progresivas en la modalidad Programa Privado, de un monto m&#xE1;ximo de 120 Unidades de Fomento cada uno:<span class=\"n\" id=\"n_0\">RES 502<br>VIVIENDA<br>D.O. 4.11.1992</span></div><div class=\"p\">&nbsp; &nbsp;  Regi&#xF3;n Metropolitana</div><div class=\"p\">&nbsp; &nbsp;  Para atender a postulaci&#xF3;n individual, 10 Subsidios.</div><div class=\"p\">&nbsp; &nbsp;  Para atender a postulaci&#xF3;n colectiva, 650 Subsidios</div><div class=\"p\">&nbsp; &nbsp; Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n de la presente resoluci&#xF3;n en el plazo de cinco d&#xED;as.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

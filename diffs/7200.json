@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1981-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-12-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9037238,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DICTA NORMAS PARA EL SERVICIO DE REGISTRO CIVIL E IDENTIFICACION</div><div class=\"p\">&nbsp; &nbsp; Santiago, 20 de Febrero de 1981.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 3.630.- Visto: Lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha resuelto dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; D.L. 3.630, MINISTERIO DE JUSTICIA</div><div class=\"p\">&nbsp; &nbsp; (publicado en el Diario Oficial N&#xB0; 30.903, de 28 de Febrero de 1981)</div><div class=\"p\">&nbsp; &nbsp; DICTA NORMAS PARA EL SERVICIO DE REGISTRO CIVIL E IDENTIFICACION</div><div class=\"p\">&nbsp; &nbsp; Santiago, 20 de Febrero de 1981.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 3.630.- Visto: Lo dispuesto en los decretos leyes N&#xB0;s 1 y 128, de 1973; 527, de 1974, y 991, de 1976,</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha resuelto dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1981-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9037239,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Decl&#xE1;rase al personal del Servicio de Registro Civil e Identificaci&#xF3;n en calidad de interino. Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que dentro del plazo de un a&#xF1;o a contar de esta fecha, en uno o m&#xE1;s actos, pueda poner t&#xE9;rmino discrecionalmente a estos interinatos con las mismas facultades que le confiere el decreto ley n&#xFA;mero 3.410, de 1980, lo que otorgar&#xE1; al personal afectado los derechos establecidos en el art&#xED;culo 29 del decreto ley N&#xB0; 2.879, de 1979, e introduzca a la planta del personal las modificaciones necesarias para el mejor funcionamiento del Servicio, sin que &#xE9;stas puedan significar aumento del gasto en personal ni aumento de la dotaci&#xF3;n m&#xE1;xima, pudiendo proveerse discrecionalmente los cargos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Decl&#xE1;rase al personal del Servicio de Registro Civil e Identificaci&#xF3;n en calidad de interino. Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que dentro del plazo de un a&#xF1;o a contar de esta fecha, en uno o m&#xE1;s actos, pueda poner t&#xE9;rmino discrecionalmente a estos interinatos con las mismas facultades que le confiere el decreto ley n&#xFA;mero 3.410, de 1980, lo que otorgar&#xE1; al personal afectado los derechos establecidos en el art&#xED;culo 29 del decreto ley N&#xB0; 2.879, de 1979, e introduzca a la planta del personal las modificaciones necesarias para el mejor funcionamiento del Servicio, sin que &#xE9;stas puedan significar aumento del gasto en personal ni aumento de la dotaci&#xF3;n m&#xE1;xima, pudiendo proveerse discrecionalmente los cargos.</div><div class=\"p\">&nbsp; &nbsp; Los funcionarios a quienes se les aplique lo<span class=\"n\" id=\"n_0\">LEY 18091<br>ART 29</span> dispuesto en el inciso anterior, que cuenten con 20 o m&#xE1;s a&#xF1;os de imposiciones o tiempo computable, tendr&#xE1;n derecho a acogerse a jubilaci&#xF3;n. En tal caso, no les corresponder&#xE1; la indemnizaci&#xF3;n establecida en la letra e) del art&#xED;culo 29 del decreto ley N&#xB0; 2.879, de 1979, y si la hubieren percibido deber&#xE1;n reintegrarla debidamente reajustada.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  La modificaci&#xF3;n introducida por la ley 18.091, rige a contar de la vigencia del presente Decreto Ley.<br></div></div>"
+        },
+        {
+          "part_id": 9037240,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea.- Sergio de Castro Spikula, Ministro de Hacienda.-</div><div class=\"p\">M&#xF3;nica Madariaga Guti&#xE9;rrez, Ministro de Justicia.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo para su conocimiento.- Le saluda atentamente.- Francisco Jos&#xE9; Folch Verdugo, Subsecretario de Justicia.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea.- Sergio de Castro Spikula, Ministro de Hacienda.- M&#xF3;nica Madariaga Guti&#xE9;rrez, Ministro de Justicia.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

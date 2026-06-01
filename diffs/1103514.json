@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2017-06-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9801206,
+          "old": "<div><br><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Por Decreto MOP (Exento) N&#xB0; 364, de 16 de mayo de 2017, y en base a la facultad otorgada por los art&#xED;culos 3&#xB0; letra a), 10&#xB0; letra c), 14&#xB0; letra e) y 105&#xB0; del DFL MOP N&#xB0; 850, de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley N&#xB0; 15.840 y del DFL MOP N&#xB0; 206, de 1960, se expropiaron los lotes de terreno N&#xB0;s. 161, 162, 163, 164 y 165, para la obra: &quot;Mejoramiento Rutas S/Rol, T-981-U S: Crucero-Entrelagos&quot;, que figuran a nombre de MARTABIT CASPO MICHEL, MARTABIT CASPO MICHEL, MARTABIT CASPO MICHEL, MARTABIT CASPO MICHEL y CONSTRUCTORA E INMOBILIARIA JERE, roles de aval&#xFA;o 528-253, 528-253, 258-253, 528-297 y 1528-101, Comuna de R&#xED;o Bueno, XIV Regi&#xF3;n de Los R&#xED;os, superficies 356 m2, 63 m2, 137 m2, 296 m2 y 440 m2., respectivamente. La Comisi&#xF3;n de Peritos integrada por Patricio Fernando Casagrande Ulloa, Yaschala Maribel Y&#xE1;&#xF1;ez Riffo y Mar&#xED;a Soledad N&#xFA;&#xF1;ez Arroyo, mediante informe de tasaci&#xF3;n de 3 de junio de 2014, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $1.252.000.-, para el lote N&#xB0; 161, $360.500.-, para el lote N&#xB0; 162, $280.500.-, para el lote N&#xB0; 163, $530.500.- para el lote N&#xB0; 164 y $1.026.800.- para el lote N&#xB0; 165. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xB0; del Decreto Ley N&#xB0; 2186, de 1978. </div></div>",
+          "new": "<div><br><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Por Decreto MOP (Exento) N&#xB0; 364, de 16 de mayo de 2017, y en base a la facultad otorgada por los art&#xED;culos 3&#xB0; letra a), 10&#xB0; letra c), 14&#xB0; letra e) y 105&#xB0; del DFL MOP N&#xB0; 850, de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley N&#xB0; 15.840 y del DFL MOP N&#xB0; 206, de 1960, se expropiaron los lotes de terreno N&#xB0;s. 161, 162, 163, 164 y 165, para la obra: &quot;Mejoramiento Rutas S/Rol, T-981-U S: Crucero-Entrelagos&quot;, que figuran a nombre de MARTABIT CASPO MICHEL, MARTABIT CASPO MICHEL, MARTABIT CASPO MICHEL, MARTABIT CASPO MICHEL y CONSTRUCTORA E INMOBILIARIA JERE, roles de aval&#xFA;o 528-253, 528-253, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1104714&amp;idParte=9811003&amp;idVersion=2017-07-01\">Decreto 465 EXENTO,<br>OBRAS P&#xDA;BLICAS<br>D.O. 01.07.2017</a></span>528-253, 528-297 y 1528-101, Comuna de R&#xED;o Bueno, XIV Regi&#xF3;n de Los R&#xED;os, superficies 356 m2, 63 m2, 137 m2, 296 m2 y 440 m2., respectivamente. La Comisi&#xF3;n de Peritos integrada por Patricio Fernando Casagrande Ulloa, Yaschala Maribel Y&#xE1;&#xF1;ez Riffo y Mar&#xED;a Soledad N&#xFA;&#xF1;ez Arroyo, mediante informe de tasaci&#xF3;n de 3 de junio de 2014, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $1.252.000.-, para el lote N&#xB0; 161, $360.500.-, para el lote N&#xB0; 162, $280.500.-, para el lote N&#xB0; 163, $530.500.- para el lote N&#xB0; 164 y $1.026.800.- para el lote N&#xB0; 165. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xB0; del Decreto Ley N&#xB0; 2186, de 1978. </div><br></div>"
+        }
+      ]
+    }
+  }
+]

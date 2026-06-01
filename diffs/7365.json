@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-02-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-04-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8257906,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DEROGA D.S. N&#xB0; 251, DE 1990 Y FIJA ORDEN DE SUBROGANCIA DE LA SUBSECRETARIA DE BIENES NACIONALES N&#xFA;m. 7.- Santiago, 20 de enero de 1992.- Visto: Las necesidades del Servicio:</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que es de imprescindible necesidad fijar y determinar las personas y el orden de prelaci&#xF3;n que &#xE9;stas tendr&#xE1;n para la subrogancia legal de la se&#xF1;ora Subsecretaria de Bienes Nacionales, en caso de ausencia o impedimento de la titular; y,</div><div class=\"p\">&nbsp; &nbsp; Teniente presente: Lo dispuesto en el art&#xED;culo 75&#xB0;, letra a), de la Ley N&#xB0; 18.834, que aprob&#xF3; el Estatuto Administrativo; y, la facultad que se me confiere mediante el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DEROGA D.S. N&#xB0; 251, DE 1990 Y FIJA ORDEN DE SUBROGANCIA DE LA SUBSECRETARIA DE BIENES NACIONALES N&#xFA;m. 7.- Santiago, 20 de enero de 1992.- Visto: Las necesidades del Servicio:</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que es de imprescindible necesidad fijar y determinar las personas y el orden de prelaci&#xF3;n que &#xE9;stas tendr&#xE1;n para la subrogancia legal de la se&#xF1;ora Subsecretaria de Bienes Nacionales, en caso de ausencia o impedimento de la titular; y,</div><div class=\"p\">&nbsp; &nbsp; Teniente presente: Lo dispuesto en el art&#xED;culo 75&#xB0;, letra a), de la Ley N&#xB0; 18.834, que aprob&#xF3; el Estatuto Administrativo; y, la facultad que se me confiere mediante el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

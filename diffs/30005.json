@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1987-05-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-04-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1989-04-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9047043,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Los contribuyentes que de acuerdo con las normas de la Ley sobre Impuesto a la Renta declaren sus rentas efectivas demostradas mediante un balance general, que efect&#xFA;en donaciones para la erecci&#xF3;n del monumento a los m&#xE1;rtires de Carabineros de Chile, podr&#xE1;n rebajar como gasto las sumas de dinero donadas, para los efectos de la determinaci&#xF3;n de la renta l&#xED;quida imponible afecta a los tributos que establece dicha ley, hasta por un monto que no exceda del 10% de la renta l&#xED;quida imponible de primera categor&#xED;a del donante.</div><div class=\"p\">&nbsp; &nbsp; S&#xF3;lo gozar&#xE1;n del beneficio establecido en el inciso anterior, las donaciones que con el objeto se&#xF1;alado se efect&#xFA;en antes del 31 de octubre de 1988.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Los contribuyentes que de acuerdo con las normas de la Ley sobre Impuesto a la Renta declaren sus rentas efectivas demostradas mediante un balance general, que efect&#xFA;en donaciones para la erecci&#xF3;n del monumento a los m&#xE1;rtires de Carabineros de Chile, podr&#xE1;n rebajar como gasto las sumas de dinero donadas, para los efectos de la determinaci&#xF3;n de la renta l&#xED;quida imponible afecta a los tributos que establece dicha ley, hasta por un monto que no exceda del 10% de la renta l&#xED;quida imponible de primera categor&#xED;a del donante.</div><div class=\"p\">&nbsp; &nbsp; S&#xF3;lo gozar&#xE1;n del beneficio establecido en el inciso anterior, las donaciones que con el objeto se&#xF1;alado se efect&#xFA;en antes del 30 de abril de 1989.<span class=\"n\" id=\"n_0\">LEY 18789<br>ART. UNICO</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

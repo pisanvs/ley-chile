@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1978-06-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-07-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003100,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Recon&#xF3;cese, por gracia, a do&#xF1;a Eliana Soria P&#xE9;rez, el per&#xED;odo de desafiliaci&#xF3;n que registra en la Caja de Previsi&#xF3;n de la Defensa Nacional entre el 1&#xBA; de Febrero de 1968 al 31 de Diciembre de 1972, para todos los efectos legales.</div><div class=\"p\">&nbsp; &nbsp;  El reintegro de las imposiciones por el tiempo se&#xF1;alado ser&#xE1; de cargo de la interesada.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Recon&#xF3;cese, por gracia, a do&#xF1;a Eliana Soria P&#xE9;rez, el per&#xED;odo de desafiliaci&#xF3;n que registra en la Caja de Previsi&#xF3;n de la Defensa Nacional entre el 1&#xBA; de Febrero de 1965 al 31 de Diciembre de<span class=\"n\" id=\"n_0\">DL 2712, INTERIOR<br>Art. &#xFA;nico<br>D.O. 07.07.1979</span> 1972, para todos los efectos legales. El reintegro de las imposiciones por el tiempo se&#xF1;alado ser&#xE1; de cargo de la interesada. </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-07-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-04-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9002695,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase como representante del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n ante la Comisi&#xF3;n Creada por el art&#xED;culo 11&#xB0; de la Ley 18.525, de 1986, encargada de investigar la existencia de distorsiones en el precio de las mercanc&#xED;as importadas, al se&#xF1;or Edmundo Lee Ward Cantwell, en calidad de titular y al se&#xF1;or Wally Meza San Mart&#xED;n, en calidad de alterno. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Des&#xED;gnase como representante del Ministro de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Econom&#xED;a, Fomento y Reconstrucci&#xF3;n ante la Comisi&#xF3;n Creada por el art&#xED;culo 11&#xB0; de la Ley 18.525, de 1986, encargada de investigar la existencia de distorsiones en el precio de las mercanc&#xED;as importadas, al se&#xF1;or Edmundo Lee Ward Cantwell, en calidad de titular y al se&#xF1;or Wally Meza San Mart&#xED;n, en calidad de alterno. </div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 45 exenta, Econom&#xED;a, publicada el 18.04.1996, modific&#xF3; la presente norma, en el sentido de designar como nuevo representante del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n ante la comisi&#xF3;n que indica al Sr. Roberto Paiva Reinero, en lugar del Sr. Lee Ward Cantwell.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

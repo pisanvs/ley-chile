@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7264928,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD DE COMERCIO EXTERIOR Y EXPLOTACION DE RECURSOS NATURALES LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD DE COMERCIO EXTERIOR Y EXPLOTACION DE RECURSOS NATURALES LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

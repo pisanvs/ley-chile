@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-02-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8871679,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUMENTA NUMERO DE PASAJEROS EN SERVICIOS QUE INDICA N&#xFA;m. 40 exenta.- Puerto Montt, Junio 18 de 1993.- Visto: El art&#xED;culo 51&#xB0; del D.S. N&#xB0; 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><div class=\"p\">&nbsp; &nbsp; Considerando: Las caracter&#xED;sticas geogr&#xE1;ficas de la X Regi&#xF3;n y la distribuci&#xF3;n de sus habitantes en zonas rurales.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">AUMENTA NUMERO DE PASAJEROS EN SERVICIOS QUE INDICA </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 40 exenta.- Puerto Montt, Junio 18 de 1993.- Visto: El art&#xED;culo 51&#xB0; del D.S. N&#xB0; 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><div class=\"p\">&nbsp; &nbsp; Considerando: Las caracter&#xED;sticas geogr&#xE1;ficas de la X Regi&#xF3;n y la distribuci&#xF3;n de sus habitantes en zonas rurales.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

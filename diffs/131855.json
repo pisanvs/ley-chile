@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-02-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6154649,
+          "old": "<div><div class=\"p\">EXTRACTO&nbsp; DE DECRETO N&#xBA; 1.109 EXENTO, DE 1998 </div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 1.109 EXENTO, DE 1998 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-01-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6315618,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo&nbsp; 1&#xB0;: Adjud&#xED;canse los siguientes montos por concepto de aporte suplementario por costo de capital adicional, en el marco del Tercer Concurso P&#xFA;blico (N&#xB0;1/2000) sobre proyectos de infraestructura, a los siguientes establecimientos educacionales:</div><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 08.01.2001, PAGINAS 2, 3 Y 4.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: Adjud&#xED;canse los siguientes montos por concepto de aporte suplementario por costo de capital adicional, en el marco del Tercer Concurso P&#xFA;blico (N&#xB0;1/2000) sobre proyectos de infraestructura, a los siguientes establecimientos educacionales:</div><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 08.01.2001, PAGINAS 2, 3 Y 4.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 2&#xBA; de la RES 6440 exenta, Educaci&#xF3;n, publicada el 27.06.2001, rectific&#xF3; el presente listado en la forma que indica. Por restricciones t&#xE9;cnico temporales no se ha podido componer su texto actualizado.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

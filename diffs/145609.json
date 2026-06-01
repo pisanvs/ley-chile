@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "1973-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-11-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6198050,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Los impuestos o contribuciones establecidos en favor de las Municipalidades y las patentes o derechos municipales de cualquier naturaleza, que no se paguen dentro de los plazos legales correspondientes, se reajustar&#xE1;n en el mismo porcentaje de aumento que haya experimentado el &#xED;ndice de precios al consumidor en el per&#xED;odo comprendido entre el segundo mes que precede al de su vencimiento y el segundo mes que precede al de su pago.</div><div class=\"p\">&nbsp; &nbsp;  Los impuestos, patentes o derechos que se cancelen durante el mes calendario en que se incurri&#xF3; en mora no ser&#xE1;n objeto de reajuste.</div><div class=\"p\">&nbsp; &nbsp;  Los reajustes se&#xF1;alados se calcular&#xE1;n sobre el impuesto, patente o derecho neto adeudados y no se considerar&#xE1;n para los efectos del c&#xE1;lculo de los intereses, multas, recargos y sanciones.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos de la reajustabilidad que se establece en el presente art&#xED;culo todas las deudas impagas al 31 de Diciembre de 1973 se considerar&#xE1;n vencidas con la misma fecha.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Los impuestos o contribuciones establecidos en favor de las Municipalidades y las patentes o derechos municipales de cualquier naturaleza, que no se paguen dentro de los plazos legales correspondientes, se reajustar&#xE1;n en el mismo porcentaje de aumento que haya experimentado el &#xED;ndice de precios al consumidor en el per&#xED;odo comprendido entre el segundo mes que precede al de su vencimiento y el segundo mes que precede al de su pago.</div><div class=\"p\">&nbsp; &nbsp;  Los impuestos, patentes o derechos que se cancelen durante el mes calendario en que se incurri&#xF3; en mora no ser&#xE1;n objeto de reajuste.</div><div class=\"p\">&nbsp; &nbsp;  Los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=6310&amp;idParte=7125629&amp;idVersion=1974-11-05\">DL 728, HACIENDA<br>Art. 2<br>D.O. 05.11.1974</a></span>intereses, multas y sanciones que procedan por el retardo en el pago de los impuestos, contribuciones, patentes, o derechos a que se refiere el inciso primero, se calcular&#xE1;n sobre los valores reajustados, de acuerdo con el inciso primero, pero el monto de los intereses y multas as&#xED; determinado no estar&#xE1; afecto a ninguno de los recargos actualmente establecidos en disposiciones legales.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos de la reajustabilidad que se establece en el presente art&#xED;culo todas las deudas impagas al 31 de Diciembre de 1973 se considerar&#xE1;n vencidas con la misma fecha.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 6310,
+      "fecha": "1974-11-05"
+    }
+  },
+  {
+    "fecha": "1976-08-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6198050,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Los impuestos o contribuciones establecidos en favor de las Municipalidades y las patentes o derechos municipales de cualquier naturaleza, que no se paguen dentro de los plazos legales correspondientes, se reajustar&#xE1;n en el mismo porcentaje de aumento que haya experimentado el &#xED;ndice de precios al consumidor en el per&#xED;odo comprendido entre el segundo mes que precede al de su vencimiento y el segundo mes que precede al de su pago.</div><div class=\"p\">&nbsp; &nbsp;  Los impuestos, patentes o derechos que se cancelen durante el mes calendario en que se incurri&#xF3; en mora no ser&#xE1;n objeto de reajuste.</div><div class=\"p\">&nbsp; &nbsp;  Los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=6310&amp;idParte=7125629&amp;idVersion=1974-11-05\">DL 728, HACIENDA<br>Art. 2<br>D.O. 05.11.1974</a></span>intereses, multas y sanciones que procedan por el retardo en el pago de los impuestos, contribuciones, patentes, o derechos a que se refiere el inciso primero, se calcular&#xE1;n sobre los valores reajustados, de acuerdo con el inciso primero, pero el monto de los intereses y multas as&#xED; determinado no estar&#xE1; afecto a ninguno de los recargos actualmente establecidos en disposiciones legales.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos de la reajustabilidad que se establece en el presente art&#xED;culo todas las deudas impagas al 31 de Diciembre de 1973 se considerar&#xE1;n vencidas con la misma fecha.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Los impuestos o contribuciones establecidos en favor de las Municipalidades y las patentes o derechos municipales de cualquier naturaleza, que no se paguen dentro de los plazos legales correspondientes, se reajustar&#xE1;n en el mismo porcentaje de aumento que haya experimentado el &#xED;ndice de precios al consumidor en el per&#xED;odo comprendido <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=6648&amp;idParte=7127307&amp;idVersion=1976-07-29\">DL 1533, HACIENDA<br>Art. 3<br>D.O. 29.07.1976</a></span>entre el &#xFA;ltimo d&#xED;a del segundo mes que precede al de su vencimiento y el &#xFA;ltimo d&#xED;a del segundo mes que precede al de su pago.</div><div class=\"p\">&nbsp; &nbsp;  Los impuestos, patentes o derechos que se cancelen durante el mes calendario en que se incurri&#xF3; en mora no ser&#xE1;n objeto de reajuste.</div><div class=\"p\">&nbsp; &nbsp;  Los <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=6310&amp;idParte=7125629&amp;idVersion=1974-11-05\">DL 728, HACIENDA<br>Art. 2<br>D.O. 05.11.1974</a></span>intereses, multas y sanciones que procedan por el retardo en el pago de los impuestos, contribuciones, patentes, o derechos a que se refiere el inciso primero, se calcular&#xE1;n sobre los valores reajustados, de acuerdo con el inciso primero, pero el monto de los intereses y multas as&#xED; determinado no estar&#xE1; afecto a ninguno de los recargos actualmente establecidos en disposiciones legales.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos de la reajustabilidad que se establece en el presente art&#xED;culo todas las deudas impagas al 31 de Diciembre de 1973 se considerar&#xE1;n vencidas con la misma fecha.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

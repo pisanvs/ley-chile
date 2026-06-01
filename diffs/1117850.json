@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2018-04-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-05-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9908519,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2: El representante antes individualizado, por razones impostergables de buen servicio, asumir&#xE1; sus funciones inmediatamente, sin esperar la total tramitaci&#xF3;n del presente decreto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2: El representante antes individualizado, por razones impostergables de buen servicio, asumir&#xE1; sus funciones inmediatamente, sin esperar la total tramitaci&#xF3;n del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  A contar<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div> de la <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1118982&amp;idParte=9916458&amp;idVersion=2018-05-26\">Decreto 287 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 26.05.2018</a></span>fecha del presente acto, se deja sin efecto el decreto exento N&#xBA; 254, de 2018, del Ministerio de Educaci&#xF3;n, que contiene la designaci&#xF3;n de don Francisco Prieto Henr&#xED;quez, como representante del Ministerio de Educaci&#xF3;n en el Directorio del Centro de Formaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n de Tarapac&#xE1;.</div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1 del Decreto 287 Exento, Educaci&#xF3;n, publicado el 26.05.2018, dispone agregar un segundo inciso nuevo al art&#xED;culo 2, ordenando por consiguiente dejar sin efecto el presente Decreto 254 Exento. Sin embargo, seg&#xFA;n lo se&#xF1;ala el considerando cuarto de la citada norma, la designaci&#xF3;n de don Francisco Prieto Henr&#xED;quez, como representante del Ministerio de Educaci&#xF3;n en el Directorio del Centro de Formaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n de Tarapac&#xE1; se efectu&#xF3; mediante el Decreto 3, Educaci&#xF3;n, publicado el 24.01.2018.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1118982,
+      "fecha": "2018-05-26"
+    }
+  },
+  {
+    "fecha": "2018-10-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9908519,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2: El representante antes individualizado, por razones impostergables de buen servicio, asumir&#xE1; sus funciones inmediatamente, sin esperar la total tramitaci&#xF3;n del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  A contar<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div> de la <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1118982&amp;idParte=9916458&amp;idVersion=2018-05-26\">Decreto 287 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 26.05.2018</a></span>fecha del presente acto, se deja sin efecto el decreto exento N&#xBA; 254, de 2018, del Ministerio de Educaci&#xF3;n, que contiene la designaci&#xF3;n de don Francisco Prieto Henr&#xED;quez, como representante del Ministerio de Educaci&#xF3;n en el Directorio del Centro de Formaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n de Tarapac&#xE1;.</div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1 del Decreto 287 Exento, Educaci&#xF3;n, publicado el 26.05.2018, dispone agregar un segundo inciso nuevo al art&#xED;culo 2, ordenando por consiguiente dejar sin efecto el presente Decreto 254 Exento. Sin embargo, seg&#xFA;n lo se&#xF1;ala el considerando cuarto de la citada norma, la designaci&#xF3;n de don Francisco Prieto Henr&#xED;quez, como representante del Ministerio de Educaci&#xF3;n en el Directorio del Centro de Formaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n de Tarapac&#xE1; se efectu&#xF3; mediante el Decreto 3, Educaci&#xF3;n, publicado el 24.01.2018.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2: El representante antes individualizado, por razones impostergables de buen servicio, asumir&#xE1; sus funciones inmediatamente, sin esperar la total tramitaci&#xF3;n del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  A contar de la <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1118982&amp;idParte=9916458&amp;idVersion=2018-05-26\">Decreto 287 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 26.05.2018</a></span>fecha del presente acto, se deja sin <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1124749&amp;idParte=9960379&amp;idVersion=2018-10-31\">Decreto 761 EXENTO,<br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 31.10.2018</a></span>efecto el decreto exento N&#xBA; 254, de 2018, del Ministerio de Educaci&#xF3;n, que contiene la designaci&#xF3;n de don Francisco Prieto Henr&#xED;quez, como representante del Ministerio de Educaci&#xF3;n en el Directorio del Centro de Formaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n de Tarapac&#xE1;.</div><br><br><br><br><div class=\"p\"> </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1124749,
+      "fecha": "2018-10-31"
+    }
+  }
+]

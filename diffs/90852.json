@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6086995,
+          "old": "<div><div class=\"p\">FACULTA A LOS NOTARIOS PARA REMITIR EN CINTAS MAGNETICAS INFORMACION SOBRE TRANSFERENCIA DE BIENES RAICES. COMPLEMENTA CIRCULAR N&#xBA; 30 DE 1981 </div></div>",
+          "new": "<div><div class=\"p\">FACULTA A LOS NOTARIOS PARA REMITIR EN CINTAS MAGNETICAS INFORMACION SOBRE TRANSFERENCIA DE BIENES RAICES. COMPLEMENTA CIRCULAR N&#xBA; 30 DE 1981</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

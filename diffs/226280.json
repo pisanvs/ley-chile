@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2004-06-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-02-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6482932,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- El Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n deber&#xE1; dar cumplimiento a los respectivos tr&#xE1;mites de notificaci&#xF3;n de los proyectos de reglamentos y/o procedimientos de evaluaci&#xF3;n de la conformidad y recepci&#xF3;n de las observaciones de los dem&#xE1;s miembros de la Organizaci&#xF3;n Mundial del Comercio, seg&#xFA;n lo establecido en el p&#xE1;rrafo 9 del art&#xED;culo 2&#xBA;; los p&#xE1;rrafos 2 y 3 del art&#xED;culo 3&#xBA;; el p&#xE1;rrafo 6 del art&#xED;culo 5&#xBA; y los p&#xE1;rrafos 2 y 3 del art&#xED;culo 7&#xBA; del Acuerdo OTC, seg&#xFA;n corresponda.</div><div class=\"p\">&nbsp; &nbsp;  Excepto en los casos se&#xF1;alados en el art&#xED;culo 7&#xBA;, aquellos reglamentos t&#xE9;cnicos y/o procedimientos de evaluaci&#xF3;n de la conformidad que sean notificados a la Organizaci&#xF3;n Mundial del Comercio conforme a las disposiciones antes citadas, s&#xF3;lo podr&#xE1;n ser dictados por las entidades facultadas para ello, una vez transcurridos a lo menos sesenta d&#xED;as desde la fecha en que &#xE9;stos sean notificados a la OMC por el Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, hecho que ser&#xE1; oportunamente informado por dicha Secretar&#xED;a de Estado.</div><div class=\"p\">&nbsp; &nbsp;  En las situaciones planteadas en el art&#xED;culo 7&#xBA;, el Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n deber&#xE1; dar cumplimiento a los respectivos tr&#xE1;mites de notificaci&#xF3;n de los reglamentos y/o procedimientos de evaluaci&#xF3;n de la conformidad y recepci&#xF3;n de las observaciones, seg&#xFA;n lo establecido en el p&#xE1;rrafo 10 del art&#xED;culo 2&#xBA;; los p&#xE1;rrafos 2&#xBA; y 3&#xBA; del art&#xED;culo 3&#xBA;; el p&#xE1;rrafo 7&#xBA; del art&#xED;culo 5&#xBA; y los p&#xE1;rrafos 2&#xBA; y 3&#xBA; del art&#xED;culo 7&#xBA; del Acuerdo OTC, seg&#xFA;n corresponda. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- El Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n deber&#xE1; dar cumplimiento a los respectivos tr&#xE1;mites de notificaci&#xF3;n de los proyectos de reglamentos y/o procedimientos de evaluaci&#xF3;n de la conformidad y recepci&#xF3;n de las observaciones de los dem&#xE1;s miembros de la Organizaci&#xF3;n Mundial del Comercio, seg&#xFA;n lo establecido en el p&#xE1;rrafo 9 del art&#xED;culo 2&#xBA;; los p&#xE1;rrafos 2 y 3 del art&#xED;culo 3&#xBA;; el p&#xE1;rrafo 6 del art&#xED;culo 5&#xBA; y los p&#xE1;rrafos 2 y 3 del art&#xED;culo 7&#xBA; del Acuerdo OTC, seg&#xFA;n corresponda.</div><div class=\"p\">&nbsp; &nbsp;  Excepto en los casos se&#xF1;alados en el art&#xED;culo 7&#xBA;, aquellos reglamentos t&#xE9;cnicos y/o procedimientos de evaluaci&#xF3;n de la conformidad que sean notificados a la Organizaci&#xF3;n Mundial del Comercio conforme a las disposiciones antes citadas, s&#xF3;lo podr&#xE1;n ser dictados por las entidades facultadas para ello, una vez transcurridos a lo menos sesenta d&#xED;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1011002&amp;idParte=8870873&amp;idVersion=2010-02-15\">Decreto 308, ECONOMIA<br>Art. PRIMERO<br>D.O. 15.02.2010</a></span>as corridos desde la fecha en que &#xE9;stos sean notificados a la OMC por el Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, hecho que ser&#xE1; oportunamente informado por dicha Secretar&#xED;a de Estado.</div><div class=\"p\">&nbsp; &nbsp;  En las situaciones planteadas en el art&#xED;culo 7&#xBA;, el Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n deber&#xE1; dar cumplimiento a los respectivos tr&#xE1;mites de notificaci&#xF3;n de los reglamentos y/o procedimientos de evaluaci&#xF3;n de la conformidad y recepci&#xF3;n de las observaciones, seg&#xFA;n lo establecido en el p&#xE1;rrafo 10 del art&#xED;culo 2&#xBA;; los p&#xE1;rrafos 2&#xBA; y 3&#xBA; del art&#xED;culo 3&#xBA;; el p&#xE1;rrafo 7&#xBA; del art&#xED;culo 5&#xBA; y los p&#xE1;rrafos 2&#xBA; y 3&#xBA; del art&#xED;culo 7&#xBA; del Acuerdo OTC, seg&#xFA;n corresponda. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1011002,
+      "fecha": "2010-02-15"
+    }
+  },
+  {
+    "fecha": "2023-07-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

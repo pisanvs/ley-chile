@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9764029,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1. Declaraci&#xF3;n &#xC1;rea Marina Costera Protegida de M&#xFA;ltiples Usos &quot;Mar de Juan Fern&#xE1;ndez&quot;. Decl&#xE1;rase el &#xC1;rea Marina Costera Protegida de M&#xFA;ltiples Usos denominada &quot;Mar de Juan Fern&#xE1;ndez&quot;, que comprende una superficie aproximada de 11.027,66 km2. Dicha &#xE1;rea se encuentra ubicada en el Archipi&#xE9;lago del mismo nombre, a 360 mn (670 km) al oeste de la ciudad de Valpara&#xED;so, en la comuna de Juan Fern&#xE1;ndez, en la provincia de Valpara&#xED;so, Regi&#xF3;n de Valpara&#xED;so.</div><div class=\"p\">&nbsp; &nbsp;  Se excluyen de la superficie del &#xC1;rea Marina Costera Protegida de M&#xFA;ltiples Usos las &#xE1;reas que en el art&#xED;culo siguiente se declaran como Parques Marinos, as&#xED; como las destinaciones y concesiones mar&#xED;timas identificadas en oficio N&#xB0; 395, de 21 de enero de 2014, de la Subsecretar&#xED;a para las Fuerzas Armadas.</div><div class=\"p\">&nbsp; &nbsp;  El &#xC1;rea Marina Costera Protegida de M&#xFA;ltiples Usos incluye las porciones de agua, el fondo de mar, las rocas, la playa y los terrenos de playa fiscales que corresponden a los sectores comprendidos en el Archipi&#xE9;lago Juan Fern&#xE1;ndez, fijando sus l&#xED;mites por un pol&#xED;gono cuyas coordenadas geogr&#xE1;ficas se se&#xF1;alan en el plano acompa&#xF1;ante al presente decreto.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1. Declaraci&#xF3;n &#xC1;rea Marina Costera Protegida de M&#xFA;ltiples Usos &quot;Mar de Juan Fern&#xE1;ndez&quot;. Decl&#xE1;rase el &#xC1;rea Marina Costera Protegida de M&#xFA;ltiples Usos denominada &quot;Mar de Juan Fern&#xE1;ndez&quot;, que comprende una superficie <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1126823&amp;idParte=9978331&amp;idVersion=2018-12-19\">Decreto 12, <br>MEDIO AMBIENTE<br>Art. 1<br>D.O. 19.12.2018</a></span>aproximada de 24.000 km2. Dicha &#xE1;rea se encuentra ubicada en el Archipi&#xE9;lago del mismo nombre, a 360 mn (670 km) al oeste de la ciudad de Valpara&#xED;so, en la comuna de Juan Fern&#xE1;ndez, en la provincia de Valpara&#xED;so, Regi&#xF3;n de Valpara&#xED;so.</div><div class=\"p\">&nbsp; &nbsp;  Se excluyen de la superficie del &#xC1;rea Marina Costera Protegida de M&#xFA;ltiples Usos las &#xE1;reas que en el art&#xED;culo siguiente se declaran como Parques Marinos, as&#xED; como las destinaciones y concesiones mar&#xED;timas identificadas en oficio N&#xB0; 395, de 21 de enero de 2014, de la Subsecretar&#xED;a para las Fuerzas Armadas.</div><div class=\"p\">&nbsp; &nbsp;  El &#xC1;rea Marina Costera Protegida de M&#xFA;ltiples Usos incluye las porciones de agua, el fondo de mar, las rocas, la playa y los terrenos de playa fiscales que corresponden a los sectores comprendidos en el Archipi&#xE9;lago Juan Fern&#xE1;ndez, fijando sus l&#xED;mites por un pol&#xED;gono cuyas coordenadas geogr&#xE1;ficas se se&#xF1;alan en el plano acompa&#xF1;ante al presente decreto.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1126823,
+      "fecha": "2018-12-19"
+    }
+  }
+]

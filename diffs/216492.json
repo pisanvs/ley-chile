@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2003-10-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-04-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7415302,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Todo veh&#xED;culo motorizado de 4 &#xF3; m&#xE1;s ruedas que ocupe un estacionamiento de tiempo limitado, deber&#xE1; pagar las tarifas que se se&#xF1;alan a continuaci&#xF3;n , las que ser&#xE1;n indicadas en las se&#xF1;alizaciones correspondientes:</div><br><div class=\"p\">Tarifa A&nbsp;  :&nbsp;  $300 por 30 minutos y $10 por minuto</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  adicional</div><div class=\"p\">Tarifa B&nbsp;  :&nbsp;  $250 por 30 minutos y $8,33 por</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  minuto adicional</div><div class=\"p\">Tarifa C&nbsp;  :&nbsp;  $100 por 30 minutos y $3,33 por</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  minuto adicional</div><br><div class=\"p\">&nbsp; &nbsp;  Estos valores son con IVA incluido y se reajustar&#xE1;n anualmente de acuerdo a la variaci&#xF3;n acumulada del IPC, usando como base el mes de Marzo de 2003.</div><div class=\"p\">&nbsp; &nbsp;  La Municipalidad mediante decreto alcaldicio fundado podr&#xE1; aumentar o disminuir las tarifas indicadas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;: Todo veh&#xED;culo motorizado que ocupe un<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1039269&amp;idParte=9250391&amp;idVersion=2012-04-19\">Ordenanza 116,<br>M. DE PROVIDENCIA<br>N&#xB0; 1, 1.1<br>D.O. 19.04.2012</a></span> estacionamiento de tiempo limitado, deber&#xE1; pagar las tarifas que se se&#xF1;alan a continuaci&#xF3;n, las que ser&#xE1;n indicadas en las se&#xF1;alizaciones correspondientes:</div><br><div class=\"p\">&nbsp; &nbsp;  Tarifa A: $330 por cada 20 minutos o fracci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  Tarifa B: $130 por cada 20 minutos o fracci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Estos valores son con IVA incluido y se reajustar&#xE1;n anualmente de acuerdo a la variaci&#xF3;n acumulada del IPC, usando como base el mes de marzo de 2011.</div><br><div class=\"p\">&nbsp; &nbsp;  La Municipalidad, mediante decreto alcaldicio fundado, podr&#xE1; aumentar o disminuir las tarifas indicadas.</div><br></div>"
+        },
+        {
+          "part_id": 7415303,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Los residentes que sean due&#xF1;os de veh&#xED;culos, que no cuenten con estacionamiento propio y frente a cuyas propiedades actualmente se controlen o, en el futuro, se contemple controlar los espacios de estacionamientos, podr&#xE1;n solicitar, por razones fundadas, especialmente de car&#xE1;cter econ&#xF3;mico, no estar afectos al pago de las tarifas se&#xF1;aladas en el art&#xED;culo precedente, s&#xF3;lo para estacionar su veh&#xED;culo en la cuadra donde residen. La Direcci&#xF3;n de Desarrollo Comunitario evaluar&#xE1; cada caso, considerando adem&#xE1;s que de acuerdo a los t&#xE9;rminos de la concesi&#xF3;n hay un m&#xE1;ximo de 200 veh&#xED;culos que pueden acogerse a este beneficio, e informar&#xE1; a la Direcci&#xF3;n de Tr&#xE1;nsito la procedencia de otorgarlo.</div><div class=\"p\">&nbsp; &nbsp;  Acogida la solicitud se aplicar&#xE1; la tarifa D de $0, para lo cual la Direcci&#xF3;n de Tr&#xE1;nsito informar&#xE1; la patente del veh&#xED;culo de propiedad del beneficiario a la empresa concesionaria.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;: Los residentes que sean due&#xF1;os de<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1039269&amp;idParte=9250391&amp;idVersion=2012-04-19\">Ordenanza 116,<br>M. DE PROVIDENCIA<br>N&#xB0; 1, 1.2<br>D.O. 19.04.2012</a></span> veh&#xED;culos, que no cuenten con estacionamiento propio y frente a cuyas propiedades actualmente se controlen o, en el futuro, se contemple controlar los espacios de estacionamientos, podr&#xE1;n solicitar, por razones fundadas, de car&#xE1;cter econ&#xF3;mico, no estar afectos al pago de la tarifas se&#xF1;aladas en el art&#xED;culo precedente, s&#xF3;lo para estacionar su veh&#xED;culo en la cuadra donde residen. La Direcci&#xF3;n de Desarrollo Comunitario evaluar&#xE1; cada caso, considerando adem&#xE1;s que de acuerdo a los t&#xE9;rminos de la concesi&#xF3;n hay un m&#xE1;ximo de 50 veh&#xED;culos que pueden acogerse a este beneficio, e informar&#xE1; a la Direcci&#xF3;n de Tr&#xE1;nsito la procedencia de otorgarlo.</div><br><div class=\"p\">&nbsp; &nbsp;  Acogida la solicitud se aplicar&#xE1; la tarifa C de $0, para lo cual la Direcci&#xF3;n de Tr&#xE1;nsito informar&#xE1; la patente del veh&#xED;culo de propiedad del beneficiario a la empresa concesionaria.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1039269,
+      "fecha": "2012-04-19"
+    }
+  }
+]

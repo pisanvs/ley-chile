@@ -1,0 +1,332 @@
+[
+  {
+    "fecha": "2021-03-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [
+        {
+          "part_id": 10211678,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO VII</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica Los Parques</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211679,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica Los Parques (en adelante tambi&#xE9;n &quot;Servicio Local Los Parques&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n Metropolitana de Santiago se&#xF1;alado en el numeral 13. del art&#xED;culo 12 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211680,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20.- El &#xE1;mbito de competencia territorial del Servicio Local Los Parques comprender&#xE1; las comunas de Quinta Normal y Renca y tendr&#xE1; su domicilio en la comuna de Quinta Normal.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211681,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21.- El Servicio Local Los Parques iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211682,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO VIII</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Cachapoal Costa</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211683,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Cachapoal Costa (en adelante tambi&#xE9;n &quot;Servicio Local de Cachapoal Costa&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins se&#xF1;alado en el numeral 3. del art&#xED;culo 5 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211684,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23.- El &#xE1;mbito de competencia territorial del Servicio Local de Cachapoal Costa comprender&#xE1; las comunas de Las Cabras, Peumo, Pichidegua y San Vicente de Tagua Tagua y tendr&#xE1; su domicilio en la comuna de San Vicente de Tagua Tagua.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211685,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24.- El Servicio Local de Cachapoal Costa iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211686,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO IX</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Maule Costa</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211687,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 25.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Maule Costa (en adelante tambi&#xE9;n &quot;Servicio Local de Maule Costa&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n del Maule se&#xF1;alado en el numeral 1. del art&#xED;culo 6 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211688,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 26.- El &#xE1;mbito de competencia territorial del Servicio Local de Maule Costa comprender&#xE1; las comunas de Constituci&#xF3;n, Empedrado, Cauquenes, Chanco y Pelluhue y tendr&#xE1; su domicilio en la comuna de Cauquenes.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211689,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 27.- El Servicio Local de Maule Costa iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211690,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO X</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Valle Biob&#xED;o</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211691,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 28.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Valle Biob&#xED;o (en adelante tambi&#xE9;n &quot;Servicio Local de Valle Biob&#xED;o &quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n del Biob&#xED;o se&#xF1;alado en el numeral 7. del art&#xED;culo 7 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211692,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 29.- El &#xE1;mbito de competencia territorial del Servicio Local de Valle Biob&#xED;o comprender&#xE1; las comunas de Laja, Nacimiento, Negrete y San Rosendo y tendr&#xE1; su domicilio en la comuna de Nacimiento.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211693,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 30.- El Servicio Local de Valle Biob&#xED;o iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211694,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO XI</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Arauco Norte</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211695,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 31.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Arauco Norte (en adelante tambi&#xE9;n &quot;Servicio Local de Arauco Norte&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n del Biob&#xED;o se&#xF1;alado en el numeral 8. del art&#xED;culo 7 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211696,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 32.- El &#xE1;mbito de competencia territorial del Servicio Local de Arauco Norte comprender&#xE1; las comunas de Lebu, Arauco y Curanilahue y tendr&#xE1; su domicilio en la comuna de Lebu.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211697,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 33.- El Servicio Local de Arauco Norte iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211698,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO XII</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Punilla Cordillera</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211699,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 34.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Punilla Cordillera (en adelante tambi&#xE9;n &quot;Servicio Local de Punilla Cordillera&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de &#xD1;uble se&#xF1;alado en el numeral 5. del art&#xED;culo 7 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211700,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 35.- El &#xE1;mbito de competencia territorial del Servicio Local de Punilla Cordillera comprender&#xE1; las comunas de Coihueco, &#xD1;iqu&#xE9;n, Pinto, San Carlos y San Fabi&#xE1;n y tendr&#xE1; su domicilio en la comuna de San Carlos.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211701,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 36.- El Servicio Local de Punilla Cordillera iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211702,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO XIII</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica Del Ranco</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211703,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 37.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica Del Ranco (en adelante tambi&#xE9;n &quot;Servicio Local Del Ranco&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Los R&#xED;os se&#xF1;alado en el numeral 1. del art&#xED;culo 13 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211704,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 38.- El &#xE1;mbito de competencia territorial del Servicio Local Del Ranco comprender&#xE1; las comunas de La Uni&#xF3;n, Futrono, Lago Ranco y R&#xED;o Bueno y tendr&#xE1; su domicilio en la comuna de La Uni&#xF3;n.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211705,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 39.- El Servicio Local Del Ranco iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211706,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO XIV</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Ays&#xE9;n</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211707,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 40.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Ays&#xE9;n (en adelante tambi&#xE9;n &quot;Servicio Local de Ays&#xE9;n&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo se&#xF1;alado en el art&#xED;culo 10 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211708,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 41.- El &#xE1;mbito de competencia territorial del Servicio Local de Ays&#xE9;n comprender&#xE1; las comunas de Coyhaique, Lago Verde, Ays&#xE9;n, Cisnes, Guaitecas, Cochrane, O&apos;Higgins, Tortel, Chile Chico y R&#xED;o Ib&#xE1;&#xF1;ez y tendr&#xE1; su domicilio en la comuna de Coyhaique.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211709,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 42.- El Servicio Local de Ays&#xE9;n iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211710,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO XV</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Magallanes</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211711,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 43.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Magallanes (en adelante tambi&#xE9;n &quot;Servicio Local de Magallanes&apos;&apos;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena se&#xF1;alado en el art&#xED;culo 11 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211712,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 44.- El &#xE1;mbito de competencia territorial del Servicio Local de Magallanes comprender&#xE1; las comunas de Punta Arenas, Laguna Blanca, R&#xED;o Verde, San Gregorio, Cabo de Hornos, Ant&#xE1;rtica, Porvenir, Primavera, Timaukel, Natales y Torres del Paine y tendr&#xE1; su domicilio en la comuna de Punta Arenas.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 10211713,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 45.- El Servicio Local de Magallanes iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": [
+        {
+          "part_id": 10211652,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Determ&#xED;nase los quince Servicios de Educaci&#xF3;n que entrar&#xE1;n en funcionamiento a partir del a&#xF1;o 2022 en la forma que sigue:</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span>rt&#xED;culo primero.- Determ&#xED;nase los seis Servicios de Educaci&#xF3;n que entrar&#xE1;n en funcionamiento a partir del a&#xF1;o 2022 en la forma que sigue:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 10211654,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  &quot;T&#xCD;TULO I</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Iquique</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span>&#xCD;TULO I</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Iquique</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 10211655,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Iquique (en adelante tambi&#xE9;n &quot;Servicio Local de Iquique&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Tarapac&#xE1; se&#xF1;alado en el numeral 1. del art&#xED;culo 1 del <a href=\"https://www.leychile.cl/Navegar?idNorma=1123521&amp;idParte=&amp;idVersion=\">decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n</a>.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 1&#xBA;.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Iquique (en adelante tambi&#xE9;n &quot;Servicio Local de Iquique&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Tarapac&#xE1; se&#xF1;alado en el numeral 1. del art&#xED;culo 1 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><br><br></div>"
+        },
+        {
+          "part_id": 10211656,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El &#xE1;mbito de competencia territorial del Servicio Local de Iquique comprender&#xE1; las comunas de Iquique y Alto Hospicio y tendr&#xE1; su domicilio en la comuna de Iquique.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 2&#xBA;.- El &#xE1;mbito de competencia territorial del Servicio Local de Iquique comprender&#xE1; las comunas de Iquique y Alto Hospicio y tendr&#xE1; su domicilio en la comuna de Iquique.</div><br></div>"
+        },
+        {
+          "part_id": 10211657,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- El Servicio Local de Iquique iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 3&#xBA;.- El Servicio Local de Iquique iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div><br></div>"
+        },
+        {
+          "part_id": 10211658,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO II</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica Licancabur</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO II<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span></div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica Licancabur</div><br><br></div>"
+        },
+        {
+          "part_id": 10211659,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica Licancabur (en adelante tambi&#xE9;n &quot;Servicio Local Licancabur&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Antofagasta se&#xF1;alado en el numeral 2. del art&#xED;culo 2 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;<span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span>.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica Licancabur (en adelante tambi&#xE9;n &quot;Servicio Local Licancabur&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Antofagasta se&#xF1;alado en el numeral 2. del art&#xED;culo 2 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 10211660,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- El &#xE1;mbito de competencia territorial del Servicio Local de Licancabur comprender&#xE1; las comunas de Calama, Ollag&#xFC;e, San Pedro de Atacama, Tocopilla y Mar&#xED;a Elena y tendr&#xE1; su domicilio en la comuna de Calama.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 5&#xBA;.- El &#xE1;mbito de competencia territorial del Servicio Local Licancabur comprender&#xE1; las comunas de Calama, Ollag&#xFC;e, San Pedro de Atacama, Tocopilla y Mar&#xED;a Elena, y tendr&#xE1; su domicilio en la comuna de Calama.</div><br></div>"
+        },
+        {
+          "part_id": 10211661,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- El Servicio Local de Licancabur iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_8\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 6&#xBA;.- El Servicio Local Licancabur iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div><br></div>"
+        },
+        {
+          "part_id": 10211662,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO III</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Choapa</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO<span class=\"n\" id=\"n_9\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> III</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Maule Costa</div><br></div>"
+        },
+        {
+          "part_id": 10211663,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Choapa (en adelante tambi&#xE9;n &quot;Servicio Local de Choapa&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Coquimbo se&#xF1;alado en el numeral 1. del art&#xED;culo 3 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_10\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 7&#xBA;.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Maule Costa (en adelante tambi&#xE9;n &quot;Servicio Local de Maule Costa&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n del Maule se&#xF1;alado en el numeral 1. del art&#xED;culo 6 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 10211664,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- El &#xE1;mbito de competencia territorial del Servicio Local de Choapa comprender&#xE1; las comunas de lllapel, Canela, Los Vilos y Salamanca y tendr&#xE1; su domicilio en la comuna de lllapel.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_11\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 8&#xBA;.- El &#xE1;mbito de competencia territorial del Servicio Local de Maule Costa comprender&#xE1; las comunas de Constituci&#xF3;n, Empedrado, Cauquenes, Chanco y Pelluhue, y tendr&#xE1; su domicilio en la comuna de Cauquenes.</div><br></div>"
+        },
+        {
+          "part_id": 10211665,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- El Servicio Local de Choapa iniciar&#xE1; sus funciones el d&#xED;a 1&#xB0; de marzo de 2022.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_12\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 9&#xBA;.- El Servicio Local de Maule Costa iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div><br></div>"
+        },
+        {
+          "part_id": 10211666,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO IV</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Los Andes</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO<span class=\"n\" id=\"n_13\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> IV</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Punilla Cordillera</div><br><br></div>"
+        },
+        {
+          "part_id": 10211667,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Los Andes (en adelante tambi&#xE9;n &quot;Servicio Local de Los Andes&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Valpara&#xED;so se&#xF1;alado en el numeral 4. del art&#xED;culo 4 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_14\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 10&#xBA;.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Punilla Cordillera (en adelante tambi&#xE9;n &quot;Servicio Local de Punilla Cordillera&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de &#xD1;uble se&#xF1;alado en el numeral 5, del art&#xED;culo 7 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 10211668,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- El &#xE1;mbito de competencia territorial del Servicio Local de Los Andes comprender&#xE1; las comunas de Los Andes, Calle Larga, Rinconada y San Esteban y tendr&#xE1; su domicilio en la comuna de Los Andes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_15\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 11&#xBA;.- El &#xE1;mbito de competencia territorial del Servicio Local de Punilla Cordillera comprender&#xE1; las comunas de Coihueco, &#xD1;iqu&#xE9;n, Pinto, San Carlos y San Fabi&#xE1;n y tendr&#xE1; su domicilio en la comuna de San Carlos.</div><br></div>"
+        },
+        {
+          "part_id": 10211669,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12.- El Servicio Local de Los Andes iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo <span class=\"n\" id=\"n_16\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span>12&#xBA;.- El Servicio Local de Punilla Cordillera iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div><br></div>"
+        },
+        {
+          "part_id": 10211670,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO V</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Maipo Sur</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO V</div><div class=\"p\"><span class=\"n\" id=\"n_17\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span>&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Ays&#xE9;n</div><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 10211671,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Maipo Sur (en adelante tambi&#xE9;n &quot;Servicio Local de Maipo Sur&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n Metropolitana de Santiago se&#xF1;alado en el numeral 2. del art&#xED;culo 12 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_18\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 13&#xBA;.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Ays&#xE9;n (en adelante tambi&#xE9;n &quot;Servicio Local de Ays&#xE9;n&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo se&#xF1;alado en el art&#xED;culo 10 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 10211672,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14.- El &#xE1;mbito de competencia territorial del Servicio Local de Maipo Sur comprender&#xE1; las comunas de Buin y Paine y tendr&#xE1; su domicilio en la comuna de Buin.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_19\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 14&#xBA;.- El &#xE1;mbito de competencia territorial del Servicio Local de Ays&#xE9;n comprender&#xE1; las comunas de Coyhaique, Lago Verde, Ays&#xE9;n, Cisnes, Guaitecas, Cochrane, O&apos;Higgins, Tortel, Chile Chico y R&#xED;o Ib&#xE1;&#xF1;ez, y tendr&#xE1; su domicilio en la comuna de Coyhaique.</div><br></div>"
+        },
+        {
+          "part_id": 10211673,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15.- El Servicio Local de Maipo Sur iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_20\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 15&#xBA;.- El Servicio Local de Ays&#xE9;n iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div><br></div>"
+        },
+        {
+          "part_id": 10211674,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO VI</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Chacabuco</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO<span class=\"n\" id=\"n_21\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> VI</div><div class=\"p\">&nbsp; &nbsp;  Del Servicio Local de Educaci&#xF3;n P&#xFA;blica de Magallanes</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 10211675,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Chacabuco (en adelante tambi&#xE9;n &quot;Servicio Local de Chacabuco&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n Metropolitana de Santiago se&#xF1;alado en el numeral 4. del art&#xED;culo 12 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_22\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 16&#xBA;.- Se denominar&#xE1; Servicio Local de Educaci&#xF3;n P&#xFA;blica de Magallanes (en adelante tambi&#xE9;n &quot;Servicio Local de Magallanes&quot;) al Servicio Local de Educaci&#xF3;n P&#xFA;blica de la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena se&#xF1;alado en el art&#xED;culo 11 del decreto N&#xBA; 73, de 2018, del Ministerio de Educaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 10211676,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17.- El &#xE1;mbito de competencia territorial del Servicio Local de Chacabuco comprender&#xE1; las comunas de Colina, Lampa y Tiltil y tendr&#xE1; su domicilio en la comuna de Colina.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_23\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 17&#xBA;.- El &#xE1;mbito de competencia territorial del Servicio Local de Magallanes comprender&#xE1; las comunas de Punta Arenas, Laguna Blanca, R&#xED;o Verde, San Gregorio, Cabo de Hornos, Ant&#xE1;rtica, Porvenir, Primavera, Timaukel, Natales y Torres del Paine y tendr&#xE1; su domicilio en la comuna de Punta Arenas.</div><br></div>"
+        },
+        {
+          "part_id": 10211677,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18.- El Servicio Local de Chacabuco iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_24\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> 18&#xBA;.- El Servicio Local de Magallanes iniciar&#xE1; sus funciones el d&#xED;a 1&#xBA; de marzo de 2022.</div><br></div>"
+        },
+        {
+          "part_id": 10211714,
+          "old": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Durante su primer a&#xF1;o de instalaci&#xF3;n, los Servicios Locales de Educaci&#xF3;n individualizados en los art&#xED;culos precedentes podr&#xE1;n tener su domicilio en cualquiera de las comunas correspondientes a su &#xE1;mbito de competencia territorial.&quot;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_25\"><a href=\"navegar?idNorma=1162391&amp;idParte=10249561&amp;idVersion=2021-07-09\">Decreto 68, EDUCACI&#xD3;N<br>Art. primero<br>D.O. 09.07.2021</a></span> transitorio.- Durante su primer a&#xF1;o de instalaci&#xF3;n, los Servicios Locales de Educaci&#xF3;n individualizados en los art&#xED;culos precedentes podr&#xE1;n tener su domicilio en cualquiera de las comunas correspondientes a su &#xE1;mbito de competencia territorial.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1162391,
+      "fecha": "2021-07-09"
+    }
+  }
+]

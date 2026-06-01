@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-07-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-09-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8339510,
+          "old": "<div><div class=\"p\">AUTORIZA A DON CARLOS EDUARDO VIAL RUIZ-TAGLE PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON CARLOS EDUARDO VIAL RUIZ-TAGLE PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

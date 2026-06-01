@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8326089,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JOSE DEL ROSARIO MALDONADO GAC PARA INICIAR ACTIVIDADES PESQUERAS Y DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JOSE DEL ROSARIO MALDONADO GAC PARA INICIAR ACTIVIDADES PESQUERAS Y DENIEGA AUTORIZACION QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

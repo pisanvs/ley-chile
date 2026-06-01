@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "1999-06-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-21",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8345952,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Conc&#xE9;dese por gracia, a cada una de las siguientes personas: Ana Rosa Catal&#xE1;n Rebolledo, Rut. 1.499.621-4; Florinda de las Nieves Jara Molina, Rut. 5.094.218-K; Ana Eulalia Lillo Torres, Rut.</div><div class=\"p\">3.819.534-4; una pensi&#xF3;n equivalente al 50% de un ingreso m&#xED;nimo mensual.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Conc&#xE9;dese por gracia, a cada una<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> de las siguientes personas: Ana Rosa Catal&#xE1;n Rebolledo, Rut. 1.499.621-4; Florinda de las Nieves Jara Molina, Rut. 5.094.218-K; Ana Eulalia Lillo Torres, Rut. 3.819.534-4; una pensi&#xF3;n equivalente al 50% de un ingreso m&#xED;nimo mensual.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 4240, Interior, publicado el 21.09.1999, faculta a do&#xF1;a Ana del Tr&#xE1;nsito Bolivar Catal&#xE1;n, para cobrar la pensi&#xF3;n de gracia de do&#xF1;a Ana Rosa Catal&#xE1;n Rebolledo.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1999-11-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8345953,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Fac&#xFA;ltase, en el caso de Sandra Viviana Aguilera Pe&#xF1;a, a do&#xF1;a Fresia Guacolda Rosende Garrido, Rut. 3.622.807-5, abuela de la beneficiaria; en el caso del menor Juan Viterbo Canales Garc&#xED;a, a do&#xF1;a Rosa Ester Garc&#xED;a Barrueto, Rut. 8.675.452-5, madre del beneficiario; en el caso de Alfonso Enrique D&#xED;az Angel, a do&#xF1;a Alba Rosa Angel Grebe, Rut. 5.284.082-1, madre del beneficiario; en el caso de Guido Marcelo Maturana Isaacs, a do&#xF1;a Georgina In&#xE9;s Isaacs Catal&#xE1;n, Rut.</div><div class=\"p\">3.485.437-8, madre del beneficiario; en el caso de Francisco Edmundo Reyes Miranda, a do&#xF1;a Juana Luisa Miranda Rubio, Rut. 4.077.577-3, madre del beneficiario; en el caso del menor Alejandro Walter Silva Varas, a don Ra&#xFA;l Francisco Silva Contreras, Rut. 6.851.877-6, padre del beneficiario; en el caso de Luis Alberto Torres Alvarez, a do&#xF1;a Mar&#xED;a Teresa Alvarez Pinto, Rut.</div><div class=\"p\">7.559.592-1, madre del beneficiario; para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Fac&#xFA;ltase, en el caso de Sandra<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> Viviana Aguilera Pe&#xF1;a, a do&#xF1;a Fresia Guacolda Rosende Garrido, Rut. 3.622.807-5, abuela de la beneficiaria; en el caso del menor Juan Viterbo Canales Garc&#xED;a, a do&#xF1;a Rosa Ester Garc&#xED;a Barrueto, Rut. 8.675.452-5, madre del beneficiario; en el caso de Alfonso Enrique D&#xED;az Angel, a do&#xF1;a Alba Rosa Angel Grebe, Rut. 5.284.082-1, madre del beneficiario; en el caso de Guido Marcelo Maturana Isaacs, a do&#xF1;a Georgina In&#xE9;s Isaacs Catal&#xE1;n, Rut. 3.485.437-8, madre del beneficiario; en el caso de Francisco Edmundo Reyes Miranda, a do&#xF1;a Juana Luisa Miranda Rubio, Rut. 4.077.577-3, madre del beneficiario; en el caso del menor Alejandro Walter Silva Varas, a don Ra&#xFA;l Francisco Silva Contreras, Rut. 6.851.877-6, padre del beneficiario; en el caso de Luis Alberto Torres Alvarez, a do&#xF1;a Mar&#xED;a Teresa Alvarez Pinto, Rut. 7.559.592-1, madre del beneficiario; para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 6937, Interior, publicado el 25.11.1999, dej&#xF3; sin efecto la facultad de do&#xF1;a Fresia Rosende Garrido Para cobrar pensi&#xF3;n de gracia por su nieta Sandra Aguilera, facultad que pasar&#xE1; a corresponderle a la hermana de esta &#xFA;ltima, do&#xF1;a Ver&#xF3;nica Aguilera Pe&#xF1;a.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-09-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8345953,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Fac&#xFA;ltase, en el caso de Sandra<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> Viviana Aguilera Pe&#xF1;a, a do&#xF1;a Fresia Guacolda Rosende Garrido, Rut. 3.622.807-5, abuela de la beneficiaria; en el caso del menor Juan Viterbo Canales Garc&#xED;a, a do&#xF1;a Rosa Ester Garc&#xED;a Barrueto, Rut. 8.675.452-5, madre del beneficiario; en el caso de Alfonso Enrique D&#xED;az Angel, a do&#xF1;a Alba Rosa Angel Grebe, Rut. 5.284.082-1, madre del beneficiario; en el caso de Guido Marcelo Maturana Isaacs, a do&#xF1;a Georgina In&#xE9;s Isaacs Catal&#xE1;n, Rut. 3.485.437-8, madre del beneficiario; en el caso de Francisco Edmundo Reyes Miranda, a do&#xF1;a Juana Luisa Miranda Rubio, Rut. 4.077.577-3, madre del beneficiario; en el caso del menor Alejandro Walter Silva Varas, a don Ra&#xFA;l Francisco Silva Contreras, Rut. 6.851.877-6, padre del beneficiario; en el caso de Luis Alberto Torres Alvarez, a do&#xF1;a Mar&#xED;a Teresa Alvarez Pinto, Rut. 7.559.592-1, madre del beneficiario; para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 6937, Interior, publicado el 25.11.1999, dej&#xF3; sin efecto la facultad de do&#xF1;a Fresia Rosende Garrido Para cobrar pensi&#xF3;n de gracia por su nieta Sandra Aguilera, facultad que pasar&#xE1; a corresponderle a la hermana de esta &#xFA;ltima, do&#xF1;a Ver&#xF3;nica Aguilera Pe&#xF1;a.<br></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Fac&#xFA;ltase, en el caso de Sandra<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> Viviana Aguilera Pe&#xF1;a, a do&#xF1;a Fresia Guacolda Rosende<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 1:</a></div> Garrido, Rut. 3.622.807-5, abuela de la beneficiaria; en el caso del menor Juan Viterbo Canales Garc&#xED;a, a do&#xF1;a Rosa Ester Garc&#xED;a Barrueto, Rut. 8.675.452-5, madre del beneficiario; en el caso de Alfonso Enrique D&#xED;az Angel, a do&#xF1;a Alba Rosa Angel Grebe, Rut. 5.284.082-1, madre del beneficiario; en el caso de Guido Marcelo Maturana Isaacs, a do&#xF1;a Georgina In&#xE9;s Isaacs Catal&#xE1;n, Rut. 3.485.437-8, madre del beneficiario; en el caso de Francisco Edmundo Reyes Miranda, a do&#xF1;a Juana Luisa Miranda Rubio, Rut. 4.077.577-3, madre del beneficiario; en el caso del menor Alejandro Walter Silva Varas, a don Ra&#xFA;l Francisco Silva Contreras, Rut. 6.851.877-6, padre del beneficiario; en el caso de Luis Alberto Torres Alvarez, a do&#xF1;a Mar&#xED;a Teresa Alvarez Pinto, Rut. 7.559.592-1, madre del beneficiario; para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 6937, Interior, publicado el 25.11.1999, dej&#xF3; sin efecto la facultad de do&#xF1;a Fresia Rosende Garrido para cobrar pensi&#xF3;n de gracia por su nieta Sandra Aguilera, facultad que pasar&#xE1; a corresponderle a la hermana de esta &#xFA;ltima, do&#xF1;a Ver&#xF3;nica Aguilera Pe&#xF1;a.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 1:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 403, Interior, publicado el 06.09.2002, dej&#xF3; sin efecto la facultad de do&#xF1;a Georgina Isaacs Catal&#xE1;n para cobrar la pensi&#xF3;n de gracia de don Guido Maturana Isaacs, otorg&#xE1;ndosela a do&#xF1;a Georgina Paola Maturana Isaacs RUT. 10.168.778-3.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

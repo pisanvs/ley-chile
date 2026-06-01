@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-05-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-09-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9911885,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xB0;.- El plazo de inicio de los trabajos ser&#xE1; de 6 meses, contados desde la fecha de reducci&#xF3;n a escritura p&#xFA;blica del presente decreto de concesi&#xF3;n. El plazo total para la ejecuci&#xF3;n del proyecto ser&#xE1; de 30 meses a contar de la fecha de inicio de los trabajos, seg&#xFA;n las etapas que se indican a continuaci&#xF3;n:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/79845.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  El desmantelamiento de las obras temporales se realizar&#xE1; dentro de los 6 meses desde el t&#xE9;rmino de la construcci&#xF3;n total y puesta en servicio de la Central Hidroel&#xE9;ctrica Rucalhue.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xB0;.- El plazo de inicio de los trabajos ser&#xE1; de 6 meses, contados desde la fecha de reducci&#xF3;n a escritura p&#xFA;blica del presente decreto de concesi&#xF3;n. El plazo total para la ejecuci&#xF3;n del proyecto ser&#xE1; de <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>30 meses a contar de la fecha de inicio de los trabajos, seg&#xFA;n las etapas que se indican a continuaci&#xF3;n<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1195712&amp;idParte=10455811&amp;idVersion=2023-09-07\">Decreto 175 EXENTO,<br>Energia<br>Art. 1&#xB0; B<br>D.O. 07.09.2023</a></span>:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/169996.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  El desmantelamiento de las obras temporales se realizar&#xE1; dentro de los 6 meses desde el t&#xE9;rmino de la construcci&#xF3;n total y puesta en servicio de la Central Hidroel&#xE9;ctrica Rucalhue.</div><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La letra A del art&#xED;culo 1&#xB0; del Decreto 175 Exento, Energ&#xED;a, publicado el 07.09.2023, modifica la presente norma en el sentido de reemplazar el guarismo &quot;35&quot; por &quot;65&quot;, sin embargo, no ha podido ser reemplazado dicho guarismo por no encontrarse en su texto.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1195712,
+      "fecha": "2023-09-07"
+    }
+  }
+]

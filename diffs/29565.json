@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-07-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-03-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8797075,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- A contar del 1&#xB0; de Enero de 1982, el Fondo Nacional de Pensiones Asistenciales creado por el decreto ley N&#xB0; 869, de 1975, se financiar&#xE1; con un aporte que realizar&#xE1;n todas las instituciones previsionales que, a la fecha de publicaci&#xF3;n de esta ley, se encontraren obligadas a concurrir a &#xE9;l y que ascender&#xE1; al 1,5 por ciento de las remuneraciones imponibles a los respectivos fondos de pensiones de cada instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Los d&#xE9;ficit que pudieren producirse ser&#xE1;n de cargo fiscal.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- DEROGADO<span class=\"n\" id=\"n_0\">LEY 20255<br>Art. Cuarto Trans.<br>D.O. 17.03.2008</span>&nbsp; <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. Cuarto transitorio de la LEY 20255, publicada el 17.03.2008, dispuso que la derogaci&#xF3;n del presente art&#xED;culo rige a contar de la fecha de vigencia de su T&#xED;tulo I, esto es, el 1&#xBA; de julio de 2008.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

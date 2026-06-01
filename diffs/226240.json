@@ -1,0 +1,66 @@
+[
+  {
+    "fecha": "2004-06-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-12-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8651055,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA; Los equipos de radiocomunicaci&#xF3;n terminales de los sistemas punto - multipunto se podr&#xE1;n ubicar en cualquier parte dentro de la zona de servicio asignada y podr&#xE1;n reubicarse de acuerdo a la demanda, por lo que constituyen radioestaciones m&#xF3;viles para efectos del numeral 2 del art&#xED;culo 14&#xBA; de la Ley General de Telecomunicaciones.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA; Las radioestaciones de los sistemas de<span class=\"n\" id=\"n_0\">RES 1640 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 26.12.2006</span> las concesionarias se podr&#xE1;n ubicar en cualquier parte dentro de la zona de servicio autorizada y podr&#xE1;n reubicarse de acuerdo a la demanda, por lo que constituyen radioestaciones m&#xF3;viles para efectos de lo dispuesto en el numeral 2 del inciso segundo del art&#xED;culo 14&#xB0; de la Ley General de Telecomunicaciones. Conforme a lo establecido en el inciso final del art&#xED;culo citado, las modificaciones de concesi&#xF3;n para instalar, operar y explotar estaciones base de estos sistemas, ser&#xE1;n autorizadas mediante simple resoluci&#xF3;n de la Subsecretar&#xED;a.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-04-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [
+        {
+          "part_id": 8651054,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; Las frecuencias 2.450 MHz y 2.472 MHz podr&#xE1;n seguir siendo utilizadas para la operaci&#xF3;n de equipos m&#xF3;viles de televisi&#xF3;n, pero no tendr&#xE1;n protecci&#xF3;n contra interferencias.</div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": [
+        {
+          "part_id": 8651051,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; En el caso de concesiones o permisos los equipos deber&#xE1;n cumplir los siguientes requisitos t&#xE9;cnicos:</div><div class=\"p\">a)&nbsp;  Emplear modalidades de espectro ensanchado con secuencia directa o con saltos de frecuencia u otras modalidades de modulaci&#xF3;n digital, que permitan que en una misma zona geogr&#xE1;fica coexistan m&#xFA;ltiples usuarios y sistemas.</div><div class=\"p\">b)&nbsp;  La modalidad de espectro ensanchado con</div><div class=\"p\">&nbsp; &nbsp;  secuencia directa u otras modalidades con modulaci&#xF3;n digital, deber&#xE1;n tener un ancho de banda m&#xED;nimo de 500 kHz medido a 6 dB y la densidad m&#xE1;xima de potencia por ancho de banda ser&#xE1; 8 dBm/3kHz.</div><div class=\"p\">c)&nbsp;  La modalidad de espectro ensanchado con saltos de frecuencia poseer&#xE1; al menos 15 canales de salto no traslapados. El tiempo promedio de ocupaci&#xF3;n por canal no deber&#xE1; superar 0,4 segundos en un tiempo de medici&#xF3;n de 0,4 segundos multiplicado por el n&#xFA;mero total de canales de salto.</div><div class=\"p\">d)&nbsp;  La potencia isotr&#xF3;pica radiada equivalente (PIRE) no deber&#xE1; sobrepasar 4 W para enlaces punto-multipunto y para el caso de enlaces punto a punto deber&#xE1; emplearse s&#xF3;lo antenas direccionales y la potencia suministrada a la antena ser&#xE1; la m&#xED;nima necesaria para establecer el respectivo enlace. No obstante, para la modalidad de espectro ensanchado con saltos de frecuencia, que utilice menos de 75 canales de salto, la PIRE m&#xE1;xima ser&#xE1; 500 mW.</div><div class=\"p\">e)&nbsp;  En ning&#xFA;n caso la potencia m&#xE1;xima suministrada a la antena exceder&#xE1; 1 W.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; En el caso de concesiones o permisos los equipos deber&#xE1;n cumplir los siguientes requisitos t&#xE9;cnicos:</div><div class=\"p\">a)&nbsp;  Emplear modalidades de espectro ensanchado con secuencia directa o con saltos de frecuencia u otras modalidades de modulaci&#xF3;n digital, que permitan que en una misma zona geogr&#xE1;fica coexistan m&#xFA;ltiples usuarios y sistemas.</div><div class=\"p\">b)&nbsp;  La modalidad de espectro ensanchado con</div><div class=\"p\">&nbsp; &nbsp;  secuencia directa u otras modalidades con modulaci&#xF3;n digital, deber&#xE1;n tener un ancho de banda m&#xED;nimo de 500 kHz medido a 6 dB y la densidad m&#xE1;xima de potencia por ancho de banda ser&#xE1; 8 dBm/3kHz.</div><div class=\"p\">c)&nbsp;  La modalidad de espectro ensanchado con saltos de frecuencia poseer&#xE1; al menos 15 canales de salto no traslapados. El tiempo promedio de ocupaci&#xF3;n por canal no deber&#xE1; superar 0,4 segundos en un tiempo de medici&#xF3;n de 0,4 segundos multiplicado por el n&#xFA;mero total de canales de salto.</div><div class=\"p\">d)&nbsp;  La potencia isotr&#xF3;pica radiada equivalente (PIRE) no deber&#xE1; sobrepasar 4 W para enlaces punto-multipunto y para el caso de enlaces punto a punto deber&#xE1; emplearse s&#xF3;lo antenas direccionales y la potencia suministrada a la antena ser&#xE1; la m&#xED;nima necesaria para establecer el respectivo enlace. No obstante, para la modalidad de espectro ensanchado con saltos de frecuencia, que utilice menos de 75 canales de salto, la PIRE m&#xE1;xima ser&#xE1; 500 mW.</div><div class=\"p\">e)&nbsp;  La potencia m&#xE1;xima suministrada a la antena no <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1050317&amp;idParte=9345175&amp;idVersion=2013-04-22\">Resoluci&#xF3;n 1275 EXENTA, TRANSPORTES<br>Art. UNICO Nos. 1 y 2<br>D.O. 22.04.2013</a></span>deber&#xE1; exceder 1 W.</div><div class=\"p\">f)&nbsp;  En zonas rurales y tambi&#xE9;n para el caso de un enlace punto a punto, entre la periferia de una zona urbana </div><div class=\"p\">y un sistema instalado o proyectado para operar en una zona rural, la Subsecretar&#xED;a de Telecomunicaciones </div><div class=\"p\">podr&#xE1; autorizar que se excedan los l&#xED;mites se&#xF1;alados en los literales d) y e) anteriores.</div><div class=\"p\">g)&nbsp;  En todos los casos, se deber&#xE1; emplear la m&#xED;nima potencia necesaria para establecer los enlaces </div><div class=\"p\">proyectados y los sistemas radiantes deber&#xE1;n instalarse de modo que tengan una m&#xED;nima influencia al interior de</div><div class=\"p\">inmuebles, para facilitar la operaci&#xF3;n de sistemas de baja potencia.</div><br><br></div>"
+        },
+        {
+          "part_id": 8651055,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA; Las radioestaciones de los sistemas de<span class=\"n\" id=\"n_0\">RES 1640 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 26.12.2006</span> las concesionarias se podr&#xE1;n ubicar en cualquier parte dentro de la zona de servicio autorizada y podr&#xE1;n reubicarse de acuerdo a la demanda, por lo que constituyen radioestaciones m&#xF3;viles para efectos de lo dispuesto en el numeral 2 del inciso segundo del art&#xED;culo 14&#xB0; de la Ley General de Telecomunicaciones. Conforme a lo establecido en el inciso final del art&#xED;culo citado, las modificaciones de concesi&#xF3;n para instalar, operar y explotar estaciones base de estos sistemas, ser&#xE1;n autorizadas mediante simple resoluci&#xF3;n de la Subsecretar&#xED;a.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1050317&amp;idParte=9345175&amp;idVersion=2013-04-22\">Resoluci&#xF3;n 1275 EXENTA,<br>TRANSPORTES<br>Art. UNICO N&#xB0; 3<br>D.O. 22.04.2013</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA; Las radioestaciones de los sistemas de las concesionarias se podr&#xE1;n ubicar en cualquier parte dentro de la zona de servicio autorizada y podr&#xE1;n reubicarse de acuerdo a la demanda, por lo que constituy<span class=\"n\" id=\"n_2\">RES 1640 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 26.12.2006</span>en radioestaciones m&#xF3;viles para efectos de lo dispuesto en el numeral 2 del inciso segundo del art&#xED;culo 14&#xB0; de la Ley General de Telecomunicaciones. Conforme a lo establecido en el inciso final del art&#xED;culo citado, las modificaciones de concesi&#xF3;n para instalar, operar y explotar estaciones base de estos sistemas, ser&#xE1;n autorizadas mediante simple resoluci&#xF3;n de la Subsecretar&#xED;a.</div><br></div>"
+        },
+        {
+          "part_id": 8651056,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;&nbsp;  Lo dispuesto en la presente norma t&#xE9;cnica es sin perjuicio de las disposiciones contenidas en la resoluci&#xF3;n exenta N&#xBA; 144 de 1979, de la Subsecretar&#xED;a, y sus modificaciones, que regula el uso de aparatos de telecomunicaciones de corto alcance. </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1050317&amp;idParte=9345175&amp;idVersion=2013-04-22\">Resoluci&#xF3;n 1275 EXENTA,<br>TRANSPORTES<br>Art. UNICO N&#xB0; 3<br>D.O. 22.04.2013</a></span>&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;&nbsp;  Lo dispuesto en la presente norma t&#xE9;cnica es sin perjuicio de las disposiciones contenidas en la resoluci&#xF3;n exenta N&#xBA; 144 de 1979, de la Subsecretar&#xED;a, y sus modificaciones, que regula el uso de aparatos de telecomunicaciones de corto alcance. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1050317,
+      "fecha": "2013-04-22"
+    }
+  },
+  {
+    "fecha": "2024-04-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-05-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7283784,
+          "old": "<div><div class=\"p\">ASIGNA Y AUTORIZA CIRCULACION DE VEHICULOS QUE INDICA, DE PROPIEDAD DE LA SUBSECRETARIA DE EDUCACION </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 213 exento.- Santiago, 16 de abril de 1996.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que, los Secretarios Ministeriales Regionales de Educaci&#xF3;n en el cumplimiento de sus funciones deben desplazarse dentro y fuera de sus respectivas regiones, para lo cual requieren contar en forma permanente con veh&#xED;culos motorizados;</div><div class=\"p\">&nbsp; &nbsp;  Que, entre otras funciones inherentes a sus cargos, deben asistir a reuniones y encuentros con otras autoridades regionales, tanto del Ministerio de Educaci&#xF3;n como de otros Ministerios, participar en eventos educacionales, culturales, de difusi&#xF3;n, acad&#xE9;micos, estudiantiles, seminarios, etc.;</div><div class=\"p\">&nbsp; &nbsp;  Que, es frecuente que las funciones se&#xF1;aladas se desarrollen en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos y normalmente exceden la jornada diaria de trabajo, y,</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el Decreto Ley N&#xBA; 799 de 1974; D.F.L. N&#xBA; 12-2345 de 1979; art&#xED;culo 14&#xBA; de la Ley N&#xBA; 18.267; Decretos Supremos de Interior N&#xBA;s. 654 de 1994 y 976 de 1995; Ord. N&#xBA; 025/073 de 28 de marzo de 1996 del Jefe Secci&#xF3;n Equipamiento del Ministerio de Educaci&#xF3;n; Resoluci&#xF3;n N&#xBA; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y en los art&#xED;culos 32 N&#xBA; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">ASIGNA Y AUTORIZA CIRCULACION DE VEHICULOS QUE INDICA, DE PROPIEDAD DE LA SUBSECRETARIA DE EDUCACION </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 213 exento.- Santiago, 16 de abril de 1996.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que, los Secretarios Ministeriales Regionales de Educaci&#xF3;n en el cumplimiento de sus funciones deben desplazarse dentro y fuera de sus respectivas regiones, para lo cual requieren contar en forma permanente con veh&#xED;culos motorizados;</div><div class=\"p\">&nbsp; &nbsp;  Que, entre otras funciones inherentes a sus cargos, deben asistir a reuniones y encuentros con otras autoridades regionales, tanto del Ministerio de Educaci&#xF3;n como de otros Ministerios, participar en eventos educacionales, culturales, de difusi&#xF3;n, acad&#xE9;micos, estudiantiles, seminarios, etc.;</div><div class=\"p\">&nbsp; &nbsp;  Que, es frecuente que las funciones se&#xF1;aladas se desarrollen en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos y normalmente exceden la jornada diaria de trabajo, y,</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el Decreto Ley N&#xBA; 799 de 1974; D.F.L. N&#xBA; 12-2345 de 1979; art&#xED;culo 14&#xBA; de la Ley N&#xBA; 18.267; Decretos Supremos de Interior N&#xBA;s. 654 de 1994 y 976 de 1995; Ord. N&#xBA; 025/073 de 28 de marzo de 1996 del Jefe Secci&#xF3;n Equipamiento del Ministerio de Educaci&#xF3;n; Resoluci&#xF3;n N&#xBA; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y en los art&#xED;culos 32 N&#xBA; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

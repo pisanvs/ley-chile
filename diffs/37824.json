@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-08-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6019246,
+          "old": "<div><div class=\"p\">DETERMINA RADIO URBANO DE CONGLOMERADO DE CIUDADES QUE SE INDICAN</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 4 exenta.- Coyhaique, 3 de febrero de 1993.</div><div class=\"p\">&nbsp; &nbsp; Vistos:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0; Las facultades que me confiere el art&#xED;culo 6&#xB0; letra a) del D.S. N&#xB0; 212 de 1992, del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0; El Fax N&#xB0; 8 del 22 de Enero de 1993 del Sr. Alcalde de Puerto Ays&#xE9;n.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DETERMINA RADIO URBANO DE CONGLOMERADO DE CIUDADES QUE SE INDICAN</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 4 exenta.- Coyhaique, 3 de febrero de 1993.</div><div class=\"p\">&nbsp; &nbsp; Vistos:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0; Las facultades que me confiere el art&#xED;culo 6&#xB0; letra a) del D.S. N&#xB0; 212 de 1992, del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0; El Fax N&#xB0; 8 del 22 de Enero de 1993 del Sr. Alcalde de Puerto Ays&#xE9;n.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

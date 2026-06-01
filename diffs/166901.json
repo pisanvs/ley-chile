@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-10-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-11-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6269511,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 1.918, DE 1987 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 1.918, DE 1987 </div><br></div>"
+        }
+      ]
+    }
+  }
+]

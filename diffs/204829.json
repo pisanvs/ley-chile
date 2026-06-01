@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-11-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-06-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8044685,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- El horario m&#xED;nimo de funcionamiento del gimnasio y sus dependencias, ser&#xE1; de lunes a viernes de 08:00 a 23:00 horas, en dos turnos cada uno, y los d&#xED;as domingo y festivos de 9:00 a 15:00 horas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 3&#xBA;.- El horario m&#xED;nimo de funcionamiento<span class=\"n\" id=\"n_0\">ORZ 68,<br>M. DE PROVIDENCIA<br>N&#xBA; 1<br>D.O. 04.06.2008</span> del Gimnasio y sus dependecias, ser&#xE1; de Lunes a Viernes de 08:00 a 23:00 horas, s&#xE1;bados de 08:00 a 22:00 horas, en dos turnos cada uno y los d&#xED;as domingos y festivos de 09:00 a 15:00 horas.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

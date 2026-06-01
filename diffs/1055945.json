@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-11-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9383036,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el 31 de diciembre de 2013 sin perjuicio de la facultad de poner t&#xE9;rmino anticipado si las condiciones sanitarias as&#xED; lo permiten.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> 31 de diciembre de 2013 sin perjuicio de la facultad de poner t&#xE9;rmino anticipado si las condiciones sanitarias as&#xED; lo permiten.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; del Decreto 73, Salud, publicado el 06.12.2013, modifica la presente norma en el sentido de poner termino, a contar del 29 de noviembre de 2013, a la Alerta Sanitaria.</div></div>"
+        }
+      ]
+    }
+  }
+]

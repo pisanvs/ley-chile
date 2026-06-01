@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-01-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10302878,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;. Reaj&#xFA;stase el arancel m&#xE1;ximo que podr&#xE1;n percibir los mediadores inscritos en el Registro de Mediadores que establece la ley N&#xBA; 19.968 y su Reglamento, en la suma de $102.353.- (ciento dos mil trescientos cincuenta y tres pesos), por cada sesi&#xF3;n realizada durante un proceso de mediaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;. D&#xE9;jase sin efecto el <a href=\"https://www.leychile.cl/Navegar?idNorma=1155148&amp;idVersion=2022-01-18\">decreto exento N&#xBA; 264, de 26 de enero de 2021, del Ministerio de Justicia y Derechos Humanos</a>, que Reajusta Arancel M&#xE1;ximo que Podr&#xE1;n Percibir los Mediadores Inscritos en el Registro de Mediadores de la ley N&#xBA; 19.968.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;. De<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187530&amp;idParte=10395931&amp;idVersion=2023-01-10\">Decreto 8 EXENTO.<br>JUSTICIA<br>N&#xB0; 1<br>D.O. 10.01.2023</a></span>rogado.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;. D&#xE9;jase sin efecto el decreto exento N&#xBA; 264, de 26 de enero de 2021, del Ministerio de Justicia y Derechos Humanos, que Reajusta Arancel M&#xE1;ximo que Podr&#xE1;n Percibir los Mediadores Inscritos en el Registro de Mediadores de la ley N&#xBA; 19.968.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1187530,
+      "fecha": "2023-01-10"
+    }
+  }
+]

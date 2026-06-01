@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-09-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-09-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9831256,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Los establecimientos o centros que otorgan prestaciones de hemodi&#xE1;lisis y peritoneodi&#xE1;lisis que se encuentren autorizados a la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial, tendr&#xE1;n el plazo de 2 a&#xF1;os, a contar de esa misma fecha, para dar cumplimiento a las exigencias que en &#xE9;l se contienen.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1135862&amp;idParte=10051562&amp;idVersion=2019-09-07\">Decreto 39, SALUD<br>Art. &#xDA;NICO<br>D.O. 07.09.2019</a></span>establecimientos o centros que otorgan prestaciones de hemodi&#xE1;lisis y peritoneodi&#xE1;lisis que se encuentren autorizados a la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial, deber&#xE1;n dar cumplimiento a las exigencias que en &#xE9;l se contienen a contar del 31 de diciembre del a&#xF1;o 2022.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1135862,
+      "fecha": "2019-09-07"
+    }
+  }
+]

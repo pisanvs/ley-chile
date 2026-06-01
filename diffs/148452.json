@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1969-03-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1970-12-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7257147,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA LA EXPLOTACION DE MADERAS DE ARAUCARIA ARAUCANA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 26 de Febrero de 1969.-&nbsp; Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 94.- Vistos: Lo manifestado por el Servicio Agr&#xED;cola y Ganadero, en su oficio N&#xBA; 674, de 20 de Febrero &#xFA;ltimo, lo dispuesto en los art&#xED;culos 1&#xBA; N&#xBA; 9) y 2&#xBA; del decreto supremo N&#xBA; 4.363, de 30 de Junio de 1931, del Ministerio de Tierras y Colonizaci&#xF3;n, que contiene el texto definitivo de la Ley de Bosques, modificado por la ley N&#xBA; 15.066, de 14 de Diciembre de 1962; el D.F.L.</div><div class=\"p\">N&#xBA; 294, de 5 de Abril de 1960; la ley N&#xBA; 16.640, de 28 de Julio de 1967, la facultad que me confiere el art&#xED;culo 72&#xBA;, N&#xBA; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, las provincias de Arauco, B&#xED;o-B&#xED;o, Malleco, Caut&#xED;n y Valdivia, poseedoras de ricos bosques de araucaria araucana, se encuentran sometidas desde hace ya muchos a&#xF1;os a una explotaci&#xF3;n maderera descontrolada.</div><div class=\"p\">&nbsp; &nbsp;  Que, existe el riesgo de extinci&#xF3;n de la especie araucaria araucana por la explotaci&#xF3;n a que se encuentra sometida y se ocasionan, por consiguiente, graves perjuicios de car&#xE1;cter econ&#xF3;mico y social a la naci&#xF3;n, y Que, en consecuencia, es necesario reglamentar la explotaci&#xF3;n maderera de la araucaria araucana, como &#xFA;nico medio de evitar que se extinga y defender as&#xED; los intereses nacionales que de ellas dependen,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente reglamento para la explotaci&#xF3;n de maderas araucaria araucana:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA LA EXPLOTACION DE MADERAS DE ARAUCARIA ARAUCANA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 26 de Febrero de 1969.-&nbsp; Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 94.- Vistos: Lo manifestado por el Servicio Agr&#xED;cola y Ganadero, en su oficio N&#xBA; 674, de 20 de Febrero &#xFA;ltimo, lo dispuesto en los art&#xED;culos 1&#xBA; N&#xBA; 9) y 2&#xBA; del decreto supremo N&#xBA; 4.363, de 30 de Junio de 1931, del Ministerio de Tierras y Colonizaci&#xF3;n, que contiene el texto definitivo de la Ley de Bosques, modificado por la ley N&#xBA; 15.066, de 14 de Diciembre de 1962; el D.F.L.</div><div class=\"p\">N&#xBA; 294, de 5 de Abril de 1960; la ley N&#xBA; 16.640, de 28 de Julio de 1967, la facultad que me confiere el art&#xED;culo 72&#xBA;, N&#xBA; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, las provincias de Arauco, B&#xED;o-B&#xED;o, Malleco, Caut&#xED;n y Valdivia, poseedoras de ricos bosques de araucaria araucana, se encuentran sometidas desde hace ya muchos a&#xF1;os a una explotaci&#xF3;n maderera descontrolada.</div><div class=\"p\">&nbsp; &nbsp;  Que, existe el riesgo de extinci&#xF3;n de la especie araucaria araucana por la explotaci&#xF3;n a que se encuentra sometida y se ocasionan, por consiguiente, graves perjuicios de car&#xE1;cter econ&#xF3;mico y social a la naci&#xF3;n, y Que, en consecuencia, es necesario reglamentar la explotaci&#xF3;n maderera de la araucaria araucana, como &#xFA;nico medio de evitar que se extinga y defender as&#xED; los intereses nacionales que de ellas dependen,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente reglamento para la explotaci&#xF3;n de maderas araucaria araucana:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

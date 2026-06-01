@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-11-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-11-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6024003,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; PROHIBE EL USO DE DETERMINADOS CAMPOS DE PASTOREO DE CORDILLERA POR EL PERIODO QUE SE INDICA Y ESTABLECE REQUISITOS PARA EL USO DE CAMPOS DE INVERNADA N&#xFA;m. 1.011 exenta.- Talca, 2 de Noviembre de 1994.- Vistos: Lo dispuesto en los art&#xED;culos 8&#xB0; y siguientes del DFL RRA N&#xB0; 16 de 1963 sobre Sanidad y Protecci&#xF3;n Animal; el art&#xED;culo 12 del Decreto Supremo N&#xB0; 46 de 1978 del Ministerio de Agricultura, modificado por el Decreto Supremo N&#xB0; 142 del mismo origen; publicado en el Diario Oficial el d&#xED;a 04-02-95, el art&#xED;culo 8&#xB0; de la Ley N&#xB0; 18.755, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que el uso indiscriminado de campos de pastoreo de cordillera, constituye un alto riesgo de introducci&#xF3;n de Fiebre Aftosa y otras enfermedades ex&#xF3;ticas al territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que el Decreto de Agricultura N&#xB0; 142 de 1984 que modific&#xF3; el art&#xED;culo 12 del Decreto de Agricultura N&#xB0; 46 de 1978 y el art&#xED;culo 8&#xB0; de la Ley 18.755, facultan a los Directores Regionales del Servicio para disponer el despoblamiento de animales biungulados en las zonas de su jurisdicci&#xF3;n que considere expuestas a riesgo de contagio y la prohibici&#xF3;n de ingreso a ella de tales animales, sin perjuicio de prohibir o restringir el transporte de animales, productos y especies que puedan ser veh&#xED;culo de contagio de la Fiebre Aftosa y establecer barreras sanitarias en caminos y v&#xED;as p&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que atendida la situaci&#xF3;n epizootiol&#xF3;gica que presentan diversas regiones del territorio de la Rep&#xFA;blica Argentina y especialmente las lim&#xED;trofes, resulta del todo conveniente hacer uso de las facultades se&#xF1;aladas en el considerando anterior.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">PROHIBE EL USO DE DETERMINADOS CAMPOS DE PASTOREO DE CORDILLERA POR EL PERIODO QUE SE INDICA Y ESTABLECE REQUISITOS PARA EL USO DE CAMPOS DE INVERNADA N&#xFA;m. 1.011 exenta.- Talca, 2 de Noviembre de 1994.- Vistos: Lo dispuesto en los art&#xED;culos 8&#xB0; y siguientes del DFL RRA N&#xB0; 16 de 1963 sobre Sanidad y Protecci&#xF3;n Animal; el art&#xED;culo 12 del Decreto Supremo N&#xB0; 46 de 1978 del Ministerio de Agricultura, modificado por el Decreto Supremo N&#xB0; 142 del mismo origen; publicado en el Diario Oficial el d&#xED;a 04-02-85, el art&#xED;culo 8&#xB0; de la Ley N&#xB0;<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 16.11.1994</span> 18.755, y Considerando: 1.- Que el uso indiscriminado de campos de pastoreo de cordillera, constituye un alto riesgo de introducci&#xF3;n de Fiebre Aftosa y otras enfermedades ex&#xF3;ticas al territorio nacional. 2.- Que el Decreto de Agricultura N&#xB0; 142 de 1984 que modific&#xF3; el art&#xED;culo 12 del Decreto de Agricultura N&#xB0; 46 de 1978 y el art&#xED;culo 8&#xB0; de la Ley 18.755, facultan a los Directores Regionales del Servicio para disponer el despoblamiento de animales biungulados en las zonas de su jurisdicci&#xF3;n que considere expuestas a riesgo de contagio y la prohibici&#xF3;n de ingreso a ella de tales animales, sin perjuicio de prohibir o restringir el transporte de animales, productos y especies que puedan ser veh&#xED;culo de contagio de la Fiebre Aftosa y establecer barreras sanitarias en caminos y v&#xED;as p&#xFA;blicas. 3.- Que atendida la situaci&#xF3;n epizootiol&#xF3;gica que presentan diversas regiones del territorio de la Rep&#xFA;blica Argentina y especialmente las lim&#xED;trofes, resulta del todo conveniente hacer uso de las facultades se&#xF1;aladas en el considerando anterior. Resuelvo: </div></div>"
+        }
+      ]
+    }
+  }
+]

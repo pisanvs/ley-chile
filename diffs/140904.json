@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-05-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8348230,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA MARIA AMALIA S.A. PARA AMPLIAR ACTIVIDADES</div><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA MARIA AMALIA S.A. PARA AMPLIAR ACTIVIDADES</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

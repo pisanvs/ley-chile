@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-09-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-08-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6045211,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 397 EXENTO, DE 1997 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 397 EXENTO, DE 1997</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

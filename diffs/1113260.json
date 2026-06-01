@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-01-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-12-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9872463,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 34.- En caso de declararse admisible la discrepancia, en la misma sesi&#xF3;n especial a que se refiere el art&#xED;culo anterior, el Panel de Expertos acordar&#xE1; un programa de trabajo para el estudio y resoluci&#xF3;n de la discrepancia dentro del plazo que corresponda, seg&#xFA;n la materia sometida a su dictamen.</div><div class=\"p\">&nbsp; &nbsp;  El programa de trabajo contemplar&#xE1; la comunicaci&#xF3;n de la discrepancia a las dem&#xE1;s empresas, personas o entidades interesadas, confiri&#xE9;ndoles un plazo prudencial para emitir su informe u observaciones, el cual no podr&#xE1; ser inferior a siete d&#xED;as contados desde la comunicaci&#xF3;n de la discrepancia; un n&#xFA;mero m&#xED;nimo de sesiones para las deliberaciones del Panel; la petici&#xF3;n y recepci&#xF3;n de otros informes y antecedentes que se consideren necesarios; y las dem&#xE1;s diligencias y actividades que determine el Panel. En todo caso, el programa de trabajo deber&#xE1; contemplar una audiencia p&#xFA;blica con las partes y los interesados, de la que se dejar&#xE1; constancia escrita, la que deber&#xE1; realizarse no antes del plazo de diez d&#xED;as contados desde la notificaci&#xF3;n de la discrepancia.</div><div class=\"p\">&nbsp; &nbsp;  El programa de trabajo as&#xED; definido, luego de aprobado por el Panel, ser&#xE1; comunicado por el secretario abogado a todas las partes e interesados en la respectiva discrepancia, sin perjuicio de mantenerse a disposici&#xF3;n del p&#xFA;blico en las dependencias del Panel y en su sitio web. Las modificaciones que se introduzcan a este programa ser&#xE1;n comunicadas y publicitadas del mismo modo.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 34.- En caso de declararse admisible la discrepancia, en la misma sesi&#xF3;n especial a que se refiere el art&#xED;culo anterior, el Panel de Expertos acordar&#xE1; un programa de trabajo para el estudio y resoluci&#xF3;n de la discrepancia dentro del plazo que corresponda, seg&#xFA;n la materia sometida a su dictamen.</div><div class=\"p\">&nbsp; &nbsp;  El programa de trabajo contemplar&#xE1; la comunicaci&#xF3;n de la discrepancia a las dem&#xE1;s empresas, personas o entidades interesadas, confiri&#xE9;ndoles un plazo prudencial para emitir su informe u observaciones, el cual no podr&#xE1; ser inferior a siete d&#xED;as contados desde la comunicaci&#xF3;n de la discrepancia; un n&#xFA;mero m&#xED;nimo de sesiones para las deliberaciones del Panel; la petici&#xF3;n y recepci&#xF3;n de otros informes y antecedentes que se consideren necesarios; y las dem&#xE1;s diligencias y actividades que determine el Panel. En todo caso, el programa de trabajo deber&#xE1; contemplar una audiencia p&#xFA;blica con las partes y los interesados, de la que se dejar&#xE1; constancia escrita, la que deber&#xE1; realizarse no antes del plazo de diez d&#xED;as <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1153949&amp;idParte=10187991&amp;idVersion=2020-12-26\">Decreto 42, ENERG&#xCD;A<br>Art. segundo N&#xB0; 1<br>D.O. 26.12.2020</a></span>ni despu&#xE9;s de 30 d&#xED;as, contados desde la notificaci&#xF3;n de la discrepancia.</div><div class=\"p\">&nbsp; &nbsp;  El programa de trabajo as&#xED; definido, luego de aprobado por el Panel, ser&#xE1; comunicado por el secretario abogado a todas las partes e interesados en la respectiva discrepancia, sin perjuicio de mantenerse a disposici&#xF3;n del p&#xFA;blico en las dependencias del Panel y en su sitio web. Las modificaciones que se introduzcan a este programa ser&#xE1;n comunicadas y publicitadas del mismo modo.</div><div class=\"p\">&nbsp; &nbsp;  En<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1153949&amp;idParte=10187991&amp;idVersion=2020-12-26\">Decreto 42, ENERG&#xCD;A<br>Art. segundo N&#xB0; 2<br>D.O. 26.12.2020</a></span> casos calificados, tales como, superposiciones de discrepancias referidas a distintas materias, pluralidad de partes, excesivo volumen de las mismas u otros de similares caracter&#xED;sticas, el Panel de oficio podr&#xE1; ampliar el plazo para evacuar su dictamen hasta por la mitad del plazo original. Dicha facultad deber&#xE1; emplearse priorizando las discrepancias presentadas en el marco de procesos regulados establecidos en la Ley y por una &#xFA;nica vez en cada discrepancia.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1153949,
+      "fecha": "2020-12-26"
+    }
+  }
+]

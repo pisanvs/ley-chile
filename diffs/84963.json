@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-05-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316813,
+          "old": "<div><br><div class=\"p\">AUTORIZA A COMERCIAL GRAN AMERICA Y CIA. LTDA. PARA AMPLIAR</div><div class=\"p\"> ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMERCIAL GRAN AMERICA Y CIA. LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

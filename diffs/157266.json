@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-06-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6238001,
+          "old": "<div><div class=\"p\">NOTIFICACION </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  NOTIFICACION</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

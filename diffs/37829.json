@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-01-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8873069,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Roberto Ossand&#xF3;n Guzm&#xE1;n y Oscar Recabarren G&#xE1;lvez, Presidente y Secretario del Tribunal Supremo del Partido Nacional, han informado actual composici&#xF3;n de la Directiva Central y Tribunal Supremo.</div><div class=\"p\">&nbsp; &nbsp; Directiva Central: Presidente: Enrique Schilling Rojas</div><div class=\"p\">&nbsp; &nbsp; Primer vicepresidente: Santiago Garc&#xED;a Swart Segundo vicepresidente: Adib Essedin Sierpe Tercer vicepresidente: Denise Barroilhet Monardes Secretario general: Luis Emilio Maluenda Urmeneta Tesorero: Mario Arturo Larra&#xED;n Garc&#xED;a Vocales: Alvaro Bard&#xF3;n Mu&#xF1;oz, Juan Carlos C&#xE1;rdenas Gueudinot, Claudio Morales Greene, Sergio Romualdo Bustamante, Elena Forn&#xE9;s Llona, Sergio Valencia Dur&#xE1;n, Alberto Rabi Saval, Darwin Mora Salgado, Fernando Palma Cortez, Gustavo Arredondo Chac&#xF3;n, Alejandro Garc&#xED;a-Huidobro S., M&#xF3;nica Hyde Liscombe, Sergio Sotomayor Moreno, Jorge Cruzat Albornoz.</div><div class=\"p\">&nbsp; &nbsp; Tribunal Supremo: Presidente: Roberto Ossand&#xF3;n Guzm&#xE1;n</div><div class=\"p\">&nbsp; &nbsp; Vicepresidente: Marcela Dur&#xE1;n Neumann Secretario Ministro de Fe: Oscar Recabarren G&#xE1;lvez Vocales: Mar&#xED;a Armandiela Castillo, Jorge Walberg Zenteno, Albino Urrejola Molina, Alejandro R&#xED;os Berr&#xED;os.</div><div class=\"p\">&nbsp; &nbsp; Publicaci&#xF3;n ordenada en virtud de Auto Acordado del Tribunal Calificador de Elecciones de 27 de Junio de 1988, por resoluci&#xF3;n exenta N&#xB0; O-5 de fecha 3 de Enero de 1992.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Roberto Ossand&#xF3;n Guzm&#xE1;n y Oscar Recabarren G&#xE1;lvez, Presidente y Secretario del Tribunal Supremo del Partido Nacional, han informado actual composici&#xF3;n de la Directiva Central y Tribunal Supremo. Directiva Central: Presidente: Enrique Schilling Rojas Primer vicepresidente: Santiago Garc&#xED;a Swart Segundo vicepresidente: Adib Essedin Sierpe Tercer vicepresidente: Denise Barroilhet Monardes Secretario general: Luis Emilio Maluenda Urmeneta Tesorero: Mario Arturo Larra&#xED;n Garc&#xED;a Vocales: Alvaro Bard&#xF3;n Mu&#xF1;oz, Juan Carlos C&#xE1;rdenas Gueudinot, Claudio Morales Greene, Sergio Romualdo Bustamante, Elena Forn&#xE9;s Llona, Sergio Valencia Dur&#xE1;n, Alberto Rabi Saval, Darwin Mora Salgado, Fernando Palma Cortez, Gustavo Arredondo Chac&#xF3;n, Alejandro Garc&#xED;a-Huidobro S., M&#xF3;nica Hyde Liscombe, Sergio Sotomayor Moreno, Jorge Cruzat Albornoz. Tribunal Supremo: Presidente: Roberto Ossand&#xF3;n Guzm&#xE1;n Vicepresidente: Marcela Dur&#xE1;n Neumann Secretario Ministro de Fe: Oscar Recabarren G&#xE1;lvez Vocales: Mar&#xED;a Armandiela Castillo, Jorge Walberg Zenteno, Albino Urrejola Molina, Alejandro R&#xED;os Barrios.<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 09.01.1992</span> Publicaci&#xF3;n ordenada en virtud de Auto Acordado del Tribunal Calificador de Elecciones de 27 de Junio de 1988, por resoluci&#xF3;n exenta N&#xB0; O-5 de fecha 3 de Enero de 1992. </div></div>"
+        }
+      ]
+    }
+  }
+]

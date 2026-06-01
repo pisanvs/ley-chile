@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1968-11-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-09-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6488522,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Instit&#xFA;yese como D&#xED;a del Huaso el segundo viernes del mes de Octubre de cada a&#xF1;o, debiendo programarse para este efecto clases alusivas sobre arte, ciencia y m&#xFA;sica nativas en los establecimientos educacionales del pa&#xED;s. Las radiodifusoras y los canales de televisi&#xF3;n difundir&#xE1;n ese d&#xED;a preferentemente m&#xFA;sica aut&#xF3;ctona y charlas sobre cultura y folklore nacionales. </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1016845&amp;idParte=8975091&amp;idVersion=2010-09-06\">Ley 20457,<br>Art. &#xDA;NICO<br>D.O. 06.09.2010</a></span>&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Instit&#xFA;yese como D&#xED;a del Huaso y de la Chilenidad el 17 de septiembre de cada a&#xF1;o, debiendo programarse para este efecto clases alusivas sobre arte, ciencia y m&#xFA;sica nativas en los establecimientos educacionales del pa&#xED;s. Las radiodifusoras y los canales de televisi&#xF3;n difundir&#xE1;n ese d&#xED;a preferentemente m&#xFA;sica aut&#xF3;ctona y charlas sobre cultura y folklore nacionales. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1016845,
+      "fecha": "2010-09-06"
+    }
+  }
+]

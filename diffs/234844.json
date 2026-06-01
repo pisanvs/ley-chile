@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2005-01-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-10-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6513760,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Primero: Las naves pesqueras de bandera extranjera que deseen ingresar a puertos nacionales, conforme a lo establecido en el DS N&#xBA;123 citado en Visto, deber&#xE1;n acogerse al procedimiento y exigencias establecidas en los art&#xED;culos siguientes para la tramitaci&#xF3;n de la respectiva autorizaci&#xF3;n de acceso a puerto. Los puertos de primera recalada habilitados para este efecto son Arica, Iquique, Coquimbo, Valpara&#xED;so, Talcahuano y Punta Arenas, para todas las naves.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Primero: Las naves pesqueras de bandera extranjera que deseen ingresar a puertos nacionales, conforme a lo establecido en el DS N&#xBA;123 citado en Visto, deber&#xE1;n acogerse al procedimiento y exigencias establecidas en los art&#xED;culos siguientes para la tramitaci&#xF3;n de la respectiva autorizaci&#xF3;n de acceso a puerto. Los puertos de primera recalada habilitados para este efecto son Arica, Iquique, Coquimbo, Valpara&#xED;so, Talcahuano, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1095414&amp;idParte=9738726&amp;idVersion=2016-10-08\">Resoluci&#xF3;n 8013 EXENTA,<br>ECONOM&#xCD;A<br>Art. PRIMERO <br>D.O. 08.10.2016</a></span>San Vicente (Talcahuano) y Punta Arenas, para todas las naves.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1095414,
+      "fecha": "2016-10-08"
+    }
+  }
+]

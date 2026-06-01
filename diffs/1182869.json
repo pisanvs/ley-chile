@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2022-10-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-01-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10372343,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Constit&#xFA;yase, de acuerdo con lo que sobre el particular establece la Ley General de Servicios El&#xE9;ctricos, las servidumbres para el establecimiento del Tramo 6 del proyecto &quot;L&#xED;nea Nueva Alto Melipilla - Nueva Casablanca - La P&#xF3;lvora - Agua Santa, 2x220 kV&quot; en los inmuebles que se indican a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/154822.jpg\"></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/154823.jpg\"></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Constit&#xFA;yase, de acuerdo con lo que sobre el particular establece la Ley General de Servicios El&#xE9;ctricos, las servidumbres para el establecimiento del Tramo 6 del proyecto &quot;L&#xED;nea Nueva Alto Melipilla - Nueva Casablanca - La P&#xF3;lvora - Agua Santa, 2x220 kV&quot; en los inmuebles que se indican a continuaci&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/154822.jpg\"></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/154823.jpg\"></div><div class=\"p\"> </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral I del decreto 262 exento, Energ&#xED;a, publicado el 04.01.2022, rectifica la presente norma en el sentido de sustituir en la parte superior de la tabla, el guarismo &quot;6&quot;, de las columnas 6 y 7, en lo concerniente al Tramo 6, los predios particulares respecto de los cuales se constituyeron servidumbres, por el d&#xED;gito &quot;1&quot;, quedando de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

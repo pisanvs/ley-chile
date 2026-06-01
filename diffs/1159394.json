@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-05-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10225647,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;zase a los beneficiarios del subsidio habitacional del DS N&#xB0; 1 (V. y U.), de 2011, que regula el Sistema Integrado de Subsidio Habitacional, en la modalidad de adquisici&#xF3;n en la alternativa individual, a aplicarlo en una regi&#xF3;n distinta a la de postulaci&#xF3;n sin acreditar el cumplimiento de los requisitos que exige su art&#xED;culo 27 inciso segundo, dentro del plazo de 10 meses siguientes a la publicaci&#xF3;n de la presente resoluci&#xF3;n, el que ser&#xE1; prorrogable en caso que se extienda m&#xE1;s all&#xE1; de dicho plazo la vigencia del estado de excepci&#xF3;n constitucional de cat&#xE1;strofe por calamidad p&#xFA;blica conforme al DS N&#xB0; 104, del Ministerio del Interior y Seguridad P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  2. En el caso de beneficiarios de un subsidio habitacional del DS N&#xB0; 1 (V. y U.), de 2011, que apliquen su subsidio a la adquisici&#xF3;n de viviendas de un Proyecto de Integraci&#xF3;n Social, seleccionado a trav&#xE9;s del DS N&#xB0; 19 (V. y U.), de 2016, emplazado en una regi&#xF3;n diferente a la de postulaci&#xF3;n, la reserva, incorporaci&#xF3;n o postulaci&#xF3;n a dicho proyecto en el sistema computacional, deber&#xE1; efectuarse dentro del plazo se&#xF1;alado en el numeral anterior.</div><div class=\"p\">&nbsp; &nbsp;  3. Para efectos de la aplicaci&#xF3;n del subsidio a la adquisici&#xF3;n de una vivienda nueva o usada, que no forme parte de un proyecto seleccionado a trav&#xE9;s del DS N&#xB0; 19 referido, la respectiva escritura de compraventa deber&#xE1; suscribirse dentro del plazo referido en el resuelvo 1.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;z<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1172451&amp;idParte=10308386&amp;idVersion=2022-02-09\">Resoluci&#xF3;n 129 EXENTA,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 09.02.2022</a></span>ase a los beneficiarios del subsidio habitacional del DS N&#xBA; 1 (V. y U.), de 2011, que regula el Sistema Integrado de Subsidio Habitacional, en la modalidad de adquisici&#xF3;n de vivienda en la alternativa individual, a aplicarlo en una regi&#xF3;n distinta a la de postulaci&#xF3;n, sin acreditar el cumplimiento de los requisitos que exige su art&#xED;culo 27 inciso segundo, hasta el 31 de marzo de 2023, plazo que podr&#xE1; ser prorrogado debido a la emergencia sanitaria por el brote de Coronavirus 2019 (COVID-19) y sus variantes.</div><div class=\"p\">&nbsp; &nbsp;  2. En el caso de beneficiarios de un subsidio habitacional del DS N&#xB0; 1 (V. y U.), de 2011, que apliquen su subsidio a la adquisici&#xF3;n de viviendas de un Proyecto de Integraci&#xF3;n Social, seleccionado a trav&#xE9;s del DS N&#xB0; 19 (V. y U.), de 2016, emplazado en una regi&#xF3;n diferente a la de postulaci&#xF3;n, la reserva, incorporaci&#xF3;n o postulaci&#xF3;n a dicho proyecto en el sistema computacional, deber&#xE1; efectuarse dentro del plazo se&#xF1;alado en el numeral anterior.</div><div class=\"p\">&nbsp; &nbsp;  3. Para efectos de la aplicaci&#xF3;n del subsidio a la adquisici&#xF3;n de una vivienda nueva o usada, que no forme parte de un proyecto seleccionado a trav&#xE9;s del DS N&#xB0; 19 referido, la respectiva escritura de compraventa deber&#xE1; suscribirse dentro del plazo referido en el resuelvo 1.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1172451,
+      "fecha": "2022-02-09"
+    }
+  }
+]

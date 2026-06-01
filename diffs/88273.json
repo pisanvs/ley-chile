@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-03-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8833405,
+          "old": "<div><div class=\"p\">ESTABLECE DIMENSIONES MAXIMAS A VEHICULOS QUE INDICA </div><div class=\"p\">N&#xFA;m. 11.- Santiago, 08 de Febrero de 1991.- Visto: Lo dispuesto en los art&#xED;culos 56&#xB0; y 57&#xB0; de la Ley No. 18.290, del Tr&#xE1;nsito,</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE DIMENSIONES MAXIMAS A VEHICULOS QUE INDICA </div><div class=\"p\">N&#xFA;m. 11.- Santiago, 08 de Febrero de 1991.- Visto: Lo dispuesto en los art&#xED;culos 56&#xB0; y 57&#xB0; de la Ley No.</div><div class=\"p\">18.290, del Tr&#xE1;nsito,</div><br><div class=\"p\">Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

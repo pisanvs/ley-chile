@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2004-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-06-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6466614,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- F&#xED;janse en uno (1) el n&#xFA;mero m&#xE1;ximo de variantes para cada recorrido troncal para los taxis colectivos que prestan servicios en las v&#xED;as de la ciudad de Concepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- El trazado de la variante de dichos servicios deber&#xE1; coincidir en a lo menos un 85% con el correspondiente troncal.</div><div class=\"p\">&nbsp; &nbsp;  3.- Los servicios urbanos de taxis colectivos se&#xF1;alados precedentemente que a la fecha de la presente resoluci&#xF3;n cuenten con un n&#xFA;mero superior de variantes por troncal, deber&#xE1;n ajustarse a lo dispuesto en el numeral 1 anterior, dentro de un plazo de 30 d&#xED;as a contar de la publicaci&#xF3;n de la presente resoluci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- F&#xED;janse en uno (1) el n&#xFA;mero m&#xE1;ximo de variantes para cada recorrido troncal para los taxis colectivos que prestan servicios en las v&#xED;as de la ciudad de Concepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- El trazado de la variante de dichos servicios deber&#xE1; coincidir en a lo menos un 85% con el correspondiente troncal.</div><div class=\"p\">&nbsp; &nbsp;  3.- Los servicios urbanos de taxis colectivos se&#xF1;alados precedentemente que a la fecha de la presente resoluci&#xF3;n cuenten con un n&#xFA;mero superior de variantes por troncal, deber&#xE1;n ajustarse a lo dispuesto en el numeral 1 anterior, dentro de un plazo de 30 d&#xED;as a contar de la publicaci&#xF3;n de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4.- En el caso<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1041243&amp;idParte=9268595&amp;idVersion=2012-06-23\">Resoluci&#xF3;n 177 EXENTA, TRANSPORTES<br>D.O. 23.06.2012</a></span> de los servicios urbanos de taxis colectivos, en el horario comprendido entre las 00:00 hrs. AM y las 05:59 AM de un mismo d&#xED;a, el n&#xFA;mero m&#xE1;ximo de variantes denominadas nocturnas para cada recorrido troncal, de los taxis colectivos que prestan servicios en las v&#xED;as de la ciudad de Concepci&#xF3;n, ser&#xE1; de tres (3) sin computar para tales efectos la variante que rija en otro horario. Para tales efectos, en el horario se&#xF1;alado, los trazados variantes de dichos servicios deber&#xE1;n coincidir en a lo menos un 1% con el correspondiente trazado troncal. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1041243,
+      "fecha": "2012-06-23"
+    }
+  },
+  {
+    "fecha": "2012-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6466614,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- F&#xED;janse en uno (1) el n&#xFA;mero m&#xE1;ximo de variantes para cada recorrido troncal para los taxis colectivos que prestan servicios en las v&#xED;as de la ciudad de Concepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- El trazado de la variante de dichos servicios deber&#xE1; coincidir en a lo menos un 85% con el correspondiente troncal.</div><div class=\"p\">&nbsp; &nbsp;  3.- Los servicios urbanos de taxis colectivos se&#xF1;alados precedentemente que a la fecha de la presente resoluci&#xF3;n cuenten con un n&#xFA;mero superior de variantes por troncal, deber&#xE1;n ajustarse a lo dispuesto en el numeral 1 anterior, dentro de un plazo de 30 d&#xED;as a contar de la publicaci&#xF3;n de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4.- En el caso<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1041243&amp;idParte=9268595&amp;idVersion=2012-06-23\">Resoluci&#xF3;n 177 EXENTA, TRANSPORTES<br>D.O. 23.06.2012</a></span> de los servicios urbanos de taxis colectivos, en el horario comprendido entre las 00:00 hrs. AM y las 05:59 AM de un mismo d&#xED;a, el n&#xFA;mero m&#xE1;ximo de variantes denominadas nocturnas para cada recorrido troncal, de los taxis colectivos que prestan servicios en las v&#xED;as de la ciudad de Concepci&#xF3;n, ser&#xE1; de tres (3) sin computar para tales efectos la variante que rija en otro horario. Para tales efectos, en el horario se&#xF1;alado, los trazados variantes de dichos servicios deber&#xE1;n coincidir en a lo menos un 1% con el correspondiente trazado troncal. </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- F&#xED;janse en uno (1) el n&#xFA;mero m&#xE1;ximo de variantes para cada recorrido troncal para los taxis colectivos que prestan <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>servicios en las v&#xED;as de la ciudad de Concepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- El trazado de la variante de dichos servicios deber&#xE1; coincidir en a lo menos un 85% con el correspondiente troncal.</div><div class=\"p\">&nbsp; &nbsp;  3.- Los servicios urbanos de taxis colectivos se&#xF1;alados precedentemente que a la fecha de la presente resoluci&#xF3;n cuenten con un n&#xFA;mero superior de variantes por troncal, deber&#xE1;n ajustarse a lo dispuesto en el numeral 1 anterior, dentro de un plazo de 30 d&#xED;as a contar de la publicaci&#xF3;n de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4.- En el caso<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1041243&amp;idParte=9268595&amp;idVersion=2012-06-23\">Resoluci&#xF3;n 177 EXENTA, TRANSPORTES<br>D.O. 23.06.2012</a></span> de los servicios urbanos de taxis colectivos, en el horario comprendido entre las 00:00 hrs. AM y las 05:59 AM de un mismo d&#xED;a, el n&#xFA;mero m&#xE1;ximo de variantes denominadas nocturnas para cada recorrido troncal, de los taxis colectivos que prestan servicios en las v&#xED;as de la ciudad de Concepci&#xF3;n, ser&#xE1; de tres (3) sin computar para tales efectos la variante que rija en otro horario. Para tales efectos, en el horario se&#xF1;alado, los trazados variantes de dichos servicios deber&#xE1;n coincidir en a lo menos un 1% con el correspondiente trazado troncal. </div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 308 Exenta, Transportes, publicada el 10.10.2012, modifica en la presente norma el n&#xFA;mero m&#xE1;ximo de variantes denominadas nocturnas para cada recorrido troncal, de los taxis colectivos que prestan servicios en las v&#xED;as de la ciudad de Concepci&#xF3;n, aument&#xE1;ndolas a cinco (5).</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-04-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-12-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9589673,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase la circulaci&#xF3;n en los d&#xED;as s&#xE1;bado, domingo y festivos de los veh&#xED;culos de la Subsecretar&#xED;a de Justicia, que a continuaci&#xF3;n se indican:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48622.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase la circulaci&#xF3;n en los d&#xED;as s&#xE1;bado, domingo y festivos de los veh&#xED;culos de la Subsecretar&#xED;a de Justicia, que a continuaci&#xF3;n se indican:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48622.jpg\">.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; del Decreto 2236 Exento, Justicia, publicado el 02.12.2017, modifica el numeral 4&#xB0; del listado de&nbsp; la presente norma de la manera que la citada norma indica. </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1970-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-12-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8916533,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- La Caja de Retiro y Previsi&#xF3;n Social de los Ferrocarriles del Estado establecer&#xE1; un Fondo de Asistencia Social destinado exclusivamente al otorgamiento de pr&#xE9;stamos a las montepiadas, por concepto de enfermedad, estudio de los hijos y compra de elementos de trabajo.</div><div class=\"p\">&nbsp; &nbsp; Este Fondo se formar&#xE1; con un descuento de un 1% mensual a las pensiones de viudez.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- La Caja de Retiro y Previsi&#xF3;n Social de los Ferrocarriles del Estado establecer&#xE1; un Fondo de Asistencia Social destinado exclusivamente al otorgamiento de pr&#xE9;stamos a las montepiadas, por concepto de enfermedad, estudio de los hijos y compra de elementos de trabajo.</div><div class=\"p\">&nbsp; &nbsp; INCISO DEROGADO<span class=\"n\" id=\"n_0\">LEY 19539<br>ART 17<br>D.O.01.12.1997</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-09-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-08-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8340295,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA PLAYA BLANCA S.A. PARA SUSTITUIR EMBARCACION QUE INDICA. DEROGA PARCIALMENTE RESOLUCION QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA PLAYA BLANCA S.A. PARA SUSTITUIR EMBARCACION QUE INDICA. DEROGA PARCIALMENTE RESOLUCION QUE SE&#xD1;ALA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

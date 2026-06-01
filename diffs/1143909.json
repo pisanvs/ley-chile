@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-08-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10111181,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Decl&#xE1;rense suspendidas las operaciones de cr&#xE9;dito prendario en las Unidades de Cr&#xE9;dito de Los Andes y Copiap&#xF3;, a partir del 19 de marzo de 2020, y en la Unidad de Cr&#xE9;dito de Concepci&#xF3;n, a partir del 24 de marzo de 2020, al ser el &#xFA;ltimo d&#xED;a en que operaron con normalidad dichas unidades.</div><div class=\"p\">&nbsp; &nbsp;  2. Susp&#xE9;ndase asimismo, devengo de intereses a partir de la misma fecha del resuelvo anterior, respecto de los cr&#xE9;ditos garantizados con especies que se encuentren vigentes a la fecha de suspensi&#xF3;n de actividades de las Unidades de Los Andes, Copiap&#xF3; y Concepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. Susp&#xE9;ndase la expiraci&#xF3;n del derecho de cobro de excedentes dentro del periodo de suspensi&#xF3;n de actividades de las Unidades de Cr&#xE9;dito de Los Andes, Copiap&#xF3; y Concepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4. Apl&#xED;quese en forma retroactiva lo resuelto anteriormente conforme a la norma del art&#xED;culo 52 de la Ley 19.880 sobre Procedimiento Administrativo.</div><div class=\"p\">&nbsp; &nbsp;  5. T&#xE9;ngase presente, que lo resuelto en la presente resoluci&#xF3;n exenta ser&#xE1; de car&#xE1;cter temporal, hasta que esta superioridad lo determine mediante el correspondiente acto administrativo.</div><div class=\"p\">&nbsp; &nbsp;  6. Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial de conformidad a lo dispuesto en la letra b) del art&#xED;culo 48 de la ley N&#xB0; 19.880.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Decl&#xE1;rense <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>suspendidas las operaciones de cr&#xE9;dito prendario en las Unidades de Cr&#xE9;dito de Los Andes y Copiap&#xF3;, a partir del 19 de marzo de 2020, y en la Unidad de Cr&#xE9;dito de Concepci&#xF3;n, a partir del 24 de marzo de 2020, al ser el &#xFA;ltimo d&#xED;a en que operaron con normalidad dichas unidades.</div><div class=\"p\">&nbsp; &nbsp;  2. Susp&#xE9;ndase asimismo, devengo de intereses a partir de la misma fecha del resuelvo anterior, respecto de los cr&#xE9;ditos garantizados con especies que se encuentren vigentes a la fecha de suspensi&#xF3;n de actividades de las Unidades de Los Andes, Copiap&#xF3; y Concepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. Susp&#xE9;ndase la expiraci&#xF3;n del derecho de cobro de excedentes dentro del periodo de suspensi&#xF3;n de actividades de las Unidades de Cr&#xE9;dito de Los Andes, Copiap&#xF3; y Concepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4. Apl&#xED;quese en forma retroactiva lo resuelto anteriormente conforme a la norma del art&#xED;culo 52 de la Ley 19.880 sobre Procedimiento Administrativo.</div><div class=\"p\">&nbsp; &nbsp;  5. T&#xE9;ngase presente, que lo resuelto en la presente resoluci&#xF3;n exenta ser&#xE1; de car&#xE1;cter temporal, hasta que esta superioridad lo determine mediante el correspondiente acto administrativo.</div><div class=\"p\">&nbsp; &nbsp;  6. Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial de conformidad a lo dispuesto en la letra b) del art&#xED;culo 48 de la ley N&#xB0; 19.880.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 2&#xB0; de la Resoluci&#xF3;n 286 Exenta, Trabajo, publicada el 06.08.2020, extiende la suspensi&#xF3;n de las operaciones de cr&#xE9;dito prendario en la Unidad de Cr&#xE9;dito Copiap&#xF3;, se&#xF1;alada en la presente norma, hasta que la autoridad sanitaria levante las medidas de cuarentena preventiva para la ciudad de Copiap&#xF3;, que fuere decretada desde las 22:00 hrs. del lunes 27 de julio de 2020. </div></div>"
+        }
+      ]
+    }
+  }
+]

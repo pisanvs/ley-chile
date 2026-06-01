@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2009-01-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-09-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7384478,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Extracto de resoluci&#xF3;n Ex. N&#xB0; 10, del 21 de enero de 2009, que sustituye el N&#xB0; 6 de la letra A de la resoluci&#xF3;n N&#xB0; 379, de 4 de diciembre de 1991, y fija los departamentos que conforman el Departamento de Subdirecci&#xF3;n Jur&#xED;dica, establece bajo la dependencia de &#xE9;stos las Oficinas que se&#xF1;ala y fija las funciones que competen a cada uno de estos estamentos.</div><div class=\"p\">&nbsp; &nbsp;  El texto &#xED;ntegro de esta resoluci&#xF3;n est&#xE1; publicado en la oficina virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y se incluye en el Bolet&#xED;n del SII del mes de enero de 2009.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Extracto de resoluci&#xF3;n <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> Ex. N&#xB0; 10, del 21 de enero de 2009, que sustituye el N&#xB0; 6 de la letra A de la resoluci&#xF3;n N&#xB0; 379, de 4 de diciembre de 1991, y fija los departamentos que conforman el Departamento de Subdirecci&#xF3;n Jur&#xED;dica, establece bajo la dependencia de &#xE9;stos las Oficinas que se&#xF1;ala y fija las funciones que competen a cada uno de estos estamentos.</div><div class=\"p\">&nbsp; &nbsp;  El texto &#xED;ntegro de esta resoluci&#xF3;n est&#xE1; publicado en la oficina virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y se incluye en el Bolet&#xED;n del SII del mes de enero de 2009.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 130 Exenta, Hacienda, publicada el 08.09.2009, modifica los dispositivos cuarto, quinto y sexto, y elimina dispositivo s&#xE9;ptimo de la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

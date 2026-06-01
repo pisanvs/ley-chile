@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8937791,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Mar&#xED;a Salinas Requena, abuela del beneficiario, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Mar&#xED;a Salinas<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Requena, abuela del beneficiario, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 668, Interior, publicado el 18.08.2003, modifica la presente norma, en el sentido de dejar sin efecto, la facultad de do&#xF1;a Mar&#xED;a Salinas Requena, para cobrar la Pensi&#xF3;n de Gracia de don Jos&#xE9; Manuel Vega Garc&#xED;a, RUT 12.873.441-4.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

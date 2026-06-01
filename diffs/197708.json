@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-06-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-11-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7291497,
+          "old": "<div><div class=\"p\">APRUEBA PLANES Y PROGRAMAS DE ESTUDIO DE EDUCACION GENERAL BASICA Y PROGRAMAS DE EDUCACION MEDIA, MODALIDAD HUMANISTICO-CIENTIFICA PARA ADULTOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 77 exento.- Santiago, 14 de Mayo de 1982.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que la Educaci&#xF3;n de Adultos, situada en el contexto de la educaci&#xF3;n permanente, debe crear condiciones de facilidad, desarrollo y apoyo t&#xE9;cnico al proceso educativo de los adultos, suministrando programas, recursos e instrumentos adecuados a las caracter&#xED;sticas, intereses y necesidades de estos educandos;</div><br><div class=\"p\">&nbsp; &nbsp;  Que entre los instrumentos de apoyo, orientaci&#xF3;n y gu&#xED;a del proceso educativo de los adultos, los planes y programas de estudio ocupan un lugar de preeminencia;</div><br><div class=\"p\">&nbsp; &nbsp;  Que la orden permanente interna N&#xB0; 300 de 1978, orden&#xF3; la reformulaci&#xF3;n de los planes y programas de estudio de la educaci&#xF3;n de adultos; y</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en los decretos supremos de Educaci&#xF3;n N&#xBA;s. 190, de 1975 y 2.039, de 1980; resoluci&#xF3;n N&#xB0; 1.050 de la Contralor&#xED;a General de la Rep&#xFA;blica y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\"> APRUEBA PLANES Y PROGRAMAS DE ESTUDIO DE EDUCACION<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"> GENERAL BASICA Y PROGRAMAS DE EDUCACION MEDIA,<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1:</a></div></div><div class=\"p\"> MODALIDAD HUMANISTICO-CIENTIFICA PARA ADULTOS<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2:</a></div></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA 3:</a></div></div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 77 exento.- Santiago, 14 de Mayo de 1982.- Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que la Educaci&#xF3;n de Adultos, situada en el contexto de la educaci&#xF3;n permanente, debe crear condiciones de facilidad, desarrollo y apoyo t&#xE9;cnico al proceso educativo de los adultos, suministrando programas, recursos e instrumentos adecuados a las caracter&#xED;sticas, intereses y necesidades de estos educandos;</div><br><div class=\"p\">&nbsp; &nbsp;  Que entre los instrumentos de apoyo, orientaci&#xF3;n y gu&#xED;a del proceso educativo de los adultos, los planes y programas de estudio ocupan un lugar de preeminencia;</div><br><div class=\"p\">&nbsp; &nbsp;  Que la orden permanente interna N&#xB0; 300 de 1978, orden&#xF3; la reformulaci&#xF3;n de los planes y programas de estudio de la educaci&#xF3;n de adultos; y</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en los decretos supremos de Educaci&#xF3;n N&#xBA;s. 190, de 1975 y 2.039, de 1980; resoluci&#xF3;n N&#xB0; 1.050 de la Contralor&#xED;a General de la Rep&#xFA;blica y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico del DTO 7 exento, Educaci&#xF3;n, publicado el 28.01.1985, prorroga por el a&#xF1;o 1985 la vigencia del presente decreto.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico del DTO 342 exento, Educaci&#xF3;n, publicado el 10.01.1986, prorroga por el a&#xF1;o 1986 la vigencia del presente decreto.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2:</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico del DTO 332 exento, Educaci&#xF3;n, publicado el 17.01.1987, prorroga por el a&#xF1;o 1987 la vigencia del presente decreto.<br></div><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA 3:</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico del DTO 219 exento, Educaci&#xF3;n, publicado el 21.11.1987, prorroga la vigencia del presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

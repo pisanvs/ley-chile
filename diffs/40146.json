@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-11-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-09-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6025993,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE REGULACIONES CUARENTENARIAS PARA LA INTERNACION DE MADERAS SECAS EN HORNO</div><div class=\"p\">&nbsp; &nbsp; Santiago, 17 de Noviembre de 1993.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.292 exenta.- Visto: Lo dispuesto en el Decreto Ley N&#xB0;3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola, la Resoluci&#xF3;n N&#xB0;39 de 1981 que delega facultades al Director de Divisi&#xF3;n de Protecci&#xF3;n Agr&#xED;cola del Servicio Agr&#xED;cola y Ganadero, la Resoluci&#xF3;n N&#xB0;350 de 1981 que establece normas para el ingreso de mercader&#xED;as vegetales peligrosas, la Resoluci&#xF3;n N&#xB0;14 de 1990, que establece normas para internaci&#xF3;n de maderas y la Resoluci&#xF3;n N&#xB0;1.834 de 1991 todas del Servicio Agr&#xED;cola y Ganadero, y</div><div class=\"p\">&nbsp; &nbsp; Considerando: 1.- Que existen plagas forestales ex&#xF3;ticas, cuyo ingreso al pa&#xED;s puede provocar graves da&#xF1;os a la econom&#xED;a nacional.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que la dispersi&#xF3;n de plagas y enfermedades vegetales ocurre preferentemente por el intercambio de mercader&#xED;as que transportan los agentes causales.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que los procesos utilizados en la elaboraci&#xF3;n de ciertos productos de madera, minimizan su riesgo fitosanitario.</div><div class=\"p\">&nbsp; &nbsp; 4.- Que constituye responsabilidad del Servicio Agr&#xED;cola y Ganadero controlar el ingreso de plagas y enfermedades forestales al territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; 5.- Que para este prop&#xF3;sito el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las regulaciones cuarentenarias que resguarden el patrimonio fitosanitario forestal del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE REGULACIONES CUARENTENARIAS PARA LA INTERNACION DE MADERAS SECAS EN HORNO</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 17 de Noviembre de 1993.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.292 exenta.- Visto: Lo dispuesto en el Decreto Ley N&#xB0;3.557 de 1980 sobre Protecci&#xF3;n Agr&#xED;cola, la Resoluci&#xF3;n N&#xB0;39 de 1981 que delega facultades al Director de Divisi&#xF3;n de Protecci&#xF3;n Agr&#xED;cola del Servicio Agr&#xED;cola y Ganadero, la Resoluci&#xF3;n N&#xB0;350 de 1981 que establece normas para el ingreso de mercader&#xED;as vegetales peligrosas, la Resoluci&#xF3;n N&#xB0;14 de 1990, que establece normas para internaci&#xF3;n de maderas y la Resoluci&#xF3;n N&#xB0;1.834 de 1991 todas del Servicio Agr&#xED;cola y Ganadero, y</div><div class=\"p\">&nbsp; &nbsp; Considerando: 1.- Que existen plagas forestales ex&#xF3;ticas, cuyo ingreso al pa&#xED;s puede provocar graves da&#xF1;os a la econom&#xED;a nacional.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que la dispersi&#xF3;n de plagas y enfermedades vegetales ocurre preferentemente por el intercambio de mercader&#xED;as que transportan los agentes causales.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que los procesos utilizados en la elaboraci&#xF3;n de ciertos productos de madera, minimizan su riesgo fitosanitario.</div><div class=\"p\">&nbsp; &nbsp; 4.- Que constituye responsabilidad del Servicio Agr&#xED;cola y Ganadero controlar el ingreso de plagas y enfermedades forestales al territorio nacional.</div><div class=\"p\">&nbsp; &nbsp; 5.- Que para este prop&#xF3;sito el Servicio Agr&#xED;cola y Ganadero est&#xE1; facultado para establecer las regulaciones cuarentenarias que resguarden el patrimonio fitosanitario forestal del pa&#xED;s.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

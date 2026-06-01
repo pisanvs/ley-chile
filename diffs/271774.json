@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2008-05-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-06-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7371440,
+          "old": "<div><div class=\"p\">AMPL&#xCD;A LISTA DE PERITOS PARA LA IX REGI&#xD3;N DE LA ARAUCAN&#xCD;A</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 465 exento.- Santiago, 13 de mayo de 2008.- Vistos: Estos antecedentes, lo dispuesto en el inciso segundo del art&#xED;culo 4&#xBA; del decreto ley N&#xBA; 2.186, de 1978, modificado por el art&#xED;culo &#xFA;nico de la ley N&#xBA; 18.932; el decreto supremo de Hacienda N&#xBA; 692, de 1978; el N&#xBA; 20 del numeral VI del art&#xED;culo primero del decreto supremo del Ministerio Secretar&#xED;a General de la Presidencia N&#xBA; 19, de 2001; la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica, que fij&#xF3; el texto refundido, coordinado y sistematizado de la resoluci&#xF3;n N&#xBA; 55, de 1992, de esa Contralor&#xED;a General; el oficio Ord. N&#xBA; 1.079, de 2 de mayo de 2008, del se&#xF1;or Intendente IX Regi&#xF3;n de la Araucan&#xED;a,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AMPL&#xCD;A LISTA DE PERITOS PARA LA IX REGI&#xD3;N DE LA ARAUCAN&#xCD;A</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 465 exento.- Santiago, 13 de mayo de 2008.- Vistos: Estos antecedentes, lo dispuesto en el inciso segundo del art&#xED;culo 4&#xBA; del decreto ley N&#xBA; 2.186, de 1978, modificado por el art&#xED;culo &#xFA;nico de la ley N&#xBA; 18.932; el decreto supremo de Hacienda N&#xBA; 692, de 1978; el N&#xBA; 20 del numeral VI del art&#xED;culo primero del decreto supremo del Ministerio Secretar&#xED;a General de la Presidencia N&#xBA; 19, de 2001; la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica, que fij&#xF3; el texto refundido, coordinado y sistematizado de la resoluci&#xF3;n N&#xBA; 55, de 1992, de esa Contralor&#xED;a General; el oficio Ord. N&#xBA; 1.079, de 2 de mayo de 2008, del se&#xF1;or Intendente IX Regi&#xF3;n de la Araucan&#xED;a,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        },
+        {
+          "part_id": 7371441,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Ampl&#xED;ase, con los siguientes profesionales, la lista de peritos para la IX Regi&#xF3;n de la Araucan&#xED;a, de entre los cuales la entidad expropiante designar&#xE1; a los miembros de la comisi&#xF3;n encargada de determinar el monto provisional de la indemnizaci&#xF3;n en un procedimiento expropiatorio, aprobada por decreto supremo de Hacienda N&#xBA; 692, de 1978, publicado en el Diario Oficial de fecha 7 de diciembre de 1978.</div><br><div class=\"p\">Arquitectos:</div><br><div class=\"p\">Jimena Francisca Asenjo Burgos Claudio Andr&#xE9;s Correa Barahona Victoria Adriana Blanco Costa Fernando Jos&#xE9; Senerman Mandel Marcela Cecilia Covarrubias Bravo Ver&#xF3;nica Paz Olivier Valdebenito Patricia Alejandra Bunster Fuenzalida Paulina Lorena Jadue Zaror </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Ampl&#xED;ase, con los siguientes profesionales, la lista de peritos para la IX Regi&#xF3;n de la Araucan&#xED;a, de entre los cuales la entidad expropiante designar&#xE1; a los miembros de la comisi&#xF3;n encargada de determinar el monto provisional de la indemnizaci&#xF3;n en un procedimiento expropiatorio, aprobada por decreto supremo de Hacienda N&#xBA; 692, de 1978, publicado en el Diario Oficial de fecha 7 de diciembre de 1978.</div><br><div class=\"p\">Arquitectos:</div><br><div class=\"p\">Jimena Francisca Asenjo Burgos Claudio Andr&#xE9;s Correa Barahona Victoria Adriana Blanco Costa Fernando Jos&#xE9; Senerman Mandel Marcela Cecilia Cobarrubias Bravo<span class=\"n\" id=\"n_0\">DTO 584 EXENTO,<br>HACIENDA<br>D.O. 28.06.2008</span> Ver&#xF3;nica Paz Olivier Valdebenito Patricia Alejandra Bunster Fuenzalida Paulina Lorena Jadue Zaror</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

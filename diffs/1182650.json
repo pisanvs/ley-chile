@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2022-10-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-11-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10371600,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;base el programa de expropiaciones para la ejecuci&#xF3;n del Proyecto Urbano Habitacional &quot;Barrio Parque Cornelio Baeza&quot;, para el a&#xF1;o 2022 y siguientes, seg&#xFA;n lo detallado en el considerando 3. de este decreto y plano de expropiaciones singularizado en el Visto h), referido a los inmuebles que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/154613.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese el presente decreto en el Diario Oficial y en un peri&#xF3;dico de la provincia de Talca, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;base el programa de expropiaciones para la ejecuci&#xF3;n del Proyecto Urbano Habitacional &quot;Barrio Parque Cornelio Baeza&quot;, para el a&#xF1;o 2022 y siguientes, seg&#xFA;n lo detallado en el considerando 3. de este decreto y plano de expropiaciones singularizado en el Visto h), referido a los inmuebles que se indican a continuaci&#xF3;n:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/154613.jpg\"></div><br><br><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese el presente decreto en el Diario Oficial y en un peri&#xF3;dico de la provincia de Talca, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\"> </div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Las letras a), b) y c) del N&#xB0; 1 del Decreto 62 Exento, Vivienda, publicado el 09.11.2024, complementan el cuadro inserto en el resuelvo N&#xB0; 1 de la presente norma, en la forma que indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

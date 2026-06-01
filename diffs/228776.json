@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-08-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-04-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6491285,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Apru&#xE9;base la siguiente distribuci&#xF3;n presupuestaria del Fondo Nacional de Desarrollo Cultural y las Artes, entre las regiones del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp;  Los recursos de asignaci&#xF3;n nacional ascienden a M$2.433.723.</div><div class=\"p\">&nbsp; &nbsp;  Los recursos de asignaci&#xF3;n regional ascienden a M$2.466.597, que se distribuyen del siguiente modo:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  I&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  M$153.283</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  II&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; M$144.041</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  III&nbsp; &nbsp; &nbsp; &nbsp;  M$127.010</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  IV&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; M$149.506</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  V&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  M$262.039</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  VI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; M$165.951</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  VII&nbsp; &nbsp; &nbsp; &nbsp;  M$188.773</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  VIII&nbsp; &nbsp; &nbsp; &nbsp; M$284.650</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  IX&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; M$232.167</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  X&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  M$219.209</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  XI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; M$102.503</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  XII&nbsp; &nbsp; &nbsp; &nbsp;  M$111.571</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  RM&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; M$325.894</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Apru&#xE9;base la siguiente distribuci&#xF3;n presupuestaria del Fondo Nacional de Desarrollo Cultural y las Artes, entre las regiones del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp;  Los recursos de asignaci&#xF3;n nacional ascienden a M$2.433.723.</div><div class=\"p\">&nbsp; &nbsp;  Los recursos de asignaci&#xF3;n regional ascienden a M$2.466.597, que se distribuyen del siguiente modo:</div><div class=\"p\">&nbsp;  I&nbsp; &nbsp; &nbsp; &nbsp; M$ 141.920<span class=\"n\" id=\"n_0\">DTO 272, EDUCACION<br>Art. 1&#xBA;<br>D.O. 20.04.2005</span></div><div class=\"p\">&nbsp;  II&nbsp; &nbsp; &nbsp;  M$ 138.354</div><div class=\"p\">&nbsp;  III&nbsp; &nbsp; &nbsp; M$ 134.879</div><div class=\"p\">&nbsp;  IV&nbsp; &nbsp; &nbsp;  M$ 154.083</div><div class=\"p\">&nbsp;  V&nbsp; &nbsp; &nbsp; &nbsp; M$ 280.230</div><div class=\"p\">&nbsp;  VI&nbsp; &nbsp; &nbsp;  M$ 145.154</div><div class=\"p\">&nbsp;  VII&nbsp; &nbsp; &nbsp; M$ 180.645</div><div class=\"p\">&nbsp;  VIII&nbsp; &nbsp;  M$ 314.292</div><div class=\"p\">&nbsp;  IX&nbsp; &nbsp; &nbsp;  M$ 231.870</div><div class=\"p\">&nbsp;  X&nbsp; &nbsp; &nbsp; &nbsp; M$ 221.390</div><div class=\"p\">&nbsp;  XI&nbsp; &nbsp; &nbsp;  M$ 96.624</div><div class=\"p\">&nbsp;  XII&nbsp; &nbsp; &nbsp; M$ 101.262</div><div class=\"p\">&nbsp;  RM&nbsp; &nbsp; &nbsp;  M$ 325.894</div><br></div>"
+        }
+      ]
+    }
+  }
+]

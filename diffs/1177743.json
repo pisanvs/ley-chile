@@ -1,0 +1,71 @@
+[
+  {
+    "fecha": "2022-06-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-09-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10343823,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- Circunstancia atenuante especial. Ser&#xE1; circunstancia atenuante especial de responsabilidad penal, y permitir&#xE1; rebajar la pena hasta en un grado, la cooperaci&#xF3;n eficaz que conduzca al esclarecimiento de hechos investigados que sean constitutivos de alguno de los delitos previstos en esta ley o permita la identificaci&#xF3;n de sus responsables; o sirva para prevenir o impedir la perpetraci&#xF3;n o consumaci&#xF3;n de otros delitos de igual o mayor gravedad contemplados en esta ley.</div><div class=\"p\">&nbsp; &nbsp;  Se entiende por cooperaci&#xF3;n eficaz el suministro de datos o informaciones precisas, ver&#xED;dicas y comprobables, que contribuyan necesariamente a los fines se&#xF1;alados en el inciso anterior.</div><div class=\"p\">&nbsp; &nbsp;  El Ministerio P&#xFA;blico deber&#xE1; expresar, en la formalizaci&#xF3;n de la investigaci&#xF3;n o en su escrito de acusaci&#xF3;n, si la cooperaci&#xF3;n prestada por el imputado ha sido eficaz a los fines se&#xF1;alados en el inciso primero.</div><div class=\"p\">&nbsp; &nbsp;  La reducci&#xF3;n de pena se determinar&#xE1; con posterioridad a la individualizaci&#xF3;n de la sanci&#xF3;n penal seg&#xFA;n las circunstancias atenuantes o agravantes comunes que concurran; o de su compensaci&#xF3;n, de acuerdo con las reglas generales.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1206373&amp;idParte=10515248&amp;idVersion=2024-09-04\">Ley 21694<br>Art&#xED;culo tercero<br>D.O. 04.09.2024</a></span>.- Derogado.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1206373,
+      "fecha": "2024-09-04"
+    }
+  },
+  {
+    "fecha": "2025-01-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10343816,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Acceso il&#xED;cito. El que, sin autorizaci&#xF3;n o excediendo la autorizaci&#xF3;n que posea y superando barreras t&#xE9;cnicas o medidas tecnol&#xF3;gicas de seguridad, acceda a un sistema inform&#xE1;tico ser&#xE1; castigado con la pena de presidio menor en su grado m&#xED;nimo o multa de once a veinte unidades tributarias mensuales.</div><div class=\"p\">&nbsp; &nbsp;  Si el acceso fuere realizado con el &#xE1;nimo de apoderarse o usar la informaci&#xF3;n contenida en el sistema inform&#xE1;tico, se aplicar&#xE1; la pena de presidio menor en sus grados m&#xED;nimo a medio. Igual pena se aplicar&#xE1; a quien divulgue la informaci&#xF3;n a la cual se accedi&#xF3; de manera il&#xED;cita, si no fuese obtenida por &#xE9;ste.</div><div class=\"p\">&nbsp; &nbsp;  En caso de ser una misma persona la que hubiere obtenido y divulgado la informaci&#xF3;n, se aplicar&#xE1; la pena de presidio menor en sus grados medio a m&#xE1;ximo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Acceso il&#xED;cito. El que, sin autorizaci&#xF3;n o excediendo la autorizaci&#xF3;n que posea y superando barreras t&#xE9;cnicas o medidas tecnol&#xF3;gicas de seguridad, acceda a un sistema inform&#xE1;tico ser&#xE1; castigado con la pena de presidio menor en su grado m&#xED;nimo o multa de once a veinte unidades tributarias mensuales.</div><div class=\"p\">&nbsp; &nbsp;  Si el acceso fuere realizado con el &#xE1;nimo de apoderarse o usar la informaci&#xF3;n contenida en el sistema inform&#xE1;tico, se aplicar&#xE1; la pena de presidio menor en sus grados m&#xED;nimo a medio. Igual pena se aplicar&#xE1; a quien divulgue la informaci&#xF3;n a la cual se accedi&#xF3; de manera il&#xED;cita, si no fuese obtenida por &#xE9;ste.</div><div class=\"p\">&nbsp; &nbsp;  En caso de ser una misma persona la que hubiere obtenido y divulgado la informaci&#xF3;n, se aplicar&#xE1; la pena de presidio menor en sus grados medio a m&#xE1;ximo.</div><div class=\"p\">&nbsp; &nbsp;  No<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1202434&amp;idParte=10496231&amp;idVersion=2222-02-02\">Ley 21663<br>Art. 55 N&#xBA; 1<br>D.O. 08.04.2024</a></span> ser&#xE1; objeto de sanci&#xF3;n penal por haber incurrido en los hechos tipificados en el inciso primero, el que habiendo accedido a un sistema inform&#xE1;tico cuyo responsable tenga domicilio en Chile, lo hiciera cumpliendo con las siguientes condiciones:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Que se encuentre inscrito en el registro que al efecto lleve la Agencia Nacional de Ciberseguridad.</div><div class=\"p\">&nbsp; &nbsp;  2. Que el acceso se haya realizado habiendo informado previamente de ello a la Agencia.</div><div class=\"p\">&nbsp; &nbsp;  3. Que el acceso y las vulnerabilidades de seguridad detectadas hayan sido reportadas al responsable del sistema inform&#xE1;tico y a la Agencia, tan pronto se hubiere realizado.</div><div class=\"p\">&nbsp; &nbsp;  4. Que el acceso no haya sido realizado con el &#xE1;nimo de apoderarse o de usar la informaci&#xF3;n contenida en el sistema inform&#xE1;tico, ni con intenci&#xF3;n fraudulenta. Tampoco podr&#xE1; haber actuado m&#xE1;s all&#xE1; de lo que era necesario para comprobar la existencia de una vulnerabilidad, ni habr&#xE1; utilizado m&#xE9;todos que pudieran conducir a denegaci&#xF3;n de servicio, a pruebas f&#xED;sicas, utilizaci&#xF3;n de c&#xF3;digo malicioso, ingenier&#xED;a social y alteraci&#xF3;n, eliminaci&#xF3;n, exfiltraci&#xF3;n o destrucci&#xF3;n de datos.</div><div class=\"p\">&nbsp; &nbsp;  5. Que no haya divulgado p&#xFA;blicamente la informaci&#xF3;n relativa a la potencial vulnerabilidad.</div><div class=\"p\">&nbsp; &nbsp;  6. Que se trate de un acceso a un sistema inform&#xE1;tico de los organismos de la Administraci&#xF3;n del Estado. En el resto de los casos, requerir&#xE1; del consentimiento del responsable del sistema inform&#xE1;tico.</div><div class=\"p\">&nbsp; &nbsp;  7. Que haya dado cumplimiento a las dem&#xE1;s condiciones sobre comunicaci&#xF3;n responsable de vulnerabilidades que al efecto hubiere dictado la Agencia.</div><br></div>"
+        },
+        {
+          "part_id": 10343823,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1206373&amp;idParte=10515248&amp;idVersion=2024-09-04\">Ley 21694<br>Art&#xED;culo tercero<br>D.O. 04.09.2024</a></span>.- Derogado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1206373&amp;idParte=10515248&amp;idVersion=2024-09-04\">Ley 21694<br>Art&#xED;culo tercero<br>D.O. 04.09.2024</a></span>.- Derogado.</div><br></div>"
+        },
+        {
+          "part_id": 10343832,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- Autorizaci&#xF3;n e Investigaci&#xF3;n Acad&#xE9;mica. Para efectos de lo previsto en el art&#xED;culo 2&#xB0; se entender&#xE1; que cuenta con autorizaci&#xF3;n para el acceso a un sistema inform&#xE1;tico, el que en el marco de investigaciones de vulnerabilidad o para mejorar la seguridad inform&#xE1;tica, acceda a un sistema inform&#xE1;tico mediando la autorizaci&#xF3;n expresa del titular del mismo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- De<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1202434&amp;idParte=10496231&amp;idVersion=2222-02-02\">Ley 21663<br>Art. 55 N&#xBA; 2<br>D.O. 08.04.2024</a></span>rogado.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-04-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10343826,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- Sin perjuicio de las reglas contenidas en el C&#xF3;digo Procesal Penal, las investigaciones a que dieren lugar los delitos previstos en esta ley tambi&#xE9;n podr&#xE1;n iniciarse por querella del Ministro del Interior y Seguridad P&#xFA;blica, de los delegados presidenciales regionales y de los delegados presidenciales provinciales, cuando las conductas se&#xF1;aladas en esta ley interrumpieren el normal funcionamiento de un servicio de utilidad p&#xFA;blica.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- Sin perjuicio de las reglas contenidas en el C&#xF3;digo Procesal Penal, las investigaciones a que dieren lugar los delitos previstos en esta ley tambi&#xE9;n podr&#xE1;n iniciarse por querella del Ministro <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1210815&amp;idParte=10536029&amp;idVersion=2222-02-02\">Ley 21730<br>Art. d&#xE9;cimo<br>D.O. 05.02.2025</a></span>de Seguridad P&#xFA;blica o de los secretarios o secretarias regionales ministeriales de seguridad p&#xFA;blica, cuando las conductas se&#xF1;aladas en esta ley interrumpieren el normal funcionamiento de un servicio de utilidad p&#xFA;blica.</div></div>"
+        },
+        {
+          "part_id": 10343832,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- De<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1202434&amp;idParte=10496231&amp;idVersion=2222-02-02\">Ley 21663<br>Art. 55 N&#xBA; 2<br>D.O. 08.04.2024</a></span>rogado.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- De<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1202434&amp;idParte=10496231&amp;idVersion=2222-02-02\">Ley 21663<br>Art. 55 N&#xBA; 2<br>D.O. 08.04.2024</a></span>rogado.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

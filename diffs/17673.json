@@ -1,0 +1,87 @@
+[
+  {
+    "fecha": "1968-10-03",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1968-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8996788,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; Toda sociedad auxiliar destinada a financiar entidades cooperativas, que se organice de acuerdo con el art&#xED;culo 121&#xB0; de la Ley General de Cooperativas, se denominar&#xE1; &quot;Instituto de Financiamiento Cooperativo&quot;, con la agregaci&#xF3;n de una designaci&#xF3;n particular que sirva para distinguirla. </div></div>"
+        },
+        {
+          "part_id": 8996789,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; Los Institutos de Financiamiento Cooperativo se regir&#xE1;n por la Ley General de Cooperativas contenida en el R.R.A. 20 de 5 de abril de 1963, del Ministerio de Hacienda, por el presente decreto y por lo dispuesto en sus estatutos.</div><br></div>"
+        },
+        {
+          "part_id": 8996790,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0; El informe socio-econ&#xF3;mico que preceda a la formaci&#xF3;n de estos Institutos deber&#xE1; contener, adem&#xE1;s de la individualizaci&#xF3;n de las entidades que act&#xFA;an como organizadoras, el de las personas que formar&#xE1;n su Consejo Provisional. Podr&#xE1;n actuar como organizadores las cooperativas, uniones, federaciones, confederaciones y sociedades auxiliares de cooperativas y entidades privadas que de acuerdo con sus estatutos no persigan fines de lucro y sujetas a las limitaciones de la Ley General de Cooperativas. Las entidades organizadoras ser&#xE1;n responsables de las sumas entregadas al Instituto, en tanto &#xE9;ste no obtenga la autorizaci&#xF3;n de su existencia legal. En caso de que esta autorizaci&#xF3;n no se otorgue, todos los gastos efectuados ser&#xE1;n de exclusivo cargo de las entidades organizadoras.</div><div class=\"p\">&nbsp; &nbsp; La calificaci&#xF3;n del informe socio-econ&#xF3;mico en referencia corresponder&#xE1; al Jefe del Departamento de Cooperativas de la Direcci&#xF3;n de Industria y Comercio del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, quien deber&#xE1; velar por la exactitud de los datos contenidos en ese informe y porque las condiciones financieras y t&#xE9;cnicas del Instituto respectivo sean realizables y suficientes para su eficaz funcionamiento.</div><div class=\"p\">&nbsp; &nbsp; En caso que a juicio del funcionario aludido, el informe no re&#xFA;na esas condiciones, deber&#xE1; rechazarlo.</div><div class=\"p\">&nbsp; &nbsp; Si el informe socio-econ&#xF3;mico fuera aprobado deber&#xE1; solicitarse la autorizaci&#xF3;n de existencia del Instituto dentro del plazo de 6 meses.</div><br></div>"
+        },
+        {
+          "part_id": 8996791,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0; Para solicitar la aprobaci&#xF3;n de existencia legal del Instituto respectivo ser&#xE1; necesario que se haya suscrito a lo menos por los socios un capital equivalente a 50 sueldos vitales anuales. Deber&#xE1; adem&#xE1;s acreditarse que se han extendido los Estatutos Sociales y que el Consejo Provisional ha dictado un reglamento para el otorgamiento de cr&#xE9;ditos y dem&#xE1;s operaciones.</div><br></div>"
+        },
+        {
+          "part_id": 8996792,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0; Si los estatutos, el reglamento de pr&#xE9;stamos y operaciones y el financiamiento del Instituto que solicita su autorizaci&#xF3;n de existencia no tuvieran reparos, se dictar&#xE1; el decreto correspondiente, previo informe favorable de la Direcci&#xF3;n de Industria y Comercio del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 8996793,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0; El Instituto no podr&#xE1; iniciar las operaciones propias de su giro sin que, precisamente, sea autorizado para ello por el Departamento de Cooperativas quien, para otorgar esa autorizaci&#xF3;n, deber&#xE1; verificar que se ha suscrito un capital de a lo menos 200 sueldos vitales anuales y que se ha pagado la mitad de ese capital y que cuenta adem&#xE1;s con todos los recursos t&#xE9;cnicos y financieros suficientes para el desarrollo de las finalidades del Instituto.</div><br></div>"
+        },
+        {
+          "part_id": 8996794,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0; Los sueldos vitales anuales a que se refiere este reglamento son los del departamento de Santiago, vigentes a la fecha de la presentaci&#xF3;n del estudio socio-econ&#xF3;mico al Departamento de Cooperativas de la Direcci&#xF3;n de Industria y Comercio del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 8996795,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0; Las finalidades de los Institutos ser&#xE1;n fijadas en sus Estatutos dentro de los siguientes objetivos generales:</div><div class=\"p\">&nbsp; &nbsp; a) Conceder cr&#xE9;ditos en cualquiera de sus formas, incluso mediante avales o fianzas a plazos que no excedan de diez a&#xF1;os a Cooperativas Federaciones, uniones o confederaciones de cooperativas y Sociedades Auxiliares de Cooperativas;</div><div class=\"p\">&nbsp; &nbsp; b) Promover la capitalizaci&#xF3;n de las mencionadas Instituciones y emitir cuotas de ahorro regidas por la Ley General de Cooperativas para que sean colocadas en las cooperativas, o en las dem&#xE1;s personas jur&#xED;dicas a que se refiere la Ley General de Cooperativas, o entre los socios de estas entidades o del respectivo Instituto;</div><div class=\"p\">&nbsp; &nbsp; c) Promover planes de racionalizaci&#xF3;n o desarrollo de estas instituciones y otorgar financiamiento para servicios de asistencia t&#xE9;cnica para este efecto;</div><div class=\"p\">&nbsp; &nbsp; d) Adquirir bienes para venderlos a cr&#xE9;ditos no<span class=\"n\" id=\"n_0\">DS 1138 1968<br>ART. 1&#xB0;,<br>ECONOMIA,</span> superiores a diez a&#xF1;os a instituciones cooperativas;</div><br><div class=\"p\">&nbsp; &nbsp; e) Aceptar mandatos para cumplir gestiones financieras o administrar fondos fiduciarios o cumplir mandatos de parte de instituciones y agencias financieras nacionales, extranjeras o internacionales para prestar recursos, bienes o servicios a Instituciones cooperativas; en este caso no rige el plazo de 10 a&#xF1;os para los pr&#xE9;stamos otorgados en cumplimiento de estos mandatos;</div><div class=\"p\">&nbsp; &nbsp; f) Para cumplir las finalidades anteriores, contratar pr&#xE9;stamos, l&#xED;neas de cr&#xE9;ditos u otros financiamientos;</div><div class=\"p\">&nbsp; &nbsp; g) Ejecutar todos los actos y celebrar todos los contratos que tiendan, directa o indirectamente, a la consecuci&#xF3;n de sus fines;</div><div class=\"p\">&nbsp; &nbsp; En ning&#xFA;n caso los Institutos podr&#xE1;n financiar a personas naturales ni a entidades no regidas por la Ley de Cooperativas.</div><br></div>"
+        },
+        {
+          "part_id": 8996796,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0; Los Estatutos de los Institutos de Financiamiento Cooperativo, sin perjuicio de lo dispuesto en la Ley General de Cooperativas, deber&#xE1;n contener:</div><div class=\"p\">&nbsp; &nbsp; a) Disposiciones que establezcan la obligaci&#xF3;n de presentar trimestralmente al Departamento de Cooperativas, un balance certificado por una firma de auditores, aceptada por ese mismo Departamento como asimismo de presentarle estados de situaci&#xF3;n en cualquier fecha que se lo solicite;</div><div class=\"p\">&nbsp; &nbsp; b) Disposiciones que garanticen una capitalizaci&#xF3;n m&#xED;nima anual del 5% del monto de las operaciones de cr&#xE9;dito que realicen o de los servicios que otorguen;</div><div class=\"p\">&nbsp; &nbsp; c) Disposiciones que prohiban disminuir el capital pagado, sin autorizaci&#xF3;n expresa del Departamento de Cooperativas;</div><div class=\"p\">&nbsp; &nbsp; d) Disposiciones que reglamenten el derecho a voto de las entidades afiliadas a los Institutos, debiendo otorg&#xE1;rseles ese derecho en relaci&#xF3;n con el n&#xFA;mero de socios de cada entidad, con las limitaciones y ponderaciones que se estimen justificadas en cada caso;</div><div class=\"p\">&nbsp; &nbsp; e) Para las elecciones de Consejeros podr&#xE1;n agruparse las cooperativas de acuerdo con las normas estatutarias en relaci&#xF3;n con sus finalidades espec&#xED;ficas.</div><br></div>"
+        },
+        {
+          "part_id": 8996797,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0; El Reglamento de Pr&#xE9;stamos deber&#xE1; contener:</div><div class=\"p\">&nbsp; &nbsp; a) La prohibici&#xF3;n para los socios de retirarse del Instituto mientras tengan obligaciones vigentes;</div><div class=\"p\">&nbsp; &nbsp; b) La prohibici&#xF3;n de retirar los aportes efectuados para obtener pr&#xE9;stamos o relacionados con ellos, antes de transcurridos quince a&#xF1;os de la fecha del aporte;</div><div class=\"p\">&nbsp; &nbsp; c) Reglas que limiten el monto de los pr&#xE9;stamos que se otorguen a un mismo deudor.</div><br></div>"
+        },
+        {
+          "part_id": 8996798,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0; Los pr&#xE9;stamos que se otorguen por los Institutos de Financiamiento Cooperativo ser&#xE1;n siempre controlados.</div><br></div>"
+        },
+        {
+          "part_id": 8996799,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12&#xB0; Los Institutos de Financiamiento Cooperativo no podr&#xE1;n adquirir otros bienes corporales muebles o inmuebles que los necesarios para su funcionamiento, sin perjuicio de lo dispuesto en el art&#xED;culo 12&#xB0;, inciso 1&#xB0;, de la Ley General de<span class=\"n\" id=\"n_1\">DS 547 1968.<br>ART UNICO<br></span> Cooperativas, de las adquisiciones que resulten de las ejecuciones de sus deudores y de los bienes que les sean ECONOMIA, transferidos en pago de deudas previamente contra&#xED;das a su favor en el curso de sus operaciones.</div><div class=\"p\">&nbsp; &nbsp; Sin embargo, los Institutos de Financiamiento<span class=\"n\" id=\"n_2\">DS 1138 1968<br>Art. 2&#xB0;,<br>ECONOMIA,</span> Cooperativo podr&#xE1;n adquirir otros bienes corporales aparte de los se&#xF1;alados en el inciso precedente cuando dichas adquisiciones tengan por objeto financiar en forma directa o indirecta a las Cooperativas.</div><br></div>"
+        },
+        {
+          "part_id": 8996800,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0; El Departamento de Cooperativas para ejercitar la fiscalizaci&#xF3;n que le corresponde sobre los Institutos de Financiamiento Cooperativo podr&#xE1;n solicitar la asesor&#xED;a t&#xE9;cnica de la Caja Central de Ahorro y Pr&#xE9;stamo o de la Superintendencia de Bancos. </div></div>"
+        },
+        {
+          "part_id": 8996801,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; T&#xF3;mese raz&#xF3;n, comun&#xED;quese y publ&#xED;quese.- JORGE ALESSANDRI RODRIGUEZ.- Julio Philippi.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

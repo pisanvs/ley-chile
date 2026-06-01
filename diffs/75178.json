@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1997-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-12-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938415,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA;: El Servicio de Bienestar podr&#xE1; otorgar beneficios de car&#xE1;cter m&#xE9;dico y odontol&#xF3;gico a sus afiliados y cargas familiares reconocidas, en la medida que sus recursos lo permitan, por los siguientes conceptos:</div><br><br><div class=\"p\">a)&nbsp;  Consulta m&#xE9;dica, consulta m&#xE9;dica domiciliaria, interconsulta y junta m&#xE9;dica;</div><div class=\"p\">b)&nbsp;  Intervenciones quir&#xFA;rgicas, atenci&#xF3;n de anestesistas y arsenalera;</div><div class=\"p\">c)&nbsp;  Hospitalizaciones;</div><div class=\"p\">d)&nbsp;  Ex&#xE1;menes de laboratorio, Rayos X, histopatol&#xF3;gicos y especializados de car&#xE1;cter m&#xE9;dico;</div><div class=\"p\">e)&nbsp;  Atenci&#xF3;n odontol&#xF3;gica;</div><div class=\"p\">f)&nbsp;  Medicamentos;</div><div class=\"p\">g)&nbsp;  Implantes;</div><div class=\"p\">h)&nbsp;  Marcapasos;</div><div class=\"p\">i)&nbsp;  Tratamientos m&#xE9;dicos especializados.</div><div class=\"p\">j)&nbsp;  Consulta y tratamientos especializados para la recuperaci&#xF3;n de la salud, efectuados por personal profesional o t&#xE9;cnico autorizado de colaboraci&#xF3;n m&#xE9;dica;</div><div class=\"p\">k)&nbsp;  Adquisici&#xF3;n de anteojos, lentes de contacto, aud&#xED;fonos y aparatos ortop&#xE9;dicos;</div><div class=\"p\">l)&nbsp;  Toma de muestra de ex&#xE1;menes a domicilio;</div><div class=\"p\">m)&nbsp;  Atenci&#xF3;n de urgencias, primeros auxilios y enfermer&#xED;a;</div><div class=\"p\">n)&nbsp;  Atenci&#xF3;n obst&#xE9;trica;</div><div class=\"p\">&#xF1;)&nbsp;  Traslados de enfermos, y</div><div class=\"p\">o)&nbsp;  Insumos necesarios para el otorgamiento de las prestaciones de las letras b), d), g), h), i), j), m) precedentes. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA;: El Servicio de Bienestar podr&#xE1; otorgar beneficios de car&#xE1;cter m&#xE9;dico y odontol&#xF3;gico a sus afiliados y cargas familiares reconocidas, en la medida que sus recursos lo permitan, por los siguientes conceptos: a)&nbsp;  Consulta m&#xE9;dica, consulta m&#xE9;dica domiciliaria,</div><div class=\"p\">&nbsp; &nbsp;  interconsulta y junta m&#xE9;dica;</div><div class=\"p\">b)&nbsp;  Intervenciones quir&#xFA;rgicas, atenci&#xF3;n de</div><div class=\"p\">&nbsp; &nbsp;  anestesistas y arsenalera;</div><div class=\"p\">c)&nbsp;  Hospitalizaciones;</div><div class=\"p\">d)&nbsp;  Ex&#xE1;menes de laboratorio, Rayos X, histopatol&#xF3;gicos</div><div class=\"p\">&nbsp; &nbsp;  y especializados de car&#xE1;cter m&#xE9;dico;</div><div class=\"p\">e)&nbsp;  Atenci&#xF3;n odontol&#xF3;gica;</div><div class=\"p\">f)&nbsp;  Medicamentos;</div><div class=\"p\">g)&nbsp;  Implantes;</div><div class=\"p\">h)&nbsp;  Marcapasos;</div><div class=\"p\">i)&nbsp;  Tratamientos m&#xE9;dicos especializados.</div><div class=\"p\">j)&nbsp;  Consulta y tratamientos especializados para la</div><div class=\"p\">&nbsp; &nbsp;  recuperaci&#xF3;n de la salud, efectuados por personal</div><div class=\"p\">&nbsp; &nbsp;  profesional o t&#xE9;cnico autorizado de colaboraci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  m&#xE9;dica;</div><div class=\"p\">k)&nbsp;  Adquisici&#xF3;n de anteojos, lentes de contacto,</div><div class=\"p\">&nbsp; &nbsp;  aud&#xED;fonos y aparatos ortop&#xE9;dicos;</div><div class=\"p\">l)&nbsp;  Toma de muestra de ex&#xE1;menes a domicilio;</div><div class=\"p\">m)&nbsp;  Atenci&#xF3;n de urgencias, primeros auxilios y</div><div class=\"p\">&nbsp; &nbsp;  enfermer&#xED;a;</div><div class=\"p\">n)&nbsp;  Atenci&#xF3;n obst&#xE9;trica;</div><div class=\"p\">&#xF1;)&nbsp;  Traslados de enfermos, y</div><div class=\"p\">o)&nbsp;  Insumos necesarios para el otorgamiento de las</div><div class=\"p\">&nbsp; &nbsp;  prestaciones de las letras b), d), g), h), i),</div><div class=\"p\">&nbsp; &nbsp;  j), m) precedentes.</div><div class=\"p\">&nbsp; &nbsp;  El Bienestar podr&#xE1; financiar con cargo a sus<span class=\"n\" id=\"n_0\">DTO 55, TRABAJO<br>Art. &#xFA;nico<br>D.O. 05.12.2002</span> propios recursos, de acuerdo con sus disponibilidades presupuestarias, y contratar seguros de vida para sus afiliados, seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-09-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

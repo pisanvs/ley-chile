@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-10-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-12-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6663129,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Monumento Hist&#xF3;rico la &quot;Casa Ballivi&#xE1;n&quot;, actual sede de la Corporaci&#xF3;n Club de Deportes Santiago Wanderers de Valpara&#xED;so, ubicada en calle Independencia N&#xBA; 2053, de la Comuna y Provincia de Valpara&#xED;so, V Regi&#xF3;n de Valpara&#xED;so.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida tiene una superficie aproximada de 547,79 metros2 y se delimita por el pol&#xED;gono A-B-C-D-A, como se indica en el plano adjunto que forma parte del presente decreto. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Monumento Hist&#xF3;rico la &quot;Casa Ballivi&#xE1;n&quot;, actual sede de la Corporaci&#xF3;n Club de Deportes Santiago Wanderers de Valpara&#xED;so, ubicada en calle Independencia N&#xBA; 2053, de la Comuna y Provincia de Valpara&#xED;so, V Regi&#xF3;n de Valpara&#xED;so.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida tiene una superficie aproximada de 547,79 metros2 y se delimita por el pol&#xED;gono A-B-C-D-A, como se indica en el plano adjunto que forma parte del presente decreto. </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 423, Educaci&#xF3;n, publicado el 05.12.2009, modifica la presente norma en el sentido de que desde el a&#xF1;o 1997 el actual propietario del inmueble se&#xF1;alado en el considerando cuarto es la Inmobiliaria Santiago Wanderers S.A. y no como en dicho decreto se se&#xF1;ala.</div></div>"
+        }
+      ]
+    }
+  }
+]

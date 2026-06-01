@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-11-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1980-12-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6348039,
+          "old": "<div><div class=\"p\">DEJA SIN EFECTO DECRETOS Nos. 55 y 206, DE 1976, Y ESTABLECE NUEVO REGLAMENTO DE MONTOS DE CONTRATOS DE OBRAS PUBLICAS.</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 4 de Noviembre de 1977.- El Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.620.- Vistos: lo dispuesto en el Art. 49 de la ley N&#xBA; 15.840, modificado por el decreto ley N&#xBA; 223, de 1973; lo dispuesto en los art&#xED;culos 14 y 15 del decreto ley N&#xBA; 575, de 1974; las normas de los art&#xED;culos 12 y 13 del decreto ley N&#xBA; 534, de 1974; lo establecido en los decretos MOP N&#xBA; 690, de 1974; N&#xBA; 50, de 1976; los decretos MOP Nos. 870 y 1.277, de 1974; el art&#xED;culo 10 del decreto ley N&#xBA; 937, de 1975; el decreto MOP N&#xBA; 649, de 1976, y</div><div class=\"p\">&nbsp; &nbsp;  Considerando que los objetivos que persigue la regionalizaci&#xF3;n del pa&#xED;s hace aconsejable ampliar las atribuciones concedidas a las distintas autoridades del Ministerio de Obras P&#xFA;blicas, en lo referente a los valores sobre los cuales les corresponde resolver, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DEJA SIN EFECTO DECRETOS Nos. 55 y 206, DE 1976, Y ESTABLECE NUEVO REGLAMENTO DE MONTOS DE CONTRATOS DE OBRAS PUBLICAS.</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 4 de Noviembre de 1977.- El Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.620.- Vistos: lo dispuesto en el Art. 49 de la ley N&#xBA; 15.840, modificado por el decreto ley N&#xBA; 223, de 1973; lo dispuesto en los art&#xED;culos 14 y 15 del decreto ley N&#xBA; 575, de 1974; las normas de los art&#xED;culos 12 y 13 del decreto ley N&#xBA; 534, de 1974; lo establecido en los decretos MOP N&#xBA; 690, de 1974; N&#xBA; 50, de 1976; los decretos MOP Nos. 870 y 1.277, de 1974; el art&#xED;culo 10 del decreto ley N&#xBA; 937, de 1975; el decreto MOP N&#xBA; 649, de 1976, y</div><div class=\"p\">&nbsp; &nbsp;  Considerando que los objetivos que persigue la regionalizaci&#xF3;n del pa&#xED;s hace aconsejable ampliar las atribuciones concedidas a las distintas autoridades del Ministerio de Obras P&#xFA;blicas, en lo referente a los valores sobre los cuales les corresponde resolver, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

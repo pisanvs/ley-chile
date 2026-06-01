@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1993-04-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-05-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9039022,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;: Por el per&#xED;odo 1&#xB0; de Marzo de 1993 al 28 de Febrero de 1994 el proceso de calificaciones a que se refiere el Art&#xED;culo Transitorio del Decreto Supremo N&#xB0; 453 de 1991, se efectuar&#xE1; con car&#xE1;cter experimental con el objeto de detectar una racional aplicaci&#xF3;n del sistema, considerando los diferentes elementos y personas que deben intervenir en ese proceso. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;: Por el per&#xED;odo 1&#xB0; de Marzo de 1993 al 28 de Febrero de 1994 y por el per&#xED;odo 1&#xB0; de marzo de<span class=\"n\" id=\"n_0\">DS 162,EDUC.<br>1994, Art.<br></span> 1994 al 28 de febrero de 1995 el proceso de calificaciones a que se refiere el Art&#xED;culo Transitorio &#xFA;nico, a) del Decreto Supremo N&#xB0; 453 de 1991, se efectuar&#xE1; con car&#xE1;cter experimental con el objeto de detectar una racional aplicaci&#xF3;n del sistema, considerando los diferentes elementos y personas que deben intervenir en ese proceso.</div><br></div>"
+        },
+        {
+          "part_id": 9039023,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;: La primera calificaci&#xF3;n que deber&#xE1; hacerse de acuerdo a lo establecido en el P&#xE1;rrafo VII del T&#xED;tulo III del Decreto Supremo de Educaci&#xF3;n N&#xB0; 453, de 1991, abarcar&#xE1; el per&#xED;odo comprendido entre el 1&#xB0; de Marzo de 1994 y el 28 de Febrero de 1995.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;: La primera calificaci&#xF3;n que deber&#xE1; hacerse de acuerdo a lo establecido en el P&#xE1;rrafo VII<span class=\"n\" id=\"n_1\">DS 162,EDUC.<br><br></span> del T&#xED;tulo III del Decreto Supremo de Educaci&#xF3;n N&#xB0; 453, 1994, Art. de 1991, abarcar&#xE1; el per&#xED;odo comprendido entre el 1&#xB0; de &#xFA;nico, b) Marzo de 1995 y el 28 de Febrero de 1996.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

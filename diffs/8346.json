@@ -1,0 +1,50 @@
+[
+  {
+    "fecha": "1994-04-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-05-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1994-05-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9038293,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile, la norma t&#xE9;cnica que se indica a continuaci&#xF3;n:</div><div class=\"p\"> NCH&nbsp; 2251.Of94 Aislaci&#xF3;n t&#xE9;rmica - Resistencia t&#xE9;rmica</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  de materiales de construcci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Corresponder&#xE1; al Instituto Nacional de Normalizaci&#xF3;n publicar una minuta del presente decreto en el Diario Oficial, y el texto &#xED;ntegro de esta norma en documentos oficiales del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- El Instituto Nacional de Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de dicha norma, debidamente certificada su conformidad con los textos oficiales, a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionar gratuitamente el mismo n&#xFA;mero de ejemplares al Ministerio de Vivienda y Urbanismo, que la declara norma oficial de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile, la norma t&#xE9;cnica que se indica a continuaci&#xF3;n: NCH&nbsp; 2251.Of94 Aislaci&#xF3;n t&#xE9;rmica - Resistencia t&#xE9;rmica de materiales y elementos de<span class=\"n\" id=\"n_0\">DS 80,VIV.<br>1994</span> construcci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Corresponder&#xE1; al Instituto Nacional de Normalizaci&#xF3;n publicar una minuta del presente decreto en el Diario Oficial, y el texto &#xED;ntegro de esta norma en documentos oficiales del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- El Instituto Nacional de Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de dicha norma, debidamente certificada su conformidad con los textos oficiales, a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionar gratuitamente el mismo n&#xFA;mero de ejemplares al Ministerio de Vivienda y Urbanismo, que la declara norma oficial de la Rep&#xFA;blica.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2016-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9038293,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile, la norma t&#xE9;cnica que se indica a continuaci&#xF3;n: NCH&nbsp; 2251.Of94 Aislaci&#xF3;n t&#xE9;rmica - Resistencia t&#xE9;rmica de materiales y elementos de<span class=\"n\" id=\"n_0\">DS 80,VIV.<br>1994</span> construcci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Corresponder&#xE1; al Instituto Nacional de Normalizaci&#xF3;n publicar una minuta del presente decreto en el Diario Oficial, y el texto &#xED;ntegro de esta norma en documentos oficiales del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- El Instituto Nacional de Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de dicha norma, debidamente certificada su conformidad con los textos oficiales, a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionar gratuitamente el mismo n&#xFA;mero de ejemplares al Ministerio de Vivienda y Urbanismo, que la declara norma oficial de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile, la norma t&#xE9;cnica que se indica a continuaci&#xF3;n: <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1086705&amp;idParte=9666717&amp;idVersion=2016-01-18\">Decreto 5 EXENTO,<br>VIVIENDA<br>N&#xB0; 1, b)<br>D.O. 18.01.2016</a></span>NCh2251:2010 Aislaci&#xF3;n t&#xE9;rmica - Requisitos de rotulaci&#xF3;n de materiales aislantes.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Corresponder&#xE1; al Instituto Nacional de Normalizaci&#xF3;n publicar una minuta del presente decreto en el Diario Oficial, y el texto &#xED;ntegro de esta norma en documentos oficiales del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- El Instituto Nacional de Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de dicha norma, debidamente certificada su conformidad con los textos oficiales, a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionar gratuitamente el mismo n&#xFA;mero de ejemplares al Ministerio de Vivienda y Urbanismo, que la declara norma oficial de la Rep&#xFA;blica.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1086705,
+      "fecha": "2016-01-18"
+    }
+  }
+]

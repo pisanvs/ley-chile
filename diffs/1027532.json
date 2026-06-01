@@ -1,0 +1,60 @@
+[
+  {
+    "fecha": "2011-07-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-08-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9165684,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo N&#xBA; 3: Las disposiciones de la<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1028630&amp;idParte=9165523&amp;idVersion=2011-08-12\">Decreto 4013 EXENTO,<br>M. de Vallenar<br>D.O. 12.08.2011</a></span> presente Ordenanza son complementarias a las normas legales que regula esta materia tales como: Ley General de Urbanismo y Construcciones, Ley de Rentas Municipales, C&#xF3;digo Sanitario, ley N&#xBA;19.995 de Casinos y Juegos y cualquier otro texto legal sobre esta materia</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1028630,
+      "fecha": "2011-08-12"
+    }
+  },
+  {
+    "fecha": "2013-08-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9156921,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5: La explotaci&#xF3;n comercial de estas actividades s&#xF3;lo se podr&#xE1; realizar en los locales comerciales destinados exclusivamente a estos fines y que cumplan con las exigencias contenidas en la Ley General de Urbanismo y Construcciones y su Ordenanza y en las dem&#xE1;s leyes, Ordenanzas y Reglamentos que les sean aplicables, las cuales ser&#xE1;n formuladas por la Direcci&#xF3;n de Obras Municipales y la autoridad sanitaria correspondiente, sin perjuicio que el municipio pueda autorizar otros giros afines, anexo dentro del mismo local, con la debida habilitaci&#xF3;n de la exigencia municipal. En estos locales se podr&#xE1;n implementar hasta 15 m&#xE1;quinas.</div><div class=\"p\">&nbsp; &nbsp;  Excepcionalmente, se autorizar&#xE1; la explotaci&#xF3;n comercial de esta actividad, con un m&#xE1;ximo de 3 m&#xE1;quinas por local, en aquellos recintos que cuenten con patente comercial de rubro distinto, salvo patente de alcoholes. Los contribuyentes deber&#xE1;n cancelar por cada m&#xE1;quina el valor de 1 UTM semestral.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5: La explotaci&#xF3;n<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1053436&amp;idParte=9368010&amp;idVersion=2013-08-03\">Decreto 3801 EXENTO,<br>M. DE VALLENAR<br>D.O. 03.08.2013</a></span>&nbsp; comercial de estas actividades s&#xF3;lo se podr&#xE1; realizar en los locales comerciales destinados exclusivamente a estos fines, entendiendo por local para estos efectos, la unidad o dependencia con rol de propiedad independiente y que cumplan con las exigencias contenidas en la Ley General de Urbanismo y Construcciones y su Ordenanza; el Plan Regulador y en las dem&#xE1;s leyes, ordenanzas y reglamentos que les sean aplicables, las cuales ser&#xE1;n exigidas por las entidades correspondientes.</div><br><div class=\"p\">&nbsp; &nbsp;  En cada local comercial s&#xF3;lo se podr&#xE1;n implementar hasta 3 m&#xE1;quinas de habilidad y destreza.</div><br><div class=\"p\">&nbsp; &nbsp;  Excepcionalmente, se autorizar&#xE1; la explotaci&#xF3;n comercial de esta actividad con un m&#xE1;ximo de tres m&#xE1;quinas por local en aquellos recintos que cuenten con patente comercial de rubro distinto, salvo locales que tengan patente de alcoholes.</div><br><div class=\"p\">&nbsp; &nbsp;  Los contribuyentes deber&#xE1;n pagar por cada m&#xE1;quina el valor de 6 UTM semestrales.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-08-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9156921,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5: La explotaci&#xF3;n<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1053436&amp;idParte=9368010&amp;idVersion=2013-08-03\">Decreto 3801 EXENTO,<br>M. DE VALLENAR<br>D.O. 03.08.2013</a></span>&nbsp; comercial de estas actividades s&#xF3;lo se podr&#xE1; realizar en los locales comerciales destinados exclusivamente a estos fines, entendiendo por local para estos efectos, la unidad o dependencia con rol de propiedad independiente y que cumplan con las exigencias contenidas en la Ley General de Urbanismo y Construcciones y su Ordenanza; el Plan Regulador y en las dem&#xE1;s leyes, ordenanzas y reglamentos que les sean aplicables, las cuales ser&#xE1;n exigidas por las entidades correspondientes.</div><br><div class=\"p\">&nbsp; &nbsp;  En cada local comercial s&#xF3;lo se podr&#xE1;n implementar hasta 3 m&#xE1;quinas de habilidad y destreza.</div><br><div class=\"p\">&nbsp; &nbsp;  Excepcionalmente, se autorizar&#xE1; la explotaci&#xF3;n comercial de esta actividad con un m&#xE1;ximo de tres m&#xE1;quinas por local en aquellos recintos que cuenten con patente comercial de rubro distinto, salvo locales que tengan patente de alcoholes.</div><br><div class=\"p\">&nbsp; &nbsp;  Los contribuyentes deber&#xE1;n pagar por cada m&#xE1;quina el valor de 6 UTM semestrales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5: La <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1053749&amp;idParte=9371046&amp;idVersion=2013-08-23\">Decreto 4089 EXENTO,<br>M. DE VALLENAR<br>D.O. 23.08.2013</a></span>explotaci&#xF3;n comercial de estas actividades s&#xF3;lo se podr&#xE1; realizar en los locales comerciales destinados exclusivamente a estos fines, entendiendo por local para estos efectos, la unidad o dependencia con rol de propiedad independiente y que cumplan con las exigencias contenidas en la Ley General de Urbanismo y Construcciones y su Ordenanza; el Plan Regulador y en las dem&#xE1;s leyes, ordenanzas y reglamentos que les sean aplicables, las cuales ser&#xE1;n exigidas por las entidades correspondientes.</div><br><div class=\"p\">&nbsp; &nbsp;  En cada local comercial s&#xF3;lo se podr&#xE1;n implementar hasta 3 m&#xE1;quinas de habilidad y destreza.</div><br><div class=\"p\">&nbsp; &nbsp;  Excepcionalmente, se autorizar&#xE1; la explotaci&#xF3;n comercial de esta actividad con un m&#xE1;ximo de tres m&#xE1;quinas por local en aquellos recintos que cuenten con patente comercial de rubro distinto, salvo locales que tengan patente de alcoholes.</div><br><div class=\"p\">&nbsp; &nbsp;  Los contribuyentes deber&#xE1;n pagar por cada m&#xE1;quina el valor de 1 UTM semestrales.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1053749,
+      "fecha": "2013-08-23"
+    }
+  }
+]

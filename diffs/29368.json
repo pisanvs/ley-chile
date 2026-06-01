@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1973-03-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-12-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8284598,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1&#xB0;- Cr&#xE9;ase el Departamento de Bienestar del Congreso Nacional. Sus estatutos ser&#xE1;n dictados por una Comisi&#xF3;n compuesta por el Presidente del Senado, el Presidente de la C&#xE1;mara de Diputados, un Senador, un Diputado, el Secretario del Senado, el Secretario de la C&#xE1;mara de Diputados, un representante de la Asociaci&#xF3;n de Empleados del Senado, un representante de la Asociaci&#xF3;n de Empleados de la C&#xE1;mara de Diputados y un representante de la Asociaci&#xF3;n de Empleados de la Biblioteca del Congreso Nacional.</div><div class=\"p\">&nbsp; &nbsp; La supervigilancia general y el examen y juzgamiento de las cuentas del Departamento de Bienestar del Congreso corresponder&#xE1;n a una Comisi&#xF3;n compuesta por el Tesorero del Senado y el Tesorero de la C&#xE1;mara de Diputados. Su administraci&#xF3;n, organizaci&#xF3;n, aportes de los asociados, los beneficios que conceda y la modificaci&#xF3;n de los estatutos se determinar&#xE1;n por los &#xF3;rganos y mecanismos que los mismos Estatutos establezcan.</div><div class=\"p\">&nbsp; &nbsp; El Presidente del Senado y el Presidente de la C&#xE1;mara de Diputados reducir&#xE1;n a escritura p&#xFA;blica los Estatutos que apruebe la Comisi&#xF3;n a que se refiere el inciso primero y publicar&#xE1;n un extracto de los mismos en el Diario Oficial dentro de los treinta d&#xED;as siguientes a la fecha de la escritura p&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Anualmente se consultar&#xE1;, en los Presupuestos del Senado, de la C&#xE1;mara de Diputados y de la Biblioteca del Congreso Nacional una suma no inferior al dos por ciento de las remuneraciones y dietas que se pagan a cada uno de ellos, como aporte de &#xE9;stos al Departamento de Bienestar.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1&#xB0;- Cr&#xE9;ase el Depa<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>rtamento de Bienestar del Congreso Nacional. Sus estatutos ser&#xE1;n dictados por una Comisi&#xF3;n compuesta por el Presidente del Senado, el Presidente de la C&#xE1;mara de Diputados, un Senador, un Diputado, el Secretario del Senado, el Secretario de la C&#xE1;mara de Diputados, un representante de la Asociaci&#xF3;n de Empleados del Senado, un representante de la Asociaci&#xF3;n de Empleados de la C&#xE1;mara de Diputados y un representante de la Asociaci&#xF3;n de Empleados de la Biblioteca del Congreso Nacional.</div><div class=\"p\">&nbsp; &nbsp; La supervigilancia general y el examen y juzgamiento de las cuentas del Departamento de Bienestar del Congreso corresponder&#xE1;n a una Comisi&#xF3;n compuesta por el Tesorero del Senado y el Tesorero de la C&#xE1;mara de Diputados. Su administraci&#xF3;n, organizaci&#xF3;n, aportes de los asociados, los beneficios que conceda y la modificaci&#xF3;n de los estatutos se determinar&#xE1;n por los &#xF3;rganos y mecanismos que los mismos Estatutos establezcan.</div><div class=\"p\">&nbsp; &nbsp; El Presidente del Senado y el Presidente de la C&#xE1;mara de Diputados reducir&#xE1;n a escritura p&#xFA;blica los Estatutos que apruebe la Comisi&#xF3;n a que se refiere el inciso primero y publicar&#xE1;n un extracto de los mismos en el Diario Oficial dentro de los treinta d&#xED;as siguientes a la fecha de la escritura p&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Anualmente se consultar&#xE1;, en los Presupuestos del Senado, de la C&#xE1;mara de Diputados y de la Biblioteca del Congreso Nacional una suma no inferior al dos por ciento de las remuneraciones y dietas que se pagan a cada uno de ellos, como aporte de &#xE9;stos al Departamento de Bienestar.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El Art. 6 del Decreto Ley 2063, Interior, publicado el 15.12.1977, otorga al Secretario del Senado las facultades de dictar los Estatutos del Departamento de Bienestar del Congreso Nacional, reducirlos a escritura p&#xFA;blica y publicar un extracto de los mismos en el Diario Oficial, las que est&#xE1;n establecidas en los incisos primero y tercero del presente art&#xED;culo, en lugar de la Comisi&#xF3;n y de las autoridades que en ellas se indican.<br>&nbsp; &nbsp; En uso de estas facultades, el Secretario del Senado procedi&#xF3; a dictar los referidos estatutos, por resoluci&#xF3;n N&#xB0; 369 de 26 de diciembre de 1977; a reducirlos a escritura p&#xFA;blica de fecha 27 de diciembre de 1977 otorgada ante el notario de Santiago Arturo Carvajal Escobar; y publicar su extracto en el Diario Oficial de 29 de diciembre de 1977, secci&#xF3;n &quot;Escrituras Sociales&quot; p&#xE1;gina cuatro.</div></div>"
+        },
+        {
+          "part_id": 8284599,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- Ot&#xF3;rgase personalidad jur&#xED;dica al actual Departamento de Bienestar del Congreso Nacional, que en adelante se denominar&#xE1; &quot;Economato del Congreso Nacional&quot;, y que fue creado por acuerdos de las Comisiones de Polic&#xED;a Interior y Reglamento del Senado y de la C&#xE1;mara de Diputados en el a&#xF1;o 1955.</div><div class=\"p\">&nbsp; &nbsp; El Economato del Congreso Nacional continuar&#xE1; acogido a las disposiciones del art&#xED;culo 21 de la ley N&#xB0; 14.572 y del N&#xB0; 6 del art&#xED;culo 18 de la ley n&#xFA;mero 12.120 y sus modificaciones posteriores, y seguir&#xE1; gozando de las dem&#xE1;s franquicias y beneficios que las leyes otorgan a los organismos de esta naturaleza&quot;. </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=6806&amp;idParte=8257554&amp;idVersion=1977-12-15\">DL 2063, INTERIOR<br>Art. 5<br>D.O. 15.12.1977</a></span>&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- DEROGADO. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 6806,
+      "fecha": "1977-12-15"
+    }
+  }
+]

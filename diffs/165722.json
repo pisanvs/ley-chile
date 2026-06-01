@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-06-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8643068,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 348, DE 1985 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 348, DE 1985 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

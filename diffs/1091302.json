@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2016-06-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-12-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9707036,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Primero: Del&#xE9;gase en los Directores Regionales del Servicio Nacional de Pesca y Acuicultura, o en quien los subrogue, la facultad de firmar &quot;por orden del Director Nacional de Pesca y Acuicultura&quot;, las resoluciones que rechacen y aquellas que acogen total o parcialmente las solicitudes de inscripci&#xF3;n en el Registro Pesquero Artesanal, y las solicitudes de modificaci&#xF3;n, renuncia, cancelaci&#xF3;n y desistimiento presentadas en las Direcciones Regionales del Servicio, en las categor&#xED;as de pescador artesanal propiamente tal, buzo mariscador, recolector de orilla, alguero o buzo apnea y armador artesanal, con el objeto de desconcentrar, agilizar y hacer m&#xE1;s efectiva y eficiente la resoluci&#xF3;n de dichos tr&#xE1;mites.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Primero: Del&#xE9;gase en los Directores Regionales del Servicio Nacional de Pesca y Acuicultura, o en quien los subrogue, la facultad de firmar &quot;por orden del Director Nacional de Pesca y Acuicultura&quot;, las resoluciones que rechacen y aquellas que acogen total o parcialmente las solicitudes de inscripci&#xF3;n en el Registro Pesquero Artesanal, y las <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1126544&amp;idParte=9975912&amp;idVersion=2018-12-12\">Resoluci&#xF3;n 5552 EXENTA,<br>ECONOM&#xCD;A<br>N&#xB0; 1<br>D.O. 12.12.2018</a></span>solicitudes de modificaci&#xF3;n &#x2013;excepto aquellas que correspondan a solicitudes de modificaci&#xF3;n de titularidad de persona jur&#xED;dica a persona natural y viceversa&#x2013;, renuncia, cancelaci&#xF3;n y desistimiento presentadas en las Direcciones Regionales del Servicio, en las categor&#xED;as de pescador artesanal propiamente tal, buzo mariscador, recolector de orilla, alguero o buzo apnea y armador artesanal, con el objeto de desconcentrar, agilizar y hacer m&#xE1;s efectiva y eficiente la resoluci&#xF3;n de dichos tr&#xE1;mites.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1126544,
+      "fecha": "2018-12-12"
+    }
+  },
+  {
+    "fecha": "2020-01-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

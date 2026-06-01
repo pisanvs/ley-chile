@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-03-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-07-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8456581,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Conc&#xE9;dese, por gracia, a don Gonzalo Avelino Poblete Tapia, una pensi&#xF3;n equivalente a un ingreso m&#xED;nimo mensual, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos es aquel a que hace referencia el inciso 1&#xB0; del art&#xED;culo 5 de la Ley No. 18.647, que se emplea para fines no remuneracionales.</div><div class=\"p\">&nbsp; &nbsp;  Fac&#xFA;ltase a do&#xF1;a Blanca Margarita Tapia Encina, madre del menor para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Conc&#xE9;dese, por gracia, a don Gonzalo Avelino Poblete Tapia, una pensi&#xF3;n equivalente a un ingreso m&#xED;nimo mensual, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos es aquel a que hace referencia el inciso 1&#xB0; del art&#xED;culo 5 de la Ley No. 18.647, que se emplea para fines no remuneracionales.</div><div class=\"p\">&nbsp; &nbsp;  Fac&#xFA;ltase a do&#xF1;a Blanca Margarita Tapia Encina,<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> madre del menor para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 476, Interior, publicado el 04.07.2003, dej&#xF3; sin efecto la facultad de do&#xF1;a Blanca Margarita Tapia Encina para el cobro de la pensi&#xF3;n, la que es otorgada a do&#xF1;a Cesia Poblete Tapia, hermana del beneficiario.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

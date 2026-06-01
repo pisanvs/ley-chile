@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8913628,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- La construcci&#xF3;n, reconstrucci&#xF3;n, reparaci&#xF3;n, alteraci&#xF3;n, ampliaci&#xF3;n y demolici&#xF3;n de edificios y obras de urbanizaci&#xF3;n requerir&#xE1;n permiso de la Direcci&#xF3;n de Obras Municipales a petici&#xF3;n del propietario.</div><div class=\"p\">&nbsp; &nbsp;  Previo a otorgarse el permiso de una obra nueva, ampliaci&#xF3;n, obras de urbanizaci&#xF3;n u otra obra que signifique alteraci&#xF3;n de superficies aprobadas, o que precise el levantamiento topogr&#xE1;fico del terreno, sobre todo en caso de cesi&#xF3;n o expropiaci&#xF3;n, el interesado deber&#xE1; entregar a la Direcci&#xF3;n de Obras, Departamento de Catastro e Inspecci&#xF3;n, una copia en medios magn&#xE9;ticos del proyecto propuesto, acompa&#xF1;ada de las escrituras de propiedad respectivas, cuando exista cesi&#xF3;n o expropiaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Si existieran modificaciones, se deber&#xE1; entregar la copia rectificada definitiva de lo efectuado, salvo que expresamente se se&#xF1;ale que no existen modificaciones.</div><div class=\"p\">&nbsp; &nbsp;  El Director de Obras, en casos justificados, ante una nueva solicitud del interesado, podr&#xE1; eximir de todo o en parte lo indicado anteriormente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- La construcci&#xF3;n, reconstrucci&#xF3;n, reparaci&#xF3;n, alteraci&#xF3;n, ampliaci&#xF3;n y demolici&#xF3;n de edificios y obras de urbanizaci&#xF3;n requerir&#xE1;n permiso de la Direcci&#xF3;n de Obras Municipales a petici&#xF3;n del propietario.</div><div class=\"p\">&nbsp; &nbsp;  Previo a otorgarse el permiso de una obra nueva,<span class=\"n\" id=\"n_0\">ORZ 73,<br>M. DE PROVIDENCIA<br>N&#xBA; 1<br>D.O. 10.10.2008</span> ampliaci&#xF3;n, obras de urbanizaci&#xF3;n u otra obra que signifique alteraci&#xF3;n de superficies aprobadas, o que precise el levantamiento topogr&#xE1;fico del terreno, sobre todo en caso de cesi&#xF3;n o expropiaci&#xF3;n, el interesado podr&#xE1; entregar a la Direcci&#xF3;n de Obras, Departamento de Catastro e Inspecci&#xF3;n, una copia en medios magn&#xE9;ticos del proyecto propuesto, acompa&#xF1;ada de las escrituras de propiedad respectivas, cuando exista cesi&#xF3;n o expropiaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Si existieran modificaciones, se deber&#xE1; entregar la copia rectificada definitiva de lo efectuado, salvo que expresamente se se&#xF1;ale que no existen modificaciones.</div><div class=\"p\">&nbsp; &nbsp;  El Director de Obras, en casos justificados, ante una nueva solicitud del interesado, podr&#xE1; eximir de todo o en parte lo indicado anteriormente.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-09-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048299,
+          "old": "<div><div class=\"p\">DEJA SIN EFECTO DECRETO DE ECONOMIA N&#xBA; 73 DE 1987.- ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO A LA EMPRESA ELECTRICA DE AYSEN S.A. EDELAYSEN S.A.</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xFA;m. 223.- Santiago, 13 de Julio de 1990.- Visto: Art&#xED;culo 1&#xBA; y 3&#xBA; del D.L. 799 de 1974, modificado por el DFL. n&#xBA; 12-2.345 de 1979 del Ministerio del Interior; Circular N&#xBA; 9.277 de 1975 y Resoluciones N&#xBA;s. 600 de 1977 y 1050 de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica; Decreto de Econom&#xED;a N&#xBA; 73 de 1987; lo solicitado por la Empresa El&#xE9;ctrica de Aysen S.A., en su carta 765 de 1990, y antecedentes que se acompa&#xF1;an:</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, la Empresa El&#xE9;ctrica de Ays&#xE9;n S.A., organismo filial de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, ha solicitado a esta Secretar&#xED;a de Estado, dejar sin efecto el Decreto de Econom&#xED;a N&#xBA; 73 de 1987, en atenci&#xF3;n a que el veh&#xED;culo asignado y autorizado mediante el decreto citado, ha sido dado de baja.</div><div class=\"p\">&nbsp; &nbsp;  Que, la Empresa Edelays&#xE9;n S.A., ha adquirido un nuevo veh&#xED;culo para el cual solicita autorizaci&#xF3;n para circular durante d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos, exento de la obligaci&#xF3;n de usar el disco distintivo, atendida la responsabilidad y representatividad de la explotaci&#xF3;n del sistema el&#xE9;ctrico que el Gerente de la Empresa tiene en la X y XI Regiones del pa&#xED;s,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DEJA SIN EFECTO DECRETO DE ECONOMIA N&#xBA; 73 DE 1987.- ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO A LA EMPRESA ELECTRICA DE AYSEN S.A. EDELAYSEN S.A.</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xFA;m. 223.- Santiago, 13 de Julio de 1990.- Visto: Art&#xED;culo 1&#xBA; y 3&#xBA; del D.L. 799 de 1974, modificado por el DFL. n&#xBA; 12-2.345 de 1979 del Ministerio del Interior; Circular N&#xBA; 9.277 de 1975 y Resoluciones N&#xBA;s. 600 de 1977 y 1050 de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica; Decreto de Econom&#xED;a N&#xBA; 73 de 1987; lo solicitado por la Empresa El&#xE9;ctrica de Aysen S.A., en su carta 765 de 1990, y antecedentes que se acompa&#xF1;an:</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, la Empresa El&#xE9;ctrica de Ays&#xE9;n S.A., organismo filial de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, ha solicitado a esta Secretar&#xED;a de Estado, dejar sin efecto el Decreto de Econom&#xED;a N&#xBA; 73 de 1987, en atenci&#xF3;n a que el veh&#xED;culo asignado y autorizado mediante el decreto citado, ha sido dado de baja.</div><div class=\"p\">&nbsp; &nbsp;  Que, la Empresa Edelays&#xE9;n S.A., ha adquirido un nuevo veh&#xED;culo para el cual solicita autorizaci&#xF3;n para circular durante d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos, exento de la obligaci&#xF3;n de usar el disco distintivo, atendida la responsabilidad y representatividad de la explotaci&#xF3;n del sistema el&#xE9;ctrico que el Gerente de la Empresa tiene en la X y XI Regiones del pa&#xED;s,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

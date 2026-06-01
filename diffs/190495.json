@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-10-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-12-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8199936,
+          "old": "<div><div class=\"p\">ESTABLECE NUEVOS DERECHOS MUNICIPALES PARA EL OTORGAMIENTO DE PERMISOS PARA LA INSTALACION DE PROPAGANDA O PUBLICIDAD EN PROPIEDAD PRIVADA</div><br><div class=\"p\">&nbsp; &nbsp;  Secci&#xF3;n 1&#xAA; N&#xFA;m. 2.761.- Las Condes, 9 de octubre de 2001.- Vistos y teniendo presente: el decreto alcaldicio Secci&#xF3;n 1&#xAA; N&#xBA; 86 de 15 de Enero de 2001, que aprob&#xF3; la Ordenanza Local para el Otorgamiento de Permisos para la Instalaci&#xF3;n de Propaganda o Publicidad en Propiedad Privada en la Comuna de Las Condes y sus modificatorios, decreto alcaldicio Secci&#xF3;n 1&#xAA; N&#xBA; 1.605 de 13 de junio de 2001 y decreto alcaldicio Secci&#xF3;n 1&#xAA; N&#xBA; 2.760 de 9 de octubre de 2001; el decreto alcaldicio N&#xBA; 774 de 13 de marzo de 2001, que fij&#xF3; el texto refundido de la Ordenanza Local Sobre Derechos Municipales de la Municipalidad de Las Condes; la necesidad de establecer nuevos derechos para la propaganda o publicidad, acorde con las nuevas formas publicitarias introducidas en la &#xFA;ltima modificaci&#xF3;n de la Ordenanza Local para el Otorgamiento de Permisos para la Instalaci&#xF3;n de Propaganda o Publicidad en Propiedad Privada en la Comuna de Las Condes; acuerdo N&#xBA; 76/2001 adoptado en la 406&#xB0; sesi&#xF3;n ordinaria del Concejo Municipal, y en uso de las facultades que me confieren los art&#xED;culos 56 y 63 del D.F.L. N&#xBA; 2/19.602 de 1999 del Ministerio del Interior, que fija el texto refundido de la ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE NUEVOS DERECHOS MUNICIPALES PARA EL OTORGAMIENTO DE PERMISOS PARA LA INSTALACION DE PROPAGANDA O PUBLICIDAD EN PROPIEDAD PRIVADA</div><br><div class=\"p\">&nbsp; &nbsp;  Secci&#xF3;n 1&#xAA; N&#xFA;m. 2.761.- Las Condes, 9 de octubre de 2001.- Vistos y teniendo presente: el decreto alcaldicio Secci&#xF3;n 1&#xAA; N&#xBA; 86 de 15 de Enero de 2001, que aprob&#xF3; la Ordenanza Local para el Otorgamiento de Permisos para la Instalaci&#xF3;n de Propaganda o Publicidad en Propiedad Privada en la Comuna de Las Condes y sus modificatorios, decreto alcaldicio Secci&#xF3;n 1&#xAA; N&#xBA; 1.605 de 13 de junio de 2001 y decreto alcaldicio Secci&#xF3;n 1&#xAA; N&#xBA; 2.760 de 9 de octubre de 2001; el decreto alcaldicio N&#xBA; 774 de 13 de marzo de 2001, que fij&#xF3; el texto refundido de la Ordenanza Local Sobre Derechos Municipales de la Municipalidad de Las Condes; la necesidad de establecer nuevos derechos para la propaganda o publicidad, acorde con las nuevas formas publicitarias introducidas en la &#xFA;ltima modificaci&#xF3;n de la Ordenanza Local para el Otorgamiento de Permisos para la Instalaci&#xF3;n de Propaganda o Publicidad en Propiedad Privada en la Comuna de Las Condes; acuerdo N&#xBA; 76/2001 adoptado en la 406&#xB0; sesi&#xF3;n ordinaria del Concejo Municipal, y en uso de las facultades que me confieren los art&#xED;culos 56 y 63 del D.F.L. N&#xBA; 2/19.602 de 1999 del Ministerio del Interior, que fija el texto refundido de la ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

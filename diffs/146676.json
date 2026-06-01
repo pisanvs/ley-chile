@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-11-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-12-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6201908,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;2.589, de 24 de septiembre de 1999, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y del DFL MOP N&#xBA;206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA;17-A para la obra &apos;&apos;Ruta 5 Tramo: Talca - Chill&#xE1;n. Intersecci&#xF3;n Desnivelada Acceso a Bullileo&apos;&apos;, S&#xE9;ptima Regi&#xF3;n, que figura a nombre de Benavente Opaza Erasmo, rol de aval&#xFA;o 213-3, comuna de Parral, superficie 4.693 m2. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Astrid Irene Molgaard Contreras, Fernando Pinochet de la Barra y Juan Eduardo Salazar Le&#xF3;n, fij&#xF3; con fecha 10 de mayo de 1999, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $14.079.000.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA;2.186, de 1978.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA;2.589, de 24 de septiembre de 1999, y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA;850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA;15.840 y del DFL MOP N&#xBA;206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA;17-A para la obra &apos;&apos;Ruta 5 Tramo: Talca - Chill&#xE1;n. Intersecci&#xF3;n Desnivelada Acceso a Bullileo&apos;&apos;, S&#xE9;ptima Regi&#xF3;n, que figura a nombre de Benavente Opazo Erasmo,<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 01.12.1999</span> rol de aval&#xFA;o 213-3, comuna de Parral, superficie 4.693 m2. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Astrid Irene Molgaard Contreras, Fernando Pinochet de la Barra y Juan Eduardo Salazar Le&#xF3;n, fij&#xF3; con fecha 10 de mayo de 1999, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $14.079.000.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA;2.186, de 1978.- </div></div>"
+        }
+      ]
+    }
+  }
+]

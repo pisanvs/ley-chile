@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-05-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-04-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7268384,
+          "old": "<div><div class=\"p\">APRUEBA REQUISITOS MINIMOS DE SEGURIDAD PARA LA INSTALACION DE CILINDROS DE GAS LICUADO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 54.- Santiago, 30 de Enero de 1987.- Visto: El oficio No. 146, de 14.01.87, de la Superintendencia de Electricidad y Combustibles; la ley No. 18.410; el DFL No. 323, de 1931; el art&#xED;culo 2&#xB0; de la ley No. 16.391; el decreto ley No. 1305, de 1976; el DFL del Ministerio de Vivienda y Urbanismo No. 458, de 1975; Ley General de Urbanismo y Construcciones; y la facultad que me concede el art&#xED;culo 32&#xB0; No. 8 de la Constituci&#xF3;n de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REQUISITOS MINIMOS DE SEGURIDAD PARA LA INSTALACION DE CILINDROS DE GAS LICUADO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 54.- Santiago, 30 de Enero de 1987.- Visto: El oficio No. 146, de 14.01.87, de la Superintendencia de Electricidad y Combustibles; la ley No. 18.410; el DFL No. 323, de 1931; el art&#xED;culo 2&#xB0; de la ley No. 16.391; el decreto ley No. 1305, de 1976; el DFL del Ministerio de Vivienda y Urbanismo No. 458, de 1975; Ley General de Urbanismo y Construcciones; y la facultad que me concede el art&#xED;culo 32&#xB0; No. 8 de la Constituci&#xF3;n de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

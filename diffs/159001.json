@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-07-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7263718,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A CARMEN GLORIA MARIN FUENTES PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A CARMEN GLORIA MARIN FUENTES PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

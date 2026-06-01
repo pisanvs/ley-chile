@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1967-08-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-07-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8872006,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xB0;.- Establ&#xE9;cese un impuesto de tres escudos (E&#xB0; 3,00) por cada entrada a la Sala de Juego del Casino Municipal de Vi&#xF1;a del Mar y tarjeta de acceso emitida para la misma Sala.&nbsp; Establ&#xE9;cese, asimismo, un impuesto de cincuenta cent&#xE9;simos de escudo (E&#xB0; 0,50) por cada entrada a las carreras de caballos realizadas en el Valpara&#xED;so Sporting Club S.A. de esa misma ciudad, con el fin de atender con el producto de dichos tributos, sin perjuicio de lo dispuesto en el art&#xED;culo 3&#xB0;, a la ejecuci&#xF3;n de obras de alcantarillado, abovedamiento de quebradas, muros de contenci&#xF3;n, v&#xED;as de acceso y otras similares de urbanizaci&#xF3;n, en beneficio de las poblaciones de las provincias de Valpara&#xED;so y de Aconcagua.</div><div class=\"p\">&nbsp; &nbsp;  El rendimiento de los impuestos establecidos en el inciso anterior ser&#xE1; distribuido en un 85% para la provincia de Valpara&#xED;so y un 15% para la provincia de Aconcagua.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- DEROGADO<span class=\"n\" id=\"n_0\">DL 567, HACIENDA<br>Art. 1&#xBA;<br>D.O. 22.07.1974</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

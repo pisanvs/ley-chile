@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-07-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-11-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6179455,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: F&#xED;jase el siguiente horario de funcionamiento a los dep&#xF3;sitos de bebidas alcoh&#xF3;licas, negocios de expendio de cervezas o de sidras de frutas, para ser consumidas fuera del establecimiento, y supermercados de bebidas alcoh&#xF3;licas:</div><br><div class=\"p\">Domingo a jueves&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  de 9:00 a 24:00 horas.</div><div class=\"p\">Viernes, s&#xE1;bado y&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  de 9:00 a 01:00 horas del d&#xED;a</div><div class=\"p\">v&#xED;spera de d&#xED;a festivo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  siguiente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: F&#xED;jase el siguiente horario de funcionamiento a los dep&#xF3;sitos de bebidas alcoh&#xF3;licas, negocios de expendio de cervezas o de sidras de frutas, para ser consumidas fuera del establecimiento, y supermercados de bebidas alcoh&#xF3;licas:</div><div class=\"p\">Domingo a jueves&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  de 9:00 a 01:00 horas<span class=\"n\" id=\"n_0\">ORZ 2,<br>M. SAN JOAQUIN<br>D.O. 12.11.1999</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  del d&#xED;a siguiente</div><div class=\"p\">Viernes, s&#xE1;bado y&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  de 9:00 a 03:00 horas</div><div class=\"p\">v&#xED;spera de d&#xED;a festivo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  del d&#xED;a&nbsp; siguiente.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

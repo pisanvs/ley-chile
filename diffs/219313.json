@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-06-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6455569,
+          "old": "<div><div class=\"p\">DEJA SIN EFECTO DECRETO N&#xBA; 122, DE 2000 Y MODIFICA DECRETO N&#xBA; 111, DE 1997, EN LA PARTE QUE INDICA</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 723 exento.- Santiago, 5 de Noviembre de 2003.- Vistos: Art&#xED;culos N&#xBA;s. 1&#xBA;, 2&#xBA;, 3&#xBA; y 6&#xBA; del D.L.</div><div class=\"p\">N&#xBA; 799, de 1974, y sus modificaciones; decreto N&#xBA; 19 de 2001, de la Secretar&#xED;a General de la Presidencia; circular N&#xBA; 35.593, de 1995 y resoluci&#xF3;n N&#xBA; 520, de 1996, N&#xBA; 117 de 2001 y N&#xBA; 470, de 2003, todas de la Contralor&#xED;a General de la Rep&#xFA;blica; circular N&#xBA; 26, de 2003, del Ministerio del Interior y Hacienda; decretos N&#xBA;111, de 1997, y N&#xBA; 122, de 2000, ambos de este Ministerio, y Oficio N&#xBA; 12.359, de 2003, del Servicio Nacional del Consumidor, que se acompa&#xF1;an,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, por decreto exento N&#xBA; 111, de 1997, de este Ministerio, se asign&#xF3; para uso privativo del Director Nacional del Servicio Nacional del Consumidor el veh&#xED;culo autom&#xF3;vil Subaru, a&#xF1;o 1997, placa &#xFA;nica RD 1176-5, autoriz&#xE1;ndolo para circular en d&#xED;as s&#xE1;bado, domingo y festivos, exento del uso del disco fiscal distintivo, sin restricci&#xF3;n de horarios y adem&#xE1;s para ser estacionado en el domicilio particular del Director Nacional de ese Servicio.</div><div class=\"p\">&nbsp; &nbsp;  Que, por decreto exento N&#xBA; 122, de 2000, se solicit&#xF3; la modificaci&#xF3;n en la parte relacionada con el domicilio particular de estacionamiento del autom&#xF3;vil citado en el primer considerando.</div><div class=\"p\">Que, por lo anterior expuesto, se solicita se deje sin efecto el decreto exento N&#xBA; 122, de 2000, y modificar el decreto exento N&#xBA; 111, de 1997, en la parte correspondiente del domicilio particular del Director Nacional del Servicio Nacional del Consumidor, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DEJA SIN EFECTO DECRETO N&#xBA; 122, DE 2000 Y MODIFICA DECRETO N&#xBA; 111, DE 1997, EN LA PARTE QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 723 exento.- Santiago, 5 de Noviembre de 2003.- Vistos: Art&#xED;culos N&#xBA;s. 1&#xBA;, 2&#xBA;, 3&#xBA; y 6&#xBA; del D.L.</div><div class=\"p\">N&#xBA; 799, de 1974, y sus modificaciones; decreto N&#xBA; 19 de 2001, de la Secretar&#xED;a General de la Presidencia; circular N&#xBA; 35.593, de 1995 y resoluci&#xF3;n N&#xBA; 520, de 1996, N&#xBA; 117 de 2001 y N&#xBA; 470, de 2003, todas de la Contralor&#xED;a General de la Rep&#xFA;blica; circular N&#xBA; 26, de 2003, del Ministerio del Interior y Hacienda; decretos N&#xBA;111, de 1997, y N&#xBA; 122, de 2000, ambos de este Ministerio, y Oficio N&#xBA; 12.359, de 2003, del Servicio Nacional del Consumidor, que se acompa&#xF1;an,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, por decreto exento N&#xBA; 111, de 1997, de este Ministerio, se asign&#xF3; para uso privativo del Director Nacional del Servicio Nacional del Consumidor el veh&#xED;culo autom&#xF3;vil Subaru, a&#xF1;o 1997, placa &#xFA;nica RD 1176-5, autoriz&#xE1;ndolo para circular en d&#xED;as s&#xE1;bado, domingo y festivos, exento del uso del disco fiscal distintivo, sin restricci&#xF3;n de horarios y adem&#xE1;s para ser estacionado en el domicilio particular del Director Nacional de ese Servicio.</div><div class=\"p\">&nbsp; &nbsp;  Que, por decreto exento N&#xBA; 122, de 2000, se solicit&#xF3; la modificaci&#xF3;n en la parte relacionada con el domicilio particular de estacionamiento del autom&#xF3;vil citado en el primer considerando.</div><div class=\"p\">&nbsp; &nbsp;  Que, por lo anterior expuesto, se solicita se deje sin efecto el decreto exento N&#xBA; 122, de 2000, y modificar el decreto exento N&#xBA; 111, de 1997, en la parte correspondiente del domicilio particular del Director Nacional del Servicio Nacional del Consumidor, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

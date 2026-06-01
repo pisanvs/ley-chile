@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "1992-07-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-12-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949762,
+          "old": "<div><div class=\"p\">Art&#xED;culo 2&#xBA; : Decl&#xE1;ranse Monumentos Hist&#xF3;ricos los inmuebles que se se&#xF1;alan de la ciudad de Puerto Varas:</div><div class=\"p\">1. Iglesia Parroquial del Sagrado Coraz&#xF3;n, ubicada en Mar&#xED;a Brumm No.499, sector segunda terraza calle San Francisco.</div><div class=\"p\">2. Templo Luterano, costanera con Vicente P&#xE9;rez Rosales s/no, sector Puerto Chico.</div><div class=\"p\">3. Casa Kuschel, calle Klenner No 299 esquina Turismo, sector estaci&#xF3;n.</div><div class=\"p\">4. Casa Angulo, Miraflores No 96 esquina Nuestra Se&#xF1;ora del Carmen, sector Arturo Prat.</div><div class=\"p\">5. Casona Alemana, Nuestra Se&#xF1;ora del Carmen No 788 esquina Miraflores, sector Arturo Prat.</div><div class=\"p\">6. Casa Maldonado, Quintanilla No 852, sector Arturo Prat 7. Casa Opitz. Terrapl&#xE9;n No 861.</div><div class=\"p\">8. Casa Yunge, San Ignacio No 711, esquina San Javier, sector colegios.</div><div class=\"p\">9. Casa Gotschlich, Hospital No 701-705 esquina San Javier, sector Hospital.</div><div class=\"p\">10. Casa Raddatz, Costanera Vicente P&#xE9;rez Rosales No 01305 esquina Eleuterio Ram&#xED;rez No 14, sector Costanera Alerce. </div></div>",
+          "new": "<div><br><div class=\"p\">Art&#xED;culo 2&#xBA; : Decl&#xE1;ranse Monumentos Hist&#xF3;ricos los inmuebles que se se&#xF1;alan de la ciudad de Puerto Varas:</div><div class=\"p\">1. Iglesia Parroquial del Sagrado Coraz&#xF3;n, ubicada en Mar&#xED;a Brumm No.499, sector segunda terraza calle San Francisco.</div><div class=\"p\">2. Templo Luterano, costanera con Vicente P&#xE9;rez Rosales s/no, sector Puerto Chico.</div><div class=\"p\">3. Casa Kuschel, calle Klenner No 299 esquina Turismo, sector estaci&#xF3;n.</div><div class=\"p\">4. Casa Angulo, Miraflores No 96 esquina Nuestra Se&#xF1;ora del Carmen, sector Arturo Prat.</div><div class=\"p\">5. Casona Alemana, Nuestra Se&#xF1;ora del Carmen No 788 esquina Miraflores, sector Arturo Prat.</div><div class=\"p\">6. Casa Maldonado, Quintanilla No 852, sector Arturo Prat 7. DEROGADO<span class=\"n\" id=\"n_0\">DTO 3131 EXENTO,<br>EDUCACION<br>Art. &#xFA;nico<br>D.O. 10.12.2008</span></div><div class=\"p\"> 8. Casa Yunge, San Ignacio No 711, esquina San Javier, sector colegios.</div><div class=\"p\">9. Casa Gotschlich, Hospital No 701-705 esquina San Javier, sector Hospital.</div><div class=\"p\">10. Casa Raddatz, Costanera Vicente P&#xE9;rez Rosales No 01305 esquina Eleuterio Ram&#xED;rez No 14, sector Costanera Alerce.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-11-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949761,
+          "old": "<div><div class=\"p\">Art&#xED;culo 1&#xBA;: Decl&#xE1;rase Zona T&#xED;pica el sector que se indica de la ciudad de Puerto Varas, cuyos l&#xED;mites son: Norte: L&#xED;nea quebrada desde punto distante a 48 mts. aproximadamente del eje calle Machwual y 50 mts. eje calle San Jos&#xE9;, en una longitud aproximada de 160 mts. Baja en l&#xED;nea recta hasta borde norte calle San Jos&#xE9; en 40 mts., y contin&#xFA;a al oriente por el borde norte de la calle San Jos&#xE9; en l&#xED;nea quebrada aproximadamente 560 mts.</div><div class=\"p\">Oriente: L&#xED;nea quebrada desde extremo oriente del l&#xED;mite norte, distante 35 mts. del eje de calle San Bernardo, hacia el Sur en una longitud aproximada de 150 mts. Poniente: L&#xED;nea recta desde extremo poniente del l&#xED;mite norte, distante a 48 mts. al poniente del eje calle Machwual, hacia el Sur, en una longitud aproximada de 120 mts.</div><div class=\"p\">Sur: L&#xED;nea recta desde l&#xED;mite poniente hasta intersecci&#xF3;n de calles San Javier y l&#xED;nea vieja en una longitud de 190 mts. aproximadamente, siguiendo por borde sur de calle San Javier en l&#xED;nea recta en 100 mts. aproximadamente continuando por borde poniente de calle Dr. Otto Bader en toda su longitud, 120 mts. aproximadamente y luego hacia el Oriente en l&#xED;nea recta 140 mts. aproximadamente hasta borde poniente calle San Ignacio. Baja al Sur en l&#xED;nea recta en una extensi&#xF3;n de 130 mts. Continuando en l&#xED;nea recta, por borde sur calle Mar&#xED;a Brumm hasta borde oriente calle Pur&#xED;sima, subiendo en l&#xED;nea recta 240 mts. aproximadamente y cerrando en l&#xED;nea quebrada hasta el l&#xED;mite oriente en 230 mts. aproximadamente.</div><br></div>",
+          "new": "<div><div class=\"p\">Art&#xED;culo 1&#xBA;: Decl&#xE1;rase Zona T&#xED;pica el sector que se indica de la ciudad de Puerto Varas, cuyos l&#xED;mites son:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1069899&amp;idParte=9528848&amp;idVersion=2014-11-18\">Decreto 419, EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0;s, 1,2,3<br>D.O. 18.11.2014</a></span></div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/44940.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea del pol&#xED;gono tiene una superficie aproximada de 212.962,78 m2 seg&#xFA;n se delimita por el pol&#xED;gono 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-37-38-1 del plano adjunto, que forma parte del presente decreto.</div><br><br></div>"
+        },
+        {
+          "part_id": 8949762,
+          "old": "<div><br><div class=\"p\">Art&#xED;culo 2&#xBA; : Decl&#xE1;ranse Monumentos Hist&#xF3;ricos los inmuebles que se se&#xF1;alan de la ciudad de Puerto Varas:</div><div class=\"p\">1. Iglesia Parroquial del Sagrado Coraz&#xF3;n, ubicada en Mar&#xED;a Brumm No.499, sector segunda terraza calle San Francisco.</div><div class=\"p\">2. Templo Luterano, costanera con Vicente P&#xE9;rez Rosales s/no, sector Puerto Chico.</div><div class=\"p\">3. Casa Kuschel, calle Klenner No 299 esquina Turismo, sector estaci&#xF3;n.</div><div class=\"p\">4. Casa Angulo, Miraflores No 96 esquina Nuestra Se&#xF1;ora del Carmen, sector Arturo Prat.</div><div class=\"p\">5. Casona Alemana, Nuestra Se&#xF1;ora del Carmen No 788 esquina Miraflores, sector Arturo Prat.</div><div class=\"p\">6. Casa Maldonado, Quintanilla No 852, sector Arturo Prat 7. DEROGADO<span class=\"n\" id=\"n_0\">DTO 3131 EXENTO,<br>EDUCACION<br>Art. &#xFA;nico<br>D.O. 10.12.2008</span></div><div class=\"p\"> 8. Casa Yunge, San Ignacio No 711, esquina San Javier, sector colegios.</div><div class=\"p\">9. Casa Gotschlich, Hospital No 701-705 esquina San Javier, sector Hospital.</div><div class=\"p\">10. Casa Raddatz, Costanera Vicente P&#xE9;rez Rosales No 01305 esquina Eleuterio Ram&#xED;rez No 14, sector Costanera Alerce.</div><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">Art&#xED;culo 2&#xBA; : Decl&#xE1;ranse Monumentos Hist&#xF3;ricos los inmuebles que se se&#xF1;alan de la ciudad de Puerto Varas:</div><div class=\"p\">1. Iglesia Parroquial del Sagrado Coraz&#xF3;n, ubicada en Mar&#xED;a Brumm No.499, sector segunda terraza calle San Francisco.</div><div class=\"p\">2. Templo Luterano, costanera con Vicente P&#xE9;rez Rosales s/no, sector Puerto Chico.</div><div class=\"p\">3. Casa Kuschel, calle Klenner No 299 esquina Turismo, sector estaci&#xF3;n.</div><div class=\"p\">4. Casa Angulo, Miraflores No 96 esquina Nuestra Se&#xF1;ora del Carmen, sector Arturo Prat.</div><div class=\"p\">5. Casona Alemana, Nuestra Se&#xF1;ora del Carmen No 788 esquina Miraflores, sector Arturo Prat.</div><div class=\"p\">6. Casa Maldonado, Quintanilla No 852, sector Arturo Prat 7. DEROGADO<span class=\"n\" id=\"n_1\">DTO 3131 EXENTO,<br>EDUCACION<br>Art. &#xFA;nico<br>D.O. 10.12.2008</span></div><div class=\"p\"> 8. Casa Yunge, San Ignacio No 711, esquina San Javier, sector colegios.</div><div class=\"p\">9. Casa Gotschlich, Hospital No 701-705 esquina San Javier, sector Hospital.</div><div class=\"p\">10. Casa Raddatz, Costanera Vicente P&#xE9;rez Rosales No 01305 esquina Eleuterio Ram&#xED;rez No 14, sector Costanera Alerce.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1069899,
+      "fecha": "2014-11-18"
+    }
+  }
+]

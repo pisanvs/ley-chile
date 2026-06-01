@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-06-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-06-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6571917,
+          "old": "<div><div class=\"p\">REVOCA CALIDAD DE AGENTE RETENEDOR DEL IVA </div></div>",
+          "new": "<div><br><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 09.06.2006</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

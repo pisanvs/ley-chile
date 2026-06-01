@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2006-11-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-11-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6588964,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase la extracci&#xF3;n, desde el territorio nacional, de la campana del crucero ligero Dresden para ser exhibida en el Museo Hist&#xF3;rico Militar de la ciudad de Dresde, Alemania, por el plazo de cinco a&#xF1;os, contado desde el mes de noviembre de 2006 hasta el mes de octubre de 2011.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase la extracci&#xF3;n, desde el territorio nacional, de la campana del crucero ligero Dresden para ser exhibida en el Museo Hist&#xF3;rico Militar de la ciudad de Dresde, Alemania, por el plazo<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de cinco a&#xF1;os, contado desde el mes de noviembre de 2006 hasta el mes de octubre de 2011.</div><br><div class=\"p\"> </div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico del Decreto 2156 Exento, Educaci&#xF3;n, publicado el 08.11.2011, ampl&#xED;a el plazo otorgado mediante la presente norma, desde octubre de 2011 hasta octubre de 2021.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-02-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6588964,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase la extracci&#xF3;n, desde el territorio nacional, de la campana del crucero ligero Dresden para ser exhibida en el Museo Hist&#xF3;rico Militar de la ciudad de Dresde, Alemania, por el plazo<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de cinco a&#xF1;os, contado desde el mes de noviembre de 2006 hasta el mes de octubre de 2011.</div><br><div class=\"p\"> </div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico del Decreto 2156 Exento, Educaci&#xF3;n, publicado el 08.11.2011, ampl&#xED;a el plazo otorgado mediante la presente norma, desde octubre de 2011 hasta octubre de 2021.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase la extracci&#xF3;n, desde el territorio nacional, de la campana del crucero ligero Dresden para ser exhibida en el Museo Hist&#xF3;rico Militar de la ciudad de Dresde, Alemania, por el plazo<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> de cinco a&#xF1;os, contado desde el mes de noviembre de 2006 hasta el mes de octubre de 2011.</div><br><div class=\"p\"> </div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico del Decreto 2156 Exento, Educaci&#xF3;n, publicado el 08.11.2011, ampl&#xED;a el plazo otorgado mediante la presente norma, desde octubre de 2011 hasta octubre de 2021.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico del Decreto 12 Exento, Culturas, publicado el 10.02.2022, que modifica el decreto exento N&#xBA; 2.156, de 2011, del Ministerio de Educaci&#xF3;n, a su vez ampl&#xED;a el plazo otorgado mediante la presente norma, hasta abril de 2022.</div></div>"
+        }
+      ]
+    }
+  }
+]

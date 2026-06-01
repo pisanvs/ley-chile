@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-04-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8342088,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA SOPROALMAR LIMITADA PARA INICIAR ACTIVIDADES. CADUCA RESOLUCION QUE INDICA (Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA SOPROALMAR LIMITADA PARA INICIAR ACTIVIDADES. CADUCA RESOLUCION QUE INDICA (Extracto)</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

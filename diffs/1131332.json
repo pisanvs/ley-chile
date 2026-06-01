@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-05-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-12-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10021751,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese como &#xE1;rea reglamentada para Lobesia botrana, en la Regi&#xF3;n de Coquimbo el pol&#xED;gono de 121 v&#xE9;rtices, determinado por las siguientes coordenadas UTM, se&#xF1;aladas a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/92231.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/92232.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2. El pol&#xED;gono que determina el &#xE1;rea reglamentada incorpora parcialmente la comuna de Canela.</div><div class=\"p\">&nbsp; &nbsp;  3. Apl&#xED;quense las medidas fitosanitarias, establecidas en la resoluci&#xF3;n exenta N&#xB0; 5.916, de 2016, de Director Nacional del SAG, que Declara Control Obligatorio de la Polilla del Racimo de la Vid, modificado por resoluci&#xF3;n exenta N&#xB0; 3.213, de fecha 11 de noviembre de 2017, en forma inmediata en el &#xE1;rea definida en la presente resoluci&#xF3;n y,</div><div class=\"p\">&nbsp; &nbsp;  4. El Servicio Agr&#xED;cola y Ganadero podr&#xE1; determinar un plan de trabajo con metas parciales para un determinado predio, fijando las medidas, la oportunidad y la eficiencia necesaria para lograr su completa ejecuci&#xF3;n. El plan de trabajo a cumplir estar&#xE1; contenido en un acta firmada por el inspector del SAG, la cual ser&#xE1; notificada al due&#xF1;o, arrendatario o tenedor del predio.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese como &#xE1;rea reglamentada para Lobesia botrana, en la Regi&#xF3;n de Coquimbo el pol&#xED;gono de 121 v&#xE9;rtices, determinado por las siguientes coordenadas UTM, se&#xF1;aladas a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/92231.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/92232.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2. El pol&#xED;gono que determina el &#xE1;rea reglamentada incorpora parcialmente la comuna de Canela.</div><div class=\"p\">&nbsp; &nbsp;  3. Apl&#xED;quense las medidas fitosanitarias, establecidas en la resoluci&#xF3;n exenta N&#xB0; 5.916, de 2016, de Director Nacional del SAG, que Declara Control Obligatorio de la Polilla del Racimo de la Vid, modificado por resoluci&#xF3;n exenta N&#xB0; 3.213, de fecha 11 de noviembre de 2017, en forma inmediata en el &#xE1;rea definida en la presente resoluci&#xF3;n y,</div><div class=\"p\">&nbsp; &nbsp;  4. El Servicio Agr&#xED;cola y Ganadero podr&#xE1; determinar un plan de trabajo con metas parciales para un determinado predio, fijando las medidas, la oportunidad y la eficiencia necesaria para lograr su completa ejecuci&#xF3;n. El plan de trabajo a cumplir estar&#xE1; contenido en un acta firmada por el inspector del SAG, la cual ser&#xE1; notificada al due&#xF1;o, arrendatario o tenedor del predio.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1982-05-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-09-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9048587,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- En el caso previsto en el art&#xED;culo<span class=\"n\" id=\"n_1\">AA S/N&#xB0;<br>TRIB.CONSTITUCIONAL<br>D.O.22.08.1997</span> 38 de la Ley N&#xBA; 17.997, se tendr&#xE1; por recibido el requerimiento en el momento en que se d&#xE9; cuenta de &#xE9;l al Tribunal y desde esa fecha comenzar&#xE1; a regir el plazo de diez d&#xED;as para resolverlo, sin perjuicio de la pr&#xF3;rroga establecida en el art&#xED;culo 82, inciso quinto, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica. Si el requerimiento fuere defectuoso o incompleto, el t&#xE9;rmino se&#xF1;alado se contar&#xE1; desde que se tengan por subsanadas las deficiencias o por completados los antecedentes, en conformidad a lo prescrito en el art&#xED;culo 41 de la misma ley. </div></div>"
+        },
+        {
+          "part_id": 9048588,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Para los efectos de lo establecido en<span class=\"n\" id=\"n_2\">AA S/N&#xB0;<br>TRIB.CONSTITUCIONAL<br>D.O.22.08.1997</span> los art&#xED;culos 46, inciso tercero, y 50, inciso segundo, de la Ley N&#xBA; 17.997, se tendr&#xE1; por recibido el requerimiento en el momento en que se d&#xE9; cuenta del mismo al Tribunal y desde esa fecha comenzar&#xE1; a correr el plazo de 30 d&#xED;as a que dichas disposiciones legales se refieren. </div></div>"
+        },
+        {
+          "part_id": 9048589,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- En los casos contemplados en los<span class=\"n\" id=\"n_3\">AA S/N&#xB0;<br>TRIB.CONSTITUCIONAL<br>D.O.22.08.1997</span> art&#xED;culos 38, 46, 47, 48, 49 y 50 de la Ley N&#xBA; 17.997, el Tribunal determinar&#xE1; si concurren o no los requisitos para que los respectivos requerimientos sean admitidos a tramitaci&#xF3;n en el momento en que se d&#xE9; cuenta del reclamo presentado. Una vez prove&#xED;dos los requerimientos no podr&#xE1;n ser objeto de modificaciones.&quot; </div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

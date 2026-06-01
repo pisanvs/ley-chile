@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-09-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-10-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7300647,
+          "old": "<div><div class=\"p\">PROHIBE DESEMBARCAR DESPERDICIOS EN PUERTOS MARITIMOS </div><div class=\"p\">&nbsp; &nbsp;  (Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 9 de Septiembre de 1981.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.042.- Vistos: Lo dispuesto en el decreto ley N&#xB0; 3.557 de 29 de Diciembre de 1979, sobre Protecci&#xF3;n Agr&#xED;cola, publicado en el Diario Oficial de 9.2.81, la Res. N&#xB0; 350 de 10.2.81 publicada en el Diario Oficial de 24.2.81, y la Res. N&#xB0; 39 de 25.3.81, de la Direcci&#xF3;n Ejecutiva delega atribuciones en el Director de la Divisi&#xF3;n de Protecci&#xF3;n Agr&#xED;cola y,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que los desechos acumulados en barcos que arriban al pa&#xED;s, son un medio de diseminaci&#xF3;n de problemas fitosanitarios.</div><div class=\"p\">&nbsp; &nbsp;  - Que constituye responsabilidad del Servicio Agr&#xED;cola y Ganadero impedir el ingreso y dispersi&#xF3;n de plagas de los vegetales al territorio nacional.</div><div class=\"p\">&nbsp; &nbsp;  - Que para este prop&#xF3;sito el Servicio est&#xE1; facultado para establecer las regulaciones fitosanitarias que resguarden el patrimonio nacional.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">PROHIBE DESEMBARCAR DESPERDICIOS EN PUERTOS MARITIMOS </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 9 de Septiembre de 1981.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.042.- Vistos: Lo dispuesto en el decreto ley N&#xB0; 3.557 de 29 de Diciembre de 1979, sobre Protecci&#xF3;n Agr&#xED;cola, publicado en el Diario Oficial de 9.2.81, la Res. N&#xB0; 350 de 10.2.81 publicada en el Diario Oficial de 24.2.81, y la Res. N&#xB0; 39 de 25.3.81, de la Direcci&#xF3;n Ejecutiva delega atribuciones en el Director de la Divisi&#xF3;n de Protecci&#xF3;n Agr&#xED;cola y,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que los desechos acumulados en barcos que arriban al pa&#xED;s, son un medio de diseminaci&#xF3;n de problemas fitosanitarios.</div><div class=\"p\">&nbsp; &nbsp;  - Que constituye responsabilidad del Servicio Agr&#xED;cola y Ganadero impedir el ingreso y dispersi&#xF3;n de plagas de los vegetales al territorio nacional.</div><div class=\"p\">&nbsp; &nbsp;  - Que para este prop&#xF3;sito el Servicio est&#xE1; facultado para establecer las regulaciones fitosanitarias que resguarden el patrimonio nacional.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-12-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-07-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8526561,
+          "old": "<div><div class=\"p\">ESTABLECE CUOTA DE CAPTURA PARA EL RECURSO MERLUZA COMUN. DEROGA DECRETO QUE INDICA</div><br><div class=\"p\">N&#xFA;m. 441.- Santiago, 29 de Noviembre de 1990.- Visto: Lo informado por la Subsecretar&#xED;a de Pesca; al Art&#xED;culo 32 No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; lo dispuesto en el DFL No. 5, de 1983; el DS No. 237, de 1982, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; las leyes 18.892 y 10.336.</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">Que corresponde al Estado establecer medidas de administraci&#xF3;n tendientes a lograr una efectiva protecci&#xF3;n y un aprovechamiento integral de los recursos hidrobiol&#xF3;gicos. Que de acuerdo a los antecedentes t&#xE9;cnicos disponibles resulta necesario regular la tasa de explotaci&#xF3;n del recurso merluza com&#xFA;n (Merluccius gayi) en la pesquer&#xED;a centro - sur (IV a X Regi&#xF3;n).</div><div class=\"p\">Que para mantener un nivel de eficiencia biol&#xF3;gica estable debe fijarse una cuota de captura para el recurso merluza com&#xFA;n (Merluccius gayi).</div><br><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE CUOTA DE CAPTURA PARA EL RECURSO MERLUZA COMUN. DEROGA DECRETO QUE INDICA</div><br><div class=\"p\">N&#xFA;m. 441.- Santiago, 29 de Noviembre de 1990.- Visto: Lo informado por la Subsecretar&#xED;a de Pesca; al Art&#xED;culo 32 No. 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; lo dispuesto en el DFL No. 5, de 1983; el DS No. 237, de 1982, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; las leyes 18.892 y 10.336.</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">Que corresponde al Estado establecer medidas de administraci&#xF3;n tendientes a lograr una efectiva protecci&#xF3;n y un aprovechamiento integral de los recursos hidrobiol&#xF3;gicos. Que de acuerdo a los antecedentes t&#xE9;cnicos disponibles resulta necesario regular la tasa de explotaci&#xF3;n del recurso merluza com&#xFA;n (Merluccius gayi) en la pesquer&#xED;a centro - sur (IV a X Regi&#xF3;n).</div><div class=\"p\">Que para mantener un nivel de eficiencia biol&#xF3;gica estable debe fijarse una cuota de captura para el recurso merluza com&#xFA;n (Merluccius gayi).</div><br><div class=\"p\">Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

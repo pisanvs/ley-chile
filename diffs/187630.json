@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2001-07-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-08-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6342633,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14.- La informaci&#xF3;n contenida en la Solicitud y en los documentos anexos se entender&#xE1; confidencial y s&#xF3;lo ser&#xE1; empleada en la evaluaci&#xF3;n para autorizar la internaci&#xF3;n y su correspondiente introducci&#xF3;n al Medio Ambiente del Organismo Modificado importado o desarrollado en el pa&#xED;s.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1016323&amp;idParte=8966527&amp;idVersion=2010-08-17\">Resoluci&#xF3;n 4468 EXENTA, AGRICULTURA<br>D.O. 17.08.2010</a></span>&nbsp; &nbsp;  Articulo 14.- Derogado</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1016323,
+      "fecha": "2010-08-17"
+    }
+  },
+  {
+    "fecha": "2010-10-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6342633,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1016323&amp;idParte=8966527&amp;idVersion=2010-08-17\">Resoluci&#xF3;n 4468 EXENTA, AGRICULTURA<br>D.O. 17.08.2010</a></span>&nbsp; &nbsp;  Articulo 14.- Derogado</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1016323&amp;idParte=8966527&amp;idVersion=2010-08-17\">Resoluci&#xF3;n 4468 EXENTA, AGRICULTURA<br>D.O. 17.08.2010</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14.- La informaci&#xF3;n contenida en la solicitud y en los documentos anexos, s&#xF3;lo ser&#xE1; empleada en la evaluaci&#xF3;n para autorizar la internaci&#xF3;n y su correspondiente introducci&#xF3;n al Medio Ambiente del Organismo, modificado importado<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1018451&amp;idParte=9024262&amp;idVersion=2010-10-26\">Resoluci&#xF3;n 6229 EXENTA<br>AGRICULTURA<br>N&#xBA; 1<br>D.O. 26.10.2010</a></span> o desarrollado en el pa&#xED;s. El Servicio resguardar&#xE1; la informaci&#xF3;n se&#xF1;alada en este art&#xED;culo, seg&#xFA;n lo establecido en la legislaci&#xF3;n vigente.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1018451,
+      "fecha": "2010-10-26"
+    }
+  }
+]

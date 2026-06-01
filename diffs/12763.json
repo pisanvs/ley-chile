@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1987-07-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-08-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7145889,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo transitorio.- En los decretos supremos a que se refieren los art&#xED;culos 1&#xB0; y 3&#xB0; transitorio de la ley N&#xB0; 18.611, deber&#xE1; establecerse para cada regi&#xF3;n un n&#xFA;mero m&#xED;nimo de subsidios familiares otorgados con anterioridad al 1&#xB0; de julio de 1987, que deber&#xE1; revisarse mensualmente entre febrero y noviembre de cada a&#xF1;o conforme al art&#xED;culo 5&#xB0; transitorio de la citada ley y a las instrucciones que imparta la Superintendencia.</div><div class=\"p\">&nbsp; &nbsp; La Subsecretar&#xED;a de Desarrollo Regional y Administrativo deber&#xE1; informar a la Superintendencia y al Servicio de Seguro Social sobre la distribuci&#xF3;n a nivel comunal del n&#xFA;mero mensual de beneficios sujetos a la aludida revisi&#xF3;n. Esta &#xFA;ltima Instituci&#xF3;n deber&#xE1; proceder a individualizar a los beneficiarios respectivos, sin perjuicio de que los Alcaldes propongan modificaciones al efecto.</div><div class=\"p\">&nbsp; &nbsp; Los Alcaldes deber&#xE1;n resolver mensualmente el total de casos asignados a su Comuna conforme al inciso anterior e informar al respecto dentro del mismo mes al Servicio de Seguro Social, individualizando los subsidios que se mantuvieron y los que se extinguieron. El Alcalde que no cumpla &#xED;ntegramente el programa de revisi&#xF3;n establecido para un mes, s&#xF3;lo podr&#xE1; conceder subsidios en dicho mes a personas que habiendo sido revisado su beneficio conforme al programa indicado, re&#xFA;nen los requisitos para su mantenci&#xF3;n de acuerdo con las normas legales y reglamentarias que rigen la materia.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo transitorio.- En los decretos supremos a que se refieren los art&#xED;culos 1&#xB0; y 3&#xB0; transitorio de la ley N&#xB0; 18.611, deber&#xE1; establecerse para cada regi&#xF3;n un n&#xFA;mero m&#xED;nimo de subsidios familiares otorgados con anterioridad al 1&#xB0; de julio de 1987, que deber&#xE1; revisarse mensualmente entre febrero y noviembre de cada a&#xF1;o conforme al art&#xED;culo 5&#xB0; transitorio de la citada ley y a las instrucciones que imparta la Superintendencia.</div><div class=\"p\">&nbsp; &nbsp; La Subsecretar&#xED;a de Desarrollo Regional y Administrativo deber&#xE1; informar a la Superintendencia y al Servicio de Seguro Social sobre la distribuci&#xF3;n a nivel comunal del n&#xFA;mero mensual de beneficios sujetos a la aludida revisi&#xF3;n. Esta &#xFA;ltima Instituci&#xF3;n deber&#xE1; proceder a individualizar a los beneficiarios respectivos, sin perjuicio de que los Alcaldes propongan modificaciones al efecto.</div><div class=\"p\">&nbsp; &nbsp; Los Alcaldes deber&#xE1;n resolver mensualmente el total de casos asignados a su Comuna conforme al inciso anterior e informar al respecto dentro del mismo mes al Servicio de Seguro Social, individualizando los subsidios que se mantuvieron y los que se extinguieron.</div><div class=\"p\">&nbsp; &nbsp; Si al practicar la revisi&#xF3;n el beneficiario no fuere<span class=\"n\" id=\"n_0\">DTO 587, HACIENDA<br>ART UNICO N&#xB0;1 y 2<br>D.O.11.08.1997</span> habido&nbsp; y no fuere posible notificarlo personalmente para que proporcione los antecedentes relativos al beneficio, el Alcalde podr&#xE1; notificarlo por carta certificada o citarlo por escrito a trav&#xE9;s de la entidad pagadora del subsidio para que concurra a proporcionar dichos antecedentes. Si transcurridos 30 d&#xED;as desde practicada la notificaci&#xF3;n, el beneficiario no se presentare con los antecedentes requeridos, el Alcalde podr&#xE1; ordenar la suspensi&#xF3;n del pago del beneficio, conforme al art&#xED;culo 27 de este Reglamento. Lo anterior, es sin perjuicio de la facultad de extinguir el beneficio establecida en el art&#xED;culo 9&#xBA; de la Ley N&#xBA; 18.020 si dentro de los 3 meses calendario siguientes al requerimiento el beneficiario no proporcionare dichos antecedentes.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2007-09-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7145846,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA EL REGLAMENTO PARA LA APLICACION DE LAS LEYES N&#xB0;s. 18.020 Y 18.611, QUE REGULAN EL SUBSIDIO FAMILIAR</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 368.- Santiago, 4 de Mayo de 1987.- Visto: Lo dispuesto en las Leyes N&#xB0;s. 18.020 y 18.611 y la facultad contenida en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento para la aplicaci&#xF3;n de las Leyes Nos. 18.020 y 18.611:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA EL REGLAMENTO PARA LA APLICACION DE LAS LEYES N&#xB0;s. 18.020 Y 18.611, QUE REGULAN EL SUBSIDIO FAMILIAR</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 368.- Santiago, 4 de Mayo de 1987.- Visto: Lo dispuesto en las Leyes N&#xB0;s. 18.020 y 18.611 y la facultad contenida en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, </div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente reglamento para la aplicaci&#xF3;n de las Leyes Nos. 18.020 y 18.611:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

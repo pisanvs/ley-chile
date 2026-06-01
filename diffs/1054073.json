@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-09-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-09-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9373613,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Mediante decreto exento N&#xBA; 1.016, de 23 de agosto de 2013, el Ministerio de Bienes Nacionales otorg&#xF3; en concesi&#xF3;n onerosa directa contra proyecto a la Sociedad &quot;Inversiones y Servicios Sunedison Chile Limitada&quot;, RUT 76.168.904-5, los inmuebles fiscales ubicados en el Sector Llanos de Chulo, a 25 km. al Noreste de la ciudad de Copiap&#xF3;, comuna y provincia de Copiap&#xF3;, Regi&#xF3;n de Atacama, amparados por la inscripci&#xF3;n global a nombre del Fisco, que rola a fs. 527 vta. N&#xBA; 500, del Registro de Propiedad del Conservador de Bienes Ra&#xED;ces de Copiap&#xF3; del a&#xF1;o 1964: Lote A: Singularizado en el Plano N&#xBA; 03101-1193-C.R., con una superficie aproximada de 47,38 has. Lote B: Singularizado en el Plano 03101-1193-C.R., con una superficie aproximada de 70,22 has.</div><div class=\"p\">&nbsp; &nbsp;  La concesi&#xF3;n se otorga por un plazo de 30 a&#xF1;os, contado desde la fecha de suscripci&#xF3;n de la escritura p&#xFA;blica de concesi&#xF3;n, para ejecutar y desarrollar el proyecto de energ&#xED;a renovable no convencional denominado &quot;SolChile V&quot;, con una potencia instalada de al menos 50,07 MW (46,92 MWn), con sus obras espec&#xED;ficas. La renta anual de la concesi&#xF3;n del inmueble ser&#xE1; el equivalente en moneda nacional a UF 1.327,05.</div><div class=\"p\">&nbsp; &nbsp;  El contrato de concesi&#xF3;n deber&#xE1; suscribirse dentro del plazo de 30 d&#xED;as contado desde la fecha de publicaci&#xF3;n en el Diario Oficial del extracto del decreto de concesi&#xF3;n. El decreto con su texto &#xED;ntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Mediante decreto exento N&#xBA; 1.016, de 23 de agosto de 2013, el Ministerio de Bienes Nacionales otorg&#xF3; en concesi&#xF3;n onerosa directa contra proyecto a la Sociedad &quot;Inversiones y Servicios Sunedison Chile Limitada&quot;, RUT 76.168.904-5, <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> los inmuebles fiscales ubicados en el Sector Llanos de Chulo, a 25 km. al Noreste de la ciudad de Copiap&#xF3;, comuna y provincia de Copiap&#xF3;, Regi&#xF3;n de Atacama, amparados por la inscripci&#xF3;n global a nombre del Fisco, que rola a fs. 527 vta. N&#xBA; 500, del Registro de Propiedad del Conservador de Bienes Ra&#xED;ces de Copiap&#xF3; del a&#xF1;o 1964: Lote A: Singularizado en el Plano N&#xBA; 03101-1193-C.R., con una superficie aproximada de 47,38 has. Lote B: Singularizado en el Plano 03101-1193-C.R., con una superficie aproximada de 70,22 has.</div><div class=\"p\">&nbsp; &nbsp;  La concesi&#xF3;n se otorga por un plazo de 30 a&#xF1;os, contado desde la fecha de suscripci&#xF3;n de la escritura p&#xFA;blica de concesi&#xF3;n, para ejecutar y desarrollar el proyecto de energ&#xED;a renovable no convencional denominado &quot;SolChile V&quot;, con una potencia instalada de al menos 50,07 MW (46,92 MWn), con sus obras espec&#xED;ficas. La renta anual de la concesi&#xF3;n del inmueble ser&#xE1; el equivalente en moneda nacional a UF 1.327,05.</div><div class=\"p\">&nbsp; &nbsp;  El contrato de concesi&#xF3;n deber&#xE1; suscribirse dentro del plazo de 30 d&#xED;as contado desde la fecha de publicaci&#xF3;n en el Diario Oficial del extracto del decreto de concesi&#xF3;n. El decreto con su texto &#xED;ntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Mediante Aviso S/N, Bienes Nacionales, publicado el 14.09.2013, indica, que se omiti&#xF3; la inclusi&#xF3;n del Lote fusionado singularizado en el Plano N&#xBA; 03101-1194-C.R., enrolado en el Servicio de Impuestos Internos con el N&#xBA; 7145-9, con una superficie aproximada de 147,81 has. El contrato de concesi&#xF3;n deber&#xE1; suscribirse dentro del plazo de 30 d&#xED;as contado desde la fecha de la presente publicaci&#xF3;n en el Diario Oficial.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1974-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9161485,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;- Proh&#xED;bese la corta o aprovechamiento en cualquier forma de los &#xE1;rboles que se encuentran situados en los terrenos ubicados dentro de los siguientes l&#xED;mites:</div><br><div class=\"p\">&nbsp; &nbsp;  Norte, lugar La Leonera, l&#xED;nea recta imaginaria que lo une con el portazuelo Los Ba&#xF1;os de Los Nevados de Chillan, l&#xED;nea recta imaginaria que lo une con el Paso Treguiles, frontera limite con la Rep&#xFA;blica de Argentina.</div><div class=\"p\">&nbsp; &nbsp;  Este, frontera Chileno-Argentina hasta el Portazuelo Trapa Trapa.</div><div class=\"p\">&nbsp; &nbsp;  Sur; portazuelo Trapa Trapa, l&#xED;nea imaginaria que une las cumbres de los cerros Risquer&#xED;a y Pan de Az&#xFA;car.</div><div class=\"p\">&nbsp; &nbsp;  Oeste, Pan de Az&#xFA;car, l&#xED;nea imaginaria que une los cerros Pilque y Pante&#xF3;n; confluencias de los esteros Cholgu&#xE1;n y Las Mulas, recta hasta el cerro Caipo y el lugar La Leonera.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;- Proh&#xED;bese la corta o aprovechamiento en cualquier forma de los &#xE1;rboles que se encuentran situados en los terrenos ubicados dentro de los siguientes l&#xED;mites:</div><br><div class=\"p\">&nbsp; &nbsp;  Norte, Cerro Castro en la divisoria de aguas entre los r&#xED;os &#xD1;uble<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1030048&amp;idParte=9185397&amp;idVersion=1979-01-31\">Decreto 391, AGRICULTURA<br>Art. PRIMERO<br>D.O. 31.01.1979</a></span> y Perquilauqu&#xE9;n, siguiendo dicha divisoria entre la cuenca del &#xD1;uble y las del Perquilauqu&#xE9;n, Longav&#xED; y Guaiquivilo hasta el l&#xED;mite con la Rep&#xFA;blica Argentina.</div><div class=\"p\">&nbsp; &nbsp;  Este, frontera Chileno-Argentina hasta el Portazuelo Trapa Trapa.</div><div class=\"p\">&nbsp; &nbsp;  Sur; portazuelo Trapa Trapa, l&#xED;nea imaginaria que une las cumbres de los cerros Risquer&#xED;a y Pan de Az&#xFA;car.</div><div class=\"p\">&nbsp; &nbsp;  Oeste, Las l&#xED;neas rectas imaginarlas que unen los siguientes<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1030048&amp;idParte=9185397&amp;idVersion=1979-01-31\">Decreto 391, AGRICULTURA<br>Art. PRIMERO<br>D.O. 31.01.1979</a></span> puntos, Cerro Pan de Az&#xFA;car, Cerro Pilque, Cerro Pante&#xF3;n, confluencia de los esteros Cholgu&#xE1;n y Las Mulas, Cerro Caipo, Cerro Alto del Padre (cota 975 Carta Preliminar I.G.M. 36&#xB0;46&apos; lat. Sur 71&#xB0; 38&apos; long. Oeste). Cerro Las Minas y Cerro Castro en la divisoria de aguas entre los r&#xED;os &#xD1;uble y perquilauqu&#xE9;n.</div></div>"
+        },
+        {
+          "part_id": 9161486,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;- No obstante lo dispuesto en el art&#xED;culo anterior el Servicio Agr&#xED;cola y Ganadero previo informe de la Corporaci&#xF3;n Nacional Forestal podr&#xE1; autorizar la corta de &#xE1;rboles dentro de los l&#xED;mites fijados precedentemente, cuando dichas faenas tengan por objeto despejar terrenos para la construcci&#xF3;n o realizaci&#xF3;n de obras de beneficio p&#xFA;blico o la puesta en marcha de planes de manejo o mejoramiento de las mismas masas vegetales que se est&#xE1;n protegiendo. La autorizaci&#xF3;n se&#xF1;alar&#xE1; la forma y condiciones en que deber&#xE1; realizarse el aprovechamiento.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1030048&amp;idParte=9185398&amp;idVersion=1979-01-31\">Decreto 391, AGRICULTURA<br>Art. SEGUNDO<br>D.O. 31.01.1979</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;- No obstante lo dispuesto en el art&#xED;culo anterior, la Corporaci&#xF3;n Nacional Forestal podr&#xE1; autorizar la corta de &#xE1;rboles dentro de los l&#xED;mites fijados precedentemente, cuando dichas faenas tengan por objeto despejar terrenos para la construcci&#xF3;n o realizaci&#xF3;n de obras de beneficio p&#xFA;blico o la puesta en marcha de planes de manejo o mejoramiento de las mismas masas vegetales que se est&#xE1;n protegiendo. La autorizaci&#xF3;n se&#xF1;alar&#xE1; la forma y condiciones en que deber&#xE1; realizarse el aprovechamiento.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1030048,
+      "fecha": "1979-01-31"
+    }
+  }
+]

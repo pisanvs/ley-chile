@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-05-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-04-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8954132,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- As&#xED;gnase al se&#xF1;or Ernesto Sebasti&#xE1;n Evans Espi&#xF1;eira, Jefe de Departamento grado 4&#xBA; E.U.R., titular de la Secretar&#xED;a y Administraci&#xF3;n General del Ministerio del Interior, el autom&#xF3;vil marca Toyota, modelo Corolla AE101L-AEMOK, Sedan LEI, a&#xF1;o 1996, motor N&#xBA; 4AL131722, Inscripci&#xF3;n en el Registro de Veh&#xED;culos Motorizados N&#xBA; PG-1210-0, Placa fiscal PG-1210-0, de propiedad fiscal, para que lo use en forma permanente, en las labores propias de las funciones que cumple en esta Secretar&#xED;a de Estado y haga uso privativo de dicho veh&#xED;culo pudiendo, consecuencialmente, guardarlo en su domicilio particular.</div><div class=\"p\">&nbsp; &nbsp;  2.- El funcionario individualizado anteriormente deber&#xE1; rendir cauci&#xF3;n en la forma establecida en el Decreto Ley N&#xBA; 799, de 1974.</div><div class=\"p\">&nbsp; &nbsp;  3.- Autor&#xED;zase la circulaci&#xF3;n del veh&#xED;culo indicado en los d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin sujeci&#xF3;n a la jornada ordinaria de trabajo y sin el distintivo que se&#xF1;ala el art&#xED;culo 3&#xBA;, del Decreto Ley N&#xBA; 799, de 1974.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- As&#xED;gnase al se&#xF1;or Ernesto Sebasti&#xE1;n Evans<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Espi&#xF1;eira, Jefe de Departamento grado 4&#xBA; E.U.R., titular de la Secretar&#xED;a y Administraci&#xF3;n General del Ministerio del Interior, el autom&#xF3;vil marca Toyota, modelo Corolla AE101L-AEMOK, Sedan LEI, a&#xF1;o 1996, motor N&#xBA; 4AL131722, Inscripci&#xF3;n en el Registro de Veh&#xED;culos Motorizados N&#xBA; PG-1210-0, Placa fiscal PG-1210-0, de propiedad fiscal, para que lo use en forma permanente, en las labores propias de las funciones que cumple en esta Secretar&#xED;a de Estado y haga uso privativo de dicho veh&#xED;culo pudiendo, consecuencialmente, guardarlo en su domicilio particular.</div><div class=\"p\">&nbsp; &nbsp;  2.- El funcionario individualizado anteriormente deber&#xE1; rendir cauci&#xF3;n en la forma establecida en el Decreto Ley N&#xBA; 799, de 1974.</div><div class=\"p\">&nbsp; &nbsp;  3.- Autor&#xED;zase la circulaci&#xF3;n del veh&#xED;culo indicado en los d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin sujeci&#xF3;n a la jornada ordinaria de trabajo y sin el distintivo que se&#xF1;ala el art&#xED;culo 3&#xBA;, del Decreto Ley N&#xBA; 799, de 1974.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 461 exento, Interior, publicado el 25.04.1998 dej&#xF3; sin efecto la asignaci&#xF3;n del autom&#xF3;vil y lo asign&#xF3; a don Cristian Pe&#xF1;a Arenas<br></div></div>"
+        }
+      ]
+    }
+  }
+]

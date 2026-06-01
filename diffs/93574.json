@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-12-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6094686,
+          "old": "<div><div class=\"p\">FACULTA AL JEFE DE LA UNIDAD DE CONTROL DOCUMENTARIO PARA ENTREGAR LOS DOCUMENTOS QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">FACULTA AL JEFE DE LA UNIDAD DE CONTROL DOCUMENTARIO PARA ENTREGAR LOS DOCUMENTOS QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

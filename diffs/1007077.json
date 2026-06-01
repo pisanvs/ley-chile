@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-10-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-01-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8789662,
+          "old": "<div><br><div class=\"p\">NOMBRA INTEGRANTES QUE INDICA EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RA&#xCD;CES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCI&#xD3;N EN EL TERRITORIO DE LA ILUSTR&#xCD;SIMA CORTE DE APELACIONES DE SAN MIGUEL</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.047.- Santiago, 14 de septiembre de 2009.- Vistos: Lo dispuesto en el art&#xED;culo 121 del C&#xF3;digo Tributario; Res. N&#xBA; 172, de 28 de agosto de 2009; el oficio reservado DJU16.00 N&#xBA; 60, de 30 de julio de 2009, de la XVI Direcci&#xF3;n Regional Metropolitana Santiago Sur del Servicio de Impuestos Internos; el oficio N&#xBA; 1754-09, 30 de julio de 2009, de la Oficina de Pleno de la Ilustr&#xED;sima Corte de Apelaciones de San Miguel; acuerdo de pleno de 16 de marzo de 2009, del mismo Tribunal; el N&#xBA; 25 del numeral VI del art&#xED;culo primero del decreto supremo N&#xBA; 19, de 22 de enero de 2001, del Ministerio Secretar&#xED;a General de la Presidencia; la resoluci&#xF3;n N&#xBA; 1.600, de 30 de octubre 2008, que fija normas sobre exenci&#xF3;n del tr&#xE1;mite de toma de raz&#xF3;n, de la Contralor&#xED;a General de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que el nombramiento del Ministro Roberto Contreras Olivares, RUT N&#xBA; 7.079.886-7, como Presidente suplente en el Tribunal Especial de Alzada de los Bienes Ra&#xED;ces de la Primera y Segunda Serie, con jurisdicci&#xF3;n en el territorio de la Ilustr&#xED;sima Corte de Apelaciones de San Miguel, efectuado por decreto supremo N&#xBA; 640, de 15 de mayo de 2007, publicado en el Diario Oficial de 20 de junio del mismo a&#xF1;o, se encuentra actualmente vigente,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div></div>",
+          "new": "<div><br><div class=\"p\">NOMBRA INTEGRANTES QUE INDICA EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RA&#xCD;CES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCI&#xD3;N EN EL TERRITORIO DE LA ILUSTR&#xCD;SIMA CORTE DE APELACIONES DE SAN MIGUEL</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.047.- Santiago, 14 de septiembre de 2009.- Vistos: Lo dispuesto en el art&#xED;culo 121 del C&#xF3;digo Tributario; Res. N&#xBA; 172, de 28 de agosto de 2009; el oficio reservado DJU16.00 N&#xBA; 60, de 30 de julio de 2009, de la XVI Direcci&#xF3;n Regional Metropolitana Santiago Sur del Servicio de Impuestos Internos; el oficio N&#xBA; 1754-09, 30 de julio de 2009, de la Oficina de Pleno de la Ilustr&#xED;sima Corte de Apelaciones de San Miguel; acuerdo de pleno de 16 de marzo de 2009, del mismo Tribunal; el N&#xBA; 25 del numeral VI del art&#xED;culo primero del decreto supremo N&#xBA; 19, de 22 de enero de 2001, del Ministerio Secretar&#xED;a General de la Presidencia; la resoluci&#xF3;n N&#xBA; 1.600, de 30 de octubre 2008, que fija normas sobre exenci&#xF3;n del tr&#xE1;mite de toma de raz&#xF3;n, de la Contralor&#xED;a General de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que el nombramiento del Ministro Roberto Contreras Olivares, RUT N&#xBA; 7.079.886-7, como Presidente suplente en el Tribunal Especial de Alzada de los Bienes Ra&#xED;ces de la S<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1010410&amp;idParte=8847763&amp;idVersion=2010-01-23\">Decreto 1405, HACIENDA<br>D.O. 23.01.2010</a></span>egunda Serie, con jurisdicci&#xF3;n en el territorio de la Ilustr&#xED;sima Corte de Apelaciones de San Miguel, efectuado por decreto supremo N&#xBA; 640, de 15 de mayo de 2007, publicado en el Diario Oficial de 20 de junio del mismo a&#xF1;o, se encuentra actualmente vigente,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1010410,
+      "fecha": "2010-01-23"
+    }
+  }
+]

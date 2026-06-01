@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-01-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8349750,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD COMERCIAL E INDUSTRIAL DE PRODUCTOS MARINOS, SAGMAR LTDA., PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD COMERCIAL E INDUSTRIAL DE PRODUCTOS MARINOS, SAGMAR LTDA., PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6535717,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile, la siguiente norma chilena con su respectivo c&#xF3;digo y t&#xED;tulo de identificaci&#xF3;n:</div><br><div class=\"p\">NCh2840/2.Of2005&nbsp;  Construcci&#xF3;n - Elevadores</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Procedimiento de Inspecci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Parte 2: Ascensores y montacargas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  hidr&#xE1;ulicos.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile, la siguiente norma chilena con su respectivo c&#xF3;digo y t&#xED;tulo de identificaci&#xF3;n:</div><br><div class=\"p\">NCh2840/2.Of2005&nbsp;  Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1094100&amp;idParte=9725383&amp;idVersion=2016-08-30\">Decreto 585 EXENTO,<br>OBRAS P&#xDA;BLICAS<br>Art. 2<br>D.O. 30.08.2016</a></span></div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

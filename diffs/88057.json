@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-03-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-11-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7222642,
+          "old": "<div><div class=\"p\">COMPLEMENTA RESOLUCION No. 252, DE 1984, RESPECTO A HABILITACION DE PUERTO EN LA XI REGION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 14 de Marzo de 1991.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 373 exenta.- Visto: Lo dispuesto en el Decreto Ley No. 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, las Resoluciones No. 39, No. 350 de 1981 y No. 252 de 1984, todas expedidas por el Servicio, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que es funci&#xF3;n del Servicio Agr&#xED;cola y Ganadero, adoptar las medidas tendientes a evitar la introducci&#xF3;n al territorio nacional de plagas y enfermedades que puedan afectar negativamente la salud vegetal del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp;  - Que por Resoluci&#xF3;n No. 252 del 23 de Febrero de 1984 se habilit&#xF3; el Paso Fronterizo de Coyhaique Alto en la XI Regi&#xF3;n, para importar trigo y maiz destinados al consumo de la poblaci&#xF3;n de esa Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario ampliar la autorizaci&#xF3;n de internaci&#xF3;n de otros productos de origen vegetal para la Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  - Que el Servicio est&#xE1; facultado para ello.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTA RESOLUCION No. 252, DE 1984, RESPECTO A HABILITACION DE PUERTO EN LA XI REGION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 14 de Marzo de 1991.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 373 exenta.- Visto: Lo dispuesto en el Decreto Ley No. 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, las Resoluciones No. 39, No. 350 de 1981 y No. 252 de 1984, todas expedidas por el Servicio, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que es funci&#xF3;n del Servicio Agr&#xED;cola y Ganadero, adoptar las medidas tendientes a evitar la introducci&#xF3;n al territorio nacional de plagas y enfermedades que puedan afectar negativamente la salud vegetal del pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp;  - Que por Resoluci&#xF3;n No. 252 del 23 de Febrero de 1984 se habilit&#xF3; el Paso Fronterizo de Coyhaique Alto en la XI Regi&#xF3;n, para importar trigo y maiz destinados al consumo de la poblaci&#xF3;n de esa Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario ampliar la autorizaci&#xF3;n de internaci&#xF3;n de otros productos de origen vegetal para la Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  - Que el Servicio est&#xE1; facultado para ello.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2022-01-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10302316,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;guese hasta el d&#xED;a 27.01.2022, la postergaci&#xF3;n de Permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, de conformidad a lo se&#xF1;alado en el inciso 2&#xB0; del <a href=\"https://www.leychile.cl/Navegar?idNorma=13560&amp;idParte=8632226&amp;idVersion=\">Art. 117</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=13560&amp;idParte=&amp;idVersion=\">Ley General de Urbanismo y Construcciones</a>, en las zonas ya informadas favorablemente a trav&#xE9;s de Ord. N&#xB0; 1189, de fecha 24.09.2021, de la Seremi Minvu Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial, y dos avisos en semanas distintas, en el diario &quot;Austral&quot;, de la comuna de Osorno.</div><div class=\"p\">&nbsp; &nbsp;  3. Rem&#xED;tase copia de la presente resoluci&#xF3;n exenta al Sr. Alcalde de la comuna de Osorno, a fin que tome conocimiento de lo resuelto precedentemente.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;guese <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>hasta el d&#xED;a 27.01.2022, la postergaci&#xF3;n de Permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, de conformidad a lo se&#xF1;alado en el inciso 2&#xB0; del Art. 117 de la Ley General de Urbanismo y Construcciones, en las zonas ya informadas favorablemente a trav&#xE9;s de Ord. N&#xB0; 1189, de fecha 24.09.2021, de la Seremi Minvu Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial, y dos avisos en semanas distintas, en el diario &quot;Austral&quot;, de la comuna de Osorno.</div><div class=\"p\">&nbsp; &nbsp;  3. Rem&#xED;tase copia de la presente resoluci&#xF3;n exenta al Sr. Alcalde de la comuna de Osorno, a fin que tome conocimiento de lo resuelto precedentemente.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 7 Exenta, Vivienda, publicada el 28.01.2022, suspende el plazo dispuesto por la presente norma que prorroga la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones en las zonas que indica, de conformidad a lo se&#xF1;alado en la ley 21.202, de 2020, relacionado con el Art. 117 de la LGUC. Asimismo, el numeral 2&#xB0; de la citada resoluci&#xF3;n indica que el plazo que se suspende, se retomar&#xE1;, de pleno derecho, al d&#xED;a siguiente de finalizada totalmente la Alerta Sanitaria.</div></div>"
+        }
+      ]
+    }
+  }
+]

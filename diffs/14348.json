@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-03-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8968795,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DE ARTICULO 11 DE LA LEY N&#xB0; 18.525</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 575.- Santiago, 17 de Junio de 1993.- Vistos: Lo dispuesto en el Decreto Ley N&#xB0; 3.567, de 1980, que aprueba el acuerdo relativo a la interpretaci&#xF3;n y aplicaci&#xF3;n de los art&#xED;culos VI, XVI y XXIII del Acuerdo General sobre Aranceles Aduaneros y Comercio, promulgado por el Decreto Supremo del Ministerio de Relaciones Exteriores N&#xB0; 300, de 1981, el art&#xED;culo 11 de la Ley N&#xB0; 18.525 y las facultades que me confiere el N&#xB0; 8, del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento de lo dispuesto en el art&#xED;culo 11 de la Ley N&#xB0; 18.525, sobre investigaciones de la existencia de distorsiones en el precio de las mercader&#xED;as importadas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DE ARTICULO 11 DE LA LEY N&#xB0; 18.525</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 575.- Santiago, 17 de Junio de 1993.- Vistos: Lo dispuesto en el Decreto Ley N&#xB0; 3.567, de 1980, que aprueba el acuerdo relativo a la interpretaci&#xF3;n y aplicaci&#xF3;n de los art&#xED;culos VI, XVI y XXIII del Acuerdo General sobre Aranceles Aduaneros y Comercio, promulgado por el Decreto Supremo del Ministerio de Relaciones Exteriores N&#xB0; 300, de 1981, el art&#xED;culo 11 de la Ley N&#xB0; 18.525 y las facultades que me confiere el N&#xB0; 8, del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; Apru&#xE9;base el siguiente Reglamento <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> de lo dispuesto en el art&#xED;culo 11 de la Ley N&#xB0; 18.525, sobre investigaciones de la existencia de distorsiones en el precio de las mercader&#xED;as importadas.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo 74 del Decreto 1314, Hacienda, publicado el 22.03.2013, derog&#xF3; la presente norma. No obstante, su Art. &#xFA;nico Transitorio dispone que las investigaciones ya iniciadas a la fecha de su entrada en vigencia continuar&#xE1;n substanci&#xE1;ndose conforme a las reglas dispuestas en &#xE9;sta. Para tales efectos, se entender&#xE1;n como causas ya iniciadas aquellas en las cuales la Secretar&#xED;a T&#xE9;cnica hubiere certificado el hecho de haberse completado adecuadamente los antecedentes especificados en el formulario, conforme al art&#xED;culo 11.</div></div>"
+        }
+      ]
+    }
+  }
+]

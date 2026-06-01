@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-06-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8433485,
+          "old": "<div><div class=\"p\">EJECUTA ACUERDO DE CONSEJO N&#xB0;2.433, DE 2007; Y APRUEBA TEXTO DE REGLAMENTO DE COBERTURA A PRESTAMOS DE LARGO PLAZO DE BANCOS E INTERMEDIARIOS FINANCIEROS CON CLASIFICACION DE RIESGO, DENOMINADO &quot;FOGAIN&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 166.- Santiago, 1 de junio de 2007.- Visto:</div><br><div class=\"p\">1.-&nbsp; Por Acuerdo de Consejo de CORFO N&#xB0; 2.433, de 2007, se autoriz&#xF3; la creaci&#xF3;n de un Instrumento consistente en el otorgamiento de una cobertura complementaria de riesgo para las operaciones de cr&#xE9;dito de dinero, u otras equivalentes, incluyendo la modalidad de Leasing financiero, que los bancos y otros intermediarios financieros con clasificaci&#xF3;n de riesgo BBB+ o superior, otorguen a empresas privadas, peque&#xF1;as y medianas (personas jur&#xED;dicas y personas naturales con giro), para proyectos de inversi&#xF3;n.</div><div class=\"p\">2.-&nbsp; Lo dispuesto en el art&#xED;culo 3&#xB0; de la Ley N&#xBA; 19.880 que &quot;Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Organos de la Administraci&#xF3;n del Estado&quot;, en el sentido de que los acuerdos de los &#xF3;rganos administrativos pluripersonales se llevan a efecto por medio de resoluciones de la autoridad ejecutiva correspondiente.</div><div class=\"p\">3.-&nbsp; Lo dispuesto adem&#xE1;s en la Ley N&#xBA; 6640; en el Reglamento General de la Corporaci&#xF3;n; en el Decreto Supremo N&#xBA; 793, de 2004, del Ministerio de Hacienda, y sus modificaciones posteriores; y en la Resoluci&#xF3;n N&#xB0; 55, de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica, cuyo texto refundido, coordinado y sistematizado fue fijado por Resoluci&#xF3;n N&#xB0; 520, de 1996, y sus modificaciones posteriores, todas emanadas del mismo organismo.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">EJECUTA ACUERDO DE CONSEJO N&#xB0;2.433, DE 2007; Y APRUEBA TEXTO DE REGLAMENTO DE COBERTURA A PRESTAMOS DE LARGO PLAZO DE BANCOS E INTERMEDIARIOS FINANCIEROS CON CLASIFICACION DE RIESGO, DENOMINADO &quot;FOGAIN&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 166.- Santiago, 1 de junio de 2007.- Visto:</div><br><div class=\"p\">1.-&nbsp; Por Acuerdo de Consejo de CORFO N&#xB0; 2.433, de 2007, se autoriz&#xF3; la creaci&#xF3;n de un Instrumento consistente en el otorgamiento de una cobertura complementaria de riesgo para las operaciones de cr&#xE9;dito de dinero, u otras equivalentes, incluyendo la modalidad de Leasing financiero, que los bancos y otros intermediarios financieros con clasificaci&#xF3;n de riesgo BBB+ o superior, otorguen a empresas privadas, peque&#xF1;as y medianas (personas jur&#xED;dicas y personas naturales con giro), para proyectos de inversi&#xF3;n.</div><div class=\"p\">2.-&nbsp; Lo dispuesto en el art&#xED;culo 3&#xB0; de la Ley N&#xBA; 19.880 que &quot;Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Organos de la Administraci&#xF3;n del Estado&quot;, en el sentido de que los acuerdos de los &#xF3;rganos administrativos pluripersonales se llevan a efecto por medio de resoluciones de la autoridad ejecutiva correspondiente.</div><div class=\"p\">3.-&nbsp; Lo dispuesto adem&#xE1;s en la Ley N&#xBA; 6640; en el Reglamento General de la Corporaci&#xF3;n; en el Decreto Supremo N&#xBA; 793, de 2004, del Ministerio de Hacienda, y sus modificaciones posteriores; y en la Resoluci&#xF3;n N&#xB0; 55, de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica, cuyo texto refundido, coordinado y sistematizado fue fijado por Resoluci&#xF3;n N&#xB0; 520, de 1996, y sus modificaciones posteriores, todas emanadas del mismo organismo.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

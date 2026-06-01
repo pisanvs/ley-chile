@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-12-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6314435,
+          "old": "<div><div class=\"p\">EXTRACTO DE ORDENANZA LOCAL DE DERECHOS MUNICIPALES </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 816.- 22 de diciembre de 2000; Vistos:</div><div class=\"p\">1&#xBA; Lo dispuesto en el art&#xED;culo N&#xBA; 43 y dem&#xE1;s pertinentes de la Ley de Rentas Municipales.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El acuerdo del H. Concejo Municipal en su sesi&#xF3;n N&#xBA; 2 celebrada con fecha 22 de diciembre del presente a&#xF1;o, por la cual ha dado su aprobaci&#xF3;n a las modificaciones introducidas a la Ordenanza Local que establece Derechos Municipales por Concesiones, Permisos y Servicios se&#xF1;alados en el decreto alcaldicio N&#xBA; 557 de fecha 28 de diciembre de 1995, decreto alcaldicio N&#xBA; 670 de fecha 26 de diciembre de 1996 y decreto alcaldicio N&#xBA; 876 de fecha 26 de diciembre de 1997, los cuales se derogan.</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Las facultades que me confiere la ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades y sus modificaciones.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE ORDENANZA LOCAL DE DERECHOS MUNICIPALES </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 816.- 22 de diciembre de 2000; Vistos:</div><div class=\"p\">1&#xBA; Lo dispuesto en el art&#xED;culo N&#xBA; 43 y dem&#xE1;s pertinentes de la Ley de Rentas Municipales.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El acuerdo del H. Concejo Municipal en su sesi&#xF3;n N&#xBA; 2 celebrada con fecha 22 de diciembre del presente a&#xF1;o, por la cual ha dado su aprobaci&#xF3;n a las modificaciones introducidas a la Ordenanza Local que establece Derechos Municipales por Concesiones, Permisos y Servicios se&#xF1;alados en el decreto alcaldicio N&#xBA; 557 de fecha 28 de diciembre de 1995, decreto alcaldicio N&#xBA; 670 de fecha 26 de diciembre de 1996 y decreto alcaldicio N&#xBA; 876 de fecha 26 de diciembre de 1997, los cuales se derogan.</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Las facultades que me confiere la ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades y sus modificaciones.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

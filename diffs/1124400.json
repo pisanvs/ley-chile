@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-10-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9957047,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1. Aprueba &quot;Plano de descripci&#xF3;n territorio aplicaci&#xF3;n art&#xED;culo 117 Ley General de Urbanismo y Construcciones&quot;, Escala 1/2000, de fecha julio 2018, el cual grafica las zonas afectas por la postergaci&#xF3;n de permisos, comuna de Quinta Normal.</div><div class=\"p\">&nbsp; &nbsp;  2. Aprueba la aplicaci&#xF3;n del <a href=\"https://www.leychile.cl/Navegar?idNorma=13560&amp;idParte=8632226&amp;idVersion=\">art&#xED;culo 117</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=13560&amp;idParte=&amp;idVersion=\">Ley General de Urbanismo y Construcciones</a> y <a href=\"https://www.leychile.cl/Navegar?idNorma=8201&amp;idParte=100018401&amp;idVersion=\">art&#xED;culo 1.4.18</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=8201&amp;idParte=&amp;idVersion=\">Ordenanza General de Urbanismo y Construcciones</a>, referido a la Postergaci&#xF3;n de Permisos de Construcciones, que consulten altura de edificaci&#xF3;n, superior a 5 pisos o 13 metros, por un per&#xED;odo de tres meses, para una parte del territorio de la comuna, correspondiente a la Zona SC del Plan Regulador Comunal.</div><div class=\"p\">&nbsp; &nbsp;  3. El Departamento de Relaciones P&#xFA;blicas deber&#xE1; publicar en el Diario Oficial y en un diario de circulaci&#xF3;n comunal, el presente decreto alcaldicio.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. Aprueba &quot;Plano de descripci&#xF3;n territorio aplicaci&#xF3;n art&#xED;culo 117 Ley General de Urbanismo y Construcciones&quot;, Escala 1/2000, de fecha julio 2018, el cual grafica las zonas afectas por la postergaci&#xF3;n de permisos, comuna de Quinta Normal.</div><div class=\"p\">&nbsp; &nbsp;  2. Aprueba la aplicaci&#xF3;n del art&#xED;culo 117 de la Ley General de Urbanismo y Construcciones y art&#xED;culo 1.4.18 de la Ordenanza General de Urbanismo y Construcciones, referido a la <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Postergaci&#xF3;n de Permisos de Construcciones, que consulten altura de edificaci&#xF3;n, superior a 5 pisos o 13 metros, por un per&#xED;odo de tres meses, para una parte del territorio de la comuna, correspondiente a la Zona SC del Plan Regulador Comunal.</div><div class=\"p\">&nbsp; &nbsp;  3. El Departamento de Relaciones P&#xFA;blicas deber&#xE1; publicar en el Diario Oficial y en un diario de circulaci&#xF3;n comunal, el presente decreto alcaldicio.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 36 Exenta, Vivienda, publicada el 18.01.2019, modifica la presente norma en el sentido de prorrogar por el plazo de 9 meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

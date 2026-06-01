@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-05-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-04-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8348327,
+          "old": "<div><div class=\"p\">AUTORIZA A PRODUCTOS ALIMENTICIOS GUAYACAN LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PRODUCTOS ALIMENTICIOS GUAYACAN LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

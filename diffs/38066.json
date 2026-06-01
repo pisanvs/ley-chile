@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-05-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-11-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8299053,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DESIGNA REPRESENTANTE ALTERNO ANTE LA COMISION TECNICA DEL ARTICULO 4&#xB0; DE LA LEY 18.634</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 40 exenta.- Santiago, 14 de Mayo de 1991.- Visto: Estos antecedentes; lo dispuesto en el art&#xED;culo 4&#xB0; de la Ley 18.634, y en la Resoluci&#xF3;n N&#xB0; 182 de 1987, de este Ministerio, publicada el d&#xED;a 25 de Septiembre del mismo a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DESIGNA REPRESENTANTE ALTERNO ANTE LA COMISION TECNICA DEL ARTICULO 4&#xB0; DE LA LEY 18.634</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 40 exenta.- Santiago, 14 de Mayo de 1991.- Visto: Estos antecedentes; lo dispuesto en el art&#xED;culo 4&#xB0; de la Ley 18.634, y en la Resoluci&#xF3;n N&#xB0; 182 de 1987, de este Ministerio, publicada el d&#xED;a 25 de Septiembre del mismo a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

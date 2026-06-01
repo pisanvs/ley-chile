@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-10-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-07-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10252524,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1162750&amp;idParte=10252512&amp;idVersion=2021-07-19\">Decreto 54, EDUCACI&#xD3;N<br>Art. &#xFA;nico<br>D.O. 19.07.2021</a></span>rt&#xED;culo transitorio.- Durante el a&#xF1;o 2021, podr&#xE1; incrementarse la cantidad de 15 d&#xED;as indicada en el art&#xED;culo 2&#xB0; del presente reglamento, previa autorizaci&#xF3;n de la Direcci&#xF3;n de Presupuestos.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1162750,
+      "fecha": "2021-07-19"
+    }
+  }
+]

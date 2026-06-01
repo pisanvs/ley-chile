@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-12-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6418391,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: Decl&#xE1;rase Monumento Hist&#xF3;rico la Planta Hidroel&#xE9;ctrica de Chivilingo, situada a dos Kms. del camino de Concepci&#xF3;n a Arauco, entre las playas de Colcura y Laraquete, al sur de Lota, VIII Regi&#xF3;n del B&#xED;o-B&#xED;o.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;: Decl&#xE1;rase <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Monumento Hist&#xF3;rico la Planta Hidroel&#xE9;ctrica de Chivilingo, situada a dos Kms. del camino de Concepci&#xF3;n a Arauco, entre las playas de Colcura y Laraquete, al sur de Lota, VIII Regi&#xF3;n del B&#xED;o-B&#xED;o.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto 2, Culturas, publicado el 03.02.2022, modifica la presente norma en el sentido de fijar un &#xE1;rea de protecci&#xF3;n de &#xE9;ste, con el pol&#xED;gono de protecci&#xF3;n A-B-C-D-E-F-G-H-I-A, seg&#xFA;n el plano de l&#xED;mites oficial (N&#xB0; 005-2020), estableci&#xE9;ndose una superficie protegida de 693.678 m&#xB2; (69,36 hect&#xE1;reas), en los t&#xE9;rminos que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

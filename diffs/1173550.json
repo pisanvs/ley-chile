@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-03-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-05-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10316499,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Des&#xED;gnase, a contar del 18 de octubre de 2021, y por un periodo de tres a&#xF1;os, en el cargo de Consejeros del Consejo de Expertos del <a href=\"https://www.leychile.cl/Navegar?idNorma=1154203&amp;idParte=10190398&amp;idVersion=\">art&#xED;culo 9</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1154203&amp;idParte=&amp;idVersion=\">ley N&#xB0; 21.302</a>, a las siguientes personas:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Don Juan Paulo S&#xE1;nchez Err&#xE1;zuriz, RUN 16.095.993-2, Profesional del &#xE1;rea econ&#xF3;mica o de administraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. Do&#xF1;a Carmen Lagos Dittborn, RUN 14.119.205-1, M&#xE9;dico Psiquiatra Infanto-Juvenil.</div><div class=\"p\">&nbsp; &nbsp;  3. Do&#xF1;a Mar&#xED;a Carolina Velasco Hodgson, RUN 13.027.976-7, Psic&#xF3;logo o Nutri&#xF3;logo.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; Por razones de buen servicio, las designaciones de las personas se&#xF1;aladas en el numeral anterior producir&#xE1;n sus efectos a contar desde la fecha antes se&#xF1;alada sin esperar la total tramitaci&#xF3;n del presente acto administrativo.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; El gasto que demande el presente decreto de nombramiento se imputar&#xE1; a la Partida 21-11-01, Subt&#xED;tulo 21 &quot;Gastos de Personal&quot; del Presupuesto del Servicio Nacional de Protecci&#xF3;n Especializada a la Ni&#xF1;ez y Adolescencia.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Des&#xED;gnase, a contar <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1192543&amp;idParte=10432832&amp;idVersion=2023-05-24\">Decreto 14, <br>DESARROLLO SOCIAL<br>Primero<br>D.O. 24.05.2023</a></span>del 18 de octubre de 2021, y por un periodo de cinco a&#xF1;os, en el cargo de Consejeros del Consejo de Expertos del art&#xED;culo 9 de la ley N&#xBA; 21.302, a las siguientes personas:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Don Juan Paulo S&#xE1;nchez Err&#xE1;zuriz, RUN 16.095.993-2, Profesional del &#xE1;rea econ&#xF3;mica o de administraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. Do&#xF1;a Carmen Lagos Dittborn, RUN 14.119.205-1, M&#xE9;dico Psiquiatra Infanto-Juvenil.</div><div class=\"p\">&nbsp; &nbsp;  3. Do&#xF1;a Mar&#xED;a Carolina Velasco Hodgson, RUN 13.027.976-7, Psic&#xF3;logo o Nutri&#xF3;logo.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xB0; Por razones de buen servicio, las designaciones de las personas se&#xF1;aladas en el numeral anterior producir&#xE1;n sus efectos a contar desde la fecha antes se&#xF1;alada sin esperar la total tramitaci&#xF3;n del presente acto administrativo.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; El gasto que demande el presente decreto de nombramiento se imputar&#xE1; a la Partida 21-11-01, Subt&#xED;tulo 21 &quot;Gastos de Personal&quot; del Presupuesto del Servicio Nacional de Protecci&#xF3;n Especializada a la Ni&#xF1;ez y Adolescencia.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1192543,
+      "fecha": "2023-05-24"
+    }
+  }
+]

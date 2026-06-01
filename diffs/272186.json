@@ -1,0 +1,86 @@
+[
+  {
+    "fecha": "1972-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1973-06-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9348570,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o.- La Comisi&#xF3;n estar&#xE1; formada por las siguientes personas: Eduardo Novoa Monreal que la presidir&#xE1;; por el abogado del Consejo de Defensa del Estado, Guillermo Pumpin Belloni, Eugenio Valenzuela Somarriva, Juan Frontaura G&#xF3;mez, Ricardo Rivadeneira Monreal y Eustaquio Mart&#xED;nez Mart&#xED;nez; por el Fiscal de la Corporaci&#xF3;n del Cobre, Jaime Faivovich Waisblulb y los abogados de esa instituci&#xF3;n, Ra&#xFA;l Espinoza Fuentes y Waldo Fort&#xED;n Cabezas y por el abogado profesor de Derecho Internacional P&#xFA;blico, Edmundo Vargas Carre&#xF1;o.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=272187&amp;idParte=9348563&amp;idVersion=1973-06-04\">Decreto 9, MINER&#xCD;A<br>D.O. 04.06.1973</a></span>&nbsp; &nbsp;  Art&#xED;culo 2.o.- La Comisi&#xF3;n estar&#xE1; formada por las siguientes personas: Eduardo Novoa Monreal, que la presidir&#xE1;; por los abogados del Consejo de Defensa del Estado Guillermo Pumpin Belloni, Eugenio Valenzuela Somarriva, Juan Frontaura G&#xF3;mez, Ricardo Rivadeneira Monreal y Eustaquio Mart&#xED;nez Mart&#xED;nez; por el Fiscal de la Corporaci&#xF3;n del Cobre, Waldo Fort&#xED;n Cabezas; por el asesor jur&#xED;dico del Ministerio de Relaciones Exteriores, Mario Valenzuela Lafourcade, y por el abogado, Edmundo Vargas Carre&#xF1;o.</div><br><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n designar&#xE1; a la persona que deba subrogar al Presidente, en caso de ausencia o impedimento de &#xE9;ste.</div><br><div class=\"p\">&nbsp; &nbsp;  Los miembros de la Comisi&#xF3;n que sean funcionarios p&#xFA;blicos se entender&#xE1;n designados en comisi&#xF3;n de servicio con arreglo a la ley.</div><br></div>"
+        },
+        {
+          "part_id": 9348571,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.o.- La coordinaci&#xF3;n entre la Comisi&#xF3;n y el Consejo de Defensa del Estado, estar&#xE1; a cargo del abogado se&#xF1;or Pumpin; la de la Comisi&#xF3;n con la Corporaci&#xF3;n del Cobre, a cargo del abogado se&#xF1;or Espinosa y la de la Comisi&#xF3;n con el Ministerio de Relaciones Exteriores, a cargo del se&#xF1;or Vargas.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=272187&amp;idParte=9348563&amp;idVersion=1973-06-04\">Decreto 9, MINER&#xCD;A<br>D.O. 04.06.1973</a></span>&nbsp; &nbsp;  Art&#xED;culo 3.o.- La coordinaci&#xF3;n entre la Comisi&#xF3;n y el Consejo de Defensa del Estado estar&#xE1; a cargo del abogado se&#xF1;or Pumpin; de la Comisi&#xF3;n con la Corporaci&#xF3;n del Cobre, a cargo del abogado se&#xF1;or Fort&#xED;n, y de la Comisi&#xF3;n con el&nbsp; Ministerio de Relaciones, a cargo del abogado se&#xF1;or Mario Valenzuela.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1973-10-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9348570,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=272187&amp;idParte=9348563&amp;idVersion=1973-06-04\">Decreto 9, MINER&#xCD;A<br>D.O. 04.06.1973</a></span>&nbsp; &nbsp;  Art&#xED;culo 2.o.- La Comisi&#xF3;n estar&#xE1; formada por las siguientes personas: Eduardo Novoa Monreal, que la presidir&#xE1;; por los abogados del Consejo de Defensa del Estado Guillermo Pumpin Belloni, Eugenio Valenzuela Somarriva, Juan Frontaura G&#xF3;mez, Ricardo Rivadeneira Monreal y Eustaquio Mart&#xED;nez Mart&#xED;nez; por el Fiscal de la Corporaci&#xF3;n del Cobre, Waldo Fort&#xED;n Cabezas; por el asesor jur&#xED;dico del Ministerio de Relaciones Exteriores, Mario Valenzuela Lafourcade, y por el abogado, Edmundo Vargas Carre&#xF1;o.</div><br><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n designar&#xE1; a la persona que deba subrogar al Presidente, en caso de ausencia o impedimento de &#xE9;ste.</div><br><div class=\"p\">&nbsp; &nbsp;  Los miembros de la Comisi&#xF3;n que sean funcionarios p&#xFA;blicos se entender&#xE1;n designados en comisi&#xF3;n de servicio con arreglo a la ley.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=272188&amp;idParte=9348567&amp;idVersion=1973-10-23\">Decreto 2, MINER&#xCD;A<br>N&#xB0; 1<br>D.O. 23.10.1973</a></span>&nbsp; &nbsp;  Art&#xED;culo 2.o.- La Comisi&#xF3;n estar&#xE1; formada por los siguientes abogados del Consejo de Defensa del Estado: Guillermo Pumpin Belloni, que la presidir&#xE1;; D. Eugenio Valenzuela Somarriva, D. Juan Frontaura G&#xF3;mez, D. Ricardo Rivadeneira Monreal y D. Eustaquio Mart&#xED;nez Mart&#xED;nez, y por el Fiscal de la Corporaci&#xF3;n del Cobre, D. Jaime Velasco Vial.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n designar&#xE1; a la persona que deba subrogar al presidente, en caso de ausencia o impedimento de &#xE9;ste.</div><div class=\"p\">&nbsp; &nbsp;  Los miembros de la Comisi&#xF3;n que sean funcionarios p&#xFA;blicos se entender&#xE1;n designados en comisi&#xF3;n de servicios con arreglo a la ley.</div></div>"
+        },
+        {
+          "part_id": 9348571,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=272187&amp;idParte=9348563&amp;idVersion=1973-06-04\">Decreto 9, MINER&#xCD;A<br>D.O. 04.06.1973</a></span>&nbsp; &nbsp;  Art&#xED;culo 3.o.- La coordinaci&#xF3;n entre la Comisi&#xF3;n y el Consejo de Defensa del Estado estar&#xE1; a cargo del abogado se&#xF1;or Pumpin; de la Comisi&#xF3;n con la Corporaci&#xF3;n del Cobre, a cargo del abogado se&#xF1;or Fort&#xED;n, y de la Comisi&#xF3;n con el&nbsp; Ministerio de Relaciones, a cargo del abogado se&#xF1;or Mario Valenzuela.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=272188&amp;idParte=9348567&amp;idVersion=1973-10-23\">Decreto 2, MINER&#xCD;A<br>N&#xB0; 2<br>D.O. 23.10.1973</a></span>&nbsp; &nbsp;  Art&#xED;culo 3.o.- La coordinaci&#xF3;n entre la Comisi&#xF3;n y el Consejo de Defensa del Estado estar&#xE1; a cargo del abogado se&#xF1;or Pumpin, y de la Comisi&#xF3;n con la Corporaci&#xF3;n del Cobre, a cargo del abogado se&#xF1;or Velasco.</div><br></div>"
+        },
+        {
+          "part_id": 9348572,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.o- Corresponder&#xE1; a la Comisi&#xF3;n estudiar los problemas jur&#xED;dicos producidos en el &#xE1;mbito internacional con motivo de la nacionalizaci&#xF3;n del cobre, sea que consista en las impugnaciones a esta nacionalizaci&#xF3;n, a la indemnizaci&#xF3;n que ella fija o a cualquiera de sus disposiciones, a los cobros que se formulen en el exterior por las firmas Kennecott Corporation y Anaconda Company o cualquiera de sus subsidiarias; elaborar los argumentos o defensas en que deba apoyarse el inter&#xE9;s nacional, y proponer al Presidente de la Rep&#xFA;blica las medidas jur&#xED;dicas o de otro orden que se estimen aconsejables para una mejor protecci&#xF3;n de los intereses nacionales.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.o- Corresponder&#xE1; a la Comisi&#xF3;n estudiar los problemas jur&#xED;dicos producidos en el &#xE1;mbito internacional con motivo de la nacionalizaci&#xF3;n del cobre, sea que consista en las impugnaciones a esta nacionalizaci&#xF3;n, a la indemnizaci&#xF3;n que ella fija o a cualquiera de sus disposiciones, a los cobros que se formulen en el exterior por las firmas Kennecott Corporation y Anaconda Company o cualquiera de sus subsidiarias; elaborar los argumentos o defensas en que deba apoyarse el inter&#xE9;s nacional, y proponer al Poder Ejecutivo<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=272188&amp;idParte=9348567&amp;idVersion=1973-10-23\">Decreto 2, MINER&#xCD;A<br>N&#xB0; 3<br>D.O. 23.10.1973</a></span> las medidas jur&#xED;dicas o de otro orden que se estimen aconsejables para una mejor protecci&#xF3;n de los intereses nacionales.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 272188,
+      "fecha": "1973-10-23"
+    }
+  },
+  {
+    "fecha": "1975-11-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9054709,
+          "old": "<div><div class=\"p\">CREA COMISION JURIDICA DEL COBRE</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 9 de Octubre de 1972.- S. E. decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 58.- Considerando: que es necesario centralizar en un solo organismo consultivo todos los problemas jur&#xED;dicos que derivan de los juicios iniciados o que puedan iniciarse en pa&#xED;ses extranjeros para impugnar o desconocer las disposiciones contenidas en la reforma constitucional que nacionaliz&#xF3; el cobre, a fin de que el criterio y soluciones, que se propongan tengan en cuenta una adecuada coordinaci&#xF3;n y sea posible en todo momento contar con asesor&#xED;a legal que permita proporcionar a quienes asuman en el extranjero la defensa de los intereses nacionales, los argumentos y probanzas necesarios para lo cual debe constituirse una comisi&#xF3;n asesora del m&#xE1;s alto nivel jur&#xED;dico, debidamente coordinada con los organismos que legalmente deben intervenir en esta clase de materia.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:&#xA0;</div></div>",
+          "new": "<div><div class=\"p\">CREA COMISION JURIDICA DEL COBRE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 9 de Octubre de 1972.- S. E. decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 58.- Considerando: que es necesario centralizar en un solo organismo consultivo todos los problemas jur&#xED;dicos que derivan de los juicios iniciados o que puedan iniciarse en pa&#xED;ses extranjeros para impugnar o desconocer las disposiciones contenidas en la reforma constitucional que nacionaliz&#xF3; el cobre, a fin de que el criterio y soluciones, que se propongan tengan en cuenta una adecuada coordinaci&#xF3;n y sea posible en todo momento contar con asesor&#xED;a legal que permita proporcionar a quienes asuman en el extranjero la defensa de los intereses nacionales, los argumentos y probanzas necesarios para lo cual debe constituirse una comisi&#xF3;n asesora del m&#xE1;s alto nivel jur&#xED;dico, debidamente coordinada con los organismos que legalmente deben intervenir en esta clase de materia.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><div class=\"p\">&#xA0;</div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 85, Miner&#xED;a, publicado el 19.11.1975, pone t&#xE9;rmino a la Comisi&#xF3;n Jur&#xED;dica del Cobre, creada por la presente norma. Asimismo, pone t&#xE9;rmino, a las comisiones de servicio de los abogados que la formaban, los cuales deben reincorporarse a los servicios a que pertenezcan.</div></div>"
+        },
+        {
+          "part_id": 9348570,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=272188&amp;idParte=9348567&amp;idVersion=1973-10-23\">Decreto 2, MINER&#xCD;A<br>N&#xB0; 1<br>D.O. 23.10.1973</a></span>&nbsp; &nbsp;  Art&#xED;culo 2.o.- La Comisi&#xF3;n estar&#xE1; formada por los siguientes abogados del Consejo de Defensa del Estado: Guillermo Pumpin Belloni, que la presidir&#xE1;; D. Eugenio Valenzuela Somarriva, D. Juan Frontaura G&#xF3;mez, D. Ricardo Rivadeneira Monreal y D. Eustaquio Mart&#xED;nez Mart&#xED;nez, y por el Fiscal de la Corporaci&#xF3;n del Cobre, D. Jaime Velasco Vial.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n designar&#xE1; a la persona que deba subrogar al presidente, en caso de ausencia o impedimento de &#xE9;ste.</div><div class=\"p\">&nbsp; &nbsp;  Los miembros de la Comisi&#xF3;n que sean funcionarios p&#xFA;blicos se entender&#xE1;n designados en comisi&#xF3;n de servicios con arreglo a la ley.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=272188&amp;idParte=9348567&amp;idVersion=1973-10-23\">Decreto 2, MINER&#xCD;A<br>N&#xB0; 1<br>D.O. 23.10.1973</a></span>&nbsp; &nbsp;  Art&#xED;culo 2.o.- La Comisi&#xF3;n estar&#xE1; formada por los siguientes abogados del Consejo de Defensa del Estado: Guillermo Pumpin Belloni, que la presidir&#xE1;; D. Eugenio Valenzuela Somarriva, D. Juan Frontaura G&#xF3;mez, D. Ricardo Rivadeneira Monreal y D. Eustaquio Mart&#xED;nez Mart&#xED;nez, y por el Fiscal de la Corporaci&#xF3;n del Cobre, D. Jaime Velasco Vial.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n designar&#xE1; a la persona que deba subrogar al presidente, en caso de ausencia o impedimento de &#xE9;ste.</div><div class=\"p\">&nbsp; &nbsp;  Los miembros de la Comisi&#xF3;n que sean funcionarios p&#xFA;blicos se entender&#xE1;n designados en comisi&#xF3;n de servicios con arreglo a la ley.</div></div>"
+        },
+        {
+          "part_id": 9348571,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=272188&amp;idParte=9348567&amp;idVersion=1973-10-23\">Decreto 2, MINER&#xCD;A<br>N&#xB0; 2<br>D.O. 23.10.1973</a></span>&nbsp; &nbsp;  Art&#xED;culo 3.o.- La coordinaci&#xF3;n entre la Comisi&#xF3;n y el Consejo de Defensa del Estado estar&#xE1; a cargo del abogado se&#xF1;or Pumpin, y de la Comisi&#xF3;n con la Corporaci&#xF3;n del Cobre, a cargo del abogado se&#xF1;or Velasco.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=272188&amp;idParte=9348567&amp;idVersion=1973-10-23\">Decreto 2, MINER&#xCD;A<br>N&#xB0; 2<br>D.O. 23.10.1973</a></span>&nbsp; &nbsp;  Art&#xED;culo 3.o.- La coordinaci&#xF3;n entre la Comisi&#xF3;n y el Consejo de Defensa del Estado estar&#xE1; a cargo del abogado se&#xF1;or Pumpin, y de la Comisi&#xF3;n con la Corporaci&#xF3;n del Cobre, a cargo del abogado se&#xF1;or Velasco.</div><br></div>"
+        },
+        {
+          "part_id": 9348572,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.o- Corresponder&#xE1; a la Comisi&#xF3;n estudiar los problemas jur&#xED;dicos producidos en el &#xE1;mbito internacional con motivo de la nacionalizaci&#xF3;n del cobre, sea que consista en las impugnaciones a esta nacionalizaci&#xF3;n, a la indemnizaci&#xF3;n que ella fija o a cualquiera de sus disposiciones, a los cobros que se formulen en el exterior por las firmas Kennecott Corporation y Anaconda Company o cualquiera de sus subsidiarias; elaborar los argumentos o defensas en que deba apoyarse el inter&#xE9;s nacional, y proponer al Poder Ejecutivo<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=272188&amp;idParte=9348567&amp;idVersion=1973-10-23\">Decreto 2, MINER&#xCD;A<br>N&#xB0; 3<br>D.O. 23.10.1973</a></span> las medidas jur&#xED;dicas o de otro orden que se estimen aconsejables para una mejor protecci&#xF3;n de los intereses nacionales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.o- Corresponder&#xE1; a la Comisi&#xF3;n estudiar los problemas jur&#xED;dicos producidos en el &#xE1;mbito internacional con motivo de la nacionalizaci&#xF3;n del cobre, sea que consista en las impugnaciones a esta nacionalizaci&#xF3;n, a la indemnizaci&#xF3;n que ella fija o a cualquiera de sus disposiciones, a los cobros que se formulen en el exterior por las firmas Kennecott Corporation y Anaconda Company o cualquiera de sus subsidiarias; elaborar los argumentos o defensas en que deba apoyarse el inter&#xE9;s nacional, y proponer al Poder Ejecutivo<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=272188&amp;idParte=9348567&amp;idVersion=1973-10-23\">Decreto 2, MINER&#xCD;A<br>N&#xB0; 3<br>D.O. 23.10.1973</a></span> las medidas jur&#xED;dicas o de otro orden que se estimen aconsejables para una mejor protecci&#xF3;n de los intereses nacionales.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

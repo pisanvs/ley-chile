@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-01-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-03-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7144625,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA DECRETO N&#xB0; 7.723, DE 1981</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 317.- Santiago, 30 de Agosto de 1991.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, es de ordinaria ocurrencia que los t&#xE9;cnicos titulados en establecimientos de educaci&#xF3;n media t&#xE9;cnico-profesional, se dediquen a ejercer la docencia en su especialidad;</div><div class=\"p\">&nbsp; &nbsp; Que, las normas actualmente vigentes los obligan a solicitar autorizaci&#xF3;n de ejercicio docente anualmente, en circunstancias que las que contemplaba el antiguo Estatuto Administrativo, D.F.L. N&#xB0; 338, de 1960, les permit&#xED;a dicho ejercicio sin autorizaci&#xF3;n alguna (art&#xED;culos 302-303);</div><div class=\"p\">&nbsp; &nbsp; Que, las exigencias del desempe&#xF1;o en este tipo de establecimientos hacen aconsejable que las asignaturas de especialidad sean tambi&#xE9;n desarrolladas por t&#xE9;cnicos de nivel medio, sobre todo porque las entidades formadoras de docentes no asumen la especializaci&#xF3;n en muchas de las materias que conforman las especialidades; y</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el Decreto Ley N&#xB0; 678, de 1974; D.F.L. N&#xB0; 29, de 1981, de Educaci&#xF3;n; Decretos Supremos de Educaci&#xF3;n N&#xB0;s. 7.723, de 1981; 3.048, de 1982; y 42, de 1984; Ley N&#xB0; 18.956, de 1990; y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO N&#xB0; 7.723, DE 1981</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 317.- Santiago, 30 de Agosto de 1991.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, es de ordinaria ocurrencia que los t&#xE9;cnicos titulados en establecimientos de educaci&#xF3;n media t&#xE9;cnico-profesional, se dediquen a ejercer la docencia en su especialidad;</div><div class=\"p\">&nbsp; &nbsp; Que, las normas actualmente vigentes los obligan a solicitar autorizaci&#xF3;n de ejercicio docente anualmente, en circunstancias que las que contemplaba el antiguo Estatuto Administrativo, D.F.L. N&#xB0; 338, de 1960, les permit&#xED;a dicho ejercicio sin autorizaci&#xF3;n alguna (art&#xED;culos 302-303);</div><div class=\"p\">&nbsp; &nbsp; Que, las exigencias del desempe&#xF1;o en este tipo de establecimientos hacen aconsejable que las asignaturas de especialidad sean tambi&#xE9;n desarrolladas por t&#xE9;cnicos de nivel medio, sobre todo porque las entidades formadoras de docentes no asumen la especializaci&#xF3;n en muchas de las materias que conforman las especialidades; y</div><div class=\"p\">&nbsp; &nbsp; Visto: Lo dispuesto en el Decreto Ley N&#xB0; 678, de 1974; D.F.L. N&#xB0; 29, de 1981, de Educaci&#xF3;n; Decretos Supremos de Educaci&#xF3;n N&#xB0;s. 7.723, de 1981; 3.048, de 1982; y 42, de 1984; Ley N&#xB0; 18.956, de 1990; y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

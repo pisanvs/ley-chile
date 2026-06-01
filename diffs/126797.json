@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-06-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-07-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8336469,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA LA APLICACION DE LOS ARTICULOS 35, 36, 37, 38 Y 61, DEL DECRETO LEY N&#xBA; 3.063, DE 1979 </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 5 de Abril de 1984.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 371.- Vistos: El decreto ley N&#xBA; 3.063, de 1979; modificado por la Ley N&#xBA; 18.294, de 2 de Febrero de 1984; y las facultades que me confiere el art&#xED;culo 32, N&#xBA; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO PARA LA APLICACION DE LOS ARTICULOS 35, 36, 37, 38 Y 61, DEL DECRETO LEY N&#xBA; 3.063, DE 1979 </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 5 de Abril de 1984.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 371.- Vistos: El decreto ley N&#xBA; 3.063, de 1979; modificado por la Ley N&#xBA; 18.294, de 2 de Febrero de 1984; y las facultades que me confiere el art&#xED;culo 32, N&#xBA; 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

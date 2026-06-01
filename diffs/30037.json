@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-09-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-05-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9047069,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- F&#xED;jase, a contar del 1&#xB0; de septiembre de 1987, en $ 9.446, el monto del ingreso m&#xED;nimo.</div><div class=\"p\">&nbsp; &nbsp; F&#xED;jase, a contar de igual fecha, en $ 11.335, el monto del ingreso m&#xED;nimo con el incremento establecido en el inciso tercero del art&#xED;culo 2&#xB0; del decreto ley N&#xB0; 3.501, de 1980.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- F&#xED;jase, a contar del 1&#xB0; de septiembre<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> de 1987, en $ 9.446, el monto del ingreso m&#xED;nimo.</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 2</a></div>&nbsp; &nbsp; F&#xED;jase, a contar de igual fecha, en $ 11.335, el monto del ingreso m&#xED;nimo con el incremento establecido en el <div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 3</a></div>inciso tercero del art&#xED;culo 2&#xB0; del decreto ley N&#xB0; 3.501, de <div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:&nbsp; 4</a></div>1980.</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp4\"><a href=\"#np4\">NOTA:&nbsp; 5</a></div></div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 3&#xB0; de la ley N&#xB0; 18774, publicada en el &quot;Diario Oficial&quot; de 14 de enero de 1989, fij&#xF3;, a contar del 1&#xB0; de febrero de 1989, el monto del ingreso m&#xED;nimo a que se refiere el inciso primero de este art&#xED;culo, que se emplea para fines no remuneracionales, en $ 11.950.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El art&#xED;culo 3&#xB0; de la ley N&#xB0; 18870, publicada en el &quot;Diario Oficial&quot; de 2 de diciembre de 1989, fij&#xF3;, a contar del 1&#xB0; de diciembre de 1989, en $ 13.384 el monto del ingreso m&#xED;nimo a que se refiere el inciso primero de este art&#xED;culo, que se emplea para fines no remuneracionales.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 3</a> <br>&nbsp; &nbsp;  El art&#xED;culo 1&#xB0; de la Ley N&#xB0; 18.981, publicada en el &quot;Diario Oficial&quot; de 28 de mayo de 1990, fij&#xF3;, a contar del 1&#xB0; de junio de 1990, en $ 26.000, el monto del ingreso m&#xED;nimo mensual a que se refiere el inciso primero de este art&#xED;culo. </div><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:&nbsp; 4</a> <br>&nbsp; &nbsp;  El inciso segundo del art&#xED;culo 1&#xB0; de la Ley N&#xB0; 19.060, publicada en el &quot;Diario Oficial&quot; de 29 de mayo de 1991, reajust&#xF3;, a contar del 1&#xB0; de junio de 1991, en un 26,9%, el ingreso m&#xED;nimo mensual que se emplea para fines no remuneracionales a que se refiere el inciso primero del presente art&#xED;culo.<br></div><div class=\"np\" id=\"np4\"><a href=\"#rnp4\">NOTA:&nbsp; 5</a> <br>&nbsp; &nbsp;  El inciso segundo del art&#xED;culo 1&#xB0; de la Ley N&#xB0; 19.142, publicada en el &quot;Diario Oficial&quot; de 29 de mayo de 1992, elev&#xF3;, a contar del 1&#xB0; de junio de 1992, a $ 28.707 el ingreso m&#xED;nimo mensual que se emplea para fines no remuneracionales a que se refiere el inciso primero del presente art&#xED;culo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

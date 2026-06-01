@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-01-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-04-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9550208,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1) Modif&#xED;case a partir del 1 de enero de 2014, el decreto supremo N&#xBA; 215, de 09.Nov.2007, del MDN, en cuanto a la dependencia org&#xE1;nica del Centro de Entrenamiento de Combate Acorazado del Ej&#xE9;rcito, el que pasar&#xE1; a depender de la Divisi&#xF3;n Escuelas, dejando de depender de la VI. Divisi&#xF3;n de Ej&#xE9;rcito.</div><div class=\"p\">&nbsp; &nbsp;  2) La presente modificaci&#xF3;n no afectar&#xE1; las plantas autorizadas del Ej&#xE9;rcito y no irrogar&#xE1; mayor gasto fiscal.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1) Modif&#xED;case a partir del 1 de enero de 2014, el decreto supremo N&#xBA; 215, de 09.Nov.2007, del MDN, en cuanto a la dependencia org&#xE1;nica del Centro de Entrenamiento de Combate Acorazado del Ej&#xE9;rcito, el que pasar&#xE1; a depender de la <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Divisi&#xF3;n Escuelas, dejando de depender de la VI. Divisi&#xF3;n de Ej&#xE9;rcito.</div><div class=\"p\">&nbsp; &nbsp;  2) La presente modificaci&#xF3;n no afectar&#xE1; las plantas autorizadas del Ej&#xE9;rcito y no irrogar&#xE1; mayor gasto fiscal.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El n&#xFA;mero 3 del Decreto 161, Defensa, publicado el 19.04.2022, modifica el n&#xFA;mero 1 de la presente norma en el sentido de establecer que el &quot;Centro de Entrenamiento de Combate Acorazado del Ej&#xE9;rcito&quot; pasa a depender org&#xE1;nicamente del Comando de Operaciones Terrestre del Ej&#xE9;rcito, a partir de la total tramitaci&#xF3;n del citado decreto supremo.</div></div>"
+        }
+      ]
+    }
+  }
+]

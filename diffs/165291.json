@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-12-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-04-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6264240,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO SUPREMO EXENTO DE EDUCACION No. 327, DE 13 DE NOVIEMBRE DE 1985 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO SUPREMO EXENTO DE EDUCACION No. 327, DE 13 DE NOVIEMBRE DE 1985</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

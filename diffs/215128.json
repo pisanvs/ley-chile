@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1973-12-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-11-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004566,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;- Autorizase a la Sociedad Hip&#xF3;dromo Chile y al Club H&#xED;pico de Santiago para efectuar, por una sola vez, una reuni&#xF3;n extraordinaria de carreras cada uno de ellos, en un d&#xED;a no festivo, cuyo producto l&#xED;quido ser&#xE1; entregado directamente por los hip&#xF3;dromos a CEMA-CHILE.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;- Autorizase a la Sociedad Hip&#xF3;dromo Chile y al Club H&#xED;pico de Santiago para efectuar, una vez al a&#xF1;o, una reuni&#xF3;n extraordinaria de carreras<span class=\"n\" id=\"n_0\">DL 733, INTERIOR<br>Art. 1&#xBA;<br>D.O. 06.11.1974</span> cada uno de ellos, en un d&#xED;a no festivo, cuyo producto l&#xED;quido ser&#xE1; entregado directamente por los hip&#xF3;dromos a CEMA-CHILE.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

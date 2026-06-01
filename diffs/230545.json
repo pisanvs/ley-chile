@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-10-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-08-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7314837,
+          "old": "<div><div class=\"p\">APRUEBA PLAN REGULADOR COMUNAL DE LA CISTERNA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 29 de Julio de 1983.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 110.- Visto: Lo dispuesto en los art&#xED;culos 2&#xBA; y 9&#xBA; de la Ley N&#xBA; 16.391 y 12&#xBA; letra i) del D.L. N&#xBA; 1.305, de 1976; los art&#xED;culos 41&#xBA; al 44&#xBA; del D.F.L. N&#xBA; 458, (V. y U.), de 1976, Ley General de Urbanismo y Construcciones; el art&#xED;culo 550 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n; el decreto alcaldicio N&#xBA; 00219, de 1&#xBA; de Marzo de 1983, de la Ilustre Municipalidad de La Cisterna; los ordinarios N&#xBA; 9.824, de 4 de Diciembre de 1981 y N&#xBA; 2.555, de 11 de Mayo de 1982, ambos de la Empresa Metropolitana de Obras Sanitarias; el ordinario N&#xBA; 2.531, de 19 de Mayo de 1983, del Sr. Intendente Regi&#xF3;n Metropolitana; el ordinario N&#xBA; 916, de 2 de Junio de 1983, del jefe del Departamento de Desarrollo Urbano e Infraestructura de la Secretar&#xED;a Ministerial Metropolitana de Vivienda y Urbanismo; el ordinario N&#xBA; 188, de 16 de Junio de 1983, de la Divisi&#xF3;n de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, y los dem&#xE1;s antecedentes que se acompa&#xF1;an,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA PLAN REGULADOR COMUNAL DE LA CISTERNA </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 29 de Julio de 1983.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 110.- Visto: Lo dispuesto en los art&#xED;culos 2&#xBA; y 9&#xBA; de la Ley N&#xBA; 16.391 y 12&#xBA; letra i) del D.L. N&#xBA; 1.305, de 1976; los art&#xED;culos 41&#xBA; al 44&#xBA; del D.F.L. N&#xBA; 458, (V. y U.), de 1976, Ley General de Urbanismo y Construcciones; el art&#xED;culo 550 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n; el decreto alcaldicio N&#xBA; 00219, de 1&#xBA; de Marzo de 1983, de la Ilustre Municipalidad de La Cisterna; los ordinarios N&#xBA; 9.824, de 4 de Diciembre de 1981 y N&#xBA; 2.555, de 11 de Mayo de 1982, ambos de la Empresa Metropolitana de Obras Sanitarias; el ordinario N&#xBA; 2.531, de 19 de Mayo de 1983, del Sr. Intendente Regi&#xF3;n Metropolitana; el ordinario N&#xBA; 916, de 2 de Junio de 1983, del jefe del Departamento de Desarrollo Urbano e Infraestructura de la Secretar&#xED;a Ministerial Metropolitana de Vivienda y Urbanismo; el ordinario N&#xBA; 188, de 16 de Junio de 1983, de la Divisi&#xF3;n de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, y los dem&#xE1;s antecedentes que se acompa&#xF1;an,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

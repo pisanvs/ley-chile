@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-09-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-02-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6495519,
+          "old": "<div><div class=\"p\">DETERMINA ENSAYOS MINIMOS PARA EL AREA METALES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 30 de agosto de 2004.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3.703 exenta.- Visto: Lo dispuesto en el art&#xED;culo 16 letra h) del DL N&#xBA; 1.305, de 1975, y en el art&#xED;culo 6&#xBA; del Reglamento del Registro Oficial de Laboratorios de Control T&#xE9;cnico de Calidad de Construcci&#xF3;n del Minvu, aprobado por el DS N&#xBA; 10 (V. y U.), de 2002, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DETERMINA ENSAYOS MINIMOS PARA EL AREA METALES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 30 de agosto de 2004.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3.703 exenta.- Visto: Lo dispuesto en el art&#xED;culo 16 letra h) del DL N&#xBA; 1.305, de 1975, y en el art&#xED;culo 6&#xBA; del Reglamento del Registro Oficial de Laboratorios de Control T&#xE9;cnico de Calidad de Construcci&#xF3;n del Minvu, aprobado por el DS N&#xBA; 10 (V. y U.), de 2002, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

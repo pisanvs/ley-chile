@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7265726,
+          "old": "<div><div class=\"p\">AUTORIZA A &quot;GALINDO Y VERGARA LIMITADA&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A &quot;GALINDO Y VERGARA LIMITADA&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

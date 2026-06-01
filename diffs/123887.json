@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "1954-08-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-06-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9022267,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.o Sufrir&#xE1;n la pena de presidio menor en su grado medio a m&#xE1;ximo o multa de cinco a cien mil pesos, o ambas conjuntamente:</div><div class=\"p\">&nbsp; &nbsp;  a) El que instalare o regentare un matadero clandestino;</div><div class=\"p\">&nbsp; &nbsp;  b) El que a sabiendas enviare o llevare animales para su beneficio a un matadero clandestino;</div><div class=\"p\">&nbsp; &nbsp;  c) El que interviniere en cualquier forma en el beneficio clandestino, y</div><div class=\"p\">&nbsp; &nbsp;  d) El que interviniere en cualquier forma en el transporte o comercio o expendio de carne provenientes del beneficio clandestino, sabiendo su origen o no pudiendo menos de conocerlo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.o Sufrir&#xE1;n la pena de presidio menor en su grado medio a m&#xE1;ximo o multa de once a quince<span class=\"n\" id=\"n_0\">LEY 19730<br>Art. &#xFA;nico<br>D.O. 01.06.2001</span> unidades tributarias mensuales, o ambas conjuntamente:</div><div class=\"p\">&nbsp; &nbsp;  a) El que instalare o regentare un matadero</div><div class=\"p\">clandestino;</div><div class=\"p\">&nbsp; &nbsp;  b) El que a sabiendas enviare o llevare animales</div><div class=\"p\">para su beneficio a un matadero clandestino;</div><div class=\"p\">&nbsp; &nbsp;  c) El que interviniere en cualquier forma en el</div><div class=\"p\">beneficio clandestino, y</div><div class=\"p\">&nbsp; &nbsp;  d) El que interviniere en cualquier forma en el</div><div class=\"p\">transporte o comercio o expendio de carne provenientes</div><div class=\"p\">del beneficio clandestino, sabiendo su origen o no</div><div class=\"p\">pudiendo menos de conocerlo.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2012-07-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9271514,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8.&#xB0; Para <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1040408&amp;idParte=9271435&amp;idVersion=2012-07-04\">Ley 20596<br>Art. 4<br>D.O. 04.07.2012</a></span>los efectos del control de identidad, Carabineros de Chile estar&#xE1; facultado para revisar los veh&#xED;culos que transiten en zonas rurales o que pasen por tenencias o retenes, debiendo exigir la boleta, factura, gu&#xED;a de despacho o el formulario de movimiento animal, seg&#xFA;n sea el caso.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1040408,
+      "fecha": "2012-07-04"
+    }
+  }
+]

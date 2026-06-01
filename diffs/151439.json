@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-07-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-10-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8356704,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA NACIONAL LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DEROGA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA NACIONAL LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DEROGA RESOLUCION QUE INDICA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

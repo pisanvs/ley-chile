@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-10-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8994742,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- El recurso mencionado en el art&#xED;culo precedente s&#xF3;lo podr&#xE1; ser extra&#xED;do por embarcaciones de una eslora m&#xE1;xima de 15 metros, las que usar&#xE1;n espineles de profundidad en una cantidad que no exceder&#xE1; de 12.000 anzuelos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- El recurso mencionado en el art&#xED;culo precedente s&#xF3;lo podr&#xE1; ser extra&#xED;do por embarcaciones de una eslora m&#xE1;xima de 15 metros, las que usar&#xE1;n espineles de profundidad en una cantidad que no exceder&#xE1; de 12.000 anzuelos.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de Lo dispuesto en el inciso<span class=\"n\" id=\"n_0\">DTO 43, ECONOMIA<br>Art. 1&#xBA;<br>D.O. 04.03.1986</span> anterior, se permitir&#xE1; la operaci&#xF3;n de embarcaciones de hasta 18 metros de eslora en el &#xE1;rea comprendida desde Punta Liles (32&#xB0; 45&apos; 40&quot;) al Sur&quot;, con la limitaci&#xF3;n del arte de pesca se&#xF1;alado precedentemente.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, excepcionalmente se podr&#xE1; autorizar la<span class=\"n\" id=\"n_1\">DTO 328, ECONOMIA<br>Art. 1&#xBA;<br>D.O. 31.10.1986</span> operaci&#xF3;n de embarcaciones de hasta 16,50 y 19,80 metros de eslora m&#xE1;xima, en las zonas norte y sur, respectivamente, concurriendo los siguientes requisitos:</div><div class=\"p\">&nbsp; &nbsp;  a) Que se trate de proyectos de inversi&#xF3;n destinados a la construcci&#xF3;n o compra de embarcaciones pesqueras orientadas principalmente a la captura del recurso mero o bacalao de profundidad, y</div><div class=\"p\">&nbsp; &nbsp;  b) Que los se&#xF1;alados proyectos hayan comenzado a ejecutarse dentro de un per&#xED;odo de 10 meses anteriores a cada una de las fechas de publicaci&#xF3;n de los Decretos N&#xB0; 439, de 1985 y 43, de 1986, ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Las personas interesadas deber&#xE1;n acreditar de manera fehaciente ante el Servicio Nacional de Pesca, el cumplimiento de los requisitos indicados precedentemente.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

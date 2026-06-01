@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-01-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8339425,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase la circulaci&#xF3;n los d&#xED;as s&#xE1;bados en la tarde, domingos y festivos del veh&#xED;culo de la Municipalidad de Linares que a continuaci&#xF3;n se individualiza, quedando exento de la obligaci&#xF3;n de usar el disco fiscal establecido en el art&#xED;culo 3&#xBA; del decreto ley N&#xBA; 799, de 1974:</div><br><br><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  Autom&#xF3;vil</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  Subaru</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  Legacy 2.0I LX HX</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  1995</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  Blanco</div><div class=\"p\">N&#xBA; Motor&nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  088193</div><div class=\"p\">N&#xBA; Chassis&nbsp; &nbsp;  :&nbsp; &nbsp;  005478</div><div class=\"p\">Placa Unica&nbsp; &nbsp; :&nbsp; &nbsp;  LY-1480-0</div><div class=\"p\">I.R.V.M.&nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  LY-1480-0.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Autor&#xED;zase la circulaci&#xF3;n los d&#xED;as<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> s&#xE1;bados en la tarde, domingos y festivos del veh&#xED;culo de la Municipalidad de Linares que a continuaci&#xF3;n se individualiza, quedando exento de la obligaci&#xF3;n de usar el disco fiscal establecido en el art&#xED;culo 3&#xBA; del decreto ley N&#xBA; 799, de 1974:</div><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  Autom&#xF3;vil</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  Subaru</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  Legacy 2.0I LX HX</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  1995</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; &nbsp;  Blanco</div><div class=\"p\">N&#xBA; Motor&nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  088193</div><div class=\"p\">N&#xBA; Chassis&nbsp; &nbsp;  :&nbsp; &nbsp;  005478</div><div class=\"p\">Placa Unica&nbsp; &nbsp; :&nbsp; &nbsp;  LY-1480-0</div><div class=\"p\">I.R.V.M.&nbsp; &nbsp; &nbsp;  :&nbsp; &nbsp;  LY-1480-0.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo primero del DTO 330 Exento, INTERIOR, publicado el 03.03.1999, autoriz&#xF3; al Sr. Alcalde de la I. Municipalidad de Linares para usar privativamente en el desempe&#xF1;o de su cargo el veh&#xED;culo individualizado en el presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

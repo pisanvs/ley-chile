@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "2011-04-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-08-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9286945,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero bis.- Corresponder&#xE1;n, <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1042556&amp;idParte=9286790&amp;idVersion=2012-08-03\">Ley 20597<br>Art. 3 N&#xBA; 2<br>D.O. 03.08.2012</a></span>especialmente, al Subdirector Nacional de Acuicultura, las siguientes funciones:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Subrogar al Subdirector Nacional.</div><div class=\"p\">&nbsp; &nbsp;  b) Asesorar al Director Nacional y dem&#xE1;s &#xF3;rganos del Servicio en materia de acuicultura.</div><div class=\"p\">&nbsp; &nbsp;  c) Planificar las acciones de fiscalizaci&#xF3;n de cumplimiento de la normativa ambiental, de salud animal y dem&#xE1;s aplicable a la acuicultura.</div><div class=\"p\">&nbsp; &nbsp;  d) Supervisar y evaluar la ejecuci&#xF3;n de las acciones a que se refiere el literal precedente.</div><div class=\"p\">&nbsp; &nbsp;  e) Coordinar a las Direcciones Regionales, Departamentos y dem&#xE1;s unidades del Servicio que ejecutan funciones en materia de acuicultura.</div><div class=\"p\">&nbsp; &nbsp;  f) Proponer al Director Nacional los programas sanitarios y dem&#xE1;s normas que, conforme a la legislaci&#xF3;n aplicable a la acuicultura, corresponda dictar al Servicio.</div><div class=\"p\">&nbsp; &nbsp;  g) Administrar el registro de personas acreditadas para elaborar los instrumentos de evaluaci&#xF3;n ambiental y sanitaria y dem&#xE1;s que se requieran.</div><div class=\"p\">&nbsp; &nbsp;  h) Controlar a las personas a que se refiere el literal anterior y proponer al Director Nacional las sanciones que corresponda aplicar a las mismas en los casos previstos por la normativa.</div><div class=\"p\">&nbsp; &nbsp;  i) Presentar al Director Nacional, para que &#xE9;ste ejerza la facultad a que se refiere la letra a) del art&#xED;culo 28 del decreto con fuerza de ley N&#xBA; 5, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, de 1983, propuestas de normas para la aplicaci&#xF3;n y fiscalizaci&#xF3;n de las leyes y reglamentos sobre acuicultura.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9134451,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Cr&#xE9;ase, en el Servicio Nacional de Pesca, la Subdirecci&#xF3;n Nacional de Acuicultura, a cargo de un Subdirector, cuya funci&#xF3;n ser&#xE1; planificar y coordinar, a nivel nacional, regional y local, la fiscalizaci&#xF3;n y otras funciones en materia de acuicultura en el &#xE1;mbito del Servicio.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Cr&#xE9;ase, en el Servicio Nacional de Pesca,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1042556&amp;idParte=9286790&amp;idVersion=2012-08-03\">Ley 20597<br>Art. 3 N&#xBA; 1<br>D.O. 03.08.2012</a></span> la Subdirecci&#xF3;n Nacional de Acuicultura, cuya funci&#xF3;n ser&#xE1; planificar y coordinar, a nivel nacional, regional y local, la fiscalizaci&#xF3;n y otras funciones en materia de acuicultura en el &#xE1;mbito del Servicio. La Subdirecci&#xF3;n estar&#xE1; a cargo de un Subdirector Nacional de Acuicultura, grado 4&#xBA; de la Escala &#xDA;nica de Sueldos, de Segundo Nivel Jer&#xE1;rquico y que estar&#xE1; afecto al Sistema de Alta Direcci&#xF3;n P&#xFA;blica.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1042556,
+      "fecha": "2012-08-03"
+    }
+  }
+]

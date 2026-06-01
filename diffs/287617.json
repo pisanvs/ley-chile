@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-04-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8084830,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA;: Los establecimientos destinados a la explotaci&#xF3;n comercial, regulada por la presente ordenanza, y que en la actualidad se encuentran funcionando sin los permisos municipales correspondientes, deber&#xE1;n regularizar su situaci&#xF3;n en un plazo m&#xE1;ximo de 30 d&#xED;as corridos, contados desde la vigencia de esta ordenanza.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1000933&amp;idParte=8505834&amp;idVersion=2009-04-03\">Decreto 110 EXENTO,<br>M. DE SAN CARLOS <br>D.O. 03.04.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo 13&#xB0;: Los establecimientos destinados a la explotaci&#xF3;n comercial regulada por la presente ordenanza y que en la actualidad se encuentran funcionando sin los permisos municipales correspondientes deber&#xE1;n regularizar su situaci&#xF3;n en un plazo m&#xE1;ximo de 30 d&#xED;as corridos contados desde la vigencia de esta Ordenanza, otorg&#xE1;ndose un plazo adicional de 90 d&#xED;as corridos solo para presentar el informe o certificado referido en el art&#xED;culo 3&#xBA; de esta Ordenanza, debiendo cumplir con las restantes normativas o exigencias.</div><div class=\"p\">&nbsp; &nbsp;  En el intertanto y mientras dicho informe o certificado no se acompa&#xF1;e cualquier permiso municipal tendr&#xE1; el car&#xE1;cter de precario o transitorio.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1000933,
+      "fecha": "2009-04-03"
+    }
+  }
+]

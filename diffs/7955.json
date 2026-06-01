@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "1984-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-04-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1989-04-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9037835,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 21&#xB0;.- El Bienestar se financiar&#xE1; con los siguientes ingresos:</div><div class=\"p\">&nbsp; &nbsp; a) Con una cuota de incorporaci&#xF3;n cuyo monto fijar&#xE1; la Junta, la cual no podr&#xE1; ser superior al 3% de la remuneraci&#xF3;n mensual imponible del funcionario activo, y del 2% de la pensi&#xF3;n en el caso de los jubilados;</div><div class=\"p\">&nbsp; &nbsp; b) Con el aporte mensual de sus afiliados en servicio activo equivalente al 1% de sus remuneraciones imponibles;</div><div class=\"p\">&nbsp; &nbsp; c) Con el aporte mensual de sus afiliados jubilados equivalente al 0,5 de sus pensiones m&#xE1;s la cantidad correspondiente al aporte institucional.</div><div class=\"p\">&nbsp; &nbsp; d) Con la suma que anualmente se consulte, conforme a lo dispuesto en la legislaci&#xF3;n vigente, en los Presupuestos de los Servicios de Registro Civil e Identificaci&#xF3;n, M&#xE9;dico Legal y Nacional de Menores.</div><div class=\"p\">&nbsp; &nbsp; e) Con los intereses de los pr&#xE9;stamos concedidos a sus afiliados;</div><div class=\"p\">&nbsp; &nbsp; f) Con las bonificaciones y porcentajes provenientes de los convenios que paguen las casas comerciales y empresas industriales por las compras que efect&#xFA;e el personal afiliado;</div><div class=\"p\">&nbsp; &nbsp; g) Con los aportes o cuotas voluntarias y/o extraordinarias que puedan efectuar los afiliados para fines espec&#xED;ficos, y</div><div class=\"p\">&nbsp; &nbsp; h) Con los dem&#xE1;s bienes o recursos que el Bienestar obtenga a cualquier t&#xED;tulo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 21&#xB0;.- El Bienestar se financiar&#xE1; con los siguientes ingresos:</div><div class=\"p\">&nbsp; &nbsp; a) Con una cuota de incorporaci&#xF3;n cuyo monto fijar&#xE1;<span class=\"n\" id=\"n_0\">DS 141<br>PREVISION<br>1989, ART<br>UNICO</span> la junta, la cual no podr&#xE1; ser superior al 3% de la remuneraci&#xF3;n mensual imponible para pensiones y de jubilaci&#xF3;n en su caso.</div><div class=\"p\">&nbsp; &nbsp; b) Con el aporte mensual de sus afiliados en servicio activo cuyo monto fijar&#xE1; la junta, el cual no podr&#xE1; exceder al 1% de la remuneraci&#xF3;n mensual imponible para pensiones.</div><div class=\"p\">&nbsp; &nbsp; c) Con el aporte mensual de sus afiliados jubilados cuyo monto fijar&#xE1; la junta, el cual no podr&#xE1; exceder del 1% de sus pensiones, m&#xE1;s la cantidad correspondiente al aporte institucional.</div><div class=\"p\">&nbsp; &nbsp; d) Con la suma que anualmente se consulte, conforme a lo dispuesto en la legislaci&#xF3;n vigente, en los Presupuestos de los Servicios de Registro Civil e Identificaci&#xF3;n, M&#xE9;dico Legal y Nacional de Menores.</div><div class=\"p\">&nbsp; &nbsp; e) Con los intereses de los pr&#xE9;stamos concedidos a sus afiliados;</div><div class=\"p\">&nbsp; &nbsp; f) Con las bonificaciones y porcentajes provenientes de los convenios que paguen las casas comerciales y empresas industriales por las compras que efect&#xFA;e el personal afiliado;</div><div class=\"p\">&nbsp; &nbsp; g) Con los aportes o cuotas voluntarias y/o extraordinarias que puedan efectuar los afiliados para fines espec&#xED;ficos, y</div><div class=\"p\">&nbsp; &nbsp; h) Con los dem&#xE1;s bienes o recursos que el Bienestar obtenga a cualquier t&#xED;tulo.</div><br></div>"
+        },
+        {
+          "part_id": 9037848,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 29&#xB0;.- Para conceder un pr&#xE9;stamo la Junta deber&#xE1; considerar, especialmente, las posibilidades de recuperaci&#xF3;n de los dineros prestados. Adem&#xE1;s, ser&#xE1; requisito indispensable la constituci&#xF3;n de la garant&#xED;a de dos codeudores solidarios, que sean funcionarios de las correspondientes plantas de los Servicios a los que pertenece el Bienestar, los cuales deber&#xE1;n contar con el m&#xED;nimo de dos a&#xF1;os de afiliaci&#xF3;n al Bienestar y su solvencia ser&#xE1; calificada por la Junta.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 29&#xB0;.- Para conceder un pr&#xE9;stamo la Junta<span class=\"n\" id=\"n_1\">DS 71<br>PREV.1989<br>ART.UNICO<br>N&#xB0; 1</span> deber&#xE1; considerar, especialmente, las posibilidades de recuperaci&#xF3;n de los dineros prestados. Adem&#xE1;s, ser&#xE1; requisito indispensable la constituci&#xF3;n de la garant&#xED;a de dos codeudores solidarios, que sean afiliados al Bienestar y su solvencia ser&#xE1; calificada por la Junta.</div><br></div>"
+        },
+        {
+          "part_id": 9037861,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 40&#xB0;.- El derecho a impetrar los beneficios que concede el Bienestar caducar&#xE1; en el plazo de 3 meses contados desde la fecha en que ocurri&#xF3; el hecho por el cual se solicita el respectivo beneficio.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 40&#xB0;.- El derecho a impetrar los beneficios que concede el Bienestar caducar&#xE1; en el plazo de 3 meses contados desde la fecha en que ocurri&#xF3; el hecho por el cual se solicita el respectivo beneficio.</div><div class=\"p\">&nbsp; &nbsp; En el caso de los funcionarios que se acogen a<span class=\"n\" id=\"n_2\">DS 71 PREV.<br>1989, ART.<br>UNICO N&#xB0; 2</span> jubilaci&#xF3;n, este plazo comenzar&#xE1; a regir desde la fecha en que se declare la calidad de tal, para los beneficios causados en el per&#xED;odo comprendido entre<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:&nbsp; 1</a></div> esta fecha y la del cese de sus funciones.</div><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  La Contralor&#xED;a General de la Rep&#xFA;blica, curs&#xF3; con alcance el DS 71, de Previsi&#xF3;n, de 1989, haciendo presente que, para percibir los beneficios producidos en el lapso comprendido entre el cese de funciones y la fecha en que quede totalmente tramitado el acto que concede la jubilaci&#xF3;n, es necesario que el afiliado efect&#xFA;e las cotizaciones de bienestar correspondientes a todo ese per&#xED;odo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-10-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-01-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10062935,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese la subdivisi&#xF3;n de la Zona de Inter&#xE9;s P&#xFA;blico nominada &quot;Plan Integral La Legua&quot; que involucra a las comunas de San Joaqu&#xED;n, Santiago, Macul San Miguel y &#xD1;u&#xF1;oa la cual se define por:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/99235.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Subdividi&#xE9;ndose en las siguientes Zonas de Inter&#xE9;s P&#xFA;blico:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  A) &quot;Plan Integral La Legua a&#xF1;o 2019&quot; comprendida en los l&#xED;mites que a continuaci&#xF3;n se se&#xF1;alan:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/99236.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  B) &quot;Regeneraci&#xF3;n de &#xC1;rea Central Matadero Franklin B&#xED;o-B&#xED;o&quot; de la comuna de Santiago, abordando el &#xE1;rea comprendida entre los l&#xED;mites que a continuaci&#xF3;n se se&#xF1;alan:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/99237.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en el Diario Oficial para su publicidad respecto de terceros.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese la subdivisi&#xF3;n de la Zona de Inter&#xE9;s P&#xFA;blico nominada &quot;Plan Integral La Legua&quot; que involucra a las comunas de San Joaqu&#xED;n, Santiago, Macul San Miguel y &#xD1;u&#xF1;oa la cual se define por:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/99235.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Subdividi&#xE9;ndose en las siguientes Zonas de Inter&#xE9;s P&#xFA;blico<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  A) &quot;Plan Integral La Legua a&#xF1;o 2019&quot; comprendida en los l&#xED;mites que a continuaci&#xF3;n se se&#xF1;alan:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/99236.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  B) &quot;Regeneraci&#xF3;n de &#xC1;rea Central Matadero Franklin B&#xED;o-B&#xED;o&quot; de la comuna de Santiago, abordando el &#xE1;rea comprendida entre los l&#xED;mites que a continuaci&#xF3;n se se&#xF1;alan:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/99237.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en el Diario Oficial para su publicidad respecto de terceros.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1 de la Resoluci&#xF3;n 582 Exenta, Vivienda, publicada el 11.01.2023, dispone modificar la presente resoluci&#xF3;n en el sentido de separar de la Zona de Inter&#xE9;s P&#xFA;blico &quot;Regeneraci&#xF3;n de &#xC1;rea Central Matadero Franklin B&#xED;o B&#xED;o&quot; y de la zona denominada &quot;Plan Integral La Legua a&#xF1;o 2019&quot;, el &#xE1;rea de influencia de Avenida Centenario, generando los pol&#xED;gonos descritos en las letras a), b) y c), de la citada norma. Adicionalmente, divide la Zona de Inter&#xE9;s P&#xFA;blico &quot;Ciudad Parque Bicentenario - Maestranza&quot;, en dos &#xE1;reas denominadas Zona de Inter&#xE9;s P&#xFA;blico &#x201C;Plan Urbano Habitacional Cerrillos&#x201D; y Zona de Inter&#xE9;s P&#xFA;blico &#x201C;&#xC1;rea Intercomunal Cerrillos-PAC-Santiago&#x201D;, definidas por los l&#xED;mites descritos en las letras a) y b) de la misma norma antes mencionada. </div></div>"
+        }
+      ]
+    }
+  }
+]

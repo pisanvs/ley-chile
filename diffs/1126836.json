@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-12-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-03-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9978591,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Recon&#xF3;zcanse, en el marco del &quot;Acuerdo de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Licenciaturas y T&#xED;tulos de Grado Universitarios entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica Argentina&quot;, suscrito el 16 de marzo de 2013, los t&#xED;tulos de grado obtenidos en las universidades argentinas que se indican a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86733.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Recon&#xF3;zcanse, en el marco del &quot;Acuerdo de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Licenciaturas y T&#xED;tulos de Grado Universitarios entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica Argentina&quot;, suscrito el 16 de marzo de 2013, los t&#xED;tulos de grado obtenidos en las universidades argentinas que se indican a continuaci&#xF3;n:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/86733.jpg\">.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo de la Resoluci&#xF3;n 1619 Exenta, Educaci&#xF3;n, publicada el 21.03.2019, rectifica el N&#xB0; 1 del listado, en la parte que dice &quot;01 de marzo de 2016&quot;, debiera decir &quot;01 de marzo de 2006&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

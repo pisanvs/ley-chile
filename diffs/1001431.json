@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2009-04-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-02-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8564311,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaciones para los a&#xF1;os 2009 y siguientes, para la ejecuci&#xF3;n de diversos programas de inversi&#xF3;n sobre Saneamiento de Aguas Lluvia, Vialidad Urbana y Programa de Recuperaci&#xF3;n de Barrios en la Regi&#xF3;n del B&#xED;o B&#xED;o, que se indican a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  Superficie inmuebles a expropiar: 645.310 m2</div><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 24.04.2009, P&#xC1;GINA 9.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de cada provincia de la Regi&#xF3;n del B&#xED;o B&#xED;o en que lo hubiere.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xBA;.- Apru&#xE9;base el siguiente programa de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>expropiaciones para los a&#xF1;os 2009 y siguientes, para la ejecuci&#xF3;n de diversos programas de inversi&#xF3;n sobre Saneamiento de Aguas Lluvia, Vialidad Urbana y Programa de Recuperaci&#xF3;n de Barrios en la Regi&#xF3;n del B&#xED;o B&#xED;o, que se indican a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  Superficie inmuebles a expropiar: 645.310 m2</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/64960.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/64961.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de cada provincia de la Regi&#xF3;n del B&#xED;o B&#xED;o en que lo hubiere.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; del Decreto 27 Exento, Vivienda, publicado el 24.02.2017, modifica la presente norma en el sentido de ampliar el Plan de Expropiaciones en la Regi&#xF3;n de Biob&#xED;o para la ejecuci&#xF3;n del proyecto &quot;Corredor de Transporte P&#xFA;blico Talcahuano-Concepci&#xF3;n&quot;, mediante la incorporaci&#xF3;n del tramo Perales-Alessandri, c&#xF3;digo BIP 30123633-0, recomendado favorablemente por el Ministerio de Desarrollo Social para el proceso presupuestario 2017.</div></div>"
+        }
+      ]
+    }
+  }
+]

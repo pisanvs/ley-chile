@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2001-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-08-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7287238,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- El Servicio de Tesorer&#xED;as podr&#xE1; otorgar los diferentes porcentajes de condonaci&#xF3;n que establece esta resoluci&#xF3;n s&#xF3;lo por una vez dentro de un a&#xF1;o calendario y para un mismo contribuyente. La condonaci&#xF3;n de intereses y sanciones as&#xED; dispuesta, en la sola oportunidad se&#xF1;alada, se podr&#xE1; aplicar al total de la deuda tributaria del contribuyente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- El Servicio de Tesorer&#xED;as podr&#xE1; otorgar los diferentes porcentajes de condonaci&#xF3;n que establece esta resoluci&#xF3;n s&#xF3;lo por una vez dentro de un a&#xF1;o calendario y para un mismo contribuyente. La condonaci&#xF3;n de intereses y sanciones as&#xED; dispuesta, en la sola oportunidad se&#xF1;alada, se podr&#xE1; aplicar al total de la deuda tributaria del contribuyente. Respecto de los pagos por concepto de impuestos<span class=\"n\" id=\"n_0\">RES 559 EXENTA,<br>HACIENDA<br>D.O. 23.08.2002</span> y recargos que de acuerdo al art&#xED;culo 50 del C&#xF3;digo Tributario se considerar&#xE1;n como abonos a la deuda, el Tesorero General podr&#xE1; conceder la condonaci&#xF3;n que se autoriza en esta resoluci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-07-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7287231,
+          "old": "<div><div class=\"p\">DICTA NORMAS SOBRE CONDONACION DE DEUDAS PARA CONTRIBUYENTES</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.321 exenta.- Santiago, 8 de noviembre de 2001.- Vistos: Lo dispuesto en el art&#xED;culo 192 del C&#xF3;digo Tributario, modificado por el art&#xED;culo 1&#xBA; letra r) de la ley N&#xBA; 19.738, dicto la siguiente, </div><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><div class=\"p\">&nbsp; &nbsp;  En el uso de la facultad para condonar total o parcialmente los intereses y sanciones por la mora en el pago de los impuestos sujetos a la cobranza administrativa y judicial, que le otorga el C&#xF3;digo Tributario al Tesorero General de la Rep&#xFA;blica, se deber&#xE1;n aplicar las siguientes normas o criterios para determinar el monto de la condonaci&#xF3;n a que tendr&#xE1;n derecho los contribuyentes:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DICTA NORMAS SOBRE CONDONACION DE DEUDAS PARA CONTRIBUYENTES</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.321 exenta.- Santiago, 8 de noviembre de 2001.- Vistos: Lo dispuesto en el art&#xED;culo 192 del C&#xF3;digo Tributario, modificado por el art&#xED;culo 1&#xBA; letra r) de la ley N&#xBA; 19.738, dicto la siguiente, </div><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><div class=\"p\">&nbsp; &nbsp;  En el uso de la facultad para condonar total o parcialmente los intereses y sanciones por la mora en el pago de los impuestos sujetos a la cobranza administrativa y judicial, que le otorga el C&#xF3;digo Tributario al Tesorero General de la Rep&#xFA;blica, se deber&#xE1;n aplicar las siguientes normas o criterios para determinar el monto de la condonaci&#xF3;n a que tendr&#xE1;n derecho los contribuyentes:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-04-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-05-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7368344,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Reempl&#xE1;cese, en la letra g) del art&#xED;culo 2&#xBA; del decreto N&#xBA; 382, de 2006, del Ministerio de Hacienda, la expresi&#xF3;n &quot;25%&quot; por &quot;85%&quot;. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Reempl&#xE1;cese, en la letra g) del art&#xED;culo 2&#xBA; del decreto N&#xBA; 1.382, de 2006, del<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 13.05.2008</span> Ministerio de Hacienda, la expresi&#xF3;n &quot;25%&quot; por &quot;85%&quot;.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

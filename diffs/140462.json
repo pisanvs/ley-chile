@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-05-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-05-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8972794,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Un ejemplar de dicho texto, autorizado por las firmas del Presidente de la Rep&#xFA;blica y del Ministerio de Justicia, se depositar&#xE1; en esta Secretar&#xED;a de Estado y otro en la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Este texto se tendr&#xE1; por el aut&#xE9;ntico del C&#xF3;digo Tributario y a &#xE9;l deber&#xE1;n conformarse las dem&#xE1;s ediciones y publicaciones que del citado C&#xF3;digo se hagan.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Un ejemplar de dicho texto, autorizado por las firmas del Presidente de la Rep&#xFA;blica y del Ministro de Justicia, se depositar&#xE1; en esta<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 23.05.1988</span> Secretar&#xED;a de Estado y otro en la Contralor&#xED;a General de la Rep&#xFA;blica. Este texto se tendr&#xE1; por el aut&#xE9;ntico del C&#xF3;digo Tributario y a &#xE9;l deber&#xE1;n conformarse las dem&#xE1;s ediciones y publicaciones que del citado C&#xF3;digo se hagan. </div></div>"
+        }
+      ]
+    }
+  }
+]

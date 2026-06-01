@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9392905,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA; 2312, de 29 de noviembre de 2013, y en base a la facultad otorgada por el art&#xED;culo 3&#xBA; letra a), 14&#xBA; letra e) y 105 del D.F.L. M.O.P. N&#xBA; 850 de 1997, que fij&#xF3; el texto actualizado de la Ley N&#xBA; 15.840, se expropi&#xF3; el lote de terreno N&#xBA;29, para la obra &quot;CONSTRUCCI&#xD3;N EMBALSE PUNILLA, REGI&#xD3;N DEL BIOB&#xCD;O&quot;, que figura a nombre de CARO QUEZADA JUAN ENRIQUE, rol de aval&#xFA;o 59-88, Comuna de SAN FABI&#xC1;N, VIII Regi&#xF3;n del B&#xED;o B&#xED;o, superficie 15.720 m2. La Comisi&#xF3;n de Peritos integrada por MARCELA ALEJANDRA REDARD AYALA, MIGUEL JUAN FERN&#xC1;NDEZ C&#xC1;DIZ y CARMEN PILAR R&#xCD;OS MARCUELLO, mediante informe de tasaci&#xF3;n de 04 de diciembre de 2013, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $35.684.000.- para el lote N&#xBA; 29. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1057711&amp;idParte=9395521&amp;idVersion=2014-01-02\">Aviso S/N,<br>OBRAS P&#xDA;BLICAS<br>D.O. 02.01.2014</a></span>&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA; 2312 de 9 de diciembre de 2013, y en base a la facultad otorgada por el art&#xED;culo 3&#xBA; letra a), 14&#xBA; letra e) y 105 del D.F.L. M.O.P. N&#xBA; 850 de 1997, que fij&#xF3; el texto actualizado de la Ley N&#xBA; 15.840, se expropi&#xF3; el lote de terreno N&#xBA;29, para la obra &quot;CONSTRUCCI&#xD3;N EMBALSE PUNILLA, REGI&#xD3;N DEL BIOB&#xCD;O&quot;, que figura a nombre de CARO QUEZADA JUAN ENRIQUE, rol de aval&#xFA;o 59-88, Comuna de SAN FABI&#xC1;N, VIII Regi&#xF3;n del B&#xED;o B&#xED;o, superficie 15.720 m2. La Comisi&#xF3;n de Peritos integrada por MARCELA ALEJANDRA REDARD AYALA, MIGUEL JUAN FERN&#xC1;NDEZ C&#xC1;DIZ y CARMEN PILAR R&#xCD;OS MARCUELLO, mediante informe de tasaci&#xF3;n de 04 de diciembre de 2013, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $35.684.000.- para el lote N&#xBA; 29. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1057711,
+      "fecha": "2014-01-02"
+    }
+  }
+]

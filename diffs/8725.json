@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-06-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-03-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5890874,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA PLAN TECNICO FUNDAMENTAL DE NUMERACION TELEX N&#xFA;m. 73.- Santiago, 7 de Abril de 1982.- Vistos: Lo dispuesto en el art&#xED;culo 32, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica, DFL. N&#xB0; 4 de 1959, el D.L. N&#xB0; 1.762 de 1977 y el D.S. N&#xB0; 423 de 1978 de la Pol&#xED;tica Nacional de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; La necesidad de establecer normas relacionadas con la operaci&#xF3;n y explotaci&#xF3;n de las redes t&#xE9;lex p&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp; La importancia que significa la determinaci&#xF3;n de estas normas tanto en el desarrollo de estos servicios como en el interfuncionamiento de la red nacional interconectada.</div><div class=\"p\">&nbsp; &nbsp; La conveniencia de comenzar la normalizaci&#xF3;n indicada con la definici&#xF3;n de las materias relacionadas con la numeraci&#xF3;n a emplearse en las redes nacionales.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA PLAN TECNICO FUNDAMENTAL DE NUMERACION TELEX </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 73.- Santiago, 7 de Abril de 1982.- Vistos: Lo dispuesto en el art&#xED;culo 32, N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica, DFL. N&#xB0; 4 de 1959, el D.L. N&#xB0; 1.762 de 1977 y el D.S. N&#xB0; 423 de 1978 de la Pol&#xED;tica Nacional de Telecomunicaciones.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; La necesidad de establecer normas relacionadas con la operaci&#xF3;n y explotaci&#xF3;n de las redes t&#xE9;lex p&#xFA;blicas.</div><div class=\"p\">&nbsp; &nbsp; La importancia que significa la determinaci&#xF3;n de estas normas tanto en el desarrollo de estos servicios como en el interfuncionamiento de la red nacional interconectada.</div><div class=\"p\">&nbsp; &nbsp; La conveniencia de comenzar la normalizaci&#xF3;n indicada con la definici&#xF3;n de las materias relacionadas con la numeraci&#xF3;n a emplearse en las redes nacionales.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

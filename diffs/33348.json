@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1994-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949264,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; COMPLEMENTA RESOLUCION N&#xB0; 157, DE 1990</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 132.- Santiago, 25 de Mayo de 1994.- Visto: Lo dispuesto en las leyes N&#xB0;s. 18.059, 18.290 y 18.696; en las resoluciones N&#xB0;s. 157/90 y 48/91 y en los decretos supremos N&#xB0;s 168/93 y 1/94, todos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes,</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; COMPLEMENTA RESOLUCION N&#xB0; 157, DE 1990</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 132.- Santiago, 25 de Mayo de 1994.- Visto: Lo dispuesto en las leyes N&#xB0;s. 18.059, 18.290 y 18.696; en las resoluciones N&#xB0;s. 157/90 y 48/91 y en los decretos supremos N&#xB0;s 168/93 y 1/94, todos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes,</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        },
+        {
+          "part_id": 8949265,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1.- A contar del 1&#xB0; de enero de 1997 los buses que presten servicios p&#xFA;blicos de transportes remunerado de pasajeros deber&#xE1;n tener una antig&#xFC;edad inferior a 23 a&#xF1;os, exceptuados los que operen en las ciudades, provincia o comunas, a que se refieren los decretos supremos N&#xB0;s. 1/94 y 168/93 y la resoluci&#xF3;n N&#xB0; 48/91, del Ministerio de Transportes y Telecomunicaciones, Subsecretaria de Tansportes, los que no podr&#xE1;n exceder de la antig&#xFC;edad m&#xE1;xima que para cada caso estas disposiciones se&#xF1;alan.</div><div class=\"p\">&nbsp; &nbsp; 2.- Las Plantas Revisoras, a contar de la fecha se&#xF1;alada en el n&#xFA;mero 1.- anterior, sin perjuicio de otorgar el respectivo certificado de revisi&#xF3;n t&#xE9;cnica, cuando procediere, deber&#xE1;n dejar constancia en el mismo documento y en forma claramente visible, que los veh&#xED;culos cuya antig&#xFC;edad sea de 23 o m&#xE1;s a&#xF1;os no son aptos para realizar transporte p&#xFA;blico remunerado de pasajeros.</div><div class=\"p\">&nbsp; &nbsp; 3.- Para efectos de esta resoluci&#xF3;n, se calcular&#xE1; la antig&#xFC;edad restando al a&#xF1;o en que se realiza el c&#xF3;mputo, el a&#xF1;o de modelo del veh&#xED;culo correspondiente, entendi&#xE9;ndose por a&#xF1;o de modelo del veh&#xED;culo el a&#xF1;o de su fabricaci&#xF3;n anotado en el Registro Nacional de Veh&#xED;culos Motorizados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1.- A contar del 1&#xB0; de enero de 1997 los buses que presten servicios p&#xFA;blicos de transportes remunerado de pasajeros deber&#xE1;n tener una antig&#xFC;edad inferior a 23 a&#xF1;os, exceptuados los que operen en las ciudades, provincia o comunas, a que se refieren los decretos supremos N&#xB0;s. 1/94 y 168/93 y la resoluci&#xF3;n N&#xB0; 48/91, del Ministerio de Transportes y Telecomunicaciones, Subsecretaria de Tansportes, los que no podr&#xE1;n exceder de la antig&#xFC;edad m&#xE1;xima que para cada caso estas disposiciones se&#xF1;alan. A contar del 1 de junio de 2001, los buses que<span class=\"n\" id=\"n_0\">RES 39, TRANSPORTES<br>D.O. 24.06.2000</span> presten servicios interurbanos de transporte p&#xFA;blico de pasajeros con origen/destino en la Regi&#xF3;n Metropolitana o cuyo itinerario comprenda cualquier ciudad de dicha regi&#xF3;n, deber&#xE1;n tener una antiguedad no superior a 18 a&#xF1;os. 2.- Las Plantas Revisoras, a contar de la fecha se&#xF1;alada en el n&#xFA;mero 1.- anterior, sin perjuicio de otorgar el respectivo certificado de revisi&#xF3;n t&#xE9;cnica, cuando procediere, deber&#xE1;n dejar constancia en el mismo documento y en forma claramente visible, que los veh&#xED;culos cuya antig&#xFC;edad sea de 23 o m&#xE1;s a&#xF1;os no son aptos para realizar transporte p&#xFA;blico remunerado de pasajeros. 3.- Para efectos de esta resoluci&#xF3;n, se calcular&#xE1; la antig&#xFC;edad restando al a&#xF1;o en que se realiza el c&#xF3;mputo, el a&#xF1;o de modelo del veh&#xED;culo correspondiente, entendi&#xE9;ndose por a&#xF1;o de modelo del veh&#xED;culo el a&#xF1;o de su fabricaci&#xF3;n anotado en el Registro Nacional de Veh&#xED;culos Motorizados. </div></div>"
+        }
+      ]
+    }
+  }
+]

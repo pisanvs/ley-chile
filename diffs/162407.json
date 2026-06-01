@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-04-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9063860,
+          "old": "<div><div class=\"p\">DECLARA SITUACION DE LAS ASIGNATURAS ELECTIVAS. NO OBLIGATORIAS CONTEMPLADAS EN EL PLAN DE ESTUDIO ESPECIAL APROBADO A REDLAND SCHOOL, DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 351.- Santiago, 19 de Diciembre de 1985.- Considerando:</div><div class=\"p\">Que Redland School de Santiago, establecimiento de Ense&#xF1;anza Privada declarado cooperador de la funci&#xF3;n educacional del Estado, se rige en la Educaci&#xF3;n Media Human&#xED;stico Cient&#xED;fica, por el plan de estudio especial aprobado por Decreto Supremo de Educaci&#xF3;n No. 988 de 1979, que consulta cuatro asignaturas electivas obligatorias para los alumnos de 2do., 3ro. y 4to. a&#xF1;o de Educaci&#xF3;n Media Human&#xED;stico Cient&#xED;fica:</div><div class=\"p\">Que no obstante lo anterior, desde 1979 hasta 1985, inclusive, el establecimiento autoriz&#xF3; a algunos alumnos de los cursos mencionados para cursar asignaturas electivas en un n&#xFA;mero superior a las dispuestas en el Decreto mencionado, sin incidencia en la promoci&#xF3;n escolar: Que es necesario regularizar la situaci&#xF3;n producida; y Visto: Lo dispuesto en los Decretos Supremos de Educaci&#xF3;n Nos. 988 de 1979; 2039 y 9555 ambos de 1980; Decreto Supremo Exento de Educaci&#xF3;n No. 198 de 1982; Resoluci&#xF3;n No. 1050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica y en los Art&#xED;culos 32 No. 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA SITUACION DE LAS ASIGNATURAS ELECTIVAS. NO</div><div class=\"p\">OBLIGATORIAS CONTEMPLADAS EN EL PLAN DE ESTUDIO ESPECIAL</div><div class=\"p\">APROBADO A REDLAND SCHOOL, DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 351 Exento.- Santiago, 19 de Diciembre de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 28.04.1986</span> 1985.-</div><div class=\"p\">Considerando:</div><div class=\"p\">Que Redland School de Santiago, establecimiento de Ense&#xF1;anza Privada declarado cooperador de la funci&#xF3;n educacional del Estado, se rige en la Educaci&#xF3;n Media Human&#xED;stico Cient&#xED;fica, por el plan de estudio especial aprobado por Decreto Supremo de Educaci&#xF3;n No. 988 de 1979, que consulta cuatro asignaturas electivas obligatorias para los alumnos de 2do., 3ro. y 4to. a&#xF1;o de Educaci&#xF3;n Media Human&#xED;stico Cient&#xED;fica:</div><div class=\"p\">Que no obstante lo anterior, desde 1979 hasta 1985, inclusive, el establecimiento autoriz&#xF3; a algunos alumnos de los cursos mencionados para cursar asignaturas electivas en un n&#xFA;mero superior a las dispuestas en el Decreto mencionado, sin incidencia en la promoci&#xF3;n escolar:</div><div class=\"p\">Que es necesario regularizar la situaci&#xF3;n producida; y Visto: Lo dispuesto en los Decretos Supremos de Educaci&#xF3;n Nos. 988 de 1979; 2039 y 9555 ambos de 1980; Decreto Supremo Exento de Educaci&#xF3;n No. 198 de 1982; Resoluci&#xF3;n No. 1050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica y en los Art&#xED;culos 32 No. 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; Decreto:</div><br></div>"
+        }
+      ]
+    }
+  }
+]

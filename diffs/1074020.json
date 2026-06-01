@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-01-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9551846,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;banse las n&#xF3;minas de damnificados seleccionados para la asignaci&#xF3;n del subsidio habitacional correspondiente al mes de diciembre de 2014, para el llamado especial dispuesto por el resuelvo 1&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 3.134, de este Ministerio, de 2014, n&#xF3;minas que se entender&#xE1; forman parte integrante de esta resoluci&#xF3;n, y f&#xED;jase el n&#xFA;mero de damnificados con subsidios asignados por Regi&#xF3;n y modalidad de aplicaci&#xF3;n del subsidio, seg&#xFA;n se indica en la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/46858.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- F&#xED;jase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio directo para la atenci&#xF3;n de los damnificados asignados con subsidio habitacional a que se refiere el n&#xFA;mero anterior, por Regi&#xF3;n y modalidad de aplicaci&#xF3;n del subsidio, seg&#xFA;n se indica en la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/46859.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;banse las n&#xF3;minas de damnificados seleccionados para la asignaci&#xF3;n del subsidio habitacional correspondiente al mes de diciembre de 2014, para el llamado especial dispuesto por el resuelvo 1&#xBA; de la resoluci&#xF3;n exenta N&#xBA; 3.134, de este Ministerio, de 2014, n&#xF3;minas que se entender&#xE1; forman parte integrante de esta resoluci&#xF3;n, y f&#xED;jase el n&#xFA;mero de damnificados con subsidios asignados por Regi&#xF3;n y modalidad de aplicaci&#xF3;n del subsidio, seg&#xFA;n se indica en la siguiente tabla:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1090816&amp;idParte=9704119&amp;idVersion=2016-05-27\">Resoluci&#xF3;n 3294 EXENTA,<br>VIVIENDA<br>N&#xB0; 4<br>D.O. 27.05.2016</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/58117.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- F&#xED;jase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio directo para la atenci&#xF3;n de los damnificados asignados con subsidio habitacional a que se refiere el n&#xFA;mero anterior, por Regi&#xF3;n y modalidad de aplicaci&#xF3;n del subsidio, seg&#xFA;n se indica en la siguiente tabla:</div><div class=\"p\">&nbsp;  <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1090816&amp;idParte=9704119&amp;idVersion=2016-05-27\">Resoluci&#xF3;n 3294 EXENTA,<br>VIVIENDA<br>N&#xB0; 4<br>D.O. 27.05.2016</a></span>&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  .<img class=\"img-responsive\" src=\"Navegar/imagen/JPG/58118.jpg\">.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1090816,
+      "fecha": "2016-05-27"
+    }
+  }
+]

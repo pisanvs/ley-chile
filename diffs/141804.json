@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-08-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6186389,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Por decreto M0P No. 1.45, de 21 de junio de 1999, y en base a la facultad otorgada por el art&#xED;culo 105 del DFL MOP No. 850, de 1997, que fij&#xF3; el texto actualizado de la ley No. 15.840, se expropi&#xF3; el lote de terreno No. 5-A, para la obra Camino Ruta D-485, sector Paihuano-Pisco Elqui, que figura a nombre de la Sucesi&#xF3;n Francisca Pinto vd. Pinto, rol de aval&#xFA;o 131-10, comuna de Paihuano, superficie 55 m2. La Comisi&#xF3;n de Peritos compuesta por los se&#xF1;ores Alfredo Prieto Parra, Iris Marcich Moller y Juan Ib&#xE1;&#xF1;ez Palma, fij&#xF3; con fecha 13 de octubre de 1998, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $ 562.500. La indemnizaci&#xF3;n se pagar&#xE1;&nbsp; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 75 del decreto ley No. 2.86, de 1978.-</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Por decreto M0P No. 1.545, de 21 de junio de 1999, y en<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 01.09.1999</span> base a la facultad otorgada por el art&#xED;culo 105 del DFL MOP No. 850, de 1997, que fij&#xF3; el texto actualizado de la ley No. 15.840, se expropi&#xF3; el lote de terreno No. 5-A, para la obra Camino Ruta D-485, sector Paihuano-Pisco Elqui, que figura a nombre de la Sucesi&#xF3;n Francisca Pinto vd. Pinto, rol de aval&#xFA;o 131-10, comuna de Paihuano, superficie 55 m2. La Comisi&#xF3;n de Peritos compuesta por los se&#xF1;ores Alfredo Prieto Parra, Iris Marcich Moller y Juan Ib&#xE1;&#xF1;ez Palma, fij&#xF3; con fecha 13 de octubre de 1998, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $ 562.500. La indemnizaci&#xF3;n se pagar&#xE1;&nbsp; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 75 del decreto ley No. 2.86, de 1978.-</div><br></div>"
+        }
+      ]
+    }
+  }
+]

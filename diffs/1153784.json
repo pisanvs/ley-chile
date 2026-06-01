@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-12-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10187015,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Encas&#xED;llase, sin soluci&#xF3;n de continuidad, a contar del d&#xED;a 1 de enero de 2020, al siguiente personal de planta de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica (Conicyt) a la Agencia Nacional de Investigaci&#xF3;n y Desarrollo (ANID), en los grados y estamentos que a continuaci&#xF3;n se indican:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/116811.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Encas&#xED;llase, sin soluci&#xF3;n de continuidad, a contar del d&#xED;a 1 de enero de 2020, al siguiente personal de planta de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica (Conicyt) a la Agencia Nacional de Investigaci&#xF3;n y Desarrollo (ANID), en los grados y estamentos que a continuaci&#xF3;n se indican:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1183759&amp;idParte=10376529&amp;idVersion=2022-11-03\">Decreto 25, CIENCIA<br>Art. primero<br>D.O. 03.11.2022</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/155884.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1183759,
+      "fecha": "2022-11-03"
+    }
+  }
+]

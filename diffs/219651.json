@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8200204,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, comun&#xED;quese, publ&#xED;quese y arch&#xED;vese.- Javier Pavez Moreno, Alcalde.- Angela Alvear Morales, Secretaria Municipal.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, comun&#xED;quese, publ&#xED;quese y arch&#xED;vese.- Jaime Pavez Moreno, Alcalde.- Angela Alvear Morales,<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 05.01.2004</span> Secretaria Municipal.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

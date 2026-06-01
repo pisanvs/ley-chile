@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-08-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-12-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10261729,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese que la cantidad m&#xED;nima de veh&#xED;culos que deben integrar la Uni&#xF3;n Temporal de Postulantes (UTP), en el contexto del programa especial de renovaci&#xF3;n de buses, minibuses, trolebuses y taxibuses establecido en el decreto supremo N&#xBA; 44, de 2011, del Ministerio de Transportes y Telecomunicaciones, es de 10 buses.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese que la cantidad m&#xED;nima de veh&#xED;culos que deben integrar la Uni&#xF3;n Temporal de Postulantes (UTP), en el contexto del programa especial de renovaci&#xF3;n de buses, minibuses, trolebuses y taxibuses establecido en el decreto supremo N&#xBA; 44, de 2011, del Ministerio de Transportes y Telecomunicaciones, es de 4 b<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1198714&amp;idParte=10474245&amp;idVersion=2023-12-04\">Resoluci&#xF3;n 4629 EXENTA,<br>TRANSPORTES<br>D.O. 04.12.2023</a></span>uses.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1198714,
+      "fecha": "2023-12-04"
+    }
+  }
+]

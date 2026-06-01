@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-08-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10360213,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, t&#xF3;mese raz&#xF3;n, notif&#xED;quese y publ&#xED;quese.- GABRIEL BORIC FONT, Presidente de la Rep&#xFA;blica.- Marcela Hern&#xE1;ndez P&#xE9;rez, Ministra de Miner&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  Lo que transcribo a usted, para su conocimiento.- Saluda atentamente a usted, Willy Kracht Gajardo, Subsecretario de Miner&#xED;a.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, t&#xF3;mese raz&#xF3;n, notif&#xED;quese y publ&#xED;quese.- GABRIEL BORIC FONT, Presidente de la Rep&#xFA;blica.- Marcela <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1180505&amp;idParte=10360589&amp;idVersion=2022-08-27\">Rectificaci&#xF3;n 2494<br>D.O. 27.08.2022</a></span>Hernando P&#xE9;rez, Ministra de Miner&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  Lo que transcribo a usted, para su conocimiento.- Saluda atentamente a usted, Willy Kracht Gajardo, Subsecretario de Miner&#xED;a.</div><div class=\"p\"> </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1180505,
+      "fecha": "2022-08-27"
+    }
+  }
+]

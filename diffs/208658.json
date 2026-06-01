@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-03-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-04-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6418065,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA; 2.084, de 28 de diciembre de 2001, modificado por decreto MOP N&#xBA; 2.337 de 31 de diciembre de 2002 y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del D.F.L. MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y del D.F.L. MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 1, para la obra: &quot;Concesi&#xF3;n Internacional Interconexi&#xF3;n Vial Santiago - Valpara&#xED;so -</div><div class=\"p\">Vi&#xF1;a del Mar. Tramo 6C1: Km. 38.620,00 a Km. 41.853,56&quot;; Quinta Regi&#xF3;n, que figura a nombre de Correa Saavedra Luis Eduardo, rol de aval&#xFA;o 103-22, comuna de Curacav&#xED;, superficie 2.998 m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Andr&#xE9;s Echeverr&#xED;a Campo, Andr&#xE9;s Ruiz Figueroa y Jaime Jurgens Bittner, fij&#xF3; con fecha 06 de noviembre de 2002, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $30.632.124.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA; 2.084, de 28 de diciembre de 2001, modificado por decreto MOP N&#xBA; 2.337 de 31 de diciembre de 2002 y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del D.F.L. MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y del D.F.L. MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 1, para la obra: &quot;Concesi&#xF3;n Internacional Interconexi&#xF3;n Vial Santiago - Valpara&#xED;so - Vi&#xF1;a del Mar. Tramo 6C1: Km. 38.620,00 a Km. 41.853,56&quot;; Regi&#xF3;n Metropolitana, que figura a nombre de Correa<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 01.04.2003</span> Saavedra Luis Eduardo, rol de aval&#xFA;o 103-22, comuna de Curacav&#xED;, superficie 2.998 m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Andr&#xE9;s Echeverr&#xED;a Campo, Andr&#xE9;s Ruiz Figueroa y Jaime Jurgens Bittner, fij&#xF3; con fecha 06 de noviembre de 2002, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $30.632.124.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978. </div></div>"
+        }
+      ]
+    }
+  }
+]

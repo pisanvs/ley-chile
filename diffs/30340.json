@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "1990-03-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-03-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8548690,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; transitorio.- Los funcionarios en actual servicio que, con motivo de la modificaci&#xF3;n del art&#xED;culo 7&#xB0; de la ley N&#xB0; 18.834, pasen a tener la calidad de exclusiva confianza, tendr&#xE1;n derecho a los beneficios que otorga el art&#xED;culo 2&#xB0; transitorio agregado a la ley N&#xB0; 18.575.</div><div class=\"p\">&nbsp; &nbsp; Al efecto el Presidente de la Rep&#xFA;blica crear&#xE1; un cargo en la planta de directivos del &#xD3;rgano o servicio correspondiente, de igual grado y remuneraci&#xF3;n al que acceder&#xE1; el funcionario que ejerza la opci&#xF3;n. Estos cargos constituir&#xE1;n dotaci&#xF3;n adicional y se extinguir&#xE1;n de pleno derecho al momento del cese de funciones por cualquier causa.</div><div class=\"p\">&nbsp; &nbsp; El gasto que represente la aplicaci&#xF3;n de este art&#xED;culo ser&#xE1; de cargo de los Presupuestos de cada &#xF3;rgano o servicio, pudiendo efectuar reasignaciones presupuestarias en la forma dispuesta en el decreto ley N&#xB0; 1.263, de 1975.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; transitorio.- Los funcionarios en actual servicio que, con motivo de la modificaci&#xF3;n del art&#xED;culo 7&#xB0; de la ley N&#xB0; 18.834, pasen a tener la calidad de exclusiva confianza, tendr&#xE1;n derecho a los beneficios que otorga el art&#xED;culo 2&#xB0; transitorio agregado a la ley N&#xB0; 18.575.</div><div class=\"p\">&nbsp; &nbsp;  Inciso Segundo.- DEROGADO.-<span class=\"n\" id=\"n_0\">LEY 19154<br>Art. 4&#xB0;</span></div><br><div class=\"p\">&nbsp; &nbsp; El gasto que represente la aplicaci&#xF3;n de este art&#xED;culo ser&#xE1; de cargo de los Presupuestos de cada &#xF3;rgano o servicio, pudiendo efectuar reasignaciones presupuestarias en la forma dispuesta en el decreto ley N&#xB0; 1.263, de 1975.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-06-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8548690,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; transitorio.- Los funcionarios en actual servicio que, con motivo de la modificaci&#xF3;n del art&#xED;culo 7&#xB0; de la ley N&#xB0; 18.834, pasen a tener la calidad de exclusiva confianza, tendr&#xE1;n derecho a los beneficios que otorga el art&#xED;culo 2&#xB0; transitorio agregado a la ley N&#xB0; 18.575.</div><div class=\"p\">&nbsp; &nbsp;  Inciso Segundo.- DEROGADO.-<span class=\"n\" id=\"n_0\">LEY 19154<br>Art. 4&#xB0;</span></div><br><div class=\"p\">&nbsp; &nbsp; El gasto que represente la aplicaci&#xF3;n de este art&#xED;culo ser&#xE1; de cargo de los Presupuestos de cada &#xF3;rgano o servicio, pudiendo efectuar reasignaciones presupuestarias en la forma dispuesta en el decreto ley N&#xB0; 1.263, de 1975.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; transitorio.- DEROGADO<span class=\"n\" id=\"n_0\">LEY 19882<br>Art. SEPTUAGESIMO<br>D.O. 23.06.2003</span></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; El art&#xED;culo SEPTUAGESIMO de la LEY 19882, establece normas para los funcionarios que hayan optado por continuar desempe&#xF1;&#xE1;ndose en un cargo adscrito y que presenten la renuncia voluntaria al mismo, quienes tendr&#xE1;n derecho a recibir una indemnizaci&#xF3;n, en la forma y monto que indica dicha norma. En el caso de los cargos o empleos adscritos cuyos titulares no se hayan acogido a lo dispuesto anteriormente, se suprimir&#xE1;n por el solo ministerio de la ley a contar de 1&#xBA; de julio de 2006 y percibir&#xE1;n la indemnizaci&#xF3;n del art&#xED;culo 148 de la ley 18834.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-06-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

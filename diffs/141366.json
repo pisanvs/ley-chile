@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1968-12-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1970-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8912611,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA;.- Der&#xF3;gase el art&#xED;culo 15&#xBA; de la ley N&#xBA; 15.909 y restabl&#xE9;cese la vigencia de art&#xED;culo 4&#xBA; de la ley N&#xBA; 15.209.</div><div class=\"p\">&nbsp; &nbsp;  Agr&#xE9;ganse a continuaci&#xF3;n del N&#xBA; 27 del art&#xED;culo 3&#xBA; de la ley N&#xBA; 15.207, los siguientes n&#xFA;meros:</div><div class=\"p\">&nbsp; &nbsp;  &quot;28.- Adquisiciones de veh&#xED;culos, y</div><div class=\"p\">&nbsp; &nbsp;  29.- Adquisici&#xF3;n o expropiaci&#xF3;n de terrenos destinados a Parque Industrial.&quot; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA;.- Der&#xF3;gase el art&#xED;culo 15&#xBA; de la ley N&#xBA; 15.909 y restabl&#xE9;cese la vigencia de art&#xED;culo 4&#xBA; de la ley N&#xBA; 15.209. Agr&#xE9;ganse a continuaci&#xF3;n del N&#xBA; 27 del art&#xED;culo 3&#xBA; de la ley N&#xBA; 15.209, los siguientes n&#xFA;meros:<span class=\"n\" id=\"n_0\">LEY 17268<br>Art. 11<br>D.O. 09.01.1970</span> &quot;28.- Adquisiciones de veh&#xED;culos, y 29.- Adquisici&#xF3;n o expropiaci&#xF3;n de terrenos destinados a Parque Industrial.&quot; </div></div>"
+        }
+      ]
+    }
+  }
+]

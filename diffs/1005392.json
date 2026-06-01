@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-08-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8773735,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1005415&amp;idParte=8773727&amp;idVersion=2009-08-26\">Aviso S/N<br>JUSTICIA<br>D.O. 26.08.2009</a></span>&nbsp; &nbsp;  Tribunal Constitucional</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto aprobado por el Congreso Nacional, que complementa la ley que introduce modificaciones en el C&#xF3;digo Penal en la regulaci&#xF3;n de ciertos delitos contra la Administraci&#xF3;n P&#xFA;blica (Bolet&#xED;n N&#xB0; 6476-07).</div><br><div class=\"p\">&nbsp; &nbsp;  El Secretario del Tribunal Constitucional, quien suscribe, certifica que la Honorable C&#xE1;mara de Diputados envi&#xF3; el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto del art&#xED;culo primero del mismo. Y que por sentencia de 30 de julio de 2009 en los autos Rol N&#xB0;1.439-09-CPR.</div><br><div class=\"p\">&nbsp; &nbsp;  Declar&#xF3;:</div><br><div class=\"p\">&nbsp; &nbsp;  Que el art&#xED;culo primero del proyecto remitido es constitucional.</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 3 de agosto de 2009.- Rafael Larra&#xED;n Cruz, Secretario.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1005415,
+      "fecha": "2009-08-26"
+    }
+  }
+]

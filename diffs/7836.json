@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1993-02-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-08-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9037703,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;: Modif&#xED;canse, las tarifas fijadas por los Decretos N&#xB0; 363 de 1992 y N&#xB0; 15 de 1993, ambos del Ministerio de Obras P&#xFA;blicas, para los veh&#xED;culos que se indican en las siguientes Plazas de Peaje: Las Vegas, Lampa, Lo Prado, Zapata, El Paico, Angostura, Quinta, Perquilauqu&#xE9;n, Chaim&#xE1;vida, Chacabuco y Cristo Redentor.</div><div class=\"p\"> Tipo de Veh&#xED;culos&nbsp; &nbsp; &nbsp; &nbsp; Tarifa Normal&nbsp;  Tarifa Fin</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; de Semana</div><div class=\"p\"> A) Autos, camionetas y</div><div class=\"p\"> station wagons; autos,</div><div class=\"p\"> camionetas y station</div><div class=\"p\"> wagons con 1 o m&#xE1;s</div><div class=\"p\"> ejes adicionales&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  $1.000&nbsp; &nbsp; &nbsp; &nbsp;  $2.000</div><div class=\"p\"> B) Camiones y Buses</div><div class=\"p\"> de 2 ejes, maquinaria</div><div class=\"p\"> agr&#xED;cola y de</div><div class=\"p\"> construcci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  $2.000&nbsp; &nbsp; &nbsp; &nbsp;  $2.600</div><div class=\"p\"> C) Camiones y Buses</div><div class=\"p\"> de 3 y 4 ejes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $3.000&nbsp; &nbsp; &nbsp; &nbsp;  $3.900</div><div class=\"p\"> D) Camiones y Buses</div><div class=\"p\"> de 5 y m&#xE1;s ejes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $3.000&nbsp; &nbsp; &nbsp; &nbsp;  $3.900</div><div class=\"p\"> E) Motos&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  $&nbsp; 300&nbsp; &nbsp; &nbsp; &nbsp;  $&nbsp; 500</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;: Modif&#xED;canse, las tarifas fijadas por los Decretos N&#xB0; 363 de 1992 y N&#xB0; 15 de 1993, ambos del Ministerio de Obras P&#xFA;blicas, para los veh&#xED;culos que se indican en las siguientes Plazas de Peaje: Las Vegas, Lampa, Lo Prado, Zapata, El Paico, Angostura, Quinta, Perquilauqu&#xE9;n, Chaim&#xE1;vida, Chacabuco y Cristo Redentor.</div><div class=\"p\"> Tipo de Veh&#xED;culos&nbsp; &nbsp; &nbsp; &nbsp; Tarifa Normal&nbsp;  Tarifa Fin</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; de Semana</div><div class=\"p\"> A) Autos, camionetas y</div><div class=\"p\"> station wagons; autos,</div><br><div class=\"p\"> camionetas y station</div><div class=\"p\"> wagons con 1 o m&#xE1;s</div><div class=\"p\"> ejes adicionales&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  $1.000&nbsp; &nbsp; &nbsp; &nbsp;  $2.000</div><div class=\"p\"> B) Camiones y Buses</div><div class=\"p\"> de 2 ejes, maquinaria</div><div class=\"p\"> agr&#xED;cola y de</div><div class=\"p\"> construcci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  $2.000&nbsp; &nbsp; &nbsp; &nbsp;  $2.600</div><div class=\"p\"> C) Camiones y Buses</div><div class=\"p\"> de 3 y 4 ejes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $3.000&nbsp; &nbsp; &nbsp; &nbsp;  $3.900</div><div class=\"p\"> D) Camiones y Buses</div><div class=\"p\"> de 5 y m&#xE1;s ejes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $3.000&nbsp; &nbsp; &nbsp; &nbsp;  $3.900</div><div class=\"p\"> E) Motos&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  $&nbsp; 300&nbsp; &nbsp; &nbsp; &nbsp;  $&nbsp; 500</div><br></div>"
+        },
+        {
+          "part_id": 9037708,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;: Los valores, del art&#xED;culo 2&#xB0; letra D), regir&#xE1;n hasta el 31 de Julio de 1993. A contar del 1&#xB0; de Agosto de 1993 tales valores ser&#xE1;n los siguientes:</div><div class=\"p\">&nbsp;  Tarifa Normal:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $3.500.-</div><div class=\"p\">&nbsp;  Tarifa Fin de Semana:&nbsp; &nbsp; &nbsp;  $5.000.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;: Los valores, del art&#xED;culo 2&#xB0; letra D),<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> regir&#xE1;n hasta el 31 de Julio de 1993. A contar del 1&#xB0; de Agosto de 1993 tales valores ser&#xE1;n los siguientes:</div><div class=\"p\">&nbsp;  Tarifa Normal:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $3.500.-</div><div class=\"p\">&nbsp;  Tarifa Fin de Semana:&nbsp; &nbsp; &nbsp;  $5.000.-</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 1&#xB0; del Decreto Supremo N&#xB0; 206, del Ministerio de Obras P&#xFA;blicas suspendi&#xF3; la aplicaci&#xF3;n del presente art&#xED;culo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

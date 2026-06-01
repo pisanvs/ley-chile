@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-07-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8371481,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Las anotaciones prontuariales que consten en el Registro General de Condenas establecido en el decreto ley N&#xBA; 645, de 1925, referidas a condenas impuestas por Tribunales Militares, por hechos acaecidos entre el 11 de septiembre de 1973 y el 10 de marzo de 1990, y sancionados en las leyes N&#xBA; 12.927, sobre Seguridad del Estado, N&#xBA; 17.798, sobre Control de Armas y N&#xBA; 18.314, que Determina Conductas Terroristas y Fija su Penalidad, o en los decretos leyes N&#xBA; 77, de 1973 o N&#xBA; 3.627, de 1981, ser&#xE1;n eliminadas a partir de la fecha de publicaci&#xF3;n de la presente ley, si se hubiere cumplido la condena o se hubiere extinguido la responsabilidad penal por cualquier otro motivo.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Lo anterior no ser&#xE1; aplicable a las condenas impuestas por delitos consumados contra la vida o integridad f&#xED;sica de terceros. Tampoco ser&#xE1; aplicable a las personas condenadas por Tribunales Militares en tiempo de paz por hechos sancionados en la ley N&#xBA; 17.798, sobre Control de Armas y que tengan condenas por delitos comunes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 1&#xBA;.- Las anotaciones prontuariales que consten en el Registro General de Condenas establecido en el decreto ley N&#xBA; 645, de 1925, referidas a condenas impuestas por Tribunales Militares u Ordinarios, por<span class=\"n\" id=\"n_0\">LEY 20200<br>Art. 1&#xBA;<br>D.O. 20.07.2007</span> hechos acaecidos entre el 11 de septiembre de 1973 y el 10 de marzo de 1990, y sancionados en las leyes N&#xBA; 12.927, sobre Seguridad del Estado, N&#xBA; 17.798, sobre Control de Armas y N&#xBA; 18.314, que Determina Conductas Terroristas y Fija su Penalidad, o en los decretos leyes N&#xBA; 77, de 1973 o N&#xBA; 3.627, de 1981, ser&#xE1;n eliminadas a partir de la fecha de publicaci&#xF3;n de la presente ley, si se hubiere cumplido la condena o se hubiere extinguido la responsabilidad penal por cualquier otro motivo.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Lo anterior no ser&#xE1; aplicable a las condenas impuestas por delitos consumados contra la vida o integridad f&#xED;sica de terceros. Tampoco ser&#xE1; aplicable a las personas condenadas por Tribunales Militares en tiempo de paz por hechos sancionados en la ley N&#xBA; 17.798, sobre Control de Armas y que tengan condenas por delitos comunes.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-07-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10039307,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Renovaci&#xF3;n de la acci&#xF3;n civil. Trat&#xE1;ndose de los delitos establecidos en los art&#xED;culos <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9672363&amp;idVersion=\">141</a>, inciso final, y <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9672364&amp;idVersion=\">142</a>, inciso final, ambos en relaci&#xF3;n con la violaci&#xF3;n; los art&#xED;culos <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9736760&amp;idVersion=\">150 B</a> y <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9755519&amp;idVersion=\">150 E</a>, ambos en relaci&#xF3;n con los art&#xED;culos 361, 362 y 365 bis; los art&#xED;culos <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9672630&amp;idVersion=\">361</a>, <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9672631&amp;idVersion=\">362</a>, <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9672633&amp;idVersion=\">363</a>, <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9737175&amp;idVersion=\">365 bis</a>, <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9672636&amp;idVersion=\">366</a>, <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9736824&amp;idVersion=\">366 bis</a>, <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9736826&amp;idVersion=\">366 qu&#xE1;ter</a>, <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9737180&amp;idVersion=\">366 quinquies</a>, <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9672637&amp;idVersion=\">367</a>, <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9737181&amp;idVersion=\">367 ter</a>; el <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9751099&amp;idVersion=\">art&#xED;culo 411 qu&#xE1;ter</a> en relaci&#xF3;n con la explotaci&#xF3;n sexual; y el <a href=\"https://www.leychile.cl/Navegar?idNorma=1984&amp;idParte=9672719&amp;idVersion=\">art&#xED;culo 433</a>, N&#xB0; 1, en relaci&#xF3;n con la violaci&#xF3;n, todos del C&#xF3;digo Penal, perpetrados en contra de una v&#xED;ctima menor de edad, la acci&#xF3;n civil reparatoria podr&#xE1; ser deducida por una sola vez, en contra del imputado o del responsable del hecho ajeno, transcurrido el plazo de prescripci&#xF3;n establecido en el <a href=\"https://www.leychile.cl/Navegar?idNorma=172986&amp;idParte=8720393&amp;idVersion=\">art&#xED;culo 2332</a> del <a href=\"https://www.leychile.cl/Navegar?idNorma=172986&amp;idParte=&amp;idVersion=\">C&#xF3;digo Civil</a>, entendi&#xE9;ndose renovada la acci&#xF3;n civil, cumpli&#xE9;ndose las condiciones se&#xF1;aladas en los dos art&#xED;culos siguientes.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Renovaci&#xF3;n de la acci&#xF3;n civil. Trat&#xE1;ndose de los delitos establecidos en los art&#xED;culos 141, inciso final, y 142, inciso final, ambos en relaci&#xF3;n con la violaci&#xF3;n; los art&#xED;culos 150 B y 150 E, ambos en relaci&#xF3;n con los art&#xED;culos 361, 362 y 365 bis; los art&#xED;culos 361, 362, 363, 365 bis, 366, 366 bis, 366 qu&#xE1;ter, 367, 367 ter, 367 qu&#xE1;ter, 367 septies<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187183&amp;idParte=10392253&amp;idVersion=2022-12-30\">Ley 21522<br>Art. 3, Nos. 1 y 2<br>D.O. 30.12.2022</a></span>; el art&#xED;culo 411 qu&#xE1;ter en relaci&#xF3;n con la explotaci&#xF3;n sexual; y el art&#xED;culo 433, N&#xB0; 1, en relaci&#xF3;n con la violaci&#xF3;n, todos del C&#xF3;digo Penal, perpetrados en contra de una v&#xED;ctima menor de edad, la acci&#xF3;n civil reparatoria podr&#xE1; ser deducida por una sola vez, en contra del imputado o del responsable del hecho ajeno, transcurrido el plazo de prescripci&#xF3;n establecido en el art&#xED;culo 2332 del C&#xF3;digo Civil, entendi&#xE9;ndose renovada la acci&#xF3;n civil, cumpli&#xE9;ndose las condiciones se&#xF1;aladas en los dos art&#xED;culos siguientes.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1187183,
+      "fecha": "2022-12-30"
+    }
+  }
+]

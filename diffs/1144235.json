@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-04-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-06-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10114282,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  SUBSIDIO HABITACIONAL PARA PROYECTOS DE INTEGRACI&#xD3;N SOCIAL Y TERRITORIAL</div><div class=\"p\">&nbsp; &nbsp;  N&#xD3;MINA DE SELECCIONADOS PARA EL SUBSIDIO DS N&#xB0; 19 (V. y U.), de 2016</div><div class=\"p\">&nbsp; &nbsp;  C&#xD3;DIGO DE PROYECTO 138125</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">SELECCIONADOS: FAMILIAS SECTORES MEDIOS</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/107112.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"> <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/107113.jpg\">.&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  SUBSIDIO HABITACIONAL PARA PROYECTOS DE INTEGRACI&#xD3;N SOCIAL Y TERRITORIAL</div><div class=\"p\">&nbsp; &nbsp;  N&#xD3;MINA DE SELECCIONADOS PARA EL SUBSIDIO DS N&#xB0; 19 (V. y U.), de 2016</div><div class=\"p\">&nbsp; &nbsp;  C&#xD3;DIGO DE PROYECTO 138125</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">SELECCIONADOS: FAMILIAS VULNERABLES</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/107111.jpg\">.&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">SELECCIONADOS: FAMILIAS SECTORES MEDIOS</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/107110.jpg\">.&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  SUBSIDIO HABITACIONAL PARA PROYECTOS DE INTEGRACI&#xD3;N SOCIAL Y TERRITORIAL</div><div class=\"p\">&nbsp; &nbsp;  N&#xD3;MINA DE SELECCIONADOS PARA EL SUBSIDIO DS N&#xB0; 19 (V. y U.), de 2016</div><div class=\"p\">&nbsp; &nbsp;  C&#xD3;DIGO DE PROYECTO 138125</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">SELECCIONADOS: FAMILIAS SECTORES <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>MEDIOS</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/107112.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"> <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/107113.jpg\">.&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  SUBSIDIO HABITACIONAL PARA PROYECTOS DE INTEGRACI&#xD3;N SOCIAL Y TERRITORIAL</div><div class=\"p\">&nbsp; &nbsp;  N&#xD3;MINA DE SELECCIONADOS PARA EL SUBSIDIO DS N&#xB0; 19 (V. y U.), de 2016</div><div class=\"p\">&nbsp; &nbsp;  C&#xD3;DIGO DE PROYECTO 138125</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">SELECCIONADOS: FAMILIAS VULNERABLES</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/107111.jpg\">.&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">SELECCIONADOS: FAMILIAS SECTORES MEDIOS</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/107110.jpg\">.&nbsp; &nbsp; &nbsp; </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 692 Exenta, Vivienda, publicada el 19.06.2020. modifica la presente norma en el sentido de excluir de la n&#xF3;mina de beneficiarios Loteo Manuel Aguilar, c&#xF3;digo 138125 al beneficiario que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

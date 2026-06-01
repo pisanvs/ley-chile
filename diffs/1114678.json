@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-02-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9882217,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Del&#xE9;gase en los(las) Secretarios(as) Regionales Ministeriales de Desarrollo Social, el ejercicio de la facultad de suscribir y aprobar convenios de transferencia de recursos, con organismos ejecutores del Programa Noche Digna, contemplado en la Partida 21, Cap&#xED;tulo 01, Programa 01, Subt&#xED;tulo 24, &#xCD;tem 03, Asignaci&#xF3;n 998, de la Ley N&#xB0; 21.053 de Presupuestos del Sector P&#xFA;blico correspondiente al a&#xF1;o 2018, cuya cuant&#xED;a sea inferior a 5.000 Unidades Tributarias Mensuales, en el &#xE1;mbito de su respectiva regi&#xF3;n, as&#xED; como tambi&#xE9;n suscribir y aprobar los actos relacionados con la ejecuci&#xF3;n y t&#xE9;rmino de dichos convenios.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; La presente resoluci&#xF3;n comenzar&#xE1; a regir una vez que se encuentre totalmente tramitada. </div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; Rem&#xED;tase copia digitalizada del presente acto administrativo al Gabinete del Ministro de Desarrollo Social, al Gabinete de la Subsecretar&#xED;a de Servicios Sociales, a la Divisi&#xF3;n de Promoci&#xF3;n y Protecci&#xF3;n Social, a las Secretar&#xED;as Regionales Ministeriales de Desarrollo Social, a la Fiscal&#xED;a y copia impresa a la Oficina de Partes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Del&#xE9;gase en los(las) Secretarios(as) Regionales Ministeriales de Desarrollo Social, el ejercicio de la facultad de suscribir y aprobar convenios de transferencia de recursos, con organismos ejecutores del Programa Noche Digna, contemplado en la Partida 21, Cap&#xED;tulo 01, Programa 01, Subt&#xED;tulo 24, &#xCD;tem 03, Asignaci&#xF3;n 998, de la Ley N&#xB0; 21.053 de Presupuestos del Sector P&#xFA;blico correspondiente al a&#xF1;o 2018, cuya cuant&#xED;a sea inferior a 5.000 Unidades Tributarias Mensuales, en el &#xE1;mbito de su respectiva regi&#xF3;n, as&#xED; como tambi&#xE9;n suscribir y aprobar los actos relacionados con la ejecuci&#xF3;n y t&#xE9;rmino de dichos convenios y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1127326&amp;idParte=9984995&amp;idVersion=2019-01-03\">Resoluci&#xF3;n 1032 EXENTA,<br>DESARROLLO SOCIAL<br>N&#xB0; 1<br>D.O. 03.01.2019</a></span>con los centros temporales para la superaci&#xF3;n denominados &#x2018;Vivienda con Apoyo&apos;.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; La presente resoluci&#xF3;n comenzar&#xE1; a regir una vez que se encuentre totalmente tramitada. </div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; Rem&#xED;tase copia digitalizada del presente acto administrativo al Gabinete del Ministro de Desarrollo Social, al Gabinete de la Subsecretar&#xED;a de Servicios Sociales, a la Divisi&#xF3;n de Promoci&#xF3;n y Protecci&#xF3;n Social, a las Secretar&#xED;as Regionales Ministeriales de Desarrollo Social, a la Fiscal&#xED;a y copia impresa a la Oficina de Partes.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1127326,
+      "fecha": "2019-01-03"
+    }
+  }
+]

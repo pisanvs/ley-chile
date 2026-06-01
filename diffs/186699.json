@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-06-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6694408,
+          "old": "<div><div class=\"p\">ARTICULO 31:</div><br><div class=\"p\">Son v&#xED;as estructurantes las que se indican a continuaci&#xF3;n, se&#xF1;alando sus tramos, anchos oficiales y condiciones de existente y proyectada.- Direcci&#xF3;n de Obras Municipales.</div><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 21.06.2001, PAGINAS 17 y 18 </div></div>",
+          "new": "<div><div class=\"p\">ARTICULO 31:</div><br><div class=\"p\">Son v&#xED;as estructurantes las que se indican a continuaci&#xF3;n, se&#xF1;alando sus tramos, anchos oficiales y condiciones de existente y proyectada.- Direcci&#xF3;n de Obras Municipales.</div><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 21.06.2001, PAGINAS 17 y 18<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 2&#xBA; del DTO 83, Vivienda, publicado el 20.06.2002, modifica la letra A, del presente cuadro, en la forma que dicha norma dispone.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

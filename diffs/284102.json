@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2008-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-08-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6915851,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Recon&#xF3;cese a la Rep&#xFA;blica de Argentina, para los efectos de intercambios comerciales las siguientes zonas:</div><br><div class=\"p\">1.&nbsp;  Como libre de Fiebre Aftosa sin vacunaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  La zona ubicada al sur de los siguientes l&#xED;mites:</div><div class=\"p\">&nbsp; &nbsp;  En la Provincia de Neuqu&#xE9;n, al norte el R&#xED;o Barrancas que lo separa de Mendoza; al este el l&#xED;mite interprovincial con R&#xED;o Negro. La Provincia de Neuqu&#xE9;n exceptuando un &#xE1;rea triangular delimitada por: al sudeste por el R&#xED;o Limay (l&#xED;mite con la Provincia de R&#xED;o Negro), hasta la localidad de Pic&#xFA;n-Leuf&#xFA;, sobre la ruta nacional N&#xBA; 237; el l&#xED;mite oeste es la ruta provincial N&#xBA; 17, pasando por Cutral-C&#xF3;, hasta la localidad de A&#xF1;elo; y el l&#xED;mite norte es la ruta provincial N&#xBA; 7 hasta el l&#xED;mite provincial con R&#xED;o Negro. En la Provincia de R&#xED;o Negro: al norte, por la margen sur del R&#xED;o Negro, a excepci&#xF3;n del Valle Azul, Departamento de El Cuy; los establecimientos linderos sobre la margen sur de ese r&#xED;o en el Departamento de Avellaneda; la ruta Provincial N&#xBA; 250 desde la localidad de Pomona hasta el paraje El Solito y se contin&#xFA;a con la ruta provincial N&#xBA; 2 hasta la localidad de San Antonio Oeste.</div><div class=\"p\">2.&nbsp;  Como libre de Fiebre Aftosa con vacunaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  La zona ubicada al norte de la zona sin vacunaci&#xF3;n, excepto la zona de 15 kil&#xF3;metros cuyo l&#xED;mite norte corre en l&#xED;nea paralela al de la frontera a partir del l&#xED;mite internacional en la Provincia de Salta abarcando los Departamentos de Santa Victoria, Or&#xE1;n, Iruya, General Jos&#xE9; de San Mart&#xED;n y Rivadavia, continuando con el l&#xED;mite internacional en la Provincia de Formosa, Departamentos Ram&#xF3;n Lista, Bermejo, Pilag&#xE1;s, Pilcomayo, Formosa y Lahisi; Provincia de Chaco Departamento Bermejo; Provincia de Corrientes Departamentos de Capital, San Cosme, Irat&#xED;, Ber&#xF3;n de Astrada, San Miguel e Ituzaing&#xF3; y Provincia de Misiones, Departamentos de Capital, Candelaria, San Ignacio, General San Mart&#xED;n y Montecarlo. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Recon&#xF3;cese a la Rep&#xFA;blica de Argentina, para los efectos de intercambios comerciales las siguientes zonas:</div><br><div class=\"p\">1.&nbsp;  Derogado<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1215680&amp;idParte=10557880&amp;idVersion=2025-08-11\">Resoluci&#xF3;n 5952 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 11.08.2025</a></span>.</div><div class=\"p\">2.&nbsp;  Como libre de Fiebre Aftosa con vacunaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  La zona ubicada al norte de la zona sin vacunaci&#xF3;n, excepto la zona de 15 kil&#xF3;metros cuyo l&#xED;mite norte corre en l&#xED;nea paralela al de la frontera a partir del l&#xED;mite internacional en la Provincia de Salta abarcando los Departamentos de Santa Victoria, Or&#xE1;n, Iruya, General Jos&#xE9; de San Mart&#xED;n y Rivadavia, continuando con el l&#xED;mite internacional en la Provincia de Formosa, Departamentos Ram&#xF3;n Lista, Bermejo, Pilag&#xE1;s, Pilcomayo, Formosa y Lahisi; Provincia de Chaco Departamento Bermejo; Provincia de Corrientes Departamentos de Capital, San Cosme, Irat&#xED;, Ber&#xF3;n de Astrada, San Miguel e Ituzaing&#xF3; y Provincia de Misiones, Departamentos de Capital, Candelaria, San Ignacio, General San Mart&#xED;n y Montecarlo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1215680,
+      "fecha": "2025-08-11"
+    }
+  },
+  {
+    "fecha": "2025-11-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

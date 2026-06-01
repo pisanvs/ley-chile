@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-06-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-11-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10246738,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Prorr&#xF3;gase el per&#xED;odo de vigencia de las f&#xF3;rmulas tarifarias para calcular los precios m&#xE1;ximos aplicables a los usuarios de los servicios de producci&#xF3;n y distribuci&#xF3;n de agua potable y recolecci&#xF3;n y disposici&#xF3;n de aguas servidas para la empresa Essbio S.A., fijadas en el <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1100124&amp;idVersion=2021-06-26\">DS Minecon N&#xBA; 144/2016</a>, por otro per&#xED;odo de cinco a&#xF1;os contados a partir del 14 de septiembre de 2021.</div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase constancia que, conforme a la renuncia manifestada en su carta GG N&#xBA; 62/20, la empresa Essbio S.A. aplicar&#xE1; una rebaja de un 1,3% respecto de las f&#xF3;rmulas tarifarias de los servicios p&#xFA;blicos de agua potable y alcantarillado que se prorrogan, la que regir&#xE1; por todo el per&#xED;odo de vigencia del presente decreto de pr&#xF3;rroga.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Prorr&#xF3;gase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1208089&amp;idParte=10522440&amp;idVersion=2024-11-07\">Decreto 46 EXENTO,<br>ECONOM&#xCD;A<br>Art. primero<br>D.O. 07.11.2024</a></span>el per&#xED;odo de vigencia de las f&#xF3;rmulas tarifarias para calcular los precios m&#xE1;ximos aplicables a los usuarios de los servicios de producci&#xF3;n y distribuci&#xF3;n de agua potable y recolecci&#xF3;n y disposici&#xF3;n de aguas servidas para la empresa Essbio S.A., fijadas en el DS Minecon N&#xB0; 144/2016, por otro per&#xED;odo de cinco a&#xF1;os, contados a partir del 14 de septiembre de 2021, con la salvedad de la localidad de Lomas Coloradas, perteneciente al Grupo 1 VIII Regi&#xF3;n, en que el quinquenio se contar&#xE1; a partir del 8 de septiembre del a&#xF1;o 2020.</div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase constancia que, conforme a la renuncia manifestada en su carta GG N&#xBA; 62/20, la empresa Essbio S.A. aplicar&#xE1; una rebaja de un 1,3% respecto de las f&#xF3;rmulas tarifarias de los servicios p&#xFA;blicos de agua potable y alcantarillado que se prorrogan, la que regir&#xE1; por todo el per&#xED;odo de vigencia del presente decreto de pr&#xF3;rroga.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1208089,
+      "fecha": "2024-11-07"
+    }
+  }
+]

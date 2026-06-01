@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-12-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-11-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8356599,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A RENEE VON ABTENS TJEBBES PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A RENEE VON ABTENS TJEBBES PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><div class=\"p\">(Extracto)</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

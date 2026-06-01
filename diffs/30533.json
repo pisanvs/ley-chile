@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1992-09-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8287527,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Los fondos recaudados por las entidades de gesti&#xF3;n colectiva de derechos intelectuales, que no sean distribuidos o no sean cobrados por sus titulares, dentro del plazo de tres a&#xF1;os contado desde su percepci&#xF3;n, incrementar&#xE1;n los recursos que anualmente destine el Ministerio de Educaci&#xF3;n para financiar los proyectos de desarrollo art&#xED;stico y cultural que se encuentran reglamentados en la forma establecida en la glosa 09 de la Subsecretar&#xED;a de dicho Ministerio de la Ley de Presupuestos del Sector P&#xFA;blico del presente a&#xF1;o, y en el Decreto Supremo N&#xB0; 125, de Educaci&#xF3;n, de 1992.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4.- Los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1110097&amp;idParte=9845596&amp;idVersion=2017-11-03\">Ley 21045<br>Art. 60<br>D.O. 03.11.2017</a></span>fondos recaudados por las entidades de gesti&#xF3;n colectiva de derechos intelectuales, que no sean distribuidos o no sean cobrados por sus titulares, dentro del plazo de tres a&#xF1;os contado desde su percepci&#xF3;n, incrementar&#xE1;n los recursos que anualmente destine el Ministerio de las Culturas, las Artes y el Patrimonio para financiar los Fondos Culturales y Art&#xED;sticos.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1110097,
+      "fecha": "2017-11-03"
+    }
+  }
+]

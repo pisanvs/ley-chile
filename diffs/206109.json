@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7296221,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto exento N&#xBA; 1.109 de fecha 11 de noviembre de 2002 del Ministerio de Educaci&#xF3;n, se modifica el art&#xED;culo 1&#xBA; del decreto exento N&#xBA; 466 del 21 de abril de 1997 del Centro de Formaci&#xF3;n T&#xE9;cnica Santo Tom&#xE1;s en el sentido de impartir la carrera de T&#xE9;cnico en Enfermer&#xED;a de Nivel Superior en la Sede N&#xBA; 19 de Puerto Montt, por &#xFA;nica vez, para los funcionarios Auxiliares Param&#xE9;dicos de Enfermer&#xED;a del Servicio de Salud Llanchipal, que cumplen los requisitos de ingreso a este nivel de educaci&#xF3;n y con las exigencias establecidas por la instituci&#xF3;n, seg&#xFA;n n&#xF3;mina que se anexa y que forma parte del decreto.</div><div class=\"p\">&nbsp; &nbsp;  El programa especial de titulaci&#xF3;n, se desarroll&#xF3; de acuerdo al n&#xFA;mero de horas del plan de estudios aprobado por el Ministerio de Educaci&#xF3;n, m&#xE1;s un proceso de titulaci&#xF3;n, en un a&#xF1;o acad&#xE9;mico a partir de abril del a&#xF1;o 2001 a abril del a&#xF1;o 2002, a fin de regularizar las diferentes situaciones acad&#xE9;micas de los postulantes que cumplan con los requisitos de ingreso a este nivel de educaci&#xF3;n y con las exigencias establecidas por la instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, se mantiene para todos los efectos legales lo dispuesto en el art&#xED;culo 1&#xBA; del decreto exento N&#xBA; 466 del 21 de abril de 1997 del Centro de Formaci&#xF3;n T&#xE9;cnica Santo Tom&#xE1;s, de aprobaci&#xF3;n del plan y programas de la carrera T&#xE9;cnico en Enfermer&#xED;a de Nivel Superior, para los alumnos regulares del centro antes mencionado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto exento N&#xBA; 1.109 de fecha 11 de noviembre de 2002 del Ministerio de Educaci&#xF3;n, se modifica el art&#xED;culo 1&#xBA; del decreto exento N&#xBA; 409 del<span class=\"n\" id=\"n_0\">DTO 442 EXENTO,<br>EDUCACION<br>D.O. 09.07.2003</span> 16 de abril de 1997 del Centro de Formaci&#xF3;n T&#xE9;cnica Santo Tom&#xE1;s en el sentido de impartir la carrera de T&#xE9;cnico en Enfermer&#xED;a de Nivel Superior en la Sede N&#xBA; 19 de Puerto Montt, por &#xFA;nica vez, para los funcionarios Auxiliares Param&#xE9;dicos de Enfermer&#xED;a del Servicio de Salud Llanchipal, que cumplen los requisitos de ingreso a este nivel de educaci&#xF3;n y con las exigencias establecidas por la instituci&#xF3;n, seg&#xFA;n n&#xF3;mina que se anexa y que forma parte del decreto. El programa especial de titulaci&#xF3;n, se desarroll&#xF3; de acuerdo al n&#xFA;mero de horas del plan de estudios aprobado por el Ministerio de Educaci&#xF3;n, m&#xE1;s un proceso de titulaci&#xF3;n, en un a&#xF1;o acad&#xE9;mico a partir de abril del a&#xF1;o 2001 a abril del a&#xF1;o 2002, a fin de regularizar las diferentes situaciones acad&#xE9;micas de los postulantes que cumplan con los requisitos de ingreso a este nivel de educaci&#xF3;n y con las exigencias establecidas por la instituci&#xF3;n. Asimismo, se mantiene para todos los efectos legales lo dispuesto en el art&#xED;culo 1&#xBA; del decreto exento N&#xBA; 409 del 16 de abril de 1997 del Centro de<span class=\"n\" id=\"n_1\">DTO 442 EXENTO,<br>EDUCACION<br>D.O. 09.07.2003</span> Formaci&#xF3;n T&#xE9;cnica Santo Tom&#xE1;s, de aprobaci&#xF3;n del plan y programas de la carrera T&#xE9;cnico en Enfermer&#xED;a de Nivel Superior, para los alumnos regulares del centro antes mencionado. </div></div>"
+        }
+      ]
+    }
+  }
+]

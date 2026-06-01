@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1968-06-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1969-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8893292,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;- La Junta de Adelanto de Arica deber&#xE1; hacer entrega de las escrituras de compraventa a los adquirentes de viviendas de la Poblaci&#xF3;n Santa Mar&#xED;a de esa ciudad, dentro de los 120&nbsp; d&#xED;as de publicada esta ley.</div><div class=\"p\">&nbsp; &nbsp;  El precio de venta de las viviendas ser&#xE1; el establecido en el acuerdo N&#xBA; 767, tomado en sesi&#xF3;n N&#xBA; 193, de 4 de Octubre de 1961, por la Junta de Adelanto de Arica, y se respetar&#xE1;n, asimismo, las normas establecidas en el mencionado acuerdo.</div><div class=\"p\">&nbsp; &nbsp;  El precio de venta de las viviendas construidas por la Junta de Adelanto de Arica, sea directamente o con sus aportes, o en convenios con otras instituciones no podr&#xE1; ser superior al presupuesto de construcci&#xF3;n aprobado por la Direcci&#xF3;n de Obras Municipales, aumentado en un 4% para gastos generales o administrativos.&quot; </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- El precio de venta a los asignatarios<span class=\"n\" id=\"n_0\">LEY 16927<br>Art. 7&#xBA;<br>D.O. 12.09.1968</span> de viviendas ubicadas en las Poblaciones Santa Mar&#xED;a, Doctor Juan No&#xE9;, Lastarria, O&apos;Higgins, Nueva Imperial, Choferes de Taxi, Carlos Condell y Fresia, de propiedad de la Junta de Adelanto de Arica, ser&#xE1; el que resulte del costo real de la construcci&#xF3;n o adquisici&#xF3;n, seg&#xFA;n el caso, incluido el valor del terreno y el de su urbanizaci&#xF3;n, aumentado en un 4% por concepto de gastos administrativos.</div><div class=\"p\">&nbsp; &nbsp; INCISO DEROGADO<span class=\"n\" id=\"n_1\">LEY 17081<br>Art. 1&#xBA;<br>D.O. 18.01.1969</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

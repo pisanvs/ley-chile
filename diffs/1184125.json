@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2022-11-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-12-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10378291,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rese zona afectada por la cat&#xE1;strofe derivada de la prolongada sequ&#xED;a, a todas las comunas de la Regi&#xF3;n de Coquimbo y a todas las comunas de las provincias de Petorca, San Antonio, San Felipe de Aconcagua, Los Andes, Quillota, Marga Marga y Valpara&#xED;so, con excepci&#xF3;n de la comuna de Juan Fern&#xE1;ndez, todas de la Regi&#xF3;n de Valpara&#xED;so, por un plazo de doce meses contados desde el 29 de septiembre de 2022.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rese zona afectada por la cat&#xE1;strofe derivada de la prolongada sequ&#xED;a, a todas las comunas de la Regi&#xF3;n de Coquimbo y a todas las comunas de las provincias de Petorca, San Antonio, San Felipe de Aconcagua, Los Andes, Quillota, Marga Marga y Valpara&#xED;so, con excepci&#xF3;n de la comuna de Juan Fern&#xE1;ndez, todas de la Regi&#xF3;n de Valpara&#xED;so, por un plazo de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>doce meses contados desde el 29 de septiembre de 2022.&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto 230, Interior, publicado el 22.12.2023, dispone extender por un plazo de doce meses, a contar del 30 de septiembre de 2023, la declaraci&#xF3;n de zonas afectadas por cat&#xE1;strofe, derivada de la prolongada sequ&#xED;a, formulada mediante el presente decreto, respecto de todas las comunas de la Regi&#xF3;n de Coquimbo, y de todas las comunas de las provincias de Petorca, San Antonio, San Felipe de Aconcagua, Los Andes, Marga Marga y Valpara&#xED;so, con excepci&#xF3;n de la comuna de Juan Fern&#xE1;ndez, todas de la Regi&#xF3;n de Valpara&#xED;so.</div></div>"
+        }
+      ]
+    }
+  }
+]

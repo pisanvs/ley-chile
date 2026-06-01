@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-11-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8974105,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile, las siguientes:</div><br><div class=\"p\">NCh 2024&nbsp;  Medidores de energ&#xED;a el&#xE9;ctrica activa</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  (Watt - hora) de corriente alterna clases</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  0,5; 1 y 2.</div><div class=\"p\">NCh 2022&nbsp;  Medidores de energ&#xED;a el&#xE9;ctrica reactiva</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  (Var - hora).</div><div class=\"p\">NCh 2023&nbsp;  Indicadores de demanda m&#xE1;xima clase 1,0.</div><div class=\"p\">NCh 2021&nbsp;  Acopladores para artefactos de uso</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  dom&#xE9;stico y usos generales similares.</div><div class=\"p\">NCh 2019&nbsp;  Conductores aislados de energ&#xED;a el&#xE9;ctrica.</div><div class=\"p\">NCh 2014&nbsp;  Cables de transporte de energ&#xED;a aislados</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  con diel&#xE9;ctricos s&#xF3;lidos extruidos para</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  tensiones nominales de 1 kV a 30 kV.</div><div class=\"p\">NCh 2007&nbsp;  Conductores de cables aislados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Decl&#xE1;ranse Normas Oficiales de la Rep&#xFA;blica de Chile, las siguientes:</div><br><div class=\"p\">NCh 2024&nbsp;  Medidores de energ&#xED;a el&#xE9;ctrica activa</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  (Watt - hora) de corriente alterna clases</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  0,5; 1 y 2.</div><div class=\"p\">NCh 2022&nbsp;  Medidores de energ&#xED;a el&#xE9;ctrica reactiva</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  (Var - hora).</div><div class=\"p\">NCh 2023&nbsp;  Indicadores de demanda m&#xE1;xima clase 1,0.</div><div class=\"p\">NCh 2021&nbsp;  Acopladores para artefactos de uso</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  dom&#xE9;stico y usos generales similares.</div><div class=\"p\">NCh 2019&nbsp;  Conductores aislados de energ&#xED;a el&#xE9;ctrica.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">NCh 2014&nbsp;  Cables de transporte de energ&#xED;a aislados</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  con diel&#xE9;ctricos s&#xF3;lidos extruidos para</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  tensiones nominales de 1 kV a 30 kV.</div><div class=\"p\">NCh 2007&nbsp;  Conductores de cables aislados.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 2&#xBA; de la RES 912 Exenta, Econom&#xED;a, publicada el 23.11.2007, anula y reemplaza parcialmente las tablas 5, 6 y 7 de la Norma NCh 2019, Conductores aislados de energ&#xED;a el&#xE9;ctrica.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

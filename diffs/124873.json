@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-11-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8334978,
+          "old": "<div><div class=\"p\">AUTORIZA A DON LUIS CARRERE VERA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON LUIS CARRERE VERA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-01-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1977-06-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8991024,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;- Se sustituye el inciso segundo del art&#xED;culo 18 del decreto ley N&#xB0; 786, de 4 de Diciembre de 1974, por los siguientes:</div><div class=\"p\">&nbsp; &nbsp; &quot;En todo caso, las obras superiores a quince sueldos vitales anuales de la provincia de Santiago deber&#xE1;n ser efectuadas por el Ministerio de Obras P&#xFA;blicas o por otros organismos que est&#xE9;n facultados por la ley para realizar construcciones para el Fisco. Sin embargo, la programaci&#xF3;n y dise&#xF1;o de ellas ser&#xE1;n realizados por el Ministerio de Justicia.</div><div class=\"p\">&nbsp; &nbsp; La construcci&#xF3;n y ejecuci&#xF3;n de estas obras se sujetar&#xE1;n a las normas propias del organismo al cual se le encomendaron.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;- Se sustituye el inciso segundo del art&#xED;culo 18 del decreto ley N&#xB0; 786, de 4 de Diciembre de 1974, por los siguientes: &quot;En todo caso, obras superiores al l&#xED;mite que se<span class=\"n\" id=\"n_0\">DL 1819, HACIENDA<br>Art. 25&#xBA;<br>D.O. 11.06.1977</span> fije en virtud de lo dispuesto en el art&#xED;culo 10&#xB0; del decreto ley N&#xB0; 1.605, de 1976, deber&#xE1;n ser efectuadas por el Ministerio de Obras P&#xFA;blicas o por otros organismos que est&#xE9;n facultados por la ley para realizar construcciones para el Fisco. Sin embargo, la programaci&#xF3;n y dise&#xF1;o de ellas ser&#xE1;n realizados por el Ministerio de Justicia.</div><div class=\"p\">&nbsp; &nbsp; La construcci&#xF3;n y ejecuci&#xF3;n de estas obras se sujetar&#xE1;n a las normas propias del organismo al cual se le encomendaron.&quot;.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

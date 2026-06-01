@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-05-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2026-03-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5855872,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA ORDENANZA SOBRE PATENTES DE ESTABLECIMIENTOS DE EXPENDIO DE BEBIDAS ALCOHOLICAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 926 exento.- Rancagua, 14 de mayo de 1996.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que, es necesario que la I. Municipalidad de Rancagua cuente con una ordenanza que regule el otorgamiento de patentes de establecimientos de expendio de bebidas alcoh&#xF3;licas en la comuna de Rancagua.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que, mediante el Ord. N&#xB0; 146, de fecha 23 de abril de 1996, el Departamento de Rentas remiti&#xF3; un proyecto de Ordenanza, para ser tratada en sesi&#xF3;n de Concejo.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que, en sesi&#xF3;n ordinaria N&#xB0; 185, de fecha 7 de mayo de 1996, el Concejo Municipal aprob&#xF3; por la unanimidad de los se&#xF1;ores Concejales asistentes el proyecto de Ordenanza preparada por el Departamento de Rentas.</div><div class=\"p\">&nbsp; &nbsp; 4.- El Ord. N&#xB0; 193, de fecha 8 de mayo de 1996, del Departamento de Rentas, y</div><div class=\"p\">&nbsp; &nbsp; Vistos: Las facultades que me confiere la Ley N&#xB0; 18.695, Org&#xE1;nica Constitucional de Municipalidades, y la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA ORDENANZA SOBRE PATENTES DE ESTABLECIMIENTOS DE EXPENDIO DE BEBIDAS ALCOHOLICAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 926 exento.- Rancagua, 14 de mayo de 1996.- Considerando:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; 1.- Que, es necesario que la I. Municipalidad de Rancagua cuente con una ordenanza que regule el otorgamiento de patentes de establecimientos de expendio de bebidas alcoh&#xF3;licas en la comuna de Rancagua.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que, mediante el Ord. N&#xB0; 146, de fecha 23 de abril de 1996, el Departamento de Rentas remiti&#xF3; un proyecto de Ordenanza, para ser tratada en sesi&#xF3;n de Concejo.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que, en sesi&#xF3;n ordinaria N&#xB0; 185, de fecha 7 de mayo de 1996, el Concejo Municipal aprob&#xF3; por la unanimidad de los se&#xF1;ores Concejales asistentes el proyecto de Ordenanza preparada por el Departamento de Rentas.</div><div class=\"p\">&nbsp; &nbsp; 4.- El Ord. N&#xB0; 193, de fecha 8 de mayo de 1996, del Departamento de Rentas, y</div><div class=\"p\">&nbsp; &nbsp; Vistos: Las facultades que me confiere la Ley N&#xB0; 18.695, Org&#xE1;nica Constitucional de Municipalidades, y la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El Decreto N&#xB0; 142 Exento, M. de Rancagua, publicado el 27.03.2026, complementado por Decreto N&#xBA; 439 EXENTO de fecha 28 de enero de 2026, dispone la derogaci&#xF3;n de la presente norma, en todo aquello que sea contrario a la nueva ordenanza.</div></div>"
+        }
+      ]
+    }
+  }
+]

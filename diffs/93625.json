@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-07-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8323359,
+          "old": "<div><br><div class=\"p\">AUTORIZA A PESQUERA DEL CABO S.A. PARA AMPLIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE INDICA</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA DEL CABO S.A. PARA AMPLIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

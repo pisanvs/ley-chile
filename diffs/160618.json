@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-04-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7264955,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION No. 310, DE 1984 </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION No. 310, DE 1984</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

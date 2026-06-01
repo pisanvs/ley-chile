@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-08-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-06-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7191949,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Ser&#xE1;n beneficiarios del Sistema de Salud de las Fuerzas Armadas:</div><div class=\"p\">&nbsp; &nbsp; a) El personal de planta de las Fuerzas Armadas;</div><div class=\"p\">&nbsp; &nbsp; b) El personal de reserva llamado al servicio activo;</div><div class=\"p\">&nbsp; &nbsp; c) El personal dependiente de las Fuerzas Armadas que en virtud de leyes especiales se encuentre acogido al r&#xE9;gimen previsional y de seguridad social que establece la ley N&#xB0; 18.948, y</div><div class=\"p\">&nbsp; &nbsp; d) Los causantes de asignaci&#xF3;n familiar del personal se&#xF1;alado en las letras anteriores, aun cuando no perciban dicho beneficio.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Ser&#xE1;n beneficiarios del Sistema de Salud de las Fuerzas Armadas:</div><div class=\"p\">&nbsp; &nbsp; a) El personal de planta de las Fuerzas Armadas;</div><div class=\"p\">&nbsp; &nbsp; b) El personal de reserva llamado al servicio activo;</div><div class=\"p\">&nbsp; &nbsp; c) El personal dependiente de las Fuerzas Armadas que en virtud de leyes especiales se encuentre acogido al r&#xE9;gimen previsional y de seguridad social que establece la ley N&#xB0; 18.948<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1060194&amp;idParte=9417649&amp;idVersion=2014-03-12\">Ley 20735<br>Art. 7 N&#xB0;s. 1, 2 y 3)<br>D.O. 12.03.2014</a></span>;</div><div class=\"p\">&nbsp; &nbsp; d) Los causantes de asignaci&#xF3;n familiar del personal se&#xF1;alado en las letras anteriores, aun cuando no perciban dicho beneficio,</div><div class=\"p\">&nbsp; &nbsp; e) Los causantes de asignaci&#xF3;n familiar del personal se&#xF1;alado en las letras anteriores, comisionado al extranjero, siempre que por ellos se perciba la asignaci&#xF3;n familiar de la letra d) del art&#xED;culo 200 del decreto con fuerza de ley N&#xBA; 1, de 1997, del Ministerio de Defensa Nacional, que establece estatuto del personal de las Fuerzas Armadas, y se encuentren estudiando en instituciones de la ense&#xF1;anza b&#xE1;sica, media, t&#xE9;cnica y superior, reconocidas por el Estado donde se cumple la comisi&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

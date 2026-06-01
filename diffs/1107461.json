@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2017-09-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-05-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9830198,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: F&#xED;jase la n&#xF3;mina de los profesionales de la educaci&#xF3;n del sector municipal que ejercieron el derecho establecido en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1087343&amp;idParte=9690839&amp;idVersion=\">art&#xED;culo quinto transitorio</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1087343&amp;idParte=&amp;idVersion=\">ley N&#xBA; 20.903</a>, la que, a fin de asegurar la confidencialidad de los datos en esta contenida y dar cumplimiento a lo establecido en la ley N&#xBA; 19.628, se encuentra en un documento de formato port&#xE1;til, con firma electr&#xF3;nica avanzada del Jefe del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, en adelante &quot;el Centro&quot;, almacenado en disco vers&#xE1;til digital que se acompa&#xF1;a, n&#xFA;mero de serie DVD-R 130109-S2, firmado por el Jefe del Centro, el que para todos los efectos legales forma parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\"> </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: F&#xED;jase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1132010&amp;idParte=10025756&amp;idVersion=2019-05-25\">Resoluci&#xF3;n 2634 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0; 1<br>D.O. 25.05.2019</a></span>la n&#xF3;mina de los profesionales de la educaci&#xF3;n del sector municipal, que ejercieron el derecho establecido en el art&#xED;culo quinto transitorio de la ley N&#xB0; 20.903, los que se encuentran individualizados en el listado contenido en el disco compacto denominado &quot;Actualizaci&#xF3;n Rex. 4932-2017, abril de 2019&quot;, n&#xFA;mero de serie B3117JH0218347LH, refrendado mediante la firma electr&#xF3;nica de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, el que forma parte de la presente resoluci&#xF3;n.</div><div class=\"p\"> </div><br></div>"
+        },
+        {
+          "part_id": 9830200,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Cust&#xF3;diese el disco vers&#xE1;til digital que contiene la n&#xF3;mina de los profesionales de la educaci&#xF3;n de que trata el art&#xED;culo primero de la presente resoluci&#xF3;n exenta, n&#xFA;mero de serie DVD-R 130109-S2, por el Jefe del Centro.</div><div class=\"p\"> </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Para <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1132010&amp;idParte=10025756&amp;idVersion=2019-05-25\">Resoluci&#xF3;n 2634 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 25.05.2019</a></span>asegurar la confidencialidad de la n&#xF3;mina a que se refiere el art&#xED;culo primero de esta resoluci&#xF3;n, y con el objeto de dar cumplimiento a las obligaciones establecidas en la ley N&#xB0; 19.628 sobre Protecci&#xF3;n de la Vida Privada, se resguardar&#xE1; el disco compacto ya individualizado, mediante la custodia ejercida por el Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas de esta Secretar&#xED;a de Estado.</div><div class=\"p\"> </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1132010,
+      "fecha": "2019-05-25"
+    }
+  }
+]

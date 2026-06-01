@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-05-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7133224,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- La Divisi&#xF3;n de Planificaci&#xF3;n, Estudios e Inversi&#xF3;n tendr&#xE1; a su cargo la realizaci&#xF3;n de los estudios, proposiciones y dem&#xE1;s trabajos que sirvan de base para la identificaci&#xF3;n y elaboraci&#xF3;n de recomendaciones de pol&#xED;ticas globales y sectoriales del Ministerio, as&#xED; como el registro de proyectos del sector p&#xFA;blico y la evaluaci&#xF3;n de los mismos. De igual modo, le corresponder&#xE1; evaluar el impacto en el medio ambiente de los planes y proyectos de desarrollo nacional y regional.</div><div class=\"p\">&nbsp; &nbsp; Esta Divisi&#xF3;n estar&#xE1; compuesta por el Departamento de Inversiones, por el Departamento de Planificaci&#xF3;n y Estudios Sociales y por el Departamento de Planificaci&#xF3;n y Estudios Econ&#xF3;micos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- La Divisi&#xF3;n de Planificaci&#xF3;n, Estudios e Inversi&#xF3;n tendr&#xE1; a su cargo la realizaci&#xF3;n de los estudios, proposiciones y dem&#xE1;s trabajos que sirvan de base para la identificaci&#xF3;n y elaboraci&#xF3;n de recomendaciones de pol&#xED;ticas globales y sectoriales del Ministerio, as&#xED; como el registro de proyectos del sector p&#xFA;blico y la evaluaci&#xF3;n de los mismos. De igual modo, le corresponder&#xE1; evaluar el impacto en el medio ambiente de los planes y proyectos de desarrollo nacional y regional.</div><div class=\"p\">&nbsp; &nbsp; Esta Divisi&#xF3;n estar&#xE1; compuesta por el Departamento<span class=\"n\" id=\"n_0\">DTO 67,PLANIFICACION<br>D.O. 20.05.1993<br>DTO 229,PLANIFICACION<br>D.O. 03.11.1993</span> de Inversiones, por el Departamento de Planificaci&#xF3;n y Estudios Sociales, por el Departamento de Planificaci&#xF3;n y Estudios Econ&#xF3;micos y el Departamento de Peque&#xF1;a Producci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

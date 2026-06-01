@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-07-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9930107,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- En el cumplimiento de su objeto, el Consejo deber&#xE1;:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a) Evacuar, en el mes de enero de cada a&#xF1;o, un informe de seguimiento de la puesta en marcha del Sistema de Educaci&#xF3;n P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  b) Emitir un informe de evaluaci&#xF3;n intermedia del proceso de instalaci&#xF3;n de los Servicios Locales en el mes de marzo del a&#xF1;o 2021.</div><div class=\"p\">&nbsp; &nbsp;  c) Emitir el informe a que se refiere el inciso final del art&#xED;culo sexto transitorio de la ley N&#xB0; 21.040, sobre la facultad del Presidente de la Rep&#xFA;blica para extender la segunda etapa de instalaci&#xF3;n de los Servicios Locales.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- En el cumplimiento de su objeto, el Consejo deber&#xE1;:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a) Evacuar, en el mes de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1188468&amp;idParte=10403503&amp;idVersion=2023-01-31\">Decreto 219, EDUCACI&#xD3;N<br>Art. &#xFA;nico N&#xB0; 1<br>D.O. 31.01.2023</a></span>abril de cada a&#xF1;o, un informe de seguimiento de la puesta en marcha del Sistema de Educaci&#xF3;n P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  b) Emitir un informe de evaluaci&#xF3;n intermedia del proceso de instalaci&#xF3;n de los Servicios Locales en el mes de marzo del a&#xF1;o 2021.</div><div class=\"p\">&nbsp; &nbsp;  c) Emitir el informe a que se refiere el inciso final del art&#xED;culo sexto transitorio de la ley N&#xB0; 21.040, sobre la facultad del Presidente de la Rep&#xFA;blica para extender la segunda etapa de instalaci&#xF3;n de los Servicios Locales.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1188468,
+      "fecha": "2023-01-31"
+    }
+  }
+]

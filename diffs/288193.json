@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2009-02-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8460887,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese, a contar del 1 de febrero de 2009, el siguiente orden de Subrogancia del cargo de Secretaria Regional Ministerial de Salud de la Regi&#xF3;n de Arica y Parinacota, en caso de ausencia o impedimento de su titular:</div><br><div class=\"p\">Primer orden de Subrogancia</div><div class=\"p\">D. Ivonne Janet Sanhueza Salinas, RUT 10.640.717-7, Jefe Departamento Salud P&#xFA;blica, Directivo, Suplente, grado 5&#xBA; EUS.</div><br><div class=\"p\">&nbsp; &nbsp;  2. Decl&#xE1;rese que la Subrogante de la Secretaria Regional Ministerial de Salud de la Regi&#xF3;n de Arica y Parinacota asumir&#xE1; sus funciones, a contar de la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><br></div>"
+        },
+        {
+          "part_id": 8460888,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, comun&#xED;quese y publ&#xED;quese.- Por orden de la Presidenta de la Rep&#xFA;blica, &#xC1;lvaro Erazo Latorre, Ministro de Salud.</div><div class=\"p\">&nbsp; &nbsp;  Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Cecilia Morales Veloso, Subsecretaria de Salud P&#xFA;blica Subrogante.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

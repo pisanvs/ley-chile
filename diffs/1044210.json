@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2012-09-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-01-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9298913,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- En el plazo m&#xE1;ximo de dieciocho meses, contado desde la fecha de publicaci&#xF3;n de esta ley, deber&#xE1; efectuarse un programa de investigaci&#xF3;n conforme a las disposiciones del art&#xED;culo 7&#xBA; A de la Ley General de Pesca y Acuicultura.</div><div class=\"p\">&nbsp; &nbsp;  En el plazo de dos a&#xF1;os, contado desde la publicaci&#xF3;n de esta ley, se dictar&#xE1; el reglamento a que se refiere el art&#xED;culo 64 E de la Ley General de Pesca y Acuicultura, el que considerar&#xE1; los resultados del programa de investigaci&#xF3;n mencionado en el art&#xED;culo 7&#xBA; A de dicho texto normativo.</div><div class=\"p\">&nbsp; &nbsp;  Mientras no se dicte el reglamento a que alude el inciso anterior, quedar&#xE1;n suspendidas las obligaciones establecidas en los art&#xED;culos 64 E y 64 F de la Ley General de Pesca y Acuicultura, as&#xED; como la aplicaci&#xF3;n de las sanciones contenidas en el art&#xED;culo 111 B del mencionado cuerpo legal.&quot;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- En el plazo m&#xE1;ximo de dieciocho meses, contado desde la fecha de publicaci&#xF3;n de esta ley, deber&#xE1; efectuarse un programa de investigaci&#xF3;n conforme a las disposiciones del art&#xED;culo 7&#xBA; A de la Ley General de Pesca y Acuicultura.</div><div class=\"p\">&nbsp; &nbsp;  En el plazo de dos a&#xF1;os, contado desde la publicaci&#xF3;n de esta ley, se dictar&#xE1; el reglamento a que se refiere el art&#xED;culo 64 I de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1048776&amp;idParte=9332872&amp;idVersion=2013-01-01\">Ley 20657<br>Art. 6 a y b)<br>D.O. 09.02.2013</a></span>la Ley General de Pesca y Acuicultura, el que considerar&#xE1; los resultados del programa de investigaci&#xF3;n mencionado en el art&#xED;culo 7&#xBA; A de dicho texto normativo.</div><div class=\"p\">&nbsp; &nbsp;  Las obligaciones contenidas en los art&#xED;culos 64 E y 64 F de la Ley General de Pesca y Acuicultura, que pasan a ser art&#xED;culos 64 I y 64 J, ser&#xE1;n exigibles para los armadores de embarcaciones artesanales de una eslora igual o superior a 15 metros, en el plazo de 3 a&#xF1;os contado desde la publicaci&#xF3;n en el Diario Oficial del reglamento que regule tal actividad.</div><div class=\"p\">&nbsp; &nbsp;  Mientras no se dicte el reglamento a que alude el inciso anterior, quedar&#xE1;n suspendidas las obligaciones establecidas en los art&#xED;culos 64 I y 64 J d<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1048776&amp;idParte=9332872&amp;idVersion=2013-01-01\">Ley 20657<br>Art. 6 c)<br>D.O. 09.02.2013</a></span>e la Ley General de Pesca y Acuicultura, as&#xED; como la aplicaci&#xF3;n de las sanciones contenidas en el art&#xED;culo 111 B del mencionado cuerpo legal.&quot;.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1048776,
+      "fecha": "2013-01-01"
+    }
+  },
+  {
+    "fecha": "2020-09-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9298913,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- En el plazo m&#xE1;ximo de dieciocho meses, contado desde la fecha de publicaci&#xF3;n de esta ley, deber&#xE1; efectuarse un programa de investigaci&#xF3;n conforme a las disposiciones del art&#xED;culo 7&#xBA; A de la Ley General de Pesca y Acuicultura.</div><div class=\"p\">&nbsp; &nbsp;  En el plazo de dos a&#xF1;os, contado desde la publicaci&#xF3;n de esta ley, se dictar&#xE1; el reglamento a que se refiere el art&#xED;culo 64 I de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1048776&amp;idParte=9332872&amp;idVersion=2013-01-01\">Ley 20657<br>Art. 6 a y b)<br>D.O. 09.02.2013</a></span>la Ley General de Pesca y Acuicultura, el que considerar&#xE1; los resultados del programa de investigaci&#xF3;n mencionado en el art&#xED;culo 7&#xBA; A de dicho texto normativo.</div><div class=\"p\">&nbsp; &nbsp;  Las obligaciones contenidas en los art&#xED;culos 64 E y 64 F de la Ley General de Pesca y Acuicultura, que pasan a ser art&#xED;culos 64 I y 64 J, ser&#xE1;n exigibles para los armadores de embarcaciones artesanales de una eslora igual o superior a 15 metros, en el plazo de 3 a&#xF1;os contado desde la publicaci&#xF3;n en el Diario Oficial del reglamento que regule tal actividad.</div><div class=\"p\">&nbsp; &nbsp;  Mientras no se dicte el reglamento a que alude el inciso anterior, quedar&#xE1;n suspendidas las obligaciones establecidas en los art&#xED;culos 64 I y 64 J d<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1048776&amp;idParte=9332872&amp;idVersion=2013-01-01\">Ley 20657<br>Art. 6 c)<br>D.O. 09.02.2013</a></span>e la Ley General de Pesca y Acuicultura, as&#xED; como la aplicaci&#xF3;n de las sanciones contenidas en el art&#xED;culo 111 B del mencionado cuerpo legal.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- En el plazo m&#xE1;ximo de dieciocho meses, contado desde la fecha de publicaci&#xF3;n de esta ley, deber&#xE1; efectuarse un programa de investigaci&#xF3;n conforme a las disposiciones del art&#xED;culo 7&#xBA; A de la Ley General de Pesca y Acuicultura.</div><div class=\"p\">&nbsp; &nbsp;  En el plazo de dos a&#xF1;os, contado desde la publicaci&#xF3;n de esta ley, se dictar&#xE1; el reglamento a que se refiere el art&#xED;culo 64 I de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1048776&amp;idParte=9332872&amp;idVersion=2013-01-01\">Ley 20657<br>Art. 6 a y b)<br>D.O. 09.02.2013</a></span>la Ley General de Pesca y Acuicultura, el que considerar&#xE1; los resultados del programa de investigaci&#xF3;n mencionado en el art&#xED;culo 7&#xBA; A de dicho texto normativo.</div><div class=\"p\">&nbsp; &nbsp;  Las obligaciones contenidas en los art&#xED;culos 64 E y 64 F de la Ley General de Pesca y Acuicultura, que pasan a ser art&#xED;culos 64 I y 64 J, ser&#xE1;n exigibles para los armadores de embarcaciones artesanales de una eslora igual o superior a 15 metros, a <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1149237&amp;idParte=10156894&amp;idVersion=2020-09-08\">Ley 21259<br>Art. 3<br>D.O. 08.09.2020</a></span>partir del 1 de enero de 2024.</div><div class=\"p\">&nbsp; &nbsp;  Mientras no se dicte el reglamento a que alude el inciso anterior, quedar&#xE1;n suspendidas las obligaciones establecidas en los art&#xED;culos 64 I y 64 J d<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1048776&amp;idParte=9332872&amp;idVersion=2013-01-01\">Ley 20657<br>Art. 6 c)<br>D.O. 09.02.2013</a></span>e la Ley General de Pesca y Acuicultura, as&#xED; como la aplicaci&#xF3;n de las sanciones contenidas en el art&#xED;culo 111 B del mencionado cuerpo legal.&quot;.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1149237,
+      "fecha": "2020-09-08"
+    }
+  }
+]

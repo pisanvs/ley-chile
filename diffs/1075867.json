@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-10-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9585807,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaciones para el a&#xF1;o 2015 y siguientes, en la Regi&#xF3;n de Tarapac&#xE1;, para la adquisici&#xF3;n de los inmuebles ubicados en la comuna de Iquique, provincia de Iquique, Regi&#xF3;n de Tarapac&#xE1;, a ser destinados a la ejecuci&#xF3;n del Proyecto &quot;Reconstrucci&#xF3;n del Conjunto Habitacional Las Dunas&quot;, y que se singularizan a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48330.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada inmuebles a expropiar: 2.517,714 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Iquique, si lo hubiere.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaciones para el a&#xF1;o 2015 y siguientes, en la Regi&#xF3;n de Tarapac&#xE1;, para la adquisici&#xF3;n de los inmuebles ubicados en la comuna de Iquique, provincia de Iquique, Regi&#xF3;n de Tarapac&#xE1;, a ser destinados a la ejecuci&#xF3;n del Proyecto &quot;Reconstrucci&#xF3;n del Conjunto Habitacional Las Dunas&quot;, y que se singularizan a continuaci&#xF3;n:<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1083132&amp;idParte=9644556&amp;idVersion=2015-10-26\">Decreto 228 EXENTO,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 26.10.2015</a></span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/53066.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada inmuebles a expropiar: 2.517,714 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Iquique, si lo hubiere.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1083132,
+      "fecha": "2015-10-26"
+    }
+  }
+]

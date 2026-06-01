@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-02-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-07-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8417022,
+          "old": "<div><div class=\"p\">NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE ANCHOVETA Y SARDINA ESPA&#xD1;OLA DEL ARTICULO 1&#xBA; LETRAS A) Y B) DEL D.S. N&#xBA; 493 DE 1996, DEL MINISTERIO DE ECONOMIA, FOMENTO Y RECONSTRUCCI&#xD3;N. DEJA SIN EFECTO RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">NOMINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUERIA DE ANCHOVETA Y SARDINA ESPA&#xD1;OLA DEL ARTICULO 1&#xBA; LETRAS A) Y B) DEL D.S. N&#xBA; 493 DE 1996, DEL MINISTERIO DE ECONOMIA, FOMENTO Y RECONSTRUCCI&#xD3;N. DEJA SIN EFECTO RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

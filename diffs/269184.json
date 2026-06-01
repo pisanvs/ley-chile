@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-02-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-05-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8655356,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA; Dest&#xED;nanse las bandas de frecuencias 410,3375 - 412,8125 MHz y 420,3375 - 422,8125 MHz para la operaci&#xF3;n de equipos de radiocomunicaciones del servicio m&#xF3;vil de repetidoras comunitarias, que se autoricen mediante concesi&#xF3;n de servicio p&#xFA;blico. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA; Dest&#xED;nanse <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> las bandas de frecuencias 410,3375 - 412,8125 MHz y 420,3375 - 422,8125 MHz para la operaci&#xF3;n de equipos de radiocomunicaciones del servicio m&#xF3;vil de repetidoras comunitarias, que se autoricen mediante concesi&#xF3;n de servicio p&#xFA;blico. </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico, de la Resoluci&#xF3;n 2539 exenta, transportes, publicada el 10.05.2012, modifica la presente norma en el sentido de que las bandas de frecuencias reguladas por la presente norma tambi&#xE9;n podr&#xE1;n ser empleadas para suministrar servicio fijo. Las concesionarias de servicio m&#xF3;vil en las referidas bandas interesadas en suministrar servicio fijo, deber&#xE1;n solicitar nuevas concesiones sobre la misma banda de frecuencias autorizada.</div></div>"
+        }
+      ]
+    }
+  }
+]

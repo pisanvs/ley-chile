@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-12-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9537853,
+          "old": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cese a contar del 9 de octubre de 2014 el siguiente orden de subrogaci&#xF3;n del cargo de Director(a) de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Primer Orden de Subrogancia</div><div class=\"p\">&nbsp; &nbsp;  Mar&#xED;a Pamela Chacaltana Silva</div><div class=\"p\">&nbsp; &nbsp;  RUT: 9.000.307-0</div><div class=\"p\">&nbsp; &nbsp;  Jefa (T y P) del Departamento de Compras.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Segundo Orden de Subrogancia</div><div class=\"p\">&nbsp; &nbsp;  Alejandra Patricia Pizarro Guerrero</div><div class=\"p\">&nbsp; &nbsp;  RUT: 9.909.025-1</div><div class=\"p\">&nbsp; &nbsp;  Jefa Departamento Administraci&#xF3;n y Finanzas.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Decl&#xE1;rase que la Directora subrogante asumir&#xE1; sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cese a contar del 9 de octubre de 2014 el siguiente orden de subrogaci&#xF3;n del cargo de Director(a) de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Primer Orden de Subrogancia</div><div class=\"p\">&nbsp; &nbsp;  Mar&#xED;a Pamela Chacaltana Silva</div><div class=\"p\">&nbsp; &nbsp;  RUT: 9.000.307-0</div><div class=\"p\">&nbsp; &nbsp;  Jefa (T y P) del Departamento de Compras.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Segundo Orden de Subrogancia<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1085888&amp;idParte=9659960&amp;idVersion=2015-12-30\">Decreto 567 EXENTO,<br>SALUD<br>N&#xB0; 1<br>D.O. 30.12.2015</a></span></div><div class=\"p\">&nbsp; &nbsp;  D. V&#xED;ctor Barberis Castex</div><div class=\"p\">&nbsp; &nbsp;  Rut: 10.328.389-2</div><div class=\"p\">&nbsp; &nbsp;  Jefe (T y P) Departamento de Administraci&#xF3;n, Finanzas y Servicio Interno CENABAST.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Decl&#xE1;rase que la Directora subrogante asumir&#xE1; sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1085888,
+      "fecha": "2015-12-30"
+    }
+  }
+]

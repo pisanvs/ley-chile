@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-10-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-11-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6500320,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: El tiempo de duraci&#xF3;n de los trabajos estar&#xE1; determinado por la reducci&#xF3;n del monto de la multa a d&#xED;as, a raz&#xF3;n de un d&#xED;a por cada media Unidad Tributaria Mensual, los que podr&#xE1;n fraccionarse en horas para no afectar la jornada laboral o escolar del infractor, entendi&#xE9;ndose que el d&#xED;a comprende ocho horas laborales. Los trabajos deber&#xE1;n desarrollarse durante un m&#xE1;ximo de ocho horas a la semana y podr&#xE1;n incluir d&#xED;as s&#xE1;bado y feriados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: El tiempo de duraci&#xF3;n de los trabajos estar&#xE1; determinado por la reducci&#xF3;n del monto de la multa a d&#xED;as, a raz&#xF3;n de un d&#xED;a por cada quinto de Unidad<span class=\"n\" id=\"n_0\">DTO 1910,<br>PADRE HURTADO<br>N&#xBA;1<br>D.O. 17.11.2005</span> Tributaria Mensual, los que podr&#xE1;n fraccionarse en horas para no afectar la jornada laboral o escolar del infractor, entendi&#xE9;ndose que el d&#xED;a comprende ocho horas laborales. Los trabajos deber&#xE1;n desarrollarse durante un m&#xE1;ximo de ocho horas a la semana y podr&#xE1;n incluir d&#xED;as s&#xE1;bado y feriados.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

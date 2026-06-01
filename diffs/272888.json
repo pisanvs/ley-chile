@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2008-06-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-11-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8377227,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xB0;.- El monumento deber&#xE1; erigirse en el plazo de tres a&#xF1;os, contado desde la publicaci&#xF3;n de la presente ley. Vencido dicho plazo sin que se hubiere ejecutado la obra, los recursos obtenidos hasta esa fecha por concepto de erogaciones ser&#xE1;n aplicados a los objetivos de beneficencia que la Comisi&#xF3;n establezca.&quot;. </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xB0;.- El monumento deber&#xE1; erigirse en el plazo de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1096901&amp;idParte=9748440&amp;idVersion=2016-11-25\">Ley 20973<br>Art. &#xDA;NICO<br>D.O. 25.11.2016</a></span>diez a&#xF1;os, contado desde la publicaci&#xF3;n de la presente ley. Vencido dicho plazo sin que se hubiere ejecutado la obra, los recursos obtenidos hasta esa fecha por concepto de erogaciones ser&#xE1;n aplicados a los objetivos de beneficencia que la Comisi&#xF3;n establezca.&quot;.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1096901,
+      "fecha": "2016-11-25"
+    }
+  }
+]

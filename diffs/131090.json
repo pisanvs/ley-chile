@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-09-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-04-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8340250,
+          "old": "<div><div class=\"p\">AUTORIZA A DON MANUEL HIPOLITO GRA&#xD1;AS MEDINA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON MANUEL HIPOLITO GRA&#xD1;AS MEDINA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

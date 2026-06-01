@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1997-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-09-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9067574,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase para 1997, una cuota global anual de captura de Merluza del sur (Merluccius australis) de 8.100 toneladas para las aguas interiores, comprendidas entre el paralelo 41&#xB0;28,6&apos; L.S. y 56&#xB0; L.S.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase para 1997, una cuota global<span class=\"n\" id=\"n_0\">DTO 608 EXENTO<br><br>ART 1<br>D.O.01.09.1997</span> anual de captura de Merluza del sur (Merluccius australis) ECONOMIA de 9.510 toneladas para las aguas interiores, comprendidas entre el paralelo 41&#xB0;28,6&apos; L.S. y 56&#xB0; L.S. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1997-12-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9067574,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase para 1997, una cuota global<span class=\"n\" id=\"n_0\">DTO 608 EXENTO<br><br>ART 1<br>D.O.01.09.1997</span> anual de captura de Merluza del sur (Merluccius australis) ECONOMIA de 9.510 toneladas para las aguas interiores, comprendidas entre el paralelo 41&#xB0;28,6&apos; L.S. y 56&#xB0; L.S. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase para 1997, una cuota global<span class=\"n\" id=\"n_0\">DTO 608 EXENTO<br><br>ART 1<br>D.O.01.09.1997</span> anual de captura de Merluza del sur (Merluccius australis) ECONOMIA de 9.510 toneladas para las aguas interiores, comprendidas entre el paralelo 41&#xB0;28,6&apos; L.S. y 56&#xB0; L.S.</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo Unico del DTO 779 de la Subsecretar&#xED;a de Pesca, publicado en el Diario Oficial de 26.12.1997, modifica este art&#xED;culo en el sentido de aumentar en 400 toneladas, la cuota global anual de captura de la merluza del Sur en la zona de aguas interiores en la forma que se indica.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

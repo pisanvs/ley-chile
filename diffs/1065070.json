@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-08-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-08-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9493730,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; D&#xE9;jese sin efecto el concurso interno para proveer el cargo de jefe/a de departamento grado 8&#xBA; E.U.R., directivo tercer nivel jer&#xE1;rquico, con funciones en el Departamento de Planificaci&#xF3;n Regional de las Secretar&#xED;as Ministeriales de Educaci&#xF3;n de las regiones de Coquimbo, Libertador General Bernardo O&apos;Higgins, del Biob&#xED;o, Ays&#xE9;n y Metropolitana del Ministerio de Educaci&#xF3;n; y,</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; D&#xE9;jese sin efecto las respectivas bases administrativas y anexos, aprobadas por la resoluci&#xF3;n exenta N&#xBA; 9.227 de 2013, del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Proc&#xE9;dase a efectuar nueva convocatoria y elaboraci&#xF3;n de las pautas respectivas d&#xE1;ndose cumplimiento a lo ordenado por la Contralor&#xED;a General en los dict&#xE1;menes ya invocados.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1065539&amp;idParte=9497981&amp;idVersion=2014-08-19\">Resoluci&#xF3;n 5156 EXENTA,<br>EDUCACI&#xD3;N<br>D.O. 19.08.2014</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; D&#xE9;jese sin efecto el concurso interno para proveer el cargo de jefe/a de departamento grado 8&#xBA; EUR, directivo tercer nivel jer&#xE1;rquico, con funciones en el Departamento de Planificaci&#xF3;n Regional de la Secretar&#xED;a Ministerial de Educaci&#xF3;n de la Regi&#xF3;n del Biob&#xED;o, del Ministerio de Educaci&#xF3;n,</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; D&#xE9;jese sin efecto las respectivas bases administrativas y anexos, aprobadas por la resoluci&#xF3;n exenta N&#xBA; 9.227 de 2013, del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Proc&#xE9;dase a efectuar nueva convocatoria y elaboraci&#xF3;n de las pautas respectivas d&#xE1;ndose cumplimiento a lo ordenado por la Contralor&#xED;a General en los dict&#xE1;menes ya invocados.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1065539,
+      "fecha": "2014-08-19"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-01-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-01-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7327081,
+          "old": "<div><div class=\"p\">REGULA EXAMEN DE MEDICINA PREVENTIVA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.052 exenta.- Santiago, 16 de diciembre de 2005.- Visto: estos antecedentes; lo dispuesto en los art&#xED;culos 33, 34 N&#xBA; 2 y tercero transitorio de la ley N&#xBA; 19.966, en el art&#xED;culo 8&#xBA; de la ley N&#xBA; 18.469 y en el art&#xED;culo 35 de la ley 18.933; en los art&#xED;culos 14 y 15 del decreto N&#xBA; 170 de 2004, del Ministerio de Salud; las facultades que me otorgan los art&#xED;culos 4&#xBA; y 6&#xBA; del decreto ley N&#xBA; 2.763 de 1979 y lo establecido en la resoluci&#xF3;n N&#xBA; 520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica;</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - La necesidad de realizar ex&#xE1;menes de salud para la prevenci&#xF3;n y control del da&#xF1;o y mortalidad de problemas de salud priorizados en el documento &quot;Los Objetivos Sanitarios para la D&#xE9;cada 2000-2010&quot;.</div><div class=\"p\">&nbsp; &nbsp;  - La informaci&#xF3;n cient&#xED;fica cuya evidencia hace recomendable su aplicaci&#xF3;n a poblaci&#xF3;n espec&#xED;fica.</div><div class=\"p\">&nbsp; &nbsp;  - Que existe terapia adecuada en los problemas de salud identificados y que su aplicaci&#xF3;n es costo - efectiva; dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><br><div class=\"p\">REGULA EXAMEN DE MEDICINA PREVENTIVA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.052 exenta.- Santiago, 16 de diciembre de 2005.- Visto: estos antecedentes; lo dispuesto en los art&#xED;culos 33, 34 N&#xBA; 2 y tercero transitorio de la ley N&#xBA; 19.966, en el art&#xED;culo 8&#xBA; de la ley N&#xBA; 18.469 y en el art&#xED;culo 35 de la ley 18.933; en los art&#xED;culos 14 y 15 del decreto N&#xBA; 170 de 2004, del Ministerio de Salud; las facultades que me otorgan los art&#xED;culos 4&#xBA; y 6&#xBA; del decreto ley N&#xBA; 2.763 de 1979 y lo establecido en la resoluci&#xF3;n N&#xBA; 520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica;</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - La necesidad de realizar ex&#xE1;menes de salud para la prevenci&#xF3;n y control del da&#xF1;o y mortalidad de problemas de salud priorizados en el documento &quot;Los Objetivos Sanitarios para la D&#xE9;cada 2000-2010&quot;.</div><div class=\"p\">&nbsp; &nbsp;  - La informaci&#xF3;n cient&#xED;fica cuya evidencia hace recomendable su aplicaci&#xF3;n a poblaci&#xF3;n espec&#xED;fica.</div><div class=\"p\">&nbsp; &nbsp;  - Que existe terapia adecuada en los problemas de salud identificados y que su aplicaci&#xF3;n es costo - efectiva; dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 9&#xBA; de la RES 876 Exenta, Salud, publicada el 17.01.2007, dispuso la derogaci&#xF3;n de la presente norma a contar de su fecha de vigencia, esto es, el 1&#xBA; d&#xED;a del sexto mes siguiente al de su publicaci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

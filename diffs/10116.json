@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-06-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7139427,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Para ingresar al Primer Ciclo los alumnos deber&#xE1;n haber rendido satisfactoriamente el 8&#xB0; A&#xF1;o de Educaci&#xF3;n General B&#xE1;sica. Tambi&#xE9;n podr&#xE1;n ingresar al Tercer A&#xF1;o los alumnos que acrediten haber aprobado el 2&#xB0; A&#xF1;o de Educaci&#xF3;n Media, en cualquiera modalidad, en cuyo caso el establecimiento deber&#xE1; adoptar las medidas t&#xE9;cnico pedag&#xF3;gicas necesarias para suplir las carencias de formaci&#xF3;n que puedan presentar los alumnos en el Area Profesional.</div><div class=\"p\">&nbsp; &nbsp; En todo caso, la edad m&#xED;nima de ingreso de los alumnos ser&#xE1; de 18 a&#xF1;os cumplidos al 30 de Marzo del respectivo a&#xF1;o.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Para ingresar al Primer Ciclo los alumnos deber&#xE1;n haber rendido satisfactoriamente el 8&#xB0; A&#xF1;o de Educaci&#xF3;n General B&#xE1;sica. Tambi&#xE9;n podr&#xE1;n ingresar al Tercer A&#xF1;o los alumnos que acrediten haber aprobado el 2&#xB0; A&#xF1;o de Educaci&#xF3;n Media, en cualquiera modalidad, en cuyo caso el establecimiento deber&#xE1; adoptar las medidas t&#xE9;cnico pedag&#xF3;gicas necesarias para suplir las carencias de formaci&#xF3;n que puedan presentar los alumnos en el Area Profesional.</div><div class=\"p\">&nbsp; &nbsp; En todo caso, la edad m&#xED;nima de ingreso de los<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> alumnos ser&#xE1; de 18 a&#xF1;os cumplidos al 30 de Marzo del respectivo a&#xF1;o.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 6&#xBA; del DTO 182, Educaci&#xF3;n, publicado el 23.06.1992, que fue agregado por el N&#xBA; 3 del Art. &#xFA;nico del DTO 6, Educaci&#xF3;n, publicado el 28.06.2007, dispuso la derogaci&#xF3;n de la disposici&#xF3;n referida a edades de ingreso a la Ense&#xF1;anza B&#xE1;sica y Media de Adultos, que se establece en este inciso.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

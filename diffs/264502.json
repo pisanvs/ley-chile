@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-09-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-11-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7352877,
+          "old": "<div><div class=\"p\">N&#xD3;MINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUER&#xCD;A DE CONGRIO DORADO, INDIVIDUALIZADA EN EL ART&#xCD;CULO 1&#xBA; LETRA I) DEL DECRETO N&#xBA;354 DE 1993 DEL MINISTERIO DE ECONOM&#xCD;A, FOMENTO Y RECONSTRUCCI&#xD3;N </div></div>",
+          "new": "<div><div class=\"p\">N&#xD3;MINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUER&#xCD;A DE CONGRIO DORADO, INDIVIDUALIZADA EN EL ART&#xCD;CULO 1&#xBA; LETRA I) DEL DECRETO N&#xBA;354 DE 1993 DEL MINISTERIO DE ECONOM&#xCD;A, FOMENTO Y RECONSTRUCCI&#xD3;N </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

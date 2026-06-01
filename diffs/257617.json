@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1963-11-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1964-11-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7335769,
+          "old": "<div><div class=\"p\">REEMPLAZA LOS NUMEROS 1.o, 6.o Y EL INCISO 1.o DEL NUMERO 7.o DEL D.S. NUMERO 597, DE 11 DE AGOSTO DE 1960 </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 31 de Octubre de 1963.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 751.- Vistos: el art&#xED;culo 2.o, N.o 16, del DFL. N.o 294, de 5 de Abril de 1960, org&#xE1;nico del Ministerio de Agricultura; el D.S. N.o 597, de 11 de Agosto de 1960, expedido por dicha Secretar&#xED;a de Estado, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que el decreto supremo N.o 597, de 11 de Agosto de 1960, expedido por el Ministerio de Agricultura, aprob&#xF3; el Reglamento para el establecimiento de Industrias Pesqueras en el pa&#xED;s; y</div><div class=\"p\">&nbsp; &nbsp;  Que se hace necesario armonizar dicha reglamentaci&#xF3;n con la acci&#xF3;n que desarrollan en esta materia los diferentes organismos del Estado, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">REEMPLAZA LOS NUMEROS 1.o, 6.o Y EL INCISO 1.o DEL NUMERO 7.o DEL D.S. NUMERO 597, DE 11 DE AGOSTO DE 1960 </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 31 de Octubre de 1963.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 751.- Vistos: el art&#xED;culo 2.o, N.o 16, del DFL. N.o 294, de 5 de Abril de 1960, org&#xE1;nico del Ministerio de Agricultura; el D.S. N.o 597, de 11 de Agosto de 1960, expedido por dicha Secretar&#xED;a de Estado, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que el decreto supremo N.o 597, de 11 de Agosto de 1960, expedido por el Ministerio de Agricultura, aprob&#xF3; el Reglamento para el establecimiento de Industrias Pesqueras en el pa&#xED;s; y</div><div class=\"p\">&nbsp; &nbsp;  Que se hace necesario armonizar dicha reglamentaci&#xF3;n con la acci&#xF3;n que desarrollan en esta materia los diferentes organismos del Estado, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

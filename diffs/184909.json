@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-05-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-10-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6333467,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase como n&#xF3;mina oficial de miembros para integrar el Consejo Nacional de Pesca, por haber sido nominados por el Presidente de la Rep&#xFA;blica con acuerdo del Senado a los se&#xF1;ores:</div><br><div class=\"p\">&nbsp; 1. Se&#xF1;or Carlos Alfonso Moreno Meier</div><div class=\"p\">&nbsp; &nbsp;  Profesor de Biolog&#xED;a y Ciencias Doctor en Ciencias Biol&#xF3;gicas con menci&#xF3;n en Ecolog&#xED;a</div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 4.221.524-K Profesional con especialidad en Ecolog&#xED;a </div><div class=\"p\">&nbsp; 2. Se&#xF1;or Andr&#xE9;s Ignacio Couve Rioseco</div><div class=\"p\">&nbsp; &nbsp;  Ingeniero Pesquero</div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 4.557.095-9 Profesional Universitario relacionado con las Ciencias del Mar</div><br><div class=\"p\">&nbsp; 3. Claudio de los Sagrados Corazones Arteaga Reyes R.U.T.: 5.013.396-6 Abogado</div><br><div class=\"p\">&nbsp; 4. Pablo Jos&#xE9; Serra Banfi</div><div class=\"p\">&nbsp; &nbsp;  Ingeniero Matem&#xE1;tico Mag&#xED;ster en Ingenier&#xED;a Industrial Doctor en Econom&#xED;a</div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 6.577.866-1 Economista</div><br><div class=\"p\">&nbsp; 5. Domingo V&#xED;ctor Jim&#xE9;nez Olmo</div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 5.547.596-2</div><br><div class=\"p\">&nbsp; 6. Andr&#xE9;s Nicol&#xE1;s Galanakis Tapia</div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 5.587.175-2</div><br><div class=\"p\">&nbsp; 7. Pablo Ihnen de la Fuente</div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 6.866.516-6 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- F&#xED;jase como n&#xF3;mina oficial de miembros para integrar el Consejo Nacional de Pesca, por haber sido nominados por el Presidente de la Rep&#xFA;blica con acuerdo del Senado a los se&#xF1;ores:</div><br><div class=\"p\">&nbsp; 1. Se&#xF1;or Carlos Alfonso Moreno Meier</div><div class=\"p\">&nbsp; &nbsp;  Profesor de Biolog&#xED;a y Ciencias</div><div class=\"p\">&nbsp; &nbsp;  Doctor en Ciencias Biol&#xF3;gicas con menci&#xF3;n en Ecolog&#xED;a</div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 4.221.524-K</div><div class=\"p\">&nbsp; &nbsp;  Profesional con especialidad en Ecolog&#xED;a</div><br><div class=\"p\">&nbsp; 2. Se&#xF1;or Andr&#xE9;s Ignacio Couve Rioseco</div><div class=\"p\">&nbsp; &nbsp;  Ingeniero Pesquero</div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 4.557.095-9</div><div class=\"p\">&nbsp; &nbsp;  Profesional Universitario relacionado con las Ciencias del Mar</div><br><div class=\"p\">&nbsp; 3. Claudio de los Sagrados Corazones Arteaga Reyes<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 5.013.396-6</div><div class=\"p\">&nbsp; &nbsp;  Abogado</div><br><div class=\"p\">&nbsp; 4. Pablo Jos&#xE9; Serra Banfi</div><div class=\"p\">&nbsp; &nbsp;  Ingeniero Matem&#xE1;tico</div><div class=\"p\">&nbsp; &nbsp;  Mag&#xED;ster en Ingenier&#xED;a Industrial</div><div class=\"p\">&nbsp; &nbsp;  Doctor en Econom&#xED;a</div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 6.577.866-1</div><div class=\"p\">&nbsp; &nbsp;  Economista</div><br><div class=\"p\">&nbsp; 5. Domingo V&#xED;ctor Jim&#xE9;nez Olmo</div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 5.547.596-2</div><br><div class=\"p\">&nbsp; 6. Andr&#xE9;s Nicol&#xE1;s Galanakis Tapia</div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 5.587.175-2</div><br><div class=\"p\">&nbsp; 7. Pablo Ihnen de la Fuente</div><div class=\"p\">&nbsp; &nbsp;  R.U.T.: 6.866.516-6</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 2&#xBA; del DTO 163, Econom&#xED;a, publicado el 25.10.2003, modifica la presente norma en el sentido de dejar sin efecto la nominaci&#xF3;n de don Claudio de los Sagrados Corazones Arteaga Reyes all&#xED; oficializada, por renuncia de su titular.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

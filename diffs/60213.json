@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-01-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-04-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8924430,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Conc&#xE9;dese personalidad jur&#xED;dica a la entidad denominada &quot;Fundaci&#xF3;n de Beneficencia Auxilio Maltes&quot;, con domicilio en la provincia de Santiago, Regi&#xF3;n Metropolitana de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2.- Apru&#xE9;banse los estatutos por los cuales se ha de regir la citada entidad, en los t&#xE9;rminos de que dan testimonios las escrituras p&#xFA;blicas de fechas 12 de abril, 7 de noviembre y 2 de diciembre de 1996, otorgadas ante los Notarios P&#xFA;blicos de Santiago, don Patricio Raby Benavente y don Aliro Veloso Mu&#xF1;oz, la primera y las dos &#xFA;ltimas, respectivamente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Conc&#xE9;dese personalidad jur&#xED;dica a la entidad denominada<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> &quot;Fundaci&#xF3;n de Beneficencia Auxilio Maltes&quot;, con domicilio en la provincia de Santiago, Regi&#xF3;n Metropolitana de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2.- Apru&#xE9;banse los estatutos por los cuales se ha de regir la citada entidad, en los t&#xE9;rminos de que dan testimonios las escrituras p&#xFA;blicas de fechas 12 de abril, 7 de noviembre y 2 de diciembre de 1996, otorgadas ante los Notarios P&#xFA;blicos de Santiago, don Patricio Raby Benavente y don Aliro Veloso Mu&#xF1;oz, la primera y las dos &#xFA;ltimas, respectivamente.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  EL DTO 302, Justicia, publicado el 27.04.1998, aprob&#xF3; reformas de estatutos a la &quot;Fundaci&#xF3;n de Beneficencia Auxilio Maltes&quot;, cuya personalidad jur&#xED;dica aprob&#xF3; este decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1992-06-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-10-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9039037,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12&#xB0;.- Durante el a&#xF1;o 1992 se otorgar&#xE1;n 2.500 (dos mil quinientas) Becas en Educaci&#xF3;n B&#xE1;sica, 1.000 (mil) Becas en Educaci&#xF3;n Media, 300 (trescientas) Becas en Educaci&#xF3;n Superior en Centros de Formaci&#xF3;n T&#xE9;cnica y 450 (cuatrocientas cincuenta) Becas en Universidades e Institutos Profesionales de Educaci&#xF3;n Superior, dando un total de 4.250 (cuatro mil doscientos cincuenta) Becas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12&#xB0;.- Durante el a&#xF1;o 1992 se otorgar&#xE1;n 2.500 (dos mil quinientas) Becas en Educaci&#xF3;n B&#xE1;sica, 1.000 (mil) Becas en Educaci&#xF3;n Media, 150 (ciento cincuenta) Becas de Educaci&#xF3;n Superior en Centros de Formaci&#xF3;n T&#xE9;cnica y 600 (seiscientas) Becas en<span class=\"n\" id=\"n_0\">DS 339,Educ.<br>1992, Art.<br></span> Universidades e Institutos Profesionales de Educaci&#xF3;n Superior, dando un total de 4.250 (cuatro mil doscientos &#xFA;nico, a) cincuenta) Becas.<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  La letra a) del art&#xED;culo &#xFA;nico del DS N&#xB0; 339, de Educaci&#xF3;n, publicado en el &quot;Diario Oficial&quot; de 14 de octubre de 1992, modific&#xF3; el n&#xFA;mero de becas del presente art&#xED;culo, sin enmendar su total.<br></div></div>"
+        },
+        {
+          "part_id": 9039040,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 15&#xB0;.- Durante el a&#xF1;o 1992 se otorgar&#xE1;n 4.250 (cuatro mil doscientas cincuenta) Becas en total y el gasto que demande el Programa Especial de Becas Ind&#xED;genas se imputar&#xE1; de la siguiente forma:</div><div class=\"p\">&nbsp; &nbsp; 2.500 Becas de Educaci&#xF3;n B&#xE1;sica: 09.01.06.25.31.002.</div><div class=\"p\">&nbsp; &nbsp; 1.000 Becas de Educaci&#xF3;n Media : 09.01.06.25.31.003.</div><div class=\"p\">&nbsp; &nbsp; 450 Becas Educaci&#xF3;n Superior : 09.01.06.25.31.005.</div><div class=\"p\">&nbsp; &nbsp; 300 Becas Centros de Formaci&#xF3;n T&#xE9;cnica :</div><div class=\"p\">09.01.06.25.31.004.</div><div class=\"p\">&nbsp; &nbsp; &quot;PROGRAMA DE MEJORAMIENTO DE LA EDUCACION&quot; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 15&#xB0;.- Durante el a&#xF1;o 1992 se otorgar&#xE1;n 4.250 (cuatro mil doscientas cincuenta) Becas en total y el gasto que demande el Programa Especial de Becas Ind&#xED;genas se imputar&#xE1; de la siguiente forma:</div><div class=\"p\">&nbsp; &nbsp;  2.500 Becas de Educaci&#xF3;n B&#xE1;sica: 09.01.06.25.31.002.</div><div class=\"p\">&nbsp; &nbsp;  1.000 Becas de Educaci&#xF3;n Media : 09.01.06.25.31.003.</div><div class=\"p\">&nbsp; &nbsp;  600 Becas Educaci&#xF3;n Superior : 09.01.06.25.31.005.<span class=\"n\" id=\"n_2\">DS 339,Educ.<br>1992, Art.<br>&#xFA;nico, b)</span></div><div class=\"p\">&nbsp; &nbsp; 150 Becas Centros de Formaci&#xF3;n T&#xE9;cnica : 09.01.06.25.31.004.</div><div class=\"p\">&nbsp; &nbsp;  &quot;PROGRAMA DE MEJORAMIENTO DE LA EDUCACION&quot;</div><br></div>"
+        }
+      ]
+    }
+  }
+]

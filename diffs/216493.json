@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-10-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-08-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8462420,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Todos los accesos principales a inmuebles con frente a bienes nacionales de uso p&#xFA;blico, deber&#xE1;n ser numerados conforme a las presentes normas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Todos los accesos principales a inmuebles con frente a bienes nacionales de uso p&#xFA;blico, deber&#xE1;n ser numerados conforme a las presentes normas.</div><div class=\"p\">&nbsp; &nbsp;  Esta numeraci&#xF3;n se otorgar&#xE1; mediante un<span class=\"n\" id=\"n_0\">ORZ 71,<br>M. DE PROVIDENCIA<br>N&#xBA; 1<br>D.O. 29.08.2008</span> certificado de n&#xFA;mero, el que puede ser expedido a trav&#xE9;s de medios electr&#xF3;nicos o por medios convencionales.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

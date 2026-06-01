@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2000-08-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-09-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6294926,
+          "old": "<div><div class=\"p\">OTORGA RECONOCIMIENTO OFICIAL A&nbsp; ESCUELA DE CONDUCTORES AUTOMOVIL CLUB DE CHILE LTDA.</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 178 exenta.- Talca, 21 de julio de 2000.- Visto: Lo dispuesto en el art&#xED;culo 31 D de la ley N&#xBA;18.290; el art&#xED;culo 6&#xBA; del DS N&#xBA;251, de 9 de octubre de 1998, que establece el Reglamento para las Escuelas de Conductores Profesionales; la resoluci&#xF3;n N&#xBA;249, de 19 de diciembre de 1997, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la solicitud Escuela de Conductores Autom&#xF3;vil Club de Chile Ltda., del 3 de marzo de 2000, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtenci&#xF3;n de licencias profesionales clase A-1; A-2; A-3; A4; A-5.</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que corresponde a esta Secretar&#xED;a Regional Ministerial, emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle un reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los art&#xED;culos 31 A, 31 B, y 31 C de la ley N&#xBA;18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">OTORGA RECONOCIMIENTO OFICIAL A&nbsp; ESCUELA DE CONDUCTORES AUTOMOVIL CLUB DE CHILE LTDA.</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 178 exenta.- Talca, 21 de julio de 2000.- Visto: Lo dispuesto en el art&#xED;culo 31 D de la ley N&#xBA;18.290; el art&#xED;culo 6&#xBA; del DS N&#xBA;251, de 9 de octubre de 1998, que establece el Reglamento para las Escuelas de Conductores Profesionales; la resoluci&#xF3;n N&#xBA;249, de 19 de diciembre de 1997, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; la solicitud Escuela de Conductores Autom&#xF3;vil Club de Chile Ltda., del 3 de marzo de 2000, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtenci&#xF3;n de licencias profesionales clase A-1; A-2; A-3; A4; A-5.</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Que corresponde a esta Secretar&#xED;a Regional Ministerial, emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle un reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los art&#xED;culos 31 A, 31 B, y 31 C de la ley N&#xBA;18.290,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        },
+        {
+          "part_id": 6294927,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Ot&#xF3;rgase reconocimiento oficial a la Escuela de Conductores Profesionales denominada Escuela de Conductores Autom&#xF3;vil Club de Chile Ltda., representada por don Fernando Araya Granifo para impartir los cursos conducentes a la obtenci&#xF3;n de licencias profesionales Clase A-1; A-2; A-3; A-4; A-5 en la sede ubicada en calle Chacabuco N&#xBA;759, comuna de Curic&#xF3;, VII Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en extracto por el interesado en el Diario Oficial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Ot&#xF3;rgase reconocimiento oficial a la Escuela de</div><div class=\"p\">Conductores Profesionales denominada Escuela de</div><div class=\"p\">Conductores Autom&#xF3;vil Club de Chile Ltda., representada</div><div class=\"p\">por don Fernando Araya Granifo para impartir los cursos</div><div class=\"p\">conducentes a la obtenci&#xF3;n de licencias profesionales</div><div class=\"p\">Clase A-1; A-2; A-3; A-4; A-5 en la sede ubicada en</div><div class=\"p\">calle Ren&#xE9; Le&#xF3;n Echaiz N&#xBA;84, comuna de Curic&#xF3;, VII<span class=\"n\" id=\"n_0\">RES 144 EXENTA,<br>TRANSPORTES<br>02.09.2003</span></div><div class=\"p\">Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en extracto por el interesado en el</div><div class=\"p\">Diario Oficial.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

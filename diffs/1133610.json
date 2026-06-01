@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-07-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10036162,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Recon&#xF3;zcase, en el marco del &quot;Acuerdo de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Grados Acad&#xE9;micos de Educaci&#xF3;n Superior Universitaria entre la Rep&#xFA;blica de Chile y el Reino de Espa&#xF1;a&quot;, suscrito el 23 de junio de 2017, los t&#xED;tulos, diplomas o grados acad&#xE9;micos universitarios de pregrado obtenidos en las universidades espa&#xF1;olas que se indican a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/94779.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/94780.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/94781.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/94782.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Recon&#xF3;zcase, en el marco del &quot;Acuerdo de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Grados Acad&#xE9;micos de Educaci&#xF3;n Superior Universitaria entre la Rep&#xFA;blica de Chile y el Reino de Espa&#xF1;a&quot;, suscrito el 23 de junio de 2017, los t&#xED;tulos, diplomas o grados acad&#xE9;micos universitarios de pregrado obtenidos en las universidades espa&#xF1;olas que se indican a continuaci&#xF3;n:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/94779.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/94780.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/94781.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/94782.jpg\">.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo tercero de la Resoluci&#xF3;n 3763 Exenta, Educaci&#xF3;n, publicada el 02.08.2019, modifica la presente norma en el sentido de rectificar el N&#xB0; 10 del listado en la parte que dice &quot;David Jes&#xFA;s&quot;, debiendo decir &quot;David&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

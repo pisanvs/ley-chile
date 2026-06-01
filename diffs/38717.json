@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-10-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-06-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201386,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA FECHA DE CUMPLIMIENTO DEL ARTICULO 45&#xB0;, DECRETO NUMERO 212, DE 1992</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 287 exenta.- Antofagasta, 20 de septiembre de 1995.- Visto: el art. 45&#xB0; del Decreto Supremo N&#xB0; 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; FIJA FECHA DE CUMPLIMIENTO DEL ARTICULO 45&#xB0;, DECRETO NUMERO 212, DE 1992</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 287 exenta.- Antofagasta, 20 de septiembre de 1995.- Visto: el art. 45&#xB0; del Decreto Supremo N&#xB0; 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2002-10-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-10-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6695069,
+          "old": "<div><div class=\"p\">EXTRACTO DE MODIFICACION DE RESOLUCION N&#xBA; 1.167 EXENTA, DE 2002</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xBA; 1.167 DE 2002, QUE<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 23.10.2002</span></div><div class=\"p\">MODIFICA RESOLUCION EXENTA 1213 DE 2001</div><br></div>"
+        },
+        {
+          "part_id": 6695070,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;case la resoluci&#xF3;n exenta N&#xBA; 1.167 de fecha 4 de octubre del 2002, correspondiente al cuarto proceso de postulaci&#xF3;n, para viviendas B&#xE1;sicas Serviu, en el sentido de modificar el N&#xBA; de viviendas en las siguientes ofertas:</div><br><div class=\"p\">Oferta N&#xBA; 3&nbsp;  Programa de Viviendas B&#xE1;sicas Serviu-</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Adulto Mayor</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Se disminuye a 22 el n&#xFA;mero de viviendas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tipo C, con dos dormitorios, en el</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; conjunto habitacional Cardenal Ra&#xFA;l Silva</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Henr&#xED;quez 2, comuna de Cerrillos.</div><br><div class=\"p\">Oferta N&#xBA; 6&nbsp;  Programa de Viviendas B&#xE1;sicas Serviu-</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Adulto Mayor</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Se aumenta a 33 el n&#xFA;mero de viviendas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tipo C, con dos dormitorios, en el</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; conjunto habitacional Cardenal Ra&#xFA;l Silva</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Henr&#xED;quez 2, comuna de Cerrillos.</div><br><div class=\"p\">Oferta N&#xBA; 10&nbsp; Programa de Viviendas B&#xE1;sicas Serviu</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Se aumenta a 88 el n&#xFA;mero de viviendas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tipo B, con dos dormitorios, en el</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; conjunto habitacional Las Hortensias 2</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Balmaceda), comuna de San Bernardo.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 1167 de 04.10.2002<span class=\"n\" id=\"n_1\">RECTIFICACION<br>D.O. 23.10.2002</span></div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;case la resoluci&#xF3;n exenta N&#xBA; 1.213 de fecha 4 de octubre de 2001, correspondiente al cuarto proceso de postulaci&#xF3;n, para viviendas B&#xE1;sicas Serviu, en el sentido de modificar el N&#xBA; de viviendas en las siguientes ofertas:</div><br><div class=\"p\">Oferta N&#xBA; 3&nbsp;  Programa de Viviendas B&#xE1;sicas Serviu-</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Adulto Mayor</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Se disminuye a 22 el n&#xFA;mero de viviendas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tipo C, con dos dormitorios, en el</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; conjunto habitacional Cardenal Ra&#xFA;l Silva</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Henr&#xED;quez 2, comuna de Cerrillos.</div><br><div class=\"p\">Oferta N&#xBA; 6&nbsp;  Programa de Viviendas B&#xE1;sicas Serviu-</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Adulto Mayor</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Se aumenta a 33 el n&#xFA;mero de viviendas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tipo C, con dos dormitorios, en el</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; conjunto habitacional Cardenal Ra&#xFA;l Silva</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Henr&#xED;quez 2, comuna de Cerrillos.</div><br><div class=\"p\">Oferta N&#xBA; 10&nbsp; Programa de Viviendas B&#xE1;sicas Serviu</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Se aumenta a 88 el n&#xFA;mero de viviendas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tipo B, con dos dormitorios, en el</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; conjunto habitacional Las Hortensias 2</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Balmaceda), comuna de San Bernardo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

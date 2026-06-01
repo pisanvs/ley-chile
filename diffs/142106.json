@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-04-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-12-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8349187,
+          "old": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO QUE INDICA DEL INSTITUTO DE FOMENTO PESQUERO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 34.- Santiago, 21 de Enero de 1987.- Visto: Decreto Ley No. 799 de 1974, modificado por el DFL No.</div><div class=\"p\">12.2345 de 1979 del Ministerio del Interior, Circular No. 9.277 de 1975 y Resoluciones No. s 600 de 1977 y 1.050 de 1980, todos de la Contralor&#xED;a General de la Rep&#xFA;blica; Ord. 121 de 07.01.87 de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n,</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, el Instituto de Fomento Pesquero, en su calidad de autoridad reconocida para los efectos de preembarques y embarques de harina y aceite de pescado, necesita mantener en permanente funcionamiento un veh&#xED;culo para dar oportuno cumplimiento a las funciones descritas en recintos portuarios, empresas pesqueras y otros lugares de la Base Zonal de IFOP en Arica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA CIRCULACION DE VEHICULO QUE INDICA DEL INSTITUTO DE FOMENTO PESQUERO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 34.- Santiago, 21 de Enero de 1987.- Visto: Decreto Ley No. 799 de 1974, modificado por el DFL No.</div><div class=\"p\">12.2345 de 1979 del Ministerio del Interior, Circular No. 9.277 de 1975 y Resoluciones No. s 600 de 1977 y 1.050 de 1980, todos de la Contralor&#xED;a General de la Rep&#xFA;blica; Ord. 121 de 07.01.87 de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n,</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, el Instituto de Fomento Pesquero, en su calidad de autoridad reconocida para los efectos de preembarques y embarques de harina y aceite de pescado, necesita mantener en permanente funcionamiento un veh&#xED;culo para dar oportuno cumplimiento a las funciones descritas en recintos portuarios, empresas pesqueras y otros lugares de la Base Zonal de IFOP en Arica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

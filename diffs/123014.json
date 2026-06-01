@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "1998-08-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-11-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7237197,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &apos;&apos;Art&#xED;culo &#xFA;nico.- Ot&#xF3;rgase al personal del Ministerio de Obras P&#xFA;blicas y servicios dependientes que ejerza funciones de Operador de Maquinaria Pesada en forma permanente, y mientras las desempe&#xF1;e, una asignaci&#xF3;n mensual equivalente al 15% de la suma del sueldo base m&#xE1;s la asignaci&#xF3;n del art&#xED;culo 17 de la ley&nbsp; N&#xBA; 19.185, la cual tendr&#xE1; el car&#xE1;cter de remuneraci&#xF3;n para todos los efectos legales.</div><div class=\"p\">&nbsp; &nbsp;  El Ministro de Obras P&#xFA;blicas, mediante reglamento, definir&#xE1; el tipo de maquinaria que se considerar&#xE1; pesada para los efectos de la concesi&#xF3;n de este beneficio.</div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n del Jefe Superior del servicio respectivo, visada por el Subsecretario de Obras P&#xFA;blicas, se individualizar&#xE1; a los trabajadores que acceder&#xE1;n al beneficio. Si fuere superior este n&#xFA;mero se preferir&#xE1; a los funcionarios con mayor antig&#xFC;edad en el servicio.</div><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese un n&#xFA;mero m&#xE1;ximo de 350 personas con derecho a percibir esta asignaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &apos;&apos;Art&#xED;culo &#xFA;nico.- Ot&#xF3;rgase al personal del Ministerio de Obras P&#xFA;blicas y servicios dependientes que ejerza funciones de Operador de Maquinaria Pesada en forma permanente, y mientras las desempe&#xF1;e, una asignaci&#xF3;n mensual equivalente al 15% de la suma del sueldo base m&#xE1;s la asignaci&#xF3;n del art&#xED;culo 17 de la ley&nbsp; N&#xBA; 19.185, la cual tendr&#xE1; el car&#xE1;cter de remuneraci&#xF3;n para todos los efectos legales.</div><div class=\"p\">&nbsp; &nbsp;  El Ministro de Obras P&#xFA;blicas, mediante reglamento, definir&#xE1; el tipo de maquinaria que se considerar&#xE1; pesada para los efectos de la concesi&#xF3;n de este beneficio.</div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n del Jefe Superior del servicio respectivo, visada por el Subsecretario de Obras P&#xFA;blicas, se individualizar&#xE1; a los trabajadores que acceder&#xE1;n al beneficio. Si fuere superior este n&#xFA;mero se preferir&#xE1; a los funcionarios con mayor antig&#xFC;edad en el servicio.</div><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese un n&#xFA;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1008412&amp;idParte=8810236&amp;idVersion=2009-11-30\">Ley 20403<br>Art. 34<br>D.O. 30.11.2009</a></span>mero m&#xE1;ximo de 550 personas con derecho a percibir esta asignaci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-07-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7237197,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &apos;&apos;Art&#xED;culo &#xFA;nico.- Ot&#xF3;rgase al personal del Ministerio de Obras P&#xFA;blicas y servicios dependientes que ejerza funciones de Operador de Maquinaria Pesada en forma permanente, y mientras las desempe&#xF1;e, una asignaci&#xF3;n mensual equivalente al 15% de la suma del sueldo base m&#xE1;s la asignaci&#xF3;n del art&#xED;culo 17 de la ley&nbsp; N&#xBA; 19.185, la cual tendr&#xE1; el car&#xE1;cter de remuneraci&#xF3;n para todos los efectos legales.</div><div class=\"p\">&nbsp; &nbsp;  El Ministro de Obras P&#xFA;blicas, mediante reglamento, definir&#xE1; el tipo de maquinaria que se considerar&#xE1; pesada para los efectos de la concesi&#xF3;n de este beneficio.</div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n del Jefe Superior del servicio respectivo, visada por el Subsecretario de Obras P&#xFA;blicas, se individualizar&#xE1; a los trabajadores que acceder&#xE1;n al beneficio. Si fuere superior este n&#xFA;mero se preferir&#xE1; a los funcionarios con mayor antig&#xFC;edad en el servicio.</div><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese un n&#xFA;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1008412&amp;idParte=8810236&amp;idVersion=2009-11-30\">Ley 20403<br>Art. 34<br>D.O. 30.11.2009</a></span>mero m&#xE1;ximo de 550 personas con derecho a percibir esta asignaci&#xF3;n.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &apos;&apos;Art&#xED;culo &#xFA;nico.- Ot&#xF3;rgase al personal del Ministerio de Obras P&#xFA;blicas y servicios dependientes que ejerza funciones de Operador de Maquinaria Pesada en forma permanente, y mientras las desempe&#xF1;e, una asignaci&#xF3;n mensual equivalente al 15% de la suma del sueldo base m&#xE1;s la asignaci&#xF3;n del art&#xED;culo 17 de la ley&nbsp; N&#xBA; 19.185, la cual tendr&#xE1; el car&#xE1;cter de remuneraci&#xF3;n para todos los efectos legales.</div><div class=\"p\">&nbsp; &nbsp;  El Ministro de Obras P&#xFA;blicas, mediante reglamento, definir&#xE1; el tipo de maquinaria que se considerar&#xE1; pesada para los efectos de la concesi&#xF3;n de este beneficio.</div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n del Jefe Superior del servicio respectivo, visada por el Subsecretario de Obras P&#xFA;blicas, se individualizar&#xE1; a los trabajadores que acceder&#xE1;n al beneficio. Si fuere superior este n&#xFA;mero se preferir&#xE1; a los funcionarios con mayor antig&#xFC;edad en el servicio.</div><div class=\"p\">&nbsp; &nbsp;  El n&#xFA;mero <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1079668&amp;idParte=9623203&amp;idVersion=2015-07-20\">Ley 20846<br>Art. 3<br>D.O. 20.07.2015</a></span>m&#xE1;ximo de personas que tendr&#xE1;n derecho a percibir esta asignaci&#xF3;n ser&#xE1; fijado anualmente por el Ministerio de Obras P&#xFA;blicas, mediante decreto fundado en criterios objetivos, expedido bajo la f&#xF3;rmula &quot;Por orden del Presidente de la Rep&#xFA;blica&quot;, y visado por la Direcci&#xF3;n de Presupuestos. Mientras no se dicte este primer decreto, el n&#xFA;mero m&#xE1;ximo de personas que tendr&#xE1;n derecho a percibir esta asignaci&#xF3;n ser&#xE1; de 871.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1079668,
+      "fecha": "2015-07-20"
+    }
+  }
+]

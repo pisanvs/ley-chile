@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "1994-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-05-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9030018,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- Los Consejos Regionales estar&#xE1;n integrados por:</div><div class=\"p\"> a) El Secretario Regional Ministerial de</div><div class=\"p\">&nbsp; &nbsp; Agricultura correspondiente;</div><div class=\"p\"> b) El Secretario Regional Ministerial de</div><div class=\"p\">&nbsp; &nbsp; Planificaci&#xF3;n y Cooperaci&#xF3;n respectivo, y c) Cinco representantes de las organizaciones de peque&#xF1;os productores agr&#xED;colas y campesinos con personalidad jur&#xED;dica, elegidos por sus bases con a lo menos un representante por provincia, que se encuentren inscritas en el Registro a que se refiere el inciso primero del art&#xED;culo 15 de este Reglamento.</div><div class=\"p\">&nbsp; &nbsp; Estos representantes durar&#xE1;n dos a&#xF1;os en el cargo, a contar desde su elecci&#xF3;n y podr&#xE1;n ser reelegidos para per&#xED;odos sucesivos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- Los Consejos Regionales estar&#xE1;n integrados por:</div><div class=\"p\"> a) El Secretario Regional Ministerial de</div><div class=\"p\">&nbsp; &nbsp; Agricultura correspondiente;</div><div class=\"p\"> b) El Secretario Regional Ministerial de</div><div class=\"p\">&nbsp; &nbsp; Planificaci&#xF3;n y Cooperaci&#xF3;n respectivo, y c) Cinco representantes de las organizaciones de peque&#xF1;os productores agr&#xED;colas y campesinos con personalidad jur&#xED;dica, elegidos por sus bases con a lo menos un representante por provincia, que se encuentren inscritas en el Registro a que se refiere el inciso primero del art&#xED;culo 15 de este Reglamento.</div><div class=\"p\">&nbsp; &nbsp; E<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1160334&amp;idParte=10230100&amp;idVersion=2021-05-28\">Decreto 1, AGRICULTURA<br>N&#xB0; 1<br>D.O. 28.05.2021</a></span>stos representantes durar&#xE1;n cuatro a&#xF1;os en el cargo, y no podr&#xE1;n ser reelegidos para el per&#xED;odo siguiente.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-11-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9030018,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- Los Consejos Regionales estar&#xE1;n integrados por:</div><div class=\"p\"> a) El Secretario Regional Ministerial de</div><div class=\"p\">&nbsp; &nbsp; Agricultura correspondiente;</div><div class=\"p\"> b) El Secretario Regional Ministerial de</div><div class=\"p\">&nbsp; &nbsp; Planificaci&#xF3;n y Cooperaci&#xF3;n respectivo, y c) Cinco representantes de las organizaciones de peque&#xF1;os productores agr&#xED;colas y campesinos con personalidad jur&#xED;dica, elegidos por sus bases con a lo menos un representante por provincia, que se encuentren inscritas en el Registro a que se refiere el inciso primero del art&#xED;culo 15 de este Reglamento.</div><div class=\"p\">&nbsp; &nbsp; E<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1160334&amp;idParte=10230100&amp;idVersion=2021-05-28\">Decreto 1, AGRICULTURA<br>N&#xB0; 1<br>D.O. 28.05.2021</a></span>stos representantes durar&#xE1;n cuatro a&#xF1;os en el cargo, y no podr&#xE1;n ser reelegidos para el per&#xED;odo siguiente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- Los Consejos Regionales estar&#xE1;n integrados por:</div><div class=\"p\"> a) El Secretario Regional Ministerial de</div><div class=\"p\">&nbsp; &nbsp; Agricultura correspondiente;</div><div class=\"p\"> b) El Secretario Regional Ministerial de</div><div class=\"p\">&nbsp; &nbsp; Planificaci&#xF3;n y Cooperaci&#xF3;n respectivo, y c) Cinco representantes de las organizaciones de peque&#xF1;os productores agr&#xED;colas y campesinos con personalidad jur&#xED;dica, elegidos por sus bases con a lo menos un representante por provincia, que se encuentren inscritas en el Registro a que se refiere el inciso primero del art&#xED;culo 15 de este Reglamento.</div><div class=\"p\">&nbsp; &nbsp; Estos<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1168507&amp;idParte=10286044&amp;idVersion=2021-11-19\">Decreto 17,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 19.11.2021</a></span> representantes durar&#xE1;n cuatro a&#xF1;os en el cargo, a contar de su elecci&#xF3;n y podr&#xE1;n ser reelegidos por una sola vez.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1168507,
+      "fecha": "2021-11-19"
+    }
+  }
+]

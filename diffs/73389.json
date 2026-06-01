@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-06-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-06-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048263,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  La VIII Direcci&#xF3;n Regional del Servicio de Impuestos Internos, por Resoluci&#xF3;n DRE08/N&#xBA; Ex. 310 de fecha 7 de mayo de 1997, excepciona, a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n a &quot;Alimentos Mar Profundo S.A.&quot;, Rut. N&#xBA; 96.766.580-0 del r&#xE9;gimen de cambio de sujeto de IVA, establecido en la Resoluci&#xF3;n N&#xBA; Ex. 3.069, de 28-06-96 de la Direcci&#xF3;n Nacional, publicada en el Diario Oficial del d&#xED;a 02-07-96. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  La VIII Direcci&#xF3;n Regional del Servicio de Impuestos Internos, por Resoluci&#xF3;n DRE08/N&#xBA; Ex. 310 de fecha 7 de mayo de 1997, excepciona, a contar de la<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 30.06.1997</span> fecha de esta publicaci&#xF3;n a &quot;Alimentos Mar Profundo S.A.&quot;, Rut. N&#xBA; 96.766.580-0 del r&#xE9;gimen de cambio de sujeto de IVA, establecido en la Resoluci&#xF3;n N&#xBA; Ex. 3.069, de 28-06-96 de la Direcci&#xF3;n Nacional, publicada en el Diario Oficial del d&#xED;a 02-07-96. </div></div>"
+        }
+      ]
+    }
+  }
+]

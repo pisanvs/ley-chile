@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-12-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-10-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6190277,
+          "old": "<div><br><div class=\"p\">DECLARA QUE LA EDUCACION DE ADULTOS NO ESTA AFECTA A NORMAS DEL DECRETO EXENTO No. 76, DE 1985, EN LO QUE SE REFIERE A EXAMENES DE FIN DE A&#xD1;O</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 232 exento.- Santiago, 18 de Noviembre de 1987.-</div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que el adulto posee caracter&#xED;sticas propias, un desarrollado grado de madurez, experiencias, conocimientos e intereses diferentes a los ni&#xF1;os;</div><div class=\"p\">&nbsp; &nbsp;  Que la Educaci&#xF3;n de Adultos debe considerar y resolver la incompatibilidad que suele darse entre el estudio y el trabajo y las responsabilidades familiares y sociales de los adultos;</div><div class=\"p\">&nbsp; &nbsp;  Que se debe facilitar el proceso educativo de los adultos evitando las exigencias que interfieren en su desarrollo e inciden en la deserci&#xF3;n escolar; y</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en la Ley No. 16.526 de 1966; Decreto Supremo de Educaci&#xF3;n No. 9.555 de 1980; Resoluci&#xF3;n No. 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica; y en los art&#xED;culos 32 No. 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\"> DECLARA QUE LA EDUCACION DE ADULTOS NO ESTA AFECTA A NORMAS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"> DEL DECRETO EXENTO No. 76, DE 1985, EN LO QUE SE REFIERE</div><div class=\"p\">A EXAMENES DE FIN DE A&#xD1;O</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 232 exento.- Santiago, 18 de Noviembre de 1987.-</div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que el adulto posee caracter&#xED;sticas propias, un desarrollado grado de madurez, experiencias, conocimientos e intereses diferentes a los ni&#xF1;os;</div><div class=\"p\">&nbsp; &nbsp;  Que la Educaci&#xF3;n de Adultos debe considerar y resolver la incompatibilidad que suele darse entre el estudio y el trabajo y las responsabilidades familiares y sociales de los adultos;</div><div class=\"p\">&nbsp; &nbsp;  Que se debe facilitar el proceso educativo de los adultos evitando las exigencias que interfieren en su desarrollo e inciden en la deserci&#xF3;n escolar; y</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en la Ley No. 16.526 de 1966; Decreto Supremo de Educaci&#xF3;n No. 9.555 de 1980; Resoluci&#xF3;n No. 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica; y en los art&#xED;culos 32 No. 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 22 del DTO 146 exento, Educaci&#xF3;n, publicado el 08.10.1988, modificado por el DTO 157 exento, Educaci&#xF3;n, publicado 13.06.2000, que cambi&#xF3; su numeraci&#xF3;n, derog&#xF3; la presente norma, a partir del a&#xF1;o escolar 1989.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

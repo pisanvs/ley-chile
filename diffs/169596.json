@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1968-12-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-02-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7270464,
+          "old": "<div><div class=\"p\">REGLAMENTO DEL FORMULARIO NACIONAL DE MEDICAMENTOS Y DE SU COMISION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 22 de Noviembre de 1968.- Hoy se decret&#xF3; lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.031.- Visto: lo informado por el Director General de Salud mediante oficio N&#xBA; 366, de 20 de Noviembre de 1968; lo dispuesto en los art&#xED;culos 100&#xBA;, 101&#xBA; y 105&#xBA; del DFL. N&#xBA; 725, de 1968, y en uso de la facultad que me concede el N&#xBA; 2 del art&#xED;culo 72&#xBA; de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente &quot;Reglamento del Formulario Nacional de Medicamentos y de su Comisi&#xF3;n&quot;:</div><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTO DEL FORMULARIO NACIONAL DE MEDICAMENTOS Y DE SU COMISION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 22 de Noviembre de 1968.- Hoy se decret&#xF3; lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.031.- Visto: lo informado por el Director General de Salud mediante oficio N&#xBA; 366, de 20 de Noviembre de 1968; lo dispuesto en los art&#xED;culos 100&#xBA;, 101&#xBA; y 105&#xBA; del DFL. N&#xBA; 725, de 1968, y en uso de la facultad que me concede el N&#xBA; 2 del art&#xED;culo 72&#xBA; de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente &quot;Reglamento del Formulario Nacional de Medicamentos y de su Comisi&#xF3;n&quot;:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

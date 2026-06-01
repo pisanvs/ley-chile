@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6235992,
+          "old": "<div><div class=\"p\">AUTORIZA A DON ORLANDO DEL CARMEN CERDA ALAMOS PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON ORLANDO DEL CARMEN CERDA ALAMOS PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

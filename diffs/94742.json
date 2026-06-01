@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8325257,
+          "old": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA BRAVA MAR Y COMPA&#xD1;IA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA BRAVA MAR Y COMPA&#xD1;IA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

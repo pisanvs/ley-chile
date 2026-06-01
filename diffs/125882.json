@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-11-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6134916,
+          "old": "<div><div class=\"p\">ESTABLECE VALOR ADUANERO MINIMO A MERCANCIA QUE INDICA </div><div class=\"p\">(Resoluci&#xF3;n)</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 5.180.- Del 09.11.88.- Vistos: El Oficio Reservado No. 399/371 de 09.11.88, del Ministerio de Hacienda, y Oficio No. 158, de 08.11.88, del Banco Central de Chile.</div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que conforme a estudios realizados por la Comisi&#xF3;n a que se refiere el Art&#xED;culo 11 de la Ley No. 18.525.</div><div class=\"p\">&nbsp; &nbsp;  Que dicho cuerpo legal autoriza establecer valores aduaneros m&#xED;nimos para aquellos productos que, por efectos circunstanciales originados en los mercados internacionales, resulten con sus precios normales de transacci&#xF3;n temporalmente disminuidos y cuya importaci&#xF3;n en tales condiciones origine grave da&#xF1;o a la producci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Que sobre la base de dichos antecedentes se ha determinado que, en la actualidad, existen subsidios y distorsiones en el precio de los neum&#xE1;ticos y c&#xE1;maras de aire exportados a Chile y ante la necesidad de corregir lo anterior:</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Los Art&#xED;culos 9&#xB0; y 11&#xB0; de la Ley No. 18.525, de 1986, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE VALOR ADUANERO MINIMO A MERCANCIA QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 5.180.- Del 09.11.88.- Vistos: El Oficio Reservado No. 399/371 de 09.11.88, del Ministerio de Hacienda, y Oficio No. 158, de 08.11.88, del Banco Central de Chile.</div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><div class=\"p\">&nbsp; &nbsp;  Que conforme a estudios realizados por la Comisi&#xF3;n a que se refiere el Art&#xED;culo 11 de la Ley No. 18.525.</div><div class=\"p\">&nbsp; &nbsp;  Que dicho cuerpo legal autoriza establecer valores aduaneros m&#xED;nimos para aquellos productos que, por efectos circunstanciales originados en los mercados internacionales, resulten con sus precios normales de transacci&#xF3;n temporalmente disminuidos y cuya importaci&#xF3;n en tales condiciones origine grave da&#xF1;o a la producci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Que sobre la base de dichos antecedentes se ha determinado que, en la actualidad, existen subsidios y distorsiones en el precio de los neum&#xE1;ticos y c&#xE1;maras de aire exportados a Chile y ante la necesidad de corregir lo anterior:</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: Los Art&#xED;culos 9&#xB0; y 11&#xB0; de la Ley No. 18.525, de 1986, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

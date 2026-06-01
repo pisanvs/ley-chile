@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-07-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6040829,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO NUMERO&nbsp; 395 EXENTO, DE 1997 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO NUMERO&nbsp; 395 EXENTO, DE 1997 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

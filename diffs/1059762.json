@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-06-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9409335,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Cr&#xE9;ase la plaza de peaje San Roque, ubicada en el kil&#xF3;metro 74.150 de la Ruta R-156, Concepci&#xF3;n - Santa Juana - Coihue, Regi&#xF3;n del Biob&#xED;o, la que entrar&#xE1; en funcionamiento a las 00:00 horas del d&#xED;a 1 de marzo de 2014.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; F&#xED;janse las tarifas de peaje para cualquier horario y para todos los d&#xED;as de la semana, incluidos s&#xE1;bados, domingos y festivos, de acuerdo al siguiente detalle:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38039.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Establ&#xE9;cese que estas tarifas se aplicar&#xE1;n en la plaza de peaje San Roque, en ambos sentidos del tr&#xE1;nsito, para cualquier horario y para todos los d&#xED;as de la semana, incluidos s&#xE1;bados, domingos y festivos, a todos los veh&#xED;culos que transiten por la Ruta R-156, Concepci&#xF3;n - Santa Juana - Coihue, Regi&#xF3;n del Biob&#xED;o.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; Decl&#xE1;rase que el cobro de la tarifa de peaje que se viene ordenando en la referida plaza de peaje San Roque entrar&#xE1; a regir s&#xF3;lo a partir de las 00:00 horas del d&#xED;a 1 de marzo 2014.</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA; Solic&#xED;tase para el presente decreto el tr&#xE1;mite de cinco d&#xED;as que indica el inciso 3&#xBA; del art&#xED;culo 111 del decreto con fuerza de ley N&#xBA; 850, de 1997, del Ministerio de Obras P&#xFA;blicas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Cr&#xE9;ase la plaza de peaje San Roque, ubicada en el kil&#xF3;metro 74.150 de la Ruta R-156, Concepci&#xF3;n - Santa Juana - Coihue, Regi&#xF3;n del Biob&#xED;o, la que entrar&#xE1; en funcionamiento a las 00:00 horas del d&#xED;a 1 de marzo de 2014.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; F&#xED;janse las tarifas de peaje para cualquier horario y para todos los d&#xED;as de la semana, incluidos s&#xE1;bados, domingos y festivos, de acuerdo al siguiente detalle<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/38039.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Establ&#xE9;cese que estas tarifas se aplicar&#xE1;n en la plaza de peaje San Roque, en ambos sentidos del tr&#xE1;nsito, para cualquier horario y para todos los d&#xED;as de la semana, incluidos s&#xE1;bados, domingos y festivos, a todos los veh&#xED;culos que transiten por la Ruta R-156, Concepci&#xF3;n - Santa Juana - Coihue, Regi&#xF3;n del Biob&#xED;o.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; Decl&#xE1;rase que el cobro de la tarifa de peaje que se viene ordenando en la referida plaza de peaje San Roque entrar&#xE1; a regir s&#xF3;lo a partir de las 00:00 horas del d&#xED;a 1 de marzo 2014.</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA; Solic&#xED;tase para el presente decreto el tr&#xE1;mite de cinco d&#xED;as que indica el inciso 3&#xBA; del art&#xED;culo 111 del decreto con fuerza de ley N&#xBA; 850, de 1997, del Ministerio de Obras P&#xFA;blicas.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; del Decreto 290, Obras, publicado el 18.06.2014, modifica las tarifas y los tipos de categor&#xED;as de cobro, en la plaza de peaje San Roque de la ruta R-156 Concepci&#xF3;n - Santa Juana - Coihue, Regi&#xF3;n del Biob&#xED;o, fijadas por este art&#xED;culo, para todos los d&#xED;as de las semana, incluidos s&#xE1;bados, domingos y festivos, de acuerdo al detalle que en ella se indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

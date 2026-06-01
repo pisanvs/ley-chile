@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-01-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8356614,
+          "old": "<div><div class=\"p\">ESTABLECE PROCEDIMIENTOS PARA EL CONTROL DE LA PESQUERIA DEL RECURSO CONGRIO DORADO, DE AGUAS INTERIORES </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3 exenta.- Valpara&#xED;so, 7 de enero de 2000.- Visto: Lo dispuesto en la Ley General de Pesca y Acuicultura; el D.F.L. N&#xBA; 5, de 1983; el decreto supremo exento N&#xBA; 514 de 1999, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la resoluci&#xF3;n N&#xBA; 520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, es deber del Estado velar por la protecci&#xF3;n, conservaci&#xF3;n y aprovechamiento de los recursos hidrobiol&#xF3;gicos.</div><div class=\"p\">&nbsp; &nbsp;  Que, el decreto supremo N&#xBA; 514 de 1999 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, estableci&#xF3; para el 2000 una cuota global anual de captura de Congrio Dorado (Genypterus blacodes), de 900 toneladas para&nbsp; el &#xE1;rea de pesca denominada Aguas Interiores.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE PROCEDIMIENTOS PARA EL CONTROL DE LA PESQUERIA DEL RECURSO CONGRIO DORADO, DE AGUAS INTERIORES </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 3 exenta.- Valpara&#xED;so, 7 de enero de 2000.- Visto: Lo dispuesto en la Ley General de Pesca y Acuicultura; el D.F.L. N&#xBA; 5, de 1983; el decreto supremo exento N&#xBA; 514 de 1999, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la resoluci&#xF3;n N&#xBA; 520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, es deber del Estado velar por la protecci&#xF3;n, conservaci&#xF3;n y aprovechamiento de los recursos hidrobiol&#xF3;gicos.</div><div class=\"p\">&nbsp; &nbsp;  Que, el decreto supremo N&#xBA; 514 de 1999 del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, estableci&#xF3; para el 2000 una cuota global anual de captura de Congrio Dorado (Genypterus blacodes), de 900 toneladas para&nbsp; el &#xE1;rea de pesca denominada Aguas Interiores.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

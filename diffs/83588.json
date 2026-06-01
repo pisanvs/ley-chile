@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8315331,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JAIME ALBERTO MELLADO PROVOSTE Y A DON IGNACIO GASPAR MORENO FARI&#xD1;A PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JAIME ALBERTO MELLADO PROVOSTE Y A DON IGNACIO GASPAR MORENO FARI&#xD1;A PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-08-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-05-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8323569,
+          "old": "<div><br><div class=\"p\">AUTORIZA A PESQUERA ARTESANAL QUIVOLGO LIMITADA PARA INICIAR ACTIVIDADES</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA ARTESANAL QUIVOLGO LIMITADA PARA INICIAR ACTIVIDADES</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

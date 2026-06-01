@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-07-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-11-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9716225,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Establece el siguiente per&#xED;odo de descanso sanitario coordinado para la agrupaci&#xF3;n de concesiones de acuicultura de salm&#xF3;nidos en la XII Regi&#xF3;n de Magallanes y la Ant&#xE1;rtica Chilena:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59277.jpg\">.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Establece el siguiente per&#xED;odo de descanso sanitario coordinado para la agrupaci&#xF3;n de concesiones de acuicultura de salm&#xF3;nidos en la XII Regi&#xF3;n de Magallanes y la Ant&#xE1;rtica Chilena:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/59277.jpg\">.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 4810 Exenta, Econom&#xED;a, publicada el 06.11.2017,&nbsp; modifica el cuadro de per&#xED;odos de descanso sanitario en el sentido de reemplazar el per&#xED;odo de la&nbsp; agrupaci&#xF3;n de concesiones N&#xBA; 55,&nbsp; por el periodo que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

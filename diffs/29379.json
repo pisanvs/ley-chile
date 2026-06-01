@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1973-05-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1985-03-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8845520,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; REPRIME TRAFICO DE ESTUPEFACIENTES Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  REPRIME TRAFICO DE ESTUPEFACIENTES<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; Por cuanto el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 26 de la LEY 18403, publicada el 04.03.1985 deroga la presente Ley. La modificaci&#xF3;n establece que no se afectar&#xE1;n los procesos en tramitaci&#xF3;n, ni el cumplimiento de las sentencias dictadas por aplicaci&#xF3;n de la misma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

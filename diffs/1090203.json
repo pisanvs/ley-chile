@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-05-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-11-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9700560,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados, entre el kil&#xF3;metro 5,2 y el 8,1, de la Ruta N&#xB0; 77, Acceso Nororiente a Santiago (Autopista Nororiente), desde el 2 de mayo de 2016 al 27 de junio de 2017, en horarios de 10:00 a 11:00 hrs. y 16:00 a 17:00 hrs.</div><div class=\"p\">&nbsp; &nbsp;  2.- Podr&#xE1;n ingresar excepcionalmente en el tramo se&#xF1;alado, los veh&#xED;culos de emergencia y los destinados a cumplir funciones en las obras relacionadas con el proyecto &quot;Construcci&#xF3;n T&#xFA;nel Chamisero II&quot;.</div><div class=\"p\">&nbsp; &nbsp;  3.- Dese estricto cumplimiento a las especificaciones establecidas en el Ord. SM/AGD/N&#xB0; 2939, de 26 de abril de 2016, de esta Secretar&#xED;a Regional.</div><div class=\"p\">&nbsp; &nbsp;  4.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tr&#xE1;nsito.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1096919&amp;idParte=9748535&amp;idVersion=2016-11-25\">Resoluci&#xF3;n 5876 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 25.11.2016</a></span>la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados, entre kil&#xF3;metro 5,2 y 8,2 de Ruta N&#xB0; 77, Acceso Nororiente a Santiago (Autopista Nororiente), desde 2 de mayo de 2016 al 27 de junio de 2017, en horarios de 10:00 a 10:30 hrs.; 16:00 a 16:30 hrs. y, 20:30 a 21:00 hrs.</div><div class=\"p\">&nbsp; &nbsp;  2.- Podr&#xE1;n ingresar excepcionalmente en el tramo se&#xF1;alado, los veh&#xED;culos de emergencia y los destinados a cumplir funciones en las obras relacionadas con el proyecto &quot;Construcci&#xF3;n T&#xFA;nel Chamisero II&quot;.</div><div class=\"p\">&nbsp; &nbsp;  3.- Dese estricto cumplimiento a las especificaciones establecidas en el Ord. SM/AGD/N&#xB0; 2939, de 26 de abril de 2016, de esta Secretar&#xED;a Regional.</div><div class=\"p\">&nbsp; &nbsp;  4.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tr&#xE1;nsito.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1096919,
+      "fecha": "2016-11-25"
+    }
+  }
+]

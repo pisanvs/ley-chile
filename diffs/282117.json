@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-11-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8439454,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: El plazo m&#xE1;ximo de duraci&#xF3;n de la concesi&#xF3;n ser&#xE1; de dos a&#xF1;os. Para el caso que la concesionaria optare por una pr&#xF3;rroga de la misma, haciendo uso del derecho establecido en el art&#xED;culo 36 de la Ley N&#xB0;19.657, la concesionaria deber&#xE1; acreditar a lo menos un avance no inferior al veinticinco por ciento de las actividades e inversiones proyectadas durante el plazo de la exploraci&#xF3;n, explicitadas en el art&#xED;culo tercero del presente decreto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Art&#xED;culo cuarto: El plazo m&#xE1;ximo de duraci&#xF3;n de la concesi&#xF3;n ser&#xE1; de dos a&#xF1;os. Para el caso que la concesionaria optare por una pr&#xF3;rroga de la misma, haciendo uso del derecho establecido en el art&#xED;culo 36 de la Ley N&#xB0;19.657, la concesionaria deber&#xE1; acreditar a lo menos un avance no inferior al veinticinco por ciento de las actividades e inversiones proyectadas durante el plazo de la exploraci&#xF3;n, explicitadas en el art&#xED;culo tercero del presente decreto.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto 19 Exento, Energ&#xED;a, publicado el 14.02.2011, prorroga por un per&#xED;odo de dos a&#xF1;os la presente concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica, a contar del t&#xE9;rmino del per&#xED;odo original de exploraci&#xF3;n, esto es, desde el d&#xED;a 24 de noviembre de 2010.</div></div>"
+        }
+      ]
+    }
+  }
+]

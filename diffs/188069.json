@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-11-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-07-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6344285,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A BERTA MU&#xD1;OZ CABEZAS PARA DESARROLLAR ACTIVIDADES PESQUERAS QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A BERTA MU&#xD1;OZ CABEZAS PARA DESARROLLAR ACTIVIDADES PESQUERAS QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

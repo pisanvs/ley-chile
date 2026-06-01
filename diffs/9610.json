@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1990-08-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-01-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9039060,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Susp&#xE9;ndese hasta el 31 de Diciembre de 1990, la aplicaci&#xF3;n de lo dispuesto en el inciso tercero del art&#xED;culo 92 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n y en la tabla contenida en dicho inciso, en lo relativo a muros divisorios entre unidades; a elementos soportantes verticales y horizontales; a techumbres; y a muros no soportantes y tabiques.</div><div class=\"p\">&nbsp; &nbsp; Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Susp&#xE9;ndese hasta el 31 de Diciembre<span class=\"n\" id=\"n_0\">DTO 147, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 02.01.1992</span> de 1992, la aplicaci&#xF3;n de lo dispuesto en el inciso tercero del art&#xED;culo 92 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n y en la tabla contenida en dicho inciso, en lo relativo a muros divisorios entre unidades; a elementos soportantes verticales y horizontales; a techumbres; y a muros no soportantes y tabiques.</div><br><div class=\"p\">&nbsp; &nbsp; Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1992-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

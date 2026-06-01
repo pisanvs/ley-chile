@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-05-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7263029,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD SALINAS Y GONZALEZ LTDA. PESQUERA CONCORDIA LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO LA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD SALINAS Y GONZALEZ LTDA. PESQUERA CONCORDIA LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO LA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

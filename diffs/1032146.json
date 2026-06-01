@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2011-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-10-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9202187,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: El Ministro Presidente del Consejo Nacional de la Cultura y las Artes realizar&#xE1;, anualmente, un proceso de Cuenta P&#xFA;blica Participativa, en el cual rendir&#xE1; cuenta a la ciudadan&#xED;a de la gesti&#xF3;n de pol&#xED;ticas, planes, programas, acciones y de su ejecuci&#xF3;n presupuestaria.</div><div class=\"p\">&nbsp; &nbsp;  En este marco, dispondr&#xE1; los siguientes mecanismos de participaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  Cuenta P&#xFA;blica Anual CNCA: El Ministro Presidente del Consejo realizar&#xE1; una Cuenta P&#xFA;blica Anual dentro del segundo semestre de cada a&#xF1;o, obligaci&#xF3;n enmarcada en lo dispuesto en el art&#xED;culo 6&#xBA; de la ley N&#xBA; 19.891 que lo crea. El Servicio convocar&#xE1;, en el marco del acto inaugural de la Convenci&#xF3;n Nacional Anual de Cultura, cuya ciudad sede se definir&#xE1; cada a&#xF1;o, a distintos representantes de organizaciones de la sociedad civil a participar en esta instancia, en la que se expondr&#xE1; de manera clara el contenido de la cuenta p&#xFA;blica. En la oportunidad se tomar&#xE1; acta de las opiniones, comentarios y consultas formuladas en la jornada.</div><div class=\"p\">&nbsp; &nbsp;  Cuentas P&#xFA;blicas Participativas Desconcentradas: Los Consejos Regionales de la Cultura y las Artes, anualmente, dar&#xE1;n cuenta p&#xFA;blica participativa a la ciudadan&#xED;a de la gesti&#xF3;n de sus pol&#xED;ticas, planes, programas, acciones y de su ejecuci&#xF3;n presupuestaria, con la finalidad de informar a la ciudadan&#xED;a sobre la gesti&#xF3;n realizada, recoger preguntas y planteamientos de la ciudadan&#xED;a y dar respuestas a &#xE9;stas.</div><div class=\"p\">&nbsp; &nbsp;  Las Cuentas P&#xFA;blicas Participativas Desconcentradas se realizar&#xE1;n dentro de los 30 d&#xED;as siguientes a la Cuenta P&#xFA;blica Anual del Ministro-Presidente y estar&#xE1;n a cargo de cada uno de los Directores y Directoras Regionales del Consejo, quienes deber&#xE1;n convocar a representantes de la sociedad civil y ciudadan&#xED;a a presenciarla.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: El Ministro Presidente del Consejo Nacional de la Cultura y las Artes realizar&#xE1;, anualmente, un proceso de Cuenta P&#xFA;blica Participativa, en el cual rendir&#xE1; cuenta a la ciudadan&#xED;a de la gesti&#xF3;n de pol&#xED;ticas, planes, programas, acciones y de su ejecuci&#xF3;n presupuestaria.</div><div class=\"p\">&nbsp; &nbsp;  En este marco, dispondr&#xE1; los siguientes mecanismos de participaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  Cuenta P&#xFA;blica Anual CNCA: El Ministro Presidente del Consejo realizar&#xE1; una Cuenta P&#xFA;blica Anual dentro del segundo semestre de cada a&#xF1;o, obligaci&#xF3;n enmarcada en lo dispuesto en el art&#xED;culo 6&#xBA; de la ley N&#xBA; 19.891 que lo crea. El Servicio convocar&#xE1;, en el marco del acto inaugural de la Convenci&#xF3;n Nacional Anual de Cultura, cuya ciudad sede se definir&#xE1; cada a&#xF1;o, a distintos representantes de organizaciones de la sociedad civil a participar en esta instancia, en la que se expondr&#xE1; de manera clara el contenido de la cuenta p&#xFA;blica. En la oportunidad se tomar&#xE1; acta de las opiniones, comentarios y consultas formuladas en la jornada.</div><div class=\"p\">&nbsp; &nbsp;  Cuentas P&#xFA;blicas Participativas Desconcentradas: Los Consejos Regionales de la Cultura y las Artes, anualmente, dar&#xE1;n cuenta p&#xFA;blica participativa a la ciudadan&#xED;a de la gesti&#xF3;n de sus pol&#xED;ticas, planes, programas, acciones y de su ejecuci&#xF3;n presupuestaria, con la finalidad de informar a la ciudadan&#xED;a sobre la gesti&#xF3;n realizada, recoger preguntas y planteamientos de la ciudadan&#xED;a y dar respuestas a &#xE9;stas.</div><div class=\"p\">&nbsp; &nbsp;  Las Cuentas <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1044964&amp;idParte=9308592&amp;idVersion=2012-10-19\">Resoluci&#xF3;n 4316 EXENTA,<br>C. N. C. ARTES<br>Art. PRIMERO<br>D.O. 19.10.2012</a></span>P&#xFA;blicas Participativas Desconcentradas se realizar&#xE1;n al menos una vez al a&#xF1;o, en una fecha posterior a la Cuenta P&#xFA;blica Anual del Ministro Presidente y estar&#xE1;n a cargo de cada uno de los Directores y Directoras Regionales del Consejo, quienes deber&#xE1;n convocar a representantes de la sociedad civil y ciudadan&#xED;a a presenciarla.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1044964,
+      "fecha": "2012-10-19"
+    }
+  },
+  {
+    "fecha": "2016-01-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

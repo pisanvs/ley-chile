@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-01-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-08-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6023901,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREA TARIFA DE ALMACENAJE PARA LOS PRIMEROS CINCO DIAS PARA CONTENEDORES F.C.L.</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 950 exenta.- San Antonio, 27 de Diciembre de 1993.- Vistos: El art&#xED;culo 4&#xB0; del D.S. (TT. y TT.) N&#xB0; 125 del 3.08.90; y en consecuencia con las facultades que otorgan la Resoluci&#xF3;n N&#xB0; 142 T.R.C. 26.10.93; la Resoluci&#xF3;n N&#xB0; 138 T.R.C. del 26.10.93 y la Resoluci&#xF3;n N&#xB0; 1050 del 31.07.80 de Contragral,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; CREA TARIFA DE ALMACENAJE PARA LOS PRIMEROS CINCO DIAS PARA CONTENEDORES F.C.L.</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 950 exenta.- San Antonio, 27 de Diciembre de 1993.- Vistos: El art&#xED;culo 4&#xB0; del D.S. (TT. y TT.) N&#xB0; 125 del 3.08.90; y en consecuencia con las facultades que otorgan la Resoluci&#xF3;n N&#xB0; 142 T.R.C. 26.10.93; la Resoluci&#xF3;n N&#xB0; 138 T.R.C. del 26.10.93 y la Resoluci&#xF3;n N&#xB0; 1050 del 31.07.80 de Contragral,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

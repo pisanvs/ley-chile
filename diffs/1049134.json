@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-10-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9335426,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Resoluci&#xF3;n 4.045, del 20 de diciembre de 2012, otorg&#xF3; a la Sra. Lorena del Carmen Vergara D&#xED;az, chilena, RUT 9.658.251-K, con domicilio en Monta&#xF1;a 853, oficina 507, Vi&#xF1;a del Mar, concesi&#xF3;n de acuicultura de porci&#xF3;n de agua y fondo de mar, solicitud 203111279, del 26 de noviembre de 2003, ubicada en Canal Jacaf, al Este de Isla Su&#xE1;rez, comuna de Cisnes, provincia de Ays&#xE9;n, XI Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo, individualizada en la ubicaci&#xF3;n se&#xF1;alada en los Planos 549-2012-AC y 550-2012-AC, visados por la Autoridad Mar&#xED;tima de Puerto Cisnes.</div><div class=\"p\">&nbsp; &nbsp;  2.- Superficie de 10,15 hect&#xE1;reas, delimitada por las siguientes coordenadas geogr&#xE1;ficas:</div><br><div class=\"p\">&nbsp; &nbsp;  Referidas a la carta SHOA 8500, 2&#xAA; Edici&#xF3;n 2006 (Datum WGS-84)</div><br><div class=\"p\">V&#xE9;rtice A&nbsp; &nbsp; Lat. 44&#xB0;20&apos;49,57&quot; S.&nbsp; &nbsp; Long. 72&#xB0;54&apos;45,37&quot; W.</div><div class=\"p\">V&#xE9;rtice B&nbsp; &nbsp; Lat. 44&#xB0;20&apos;50,01&quot; S.&nbsp; &nbsp; Long. 72&#xB0;54&apos;44,07&quot; W.</div><div class=\"p\">V&#xE9;rtice C&nbsp; &nbsp; Lat. 44&#xB0;21&apos;05,77&quot; S.&nbsp; &nbsp; Long. 72&#xB0;54&apos;45,39&quot; W.</div><div class=\"p\">V&#xE9;rtice D&nbsp; &nbsp; Lat. 44&#xB0;21&apos;09,61&quot; S.&nbsp; &nbsp; Long. 72&#xB0;54&apos;55,33&quot; W.</div><div class=\"p\">V&#xE9;rtice A&nbsp; &nbsp; Lat. 44&#xB0;21&apos;07,29&quot; S.&nbsp; &nbsp; Long. 72&#xB0;54&apos;59,93&quot; W.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- Esta concesi&#xF3;n de acuicultura tiene por objeto &#xFA;nico la realizaci&#xF3;n de actividades de cultivo en el &#xE1;rea concedida y deber&#xE1; amparar la instalaci&#xF3;n y operaci&#xF3;n de un cultivo del grupo de especies Salm&#xF3;nidos.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Resoluci&#xF3;n 4.045, del 20 de diciembre de 2012, otorg&#xF3; a la Sra. Lorena del Carmen Vergara D&#xED;az, chilena, RUT 9.658.251-K, con domicilio en Monta&#xF1;a 853, oficina 507, Vi&#xF1;a del Mar, concesi&#xF3;n de acuicultura de porci&#xF3;n de agua y fondo de mar, solicitud 203111279, del 26 de noviembre de 2003, ubicada en Canal Jacaf, al Este de Isla Su&#xE1;rez, comuna de Cisnes, provincia de Ays&#xE9;n, XI Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo, individualizada en la ubicaci&#xF3;n se&#xF1;alada en los Planos 549-2012-AC y 550-2012-AC, visados por la Autoridad Mar&#xED;tima de Puerto Cisnes.</div><div class=\"p\">&nbsp; &nbsp;  2.- Superficie de 10,15 hect&#xE1;reas, delimitada por las siguientes coordenadas geogr&#xE1;ficas:</div><br><div class=\"p\">&nbsp; &nbsp;  Referidas a la carta SHOA 8500, 2&#xAA; Edici&#xF3;n 2006 (Datum WGS-84)</div><br><div class=\"p\">V&#xE9;rtice A&nbsp; &nbsp; Lat. 44&#xB0;20&apos;49,57&quot; S.&nbsp; &nbsp; Long. 72&#xB0;54&apos;45,37&quot; W.</div><div class=\"p\">V&#xE9;rtice B&nbsp; &nbsp; Lat. 44&#xB0;20&apos;50,01&quot; S.&nbsp; &nbsp; Long. 72&#xB0;54&apos;44,07&quot; W.</div><div class=\"p\">V&#xE9;rtice C&nbsp; &nbsp; Lat. 44&#xB0;21&apos;05,77&quot; S.&nbsp; &nbsp; Long. 72&#xB0;54&apos;45,39&quot; W.</div><div class=\"p\">V&#xE9;rtice D&nbsp; &nbsp; Lat. 44&#xB0;21&apos;09,61&quot; S.&nbsp; &nbsp; Long. 72&#xB0;54&apos;55,33&quot; W.</div><div class=\"p\">V&#xE9;rtice E&nbsp; &nbsp; Lat.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1055439&amp;idParte=9380282&amp;idVersion=2013-10-23\">Resoluci&#xF3;n 2871, DEFENSA<br>N&#xBA; 1<br>D.O. 23.10.2013</a></span> 44&#xB0;21&apos;07,29&quot; S.&nbsp; &nbsp; Long. 72&#xB0;54&apos;59,93&quot; W.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- Esta concesi&#xF3;n de acuicultura tiene por objeto &#xFA;nico la realizaci&#xF3;n de actividades de cultivo en el &#xE1;rea concedida y deber&#xE1; amparar la instalaci&#xF3;n y operaci&#xF3;n de un cultivo del grupo de especies Salm&#xF3;nidos.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1055439,
+      "fecha": "2013-10-23"
+    }
+  }
+]

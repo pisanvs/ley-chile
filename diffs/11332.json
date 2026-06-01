@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-04-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-12-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9039758,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;: El Estado Mayor de la Defensa Nacional y DIFROL emitir&#xE1;n sus informes al Presidente de la Rep&#xFA;blica, los que tendr&#xE1;n el car&#xE1;cter de reservados, sin perjuicio de proceder ambas Instituciones en interconsulta.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;: Recepcionaods todos los antecedentes,<span class=\"n\" id=\"n_0\">DS 1583,RREE<br><br>&#xFA;nico</span> el Estado Mayor de la Defensa Nacional y DIFROL emitir&#xE1;n 1994, Art. sus informes dentro del plazo de quince d&#xED;as. Dichos, informes tendr&#xE1;n el car&#xE1;cter de reservados, sin perjuicio de proceder ambas instituciones en interconsulta.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

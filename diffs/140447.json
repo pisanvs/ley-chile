@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-08-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-08-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6182104,
+          "old": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DE IVA A FORESTAL Y PAPELERA S.A.</div><br><br></div>",
+          "new": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DE IVA A FORESTAL Y PAPELERA S.A.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

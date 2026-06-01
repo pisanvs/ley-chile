@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-07-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1986-04-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6257369,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO EXENTO No. 208, DE 1980, QUE DELEGO FACULTAD DE OTORGAR AUSPICIO A ESPECTACULOS DIVERSOS POR EL MINISTERIO DE EDUCACION PUBLICA</div><br><div class=\"p\">&nbsp; &nbsp;  No. 282 exento.- Santiago, 9 de Julio de 1985.- Visto: Lo dispuesto en el art&#xED;culo 6&#xB0; del decreto ley No. 3.454 de 1980; decretos exentos de Educaci&#xF3;n No. s 208 de 1980 y 110 de 1984; resoluci&#xF3;n No. 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO EXENTO No. 208, DE 1980, QUE DELEGO FACULTAD DE OTORGAR AUSPICIO A ESPECTACULOS DIVERSOS POR EL MINISTERIO DE EDUCACION PUBLICA</div><br><div class=\"p\">&nbsp; &nbsp;  No. 282 exento.- Santiago, 9 de Julio de 1985.- Visto: Lo dispuesto en el art&#xED;culo 6&#xB0; del decreto ley No. 3.454 de 1980; decretos exentos de Educaci&#xF3;n No. s 208 de 1980 y 110 de 1984; resoluci&#xF3;n No. 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

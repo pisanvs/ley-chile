@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-06-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-01-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8658578,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El monto mensual que corresponder&#xE1; a cada funcionario por concepto de asignaci&#xF3;n de desarrollo y est&#xED;mulo al desempe&#xF1;o colectivo se calcular&#xE1; sobre el sueldo base m&#xE1;s la asignaci&#xF3;n de atenci&#xF3;n primaria de salud municipal, correspondiente a su nivel y categor&#xED;a, en una carrera referencial lineal dise&#xF1;ada a partir del sueldo base m&#xED;nimo nacional, en relaci&#xF3;n con una jornada de cuarenta y cuatro horas semanales. La asignaci&#xF3;n para el personal que desempe&#xF1;e jornadas inferiores a las cuarenta y cuatro horas ser&#xE1; calculada en forma proporcional.</div><div class=\"p\">&nbsp; &nbsp;  La asignaci&#xF3;n contendr&#xE1; un componente base y otro variable.</div><div class=\"p\">&nbsp; &nbsp;  El componente base ascender&#xE1; al 5,3% aplicado sobre las remuneraciones se&#xF1;aladas en el inciso primero. El componente variable ser&#xE1; del 5,3% sobre igual base de c&#xE1;lculo, para aquellos funcionarios que se desempe&#xF1;en en las entidades administradoras y que hubieren cumplido el 90% o m&#xE1;s de las metas fijadas para el a&#xF1;o anterior, y del 2,65% para aquellos funcionarios que cumplan entre el 75% y menos del 90% de las metas fijadas.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El monto mensual que corresponder&#xE1; a cada funcionario por concepto de asignaci&#xF3;n de desarrollo y est&#xED;mulo al desempe&#xF1;o colectivo se calcular&#xE1; sobre el sueldo base m&#xE1;s la asignaci&#xF3;n de atenci&#xF3;n primaria de salud municipal, correspondiente a su nivel y categor&#xED;a, en una carrera referencial lineal dise&#xF1;ada a partir del sueldo base m&#xED;nimo nacional, en relaci&#xF3;n con una jornada de cuarenta y cuatro horas semanales. La asignaci&#xF3;n para el personal que desempe&#xF1;e jornadas inferiores a las cuarenta y cuatro horas ser&#xE1; calculada en forma proporcional.</div><div class=\"p\">&nbsp; &nbsp;  La asignaci&#xF3;n contendr&#xE1; un componente base y otro variable.</div><div class=\"p\">&nbsp; &nbsp;  El componente base ascender&#xE1; al 10,3% aplicado sobre<span class=\"n\" id=\"n_0\">LEY 20157<br>Art. 1&#xBA;<br>D.O. 05.01.2007</span> las remuneraciones se&#xF1;aladas en el inciso primero. El componente variable ser&#xE1; del 11,9% sobre igual base de c&#xE1;lculo, para aquellos funcionarios que se desempe&#xF1;en en las entidades administradoras y que hubieren cumplido el 90% o m&#xE1;s de las metas fijadas para el a&#xF1;o anterior, y del 5,95% para aquellos funcionarios que cumplan entre el 75% y menos del 90% de las metas fijadas.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

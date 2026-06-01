@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-04-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10116261,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;gase en forma indefinida y mientras las condiciones sanitarias extraordinarias derivadas de la crisis provocada por el virus Covid-19 se mantengan, la medida excepcional establecida en la <a href=\"https://www.leychile.cl/navegar?idNorma=1144092&amp;idVersion=2020-04-23\">resoluci&#xF3;n exenta N&#xBA; 280, de 25 de marzo de 2020</a>, consistente en la obtenci&#xF3;n de un permiso especial emitido por el Ministerio de Relaciones Exteriores de Chile, ya sea por intermedio de un agente diplom&#xE1;tico o consular en el extranjero, o por los canales que dicho Ministerio determine, para el arribo al territorio nacional de vuelos no regulares de pasajeros operados por empresas a&#xE9;reas.</div><div class=\"p\">&nbsp; &nbsp;  2. El permiso indicado en el numeral precedente ser&#xE1; exigible igualmente a las empresas a&#xE9;reas que realicen vuelos regulares de pasajeros a Chile, en forma previa a la aprobaci&#xF3;n de cualquier cambio en sus itinerarios ya autorizados.</div><div class=\"p\">&nbsp; &nbsp;  3. Comun&#xED;quese la presente resoluci&#xF3;n exenta a la Direcci&#xF3;n General de Aeron&#xE1;utica Civil y al Ministerio de Relaciones Exteriores.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese la presente resoluci&#xF3;n exenta en el sitio web de la Junta de Aeron&#xE1;utica Civil.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;gase en forma indefinida y mie<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>ntras las condiciones sanitarias extraordinarias derivadas de la crisis provocada por el virus Covid-19 se mantengan, la medida excepcional establecida en la resoluci&#xF3;n exenta N&#xBA; 280, de 25 de marzo de 2020, consistente en la obtenci&#xF3;n de un permiso especial emitido por el Ministerio de Relaciones Exteriores de Chile, ya sea por intermedio de un agente diplom&#xE1;tico o consular en el extranjero, o por los canales que dicho Ministerio determine, para el arribo al territorio nacional de vuelos no regulares de pasajeros operados por empresas a&#xE9;reas.</div><div class=\"p\">&nbsp; &nbsp;  2. El permiso indicado en el numeral precedente ser&#xE1; exigible igualmente a las empresas a&#xE9;reas que realicen vuelos regulares de pasajeros a Chile, en forma previa a la aprobaci&#xF3;n de cualquier cambio en sus itinerarios ya autorizados.</div><div class=\"p\">&nbsp; &nbsp;  3. Comun&#xED;quese la presente resoluci&#xF3;n exenta a la Direcci&#xF3;n General de Aeron&#xE1;utica Civil y al Ministerio de Relaciones Exteriores.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese la presente resoluci&#xF3;n exenta en el sitio web de la Junta de Aeron&#xE1;utica Civil.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 335 Exenta, Transportes, publicada el 20.11.2020, dispuso que se deje sin efecto la medida excepcional establecida en las resoluciones exentas 280 y 335, de 2020, consistente en la obtenci&#xF3;n, por parte de las empresas a&#xE9;reas, de un permiso especial emitido por el Ministerio de Relaciones Exteriores de Chile, para el arribo al territorio nacional de vuelos no regulares de pasajeros y vuelos regulares previo cambio de itinerario.</div></div>"
+        }
+      ]
+    }
+  }
+]

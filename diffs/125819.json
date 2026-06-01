@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1998-10-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-09-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6134749,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Rectif&#xED;case el decreto exento de Educaci&#xF3;n N&#xBA; 514 de 1994, en el sentido que en los l&#xED;mites de la Zona T&#xED;pica ex Poblaci&#xF3;n William Noon, se incorporan todas las construcciones que forman parte del conjunto dise&#xF1;ado originalmente por el arquitecto Ricardo Larra&#xED;n Bravo, incluyendo el sector ubicado entre los ejes de las calles Eliodoro Y&#xE1;&#xF1;ez por el sur, Manuel Montt por el poniente, General del Canto por el oriente y ambos frentes de la calle Alejandro Magno por el norte, quedando en definitiva la Zona T&#xED;pica delimitada seg&#xFA;n se establece en el pol&#xED;gono A-B-C-D-A, se&#xF1;alado en el plano adjunto y que forma parte del presente decreto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Rectif&#xED;case el decreto exento de Educaci&#xF3;n N&#xBA; 514 de 1994, en el sentido que en los l&#xED;mites de la Zona T&#xED;pica ex Poblaci&#xF3;n William Noon, se incorporan todas las construcciones que forman parte del conjunto dise&#xF1;ado originalmente por el arquitecto Ricardo Larra&#xED;n Bravo, incluyendo el sector ubicado entre los ejes de las calles Eliodoro Y&#xE1;&#xF1;ez por el sur, Manuel Montt por el poniente, General del Canto por el oriente y ambos frentes de la calle Alberto<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1054457&amp;idParte=9375403&amp;idVersion=2013-09-27\">Decreto 426, EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 27.09.2013</a></span> Magno por el norte, quedando en definitiva la Zona T&#xED;pica delimitada seg&#xFA;n se establece en el pol&#xED;gono A-B-C-D-A, se&#xF1;alado en el plano adjunto y que forma parte del presente decreto.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1054457,
+      "fecha": "2013-09-27"
+    }
+  }
+]

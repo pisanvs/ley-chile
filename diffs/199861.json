@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-04-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-04-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7292474,
+          "old": "<div><div class=\"p\">MODIFICA AUTORIZACION DE FUNCIONAMIENTO A CENTRO DE FORMACION TECNICA &quot;ESCUELA DE ADMINISTRACION&quot; </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 48 exento.- Santiago, 23 de Marzo de 1984.- Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el Centro de Formaci&#xF3;n T&#xE9;cnica &quot;Escuela de Administraci&#xF3;n&quot;, present&#xF3; solicitud de funcionamiento con fecha 27 de Agosto de 1981.</div><div class=\"p\">&nbsp; &nbsp;  Que, el Ministerio de Educaci&#xF3;n P&#xFA;blica le otorg&#xF3; autorizaci&#xF3;n de funcionamiento por decreto exento N&#xB0; 3 de 7 de Enero de 1982.</div><div class=\"p\">&nbsp; &nbsp;  Que, por resoluci&#xF3;n exenta de Educaci&#xF3;n N&#xB0; 730 de 1982 y N&#xB0; 77 de 1983, fueron aprobados planes y programas de estudios a las carreras de Secretariado Ejecutivo con menci&#xF3;n en Ingl&#xE9;s y Secretariado Ejecutivo en Espa&#xF1;ol, entre otras.</div><div class=\"p\">&nbsp; &nbsp;  Que, es necesario asegurar a los alumnos un normal desarrollo acad&#xE9;mico para optar al t&#xED;tulo de t&#xE9;cnico, que entrega este Centro de Formaci&#xF3;n T&#xE9;cnica de ense&#xF1;anza superior.</div><div class=\"p\">&nbsp; &nbsp;  Que, verificados los planes y programas de estudios, se ha comprobado la necesidad de regularizar las diferentes situaciones acad&#xE9;micas de los alumnos de este Centro de Formaci&#xF3;n T&#xE9;cnica.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el decreto ley N&#xB0; 3.541 de 1980, el D.F.L. N&#xB0; 24 de 1981, el decreto supremo N&#xB0; 9.555 de 1980, decreto exento N&#xB0; 225 de 1982, todos del Ministerio de Educaci&#xF3;n P&#xFA;blica y la resoluci&#xF3;n N&#xB0; 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA AUTORIZACION DE FUNCIONAMIENTO A CENTRO DE FORMACION TECNICA &quot;ESCUELA DE ADMINISTRACION&quot; </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 48 exento.- Santiago, 23 de Marzo de 1984.- Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el Centro de Formaci&#xF3;n T&#xE9;cnica &quot;Escuela de Administraci&#xF3;n&quot;, present&#xF3; solicitud de funcionamiento con fecha 27 de Agosto de 1981.</div><div class=\"p\">&nbsp; &nbsp;  Que, el Ministerio de Educaci&#xF3;n P&#xFA;blica le otorg&#xF3; autorizaci&#xF3;n de funcionamiento por decreto exento N&#xB0; 3 de 7 de Enero de 1982.</div><div class=\"p\">&nbsp; &nbsp;  Que, por resoluci&#xF3;n exenta de Educaci&#xF3;n N&#xB0; 730 de 1982 y N&#xB0; 77 de 1983, fueron aprobados planes y programas de estudios a las carreras de Secretariado Ejecutivo con menci&#xF3;n en Ingl&#xE9;s y Secretariado Ejecutivo en Espa&#xF1;ol, entre otras.</div><div class=\"p\">&nbsp; &nbsp;  Que, es necesario asegurar a los alumnos un normal desarrollo acad&#xE9;mico para optar al t&#xED;tulo de t&#xE9;cnico, que entrega este Centro de Formaci&#xF3;n T&#xE9;cnica de ense&#xF1;anza superior.</div><div class=\"p\">&nbsp; &nbsp;  Que, verificados los planes y programas de estudios, se ha comprobado la necesidad de regularizar las diferentes situaciones acad&#xE9;micas de los alumnos de este Centro de Formaci&#xF3;n T&#xE9;cnica.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el decreto ley N&#xB0; 3.541 de 1980, el D.F.L. N&#xB0; 24 de 1981, el decreto supremo N&#xB0; 9.555 de 1980, decreto exento N&#xB0; 225 de 1982, todos del Ministerio de Educaci&#xF3;n P&#xFA;blica y la resoluci&#xF3;n N&#xB0; 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

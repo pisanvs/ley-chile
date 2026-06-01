@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1989-01-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9039746,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Los deudores de los Servicios de Vivienda y Urbanizaci&#xF3;n a que se refiere el Anexo N&#xB0; 5 del Cap&#xED;tulo XVIII del Compendio de Cambios Internacionales, agregado por Acuerdo 1851-03-880304 del Comit&#xE9; Ejecutivo del Banco Central de Chile, en su n&#xFA;mero 2.4 sustituido por Acuerdo 1856-11-880324, que por causas que no les sean imputables no hubieren operado en conformidad a las normas de dicho Anexo y sus modificaciones, podr&#xE1;n acogerse hasta el 31 de Agosto de DS 28,<span class=\"n\" id=\"n_0\"><br><br>1989,<br>Art. &#xFA;nico.<br></span> 1989, inclusive, a las disposiciones del D.S. N&#xB0; 35, (V. Vivienda, y U.), de 1988, aplicables a los deudores con obligaciones expresadas en Unidades de Fomento o en Indice de Valor Promedio.</div><div class=\"p\">&nbsp; &nbsp; Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as.</div><br></div>"
+        },
+        {
+          "part_id": 9039747,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; An&#xF3;tese, t&#xF3;mese raz&#xF3;n y publ&#xED;quese.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- Gustavo C. Montero Saavedra, Ministro de Vivienda y Urbanismo.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo para su conocimiento.- Luis Salas Romo, Subsecretario de Vivienda y Urbanismo.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

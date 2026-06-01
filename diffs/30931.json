@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-05-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7192436,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA ORDENANZA N&#xB0; 4, DE 1992</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.- Quilpu&#xE9;, 31 de marzo de 1993.- Vistos: La necesidad de modificar la Ordenanza N&#xB0; 4, de 1992. Lo dispuesto en los art&#xED;culos 41&#xB0; y siguientes del D.L. N&#xB0; 3.063, de 1979; la aprobaci&#xF3;n del Concejo Comunal en sesi&#xF3;n ordinaria del d&#xED;a 2 de marzo de 1993; y teniendo presente: La Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y la ley N&#xB0; 18.695, de 1988, Ley Org&#xE1;nica Constitucional de Municipalidades, </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA ORDENANZA N&#xB0; 4, DE 1992</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 2.- Quilpu&#xE9;, 31 de marzo de 1993.- Vistos: La necesidad de modificar la Ordenanza N&#xB0; 4, de 1992. Lo dispuesto en los art&#xED;culos 41&#xB0; y siguientes del D.L. N&#xB0; 3.063, de 1979; la aprobaci&#xF3;n del Concejo Comunal en sesi&#xF3;n ordinaria del d&#xED;a 2 de marzo de 1993; y teniendo presente: La Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y la ley N&#xB0; 18.695, de 1988, Ley Org&#xE1;nica Constitucional de Municipalidades, </div><br></div>"
+        }
+      ]
+    }
+  }
+]

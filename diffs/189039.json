@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1971-10-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1973-02-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7285572,
+          "old": "<div><div class=\"p\">DEROGA DECRETO N&#xBA; 580, DE 1970, Y APRUEBA NUEVO REGLAMENTO SOBRE ADQUISICIONES DE BIENES MUEBLES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 14 de Septiembre de 1971.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 801.- Vistos: lo dispuesto en los art&#xED;culos 9&#xBA;, 11&#xBA;, letra j); 20&#xBA; letra g); 21&#xBA; letra j); 42&#xBA; y 54&#xBA; de la ley N&#xBA; 15.840 y 72&#xBA;, N&#xBA; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado, el oficio de la Direcci&#xF3;n General de Obras P&#xFA;blicas N&#xBA; 1.783, de 31 de Agosto de 1971, sobre adquisiciones de bienes muebles, y lo informado por la Contralor&#xED;a General de la Rep&#xFA;blica en oficio N&#xBA; 56.813, de 16 de Agosto del a&#xF1;o en curso,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DEROGA DECRETO N&#xBA; 580, DE 1970, Y APRUEBA NUEVO REGLAMENTO SOBRE ADQUISICIONES DE BIENES MUEBLES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 14 de Septiembre de 1971.- S.E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 801.- Vistos: lo dispuesto en los art&#xED;culos 9&#xBA;, 11&#xBA;, letra j); 20&#xBA; letra g); 21&#xBA; letra j); 42&#xBA; y 54&#xBA; de la ley N&#xBA; 15.840 y 72&#xBA;, N&#xBA; 2 de la Constituci&#xF3;n Pol&#xED;tica del Estado, el oficio de la Direcci&#xF3;n General de Obras P&#xFA;blicas N&#xBA; 1.783, de 31 de Agosto de 1971, sobre adquisiciones de bienes muebles, y lo informado por la Contralor&#xED;a General de la Rep&#xFA;blica en oficio N&#xBA; 56.813, de 16 de Agosto del a&#xF1;o en curso,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

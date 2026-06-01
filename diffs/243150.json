@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "2005-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-01-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8721431,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17.- El monto mensual que corresponder&#xE1; a cada profesional funcionario por concepto de la asignaci&#xF3;n, en caso de proceder su pago, no podr&#xE1; ser inferior a un 32% ni superior a un 50% de la suma de las remuneraciones se&#xF1;aladas a continuaci&#xF3;n, establecidas en el decreto con fuerza de ley N&#xBA; 1, de 2001, del Ministerio de Salud, texto refundido, coordinado y sistematizado de la ley N&#xBA; 15.076, correspondientes a la jornada o jornadas horarias semanales, que desempe&#xF1;e en el Servicio M&#xE9;dico Legal en calidad de planta o a contrata: sueldo base y asignaci&#xF3;n de est&#xED;mulo fijada a la instituci&#xF3;n, en virtud de lo dispuesto en la letra b) del art&#xED;culo 9&#xBA; del citado cuerpo legal.</div><div class=\"p\">&nbsp; &nbsp;  El gasto total anual que demande la aplicaci&#xF3;n del o los porcentajes que se definan por concepto de esta asignaci&#xF3;n no podr&#xE1; exceder al monto se&#xF1;alado en el art&#xED;culo siguiente.</div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2013-12-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9393311,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14 A.- El Director<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1057115&amp;idParte=9392132&amp;idVersion=2013-12-14\">Ley 20717<br>Art. 37 a)<br>D.O. 14.12.2013</a></span> Nacional del Servicio M&#xE9;dico Legal implementar&#xE1; un mecanismo informativo y consultivo con la Asociaci&#xF3;n de Funcionarios Profesionales del Servicio M&#xE9;dico Legal, para el proceso de fijaci&#xF3;n de metas y la fase de verificaci&#xF3;n de su cumplimiento, que permita recoger la opini&#xF3;n de los funcionarios profesionales al respecto. En todo caso, a m&#xE1;s tardar, el 15 de octubre de cada a&#xF1;o, el Director Nacional solicitar&#xE1; directamente a los directores de la asociaci&#xF3;n gremial, su opini&#xF3;n acerca de las metas definidas para las Direcciones Regionales y la Direcci&#xF3;n Nacional. Estos har&#xE1;n llegar sus observaciones dentro de los siete d&#xED;as h&#xE1;biles siguientes. De la misma manera, antes de la dictaci&#xF3;n del decreto a que se refiere el art&#xED;culo 15, el Director Nacional notificar&#xE1; a la asociaci&#xF3;n, del resultado obtenido en la verificaci&#xF3;n del cumplimiento de las metas.</div><br><div class=\"p\">&nbsp; &nbsp;  El presente art&#xED;culo se aplicar&#xE1; a partir de los convenios que se suscriban en el &#xFA;ltimo trimestre de 2014, de conformidad al art&#xED;culo 14 de la ley N&#xBA;20.065.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8721404,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18.- A contar del a&#xF1;o 2007, los recursos presupuestarios que anualmente se destinar&#xE1;n al pago de la asignaci&#xF3;n de est&#xED;mulo a la funci&#xF3;n pericial m&#xE9;dico-legal, podr&#xE1;n ser hasta el 50% del producto que se obtenga de multiplicar por 12 la suma de las remuneraciones mencionadas en el art&#xED;culo anterior, que haya pagado el Servicio M&#xE9;dico Legal en el mes de diciembre del a&#xF1;o objeto de la evaluaci&#xF3;n, a los profesionales funcionarios se&#xF1;alados en el art&#xED;culo 13, excluidos los que no se hayan desempe&#xF1;ado en la instituci&#xF3;n a lo menos seis meses de ese mismo a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  Durante el mes de febrero, por decreto del Ministerio de Justicia, expedido bajo la f&#xF3;rmula &quot;por orden del Presidente de la Rep&#xFA;blica&quot;, el que tambi&#xE9;n ser&#xE1; suscrito por el Ministro de Hacienda, se fijar&#xE1; la cantidad m&#xE1;xima de recursos presupuestarios que anualmente se destinar&#xE1;n al pago de la asignaci&#xF3;n, conforme lo establecido en el inciso anterior. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18.- A contar del a&#xF1;o 2007, los recursos presupuestarios que anualmente se destinar&#xE1;n al pago de la asignaci&#xF3;n de est&#xED;mulo a la funci&#xF3;n pericial m&#xE9;dico-legal, podr&#xE1;n ser hasta el 50% del producto que se obtenga de multiplicar por 12 la suma de las remuneraciones mencionadas en el art&#xED;culo anterior, que haya pagado el Servicio M&#xE9;dico Legal en el mes de diciembre del a&#xF1;o objeto de la evaluaci&#xF3;n, a los profesionales funcionarios se&#xF1;alados en el art&#xED;culo 13, excluidos los que no se hayan desempe&#xF1;ado en la instituci&#xF3;n a lo menos seis meses de ese mismo a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  Durante el <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1057115&amp;idParte=9392132&amp;idVersion=2013-12-14\">Ley 20717<br>Art. 37 c)<br>D.O. 14.12.2013</a></span>a&#xF1;o 2014, los recursos presupuestarios que anualmente se destinar&#xE1;n al pago de la asignaci&#xF3;n de est&#xED;mulo a la funci&#xF3;n pericial m&#xE9;dico-legal, podr&#xE1;n ser hasta el 85% del producto que se obtenga de multiplicar por 12 la suma de las remuneraciones mencionadas en el art&#xED;culo anterior, que haya pagado el Servicio M&#xE9;dico Legal en el mes de diciembre del a&#xF1;o objeto de la evaluaci&#xF3;n, a los profesionales funcionarios se&#xF1;alados en el art&#xED;culo 13, excluidos los que no se hayan desempe&#xF1;ado en la instituci&#xF3;n a lo menos seis meses de ese mismo a&#xF1;o. Para el a&#xF1;o 2015, los citados recursos presupuestarios podr&#xE1;n alcanzar hasta 12 veces el 100% de la base correspondiente. A contar del a&#xF1;o 2016, dicho l&#xED;mite ser&#xE1; del 110%. En todo caso, el pago correspondiente al a&#xF1;o 2014 deber&#xE1; financiarse con los recursos contemplados en el presupuesto del Servicio M&#xE9;dico Legal para dicho a&#xF1;o, pudiendo efectuarse las modificaciones presupuestarias que permitan lograr dicho objetivo.</div><div class=\"p\">&nbsp; &nbsp;  Durante el mes de febrero, por decreto del Ministerio de Justicia, expedido bajo la f&#xF3;rmula &quot;por orden del Presidente de la Rep&#xFA;blica&quot;, el que tambi&#xE9;n ser&#xE1; suscrito por el Ministro de Hacienda, se fijar&#xE1; la cantidad m&#xE1;xima de recursos presupuestarios que anualmente se destinar&#xE1;n al pago de la asignaci&#xF3;n, conforme lo establecido en el inciso anterior. </div><br></div>"
+        },
+        {
+          "part_id": 8721431,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17.- El monto mensual que corresponder&#xE1; a cada profesional funcionario por concepto de la asignaci&#xF3;n, en caso de proceder su pago, no podr&#xE1; ser inferior a un 32% ni superior a un 50% de la suma de las remuneraciones se&#xF1;aladas a continuaci&#xF3;n, establecidas en el decreto con fuerza de ley N&#xBA; 1, de 2001, del Ministerio de Salud, texto refundido, coordinado y sistematizado de la ley N&#xBA; 15.076, correspondientes a la jornada o jornadas horarias semanales, que desempe&#xF1;e en el Servicio M&#xE9;dico Legal en calidad de planta o a contrata: sueldo base y asignaci&#xF3;n de est&#xED;mulo fijada a la instituci&#xF3;n, en virtud de lo dispuesto en la letra b) del art&#xED;culo 9&#xBA; del citado cuerpo legal.</div><div class=\"p\">&nbsp; &nbsp;  El gasto total anual que demande la aplicaci&#xF3;n del o los porcentajes que se definan por concepto de esta asignaci&#xF3;n no podr&#xE1; exceder al monto se&#xF1;alado en el art&#xED;culo siguiente.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17.- El monto mensual que corresponder&#xE1; a cada profesional funcionario por concepto de la asignaci&#xF3;n, en caso de proceder su pago, no podr&#xE1; ser inferior a un 32% ni superior a un 50% de la suma de las remuneraciones se&#xF1;aladas a continuaci&#xF3;n, establecidas en el decreto con fuerza de ley N&#xBA; 1, de 2001, del Ministerio de Salud, texto refundido, coordinado y sistematizado de la ley N&#xBA; 15.076, correspondientes a la jornada o jornadas horarias semanales, que desempe&#xF1;e en el Servicio M&#xE9;dico Legal en calidad de planta o a contrata: sueldo base y asignaci&#xF3;n de est&#xED;mulo fijada a la instituci&#xF3;n, en virtud de lo dispuesto en la letra b) del art&#xED;culo 9&#xBA; del citado cuerpo legal.</div><div class=\"p\">&nbsp; &nbsp;  El <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1057115&amp;idParte=9392132&amp;idVersion=2013-12-14\">Ley 20717<br>Art. 37 b)<br>D.O. 14.12.2013</a></span>porcentaje no superior al 50% establecido en el inciso anterior alcanzar&#xE1; los guarismos que en cada caso se se&#xF1;alan conforme al siguiente cronograma: durante el a&#xF1;o 2014, ser&#xE1; del 85%; durante el a&#xF1;o 2015, ser&#xE1; del 100%; y a contar del a&#xF1;o 2016, ser&#xE1; del 110%.</div><div class=\"p\">&nbsp; &nbsp;  El gasto total anual que demande la aplicaci&#xF3;n del o los porcentajes que se definan por concepto de esta asignaci&#xF3;n no podr&#xE1; exceder al monto se&#xF1;alado en el art&#xED;culo siguiente.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1057115,
+      "fecha": "2013-12-14"
+    }
+  }
+]

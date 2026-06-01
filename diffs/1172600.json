@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2022-02-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-03-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10310706,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Excl&#xFA;yanse del concurso p&#xFA;blico correspondiente al Primer Cuatrimestre de 2022, en virtud de las disposiciones se&#xF1;aladas en los Considerandos, las frecuencias correspondientes a las concesiones de radiodifusi&#xF3;n sonora para las localidades y comunas que a continuaci&#xF3;n se indican:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  SOLICITUDES NUEVAS</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/144153.jpg\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Excl&#xFA;yanse del concurso p&#xFA;blico correspondiente al Primer Cuatrimestre de 2022, en virtud de las disposiciones se&#xF1;aladas en los Considerandos, las frecuencias correspondientes a las concesiones de radiodifusi&#xF3;n sonora para las localidades y comunas que a continuaci&#xF3;n se indican:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  SOLICITUDES NUEVAS</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/144153.jpg\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 694 Exenta, Transportes, publicada el 25.03.2022, rectifica la presente norma en el sentido de de incluir en la misma la comuna de Vi&#xF1;a del Mar, Regi&#xF3;n de Valpara&#xED;so, en la modalidad de radiodifusi&#xF3;n comunitaria ciudadana, la que en consecuencia, no estar&#xE1; disponible en el concurso del Primer Cuatrimestre de 2022. </div></div>"
+        }
+      ]
+    }
+  }
+]

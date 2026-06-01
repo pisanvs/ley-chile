@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-12-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6311050,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para lograr una efectiva fiscalizaci&#xF3;n de la cuota global anual de captura establecida en el presente decreto, las naves pesqueras industriales que desarrollen actividades sobre el recurso Orange roughy deber&#xE1;n recalar sus naves en puerto, en forma previa al zarpe hacia las &#xE1;reas individualizadas en el art&#xED;culo 1&#xBA;, o hacia aguas internacionales, como tambi&#xE9;n cuando retornen de una de dichas &#xE1;reas y antes de iniciar el desarrollo de operaciones en un &#xE1;rea distinta.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para lograr una efectiva fiscalizaci&#xF3;n de la cuota global anual de captura establecida en el presente decreto, las naves pesqueras industriales que desarrollen actividades sobre el recurso Orange roughy deber&#xE1;n recalar sus naves en puerto, en forma previa al zarpe hacia las &#xE1;reas individualizadas en el art&#xED;culo 1&#xBA;, o hacia aguas internacionales, como tambi&#xE9;n cuando retornen de una de dichas &#xE1;reas y antes de iniciar el desarrollo de operaciones en un &#xE1;rea distinta. Se except&#xFA;an de la obligaci&#xF3;n establecida<span class=\"n\" id=\"n_0\">DTO 121 EXENTO<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 20.03.2001</span> precedentemente, las naves pesqueras industriales que lleven observadores cient&#xED;ficos a bordo designados por la Subsecretaria de Pesca. </div></div>"
+        }
+      ]
+    }
+  }
+]

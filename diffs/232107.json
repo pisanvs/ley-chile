@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "2004-11-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-11-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7315923,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; CONTRALORIA GENERAL DE LA REPUBLICA<span class=\"n\" id=\"n_0\">AVI-S/N, CONTRALORIA<br>D.O.17.05.2004</span></div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Divisi&#xF3;n de Contabilidad</div><br><div class=\"p\">&nbsp; &nbsp;  Cursa con alcance resoluci&#xF3;n N&#xBA; 1.284,&nbsp; de 2004, del Ministerio de Defensa Nacional, Subsecretar&#xED;a de Marina</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 45.009.- Santiago, 3 de septiembre de 2004.</div><br><div class=\"p\">&nbsp; &nbsp;  La Contralor&#xED;a General ha dado curso al documento del ep&#xED;grafe, que otorga la concesi&#xF3;n de acuicultura de porci&#xF3;n de agua y fondo de mar que singulariza, en Canal P&#xE9;rez Norte, comuna de Guaitecas, provincia de Ays&#xE9;n, XI Regi&#xF3;n, pero cumple con hacer presente, de acuerdo con los antecedentes acompa&#xF1;ados, que la referencia contenida en el N&#xBA; 2 del instrumento en examen, al V&#xE9;rtice D Lat. 44&#xB0;02&apos;02,16&quot; S. debe entenderse efectuada al V&#xE9;rtice D Lat. 44&#xB0;03&apos;02,16&quot; S.</div><div class=\"p\">&nbsp; &nbsp;  Con el alcance que antecede se ha tomado raz&#xF3;n del acto administrativo de la suma.</div><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a Ud., por orden del Contralor General de la Rep&#xFA;blica, Jefe Sub Divisi&#xF3;n Cr&#xE9;dito P&#xFA;blico y Bienes Nacionales.</div><br><div class=\"p\">Al se&#xF1;or Subsecretario de Marina</div><div class=\"p\">Presente.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7315920,
+          "old": "<div><div class=\"p\">OTORGA CONCESION DE ACUICULTURA </div></div>",
+          "new": "<div><div class=\"p\">OTORGA CONCESION DE ACUICULTURA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

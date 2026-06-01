@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1999-04-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-01-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6165622,
+          "old": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE TERMINAL QUE INDICA PARA SERVICIOS NO URBANOS EN CIUDAD DE LA UNION</div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 47 exenta.- Puerto Montt, 31 de marzo de 1999.- Visto: Lo dispuesto en el D.S. N&#xBA;94/84; la resoluci&#xF3;n N&#xBA;12/87 y el D.S. N&#xBA;212/92, todos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; el Certificado de Recepci&#xF3;n Definitiva N&#xBA;06, de fecha 15.03.99, de la Direcci&#xF3;n de Obras Municipales de La Uni&#xF3;n; el Certificado de Numeraci&#xF3;n N&#xBA;8 del 23.03.99, de la Direcci&#xF3;n de Obras antes mencionada; y la Ordenanza de Terminales de Locomoci&#xF3;n Colectiva No Urbana, establecida por decreto alcaldicio N&#xBA;181, de fecha 4 de diciembre de 1997 de la I. Municipalidad de La Uni&#xF3;n, publicada en el Diario Oficial de fecha 17 de diciembre de 1997.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE TERMINAL QUE INDICA PARA SERVICIOS NO URBANOS EN CIUDAD DE LA UNION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 47 exenta.- Puerto Montt, 31 de marzo de 1999.- Visto: Lo dispuesto en el D.S. N&#xBA;94/84; la resoluci&#xF3;n N&#xBA;12/87 y el D.S. N&#xBA;212/92, todos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes; el Certificado de Recepci&#xF3;n Definitiva N&#xBA;06, de fecha 15.03.99, de la Direcci&#xF3;n de Obras Municipales de La Uni&#xF3;n; el Certificado de Numeraci&#xF3;n N&#xBA;8 del 23.03.99, de la Direcci&#xF3;n de Obras antes mencionada; y la Ordenanza de Terminales de Locomoci&#xF3;n Colectiva No Urbana, establecida por decreto alcaldicio N&#xBA;181, de fecha 4 de diciembre de 1997 de la I. Municipalidad de La Uni&#xF3;n, publicada en el Diario Oficial de fecha 17 de diciembre de 1997.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 6165623,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase el funcionamiento del Terminal de Buses No Urbano, de propiedad del Sr. Jos&#xE9; Guillermo Mautz Ponce, Rut N&#xBA;4.838.091-3, ubicado en calle Riquelme N&#xBA;551, de la ciudad de La Uni&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El propietario del terminal antes individualizado deber&#xE1; dar cumplimiento a lo establecido en la citada ordenanza municipal.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Autor&#xED;zase el funcionamiento del Terminal de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Buses No Urbano, de propiedad del Sr. Jos&#xE9; Guillermo Mautz Ponce, Rut N&#xBA;4.838.091-3, ubicado en calle Riquelme N&#xBA;551, de la ciudad de La Uni&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El propietario del terminal antes individualizado deber&#xE1; dar cumplimiento a lo establecido en la citada ordenanza municipal.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 871 Exenta, Transportes, publicada el 11.01.2006, modifica la presente norma, en el sentido que la propiedad cambi&#xF3; a la sociedad &quot;Inmobiliaria Catedral S.A.&quot;, representada legalmente por el Sr. Jos&#xE9; Bayelle Nahum.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

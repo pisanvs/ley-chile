@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8520501,
+          "old": "<div><div class=\"p\">AUTORIZA A LA UNIVERSIDAD CATOLICA DE VALPARAISO PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA UNIVERSIDAD CATOLICA DE VALPARAISO PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1977-07-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-04-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7321258,
+          "old": "<div><div class=\"p\">DELEGA ATRIBUCIONES QUE SE&#xD1;ALA EN SECRETARIO REGIONAL MINISTERIAL DE LA XII REGION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 8 de Julio de 1977.- El Presidente de la Rep&#xFA;blica ha decretado hoy lo que sigue.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 382.- Vistos: lo dispuesto en el art&#xED;culo 10&#xBA; del DL. N&#xBA; 937, de 1975; teniendo presente:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Que es conveniente normalizar la situaci&#xF3;n de hecho existente sobre los Huertos Familiares de la XII Regi&#xF3;n; por cuanto la autoridad regional est&#xE1; en conocimiento de dichas situaciones, cuya regularizaci&#xF3;n permitir&#xE1; un mejor aprovechamiento de esos bienes;</div><br><div class=\"p\">&nbsp; &nbsp;  b) Que es aconsejable delegar en el Secretario Regional Ministerial la concesi&#xF3;n de comodatos y t&#xED;tulos gratuitos de dominio sobre dichos huertos,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DELEGA ATRIBUCIONES QUE SE&#xD1;ALA EN SECRETARIO REGIONAL MINISTERIAL DE LA XII REGION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 8 de Julio de 1977.- El Presidente de la Rep&#xFA;blica ha decretado hoy lo que sigue.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 382.- Vistos: lo dispuesto en el art&#xED;culo 10&#xBA; del DL. N&#xBA; 937, de 1975; teniendo presente:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Que es conveniente normalizar la situaci&#xF3;n de hecho existente sobre los Huertos Familiares de la XII Regi&#xF3;n; por cuanto la autoridad regional est&#xE1; en conocimiento de dichas situaciones, cuya regularizaci&#xF3;n permitir&#xE1; un mejor aprovechamiento de esos bienes;</div><br><div class=\"p\">&nbsp; &nbsp;  b) Que es aconsejable delegar en el Secretario Regional Ministerial la concesi&#xF3;n de comodatos y t&#xED;tulos gratuitos de dominio sobre dichos huertos,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

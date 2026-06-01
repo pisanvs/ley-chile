@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1964-10-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1966-02-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9045239,
+          "old": "<div><div class=\"p\">LEY NUM. 15.709</div><br><div class=\"p\">MODIFICA LA LEY NUMERO 14.843</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">LEY NUM. 15.709</div><br><div class=\"p\">MODIFICA LA LEY NUMERO 14.843</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br><br></div>"
+        },
+        {
+          "part_id": 9045253,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14.o- Reempl&#xE1;zase en el Presupuesto de Capital, de la Ley de Presupuesto vigente, la glosa del &#xED;tem 12/02/103, del Ministerio de Obras P&#xFA;blicas, que se inicia con la palabra &quot;Igualmente&quot;, por la siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Igualmente, con cargo a estos recursos se pagar&#xE1; el recargo de las indemnizaciones a que se refiere la ley N.o 15.182, de 23 de Marzo de 1963.</div><div class=\"p\">&nbsp; &nbsp;  Este recargo se pagar&#xE1; tanto a los propietarios que a la fecha de vigencia de dicha ley hubieren otorgado la escritura p&#xFA;blica de expropiaci&#xF3;n correspondiente, como a los que no lo hubieren hecho. Respecto de aquellos propietarios que hubiesen otorgado la mencionada escritura p&#xFA;blica antes o despu&#xE9;s de la vigencia de dicha ley, no ser&#xE1; obst&#xE1;culo para que se les pague el referido recargo el hecho de que en la citada escritura hubiesen aceptado sin reservas el valor de expropiaci&#xF3;n fijado por la Comisi&#xF3;n de Hombres Buenos o renunciado expresamente a un valor mayor.</div><div class=\"p\">&nbsp; &nbsp;  Dicho recargo no se pagar&#xE1; a los propietarios que hayan reclamado judicialmente del monto de la indemnizaci&#xF3;n fijada por la Comisi&#xF3;n de Hombres Buenos.&quot; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14.o- Reempl&#xE1;zase en el Presupuesto de Capital, de la Ley de Presupuesto vigente, la glosa del &#xED;tem 12/02/103, del Ministerio de Obras P&#xFA;blicas, que se inicia con la palabra &quot;Igualmente&quot;, por la siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Igualmente, con cargo a estos recursos se pagar&#xE1; el recargo de las indemnizaciones a que se refiere la ley N.o 15.182, de 23 de Marzo de 1963.</div><div class=\"p\">&nbsp; &nbsp;  Este recargo se pagar&#xE1; tanto a los propietarios que a la fecha de vigencia de dicha ley hubieren otorgado la escritura p&#xFA;blica de expropiaci&#xF3;n correspondiente, como a los que no lo hubieren hecho. Respecto de aquellos propietarios que hubiesen otorgado la mencionada escritura p&#xFA;blica antes o despu&#xE9;s de la vigencia de dicha ley, no ser&#xE1; obst&#xE1;culo para que se les pague el referido recargo el hecho de que en la citada escritura hubiesen aceptado sin reservas el valor de expropiaci&#xF3;n fijado por la Comisi&#xF3;n de Hombres Buenos o renunciado expresamente a un valor mayor.</div><div class=\"p\">&nbsp; &nbsp;  Dicho recargo no se pagar&#xE1; a los propietarios que hayan reclamado judicialmente del monto de la indemnizaci&#xF3;n fijada por la Comisi&#xF3;n de Hombres Buenos, salvo que se hubieren desistido del reclamo o<span class=\"n\" id=\"n_0\">LEY 16427<br>Art. 2&#xBA;<br>D.O. 22.02.1966</span> hubiere sido declarada abandonada la instancia. En ning&#xFA;n caso podr&#xE1;n gozar del beneficio antes aludido aquellos propietarios que hubieren obtenido sentencia de t&#xE9;rmino con motivo de los reclamos que hayan podido formular, y que se hayan acogido a lo dispuesto en el art&#xED;culo 83 de la ley N&#xBA; 16.282.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

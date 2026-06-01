@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-07-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-01-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6288335,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA;148 EXENTO, DE 2000 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA;148 EXENTO, DE 2000</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

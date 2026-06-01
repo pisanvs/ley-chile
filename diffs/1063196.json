@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-06-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9478962,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnase al Sr. Waldo Rub&#xE9;n Bustos Streeter, RUN 5.943.219-2, en el cargo de Director de Primer Nivel de la Planta Directiva del Servicio de Salud Antofagasta, grado 2 EUS, 80% de Asignaci&#xF3;n de Alta Direcci&#xF3;n, en calidad de suplente, en forma transitoria y provisional, mientras se efect&#xFA;a el proceso de selecci&#xF3;n pertinente, nombramiento que no podr&#xE1; exceder un periodo de seis meses a contar del 19 de marzo de 2014.</div><div class=\"p\">&nbsp; &nbsp;  2.- El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza y por razones impostergables de buen servicio, la persona en referencia asumir&#xE1; en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3.- Imp&#xFA;tese el gasto correspondiente al Subt&#xED;tulo 21 Gastos en Personal del Presupuesto del &quot;Servicio de Salud Antofagasta&quot;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnase al Sr. Waldo Rub&#xE9;n Bustos Streeter, RUN 5.943.219-2, en el cargo de Director de Primer Nivel de la Planta Directiva del Servicio de Salud Antofagasta, grado 2 EUS, 80% de Asignaci&#xF3;n de Alta Direcci&#xF3;n, en calidad de suplente, en forma transitoria y provisional, mientras se efect&#xFA;a el proceso de selecci&#xF3;n pertinente, nombramiento que no podr&#xE1; exceder un periodo de seis meses a contar del<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1070741&amp;idParte=9531801&amp;idVersion=2014-11-20\">Decreto 118, SALUD<br>D.O. 20.11.2014</a></span> 24 de marzo de 2014.</div><div class=\"p\">&nbsp; &nbsp;  2.- El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza y por razones impostergables de buen servicio, la persona en referencia asumir&#xE1; en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3.- Imp&#xFA;tese el gasto correspondiente al Subt&#xED;tulo 21 Gastos en Personal del Presupuesto del &quot;Servicio de Salud Antofagasta&quot;.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1070741,
+      "fecha": "2014-11-20"
+    }
+  }
+]

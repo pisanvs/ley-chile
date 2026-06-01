@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-03-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-12-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5931469,
+          "old": "<div><div class=\"p\">DA CUMPLIMIENTO A LA RESOLUCION N&#xB0; 883, DE 1993, DEL CONSEJO DE SEGURIDAD DE LA ORGANIZACION DE LAS NACIONES UNIDAS QUE IMPONE SANCIONES ECONOMICAS A LIBIA </div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.518.- Santiago, 9 de diciembre de 1993.- Vistos: Lo dispuesto en el art&#xED;culo 32, N&#xB0;s 8 y 17, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, y los art&#xED;culos 39, 41 y 48 de la Carta de la Organizaci&#xF3;n de las Naciones Unidas.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que el Consejo de Seguridad de la Organizaci&#xF3;n de las Naciones Unidas aprob&#xF3; con fecha 11 de noviembre de 1993 la Resoluci&#xF3;n N&#xB0; 883.</div><div class=\"p\">&nbsp; &nbsp; Que en dicha Resoluci&#xF3;n expresa el convencimiento de que para mantener la paz y la seguridad internacionales es indispensable terminar con los actos de terrorismo internacionales incluidos aquellos en que participen directa o indirectamente los Estados.</div><div class=\"p\">&nbsp; &nbsp; Que ha determinado, agrega la Resoluci&#xF3;n mencionada, que el Gobierno de Libia contin&#xFA;a neg&#xE1;ndose a demostrar mediante acciones concretas que renuncia al terrorismo y, en particular, que contin&#xFA;a sin responder cabal y efectivamente a las peticiones y declaraciones que figuran en las Resoluciones N&#xB0;s 731 y 748, de 1992, del citado Consejo, hechos que constituyen una amenaza para la paz y seguridad internacionales.</div><div class=\"p\">&nbsp; &nbsp; Que la Resoluci&#xF3;n N&#xB0; 748, de 1992, de dicho Consejo, aprobada por Decreto Supremo N&#xB0; 554, del Ministerio de Relaciones Exteriores, de 1992, y publicada en el Diario Oficial de 20 de julio de 1992, puso de manifiesto el hecho de que el Gobierno de Libia no hab&#xED;a dado respuesta completa y efectiva a las peticiones que se le formularon en la Resoluci&#xF3;n N&#xB0; 731, de 1992, del mismo Consejo.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DA CUMPLIMIENTO A LA RESOLUCION N&#xB0; 883, DE 1993, DEL CONSEJO DE SEGURIDAD DE LA ORGANIZACION DE LAS NACIONES UNIDAS QUE IMPONE SANCIONES ECONOMICAS A LIBIA </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.518.- Santiago, 9 de diciembre de 1993.- Vistos: Lo dispuesto en el art&#xED;culo 32, N&#xB0;s 8 y 17, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, y los art&#xED;culos 39, 41 y 48 de la Carta de la Organizaci&#xF3;n de las Naciones Unidas.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que el Consejo de Seguridad de la Organizaci&#xF3;n de las Naciones Unidas aprob&#xF3; con fecha 11 de noviembre de 1993 la Resoluci&#xF3;n N&#xB0; 883.</div><div class=\"p\">&nbsp; &nbsp; Que en dicha Resoluci&#xF3;n expresa el convencimiento de que para mantener la paz y la seguridad internacionales es indispensable terminar con los actos de terrorismo internacionales incluidos aquellos en que participen directa o indirectamente los Estados.</div><div class=\"p\">&nbsp; &nbsp; Que ha determinado, agrega la Resoluci&#xF3;n mencionada, que el Gobierno de Libia contin&#xFA;a neg&#xE1;ndose a demostrar mediante acciones concretas que renuncia al terrorismo y, en particular, que contin&#xFA;a sin responder cabal y efectivamente a las peticiones y declaraciones que figuran en las Resoluciones N&#xB0;s 731 y 748, de 1992, del citado Consejo, hechos que constituyen una amenaza para la paz y seguridad internacionales.</div><div class=\"p\">&nbsp; &nbsp; Que la Resoluci&#xF3;n N&#xB0; 748, de 1992, de dicho Consejo, aprobada por Decreto Supremo N&#xB0; 554, del Ministerio de Relaciones Exteriores, de 1992, y publicada en el Diario Oficial de 20 de julio de 1992, puso de manifiesto el hecho de que el Gobierno de Libia no hab&#xED;a dado respuesta completa y efectiva a las peticiones que se le formularon en la Resoluci&#xF3;n N&#xB0; 731, de 1992, del mismo Consejo.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

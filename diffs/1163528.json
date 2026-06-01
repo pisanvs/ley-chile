@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2021-08-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-08-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10258886,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;guese en 9 meses a contar de la publicaci&#xF3;n del presente acto administrativo, la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, de conformidad a lo se&#xF1;alado en el inciso 2&#xB0; del <a href=\"https://www.leychile.cl/Navegar?idNorma=13560&amp;idParte=8632226&amp;idVersion=\">art. 117</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=13560&amp;idParte=&amp;idVersion=\">Ley General de Urbanismo y Construcciones</a>, en las zonas ya informados favorablemente a trav&#xE9;s de Ord. N&#xB0; 509, de fecha 07.05.2021, de la Seremi Minvu Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial y el diario &quot;El Llanquihue&quot;.</div><div class=\"p\">&nbsp; &nbsp;  3. Rem&#xED;tase copia de la presente resoluci&#xF3;n exenta al Sr. Alcalde de la comuna de Puerto Varas, a fin que tome conocimiento de lo resuelto precedentemente.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;guese <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1164099&amp;idParte=10262835&amp;idVersion=2021-08-24\">Resoluci&#xF3;n 486 EXENTA,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 24.08.2021</a></span>hasta el d&#xED;a 31 de octubre de 2021, la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, de conformidad a lo se&#xF1;alado en el inciso 2&#xB0; del art. 117 de la Ley General de Urbanismo y Construcciones, en las zonas ya informados favorablemente a trav&#xE9;s de Ord. N&#xB0; 509, de fecha 07.05.2021, de la Seremi Minvu Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial y el diario &quot;El Llanquihue&quot;.</div><div class=\"p\">&nbsp; &nbsp;  3. Rem&#xED;tase copia de la presente resoluci&#xF3;n exenta al Sr. Alcalde de la comuna de Puerto Varas, a fin que tome conocimiento de lo resuelto precedentemente.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1164099,
+      "fecha": "2021-08-24"
+    }
+  },
+  {
+    "fecha": "2021-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10258886,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;guese <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1164099&amp;idParte=10262835&amp;idVersion=2021-08-24\">Resoluci&#xF3;n 486 EXENTA,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 24.08.2021</a></span>hasta el d&#xED;a 31 de octubre de 2021, la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, de conformidad a lo se&#xF1;alado en el inciso 2&#xB0; del art. 117 de la Ley General de Urbanismo y Construcciones, en las zonas ya informados favorablemente a trav&#xE9;s de Ord. N&#xB0; 509, de fecha 07.05.2021, de la Seremi Minvu Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial y el diario &quot;El Llanquihue&quot;.</div><div class=\"p\">&nbsp; &nbsp;  3. Rem&#xED;tase copia de la presente resoluci&#xF3;n exenta al Sr. Alcalde de la comuna de Puerto Varas, a fin que tome conocimiento de lo resuelto precedentemente.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;guese <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1164099&amp;idParte=10262835&amp;idVersion=2021-08-24\">Resoluci&#xF3;n 486 EXENTA,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 24.08.2021</a></span>hasta el d&#xED;a 31 de octubre de 2021, la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, de conformidad a lo se&#xF1;alado en el inciso 2&#xB0; del art. 117 de la Ley General<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div> de Urbanismo y Construcciones, en las zonas ya informados favorablemente a trav&#xE9;s de Ord. N&#xB0; 509, de fecha 07.05.2021, de la Seremi Minvu Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial y el diario &quot;El Llanquihue&quot;.</div><div class=\"p\">&nbsp; &nbsp;  3. Rem&#xED;tase copia de la presente resoluci&#xF3;n exenta al Sr. Alcalde de la comuna de Puerto Varas, a fin que tome conocimiento de lo resuelto precedentemente.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xBA; de la Resoluci&#xF3;n 669 Exenta, Vivienda, publicada el 06.12.2021, suspende el plazo dispuesto por la presente norma, modificado por Res. Ex. N&#xBA; 486, de fecha 14.09.2021, que prorroga por plazo que se se&#xF1;ala, la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones en las zonas que indica, de conformidad a lo se&#xF1;alado en la ley 21.202, de 2020, relacionado con el Art. 117 de la LGUC. Asismismo, indica tener presente que el plazo que se suspende, se retomar&#xE1;, de pleno derecho, al d&#xED;a siguiente de finalizada totalmente la Alerta Sanitaria.</div></div>"
+        }
+      ]
+    }
+  }
+]

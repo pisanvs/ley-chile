@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2009-01-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-03-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8623946,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Del&#xE9;guese en do&#xF1;a Mar&#xED;a Loreto Alidunate Bravo, RUT 8.606.564-9, abogada de la Divisi&#xF3;n Jur&#xED;dica de esta Cartera de Estado, contratada asimilada al grado 4&#xBA; E.U.S. de la planta de profesionales de la Subsecretar&#xED;a, para que, en ausencia o impedimento por cualquier causa del Jefe de la Divisi&#xF3;n Jur&#xED;dica de esta Cartera de Estado, desempe&#xF1;e la funci&#xF3;n de visar los actos administrativos y documentos oficiales que deban ser firmados por el Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, el Subsecretario de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n o por las jefaturas en los cuales hayan estas autoridades delegado su firma.</div><br><div class=\"p\">&nbsp; &nbsp;  La presente delegaci&#xF3;n entrar&#xE1; en vigencia junto con la ley N&#xBA; 20.314.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Del&#xE9;guese en do&#xF1;a Mar&#xED;a Loreto Alidunate Bravo, RUT 8.606.564-9, abogada de la Divisi&#xF3;n Jur&#xED;dica de esta Cartera de Estado, contratada asimilada al grado 2&#xBA; E.U.S. de la planta de profesionales de la<span class=\"n\" id=\"n_0\">RES 312 EXENTA<br>ECONOMIA<br>Art. &#xFA;nico 1)<br>D.O. 13.03.2009</span> Subsecretar&#xED;a, para que, en ausencia o impedimento por cualquier causa del Jefe de la Divisi&#xF3;n Jur&#xED;dica de esta Cartera de Estado, desempe&#xF1;e la funci&#xF3;n de visar los actos administrativos y documentos oficiales que deban ser firmados por el Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, el Subsecretario de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n o por las jefaturas en los cuales hayan estas autoridades delegado su firma.</div><div class=\"p\">&nbsp; &nbsp;  Del&#xE9;guese en do&#xF1;a Danielle Zaror Miralles, RUT<span class=\"n\" id=\"n_1\">RES 312 EXENTA,<br>ECONOMIA<br>Art. &#xFA;nico 2)<br>D.O. 13.03.2009</span> 10.925.303-0, abogada de la Divisi&#xF3;n Jur&#xED;dica de esta Cartera de Estado, contratada asimilada al grado 6&#xB0; EUS de la planta de profesionales de la Subsecretar&#xED;a, para que, en ausencia o impedimento por cualquier causa del Jefe de la Divisi&#xF3;n Jur&#xED;dica de esta Cartera de Estado o de la Sra. Aldunate Bravo, desempe&#xF1;e la funci&#xF3;n de visar los actos administrativos y documentos oficiales que deban ser firmados por el Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, el Subsecretario de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n o por las jefaturas en los cuales hayan estas autoridades delegado su firma.</div><div class=\"p\">&nbsp; &nbsp;  La presente delegaci&#xF3;n entrar&#xE1; en vigencia junto con la ley N&#xBA; 20.314.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2009-06-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

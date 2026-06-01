@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-12-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-04-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8994016,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Para los efectos previstos en el art&#xED;culo 5&#xB0; de la ley N&#xB0; 18.480 ser&#xE1;n organismos competentes para emitir Certificados de Origen, el Banco Central de Chile, el Servicio Agr&#xED;cola y Ganadero, la Corporaci&#xF3;n Nacional Forestal, el Servicio Nacional de Pesca y la Comisi&#xF3;n Chilena del Cobre, seg&#xFA;n corresponda a la especie de mercanc&#xED;a.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Para los efectos previstos en el<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> art&#xED;culo 5&#xB0; de la ley N&#xB0; 18.480 ser&#xE1;n organismos competentes para emitir Certificados de Origen, el Banco Central de Chile, el Servicio Agr&#xED;cola y Ganadero, la Corporaci&#xF3;n Nacional Forestal, el Servicio Nacional de Pesca y la Comisi&#xF3;n Chilena del Cobre, seg&#xFA;n corresponda a la especie de mercanc&#xED;a.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del DTO 667, Econom&#xED;a, publicado el 09.04.1999, modific&#xF3; el presente art&#xED;culo en el sentido de designar a la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales, del Ministerio de Relaciones Exteriores en reemplazo del Banco Central, como organismo competente para emitir certificados de origen, para los efectos previstos en el inciso tercero del art&#xED;culo 5&#xB0; de la ley 18840<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-04-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7201666,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DISPONE DECLARACION DE EXISTENCIA PLANTAS EN CRIADEROS FORESTALES</div><div class=\"p\">&nbsp; &nbsp; Santiago, 16 de Abril de 1992.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 627 exenta.- Visto: Los art&#xED;culos 14 y 16 del Decreto Ley N&#xB0; 3.557 de 1980 y las facultades delegadas por Resoluci&#xF3;n N&#xB0; 39 de 1981 y,</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que para efectuar el control sanitario de los criaderos de plantas forestales, el Servicio Agr&#xED;cola y Ganadero requiere tener el antecedente del volumen de plantas forestales existentes anualmente en cada establecimiento y que son susceptibles de venderse o plantarse.</div><div class=\"p\">&nbsp; &nbsp; Que anualmente se necesita tener el conocimiento de los planteles que efectivamente se encuentran produciendo plantas en el pa&#xED;s, a objeto de fiscalizarlos.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DISPONE DECLARACION DE EXISTENCIA PLANTAS EN CRIADEROS FORESTALES</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 16 de Abril de 1992.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 627 exenta.- Visto: Los art&#xED;culos 14 y 16 del Decreto Ley N&#xB0; 3.557 de 1980 y las facultades delegadas por Resoluci&#xF3;n N&#xB0; 39 de 1981 y,</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que para efectuar el control sanitario de los criaderos de plantas forestales, el Servicio Agr&#xED;cola y Ganadero requiere tener el antecedente del volumen de plantas forestales existentes anualmente en cada establecimiento y que son susceptibles de venderse o plantarse.</div><div class=\"p\">&nbsp; &nbsp; Que anualmente se necesita tener el conocimiento de los planteles que efectivamente se encuentran produciendo plantas en el pa&#xED;s, a objeto de fiscalizarlos.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

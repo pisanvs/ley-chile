@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-05-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-04-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048677,
+          "old": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE CENTRO DE FORMACION TECNICA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 91 exento.- Santiago, 28 de Abril de 1988.-</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el representante legal del Instituto Superior de Administraci&#xF3;n de Coyhaique de la Sociedad Centro de Formaci&#xF3;n T&#xE9;cnica Instituto Superior de Administraci&#xF3;n Limitada, ha solicitado se autorice el funcionamiento de la instituci&#xF3;n por este Ministerio.</div><div class=\"p\">&nbsp; &nbsp;  Que, formuladas las observaciones, &#xE9;stas han sido subsanadas en tiempo y forma.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el D.L. N&#xBA; 3.541 de 1980, D.F.L. N&#xBA; 24 de 1981, D.S. N&#xBA; 9.555 de 1980 y D.S. N&#xBA; 1080 de 1983, todos del Ministerio de Educaci&#xF3;n P&#xFA;blica y la Resoluci&#xF3;n N&#xBA; 1050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA FUNCIONAMIENTO DE CENTRO DE FORMACION TECNICA QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 91 exento.- Santiago, 28 de Abril de 1988.-</div><br><div class=\"p\">Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el representante legal del Instituto Superior de Administraci&#xF3;n de Coyhaique de la Sociedad Centro de Formaci&#xF3;n T&#xE9;cnica Instituto Superior de Administraci&#xF3;n Limitada, ha solicitado se autorice el funcionamiento de la instituci&#xF3;n por este Ministerio.</div><div class=\"p\">&nbsp; &nbsp;  Que, formuladas las observaciones, &#xE9;stas han sido subsanadas en tiempo y forma.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el D.L. N&#xBA; 3.541 de 1980, D.F.L. N&#xBA; 24 de 1981, D.S. N&#xBA; 9.555 de 1980 y D.S. N&#xBA; 1080 de 1983, todos del Ministerio de Educaci&#xF3;n P&#xFA;blica y la Resoluci&#xF3;n N&#xBA; 1050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica, dicto el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-12-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-05-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8356590,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;CLOTILDE GALLARDO Y COMPA&#xD1;IA LIMITADA&quot; PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;CLOTILDE GALLARDO Y COMPA&#xD1;IA LIMITADA&quot; PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-01-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-02-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6238279,
+          "old": "<div><div class=\"p\">AUTORIZA A DON ERWIN BERNARDO ALMONACID MU&#xD1;OZ, PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON ERWIN BERNARDO ALMONACID MU&#xD1;OZ, PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

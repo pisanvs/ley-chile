@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-04-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-08-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7200737,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; PROHIBE CIRCULACION DE VEHICULOS QUE INDICA EN DIAS QUE SE&#xD1;ALA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 9 exenta.- Santiago, 7 de Abril de 1993.- Visto: Lo dispuesto por los art&#xED;culos N&#xB0;s. 113 y 118 de la Ley N&#xB0; 18.290; la Resoluci&#xF3;n N&#xB0; 59 de 1985; del Ministerio de Transportes y Telecomunicaciones; y lo prescrito en el Art. 1&#xB0; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; y Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Los altos &#xED;ndices de contaminaci&#xF3;n registrados por el Servicio de Salud Ambiente de la Regi&#xF3;n Metropolitana;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- La necesidad de dar cumplimiento al Plan de la Comisi&#xF3;n de Descontaminaci&#xF3;n de Santiago, establecido para los per&#xED;odos de Preemergencia;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- La necesidad de prevenir situaciones de deterioro del medio ambiente, tanto en lo referente a la calidad del aire como otros efectos nocivos a calidad del ambiente, que provoca un n&#xFA;mero excesivo de veh&#xED;culos;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">PROHIBE CIRCULACION DE VEHICULOS QUE INDICA EN DIAS QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 9 exenta.- Santiago, 7 de Abril de 1993.- Visto: Lo dispuesto por los art&#xED;culos N&#xB0;s. 113 y 118 de la Ley N&#xB0; 18.290; la Resoluci&#xF3;n N&#xB0; 59 de 1985; del Ministerio de Transportes y Telecomunicaciones; y lo prescrito en el Art. 1&#xB0; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile; y Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Los altos &#xED;ndices de contaminaci&#xF3;n registrados por el Servicio de Salud Ambiente de la Regi&#xF3;n Metropolitana;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- La necesidad de dar cumplimiento al Plan de la Comisi&#xF3;n de Descontaminaci&#xF3;n de Santiago, establecido para los per&#xED;odos de Preemergencia;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- La necesidad de prevenir situaciones de deterioro del medio ambiente, tanto en lo referente a la calidad del aire como otros efectos nocivos a calidad del ambiente, que provoca un n&#xFA;mero excesivo de veh&#xED;culos;</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

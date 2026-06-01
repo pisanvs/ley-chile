@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-02-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8357367,
+          "old": "<div><div class=\"p\">AUTORIZA A SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES Y ALGUEROS &quot;ESTERO SAN PEDRO&quot; DE PUNTA PICHIQUILLAIPE PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES Y ALGUEROS &quot;ESTERO SAN PEDRO&quot; DE PUNTA PICHIQUILLAIPE PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

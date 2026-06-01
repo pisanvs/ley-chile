@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2019-08-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-04-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10047622,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaciones para el a&#xF1;o 2019 en la Regi&#xF3;n del Biob&#xED;o, para la adquisici&#xF3;n 17 lotes en la comuna de Tom&#xE9;, por un total de 22.438 m2, entre la Ruta O-252 y Caleta Los Morros, la que es necesaria para la ejecuci&#xF3;n del proyecto &quot;Mejoramiento Avenida Coliumo&quot;, comuna de Tom&#xE9;, C&#xF3;digo BIP 30103038-0, cuyas caracter&#xED;sticas se detallan a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/96539.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la Provincia de Concepci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>expropiaciones para el a&#xF1;o 2019 en la Regi&#xF3;n del Biob&#xED;o, para la adquisici&#xF3;n 17 lotes en la comuna de Tom&#xE9;, por un total de 22.438 m2, entre la Ruta O-252 y Caleta Los Morros, la que es necesaria para la ejecuci&#xF3;n del proyecto &quot;Mejoramiento Avenida Coliumo&quot;, comuna de Tom&#xE9;, C&#xF3;digo BIP 30103038-0, cuyas caracter&#xED;sticas se detallan a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/96539.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la Provincia de Concepci&#xF3;n.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 13 Exento, Vivienda, publicado el 02.04.2020, dispone incorporar un inmueble cuyos datos se especifican en la citada norma. Asimismo, el numeral 2, ordena modificar la superficie aproximada total a expropiar por la de 30.268 m2 (treinta mil doscientos sesenta y ocho metros cuadrados).&nbsp;  </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2020-11-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10047622,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>expropiaciones para el a&#xF1;o 2019 en la Regi&#xF3;n del Biob&#xED;o, para la adquisici&#xF3;n 17 lotes en la comuna de Tom&#xE9;, por un total de 22.438 m2, entre la Ruta O-252 y Caleta Los Morros, la que es necesaria para la ejecuci&#xF3;n del proyecto &quot;Mejoramiento Avenida Coliumo&quot;, comuna de Tom&#xE9;, C&#xF3;digo BIP 30103038-0, cuyas caracter&#xED;sticas se detallan a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/96539.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la Provincia de Concepci&#xF3;n.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 13 Exento, Vivienda, publicado el 02.04.2020, dispone incorporar un inmueble cuyos datos se especifican en la citada norma. Asimismo, el numeral 2, ordena modificar la superficie aproximada total a expropiar por la de 30.268 m2 (treinta mil doscientos sesenta y ocho metros cuadrados).&nbsp;  </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>expropiaciones para el a&#xF1;o 2019 en la Regi&#xF3;n del Biob&#xED;o, para la <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>adquisici&#xF3;n 17 lotes en la comuna de Tom&#xE9;, por un total de 22.438 m2, entre la Ruta O-252 y Caleta Los Morros, la que es necesaria para la ejecuci&#xF3;n del proyecto &quot;Mejoramiento Avenida Coliumo&quot;, comuna de Tom&#xE9;, C&#xF3;digo BIP 30103038-0, cuyas caracter&#xED;sticas se detallan a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/96539.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la Provincia de Concepci&#xF3;n.</div><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 13 Exento, Vivienda, publicado el 02.04.2020, dispone incorporar un inmueble cuyos datos se especifican en la citada norma. Asimismo, el numeral 2, ordena modificar la superficie aproximada total a expropiar por la de 30.268 m2 (treinta mil doscientos sesenta y ocho metros cuadrados).&nbsp;  </div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 2 del Decreto 57 Exento, Vivienda, publicado el 05.11.2020, dispone modificar la superficie total aproximada a expropiar dispuesta en el numeral 1 de la presente norma, complementada mediante el N&#xBA; 1, del Decreto 13 exento, Vivienda de 2020, a la cantidad de 33.083,67 m2.</div></div>"
+        }
+      ]
+    }
+  }
+]

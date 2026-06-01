@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-01-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938362,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la fecha de retiro de los buses a&#xF1;o de modelo</div><div class=\"p\">1976 y siguientes de los servicios de locomoci&#xF3;n colectiva</div><div class=\"p\">urbana de la ciudad de Arica dispuesta en la letra a) del</div><div class=\"p\">art&#xED;culo 2&#xBA; del D.S. N&#xBA; 1 de 1994, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, en el sentido que la misma corresponder&#xE1; al 1 de enero del a&#xF1;o en que los referidos veh&#xED;culos cumplan 23 a&#xF1;os de antig&#xFC;edad. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la fecha de retiro de los buses a&#xF1;o de<span class=\"n\" id=\"n_0\">DTO 2, TRANSPORTES<br>N&#xBA; 2<br>D.O. 13.02.1998</span> modelo 1976 y siguientes de los servicios de locomoci&#xF3;n colectiva urbana de la ciudad de Arica dispuesta en la letra a) del art&#xED;culo 2&#xBA; del D.S. N&#xBA; 1 de 1994, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, en el sentido que la misma corresponder&#xE1; al 1 de mayo del a&#xF1;o en que los referidos veh&#xED;culos cumplan 23 a&#xF1;os de antig&#xFC;edad.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

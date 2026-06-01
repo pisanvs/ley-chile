@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8353817,
+          "old": "<div><div class=\"p\">AUTORIZA A &quot;COMPA&#xD1;IA PESQUERA Y NAVIERA PROAUSTRAL LTDA.&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA Y DECLARA CADUCIDAD DE RESOLUCION No. 158, DE 1987 </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A &quot;COMPA&#xD1;IA PESQUERA Y NAVIERA PROAUSTRAL LTDA.&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA Y DECLARA CADUCIDAD DE RESOLUCION No. 158, DE 1987</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

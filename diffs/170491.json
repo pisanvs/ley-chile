@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-06-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8362479,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Se&#xF1;&#xE1;lase como afectadas por la cat&#xE1;strofe derivada de los fuertes temporales de lluvias acaecidos en la zona sur del pa&#xED;s, a partir del d&#xED;a 2 de junio del presente a&#xF1;o, a las comunas de Loncoche y Gorbea de la provincia de Caut&#xED;n de la IX Regi&#xF3;n de la Araucan&#xED;a y a las comunas de Mariquina, Panguipulli, La Uni&#xF3;n y Valdivia de la provincia de Valdivia de la X Regi&#xF3;n de los Lagos.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Se&#xF1;&#xE1;lase como afectadas por la<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> cat&#xE1;strofe derivada de los fuertes temporales de lluvias acaecidos en la zona sur del pa&#xED;s, a partir del d&#xED;a 2 de junio del presente a&#xF1;o, a las comunas de Loncoche y Gorbea de la provincia de Caut&#xED;n de la IX Regi&#xF3;n de la Araucan&#xED;a y a las comunas de Mariquina, Panguipulli, La Uni&#xF3;n y Valdivia de la provincia de Valdivia de la X Regi&#xF3;n de los Lagos.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del DTO 3111, INTERIOR, publicado el 16.06.2000, agreg&#xF3; las comunas de Corral, Los Lagos y Lanco de la provincia de Valdivia, y la comuna de San Pablo de la provincia de Osorno, ambas de la X Regi&#xF3;n de los Lagos.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

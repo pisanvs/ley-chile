@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-05-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-07-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7269505,
+          "old": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA Y CONSERVERA PROTEUS S.A. PARA PROSEGUIR Y AMPLIAR ACTIVIDADES PESQUERAS QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA Y CONSERVERA PROTEUS S.A. PARA PROSEGUIR Y AMPLIAR ACTIVIDADES PESQUERAS QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-12-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6144594,
+          "old": "<div><div class=\"p\">DELEGA FACULTADES QUE INDICA EN SECRETARIOS REGIONALES MINISTERIALES</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 93.- Santiago, 13 de noviembre de 1998.- Visto: Los art&#xED;culos 23 y 43 de la ley N&#xBA; 18.575, de 1986, y el art&#xED;culo 58 del decreto supremo N&#xBA; 257 (RR.EE.), publicado en el D.O. de 17 de octubre de 1991, que promulg&#xF3; el Acuerdo sobre Transporte Internacional Terrestre, adoptado por Chile, Argentina, Bolivia, Brasil, Paraguay, Uruguay y Per&#xFA;.</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo Presente:</div><br><div class=\"p\">&nbsp; &nbsp;  La necesidad de ejercer en forma m&#xE1;s eficiente y directa, el otorgamiento de las autorizaciones para efectuar servicios internacionales de pasajeros y carga, en el &#xE1;mbito del Acuerdo sobre Transporte Internacional Terrestre y Actas de las Autoridades que lo complementan.</div><div class=\"p\">&nbsp; &nbsp;  La resoluci&#xF3;n exenta N&#xBA; 209, de 18 de junio de 1998, de la Direcci&#xF3;n Nacional de Fronteras y L&#xED;mites del Estado, que se&#xF1;ala los pasos fronterizos habilitados para la concesi&#xF3;n, por la Subsecretar&#xED;a de Transportes, de permisos para efectuar transporte terrestre internacional de carga o de pasajeros.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DELEGA FACULTADES QUE INDICA EN SECRETARIOS REGIONALES MINISTERIALES</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 93.- Santiago, 13 de noviembre de 1998.- Visto: Los art&#xED;culos 23 y 43 de la ley N&#xBA; 18.575, de 1986, y el art&#xED;culo 58 del decreto supremo N&#xBA; 257 (RR.EE.), publicado en el D.O. de 17 de octubre de 1991, que promulg&#xF3; el Acuerdo sobre Transporte Internacional Terrestre, adoptado por Chile, Argentina, Bolivia, Brasil, Paraguay, Uruguay y Per&#xFA;.</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo Presente:</div><br><div class=\"p\">&nbsp; &nbsp;  La necesidad de ejercer en forma m&#xE1;s eficiente y directa, el otorgamiento de las autorizaciones para efectuar servicios internacionales de pasajeros y carga, en el &#xE1;mbito del Acuerdo sobre Transporte Internacional Terrestre y Actas de las Autoridades que lo complementan.</div><div class=\"p\">&nbsp; &nbsp;  La resoluci&#xF3;n exenta N&#xBA; 209, de 18 de junio de 1998, de la Direcci&#xF3;n Nacional de Fronteras y L&#xED;mites del Estado, que se&#xF1;ala los pasos fronterizos habilitados para la concesi&#xF3;n, por la Subsecretar&#xED;a de Transportes, de permisos para efectuar transporte terrestre internacional de carga o de pasajeros.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

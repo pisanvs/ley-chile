@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-11-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-02-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6547146,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Cuarto Las Entidades deber&#xE1;n cumplir con el siguiente tarifado de servicios, el cual se establece en pesos ($), por tonelada de recurso o materia prima desembarcada, expresado en valores netos a los que se les agregar&#xE1; el Impuesto al Valor Agregado, cuando corresponda. Los Usuarios contar&#xE1;n con un plazo para el pago de las facturas, se&#xF1;alado en las Tablas correspondientes, a contar de la fecha de emisi&#xF3;n de las mismas.</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  TABLA DE TARIFADO CERTIFICACI&#xD3;N</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MACROZONA NORTE</div><br><div class=\"p\">NOTA: VER D.O. 05.11.2005, PAGINA 9</div><br><div class=\"p\">TABLA DE TARIFADO CERTIFICACI&#xD3;N</div><div class=\"p\">MACROZONA CENTRO SUR</div><br><div class=\"p\">NOTA: VER D.O. 05.11.2005, PAGINA 9</div><br><div class=\"p\">TABLA DE TARIFADO CERTIFICACI&#xD3;N</div><div class=\"p\">MACROZONA AUSTRAL</div><br><div class=\"p\">NOTA: VER D.O. 05.11.2005, PAGINA 9</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Cuarto Las Entidades deber&#xE1;n cumplir con el<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> siguiente tarifado de servicios, el cual se establece en pesos ($), por tonelada de recurso o materia prima desembarcada, expresado en valores netos a los que se les agregar&#xE1; el Impuesto al Valor Agregado, cuando corresponda. Los Usuarios contar&#xE1;n con un plazo para el pago de las facturas, se&#xF1;alado en las Tablas correspondientes, a contar de la fecha de emisi&#xF3;n de las mismas.</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  TABLA DE TARIFADO CERTIFICACI&#xD3;N</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MACROZONA NORTE</div><br><div class=\"p\">NOTA: VER D.O. 05.11.2005, PAGINA 9</div><br><div class=\"p\">TABLA DE TARIFADO CERTIFICACI&#xD3;N</div><div class=\"p\">MACROZONA CENTRO SUR</div><br><div class=\"p\">NOTA: VER D.O. 05.11.2005, PAGINA 9</div><br><div class=\"p\">TABLA DE TARIFADO CERTIFICACI&#xD3;N</div><div class=\"p\">MACROZONA AUSTRAL</div><br><div class=\"p\">NOTA: VER D.O. 05.11.2005, PAGINA 9</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 38 Exenta, Econom&#xED;a, publicada el 07.02.2006, modifica la Tabla 1, Tabla de Tarifado Certificaci&#xF3;n Macro Zona Norte y la Tabla 2 Tarifado Certificaci&#xF3;n Macrozona Centro Sur, de la presente norma, en la forma que indica. La citada modificaci&#xF3;n no se ha incorporado por razones t&#xE9;cnicas temporales.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

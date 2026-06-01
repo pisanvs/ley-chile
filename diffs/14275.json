@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1990-11-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7150355,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Los ministerio del Interior y de<span class=\"n\" id=\"n_1\">DTO 828, EDUCACION<br>Art. &#xFA;nico b)<br>D.O. 19.01.1996</span> Educaci&#xF3;n aprobar&#xE1;n el Estatuto Tipo a que se refiere el inciso final del art&#xED;culo 13 agregado por el presente Decreto.</div><div class=\"p\">&nbsp; &nbsp; Los Centros de Padres constituidos como organizaciones comunitarias de car&#xE1;cter funcional, deber&#xE1;n adecuar los Estatutos que los rigen al Decreto Supremo de Educaci&#xF3;n N&#xB0; 565, de 1990 antes del plazo de 180 d&#xED;as, contados desde la publicaci&#xF3;n en el Dario Oficial del Estatuto Tipo que aprueben los Ministerios del Interior y Educaci&#xF3;n.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7150346,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0;.- Los Centros de Padres que desearen obtener personalidad jur&#xED;dica, se constituir&#xE1;n de acuerdo a las normas se&#xF1;aladas en el T&#xED;tulo XXXIII del Libro I del C&#xF3;digo Civil, con las modalidades que se se&#xF1;alan en este reglamento, pudiendo adoptar los estatutos que libremente aprueben o el estatuto tipo aprobado por los Ministerios de Justicia y de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Los Centros de Padres que se acojan al estatuto tipo, se constituir&#xE1;n por instrumento privado protocolizado, suscrito por los constituyentes. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0;.- Los Centros de Padres que desearen obtener personalidad jur&#xED;dica, se constituir&#xE1;n de acuerdo a las normas se&#xF1;aladas en el T&#xED;tulo XXXIII del Libro I del C&#xF3;digo Civil, con las modalidades que se se&#xF1;alan en este reglamento, pudiendo adoptar los estatutos que libremente aprueben o el estatuto tipo aprobado por los Ministerios de Justicia y de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Los Centros de Padres que se acojan al estatuto tipo, se constituir&#xE1;n por instrumento privado protocolizado, suscrito por los constituyentes.</div><div class=\"p\">&nbsp; &nbsp; Asimismo los Centros de Padres se podr&#xE1;n constituir<span class=\"n\" id=\"n_0\">DTO 828, EDUCACION<br>Art. &#xFA;nico a)<br>D.O. 19.01.1996</span> como personas jur&#xED;dicas de acuerdo con las normas se&#xF1;aladas en la Ley N&#xB0; 19.418 de 1995, que establece normas sobre Juntas de Vecinos y dem&#xE1;s organizaicones comunitarias, con las modalidades que se se&#xF1;alan en este Reglamento, pudiendo adoptar los estatutos que libremente aprueben o el estatuto tipo aprobado por los Ministerio del Interior y de Educaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

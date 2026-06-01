@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-01-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6020257,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Establ&#xE9;cese una Oficina del Servicio de Impuestos Internos en la Localidad de Lanco, X Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El territorio jurisdiccional de la citada oficina corresponder&#xE1; a las Comunas de Panguipulli, Lanco y San Jos&#xE9; de la Mariquina.</div><div class=\"p\">&nbsp; &nbsp; La oficina de Lanco, depender&#xE1; de la X Direcci&#xF3;n Regional de Puerto Montt.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Establ&#xE9;cese una Oficina del Servicio de Impuestos Internos en la Localidad de Lanco, X Regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El territorio jurisdiccional de la citada oficina corresponder&#xE1; a las Comunas de Panguipulli, Lanco y San Jos&#xE9; de la Mariquina.</div><div class=\"p\">&nbsp; &nbsp; La oficina de Lanco, depender&#xE1; de la X Direcci&#xF3;n Regional de Puerto Montt.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo Primero de la Resoluci&#xF3;n 24 Exenta, Hacienda, publicada el 04.02.2010, modifica la presente norma en el sentido de que el territorio jurisdiccional de la Oficina de Lanco, perteneciente a la Direcci&#xF3;n Regional de la XIV Regi&#xF3;n de Los R&#xED;os, corresponder&#xE1; a la comuna de Lanco. </div></div>"
+        }
+      ]
+    }
+  }
+]

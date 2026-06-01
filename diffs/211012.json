@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-06-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8249643,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO N&#xB0; 109, DE 1974, DEL MINISTERIO DE AGRICULTURA </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO N&#xB0; 109, DE 1974, DEL MINISTERIO DE AGRICULTURA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

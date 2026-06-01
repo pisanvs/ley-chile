@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-10-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-12-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10370340,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n C.P.PMO. Ord. N&#xBA; 12.290/10 Vrs., del 23 de agosto de 2022, se declaran abandonados a favor del Fisco los restos n&#xE1;ufragos de la nave &quot;Pinguin&quot;, matr&#xED;cula de Valpara&#xED;so N&#xBA; 2644, se&#xF1;al de llamada CB-4210 y sanciona a sus propietarios, Sra. Ana Orfelia Machado Bustamante, C.I. 8.328.601-6, y Guillermo Alejandro Arenas Escudero, C.I. 5.645.851-4, con una multa a beneficio fiscal ascendente a 500 Pesos Oro.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  El texto &#xED;ntegro de estas resoluciones locales, se encuentra publicado en la p&#xE1;gina web de la Direcci&#xF3;n General del Territorio Mar&#xED;timo y de Marina Mercante (www.directemar.cl), Marco Normativo - resoluciones locales AA.MM.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n C.P.PMO. Ord. N&#xBA; 12.290/10 Vrs., del 23 de agosto de 2022, se declaran abandonados a favor del Fisco los restos n&#xE1;ufragos de la nave &quot;Pinguin&quot;, matr&#xED;cula de Valpara&#xED;so N&#xBA; 2644, se&#xF1;al de llamada CB-4210 y sanciona a sus propietarios, Sra. <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1186623&amp;idParte=10388503&amp;idVersion=2022-12-17\">Aviso S/N<br>D.O. 17.12.2022</a></span>Elia Rosa Gatica Moyano, C.I. 6.542.395-2., y Guillermo Alejandro Arenas Escudero, C.I. 5.645.851-4, con una multa a beneficio fiscal ascendente a 500 Pesos Oro.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  El texto &#xED;ntegro de estas resoluciones locales, se encuentra publicado en la p&#xE1;gina web de la Direcci&#xF3;n General del Territorio Mar&#xED;timo y de Marina Mercante (www.directemar.cl), Marco Normativo - resoluciones locales AA.MM.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1186623,
+      "fecha": "2022-12-17"
+    }
+  }
+]

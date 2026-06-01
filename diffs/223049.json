@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-05-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004641,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Decl&#xE1;ranse ajustados a las disposiciones legales vigentes, los nombramientos a contrata que hubieren efectuado las Municipalidades entre el 8 de Enero y el 30 de Abril de 1975, dentro de las cuotas m&#xE1;ximas fijadas por decreto supremo N&#xBA; 14, de Interior, de 8 de Enero de 1975, aun cuando no se encuadren dentro de las normas de la ley N&#xBA; 11.469, sobre Estatuto de los Empleados Municipales.</div><div class=\"p\">&nbsp; &nbsp;  Las designaciones a contrata a que se refiere el inciso anterior no podr&#xE1;n ser renovadas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Decl&#xE1;ranse ajustados a las disposiciones legales vigentes, los nombramientos a contrata que hubieren efectuado las Municipalidades entre el 8 de Enero y el 30 de Abril de 1975, dentro de las cuotas m&#xE1;ximas fijadas por decreto supremo N&#xBA; 14, de Interior, de 8 de Enero de 1975, aun cuando no se encuadren dentro de las normas de la ley N&#xBA; 11.469, sobre Estatuto de los Empleados Municipales. Las designaciones a contrata a que se refiere el<span class=\"n\" id=\"n_0\">DL 1441, INTERIOR<br>Art. &#xFA;nico<br>D.O. 11.05.1976</span> inciso anterior, s&#xF3;lo podr&#xE1;n renovarse si la dotaci&#xF3;n de personal de la Municipalidad respectiva, incluidos los designados a contrata, se encuentra encuadrada en las limitaciones establecidas en el decreto supremo N&#xBA; 14, de 1975, del Ministerio del Interior, y sus modificaciones posteriores, y en la circular N&#xBA; 43, del mismo a&#xF1;o, del Ministerio de Hacienda.</div><div class=\"p\">&nbsp; &nbsp;  Las renovaciones que se hubieren dispuesto, caducar&#xE1;n si los empleos servidos a contrata no se incorporaren a las Plantas respectivas, en la reestructuraci&#xF3;n que se apruebe de acuerdo a las normas del art&#xED;culo 4&#xBA; transitorio del decreto ley N&#xBA; 1.289, del 1975, Org&#xE1;nico de Municipios y Administraci&#xF3;n Comunal. Igualmente, terminar&#xE1;n los contratos renovados, al vencimiento del plazo establecido en el inciso primero de la disposici&#xF3;n citada, en el caso en que no se hubiere propuesto por el respectivo Alcalde, la reestructuraci&#xF3;n aludida.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

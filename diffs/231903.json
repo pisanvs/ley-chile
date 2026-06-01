@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2004-10-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-03-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6502887,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: La primera zona corresponde a la que no tiene restricci&#xF3;n horaria alguna para el funcionamiento de los establecimientos de expendio de bebidas alcoh&#xF3;licas, salvo las que el art&#xED;culo 21&#xBA; de la ley N&#xBA; 19.925 ha fijado, y las que nuestro ordenamiento jur&#xED;dico vigente ha establecido.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: La primera zona corresponde a la que<span class=\"n\" id=\"n_0\">ORZ 1,<br>M. DE CONCEPCION<br>Art. &#xFA;nico<br>D.O. 30.03.2005</span> tiene restricci&#xF3;n horaria seg&#xFA;n lo dispuesto en la ley N&#xBA;19.925 para el funcionamiento de los establecimientos de expendio de bebidas alcoh&#xF3;licas. Quedan exceptuados de lo anterior los establecimientos que expendan bebidas alcoh&#xF3;licas que correspondan a la letra &#xD1;) &quot;Salones de T&#xE9; o Cafeter&#xED;as&quot; y F) &quot;Establecimientos de Expendio de Cerveza o Sidra de Fruta&quot; del art&#xED;culo 3 de la ley N&#xBA;19.925, y que se encuentren al interior de galer&#xED;as comerciales o similares, los que s&#xF3;lo podr&#xE1;n funcionar entre las 10:00 y las 22:00 horas. La hora de cierre se ampliar&#xE1; en dos horas la madrugada de los d&#xED;as s&#xE1;bado y feriados</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2009-08-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8774025,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1005470&amp;idParte=8773872&amp;idVersion=2009-08-27\">Ordenanza 2,<br>M. DE CONCEPCION<br>Art. UNICO<br>D.O. 27.08.2009</a></span>&nbsp; &nbsp;  ART&#xCD;CULO 15&#xBA;: Las normas de la presente Ordenanza no obstan a las restricciones o limitaciones que puedan establecer los respectivos reglamentos de copropiedad o los acuerdos de asambleas de copropietarios, en relaci&#xF3;n con el horario de funcionamiento de locales comerciales que expenden bebidas alcoh&#xF3;licas, ubicados dentro de comunidades o condominios, dentro del marco horario fijado por la presente ordenanza, y que se establezcan o acuerden de conformidad con la legislaci&#xF3;n respectiva.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1005470,
+      "fecha": "2009-08-27"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8315890,
+          "old": "<div><div class=\"p\">AUTORIZA A INDUSTRIA PESQUERA TIMONEL S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A INDUSTRIA PESQUERA TIMONEL S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

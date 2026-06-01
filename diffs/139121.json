@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1999-07-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8346599,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Der&#xF3;gase el decreto exento N&#xBA; 104 de 1993, de Econom&#xED;a, en atenci&#xF3;n a lo expuesto en la parte considerativa del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- As&#xED;gnase, para uso privativo del Sr. Director Nacional de Pesca, el veh&#xED;culo que se indica: Tipo de Veh&#xED;culo: Autom&#xF3;vil, Marca: Peugeot, Modelo: 406 ST2 2.0, N&#xBA; Motor: 43031760, N&#xBA; Chassis: 80117749, Color: Azul Seures, A&#xF1;o: 1996, Placa Unica: PH.2335-0.</div><div class=\"p\">&nbsp; &nbsp;  Asignado al Sr. Director Nacional de Pesca.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Autor&#xED;zase, al veh&#xED;culo antes citado, para circular en d&#xED;as s&#xE1;bado, domingo y festivos, exento del uso del disco fiscal distintivo y adem&#xE1;s para ser estacionado en el domicilio particular del Sr. Director Nacional de Pesca, que se se&#xF1;ala:</div><br><div class=\"p\">Lugar de Estacionamiento: Calle Luz N&#xBA; 2889, Departamento N&#xBA; 32, Las Condes, Santiago.</div><br><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- El Servicio Nacional de Pesca estar&#xE1; obligado a establecer los controles internos y resguardos que procedan de acuerdo a lo establecido en el DL N&#xBA; 799 de 1974. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Der&#xF3;gase el decreto exento N&#xBA; 104 de 1993, de</div><div class=\"p\">Econom&#xED;a, en atenci&#xF3;n a lo expuesto en la parte</div><div class=\"p\">considerativa del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- As&#xED;gnase, para uso privativo del Sr. Director</div><div class=\"p\">Nacional de Pesca, el veh&#xED;culo que se indica:</div><div class=\"p\">Tipo de Veh&#xED;culo: Autom&#xF3;vil, Marca: Peugeot, Modelo: 406 ST2</div><div class=\"p\">2.0, N&#xBA; Motor: 43031760, N&#xBA; Chassis: 80117749, Color: Azul</div><div class=\"p\">Seures, A&#xF1;o: 1996, Placa Unica: PH.2335-0.</div><div class=\"p\">&nbsp; &nbsp;  Asignado al Sr. Director Nacional de Pesca.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Autor&#xED;zase, al veh&#xED;culo antes citado, para</div><div class=\"p\">circular en d&#xED;as s&#xE1;bado, domingo y festivos, exento del uso</div><div class=\"p\">del disco fiscal distintivo y adem&#xE1;s para ser estacionado en</div><div class=\"p\">el domicilio particular del Sr. Director Nacional de Pesca,</div><div class=\"p\">que se se&#xF1;ala:</div><br><div class=\"p\">Lugar de Estacionamiento: Capri N&#xBA; 5081, Vitacura,<span class=\"n\" id=\"n_0\">DTO 2448 EXENTO<br>ECONOMIA<br>D.O. 03.01.2001</span></div><div class=\"p\">Santiago.</div><br><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- El Servicio Nacional de Pesca estar&#xE1; obligado a</div><div class=\"p\">establecer los controles internos y resguardos que procedan</div><div class=\"p\">de acuerdo a lo establecido en el DL N&#xBA; 799 de 1974.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-02-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

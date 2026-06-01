@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-03-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9591514,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;bese la siguiente n&#xF3;mina de terrenos coincidentes con circulaciones, plazas y parques cuyas declaratorias de utilidad p&#xFA;blica se dejan sin efecto:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48740.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Apru&#xE9;bese las &#xE1;reas graficadas en los planos que en cada caso se se&#xF1;alan, las cuales pasan a ser parte &#xED;ntegra del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese en el Diario Oficial el presente decreto alcaldicio que &quot;Aprueba n&#xF3;mina de terrenos coincidentes con circulaciones, plazas y parques cuyas declaratorias de utilidad p&#xFA;blica se dejan sin efecto, comuna de Machal&#xED;&quot;.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese en un diario de circulaci&#xF3;n Regional y en la p&#xE1;gina web www.machali.cl el decreto alcaldicio que &quot;Aprueba n&#xF3;mina de terrenos coincidentes con circulaciones, plazas y parques cuyas declaratorias de utilidad p&#xFA;blica se dejan sin efecto, comuna de Machal&#xED;&quot;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;bese la siguiente n&#xF3;mina de terrenos coincidentes con circulaciones, plazas y parques cuyas declaratorias de utilidad p&#xFA;blica se dejan sin efecto:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA </a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/48740.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Apru&#xE9;bese las &#xE1;reas graficadas en los planos que en cada caso se se&#xF1;alan, las cuales pasan a ser parte &#xED;ntegra del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese en el Diario Oficial el presente decreto alcaldicio que &quot;Aprueba n&#xF3;mina de terrenos coincidentes con circulaciones, plazas y parques cuyas declaratorias de utilidad p&#xFA;blica se dejan sin efecto, comuna de Machal&#xED;&quot;.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese en un diario de circulaci&#xF3;n Regional y en la p&#xE1;gina web www.machali.cl el decreto alcaldicio que &quot;Aprueba n&#xF3;mina de terrenos coincidentes con circulaciones, plazas y parques cuyas declaratorias de utilidad p&#xFA;blica se dejan sin efecto, comuna de Machal&#xED;&quot;.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA </a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 211, Municipalidad de Machal&#xED;, publicado el 12.03.2016, modifica el cuadro inserto en la presente norma, en el sentido se eliminar de la n&#xF3;mina la Avenida Hern&#xE1;n Ciudad.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "fecha": "1985-08-08",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1985-08-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8993320,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0; La Subsecretar&#xED;a de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n llevar&#xE1; un Registro donde se inscribir&#xE1;n las personas interesadas en integrar la &quot;Comisi&#xF3;n de Hombres Buenos&quot; que, en cada caso, debe practicar el aval&#xFA;o de la indemnizaci&#xF3;n que debe pagarse al propietario del predio sirviente de servidumbre el&#xE9;ctrica.</div><br></div>"
+        },
+        {
+          "part_id": 8993321,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Podr&#xE1;n inscribirse las personas que sean DS. 64,<span class=\"n\" id=\"n_0\"><br>ECONOMIA,<br></span> titulados en alguna de las siguientes profesiones: abogado, ingeniero agr&#xF3;nomo, ingeniero civil o ingeniero 1984, de ejecuci&#xF3;n electricista.</div><div class=\"p\"><span class=\"n\" id=\"n_1\">ART. UNICO,<br>a).</span></div><br></div>"
+        },
+        {
+          "part_id": 8993322,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; Los interesados que postulen al Registro deber&#xE1;n acompa&#xF1;ar a su solicitud un certificado de no tener antecedentes penales, acreditar 10 a&#xF1;os de antig&#xFC;edad a lo menos, en su profesi&#xF3;n y, fijar domicilio en la Regi&#xF3;n determinada. Podr&#xE1;n adjuntar otros antecedentes que demuestren experiencia e idoneidad.</div><br></div>"
+        },
+        {
+          "part_id": 8993323,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 4&#xB0; La Comisi&#xF3;n de Hombres Buenos que para cada caso designe el Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, deber&#xE1; estar integrada como sigue:</div><div class=\"p\">&nbsp; &nbsp;  a) Un abogado, que la presidir&#xE1;;</div><div class=\"p\">&nbsp; &nbsp;  b) Un ingeniero agr&#xF3;nomo, y</div><div class=\"p\">&nbsp; &nbsp; c) Un ingeniero civil o ingeniero de ejecuci&#xF3;n<span class=\"n\" id=\"n_2\">DS. 64,<br>ECONOMIA,<br>1984,<br>ART. UNICO,<br>b).</span> electricista.</div><br><div class=\"p\">&nbsp; &nbsp; El Ministro elegir&#xE1; estos integrantes de la respectiva n&#xF3;mina de profesionales registrados, prefiri&#xE9;ndose los domiciliados en la Regi&#xF3;n donde se encuentre el predio sirviente, y si en &#xE9;sta faltaren, los de la Regi&#xF3;n m&#xE1;s cercana o de mejor acceso.</div><br></div>"
+        },
+        {
+          "part_id": 8993324,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- El miembro de la Comisi&#xF3;n que no se<span class=\"n\" id=\"n_3\">RECTIFIC.<br><br>NOV. 1983.</span> integre a ella, o no cumpla su cometido, ser&#xE1; sustituido D.O. 16- conforme a lo prescrito en el art&#xED;culo precedente; sin perjuicio de aplicar la sanci&#xF3;n establecida en el art&#xED;culo 63&#xB0; del DFL. N&#xB0; 1, de Miner&#xED;a, de 1982, en los casos que corresponda.</div><br></div>"
+        },
+        {
+          "part_id": 8993325,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El integrante que se declare implicado RECTIFIC.<span class=\"n\" id=\"n_4\"><br>D.O. 16-<br>NOV. 1983.</span> por tener inter&#xE9;s personal en el asunto, o v&#xED;nculos de parentesco con las partes, ser&#xE1; reemplazado de inmediato. Trat&#xE1;ndose de tachas formuladas por los afectados, resolver&#xE1; el Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 8993326,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; T&#xF3;mese raz&#xF3;n, comun&#xED;quese y publ&#xED;quese.- AUGUSTO PINOCHET UGARTE.- Andr&#xE9;s Passicot, Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8993319,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 7&#xB0; El honorario de la Comisi&#xF3;n de Hombres<span class=\"n\" id=\"n_0\">DTO 210, ECONOMIA<br>D.O. 08.08.1985</span> Buenos ser&#xE1; fijado por resoluci&#xF3;n del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, precis&#xE1;ndose en el considerando de la misma lo que corresponda a cada miembro en la forma que sigue: 10 Unidades de Fomento como base m&#xE1;s 1 Unidad de Fomento por cada 500 metros del eje de la servidumbre o de la longitud de las l&#xED;neas el&#xE9;ctricas, seg&#xFA;n corresponda. Si el predio se encuentra fuera de la Regi&#xF3;n donde tiene el perito su domicilio registrado, se incrementar&#xE1; el honorario en 1 Unidad de Fomento por cada 100 kil&#xF3;metros de desplazamiento.</div><div class=\"p\">&nbsp; &nbsp; En la parte resolutiva se se&#xF1;alar&#xE1; el total de honorarios que el interesado debe pagar a la Comisi&#xF3;n de Hombres Buenos.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 7&#xB0; El honorario de la Comisi&#xF3;n de Hombres<span class=\"n\" id=\"n_5\">DTO 210, ECONOMIA<br>D.O. 08.08.1985</span> Buenos ser&#xE1; fijado por resoluci&#xF3;n del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, precis&#xE1;ndose en el considerando de la misma lo que corresponda a cada miembro en la forma que sigue: 10 Unidades de Fomento como base m&#xE1;s 1 Unidad de Fomento por cada 500 metros del eje de la servidumbre o de la longitud de las l&#xED;neas el&#xE9;ctricas, seg&#xFA;n corresponda. Si el predio se encuentra fuera de la Regi&#xF3;n donde tiene el perito su domicilio registrado, se incrementar&#xE1; el honorario en 1 Unidad de Fomento por cada 100 kil&#xF3;metros de desplazamiento.</div><div class=\"p\">&nbsp; &nbsp; En la parte resolutiva se se&#xF1;alar&#xE1; el total de honorarios que el interesado debe pagar a la Comisi&#xF3;n de Hombres Buenos.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

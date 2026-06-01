@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2008-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-05-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8439146,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Adjud&#xED;case y ot&#xF3;rgase la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica a la empresa Antofagasta Minerals S.A., de conformidad al art&#xED;culo 19 de la Ley N&#xB0;19.657, respecto del &#xE1;rea denominada &apos;Tinguiririca B&apos;, ubicada en la comuna de San Fernando, Provincia de Colchagua, Sexta Regi&#xF3;n del Libertador General Bernardo O&#xB4;Higgins sobre una superficie de 12.000 H&#xE1;s., y cuyas coordenadas son:</div><br><div class=\"p\">&nbsp; &nbsp; V&#xE9;rtice&nbsp; &nbsp;  Norte&nbsp; &nbsp; &nbsp; &nbsp;  Este</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; V1&nbsp; &nbsp; &nbsp; 6.134.000&nbsp; &nbsp; &nbsp; 357.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; V2&nbsp; &nbsp; &nbsp; 6.134.000&nbsp; &nbsp; &nbsp; 377.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; V3&nbsp; &nbsp; &nbsp; 6.128.000&nbsp; &nbsp; &nbsp; 377.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; V4&nbsp; &nbsp; &nbsp; 6.128.000&nbsp; &nbsp; &nbsp; 357.000</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1001971&amp;idParte=8591011&amp;idVersion=2009-05-08\">Decreto 61, MINERIA<br>Art. PRIMERO<br>D.O. 08.05.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo primero: Adjud&#xED;case y ot&#xF3;rgase la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica a la empresa Antofagasta Minerals S.A., de conformidad al art&#xED;culo 19 de la Ley N&#xB0;19.657, respecto del &#xE1;rea denominada &apos;Tinguiriric<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>a B&apos;, ubicada en la comuna de San Fernando, Provincia de Colchagua, Sexta Regi&#xF3;n del Libertador General Bernardo O&#xB4;Higgins sobre una superficie de 12.000 H&#xE1;s., y cuyas coordenadas son:</div><br><div class=\"p\">&nbsp; &nbsp; V&#xE9;rtice&nbsp; &nbsp;  Norte&nbsp; &nbsp; &nbsp; &nbsp;  Este</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; V1&nbsp; &nbsp; &nbsp; 6.134.000&nbsp; &nbsp; &nbsp; 357.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; V2&nbsp; &nbsp; &nbsp; 6.134.000&nbsp; &nbsp; &nbsp; 377.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; V3&nbsp; &nbsp; &nbsp; 6.128.000&nbsp; &nbsp; &nbsp; 377.000</div><div class=\"p\">&nbsp; &nbsp; &nbsp; V4&nbsp; &nbsp; &nbsp; 6.128.000&nbsp; &nbsp; &nbsp; 357.000</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp;  </div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br> El art&#xED;culo primero del decreto 61, Miner&#xED;a, publicado el 08.05.2009, modifica la presente norma, en el sentido de se&#xF1;alar que el nuevo concesionario de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica es la empresa Energ&#xED;a Andina S.A., RUT N&#xBA;76.039.634-6, de acuerdo a lo se&#xF1;alado en escritura p&#xFA;blica otorgada ante Notario P&#xFA;blico de Santiago don Iv&#xE1;n Torrealba Acevedo, de fecha 20 de octubre de 2008, Repertorio N&#xBA;13.843-08.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1001971,
+      "fecha": "2009-05-08"
+    }
+  },
+  {
+    "fecha": "2011-02-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8439149,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: El plazo m&#xE1;ximo de duraci&#xF3;n de la concesi&#xF3;n ser&#xE1; de dos a&#xF1;os. Para el caso que la concesionaria optare por una pr&#xF3;rroga de la misma, haciendo uso del derecho establecido en el art&#xED;culo 36 de la Ley N&#xB0;19.657, la concesionaria deber&#xE1; acreditar a lo menos un avance no inferior al veinticinco por ciento de las actividades e inversiones proyectadas durante el plazo de la exploraci&#xF3;n, explicitadas en el art&#xED;culo tercero del presente decreto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: El plazo m&#xE1;ximo <div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA</a></div> de duraci&#xF3;n de la concesi&#xF3;n ser&#xE1; de dos a&#xF1;os. Para el caso que la concesionaria optare por una pr&#xF3;rroga de la misma, haciendo uso del derecho establecido en el art&#xED;culo 36 de la Ley N&#xB0;19.657, la concesionaria deber&#xE1; acreditar a lo menos un avance no inferior al veinticinco por ciento de las actividades e inversiones proyectadas durante el plazo de la exploraci&#xF3;n, explicitadas en el art&#xED;culo tercero del presente decreto.</div><br><br><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del decreto 23, Miner&#xED;a, publicado el 25.02.2011, modifica la presente norma, en el sentido de prorrogar por un per&#xED;odo de dos a&#xF1;os la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica denominada &quot;Tinguiririca B&quot;, de Energ&#xED;a Andina S.A.</div></div>"
+        }
+      ]
+    }
+  }
+]

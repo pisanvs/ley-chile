@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-02-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-12-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10099911,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1. Determ&#xED;nase que la especialidad de medicina familiar dar&#xE1; derecho, durante el a&#xF1;o 2020, a recibir la asignaci&#xF3;n de est&#xED;mulo por competencias profesionales que concede el art&#xED;culo 8&#xB0; de la ley N&#xB0; 20.816.</div><div class=\"p\">&nbsp; &nbsp;  Las entidades administradoras de salud municipal que se indican a continuaci&#xF3;n, conceder&#xE1;n dicha asignaci&#xF3;n a los m&#xE9;dicos cirujanos que cuenten con esta especialidad, para lo que contar&#xE1;n con los siguientes recursos para ello, en atenci&#xF3;n al n&#xFA;mero de profesionales y de horas semanales contratadas, conforme a continuaci&#xF3;n se indica:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/104744.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/104745.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/104746.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1. Determ&#xED;nase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1153644&amp;idParte=10185732&amp;idVersion=2020-12-16\">Decreto 70 EXENTO,<br>SALUD<br>Art. 1<br>D.O. 16.12.2020</a></span>que la especialidad de medicina familiar dar&#xE1; derecho, durante el a&#xF1;o 2020, a recibir la asignaci&#xF3;n de est&#xED;mulo por competencias profesionales que concede el art&#xED;culo 8&#xB0; de la ley N&#xB0; 20.816.</div><div class=\"p\">&nbsp; &nbsp;  Las entidades administradoras de salud municipal que se indican a continuaci&#xF3;n, conceder&#xE1;n dicha asignaci&#xF3;n a los m&#xE9;dicos cirujanos que cuenten con esta especialidad, para lo que contar&#xE1;n con los siguientes recursos para ello, en atenci&#xF3;n al n&#xFA;mero de profesionales y de horas semanales contratadas, conforme a continuaci&#xF3;n se indica:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/116648.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/116649.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/116650.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1153644,
+      "fecha": "2020-12-16"
+    }
+  }
+]

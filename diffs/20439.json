@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-08-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-09-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8272140,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA PERIODO DE VEDA BIOLOGICA PARA EL RECURSO ERIZO EN LA XII REGION EN 1995</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 152 exento.- Santiago, 10 de Agosto de 1995.- Visto: Lo informado por el Departamento de Pesquer&#xED;as de la Subsecretar&#xED;a de Pesca, en el Memor&#xE1;ndum T&#xE9;cnico N&#xB0; 140, de fecha 7 de Agosto de 1995; lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, el D.F.L. N&#xB0; 5, de 1983; la Ley N&#xB0; 18.892 y sus modificaciones cuyo texto refundido fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y sus modificaciones; el D.S. N&#xB0; 654, de 1994, del Ministerio del Interior; el Decreto Exento N&#xB0; 166, de 1994, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la comunicaci&#xF3;n de la Subsecretar&#xED;a de Pesca al Consejo Zonal de Pesca de la XII Regi&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA PERIODO DE VEDA BIOLOGICA PARA EL RECURSO ERIZO EN LA XII REGION EN 1995</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 152 exento.- Santiago, 10 de Agosto de 1995.- Visto: Lo informado por el Departamento de Pesquer&#xED;as de la Subsecretar&#xED;a de Pesca, en el Memor&#xE1;ndum T&#xE9;cnico N&#xB0; 140, de fecha 7 de Agosto de 1995; lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, el D.F.L. N&#xB0; 5, de 1983; la Ley N&#xB0; 18.892 y sus modificaciones cuyo texto refundido fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y sus modificaciones; el D.S. N&#xB0; 654, de 1994, del Ministerio del Interior; el Decreto Exento N&#xB0; 166, de 1994, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; la comunicaci&#xF3;n de la Subsecretar&#xED;a de Pesca al Consejo Zonal de Pesca de la XII Regi&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

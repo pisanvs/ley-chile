@@ -1,0 +1,54 @@
+[
+  {
+    "fecha": "2009-01-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-02-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7383245,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Compensaci&#xF3;n comuna Isla de Pascua </div><div class=\"p\">&nbsp; &nbsp;  Para los efectos de lo se&#xF1;alado en el inciso tercero del art&#xED;culo 38 de la Ley Sobre Rentas Municipales, el monto de la compensaci&#xF3;n correspondiente a la Municipalidad de Isla de Pascua ser&#xE1; de 1,4 veces la suma del gasto en personal y en bienes y servicios de consumo del a&#xF1;o anteprecedente al del c&#xE1;lculo. El monto que cada a&#xF1;o se asigne para la referida Municipalidad se indicar&#xE1; en el Decreto Supremo que anualmente establecer&#xE1; los coeficientes comunales, conforme a lo determinado por el presente Reglamento.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Compensaci&#xF3;n comuna Isla de Pascua </div><div class=\"p\">&nbsp; &nbsp;  Para los efectos de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1022795&amp;idParte=9107866&amp;idVersion=2011-02-05\">Decreto 888, INTERIOR<br>Art. &#xDA;NICO<br>D.O. 05.02.2011</a></span>lo se&#xF1;alado en el inciso tercero del art&#xED;culo 38 de la Ley Sobre Rentas Municipales, el monto de la compensaci&#xF3;n correspondiente a la Municipalidad de Isla de Pascua ser&#xE1; de 1,7 veces la suma del gasto en personal y en bienes y servicios de consumo del a&#xF1;o anteprecedente al del c&#xE1;lculo. El monto que cada a&#xF1;o se asigne para la referida Municipalidad se indicar&#xE1; en el Decreto Supremo que anualmente establecer&#xE1; los coeficientes comunales, conforme a lo determinado por el presente Reglamento.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1022795,
+      "fecha": "2011-02-05"
+    }
+  },
+  {
+    "fecha": "2015-01-16",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7383245,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Compensaci&#xF3;n comuna Isla de Pascua </div><div class=\"p\">&nbsp; &nbsp;  Para los efectos de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1022795&amp;idParte=9107866&amp;idVersion=2011-02-05\">Decreto 888, INTERIOR<br>Art. &#xDA;NICO<br>D.O. 05.02.2011</a></span>lo se&#xF1;alado en el inciso tercero del art&#xED;culo 38 de la Ley Sobre Rentas Municipales, el monto de la compensaci&#xF3;n correspondiente a la Municipalidad de Isla de Pascua ser&#xE1; de 1,7 veces la suma del gasto en personal y en bienes y servicios de consumo del a&#xF1;o anteprecedente al del c&#xE1;lculo. El monto que cada a&#xF1;o se asigne para la referida Municipalidad se indicar&#xE1; en el Decreto Supremo que anualmente establecer&#xE1; los coeficientes comunales, conforme a lo determinado por el presente Reglamento.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1073861&amp;idParte=9550190&amp;idVersion=2015-01-16\">Decreto 1684 EXENTO, <br>INTERIOR<br>Art. &#xDA;NICO<br>D.O. 16.01.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Compensaci&#xF3;n comuna Isla de Pascua </div><div class=\"p\">&nbsp; &nbsp;  Para los efectos de lo se&#xF1;alado en el inciso tercero del art&#xED;culo 38 de la Ley Sobre Rentas Municipales, el monto de la compensaci&#xF3;n correspondiente a la Municipalidad de Isla de Pascua ser&#xE1; de 2 veces la suma del gasto en personal<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1022795&amp;idParte=9107866&amp;idVersion=2011-02-05\">Decreto 888, INTERIOR<br>Art. &#xDA;NICO<br>D.O. 05.02.2011</a></span> y en bienes y servicios de consumo del a&#xF1;o anteprecedente al del c&#xE1;lculo. El monto que cada a&#xF1;o se asigne para la referida Municipalidad se indicar&#xE1; en el Decreto Supremo que anualmente establecer&#xE1; los coeficientes comunales, conforme a lo determinado por el presente Reglamento.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1073861,
+      "fecha": "2015-01-16"
+    }
+  },
+  {
+    "fecha": "2025-01-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

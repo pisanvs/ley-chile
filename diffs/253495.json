@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-07-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-02-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8590926,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o- Proh&#xED;bese la corta o aprovechamiento en cualquier forma de los &#xE1;rboles y arbustos que se encuentran situados en los terrenos ubicados dentro de los siguientes l&#xED;mites:</div><br><div class=\"p\">&nbsp; &nbsp;  NORTE: Una l&#xED;nea imaginaria que parte del cerro Pequen Quillay, y pasa por Cerro Grande, nacimiento quebrada Valle Largo, Cerro Ceatolei, Nevado Olivares, cerro Juncal Chico y hasta el l&#xED;mite con la Rep&#xFA;blica Argentina;</div><br><div class=\"p\">&nbsp; &nbsp;  ESTE: L&#xED;mite con la Rep&#xFA;blica Argentina.</div><br><div class=\"p\">&nbsp; &nbsp;  SUR: L&#xED;mite con la Rep&#xFA;blica Argentina hasta cerro Picos de Barroso;</div><br><div class=\"p\">&nbsp; &nbsp;  OESTE: L&#xED;nea imaginaria que una las altas cumbres de los siguientes cerros: Picos de Barroso, Catedral, Peredones, Amarillo, Cabeza de Novillo, de la Punta, La Carlota, Narkis de Sasia, San Pedro Nolasco, El Bauble y Monte del Purgatorio; l&#xED;nea imaginaria perpendicular que une este &#xFA;ltimo cerro con el meridiano 70&#xBA; 30&apos; hasta la intersecci&#xF3;n con el r&#xED;o Mapocho; este &#xFA;ltimo r&#xED;o con desembocadura del estero de las Rosas; l&#xED;nea imaginaria que une este &#xFA;ltimo con las altas cumbres de los cerros, El Carmen de Huechuraba, C&#xF3;ndores y Pequen Quillay. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o- Proh&#xED;bese la corta o aprovechamiento en cualquier forma de los &#xE1;rboles y arbustos que se encuentran situados en los terrenos ubicados dentro de los siguientes l&#xED;mites:</div><br><div class=\"p\">&nbsp; &nbsp;  NORTE: Una l&#xED;nea imaginaria que parte del cerro Pequen Quillay, y pasa por Cerro Grande, nacimiento quebrada Valle Largo, Cerro Ceatolei, Nevado Olivares, cerro Juncal Chico y hasta el l&#xED;mite con la Rep&#xFA;blica Argentina;</div><br><div class=\"p\">&nbsp; &nbsp;  ESTE: L&#xED;mite con la Rep&#xFA;blica Argentina.</div><br><div class=\"p\">&nbsp; &nbsp;  SUR: L&#xED;mite con la Rep&#xFA;blica Argentina hasta cerro Picos de Barroso;</div><div class=\"p\">&nbsp; &nbsp;  OESTE: L&#xED;nea imaginaria que une las altas cumbres<span class=\"n\" id=\"n_0\">DTO 327,<br>AGRICULTURA<br>Art. &#xFA;nico<br>D.O. 07.02.1975</span> de los siguientes cerros: Picos de Barroso Catedral, Paredones Amarillo, Cabeza de Novillo, De La Punta, La Carlota, Narkis de Sasia, San Pedro Nolasco, El Bauble y Monte de Purgatorio; l&#xED;nea imaginaria perpendicular que une este &#xFA;ltimo cerro con el nacimiento del canal San Carlos; curso de dicho canal hasta el nacimiento del canal De Las Perdices; curso de este &#xFA;ltimo canal hasta su intersecci&#xF3;n con la calle Valenzuela Puelma; l&#xED;nea imaginaria que, siguiendo la direcci&#xF3;n de la citada calle, une este punto de intersecci&#xF3;n con el canal &quot;El Bollo&quot;; curso del canal &quot;El Bollo&quot; hasta su nacimiento en el r&#xED;o Mapocho; curso de este r&#xED;o hasta el puente La Pir&#xE1;mide en el extremo norte de la Avenida Am&#xE9;rico Vespucio; camino de la Pir&#xE1;mide hasta su intersecci&#xF3;n con el canal El Carmen; curso del canal El Carmen hasta su punto m&#xE1;s cercano a la cumbre del cerro San Ignacio;</div><div class=\"p\">l&#xED;nea imaginaria que une la cumbre de este &#xFA;ltimo con los cerros C&#xF3;ndores y Pequ&#xE9;n Quillay.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

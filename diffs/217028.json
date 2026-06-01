@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1974-04-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7305243,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- La Corporaci&#xF3;n de Servicios Habitacionales, dentro del plazo de un a&#xF1;o, contado desde la publicaci&#xF3;n en el Diario Oficial de los decretos supremos a que se refiere el art&#xED;culo 2&#xBA;, transferir&#xE1;, preferentemente y a t&#xED;tulo gratuito, una vivienda ubicada, en lo posible, en el lugar que determine el beneficiario, a la c&#xF3;nyuge sobreviviente o, a falta de &#xE9;sta, a los hijos leg&#xED;timos y/o naturales o, a falta de aqu&#xE9;lla y &#xE9;stos, a los ascendientes en primer grado del personal de las Fuerzas Armadas y de Carabineros, fallecido en actos del servicio como consecuencia directa de las acciones militares realizadas a partir del 11 de Septiembre de 1973 y hasta el 31 de Diciembre del mismo a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  Los ascendientes y descendientes s&#xF3;lo ser&#xE1;n beneficiarios si a la fecha del deceso eran causantes de asignaci&#xF3;n familiar del fallecido.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- La Corporaci&#xF3;n de Servicios Habitacionales, dentro del plazo de un a&#xF1;o, contado desde la publicaci&#xF3;n en el Diario Oficial de los decretos supremos a que se refiere el art&#xED;culo 2&#xBA;, transferir&#xE1;, preferentemente y a t&#xED;tulo gratuito, una vivienda ubicada, en lo posible, en el lugar que determine el beneficiario, a la c&#xF3;nyuge sobreviviente o, a falta de &#xE9;sta, a los hijos leg&#xED;timos y/o naturales o, a falta de aqu&#xE9;lla y &#xE9;stos, a los ascendientes en primer grado del personal de las Fuerzas Armadas y de Carabineros, fallecido en actos del servicio como consecuencia directa de las acciones militares realizadas a partir del 11 de Septiembre de 1973 y hasta el 31 de Diciembre del mismo a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  INCISO SEGUNDO DEROGAD<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=224728&amp;idParte=7310966&amp;idVersion=1976-02-14\">Decreto Ley 1336, DEFENSA<br>Art. UNICO<br>D.O. 14.02.1976</a></span>O.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 224728,
+      "fecha": "1976-02-14"
+    }
+  }
+]

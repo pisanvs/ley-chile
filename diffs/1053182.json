@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-07-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-04-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9366957,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;bese el Protocolo de An&#xE1;lisis y/o Ensayos que se indica en la Tabla I y que reemplaza el indicado en la Tabla II, de la presente resoluci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/33920.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El texto &#xED;ntegro del protocolo que entra en aplicaci&#xF3;n el 31.03.2014, individualizado en el Resuelvo 1&#xBA;, Tabla I, de la presente resoluci&#xF3;n, se encuentra en esta Superintendencia, a disposici&#xF3;n de los interesados, y puede ser consultado en el sitio web www.sec.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Los fabricantes nacionales, importadores y comercializadores del producto individualizado en el Resuelvo 1&#xBA; de la presente resoluci&#xF3;n, previo a su comercializaci&#xF3;n en el pa&#xED;s, deber&#xE1;n contar con los respectivos certificados de aprobaci&#xF3;n, a partir del 31.03.2014, de acuerdo con el nuevo protocolo de fecha 31.05.2013 se&#xF1;alado en el Resuelvo 1&#xBA;, Tabla I, de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; No obstante lo anterior, los fabricantes e importadores interesados en utilizar este nuevo protocolo, antes de su entrada en vigencia, podr&#xE1;n hacerlo a trav&#xE9;s de los Organismos de Certificaci&#xF3;n y Laboratorios de Ensayos autorizados para tal efecto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Apru&#xE9;bese el Protocolo de An&#xE1;lisis y/o Ensayos <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>que se indica en la Tabla I y que reemplaza el indicado en la Tabla II, de la presente resoluci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/33920.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El texto &#xED;ntegro del protocolo que entra en aplicaci&#xF3;n el 31.03.2014, individualizado en el Resuelvo 1&#xBA;, Tabla I, de la presente resoluci&#xF3;n, se encuentra en esta Superintendencia, a disposici&#xF3;n de los interesados, y puede ser consultado en el sitio web www.sec.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Los fabricantes nacionales, importadores y comercializadores del producto individualizado en el Resuelvo 1&#xBA; de la presente resoluci&#xF3;n, previo a su comercializaci&#xF3;n en el pa&#xED;s, deber&#xE1;n contar con los respectivos certificados de aprobaci&#xF3;n, a partir del 31.03.2014, de acuerdo con el nuevo protocolo de fecha 31.05.2013 se&#xF1;alado en el Resuelvo 1&#xBA;, Tabla I, de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; No obstante lo anterior, los fabricantes e importadores interesados en utilizar este nuevo protocolo, antes de su entrada en vigencia, podr&#xE1;n hacerlo a trav&#xE9;s de los Organismos de Certificaci&#xF3;n y Laboratorios de Ensayos autorizados para tal efecto.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 2911 Exenta, Energ&#xED;a, publicada el 24.04.2014 modifica la fecha de entrada de aplicaci&#xF3;n del protocolo de ensayos de eficiencia, para la certificaci&#xF3;n correspondiente al producto se&#xF1;alado en la citada norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

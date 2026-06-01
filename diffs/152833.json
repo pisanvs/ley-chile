@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-09-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7259651,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA ANDROS S.A. PARA INICIAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA ANDROS S.A. PARA INICIAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCION QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-07-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-11-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7274962,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO N&#xBA; 5 EXENTO, DE 1999</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 262 exento.- Santiago, 5 de julio de 2000.- Visto: Lo dispuesto en los art&#xED;culos 1, 2, 3 y 6 del decreto ley N&#xBA; 799, de 1974; el decreto supremo N&#xBA; 654, de 1994, del Ministerio del Interior, y los antecedentes que se acompa&#xF1;an.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, por medio del decreto exento N&#xBA; 5, de fecha 5 de enero de 1999, de este Ministerio, se asign&#xF3; un veh&#xED;culo al uso privativo del Jefe del Departamento Jur&#xED;dico del Servicio Nacional del Consumidor.</div><div class=\"p\">&nbsp; &nbsp;  Que, por medio de la resoluci&#xF3;n N&#xBA; 33, de fecha 30 de mayo de 2000, del se&#xF1;or Director Nacional del Servicio Nacional del Consumidor se ha nombrado a un nuevo Jefe del Departamento Jur&#xED;dico de ese Servicio.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO N&#xBA; 5 EXENTO, DE 1999</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 262 exento.- Santiago, 5 de julio de 2000.- Visto: Lo dispuesto en los art&#xED;culos 1, 2, 3 y 6 del decreto ley N&#xBA; 799, de 1974; el decreto supremo N&#xBA; 654, de 1994, del Ministerio del Interior, y los antecedentes que se acompa&#xF1;an.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, por medio del decreto exento N&#xBA; 5, de fecha 5 de enero de 1999, de este Ministerio, se asign&#xF3; un veh&#xED;culo al uso privativo del Jefe del Departamento Jur&#xED;dico del Servicio Nacional del Consumidor.</div><div class=\"p\">&nbsp; &nbsp;  Que, por medio de la resoluci&#xF3;n N&#xBA; 33, de fecha 30 de mayo de 2000, del se&#xF1;or Director Nacional del Servicio Nacional del Consumidor se ha nombrado a un nuevo Jefe del Departamento Jur&#xED;dico de ese Servicio.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

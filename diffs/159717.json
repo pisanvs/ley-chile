@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-03-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-09-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6246221,
+          "old": "<div><div class=\"p\">DEJA SIN EFECTO DECRETO No. 606, DE 1980, ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO AL SERVICIO NACIONAL DE TURISMO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 33.- Santiago, 22 de Enero de 1986.- Visto: Decreto Ley No. 799 de 1974; modificado por el DFL No.</div><div class=\"p\">12-2.345 de 1979; Circular No. 9.277 de 1975 y Resoluciones N&#xB0;s. 600 de 1977 y 1.050 de 1980, todos de la Contralor&#xED;a General de la Rep&#xFA;blica; Decreto de Econom&#xED;a No. 606 de 1980; lo solicitado por el Servicio Nacional de Turismo, en su Oficio Ord. 21/2 de 13 de Enero de 1985.</div><div class=\"p\">Considerando: Que, el Servicio Nacional de Turismo, ha adquirido un nuevo veh&#xED;culo para ser asignado al Director Nacional, solicitando autorizaci&#xF3;n para que pueda circular en d&#xED;as S bados en la tarde, Domingos y festivos, exento de la obligaci&#xF3;n de usar disco dintintivo por razones de seguridad y representatividad, </div><div class=\"p\">Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DEJA SIN EFECTO DECRETO No. 606, DE 1980, ASIGNA Y AUTORIZA CIRCULACION DE VEHICULO AL SERVICIO NACIONAL DE TURISMO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 33.- Santiago, 22 de Enero de 1986.- Visto: Decreto Ley No. 799 de 1974; modificado por el DFL No.</div><div class=\"p\">12-2.345 de 1979; Circular No. 9.277 de 1975 y Resoluciones N&#xB0;s. 600 de 1977 y 1.050 de 1980, todos de la Contralor&#xED;a General de la Rep&#xFA;blica; Decreto de Econom&#xED;a No. 606 de 1980; lo solicitado por el Servicio Nacional de Turismo, en su Oficio Ord. 21/2 de 13 de Enero de 1985.</div><div class=\"p\">Considerando: Que, el Servicio Nacional de Turismo, ha adquirido un nuevo veh&#xED;culo para ser asignado al Director Nacional, solicitando autorizaci&#xF3;n para que pueda circular en d&#xED;as S bados en la tarde, Domingos y festivos, exento de la obligaci&#xF3;n de usar disco dintintivo por razones de seguridad y representatividad, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

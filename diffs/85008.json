@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-10-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-11-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316868,
+          "old": "<div><div class=\"p\">MODIFICA NOMINA DE ESPECIES HIDROBIOLOGICAS VIVAS DE IMPORTACION AUTORIZADA</div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">N&#xFA;m. 955.- Valpara&#xED;so, 30 de Septiembre de 1992.- Visto: Lo informado por el Departamento de Recursos de esta Subsecretar&#xED;a en su Memor&#xE1;ndum T&#xE9;cnico No. 681, de 24 de septiembre de 1992; lo dispuesto en el DFL No. 5 de 1988, el Decreto No. 175, de 1980, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el DS No. 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley General de Pesca y Acuicultura No. 18.892 y sus modificaciones contenidas en las leyes No. 19.079 y No.</div><div class=\"p\">19.080; la Resoluci&#xF3;n No. 531, de 1992 de esta Subsecretar&#xED;a de Pesca;</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA NOMINA DE ESPECIES HIDROBIOLOGICAS VIVAS DE IMPORTACION AUTORIZADA</div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">N&#xFA;m. 955.- Valpara&#xED;so, 30 de Septiembre de 1992.- Visto: Lo informado por el Departamento de Recursos de esta Subsecretar&#xED;a en su Memor&#xE1;ndum T&#xE9;cnico No. 681, de 24 de septiembre de 1992; lo dispuesto en el DFL No. 5 de 1988, el Decreto No. 175, de 1980, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el DS No. 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley General de Pesca y Acuicultura No. 18.892 y sus modificaciones contenidas en las leyes No. 19.079 y No.</div><div class=\"p\">19.080; la Resoluci&#xF3;n No. 531, de 1992 de esta Subsecretar&#xED;a de Pesca;</div><br><div class=\"p\">Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

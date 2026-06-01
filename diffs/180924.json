@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2001-02-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6319006,
+          "old": "<div><div class=\"p\">EXIME DEL CAMBIO DE SUJETO DE DERECHO DEL IVA EN LAS VENTAS DE GANADO VIVO A LA V DIVISION DE EJERCITO - PUNTA ARENAS </div></div>",
+          "new": "<div><br><div class=\"p\">EXCEPCIONA DEL CAMBIO DE SUJETO DE DERECHO DEL IVA EN LAS<span class=\"n\" id=\"n_0\">RES 60, HACIENDA<br>D.O. 19.03.2001</span></div><div class=\"p\">VENTAS DE GANADO VIVO A LA V DIVISION DE EJERCITO -</div><div class=\"p\">PUNTA ARENAS</div><br></div>"
+        },
+        {
+          "part_id": 6319007,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  La XII Direcci&#xF3;n Regional Punta Arenas del S.I.I., por resoluci&#xF3;n N&#xBA;Ex. N&#xBA;191 de 6 de diciembre de 2000, ex&#xED;mase del cambio de sujeto de derecho del iva en las ventas de ganado vivo a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n y hasta que se encuentre en las condiciones en cuya virtud le fue concedida la autorizaci&#xF3;n, a la V Divisi&#xF3;n de Ej&#xE9;rcito - Punta Arenas, R.U.T. N&#xBA;61.101.010-9.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  La XII Direcci&#xF3;n Regional Punta Arenas del S.I.I., por resoluci&#xF3;n N&#xBA;Ex. N&#xBA;191 de 6 de diciembre de 2000,<span class=\"n\" id=\"n_1\">RES 60, HACIENDA<br>D.O. 19.03.2001</span> excepci&#xF3;nase del cambio de sujeto de derecho del iva en las ventas de ganado vivo a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n y hasta que se encuentre en las condiciones en cuya virtud le fue concedida la autorizaci&#xF3;n, a la V Divisi&#xF3;n de Ej&#xE9;rcito - Punta Arenas, R.U.T. N&#xBA;61.101.010-9.- </div></div>"
+        }
+      ]
+    }
+  }
+]

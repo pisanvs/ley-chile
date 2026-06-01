@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-09-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-11-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9293691,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Ex&#xED;mase al grupo denominado Comit&#xE9; de la comuna de Peralillo, de la Regi&#xF3;n del L. B. O&apos;Higgins, conformado por 50 personas, del requisito de postulaci&#xF3;n establecido en la letra b) del inciso final del art&#xED;culo 19, referido a que a lo menos el 60% de los integrantes del grupo al momento de su constituci&#xF3;n como persona jur&#xED;dica deber&#xE1; formar parte del grupo postulante o el 60% de los integrantes del grupo postulante debe tener una antig&#xFC;edad de a lo menos un a&#xF1;o formando parte de dicha personalidad jur&#xED;dica.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Ex&#xED;mase al grupo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1045590&amp;idParte=9311727&amp;idVersion=2012-11-13\">Resoluci&#xF3;n 9021 EXENTA, VIVIENDA<br>D.O. 13.11.2012</a></span>denominado Comit&#xE9; de Vivienda Alto Refugio 2 de la comuna de Pichilemu, de la Regi&#xF3;n del L. B. O&apos;Higgins, conformado por 50 personas, del requisito de postulaci&#xF3;n establecido en la letra b) del inciso final del art&#xED;culo 19, referido a que a lo menos el 60% de los integrantes del grupo al momento de su constituci&#xF3;n como persona jur&#xED;dica deber&#xE1; formar parte del grupo postulante o el 60% de los integrantes del grupo postulante debe tener una antig&#xFC;edad de a lo menos un a&#xF1;o formando parte de dicha personalidad jur&#xED;dica.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1045590,
+      "fecha": "2012-11-13"
+    }
+  }
+]

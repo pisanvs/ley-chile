@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-06-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-08-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048691,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA BIO BIO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DEROGA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA BIO BIO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DEROGA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

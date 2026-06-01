@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-01-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-04-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6150591,
+          "old": "<div><div class=\"p\">ASIGNA CUPO MAXIMO DE FUNCIONARIOS QUE INDICA A SERVICIOS DE SALUD QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 123 exenta.- Santiago, 18 de enero de 1999.- Vistos; lo dispuesto en los art&#xED;culos 4&#xBA; y 6&#xBA; del decreto ley N&#xBA; 2.763, de 1979, y teniendo presente las facultades que me otorga el art&#xED;culo 5&#xBA; inciso segundo de la ley N&#xBA; 19.536 y lo dispuesto en el art&#xED;culo 28&#xBA; de la ley N&#xBA; 19.595, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">ASIGNA CUPO MAXIMO DE FUNCIONARIOS QUE INDICA A SERVICIOS DE SALUD QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 123 exenta.- Santiago, 18 de enero de 1999.- Vistos; lo dispuesto en los art&#xED;culos 4&#xBA; y 6&#xBA; del decreto ley N&#xBA; 2.763, de 1979, y teniendo presente las facultades que me otorga el art&#xED;culo 5&#xBA; inciso segundo de la ley N&#xBA; 19.536 y lo dispuesto en el art&#xED;culo 28&#xBA; de la ley N&#xBA; 19.595, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

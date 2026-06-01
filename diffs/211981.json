@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-07-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7301165,
+          "old": "<div><div class=\"p\">ESTABLECE PROCEDIMIENTO, PLAZO Y MODELO DE FORMULARIO QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">ESTABLECE PROCEDIMIENTO, PLAZO Y MODELO DE FORMULARIO QUE SE&#xD1;ALA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

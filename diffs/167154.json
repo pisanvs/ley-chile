@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1982-12-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-03-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7268424,
+          "old": "<div><div class=\"p\">REEMPLAZA ARTICULO 9&#xB0; DEL DECRETO SUPREMO 428, DE 1978 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 700.- Santiago, Octubre 15 de 1982.- Vistos: La Constituci&#xF3;n Pol&#xED;tica del Estado; el DFL 161 de 1978 del Ministerio de Relaciones Exteriores; los decretos supremos N&#xB0;s. 428 de 1978; 1.072 de 1980 y 524 de 1982 de esta Secretar&#xED;a de Estado y las necesidades del servicio, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">REEMPLAZA ARTICULO 9&#xB0; DEL DECRETO SUPREMO 428, DE 1978 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 700.- Santiago, Octubre 15 de 1982.- Vistos: La Constituci&#xF3;n Pol&#xED;tica del Estado; el DFL 161 de 1978 del Ministerio de Relaciones Exteriores; los decretos supremos N&#xB0;s. 428 de 1978; 1.072 de 1980 y 524 de 1982 de esta Secretar&#xED;a de Estado y las necesidades del servicio, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

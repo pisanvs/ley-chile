@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1988-08-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-08-21",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8642566,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Resoluci&#xF3;n Exenta No. 354, de 10 de Agosto de 1988, la Subsecretaria de Telecomunicaciones aprob&#xF3; la Norma T&#xE9;cnica para el Servicio P&#xFA;blico de Telefon&#xED;a M&#xF3;vil Celular, que opera en la banda de 800 MHz. En la norma t&#xE9;cnica se atribuyen las sub-bandas de frecuencia y los canales que se podr&#xE1;n utilizar en las celdas del servicio p&#xFA;blico de telefon&#xED;a m&#xF3;vil celular, como tambi&#xE9;n se establece el sistema AMPS y el principio de compatibilidad que debe existir entre las estaciones de abonado m&#xF3;vil, de modo que &#xE9;stas puedan funcionar con cualquier sistema de telefon&#xED;a m&#xF3;vil celular que se autorice en la banda de 800 MHz., en el pa&#xED;s.</div><div class=\"p\">La Subsecretaria de Telecomunicaciones proporcionar&#xE1; ejemplares de la citada Resoluci&#xF3;n a los interesados que tengan relaci&#xF3;n con las materias de que trata.- </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por Resoluci&#xF3;n Exenta No. 354, de 10 de Agosto de 1988, la Subsecretaria de Telecomunicaciones aprob&#xF3; la Norma T&#xE9;cnica para el Servicio P&#xFA;blico de Telefon&#xED;a M&#xF3;vil Celular, que opera en la banda de 800 MHz. En la norma t&#xE9;cnica se atribuyen <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>las sub-bandas de frecuencia y los canales que se podr&#xE1;n utilizar en las celdas del servicio p&#xFA;blico de telefon&#xED;a m&#xF3;vil celular, como tambi&#xE9;n se establece el sistema AMPS y el principio de compatibilidad que debe existir entre las estaciones de abonado m&#xF3;vil, de modo que &#xE9;stas puedan funcionar con cualquier sistema de telefon&#xED;a m&#xF3;vil celular que se autorice en la banda de 800 MHz., en el pa&#xED;s.</div><div class=\"p\">La Subsecretaria de Telecomunicaciones proporcionar&#xE1; ejemplares de la citada Resoluci&#xF3;n a los interesados que tengan relaci&#xF3;n con las materias de que trata.-</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 4477 Exenta, Transportes, publicada el 21.08.2010, modifica la presente norma en el sentido de que las bandas de frecuencia regulada, tambi&#xE9;n podr&#xE1; ser empleadas para suministrar servicio p&#xFA;blico de telefon&#xED;a local inal&#xE1;mbrica. Establece adem&#xE1;s que las concesionarias de servicio p&#xFA;blico de telefon&#xED;a m&#xF3;vil interesadas en suministrar el citado servicio fijo, deber&#xE1;n solicitar nuevas concesiones sobre la misma banda de frecuencias autorizada.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-11-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8642566,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Resoluci&#xF3;n Exenta No. 354, de 10 de Agosto de 1988, la Subsecretaria de Telecomunicaciones aprob&#xF3; la Norma T&#xE9;cnica para el Servicio P&#xFA;blico de Telefon&#xED;a M&#xF3;vil Celular, que opera en la banda de 800 MHz. En la norma t&#xE9;cnica se atribuyen <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>las sub-bandas de frecuencia y los canales que se podr&#xE1;n utilizar en las celdas del servicio p&#xFA;blico de telefon&#xED;a m&#xF3;vil celular, como tambi&#xE9;n se establece el sistema AMPS y el principio de compatibilidad que debe existir entre las estaciones de abonado m&#xF3;vil, de modo que &#xE9;stas puedan funcionar con cualquier sistema de telefon&#xED;a m&#xF3;vil celular que se autorice en la banda de 800 MHz., en el pa&#xED;s.</div><div class=\"p\">La Subsecretaria de Telecomunicaciones proporcionar&#xE1; ejemplares de la citada Resoluci&#xF3;n a los interesados que tengan relaci&#xF3;n con las materias de que trata.-</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 4477 Exenta, Transportes, publicada el 21.08.2010, modifica la presente norma en el sentido de que las bandas de frecuencia regulada, tambi&#xE9;n podr&#xE1; ser empleadas para suministrar servicio p&#xFA;blico de telefon&#xED;a local inal&#xE1;mbrica. Establece adem&#xE1;s que las concesionarias de servicio p&#xFA;blico de telefon&#xED;a m&#xF3;vil interesadas en suministrar el citado servicio fijo, deber&#xE1;n solicitar nuevas concesiones sobre la misma banda de frecuencias autorizada.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por Resoluci&#xF3;n Exenta No. 354, de 10 de Agosto de 1988, la Subsecretaria de Telecomunicaciones aprob&#xF3; la Norma T&#xE9;cnica para el Servicio P&#xFA;blico de Telefon&#xED;a M&#xF3;vil Celular, que opera en la banda de 800 MHz. En la norma t&#xE9;cnica se atribuyen <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>las<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> sub-bandas de frecuencia y los canales que se podr&#xE1;n utilizar en las celdas del servicio p&#xFA;blico de telefon&#xED;a m&#xF3;vil celular, como tambi&#xE9;n se establece el sistema AMPS y el principio de compatibilidad que debe existir entre las estaciones de abonado m&#xF3;vil, de modo que &#xE9;stas puedan funcionar con cualquier sistema de telefon&#xED;a m&#xF3;vil celular que se autorice en la banda de 800 MHz., en el pa&#xED;s.</div><div class=\"p\">La Subsecretaria de Telecomunicaciones proporcionar&#xE1; ejemplares de la citada Resoluci&#xF3;n a los interesados que tengan relaci&#xF3;n con las materias de que trata.-</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 4477 Exenta, Transportes, publicada el 21.08.2010, modifica la presente norma en el sentido de que las bandas de frecuencia regulada, tambi&#xE9;n podr&#xE1; ser empleadas para suministrar servicio p&#xFA;blico de telefon&#xED;a local inal&#xE1;mbrica. Establece adem&#xE1;s que las concesionarias de servicio p&#xFA;blico de telefon&#xED;a m&#xF3;vil interesadas en suministrar el citado servicio fijo, deber&#xE1;n solicitar nuevas concesiones sobre la misma banda de frecuencias autorizada.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 2097 Exenta, Transportes, publicada el 11.11.2025, modifica la presente norma, incorporando un art&#xED;culo final a efectos de que las concesionarias de servicio p&#xFA;blico m&#xF3;vil asignatarias de las bandas de frecuencias presten sus servicios a trav&#xE9;s de sat&#xE9;lite para una conectividad directa entre estaciones espaciales y los equipos de usuario de las Telecomunicaciones M&#xF3;viles Internacionales (IMT), en los t&#xE9;rminos que la citada resoluci&#xF3;n indica. Sin embargo, no es posible incorporar dicha disposici&#xF3;n, por cuanto la presente norma fue publicada en extracto. </div></div>"
+        }
+      ]
+    }
+  }
+]

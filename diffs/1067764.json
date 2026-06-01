@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2014-10-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-03-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9512207,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Establ&#xE9;zcase, el siguiente orden de subrogaci&#xF3;n del cargo de Superintendente de Educaci&#xF3;n, en caso de ausencia o impedimento de su titular:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primer Orden de Subrogaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Manuela Ang&#xE9;lica P&#xE9;rez Vargas, RUT: 6.060.998-5, Jefe Divisi&#xF3;n Fiscal&#xED;a, Directivo Segundo Nivel Jer&#xE1;rquico (TP) Grado 2&#xBA; E.O.F.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Segundo Orden de Subrogaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Mauricio Alejandro Far&#xED;as Arenas, RUT: 10.635.121-K, Jefe Divisi&#xF3;n Fiscalizaci&#xF3;n, Directivo Segundo Nivel Jer&#xE1;rquico (TP), Grado 2&#xBA; E.O.F.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Tercer Orden de Subrogaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Osvaldo Gallardo Sa&#xE9;z, RUT: 5.524.667-K, Jefe Divisi&#xF3;n Administraci&#xF3;n General, Directivo segundo Nivel Jer&#xE1;rquico (TP) Grado 2&#xBA;, E.O.F.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Disp&#xF3;ngase, que por razones de buen servicio, los subrogantes del cargo de Superintendente de Educaci&#xF3;n, en caso de ausencia o impedimento legal de su titular, asumir&#xE1;n sus funciones en forma inmediata, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; D&#xE9;jese, sin efecto a contar de la total tramitaci&#xF3;n del presente decreto, el <a href=\"https://www.leychile.cl/Navegar?idNorma=1048636&amp;idParte=&amp;idVersion=\">decreto exento N&#xBA; 90, de 2013</a>, de esta cartera.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Establ&#xE9;zcase, el siguiente orden de subrogaci&#xF3;n del cargo de Superintendente de Educaci&#xF3;n, en caso de ausencia o impedimento de su titular:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primer Orden de Subrogaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Manuela Ang&#xE9;lica P&#xE9;rez Vargas, RUT: 6.060.998-5, Jefe Divisi&#xF3;n Fiscal&#xED;a, Directivo Segundo Nivel Jer&#xE1;rquico (TP) Grado 2&#xBA; E.O.F.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Segundo Orden de Subrogaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Mauricio Alejandro Far&#xED;as Arenas, RUT: 10.635.121-K, Jefe Divisi&#xF3;n Fiscalizaci&#xF3;n, Directivo Segundo Nivel Jer&#xE1;rquico (TP), Grado 2&#xBA; E.O.F.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Tercer Orden de Subrogaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Claudio <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1116038&amp;idParte=9893635&amp;idVersion=2018-03-13\">Decreto 157 EXENTO,<br>EDUCACI&#xD3;N<br>N&#xB0; 1<br>D.O. 13.03.2018</a></span>Armando Navea, RUT: 9.799.183-9, Jefe Divisi&#xF3;n Administraci&#xF3;n General, Directivo Segundo Nivel Jer&#xE1;rquico. Grado 2&#xB0;, EOF.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Disp&#xF3;ngase, que por razones de buen servicio, los subrogantes del cargo de Superintendente de Educaci&#xF3;n, en caso de ausencia o impedimento legal de su titular, asumir&#xE1;n sus funciones en forma inmediata, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; D&#xE9;jese, sin efecto a contar de la total tramitaci&#xF3;n del presente decreto, el decreto exento N&#xBA; 90, de 2013, de esta cartera.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1116038,
+      "fecha": "2018-03-13"
+    }
+  },
+  {
+    "fecha": "2022-03-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

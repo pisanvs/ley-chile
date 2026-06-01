@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1992-11-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-12-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8639811,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- El juez podr&#xE1; otorgar el beneficio de la libertad vigilada al condenado por alguno de los delitos sancionados en la ley N&#xB0; 18.314, que abandone la organizaci&#xF3;n terrorista y confiese todos los delitos en que haya participado, proporcione los indicios y pruebas suficientes para el establecimiento de los hechos delictivos y la determinaci&#xF3;n de responsabilidad de los dem&#xE1;s culpables y, adem&#xE1;s, realice las conductas mencionadas en las letras a) o b) del art&#xED;culo 1&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; El per&#xED;odo de observaci&#xF3;n y tratamiento no ser&#xE1; inferior al de duraci&#xF3;n de la pena impuesta, con un m&#xED;nimo de tres a&#xF1;os y un m&#xE1;ximo de seis.</div><div class=\"p\">&nbsp; &nbsp; Ser&#xE1;n aplicables las disposiciones de la ley N&#xB0; 18.216, relativas al r&#xE9;gimen de libertad vigilada, en lo que no se opongan a lo dispuesto en este art&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp; Transcurrido el per&#xED;odo de observaci&#xF3;n y tratamiento sin que la libertad vigilada haya sido revocada, se considerar&#xE1; cumplida la pena impuesta.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- El que desee acogerse a las<span class=\"n\" id=\"n_0\">LEY 19183<br>Art. &#xFA;nico</span> disposiciones de esta ley deber&#xE1; manifestarlo as&#xED;, en forma expresa, al juez que conoce del proceso respectivo. En caso de no existir proceso, podr&#xE1; hacerlo ante cualquier juez del crimen de asiento de Corte de Apelaciones. El tribunal que reciba esta declaraci&#xF3;n deber&#xE1; adoptar, de inmediato, todas las medidas necesarias para proteger la integridad f&#xED;sica del arrepentido y de sus parientes m&#xE1;s inmediatos, de ser ello necesario.</div><div class=\"p\">&nbsp; &nbsp; Las declaraciones y antecedentes que proporcione el arrepentido tendr&#xE1;n car&#xE1;cter secreto desde que se presten o proporcionen al tribunal, el cual deber&#xE1; formar cuaderno especial y separado con todo ello.</div><div class=\"p\">&nbsp; &nbsp; Si de los antecedentes o declaraciones recibidas se hace necesario iniciar un nuevo proceso, &#xE9;ste ser&#xE1; de conocimiento del mismo tribunal o, de haberse dictado sentencia de primera instancia o no existir proceso, del tribunal competente. El juez que haya recibido la declaraci&#xF3;n del arrepentido y los antecedentes proporcionados por &#xE9;ste, de no ser competente, enviar&#xE1; de inmediato el cuaderno con todo lo obrado, en forma secreta y por la v&#xED;a m&#xE1;s r&#xE1;pida posible, al tribunal que corresponda.</div><div class=\"p\">&nbsp; &nbsp; El tribunal que est&#xE9; conociendo del proceso o el que lo incoe en virtud de las declaraciones y antecedentes proporcionados por el arrepentido, se pronunciar&#xE1;, tan pronto le sea posible y en cualquier estado del juicio, sobre la eficacia o ineficacia del arrepentimiento o si no se alcanzaron los objetivos por causas independientes de la voluntad de &#xE9;ste, para los efectos de aplicar lo establecido en los art&#xED;culos 1&#xB0;, 2&#xB0;, 3&#xB0; y 5&#xB0;. Esta resoluci&#xF3;n primar&#xE1;, s&#xF3;lo en lo que respecta al arrepentido, sobre la sentencia que se hubiere dictado en su contra en el primitivo proceso, y ser&#xE1; siempre consultable. En ning&#xFA;n caso, la aplicaci&#xF3;n de este inciso afectar&#xE1; lo resuelto en la sentencia de t&#xE9;rmino dictada en el proceso primitivo, en todo cuanto diga relaci&#xF3;n con las indemnizaciones ordenadas pagar y con las inhabilidades a que haya sido condenado el arrepentido.</div><div class=\"p\">&nbsp; &nbsp; Si el arrepentimiento tuviere lugar despu&#xE9;s de dictada la sentencia de t&#xE9;rmino, la colaboraci&#xF3;n y su eficacia corresponder&#xE1; calificarlas al juez que incoe el proceso que se sustancia en virtud de la informaci&#xF3;n, antecedentes o elementos de prueba que aporte el condenado. Este tribunal podr&#xE1; modificar la sentencia de t&#xE9;rmino de acuerdo a las disposiciones de los art&#xED;culos anteriores y su resoluci&#xF3;n deber&#xE1; consultarse ante el tribunal de alzada. En ning&#xFA;n caso la aplicaci&#xF3;n de este inciso afectar&#xE1; lo resuelto en la sentencia de t&#xE9;rmino en todo cuanto diga relaci&#xF3;n con las indemnizaciones ordenadas pagar y con las inhabilidades a que fue condenado.</div><div class=\"p\">&nbsp; &nbsp; Con todo, si despu&#xE9;s de aplicados los beneficios otorgados al arrepentido por los art&#xED;culos anteriores, debiere cumplir pena en reclusi&#xF3;n, el juez podr&#xE1; otorgarle el beneficio de la libertad vigilada. El per&#xED;odo de observaci&#xF3;n y tratamiento no ser&#xE1; inferior a tres a&#xF1;os ni superior a seis a&#xF1;os, cualquiera que sea la pena que le hubiere correspondido.</div><div class=\"p\">&nbsp; &nbsp; Ser&#xE1;n aplicables las disposiciones de la ley N&#xB0; 18.216, relativas al r&#xE9;gimen de libertad vigilada, en lo que no se opongan a lo dispuesto en este art&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp; Transcurrido el per&#xED;odo de observaci&#xF3;n y tratamiento sin que la libertad vigilada haya sido revocada, se considerar&#xE1; cumplida la pena impuesta.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1992-12-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

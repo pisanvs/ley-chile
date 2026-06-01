@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-02-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6154007,
+          "old": "<div><br><div class=\"p\">CREA PRODUCTO INTRAREGIONAL E INTRACIUDAD QUE INDICA Y FIJA TARIFA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 39 exenta.- Santiago, febrero 9 de 1999.- Vistos y considerando: El D.F.L. N&#xBA; 10, de 1981 y el art&#xED;culo 5 del decreto N&#xBA; 91, de 1998, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; el Acuerdo N&#xBA; 17/99, del H. Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Tercera Extraordinaria, del 2 de febrero de 1999; la resoluci&#xF3;n N&#xBA; 520 de la Contralor&#xED;a General de la Rep&#xFA;blica y, en uso de las facultades que me confieren las resoluciones N&#xBA; 233, de 1994 y N&#xBA; 11, de 1996, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">CREA PRODUCTO INTRAREGIONAL E INTRACIUDAD QUE INDICA Y FIJA TARIFA</div><br><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 39 exenta.- Santiago, febrero 9 de 1999.- Vistos y considerando: El D.F.L. N&#xBA; 10, de 1981 y el art&#xED;culo 5 del decreto N&#xBA; 91, de 1998, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; el Acuerdo N&#xBA; 17/99, del H. Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Tercera Extraordinaria, del 2 de febrero de 1999; la resoluci&#xF3;n N&#xBA; 520 de la Contralor&#xED;a General de la Rep&#xFA;blica y, en uso de las facultades que me confieren las resoluciones N&#xBA; 233, de 1994 y N&#xBA; 11, de 1996, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

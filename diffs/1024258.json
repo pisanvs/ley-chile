@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "2011-04-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-04-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9130887,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  CONTRALOR&#xCD;A GENERAL DE LA REP&#xDA;BLICA</div><br><div class=\"p\">&nbsp; &nbsp;  Divisi&#xF3;n <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1024301&amp;idParte=9130872&amp;idVersion=2011-04-07\">Rectificaci&#xF3;n 159<br>D.O. 07.04.2011</a></span>Jur&#xED;dica</div><br><div class=\"p\">Cursa con alcances resoluci&#xF3;n N&#xBA; 2.144, de 2010, de</div><div class=\"p\">la Subsecretar&#xED;a para las Fuerzas Armadas</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 7.928.- Santiago, 8 de febrero de 2011.</div><div class=\"p\">&nbsp; &nbsp;  Esta Entidad de Control ha dado curso al documento del rubro, mediante el cual se otorga la concesi&#xF3;n de acuicultura que indica por encontrarse ajustado a derecho, pero cumple con hacer presente que el monto de la patente &#xFA;nica de acuicultura que se determina en el N&#xBA; 10 de la resoluci&#xF3;n analizada corresponde a la del a&#xF1;o 2011, la que se incrementar&#xE1; progresivamente durante los a&#xF1;os 2012 y 2013, de acuerdo con lo dispuesto en el art&#xED;culo 1&#xBA; transitorio de la ley N&#xBA; 20.434 (aplica criterio de dictamen N&#xBA; 437, de 2011).</div><br><div class=\"p\">&nbsp; &nbsp;  Por otra parte, cabe precisar que el certificado de la Capitan&#xED;a de Puerto de Melinka, citado en el N&#xBA; 1, letra a), del Visto y Teniendo presente del instrumento en estudio, es el N&#xBA; 183/2005, de 14 de julio de 2005, y no como se se&#xF1;ala en dicho ac&#xE1;pite.</div><br><div class=\"p\">&nbsp; &nbsp;  Con los alcances que anteceden se ha tomado raz&#xF3;n del acto administrativo del ep&#xED;grafe.</div><br><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a Ud., Ramiro Mendoza Z&#xFA;&#xF1;iga, Contralor General de la Rep&#xFA;blica.</div><br><div class=\"p\">Al se&#xF1;or</div><div class=\"p\">Subsecretario para las Fuerzas Armadas</div><div class=\"p\">Presente</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9130490,
+          "old": "<div><br><div class=\"p\">MODIFICA CONCESI&#xD3;N DE ACUICULTURA</div></div>",
+          "new": "<div><br><div class=\"p\">OTORGA CO<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1024301&amp;idParte=9130872&amp;idVersion=2011-04-07\">Rectificaci&#xF3;n 159<br>D.O. 07.04.2011</a></span>NCESI&#xD3;N DE ACUICULTURA</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1024301,
+      "fecha": "2011-04-07"
+    }
+  }
+]

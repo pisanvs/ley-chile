@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "2008-09-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-11-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6658843,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Autor&#xED;zase la circulaci&#xF3;n del veh&#xED;culo de la Subsecretar&#xED;a de Agricultura de la VII Regi&#xF3;n del Maule en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin sujeci&#xF3;n a la jornada ordinaria de trabajo, que a continuaci&#xF3;n se individualiza:</div><br><div class=\"p\">Veh&#xED;culo&nbsp; : Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp;  : Hyundai</div><div class=\"p\">Modelo&nbsp; &nbsp; : Tucson GL 2.000 cc Mec 4x4</div><div class=\"p\">N&#xBA; motor&nbsp; : D4EA7456119</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp;  : 2008</div><div class=\"p\">N&#xBA; chasis : KMHJM81VP8U830594</div><div class=\"p\">Color&nbsp; &nbsp;  : Plata</div><div class=\"p\">Patente&nbsp;  : BK DL 50-0.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Autor&#xED;zase la circulaci&#xF3;n <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> del veh&#xED;culo de la Subsecretar&#xED;a de Agricultura de la VII Regi&#xF3;n del Maule en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin sujeci&#xF3;n a la jornada ordinaria de trabajo, que a continuaci&#xF3;n se individualiza:</div><br><div class=\"p\">Veh&#xED;culo&nbsp; : Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp;  : Hyundai</div><div class=\"p\">Modelo&nbsp; &nbsp; : Tucson GL 2.000 cc Mec 4x4</div><div class=\"p\">N&#xBA; motor&nbsp; : D4EA7456119</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp;  : 2008</div><div class=\"p\">N&#xBA; chasis : KMHJM81VP8U830594</div><div class=\"p\">Color&nbsp; &nbsp;  : Plata</div><div class=\"p\">Patente&nbsp;  : BK DL 50-0.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero 2 del Decreto 456 Exento, Agricultura, publicado el 26.11.2011, autoriza a circular al veh&#xED;culo del Ministerio de Agricultura, en cuanto, por razones de seguridad, se requiere autorizar la circulaci&#xF3;n sin el disco fiscal, que dispone el decreto N&#xBA;799, de 1974.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-02-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6658843,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Autor&#xED;zase la circulaci&#xF3;n <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> del veh&#xED;culo de la Subsecretar&#xED;a de Agricultura de la VII Regi&#xF3;n del Maule en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin sujeci&#xF3;n a la jornada ordinaria de trabajo, que a continuaci&#xF3;n se individualiza:</div><br><div class=\"p\">Veh&#xED;culo&nbsp; : Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp;  : Hyundai</div><div class=\"p\">Modelo&nbsp; &nbsp; : Tucson GL 2.000 cc Mec 4x4</div><div class=\"p\">N&#xBA; motor&nbsp; : D4EA7456119</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp;  : 2008</div><div class=\"p\">N&#xBA; chasis : KMHJM81VP8U830594</div><div class=\"p\">Color&nbsp; &nbsp;  : Plata</div><div class=\"p\">Patente&nbsp;  : BK DL 50-0.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero 2 del Decreto 456 Exento, Agricultura, publicado el 26.11.2011, autoriza a circular al veh&#xED;culo del Ministerio de Agricultura, en cuanto, por razones de seguridad, se requiere autorizar la circulaci&#xF3;n sin el disco fiscal, que dispone el decreto N&#xBA;799, de 1974.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Autor&#xED;zase la circulaci&#xF3;n&nbsp; del veh&#xED;culo de la Subsecretar&#xED;a de Agricultura de la VII Regi&#xF3;n del Maule en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin sujeci&#xF3;n a la jornada ordinaria de tra<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>bajo, que a continuaci&#xF3;n se individualiza:</div><br><div class=\"p\">Veh&#xED;culo&nbsp; :<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp;  : Hyundai</div><div class=\"p\">Modelo&nbsp; &nbsp; : Tucson GL 2.000 cc Mec 4x4</div><div class=\"p\">N&#xBA; motor&nbsp; : D4EA7456119</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp;  : 2008</div><div class=\"p\">N&#xBA; chasis : KMHJM81VP8U830594</div><div class=\"p\">Color&nbsp; &nbsp;  : Plata</div><div class=\"p\">Patente&nbsp;  : BK DL 50-0.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero 2 del Decreto 456 Exento, Agricultura, publicado el 26.11.2011, autoriza a circular al veh&#xED;culo del Ministerio de Agricultura, en cuanto, por razones de seguridad, se requiere autorizar la circulaci&#xF3;n sin el disco fiscal, que dispone el decreto N&#xBA;799, de 1974.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral&nbsp; 1 del Decreto 330 Exento, Agricultura, publicado el 28.02.2014 modifica la presente norma en el sentido de establecer que la fecha de t&#xE9;rmino de la autorizaci&#xF3;n otorgada por este decreto, ser&#xE1; el 10 de marzo de 2014.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-04-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6658843,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Autor&#xED;zase la circulaci&#xF3;n&nbsp; del veh&#xED;culo de la Subsecretar&#xED;a de Agricultura de la VII Regi&#xF3;n del Maule en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin sujeci&#xF3;n a la jornada ordinaria de tra<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>bajo, que a continuaci&#xF3;n se individualiza:</div><br><div class=\"p\">Veh&#xED;culo&nbsp; :<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp;  : Hyundai</div><div class=\"p\">Modelo&nbsp; &nbsp; : Tucson GL 2.000 cc Mec 4x4</div><div class=\"p\">N&#xBA; motor&nbsp; : D4EA7456119</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp;  : 2008</div><div class=\"p\">N&#xBA; chasis : KMHJM81VP8U830594</div><div class=\"p\">Color&nbsp; &nbsp;  : Plata</div><div class=\"p\">Patente&nbsp;  : BK DL 50-0.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero 2 del Decreto 456 Exento, Agricultura, publicado el 26.11.2011, autoriza a circular al veh&#xED;culo del Ministerio de Agricultura, en cuanto, por razones de seguridad, se requiere autorizar la circulaci&#xF3;n sin el disco fiscal, que dispone el decreto N&#xBA;799, de 1974.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral&nbsp; 1 del Decreto 330 Exento, Agricultura, publicado el 28.02.2014 modifica la presente norma en el sentido de establecer que la fecha de t&#xE9;rmino de la autorizaci&#xF3;n otorgada por este decreto, ser&#xE1; el 10 de marzo de 2014.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Autor&#xED;zase la circulaci&#xF3;n&nbsp; del veh&#xED;culo de la Subsecretar&#xED;a de Agricultura de la VII Regi&#xF3;n del Maule en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin sujeci&#xF3;n a la jornada ordinaria de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>trabajo, que a continuaci&#xF3;n se individualiza:</div><br><div class=\"p\">Veh&#xED;culo&nbsp; :<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp;  : Hyundai</div><div class=\"p\">Modelo&nbsp; &nbsp; : Tucson<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div> GL 2.000 cc Mec 4x4</div><div class=\"p\">N&#xBA; motor&nbsp; : D4EA7456119</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp;  : 2008</div><div class=\"p\">N&#xBA; chasis : KMHJM81VP8U830594</div><div class=\"p\">Color&nbsp; &nbsp;  : Plata</div><div class=\"p\">Patente&nbsp;  : BK DL 50-0.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero 2 del Decreto 456 Exento, Agricultura, publicado el 26.11.2011, autoriza a circular al veh&#xED;culo del Ministerio de Agricultura, en cuanto, por razones de seguridad, se requiere autorizar la circulaci&#xF3;n sin el disco fiscal, que dispone el decreto N&#xBA;799, de 1974.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral&nbsp; 1 del Decreto 330 Exento, Agricultura, publicado el 28.02.2014 modifica la presente norma en el sentido de establecer que la fecha de t&#xE9;rmino de la autorizaci&#xF3;n otorgada por este decreto, ser&#xE1; el 10 de marzo de 2014.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 74 Exento, Agricultura, publicado el 14.04.2014 modifica la presente norma en el sentido de establecer que el t&#xE9;rmino de la autorizaci&#xF3;n otorgada por este decreto, ser&#xE1; hasta que se d&#xE9; de baja el veh&#xED;culo de conformidad a derecho.</div></div>"
+        }
+      ]
+    }
+  }
+]

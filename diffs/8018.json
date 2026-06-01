@@ -1,0 +1,62 @@
+[
+  {
+    "fecha": "1996-05-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-06-21",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8693033,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- La lista de proyectos priorizados se remitir&#xE1; al Ministro de Vivienda y Urbanismo, para la distribuci&#xF3;n general de los recursos en proporci&#xF3;n a la cartera de proyectos presentada por cada regi&#xF3;n. Con este marco presupuestario se definir&#xE1;n los proyectos beneficiados por regi&#xF3;n, quedando los proyectos restantes en lista de espera, la que se mantendr&#xE1; vigente s&#xF3;lo para el correspondiente a&#xF1;o presupuestario. La lista de los proyectos seleccionados se exhibir&#xE1; en la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo y en los municipios respectivos.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xBA;.- La lista de proyectos priorizados<span class=\"n\" id=\"n_0\">DTO 158, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 21.06.2000</span> se remitir&#xE1; al Ministro de Vivienda y Urbanismo para la distribuci&#xF3;n regional de los recursos asignados al Programa, la que se efectuar&#xE1; ponderando la cartera de proyectos priorizados y el cumplimiento del gasto del a&#xF1;o anterior de cada regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Con el marco presupuestario a que se refiere el inciso anterior, se definir&#xE1;n los proyectos beneficiados por regi&#xF3;n, quedando los proyectos restantes en lista de espera, pudiendo cada Secretar&#xED;a Ministerial de Vivienda y Urbanismo conformar un Banco de Proyectos.</div><div class=\"p\">&nbsp; &nbsp; La lista de los proyectos seleccionados se exhibir&#xE1; en la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo y en los Municipios respectivos.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2000-10-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8693025,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- El presente decreto reglamenta un Programa de Mejoramiento Comunitario, destinado a suplir el d&#xE9;ficit de equipamiento en poblaciones de viviendas sociales entregadas con anterioridad al 31 de Diciembre de 1994.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- El presente decreto reglamenta un<span class=\"n\" id=\"n_0\">DTO 246, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 06.10.2000</span> Programa de Mejoramiento Comunitario, destinado a suplir el d&#xE9;ficit de equipamiento en poblaciones de viviendas sociales.</div><br></div>"
+        },
+        {
+          "part_id": 8693033,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xBA;.- La lista de proyectos priorizados<span class=\"n\" id=\"n_0\">DTO 158, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 21.06.2000</span> se remitir&#xE1; al Ministro de Vivienda y Urbanismo para la distribuci&#xF3;n regional de los recursos asignados al Programa, la que se efectuar&#xE1; ponderando la cartera de proyectos priorizados y el cumplimiento del gasto del a&#xF1;o anterior de cada regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Con el marco presupuestario a que se refiere el inciso anterior, se definir&#xE1;n los proyectos beneficiados por regi&#xF3;n, quedando los proyectos restantes en lista de espera, pudiendo cada Secretar&#xED;a Ministerial de Vivienda y Urbanismo conformar un Banco de Proyectos.</div><div class=\"p\">&nbsp; &nbsp; La lista de los proyectos seleccionados se exhibir&#xE1; en la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo y en los Municipios respectivos.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xBA;.- La lista de proyectos priorizados<span class=\"n\" id=\"n_1\">DTO 158, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 21.06.2000</span> se remitir&#xE1; al Ministro de Vivienda y Urbanismo para la distribuci&#xF3;n regional de los recursos asignados al Programa, la que se efectuar&#xE1; ponderando la cartera de proyectos priorizados y el cumplimiento del gasto del a&#xF1;o anterior de cada regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Con el marco presupuestario a que se refiere el inciso anterior, se definir&#xE1;n los proyectos beneficiados por regi&#xF3;n, quedando los proyectos restantes en lista de espera, pudiendo cada Secretar&#xED;a Ministerial de Vivienda y Urbanismo conformar un Banco de Proyectos.</div><div class=\"p\">&nbsp; &nbsp; La lista de los proyectos seleccionados se exhibir&#xE1; en la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo y en los Municipios respectivos.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8693026,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Para los fines del presente reglamento se entender&#xE1; por Mejoramiento Comunitario, las obras complementarias a las viviendas, destinadas al desarrollo social y a la recreaci&#xF3;n de la comunidad, tales como plazas con juegos infantiles, multicanchas, salas de uso m&#xFA;ltiple, centros abiertos, jardines familiares, talleres laborales y centros de capacitaci&#xF3;n. Este programa incluye tanto la construcci&#xF3;n de obras nuevas como la rehabilitaci&#xF3;n de edificaciones destinadas a equipamiento.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Para los fines del presente reglamento se entender&#xE1; por Mejoramiento Comunitario, las obras complementarias a las viviendas, destinadas al desarrollo social y a la recreaci&#xF3;n de la comunidad, tales como plazas con juegos infantiles, multicanchas, salas de uso m&#xFA;ltiple, centros abiertos, jardines familiares, talleres laborales, centros de capacitaci&#xF3;n<span class=\"n\" id=\"n_1\">DTO 222, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 03.01.2002</span> y edificaciones destinadas al culto. Este programa incluye tanto la construcci&#xF3;n de obras nuevas como la rehabilitaci&#xF3;n de edificaciones destinadas a equipamiento.</div><br></div>"
+        },
+        {
+          "part_id": 8693033,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xBA;.- La lista de proyectos priorizados<span class=\"n\" id=\"n_1\">DTO 158, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 21.06.2000</span> se remitir&#xE1; al Ministro de Vivienda y Urbanismo para la distribuci&#xF3;n regional de los recursos asignados al Programa, la que se efectuar&#xE1; ponderando la cartera de proyectos priorizados y el cumplimiento del gasto del a&#xF1;o anterior de cada regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Con el marco presupuestario a que se refiere el inciso anterior, se definir&#xE1;n los proyectos beneficiados por regi&#xF3;n, quedando los proyectos restantes en lista de espera, pudiendo cada Secretar&#xED;a Ministerial de Vivienda y Urbanismo conformar un Banco de Proyectos.</div><div class=\"p\">&nbsp; &nbsp; La lista de los proyectos seleccionados se exhibir&#xE1; en la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo y en los Municipios respectivos.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xBA;.- La lista de proyectos priorizados<span class=\"n\" id=\"n_2\">DTO 158, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 21.06.2000</span> se remitir&#xE1; al Ministro de Vivienda y Urbanismo para la distribuci&#xF3;n regional de los recursos asignados al Programa, la que se efectuar&#xE1; ponderando la cartera de proyectos priorizados y el cumplimiento del gasto del a&#xF1;o anterior de cada regi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Con el marco presupuestario a que se refiere el inciso anterior, se definir&#xE1;n los proyectos beneficiados por regi&#xF3;n, quedando los proyectos restantes en lista de espera, pudiendo cada Secretar&#xED;a Ministerial de Vivienda y Urbanismo conformar un Banco de Proyectos.</div><div class=\"p\">&nbsp; &nbsp; La lista de los proyectos seleccionados se exhibir&#xE1; en la Secretar&#xED;a Regional Ministerial de Vivienda y Urbanismo y en los Municipios respectivos.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

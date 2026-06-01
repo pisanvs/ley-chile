@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2000-06-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6283717,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 4.807 EXENTA, DE 1993, QUE DISPONE EL CAMBIO DE SUJETO DE IVA EN LAS VENTAS DE TARJETAS TELEFONICAS, VIDEO CASSETTES Y OTROS PRODUCTOS EFECTUADOS POR SUPLEMENTEROS </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 4.807 EXENTA, DE 1993, QUE DISPONE EL CAMBIO DE SUJETO DE IVA EN LAS VENTAS DE TARJETAS TELEFONICAS, VIDEO CASSETTES Y OTROS PRODUCTOS EFECTUADOS POR SUPLEMENTEROS</div><br><br></div>"
+        },
+        {
+          "part_id": 6283719,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Javier Etcheverry Celhay, Director.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Javier Etcheberry Celhay, Director.<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 01.07.2000</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

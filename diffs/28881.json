@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1970-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1970-11-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8885232,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;- Apl&#xED;case a las provincias de Chilo&#xE9;, Ays&#xE9;n y Magallanes lo dispuesto para el departamento de Arica en el art&#xED;culo 27 de la ley N&#xB0; 13.039, respecto del tributo que se percibe en la respectiva provincia.</div><div class=\"p\">&nbsp; &nbsp; La menci&#xF3;n que en dicha disposici&#xF3;n se hace a la cuenta especial establecida en el art&#xED;culo 5&#xB0; del aludido cuerpo legal deber&#xE1; entenderse hecha, seg&#xFA;n corresponda, a las cuentas especiales a que se refieren los art&#xED;culos 1&#xB0;, N&#xB0; 6), y 9&#xB0;, de la ley N&#xB0; 16.813, y para el cumplimiento de los objetivos de la Corporaci&#xF3;n de Magallanes y de los institutos Corfo de Ays&#xE9;n y Chilo&#xE9;.</div><div class=\"p\">&nbsp; &nbsp; Los fondos que se recauden por este concepto no pasar&#xE1;n a rentas generales de la Naci&#xF3;n al t&#xE9;rmino de los ejercicios presupuestarios e incrementar&#xE1;n los recursos ordinarios de capital de las entidades se&#xF1;aladas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;- Apl&#xED;case a las provincias de Chilo&#xE9;, Ays&#xE9;n y Magallanes lo dispuesto para el departamento de Arica en el art&#xED;culo 27 de la ley N&#xB0; 13.039, respecto del tributo que se percibe en la respectiva provincia. La menci&#xF3;n que en dicha disposici&#xF3;n se hace a la cuenta especial establecida en el art&#xED;culo 5&#xB0; del aludido cuerpo legal deber&#xE1; entenderse hecha, seg&#xFA;n corresponda, a las cuentas especiales a que se refieren los art&#xED;culos 1&#xB0;, N&#xB0; 6), y 9&#xB0;, de la ley N&#xB0; 16.813, y para el cumplimiento de los objetivos de la Corporaci&#xF3;n de Magallanes y de los institutos Corfo de Ays&#xE9;n y Chilo&#xE9;. Los fondos que se recauden por este concepto no pasar&#xE1;n a rentas generales de la Naci&#xF3;n al t&#xE9;rmino de los ejercicios presupuestarios e incrementar&#xE1;n los recursos ordinarios de capital de las entidades se&#xF1;aladas. La Tesorer&#xED;a General de la Rep&#xFA;blica dispondr&#xE1;<span class=\"n\" id=\"n_0\">LEY 17382<br>Art. 18&#xBA;<br>D.O. O6.11.1970</span> que las Oficinas de su dependencia, en las provincias de Chilo&#xE9;, Ays&#xE9;n y Magallanes, integren directamente en las Cuentas Corrientes Subsidiarias de la Cuenta Unica Fiscal, de los Institutos Corfo de Chilo&#xE9; y Ays&#xE9;n y Corporaci&#xF3;n de Magallanes, el producido de los impuestos y derechos que diariamente recauden. No obstante, estos valores tambi&#xE9;n deber&#xE1;n considerarse en los rendimientos con el objeto de establecer los beneficios contemplados en el art&#xED;culo 64&#xB0; de la ley 16.617. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1974-10-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8885245,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que fije el texto refundido de las leyes N&#xB0;s. 13.908 y 16.813 y sus modificaciones posteriores, debiendo contener las que la presente ley introduce. Al fijar dicho texto, que deber&#xE1; llevar la numeraci&#xF3;n de ley que corresponda, el Presidente de la Rep&#xFA;blica podr&#xE1; coordinar y sistematizar la titulaci&#xF3;n del articulado de la ley y dar la ubicaci&#xF3;n m&#xE1;s conveniente a sus disposiciones, pero sin alterar su contenido&quot;. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; Fac&#xFA;ltase al Presidente de la<span class=\"n\" id=\"n_1\">DL 574, TIERRAS<br>Art. 248&#xBA;<br>transitorio<br>D.O. 11.10.1974</span> Rep&#xFA;blica para fijar, a proposici&#xF3;n de la Corporaci&#xF3;n de Magallanes, el texto refundido de las disposiciones de la ley 13.908, sus modificaciones posteriores y dem&#xE1;s preceptos legales que se refieran a la mencionada Corporaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Al fijar dicho texto, que deber&#xE1; llevar la numeraci&#xF3;n de ley que corresponda, el Presidente de la Rep&#xFA;blica podr&#xE1; coordinar y sistematizar la titulaci&#xF3;n del art&#xED;culo de la ley y dar la ubicaci&#xF3;n m&#xE1;s conveniente a sus disposiciones, sin alterar su contenido, salvo en cuanto a las necesarias modificaciones de preferencia o concordancia de sus normas.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

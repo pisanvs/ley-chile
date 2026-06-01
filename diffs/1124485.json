@@ -1,0 +1,40 @@
+[
+  {
+    "fecha": "2018-10-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-01-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9958021,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero:&nbsp; As&#xED;gnanse al veh&#xED;culo previamente individualizado, los siguientes conductores:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Jorge Fuenzalida Berr&#xED;os, c&#xE9;dula de identidad N&#xBA; 10.837.675-9; </div><div class=\"p\">&nbsp; &nbsp;  b) Valerio Silva Gonz&#xE1;lez, c&#xE9;dula de identidad N&#xBA; 9.902.826-2; </div><div class=\"p\">&nbsp; &nbsp;  c) Mauricio Chanalet Jeria, c&#xE9;dula de identidad N&#xBA; 15.360.165-8; </div><div class=\"p\">&nbsp; &nbsp;  d) Mario Matamala Molina, c&#xE9;dula de identidad N&#xBA; 7.629.680-4, y don e) C&#xE9;sar Pi&#xF1;a Mag&#xF1;in, c&#xE9;dula de identidad N&#xBA; 13.484.894-4.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Los conductores deber&#xE1;n rendir cauci&#xF3;n, de acuerdo a lo establecido en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 799, de 1974, del Ministerio del Interior y Seguridad P&#xFA;blica.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero:&nbsp; As&#xED;gnanse al veh&#xED;culo previamente individualizado, los siguientes conductores:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Jorge Fuenzalida Berr&#xED;os, c&#xE9;dula de identidad N&#xBA; 10.837.675-9; </div><div class=\"p\">&nbsp; &nbsp;  b) Valerio Silva Gonz&#xE1;lez, c&#xE9;dula de identidad N&#xBA; 9.902.826-2; </div><div class=\"p\">&nbsp; &nbsp;  c) Mauricio Chanalet Jeria, c&#xE9;dula de identidad N&#xBA; 15.360.165-8; </div><div class=\"p\">&nbsp; &nbsp;  d) Mario Matamala Molina, c&#xE9;dula de identidad N&#xBA; 7.629.680-4, y don </div><div class=\"p\">&nbsp; &nbsp;  e) Elimi<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1128383&amp;idParte=9996268&amp;idVersion=2019-01-31\">Resoluci&#xF3;n 80 EXENTA,<br>ECONOM&#xCD;A<br>Art. segundo N&#xB0; 1<br>D.O. 31.01.2019</a></span>nado.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Los conductores deber&#xE1;n rendir cauci&#xF3;n, de acuerdo a lo establecido en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 799, de 1974, del Ministerio del Interior y Seguridad P&#xFA;blica.</div><br></div>"
+        },
+        {
+          "part_id": 9958022,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Inf&#xF3;rmase a la Unidad de Servicios Generales que el veh&#xED;culo de que trata la presente resoluci&#xF3;n deber&#xE1; ser guardado en los siguientes recintos:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Estacionamiento institucional, ubicado en avenida Libertador Bernardo O&apos;Higgins N&#xBA; 1449, en el box que la Subsecretar&#xED;a estime conveniente, comuna de Santiago y ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2. Domicilio conductor don Jorge Fuenzalida Berr&#xED;os, ubicado en calle Curalaba N&#xBA; 488, Villa Ciudad Jard&#xED;n, comuna de Maip&#xFA;, ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  3. Domicilio conductor don Valerio Silva Gonz&#xE1;lez, ubicado en calle Lo Encalada N&#xBA; 1961, Villa Canad&#xE1;, comuna de &#xD1;u&#xF1;oa, ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  4. Domicilio conductor don Mauricio Chanalet Jeria, ubicado en calle Venezuela N&#xBA; 449, comuna de Recoleta, ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  5. Domicilio conductor don Mario Matamala Molina, ubicado en calle V&#xED;ctor Manuel N&#xBA; 1442, comuna de Santiago, ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  6. Domicilio conductor don C&#xE9;sar Pi&#xF1;a Mag&#xF1;in, ubicado en calle John Kennedy N&#xBA; 168, comuna de La Florida, Santiago.</div><br><div class=\"p\">&nbsp; &nbsp;  Los conductores podr&#xE1;n estacionar el veh&#xED;culo en sus domicilios siempre y cuando est&#xE9;n autorizados por sus jefaturas directas.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Inf&#xF3;rmase a la Unidad de Servicios Generales que el veh&#xED;culo de que trata la presente resoluci&#xF3;n deber&#xE1; ser guardado en los siguientes recintos:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Estacionamiento institucional, ubicado en avenida Libertador Bernardo O&apos;Higgins N&#xBA; 1449, en el box que la Subsecretar&#xED;a estime conveniente, comuna de Santiago y ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2. Domicilio conductor don Jorge Fuenzalida Berr&#xED;os, ubicado en calle Curalaba N&#xBA; 488, Villa Ciudad Jard&#xED;n, comuna de Maip&#xFA;, ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  3. Domicilio conductor don Valerio Silva Gonz&#xE1;lez, ubicado en calle Lo Encalada N&#xBA; 1961, Villa Canad&#xE1;, comuna de &#xD1;u&#xF1;oa, ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  4. Domicilio conductor don Mauricio Chanalet Jeria, ubicado en calle Venezuela N&#xBA; 449, comuna de Recoleta, ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  5. Domicilio conductor don Mario Matamala Molina, ubicado en calle V&#xED;ctor Manuel N&#xBA; 1442, comuna de Santiago, ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  6. Elimin<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1128383&amp;idParte=9996268&amp;idVersion=2019-01-31\">Resoluci&#xF3;n 80 EXENTA,<br>ECONOM&#xCD;A<br>Art. segundo N&#xB0; 2<br>D.O. 31.01.2019</a></span>ado.</div><br><div class=\"p\">&nbsp; &nbsp;  Los conductores podr&#xE1;n estacionar el veh&#xED;culo en sus domicilios siempre y cuando est&#xE9;n autorizados por sus jefaturas directas.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1128383,
+      "fecha": "2019-01-31"
+    }
+  },
+  {
+    "fecha": "2019-03-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

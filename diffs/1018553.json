@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2010-10-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-03-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9025724,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Los veh&#xED;culos individualizados en el art&#xED;culo primero del presente decreto deber&#xE1;n llevar el disco distintivo fiscal de conformidad con lo dispuesto en el art&#xED;culo 4&#xB0; del decreto ley N&#xB0; 799, de 1974, con excepci&#xF3;n de los veh&#xED;culos asignados al nivel central del Ministerio de Miner&#xED;a, identificados con los n&#xFA;meros 13, 14 y 15 del art&#xED;culo anterior.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Los veh&#xED;culos individualizados<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1023959&amp;idParte=9127725&amp;idVersion=2011-03-24\">Decreto 157, MINER&#xCD;A<br>Art. SEGUNDO<br>D.O. 24.03.2011</a></span> en el art&#xED;culo primero del presente decreto deber&#xE1;n llevar el disco distintivo fiscal de conformidad con lo dispuesto en el art&#xED;culo 3&#xBA; del decreto ley N&#xBA; 799, de 1974, con excepci&#xF3;n de los veh&#xED;culos asignados al nivel central del Ministerio de Miner&#xED;a, identificados con los n&#xFA;meros 13, 14 y 15 del art&#xED;culo anterior y del veh&#xED;culo asignado a la Secretar&#xED;a Regional Ministerial de Miner&#xED;a de la Regi&#xF3;n de Los R&#xED;os, identificado con el n&#xFA;mero 9 del art&#xED;culo anterior.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1023959,
+      "fecha": "2011-03-24"
+    }
+  },
+  {
+    "fecha": "2017-07-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

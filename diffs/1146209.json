@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2020-06-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10126006,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Disp&#xF3;ngase cuarentena obligatoria por 14 d&#xED;as desde la fecha de ingreso, a todas las personas que ingresen a la Regi&#xF3;n de Ays&#xE9;n, sea por v&#xED;a mar&#xED;tima, terrestre o a&#xE9;rea, requiri&#xE9;ndose por Carabineros, Polic&#xED;a de Investigaciones, Ejercito de Chile o fiscalizadores de la Autoridad Sanitaria, la individualizaci&#xF3;n del pasajero, registr&#xE1;ndose el domicilio o direcci&#xF3;n donde efectuar&#xE1; la cuarentena indicada, n&#xFA;mero telef&#xF3;nico y/o cualquier otro antecedente relevante para su seguimiento.</div><div class=\"p\">&nbsp; &nbsp;  2. Except&#xFA;ense de esta cuarentena, las personas que vengan a cumplir funciones en materias de servicios de salud, servicios de emergencias o que presten servicios a empresas, cuyo mandante sea el Estado de Chile, municipio o empresas que deben mantener cadena productiva, debiendo acreditar dicho antecedente. Esto, sin perjuicio de lo indicado en la resoluci&#xF3;n exenta N&#xB0; 341, de fecha 12 de mayo de 2020, en su T&#xED;tulo 4&#xB0;, Numeral 12, letra e y numeral 14. Esto en relaci&#xF3;n al decreto N&#xB0; 4, art&#xED;culo 3&#xB0;, numerales 1, 7, 9, 13 y art&#xED;culo 8&#xB0; del C&#xF3;digo Sanitario.</div><div class=\"p\">&nbsp; &nbsp;  3. Habil&#xED;tese, por parte de la Direcci&#xF3;n General de Aeron&#xE1;utica Civil, Regi&#xF3;n de Ays&#xE9;n, una nueva unidad, para el desembarque de los pasajeros de los vuelos programados y no programados y que ingresen por medio del aeropuerto de la ciudad de Balmaceda, dicho lugar deber&#xE1; contar con una superficie, que permita el distanciamiento f&#xED;sico de a lo menos 1 (uno) metro entre personas. Esto, en relaci&#xF3;n al decreto 4/2020, art&#xED;culo 3&#xB0;, numerales 1, 12 y 20.&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  4. Contr&#xF3;lese y fiscal&#xED;cese la presente resoluci&#xF3;n, por parte de Carabineros de Chile, Polic&#xED;a de Investigaciones de Chile, Ej&#xE9;rcito de Chile y fiscalizadores de la Autoridad Sanitaria Regional, el cumplimiento de las cuarentenas obligatorias de pasajeros indicados en el numeral 2&#xB0;, de esta resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Disp&#xF3;ngase cuarentena obligatoria por 14 d&#xED;as desde la fecha de ingreso, a todas las personas que ingresen a la Regi&#xF3;n de Ays&#xE9;n, sea por v&#xED;a mar&#xED;tima, terrestre o a&#xE9;rea, requiri&#xE9;ndose por Carabineros, Polic&#xED;a de Investigaciones, Ejercito de Chile o fiscalizadores de la Autoridad Sanitaria, la individualizaci&#xF3;n del pasajero, registr&#xE1;ndose el domicilio o direcci&#xF3;n donde efectuar&#xE1; la cuarentena indicada, n&#xFA;mero telef&#xF3;nico y/o cualquier otro antecedente relevante para su seguimiento.</div><div class=\"p\">&nbsp; &nbsp;  2. Except&#xFA;ense de esta cuarentena, las personas que vengan a cumplir funciones en materias de servicios de salud, servicios de emergencias o que presten servicios a empresas, cuyo mandante sea el Estado de Chile, municipio o empresas que deben mantener cadena productiva, debiendo acreditar dicho antecedente. Esto, sin perjuicio de lo indicado en la resoluci&#xF3;n exenta N&#xB0; 341, de fecha 12 de mayo de 2020, en su T&#xED;tulo 4&#xB0;, Numeral 12, letra e y numeral 14. Esto en relaci&#xF3;n al decreto N&#xB0; 4, art&#xED;culo 3&#xB0;, numerales 1, 7, 9, 13 y art&#xED;culo 8&#xB0; del C&#xF3;digo Sanitario.</div><div class=\"p\">&nbsp; &nbsp;  3. Habil&#xED;tese, por parte de la Direcci&#xF3;n General de Aeron&#xE1;utica Civil, Regi&#xF3;n de Ays&#xE9;n, una nueva unidad, para el desembarque de los pasajeros de los vuelos programados y no programados y que ingresen por medio del aeropuerto de la ciudad de Balmaceda, dicho lugar deber&#xE1; contar con una superficie, que permita el distanciamiento f&#xED;sico de a lo menos 1 (uno) metro entre personas. Esto, en relaci&#xF3;n al decreto 4/2020, art&#xED;culo 3&#xB0;, numerales 1, 12 y 20.&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  4. Contr&#xF3;lese y fiscal&#xED;cese la presente resoluci&#xF3;n, por parte de Carabineros de Chile, Polic&#xED;a de Investigaciones de Chile, Ej&#xE9;rcito de Chile y fiscalizadores de la Autoridad Sanitaria Regional, el cumplimiento de las cuarentenas obligatorias de pasajeros indicados en el numeral 2&#xB0;, de esta resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Ex&#xED;jase a todas las personas <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1149151&amp;idParte=10156530&amp;idVersion=2020-09-04\">Resoluci&#xF3;n 523, SALUD<br>N&#xB0; 1<br>D.O. 04.09.2020</a></span>que arriben a la Regi&#xF3;n de Ays&#xE9;n, que deben portar el resultado del examen de PCR para Covid-19 (negativo), resultado que no podr&#xE1; exceder de 72 horas, contado desde la toma de muestra para PCR, es decir desde el momento en que se hace el hisopado para PCR.</div><div class=\"p\">&nbsp; &nbsp;  Se except&#xFA;an de la obligaci&#xF3;n anterior, aquellas personas que por razones de fuerza mayor debidamente acreditada, debieron viajar con destino a la Regi&#xF3;n de Ays&#xE9;n, sin tiempo suficiente para realizar el examen de PCR, a modo de ejemplo, por fallecimiento de familiar, emergencia m&#xE9;dica u otra raz&#xF3;n que fundadamente impida a la persona, disponer de tiempo suficiente para tomar el examen indicado, antes del viaje. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1149151,
+      "fecha": "2020-09-04"
+    }
+  },
+  {
+    "fecha": "2020-11-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-11-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-08-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8956165,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16&#xB0;: Los usuarios de viviendas o unidades habitacionales que tengan un aval&#xFA;o fiscal superior al monto exento del impuesto territorial, podr&#xE1;n solicitar anualmente la exenci&#xF3;n total de los derechos de aseo, si su puntaje actualizado de la ficha CAS II es igual o inferior a 550 puntos.</div><div class=\"p\">&nbsp; &nbsp; Asimismo, podr&#xE1;n acogerse a dicho beneficio los usuarios de viviendas o unidades habitacionales, que teniendo la calidad de pensionados o jubilados, acrediten un ingreso mensual igual o inferior al valor de cuatro pensiones asistenciales a la fecha en que se solicite la exenci&#xF3;n y aquellos usuarios que acrediten un ingreso inferior al salario m&#xED;nimo nacional.</div><div class=\"p\">&nbsp; &nbsp; En el evento que el usuario del servicio no sea propietario del inmueble, s&#xF3;lo se aplicar&#xE1; la exenci&#xF3;n establecida en el presente art&#xED;culo si el usuario es el sujeto pasivo del derecho de aseo en virtud del contrato respectivo. En caso contrario el propietario del inmueble queda afecto al pago del derecho.</div><div class=\"p\">&nbsp; &nbsp; La concurrencia de las circunstancias que habiliten las mencionadas exenciones ser&#xE1; certificada por la Direcci&#xF3;n de Desarrollo Comunitario.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 16&#xB0;: Los usuarios de viviendas o unidades<span class=\"n\" id=\"n_0\">ORZ 4<br>M DE PROVIDENCIA<br>N&#xBA; 1<br>D.O. 23.08.1999</span> habitacionales que tengan un aval&#xFA;o fiscal superior al monto exento del impuesto territorial, podr&#xE1;n solicitar anualmente la exenci&#xF3;n total de los derechos de aseo si su puntaje actualizado de la ficha CAS II es igual o inferior a 600 puntos</div><div class=\"p\">&nbsp; &nbsp; Asimismo, podr&#xE1;n acogerse a dicho beneficio los usuarios de viviendas o unidades habitacionales, que teniendo la calidad de pensionados o jubilados, acrediten un ingreso mensual igual o inferior al valor de cuatro pensiones asistenciales a la fecha en que se solicite la exenci&#xF3;n y aquellos usuarios que acrediten un ingreso inferior al salario m&#xED;nimo nacional.</div><div class=\"p\">&nbsp; &nbsp; En el evento que el usuario del servicio no sea propietario del inmueble, s&#xF3;lo se aplicar&#xE1; la exenci&#xF3;n establecida en el presente art&#xED;culo si el usuario es el sujeto pasivo del derecho de aseo en virtud del contrato respectivo. En caso contrario el propietario del inmueble queda afecto al pago del derecho.</div><div class=\"p\">&nbsp; &nbsp; La concurrencia de las circunstancias que habiliten las mencionadas exenciones ser&#xE1; certificada por la Direcci&#xF3;n de Desarrollo Comunitario.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

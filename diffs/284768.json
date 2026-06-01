@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2009-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-01-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8676673,
+          "old": "<div><div class=\"p\">ESTABLECE FORMA Y OPORTUNIDAD PARA ACREDITAR LOS REQUISITOS PARA ACCEDER A LOS BENEFICIOS DEL D.L. N&#xBA; 1.757. DEROGA NORMA DECAR&#xC1;CTER GENERAL N&#xBA; 180, DE 2006 </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NORMA DE CAR&#xC1;CTER GENERAL N&#xBA; 233</div><br><br><div class=\"p\">&nbsp; &nbsp;  A todos los Cuerpos de Bomberos y entidades aseguradoras del primer grupo</div><br><div class=\"p\">&nbsp; &nbsp;  Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto en la letra u) del art&#xED;culo 4&#xBA; del D.L. N&#xBA; 3.538, de 1980 y en el art&#xED;culo 4&#xBA; del D.L. N&#xBA; 1.757, de 1977, previa consulta a la Junta Nacional de Cuerpos de Bomberos de Chile, ha resuelto impartir las siguientes instrucciones relativas a la forma y oportunidad en que se deber&#xE1; acreditar el cumplimiento de los requisitos necesarios para acceder a los beneficios por accidentes sufridos y enfermedades contra&#xED;das por los miembros voluntarios de los Cuerpos de Bomberos establecidos en el D.L. N&#xBA; 1.757.</div><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE FORMA Y OPORTUNIDAD PARA ACREDITAR LOS REQUISITOS PARA ACCEDER A LOS BENEFICIOS DEL D.L. N&#xBA; 1.757. DEROGA NORMA DECAR&#xC1;CTER GENERAL N&#xBA; 180, DE 2006</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  06 NOV 2008<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 29.01.2009</span></div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  NORMA DE CAR&#xC1;CTER GENERAL N&#xBA; 233</div><br><br><div class=\"p\">&nbsp; &nbsp;  A todos los Cuerpos de Bomberos y entidades aseguradoras del primer grupo</div><br><div class=\"p\">&nbsp; &nbsp;  Esta Superintendencia, en uso de sus facultades legales, en especial lo dispuesto en la letra u) del art&#xED;culo 4&#xBA; del D.L. N&#xBA; 3.538, de 1980 y en el art&#xED;culo 4&#xBA; del D.L. N&#xBA; 1.757, de 1977, previa consulta a la Junta Nacional de Cuerpos de Bomberos de Chile, ha resuelto impartir las siguientes instrucciones relativas a la forma y oportunidad en que se deber&#xE1; acreditar el cumplimiento de los requisitos necesarios para acceder a los beneficios por accidentes sufridos y enfermedades contra&#xED;das por los miembros voluntarios de los Cuerpos de Bomberos establecidos en el D.L. N&#xBA; 1.757.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

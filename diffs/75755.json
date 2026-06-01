@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-09-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8952764,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Modif&#xED;case el D.S. N&#xBA; 86 (V. y U.), de 1997, en el sentido de reemplazar en el inciso primero del art&#xED;culo 1&#xBA;, la frase &quot;emplazadas en las comunas, sectores y provincias se&#xF1;aladas en el D.S. N&#xBA; 1.543, de Interior, de 1997,&quot;, por la frase &quot;emplazadas en las zonas afectadas se&#xF1;aladas por los decretos supremos N&#xBA; 1.543 y N&#xBA; 1.817, ambos de Interior, de 1997,&quot;.</div><br><br><div class=\"p\">&nbsp; &nbsp;  Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Modif&#xED;case el D.S. N&#xBA; 88 (V. y<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 04.10.1997</span> U.), de 1997, en el sentido de reemplazar en el inciso primero del art&#xED;culo 1&#xBA;, la frase &quot;emplazadas en las comunas, sectores y provincias se&#xF1;aladas en el D.S. N&#xBA; 1.543, de Interior, de 1997,&quot;, por la frase &quot;emplazadas en las zonas afectadas se&#xF1;aladas por los decretos supremos N&#xBA; 1.543 y N&#xBA; 1.817, ambos de Interior, de 1997,&quot;. Por razones de urgencia, la Contralor&#xED;a General de la Rep&#xFA;blica se servir&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de cinco d&#xED;as. </div></div>"
+        }
+      ]
+    }
+  }
+]

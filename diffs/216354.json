@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-06-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-10-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004620,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o- Sin perjuicio de lo dispuesto en el decreto ley N.o 193, de 10 de Diciembre de 1973; el conocimiento de las reclamaciones de las personas que sean despedidas de la Empresa de los Ferrocarriles del Estado en virtud de los decretos leyes N.os 6, 22 y 98, de 1973, corresponder&#xE1; solamente a las Comisiones Especiales que funcionan en los departamentos de Arica, Iquique, Coquimbo, Santiago, Concepci&#xF3;n y Valdivia.</div><div class=\"p\">&nbsp; &nbsp;  La Comisi&#xF3;n que funcione en Arica conocer&#xE1; de los reclamos formulados por personal del Ferrocarril de Arica a La Paz; la que funcione en Iquique, de los interpuestos por el del Ferrocarril de Iquique a Pueblo Hundido; la de Coquimbo, de los formulados por el personal de la red Central Norte; la de Santiago, de los interpuestos por el personal de la Direcci&#xF3;n, Departamentos, de las Primera, Segunda Zonas, y de los presentados por el personal de la Tercera Zona, y la de Valdivia, los formulados por el personal de la Cuarta Zona.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o- Sin perjuicio de lo dispuesto en el decreto ley N.o 193, de 10 de Diciembre de 1973; el conocimiento de las reclamaciones de las personas que sean despedidas de la Empresa de los Ferrocarriles del Estado en virtud de los decretos leyes N.os 6, 22 y 98, de 1973, corresponder&#xE1; solamente a las Comisiones Especiales que funcionan en los departamentos de Arica, Iquique, Coquimbo, Santiago, Concepci&#xF3;n y Valdivia. La Comisi&#xF3;n que funcione en Arica conocer&#xE1; de los reclamos formulados por personal del Ferrocarril de Arica a La Paz; la que funcione en Iquique, de los interpuestos por el del Ferrocarril de Iquique a Pueblo Hundido; la de Coquimbo, de los formulados por el personal de la red Central Norte; la de Santiago, de los interpuestos por el personal de la Direcci&#xF3;n, Departamentos, de las Primera, Segunda Zonas, y del<span class=\"n\" id=\"n_0\">DL 673,<br>Art. &#xFA;nico<br>D.O. 05.10.1974</span> Ferrocarril Transandino por Juncal; la de Concepci&#xF3;n de los presentados por el personal de la Tercera Zona, y la de Valdivia, los formulados por el personal de la Cuarta Zona.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

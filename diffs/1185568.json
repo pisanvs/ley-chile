@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-02-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10384144,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;bese la pr&#xF3;rroga de la contrata de la Sra. Valentina Monasterio G&#xE1;lvez (RUN N&#xB0; 15.321.145-0), a contar del 1 de enero al 11 de marzo de 2022, como agregada a contrata, asimilada a 4&#xAA; Categor&#xED;a Exterior, a fin de que preste funciones como agregada en la Misi&#xF3;n de Chile ante las Naciones Unidas en Nueva York, Estados Unidos de Am&#xE9;rica.</div><div class=\"p\">&nbsp; &nbsp;  2. El Ministerio de Relaciones Exteriores podr&#xE1; poner t&#xE9;rmino anticipado al presente contrato, si los servicios de la persona indicada dejan de ser necesarios.</div><div class=\"p\">&nbsp; &nbsp;  3. Por razones impostergables de buen servicio, la persona antes individualizada dar&#xE1; continuidad a sus funciones, sin esperar la total tramitaci&#xF3;n del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  4. Establ&#xE9;zcase que la Sra. Monasterio G&#xE1;lvez tendr&#xE1; derecho a pasajes, asignaci&#xF3;n de traslado de menaje de casa y efectos personales, y asignaci&#xF3;n de instalaci&#xF3;n, todo de conformidad con lo establecido en el DFL 33 antes citado. Las condiciones de asignaci&#xF3;n de traslado de menaje de casa y efectos personales se ajustar&#xE1;n adem&#xE1;s al reglamento establecido en el decreto N&#xB0; 2.154 de 1997 de esta Secretar&#xED;a de Estado.</div><div class=\"p\">&nbsp; &nbsp;  5. Imp&#xFA;tese el gasto que corresponda al Subt&#xED;tulo 21-04-001 del presupuesto corriente en moneda nacional; y a los Subt&#xED;tulos 22-08-007 y 21-02-001 del presupuesto corriente en moneda extranjera convertida a d&#xF3;lares, todos del Ministerio de Relaciones Exteriores, del a&#xF1;o presupuestario vigente.</div><div class=\"p\">&nbsp; &nbsp;  </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;bese la pr&#xF3;rroga de la contrata de la Sra. Valentina Monasterio G&#xE1;lvez (RUN N&#xB0; 15.321.145-0), a contar del 1 de enero al 11 de marzo de 2022, como agregada a contrata, asimilada a 4&#xAA; Categor&#xED;a Exterior, a fin de que preste funciones como agregada en la Misi&#xF3;n de Chile ante las Naciones Unidas en Nueva York, Estados Unidos de Am&#xE9;rica.</div><div class=\"p\">&nbsp; &nbsp;  2. El Ministerio de Relaciones Exteriores podr&#xE1; poner t&#xE9;rmino anticipado al presente contrato, si los servicios de la persona indicada dejan de ser necesarios.</div><div class=\"p\">&nbsp; &nbsp;  3. Por razones impostergables de buen servicio, la persona antes individualizada dar&#xE1; continuidad a sus funciones, sin esperar la total tramitaci&#xF3;n del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  4. Dero<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1189687&amp;idParte=10410604&amp;idVersion=2023-02-27\">Decreto 94,<br>RELACIONES EXTERIORES<br>N&#xB0; 1<br>D.O. 27.02.2023</a></span>gado.</div><div class=\"p\">&nbsp; &nbsp;  5. Imp&#xFA;tese el gasto que corresponda al Subt&#xED;tulo 21-04-001 del presupuesto corriente en moneda nacional; y a los Subt&#xED;tulos 22-08-007 y 21-02-001 del presupuesto corriente en moneda extranjera convertida a d&#xF3;lares, todos del Ministerio de Relaciones Exteriores, del a&#xF1;o presupuestario vigente.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1189687,
+      "fecha": "2023-02-27"
+    }
+  }
+]

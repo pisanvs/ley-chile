@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1991-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-10-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8512697,
+          "old": "<div><div class=\"p\">MODIFICA PLAN SECCIONAL RIBERA SUR DE PUERTO AISEN </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 26 de Agosto de 1991.- Hoy se decret&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 103.- Visto: Lo dispuesto en los art&#xED;culos 2&#xBA; y 9&#xBA; de la Ley No. 16.391 y 12 letra i) del DL No. 1.305 de 1976; el art&#xED;culo 50 del DFL No. 458 (V. y U), de 1975, Ley General de Urbanismo y Construcciones, el Oficio No. 351, de 26 de Julio de 1991, de la Divisi&#xF3;n de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo; y, los antecedentes que se acompa&#xF1;an, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA PLAN SECCIONAL RIBERA SUR DE PUERTO AISEN </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 26 de Agosto de 1991.- Hoy se decret&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 103.- Visto: Lo dispuesto en los art&#xED;culos 2&#xBA; y 9&#xBA; de la Ley No. 16.391 y 12 letra i) del DL No. 1.305 de 1976; el art&#xED;culo 50 del DFL No. 458 (V. y U), de 1975, Ley General de Urbanismo y Construcciones, el Oficio No. 351, de 26 de Julio de 1991, de la Divisi&#xF3;n de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo; y, los antecedentes que se acompa&#xF1;an, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        },
+        {
+          "part_id": 8512698,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Modif&#xED;case el Plan Seccional Ribera Sur de Puerto Ais&#xE9;n, de la comuna de Puerto Ais&#xE9;n, aprobado por DS No. 494, (V y U.), de 17 de Agosto de 1970, publicado en el Diario Oficial de 25 de Septiembre de 1970, en el sentido de cambiar el uso de suelo de &quot;equipamiento de hoster&#xED;a y motel&quot; a &quot;vivienda, equipamiento y vialidad&quot;, al sector delimitado por la l&#xED;nea poligonal Q, R, S, T, U, V, Q, ubicado en pasaje Hoster&#xED;a Municipal y calle Ciro Arredondo, de conformidad a lo graficado en el Plano 11-005-91 denominado &quot;Modificaci&#xF3;n Plano Seccional Ais&#xE9;n Ribera Sur&quot;, confeccionado a escala 1:1000, por el Departamento de Desarrollo Urbano e Infraestructura de la Secretar&#xED;a Ministerial de Vivienda y Urbanismo IX Regi&#xF3;n, que por el presente decreto se aprueba.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Modif&#xED;case el Plan Seccional Ribera Sur de Puerto Ais&#xE9;n, de la comuna de Puerto Ais&#xE9;n, aprobado por DS No. 494, (V y U.), de 17 de Agosto de 1970, publicado en el Diario Oficial de 25 de Septiembre de 1970, en el sentido de cambiar el uso de suelo de &quot;equipamiento de hoster&#xED;a y motel&quot; a &quot;vivienda, equipamiento y vialidad&quot;, al sector delimitado por la l&#xED;nea poligonal Q, R, S, T, U, V, Q, ubicado en pasaje Hoster&#xED;a Municipal y calle Ciro Arredondo, de conformidad a lo graficado en el Plano 11-005-91 denominado &quot;Modificaci&#xF3;n Plano Seccional Ais&#xE9;n Ribera Sur&quot;, confeccionado a escala 1:1000, por el Departamento de Desarrollo Urbano e Infraestructura de la Secretar&#xED;a Ministerial de Vivienda y Urbanismo XI Regi&#xF3;n, que por el presente<span class=\"n\" id=\"n_0\">RES 342, VIVIENDA<br>D.O. 22.10.1991</span> decreto se aprueba.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

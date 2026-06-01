@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-04-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9020089,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DEROGA RESOLUCION N&#xB0; 476, DE 1996</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 528.- Puerto Montt, 22 de abril de 1996 Vistos estos antecedentes: La necesidad de modificar y complementar la Resoluci&#xF3;n Sanitaria N&#xB0; 0430 del 25.03.96, en los puntos 6 y 11 debido a la disminuci&#xF3;n de la extracci&#xF3;n y comercializaci&#xF3;n de mariscos bivalvos, por t&#xE9;rmino de la Semana Santa y fijar un puerto de desembarco para todos los mariscos provenientes de la XI Regi&#xF3;n, manteniendo los controles rutinarios para evitar el riesgo de consumo de productos contaminados con el fen&#xF3;meno de Marea Roja; y Teniendo Presente: lo dispuesto en la Resoluci&#xF3;n N&#xB0; 430 del 25.03.96, Resoluci&#xF3;n N&#xB0; 441 del 27.03.96, Resoluci&#xF3;n N&#xB0; 459 del 29.03.96, el Decreto Ley N&#xB0; 2763/79, Decreto Supremo N&#xB0; 42/86, Org&#xE1;nico de los Servicios de Salud, y lo previsto en el Art&#xED;culo 3, 108 y siguientes del C&#xF3;digo Sanitario, Art&#xED;culos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos aprobado por Decreto Supremo N&#xB0; 60/82 del Ministerio de Salud y la Resoluci&#xF3;n Afecta N&#xB0; H/0631/94 de este Servicio de Salud, dicto la siguiente:</div><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n :</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DEROGA RESOLUCION N&#xB0; 476, DE 1996</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 528.- Puerto Montt, 22 de abril de 1996 Vistos estos antecedentes: La necesidad de modificar y complementar la Resoluci&#xF3;n Sanitaria N&#xB0; 0430 del 25.03.96, en los puntos 6 y 11 debido a la disminuci&#xF3;n de la extracci&#xF3;n y comercializaci&#xF3;n de mariscos bivalvos, por t&#xE9;rmino de la Semana Santa y fijar un puerto de desembarco para todos los mariscos provenientes de la XI Regi&#xF3;n, manteniendo los controles rutinarios para evitar el riesgo de consumo de productos contaminados con el fen&#xF3;meno de Marea Roja; y Teniendo Presente: lo dispuesto en la Resoluci&#xF3;n N&#xB0; 430 del 25.03.96, Resoluci&#xF3;n N&#xB0; 441 del 27.03.96, Resoluci&#xF3;n N&#xB0; 459 del 29.03.96, el Decreto Ley N&#xB0; 2763/79, Decreto Supremo N&#xB0; 42/86, Org&#xE1;nico de los Servicios de Salud, y lo previsto en el Art&#xED;culo 3, 108 y siguientes del C&#xF3;digo Sanitario, Art&#xED;culos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos aprobado por Decreto Supremo N&#xB0; 60/82 del Ministerio de Salud y la Resoluci&#xF3;n Afecta N&#xB0; H/0631/94 de este Servicio de Salud, dicto la siguiente:</div><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n :</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

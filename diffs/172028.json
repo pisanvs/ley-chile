@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "2000-07-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6286153,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;: El Consejo Econ&#xF3;mico y Social Comunal estar&#xE1; integrado por el Alcalde, por derecho propio y por 30 miembros titulares y 5 miembros suplentes por cada agrupaci&#xF3;n organizada, durar&#xE1;n cuatro a&#xF1;os en sus cargos y se elegir&#xE1;n en conformidad a las normas, proporciones y procedimientos que se establecen en los art&#xED;culos siguientes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;: El Consejo Econ&#xF3;mico y Social<span class=\"n\" id=\"n_0\">DTO 316, M DE COLINA<br>N&#xB0;1<br>D.O. 03.08.2000</span> Comunal estar&#xE1; integrado por el Alcalde, por derecho propio y en total por 30 miembros titulares.</div><div class=\"p\">Tambi&#xE9;n habr&#xE1; 2 miembros suplentes por cada agrupaci&#xF3;n organizada, durar&#xE1;n cuatro a&#xF1;os en sus cargos y se elegir&#xE1;n en conformidad a las normas, proporciones y procedimientos que se establecen en los art&#xED;culos siguientes.</div><br></div>"
+        },
+        {
+          "part_id": 6286165,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14: Al momento de formalizar la respectiva inscripci&#xF3;n, los interesados deber&#xE1;n acompa&#xF1;ar los documentos que acrediten los requisitos se&#xF1;alados en el art&#xED;culo 12 del presente reglamento, los que se ser&#xE1;n detallados en el decreto a que se refiere el art&#xED;culo precedente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14: Al momento de formalizar la respectiva<span class=\"n\" id=\"n_1\">DTO 316 M. DE COLINA<br>N&#xB0;1<br>D.O. 03.08.2000</span> inscripci&#xF3;n, los interesados deber&#xE1;n acompa&#xF1;ar los documentos que acrediten los requisitos se&#xF1;alados en el art&#xED;culo 6 del presente reglamento, los que se ser&#xE1;n detallados en el decreto a que se refiere el art&#xED;culo precedente.</div><br></div>"
+        },
+        {
+          "part_id": 6286236,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 70: Los acuerdos tomados en contravenci&#xF3;n o con omisi&#xF3;n de cualquiera de las disposiciones de este reglamento est&#xE1;n nulos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 70: Los acuerdos tomados en contravenci&#xF3;n<span class=\"n\" id=\"n_2\">DTO 316,<br>M. DE COLINA<br>N&#xB0; 1<br>D.O. 03.08.2000</span> o con omisi&#xF3;n de cualquiera de las disposiciones de este reglamento ser&#xE1;n nulos.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

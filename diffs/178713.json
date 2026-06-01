@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-01-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7278594,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- A contar del 1&#xBA; de enero del 2001 todos los contribuyentes deber&#xE1;n declarar y pagar el total de sus impuestos en moneda nacional, sin perjuicio de que lleven su contabilidad en moneda extranjera si estuvieren autorizados para ello.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Para los efectos de la determinaci&#xF3;n y pago de los impuestos internos que deban expresarse o efectuarse considerando la equivalencia del d&#xF3;lar de los Estados Unidos de Am&#xE9;rica u otras monedas extranjeras, &#xE9;sta ser&#xE1; aquella que hubiere publicado el Banco Central de Chile, en el d&#xED;a anterior a aquel en que corresponda efectuar la determinaci&#xF3;n del impuesto respectivo. En el caso de que no existiere dicha publicaci&#xF3;n en el d&#xED;a inmediatamente anterior a aquel en que deba determinarse el impuesto, deber&#xE1; considerarse la equivalencia publicada por dicho Banco el &#xFA;ltimo d&#xED;a h&#xE1;bil previo, a la determinaci&#xF3;n del impuesto.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- A contar del 1 de enero del a&#xF1;o 2001, todos los<span class=\"n\" id=\"n_0\">RES 3 EXENTA<br>HACIENDA<br>D.O. 13.01.2001</span> contribuyentes deber&#xE1;n declarar y pagar los tributos en moneda nacional, salvo que se encuentren autorizados para llevar su contabilidad y obligados a pagar sus tributos en moneda extranjera, de acuerdo a lo establecido en el inciso segundo y tercero del art&#xED;culo 18&#xBA; del C&#xF3;digo Tributario, o bien, que se encuentren obligados a llevar su contabilidad en dicha moneda por otra disposici&#xF3;n legal, caso en el cual deber&#xE1;n presentar sus declaraciones y efectuar los pagos correspondientes, incluidos los impuestos de retenci&#xF3;n que deban enterar en arcas fiscales, o solicitar la devoluci&#xF3;n en el caso de que resulte saldo a favor del impuesto que corresponda, en moneda extranjera. En estos casos se deber&#xE1; presentar la declaraci&#xF3;n y pagar los impuestos en el Servicio de Tesorer&#xED;as.</div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;janse sin efecto las instrucciones administrativas impartidas por el Servicio, en orden a exigir a aquellos contribuyentes que hubieran obtenido rentas &#xFA;nicamente en d&#xF3;lares o libras esterlinas para que declaren el Impuesto Global Complementario en esas monedas, como asimismo, aquellas que disponen que declaren una parte del Impuesto Global Complementario en moneda nacional y la otra en moneda extranjera a aquellos contribuyentes que han percibido rentas en moneda nacional y extranjera cuando el monto de estas &#xFA;ltimas sea superior al 10% de la Renta Bruta del Impuesto Global Complementario. Por consiguiente, estos constribuyentes deber&#xE1;n presentar sus declaraciones y pagar sus impuestos en moneda nacional a contar de la misma fecha se&#xF1;alada en el numeral anterior.</div><div class=\"p\">&nbsp; &nbsp;  3.- Para la determinaci&#xF3;n y pago de los impuestos internos que deban expresarse o efectuarse en moneda nacional, se deber&#xE1; considerar el tipo de cambio observado, vigente a la fecha de la determinaci&#xF3;n del impuesto, seg&#xFA;n publicaci&#xF3;n efectuada por el Banco Central de Chile de conformidad al N&#xBA; 6, del Cap&#xED;tulo Y, del T&#xED;tulo I, del Compendio de Normas de Cambios Internacionales o el que establezca dicho Banco en su reemplazo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

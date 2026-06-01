@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-01-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7153550,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DETERMINA ESTABLECIMIENTOS EDUCACIONALES BENEFICIADOS ARTICULO 12 D.F.L. N&#xB0; 5, DE EDUCACION, DE 1993 Y ARTICULOS 2&#xB0; N&#xB0; 4 Y 11 TRANSITORIOS LEY N&#xB0; 19.410 N&#xFA;m. 855.- Santiago, 2 de noviembre de 1995.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, la Ley N&#xB0; 19.410 introdujo diversas modificaciones al r&#xE9;gimen de los establecimientos que tienen derecho a la subvenci&#xF3;n especial del art&#xED;culo 12 del D.F.L. N&#xB0; 5, de Educaci&#xF3;n de 1993, aumentando la cobertura y la subvenci&#xF3;n que se les paga;</div><div class=\"p\">&nbsp; &nbsp; Que, asimismo, contempla disposiciones que permiten percibir los aumentos dispuestos a partir de enero de 1995;</div><div class=\"p\">&nbsp; &nbsp; Que, por lo tanto, es preciso determinar cu&#xE1;les establecimientos se encuentran en la situaci&#xF3;n descrita para proceder a pagar la respectiva subvenci&#xF3;n; y Visto: Lo dispuesto en las Leyes N&#xB0;s. 18.956 y 19.410; D.F.L. N&#xB0; 5, de Educaci&#xF3;n, de 1993; y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DETERMINA ESTABLECIMIENTOS EDUCACIONALES BENEFICIADOS ARTICULO 12 D.F.L. N&#xB0; 5, DE EDUCACION, DE 1993 Y ARTICULOS 2&#xB0; N&#xB0; 4 Y 11 TRANSITORIOS LEY N&#xB0; 19.410 N&#xFA;m. 855.- Santiago, 2 de noviembre de 1995.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, la Ley N&#xB0; 19.410 introdujo diversas modificaciones al r&#xE9;gimen de los establecimientos que tienen derecho a la subvenci&#xF3;n especial del art&#xED;culo 12 del D.F.L. N&#xB0; 5, de Educaci&#xF3;n de 1993, aumentando la cobertura y la subvenci&#xF3;n que se les paga;</div><div class=\"p\">&nbsp; &nbsp; Que, asimismo, contempla disposiciones que permiten percibir los aumentos dispuestos a partir de enero de 1995;</div><div class=\"p\">&nbsp; &nbsp; Que, por lo tanto, es preciso determinar cu&#xE1;les establecimientos se encuentran en la situaci&#xF3;n descrita para proceder a pagar la respectiva subvenci&#xF3;n; y Visto: Lo dispuesto en las Leyes N&#xB0;s. 18.956 y 19.410; D.F.L. N&#xB0; 5, de Educaci&#xF3;n, de 1993; y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8655237,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24.- Con la excepci&#xF3;n del financiamiento y los reembolsos previstos en la ley N&#xB0;19.884, sobre Transparencia, L&#xED;mite y Control del Gasto Electoral, consid&#xE9;rase que vulnera gravemente el principio de probidad administrativa cualquier uso de los gastos incluidos en el art&#xED;culo 1&#xB0; de la presente ley en actividades de proselitismo o promoci&#xF3;n de candidatos a cargos de elecci&#xF3;n popular, lo que ser&#xE1; sancionado con la destituci&#xF3;n del infractor, de conformidad al procedimiento y las normas generales que rijan al &#xF3;rgano en que se produjo la infracci&#xF3;n. Asimismo, consid&#xE9;rase que vulnera gravemente la probidad administrativa, sancion&#xE1;ndose con la misma medida, la participaci&#xF3;n de todo funcionario p&#xFA;blico de exclusiva confianza del Presidente de la Rep&#xFA;blica, en actividades de proselitismo o promoci&#xF3;n de candidatos a cargos de elecci&#xF3;n popular, de conformidad a las normas generales aplicables.&quot;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24.- Con la excepci&#xF3;n del financiamiento y<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> los reembolsos previstos en la ley N&#xB0;19.884, sobre Transparencia, L&#xED;mite y Control del Gasto Electoral, consid&#xE9;rase que vulnera gravemente el principio de probidad administrativa cualquier uso de los gastos incluidos en el art&#xED;culo 1&#xB0; de la presente ley en actividades de proselitismo o promoci&#xF3;n de candidatos a cargos de elecci&#xF3;n popular, lo que ser&#xE1; sancionado con la destituci&#xF3;n del infractor, de conformidad al procedimiento y las normas generales que rijan al &#xF3;rgano en que se produjo la infracci&#xF3;n.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Tribunal Constitucional, por sentencia publicada el 28.12.2007, declara inconstitucional la parte final del presente art&#xED;culo y ordena la eliminaci&#xF3;n de su texto. Por AVI S/N, Hacienda, publicado el 02.01.2008, se dispuso la correcci&#xF3;n del decreto promulgatorio de la presente ley, quedando el Art. 24 de la forma como se ha ingresado en esta actualizaci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

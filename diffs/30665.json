@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-03-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-11-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8707846,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 30.- Cr&#xE9;anse en la Corte de Apelaciones de Concepci&#xF3;n, los cargos que a continuaci&#xF3;n se indican, con sus respectivos grados de la Escala de Sueldos Bases Mensuales del Poder Judicial:</div><div class=\"p\">&nbsp; &nbsp; a) Tres cargos de ministros, de la segunda categor&#xED;a del Escalaf&#xF3;n Primario, Grado IV.</div><div class=\"p\">&nbsp; &nbsp; b) Un cargo de fiscal, de la segunda categor&#xED;a del Escalaf&#xF3;n Primario, Grado IV.</div><div class=\"p\">&nbsp; &nbsp; c) Dos cargos de relatores, de la tercera categor&#xED;a del Escalaf&#xF3;n Primario, Grado V.</div><div class=\"p\">&nbsp; &nbsp; d) Dos cargos de oficiales cuartos, de la tercera categor&#xED;a del Escalaf&#xF3;n de Empleados, Grado XIII.</div><div class=\"p\">&nbsp; &nbsp; e) Un cargo de oficial del fiscal, de la tercera categor&#xED;a del Escalaf&#xF3;n de Empleados, grado XVI.</div><div class=\"p\">&nbsp; &nbsp; f) Un cargo de oficial de sala, de la sexta categor&#xED;a del Escalaf&#xF3;n de Empleados, Grado XVI. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 30.- Cr&#xE9;anse en la Corte de Apelaciones de Concepci&#xF3;n, los cargos que a continuaci&#xF3;n se indican, con sus respectivos grados de la Escala de Sueldos Bases Mensuales del Poder Judicial: a) Tres cargos de ministros, de la segunda categor&#xED;a</div><div class=\"p\">del Escalaf&#xF3;n Primario, Grado IV.</div><div class=\"p\">&nbsp; &nbsp; b) Un cargo de fiscal, de la segunda categor&#xED;a del</div><div class=\"p\">Escalaf&#xF3;n Primario, Grado IV.</div><div class=\"p\">&nbsp; &nbsp; c) Dos cargos de relatores, de la tercera categor&#xED;a</div><div class=\"p\">del Escalaf&#xF3;n Primario, Grado V.</div><div class=\"p\">&nbsp; &nbsp; d) Dos cargos de oficiales cuartos, de la tercera</div><div class=\"p\">categor&#xED;a del Escalaf&#xF3;n de Empleados, Grado XIII.</div><div class=\"p\">&nbsp; &nbsp; e) Un cargo de oficial del fiscal, de la tercera<span class=\"n\" id=\"n_0\">LEY 19531<br>ART 14<br>D.O.07.11.1997</span></div><div class=\"p\"> categor&#xED;a del Escalaf&#xF3;n de Empleados, grado XIII.</div><div class=\"p\">&nbsp; &nbsp; f) Un cargo de oficial de sala, de la sexta</div><div class=\"p\">categor&#xED;a del Escalaf&#xF3;n de Empleados, Grado XVI.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

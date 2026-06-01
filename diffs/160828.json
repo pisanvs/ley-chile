@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-04-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-07-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8537708,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;MARTINEZ, LEIVA, GUAJARDO Y COMPA&#xD1; A LTDA.&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;MARTINEZ, LEIVA, GUAJARDO Y COMPA&#xD1; A LTDA.&quot; PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

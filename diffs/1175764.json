@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-05-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-08-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10331652,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Del&#xE9;gase en el Director de Abastecimiento de la Armada, la facultad de efectuar, en representaci&#xF3;n del Fisco - Armada de Chile, y en el &#xE1;mbito t&#xE9;cnico que le corresponde, la contrataci&#xF3;n del suministro de lubricantes y servicios asociados, en la forma establecida en la reglamentaci&#xF3;n vigente, extendiendo las resoluciones y suscribiendo y celebrando todos los actos administrativos, y contratos correspondientes, hasta por la suma equivalente a 65.000 UTM.</div><div class=\"p\">&nbsp; &nbsp;  2.- Decl&#xE1;rase, que el ejercicio de las facultades delegadas deber&#xE1; ce&#xF1;irse a las disposiciones de las leyes N&#xBA; 18.575 y N&#xBA; 18.928, as&#xED; como al resto de la normativa aplicable al caso.</div><div class=\"p\">&nbsp; &nbsp;  3.- Disp&#xF3;nese, que el Director de Abastecimiento de la Armada deber&#xE1; mantener un registro de todos los documentos y contratos suscritos y celebrados en virtud de las facultades delegadas, con la individualizaci&#xF3;n de la empresa con la cual se celebr&#xF3; cada contrato, el motivo del mismo, su monto, financiamiento y forma de pago.</div><div class=\"p\">&nbsp; &nbsp;  4.- Disp&#xF3;nese, adem&#xE1;s, que la vigencia de la presente resoluci&#xF3;n se extender&#xE1; hasta que se complete la adquisici&#xF3;n indicada en el Resuelvo N&#xBA; 1 del presente acto administrativo.</div><div class=\"p\">&nbsp; &nbsp;  5.- D&#xE9;jase constancia que, en caso de subrogaci&#xF3;n, para efectos de control interno administrativo, esta deber&#xE1; ser dispuesta mediante resoluci&#xF3;n que la formalice.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Del&#xE9;gase en el Director de Abastecimiento de la Armada, la facultad de efectuar, en representaci&#xF3;n del Fisco - Armada de Chile, y en el &#xE1;mbito t&#xE9;cnico que le corresponde, la contrataci&#xF3;n del suministro de lubricantes y servicios asociados, en la forma establecida en la reglamentaci&#xF3;n vigente, extendiendo las resoluciones y suscribiendo y celebrando todos los actos administrativos, y contratos correspondientes, hasta por la suma equivalente a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1215560&amp;idParte=10557586&amp;idVersion=2025-08-06\">Resoluci&#xF3;n 251 EXENTA,<br>DEFENSA <br>N&#xB0; 1<br>D.O. 06.08.2025</a></span>98.000 UTM.</div><div class=\"p\">&nbsp; &nbsp;  2.- Decl&#xE1;rase, que el ejercicio de las facultades delegadas deber&#xE1; ce&#xF1;irse a las disposiciones de las leyes N&#xBA; 18.575 y N&#xBA; 18.928, as&#xED; como al resto de la normativa aplicable al caso.</div><div class=\"p\">&nbsp; &nbsp;  3.- Disp&#xF3;nese, que el Director de Abastecimiento de la Armada deber&#xE1; mantener un registro de todos los documentos y contratos suscritos y celebrados en virtud de las facultades delegadas, con la individualizaci&#xF3;n de la empresa con la cual se celebr&#xF3; cada contrato, el motivo del mismo, su monto, financiamiento y forma de pago.</div><div class=\"p\">&nbsp; &nbsp;  4.- Disp&#xF3;nese, adem&#xE1;s, que la vigencia de la presente resoluci&#xF3;n se extender&#xE1; hasta que se complete la adquisici&#xF3;n indicada en el Resuelvo N&#xBA; 1 del presente acto administrativo.</div><div class=\"p\">&nbsp; &nbsp;  5.- D&#xE9;jase constancia que, en caso de subrogaci&#xF3;n, para efectos de control interno administrativo, esta deber&#xE1; ser dispuesta mediante resoluci&#xF3;n que la formalice.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1215560,
+      "fecha": "2025-08-06"
+    }
+  }
+]

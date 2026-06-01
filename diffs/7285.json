@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-01-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-01-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5883066,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA PRECIOS DE PARIDAD PARA LOS COMBUSTIBLES DERIVADOS DEL PETROLEO QUE INDICAN</div><div class=\"p\">&nbsp; &nbsp; Santiago, 8 de Enero de 1993.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 3.- Visto: Lo dispuesto en el Art&#xED;culo 7 del Decreto Supremo N&#xB0; 9 del 15 de Enero de 1991 de los Ministerios de Miner&#xED;a y de Hacienda, el N&#xB0; 18 del Art&#xED;culo Primero del Decreto Supremo N&#xB0; 1.407, de 1991 del Ministerio del Interior, lo informado por la Comisi&#xF3;n Nacional de Energ&#xED;a en documento adjunto a su Oficio Ord. MM/1 del 6 de Enero de 1993.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA PRECIOS DE PARIDAD PARA LOS COMBUSTIBLES DERIVADOS DEL PETROLEO QUE INDICAN</div><div class=\"p\">&nbsp; &nbsp; Santiago, 8 de Enero de 1993.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 3.- Visto: Lo dispuesto en el Art&#xED;culo 2 de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 15.01.1993</span> la Ley N&#xB0; 19.030, el Art&#xED;culo 7 del Decreto Supremo N&#xB0; 9 del 15 de Enero de 1991 de los Ministerios de Miner&#xED;a y de Hacienda, el N&#xB0; 18 del Art&#xED;culo Primero del Decreto Supremo N&#xB0; 1.407, de 1991 del Ministerio del Interior, lo informado por la Comisi&#xF3;n Nacional de Energ&#xED;a en documento adjunto a su Oficio Ord. MM/1 del 6 de Enero de 1993.</div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>"
+        }
+      ]
+    }
+  }
+]

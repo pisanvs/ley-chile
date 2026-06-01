@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-12-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7269487,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JUAN ALBERTO ANDIA OLIVARES PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JUAN ALBERTO ANDIA OLIVARES PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

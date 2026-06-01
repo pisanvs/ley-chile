@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-02-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-02-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10355086,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; bis.- Los productos y elementos de uso m&#xE9;dico que s<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1179781&amp;idParte=10354912&amp;idVersion=2023-02-10\">Decreto 51 EXENTO,<br>SALUD<br>Art. 1&#xB0;<br>D.O. 09.08.2022</a></span>e se&#xF1;alan en el art&#xED;culo primero y que se incorporen al sistema de verificaci&#xF3;n de conformidad, quedan sometidos a verificaci&#xF3;n lote a lote.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1179781,
+      "fecha": "2023-02-10"
+    }
+  }
+]

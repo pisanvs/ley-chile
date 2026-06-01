@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1975-01-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-06-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10555883,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Susp&#xE9;ndese hasta el 31 de Diciembre de 1975 la vigencia del decreto supremo N&#xB0; 6, de 2 de Enero de 1975, del Ministerio de Transportes, publicado en el Diario Oficial el 4 de Enero del presente a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- Autorizase un reajuste de un 55% a las tarifas resultantes de aplicar las disposiciones del decreto supremo N&#xB0; 380, de 10 de Octubre de 1974, del Ministerio de Transportes, publicado en el Diario Oficial con fecha 14 de Octubre del mismo a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;.- Las tarifas de los fletes que se efect&#xFA;en en cada provincia o regi&#xF3;n del pa&#xED;s de acuerdo a los t&#xE9;rminos del art&#xED;culo 1&#xB0; del D.S. N&#xB0; 380, de 10 de Octubre de 1974, del Ministerio de Transportes, ser&#xE1;n reajustadas en un 55%, salvo que se hubiere pactado sistemas de reajuste para el periodo comprendido entre, el 14 de Octubre de 1974 y la publicaci&#xF3;n del presente decreto supremo, que determinen un aumento superior al reajuste indicado, en cuyo caso regir&#xE1; el valor convenido.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0;.- Para calcular el valor de los fletes efectuados dentro de las provincias de Aysen y Magallanes, se aplicar&#xE1; un coeficiente tonelada-kil&#xF3;metro &#xFA;nico de E&#xB0; 165.</div><div class=\"p\">&nbsp; &nbsp;  5&#xB0;.- Este decreto regir&#xE1; desde su publicaci&#xF3;n un el Diario Oficial, sin perjuicio de cumplirse con posterioridad con su tr&#xE1;mite de toma de raz&#xF3;n por parte de la Contralor&#xED;a General de la Rep&#xFA;blica, conforme a lo dispuesto en el art&#xED;culo l&#xB0; de la ley N&#xB0; 14.382.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Derogado<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=278801&amp;idParte=10555874&amp;idVersion=1975-06-13\">DTO 214<br>TRANSPORTES<br>Art. 1<br>D.O. 13.06.1975</a></span>.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- Autorizase un reajuste de un 55% a las tarifas resultantes de aplicar las disposiciones del decreto supremo N&#xB0; 380, de 10 de Octubre de 1974, del Ministerio de Transportes, publicado en el Diario Oficial con fecha 14 de Octubre del mismo a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0;.- Las tarifas de los fletes que se efect&#xFA;en en cada provincia o regi&#xF3;n del pa&#xED;s de acuerdo a los t&#xE9;rminos del art&#xED;culo 1&#xB0; del D.S. N&#xB0; 380, de 10 de Octubre de 1974, del Ministerio de Transportes, ser&#xE1;n reajustadas en un 55%, salvo que se hubiere pactado sistemas de reajuste para el periodo comprendido entre, el 14 de Octubre de 1974 y la publicaci&#xF3;n del presente decreto supremo, que determinen un aumento superior al reajuste indicado, en cuyo caso regir&#xE1; el valor convenido.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0;.- Para calcular el valor de los fletes efectuados dentro de las provincias de Aysen y Magallanes, se aplicar&#xE1; un coeficiente tonelada-kil&#xF3;metro &#xFA;nico de E&#xB0; 165.</div><div class=\"p\">&nbsp; &nbsp;  5&#xB0;.- Este decreto regir&#xE1; desde su publicaci&#xF3;n un el Diario Oficial, sin perjuicio de cumplirse con posterioridad con su tr&#xE1;mite de toma de raz&#xF3;n por parte de la Contralor&#xED;a General de la Rep&#xFA;blica, conforme a lo dispuesto en el art&#xED;culo l&#xB0; de la ley N&#xB0; 14.382.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 278801,
+      "fecha": "1975-06-13"
+    }
+  }
+]

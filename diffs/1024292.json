@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-04-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-04-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9130813,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, publ&#xED;quese en el Diario Oficial, en un diario o peri&#xF3;dico de circulaci&#xF3;n nacional y en la p&#xE1;gina web del Ministerio del Medio Ambiente, y arch&#xED;vese.- Mar&#xED;a Ignacia Ben&#xED;tez Pereira, Ministra del Medio Ambiente.</div><div class=\"p\">&nbsp; &nbsp;  Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Charif Tala Gonz&#xE1;lez, Jefe Departamento Recursos Naturales Renovables.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, publ&#xED;quese en el Diario Oficial, en un diario o peri&#xF3;dico de circulaci&#xF3;n nacional y en la p&#xE1;gina web del Ministerio del Medio Ambiente, y arch&#xED;vese.- Mar&#xED;a Ignacia Ben&#xED;tez Pereira, Ministra del Medio Ambiente.</div><div class=\"p\">&nbsp; &nbsp;  Lo<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1024702&amp;idParte=9134516&amp;idVersion=2011-04-20\">Aviso S/N, MEDIO AMBIENTE<br>D.O. 20.04.2011</a></span> que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Ricardo Irarr&#xE1;zabal S&#xE1;nchez, Subsecretario del Medio Ambiente.</div><br><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1024702,
+      "fecha": "2011-04-20"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1985-04-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-10-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1992-10-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9039353,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Modif&#xED;case el decreto supremo (Av.) N&#xB0; 801, de 2-Ago.-1979, en la siguiente forma:</div><div class=\"p\">&nbsp; &nbsp; 1.- Establ&#xE9;cese como asiento de Fiscal&#xED;a de Aviaci&#xF3;n la ciudad de Iquique.</div><div class=\"p\">&nbsp; &nbsp; 2.- Determ&#xED;nase como territorio jurisdiccional de la Fiscal&#xED;a de Aviaci&#xF3;n de Iquique las Regiones Ia. a IIIa. inclusive.</div><div class=\"p\">&nbsp; &nbsp; 3.- Elim&#xED;nase la ciudad de Antofagasta como asiento de Fiscal&#xED;a de Aviaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Modif&#xED;case el decreto supremo (Av.) N&#xB0; 801, de 2-Ago.-1979, en la siguiente forma:</div><div class=\"p\">&nbsp; &nbsp; 1.- Establ&#xE9;cese como asiento de Fiscal&#xED;a de Aviaci&#xF3;n la ciudad de Iquique.</div><div class=\"p\">&nbsp; &nbsp; 2.- Determ&#xED;nase como territorio jurisdiccional de la Fiscal&#xED;a de Aviaci&#xF3;n de Iquique las Regiones Ia. a IIIa. inclusive.</div><div class=\"p\">&nbsp; &nbsp; 3.- Elim&#xED;nase la ciudad de Antofagasta como asiento<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> de Fiscal&#xED;a de Aviaci&#xF3;n.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El N&#xB0; 1 del decreto supremo N&#xB0; 577, de la Subsecretar&#xED;a de Aviaci&#xF3;n, publicado en el &quot;Diario Oficial&quot; de 28 de octubre de 1992, cre&#xF3; la Fiscal&#xED;a de Aviaci&#xF3;n de Antofagasta, con asiento en dicha ciudad.<br>&nbsp; &nbsp; El N&#xB0; 2 del citado decreto supremo, determin&#xF3; como territorio jurisdiccional de la Fiscal&#xED;a de Aviaci&#xF3;n de Antofagasta, las Regiones IIa. y IIIa.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

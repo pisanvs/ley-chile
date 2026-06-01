@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-08-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-12-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8338701,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD RADES Y COMPA&#xD1;IA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. MODIFICA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD RADES Y COMPA&#xD1;IA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. MODIFICA RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

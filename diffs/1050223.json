@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-04-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-04-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9344417,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase emergencia sanitaria, en la macrozona n&#xFA;mero 6, conforme autoriza el art&#xED;culo 7 bis del decreto n&#xFA;mero 319, citado en Vistos.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase emergencia sanitaria, en la macrozona n&#xFA;mero 6<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>, conforme autoriza el art&#xED;culo 7 bis del decreto n&#xFA;mero 319, citado en Vistos.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo primero de la Resoluci&#xF3;n 861 Exenta, Econom&#xED;a, publicada el 26.04.2013, complementa la presente norma en el sentido de incorporar en la referida declaraci&#xF3;n a la ACS n&#xFA;mero 21 C.</div></div>"
+        }
+      ]
+    }
+  }
+]

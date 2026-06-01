@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2004-12-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-07-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6509792,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 534 de 8 de noviembre de 2004, ot&#xF3;rgase reconocimiento oficial a la Escuela de Conductores Profesionales Palermo&nbsp; M&nbsp; &amp;&nbsp; G&nbsp; Ltda., representada por don Luis Rodrigo Mora Su&#xE1;rez, para impartir los cursos conducentes a la obtenci&#xF3;n de licencia profesional clase A2, A3 y A4, en forma permanente, en la sede ubicada en calle Ignacio Carrera Pinto N&#xBA; 508, comuna de Parral, Regi&#xF3;n del Maule.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 534 de 8 de noviembre de 2004, ot&#xF3;rgase reconocimiento oficial a la Escuela de Conductores Profesionales Palermo&nbsp; M&nbsp; &amp;&nbsp; G&nbsp; Ltda., representada por don Luis Rodrigo Mora Su&#xE1;rez, para impartir los cursos conducentes a la obtenci&#xF3;n de licencia profesional clase A2, A3 y A4, en forma permanente, en la sede ubicada en calle<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1015079&amp;idParte=8942319&amp;idVersion=2010-07-07\">Resoluci&#xF3;n 489 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 07.07.2010</a></span> Matucana N&#xBA; 570, de Parral, Regi&#xF3;n del Maule.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1015079,
+      "fecha": "2010-07-07"
+    }
+  }
+]

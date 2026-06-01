@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-11-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-03-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9385294,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnase a contar de esta fecha, por razones impostergables de buen servicio, el siguiente orden de subrogaci&#xF3;n en el cargo de Subsecretario General de Gobierno, en caso de ausencia del titular:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Christian Schalper Schwencke, Director de la Divisi&#xF3;n de </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; Administraci&#xF3;n y Finanzas, Directivo, Titular, Grado 2 EUS.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Luis Andr&#xE9;s Venegas Rivas, Director de la Divisi&#xF3;n Secretar&#xED;a </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; de Comunicaci&#xF3;n y Cultura, Directivo, Titular, Grado 2 EUS.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Felipe Enrique Nazar Massuh, Jefe de la Unidad de Asesor&#xED;a </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; Jur&#xED;dica, Directivo, Titular, Grado 4 EUS.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto el <a href=\"https://www.leychile.cl/Navegar?idNorma=1032956&amp;idParte=&amp;idVersion=\">decreto exento N&#xBA; 477, de 14 de octubre de 2011, del Ministerio Secretar&#xED;a General de Gobierno.</a></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnase a contar de esta fecha, por razones impostergables de buen servicio, el siguiente orden de subrogaci&#xF3;n en el cargo de Subsecretario General de Gobierno, en caso de ausencia del titular:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Christian Schalper Schwencke, Director de la Divisi&#xF3;n de Administraci&#xF3;n y Finanzas, Directivo, Titular, Grado 2 EUS.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Luis Andr&#xE9;s Venegas Rivas, Director de la Divisi&#xF3;n Secretar&#xED;a de Comunicaci&#xF3;n y Cultura, Directivo, Titular, Grado 2 EUS.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Felipe Enrique Nazar Massuh, Jefe de la Unidad de Asesor&#xED;a Jur&#xED;dica, Directivo, Titular, Grado 4 EUS.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0; Ximena Andrea Mardones Taladriz, Coordinadora <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1060080&amp;idParte=9412543&amp;idVersion=2014-03-06\">Decreto 39 EXENTO,<br>SEC. GRAL. GOB.<br>N&#xB0; 1<br>D.O. 06.03.2014</a></span>Administrativa de la Divisi&#xF3;n Secretar&#xED;a de Comunicaci&#xF3;n y Cultura, Directivo Titular, Grado 4 E.U.S.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto el decreto exento N&#xBA; 477, de 14 de octubre de 2011, del Ministerio Secretar&#xED;a General de Gobierno.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1060080,
+      "fecha": "2014-03-06"
+    }
+  }
+]

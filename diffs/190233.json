@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7286119,
+          "old": "<div><div class=\"p\">AUTORIZA A DON DOMINGO EXEQUIEL HERRERA VALENZUELA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON DOMINGO EXEQUIEL HERRERA VALENZUELA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

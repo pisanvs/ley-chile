@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-06-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-07-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8345475,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: Fac&#xFA;ltase, en el caso del menor Mario Esteban Valenzuela Cabrera, a do&#xF1;a Marisa Andrea Becerra Cabrera, Rut. 9.165.673-6, madre del beneficiario; en el caso de Fabi&#xE1;n Roberto Calvio Pereira, a do&#xF1;a Luisa Beatriz Astudillo M&#xE9;ndez, Rut.</div><div class=\"p\">7.076.708-2, abuela del beneficiario; en el caso de la menor Marioly Roc&#xED;o de Lourdes Roa Letelier, a do&#xF1;a Mar&#xED;a Victoria Letelier Carter, Rut. 9.070.361-7, madre de la beneficiaria; en el caso de las menores Carolina Andrea y Madelin Giselle Campusano Araya, a do&#xF1;a Rosa Mar&#xED;a Araya Varas, Rut. 9.545.092-K, madre de las beneficiarias; para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: Fac&#xFA;ltase, en el caso del menor Mario Esteban Valenzuela Cabrera, a do&#xF1;a Marisa Andrea<span class=\"n\" id=\"n_0\">DTO 3803, INTERIOR<br>D.O. 19.07.1999</span> Cabrera Becerra, Rut. 9.165.673-6, madre del beneficiario; en el caso de Fabi&#xE1;n Roberto Calvio Pereira, a do&#xF1;a Luisa Beatriz Astudillo M&#xE9;ndez, Rut. 7.076.708-2, abuela del beneficiario; en el caso de la menor Marioly Roc&#xED;o de Lourdes Roa Letelier, a do&#xF1;a Mar&#xED;a Victoria Letelier Carter, Rut. 9.070.361-7, madre de la beneficiaria; en el caso de las menores Carolina Andrea y Madelin Giselle Campusano Araya, a do&#xF1;a Rosa Mar&#xED;a Araya Varas, Rut. 9.545.092-K, madre de las beneficiarias; para cobrar la pensi&#xF3;n en su representaci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

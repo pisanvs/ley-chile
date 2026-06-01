@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-04-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-04-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8949565,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Por decreto supremo exento de Educaci&#xF3;n N&#xBA; 271 de 13 de marzo de 1997, se ha aprobado al &quot;Colegio Brit&#xE1;nico St. Margaret&apos;s&quot; de Vi&#xF1;a del Mar, un plan de estudio para los cursos de 1&#xBA; a 4&#xBA; a&#xF1;o de ense&#xF1;anza b&#xE1;sica, que se comenzar&#xE1;n a aplicar a partir del a&#xF1;o escolar 1997.</div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, se aprueban programas de estudio de las asignaturas (Subsectores de Aprendizaje) Lenguaje y Comunicaci&#xF3;n; Ingl&#xE9;s; Matem&#xE1;tica; Estudio y Comprensi&#xF3;n del Medio Natural; Estudio y Comprensi&#xF3;n del Medio Social y Cultural; Educaci&#xF3;n F&#xED;sica; Orientaci&#xF3;n; Educaci&#xF3;n Tecnol&#xF3;gica; Educaci&#xF3;n Art&#xED;stica; Educaci&#xF3;n Musical.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Por decreto supremo exento de Educaci&#xF3;n N&#xBA; 271 de<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> 13 de marzo de 1997, se ha aprobado al &quot;Colegio Brit&#xE1;nico St. Margaret&apos;s&quot; de Vi&#xF1;a del Mar, un plan de estudio para los cursos de 1&#xBA; a 4&#xBA; a&#xF1;o de ense&#xF1;anza b&#xE1;sica, que se comenzar&#xE1;n a aplicar a partir del a&#xF1;o escolar 1997.</div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, se aprueban programas de estudio de las asignaturas (Subsectores de Aprendizaje) Lenguaje y Comunicaci&#xF3;n; Ingl&#xE9;s; Matem&#xE1;tica; Estudio y Comprensi&#xF3;n del Medio Natural; Estudio y Comprensi&#xF3;n del Medio Social y Cultural; Educaci&#xF3;n F&#xED;sica; Orientaci&#xF3;n; Educaci&#xF3;n Tecnol&#xF3;gica; Educaci&#xF3;n Art&#xED;stica; Educaci&#xF3;n Musical.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 1267 Exento, Educaci&#xF3;n, publicado el 28.04.1998, complementa el presente decreto.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

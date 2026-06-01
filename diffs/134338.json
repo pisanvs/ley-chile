@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-06-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6161986,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 253, DE 1998</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.- Coyhaique, 8 de enero de 1999.- Vistos estos antecedentes: resoluciones N&#xBA; 116 de fecha 4 de junio de 1998 y N&#xBA; 253 de fecha 23 de septiembre de 1998, ambas del Director del Servicio de Salud Ays&#xE9;n, las cuales establecen sectores autorizados de extracci&#xF3;n y condiciones para la comercializaci&#xF3;n de mariscos bivalvos y Picorocos en la XI Regi&#xF3;n; Protocolos de An&#xE1;lisis Toxicol&#xF3;gico N&#xBA; 530, 552, 559, 571, 585-A y 588, emitidos entre el 06/11/98 y el 30/12/98, todos ellos del Laboratorio de Marea Roja del Servicio de Salud Ays&#xE9;n, los cuales arrojan resultados negativos a Veneno Diarreico de los Mariscos (V.D.M.) en el recurso Cholga (Aulacomya ater), procedente de diferentes sectores del litoral de Ra&#xFA;l Mar&#xED;n Balmaceda; lo informado por el Departamento de Programas sobre el Ambiente; teniendo presente lo dispuesto en el C&#xF3;digo Sanitario; Nuevo Reglamento Sanitario de los Alimentos, decreto supremo N&#xBA; 977/97; decreto supremo N&#xBA; 42/86 del MINSAL; resoluci&#xF3;n N&#xBA; 520/96 de la Contralor&#xED;a General de la Rep&#xFA;blica, modificada por resoluci&#xF3;n N&#xBA; 488/97 y en uso de las facultades que me confiere el decreto ley N&#xBA; 2.763/79, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 253, DE 1998</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.- Coyhaique, 8 de enero de 1999.- Vistos estos antecedentes: resoluciones N&#xBA; 116 de fecha 4 de junio de 1998 y N&#xBA; 253 de fecha 23 de septiembre de 1998, ambas del Director del Servicio de Salud Ays&#xE9;n, las cuales establecen sectores autorizados de extracci&#xF3;n y condiciones para la comercializaci&#xF3;n de mariscos bivalvos y Picorocos en la XI Regi&#xF3;n; Protocolos de An&#xE1;lisis Toxicol&#xF3;gico N&#xBA; 530, 552, 559, 571, 585-A y 588, emitidos entre el 06/11/98 y el 30/12/98, todos ellos del Laboratorio de Marea Roja del Servicio de Salud Ays&#xE9;n, los cuales arrojan resultados negativos a Veneno Diarreico de los Mariscos (V.D.M.) en el recurso Cholga (Aulacomya ater), procedente de diferentes sectores del litoral de Ra&#xFA;l Mar&#xED;n Balmaceda; lo informado por el Departamento de Programas sobre el Ambiente; teniendo presente lo dispuesto en el C&#xF3;digo Sanitario; Nuevo Reglamento Sanitario de los Alimentos, decreto supremo N&#xBA; 977/97; decreto supremo N&#xBA; 42/86 del MINSAL; resoluci&#xF3;n N&#xBA; 520/96 de la Contralor&#xED;a General de la Rep&#xFA;blica, modificada por resoluci&#xF3;n N&#xBA; 488/97 y en uso de las facultades que me confiere el decreto ley N&#xBA; 2.763/79, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

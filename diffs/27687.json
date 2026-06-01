@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1960-10-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7175467,
+          "old": "<div><div class=\"p\">CONCEDE A LOS EX PARLAMENTARIOS LOS BENEFICIOS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">CONCEDE A LOS EX PARLAMENTARIOS LOS BENEFICIOS QUE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> INDICA</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 78 de la LEY 18899, publicada el 30.12.1989, derog&#xF3; la presente ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1980-02-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1980-03-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8343923,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Recon&#xF3;cese, por gracia, para todos los efectos legales y en especial para su jubilaci&#xF3;n a las personas que se se&#xF1;alan el tiempo que en cada caso se indica:</div><div class=\"p\">&nbsp; &nbsp;  1.-Do&#xF1;a Mar&#xED;a Delfina Barra Morales, desde el 10 de Enero de 1953 y el 30 de Abril de 1954.</div><div class=\"p\">&nbsp; &nbsp;  2.- Don Luis Humberto Gahona Molina, desde el 5 de Enero y el 31 de Marzo de 1947; entre el 26 de Enero al 28 de Febrero de 1948.</div><div class=\"p\">&nbsp; &nbsp;  Las imposiciones correspondientes a dichos per&#xED;odos ser&#xE1;n de cargo de cada interesado y la Caja Nacional de Empleados P&#xFA;blicos y Periodistas proceder&#xE1; a recibirlas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Recon&#xF3;cese, por gracia, para todos los efectos legales y en especial para su jubilaci&#xF3;n a las personas que se se&#xF1;alan el tiempo que en cada caso se indica: 1.-Do&#xF1;a Mar&#xED;a Delfina Barra Morales, desde el 10</div><div class=\"p\">de Enero de 1953 y el 30 de Abril de 1954.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 2.- Don Luis Alberto Gahona Molina, desde el 5<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 05.03.1980</span></div><div class=\"p\"> de Enero y el 31 de Marzo de 1947; entre el 26 de</div><div class=\"p\">Enero al 28 de Febrero de 1948.</div><div class=\"p\">&nbsp; &nbsp;  Las imposiciones correspondientes a dichos per&#xED;odos</div><div class=\"p\">ser&#xE1;n de cargo de cada interesado y la Caja Nacional</div><div class=\"p\">de Empleados P&#xFA;blicos y Periodistas proceder&#xE1; a</div><div class=\"p\">recibirlas.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

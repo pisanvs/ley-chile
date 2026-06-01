@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2003-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8046250,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: La superficie, especificaciones, condiciones especiales y tipo de los elementos publicitarios, ser&#xE1;n los que se indican en las tablas del presente art&#xED;culo, conforme a las zonas de uso de suelo en que se emplazan.</div><div class=\"p\">&nbsp; &nbsp;  Los elementos no contemplados en dichas tablas para cada zona, se encuentran prohibidos.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: La superficie, especificaciones, condiciones especiales y tipo de los elementos publicitarios, ser&#xE1;n los que se indican en las tablas del presente art&#xED;culo, conforme a las zonas de uso de suelo en que se emplazan.</div><div class=\"p\">&nbsp; &nbsp;  Los elementos no contemplados en dichas tablas para cada zona, se encuentran prohibidos.</div><div class=\"p\">TABLA A - SECTOR DE PROPAGANDA PERMITIDA PARA ELEMENTOS<span class=\"n\" id=\"n_0\">DTO 4,<br>M. DE VITACURA<br>N&#xBA; 1<br>D.O. 08.01.2004</span> PERMANENTES</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; VER DIARIO OFICIAL DE 08.01.2004, P&#xC1;GINA <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div>9.</div><br><br><div class=\"p\">TABLA B - SECTOR DE PROPAGANDA LIMITADA PARA ELEMENTOS PERMANENTES</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 08.01.2004, P&#xC1;GINA 10.</div><br><br><div class=\"p\">TABLA C - SECTOR DE PROPAGANDA RESTRINGIDA PARA ELEMENTOS PERMANENTES</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 08.01.2004, P&#xC1;GINA 10.</div><br><br><div class=\"p\">TABLA D - SECTOR DE PROPAGANDA PERMITIDA PARA ELEMENTOS PROVISORIOS</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 08.01.2004, P&#xC1;GINA 10.</div><br><br><div class=\"p\">TABLA D - SECTOR DE PROPAGANDA PERMITIDA PARA ELEMENTOS PROVISORIOS</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 08.01.2004, P&#xC1;GINA 10.</div><br><br><div class=\"p\">TABLA E - PROPAGANDA LIMITADA Y RESTRINGIDA PARA ELEMENTOS PROVISORIOS</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 08.01.2004, P&#xC1;GINA 10 Y 11.</div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1&#xBA; del DTO 4, M. de Vitacura, publicada el 08.01.2004, modific&#xF3; la presente norma, en el sentido de incorporar las tablas que la citada norma indica. Por problemas t&#xE9;cnicos temporales no se ha incorporado el contendido de dichas tablas en el presente texto actualizado.<br></div></div>"
+        },
+        {
+          "part_id": 8046259,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xBA;: Toda infracci&#xF3;n o inobservancia de esta ordenanza facultar&#xE1; al municipio para decretar el retiro del elemento respectivo, sin perjuicio de la denuncia al Juzgado de Polic&#xED;a Local, quien estar&#xE1; facultado para aplicar una multa de hasta 5 UTM.</div><div class=\"p\">&nbsp; &nbsp;  De no acatarse el retiro del elemento dispuesto por el municipio, &#xE9;ste comunicar&#xE1; dicha situaci&#xF3;n al Juzgado de Polic&#xED;a Local para quien &#xE9;ste disponga el retiro con auxilio de la fuerza p&#xFA;blica, a costa del contribuyente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xBA;: Toda infracci&#xF3;n o inobservancia de esta ordenanza facultar&#xE1; al municipio para decretar el retiro del elemento respectivo, sin perjuicio de la denuncia al Juzgado de Polic&#xED;a Local, quien estar&#xE1; facultado para aplicar una multa de hasta 5 UTM.</div><div class=\"p\">&nbsp; &nbsp;  De no acatarse el retiro del elemento dispuesto<span class=\"n\" id=\"n_2\">DTO 4,<br>M. DE VITACURA<br>N&#xBA; 2<br>D.O. 08.01.2004</span> por el municipio, &#xE9;ste comunicar&#xE1; dicha situaci&#xF3;n al Juzgado de Polic&#xED;a Local para que &#xE9;ste disponga el retiro con auxilio de la fuerza p&#xFA;blica, a costa del contribuyente.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

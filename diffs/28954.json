@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1970-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1971-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9046076,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;.- Decl&#xE1;rase que los &#xED;tem de los presupuestos de las Instituciones de Previsi&#xF3;n Social, que se destinan al pago de beneficios establecidos en las leyes han sido y son excedibles.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;.- Decl&#xE1;rase que los &#xED;tem de los presupuestos de las Instituciones de Previsi&#xF3;n Social, que se destinan al pago de beneficios previsional<span class=\"n\" id=\"n_0\">LEY 17399<br>Art. 119</span> establecidos en las leyes han sido y son excedibles.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

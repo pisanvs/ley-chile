@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316901,
+          "old": "<div><br><div class=\"p\">AUTORIZA A SARPESCA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS.</div><div class=\"p\"> DENIEGA AUTORIZACIONES QUE INDICA</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SARPESCA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

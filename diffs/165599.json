@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-02-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6265126,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD PRODUCTOS MARINOS SEAWEEDS LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD PRODUCTOS MARINOS SEAWEEDS LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1963-03-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1963-10-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7285041,
+          "old": "<div><div class=\"p\">RECTIFICA EL DECRETO N&#xB0; 4.790, DE 27 DE NOVIEMBRE DE 1962</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 25 de Febrero de 1963.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 549.- Vistos: el oficio N.o 221, de 5 de Febrero del a&#xF1;o en curso, del Ministerio de Agricultura, y el decreto de Hacienda N.o 4.790, de 27 de Noviembre de 1962,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">RECTIFICA EL DECRETO N&#xB0; 4.790, DE 27 DE NOVIEMBRE DE 1962</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 25 de Febrero de 1963.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 549.- Vistos: el oficio N.o 221, de 5 de Febrero del a&#xF1;o en curso, del Ministerio de Agricultura, y el decreto de Hacienda N.o 4.790, de 27 de Noviembre de 1962,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

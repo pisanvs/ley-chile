@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-04-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-07-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9903760,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Autor&#xED;zase la postergaci&#xF3;n de permisos de construcciones de m&#xE1;s de 25 m de altura, por un per&#xED;odo de tres meses, en la zona C, seg&#xFA;n pol&#xED;gono A-B-C-D-E-F-A, y la zona SLM, Seccional Lo Moreno, seg&#xFA;n pol&#xED;gono G-H-I-J-G, zonas graficadas en la l&#xE1;mina 1; y, deja sin efecto decreto alcaldicio N&#xB0; 1.745, de 19.10.17, y decreto alcaldicio N&#xB0; 121, de 18.01.18.</div><div class=\"p\">&nbsp; &nbsp;  Instr&#xFA;yase a la Direcci&#xF3;n de Administraci&#xF3;n y Finanzas (Departamento de Contratos y Suministros) para proceder a la publicaci&#xF3;n de este instrumento en el Diario Oficial y en alg&#xFA;n diario de los de mayor circulaci&#xF3;n en la comuna, a la brevedad posible.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Autor&#xED;zase la postergaci&#xF3;n de <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>permisos de construcciones de m&#xE1;s de 25 m de altura, por un per&#xED;odo de tres meses, en la zona C, seg&#xFA;n pol&#xED;gono A-B-C-D-E-F-A, y la zona SLM, Seccional Lo Moreno, seg&#xFA;n pol&#xED;gono G-H-I-J-G, zonas graficadas en la l&#xE1;mina 1; y, deja sin efecto decreto alcaldicio N&#xB0; 1.745, de 19.10.17, y decreto alcaldicio N&#xB0; 121, de 18.01.18.</div><div class=\"p\">&nbsp; &nbsp;  Instr&#xFA;yase a la Direcci&#xF3;n de Administraci&#xF3;n y Finanzas (Departamento de Contratos y Suministros) para proceder a la publicaci&#xF3;n de este instrumento en el Diario Oficial y en alg&#xFA;n diario de los de mayor circulaci&#xF3;n en la comuna, a la brevedad posible.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1889 Exenta, Vivienda, publicada el 06.07.2018, modifica la presente norma en el sentido de prorrogar la postergaci&#xF3;n de permisos de edificaci&#xF3;n por un plazo de seis meses correspondiente al pol&#xED;gono que se indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

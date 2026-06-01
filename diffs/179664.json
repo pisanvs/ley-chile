@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-10-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9052176,
+          "old": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA ERMAR SOCIEDAD ANONIMA PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EMPRESA PESQUERA ERMAR SOCIEDAD ANONIMA PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

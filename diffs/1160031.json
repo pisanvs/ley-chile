@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-05-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-08-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10228688,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.- &#xC1;mbito de aplicaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El presente reglamento se aplicar&#xE1; respecto de los adolescentes con edad para trabajar que realizan trabajo adolescente protegido y de los adolescentes con o sin edad para trabajar que, en contravenci&#xF3;n a lo establecido en el Cap&#xED;tulo II del T&#xED;tulo I del Libro I del C&#xF3;digo del Trabajo, realicen trabajos peligrosos.</div><div class=\"p\">&nbsp; &nbsp;  Se aplicar&#xE1; tambi&#xE9;n a los ni&#xF1;os, ni&#xF1;as y adolescentes sin edad para trabajar que, de acuerdo con el inciso final del art&#xED;culo 13 y el art&#xED;culo 16 del C&#xF3;digo del Trabajo, en casos debidamente calificados, cumpliendo con los requisitos del art&#xED;culo 14 del mismo cuerpo legal y contando con la correspondiente autorizaci&#xF3;n del Tribunal de Familia competente, celebren contratos para participar en espect&#xE1;culos de teatro, cine, radio, televisi&#xF3;n, circo u otras actividades similares, debiendo el empleador adoptar las medidas de protecci&#xF3;n eficaz para proteger su vida y salud f&#xED;sica y mental.</div><div class=\"p\">&nbsp; &nbsp;  Queda prohibido que todos los ni&#xF1;os, ni&#xF1;as y adolescentes, con o sin edad para trabajar, realicen trabajos peligrosos.&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  El presente reglamento no ser&#xE1; aplicable a la prestaci&#xF3;n de servicios a que se refiere el inciso tercero del art&#xED;culo 8 del C&#xF3;digo del Trabajo. Con todo, las personas que sean alumnos o egresados de una instituci&#xF3;n de educaci&#xF3;n superior o de la ense&#xF1;anza media t&#xE9;cnico-profesional, no podr&#xE1;n desarrollar en su pr&#xE1;ctica profesional actividades que este reglamento establezca como trabajo peligroso.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.- &#xC1;mbito de aplicaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El presente reglamento se aplicar&#xE1; respecto de los adolescentes con edad para trabajar que realizan trabajo adolescente protegido y de los adolescentes con o sin edad para trabajar que, en contravenci&#xF3;n a lo establecido en el Cap&#xED;tulo II del T&#xED;tulo I del Libro I del C&#xF3;digo del Trabajo, realicen trabajos peligrosos.</div><div class=\"p\">&nbsp; &nbsp;  Se aplicar&#xE1; tambi&#xE9;n a los ni&#xF1;os, ni&#xF1;as y adolescentes sin edad para trabajar que, de acuerdo con el inciso final del art&#xED;culo 13 y el art&#xED;culo 16 del C&#xF3;digo del Trabajo, en casos debidamente calificados, cumpliendo con los requisitos del art&#xED;culo 14 del mismo cuerpo legal y contando con la correspondiente autorizaci&#xF3;n del Tribunal de Familia competente, celebren contratos para participar en espect&#xE1;culos de teatro, cine, radio, televisi&#xF3;n, circo u otras actividades similares, debiendo el empleador adoptar las medidas de protecci&#xF3;n eficaz para proteger su vida y salud f&#xED;sica y mental.</div><div class=\"p\">&nbsp; &nbsp;  Queda prohibido que todos los ni&#xF1;os, ni&#xF1;as y adolescentes, con o sin edad para trabajar, realicen trabajos peligrosos.&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  El <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1164290&amp;idParte=10263834&amp;idVersion=2021-08-31\">Decreto 35, TRABAJO<br>D.O. 31.08.2021</a></span>presente reglamento no ser&#xE1; aplicable a la prestaci&#xF3;n de servicios a que se refiere el inciso tercero del art&#xED;culo 8 del C&#xF3;digo del Trabajo. Con todo, los adolescentes, alumnos o egresados, no podr&#xE1;n desarrollar en su pr&#xE1;ctica profesional las actividades indicadas en este reglamento, si no se garantiza la protecci&#xF3;n de su salud y seguridad, y si no existe supervisi&#xF3;n directa de la actividad a desarrollar, por parte de una persona de la empresa en que realiza la pr&#xE1;ctica, con experiencia en dicha actividad, lo que deber&#xE1; ser controlado por el responsable nombrado por el respectivo establecimiento t&#xE9;cnico de formaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1164290,
+      "fecha": "2021-08-31"
+    }
+  }
+]

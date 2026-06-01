@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-11-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1980-12-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9089759,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS SOBRE DIVISION DE PREDIOS RUSTICOS N&#xFA;m. 752.- Santiago, 11 de Noviembre de 1974.- Vistos: Lo establecido en los decretos leyes N&#xB0;s. 1 y 128, de 1973, y 527, de 1974, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que el desarrollo agr&#xED;cola es preocupaci&#xF3;n prioritaria del Supremo Gobierno;</div><div class=\"p\">&nbsp; &nbsp; 2.- Que en este momento existe un mercado de tierras limitado, y</div><div class=\"p\">&nbsp; &nbsp; 3.- Que una de las causas que limitan la comercializaci&#xF3;n de tierras obedece al sistema jur&#xED;dico aplicable a la divisi&#xF3;n de los predios r&#xFA;sticos.</div><div class=\"p\">&nbsp; &nbsp; La H. Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado y dicta el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS SOBRE DIVISION DE PREDIOS RUSTICOS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 752.- Santiago, 11 de Noviembre de 1974.-</div><div class=\"p\">Vistos: Lo establecido en los decretos leyes N&#xB0;s. 1 y 128, de 1973, y 527, de 1974, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que el desarrollo agr&#xED;cola es preocupaci&#xF3;n prioritaria del Supremo Gobierno;</div><div class=\"p\">&nbsp; &nbsp; 2.- Que en este momento existe un mercado de tierras limitado, y</div><div class=\"p\">&nbsp; &nbsp; 3.- Que una de las causas que limitan la comercializaci&#xF3;n de tierras obedece al sistema jur&#xED;dico aplicable a la divisi&#xF3;n de los predios r&#xFA;sticos.</div><div class=\"p\">&nbsp; &nbsp; La H. Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado y dicta el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DL 3516, Agricultura, publicado el 01.12.1980, derog&#xF3; el presente decreto ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

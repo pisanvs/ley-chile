@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6698081,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 444, DE 2005. APRUEBA REGLAMENTO ESPECIFICO PARA LA ACREDITACION DE TERCEROS PARA LA REALIZACION DE LABORES EN AREAS BAJO CONTROL OFICIAL DE SIREX NOCTILIO Y DEROGA RESOLUCION N&#xBA; 3.083 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 444, DE 2005. APRUEBA REGLAMENTO ESPECIFICO PARA LA ACREDITACION DE TERCEROS PARA LA REALIZACION DE LABORES EN AREAS BAJO CONTROL OFICIAL DE SIREX NOCTILIO Y DEROGA RESOLUCION N&#xBA; 3.083 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

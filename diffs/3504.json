@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1981-06-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8987765,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; TITULO I {ARTS. 5-7}</div><div class=\"p\">&nbsp; &nbsp; Del ingreso al Servicio y Contrataciones</div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5.- La provisi&#xF3;n de los empleos del Servicio Nacional de Geolog&#xED;a y Miner&#xED;a, se har&#xE1; por Resoluci&#xF3;n del Director Nacional.</div><div class=\"p\">&nbsp; &nbsp; Para ingresar al Servicio deber&#xE1; cumplirse con los siguientes requisitos:</div><div class=\"p\">&nbsp; &nbsp; a) Ser chileno. No obstante lo anterior, el Director Nacional podr&#xE1; contratar extranjeros para el desempe&#xF1;o de funciones que requieran de conocimientos t&#xE9;cnicos, cient&#xED;ficos o especializados. En cualquier caso, a lo menos el 85% del total de los empleados que sirvan en el Servicio, deber&#xE1;n ser de nacionalidad chilena;</div><div class=\"p\">&nbsp; &nbsp; b) Poseer idoneidad moral calificada por el Director Nacional. No haber sido condenado por resoluci&#xF3;n ejecutoriada ni estar encargado reo en proceso por crimen o simple delito o por infracci&#xF3;n a las leyes sobre Seguridad Interior del Estado, de Aduanas o de Cambios Internacionales o no encontrarse o no haber sido suspendido en virtud de resoluci&#xF3;n dictada en sumario administrativo instruido en servicios semifiscales, de administraci&#xF3;n aut&#xF3;noma, municipales, de beneficencia, empresas del Estado u otros organismos estatales, salvo que haya mediado sobreseimiento definitivo, sentencia absolutoria o decreto de rehabilitaci&#xF3;n, en su caso;</div><div class=\"p\">&nbsp; &nbsp; c) Someterse a las pruebas de capacidad y competencia que el Servicio establesca y ser aprobado en ellas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TITULO I {ARTS. 5-7}</div><div class=\"p\">&nbsp; &nbsp;  Del ingreso al Servicio y Contrataciones</div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5.- La provisi&#xF3;n de los empleos del Servicio Nacional de Geolog&#xED;a y Miner&#xED;a, se har&#xE1; por Resoluci&#xF3;n del Director Nacional.</div><div class=\"p\">&nbsp; &nbsp; Para ingresar al Servicio deber&#xE1; cumplirse con los siguientes requisitos:</div><div class=\"p\">&nbsp; &nbsp; a) Ser chileno. No obstante lo anterior, el Director Nacional podr&#xE1; contratar extranjeros para el desempe&#xF1;o de funciones que requieran de conocimientos t&#xE9;cnicos, cient&#xED;ficos o especializados. En cualquier caso, a lo menos el 85% del total de los empleados que sirvan en el Servicio, deber&#xE1;n ser de nacionalidad chilena;</div><div class=\"p\">&nbsp; &nbsp; b) Poseer idoneidad moral calificada por el Director Nacional. No haber sido condenado por resoluci&#xF3;n ejecutoriada ni estar encargado reo en proceso por<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> crimen o simple delito o por infracci&#xF3;n a las leyes sobre Seguridad Interior del Estado, de Aduanas o de Cambios Internacionales o no encontrarse o no haber sido suspendido en virtud de resoluci&#xF3;n dictada en sumario administrativo instruido en servicios semifiscales, de administraci&#xF3;n aut&#xF3;noma, municipales, de beneficencia, empresas del Estado u otros organismos estatales, salvo que haya mediado sobreseimiento definitivo, sentencia absolutoria o decreto de rehabilitaci&#xF3;n, en su caso;</div><div class=\"p\">&nbsp; &nbsp; c) Someterse a las pruebas de capacidad y competencia que el Servicio establezca y ser aprobado en ellas.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 9&#xBA; de la LEY 19047, modificado por las leyes 19114 y 19158, orden&#xF3; sustituir la palabra &quot;reo&quot; por las expresiones &quot; procesado&quot;, &quot;inculpado&quot;, &quot;condenado&quot;, &quot;demandado&quot; o &quot;ejecutado&quot; o bien mantenerse seg&#xFA;n corresponda.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

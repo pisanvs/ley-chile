@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-03-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-03-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10109885,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;ranse como zonas afectadas por la cat&#xE1;strofe generada por la propagaci&#xF3;n del Covid-19, y por un plazo de doce meses, las 346 comunas correspondientes a las 16 regiones del pa&#xED;s, esto es, Tarapac&#xE1;, Antofagasta, Atacama, Coquimbo, Valpara&#xED;so, del Libertador General Bernardo O&apos;Higgins, Maule, Biob&#xED;o, La Araucan&#xED;a, Los Lagos, Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo, Magallanes y de la Ant&#xE1;rtica Chilena, Metropolitana de Santiago, Los R&#xED;os, Arica y Parinacota y &#xD1;uble. </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;ranse como zonas afectadas por la cat&#xE1;strofe generada por la propagaci&#xF3;n del Covid-19, y por un plazo de doce meses<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>, las 346 comunas correspondientes a las 16 regiones del pa&#xED;s, esto es, Tarapac&#xE1;, Antofagasta, Atacama, Coquimbo, Valpara&#xED;so, del Libertador General Bernardo O&apos;Higgins, Maule, Biob&#xED;o, La Araucan&#xED;a, Los Lagos, Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo, Magallanes y de la Ant&#xE1;rtica Chilena, Metropolitana de Santiago, Los R&#xED;os, Arica y Parinacota y &#xD1;uble. </div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico del Decreto 76, Interior, publicado el 22.03.2021, dispone extender la vigencia del presente decreto por un plazo de seis meses, contados desde el vencimiento del plazo indicado en el presente art&#xED;culo primero.</div></div>"
+        }
+      ]
+    }
+  }
+]

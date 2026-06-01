@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-06-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8910223,
+          "old": "<div><div class=\"p\">RATIFICA Y MANTIENE PUNTOS 1 Y 2 DE RESOLUCION N&#xBA; 116, DE 1998, DEL SERVICIO DE SALUD AYSEN</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 654.- Puerto Montt, 9 de junio de 1998.- Vistos estos antecedentes: La resoluci&#xF3;n sanitaria N&#xBA;116 del 4 de junio de 1998 del Servicio de Salud Ays&#xE9;n, por la cual autoriza a contar de esa fecha la extracci&#xF3;n, transporte, elaboraci&#xF3;n, comercializaci&#xF3;n y consumo de mariscos bivalvos y Picorocos desde los 44&#xB0;00 Sur al Norte, y dado que los an&#xE1;lisis toxicol&#xF3;gicos realizados en el Laboratorio de Marea Roja de ese Servicio han informado que no se detecta la presencia de Veneno Diarr&#xE9;ico en Mariscos y Veneno Paral&#xED;tico en Mariscos y la necesidad de fijar en este Servicio de Salud Llanquihue, Chilo&#xE9;, Palena un puerto de desembarco para todos los mariscos provenientes de zona libre de marea roja de la XI Regi&#xF3;n, y mantener los controles sanitarios para evitar el riesgo de consumo de productos contaminados con el fen&#xF3;meno de Marea Roja, y Teniendo Presente: lo dispuesto en el decreto ley N&#xBA;2.763/79, decreto supremo N&#xBA;42/86, Org&#xE1;nico de los Servicios de Salud, decreto supremo N&#xBA;523/96 del Ministerio de Salud, y lo previsto en el art&#xED;culo 3, 108, y siguientes del C&#xF3;digo Sanitario y art&#xED;culos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos aprobado por decreto supremo N&#xBA;977 de 1996 del Ministerio de Salud, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">RATIFICA Y MANTIENE PUNTOS 1 Y 2 DE RESOLUCION N&#xBA; 116, DE 1998, DEL SERVICIO DE SALUD AYSEN</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 654.- Puerto Montt, 9 de junio de 1998.- Vistos estos antecedentes: La resoluci&#xF3;n sanitaria N&#xBA;116 del 4 de junio de 1998 del Servicio de Salud Ays&#xE9;n, por la cual autoriza a contar de esa fecha la extracci&#xF3;n, transporte, elaboraci&#xF3;n, comercializaci&#xF3;n y consumo de mariscos bivalvos y Picorocos desde los 44&#xB0;00 Sur al Norte, y dado que los an&#xE1;lisis toxicol&#xF3;gicos realizados en el Laboratorio de Marea Roja de ese Servicio han informado que no se detecta la presencia de Veneno Diarr&#xE9;ico en Mariscos y Veneno Paral&#xED;tico en Mariscos y la necesidad de fijar en este Servicio de Salud Llanquihue, Chilo&#xE9;, Palena un puerto de desembarco para todos los mariscos provenientes de zona libre de marea roja de la XI Regi&#xF3;n, y mantener los controles sanitarios para evitar el riesgo de consumo de productos contaminados con el fen&#xF3;meno de Marea Roja, y Teniendo Presente: lo dispuesto en el decreto ley N&#xBA;2.763/79, decreto supremo N&#xBA;42/86, Org&#xE1;nico de los Servicios de Salud, decreto supremo N&#xBA;523/96 del Ministerio de Salud, y lo previsto en el art&#xED;culo 3, 108, y siguientes del C&#xF3;digo Sanitario y art&#xED;culos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos aprobado por decreto supremo N&#xBA;977 de 1996 del Ministerio de Salud, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

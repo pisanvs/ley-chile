@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-09-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-04-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7332387,
+          "old": "<div><div class=\"p\">ESTABLECE SUBROGANCIA DEL DIRECTOR DE PLANIFICACION </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 116.- Santiago, 21 de julio de 2006.- Vistos: Los art&#xED;culos 4&#xBA; y 81 de la ley N&#xBA; 18.834, cuyo texto refundido fue fijado por el DFL N&#xBA; 29 del Ministerio de Hacienda; el DFL N&#xBA;161 de 1978, del Ministerio de Relaciones Exteriores; la resoluci&#xF3;n N&#xBA; 520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que para un mejor ordenamiento, se hace necesario establecer la subrogaci&#xF3;n del Director de Planificaci&#xF3;n en los per&#xED;odos que, por cualquier causa, su titular se encuentre impedido de desempe&#xF1;ar el cargo, </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE SUBROGANCIA DEL DIRECTOR DE PLANIFICACION </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 116.- Santiago, 21 de julio de 2006.- Vistos: Los art&#xED;culos 4&#xBA; y 81 de la ley N&#xBA; 18.834, cuyo texto refundido fue fijado por el DFL N&#xBA; 29 del Ministerio de Hacienda; el DFL N&#xBA;161 de 1978, del Ministerio de Relaciones Exteriores; la resoluci&#xF3;n N&#xBA; 520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que para un mejor ordenamiento, se hace necesario establecer la subrogaci&#xF3;n del Director de Planificaci&#xF3;n en los per&#xED;odos que, por cualquier causa, su titular se encuentre impedido de desempe&#xF1;ar el cargo, </div><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

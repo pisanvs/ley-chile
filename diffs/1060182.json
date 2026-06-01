@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-12-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-01-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9416821,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico transitorio: La metodolog&#xED;a de ordenaci&#xF3;n de establecimientos educacionales aprobada a trav&#xE9;s de este decreto, comenzar&#xE1; a regir a partir del mes de diciembre del a&#xF1;o 2015.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1069206&amp;idParte=9525830&amp;idVersion=2014-11-10\">Decreto 302, EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 10.11.2014</a></span></div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico transitorio: La metodolog&#xED;a de ordenaci&#xF3;n de establecimientos educacionales aprobada a trav&#xE9;s de este decreto, comenzar&#xE1; a regir a partir del mes de diciembre del a&#xF1;o 2015.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1069206&amp;idParte=9525830&amp;idVersion=2014-11-10\">Decreto 302, EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 10.11.2014</a></span></div><div class=\"p\">&nbsp; &nbsp;  En el <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1099422&amp;idParte=9763959&amp;idVersion=2017-01-25\">Decreto 357, EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 25.01.2017</a></span>caso del nivel de educaci&#xF3;n media, esta metodolog&#xED;a de ordenaci&#xF3;n comenzar&#xE1; a regir a partir del mes de diciembre del a&#xF1;o 2016.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1099422,
+      "fecha": "2017-01-25"
+    }
+  }
+]

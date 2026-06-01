@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2012-07-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-11-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9310149,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO VII<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1045387&amp;idParte=9310147&amp;idVersion=2012-11-05\">Decreto 2898,<br>M. DE SAN FERNANDO<br>N&#xBA; 2<br>D.O. 05.11.2012</a></span>I</div><br><div class=\"p\">&nbsp; &nbsp;  Zonas limitadas para otorgamiento de patente</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 9310150,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 25:&nbsp;  No obstante<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1045387&amp;idParte=9310147&amp;idVersion=2012-11-05\">Decreto 2898,<br>M. DE SAN FERNANDO<br>N&#xBA; 2<br>D.O. 05.11.2012</a></span> lo indicado en el cuerpo de esta ordenanza y en especial en lo referente al otorgamiento de patentes, se establece como limitaci&#xF3;n y por tanto no se podr&#xE1; otorgar patentes para explotaci&#xF3;n comercial de m&#xE1;quinas de habilidad, destreza o juegos similares, en el sector centro de la ciudad de San Fernando.</div><div class=\"p\">&nbsp; &nbsp;  No regir&#xE1; la prohibici&#xF3;n indicada en el inciso anterior para aquellos establecimientos que ya posean una patente de esta naturaleza o hubieren comenzado la tramitaci&#xF3;n de su patente antes de la publicaci&#xF3;n de la presente ordenanza.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos de lo dispuesto en el inciso anterior, se entender&#xE1; por sector c&#xE9;ntrico de la comuna de San Fernando los siguientes sectores: Norte, Avenida Manso de Velasco; Sur, Callej&#xF3;n Los Palacios; Oriente, l&#xED;nea f&#xE9;rrea; y Poniente, calle Juan Jim&#xE9;nez.</div><div class=\"p\">&nbsp; &nbsp;  Los locales comerciales que deseen ampliar su giro al rubro que contempla la presente ordenanza, no importando su ubicaci&#xF3;n, s&#xF3;lo se les permitir&#xE1; la instalaci&#xF3;n de un m&#xE1;ximo de 20 m&#xE1;quinas, debiendo cumplir con los requisitos que la presente ordenanza se&#xF1;ala.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9272662,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xBA;: El ingreso a menores de 14 a&#xF1;os que accedan a estos entretenimientos electr&#xF3;nicos, estos deber&#xE1;n ser acompa&#xF1;ados por una persona adulta de su familia. Sin embargo, en aquellos locales debidamente habilitados para fumadores, se prohibir&#xE1; el ingreso de menores de edad, conforme a la ley 20.105 que regula esta materia.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15: Para aquellos locales que<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1045387&amp;idParte=9310147&amp;idVersion=2012-11-05\">Decreto 2898,<br>M. DE SAN FERNANDO<br>N&#xBA; 1<br>D.O. 05.11.2012</a></span> se dediquen exclusivamente a la explotaci&#xF3;n de las m&#xE1;quinas de habilidad, destreza o juegos similares de que trata esta ordenanza, el ingreso a menores de 14 a&#xF1;os que accedan a estos entretenimientos electr&#xF3;nicos, deber&#xE1;n ser acompa&#xF1;ados por una persona adulta de su familia.</div><br><div class=\"p\">&nbsp; &nbsp;  No se aplica la restricci&#xF3;n se&#xF1;alada en el inciso anterior para aquellos locales que posean otra patente comercial distinta a la que regula esta Ordenanza y posean adem&#xE1;s una patente para este tipo de m&#xE1;quinas de habilidad, destreza o juegos similares.</div><br><div class=\"p\">&nbsp; &nbsp;  Con todo, en aquellos locales debidamente habilitados para fumadores, se prohibir&#xE1; el ingreso de menores de edad, conforme a la ley 20.105 que regula esta materia.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1045387,
+      "fecha": "2012-11-05"
+    }
+  }
+]

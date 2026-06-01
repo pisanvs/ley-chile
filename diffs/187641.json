@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2001-07-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-07-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6342808,
+          "old": "<div><div class=\"p\">FIJA NUEVO HORARIO DE ATENCION EN JUNTAS INSCRIPTORAS </div></div>",
+          "new": "<div><div class=\"p\">FIJA NUEVO HORARIO DE ATENCION EN JUNTAS INSCRIPTORAS </div><br></div>"
+        },
+        {
+          "part_id": 6342809,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n O-N&#xBA; 389 de fecha 11 de julio de 2001, se ha dispuesto que las Juntas Inscriptoras de todo el pa&#xED;s funcionen a contar del d&#xED;a mi&#xE9;rcoles 01 de agosto y hasta el s&#xE1;bado 11 de agosto de 2001, cierre del per&#xED;odo extraordinario de inscripciones electorales, en horario de 9:00 a 14:00 horas.</div><div class=\"p\">&nbsp; &nbsp;  Sin embargo, si al t&#xE9;rmino del horario de funcionamiento se encontraren a&#xFA;n presentes personas que requieran su inscripci&#xF3;n, se extender&#xE1; el funcionamiento pero no m&#xE1;s all&#xE1; de las 20:00 horas, salvo el d&#xED;a s&#xE1;bado en que no exceder&#xE1; de las 14:00 horas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n O-N&#xBA; 389 de fecha 11 de julio de 2001, se ha dispuesto que las Juntas Inscriptoras de todo el pa&#xED;s funcionen a contar del d&#xED;a mi&#xE9;rcoles 01 de agosto y hasta el s&#xE1;bado 17 de agosto de 2001,<span class=\"n\" id=\"n_0\">RES S/N,<br>SERV. ELECTORAL<br>D.O. 30.07.2001</span> cierre del per&#xED;odo extraordinario de inscripciones electorales, en horario de 9:00 a 14:00 horas. Sin embargo, si al t&#xE9;rmino del horario de funcionamiento se encontraren a&#xFA;n presentes personas que requieran su inscripci&#xF3;n, se extender&#xE1; el funcionamiento pero no m&#xE1;s all&#xE1; de las 20:00 horas, salvo el d&#xED;a s&#xE1;bado en que no exceder&#xE1; de las 14:00 horas. </div></div>"
+        }
+      ]
+    }
+  }
+]

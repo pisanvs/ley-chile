@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2020-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10157151,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Proh&#xED;base, la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados de dos o m&#xE1;s ruedas, en toda la comuna y ciudad de Punta Arenas, entre las 05:00 horas am y 23:00 horas pm, de lunes a domingo, incluido d&#xED;as festivos, como sigue:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">a) Lunes: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: 0-1.</div><div class=\"p\">b) Martes: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: 2-3.</div><div class=\"p\">c) Mi&#xE9;rcoles: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: 4-5.</div><div class=\"p\">d) Jueves: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: 6-7.</div><div class=\"p\">e) Viernes: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: 8-9.</div><div class=\"p\">f) S&#xE1;bado: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: Impares.</div><div class=\"p\">g) Domingo y Festivos: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: Pares.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Quedar&#xE1;n exceptuados de la prohibici&#xF3;n, los veh&#xED;culos de emergencia, veh&#xED;culos fiscales y los veh&#xED;culos destinados a las faenas de limpieza de calles, veh&#xED;culos de servicios funerarios, veh&#xED;culos de reparto de mercader&#xED;a, veh&#xED;culos con logo de empresas esenciales, veh&#xED;culos de transporte p&#xFA;blico de pasajeros, urbanos, rurales e interurbanos, veh&#xED;culos de transporte privado remunerado de pasajeros, transporte escolar, taxis b&#xE1;sicos y sus modalidades, taxis colectivos dentro de su recorrido habitual, y los de transportes de carga.</div><div class=\"p\">&nbsp; &nbsp;  3. Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, fiscalizar&#xE1;n el estricto cumplimiento de la medida precedentemente descrita.</div><div class=\"p\">&nbsp; &nbsp;  4. La presente resoluci&#xF3;n se har&#xE1; efectiva a partir de su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  5. Notif&#xED;quese la presente resoluci&#xF3;n al Jefe de la Defensa Nacional de la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena, para que adopte las medidas pertinentes.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Proh&#xED;base, la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados de dos o m&#xE1;s ruedas, en toda la comuna y ciudad de Punta Arenas, entre las 05:00 horas am y 23:00 horas pm, de lunes a domingo, incluido d&#xED;as festivos, como sigue:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">a) Lunes: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: 0-1.</div><div class=\"p\">b) Martes: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: 2-3.</div><div class=\"p\">c) Mi&#xE9;rcoles: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: 4-5.</div><div class=\"p\">d) Jueves: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: 6-7.</div><div class=\"p\">e) Viernes: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: 8-9.</div><div class=\"p\">f) S&#xE1;bado: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: Impares.</div><div class=\"p\">g) Domingo y Festivos: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U terminen en los d&#xED;gitos: Pares.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, para los d&#xED;as 18 y 19 de septiembre de 2020,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1149607&amp;idParte=10159610&amp;idVersion=2020-09-17\">Resoluci&#xF3;n 549 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 17.09.2020</a></span> la prohibici&#xF3;n de circulaci&#xF3;n regir&#xE1; de la siguiente manera:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  . 18 de septiembre de 2020: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U termine en los d&#xED;gitos: Pares (2, 4, 6, 8 y 0).</div><div class=\"p\">&nbsp; &nbsp;  . 19 de septiembre de 2020: No podr&#xE1;n circular veh&#xED;culos cuya P.P.U termine en los d&#xED;gitos: Impares (1, 3, 5, 7 y 9).</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Quedar&#xE1;n exceptuados de la prohibici&#xF3;n, los veh&#xED;culos de emergencia, veh&#xED;culos fiscales y los veh&#xED;culos destinados a las faenas de limpieza de calles, veh&#xED;culos de servicios funerarios, veh&#xED;culos de reparto de mercader&#xED;a, veh&#xED;culos con logo de empresas esenciales, veh&#xED;culos de transporte p&#xFA;blico de pasajeros, urbanos, rurales e interurbanos, veh&#xED;culos de transporte privado remunerado de pasajeros, transporte escolar, taxis b&#xE1;sicos y sus modalidades, taxis colectivos dentro de su recorrido habitual, y los de transportes de carga.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, quedar&#xE1;n exceptuados de la prohibici&#xF3;n<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1149607&amp;idParte=10159610&amp;idVersion=2020-09-17\">Resoluci&#xF3;n 549 EXENTA,<br>TRANSPORTES<br>N&#xB0; 2<br>D.O. 17.09.2020</a></span> los veh&#xED;culos particulares en los que se traslade al personal que desempe&#xF1;e funciones en el &#xE1;mbito de la Salud, p&#xFA;blico o privado, y personal de bomberos que concurra a una emergencia, situaciones que se acreditar&#xE1;n con la credencial de la respectiva instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, fiscalizar&#xE1;n el estricto cumplimiento de la medida precedentemente descrita.</div><div class=\"p\">&nbsp; &nbsp;  4. La presente resoluci&#xF3;n se har&#xE1; efectiva a partir de su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  5. Notif&#xED;quese la presente resoluci&#xF3;n al Jefe de la Defensa Nacional de la Regi&#xF3;n de Magallanes y de la Ant&#xE1;rtica Chilena, para que adopte las medidas pertinentes.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1149607,
+      "fecha": "2020-09-17"
+    }
+  },
+  {
+    "fecha": "2020-09-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

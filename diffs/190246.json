@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-04-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-07-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7286125,
+          "old": "<div><div class=\"p\">AUTORIZA A ASTILLEROS Y SERVICIOS NAVALES LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A ASTILLEROS Y SERVICIOS NAVALES LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

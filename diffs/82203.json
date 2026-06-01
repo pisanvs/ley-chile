@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-12-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-03-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6061781,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 3.233, DE 1989 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 3.233, DE 1989 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

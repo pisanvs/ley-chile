@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8315835,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD COMERCIAL ANDUEZA Y SILVA LTDA. PARA INICIAR ACTIVIDADES </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD COMERCIAL ANDUEZA Y SILVA LTDA. PARA INICIAR ACTIVIDADES</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

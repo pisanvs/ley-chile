@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-03-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-05-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8938328,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; F&#xED;jase el 1&#xB0; de Mayo de 1996, para que entre en vigencia el D.S. N&#xB0; 211/95, del Ministerio de Transportes y Telecomunicaciones que establece el Reglamento de Transporte P&#xFA;blico de Pasajeros desde y hacia aer&#xF3;dromos y aeropuertos, en la V Regi&#xF3;n.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; F&#xED;jase el 1&#xB0; de septiembre de 1996, para que entre<span class=\"n\" id=\"n_0\">RES 215 exenta,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 31.05.1996</span> en vigencia el D.S. N&#xB0; 211/95, del Ministerio de Transportes y Telecomunicaciones que establece el Reglamento de Transporte P&#xFA;blico de Pasajeros desde y hacia aer&#xF3;dromos y aeropuertos, en la V Regi&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

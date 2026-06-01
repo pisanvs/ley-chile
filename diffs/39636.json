@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-06-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-05-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7202088,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA RESOLUCION N&#xB0; 1.508, DE 1992, QUE ESTABLECE REQUISITOS PARA EL TRANSITO DE PLATANOS, PI&#xD1;AS, COCOS Y DATILES</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.246 exenta.- Santiago, 1 de Junio de 1994.- Vistos: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, la Ley N&#xB0; 18.755 de 1989, lo dispuesto en el art&#xED;culo VI de la Convenci&#xF3;n Internacional de Protecci&#xF3;n Fitosanitaria FAO 1951, las resoluciones N&#xB0;s. 139 de 1986 y 512, 889, 1.508 y 2.381 de 1992, emanadas de este Servicio.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que el tr&#xE1;nsito de mercader&#xED;as peligrosas para los vegetales por el territorio nacional puede movilizar plagas agr&#xED;colas de car&#xE1;cter cuarentenario para el pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que el Servicio Agr&#xED;cola y Ganadero ha podido evaluar el riesgo de dispersi&#xF3;n de plagas cuarentenarias para la agricultura, en los diferentes medios de transporte utilizados para el tr&#xE1;nsito de mercader&#xED;as extranjeras y destinadas a un tercer pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que el Servicio debe establecer las condiciones tendientes a proteger la agricultura nacional.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 1.508, DE 1992, QUE ESTABLECE REQUISITOS PARA EL TRANSITO DE PLATANOS, PI&#xD1;AS, COCOS Y DATILES</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.246 exenta.- Santiago, 1 de Junio de 1994.- Vistos: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, la Ley N&#xB0; 18.755 de 1989, lo dispuesto en el art&#xED;culo VI de la Convenci&#xF3;n Internacional de Protecci&#xF3;n Fitosanitaria FAO 1951, las resoluciones N&#xB0;s. 139 de 1986 y 512, 889, 1.508 y 2.381 de 1992, emanadas de este Servicio.</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; 1.- Que el tr&#xE1;nsito de mercader&#xED;as peligrosas para los vegetales por el territorio nacional puede movilizar plagas agr&#xED;colas de car&#xE1;cter cuarentenario para el pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que el Servicio Agr&#xED;cola y Ganadero ha podido evaluar el riesgo de dispersi&#xF3;n de plagas cuarentenarias para la agricultura, en los diferentes medios de transporte utilizados para el tr&#xE1;nsito de mercader&#xED;as extranjeras y destinadas a un tercer pa&#xED;s.</div><div class=\"p\">&nbsp; &nbsp; 3.- Que el Servicio debe establecer las condiciones tendientes a proteger la agricultura nacional.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

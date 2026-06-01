@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-01-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-03-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7126037,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREA PLANTAS DEL MINISTERIO DE COORDINACION ECONOMICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 875.- Santiago, 20 de Enero de 1975.- Visto: lo dispuesto en los decretos leyes N&#xB0;s 1 y 128, de 1973; los decretos leyes N&#xB0;s 249 y 558, de 1974, la Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br></div>",
+          "new": "<div><br><div class=\"p\">CREA PLANTAS DEL MINISTERIO DE COORDINACION ECONOMICA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 875.- Santiago, 20 de Enero de 1975.- Visto: lo dispuesto en los decretos leyes N&#xB0;s 1 y 128, de 1973; los decretos leyes N&#xB0;s 249 y 558, de 1974, la Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 5&#xB0; del DL 1370, Interior, publicado el 16.03.1976, derog&#xF3; el presente decreto ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

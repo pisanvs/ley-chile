@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-06-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7208484,
+          "old": "<div><div class=\"p\"> MODIFICA RESOLUCION N&#xB0; 1.018 DE 1997 SOBRE&nbsp; CONTROL</div><div class=\"p\">OBLIGATORIO&nbsp; ENFERMEDAD DE SHARKA (P.P.V.)</div><div class=\"p\">&nbsp; &nbsp; Santiago, 17 de junio de 1997.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.706&nbsp; exenta.-&nbsp; Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola y en la Ley N&#xB0; 18.755 Org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero; y las Resoluciones N&#xB0;s. 796 de 1994 y 1.018 de 1997, de este origen, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que por Resoluci&#xF3;n N&#xB0; 1.018 citada en los Vistos se modific&#xF3; las normas sobre control obligatorio de la enfermedad de Sharka causada por el Plum Pox Virus (P.P.V.) contenidas en la Resoluci&#xF3;n N&#xB0; 796 de 1994.</div><div class=\"p\">&nbsp; &nbsp;  2.- Que en el N&#xB0; 8 de la Resoluci&#xF3;n N&#xB0; 1.018 se proh&#xED;be expender patrones susceptibles de ser injertados con especies afectas al control obligatorio del P.P.V. y se autoriza a transferir material de reproducci&#xF3;n de las mismas especies frutales.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 1.018 DE 1997 SOBRE CONTROL OBLIGATORIO ENFERMEDAD DE SHARKA (P.P.V.)</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 17 de junio de 1997.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.706 exenta.-&nbsp; Visto: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola y en la Ley N&#xB0; 18.755 Org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero; y las Resoluciones N&#xB0;s. 796 de 1994 y 1.018 de 1997, de este origen, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Que por Resoluci&#xF3;n N&#xB0; 1.018 citada en los Vistos se modific&#xF3; las normas sobre control obligatorio de la enfermedad de Sharka causada por el Plum Pox Virus (P.P.V.) contenidas en la Resoluci&#xF3;n N&#xB0; 796 de 1994.</div><div class=\"p\">&nbsp; &nbsp;  2.- Que en el N&#xB0; 8 de la Resoluci&#xF3;n N&#xB0; 1.018 se proh&#xED;be expender patrones susceptibles de ser injertados con especies afectas al control obligatorio del P.P.V. y se autoriza a transferir material de reproducci&#xF3;n de las mismas especies frutales.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

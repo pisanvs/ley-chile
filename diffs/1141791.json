@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10096934,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase la ejecuci&#xF3;n de obras provisorias de seguridad, reparaciones menores y obras de reposici&#xF3;n, en &#xE1;reas e inmuebles protegidos por la ley 17.288, de acuerdo a las especificaciones del documento de igual nombre, elaborado en el contexto de la crisis social que ha vivido el pa&#xED;s a contar del 18.10.2019, transcrito en esta resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase la ejecuci&#xF3;n de obras provisorias de seguridad, reparaciones menores y obras de reposici&#xF3;n, en &#xE1;reas e inmuebles protegidos por la ley 17.288, de acuerdo a las especificaciones del documento de igual nombre, elaborado en el contexto de la crisis social que ha vivido el pa&#xED;s a contar del <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>18.10.2019, transcrito en esta resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 12 Exenta, Culturas, publicado el 19.01.2023, modifica la presente norma en el sentido de prorrogar la presente norma, por un plazo de dos a&#xF1;os, siendo v&#xE1;lida su aplicaci&#xF3;n hasta el 31.12.2024.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-09-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7202392,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA PLAN PILOTO DE SERVICIO QUE SE INDICA EN LAS VIII Y IX REGIONES</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.725 exenta.- Santiago, agosto 28 de 1996.- Vistos: El art&#xED;culo 2&#xB0; del D.F.L. N&#xB0; 10, de 1981, y el art&#xED;culo N&#xB0; 5 del Decreto N&#xB0; 2 de 1996, ambos del Ministerio de Transportes Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de implementar un plan piloto en las regiones Octava y Novena con productos de nuevas caracter&#xED;sticas. El acuerdo N&#xB0; 024/96 del 29 de febrero de 1996, del Directorio de la Empresa; la Resoluci&#xF3;n N&#xB0; 55 de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica y, en uso de las atribuciones que me confieren las Resoluciones N&#xB0; 233 de 1994 y N&#xB0; 1.861 de 1995 ambas de la Empresa de Correos de Chile, vengo en dictar la siguiente:</div><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA PLAN PILOTO DE SERVICIO QUE SE INDICA EN LAS VIII Y IX REGIONES</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.725 exenta.- Santiago, agosto 28 de 1996.- Vistos: El art&#xED;culo 2&#xB0; del D.F.L. N&#xB0; 10, de 1981, y el art&#xED;culo N&#xB0; 5 del Decreto N&#xB0; 2 de 1996, ambos del Ministerio de Transportes Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de implementar un plan piloto en las regiones Octava y Novena con productos de nuevas caracter&#xED;sticas. El acuerdo N&#xB0; 024/96 del 29 de febrero de 1996, del Directorio de la Empresa; la Resoluci&#xF3;n N&#xB0; 55 de 1992 de la Contralor&#xED;a General de la Rep&#xFA;blica y, en uso de las atribuciones que me confieren las Resoluciones N&#xB0; 233 de 1994 y N&#xB0; 1.861 de 1995 ambas de la Empresa de Correos de Chile, vengo en dictar la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

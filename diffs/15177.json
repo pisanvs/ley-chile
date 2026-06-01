@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-01-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8932315,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA NOMINACION DE LOS MIEMBROS TITULARES Y SUPLENTES DEL CONSEJO ZONAL DE PESCA DE LA I Y II REGIONES</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 704.- Santiago, 15 de Diciembre de 1994.- Visto: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; la Ley General de Pesca y Acuicultura N&#xB0; 18.892 y sus modificaciones, cuyo texto refundido, coordinado y sistematizado fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el D.S. N&#xB0; 453 y N&#xB0; 681, ambos de 1992, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; Acta del directorio de la Asociaci&#xF3;n de Armadores e Industriales Pesqueros de la I Regi&#xF3;n A.G., reducida a escritura p&#xFA;blica de fecha 28 de junio de 1993, otorgada ante don N&#xE9;stor Araya Blazina, Notario P&#xFA;blico de la ciudad de Iquique;</div><div class=\"p\">&nbsp; &nbsp; C o n s i d e r a n d o:</div><div class=\"p\">&nbsp; &nbsp; Que, en virtud de lo previsto en el art&#xED;culo 152 de la Ley General de Pesca y Acuicultura, los Consejos Zonales de Pesca estar&#xE1;n integrados por los titulares de los cargos que se mencionan y por los representantes de las organizaciones y entidades que se se&#xF1;alan, correspondiendo al Presidente de la Rep&#xFA;blica oficializar la nominaci&#xF3;n definitiva de estos &#xFA;ltimos, tanto en calidad de titulares como suplentes.</div><div class=\"p\">&nbsp; &nbsp; Que, el art&#xED;culo 8 del Reglamento para la elecci&#xF3;n de Consejeros de los Consejos Zonales de Pesca establece la facultad y el procedimiento para proveer los cargos vacantes, tanto titulares como suplentes.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA NOMINACION DE LOS MIEMBROS TITULARES Y SUPLENTES DEL CONSEJO ZONAL DE PESCA DE LA I Y II REGIONES</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 704.- Santiago, 15 de Diciembre de 1994.- Visto: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; la Ley General de Pesca y Acuicultura N&#xB0; 18.892 y sus modificaciones, cuyo texto refundido, coordinado y sistematizado fue fijado por el D.S. N&#xB0; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; el D.S. N&#xB0; 453 y N&#xB0; 681, ambos de 1992, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n; Acta del directorio de la Asociaci&#xF3;n de Armadores e Industriales Pesqueros de la I Regi&#xF3;n A.G., reducida a escritura p&#xFA;blica de fecha 28 de junio de 1993, otorgada ante don N&#xE9;stor Araya Blazina, Notario P&#xFA;blico de la ciudad de Iquique;</div><div class=\"p\">&nbsp; &nbsp; C o n s i d e r a n d o:</div><div class=\"p\">&nbsp; &nbsp; Que, en virtud de lo previsto en el art&#xED;culo 152 de la Ley General de Pesca y Acuicultura, los Consejos Zonales de Pesca estar&#xE1;n integrados por los titulares de los cargos que se mencionan y por los representantes de las organizaciones y entidades que se se&#xF1;alan, correspondiendo al Presidente de la Rep&#xFA;blica oficializar la nominaci&#xF3;n definitiva de estos &#xFA;ltimos, tanto en calidad de titulares como suplentes.</div><div class=\"p\">&nbsp; &nbsp; Que, el art&#xED;culo 8 del Reglamento para la elecci&#xF3;n de Consejeros de los Consejos Zonales de Pesca establece la facultad y el procedimiento para proveer los cargos vacantes, tanto titulares como suplentes.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

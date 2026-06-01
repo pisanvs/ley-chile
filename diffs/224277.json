@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "2004-04-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-07-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8925646,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Ot&#xF3;rgase un nuevo plazo de un a&#xF1;o,<span class=\"n\" id=\"n_1\">ORZ 47,<br>M. DE LA FLORIDA<br>Art. &#xFA;nico<br>D.O. 05.07.2005</span> contado desde la fecha de publicaci&#xF3;n referida, con el objeto de permitir que todos aquellos elementos que se encuentren sin autorizaci&#xF3;n y que cumplan las disposiciones vigentes regularicen su situaci&#xF3;n. </div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8925644,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Der&#xF3;gase la Ordenanza N&#xBA; 4 de Publicidad aprobada y publicada el 31 de enero de 1984 y su modificaci&#xF3;n aprobada por decreto exento N&#xBA; 1.670 del 29/11/90; decreto exento N&#xBA; 1.913 del 31/12/90 y decreto exento N&#xBA; 96 del 08/01/92 y sus modificaciones posteriores. Igualmente, se deroga toda normativa contenida en cualquiera Ordenanza Local que contravenga la presente Ordenanza.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Disp&#xF3;nese la suspensi&#xF3;n transitoria<span class=\"n\" id=\"n_0\">ORZ 47,<br>M. DE LA FLORIDA<br>Art. &#xFA;nico<br>D.O. 05.07.2005</span> de la aplicaci&#xF3;n del p&#xE1;rrafo segundo del n&#xFA;mero uno (1) del art&#xED;culo 8&#xBA;, y del Art&#xED;culo 30&#xBA; de la ordenanza, por el plazo de un a&#xF1;o, contado desde la publicaci&#xF3;n en el Diario Oficial de la presente modificaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

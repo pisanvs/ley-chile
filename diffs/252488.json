@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "1983-09-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1984-03-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7331821,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Proh&#xED;bese a contar del a&#xF1;o 1984, la extracci&#xF3;n, tenencia, posesi&#xF3;n, industrializaci&#xF3;n, comercializaci&#xF3;n y transporte del recurso denominado chorito (Mytilus chilensis) durante el per&#xED;odo comprendido entre el 1&#xBA; de Noviembre de cada a&#xF1;o y el 31 de Enero del a&#xF1;o siguiente, ambas fechas inclusive.</div><div class=\"p\">&nbsp; &nbsp;  Esta prohibici&#xF3;n no regir&#xE1; en la XII Regi&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Proh&#xED;bese a contar del a&#xF1;o 1984, la extracci&#xF3;n, tenencia, posesi&#xF3;n, industrializaci&#xF3;n, comercializaci&#xF3;n y transporte del recurso denominado chorito (Mytilus chilensis) durante el per&#xED;odo comprendido entre el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1073602&amp;idParte=9552683&amp;idVersion=1984-03-14\">Decreto 47, ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 14.03.1984</a></span>1&#xBA; de Noviembre y el 31 de Diciembre de cada a&#xF1;o, ambas fechas inclusive.</div><div class=\"p\">&nbsp; &nbsp;  Esta prohibici&#xF3;n no regir&#xE1; en la XII Regi&#xF3;n. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1073602,
+      "fecha": "1984-03-14"
+    }
+  },
+  {
+    "fecha": "2020-09-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7331821,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Proh&#xED;bese a contar del a&#xF1;o 1984, la extracci&#xF3;n, tenencia, posesi&#xF3;n, industrializaci&#xF3;n, comercializaci&#xF3;n y transporte del recurso denominado chorito (Mytilus chilensis) durante el per&#xED;odo comprendido entre el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1073602&amp;idParte=9552683&amp;idVersion=1984-03-14\">Decreto 47, ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 14.03.1984</a></span>1&#xBA; de Noviembre y el 31 de Diciembre de cada a&#xF1;o, ambas fechas inclusive.</div><div class=\"p\">&nbsp; &nbsp;  Esta prohibici&#xF3;n no regir&#xE1; en la XII Regi&#xF3;n. </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Proh&#xED;bese a contar del a&#xF1;o 1984, la extracci&#xF3;n, tenencia, posesi&#xF3;n, industrializaci&#xF3;n, comercializaci&#xF3;n y transporte del recurso denominado chorito (Mytilus chilensis) durante el per&#xED;odo comprendido entre el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1073602&amp;idParte=9552683&amp;idVersion=1984-03-14\">Decreto 47, ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 14.03.1984</a></span>1&#xBA; de Noviembre y el 31 de Diciembre de cada a&#xF1;o, ambas fechas inclusive.</div><div class=\"p\">&nbsp; &nbsp;  Esta prohibici&#xF3;n no regir&#xE1; en la XII Regi&#xF3;n. </div><div class=\"p\">&nbsp; &nbsp;  Para <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1149057&amp;idParte=10155869&amp;idVersion=2020-09-03\">Decreto 202000050 EXENTO,<br>ECONOMIA<br>D.O. 03.09.2020</a></span>la Regi&#xF3;n de Los R&#xED;os, el per&#xED;odo de veda biol&#xF3;gica ser&#xE1; desde el d&#xED;a 1 de septiembre hasta el d&#xED;a 31 de octubre de cada a&#xF1;o, ambas fechas inclusive.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1149057,
+      "fecha": "2020-09-03"
+    }
+  }
+]

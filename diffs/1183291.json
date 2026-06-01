@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2022-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-06-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10374283,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.- El plazo de construcci&#xF3;n de las obras ser&#xE1; de dieciocho (18) meses, inici&#xE1;ndose dentro de los ciento ochenta (180) d&#xED;as corridos, contados desde la fecha de reducci&#xF3;n a escritura p&#xFA;blica del presente decreto. Los plazos para su terminaci&#xF3;n por etapas y secciones ser&#xE1;n los que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/155440.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1193790&amp;idParte=10440598&amp;idVersion=2023-06-28\">Decreto 113 EXENTO,<br>ENERG&#xCD;A<br>N&#xBA; 1<br>D.O. 28.06.2023</a></span>rt&#xED;culo 11&#xBA;.- El plazo de construcci&#xF3;n de las obras ser&#xE1; de dieciocho (18) meses, inici&#xE1;ndose en el plazo de 24 meses, contado desde la fecha de reducci&#xF3;n a escritura p&#xFA;blica del presente decreto. Los plazos para su terminaci&#xF3;n por etapas y secciones ser&#xE1;n los que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/155440.jpg\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-09-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10374283,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1193790&amp;idParte=10440598&amp;idVersion=2023-06-28\">Decreto 113 EXENTO,<br>ENERG&#xCD;A<br>N&#xBA; 1<br>D.O. 28.06.2023</a></span>rt&#xED;culo 11&#xBA;.- El plazo de construcci&#xF3;n de las obras ser&#xE1; de dieciocho (18) meses, inici&#xE1;ndose en el plazo de 24 meses, contado desde la fecha de reducci&#xF3;n a escritura p&#xFA;blica del presente decreto. Los plazos para su terminaci&#xF3;n por etapas y secciones ser&#xE1;n los que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/155440.jpg\">&nbsp; &nbsp; &nbsp; </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;.- El plazo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1216374&amp;idParte=10560780&amp;idVersion=2025-09-04\">Decreto 224 EXENTO,<br>ENERG&#xCD;A<br>N&#xB0; 1<br>D.O. 04.09.2025</a></span>de construcci&#xF3;n de las obras ser&#xE1; de dieciocho (18) meses, inici&#xE1;ndose en el plazo de cuarenta y seis (46) meses, contado desde la fecha de reducci&#xF3;n a escritura p&#xFA;blica del presente decreto. Los plazos para su terminaci&#xF3;n por etapas y secciones ser&#xE1;n los que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/155440.jpg\"></div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1216374,
+      "fecha": "2025-09-04"
+    }
+  }
+]

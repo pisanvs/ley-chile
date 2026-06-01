@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-08-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-05-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6127316,
+          "old": "<div><div class=\"p\">INCORPORA A NOMINA ESTABLECIDA POR RESOLUCION N&#xBA; 1.856 DE 1997, LAS SUSTANCIAS ADITIVAS QUE SE&#xD1;ALA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.573 exenta.- Santiago, 20 de agosto de 1998.- Vistos: Lo dispuesto en el art&#xED;culo N&#xBA; 9 del decreto supremo N&#xBA; 307 del 25 de octubre de 1979, del Ministerio de Agricultura y en la ley 18.755 de 1989, modificada por ley N&#xBA; 19.283 de 1994, y la resoluci&#xF3;n de este Servicio N&#xBA; 1.856 de 1997, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Que es conveniente la incorporaci&#xF3;n de las sustancias aditivas Carbasona, Nitarsona, Mica de di&#xF3;xido de titanio, Di&#xF3;xido de silicona, Kaolin, Aluminosilicatos s&#xF3;dicos c&#xE1;lcicos naturales, Hidr&#xF3;xido de amonio, Resina urea formaldehido, Polymethylcarbamida, en los alimentos con el prop&#xF3;sito de mejorar el nivel de conversi&#xF3;n alimentaria y controlar la ocurrencia de enfermedades.</div><br><div class=\"p\">&nbsp; &nbsp;  2. Que por los antecedentes t&#xE9;cnicos estudiados, dichas sustancias no revisten peligro para la salud animal.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">INCORPORA A NOMINA ESTABLECIDA POR RESOLUCION N&#xBA; 1.856 DE 1997, LAS SUSTANCIAS ADITIVAS QUE SE&#xD1;ALA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.573 exenta.- Santiago, 20 de agosto de 1998.- Vistos: Lo dispuesto en el art&#xED;culo N&#xBA; 9 del decreto supremo N&#xBA; 307 del 25 de octubre de 1979, del Ministerio de Agricultura y en la ley 18.755 de 1989, modificada por ley N&#xBA; 19.283 de 1994, y la resoluci&#xF3;n de este Servicio N&#xBA; 1.856 de 1997, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Que es conveniente la incorporaci&#xF3;n de las sustancias aditivas Carbasona, Nitarsona, Mica de di&#xF3;xido de titanio, Di&#xF3;xido de silicona, Kaolin, Aluminosilicatos s&#xF3;dicos c&#xE1;lcicos naturales, Hidr&#xF3;xido de amonio, Resina urea formaldehido, Polymethylcarbamida, en los alimentos con el prop&#xF3;sito de mejorar el nivel de conversi&#xF3;n alimentaria y controlar la ocurrencia de enfermedades.</div><br><div class=\"p\">&nbsp; &nbsp;  2. Que por los antecedentes t&#xE9;cnicos estudiados, dichas sustancias no revisten peligro para la salud animal.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

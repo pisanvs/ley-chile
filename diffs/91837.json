@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-06-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320820,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A VERONICA VARGAS &#xD1;ANCO PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A VERONICA VARGAS &#xD1;ANCO PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

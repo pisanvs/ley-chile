@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-12-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-07-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9865037,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnase, a contar de esta fecha, a las personas que se indican, como subrogantes del/de la Subsecretario/a de Derechos Humanos, en el caso de la ausencia o impedimento del titular:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1er Subrogante: Quien sirva en calidad de titular, el cargo de Jefe/a de la Divisi&#xF3;n de Protecci&#xF3;n, Planta, Directivo, Grado 3&#xB0; de la EUS, de la Subsecretar&#xED;a de Derechos Humanos, del Ministerio de Justicia y Derechos Humanos.</div><div class=\"p\">&nbsp; &nbsp;  2do Subrogante: Quien sirva en calidad de titular, el cargo de Jefe/a de la Divisi&#xF3;n de Promoci&#xF3;n, Planta, Directivo, Grado 3&#xB0; de la EUS, de la Subsecretar&#xED;a de Derechos Humanos, del Ministerio de Justicia y Derechos Humanos.</div><div class=\"p\">&nbsp; &nbsp;  3er Subrogante: Quien sirva en calidad de titular, en el cargo de Jefe/a de la Divisi&#xF3;n de Administraci&#xF3;n y Finanzas, Planta, Directivo, Grado 3&#xB0; de la EUS, de la Subsecretar&#xED;a de Derechos Humanos, del Ministerio.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Por razones impostergables de buen servicio, el orden de subrogancia que se establece en este numeral, regir&#xE1; a contar de la fecha del presente decreto exento, sin esperar su total tramitaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto el <a href=\"https://www.leychile.cl/Navegar?idNorma=1099321&amp;idParte=&amp;idVersion=\">decreto exento N&#xB0; 78, de 10 de enero de 2017, del Ministerio de Justicia y Derechos Humanos</a> que estableci&#xF3; el correspondiente orden de subrogancia para el cargo de Subsecretario/a de Derechos Humanos.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnase, a contar de esta fecha, a las personas que se indican, como subrogantes del/de la Subsecretario/a de Derechos Humanos, en el caso de la ausencia o impedimento del titular:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1er Subrogante: Quien <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1134302&amp;idParte=10041957&amp;idVersion=2019-07-27\">Decreto 1469 EXENTO, <br>JUSTICIA<br>N&#xB0; 1<br>D.O. 27.07.2019</a></span>sirva en calidad de titular, el cargo de Jefe/a de la Divisi&#xF3;n de Promoci&#xF3;n, Planta, Directivo, grado 3&#xBA; de la EUS de la Subsecretar&#xED;a de Derechos Humanos, del Ministerio de Justicia y Derechos Humanos.</div><div class=\"p\">&nbsp; &nbsp;  2do Subrogante: Quien sirva en calidad de titular, el cargo de Jefe/a de la Divisi&#xF3;n de Protecci&#xF3;n, Planta, Directivo, grado 3&#xBA; de la EUS de la Subsecretar&#xED;a de Derechos Humanos, del Ministerio de Justicia y Derechos Humanos.</div><div class=\"p\">&nbsp; &nbsp;  3er Subrogante: Quien sirva en calidad de titular, en el cargo de Jefe/a de la Divisi&#xF3;n de Administraci&#xF3;n y Finanzas, Planta, Directivo, Grado 3&#xB0; de la EUS, de la Subsecretar&#xED;a de Derechos Humanos, del Ministerio.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Por razones impostergables de buen servicio, el orden de subrogancia que se establece en este numeral, regir&#xE1; a contar de la fecha del presente decreto exento, sin esperar su total tramitaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;jase sin efecto el decreto exento N&#xB0; 78, de 10 de enero de 2017, del Ministerio de Justicia y Derechos Humanos que estableci&#xF3; el correspondiente orden de subrogancia para el cargo de Subsecretario/a de Derechos Humanos.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1134302,
+      "fecha": "2019-07-27"
+    }
+  }
+]

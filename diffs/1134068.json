@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-07-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-10-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10040274,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Prorr&#xF3;guese el plazo al que se refiere el <a href=\"https://www.leychile.cl/Navegar?idNorma=1120511&amp;idParte=9930383&amp;idVersion=\">art&#xED;culo 12</a> del Reglamento aprobado por <a href=\"https://www.leychile.cl/Navegar?idNorma=1120511&amp;idParte=&amp;idVersion=\">decreto supremo N&#xBA; 32 del 09.07.2018</a>, para cumplir con los requisitos que &#xE9;ste establece, por 2 meses a contar del 9 de julio de 2019, para las empresas indicadas en el Anexo de la presente resoluci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Prorr&#xF3;guese el plazo al que se refiere el art&#xED;culo 12 del Reglamento aprobado por decreto supremo N&#xBA; 32 del 09.07.2018, para cumplir con los requisitos que &#xE9;ste establece, por <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>2 meses a contar del 9 de julio de 2019, para las empresas indicadas en el Anexo de la presente resoluci&#xF3;n.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 4610 Exenta, Hacienda, publicada el 10.10.2019, modifica la presente norma en el sentido de ampl&#xED;ar de 2 a 6 meses, la pr&#xF3;rroga conferida por la presente norma, para cumplir con los requisitos que establece el reglamento, para todas las empresas indicadas en el anexo.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6022038,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; PROHIBE CIRCULACION DE VEHICULOS QUE INDICA POR PUENTE N&#xB0; 1 SOBRE EL RIO BIO BIO DE LA CIUDAD DE CONCEPCION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 348 exenta.- Concepci&#xF3;n, 16 de Diciembre de 1994.- Visto: Los art&#xED;culos 113&#xB0; y 118&#xB0; de la Ley 18.290; la Resoluci&#xF3;n N&#xB0; 59/85, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><div class=\"p\">&nbsp; &nbsp; Considerando: El Reservado N&#xB0; 1252 de fecha 29 de Noviembre de 1994, del Secretario Regional Ministerial de Obras P&#xFA;blicas de la VIII Regi&#xF3;n, en el cual se solicita implementar administrativamente la suspensi&#xF3;n del tr&#xE1;nsito de veh&#xED;culos de m&#xE1;s de 3 toneladas de peso y de 2.6 m. de altura, incluyendo locomoci&#xF3;n colectiva, en funci&#xF3;n a que la Direcci&#xF3;n de Vialidad proceder&#xE1; a reforzar las vigas del Puente B&#xED;o B&#xED;o antiguo, de acuerdo a una minuta t&#xE9;cnica que adjunta.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">PROHIBE CIRCULACION DE VEHICULOS QUE INDICA POR PUENTE N&#xB0; 1 SOBRE EL RIO BIO BIO DE LA CIUDAD DE CONCEPCION</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 348 exenta.- Concepci&#xF3;n, 16 de Diciembre de 1994.- Visto: Los art&#xED;culos 113&#xB0; y 118&#xB0; de la Ley 18.290; la Resoluci&#xF3;n N&#xB0; 59/85, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><div class=\"p\">&nbsp; &nbsp; Considerando: El Reservado N&#xB0; 1252 de fecha 29 de Noviembre de 1994, del Secretario Regional Ministerial de Obras P&#xFA;blicas de la VIII Regi&#xF3;n, en el cual se solicita implementar administrativamente la suspensi&#xF3;n del tr&#xE1;nsito de veh&#xED;culos de m&#xE1;s de 3 toneladas de peso y de 2.6 m. de altura, incluyendo locomoci&#xF3;n colectiva, en funci&#xF3;n a que la Direcci&#xF3;n de Vialidad proceder&#xE1; a reforzar las vigas del Puente B&#xED;o B&#xED;o antiguo, de acuerdo a una minuta t&#xE9;cnica que adjunta.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

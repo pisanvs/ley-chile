@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-12-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-09-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9544352,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cese a contar del 22 de diciembre de 2014 el siguiente orden de subrogancia del cargo del director del Servicio Salud de Chilo&#xE9;, en caso de ausencia o impedimento del titular o suplente, ser&#xE1; el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primer orden de Subrogancia</div><div class=\"p\">&nbsp; &nbsp;  Francisco Javier Molina Vera</div><div class=\"p\">&nbsp; &nbsp;  RUT: 10.422.147-5</div><div class=\"p\">&nbsp; &nbsp;  Suplente ley 19.664.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Segundo orden de Subrogancia</div><div class=\"p\">&nbsp; &nbsp;  Ram&#xF3;n Rebolledo</div><div class=\"p\">&nbsp; &nbsp;  RUT: 9.011.773-4</div><div class=\"p\">&nbsp; &nbsp;  Subdirector Administrativo Servicio de Salud Chilo&#xE9; (T y P).</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Decl&#xE1;rase que el Director subrogante asumir&#xE1; sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cese a contar del 11 de agosto de 2015 el siguiente orden de subrogancia del cargo del director del Servicio Salud de Chilo&#xE9;, en caso de ausencia o impedimento del titular o suplente, ser&#xE1; el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primer orden de subrogancia<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1081566&amp;idParte=9635767&amp;idVersion=2015-09-15\">Decreto 406 EXENTO,<br>SALUD<br>N&#xB0; 1<br>D.O. 15.09.2015</a></span></div><div class=\"p\">&nbsp; &nbsp;  Gladys Marcela C&#xE1;rcamo Hemmelman</div><div class=\"p\">&nbsp; &nbsp;  Rut: 8.738.546-9</div><div class=\"p\">&nbsp; &nbsp;  Subdirectora Administrativa Servicio de Salud Chilo&#xE9;</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Segundo orden de subrogancia</div><div class=\"p\">&nbsp; &nbsp;  Francisco Javier Molina Vera</div><div class=\"p\">&nbsp; &nbsp;  Rut: 10.422.147-5</div><div class=\"p\">&nbsp; &nbsp;  Suplente Ley 19.664.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Decl&#xE1;rase que el Director subrogante asumir&#xE1; sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1081566,
+      "fecha": "2015-09-15"
+    }
+  }
+]

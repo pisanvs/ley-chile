@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-10-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-01-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8334663,
+          "old": "<div><div class=\"p\">AUTORIZA A DON MAXIMO HENRIQUEZ MU&#xD1;OZ PARA INICIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON MAXIMO HENRIQUEZ MU&#xD1;OZ PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

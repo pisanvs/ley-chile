@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-09-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6227981,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD AGROINDUSTRIAL Y PESQUERA SANTA CARMEN LTDA. PARA INICIAR ACTIVIDADES PESQUERAS Y CADUCA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD AGROINDUSTRIAL Y PESQUERA SANTA CARMEN LTDA. PARA INICIAR ACTIVIDADES PESQUERAS Y CADUCA RESOLUCION QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

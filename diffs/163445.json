@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1970-10-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-01-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8925267,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.o.- Establ&#xE9;cese un impuesto de 0,05 escudo por cada kilogramo de fideos especiales producido, cuyo monto se reajustar&#xE1; el 1.o de Enero de cada a&#xF1;o en el mismo porcentaje en que hubiere aumentado el &#xED;ndice de precios al consumidor determinado por la Direcci&#xF3;n de Estad&#xED;sticas y Censos, en el a&#xF1;o precedente.</div><div class=\"p\">&nbsp; &nbsp;  Este impuesto deber&#xE1; ser enterado por los fabricantes de fideos especiales en una cuenta especial en la Tesorer&#xED;a correspondiente, dentro de los diez primeros d&#xED;as de cada mes.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.o.- DEROGADO<span class=\"n\" id=\"n_0\">DL 292, HACIENDA<br>Art. 29<br>D.O. 30.01.1974</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8925270,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9.o.- Las pensiones se&#xF1;aladas en<span class=\"n\" id=\"n_1\">LEY 19785<br>Art. 6&#xBA;<br>D.O. 14.02.2002</span> la presente ley, ser&#xE1;n pagadas por el Instituto de Normalizaci&#xF3;n Previsional, en su calidad de Administrador del r&#xE9;gimen previsional del ex Servicio de Seguro Social.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

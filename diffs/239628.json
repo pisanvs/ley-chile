@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-07-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8372815,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  TRIBUNAL CONSTITUCIONAL<span class=\"n\" id=\"n_0\">SEN S/N,<br>T. CONSTITUCIONAL<br>D.O. 02.07.2005</span></div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley que modifica la ley N&#xBA; 17.235, sobre Impuesto Territorial; el decreto ley N&#xBA; 3.063, sobre Rentas Municipales; la ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades y faculta a las municipalidades para otorgar condonaciones que indica</div><div class=\"p\">&nbsp; &nbsp;  El Secretario del Tribunal Constitucional, quien suscribe, certifica que la Honorable C&#xE1;mara de Diputados envi&#xF3; el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto de los art&#xED;culos 4&#xBA;, N&#xBA;s. 2), 6), letra b), 9), 10), 14), letra b), y 15); 5&#xBA;, N&#xBA;s. 1), 5), 6), 8), 9), 10), y 12); 8&#xBA;, letra b), permanentes y 3&#xBA; transitorio, del mismo, y por sentencia de 15 de junio de 2005, dictada en los autos Rol N&#xBA; 446, declar&#xF3;:</div><br><div class=\"p\">1.&nbsp;  Que los art&#xED;culos 4&#xBA;, N&#xBA;s. 2), 6), letra b), 9), 10) y 14), letra b); 5&#xBA;, N&#xBA;s. 1), 5), 6), 8), 9), 10), y 12); 8&#xBA;, letra b), permanentes y 3&#xBA; transitorio del proyecto remitido, son constitucionales.</div><div class=\"p\">2.&nbsp;  Que el art&#xED;culo 4&#xBA;, N&#xBA; 15), del proyecto remitido, es constitucional en el entendido se&#xF1;alado en el considerando noveno de esta sentencia.</div><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de junio de 2005.- Rafael Larra&#xED;n Cruz, Secretario.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

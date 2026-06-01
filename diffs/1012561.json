@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1976-03-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-09-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8911362,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xB0;- Ser&#xE1; facultad de la Direcci&#xF3;n de Instrucci&#xF3;n disponer la tramitaci&#xF3;n del nombramiento de los Profesores del Instituto Superior de Carabineros, Escuela de Carabineros, Escuela de Suboficiales, Grupos de Instrucci&#xF3;n y de otros Cursos institucionales, lo que se har&#xE1; previo concurso entre los postulantes que re&#xFA;nan los requisitos correspondientes.</div><br><div class=\"p\">&nbsp; &nbsp;  Para este objeto, se constituir&#xE1; una Comisi&#xF3;n presidida por el Director de Instrucci&#xF3;n, por el Jefe de Estudios y dos Profesores del Plantel que requiera los nombramientos, debiendo estos &#xFA;ltimos ser propuestos por la Direcci&#xF3;n de cada establecimiento.</div><br><div class=\"p\">&nbsp; &nbsp;  Las peticiones de nombramiento de Profesores deben ser cursadas a la Direcci&#xF3;n de Instrucci&#xF3;n, para que la Comisi&#xF3;n respectiva proceda al estudio de los antecedentes de cada oponente. Las Reparticiones de las cuales dependan Grupos de Instrucci&#xF3;n, u otros Cursos, adoptar&#xE1;n similar procedimiento, interviniendo en la selecci&#xF3;n de estos Profesores la Comisi&#xF3;n que el Director de Instrucci&#xF3;n nomine para estos efectos.</div><div class=\"p\">&nbsp; &nbsp;  Aprobadas las proposiciones correspondientes, se solicitar&#xE1; la dictaci&#xF3;n del decreto respectivo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xB0;- Ser&#xE1; facultad de la Direcci&#xF3;n de Instrucci&#xF3;n disponer la tramitaci&#xF3;n del nombramiento de los Profesores del Instituto Superior de Carabineros, Escuela de Carabineros, Escuela de Suboficiales, Grupos de Instrucci&#xF3;n y de otros Cursos institucionales, lo que se har&#xE1; previo concurso entre los postulantes que re&#xFA;nan los requisitos correspondientes.</div><br><div class=\"p\">&nbsp; &nbsp;  Para este objeto, se constituir&#xE1; una Comisi&#xF3;n presidida por el Director de Instrucci&#xF3;n, por el Jefe de Estudios y dos Profesores del Plantel que requiera los nombramientos, debiendo estos &#xFA;ltimos ser propuestos por la Direcci&#xF3;n de cada establecimiento.</div><br><div class=\"p\">&nbsp; &nbsp;  E<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=121120&amp;idParte=7234820&amp;idVersion=1989-09-08\">DTO 369, DEFENSA<br>N&#xBA; 1<br>D.O. 08.09.1989</a></span>n caso de no disponer de Profesores Civiles que re&#xFA;nan los requisitos exigidos a su respecto en los T&#xED;tulos III, IV y V, respectivamente, se podr&#xE1; nombrar como tal, a la persona que se estime m&#xE1;s id&#xF3;nea, atendidos los conocimientos y especialidad que posea.</div><br><div class=\"p\">&nbsp; &nbsp;  Las peticiones de nombramiento de Profesores deben ser cursadas a la Direcci&#xF3;n de Instrucci&#xF3;n, para que la Comisi&#xF3;n respectiva proceda al estudio de los antecedentes de cada oponente. Las Reparticiones de las cuales dependan Grupos de Instrucci&#xF3;n, u otros Cursos, adoptar&#xE1;n similar procedimiento, interviniendo en la selecci&#xF3;n de estos Profesores la Comisi&#xF3;n que el Director de Instrucci&#xF3;n nomine para estos efectos.</div><div class=\"p\">&nbsp; &nbsp;  Aprobadas las proposiciones correspondientes, se solicitar&#xE1; la dictaci&#xF3;n del decreto respectivo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 121120,
+      "fecha": "1989-09-08"
+    }
+  }
+]

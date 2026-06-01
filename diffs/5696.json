@@ -1,0 +1,43 @@
+[
+  {
+    "fecha": "1973-10-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-03-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8746657,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0; Las personas que efect&#xFA;en donaciones<span class=\"n\" id=\"n_0\">DL 95, 1973<br>ART. 10&#xB0;</span> con dinero, ya sea en moneda nacional o extranjera, y/o bienes que no provengan de sus actividades y rentas declaradas al Servicio de Impuestos Internos no se aceptar&#xE1;n como gastos y, por consiguiente, no podr&#xE1;n disminuir la renta imponible de dichas actividades. Sin embargo, en esta situaci&#xF3;n los donantes quedar&#xE1;n eximidos de justificar el origen de los dineros y bienes donados y, una vez efectuada la donaci&#xF3;n, se presumir&#xE1; de derecho que han cumplido con todas las obligaciones tributarias respecto de esos dineros y/o bienes, como asimismo de las operaciones que los hubieren originado. Si dichas donaciones se efect&#xFA;an en monedas extranjeras, se presumir&#xE1; de derecho que respecto de las sumas donadas en esta forma se han cumplido todas las obligaciones contenidas en la Ley de Cambios Internacionales.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8746653,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- Las donaciones que las personas naturales o jur&#xED;dicas realicen al Estado con el objeto de cooperar a la recuperaci&#xF3;n econ&#xF3;mica del pa&#xED;s, ya sea que &#xE9;stas se efect&#xFA;en en especies, valores o dinero, estar&#xE1;n exentas del impuesto a las donaciones de la ley N&#xB0; 16.271, en virtud de lo dispuesto en el N&#xB0; 6 del art&#xED;culo 18 de la citada ley, como asimismo del impuesto sobre Timbres, Estampillas y Papel Sellado de la ley N&#xB0; 16.272.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0; Las donaciones que las personas naturales o jur&#xED;dicas realicen al Estado con el objeto de cooperar a la recuperaci&#xF3;n econ&#xF3;mica del pa&#xED;s, ya sea que &#xE9;stas se efect&#xFA;en en especies, valores o dinero, estar&#xE1;n exentas del impuesto a las donaciones de la ley 16.271, en virtud de lo dispuesto en el N&#xB0; 6 del art&#xED;culo 18&#xB0; de la citada ley, como asimismo del impuesto sobre Timbres, Estampillas y Papel Sellado de la ley 16.272.</div><br></div>"
+        },
+        {
+          "part_id": 8746654,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- Ex&#xED;mese a las donaciones a que se refiere el art&#xED;culo anterior del tr&#xE1;mite de insinuaci&#xF3;n, contemplado en los art&#xED;culos 1.401 y siguientes del C&#xF3;digo Civil y 889 y siguientes del C&#xF3;digo de Procedimiento Civil.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Ex&#xED;mese a las donaciones a que se refiere el art&#xED;culo anterior del tr&#xE1;mite de insinuaci&#xF3;n, contemplado en los art&#xED;culos 1.401&#xB0; y siguientes del C&#xF3;digo Civil y 889&#xB0; y siguientes del C&#xF3;digo de Procedimiento Civil.</div><br></div>"
+        },
+        {
+          "part_id": 8746655,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;- El monto de las erogaciones o donaciones referidas, que efect&#xFA;en los contribuyentes del impuesto a la renta, ya sea en dinero o en bienes que forman parte del activo de dichos contribuyentes, podr&#xE1; ser rebajado de su renta imponible correspondiente al ejercicio o per&#xED;odo en que se realice la donaci&#xF3;n o erogaci&#xF3;n, incluso para los fines del impuesto a favor de la Corporaci&#xF3;n de la Vivienda, cuando proceda.</div><div class=\"p\">&nbsp; &nbsp; En el caso de empleados, obreros, jubilados y montepiados que donen una parte de sus respectivas remuneraciones o pensiones mediante descuentos por planilla, los habilitados, pagadores o empleadores deber&#xE1;n dar aplicaci&#xF3;n a lo dispuesto en el inciso anterior en el mismo per&#xED;odo en que se efect&#xFA;e el descuento. Si la donaci&#xF3;n no se hiciere mediante descuento por planilla, el donante deber&#xE1; acreditar ante el respectivo habilitado, pagador o empleador el monto de la donaci&#xF3;n, para los efectos de considerarla como menor renta imponible afecta al impuesto &#xFA;nico de Segunda Categor&#xED;a del mismo per&#xED;odo en que se efect&#xFA;e la donaci&#xF3;n o, si no fuere posible, del per&#xED;odo siguiente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; El monto de las erogaciones o donaciones referidas, que efect&#xFA;en los contribuyentes del impuesto a la renta, ya sea en dinero o en bienes que forman parte del activo de dichos contribuyentes, podr&#xE1; ser rebajado de su renta imponible correspondiente al ejercicio o per&#xED;odo en que se realice la donaci&#xF3;n o erogaci&#xF3;n, incluso para los fines del impuesto a favor de la Corporaci&#xF3;n de la Vivienda, cuando proceda.</div><div class=\"p\">&nbsp; &nbsp; En el caso de empleados, obreros, jubilados y montepiados que donen una parte de sus respectivas remuneraciones o pensiones mediante descuentos por planilla, los habilitados, pagadores o empleadores deber&#xE1;n dar aplicaci&#xF3;n a lo dispuesto en el inciso anterior en el mismo per&#xED;odo en que se efect&#xFA;e el descuento. Si la donaci&#xF3;n no se hiciere mediante descuento por planilla, el donante deber&#xE1; acreditar ante el respectivo habilitado, pagador o empleador el monto de la donaci&#xF3;n, para los efectos de considerarla como menor renta imponible afecta al impuesto &#xFA;nico de Segunda Categor&#xED;a del mismo per&#xED;odo en que se efect&#xFA;e la donaci&#xF3;n o, si no fuere posible, del per&#xED;odo siguiente.</div><br></div>"
+        },
+        {
+          "part_id": 8746656,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la recopilaci&#xF3;n oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Comandante en Jefe del Ej&#xE9;rcito, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo a Ud. para su conocimiento.- Dios guarde a Ud.- Victoria Arellano S., Subsecretario de Hacienda.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Lorenzo Gotuzzo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

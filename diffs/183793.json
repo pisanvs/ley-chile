@@ -1,0 +1,101 @@
+[
+  {
+    "fecha": "1984-12-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1985-01-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003328,
+          "old": "<div><div class=\"p\">ESTABLECE REQUISITOS PARA EL OTORGAMIENTO DE PERMISOS DE CIRCULACION PROVISIONAL PARA VEHICULOS NUEVOS </div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 122.- Santiago, 27 de Septiembre de 1984.- Visto: Lo dispuesto por el art&#xED;culo 48&#xB0; de la Ley de Tr&#xE1;nsito y por la Ley N&#xB0; 18.059, y teniendo presente las facultades que me confiere la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, en su art&#xED;culo 32 N&#xB0; 8,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE REQUISITOS PARA EL OTORGAMIENTO DE PERMISOS DE CIRCULACION PROVISIONAL PARA VEHICULOS NUEVOS </div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 122.- Santiago, 27 de Septiembre de 1984.- Visto: Lo dispuesto por el art&#xED;culo 48&#xB0; de la Ley de Tr&#xE1;nsito y por la Ley N&#xB0; 18.059, y teniendo presente las facultades que me confiere la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, en su art&#xED;culo 32 N&#xB0; 8,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1985-03-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003323,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;.- Las placas ser&#xE1;n proporcionadas por las Municipalidades a costa de los interesados las que tendr&#xE1;n las siguientes caracter&#xED;sticas:</div><div class=\"p\">&nbsp; &nbsp;  - Material; met&#xE1;lico;</div><div class=\"p\">&nbsp; &nbsp;  - Color: de fondo amarillo;</div><div class=\"p\">&nbsp; &nbsp;  - Letras PR, 4 d&#xED;gitos y orla perimetral de color</div><div class=\"p\">negro, y</div><div class=\"p\">&nbsp; &nbsp;  - En el costado derecho inferior el a&#xF1;o que se</div><div class=\"p\">otorga.</div><div class=\"p\">&nbsp; &nbsp;  La placa deber&#xE1; portarse en el veh&#xED;culo en el mismo lugar correspondiente a las placas patente &#xFA;nica.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, deber&#xE1; portarse en el veh&#xED;culo el permiso de circulaci&#xF3;n provisional respectivo, debiendo existir la debida correspondencia entre las placas y el permiso.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Las placas ser&#xE1;n proporcionadas por<span class=\"n\" id=\"n_0\">DTO 26, TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 22.03.1985</span> las Municipalidades a costa de los interesados y tendr&#xE1;n las siguientes caracter&#xED;sticas:</div><div class=\"p\"> - Material met&#xE1;lico;</div><div class=\"p\"> - Fondo de color naranja;</div><div class=\"p\"> - Letras PR. 4 d&#xED;gitos y orla perimetral de color negro;</div><div class=\"p\">- En el costado derecho inferior el a&#xF1;o en que se otorga, y</div><div class=\"p\">- En la parte interior central la palabra Provisoria, tambi&#xE9;n en color negro.</div><div class=\"p\">&nbsp; &nbsp;  La placa deber&#xE1; portarse en el veh&#xED;culo en el mismo lugar correspondiente a las placas patente &#xFA;nica.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, deber&#xE1; portarse en el veh&#xED;culo el permiso de circulaci&#xF3;n provisional respectivo, debiendo existir la debida correspondencia entre las placas y el permiso.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2024-06-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003319,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Las Municipalidades podr&#xE1;n otorgar, con validez anual, permisos de circulaci&#xF3;n provisional a las personas naturales o jur&#xED;dicas con establecimientos comerciales dentro de sus comunas, dedicados a la fabricaci&#xF3;n en Chile o a la importaci&#xF3;n de veh&#xED;culos motorizados para la venta al p&#xFA;blico, o que sean representantes del fabricante o del importador y que paguen patente de tal. Estos permisos provisionales s&#xF3;lo podr&#xE1;n ser utilizados por la casa comercial en veh&#xED;culos motorizados nuevos para sus necesidades de traslado o exhibici&#xF3;n en la v&#xED;a p&#xFA;blica. Estos permisos s&#xF3;lo podr&#xE1;n ser usados en d&#xED;as h&#xE1;biles, entre 8 y 21 horas, limitaci&#xF3;n que no regir&#xE1; para el caso de mera exhibici&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1204063&amp;idParte=10502666&amp;idVersion=2024-06-06\">Decreto 61,<br>TRANSPORTES<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 06.06.2024</a></span>rt&#xED;culo 1&#xBA;.- Las Municipalidades podr&#xE1;n otorgar, semestralmente seg&#xFA;n a&#xF1;o calendario, permisos de circulaci&#xF3;n provisional a las personas jur&#xED;dicas con establecimientos comerciales dentro de sus comunas. Estos permisos provisionales s&#xF3;lo podr&#xE1;n ser utilizados por la casa comercial en veh&#xED;culos motorizados nuevos para sus necesidades de exhibici&#xF3;n en la v&#xED;a p&#xFA;blica. Estos permisos s&#xF3;lo podr&#xE1;n ser usados entre las 8 y 21 horas.</div><br><br></div>"
+        },
+        {
+          "part_id": 9003320,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Se entender&#xE1; por veh&#xED;culo motorizado nuevo el vendido sin uso, por primera vez, a un usuario. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1204063&amp;idParte=10502666&amp;idVersion=2024-06-06\">Decreto 61,<br>TRANSPORTES<br>Art. &#xFA;nico N&#xBA; 2<br>D.O. 06.06.2024</a></span>t&#xED;culo 2&#xBA;.- Para efectos de este decreto supremo, se entender&#xE1; por veh&#xED;culo motorizado nuevo aquel exhibido para la venta, sin uso.</div><br><br></div>"
+        },
+        {
+          "part_id": 9003321,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Los permisos de circulaci&#xF3;n que se concedan determinar&#xE1;n con toda precisi&#xF3;n el nombre de la persona a quien se le otorguen y el nombre de fantas&#xED;a de la casa comercial, si lo tuviere; su domicilio; nombre de su administrador responsable; designaci&#xF3;n de la marca y tipo de veh&#xED;culo a cuya fabricaci&#xF3;n, importaci&#xF3;n o expendio se dedica el establecimiento y la designaci&#xF3;n de las placas que corresponden a ese permiso.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1204063&amp;idParte=10502666&amp;idVersion=2024-06-06\">Decreto 61,<br>TRANSPORTES<br>Art. &#xFA;nico N&#xBA; 3<br>D.O. 06.06.2024</a></span>rt&#xED;culo 3&#xBA;.- Los permisos de circulaci&#xF3;n provisionales que se concedan deber&#xE1;n incluir con toda precisi&#xF3;n el nombre de la persona jur&#xED;dica a quien se le otorguen y el nombre de fantas&#xED;a de la casa comercial, si lo tuviere; el rol &#xFA;nico tributario de la persona jur&#xED;dica; su domicilio; nombre de su representante legal; designaci&#xF3;n de la marca, modelo, a&#xF1;o y tipo de veh&#xED;culo, identificaci&#xF3;n del semestre en que se otorga el permiso y la designaci&#xF3;n de la placa provisoria que corresponde a ese permiso.</div><br><br></div>"
+        },
+        {
+          "part_id": 9003322,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;.- Conjuntamente con el permiso de circulaci&#xF3;n, se otorgar&#xE1; al solicitante que cumpla con los requisitos se&#xF1;alados en el art&#xED;culo primero, las placas destinadas a ser llevadas en los veh&#xED;culos que se trasladen o exhiban en la v&#xED;a p&#xFA;blica. Deber&#xE1; otorgarse un permiso de circulaci&#xF3;n provisional individual para cada placa que se entregue.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;.- Conjuntamente con el permiso de circulaci&#xF3;n, se otorgar&#xE1; al solicitante que cumpla con los requisitos se&#xF1;alados en el art&#xED;culo primero, las placas destinadas a ser llevadas en los veh&#xED;culos que se<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1204063&amp;idParte=10502666&amp;idVersion=2024-06-06\">Decreto 61,<br>TRANSPORTES<br>Art. &#xFA;nico N&#xBA;s 4 y 5<br>D.O. 06.06.2024</a></span> exhiban en la v&#xED;a p&#xFA;blica. Deber&#xE1; otorgarse un permiso de circulaci&#xF3;n provisional individual para cada placa que se entregue, el cual deber&#xE1; portarse en el veh&#xED;culo, debiendo existir la debida correspondencia entre la placa asignada y el permiso.</div><br><br></div>"
+        },
+        {
+          "part_id": 9003323,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Las placas ser&#xE1;n proporcionadas por<span class=\"n\" id=\"n_0\">DTO 26, TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 22.03.1985</span> las Municipalidades a costa de los interesados y tendr&#xE1;n las siguientes caracter&#xED;sticas:</div><div class=\"p\"> - Material met&#xE1;lico;</div><div class=\"p\"> - Fondo de color naranja;</div><div class=\"p\"> - Letras PR. 4 d&#xED;gitos y orla perimetral de color negro;</div><div class=\"p\">- En el costado derecho inferior el a&#xF1;o en que se otorga, y</div><div class=\"p\">- En la parte interior central la palabra Provisoria, tambi&#xE9;n en color negro.</div><div class=\"p\">&nbsp; &nbsp;  La placa deber&#xE1; portarse en el veh&#xED;culo en el mismo lugar correspondiente a las placas patente &#xFA;nica.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, deber&#xE1; portarse en el veh&#xED;culo el permiso de circulaci&#xF3;n provisional respectivo, debiendo existir la debida correspondencia entre las placas y el permiso.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Las placas ser&#xE1;n proporcionadas por<span class=\"n\" id=\"n_4\">DTO 26, TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 22.03.1985</span> las Municipalidades a costa de los interesados y tendr&#xE1;n las siguientes caracter&#xED;sticas:</div><div class=\"p\"> - Material met&#xE1;lico;</div><div class=\"p\"> - Fondo de color naranja;</div><div class=\"p\"> - Letras PR. 4 d&#xED;gitos y orla perimetral de color negro;</div><div class=\"p\">- En el costado derecho inferior el a&#xF1;o en que se otorga, y</div><div class=\"p\">- En la parte interior central la palabra Provisoria, tambi&#xE9;n en color negro.</div><div class=\"p\">&nbsp; &nbsp;  La placa deber&#xE1; portarse en el veh&#xED;culo en el mismo lugar correspondiente a las placas patente &#xFA;nica.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, deber&#xE1; portarse en el veh&#xED;culo el permiso de circulaci&#xF3;n provisional respectivo, debiendo existir la debida correspondencia entre las placas y el permiso.</div><br></div>"
+        },
+        {
+          "part_id": 9003325,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xB0;.- Las Municipalidades no podr&#xE1;n otorgar m&#xE1;s de cinco permisos de circulaci&#xF3;n provisional y las correspondientes placas a un mismo establecimiento comercial.</div><div class=\"p\">&nbsp; &nbsp;  En casos especialmente calificados por la antig&#xFC;edad del establecimiento, por su capital de giro, por el volumen acreditado de ventas o por otras circunstancias, la Municipalidad podr&#xE1; otorgar m&#xE1;s de cinco y hasta 10 permisos para un mismo establecimiento. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1204063&amp;idParte=10502666&amp;idVersion=2024-06-06\">Decreto 61,<br>TRANSPORTES<br>Art. &#xFA;nico N&#xBA; 7<br>D.O. 06.06.2024</a></span>rt&#xED;culo 7&#xBA;.- Las municipalidades no podr&#xE1;n otorgar m&#xE1;s de cinco permisos de circulaci&#xF3;n provisional y las correspondientes placas provisorias semestralmente a una misma persona jur&#xED;dica. </div><br><br></div>"
+        },
+        {
+          "part_id": 9003326,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xB0;.- El presente decreto regir&#xE1; a contar del 1&#xB0; de Enero de 1985.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1204063&amp;idParte=10502666&amp;idVersion=2024-06-06\">Decreto 61,<br>TRANSPORTES<br>Art. &#xFA;nico N&#xBA; 8<br>D.O. 06.06.2024</a></span>t&#xED;culo 8&#xBA;.- Las placas provisorias, deber&#xE1;n ser devueltas por las personas jur&#xED;dicas a las Municipalidades que las hubieren otorgado, en un plazo de 5 d&#xED;as h&#xE1;biles desde la expiraci&#xF3;n de los correspondientes permisos de circulaci&#xF3;n provisionales.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1204063,
+      "fecha": "2024-06-06"
+    }
+  },
+  {
+    "fecha": "2024-12-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9003323,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Las placas ser&#xE1;n proporcionadas por<span class=\"n\" id=\"n_4\">DTO 26, TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 22.03.1985</span> las Municipalidades a costa de los interesados y tendr&#xE1;n las siguientes caracter&#xED;sticas:</div><div class=\"p\"> - Material met&#xE1;lico;</div><div class=\"p\"> - Fondo de color naranja;</div><div class=\"p\"> - Letras PR. 4 d&#xED;gitos y orla perimetral de color negro;</div><div class=\"p\">- En el costado derecho inferior el a&#xF1;o en que se otorga, y</div><div class=\"p\">- En la parte interior central la palabra Provisoria, tambi&#xE9;n en color negro.</div><div class=\"p\">&nbsp; &nbsp;  La placa deber&#xE1; portarse en el veh&#xED;culo en el mismo lugar correspondiente a las placas patente &#xFA;nica.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, deber&#xE1; portarse en el veh&#xED;culo el permiso de circulaci&#xF3;n provisional respectivo, debiendo existir la debida correspondencia entre las placas y el permiso.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1204063&amp;idParte=10502666&amp;idVersion=2024-06-06\">Decreto 61,<br>TRANSPORTES<br>Art. &#xFA;nico N&#xBA; 6<br>D.O. 06.06.2024</a></span>rt&#xED;culo 5&#xBA;.- Las placas provisorias ser&#xE1;n proporcionadas por las Municipalidades y tendr&#xE1;n las siguientes caracter&#xED;sticas:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  . Material met&#xE1;lico.</div><div class=\"p\">&nbsp; &nbsp;  . Forma rectangular, con puntas redondeadas, de 360 mil&#xED;metros de largo por 130 mil&#xED;metros de alto, para veh&#xED;culos motorizados de cuatro o m&#xE1;s ruedas, y de 145 mil&#xED;metros de largo por 120 mil&#xED;metros de alto, para veh&#xED;culos motorizados de dos o tres ruedas.</div><div class=\"p\">&nbsp; &nbsp;  . Fondo de color naranja.</div><div class=\"p\">&nbsp; &nbsp;  . Estar&#xE1;n compuestas por la combinaci&#xF3;n de las letras PR y 4 d&#xED;gitos en veh&#xED;culos motorizados de cuatro o m&#xE1;s ruedas y de las letras PR y 3 d&#xED;gitos, trat&#xE1;ndose de veh&#xED;culos motorizados de dos o tres ruedas, dispuestos de izquierda a derecha con orla perimetral, todo en color negro.</div><div class=\"p\">&nbsp; &nbsp;  . Entre las letras y d&#xED;gitos ir&#xE1; un s&#xED;mbolo que representar&#xE1; una estrella, salvo en los veh&#xED;culos de 2 o 3 ruedas que llevar&#xE1;n un punto en la misma ubicaci&#xF3;n, ambos tambi&#xE9;n en color negro.</div><div class=\"p\">&nbsp; &nbsp;  . Las letras, n&#xFA;meros y s&#xED;mbolo ser&#xE1;n del tipo y dimensiones establecidas en las letras A o B del art&#xED;culo 7&#xBA; del decreto supremo N&#xBA; 53, de 1984, del Ministerio de Transportes y Telecomunicaciones, seg&#xFA;n corresponda al tipo veh&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp;  . En la parte inferior central deber&#xE1; incluir el nombre o abreviaci&#xF3;n de la comuna, el a&#xF1;o en que se otorga, seguido de un gui&#xF3;n y el n&#xFA;mero 1 o 2 seg&#xFA;n corresponda al primer o segundo semestre entregado, tambi&#xE9;n en color negro. Las letras ser&#xE1;n del tipo indicado en el art&#xED;culo 7&#xBA; del decreto supremo N&#xBA; 53, de 1984, del Ministerio de Transportes y Telecomunicaciones; de un alto de 15 o 10 mil&#xED;metros, seg&#xFA;n corresponda al tipo de veh&#xED;culo y un ancho del trazo de acuerdo con el tipo de letra.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Las placas provisorias deber&#xE1;n instalarse en el veh&#xED;culo en los mismos lugares correspondientes a la placa patente &#xFA;nica, esto es, en la parte delantera y posterior de sus carrocer&#xED;as o en la parte posterior, seg&#xFA;n se trate de veh&#xED;culos motorizados de cuatro o m&#xE1;s ruedas o de veh&#xED;culos de dos o tres ruedas, remolques y semirremolques, respectivamente; sin objetos, accesorios o aditamentos que obstaculicen su plena percepci&#xF3;n. Deber&#xE1;n fijarse a la carrocer&#xED;a del veh&#xED;culo de modo tal que no se distorsione o dificulte la correcta identificaci&#xF3;n de la combinaci&#xF3;n de letras y d&#xED;gitos asignados.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

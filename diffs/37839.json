@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-06-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-08-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6019285,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; PROHIBE CIRCULACION DE VEHICULOS QUE INDICA EN DIAS Y CALLES QUE SE SE&#xD1;ALAN EN LA CIUDAD DE RANCAGUA N&#xFA;m. 6 exenta.- Rancagua, 21 de Junio de 1991.- Vistos: Lo dispuesto por los Arts. N&#xB0;s 113 y 118 de la Ley N&#xB0; 18.290, la Ley 19.011 y la Resoluci&#xF3;n N&#xB0; 59/85, del Ministerio de Transportes y Telecomunicaciones; y Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Que la congesti&#xF3;n veh&#xED;cular se ha convertido en un problema grave y de imprevisibles consecuencias en la Ciudad de Rancagua, vi&#xE9;ndose afectado el medio ambiente, el libre desplazamiento y seguridad de las personas, y 2&#xB0;.- Que, sin afectar a los servicios de locomoci&#xF3;n de pasajeros ni a los prestadores y en beneficio de la Comunidad, puede reducirse la circulaci&#xF3;n veh&#xED;cular en la Comuna de Rancagua, conforme a las siguientes disposiciones.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">PROHIBE CIRCULACION DE VEHICULOS QUE INDICA EN DIAS Y CALLES QUE SE SE&#xD1;ALAN EN LA CIUDAD DE RANCAGUA </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 6 exenta.- Rancagua, 21 de Junio de 1991.- Vistos: Lo dispuesto por los Arts. N&#xB0;s 113 y 118 de la Ley N&#xB0; 18.290, la Ley 19.011 y la Resoluci&#xF3;n N&#xB0; 59/85, del Ministerio de Transportes y Telecomunicaciones; y </div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Que la congesti&#xF3;n veh&#xED;cular se ha convertido en un problema grave y de imprevisibles consecuencias en la Ciudad de Rancagua, vi&#xE9;ndose afectado el medio ambiente, el libre desplazamiento y seguridad de las personas, y 2&#xB0;.- Que, sin afectar a los servicios de locomoci&#xF3;n de pasajeros ni a los prestadores y en beneficio de la Comunidad, puede reducirse la circulaci&#xF3;n veh&#xED;cular en la Comuna de Rancagua, conforme a las siguientes disposiciones.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

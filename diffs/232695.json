@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-11-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-11-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7316246,
+          "old": null,
+          "new": "<div><br><div class=\"p\"> CONTRALORIA GENERAL DE LA REPUBLICA<span class=\"n\" id=\"n_0\">AVI-S/N, CONTRALORIA<br>D.O. 25.11.2004</span></div><div class=\"p\"> Divisi&#xF3;n de Contabilidad</div><div class=\"p\">Cursa con alcance resoluci&#xF3;n N&#xBA; 1.441 de 2004, del Ministerio de Defensa Nacional, Subsecretar&#xED;a de Marina</div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 48.247.- Santiago, 24 de septiembre de 2004.</div><div class=\"p\">&nbsp; &nbsp;  La Contralor&#xED;a General ha dado curso al documento del ep&#xED;grafe, que otorga la concesi&#xF3;n de acuicultura sobre un sector de porci&#xF3;n de agua y fondo de mar, que singulariza, en la comuna de Hualaihu&#xE9;, provincia de Palena, X Regi&#xF3;n de Los Lagos, pero cumple con precisar, en conformidad con los antecedentes adjuntos, que la referencia a &quot;Sur de Farellones Caicura&quot;, contenida en el N&#xBA; 1 de la parte resolutiva del acto administrativo en estudio, debe entenderse efectuada a &quot;Sur de Farallones Caicura&quot;.</div><div class=\"p\">&nbsp; &nbsp;  Con el alcance que antecede se ha tomado raz&#xF3;n de la resoluci&#xF3;n del rubro.</div><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a Ud. por orden del Contralor General de la Rep&#xFA;blica, Jefe Sub Divisi&#xF3;n Cr&#xE9;dito P&#xFA;blico y Bienes Nacionales.</div><div class=\"p\"> Al se&#xF1;or</div><div class=\"p\"> Subsecretario de Marina</div><div class=\"p\">Presente.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

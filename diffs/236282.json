@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-03-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-03-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6518703,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 208 (V. Y U.), DE 2002, QUE DECLARA I.O.C.T. A DICTUS S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 15 de febrero de 2005.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 235.- Visto: Lo se&#xF1;alado en el art&#xED;culo 8, letra d) del D.L. N&#xBA; 1.305 (V. y U.), de 1975; el art&#xED;culo transitorio del D.S. N&#xBA; 10 (V. y U.), de 2002, y la resoluci&#xF3;n N&#xBA; 208 (V. y U.), de 2002, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 208 (V. Y U.), DE 2002, QUE DECLARA I.O.C.T. A DICTUC S.A.<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 28.03.2005</span></div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 15 de febrero de 2005.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 235.- Visto: Lo se&#xF1;alado en el art&#xED;culo 8, letra d) del D.L. N&#xBA; 1.305 (V. y U.), de 1975; el art&#xED;culo transitorio del D.S. N&#xBA; 10 (V. y U.), de 2002, y la resoluci&#xF3;n N&#xBA; 208 (V. y U.), de 2002, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>"
+        }
+      ]
+    }
+  }
+]

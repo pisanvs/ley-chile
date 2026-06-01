@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2005-10-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-01-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7323460,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;banse las siguientes normas t&#xE9;cnicas sobre directrices nutricionales para los mensajes que se utilicen para declarar propiedades saludables de los alimentos, consistentes en la asociaci&#xF3;n entre un alimento, un nutriente u otra sustancia y una condici&#xF3;n de salud:</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 03.10.2005, P&#xC1;GINAS 4 y 5.</div><br><br><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a contar de la fecha de su publicaci&#xF3;n en el Diario Oficial, fecha a contar de la cual se deroga la resoluci&#xF3;n exenta N&#xB0; 1.212, de 5 de junio de 1998, del Ministerio de Salud, as&#xED; como todas sus modificaciones. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;banse las siguientes normas t&#xE9;cnicas sobre directrices nutricionales para los mensajes que se utilicen para declarar propiedades saludables de los alimentos, consistentes en la asociaci&#xF3;n entre un alimento, un nutriente u otra sustancia y una condici&#xF3;n de salud:</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 03.10.2005, P&#xC1;GINAS 4 y 5.<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><br><div class=\"p\">&nbsp; &nbsp;  2&#xB0;.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a contar de la fecha de su publicaci&#xF3;n en el Diario Oficial, fecha a contar de la cual se deroga la resoluci&#xF3;n exenta N&#xB0; 1.212, de 5 de junio de 1998, del Ministerio de Salud, as&#xED; como todas sus modificaciones.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 1094 Exenta, Salud, publicada el 17.01.2006, modifica los cuadros de la presente norma en la forma que indica.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2009-10-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

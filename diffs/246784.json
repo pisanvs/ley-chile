@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1978-10-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-02-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8868065,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- La Unidad de Inspector&#xED;a General es el organismo encargado de velar porque las actividades del establecimiento se desarrollen en un ambiente de disciplina, bienestar y sana convivencia.</div><div class=\"p\">&nbsp; &nbsp;  Estar&#xE1; integrada por el o los Inspectores Generales, los Profesores Inspectores y los Auxiliares y estar&#xE1; dirigida por el Inspector General o por el Inspector General m&#xE1;s antiguo en su caso.</div><div class=\"p\">&nbsp; &nbsp;  Esta Unidad cumplir&#xE1; adem&#xE1;s, entre otras, funciones relativas a Bienestar, Inspector&#xED;a y Servicios Auxiliares.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- La Unidad de Inspector&#xED;a General es el organismo encargado de velar porque las actividades del establecimiento se desarrollen en un ambiente de disciplina, bienestar y sana convivencia.</div><div class=\"p\">&nbsp; &nbsp;  Estar&#xE1; integrada por el o los Inspectores Generales, los Paradocentes Inspectores y los Auxiliares<span class=\"n\" id=\"n_0\">DTO 1988, EDUCACION<br>Art. 2&#xBA;<br>D.O. 26.02.1979</span> y estar&#xE1; dirigida por el Inspector General o por el Inspector General m&#xE1;s antiguo en su caso.</div><div class=\"p\">&nbsp; &nbsp;  Esta Unidad cumplir&#xE1; adem&#xE1;s, entre otras, funciones relativas a Bienestar, Inspector&#xED;a y Servicios Auxiliares.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1982-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8868105,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 40&#xBA;.- Habr&#xE1; un Centro General de Padres y Apoderados y Subcentros por Curso, que se regir&#xE1;n por las normas legales y reglamentarias vigentes. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 40&#xBA;.- Las organizaciones internas del<span class=\"n\" id=\"n_1\">DTO 632, EDUCACION<br>Art. 17<br>D.O. 05.05.1982</span> alumnado se regir&#xE1;n por sus disposiciones especiales vigentes en lo que no vulneren el presente Reglamento.</div><br></div>"
+        },
+        {
+          "part_id": 8868106,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  CAPITULO X</div><br><div class=\"p\">&nbsp; &nbsp;  De los Centros de Padres</div></div>",
+          "new": "<div><div class=\"p\">@</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-10-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-02-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8543903,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;PESQUERA QURBOSA LIMITADA&quot; PARA CONTINUAR DESARROLLANDO LAS ACTIVIDADES PESQUERAS QUE SE INDICAN Y PARA OPERAR EMBARCACIONES QUE SE INDIVIDUALIZAN </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;PESQUERA QURBOSA LIMITADA&quot; PARA CONTINUAR DESARROLLANDO LAS ACTIVIDADES PESQUERAS QUE SE INDICAN Y PARA OPERAR EMBARCACIONES QUE SE INDIVIDUALIZAN </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

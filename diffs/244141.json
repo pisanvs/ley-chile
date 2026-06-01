@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1974-03-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-12-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7325488,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- A falta de estipulaci&#xF3;n en contrario, el honorario correspondiente a los diversos servicios que se presten en el desempe&#xF1;o de la profesi&#xF3;n de &quot;enfermera&quot; ser&#xE1;, en cada caso, el que corresponda conforme a las normas contenidas en el presente arancel.</div><div class=\"p\">&nbsp; &nbsp;  Los Tribunales de Justicia no podr&#xE1;n regular el honorario de una &quot;enfermera&quot; en una suma inferior a la m&#xED;nima establecida por el arancel por cada uno de los servicios prestados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=277620&amp;idParte=10006660&amp;idVersion=1978-12-18\">DTO 281, SALUD<br>Art. 1 a)<br>D.O. 18.12.1978</a></span>Las enfermeras ser&#xE1;n libres para pactar o convenir honorarios con sus pacientes, sin sujeci&#xF3;n a m&#xED;nimos o m&#xE1;ximos.&quot;.</div><div class=\"p\">&nbsp; &nbsp;  &quot;Por consiguiente, el presente Arancel rige s&#xF3;lo a falta de estipulaci&#xF3;n expresa.&quot;.</div><div class=\"p\">&nbsp; &nbsp;  &quot;En todo caso, los Tribunales de Justicia no podr&#xE1;n regular los honorarios de una enfermera en un valor inferior al m&#xED;nimo establecido en el Arancel.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 277620,
+      "fecha": "1978-12-18"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-04-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-06-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8352693,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD AGRICOLA AGUAS CLARAS LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD AGRICOLA AGUAS CLARAS LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

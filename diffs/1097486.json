@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-11-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9750961,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Monumento Hist&#xF3;rico, al sitio de memoria Ex Centro de Detenci&#xF3;n Providencia, ubicado en calle Manuel Antonio Matta N&#xBA; 3220 - 3224 - 3230, comuna, provincia y Regi&#xF3;n de Antofagasta.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida relativa al monumento, tiene una superficie aproximada total de 1.138,36 mts2 de acuerdo al pol&#xED;gono A - B - C - D - E - F - G - H - A, del plano adjunto, que forma parte del presente decreto y cuyos l&#xED;mites son los siguientes:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/62381.jpg\"></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Monumento Hist&#xF3;rico, al sitio de memoria Ex Centro de Detenci&#xF3;n Providencia, ubicado en calle Manuel Antonio Matta N&#xBA; 3220 - 3224 - 3230, comuna, provincia y Regi&#xF3;n de Antofagasta.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida relativa al monumento, tiene una superficie aproximada total de 1.138,36 mts2 de acuerdo al pol&#xED;gono A - B - C - D - E - F - G - H - A, del plano adjunto, que forma parte del presente decreto y cuyos l&#xED;mites son los siguientes:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/62381.jpg\"></div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto 45, M. de las Culturas, las Artes y el Patrimonio, publicado el 04.11.2022, modifica la presente norma en el sentido de ampliar los l&#xED;mites de protecci&#xF3;n, fijando el pol&#xED;gono de protecci&#xF3;n establecido mediante el plano de l&#xED;mites oficial N&#xBA; 9-2022, adjunto en la referida disposici&#xF3;n, e incorporar la &quot;Pintura La Virgen&quot; como parte de los atributos que presenta el bien, quedando el presente decreto del Ministerio de Educaci&#xF3;n, inalterado en sus dem&#xE1;s partes.</div></div>"
+        }
+      ]
+    }
+  }
+]

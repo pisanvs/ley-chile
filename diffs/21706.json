@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8946006,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Autor&#xED;zase la circulaci&#xF3;n de los siguientes veh&#xED;culos del Servicio Electoral en d&#xED;as S&#xE1;bados, Domingos y Festivos:</div><div class=\"p\"> 1.-&nbsp; Veh&#xED;culo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Camioneta</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chevrolet</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Luv 2.3 doble cabina</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Color&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Azul</div><div class=\"p\">&nbsp; &nbsp; &nbsp; A&#xF1;o fabricaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1993</div><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xB0; motor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  230461</div><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xB0; chassis&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  TFR 16HDL-E-2810</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Inscripci&#xF3;n R.N.V.M.&nbsp; &nbsp;  KS-8043-4</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Rol DAE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; KS-8043-4</div><div class=\"p\"> 2.-&nbsp; Veh&#xED;culo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Furg&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Renault</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Trafic TA - IC</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Color&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Blanco</div><div class=\"p\">&nbsp; &nbsp; &nbsp; A&#xF1;o fabricaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1993</div><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xB0; motor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  5526892</div><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xB0; chassis&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  No registra</div><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xB0; serie&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  923</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Inscripci&#xF3;n R.N.V.M.&nbsp; &nbsp;  KS 7387-K</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Rol DAE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; KS 7387-K</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Autor&#xED;zase la circulaci&#xF3;n de los siguientes veh&#xED;culos del Servicio Electoral en d&#xED;as S&#xE1;bados, Domingos y Festivos:</div><div class=\"p\"> 1.-&nbsp; Veh&#xED;culo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Camioneta</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Marca&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chevrolet</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Modelo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Luv 2.3 doble cabina</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Color&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Azul</div><div class=\"p\">&nbsp; &nbsp; &nbsp; A&#xF1;o fabricaci&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1993</div><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xB0; motor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  230461</div><div class=\"p\">&nbsp; &nbsp; &nbsp; N&#xB0; chassis&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  TFR 16HDL-E-2810</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Inscripci&#xF3;n R.N.V.M.&nbsp; &nbsp;  KS-8043-4</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Rol DAE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; KS-8043-4</div><div class=\"p\"> 2.-&nbsp; DEROGADO<span class=\"n\" id=\"n_0\">DTO 1186 EXENTO,<br>INTERIOR<br>Art. &#xFA;nico<br>D.O. 10.11.2001</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2001-07-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-07-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6344117,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 216 EXENTO, DE&nbsp; 2001 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 216 EXENTO, DE&nbsp; 2001</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

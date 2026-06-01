@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2008-06-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-12-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7371558,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- D&#xE9;janse sin efecto las designaciones reca&#xED;das en la Ministro se&#xF1;orita Marta Carrasco Arellano, RUT 3.947.557-K, como Presidente Titular en los Tribunales Especiales de Alzada de los Bienes Ra&#xED;ces de la Primera y Segunda Serie, con jurisdicci&#xF3;n en el territorio de la Ilustr&#xED;sima Corte de Apelaciones de Antofagasta, y en la Ministro se&#xF1;ora Rosa Mar&#xED;a Pinto Egusquiza, RUT N&#xBA; 4.303.976-5, como Presidente Suplente en los referidos tribunales, efectuadas por decreto supremo de Hacienda N&#xBA; 1082, de 9 de agosto de 2007, publicado en el Diario Oficial de 11 de septiembre de 2007.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- N&#xF3;mbrase en su reemplazo, en los Tribunales Especiales de Alzada de los Bienes Ra&#xED;ces de la Primera y Segunda Serie, con jurisdicci&#xF3;n en el territorio de la Ilustr&#xED;sima Corte de Apelaciones de Antofagasta, en las calidades que se se&#xF1;alan, a los siguientes Ministros:</div><br><div class=\"p\">Tribunal Especial de Alzada de los Bienes Ra&#xED;ces de la Primera Serie:</div><br><div class=\"p\">Presidente Titular: Rosa Mar&#xED;a Pinto Egusquiza, RUT N&#xBA;4.303.976-5 Presidente Suplente: Oscar Claver&#xED;a Guzm&#xE1;n, RUT N&#xBA;5.427.368-1</div><br><div class=\"p\">Tribunal Especial de Alzada de los Bienes Ra&#xED;ces de la Segunda Serie:</div><br><div class=\"p\">Presidente Titular: Gabriela Soto Chand&#xED;a, RUT N&#xBA; 4.621.207-K Presidente Suplente: Enrique &#xC1;lvarez Girat, RUT N&#xBA; 3.639.422-6 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- D&#xE9;janse sin efecto las designaciones reca&#xED;das en la Ministro se&#xF1;orita Marta Carrasco Arellano, RUT 3.947.557-K, como Presidente Titular en los Tribunales Especiales de Alzada de los Bienes Ra&#xED;ces de la Primera y Segunda Serie, con jurisdicci&#xF3;n en el territorio de la Ilustr&#xED;sima Corte de Apelaciones de Antofagasta, y en la Ministro se&#xF1;ora Rosa Mar&#xED;a Pinto Egusquiza, RUT N&#xBA; 4.303.976-5, como Presidente Suplente en los referidos tribunales, efectuadas por decreto supremo de Hacienda N&#xBA; 1082, de 9 de agosto de 2007, publicado en el Diario Oficial de 11 de septiembre de 2007.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- N&#xF3;mbrase en su reemplazo, en los Tribunales Especiales de Alzada de los Bienes Ra&#xED;ces de la Primera y Segunda Serie, con jurisdicci&#xF3;n en el territorio de la Ilustr&#xED;sima Corte de Apelaciones de Antofagasta, en las calidades que se se&#xF1;alan, a los siguientes Ministros:</div><br><div class=\"p\">T<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1008847&amp;idParte=8812868&amp;idVersion=2009-12-09\">Decreto 1049, HACIENDA<br>N&#xBA; 2<br>D.O. 09.12.2009</a></span>ribunal Especial de Alzada de los Bienes Ra&#xED;ces de la Primera Serie:</div><div class=\"p\">Presidente:</div><div class=\"p\">Titular:&nbsp; Ministra do&#xF1;a Marta </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Carrasco Arellano,&nbsp; &nbsp; &nbsp; RUT N&#xBA; 3.947.557-K.</div><div class=\"p\">Suplente: Ministra do&#xF1;a Laura </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Soto Torrealba,&nbsp; &nbsp; &nbsp; &nbsp;  RUT N&#xBA; 5.569.364-1.</div><br><div class=\"p\">Tribunal Especial de Alzada de los Bienes Ra&#xED;ces de la Segunda Serie:</div><div class=\"p\">Presidente:</div><div class=\"p\">Titular:&nbsp; Ministra do&#xF1;a Virginia </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Soublette Miranda,&nbsp; &nbsp; &nbsp; RUT N&#xBA; 7.688.804-3.</div><div class=\"p\">Suplente: Ministro don &#xD3;scar </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Claver&#xED;a Guzm&#xE1;n,&nbsp; &nbsp; &nbsp; &nbsp; RUT N&#xBA; 5.427.368-1.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1008847,
+      "fecha": "2009-12-09"
+    }
+  }
+]

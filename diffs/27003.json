@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1956-06-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-12-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7174212,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE QUE EL CABOTAJE QUEDA RESERVADO A LAS NAVES CHILENAS EN LAS CONDICIONES QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  ESTABLECE QUE EL CABOTAJE QUEDA RESERVADO A LAS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">NAVES CHILENAS EN LAS CONDICIONES QUE SE&#xD1;ALA<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1:</a></div></div><br><div class=\"p\">&nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp;  Proyecto de ley:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; El DTO 333, Transportes, publicado el 20.01.1978, fij&#xF3; el texto refundido, coordinado y sistematizado de la presente ley.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp; El Art. 19 del DL 3059, Transportes, publicado el 22.12.1979, derog&#xF3; la presente ley, en su texto refundido fijado por el DTO 333, Transportes, a que se refiere la nota anterior.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

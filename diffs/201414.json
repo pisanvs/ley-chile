@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-09-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-10-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6392238,
+          "old": "<div><div class=\"p\">FACULTA AL DIRECTOR DE EDUCACION PROFESIONAL PARA RESOLVER SITUACIONES ESPECIALES QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 173 exento.- Santiago, 31 de Agosto de 1983.Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la educaci&#xF3;n es un proceso din&#xE1;mico que necesita revisarse y adecuarse peri&#xF3;dicamente;</div><div class=\"p\">&nbsp; &nbsp;  Que los planes y programas de estudio de la Ense&#xF1;anza Media T&#xE9;cnico Profesional se hayan en proceso de reformulaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  Que por tal motivo al producirse situaciones de promoci&#xF3;n de los alumnos no contemplados expresamente en la reglamentaci&#xF3;n actual, ser&#xE1; necesario resolverlas en forma especial; y</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el decreto supremo de Educaci&#xF3;n N&#xB0; 9.555 de 1980; resoluci&#xF3;n N&#xB0; 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica y en los art&#xED;culos 32, N&#xB0; 8,y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">FACULTA AL DIRECTOR DE EDUCACION PROFESIONAL PARA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> RESOLVER SITUACIONES ESPECIALES QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 173 exento.- Santiago, 31 de Agosto de 1983.Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la educaci&#xF3;n es un proceso din&#xE1;mico que necesita revisarse y adecuarse peri&#xF3;dicamente;</div><div class=\"p\">&nbsp; &nbsp;  Que los planes y programas de estudio de la Ense&#xF1;anza Media T&#xE9;cnico Profesional se hayan en proceso de reformulaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  Que por tal motivo al producirse situaciones de promoci&#xF3;n de los alumnos no contemplados expresamente en la reglamentaci&#xF3;n actual, ser&#xE1; necesario resolverlas en forma especial; y</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en el decreto supremo de Educaci&#xF3;n N&#xB0; 9.555 de 1980; resoluci&#xF3;n N&#xB0; 1.050 de 1980 de la Contralor&#xED;a General de la Rep&#xFA;blica y en los art&#xED;culos 32, N&#xB0; 8,y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 22 del DTO 146 exento, Educaci&#xF3;n, publicado el 08.10.1988, modificado por el DTO 157 exento, Educaci&#xF3;n, publicado el 13.06.2000, que cambi&#xF3; la numeraci&#xF3;n del art&#xED;culo a 23, derog&#xF3; esta norma a partir del a&#xF1;o escolar 1989.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

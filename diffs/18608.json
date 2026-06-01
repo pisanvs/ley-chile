@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-12-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-04-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8872556,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ASIGNA VEHICULO QUE INDICA A PERSONA QUE SE&#xD1;ALA. AUTORIZA CIRCULACION EN DIAS INHABILES Y EXIME DE OBLIGACION DE LLEVAR DISTINTIVO ESTATAL</div><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de Noviembre de 1993.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.804.- Visto: Lo dispuesto en el Decreto Ley N&#xB0;799, de 1974 y sus modificaciones en el D.F.L.</div><div class=\"p\">12-2345, de 1979; en el art&#xED;culo 32&#xB0;, N&#xB0;8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; el Decreto Supremo N&#xB0;1407, de 1991; el Decreto Supremo N&#xB0;77, del 21.01.91, de Interior, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que don H&#xE9;ctor Mu&#xF1;oz Montecinos, cumple funciones de Jefe de Gabinete de la Subsecretar&#xED;a del Interior, Que en el desempe&#xF1;o de tal funci&#xF3;n necesita desplazarse a cualquier punto del pa&#xED;s, en d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos, y</div><div class=\"p\">&nbsp; &nbsp; Que para el cumplimiento de esta labor en forma eficiente necesita contar con un veh&#xED;culo en forma permanente, el cual pueda circular en d&#xED;as inh&#xE1;biles, sin sujeci&#xF3;n a la jornada de trabajo y sin distintivo estatal,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ASIGNA VEHICULO QUE INDICA A PERSONA QUE SE&#xD1;ALA. AUTORIZA CIRCULACION EN DIAS INHABILES Y EXIME DE OBLIGACION DE LLEVAR DISTINTIVO ESTATAL</div><div class=\"p\">&nbsp; &nbsp; Santiago, 22 de Noviembre de 1993.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.804.- Visto: Lo dispuesto en el Decreto Ley N&#xB0;799, de 1974 y sus modificaciones en el D.F.L.</div><div class=\"p\">12-2345, de 1979; en el art&#xED;culo 32&#xB0;, N&#xB0;8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica; el Decreto Supremo N&#xB0;1407, de 1991; el Decreto Supremo N&#xB0;77, del 21.01.91, de Interior, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que don H&#xE9;ctor Mu&#xF1;oz Montecinos, cumple funciones de Jefe de Gabinete de la Subsecretar&#xED;a del Interior, Que en el desempe&#xF1;o de tal funci&#xF3;n necesita desplazarse a cualquier punto del pa&#xED;s, en d&#xED;as S&#xE1;bados en la tarde, Domingos y festivos, y</div><div class=\"p\">&nbsp; &nbsp; Que para el cumplimiento de esta labor en forma eficiente necesita contar con un veh&#xED;culo en forma permanente, el cual pueda circular en d&#xED;as inh&#xE1;biles, sin sujeci&#xF3;n a la jornada de trabajo y sin distintivo estatal,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

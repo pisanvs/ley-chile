@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-08-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-12-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6229249,
+          "old": "<div><div class=\"p\">FIJA TRAZADOS URBANOS PARA VEHICULOS DE LOCOMOCION COLECTIVA NO URBANA EN LA COMUNA DE TALCA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 568 exenta.- Talca, 18 de Agosto de 1986.- Vistos:</div><div class=\"p\">Los Decretos Supremos N&#xB0;s. 275/80, 163/84 y sus modificaciones posteriores, todos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes;</div><div class=\"p\">&nbsp; &nbsp;  Los Of. Ord. No. 218/86 de SEREMITT VII Regi&#xF3;n y No. 194/86 de Sr. Prefecto de Carabineros de Talca, </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA TRAZADOS URBANOS PARA VEHICULOS DE LOCOMOCION COLECTIVA NO URBANA EN LA COMUNA DE TALCA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 568 exenta.- Talca, 18 de Agosto de 1986.- Vistos:</div><div class=\"p\">Los Decretos Supremos N&#xB0;s. 275/80, 163/84 y sus modificaciones posteriores, todos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes;</div><div class=\"p\">&nbsp; &nbsp;  Los Of. Ord. No. 218/86 de SEREMITT VII Regi&#xF3;n y No. 194/86 de Sr. Prefecto de Carabineros de Talca, </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

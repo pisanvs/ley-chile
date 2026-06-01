@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-01-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-06-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7227338,
+          "old": "<div><div class=\"p\">ESTABLECE MEDIDAS SANITARIAS PARA EL CONTROL DE MOSCA MEDITERRANEA (CERATITIS CAPITATA W. ) EN LUGARES QUE INDICA </div><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">Santiago 17 de Enero de 1990.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">N&#xFA;m. 59 exenta.- Visto: Lo dispuesto en el Decreto Ley No.</div><div class=\"p\">3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, la resoluci&#xF3;n No.</div><div class=\"p\">1.179, exenta de 1981 del Servicio Agr&#xED;cola y Ganadero, y lo dispuesto en la Ley No. 18.755 y</div><br><div class=\"p\">Considerando;</div><br><div class=\"p\">1.- Que por Resol. No. 1.179 citada en los vistos se declar&#xF3; el control obligatorio de la plaga de los vegetales conocida como &quot;mosca del Mediterr&#xE1;neo&quot; (Ceratitis capitata W.) en todo el territorio nacional.</div><br><div class=\"p\">2.- Que se ha detectado en la provincia de Los Andes ejemplares del mencionado insecto, lo que obliga a aplicar en dicha Provincia las medidas necesarias para evitar la dispersi&#xF3;n de la plaga a otros lugares del pa&#xED;s.</div><br><div class=\"p\">3.- Que entre las medidas de control referidas es necesario establecer un &#xE1;rea de resguardo cuarentenario, lo que supone instalar barreras sanitarias. las que por razones geogr&#xE1;ficas y viales deben ubicarse en las Provincias de Los Andes y San Felipe.</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE MEDIDAS SANITARIAS PARA EL CONTROL DE MOSCA MEDITERRANEA (CERATITIS CAPITATA W. ) EN LUGARES QUE INDICA </div><div class=\"p\">Santiago 17 de Enero de 1990.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">N&#xFA;m. 59 exenta.- Visto: Lo dispuesto en el Decreto Ley No.</div><div class=\"p\">3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, la resoluci&#xF3;n No.</div><div class=\"p\">1.179, exenta de 1981 del Servicio Agr&#xED;cola y Ganadero, y lo dispuesto en la Ley No. 18.755 y</div><br><div class=\"p\">Considerando;</div><br><div class=\"p\">1.- Que por Resol. No. 1.179 citada en los vistos se declar&#xF3; el control obligatorio de la plaga de los vegetales conocida como &quot;mosca del Mediterr&#xE1;neo&quot; (Ceratitis capitata W.) en todo el territorio nacional.</div><br><div class=\"p\">2.- Que se ha detectado en la provincia de Los Andes ejemplares del mencionado insecto, lo que obliga a aplicar en dicha Provincia las medidas necesarias para evitar la dispersi&#xF3;n de la plaga a otros lugares del pa&#xED;s.</div><br><div class=\"p\">3.- Que entre las medidas de control referidas es necesario establecer un &#xE1;rea de resguardo cuarentenario, lo que supone instalar barreras sanitarias. las que por razones geogr&#xE1;ficas y viales deben ubicarse en las Provincias de Los Andes y San Felipe.</div><br><div class=\"p\">Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

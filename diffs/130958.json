@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1988-09-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-06-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8340000,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PROCESADORA DE PRODUCTOS DEL MAR LIMITADA &quot;PRODEMAR LTDA.&quot; PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PROCESADORA DE PRODUCTOS DEL MAR LIMITADA &quot;PRODEMAR LTDA.&quot; PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

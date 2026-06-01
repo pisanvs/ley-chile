@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-03-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8328266,
+          "old": "<div><div class=\"p\">ESTABLECE PROCEDIMIENTOS PARA EL CONTROL DE LA PESQUERIA DEL RECURSO CONGRIO DORADO, DE AGUAS INTERIORES NORTE </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 354 exenta.- Valpara&#xED;so, 25 de febrero de 1998.- Visto: Lo dispuesto en la Ley General de Pesca y Acuicultura N&#xBA; 18.982 y sus modificaciones; el D.F.L. N&#xBA; 5, de 1983 y sus modificaciones; el decreto supremo N&#xBA; 781, de 1997 y su modificaci&#xF3;n, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, es deber del Estado velar por la protecci&#xF3;n, conservaci&#xF3;n y aprovechamiento de los recursos hidrobiol&#xF3;gicos.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el decreto supremo N&#xBA; 781, de 1997 y su modificaci&#xF3;n del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, estableci&#xF3; para 1998, una cuota global anual de captura de Congrio Dorado, Genyp-terus blacodes, de 570 toneladas para el &#xE1;rea de pesca denominada Aguas Interiores norte.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE PROCEDIMIENTOS PARA EL CONTROL DE LA PESQUERIA DEL RECURSO CONGRIO DORADO, DE AGUAS INTERIORES NORTE </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 354 exenta.- Valpara&#xED;so, 25 de febrero de 1998.- Visto: Lo dispuesto en la Ley General de Pesca y Acuicultura N&#xBA; 18.982 y sus modificaciones; el D.F.L. N&#xBA; 5, de 1983 y sus modificaciones; el decreto supremo N&#xBA; 781, de 1997 y su modificaci&#xF3;n, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, es deber del Estado velar por la protecci&#xF3;n, conservaci&#xF3;n y aprovechamiento de los recursos hidrobiol&#xF3;gicos.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el decreto supremo N&#xBA; 781, de 1997 y su modificaci&#xF3;n del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, estableci&#xF3; para 1998, una cuota global anual de captura de Congrio Dorado, Genyp-terus blacodes, de 570 toneladas para el &#xE1;rea de pesca denominada Aguas Interiores norte.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

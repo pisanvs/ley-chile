@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-02-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-06-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8923377,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Mar&#xED;a Gloria Undurraga Paul, hija de la beneficiaria, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot; del programa Operaciones complementarias del Presupuesto vigente de Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Fac&#xFA;ltase a do&#xF1;a Mar&#xED;a Gloria<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Undurraga Paul, hija de la beneficiaria, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot; del programa Operaciones complementarias del Presupuesto vigente de Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 397, Interior, publicado el 12.06.2003, dej&#xF3; sin efecto la facultad concedida por la presente norma a do&#xF1;a Mar&#xED;a Gloria Undurraga Paul, facult&#xE1;ndose a do&#xF1;a Mar&#xED;a Soledad Undurraga Paul, RUT 8.185.631-1, hija de la beneficiaria, para cobrar la pensi&#xF3;n de gracia en su representaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-09-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1992-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8747154,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10.- La tasaci&#xF3;n de los inmuebles que el Fisco remate para hacer efectivos los cr&#xE9;ditos a que hace menci&#xF3;n el art&#xED;culo anterior ser&#xE1; igual al monto total de la deuda existente, sea &#xE9;sta exigible o no, a menos que sea inferior al aval&#xFA;o territorial fiscal vigente a la &#xE9;poca de la subasta, en cuyo caso la tasaci&#xF3;n ser&#xE1; igual al aval&#xFA;o.</div><div class=\"p\">&nbsp; &nbsp; Si no se presentaren postores en el d&#xED;a fijado para el primer remate, el Servicio de Tesorer&#xED;as deber&#xE1; solicitar que se efect&#xFA;e una nueva subasta por los dos tercios de la tasaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Si puestos al remate los bienes embargados por los dos tercios de la tasaci&#xF3;n tampoco se presentaren postores, el Servicio de Tesorer&#xED;as deber&#xE1; solicitar que se pongan por tercera vez a remate, y en tal caso no habr&#xE1; m&#xED;nimun para las posturas.</div><div class=\"p\">&nbsp; &nbsp; Si el producido del remate no fuere suficiente para cubrir el pago de la deuda total, el ejecutado mantendr&#xE1; su calidad de deudor respecto del saldo.</div><div class=\"p\">&nbsp; &nbsp; Los avisos a que se refiere el art&#xED;culo 489 del C&#xF3;digo de Procedimiento Civil se reducir&#xE1;n en estos juicios a dos publicaciones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10.- La tasaci&#xF3;n de los inmuebles que el<span class=\"n\" id=\"n_0\">Ley 19.118<br>Art. 13</span> Fisco remate para hacer efectivos los cr&#xE9;ditos a que hace menci&#xF3;n el art&#xED;culo anterior ser&#xE1; igual al aval&#xFA;o fiscal vigente a la fecha de la subasta, incrementado en un 50%.</div><div class=\"p\">&nbsp; &nbsp; Si no se presentaren postores al d&#xED;a fijado para el primer remate, el Servicio de Tesorer&#xED;as solicitar&#xE1; que se efect&#xFA;e una nueva subasta cuyo m&#xED;nimo ser&#xE1; igual a los dos tercios de la tasaci&#xF3;n se&#xF1;alada en el inciso precedente.</div><div class=\"p\">&nbsp;  Si puestos a remate los inmuebles embargados por los dos tercios de la tasaci&#xF3;n, tampoco se presentaren postores, el Servicio de Tesorer&#xED;as, en representaci&#xF3;n del Fisco, podr&#xE1; pedir a su elecci&#xF3;n, cualquiera de las siguientes medidas:</div><div class=\"p\">&nbsp;  a) Que se le adjudiquen los bienes por los dichos dos tercios, o</div><div class=\"p\">&nbsp;  b) Que se pongan por tercera vez a remate por el precio que el Tribunal determine.</div><div class=\"p\">&nbsp;  En caso de operar la medida indicada en la letra a) del inciso precedente, el Fisco enajenar&#xE1; a t&#xED;tulo oneroso dichos bienes dentro del plazo m&#xE1;ximo de un a&#xF1;o.</div><div class=\"p\">&nbsp;  Efectuado el remate, el producto de &#xE9;ste se imputar&#xE1; al total de la deuda que registre el predio, sea &#xE9;sta vencida o pendiente. Si dicho producto no fuere suficiente para cubrir el total adeudado, el saldo insoluto se extinguir&#xE1; por el solo ministerio de la ley. Sin embargo, si por efecto de tercer&#xED;as de prelaci&#xF3;n o de pago interpuestas por otros acreedores en este procedimiento no se imputare, en definitiva, el total del precio del remate al pago de la deuda fiscal, el saldo insoluto se extinguir&#xE1; s&#xF3;lo en lo que exceda del valor de la subasta, manteniendo el ejecutado su calidad de deudor exclusivo del remanente, el cual se pagar&#xE1; en los plazos y condiciones establecidos en el t&#xED;tulo de adquisici&#xF3;n del predio subastado.</div><div class=\"p\">&nbsp;  Los avisos que dispone el art&#xED;culo 489 del C&#xF3;digo de Procedimiento Civil se reducir&#xE1;n, en estos juicios, a dos publicaciones.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

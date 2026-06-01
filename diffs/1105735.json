@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2017-07-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-08-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9819132,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  P&#xE1;rrafo 1&#xB0;: Disposiciones Generales</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Ll&#xE1;mese a proceso de selecci&#xF3;n en condiciones especiales, para el otorgamiento de subsidios del Programa de Habitabilidad Rural, a trav&#xE9;s del T&#xED;tulo I &quot;Proyectos de Asociaci&#xF3;n Territorial&quot;, del Cap&#xED;tulo IV del <a href=\"https://www.leychile.cl/Navegar?idNorma=1082987&amp;idParte=0&amp;idVersion=\">DS N&#xB0;10 (V. y U.), de 2015</a>, para el desarrollo de proyectos en las modalidades de &quot;Construcci&#xF3;n de Viviendas Nuevas&quot; y Proyectos de &quot;Mejoramiento y Ampliaci&#xF3;n de Viviendas Existentes&quot;, dirigido a familias que cuenten con Expediente de Postulaci&#xF3;n aprobado por Serviu, hasta el d&#xED;a 31 de agosto del a&#xF1;o en curso.</div><div class=\"p\">&nbsp; &nbsp;  2. La selecci&#xF3;n se efectuar&#xE1; con los expedientes aprobados, por estricto orden de prelaci&#xF3;n y hasta agotar la totalidad de los recursos distribuidos para la regi&#xF3;n, indicados en el p&#xE1;rrafo 4&#xB0; de la presente resoluci&#xF3;n. Las Entidades de Gesti&#xF3;n Rural que participen en el Llamado Regional, podr&#xE1;n ingresar sus Expedientes de Postulaci&#xF3;n a partir de la fecha de publicaci&#xF3;n en el Diario Oficial de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. Podr&#xE1;n participar en el presente llamado, las familias que cumplan las condiciones descritas en los resuelvos Nos 2 y 3 del p&#xE1;rrafo 1&#xB0; y resuelvo N&#xB0; 18 del p&#xE1;rrafo 3&#xB0;, todos de la resoluci&#xF3;n exenta N&#xB0; 8.169 (V. y U.), de fecha 29 de junio de 2017.</div><div class=\"p\">&nbsp; &nbsp;  4. Las viviendas nuevas que se construyan tendr&#xE1;n la restricci&#xF3;n contenida en el resuelvo N&#xB0; 4 del p&#xE1;rrafo 1&#xB0; de la resoluci&#xF3;n exenta N&#xB0; 8.169 (V. y U.), de fecha 29 de junio de 2017.</div><div class=\"p\"> </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  P&#xE1;rrafo 1&#xB0;: Disposiciones Generales</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Ll&#xE1;mese a proceso de selecci&#xF3;n en condiciones especiales, para el otorgamiento de subsidios del Programa de Habitabilidad Rural, a trav&#xE9;s del T&#xED;tulo I &quot;Proyectos de Asociaci&#xF3;n Territorial&quot;, del Cap&#xED;tulo IV del DS N&#xB0;10 (V. y U.), de 2015, para el desarrollo de proyectos en las modalidades de &quot;Construcci&#xF3;n de Viviendas Nuevas&quot; y Proyectos de &quot;Mejoramiento y Ampliaci&#xF3;n de Viviendas Existentes&quot;, dirigido a familias que cuenten con Expediente de Postulaci&#xF3;n aprobado por Serviu, <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>hasta el d&#xED;a 31 de agosto del a&#xF1;o en curso.</div><div class=\"p\">&nbsp; &nbsp;  2. La selecci&#xF3;n se efectuar&#xE1; con los expedientes aprobados, por estricto orden de prelaci&#xF3;n y hasta agotar la totalidad de los recursos distribuidos para la regi&#xF3;n, indicados en el p&#xE1;rrafo 4&#xB0; de la presente resoluci&#xF3;n. Las Entidades de Gesti&#xF3;n Rural que participen en el Llamado Regional, podr&#xE1;n ingresar sus Expedientes de Postulaci&#xF3;n a partir de la fecha de publicaci&#xF3;n en el Diario Oficial de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. Podr&#xE1;n participar en el presente llamado, las familias que cumplan las condiciones descritas en los resuelvos Nos 2 y 3 del p&#xE1;rrafo 1&#xB0; y resuelvo N&#xB0; 18 del p&#xE1;rrafo 3&#xB0;, todos de la resoluci&#xF3;n exenta N&#xB0; 8.169 (V. y U.), de fecha 29 de junio de 2017.</div><div class=\"p\">&nbsp; &nbsp;  4. Las viviendas nuevas que se construyan tendr&#xE1;n la restricci&#xF3;n contenida en el resuelvo N&#xB0; 4 del p&#xE1;rrafo 1&#xB0; de la resoluci&#xF3;n exenta N&#xB0; 8.169 (V. y U.), de fecha 29 de junio de 2017.</div><br><br><div class=\"p\"> </div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 886 Exenta, Vivienda, publicada el 29.08.2017, modifica la presente norma en el sentido de establecer como fecha m&#xE1;xima para contar con Expediente de Postulaci&#xF3;n aprobado por Serviu, el d&#xED;a 25 de septiembre de 2017.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2017-12-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9819135,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  P&#xE1;rrafo 4&#xB0;: Recursos disponibles</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  10. Los recursos involucrados para la selecci&#xF3;n ascienden a un total de 309.150 U.F. y para efectos de la prelaci&#xF3;n por tipo de expediente se considerar&#xE1; la siguiente distribuci&#xF3;n por modalidad, la cual podr&#xE1; ser modificada en funci&#xF3;n de las postulaciones efectivas que se produzcan:</div><br><div class=\"p\">&nbsp; &nbsp;  Construcci&#xF3;n de Vivienda&nbsp; &nbsp; &nbsp; &nbsp; Mejoramiento y Ampliaci&#xF3;n de</div><div class=\"p\">&nbsp; &nbsp;  Nueva&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Viviendas Existentes</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 212.625 UF&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  96.525 UF</div><br><div class=\"p\">&nbsp; &nbsp;  11. El n&#xFA;mero de postulantes seleccionados alcanzar&#xE1; hasta el n&#xFA;mero de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluido su respectivo servicio de asistencia t&#xE9;cnica, fiscalizaci&#xF3;n t&#xE9;cnica de obras y subsidios complementarios, si corresponden.</div><div class=\"p\">&nbsp; &nbsp;  12. Mediante resoluci&#xF3;n de esta Secretar&#xED;a Regional Ministerial, que se publicar&#xE1; en el Diario Oficial, se aprobar&#xE1; la n&#xF3;mina de seleccionados. La difusi&#xF3;n de dicha n&#xF3;mina podr&#xE1; realizarse en un peri&#xF3;dico de circulaci&#xF3;n regional o nacional u otro medio de comunicaci&#xF3;n p&#xFA;blica.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  P&#xE1;rrafo 4&#xB0;: Recursos disponibles</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  10.- Los recursos involucrados para la selecci&#xF3;n ascienden a un total de 285.025,17 U.F. y su distribuci&#xF3;n territorial ser&#xE1; la siguiente<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1112269&amp;idParte=9864706&amp;idVersion=2017-12-12\">Resoluci&#xF3;n 1298 EXENTA,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 12.12.2017</a></span>:</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\"> </div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74016.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  11. El n&#xFA;mero de postulantes seleccionados alcanzar&#xE1; hasta el n&#xFA;mero de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluido su respectivo servicio de asistencia t&#xE9;cnica, fiscalizaci&#xF3;n t&#xE9;cnica de obras y subsidios complementarios, si corresponden.</div><div class=\"p\">&nbsp; &nbsp;  12. Mediante resoluci&#xF3;n de esta Secretar&#xED;a Regional Ministerial, que se publicar&#xE1; en el Diario Oficial, se aprobar&#xE1; la n&#xF3;mina de seleccionados. La difusi&#xF3;n de dicha n&#xF3;mina podr&#xE1; realizarse en un peri&#xF3;dico de circulaci&#xF3;n regional o nacional u otro medio de comunicaci&#xF3;n p&#xFA;blica.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1112269,
+      "fecha": "2017-12-12"
+    }
+  }
+]

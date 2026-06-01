@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-09-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-12-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9635534,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Disp&#xF3;ngase, la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, Loteos o Urbanizaci&#xF3;n Predial y de Construcciones por un plazo de tres meses, sobre &#xE1;reas ubicadas en Herradura Oriente y pueblo La Herradura, ambas en la Comuna de Coquimbo, las cuales est&#xE1;n contenidas en los siguientes pol&#xED;gonos descritos a continuaci&#xF3;n y graficadas en planos esquem&#xE1;ticos. :</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/52209.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; La postergaci&#xF3;n de permisos establecidos en esta resoluci&#xF3;n, no afectar&#xE1; a los anteproyectos y/o proyectos aprobados con anterioridad a esta postergaci&#xF3;n, siempre que ellos est&#xE9;n conforme a lo establecido en el Plan Regulador de Coquimbo vigente, en la Ley General de Urbanismo y Construcci&#xF3;n, su Ordenanza General y sus modificaciones.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial y en el diario de mayor circulaci&#xF3;n regional, por una sola vez.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Disp&#xF3;ngase, la poster<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>gaci&#xF3;n de permisos de subdivisi&#xF3;n, Loteos o Urbanizaci&#xF3;n Predial y de Construcciones por un plazo de tres meses, sobre &#xE1;reas ubicadas en Herradura Oriente y pueblo La Herradura, ambas en la Comuna de Coquimbo, las cuales est&#xE1;n contenidas en los siguientes pol&#xED;gonos descritos a continuaci&#xF3;n y graficadas en planos esquem&#xE1;ticos. :</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/52209.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; La postergaci&#xF3;n de permisos establecidos en esta resoluci&#xF3;n, no afectar&#xE1; a los anteproyectos y/o proyectos aprobados con anterioridad a esta postergaci&#xF3;n, siempre que ellos est&#xE9;n conforme a lo establecido en el Plan Regulador de Coquimbo vigente, en la Ley General de Urbanismo y Construcci&#xF3;n, su Ordenanza General y sus modificaciones.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Publ&#xED;quese la presente resoluci&#xF3;n en el Diario Oficial y en el diario de mayor circulaci&#xF3;n regional, por una sola vez.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 de la Resoluci&#xF3;n 904 Exenta, Vivienda, publicada el 05.12.2015, modifica la presente norma en el sentido de prorrogar la postergaci&#xF3;n hasta completar el plazo de 12 meses, respecto de los dos pol&#xED;gonos que en ella se se&#xF1;alan. La referencia que en la Resoluci&#xF3;n 904 Exenta se hace a la Resoluci&#xF3;n 1.114 se entiende hecha a esta norma (5.114) en atenci&#xF3;n a sus fechas de promulgaci&#xF3;n y publicaci&#xF3;n, asi como a su texto.</div></div>"
+        }
+      ]
+    }
+  }
+]

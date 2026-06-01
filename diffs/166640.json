@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-02-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1985-07-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8361611,
+          "old": "<div><div class=\"p\">APRUEBA EL DOCUMENTO &quot;PROGRAMAS MINISTERIALES, A&#xD1;O 1985&quot; E IMPARTE INSTRUCCIONES AL RESPECTO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 30 de Enero de 1985.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 133.- Visto: Lo dispuesto en los art&#xED;culos 24 y 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la conducci&#xF3;n y administraci&#xF3;n del Estado debe ser coordinada y coherente, a fin de evitar duplicidad de esfuerzos y alcanzar el logro del objetivo parcial del Gobierno para 1985 en forma eficiente.</div><div class=\"p\">&nbsp; &nbsp;  Que para ello, uno de los requisitos fundamentales es obtener un funcionamiento coordinado de los Ministerios y dem&#xE1;s organismos del Sector P&#xFA;blico de acuerdo a un conjunto de medidas y directrices que est&#xE9;n en concordancia con los principios y l&#xED;neas de acci&#xF3;n aprobados por el Gobierno.</div><div class=\"p\">&nbsp; &nbsp;  Que es de imperiosa necesidad informar oportunamente a la opini&#xF3;n p&#xFA;blica acerca de las pol&#xED;ticas de acci&#xF3;n que el Estado lleve a cabo para el desarrollo econ&#xF3;mico y social del pa&#xED;s.-</div><div class=\"p\">&nbsp; &nbsp;  Que es indispensable determinar, con la mayor precisi&#xF3;n posible, las tareas prioritarias de los Ministerios y de los Servicios, Instituciones y Empresas de la Administraci&#xF3;n Centralizada y Descentralizada del Estado.</div><div class=\"p\">&nbsp; &nbsp;  Que es de fundamental conveniencia simplificar y agilizar el funcionamiento administrativo de estos organismos del Estado.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA EL DOCUMENTO &quot;PROGRAMAS MINISTERIALES, A&#xD1;O 1985&quot; E IMPARTE INSTRUCCIONES AL RESPECTO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 30 de Enero de 1985.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 133.- Visto: Lo dispuesto en los art&#xED;culos 24 y 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la conducci&#xF3;n y administraci&#xF3;n del Estado debe ser coordinada y coherente, a fin de evitar duplicidad de esfuerzos y alcanzar el logro del objetivo parcial del Gobierno para 1985 en forma eficiente.</div><div class=\"p\">&nbsp; &nbsp;  Que para ello, uno de los requisitos fundamentales es obtener un funcionamiento coordinado de los Ministerios y dem&#xE1;s organismos del Sector P&#xFA;blico de acuerdo a un conjunto de medidas y directrices que est&#xE9;n en concordancia con los principios y l&#xED;neas de acci&#xF3;n aprobados por el Gobierno.</div><div class=\"p\">&nbsp; &nbsp;  Que es de imperiosa necesidad informar oportunamente a la opini&#xF3;n p&#xFA;blica acerca de las pol&#xED;ticas de acci&#xF3;n que el Estado lleve a cabo para el desarrollo econ&#xF3;mico y social del pa&#xED;s.-</div><div class=\"p\">&nbsp; &nbsp;  Que es indispensable determinar, con la mayor precisi&#xF3;n posible, las tareas prioritarias de los Ministerios y de los Servicios, Instituciones y Empresas de la Administraci&#xF3;n Centralizada y Descentralizada del Estado.</div><div class=\"p\">&nbsp; &nbsp;  Que es de fundamental conveniencia simplificar y agilizar el funcionamiento administrativo de estos organismos del Estado.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

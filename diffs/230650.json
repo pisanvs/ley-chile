@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-06-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6498299,
+          "old": "<div><div class=\"p\">ESTABLECE NUEVO ORDEN DE SUBROGACION DEL CARGO DE DIRECTOR NACIONAL DEL INSTITUTO NACIONAL DE DEPORTES DE CHILE Y DEJA SIN EFECTO ORDEN DE SUBROGACION QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 65.- Santiago, 2 de agosto de 2004.- Vistos:</div><br><div class=\"p\">a)&nbsp;  La Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica;</div><div class=\"p\">b)&nbsp;  La ley N&#xBA;18.575, Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado;</div><div class=\"p\">c)&nbsp;  La ley N&#xBA;18.834, sobre Estatuto Administrativo;</div><div class=\"p\">d)&nbsp;  Ley N&#xBA;19.712, del Deporte;</div><div class=\"p\">e)&nbsp;  La resoluci&#xF3;n N&#xBA;520 de la Contralor&#xED;a General de la Rep&#xFA;blica, de 15 de noviembre de 1996, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, para una adecuada continuidad del servicio, resulta necesario modificar el actual orden de subrogaci&#xF3;n del cargo de Director Nacional del Instituto Nacional de Deportes de Chile, establecido por el decreto supremo N&#xBA;95 del Ministerio Secretar&#xED;a General de Gobierno, de 4 de agosto de 2003;</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE NUEVO ORDEN DE SUBROGACION DEL CARGO DE DIRECTOR NACIONAL DEL INSTITUTO NACIONAL DE DEPORTES DE CHILE Y DEJA SIN EFECTO ORDEN DE SUBROGACION QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 65.- Santiago, 2 de agosto de 2004.- Vistos:</div><br><div class=\"p\">a)&nbsp;  La Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica;</div><div class=\"p\">b)&nbsp;  La ley N&#xBA;18.575, Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado;</div><div class=\"p\">c)&nbsp;  La ley N&#xBA;18.834, sobre Estatuto Administrativo;</div><div class=\"p\">d)&nbsp;  Ley N&#xBA;19.712, del Deporte;</div><div class=\"p\">e)&nbsp;  La resoluci&#xF3;n N&#xBA;520 de la Contralor&#xED;a General de la Rep&#xFA;blica, de 15 de noviembre de 1996, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, para una adecuada continuidad del servicio, resulta necesario modificar el actual orden de subrogaci&#xF3;n del cargo de Director Nacional del Instituto Nacional de Deportes de Chile, establecido por el decreto supremo N&#xBA;95 del Ministerio Secretar&#xED;a General de Gobierno, de 4 de agosto de 2003;</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

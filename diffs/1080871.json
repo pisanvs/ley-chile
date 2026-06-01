@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-08-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-08-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9632000,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Establ&#xE9;cese el siguiente per&#xED;odo de descanso sanitario coordinado para la agrupaci&#xF3;n de concesiones de acuicultura de salm&#xF3;nidos en la X Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51836.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Establ&#xE9;cese el siguiente per&#xED;odo de descanso sanitario coordinado para la agrupaci&#xF3;n de concesiones de acuicultura de salm&#xF3;nidos en la X Regi&#xF3;n de Los Lagos.</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51836.jpg\">.</div><br><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 6312 Exenta, Econom&#xED;a, publicada el 22.08.2016, modifica la presente norma en el sentido de indicar que solo por el a&#xF1;o 2017, el per&#xED;odo de descanso de la agrupaci&#xF3;n de concesiones N&#xBA; 7, ubicada en la X Regi&#xF3;n, por el siguiente: &quot;Febrero &#x2013; Marzo 2017&quot;.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

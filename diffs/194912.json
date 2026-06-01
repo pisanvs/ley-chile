@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2002-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6370548,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; S&#xF3;lo podr&#xE1;n ingresar a la regi&#xF3;n libre reproductores ovinos, caprinos y bovinos que hayan resultado negativos a la prueba serol&#xF3;gica a Fiebre Q, realizada con una antelaci&#xF3;n no mayor de 30 d&#xED;as, todo lo cual deber&#xE1; constar en un certificado otorgado por el Servicio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; S&#xF3;lo podr&#xE1;n ingresar a la regi&#xF3;n libre reproductores ovinos, caprinos y bovinos que hayan resultado negativos a la prueba serol&#xF3;gica a Fiebre Q, realizada con una antelaci&#xF3;n no mayor de 30 d&#xED;as, todo lo cual deber&#xE1; constar en un certificado otorgado por el Servicio.</div><div class=\"p\">&nbsp; &nbsp;  En <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1121327&amp;idParte=9937734&amp;idVersion=2018-08-02\">Resoluci&#xF3;n 4154 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 02.08.2018</a></span>el caso de dictarse una resoluci&#xF3;n por especie que fije requisitos sanitarios espec&#xED;ficos para el ingreso a la Regi&#xF3;n de Magallanes, prevalecer&#xE1; esta por sobre los requisitos generales anteriormente mencionados.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1121327,
+      "fecha": "2018-08-02"
+    }
+  }
+]

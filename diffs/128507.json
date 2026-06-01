@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1998-12-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8337510,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Conc&#xE9;dese, por gracia, a la menor Johana Carolina Luco Lucero, Rut. 18.043.007-5, domiciliada en la comuna de Rengo, una pensi&#xF3;n equivalente al 50% de un ingreso m&#xED;nimo mensual, hasta el mes de diciembre del a&#xF1;o 2000, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos, es aquel a que hace referencia el inciso 1&#xBA; del art&#xED;culo 5 de la&nbsp; ley N&#xBA; 18.647, que se emplea para fines no remuneracionales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Conc&#xE9;dese, por gracia, a la menor Johana Carolina Luco Lucero, Rut. 18.043.007-5, domiciliada en la comuna de Rengo, una pensi&#xF3;n equivalente al 50% de un ingreso m&#xED;nimo mensual, hasta el mes de diciembre del a&#xF1;o 2000, debiendo considerarse<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> que el monto del ingreso m&#xED;nimo para estos efectos, es aquel a que hace referencia el inciso 1&#xBA; del art&#xED;culo 5 de la ley N&#xBA; 18.647, que se emplea para fines no remuneracionales.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 210, Interior, publicado el 04.05.2001, dej&#xF3; sin efecto la fecha tope de pago, disponiendo que dicha pensi&#xF3;n se pagar&#xE1; hasta diciembre de 2001.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8337510,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Conc&#xE9;dese, por gracia, a la menor Johana Carolina Luco Lucero, Rut. 18.043.007-5, domiciliada en la comuna de Rengo, una pensi&#xF3;n equivalente al 50% de un ingreso m&#xED;nimo mensual, hasta el mes de diciembre del a&#xF1;o 2000, debiendo considerarse<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> que el monto del ingreso m&#xED;nimo para estos efectos, es aquel a que hace referencia el inciso 1&#xBA; del art&#xED;culo 5 de la ley N&#xBA; 18.647, que se emplea para fines no remuneracionales.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 210, Interior, publicado el 04.05.2001, dej&#xF3; sin efecto la fecha tope de pago, disponiendo que dicha pensi&#xF3;n se pagar&#xE1; hasta diciembre de 2001.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Conc&#xE9;dese, por gracia, a la menor Johana Carolina Luco Lucero, Rut. 18.043.007-5, domiciliada en la comuna de Rengo, una pensi&#xF3;n equivalente al 50% de un ingreso m&#xED;nimo mensual, hasta el mes de diciembre del a&#xF1;o 2000, debiendo considerarse<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> que el monto del ingreso m&#xED;nimo para estos efectos, es<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA: 1</a></div> aquel a que hace referencia el inciso 1&#xBA; del art&#xED;culo 5 de la ley N&#xBA; 18.647, que se emplea para fines no remuneracionales.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 210, Interior, publicado el 04.05.2001, dej&#xF3; sin efecto la fecha tope de pago, disponiendo que dicha pensi&#xF3;n se pagar&#xE1; hasta diciembre de 2001. </div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA: 1</a> <br>&nbsp; &nbsp; &nbsp; El DTO 1117, Interior, publicado el 31.01.2002, dej&#xF3; sin efecto la fecha tope de pago, disponiendo que dicha pensi&#xF3;n se pagar&#xE1; hasta diciembre de 2003.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

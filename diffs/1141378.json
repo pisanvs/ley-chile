@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-02-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10094341,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo d&#xE9;cimo. Subprograma de fiscalizaci&#xF3;n ambiental de Planes de Prevenci&#xF3;n y/o Descontaminaci&#xF3;n de la Subsecretar&#xED;a de Salud P&#xFA;blica. Durante el a&#xF1;o 2020, la Subsecretar&#xED;a de Salud P&#xFA;blica ejecutar&#xE1;, por medio de la Secretar&#xED;a Regional Ministerial de Salud respectiva, los siguientes procesos de fiscalizaci&#xF3;n, sobre la base de la asignaci&#xF3;n presupuestaria indicada, respecto de aquellas medidas regulatorias sujetas a fiscalizaci&#xF3;n y sanci&#xF3;n de la Superintendencia.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103896.jpg\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103897.jpg\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103898.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo d&#xE9;cimo. Subprograma de fiscalizaci&#xF3;n ambiental de Planes de Prevenci&#xF3;n y/o Descontaminaci&#xF3;n de la Subsecretar&#xED;a de Salud P&#xFA;blica. Durante el a&#xF1;o 2020, la Subsecretar&#xED;a de Salud P&#xFA;blica ejecutar&#xE1;, por medio de la Secretar&#xED;a Regional Ministerial de Salud respectiva, los siguientes procesos de fiscalizaci&#xF3;n, sobre la base de la asignaci&#xF3;n presupuestaria indicada, respecto de aquellas medidas regulatorias sujetas a fiscalizaci&#xF3;n y sanci&#xF3;n de la Superintendencia.</div><br><br><div class=\"p\">&nbsp;  <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1142166&amp;idParte=10099377&amp;idVersion=2020-02-08\">Resoluci&#xF3;n 186 EXENTA.<br>MEDIO AMBIENTE<br>N&#xB0; 1, 1<br>D.O. 08.02.2020</a></span>&nbsp; </div><br><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103896.jpg\"></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103897.jpg\"></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/104669.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/104692.jpg\">.</div><br><br><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1142166,
+      "fecha": "2020-02-08"
+    }
+  }
+]

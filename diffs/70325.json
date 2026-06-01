@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-04-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-07-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9047938,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese en cada una de las Regiones administrativas del pa&#xED;s las siguientes cuotas totales de extracci&#xF3;n para las pesquer&#xED;as del recurso Loco (Concholepas concholepas) que regir&#xE1;n durante 1997:</div><br><br><div class=\"p\">I&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  116.500 unidades de loco</div><div class=\"p\">II&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 225.000 unidades de loco</div><div class=\"p\">III&nbsp; &nbsp; &nbsp; &nbsp;  236.000 unidades de loco</div><div class=\"p\">IV&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 877.000 unidades de loco</div><div class=\"p\">V&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  423.500 unidades de loco</div><div class=\"p\">VI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  39.000 unidades de loco</div><div class=\"p\">VII&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 66.000 unidades de loco</div><div class=\"p\">VIII&nbsp; &nbsp; &nbsp; &nbsp; 555.200 unidades de loco</div><div class=\"p\">IX&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  18.900 unidades de loco</div><div class=\"p\">X&nbsp; &nbsp; &nbsp; &nbsp;  6.253.200 unidades de loco</div><div class=\"p\">XI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 871.200 unidades de loco</div><div class=\"p\">XII&nbsp; &nbsp; &nbsp; &nbsp;  442.000 unidades de loco</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese en cada una de las Regiones administrativas del pa&#xED;s las siguientes cuotas totales de extracci&#xF3;n para las pesquer&#xED;as del recurso Loco (Concholepas concholepas) que regir&#xE1;n durante 1997:</div><br><br><div class=\"p\">I&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  116.500 unidades de loco</div><div class=\"p\">II&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 225.000 unidades de loco</div><div class=\"p\">III&nbsp; &nbsp; &nbsp; &nbsp;  236.000 unidades de loco</div><div class=\"p\">IV&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 877.000 unidades de loco</div><div class=\"p\">V&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  605.000 unidades de loco<span class=\"n\" id=\"n_0\">DTO 529 EX, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 28.07.1997</span></div><div class=\"p\">VI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  39.000 unidades de loco</div><div class=\"p\">VII&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 66.000 unidades de loco</div><div class=\"p\">VIII&nbsp; &nbsp; &nbsp; &nbsp; 555.200 unidades de loco</div><div class=\"p\">IX&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  18.900 unidades de loco</div><div class=\"p\">X&nbsp; &nbsp; &nbsp; &nbsp;  6.253.200 unidades de loco</div><div class=\"p\">XI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 871.200 unidades de loco</div><div class=\"p\">XII&nbsp; &nbsp; &nbsp; &nbsp;  442.000 unidades de loco</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2000-05-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7270212,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Ser&#xE1; competente para el conocimiento de las infracciones a lo establecido en el art&#xED;culo 3&#xBA; A de la ley N&#xBA;17.798, el juez de polic&#xED;a local del lugar en que se hubieren cometido, aplic&#xE1;ndose a este efecto el procedimiento sobre faltas establecido en la ley N&#xBA;18.287, y concedi&#xE9;ndose acci&#xF3;n p&#xFA;blica para la denuncia.</div><div class=\"p\">&nbsp; &nbsp;  Las infracciones ser&#xE1;n sancionadas con multa de 10 a 50 unidades tributarias mensuales, sin perjuicio de la facultad del juez para decretar, en caso de reincidencia, la clausura, hasta por 30 d&#xED;as, del establecimiento industrial, artesanal, comercial o importador en que se hubiere vulnerado la norma.</div><div class=\"p\">&nbsp; &nbsp;  En el caso que la infracci&#xF3;n incidiere en la fabricaci&#xF3;n de estos elementos, la sanci&#xF3;n ser&#xE1; multa de 25 a 75 unidades tributarias mensuales y la clausura definitiva del establecimiento.</div><div class=\"p\">&nbsp; &nbsp;  El juez deber&#xE1; decretar, en todo caso, el comiso de las especies incautadas, las que ser&#xE1;n puestas a disposici&#xF3;n de la Direcci&#xF3;n General de Movilizaci&#xF3;n Nacional, para los fines que &#xE9;sta estime pertinentes, a trav&#xE9;s de las Autoridades Fiscalizadoras a que se refieren la ley N&#xBA;17.798 y su Reglamento.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 2&#xBA;.- Derogad<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1155423&amp;idParte=10198480&amp;idVersion=2021-02-03\">Ley 21310<br>Art. 2<br>D.O. 03.02.2021</a></span>o.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1155423,
+      "fecha": "2021-02-03"
+    }
+  }
+]

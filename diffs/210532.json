@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-12-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6424487,
+          "old": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;PESQUERA LARUS LTDA.&quot; PARA AMPLIAR SUS ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A LA SOCIEDAD &quot;PESQUERA LARUS LTDA.&quot; PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

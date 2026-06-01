@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-07-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-03-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7255606,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO No. 130, DE 1985</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 71.- Santiago, 8 de Junio de 1987.- Visto: los decretos N&#xB0;s. 130, de 1985, y 50, de 1987, ambos del Ministerio de Agricultura; lo dispuesto en el art&#xED;culo 23, inciso segundo, del DFL No. 338, de 1960; lo establecido en el art&#xED;culo 32&#xB0;, No. 8, de la Constituci&#xF3;n Pol&#xED;tica del Estado, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que por decreto No. 130, de 1985, del Ministerio de Agricultura, se dispuso que el Subsecretario de Agricultura fuese subrogado, en caso de ausencia o impedimento transitorio, por don Arturo Venegas Palacios, Vicepresidente Ejecutivo del Instituto de Desarrollo Agrope cuario.</div><div class=\"p\">&nbsp; &nbsp;  Que, en virtud del decreto No. 50, de 1987, del Ministerio de Agricultura, don Arturo Venegas ha pasado a desempe&#xF1;arse como Director de la Oficina de Planificaci&#xF3;n Agr&#xED;cola, por lo que se hace necesario modificar el decreto No. 130 antes citado, para la debida concordancia entre el nombre y el cargo del funcionario a quien corresponde subrogar al Subsecretario de Agricultura,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO No. 130, DE 1985</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 71.- Santiago, 8 de Junio de 1987.- Visto: los decretos N&#xB0;s. 130, de 1985, y 50, de 1987, ambos del Ministerio de Agricultura; lo dispuesto en el art&#xED;culo 23, inciso segundo, del DFL No. 338, de 1960; lo establecido en el art&#xED;culo 32&#xB0;, No. 8, de la Constituci&#xF3;n Pol&#xED;tica del Estado, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que por decreto No. 130, de 1985, del Ministerio de Agricultura, se dispuso que el Subsecretario de Agricultura fuese subrogado, en caso de ausencia o impedimento transitorio, por don Arturo Venegas Palacios, Vicepresidente Ejecutivo del Instituto de Desarrollo Agrope cuario.</div><div class=\"p\">&nbsp; &nbsp;  Que, en virtud del decreto No. 50, de 1987, del Ministerio de Agricultura, don Arturo Venegas ha pasado a desempe&#xF1;arse como Director de la Oficina de Planificaci&#xF3;n Agr&#xED;cola, por lo que se hace necesario modificar el decreto No. 130 antes citado, para la debida concordancia entre el nombre y el cargo del funcionario a quien corresponde subrogar al Subsecretario de Agricultura,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

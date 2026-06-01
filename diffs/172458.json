@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-07-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7271706,
+          "old": "<div><div class=\"p\">AUTO ACORDADO SOBRE TRAMITACION Y FALLO DE LAS RECLAMACIONES RELATIVAS A LAS DECLARACIONES DE CANDIDATURAS A CARGOS DE CONCEJALES</div><br><div class=\"p\">&nbsp; &nbsp;  En Talca, a treinta de junio de dos mil, se reuni&#xF3; este Tribunal Electoral Regional de la S&#xE9;ptima Regi&#xF3;n en sesi&#xF3;n extraordinaria, con asistencia de sus miembros titulares, Ministro de la I. Corte de Apelaciones de Talca, don Luis Carrasco Gonz&#xE1;lez, quien lo presidi&#xF3;, del abogado se&#xF1;or Alfonso Parot Silva, y del abogado se&#xF1;or Juan Carlos Alvarez Valderrama. Actu&#xF3; el se&#xF1;or Secretario Relator don Cristi&#xE1;n E. Hurtado Preisler.</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo en consideraci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  Que de conformidad con lo dispuesto en los art&#xED;culos 114 y 115 de la ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades, corresponde a los Tribunales Electorales Regionales conocer de las reclamaciones que se interpongan con motivo de las declaraciones de candidaturas a los cargos de Concejales Municipales.</div><div class=\"p\">&nbsp; &nbsp;  Que, para los efectos de reglar la tramitaci&#xF3;n y fallo de dichas reclamaciones y en ejercicio de la competencia que entregan los art&#xED;culos 10 y 34 de la ley N&#xBA; 18.593, sobre Tribunales Electorales Regionales, se acord&#xF3; dictar el siguiente Auto Acordado:</div><br></div>",
+          "new": "<div><br><div class=\"p\">AUTO ACORDADO SOBRE TRAMITACION Y FALLO DE LAS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> RECLAMACIONES RELATIVAS A LAS DECLARACIONES DE CANDIDATURAS A CARGOS DE CONCEJALES</div><br><div class=\"p\">&nbsp; &nbsp;  En Talca, a treinta de junio de dos mil, se reuni&#xF3; este Tribunal Electoral Regional de la S&#xE9;ptima Regi&#xF3;n en sesi&#xF3;n extraordinaria, con asistencia de sus miembros titulares, Ministro de la I. Corte de Apelaciones de Talca, don Luis Carrasco Gonz&#xE1;lez, quien lo presidi&#xF3;, del abogado se&#xF1;or Alfonso Parot Silva, y del abogado se&#xF1;or Juan Carlos Alvarez Valderrama. Actu&#xF3; el se&#xF1;or Secretario Relator don Cristi&#xE1;n E. Hurtado Preisler.</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo en consideraci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  Que de conformidad con lo dispuesto en los art&#xED;culos 114 y 115 de la ley N&#xBA; 18.695, Org&#xE1;nica Constitucional de Municipalidades, corresponde a los Tribunales Electorales Regionales conocer de las reclamaciones que se interpongan con motivo de las declaraciones de candidaturas a los cargos de Concejales Municipales.</div><div class=\"p\">&nbsp; &nbsp;  Que, para los efectos de reglar la tramitaci&#xF3;n y fallo de dichas reclamaciones y en ejercicio de la competencia que entregan los art&#xED;culos 10 y 34 de la ley N&#xBA; 18.593, sobre Tribunales Electorales Regionales, se acord&#xF3; dictar el siguiente Auto Acordado:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El AA-S/N el Tribunal Electoral de la VII Regi&#xF3;n, publicado el 05.08.2004, reemplaz&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

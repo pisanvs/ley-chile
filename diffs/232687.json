@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1983-11-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-10-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8842860,
+          "old": "<div><div class=\"p\">APRUEBA PLAN REGULADOR COMUNAL DE FRUTILLAR</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 12 de Septiembre de 1983.- Hoy se decret&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 150.- Visto: Lo dispuesto en los art&#xED;culos 2&#xBA; y 9&#xBA; de la Ley N&#xBA; 16.391 y 12&#xBA; letra i) del D.L. N&#xBA; 1.305 de 1976; los art&#xED;culos 41&#xBA; al 44&#xBA; y 54&#xBA; del D.F.L.</div><div class=\"p\">N&#xBA; 458, (V. y U.), de 1975, Ley General de Urbanismo y Construcciones; el art&#xED;culo 550 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n; el decreto alcaldicio N&#xBA; 79, de 17 de Diciembre de 1982, de la Ilustre Municipalidad de Frutillar; el ordinario N&#xBA; 747, de 19 de Mayo de 1982, del Director Regional SENDOS X Regi&#xF3;n de Los Lagos; el ordinario N&#xBA; 643, de 6 de Diciembre de 1982 del se&#xF1;or Subsecretario de Agricultura; el ordinario N&#xBA; 445, de 17 de Junio de 1983, de la Secretar&#xED;a Ministerial de Vivienda y Urbanismo X Regi&#xF3;n de Los Lagos; el ordinario N&#xBA; 229, de 25 Julio de 1983, de la Divisi&#xF3;n de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, y los dem&#xE1;s antecedentes que se acompa&#xF1;an,</div><br><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA PLAN REGULADOR COMUNAL DE FRUTILLAR</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 12 de Septiembre de 1983.- Hoy se decret&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 150.- Visto: Lo dispuesto en los art&#xED;culos 2&#xBA; y 9&#xBA; de la Ley N&#xBA; 16.391 y 12&#xBA; letra i) del D.L. N&#xBA; 1.305 de 1976; los art&#xED;culos 41&#xBA; al 44&#xBA; y 54&#xBA; del D.F.L.</div><div class=\"p\">N&#xBA; 458, (V. y U.), de 1975, Ley General de Urbanismo y Construcciones; el art&#xED;culo 550 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n; el decreto alcaldicio N&#xBA; 79, de 17 de Diciembre de 1982, de la Ilustre Municipalidad de Frutillar; el ordinario N&#xBA; 747, de 19 de Mayo de 1982, del Director Regional SENDOS X Regi&#xF3;n de Los Lagos; el ordinario N&#xBA; 643, de 6 de Diciembre de 1982 del se&#xF1;or Subsecretario de Agricultura; el ordinario N&#xBA; 445, de 17 de Junio de 1983, de la Secretar&#xED;a Ministerial de Vivienda y Urbanismo X Regi&#xF3;n de Los Lagos; el ordinario N&#xBA; 229, de 25 Julio de 1983, de la Divisi&#xF3;n de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, y los dem&#xE1;s antecedentes que se acompa&#xF1;an,</div><br><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

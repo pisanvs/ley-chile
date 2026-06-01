@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1989-01-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-10-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9001578,
+          "old": "<div><div class=\"p\">Art&#xED;culo 1&#xB0;.- Autor&#xED;zase el funcionamiento del &quot;Instituto Profesional Alem&#xE1;n de Valpara&#xED;so&quot; con domicilio en la ciudad de Valpara&#xED;so, Cerro Concepci&#xF3;n, calle Pilcomayo N&#xB0; 499, instituto organizado por la Corporaci&#xF3;n Colegio Alem&#xE1;n de Valpara&#xED;so. La representaci&#xF3;n legal corresponde al Directorio, el cual se compone de nueve miembros los que a continuaci&#xF3;n se se&#xF1;ala: Pedro Roth Urban; Ronald Hoehmann Reschke; Ernesto Mex Luetjen; Carlos Ivens Hartog; M&#xF3;nica Petermann H&#xF6;nig; Paul Duclos Hertzer; Santiago Birer Castillo; Ove Cornils Deinert y Erwin Walter Grune Aravena. El fin del instituto ser&#xE1; la formaci&#xF3;n de recursos humanos calificados en el nivel profesional para satisfacer las demandas de la producci&#xF3;n y servicios que el pa&#xED;s requiera. Podr&#xE1; otorgar t&#xED;tulos profesionales y t&#xE9;cnicos que correspondan excepto aquellos que la ley reserva exclusivamente a las universidades.</div><br></div>",
+          "new": "<div><div class=\"p\"> Art&#xED;culo 1&#xB0;.- Autor&#xED;zase el funcionamiento del Instituto<span class=\"n\" id=\"n_0\">DTO 448 EXENTO,<br>EDUCACION<br>D.O. 11.10.1995</span> Profesional que se indica, organizado por la persona jur&#xED;dica que se se&#xF1;ala: Nombre de la</div><div class=\"p\">Instituci&#xF3;n : Instituto Profesional Alem&#xE1;n de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Valpara&#xED;so.</div><div class=\"p\">Domicilio :&nbsp;  Valpara&#xED;so.</div><div class=\"p\">Organizador : Corporaci&#xF3;n Instituto Profesional</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Alem&#xE1;n de Valpara&#xED;so.</div><div class=\"p\">El fin del instituto ser&#xE1; la formaci&#xF3;n de recursos humanos calificados en el nivel profesional para satisfacer las demandas de la producci&#xF3;n y servicios que el pa&#xED;s requiera. Podr&#xE1; otorgar t&#xED;tulos profesionales y t&#xE9;cnicos que correspondan excepto aquellos que la ley reserva exclusivamente a las universidades.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

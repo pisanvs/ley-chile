@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-09-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1975-10-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9343313,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Articulo 1&#xB0;- Apru&#xE9;base el siguiente Plan Especial de Estudios para el Departamento Comercial del Iquique English College, que forma T&#xE9;cnicos Comerciales con menci&#xF3;n en Contabilidad y Secretariado Biling&#xFC;e:</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/32078.jpg\"></div><div class=\"p\">&nbsp; &nbsp;  Asignaturas ense&#xF1;adas en Ingl&#xE9;s.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Articulo 1&#xB0;- Apru&#xE9;base el siguiente Plan Especial de Estudios para el Departamento Comercial del Iquique English College, que forma T&#xE9;cnicos Comerciales con menci&#xF3;n en Contabilidad y Secretariado Biling&#xFC;e:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/32078.jpg\"></div><div class=\"p\">&nbsp; &nbsp;  Asignaturas ense&#xF1;adas en Ingl&#xE9;s.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xDA;nico del Decreto 746, Educaci&#xF3;n, publicado el 09.10.1975, modifica la presente norma en el sentido de: 1&#xB0;) Aumenta 1 hora semanal en cada curso de 1&#xB0; a 4&#xB0; en la asignatura de Castellano del Plan General; 2&#xB0;) Suprime en el Plan General las asignaturas de Gram&#xE1;tica Ingl&#xE9;s y Conversaci&#xF3;n Ingl&#xE9;s y 3&#xB0;) agrega al Plan Diferenciado las asignaturas de: Gram&#xE1;tica Ingl&#xE9;s, con 4 horas semanales en cada curso de 1&#xB0; a 4&#xB0; a&#xF1;o, y Conversaci&#xF3;n Ingl&#xE9;s, con 4 horas semanales en 1er. a&#xF1;o.</div></div>"
+        }
+      ]
+    }
+  }
+]

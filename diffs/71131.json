@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-05-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-10-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8956264,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Trat&#xE1;ndose de viviendas b&#xE1;sicas emplazadas en las comunas que se indican de la IV Regi&#xF3;n de Coquimbo, el monto m&#xE1;ximo del subsidio habitacional a que se refiere la letra b) del art&#xED;culo 21 del D.S. N&#xBA; 62 (V. y U.), de 1984, ascender&#xE1; al equivalente a 162 Unidades de Fomento en la comuna de Combarbal&#xE1;, a 160 Unidades de Fomento en la comuna de Monte Patria, a 147 Unidades de Fomento en la comuna de Coquimbo y a 146 Unidades de Fomento en la comuna de Illapel, siendo la diferencia, en que se incluye el ahorro, de cargo del beneficiario. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Trat&#xE1;ndose de viviendas b&#xE1;sicas emplazadas en las comunas que se indican de la IV Regi&#xF3;n de Coquimbo, el monto m&#xE1;ximo del subsidio habitacional a que se refiere la letra b) del art&#xED;culo 21 del D.S. N&#xBA; 62 (V. y U.), de 1984, ascender&#xE1; al equivalente a 162 Unidades de Fomento en la comuna de Combarbal&#xE1;, a 160 Unidades de Fomento en la comuna de Monte Patria, a 147 Unidades de Fomento en la comuna de Coquimbo y de 161 Unidades de Fomento en la<span class=\"n\" id=\"n_0\">RES 489, VIVIENDA<br>D.O. 14.10.1997</span> comuna de Illapel, siendo la diferencia, en que se incluye el ahorro, de cargo del beneficiario. </div></div>"
+        }
+      ]
+    }
+  }
+]

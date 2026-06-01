@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2018-11-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-04-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [
+        {
+          "part_id": 9960553,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7. Plazo para remitir la informaci&#xF3;n al Software DGA</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Vencido el plazo de 180 d&#xED;as corridos referido en el art&#xED;culo sexto precedente, el titular de derechos de aprovechamiento de aguas subterr&#xE1;neas dentro del plazo de los siguientes 60 d&#xED;as corridos deber&#xE1; obtener el &quot;C&#xF3;digo de Obra de Captaci&#xF3;n&quot; que proveer&#xE1; el Software DGA de Control de Extracciones y deber&#xE1; comenzar a remitir la informaci&#xF3;n que se obtenga de las mediciones a dicho software, esto es, caudales, vol&#xFA;menes extra&#xED;dos y niveles fre&#xE1;ticos.</div></div>",
+          "new": null
+        }
+      ],
+      "changed": [
+        {
+          "part_id": 9960552,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6. Plazo para la Instalaci&#xF3;n del Sistema de Medici&#xF3;n de Extracciones y del Sistema de Transmisi&#xF3;n al Software DGA</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Los titulares de derechos de aprovechamiento de aguas subterr&#xE1;neas cuyos puntos de captaci&#xF3;n se ubican en la provincia de Petorca, Regi&#xF3;n de Valpara&#xED;so, tendr&#xE1;n un plazo de 180 d&#xED;as corridos contados desde la fecha de publicaci&#xF3;n en el Diario Oficial de la resoluci&#xF3;n DGA (exenta) Regi&#xF3;n de Valpara&#xED;so en que se ordene el control de extracciones en la provincia de Petorca, para instalar tanto el sistema de medici&#xF3;n de extracciones como el sistema de transmisi&#xF3;n al Software DGA.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6. Plazo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1130497&amp;idParte=10015943&amp;idVersion=2019-04-15\">Resoluci&#xF3;n 475 EXENTA,<br>OBRAS P&#xDA;BLICAS<br>N&#xB0; 1<br>D.O. 15.04.2019</a></span>para la instalaci&#xF3;n del Sistema de Medici&#xF3;n de Extracciones y del Sistema de Transmisi&#xF3;n al Software DGA, as&#xED; como para remitir la informaci&#xF3;n al Software DGA</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Los plazos para la instalaci&#xF3;n del sistema de medici&#xF3;n extracciones y del sistema de transmisi&#xF3;n al software DGA, as&#xED; como para remitir la informaci&#xF3;n al software DGA ser&#xE1;n establecidos mediante resoluci&#xF3;n DGA Regi&#xF3;n de Valpara&#xED;so.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1130497,
+      "fecha": "2019-04-15"
+    }
+  },
+  {
+    "fecha": "2019-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

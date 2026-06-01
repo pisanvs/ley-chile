@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-11-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-04-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7225915,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 2.368, DE 1989 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA No. 2.368, DE 1989 </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

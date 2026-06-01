@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-05-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-06-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6697667,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 546 EXENTA, DE 2004 - SEPTIMO LLAMADO POSTULACION SISTEMA SUBSIDIO HABITACIONAL D.S.</div><div class=\"p\">N&#xBA; 40 DE V. Y U. DE 2004 </div></div>",
+          "new": "<div><br><div class=\"p\"> EXTRACTO DE RESOLUCION N&#xBA; 546 EXENTA, DE 2004 - CUARTO<span class=\"n\" id=\"n_0\">AVI S/N, VIVIENDA<br>D.O. 12.06.2004</span></div><div class=\"p\">LLAMADO POSTULACION SISTEMA SUBSIDIO HABITACIONAL D.S.</div><div class=\"p\">N&#xBA; 40.</div><br></div>"
+        }
+      ]
+    }
+  }
+]
