@@ -1,8 +1,12 @@
-name: Fetch and Build
+# ARCHIVED 2026-06-01 — superseded by pipeline.yml.
+# Schedule removed. workflow_dispatch preserved for emergency manual use only.
+# All functionality has been consolidated into .github/workflows/pipeline.yml,
+# which calls python scripts/leychile.py <command> for environment-agnostic
+# operation. Delete this file once pipeline.yml is confirmed stable.
+name: "[ARCHIVED] Fetch and Build"
 
 on:
-  schedule:
-    - cron: "0 */3 * * *"
+  # schedule disabled — use pipeline.yml
   workflow_dispatch:
     inputs:
       version_budget:

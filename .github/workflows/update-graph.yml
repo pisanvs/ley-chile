@@ -1,17 +1,14 @@
-name: Update Graph
+# ARCHIVED 2026-06-01 — superseded by pipeline.yml.
+# Graph refresh (fetch-graph phase) is now part of pipeline.yml and runs
+# automatically when the graph is stale (>7 days old). The 30-min bootstrap
+# loop is replaced by the conditional stale-check in the fetch-graph job.
+# Schedule removed. workflow_dispatch preserved for emergency manual use only.
+# Delete this file once pipeline.yml is confirmed stable.
+name: "[ARCHIVED] Update Graph"
 
 on:
   workflow_dispatch:
-  schedule:
-    # BOOTSTRAP MODE — every 30 min.  Combined with the pipeline-graph
-    # concurrency group (cancel-in-progress: false), each tick queues a
-    # *pending* successor that starts the instant the active 6h run ends,
-    # so the graph fetch self-chains across the 6h wall-clock limit until
-    # graph_shards/ reaches the 95% publish threshold and lands on main.
-    # Post-bootstrap these become cheap no-ops (catalog skips, fetch_normas
-    # reports "Nothing to do").  REVERT to "0 6 * * 1" (weekly) once the
-    # graph is published, or it keeps firing forever.
-    - cron: "*/30 * * * *"
+  # schedule disabled — graph refresh is now in pipeline.yml (fetch-graph job)
 
 concurrency:
   group: pipeline-graph

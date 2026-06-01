@@ -1,9 +1,11 @@
-name: Daily sync
+# ARCHIVED 2026-06-01 — superseded by pipeline.yml.
+# The opt=40 recent-norma discovery is now a fetch-versions capability.
+# Schedule removed. workflow_dispatch preserved for emergency manual use only.
+# Delete this file once pipeline.yml is confirmed stable.
+name: "[ARCHIVED] Daily sync"
 
 on:
-  schedule:
-    # 05:00 Chile Standard Time = 08:00 UTC (CLT is UTC-3, CLST is UTC-4)
-    - cron: "0 8 * * *"
+  # schedule disabled — use pipeline.yml
   workflow_dispatch:
     inputs:
       days:
