@@ -49,7 +49,6 @@ if str(_SCRIPTS_DIR) not in sys.path:
 # guarantees byte-equivalence of file payloads.
 from build_history import (  # noqa: E402
     _commit_subject_causa,
-    _find_successor,
     _law_dir_from_node,
     _scope_for_node,
     _version_files,
@@ -322,8 +321,14 @@ def collect_publications(
                 )
             )
 
-            # Derogation on the final version: queue deletes + optional
-            # successor symlink onto the affected law's change set.
+            # Derogation on the final version: queue deletes.
+            # Successor symlinks are intentionally omitted here.
+            # _find_successor reads 'reemplazadaPor'/'derogadaPor' from the
+            # graph dict, but fetch_normas.py (the current graph builder) does
+            # not populate those fields — they were only present in the legacy
+            # trace_graph.py era. The real graph has none, so the symlink branch
+            # in legacy _collect_events was already dead. Step 5 will wire
+            # symlinks properly once the graph builder emits successor edges.
             if is_last and derogado:
                 change_set.deletes.extend(
                     [
@@ -331,30 +336,5 @@ def collect_publications(
                         str(affected_rel_dir / "metadata.json"),
                     ]
                 )
-                succ_numero = _find_successor(legacy_graph, id_norma)
-                if succ_numero:
-                    succ_node = next(
-                        (
-                            n
-                            for n in legacy_graph.values()
-                            if str(n.get("numero")) == str(succ_numero)
-                        ),
-                        None,
-                    )
-                    if succ_node:
-                        succ_id = int(
-                            next(
-                                (
-                                    k
-                                    for k, v in legacy_graph.items()
-                                    if v is succ_node
-                                ),
-                                0,
-                            )
-                        )
-                        succ_rel = _law_dir_from_node(
-                            succ_node, succ_id, data_root
-                        ).relative_to(data_root)
-                        change_set.symlinks[str(affected_rel_dir)] = str(succ_rel)
 
     return sorted(pubs_by_cause.values(), key=Publication.sort_key)
